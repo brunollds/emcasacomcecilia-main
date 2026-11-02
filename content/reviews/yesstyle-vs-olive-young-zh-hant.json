@@ -3,8 +3,8 @@
   "slug": "yesstyle-vs-olive-young-zh-hant",
   "locale": "zh-hant",
   "translationKey": "yesstyle-vs-olive-young",
-  "title": "YesStyle 還是 Olive Young？台灣與香港的運送、運費、稅費與退貨比較",
-  "seoTitle": "YesStyle 與 Olive Young 比較：台灣、香港運送與退貨",
+  "title": "YesStyle 還是 Olive Young？免運、稅金、退貨與點數比較",
+  "seoTitle": "YesStyle 與 Olive Young 比較：免運、稅金與退貨",
   "type": "購物平台比較",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,12 +15,12 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "把 YesStyle 和 Olive Young Global 放在一起比：包括葡萄牙在內的 23 個國家分別寄不寄、滿多少免運、稅金誰來付、兩家各接受哪些退貨，全部依據官方頁面整理。",
+  "description": "把 YesStyle 和 Olive Young Global 放在一起比：23 個國家分別寄不寄、滿多少免運、稅金誰來付、兩家各接受哪些退貨，全部依據官方頁面整理。",
   "metaDescription": "YesStyle 還是 Olive Young？依國家比較免運門檻、送達時間、稅金與退貨，依據官方頁面。",
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
   "imageAlt": "Cecília 手拿 YesStyle 寄來的 Abib Glazed Jelly 唇膜，畫面帶有 YesStyle 標誌與標題「YesStyle vs Olive Young」",
@@ -32,38 +32,18 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "要看你住在哪個國家。兩家都寄的地方，免運門檻、稅金與退貨規定會決定選擇；各國的選法請見「該選哪一家，看所在國家」這一章。"
+        "要看你更重視什麼。退貨方面，YesStyle 比較有彈性：14 天內申請，接受因改變心意而退貨與更換尺寸；Olive Young Global 只接受瑕疵或寄錯的商品，期限為 30 天。免運門檻與稅金因國家而異，請見「該選哪一家，看所在國家」這一章。"
       ]
     },
     {
       "heading": "你所在的國家，哪一家寄得到",
       "paragraphs": [
-        "要看你住在哪個國家。YesStyle 公布了比較表中 23 個國家的運送時間與運費。Olive Young Global 公布了其中 10 個國家的運送時間，且不寄往美國（美國有它自己的美國站）。其餘 22 個國家，兩家的比較結果因國而異。",
-        "每一列是一個國家，最後一列彙整其餘國家。YesStyle 這一欄依據 2026年10月13日 公布的運費表；Olive Young 這一欄依據 2026年10月21日 查閱的運送頁面。店家沒有公布運送時間或運費的地方，儲存格裡會直接寫明。"
+        "要看你住在哪個國家。YesStyle 公布了比較表中 23 個國家的運送時間與運費。Olive Young Global 公布了其中 10 個國家的運送時間，且不寄往美國（美國有它自己的美國站）。兩家的比較結果因國而異。",
+        "YesStyle 的資料依據2026年10月13日公布的運費表；Olive Young 的資料依據2026年10月21日查閱的運送頁面。店家沒有公布運送時間或運費的地方，圖中會直接標明。"
       ],
-      "comparisonTable": {
-        "headers": [
-          "國家",
-          "YesStyle",
-          "Olive Young Global"
-        ],
-        "rows": [
-          [
-            "葡萄牙",
-            "Standard，10 至 15 個工作天；滿 US$60 免運",
-            "有寄送；滿 US$60 免運，運送時間未公布"
-          ],
-          [
-            "其他國家",
-            "運送時間與免運門檻因國家而異；請在結帳頁填入地址後確認",
-            "多數目的地滿 US$60 免運（未滿為 US$25）；運送時間在結帳頁顯示"
-          ]
-        ],
-        "caption": "各國的運送時間與免運門檻：YesStyle 依據運費表，Olive Young Global 依據運送頁面與運費 FAQ。"
-      },
       "postParagraphs": [
         "Olive Young 沒有公布該國運送時間的話，適用運費 FAQ 的通則（滿 US$60 免運，未滿為 US$25；馬來西亞與新加坡為 US$5），運送時間要填入地址後的結帳頁才會顯示。",
-        "全球站的目的地選單裡沒有四個國家：西班牙、阿根廷、秘魯與美國。在美國，Olive Young 透過自己的美國站銷售。Olive Young 的表格另有一列「其他地區」（15 天，US$60），但沒有列出國家。"
+        "全球站的目的地選單裡沒有四個國家：西班牙、阿根廷、秘魯與美國。在美國，Olive Young 透過自己的美國站銷售。Olive Young 的表格另有一行「其他地區」（15 天，US$60），但沒有列出國家。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
@@ -77,9 +57,8 @@
       "heading": "免運與運送時間",
       "paragraphs": [
         "運送時間指的是運輸所需的時間，不是從下單到送到家門口的整段時間。在 YesStyle，商品從香港倉庫出貨所需的時間要加進運送時間：有庫存的商品會在 1 至 3 個工作天內出貨。Olive Young 只顯示運送時間，不含出貨時間。不要把兩家的數字相加：YesStyle 以工作天計算，Olive Young 只寫「天」（days），沒有說明是不是工作天。",
-        "**葡萄牙。** YesStyle 的 Standard 運送為 10 至 15 個工作天，可追蹤。只含有庫存商品的訂單，11 至 18 個工作天送達；若有需等待 7 至 14 天到貨的商品，則延長為 17 至 29 個工作天。運費滿 US$60 免費（禮品包裝不計入這個金額），未滿為 US$5。Olive Young 有寄往葡萄牙，但運送表裡沒有這個國家：依運費 FAQ，滿 US$60 免運，未滿為 US$25，以未折扣的商品價格計算。運送時間沒有公布，店家只寫明會在 1 至 3 個工作天內備貨並包裝訂單。想比較運送時間，請在兩家的結帳頁都填入葡萄牙地址。未達最低金額時，YesStyle 的運費便宜許多。",
-        "**其他國家。** 在兩家都寄的國家，Olive Young 有些地方的運送時間比較短：英國（4 至 5 天，YesStyle 的 Premium Standard 為 5 至 12 個工作天）、加拿大（5 至 7 天，YesStyle 為 7 至 14 天）、澳洲（4 至 5 天，YesStyle 為 6 至 8 天）、法國與德國（4 至 5 天，YesStyle 為 10 至 15 天），以及墨西哥（8 至 9 天，YesStyle 為 10 至 13 天）。在亞洲，YesStyle 因為使用 Express，在香港（1 至 3 天，Olive Young 為 3 至 5 天）、日本（4 至 5 天，Olive Young 為 6 至 7 天）與新加坡（3 至 5 天，Olive Young 為 5 至 6 天）比較快。比較時務必對照各家的運送方式。",
-        "**免運。** Olive Young 在比較表中的多數國家滿 US$60 免運；台灣的門檻是 US$35，日本是 ¥3,900。YesStyle 在香港、馬來西亞、美國（Standard）與澳洲（Premium Standard）為 US$35；在歐洲大陸、西班牙、墨西哥與哥倫比亞為 US$45；在日本、韓國、台灣、新加坡、英國與加拿大為 US$50；在葡萄牙、智利、秘魯與阿根廷為 US$60。未達門檻時，YesStyle 在多數國家收 US$3 至 US$8。"
+        "**各國的運送時間。** 在兩家都寄的國家，Olive Young 有些地方的運送時間比較短：英國（4 至 5 天，YesStyle 的 Premium Standard 為 5 至 12 個工作天）、加拿大（5 至 7 天，YesStyle 為 7 至 14 天）、澳洲（4 至 5 天，YesStyle 為 6 至 8 天）、法國與德國（4 至 5 天，YesStyle 為 10 至 15 天），以及墨西哥（8 至 9 天，YesStyle 為 10 至 13 天）。在亞洲，YesStyle 因為使用 Express，在香港（1 至 3 天，Olive Young 為 3 至 5 天）、日本（4 至 5 天，Olive Young 為 6 至 7 天）與新加坡（3 至 5 天，Olive Young 為 5 至 6 天）比較快。比較時務必對照各家的運送方式。",
+        "**免運。** Olive Young 在比較表中的多數國家滿 US$60 免運；台灣的門檻是 US$35，日本是 ¥3,900。YesStyle 在香港、馬來西亞、美國（Standard）與澳洲（Premium Standard）為 US$35；在歐洲大陸、西班牙、墨西哥與哥倫比亞為 US$45；在日本、韓國、台灣、新加坡、英國與加拿大為 US$50；在智利、秘魯與阿根廷為 US$60。未達門檻時，YesStyle 在多數國家收 US$3 至 US$8。"
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -93,8 +72,8 @@
       "heading": "稅金由誰負擔",
       "paragraphs": [
         "稅金因國家而異，兩家都是如此。Olive Young 在部分國家於結帳時收取稅金，在另一些國家則由顧客在收貨時負擔。",
-        "**Olive Young。** 頁面把國家分成幾組。在英國、挪威、澳洲與新加坡，稅金在購買時收取。英國對超過 £135 的訂單可能收取 VAT 與手續費；挪威 VAT 為 25%，澳洲 GST 為 10%，新加坡為 9%。在歐盟，自 2026年7月31日 起的訂單，你填入地址後，結帳頁會計算並收取該國的 VAT，以及每個 HS 編碼（海關品類）€3 的進口關稅；運費含在內未滿 US$60 的訂單，VAT 也會加在運費上。店家表示收貨時不會再收其他費用。在加拿大與以色列，則在收貨時收取：加拿大對超過 CA$20 的訂單可能收取 VAT，以色列對超過 US$75 的訂單收取手續費，當地的承運商也可能收費。葡萄牙屬於歐盟，所以 Olive Young 的稅金已經顯示在結帳頁的總額裡。店家不接受因稅金或進口費用而退貨或退款（歐盟稅金 FAQ）。",
-        "**YesStyle。** 在葡萄牙，23% 的 VAT 已含在商品價格裡，並在結帳時加到運費上。自 2026年7月1日 起，歐盟對 €150 以下的包裹按每個海關品類收取 €3，YesStyle 表示目前由它替顧客支付這筆費用（運送文章）。收貨時被收取的海關費用，如果訂單低於 US$1,000，在 30 天內寄上收據，會以店內額度退還。"
+        "**Olive Young。** 頁面把國家分成幾組。在英國、挪威、澳洲與新加坡，稅金在購買時收取。英國對超過 £135 的訂單可能收取 VAT 與手續費；挪威 VAT 為 25%，澳洲 GST 為 10%，新加坡為 9%。在歐盟，自2026年7月31日起的訂單，你填入地址後，結帳頁會計算並收取該國的 VAT，以及每個 HS 編碼（海關品類）€3 的進口關稅；運費含在內未滿 US$60 的訂單，VAT 也會加在運費上。店家表示收貨時不會再收其他費用。在加拿大與以色列，則在收貨時收取：加拿大對超過 CA$20 的訂單可能收取 VAT，以色列對超過 US$75 的訂單收取手續費，當地的承運商也可能收費。店家不接受因稅金或進口費用而退貨或退款（歐盟稅金 FAQ）。",
+        "**YesStyle。** 自2026年7月1日起，歐盟對 €150 以下的包裹按每個海關品類收取 €3，YesStyle 表示目前由它替顧客支付這筆費用（運送文章）。收貨時被收取的海關費用，如果訂單低於 US$1,000，在 30 天內寄上收據，會以店內額度退還。"
       ]
     },
     {
@@ -205,7 +184,7 @@
     {
       "heading": "美國：Olive Young Global 還是 OLIVE YOUNG US",
       "paragraphs": [
-        "住在美國的人，不在 Olive Young Global 購買。該店的 FAQ 把在美國收貨的人導向 OLIVE YOUNG US（us.oliveyoung.com），它自 2026年5月29日 起是獨立的網站。Global 寄往美國以外的地址。因此，住在美國的人要比較的對象是 OLIVE YOUNG US。",
+        "住在美國的人，不在 Olive Young Global 購買。該店的 FAQ 把在美國收貨的人導向 OLIVE YOUNG US（us.oliveyoung.com），它自2026年5月29日起是獨立的網站。Global 寄往美國以外的地址。因此，住在美國的人要比較的對象是 OLIVE YOUNG US。",
         "OLIVE YOUNG US 的規定："
       ],
       "bullets": [
@@ -213,7 +192,7 @@
         "本土 48 州最多 5 個工作天，阿拉斯加與夏威夷最多 9 個工作天。",
         "不寄往美國海外屬地、國外、郵政信箱（PO Box）與軍事地址。",
         "收貨後 30 天內可退貨。因改變心意退貨只限未拆封、未使用的商品，運費與稅金會從退款中扣除。",
-        "食品與 K-POP 專輯為最終銷售（final sale），不能退。不接受換貨。",
+        "食品與 K-POP 專輯為最終銷售，不能退。不接受換貨。",
         "在線上商店辦理的退貨不適用於美國實體門市，在實體門市辦理的退貨也不適用於線上。"
       ],
       "postParagraphs": [
@@ -230,10 +209,9 @@
     {
       "heading": "該選哪一家，看所在國家",
       "bullets": [
-        "住在葡萄牙：兩家都寄。YesStyle 公布了運送時間（Standard 為 10 至 15 個工作天），Olive Young 只公布運費規則。兩家都是滿 US$60 免運；未滿時，YesStyle 收 US$5，Olive Young 收 US$25。",
         "住在美國：比較的對象是 OLIVE YOUNG US，兩家的免運都從 US$35 起算。",
         "重視退貨：YesStyle 接受因改變心意而退貨與更換尺寸，須在 14 天內申請退貨編號；Olive Young 只接受瑕疵或寄錯的商品，期限為 30 天。",
-        "重視稅金：YesStyle 的葡萄牙 VAT 已含在價格裡，Olive Young 則在寄往歐盟的訂單於結帳時收取 VAT 與進口關稅。"
+        "重視稅金：Olive Young 在寄往歐盟的訂單於結帳時收取 VAT 與進口關稅，YesStyle 則表示目前替顧客支付歐盟的 €3 費用。"
       ],
       "postParagraphs": [
         "想在購買前查看 YesStyle 的優惠，請到 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
@@ -243,8 +221,7 @@
       "heading": "常見問題",
       "bullets": [
         "哪一家比較便宜？ 本文不比較商品價格。請在購買當天到兩家查同一件商品，把運費與稅金一併算進去再比較。",
-        "寄往葡萄牙，哪一家比較快？ Olive Young 有寄往葡萄牙，但沒有公布運送時間。YesStyle 公布運送為 10 至 15 個工作天，另外商品出貨還需要 1 至 3 天。",
-        "在歐洲，稅金誰來付？ Olive Young 對寄往歐盟的訂單，在結帳時收取 VAT 與每個 HS 編碼 €3，並表示收貨時不會再收其他費用。YesStyle 在葡萄牙，23% 的 VAT 已含在價格裡。詳情請見稅金那一章。",
+        "在歐洲，稅金誰來付？ Olive Young 對寄往歐盟的訂單，在結帳時收取 VAT 與每個 HS 編碼 €3，並表示收貨時不會再收其他費用。YesStyle 表示目前替顧客支付歐盟的 €3 費用。詳情請見稅金那一章。",
         "拆封的商品可以退嗎？ 在 Olive Young Global，除非商品有瑕疵或是店家寄錯，否則不行，期限為 30 天。在 YesStyle，已拆封的美妝品與營養補充品不能退。",
         "Olive Young Global 和 OLIVE YOUNG US 是同一家店嗎？ 不是。Global 從韓國寄往名單上的國家，不寄往美國；OLIVE YOUNG US 是獨立的網站，運費與退貨規則各自不同。",
         "CECILIA010 要填在哪裡？ 填在 YesStyle 結帳頁的 Reward Code 欄位，可與店家自己的優惠券一併使用。"
@@ -259,7 +236,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "我們可能從 YesStyle 獲得佣金。Olive Young 的規則取自它自己的頁面。",
+  "editorialNote": "我們可能從 YesStyle 獲得傭金。Olive Young 的規則取自它自己的頁面。",
   "relatedArticles": [
     {
       "slug": "yesstyle-vs-stylevana-zh-hant",

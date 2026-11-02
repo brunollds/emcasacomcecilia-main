@@ -43,7 +43,7 @@
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "快速結論",
+      "heading": "快速回答",
       "paragraphs": [
         "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,411 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分因此被拉高，投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得。"
       ]
@@ -114,12 +114,12 @@
         ]
       },
       "postParagraphs": [
-        "檔案由公司管理，公司會邀請客戶評價，Trustpilot 也不會逐則核實。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就從這裡開始。"
+        "檔案由公司管理，公司會邀請客戶評價，Trustpilot 也不會逐則核實。截圖是 2026 年 10 月 19 日的，表格是 10 月 24 日的：分數不變，負面評價回覆率從 98% 升到 99%，各星占比沒有變化。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就從這裡開始。"
       ],
       "images": [
         {
           "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-          "alt": "Trustpilot 上 Hostinger 個人檔案的頂部，顯示 4.6 分、73,316 則評價、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
+          "alt": "Trustpilot 上 Hostinger 個人檔案的頂部，顯示 4.6 分、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
           "caption": "Trustpilot 上的 Hostinger 個人檔案。圖片：Bruno 截取的畫面。",
           "objectFit": "contain",
           "aspectRatio": 3.7969
@@ -257,7 +257,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "如果你已經決定，在購物車輸入 SONAR20，首個週期享 20% 折扣。",
+    "text": "如果你已經決定，在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。",
     "label": "查看折扣方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

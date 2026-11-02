@@ -35,7 +35,7 @@
   "publishedAt": "October 19, 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
   "imageAlt": "Logos of OpenClaw, Hermes Agent and Paperclip, with the Hostinger logo and shield and calendar icons",
@@ -116,7 +116,7 @@
       "heading": "Automatic renewal and the new price",
       "paragraphs": [
         "Everyone who signs up is enrolled in automatic renewal, because it is the default setting. The charge happens 30 to 0 days before the end of the period, on the card marked as default, at the plan's price on that date. The terms say that price can be higher or lower than the first period's, and that a price change applies at renewal, without advance notice.",
-        "Hostinger may send an email before the charge, but the terms say it has no obligation to. Customers on a one-month plan, for example, are not notified. To turn renewal off, log into your account and disable it at any time. If you turn it off and do not renew manually before the period ends, the service is closed.",
+        "Hostinger may send an email before the charge, but the terms say it has no obligation to. Customers on a one-month plan, for example, are not notified. To turn renewal off, log into your account and disable it at any time. If you turn it off and do not renew manually before the period ends, the service ends.",
         "What happens to the discount at renewal is explained in the [SONAR20 coupon guide](/en/reviews/hostinger-coupon-code-referral)."
       ],
       "images": [

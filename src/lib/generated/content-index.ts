@@ -64601,7 +64601,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
     "imageAlt": "Two screens of the SHEIN website on a phone: the search bar with the code typed in and the page that opens after the search",
@@ -64680,7 +64680,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "How to get your own referral code",
         "paragraphs": [
-          "The referral code comes from SHEIN's affiliate program. To sign up, search for \"afiliado\" in the SHEIN app and verify an Instagram, YouTube or TikTok account that meets the program's requirements, such as a minimum number of followers.",
+          "The referral code comes from SHEIN's affiliate program. To sign up, search for the affiliate program in the SHEIN app and verify an Instagram, YouTube or TikTok account that meets the program's requirements, such as a minimum number of followers.",
           "After you sign up, the code appears on the affiliate home page. It is always the same, and you can't choose the letters."
         ]
       },
@@ -64692,7 +64692,7 @@ export const reviewsData: unknown[] = [
           "How does the SHEIN referral code work? According to SHEIN, it opens the page of the person who shared the code. If you complete the purchase within 24 hours, that person earns the commission, at no extra cost to you.",
           "Does the SHEIN referral code give a discount? There is no fixed discount: you may get the offers SHEIN shows on the page the code opens.",
           "Is the referral code the same as a coupon? No. According to SHEIN, the code goes in the search box, not as a coupon.",
-          "How do I find my SHEIN referral code? The referral code comes from SHEIN's affiliate program. After you sign up, using the search \"afiliado\" in the app, it appears on the affiliate home page.",
+          "How do I find my SHEIN referral code? The referral code comes from SHEIN's affiliate program. After you sign up, using the search for the affiliate program in the app, it appears on the affiliate home page.",
           "Is a 2024 or 2025 referral code still valid? Codes from the old program, which ended in 2024, were deactivated along with the old program's coupon. In the current program, the code leads to the affiliate's page, with no fixed discount, and 4CW5Y is Cecília's current code.",
           "Do I need to create a new account to use the code? No: when we checked, the search opened the page even without logging in. Offers for new users only, when they exist, are marked on the campaign.",
           "Can I use the referral code on a computer? SHEIN talks about searching for the code in the app; the guide shows the website on a phone, and we didn't check on a computer."
@@ -64741,7 +64741,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
     "imageAlt": "Dos pantallas del sitio de SHEIN en el móvil: la barra de búsqueda con el código escrito y la página que se abre después de la búsqueda",
@@ -64881,7 +64881,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
     "imageAlt": "Deux écrans du site SHEIN sur un téléphone : la barre de recherche avec le code saisi et la page qui s'ouvre après la recherche",
@@ -64960,7 +64960,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comment obtenir votre code de parrainage",
         "paragraphs": [
-          "Le code de parrainage vient du programme d'affiliation de SHEIN. Pour vous inscrire, recherchez « afiliado » dans l'application SHEIN et validez un compte Instagram, YouTube ou TikTok qui remplit les conditions du programme, comme un nombre minimum d'abonnés.",
+          "Le code de parrainage vient du programme d'affiliation de SHEIN. Pour vous inscrire, recherchez le programme d'affiliation dans l'application SHEIN et validez un compte Instagram, YouTube ou TikTok qui remplit les conditions du programme, comme un nombre minimum d'abonnés.",
           "Après l'inscription, le code apparaît sur la page d'accueil de l'affilié. Il est toujours le même, et on ne peut pas choisir les lettres."
         ]
       },
@@ -64972,7 +64972,7 @@ export const reviewsData: unknown[] = [
           "Comment fonctionne le code de parrainage SHEIN ? Selon SHEIN, il ouvre la page de la personne qui a partagé le code. Si vous finalisez l'achat dans les 24 heures, cette personne touche la commission, sans frais supplémentaires pour vous.",
           "Le code de parrainage SHEIN donne-t-il une réduction ? Il n'y a pas de réduction fixe : vous pouvez bénéficier des offres que SHEIN affiche sur la page ouverte par le code.",
           "Le code de parrainage est-il la même chose qu'un code promo ? Non. Selon SHEIN, le code se saisit dans la zone de recherche, et non comme un code promo.",
-          "Comment connaître mon code de parrainage SHEIN ? Le code de parrainage vient du programme d'affiliation de SHEIN. Après l'inscription, faite par la recherche « afiliado » dans l'application, il apparaît sur la page d'accueil de l'affilié.",
+          "Comment connaître mon code de parrainage SHEIN ? Le code de parrainage vient du programme d'affiliation de SHEIN. Après l'inscription, faite par la recherche du programme d'affiliation dans l'application, il apparaît sur la page d'accueil de l'affilié.",
           "Un code de parrainage de 2024 ou 2025 est-il encore valable ? Les codes de l'ancien programme, terminé en 2024, ont été désactivés avec le code promo de l'ancien programme. Dans le programme actuel, le code mène à la page de l'affilié, sans réduction fixe, et 4CW5Y est le code actuel de Cecília.",
           "Dois-je créer un nouveau compte pour utiliser le code ? Non : lors de notre vérification, la recherche a ouvert la page même sans connexion. Les offres réservées aux nouveaux clients, quand il y en a, sont signalées dans la campagne.",
           "Peut-on utiliser le code de parrainage sur ordinateur ? SHEIN parle de rechercher le code dans l'application ; le guide montre le site sur téléphone, et nous n'avons pas vérifié sur ordinateur."
@@ -64980,7 +64980,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Ouvrez SHEIN via le lien de Cecília ou recherchez 4CW5Y dans la barre de recherche de l'appli SHEIN",
+      "text": "Ouvrez SHEIN via le lien de Cecília ou recherchez 4CW5Y dans la barre de recherche de l'application SHEIN",
       "label": "Ouvrir SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -65021,7 +65021,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
     "imageAlt": "Zwei Bildschirme der SHEIN-Website auf dem Smartphone: die Suchleiste mit eingetipptem Code und die Seite, die nach der Suche aufgeht",
@@ -65039,7 +65039,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wo Sie den SHEIN-Empfehlungscode eingeben",
         "paragraphs": [
-          "Suchen Sie den Code in der Suchleiste der SHEIN-App. Die Bildschirme unten stammen von der SHEIN-Website auf dem Smartphone, ohne Anmeldung:"
+          "Suchen Sie den Code in der Suchleiste der SHEIN-App. Die Screenshots unten stammen von der SHEIN-Website auf dem Smartphone, ohne Anmeldung:"
         ],
         "bullets": [
           "**Schritt 1:** Tippen Sie auf die Suchleiste von SHEIN.",
@@ -65100,7 +65100,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "So bekommen Sie Ihren eigenen Empfehlungscode",
         "paragraphs": [
-          "Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Zur Anmeldung suchen Sie in der SHEIN-App nach \"afiliado\" und bestätigen ein Instagram-, YouTube- oder TikTok-Konto, das die Anforderungen des Programms erfüllt, etwa eine Mindestzahl an Followern.",
+          "Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Zur Anmeldung suchen Sie in der SHEIN-App nach dem Affiliate-Programm und bestätigen ein Instagram-, YouTube- oder TikTok-Konto, das die Anforderungen des Programms erfüllt, etwa eine Mindestzahl an Followern.",
           "Nach der Anmeldung erscheint der Code auf der Startseite für Affiliates. Er bleibt immer derselbe, und die Buchstaben lassen sich nicht wählen."
         ]
       },
@@ -65112,7 +65112,7 @@ export const reviewsData: unknown[] = [
           "Wie funktioniert der SHEIN-Empfehlungscode? Laut SHEIN öffnet er die Seite der Person, die den Code weitergegeben hat. Schließen Sie den Kauf innerhalb von 24 Stunden ab, erhält diese Person die Provision, ohne Mehrkosten für Sie.",
           "Gibt der SHEIN-Empfehlungscode Rabatt? Es gibt keinen festen Rabatt: Sie können die Angebote erhalten, die SHEIN auf der Seite zeigt, die der Code öffnet.",
           "Ist der Empfehlungscode dasselbe wie ein Gutschein? Nein. Laut SHEIN gehört der Code ins Suchfeld und nicht als Gutschein.",
-          "Wie finde ich meinen SHEIN-Empfehlungscode? Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Nach der Anmeldung, die über die Suche \"afiliado\" in der App erfolgt, erscheint er auf der Startseite für Affiliates.",
+          "Wie finde ich meinen SHEIN-Empfehlungscode? Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Nach der Anmeldung, die über die Suche nach dem Affiliate-Programm in der App erfolgt, erscheint er auf der Startseite für Affiliates.",
           "Gilt ein Empfehlungscode von 2024 oder 2025 noch? Die Codes des alten Programms, das 2024 endete, wurden zusammen mit dem Gutschein des alten Programms deaktiviert. Im aktuellen Programm führt der Code zur Seite des Affiliates, ohne festen Rabatt, und 4CW5Y ist der aktuelle Code von Cecília.",
           "Muss ich ein neues Konto anlegen, um den Code zu nutzen? Nein: Bei unserer Prüfung öffnete die Suche die Seite auch ohne Anmeldung. Angebote nur für Neukunden werden, falls es welche gibt, in der Kampagne gekennzeichnet.",
           "Kann ich den Empfehlungscode am Computer nutzen? SHEIN spricht davon, den Code in der App zu suchen; die Anleitung zeigt die Website auf dem Smartphone, und am Computer haben wir es nicht geprüft."
@@ -65161,7 +65161,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
     "imageAlt": "Due schermate del sito SHEIN su smartphone: la barra di ricerca con il codice digitato e la pagina che si apre dopo la ricerca",
@@ -65240,7 +65240,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come ottenere il tuo codice invito",
         "paragraphs": [
-          "Il codice invito nasce dal programma di affiliazione di SHEIN. Per registrarti, cerca \"afiliado\" nell'app SHEIN e convalida un account Instagram, YouTube o TikTok che rispetti i requisiti del programma, come un numero minimo di follower.",
+          "Il codice invito si ottiene tramite il programma di affiliazione di SHEIN. Per registrarti, cerca il programma di affiliazione nell'app SHEIN e convalida un account Instagram, YouTube o TikTok che rispetti i requisiti del programma, come un numero minimo di follower.",
           "Dopo la registrazione, il codice compare nella home dell'affiliato. È sempre lo stesso e non si possono scegliere le lettere."
         ]
       },
@@ -65252,7 +65252,7 @@ export const reviewsData: unknown[] = [
           "Come funziona il codice invito SHEIN? Secondo SHEIN, apre la pagina di chi ha condiviso il codice. Se completi l'acquisto entro 24 ore, quella persona riceve la commissione, senza costi extra per te.",
           "Il codice invito SHEIN dà uno sconto? Non c'è uno sconto fisso: puoi ricevere le offerte che SHEIN mostra nella pagina aperta dal codice.",
           "Il codice invito è la stessa cosa di un coupon? No. Secondo SHEIN, il codice va nella casella di ricerca, non come coupon.",
-          "Come trovo il mio codice invito SHEIN? Il codice invito nasce dal programma di affiliazione di SHEIN. Dopo la registrazione, fatta con la ricerca \"afiliado\" nell'app, compare nella home dell'affiliato.",
+          "Come trovo il mio codice invito SHEIN? Il codice invito si ottiene tramite il programma di affiliazione di SHEIN. Dopo la registrazione, fatta cercando il programma di affiliazione nell'app, compare nella home dell'affiliato.",
           "Il codice invito del 2024 o del 2025 vale ancora? I codici del vecchio programma, finito nel 2024, sono stati disattivati insieme al coupon del vecchio programma. Nel programma attuale il codice porta alla pagina dell'affiliato, senza sconto fisso, e 4CW5Y è il codice attuale di Cecília.",
           "Devo creare un nuovo account per usare il codice? No: quando abbiamo controllato, la ricerca ha aperto la pagina anche senza accesso. Le offerte solo per nuovi utenti, quando ci sono, sono segnalate nella campagna.",
           "Posso usare il codice invito da computer? SHEIN parla di cercare il codice nell'app; la guida mostra il sito su smartphone e da computer non abbiamo verificato."
@@ -65296,12 +65296,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 추천 코드를 입력하는 곳(쿠폰 칸이 아니라 검색창), 화면과 함께 보는 단계별 안내, 검색 후 나타나는 것, 2024년 이전 프로그램에서 달라진 점, 내 코드를 받는 방법을 정리했습니다.",
-    "metaDescription": "SHEIN 추천 코드는 쿠폰 칸이 아니라 검색창에 입력합니다. 화면과 함께 보는 단계별 안내, 열리는 페이지, 2024년 변경 사항, 내 코드 받는 방법을 확인하세요.",
+    "description": "SHEIN 추천 코드를 입력하는 곳(쿠폰 칸이 아니라 검색창), 화면과 함께 보는 단계별 안내, 검색 후 나타나는 것, 2024년 이전 프로그램에서 달라진 점, 자신의 코드를 받는 방법을 정리했습니다.",
+    "metaDescription": "SHEIN 추천 코드는 쿠폰 칸이 아니라 검색창에 입력합니다. 화면과 함께 보는 단계별 안내, 열리는 페이지, 2024년 변경 사항, 자신의 코드 받는 방법을 확인하세요.",
     "publishedAt": "2026년 10월 13일",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
     "imageAlt": "스마트폰에서 본 SHEIN 사이트의 두 화면: 코드를 입력한 검색창과 검색 후 열리는 페이지",
@@ -65378,9 +65378,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "내 추천 코드를 받는 방법",
+        "heading": "자신의 추천 코드를 받는 방법",
         "paragraphs": [
-          "추천 코드는 SHEIN의 제휴 프로그램에서 발급됩니다. 가입하려면 SHEIN 앱에서 \"afiliado\"를 검색하고, 최소 팔로워 수 등 프로그램 요건을 충족하는 Instagram, YouTube 또는 TikTok 계정을 인증하세요.",
+          "추천 코드는 SHEIN의 제휴 프로그램에서 발급됩니다. 가입하려면 SHEIN 앱에서 제휴 프로그램을 검색하고, 최소 팔로워 수 등 프로그램 요건을 충족하는 Instagram, YouTube 또는 TikTok 계정을 인증하세요.",
           "가입하면 제휴 파트너 홈 페이지에 코드가 나타납니다. 코드는 항상 같고, 글자를 고를 수는 없습니다."
         ]
       },
@@ -65392,7 +65392,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 추천 코드는 어떻게 작동하나요? SHEIN에 따르면 코드를 공유한 사람의 페이지가 열립니다. 24시간 안에 구매를 마치면 그 사람이 수수료를 받으며, 회원님에게 추가 비용은 없습니다.",
           "SHEIN 추천 코드로 할인을 받나요? 고정 할인은 없습니다. 코드가 여는 페이지에 SHEIN이 보여 주는 혜택을 받을 수 있습니다.",
           "추천 코드는 쿠폰과 같은 건가요? 아니요. SHEIN에 따르면 코드는 쿠폰이 아니라 검색창에 입력합니다.",
-          "내 SHEIN 추천 코드는 어떻게 알 수 있나요? 추천 코드는 SHEIN의 제휴 프로그램에서 발급됩니다. 앱에서 \"afiliado\"를 검색해 가입하면 제휴 파트너 홈 페이지에 나타납니다.",
+          "내 SHEIN 추천 코드는 어떻게 알 수 있나요? 추천 코드는 SHEIN의 제휴 프로그램에서 발급됩니다. 앱에서 제휴 프로그램을 검색해 가입하면 제휴 파트너 홈 페이지에 나타납니다.",
           "2024년이나 2025년 추천 코드도 아직 유효한가요? 2024년에 끝난 이전 프로그램의 코드는 이전 프로그램의 쿠폰과 함께 비활성화되었습니다. 현재 프로그램에서 코드는 고정 할인 없이 제휴 파트너의 페이지로 이동시키며, 4CW5Y는 Cecília의 현재 코드입니다.",
           "코드를 쓰려면 새 계정을 만들어야 하나요? 아니요. 확인했을 때 로그인하지 않아도 검색하면 페이지가 열렸습니다. 신규 회원 전용 혜택이 있으면 캠페인에 표시됩니다.",
           "추천 코드를 컴퓨터에서도 쓸 수 있나요? SHEIN은 앱에서 코드를 검색하라고 안내합니다. 이 가이드는 스마트폰 사이트를 보여 주며, 컴퓨터에서는 확인하지 않았습니다."
@@ -65441,7 +65441,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
     "imageAlt": "スマートフォンで見たSHEINサイトの2つの画面：コードを入力した検索バーと、検索後に開くページ",
@@ -65520,7 +65520,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "自分の紹介コードを手に入れる方法",
         "paragraphs": [
-          "紹介コードはSHEINのアフィリエイトプログラムで発行されます。登録するには、SHEINアプリで「afiliado」を検索し、フォロワー数の下限など、プログラムの条件を満たすInstagram、YouTube、TikTokのアカウントを認証します。",
+          "紹介コードはSHEINのアフィリエイトプログラムで発行されます。登録するには、SHEINアプリでアフィリエイトプログラムを検索し、フォロワー数の下限など、プログラムの条件を満たすInstagram、YouTube、TikTokのアカウントを認証します。",
           "登録後、コードはアフィリエイターのホームページに表示されます。コードは常に同じで、文字を選ぶことはできません。"
         ]
       },
@@ -65532,15 +65532,15 @@ export const reviewsData: unknown[] = [
           "SHEINの紹介コードはどういう仕組みですか？ SHEINによると、コードを紹介した人のページが開きます。24時間以内に購入を完了すると、その人に手数料が入り、あなたの負担は増えません。",
           "SHEINの紹介コードで割引はありますか？ 固定の割引はありません。コードで開くページにSHEINが表示するオファーを受けられる場合があります。",
           "紹介コードはクーポンと同じですか？ いいえ。SHEINによると、コードはクーポンではなく検索ボックスに入力します。",
-          "自分のSHEIN紹介コードはどうやって知りますか？ 紹介コードはSHEINのアフィリエイトプログラムで発行されます。アプリで「afiliado」を検索して登録すると、アフィリエイターのホームページに表示されます。",
-          "2024年や2025年の紹介コードはまだ使えますか？ 2024年に終了した旧プログラムのコードは、旧プログラムのクーポンとともに無効になりました。現在のプログラムではコードはアフィリエイターのページに案内するだけで、固定の割引はありません。4CW5Y は現在のCecíliaのコードです。",
+          "自分のSHEIN紹介コードはどうやって知りますか？ 紹介コードはSHEINのアフィリエイトプログラムで発行されます。アプリでアフィリエイトプログラムを検索して登録すると、アフィリエイターのホームページに表示されます。",
+          "2024年や2025年の紹介コードはまだ使えますか？ 2024年に終了した旧プログラムのコードは、旧プログラムのクーポンとともに無効になりました。現在のプログラムではコードはアフィリエイターのページに案内するだけで、固定の割引はありません。4CW5Yは現在のCecíliaのコードです。",
           "コードを使うのに新しいアカウントは必要ですか？ いいえ。確認したところ、ログインなしでも検索でページが開きました。新規ユーザー限定のオファーがある場合は、キャンペーンに表示されます。",
           "紹介コードはパソコンでも使えますか？ SHEINはアプリでコードを検索すると説明しています。このガイドはスマートフォンのサイトを紹介しており、パソコンでは確認していません。"
         ]
       }
     ],
     "cta": {
-      "text": "Cecília のリンクから SHEIN を開くか、SHEIN アプリの検索バーで 4CW5Y を検索してください",
+      "text": "CecíliaのリンクからSHEINを開くか、SHEINアプリの検索バーで4CW5Yを検索してください",
       "label": "SHEIN を開く",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -65581,7 +65581,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
     "imageAlt": "手機上 SHEIN 網站的兩個畫面：輸入了推薦碼的搜尋欄，以及搜尋後開啟的頁面",
@@ -65647,7 +65647,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "要讓這筆訂單算作分享推薦碼的人的業績，SHEIN 表示訂單必須在搜尋或點擊後 24 小時內完成，並以最後一次使用的推薦碼或連結為準。佣金不會增加你支付的金額。"
+          "要讓這筆訂單算作分享推薦碼的人的業績，SHEIN 表示訂單必須在搜尋或點擊後 24 小時內完成，並以最後一次使用的推薦碼或連結為準。傭金不會增加你支付的金額。"
         ]
       },
       {
@@ -65660,7 +65660,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何取得你自己的推薦碼",
         "paragraphs": [
-          "推薦碼來自 SHEIN 的聯盟計畫。要註冊，請在 SHEIN App 中搜尋「afiliado」，並驗證一個符合計畫要求（例如粉絲數達到最低門檻）的 Instagram、YouTube 或 TikTok 帳號。",
+          "推薦碼來自 SHEIN 的聯盟計畫。要註冊，請在 SHEIN App 中搜尋聯盟計畫，並驗證一個符合計畫要求（例如粉絲數達到最低門檻）的 Instagram、YouTube 或 TikTok 帳號。",
           "註冊後，推薦碼會顯示在聯盟推廣者的首頁。推薦碼是固定的，不能自己選擇字母。"
         ]
       },
@@ -65669,10 +65669,10 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 推薦碼填在哪裡？填在 SHEIN App 或手機網站的搜尋欄裡，不要填進優惠券欄。",
           "SHEIN 推薦碼怎麼用？開啟搜尋，輸入推薦碼，點一下放大鏡，然後從開啟的頁面把商品加入購物車。",
-          "SHEIN 推薦碼是怎麼運作的？據 SHEIN 說明，它會開啟分享推薦碼的人的頁面。如果你在 24 小時內完成購買，那個人會獲得佣金，你無須額外付費。",
+          "SHEIN 推薦碼是怎麼運作的？據 SHEIN 說明，它會開啟分享推薦碼的人的頁面。如果你在 24 小時內完成購買，那個人會獲得傭金，你無須額外付費。",
           "SHEIN 推薦碼有折扣嗎？沒有固定折扣：你可能獲得 SHEIN 在推薦碼所開啟頁面上顯示的優惠。",
           "推薦碼和優惠券是一回事嗎？不是。據 SHEIN 說明，推薦碼要填在搜尋框裡，而不是當作優惠券使用。",
-          "怎麼知道我自己的 SHEIN 推薦碼？推薦碼來自 SHEIN 的聯盟計畫。在 App 中搜尋「afiliado」完成註冊後，它會顯示在聯盟推廣者的首頁。",
+          "怎麼知道我自己的 SHEIN 推薦碼？推薦碼來自 SHEIN 的聯盟計畫。在 App 中搜尋聯盟計畫完成註冊後，它會顯示在聯盟推廣者的首頁。",
           "2024 年或 2025 年的推薦碼還有效嗎？2024 年結束的舊計畫的推薦碼，已和舊計畫的優惠券一起停用。在現行計畫中，推薦碼會帶你進入聯盟推廣者的頁面，沒有固定折扣，4CW5Y 是 Cecília 目前的推薦碼。",
           "使用推薦碼需要新建帳號嗎？不需要：我們檢查時，即使沒有登入，搜尋也能開啟頁面。僅限新用戶的優惠如果有，會在活動中標明。",
           "推薦碼可以在電腦上使用嗎？SHEIN 說的是在 App 中搜尋推薦碼；本攻略展示的是手機上的網站，電腦上我們沒有驗證。"
@@ -65687,7 +65687,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "依據 SHEIN 官方頁面的規則。購物後我們可能獲得佣金。",
+    "editorialNote": "依據 SHEIN 官方頁面的規則。購物後我們可能獲得傭金。",
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-zh-hant",
@@ -65721,7 +65721,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
     "imageAlt": "手机上 SHEIN 网站的两个界面：输入了推荐码的搜索栏，以及搜索后打开的页面",
@@ -65800,7 +65800,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如何获得你自己的推荐码",
         "paragraphs": [
-          "推荐码来自 SHEIN 的联盟计划。要注册，请在 SHEIN 应用中搜索“afiliado”，并验证一个符合计划要求（例如粉丝数达到最低门槛）的 Instagram、YouTube 或 TikTok 账号。",
+          "推荐码来自 SHEIN 的联盟计划。要注册，请在 SHEIN 应用中搜索联盟计划，并验证一个符合计划要求（例如粉丝数达到最低门槛）的 Instagram、YouTube 或 TikTok 账号。",
           "注册后，推荐码会显示在联盟推广者的首页。推荐码是固定的，不能自己选择字母。"
         ]
       },
@@ -65812,7 +65812,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 推荐码是怎么运作的？据 SHEIN 说明，它会打开分享推荐码的人的页面。如果你在 24 小时内完成购买，那个人会获得佣金，你无需额外付费。",
           "SHEIN 推荐码有折扣吗？没有固定折扣：你可能获得 SHEIN 在推荐码所打开页面上展示的优惠。",
           "推荐码和优惠券是一回事吗？不是。据 SHEIN 说明，推荐码要填在搜索框里，而不是当作优惠券使用。",
-          "怎么知道我自己的 SHEIN 推荐码？推荐码来自 SHEIN 的联盟计划。在应用中搜索“afiliado”完成注册后，它会显示在联盟推广者的首页。",
+          "怎么知道我自己的 SHEIN 推荐码？推荐码来自 SHEIN 的联盟计划。在应用中搜索联盟计划完成注册后，它会显示在联盟推广者的首页。",
           "2024 年或 2025 年的推荐码还有效吗？2024 年结束的旧计划的推荐码，已和旧计划的优惠券一起停用。在现行计划中，推荐码会带你进入联盟推广者的页面，没有固定折扣，4CW5Y 是 Cecília 目前的推荐码。",
           "使用推荐码需要新建账号吗？不需要：我们检查时，即使没有登录，搜索也能打开页面。仅限新用户的优惠如果有，会在活动中标明。",
           "推荐码可以在电脑上使用吗？SHEIN 说的是在应用中搜索推荐码；本攻略展示的是手机上的网站，电脑上我们没有验证。"
@@ -66107,7 +66107,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, SHEIN is a legitimate store: the site of each market is run by a company identified in its privacy policy. What weighs on the decision is the return window and the import tax; the chapters below explain each one and what to check before you pay."
+          "Yes, SHEIN is a legitimate store: the site of each market is run by a company identified in its privacy policy. What matters most is the return window and the import tax; the chapters below explain each one and what to check before you pay."
         ]
       },
       {
@@ -66156,7 +66156,7 @@ export const reviewsData: unknown[] = [
           "Beauty and health, baby and maternity, sports and outdoors.",
           "Home and living, home textiles, tools and home improvement, appliances, and office and school supplies.",
           "Cell phones and accessories, electronics, toys and games.",
-          "Pet supplies and automotive. The US site also lists books and magazines, and food and drinks."
+          "Pet supplies and automotive accessories. The US site also lists books and magazines, and food and drinks."
         ],
         "postParagraphs": [
           "The UK menu also has a section called “Est. 3 Workdays”: the name refers to an estimated delivery in 3 working days."
@@ -66165,7 +66165,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Is it safe to pay, and what does SHEIN do with your data?",
         "paragraphs": [
-          "SHEIN says its systems and controls are aligned with the ISO, NIST and PCI DSS standards, and says it does not sell customer data.",
+          "SHEIN says its systems and controls are aligned with ISO, NIST and PCI DSS standards, and says it does not sell customer data.",
           "The privacy policy of your market's site explains, in a dedicated section, where the data of people who buy can be transferred. This article does not summarize that section: if it worries you, read it before you create an account.",
           "To avoid fake sites, buy only on your market's official site (us.shein.com in the US, shein.co.uk in the UK) or in the SHEIN app downloaded from your phone's official app store."
         ]
@@ -66220,7 +66220,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Is SHEIN legit? Yes. It is a legitimate store, and the site of each market has an identified company behind it: SHEIN US Services, LLC in the US and Infinite Styles Services Co., Limited in the UK, according to the privacy policies.",
-          "Is it safe to pay on SHEIN with a card? SHEIN says its systems and controls are aligned with the ISO, NIST and PCI DSS standards, and says it does not sell customer data. Buy only on the official site or in the app.",
+          "Is it safe to pay on SHEIN with a card? SHEIN says its systems and controls are aligned with ISO, NIST and PCI DSS standards, and says it does not sell customer data. Buy only on the official site or in the app.",
           "What country is SHEIN from? SHEIN started in China and is headquartered in Singapore, according to the Financial Times. In 2026, the founder said the company's roots are in Guangdong, according to the BBC and The Straits Times.",
           "What does SHEIN sell? Women's, men's and kids' clothing, shoes, bags, jewellery, beauty products, home goods, electronics, toys and pet supplies, among other things. Some of it is SHEIN's own brand, and some comes from other suppliers.",
           "Who runs SHEIN in the US and the UK? In the US, SHEIN US Services, LLC. In the UK, Infinite Styles Services Co., Limited (“ISSL”). The group's site, sheingroup.com, belongs to Roadget Business Pte. Ltd., of Singapore.",
@@ -66486,7 +66486,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN se décrit comme un détaillant mondial en ligne de mode et de lifestyle. L'entreprise dit aussi produire à la demande, en petits lots.",
           "Chaque marché a son propre site, et la politique de confidentialité de chacun nomme la société responsable. En France, c'est Infinite Styles Services Co., Limited (« ISSL »). Le site du groupe, sheingroup.com, appartient à Roadget Business Pte. Ltd., de Singapour.",
-          "L'entreprise est née en Chine, selon le Financial Times. En 2026, lors d'un événement du gouvernement du Guangdong, le fondateur, Xu Yangtian, a dit que la province est l'endroit où se trouvent les racines de SHEIN, selon la BBC et The Straits Times. Les trois reportages indiquent que le siège de l'entreprise est à Singapour."
+          "L'entreprise est née en Chine, selon le Financial Times. En 2026, lors d'un événement du gouvernement du Guangdong, le fondateur, Xu Yangtian, a dit que les racines de SHEIN se trouvent dans cette province, selon la BBC et The Straits Times. Les trois reportages indiquent que le siège de l'entreprise est à Singapour."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
@@ -66506,8 +66506,8 @@ export const reviewsData: unknown[] = [
           "Chaussures, sacs et bagages, bijoux et accessoires.",
           "Beauté et santé, bébé et maternité, sports et extérieur.",
           "Maison et habitat, linge de maison, outils et bricolage, appareils électroménagers et fournitures de bureau et scolaires.",
-          "Téléphones portables et accessoires, électronique.",
-          "Animaux de compagnie et automobile."
+          "Téléphones portables et accessoires, appareils électroniques.",
+          "Animaux de compagnie et accessoires automobiles."
         ],
         "postParagraphs": [
           "Le menu a aussi une rubrique « Entrepôt UE » : le nom renvoie à des produits stockés dans un entrepôt de l'Union européenne."
@@ -66518,7 +66518,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN affirme que ses systèmes et ses contrôles sont alignés sur les normes ISO, NIST et PCI DSS, et dit ne pas vendre les données de ses clients.",
           "La politique de confidentialité du site de votre marché explique, dans une section à part, où les données des personnes qui achètent peuvent être transférées. Cet article ne résume pas cette section : si cela vous préoccupe, lisez-la avant de créer un compte.",
-          "Pour ne pas tomber sur un faux site, achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'appli SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone."
+          "Pour ne pas tomber sur un faux site, achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'application SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone."
         ]
       },
       {
@@ -66561,7 +66561,7 @@ export const reviewsData: unknown[] = [
             "href": "/fr/coupons/shein"
           },
           {
-            "label": "Code de parrainage SHEIN : où le saisir et comment il fonctionne",
+            "label": "Code de parrainage SHEIN : où le mettre et comment l'utiliser",
             "href": "/fr/reviews/code-de-parrainage-shein-ou-le-mettre"
           }
         ]
@@ -66583,7 +66583,7 @@ export const reviewsData: unknown[] = [
           "Qui exploite SHEIN en France ? Infinite Styles Services Co., Limited (« ISSL »), selon la politique de confidentialité du site. Le site du groupe, sheingroup.com, appartient à Roadget Business Pte. Ltd., de Singapour.",
           "Quel est le délai de retour chez SHEIN ? 14 jours de rétractation légale, à compter de la réception, et la plupart des articles jusqu'à 30 jours après la réception selon la politique de SHEIN. La lingerie, les sous-vêtements et les bijoux fantaisie ne se retournent que dans les 14 jours.",
           "Y a-t-il des frais de douane sur les commandes SHEIN ? L'UE prélève un droit de douane de 3 € par catégorie de produit sur les commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382).",
-          "Comment savoir si le site SHEIN est le site officiel ? Achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'appli SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone.",
+          "Comment savoir si le site SHEIN est le site officiel ? Achetez uniquement sur le site officiel de votre marché (fr.shein.com en France) ou dans l'application SHEIN téléchargée depuis la boutique d'applications officielle de votre téléphone.",
           "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília pour SHEIN, qui se cherche dans la barre de recherche de SHEIN, pas dans le champ des coupons."
         ]
       }
@@ -66685,7 +66685,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ist Bezahlen bei SHEIN sicher, und was gilt für Ihre Daten?",
         "paragraphs": [
           "SHEIN gibt an, dass die Systeme und Kontrollen des Unternehmens an den Standards ISO, NIST und PCI DSS ausgerichtet sind, und sagt, dass es keine Kundendaten verkauft.",
-          "Wohin Ihre Daten übermittelt werden können, erklärt die Datenschutzerklärung von de.shein.com in einem eigenen Abschnitt. Dieser Artikel fasst ihn nicht zusammen. Wenn Sie das beschäftigt, lesen Sie ihn, bevor Sie ein Konto anlegen.",
+          "Wohin Ihre Daten übermittelt werden können, erklärt die Datenschutzerklärung von de.shein.com in einem eigenen Abschnitt. Dieser Artikel fasst ihn nicht zusammen. Wenn Sie das beunruhigt, lesen Sie ihn, bevor Sie ein Konto anlegen.",
           "Um nicht auf einen Fake-Shop hereinzufallen, kaufen Sie nur auf der offiziellen Website de.shein.com oder über die SHEIN-App, die Sie aus dem offiziellen App-Store Ihres Smartphones laden."
         ]
       },
@@ -66693,7 +66693,7 @@ export const reviewsData: unknown[] = [
         "heading": "Rückgabe und Zoll",
         "paragraphs": [
           "Für Bestellungen über de.shein.com beträgt das gesetzliche Widerrufsrecht 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden. Einige Artikel, zum Beispiel Lingerie, Unterwäsche und Modeschmuck, können nur innerhalb der 14 Tage zurückgegeben werden. Quelle: Rückgaberichtlinie der SHEIN-Website für Deutschland, eingesehen am 12.10.2026.",
-          "Beim Zoll gilt seit dem 1. Juli 2026 eine EU-Regel: Die EU erhebt € 3 Zoll pro Produktkategorie auf Sendungen im Wert von bis zu € 150, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen."
+          "Beim Zoll gilt seit dem 1. Juli 2026 eine EU-Regel: Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen im Wert von bis zu 150 €, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen."
         ]
       },
       {
@@ -66745,7 +66745,7 @@ export const reviewsData: unknown[] = [
           "Was verkauft SHEIN? Unter anderem Damen-, Herren- und Kinderkleidung, Schuhe, Taschen, Schmuck, Beauty-Produkte, Artikel für Haus und Wohnen, Elektronik, Spielzeug und Haustierzubehör. Ein Teil stammt von der Marke SHEIN, ein Teil von anderen Lieferanten.",
           "Wer betreibt SHEIN in Deutschland? Laut der Datenschutzerklärung von de.shein.com betreibt die Infinite Styles Services Co., Limited („ISSL“) die Website. Die Website der Unternehmensgruppe, sheingroup.com, gehört der Roadget Business Pte. Ltd. aus Singapur.",
           "Wie lange kann ich eine Bestellung bei SHEIN zurückgeben? Das gesetzliche Widerrufsrecht gilt 14 Tage ab Erhalt der Ware. Nach der Geschäftspolitik von SHEIN können die meisten Artikel bis zu 30 Tage nach Erhalt zurückgegeben werden, einige Artikel wie Lingerie, Unterwäsche und Modeschmuck nur innerhalb der 14 Tage.",
-          "Muss ich bei SHEIN Zoll zahlen? Die EU erhebt € 3 Zoll pro Produktkategorie auf Sendungen im Wert von bis zu € 150, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen.",
+          "Muss ich bei SHEIN Zoll zahlen? Die EU erhebt 3 € Zoll pro Produktkategorie auf Sendungen im Wert von bis zu 150 €, die von außerhalb der EU direkt an Verbraucher geschickt werden (Verordnung (EU) 2026/382). Prüfen Sie die Steuern und Einfuhrabgaben an der Kasse, bevor Sie bezahlen.",
           "Woran erkenne ich die offizielle SHEIN-Website? Die Adresse für Deutschland ist de.shein.com. Die App ist die von SHEIN im offiziellen App-Store Ihres Smartphones.",
           "Ist 4CW5Y ein Gutschein? Nein. Es ist der Empfehlungscode von Cecília bei SHEIN, der in der Suchleiste von SHEIN gesucht wird, nicht im Gutscheinfeld."
         ]
@@ -66838,7 +66838,7 @@ export const reviewsData: unknown[] = [
           "Salute e bellezza, neonati e premaman, sport e outdoor.",
           "Casa e vita, tessili, articoli e migliorie per la casa e forniture per ufficio e scuola.",
           "Cellulari e accessori, elettronica, giocattoli.",
-          "Prodotti per animali e automobile."
+          "Prodotti per animali e accessori per auto."
         ],
         "postParagraphs": [
           "Nel menu c'è anche la sezione «Magazzino UE»: il nome indica prodotti che si trovano in un magazzino nell'Unione europea."
@@ -66856,7 +66856,7 @@ export const reviewsData: unknown[] = [
         "heading": "Reso e dogana",
         "paragraphs": [
           "Per gli ordini su it.shein.com il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento. Alcuni articoli, come lingerie, intimo e bigiotteria, si possono restituire solo entro i 14 giorni. Fonte: politica di reso del sito di SHEIN per l'Italia, consultata il 12/10/2026.",
-          "Per la dogana vale una regola UE in vigore dal 1° luglio 2026: l'UE applica un dazio doganale di € 3 per categoria di prodotto sui pacchi di valore fino a € 150 spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare."
+          "Per la dogana vale una regola UE in vigore dal 1° luglio 2026: l'UE applica un dazio doganale di 3 € per categoria di prodotto sui pacchi di valore fino a 150 € spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare."
         ]
       },
       {
@@ -66908,7 +66908,7 @@ export const reviewsData: unknown[] = [
           "Cosa vende SHEIN? Tra le altre cose, abbigliamento donna, uomo e bambini, scarpe, borse, gioielli, prodotti di bellezza, articoli per la casa, elettronica, giocattoli e prodotti per animali. Una parte è del marchio SHEIN, un'altra arriva da altri fornitori.",
           "Chi gestisce SHEIN in Italia? Secondo l'informativa sulla privacy di it.shein.com, il sito è gestito da Infinite Styles Services Co., Limited («ISSL»). Il sito del gruppo, sheingroup.com, è di Roadget Business Pte. Ltd., di Singapore.",
           "Quanto tempo ho per restituire un ordine di SHEIN? Il diritto di recesso previsto dalla legge è di 14 giorni dal ricevimento della merce. Secondo la politica commerciale di SHEIN, la maggior parte degli articoli si può restituire entro 30 giorni dal ricevimento; alcuni, come lingerie, intimo e bigiotteria, solo entro i 14 giorni.",
-          "Devo pagare la dogana su SHEIN? L'UE applica un dazio doganale di € 3 per categoria di prodotto sui pacchi di valore fino a € 150 spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare.",
+          "Devo pagare la dogana su SHEIN? L'UE applica un dazio doganale di 3 € per categoria di prodotto sui pacchi di valore fino a 150 € spediti da fuori dell'UE direttamente al consumatore (Regolamento (UE) 2026/382). Controlla le imposte e i costi di importazione al checkout prima di pagare.",
           "Come capisco se il sito di SHEIN è quello ufficiale? L'indirizzo per l'Italia è it.shein.com, e l'app è quella di SHEIN nell'app store ufficiale del tuo telefono.",
           "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN: si cerca nella barra di ricerca di SHEIN, non nel campo del coupon."
         ]
@@ -66972,14 +66972,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "네, SHEIN은 정식으로 운영되는 쇼핑몰이고, 한국 사이트의 운영 회사는 개인정보 처리방침에 공개되어 있습니다. 판단에서 중요한 것은 반품 기한과 수입 세금입니다. 자세한 내용은 아래 '반품 기한과 세금 확인' 장에서 확인하세요."
+          "네, SHEIN은 정식으로 운영되는 쇼핑몰이고, 한국 사이트의 운영 회사는 개인정보 처리방침에 공개되어 있습니다. 판단에서 중요한 것은 반품 기한과 수입 세금입니다. 자세한 내용은 아래 각 장에서 확인하고, 결제 전에 확인할 것도 살펴보세요."
         ]
       },
       {
         "heading": "SHEIN을 운영하는 곳과 어느 나라 회사인지",
         "paragraphs": [
           "SHEIN은 스스로를 패션과 라이프스타일을 다루는 글로벌 온라인 리테일러라고 소개합니다. 또 수요에 맞춰 소량씩 생산한다고 말합니다.",
-          "시장마다 웹사이트가 따로 있고, 각 사이트의 개인정보 처리방침에 책임 회사가 적혀 있습니다. 한국에서는 kr.shein.com의 개인정보 처리방침(2026년 10월 12일 확인)에 따르면 싱가포르 회사인 Wonderflow Support Pte. Ltd.에서 사이트를 운영합니다. SHEIN 그룹의 사이트인 sheingroup.com은 싱가포르 Roadget Business Pte. Ltd.의 사이트입니다.",
+          "시장마다 웹사이트가 따로 있고, 각 사이트의 개인정보 처리방침에 책임 회사가 적혀 있습니다. 한국에서는 kr.shein.com의 개인정보 처리방침에 따르면 싱가포르 회사인 Wonderflow Support Pte. Ltd.에서 사이트를 운영합니다. SHEIN 그룹의 사이트인 sheingroup.com은 싱가포르 Roadget Business Pte. Ltd.의 사이트입니다.",
           "파이낸셜 타임스에 따르면 SHEIN은 중국에서 시작했습니다. BBC와 더 스트레이츠 타임스(The Straits Times)에 따르면 2026년 광둥성 정부 행사에서 창업자 쉬양톈(Xu Yangtian)은 광둥성이 SHEIN의 뿌리가 있는 곳이라고 말했습니다. 세 보도 모두 회사의 본사가 싱가포르에 있다고 적었습니다."
         ],
         "image": {
@@ -67031,7 +67031,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "파트너십과 추천 코드",
         "paragraphs": [
-          "이 글은 에디토리얼이며, Cecília는 SHEIN의 어필리에이트 파트너입니다. Cecília의 링크로 구매하면 수수료가 발생할 수 있고, 구매자가 더 내는 비용은 없습니다. 4CW5Y는 Cecília의 SHEIN 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력하는 코드입니다."
+          "이 글은 에디토리얼이며, Cecília는 SHEIN의 제휴 파트너입니다. Cecília의 링크로 구매하면 수수료가 발생할 수 있고, 구매자가 더 내는 비용은 없습니다. 4CW5Y는 Cecília의 SHEIN 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력하는 코드입니다."
         ],
         "links": [
           {
@@ -67123,7 +67123,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "はい、SHEIN は正規のお店で、日本のサイトの運営会社はプライバシーポリシーに書かれています。判断のポイントは返品期限と関税です。詳しくは下の「返品と関税」をご覧ください。"
+          "はい、SHEIN は正規のお店で、日本のサイトの運営会社はプライバシーポリシーに書かれています。判断のポイントは返品期限と関税です。詳しくは下の各章をご覧ください。支払う前に確認することもまとめています。"
         ]
       },
       {
@@ -67131,7 +67131,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN は、自社をファッションとライフスタイルのグローバルなオンライン小売企業だと説明しています。また、需要に合わせて、小ロットで生産していると述べています。",
           "マーケットごとにサイトがあり、各サイトのプライバシーポリシーに、そのサイトに責任を持つ会社の名前が書かれています。日本のサイト jp.shein.com では、それはシンガポールの Fashion Choice Pte. Ltd. です。グループのサイト sheingroup.com は、シンガポールの Roadget Business Pte. Ltd. のものです。",
-          "どこの国の会社かは、報道ごとに分けて見ましょう。フィナンシャル・タイムズは、SHEIN は中国で生まれたと伝えています。BBC とストレーツ・タイムズ（The Straits Times）によると、2026年に広東省政府のイベントで、創業者の Xu Yangtian（許仰天）氏が、広東省は SHEIN のルーツがある場所だと語りました。この3つの報道は、いずれも会社の本社がシンガポールにあると伝えています。"
+          "フィナンシャル・タイムズは、SHEIN は中国で生まれたと伝えています。BBC とストレーツ・タイムズ（The Straits Times）によると、2026年に広東省政府のイベントで、創業者の Xu Yangtian（許仰天）氏が、広東省は SHEIN のルーツがある場所だと語りました。この3つの報道は、いずれも会社の本社がシンガポールにあると伝えています。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
@@ -67277,7 +67277,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 是一間正規經營的商店，台灣站的營運公司寫在網站的隱私權政策中。判斷的關鍵是退貨期限與進口稅。詳情見下文「退貨與進口稅」。"
+          "SHEIN 是一間正規經營的商店，台灣站的營運公司寫在網站的隱私權政策中。判斷的關鍵是退貨期限與進口稅。下文各章會分別解釋，付款前要確認的事項也一併列出。"
         ]
       },
       {
@@ -67285,12 +67285,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN 形容自己是全球性的線上時尚與生活風格零售商，並表示公司採取按需生產、小批量的方式。",
           "每個市場都有各自的網站，各網站的隱私權政策都會寫明負責該網站的公司。台灣站 shein.tw 的公司是新加坡的 Fashion Choice Pte. Ltd.。集團網站 sheingroup.com 屬於新加坡的 Roadget Business Pte. Ltd.。",
-          "關於 SHEIN 的來歷，每個說法都要對應各自的報導。《金融時報》報導，SHEIN 誕生於中國。據 BBC 與《海峽時報》（The Straits Times）報導，2026 年在廣東省政府的一場活動上，創辦人 Xu Yangtian（許仰天）表示廣東是 SHEIN 的根。這三篇報導都寫到，公司總部位於新加坡。"
+          "《金融時報》報導，SHEIN 誕生於中國。據 BBC 與《海峽時報》（The Straits Times）報導，2026 年在廣東省政府的一場活動上，創辦人 Xu Yangtian（許仰天）表示廣東是 SHEIN 的根。這三篇報導都寫到，公司總部位於新加坡。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
           "alt": "SHEIN 在十個市場的首頁拼圖，每張首頁都標有網站網址",
-          "caption": "SHEIN 在十個市場的首頁，2026 年 10 月 12 日擷取。每個市場都有自己的網站，各網站的隱私權政策都會寫明負責該網站的公司。",
+          "caption": "SHEIN 在十個市場的首頁，為本指南擷取。每個市場都有自己的網站，各網站的隱私權政策都會寫明負責該網站的公司。",
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
@@ -67320,7 +67320,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "退貨與進口稅",
         "paragraphs": [
-          "本文的營運公司與退貨期限，取自 SHEIN 台灣站（shein.tw）的隱私權政策與退貨政策，我們於 2026 年 10 月 12 日查閱。",
+          "本文的營運公司與退貨期限，取自 SHEIN 台灣站（shein.tw）的隱私權政策與退貨政策（2026 年 10 月 12 日查閱）。",
           "台灣站的退貨期限是收到商品後 15 天內。",
           "進口稅依收件地而異，付款前請在結帳頁面確認總金額是否已包含進口稅。"
         ]
@@ -67338,7 +67338,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合作與推薦碼",
         "paragraphs": [
-          "本文是編輯專題，Cecília 是 SHEIN 的聯盟會員：透過她的連結購買，可能產生佣金，你不需要額外付費。4CW5Y 是 Cecília 的 SHEIN 推薦碼，要在 SHEIN 的搜尋欄輸入，不是填在優惠券欄位。"
+          "本文是編輯專題，Cecília 是 SHEIN 的聯盟推廣者：透過她的連結購買，可能產生傭金，你不需要額外付費。4CW5Y 是 Cecília 的 SHEIN 推薦碼，要在 SHEIN 的搜尋欄輸入，不是填在優惠券欄位。"
         ],
         "links": [
           {
@@ -67380,7 +67380,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "本文為編輯專題。我們可能從 SHEIN 的購買中獲得佣金，你不需要額外付費。",
+    "editorialNote": "本文為編輯專題。我們可能從 SHEIN 的購買中獲得傭金，你不需要額外付費。",
     "relatedArticles": [
       {
         "slug": "shein-vs-shopee-zh-hant",
@@ -67430,7 +67430,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 是一家正规经营的商店，新加坡站的运营公司写在网站的隐私政策中。判断的关键是退货期限和进口税。详情见下文“退货与进口税”。"
+          "SHEIN 是一家正规经营的商店，新加坡站的运营公司写在网站的隐私政策中。判断的关键是退货期限和进口税。下文各章会分别解释，付款前要确认的事项也一并列出。"
         ]
       },
       {
@@ -67438,12 +67438,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "SHEIN 把自己形容为全球性的线上时尚与生活方式零售商，并表示公司采用按需、小批量的方式生产。",
           "每个市场都有各自的网站，各网站的隐私政策都会写明负责该网站的公司。新加坡站 sg.shein.com 的公司是 Fashion Choice Pte. Ltd.。集团网站 sheingroup.com 属于新加坡的 Roadget Business Pte. Ltd.。",
-          "关于 SHEIN 的来历，每个说法都要对应各自的报道。《金融时报》报道，SHEIN 诞生于中国。据 BBC 与《海峡时报》（The Straits Times）报道，2026 年在广东省政府的一场活动上，创始人 Xu Yangtian（许仰天）表示广东是 SHEIN 的根。这三篇报道都写到，公司总部位于新加坡。"
+          "《金融时报》报道，SHEIN 诞生于中国。据 BBC 与《海峡时报》（The Straits Times）报道，2026 年在广东省政府的一场活动上，创始人 Xu Yangtian（许仰天）表示广东是 SHEIN 的根。这三篇报道都写到，公司总部位于新加坡。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
           "alt": "SHEIN 在十个市场的首页拼图，每张首页都标有网站网址",
-          "caption": "SHEIN 在十个市场的首页，2026 年 10 月 12 日截取。每个市场都有自己的网站，各网站的隐私政策都会写明负责该网站的公司。",
+          "caption": "SHEIN 在十个市场的首页，为本指南截取。每个市场都有自己的网站，各网站的隐私政策都会写明负责该网站的公司。",
           "objectFit": "contain",
           "aspectRatio": 2.8571
         }
@@ -67473,7 +67473,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "退货与进口税",
         "paragraphs": [
-          "本文的运营公司取自 SHEIN 新加坡站（sg.shein.com）的隐私政策，我们于 2026 年 10 月 12 日查阅。新加坡站的退货政策我们没有查阅，所以这里不给出退货天数。",
+          "本文的运营公司取自 SHEIN 新加坡站（sg.shein.com）的隐私政策（2026 年 10 月 12 日查阅）。新加坡站的退货政策本文未查阅，所以这里不给出退货天数。",
           "请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算（收到商品、送达，还是下单），并看看有没有期限更短的商品。",
           "进口税依收货地而异，付款前请在结账页面确认总金额是否已包含进口税。"
         ]
@@ -67491,7 +67491,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合作与推荐码",
         "paragraphs": [
-          "本文是编辑专题，Cecília 是 SHEIN 的联盟会员：通过她的链接购买，可能产生佣金，你不需要额外付费。4CW5Y 是 Cecília 的 SHEIN 推荐码，要在 SHEIN 的搜索栏里输入，不是填在优惠券输入框里。"
+          "本文是编辑专题，Cecília 是 SHEIN 的联盟推广者：通过她的链接购买，可能产生佣金，你不需要额外付费。4CW5Y 是 Cecília 的 SHEIN 推荐码，要在 SHEIN 的搜索栏里输入，不是填在优惠券输入框里。"
         ],
         "links": [
           {
@@ -67508,7 +67508,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN 可以信任吗？",
         "paragraphs": [
           "可以，前提是只在官方网站（新加坡站为 sg.shein.com）或官方 App 上购买。据其隐私政策，新加坡站的运营公司是 Fashion Choice Pte. Ltd.，SHEIN 也表示不会出售客户数据。",
-          "付款前请确认订单页面上的运费与配送时间、结账页面上的进口税与相关费用，以及退货期限，并保留订单确认。新加坡站的退货政策我们没有查阅，请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。"
+          "付款前请确认订单页面上的运费与配送时间、结账页面上的进口税与相关费用，以及退货期限，并保留订单确认。退货期限请在 sg.shein.com 上确认，以及它从哪一天开始计算。"
         ]
       },
       {
@@ -67519,7 +67519,7 @@ export const reviewsData: unknown[] = [
           "SHEIN 是哪个国家的公司？ 据《金融时报》报道，SHEIN 诞生于中国，总部位于新加坡。2026 年，创始人表示 SHEIN 的根在广东，这是 BBC 与《海峡时报》的报道。",
           "SHEIN 卖什么？ 有女装、男装、童装、鞋子、包袋、珠宝配饰、美妆、家居用品、电子产品、玩具和宠物用品等。部分是 SHEIN 品牌，部分来自其他供应商。",
           "SHEIN 新加坡站由谁运营？ 根据 sg.shein.com 的隐私政策，是 Fashion Choice Pte. Ltd.。",
-          "SHEIN 新加坡站的退货期限是多久？ 我们没有查阅新加坡站的退货政策，所以不给出天数。请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。",
+          "SHEIN 新加坡站的退货期限是多久？ 新加坡站的退货政策本文未查阅，所以不给出天数。请在 sg.shein.com 上确认退货期限，以及它从哪一天开始计算。",
           "怎么确认 SHEIN 的网站是官方的？ 新加坡站的网址是 sg.shein.com。App 请使用从手机官方应用商店下载的 SHEIN App。",
           "4CW5Y 是优惠券吗？ 不是。它是 Cecília 的 SHEIN 推荐码，要在 SHEIN 的搜索栏里输入。"
         ]
@@ -68108,7 +68108,7 @@ export const reviewsData: unknown[] = [
             [
               "Plazo de entrega",
               "1 a 3 días de preparación. La página daba el 72,75 % de las entregas en hasta 6 días hábiles para lo que sale de México y el 78,33 % en hasta 8 para lo que sale del extranjero",
-              "Estándar: 4 a 28 días hábiles. Punto de recogida: 4 a 16"
+              "Estándar: 4 a 28 días hábiles. Punto de recogida: 4 a 16 días hábiles"
             ],
             [
               "Devolución",
@@ -68292,7 +68292,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Délai",
-              "Standard : 4 à 8 jours ouvrés. Point Relais : 5 à 9",
+              "Standard : 4 à 8 jours ouvrés. Point Relais : 5 à 9 jours ouvrés",
               "Sur la page du produit ; préparation en 1 à 3 jours"
             ],
             [
@@ -68375,7 +68375,7 @@ export const reviewsData: unknown[] = [
           "Lequel livre le plus vite, SHEIN ou Temu ? Cet article ne teste pas les livraisons. SHEIN publie 4 à 8 jours ouvrés pour la livraison Standard ; Temu indique le délai sur la page du produit (préparation en 1 à 3 jours). Vérifiez la date sur la page du produit et dans votre commande.",
           "SHEIN ou Temu : quelle différence ? Temu laisse plus de temps pour retourner, 90 jours après l'achat, tandis que SHEIN reprend la plupart des articles jusqu'à 30 jours après réception ; la livraison et les délais figurent dans le tableau ci-dessus.",
           "SHEIN ou Temu pour des vêtements ? Pour des vêtements, pesez le retour : Temu laisse 90 jours après l'achat et SHEIN, pour la plupart des articles, jusqu'à 30 jours après réception ; la lingerie, les sous-vêtements et les bijoux fantaisie de SHEIN ne se retournent que dans les 14 jours.",
-          "SHEIN et Temu paient-ils la douane ? Depuis le 1er juillet 2026, l'UE applique 3 € par catégorie de produit aux commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
+          "SHEIN et Temu paient-ils la douane ? L'UE applique 3 € par catégorie de produit aux commandes jusqu'à 150 € expédiées depuis l'extérieur de l'UE directement au consommateur (règlement (UE) 2026/382). Cela vaut pour toute boutique qui expédie ainsi : la douane ne départage donc pas SHEIN et Temu.",
           "SHEIN et Temu sont-ils la même entreprise ? Non. Ce sont deux boutiques différentes, chacune avec ses propres règles d'expédition, de livraison et de retour.",
           "Le 4CW5Y est-il un coupon ? Non. C'est le code de parrainage de Cecília chez SHEIN, que l'on recherche dans la barre de recherche de la boutique."
         ]
@@ -68477,7 +68477,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Lieferzeit",
-              "Standard: Ankunft zwischen dem 22. und 27.10. bei einer Bestellung am 13.10.2026",
+              "Standard: 9 bis 14 Tage nach Bestellung, mit Ankunftsdatum an der Kasse",
               "Angabe auf der Produktseite; Bearbeitung in 1 bis 3 Tagen"
             ],
             [
@@ -68555,14 +68555,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "SHEIN oder Temu: Was soll ich wählen? Das hängt davon ab, was Sie kaufen und wie wichtig Ihnen die Rückgabe ist: Temu gibt 90 Tage ab Kauf, und SHEIN nimmt die meisten Artikel bis zu 30 Tage nach Erhalt zurück.",
+          "SHEIN oder Temu: Was passt besser? Das hängt davon ab, was Sie kaufen und wie wichtig Ihnen die Rückgabe ist: Temu gibt 90 Tage ab Kauf, und SHEIN nimmt die meisten Artikel bis zu 30 Tage nach Erhalt zurück.",
           "Was ist günstiger, SHEIN oder Temu? Preise vergleichen wir in diesem Artikel nicht. Vergleichen Sie an der Kasse den Endpreis jedes Artikels mit Versand und Steuern.",
           "Wer liefert schneller, SHEIN oder Temu? Lieferungen testen wir nicht. SHEIN zeigt bei Standard das Ankunftsdatum an; Temu zeigt die Zeit auf der Produktseite (Bearbeitung in 1 bis 3 Tagen). Prüfen Sie das Datum auf der Produktseite und in Ihrer Bestellung.",
           "SHEIN oder Temu: Was ist der Unterschied? Temu lässt mehr Zeit für die Rückgabe, 90 Tage ab Kauf, während SHEIN die meisten Artikel bis zu 30 Tage nach Erhalt zurücknimmt; Versand und Lieferzeiten stehen in der Tabelle oben.",
           "SHEIN oder Temu für Kleidung? Bei Kleidung zählt die Rückgabe: Temu gibt 90 Tage ab Kauf und SHEIN bei den meisten Artikeln bis zu 30 Tage nach Erhalt; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
           "Zahlen SHEIN und Temu Zoll? Die EU erhebt 3 € pro Warenkategorie auf Sendungen im Wert von bis zu 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der so liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
           "Sind SHEIN und Temu dasselbe Unternehmen? Nein. Es sind verschiedene Shops, jeder mit eigenen Regeln für Versand, Lieferzeit und Rückgabe.",
-          "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN, den Sie in der Suche des Shops eingeben."
+          "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN, den Sie in der Suche des Shops suchen."
         ]
       }
     ],
@@ -68639,7 +68639,7 @@ export const reviewsData: unknown[] = [
         "heading": "SHEIN e Temu a confronto in Italia",
         "paragraphs": [
           "Ciò che separa i due è il reso e il tempo di consegna: la tabella raccoglie ciò che ogni negozio pubblica in Italia.",
-          "Fonti, consultate il 12 e il 13/10/2026: informativa sulla privacy e pagine su spedizione e resi del sito SHEIN per l'Italia, e pagine su spedizione e resi di Temu per l'Italia."
+          "Fonti, consultate il 12 e il 13 ottobre 2026: informativa sulla privacy e pagine su spedizione e resi del sito SHEIN per l'Italia, e pagine su spedizione e resi di Temu per l'Italia."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-home-it-2026-10-12.webp",
@@ -68648,7 +68648,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain"
         },
         "comparisonTable": {
-          "caption": "Spedizione, tempi di consegna e resi pubblicati da SHEIN e Temu per l'Italia, consultati il 12 e il 13/10/2026.",
+          "caption": "Spedizione, tempi di consegna e resi pubblicati da SHEIN e Temu per l'Italia, consultati il 12 e il 13 ottobre 2026.",
           "headers": [
             "Criterio",
             "SHEIN",
@@ -68662,7 +68662,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Tempi di consegna",
-              "Standard: 6-12 giorni lavorativi. Express: 6-11 giorni",
+              "Standard: 6-12 giorni lavorativi. Express: 6-11 giorni lavorativi",
               "Indicati nella pagina del prodotto; preparazione in 1-3 giorni"
             ],
             [
@@ -68745,7 +68745,7 @@ export const reviewsData: unknown[] = [
           "Quale consegna più in fretta, SHEIN o Temu? Le consegne non le testiamo. SHEIN pubblica 6-12 giorni lavorativi per la spedizione Standard; Temu mostra il tempo nella pagina del prodotto (preparazione in 1-3 giorni). Controlla la data nella pagina del prodotto e nell'ordine.",
           "SHEIN o Temu: qual è la differenza? Temu dà più tempo per restituire, 90 giorni dall'acquisto, mentre SHEIN riprende la maggior parte degli articoli fino a 30 giorni dal ricevimento; spedizione e tempi di consegna sono nella tabella qui sopra.",
           "SHEIN o Temu per i vestiti? Per i vestiti, pesa il reso: Temu dà 90 giorni dall'acquisto e SHEIN, per la maggior parte degli articoli, fino a 30 giorni dal ricevimento; lingerie, biancheria intima e bigiotteria di SHEIN si restituiscono solo entro i 14 giorni.",
-          "SHEIN e Temu pagano la dogana? Dal 1° luglio 2026 l'UE applica 3 euro per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
+          "SHEIN e Temu pagano la dogana? L'UE applica 3 euro per categoria di prodotto sugli ordini fino a 150 euro spediti da fuori UE direttamente al consumatore (Regolamento (UE) 2026/382). Vale per qualsiasi negozio che spedisce così, quindi la dogana non decide tra SHEIN e Temu.",
           "SHEIN e Temu sono la stessa azienda? No. Sono negozi diversi, ciascuno con le proprie regole su spedizione, consegna e reso.",
           "Il 4CW5Y è un coupon? No. È il codice invito di Cecília su SHEIN, che si cerca nella barra di ricerca del negozio."
         ]
@@ -68900,7 +68900,7 @@ export const reviewsData: unknown[] = [
         "heading": "제휴와 추천 코드",
         "paragraphs": [
           "Cecília는 SHEIN과 테무의 제휴(어필리에이트) 파트너로, 이 글의 링크로 구매하시면 추가 비용 없이 수수료를 받을 수 있습니다. 이 점이 답을 바꾸지는 않습니다. 무엇을 사는지에 따라 선택이 달라집니다.",
-          "4CW5Y는 Cecília의 SHEIN 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력하며."
+          "4CW5Y는 Cecília의 SHEIN 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력합니다."
         ],
         "links": [
           {
@@ -68928,7 +68928,7 @@ export const reviewsData: unknown[] = [
           "SHEIN과 테무는 같은 회사인가요? 아니요. 서로 다른 쇼핑몰이며, 배송비·배송 기간·반품 규정이 각각 따로 있습니다.",
           "SHEIN과 테무는 얼마 동안 반품할 수 있나요? SHEIN은 수령 후 60일 이내, 테무는 구매 후 90일 이내입니다. 테무는 같은 주문의 첫 반품은 무료이고, 두 번째 반품부터 배송비 2,500원을 공제합니다.",
           "해외에서 오는 상품에도 세금이 붙나요? 수입 세금은 나라마다 다릅니다. 총 금액은 결제 전에 각 쇼핑몰의 결제 화면에서 확인하세요.",
-          "4CW5Y는 쿠폰인가요? 아니요. SHEIN의 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력하며."
+          "4CW5Y는 쿠폰인가요? 아니요. SHEIN의 추천 코드입니다. 쿠폰 입력란이 아니라 SHEIN 검색창에 입력합니다."
         ]
       }
     ],
@@ -69029,7 +69029,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "お届け日数",
-              "お急ぎ便：確認した注文では、注文の6〜8日後がお届け予定",
+              "お急ぎ便：お届け予定は注文ページに表示",
               "通常配送：5〜14日。処理に1〜3日"
             ],
             [
@@ -69193,7 +69193,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "新加坡：SHEIN 和 Temu 並排比較",
         "paragraphs": [
-          "把兩家區分開來的是退貨和配送時效：表格整理了兩家平台在新加坡和馬來西亞公布的規則。",
+          "把兩家區分開來的是退貨和配送時效：表格整理了兩家平台在新加坡公布的規則。",
           "出處：SHEIN 新加坡站的運送與退貨頁面，以及 Temu 針對新加坡的運送與退貨頁面。"
         ],
         "image": {
@@ -69223,8 +69223,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "退貨",
-              "大多數全新商品在收到後 15 天內；同一訂單第二次退貨起，每次扣 S$3 或 S$4",
-              "購買後 90 天內（依新加坡《消費者保護（公平交易）法》）；每筆訂單第一次退貨免費，第二次起從退款中扣除退貨運費（投遞點每件約 S$2.55）"
+              "大多數全新商品在收到後 15 天內；Especificar S$3 vs S$4 pela página",
+              "購買後 90 天內（按 Temu 的退貨政策）；每筆訂單第一次退貨免費，第二次起從退款中扣除退貨運費（投遞點每件約 S$2.55）"
             ]
           ]
         }
@@ -69301,7 +69301,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "合作與推薦碼",
         "paragraphs": [
-          "Cecília 是 SHEIN 和 Temu 的聯盟會員。透過本文連結購買時，她可能獲得佣金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
+          "Cecília 是 SHEIN 和 Temu 的聯盟會員。透過本文連結購買時，她可能獲得傭金，你不需要多付費。這不會改變答案：怎麼選，取決於你要買什麼。",
           "4CW5Y 是 Cecília 在 SHEIN 的推薦碼。要在 SHEIN 的搜尋欄搜尋，不是輸入到優惠券欄位。"
         ],
         "links": [
@@ -69341,7 +69341,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "本文為編輯內容。透過本文的 SHEIN 和 Temu 連結購買，我們可能獲得佣金。",
+    "editorialNote": "本文為編輯內容。透過本文的 SHEIN 和 Temu 連結購買，我們可能獲得傭金。",
     "relatedArticles": [
       {
         "slug": "shein-trust-guide-zh-hant",
@@ -69405,7 +69405,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "新加坡：SHEIN 和 Temu 并排对比",
         "paragraphs": [
-          "把两家分开的是退货和配送时效：表格整理了各平台在新加坡和马来西亚公布的规则。",
+          "把两家分开的是退货和配送时效：表格整理了各平台在新加坡公布的规则。",
           "出处：SHEIN 新加坡站的配送与退货页面，以及 Temu 针对新加坡的配送与退货页面。"
         ],
         "image": {
@@ -69435,8 +69435,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "退货",
-              "大多数全新商品在收到后 15 天内；同一订单第二次退货起，每次扣 S$3 或 S$4",
-              "购买后 90 天内（依新加坡《消费者保护（公平交易）法》）；每个订单第一次退货免费，第二次起从退款中扣除退货运费（投递点每件约 S$2.55）"
+              "大多数全新商品在收到后 15 天内；Especificar qual método custa S$3 vs S$4 pela página da loja",
+              "购买后 90 天内（按 Temu 的退货政策）；每个订单第一次退货免费，第二次起从退款中扣除退货运费（投递点每件约 S$2.55）"
             ]
           ]
         }
@@ -69865,7 +69865,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle ships to the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand, with a published delivery time and shipping cost for each. Standard takes 5 to 18 business days depending on the country, and shipping is free from US$ 35 to US$ 50. What differs by country is the tax: see the table and the tax chapter below."
+          "YesStyle ships to the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand, with a published delivery time and shipping cost for each. Delivery times and free-shipping minimums vary by country; all six are in the store's shipping table. What differs most is the tax: see the table and the tax section below."
         ]
       },
       {
@@ -69893,7 +69893,7 @@ export const reviewsData: unknown[] = [
               "United States",
               "Express, 3 to 5 business days",
               "from US$ 200",
-              "US$ 9 from US$ 80 to under US$ 200; US$ 20 below US$ 80"
+              "US$ 9 for orders of US$ 80 to under US$ 200; US$ 20 for orders under US$ 80"
             ],
             [
               "United Kingdom (Northern Ireland is not served at the moment)",
@@ -69941,7 +69941,7 @@ export const reviewsData: unknown[] = [
               "New Zealand",
               "Express, 3 to 5 business days",
               "from US$ 100",
-              "US$ 12 or US$ 18, depending on the order value"
+              "US$ 12/US$ 18 with order-value bands from table (add bands or remove vague cell)"
             ]
           ]
         },
@@ -70158,13 +70158,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle envía a España, México, Chile, Perú, Argentina y Colombia con envío Standard de 10 a 27 días hábiles, gratis desde US$ 45 o US$ 60 según el país. Solo en España el IVA ya está en el precio; en los demás, si la aduana cobra algo, aplica el reembolso de YesStyle. Mira abajo la tabla y el capítulo de impuestos."
+          "YesStyle envía a España, México, Chile, Perú, Argentina y Colombia con envío Standard de 10 a 27 días hábiles y envío gratis por encima de un mínimo que varía según el país. Solo en España el IVA ya está en el precio; en los demás, si la aduana cobra algo, aplica el reembolso de YesStyle. Mira abajo la tabla y el capítulo de impuestos."
         ]
       },
       {
         "heading": "Plazo y costo de envío en España, México, Chile, Perú, Argentina y Colombia",
         "paragraphs": [
-          "El envío Standard tarda de 10 a 15 días hábiles en España, de 10 a 13 en México, de 15 a 20 en Chile, de 15 a 22 en Perú y Colombia y de 15 a 27 en Argentina, con los valores en dólares estadounidenses, como los publica la tienda. La tabla de abajo sale de la tabla de envío vigente desde el 13 de octubre de 2026 (07:15 GMT), leída el mismo día; los impuestos, de las páginas de impuestos de la tienda, leídas el 12 de octubre de 2026. El 11 de agosto de 2026, YesStyle avisó de atrasos en los envíos a Colombia a causa del terremoto.",
+          "El envío Standard tarda de 10 a 15 días hábiles en España, de 10 a 13 en México, de 15 a 20 en Chile, de 15 a 22 en Perú y Colombia y de 15 a 27 en Argentina, con los valores en dólares estadounidenses, como los publica la tienda. La tabla de abajo sale de la tabla de envío vigente desde el 13 de octubre de 2026 (07:15 GMT), leída el mismo día; los impuestos, de las páginas de impuestos de la tienda, leídas el 12 de octubre de 2026. Remover frase; manter só tabela 13/10 + impostos 12/10",
           "Al plazo del envío se suma el tiempo que tarda el producto en salir del almacén, que se explica más abajo."
         ],
         "comparisonTable": {
@@ -70281,7 +70281,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**España:** el IVA del 21% ya está incluido en el precio de los productos y se suma al envío. Desde el 1 de julio de 2026, la UE cobra 3 € por categoría aduanera en paquetes de menos de 150 €, y YesStyle dice que, por ahora, paga esa tasa por el cliente.",
-          "**México, Chile, Perú, Argentina y Colombia:** YesStyle no tiene página de impuestos para estos países, y no hemos revisado las reglas de sus aduanas. Si la aduana cobra impuestos o tasas al entregar el paquete, rige el reembolso de YesStyle que se explica a continuación."
+          "**México, Chile, Perú, Argentina y Colombia:** YesStyle no tiene página de impuestos para estos países. Si la aduana cobra impuestos o tasas al entregar el paquete, rige el reembolso de YesStyle que se explica a continuación."
         ]
       },
       {
@@ -70354,9 +70354,9 @@ export const reviewsData: unknown[] = [
           "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Sí: los seis países están en la tabla de envío de la tienda, con envío Standard.",
           "¿Cuánto tarda la entrega de YesStyle? El envío Standard tarda de 10 a 15 días hábiles en España, de 10 a 13 en México, de 15 a 20 en Chile, de 15 a 22 en Perú y Colombia y de 15 a 27 en Argentina. En España, un pedido solo con productos en stock tarda de 11 a 18 días hábiles: de 1 a 3 para salir de Hong Kong y de 10 a 15 de envío.",
           "¿Desde cuánto es gratis el envío de YesStyle? Desde US$ 45 en España, México y Colombia, y desde US$ 60 en Chile, Perú y Argentina, sin contar la envoltura de regalo. Por debajo del mínimo cuesta US$ 5 en España y Colombia, US$ 6 en México, Chile y Perú, y US$ 8 en Argentina.",
-          "¿YesStyle cobra impuestos o tasas? En España, el IVA del 21% ya está en el precio. En México, Chile, Perú, Argentina y Colombia, YesStyle no publica los impuestos y no hemos revisado las reglas de aduana de esos países.",
+          "¿YesStyle cobra impuestos o tasas? En España, el IVA del 21% ya está en el precio. En México, Chile, Perú, Argentina y Colombia, YesStyle no publica los impuestos; si la aduana cobra algo al entregar el paquete, rige el reembolso de YesStyle.",
           "¿YesStyle reembolsa la tasa de aduana? Sí, como crédito en la tienda, en pedidos de menos de US$ 1.000, si envías el comprobante a atención al cliente en un máximo de 30 días. El IVA de España, que ya se cobra en el checkout, no entra en el reembolso.",
-          "¿Cómo pagar en YesStyle? Con tarjeta Visa, Mastercard, American Express o JCB, con PayPal, Apple Pay o Google Pay y, solo si la dirección de entrega está en México, con OXXO, que exige RFC o CURP. El banco puede cobrar una tarifa por transacción internacional.",
+          "¿Cómo pagar en YesStyle? Con tarjeta Visa, Mastercard, American Express o JCB, con PayPal, Apple Pay o Google Pay y, solo si la dirección de entrega está en México, con OXXO. El banco puede cobrar una tarifa por transacción internacional.",
           "¿Cómo devolver un producto de YesStyle? Pide el número de RMA en un máximo de 14 días desde la recepción y envía el paquete en un máximo de 30 días; los productos de belleza abiertos y los suplementos no se devuelven, y una reacción en la piel no da derecho a reembolso.",
           "¿YesStyle envía a toda España? No: el envío no incluye las Baleares, las Canarias (Tenerife incluida), Ceuta ni Melilla.",
           "¿Por qué el plazo cambia de un pedido a otro? Porque suma la disponibilidad de los productos, que puede llevar hasta 30 días hábiles, al plazo del envío, y el pedido suele salir junto, cuando el último producto está disponible.",
@@ -70423,7 +70423,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle livre en France, en Belgique et au Canada, en 10 à 15 jours ouvrés (7 à 14 au Canada). La livraison est gratuite dès US$ 45 (US$ 50 au Canada), et la TVA est déjà dans le prix en France et en Belgique. Voir plus bas la grille et le chapitre des taxes."
+          "YesStyle livre en France, en Belgique et au Canada, en 10 à 15 jours ouvrés (7 à 14 au Canada). La livraison devient gratuite au-dessus d'un minimum qui varie selon le pays, et la TVA est déjà dans le prix en France et en Belgique. Voir plus bas la grille et le chapitre des taxes."
         ]
       },
       {
@@ -70527,7 +70527,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "bullets": [
-          "**France :** la TVA de 20 % est déjà comprise dans le prix des produits et s'ajoute aux frais de livraison. Depuis le 1er juillet 2026, l'UE perçoit 3 € par catégorie douanière sur les colis de moins de 150 €, et YesStyle indique qu'il paie actuellement cette taxe à la place du client.",
+          "**France :** la TVA de 20 % est déjà comprise dans le prix des produits et s'ajoute aux frais de livraison. Depuis le 1er juillet 2026, l'UE perçoit 3 € par catégorie douanière sur les colis de moins de 150 €, et YesStyle indique qu'elle paie actuellement cette taxe à la place du client.",
           "**Belgique :** la TVA de 21 % est déjà comprise dans le prix et s'ajoute aux frais de livraison. La même taxe de 3 € est actuellement payée par YesStyle.",
           "**Canada :** seule la Saskatchewan a une PST de 6 %, ajoutée au paiement. La page de YesStyle ne parle ni de la TPS fédérale ni des frais du transporteur à la livraison."
         ]
@@ -70556,8 +70556,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si le colis tarde, se perd ou revient à la boutique",
         "paragraphs": [
-          "Si le colis n'est pas arrivé dans les délais, contactez le service client. Un colis perdu est réexpédié sans frais de manutention ni frais de livraison, au titre de la garantie de la boutique (The YesStyle Promise).",
-          "Un colis qui revient à la boutique pour une adresse erronée, une livraison échouée ou faute d'avoir été retiré n'est réexpédié qu'avec des frais de manutention et de nouveaux frais de livraison."
+          "Si le colis n'est pas arrivé dans les délais, contactez le service client. Un colis perdu est réexpédié sans frais de traitement ni frais de livraison, au titre de la garantie de la boutique (The YesStyle Promise).",
+          "Un colis qui revient à la boutique pour une adresse erronée, une livraison échouée ou faute d'avoir été retiré n'est réexpédié qu'avec des frais de traitement et de nouveaux frais de livraison."
         ]
       },
       {
@@ -70671,7 +70671,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "YesStyle liefert nach Deutschland, Österreich und in die Schweiz per Standardversand in 10 bis 15 Werktagen. Ab US$ 45 ist der Versand kostenlos, darunter kostet er US$ 5, und die Mehrwertsteuer steckt schon im Preis. Weiter unten stehen die Tabelle und die Abgaben, die danach noch auf das Paket zukommen können."
+          "YesStyle liefert nach Deutschland, Österreich und in die Schweiz per Standardversand in 10 bis 15 Werktagen. Ab einem Mindestbestellwert ist der Versand kostenlos, und die Mehrwertsteuer steckt schon im Preis. Weiter unten stehen die Tabelle und die Abgaben, die danach noch auf das Paket zukommen können."
         ]
       },
       {
@@ -70764,11 +70764,11 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Auf Lager:** Der Artikel verlässt das Lager in 1 bis 3 Werktagen.",
-          "**Auf Lager: 3–5 Tage:** Der Artikel kommt aus einem regionalen Lager des Shops und verlässt es in 3 bis 5 Werktagen.",
-          "**Auf Lager: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage:** Der Shop kauft den Artikel nach der Bestellung beim Lieferanten ein, und er verlässt das Lager in dieser Zeit, gerechnet in Werktagen."
+          "**Mit Wartezeit: 3–5 Tage:** Der Artikel kommt aus einem regionalen Lager des Shops und verlässt es in 3 bis 5 Werktagen.",
+          "**Mit Wartezeit: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage:** Der Shop kauft den Artikel nach der Bestellung beim Lieferanten ein, und er verlässt das Lager in dieser Zeit, gerechnet in Werktagen."
         ],
         "postParagraphs": [
-          "Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet, wird in der Regel zusammen verschickt, sobald der letzte verfügbar ist. Mit einem Artikel „Auf Lager: 7–14 Tage“ braucht die Bestellung nach Deutschland 17 bis 29 Werktage."
+          "Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet, wird in der Regel zusammen verschickt, sobald der letzte verfügbar ist. Mit einem Artikel „Mit Wartezeit: 7–14 Tage“ braucht die Bestellung nach Deutschland 17 bis 29 Werktage."
         ]
       },
       {
@@ -70925,7 +70925,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "In breve",
         "paragraphs": [
-          "YesStyle spedisce in Italia con spedizione Standard da 10 a 15 giorni lavorativi, gratuita da US$ 45 (sotto la soglia costa US$ 5), e l'IVA del 22% è già nel prezzo. Sotto trovi la tabella e cosa può arrivare dopo alla consegna."
+          "YesStyle spedisce in Italia con spedizione Standard da 10 a 15 giorni lavorativi, gratuita sopra una soglia minima, e l'IVA del 22% è già nel prezzo. Sotto trovi la tabella e cosa può arrivare dopo alla consegna."
         ]
       },
       {
@@ -71000,8 +71000,8 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Disponibile:** l'articolo esce dal magazzino in 1-3 giorni lavorativi.",
-          "**Stock disponibile tra: 3-5 giorni:** l'articolo arriva da un magazzino regionale del negozio ed esce in 3-5 giorni lavorativi.",
-          "**Stock disponibile tra: 7, 7-14, 21 o 30 giorni:** il negozio acquista l'articolo dal fornitore dopo l'ordine, e l'articolo esce dal magazzino in quel numero di giorni lavorativi."
+          "**In attesa di stock: 3-5 giorni:** l'articolo arriva da un magazzino regionale del negozio ed esce in 3-5 giorni lavorativi.",
+          "**In attesa di stock: 7, 7-14, 21 o 30 giorni:** il negozio acquista l'articolo dal fornitore dopo l'ordine, e l'articolo esce dal magazzino in quel numero di giorni lavorativi."
         ],
         "postParagraphs": [
           "Un ordine con un articolo disponibile e uno in attesa di stock di solito parte tutto insieme, quando anche l'ultimo diventa disponibile. Con un articolo a 7-14 giorni, l'ordine per l'Italia richiede da 17 a 29 giorni lavorativi."
@@ -71051,7 +71051,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come restituire un prodotto",
         "bullets": [
-          "**Tempi:** chiedi il numero RMA entro 14 giorni dalla ricezione, dalla pagina RMA del tuo account (per ripensamento o cambio taglia) o tramite il servizio clienti, e spedisci il pacco entro 30 giorni dall'emissione dell'RMA.",
+          "**Scadenza:** chiedi il numero RMA entro 14 giorni dalla ricezione, dalla pagina RMA del tuo account (per ripensamento o cambio taglia) o tramite il servizio clienti, e spedisci il pacco entro 30 giorni dall'emissione dell'RMA.",
           "**Dove:** il pacco torna all'ufficio del negozio a Hong Kong o ai suoi partner per i resi negli Stati Uniti e in Canada; il negozio consiglia la posta raccomandata.",
           "**Cosa non si può restituire:** prodotti di bellezza aperti, integratori, articoli di offerte come Buy 1 Get 1 Free, Clearance, Lucky Bundle e Deals, e articoli per uso intimo, come costumi da bagno, intimo, orecchini e parrucche.",
           "**Allergia o reazione cutanea:** non dà diritto né al rimborso né al reso.",
@@ -71159,7 +71159,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "YesStyle은 한국으로 배송합니다. Express 배송은 영업일 3~5일이고, US$ 50 이상이면 배송비가 무료입니다. 한국용 세금은 게시되어 있지 않지만, 세관이 부과한 세금과 관세는 환급 대상입니다. 아래 표와 '세관에서 부과금이 붙으면' 항목을 보세요."
+          "YesStyle은 한국으로 배송합니다. Express 배송은 영업일 3~5일이고, 일정 금액 이상이면 배송비가 무료입니다. 한국용 세금은 게시되어 있지 않지만, 세관이 부과한 세금과 관세는 환급 대상입니다. 아래 표와 '세관에서 부과금이 붙으면' 항목을 보세요."
         ]
       },
       {
@@ -71313,7 +71313,7 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
-            "label": "YesStyle 스토어에서 오늘의 할인과 리워드 코드 CECILIA010 보기",
+            "label": "이 사이트에서 오늘의 YesStyle 쿠폰과 리워드 코드 CECILIA010 보기",
             "href": "/ko/coupons/yesstyle"
           }
         ]
@@ -71335,7 +71335,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "결제 화면에서 내 주소의 배송비와 배송 기간을 확인하고 Reward Code 칸에 CECILIA010을 입력하세요.",
+      "text": "결제 화면에서 받는 주소의 배송비와 배송 기간을 확인하고 Reward Code 칸에 CECILIA010을 입력하세요.",
       "label": "YesStyle로 이동",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -71393,7 +71393,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "YesStyleは日本に配送しています。Express便で4〜5営業日、US$50以上で送料無料です。日本の税金は公表されていませんが、到着時に請求された関税などは返金の対象です。詳しくは下の表と「荷物に関税がかかったとき」を参照してください。"
+          "YesStyleは日本に配送しています。Express便で4〜5営業日、一定額以上で送料無料です。日本の税金は公表されていませんが、到着時に請求された関税などは返金の対象です。詳しくは下の表と「荷物に関税がかかったとき」を参照してください。"
         ]
       },
       {
@@ -71485,7 +71485,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "bullets": [
-          "**日本：** YesStyleには日本の税金のページがなく、日本向けの税額は公表されていません。到着時に関税などを請求された場合は、次の項目の返金を利用できます。"
+          "**日本：** YesStyleには日本の税金のページがなく、日本向けの税額は公表されていません。到着時に関税などを請求された場合は、次の項目で説明する返金を利用できます。"
         ]
       },
       {
@@ -71627,7 +71627,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "YesStyle 會寄到台灣、香港與澳門：台灣 Express 3 至 6 個工作天，香港順豐與澳門 Express 1 至 3 個工作天；台灣滿 US$50 免運，香港與澳門滿 US$35 免運。三個市場的稅費 YesStyle 都沒有公布，送達時若被收費可申請退款，條件見「包裹被課稅時」一節。"
+          "YesStyle 會寄到台灣、香港與澳門：台灣 Express 3 至 6 個工作天，香港順豐與澳門 Express 1 至 3 個工作天；三地都滿一定金額免運。三個市場的稅費 YesStyle 都沒有公布，送達時若被收費可申請退款，條件見「包裹被課稅時」一節。"
         ]
       },
       {
@@ -71715,7 +71715,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**In-Stock（有庫存）：** 商品在 1 至 3 個工作天內從倉庫寄出。",
           "**Awaiting Stock: 3-5 days（待補貨，3 至 5 天）：** 商品來自商店的區域倉庫，在 3 至 5 個工作天內寄出。",
-          "**Awaiting Stock: 7 days**、**7-14 days**、**21 days** 或 **30 days**（待補貨，7 天、7 至 14 天、21 天或 30 天）：商店在下單後才向供應商採購，商品會在所示時間內從倉庫寄出，以工作天計。"
+          "**Awaiting Stock: 7 days、7-14 days、21 days 或 30 days（待補貨，7 天、7 至 14 天、21 天或 30 天）：** 商店在下單後才向供應商採購，商品會在所示時間內從倉庫寄出，以工作天計。"
         ],
         "postParagraphs": [
           "同時含有庫存商品與待補貨商品的訂單，通常會等最後一件商品備妥後一起寄出。若有一件「Awaiting Stock: 7-14 days」的商品，寄往台灣的訂單就需要 10 至 20 個工作天。"
@@ -71873,7 +71873,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "YesStyle 会寄到新加坡和马来西亚，并公布了运送时间与运费：新加坡 Express 3 至 5 个工作日，满 US$50 免运费；马来西亚 Standard 10 至 16 个工作日，满 US$35 免运费。新加坡的 GST 已含在价格里，马来西亚的销售税在结账时另加，详见“税费”一节。"
+          "YesStyle 会寄到新加坡和马来西亚，并公布了运送时间与运费：新加坡走 Express，3 至 5 个工作日；马来西亚走 Standard，10 至 16 个工作日，两地都满一定金额免运费。新加坡的 GST 已含在价格里，马来西亚的销售税在结账时另加，详见“税费”一节。"
         ]
       },
       {
@@ -71955,7 +71955,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**In-Stock（有库存）：** 商品在 1 至 3 个工作日内从仓库寄出。",
           "**Awaiting Stock: 3-5 days（待补货，3 至 5 天）：** 商品来自商店的区域仓库，在 3 至 5 个工作日内寄出。",
-          "**Awaiting Stock: 7 days**、**7-14 days**、**21 days** 或 **30 days**（待补货，7 天、7 至 14 天、21 天或 30 天）：商店在下单后才向供应商采购，商品会在所示时间内从仓库寄出，以工作日计。"
+          "**Awaiting Stock: 7 days、7-14 days、21 days 或 30 days（待补货，7 天、7 至 14 天、21 天或 30 天）：** 商店在下单后才向供应商采购，商品会在所示时间内从仓库寄出，以工作日计。"
         ],
         "postParagraphs": [
           "同时含有库存商品与待补货商品的订单，通常会等最后一件商品备妥后一起寄出。若有一件「Awaiting Stock: 7-14 days」的商品，寄往新加坡的订单就需要 10 至 19 个工作日。"
@@ -72463,8 +72463,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-stylevana-olive-young",
     "locale": "en",
     "translationKey": "yesstyle-vs-alternatives",
-    "title": "YesStyle vs Stylevana: shipping, customs and returns side by side, with Olive Young, StyleKorean and Jolse",
-    "seoTitle": "YesStyle vs Stylevana: shipping, customs and returns",
+    "title": "YesStyle vs Stylevana: returns, free shipping and Reward Code compared, with Olive Young, StyleKorean and Jolse",
+    "seoTitle": "YesStyle vs Stylevana: returns, free shipping and Reward Code",
     "type": "Store Comparison",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -72475,12 +72475,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean and Jolse side by side for Portugal: who ships there, the order value for free shipping, who pays the tax and what each store takes back, from the official pages.",
-    "metaDescription": "YesStyle or Stylevana? Shipping, free shipping, tax and returns for Portugal, with Olive Young, StyleKorean and Jolse, from the official pages.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean and Jolse side by side: the return deadline and what each store takes back, StyleKorean's free shipping and order limit, and the CECILIA010 Reward Code, from the official pages.",
+    "metaDescription": "YesStyle or Stylevana? Returns, StyleKorean free shipping and the CECILIA010 Reward Code, with Olive Young, StyleKorean and Jolse, from the official pages.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
     "imageAlt": "Cecília holding the tube of Abib PDRN Volume Fill-it cream sent by YesStyle, with the YesStyle logo and the title YesStyle vs Stylevana",
@@ -72492,95 +72492,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "No store is best for everyone: the choice changes with the country, who pays the tax and what the store takes back. In Portugal all five stores deliver, so decide by tax and returns, using the tables below."
-        ]
-      },
-      {
-        "heading": "Who ships to Portugal",
-        "comparisonTable": {
-          "caption": "Delivery time, shipping cost and tax at YesStyle, Stylevana, StyleKorean and Jolse for Portugal, from the official pages.",
-          "headers": [
-            "Store",
-            "Delivery time",
-            "Free shipping",
-            "Tax"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Standard, 10 to 15 business days",
-              "from US$ 60; US$ 5 below",
-              "23% VAT already in the price"
-            ],
-            [
-              "Stylevana",
-              "Standard, 6 to 11 business days; does not deliver to remote areas",
-              "from €59; €4.39 below",
-              "the store does not list the countries with tax included"
-            ],
-            [
-              "Olive Young Global",
-              "not published for Portugal; the store picks and packs the order in 1 to 3 business days",
-              "from US$ 60; US$ 25 below",
-              "VAT and a €3 charge per customs category collected at checkout"
-            ],
-            [
-              "StyleKorean",
-              "not published by country; the store hands the order to the carrier within 5 business days",
-              "from US$ 80",
-              "paid by the customer"
-            ],
-            [
-              "Jolse",
-              "not published",
-              "above US$ 60; US$ 6.99 below",
-              "shipped with 23% VAT included"
-            ]
-          ]
-        },
-        "paragraphs": [
-          "Olive Young Global delivers to Portugal (the site's destination selector, checked on October 21, 2026), but its shipping page has no row for the country: the delivery time is not published, and shipping follows the general rule in its FAQ."
-        ]
-      },
-      {
-        "heading": "Who pays the tax",
-        "comparisonTable": {
-          "caption": "When each store charges tax and whether it refunds customs fees, from the official pages.",
-          "headers": [
-            "Store",
-            "When the tax is charged",
-            "Tax refund"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Portugal: VAT already in the price",
-              "yes, on orders under US$ 1,000, as store credit"
-            ],
-            [
-              "Stylevana",
-              "the store says that in many regions tax is already in the price or calculated at checkout, without listing the regions",
-              "the Portugal site does not publish one"
-            ],
-            [
-              "Olive Young Global",
-              "in the European Union, VAT and €3 per customs category are charged at checkout, and the store says nothing more is charged on delivery; in other countries, the price and shipping do not include tax",
-              "in the European Union, does not refund customs fees, VAT or import charges"
-            ],
-            [
-              "StyleKorean",
-              "customs tax is the customer's; in the US and Canada, it is calculated and charged at checkout",
-              "not published; if the customer refuses to pay the tax, the package is returned or destroyed, with no refund or reshipment"
-            ],
-            [
-              "Jolse",
-              "Portugal: shipped with 23% VAT included",
-              "does not publish a refund; the customer is responsible for customs tax and fees"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "YesStyle is the only one of the five that publishes a tax refund. It covers taxes and fees charged on delivery, not the VAT already paid at checkout."
+          "No store is best for everyone: the choice changes with the country and with what the store takes back. Decide by returns, using the table below: at none of the five stores can an opened beauty product be returned for a change of mind."
         ]
       },
       {
@@ -72660,7 +72572,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "US$ 80",
-              "Portugal, Spain, France, Belgium, the Netherlands, Germany, Switzerland, Italy, the United Kingdom, Ireland, Denmark, Sweden, Norway, Poland, Hungary, Bulgaria, Romania, the Emirates, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman"
+              "Spain, France, Belgium, the Netherlands, Germany, Switzerland, Italy, the United Kingdom, Ireland, Denmark, Sweden, Norway, Poland, Hungary, Bulgaria, Romania, the Emirates, Saudi Arabia, Qatar, Kuwait, Bahrain and Oman"
             ],
             [
               "US$ 90",
@@ -72739,20 +72651,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Which to choose",
         "bullets": [
-          "If you live in Portugal: all five stores deliver and all publish the order value for free shipping, so the choice comes down to tax and returns, in the tables above.",
+          "To decide: compare the deadline and what each store accepts in the returns table above.",
           "In any country: check each store's official page for shipping, who pays the tax and what it takes back before placing the order."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Which is better, YesStyle or Stylevana? It depends on the country: for Portugal, delivery times and minimums are in the shipping table.",
+          "Which is better, YesStyle or Stylevana? It depends on the country and on what you need; for returns, the table above compares the deadline and what each store accepts.",
           "Is YesStyle the same as SHEIN? No: YesStyle does not appear in the SHEIN Group's list of brands and says it belongs to YesAsia Holdings, of Hong Kong.",
           "What is the order limit at StyleKorean? US$ 500 per order, not counting shipping; above that, the store asks you to split it into two orders.",
-          "Which store has the lowest free-shipping minimum? For Portugal, the minimums are in the shipping table, and Stylevana is the only one in euros.",
-          "Who pays the tax? It depends on the store and the country: in Portugal, YesStyle and Jolse already include VAT; only YesStyle publishes a refund of customs taxes and fees, as store credit, under US$ 1,000.",
           "Can I return an opened beauty product? Not for a change of mind, at any of the five stores; Stylevana accepts a change of mind only if the product is new, sealed and unused.",
-          "Which store delivers faster? The stores publish the shipping time, not the total: for Portugal, Stylevana indicates 6 to 11 business days and YesStyle 10 to 15, not counting the time for the item to leave Hong Kong.",
           "Where does the YesStyle Reward Code go? CECILIA010 goes in the Reward Code field at checkout, and the current coupons are on the YesStyle page here on the site."
         ]
       }
@@ -72791,8 +72700,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-o-stylevana-cual-elegir",
     "locale": "es",
     "translationKey": "yesstyle-vs-alternatives",
-    "title": "YesStyle o Stylevana: envíos, impuestos y devoluciones lado a lado, con Olive Young, StyleKorean y Jolse",
-    "seoTitle": "YesStyle o Stylevana: envíos, impuestos y devoluciones",
+    "title": "YesStyle o Stylevana: devoluciones, envío gratis y código de recompensa lado a lado, con Olive Young, StyleKorean y Jolse",
+    "seoTitle": "YesStyle o Stylevana: devoluciones, envío gratis y código de recompensa",
     "type": "Comparativa de Tiendas",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -72803,12 +72712,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean y Jolse lado a lado para Portugal: quién envía, desde qué importe el envío es gratis, quién paga el impuesto y qué acepta de vuelta cada tienda, según las páginas oficiales.",
-    "metaDescription": "¿YesStyle o Stylevana? Envío, envío gratis, impuestos y devoluciones para Portugal, con Olive Young, StyleKorean y Jolse, según las páginas oficiales.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean y Jolse lado a lado: el plazo de devolución y lo que acepta de vuelta cada tienda, el envío gratis y el límite de pedido de StyleKorean y el código de recompensa CECILIA010, según las páginas oficiales.",
+    "metaDescription": "¿YesStyle o Stylevana? Devoluciones, envío gratis de StyleKorean y código de recompensa CECILIA010, con Olive Young, StyleKorean y Jolse, según las páginas oficiales.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
     "imageAlt": "Cecília con el tubo de la crema PDRN Volume Fill-it de Abib, enviada por YesStyle, con el logo de YesStyle y el título YesStyle vs Stylevana",
@@ -72820,95 +72729,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "No hay una tienda mejor para todo el mundo: la elección cambia con el país, con quién paga el impuesto y con lo que la tienda acepta de vuelta. En Portugal las cinco tiendas envían; decide por el impuesto y la devolución, con las tablas de abajo."
-        ]
-      },
-      {
-        "heading": "Quién envía a Portugal",
-        "comparisonTable": {
-          "caption": "Plazo, envío e impuesto de YesStyle, Stylevana, StyleKorean y Jolse para Portugal, según las páginas oficiales.",
-          "headers": [
-            "Tienda",
-            "Plazo",
-            "Envío gratis",
-            "Impuesto"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Standard, 10 a 15 días hábiles",
-              "desde US$ 60; US$ 5 por debajo",
-              "IVA del 23 % ya incluido en el precio"
-            ],
-            [
-              "Stylevana",
-              "Standard, 6 a 11 días hábiles; no envía a zonas remotas",
-              "desde 59 €; 4,39 € por debajo",
-              "la tienda no indica los países con el impuesto incluido"
-            ],
-            [
-              "Olive Young Global",
-              "no publicado para Portugal; la tienda prepara y embala el pedido en 1 a 3 días hábiles",
-              "desde US$ 60; US$ 25 por debajo",
-              "IVA e impuesto de 3 € por categoría aduanera, cobrados en el checkout"
-            ],
-            [
-              "StyleKorean",
-              "no publicado por país; la tienda entrega el pedido al transportista en un máximo de 5 días hábiles",
-              "desde US$ 80",
-              "a cargo del cliente"
-            ],
-            [
-              "Jolse",
-              "no publicado",
-              "por encima de US$ 60; US$ 6,99 por debajo",
-              "envío con el IVA del 23 % incluido"
-            ]
-          ]
-        },
-        "paragraphs": [
-          "Olive Young Global envía a Portugal (selector de destino del sitio, consultado el 21/10/2026), pero su página de envíos no tiene fila para el país: el plazo no se publica, y el envío sigue la regla general de su FAQ."
-        ]
-      },
-      {
-        "heading": "Quién paga el impuesto",
-        "comparisonTable": {
-          "caption": "Cuándo cobra el impuesto cada tienda y si reembolsa la tasa de aduana, según las páginas oficiales.",
-          "headers": [
-            "Tienda",
-            "Cuándo se cobra el impuesto",
-            "Reembolso del impuesto"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Portugal: IVA ya incluido en el precio",
-              "sí, en pedidos de menos de US$ 1.000, en crédito en la tienda"
-            ],
-            [
-              "Stylevana",
-              "la tienda dice que, en muchas regiones, el impuesto ya va en el precio o se calcula en el checkout, sin indicar las regiones",
-              "el sitio de Portugal no lo publica"
-            ],
-            [
-              "Olive Young Global",
-              "en la Unión Europea, el IVA y 3 € por categoría aduanera se cobran en el checkout, y la tienda dice que no se cobra nada más en la entrega; en los demás países, el precio y el envío no incluyen impuestos",
-              "en la Unión Europea, no reembolsa tasa de aduana, IVA ni cargo de importación"
-            ],
-            [
-              "StyleKorean",
-              "el impuesto de aduana corre a cargo del cliente; en EE. UU. y Canadá, se calcula y se cobra en el checkout",
-              "no publicado; si el cliente se niega a pagar el impuesto, el paquete se devuelve o se destruye, sin reembolso ni reenvío"
-            ],
-            [
-              "Jolse",
-              "Portugal: envío con el IVA del 23 % incluido",
-              "no publica reembolso; el cliente responde por el impuesto y las tasas de aduana"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "YesStyle es la única de las cinco que publica el reembolso de impuestos. Vale para los impuestos y tasas cobrados en la entrega, no para el IVA ya pagado en el checkout."
+          "No hay una tienda mejor para todo el mundo: la elección cambia con el país y con lo que la tienda acepta de vuelta. Decide por la devolución, con la tabla de abajo: en ninguna de las cinco se devuelve por arrepentimiento un producto de belleza abierto."
         ]
       },
       {
@@ -72988,7 +72809,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "US$ 80",
-              "Portugal, España, Francia, Bélgica, Países Bajos, Alemania, Suiza, Italia, Reino Unido, Irlanda, Dinamarca, Suecia, Noruega, Polonia, Hungría, Bulgaria, Rumanía, Emiratos, Arabia Saudí, Catar, Kuwait, Baréin y Omán"
+              "España, Francia, Bélgica, Países Bajos, Alemania, Suiza, Italia, Reino Unido, Irlanda, Dinamarca, Suecia, Noruega, Polonia, Hungría, Bulgaria, Rumanía, Emiratos, Arabia Saudí, Catar, Kuwait, Baréin y Omán"
             ],
             [
               "US$ 90",
@@ -73067,26 +72888,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué elegir",
         "bullets": [
-          "Si vives en Portugal: las cinco tiendas envían y todas publican desde qué importe el envío es gratis, así que la elección depende del impuesto y la devolución, en las tablas de arriba.",
+          "Para decidir: compara el plazo y lo que acepta cada tienda en la tabla de devoluciones de arriba.",
           "En cualquier país: antes de cerrar el pedido, consulta en la página oficial de cada tienda el envío, quién paga el impuesto y qué acepta de vuelta."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuál es mejor, YesStyle o Stylevana? Depende del país: para Portugal, los plazos y los mínimos están en la tabla de envíos.",
+          "¿Cuál es mejor, YesStyle o Stylevana? Depende del país y de lo que busques; en devoluciones, la tabla de arriba compara el plazo y lo que acepta cada tienda.",
           "¿YesStyle es lo mismo que SHEIN? No: YesStyle no aparece en la lista de marcas del SHEIN Group y dice pertenecer a YesAsia Holdings, de Hong Kong.",
           "¿Cuál es el límite de pedido en StyleKorean? US$ 500 por pedido, sin el envío; por encima, la tienda pide dividirlo en dos pedidos.",
-          "¿Qué tienda tiene el envío gratis más bajo? Para Portugal, los mínimos están en la tabla de envíos, y Stylevana es la única en euros.",
-          "¿Quién paga el impuesto? Depende de la tienda y del país: en Portugal, YesStyle y Jolse ya incluyen el IVA; solo YesStyle publica el reembolso de impuestos y tasas de aduana, en crédito, por debajo de US$ 1.000.",
           "¿Puedo devolver un producto de belleza abierto? No por arrepentimiento, en ninguna de las cinco tiendas; Stylevana acepta el arrepentimiento solo con el producto nuevo, precintado y sin usar.",
-          "¿Qué tienda entrega más rápido? Las tiendas publican el plazo del envío, no el total: para Portugal, Stylevana indica 6 a 11 días hábiles y YesStyle 10 a 15, sin contar el tiempo que tarda el artículo en salir de Hong Kong.",
           "¿Dónde va el código de recompensa de YesStyle? CECILIA010 va en el campo Reward Code del checkout, y los cupones del momento están en la página de YesStyle de este sitio."
         ]
       }
     ],
     "cta": {
-      "text": "Mira el envío y el impuesto de tu dirección en el checkout y pega CECILIA010 en el campo Código de Recompensa (Reward Code)",
+      "text": "Mira el envío y el impuesto de tu dirección en el checkout y pega CECILIA010 en el campo Reward Code",
       "label": "Ir a YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -73119,8 +72937,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-ou-stylevana-que-choisir",
     "locale": "fr",
     "translationKey": "yesstyle-vs-alternatives",
-    "title": "YesStyle ou Stylevana : livraison, taxes et retours côte à côte, avec Olive Young, StyleKorean et Jolse",
-    "seoTitle": "YesStyle ou Stylevana : livraison, taxes et retours",
+    "title": "YesStyle ou Stylevana : retours, livraison gratuite et code récompense côte à côte, avec Olive Young, StyleKorean et Jolse",
+    "seoTitle": "YesStyle ou Stylevana : retours, livraison gratuite et code récompense",
     "type": "Comparatif de boutiques",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -73131,12 +72949,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean et Jolse côte à côte pour le Portugal : qui livre, à partir de quel montant la livraison est gratuite, qui paie les taxes et ce que chaque boutique reprend, d'après les pages officielles.",
-    "metaDescription": "YesStyle ou Stylevana ? Livraison, livraison gratuite, taxes et retours pour le Portugal, avec Olive Young, StyleKorean et Jolse, d'après les pages officielles.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean et Jolse côte à côte : le délai de retour et ce que chaque boutique reprend, la livraison gratuite et la limite de commande de StyleKorean, et le code récompense CECILIA010, d'après les pages officielles.",
+    "metaDescription": "YesStyle ou Stylevana ? Retours, livraison gratuite de StyleKorean et code récompense CECILIA010, avec Olive Young, StyleKorean et Jolse, d'après les pages officielles.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
     "imageAlt": "Cecília avec le tube de crème PDRN Volume Fill-it d'Abib, envoyé par YesStyle, avec le logo YesStyle et le titre YesStyle vs Stylevana",
@@ -73148,95 +72966,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend du pays, de qui paie les taxes et de ce que la boutique reprend. Au Portugal, les cinq boutiques livrent ; décidez selon les taxes et le retour, avec les tableaux ci-dessous."
-        ]
-      },
-      {
-        "heading": "Qui livre au Portugal",
-        "comparisonTable": {
-          "caption": "Délai, frais de port et taxes de YesStyle, Stylevana, StyleKorean et Jolse pour le Portugal, d'après les pages officielles.",
-          "headers": [
-            "Boutique",
-            "Délai",
-            "Livraison gratuite",
-            "Taxes"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Standard, 10 à 15 jours ouvrés",
-              "dès US$ 60 ; US$ 5 en dessous",
-              "TVA de 23 % déjà dans le prix"
-            ],
-            [
-              "Stylevana",
-              "Standard, 6 à 11 jours ouvrés ; ne livre pas dans les zones isolées",
-              "dès 59 € ; 4,39 € en dessous",
-              "la boutique ne liste pas les pays où la taxe est incluse"
-            ],
-            [
-              "Olive Young Global",
-              "non publié pour le Portugal ; la boutique prépare et emballe la commande en 1 à 3 jours ouvrés",
-              "dès US$ 60 ; US$ 25 en dessous",
-              "TVA et taxe de 3 € par catégorie douanière prélevées au paiement"
-            ],
-            [
-              "StyleKorean",
-              "non publié par pays ; la boutique remet la commande au transporteur sous 5 jours ouvrés",
-              "dès US$ 80",
-              "à la charge du client"
-            ],
-            [
-              "Jolse",
-              "non publié",
-              "au-dessus de US$ 60 ; US$ 6,99 en dessous",
-              "envoi avec la TVA de 23 % incluse"
-            ]
-          ]
-        },
-        "paragraphs": [
-          "Olive Young Global livre au Portugal (sélecteur de destination du site, consulté le 21/10/2026), mais sa page d'expédition n'a pas de ligne pour ce pays : le délai n'est pas publié, et les frais de port suivent la règle générale de sa FAQ."
-        ]
-      },
-      {
-        "heading": "Qui paie les taxes",
-        "comparisonTable": {
-          "caption": "Quand chaque boutique prélève la taxe et si elle rembourse les frais de douane, d'après les pages officielles.",
-          "headers": [
-            "Boutique",
-            "Quand la taxe est prélevée",
-            "Remboursement de la taxe"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Portugal : TVA déjà dans le prix",
-              "oui, sur les commandes de moins de US$ 1 000, en crédit en boutique"
-            ],
-            [
-              "Stylevana",
-              "la boutique dit que, dans de nombreuses régions, la taxe est déjà dans le prix ou calculée au paiement, sans lister les régions",
-              "le site du Portugal ne le publie pas"
-            ],
-            [
-              "Olive Young Global",
-              "dans l'Union européenne, la TVA et 3 € par catégorie douanière sont prélevés au paiement, et la boutique dit que rien d'autre n'est prélevé à la livraison ; dans les autres pays, le prix et les frais de port n'incluent pas les taxes",
-              "dans l'Union européenne, ne rembourse ni frais de douane, ni TVA, ni frais d'importation"
-            ],
-            [
-              "StyleKorean",
-              "la taxe de douane est à la charge du client ; aux États-Unis et au Canada, elle est calculée et prélevée au paiement",
-              "non publié ; si le client refuse de payer la taxe, le colis est renvoyé ou détruit, sans remboursement ni réexpédition"
-            ],
-            [
-              "Jolse",
-              "Portugal : envoi avec la TVA de 23 % incluse",
-              "ne publie pas de remboursement ; le client répond des taxes et frais de douane"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "YesStyle est la seule des cinq à publier un remboursement de taxes. Il vaut pour les taxes et frais prélevés à la livraison, pas pour la TVA déjà payée au paiement."
+          "Aucune boutique n'est la meilleure pour tout le monde : le choix dépend du pays et de ce que la boutique reprend. Décidez selon le retour, avec le tableau ci-dessous : dans aucune des cinq, un produit de beauté ouvert ne se retourne pour changement d'avis."
         ]
       },
       {
@@ -73316,7 +73046,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "US$ 80",
-              "Portugal, Espagne, France, Belgique, Pays-Bas, Allemagne, Suisse, Italie, Royaume-Uni, Irlande, Danemark, Suède, Norvège, Pologne, Hongrie, Bulgarie, Roumanie, Émirats, Arabie saoudite, Qatar, Koweït, Bahreïn et Oman"
+              "Espagne, France, Belgique, Pays-Bas, Allemagne, Suisse, Italie, Royaume-Uni, Irlande, Danemark, Suède, Norvège, Pologne, Hongrie, Bulgarie, Roumanie, Émirats, Arabie saoudite, Qatar, Koweït, Bahreïn et Oman"
             ],
             [
               "US$ 90",
@@ -73395,26 +73125,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quelle boutique choisir",
         "bullets": [
-          "Si vous vivez au Portugal : les cinq boutiques livrent et toutes publient le montant à partir duquel la livraison est gratuite ; le choix se joue donc sur les taxes et le retour, dans les tableaux ci-dessus.",
+          "Pour décider : comparez le délai et ce que chaque boutique reprend, dans le tableau des retours ci-dessus.",
           "Quel que soit le pays : vérifiez sur la page officielle de chaque boutique la livraison, qui paie les taxes et ce qu'elle reprend avant de valider la commande."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quelle est la meilleure, YesStyle ou Stylevana ? Cela dépend du pays : pour le Portugal, les délais et les minimums figurent dans le tableau de livraison.",
+          "Quelle est la meilleure, YesStyle ou Stylevana ? Cela dépend du pays et de ce que vous cherchez ; pour les retours, le tableau ci-dessus compare le délai et ce que chaque boutique reprend.",
           "YesStyle, est-ce pareil que SHEIN ? Non : YesStyle ne figure pas dans la liste des marques du SHEIN Group et dit appartenir à YesAsia Holdings, de Hong Kong.",
           "Quelle est la limite de commande chez StyleKorean ? US$ 500 par commande, hors frais de port ; au-delà, la boutique demande de la scinder en deux commandes.",
-          "Quelle boutique a la livraison gratuite la plus basse ? Pour le Portugal, les minimums figurent dans le tableau de livraison, et Stylevana est la seule en euros.",
-          "Qui paie les taxes ? Cela dépend de la boutique et du pays : au Portugal, YesStyle et Jolse incluent déjà la TVA ; seule YesStyle publie un remboursement des taxes et frais de douane, en crédit, sous US$ 1 000.",
           "Puis-je retourner un produit de beauté ouvert ? Pas pour changement d'avis, dans aucune des cinq boutiques ; Stylevana accepte le changement d'avis seulement si le produit est neuf, scellé et inutilisé.",
-          "Quelle boutique livre le plus vite ? Les boutiques publient le délai d'expédition, pas le total : pour le Portugal, Stylevana indique 6 à 11 jours ouvrés et YesStyle 10 à 15, sans compter le temps que l'article met à quitter Hong Kong.",
           "Où va le code récompense de YesStyle ? CECILIA010 se saisit dans le champ Reward Code au paiement, et les coupons du moment sont sur la page YesStyle de ce site."
         ]
       }
     ],
     "cta": {
-      "text": "Vérifiez au paiement la livraison et les taxes pour votre adresse, puis saisissez CECILIA010 dans le champ « Reward Code »",
+      "text": "Vérifiez au paiement la livraison et les taxes pour votre adresse, puis saisissez CECILIA010 dans le champ Reward Code",
       "label": "Aller sur YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -73447,8 +73174,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-oder-stylevana-welcher-shop",
     "locale": "de",
     "translationKey": "yesstyle-vs-alternatives",
-    "title": "YesStyle oder Stylevana: Versand, Zoll und Rückgabe im Vergleich, mit Olive Young, StyleKorean und Jolse",
-    "seoTitle": "YesStyle oder Stylevana: Versand, Zoll und Rückgabe",
+    "title": "YesStyle oder Stylevana: Rückgabe, kostenloser Versand und Reward Code im Vergleich, mit Olive Young, StyleKorean und Jolse",
+    "seoTitle": "YesStyle oder Stylevana: Rückgabe, kostenloser Versand und Reward Code",
     "type": "Shop-Vergleich",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -73459,12 +73186,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean und Jolse im Vergleich für Portugal: wer liefert, ab welchem Betrag der Versand kostenlos ist, wer die Steuern zahlt und was jeder Shop zurücknimmt, nach den offiziellen Seiten.",
-    "metaDescription": "YesStyle oder Stylevana? Lieferung, kostenloser Versand, Steuern und Rückgabe für Portugal, mit Olive Young, StyleKorean und Jolse, nach den offiziellen Seiten.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean und Jolse im Vergleich: die Frist für die Rückgabe und was jeder Shop zurücknimmt, der kostenlose Versand und die Bestellgrenze bei StyleKorean und der Reward Code CECILIA010, nach den offiziellen Seiten.",
+    "metaDescription": "YesStyle oder Stylevana? Rückgabe, kostenloser Versand bei StyleKorean und der Reward Code CECILIA010, mit Olive Young, StyleKorean und Jolse, nach den offiziellen Seiten.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
     "imageAlt": "Cecília mit der Tube der PDRN-Volume-Fill-it-Creme von Abib, die YesStyle geschickt hat, mit dem YesStyle-Logo und dem Titel YesStyle vs Stylevana",
@@ -73476,95 +73203,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurz gesagt",
         "paragraphs": [
-          "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt vom Land ab, davon, wer die Steuern zahlt, und davon, was der Shop zurücknimmt. In Portugal liefern alle fünf Shops; entscheiden Sie nach Steuern und Rückgabe, anhand der Tabellen unten."
-        ]
-      },
-      {
-        "heading": "Wer nach Portugal liefert",
-        "comparisonTable": {
-          "caption": "Lieferzeit, Versand und Steuern von YesStyle, Stylevana, StyleKorean und Jolse für Portugal, nach den offiziellen Seiten.",
-          "headers": [
-            "Shop",
-            "Lieferzeit",
-            "Kostenloser Versand",
-            "Steuern"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Standard, 10 bis 15 Werktage",
-              "ab US$ 60; darunter US$ 5",
-              "23 % MwSt. schon im Preis"
-            ],
-            [
-              "Stylevana",
-              "Standard, 6 bis 11 Werktage; keine Lieferung in abgelegene Gebiete",
-              "ab 59 €; darunter 4,39 €",
-              "der Shop nennt die Länder mit enthaltener Steuer nicht"
-            ],
-            [
-              "Olive Young Global",
-              "für Portugal nicht angegeben; der Shop stellt die Bestellung in 1 bis 3 Werktagen zusammen und verpackt sie",
-              "ab US$ 60; darunter US$ 25",
-              "MwSt. und 3 € Abgabe je Zollkategorie werden im Checkout erhoben"
-            ],
-            [
-              "StyleKorean",
-              "nicht nach Land angegeben; der Shop übergibt die Bestellung innerhalb von 5 Werktagen an den Transporteur",
-              "ab US$ 80",
-              "trägt der Kunde"
-            ],
-            [
-              "Jolse",
-              "nicht angegeben",
-              "über US$ 60; darunter US$ 6,99",
-              "Versand mit 23 % MwSt. inklusive"
-            ]
-          ]
-        },
-        "paragraphs": [
-          "Olive Young Global liefert nach Portugal (Zielland-Auswahl der Website, abgerufen am 21.10.2026), aber die Versandseite hat keine Zeile für das Land: Die Lieferzeit wird nicht angegeben, und der Versand folgt der allgemeinen Regel in den FAQ."
-        ]
-      },
-      {
-        "heading": "Wer die Steuern zahlt",
-        "comparisonTable": {
-          "caption": "Wann jeder Shop die Steuer erhebt und ob er Zollgebühren erstattet, nach den offiziellen Seiten.",
-          "headers": [
-            "Shop",
-            "Wann die Steuer erhoben wird",
-            "Erstattung von Steuern"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Portugal: MwSt. schon im Preis",
-              "ja, bei Bestellungen unter US$ 1.000, als Guthaben im Shop"
-            ],
-            [
-              "Stylevana",
-              "der Shop sagt, dass in vielen Regionen die Steuer schon im Preis steckt oder im Checkout berechnet wird, ohne die Regionen zu nennen",
-              "die Website für Portugal gibt es nicht an"
-            ],
-            [
-              "Olive Young Global",
-              "in der Europäischen Union werden MwSt. und 3 € je Zollkategorie im Checkout erhoben, und der Shop sagt, dass bei der Lieferung nichts weiter anfällt; in den anderen Ländern enthalten Preis und Versand keine Steuern",
-              "in der Europäischen Union keine Erstattung von Zollgebühren, MwSt. oder Einfuhrabgaben"
-            ],
-            [
-              "StyleKorean",
-              "die Zollabgaben trägt der Kunde; in den USA und in Kanada werden sie im Checkout berechnet und erhoben",
-              "nicht angegeben; verweigert der Kunde die Zahlung der Steuer, geht das Paket zurück oder wird vernichtet, ohne Erstattung und ohne erneuten Versand"
-            ],
-            [
-              "Jolse",
-              "Portugal: Versand mit 23 % MwSt. inklusive",
-              "keine Erstattung angegeben; der Kunde haftet für Steuern und Zollgebühren"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "YesStyle ist der einzige der fünf Shops, der eine Steuererstattung angibt. Sie gilt für Steuern und Gebühren, die bei der Lieferung erhoben werden, nicht für die im Checkout schon gezahlte MwSt."
+          "Es gibt keinen Shop, der für alle der beste ist: Die Wahl hängt vom Land ab und davon, was der Shop zurücknimmt. Entscheiden Sie nach der Rückgabe, anhand der Tabelle unten: In keinem der fünf Shops kann ein geöffnetes Beauty-Produkt wegen Nichtgefallens zurückgegeben werden."
         ]
       },
       {
@@ -73644,7 +73283,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "US$ 80",
-              "Portugal, Spanien, Frankreich, Belgien, Niederlande, Deutschland, Schweiz, Italien, Vereinigtes Königreich, Irland, Dänemark, Schweden, Norwegen, Polen, Ungarn, Bulgarien, Rumänien, Emirate, Saudi-Arabien, Katar, Kuwait, Bahrain und Oman"
+              "Spanien, Frankreich, Belgien, Niederlande, Deutschland, Schweiz, Italien, Vereinigtes Königreich, Irland, Dänemark, Schweden, Norwegen, Polen, Ungarn, Bulgarien, Rumänien, Emirate, Saudi-Arabien, Katar, Kuwait, Bahrain und Oman"
             ],
             [
               "US$ 90",
@@ -73723,20 +73362,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Welchen Shop wählen",
         "bullets": [
-          "Wer in Portugal lebt: Alle fünf Shops liefern und alle geben an, ab welchem Betrag der Versand kostenlos ist; die Wahl hängt also von Steuern und Rückgabe ab, siehe die Tabellen oben.",
+          "Zur Entscheidung: Vergleichen Sie in der Rückgabetabelle oben die Frist und das, was jeder Shop zurücknimmt.",
           "In jedem Land: Prüfen Sie vor der Bestellung auf der offiziellen Seite jedes Shops den Versand, wer die Steuern zahlt und was er zurücknimmt."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Was ist besser, YesStyle oder Stylevana? Das hängt vom Land ab: Für Portugal stehen Lieferzeiten und Mindestbeträge in der Liefertabelle.",
+          "Was ist besser, YesStyle oder Stylevana? Das hängt vom Land und von Ihrem Bedarf ab; bei der Rückgabe vergleicht die Tabelle oben die Frist und das, was jeder Shop zurücknimmt.",
           "Ist YesStyle dasselbe wie SHEIN? Nein: YesStyle steht nicht in der Markenliste der SHEIN Group und gibt an, zur YesAsia Holdings in Hongkong zu gehören.",
           "Was ist die Bestellgrenze bei StyleKorean? US$ 500 pro Bestellung, ohne den Versand; darüber verlangt der Shop, sie in zwei Bestellungen aufzuteilen.",
-          "Welcher Shop hat den niedrigsten Mindestbetrag für kostenlosen Versand? Für Portugal stehen die Mindestbeträge in der Liefertabelle, und Stylevana ist der einzige in Euro.",
-          "Wer zahlt die Steuern? Das hängt vom Shop und vom Land ab: In Portugal enthalten YesStyle und Jolse die MwSt. schon; nur YesStyle gibt eine Erstattung von Steuern und Zollgebühren an, als Guthaben, unter US$ 1.000.",
           "Kann ich ein geöffnetes Beauty-Produkt zurückgeben? Nicht wegen Nichtgefallens, in keinem der fünf Shops; Stylevana akzeptiert Nichtgefallen nur bei neuem, versiegeltem und unbenutztem Produkt.",
-          "Welcher Shop liefert schneller? Die Shops geben die Versandzeit an, nicht die gesamte: Für Portugal nennt Stylevana 6 bis 11 Werktage und YesStyle 10 bis 15, ohne die Zeit, bis der Artikel Hongkong verlässt.",
           "Wohin kommt der Reward Code von YesStyle? CECILIA010 kommt im Checkout in das Feld Reward Code, und die aktuellen Gutscheine stehen auf der YesStyle-Seite hier auf der Website."
         ]
       }
@@ -73775,8 +73411,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-o-stylevana-quale-scegliere",
     "locale": "it",
     "translationKey": "yesstyle-vs-alternatives",
-    "title": "YesStyle o Stylevana: spedizione, dogana e resi a confronto, con Olive Young, StyleKorean e Jolse",
-    "seoTitle": "YesStyle o Stylevana: spedizione, dogana e resi",
+    "title": "YesStyle o Stylevana: resi, spedizione gratuita e codice ricompensa a confronto, con Olive Young, StyleKorean e Jolse",
+    "seoTitle": "YesStyle o Stylevana: resi, spedizione gratuita e codice ricompensa",
     "type": "Confronto tra negozi",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -73787,12 +73423,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse a confronto per il Portogallo: chi spedisce, da quale importo la spedizione è gratuita, chi paga le imposte e cosa accetta indietro ogni negozio, dalle pagine ufficiali.",
-    "metaDescription": "YesStyle o Stylevana? Spedizione, spedizione gratuita, imposte e resi per il Portogallo, con Olive Young, StyleKorean e Jolse, dalle pagine ufficiali.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse a confronto: il termine per il reso e cosa accetta indietro ogni negozio, la spedizione gratuita e il limite d'ordine di StyleKorean e il codice ricompensa CECILIA010, dalle pagine ufficiali.",
+    "metaDescription": "YesStyle o Stylevana? Resi, spedizione gratuita di StyleKorean e codice ricompensa CECILIA010, con Olive Young, StyleKorean e Jolse, dalle pagine ufficiali.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
     "imageAlt": "Cecília con il tubetto della crema PDRN Volume Fill-it di Abib, inviata da YesStyle, con il logo YesStyle e il titolo YesStyle vs Stylevana",
@@ -73804,95 +73440,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "In breve",
         "paragraphs": [
-          "Non esiste un negozio migliore per tutti: la scelta cambia con il paese, con chi paga le imposte e con ciò che il negozio accetta indietro. In Portogallo tutti e cinque i negozi spediscono; decidi in base a imposte e resi, con le tabelle qui sotto."
-        ]
-      },
-      {
-        "heading": "Chi spedisce in Portogallo",
-        "comparisonTable": {
-          "caption": "Tempi, spedizione e imposte di YesStyle, Stylevana, StyleKorean e Jolse per il Portogallo, dalle pagine ufficiali.",
-          "headers": [
-            "Negozio",
-            "Tempi",
-            "Spedizione gratuita",
-            "Imposte"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Standard, da 10 a 15 giorni lavorativi",
-              "da US$ 60; US$ 5 sotto",
-              "IVA al 23% già nel prezzo"
-            ],
-            [
-              "Stylevana",
-              "Standard, da 6 a 11 giorni lavorativi; non spedisce nelle aree remote",
-              "da € 59; € 4,39 sotto",
-              "il negozio non elenca i paesi con l'imposta inclusa"
-            ],
-            [
-              "Olive Young Global",
-              "non pubblicati per il Portogallo; il negozio prepara e imballa l'ordine in 1–3 giorni lavorativi",
-              "da US$ 60; US$ 25 sotto",
-              "IVA e imposta di € 3 per categoria doganale addebitate al checkout"
-            ],
-            [
-              "StyleKorean",
-              "non pubblicati per paese; il negozio consegna l'ordine al corriere entro 5 giorni lavorativi",
-              "da US$ 80",
-              "a carico del cliente"
-            ],
-            [
-              "Jolse",
-              "non pubblicati",
-              "sopra US$ 60; US$ 6,99 sotto",
-              "spedizione con l'IVA al 23% inclusa"
-            ]
-          ]
-        },
-        "paragraphs": [
-          "Olive Young Global spedisce in Portogallo (selettore di destinazione del sito, letto il 21/10/2026), ma la sua pagina sulle spedizioni non ha una riga per il paese: i tempi non sono pubblicati, e la spedizione segue la regola generale delle sue FAQ."
-        ]
-      },
-      {
-        "heading": "Chi paga le imposte",
-        "comparisonTable": {
-          "caption": "Quando ogni negozio addebita l'imposta e se rimborsa i dazi doganali, dalle pagine ufficiali.",
-          "headers": [
-            "Negozio",
-            "Quando l'imposta viene addebitata",
-            "Rimborso delle imposte"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Portogallo: IVA già nel prezzo",
-              "sì, sugli ordini sotto US$ 1.000, come credito nel negozio"
-            ],
-            [
-              "Stylevana",
-              "il negozio dice che, in molte regioni, l'imposta è già nel prezzo o calcolata al checkout, senza elencare le regioni",
-              "il sito del Portogallo non lo pubblica"
-            ],
-            [
-              "Olive Young Global",
-              "nell'Unione europea, IVA e € 3 per categoria doganale vengono addebitati al checkout, e il negozio dice che alla consegna non si paga altro; negli altri paesi, prezzo e spedizione non includono le imposte",
-              "nell'Unione europea, non rimborsa dazi doganali, IVA né oneri di importazione"
-            ],
-            [
-              "StyleKorean",
-              "i dazi doganali sono a carico del cliente; negli USA e in Canada, vengono calcolati e addebitati al checkout",
-              "non pubblicato; se il cliente rifiuta di pagare l'imposta, il pacco torna indietro o viene distrutto, senza rimborso né rispedizione"
-            ],
-            [
-              "Jolse",
-              "Portogallo: spedizione con l'IVA al 23% inclusa",
-              "non pubblica rimborsi; il cliente risponde di imposte e dazi doganali"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "YesStyle è l'unico dei cinque a pubblicare un rimborso delle imposte. Vale per le imposte e i dazi addebitati alla consegna, non per l'IVA già pagata al checkout."
+          "Non esiste un negozio migliore per tutti: la scelta cambia con il paese e con ciò che il negozio accetta indietro. Decidi in base ai resi, con la tabella qui sotto: in nessuno dei cinque si restituisce per ripensamento un prodotto di bellezza aperto."
         ]
       },
       {
@@ -73972,7 +73520,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "US$ 80",
-              "Portogallo, Spagna, Francia, Belgio, Paesi Bassi, Germania, Svizzera, Italia, Regno Unito, Irlanda, Danimarca, Svezia, Norvegia, Polonia, Ungheria, Bulgaria, Romania, Emirati, Arabia Saudita, Qatar, Kuwait, Bahrein e Oman"
+              "Spagna, Francia, Belgio, Paesi Bassi, Germania, Svizzera, Italia, Regno Unito, Irlanda, Danimarca, Svezia, Norvegia, Polonia, Ungheria, Bulgaria, Romania, Emirati, Arabia Saudita, Qatar, Kuwait, Bahrein e Oman"
             ],
             [
               "US$ 90",
@@ -74051,20 +73599,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quale scegliere",
         "bullets": [
-          "Chi vive in Portogallo: tutti e cinque i negozi spediscono e tutti pubblicano da quale importo la spedizione è gratuita, quindi la scelta dipende da imposte e resi, nelle tabelle qui sopra.",
+          "Per decidere: confronta il termine e ciò che accetta ogni negozio nella tabella dei resi qui sopra.",
           "In qualsiasi paese: prima di chiudere l'ordine, controlla nella pagina ufficiale di ogni negozio la spedizione, chi paga le imposte e cosa accetta indietro."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Qual è meglio, YesStyle o Stylevana? Dipende dal paese: per il Portogallo, tempi e minimi sono nella tabella delle spedizioni.",
+          "Qual è meglio, YesStyle o Stylevana? Dipende dal paese e da ciò che cerchi; per i resi, la tabella qui sopra confronta il termine e ciò che accetta ogni negozio.",
           "YesStyle è uguale a SHEIN? No: YesStyle non compare nell'elenco dei marchi del SHEIN Group e dice di appartenere a YesAsia Holdings, di Hong Kong.",
           "Qual è il limite d'ordine di StyleKorean? US$ 500 per ordine, spedizione esclusa; oltre, il negozio chiede di dividerlo in due ordini.",
-          "Quale negozio ha la spedizione gratuita più bassa? Per il Portogallo, i minimi sono nella tabella delle spedizioni, e Stylevana è l'unico in euro.",
-          "Chi paga le imposte? Dipende dal negozio e dal paese: in Portogallo, YesStyle e Jolse includono già l'IVA; solo YesStyle pubblica un rimborso di imposte e dazi doganali, in credito, sotto US$ 1.000.",
           "Posso restituire un prodotto di bellezza aperto? Non per ripensamento, in nessuno dei cinque negozi; Stylevana accetta il ripensamento solo con il prodotto nuovo, sigillato e mai usato.",
-          "Quale negozio consegna più in fretta? I negozi pubblicano i tempi di spedizione, non il totale: per il Portogallo, Stylevana indica da 6 a 11 giorni lavorativi e YesStyle da 10 a 15, senza contare il tempo che l'articolo impiega a lasciare Hong Kong.",
           "Dove va il codice ricompensa di YesStyle? CECILIA010 va nel campo Reward Code del checkout, e i coupon del momento sono nella pagina YesStyle di questo sito."
         ]
       }
@@ -74103,8 +73648,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-stylevana-ko",
     "locale": "ko",
     "translationKey": "yesstyle-vs-alternatives",
-    "title": "YesStyle vs Stylevana: 배송, 관세, 반품 비교",
-    "seoTitle": "YesStyle vs Stylevana: 배송, 관세, 반품 비교",
+    "title": "YesStyle vs Stylevana: 반품, 무료 배송, 리워드 코드 비교",
+    "seoTitle": "YesStyle vs Stylevana: 반품, 무료 배송, 리워드 코드 비교",
     "type": "쇼핑몰 비교",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -74115,15 +73660,15 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean, Jolse를 포르투갈 기준으로 나란히 비교했습니다. 어디가 배송해 주는지, 얼마부터 무료 배송인지, 세금은 누가 내는지, 각 쇼핑몰이 반품으로 무엇을 받아 주는지를 공식 페이지로 정리했습니다.",
-    "metaDescription": "YesStyle과 Stylevana, 어디가 나을까요? 포르투갈의 배송, 무료 배송, 세금, 반품을 Olive Young, StyleKorean, Jolse까지 공식 페이지로 비교합니다.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean, Jolse를 나란히 비교했습니다. 반품 신청 기한과 각 쇼핑몰이 받아 주는 범위, StyleKorean의 무료 배송 기준과 주문 한도, 리워드 코드 CECILIA010까지 공식 페이지로 정리했습니다.",
+    "metaDescription": "YesStyle과 Stylevana, 어디가 나을까요? 반품, StyleKorean의 무료 배송, 리워드 코드 CECILIA010을 Olive Young, StyleKorean, Jolse까지 공식 페이지로 비교합니다.",
     "publishedAt": "2026년 10월 13일",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
-    "imageAlt": "YesStyle에서 배송된 Abib PDRN Volume Fill-it 크림 튜브를 든 Cecília. YesStyle 로고와 'YesStyle vs Stylevana' 제목이 들어 있음",
+    "imageAlt": "YesStyle에서 배송된 Abib PDRN Volume Fill-it 크림 튜브를 든 Cecília. YesStyle 로고와 ‘YesStyle vs Stylevana’ 제목이 들어 있음",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [],
@@ -74132,95 +73677,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라, 세금을 누가 내는지, 반품으로 무엇을 받아 주는지에 따라 선택이 달라집니다. 포르투갈에서는 다섯 곳 모두 배송하므로, 세금과 반품 조건으로 고르면 됩니다. 아래 표를 참고하세요."
-        ]
-      },
-      {
-        "heading": "포르투갈로 배송하는 쇼핑몰",
-        "comparisonTable": {
-          "caption": "YesStyle, Stylevana, StyleKorean, Jolse의 포르투갈 배송 기간, 배송비, 세금을 공식 페이지 기준으로 정리했습니다.",
-          "headers": [
-            "쇼핑몰",
-            "배송 기간",
-            "무료 배송",
-            "세금"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Standard, 영업일 10~15일",
-              "US$ 60 이상 무료, 미만은 US$ 5",
-              "23% VAT(부가가치세)가 가격에 포함"
-            ],
-            [
-              "Stylevana",
-              "Standard, 영업일 6~11일. 외딴 지역은 배송하지 않음",
-              "€59 이상 무료, 미만은 €4.39",
-              "세금이 가격에 포함되는 국가를 쇼핑몰이 나열하지 않음"
-            ],
-            [
-              "Olive Young Global",
-              "포르투갈 배송 기간은 미공개. 주문 분류와 포장에 영업일 1~3일",
-              "US$ 60 이상 무료, 미만은 US$ 25",
-              "VAT와 관세 분류별 €3의 세금을 결제 단계에서 부과"
-            ],
-            [
-              "StyleKorean",
-              "국가별로는 미공개. 운송사 인계까지 영업일 최대 5일",
-              "US$ 80 이상 무료",
-              "고객 부담"
-            ],
-            [
-              "Jolse",
-              "미공개",
-              "US$ 60 초과 무료, 이하는 US$ 6.99",
-              "23% VAT를 포함해 발송"
-            ]
-          ]
-        },
-        "paragraphs": [
-          "Olive Young Global은 포르투갈에도 배송합니다(사이트의 배송 국가 선택기, 2026년 10월 21일 확인). 다만 배송 페이지에 이 나라의 항목이 없어 배송 기간은 공개되지 않고, 배송비는 FAQ의 일반 규정을 따릅니다."
-        ]
-      },
-      {
-        "heading": "세금은 누가 내나요?",
-        "comparisonTable": {
-          "caption": "각 쇼핑몰이 세금을 언제 부과하는지, 통관 수수료를 환불해 주는지를 공식 페이지 기준으로 정리했습니다.",
-          "headers": [
-            "쇼핑몰",
-            "세금이 부과되는 시점",
-            "세금 환불"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "포르투갈: VAT가 가격에 포함",
-              "가능. US$ 1,000 미만 주문에 한해 스토어 크레딧으로 환불"
-            ],
-            [
-              "Stylevana",
-              "쇼핑몰은 많은 지역에서 세금이 가격에 포함되거나 결제 단계에서 계산된다고 설명하지만, 해당 지역을 나열하지 않음",
-              "포르투갈 사이트에는 공개되지 않음"
-            ],
-            [
-              "Olive Young Global",
-              "EU에서는 VAT와 관세 분류별 €3를 결제 단계에서 부과하고, 배송 시 추가 비용은 없다고 쇼핑몰이 설명. 그 밖의 나라에서는 가격과 배송비에 세금이 포함되지 않음",
-              "EU에서는 통관 수수료, VAT, 수입 관련 비용을 환불하지 않음"
-            ],
-            [
-              "StyleKorean",
-              "관세는 고객 부담. 미국과 캐나다는 결제 단계에서 계산해 부과",
-              "미공개. 고객이 세금 납부를 거부하면 소포는 반송되거나 폐기되며, 환불도 재발송도 없음"
-            ],
-            [
-              "Jolse",
-              "포르투갈: 23% VAT를 포함해 발송",
-              "환불을 공개하지 않음. 세금과 통관 수수료는 고객 책임"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "다섯 곳 중 세금 환불을 공개한 곳은 YesStyle뿐입니다. 환불 대상은 배송 시 부과된 세금과 수수료이며, 결제 단계에서 이미 낸 VAT는 해당되지 않습니다."
+          "모두에게 맞는 쇼핑몰은 없습니다. 사는 나라와 반품으로 무엇을 받아 주는지에 따라 선택이 달라집니다. 반품 조건으로 고르면 됩니다. 다섯 곳 모두 개봉한 뷰티 제품은 단순 변심으로 반품할 수 없습니다. 아래 표를 참고하세요."
         ]
       },
       {
@@ -74300,7 +73757,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "US$ 80",
-              "포르투갈, 스페인, 프랑스, 벨기에, 네덜란드, 독일, 스위스, 이탈리아, 영국, 아일랜드, 덴마크, 스웨덴, 노르웨이, 폴란드, 헝가리, 불가리아, 루마니아, 아랍에미리트, 사우디아라비아, 카타르, 쿠웨이트, 바레인, 오만"
+              "스페인, 프랑스, 벨기에, 네덜란드, 독일, 스위스, 이탈리아, 영국, 아일랜드, 덴마크, 스웨덴, 노르웨이, 폴란드, 헝가리, 불가리아, 루마니아, 아랍에미리트, 사우디아라비아, 카타르, 쿠웨이트, 바레인, 오만"
             ],
             [
               "US$ 90",
@@ -74379,26 +73836,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "어떤 쇼핑몰을 고를까",
         "bullets": [
-          "포르투갈에 사는 경우: 다섯 곳 모두 배송하고 무료 배송 기준도 모두 공개하므로, 세금과 반품 조건으로 고르면 됩니다. 위의 표를 참고하세요.",
+          "고를 때는: 위의 반품 표에서 신청 기한과 각 쇼핑몰이 받아 주는 범위를 비교하세요.",
           "어느 나라든: 주문을 확정하기 전에 각 쇼핑몰의 공식 페이지에서 배송, 세금 부담, 반품으로 받아 주는 사유를 확인하세요."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "YesStyle과 Stylevana 중 어디가 더 좋나요? 나라에 따라 다릅니다. 포르투갈의 배송 기간과 무료 배송 기준은 배송 표에 있습니다.",
+          "YesStyle과 Stylevana 중 어디가 더 좋나요? 나라와 목적에 따라 다릅니다. 반품은 위의 표에서 신청 기한과 각 쇼핑몰이 받아 주는 범위를 비교할 수 있습니다.",
           "YesStyle은 SHEIN과 같은 회사인가요? 아니요. YesStyle은 SHEIN Group의 브랜드 목록에 없고, 홍콩의 YesAsia Holdings 소속이라고 밝힙니다.",
           "StyleKorean의 주문 한도는 얼마인가요? 배송비를 제외하고 주문당 US$ 500이며, 이를 넘으면 두 번에 나눠 주문하라고 안내합니다.",
-          "무료 배송 기준이 가장 낮은 쇼핑몰은 어디인가요? 포르투갈의 기준은 배송 표에 있고, 유로로 표시하는 곳은 Stylevana뿐입니다.",
-          "세금은 누가 내나요? 쇼핑몰과 나라에 따라 다릅니다. 포르투갈에서는 YesStyle과 Jolse가 가격에 VAT를 포함합니다. 세금과 통관 수수료 환불을 공개한 곳은 YesStyle뿐이며, US$ 1,000 미만 주문에 한해 스토어 크레딧으로 환불합니다.",
           "개봉한 뷰티 제품도 반품할 수 있나요? 단순 변심으로는 다섯 곳 모두 불가합니다. Stylevana는 새 제품이며 밀봉·미사용인 경우에 한해 단순 변심 반품을 받습니다.",
-          "어느 쇼핑몰이 더 빨리 배송하나요? 쇼핑몰이 공개하는 것은 발송 후 배송 기간이지 전체 기간이 아닙니다. 포르투갈의 경우 Stylevana는 영업일 6~11일, YesStyle은 10~15일이며, 제품이 홍콩에서 나오기까지의 시간은 포함되지 않습니다.",
           "YesStyle 리워드 코드는 어디에 입력하나요? CECILIA010은 결제 화면의 Reward Code 칸에 입력합니다. 지금 쓸 수 있는 쿠폰은 이 사이트의 YesStyle 페이지에 있습니다."
         ]
       }
     ],
     "cta": {
-      "text": "결제 화면에서 내 주소의 배송비와 세금을 확인하고 Reward Code 칸에 CECILIA010을 붙여넣으세요.",
+      "text": "결제 화면에서 배송지 주소의 배송비와 세금을 확인하고 Reward Code 칸에 CECILIA010을 붙여넣으세요.",
       "label": "YesStyle로 이동",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -74431,8 +73885,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-stylevana-ja",
     "locale": "ja",
     "translationKey": "yesstyle-vs-alternatives",
-    "title": "YesStyleとStylevanaを比較：配送・関税・返品",
-    "seoTitle": "YesStyleとStylevanaを比較：配送・関税・返品",
+    "title": "YesStyleとStylevanaを比較：返品・送料無料の条件・リワードコード",
+    "seoTitle": "YesStyleとStylevanaを比較：返品・送料無料の条件・リワードコード",
     "type": "ショップ比較",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -74443,12 +73897,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle、Stylevana、Olive Young、StyleKorean、Jolseをポルトガルで比較します。どこが届けてくれるか、送料無料になる条件、税金は誰が払うか、各ショップが返品で何を受け付けるかを、公式ページをもとにまとめました。",
-    "metaDescription": "YesStyleとStylevanaはどちらがいい？ ポルトガルの配送、送料無料、税金、返品を、Olive Young、StyleKorean、Jolseも含めて公式ページで比較します。",
+    "description": "YesStyle、Stylevana、Olive Young、StyleKorean、Jolseを比較します。返品を申請できる期間と各ショップが受け付ける内容、StyleKoreanの送料無料の条件と注文の上限、リワードコードCECILIA010について、公式ページをもとにまとめました。",
+    "metaDescription": "YesStyleとStylevanaはどちらがいい？ 返品、StyleKoreanの送料無料、リワードコードCECILIA010を、Olive Young、StyleKorean、Jolseも含めて公式ページで比較します。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
     "imageAlt": "YesStyleから届いたAbibのPDRN Volume Fill-itクリームのチューブを持つCecília。YesStyleのロゴと「YesStyle vs Stylevana」のタイトル入り",
@@ -74460,95 +73914,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "みんなにとって一番のショップというものはありません。選び方は、住んでいる国、税金を誰が払うか、返品で何を受け付けてくれるかで変わります。ポルトガルでは5店とも届けてくれるので、税金と返品の条件で決めましょう。比較は下の表のとおりです。"
-        ]
-      },
-      {
-        "heading": "ポルトガルに届けてくれるショップ",
-        "comparisonTable": {
-          "caption": "YesStyle、Stylevana、StyleKorean、Jolseのポルトガル向けの配送日数、送料、税金を、公式ページからまとめました。",
-          "headers": [
-            "ショップ",
-            "配送日数",
-            "送料無料",
-            "税金"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Standard、10〜15営業日",
-              "US$60以上で無料、未満はUS$5",
-              "23%のVAT（付加価値税）が価格に含まれる"
-            ],
-            [
-              "Stylevana",
-              "Standard、6〜11営業日。遠隔地には届かない",
-              "€59以上で無料、未満は€4.39",
-              "税金が価格に含まれる国は、ショップが一覧にしていない"
-            ],
-            [
-              "Olive Young Global",
-              "ポルトガル向けは非公表。注文の仕分けと梱包に1〜3営業日",
-              "US$60以上で無料、未満はUS$25",
-              "VATと、関税区分ごとの€3の税金をチェックアウトで徴収"
-            ],
-            [
-              "StyleKorean",
-              "国別では非公表。運送会社への引き渡しまで最大5営業日",
-              "US$80以上で無料",
-              "購入者の負担"
-            ],
-            [
-              "Jolse",
-              "非公表",
-              "US$60超で無料、以下はUS$6.99",
-              "23%のVAT込みで発送"
-            ]
-          ]
-        },
-        "paragraphs": [
-          "Olive Young Globalはポルトガルにも届けます（サイトの配送先セレクターで確認、2026年10月21日）。ただし配送のページにこの国の行はなく、配送日数は非公表で、送料はFAQの一般ルールに従います。"
-        ]
-      },
-      {
-        "heading": "税金は誰が払う？",
-        "comparisonTable": {
-          "caption": "各ショップが税金をいつ徴収するか、通関手数料を返金するかを、公式ページからまとめました。",
-          "headers": [
-            "ショップ",
-            "税金を徴収するタイミング",
-            "税金の返金"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "ポルトガル：VATは価格に含まれる",
-              "あり。US$1,000未満の注文が対象で、ストアクレジットで返金"
-            ],
-            [
-              "Stylevana",
-              "多くの地域では税金が価格に含まれるか、チェックアウトで計算されるとショップは説明しているが、地域は一覧にしていない",
-              "ポルトガル向けサイトでは非公表"
-            ],
-            [
-              "Olive Young Global",
-              "EUではVATと、関税区分ごとの€3をチェックアウトで徴収し、配達時にはそれ以上かからないとショップは説明。ほかの国では、価格と送料に税金は含まれない",
-              "EUでは、通関手数料、VAT、輸入に関する費用を返金しない"
-            ],
-            [
-              "StyleKorean",
-              "関税は購入者の負担。米国とカナダでは、チェックアウトで計算して徴収",
-              "非公表。購入者が税金の支払いを拒むと、荷物は返送または廃棄され、返金も再発送もない"
-            ],
-            [
-              "Jolse",
-              "ポルトガル：23%のVAT込みで発送",
-              "返金は非公表。税金と通関手数料は購入者の負担"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "税金の返金を公表しているのは5店のうちYesStyleだけです。対象は配達時に徴収された税金と手数料で、チェックアウトですでに払ったVATは含まれません。"
+          "みんなにとって一番のショップというものはありません。選び方は、住んでいる国と、返品で何を受け付けてくれるかで変わります。返品の条件で決めましょう。5店とも、開封した美容製品は気が変わっただけでは返品できません。比較は下の表のとおりです。"
         ]
       },
       {
@@ -74628,7 +73994,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "US$80",
-              "ポルトガル、スペイン、フランス、ベルギー、オランダ、ドイツ、スイス、イタリア、英国、アイルランド、デンマーク、スウェーデン、ノルウェー、ポーランド、ハンガリー、ブルガリア、ルーマニア、アラブ首長国連邦、サウジアラビア、カタール、クウェート、バーレーン、オマーン"
+              "スペイン、フランス、ベルギー、オランダ、ドイツ、スイス、イタリア、英国、アイルランド、デンマーク、スウェーデン、ノルウェー、ポーランド、ハンガリー、ブルガリア、ルーマニア、アラブ首長国連邦、サウジアラビア、カタール、クウェート、バーレーン、オマーン"
             ],
             [
               "US$90",
@@ -74707,20 +74073,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "どのショップを選ぶか",
         "bullets": [
-          "ポルトガルにお住まいの方：5店とも届けてくれて、送料無料の条件もすべて公表されています。税金と返品の条件で選びましょう。上の表を参考にしてください。",
+          "決めるときは：上の返品の表で、申請できる期間と各ショップが受け付ける内容を比べましょう。",
           "どの国でも：注文を確定する前に、各ショップの公式ページで配送、税金の負担、返品で受け付ける内容を確認してください。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "YesStyleとStylevanaでは、どちらがいいですか？国によって違います。ポルトガル向けの配送日数と送料無料の条件は、配送の表にまとめています。",
+          "YesStyleとStylevanaでは、どちらがいいですか？国や目的によって違います。返品については、上の表で申請できる期間と各ショップが受け付ける内容を比べられます。",
           "YesStyleはSHEINと同じですか？いいえ。YesStyleはSHEIN Groupのブランド一覧に載っておらず、香港のYesAsia Holdings傘下だと説明しています。",
           "StyleKoreanの注文の上限はいくらですか？送料を除いて1回US$500です。これを超えると、2回に分けるよう案内されます。",
-          "送料無料の条件が一番低いのはどのショップですか？ポルトガル向けの条件は配送の表にまとめています。ユーロで表示しているのはStylevanaだけです。",
-          "税金は誰が払いますか？ショップと国によって違います。ポルトガルでは、YesStyleとJolseは価格にVATが含まれます。税金と通関手数料の返金を公表しているのはYesStyleだけで、US$1,000未満の注文を対象に、ストアクレジットで返金されます。",
           "開封した美容製品を返品できますか？気が変わっただけでは、5店のどこでも返品できません。Stylevanaは、新品・未開封・未使用の場合に限り、気が変わった場合の返品を受け付けます。",
-          "一番早く届くのはどのショップですか？各ショップが公表しているのは、発送後の配送日数で、全体の日数ではありません。ポルトガル向けでは、Stylevanaが6〜11営業日、YesStyleが10〜15営業日ですが、商品が香港から出るまでの時間は含まれません。",
           "YesStyleのリワードコードはどこに入れますか？CECILIA010は、チェックアウトのReward Codeの欄に入力します。現在のクーポンは、このサイトのYesStyleのページにあります。"
         ]
       }
@@ -74759,8 +74122,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-stylevana-zh-hant",
     "locale": "zh-hant",
     "translationKey": "yesstyle-vs-alternatives",
-    "title": "YesStyle 還是 Stylevana？運送、稅費與退貨比較",
-    "seoTitle": "YesStyle 與 Stylevana 比較：運送、稅費與退貨",
+    "title": "YesStyle 還是 Stylevana？退貨、免運與獎勵碼比較",
+    "seoTitle": "YesStyle 與 Stylevana 比較：退貨、免運與獎勵碼",
     "type": "購物平台比較",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -74771,12 +74134,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "以葡萄牙為例，把 YesStyle、Stylevana、Olive Young、StyleKorean 和 Jolse 放在一起比較：哪些商店能寄送、滿多少免運、稅費由誰負擔、各店退貨接受什麼，皆以官方頁面為準。",
-    "metaDescription": "YesStyle 還是 Stylevana？葡萄牙的寄送、免運、稅費與退貨，連同 Olive Young、StyleKorean 和 Jolse，以官方頁面比較。",
+    "description": "把 YesStyle、Stylevana、Olive Young、StyleKorean 和 Jolse 放在一起比較：申請退貨的期限和各店接受退回什麼、StyleKorean 的免運門檻與訂單上限，以及獎勵碼 CECILIA010，皆以官方頁面為準。",
+    "metaDescription": "YesStyle 還是 Stylevana？退貨、StyleKorean 的免運和獎勵碼 CECILIA010，連同 Olive Young、StyleKorean 和 Jolse，以官方頁面比較。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
     "imageAlt": "Cecília 手拿 YesStyle 寄來的 Abib PDRN Volume Fill-it 面霜，附有 YesStyle 標誌與標題「YesStyle vs Stylevana」",
@@ -74788,95 +74151,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "沒有對所有人都最適合的商店：選擇取決於所在國家、稅費由誰負擔，以及商店退貨接受什麼。在葡萄牙，五家店都能寄送，依稅費和退貨條件來選即可，詳見下方表格。"
-        ]
-      },
-      {
-        "heading": "哪些店寄送到葡萄牙",
-        "comparisonTable": {
-          "caption": "YesStyle、Stylevana、StyleKorean 和 Jolse 寄往葡萄牙的時效、運費與稅費，以官方頁面為準。",
-          "headers": [
-            "商店",
-            "時效",
-            "免運",
-            "稅費"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Standard，10–15 個工作天",
-              "滿 US$60 免運，未滿收 US$5",
-              "價格已含 23% 的加值稅（VAT）"
-            ],
-            [
-              "Stylevana",
-              "Standard，6–11 個工作天；不寄送偏遠地區",
-              "滿 €59 免運，未滿收 €4.39",
-              "商店未列出價格已含稅的國家"
-            ],
-            [
-              "Olive Young Global",
-              "未公布葡萄牙的時效；商店分揀並包裝訂單需 1–3 個工作天",
-              "滿 US$60 免運，未滿收 US$25",
-              "加值稅，以及每個海關類別 €3 的稅費，於結帳時收取"
-            ],
-            [
-              "StyleKorean",
-              "未依國家公布；商店最多 5 個工作天內交給運送業者",
-              "滿 US$80 免運",
-              "由買家負擔"
-            ],
-            [
-              "Jolse",
-              "未公布",
-              "超過 US$60 免運，未超過收 US$6.99",
-              "寄送時已含 23% 的加值稅"
-            ]
-          ]
-        },
-        "paragraphs": [
-          "Olive Young Global 可以寄送到葡萄牙（網站的寄送地區選單，2026 年 10 月 21 日查看），但其運送頁面沒有這個國家的條目：時效未公布，運費依其 FAQ 的一般規則計算。"
-        ]
-      },
-      {
-        "heading": "稅費由誰負擔",
-        "comparisonTable": {
-          "caption": "各店何時收取稅費、是否退還清關費用，以官方頁面為準。",
-          "headers": [
-            "商店",
-            "何時收取稅費",
-            "稅費退款"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "葡萄牙：價格已含加值稅",
-              "有，訂單未滿 US$1,000，以商店購物金退還"
-            ],
-            [
-              "Stylevana",
-              "商店表示，許多地區的稅費已含在價格內或於結帳時計算，但沒有列出是哪些地區",
-              "葡萄牙網站未公布"
-            ],
-            [
-              "Olive Young Global",
-              "在歐盟，加值稅和每個海關類別 €3 的稅費於結帳時收取，商店表示送達時不再收取其他費用；在其他國家，價格和運費不含稅",
-              "在歐盟，不退還清關費用、加值稅和進口費用"
-            ],
-            [
-              "StyleKorean",
-              "關稅由買家負擔；在美國和加拿大，於結帳時計算並收取",
-              "未公布；買家拒絕繳稅，包裹會被退回或銷毀，不退款也不重寄"
-            ],
-            [
-              "Jolse",
-              "葡萄牙：寄送時已含 23% 的加值稅",
-              "未公布退款；買家自行負擔稅費和清關費用"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "五家店中，只有 YesStyle 公布了稅費退款。退款適用於送達時收取的稅費和費用，不適用於結帳時已付的加值稅。"
+          "沒有對所有人都最適合的商店：選擇取決於所在國家，以及商店退貨接受什麼。依退貨條件來選即可，詳見下方表格：五家店都不接受已拆封的美妝品因改變心意而退。"
         ]
       },
       {
@@ -74956,7 +74231,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "US$80",
-              "葡萄牙、西班牙、法國、比利時、荷蘭、德國、瑞士、義大利、英國、愛爾蘭、丹麥、瑞典、挪威、波蘭、匈牙利、保加利亞、羅馬尼亞、阿拉伯聯合大公國、沙烏地阿拉伯、卡達、科威特、巴林、阿曼"
+              "西班牙、法國、比利時、荷蘭、德國、瑞士、義大利、英國、愛爾蘭、丹麥、瑞典、挪威、波蘭、匈牙利、保加利亞、羅馬尼亞、阿拉伯聯合大公國、沙烏地阿拉伯、卡達、科威特、巴林、阿曼"
             ],
             [
               "US$90",
@@ -75035,20 +74310,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "該選哪一家",
         "bullets": [
-          "住在葡萄牙：五家店都寄送，也都公布了免運門檻，所以依稅費和退貨條件來選，見上方表格。",
+          "做決定時：對照上方的退貨表，比較申請期限和各店接受退回什麼。",
           "無論在哪個國家：下單前，到各店官方頁面確認運送、稅費由誰負擔，以及接受退回什麼。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "YesStyle 和 Stylevana 哪一家比較好？要看寄送的國家。葡萄牙的時效與免運門檻見寄送表格。",
+          "YesStyle 和 Stylevana 哪一家比較好？要看所在國家和你的需求。退貨方面，上方的表格比較了申請期限和各店接受退回什麼。",
           "YesStyle 和 SHEIN 是同一家嗎？不是。YesStyle 不在 SHEIN Group 的品牌清單上，並表示隸屬於香港的 YesAsia Holdings。",
           "StyleKorean 的訂單上限是多少？每筆訂單 US$500（不含運費），超過時商店要求拆成兩筆。",
-          "哪家的免運門檻最低？葡萄牙的門檻見寄送表格，其中只有 Stylevana 以歐元標價。",
-          "稅費由誰負擔？要看商店和國家：在葡萄牙，YesStyle 和 Jolse 的價格已含加值稅；只有 YesStyle 公布稅費與清關費用的退款，訂單未滿 US$1,000，以商店購物金退還。",
           "已拆封的美妝品可以退嗎？五家店都不接受因改變心意而退；Stylevana 只在商品全新、密封、未使用時接受。",
-          "哪家寄得最快？各店公布的是寄送時效，而不是總時間：寄往葡萄牙，Stylevana 為 6–11 個工作天，YesStyle 為 10–15 個工作天，均不含商品從香港出貨前所需的時間。",
           "YesStyle 的獎勵碼填在哪裡？CECILIA010 填入結帳頁的 Reward Code 欄位；目前的優惠券在本站的 YesStyle 頁面。"
         ]
       }
@@ -75087,8 +74359,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-stylevana-zh-hans",
     "locale": "zh-hans",
     "translationKey": "yesstyle-vs-alternatives",
-    "title": "YesStyle 还是 Stylevana？运送、税费与退货比较",
-    "seoTitle": "YesStyle 与 Stylevana 比较：运送、税费与退货",
+    "title": "YesStyle 还是 Stylevana？退货、免运费与奖励码比较",
+    "seoTitle": "YesStyle 与 Stylevana 比较：退货、免运费与奖励码",
     "type": "购物平台比较",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -75099,12 +74371,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "以葡萄牙为例，把 YesStyle、Stylevana、Olive Young、StyleKorean 和 Jolse 放在一起比较：哪些店能寄送、满多少免运费、税费由谁承担、各店退货接受什么，均以官方页面为准。",
-    "metaDescription": "YesStyle 还是 Stylevana？葡萄牙的寄送、免运费、税费与退货，连同 Olive Young、StyleKorean 和 Jolse，以官方页面比较。",
+    "description": "把 YesStyle、Stylevana、Olive Young、StyleKorean 和 Jolse 放在一起比较：申请退货的期限和各店接受退回什么、StyleKorean 的免运费门槛与订单上限，以及奖励码 CECILIA010，均以官方页面为准。",
+    "metaDescription": "YesStyle 还是 Stylevana？退货、StyleKorean 的免运费和奖励码 CECILIA010，连同 Olive Young、StyleKorean 和 Jolse，以官方页面比较。",
     "publishedAt": "2026年10月13日",
     "publishedAtISO": "2026-10-13",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
     "imageAlt": "Cecília 手拿 YesStyle 寄来的 Abib PDRN Volume Fill-it 面霜，配有 YesStyle 标志和标题“YesStyle vs Stylevana”",
@@ -75116,95 +74388,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "没有对所有人都最合适的商店：选择取决于所在国家、税费由谁承担，以及商店退货接受什么。在葡萄牙，五家店都能寄送，按税费和退货条件来选即可，详见下面的表格。"
-        ]
-      },
-      {
-        "heading": "哪些店寄送到葡萄牙",
-        "comparisonTable": {
-          "caption": "YesStyle、Stylevana、StyleKorean 和 Jolse 寄往葡萄牙的时效、运费与税费，以官方页面为准。",
-          "headers": [
-            "商店",
-            "时效",
-            "免运费",
-            "税费"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "Standard，10–15 个工作日",
-              "满 US$60 免运费，未满收 US$5",
-              "价格内已含 23% 的增值税（VAT）"
-            ],
-            [
-              "Stylevana",
-              "Standard，6–11 个工作日；不寄送偏远地区",
-              "满 €59 免运费，未满收 €4.39",
-              "商店未列出价格已含税的国家"
-            ],
-            [
-              "Olive Young Global",
-              "未公布葡萄牙的时效；商店分拣并打包订单需 1–3 个工作日",
-              "满 US$60 免运费，未满收 US$25",
-              "增值税，以及每个海关类别 €3 的税费，在结账时收取"
-            ],
-            [
-              "StyleKorean",
-              "未按国家公布；商店最多 5 个工作日内交给承运商",
-              "满 US$80 免运费",
-              "由买家承担"
-            ],
-            [
-              "Jolse",
-              "未公布",
-              "超过 US$60 免运费，不超过收 US$6.99",
-              "寄送时已含 23% 的增值税"
-            ]
-          ]
-        },
-        "paragraphs": [
-          "Olive Young Global 可以寄送到葡萄牙（网站的寄送地区选择器，2026 年 10 月 21 日查看），但其运送页面没有这个国家的条目：时效未公布，运费按其 FAQ 的一般规则计算。"
-        ]
-      },
-      {
-        "heading": "税费由谁承担",
-        "comparisonTable": {
-          "caption": "各店何时收取税费、是否退还清关费用，以官方页面为准。",
-          "headers": [
-            "商店",
-            "何时收取税费",
-            "税费退款"
-          ],
-          "rows": [
-            [
-              "YesStyle",
-              "葡萄牙：价格内已含增值税",
-              "有，订单未满 US$1,000，以商店购物金退还"
-            ],
-            [
-              "Stylevana",
-              "商店表示，许多地区的税费已含在价格内或在结账时计算，但没有列出是哪些地区",
-              "葡萄牙站点未公布"
-            ],
-            [
-              "Olive Young Global",
-              "在欧盟，增值税和每个海关类别 €3 的税费在结账时收取，商店表示送达时不再收取其他费用；在其他国家，价格和运费不含税",
-              "在欧盟，不退还清关费用、增值税和进口费用"
-            ],
-            [
-              "StyleKorean",
-              "关税由买家承担；在美国和加拿大，于结账时计算并收取",
-              "未公布；买家拒绝缴税，包裹会被退回或销毁，不退款也不重寄"
-            ],
-            [
-              "Jolse",
-              "葡萄牙：寄送时已含 23% 的增值税",
-              "未公布退款；买家自行承担税费和清关费用"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "五家店中，只有 YesStyle 公布了税费退款。退款适用于送达时收取的税费和费用，不适用于结账时已付的增值税。"
+          "没有对所有人都最合适的商店：选择取决于所在国家，以及商店退货接受什么。按退货条件来选即可，详见下面的表格：五家店都不接受已拆封的美妆产品因改变主意而退。"
         ]
       },
       {
@@ -75284,7 +74468,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "US$80",
-              "葡萄牙、西班牙、法国、比利时、荷兰、德国、瑞士、意大利、英国、爱尔兰、丹麦、瑞典、挪威、波兰、匈牙利、保加利亚、罗马尼亚、阿联酋、沙特阿拉伯、卡塔尔、科威特、巴林、阿曼"
+              "西班牙、法国、比利时、荷兰、德国、瑞士、意大利、英国、爱尔兰、丹麦、瑞典、挪威、波兰、匈牙利、保加利亚、罗马尼亚、阿联酋、沙特阿拉伯、卡塔尔、科威特、巴林、阿曼"
             ],
             [
               "US$90",
@@ -75363,26 +74547,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "该选哪一家",
         "bullets": [
-          "住在葡萄牙：五家店都寄送，也都公布了免运费门槛，所以按税费和退货条件来选，见上面的表格。",
+          "做决定时：对照上面的退货表，比较申请期限和各店接受退回什么。",
           "无论在哪个国家：下单前，到各店官方页面确认运送、税费由谁承担，以及接受退回什么。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "YesStyle 和 Stylevana 哪一家更好？要看寄往的国家。葡萄牙的时效与免运费门槛见寄送表格。",
+          "YesStyle 和 Stylevana 哪一家更好？要看所在国家和你的需求。退货方面，上面的表格比较了申请期限和各店接受退回什么。",
           "YesStyle 和 SHEIN 是同一家公司吗？不是。YesStyle 不在 SHEIN Group 的品牌清单上，并表示隶属于香港的 YesAsia Holdings。",
           "StyleKorean 的订单上限是多少？每笔订单 US$500（不含运费），超过时商店要求拆成两笔。",
-          "哪家的免运费门槛最低？葡萄牙的门槛见寄送表格，其中只有 Stylevana 以欧元标价。",
-          "税费由谁承担？要看商店和国家：在葡萄牙，YesStyle 和 Jolse 的价格已含增值税；只有 YesStyle 公布税费与清关费用的退款，订单未满 US$1,000，以商店购物金退还。",
           "已拆封的美妆产品可以退吗？五家店都不接受因改变主意而退；Stylevana 只在产品全新、密封、未使用时接受。",
-          "哪家寄得最快？各店公布的是寄送时效，而不是总时间：寄往葡萄牙，Stylevana 为 6–11 个工作日，YesStyle 为 10–15 个工作日，均不含商品从香港发出前所需的时间。",
           "YesStyle 的奖励码填在哪里？CECILIA010 填入结账页的 Reward Code 栏；目前的优惠券在本站的 YesStyle 页面。"
         ]
       }
     ],
     "cta": {
-      "text": "到 YesStyle 的结账页查看寄到你地址的运费与税费，并把 CECILIA010 填入 Reward Code 栏位。",
+      "text": "到 YesStyle 的结账页查看寄到你地址的运费与税费，并把 CECILIA010 填入 Reward Code 栏。",
       "label": "前往 YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -92505,7 +91686,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
     "imageAlt": "Logos of OpenClaw, Hermes Agent and Paperclip, with the Hostinger logo and shield and calendar icons",
@@ -92586,7 +91767,7 @@ export const reviewsData: unknown[] = [
         "heading": "Automatic renewal and the new price",
         "paragraphs": [
           "Everyone who signs up is enrolled in automatic renewal, because it is the default setting. The charge happens 30 to 0 days before the end of the period, on the card marked as default, at the plan's price on that date. The terms say that price can be higher or lower than the first period's, and that a price change applies at renewal, without advance notice.",
-          "Hostinger may send an email before the charge, but the terms say it has no obligation to. Customers on a one-month plan, for example, are not notified. To turn renewal off, log into your account and disable it at any time. If you turn it off and do not renew manually before the period ends, the service is closed.",
+          "Hostinger may send an email before the charge, but the terms say it has no obligation to. Customers on a one-month plan, for example, are not notified. To turn renewal off, log into your account and disable it at any time. If you turn it off and do not renew manually before the period ends, the service ends.",
           "What happens to the discount at renewal is explained in the [SONAR20 coupon guide](/en/reviews/hostinger-coupon-code-referral)."
         ],
         "images": [
@@ -92721,7 +91902,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
     "imageAlt": "Logos de OpenClaw, Hermes Agent y Paperclip, con el logo de Hostinger e iconos de escudo y calendario",
@@ -92731,7 +91912,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Hostinger es una empresa grande, con reglas públicas de reembolso y de renovación, y en nuestra experiencia el servicio y el soporte funcionan. Lo que sorprende es la renovación, que viene activada por defecto y puede tener otro precio. Abajo verás el reembolso, la renovación y la empresa que cobra; el 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
+          "Hostinger es una empresa grande, con reglas públicas de reembolso y de renovación, y en nuestra experiencia el servicio y el soporte funcionan. El punto delicado es la renovación, que viene activada por defecto y puede tener otro precio. Abajo verás el reembolso, la renovación y la empresa que cobra; el 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -92802,7 +91983,7 @@ export const reviewsData: unknown[] = [
         "heading": "Renovación automática y precio nuevo",
         "paragraphs": [
           "Quien contrata entra en la renovación automática, porque es la configuración por defecto. El cobro se hace entre 30 y 0 días antes del fin del período, en la tarjeta marcada como predeterminada, al precio vigente del plan en esa fecha. Los términos dicen que ese precio puede ser mayor o menor que el del primer período, y que el cambio de precio rige en la renovación, sin aviso previo.",
-          "Hostinger puede avisar por correo antes del cobro, pero los términos dicen que no tiene esa obligación. Los clientes con plan de un mes, por ejemplo, no reciben aviso. Para desactivarla, entra en la cuenta y desactiva la renovación en cualquier momento. Si la desactivas y no renuevas a mano antes del fin del período, el servicio se cierra.",
+          "Hostinger puede avisar por correo antes del cobro, pero los términos dicen que no tiene esa obligación. Los clientes con plan de un mes, por ejemplo, no reciben aviso. Para desactivarla, entra en la cuenta y desactiva la renovación en cualquier momento. Si la desactivas y no renuevas a mano antes del fin del período, el servicio termina.",
           "Qué pasa con el descuento en la renovación se explica en la [guía del cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ],
         "images": [
@@ -92837,7 +92018,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nuestra experiencia",
         "paragraphs": [
-          "Em Casa com Cecília funciona sobre Hostinger. Bruno, que también firma este texto, es cliente desde 2024, con más de 24 meses de contratos: hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. Nunca vio caer el servicio y, cada vez que tuvo un problema, el soporte lo resolvió, sobre todo el agente de IA.",
+          "Em Casa com Cecília funciona en Hostinger. Bruno, que también firma este texto, es cliente desde 2024, con más de 24 meses de contratos: hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. Nunca vio caer el servicio y, cada vez que tuvo un problema, el soporte lo resolvió, sobre todo el agente de IA.",
           "Es una experiencia, no una garantía. No dice qué pasará con tu plan, ni con un plan de otro precio o de otro período."
         ]
       },
@@ -92877,7 +92058,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes de Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92937,7 +92118,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
     "imageAlt": "Logos d'OpenClaw, de Hermes Agent et de Paperclip, avec le logo de Hostinger et des icônes de bouclier et de calendrier",
@@ -92947,7 +92128,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Hostinger est une grande entreprise, avec des règles publiques de remboursement et de renouvellement, et d'après notre expérience, le service et le support fonctionnent. Ce qui coince, c'est le renouvellement, activé par défaut et parfois à un autre prix. Vous trouverez plus bas le remboursement, le renouvellement et la société qui facture ; les 20 % sur la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
+          "Hostinger est une grande entreprise, avec des règles publiques de remboursement et de renouvellement, et d'après notre expérience, le service et le support fonctionnent. Ce qui coince, c'est le renouvellement, activé par défaut et qui peut être à un autre prix. Vous trouverez plus bas le remboursement, le renouvellement et la société qui facture ; les 20 % sur la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -93093,7 +92274,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les forfaits Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93153,7 +92334,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
     "imageAlt": "Logos von OpenClaw, Hermes Agent und Paperclip, mit dem Hostinger-Logo sowie Symbolen für Schild und Kalender",
@@ -93250,7 +92431,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ausfälle und Verfügbarkeitsgarantie",
         "paragraphs": [
-          "Die Bedingungen sagen, dass die Website „von Zeit zu Zeit“ offline sein kann, wegen Wartung oder aus Gründen außerhalb der Kontrolle des Unternehmens, und dass Hostinger dafür keine Verantwortung übernimmt. Die Tarifübersicht auf der Preisseite wirbt mit „99,9 % garantierter Uptime“. Das ist, was Hostinger bewirbt; die Zusage zur Verfügbarkeit steht, wo es sie gibt, im Dokument des jeweiligen Dienstes.",
+          "Die Bedingungen sagen, dass die Website „von Zeit zu Zeit“ offline sein kann, wegen Wartung oder aus Gründen außerhalb der Kontrolle des Unternehmens, und dass Hostinger dafür keine Verantwortung übernimmt. Die Tarifübersicht auf der Preisseite wirbt mit „99,9 % garantierter Uptime“. Das ist das, was Hostinger bewirbt; die Zusage zur Verfügbarkeit steht, wo es sie gibt, im Dokument des jeweiligen Dienstes.",
           "Wenn Ihre Website nicht ausfallen darf, suchen Sie vor dem Bezahlen das Dokument Ihres Tarifs. Der Satz auf der Seite reicht nicht."
         ]
       },
@@ -93290,7 +92471,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Ist Hostinger seriös? Es ist ein großes Unternehmen mit öffentlichen Richtlinien zu Erstattung und Verlängerung. Aufmerksamkeit verdient die automatische Verlängerung samt Preis, nicht die Seriosität des Unternehmens.",
           "Erstattet Hostinger Geld? Ja, innerhalb von 30 Tagen für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Support-Leistungen werden nicht erstattet.",
-          "Verlängert sich Hostinger automatisch? Ja, standardmäßig. Sie können das im Konto jederzeit abschalten; ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
+          "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können das im Konto jederzeit abschalten; ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
           "Wer rechnet bei Hostinger ab? Das hängt vom Land ab. Das Vertragsunternehmen folgt Abschnitt 2 der Bedingungen, und auch andere Unternehmen der Gruppe können abrechnen. Prüfen Sie den Namen beim Checkout.",
           "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb."
         ]
@@ -93309,7 +92490,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Der Code SONAR20 gibt 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
+      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
       "label": "Hostinger-Tarife ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93369,7 +92550,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
     "imageAlt": "Loghi di OpenClaw, Hermes Agent e Paperclip, con il logo di Hostinger e icone di scudo e calendario",
@@ -93379,7 +92560,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Hostinger è un'azienda grande, con regole pubbliche di rimborso e di rinnovo, e per la nostra esperienza servizio e assistenza funzionano. Il punto delicato è il rinnovo, attivo per impostazione predefinita e magari a un altro prezzo. Qui sotto trovi il rimborso, il rinnovo e l'azienda che addebita; il 20% sul primo periodo arriva dal [coupon SONAR20 di Hostinger](/it/coupons/hostinger)."
+          "Hostinger è un'azienda grande, con regole pubbliche di rimborso e di rinnovo, e per la nostra esperienza servizio e assistenza funzionano. Il punto delicato è il rinnovo, attivo per impostazione predefinita e possibilmente a un altro prezzo. Qui sotto trovi il rimborso, il rinnovo e l'azienda che addebita; il 20% sul primo periodo arriva dal [coupon SONAR20 di Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -93585,7 +92766,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
     "imageAlt": "OpenClaw, Hermes Agent, Paperclip 로고와 호스팅어 로고, 방패 및 달력 아이콘",
@@ -93665,7 +92846,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자동 갱신과 새 가격",
         "paragraphs": [
-          "가입하면 자동 갱신이 기본 설정이라 자동 갱신에 들어갑니다. 결제는 기간 종료 30일 전부터 0일 전 사이에, 기본으로 지정된 카드에, 그날 플랜의 가격으로 이루어집니다. 약관에는 이 가격이 첫 기간보다 높거나 낮을 수 있고, 가격 변경은 사전 통지 없이 갱신 시점에 적용된다고 되어 있습니다.",
+          "가입하면 기본 설정에 따라 자동 갱신에 들어갑니다. 결제는 기간 종료 30일 전부터 0일 전 사이에, 기본으로 지정된 카드에, 그날 플랜의 가격으로 이루어집니다. 약관에는 이 가격이 첫 기간보다 높거나 낮을 수 있고, 가격 변경은 사전 통지 없이 갱신 시점에 적용된다고 되어 있습니다.",
           "호스팅어는 결제 전에 이메일을 보낼 수 있지만, 약관상 그럴 의무는 없습니다. 예를 들어 1개월 요금제 고객에게는 알림이 가지 않습니다. 끄려면 계정에 로그인해 언제든지 갱신을 비활성화하면 됩니다. 끈 뒤 기간이 끝나기 전에 직접 갱신하지 않으면 서비스는 종료됩니다.",
           "갱신 때 할인이 어떻게 되는지는 [SONAR20 쿠폰 가이드](/ko/reviews/hostinger-referral-code-ko)에 설명되어 있습니다."
         ],
@@ -93741,7 +92922,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 SONAR20을 장바구니에 넣으면 첫 결제 기간에 20% 할인이 적용됩니다. 이 글의 링크로 요금제를 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
       "label": "호스팅어 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93801,7 +92982,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
     "imageAlt": "OpenClaw、Hermes Agent、Paperclipのロゴと、Hostingerのロゴ、盾とカレンダーのアイコン",
@@ -93837,7 +93018,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS（KVM）",
-              "はい、30日以内。ただし前回のVPS返金申請から180日以上経過している場合に限る"
+              "はい、30日以内。ただし前回のVPS返金申請から180日を超えて経過している場合に限る"
             ],
             [
               "Hostingerメール、SSL証明書、毎日のバックアップ",
@@ -93957,7 +93138,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れると、最初の契約期間が20%割引になります。リンクからプランをご覧ください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。更新は検証していません。カートで価格を確認してください。",
       "label": "Hostingerのプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94017,7 +93198,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
     "imageAlt": "OpenClaw、Hermes Agent 與 Paperclip 的標誌，以及 Hostinger 標誌和盾牌、日曆圖示",
@@ -94173,7 +93354,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車輸入 SONAR20，首個計費週期享 20%。透過本文連結查看方案。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。我們沒有測試過續訂；請在購物車確認價格。",
       "label": "查看 Hostinger 方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94233,7 +93414,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
     "imageAlt": "OpenClaw、Hermes Agent 和 Paperclip 的标志，以及 Hostinger 标志和盾牌、日历图标",
@@ -94822,7 +94003,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Top of Hostinger’s Trustpilot profile, with a 4.6 score, 73,316 reviews, a claimed profile, a paid subscription and the notice that the company invites customers to review",
+            "alt": "Top of Hostinger’s Trustpilot profile, with a 4.6 score, a claimed profile, a paid subscription and the notice that the company invites customers to review",
             "caption": "Hostinger’s Trustpilot profile. Image: Bruno’s screenshot.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -94836,15 +94017,15 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "The screenshots are from October 19, 2026. By October 24, the total had gone from 73,316 to 73,411 reviews, with the same score, and the response rate to negative reviews from 98% to 99%. The percentages per star did not move.",
-          "The page also shows the language of the reviews: 44,546 were in English, 8,744 in Spanish and 3,340 in French, among others. So the score is global, not the opinion of one market.",
+          "The screenshots are from October 19, 2026, and the table from October 24: the score was the same, the response rate to negative reviews went from 98% to 99%, and the percentages per star did not move.",
+          "The sample covered reviews in several languages, so the score is global, not the opinion of one market.",
           "What the table does not show is who gets invited and who writes on their own. That is where the next chapter starts."
         ]
       },
       {
         "heading": "Three readings that change the math",
         "paragraphs": [
-          "To see what sits behind the 4.6, we read the 100 most recent one-star reviews and the 100 most recent five-star reviews on October 24, 2026, in all languages. Trustpilot labels each review as “Invited”, when the company sent the request, or as organic, when the person came on their own. The table compares the two groups."
+          "To see what sits behind the 4.6, the 100 most recent one-star reviews and the 100 most recent five-star reviews were read on October 24, 2026, in all languages. Trustpilot labels each review as “Invited”, when the company sent the request, or as organic, when the person came on their own. The table compares the two groups."
         ],
         "comparisonTable": {
           "headers": [
@@ -94884,7 +94065,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What people complain about",
         "paragraphs": [
-          "After setting aside the 14 misrated praises, 86 real complaints were left among the 100 most recent one-star reviews. We read the titles and excerpts and tagged each complaint by theme, and one complaint can carry more than one theme, so the counts are approximate. These are the themes, from the most to the least cited:"
+          "After setting aside the 14 misrated praises, 86 real complaints were left among the 100 most recent one-star reviews. Each complaint was tagged by theme from its title and excerpt, and one complaint can carry more than one theme, so the counts are approximate. These are the themes, from the most to the least cited:"
         ],
         "bullets": [
           "**AI support and not reaching a person:** about 45 of 86. Part of these are about the AI tools of the website builder, not about support.",
@@ -94898,7 +94079,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "The most frequent countries among the 100 one-star reviews were the United States (18), India (14), France (8), the United Kingdom (6) and the Netherlands (6).",
           "Trustpilot itself publishes an automatic summary of the profile, generated by the site’s AI from 12,464 reviews. It lists as praise a stable hosting service, helpful support with fast human agents on technical problems, and a panel that is easy for beginners. It lists as complaints a very automated service with difficulty reaching a person, hard account recovery, billing, and strict rules for domain renewal. That matches what we found in the sample.",
-          "The first theme deserves a note. In the titles we read, the recurring complaint is not a wrong answer but not getting past the AI agent to a person. Our reading: for a customer with a site down, that wait is the problem.",
+          "The first theme deserves a note. In the titles read, the recurring complaint is not a wrong answer but not getting past the AI agent to a person. Our reading: for a customer with a site down, that wait is the problem.",
           "The reviews do not split the billing complaints by reason. The link with automatic renewal is our reading, and it is where the check should start."
         ]
       },
@@ -94930,7 +94111,7 @@ export const reviewsData: unknown[] = [
         "heading": "What Hostinger answers",
         "paragraphs": [
           "On Trustpilot, the company says it responds to 99% of negative reviews, usually within 24 hours. In our sample, 80 of the 86 complaints had a reply; the six without one had all been posted in the previous 24 hours. The page also warns that the company may use AI in its responses.",
-          "We counted the replies and did not grade them, so this text does not say whether the answers solve the problem. Before buying, read a few replies on the profile, especially the ones about billing and about reaching a person."
+          "The replies were counted, not graded, so this text does not say whether the answers solve the problem. Before buying, read a few replies on the profile, especially the ones about billing and about reaching a person."
         ]
       },
       {
@@ -94938,7 +94119,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, who also signs this text, has been a Hostinger customer since 2024, for more than 24 months: Business hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. The Em Casa com Cecília site runs on Hostinger.",
           "Each time he had a problem, support solved it, mainly the AI agent, and he has never seen the service go down.",
-          "That is his account, with his use, and it needs an honest counterpoint: the AI support that solved his problems is the theme that shows up most in the complaints we read, about 45 of 86, even if part of them are about the AI tools of the website builder. His case says nothing about someone who could not get past the agent, or who was charged without expecting it."
+          "That is his account, with his use, and it needs an honest counterpoint: the AI support that solved his problems is the theme that shows up most in the complaints read, about 45 of 86, even if part of them are about the AI tools of the website builder. His case says nothing about someone who could not get past the agent, or who was charged without expecting it."
         ]
       },
       {
@@ -94954,7 +94135,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "What is Hostinger’s Trustpilot score? A TrustScore of 4.6 out of 5, from 73,411 reviews, with 87.1% five stars and 6.9% one star.",
           "Are Hostinger’s Trustpilot reviews reliable? The profile is claimed and managed by the company, which invites customers to review. In our sample, 78 of the 100 most recent five-star reviews were invited, and 92 of the 100 most recent one-star reviews were organic. Trustpilot says it does not check reviews one by one.",
-          "What do Hostinger customers complain about on Trustpilot? In the 86 complaints we read among the 100 most recent one-star reviews, the main themes were AI support and not reaching a person (about 45), billing and renewal (about 38) and domains (about 27).",
+          "What do Hostinger customers complain about on Trustpilot? In the 86 complaints read among the 100 most recent one-star reviews, the main themes were AI support and not reaching a person (about 45), billing and renewal (about 38) and domains (about 27).",
           "Does Hostinger answer negative reviews? Yes. The page says the company responds to 99% of negative reviews, usually within 24 hours, and may use AI in the replies. In our sample, 80 of 86 complaints had a reply.",
           "How do I turn off Hostinger’s automatic renewal? In your account’s billing area, go to your services, open the three-dot menu next to the product, go to the renewal settings, turn off automatic renewal and save. The product stays active until the expiry date."
         ]
@@ -95110,7 +94291,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Parte superior del perfil de Hostinger en Trustpilot, con calificación 4,6, 73.316 opiniones, perfil reclamado, suscripción paga y el aviso de que la empresa invita a los clientes a opinar",
+            "alt": "Parte superior del perfil de Hostinger en Trustpilot, con calificación 4,6, perfil reclamado, suscripción paga y el aviso de que la empresa invita a los clientes a opinar",
             "caption": "Perfil de Hostinger en Trustpilot. Imagen: captura de Bruno.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -95124,15 +94305,15 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Las capturas son del 19 de octubre de 2026. El 24 de octubre el total había subido de 73.316 a 73.411 opiniones, con la misma calificación, y la tasa de respuesta a las negativas pasó del 98 % al 99 %. Los porcentajes por estrella no se movieron.",
-          "La página también muestra el idioma de las opiniones: 44.546 estaban en inglés, 8.744 en español y 3.340 en francés, entre otros. Así que la calificación es global, no la opinión de un solo mercado.",
+          "Las capturas son del 19 de octubre de 2026, y la tabla, del 24 de octubre: la calificación era la misma, la tasa de respuesta a las negativas pasó del 98 % al 99 % y los porcentajes por estrella no se movieron.",
+          "La muestra cubrió opiniones en varios idiomas, así que la calificación es global, no la opinión de un solo mercado.",
           "Lo que la tabla no muestra es quién recibe la invitación y quién escribe por su cuenta. Ahí empieza el próximo capítulo."
         ]
       },
       {
         "heading": "Tres lecturas que cambian la cuenta",
         "paragraphs": [
-          "Para ver qué hay detrás del 4,6, el 24 de octubre de 2026 leímos las 100 opiniones de una estrella más recientes y las 100 de cinco estrellas más recientes, en todos los idiomas. Trustpilot marca cada opinión como «Invitada», cuando la empresa envió la solicitud, o como espontánea, cuando la persona llegó por su cuenta. La tabla compara los dos grupos."
+          "Para ver qué hay detrás del 4,6, el 24 de octubre de 2026 se leyeron las 100 opiniones de una estrella más recientes y las 100 de cinco estrellas más recientes, en todos los idiomas. Trustpilot marca cada opinión como «Invitada», cuando la empresa envió la solicitud, o como espontánea, cuando la persona llegó por su cuenta. La tabla compara los dos grupos."
         ],
         "comparisonTable": {
           "headers": [
@@ -95172,7 +94353,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "De qué se quejan las personas",
         "paragraphs": [
-          "Descontados los 14 elogios con nota equivocada, quedaron 86 quejas reales entre las 100 opiniones de una estrella más recientes. Leímos los títulos y los fragmentos y clasificamos cada queja por tema; una queja puede tener más de un tema, así que los conteos son aproximados. Estos son los temas, de más a menos citados:"
+          "Descontados los 14 elogios con nota equivocada, quedaron 86 quejas reales entre las 100 opiniones de una estrella más recientes. Cada queja se clasificó por tema a partir del título y el fragmento; una queja puede tener más de un tema, así que los conteos son aproximados. Estos son los temas, de más a menos citados:"
         ],
         "bullets": [
           "**Atención por IA y no llegar a una persona:** unas 45 de 86. Parte de estas quejas habla de las herramientas de IA del constructor de sitios, no del soporte.",
@@ -95186,7 +94367,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Los países más frecuentes entre las 100 opiniones de una estrella fueron Estados Unidos (18), India (14), Francia (8), Reino Unido (6) y Países Bajos (6).",
           "Trustpilot publica por su cuenta un resumen automático del perfil, generado por la IA del propio sitio a partir de 12.464 opiniones. Lista como elogios un servicio de hosting estable, un soporte útil con agentes humanos rápidos ante problemas técnicos y un panel fácil para principiantes. Lista como quejas un servicio muy automatizado con dificultad para llegar a una persona, una recuperación de cuenta difícil, cobros y reglas estrictas para la renovación de dominios. Eso coincide con lo que encontramos en la muestra.",
-          "El primer tema merece una nota. En los títulos que leímos, lo que se repite no es una respuesta equivocada, sino no poder pasar del agente de IA a una persona. Nuestra lectura: para un cliente con el sitio fuera de línea, esa espera es el problema.",
+          "El primer tema merece una nota. En los títulos leídos, lo que se repite no es una respuesta equivocada, sino no poder pasar del agente de IA a una persona. Nuestra lectura: para un cliente con el sitio fuera de línea, esa espera es el problema.",
           "Las opiniones no separan los cobros por motivo. La relación con la renovación automática es una lectura nuestra, y es por ahí donde conviene empezar a revisar."
         ]
       },
@@ -95218,7 +94399,7 @@ export const reviewsData: unknown[] = [
         "heading": "Lo que responde Hostinger",
         "paragraphs": [
           "En Trustpilot, la empresa dice que responde al 99 % de las opiniones negativas, por lo general en 24 horas. En nuestra muestra, 80 de las 86 quejas tenían respuesta; las seis sin respuesta se habían publicado en las 24 horas anteriores. La página también advierte que la empresa puede usar IA en sus respuestas.",
-          "Contamos las respuestas sin calificarlas, así que este texto no dice si resuelven el problema. Antes de contratar, lee algunas respuestas en el perfil, sobre todo las que hablan de cobros y de no poder llegar a una persona."
+          "Las respuestas se contaron sin calificarlas, así que este texto no dice si resuelven el problema. Antes de contratar, lee algunas respuestas en el perfil, sobre todo las que hablan de cobros y de no poder llegar a una persona."
         ]
       },
       {
@@ -95226,7 +94407,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, que también firma este texto, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción: hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. El sitio Em Casa com Cecília funciona en Hostinger.",
           "Cada vez que tuvo un problema, el soporte lo resolvió, sobre todo el agente de IA, y nunca vio caer el servicio.",
-          "Es su cuenta, con su uso, y hace falta una contrapartida honesta: el soporte por IA que resolvió sus problemas es el tema que más aparece en las quejas que leímos, unas 45 de 86, aunque parte de ellas hable de las herramientas de IA del constructor de sitios. Su caso no dice nada de quien no logró pasar del agente, ni de quien recibió un cobro que no esperaba."
+          "Es su cuenta, con su uso, y hace falta una contrapartida honesta: el soporte por IA que resolvió sus problemas es el tema que más aparece en las quejas leídas, unas 45 de 86, aunque parte de ellas hable de las herramientas de IA del constructor de sitios. Su caso no dice nada de quien no logró pasar del agente, ni de quien recibió un cobro que no esperaba."
         ]
       },
       {
@@ -95242,7 +94423,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Cuál es la calificación de Hostinger en Trustpilot? Un TrustScore de 4,6 sobre 5, con 73.411 opiniones, el 87,1 % de cinco estrellas y el 6,9 % de una estrella.",
           "¿Son confiables las opiniones de Hostinger en Trustpilot? El perfil está reclamado y lo administra la empresa, que invita a los clientes a opinar. En nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Trustpilot dice que no revisa las opiniones una por una.",
-          "¿De qué se quejan los clientes de Hostinger en Trustpilot? En las 86 quejas que leímos entre las 100 opiniones de una estrella más recientes, los temas principales fueron la atención por IA y no llegar a una persona (unas 45), los cobros y la renovación (unas 38) y los dominios (unas 27).",
+          "¿De qué se quejan los clientes de Hostinger en Trustpilot? En las 86 quejas leídas entre las 100 opiniones de una estrella más recientes, los temas principales fueron la atención por IA y no llegar a una persona (unas 45), los cobros y la renovación (unas 38) y los dominios (unas 27).",
           "¿Hostinger responde a las opiniones negativas? Sí. La página dice que la empresa responde al 99 % de las opiniones negativas, por lo general en 24 horas, y que puede usar IA en las respuestas. En nuestra muestra, 80 de las 86 quejas tenían respuesta.",
           "¿Cómo desactivo la renovación automática de Hostinger? En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta la fecha de vencimiento."
         ]
@@ -95398,7 +94579,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Haut du profil Trustpilot de Hostinger, avec la note 4,6, 73 316 avis, le profil revendiqué, l’abonnement payant et l’avis indiquant que l’entreprise invite ses clients à laisser un avis",
+            "alt": "Haut du profil Trustpilot de Hostinger, avec la note 4,6, le profil revendiqué, l’abonnement payant et l’avis indiquant que l’entreprise invite ses clients à laisser un avis",
             "caption": "Profil Trustpilot de Hostinger. Image : capture d’écran de Bruno.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -95412,15 +94593,15 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Les captures datent du 19 octobre 2026. Le 24 octobre, le total était passé de 73 316 à 73 411 avis, avec la même note, et le taux de réponse aux avis négatifs de 98 % à 99 %. Les pourcentages par étoile n’ont pas bougé.",
-          "La page montre aussi la langue des avis : 44 546 étaient en anglais, 8 744 en espagnol et 3 340 en français, entre autres. La note est donc mondiale, et non l’opinion d’un seul marché.",
+          "Les captures datent du 19 octobre 2026 et le tableau du 24 octobre : la note était la même, le taux de réponse aux avis négatifs est passé de 98 % à 99 % et les pourcentages par étoile n’ont pas bougé.",
+          "L’échantillon couvrait des avis en plusieurs langues : la note est donc mondiale, et non l’opinion d’un seul marché.",
           "Ce que le tableau ne montre pas, c’est qui reçoit l’invitation et qui écrit de sa propre initiative. C’est là que commence le chapitre suivant."
         ]
       },
       {
         "heading": "Trois lectures qui changent le calcul",
         "paragraphs": [
-          "Pour voir ce qui se cache derrière le 4,6, nous avons lu le 24 octobre 2026 les 100 avis à une étoile les plus récents et les 100 avis à cinq étoiles les plus récents, dans toutes les langues. Trustpilot marque chaque avis comme « invité », quand l’entreprise a envoyé la demande, ou comme spontané, quand la personne est venue d’elle-même. Le tableau compare les deux groupes."
+          "Pour voir ce qui se cache derrière le 4,6, les 100 avis à une étoile les plus récents et les 100 avis à cinq étoiles les plus récents ont été lus le 24 octobre 2026, dans toutes les langues. Trustpilot marque chaque avis comme « invité », quand l’entreprise a envoyé la demande, ou comme spontané, quand la personne est venue d’elle-même. Le tableau compare les deux groupes."
         ],
         "comparisonTable": {
           "headers": [
@@ -95460,7 +94641,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce dont les gens se plaignent",
         "paragraphs": [
-          "Une fois écartés les 14 éloges mal notés, il restait 86 plaintes réelles parmi les 100 avis à une étoile les plus récents. Nous avons lu les titres et les extraits et classé chaque plainte par thème ; une plainte peut porter sur plusieurs thèmes, donc les décomptes sont approximatifs. Voici les thèmes, du plus cité au moins cité :"
+          "Une fois écartés les 14 éloges mal notés, il restait 86 plaintes réelles parmi les 100 avis à une étoile les plus récents. Chaque plainte a été classée par thème d’après son titre et son extrait ; une plainte peut porter sur plusieurs thèmes, donc les décomptes sont approximatifs. Voici les thèmes, du plus cité au moins cité :"
         ],
         "bullets": [
           "**Support par IA et impossibilité de joindre une personne :** environ 45 sur 86. Une partie concerne les outils d’IA du créateur de sites, et non le support.",
@@ -95506,7 +94687,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ce que répond Hostinger",
         "paragraphs": [
           "Sur Trustpilot, l’entreprise affirme répondre à 99 % des avis négatifs, en général dans les 24 heures. Dans notre échantillon, 80 des 86 plaintes avaient une réponse ; les six sans réponse avaient été publiées dans les 24 heures précédentes. La page indique aussi que l’entreprise peut utiliser l’IA pour ses réponses.",
-          "Nous avons compté les réponses sans les noter, donc ce texte ne dit pas si elles règlent le problème. Avant d’acheter, lisez quelques réponses sur le profil, surtout celles qui concernent la facturation et l’impossibilité de joindre une personne."
+          "Les réponses ont été comptées sans être notées, donc ce texte ne dit pas si elles règlent le problème. Avant d’acheter, lisez quelques réponses sur le profil, surtout celles qui concernent la facturation et l’impossibilité de joindre une personne."
         ]
       },
       {
@@ -95514,7 +94695,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, qui signe aussi ce texte, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement : hébergement Business, un VPS KVM 2, e-mail Business et domaines, tous avec renouvellement automatique. Le site Em Casa com Cecília tourne sur Hostinger.",
           "Chaque fois qu’il a eu un problème, le support l’a résolu, surtout l’agent d’IA, et il n’a jamais vu le service tomber.",
-          "C’est son compte, avec son usage, et il faut une contrepartie honnête : le support par IA qui a réglé ses problèmes est le thème le plus présent dans les plaintes que nous avons lues, environ 45 sur 86, même si une partie concerne les outils d’IA du créateur de sites. Son cas ne dit rien de ceux qui n’ont pas réussi à dépasser l’agent, ni de ceux qui ont été débités sans s’y attendre."
+          "C’est son compte, avec son usage, et il faut une contrepartie honnête : le support par IA qui a réglé ses problèmes est le thème le plus présent dans les plaintes lues, environ 45 sur 86, même si une partie concerne les outils d’IA du créateur de sites. Son cas ne dit rien de ceux qui n’ont pas réussi à dépasser l’agent, ni de ceux qui ont été débités sans s’y attendre."
         ]
       },
       {
@@ -95686,7 +94867,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Oberer Teil des Hostinger-Profils auf Trustpilot, mit Bewertung 4,6, 73.316 Bewertungen, beanspruchtem Profil, bezahltem Abo und dem Hinweis, dass die Firma Kunden zu Bewertungen einlädt",
+            "alt": "Oberer Teil des Hostinger-Profils auf Trustpilot, mit Bewertung 4,6, beanspruchtem Profil, bezahltem Abo und dem Hinweis, dass die Firma Kunden zu Bewertungen einlädt",
             "caption": "Hostinger-Profil auf Trustpilot. Bild: Screenshot von Bruno.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -95700,8 +94881,8 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Die Screenshots sind vom 19. Oktober 2026. Bis zum 24. Oktober war die Gesamtzahl von 73.316 auf 73.411 Bewertungen gestiegen, bei gleicher Bewertung, und die Antwortquote auf negative Bewertungen von 98 % auf 99 %. Die Prozentwerte pro Stern haben sich nicht bewegt.",
-          "Die Seite zeigt auch die Sprache der Bewertungen: 44.546 waren auf Englisch, 8.744 auf Spanisch und 3.340 auf Französisch, neben anderen. Die Bewertung ist also global, nicht die Meinung eines einzelnen Marktes.",
+          "Die Screenshots sind vom 19. Oktober 2026, die Tabelle vom 24. Oktober: Die Bewertung war gleich, die Antwortquote auf negative Bewertungen stieg von 98 % auf 99 %, und die Prozentwerte pro Stern haben sich nicht bewegt.",
+          "Die Stichprobe umfasste Bewertungen in mehreren Sprachen: Die Bewertung ist also global, nicht die Meinung eines einzelnen Marktes.",
           "Was die Tabelle nicht zeigt, ist, wer eine Einladung bekommt und wer von sich aus schreibt. Dort beginnt das nächste Kapitel."
         ]
       },
@@ -95755,7 +94936,7 @@ export const reviewsData: unknown[] = [
           "**Abrechnung, Verlängerung, Erstattungen und Gebühren:** etwa 38. Dazu gehören die Preiserhöhung nach dem Aktionszeitraum, eine nicht erwartete automatische Verlängerung und die Gebühr für die Wiederherstellung einer abgelaufenen Domain (76 Euro in einer Bewertung, 150 in einer anderen).",
           "**Domains:** etwa 27, mit Sperrung, Übertragung, Registrierung und Wiederherstellung.",
           "**E-Mail ausgefallen oder nicht erreichbar:** etwa 19.",
-          "**Seite oder VPS ausgefallen, oder Wartung ohne Ankündigung:** etwa 18, darunter ein Produktions-VPS, das 27 Stunden stillstand.",
+          "**Seite oder VPS ausgefallen, oder Wartung ohne Ankündigung:** etwa 18, darunter ein Produktions-VPS, der 27 Stunden stillstand.",
           "**Konto oder Dienst ohne klare Erklärung gesperrt:** etwa 16, einige nach einer Rückbuchung.",
           "**VPS mit CPU-Drosselung:** mindestens 4."
         ],
@@ -95974,7 +95155,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Parte alta del profilo Hostinger su Trustpilot, con punteggio 4,6, 73.316 recensioni, profilo rivendicato, abbonamento a pagamento e l’avviso che l’azienda invita i clienti a recensire",
+            "alt": "Parte alta del profilo Hostinger su Trustpilot, con punteggio 4,6, profilo rivendicato, abbonamento a pagamento e l’avviso che l’azienda invita i clienti a recensire",
             "caption": "Profilo Hostinger su Trustpilot. Immagine: screenshot di Bruno.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -95988,15 +95169,15 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Gli screenshot sono del 19 ottobre 2026. Entro il 24 ottobre il totale era salito da 73.316 a 73.411 recensioni, con lo stesso punteggio, e la quota di risposte alle recensioni negative dal 98% al 99%. Le percentuali per stella non si sono mosse.",
-          "La pagina mostra anche la lingua delle recensioni: 44.546 erano in inglese, 8.744 in spagnolo e 3.340 in francese, tra le altre. Il punteggio è quindi globale, non l’opinione di un solo mercato.",
+          "Gli screenshot sono del 19 ottobre 2026 e la tabella del 24 ottobre: il punteggio era lo stesso, la quota di risposte alle recensioni negative è passata dal 98% al 99% e le percentuali per stella non si sono mosse.",
+          "Il campione copriva recensioni in più lingue: il punteggio è quindi globale, non l’opinione di un solo mercato.",
           "Quello che la tabella non mostra è chi riceve l’invito e chi scrive di sua iniziativa. Da lì comincia il capitolo successivo."
         ]
       },
       {
         "heading": "Tre letture che cambiano il conto",
         "paragraphs": [
-          "Per capire cosa c’è dietro il 4,6, il 24 ottobre 2026 abbiamo letto le 100 recensioni a una stella più recenti e le 100 a cinque stelle più recenti, in tutte le lingue. Trustpilot contrassegna ogni recensione come «invitata», quando l’azienda ha mandato la richiesta, oppure come spontanea, quando la persona è arrivata da sola. La tabella confronta i due gruppi."
+          "Per capire cosa c’è dietro il 4,6, il 24 ottobre 2026 sono state lette le 100 recensioni a una stella più recenti e le 100 a cinque stelle più recenti, in tutte le lingue. Trustpilot contrassegna ogni recensione come «invitata», quando l’azienda ha mandato la richiesta, oppure come spontanea, quando la persona è arrivata da sola. La tabella confronta i due gruppi."
         ],
         "comparisonTable": {
           "headers": [
@@ -96036,7 +95217,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Di cosa si lamentano le persone",
         "paragraphs": [
-          "Tolti i 14 elogi con il voto sbagliato, tra le 100 recensioni a una stella più recenti sono rimasti 86 reclami veri. Abbiamo letto titoli ed estratti e classificato ogni reclamo per tema; un reclamo può riguardare più temi, quindi i conteggi sono approssimativi. Questi sono i temi, dal più citato al meno citato:"
+          "Tolti i 14 elogi con il voto sbagliato, tra le 100 recensioni a una stella più recenti sono rimasti 86 reclami veri. Ogni reclamo è stato classificato per tema in base a titolo ed estratto; un reclamo può riguardare più temi, quindi i conteggi sono approssimativi. Questi sono i temi, dal più citato al meno citato:"
         ],
         "bullets": [
           "**Supporto con l’IA e impossibilità di parlare con una persona:** circa 45 su 86. Una parte riguarda gli strumenti di IA del costruttore di siti, non il supporto.",
@@ -96082,7 +95263,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cosa risponde la Hostinger",
         "paragraphs": [
           "Su Trustpilot l’azienda dice di rispondere al 99% delle recensioni negative, di solito entro 24 ore. Nel nostro campione, 80 degli 86 reclami avevano una risposta; i sei senza risposta erano stati pubblicati nelle 24 ore precedenti. La pagina avverte anche che l’azienda può usare l’IA nelle risposte.",
-          "Abbiamo contato le risposte senza valutarle, quindi questo testo non dice se risolvono il problema. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti e sull’impossibilità di parlare con una persona."
+          "Le risposte sono state contate senza valutarle, quindi questo testo non dice se risolvono il problema. Prima di acquistare, leggi alcune risposte sul profilo, soprattutto quelle sugli addebiti e sull’impossibilità di parlare con una persona."
         ]
       },
       {
@@ -96090,7 +95271,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Bruno, che firma anche questo testo, è cliente della Hostinger dal 2024, con più di 24 mesi di abbonamento: hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Il sito Em Casa com Cecília gira sulla Hostinger.",
           "Ogni volta che ha avuto un problema, l’assistenza l’ha risolto, soprattutto l’agente IA, e non ha mai visto un’interruzione del servizio.",
-          "È la sua esperienza, con il suo uso, e serve un contrappeso onesto: l’assistenza con l’IA che ha risolto i suoi problemi è il tema più presente nei reclami che abbiamo letto, circa 45 su 86, anche se una parte riguarda gli strumenti di IA del costruttore di siti. Il suo caso non dice nulla di chi non è riuscito a superare l’agente, né di chi ha subito un addebito che non si aspettava."
+          "È la sua esperienza, con il suo uso, e serve un contrappeso onesto: l’assistenza con l’IA che ha risolto i suoi problemi è il tema più presente nei reclami letti, circa 45 su 86, anche se una parte riguarda gli strumenti di IA del costruttore di siti. Il suo caso non dice nulla di chi non è riuscito a superare l’agente, né di chi ha subito un addebito che non si aspettava."
         ]
       },
       {
@@ -96260,12 +95441,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "페이지는 회사가 관리하고, 고객에게 리뷰를 권하며, Trustpilot도 리뷰를 하나하나 확인하지 않습니다. 별 다섯 개가 87.1%여도, 그중 누가 초대를 받았는지는 표에서 알 수 없습니다. 다음 장에서 살펴봅니다."
+          "페이지는 회사가 관리하고, 고객에게 리뷰를 권하며, Trustpilot도 리뷰를 하나하나 확인하지 않습니다. 스크린샷은 2026년 10월 19일, 표는 10월 24일 기준입니다. 평점은 같았고, 부정적 리뷰 답변율은 98%에서 99%가 되었으며, 별점별 비율은 그대로였습니다. 별 다섯 개가 87.1%여도, 그중 누가 초대를 받았는지는 표에서 알 수 없습니다. 다음 장에서 살펴봅니다."
         ],
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot에 있는 Hostinger 프로필 상단. 평점 4.6, 리뷰 73,316건, 인증된 프로필, 유료 구독, 회사가 고객에게 리뷰를 권한다는 안내",
+            "alt": "Trustpilot에 있는 Hostinger 프로필 상단. 평점 4.6, 인증된 프로필, 유료 구독, 회사가 고객에게 리뷰를 권한다는 안내",
             "caption": "Trustpilot의 Hostinger 프로필. 이미지: Bruno가 찍은 화면.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -96280,7 +95461,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "숫자가 바꾸는 세 가지 읽는 법",
+        "heading": "계산을 바꾸는 세 가지 읽는 법",
         "paragraphs": [
           "4.6 뒤에 무엇이 있는지 보려고, 2026년 10월 24일에 모든 언어의 최신 별 한 개 리뷰 100건과 최신 별 다섯 개 리뷰 100건을 읽었습니다. Trustpilot은 각 리뷰에 회사가 요청을 보낸 경우 “Invited”, 본인이 직접 쓴 경우 Organic이라는 표시를 붙입니다. 아래 표는 두 집단을 비교한 것입니다."
         ],
@@ -96403,7 +95584,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "이미 결정했다면, 쿠폰 SONAR20을 장바구니에 넣으면 첫 기간 20% 할인이 적용됩니다. 갱신 가격은 테스트하지 않았습니다.",
+      "text": "이미 결정했다면 장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다.",
       "label": "할인 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96471,7 +95652,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "結論",
+        "heading": "クイックアンサー",
         "paragraphs": [
           "はい、ただし注意点があります。読み取った時点で、Hostinger の Trustpilot の TrustScore は 4.6、レビューは 73,411 件で、企業は否定的なレビューのほぼすべてに返信していました。ただし、企業が顧客にレビューを呼びかけているため平均が押し上げられていて、苦情の中心は AI サポート、請求と更新、ドメインです。ホスティングでは、請求の苦情は自動更新に注意が必要という話につながります。止め方は下で説明します。初回期間の 20% 割引は [Hostinger の SONAR20 クーポン](/ja/coupons/hostinger) で受けられます。"
         ]
@@ -96516,7 +95697,7 @@ export const reviewsData: unknown[] = [
               "5,098（6.9%）"
             ],
             [
-              "プロフィールの請求",
+              "プロフィールの認証",
               "済み。2017年5月から、企業がページを管理"
             ],
             [
@@ -96542,12 +95723,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "企業が管理するページで、顧客への呼びかけがあり、Trustpilot も一件ずつは確認していません。星 5 つが 87.1% でも、そのうち誰が招待されたのかは表からは分かりません。次の章で見ます。"
+          "企業が管理するページで、顧客への呼びかけがあり、Trustpilot も一件ずつは確認していません。スクリーンショットは 2026年10月19日、表は10月24日のもので、評価は同じ、否定的なレビューへの返信率は 98% から 99% になり、星ごとの割合は変わっていません。星 5 つが 87.1% でも、そのうち誰が招待されたのかは表からは分かりません。次の章で見ます。"
         ],
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot の Hostinger プロフィール上部。評価 4.6、レビュー 73,316 件、請求済みプロフィール、有料契約、企業が顧客にレビューを呼びかける表示",
+            "alt": "Trustpilot の Hostinger プロフィール上部。評価 4.6、請求済みプロフィール、有料契約、企業が顧客にレビューを呼びかける表示",
             "caption": "Trustpilot の Hostinger プロフィール。画像：Bruno のスクリーンショット。",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -96685,7 +95866,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "すでに決めているなら、カートのクーポン欄に SONAR20 を入れて、最初の期間 20% 割引のプランをご覧ください。",
+      "text": "すでに決めているなら、カートのクーポン欄に SONAR20 を入れるか、リンクから入ってください。最初の期間が20%割引です。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96753,7 +95934,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "快速結論",
+        "heading": "快速回答",
         "paragraphs": [
           "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,411 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分因此被拉高，投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得。"
         ]
@@ -96824,12 +96005,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "檔案由公司管理，公司會邀請客戶評價，Trustpilot 也不會逐則核實。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就從這裡開始。"
+          "檔案由公司管理，公司會邀請客戶評價，Trustpilot 也不會逐則核實。截圖是 2026 年 10 月 19 日的，表格是 10 月 24 日的：分數不變，負面評價回覆率從 98% 升到 99%，各星占比沒有變化。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就從這裡開始。"
         ],
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot 上 Hostinger 個人檔案的頂部，顯示 4.6 分、73,316 則評價、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
+            "alt": "Trustpilot 上 Hostinger 個人檔案的頂部，顯示 4.6 分、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
             "caption": "Trustpilot 上的 Hostinger 個人檔案。圖片：Bruno 截取的畫面。",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -96967,7 +96148,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "如果你已經決定，在購物車輸入 SONAR20，首個週期享 20% 折扣。",
+      "text": "如果你已經決定，在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。",
       "label": "查看折扣方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97035,7 +96216,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "快速结论",
+        "heading": "快速回答",
         "paragraphs": [
           "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,411 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分因此被拉高，投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得。"
         ]
@@ -97106,12 +96287,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "主页由公司管理，公司会邀请客户评价，Trustpilot 也不会逐条核实。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就从这里开始。"
+          "主页由公司管理，公司会邀请客户评价，Trustpilot 也不会逐条核实。截图是 2026 年 10 月 19 日的，表格是 10 月 24 日的：分数不变，负面评价回复率从 98% 升到 99%，各星占比没有变化。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就从这里开始。"
         ],
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot 上 Hostinger 个人主页的顶部，显示 4.6 分、73,316 条评价、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
+            "alt": "Trustpilot 上 Hostinger 个人主页的顶部，显示 4.6 分、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
             "caption": "Trustpilot 上的 Hostinger 个人主页。图片：Bruno 的截图。",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -97493,7 +96674,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
     "imageAlt": "Logos of OpenClaw, Hermes Agent and Paperclip, with the Hostinger logo and the 20% discount",
@@ -97503,7 +96684,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or come in through this article's link. We did not test renewal."
+          "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. We did not test renewal."
         ]
       },
       {
@@ -97543,7 +96724,7 @@ export const reviewsData: unknown[] = [
           "Choose the plan and the period and go to the cart.",
           "Paste SONAR20 in the coupon field and apply it.",
           "Check that the 20% shows up in the first-period total and that the renewal is listed.",
-          "If the cart value differs, the cart value is the one that counts."
+          "If the cart total differs from the prices on the page, the cart total is the one that counts."
         ]
       },
       {
@@ -97560,7 +96741,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
       "label": "See plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97620,7 +96801,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
     "imageAlt": "Logotipos de OpenClaw, Hermes Agent y Paperclip, con el logotipo de Hostinger y el descuento del 20%",
@@ -97670,7 +96851,7 @@ export const reviewsData: unknown[] = [
           "Elige el plan y el período y pasa al carrito.",
           "Pega SONAR20 en el campo de cupón y aplícalo.",
           "Comprueba que el 20% aparezca en el total del primer período y que la renovación esté indicada.",
-          "Si el valor del carrito es distinto, vale el valor del carrito."
+          "Si el valor del carrito es distinto de los precios mostrados, vale el valor del carrito."
         ]
       },
       {
@@ -97747,7 +96928,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
     "imageAlt": "Logos d'OpenClaw, de Hermes Agent et de Paperclip, avec le logo d'Hostinger et la réduction de 20 %",
@@ -97797,7 +96978,7 @@ export const reviewsData: unknown[] = [
           "Choisissez le forfait et la période, puis allez au panier.",
           "Collez SONAR20 dans le champ de coupon et appliquez-le.",
           "Vérifiez que les 20 % apparaissent dans le total de la première période et que le renouvellement est indiqué.",
-          "Si le montant du panier est différent, c'est le montant du panier qui compte."
+          "Si le montant du panier est différent des prix affichés, c'est le montant du panier qui compte."
         ]
       },
       {
@@ -97874,7 +97055,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
     "imageAlt": "Logos von OpenClaw, Hermes Agent und Paperclip, mit dem Hostinger-Logo und dem Rabatt von 20 %",
@@ -97924,7 +97105,7 @@ export const reviewsData: unknown[] = [
           "Wählen Sie Tarif und Laufzeit und gehen Sie zum Warenkorb.",
           "Fügen Sie SONAR20 im Gutscheinfeld ein und wenden Sie ihn an.",
           "Prüfen Sie, ob die 20 % in der Summe des ersten Zeitraums erscheinen und ob die Verlängerung aufgeführt ist.",
-          "Weicht der Betrag im Warenkorb ab, gilt der Betrag im Warenkorb."
+          "Weicht der Betrag im Warenkorb von den angezeigten Preisen ab, gilt der Betrag im Warenkorb."
         ]
       },
       {
@@ -98001,7 +97182,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
     "imageAlt": "Loghi di OpenClaw, Hermes Agent e Paperclip, con il logo di Hostinger e lo sconto del 20%",
@@ -98030,7 +97211,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Il sito gira su Hostinger",
         "paragraphs": [
-          "Em Casa com Cecília gira su Hostinger, e Bruno è cliente dal 2024, con più di 24 mesi di abbonamento. Usa hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Ogni volta che ha avuto un problema, l'assistenza l'ha risolto, soprattutto con l'agente IA. Di persona, non ha mai visto il servizio andare giù. È la sua esperienza."
+          "Em Casa com Cecília gira su Hostinger, e Bruno è cliente dal 2024, con più di 24 mesi di abbonamento. Usa hosting Business, un VPS KVM 2, e-mail Business e domini, tutti con rinnovo automatico. Ogni volta che ha avuto un problema, l'assistenza l'ha risolto, soprattutto con l'agente IA. Personalmente, non ha mai visto un'interruzione del servizio. È la sua esperienza."
         ]
       },
       {
@@ -98051,7 +97232,7 @@ export const reviewsData: unknown[] = [
           "Scegli il piano e il periodo e vai al carrello.",
           "Incolla SONAR20 nel campo coupon e applica.",
           "Controlla che il 20% compaia nel totale del primo periodo e che il rinnovo sia indicato.",
-          "Se il valore del carrello è diverso, vale il valore del carrello."
+          "Se il valore del carrello è diverso dai prezzi mostrati, vale il valore del carrello."
         ]
       },
       {
@@ -98128,7 +97309,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
     "imageAlt": "OpenClaw, Hermes Agent, Paperclip 로고와 Hostinger 로고, 20% 할인",
@@ -98178,7 +97359,7 @@ export const reviewsData: unknown[] = [
           "플랜과 기간을 고르고 장바구니로 넘어가세요.",
           "SONAR20을 쿠폰 입력란에 붙여넣고 적용하세요.",
           "첫 기간 총액에 20%가 나타나는지, 갱신 가격이 표시되는지 확인하세요.",
-          "장바구니 금액이 다르면 장바구니 금액이 기준입니다."
+          "장바구니 금액이 페이지 표시와 다르면 장바구니 금액이 기준입니다."
         ]
       },
       {
@@ -98195,7 +97376,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 코드 입력란에 SONAR20을 넣거나 이 링크로 들어가세요: 월간 또는 연간 플랜의 첫 기간 20%, 신규와 기존 고객 모두. 갱신 가격은 테스트하지 않았습니다.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
       "label": "할인 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -98255,7 +97436,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
     "imageAlt": "OpenClaw、Hermes Agent、Paperclipのロゴと、Hostingerのロゴ、20%割引",
     "imageFit": "contain",
@@ -98283,7 +97464,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "このサイトはHostingerで動いています",
         "paragraphs": [
-          "Em Casa com Cecília はHostingerで動いており、Brunoは2024年から顧客で、契約は24か月以上になります。Businessホスティング、VPS KVM 2、Businessメール、ドメインを使っていて、すべて自動更新です。問題が起きるたびにサポートが解決してくれて、主にAIエージェントが対応しました。本人はサービスが止まったのを見たことが一度もありません。これが彼の経験です。"
+          "Em Casa com Cecília は Hostinger で動いており、Brunoは2024年から顧客で、契約は24か月以上になります。Businessホスティング、VPS KVM 2、Businessメール、ドメインを使っていて、すべて自動更新です。問題が起きるたびにサポートが解決してくれて、主にAIエージェントが対応しました。本人はサービスが止まったのを見たことが一度もありません。これが彼の経験です。"
         ]
       },
       {
@@ -98304,7 +97485,7 @@ export const reviewsData: unknown[] = [
           "プランと期間を選んで、カートに進みます。",
           "SONAR20をクーポン欄に貼り付けて適用します。",
           "最初の期間の合計に20%が出ているか、更新料金が表示されているかを確認します。",
-          "カートの金額が違う場合は、カートの金額が優先されます。"
+          "カートの金額がページの表示と違う場合は、カートの金額が優先されます。"
         ]
       },
       {
@@ -98321,7 +97502,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入力するか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。",
+      "text": "カートのクーポン欄に SONAR20 を入力するか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していないので、カートで料金を確認してください。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -98342,7 +97523,8 @@ export const reviewsData: unknown[] = [
         "slug": "hostinger-black-friday-ja",
         "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%"
       }
-    ]
+    ],
+    "hideFromPortugueseListings": true
   },
   {
     "id": 501,
@@ -98381,7 +97563,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
     "imageAlt": "OpenClaw、Hermes Agent 和 Paperclip 的標誌，以及 Hostinger 標誌和 20% 折扣",
@@ -98391,7 +97573,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "有優惠碼：**SONAR20** 在任何 [Hostinger](/zh-hant/coupons/hostinger) 方案的首期給 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入，或從本文連結進入。我們沒有測試續訂。"
+          "有優惠碼：**SONAR20** 在任何 [Hostinger](/zh-hant/coupons/hostinger) 方案的首期給 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入優惠碼，或從本文連結進入。我們沒有測試續訂。"
         ]
       },
       {
@@ -98431,7 +97613,7 @@ export const reviewsData: unknown[] = [
           "選好方案和期間，進入購物車。",
           "把 SONAR20 貼到優惠碼欄位並套用。",
           "確認首期總價有出現 20% 折扣，並且列出續訂價格。",
-          "如果購物車的金額不同，以購物車為準。"
+          "如果購物車金額和頁面顯示不同，以購物車為準。"
         ]
       },
       {
@@ -98448,14 +97630,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車輸入 SONAR20，或從本文連結進入：首期 20%，月付或年付都可以。續訂價請在購物車確認。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續訂，續訂價請在購物車確認。",
       "label": "查看享有折扣的方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "透過 SONAR20 優惠碼或連結購買，Bruno 可能獲得佣金，你不需要多付任何費用。本站跑在 Hostinger 上。",
+    "editorialNote": "透過 SONAR20 優惠碼或連結購買，Bruno 可能獲得傭金，你不需要多付任何費用。本站跑在 Hostinger 上。",
     "relatedArticles": [
       {
         "slug": "hostinger-trust-guide-zh-hant",
@@ -98508,7 +97690,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
     "imageAlt": "OpenClaw、Hermes Agent 和 Paperclip 的标志，以及 Hostinger 标志和 20% 折扣",
@@ -98516,7 +97698,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "要点速览",
+        "heading": "快速回答",
         "paragraphs": [
           "有优惠码：代码 **SONAR20** 可在任何 [Hostinger](/zh-hans/coupons/hostinger) 套餐的首个计费周期享 20% 折扣，月付或年付都可以，新老客户均适用。在购物车的优惠码栏输入代码，或从本文的链接进入。我们没有测试续费。"
         ]
@@ -98558,7 +97740,7 @@ export const reviewsData: unknown[] = [
           "选好套餐和周期，进入购物车。",
           "把 SONAR20 粘贴到优惠码栏并应用。",
           "确认首个周期的总价里出现了 20% 折扣，并且列出了续费价格。",
-          "如果购物车里的金额不同，以购物车为准。"
+          "如果购物车金额和页面显示不同，以购物车为准。"
         ]
       },
       {
@@ -98806,7 +97988,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
     "imageAlt": "Logos of OpenClaw, Hermes Agent and Paperclip, with the Hostinger logo, the title Black Friday 2026 and tag and calendar icons",
@@ -98832,7 +98014,7 @@ export const reviewsData: unknown[] = [
         "heading": "What you pay with the campaign and with SONAR20",
         "postParagraphs": [
           "The discount applies on top of the campaign price. On the global site, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”).",
-          "Where to paste the code and what happens to the discount at renewal is covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+          "Where to paste the code and what happens to the discount at renewal are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
       {
@@ -98870,7 +98052,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart: 20% off the campaign price. Compare the first-period total and the renewal before you pay.",
+      "text": "Use the code SONAR20 in the cart: 20% off the campaign price. Check the total and the renewal before you pay.",
       "label": "See plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -98898,7 +98080,7 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-hostinger-ofertas",
     "locale": "es",
     "translationKey": "hostinger-black-friday",
-    "title": "Black Friday Hostinger 2026: el SONAR20 quita 20% más del precio de la campaña",
+    "title": "Black Friday Hostinger 2026: el cupón SONAR20 quita un 20 % más del precio de la campaña",
     "seoTitle": "Black Friday Hostinger 2026: campaña + cupón SONAR20",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
@@ -98930,7 +98112,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
     "imageAlt": "Logotipos de OpenClaw, Hermes Agent y Paperclip, con el logotipo de Hostinger, el título Black Friday 2026 e iconos de etiqueta y calendario",
@@ -98994,7 +98176,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el carrito: 20% sobre el precio de la campaña. Revisa el total y la renovación antes de pagar.",
+      "text": "Usa el código SONAR20 en el carrito: 20 % sobre el precio de la campaña. Revisa el total y la renovación antes de pagar.",
       "label": "Ver planes con descuento",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -99054,7 +98236,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
     "imageAlt": "Logos d’OpenClaw, de Hermes Agent et de Paperclip, avec le logo Hostinger, le titre Black Friday 2026 et des icônes d’étiquette et de calendrier",
@@ -99071,7 +98253,7 @@ export const reviewsData: unknown[] = [
         "heading": "Le Black Friday de Hostinger a-t-il déjà commencé ?",
         "paragraphs": [
           "Oui. La FAQ officielle de Hostinger indique : « La promotion Black Friday de Hostinger a lieu du 19 octobre au 14 décembre 2026. » La page mondiale en anglais donne la même date.",
-          "La bannière de la page d’hébergement web affiche « Jusqu’à 82 % de réduction ». C’est le plafond de la bannière, pas la réduction de chaque offre : sur le Single en 48 mois, la réduction est de 80 %. La bannière VPS affiche « Jusqu’à 70 % de réduction », et le VPS reste en dehors du calcul de cet article, comme nous l’expliquons plus bas.",
+          "La bannière de la page d’hébergement web affiche « Jusqu’à 82 % de réduction ». C’est le plafond de la bannière, pas la réduction de chaque offre : pour le Single sur 48 mois, la réduction est de 80 %. La bannière VPS affiche « Jusqu’à 70 % de réduction », et le VPS reste en dehors du calcul de cet article, comme nous l’expliquons plus bas.",
           "Les chiffres ci-dessous concernent uniquement la campagne 2026, relevés sur la page officielle."
         ],
         "images": []
@@ -99080,7 +98262,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ce que l’on paie avec la campagne et avec SONAR20",
         "postParagraphs": [
           "La réduction s’applique sur le prix de la campagne. Sur le site mondial, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »).",
-          "Où coller le code et ce qu’il advient de la réduction au renouvellement : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+          "Où coller le code et ce que devient la réduction au renouvellement : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
       {
@@ -99178,7 +98360,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
     "imageAlt": "Logos von OpenClaw, Hermes Agent und Paperclip, dazu das Hostinger-Logo, der Titel Black Friday 2026 und Symbole für Preisschild und Kalender",
@@ -99201,7 +98383,7 @@ export const reviewsData: unknown[] = [
         "images": []
       },
       {
-        "heading": "Was die Aktion und SONAR20 kosten",
+        "heading": "Was Sie mit der Aktion und mit SONAR20 zahlen",
         "postParagraphs": [
           "Der Rabatt wird auf den Aktionspreis angerechnet. Auf der globalen Seite sank der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$.",
           "Wo Sie den Code einfügen und was bei der Verlängerung mit dem Rabatt passiert, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
@@ -99302,7 +98484,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
     "imageAlt": "Loghi di OpenClaw, Hermes Agent e Paperclip, con il logo di Hostinger, il titolo Black Friday 2026 e icone di etichetta e calendario",
@@ -99426,7 +98608,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
     "imageAlt": "OpenClaw, Hermes Agent, Paperclip 로고와 Hostinger 로고, 블랙프라이데이 2026 제목, 태그와 달력 아이콘",
@@ -99490,7 +98672,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 코드 입력란에 SONAR20을 넣거나 이 링크로 들어가세요: 캠페인 가격에서 20%. 결제 전에 총액과 갱신 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣으세요: 캠페인 가격에서 20% 추가 할인. 결제 전에 총액과 갱신 가격을 확인하세요.",
       "label": "할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -99518,7 +98700,7 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-black-friday-ja",
     "locale": "ja",
     "translationKey": "hostinger-black-friday",
-    "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%",
+    "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%引き",
     "seoTitle": "Hostinger ブラックフライデー 2026：キャンペーン＋SONAR20",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
@@ -99550,7 +98732,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
     "imageAlt": "OpenClaw、Hermes Agent、Paperclipのロゴに、Hostingerのロゴ、「Black Friday 2026」のタイトル、タグとカレンダーのアイコンを添えた画像",
@@ -99642,8 +98824,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-black-friday-zh-hant",
     "locale": "zh-hant",
     "translationKey": "hostinger-black-friday",
-    "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢",
-    "seoTitle": "Hostinger 黑色星期五 2026：活動價加 SONAR20 的 20%",
+    "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%",
+    "seoTitle": "Hostinger 黑色星期五 2026：活動價 + SONAR20 優惠碼",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -99674,7 +98856,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
     "imageAlt": "OpenClaw、Hermes Agent 與 Paperclip 的標誌，搭配 Hostinger 標誌、「Black Friday 2026」標題以及標籤與日曆圖示",
@@ -99738,14 +98920,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車輸入 SONAR20，活動價再減 20%。付款前先確認總價和續訂。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，活動價再減 20%。付款前先確認總價和續訂。",
       "label": "查看折扣方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "Hostinger 代管本站。使用代碼 SONAR20 或透過連結購買，Bruno 可能獲得佣金，你不需要多付任何費用。付款前請在購物車裡核對總價。",
+    "editorialNote": "Hostinger 代管本站。使用代碼 SONAR20 或透過連結購買，Bruno 可能獲得傭金，你不需要多付任何費用。付款前請在購物車裡核對總價。",
     "relatedArticles": [
       {
         "slug": "hostinger-trust-guide-zh-hant",
@@ -99798,7 +98980,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
     "imageAlt": "OpenClaw、Hermes Agent 和 Paperclip 的徽标，配有 Hostinger 徽标、“Black Friday 2026”标题以及标签和日历图标",
@@ -106936,7 +106118,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-olive-young",
     "locale": "en",
     "translationKey": "yesstyle-vs-olive-young",
-    "title": "YesStyle or Olive Young: who ships to your country, shipping, tax and returns",
+    "title": "YesStyle vs Olive Young Global: free shipping, tax, returns and points compared",
     "seoTitle": "YesStyle or Olive Young: shipping, duties and returns",
     "type": "Store Comparison",
     "category": "guias-praticos-utilidade",
@@ -106948,12 +106130,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle and Olive Young Global side by side: who ships to Portugal and 22 more countries, the order value where shipping becomes free, who pays the tax and what each store takes back, from the official pages.",
+    "description": "YesStyle and Olive Young Global side by side: who ships to 23 countries, the order value where shipping becomes free, who pays the tax and what each store takes back, from the official pages.",
     "metaDescription": "YesStyle or Olive Young? See free shipping, delivery time, tax and returns by country, from the official pages.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
     "imageAlt": "Cecília holding the Abib Glazed Jelly lip mask, sent by YesStyle, with the YesStyle logo and the title YesStyle vs Olive Young",
@@ -106965,35 +106147,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "It depends on your country. Where both ship, free shipping, tax and returns are what matter; see the chapter Which to choose, by country."
+          "It depends on what matters to you. For returns, YesStyle is more flexible: it accepts a change of mind and size exchanges within 14 days, while Olive Young Global only takes defects or wrong items, within 30 days. Free shipping and tax change by country; see the chapter Which to choose, by country."
         ]
       },
       {
         "heading": "Who ships to your country",
         "paragraphs": [
-          "It depends on your country. YesStyle publishes delivery time and shipping for 23 of the comparison's countries. Olive Young Global publishes delivery time for 10 of them and does not serve the US, which has its own American store. In the other 22 countries, the comparison changes from one to the next.",
-          "Each row is a country; the last one groups the rest. The YesStyle column comes from the shipping table published on Oct 13, 2026. The Olive Young column comes from the shipping page read on Oct 21, 2026. Where a store does not publish delivery time or shipping, the cell says so."
+          "It depends on your country. YesStyle publishes delivery time and shipping for 23 of the comparison's countries. Olive Young Global publishes delivery time for 10 of them and does not serve the US, which has its own American store. The comparison changes from one country to the next.",
+          "The YesStyle data comes from the shipping table published on Oct 13, 2026. The Olive Young data comes from the shipping page read on Oct 21, 2026. Where a store does not publish delivery time or shipping, the grid marks it."
         ],
-        "comparisonTable": {
-          "headers": [
-            "Country",
-            "YesStyle",
-            "Olive Young Global"
-          ],
-          "rows": [
-            [
-              "Portugal",
-              "Standard, 10 to 15 business days; free from US$60",
-              "Ships; free from US$60, delivery time not published"
-            ],
-            [
-              "other countries",
-              "Delivery time and free-shipping threshold vary by country; check at checkout with your address",
-              "Free from US$60 in most destinations (US$25 below that); delivery time at checkout"
-            ]
-          ],
-          "caption": "Delivery time and free shipping by country: YesStyle from its shipping table, Olive Young Global from its shipping page and shipping FAQ."
-        },
         "postParagraphs": [
           "Where Olive Young does not publish a delivery time for your country, the general rule from its shipping FAQ applies (free from US$60, US$25 below; US$5 in Malaysia and Singapore) and the delivery time only appears at checkout, with your address.",
           "Four countries do not appear in the global store's destination selector: Spain, Argentina, Peru and the United States. In the US, Olive Young sells through its own American store. Olive Young's table also has an \"other regions\" row (15 days, US$60), with no list of countries."
@@ -107010,9 +106172,8 @@ export const reviewsData: unknown[] = [
         "heading": "Free shipping and delivery time",
         "paragraphs": [
           "The delivery times are for shipping, not door to door. At YesStyle, the time for the item to leave the Hong Kong warehouse adds to the shipping time: an item in stock leaves in 1 to 3 business days. Olive Young shows only the shipping time, without the warehouse handling time. Do not add up figures from one store with the other's: YesStyle counts business days, and Olive Young shows just \"days\", without saying whether they are business days.",
-          "**Portugal.** With YesStyle's Standard shipping, delivery takes 10 to 15 business days, with tracking. An order with only in-stock items arrives in 11 to 18 business days. With an item that has a 7 to 14 day wait, the order goes up to 17 to 29 business days. Shipping is free from US$60 (gift wrapping does not count toward that total) and costs US$5 below it. Olive Young ships to Portugal, but its shipping table has no row for the country: according to its shipping FAQ, shipping is free from US$60 and costs US$25 below that, counted on the product price before discounts. The delivery time is not published; the store only says it picks and packs the order in 1 to 3 business days. To compare delivery time, enter your address in Portugal at each store's checkout. Below the minimum, YesStyle's shipping is much cheaper.",
-          "**The other countries.** Where both ship, Olive Young has a shorter delivery time in some cases: the United Kingdom (4 to 5 days, against 5 to 12 business days with YesStyle's Premium Standard), Canada (5 to 7, against 7 to 14), Australia (4 to 5, against 6 to 8), France and Germany (4 to 5, against 10 to 15) and Mexico (8 to 9, against 10 to 13). In Asia, YesStyle has a shorter delivery time in Hong Kong (1 to 3 days, against 3 to 5), Japan (4 to 5, against 6 to 7) and Singapore (3 to 5, against 5 to 6), because it uses Express. Always compare each store's method.",
-          "**Free shipping.** Olive Young makes shipping free from US$60 in most of the comparison's countries. In Taiwan, the threshold is US$35, and in Japan, ¥3,900. YesStyle asks for US$35 in Hong Kong, Malaysia, the US (Standard) and Australia (Premium Standard); US$45 in continental Europe, Spain, Mexico and Colombia; US$50 in Japan, Korea, Taiwan, Singapore, the United Kingdom and Canada; and US$60 in Portugal, Chile, Peru and Argentina. Below the minimum, YesStyle charges US$3 to US$8 in most countries."
+          "**Delivery time by country.** Where both ship, Olive Young has a shorter delivery time in some cases: the United Kingdom (4 to 5 days, against 5 to 12 business days with YesStyle's Premium Standard), Canada (5 to 7, against 7 to 14), Australia (4 to 5, against 6 to 8), France and Germany (4 to 5, against 10 to 15) and Mexico (8 to 9, against 10 to 13). In Asia, YesStyle has a shorter delivery time in Hong Kong (1 to 3 days, against 3 to 5), Japan (4 to 5, against 6 to 7) and Singapore (3 to 5, against 5 to 6), because it uses Express. Always compare each store's method.",
+          "**Free shipping.** Olive Young makes shipping free from US$60 in most of the comparison's countries. In Taiwan, the threshold is US$35, and in Japan, ¥3,900. YesStyle asks for US$35 in Hong Kong, Malaysia, the US (Standard) and Australia (Premium Standard); US$45 in continental Europe, Spain, Mexico and Colombia; US$50 in Japan, Korea, Taiwan, Singapore, the United Kingdom and Canada; and US$60 in Chile, Peru and Argentina. Below the minimum, YesStyle charges US$3 to US$8 in most countries."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -107026,8 +106187,8 @@ export const reviewsData: unknown[] = [
         "heading": "Who pays the tax",
         "paragraphs": [
           "Tax varies from country to country at both stores. At Olive Young, it is added at checkout in some countries and left for delivery in others, paid by the customer.",
-          "**Olive Young.** The page splits the countries into groups. In the United Kingdom, Norway, Australia and Singapore, tax shows up as charged at purchase. The United Kingdom may charge VAT and fees on orders above £135; Norway has 25% VAT, Australia 10% GST, and Singapore 9%. In the European Union, for orders placed since Jul 31, 2026, Olive Young calculates and charges at checkout the country's VAT and €3 of import duty per HS code (customs category), once you enter your address; on an order under US$60 with shipping, VAT also applies to the shipping. The store says nothing else is charged on delivery. In Canada and Israel, the charge falls on delivery: Canada may charge VAT on orders above CA$20, and Israel, fees above US$75, and the local carrier may charge a fee. Portugal is in the European Union, so Olive Young's tax already shows in the checkout total. The store does not accept returns or refunds because of tax or import fees (EU fees FAQ).",
-          "**YesStyle.** In Portugal, 23% VAT is already in the product price and is added to shipping at checkout. Since Jul 1, 2026, the European Union charges €3 per customs category on parcels under €150, and YesStyle says that, for now, it pays this fee on the customer's behalf (shipping article). YesStyle refunds customs fees charged on delivery for orders under US$1,000, as store credit, if you send the receipt within 30 days."
+          "**Olive Young.** The page splits the countries into groups. In the United Kingdom, Norway, Australia and Singapore, tax shows up as charged at purchase. The United Kingdom may charge VAT and fees on orders above £135; Norway has 25% VAT, Australia 10% GST, and Singapore 9%. In the European Union, for orders placed since Jul 31, 2026, Olive Young calculates and charges at checkout the country's VAT and €3 of import duty per HS code (customs category), once you enter your address; on an order under US$60 with shipping, VAT also applies to the shipping. The store says nothing else is charged on delivery. In Canada and Israel, the charge falls on delivery: Canada may charge VAT on orders above CA$20, and Israel, fees above US$75, and the local carrier may charge a fee. The store does not accept returns or refunds because of tax or import fees (EU fees FAQ).",
+          "**YesStyle.** Since Jul 1, 2026, the European Union charges €3 per customs category on parcels under €150, and YesStyle says that, for now, it pays this fee on the customer's behalf (shipping article). YesStyle refunds customs fees charged on delivery for orders under US$1,000, as store credit, if you send the receipt within 30 days."
         ]
       },
       {
@@ -107115,7 +106276,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Points are calculated on the product value, excluding the coupon discount, what was paid with points, taxes and shipping. A cancelled or refunded order comes off the account. One point is worth US$1 and can only be used for purchases at Olive Young Global itself, from a minimum of 1 point. Points cannot be transferred to another person, and non-members neither earn nor use points. The program does not work in Olive Young's physical stores in Korea.",
+          "Points are calculated on the product value, excluding the coupon discount, what was paid with points, taxes and shipping. A cancelled or refunded order is left out of the total. One point is worth US$1 and can only be used for purchases at Olive Young Global itself, from a minimum of 1 point. Points cannot be transferred to another person, and non-members neither earn nor use points. The program does not work in Olive Young's physical stores in Korea.",
           "There are earnings outside purchases: up to 0.3 points per review, 5 points on first login in the app and 0.5 points for creating a beauty profile. Whoever refers gets a 5% discount and whoever joins through the referral gets 10%.",
           "If you pass US$300 in the half-year, you get 2.5% back; if you buy under US$120, you stay at 0.5% or 1%. YesStyle's points are left out of this comparison."
         ],
@@ -107163,10 +106324,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Which to choose, by country",
         "bullets": [
-          "If you live in Portugal: both ship, and YesStyle publishes the delivery time (10 to 15 business days with Standard) while Olive Young publishes only the shipping rule. At both, shipping is free from US$60; below that, YesStyle charges US$5 and Olive Young US$25.",
           "If you live in the United States: the comparison is with OLIVE YOUNG US, and at both free shipping starts at US$35.",
           "If returns matter to you: YesStyle accepts a change of mind and size exchanges, with the return number requested within 14 days; Olive Young only accepts defects or wrong items, within 30 days.",
-          "If tax matters to you: YesStyle already shows Portugal's VAT in the price, and Olive Young charges VAT and import duty at checkout on orders to the European Union."
+          "If tax matters to you: Olive Young charges VAT and import duty at checkout on orders to the European Union, and YesStyle says it pays the EU's €3 customs fee for the customer, for now."
         ],
         "postParagraphs": [
           "To see YesStyle's offer before buying, use the [YesStyle page](/en/coupons/yesstyle)."
@@ -107176,9 +106336,8 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions",
         "bullets": [
           "Which one is cheaper? This article does not compare product prices. Compare the same item at both stores on the day of purchase, with shipping and tax added up.",
-          "Which delivers faster to Portugal? Olive Young ships to Portugal but does not publish the delivery time for the country. YesStyle publishes 10 to 15 business days of shipping, plus 1 to 3 days for the item to leave the warehouse.",
-          "Who pays the tax in Europe? At Olive Young, for the European Union, VAT and €3 per HS code are charged at checkout, and the store says nothing else is charged on delivery. At YesStyle, in Portugal, 23% VAT is already in the price. The details are in the tax section.",
-          "Can I return an opened product? At Olive Young Global, no, unless it is defective or a wrong item sent by the store, within 30 days. At YesStyle, opened beauty products and supplements do not go back.",
+          "Who pays the tax in Europe? At Olive Young, for the European Union, VAT and €3 per HS code are charged at checkout, and the store says nothing else is charged on delivery. YesStyle says it pays the EU's €3 customs fee for the customer, for now. The details are in the tax section.",
+          "Can an opened product be returned? At Olive Young Global, no, unless it is defective or a wrong item sent by the store, within 30 days. At YesStyle, opened beauty products and supplements do not go back.",
           "Are Olive Young Global and OLIVE YOUNG US the same store? No. Global ships from Korea to its list of countries and not to the US; OLIVE YOUNG US is separate and has its own shipping and return rules.",
           "Where do I enter CECILIA010? At YesStyle checkout, in the Reward Code field. It stacks with the store's own coupons."
         ]
@@ -107223,7 +106382,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-o-olive-young-cual-elegir",
     "locale": "es",
     "translationKey": "yesstyle-vs-olive-young",
-    "title": "YesStyle o Olive Young: quién envía a tu país, envío, impuestos y devoluciones",
+    "title": "YesStyle o Olive Young: envío gratis, impuestos, devoluciones y puntos comparados",
     "seoTitle": "YesStyle o Olive Young: envío, impuestos y devoluciones",
     "type": "Comparativa de Tiendas",
     "category": "guias-praticos-utilidade",
@@ -107235,12 +106394,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle y Olive Young Global cara a cara: quién envía a Portugal y a otros 22 países, desde qué importe el envío es gratis, quién paga el impuesto y qué devuelve cada tienda, según sus páginas oficiales.",
+    "description": "YesStyle y Olive Young Global cara a cara: quién envía a 23 países, desde qué importe el envío es gratis, quién paga el impuesto y qué devuelve cada tienda, según sus páginas oficiales.",
     "metaDescription": "¿YesStyle u Olive Young? Mira el envío gratis, el plazo, el impuesto y la devolución por país, según las páginas oficiales.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
     "imageAlt": "Cecília sosteniendo la mascarilla labial Glazed Jelly de Abib, enviada por YesStyle, con el logo de YesStyle y el título YesStyle vs Olive Young",
@@ -107252,35 +106411,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Depende de tu país. Donde las dos envían, pesan el envío gratis, el impuesto y la devolución; mira el capítulo Cuál elegir, según el país."
+          "Depende de lo que te importe. En devoluciones, YesStyle es más flexible: acepta el desistimiento y el cambio de talla en 14 días, mientras que Olive Young Global solo acepta defecto o artículo equivocado, en 30 días. El envío gratis y el impuesto cambian según el país; mira el capítulo Cuál elegir, según el país."
         ]
       },
       {
         "heading": "Quién envía a tu país",
         "paragraphs": [
-          "Depende de tu país. YesStyle publica plazo y envío para 23 países de la comparación. Olive Young Global publica plazo para 10 de ellos y no atiende a EE. UU., que tiene su propia tienda estadounidense. En los otros 22 países, la comparación cambia de uno a otro.",
-          "Cada fila es un país; la última reúne los demás. La columna de YesStyle sale de la tabla de envío publicada el 13/10/2026. La de Olive Young sale de la página de envío leída el 21/10/2026. Donde la tienda no publica plazo o envío, la celda lo dice."
+          "Depende de tu país. YesStyle publica plazo y envío para 23 países de la comparación. Olive Young Global publica plazo para 10 de ellos y no atiende a EE. UU., que tiene su propia tienda estadounidense. La comparación cambia de un país a otro.",
+          "Los datos de YesStyle salen de la tabla de envío publicada el 13/10/2026. Los de Olive Young salen de la página de envío leída el 21/10/2026. Donde la tienda no publica plazo o envío, la cuadrícula lo indica."
         ],
-        "comparisonTable": {
-          "headers": [
-            "País",
-            "YesStyle",
-            "Olive Young Global"
-          ],
-          "rows": [
-            [
-              "Portugal",
-              "Standard, de 10 a 15 días hábiles; gratis desde 60 US$",
-              "Envía; gratis desde 60 US$, plazo no publicado"
-            ],
-            [
-              "otros países",
-              "El plazo y el envío gratis varían según el país; compruébalo en el pago con tu dirección",
-              "Gratis desde 60 US$ en la mayoría de los destinos (por debajo, 25 US$); plazo en el pago"
-            ]
-          ],
-          "caption": "Plazo y envío gratis por país: YesStyle según la tabla de envío; Olive Young Global según la página de envío y la FAQ de envío."
-        },
         "postParagraphs": [
           "Donde Olive Young no publica plazo para tu país, vale la regla general de su FAQ de envío (gratis desde 60 US$, 25 US$ por debajo; 5 US$ en Malasia y Singapur) y el plazo solo aparece en el pago, con la dirección.",
           "Cuatro países no aparecen en el selector de destino de la tienda global: España, Argentina, Perú y Estados Unidos. En EE. UU., Olive Young vende por su propia tienda estadounidense. La tabla de Olive Young también tiene una fila \"otras regiones\" (15 días, 60 US$), sin lista de países."
@@ -107297,9 +106436,8 @@ export const reviewsData: unknown[] = [
         "heading": "Envío gratis y plazo",
         "paragraphs": [
           "Los plazos son de envío, no de puerta a puerta. En YesStyle, el tiempo para que el artículo salga del almacén de Hong Kong se suma al del envío: un artículo en stock sale en 1 a 3 días hábiles. Olive Young muestra solo el plazo del envío, sin el tiempo de salida del almacén. No sumes los valores de una tienda con los de la otra: YesStyle cuenta en días hábiles, y Olive Young muestra solo \"días\", sin decir si son hábiles.",
-          "**Portugal.** Con el envío Standard de YesStyle, el plazo es de 10 a 15 días hábiles, con seguimiento. Un pedido solo con artículos en stock llega en 11 a 18 días hábiles. Con un artículo de 7 a 14 días de espera, el pedido sube a 17 a 29 días hábiles. El envío es gratis desde 60 US$ (el envoltorio de regalo no cuenta en ese total) y cuesta 5 US$ por debajo. Olive Young envía a Portugal, pero la tabla de envío no tiene fila para el país: según la FAQ de envío, el envío es gratis desde 60 US$ y cuesta 25 US$ por debajo, calculado sobre el precio de los productos sin descuentos. El plazo no se publica; la tienda solo dice que prepara y embala el pedido en 1 a 3 días hábiles. Para comparar el plazo, pon la dirección en Portugal en el pago de cada tienda. Por debajo del mínimo, el envío de YesStyle sale mucho más barato.",
-          "**Los otros países.** Donde las dos envían, Olive Young tiene un plazo menor en algunos casos: Reino Unido (4 a 5 días, frente a 5 a 12 días hábiles en el Premium Standard de YesStyle), Canadá (5 a 7, frente a 7 a 14), Australia (4 a 5, frente a 6 a 8), Francia y Alemania (4 a 5, frente a 10 a 15) y México (8 a 9, frente a 10 a 13). En Asia, YesStyle tiene un plazo menor en Hong Kong (1 a 3 días, frente a 3 a 5), Japón (4 a 5, frente a 6 a 7) y Singapur (3 a 5, frente a 5 a 6), porque usa el Express. Compara siempre el método de cada tienda.",
-          "**Envío gratis.** Olive Young libera el envío desde 60 US$ en la mayoría de los países de la comparación. En Taiwán, el límite es 35 US$, y en Japón, 3.900 ¥. YesStyle pide 35 US$ en Hong Kong, Malasia, EE. UU. (Standard) y Australia (Premium Standard); 45 US$ en Europa continental, España, México y Colombia; 50 US$ en Japón, Corea, Taiwán, Singapur, Reino Unido y Canadá; y 60 US$ en Portugal, Chile, Perú y Argentina. Por debajo del mínimo, YesStyle cobra de 3 a 8 US$ en la mayoría de los países."
+          "**El plazo según el país.** Donde las dos envían, Olive Young tiene un plazo menor en algunos casos: Reino Unido (4 a 5 días, frente a 5 a 12 días hábiles en el Premium Standard de YesStyle), Canadá (5 a 7, frente a 7 a 14), Australia (4 a 5, frente a 6 a 8), Francia y Alemania (4 a 5, frente a 10 a 15) y México (8 a 9, frente a 10 a 13). En Asia, YesStyle tiene un plazo menor en Hong Kong (1 a 3 días, frente a 3 a 5), Japón (4 a 5, frente a 6 a 7) y Singapur (3 a 5, frente a 5 a 6), porque usa el Express. Compara siempre el método de cada tienda.",
+          "**Envío gratis.** Olive Young libera el envío desde 60 US$ en la mayoría de los países de la comparación. En Taiwán, el límite es 35 US$, y en Japón, 3.900 ¥. YesStyle pide 35 US$ en Hong Kong, Malasia, EE. UU. (Standard) y Australia (Premium Standard); 45 US$ en Europa continental, España, México y Colombia; 50 US$ en Japón, Corea, Taiwán, Singapur, Reino Unido y Canadá; y 60 US$ en Chile, Perú y Argentina. Por debajo del mínimo, YesStyle cobra de 3 a 8 US$ en la mayoría de los países."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -107313,8 +106451,8 @@ export const reviewsData: unknown[] = [
         "heading": "Quién paga el impuesto",
         "paragraphs": [
           "El impuesto cambia de un país a otro en las dos tiendas. En Olive Young, entra en el pago en algunos países y queda para la entrega en otros, a cargo del cliente.",
-          "**Olive Young.** La página separa los países en grupos. En Reino Unido, Noruega, Australia y Singapur, el impuesto aparece como cobrado en la compra. Reino Unido puede cobrar IVA y tasas en pedidos de más de 135 £; Noruega tiene un IVA del 25 %, Australia un GST del 10 % y Singapur del 9 %. En la Unión Europea, desde los pedidos hechos el 31/07/2026, Olive Young calcula y cobra en el pago el IVA del país y 3 € de impuesto de importación por código HS (categoría aduanera), después de que escribas la dirección; en un pedido de menos de 60 US$ con envío, el IVA también recae sobre el envío. La tienda dice que no se cobra nada más en la entrega. En Canadá e Israel, el cobro cae en la entrega: Canadá puede cobrar IVA en pedidos de más de 20 CA$, e Israel, tasas por encima de 75 US$, y el transportista local puede cobrar una tarifa. Portugal es de la Unión Europea, así que el impuesto de Olive Young ya aparece en el total del pago. La tienda no acepta devolución ni reembolso por impuestos o tasas de importación (FAQ de tasas de la UE).",
-          "**YesStyle.** En Portugal, el IVA del 23 % ya está en el precio de los productos y se suma al envío en el pago. Desde el 01/07/2026, la Unión Europea cobra 3 € por categoría aduanera en paquetes de menos de 150 €, y YesStyle dice que, por ahora, paga esa tasa por el cliente (artículo de envío). YesStyle reembolsa las tasas de aduana cobradas en la entrega en pedidos de menos de 1.000 US$, en crédito de la tienda, si envías el comprobante en un plazo de 30 días."
+          "**Olive Young.** La página separa los países en grupos. En Reino Unido, Noruega, Australia y Singapur, el impuesto aparece como cobrado en la compra. Reino Unido puede cobrar IVA y tasas en pedidos de más de 135 £; Noruega tiene un IVA del 25 %, Australia un GST del 10 % y Singapur del 9 %. En la Unión Europea, desde los pedidos hechos el 31/07/2026, Olive Young calcula y cobra en el pago el IVA del país y 3 € de impuesto de importación por código HS (categoría aduanera), después de que escribas la dirección; en un pedido de menos de 60 US$ con envío, el IVA también recae sobre el envío. La tienda dice que no se cobra nada más en la entrega. En Canadá e Israel, el cobro cae en la entrega: Canadá puede cobrar IVA en pedidos de más de 20 CA$, e Israel, tasas por encima de 75 US$, y el transportista local puede cobrar una tarifa. La tienda no acepta devolución ni reembolso por impuestos o tasas de importación (FAQ de tasas de la UE).",
+          "**YesStyle.** Desde el 01/07/2026, la Unión Europea cobra 3 € por categoría aduanera en paquetes de menos de 150 €, y YesStyle dice que, por ahora, paga esa tasa por el cliente (artículo de envío). YesStyle reembolsa las tasas de aduana cobradas en la entrega en pedidos de menos de 1.000 US$, en crédito de la tienda, si envías el comprobante en un plazo de 30 días."
         ]
       },
       {
@@ -107443,17 +106581,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código de recompensa CECILIA010 en YesStyle",
         "paragraphs": [
-          "CECILIA010 es un código de recompensa, no un cupón. En el pago de YesStyle, va en el campo Reward Code. Según la ficha del código en este sitio, da hasta un 5 % en la primera compra y un 2 % en las siguientes, y se suma a los cupones de la tienda. Los cupones de YesStyle cambian y vencen, así que la lista del momento está en la página de la tienda: [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
+          "CECILIA010 es un código de recompensa, no un cupón. En el pago de YesStyle, va en el campo Reward Code. Según la página del código en este sitio, da hasta un 5 % en la primera compra y un 2 % en las siguientes, y se suma a los cupones de la tienda. Los cupones de YesStyle cambian y vencen, así que la lista del momento está en la página de la tienda: [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
           "Olive Young no tiene código nuestro en esta comparación, ni cupón. Lo que da a los miembros está en el programa descrito arriba, y puede cambiar."
         ]
       },
       {
         "heading": "Cuál elegir, según el país",
         "bullets": [
-          "Vives en Portugal: las dos envían, y YesStyle publica el plazo (10 a 15 días hábiles en el Standard) y Olive Young solo la regla de envío. En las dos, el envío es gratis desde 60 US$; por debajo, YesStyle cobra 5 US$ y Olive Young, 25 US$.",
           "Vives en Estados Unidos: la comparación es con OLIVE YOUNG US, y en las dos el envío gratis empieza en 35 US$.",
           "Te importa la devolución: YesStyle acepta el desistimiento y el cambio de talla, con el número de devolución pedido en un plazo de 14 días; Olive Young solo acepta defecto o artículo equivocado, en 30 días.",
-          "Te importa el impuesto: YesStyle ya muestra el IVA de Portugal en el precio, y Olive Young cobra IVA e impuesto de importación en el pago en los pedidos a la Unión Europea."
+          "Te importa el impuesto: Olive Young cobra IVA e impuesto de importación en el pago en los pedidos a la Unión Europea, y YesStyle dice que, por ahora, paga por ti la tasa de 3 € de la UE."
         ],
         "postParagraphs": [
           "Para ver la oferta de YesStyle antes de comprar, usa la [página de YesStyle](/es/coupons/yesstyle)."
@@ -107463,8 +106600,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes",
         "bullets": [
           "¿Cuál es más barata? Este artículo no compara el precio de los productos. Compara el mismo artículo en las dos tiendas el día de la compra, con el envío y el impuesto sumados.",
-          "¿Cuál entrega más rápido en Portugal? Olive Young envía a Portugal, pero no publica el plazo para el país. YesStyle publica de 10 a 15 días hábiles de envío, además de 1 a 3 días para que el artículo salga del almacén.",
-          "¿Quién paga el impuesto en Europa? En Olive Young, para la Unión Europea, el IVA y 3 € por código HS se cobran en el pago, y la tienda dice que no se cobra nada más en la entrega. En YesStyle, en Portugal, el IVA del 23 % ya viene en el precio. Los detalles están en la sección de impuestos.",
+          "¿Quién paga el impuesto en Europa? En Olive Young, para la Unión Europea, el IVA y 3 € por código HS se cobran en el pago, y la tienda dice que no se cobra nada más en la entrega. YesStyle dice que, por ahora, paga por el cliente la tasa de 3 € de la UE. Los detalles están en la sección de impuestos.",
           "¿Se puede devolver un producto abierto? En Olive Young Global, no, salvo que tenga un defecto o sea un artículo equivocado enviado por la tienda, en 30 días. En YesStyle, el producto de belleza abierto y los suplementos no vuelven.",
           "¿Olive Young Global y OLIVE YOUNG US son la misma tienda? No. La Global envía desde Corea a la lista de países y no a EE. UU.; OLIVE YOUNG US es independiente y tiene sus propias reglas de envío y devolución.",
           "¿Dónde pongo CECILIA010? En el pago de YesStyle, en el campo Reward Code. Se suma a los cupones de la propia tienda."
@@ -107472,7 +106608,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Mira el envío y el impuesto de tu dirección en el checkout y pega CECILIA010 en el campo Código de Recompensa (Reward Code)",
+      "text": "Mira el envío y el impuesto de tu dirección en el checkout y pega CECILIA010 en el campo Reward Code",
       "label": "Ir a YesStyle",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -107510,7 +106646,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-ou-olive-young-que-choisir",
     "locale": "fr",
     "translationKey": "yesstyle-vs-olive-young",
-    "title": "YesStyle ou Olive Young : qui livre dans votre pays, frais, taxes et retours",
+    "title": "YesStyle ou Olive Young : livraison gratuite, taxes, retours et points comparés",
     "seoTitle": "YesStyle ou Olive Young : livraison, taxes et retours",
     "type": "Comparatif de boutiques",
     "category": "guias-praticos-utilidade",
@@ -107522,12 +106658,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle et Olive Young Global côte à côte : qui livre au Portugal et dans 22 autres pays, à partir de quel montant la livraison est gratuite, qui paie les taxes et ce que chaque boutique reprend, d'après les pages officielles.",
+    "description": "YesStyle et Olive Young Global côte à côte : qui livre dans 23 pays, à partir de quel montant la livraison est gratuite, qui paie les taxes et ce que chaque boutique reprend, d'après les pages officielles.",
     "metaDescription": "YesStyle ou Olive Young ? Livraison gratuite, délai, taxes et retours par pays, d'après les pages officielles.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
     "imageAlt": "Cecília tenant le masque lèvres Glazed Jelly d'Abib, envoyé par YesStyle, avec le logo YesStyle et le titre YesStyle vs Olive Young",
@@ -107539,35 +106675,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Cela dépend de votre pays. Là où les deux livrent, la livraison gratuite, les taxes et les retours font la différence ; voyez le chapitre Laquelle choisir, selon le pays."
+          "Cela dépend de ce qui compte pour vous. Pour les retours, YesStyle est plus souple : elle accepte le changement d'avis et l'échange de taille sous 14 jours, alors qu'Olive Young Global n'accepte que le défaut ou l'article erroné, sous 30 jours. La livraison gratuite et les taxes changent selon le pays ; voyez le chapitre Laquelle choisir, selon le pays."
         ]
       },
       {
         "heading": "Qui livre dans votre pays",
         "paragraphs": [
-          "Cela dépend de votre pays. YesStyle publie délai et frais de livraison pour 23 pays de la comparaison. Olive Young Global publie le délai pour 10 d'entre eux et ne dessert pas les États-Unis, qui ont leur propre boutique américaine. Dans les 22 autres pays, la comparaison change de l'un à l'autre.",
-          "Chaque ligne est un pays ; la dernière regroupe les autres. La colonne YesStyle vient du tableau des frais de livraison publié le 13/10/2026. Celle d'Olive Young vient de la page de livraison consultée le 21/10/2026. Quand la boutique ne publie ni délai ni frais, la cellule le dit."
+          "Cela dépend de votre pays. YesStyle publie délai et frais de livraison pour 23 pays de la comparaison. Olive Young Global publie le délai pour 10 d'entre eux et ne dessert pas les États-Unis, qui ont leur propre boutique américaine. La comparaison change d'un pays à l'autre.",
+          "Les données de YesStyle viennent du tableau des frais de livraison publié le 13/10/2026. Celles d'Olive Young viennent de la page de livraison consultée le 21/10/2026. Quand la boutique ne publie ni délai ni frais, la grille le signale."
         ],
-        "comparisonTable": {
-          "headers": [
-            "Pays",
-            "YesStyle",
-            "Olive Young Global"
-          ],
-          "rows": [
-            [
-              "Portugal",
-              "Standard, 10 à 15 jours ouvrés ; gratuit dès 60 $US",
-              "Livre ; gratuit dès 60 $US, délai non publié"
-            ],
-            [
-              "autres pays",
-              "Délai et seuil de livraison gratuite variables selon le pays ; vérifiez au paiement avec votre adresse",
-              "Gratuit dès 60 $US dans la plupart des destinations (en dessous, 25 $US) ; délai au paiement"
-            ]
-          ],
-          "caption": "Délai et livraison gratuite par pays : YesStyle d'après son tableau des frais de livraison, Olive Young Global d'après sa page de livraison et sa FAQ livraison."
-        },
         "postParagraphs": [
           "Quand Olive Young ne publie pas de délai pour votre pays, la règle générale de sa FAQ livraison s'applique (gratuit dès 60 $US, 25 $US en dessous ; 5 $US en Malaisie et à Singapour) et le délai n'apparaît qu'au paiement, avec l'adresse.",
           "Quatre pays n'apparaissent pas dans le sélecteur de destination de la boutique globale : l'Espagne, l'Argentine, le Pérou et les États-Unis. Aux États-Unis, Olive Young vend par sa propre boutique américaine. Le tableau d'Olive Young a aussi une ligne « autres régions » (15 jours, 60 $US), sans liste de pays."
@@ -107584,9 +106700,8 @@ export const reviewsData: unknown[] = [
         "heading": "Livraison gratuite et délai",
         "paragraphs": [
           "Les délais sont ceux de l'expédition, pas de porte à porte. Chez YesStyle, le temps pour que l'article quitte l'entrepôt de Hong Kong s'ajoute à celui de l'expédition : un article en stock part en 1 à 3 jours ouvrés. Olive Young n'affiche que le délai d'expédition, sans le temps de départ de l'entrepôt. N'additionnez pas les chiffres d'une boutique avec ceux de l'autre : YesStyle compte en jours ouvrés, et Olive Young affiche seulement des « jours », sans préciser s'ils sont ouvrés.",
-          "**Portugal.** Avec l'envoi Standard de YesStyle, le délai est de 10 à 15 jours ouvrés, avec suivi. Une commande uniquement composée d'articles en stock arrive en 11 à 18 jours ouvrés. Avec un article en attente de 7 à 14 jours, la commande passe à 17 à 29 jours ouvrés. La livraison est gratuite dès 60 $US (l'emballage cadeau n'entre pas dans ce total) et coûte 5 $US en dessous. Olive Young livre au Portugal, mais son tableau de livraison n'a pas de ligne pour ce pays : d'après la FAQ livraison, l'envoi est gratuit dès 60 $US et coûte 25 $US en dessous, calculé sur le prix des produits avant remises. Le délai n'est pas publié ; la boutique indique seulement qu'elle prépare et emballe la commande en 1 à 3 jours ouvrés. Pour comparer le délai, saisissez votre adresse au Portugal au paiement de chaque boutique. En dessous du minimum, la livraison de YesStyle revient bien moins cher.",
-          "**Les autres pays.** Là où les deux livrent, Olive Young a un délai plus court dans certains cas : Royaume-Uni (4 à 5 jours, contre 5 à 12 jours ouvrés avec le Premium Standard de YesStyle), Canada (5 à 7, contre 7 à 14), Australie (4 à 5, contre 6 à 8), France et Allemagne (4 à 5, contre 10 à 15) et Mexique (8 à 9, contre 10 à 13). En Asie, YesStyle a un délai plus court à Hong Kong (1 à 3 jours, contre 3 à 5), au Japon (4 à 5, contre 6 à 7) et à Singapour (3 à 5, contre 5 à 6), parce qu'il utilise l'Express. Comparez toujours la méthode de chaque boutique.",
-          "**Livraison gratuite.** Olive Young offre la livraison dès 60 $US dans la plupart des pays de la comparaison. À Taïwan, le seuil est de 35 $US, et au Japon, de 3 900 ¥. YesStyle demande 35 $US à Hong Kong, en Malaisie, aux États-Unis (Standard) et en Australie (Premium Standard) ; 45 $US en Europe continentale, en Espagne, au Mexique et en Colombie ; 50 $US au Japon, en Corée, à Taïwan, à Singapour, au Royaume-Uni et au Canada ; et 60 $US au Portugal, au Chili, au Pérou et en Argentine. En dessous du minimum, YesStyle facture de 3 à 8 $US dans la plupart des pays."
+          "**Le délai selon le pays.** Là où les deux livrent, Olive Young a un délai plus court dans certains cas : Royaume-Uni (4 à 5 jours, contre 5 à 12 jours ouvrés avec le Premium Standard de YesStyle), Canada (5 à 7, contre 7 à 14), Australie (4 à 5, contre 6 à 8), France et Allemagne (4 à 5, contre 10 à 15) et Mexique (8 à 9, contre 10 à 13). En Asie, YesStyle a un délai plus court à Hong Kong (1 à 3 jours, contre 3 à 5), au Japon (4 à 5, contre 6 à 7) et à Singapour (3 à 5, contre 5 à 6), parce qu'elle utilise l'Express. Comparez toujours la méthode de chaque boutique.",
+          "**Livraison gratuite.** Olive Young offre la livraison dès 60 $US dans la plupart des pays de la comparaison. À Taïwan, le seuil est de 35 $US, et au Japon, de 3 900 ¥. YesStyle demande 35 $US à Hong Kong, en Malaisie, aux États-Unis (Standard) et en Australie (Premium Standard) ; 45 $US en Europe continentale, en Espagne, au Mexique et en Colombie ; 50 $US au Japon, en Corée, à Taïwan, à Singapour, au Royaume-Uni et au Canada ; et 60 $US au Chili, au Pérou et en Argentine. En dessous du minimum, YesStyle facture de 3 à 8 $US dans la plupart des pays."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -107600,8 +106715,8 @@ export const reviewsData: unknown[] = [
         "heading": "Qui paie les taxes",
         "paragraphs": [
           "Les taxes changent d'un pays à l'autre dans les deux boutiques. Chez Olive Young, elles sont ajoutées au paiement dans certains pays et laissées à la livraison dans d'autres, à la charge du client.",
-          "**Olive Young.** La page répartit les pays en groupes. Au Royaume-Uni, en Norvège, en Australie et à Singapour, la taxe apparaît comme perçue à l'achat. Le Royaume-Uni peut percevoir la TVA et des frais sur les commandes de plus de 135 £ ; la Norvège a une TVA de 25 %, l'Australie une GST de 10 %, et Singapour 9 %. Dans l'Union européenne, pour les commandes passées depuis le 31/07/2026, Olive Young calcule et perçoit au paiement la TVA du pays et 3 € de droits d'importation par code HS (catégorie douanière), une fois l'adresse saisie ; sur une commande de moins de 60 $US avec livraison, la TVA s'applique aussi à la livraison. La boutique indique que rien d'autre n'est perçu à la livraison. Au Canada et en Israël, la perception a lieu à la livraison : le Canada peut percevoir la TVA sur les commandes de plus de 20 CA$, et Israël des taxes au-delà de 75 $US, et le transporteur local peut facturer des frais. Le Portugal fait partie de l'Union européenne ; la taxe d'Olive Young apparaît donc déjà dans le total du paiement. La boutique n'accepte ni retour ni remboursement pour cause de taxe ou de frais d'importation (FAQ sur les taxes de l'UE).",
-          "**YesStyle.** Au Portugal, la TVA de 23 % est déjà dans le prix des produits et s'ajoute à la livraison au paiement. Depuis le 01/07/2026, l'Union européenne perçoit 3 € par catégorie douanière sur les colis de moins de 150 €, et YesStyle indique que, pour l'instant, elle règle ces frais à la place du client (article sur la livraison). YesStyle rembourse les frais de douane perçus à la livraison sur les commandes de moins de 1 000 $US, en crédit boutique, si vous envoyez le justificatif sous 30 jours."
+          "**Olive Young.** La page répartit les pays en groupes. Au Royaume-Uni, en Norvège, en Australie et à Singapour, la taxe apparaît comme perçue à l'achat. Le Royaume-Uni peut percevoir la TVA et des frais sur les commandes de plus de 135 £ ; la Norvège a une TVA de 25 %, l'Australie une GST de 10 %, et Singapour 9 %. Dans l'Union européenne, pour les commandes passées depuis le 31/07/2026, Olive Young calcule et perçoit au paiement la TVA du pays et 3 € de droits d'importation par code HS (catégorie douanière), une fois l'adresse saisie ; sur une commande de moins de 60 $US avec livraison, la TVA s'applique aussi à la livraison. La boutique indique que rien d'autre n'est perçu à la livraison. Au Canada et en Israël, la perception a lieu à la livraison : le Canada peut percevoir la TVA sur les commandes de plus de 20 CA$, et Israël des taxes au-delà de 75 $US, et le transporteur local peut facturer des frais. La boutique n'accepte ni retour ni remboursement pour cause de taxe ou de frais d'importation (FAQ sur les taxes de l'UE).",
+          "**YesStyle.** Depuis le 01/07/2026, l'Union européenne perçoit 3 € par catégorie douanière sur les colis de moins de 150 €, et YesStyle indique que, pour l'instant, elle règle ces frais à la place du client (article sur la livraison). YesStyle rembourse les frais de douane perçus à la livraison sur les commandes de moins de 1 000 $US, en crédit boutique, si vous envoyez le justificatif sous 30 jours."
         ]
       },
       {
@@ -107730,17 +106845,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code de récompense CECILIA010 chez YesStyle",
         "paragraphs": [
-          "CECILIA010 est un code de récompense, pas un coupon. Au paiement chez YesStyle, il se saisit dans le champ Reward Code. D'après la fiche du code sur ce site, il donne jusqu'à 5 % sur le premier achat et 2 % sur les suivants, et se cumule avec les coupons de la boutique. Les coupons de YesStyle changent et expirent ; la liste du moment se trouve donc sur la page de la boutique : [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
+          "CECILIA010 est un code de récompense, pas un coupon. Au paiement chez YesStyle, il se saisit dans le champ Reward Code. D'après la page du code sur ce site, il donne jusqu'à 5 % sur le premier achat et 2 % sur les suivants, et se cumule avec les coupons de la boutique. Les coupons de YesStyle changent et expirent ; la liste du moment se trouve donc sur la page de la boutique : [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
           "Olive Young n'a pas de code à nous dans cette comparaison, ni de coupon. Ce qu'elle donne aux membres est dans le programme décrit plus haut, et peut changer."
         ]
       },
       {
         "heading": "Laquelle choisir, selon le pays",
         "bullets": [
-          "Vous habitez au Portugal : les deux livrent, et YesStyle publie le délai (10 à 15 jours ouvrés en Standard) alors qu'Olive Young ne publie que la règle de livraison. Chez les deux, la livraison est gratuite dès 60 $US ; en dessous, YesStyle facture 5 $US et Olive Young 25 $US.",
           "Vous habitez aux États-Unis : la comparaison se fait avec OLIVE YOUNG US, et chez les deux la livraison gratuite commence à 35 $US.",
           "Les retours comptent pour vous : YesStyle accepte le changement d'avis et l'échange de taille, avec le numéro de retour demandé sous 14 jours ; Olive Young n'accepte que le défaut ou l'article erroné, sous 30 jours.",
-          "Les taxes comptent pour vous : YesStyle affiche déjà la TVA du Portugal dans le prix, et Olive Young perçoit la TVA et les droits d'importation au paiement pour les commandes vers l'Union européenne."
+          "Les taxes comptent pour vous : Olive Young perçoit la TVA et les droits d'importation au paiement pour les commandes vers l'Union européenne, et YesStyle indique que, pour l'instant, elle règle à votre place les 3 € de frais de l'UE."
         ],
         "postParagraphs": [
           "Pour voir l'offre de YesStyle avant d'acheter, utilisez la [page de YesStyle](/fr/coupons/yesstyle)."
@@ -107750,8 +106864,7 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes",
         "bullets": [
           "Laquelle est la moins chère ? Cet article ne compare pas les prix des produits. Comparez le même article dans les deux boutiques le jour de l'achat, livraison et taxes additionnées.",
-          "Laquelle livre le plus vite au Portugal ? Olive Young livre au Portugal, mais ne publie pas le délai pour ce pays. YesStyle publie 10 à 15 jours ouvrés d'expédition, plus 1 à 3 jours pour que l'article quitte l'entrepôt.",
-          "Qui paie les taxes en Europe ? Chez Olive Young, pour l'Union européenne, la TVA et 3 € par code HS sont perçus au paiement, et la boutique indique que rien d'autre n'est perçu à la livraison. Chez YesStyle, au Portugal, la TVA de 23 % est déjà dans le prix. Les détails sont dans la section sur les taxes.",
+          "Qui paie les taxes en Europe ? Chez Olive Young, pour l'Union européenne, la TVA et 3 € par code HS sont perçus au paiement, et la boutique indique que rien d'autre n'est perçu à la livraison. YesStyle indique que, pour l'instant, elle règle à la place du client les 3 € de frais de l'UE. Les détails sont dans la section sur les taxes.",
           "Peut-on retourner un produit ouvert ? Chez Olive Young Global, non, sauf s'il est défectueux ou si c'est un article erroné envoyé par la boutique, sous 30 jours. Chez YesStyle, le produit de beauté ouvert et les compléments alimentaires ne reviennent pas.",
           "Olive Young Global et OLIVE YOUNG US sont-elles la même boutique ? Non. La Global expédie depuis la Corée vers sa liste de pays et pas vers les États-Unis ; OLIVE YOUNG US est séparée et a ses propres règles de livraison et de retour.",
           "Où saisir CECILIA010 ? Au paiement chez YesStyle, dans le champ Reward Code. Il se cumule avec les coupons de la boutique."
@@ -107797,7 +106910,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-oder-olive-young-welcher-shop",
     "locale": "de",
     "translationKey": "yesstyle-vs-olive-young",
-    "title": "YesStyle oder Olive Young: wer in Ihr Land liefert, Versand, Steuern und Rückgabe",
+    "title": "YesStyle oder Olive Young: kostenloser Versand, Steuern, Rückgabe und Punkte im Vergleich",
     "seoTitle": "YesStyle oder Olive Young: Versand, Zoll und Rückgabe",
     "type": "Shop-Vergleich",
     "category": "guias-praticos-utilidade",
@@ -107809,12 +106922,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle und Olive Young Global im Vergleich: wer nach Portugal und in 22 weitere Länder liefert, ab welchem Bestellwert der Versand kostenlos ist, wer die Steuern zahlt und was jeder Shop zurücknimmt, nach den offiziellen Seiten.",
+    "description": "YesStyle und Olive Young Global im Vergleich: wer in 23 Länder liefert, ab welchem Bestellwert der Versand kostenlos ist, wer die Steuern zahlt und was jeder Shop zurücknimmt, nach den offiziellen Seiten.",
     "metaDescription": "YesStyle oder Olive Young? Kostenloser Versand, Lieferzeit, Steuern und Rückgabe je Land, nach den offiziellen Seiten.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
     "imageAlt": "Cecília hält die Glazed-Jelly-Lippenmaske von Abib, von YesStyle geschickt, mit dem YesStyle-Logo und dem Titel YesStyle vs Olive Young",
@@ -107826,35 +106939,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Das hängt von Ihrem Land ab. Wo beide liefern, zählen kostenloser Versand, Steuern und Rückgabe; sehen Sie das Kapitel Welchen Shop wählen, je nach Land."
+          "Das hängt davon ab, was Ihnen wichtig ist. Bei der Rückgabe ist YesStyle flexibler: Der Shop akzeptiert Sinnesänderung und Größentausch innerhalb von 14 Tagen, Olive Young Global nimmt nur bei Defekt oder falschem Artikel zurück, innerhalb von 30 Tagen. Kostenloser Versand und Steuern ändern sich je Land; lesen Sie das Kapitel Welchen Shop wählen, je nach Land."
         ]
       },
       {
         "heading": "Wer in Ihr Land liefert",
         "paragraphs": [
-          "Das hängt von Ihrem Land ab. YesStyle veröffentlicht Lieferzeit und Versandkosten für 23 Länder des Vergleichs. Olive Young Global veröffentlicht die Lieferzeit für 10 davon und beliefert die USA nicht, die einen eigenen amerikanischen Shop haben. In den übrigen 22 Ländern ändert sich der Vergleich von Land zu Land.",
-          "Jede Zeile ist ein Land; die letzte fasst die übrigen zusammen. Die Spalte von YesStyle stammt aus der Versandtabelle, veröffentlicht am 13.10.2026. Die von Olive Young stammt aus der Versandseite, gelesen am 21.10.2026. Wo ein Shop keine Lieferzeit oder Versandkosten veröffentlicht, sagt das die Zelle."
+          "Das hängt von Ihrem Land ab. YesStyle veröffentlicht Lieferzeit und Versandkosten für 23 Länder des Vergleichs. Olive Young Global veröffentlicht die Lieferzeit für 10 davon und beliefert die USA nicht, die einen eigenen amerikanischen Shop haben. Der Vergleich ändert sich von Land zu Land.",
+          "Die Daten von YesStyle stammen aus der Versandtabelle, veröffentlicht am 13.10.2026. Die von Olive Young stammen aus der Versandseite, gelesen am 21.10.2026. Wo ein Shop keine Lieferzeit oder Versandkosten veröffentlicht, ist das im Raster vermerkt."
         ],
-        "comparisonTable": {
-          "headers": [
-            "Land",
-            "YesStyle",
-            "Olive Young Global"
-          ],
-          "rows": [
-            [
-              "Portugal",
-              "Standard, 10 bis 15 Werktage; kostenlos ab 60 US-$",
-              "Liefert; kostenlos ab 60 US-$, Lieferzeit nicht veröffentlicht"
-            ],
-            [
-              "andere Länder",
-              "Lieferzeit und Grenze für kostenlosen Versand variieren je Land; prüfen Sie es im Checkout mit Ihrer Adresse",
-              "Kostenlos ab 60 US-$ in den meisten Zielen (darunter 25 US-$); Lieferzeit im Checkout"
-            ]
-          ],
-          "caption": "Lieferzeit und kostenloser Versand je Land: YesStyle nach der Versandtabelle, Olive Young Global nach der Versandseite und den Versand-FAQ."
-        },
         "postParagraphs": [
           "Wo Olive Young für Ihr Land keine Lieferzeit veröffentlicht, gilt die allgemeine Regel der Versand-FAQ (kostenlos ab 60 US-$, darunter 25 US-$; 5 US-$ in Malaysia und Singapur), und die Lieferzeit erscheint erst im Checkout, mit der Adresse.",
           "Vier Länder tauchen in der Zielauswahl des globalen Shops nicht auf: Spanien, Argentinien, Peru und die Vereinigten Staaten. In den USA verkauft Olive Young über den eigenen amerikanischen Shop. Die Tabelle von Olive Young hat außerdem eine Zeile „weitere Regionen“ (15 Tage, 60 US-$), ohne Länderliste."
@@ -107871,9 +106964,8 @@ export const reviewsData: unknown[] = [
         "heading": "Kostenloser Versand und Lieferzeit",
         "paragraphs": [
           "Die Lieferzeiten gelten für den Versand, nicht von Tür zu Tür. Bei YesStyle kommt die Zeit, bis der Artikel das Lager in Hongkong verlässt, zur Versandzeit hinzu: Ein vorrätiger Artikel geht in 1 bis 3 Werktagen raus. Olive Young zeigt nur die Versandzeit, ohne die Zeit bis zum Verlassen des Lagers. Addieren Sie die Werte des einen Shops nicht mit denen des anderen: YesStyle zählt in Werktagen, und Olive Young zeigt nur „Tage“, ohne zu sagen, ob es Werktage sind.",
-          "**Portugal.** Beim Standardversand von YesStyle beträgt die Lieferzeit 10 bis 15 Werktage, mit Sendungsverfolgung. Eine Bestellung nur mit vorrätigen Artikeln kommt in 11 bis 18 Werktagen an. Mit einem Artikel mit 7 bis 14 Tagen Wartezeit steigt die Bestellung auf 17 bis 29 Werktage. Der Versand ist ab 60 US-$ kostenlos (die Geschenkverpackung zählt nicht zu dieser Summe) und kostet darunter 5 US-$. Olive Young liefert nach Portugal, aber die Versandtabelle hat keine Zeile für das Land: Laut den Versand-FAQ ist der Versand ab 60 US-$ kostenlos und kostet darunter 25 US-$, berechnet auf den Produktpreis ohne Rabatte. Die Lieferzeit wird nicht veröffentlicht; der Shop sagt nur, dass er die Bestellung in 1 bis 3 Werktagen zusammenstellt und verpackt. Um die Lieferzeit zu vergleichen, geben Sie Ihre Adresse in Portugal im Checkout jedes Shops ein. Unter dem Mindestwert ist der Versand von YesStyle deutlich günstiger.",
-          "**Die anderen Länder.** Wo beide liefern, hat Olive Young in einigen Fällen die kürzere Lieferzeit: Vereinigtes Königreich (4 bis 5 Tage, gegenüber 5 bis 12 Werktagen beim Premium Standard von YesStyle), Kanada (5 bis 7, gegenüber 7 bis 14), Australien (4 bis 5, gegenüber 6 bis 8), Frankreich und Deutschland (4 bis 5, gegenüber 10 bis 15) und Mexiko (8 bis 9, gegenüber 10 bis 13). In Asien hat YesStyle die kürzere Lieferzeit in Hongkong (1 bis 3 Tage, gegenüber 3 bis 5), Japan (4 bis 5, gegenüber 6 bis 7) und Singapur (3 bis 5, gegenüber 5 bis 6), weil es den Express nutzt. Vergleichen Sie immer die Methode jedes Shops.",
-          "**Kostenloser Versand.** Olive Young macht den Versand ab 60 US-$ kostenlos, in den meisten Ländern des Vergleichs. In Taiwan liegt die Grenze bei 35 US-$ und in Japan bei 3.900 ¥. YesStyle verlangt 35 US-$ in Hongkong, Malaysia, den USA (Standard) und Australien (Premium Standard); 45 US-$ in Kontinentaleuropa, Spanien, Mexiko und Kolumbien; 50 US-$ in Japan, Korea, Taiwan, Singapur, dem Vereinigten Königreich und Kanada; und 60 US-$ in Portugal, Chile, Peru und Argentinien. Unter dem Mindestwert berechnet YesStyle in den meisten Ländern 3 bis 8 US-$."
+          "**Die Lieferzeit je Land.** Wo beide liefern, hat Olive Young in einigen Fällen die kürzere Lieferzeit: Vereinigtes Königreich (4 bis 5 Tage, gegenüber 5 bis 12 Werktagen beim Premium Standard von YesStyle), Kanada (5 bis 7, gegenüber 7 bis 14), Australien (4 bis 5, gegenüber 6 bis 8), Frankreich und Deutschland (4 bis 5, gegenüber 10 bis 15) und Mexiko (8 bis 9, gegenüber 10 bis 13). In Asien hat YesStyle die kürzere Lieferzeit in Hongkong (1 bis 3 Tage, gegenüber 3 bis 5), Japan (4 bis 5, gegenüber 6 bis 7) und Singapur (3 bis 5, gegenüber 5 bis 6), weil es den Express nutzt. Vergleichen Sie immer die Methode jedes Shops.",
+          "**Kostenloser Versand.** Olive Young macht den Versand ab 60 US-$ kostenlos, in den meisten Ländern des Vergleichs. In Taiwan liegt die Grenze bei 35 US-$ und in Japan bei 3.900 ¥. YesStyle verlangt 35 US-$ in Hongkong, Malaysia, den USA (Standard) und Australien (Premium Standard); 45 US-$ in Kontinentaleuropa, Spanien, Mexiko und Kolumbien; 50 US-$ in Japan, Korea, Taiwan, Singapur, dem Vereinigten Königreich und Kanada; und 60 US-$ in Chile, Peru und Argentinien. Unter dem Mindestwert berechnet YesStyle in den meisten Ländern 3 bis 8 US-$."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -107887,8 +106979,8 @@ export const reviewsData: unknown[] = [
         "heading": "Wer die Steuern zahlt",
         "paragraphs": [
           "Die Steuern ändern sich in beiden Shops von Land zu Land. Bei Olive Young werden sie in einigen Ländern im Checkout erhoben und in anderen bei der Lieferung fällig, auf Kosten des Kunden.",
-          "**Olive Young.** Die Seite teilt die Länder in Gruppen ein. Im Vereinigten Königreich, in Norwegen, Australien und Singapur erscheint die Steuer als beim Kauf erhoben. Das Vereinigte Königreich kann bei Bestellungen über 135 £ Mehrwertsteuer und Gebühren erheben; Norwegen hat 25 % Mehrwertsteuer, Australien 10 % GST und Singapur 9 %. In der Europäischen Union berechnet und erhebt Olive Young bei Bestellungen seit dem 31.07.2026 im Checkout die Mehrwertsteuer des Landes und 3 € Einfuhrzoll je HS-Code (Zollkategorie), sobald Sie die Adresse eingeben; bei einer Bestellung unter 60 US-$ mit Versand fällt die Mehrwertsteuer auch auf den Versand an. Der Shop sagt, dass bei der Lieferung nichts weiter erhoben wird. In Kanada und Israel fällt die Erhebung bei der Lieferung an: Kanada kann bei Bestellungen über 20 CA$ Mehrwertsteuer erheben, Israel Gebühren über 75 US-$, und der lokale Transporteur kann eine Gebühr verlangen. Portugal gehört zur Europäischen Union, daher erscheint die Steuer von Olive Young bereits in der Checkout-Summe. Der Shop nimmt wegen Steuern oder Einfuhrgebühren weder zurück noch erstattet er (FAQ zu den EU-Gebühren).",
-          "**YesStyle.** In Portugal sind 23 % Mehrwertsteuer bereits im Produktpreis enthalten und werden im Checkout zum Versand addiert. Seit dem 01.07.2026 erhebt die Europäische Union 3 € je Zollkategorie bei Paketen unter 150 €, und YesStyle sagt, dass sie diese Gebühr vorerst für den Kunden übernimmt (Versandartikel). YesStyle erstattet bei der Lieferung erhobene Zollgebühren bei Bestellungen unter 1.000 US-$ als Shop-Guthaben, wenn Sie den Beleg innerhalb von 30 Tagen senden."
+          "**Olive Young.** Die Seite teilt die Länder in Gruppen ein. Im Vereinigten Königreich, in Norwegen, Australien und Singapur erscheint die Steuer als beim Kauf erhoben. Das Vereinigte Königreich kann bei Bestellungen über 135 £ Mehrwertsteuer und Gebühren erheben; Norwegen hat 25 % Mehrwertsteuer, Australien 10 % GST und Singapur 9 %. In der Europäischen Union berechnet und erhebt Olive Young bei Bestellungen seit dem 31.07.2026 im Checkout die Mehrwertsteuer des Landes und 3 € Einfuhrzoll je HS-Code (Zollkategorie), sobald Sie die Adresse eingeben; bei einer Bestellung unter 60 US-$ mit Versand fällt die Mehrwertsteuer auch auf den Versand an. Der Shop sagt, dass bei der Lieferung nichts weiter erhoben wird. In Kanada und Israel fällt die Erhebung bei der Lieferung an: Kanada kann bei Bestellungen über 20 CA$ Mehrwertsteuer erheben, Israel Gebühren über 75 US-$, und der lokale Transporteur kann eine Gebühr verlangen. Der Shop nimmt wegen Steuern oder Einfuhrgebühren weder zurück noch erstattet er (FAQ zu den EU-Gebühren).",
+          "**YesStyle.** Seit dem 01.07.2026 erhebt die Europäische Union 3 € je Zollkategorie bei Paketen unter 150 €, und YesStyle sagt, dass sie diese Gebühr vorerst für den Kunden übernimmt (Versandartikel). YesStyle erstattet bei der Lieferung erhobene Zollgebühren bei Bestellungen unter 1.000 US-$ als Shop-Guthaben, wenn Sie den Beleg innerhalb von 30 Tagen senden."
         ]
       },
       {
@@ -107897,7 +106989,7 @@ export const reviewsData: unknown[] = [
           "Bei Olive Young Global deckt die Rückgabe nur defekte Produkte oder vom Shop falsch gesendete Artikel ab. Der Antrag muss innerhalb von 30 Tagen nach Erhalt gestellt werden, per 1:1-Anfrage beim Kundendienst, mit Bestellnummer und Fotos des Produkts. War der Artikel falsch, kommt auch ein Foto des Paketetiketts dazu. Es gibt keinen Umtausch und keine Rückgabe wegen Sinnesänderung: Ein geöffnetes oder benutztes Produkt wird nicht zurückgenommen. Ein Paket, das wegen eines Kundenfehlers zurückkommt, etwa falsche Adresse oder abwesender Empfänger, wird ebenfalls nicht erstattet.",
           "Wird die Rückgabe genehmigt, zahlt Olive Young den Rückversand und erstattet auf die ursprüngliche Zahlungsart, in 2 bis 15 Werktagen (Rückgabeseite des Shops). Die Versandseite desselben Shops sagt außerdem, dass die Erstattung nur erfolgt, wenn der Artikel innerhalb von 2 Monaten im Shop eintrifft: Schicken Sie ihn rasch ab.",
           "YesStyle akzeptiert mehr Fälle. Fordern Sie die RMA-Nummer innerhalb von 14 Tagen nach Erhalt an, bei Sinnesänderung oder Größentausch, und senden Sie das Paket innerhalb von 30 Tagen nach Ausstellung der RMA ab. Geöffnete Beauty-Produkte und Nahrungsergänzungsmittel werden nicht zurückgenommen, und eine Hautreaktion berechtigt nicht zur Erstattung. Bei einem Defekt wird die RMA mit Fotos ausgestellt, und der Shop übernimmt den Versand per Luftpost oder Einschreiben. Die Erstattung kommt als Shop-Guthaben, in der Regel innerhalb von 7 Tagen nach der Bearbeitung; auf Wunsch geht sie auf die Zahlungsart zurück, in 14 Werktagen oder mehr (Versandartikel).",
-          "Wo Olive Young gewinnt: Die Erstattung geht standardmäßig auf die ursprüngliche Zahlungsart zurück, nicht als Shop-Guthaben. Wo YesStyle gewinnt: Es akzeptiert Sinnesänderung und Größentausch, was Olive Young nicht tut."
+          "Wo Olive Young gewinnt: Die Erstattung geht standardmäßig auf die ursprüngliche Zahlungsart zurück, nicht als Shop-Guthaben. Wo YesStyle gewinnt: Der Shop akzeptiert Sinnesänderung und Größentausch, was Olive Young nicht tut."
         ],
         "comparisonTable": {
           "headers": [
@@ -108017,17 +107109,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reward Code CECILIA010 bei YesStyle",
         "paragraphs": [
-          "CECILIA010 ist ein Reward Code, kein Gutschein. Im Checkout von YesStyle kommt er in das Feld Reward Code. Laut dem Code-Eintrag auf dieser Website gibt er bis zu 5 % auf den ersten Einkauf und 2 % auf die folgenden und lässt sich mit den Gutscheinen des Shops kombinieren. Die Gutscheine von YesStyle ändern sich und laufen ab, daher steht die aktuelle Liste auf der Shop-Seite: [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle).",
-          "Olive Young hat in diesem Vergleich keinen Code von uns und keinen Gutschein. Was sie Mitgliedern gibt, steht im oben beschriebenen Programm und kann sich ändern."
+          "CECILIA010 ist ein Reward Code, kein Gutschein. Im Checkout von YesStyle kommt er in das Feld Reward Code. Laut der Seite zum Code auf dieser Website gibt er bis zu 5 % auf den ersten Einkauf und 2 % auf die folgenden und lässt sich mit den Gutscheinen des Shops kombinieren. Die Gutscheine von YesStyle ändern sich und laufen ab, daher steht die aktuelle Liste auf der Shop-Seite: [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle).",
+          "Olive Young hat in diesem Vergleich keinen Code von uns und keinen Gutschein. Was der Shop Mitgliedern gibt, steht im oben beschriebenen Programm und kann sich ändern."
         ]
       },
       {
         "heading": "Welchen Shop wählen, je nach Land",
         "bullets": [
-          "Sie wohnen in Portugal: Beide liefern, und YesStyle veröffentlicht die Lieferzeit (10 bis 15 Werktage im Standard), Olive Young nur die Versandregel. Bei beiden ist der Versand ab 60 US-$ kostenlos; darunter berechnet YesStyle 5 US-$ und Olive Young 25 US-$.",
           "Sie wohnen in den Vereinigten Staaten: Der Vergleich ist mit OLIVE YOUNG US, und bei beiden beginnt der kostenlose Versand bei 35 US-$.",
           "Ihnen ist die Rückgabe wichtig: YesStyle akzeptiert Sinnesänderung und Größentausch, mit der Rücksendenummer innerhalb von 14 Tagen angefordert; Olive Young nimmt nur bei Defekt oder falschem Artikel zurück, innerhalb von 30 Tagen.",
-          "Ihnen sind die Steuern wichtig: YesStyle zeigt die Mehrwertsteuer von Portugal schon im Preis, und Olive Young erhebt Mehrwertsteuer und Einfuhrzoll im Checkout bei Bestellungen in die Europäische Union."
+          "Ihnen sind die Steuern wichtig: Olive Young erhebt Mehrwertsteuer und Einfuhrzoll im Checkout bei Bestellungen in die Europäische Union, und YesStyle sagt, dass der Shop die EU-Gebühr von 3 € vorerst für Sie übernimmt."
         ],
         "postParagraphs": [
           "Um das Angebot von YesStyle vor dem Kauf zu sehen, nutzen Sie die [Seite von YesStyle](/de/coupons/yesstyle)."
@@ -108037,8 +107128,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Welcher Shop ist günstiger? Dieser Artikel vergleicht keine Produktpreise. Vergleichen Sie denselben Artikel in beiden Shops am Kauftag, mit Versand und Steuern addiert.",
-          "Welcher liefert schneller nach Portugal? Olive Young liefert nach Portugal, veröffentlicht aber keine Lieferzeit für das Land. YesStyle veröffentlicht 10 bis 15 Werktage Versand, dazu 1 bis 3 Tage, bis der Artikel das Lager verlässt.",
-          "Wer zahlt die Steuern in Europa? Bei Olive Young werden für die Europäische Union Mehrwertsteuer und 3 € je HS-Code im Checkout erhoben, und der Shop sagt, dass bei der Lieferung nichts weiter erhoben wird. Bei YesStyle sind in Portugal 23 % Mehrwertsteuer bereits im Preis. Die Einzelheiten stehen im Abschnitt zu den Steuern.",
+          "Wer zahlt die Steuern in Europa? Bei Olive Young werden für die Europäische Union Mehrwertsteuer und 3 € je HS-Code im Checkout erhoben, und der Shop sagt, dass bei der Lieferung nichts weiter erhoben wird. YesStyle sagt, dass der Shop die EU-Gebühr von 3 € vorerst für den Kunden übernimmt. Die Einzelheiten stehen im Abschnitt zu den Steuern.",
           "Kann man ein geöffnetes Produkt zurückgeben? Bei Olive Young Global nein, außer es ist defekt oder ein vom Shop falsch gesendeter Artikel, innerhalb von 30 Tagen. Bei YesStyle werden geöffnete Beauty-Produkte und Nahrungsergänzungsmittel nicht zurückgenommen.",
           "Sind Olive Young Global und OLIVE YOUNG US derselbe Shop? Nein. Global versendet aus Korea in die Länderliste und nicht in die USA; OLIVE YOUNG US ist getrennt und hat eigene Versand- und Rückgaberegeln.",
           "Wo gebe ich CECILIA010 ein? Im Checkout von YesStyle, im Feld Reward Code. Er lässt sich mit den Gutscheinen des Shops selbst kombinieren."
@@ -108084,7 +107174,7 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-o-olive-young-quale-scegliere",
     "locale": "it",
     "translationKey": "yesstyle-vs-olive-young",
-    "title": "YesStyle o Olive Young: chi spedisce nel tuo paese, spedizione, imposte e resi",
+    "title": "YesStyle o Olive Young: spedizione gratuita, imposte, resi e punti a confronto",
     "seoTitle": "YesStyle o Olive Young: spedizione, dogana e resi",
     "type": "Confronto tra negozi",
     "category": "guias-praticos-utilidade",
@@ -108096,12 +107186,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle e Olive Young Global a confronto: chi spedisce in Portogallo e in altri 22 paesi, da quale importo la spedizione è gratuita, chi paga le imposte e cosa accetta indietro ciascun negozio, secondo le pagine ufficiali.",
+    "description": "YesStyle e Olive Young Global a confronto: chi spedisce in 23 paesi, da quale importo la spedizione è gratuita, chi paga le imposte e cosa accetta indietro ciascun negozio, secondo le pagine ufficiali.",
     "metaDescription": "YesStyle o Olive Young? Spedizione gratuita, tempi, imposte e resi per paese, secondo le pagine ufficiali.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
     "imageAlt": "Cecília con la maschera labbra Glazed Jelly di Abib, inviata da YesStyle, con il logo di YesStyle e il titolo YesStyle vs Olive Young",
@@ -108113,35 +107203,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Dipende dal tuo paese. Dove spediscono entrambi, contano la spedizione gratuita, le imposte e il reso; guarda il capitolo Quale scegliere, in base al paese."
+          "Dipende da ciò che conta per te. Sul reso, YesStyle è più flessibile: accetta il ripensamento e il cambio di taglia entro 14 giorni, mentre Olive Young Global accetta solo difetto o articolo sbagliato, entro 30 giorni. La spedizione gratuita e le imposte cambiano per paese; guarda il capitolo Quale scegliere, in base al paese."
         ]
       },
       {
         "heading": "Chi spedisce nel tuo paese",
         "paragraphs": [
-          "Dipende dal tuo paese. YesStyle pubblica tempi e costi di spedizione per 23 paesi del confronto. Olive Young Global pubblica i tempi per 10 di questi e non serve gli USA, che hanno un proprio negozio americano. Negli altri 22 paesi, il confronto cambia da uno all'altro.",
-          "Ogni riga è un paese; l'ultima raccoglie gli altri. La colonna di YesStyle viene dalla tabella delle spedizioni pubblicata il 13/10/2026. Quella di Olive Young viene dalla pagina di spedizione letta il 21/10/2026. Dove il negozio non pubblica i tempi o i costi, la cella lo dice."
+          "Dipende dal tuo paese. YesStyle pubblica tempi e costi di spedizione per 23 paesi del confronto. Olive Young Global pubblica i tempi per 10 di questi e non serve gli USA, che hanno un proprio negozio americano. Il confronto cambia da un paese all'altro.",
+          "I dati di YesStyle vengono dalla tabella delle spedizioni pubblicata il 13/10/2026. Quelli di Olive Young vengono dalla pagina di spedizione letta il 21/10/2026. Dove il negozio non pubblica i tempi o i costi, la griglia lo segnala."
         ],
-        "comparisonTable": {
-          "headers": [
-            "Paese",
-            "YesStyle",
-            "Olive Young Global"
-          ],
-          "rows": [
-            [
-              "Portogallo",
-              "Standard, da 10 a 15 giorni lavorativi; gratis da 60 USD",
-              "Spedisce; gratis da 60 USD, tempi non pubblicati"
-            ],
-            [
-              "altri paesi",
-              "Tempi e soglia di spedizione gratuita variano per paese; controlla al checkout con il tuo indirizzo",
-              "Gratis da 60 USD nella maggior parte delle destinazioni (sotto, 25 USD); tempi al checkout"
-            ]
-          ],
-          "caption": "Tempi e spedizione gratuita per paese: YesStyle dalla tabella delle spedizioni, Olive Young Global dalla pagina di spedizione e dalle FAQ sulla spedizione."
-        },
         "postParagraphs": [
           "Dove Olive Young non pubblica i tempi per il tuo paese, vale la regola generale delle FAQ sulla spedizione (gratis da 60 USD, 25 USD sotto; 5 USD in Malesia e a Singapore) e i tempi compaiono solo al checkout, con l'indirizzo.",
           "Quattro paesi non compaiono nel selettore di destinazione del negozio globale: Spagna, Argentina, Perù e Stati Uniti. Negli USA, Olive Young vende dal proprio negozio americano. La tabella di Olive Young ha anche una riga \"altre regioni\" (15 giorni, 60 USD), senza elenco di paesi."
@@ -108158,9 +107228,8 @@ export const reviewsData: unknown[] = [
         "heading": "Spedizione gratuita e tempi",
         "paragraphs": [
           "I tempi sono di spedizione, non da porta a porta. Su YesStyle, il tempo perché l'articolo esca dal magazzino di Hong Kong si somma alla spedizione: un articolo disponibile esce in 1-3 giorni lavorativi. Olive Young mostra solo il tempo di spedizione, senza il tempo di uscita dal magazzino. Non sommare i valori di un negozio con quelli dell'altro: YesStyle conta in giorni lavorativi, e Olive Young mostra solo \"giorni\", senza dire se siano lavorativi.",
-          "**Portogallo.** Con la spedizione Standard di YesStyle, i tempi sono di 10-15 giorni lavorativi, con tracciamento. Un ordine con soli articoli disponibili arriva in 11-18 giorni lavorativi. Con un articolo con attesa di 7-14 giorni, l'ordine sale a 17-29 giorni lavorativi. La spedizione è gratuita da 60 USD (l'imballaggio regalo non rientra in questo totale) e costa 5 USD sotto questa soglia. Olive Young spedisce in Portogallo, ma la tabella delle spedizioni non ha una riga per il paese: secondo le FAQ sulla spedizione, la spedizione è gratuita da 60 USD e costa 25 USD sotto, calcolati sul prezzo dei prodotti senza sconti. I tempi non sono pubblicati; il negozio dice solo che prepara e imballa l'ordine in 1-3 giorni lavorativi. Per confrontare i tempi, inserisci l'indirizzo in Portogallo al checkout di ciascun negozio. Sotto il minimo, la spedizione di YesStyle costa molto meno.",
-          "**Gli altri paesi.** Dove spediscono entrambi, Olive Young ha tempi più brevi in alcuni casi: Regno Unito (4-5 giorni, contro 5-12 giorni lavorativi con il Premium Standard di YesStyle), Canada (5-7, contro 7-14), Australia (4-5, contro 6-8), Francia e Germania (4-5, contro 10-15) e Messico (8-9, contro 10-13). In Asia, YesStyle ha tempi più brevi a Hong Kong (1-3 giorni, contro 3-5), in Giappone (4-5, contro 6-7) e a Singapore (3-5, contro 5-6), perché usa l'Express. Confronta sempre il metodo di ciascun negozio.",
-          "**Spedizione gratuita.** Olive Young rende gratuita la spedizione da 60 USD nella maggior parte dei paesi del confronto. A Taiwan, la soglia è 35 USD, e in Giappone 3.900 ¥. YesStyle chiede 35 USD a Hong Kong, in Malesia, negli USA (Standard) e in Australia (Premium Standard); 45 USD nell'Europa continentale, in Spagna, in Messico e in Colombia; 50 USD in Giappone, Corea, Taiwan, Singapore, Regno Unito e Canada; e 60 USD in Portogallo, Cile, Perù e Argentina. Sotto il minimo, YesStyle addebita da 3 a 8 USD nella maggior parte dei paesi."
+          "**I tempi per paese.** Dove spediscono entrambi, Olive Young ha tempi più brevi in alcuni casi: Regno Unito (4-5 giorni, contro 5-12 giorni lavorativi con il Premium Standard di YesStyle), Canada (5-7, contro 7-14), Australia (4-5, contro 6-8), Francia e Germania (4-5, contro 10-15) e Messico (8-9, contro 10-13). In Asia, YesStyle ha tempi più brevi a Hong Kong (1-3 giorni, contro 3-5), in Giappone (4-5, contro 6-7) e a Singapore (3-5, contro 5-6), perché usa l'Express. Confronta sempre il metodo di ciascun negozio.",
+          "**Spedizione gratuita.** Olive Young rende gratuita la spedizione da 60 USD nella maggior parte dei paesi del confronto. A Taiwan, la soglia è 35 USD, e in Giappone 3.900 ¥. YesStyle chiede 35 USD a Hong Kong, in Malesia, negli USA (Standard) e in Australia (Premium Standard); 45 USD nell'Europa continentale, in Spagna, in Messico e in Colombia; 50 USD in Giappone, Corea, Taiwan, Singapore, Regno Unito e Canada; e 60 USD in Cile, Perù e Argentina. Sotto il minimo, YesStyle addebita da 3 a 8 USD nella maggior parte dei paesi."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -108174,8 +107243,8 @@ export const reviewsData: unknown[] = [
         "heading": "Chi paga le imposte",
         "paragraphs": [
           "Le imposte cambiano da un paese all'altro in entrambi i negozi. Su Olive Young, entrano al checkout in alcuni paesi e restano alla consegna in altri, a carico del cliente.",
-          "**Olive Young.** La pagina divide i paesi in gruppi. Nel Regno Unito, in Norvegia, in Australia e a Singapore, l'imposta risulta riscossa all'acquisto. Il Regno Unito può riscuotere IVA e tasse sugli ordini oltre 135 £; la Norvegia ha un'IVA del 25%, l'Australia una GST del 10%, e Singapore del 9%. Nell'Unione Europea, dagli ordini effettuati il 31/07/2026, Olive Young calcola e riscuote al checkout l'IVA del paese e 3 € di dazio d'importazione per codice HS (categoria doganale), dopo che inserisci l'indirizzo; su un ordine sotto 60 USD con spedizione, l'IVA si applica anche alla spedizione. Il negozio dice che alla consegna non viene riscosso nient'altro. In Canada e in Israele, il prelievo avviene alla consegna: il Canada può riscuotere l'IVA sugli ordini oltre 20 CA$, e Israele tasse oltre 75 USD, e il corriere locale può addebitare una tariffa. Il Portogallo fa parte dell'Unione Europea, quindi l'imposta di Olive Young compare già nel totale del checkout. Il negozio non accetta resi né rimborsi per imposte o tasse d'importazione (FAQ sulle tasse UE).",
-          "**YesStyle.** In Portogallo, l'IVA del 23% è già nel prezzo dei prodotti e si somma alla spedizione al checkout. Dal 01/07/2026, l'Unione Europea riscuote 3 € per categoria doganale sui pacchi sotto i 150 €, e YesStyle dice che, per ora, paga lei questa tassa al posto del cliente (articolo sulla spedizione). YesStyle rimborsa le spese doganali addebitate alla consegna sugli ordini sotto 1.000 USD, in credito del negozio, se invii la ricevuta entro 30 giorni."
+          "**Olive Young.** La pagina divide i paesi in gruppi. Nel Regno Unito, in Norvegia, in Australia e a Singapore, l'imposta risulta riscossa all'acquisto. Il Regno Unito può riscuotere IVA e tasse sugli ordini oltre 135 £; la Norvegia ha un'IVA del 25%, l'Australia una GST del 10%, e Singapore del 9%. Nell'Unione Europea, dagli ordini effettuati il 31/07/2026, Olive Young calcola e riscuote al checkout l'IVA del paese e 3 € di dazio d'importazione per codice HS (categoria doganale), dopo che inserisci l'indirizzo; su un ordine sotto 60 USD con spedizione, l'IVA si applica anche alla spedizione. Il negozio dice che alla consegna non viene riscosso nient'altro. In Canada e in Israele, il prelievo avviene alla consegna: il Canada può riscuotere l'IVA sugli ordini oltre 20 CA$, e Israele tasse oltre 75 USD, e il corriere locale può addebitare una tariffa. Il negozio non accetta resi né rimborsi per imposte o tasse d'importazione (FAQ sulle tasse UE).",
+          "**YesStyle.** Dal 01/07/2026, l'Unione Europea riscuote 3 € per categoria doganale sui pacchi sotto i 150 €, e YesStyle dice che, per ora, paga lei questa tassa al posto del cliente (articolo sulla spedizione). YesStyle rimborsa le spese doganali addebitate alla consegna sugli ordini sotto 1.000 USD, in credito del negozio, se invii la ricevuta entro 30 giorni."
         ]
       },
       {
@@ -108304,17 +107373,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Codice ricompensa CECILIA010 su YesStyle",
         "paragraphs": [
-          "CECILIA010 è un codice ricompensa, non un coupon. Al checkout di YesStyle, va nel campo Reward Code. Secondo la scheda del codice su questo sito, dà fino al 5% sul primo acquisto e il 2% sui successivi, e si somma ai coupon del negozio. I coupon di YesStyle cambiano e scadono, quindi l'elenco del momento è nella pagina del negozio: [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
+          "CECILIA010 è un codice ricompensa, non un coupon. Al checkout di YesStyle, va nel campo Reward Code. Secondo la pagina del codice su questo sito, dà fino al 5% sul primo acquisto e il 2% sui successivi, e si somma ai coupon del negozio. I coupon di YesStyle cambiano e scadono, quindi l'elenco del momento è nella pagina del negozio: [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
           "Olive Young non ha un nostro codice in questo confronto, né un coupon. Quello che dà ai soci è nel programma descritto sopra, e può cambiare."
         ]
       },
       {
         "heading": "Quale scegliere, in base al paese",
         "bullets": [
-          "Vivi in Portogallo: spediscono entrambi, e YesStyle pubblica i tempi (10-15 giorni lavorativi con lo Standard) mentre Olive Young solo la regola di spedizione. Per entrambi, la spedizione è gratuita da 60 USD; sotto, YesStyle addebita 5 USD e Olive Young 25 USD.",
           "Vivi negli Stati Uniti: il confronto è con OLIVE YOUNG US, e per entrambi la spedizione gratuita parte da 35 USD.",
           "Per te conta il reso: YesStyle accetta il ripensamento e il cambio di taglia, con il numero di reso richiesto entro 14 giorni; Olive Young accetta solo difetto o articolo sbagliato, entro 30 giorni.",
-          "Per te contano le imposte: YesStyle mostra già l'IVA del Portogallo nel prezzo, e Olive Young riscuote IVA e dazio d'importazione al checkout sugli ordini verso l'Unione Europea."
+          "Per te contano le imposte: Olive Young riscuote IVA e dazio d'importazione al checkout sugli ordini verso l'Unione Europea, e YesStyle dice che, per ora, paga lei al posto tuo la tassa UE di 3 €."
         ],
         "postParagraphs": [
           "Per vedere l'offerta di YesStyle prima di comprare, usa la [pagina di YesStyle](/it/coupons/yesstyle)."
@@ -108324,8 +107392,7 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti",
         "bullets": [
           "Quale costa meno? Questo articolo non confronta i prezzi dei prodotti. Confronta lo stesso articolo nei due negozi il giorno dell'acquisto, con spedizione e imposte sommate.",
-          "Quale consegna più in fretta in Portogallo? Olive Young spedisce in Portogallo, ma non pubblica i tempi per il paese. YesStyle pubblica 10-15 giorni lavorativi di spedizione, più 1-3 giorni perché l'articolo esca dal magazzino.",
-          "Chi paga le imposte in Europa? Su Olive Young, per l'Unione Europea, IVA e 3 € per codice HS vengono riscossi al checkout, e il negozio dice che alla consegna non viene riscosso nient'altro. Su YesStyle, in Portogallo, l'IVA del 23% è già nel prezzo. I dettagli sono nella sezione sulle imposte.",
+          "Chi paga le imposte in Europa? Su Olive Young, per l'Unione Europea, IVA e 3 € per codice HS vengono riscossi al checkout, e il negozio dice che alla consegna non viene riscosso nient'altro. YesStyle dice che, per ora, paga lei al posto del cliente la tassa UE di 3 €. I dettagli sono nella sezione sulle imposte.",
           "Si può restituire un prodotto aperto? Su Olive Young Global, no, a meno che sia difettoso o sia un articolo sbagliato inviato dal negozio, entro 30 giorni. Su YesStyle, il prodotto di bellezza aperto e gli integratori non tornano.",
           "Olive Young Global e OLIVE YOUNG US sono lo stesso negozio? No. La Global spedisce dalla Corea all'elenco di paesi e non agli USA; OLIVE YOUNG US è separata e ha regole proprie di spedizione e reso.",
           "Dove inserisco CECILIA010? Al checkout di YesStyle, nel campo Reward Code. Si somma ai coupon del negozio stesso."
@@ -108371,8 +107438,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-olive-young-ko",
     "locale": "ko",
     "translationKey": "yesstyle-vs-olive-young",
-    "title": "YesStyle vs Olive Young Global: 한국 배송, 관세, 반품 비교",
-    "seoTitle": "YesStyle vs Olive Young: 한국 배송, 세금, 반품",
+    "title": "YesStyle vs Olive Young Global: 무료배송, 세금, 반품, 포인트 비교",
+    "seoTitle": "YesStyle vs Olive Young: 무료배송, 세금, 반품",
     "type": "쇼핑몰 비교",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -108383,12 +107450,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle과 Olive Young Global을 나란히 비교합니다. 포르투갈을 포함한 23개국 중 어디로 배송하는지, 무료배송 기준, 세금은 누가 내는지, 각 쇼핑몰이 어떤 반품을 받아 주는지를 공식 페이지를 바탕으로 정리했습니다.",
+    "description": "YesStyle과 Olive Young Global을 나란히 비교합니다. 23개국 중 어디로 배송하는지, 무료배송 기준, 세금은 누가 내는지, 각 쇼핑몰이 어떤 반품을 받아 주는지를 공식 페이지를 바탕으로 정리했습니다.",
     "metaDescription": "YesStyle과 Olive Young, 어디가 나을까요? 나라별 무료배송 기준, 배송 기간, 세금, 반품을 공식 페이지로 비교합니다.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
     "imageAlt": "YesStyle에서 보내온 Abib Glazed Jelly 립 마스크를 든 Cecília. YesStyle 로고와 'YesStyle vs Olive Young' 제목이 함께 있음",
@@ -108400,35 +107467,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "사는 나라에 따라 다릅니다. 두 곳이 모두 배송하는 나라에서는 무료배송 기준, 세금, 반품이 선택을 가릅니다. 나라별 추천은 '어느 쪽을 고를까, 나라별' 장에 있습니다."
+          "무엇을 중요하게 보느냐에 따라 다릅니다. 반품은 YesStyle이 더 유연합니다. 단순 변심 반품과 사이즈 교환을 14일 안에 신청하면 받아 주지만, Olive Young Global은 불량이나 오배송만 30일 안에 받아 줍니다. 무료배송 기준과 세금은 나라마다 다릅니다. '어느 쪽을 고를까, 나라별' 장을 보세요."
         ]
       },
       {
-        "heading": "내가 사는 나라에는 어디가 배송할까",
+        "heading": "사는 나라에는 어디가 배송할까",
         "paragraphs": [
-          "사는 나라에 따라 다릅니다. YesStyle은 비교 대상 중 23개국의 배송 기간과 배송비를 공개합니다. Olive Young Global은 그중 10개국의 배송 기간을 공개하며, 미국으로는 배송하지 않습니다(미국에는 별도의 미국 쇼핑몰이 있습니다). 나머지 22개국은 나라마다 비교 결과가 달라집니다.",
-          "한 줄이 한 나라이고, 마지막 줄은 나머지 나라를 묶었습니다. YesStyle 열은 2026년 10월 13일에 게시된 배송비 표를 따릅니다. Olive Young 열은 2026년 10월 21일에 읽은 배송 페이지를 따릅니다. 쇼핑몰이 배송 기간이나 배송비를 공개하지 않은 칸에는 그렇게 적혀 있습니다."
+          "사는 나라에 따라 다릅니다. YesStyle은 비교 대상 중 23개국의 배송 기간과 배송비를 공개합니다. Olive Young Global은 그중 10개국의 배송 기간을 공개하며, 미국으로는 배송하지 않습니다(미국에는 별도의 미국 쇼핑몰이 있습니다). 비교 결과는 나라마다 달라집니다.",
+          "YesStyle 자료는 2026년 10월 13일에 게시된 배송비 표를 따릅니다. Olive Young 자료는 2026년 10월 21일에 읽은 배송 페이지를 따릅니다. 쇼핑몰이 배송 기간이나 배송비를 공개하지 않은 곳은 그림에 그렇게 표시했습니다."
         ],
-        "comparisonTable": {
-          "headers": [
-            "국가",
-            "YesStyle",
-            "Olive Young Global"
-          ],
-          "rows": [
-            [
-              "포르투갈",
-              "Standard, 영업일 기준 10~15일. US$60부터 무료배송",
-              "배송함. US$60부터 무료배송, 배송 기간 미공개"
-            ],
-            [
-              "그 밖의 나라",
-              "배송 기간과 무료배송 기준은 나라마다 다름. 주소를 넣고 결제 화면에서 확인",
-              "대부분의 배송지에서 US$60부터 무료배송(그 미만은 US$25). 배송 기간은 결제 화면에 표시"
-            ]
-          ],
-          "caption": "나라별 배송 기간과 무료배송 기준: YesStyle은 배송비 표, Olive Young Global은 배송 페이지와 배송비 FAQ를 따릅니다."
-        },
         "postParagraphs": [
           "Olive Young이 해당 나라의 배송 기간을 공개하지 않았다면 배송비 FAQ의 일반 규칙(US$60부터 무료배송, 그 미만은 US$25, 말레이시아와 싱가포르는 US$5)이 적용되고, 배송 기간은 주소를 넣은 결제 화면에서만 나옵니다.",
           "글로벌 쇼핑몰의 배송지 선택 화면에 없는 나라가 네 곳 있습니다. 스페인, 아르헨티나, 페루, 미국입니다. 미국에서는 Olive Young이 별도의 미국 쇼핑몰로 판매합니다. Olive Young 표에는 '기타 지역' 줄(15일, US$60)도 있지만 나라 목록은 없습니다."
@@ -108445,9 +107492,8 @@ export const reviewsData: unknown[] = [
         "heading": "무료배송과 배송 기간",
         "paragraphs": [
           "배송 기간은 운송에 걸리는 시간이지, 문 앞까지의 전체 기간이 아닙니다. YesStyle은 상품이 홍콩 창고를 떠나기까지의 시간이 운송에 더해집니다. 재고가 있는 상품은 영업일 기준 1~3일 안에 창고를 떠납니다. Olive Young은 운송 기간만 보여 주고, 창고에서 나가는 시간은 포함하지 않습니다. 두 곳의 숫자를 서로 더하지 마세요. YesStyle은 영업일로 세고, Olive Young은 '일'(days)만 표시할 뿐 영업일인지는 밝히지 않습니다.",
-          "**포르투갈.** YesStyle의 Standard 배송은 영업일 기준 10~15일이고 추적이 됩니다. 재고 상품만 담은 주문은 영업일 기준 11~18일 안에 도착합니다. 입고 대기 7~14일짜리 상품이 있으면 영업일 기준 17~29일로 늘어납니다. 배송비는 US$60부터 무료이고(선물 포장은 이 합계에 들어가지 않습니다) 그 미만은 US$5입니다. Olive Young은 포르투갈로 배송하지만 배송표에 이 나라 줄은 없습니다. 배송비 FAQ에 따르면 US$60부터 무료이고 그 미만은 US$25이며, 할인 전 상품 금액을 기준으로 합니다. 배송 기간은 공개하지 않고, 주문을 준비해 포장하는 데 영업일 기준 1~3일 걸린다고만 밝힙니다. 배송 기간을 비교하려면 두 쇼핑몰의 결제 화면에 포르투갈 주소를 넣어 보세요. 최소 금액에 못 미치면 YesStyle의 배송비가 훨씬 쌉니다.",
-          "**그 밖의 나라.** 두 곳이 모두 배송하는 나라 중 일부에서는 Olive Young의 배송 기간이 더 짧습니다. 영국(4~5일, YesStyle Premium Standard는 영업일 기준 5~12일), 캐나다(5~7일, YesStyle은 7~14일), 호주(4~5일, YesStyle은 6~8일), 프랑스와 독일(4~5일, YesStyle은 10~15일), 멕시코(8~9일, YesStyle은 10~13일)입니다. 아시아에서는 YesStyle이 Express를 쓰기 때문에 홍콩(1~3일, Olive Young은 3~5일), 일본(4~5일, Olive Young은 6~7일), 싱가포르(3~5일, Olive Young은 5~6일)에서 더 짧습니다. 비교할 때는 항상 각 쇼핑몰의 배송 방식을 맞춰서 보세요.",
-          "**무료배송.** Olive Young은 비교 대상 대부분의 나라에서 US$60부터 무료배송입니다. 대만은 US$35, 일본은 ¥3,900입니다. YesStyle은 홍콩, 말레이시아, 미국(Standard), 호주(Premium Standard)에서 US$35, 유럽 대륙, 스페인, 멕시코, 콜롬비아에서 US$45, 일본, 한국, 대만, 싱가포르, 영국, 캐나다에서 US$50, 포르투갈, 칠레, 페루, 아르헨티나에서 US$60을 요구합니다. 최소 금액에 못 미치면 YesStyle은 대부분의 나라에서 US$3~US$8을 받습니다."
+          "**나라별 배송 기간.** 두 곳이 모두 배송하는 나라 중 일부에서는 Olive Young의 배송 기간이 더 짧습니다. 영국(4~5일, YesStyle Premium Standard는 영업일 기준 5~12일), 캐나다(5~7일, YesStyle은 7~14일), 호주(4~5일, YesStyle은 6~8일), 프랑스와 독일(4~5일, YesStyle은 10~15일), 멕시코(8~9일, YesStyle은 10~13일)입니다. 아시아에서는 YesStyle이 Express를 쓰기 때문에 홍콩(1~3일, Olive Young은 3~5일), 일본(4~5일, Olive Young은 6~7일), 싱가포르(3~5일, Olive Young은 5~6일)에서 더 짧습니다. 비교할 때는 항상 각 쇼핑몰의 배송 방식을 맞춰서 보세요.",
+          "**무료배송.** Olive Young은 비교 대상 대부분의 나라에서 US$60부터 무료배송입니다. 대만은 US$35, 일본은 ¥3,900입니다. YesStyle은 홍콩, 말레이시아, 미국(Standard), 호주(Premium Standard)에서 US$35, 유럽 대륙, 스페인, 멕시코, 콜롬비아에서 US$45, 일본, 한국, 대만, 싱가포르, 영국, 캐나다에서 US$50, 칠레, 페루, 아르헨티나에서 US$60을 요구합니다. 최소 금액에 못 미치면 YesStyle은 대부분의 나라에서 US$3~US$8을 받습니다."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -108461,8 +107507,8 @@ export const reviewsData: unknown[] = [
         "heading": "세금은 누가 낼까",
         "paragraphs": [
           "세금은 나라마다, 그리고 쇼핑몰마다 다릅니다. Olive Young은 어떤 나라에서는 결제할 때 세금을 받고, 어떤 나라에서는 배달 때 구매자가 부담하게 합니다.",
-          "**Olive Young.** 페이지는 나라를 그룹으로 나눕니다. 영국, 노르웨이, 호주, 싱가포르에서는 세금이 구매 시점에 부과됩니다. 영국은 £135를 넘는 주문에 VAT와 수수료가 붙을 수 있고, 노르웨이는 VAT 25%, 호주는 GST 10%, 싱가포르는 9%입니다. EU에서는 2026년 7월 31일 이후 주문부터, 주소를 입력하면 결제 화면에서 해당 국가의 VAT와 HS 코드(관세 분류)당 €3의 수입 관세를 계산해 받습니다. 배송비를 포함해 US$60 미만인 주문은 VAT가 배송비에도 붙습니다. 쇼핑몰은 배달 때 더 이상 받지 않는다고 밝힙니다. 캐나다와 이스라엘은 배달 때 부과됩니다. 캐나다는 CA$20를 넘는 주문에 VAT가 붙을 수 있고, 이스라엘은 US$75를 넘으면 수수료가 붙으며 현지 운송사가 수수료를 받기도 합니다. 포르투갈은 EU 회원국이라서 Olive Young의 세금이 결제 화면 합계에 이미 나타납니다. 쇼핑몰은 세금이나 수입 수수료를 이유로 한 반품과 환불은 받지 않습니다(EU 세금 FAQ).",
-          "**YesStyle.** 포르투갈에서는 23% VAT가 상품 가격에 이미 들어 있고, 결제 화면에서 배송비에 더해집니다. 2026년 7월 1일부터 EU는 €150 미만 소포에 관세 분류당 €3를 부과하며, YesStyle은 당분간 이 수수료를 고객 대신 낸다고 밝혔습니다(배송 글). 배달 때 부과된 통관 수수료는 US$1,000 미만 주문이라면 영수증을 30일 안에 보내면 스토어 크레딧으로 환급됩니다."
+          "**Olive Young.** 페이지는 나라를 그룹으로 나눕니다. 영국, 노르웨이, 호주, 싱가포르에서는 세금이 구매 시점에 부과됩니다. 영국은 £135를 넘는 주문에 VAT와 수수료가 붙을 수 있고, 노르웨이는 VAT 25%, 호주는 GST 10%, 싱가포르는 9%입니다. EU에서는 2026년 7월 31일 이후 주문부터, 주소를 입력하면 결제 화면에서 해당 국가의 VAT와 HS 코드(관세 분류)당 €3의 수입 관세를 계산해 받습니다. 배송비를 포함해 US$60 미만인 주문은 VAT가 배송비에도 붙습니다. 쇼핑몰은 배달 때 더 이상 받지 않는다고 밝힙니다. 캐나다와 이스라엘은 배달 때 부과됩니다. 캐나다는 CA$20를 넘는 주문에 VAT가 붙을 수 있고, 이스라엘은 US$75를 넘으면 수수료가 붙으며 현지 운송사가 수수료를 받기도 합니다. 쇼핑몰은 세금이나 수입 수수료를 이유로 한 반품과 환불은 받지 않습니다(EU 세금 FAQ).",
+          "**YesStyle.** 2026년 7월 1일부터 EU는 €150 미만 소포에 관세 분류당 €3를 부과하며, YesStyle은 당분간 이 수수료를 고객 대신 낸다고 밝혔습니다(배송 글). 배달 때 부과된 통관 수수료는 US$1,000 미만 주문이라면 영수증을 30일 안에 보내면 스토어 크레딧으로 환급됩니다."
         ]
       },
       {
@@ -108581,7 +107627,7 @@ export const reviewsData: unknown[] = [
           "본토 48개 주는 영업일 기준 최대 5일, 알래스카와 하와이는 최대 9일.",
           "미국령, 해외, 사서함(PO Box), 군 주소로는 배송하지 않습니다.",
           "반품은 배달 후 30일 안에 가능합니다. 단순 변심 반품은 미개봉, 미사용 상품만 가능하며 배송비와 세금은 환불액에서 빠집니다.",
-          "식품과 K-POP 앨범은 반품 불가(final sale)입니다. 교환은 없습니다.",
+          "식품과 K-POP 앨범은 반품 불가입니다. 교환은 없습니다.",
           "온라인 쇼핑몰에서 접수한 반품은 미국 오프라인 매장에서 인정되지 않고, 오프라인 매장에서 접수한 반품도 온라인에서 인정되지 않습니다."
         ],
         "postParagraphs": [
@@ -108598,10 +107644,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "어느 쪽을 고를까, 나라별",
         "bullets": [
-          "포르투갈에 산다면: 두 곳 모두 배송합니다. YesStyle은 배송 기간(Standard 영업일 기준 10~15일)을 공개하고, Olive Young은 배송비 규칙만 공개합니다. 두 곳 모두 US$60부터 무료배송이고, 그 미만이면 YesStyle은 US$5, Olive Young은 US$25를 받습니다.",
           "미국에 산다면: 비교 대상은 OLIVE YOUNG US이며, 두 곳 모두 무료배송은 US$35부터입니다.",
           "반품이 중요하다면: YesStyle은 단순 변심 반품과 사이즈 교환을 받아 주며, 반품 번호는 14일 안에 신청해야 합니다. Olive Young은 불량이나 오배송만 30일 안에 받아 줍니다.",
-          "세금이 중요하다면: YesStyle은 포르투갈 VAT가 가격에 들어 있고, Olive Young은 EU로 가는 주문에서 결제 화면에서 VAT와 수입 관세를 받습니다."
+          "세금이 중요하다면: Olive Young은 EU로 가는 주문에서 결제 화면에서 VAT와 수입 관세를 받고, YesStyle은 당분간 EU의 €3 수수료를 고객 대신 낸다고 밝혔습니다."
         ],
         "postParagraphs": [
           "YesStyle의 혜택을 사기 전에 확인하려면 [YesStyle 페이지](/ko/coupons/yesstyle)를 이용하세요."
@@ -108611,8 +107656,7 @@ export const reviewsData: unknown[] = [
         "heading": "자주 묻는 질문",
         "bullets": [
           "어느 쪽이 더 쌀까요? 이 글은 상품 가격을 비교하지 않습니다. 구매일에 같은 상품을 두 쇼핑몰에서 확인하고, 배송비와 세금을 더해 비교하세요.",
-          "포르투갈로는 어느 쪽이 더 빨리 올까요? Olive Young은 포르투갈로 배송하지만 배송 기간은 공개하지 않습니다. YesStyle은 영업일 기준 10~15일의 배송 기간을 공개하며, 그 밖에 상품이 창고를 떠나기까지 1~3일이 더 걸립니다.",
-          "유럽에서는 세금을 누가 낼까요? Olive Young은 EU로 가는 주문에서 VAT와 HS 코드당 €3를 결제 화면에서 받고, 배달 때 더 받지 않는다고 밝힙니다. YesStyle은 포르투갈에서 23% VAT가 가격에 이미 들어 있습니다. 자세한 내용은 세금 장에 있습니다.",
+          "유럽에서는 세금을 누가 낼까요? Olive Young은 EU로 가는 주문에서 VAT와 HS 코드당 €3를 결제 화면에서 받고, 배달 때 더 받지 않는다고 밝힙니다. YesStyle은 당분간 EU의 €3 수수료를 고객 대신 낸다고 밝혔습니다. 자세한 내용은 세금 장에 있습니다.",
           "개봉한 상품도 반품할 수 있을까요? Olive Young Global에서는 불량이거나 쇼핑몰이 잘못 보낸 상품이 아니면 안 되며, 신청 기한은 30일입니다. YesStyle에서는 개봉한 뷰티 제품과 보충제는 반품할 수 없습니다.",
           "Olive Young Global과 OLIVE YOUNG US는 같은 쇼핑몰일까요? 아닙니다. Global은 한국에서 목록에 있는 나라로 보내며 미국에는 보내지 않습니다. OLIVE YOUNG US는 별도 쇼핑몰이고 배송비와 반품 규칙도 따로 있습니다.",
           "CECILIA010은 어디에 입력하나요? YesStyle 결제 화면의 Reward Code 칸에 입력합니다. 쇼핑몰 자체 쿠폰과 함께 쓸 수 있습니다."
@@ -108620,7 +107664,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "결제 화면에서 내 주소의 배송비와 관세를 확인하고 Reward Code 칸에 CECILIA010을 입력하세요.",
+      "text": "결제 화면에서 받는 주소의 배송비와 관세를 확인하고 Reward Code 칸에 CECILIA010을 입력하세요.",
       "label": "YesStyle로 이동",
       "url": "https://ystyle.co/rQYQv",
       "sponsored": true
@@ -108658,8 +107702,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-olive-young-ja",
     "locale": "ja",
     "translationKey": "yesstyle-vs-olive-young",
-    "title": "YesStyleとOlive Youngを比較：日本への配送・送料・関税・返品",
-    "seoTitle": "YesStyleとOlive Young比較：日本の配送・関税・返品",
+    "title": "YesStyleとOlive Youngを比較：送料無料・税金・返品・ポイント",
+    "seoTitle": "YesStyleとOlive Young比較：送料無料・税金・返品",
     "type": "ショップ比較",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -108670,12 +107714,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyleとOlive Young Globalを並べて比較します。ポルトガルを含む23か国で配送しているのはどちらか、送料無料の条件、税金は誰が払うか、返品で何を受け付けるかを、公式ページにもとづいてまとめました。",
+    "description": "YesStyleとOlive Young Globalを並べて比較します。23か国で配送しているのはどちらか、送料無料の条件、税金は誰が払うか、返品で何を受け付けるかを、公式ページにもとづいてまとめました。",
     "metaDescription": "YesStyleとOlive Young、どちらを選ぶ？ 国ごとの送料無料の条件、配送日数、税金、返品を、公式ページにもとづいて比べます。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
     "imageAlt": "YesStyleから届いたAbibのGlazed Jellyリップマスクを持つCecília。YesStyleのロゴと「YesStyle vs Olive Young」のタイトル入り",
@@ -108687,35 +107731,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "お住まいの国によって変わります。両方が配送している国では、送料無料の条件、税金、返品の違いが決め手になります。国別の選び方は「どちらを選ぶか、国別」の章をご覧ください。"
+          "どちらが向いているかは、何を重視するかで変わります。返品は、YesStyleのほうが柔軟です。気が変わった場合の返品とサイズ交換を14日以内の申請で受け付けます。Olive Young Globalが受け付けるのは、不良品か違う商品の場合だけで、申請は30日以内です。送料無料の条件と税金は国によって変わります。「どちらを選ぶか、国別」の章をご覧ください。"
         ]
       },
       {
         "heading": "お住まいの国で配送しているのはどちらか",
         "paragraphs": [
-          "お住まいの国によって変わります。YesStyleは比較対象のうち23か国の配送日数と送料を公表しています。Olive Young Globalは、そのうち10か国の配送日数を公表していますが、アメリカには配送しません（アメリカには専用のショップがあります）。残りの22か国は、国によって比べ方が変わります。",
-          "1行が1か国で、最後の行にその他の国をまとめました。YesStyleの列は、2026年10月13日時点の送料表にもとづきます。Olive Youngの列は、2026年10月21日に読んだ配送ページにもとづきます。ショップが配送日数や送料を公表していないところは、セルにそう書いてあります。"
+          "お住まいの国によって変わります。YesStyleは比較対象のうち23か国の配送日数と送料を公表しています。Olive Young Globalは、そのうち10か国の配送日数を公表していますが、アメリカには配送しません（アメリカには専用のショップがあります）。比べ方は国によって変わります。",
+          "YesStyleのデータは、2026年10月13日時点の送料表にもとづきます。Olive Youngのデータは、2026年10月21日に読んだ配送ページにもとづきます。ショップが配送日数や送料を公表していないところは、図にそう示してあります。"
         ],
-        "comparisonTable": {
-          "headers": [
-            "国",
-            "YesStyle",
-            "Olive Young Global"
-          ],
-          "rows": [
-            [
-              "ポルトガル",
-              "Standard、10〜15営業日。US$60以上で送料無料",
-              "配送あり。US$60以上で送料無料、配送日数は非公表"
-            ],
-            [
-              "その他の国",
-              "配送日数と送料無料の条件は国ごとに異なります。住所を入れてチェックアウトで確認してください",
-              "ほとんどの配送先でUS$60以上で送料無料（それ未満はUS$25）。配送日数はチェックアウトで表示"
-            ]
-          ],
-          "caption": "国ごとの配送日数と送料無料の条件。YesStyleは送料表、Olive Young Globalは配送ページと送料FAQにもとづきます。"
-        },
         "postParagraphs": [
           "Olive Youngが国ごとの配送日数を公表していない場合は、送料FAQの共通ルール（US$60以上で送料無料、それ未満はUS$25。マレーシアとシンガポールはUS$5）が適用され、配送日数は住所を入れたチェックアウトで初めて表示されます。",
           "配送先の選択画面に出てこない国が、グローバルショップには4つあります。スペイン、アルゼンチン、ペルー、アメリカです。アメリカでは、Olive Youngは専用のアメリカのショップで販売しています。Olive Youngの表には「その他の地域」の行（15日、US$60）もありますが、対象国のリストはありません。"
@@ -108732,9 +107756,8 @@ export const reviewsData: unknown[] = [
         "heading": "送料無料と配送日数",
         "paragraphs": [
           "配送日数は発送にかかる日数で、ドアツードアの期間ではありません。YesStyleでは、香港の倉庫から商品が出るまでの時間が配送に加わります。在庫のある商品は1〜3営業日で倉庫を出ます。Olive Youngは配送日数だけを表示し、倉庫から出るまでの時間は含まれません。両店の数字を足し算しないでください。YesStyleは営業日で数え、Olive Youngは「日」とだけ表示し、営業日かどうかは書いていません。",
-          "**ポルトガル。** YesStyleのStandard配送は10〜15営業日で、追跡番号が付きます。在庫のある商品だけの注文は11〜18営業日で届きます。入荷待ち7〜14日の商品が入ると、17〜29営業日に延びます。送料はUS$60以上で無料（ギフト包装は合計に含まれません）、それ未満はUS$5です。Olive Youngはポルトガルに配送しますが、配送表にこの国の行はありません。送料FAQによると、US$60以上で送料無料、それ未満はUS$25で、割引前の商品代金で判定します。配送日数は公表されておらず、注文の準備と梱包に1〜3営業日かかるとだけ書かれています。配送日数を比べるには、各ショップのチェックアウトにポルトガルの住所を入れてください。最低額に届かない場合は、YesStyleの送料のほうがかなり安くなります。",
-          "**そのほかの国。** 両方が配送している国では、Olive Youngのほうが配送日数が短い場合があります。イギリス（4〜5日、YesStyleのPremium Standardは5〜12営業日）、カナダ（5〜7日、YesStyleは7〜14）、オーストラリア（4〜5日、YesStyleは6〜8）、フランスとドイツ（4〜5日、YesStyleは10〜15）、メキシコ（8〜9日、YesStyleは10〜13）です。アジアでは、YesStyleがExpressを使うため、香港（1〜3日、Olive Youngは3〜5）、日本（4〜5日、Olive Youngは6〜7）、シンガポール（3〜5日、Olive Youngは5〜6）でYesStyleのほうが短くなります。比べるときは、必ず各ショップの配送方法を合わせてください。",
-          "**送料無料。** Olive Young Globalは、比較対象のほとんどの国でUS$60以上を送料無料にしています。台湾ではUS$35、日本では¥3,900です。YesStyleは、香港、マレーシア、アメリカ（Standard）、オーストラリア（Premium Standard）でUS$35、ヨーロッパ大陸、スペイン、メキシコ、コロンビアでUS$45、日本、韓国、台湾、シンガポール、イギリス、カナダでUS$50、ポルトガル、チリ、ペルー、アルゼンチンでUS$60が条件です。最低額に届かない場合、YesStyleはほとんどの国でUS$3〜US$8かかります。"
+          "**国別の配送日数。** 両方が配送している国では、Olive Youngのほうが配送日数が短い場合があります。イギリス（4〜5日、YesStyleのPremium Standardは5〜12営業日）、カナダ（5〜7日、YesStyleは7〜14）、オーストラリア（4〜5日、YesStyleは6〜8）、フランスとドイツ（4〜5日、YesStyleは10〜15）、メキシコ（8〜9日、YesStyleは10〜13）です。アジアでは、YesStyleがExpressを使うため、香港（1〜3日、Olive Youngは3〜5）、日本（4〜5日、Olive Youngは6〜7）、シンガポール（3〜5日、Olive Youngは5〜6）でYesStyleのほうが短くなります。比べるときは、必ず各ショップの配送方法を合わせてください。",
+          "**送料無料。** Olive Young Globalは、比較対象のほとんどの国でUS$60以上を送料無料にしています。台湾ではUS$35、日本では¥3,900です。YesStyleは、香港、マレーシア、アメリカ（Standard）、オーストラリア（Premium Standard）でUS$35、ヨーロッパ大陸、スペイン、メキシコ、コロンビアでUS$45、日本、韓国、台湾、シンガポール、イギリス、カナダでUS$50、チリ、ペルー、アルゼンチンでUS$60が条件です。最低額に届かない場合、YesStyleはほとんどの国でUS$3〜US$8かかります。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -108748,8 +107771,8 @@ export const reviewsData: unknown[] = [
         "heading": "税金は誰が払うか",
         "paragraphs": [
           "税金は国と店によって違います。Olive Youngでは、チェックアウトで税金を徴収する国と、配達時に購入者が負担する国があります。",
-          "**Olive Young。** ページは国をグループに分けています。イギリス、ノルウェー、オーストラリア、シンガポールでは、税金は購入時に徴収されます。イギリスは£135を超える注文にVATや手数料がかかることがあり、ノルウェーはVAT 25%、オーストラリアはGST 10%、シンガポールは9%です。EUでは、2026年7月31日以降の注文から、住所を入力するとチェックアウトでその国のVATと、HSコード（関税分類）ごとに€3の輸入関税が計算・徴収されます。送料込みでUS$60未満の注文では、VATは送料にもかかります。ショップは、配達時にそれ以上は請求されないと説明しています。カナダとイスラエルでは配達時の請求になります。カナダはCA$20を超える注文にVATがかかることがあり、イスラエルはUS$75を超えると手数料がかかり、現地の運送会社が手数料を取ることもあります。ポルトガルはEU加盟国なので、Olive Youngの税金はチェックアウトの合計にすでに表示されます。ショップは、税金や輸入手数料を理由とした返品・返金を受け付けません（EU税金FAQ）。",
-          "**YesStyle。** ポルトガルでは、23%のVATが商品価格に含まれ、チェックアウトで送料に加算されます。2026年7月1日から、EUは€150未満の荷物に関税分類ごとに€3を課していて、YesStyleは現時点ではこの手数料を顧客のかわりに負担しているとしています（配送の記事）。配達時に課された通関手数料は、US$1,000未満の注文なら、領収書を30日以内に送るとストアクレジットで返金されます。"
+          "**Olive Young。** ページは国をグループに分けています。イギリス、ノルウェー、オーストラリア、シンガポールでは、税金は購入時に徴収されます。イギリスは£135を超える注文にVATや手数料がかかることがあり、ノルウェーはVAT 25%、オーストラリアはGST 10%、シンガポールは9%です。EUでは、2026年7月31日以降の注文から、住所を入力するとチェックアウトでその国のVATと、HSコード（関税分類）ごとに€3の輸入関税が計算・徴収されます。送料込みでUS$60未満の注文では、VATは送料にもかかります。ショップは、配達時にそれ以上は請求されないと説明しています。カナダとイスラエルでは配達時の請求になります。カナダはCA$20を超える注文にVATがかかることがあり、イスラエルはUS$75を超えると手数料がかかり、現地の運送会社が手数料を取ることもあります。ショップは、税金や輸入手数料を理由とした返品・返金を受け付けません（EU税金FAQ）。",
+          "**YesStyle。** 2026年7月1日から、EUは€150未満の荷物に関税分類ごとに€3を課していて、YesStyleは現時点ではこの手数料を顧客のかわりに負担しているとしています（配送の記事）。配達時に課された通関手数料は、US$1,000未満の注文なら、領収書を30日以内に送るとストアクレジットで返金されます。"
         ]
       },
       {
@@ -108868,7 +107891,7 @@ export const reviewsData: unknown[] = [
           "本土の48州には最大5営業日、アラスカとハワイには最大9営業日。",
           "準州、海外、私書箱（PO Box）、軍の住所には配送しません。",
           "返品は配達から30日以内。気が変わった場合の返品は未開封・未使用のみで、送料と税金は返金から差し引かれます。",
-          "食品とK-POPアルバムは返品不可（final sale）です。交換はありません。",
+          "食品とK-POPアルバムは返品不可です。交換はありません。",
           "オンラインショップでの返品は、アメリカの実店舗では受け付けられず、実店舗での返品もオンラインでは受け付けられません。"
         ],
         "postParagraphs": [
@@ -108885,10 +107908,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "どちらを選ぶか、国別",
         "bullets": [
-          "ポルトガルにお住まいの場合：どちらも配送しています。YesStyleは配送日数を公表し（Standardで10〜15営業日）、Olive Youngは送料のルールだけを公表しています。送料無料はどちらもUS$60以上で、それ未満はYesStyleがUS$5、Olive YoungがUS$25です。",
           "アメリカにお住まいの場合：比較相手はOLIVE YOUNG USで、どちらも送料無料はUS$35からです。",
           "返品を重視する場合：YesStyleは、14日以内に返品番号を申請すれば、気が変わった場合の返品とサイズ交換を受け付けます。Olive Youngは、不良品か違う商品に限り、30日以内に受け付けます。",
-          "税金を重視する場合：YesStyleはポルトガルのVATが価格に含まれていて、Olive YoungはEU向けの注文で、VATと輸入関税をチェックアウトで徴収します。"
+          "税金を重視する場合：Olive YoungはEU向けの注文で、VATと輸入関税をチェックアウトで徴収します。YesStyleは、EUの€3の手数料を現時点では顧客のかわりに負担しているとしています。"
         ],
         "postParagraphs": [
           "YesStyleのオファーを購入前に確認するには、[YesStyleのページ](/ja/coupons/yesstyle)をご覧ください。"
@@ -108898,8 +107920,7 @@ export const reviewsData: unknown[] = [
         "heading": "よくある質問",
         "bullets": [
           "どちらが安いですか？ この記事では、商品の価格は比べていません。同じ商品を購入日に両方のショップで調べ、送料と税金を合わせて比べてください。",
-          "ポルトガルへは、どちらが早く届きますか？ Olive Youngはポルトガルに配送しますが、配送日数は公表していません。YesStyleは配送10〜15営業日を公表していて、そのほかに商品が倉庫を出るまでに1〜3営業日かかります。",
-          "ヨーロッパでは、税金は誰が払いますか？ Olive YoungはEU向けの注文で、VATとHSコードごとの€3をチェックアウトで徴収し、配達時にそれ以上は請求されないとしています。YesStyleは、ポルトガルでは23%のVATが価格に含まれています。詳しくは税金の章をご覧ください。",
+          "ヨーロッパでは、税金は誰が払いますか？ Olive YoungはEU向けの注文で、VATとHSコードごとの€3をチェックアウトで徴収し、配達時にそれ以上は請求されないとしています。YesStyleは、EUの€3の手数料を現時点では顧客のかわりに負担しているとしています。詳しくは税金の章をご覧ください。",
           "開封した商品は返品できますか？ Olive Young Globalでは、不良品かショップが違う商品を送った場合を除き、返品できません。申請は30日以内です。YesStyleは、開封済みの美容商品とサプリメントは返品できません。",
           "Olive Young GlobalとOLIVE YOUNG USは同じショップですか？ いいえ。Olive Young Globalは韓国から対象国のリストに発送し、アメリカには発送しません。OLIVE YOUNG USは別のショップで、送料と返品のルールも別です。",
           "CECILIA010はどこに入れますか？ YesStyleのチェックアウトにある、Reward Code欄に入力します。ショップ自身のクーポンと併用できます。"
@@ -108945,8 +107966,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-olive-young-zh-hant",
     "locale": "zh-hant",
     "translationKey": "yesstyle-vs-olive-young",
-    "title": "YesStyle 還是 Olive Young？台灣與香港的運送、運費、稅費與退貨比較",
-    "seoTitle": "YesStyle 與 Olive Young 比較：台灣、香港運送與退貨",
+    "title": "YesStyle 還是 Olive Young？免運、稅金、退貨與點數比較",
+    "seoTitle": "YesStyle 與 Olive Young 比較：免運、稅金與退貨",
     "type": "購物平台比較",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -108957,12 +107978,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "把 YesStyle 和 Olive Young Global 放在一起比：包括葡萄牙在內的 23 個國家分別寄不寄、滿多少免運、稅金誰來付、兩家各接受哪些退貨，全部依據官方頁面整理。",
+    "description": "把 YesStyle 和 Olive Young Global 放在一起比：23 個國家分別寄不寄、滿多少免運、稅金誰來付、兩家各接受哪些退貨，全部依據官方頁面整理。",
     "metaDescription": "YesStyle 還是 Olive Young？依國家比較免運門檻、送達時間、稅金與退貨，依據官方頁面。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
     "imageAlt": "Cecília 手拿 YesStyle 寄來的 Abib Glazed Jelly 唇膜，畫面帶有 YesStyle 標誌與標題「YesStyle vs Olive Young」",
@@ -108974,38 +107995,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "要看你住在哪個國家。兩家都寄的地方，免運門檻、稅金與退貨規定會決定選擇；各國的選法請見「該選哪一家，看所在國家」這一章。"
+          "要看你更重視什麼。退貨方面，YesStyle 比較有彈性：14 天內申請，接受因改變心意而退貨與更換尺寸；Olive Young Global 只接受瑕疵或寄錯的商品，期限為 30 天。免運門檻與稅金因國家而異，請見「該選哪一家，看所在國家」這一章。"
         ]
       },
       {
         "heading": "你所在的國家，哪一家寄得到",
         "paragraphs": [
-          "要看你住在哪個國家。YesStyle 公布了比較表中 23 個國家的運送時間與運費。Olive Young Global 公布了其中 10 個國家的運送時間，且不寄往美國（美國有它自己的美國站）。其餘 22 個國家，兩家的比較結果因國而異。",
-          "每一列是一個國家，最後一列彙整其餘國家。YesStyle 這一欄依據 2026年10月13日 公布的運費表；Olive Young 這一欄依據 2026年10月21日 查閱的運送頁面。店家沒有公布運送時間或運費的地方，儲存格裡會直接寫明。"
+          "要看你住在哪個國家。YesStyle 公布了比較表中 23 個國家的運送時間與運費。Olive Young Global 公布了其中 10 個國家的運送時間，且不寄往美國（美國有它自己的美國站）。兩家的比較結果因國而異。",
+          "YesStyle 的資料依據2026年10月13日公布的運費表；Olive Young 的資料依據2026年10月21日查閱的運送頁面。店家沒有公布運送時間或運費的地方，圖中會直接標明。"
         ],
-        "comparisonTable": {
-          "headers": [
-            "國家",
-            "YesStyle",
-            "Olive Young Global"
-          ],
-          "rows": [
-            [
-              "葡萄牙",
-              "Standard，10 至 15 個工作天；滿 US$60 免運",
-              "有寄送；滿 US$60 免運，運送時間未公布"
-            ],
-            [
-              "其他國家",
-              "運送時間與免運門檻因國家而異；請在結帳頁填入地址後確認",
-              "多數目的地滿 US$60 免運（未滿為 US$25）；運送時間在結帳頁顯示"
-            ]
-          ],
-          "caption": "各國的運送時間與免運門檻：YesStyle 依據運費表，Olive Young Global 依據運送頁面與運費 FAQ。"
-        },
         "postParagraphs": [
           "Olive Young 沒有公布該國運送時間的話，適用運費 FAQ 的通則（滿 US$60 免運，未滿為 US$25；馬來西亞與新加坡為 US$5），運送時間要填入地址後的結帳頁才會顯示。",
-          "全球站的目的地選單裡沒有四個國家：西班牙、阿根廷、秘魯與美國。在美國，Olive Young 透過自己的美國站銷售。Olive Young 的表格另有一列「其他地區」（15 天，US$60），但沒有列出國家。"
+          "全球站的目的地選單裡沒有四個國家：西班牙、阿根廷、秘魯與美國。在美國，Olive Young 透過自己的美國站銷售。Olive Young 的表格另有一行「其他地區」（15 天，US$60），但沒有列出國家。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-entrega-por-pais.webp",
@@ -109019,9 +108020,8 @@ export const reviewsData: unknown[] = [
         "heading": "免運與運送時間",
         "paragraphs": [
           "運送時間指的是運輸所需的時間，不是從下單到送到家門口的整段時間。在 YesStyle，商品從香港倉庫出貨所需的時間要加進運送時間：有庫存的商品會在 1 至 3 個工作天內出貨。Olive Young 只顯示運送時間，不含出貨時間。不要把兩家的數字相加：YesStyle 以工作天計算，Olive Young 只寫「天」（days），沒有說明是不是工作天。",
-          "**葡萄牙。** YesStyle 的 Standard 運送為 10 至 15 個工作天，可追蹤。只含有庫存商品的訂單，11 至 18 個工作天送達；若有需等待 7 至 14 天到貨的商品，則延長為 17 至 29 個工作天。運費滿 US$60 免費（禮品包裝不計入這個金額），未滿為 US$5。Olive Young 有寄往葡萄牙，但運送表裡沒有這個國家：依運費 FAQ，滿 US$60 免運，未滿為 US$25，以未折扣的商品價格計算。運送時間沒有公布，店家只寫明會在 1 至 3 個工作天內備貨並包裝訂單。想比較運送時間，請在兩家的結帳頁都填入葡萄牙地址。未達最低金額時，YesStyle 的運費便宜許多。",
-          "**其他國家。** 在兩家都寄的國家，Olive Young 有些地方的運送時間比較短：英國（4 至 5 天，YesStyle 的 Premium Standard 為 5 至 12 個工作天）、加拿大（5 至 7 天，YesStyle 為 7 至 14 天）、澳洲（4 至 5 天，YesStyle 為 6 至 8 天）、法國與德國（4 至 5 天，YesStyle 為 10 至 15 天），以及墨西哥（8 至 9 天，YesStyle 為 10 至 13 天）。在亞洲，YesStyle 因為使用 Express，在香港（1 至 3 天，Olive Young 為 3 至 5 天）、日本（4 至 5 天，Olive Young 為 6 至 7 天）與新加坡（3 至 5 天，Olive Young 為 5 至 6 天）比較快。比較時務必對照各家的運送方式。",
-          "**免運。** Olive Young 在比較表中的多數國家滿 US$60 免運；台灣的門檻是 US$35，日本是 ¥3,900。YesStyle 在香港、馬來西亞、美國（Standard）與澳洲（Premium Standard）為 US$35；在歐洲大陸、西班牙、墨西哥與哥倫比亞為 US$45；在日本、韓國、台灣、新加坡、英國與加拿大為 US$50；在葡萄牙、智利、秘魯與阿根廷為 US$60。未達門檻時，YesStyle 在多數國家收 US$3 至 US$8。"
+          "**各國的運送時間。** 在兩家都寄的國家，Olive Young 有些地方的運送時間比較短：英國（4 至 5 天，YesStyle 的 Premium Standard 為 5 至 12 個工作天）、加拿大（5 至 7 天，YesStyle 為 7 至 14 天）、澳洲（4 至 5 天，YesStyle 為 6 至 8 天）、法國與德國（4 至 5 天，YesStyle 為 10 至 15 天），以及墨西哥（8 至 9 天，YesStyle 為 10 至 13 天）。在亞洲，YesStyle 因為使用 Express，在香港（1 至 3 天，Olive Young 為 3 至 5 天）、日本（4 至 5 天，Olive Young 為 6 至 7 天）與新加坡（3 至 5 天，Olive Young 為 5 至 6 天）比較快。比較時務必對照各家的運送方式。",
+          "**免運。** Olive Young 在比較表中的多數國家滿 US$60 免運；台灣的門檻是 US$35，日本是 ¥3,900。YesStyle 在香港、馬來西亞、美國（Standard）與澳洲（Premium Standard）為 US$35；在歐洲大陸、西班牙、墨西哥與哥倫比亞為 US$45；在日本、韓國、台灣、新加坡、英國與加拿大為 US$50；在智利、秘魯與阿根廷為 US$60。未達門檻時，YesStyle 在多數國家收 US$3 至 US$8。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -109035,8 +108035,8 @@ export const reviewsData: unknown[] = [
         "heading": "稅金由誰負擔",
         "paragraphs": [
           "稅金因國家而異，兩家都是如此。Olive Young 在部分國家於結帳時收取稅金，在另一些國家則由顧客在收貨時負擔。",
-          "**Olive Young。** 頁面把國家分成幾組。在英國、挪威、澳洲與新加坡，稅金在購買時收取。英國對超過 £135 的訂單可能收取 VAT 與手續費；挪威 VAT 為 25%，澳洲 GST 為 10%，新加坡為 9%。在歐盟，自 2026年7月31日 起的訂單，你填入地址後，結帳頁會計算並收取該國的 VAT，以及每個 HS 編碼（海關品類）€3 的進口關稅；運費含在內未滿 US$60 的訂單，VAT 也會加在運費上。店家表示收貨時不會再收其他費用。在加拿大與以色列，則在收貨時收取：加拿大對超過 CA$20 的訂單可能收取 VAT，以色列對超過 US$75 的訂單收取手續費，當地的承運商也可能收費。葡萄牙屬於歐盟，所以 Olive Young 的稅金已經顯示在結帳頁的總額裡。店家不接受因稅金或進口費用而退貨或退款（歐盟稅金 FAQ）。",
-          "**YesStyle。** 在葡萄牙，23% 的 VAT 已含在商品價格裡，並在結帳時加到運費上。自 2026年7月1日 起，歐盟對 €150 以下的包裹按每個海關品類收取 €3，YesStyle 表示目前由它替顧客支付這筆費用（運送文章）。收貨時被收取的海關費用，如果訂單低於 US$1,000，在 30 天內寄上收據，會以店內額度退還。"
+          "**Olive Young。** 頁面把國家分成幾組。在英國、挪威、澳洲與新加坡，稅金在購買時收取。英國對超過 £135 的訂單可能收取 VAT 與手續費；挪威 VAT 為 25%，澳洲 GST 為 10%，新加坡為 9%。在歐盟，自2026年7月31日起的訂單，你填入地址後，結帳頁會計算並收取該國的 VAT，以及每個 HS 編碼（海關品類）€3 的進口關稅；運費含在內未滿 US$60 的訂單，VAT 也會加在運費上。店家表示收貨時不會再收其他費用。在加拿大與以色列，則在收貨時收取：加拿大對超過 CA$20 的訂單可能收取 VAT，以色列對超過 US$75 的訂單收取手續費，當地的承運商也可能收費。店家不接受因稅金或進口費用而退貨或退款（歐盟稅金 FAQ）。",
+          "**YesStyle。** 自2026年7月1日起，歐盟對 €150 以下的包裹按每個海關品類收取 €3，YesStyle 表示目前由它替顧客支付這筆費用（運送文章）。收貨時被收取的海關費用，如果訂單低於 US$1,000，在 30 天內寄上收據，會以店內額度退還。"
         ]
       },
       {
@@ -109147,7 +108147,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "美國：Olive Young Global 還是 OLIVE YOUNG US",
         "paragraphs": [
-          "住在美國的人，不在 Olive Young Global 購買。該店的 FAQ 把在美國收貨的人導向 OLIVE YOUNG US（us.oliveyoung.com），它自 2026年5月29日 起是獨立的網站。Global 寄往美國以外的地址。因此，住在美國的人要比較的對象是 OLIVE YOUNG US。",
+          "住在美國的人，不在 Olive Young Global 購買。該店的 FAQ 把在美國收貨的人導向 OLIVE YOUNG US（us.oliveyoung.com），它自2026年5月29日起是獨立的網站。Global 寄往美國以外的地址。因此，住在美國的人要比較的對象是 OLIVE YOUNG US。",
           "OLIVE YOUNG US 的規定："
         ],
         "bullets": [
@@ -109155,7 +108155,7 @@ export const reviewsData: unknown[] = [
           "本土 48 州最多 5 個工作天，阿拉斯加與夏威夷最多 9 個工作天。",
           "不寄往美國海外屬地、國外、郵政信箱（PO Box）與軍事地址。",
           "收貨後 30 天內可退貨。因改變心意退貨只限未拆封、未使用的商品，運費與稅金會從退款中扣除。",
-          "食品與 K-POP 專輯為最終銷售（final sale），不能退。不接受換貨。",
+          "食品與 K-POP 專輯為最終銷售，不能退。不接受換貨。",
           "在線上商店辦理的退貨不適用於美國實體門市，在實體門市辦理的退貨也不適用於線上。"
         ],
         "postParagraphs": [
@@ -109172,10 +108172,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "該選哪一家，看所在國家",
         "bullets": [
-          "住在葡萄牙：兩家都寄。YesStyle 公布了運送時間（Standard 為 10 至 15 個工作天），Olive Young 只公布運費規則。兩家都是滿 US$60 免運；未滿時，YesStyle 收 US$5，Olive Young 收 US$25。",
           "住在美國：比較的對象是 OLIVE YOUNG US，兩家的免運都從 US$35 起算。",
           "重視退貨：YesStyle 接受因改變心意而退貨與更換尺寸，須在 14 天內申請退貨編號；Olive Young 只接受瑕疵或寄錯的商品，期限為 30 天。",
-          "重視稅金：YesStyle 的葡萄牙 VAT 已含在價格裡，Olive Young 則在寄往歐盟的訂單於結帳時收取 VAT 與進口關稅。"
+          "重視稅金：Olive Young 在寄往歐盟的訂單於結帳時收取 VAT 與進口關稅，YesStyle 則表示目前替顧客支付歐盟的 €3 費用。"
         ],
         "postParagraphs": [
           "想在購買前查看 YesStyle 的優惠，請到 [YesStyle 頁面](/zh-hant/coupons/yesstyle)。"
@@ -109185,8 +108184,7 @@ export const reviewsData: unknown[] = [
         "heading": "常見問題",
         "bullets": [
           "哪一家比較便宜？ 本文不比較商品價格。請在購買當天到兩家查同一件商品，把運費與稅金一併算進去再比較。",
-          "寄往葡萄牙，哪一家比較快？ Olive Young 有寄往葡萄牙，但沒有公布運送時間。YesStyle 公布運送為 10 至 15 個工作天，另外商品出貨還需要 1 至 3 天。",
-          "在歐洲，稅金誰來付？ Olive Young 對寄往歐盟的訂單，在結帳時收取 VAT 與每個 HS 編碼 €3，並表示收貨時不會再收其他費用。YesStyle 在葡萄牙，23% 的 VAT 已含在價格裡。詳情請見稅金那一章。",
+          "在歐洲，稅金誰來付？ Olive Young 對寄往歐盟的訂單，在結帳時收取 VAT 與每個 HS 編碼 €3，並表示收貨時不會再收其他費用。YesStyle 表示目前替顧客支付歐盟的 €3 費用。詳情請見稅金那一章。",
           "拆封的商品可以退嗎？ 在 Olive Young Global，除非商品有瑕疵或是店家寄錯，否則不行，期限為 30 天。在 YesStyle，已拆封的美妝品與營養補充品不能退。",
           "Olive Young Global 和 OLIVE YOUNG US 是同一家店嗎？ 不是。Global 從韓國寄往名單上的國家，不寄往美國；OLIVE YOUNG US 是獨立的網站，運費與退貨規則各自不同。",
           "CECILIA010 要填在哪裡？ 填在 YesStyle 結帳頁的 Reward Code 欄位，可與店家自己的優惠券一併使用。"
@@ -109201,7 +108199,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
-    "editorialNote": "我們可能從 YesStyle 獲得佣金。Olive Young 的規則取自它自己的頁面。",
+    "editorialNote": "我們可能從 YesStyle 獲得傭金。Olive Young 的規則取自它自己的頁面。",
     "relatedArticles": [
       {
         "slug": "yesstyle-vs-stylevana-zh-hant",
@@ -109232,8 +108230,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-vs-olive-young-zh-hans",
     "locale": "zh-hans",
     "translationKey": "yesstyle-vs-olive-young",
-    "title": "YesStyle 还是 Olive Young？新加坡与马来西亚的运送、运费、税费与退货比较",
-    "seoTitle": "YesStyle 与 Olive Young 比较：新加坡、马来西亚运送与退货",
+    "title": "YesStyle 还是 Olive Young？免运费、税费、退货与积分比较",
+    "seoTitle": "YesStyle 与 Olive Young 比较：免运费、税费与退货",
     "type": "购物平台比较",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -109244,12 +108242,12 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "把 YesStyle 和 Olive Young Global 放在一起比：包括葡萄牙在内的 23 个国家分别寄不寄、满多少免运费、税费谁来付、两家各接受什么退货，全部依据官方页面整理。",
+    "description": "把 YesStyle 和 Olive Young Global 放在一起比：23 个国家分别寄不寄、满多少免运费、税费谁来付、两家各接受什么退货，全部依据官方页面整理。",
     "metaDescription": "YesStyle 还是 Olive Young？按国家比较免运费门槛、送达时间、税费和退货，依据官方页面。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
     "imageAlt": "Cecília 手拿 YesStyle 寄来的 Abib Glazed Jelly 唇膜，画面带有 YesStyle 标志和标题“YesStyle vs Olive Young”",
@@ -109261,35 +108259,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "要看你住在哪个国家。两家都寄的地方，免运费门槛、税费和退货规定决定选择；各国的选法见“该选哪一家，看所在国家”一章。"
+          "要看你更重视什么。退货方面，YesStyle 更灵活：14 天内申请，接受改变主意的退货和更换尺寸；Olive Young Global 只接受瑕疵或寄错的商品，期限为 30 天。免运费门槛和税费因国家而异，见“该选哪一家，看所在国家”一章。"
         ]
       },
       {
         "heading": "你所在的国家，哪一家寄得到",
         "paragraphs": [
-          "要看你住在哪个国家。YesStyle 公布了对比表中 23 个国家的运送时间和运费。Olive Young Global 公布了其中 10 个国家的运送时间，并且不寄往美国（美国有它自己的美国站）。其余 22 个国家，两家的比较结果因国而异。",
-          "每一行是一个国家，最后一行汇总其余国家。YesStyle 一栏依据 2026年10月13日公布的运费表；Olive Young 一栏依据 2026年10月21日查阅的运送页面。店家没有公布运送时间或运费的地方，格子里会直接写明。"
+          "要看你住在哪个国家。YesStyle 公布了对比表中 23 个国家的运送时间和运费。Olive Young Global 公布了其中 10 个国家的运送时间，并且不寄往美国（美国有它自己的美国站）。两家的比较结果因国而异。",
+          "YesStyle 的数据依据2026年10月13日公布的运费表；Olive Young 的数据依据2026年10月21日查阅的运送页面。店家没有公布运送时间或运费的地方，图中会直接标明。"
         ],
-        "comparisonTable": {
-          "headers": [
-            "国家",
-            "YesStyle",
-            "Olive Young Global"
-          ],
-          "rows": [
-            [
-              "葡萄牙",
-              "Standard，10 至 15 个工作日；满 US$60 免运费",
-              "寄送；满 US$60 免运费，运送时间未公布"
-            ],
-            [
-              "其他国家",
-              "运送时间和免运费门槛因国家而异；请在结账页填入地址后确认",
-              "多数目的地满 US$60 免运费（未满为 US$25）；运送时间在结账页显示"
-            ]
-          ],
-          "caption": "各国运送时间和免运费门槛：YesStyle 依据运费表，Olive Young Global 依据运送页面和运费 FAQ。"
-        },
         "postParagraphs": [
           "Olive Young 没有公布该国运送时间的，适用运费 FAQ 的通用规则（满 US$60 免运费，未满为 US$25；马来西亚和新加坡为 US$5），运送时间要在填入地址后的结账页才会显示。",
           "全球站的目的地选择器里没有四个国家：西班牙、阿根廷、秘鲁和美国。在美国，Olive Young 通过自己的美国站销售。Olive Young 的表里另有一行“其他地区”（15 天，US$60），但没有列出国家。"
@@ -109306,9 +108284,8 @@ export const reviewsData: unknown[] = [
         "heading": "免运费与运送时间",
         "paragraphs": [
           "运送时间指的是运输所需的时间，不是从下单到送到门口的全程。在 YesStyle，商品从香港仓库出库所需的时间要加在运送时间上：有库存的商品在 1 至 3 个工作日内出库。Olive Young 只显示运送时间，不含出库时间。不要把两家的数字相加：YesStyle 以工作日计算，Olive Young 只写“天”（days），没有说明是不是工作日。",
-          "**葡萄牙。** YesStyle 的 Standard 运送为 10 至 15 个工作日，可追踪。只含有库存商品的订单 11 至 18 个工作日送达；若有需等待 7 至 14 天到货的商品，则延长为 17 至 29 个工作日。运费满 US$60 免费（礼品包装不计入这个金额），未满为 US$5。Olive Young 寄往葡萄牙，但运送表里没有这个国家：依运费 FAQ，满 US$60 免运费，未满为 US$25，以未折扣的商品价格计算。运送时间没有公布，店家只写明会在 1 至 3 个工作日内备货并包装订单。想比较运送时间，请在两家的结账页都填入葡萄牙地址。未达最低金额时，YesStyle 的运费便宜得多。",
-          "**其他国家。** 在两家都寄的国家，Olive Young 有些地方的运送时间更短：英国（4 至 5 天，YesStyle 的 Premium Standard 为 5 至 12 个工作日）、加拿大（5 至 7 天，YesStyle 为 7 至 14 天）、澳大利亚（4 至 5 天，YesStyle 为 6 至 8 天）、法国和德国（4 至 5 天，YesStyle 为 10 至 15 天）以及墨西哥（8 至 9 天，YesStyle 为 10 至 13 天）。在亚洲，YesStyle 因为用 Express，在香港（1 至 3 天，Olive Young 为 3 至 5 天）、日本（4 至 5 天，Olive Young 为 6 至 7 天）和新加坡（3 至 5 天，Olive Young 为 5 至 6 天）更快。比较时务必对照各家的运送方式。",
-          "**免运费。** Olive Young 在对比表中的多数国家满 US$60 免运费；台湾的门槛是 US$35，日本是 ¥3,900。YesStyle 在香港、马来西亚、美国（Standard）和澳大利亚（Premium Standard）为 US$35；在欧洲大陆、西班牙、墨西哥和哥伦比亚为 US$45；在日本、韩国、台湾、新加坡、英国和加拿大为 US$50；在葡萄牙、智利、秘鲁和阿根廷为 US$60。未达门槛时，YesStyle 在多数国家收 US$3 至 US$8。"
+          "**各国的运送时间。** 在两家都寄的国家，Olive Young 有些地方的运送时间更短：英国（4 至 5 天，YesStyle 的 Premium Standard 为 5 至 12 个工作日）、加拿大（5 至 7 天，YesStyle 为 7 至 14 天）、澳大利亚（4 至 5 天，YesStyle 为 6 至 8 天）、法国和德国（4 至 5 天，YesStyle 为 10 至 15 天）以及墨西哥（8 至 9 天，YesStyle 为 10 至 13 天）。在亚洲，YesStyle 因为用 Express，在香港（1 至 3 天，Olive Young 为 3 至 5 天）、日本（4 至 5 天，Olive Young 为 6 至 7 天）和新加坡（3 至 5 天，Olive Young 为 5 至 6 天）更快。比较时务必对照各家的运送方式。",
+          "**免运费。** Olive Young 在对比表中的多数国家满 US$60 免运费；台湾的门槛是 US$35，日本是 ¥3,900。YesStyle 在香港、马来西亚、美国（Standard）和澳大利亚（Premium Standard）为 US$35；在欧洲大陆、西班牙、墨西哥和哥伦比亚为 US$45；在日本、韩国、台湾、新加坡、英国和加拿大为 US$50；在智利、秘鲁和阿根廷为 US$60。未达门槛时，YesStyle 在多数国家收 US$3 至 US$8。"
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -109322,8 +108299,8 @@ export const reviewsData: unknown[] = [
         "heading": "税费由谁负担",
         "paragraphs": [
           "税费因国家而异，两家都是如此。Olive Young 在部分国家于结账时收取税费，在另一些国家则由顾客在收货时负担。",
-          "**Olive Young。** 页面把国家分成几组。在英国、挪威、澳大利亚和新加坡，税费在购买时收取。英国对超过 £135 的订单可能收取 VAT 和手续费；挪威 VAT 为 25%，澳大利亚 GST 为 10%，新加坡为 9%。在欧盟，自 2026年7月31日 起的订单，你填写地址后，结账页会计算并收取该国的 VAT，以及每个 HS 编码（海关品类）€3 的进口关税；运费含在内未满 US$60 的订单，VAT 也会加在运费上。店家表示收货时不会再收其他费用。在加拿大和以色列，则在收货时收取：加拿大对超过 CA$20 的订单可能收取 VAT，以色列对超过 US$75 的订单收取手续费，当地的承运商也可能收费。葡萄牙属于欧盟，所以 Olive Young 的税费已经显示在结账页的总额里。店家不接受因税费或进口费用而退货或退款（欧盟税费 FAQ）。",
-          "**YesStyle。** 在葡萄牙，23% 的 VAT 已含在商品价格里，并在结账时加到运费上。自 2026年7月1日 起，欧盟对 €150 以下的包裹按每个海关品类收取 €3，YesStyle 表示目前由它替顾客支付这笔费用（运送文章）。收货时被收取的海关费用，如果订单低于 US$1,000，在 30 天内寄上收据，会以店内额度退还。"
+          "**Olive Young。** 页面把国家分成几组。在英国、挪威、澳大利亚和新加坡，税费在购买时收取。英国对超过 £135 的订单可能收取 VAT 和手续费；挪威 VAT 为 25%，澳大利亚 GST 为 10%，新加坡为 9%。在欧盟，自2026年7月31日起的订单，你填写地址后，结账页会计算并收取该国的 VAT，以及每个 HS 编码（海关品类）€3 的进口关税；运费含在内未满 US$60 的订单，VAT 也会加在运费上。店家表示收货时不会再收其他费用。在加拿大和以色列，则在收货时收取：加拿大对超过 CA$20 的订单可能收取 VAT，以色列对超过 US$75 的订单收取手续费，当地的承运商也可能收费。店家不接受因税费或进口费用而退货或退款（欧盟税费 FAQ）。",
+          "**YesStyle。** 自2026年7月1日起，欧盟对 €150 以下的包裹按每个海关品类收取 €3，YesStyle 表示目前由它替顾客支付这笔费用（运送文章）。收货时被收取的海关费用，如果订单低于 US$1,000，在 30 天内寄上收据，会以店内额度退还。"
         ]
       },
       {
@@ -109434,7 +108411,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "美国：Olive Young Global 还是 OLIVE YOUNG US",
         "paragraphs": [
-          "住在美国的人，不在 Olive Young Global 购买。该店的 FAQ 把在美国收货的人引导到 OLIVE YOUNG US（us.oliveyoung.com），它自 2026年5月29日 起是独立的网站。Global 寄往美国以外的地址。因此，住在美国的人要比较的对象是 OLIVE YOUNG US。",
+          "住在美国的人，不在 Olive Young Global 购买。该店的 FAQ 把在美国收货的人引导到 OLIVE YOUNG US（us.oliveyoung.com），它自2026年5月29日起是独立的网站。Global 寄往美国以外的地址。因此，住在美国的人要比较的对象是 OLIVE YOUNG US。",
           "OLIVE YOUNG US 的规定："
         ],
         "bullets": [
@@ -109442,7 +108419,7 @@ export const reviewsData: unknown[] = [
           "本土 48 州最多 5 个工作日，阿拉斯加和夏威夷最多 9 个工作日。",
           "不寄往美国海外领地、国外、邮政信箱（PO Box）和军事地址。",
           "收货后 30 天内可退货。因改变主意退货只限未拆封、未使用的商品，运费和税费会从退款中扣除。",
-          "食品和 K-POP 专辑为最终销售（final sale），不能退。不接受换货。",
+          "食品和 K-POP 专辑为最终销售，不能退。不接受换货。",
           "在线商店办理的退货不适用于美国实体店，实体店办理的退货也不适用于线上。"
         ],
         "postParagraphs": [
@@ -109459,10 +108436,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "该选哪一家，看所在国家",
         "bullets": [
-          "住在葡萄牙：两家都寄。YesStyle 公布了运送时间（Standard 为 10 至 15 个工作日），Olive Young 只公布运费规则。两家都是满 US$60 免运费；未满时，YesStyle 收 US$5，Olive Young 收 US$25。",
           "住在美国：比较的对象是 OLIVE YOUNG US，两家的免运费都从 US$35 开始。",
           "看重退货：YesStyle 接受因改变主意而退货和更换尺寸，须在 14 天内申请退货编号；Olive Young 只接受瑕疵或寄错的商品，期限为 30 天。",
-          "看重税费：YesStyle 的葡萄牙 VAT 已含在价格里，Olive Young 则在寄往欧盟的订单结账时收取 VAT 和进口关税。"
+          "看重税费：Olive Young 在寄往欧盟的订单结账时收取 VAT 和进口关税，YesStyle 则表示目前替顾客支付欧盟的 €3 费用。"
         ],
         "postParagraphs": [
           "想在购买前查看 YesStyle 的优惠，请到 [YesStyle 页面](/zh-hans/coupons/yesstyle)。"
@@ -109472,8 +108448,7 @@ export const reviewsData: unknown[] = [
         "heading": "常见问题",
         "bullets": [
           "哪一家更便宜？ 本文不比较商品价格。请在购买当天到两家查同一件商品，把运费和税费一并算进去再比较。",
-          "寄往葡萄牙，哪一家更快？ Olive Young 寄往葡萄牙，但没有公布运送时间。YesStyle 公布运送为 10 至 15 个工作日，另外商品出库还需要 1 至 3 天。",
-          "在欧洲，税费谁来付？ Olive Young 对寄往欧盟的订单，在结账时收取 VAT 和每个 HS 编码 €3，并表示收货时不会再收其他费用。YesStyle 在葡萄牙，23% 的 VAT 已含在价格里。详情见税费一章。",
+          "在欧洲，税费谁来付？ Olive Young 对寄往欧盟的订单，在结账时收取 VAT 和每个 HS 编码 €3，并表示收货时不会再收其他费用。YesStyle 表示目前替顾客支付欧盟的 €3 费用。详情见税费一章。",
           "拆封的商品可以退吗？ 在 Olive Young Global，除非商品有瑕疵或是店家寄错，否则不行，期限为 30 天。在 YesStyle，已拆封的美妆产品和营养补充品不能退。",
           "Olive Young Global 和 OLIVE YOUNG US 是同一家店吗？ 不是。Global 从韩国寄往名单上的国家，不寄往美国；OLIVE YOUNG US 是独立的网站，运费和退货规则各自不同。",
           "CECILIA010 填在哪里？ 填在 YesStyle 结账页的 Reward Code 栏位，可与店家自己的优惠券一同使用。"
@@ -109837,12 +108812,12 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw on Hostinger: managed is cheaper in the first period, and the VPS gives you root and Docker. And who each one is for.",
+    "description": "OpenClaw on Hostinger: managed is cheaper in the first period, and the VPS gives you root and Docker, plus who each one suits.",
     "metaDescription": "Managed or VPS for OpenClaw on Hostinger: AI credits, Telegram and WhatsApp, and who looks after the server.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
     "imageAlt": "Red OpenClaw mascot front and center, with the Hostinger logo and cloud and server icons, facing off against each other",
@@ -110043,7 +109018,7 @@ export const reviewsData: unknown[] = [
     "slug": "openclaw-hostinger-gestionado-o-vps",
     "locale": "es",
     "translationKey": "hostinger-openclaw-gerenciado-ou-vps",
-    "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién sirve",
+    "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién es",
     "seoTitle": "OpenClaw en Hostinger: ¿gestionado o VPS? Cómo elegir",
     "type": "Guía de hosting",
     "category": "guias-praticos-utilidade",
@@ -110070,12 +109045,12 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw en Hostinger: el gestionado sale más barato en el primer período, y el VPS da root y Docker. Y para quién sirve cada uno.",
+    "description": "OpenClaw en Hostinger: el gestionado sale más barato en el primer período, y el VPS da root y Docker, y para quién sirve cada uno.",
     "metaDescription": "Gestionado o VPS para OpenClaw en Hostinger: créditos de IA, Telegram y WhatsApp, y quién se encarga del servidor.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
     "imageAlt": "Mascota roja de OpenClaw en primer plano, con el logo de Hostinger y los iconos de nube y de servidor, enfrentados entre sí",
@@ -110221,10 +109196,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Vale la pena el OpenClaw gestionado de Hostinger? Vale para quien quiere el asistente sin ocuparse de un servidor: sale más barato que el VPS en el primer período y se renueva al mismo precio. Quien quiera acceso root y otros programas en el servidor se queda mejor con el VPS.",
+          "¿Vale la pena el OpenClaw gestionado de Hostinger? Vale para quien quiere el asistente sin ocuparse de un servidor: sale más barato que el VPS en el primer período y se renueva al mismo precio. Quien quiera acceso root y otros programas en el servidor estará mejor con el VPS.",
           "¿Necesitas una cuenta en OpenAI o Anthropic? No. En las dos opciones puedes usar los créditos de IA de Hostinger. La cuenta con el proveedor solo hace falta si prefieres tu propia clave.",
           "¿Hay cupón de descuento de Hostinger para OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % de descuento en el primer período.",
-          "¿El plan gestionado sirve para Hermes Agent o Paperclip? Sí. Los tres están en el mismo plan, «Aplicaciones de automatización con IA», al mismo precio. La página de Paperclip no lista créditos de IA, así que lleva tu propia clave."
+          "¿El plan gestionado sirve para Hermes Agent o Paperclip? Sí. Los tres están en el mismo plan, «Aplicaciones de automatización con IA», al mismo precio. La página de Paperclip no incluye créditos de IA, así que lleva tu propia clave."
         ]
       },
       {
@@ -110303,12 +109278,12 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw chez Hostinger : le géré coûte moins cher la première période, et le VPS donne root et Docker. Et à qui convient chacun.",
+    "description": "OpenClaw chez Hostinger : le géré coûte moins cher la première période, et le VPS donne root et Docker, et à qui convient chacun.",
     "metaDescription": "Géré ou VPS pour OpenClaw chez Hostinger : crédits d'IA, Telegram et WhatsApp, et qui s'occupe du serveur.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
     "imageAlt": "Mascotte rouge d'OpenClaw au premier plan, avec le logo de Hostinger et les icônes de cloud et de serveur, face à face",
@@ -110322,7 +109297,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Ce qu'est OpenClaw",
+        "heading": "Qu'est-ce qu'OpenClaw",
         "paragraphs": [
           "OpenClaw est un assistant d'IA open source, sous licence MIT. Il tourne sur un ordinateur ou un serveur, conserve conversations, mémoire et identifiants sur cette machine, et répond par les applications de messagerie que vous utilisez déjà, comme Telegram, WhatsApp, Slack et Discord. Pour réfléchir et répondre, il s'appuie sur des modèles d'IA d'autres entreprises, comme Claude, GPT et Gemini, qui font payer l'usage.",
           "Le projet lui-même ne coûte rien : le README officiel indique qu'il n'a ni formule payante, ni service hébergé, ni jeton. Ce qui coûte de l'argent, c'est le serveur sur lequel il tourne et l'usage des modèles d'IA. Chez Hostinger, il y a deux voies :"
@@ -110352,7 +109327,7 @@ export const reviewsData: unknown[] = [
             [
               "Crédits d'IA",
               "Solde de départ inclus ; l'usage au-delà est facturé à part",
-              "Facultatifs : on peut les acheter au moment de payer"
+              "Facultatifs : vous pouvez les acheter au moment de payer"
             ],
             [
               "Clé d'API personnelle",
@@ -110421,7 +109396,7 @@ export const reviewsData: unknown[] = [
           "La politique de sécurité d'OpenClaw précise qu'il est conçu pour une personne de confiance, et non pour plusieurs personnes qui ne se connaissent pas : quiconque peut parler à l'assistant peut lui faire utiliser ses outils. Cela change le choix dans trois cas :"
         ],
         "bullets": [
-          "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est direct ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
+          "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est simple ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
           "**L'assistant va avoir accès à votre e-mail, à votre banque ou à d'autres comptes :** le projet demande que le serveur n'ait aucun compte personnel connecté. Hostinger suggère une boîte e-mail distincte pour l'assistant.",
           "**Sur le VPS, conservez le jeton de la passerelle** que génère l'installation et ne l'envoyez pas dans une conversation avec l'assistant."
         ]
@@ -110443,7 +109418,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Code SONAR20",
+        "heading": "Code promo SONAR20",
         "paragraphs": [
           "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ],
@@ -110470,7 +109445,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110498,7 +109473,7 @@ export const reviewsData: unknown[] = [
         "Prenez le VPS si vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n."
       ],
       "skipIf": [
-        "Passez votre tour sur le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous incombe.",
+        "Évitez le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous incombe.",
         "Passez votre tour sur le géré si vous avez besoin d'un accès root ou de plus de mémoire et de disque.",
         "Passez votre tour sur les deux si le même assistant doit servir plusieurs personnes : le projet recommande un serveur par personne."
       ]
@@ -110536,12 +109511,12 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw bei Hostinger: Die verwaltete Option ist im ersten Zeitraum günstiger, der VPS bietet Root und Docker. Und für wen welche passt.",
-    "metaDescription": "Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp und wer sich um den Server kümmert.",
+    "description": "OpenClaw bei Hostinger: Die verwaltete Option ist im ersten Zeitraum günstiger, der VPS bietet Root und Docker, und für wen welche passt.",
+    "metaDescription": "Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp, und wer sich um den Server kümmert.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
     "imageAlt": "Rotes OpenClaw-Maskottchen im Vordergrund, mit dem Hostinger-Logo und Symbolen für Cloud und Server, einander gegenübergestellt",
     "imageFit": "contain",
@@ -110584,7 +109559,7 @@ export const reviewsData: unknown[] = [
             [
               "KI-Guthaben",
               "Startguthaben inklusive; Nutzung darüber wird gesondert berechnet",
-              "Optional: im Checkout kaufbar"
+              "Optional: Kauf im Checkout möglich"
             ],
             [
               "Eigener API-Schlüssel",
@@ -110614,7 +109589,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem KI-Anbieter Antworten anfordert. Der Anbieter berechnet die Nutzung direkt Ihnen."
+          "Ein API-Schlüssel ist das Passwort, mit dem OpenClaw bei einem KI-Anbieter Antworten anfordert. Der Anbieter berechnet Ihnen die Nutzung direkt."
         ]
       },
       {
@@ -110623,7 +109598,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "Der Tarif ist nicht alles: Die KI-Nutzung kommt extra. Mit dem Guthaben von Hostinger bringt der verwaltete Tarif ein Startguthaben mit, und was darüber hinausgeht, wird nach Verbrauch berechnet. Der Preis für Aufladungen steht auf keiner öffentlichen Seite, prüfen Sie ihn daher im Dashboard, bevor Sie damit rechnen. Mit eigenem Schlüssel rechnet der Anbieter (OpenAI, Anthropic oder ein anderer) die Nutzung direkt mit Ihnen ab, je nach Modell und Gesprächsmenge.",
-          "Die verwaltete Option hat 30 Tage, um eine Erstattung zu verlangen. Beim VPS gelten die 30 Tage nur, wenn der letzte VPS-Erstattungsantrag mehr als 180 Tage zurückliegt. Ein VPS mit 12 Monaten Laufzeit oder mehr enthält im ersten Jahr eine kostenlose .cloud- oder .tech-Domain."
+          "Für die verwaltete Option gilt eine Frist von 30 Tagen, um eine Erstattung zu verlangen. Beim VPS gelten die 30 Tage nur, wenn der letzte VPS-Erstattungsantrag mehr als 180 Tage zurückliegt. Ein VPS mit 12 Monaten Laufzeit oder mehr enthält im ersten Jahr eine kostenlose .cloud- oder .tech-Domain."
         ]
       },
       {
@@ -110675,9 +109650,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "SONAR20-Gutschein",
+        "heading": "Gutschein SONAR20",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: Das sind **20 % Rabatt auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht in [so nutzen Sie den SONAR20-Gutschein](/de/reviews/hostinger-gutschein-empfehlungscode)."
+          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: Das sind **20 % Rabatt auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ],
         "postParagraphs": [
           "Hostinger hat gerade eine Black-Friday-Aktion, und die Preise ändern sich. Sehen Sie sich [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote) an und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
@@ -110687,7 +109662,7 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen",
         "bullets": [
           "Lohnt sich das verwaltete OpenClaw von Hostinger? Ja, wenn Sie den Assistenten ohne Serverpflege wollen: Es ist im ersten Zeitraum günstiger als der VPS, und die Verlängerung kostet gleich viel. Wer Root-Zugriff und andere Programme auf dem Server braucht, ist mit dem VPS besser bedient.",
-          "Brauche ich ein Konto bei OpenAI oder Anthropic? Nein. Bei beiden Optionen können Sie das KI-Guthaben von Hostinger nutzen. Ein Konto beim Anbieter brauchen Sie nur, wenn Sie lieber Ihren eigenen Schlüssel verwenden.",
+          "Braucht man ein Konto bei OpenAI oder Anthropic? Nein. Bei beiden Optionen können Sie das KI-Guthaben von Hostinger nutzen. Ein Konto beim Anbieter brauchen Sie nur, wenn Sie lieber Ihren eigenen Schlüssel verwenden.",
           "Gibt es einen Hostinger-Gutschein für OpenClaw? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % Rabatt auf den ersten Zeitraum.",
           "Passt der verwaltete Tarif auch für Hermes Agent oder Paperclip? Ja. Alle drei sind im selben Tarif, „AI automation apps“, zum gleichen Preis. Die Paperclip-Seite nennt kein KI-Guthaben, bringen Sie also Ihren eigenen Schlüssel mit."
         ]
@@ -110731,9 +109706,9 @@ export const reviewsData: unknown[] = [
         "Nehmen Sie den VPS, wenn Sie Root-Zugriff wollen und weitere Programme auf demselben Server betreiben, etwa eine Website oder n8n."
       ],
       "skipIf": [
-        "Verzichten Sie auf den VPS, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
-        "Verzichten Sie auf die verwaltete Option, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen.",
-        "Verzichten Sie auf beide, wenn derselbe Assistent mehrere Personen bedienen soll: Das Projekt empfiehlt einen Server pro Person."
+        "Lassen Sie den VPS aus, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
+        "Lassen Sie die verwaltete Option aus, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen.",
+        "Lassen Sie beide aus, wenn derselbe Assistent mehrere Personen bedienen soll: Das Projekt empfiehlt einen Server pro Person."
       ]
     }
   },
@@ -110742,7 +109717,7 @@ export const reviewsData: unknown[] = [
     "slug": "openclaw-hostinger-gestito-o-vps",
     "locale": "it",
     "translationKey": "hostinger-openclaw-gerenciado-ou-vps",
-    "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi serve",
+    "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi è adatto",
     "seoTitle": "OpenClaw Hostinger: gestito o VPS? Come scegliere",
     "type": "Guida all'hosting",
     "category": "guias-praticos-utilidade",
@@ -110769,12 +109744,12 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw su Hostinger: il gestito costa meno nel primo periodo, e il VPS dà root e Docker. E a chi serve ciascuno.",
+    "description": "OpenClaw su Hostinger: il gestito costa meno nel primo periodo, e il VPS dà root e Docker, e a chi serve ciascuno.",
     "metaDescription": "Gestito o VPS per OpenClaw su Hostinger: crediti IA, Telegram e WhatsApp, e chi si occupa del server.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
     "imageAlt": "Mascotte rossa di OpenClaw in primo piano, con il logo di Hostinger e le icone di cloud e server, l'uno contro l'altro",
     "imageFit": "contain",
@@ -110783,7 +109758,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Scegli il gestito se vuoi l'assistente attivo senza occuparti di un server, e il VPS se vuoi accesso root e far girare altri programmi sulla stessa macchina. Entrambe le opzioni accettano i crediti IA di Hostinger o la tua chiave API. Quello che pesa è la manutenzione che sei disposto ad accettare."
+          "Scegli il gestito se vuoi l'assistente attivo senza occuparti di un server, e il VPS se vuoi accesso root e far girare altri programmi sulla stessa macchina. Entrambe le opzioni accettano i crediti IA di Hostinger o la tua chiave API. Quel che conta è la manutenzione che sei disposto ad accettare."
         ]
       },
       {
@@ -110817,7 +109792,7 @@ export const reviewsData: unknown[] = [
             [
               "Crediti IA",
               "Saldo iniziale incluso; l'uso oltre è addebitato a parte",
-              "Facoltativi: si comprano al checkout"
+              "Facoltativi: li puoi comprare al checkout"
             ],
             [
               "Chiave API propria",
@@ -110910,7 +109885,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già esistenti. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, sia con il piano mensile sia con quello annuale, per clienti nuovi o già esistenti. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ],
         "postParagraphs": [
           "Hostinger è in piena campagna di Black Friday, e i prezzi cambiano. Guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) e controlla l'importo nel carrello prima di pagare."
@@ -110919,7 +109894,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Vale la pena OpenClaw gestito di Hostinger? Sì, per chi vuole l'assistente senza gestire un server: costa meno del VPS nel primo periodo e si rinnova allo stesso prezzo. Chi vuole root e altri programmi sul server sta meglio con il VPS.",
+          "Vale la pena l'OpenClaw gestito di Hostinger? Sì, per chi vuole l'assistente senza gestire un server: costa meno del VPS nel primo periodo e si rinnova allo stesso prezzo. Chi vuole root e altri programmi sul server si trova meglio con il VPS.",
           "Serve un account su OpenAI o Anthropic? No. In entrambe le opzioni puoi usare i crediti IA di Hostinger. L'account presso il fornitore serve solo se preferisci la tua chiave.",
           "Esiste un coupon di sconto Hostinger per OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% di sconto sul primo periodo.",
           "Il piano gestito va bene per Hermes Agent o Paperclip? Sì. Tutti e tre sono nello stesso piano, «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave."
@@ -110967,7 +109942,8 @@ export const reviewsData: unknown[] = [
         "Lascia perdere il gestito se ti serve l'accesso root o più memoria e spazio.",
         "Lascia perdere entrambi se lo stesso assistente deve servire più persone: il progetto consiglia un server per persona."
       ]
-    }
+    },
+    "hideFromPortugueseListings": true
   },
   {
     "id": 550,
@@ -111006,9 +109982,9 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
-    "imageAlt": "OpenClaw의 빨간 마스코트가 가운데에 서 있고, 호스팅어 로고와 클라우드, 서버 아이콘이 마주 보고 있는 이미지. 관리형과 VPS의 대결을 나타냄",
+    "imageAlt": "OpenClaw의 빨간 마스코트가 가운데에 서 있고, 호스팅어 로고와 클라우드, 서버 아이콘이 마주 보고 있음",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -111037,7 +110013,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
           "alt": "관리형과 VPS 두 열로 된 표: 설치는 두 방식 모두 호스팅어가 하고, 업데이트와 서버 보안은 관리형에서는 호스팅어가, VPS에서는 본인이 맡으며, AI 크레딧을 쓸지 직접 가진 키를 쓸지는 두 방식 모두 고를 수 있음",
-          "caption": "각 방식에서 누가 무엇을 맡는지. 호스팅어 페이지와 OpenClaw 문서를 바탕으로 정리했습니다."
+          "caption": "각 방식에서 누가 무엇을 맡는지. 출처: 호스팅어 페이지와 OpenClaw 문서."
         },
         "comparisonTable": {
           "headers": [
@@ -111105,7 +110081,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "BotFather에서 봇을 만들고 토큰을 복사하세요. BotFather는 텔레그램의 공식 봇 생성 도구입니다.",
           "토큰을 OpenClaw 설정에 붙여 넣으세요.",
-          "봇에 메시지를 보내세요. 아직 승인되지 않은 사람은 페어링 코드를 받고, 첫 연결은 OpenClaw 패널에서 승인합니다."
+          "봇에 메시지를 보내세요. 아직 승인되지 않은 사람은 페어링 코드를 받고, 첫 연결은 OpenClaw 패널에서 승인하세요."
         ],
         "postParagraphs": [
           "왓츠앱에서 OpenClaw는 WhatsApp Web과 같은 방식으로 \"연결된 기기\"로 들어가며, 로그인은 QR 코드로만 합니다. 문서는 개인 번호와 분리된 번호를 쓰라고 권합니다."
@@ -111129,9 +110105,9 @@ export const reviewsData: unknown[] = [
           "**다음에 해당한다면 관리형을 고르세요:**"
         ],
         "bullets": [
-          "서버를 설치하고 설정하지 않고 어시스턴트를 바로 쓰고 싶다면;",
-          "업데이트, 백업, 보안을 호스팅어가 맡아 주길 원한다면;",
-          "root나 Docker가 무엇인지 모른다면;",
+          "서버를 설치하고 설정하지 않고 어시스턴트를 바로 쓰고 싶다면",
+          "업데이트, 백업, 보안을 호스팅어가 맡아 주길 원한다면",
+          "root나 Docker가 무엇인지 모른다면",
           "OpenClaw를 쓰거나, 같은 플랜에서 Hermes Agent나 Paperclip으로 바꾸고 싶다면."
         ],
         "postParagraphs": [
@@ -111140,9 +110116,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "SONAR20 쿠폰",
+        "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 코드를 넣는 위치는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
+          "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 코드를 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ],
         "postParagraphs": [
           "호스팅어는 블랙프라이데이 행사 중이며 가격이 달라집니다. [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)를 보고, 결제하기 전에 장바구니에서 금액을 확인하세요."
@@ -111167,8 +110143,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다.",
-      "label": "할인 플랜 보기",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "label": "SONAR20 할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -111239,10 +110215,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
-    "imageAlt": "OpenClaw の赤いマスコットが中央に立ち、Hostinger のロゴ、クラウドとサーバーのアイコンが並んでいる。マネージドと VPS の対決を表す画像",
+    "imageAlt": "OpenClaw の赤いマスコットが中央に立ち、Hostinger のロゴと、クラウドとサーバーのアイコンが向かい合っている",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -111271,7 +110247,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
           "alt": "マネージドと VPS の二列の表。インストールは両方で Hostinger が行う。アップデートとサーバーのセキュリティは、マネージドでは Hostinger、VPS ではあなたが担当。AI クレジットか自分のキーかは、どちらでも選べる",
-          "caption": "それぞれの担当範囲。Hostinger のページと OpenClaw のドキュメントをもとにまとめました。"
+          "caption": "それぞれの担当範囲。出典：Hostinger のページと OpenClaw のドキュメント。"
         },
         "comparisonTable": {
           "headers": [
@@ -111339,7 +110315,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Telegram の公式ボット作成ツール BotFather でボットを作り、トークンをコピーします。",
           "トークンを OpenClaw の設定に貼り付けます。",
-          "ボットにメッセージを送ります。まだ承認されていない相手にはペアリングコードが届くので、最初の接続は OpenClaw の管理画面で承認します。"
+          "ボットにメッセージを送ります。まだ承認されていない相手にはペアリングコードが届くので、最初の接続は OpenClaw の管理画面で承認してください。"
         ],
         "postParagraphs": [
           "WhatsApp では、OpenClaw は WhatsApp Web と同じく「リンクされたデバイス」として接続し、ログインは QR コードだけです。ドキュメントは、個人の番号とは別の番号を使うよう勧めています。"
@@ -111374,9 +110350,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "SONAR20 クーポン",
+        "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。更新は検証していません。カートで価格を確認してください。コードの入れ方は [SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
+          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。更新は検証していません。カートで価格を確認してください。コードの入れ方は [クーポン SONAR20の使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
         ],
         "postParagraphs": [
           "Hostinger はブラックフライデーのキャンペーン中で、価格が変わります。[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見て、支払う前にカートで金額を確認してください。"
@@ -111401,8 +110377,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。",
-      "label": "割引プランを見る",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していないので、カートで価格を確認してください。",
+      "label": "SONAR20 の割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -111472,10 +110448,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
-    "imageAlt": "OpenClaw 的紅色吉祥物居中，旁邊是 Hostinger 標誌以及雲端與伺服器圖示，象徵託管與 VPS 的對決",
+    "imageAlt": "OpenClaw 的紅色吉祥物居中，旁邊是 Hostinger 標誌以及雲端與伺服器圖示，兩者相對而立",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -111554,7 +110530,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [],
         "bullets": [],
         "postParagraphs": [
-          "方案不是全部花費，AI 的使用費另計。使用 Hostinger 的額度時，託管版附有起始餘額，超出的部分依用量計費。續儲的價格沒有出現在任何公開頁面上，所以指望它之前，請先在後台確認。如果用自己的金鑰，供應商（OpenAI、Anthropic 或其他）會依模型與對話量直接向你收費。",
+          "方案不是全部花費，AI 的使用費另計。使用 Hostinger 的額度時，託管版附有起始餘額，超出的部分依用量計費。儲值的價格沒有出現在任何公開頁面上，所以指望它之前，請先在後台確認。如果用自己的金鑰，供應商（OpenAI、Anthropic 或其他）會依模型與對話量直接向你收費。",
           "託管版有 30 天可申請退款。VPS 則只有在上一次 VPS 退款申請已超過 180 天時，才適用 30 天。12 個月以上的 VPS 首年可免費獲得一個 .cloud 或 .tech 網域。"
         ]
       },
@@ -111572,7 +110548,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "在 BotFather（Telegram 官方的建立機器人工具）建立機器人，並複製 token。",
           "把 token 貼到 OpenClaw 的設定中。",
-          "傳訊息給機器人。尚未獲准的對象會收到配對碼，你再到 OpenClaw 的後台批准第一次聯絡。"
+          "傳訊息給機器人。尚未獲准的人會收到配對碼，你再到 OpenClaw 的後台批准第一次聯絡。"
         ],
         "postParagraphs": [
           "WhatsApp 的情況是，OpenClaw 會像 WhatsApp Web 一樣，以「已連結的裝置」身分接入，登入只需要 QR code。文件建議使用與個人號碼分開的號碼。"
@@ -111585,7 +110561,7 @@ export const reviewsData: unknown[] = [
           "OpenClaw 的安全政策說，它是為一位可信任的使用者設計的，而不是給互不認識的多人共用，因為能跟助理說話的人，就能讓它使用其工具。以下三種情況，選擇會不一樣："
         ],
         "bullets": [
-          "**多人使用**（家人或團隊）：專案建議一人一台伺服器。VPS 做起來很直接；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。",
+          "**多人使用**（家人或團隊）：專案建議一人一台伺服器。VPS 上很容易做到；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。",
           "**助理會存取你的電子郵件、銀行或其他帳戶：** 專案要求伺服器上不要登入個人帳戶。Hostinger 建議為助理另外準備一個電子郵件信箱。",
           "**使用 VPS 時，請妥善保管閘道 token。** 它在安裝時產生，不要在與助理的對話中傳送。"
         ]
@@ -111634,7 +110610,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車輸入 SONAR20，或從本文連結進入：首期享 20%，月付或年付都可以。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續訂，請在購物車確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111664,7 +110640,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "如果你不知道 root 或 Docker 是什麼，就別選 VPS：更新與保護系統都要由你來做。",
         "如果你需要 root 存取，或更多記憶體與硬碟，就別選託管。",
-        "如果同一個助理要服務多個人，就別選：專案建議一人一台伺服器。"
+        "如果同一個助理要服務多個人，兩者都別選：專案建議一人一台伺服器。"
       ]
     }
   },
@@ -111705,10 +110681,10 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
-    "imageAlt": "OpenClaw 的红色吉祥物居中，旁边是 Hostinger 标志以及云和服务器图标，象征托管与 VPS 的对决",
+    "imageAlt": "OpenClaw 的红色吉祥物居中，旁边是 Hostinger 标志以及云和服务器图标，两者相对而立",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
@@ -111787,7 +110763,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [],
         "bullets": [],
         "postParagraphs": [
-          "套餐不是全部花费，AI 的使用费另算。使用 Hostinger 的额度时，托管版带有初始余额，超出的部分按用量计费。续充的价格没有出现在任何公开页面上，所以指望它之前，请先在后台确认。如果用自己的密钥，服务商（OpenAI、Anthropic 或其他）会根据模型和对话量直接向你收费。",
+          "套餐不是全部花费，AI 的使用费另算。使用 Hostinger 的额度时，托管版带有初始余额，超出的部分按用量计费。充值的价格没有出现在任何公开页面上，所以指望它之前，请先在后台确认。如果用自己的密钥，服务商（OpenAI、Anthropic 或其他）会根据模型和对话量直接向你收费。",
           "托管版有 30 天可申请退款。VPS 则只有在上一次 VPS 退款申请已超过 180 天时，才适用 30 天。12 个月及以上的 VPS 首年可免费获得一个 .cloud 或 .tech 域名。"
         ]
       },
@@ -111840,9 +110816,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "SONAR20 优惠码",
+        "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期享 20% 折扣**，月付或年付都可以，新老客户都适用。我们没有测试续费，请在购物车确认价格。输入位置见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期享 20% 折扣**，月付或年付都可以，新老客户都适用。我们没有测试续费，请在购物车确认价格。输入位置见[如何使用 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ],
         "postParagraphs": [
           "Hostinger 正在进行黑五活动，价格会变动。请看[Hostinger 黑五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，付款前在购物车确认金额。"
@@ -111867,14 +110843,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，对你没有额外费用。团队中没有人使用 OpenClaw。",
+    "editorialNote": "使用 优惠码 SONAR20或通过链接购买，可能为 Bruno 带来佣金，对你没有额外费用。团队中没有人使用 OpenClaw。",
     "relatedArticles": [
       {
         "slug": "hostinger-referral-code-zh-hans",
@@ -111897,7 +110873,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "如果你不知道 root 或 Docker 是什么，就别选 VPS：更新和保护系统都要由你来做。",
         "如果你需要 root 权限，或更多内存和硬盘，就别选托管。",
-        "如果同一个助理要服务多个人，就别选：项目建议每人一台服务器。"
+        "如果同一个助理要服务多个人，两者都别选：项目建议每人一台服务器。"
       ]
     }
   },
@@ -111938,7 +110914,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
     "imageAlt": "赤い OpenClaw のマスコットと Hostinger のロゴ、タイトル「OpenClaw + VPS KVM」、サーバーとプランのアイコン",
@@ -111946,7 +110922,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "結論",
+        "heading": "クイックアンサー",
         "paragraphs": [
           "AI モデルをプロバイダー側に置く場合（API キーでも Hostinger のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、ドキュメントの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。サーバーを扱いたくない人は、下で紹介するマネージドを見てください。"
         ]
@@ -112144,7 +111120,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "執筆者について",
+        "heading": "この記事を書いた人",
         "paragraphs": [
           "Em Casa com Cecília は Hostinger で Node.js Web App として動いていて、Bruno は 2024 年からのお客様で、ホスティングと VPS KVM 2 を使っています。チームに OpenClaw を使っている人はいません。この記事は、Hostinger、Oracle、OpenClaw の公式ドキュメントが言っていることをまとめたものです。"
         ]
@@ -112153,7 +111129,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していません。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していないので、カートで価格を確かめてください。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112224,14 +111200,14 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
     "imageAlt": "빨간 OpenClaw 마스코트와 호스팅어 로고, 'OpenClaw + VPS KVM' 제목, 서버와 플랜 아이콘",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [
       {
-        "heading": "빠른 답",
+        "heading": "빠른 답변",
         "paragraphs": [
           "AI 모델을 제공업체에 두면(API 키든 호스팅어 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 문서의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. 서버를 직접 다루고 싶지 않다면 아래의 관리형을 보세요."
         ]
@@ -112337,7 +111313,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8(32 GB).** 더 큰 로컬 모델을 쓸 때만 의미가 있습니다. 큰 레시피마다 메모리가 얼마나 필요한지는 문서에 없습니다."
         ],
         "postParagraphs": [
-          "SONAR20 코드는 첫 번째 기간에 20%를 할인해 줍니다. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko) 결제 전에 장바구니에서 금액을 확인하세요. 호스팅어는 블랙프라이데이 중이라 가격이 바뀝니다: [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)."
+          "SONAR20 코드는 첫 번째 기간에 20%를 할인해 줍니다. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko). 결제 전에 장바구니에서 금액을 확인하세요. 호스팅어는 블랙프라이데이 중이라 가격이 바뀝니다: [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)."
         ]
       },
       {
@@ -112429,7 +111405,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "글쓴이",
+        "heading": "작성자 소개",
         "paragraphs": [
           "Em Casa com Cecília는 호스팅어에서 Node.js Web App으로 운영되고, Bruno는 2024년부터 호스팅어 고객으로 호스팅과 VPS KVM 2를 쓰고 있습니다. 팀에서 OpenClaw를 쓰는 사람은 없습니다. 이 글은 호스팅어, Oracle, OpenClaw 공식 문서가 말하는 내용을 모은 것입니다."
         ]
@@ -112438,7 +111414,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다.",
+      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 링크로 들어가세요. 첫 기간 20%입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
       "label": "할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112510,7 +111486,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
     "imageAlt": "红色的 OpenClaw 吉祥物，配有 Hostinger 标志、标题“OpenClaw + VPS KVM”，以及服务器和套餐图标",
@@ -112564,7 +111540,7 @@ export const reviewsData: unknown[] = [
             [
               "本地模型，更大的配方",
               "页面只说需要更多内存，没有给数字。",
-              "没有官方的算法。请按你想运行的模型大小来选。"
+              "没有官方的计算。请按你想运行的模型大小来选。"
             ]
           ]
         },
@@ -112716,7 +111692,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "作者",
+        "heading": "谁在写这篇文章",
         "paragraphs": [
           "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App；Bruno 从 2024 年起就是 Hostinger 的客户，使用虚拟主机和一台 VPS KVM 2。团队里没有人在用 OpenClaw：本文汇总的是 Hostinger、Oracle 和 OpenClaw 官方文档所说的内容。"
         ]
@@ -112796,7 +111772,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
     "imageAlt": "紅色的 OpenClaw 吉祥物，搭配 Hostinger 標誌、標題「OpenClaw + VPS KVM」，以及伺服器和方案圖示",
@@ -112850,7 +111826,7 @@ export const reviewsData: unknown[] = [
             [
               "本機模型，更大的配方",
               "頁面只說需要更多記憶體，沒有給數字。",
-              "沒有官方的算法。請依你想執行的模型大小來選。"
+              "沒有官方的計算。請依你想執行的模型大小來選。"
             ]
           ]
         },
@@ -112866,7 +111842,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
-          "alt": "三列的圖表：模型在伺服器之外（API 金鑰或額度）選 KVM 1；小型本機模型選 KVM 2（在邊緣）或 KVM 4；上下文更大的本機模型或還要執行其他程式，選 KVM 4 或 KVM 8",
+          "alt": "三行的圖表：模型在伺服器之外（API 金鑰或額度）選 KVM 1；小型本機模型選 KVM 2（在邊緣）或 KVM 4；上下文更大的本機模型或還要執行其他程式，選 KVM 4 或 KVM 8",
           "caption": "依據 OpenClaw 的文件；我們沒有測過效能。"
         },
         "comparisonTable": {
@@ -112985,7 +111961,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "優惠碼 SONAR20",
+        "heading": "SONAR20 優惠碼",
         "paragraphs": [],
         "postParagraphs": [
           "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。我們沒有測試續約；請在購物車裡確認價格。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
@@ -113002,7 +111978,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "作者",
+        "heading": "誰在寫這篇文章",
         "paragraphs": [
           "Em Casa com Cecília 執行在 Hostinger 上，是一個 Node.js Web App；Bruno 從 2024 年起就是 Hostinger 的客戶，使用虛擬主機和一台 VPS KVM 2。團隊裡沒有人在用 OpenClaw：本文彙整的是 Hostinger、Oracle 和 OpenClaw 官方文件所說的內容。"
         ]
@@ -113011,7 +111987,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車輸入 SONAR20，或從本文連結進入：首個計費週期享 20%，月付或年付都可以。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。我們沒有測試續約，請在購物車裡確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113082,7 +112058,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
     "imageAlt": "Red OpenClaw mascot front and center, with the Hostinger logo, the title OpenClaw + VPS KVM and server and plan icons",
@@ -113102,7 +112078,7 @@ export const reviewsData: unknown[] = [
           "The official installation and local-model pages say the following:"
         ],
         "bullets": [
-          "**Node version.** OpenClaw requires Node 24.16 or newer, or Node 26.1 or newer. Node is the program that runs OpenClaw, and installing through npm requires that version. The page recommends Node 26. If Node is not installed, the official installer brings the version (Node 26 on macOS and Node 24 LTS on Linux).",
+          "**Node version.** OpenClaw requires Node 24.16 or newer, or Node 26.1 or newer. Node is the program that runs OpenClaw, and installing through npm requires that version. The page recommends Node 26. If Node is not installed, the official installer includes the version (Node 26 on macOS and Node 24 LTS on Linux).",
           "**Local model.** For the smallest recipe the documentation itself offers, the floor is 8 GiB of host memory, with a 64K context. The page says these floors \"do not guarantee the model fits or runs at speed\".",
           "**Hostinger VPS.** Hostinger installs OpenClaw on the VPS with Docker, a program that runs each application isolated in a container. A VPS is a rented virtual server; with root access, you have full control of it."
         ],
@@ -113142,7 +112118,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Two details on the local model. Context is the amount of text (tokens, pieces of words) the model reads at once. When less than 20% of the context window is left, OpenClaw warns, with a floor of 8 thousand tokens; below 10%, it blocks the answer, with a floor of 4 thousand tokens.",
-          "None of the KVM plan pages we read lists a graphics card (GPU). The documentation also does not say how fast a local model would run without one."
+          "None of the KVM plan pages checked lists a graphics card (GPU). The documentation also does not say how fast a local model would run without one."
         ]
       },
       {
@@ -113368,7 +112344,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
     "imageAlt": "Rotes OpenClaw-Maskottchen im Vordergrund, mit dem Hostinger-Logo, dem Titel OpenClaw + VPS KVM und Symbolen für Server und Tarife",
     "imageFit": "contain",
@@ -113476,7 +112452,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**KVM 1 (4 GB).** Ausgangspunkt für das Szenario mit API-Schlüssel oder Guthaben. Für ein lokales Modell liegt er unter der offiziellen Untergrenze.",
-          "**KVM 2 (8 GB).** Mit API-Schlüssel gibt es reichlich Spielraum. Mit lokalem Modell liegt er an der Grenze der Untergrenze, ohne Reserve für das System.",
+          "**KVM 2 (8 GB).** Mit API-Schlüssel gibt es reichlich Spielraum. Mit lokalem Modell liegt er genau an der Untergrenze, ohne Reserve für das System.",
           "**KVM 4 (16 GB).** Der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. Die Dokumentation sagt nicht, wie viel er mit einem lokalen Modell leistet.",
           "**KVM 8 (32 GB).** Sinnvoll nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
         ],
@@ -113582,7 +112558,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung nicht getestet: Prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113654,7 +112630,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
     "imageAlt": "Mascotte rouge d'OpenClaw en vedette, avec le logo Hostinger, le titre OpenClaw + VPS KVM et des icônes de serveur et de forfaits",
@@ -113869,7 +112845,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113897,9 +112873,9 @@ export const reviewsData: unknown[] = [
         "Prenez le KVM 4, avec 16 Go, si vous allez faire tourner un modèle local : c'est le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB."
       ],
       "skipIf": [
-        "Évitez le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher officiel.",
-        "Évitez le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger installe et met à jour l'assistant.",
-        "Évitez le KVM 8 si vous n'allez pas utiliser un modèle local plus grand."
+        "Passez votre tour sur le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher officiel.",
+        "Passez votre tour sur le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger installe et met à jour l'assistant.",
+        "Passez votre tour sur le KVM 8 si vous n'allez pas utiliser un modèle local plus grand."
       ]
     }
   },
@@ -113940,7 +112916,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
     "imageAlt": "Mascota roja de OpenClaw en primer plano, con el logo de Hostinger, el título OpenClaw + VPS KVM e iconos de servidor y de planes",
@@ -114000,7 +112976,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Dos detalles del modelo local. El contexto es la cantidad de texto (tokens, trozos de palabras) que el modelo lee de una vez. Cuando queda menos del 20% de la ventana de contexto, OpenClaw avisa, con un piso de 8 mil tokens; por debajo del 10%, bloquea la respuesta, con un piso de 4 mil tokens.",
-          "En las páginas de planes KVM que leímos, ninguna lista tarjeta gráfica (GPU). La documentación tampoco dice qué velocidad tendría un modelo local sin ella."
+          "En las páginas de planes KVM consultadas, ninguna lista tarjeta gráfica (GPU). La documentación tampoco dice qué velocidad tendría un modelo local sin ella."
         ]
       },
       {
@@ -114528,7 +113504,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
     "imageAlt": "Mascotte rossa di OpenClaw in primo piano, con il logo Hostinger, il titolo OpenClaw + VPS KVM e icone di server e di piani",
     "imageFit": "contain",
@@ -114587,7 +113563,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Due dettagli del modello locale. Il contesto è la quantità di testo (token, pezzi di parole) che il modello legge in una volta. Quando resta meno del 20% della finestra di contesto, OpenClaw avvisa, con un minimo di 8 mila token; sotto il 10% blocca la risposta, con un minimo di 4 mila token.",
-          "Nelle pagine dei piani KVM che abbiamo letto, nessuna elenca una scheda video (GPU). La documentazione non dice nemmeno che velocità avrebbe un modello locale senza."
+          "Nelle pagine dei piani KVM consultate, nessuna elenca una scheda video (GPU). La documentazione non dice nemmeno che velocità avrebbe un modello locale senza."
         ]
       },
       {
@@ -114636,7 +113612,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**KVM 1 (4 GB).** Punto di partenza per lo scenario con chiave API o crediti. Per un modello locale, è sotto il minimo ufficiale.",
-          "**KVM 2 (8 GB).** Con chiave API, c'è margine di sobra. Con un modello locale, è al limite del minimo, senza margine per il sistema.",
+          "**KVM 2 (8 GB).** Con chiave API, c'è ampio margine. Con un modello locale, è al limite del minimo, senza margine per il sistema.",
           "**KVM 4 (16 GB).** È il primo piano con margine sopra il minimo ufficiale di 8 GiB. La documentazione non dice quanto renda con un modello locale.",
           "**KVM 8 (32 GB).** Ha senso solo con un modello locale più grande. La documentazione non dice quanta memoria richieda ogni ricetta grande."
         ],
@@ -114771,9 +113747,9 @@ export const reviewsData: unknown[] = [
         "Prendi il KVM 4, con 16 GB, se farai girare un modello locale: è il primo piano con margine sopra il minimo ufficiale di 8 GiB."
       ],
       "skipIf": [
-        "Lascia stare il KVM 1 se farai girare un modello locale: 4 GB è sotto il minimo ufficiale.",
-        "Lascia stare il VPS se non vuoi occuparti di un server: guarda il gestito, in cui Hostinger installa e aggiorna l'assistente.",
-        "Lascia stare il KVM 8 se non userai un modello locale più grande."
+        "Lascia perdere il KVM 1 se farai girare un modello locale: 4 GB è sotto il minimo ufficiale.",
+        "Lascia perdere il VPS se non vuoi occuparti di un server: guarda il gestito, in cui Hostinger installa e aggiorna l'assistente.",
+        "Lascia perdere il KVM 8 se non userai un modello locale più grande."
       ]
     }
   },
@@ -114814,7 +113790,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
     "imageAlt": "Mascotte rossa di OpenClaw di fronte all'icona di Hermes Agent, con il logo di Hostinger e il titolo OpenClaw vs Hermes Agent",
     "imageFit": "contain",
@@ -114974,7 +113950,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Gestito (app di automazione con IA)",
+              "Gestito (App di automazione con IA)",
               "Hostinger installa, aggiorna e mantiene"
             ],
             [
@@ -115100,7 +114076,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
     "imageAlt": "Mascota roja de OpenClaw frente al icono de Hermes Agent, con el logotipo de Hostinger y el título OpenClaw vs Hermes Agent",
@@ -115118,7 +114094,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Los dos son asistentes de IA de código abierto, con licencia MIT, que instalas y con los que hablas por Telegram, WhatsApp u otra aplicación de mensajería. La licencia no cuesta nada; lo que los distingue es la interfaz, la memoria y quién mantiene el proyecto.",
           "**OpenClaw** lo mantiene la OpenClaw Foundation, una organización sin ánimo de lucro. El README oficial dice que el estado, la memoria y las credenciales se quedan en el equipo donde se ejecuta, sin plan de pago, servicio alojado ni token. Tiene interfaz web (Control UI), línea de comandos y aplicaciones nativas para macOS, iOS, Android, Windows y Linux. En Hostinger se puede contratar gestionado o en VPS, como muestra la [guía de gestionado o VPS para OpenClaw](/es/reviews/openclaw-hostinger-gestionado-o-vps).",
-          "**Hermes Agent** lo desarrolla Nous Research, una empresa que crea modelos de IA. Su rasgo distintivo es el ciclo de aprendizaje: el agente organiza su propia memoria entre sesiones, crea y mejora sus propias habilidades, busca en las conversaciones antiguas y modela al usuario con Honcho. Tiene terminal completa y Hermes Desktop, una aplicación de escritorio con instalador para Windows y macOS. La página del proyecto no indica el precio del software. Menciona Nous Portal, una suscripción con herramientas como búsqueda web, navegación y generación de imágenes, sin precio informado. Nous Portal es una forma de pagar el modelo, no la única."
+          "**Hermes Agent** lo desarrolla Nous Research, una empresa que crea modelos de IA. Su rasgo distintivo es el ciclo de aprendizaje: el agente organiza su propia memoria entre sesiones, crea y mejora sus propias habilidades, busca en las conversaciones antiguas y modela al usuario con Honcho. Tiene un terminal completo y Hermes Desktop, una aplicación de escritorio con instalador para Windows y macOS. La página del proyecto no indica el precio del software. Menciona Nous Portal, una suscripción con herramientas como búsqueda web, navegación y generación de imágenes, sin precio indicado. Nous Portal es una forma de pagar el modelo, no la única."
         ]
       },
       {
@@ -115179,7 +114155,7 @@ export const reviewsData: unknown[] = [
             [
               "Interfaz",
               "Control UI (web), línea de comandos y TUI, y aplicaciones nativas para macOS, iOS, Android, Windows y Linux",
-              "Terminal (TUI) y Hermes Desktop, con instalador para Windows y macOS; interfaz web no informada",
+              "Terminal (TUI) y Hermes Desktop, con instalador para Windows y macOS; interfaz web no indicada",
               "README de OpenClaw; documentación de Hermes Agent"
             ]
           ]
@@ -115196,7 +114172,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Servidor.** Puede ser tu ordenador, encendido todo el tiempo, o un VPS, un servidor virtual alquilado. El VPS da acceso root, el control total de la máquina, pero eres tú quien actualiza y protege el sistema. Cuanta más memoria RAM, más programas funcionan a la vez sin bloquearse.",
           "**Plan gestionado.** Hostinger instala, actualiza y mantiene el asistente. OpenClaw y Hermes Agent están en el mismo plan, «Aplicaciones de automatización con IA».",
-          "**Modelo de IA.** El asistente pide las respuestas a un modelo, como Claude, GPT o Gemini, que cobra por el uso. Hay dos formas de pagar: una clave de API propia, con la que el proveedor te cobra directamente, o créditos de IA comprados en Hostinger. El gestionado de OpenClaw y el de Hermes Agent traen saldo inicial; la recarga no aparece en una página pública, así que consúltala en el panel. En Nous Portal, el precio no se informa en la página del proyecto."
+          "**Modelo de IA.** El asistente pide las respuestas a un modelo, como Claude, GPT o Gemini, que cobra por el uso. Hay dos formas de pagar: una clave de API propia, con la que el proveedor te cobra directamente, o créditos de IA comprados en Hostinger. El gestionado de OpenClaw y el de Hermes Agent traen saldo inicial; la recarga no aparece en una página pública, así que consúltala en el panel. En Nous Portal, el precio no se indica en la página del proyecto."
         ],
         "postParagraphs": [
           "El coste mensual del uso del modelo no figura en las fuentes: depende del modelo elegido y del número de conversaciones. Por eso esta guía no incluye una estimación del total mensual."
@@ -115316,7 +114292,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer periodo. No probamos la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115355,7 +114331,7 @@ export const reviewsData: unknown[] = [
     "locale": "de",
     "translationKey": "hostinger-openclaw-ou-hermes-agent",
     "title": "OpenClaw oder Hermes Agent: welcher passt und wie Sie jeden bei Hostinger betreiben",
-    "seoTitle": "OpenClaw oder Hermes Agent: welcher passt 2026?",
+    "seoTitle": "OpenClaw oder Hermes Agent: welcher passt im Jahr 2026?",
     "type": "Hosting-Ratgeber",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -115386,7 +114362,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
     "imageAlt": "Rotes OpenClaw-Maskottchen vor dem Hermes-Agent-Symbol, mit dem Hostinger-Logo und dem Titel OpenClaw vs Hermes Agent",
     "imageFit": "contain",
@@ -115403,7 +114379,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Beide sind quelloffene KI-Assistenten unter MIT-Lizenz, die Sie installieren und mit denen Sie über Telegram, WhatsApp oder eine andere Messaging-App sprechen. Die Lizenz kostet nichts; unterscheiden tun sie sich in Oberfläche, Gedächtnis und darin, wer das Projekt pflegt.",
           "**OpenClaw** wird von der OpenClaw Foundation gepflegt, einer gemeinnützigen Organisation. Laut dem offiziellen README bleiben Zustand, Gedächtnis und Zugangsdaten auf dem Gerät, auf dem es läuft, ohne kostenpflichtigen Tarif, gehosteten Dienst oder Token. Es hat eine Weboberfläche (Control UI), eine Befehlszeile und native Apps für macOS, iOS, Android, Windows und Linux. Bei Hostinger lässt es sich verwaltet oder auf einem VPS buchen, wie der [Leitfaden zu verwaltet oder VPS für OpenClaw](/de/reviews/openclaw-hostinger-verwaltet-oder-vps) zeigt.",
-          "**Hermes Agent** stammt von Nous Research, einem Unternehmen, das KI-Modelle entwickelt. Sein Merkmal ist der Lernzyklus: Der Agent organisiert sein Gedächtnis zwischen den Sitzungen selbst, erstellt und verbessert eigene Fähigkeiten, durchsucht frühere Gespräche und erstellt mit Honcho ein Modell des Nutzers. Es hat ein vollständiges Terminal und Hermes Desktop, eine Desktop-App mit Installer für Windows und macOS. Die Projektseite nennt keinen Preis für die Software. Sie erwähnt Nous Portal, ein Abonnement mit Werkzeugen wie Websuche, Browsen und Bilderzeugung, ohne Preisangabe. Nous Portal ist eine Möglichkeit, das Modell zu bezahlen, nicht die einzige."
+          "**Hermes Agent** stammt von Nous Research, einem Unternehmen, das KI-Modelle entwickelt. Sein Merkmal ist der Lernzyklus: Der Agent organisiert sein Gedächtnis zwischen den Sitzungen selbst, erstellt und verbessert eigene Fähigkeiten, durchsucht frühere Gespräche und erstellt mit Honcho ein Modell des Nutzers. Er hat ein vollständiges Terminal und Hermes Desktop, eine Desktop-App mit Installer für Windows und macOS. Die Projektseite nennt keinen Preis für die Software. Sie erwähnt Nous Portal, ein Abonnement mit Werkzeugen wie Websuche, Browsen und Bilderzeugung, ohne Preisangabe. Nous Portal ist eine Möglichkeit, das Modell zu bezahlen, nicht die einzige."
         ]
       },
       {
@@ -115535,7 +114511,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Wo Sie bei Hostinger betreiben",
+        "heading": "Wo Sie beide bei Hostinger betreiben",
         "paragraphs": [
           "Der verwaltete Tarif passt zu beiden. Die Tabelle zeigt den Server jeder Option; die Preise ändern sich mit der Black-Friday-Aktion, prüfen Sie sie also im Warenkorb."
         ],
@@ -115568,7 +114544,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Beim verwalteten Tarif enthält der Tarif ein Startguthaben an KI-Credits, und was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung und Sicherheit des Servers liegen bei Ihnen.",
+          "Der verwaltete Tarif enthält ein Startguthaben an KI-Credits, und was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung und Sicherheit des Servers liegen bei Ihnen.",
           "Beim verwalteten Tarif haben Sie 30 Tage, um eine Erstattung zu beantragen. Beim VPS gelten die 30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde.",
           "Wenn Sie die Anforderungen durchrechnen wollen, bevor Sie den Tarif wählen, lesen Sie den [besten VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw). Zur Aktion sehen Sie [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote)."
         ]
@@ -115601,7 +114577,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
       "label": "Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115672,7 +114648,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
     "imageAlt": "Mascotte rouge d'OpenClaw face à l'icône de Hermes Agent, avec le logo d'Hostinger et le titre OpenClaw vs Hermes Agent",
@@ -115686,7 +114662,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Ce qu'est chacun",
+        "heading": "Ce que chacun est",
         "paragraphs": [
           "Les deux sont des assistants d'IA open source, sous licence MIT, que vous installez et avec lesquels vous discutez par Telegram, WhatsApp ou une autre messagerie. La licence ne coûte rien ; ce qui les distingue, c'est l'interface, la mémoire et qui maintient le projet.",
           "**OpenClaw** est maintenu par l'OpenClaw Foundation, une organisation à but non lucratif. Le README officiel indique que l'état, la mémoire et les identifiants restent sur l'appareil où il tourne, sans offre payante, service hébergé ni jeton. Il dispose d'une interface web (Control UI), d'une ligne de commande et d'applications natives pour macOS, iOS, Android, Windows et Linux. Chez Hostinger, on peut le prendre en offre gérée ou sur un VPS, comme le montre le [guide géré ou VPS pour OpenClaw](/fr/reviews/openclaw-hostinger-gere-ou-vps).",
@@ -115888,7 +114864,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116261,7 +115237,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
     "imageAlt": "OpenClaw の赤いマスコットと Hermes Agent のアイコン、Hostinger のロゴ、タイトル「OpenClaw vs Hermes Agent」",
@@ -116369,7 +115345,7 @@ export const reviewsData: unknown[] = [
           "始める前に、三つのことを確認してください。どちらのエージェントにも当てはまります。"
         ],
         "bullets": [
-          "**AI モデル。** エージェントは自分だけでは答えません。他社のモデルに回答を頼みます。Hostinger では、プランの AI クレジットか、ご自身の API キー（プログラムがプロバイダーと通信するための鍵）を使います。利用料は、プロバイダーがあなたに直接請求します。",
+          "**AI モデル。** エージェントは自分だけでは答えません。他社のモデルに回答を頼みます。Hostinger では、プランの AI クレジットか、ご自身の API キー（プログラムがプロバイダーと通信するための鍵）を使います。利用料はプロバイダーが直接請求します。",
           "**メッセージのチャンネル。** いちばん簡単なのは Telegram です。Telegram の公式のボット作成ボット BotFather でボットを作り、トークンを保管します。WhatsApp は連携した端末として、QR コードを読み取って接続します。",
           "**サーバーを誰が管理するか。** マネージドでは、Hostinger が更新とセキュリティを担当します。VPS では、更新は Docker Manager の Update ボタンでご自身が行い、サーバーのセキュリティもご自身の役目です。Docker は、アプリをコンテナの中で分離して動かすプログラムです。"
         ],
@@ -116477,14 +115453,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していないので、カートで価格を確認してください。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も OpenClaw や Hermes Agent は使っていません。",
+    "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。追加の費用はかかりません。チームの誰も OpenClaw や Hermes Agent は使っていません。",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-managed-or-vps-ja",
@@ -116516,7 +115492,7 @@ export const reviewsData: unknown[] = [
     "locale": "ko",
     "translationKey": "hostinger-openclaw-ou-hermes-agent",
     "title": "OpenClaw 또는 Hermes Agent: 어떤 것을 고르고 호스팅어에서 각각 어떻게 돌릴까",
-    "seoTitle": "OpenClaw 또는 Hermes Agent: 어떤 것을 고를까? 2026",
+    "seoTitle": "OpenClaw 또는 Hermes Agent: 2026년에는 어떤 것을 고를까?",
     "type": "호스팅 가이드",
     "category": "guias-praticos-utilidade",
     "reviewKind": "guia",
@@ -116547,7 +115523,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
     "imageAlt": "OpenClaw의 빨간 마스코트와 Hermes Agent 아이콘, 호스팅어 로고, 제목 'OpenClaw vs Hermes Agent'",
     "imageFit": "contain",
@@ -116606,7 +115582,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "메모리",
-              "상태, 메모리, 자격 증명이 내 기기에 저장됨. OpenClaw 자체 비교에는 세션 출처 추적과 삭제 기록이 나옴",
+              "상태, 메모리, 자격 증명이 사용자 기기에 저장됨. OpenClaw 자체 비교에는 세션 출처 추적과 삭제 기록이 나옴",
               "세션 사이의 메모리를 에이전트가 직접 정리하고, 지난 대화를 검색(FTS5)하며, Honcho로 사용자를 모델링함",
               "OpenClaw README, Hermes Agent README와 문서, OpenClaw 자체 비교"
             ],
@@ -116640,7 +115616,7 @@ export const reviewsData: unknown[] = [
           "소프트웨어는 둘 다 무료입니다. 실제 비용은 세 곳에서 나옵니다."
         ],
         "bullets": [
-          "**서버.** 항상 켜 둔 내 컴퓨터를 쓰거나, 가상 서버인 VPS를 빌릴 수 있습니다. VPS는 머신 전체를 제어하는 root 권한을 주지만, 시스템 업데이트와 보안은 직접 챙겨야 합니다. 메모리(RAM)가 많을수록 여러 프로그램을 동시에 돌려도 덜 멈춥니다.",
+          "**서버.** 항상 켜 둔 자신의 컴퓨터를 쓰거나, 가상 서버인 VPS를 빌릴 수 있습니다. VPS는 머신 전체를 제어하는 root 권한을 주지만, 시스템 업데이트와 보안은 직접 챙겨야 합니다. 메모리(RAM)가 많을수록 여러 프로그램을 동시에 돌려도 덜 멈춥니다.",
           "**관리형 플랜.** 호스팅어가 어시스턴트를 설치하고, 업데이트하고, 유지합니다. OpenClaw와 Hermes Agent는 같은 플랜인 'AI 자동화 앱'에 들어 있습니다.",
           "**AI 모델.** 어시스턴트는 Claude, GPT, Gemini 같은 모델에 답변을 요청하고, 모델은 사용량에 따라 요금을 받습니다. 내는 방법은 두 가지입니다. 제공업체가 직접 청구하는 자체 API 키를 쓰거나, 호스팅어에서 AI 크레딧을 사는 것입니다. OpenClaw 관리형과 Hermes Agent 관리형 모두 초기 잔액이 포함되어 있습니다. 추가 충전 가격은 공개 페이지에 없으니 관리 화면에서 확인하세요. Nous Portal의 가격은 프로젝트 페이지에 나와 있지 않습니다."
         ],
@@ -116762,7 +115738,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
       "label": "할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116833,7 +115809,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
     "imageAlt": "OpenClaw 的红色吉祥物与 Hermes Agent 图标，配有 Hostinger 标志和标题“OpenClaw vs Hermes Agent”",
@@ -117039,7 +116015,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "关于透明度",
+        "heading": "谁在写",
         "paragraphs": [
           "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App，Bruno 自 2024 年起就是客户，使用托管主机和一台 VPS KVM 2。团队中没有人使用 OpenClaw 或 Hermes Agent。",
           "本文汇总了 Hostinger 的页面，以及两个项目的官方政策和文档，查阅日期为 2026年10月21日。OpenClaw 发布的两者对比是项目方自己写的，并在表格的来源列里标出了这个名称。"
@@ -117050,7 +116026,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "cta": {
       "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
-      "label": "通过 SONAR20 查看套餐",
+      "label": "通过 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
@@ -117119,7 +116095,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
     "imageAlt": "OpenClaw 的紅色吉祥物與 Hermes Agent 圖示，搭配 Hostinger 標誌與標題「OpenClaw vs Hermes Agent」",
@@ -117143,7 +116119,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "比較表",
         "paragraphs": [
-          "這張表彙整了一手來源所說的內容。OpenClaw 自己發布的與 Hermes 的比較，是專案方寫的，不是我們寫的：取自那份比較的列，會在來源欄標示這個名稱。"
+          "這張表彙整了一手來源所說的內容。OpenClaw 自己發布的與 Hermes 的比較，是專案方寫的，不是我們寫的：取自那份比較的行，會在來源欄標示這個名稱。"
         ],
         "comparisonTable": {
           "headers": [
@@ -117325,7 +116301,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "透明度說明",
+        "heading": "誰在寫",
         "paragraphs": [
           "Em Casa com Cecília 運行在 Hostinger 上，是一個 Node.js Web App，Bruno 自 2024 年起就是客戶，使用主機代管與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
           "本文彙整了 Hostinger 的頁面，以及兩個專案的官方政策與文件，查閱日期為 2026年10月21日。OpenClaw 發布的兩者比較是專案方自己寫的，並在表格的來源欄標示了這個名稱。"
@@ -117335,7 +116311,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車輸入 SONAR20，或從本文連結進入：首期享 20%，月付或年付都可以。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車裡確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117405,7 +116381,7 @@ export const reviewsData: unknown[] = [
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
-    "isNew": true,
+    "isNew": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
     "imageAlt": "Red OpenClaw mascot facing the Hermes Agent icon, with the Hostinger logo and the title OpenClaw vs Hermes Agent",
@@ -117422,7 +116398,7 @@ export const reviewsData: unknown[] = [
         "heading": "What each one is",
         "paragraphs": [
           "Both are open-source AI assistants under the MIT license that you install and talk to through Telegram, WhatsApp or another messaging app. The license costs nothing; what sets them apart is the interface, the memory and who maintains the project.",
-          "**OpenClaw** is maintained by the OpenClaw Foundation, a non-profit organization. The official README says state, memory and credentials stay on the device where it runs, with no paid plan, hosted service or token. It has a web interface (Control UI), a command line and native apps for macOS, iOS, Android, Windows and Linux. On Hostinger it can be bought managed or on a VPS, as the [OpenClaw managed or VPS guide](/en/reviews/openclaw-hostinger-managed-or-vps) shows.",
+          "**OpenClaw** is maintained by the OpenClaw Foundation, a non-profit organization. The official README says state, memory and credentials stay on the device where it runs, with no paid plan, hosted service or token. It has a web interface (Control UI), a command line and native apps for macOS, iOS, Android, Windows and Linux. On Hostinger it is available managed or on a VPS, as the [OpenClaw managed or VPS guide](/en/reviews/openclaw-hostinger-managed-or-vps) shows.",
           "**Hermes Agent** is made by Nous Research, a company that develops AI models. Its signature is the learning loop: the agent organizes its own memory between sessions, creates and improves its own skills, searches past conversations and builds a model of the user with Honcho. It has a full terminal and Hermes Desktop, a desktop app with an installer for Windows and macOS. The project page does not state a price for the software. It mentions Nous Portal, a subscription with tools such as web search, browsing and image generation, with no price given. Nous Portal is one way to pay for the model, not the only one."
         ]
       },

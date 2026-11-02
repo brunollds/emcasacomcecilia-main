@@ -35,7 +35,7 @@
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
   "imageAlt": "Mascota roja de OpenClaw en primer plano, con el logo de Hostinger, el título OpenClaw + VPS KVM e iconos de servidor y de planes",
@@ -95,7 +95,7 @@
       },
       "postParagraphs": [
         "Dos detalles del modelo local. El contexto es la cantidad de texto (tokens, trozos de palabras) que el modelo lee de una vez. Cuando queda menos del 20% de la ventana de contexto, OpenClaw avisa, con un piso de 8 mil tokens; por debajo del 10%, bloquea la respuesta, con un piso de 4 mil tokens.",
-        "En las páginas de planes KVM que leímos, ninguna lista tarjeta gráfica (GPU). La documentación tampoco dice qué velocidad tendría un modelo local sin ella."
+        "En las páginas de planes KVM consultadas, ninguna lista tarjeta gráfica (GPU). La documentación tampoco dice qué velocidad tendría un modelo local sin ella."
       ]
     },
     {

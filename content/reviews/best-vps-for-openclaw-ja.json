@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
   "imageAlt": "赤い OpenClaw のマスコットと Hostinger のロゴ、タイトル「OpenClaw + VPS KVM」、サーバーとプランのアイコン",
@@ -43,7 +43,7 @@
   "imageAspect": "landscape",
   "contentSections": [
     {
-      "heading": "結論",
+      "heading": "クイックアンサー",
       "paragraphs": [
         "AI モデルをプロバイダー側に置く場合（API キーでも Hostinger のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、ドキュメントの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。サーバーを扱いたくない人は、下で紹介するマネージドを見てください。"
       ]
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "heading": "執筆者について",
+      "heading": "この記事を書いた人",
       "paragraphs": [
         "Em Casa com Cecília は Hostinger で Node.js Web App として動いていて、Bruno は 2024 年からのお客様で、ホスティングと VPS KVM 2 を使っています。チームに OpenClaw を使っている人はいません。この記事は、Hostinger、Oracle、OpenClaw の公式ドキュメントが言っていることをまとめたものです。"
       ]
@@ -250,7 +250,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していません。",
+    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していないので、カートで価格を確かめてください。",
     "label": "割引プランを見る",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

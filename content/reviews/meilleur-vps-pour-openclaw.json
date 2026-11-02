@@ -35,7 +35,7 @@
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
   "imageAlt": "Mascotte rouge d'OpenClaw en vedette, avec le logo Hostinger, le titre OpenClaw + VPS KVM et des icônes de serveur et de forfaits",
@@ -250,7 +250,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -278,9 +278,9 @@
       "Prenez le KVM 4, avec 16 Go, si vous allez faire tourner un modèle local : c'est le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB."
     ],
     "skipIf": [
-      "Évitez le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher officiel.",
-      "Évitez le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger installe et met à jour l'assistant.",
-      "Évitez le KVM 8 si vous n'allez pas utiliser un modèle local plus grand."
+      "Passez votre tour sur le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher officiel.",
+      "Passez votre tour sur le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger installe et met à jour l'assistant.",
+      "Passez votre tour sur le KVM 8 si vous n'allez pas utiliser un modèle local plus grand."
     ]
   }
 }

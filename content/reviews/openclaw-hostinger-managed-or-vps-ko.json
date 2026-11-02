@@ -35,9 +35,9 @@
   "publishedAt": "2026년 10월 21일",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
-  "imageAlt": "OpenClaw의 빨간 마스코트가 가운데에 서 있고, 호스팅어 로고와 클라우드, 서버 아이콘이 마주 보고 있는 이미지. 관리형과 VPS의 대결을 나타냄",
+  "imageAlt": "OpenClaw의 빨간 마스코트가 가운데에 서 있고, 호스팅어 로고와 클라우드, 서버 아이콘이 마주 보고 있음",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -66,7 +66,7 @@
       "image": {
         "src": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-quem-cuida-pt.webp",
         "alt": "관리형과 VPS 두 열로 된 표: 설치는 두 방식 모두 호스팅어가 하고, 업데이트와 서버 보안은 관리형에서는 호스팅어가, VPS에서는 본인이 맡으며, AI 크레딧을 쓸지 직접 가진 키를 쓸지는 두 방식 모두 고를 수 있음",
-        "caption": "각 방식에서 누가 무엇을 맡는지. 호스팅어 페이지와 OpenClaw 문서를 바탕으로 정리했습니다."
+        "caption": "각 방식에서 누가 무엇을 맡는지. 출처: 호스팅어 페이지와 OpenClaw 문서."
       },
       "comparisonTable": {
         "headers": [
@@ -134,7 +134,7 @@
       "bullets": [
         "BotFather에서 봇을 만들고 토큰을 복사하세요. BotFather는 텔레그램의 공식 봇 생성 도구입니다.",
         "토큰을 OpenClaw 설정에 붙여 넣으세요.",
-        "봇에 메시지를 보내세요. 아직 승인되지 않은 사람은 페어링 코드를 받고, 첫 연결은 OpenClaw 패널에서 승인합니다."
+        "봇에 메시지를 보내세요. 아직 승인되지 않은 사람은 페어링 코드를 받고, 첫 연결은 OpenClaw 패널에서 승인하세요."
       ],
       "postParagraphs": [
         "왓츠앱에서 OpenClaw는 WhatsApp Web과 같은 방식으로 \"연결된 기기\"로 들어가며, 로그인은 QR 코드로만 합니다. 문서는 개인 번호와 분리된 번호를 쓰라고 권합니다."
@@ -158,9 +158,9 @@
         "**다음에 해당한다면 관리형을 고르세요:**"
       ],
       "bullets": [
-        "서버를 설치하고 설정하지 않고 어시스턴트를 바로 쓰고 싶다면;",
-        "업데이트, 백업, 보안을 호스팅어가 맡아 주길 원한다면;",
-        "root나 Docker가 무엇인지 모른다면;",
+        "서버를 설치하고 설정하지 않고 어시스턴트를 바로 쓰고 싶다면",
+        "업데이트, 백업, 보안을 호스팅어가 맡아 주길 원한다면",
+        "root나 Docker가 무엇인지 모른다면",
         "OpenClaw를 쓰거나, 같은 플랜에서 Hermes Agent나 Paperclip으로 바꾸고 싶다면."
       ],
       "postParagraphs": [
@@ -169,9 +169,9 @@
       ]
     },
     {
-      "heading": "SONAR20 쿠폰",
+      "heading": "쿠폰 SONAR20",
       "paragraphs": [
-        "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 코드를 넣는 위치는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
+        "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 코드를 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
       ],
       "postParagraphs": [
         "호스팅어는 블랙프라이데이 행사 중이며 가격이 달라집니다. [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)를 보고, 결제하기 전에 장바구니에서 금액을 확인하세요."
@@ -196,8 +196,8 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "쿠폰 코드 SONAR20을 장바구니에 넣거나 이 링크로 들어가세요: 첫 기간 20%, 월간과 연간 플랜 모두. 갱신 가격은 테스트하지 않았습니다.",
-    "label": "할인 플랜 보기",
+    "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+    "label": "SONAR20 할인 플랜 보기",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },

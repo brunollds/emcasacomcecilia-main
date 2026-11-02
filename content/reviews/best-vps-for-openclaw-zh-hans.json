@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
   "imageAlt": "红色的 OpenClaw 吉祥物，配有 Hostinger 标志、标题“OpenClaw + VPS KVM”，以及服务器和套餐图标",
@@ -89,7 +89,7 @@
           [
             "本地模型，更大的配方",
             "页面只说需要更多内存，没有给数字。",
-            "没有官方的算法。请按你想运行的模型大小来选。"
+            "没有官方的计算。请按你想运行的模型大小来选。"
           ]
         ]
       },
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "heading": "作者",
+      "heading": "谁在写这篇文章",
       "paragraphs": [
         "Em Casa com Cecília 运行在 Hostinger 上，是一个 Node.js Web App；Bruno 从 2024 年起就是 Hostinger 的客户，使用虚拟主机和一台 VPS KVM 2。团队里没有人在用 OpenClaw：本文汇总的是 Hostinger、Oracle 和 OpenClaw 官方文档所说的内容。"
       ]

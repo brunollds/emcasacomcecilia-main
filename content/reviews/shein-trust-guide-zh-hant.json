@@ -32,7 +32,7 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "SHEIN 是一間正規經營的商店，台灣站的營運公司寫在網站的隱私權政策中。判斷的關鍵是退貨期限與進口稅。詳情見下文「退貨與進口稅」。"
+        "SHEIN 是一間正規經營的商店，台灣站的營運公司寫在網站的隱私權政策中。判斷的關鍵是退貨期限與進口稅。下文各章會分別解釋，付款前要確認的事項也一併列出。"
       ]
     },
     {
@@ -40,12 +40,12 @@
       "paragraphs": [
         "SHEIN 形容自己是全球性的線上時尚與生活風格零售商，並表示公司採取按需生產、小批量的方式。",
         "每個市場都有各自的網站，各網站的隱私權政策都會寫明負責該網站的公司。台灣站 shein.tw 的公司是新加坡的 Fashion Choice Pte. Ltd.。集團網站 sheingroup.com 屬於新加坡的 Roadget Business Pte. Ltd.。",
-        "關於 SHEIN 的來歷，每個說法都要對應各自的報導。《金融時報》報導，SHEIN 誕生於中國。據 BBC 與《海峽時報》（The Straits Times）報導，2026 年在廣東省政府的一場活動上，創辦人 Xu Yangtian（許仰天）表示廣東是 SHEIN 的根。這三篇報導都寫到，公司總部位於新加坡。"
+        "《金融時報》報導，SHEIN 誕生於中國。據 BBC 與《海峽時報》（The Straits Times）報導，2026 年在廣東省政府的一場活動上，創辦人 Xu Yangtian（許仰天）表示廣東是 SHEIN 的根。這三篇報導都寫到，公司總部位於新加坡。"
       ],
       "image": {
         "src": "/images/reviews/shein/shein-sites-por-pais-2026-10-12.webp",
         "alt": "SHEIN 在十個市場的首頁拼圖，每張首頁都標有網站網址",
-        "caption": "SHEIN 在十個市場的首頁，2026 年 10 月 12 日擷取。每個市場都有自己的網站，各網站的隱私權政策都會寫明負責該網站的公司。",
+        "caption": "SHEIN 在十個市場的首頁，為本指南擷取。每個市場都有自己的網站，各網站的隱私權政策都會寫明負責該網站的公司。",
         "objectFit": "contain",
         "aspectRatio": 2.8571
       }
@@ -75,7 +75,7 @@
     {
       "heading": "退貨與進口稅",
       "paragraphs": [
-        "本文的營運公司與退貨期限，取自 SHEIN 台灣站（shein.tw）的隱私權政策與退貨政策，我們於 2026 年 10 月 12 日查閱。",
+        "本文的營運公司與退貨期限，取自 SHEIN 台灣站（shein.tw）的隱私權政策與退貨政策（2026 年 10 月 12 日查閱）。",
         "台灣站的退貨期限是收到商品後 15 天內。",
         "進口稅依收件地而異，付款前請在結帳頁面確認總金額是否已包含進口稅。"
       ]
@@ -93,7 +93,7 @@
     {
       "heading": "合作與推薦碼",
       "paragraphs": [
-        "本文是編輯專題，Cecília 是 SHEIN 的聯盟會員：透過她的連結購買，可能產生佣金，你不需要額外付費。4CW5Y 是 Cecília 的 SHEIN 推薦碼，要在 SHEIN 的搜尋欄輸入，不是填在優惠券欄位。"
+        "本文是編輯專題，Cecília 是 SHEIN 的聯盟推廣者：透過她的連結購買，可能產生傭金，你不需要額外付費。4CW5Y 是 Cecília 的 SHEIN 推薦碼，要在 SHEIN 的搜尋欄輸入，不是填在優惠券欄位。"
       ],
       "links": [
         {
@@ -135,7 +135,7 @@
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "本文為編輯專題。我們可能從 SHEIN 的購買中獲得佣金，你不需要額外付費。",
+  "editorialNote": "本文為編輯專題。我們可能從 SHEIN 的購買中獲得傭金，你不需要額外付費。",
   "relatedArticles": [
     {
       "slug": "shein-vs-shopee-zh-hant",

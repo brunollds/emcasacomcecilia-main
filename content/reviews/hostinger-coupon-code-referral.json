@@ -35,7 +35,7 @@
   "publishedAt": "October 19, 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
   "imageAlt": "Logos of OpenClaw, Hermes Agent and Paperclip, with the Hostinger logo and the 20% discount",
@@ -45,7 +45,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or come in through this article's link. We did not test renewal."
+        "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. We did not test renewal."
       ]
     },
     {
@@ -85,7 +85,7 @@
         "Choose the plan and the period and go to the cart.",
         "Paste SONAR20 in the coupon field and apply it.",
         "Check that the 20% shows up in the first-period total and that the renewal is listed.",
-        "If the cart value differs, the cart value is the one that counts."
+        "If the cart total differs from the prices on the page, the cart total is the one that counts."
       ]
     },
     {
@@ -102,7 +102,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "text": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
     "label": "See plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

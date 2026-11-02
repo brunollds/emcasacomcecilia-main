@@ -35,7 +35,7 @@
   "publishedAt": "19 de octubre de 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
   "imageAlt": "Logos de OpenClaw, Hermes Agent y Paperclip, con el logo de Hostinger e iconos de escudo y calendario",
@@ -45,7 +45,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Hostinger es una empresa grande, con reglas públicas de reembolso y de renovación, y en nuestra experiencia el servicio y el soporte funcionan. Lo que sorprende es la renovación, que viene activada por defecto y puede tener otro precio. Abajo verás el reembolso, la renovación y la empresa que cobra; el 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
+        "Hostinger es una empresa grande, con reglas públicas de reembolso y de renovación, y en nuestra experiencia el servicio y el soporte funcionan. El punto delicado es la renovación, que viene activada por defecto y puede tener otro precio. Abajo verás el reembolso, la renovación y la empresa que cobra; el 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
       ]
     },
     {
@@ -116,7 +116,7 @@
       "heading": "Renovación automática y precio nuevo",
       "paragraphs": [
         "Quien contrata entra en la renovación automática, porque es la configuración por defecto. El cobro se hace entre 30 y 0 días antes del fin del período, en la tarjeta marcada como predeterminada, al precio vigente del plan en esa fecha. Los términos dicen que ese precio puede ser mayor o menor que el del primer período, y que el cambio de precio rige en la renovación, sin aviso previo.",
-        "Hostinger puede avisar por correo antes del cobro, pero los términos dicen que no tiene esa obligación. Los clientes con plan de un mes, por ejemplo, no reciben aviso. Para desactivarla, entra en la cuenta y desactiva la renovación en cualquier momento. Si la desactivas y no renuevas a mano antes del fin del período, el servicio se cierra.",
+        "Hostinger puede avisar por correo antes del cobro, pero los términos dicen que no tiene esa obligación. Los clientes con plan de un mes, por ejemplo, no reciben aviso. Para desactivarla, entra en la cuenta y desactiva la renovación en cualquier momento. Si la desactivas y no renuevas a mano antes del fin del período, el servicio termina.",
         "Qué pasa con el descuento en la renovación se explica en la [guía del cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
       ],
       "images": [
@@ -151,7 +151,7 @@
     {
       "heading": "Nuestra experiencia",
       "paragraphs": [
-        "Em Casa com Cecília funciona sobre Hostinger. Bruno, que también firma este texto, es cliente desde 2024, con más de 24 meses de contratos: hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. Nunca vio caer el servicio y, cada vez que tuvo un problema, el soporte lo resolvió, sobre todo el agente de IA.",
+        "Em Casa com Cecília funciona en Hostinger. Bruno, que también firma este texto, es cliente desde 2024, con más de 24 meses de contratos: hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. Nunca vio caer el servicio y, cada vez que tuvo un problema, el soporte lo resolvió, sobre todo el agente de IA.",
         "Es una experiencia, no una garantía. No dice qué pasará con tu plan, ni con un plan de otro precio o de otro período."
       ]
     },
@@ -191,7 +191,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito.",
     "label": "Ver los planes de Hostinger",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

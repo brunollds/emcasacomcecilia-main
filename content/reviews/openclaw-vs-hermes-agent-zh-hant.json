@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
   "imageAlt": "OpenClaw 的紅色吉祥物與 Hermes Agent 圖示，搭配 Hostinger 標誌與標題「OpenClaw vs Hermes Agent」",
@@ -59,7 +59,7 @@
     {
       "heading": "比較表",
       "paragraphs": [
-        "這張表彙整了一手來源所說的內容。OpenClaw 自己發布的與 Hermes 的比較，是專案方寫的，不是我們寫的：取自那份比較的列，會在來源欄標示這個名稱。"
+        "這張表彙整了一手來源所說的內容。OpenClaw 自己發布的與 Hermes 的比較，是專案方寫的，不是我們寫的：取自那份比較的行，會在來源欄標示這個名稱。"
       ],
       "comparisonTable": {
         "headers": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "heading": "透明度說明",
+      "heading": "誰在寫",
       "paragraphs": [
         "Em Casa com Cecília 運行在 Hostinger 上，是一個 Node.js Web App，Bruno 自 2024 年起就是客戶，使用主機代管與一台 VPS KVM 2。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
         "本文彙整了 Hostinger 的頁面，以及兩個專案的官方政策與文件，查閱日期為 2026年10月21日。OpenClaw 發布的兩者比較是專案方自己寫的，並在表格的來源欄標示了這個名稱。"
@@ -251,7 +251,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車輸入 SONAR20，或從本文連結進入：首期享 20%，月付或年付都可以。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車裡確認價格。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

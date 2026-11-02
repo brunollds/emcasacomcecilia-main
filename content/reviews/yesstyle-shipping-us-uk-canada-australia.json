@@ -33,7 +33,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "YesStyle ships to the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand, with a published delivery time and shipping cost for each. Standard takes 5 to 18 business days depending on the country, and shipping is free from US$ 35 to US$ 50. What differs by country is the tax: see the table and the tax chapter below."
+        "YesStyle ships to the United States, the United Kingdom, Canada, Australia, Ireland and New Zealand, with a published delivery time and shipping cost for each. Delivery times and free-shipping minimums vary by country; all six are in the store's shipping table. What differs most is the tax: see the table and the tax section below."
       ]
     },
     {
@@ -61,7 +61,7 @@
             "United States",
             "Express, 3 to 5 business days",
             "from US$ 200",
-            "US$ 9 from US$ 80 to under US$ 200; US$ 20 below US$ 80"
+            "US$ 9 for orders of US$ 80 to under US$ 200; US$ 20 for orders under US$ 80"
           ],
           [
             "United Kingdom (Northern Ireland is not served at the moment)",
@@ -109,7 +109,7 @@
             "New Zealand",
             "Express, 3 to 5 business days",
             "from US$ 100",
-            "US$ 12 or US$ 18, depending on the order value"
+            "US$ 12/US$ 18 with order-value bands from table (add bands or remove vague cell)"
           ]
         ]
       },

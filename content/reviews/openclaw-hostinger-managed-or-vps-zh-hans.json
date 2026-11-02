@@ -35,10 +35,10 @@
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
-  "imageAlt": "OpenClaw 的红色吉祥物居中，旁边是 Hostinger 标志以及云和服务器图标，象征托管与 VPS 的对决",
+  "imageAlt": "OpenClaw 的红色吉祥物居中，旁边是 Hostinger 标志以及云和服务器图标，两者相对而立",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "contentSections": [
@@ -117,7 +117,7 @@
       "paragraphs": [],
       "bullets": [],
       "postParagraphs": [
-        "套餐不是全部花费，AI 的使用费另算。使用 Hostinger 的额度时，托管版带有初始余额，超出的部分按用量计费。续充的价格没有出现在任何公开页面上，所以指望它之前，请先在后台确认。如果用自己的密钥，服务商（OpenAI、Anthropic 或其他）会根据模型和对话量直接向你收费。",
+        "套餐不是全部花费，AI 的使用费另算。使用 Hostinger 的额度时，托管版带有初始余额，超出的部分按用量计费。充值的价格没有出现在任何公开页面上，所以指望它之前，请先在后台确认。如果用自己的密钥，服务商（OpenAI、Anthropic 或其他）会根据模型和对话量直接向你收费。",
         "托管版有 30 天可申请退款。VPS 则只有在上一次 VPS 退款申请已超过 180 天时，才适用 30 天。12 个月及以上的 VPS 首年可免费获得一个 .cloud 或 .tech 域名。"
       ]
     },
@@ -170,9 +170,9 @@
       ]
     },
     {
-      "heading": "SONAR20 优惠码",
+      "heading": "优惠码 SONAR20",
       "paragraphs": [
-        "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期享 20% 折扣**，月付或年付都可以，新老客户都适用。我们没有测试续费，请在购物车确认价格。输入位置见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+        "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期享 20% 折扣**，月付或年付都可以，新老客户都适用。我们没有测试续费，请在购物车确认价格。输入位置见[如何使用 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
       ],
       "postParagraphs": [
         "Hostinger 正在进行黑五活动，价格会变动。请看[Hostinger 黑五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，付款前在购物车确认金额。"
@@ -197,14 +197,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
     "label": "通过 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，对你没有额外费用。团队中没有人使用 OpenClaw。",
+  "editorialNote": "使用 优惠码 SONAR20或通过链接购买，可能为 Bruno 带来佣金，对你没有额外费用。团队中没有人使用 OpenClaw。",
   "relatedArticles": [
     {
       "slug": "hostinger-referral-code-zh-hans",
@@ -227,7 +227,7 @@
     "skipIf": [
       "如果你不知道 root 或 Docker 是什么，就别选 VPS：更新和保护系统都要由你来做。",
       "如果你需要 root 权限，或更多内存和硬盘，就别选托管。",
-      "如果同一个助理要服务多个人，就别选：项目建议每人一台服务器。"
+      "如果同一个助理要服务多个人，两者都别选：项目建议每人一台服务器。"
     ]
   }
 }

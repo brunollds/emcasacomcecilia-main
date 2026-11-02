@@ -3,7 +3,7 @@
   "slug": "yesstyle-o-olive-young-cual-elegir",
   "locale": "es",
   "translationKey": "yesstyle-vs-olive-young",
-  "title": "YesStyle o Olive Young: quién envía a tu país, envío, impuestos y devoluciones",
+  "title": "YesStyle o Olive Young: envío gratis, impuestos, devoluciones y puntos comparados",
   "seoTitle": "YesStyle o Olive Young: envío, impuestos y devoluciones",
   "type": "Comparativa de Tiendas",
   "category": "guias-praticos-utilidade",
@@ -15,12 +15,12 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle y Olive Young Global cara a cara: quién envía a Portugal y a otros 22 países, desde qué importe el envío es gratis, quién paga el impuesto y qué devuelve cada tienda, según sus páginas oficiales.",
+  "description": "YesStyle y Olive Young Global cara a cara: quién envía a 23 países, desde qué importe el envío es gratis, quién paga el impuesto y qué devuelve cada tienda, según sus páginas oficiales.",
   "metaDescription": "¿YesStyle u Olive Young? Mira el envío gratis, el plazo, el impuesto y la devolución por país, según las páginas oficiales.",
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-ou-olive-young-capa-discover.webp",
   "imageAlt": "Cecília sosteniendo la mascarilla labial Glazed Jelly de Abib, enviada por YesStyle, con el logo de YesStyle y el título YesStyle vs Olive Young",
@@ -32,35 +32,15 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Depende de tu país. Donde las dos envían, pesan el envío gratis, el impuesto y la devolución; mira el capítulo Cuál elegir, según el país."
+        "Depende de lo que te importe. En devoluciones, YesStyle es más flexible: acepta el desistimiento y el cambio de talla en 14 días, mientras que Olive Young Global solo acepta defecto o artículo equivocado, en 30 días. El envío gratis y el impuesto cambian según el país; mira el capítulo Cuál elegir, según el país."
       ]
     },
     {
       "heading": "Quién envía a tu país",
       "paragraphs": [
-        "Depende de tu país. YesStyle publica plazo y envío para 23 países de la comparación. Olive Young Global publica plazo para 10 de ellos y no atiende a EE. UU., que tiene su propia tienda estadounidense. En los otros 22 países, la comparación cambia de uno a otro.",
-        "Cada fila es un país; la última reúne los demás. La columna de YesStyle sale de la tabla de envío publicada el 13/10/2026. La de Olive Young sale de la página de envío leída el 21/10/2026. Donde la tienda no publica plazo o envío, la celda lo dice."
+        "Depende de tu país. YesStyle publica plazo y envío para 23 países de la comparación. Olive Young Global publica plazo para 10 de ellos y no atiende a EE. UU., que tiene su propia tienda estadounidense. La comparación cambia de un país a otro.",
+        "Los datos de YesStyle salen de la tabla de envío publicada el 13/10/2026. Los de Olive Young salen de la página de envío leída el 21/10/2026. Donde la tienda no publica plazo o envío, la cuadrícula lo indica."
       ],
-      "comparisonTable": {
-        "headers": [
-          "País",
-          "YesStyle",
-          "Olive Young Global"
-        ],
-        "rows": [
-          [
-            "Portugal",
-            "Standard, de 10 a 15 días hábiles; gratis desde 60 US$",
-            "Envía; gratis desde 60 US$, plazo no publicado"
-          ],
-          [
-            "otros países",
-            "El plazo y el envío gratis varían según el país; compruébalo en el pago con tu dirección",
-            "Gratis desde 60 US$ en la mayoría de los destinos (por debajo, 25 US$); plazo en el pago"
-          ]
-        ],
-        "caption": "Plazo y envío gratis por país: YesStyle según la tabla de envío; Olive Young Global según la página de envío y la FAQ de envío."
-      },
       "postParagraphs": [
         "Donde Olive Young no publica plazo para tu país, vale la regla general de su FAQ de envío (gratis desde 60 US$, 25 US$ por debajo; 5 US$ en Malasia y Singapur) y el plazo solo aparece en el pago, con la dirección.",
         "Cuatro países no aparecen en el selector de destino de la tienda global: España, Argentina, Perú y Estados Unidos. En EE. UU., Olive Young vende por su propia tienda estadounidense. La tabla de Olive Young también tiene una fila \"otras regiones\" (15 días, 60 US$), sin lista de países."
@@ -77,9 +57,8 @@
       "heading": "Envío gratis y plazo",
       "paragraphs": [
         "Los plazos son de envío, no de puerta a puerta. En YesStyle, el tiempo para que el artículo salga del almacén de Hong Kong se suma al del envío: un artículo en stock sale en 1 a 3 días hábiles. Olive Young muestra solo el plazo del envío, sin el tiempo de salida del almacén. No sumes los valores de una tienda con los de la otra: YesStyle cuenta en días hábiles, y Olive Young muestra solo \"días\", sin decir si son hábiles.",
-        "**Portugal.** Con el envío Standard de YesStyle, el plazo es de 10 a 15 días hábiles, con seguimiento. Un pedido solo con artículos en stock llega en 11 a 18 días hábiles. Con un artículo de 7 a 14 días de espera, el pedido sube a 17 a 29 días hábiles. El envío es gratis desde 60 US$ (el envoltorio de regalo no cuenta en ese total) y cuesta 5 US$ por debajo. Olive Young envía a Portugal, pero la tabla de envío no tiene fila para el país: según la FAQ de envío, el envío es gratis desde 60 US$ y cuesta 25 US$ por debajo, calculado sobre el precio de los productos sin descuentos. El plazo no se publica; la tienda solo dice que prepara y embala el pedido en 1 a 3 días hábiles. Para comparar el plazo, pon la dirección en Portugal en el pago de cada tienda. Por debajo del mínimo, el envío de YesStyle sale mucho más barato.",
-        "**Los otros países.** Donde las dos envían, Olive Young tiene un plazo menor en algunos casos: Reino Unido (4 a 5 días, frente a 5 a 12 días hábiles en el Premium Standard de YesStyle), Canadá (5 a 7, frente a 7 a 14), Australia (4 a 5, frente a 6 a 8), Francia y Alemania (4 a 5, frente a 10 a 15) y México (8 a 9, frente a 10 a 13). En Asia, YesStyle tiene un plazo menor en Hong Kong (1 a 3 días, frente a 3 a 5), Japón (4 a 5, frente a 6 a 7) y Singapur (3 a 5, frente a 5 a 6), porque usa el Express. Compara siempre el método de cada tienda.",
-        "**Envío gratis.** Olive Young libera el envío desde 60 US$ en la mayoría de los países de la comparación. En Taiwán, el límite es 35 US$, y en Japón, 3.900 ¥. YesStyle pide 35 US$ en Hong Kong, Malasia, EE. UU. (Standard) y Australia (Premium Standard); 45 US$ en Europa continental, España, México y Colombia; 50 US$ en Japón, Corea, Taiwán, Singapur, Reino Unido y Canadá; y 60 US$ en Portugal, Chile, Perú y Argentina. Por debajo del mínimo, YesStyle cobra de 3 a 8 US$ en la mayoría de los países."
+        "**El plazo según el país.** Donde las dos envían, Olive Young tiene un plazo menor en algunos casos: Reino Unido (4 a 5 días, frente a 5 a 12 días hábiles en el Premium Standard de YesStyle), Canadá (5 a 7, frente a 7 a 14), Australia (4 a 5, frente a 6 a 8), Francia y Alemania (4 a 5, frente a 10 a 15) y México (8 a 9, frente a 10 a 13). En Asia, YesStyle tiene un plazo menor en Hong Kong (1 a 3 días, frente a 3 a 5), Japón (4 a 5, frente a 6 a 7) y Singapur (3 a 5, frente a 5 a 6), porque usa el Express. Compara siempre el método de cada tienda.",
+        "**Envío gratis.** Olive Young libera el envío desde 60 US$ en la mayoría de los países de la comparación. En Taiwán, el límite es 35 US$, y en Japón, 3.900 ¥. YesStyle pide 35 US$ en Hong Kong, Malasia, EE. UU. (Standard) y Australia (Premium Standard); 45 US$ en Europa continental, España, México y Colombia; 50 US$ en Japón, Corea, Taiwán, Singapur, Reino Unido y Canadá; y 60 US$ en Chile, Perú y Argentina. Por debajo del mínimo, YesStyle cobra de 3 a 8 US$ en la mayoría de los países."
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-olive-young-frete-gratis.webp",
@@ -93,8 +72,8 @@
       "heading": "Quién paga el impuesto",
       "paragraphs": [
         "El impuesto cambia de un país a otro en las dos tiendas. En Olive Young, entra en el pago en algunos países y queda para la entrega en otros, a cargo del cliente.",
-        "**Olive Young.** La página separa los países en grupos. En Reino Unido, Noruega, Australia y Singapur, el impuesto aparece como cobrado en la compra. Reino Unido puede cobrar IVA y tasas en pedidos de más de 135 £; Noruega tiene un IVA del 25 %, Australia un GST del 10 % y Singapur del 9 %. En la Unión Europea, desde los pedidos hechos el 31/07/2026, Olive Young calcula y cobra en el pago el IVA del país y 3 € de impuesto de importación por código HS (categoría aduanera), después de que escribas la dirección; en un pedido de menos de 60 US$ con envío, el IVA también recae sobre el envío. La tienda dice que no se cobra nada más en la entrega. En Canadá e Israel, el cobro cae en la entrega: Canadá puede cobrar IVA en pedidos de más de 20 CA$, e Israel, tasas por encima de 75 US$, y el transportista local puede cobrar una tarifa. Portugal es de la Unión Europea, así que el impuesto de Olive Young ya aparece en el total del pago. La tienda no acepta devolución ni reembolso por impuestos o tasas de importación (FAQ de tasas de la UE).",
-        "**YesStyle.** En Portugal, el IVA del 23 % ya está en el precio de los productos y se suma al envío en el pago. Desde el 01/07/2026, la Unión Europea cobra 3 € por categoría aduanera en paquetes de menos de 150 €, y YesStyle dice que, por ahora, paga esa tasa por el cliente (artículo de envío). YesStyle reembolsa las tasas de aduana cobradas en la entrega en pedidos de menos de 1.000 US$, en crédito de la tienda, si envías el comprobante en un plazo de 30 días."
+        "**Olive Young.** La página separa los países en grupos. En Reino Unido, Noruega, Australia y Singapur, el impuesto aparece como cobrado en la compra. Reino Unido puede cobrar IVA y tasas en pedidos de más de 135 £; Noruega tiene un IVA del 25 %, Australia un GST del 10 % y Singapur del 9 %. En la Unión Europea, desde los pedidos hechos el 31/07/2026, Olive Young calcula y cobra en el pago el IVA del país y 3 € de impuesto de importación por código HS (categoría aduanera), después de que escribas la dirección; en un pedido de menos de 60 US$ con envío, el IVA también recae sobre el envío. La tienda dice que no se cobra nada más en la entrega. En Canadá e Israel, el cobro cae en la entrega: Canadá puede cobrar IVA en pedidos de más de 20 CA$, e Israel, tasas por encima de 75 US$, y el transportista local puede cobrar una tarifa. La tienda no acepta devolución ni reembolso por impuestos o tasas de importación (FAQ de tasas de la UE).",
+        "**YesStyle.** Desde el 01/07/2026, la Unión Europea cobra 3 € por categoría aduanera en paquetes de menos de 150 €, y YesStyle dice que, por ahora, paga esa tasa por el cliente (artículo de envío). YesStyle reembolsa las tasas de aduana cobradas en la entrega en pedidos de menos de 1.000 US$, en crédito de la tienda, si envías el comprobante en un plazo de 30 días."
       ]
     },
     {
@@ -223,17 +202,16 @@
     {
       "heading": "Código de recompensa CECILIA010 en YesStyle",
       "paragraphs": [
-        "CECILIA010 es un código de recompensa, no un cupón. En el pago de YesStyle, va en el campo Reward Code. Según la ficha del código en este sitio, da hasta un 5 % en la primera compra y un 2 % en las siguientes, y se suma a los cupones de la tienda. Los cupones de YesStyle cambian y vencen, así que la lista del momento está en la página de la tienda: [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
+        "CECILIA010 es un código de recompensa, no un cupón. En el pago de YesStyle, va en el campo Reward Code. Según la página del código en este sitio, da hasta un 5 % en la primera compra y un 2 % en las siguientes, y se suma a los cupones de la tienda. Los cupones de YesStyle cambian y vencen, así que la lista del momento está en la página de la tienda: [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
         "Olive Young no tiene código nuestro en esta comparación, ni cupón. Lo que da a los miembros está en el programa descrito arriba, y puede cambiar."
       ]
     },
     {
       "heading": "Cuál elegir, según el país",
       "bullets": [
-        "Vives en Portugal: las dos envían, y YesStyle publica el plazo (10 a 15 días hábiles en el Standard) y Olive Young solo la regla de envío. En las dos, el envío es gratis desde 60 US$; por debajo, YesStyle cobra 5 US$ y Olive Young, 25 US$.",
         "Vives en Estados Unidos: la comparación es con OLIVE YOUNG US, y en las dos el envío gratis empieza en 35 US$.",
         "Te importa la devolución: YesStyle acepta el desistimiento y el cambio de talla, con el número de devolución pedido en un plazo de 14 días; Olive Young solo acepta defecto o artículo equivocado, en 30 días.",
-        "Te importa el impuesto: YesStyle ya muestra el IVA de Portugal en el precio, y Olive Young cobra IVA e impuesto de importación en el pago en los pedidos a la Unión Europea."
+        "Te importa el impuesto: Olive Young cobra IVA e impuesto de importación en el pago en los pedidos a la Unión Europea, y YesStyle dice que, por ahora, paga por ti la tasa de 3 € de la UE."
       ],
       "postParagraphs": [
         "Para ver la oferta de YesStyle antes de comprar, usa la [página de YesStyle](/es/coupons/yesstyle)."
@@ -243,8 +221,7 @@
       "heading": "Preguntas frecuentes",
       "bullets": [
         "¿Cuál es más barata? Este artículo no compara el precio de los productos. Compara el mismo artículo en las dos tiendas el día de la compra, con el envío y el impuesto sumados.",
-        "¿Cuál entrega más rápido en Portugal? Olive Young envía a Portugal, pero no publica el plazo para el país. YesStyle publica de 10 a 15 días hábiles de envío, además de 1 a 3 días para que el artículo salga del almacén.",
-        "¿Quién paga el impuesto en Europa? En Olive Young, para la Unión Europea, el IVA y 3 € por código HS se cobran en el pago, y la tienda dice que no se cobra nada más en la entrega. En YesStyle, en Portugal, el IVA del 23 % ya viene en el precio. Los detalles están en la sección de impuestos.",
+        "¿Quién paga el impuesto en Europa? En Olive Young, para la Unión Europea, el IVA y 3 € por código HS se cobran en el pago, y la tienda dice que no se cobra nada más en la entrega. YesStyle dice que, por ahora, paga por el cliente la tasa de 3 € de la UE. Los detalles están en la sección de impuestos.",
         "¿Se puede devolver un producto abierto? En Olive Young Global, no, salvo que tenga un defecto o sea un artículo equivocado enviado por la tienda, en 30 días. En YesStyle, el producto de belleza abierto y los suplementos no vuelven.",
         "¿Olive Young Global y OLIVE YOUNG US son la misma tienda? No. La Global envía desde Corea a la lista de países y no a EE. UU.; OLIVE YOUNG US es independiente y tiene sus propias reglas de envío y devolución.",
         "¿Dónde pongo CECILIA010? En el pago de YesStyle, en el campo Reward Code. Se suma a los cupones de la propia tienda."
@@ -252,7 +229,7 @@
     }
   ],
   "cta": {
-    "text": "Mira el envío y el impuesto de tu dirección en el checkout y pega CECILIA010 en el campo Código de Recompensa (Reward Code)",
+    "text": "Mira el envío y el impuesto de tu dirección en el checkout y pega CECILIA010 en el campo Reward Code",
     "label": "Ir a YesStyle",
     "url": "https://ystyle.co/rQYQv",
     "sponsored": true

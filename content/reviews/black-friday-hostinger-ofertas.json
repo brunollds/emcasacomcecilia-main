@@ -3,7 +3,7 @@
   "slug": "black-friday-hostinger-ofertas",
   "locale": "es",
   "translationKey": "hostinger-black-friday",
-  "title": "Black Friday Hostinger 2026: el SONAR20 quita 20% más del precio de la campaña",
+  "title": "Black Friday Hostinger 2026: el cupón SONAR20 quita un 20 % más del precio de la campaña",
   "seoTitle": "Black Friday Hostinger 2026: campaña + cupón SONAR20",
   "type": "Guía de Black Friday",
   "category": "cupons-como-usar",
@@ -35,7 +35,7 @@
   "publishedAt": "19 de octubre de 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
   "imageAlt": "Logotipos de OpenClaw, Hermes Agent y Paperclip, con el logotipo de Hostinger, el título Black Friday 2026 e iconos de etiqueta y calendario",
@@ -99,7 +99,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa el código SONAR20 en el carrito: 20% sobre el precio de la campaña. Revisa el total y la renovación antes de pagar.",
+    "text": "Usa el código SONAR20 en el carrito: 20 % sobre el precio de la campaña. Revisa el total y la renovación antes de pagar.",
     "label": "Ver planes con descuento",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

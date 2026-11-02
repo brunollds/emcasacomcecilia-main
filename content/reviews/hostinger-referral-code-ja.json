@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
   "imageAlt": "OpenClaw、Hermes Agent、Paperclipのロゴと、Hostingerのロゴ、20%割引",
   "imageFit": "contain",
@@ -63,7 +63,7 @@
     {
       "heading": "このサイトはHostingerで動いています",
       "paragraphs": [
-        "Em Casa com Cecília はHostingerで動いており、Brunoは2024年から顧客で、契約は24か月以上になります。Businessホスティング、VPS KVM 2、Businessメール、ドメインを使っていて、すべて自動更新です。問題が起きるたびにサポートが解決してくれて、主にAIエージェントが対応しました。本人はサービスが止まったのを見たことが一度もありません。これが彼の経験です。"
+        "Em Casa com Cecília は Hostinger で動いており、Brunoは2024年から顧客で、契約は24か月以上になります。Businessホスティング、VPS KVM 2、Businessメール、ドメインを使っていて、すべて自動更新です。問題が起きるたびにサポートが解決してくれて、主にAIエージェントが対応しました。本人はサービスが止まったのを見たことが一度もありません。これが彼の経験です。"
       ]
     },
     {
@@ -84,7 +84,7 @@
         "プランと期間を選んで、カートに進みます。",
         "SONAR20をクーポン欄に貼り付けて適用します。",
         "最初の期間の合計に20%が出ているか、更新料金が表示されているかを確認します。",
-        "カートの金額が違う場合は、カートの金額が優先されます。"
+        "カートの金額がページの表示と違う場合は、カートの金額が優先されます。"
       ]
     },
     {
@@ -101,7 +101,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "カートのクーポン欄に SONAR20 を入力するか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。",
+    "text": "カートのクーポン欄に SONAR20 を入力するか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していないので、カートで料金を確認してください。",
     "label": "割引プランを見る",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -122,5 +122,6 @@
       "slug": "hostinger-black-friday-ja",
       "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%"
     }
-  ]
+  ],
+  "hideFromPortugueseListings": true
 }

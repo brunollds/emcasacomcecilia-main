@@ -35,7 +35,7 @@
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
   "imageAlt": "Mascotte rossa di OpenClaw di fronte all'icona di Hermes Agent, con il logo di Hostinger e il titolo OpenClaw vs Hermes Agent",
   "imageFit": "contain",
@@ -195,7 +195,7 @@
         ],
         "rows": [
           [
-            "Gestito (app di automazione con IA)",
+            "Gestito (App di automazione con IA)",
             "Hostinger installa, aggiorna e mantiene"
           ],
           [

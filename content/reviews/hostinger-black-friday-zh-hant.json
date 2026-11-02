@@ -3,8 +3,8 @@
   "slug": "hostinger-black-friday-zh-hant",
   "locale": "zh-hant",
   "translationKey": "hostinger-black-friday",
-  "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢",
-  "seoTitle": "Hostinger 黑色星期五 2026：活動價加 SONAR20 的 20%",
+  "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%",
+  "seoTitle": "Hostinger 黑色星期五 2026：活動價 + SONAR20 優惠碼",
   "type": "黑色星期五指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
   "imageAlt": "OpenClaw、Hermes Agent 與 Paperclip 的標誌，搭配 Hostinger 標誌、「Black Friday 2026」標題以及標籤與日曆圖示",
@@ -99,14 +99,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車輸入 SONAR20，活動價再減 20%。付款前先確認總價和續訂。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，活動價再減 20%。付款前先確認總價和續訂。",
     "label": "查看折扣方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Hostinger 代管本站。使用代碼 SONAR20 或透過連結購買，Bruno 可能獲得佣金，你不需要多付任何費用。付款前請在購物車裡核對總價。",
+  "editorialNote": "Hostinger 代管本站。使用代碼 SONAR20 或透過連結購買，Bruno 可能獲得傭金，你不需要多付任何費用。付款前請在購物車裡核對總價。",
   "relatedArticles": [
     {
       "slug": "hostinger-trust-guide-zh-hant",

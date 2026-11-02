@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
   "imageAlt": "紅色的 OpenClaw 吉祥物，搭配 Hostinger 標誌、標題「OpenClaw + VPS KVM」，以及伺服器和方案圖示",
@@ -89,7 +89,7 @@
           [
             "本機模型，更大的配方",
             "頁面只說需要更多記憶體，沒有給數字。",
-            "沒有官方的算法。請依你想執行的模型大小來選。"
+            "沒有官方的計算。請依你想執行的模型大小來選。"
           ]
         ]
       },
@@ -105,7 +105,7 @@
       ],
       "image": {
         "src": "/images/reviews/hostinger/melhor-vps-para-openclaw-qual-kvm-pt.webp",
-        "alt": "三列的圖表：模型在伺服器之外（API 金鑰或額度）選 KVM 1；小型本機模型選 KVM 2（在邊緣）或 KVM 4；上下文更大的本機模型或還要執行其他程式，選 KVM 4 或 KVM 8",
+        "alt": "三行的圖表：模型在伺服器之外（API 金鑰或額度）選 KVM 1；小型本機模型選 KVM 2（在邊緣）或 KVM 4；上下文更大的本機模型或還要執行其他程式，選 KVM 4 或 KVM 8",
         "caption": "依據 OpenClaw 的文件；我們沒有測過效能。"
       },
       "comparisonTable": {
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "heading": "優惠碼 SONAR20",
+      "heading": "SONAR20 優惠碼",
       "paragraphs": [],
       "postParagraphs": [
         "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。我們沒有測試續約；請在購物車裡確認價格。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "heading": "作者",
+      "heading": "誰在寫這篇文章",
       "paragraphs": [
         "Em Casa com Cecília 執行在 Hostinger 上，是一個 Node.js Web App；Bruno 從 2024 年起就是 Hostinger 的客戶，使用虛擬主機和一台 VPS KVM 2。團隊裡沒有人在用 OpenClaw：本文彙整的是 Hostinger、Oracle 和 OpenClaw 官方文件所說的內容。"
       ]
@@ -250,7 +250,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車輸入 SONAR20，或從本文連結進入：首個計費週期享 20%，月付或年付都可以。",
+    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。我們沒有測試續約，請在購物車裡確認價格。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

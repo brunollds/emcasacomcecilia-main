@@ -30,12 +30,12 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw chez Hostinger : le géré coûte moins cher la première période, et le VPS donne root et Docker. Et à qui convient chacun.",
+  "description": "OpenClaw chez Hostinger : le géré coûte moins cher la première période, et le VPS donne root et Docker, et à qui convient chacun.",
   "metaDescription": "Géré ou VPS pour OpenClaw chez Hostinger : crédits d'IA, Telegram et WhatsApp, et qui s'occupe du serveur.",
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
   "imageAlt": "Mascotte rouge d'OpenClaw au premier plan, avec le logo de Hostinger et les icônes de cloud et de serveur, face à face",
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "heading": "Ce qu'est OpenClaw",
+      "heading": "Qu'est-ce qu'OpenClaw",
       "paragraphs": [
         "OpenClaw est un assistant d'IA open source, sous licence MIT. Il tourne sur un ordinateur ou un serveur, conserve conversations, mémoire et identifiants sur cette machine, et répond par les applications de messagerie que vous utilisez déjà, comme Telegram, WhatsApp, Slack et Discord. Pour réfléchir et répondre, il s'appuie sur des modèles d'IA d'autres entreprises, comme Claude, GPT et Gemini, qui font payer l'usage.",
         "Le projet lui-même ne coûte rien : le README officiel indique qu'il n'a ni formule payante, ni service hébergé, ni jeton. Ce qui coûte de l'argent, c'est le serveur sur lequel il tourne et l'usage des modèles d'IA. Chez Hostinger, il y a deux voies :"
@@ -79,7 +79,7 @@
           [
             "Crédits d'IA",
             "Solde de départ inclus ; l'usage au-delà est facturé à part",
-            "Facultatifs : on peut les acheter au moment de payer"
+            "Facultatifs : vous pouvez les acheter au moment de payer"
           ],
           [
             "Clé d'API personnelle",
@@ -148,7 +148,7 @@
         "La politique de sécurité d'OpenClaw précise qu'il est conçu pour une personne de confiance, et non pour plusieurs personnes qui ne se connaissent pas : quiconque peut parler à l'assistant peut lui faire utiliser ses outils. Cela change le choix dans trois cas :"
       ],
       "bullets": [
-        "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est direct ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
+        "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est simple ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
         "**L'assistant va avoir accès à votre e-mail, à votre banque ou à d'autres comptes :** le projet demande que le serveur n'ait aucun compte personnel connecté. Hostinger suggère une boîte e-mail distincte pour l'assistant.",
         "**Sur le VPS, conservez le jeton de la passerelle** que génère l'installation et ne l'envoyez pas dans une conversation avec l'assistant."
       ]
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "heading": "Code SONAR20",
+      "heading": "Code promo SONAR20",
       "paragraphs": [
         "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
       ],
@@ -197,7 +197,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -225,7 +225,7 @@
       "Prenez le VPS si vous voulez un accès root et faire tourner d'autres programmes sur le même serveur, comme un site ou n8n."
     ],
     "skipIf": [
-      "Passez votre tour sur le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous incombe.",
+      "Évitez le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous incombe.",
       "Passez votre tour sur le géré si vous avez besoin d'un accès root ou de plus de mémoire et de disque.",
       "Passez votre tour sur les deux si le même assistant doit servir plusieurs personnes : le projet recommande un serveur par personne."
     ]

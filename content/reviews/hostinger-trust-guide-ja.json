@@ -35,7 +35,7 @@
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
   "imageAlt": "OpenClaw、Hermes Agent、Paperclipのロゴと、Hostingerのロゴ、盾とカレンダーのアイコン",
@@ -71,7 +71,7 @@
           ],
           [
             "VPS（KVM）",
-            "はい、30日以内。ただし前回のVPS返金申請から180日以上経過している場合に限る"
+            "はい、30日以内。ただし前回のVPS返金申請から180日を超えて経過している場合に限る"
           ],
           [
             "Hostingerメール、SSL証明書、毎日のバックアップ",
@@ -191,7 +191,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "カートのクーポン欄に SONAR20 を入れると、最初の契約期間が20%割引になります。リンクからプランをご覧ください。",
+    "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。更新は検証していません。カートで価格を確認してください。",
     "label": "Hostingerのプランを見る",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

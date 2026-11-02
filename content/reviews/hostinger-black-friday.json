@@ -35,7 +35,7 @@
   "publishedAt": "October 19, 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
   "imageAlt": "Logos of OpenClaw, Hermes Agent and Paperclip, with the Hostinger logo, the title Black Friday 2026 and tag and calendar icons",
@@ -61,7 +61,7 @@
       "heading": "What you pay with the campaign and with SONAR20",
       "postParagraphs": [
         "The discount applies on top of the campaign price. On the global site, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”).",
-        "Where to paste the code and what happens to the discount at renewal is covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+        "Where to paste the code and what happens to the discount at renewal are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
       ]
     },
     {
@@ -99,7 +99,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart: 20% off the campaign price. Compare the first-period total and the renewal before you pay.",
+    "text": "Use the code SONAR20 in the cart: 20% off the campaign price. Check the total and the renewal before you pay.",
     "label": "See plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

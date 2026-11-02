@@ -33,7 +33,7 @@
     {
       "heading": "Kurz gesagt",
       "paragraphs": [
-        "YesStyle liefert nach Deutschland, Österreich und in die Schweiz per Standardversand in 10 bis 15 Werktagen. Ab US$ 45 ist der Versand kostenlos, darunter kostet er US$ 5, und die Mehrwertsteuer steckt schon im Preis. Weiter unten stehen die Tabelle und die Abgaben, die danach noch auf das Paket zukommen können."
+        "YesStyle liefert nach Deutschland, Österreich und in die Schweiz per Standardversand in 10 bis 15 Werktagen. Ab einem Mindestbestellwert ist der Versand kostenlos, und die Mehrwertsteuer steckt schon im Preis. Weiter unten stehen die Tabelle und die Abgaben, die danach noch auf das Paket zukommen können."
       ]
     },
     {
@@ -126,11 +126,11 @@
       },
       "bullets": [
         "**Auf Lager:** Der Artikel verlässt das Lager in 1 bis 3 Werktagen.",
-        "**Auf Lager: 3–5 Tage:** Der Artikel kommt aus einem regionalen Lager des Shops und verlässt es in 3 bis 5 Werktagen.",
-        "**Auf Lager: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage:** Der Shop kauft den Artikel nach der Bestellung beim Lieferanten ein, und er verlässt das Lager in dieser Zeit, gerechnet in Werktagen."
+        "**Mit Wartezeit: 3–5 Tage:** Der Artikel kommt aus einem regionalen Lager des Shops und verlässt es in 3 bis 5 Werktagen.",
+        "**Mit Wartezeit: 7 Tage, 7–14 Tage, 21 Tage oder 30 Tage:** Der Shop kauft den Artikel nach der Bestellung beim Lieferanten ein, und er verlässt das Lager in dieser Zeit, gerechnet in Werktagen."
       ],
       "postParagraphs": [
-        "Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet, wird in der Regel zusammen verschickt, sobald der letzte verfügbar ist. Mit einem Artikel „Auf Lager: 7–14 Tage“ braucht die Bestellung nach Deutschland 17 bis 29 Werktage."
+        "Eine Bestellung mit einem vorrätigen Artikel und einem, der noch auf Nachschub wartet, wird in der Regel zusammen verschickt, sobald der letzte verfügbar ist. Mit einem Artikel „Mit Wartezeit: 7–14 Tage“ braucht die Bestellung nach Deutschland 17 bis 29 Werktage."
       ]
     },
     {

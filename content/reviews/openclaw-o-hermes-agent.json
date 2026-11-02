@@ -35,7 +35,7 @@
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
   "imageAlt": "Mascota roja de OpenClaw frente al icono de Hermes Agent, con el logotipo de Hostinger y el título OpenClaw vs Hermes Agent",
@@ -53,7 +53,7 @@
       "paragraphs": [
         "Los dos son asistentes de IA de código abierto, con licencia MIT, que instalas y con los que hablas por Telegram, WhatsApp u otra aplicación de mensajería. La licencia no cuesta nada; lo que los distingue es la interfaz, la memoria y quién mantiene el proyecto.",
         "**OpenClaw** lo mantiene la OpenClaw Foundation, una organización sin ánimo de lucro. El README oficial dice que el estado, la memoria y las credenciales se quedan en el equipo donde se ejecuta, sin plan de pago, servicio alojado ni token. Tiene interfaz web (Control UI), línea de comandos y aplicaciones nativas para macOS, iOS, Android, Windows y Linux. En Hostinger se puede contratar gestionado o en VPS, como muestra la [guía de gestionado o VPS para OpenClaw](/es/reviews/openclaw-hostinger-gestionado-o-vps).",
-        "**Hermes Agent** lo desarrolla Nous Research, una empresa que crea modelos de IA. Su rasgo distintivo es el ciclo de aprendizaje: el agente organiza su propia memoria entre sesiones, crea y mejora sus propias habilidades, busca en las conversaciones antiguas y modela al usuario con Honcho. Tiene terminal completa y Hermes Desktop, una aplicación de escritorio con instalador para Windows y macOS. La página del proyecto no indica el precio del software. Menciona Nous Portal, una suscripción con herramientas como búsqueda web, navegación y generación de imágenes, sin precio informado. Nous Portal es una forma de pagar el modelo, no la única."
+        "**Hermes Agent** lo desarrolla Nous Research, una empresa que crea modelos de IA. Su rasgo distintivo es el ciclo de aprendizaje: el agente organiza su propia memoria entre sesiones, crea y mejora sus propias habilidades, busca en las conversaciones antiguas y modela al usuario con Honcho. Tiene un terminal completo y Hermes Desktop, una aplicación de escritorio con instalador para Windows y macOS. La página del proyecto no indica el precio del software. Menciona Nous Portal, una suscripción con herramientas como búsqueda web, navegación y generación de imágenes, sin precio indicado. Nous Portal es una forma de pagar el modelo, no la única."
       ]
     },
     {
@@ -114,7 +114,7 @@
           [
             "Interfaz",
             "Control UI (web), línea de comandos y TUI, y aplicaciones nativas para macOS, iOS, Android, Windows y Linux",
-            "Terminal (TUI) y Hermes Desktop, con instalador para Windows y macOS; interfaz web no informada",
+            "Terminal (TUI) y Hermes Desktop, con instalador para Windows y macOS; interfaz web no indicada",
             "README de OpenClaw; documentación de Hermes Agent"
           ]
         ]
@@ -131,7 +131,7 @@
       "bullets": [
         "**Servidor.** Puede ser tu ordenador, encendido todo el tiempo, o un VPS, un servidor virtual alquilado. El VPS da acceso root, el control total de la máquina, pero eres tú quien actualiza y protege el sistema. Cuanta más memoria RAM, más programas funcionan a la vez sin bloquearse.",
         "**Plan gestionado.** Hostinger instala, actualiza y mantiene el asistente. OpenClaw y Hermes Agent están en el mismo plan, «Aplicaciones de automatización con IA».",
-        "**Modelo de IA.** El asistente pide las respuestas a un modelo, como Claude, GPT o Gemini, que cobra por el uso. Hay dos formas de pagar: una clave de API propia, con la que el proveedor te cobra directamente, o créditos de IA comprados en Hostinger. El gestionado de OpenClaw y el de Hermes Agent traen saldo inicial; la recarga no aparece en una página pública, así que consúltala en el panel. En Nous Portal, el precio no se informa en la página del proyecto."
+        "**Modelo de IA.** El asistente pide las respuestas a un modelo, como Claude, GPT o Gemini, que cobra por el uso. Hay dos formas de pagar: una clave de API propia, con la que el proveedor te cobra directamente, o créditos de IA comprados en Hostinger. El gestionado de OpenClaw y el de Hermes Agent traen saldo inicial; la recarga no aparece en una página pública, así que consúltala en el panel. En Nous Portal, el precio no se indica en la página del proyecto."
       ],
       "postParagraphs": [
         "El coste mensual del uso del modelo no figura en las fuentes: depende del modelo elegido y del número de conversaciones. Por eso esta guía no incluye una estimación del total mensual."
@@ -251,7 +251,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer periodo. No probamos la renovación; revisa el precio en el carrito.",
     "label": "Ver los planes con el SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

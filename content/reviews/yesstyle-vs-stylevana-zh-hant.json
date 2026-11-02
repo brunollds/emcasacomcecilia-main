@@ -3,8 +3,8 @@
   "slug": "yesstyle-vs-stylevana-zh-hant",
   "locale": "zh-hant",
   "translationKey": "yesstyle-vs-alternatives",
-  "title": "YesStyle 還是 Stylevana？運送、稅費與退貨比較",
-  "seoTitle": "YesStyle 與 Stylevana 比較：運送、稅費與退貨",
+  "title": "YesStyle 還是 Stylevana？退貨、免運與獎勵碼比較",
+  "seoTitle": "YesStyle 與 Stylevana 比較：退貨、免運與獎勵碼",
   "type": "購物平台比較",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,12 +15,12 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "以葡萄牙為例，把 YesStyle、Stylevana、Olive Young、StyleKorean 和 Jolse 放在一起比較：哪些商店能寄送、滿多少免運、稅費由誰負擔、各店退貨接受什麼，皆以官方頁面為準。",
-  "metaDescription": "YesStyle 還是 Stylevana？葡萄牙的寄送、免運、稅費與退貨，連同 Olive Young、StyleKorean 和 Jolse，以官方頁面比較。",
+  "description": "把 YesStyle、Stylevana、Olive Young、StyleKorean 和 Jolse 放在一起比較：申請退貨的期限和各店接受退回什麼、StyleKorean 的免運門檻與訂單上限，以及獎勵碼 CECILIA010，皆以官方頁面為準。",
+  "metaDescription": "YesStyle 還是 Stylevana？退貨、StyleKorean 的免運和獎勵碼 CECILIA010，連同 Olive Young、StyleKorean 和 Jolse，以官方頁面比較。",
   "publishedAt": "2026年10月13日",
   "publishedAtISO": "2026-10-13",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/yesstyle/yesstyle-ou-stylevana-capa-discover.webp",
   "imageAlt": "Cecília 手拿 YesStyle 寄來的 Abib PDRN Volume Fill-it 面霜，附有 YesStyle 標誌與標題「YesStyle vs Stylevana」",
@@ -32,95 +32,7 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "沒有對所有人都最適合的商店：選擇取決於所在國家、稅費由誰負擔，以及商店退貨接受什麼。在葡萄牙，五家店都能寄送，依稅費和退貨條件來選即可，詳見下方表格。"
-      ]
-    },
-    {
-      "heading": "哪些店寄送到葡萄牙",
-      "comparisonTable": {
-        "caption": "YesStyle、Stylevana、StyleKorean 和 Jolse 寄往葡萄牙的時效、運費與稅費，以官方頁面為準。",
-        "headers": [
-          "商店",
-          "時效",
-          "免運",
-          "稅費"
-        ],
-        "rows": [
-          [
-            "YesStyle",
-            "Standard，10–15 個工作天",
-            "滿 US$60 免運，未滿收 US$5",
-            "價格已含 23% 的加值稅（VAT）"
-          ],
-          [
-            "Stylevana",
-            "Standard，6–11 個工作天；不寄送偏遠地區",
-            "滿 €59 免運，未滿收 €4.39",
-            "商店未列出價格已含稅的國家"
-          ],
-          [
-            "Olive Young Global",
-            "未公布葡萄牙的時效；商店分揀並包裝訂單需 1–3 個工作天",
-            "滿 US$60 免運，未滿收 US$25",
-            "加值稅，以及每個海關類別 €3 的稅費，於結帳時收取"
-          ],
-          [
-            "StyleKorean",
-            "未依國家公布；商店最多 5 個工作天內交給運送業者",
-            "滿 US$80 免運",
-            "由買家負擔"
-          ],
-          [
-            "Jolse",
-            "未公布",
-            "超過 US$60 免運，未超過收 US$6.99",
-            "寄送時已含 23% 的加值稅"
-          ]
-        ]
-      },
-      "paragraphs": [
-        "Olive Young Global 可以寄送到葡萄牙（網站的寄送地區選單，2026 年 10 月 21 日查看），但其運送頁面沒有這個國家的條目：時效未公布，運費依其 FAQ 的一般規則計算。"
-      ]
-    },
-    {
-      "heading": "稅費由誰負擔",
-      "comparisonTable": {
-        "caption": "各店何時收取稅費、是否退還清關費用，以官方頁面為準。",
-        "headers": [
-          "商店",
-          "何時收取稅費",
-          "稅費退款"
-        ],
-        "rows": [
-          [
-            "YesStyle",
-            "葡萄牙：價格已含加值稅",
-            "有，訂單未滿 US$1,000，以商店購物金退還"
-          ],
-          [
-            "Stylevana",
-            "商店表示，許多地區的稅費已含在價格內或於結帳時計算，但沒有列出是哪些地區",
-            "葡萄牙網站未公布"
-          ],
-          [
-            "Olive Young Global",
-            "在歐盟，加值稅和每個海關類別 €3 的稅費於結帳時收取，商店表示送達時不再收取其他費用；在其他國家，價格和運費不含稅",
-            "在歐盟，不退還清關費用、加值稅和進口費用"
-          ],
-          [
-            "StyleKorean",
-            "關稅由買家負擔；在美國和加拿大，於結帳時計算並收取",
-            "未公布；買家拒絕繳稅，包裹會被退回或銷毀，不退款也不重寄"
-          ],
-          [
-            "Jolse",
-            "葡萄牙：寄送時已含 23% 的加值稅",
-            "未公布退款；買家自行負擔稅費和清關費用"
-          ]
-        ]
-      },
-      "postParagraphs": [
-        "五家店中，只有 YesStyle 公布了稅費退款。退款適用於送達時收取的稅費和費用，不適用於結帳時已付的加值稅。"
+        "沒有對所有人都最適合的商店：選擇取決於所在國家，以及商店退貨接受什麼。依退貨條件來選即可，詳見下方表格：五家店都不接受已拆封的美妝品因改變心意而退。"
       ]
     },
     {
@@ -200,7 +112,7 @@
           ],
           [
             "US$80",
-            "葡萄牙、西班牙、法國、比利時、荷蘭、德國、瑞士、義大利、英國、愛爾蘭、丹麥、瑞典、挪威、波蘭、匈牙利、保加利亞、羅馬尼亞、阿拉伯聯合大公國、沙烏地阿拉伯、卡達、科威特、巴林、阿曼"
+            "西班牙、法國、比利時、荷蘭、德國、瑞士、義大利、英國、愛爾蘭、丹麥、瑞典、挪威、波蘭、匈牙利、保加利亞、羅馬尼亞、阿拉伯聯合大公國、沙烏地阿拉伯、卡達、科威特、巴林、阿曼"
           ],
           [
             "US$90",
@@ -279,20 +191,17 @@
     {
       "heading": "該選哪一家",
       "bullets": [
-        "住在葡萄牙：五家店都寄送，也都公布了免運門檻，所以依稅費和退貨條件來選，見上方表格。",
+        "做決定時：對照上方的退貨表，比較申請期限和各店接受退回什麼。",
         "無論在哪個國家：下單前，到各店官方頁面確認運送、稅費由誰負擔，以及接受退回什麼。"
       ]
     },
     {
       "heading": "常見問題",
       "bullets": [
-        "YesStyle 和 Stylevana 哪一家比較好？要看寄送的國家。葡萄牙的時效與免運門檻見寄送表格。",
+        "YesStyle 和 Stylevana 哪一家比較好？要看所在國家和你的需求。退貨方面，上方的表格比較了申請期限和各店接受退回什麼。",
         "YesStyle 和 SHEIN 是同一家嗎？不是。YesStyle 不在 SHEIN Group 的品牌清單上，並表示隸屬於香港的 YesAsia Holdings。",
         "StyleKorean 的訂單上限是多少？每筆訂單 US$500（不含運費），超過時商店要求拆成兩筆。",
-        "哪家的免運門檻最低？葡萄牙的門檻見寄送表格，其中只有 Stylevana 以歐元標價。",
-        "稅費由誰負擔？要看商店和國家：在葡萄牙，YesStyle 和 Jolse 的價格已含加值稅；只有 YesStyle 公布稅費與清關費用的退款，訂單未滿 US$1,000，以商店購物金退還。",
         "已拆封的美妝品可以退嗎？五家店都不接受因改變心意而退；Stylevana 只在商品全新、密封、未使用時接受。",
-        "哪家寄得最快？各店公布的是寄送時效，而不是總時間：寄往葡萄牙，Stylevana 為 6–11 個工作天，YesStyle 為 10–15 個工作天，均不含商品從香港出貨前所需的時間。",
         "YesStyle 的獎勵碼填在哪裡？CECILIA010 填入結帳頁的 Reward Code 欄位；目前的優惠券在本站的 YesStyle 頁面。"
       ]
     }

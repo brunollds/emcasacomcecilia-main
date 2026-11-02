@@ -35,7 +35,7 @@
   "publishedAt": "19. Oktober 2026",
   "publishedAtISO": "2026-10-19",
   "draft": false,
-  "isNew": true,
+  "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
   "imageAlt": "Logos von OpenClaw, Hermes Agent und Paperclip, mit dem Hostinger-Logo sowie Symbolen für Schild und Kalender",
@@ -132,7 +132,7 @@
     {
       "heading": "Ausfälle und Verfügbarkeitsgarantie",
       "paragraphs": [
-        "Die Bedingungen sagen, dass die Website „von Zeit zu Zeit“ offline sein kann, wegen Wartung oder aus Gründen außerhalb der Kontrolle des Unternehmens, und dass Hostinger dafür keine Verantwortung übernimmt. Die Tarifübersicht auf der Preisseite wirbt mit „99,9 % garantierter Uptime“. Das ist, was Hostinger bewirbt; die Zusage zur Verfügbarkeit steht, wo es sie gibt, im Dokument des jeweiligen Dienstes.",
+        "Die Bedingungen sagen, dass die Website „von Zeit zu Zeit“ offline sein kann, wegen Wartung oder aus Gründen außerhalb der Kontrolle des Unternehmens, und dass Hostinger dafür keine Verantwortung übernimmt. Die Tarifübersicht auf der Preisseite wirbt mit „99,9 % garantierter Uptime“. Das ist das, was Hostinger bewirbt; die Zusage zur Verfügbarkeit steht, wo es sie gibt, im Dokument des jeweiligen Dienstes.",
         "Wenn Ihre Website nicht ausfallen darf, suchen Sie vor dem Bezahlen das Dokument Ihres Tarifs. Der Satz auf der Seite reicht nicht."
       ]
     },
@@ -172,7 +172,7 @@
       "bullets": [
         "Ist Hostinger seriös? Es ist ein großes Unternehmen mit öffentlichen Richtlinien zu Erstattung und Verlängerung. Aufmerksamkeit verdient die automatische Verlängerung samt Preis, nicht die Seriosität des Unternehmens.",
         "Erstattet Hostinger Geld? Ja, innerhalb von 30 Tagen für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Support-Leistungen werden nicht erstattet.",
-        "Verlängert sich Hostinger automatisch? Ja, standardmäßig. Sie können das im Konto jederzeit abschalten; ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
+        "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können das im Konto jederzeit abschalten; ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
         "Wer rechnet bei Hostinger ab? Das hängt vom Land ab. Das Vertragsunternehmen folgt Abschnitt 2 der Bedingungen, und auch andere Unternehmen der Gruppe können abrechnen. Prüfen Sie den Namen beim Checkout.",
         "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb."
       ]
@@ -191,7 +191,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Der Code SONAR20 gibt 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
+    "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
     "label": "Hostinger-Tarife ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
