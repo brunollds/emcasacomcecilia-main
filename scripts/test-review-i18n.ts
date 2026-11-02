@@ -35,8 +35,10 @@ interface ReviewSource {
     bullets?: string[];
     links?: Array<{ href?: string }>;
     styling?: ContentSectionStyling;
-    image?: string | { href?: string };
-    images?: Array<{ href?: string }>;
+    imageAlt?: string;
+    imageCaption?: string;
+    image?: string | { href?: string; alt?: string; caption?: string };
+    images?: Array<{ href?: string; alt?: string; caption?: string }>;
   }>;
 }
 
@@ -56,6 +58,30 @@ function imageLinkFamilyProblems(family: ReviewSource[]): string[] {
     return family.filter((review) => linksOf(review).includes('http')).map((review) => `${review.slug}: foto com link que o português não tem`);
   }
   return family.filter((review) => linksOf(review) !== reference).map((review) => `${review.slug}: links das fotos diferentes do português`);
+}
+
+// O texto das fotos (alt e legenda, da seção, da imagem da seção ou da galeria) numa família: nenhum igual ao do
+// português. O extrator do lote 01 das traduções pulava a imagem em objeto, e 108 textos ficaram em português.
+function imageTextFamilyProblems(family: ReviewSource[]): string[] {
+  const portuguese = family.find((review) => resolveReviewLocale(review.locale) === 'pt');
+  if (!portuguese) return [];
+  const textsOf = (review: ReviewSource) =>
+    (review.contentSections ?? []).flatMap((section) => [
+      section.imageAlt,
+      section.imageCaption,
+      ...[...(typeof section.image === 'object' && section.image ? [section.image] : []), ...(section.images ?? [])].flatMap(
+        (image) => [image.alt, image.caption]
+      ),
+    ]).filter((text): text is string => Boolean(text?.trim()));
+  const reference = new Set(textsOf(portuguese));
+  const problems: string[] = [];
+  for (const review of family) {
+    if (review === portuguese) continue;
+    for (const text of textsOf(review)) {
+      if (reference.has(text)) problems.push(`${review.slug}: texto de foto igual ao português: "${text}"`);
+    }
+  }
+  return problems;
 }
 
 // O card de estilo (ArticleStyling) numa família: as mesmas seções com card, no mesmo modelo, com as mesmas peças
@@ -471,6 +497,7 @@ const storeReferralLabel = (locale: Locale) =>
     assert.deepEqual(stylingFamilyProblems(family), [], `${key}: card de estilo diferente entre as versões`);
     assert.deepEqual(decisionFamilyProblems(family), [], `${key}: quadro de decisão diferente entre as versões`);
     assert.deepEqual(imageLinkFamilyProblems(family), [], `${key}: link de produto das fotos diferente entre as versões`);
+    assert.deepEqual(imageTextFamilyProblems(family), [], `${key}: alt ou legenda de foto igual ao português`);
     const portugueseType = family.find((review) => resolveReviewLocale(review.locale) === 'pt')?.type;
     for (const review of family) {
       assert.deepEqual(typeProblems(review, portugueseType), [], `${review.slug}: type fora do idioma do artigo`);
@@ -540,6 +567,16 @@ const storeReferralLabel = (locale: Locale) =>
     1,
     'link que o português não tem falha'
   );
+
+  // O guarda do texto das fotos, provado em famílias que falham e que passam.
+  const altFamily = (english: ReviewSource['contentSections']): ReviewSource[] => [
+    { slug: 'pt', contentSections: [{ heading: 'A', imageAlt: 'Foto da mala', image: { alt: 'Gráfico do desconto', caption: 'A linha verde é o cupom' } }] },
+    { slug: 'en', locale: 'en', contentSections: english },
+  ];
+  assert.deepEqual(imageTextFamilyProblems(altFamily([{ heading: 'A', imageAlt: 'Photo of the bag', image: { alt: 'Discount chart', caption: 'The green line is the coupon' } }])), [], 'texto traduzido passa');
+  assert.equal(imageTextFamilyProblems(altFamily([{ heading: 'A', image: { alt: 'Gráfico do desconto' } }])).length, 1, 'alt da imagem em objeto igual ao português falha');
+  assert.equal(imageTextFamilyProblems(altFamily([{ heading: 'A', images: [{ caption: 'A linha verde é o cupom' }] }])).length, 1, 'legenda da galeria igual ao português falha');
+  assert.equal(imageTextFamilyProblems(altFamily([{ heading: 'A', imageAlt: 'Foto da mala' }])).length, 1, 'imageAlt igual ao português falha');
 
   // O link da página da loja segue o idioma do artigo: /cupons/<marca> em português e
   // /<locale>/coupons/<marca> nos outros idiomas, que não têm hub de cupons.

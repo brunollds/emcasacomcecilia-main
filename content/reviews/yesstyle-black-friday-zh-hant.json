@@ -118,8 +118,8 @@
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-        "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-        "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+        "alt": "YesStyle 依訂單金額的折扣階梯圖：79 美元以下 0%，79 美元起 8%，149 美元起 10%，199 美元起 15%，另有一條從 0 美元起的 15% 虛線",
+        "caption": "綠線是階梯優惠券：79 美元起 8%，149 美元起 10%，199 美元起 15%。虛線是無最低消費的 15% 優惠日。插圖：Em Casa com Cecília。",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -136,8 +136,8 @@
       ],
       "image": {
         "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-        "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-        "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+        "alt": "YesStyle 結帳頁的「輸入代碼」視窗：優惠券欄位填了優惠券，網紅／獎勵碼欄位填了 CECILIA010",
+        "caption": "結帳頁的兩個欄位：上方是當天的優惠券，下方的獎勵碼欄位填 CECILIA010。",
         "objectFit": "contain",
         "aspectRatio": 1.5962
       },
@@ -188,14 +188,7 @@
       "heading": "配送與稅費",
       "paragraphs": [
         "運費與送達時間會顯示在結帳頁，優惠券不折抵運費。如果包裹到貨時被課稅，YesStyle 會對 1,000 美元以下的訂單，以店鋪抵用金退還稅費與關稅。商店公布的配送資訊，以及如何申請退款，請見 [YesStyle 配送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。"
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-        "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-        "objectFit": "contain",
-        "aspectRatio": 3.5907
-      }
+      ]
     },
     {
       "heading": "購物車範例：Abib 的護膚流程",

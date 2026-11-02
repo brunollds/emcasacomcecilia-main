@@ -74,14 +74,7 @@
       "postParagraphs": [
         "2026年は、11.11が水曜日、ブラックフライデーが金曜日にあたります。SHEINが同じパターンを繰り返すなら、セールは10月末から11月初めの間に始まり、月末まで続くはずです。これは過去の実績からの推定で、SHEINが2026年のキャンペーンを発表したら、このガイドを更新します。",
         "3年とも、最大割引率は終盤に向けて上がりました。待てる人は得をしますが、見つけにくいサイズが必要な人は、最後のフェーズまで待たないでください。"
-      ],
-      "image": {
-        "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-        "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-        "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      }
+      ]
     },
     {
       "heading": "「最大90%」はカート全体ではない",
@@ -102,13 +95,6 @@
         "SHEIN ポイントは、100ポイントがUS$ 1に相当し、商品代金の最大30%まで割り引けます。送料と税金は対象外です。",
         "4CW5Yはクーポンではなく、SHEINブラジルのCecíliaの紹介コードです。SHEINのアプリで4CW5Yを検索し、ご自身のアカウントに表示される条件を確認してください。SHEINのキャンペーンは頻繁に変わります。注文を確定する前に、このサイトのストアページで現在のキャンペーンを確認してください。"
       ],
-      "image": {
-        "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-        "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-        "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
-        "objectFit": "contain",
-        "aspectRatio": 1.7778
-      },
       "links": [
         {
           "label": "SHEINブラジルの紹介コード4CW5YとSHEINのキャンペーンを見る",
@@ -122,13 +108,6 @@
     },
     {
       "heading": "ブラックフライデーのあとの交換と返品",
-      "image": {
-        "src": "/images/reviews/shein/shein-shopee-temu-aliexpress-prazo-devolucao.webp",
-        "alt": "Gráfico de barras com o prazo para devolver publicado por cada loja no Brasil: Temu 90 dias a partir da compra; SHEIN 20 dias, Shopee 7 dias e AliExpress 7 dias a partir do recebimento",
-        "caption": "Na SHEIN, o prazo para devolver é de 20 dias a partir do recebimento, mais que na Shopee e no AliExpress. Regras publicadas pelas lojas.",
-        "objectFit": "contain",
-        "aspectRatio": 1.5
-      },
       "bullets": [
         "**期間：** 受け取りから20日以内。気に入らなかっただけでも返品できます。",
         "**7日以内しか返品できない商品：** ボディスーツ、水着、下着、ピアスとイヤリング、ペット用品、そして開封済みの化粧品、パーティー用品、手芸用品。これらは、配達日から数える7日間の撤回期間内にのみ返品できます。",

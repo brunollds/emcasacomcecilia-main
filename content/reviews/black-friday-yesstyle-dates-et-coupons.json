@@ -118,8 +118,8 @@
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-        "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-        "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+        "alt": "Graphique en escalier de la réduction selon le montant de la commande sur YesStyle : 0 % jusqu'à 79 US$, 8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$, avec une ligne pointillée à 15 % dès 0 US$",
+        "caption": "La ligne verte est le coupon par palier : 8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$. La ligne pointillée correspond aux jours à 15 % sans minimum. Illustration d'Em Casa com Cecília.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -136,8 +136,8 @@
       ],
       "image": {
         "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-        "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-        "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+        "alt": "Fenêtre « Saisir un code » du paiement YesStyle, avec un coupon dans le champ Coupon et CECILIA010 dans le champ du code influenceur/récompense",
+        "caption": "Les deux champs du paiement : le coupon du jour en haut et CECILIA010 dans le champ du code récompense.",
         "objectFit": "contain",
         "aspectRatio": 1.5962
       },
@@ -188,14 +188,7 @@
       "heading": "Livraison et taxes",
       "paragraphs": [
         "Les frais de port et le délai s'affichent à la page de paiement, et le coupon ne réduit pas les frais de port. Si le colis est taxé à l'arrivée, YesStyle rembourse les taxes et les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique. Ce que la boutique publie sur la livraison et la façon de demander le remboursement se trouve dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada)."
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-        "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-        "objectFit": "contain",
-        "aspectRatio": 3.5907
-      }
+      ]
     },
     {
       "heading": "Une idée de panier : la routine Abib",

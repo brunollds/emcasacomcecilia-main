@@ -118,8 +118,8 @@
       ],
       "image": {
         "src": "/images/reviews/yesstyle/yesstyle-black-friday-faixas-cupom.webp",
-        "alt": "Gráfico em degraus do desconto pelo valor do pedido na YesStyle: 0% até US$ 79, 8% de US$ 79, 10% de US$ 149 e 15% de US$ 199, com uma linha tracejada em 15% desde US$ 0",
-        "caption": "A linha verde é o cupom de faixa: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. A tracejada são os dias de 15% sem valor mínimo. Ilustração do Em Casa com Cecília.",
+        "alt": "Gráfico escalonado del descuento según el valor del pedido en YesStyle: 0% hasta US$ 79, 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199, con una línea discontinua en 15% desde US$ 0",
+        "caption": "La línea verde es el cupón por tramos: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. La discontinua son los días de 15% sin mínimo. Ilustración de Em Casa com Cecília.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -136,8 +136,8 @@
       ],
       "image": {
         "src": "/images/reviews/cupons/yesstyle-inserir-codigo.webp",
-        "alt": "Janela Inserir Código do checkout da YesStyle, com um cupom no campo Cupom e CECILIA010 no campo Código de Influenciador/Recompensas",
-        "caption": "Os dois campos do checkout: o cupom do dia em cima e o CECILIA010 no campo do código de recompensa.",
+        "alt": "Ventana Introducir código del checkout de YesStyle, con un cupón en el campo Cupón y CECILIA010 en el campo del código de influencer/recompensa",
+        "caption": "Los dos campos del checkout: el cupón del día arriba y CECILIA010 en el campo del código de recompensa.",
         "objectFit": "contain",
         "aspectRatio": 1.5962
       },
@@ -188,14 +188,7 @@
       "heading": "Envío e impuestos",
       "paragraphs": [
         "El envío y el plazo aparecen en el checkout, y el cupón no descuenta el envío. Si el paquete paga impuestos al llegar, YesStyle reembolsa los impuestos y las tasas de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda. Lo que la tienda publica sobre el envío y cómo pedir el reembolso está en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia)."
-      ],
-      "image": {
-        "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
-        "alt": "Página da YesStyle com a faixa Reembolsos de impostos e taxas alfandegárias incorridos em todos os pedidos da YesStyle abaixo de US$ 1.000",
-        "caption": "A página de reembolso de impostos e taxas alfandegárias da YesStyle, para pedidos abaixo de US$ 1.000.",
-        "objectFit": "contain",
-        "aspectRatio": 3.5907
-      }
+      ]
     },
     {
       "heading": "Una idea de carrito: la rutina de Abib",
