@@ -50,14 +50,14 @@
     {
       "heading": "Domínio e hospedagem são duas contas",
       "paragraphs": [
-        "O domínio é o endereço (o nome que a pessoa digita). A hospedagem é o computador onde o site fica. Você paga os dois separados, e eles não precisam estar na mesma empresa: o domínio registrado numa empresa pode apontar para a hospedagem de outra. A própria página da Hostinger diz que dá para apontar um domínio registrado nela para outra provedora de hospedagem.",
+        "Domínio e hospedagem são duas contas: o endereço (o nome que a pessoa digita) de um lado, o computador onde o site fica do outro. Você paga os dois separados, e eles não precisam estar na mesma empresa: o domínio registrado numa empresa pode apontar para a hospedagem de outra. A própria página da Hostinger diz que dá para apontar um domínio registrado nela para outra provedora de hospedagem.",
         "Por isso a decisão não é \"Hostinger ou não\". É onde o registro do domínio fica, quanto custa renovar todo ano e o que acontece se um dia você trocar de hospedagem. O primeiro ano barato é o menos importante: o domínio renova enquanto o site existir."
       ]
     },
     {
       "heading": "Os três caminhos",
       "paragraphs": [
-        "Quem monta um site tem três opções para o domínio. O quadro resume o que muda em cada uma, pelas páginas da Hostinger."
+        "Para o domínio há três caminhos, pelas páginas da Hostinger, e o que muda entre eles é quem cobra a renovação."
       ],
       "image": {
         "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -196,7 +196,8 @@
         "**Compre fora e aponte** se já tem domínio em outro registrador, se prefere separar as contas, ou se o preço de renovação de lá for menor: o Registro.br anuncia o .com.br a R$ 40 por ano. Apontar o DNS é um ajuste no painel, e o site funciona do mesmo jeito.",
         "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Na maioria das extensões genéricas, a taxa de transferência inclui um ano a mais de registro, então ela não é dinheiro perdido.",
         "Na dúvida, não transfira: aponte o domínio e deixe o registro onde está. Dá para transferir depois, e o site não para."
-      ]
+      ],
+      "emphasis": "Se fosse para o meu site, eu levaria o registro junto da hospedagem, porque domínio e renovação ficam no mesmo painel."
     },
     {
       "heading": "Cupom SONAR20 e preço",

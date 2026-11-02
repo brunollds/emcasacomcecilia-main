@@ -248,6 +248,8 @@
     },
     {
       "heading": "Veredito: VPS ou compartilhada",
+      "emphasis": "Se fosse para o meu site, eu levaria o Premium, porque custa menos e a Hostinger cuida do servidor.",
+      "emphasisAfterParagraph": 3,
       "paragraphs": [
         "**Hospedagem compartilhada** para blog, portfólio, site de empresa, loja pequena e site em Node.js. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
         "**VPS** para sistema próprio, programa ou banco fora do painel, bot ou painel rodando o dia todo, ou quando você precisa de root. Comece pelo KVM 1 e suba se faltar memória. Entre na conta o tempo de manter o servidor, ou o custo de quem faça isso.",

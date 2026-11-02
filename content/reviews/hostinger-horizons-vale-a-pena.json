@@ -58,7 +58,7 @@
         "**Edição com IA (o modo Agentic):** você descreve o que quer no chat e a IA desenha e programa. Cada ação consome créditos de IA, e dá para recarregar."
       ],
       "postParagraphs": [
-        "O que sai de lá é um site ou um aplicativo web, não um app para a App Store ou o Google Play: a própria página diz isso. A hospedagem, o domínio e o e-mail vêm no plano, e o código-fonte pode ser exportado para hospedar em outro lugar. Tudo isso é a descrição da Hostinger, não um teste nosso.",
+        "O que sai de lá é um site ou um aplicativo web, não um app para a App Store ou o Google Play: a própria página diz isso. A hospedagem, o domínio e o e-mail vêm no plano, e o código-fonte pode ser exportado para hospedar em outro lugar. Tudo isso é a descrição da Hostinger.",
         "Não confunda com os agentes de automação da Hostinger, como o OpenClaw e o Hermes Agent: aqueles são [assistentes que rodam num servidor](/reviews/openclaw-ou-hermes-agent) e respondem no Telegram ou no WhatsApp. O Criador com IA constrói o site."
       ]
     },
@@ -216,14 +216,14 @@
         ]
       },
       "postParagraphs": [
-        "O preço por mês é o total dividido por 48. Na prática:"
+        "O preço por mês é o total dividido por 48, e a renovação custa de 4 a 6 vezes o preço promocional. Na prática:"
       ],
       "bullets": [
         "**Premium, com o SONAR20:** 48 × R$ 7,99 = **R$ 383,52**. Sem o SONAR20: R$ 479,52. **Renovação, nos 48 meses seguintes:** 48 × R$ 38,99 = R$ 1.871,52.",
         "**Unlimited, com o SONAR20:** 48 × R$ 10,39 = **R$ 498,72**. Sem o SONAR20: R$ 623,52. **Renovação:** 48 × R$ 64,99 = R$ 3.119,52.",
         "**Créditos de IA são presente único**, não mensal. Acabaram, é recarga, e o preço da recarga não aparece na página: confira no painel antes de contar com ele."
       ],
-      "emphasis": "A renovação custa de 4 a 6 vezes o preço promocional. Olhe a coluna da renovação antes de escolher o plano."
+      "emphasis": "Olhe a renovação antes do desconto: compare o total de 48 meses."
     },
     {
       "heading": "O que conferir antes de pagar",

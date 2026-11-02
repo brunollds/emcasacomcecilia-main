@@ -130215,7 +130215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calorias, proteína e açúcar pela tabela",
         "paragraphs": [
-          "Estes números vêm só das tabelas nutricionais que a loja publica em imagem. Cada linha é um sabor, e a porção é a unidade vendida. Onde não há tabela, o produto não aparece nesta tabela."
+          "O açúcar e as calorias que valem são os da tabela por unidade. Cada linha abaixo é um sabor. Onde não há tabela, o produto não aparece nesta tabela."
         ],
         "images": [
           {
@@ -130342,20 +130342,20 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Açúcar total é todo o açúcar do produto. Açúcar adicionado é só o que entra na fabricação. Nos onze sabores lidos, o adicionado é 0 g. A loja escreve \"zero adição de açúcar\" em parte da linha; a tabela da Avelã confirma o 0 g adicionado, mas mostra 3,7 g de açúcar total. O açúcar total vai de 0,1 g, no Veggie Wafer, a 3,7 g, na Mukebar.",
-          "Não há tabela publicada para a Mukebar Paçoquita 40 g, e os outros sabores da Mukebar 720 g não foram lidos. Para eles, esta comparação não tem número de calorias nem de açúcar."
+          "Sem tabela publicada, a Paçoquita 40 g e os outros sabores da Mukebar 720 g ficam fora desta tabela."
         ]
       },
       {
         "heading": "Preço por unidade e por grama de proteína",
         "paragraphs": [
-          "O preço da unidade é o da caixa dividido pelo número de unidades, no preço normal de 25/10/2026, sem Pix e sem cupom. O R$ por grama de proteína é conta nossa: o preço da unidade dividido pela proteína da unidade. A loja não publica esse número. Serve só para comparar os produtos entre si.",
+          "O preço que decide é o da unidade, no preço normal de 25/10/2026, sem Pix e sem cupom. O R$ por grama de proteína é conta nossa: o preço da unidade dividido pela proteína da unidade. A loja não publica esse número. Serve só para comparar os produtos entre si.",
           "Com o cupom de 10%, a conta muda. A Mukebar 720 g sai a R$ 0,78 por grama de proteína, e a Chocowheyfer Sem Cobertura, a R$ 0,90. O Pix dá 3% de desconto e também soma com o cupom, mas essa conta não entra nos números acima."
         ]
       },
       {
         "heading": "Alérgenos e o wafer vegetal",
         "paragraphs": [
-          "A loja chama o Veggie Wafer de vegetal. Na descrição, ela escreve que o produto é \"ideal pra veganos, intolerantes ou quem só quer variar\". A página não mostra selo vegano, e este texto não diz que o produto é vegano. Na lista de ingredientes, não há leite nem lactose, mas o aviso de alérgenos diz \"pode conter leite\". Quem evita leite deve olhar esse aviso antes de comprar.",
+          "A loja chama o Veggie Wafer de vegetal. Na descrição, ela escreve que o produto é \"ideal pra veganos, intolerantes ou quem só quer variar\". A página não mostra selo vegano. Na lista de ingredientes, não há leite nem lactose, mas o aviso de alérgenos diz \"pode conter leite\". Quem evita leite deve olhar esse aviso antes de comprar.",
           "Lemos a lista de ingredientes e o aviso de alérgenos de três produtos, nas páginas dos produtos:"
         ],
         "bullets": [
@@ -130371,7 +130371,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom e compra",
         "paragraphs": [
           "O cupom MMEMCASACOMCECILIA dá 10% em todo o site oficial da Mais Mu, inclusive em produto que já está em oferta. Ele soma com o desconto de 3% do Pix. Não soma com outro cupom nem com o cashback da própria loja, e só vale no site oficial, não no Mercado Livre. As condições atualizadas ficam na [página do cupom da Mais Mu](/cupons/mais-mu).",
-          "O passo a passo no checkout está em [como usar o cupom](/reviews/cupom-mais-mu-como-usar). A Mais Mu é uma marca brasileira que vende pelo próprio site; a reputação dela, com o histórico no Reclame Aqui, está em [Mais Mu é confiável](/reviews/mais-mu-e-confiavel), e não repetimos isso aqui."
+          "O passo a passo no checkout está em [como usar o cupom](/reviews/cupom-mais-mu-como-usar). A reputação da loja, com o histórico no Reclame Aqui, está em [Mais Mu é confiável](/reviews/mais-mu-e-confiavel)."
         ]
       },
       {
@@ -130389,7 +130389,9 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Partindo só das tabelas, decida por proteína e açúcar: o sabor fica com as avaliações da loja. Se a dieta tem alguma restrição, quem decide é um nutricionista ou médico, com a embalagem na mão."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para o perfil de mais proteína por unidade a escolha é a Mukebar 720 g, porque tem 15 g por unidade e o menor R$ por grama de proteína.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
@@ -130425,7 +130427,18 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-mais-mu",
         "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Para quem quer mais proteína por unidade com o menor custo por grama de proteína: a Mukebar 720 g.",
+        "Para quem quer o menor preço por unidade: a Chocowheyfer Sem Cobertura."
+      ],
+      "skipIf": [
+        "Quando o sabor decide sozinho: estes números não avaliam gosto.",
+        "Quando há restrição alimentar: a decisão é com nutricionista ou médico, com a embalagem na mão.",
+        "Quando a opção precisa ser vegetal certificada: a página não mostra selo vegano e o Veggie Wafer pode conter leite."
+      ]
+    }
   },
   {
     "bodyDatesReason": "reclame-aqui",
@@ -130489,7 +130502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Valley Modular é a mesma empresa que a Inflow?",
         "paragraphs": [
-          "Este guia compara três marcas de sofá modular que chega em caixa: a Valley Modular, a Inflow e a DAMIE. Os pontos são como o sofá chega e se monta, garantia, teste em casa, devolução, prazo, preço de modelos parecidos e Reclame Aqui, com o que cada marca publica no próprio site. A DAMIE é parceira do site, e a Cecília tem o sofá modular dela em casa. Ninguém da equipe usou os sofás da Valley Modular nem da Inflow: elas entram só pela ficha, pela política e pelo preço.",
+          "Três marcas, três sofás que chegam em caixa: Valley Modular, Inflow e DAMIE. O que separa as três é como o sofá chega, a garantia e a devolução. A DAMIE é parceira do site, e a Cecília tem o sofá modular dela em casa. Ninguém da equipe usou os sofás da Valley Modular nem da Inflow: elas entram só pelo que o site publica e pelo preço.",
           "A primeira dúvida de quem pesquisa é se a Valley Modular é a Inflow com outro nome. Não. São empresas diferentes:"
         ],
         "bullets": [
@@ -130505,7 +130518,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como cada uma chega e se monta",
         "paragraphs": [
           "**Valley Modular e Inflow** usam a mesma logística: o sofá vai compactado a vácuo e expande depois que a caixa é aberta, sem ferramentas. Na Valley Modular, a linha modular se chama Modu, e a ficha descreve o sofá como \"100% espuma, sem madeira nem metal\", com espuma D33 Pró e capa removível; os módulos se unem por velcro. A marca também vende a linha Mood, um sofá-cama com a mesma construção em espuma, que fica fora desta comparação. Na Inflow, a espuma \"chega compactada na caixa e ganha forma diante dos seus olhos\", nas palavras da marca, e os módulos se ligam por encaixe.",
-          "**A DAMIE** não compacta o sofá: entrega módulos pré-estruturados, com estrutura de eucalipto, compensado naval e molas nosag, em caixas reforçadas. A montagem é por encaixe, em menos de 10 minutos, segundo a página do produto.",
+          "**A DAMIE** não compacta o sofá: entrega módulos pré-estruturados, com estrutura de eucalipto, compensado naval e molas nosag, em caixas reforçadas. A página do produto promete montagem por encaixe, em menos de 10 minutos.",
           "É a diferença central entre as três: de um lado, espuma que só mostra o tamanho e a firmeza depois de aberta; do outro, módulos que já chegam com estrutura de madeira. O que cada parte faz pela vida útil do sofá está em [Sofá na caixa ou sofá montado: qual dura mais?](/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais)."
         ],
         "images": [
@@ -130692,7 +130705,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 1.3311,
         "postParagraphs": [
-          "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu, na leitura, marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de Sofá na Caixa, Inflow ou DAMIE; a Valley Modular tem registros de menos para dizer.",
+          "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu, na leitura, marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de Sofá na Caixa, Inflow ou DAMIE. A Valley Modular tem poucos registros para avaliar.",
           "Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, quem quer a chance de devolver por não gostar tem de decidir antes de abrir a caixa, na Valley Modular e na Inflow. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
         ]
       },
@@ -130797,7 +130810,9 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Em resumo: quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço do 3 lugares pode olhar a Inflow, sabendo que a devolução só vale lacrada. A Valley Modular tem a garantia intermediária e o 2 lugares sem apoio mais barato da tabela, com prazo de produção sob encomenda e poucos registros no Reclame Aqui para avaliar o atendimento."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a DAMIE, pelos 30 dias de teste e 1 ano de garantia.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
@@ -130811,7 +130826,17 @@ export const reviewsData: unknown[] = [
           "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto. O teste de 30 dias vale com a embalagem guardada."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Para quem quer testar o sofá em casa por 30 dias, com coleta e reembolso, e 1 ano de garantia: a DAMIE.",
+        "Para quem prioriza o menor preço do 3 lugares com apoio e aceita devolver só lacrado: a Inflow."
+      ],
+      "skipIf": [
+        "Quando o prazo precisa ser previsível: a Valley Modular produz sob encomenda e soma de 20 a 30 dias úteis ao frete, enquanto na Inflow e na DAMIE o prazo sai no cálculo do frete.",
+        "Quando a decisão fica para depois de abrir a caixa: na Inflow a devolução só vale com o produto lacrado e na Valley Modular valem os 7 dias do CDC, e só a DAMIE dá os 30 dias em casa."
+      ]
+    }
   },
   {
     "id": 614,
@@ -130874,7 +130899,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os tamanhos da Panela Redonda Signature",
         "paragraphs": [
-          "A Le Creuset fabrica a Panela Redonda Signature de 14 a 34 cm. A Let's Eat It vende de 16 a 34 cm, sem o 14 e sem o 32 cm. A tabela abaixo traz a capacidade que a ficha da loja publica para cada tamanho.",
+          "A Le Creuset fabrica a Panela Redonda Signature de 14 a 34 cm. A Let's Eat It vende de 16 a 34 cm, sem o 14 e sem o 32 cm. A tabela abaixo traz a capacidade que a loja publica para cada tamanho.",
           "A tabela usa litros porque nem a marca nem a loja publicam porções por tamanho. O litro é o único número que as duas fontes dão."
         ],
         "comparisonTable": {
@@ -131017,8 +131042,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Caçarola buffet: quando faz sentido",
         "paragraphs": [
-          "A caçarola buffet é a Le Creuset de formato baixo e largo. A loja a descreve como uma peça de formato amplo e baixo, tão desejável para servir quanto indispensável para cozinhar. A marca fala em levá-la do forno para a mesa como peça de servir. É esse o papel dela: ir direto à mesa, sem trocar de travessa.",
-          "A Let's Eat It tinha estes tamanhos, pela ficha da loja:"
+          "A buffet é a Le Creuset para servir à mesa, baixa e larga. A loja a descreve como peça ampla e baixa para cozinhar e servir, do forno para a mesa. É esse o papel dela: ir direto à mesa, sem trocar de travessa.",
+          "A Let's Eat It tinha estes tamanhos no site:"
         ],
         "bullets": [
           "26 cm, 2,2 L: Petal Branco e Sea Salt a R$ 2.949, e Vermelha e Laranja a R$ 2.345,15 (de R$ 2.759, com 15%).",
@@ -131040,7 +131065,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Outros formatos da Le Creuset na loja",
         "paragraphs": [
-          "Uma linha por formato, com tamanho e litros pelo título e pela ficha da loja. Para comparar preço de vários tamanhos, o guia de Black Friday já tem a tabela."
+          "Uma linha por formato, com tamanho e litros do título e da página da loja. Para comparar preço de vários tamanhos, o guia de Black Friday já tem a tabela."
         ],
         "bullets": [
           "**Redonda Funda:** 24 cm, 5,2 L, esgotada na única cor que a loja tinha.",
@@ -131064,7 +131089,9 @@ export const reviewsData: unknown[] = [
           "Pelo preço, a 24 cm sai mais barata por litro; quem não precisa dos litros a mais não ganha nada com essa conta, e a 20 cm custa R$ 620 a menos.",
           "A buffet entra para quem leva a panela do forno à mesa. Ela serve a esse uso, mas leva menos que a redonda: 2,2 L no 26 cm e 3,5 L no 30 cm.",
           "Os números que sustentam a decisão: 20 cm com 2,4 L por R$ 2.329, 24 cm com 4,2 L por R$ 2.949, 26 cm com 5,3 L por R$ 3.089 e buffet de 26 cm com 2,2 L. Todos são preços cheios."
-        ]
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a 24 cm, porque ela cobre as receitas cheias e sai 28% mais barata por litro.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Onde comprar e o cupom",
@@ -131084,7 +131111,19 @@ export const reviewsData: unknown[] = [
           "Le Creuset 24 cm serve para fogão de indução? Sim, a marca diz que o ferro fundido serve em todas as fontes de calor. Os detalhes estão em [Le Creuset vale a pena](/reviews/le-creuset-vale-a-pena)."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Para receitas de 2 a 3,5 L: a 24 cm, que cobre a receita cheia e sai mais barata por litro.",
+        "Para receitas de até 2 L: a 20 cm, com folga para a tampa fechar.",
+        "Para levar a panela do forno direto à mesa: a caçarola buffet."
+      ],
+      "skipIf": [
+        "Quando o que importa são os litros: a buffet leva menos que a redonda do mesmo diâmetro.",
+        "Quando os litros a mais não entram nas receitas: a maior custa mais sem ganhar nada.",
+        "Quando a escolha é só pelo diâmetro: o que decide é o litro da receita mais cheia."
+      ]
+    }
   },
   {
     "id": 615,
@@ -131158,7 +131197,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "A página não cita nenhuma loja, marketplace ou vendedor, e este guia também não.",
-          "Nas páginas do site brasileiro lidas em 26/10/2026, a marca não publica guia de número de série, gravação no fundo da peça ou selo de autenticidade. O site global, lecreuset.com, redireciona quem acessa do Brasil para o lecreuset.com.br, então não conseguimos ler outra página da marca sobre isso. Por isso o caminho é conferir o canal de compra e guardar a nota fiscal."
+          "Nas páginas do site brasileiro lidas em 26/10/2026, a marca não publica guia de número de série, gravação no fundo da peça ou selo de autenticidade. Quem acessa do Brasil cai no site brasileiro, então o caminho é conferir o canal de compra e guardar a nota fiscal."
         ],
         "image": {
           "src": "/images/reviews/letseatit/le-creuset-alerta-falsas-promocoes-2610.webp",
@@ -131171,7 +131210,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a ficha de cada peça informa: material, origem e garantia",
         "paragraphs": [
-          "O site da marca traz uma tabela de atributos em cada ficha de produto. Três fichas lidas no site:"
+          "O site da marca traz uma tabela de atributos na página de cada produto: três exemplos abaixo."
         ],
         "comparisonTable": {
           "headers": [
@@ -131203,7 +131242,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O país de origem é um dado de cada produto, não da marca inteira. A caçarola de ferro fundido diz France, a mini cocotte de cerâmica diz Tailândia. Uma peça de cerâmica com origem na Tailândia pode ser original, porque é isso que a ficha da própria marca informa. Na frigideira, o campo de origem nem aparece.",
-          "Um cuidado ao ler as fichas: o texto institucional sobre garantia vitalícia em ferro fundido esmaltado se repete como texto da página, mesmo na ficha da frigideira de cerâmica. O que vale para a peça é a linha \"Garantia\" da tabela de atributos dela."
+          "Um cuidado ao ler as páginas: o texto da garantia vitalícia do ferro fundido se repete até na frigideira de cerâmica. O que vale para a peça é a linha \"Garantia\" da tabela de atributos dela."
         ],
         "image": {
           "src": "/images/reviews/letseatit/le-creuset-fichas-material-origem-garantia.webp",
@@ -131264,7 +131303,7 @@ export const reviewsData: unknown[] = [
           "Confira o canal no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, antes de comprar numa loja nova para você.",
           "Desconfie de oferta fora dos canais oficiais, como diz o alerta da marca.",
           "Guarde a nota fiscal: é o comprovante que a marca pede para analisar a garantia.",
-          "Leia na ficha da peça o material, o país de origem e a garantia da linha, porque variam por produto.",
+          "Leia na página da peça o material, o país de origem e a garantia da linha, porque variam por produto.",
           "Em outlet e bazar, lembre que não há troca nem devolução depois da venda."
         ]
       },
@@ -131357,7 +131396,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Da Fita UP à Toda Up: o que mudou",
         "paragraphs": [
-          "A Toda Up veio da Fita UP, a marca das fitas adesivas para decote. Segundo o FAQ da loja, a Fita UP não acabou: \"cresceu e virou Toda Up\", e a empresa é a mesma, com a mesma equipe. A própria loja resume que \"a mudança é apenas de marca e visual\". A página Sobre diz que a marca começou como \"o segredo dos decotes impossíveis\" e passou à moda íntima.",
+          "A Toda Up veio da Fita UP, a marca das fitas adesivas para decote. O FAQ da loja diz que a Fita UP não acabou: \"cresceu e virou Toda Up\", e a empresa é a mesma, com a mesma equipe. A própria loja resume que \"a mudança é apenas de marca e visual\". A página Sobre diz que a marca começou como \"o segredo dos decotes impossíveis\" e passou à moda íntima.",
           "A loja lista o que mudou e o que não mudou com o nome novo:"
         ],
         "comparisonTable": {
@@ -131381,7 +131420,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A frase sobre qualidade e segurança dos produtos também está nessa lista da loja, mas é afirmação da marca, não um fato que este texto confirma.",
+          "A frase sobre qualidade e segurança também está nessa lista, mas é a marca falando dela mesma.",
           "Dois registros públicos ajudam a entender a linha do tempo. O domínio fitaup.com foi registrado em 2020 e o domínio todaup.com, em 2025, pelos dados públicos de registro. Essas datas são de domínio, não de empresa: a FITA UP LTDA existe desde o fim de 2020, e o domínio antigo veio antes da abertura do CNPJ. O domínio fitaup.com segue registrado e aparece linkado na home da Toda Up.",
           "O FAQ da loja também traz as perguntas de quem comprou no site antigo, como \"Tenho um pedido feito no site antigo (Fita UP). Ele vai chegar?\" e \"Preciso criar um novo cadastro?\". Se o seu caso é esse, a resposta da loja está lá, e o canal de atendimento é o mesmo do capítulo de atendimento."
         ],
@@ -131462,13 +131501,13 @@ export const reviewsData: unknown[] = [
         "heading": "Reembolso",
         "paragraphs": [
           "O reembolso depende da forma de pagamento. No cartão, a loja pede o estorno à administradora. Nas outras formas de pagamento, a devolução segue o procedimento financeiro da loja.",
-          "A política não diz em quantos dias o valor volta, em nenhuma das formas. Por isso, este texto não dá prazo de reembolso. Se o prazo importa para você, pergunte ao atendimento antes de devolver, com o número do pedido."
+          "A política não diz em quantos dias o valor volta, em nenhuma das formas. Se o prazo importa para você, pergunte ao atendimento antes de devolver, com o número do pedido."
         ]
       },
       {
         "heading": "Frete e despacho",
         "paragraphs": [
-          "O frete é calculado pelo CEP no checkout, com envio por Sedex, Loggi ou Jadlog, segundo a política de frete. A loja despacha em até 3 dias úteis depois da confirmação do pagamento: até 1 dia útil para faturar e até 2 dias úteis para entregar à transportadora. O código de rastreio vai por e-mail depois do despacho.",
+          "Pela política de frete, o valor sai pelo CEP no checkout, com envio por Sedex, Loggi ou Jadlog. A loja despacha em até 3 dias úteis depois da confirmação do pagamento: até 1 dia útil para faturar e até 2 dias úteis para entregar à transportadora. O código de rastreio vai por e-mail depois do despacho.",
           "A política não traz uma regra fixa de frete grátis: a loja libera frete grátis em campanhas, como a Black Antecipada. Fora de campanha, o valor aparece pelo CEP.",
           "Dois casos cobram o frete de envio da cliente: quando o carteiro não encontra ninguém em duas tentativas e a encomenda volta ao centro de distribuição, e quando o endereço informado está incorreto e o pedido já foi despachado. Em atraso de transportadora, a loja diz que não se responsabiliza pelo prazo, mas que \"fará de tudo\" para cumpri-lo."
         ]
@@ -131476,7 +131515,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pagamento e atendimento",
         "paragraphs": [
-          "O rodapé do site mostra as bandeiras American Express, Elo, Hipercard, Mastercard e Visa. As outras formas de pagamento aparecem só no checkout, e este texto não as confere.",
+          "O rodapé do site mostra as bandeiras American Express, Elo, Hipercard, Mastercard e Visa. As outras formas de pagamento aparecem só no checkout.",
           "Para falar com a loja, o canal indicado na política de trocas é o e-mail suporte@todaup.com e o WhatsApp, que abre pelo botão flutuante do site. O menu tem a página \"Rastreie seu Pedido\". Em caso de defeito, a loja pede o número do pedido e fotos da peça."
         ]
       },
@@ -131490,7 +131529,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dá para confiar na Toda Up?",
         "paragraphs": [
           "Do lado da empresa, a Toda Up tem o que um comprador procura: CNPJ ativo no rodapé, o mesmo da consulta pública e do Reclame Aqui, sede em Biguaçu (SC), regras de troca e de frete publicadas, prazo de troca de 30 dias e atendimento por e-mail e WhatsApp. A mudança de nome está explicada no FAQ da loja, e a empresa é a mesma desde 2020.",
-          "Os pontos de atenção são dois: a política não fixa o prazo de reembolso, e as frases sobre qualidade e segurança dos produtos são da marca, não de terceiros. Este texto fala da loja. Se a peça é boa para você, é outra pergunta, que este texto não responde.",
+          "Os pontos de atenção são dois: a política não fixa o prazo de reembolso, e as frases sobre qualidade e segurança dos produtos são da marca, não de terceiros. Isso vale para a loja; se a peça serve para você, é outra pergunta.",
           "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e use o cupom no carrinho do site oficial."
         ]
       },
@@ -131677,7 +131716,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que a conta entre as abas mostra",
         "paragraphs": [
           "A aba geral soma 1.398 reclamações no período do cabeçalho da tabela, e a de 6 meses soma 357. A diferença, 1.041, cobre o resto do período: de 27/10/2023 a 31/03/2026 e os dias de outubro. Dividida por esses cerca de 30 meses, dá perto de 35 reclamações por mês. Nos 6 meses da aba recente, a média foi de cerca de 60 por mês. A conta é nossa, feita com as duas abas, e vale como ordem de grandeza.",
-          "O Reclame Aqui não mostrou, nesta leitura, quantas reclamações entraram em cada mês. Por isso o texto não diz o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo e resolveu mais do que na média geral.",
+          "O Reclame Aqui não mostrou quantas reclamações entraram em cada mês, então não dá para saber o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo e resolveu mais do que na média geral.",
           "A aba geral começa em 2023. O domínio todaup.com é de 2025, pelo registro público do domínio, então a janela geral alcança um tempo anterior ao site atual. O perfil é o mesmo, pelo mesmo CNPJ, e o Reclame Aqui não separa as reclamações por nome da marca."
         ]
       },
@@ -131690,7 +131729,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que esta leitura não traz",
         "paragraphs": [
-          "A leitura ficou com a aba de 6 meses e a aba geral. Três partes do perfil ficaram de fora e não entram neste texto: a aba de 12 meses, o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. Sem essa lista, o texto não diz qual é o problema mais citado contra a loja. Quem quiser esse detalhe encontra no próprio perfil."
+          "A leitura ficou com a aba de 6 meses e a aba geral. Três partes do perfil ficaram de fora e não entram neste texto: a aba de 12 meses, o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. O problema mais citado está na lista de principais problemas, no próprio perfil."
         ]
       },
       {
@@ -131709,7 +131748,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O Em Casa com Cecília tem parceria com a Toda Up e pode receber comissão pelas compras feitas com o cupom MAUAD, o cupom da Toda Up. Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
+          "O Em Casa com Cecília tem parceria com a Toda Up e pode receber comissão pelas compras feitas com o cupom MAUAD, o cupom da Toda Up. Os números acima vêm do perfil público no Reclame Aqui.",
           "O cupom dá 10% OFF em todo o site da Toda Up. Os detalhes estão na [página da Toda Up](/cupons/toda-up), e o passo a passo e o teste no carrinho, em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ]
       },
@@ -131797,7 +131836,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom da Toda Up",
         "paragraphs": [
-          "MAUAD é o cupom da parceria do Em Casa com Cecília com a Toda Up, marca de moda íntima feminina de Biguaçu (SC): sutiãs Comfort, tops e calcinhas SkinUp e Cotton Up, sutiã de silicone, Fita Up e protetores. A loja se chamava Fita Up: o site é o mesmo, agora com o nome Toda Up, e o cupom vale nele. O mesmo código existe em outras lojas; aqui, tudo o que está escrito é só sobre a Toda Up e vale só no site oficial, todaup.com.",
+          "MAUAD é o cupom da parceria do Em Casa com Cecília com a Toda Up, marca de moda íntima feminina de Biguaçu (SC): sutiãs Comfort, tops e calcinhas SkinUp e Cotton Up, sutiã de silicone, Fita Up e protetores. A loja se chamava Fita Up: o site é o mesmo, agora com o nome Toda Up, e o cupom vale nele. O mesmo código existe em outras lojas; aqui vale só o da Toda Up, só no site oficial, todaup.com.",
           "O desconto é de 10% sobre o preço que aparece no carrinho. Se o produto já está com desconto, os 10% saem do preço promocional, não do preço de tabela. Quando a loja tem uma promoção progressiva no ar, ela entra primeiro, e os 10% saem do que sobra."
         ],
         "image": {
@@ -131897,7 +131936,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, despacho e troca",
         "paragraphs": [
-          "O frete é calculado pelo CEP, no checkout, por Sedex, Loggi ou Jadlog. Segundo a política de frete da loja, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento.",
+          "O frete é calculado pelo CEP, no checkout, por Sedex, Loggi ou Jadlog. Pela política de frete, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento.",
           "A troca de modelo, tamanho ou cor e a devolução por arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido."
         ],
         "image": {
@@ -131997,7 +132036,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que o site mostra hoje",
         "paragraphs": [
           "A faixa do topo e o carrossel da home da Toda Up anunciavam a \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site. O \"até 20%\" é a frase da faixa; o percentual que entra no seu carrinho depende das faixas abaixo.",
-          "A loja não publicou quando a campanha começou nem quando termina. A Black Friday do calendário cai na sexta, 27/11/2026. Se a Black Antecipada segue até lá, ou se a loja troca a regra em novembro, o site não diz. Por isso, todo número deste guia é de uma leitura só do site.",
+          "A loja não publicou quando a campanha começou nem quando termina. A Black Friday do calendário cai na sexta, 27/11/2026. Se a Black Antecipada segue até lá, ou se a loja troca a regra em novembro, o site não diz. Confira o desconto no seu carrinho antes de pagar.",
           "O desconto da campanha é progressivo e entra sozinho no carrinho, sem código, pelo subtotal dos produtos:"
         ],
         "comparisonTable": {
@@ -132040,7 +132079,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Três carrinhos para comparar",
         "paragraphs": [
-          "Os três carrinhos usam o Sutiã Comfort Up (R$ 170,91) e o Sutiã Comfort Line (R$ 189,90). Os carrinhos A e B são os do teste no carrinho, com os números que a tela mostrou. O carrinho C é conta nossa, com a regra da faixa de 20% e os preços das coleções públicas; não foi montado no site."
+          "O que pesa nos carrinhos é o subtotal: abaixo de R$ 299 só o cupom tira, acima entra a progressiva. Os carrinhos A e B são os do teste no carrinho, com os números que a tela mostrou. O carrinho C é conta nossa, com a regra da faixa de 20% e os preços das coleções públicas; não foi montado no site."
         ],
         "comparisonTable": {
           "headers": [
@@ -132245,7 +132284,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "O perfil \"Toda Up\" no Reclame Aqui, com o mesmo CNPJ do rodapé do site, tinha selo RA1000 e nota 8,5 nos 6 meses de 01/04 a 30/09/2026. Os números completos, com o que muda entre os períodos, estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
+          "Para decidir pela confiança: o perfil \"Toda Up\" no Reclame Aqui, com o mesmo CNPJ do rodapé do site, tinha selo RA1000 e nota 8,5. Os números por período estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -132329,7 +132368,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é a Fita Up",
         "paragraphs": [
           "Fita Up é o nome da fita adesiva e era o nome da marca, que agora se chama Toda Up. A loja diz que a mudança foi de nome e visual e que o produto continua no catálogo. Quem quer saber se é a mesma empresa encontra a resposta em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
-          "A página do produto a descreve como uma fita adesiva para seios que levanta, modela e mantém tudo no lugar sem sutiã, ajustável conforme a roupa ou o decote. Segundo a Toda Up, a composição é 98,5% poliéster e 1,5% elastano, com adesivo acrílico à base de água, e a marca fala em duração de até 12 horas no corpo e em cola hipoalergênica, resistente à água e ao suor.",
+          "A página do produto a descreve como uma fita adesiva para seios que levanta, modela e mantém tudo no lugar sem sutiã, ajustável conforme a roupa ou o decote. Na página, a composição é 98,5% poliéster e 1,5% elastano, com adesivo acrílico à base de água, e a marca fala em duração de até 12 horas no corpo e em cola hipoalergênica, resistente à água e ao suor.",
           "Em 26/10/2026, a Fita Up custava R$ 119,90 (de R$ 179,90), nas cores Bege, Marrom e Preto e nas larguras P, M e G. Na mesma data, a página oferecia o kit \"Leve 2 com 20% OFF + brinde\" por R$ 191,84."
         ],
         "image": {
@@ -132412,7 +132451,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como tirar e os cuidados que a marca publica",
         "paragraphs": [
-          "Para remover, a Toda Up orienta passar hidratante ou óleo corporal sobre a fita e puxar devagar, pelas laterais. A marca também sugere um pré-teste com um pedaço pequeno. Fora isso, nos textos da página, não há outros cuidados com a pele."
+          "Para remover, a Toda Up orienta passar hidratante ou óleo corporal sobre a fita e puxar devagar, pelas laterais. A marca também sugere um pré-teste com um pedaço pequeno antes de colar."
         ]
       },
       {
@@ -132424,7 +132463,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando escolher outro",
         "paragraphs": [
-          "A Toda Up vende a Fita Up na categoria Adesivos, ao lado de outros dois que aparecem na mesma compra.",
+          "A escolha entre os três adesivos é de formato: fita que se corta, peça pronta ou só protetor.",
           "O [Protetor de Silicone Ultrafino](/reviews/protetor-de-silicone-mamilo-como-usar) (R$ 69,90, de R$ 99,90) é o protetor de silicone da mesma categoria Adesivos. Ele não substitui a fita: o passo a passo da Toda Up começa por um protetor de mamilo.",
           "O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) (R$ 149,90, de R$ 159,90) é o outro adesivo da categoria: uma peça de silicone pronta, no lugar da fita que se corta."
         ]
@@ -132570,7 +132609,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O 42 e o 44 aparecem em duas faixas. Se o seu busto cair numa delas, a página do produto é a referência."
+          "O 42 e o 44 aparecem em duas faixas. Se o busto cair no 42 ou no 44, confira a medida exata no guia."
         ]
       },
       {
@@ -132600,7 +132639,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como lavar e guardar",
         "paragraphs": [
-          "Pela orientação da Toda Up, o sutiã se lava com água e sabão neutro e seca ao natural, sempre que houver sujeira. Guardado como indica a embalagem, ele dura mais, segundo a marca.",
+          "Pela orientação da Toda Up, o sutiã se lava com água e sabão neutro e seca ao natural, sempre que houver sujeira. Guardado como indica a embalagem, ele dura mais.",
           "A marca não diz quantas vezes ele pode ser usado. Entre os três adesivos, só o protetor de silicone traz número de usos."
         ]
       },
@@ -132746,7 +132785,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o protetor de silicone",
         "paragraphs": [
-          "O Protetor de Silicone Ultrafino da Toda Up é um adesivo de silicone para roupa, não o protetor de mamilo de amamentação: vai na pele, por baixo da roupa. A marca o indica para o seio não marcar no tecido, sem sutiã e sem alças, em tecidos finos, blusas brancas e vestidos justos. A página o apresenta como ultrafino, hipoalergênico e reutilizável e, segundo o FAQ da loja, a composição é 100% silicone.",
+          "O Protetor de Silicone Ultrafino da Toda Up é um adesivo de silicone para roupa, não o protetor de mamilo de amamentação: vai na pele, por baixo da roupa. A marca o indica para o seio não marcar no tecido, sem sutiã e sem alças, em tecidos finos, blusas brancas e vestidos justos. A página o apresenta como ultrafino, hipoalergênico e reutilizável e o FAQ da loja dá a composição: 100% silicone.",
           "Em 27/10/2026, o protetor custava R$ 69,90 (de R$ 99,90) no site da Toda Up, nas cores Creme, Caramelo e Avelã e nos tamanhos P, M e G. Os três tamanhos estavam disponíveis nessa data."
         ],
         "image": {
@@ -132760,7 +132799,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual tamanho: 8, 10 ou 12 cm",
         "paragraphs": [
-          "As variantes da página chamam os tamanhos de P, M e G; o FAQ da loja chama de regular, médio e extra largo e dá a medida em centímetros pelo número do sutiã. O quadro abaixo junta as duas formas:"
+          "Para escolher, o número do seu sutiã decide: o quadro junta o tamanho da página e a medida do FAQ."
         ],
         "comparisonTable": {
           "headers": [
@@ -132787,7 +132826,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O guia é da Toda Up e pode mudar. Os números 46 e 50 aparecem em duas faixas; na dúvida entre dois tamanhos, a página do produto é a referência."
+          "O guia é da Toda Up e pode mudar. Os números 46 e 50 aparecem em duas faixas; na dúvida entre dois tamanhos, confira o seu número exato no guia."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-tamanhos-2710.webp",
@@ -132800,13 +132839,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como colocar: o que a marca publica",
         "paragraphs": [
-          "A página do protetor não publica um passo a passo de aplicação; a ordem que a Toda Up descreve está no [passo a passo da Fita Up](/reviews/fita-up-como-usar), em que o protetor vai na pele antes da fita."
+          "O protetor vai na pele antes da fita, pela ordem que a Toda Up descreve no [passo a passo da Fita Up](/reviews/fita-up-como-usar)."
         ]
       },
       {
         "heading": "Quantas vezes dá para usar",
         "paragraphs": [
-          "A Toda Up diz que o protetor pode ser reutilizado por até 30 vezes, com a lavagem que a página descreve, resumida na seção seguinte. A página não publica uma frequência de uso nem em quanto tempo esses usos acontecem."
+          "A Toda Up diz que o protetor pode ser reutilizado por até 30 vezes, com a lavagem que a página descreve, resumida na seção seguinte."
         ]
       },
       {
@@ -132825,7 +132864,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando escolher outro",
         "paragraphs": [
-          "A Toda Up vende o protetor na categoria Adesivos, ao lado da Fita Up e do Sutiã de Silicone Invisível. A comparação entre os três adesivos, com o que cada um faz pela ficha da marca, está em [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar)."
+          "A Toda Up vende o protetor na categoria Adesivos, ao lado da Fita Up e do Sutiã de Silicone Invisível. A comparação entre os três adesivos, com o que cada um faz, está em [sutiã de silicone invisível](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ]
       },
       {
@@ -132909,7 +132948,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como lemos o rótulo: porção, kcal e preço por 100 g de proteína",
         "paragraphs": [
-          "A Black Skull vende dois hipercalóricos no site: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem na ficha, e a ficha não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Ninguém do site usou os produtos. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
+          "A Black Skull vende dois hipercalóricos no site: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem, e a loja não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
           "O preço do pote engana, porque a porção e a proteína de cada um são diferentes: 160 g no Masstodon, 260 g no Monstrous. Por isso a régua do artigo é por 100 g do pó, por 100 g de proteína e por 1.000 kcal."
         ],
         "bullets": [
@@ -133015,7 +133054,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Masstodon Refil 3 kg: o que o rótulo diz",
         "paragraphs": [
-          "O [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p) custava R$ 129,90, nos quatro sabores, todos com estoque. É uma embalagem refil, e a ficha avisa que não acompanha medidor. O que o rótulo e a ficha mostram:"
+          "O [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p) custava R$ 129,90, nos quatro sabores, todos com estoque. É uma embalagem refil, e a página avisa que não acompanha medidor. O que a página mostra:"
         ],
         "bullets": [
           "Porção de 160 g, 18 porções por embalagem (aprox.).",
@@ -133032,7 +133071,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Monstrous 2,7 kg: o que o rótulo diz",
         "paragraphs": [
-          "O [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p) custava R$ 349,90. O seletor da ficha mostra três sabores: chocolate, morango e baunilha, e o morango estava esgotado nessa data. A descrição da ficha fala em \"1000 calorias por porção\"; o texto usa o rótulo, que diz 981 kcal por 260 g. O que o rótulo e a ficha mostram:"
+          "O [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p) custava R$ 349,90. A página mostra três sabores no seletor: chocolate, morango e baunilha, e o morango estava esgotado nessa data. A descrição fala em \"1000 calorias por porção\"; o texto usa o rótulo, que diz 981 kcal por 260 g. O que a página mostra:"
         ],
         "bullets": [
           "Porção de 260 g, 10 porções por embalagem. A conta por 100 g usa os 2,7 kg do nome do produto; 10 porções de 260 g dão 2.600 g, e a tabela não traz o peso líquido.",
@@ -133049,7 +133088,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sabor: o que a loja mostra e o quadro por sabor",
         "paragraphs": [
-          "A Black Skull não publica venda por sabor, e ninguém do site provou nenhum deles. O que o site mostra é a lista de sabores de cada produto e quais têm estoque. Sabor é escolha sua. O quadro traz os sete sabores do catálogo, com o preço do dia e a conta do artigo; a tabela nutricional é a mesma dentro de cada produto, então o número não muda de um sabor para o outro."
+          "A Black Skull não publica venda por sabor. O que o site mostra é a lista de sabores de cada produto e quais têm estoque. Sabor é escolha sua. O quadro traz os sete sabores do catálogo, com o preço do dia e a conta do artigo; a tabela nutricional é a mesma dentro de cada produto, então o número não muda de um sabor para o outro."
         ],
         "comparisonTable": {
           "headers": [
@@ -133202,7 +133241,9 @@ export const reviewsData: unknown[] = [
           "caption": "Quadro nosso com o rótulo e o preço; em amarelo, quem leva vantagem em cada linha.",
           "objectFit": "contain",
           "aspectRatio": 1.4423
-        }
+        },
+        "emphasis": "Pelos números da tabela, para quem quer pagar menos por proteína a escolha é o Masstodon, porque custa menos por 100 g de proteína e por 1.000 kcal.",
+        "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
@@ -133214,7 +133255,18 @@ export const reviewsData: unknown[] = [
           "Quais sabores do Monstrous estão à venda? O seletor da ficha mostra chocolate, morango e baunilha; o morango estava esgotado. O Masstodon tem baunilha, morango, chocolate e banana, todos com estoque na mesma data."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quem escolhe pelo menor custo da proteína e da caloria: o Masstodon, com mais carboidrato por grama de proteína.",
+        "Quem quer mais proteína em 100 g do pó, com menos carboidrato por grama de proteína: o Monstrous."
+      ],
+      "skipIf": [
+        "Quem evita lactose: os dois declaram \"Contém lactose\" no rótulo.",
+        "Quem precisa do pote mais barato fica longe do Monstrous, que custa 2,7 vezes o preço do Masstodon.",
+        "Quem tem condição de saúde, está grávida ou tem objetivo específico: falar com nutricionista ou médico antes de comprar."
+      ]
+    }
   },
   {
     "id": 624,
@@ -133441,7 +133493,7 @@ export const reviewsData: unknown[] = [
           "Só no Mercado Livre: o whey de 900 g abaixo do site com o cupom, com preço que muda por sabor e por anúncio."
         ],
         "postParagraphs": [
-          "A loja oficial no Mercado Livre tinha 70 anúncios, e lemos os 47 da primeira página. O que não achamos nos dois lados no mesmo tamanho ficou fora da tabela."
+          "O que não achamos nos dois lados no mesmo tamanho ficou fora da tabela."
         ]
       },
       {
@@ -133461,14 +133513,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher",
         "bullets": [
-          "Quer só o Whey 100% HD de 900 g ou o Refil de 900 g: compare com o Mercado Livre, que saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, conforme o sabor.",
+          "Quer só o Whey 100% HD de 900 g ou o Refil de 900 g: Mercado Livre, que saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, conforme o sabor.",
           "Quer o whey de 1,8 kg, a linha Gourmet, as creatinas, os pré-treinos, o Thermo Flame ou o Kit 2 Whey Turbo: site com o CECILIA10, de R$ 3,49 a R$ 40,27 mais barato por produto.",
           "Quer frete grátis no site: monte um carrinho acima de R$ 199,90 depois do cupom (Sul e Sudeste).",
           "Quer a política de troca da própria loja: site."
         ],
         "postParagraphs": [
           "O preço do Mercado Livre muda por sabor e por anúncio, e de um dia para o outro. O do site muda menos, e o cupom tira 10% de qualquer preço. Confira os dois antes de pagar."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para a maioria dos produtos a escolha é o site com o cupom, porque ele ficou abaixo do Mercado Livre em 13 das 15 comparações."
       },
       {
         "heading": "Perguntas frequentes",
@@ -133480,7 +133533,17 @@ export const reviewsData: unknown[] = [
           "Quanto custa o whey da Black Skull no Mercado Livre? O Whey 100% HD de 900 g ia de R$ 121,90 a R$ 149,90 na loja oficial, conforme o sabor. No site, R$ 169,90, ou R$ 152,91 com o cupom."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quem leva whey de 1,8 kg, linha Gourmet, creatina, pré-treino, Thermo Flame ou Kit 2 Whey Turbo: o site com o cupom, que saiu mais barato nesses produtos.",
+        "Quem quer a política de troca da própria loja: o site."
+      ],
+      "skipIf": [
+        "Quem quer só o Whey 100% HD de 900 g ou o Refil de 900 g: o Mercado Livre saía mais barato que o site com o cupom.",
+        "Quem leva um item só: ele pode ficar abaixo do limite de frete grátis do site e pagar frete."
+      ]
+    }
   },
   {
     "id": 625,
@@ -133660,7 +133723,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Feminino: preço no site e no Mercado Livre",
         "paragraphs": [
-          "O mesmo critério da tabela masculina: preço no cartão nos dois lados e, na última coluna, onde a peça sai mais barata com o cupom."
+          "Nas peças femininas, a última coluna também diz onde cada uma sai mais barata com o cupom."
         ],
         "comparisonTable": {
           "headers": [
@@ -133784,7 +133847,8 @@ export const reviewsData: unknown[] = [
             "href": "https://meli.la/12dWwH8",
             "sponsored": true
           }
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para a maioria das peças a escolha é o site com o cupom, porque ele fica mais barato em 13 das 17 peças."
       },
       {
         "heading": "Perguntas frequentes",
@@ -133796,7 +133860,18 @@ export const reviewsData: unknown[] = [
           "A loja do Mercado Livre é oficial? O botão deste texto leva à loja oficial da Insider no Mercado Livre. Confira o nome do vendedor no anúncio antes de pagar."
         ]
       }
-    ]
+    ],
+    "decision": {
+      "takeIf": [
+        "Quem leva Tech, Core, Heavy, Perfect Top, Polo, Sportee, cuecas ou undershirt: o site com o cupom.",
+        "Quem leva o Sutiã Comfy: o site, mesmo sem cupom."
+      ],
+      "skipIf": [
+        "Quem leva a Daily ou a Light: o Mercado Livre, porque a Daily não aceita o cupom no site e a Light só existe lá.",
+        "Quem leva a Meia Spectrum Mid: os preços empatam, compare os dois no dia da compra.",
+        "Quem leva uma peça só: ela paga frete no site, que só dá frete grátis em compras maiores."
+      ]
+    }
   },
   {
     "id": 626,
@@ -133835,6 +133910,16 @@ export const reviewsData: unknown[] = [
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
     "editorialNote": "Preços lidos na loja oficial da Nestlé Nutre. Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom CECI.",
+    "decision": {
+      "takeIf": [
+        "Leve o kit de 740 g se compra duas latas e quer o menor preço por grama.",
+        "Assine se já sabe que vai repetir a compra."
+      ],
+      "skipIf": [
+        "Passe o combo: pelos preços lidos, o kit do mesmo produto sai mais barato.",
+        "Passe a lata de 370 g se o preço por grama pesa mais que a menor entrada."
+      ]
+    },
     "relatedArticles": [
       {
         "slug": "black-friday-nestle-nutre",
@@ -133922,16 +134007,16 @@ export const reviewsData: unknown[] = [
           "Duas latas de 740 g avulsas, em compra única, somam R$ 338,74. O kit custa R$ 263,49: 22% a menos.",
           "A lata de 740 g é a opção de quem quer uma lata só. Por 100 g, custa R$ 22,89.",
           "A lata de 370 g tem a menor entrada, R$ 100,79, mas o maior preço por grama entre as formas padrão da Nutren Senior.",
-          "O kit também existe em Baunilha, por R$ 263,49. Não lemos preço por sabor das outras latas.",
+          "O kit também existe em Baunilha, por R$ 263,49.",
           "O calendário e as condições da campanha estão na [Black Friday da Nestlé Nutre](/reviews/black-friday-nestle-nutre)."
         ]
       },
       {
         "heading": "Assinatura",
         "paragraphs": [
-          "Na página, a assinatura vem com esta frase: \"Cancele quando quiser, sem custo. A assinatura renova automaticamente, mas você pode pular até 2 entregas por ano.\"",
+          "A assinatura cancela quando quiser, sem custo, e renova sozinha, com até 2 entregas puladas por ano.",
           "Na lata de 740 g, a assinatura sai R$ 150,55 contra R$ 169,37 na compra única: 11% de desconto sobre a compra única. A página anuncia economize 20%, contando a partir do preço riscado. No kit, o desconto da assinatura é de 10%: R$ 237,14 contra R$ 263,49.",
-          "Segundo a loja, o frete é grátis na compra única acima de R$ 400 e na assinatura acima de R$ 200. A assinatura só aceita cartão de crédito. Com o kit, a compra única (R$ 263,49) fica abaixo de R$ 400, e a assinatura (R$ 237,14) passa de R$ 200."
+          "O frete é grátis na compra única acima de R$ 400 e na assinatura acima de R$ 200, diz a página. A assinatura só aceita cartão de crédito. Com o kit, a compra única (R$ 263,49) fica abaixo de R$ 400, e a assinatura (R$ 237,14) passa de R$ 200."
         ]
       },
       {
@@ -133965,7 +134050,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na leitura dos preços, não apareceu assinatura para a Zero Lactose. A ficha do produto está em [ficha do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+          "Para a Zero Lactose, a tabela traz só a compra única. O detalhe do produto está em [ficha do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
         ],
         "image": {
           "src": "/images/reviews/nutren/nutren-senior-hero.webp",
@@ -133978,7 +134063,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Premium Baunilha",
         "paragraphs": [
-          "A Nutren Senior Premium Baunilha vem em lata de 370 g: R$ 145,25 na compra única e R$ 129,11 na assinatura. Por 100 g, é a forma mais cara da tabela, com R$ 39,26 na compra única. O combo de duas unidades custa R$ 274,36 na compra única, ou R$ 137,18 por lata."
+          "Por 100 g, a Premium Baunilha é a forma mais cara da tabela. A lata de 370 g sai a R$ 145,25 na compra única e R$ 129,11 na assinatura. O combo de duas unidades custa R$ 274,36 na compra única, ou R$ 137,18 por lata."
         ]
       },
       {
@@ -133986,14 +134071,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI) dá 10% na loja oficial. Não testamos o CECI com o kit nem com a assinatura, então confira no carrinho antes de pagar.",
           "O CECI não vale em Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses.",
-          "O passo a passo para usar o cupom está em [como usar o cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar).",
-          "A loja também tem um programa de cupom mensal, com cadastro. Ele fica fora desta comparação."
+          "O passo a passo para usar o cupom está em [como usar o cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
         ]
       },
       {
         "heading": "Qual comprar",
+        "emphasis": "Pelos números da tabela, para o perfil estoque de duas latas a escolha é o kit de 740 g, porque sai a R$ 17,80 por 100 g, o menor valor.",
         "paragraphs": [
-          "Para quem compra duas latas e quer o menor preço por grama, o kit de 740 g é a escolha, na compra única ou na assinatura. Para testar, a lata de 370 g é a entrada mais barata. Se você já sabe que vai repetir a compra, a assinatura compensa em todas as formas que a têm."
+          "Para testar, a lata de 370 g é a entrada mais barata. Se você já sabe que vai repetir a compra, a assinatura compensa em todas as formas que a têm."
         ],
         "bullets": [
           "Quer testar antes: lata de 370 g, R$ 100,79 (R$ 90,71 na assinatura).",
@@ -134051,6 +134136,16 @@ export const reviewsData: unknown[] = [
     "coupon": "MAUAD",
     "affiliate": "belive",
     "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os cookies.",
+    "decision": {
+      "takeIf": [
+        "Leve o de castanhas e chocolate se quer mais proteína por 30 g.",
+        "Leve o de chocolate se quer menos calorias por 30 g."
+      ],
+      "skipIf": [
+        "Passe os quatro se evita ovo ou castanhas, porque todos trazem os dois.",
+        "Passe a linha Sem Lactose se procura zero açúcar: ela traz açúcar adicionado."
+      ]
+    },
     "relatedArticles": [
       {
         "slug": "brownie-sem-acucar-belive",
@@ -134075,7 +134170,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os quatro cookies sem açúcar",
         "paragraphs": [
-          "A Belive vende quatro cookies sem açúcar: chocolate, baunilha com chocolate, chocolate com avelã e castanhas com chocolate. A comparação é por 100 g. O peso vem do pacote nas fotos oficiais da loja: 67 g, com 4 unidades, no de chocolate, no de baunilha com chocolate e no de castanhas, embora a ficha dos dois primeiros diga 79 g. O de chocolate com avelã não tem foto do pacote na loja, e vale o peso da ficha, 79 g."
+          "A comparação é por 100 g, e o peso do pacote muda a conta. O peso vem do pacote nas fotos oficiais da loja: 67 g, com 4 unidades, no de chocolate, no de baunilha com chocolate e no de castanhas, embora a ficha dos dois primeiros diga 79 g. No de avelã, vale o peso da ficha, 79 g; confira a embalagem."
         ],
         "comparisonTable": {
           "headers": [
@@ -134141,7 +134236,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto sai cada um",
         "paragraphs": [
-          "Preços lidos na ficha da loja em 28/10/2026, no cartão. Cada pacote custa R$ 8,97, nos quatro sabores. O kit de 10 de cada sabor custa R$ 83,42 no cartão: a ficha mostra R$ 89,70 riscado, e no Pix o kit fica em R$ 79,25. A página do kit não informa quantos pacotes vêm, então este texto não calcula preço por unidade.",
+          "Cada pacote custa R$ 8,97 nos quatro sabores, no cartão, em 28/10/2026. O kit de 10 de cada sabor custa R$ 83,42 no cartão: a ficha mostra R$ 89,70 riscado, e no Pix o kit fica em R$ 79,25. A página do kit não informa quantos pacotes vêm; confira antes de comprar.",
           "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços podem mudar; confira o total no carrinho."
         ]
       },
@@ -134266,14 +134361,12 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Pelos números da tabela, para o perfil mais proteína a escolha é o de castanhas e chocolate, porque tem 1,9 g por 30 g; para o perfil menos calorias, o de chocolate, com 108 kcal.",
         "bullets": [
           "Quer mais proteína: o de castanhas e chocolate, com 1,9 g por 30 g. Os outros três têm 1,4 g.",
           "Quer menos calorias por 30 g: o de chocolate, com 108 kcal. O de castanhas é o mais calórico, com 122 kcal.",
           "Quer o menor preço por 100 g: o de chocolate com avelã, R$ 11,35 pelo peso da ficha (79 g). Os outros três, de 67 g, saem a R$ 13,39.",
           "Evita castanhas ou ovo: nenhum dos quatro serve, porque todos trazem os dois."
-        ],
-        "postParagraphs": [
-          "Como o pacote custa o mesmo nos quatro, a escolha fica entre proteína (castanhas e chocolate) e calorias (chocolate)."
         ]
       },
       {
@@ -134323,7 +134416,17 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "MAUAD",
     "affiliate": "belive",
-    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os snacks.",
+    "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os snacks, e a declaração de leite e lactose é da loja, não um teste nosso.",
+    "decision": {
+      "takeIf": [
+        "Leve o proteico se procura mais proteína por pacote.",
+        "Leve o de arroz se quer menor preço por pacote e menos sódio."
+      ],
+      "skipIf": [
+        "Passe os oito se evita soja: todos trazem derivados de soja.",
+        "Passe o combo se espera um desconto grande: ele economiza só de 6% a 8% sobre o pacote avulso."
+      ]
+    },
     "relatedArticles": [
       {
         "slug": "cupom-belive-como-usar",
@@ -134348,7 +134451,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os oito sabores e o preço",
         "paragraphs": [
-          "Preços de cartão no site da Belive em 28/10/2026, para o pacote de 35 g. Os quatro sabores proteicos vêm primeiro, depois os quatro de arroz."
+          "No cartão em 28/10/2026, o proteico de 35 g sai a R$ 7,97 e o de arroz a R$ 5,19."
         ],
         "comparisonTable": {
           "headers": [
@@ -134437,7 +134540,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, o proteico sai por R$ 7,57 e o de arroz por R$ 4,93. O [cupom MAUAD da Belive](/cupons/belive) tira mais 10% e soma com o desconto do Pix. A faixa do site anuncia \"Black November, até 30%\", então confira o preço antes de pagar.",
-          "A Belive tem outras linhas de salgadinho, o Com Vitaminas e o GoodSoy, ambos de 25 g; ficaram fora desta tabela."
+          "A Belive também tem o Com Vitaminas e o GoodSoy, de 25 g."
         ],
         "image": {
           "src": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp",
@@ -134450,7 +134553,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por grama de proteína",
         "paragraphs": [
-          "A conta divide o preço do pacote pela proteína declarada no rótulo, sempre por 35 g:"
+          "O proteico sai bem mais barato por grama de proteína:"
         ],
         "bullets": [
           "Proteico (10 g por pacote): R$ 7,97 ÷ 10 = R$ 0,80 por grama de proteína.",
@@ -134488,8 +134591,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A proteína do snack proteico é proteína isolada de soja. Não é whey. Além dela, a base tem farinha de milho, óleo vegetal de palma e soja, extrato de levedura e aromatizante. No sabor Barbecue, o aromatizante vem descrito como aroma natural. No Cebola e Salsa, a lista acrescenta sal light, cebola tostada em pó e salsa.",
           "Os snacks de arroz partem de um mix de farinha de arroz, lentilha e quinoa (no queijo), com óleo vegetal de palma e soja e extrato de levedura. O queijo leva sal light, aromatizante e corante natural de urucum. A pizza segue a mesma base do queijo; o churrasco é igual, sem o sal light. O Cebola e Salsa soma cebola tostada e salsa à base.",
-          "Os oito contêm derivados de soja, segundo a tabela de alergênicos da loja. A loja informa que todos são sem glúten.",
-          "Sobre leite e lactose, a loja declara que os snacks proteicos são sem leite e sem lactose, e a lista de ingredientes não traz leite. No arroz, a loja diz sem leite e sem lactose também. É a declaração da loja, não um teste nosso.",
+          "A tabela de alergênicos da loja marca derivados de soja nos oito. A loja informa que todos são sem glúten.",
+          "Sobre leite e lactose, a loja declara que os snacks proteicos são sem leite e sem lactose, e a lista de ingredientes não traz leite. No arroz, a loja diz sem leite e sem lactose também.",
           "Na tabela de alergênicos, só a soja aparece marcada. As demais colunas, como ovo, amendoim e castanhas, ficaram em branco, e nenhum snack traz a marcação de \"pode conter\"."
         ]
       },
@@ -134506,10 +134609,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual compensa",
+        "emphasis": "Pelos números da tabela, para o perfil proteína a escolha é o proteico, porque traz 10 g por pacote a R$ 0,80 por grama de proteína.",
         "paragraphs": [
-          "Se o critério é proteína, leve o proteico: 10 g por pacote e menos da metade do custo por grama de proteína do arroz.",
           "Se o critério é preço por pacote e sódio, leve o de arroz: R$ 2,78 a menos por pacote e, em média, menos sódio.",
-          "Dentro de cada linha, o sabor é com você. Ninguém da equipe provou os snacks, então este texto não fala de gosto. A escolha se faz pelos números da tabela e pelo que você quer comer."
+          "Dentro de cada linha, o sabor é com você. A escolha se faz pelos números da tabela e pelo que você quer comer."
         ]
       },
       {
@@ -134584,7 +134687,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o rótulo kids declara",
         "paragraphs": [
-          "O rótulo do Bolinho para Criança sabor brigadeiro com cobertura, de 45 g (uma unidade), aparece como imagem na ficha da loja. Nele, a unidade tem 157 kcal, 20 g de carboidratos, 0,5 g de açúcares totais e 0 g de açúcares adicionados. A gordura saturada é de 5,6 g, 28% do valor diário, e a fibra alimentar, de 3,7 g, 15%. Por 100 g, a tabela dá 350 kcal."
+          "O rótulo do Bolinho para Criança sabor brigadeiro com cobertura, de 45 g (uma unidade), aparece como imagem na página da loja. Nele, a unidade tem 157 kcal, 20 g de carboidratos, 0,5 g de açúcares totais e 0 g de açúcares adicionados. A gordura saturada é de 5,6 g, 28% do valor diário, e a fibra alimentar, de 3,7 g, 15%. Por 100 g, a tabela dá 350 kcal."
         ],
         "image": {
           "src": "/images/reviews/belive/bolinho-kids-belive-tabelas-2810.webp",
@@ -134681,19 +134784,19 @@ export const reviewsData: unknown[] = [
         "heading": "Adoçantes e ingredientes",
         "paragraphs": [
           "A lista de ingredientes do kids de brigadeiro traz maltitol e glicosídeos de esteviol como edulcorantes, e sorbitol e glicerol como umectantes. O adulto de chocolate traz a mesma combinação.",
-          "A descrição da ficha destaca a stévia, mas a lista traz também maltitol e sorbitol. Este texto segue a lista."
+          "A descrição da página destaca a stévia, mas a lista traz também maltitol e sorbitol."
         ]
       },
       {
         "heading": "Alergênicos",
         "paragraphs": [
-          "A linha de alergênicos da loja marca ovo e soja para o bolinho kids de brigadeiro. A ficha e a lista de ingredientes dizem que não contém glúten, e a lista não traz leite, nem a tabela de alergênicos marca leite. Quem tem alergia a ovo ou soja deve conferir a embalagem."
+          "A linha de alergênicos da loja marca ovo e soja para o bolinho kids de brigadeiro. A página e a lista de ingredientes dizem que não contém glúten, e a lista não traz leite, nem a tabela de alergênicos marca leite. Quem tem alergia a ovo ou soja deve conferir a embalagem."
         ]
       },
       {
         "heading": "Preço por unidade e nos kits",
         "paragraphs": [
-          "Os preços abaixo são os de cartão, lidos nas fichas dos produtos no site da Belive em 28/10/2026."
+          "Os preços abaixo são os de cartão, lidos nas páginas dos produtos no site da Belive em 28/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -134735,9 +134838,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O sabor morango de 45 g também custa R$ 6,97, e o kit de 10 morango tem o mesmo preço do kit de brigadeiro; a tabela do morango não entra neste texto. O bolinho adulto Special de chocolate, com cobertura e 45 g, também custa R$ 6,97.",
-          "No Pix, a ficha mostra R$ 6,62 para a unidade de 45 g, R$ 61,58 para o kit de 10 e R$ 118,66 para o kit de 25. O cupom MAUAD dá mais 10% no site da Belive e soma com o desconto do Pix. O passo a passo está em [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições do mês, na [página do cupom](/cupons/belive).",
-          "A loja anuncia \"Black November, até 30%\" na página inicial. Não lemos se esse desconto vale para estes bolinhos, e o preço pode mudar antes da sua compra."
+          "O sabor morango de 45 g também custa R$ 6,97, e o kit de 10 morango tem o mesmo preço. O bolinho adulto Special de chocolate, com cobertura e 45 g, também custa R$ 6,97.",
+          "No Pix, a página mostra R$ 6,62 para a unidade de 45 g, R$ 61,58 para o kit de 10 e R$ 118,66 para o kit de 25. O cupom MAUAD dá mais 10% no site da Belive e soma com o desconto do Pix. O passo a passo está em [como usar o cupom da Belive](/reviews/cupom-belive-como-usar), e as condições do mês, na [página do cupom](/cupons/belive).",
+          "A loja anuncia \"Black November, até 30%\" na página inicial. Confira se o desconto vale para estes bolinhos antes de comprar."
         ],
         "image": {
           "src": "/images/reviews/belive/bolinho-kids-belive-fotos-2810.webp",
@@ -134751,7 +134854,7 @@ export const reviewsData: unknown[] = [
         "heading": "O Kit Lanche Escolar não tem bolinho kids",
         "paragraphs": [
           "O Kit Lanche Escolar Bolinho Sem Açúcar Sem Glúten Sem Leite, com 25 unidades e 1 kg, é vendido como kit de lanche escolar, mas não traz nenhum bolinho kids. Os 25 são da linha adulta, de 40 g: 10 de chocolate, 5 de laranja com gotas de chocolate, 5 de baunilha com gotas de chocolate, 3 de coco com gotas de chocolate e 2 de banana com canela e chia.",
-          "O kit custa R$ 124,90 no cartão, ou R$ 4,99 por unidade, menos que o kids de 45 g, mas é outro produto, com outro peso e outra tabela. A única tabela de 40 g que lemos é a do chocolate adulto, e ela não representa os outros sabores. Quem procura o kids precisa da unidade de 45 g ou do kit de 10."
+          "O kit custa R$ 124,90 no cartão, ou R$ 4,99 por unidade, menos que o kids de 45 g, mas é outro produto, com outro peso e outra tabela. A tabela do chocolate adulto não representa os outros sabores. Quem procura o kids precisa da unidade de 45 g ou do kit de 10."
         ],
         "image": {
           "src": "/images/reviews/belive/bolinho-kids-belive-kit-lanche-escolar-2810.webp",
@@ -134846,11 +134949,11 @@ export const reviewsData: unknown[] = [
           "Nas lojas de aplicativo, em 28/10/2026:"
         ],
         "bullets": [
-          "Google Play: nota 4,4, com 164 mil avaliações. A ficha traz a novidade \"Agora em português!\".",
+          "Google Play: nota 4,4, com 164 mil avaliações. A página traz a novidade \"Agora em português!\".",
           "App Store Brasil: nota 4,8, com 2,1 mil avaliações, versão 4.7.23."
         ],
         "postParagraphs": [
-          "O app roda em iOS e Android, segundo a central da loja. Na home, o app abre na vitrine de beleza coreana, com as abas Home, Shop, Bag, Saved e Account embaixo."
+          "Pela central da loja, o app roda em iOS e Android. Na home, o app abre na vitrine de beleza coreana, com as abas Home, Shop, Bag, Saved e Account embaixo."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-app-home-2810.webp",
@@ -134876,7 +134979,7 @@ export const reviewsData: unknown[] = [
         "heading": "Entrega: o Brasil continua fora",
         "paragraphs": [
           "A YesStyle continua sem entrega para o Brasil: conferimos no app. Comprar pelo app não muda isso.",
-          "Quem está em Portugal ou quer entender como anda a entrega encontra o detalhe em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal). Este guia não promete compra pelo app para o Brasil."
+          "Quem está em Portugal encontra o detalhe em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
         ]
       },
       {
@@ -134890,7 +134993,7 @@ export const reviewsData: unknown[] = [
           "No checkout, o app mostra o país de entrega, o frete e a linha \"Coupon or Influencer / Rewards Code\" antes do resumo do pedido."
         ],
         "postParagraphs": [
-          "O passo a passo do site, com o campo Reward Code na versão web, está em [Como usar o CECILIA010 na YesStyle](/reviews/codigo-cecilia010-yesstyle-como-usar). Aqui fica só o que é do app."
+          "O passo a passo do site está em [Como usar o CECILIA010 na YesStyle](/reviews/codigo-cecilia010-yesstyle-como-usar)."
         ]
       },
       {
@@ -134961,7 +135064,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o app não funcionar",
         "paragraphs": [
-          "O que a central da YesStyle confirma:"
+          "Confira estes três pontos:"
         ],
         "bullets": [
           "Baixe só pelos links oficiais da App Store e do Google Play.",
@@ -136933,13 +137036,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mega Promoção 11.11 da SHEIN vai até 12/11/2026, com até 85% off, segundo a loja. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino. Os preços, os descontos e os tamanhos de cada uma vêm da página da peça e podem mudar."
+          "A loja anuncia até 85% off na Mega Promoção 11.11, até 12/11/2026. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino. Os preços, os descontos e os tamanhos de cada uma vêm da página da peça e podem mudar."
         ]
       },
       {
         "heading": "A campanha 11.11",
         "paragraphs": [
-          "A Mega Promoção 11.11 da SHEIN já começou. Segundo a SHEIN, são até 85% off em mais de 600 mil produtos, e a loja puxa a campanha para o aplicativo.",
+          "A Mega Promoção 11.11 da SHEIN já começou. São até 85% off em mais de 600 mil produtos, diz a SHEIN, e a loja puxa a campanha para o aplicativo.",
           "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Nas 19 peças abaixo, a foto e o card abrem a página de cada uma dentro da campanha.",
           "O 4CW5Y é o código de indicação da SHEIN Brasil: ele se procura na busca do aplicativo e não se cola no checkout, porque não é cupom. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
         ]
@@ -137068,7 +137171,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,91 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a loja, é um conjunto de pijama floral com bolso e debrum contrastante, da linha Serenescape. Serve para quem quer um pijama de verão leve, de blusa e short."
+          "É um conjunto de pijama floral com bolso e debrum contrastante, da linha Serenescape, diz a página. Serve para quem quer um pijama de verão leve, de blusa e short."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-02-pijama-floral.webp",
@@ -137131,7 +137234,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,95 na loja, com mais de mil comentários, a maior da seleção."
         ],
         "paragraphs": [
-          "Na página da SHEIN, é um conjunto Dream Adore de 3 peças com estampa de cartoon e short com laço na cintura. Serve para quem quer o conjunto de 3 peças mais barato entre os pijamas da seleção."
+          "É um conjunto Dream Adore de 3 peças, com estampa de cartoon e short com laço na cintura, o mais barato entre os pijamas da seleção."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-04-pijama-3-pecas-cartoon.webp",
@@ -137166,7 +137269,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,88 na loja, com mais de mil comentários."
         ],
         "paragraphs": [
-          "Segundo a loja, é um conjunto de menina com regata estampada de coração e calça pantalona, da marca própria da SHEIN. Serve para quem quer um look completo de verão para a menina de 4 a 7 anos."
+          "É um conjunto de menina com regata estampada de coração e calça pantalona, da marca própria da SHEIN, diz a página. Serve para quem quer um look completo de verão para a menina de 4 a 7 anos."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-05-conjunto-menina-coracao.webp",
@@ -137203,7 +137306,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,36 na loja, com 83 comentários."
         ],
         "paragraphs": [
-          "Pela descrição da SHEIN, é um pijama de menino de 2 peças, com dinossauro de Natal que brilha no escuro e ajuste elástico. Serve para quem já quer o pijama das festas de fim de ano para o menino de 4 a 7 anos."
+          "É um pijama de menino de 2 peças, com dinossauro de Natal que brilha no escuro e ajuste elástico, diz a página. Serve para quem já quer o pijama das festas de fim de ano para o menino de 4 a 7 anos."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-06-pijama-menino-dinossauro.webp",
@@ -137269,7 +137372,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,09 na loja, com 62 comentários."
         ],
         "paragraphs": [
-          "Segundo a loja, é um pijama de menino de manga longa e calça comprida, com estampa inteira. O anúncio vende 1 conjunto, e a estampa (dinossauro, escavadeira ou avião) é escolhida pela loja, não por quem compra. Serve para quem aceita a estampa sorteada."
+          "É um pijama de menino de manga longa e calça comprida, com estampa inteira. O anúncio vende 1 conjunto, e a estampa (dinossauro, escavadeira ou avião) é escolhida pela loja, não por quem compra. Serve para quem aceita a estampa sorteada."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-08-pijama-menino-manga-longa.webp",
@@ -137485,7 +137588,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Scarpin slingback branco e caramelo",
               "url": "https://onelink.shein.com/58/66i80fpkgt8n?ismg_ol=8jJe9Ja3gt5_01_KOC-C",
-              "howTo": "Com calça de alfaiataria, jeans ou vestido; o salto bloco é mais firme, segundo a loja.",
+              "howTo": "Com calça de alfaiataria, jeans ou vestido; o salto bloco é mais firme, diz a página.",
               "occasion": "Trabalho e festa.",
               "pairsWith": [
                 {
@@ -145928,13 +146031,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Probiótica é uma marca do Grupo Supley, o mesmo da Max Titanium e da Dr. Peanut. A loja oficial é a probiotica.com.br. Quem fabrica, as trocas e a reputação da loja estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
           "O rodapé do site da Integralmédica diz que a loja é operada pela After Click, CNPJ 58.450.630/0001-48, de Extrema (MG). A BrasilAPI registra a razão social AFTERCLICK SERVICOS INTEGRADOS LTDA como ativa, aberta em 2024. O \"Sobre nós\" da Integralmédica diz que a marca tem mais de 40 anos de história e que o Grupo BRG reúne a Integralmédica, a Darkness e a Nutrify. A Probiótica não está entre elas.",
-          "Nas fontes oficiais, são empresas diferentes: a Probiótica não é da Integralmédica, e a Integralmédica não é da Probiótica. A leitura não achou o cadastro do Grupo BRG, então o texto não vai além do que as fontes dizem."
+          "Nas fontes oficiais, são empresas diferentes: a Probiótica não é da Integralmédica, e a Integralmédica não é da Probiótica."
         ]
       },
       {
         "heading": "Creatina: preço por 100 g de produto",
         "paragraphs": [
-          "A tabela compara as creatinas por 100 g de produto, nos tamanhos de 300 g das duas marcas, mais o pouch de 1 kg e o Hardcore de 500 g da Integralmédica. \"100% Pura\" é o nome do produto da Integralmédica, e \"Pura\" é parte do nome do produto da Probiótica: nenhum dos dois é selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, sem desconto de Pix. A Probiótica de 300 g aparecia com preço riscado de R$ 75,10, e o pouch de 1 kg da Integralmédica, de R$ 156,00."
+          "Por 100 g, a Integralmédica sai mais barata nos três tamanhos: R$ 16,67, R$ 16,60 e R$ 12,50, contra R$ 19,97 da Probiótica de 300 g. \"100% Pura\" é o nome do produto da Integralmédica, e \"Pura\" é parte do nome do produto da Probiótica: nenhum dos dois é selo de pureza, então o texto não usa a palavra como qualidade. Os preços são do site, sem desconto de Pix. A Probiótica de 300 g aparecia com preço riscado de R$ 75,10, e o pouch de 1 kg da Integralmédica, de R$ 156,00."
         ],
         "images": [
           {
@@ -146058,8 +146161,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o rótulo diz",
         "paragraphs": [
-          "A Creatina Monohidratada Pura de 300 g da Probiótica traz, na tabela nutricional, porção de 5 g (1 dosador), 5.000 mg de creatina e 60 porções por embalagem; a página diz que não contém lactose. O selo \"3.000 mg de creatina por dose\" que aparece na mesma página não bate com a tabela, e a conta usa a tabela. Na Integralmédica, a 100% Pura de 1 kg traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, segundo o site. O pouch da Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo lido.",
-          "No whey, a tabela do 100% Pure Whey Baunilha da Probiótica traz 20 g de proteína, 6,3 g de carboidratos e 2,1 g de gorduras totais em cada porção de 30 g, 124 kcal. Os pouches da Integralmédica trazem 21 g de proteína em cada porção de 30 g. A lista de ingredientes do pouch de 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. A lista de ingredientes do whey da Probiótica não foi lida nesta rodada, então o texto não compara edulcorantes."
+          "A Creatina Monohidratada Pura de 300 g da Probiótica traz, na tabela nutricional, porção de 5 g (1 dosador), 5.000 mg de creatina e 60 porções por embalagem; a página diz que não contém lactose. O selo \"3.000 mg de creatina por dose\" que aparece na mesma página não bate com a tabela, e a conta usa a tabela. Na Integralmédica, a 100% Pura de 1 kg traz porção de 5 g (5.000 mg), creatina monohidratada e não contém glúten, diz o site. O pouch da Hardcore traz a mesma porção de 5 g e pode conter leite, soja e ovo, segundo o rótulo lido.",
+          "No whey, a tabela do 100% Pure Whey Baunilha da Probiótica traz 20 g de proteína, 6,3 g de carboidratos e 2,1 g de gorduras totais em cada porção de 30 g, 124 kcal. Os pouches da Integralmédica trazem 21 g de proteína em cada porção de 30 g. A lista de ingredientes do pouch de 1,8 kg da Integralmédica cita proteína de soro do leite concentrada, aromatizante e edulcorante sucralose. Confira os edulcorantes na embalagem."
         ],
         "images": [
           {
@@ -146086,6 +146189,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Pelos números da tabela, para o perfil menor preço por grama a escolha é a Integralmédica, porque sai mais barata nas duas contas, no whey de 1,8 kg e no pouch de creatina de 1 kg; no whey de 900 g com o cupom no teto, o refil da Probiótica passa à frente.",
         "paragraphs": [
           "**Creatina: a Integralmédica, pelo preço.** O pouch de 1 kg sai por R$ 12,50 por 100 g no cartão, e a de 300 g, por R$ 16,67. A Probiótica de 300 g fica em R$ 19,97 no cartão e em R$ 17,97 com o PRO10EMCASACOMCECILIA no teto: acima da Integralmédica nos dois tamanhos.",
           "**Whey: depende do tamanho e do cupom.**"
@@ -146096,7 +146200,7 @@ export const reviewsData: unknown[] = [
           "O pote de 900 g da Probiótica é o maior valor da tabela: R$ 42,08 por 100 g de proteína no cartão, ou R$ 37,87 com o cupom."
         ],
         "postParagraphs": [
-          "Quem compra pelo preço por grama vai de Integralmédica nas duas contas. Quem compra na Probiótica paga menos com o refil e com o cupom, e a diferença para o pouch de 900 g da Integralmédica some. O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes. Preço e estoque mudam: confira nos dois sites antes de comprar."
+          "Quem compra pelo preço por grama vai de Integralmédica nas duas contas. Quem compra na Probiótica paga menos com o refil e com o cupom, e a diferença para o pouch de 900 g da Integralmédica some. Preço e estoque mudam: confira nos dois sites antes de comprar."
         ]
       },
       {
@@ -146121,6 +146225,16 @@ export const reviewsData: unknown[] = [
     "coupon": "PRO10EMCASACOMCECILIA",
     "affiliate": "probiotica",
     "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. A Integralmédica não é parceira.",
+    "decision": {
+      "takeIf": [
+        "Leve a Integralmédica se quer o menor preço por 100 g de creatina ou de proteína.",
+        "Leve o refil da Probiótica com o cupom se compra whey de 900 g."
+      ],
+      "skipIf": [
+        "Passe o pote de 900 g da Probiótica se o preço por grama pesa mais: é o maior valor da tabela.",
+        "Passe esta comparação se procura whey isolado: os isolados ficaram de fora."
+      ]
+    },
     "relatedArticles": [
       {
         "slug": "probiotica-ou-dux",
@@ -146180,8 +146294,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a conta foi feita",
         "paragraphs": [
-          "A Probiótica vende a creatina em quatro versões de 5 g por porção: pote de 300 g, pote de 100 g, Creapure de 150 g e monodose de 30 sachês, além da Pure Creatina da linha Monster, com porção de 3 g. O preço do pote sozinho engana, porque cada um tem um peso e um número de porções diferente. Por isso a conta é por 100 g de produto e por dose, com o número de porções que a tabela nutricional de cada versão mostra na ficha da loja.",
-          "Ninguém do site usou os produtos. O texto lê a ficha, a foto do rótulo e o preço do dia, sem cupom e no cartão. A dose, o número de porções e o selo Creapure saem da imagem do rótulo publicada na página de cada produto, não do texto de venda: na página do pote de 300 g, por exemplo, há um selo de \"3.000 mg de creatina por dose\" e um texto de \"5.000 mg por porção\", e quem resolve é a tabela."
+          "A Probiótica vende a creatina em quatro versões de 5 g por porção: pote de 300 g, pote de 100 g, Creapure de 150 g e monodose de 30 sachês, além da Pure Creatina da linha Monster, com porção de 3 g. O preço do pote sozinho engana, porque cada um tem um peso e um número de porções diferente. Por isso a conta é por 100 g de produto e por dose, com o número de porções que a tabela nutricional de cada versão declara.",
+          "A conta lê a ficha, a foto do rótulo e o preço do dia, sem cupom e no cartão. A dose, o número de porções e o selo Creapure saem da imagem do rótulo publicada na página de cada produto, não do texto de venda: na página do pote de 300 g, por exemplo, há um selo de \"3.000 mg de creatina por dose\" e um texto de \"5.000 mg por porção\", e quem resolve é a tabela."
         ]
       },
       {
@@ -146241,7 +146355,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pote de 300 g: a que mais compensa",
         "paragraphs": [
-          "A Creatina Monohidratada Pura de 300 g custa R$ 59,90. A tabela nutricional da ficha diz 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, e declara que não contém quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
+          "O pote de 300 g é o que mais compensa: R$ 59,90. A tabela do rótulo declara 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção, sem quantidade significativa de calorias, carboidratos, proteínas, gorduras e sódio. Dá R$ 19,97 por 100 g e R$ 1,00 por dose.",
           "A página do produto traz um selo de \"3.000 mg de creatina por dose\" ao lado do texto de \"5.000 mg por porção\". A tabela do rótulo diz 5.000 mg por porção de 5 g, e é o número que a conta usa."
         ],
         "images": [
@@ -146264,7 +146378,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pote de 100 g: para experimentar",
         "paragraphs": [
-          "A Creatina Monohidratada Pura de 100 g custa R$ 33,89 e tem a mesma tabela do pote grande, em menor quantidade: 20 porções de 5 g, com 5.000 mg de creatina cada. A página traz o mesmo selo de 3.000 mg e o mesmo texto de 5.000 mg do pote de 300 g, e a tabela resolve da mesma forma.",
+          "O pote de 100 g serve para experimentar: R$ 33,89 pela mesma tabela do grande, em 20 porções de 5 g. A página traz o mesmo selo de 3.000 mg e o mesmo texto de 5.000 mg do pote de 300 g, e a tabela resolve da mesma forma.",
           "Por 100 g, o pote pequeno custa R$ 33,89, 70% a mais que o de 300 g. Por dose, R$ 1,69 contra R$ 1,00. Vinte porções duram 20 dias com uma porção ao dia, que é a sugestão de uso da ficha. Compensa só para quem quer conhecer o produto antes de levar o pote grande; três potes de 100 g custam R$ 101,67, contra R$ 59,90 do pote de 300 g."
         ],
         "images": [
@@ -146281,7 +146395,7 @@ export const reviewsData: unknown[] = [
         "heading": "Creapure de 150 g: o selo no rótulo e o preço por grama",
         "paragraphs": [
           "A Creatina Creapure Monohidratada de 150 g custa R$ 99,89, sem promoção na página. A tabela diz 30 porções de 5 g, com 5.000 mg de creatina por porção, a mesma composição por dose dos potes de 300 g e de 100 g. O rótulo traz o selo Creapure na frente, com o código 18SP11, e o verso diz que a creatina vem \"da exclusiva tecnologia alemã Creapure\", com o modo de preparo de 5 g (1 dosador) em água ou na bebida preferida, uma porção ao dia.",
-          "Creapure é a marca da matéria-prima, que o rótulo chama de \"tecnologia alemã\"; o produto é fabricado pela Supley em Matão (SP), como diz o verso do pote. É isso que o selo declara, e é só isso que este texto confirma: a tabela nutricional não traz nenhum número diferente da versão comum.",
+          "Creapure é a marca da matéria-prima, que o rótulo chama de \"tecnologia alemã\"; o produto é fabricado pela Supley em Matão (SP), como diz o verso do pote. É isso que o selo declara: na tabela, a composição por porção é a mesma do pote comum.",
           "Na conta, o selo custa caro: R$ 66,59 por 100 g e R$ 3,33 por dose, mais que o triplo do pote de 300 g. Trinta porções de 5 g custam R$ 99,89 na Creapure; no pote de 300 g, as mesmas 30 porções saem por R$ 29,95. Quem quer o selo Creapure no rótulo paga essa diferença; quem quer creatina monohidratada com 5.000 mg por porção tem o mesmo número no pote comum."
         ],
         "images": [
@@ -146333,7 +146447,7 @@ export const reviewsData: unknown[] = [
         "heading": "Creatina Probiótica é pura? O que o rótulo responde",
         "paragraphs": [
           "\"Pura\" está no nome do produto, e \"Pure\" no da linha Monster. O que o rótulo declara é outra coisa: creatina monohidratada, com 5.000 mg por porção de 5 g nos potes de 300 g, de 100 g, na Creapure e nos sachês. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa em nenhuma das versões lidas.",
-          "A Creapure acrescenta o selo de origem da matéria-prima, e só isso: a composição por porção na tabela é a mesma do pote comum. A pureza de cada lote não se mede pela ficha, e este texto não a mede; quem precisa desse dado pede o laudo do lote à loja, pelo SAC que o rótulo traz."
+          "A Creapure acrescenta o selo de origem da matéria-prima, e só isso: a composição por porção na tabela é a mesma do pote comum. A pureza de cada lote não se mede pela ficha; quem precisa desse dado pede o laudo do lote à loja, pelo SAC do rótulo."
         ]
       },
       {
@@ -146351,8 +146465,9 @@ export const reviewsData: unknown[] = [
           "**Prefere dose pronta:** a [monodose de 30 sachês](https://www.probiotica.com.br/creatina-monodose/p), a R$ 2,33 por dose. Custa mais que o dobro do pote de 300 g pela mesma creatina."
         ],
         "postParagraphs": [
-          "Quem tem objetivo de saúde, usa medicamento ou tem restrição alimentar fala com um nutricionista ou médico antes de escolher. O texto lê o rótulo e não indica dose. Para comparar a creatina da Probiótica com a de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher) e o [guia da creatina Black Skull](/reviews/creatina-black-skull-qual-escolher), que usa a mesma conta por grama."
-        ]
+          "Quem tem objetivo de saúde, usa medicamento ou tem restrição alimentar fala com um nutricionista ou médico antes de escolher. Para comparar a creatina da Probiótica com a de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher) e o [guia da creatina Black Skull](/reviews/creatina-black-skull-qual-escolher), que usa a mesma conta por grama."
+        ],
+        "emphasis": "Pelos números da tabela, para o menor preço por dose a escolha é o pote de 300 g, porque sai a R$ 1,00 por dose, contra R$ 1,69 do pote de 100 g."
       },
       {
         "heading": "Perguntas frequentes",
@@ -146428,7 +146543,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como a conta é feita",
         "paragraphs": [
           "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. Por isso a comparação aqui é só de preço: por 100 g de produto e por dose, com os preços do dia no site da Probiótica, sem cupom.",
-          "A porção e o número de doses vêm da tabela nutricional que a loja mostra na imagem de cada ficha. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia, e ninguém do site usou os produtos."
+          "A porção e o número de doses vêm da tabela nutricional na imagem de cada produto. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia."
         ],
         "images": [
           {
@@ -146501,7 +146616,7 @@ export const reviewsData: unknown[] = [
           "**Pote de 300 g:** 60 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção. A tabela não declara valor energético, carboidrato, proteína nem sódio em quantidade significativa.",
           "**Pote de 100 g:** 20 porções de 5 g (1 dosador), com 5.000 mg de creatina por porção. A mesma tabela do pote grande, com um terço das doses.",
           "**Monodose:** 30 sachês, cada um a porção de 5 g com 5.000 mg de creatina. A tabela do sachê é a mesma do pote; muda só o que embala a dose.",
-          "**Divergência na página dos potes:** a ficha do pote de 300 g e a do de 100 g trazem um selo de \"3.000 mg de creatina por dose\", e o texto delas fala em 5.000 mg por porção. A conta deste guia usa a tabela nutricional, que diz 5 g e 5.000 mg. Confira a tabela da embalagem que chegar."
+          "**Divergência na página dos potes:** a página dos potes de 300 g e de 100 g traz um selo de \"3.000 mg de creatina por dose\", e o texto dela fala em 5.000 mg por porção. A conta deste guia usa a tabela nutricional, que diz 5 g e 5.000 mg. Confira a tabela da embalagem que chegar."
         ],
         "images": [
           {
@@ -146516,9 +146631,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto a monodose custa a mais",
         "paragraphs": [
-          "A caixa de 30 sachês custa R$ 69,89. As mesmas 30 doses, tiradas do pote de 300 g, custam R$ 29,95: metade do pote. A diferença é de R$ 39,94 por caixa, ou R$ 1,33 por dose.",
+          "As mesmas 30 doses do pote de 300 g custam R$ 29,95, metade do pote, contra R$ 69,89 da caixa de sachês. A diferença é de R$ 39,94 por caixa, ou R$ 1,33 por dose.",
           "Dois potes de 100 g (40 doses) custam R$ 67,78, menos que a caixa de 30 sachês. Ou seja: pelo preço do dia, nenhum dos dois potes de creatina pura sai mais caro por grama que a monodose, nem o pequeno.",
-          "O que o sachê entrega a mais é a dose já separada. A loja descreve o produto como \"praticidade em doses individuais\"; este guia não avalia isso, porque ninguém do site usou o produto. O que dá para medir é o preço, e o preço diz que a separação custa R$ 1,33 por dose."
+          "O que o sachê entrega a mais é a dose já separada. A loja descreve o produto como praticidade em doses individuais; o que dá para medir é o preço, e ele diz que a separação custa R$ 1,33 por dose."
         ],
         "images": [
           {
@@ -146545,8 +146660,9 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "As outras versões da linha, com a Creapure de 150 g e o que o rótulo de cada uma declara, estão em [qual creatina da Probiótica compensa](/reviews/creatina-probiotica-qual-compensa). Quem procura whey em sachê encontra o perfil em [melhor whey: qual escolher para cada objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo); o sachê de outra marca está no guia do [whey da Mais Mu](/reviews/whey-mais-mu-qual-escolher).",
-          "Este texto lê o rótulo e o preço; não indica dose nem uso. Quem tem dúvida sobre suplemento fala com um nutricionista ou médico."
-        ]
+          "Quem tem dúvida sobre suplemento fala com um nutricionista ou médico."
+        ],
+        "emphasis": "Pelos números da tabela, para o menor preço por dose a escolha é o pote de 300 g, porque a dose sai a R$ 1,00, menos da metade do sachê."
       },
       {
         "heading": "Perguntas frequentes",
@@ -146686,8 +146802,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creapure: em qual pote está e quanto custa a mais",
         "paragraphs": [
-          "Só a Creatina Creapure de 250 g traz o selo Creapure, na embalagem e na página do produto. A ficha diz que a matéria-prima é produzida na Alemanha pela Alzchem, dona da marca Creapure. As páginas dos potes de 100 g, 300 g e 500 g, lidas por nós, não citam Creapure: são creatina monohidratada sem o selo.",
-          "Pela tabela nutricional, a dose é a mesma nos quatro potes: 5 g com 5.000 mg de creatina. O que a Creapure acrescenta, segundo a Max, é a origem da matéria-prima e os testes de pureza do fabricante alemão. Este texto não afirma que uma creatina faz mais efeito que a outra: as fichas não comprovam isso, e ninguém do site usou os produtos.",
+          "Só a Creatina Creapure de 250 g traz o selo Creapure, na embalagem e na página do produto. A página diz que a matéria-prima vem da Alemanha, da Alzchem, dona da Creapure. As páginas dos potes de 100 g, 300 g e 500 g, lidas por nós, não citam Creapure: são creatina monohidratada sem o selo.",
+          "Pela tabela nutricional, a dose é a mesma nos quatro potes: 5 g com 5.000 mg de creatina. A Creapure acrescenta a origem da matéria-prima e os testes de pureza do fabricante alemão, diz a página. O rótulo não comprova que uma faça mais efeito que a outra.",
           "A diferença é de preço. Pela tabela de preços, a Creapure custava R$ 139,89 por 250 g, ou R$ 2,80 por dose. O pote de 500 g sem o selo custava R$ 87,53 pelo dobro de produto, ou R$ 0,88 por dose. Quem quer o selo paga cerca de R$ 1,92 a mais por dose, ou R$ 96 a mais a cada 50 doses."
         ],
         "images": [
@@ -146703,8 +146819,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o rótulo diz: ingredientes, dose e porções",
         "bullets": [
-          "**Ingredientes dos potes de 100 g, 300 g e 500 g:** creatina monohidratada e antiumectante dióxido de silício. Não contém glúten. A ficha avisa que pode conter derivados de leite, ovo e soja.",
-          "**Ingrediente da Creapure 250 g:** só creatina monohidratada. Não contém glúten. A ficha não traz aviso de alergênicos.",
+          "**Ingredientes dos potes de 100 g, 300 g e 500 g:** creatina monohidratada e antiumectante dióxido de silício. Não contém glúten. O rótulo avisa: pode conter derivados de leite, ovo e soja.",
+          "**Ingrediente da Creapure 250 g:** só creatina monohidratada. Não contém glúten. Sem aviso de alergênicos no rótulo.",
           "**Porção:** 5 g (1 dosador) com 5.000 mg de creatina, nos quatro potes.",
           "**Porções por embalagem:** 20 no pote de 100 g, 60 no de 300 g, 100 no de 500 g e 50 na Creapure de 250 g, pela tabela nutricional.",
           "**O dosador do pote de 300 g:** o modo de preparo da página manda encher o dosador até a marcação de 3 g, mas a tabela nutricional do mesmo pote diz porção de 5 g e 60 porções, e a recomendação de uso na mesma página fala em 5 g por dia. A conta deste guia usa a tabela. Confira a marcação do dosador na embalagem antes de preparar."
@@ -146744,7 +146860,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Em qualquer um dos quatro, o cupom MAX10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto. Para ver a creatina da Max ao lado da de outras marcas, com a mesma conta por grama, há o [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e o [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para o menor preço por dose a escolha é o pote de 500 g, porque sai a R$ 0,88 por dose, contra R$ 1,00 do de 300 g."
       },
       {
         "heading": "Perguntas frequentes",
@@ -146819,7 +146936,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os pré-treinos da Max Titanium pelo rótulo",
         "paragraphs": [
-          "A Max Titanium vende três pré-treinos em pó, cada um em pote de 300 g: o [Hórus](https://www.maxtitanium.com.br/horus/p), que também sai em [150 g](https://www.maxtitanium.com.br/horus-pote--150g/p); o [Égide](https://www.maxtitanium.com.br/egide-300g/p), também em [150 g](https://www.maxtitanium.com.br/egide-150g/p); e o [Night Train](https://www.maxtitanium.com.br/night-train-/p), sem cafeína. O Shook, pré-treino de 300 g com 200 mg de cafeína numa dose de 8 g, fica fora deste guia: ele está em [Max Titanium ou Dux](/reviews/max-titanium-ou-dux).",
+          "Três pré-treinos em pó de 300 g, com e sem cafeína: o [Hórus](https://www.maxtitanium.com.br/horus/p), que também sai em [150 g](https://www.maxtitanium.com.br/horus-pote--150g/p); o [Égide](https://www.maxtitanium.com.br/egide-300g/p), também em [150 g](https://www.maxtitanium.com.br/egide-150g/p); e o [Night Train](https://www.maxtitanium.com.br/night-train-/p), sem cafeína. O Shook, pré-treino de 300 g com 200 mg de cafeína numa dose de 8 g, fica fora deste guia: ele está em [Max Titanium ou Dux](/reviews/max-titanium-ou-dux).",
           "A tabela traz o que está escrito na tabela nutricional da página de cada produto, por dose. O Hórus e o Night Train usam a mesma dose, 8,4 g, um dosador e meio. O Égide usa 6 g, um dosador."
         ],
         "comparisonTable": {
@@ -146963,8 +147080,8 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O pote do Égide de 300 g custa R$ 21,00 a mais que o do Hórus de 300 g, mas rende 14 doses a mais. Por isso o Égide sai R$ 0,27 mais barato por dose: R$ 2,20 contra R$ 2,47. Quem compara só o preço do pote vê o contrário.",
           "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 2,20 contra R$ 2,32 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado. Na consulta, parte dos sabores do Hórus de 150 g estava sem estoque.",
-          "O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52. Ele fica fora da tabela porque não lemos a tabela nutricional dele.",
-          "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
+          "O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52.",
+          "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, diz a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
@@ -147000,7 +147117,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: Hórus ou Égide",
         "paragraphs": [
-          "A escolha segue o que pesa para você no rótulo e no preço por dose, com os números da tabela acima."
+          "A escolha é de perfil: menos cafeína, menor preço por dose ou sem cafeína."
         ],
         "bullets": [
           "Menos cafeína por dose: Hórus, com 150 mg. O Égide tem 200 mg.",
@@ -147012,7 +147129,8 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Se o preço mudar, a conta muda. Refaça a conta por dose com o preço do dia antes de comprar."
-        ]
+        ],
+        "emphasis": "Pelos números da tabela, para quem quer menos cafeína a escolha é o Hórus, porque tem 150 mg por dose; para o menor preço por dose, o Égide de 300 g, porque rende 50 doses."
       },
       {
         "heading": "Perguntas frequentes",
@@ -147088,16 +147206,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Este guia compara whey e creatina da Max Titanium, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: a tabela nutricional da ficha, a lista de ingredientes e o preço do site lido em 28/10/2026, no cartão, sem frete e sem desconto de Pix. Entram os tamanhos que mais se parecem: whey de 900 g contra 900 g, com o pouch de 1,8 kg da Integralmédica e o Whey Pro de 1 kg da Max como linhas extras, e creatina de 300 g, 500 g e 1 kg. Os isolados e as Creapure ficam numa frase cada.",
-          "As contas são duas. No whey, o preço dividido pela proteína total da embalagem, que é a proteína de cada dose vezes o número de porções do rótulo. Na creatina, o preço dividido pelos gramas do pote. Dose, porções e proteína por dose só entram quando a tabela do rótulo foi lida na ficha; sem a tabela, o produto entra só pelo preço por 100 g de produto, e o texto avisa.",
-          "Ninguém da equipe provou os produtos, então sabor, dissolução e digestão ficam de fora. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
+          "Este guia compara whey e creatina da Max Titanium, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: a tabela nutricional do rótulo, a lista de ingredientes e o preço do site em 28/10/2026, no cartão, sem frete e sem desconto de Pix. Entram os tamanhos que mais se parecem: whey de 900 g contra 900 g, com o pouch de 1,8 kg da Integralmédica e o Whey Pro de 1 kg da Max como linhas extras, e creatina de 300 g, 500 g e 1 kg. Os isolados e as Creapure ficam numa frase cada.",
+          "As contas são duas. No whey, o preço dividido pela proteína total da embalagem, que é a proteína de cada dose vezes o número de porções do rótulo. Na creatina, o preço dividido pelos gramas do pote. Dose, porções e proteína por dose só entram quando a tabela do rótulo foi lida; sem a tabela, o produto entra só pelo preço por 100 g de produto.",
+          "Sabor, dissolução e digestão ficam de fora desta comparação. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
           "A série compara a Max com uma marca por vez: [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método. A Integralmédica já apareceu em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica)."
         ]
       },
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "A tabela usa o sabor baunilha das duas marcas, que é o da tabela publicada em cada ficha. Na Max, o 100% Whey Refil e o 100% Whey Pote têm a mesma tabela: 21 g de proteína em cada porção de 30 g, 30 porções. O Whey Pro de 1 kg tem 15 g em 40 g, 25 porções. No pouch de 900 g da Integralmédica, são 21 g em 30 g, 30 porções. O pouch de 1,8 kg traz a mesma porção e a mesma proteína; a imagem da tabela repete \"30 porções\", mas 1,8 kg a 30 g por dose dá 60, e a conta usa 60 pelo peso."
+          "A tabela usa o sabor baunilha das duas, que é o da tabela publicada em cada página. Na Max, o 100% Whey Refil e o 100% Whey Pote têm a mesma tabela: 21 g de proteína em cada porção de 30 g, 30 porções. O Whey Pro de 1 kg tem 15 g em 40 g, 25 porções. No pouch de 900 g da Integralmédica, são 21 g em 30 g, 30 porções. O pouch de 1,8 kg traz a mesma porção e a mesma proteína; a imagem da tabela repete \"30 porções\", mas 1,8 kg a 30 g por dose dá 60, e a conta usa 60 pelo peso."
         ],
         "images": [
           {
@@ -147156,15 +147274,15 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o MAX10EMCASACOMCECILIA no teto de 10%, o Refil sai por R$ 28,06 por 100 g de proteína, o Pote por R$ 30,06 e o Whey Pro por R$ 30,29. O cupom é da Max e o desconto varia por produto; este texto não traz cupom da Integralmédica. Por dose, no cartão, o Refil fica em R$ 6,55, o Pote em R$ 7,01 e o Whey Pro em R$ 5,05, porque a dose dele tem menos proteína; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg).",
-          "O Whey Pro é o pote mais barato da tabela, R$ 12,62 por 100 g de produto, mas por 100 g de proteína ele fica atrás do Refil: a dose de 40 g traz 15 g de proteína e 18 g de açúcares, segundo a tabela da ficha. O pote de 900 g da Integralmédica custava R$ 240,00, R$ 26,67 por 100 g de produto; a tabela dele não foi lida, e por isso ele fica fora da conta por proteína. Nos sabores chocolate e cookies and cream, a tabela da Integralmédica traz 20 g de proteína por porção: o pouch de 900 g sobe para R$ 37,83 por 100 g de proteína e o de 1,8 kg, para R$ 33,67.",
+          "O Whey Pro é o pote mais barato da tabela, R$ 12,62 por 100 g de produto, mas por 100 g de proteína ele fica atrás do Refil: a dose de 40 g traz 15 g de proteína e 18 g de açúcares, diz a tabela do rótulo. O pote de 900 g da Integralmédica, sem tabela lida, entra só pelo preço por 100 g de produto: R$ 26,67. Nos sabores chocolate e cookies and cream, a tabela da Integralmédica traz 20 g de proteína por porção: o pouch de 900 g sobe para R$ 37,83 por 100 g de proteína e o de 1,8 kg, para R$ 33,67.",
           "Nos isolados, o [IsoWhey de 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) custava R$ 326,18, com 26 g de proteína em 30 g e 30 porções: R$ 41,82 por 100 g de proteína, ou R$ 37,64 com o cupom no teto. O Whey Protein Isolado de 900 g da Integralmédica custava R$ 483,00, R$ 53,67 por 100 g de produto contra R$ 36,24 do IsoWhey; a tabela dele não foi lida. A comparação do IsoWhey com outro isolado está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
         ]
       },
       {
         "heading": "O que o rótulo diz",
         "paragraphs": [
-          "Os três wheys concentrados da Max desta tabela listam proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e edulcorante sucralose, e a ficha diz que não contêm glúten. O pouch de 900 g da Integralmédica, no sabor baunilha, lista proteína de soro do leite concentrada, aromatizante e edulcorante sucralose; o rótulo diz que contém leite, derivados de leite e soja, contém lactose e não contém glúten. No adoçante, as duas marcas se igualam, e a conta de preço não muda por isso.",
-          "Na creatina, os potes de 300 g e de 500 g da Max listam creatina monohidratada e antiumectante dióxido de silício, sem glúten, com dose de 5 g (5.000 mg) e 60 ou 100 porções. A Creatina 100% Pura pouch de 1 kg da Integralmédica lista só creatina monohidratada, sem glúten, com a mesma dose de 5 g. \"100% Pura\" é o nome do produto, não um selo de pureza, e o texto não usa a palavra como qualidade. A tabela dos potes de 300 g e de 500 g da Integralmédica não foi lida."
+          "Os três wheys concentrados da Max listam proteína concentrada do soro do leite (WPC), aromatizante, emulsificante lecitina de soja e edulcorante sucralose, e o rótulo diz que não contêm glúten. O pouch de 900 g da Integralmédica, no sabor baunilha, lista proteína de soro do leite concentrada, aromatizante e edulcorante sucralose; o rótulo diz que contém leite, derivados de leite e soja, contém lactose e não contém glúten. No adoçante, as duas marcas se igualam, e a conta de preço não muda por isso.",
+          "Na creatina, os potes de 300 g e de 500 g da Max listam creatina monohidratada e antiumectante dióxido de silício, sem glúten, com dose de 5 g (5.000 mg) e 60 ou 100 porções. A Creatina 100% Pura pouch de 1 kg da Integralmédica lista só creatina monohidratada, sem glúten, com a mesma dose de 5 g. \"100% Pura\" é o nome do produto, não um selo de pureza, e o texto não usa a palavra como qualidade."
         ],
         "images": [
           {
@@ -147179,7 +147297,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g de produto",
         "paragraphs": [
-          "A tabela compara as creatinas monohidratadas por 100 g de produto, nos tamanhos de 300 g, 500 g e 1 kg. Os preços são do site de cada marca, lidos no cartão. O pouch de 1 kg da Integralmédica custava R$ 156,00 e passou a R$ 125,00 entre duas leituras nossas, então a diferença para a Max mudou de uma leitura para a outra: confira o preço do dia antes de comprar."
+          "A tabela compara as creatinas monohidratadas por 100 g de produto, nos tamanhos de 300 g, 500 g e 1 kg. Os preços são do site de cada marca, lidos no cartão, e o pouch de 1 kg mudou de valor entre as consultas: confira o preço do dia antes de comprar."
         ],
         "images": [
           {
@@ -147259,8 +147377,9 @@ export const reviewsData: unknown[] = [
           "Nas Creapure, a Max sai mais barata por grama: R$ 55,96 contra R$ 61,33 por 100 g."
         ],
         "postParagraphs": [
-          "O texto não julga sabor nem qualidade geral: ninguém da equipe provou os produtos, e não coletamos avaliações de clientes. Se o preço mudar, a conta muda; refaça as contas com o preço do dia."
-        ]
+          "Se o preço mudar, a conta muda; refaça as contas com o preço do dia."
+        ],
+        "emphasis": "Pelos números da tabela, para whey concentrado a escolha é o 100% Whey Refil da Max, porque sai a R$ 31,17 por 100 g de proteína. Na creatina, para o menor preço no cartão a escolha é o pouch de 1 kg da Integralmédica, porque sai a R$ 12,50 por 100 g."
       },
       {
         "heading": "Perguntas frequentes",
@@ -147363,7 +147482,7 @@ export const reviewsData: unknown[] = [
           "**Edição com IA (o modo Agentic):** você descreve o que quer no chat e a IA desenha e programa. Cada ação consome créditos de IA, e dá para recarregar."
         ],
         "postParagraphs": [
-          "O que sai de lá é um site ou um aplicativo web, não um app para a App Store ou o Google Play: a própria página diz isso. A hospedagem, o domínio e o e-mail vêm no plano, e o código-fonte pode ser exportado para hospedar em outro lugar. Tudo isso é a descrição da Hostinger, não um teste nosso.",
+          "O que sai de lá é um site ou um aplicativo web, não um app para a App Store ou o Google Play: a própria página diz isso. A hospedagem, o domínio e o e-mail vêm no plano, e o código-fonte pode ser exportado para hospedar em outro lugar. Tudo isso é a descrição da Hostinger.",
           "Não confunda com os agentes de automação da Hostinger, como o OpenClaw e o Hermes Agent: aqueles são [assistentes que rodam num servidor](/reviews/openclaw-ou-hermes-agent) e respondem no Telegram ou no WhatsApp. O Criador com IA constrói o site."
         ]
       },
@@ -147521,14 +147640,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O preço por mês é o total dividido por 48. Na prática:"
+          "O preço por mês é o total dividido por 48, e a renovação custa de 4 a 6 vezes o preço promocional. Na prática:"
         ],
         "bullets": [
           "**Premium, com o SONAR20:** 48 × R$ 7,99 = **R$ 383,52**. Sem o SONAR20: R$ 479,52. **Renovação, nos 48 meses seguintes:** 48 × R$ 38,99 = R$ 1.871,52.",
           "**Unlimited, com o SONAR20:** 48 × R$ 10,39 = **R$ 498,72**. Sem o SONAR20: R$ 623,52. **Renovação:** 48 × R$ 64,99 = R$ 3.119,52.",
           "**Créditos de IA são presente único**, não mensal. Acabaram, é recarga, e o preço da recarga não aparece na página: confira no painel antes de contar com ele."
         ],
-        "emphasis": "A renovação custa de 4 a 6 vezes o preço promocional. Olhe a coluna da renovação antes de escolher o plano."
+        "emphasis": "Olhe a renovação antes do desconto: compare o total de 48 meses."
       },
       {
         "heading": "O que conferir antes de pagar",
@@ -150362,14 +150481,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domínio e hospedagem são duas contas",
         "paragraphs": [
-          "O domínio é o endereço (o nome que a pessoa digita). A hospedagem é o computador onde o site fica. Você paga os dois separados, e eles não precisam estar na mesma empresa: o domínio registrado numa empresa pode apontar para a hospedagem de outra. A própria página da Hostinger diz que dá para apontar um domínio registrado nela para outra provedora de hospedagem.",
+          "Domínio e hospedagem são duas contas: o endereço (o nome que a pessoa digita) de um lado, o computador onde o site fica do outro. Você paga os dois separados, e eles não precisam estar na mesma empresa: o domínio registrado numa empresa pode apontar para a hospedagem de outra. A própria página da Hostinger diz que dá para apontar um domínio registrado nela para outra provedora de hospedagem.",
           "Por isso a decisão não é \"Hostinger ou não\". É onde o registro do domínio fica, quanto custa renovar todo ano e o que acontece se um dia você trocar de hospedagem. O primeiro ano barato é o menos importante: o domínio renova enquanto o site existir."
         ]
       },
       {
         "heading": "Os três caminhos",
         "paragraphs": [
-          "Quem monta um site tem três opções para o domínio. O quadro resume o que muda em cada uma, pelas páginas da Hostinger."
+          "Para o domínio há três caminhos, pelas páginas da Hostinger, e o que muda entre eles é quem cobra a renovação."
         ],
         "image": {
           "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -150508,7 +150627,8 @@ export const reviewsData: unknown[] = [
           "**Compre fora e aponte** se já tem domínio em outro registrador, se prefere separar as contas, ou se o preço de renovação de lá for menor: o Registro.br anuncia o .com.br a R$ 40 por ano. Apontar o DNS é um ajuste no painel, e o site funciona do mesmo jeito.",
           "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Na maioria das extensões genéricas, a taxa de transferência inclui um ano a mais de registro, então ela não é dinheiro perdido.",
           "Na dúvida, não transfira: aponte o domínio e deixe o registro onde está. Dá para transferir depois, e o site não para."
-        ]
+        ],
+        "emphasis": "Se fosse para o meu site, eu levaria o registro junto da hospedagem, porque domínio e renovação ficam no mesmo painel."
       },
       {
         "heading": "Cupom SONAR20 e preço",
@@ -152915,6 +153035,8 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Veredito: VPS ou compartilhada",
+        "emphasis": "Se fosse para o meu site, eu levaria o Premium, porque custa menos e a Hostinger cuida do servidor.",
+        "emphasisAfterParagraph": 3,
         "paragraphs": [
           "**Hospedagem compartilhada** para blog, portfólio, site de empresa, loja pequena e site em Node.js. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
           "**VPS** para sistema próprio, programa ou banco fora do painel, bot ou painel rodando o dia todo, ou quando você precisa de root. Comece pelo KVM 1 e suba se faltar memória. Entre na conta o tempo de manter o servidor, ou o custo de quem faça isso.",
@@ -155674,7 +155796,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que aparece nas queixas",
         "paragraphs": [
-          "Lemos as avaliações negativas visíveis no perfil e anotamos os temas, sem contar nem ranquear. Eles giram em torno da entrega internacional:"
+          "As queixas giram em torno da entrega internacional. Lemos as negativas visíveis e anotamos os temas, sem contar nem ranquear:"
         ],
         "bullets": [
           "Atraso na entrega e espera longa, em pacote que vem de fora.",
@@ -155714,7 +155836,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a loja responde",
         "paragraphs": [
-          "Segundo o perfil, a YesStyle respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a página avisa que a resposta pode usar inteligência artificial.",
+          "O perfil diz que a YesStyle respondeu a 98% das negativas, em geral em até 24 horas, e avisa que a resposta pode usar inteligência artificial.",
           "Responder não é resolver. Não lemos o texto das respostas, então este artigo não diz se elas resolvem o problema de quem reclamou. Antes de comprar, vale abrir algumas avaliações de uma estrela no perfil e ler a resposta da loja embaixo de cada uma, em especial as de rastreio e extravio."
         ]
       },
@@ -155735,7 +155857,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Em 28/10/2026, lemos o perfil público da YesStyle na Trustpilot, sem login: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. No mesmo dia, lemos a página da YesStyle no Reclame Aqui, para conferir se a loja atende lá.",
           "No app da loja, num teste nosso sem compra, conferimos o checkout: ele tem o campo do código de recompensa, e a YesStyle não oferecia entrega para o Brasil.",
-          "Ninguém do site comprou na YesStyle para este artigo. Os números da Trustpilot mudam todo mês; confira o perfil no dia da compra."
+          "Os números da Trustpilot mudam todo mês; confira o perfil no dia da compra."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-trustpilot-perfil-2910.webp",
@@ -157606,7 +157728,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que as pessoas reclamam",
         "paragraphs": [
-          "A lista de principais problemas do Reclame Aqui usa as reclamações de até 3 anos, não só as dos 6 meses. O problema mais citado era produto não recebido, com 36,47%: mais de uma em cada três reclamações desse recorte.",
+          "Produto não recebido é o problema mais citado, com 36,47%: mais de uma em cada três reclamações de até 3 anos.",
           "Moda Feminina era a categoria mais citada, com 19,62%. Blusas vinha em seguida na lista, com 9,83%.",
           "O rótulo não diz o motivo nem o desfecho de cada caso. E o Reclame Aqui não mostra quantos pedidos a SHEIN entrega no Brasil: 32.431 reclamações em seis meses dizem quanto a loja recebe de queixas, não a chance de o seu pedido dar problema."
         ],
@@ -157621,7 +157743,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: a nota de quem avalia",
         "paragraphs": [
-          "O Reclame Aqui é brasileiro; a Trustpilot é um site internacional de avaliações, e a SHEIN tinha ali nota 3,8 em 5, com 353.435 avaliações de clientes de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento da SHEIN Brasil."
+          "A Trustpilot é internacional: a SHEIN tinha ali 3,8 em 5, em 353.435 avaliações de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento da SHEIN Brasil."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
@@ -157634,7 +157756,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nossa checagem",
         "paragraphs": [
-          "Ninguém do site comprou na SHEIN para este artigo. Os números vêm de leitura pública, feita sem login, em dois perfis:"
+          "Os números vêm de leitura pública, feita sem login, em dois perfis:"
         ],
         "bullets": [
           "Reclame Aqui: a aba de 6 meses (de abril a setembro) e o recorte de 3 anos dos principais problemas.",
@@ -159378,7 +159500,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ABS, polipropileno e policarbonato: os preços",
         "paragraphs": [
-          "A Bagaggio vende a mala de bordo de 10 kg em três materiais: ABS, polipropileno e policarbonato. Cada ficha traz o material, a medida, os litros e o peso, mas nenhuma compara um material com o outro. A tabela junta as fichas lidas em 29/10/2026, do preço mais baixo ao mais alto."
+          "A mala de bordo de 10 kg sai em três materiais, e o preço muda muito mais que os litros. Cada ficha traz o material, a medida, os litros e o peso, mas nenhuma compara um material com o outro. A tabela junta as fichas lidas em 29/10/2026, do preço mais baixo ao mais alto."
         ],
         "comparisonTable": {
           "headers": [
@@ -159465,7 +159587,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o CECILIA10, a Bahamas Branca saiu por R$ 809,91 e, no Pix, por R$ 769,41. A Detroit Preta saiu por R$ 224,91 com o cupom e R$ 213,66 no Pix. A Kyoto II Preta, que estava sem desconto da loja, saiu por R$ 1.349,91 com o cupom e R$ 1.282,41 no Pix. Esses valores vieram da API pública do carrinho da loja, com uma mala por vez, sem identificação e sem finalizar a compra.",
+          "Com o CECILIA10, a Bahamas Branca saiu por R$ 809,91 e, no Pix, por R$ 769,41. A Detroit Preta saiu por R$ 224,91 com o cupom e R$ 213,66 no Pix. A Kyoto II Preta, que estava sem desconto da loja, saiu por R$ 1.349,91 com o cupom e R$ 1.282,41 no Pix.",
           "Os preços são de um dia. A loja muda a promoção sem aviso, então confira o valor na ficha antes de comprar."
         ],
         "image": {
@@ -159479,7 +159601,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como ler a tabela",
         "paragraphs": [
-          "A medida, os litros e o peso são da ficha de cada mala. O preço por litro e o preço por kg são contas nossas: o preço no cartão dividido pelos litros da ficha, ou pelo peso da ficha.",
+          "Compare pelos litros e pelo peso: a medida sozinha engana. Conta nossa: o cartão dividido pelos litros ou pelo peso da ficha.",
           "As medidas não são todas iguais. A Route e a Santiago informam a medida com as rodas. A Malta tem 20 cm de profundidade, contra 22,5 cm ou 23 cm das outras de 55 cm. Por isso ela tem 38,5 L, menos que a Route, com a mesma altura e a mesma largura.",
           "A tabela traz uma ou duas linhas por material. Para ver mais linhas de mala de bordo, abra a [página do cupom Bagaggio](/cupons/bagaggio), que leva ao site da loja."
         ]
@@ -159487,7 +159609,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O policarbonato pesa mais sem ganhar litro",
         "paragraphs": [
-          "Segundo as fichas, a Bahamas Branca pesa 3,4 kg e tem 43,3 L. A Detroit Preta, de ABS, pesa 2,61 kg e tem 44,2 L. A Kyoto II Preta tem os mesmos 44,2 L da Detroit e pesa 3,52 kg.",
+          "A Bahamas Branca pesa 3,4 kg para 43,3 L; a Detroit de ABS pesa 2,61 kg para 44,2 L. A Kyoto II Preta tem os mesmos 44,2 L da Detroit e pesa 3,52 kg.",
           "Nas três malas de policarbonato da tabela, o peso vai de 3,28 kg a 3,52 kg. Nas de ABS e polipropileno, vai de 2,43 kg a 2,61 kg. Em litros, as de policarbonato ficam entre 43,3 L e 44,2 L, no meio da faixa das outras.",
           "A imagem da ficha da Bahamas Branca diz que ela suporta até 10 kg."
         ],
@@ -159502,7 +159624,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A cor muda o preço da mesma mala",
         "paragraphs": [
-          "Na Bagaggio, a mesma mala custa preços diferentes conforme a cor. A ficha não explica a diferença: medida, litros e peso são iguais.",
+          "Na Bagaggio, a mesma mala muda de preço com a cor. A ficha não explica a diferença: medida, litros e peso são iguais.",
           "A Malta de 10 kg tem 55 x 35 x 20 cm, 38,5 L e 2,57 kg nas três cores. Na leitura, a [Malta Rosa Escuro](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-rosa-escuro-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 349,90, a [Malta Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 499,90 e a [Malta Branca e Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-malta-branca-e-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 549,90. Por litro, R$ 9,09, R$ 12,98 e R$ 14,28. A Rosa Escuro estava com uma unidade em estoque na leitura.",
           "A Nova Bahamas, de policarbonato, segue a mesma lógica: a [Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custava R$ 999,90, a [Bege](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-bege/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 1.199,90 e a [Marrom](https://www.bagaggio.com.br/mala-de-bordo-10-kg-policarbonato-4-rodas-nova-bahamas-marrom/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) R$ 1.299,90, todas com 43,4 L e 3,28 kg.",
           "Se a cor não importa, compare as cores da mesma linha antes de comparar materiais: a Malta Rosa Escuro custava R$ 150,00 a menos que a Malta Preta."
@@ -159510,6 +159632,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Vale pagar mais pelo policarbonato?",
+        "emphasis": "Se fosse para a minha casa, eu levaria a Detroit Preta, porque ela sai a R$ 5,65 por litro, a conta mais baixa da tabela.",
         "paragraphs": [
           "Pelos números das fichas, o policarbonato não traz mais litros nem menos peso. O que muda é o material e o preço. Três perguntas apontam uma linha da tabela:"
         ],
@@ -159548,6 +159671,15 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você quer o menor preço por litro, que na tabela é a mala de ABS.",
+        "Você quer a mala mais leve com mais litros, que na tabela é a de polipropileno."
+      ],
+      "skipIf": [
+        "Você espera que o policarbonato traga mais litros ou menos peso, porque a tabela não mostra essa vantagem."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -159614,7 +159746,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que este guia lê",
         "paragraphs": [
-          "Ninguém do site usou estas malas, mochilas ou bolsas. O texto lê as fichas do site oficial da Bagaggio e diz o que cada uma traz. Se a mala aguenta a viagem ou se a mochila fica confortável no dia a dia, a página não diz, e este guia também não.",
+          "Este guia lê as fichas do site oficial da Bagaggio e diz o que cada uma traz. Se a mala aguenta a viagem ou se a mochila fica confortável no dia a dia, a página não diz, e este guia também não.",
           "A empresa, o CNPJ e o site oficial estão em [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel). A reputação está no [artigo sobre o Reclame Aqui](/reviews/bagaggio-reclame-aqui-nota-reputacao)."
         ],
         "comparisonTable": {
@@ -159692,7 +159824,7 @@ export const reviewsData: unknown[] = [
         "heading": "Malas: o que a marca informa",
         "paragraphs": [
           "Na busca do site, as malas da marca Bagaggio em estoque iam de R$ 249,90, na [Mala de Bordo Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), a R$ 1.999,90, na [Kyoto Trunk Bronze](https://www.bagaggio.com.br/mala-de-viagem-grande-ultra-ampla-policarbonato-4-rodas-kyoto-trunk-bronze/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de policarbonato. Fica fora dessa faixa uma mala elétrica com patinete, a BG Motion, de R$ 3.499,90.",
-          "Cada página de mala traz material, medida, capacidade em litros, peso e o tipo de cadeado. A Detroit é de ABS, a Route é de polipropileno e a Kyoto II é de policarbonato. As três têm 55 cm de altura com as rodas, conforme a marca."
+          "Cada página de mala traz material, medida, capacidade em litros, peso e o tipo de cadeado. A Detroit é de ABS, a Route é de polipropileno e a Kyoto II é de policarbonato. As três têm 55 cm de altura com as rodas, diz a marca."
         ],
         "bullets": [
           "Detroit Preta: ABS, 55 x 35 x 23 cm, 44,2 L, 2,61 kg, cadeado com senha embutido, 4 rodas 360° removíveis.",
@@ -159724,7 +159856,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Bolsas de viagem: o essencial",
         "paragraphs": [
-          "As bolsas da marca em estoque iam de R$ 19,90 a R$ 399,90 na busca, somando bolsas de viagem, de ombro e transversais. Entre as de viagem, a [Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 99,90. Ela é de poliéster, tem 42 L, pesa 0,54 kg e, segundo a Bagaggio, tem garantia de 90 dias.",
+          "As bolsas da marca em estoque iam de R$ 19,90 a R$ 399,90 na busca, somando bolsas de viagem, de ombro e transversais. Entre as de viagem, a [Bolsa de Viagem Média Vegas Preta](https://www.bagaggio.com.br/bolsa-de-viagem-masculina-media-vegas-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) custa R$ 99,90. Ela é de poliéster, tem 42 L, pesa 0,54 kg e a Bagaggio dá 90 dias de garantia.",
           "A [Bolsa de Viagem Crinkle 19J Roxa](https://www.bagaggio.com.br/bolsa-de-viagem-pequena-bagaggio-crinkle-19j-roxa/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) aparecia por R$ 49,90, fora de estoque. Ela é de poliéster, tem estrutura semirrígida e três bolsos externos com zíper, e a Bagaggio anuncia garantia de 6 meses. Nas bolsas da marca, a garantia mais comum entre elas é de 90 dias ou 3 meses."
         ]
       },
@@ -159732,7 +159864,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cadeado e rodas",
         "paragraphs": [
           "A loja vende o [Cadeado para Mala com Chave Preto](https://www.bagaggio.com.br/cadeado-para-mala-bagaggio-com-chave-preto-/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz) à parte, por R$ 59,90, em estoque. A descrição diz que ele abre com chave, sem senha, e que serve em malas, mochilas e bolsas de viagem.",
-          "Nem toda mala precisa dele. A Detroit e a Route trazem cadeado com senha embutido, e a Kyoto II traz cadeado TSA, segundo as páginas de produto. As malas de bordo lidas têm 4 rodas 360°; nas mochilas de notebook, a página traz \"Sem Rodas\"."
+          "Nem toda mala precisa dele. A Detroit e a Route trazem cadeado com senha embutido, e a Kyoto II traz cadeado TSA, dizem as páginas de produto. As malas de bordo lidas têm 4 rodas 360°; nas mochilas de notebook, a página traz \"Sem Rodas\"."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-e-boa-malas-mochilas-cadeado.webp",
@@ -159843,7 +159975,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A conta de 12 conjuntos",
         "paragraphs": [
-          "A loja tem mais de 150 conjuntos na busca. Conferimos 32, os que usam peças da mesma linha vendidas também avulsas, e 24 deles custam a soma exata das peças. A tabela traz as linhas com diferença e um exemplo de cada tipo que não tem diferença. Os preços são do cartão, lidos nas fichas da loja em 29/10/2026."
+          "Conferimos 32 dos mais de 150 conjuntos da busca, os que usam peças da mesma linha vendidas também avulsas, e 24 custam a soma exata das peças. A tabela traz as linhas com diferença e um exemplo de cada tipo que não tem diferença. Os preços são do cartão, lidos nas fichas da loja em 29/10/2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -159973,11 +160105,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que o preço riscado não ajuda",
         "paragraphs": [
-          "Nos conjuntos com desconto, o preço de lista, o riscado, é a soma das listas das peças. No Santiago P e G Azul, por exemplo, a lista é R$ 1.049,80, igual a R$ 449,90 da P mais R$ 599,90 da G. Por isso o riscado do conjunto parece um desconto grande, mas a comparação que vale é com o preço de venda das peças avulsas."
+          "Nos conjuntos com desconto, o riscado não ajuda: é a soma das listas das peças. No Santiago P e G Azul, por exemplo, a lista é R$ 1.049,80, igual a R$ 449,90 da P mais R$ 599,90 da G. Por isso o riscado do conjunto parece um desconto grande, mas a comparação que vale é com o preço de venda das peças avulsas."
         ]
       },
       {
         "heading": "Quando o conjunto compensa",
+        "emphasis": "Se fosse para a minha casa, eu levaria o Malta P e M Branca e Marrom, porque é o conjunto que fica mais abaixo da soma das peças.",
+        "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Compensa quando a diferença é negativa e o conjunto tem estoque. Na leitura, eram seis: Malta P e M Branca e Marrom, Nova Bahamas P e G Preta, Malta P e M Preta, Detroit P e M Preta e Santiago P e G, na Azul e na Preta. O maior desconto é o do Malta P e M Branca e Marrom, R$ 174,95 abaixo da soma.",
           "Quando a diferença é zero, o conjunto não dá vantagem de preço. O que ele dá é uma compra só, com as malas da mesma cor. Duas perguntas resolvem:"
@@ -159993,7 +160127,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "P, M e G no conjunto",
         "paragraphs": [
-          "O nome do conjunto diz quais tamanhos vêm nele. Pelas fichas, a P corresponde à mala de 10 kg, a M à de 23 kg e a G à de 32 kg. A medida da M muda de linha para linha, e até dentro da mesma linha: a Detroit tem a Média de 24 polegadas, com 66 x 41,5 x 26 cm, e a de 26, com 70,5 x 44,5 x 29 cm. Confira a medida na ficha do conjunto."
+          "Pelas fichas, a P é a mala de 10 kg, a M a de 23 kg e a G a de 32 kg. A medida da M muda de linha para linha, e até dentro da mesma linha: a Detroit tem a Média de 24 polegadas, com 66 x 41,5 x 26 cm, e a de 26, com 70,5 x 44,5 x 29 cm. Confira a medida na ficha do conjunto."
         ]
       },
       {
@@ -160021,6 +160155,15 @@ export const reviewsData: unknown[] = [
         ]
       }
     ],
+    "decision": {
+      "takeIf": [
+        "Você precisa de todas as peças da mesma linha e cor, e o conjunto custa menos que a soma das avulsas."
+      ],
+      "skipIf": [
+        "Você só vai usar uma peça, porque a avulsa custa menos que o conjunto.",
+        "A diferença do conjunto é zero, porque aí ele só dá uma compra com as malas da mesma cor, sem vantagem de preço."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -160077,6 +160220,15 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Potes dos hidratantes corporais da Skelt em várias fragrâncias, com o logo da loja e o título Hidratante corporal Skelt: qual fragrância?",
     "imageFit": "contain",
     "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Você quer um hidratante só e escolhe pelo perfil de fragrância.",
+        "Você quer pagar menos por grama e topa três fragrâncias no kit."
+      ],
+      "skipIf": [
+        "Você quer o perfume para cabelos junto esperando desconto, porque esses conjuntos não baixam o preço do hidratante."
+      ]
+    },
     "pros": [],
     "cons": [],
     "cta": {
@@ -160112,7 +160264,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto sai por 100 g, avulso e em conjunto",
         "paragraphs": [
-          "Ninguém do site usou os hidratantes da Skelt. A conta parte do preço no cartão publicado no site oficial, sem cupom nem Pix. Nos conjuntos com body splash, creme para mãos ou perfume para cabelos, o outro item entra pelo preço avulso dele, e o que sobra é a parte do hidratante. O capítulo dos conjuntos explica a conta."
+          "A conta parte do preço no cartão publicado no site oficial, sem cupom nem Pix. Nos conjuntos com body splash, creme para mãos ou perfume para cabelos, o outro item entra pelo preço avulso dele, e o que sobra é a parte do hidratante. O capítulo dos conjuntos explica a conta."
         ],
         "comparisonTable": {
           "headers": [
@@ -160195,11 +160347,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual fragrância: cítrico, floral, frutado ou doce",
         "paragraphs": [
-          "Como o preço do avulso é o mesmo nas seis, a escolha é de perfil. As notas abaixo são as que a Skelt publica na ficha do hidratante; onde a ficha não traz notas, o guia usa a página do body splash de mesmo nome. O agrupamento por perfil é nosso, não da loja, e ninguém do site sentiu as fragrâncias.",
-          "**Cítrico e fresco: Amalfi Sunset e Unexpected Day.** A ficha do [Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) chama a fragrância de \"coquetel cítrico e sofisticado\" e fala num pôr do sol italiano. As notas que se repetem nas páginas da loja são bergamota, jasmim e sândalo; a pirâmide completa muda de uma página para outra, então o guia fica só com essas. O [Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) tem, segundo a ficha, \"frescor combinado à cremosidade\". A página do body splash de mesmo nome cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly.",
+          "Como o preço do avulso é o mesmo nas seis, a escolha é de perfil. As notas abaixo são as que a Skelt publica na ficha do hidratante; onde a ficha não traz notas, o guia usa a página do body splash de mesmo nome. O agrupamento por perfil é nosso, não da loja.",
+          "**Cítrico e fresco: Amalfi Sunset e Unexpected Day.** A ficha do [Amalfi Sunset](https://www.skelt.com.br/hidratante-desodorante-corporal-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) chama a fragrância de \"coquetel cítrico e sofisticado\" e fala num pôr do sol italiano. As notas que se repetem nas páginas da loja são bergamota, jasmim e sândalo; a pirâmide completa muda de uma página para outra, então o guia fica só com essas. O [Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) traz \"frescor combinado à cremosidade\", diz a página. A página do body splash de mesmo nome cita pera e maçã verde, violeta e laranjeira, baunilha e chantilly.",
           "**Floral: Hidden Flowers e Mystic Bloom.** São as duas com pirâmide completa na ficha do hidratante. [Hidden Flowers](https://www.skelt.com.br/body-cream-hidde-flowers-1/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz): topo de bergamota da Itália, pera, pêssego e noz-moscada; meio de rosa damascena da Turquia, lírio-do-vale e olíbano; fundo de vetiver do Haiti, âmbar, musk e baunilha. [Mystic Bloom](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz): topo de groselha negra, morango e tangerina; meio de plumeria, flor de maçã e flor de violeta; fundo de musk, cashmeran, âmbar e marshmallow.",
           "**Frutado e floral: Urban Beat.** A ficha do [Urban Beat](https://www.skelt.com.br/hidratante-desodorante-corporal-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) fala numa \"explosão de frutas vermelhas, violeta, hibisco e pralinê\". Não há pirâmide.",
-          "**Doce: Velvet Milano.** A ficha do [Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) descreve uma fragrância gourmand. Topo de limão, bergamota, maçã e laranja; meio de rosa branca, jasmim e frutas vermelhas; fundo de sândalo, baunilha e musk. É o único dos seis que, segundo a ficha, tem micropartículas iluminadoras na fórmula."
+          "**Doce: Velvet Milano.** A ficha do [Velvet Milano](https://www.skelt.com.br/hidratante-corporal-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) descreve uma fragrância gourmand. Topo de limão, bergamota, maçã e laranja; meio de rosa branca, jasmim e frutas vermelhas; fundo de sândalo, baunilha e musk. É o único dos seis com micropartículas iluminadoras na fórmula, diz a página."
         ],
         "comparisonTable": {
           "headers": [
@@ -160288,6 +160440,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
+        "emphasis": "Pelos números da tabela, para quem quer um hidratante só a escolha é pelo perfil, porque os seis avulsos custam o mesmo; para pagar menos por grama a escolha é o Kit Radiante, porque ele baixa a conta para R$ 42,03 por 100 g.",
         "paragraphs": [
           "O preço não decide entre as fragrâncias: decide o perfil. O que muda o custo é o formato."
         ],

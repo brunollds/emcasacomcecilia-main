@@ -59,7 +59,7 @@
     {
       "heading": "Como lemos o rótulo: porção, kcal e preço por 100 g de proteína",
       "paragraphs": [
-        "A Black Skull vende dois hipercalóricos no site: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem na ficha, e a ficha não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Ninguém do site usou os produtos. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
+        "A Black Skull vende dois hipercalóricos no site: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem, e a loja não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
         "O preço do pote engana, porque a porção e a proteína de cada um são diferentes: 160 g no Masstodon, 260 g no Monstrous. Por isso a régua do artigo é por 100 g do pó, por 100 g de proteína e por 1.000 kcal."
       ],
       "bullets": [
@@ -165,7 +165,7 @@
     {
       "heading": "Masstodon Refil 3 kg: o que o rótulo diz",
       "paragraphs": [
-        "O [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p) custava R$ 129,90, nos quatro sabores, todos com estoque. É uma embalagem refil, e a ficha avisa que não acompanha medidor. O que o rótulo e a ficha mostram:"
+        "O [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p) custava R$ 129,90, nos quatro sabores, todos com estoque. É uma embalagem refil, e a página avisa que não acompanha medidor. O que a página mostra:"
       ],
       "bullets": [
         "Porção de 160 g, 18 porções por embalagem (aprox.).",
@@ -182,7 +182,7 @@
     {
       "heading": "Monstrous 2,7 kg: o que o rótulo diz",
       "paragraphs": [
-        "O [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p) custava R$ 349,90. O seletor da ficha mostra três sabores: chocolate, morango e baunilha, e o morango estava esgotado nessa data. A descrição da ficha fala em \"1000 calorias por porção\"; o texto usa o rótulo, que diz 981 kcal por 260 g. O que o rótulo e a ficha mostram:"
+        "O [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p) custava R$ 349,90. A página mostra três sabores no seletor: chocolate, morango e baunilha, e o morango estava esgotado nessa data. A descrição fala em \"1000 calorias por porção\"; o texto usa o rótulo, que diz 981 kcal por 260 g. O que a página mostra:"
       ],
       "bullets": [
         "Porção de 260 g, 10 porções por embalagem. A conta por 100 g usa os 2,7 kg do nome do produto; 10 porções de 260 g dão 2.600 g, e a tabela não traz o peso líquido.",
@@ -199,7 +199,7 @@
     {
       "heading": "Sabor: o que a loja mostra e o quadro por sabor",
       "paragraphs": [
-        "A Black Skull não publica venda por sabor, e ninguém do site provou nenhum deles. O que o site mostra é a lista de sabores de cada produto e quais têm estoque. Sabor é escolha sua. O quadro traz os sete sabores do catálogo, com o preço do dia e a conta do artigo; a tabela nutricional é a mesma dentro de cada produto, então o número não muda de um sabor para o outro."
+        "A Black Skull não publica venda por sabor. O que o site mostra é a lista de sabores de cada produto e quais têm estoque. Sabor é escolha sua. O quadro traz os sete sabores do catálogo, com o preço do dia e a conta do artigo; a tabela nutricional é a mesma dentro de cada produto, então o número não muda de um sabor para o outro."
       ],
       "comparisonTable": {
         "headers": [
@@ -352,7 +352,9 @@
         "caption": "Quadro nosso com o rótulo e o preço; em amarelo, quem leva vantagem em cada linha.",
         "objectFit": "contain",
         "aspectRatio": 1.4423
-      }
+      },
+      "emphasis": "Pelos números da tabela, para quem quer pagar menos por proteína a escolha é o Masstodon, porque custa menos por 100 g de proteína e por 1.000 kcal.",
+      "emphasisAfterParagraph": 1
     },
     {
       "heading": "Perguntas frequentes",
@@ -364,5 +366,16 @@
         "Quais sabores do Monstrous estão à venda? O seletor da ficha mostra chocolate, morango e baunilha; o morango estava esgotado. O Masstodon tem baunilha, morango, chocolate e banana, todos com estoque na mesma data."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Quem escolhe pelo menor custo da proteína e da caloria: o Masstodon, com mais carboidrato por grama de proteína.",
+      "Quem quer mais proteína em 100 g do pó, com menos carboidrato por grama de proteína: o Monstrous."
+    ],
+    "skipIf": [
+      "Quem evita lactose: os dois declaram \"Contém lactose\" no rótulo.",
+      "Quem precisa do pote mais barato fica longe do Monstrous, que custa 2,7 vezes o preço do Masstodon.",
+      "Quem tem condição de saúde, está grávida ou tem objetivo específico: falar com nutricionista ou médico antes de comprar."
+    ]
+  }
 }
