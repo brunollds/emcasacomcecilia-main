@@ -254,7 +254,7 @@ export function runYesStyleMutationTest(): { success: boolean; errors: string[] 
         resolved.rewardCodeLabel,
         resolved.rewardFieldNote,
         resolved.promosSectionTitle,
-        resolved.promosIntro,
+        ...Object.values(resolved.promosIntro),
         resolved.emptyPromosNotice,
         resolved.emptyPromosSubtext,
         ...resolved.activePromoOffers.flatMap((promo) => [...promo.conditions, promo.regionLabel]),

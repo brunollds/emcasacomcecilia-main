@@ -56,7 +56,7 @@ export interface ResolvedYesStylePage {
   nextOrders: { label: string; discount: string };
   newCustomerDiscount: number;
   promosSectionTitle: string;
-  promosIntro: string;
+  promosIntro: { before: string; highlight: string; after: string };
   emptyPromosNotice: string;
   emptyPromosSubtext: string;
   promoLabels: PageCopy['promoLabels'];
@@ -137,6 +137,19 @@ function splitTitle(template: string) {
     throw new Error(`[YesStyle] O título precisa terminar em "<antes> {newDiscount}% <depois>": "${template}"`);
   }
   return [parts[1], parts[2], parts[3]];
+}
+
+// "vencem, vão no campo Coupon Code e [[somam com o {code}]]." → o trecho entre [[ ]] sai em destaque, para
+// ninguém achar que precisa escolher entre o cupom da loja e o código de recompensa.
+const HIGHLIGHT_PARTS = /^([^[\]]*)\[\[([^[\]]+)\]\]([^[\]]*)$/;
+
+function fillHighlighted(template: string, reward: YesStyleRewardOffer, promoCode: string) {
+  const parts = template.match(HIGHLIGHT_PARTS);
+  if (!parts || !parts[2].includes('{code}')) {
+    throw new Error(`[YesStyle] O texto precisa de um trecho [[...]] com o {code}: "${template}"`);
+  }
+  const [before, highlight, after] = parts.slice(1).map((part) => fillPlaceholders(part, reward, promoCode));
+  return { before, highlight, after };
 }
 
 export function resolveYesStylePage(
@@ -257,7 +270,7 @@ export function resolveYesStylePage(
     nextOrders: { label: page.nextOrdersLabel, discount: formatPercent(reward.returningCustomerDiscount) },
     newCustomerDiscount: reward.newCustomerDiscount,
     promosSectionTitle: page.promosSectionTitle,
-    promosIntro: fillPlaceholders(page.promosIntroTemplate, reward, firstPromoCode),
+    promosIntro: fillHighlighted(page.promosIntroTemplate, reward, firstPromoCode),
     emptyPromosNotice: fillPlaceholders(page.emptyPromosNoticeTemplate, reward, firstPromoCode),
     emptyPromosSubtext: fillPlaceholders(page.emptyPromosSubtextTemplate, reward, firstPromoCode),
     promoLabels: page.promoLabels,
