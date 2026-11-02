@@ -3,8 +3,8 @@
   "slug": "vestido-de-fiesta-shein",
   "locale": "es",
   "translationKey": "shein-vestido-festa",
-  "title": "Vestido de fiesta en SHEIN Brasil: cómo elegirlo según la ocasión y la tela",
-  "seoTitle": "Vestido de fiesta en SHEIN Brasil: cómo elegir para Navidad y graduación",
+  "title": "Vestido de fiesta en SHEIN: cómo elegir según la ocasión, la tela y el plazo",
+  "seoTitle": "Vestido de fiesta SHEIN: cómo elegir para Navidad, Nochevieja y graduación",
   "type": "Guía de compra",
   "category": "guias-praticos-utilidade",
   "reviewKind": "guia",
@@ -15,36 +15,34 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Cómo elegir un vestido de fiesta en SHEIN Brasil para una graduación, una boda como invitada o la fiesta de fin de año: ocasión, tela, talla y entrega.",
-  "metaDescription": "Vestido de fiesta en SHEIN Brasil: ocasión, tela, talla y entrega para Navidad, Año Nuevo y graduación.",
+  "description": "Cómo elegir un vestido de fiesta en SHEIN para graduación, boda como invitada y fin de año: ocasión, tela, talla y plazo, con tres vestidos revisados en la tienda.",
+  "metaDescription": "Vestido de fiesta SHEIN: ocasión, tela, talla y plazo para Navidad y graduación, con tres vestidos de la tienda leídos en la página de cada producto.",
   "publishedAt": "30 de octubre de 2026",
   "publishedAtISO": "2026-10-30",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
   "image": "/images/reviews/shein/vestido-de-festa-shein-capa.webp",
-  "imageAlt": "Vestidos de fiesta de SHEIN en azul marino y azul polvo, para Navidad, Año Nuevo y graduación",
+  "imageAlt": "Vestidos de fiesta de SHEIN en azul marino y azul empolvado, para Navidad, Nochevieja y graduación",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
-    "Una lista clara para revisar tela, forro y largo",
-    "Guía de tallas en centímetros para cada producto",
-    "El código de referido explicado, para no confundirlo con un cupón"
+    "Tres vestidos con tela, forro y valoración leídos en la página de cada producto",
+    "Guía de tallas en centímetros para cada prenda"
   ],
   "cons": [
-    "La entrega y los impuestos dependen del pedido y del país",
-    "El título y la descripción no siempre coinciden en el largo",
-    "Los precios de oferta cambian"
+    "La entrega tiene que llegar antes de la fecha de la fiesta",
+    "El precio de oferta cambia"
   ],
   "cta": {
-    "text": "Busca el vestido por su nombre en SHEIN y revisa los impuestos y el envío en el resumen del pedido antes de pagar.",
+    "text": "Busca el vestido por su nombre en SHEIN y revisa el plazo en la página del pedido antes de pagar.",
     "label": "Ir a SHEIN",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
   },
   "coupon": "4CW5Y",
   "affiliate": "shein",
-  "editorialNote": "Basado en las páginas de producto y las reglas de SHEIN Brasil, revisadas el día de la publicación. Podemos recibir comisión por las compras y por el código de referido 4CW5Y.",
+  "editorialNote": "Datos comprobados el día de la publicación en SHEIN. Podemos recibir comisión por los enlaces y por el código de invitación 4CW5Y. Nadie del equipo usó las prendas.",
   "relatedArticles": [
     {
       "slug": "shein-es-confiable-y-seguro",
@@ -55,15 +53,15 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Un vestido de fiesta en SHEIN Brasil se elige por tres cosas: la ocasión, la tela y la fecha de llegada. En Navidad y Nochevieja, el plazo pesa más que el corte. En una graduación o como invitada de boda, la duda es el color, el largo y el tono del evento. Esta guía explica cada punto con los datos de la propia tienda."
+        "Un vestido de fiesta en SHEIN se elige por tres cosas: la ocasión, la tela y la fecha de llegada. Para Navidad y Nochevieja, el plazo pesa más que el modelo. Para graduación e invitada de boda, la duda es de color, largo y tono. Abajo, tres vestidos de la tienda con tela, forro y valoración."
       ]
     },
     {
       "heading": "Cómo elegir según la ocasión",
       "paragraphs": [
-        "Fiestas de fin de año: manda el plazo. La fecha de entrega aparece solo en la página del pedido, así que confírmala antes de pagar si la fiesta es en pocas semanas.",
-        "Graduación: el color y el largo deciden. Mira la invitación y la hora de la ceremonia. Un evento de noche pide un vestido largo o midi; uno de día admite modelos más cortos.",
-        "Invitada de boda: el tono del evento va antes que el modelo. De día o de noche, iglesia o salón. Revisa la invitación antes de elegir el color.",
+        "Fiesta de fin de año: manda el plazo. El pedido pasa por el procesamiento antes del envío, y la entrega aparece solo en la página del pedido. Si la fiesta cae en la semana de Navidad o de Nochevieja, cierre el pedido solo después de ver la fecha de entrega prevista.",
+        "Graduación: deciden el color y el largo. Mire la invitación y la hora. De noche, el largo y el midi suelen funcionar. De día, un modelo corto o medio encaja mejor.",
+        "Boda como invitada: el tono del evento va antes que el modelo. De día o de noche, iglesia o salón. Conviene ver la invitación y la hora de la ceremonia antes de elegir el color.",
         "El vestido de novia y el de dama de honor quedan fuera de esta guía."
       ],
       "images": [
@@ -98,7 +96,7 @@
           {
             "piece": "Graduación",
             "howTo": "De noche, largo o midi con sandalia de tiras finas; de día, corto o midi con zapato cerrado.",
-            "occasion": "Ceremonia y baile de graduación; la invitación dice el código de vestimenta.",
+            "occasion": "Ceremonia y baile; la invitación indica el atuendo.",
             "pairsWith": [
               {
                 "label": "sandalia de tiras finas"
@@ -113,8 +111,8 @@
           },
           {
             "piece": "Invitada de boda",
-            "howTo": "De día, tela ligera con zapato cerrado o sandalia plana; de noche, largo con tacón. El blanco es para la novia.",
-            "occasion": "Ceremonia en iglesia o salón, de día o de noche.",
+            "howTo": "De día, tela ligera con zapato cerrado o sandalia baja; de noche, largo con tacón. El blanco queda para la novia.",
+            "occasion": "Ceremonia en iglesia o en salón, de día o de noche.",
             "pairsWith": [
               {
                 "label": "zapato cerrado de tacón medio"
@@ -123,7 +121,7 @@
                 "label": "bolso estructurado"
               },
               {
-                "label": "abrigo ligero"
+                "label": "blazer ligero"
               }
             ]
           }
@@ -133,18 +131,18 @@
     {
       "heading": "Cómo leer la descripción de la prenda",
       "paragraphs": [
-        "La descripción dice más que la foto. Mira:"
+        "Antes de pagar, lea la descripción de la prenda, no solo la foto. Indica composición, forro, transparencia, largo, cierre y lavado."
       ],
       "bullets": [
-        "**Tela:** el poliéster con elastano es común en estos vestidos. Revisa el porcentaje de cada material, no solo el nombre.",
-        "**Forro y transparencia:** sin forro, puede verse el color de la ropa interior.",
-        "**Largo:** midi, largo y corto cambian el look. El título y la descripción no siempre coinciden; revisa la medida en centímetros.",
-        "**Lavado:** la descripción indica si va a máquina, a mano o solo en seco."
+        "**Tela:** el poliéster con elastano aparece mucho en estos vestidos. Mire el porcentaje de cada material, no solo el nombre.",
+        "**Forro y transparencia:** sin forro, el color de la ropa interior puede notarse.",
+        "**Largo:** midi, largo y corto cambian el look. El título y la descripción no siempre coinciden, así que compruebe la medida en centímetros.",
+        "**Lavado:** la descripción dice si la prenda va a máquina, a mano o solo en seco. Si es solo en seco, cuente con la tintorería."
       ],
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-lado.webp",
-          "alt": "Modelo de perfil con vestido azul polvo de un hombro y falda de tul",
+          "alt": "Modelo de perfil con vestido azul empolvado de un hombro y falda de tul",
           "caption": "Foto oficial de SHEIN.",
           "objectFit": "contain",
           "aspectRatio": 0.7506,
@@ -155,37 +153,38 @@
     {
       "heading": "Tres vestidos leídos en SHEIN",
       "paragraphs": [
-        "Nadie del equipo usó estas prendas. La tela, el largo y la nota vienen de las páginas de cada producto. Antes de comprar, revisa el precio y la estimación de entrega en la página de la tienda."
+        "La tela, el largo y la valoración vienen de las páginas de los productos, leídas el 30/10/2026. Compruebe el precio y la fecha de entrega prevista en la página de la prenda antes de pagar."
       ],
       "comparisonTable": {
         "caption": "Tres vestidos de SHEIN, con datos de la página de cada producto.",
         "headers": [
           "Vestido",
           "Tela y forro",
-          "Ocasión y nota"
+          "Ocasión y valoración"
         ],
         "rows": [
           [
-            "[Vestido largo Firerie, un hombro, tul (azul polvo)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
-            "95% poliéster y 5% elastano. Forrado, no transparente, maxi.",
-            "Boda, según la tienda. Nota 4.84, con más de 1.000 opiniones."
+            "[Vestido largo Firerie, un hombro, tul (azul empolvado)](https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C)",
+            "95 % poliéster y 5 % elastano. Con forro, no transparente, maxi.",
+            "Boda, según la tienda. Valoración 4,84, con más de 1.000 comentarios."
           ],
           [
-            "[Vestido corto Via Vilarinho, de corte sastre, escote cuadrado (azul marino)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
-            "95% poliéster y 5% elastano. Forro solo en la parte de arriba. Corto en el título, midi en la descripción.",
-            "Noche, boda y oficina, según la tienda. Nota 4.88, con 80 opiniones."
+            "[Vestido corto Via Vilarinho, sastre, escote cuadrado (azul marino)](https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C)",
+            "95 % poliéster y 5 % elastano. Forro solo en la parte de arriba. Corto en el título, midi en la descripción.",
+            "Noche, boda y oficina, según la tienda. Valoración 4,88, con 80 comentarios."
           ],
           [
             "[Vestido largo ADYCE, lentejuelas, hombros descubiertos, abertura (azul marino)](https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C)",
-            "95% poliéster y 5% elastano. Forrado, no transparente, largo, con abertura.",
-            "Fiesta, formal y nocturna, según la tienda. Nota 4.89, con más de 1.000 opiniones."
+            "95 % poliéster y 5 % elastano. Con forro, no transparente, largo, con abertura.",
+            "Fiesta, formal y de noche, según la tienda. Valoración 4,89, con más de 1.000 comentarios."
           ]
         ]
       },
+      "postParagraphs": [],
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-frente.webp",
-          "alt": "Modelo con vestido de un hombro azul polvo, con fruncidos en la cintura, frente a una pared gris",
+          "alt": "Modelo con vestido de un hombro azul empolvado, con frunces en la cintura, ante una pared gris",
           "caption": "Foto oficial de SHEIN.",
           "objectFit": "contain",
           "aspectRatio": 0.7506,
@@ -193,7 +192,7 @@
         },
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-via-frente.webp",
-          "alt": "Modelo con vestido azul marino de manga corta y escote cuadrado, frente a un muro cubierto de hiedra",
+          "alt": "Modelo con vestido azul marino de manga corta y escote cuadrado, frente a un muro con hiedra",
           "caption": "Foto oficial de SHEIN.",
           "objectFit": "contain",
           "aspectRatio": 0.7792,
@@ -201,7 +200,7 @@
         },
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-adyce-frente.webp",
-          "alt": "Modelo con vestido largo azul marino de lentejuelas y abertura, sobre un suelo de mármol",
+          "alt": "Modelo con vestido largo azul marino de lentejuelas y abertura, sobre suelo de mármol",
           "caption": "Foto oficial de SHEIN.",
           "objectFit": "contain",
           "aspectRatio": 0.7506,
@@ -214,8 +213,8 @@
           {
             "piece": "Vestido largo Firerie",
             "url": "https://onelink.shein.com/58/66pzepiijscq?ismg_ol=L7gigMpX0lC_01_KOC-C",
-            "howTo": "El hombro descubierto ya destaca: pendientes pequeños y pelo recogido.",
-            "occasion": "Boda, según la tienda.",
+            "howTo": "El hombro descubierto ya es el protagonista: pendientes pequeños y pelo recogido.",
+            "occasion": "Boda.",
             "pairsWith": [
               {
                 "label": "sandalia de tacón fino"
@@ -231,11 +230,11 @@
           {
             "piece": "Vestido corto Via Vilarinho",
             "url": "https://onelink.shein.com/58/66pzfn21gpx1?ismg_ol=63IBNlwTo7Y_01_KOC-C",
-            "howTo": "El corte de sastre pide zapato cerrado y bolso estructurado; con blazer, sirve para la oficina.",
-            "occasion": "Noche, boda y oficina, según la tienda.",
+            "howTo": "El corte sastre pide zapato cerrado y bolso estructurado; con blazer, sirve para la oficina.",
+            "occasion": "Noche, boda y oficina.",
             "pairsWith": [
               {
-                "label": "zapato de tacón"
+                "label": "salón de tacón"
               },
               {
                 "label": "bolso estructurado"
@@ -248,8 +247,8 @@
           {
             "piece": "Vestido largo ADYCE",
             "url": "https://onelink.shein.com/58/66pzhc81dovn?ismg_ol=Dfk9wEmH6so_01_KOC-C",
-            "howTo": "Las lentejuelas y la abertura ya llaman la atención: accesorio discreto y sandalia de tiras finas.",
-            "occasion": "Fiesta formal de noche, según la tienda.",
+            "howTo": "Las lentejuelas y la abertura ya llaman la atención: accesorios discretos y sandalia de tiras finas.",
+            "occasion": "Fiesta formal de noche.",
             "pairsWith": [
               {
                 "label": "sandalia de tiras finas"
@@ -266,14 +265,18 @@
       }
     },
     {
-      "heading": "Talla: usa la medida de la prenda",
+      "heading": "Talla: use la medida de la prenda",
       "paragraphs": [
-        "SHEIN publica una guía de tallas para cada producto, en centímetros y pulgadas, con la forma de medir. No hay una tabla única de tallas, así que usa la guía del vestido que elegiste. Para tallas grandes, el método es el mismo: compara las medidas de la prenda con las tuyas, no el número de la etiqueta."
+        "No existe una tabla única de tallas: use la del vestido que eligió. SHEIN publica la guía de cada prenda, en centímetros y en pulgadas, con la forma de medir.",
+        "El Firerie se describe como slim fit, lo que pide una medida más precisa en el busto y la cintura."
+      ],
+      "postParagraphs": [
+        "Para tallas grandes, el método es el mismo: compare la medida de la prenda con la suya, no el número de la etiqueta."
       ],
       "images": [
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-via-costas.webp",
-          "alt": "Modelo de espaldas con vestido azul marino de manga corta y largo midi",
+          "alt": "Modelo de espaldas con vestido azul marino de manga corta y largo medio",
           "caption": "Foto oficial de SHEIN.",
           "objectFit": "contain",
           "aspectRatio": 0.7792,
@@ -281,7 +284,7 @@
         },
         {
           "src": "/images/reviews/shein/vestido-de-festa-shein-firerie-costas.webp",
-          "alt": "Modelo de espaldas con vestido largo azul polvo de un hombro, frente a una pared gris",
+          "alt": "Modelo de espaldas con vestido largo azul empolvado de un hombro, ante una pared gris",
           "caption": "Foto oficial de SHEIN.",
           "objectFit": "contain",
           "aspectRatio": 0.7506,
@@ -290,9 +293,9 @@
       ]
     },
     {
-      "heading": "Plazo: suma la fecha de la fiesta",
+      "heading": "Plazo: sume hasta la fecha de la fiesta",
       "paragraphs": [
-        "Los pedidos tardan de 3 a 5 días en procesarse antes del envío. Suma ese plazo a la entrega estimada de la página del pedido. Si la suma pasa de la fecha de la fiesta, este vestido no es la compra correcta para esa fecha."
+        "El pedido pasa por el procesamiento antes del envío. Sume los días de procesamiento a la entrega que muestra la página del pedido. Si la suma pasa de la fecha de la fiesta, ese vestido no es la compra adecuada para esa fecha."
       ],
       "images": [
         {
@@ -314,13 +317,18 @@
     {
       "heading": "Cambios y devoluciones",
       "paragraphs": [
-        "La página de la tienda tiene las reglas de devolución de cada vendedor. Para cambiar la talla, devuelve la prenda y haz un pedido nuevo."
+        "Para cambiar de talla, cuente con la devolución y el reembolso, y haga un pedido nuevo con la medida correcta."
       ]
     },
     {
       "heading": "Antes de pagar",
-      "paragraphs": [
-        "Revisa la fecha de entrega y el resumen del pedido antes de pagar, y guarda la confirmación. El código 4CW5Y es el código de referido de SHEIN Brasil, no un cupón: se busca en la aplicación y no da descuento. Cómo funciona está en [la guía del código de referido](/es/reviews/codigo-de-referido-shein-donde-ponerlo), y las campañas vigentes, en [la página de SHEIN](/es/coupons/shein)."
+      "bullets": [
+        "La fecha de entrega prevista aparece en la página del pedido. Compruébela antes de pagar.",
+        "Guarde la confirmación del pedido."
+      ],
+      "postParagraphs": [
+        "Un cupón de la plataforma vale por pedido, con todas las formas de pago.",
+        "El 4CW5Y no es un cupón. Es el código de invitación de SHEIN: se busca en la barra de búsqueda de la aplicación, no se pega en el pago, y no da descuento ni se suma a nada. Cómo funciona, véalo en [el código de invitación](/es/reviews/codigo-de-referido-shein-donde-ponerlo). Las campañas de la tienda están en la [página de SHEIN](/es/coupons/shein)."
       ],
       "images": [
         {
@@ -336,10 +344,20 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Un vestido de fiesta de SHEIN llega a tiempo para Navidad? Depende de la fecha del pedido y de la entrega que muestre la página. Compara esa fecha con la de la fiesta.",
-        "¿Cómo sé si el vestido es largo o midi? Por el largo que indica la descripción y por la medida en centímetros de la guía de tallas.",
-        "¿El código 4CW5Y da descuento? No. Es un código de referido, no un cupón, y no da descuento."
+        "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Sume los días de procesamiento y la entrega prevista de la página, y compárelo con la fecha de la fiesta.",
+        "¿Cómo saber si el vestido es largo o midi? Por el largo que declara la descripción y por la medida en centímetros de la guía de tallas de la prenda.",
+        "¿Se puede usar el 4CW5Y para conseguir descuento? No. Es un código de invitación: no da descuento y no es un cupón."
       ]
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Llévelo si la entrega prevista en la página del pedido llega antes de la fecha de la fiesta.",
+      "Llévelo si la descripción trae composición, forro y largo en centímetros, y la medida de la prenda coincide con la suya."
+    ],
+    "skipIf": [
+      "Pase si el procesamiento sumado a la entrega pasa de la fecha de la fiesta.",
+      "Pase si la prenda no tiene forro y la transparencia le molesta, o si solo se lava en seco y no quiere ir a la tintorería."
+    ]
+  }
 }

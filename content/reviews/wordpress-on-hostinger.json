@@ -56,7 +56,7 @@
       "image": {
         "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-en.webp",
         "alt": "WordPress on Hostinger chart by project: up to three sites go to Premium; several sites or a WooCommerce store go to Unlimited; a store or a site with heavy traffic goes to Cloud Startup",
-        "caption": "The summary of the choice: the number of sites, the space and the backup decide the plan. Chart by Em Casa com Cecília, from what Hostinger's pages say on October 30, 2026.",
+        "caption": "The summary of the choice: the number of sites, the space and the backup decide the plan. Chart by Em Casa com Cecília, from what Hostinger's pages say.",
         "objectFit": "contain",
         "aspectRatio": 1.6981
       },
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "heading": "Price and renewal on October 30, 2026",
+      "heading": "Price and renewal",
       "paragraphs": [
         "The prices below come from Hostinger's international site, in US dollars, read on October 30, 2026, on the 48-month term and the campaign's promotional price. The monthly price is the total divided by 48. Renewal is the monthly price after the first period. Prices can vary by country and currency, so check the cart:"
       ],
@@ -111,18 +111,18 @@
         ]
       },
       "postParagraphs": [
-        "The page we read gives no end date for the campaign, and prices can change."
+        "The page gives no end date for the campaign, and prices can change."
       ],
       "emphasis": "Renewal costs about 3 to 5 times the promotional price. Choose the plan by the renewal column, not only by the entry price."
     },
     {
       "heading": "What comes with the plans",
       "paragraphs": [
-        "From Hostinger's international page, on October 30, 2026, without a test of our own:"
+        "From Hostinger's international page, on October 30, 2026:"
       ],
       "bullets": [
         "**Sites and space.** Premium: 3 sites and 20 GB SSD. Unlimited: unlimited sites and 50 GB NVMe. Cloud Startup: unlimited sites and 100 GB NVMe.",
-        "**Backups.** Premium has weekly backups and Unlimited has daily ones. The page we read does not say which backup Cloud Startup has, so check it in the cart.",
+        "**Backups.** Premium has weekly backups and Unlimited has daily ones. The page does not say which backup Cloud Startup has, so check it in the cart.",
         "**Domain and e-mail.** They change by plan and by period. Check in the cart what comes free and for how long."
       ]
     },
@@ -138,12 +138,6 @@
       ],
       "postParagraphs": [
         "How Hostinger charges, renews and refunds is covered in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
-      ]
-    },
-    {
-      "heading": "If you already advertise on Google",
-      "paragraphs": [
-        "According to the terms of the promotion, read on October 30, 2026, anyone who creates or connects a Google Ads account through the Hostinger panel integration and spends USD 500 in the first 60 days gets USD 500 in ad credit, in the United States. Google decides who is eligible, the promotion can change, and the terms give no expiry date. It is for those who would spend that amount anyway; it is not a reason to start advertising."
       ]
     },
     {
@@ -169,9 +163,9 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Which is the cheapest WordPress plan on Hostinger? On October 30, 2026, Premium, at US$ 2.49 a month over 48 months (US$ 119.52 in total), for up to 3 sites. It renews at US$ 10.99 a month.",
+        "Which is the cheapest WordPress plan on Hostinger? Premium, at US$ 2.49 a month over 48 months (US$ 119.52 in total), for up to 3 sites. It renews at US$ 10.99 a month.",
+        "Does WordPress come installed on Hostinger? You install it from the hosting panel, without downloading files by hand. The checklist above covers the steps.",
         "Which WordPress plan suits an online store? Unlimited, for its daily backups and unlimited sites. For a store with heavy traffic, Cloud Startup.",
-        "Do I need to know how to code to use WordPress on Hostinger? No. To start, you only need to choose a plan and a theme, and the checklist above covers the steps.",
         "Does the SONAR20 code work on the WordPress plans? We did not test it there; check the price in the cart. Where it works, it gives 20% off the first period.",
         "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month."
       ]
@@ -179,7 +173,7 @@
     {
       "heading": "Who writes this",
       "paragraphs": [
-        "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since November 17, 2024. The site does not use WordPress, and no one on the team has used WordPress on Hostinger: this text gathers what Hostinger's WordPress hosting pages on the international site, in US dollars, and the Google Ads promotion terms say, read on October 30, 2026."
+        "Em Casa com Cecília runs on Hostinger's managed hosting, as a Node.js Web App, and the domain has been registered with Hostinger since 2024. The site does not use WordPress, and no one on the team has used WordPress on Hostinger: this text gathers what Hostinger's WordPress hosting pages on the international site, in US dollars, say, read on October 30, 2026."
       ]
     }
   ],
@@ -205,7 +199,18 @@
     },
     {
       "slug": "hostinger-domain-buy-transfer-or-elsewhere",
-      "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Price, renewal and what to check"
+      "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Renewal and what to check"
     }
-  ]
+  ],
+  "decision": {
+    "takeIf": [
+      "Take Premium if it is one site only and you publish now and then: it is the entry plan.",
+      "Take Premium too if you will have two or three sites.",
+      "Take Unlimited if you have a store or many sites: the daily backup starts there."
+    ],
+    "skipIf": [
+      "Skip Cloud Startup if Unlimited is still enough: it is the most expensive plan, on renewal too.",
+      "Skip WordPress if you do not want to install a theme or a plugin, or update anything: the same plans come with the AI website builder."
+    ]
+  }
 }

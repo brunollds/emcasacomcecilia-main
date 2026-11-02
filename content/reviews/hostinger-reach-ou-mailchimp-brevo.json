@@ -247,6 +247,17 @@
       ]
     }
   ],
+  "decision": {
+    "takeIf": [
+      "Leve o Reach se já tem site na Hostinger e a lista cabe em até 1.000 destinatários.",
+      "Leve o Reach Pro se precisa mandar mensagem por WhatsApp.",
+      "Leve se manda para a lista até uma vez por semana, dentro do limite mensal de envio do plano."
+    ],
+    "skipIf": [
+      "Passe se a lista está começando e cabe no plano grátis do Mailchimp ou do Brevo.",
+      "Passe se a lista passa de 1.000 contatos ou se você manda para todos mais de uma vez por semana."
+    ]
+  },
   "pros": [],
   "cons": [],
   "cta": {
