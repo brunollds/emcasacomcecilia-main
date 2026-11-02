@@ -163,7 +163,8 @@ export function ReviewNotebookTemplate({
   const bodySectionIds = new Set(bodySections.map(({ id }) => id));
   const unanchoredNotes = notes.filter((note) => !note.anchor || (!bodySectionIds.has(note.anchor) && !isLineAnchor(note.anchor)));
 
-  // Os banners de campanha da loja (content/campanhas/): o `top` depois da 1ª seção do corpo, o `mid` antes do FAQ.
+  // Os banners de campanha da loja (content/campanhas/): o `top` depois da 1ª seção do corpo, o `mid` antes do FAQ e o
+  // `end` depois da última seção, abaixo do quadro de decisão.
   // Cada lugar leva a fila das campanhas que não acabaram, cada uma no seu prazo: a que ainda não começou vai
   // escondida no HTML e aparece no navegador na hora do início.
   const now = new Date();
@@ -201,6 +202,9 @@ export function ReviewNotebookTemplate({
       const lastId = bodySections[bodySections.length - 1].id;
       sectionSlots[lastId] = { ...sectionSlots[lastId], after: <>{sectionSlots[lastId]?.after}{decision}</> };
     }
+  }
+  if (banners.end && bannerPlaces.end) {
+    sectionSlots[bannerPlaces.end] = { ...sectionSlots[bannerPlaces.end], after: <>{sectionSlots[bannerPlaces.end]?.after}{bannerQueue(banners.end)}</> };
   }
 
   return (
