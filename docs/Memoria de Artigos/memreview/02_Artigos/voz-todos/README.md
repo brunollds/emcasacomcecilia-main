@@ -6,6 +6,9 @@
 - **Cartão de destaque (`emphasis`):** no máximo 1 por artigo, com a frase de veredito pessoal ou outro julgamento que a Cecília assinaria. O cartão assina "Cecília Mauad". Dado de loja, regra de cupom e aviso ("Atenção:", "Importante:") voltam ao parágrafo. Guia de escolha e comparativo sem cartão ganham o cartão com a frase de veredito (Job 2, seção 5).
 - **Ficha, estrelas, prós e contras:** só em artigo de produto com uso real. Prós e contras em guia ficam no JSON sem aparecer na página: não acrescentar, e não é preciso apagar.
 
+- **Alimento infantil e dieta enteral** (Nanlac, Ninho Fases, Aptanutri, Isosource, Trophic e afins): sem quadro "Leve se / Passe se" e sem frase "a escolha é". A escolha é do pediatra ou da prescrição; o artigo mostra os perfis pelo rótulo.
+- **Tamanho:** o conserto passa do original em no máximo uma oração curta.
+
 ## Já sabido para os lotes seguintes
 - `hostinger-horizons-vale-a-pena`, `hostinger-reach-ou-mailchimp-brevo`, `hostinger-ou-hostgator` e `wordpress-na-hostinger`: o cartão traz dado de loja (renovação, reembolso, duração da promoção). O dado volta ao parágrafo, e o cartão leva a frase de veredito.
 
