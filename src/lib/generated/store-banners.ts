@@ -3,6 +3,193 @@ import type { StoreBanner } from '../storeBanners';
 
 export const storeBannersData: StoreBanner[] = [
   {
+    "id": "bagaggio-black-friday-2026",
+    "affiliate": "bagaggio",
+    "slot": "top",
+    "href": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "art": {
+      "kind": "tag",
+      "value": "70%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Bagaggio: até 70% OFF",
+        "text": "Campanha da própria Bagaggio. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Página /black-friday de bagaggio.com.br (conferido em 02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "bagaggio-leve-3-pague-2",
+    "affiliate": "bagaggio",
+    "slot": "mid",
+    "href": "https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Leve 3 e pague 2 na Bagaggio",
+        "text": "Campanha da própria Bagaggio. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner da home de bagaggio.com.br (conferido em 02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "clea-store-black-friday-2026",
+    "affiliate": "clea-store",
+    "slot": "top",
+    "href": "https://www.cleastore.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Cléa Store: 30% OFF em todo o site",
+        "text": "Campanha da própria Cléa Store, com kits de camiseta a preço fixo. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner do topo de cleastore.com.br (conferido em 02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "damie-esquenta-black-2026",
+    "affiliate": "damie",
+    "slot": "top",
+    "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=banner-esquenta-black",
+    "art": {
+      "kind": "bag"
+    },
+    "endsAt": "2026-11-27T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Esquenta Black da DAMIE: poltrona com 3 presentes e frete grátis",
+        "text": "Campanha da própria DAMIE, enquanto durarem os estoques. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner do topo de damie.com.br (conferido em 02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "damie-pre-black-friday-2026",
+    "affiliate": "damie",
+    "slot": "mid",
+    "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=banner-pre-black-friday",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "A Black Friday chegou antes na DAMIE",
+        "text": "Campanha da própria DAMIE. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner do topo de damie.com.br (conferido em 02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "hostinger-black-friday-2026",
+    "affiliate": "hostinger",
+    "slot": "top",
+    "href": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "art": {
+      "kind": "tag",
+      "value": "82%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Hostinger: até 82% OFF",
+        "text": "Campanha da própria Hostinger. Os preços e as condições aparecem no site da Hostinger.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      },
+      "en": {
+        "headline": "Hostinger Black Friday: up to 82% off",
+        "text": "Run by Hostinger itself. The prices and terms are on the Hostinger website.",
+        "action": "See the offer",
+        "tag": "UP TO"
+      },
+      "es": {
+        "headline": "Black Friday en Hostinger: hasta un 82 % de descuento",
+        "text": "Una campaña de la propia Hostinger. Los precios y las condiciones están en el sitio de Hostinger.",
+        "action": "Ver la oferta",
+        "tag": "HASTA"
+      },
+      "fr": {
+        "headline": "Black Friday chez Hostinger : jusqu’à 82 % de réduction",
+        "text": "Une campagne de Hostinger. Les prix et les conditions sont sur le site de Hostinger.",
+        "action": "Voir l’offre",
+        "tag": "JUSQU’À"
+      },
+      "it": {
+        "headline": "Black Friday su Hostinger: fino all’82% di sconto",
+        "text": "Una campagna di Hostinger. I prezzi e le condizioni sono sul sito di Hostinger.",
+        "action": "Vedi l’offerta",
+        "tag": "FINO AL"
+      },
+      "de": {
+        "headline": "Black Friday bei Hostinger: bis zu 82 % Rabatt",
+        "text": "Eine Aktion von Hostinger. Preise und Bedingungen stehen auf der Hostinger-Website.",
+        "action": "Zum Angebot",
+        "tag": "BIS ZU"
+      },
+      "ja": {
+        "headline": "HostingerのBlack Friday：最大82%オフ",
+        "text": "Hostinger公式のキャンペーンです。価格と条件はHostingerのサイトでご確認ください。",
+        "action": "キャンペーンを見る",
+        "tag": "最大"
+      },
+      "ko": {
+        "headline": "Hostinger 블랙프라이데이: 최대 82% 할인",
+        "text": "Hostinger 자체 프로모션입니다. 가격과 조건은 Hostinger 사이트에서 확인하세요.",
+        "action": "혜택 보기",
+        "tag": "최대"
+      },
+      "zh-hans": {
+        "headline": "Hostinger黑色星期五：最高优惠82%",
+        "text": "Hostinger官方活动，价格和条件以Hostinger网站为准。",
+        "action": "查看活动",
+        "tag": "最高"
+      },
+      "zh-hant": {
+        "headline": "Hostinger黑色星期五：最高優惠82%",
+        "text": "Hostinger官方活動，價格和條件以Hostinger網站為準。",
+        "action": "查看活動",
+        "tag": "最高"
+      }
+    },
+    "source": "Banner da home de hostinger.com e hostinger.com/br (conferido em 02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "insider-black-friday-2026",
+    "affiliate": "insider",
+    "slot": "top",
+    "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+    "art": {
+      "kind": "tag",
+      "value": "40%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Insider: até 40% OFF e 50% OFF na 2ª peça",
+        "text": "Campanha da própria Insider. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Página /black-friday-insider e menu BLACK de insiderstore.com.br (conferido em 02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
     "id": "shein-itens-com-desconto",
     "affiliate": "shein",
     "slot": "mid",
@@ -138,5 +325,135 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Link de afiliado da campanha no painel da SHEIN (PR #349)",
     "verifiedAt": "2026-10-29"
+  },
+  {
+    "id": "skelt-black-friday-2026",
+    "affiliate": "skelt",
+    "slot": "mid",
+    "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+    "art": {
+      "kind": "bag"
+    },
+    "startsAt": "2026-11-27T00:00:00-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Skelt",
+        "text": "Campanha da própria Skelt. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Black Friday de 27/11/2026, informada pelo Bruno (02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "skelt-esquenta-black-friday-2026",
+    "affiliate": "skelt",
+    "slot": "top",
+    "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+    "art": {
+      "kind": "bag"
+    },
+    "startsAt": "2026-11-05T00:00:00-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Esquenta da Black Friday da Skelt",
+        "text": "Campanha da própria Skelt. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Coleção \"BF - Live 05/11\" de skelt.com.br; início informado pelo Bruno (02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "toda-up-black-november-2026",
+    "affiliate": "toda-up",
+    "slot": "top",
+    "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black November da Toda Up: a loja com desconto",
+        "text": "Campanha da própria Toda Up. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner do topo de todaup.com (conferido em 02/11/2026)",
+    "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "yesstyle-black-friday-sale-2026",
+    "affiliate": "yesstyle",
+    "slot": "top",
+    "href": "https://ystyle.co/rQYQv",
+    "art": {
+      "kind": "tag",
+      "value": "50%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday Sale da YesStyle: até 50% OFF",
+        "text": "Campanha da própria YesStyle. As condições aparecem no site da YesStyle.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      },
+      "en": {
+        "headline": "YesStyle Black Friday Sale: up to 50% off",
+        "text": "Run by YesStyle itself. The terms are on the YesStyle website.",
+        "action": "See the offer",
+        "tag": "UP TO"
+      },
+      "es": {
+        "headline": "Black Friday Sale de YesStyle: hasta un 50 % de descuento",
+        "text": "Una campaña de la propia YesStyle. Las condiciones están en el sitio de YesStyle.",
+        "action": "Ver la oferta",
+        "tag": "HASTA"
+      },
+      "fr": {
+        "headline": "Black Friday Sale chez YesStyle : jusqu’à 50 % de réduction",
+        "text": "Une campagne de YesStyle. Les conditions sont sur le site de YesStyle.",
+        "action": "Voir l’offre",
+        "tag": "JUSQU’À"
+      },
+      "it": {
+        "headline": "Black Friday Sale di YesStyle: fino al 50% di sconto",
+        "text": "Una campagna di YesStyle. Le condizioni sono sul sito di YesStyle.",
+        "action": "Vedi l’offerta",
+        "tag": "FINO AL"
+      },
+      "de": {
+        "headline": "YesStyle Black Friday Sale: bis zu 50 % Rabatt",
+        "text": "Eine Aktion von YesStyle. Die Bedingungen stehen auf der YesStyle-Website.",
+        "action": "Zum Angebot",
+        "tag": "BIS ZU"
+      },
+      "ja": {
+        "headline": "YesStyleのBlack Fridayセール：最大50%オフ",
+        "text": "YesStyle公式のキャンペーンです。条件はYesStyleのサイトでご確認ください。",
+        "action": "キャンペーンを見る",
+        "tag": "最大"
+      },
+      "ko": {
+        "headline": "YesStyle 블랙프라이데이 세일: 최대 50% 할인",
+        "text": "YesStyle 자체 프로모션입니다. 조건은 YesStyle 사이트에서 확인하세요.",
+        "action": "혜택 보기",
+        "tag": "최대"
+      },
+      "zh-hans": {
+        "headline": "YesStyle黑色星期五大促：低至5折",
+        "text": "YesStyle官方活动，具体条件以YesStyle网站为准。",
+        "action": "查看活动",
+        "tag": "最高"
+      },
+      "zh-hant": {
+        "headline": "YesStyle黑色星期五大促：低至5折",
+        "text": "YesStyle官方活動，具體條件以YesStyle網站為準。",
+        "action": "查看活動",
+        "tag": "最高"
+      }
+    },
+    "source": "Black Friday Sale até 50% OFF, informado pelo Bruno (02/11/2026)",
+    "verifiedAt": "2026-11-02"
   }
 ];
