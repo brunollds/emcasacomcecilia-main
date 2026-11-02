@@ -14,7 +14,7 @@ A revisão das traduções novas do lote 01 (#488 e #491), feita sobre a main em
 
 ## O que muda depois da revisão
 - **SHEIN sem país (#493, depois desta revisão):** os consertos da Black Friday da SHEIN que ainda escrevem "SHEIN Brasil" (en a zh, nos rótulos, na legenda da tabela e no FAQ) não entram como estão. A correção dessa família é o PR "SHEIN sem país": o 4CW5Y é o código de indicação da SHEIN, sem país. Os outros consertos da família (voz, nome, campo) entram.
-- **Nome da Cecília em japonês, coreano e chinês:** a decidir pelo Bruno (abaixo). Até lá, os consertos N que só trocam "Cecília" pelo nome local ficam de fora.
+- **Nome da Cecília em japonês, coreano e chinês (decisão do Bruno, 02/11):** fica "Cecília" em letras latinas. Os consertos N que trocam "Cecília" pelo nome local **não entram**; ao contrário, onde as traduções do lote usam セシリア, 세실리아 ou 西西莉亚/西西莉亞, volta para "Cecília".
 - **Sobrenome em chinês:** os alts da capa trazem 毛阿德 (skincare) e 茅阿德 (Black Friday YesStyle). O sobrenome sai: fica só o nome, como no resto do texto.
 
 ## Como aplicar
