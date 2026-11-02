@@ -52,6 +52,8 @@ html,body{width:${W}px;height:${H}px;overflow:hidden;background:#fef9f3}
 .tile{border-radius:40px;box-shadow:0 18px 40px rgba(40,20,110,.25);display:flex;align-items:center;justify-content:center}
 .tile img{display:block}
 .vs{font:800 64px M,sans-serif;color:var(--vs,#673de6)}
+.topo>.cena{position:absolute;inset:0;object-fit:cover}
+.topo>.produto{position:absolute;width:auto;transform:translateX(-50%) rotate(var(--rot,0deg));filter:drop-shadow(0 18px 22px rgba(0,0,0,.28))}
 .faixa{position:absolute;left:0;right:0;bottom:0;height:var(--faixa);background:#1a4d2e;display:flex;align-items:center;gap:44px;padding:0 56px}
 .logo{flex:none;width:var(--logo,280px);height:150px;max-height:calc(var(--faixa) - 60px);background:#fff;border-radius:18px;display:flex;align-items:center;justify-content:center;padding:20px 28px}
 .logo img{max-width:100%;max-height:100%;object-fit:contain}
@@ -87,7 +89,19 @@ export function guard(name, text) {
   }
 }
 
+// Cenário (que pode ser gerado por IA) com o recorte real de cada produto por cima, como última camada:
+// o produto só muda de lugar, de tamanho e de ângulo, e ganha sombra (Job 6, seção 2, item 5).
+function sceneHtml(t, src) {
+  if (!t.products?.length) throw new Error('scene precisa de products: o recorte real do produto vai por cima do cenário');
+  const product = (p) => {
+    if (!p.src || p.x == null || p.h == null) throw new Error('cada produto do scene precisa de src, x e h');
+    return `<img class="produto" style="left:${p.x}%;bottom:${p.y ?? 6}%;height:${p.h}px;--rot:${p.rotate || 0}deg" src="${src(p.src)}">`;
+  };
+  return `<div class="topo"><img class="cena" style="object-position:${t.pos || '50% 50%'}" src="${src(t.scene)}">${t.products.map(product).join('')}</div>`;
+}
+
 export function topHtml(t, src) {
+  if (t.scene) return sceneHtml(t, src);
   if (t.photo) return `<div class="topo" style="background:${t.bg || '#000'};padding:${t.pad || 0}"><img style="object-fit:${t.fit || 'cover'};object-position:${t.pos || '50% 50%'}" src="${src(t.photo)}"></div>`;
   if (t.grid) return `<div class="topo"><div class="grid">${t.grid.map((f) => `<img style="object-position:${t.pos || '50% 50%'}" src="${src(f)}">`).join('')}</div></div>`;
   if (t.row) return `<div class="topo" style="background:${t.bg || '#fff'}"><div class="row">${t.row.map((f) => `<img src="${src(f)}">`).join('')}</div></div>`;
@@ -95,7 +109,7 @@ export function topHtml(t, src) {
     const tile = (x) => (x === 'vs' ? '<div class="vs">vs</div>' : `<div class="tile" style="background:${x.bg};padding:${x.pad ?? 40}px"><img style="height:${x.h}px" src="${src(x.img)}"></div>`);
     return `<div class="topo" style="background:${t.bg || '#efeaff'}"><div class="tiles">${t.tiles.map(tile).join('')}</div></div>`;
   }
-  throw new Error('top precisa de photo, grid, row ou tiles');
+  throw new Error('top precisa de photo, grid, row, tiles ou scene');
 }
 
 function icon(n) {
@@ -148,6 +162,20 @@ export function coverHtml(c, src) {
   return `<!doctype html><meta charset="utf-8"><style>${CSS}</style><body style="${vars}">${topHtml(c.top, src)}<div class="faixa">${bandHtml(c.band, src)}</div></body>`;
 }
 
+// O recorte precisa de fundo transparente (senão o retângulo da foto cobre o cenário), e o cenário, da
+// largura mínima do Discover.
+export async function checkScene(c, baseDir) {
+  if (!c.top?.scene) return;
+  const scene = await sharp(path.resolve(baseDir, c.top.scene)).metadata();
+  if (scene.width < 1200) throw new Error(`${c.name}: o cenário tem ${scene.width} px de largura, abaixo de 1200`);
+  for (const p of c.top.products || []) {
+    // canal alfa não basta (há PNG com alfa e fundo branco opaco): os quatro cantos têm de ser transparentes
+    const { data, info } = await sharp(path.resolve(baseDir, p.src)).ensureAlpha().extractChannel(3).raw().toBuffer({ resolveWithObject: true });
+    const corners = [0, info.width - 1, (info.height - 1) * info.width, info.height * info.width - 1];
+    if (corners.some((i) => data[i] > 16)) throw new Error(`${c.name}: ${p.src} não tem fundo transparente; o produto entra recortado`);
+  }
+}
+
 export async function render(spec, baseDir, only) {
   const out = path.resolve(baseDir, spec.out || 'out');
   mkdirSync(out, { recursive: true });
@@ -161,6 +189,7 @@ export async function render(spec, baseDir, only) {
   try {
     for (const c of spec.covers) {
       if (only && c.name !== only) continue;
+      await checkScene(c, baseDir);
       const html = coverHtml(c, src);
       const file = path.join(tmp, `${c.name}.html`);
       writeFileSync(file, html);
