@@ -64,6 +64,8 @@ export type ArticleCopy = {
   // Abre a nota de transparência do topo, que fica numa linha.
   disclosureMore: string;
   // Botões do áudio do artigo, depois de tocar (o "Ouvir artigo" vem do shellDictionary).
+  // Rótulo curto do botão de ouvir na linha de dados do celular; o completo é o listenAudio.
+  listenShort: string;
   listenPause: string;
   listenResume: string;
   listenStop: string;
@@ -124,6 +126,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Marido da Cecília e a outra metade do Em Casa: atrás das câmeras e do computador.',
     brunoBoxLink: 'Conheça o Sonar de Ofertas',
     disclosureMore: 'Ler mais',
+    listenShort: 'Ouvir',
     listenPause: 'Pausar',
     listenResume: 'Continuar',
     listenStop: 'Parar',
@@ -179,6 +182,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Cecília’s husband and the other half of Em Casa, behind the camera and the computer.',
     brunoBoxLink: null,
     disclosureMore: 'Read more',
+    listenShort: 'Listen',
     listenPause: 'Pause',
     listenResume: 'Resume',
     listenStop: 'Stop',
@@ -234,6 +238,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Marido de Cecília y la otra mitad de Em Casa, detrás de la cámara y del ordenador.',
     brunoBoxLink: null,
     disclosureMore: 'Leer más',
+    listenShort: 'Escuchar',
     listenPause: 'Pausa',
     listenResume: 'Reanudar',
     listenStop: 'Detener',
@@ -289,6 +294,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Le mari de Cecília et l’autre moitié d’Em Casa, derrière la caméra et l’ordinateur.',
     brunoBoxLink: null,
     disclosureMore: 'Lire la suite',
+    listenShort: 'Écouter',
     listenPause: 'Pause',
     listenResume: 'Reprendre',
     listenStop: 'Arrêter',
@@ -344,6 +350,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Cecílias Mann und die andere Hälfte von Em Casa, hinter der Kamera und am Computer.',
     brunoBoxLink: null,
     disclosureMore: 'Mehr lesen',
+    listenShort: 'Anhören',
     listenPause: 'Pause',
     listenResume: 'Fortsetzen',
     listenStop: 'Stopp',
@@ -399,6 +406,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Il marito di Cecília e l’altra metà di Em Casa, dietro la telecamera e al computer.',
     brunoBoxLink: null,
     disclosureMore: 'Leggi di più',
+    listenShort: 'Ascolta',
     listenPause: 'Pausa',
     listenResume: 'Riprendi',
     listenStop: 'Interrompi',
@@ -454,6 +462,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Cecília의 남편이자 Em Casa의 또 다른 절반, 카메라 뒤와 컴퓨터 앞을 맡고 있어요.',
     brunoBoxLink: null,
     disclosureMore: '더 보기',
+    listenShort: '듣기',
     listenPause: '일시정지',
     listenResume: '계속 듣기',
     listenStop: '정지',
@@ -509,6 +518,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Cecíliaの夫で、Em Casaのもう半分。カメラの後ろとパソコンの前を担当しています。',
     brunoBoxLink: null,
     disclosureMore: '続きを読む',
+    listenShort: '聞く',
     listenPause: '一時停止',
     listenResume: '再開',
     listenStop: '停止',
@@ -564,6 +574,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Cecília 的丈夫，Em Casa 的另一半，負責鏡頭後和電腦前的工作。',
     brunoBoxLink: null,
     disclosureMore: '閱讀全文',
+    listenShort: '收聽',
     listenPause: '暫停',
     listenResume: '繼續',
     listenStop: '停止',
@@ -619,6 +630,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     brunoBoxBody: 'Cecília 的丈夫，Em Casa 的另一半，负责镜头后和电脑前的工作。',
     brunoBoxLink: null,
     disclosureMore: '阅读全文',
+    listenShort: '收听',
     listenPause: '暂停',
     listenResume: '继续',
     listenStop: '停止',
