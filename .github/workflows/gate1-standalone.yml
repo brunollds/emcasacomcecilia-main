@@ -40,6 +40,20 @@ jobs:
       - run: npm run test:migrate-categories
       - run: npm run test:covers
       - run: npm run build
+
+      # O build regenera os gerados (content-index.ts, store-banners.ts e os search-index*.json) antes dos testes,
+      # então um gerado velho no PR passava aqui e só travava o deploy:prepare ("mudanças locais"), como no #527.
+      - name: Generated files match the commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          if ! git diff --quiet; then
+            echo "O build mudou arquivos commitados: rode node scripts/content/build-index.mjs e commite o resultado." >&2
+            git diff --name-status >&2
+            git diff --stat >&2
+            exit 1
+          fi
+
       - run: npm run test:html-lang
 
       - name: Assert the standalone runtime artifact
