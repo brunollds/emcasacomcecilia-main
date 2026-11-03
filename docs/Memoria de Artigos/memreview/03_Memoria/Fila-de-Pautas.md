@@ -353,6 +353,18 @@ Checar também "toda up loja fisica" no autocompletar antes da próxima rodada.
 
 "Fita Up original: site oficial e onde comprar" (26/10/2026): não vira artigo, porque a resposta cabe em poucas frases e concorre com [[toda-up-e-confiavel]]. Vira seção "Onde comprar a Fita Up hoje" e FAQ "A Fita Up é golpe?" no 616 (feito no #314). A busca é quase toda pelo nome antigo ("fita up é confiável", "fita up reclame aqui", "cupom de desconto fita up", "fita up site oficial").
 
+## Simple Organic (Bruno, 03/11/2026)
+
+Parceira nova (beleza limpa, cupom S-EMCASACOMCECILIA 5%, PR #537). Fatos de 03/11 em [[simple-organic-fatos-0311]].
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| SO1 | Simple Organic é confiável? | **Pauta aprovada em 03/11/2026:** [[simple-organic-e-confiavel]] |
+| SO2 | Simple Organic no Reclame Aqui | **Pauta aprovada em 03/11/2026:** [[simple-organic-reclame-aqui-nota-reputacao]] |
+| SO3 | Cupom Simple Organic: como usar | **Pauta aprovada em 03/11/2026:** [[cupom-simple-organic-como-usar]] |
+| SO4 | Black Friday Simple Organic (Clean Friday) | **Pauta aprovada em 03/11/2026:** [[black-friday-simple-organic]] |
+| SO5 | Simple Organic é boa? (niacinamida, vitamina C, retinol, PDRN pelo rótulo) | Linha "é boa", depois do onboarding |
+
 ## Temas para depois (não prioritários)
 
 Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda não existe. Não foram descartados: voltam quando a fila acima esvaziar ou quando a condição mudar.
