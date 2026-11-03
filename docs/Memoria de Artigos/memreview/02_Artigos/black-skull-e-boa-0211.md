@@ -52,3 +52,11 @@ A ficha registra o caso de fevereiro de 2025 (a Anvisa proibiu 19 produtos manip
 - **Catraca:** resposta rápida sem preço, no máximo 2 datas no corpo, nenhuma em título de seção, legenda de foto ou FAQ.
 - **Imagens:** a capa e ao menos uma foto no corpo, só da marca (fotos oficiais ou da Cecília), pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
 - `somente-pt`, `isNew: true`, link de cada produto na primeira célula das tabelas.
+
+## Capa e imagens (aprovadas pelo Bruno em 03/11/2026)
+- **Capa:** `/images/reviews/black-skull/black-skull-e-boa-capa.webp`, 1600×900, `covers:render`, modelo "Guia ou produto". Topo: foto oficial da Black Skull com o Whey 80% HD refil e o Whey 100% HD 1,8 kg (`black-skull-ou-dux-embalagens-whey.webp`, só a marca). Faixa: logo, "Black Skull é boa?" e "Whey 80% HD, 100% HD e creatina pelo rótulo". `imageFit: contain`.
+- **Corpo:**
+  - O whey: a tabela nutricional do 80% HD (Black Skull), a capa antiga (o refil do 100% HD, foto oficial) e o 3W Core (foto oficial).
+  - A creatina: a Creatine Turbo.
+  - O pré-treino: o BOPE e o Bone Crusher.
+  - Todas as fotos são oficiais da Black Skull.
