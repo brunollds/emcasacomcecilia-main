@@ -66,7 +66,7 @@
           "Produto",
           "Tipo de proteína",
           "Proteína por dose",
-          "Doses",
+          "Proteína no pote",
           "Preço no site",
           "Por 100 g de proteína"
         ],
@@ -75,7 +75,7 @@
             "[100% Pure Whey pote, baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Concentrado (WPC)",
             "20 g em 30 g",
-            "30",
+            "600 g",
             "R$ 252,49",
             "R$ 42,08"
           ],
@@ -83,7 +83,7 @@
             "[100% Pure Whey refil, baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Concentrado (WPC)",
             "20 g em 30 g",
-            "30",
+            "600 g",
             "R$ 235,65",
             "R$ 39,28"
           ],
@@ -91,7 +91,7 @@
             "[100% Pure Whey Zero Lactose, chocolate](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Concentrado sem lactose (WPC)",
             "21 g em 30 g",
-            "30",
+            "630 g",
             "R$ 241,97",
             "R$ 38,41"
           ],
@@ -99,22 +99,22 @@
             "[Hiper 100% Whey, baunilha](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Concentrado (WPC)",
             "23 g em 40 g",
-            "22,5",
+            "517,5 g",
             "R$ 124,90 (de R$ 210,39)",
-            "R$ 24,13"
+            "R$ 24,14"
           ],
           [
             "[Iso Pro Whey, baunilha](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
             "Isolado (WPI)",
             "26 g em 30 g",
-            "30",
+            "780 g",
             "R$ 346,28",
             "R$ 44,39"
           ]
         ]
       },
       "postParagraphs": [
-        "Conta nossa: com a proteína e as doses da tabela nutricional de cada pote, o preço por 100 g de proteína é preço ÷ (proteína por dose × doses) × 100. No Hiper, as doses saem do peso: 900 g em doses de 40 g. Sem a promoção, o Hiper deixa de ser o mais barato por grama de proteína, e a loja pode tirá-la sem aviso.",
+        "Conta nossa: com a proteína da tabela nutricional de cada pote, a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Sem a promoção, o Hiper deixa de ser o mais barato por grama de proteína, e a loja pode tirá-la sem aviso.",
         "Os potes da tabela são do sabor indicado; a proteína por dose muda pouco de sabor para sabor, e o certo é conferir a tabela do que você vai comprar. O quadro por objetivo, com a seção da Probiótica, está em [melhor whey: qual escolher por objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
       ]
     },
@@ -266,7 +266,7 @@
     }
   ],
   "cta": {
-    "text": "Entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% OFF no site da Probiótica. Confira o desconto de cada item antes de pagar.",
+    "text": "Entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% de desconto no site da Probiótica. Confira o desconto de cada item antes de pagar.",
     "label": "Ir para a Probiótica com o cupom",
     "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
     "sponsored": true
