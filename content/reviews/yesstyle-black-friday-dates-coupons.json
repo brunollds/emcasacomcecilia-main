@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-  "imageAlt": "Cecília Mauad smiling with the boxes of the Abib products she received from YesStyle, in a frame from the Korean skincare routine video",
-  "imageFit": "cover",
+  "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+  "imageAlt": "Cecília Mauad with three Abib products (PDRN cream, lip mask and eye patches), with the \"Black Friday\" banner and the YesStyle logo",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
   "pros": [
@@ -84,6 +84,10 @@
     },
     {
       "heading": "The Black Friday coupon is the same as the rest of the year",
+      "image": {
+        "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+        "alt": "Cecília Mauad smiling with the boxes of the Abib products she received from YesStyle, in a frame from the Korean skincare routine video"
+      },
       "paragraphs": [
         "The October 2025 tiered coupon (Mid-Season Sale) had exactly the same tiers as the November Black Friday coupon. It is the discount YesStyle runs almost all year, changing the name and the code every few days. This week's code is on the [YesStyle coupons and Reward Code](/en/coupons/yesstyle) page, because the store swaps it within days."
       ],

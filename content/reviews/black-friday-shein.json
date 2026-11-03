@@ -22,9 +22,9 @@
   "updatedAt": "2026-11-03",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-  "imageAlt": "Cecília Mauad em dois looks de um haul da SHEIN: blusa clara amarrada na cintura com saia midi preta, e vestido longo preto com recortes claros",
-  "imageFit": "cover",
+  "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+  "imageAlt": "Cardigã esportivo preto, scarpin slingback claro e pijama floral da SHEIN, com a faixa \"Black Friday\" e o logo da SHEIN",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "Desde 13 de maio de 2026, pedidos de até US$ 50 não pagam imposto de importação",
@@ -85,6 +85,10 @@
     },
     {
       "heading": "\"Até 90%\" não é o carrinho inteiro",
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+        "alt": "Cecília Mauad em dois looks de um haul da SHEIN: blusa clara amarrada na cintura com saia midi preta, e vestido longo preto com recortes claros"
+      },
       "paragraphs": [
         "O percentual da campanha é o maior desconto de alguns itens. A maior parte do catálogo tem descontos menores, e o preço de cada peça muda ao longo das fases. Para não cair no número grande da propaganda:"
       ],

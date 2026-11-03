@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-  "imageAlt": "Cecília가 SHEIN 하울에서 입은 두 가지 룩: 허리에 묶은 밝은 블라우스와 검은 미디 스커트, 그리고 밝은 컷아웃이 들어간 검은 롱 원피스",
-  "imageFit": "cover",
+  "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+  "imageAlt": "SHEIN의 검은 스포티 카디건, 밝은 색 슬링백 펌프스, 꽃무늬 잠옷과 \"Black Friday\" 띠, SHEIN 로고",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "지난 3년간 할인은 블랙프라이데이 전에 시작해 그 뒤로도 이어졌습니다",
@@ -79,6 +79,10 @@
     },
     {
       "heading": "'최대 90%'는 장바구니 전체가 아니다",
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+        "alt": "Cecília가 SHEIN 하울에서 입은 두 가지 룩: 허리에 묶은 밝은 블라우스와 검은 미디 스커트, 그리고 밝은 컷아웃이 들어간 검은 롱 원피스"
+      },
       "paragraphs": [
         "캠페인 할인율은 일부 상품에 적용되는 가장 큰 할인입니다. 대부분의 상품은 그보다 작게 할인되고, 상품마다 가격도 단계에 따라 바뀝니다. 큰 숫자의 광고에 속지 않으려면:"
       ],

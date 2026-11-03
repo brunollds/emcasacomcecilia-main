@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-  "imageAlt": "YesStyleから届いたAbibの製品の箱を持って笑うCecília。スキンケアのルーティン動画の一場面",
-  "imageFit": "cover",
+  "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+  "imageAlt": "Abibの3つの製品（PDRNクリーム、リップマスク、アイパッチ）を持つCecília。「Black Friday」の帯とYesStyleのロゴ入り",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
   "pros": [
@@ -84,6 +84,10 @@
     },
     {
       "heading": "ブラックフライデーのクーポンは年中同じ",
+      "image": {
+        "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+        "alt": "YesStyleから届いたAbibの製品の箱を持って笑うCecília。スキンケアのルーティン動画の一場面"
+      },
       "paragraphs": [
         "2025年10月の段階式クーポン（Mid-Season Sale）は、11月のブラックフライデーのクーポンとまったく同じ段階でした。YesStyleがほぼ一年中実施している割引で、数日ごとに名前とコードが替わります。今週のコードは、[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)のページにあります。ストアが数日で替えるためです。"
       ],

@@ -20,9 +20,9 @@
   "updatedAt": "2026-11-03",
   "draft": false,
   "isNew": true,
-  "image": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
-  "imageAlt": "Cecília Mauad, com chapéu da NESCAFÉ Dolce Gusto, entre pés de café em flor",
-  "imageFit": "cover",
+  "image": "/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-faixa.webp",
+  "imageAlt": "Cinco máquinas NESCAFÉ Dolce Gusto lado a lado, com a faixa \"Black Friday da Dolce Gusto\"",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "A campanha já está no ar, com promoções novas todos os dias",
@@ -142,6 +142,10 @@
     },
     {
       "heading": "O cupom CECI na Black Friday",
+      "image": {
+        "src": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
+        "alt": "Cecília Mauad, com chapéu da NESCAFÉ Dolce Gusto, entre pés de café em flor"
+      },
       "paragraphs": [
         "O **CECI**, cupom da parceria com a loja oficial, dá 10% OFF a partir de R$ 100.",
         "Na Black Friday, quem decide é o carrinho. Algumas campanhas aceitam o cupom junto com o preço promocional, outras não. Monte o pedido, aplique o CECI no campo do cupom e veja se os 10% aparecem no resumo antes de pagar. Se não aparecerem, confira se o pedido passa de R$ 100 e se o item está numa campanha que não soma com cupom.",

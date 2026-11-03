@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-  "imageAlt": "Cecília Mauad in zwei Looks aus einem SHEIN-Haul: helle Bluse, in der Taille geknotet, mit schwarzem Midirock, und langes schwarzes Kleid mit hellen Cut-outs",
-  "imageFit": "cover",
+  "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+  "imageAlt": "Schwarze Sportjacke, helle Slingback-Pumps und geblümter Pyjama von SHEIN, mit dem Banner „Black Friday“ und dem SHEIN-Logo",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "In den letzten drei Jahren begannen die Angebote vor dem Black Friday und liefen danach weiter",
@@ -79,6 +79,10 @@
     },
     {
       "heading": "„Bis zu 90 %“ ist nicht der ganze Warenkorb",
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+        "alt": "Cecília Mauad in zwei Looks aus einem SHEIN-Haul: helle Bluse, in der Taille geknotet, mit schwarzem Midirock, und langes schwarzes Kleid mit hellen Cut-outs"
+      },
       "paragraphs": [
         "Der Prozentsatz der Aktion ist der höchste Rabatt auf einzelne Artikel. Der größte Teil des Sortiments hat kleinere Rabatte, und der Preis jedes Teils ändert sich im Lauf der Phasen. Damit Sie nicht auf die große Zahl der Werbung hereinfallen:"
       ],

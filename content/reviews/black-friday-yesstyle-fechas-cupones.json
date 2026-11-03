@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-  "imageAlt": "Cecília Mauad sonriendo con las cajas de los productos de Abib que recibió de YesStyle, en un fotograma del vídeo de la rutina de skincare coreano",
-  "imageFit": "cover",
+  "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+  "imageAlt": "Cecília Mauad con tres productos de Abib (crema PDRN, mascarilla de labios y parches para los ojos), con la franja \"Black Friday\" y el logo de YesStyle",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
   "pros": [
@@ -84,6 +84,10 @@
     },
     {
       "heading": "El cupón del Black Friday es el mismo de todo el año",
+      "image": {
+        "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+        "alt": "Cecília Mauad sonriendo con las cajas de los productos de Abib que recibió de YesStyle, en un fotograma del vídeo de la rutina de skincare coreano"
+      },
       "paragraphs": [
         "El cupón por tramos de octubre de 2025 (Mid-Season Sale) tenía exactamente los mismos tramos que el cupón del Black Friday de noviembre. Es el descuento que YesStyle mantiene casi todo el año, cambiando el nombre y el código cada pocos días. El código de la semana está en la página de [cupones YesStyle y código de recompensa](/es/coupons/yesstyle), porque la tienda lo cambia en pocos días."
       ],

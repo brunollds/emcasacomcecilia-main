@@ -54759,9 +54759,9 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
-    "imageAlt": "Cecília Mauad, com chapéu da NESCAFÉ Dolce Gusto, entre pés de café em flor",
-    "imageFit": "cover",
+    "image": "/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-faixa.webp",
+    "imageAlt": "Cinco máquinas NESCAFÉ Dolce Gusto lado a lado, com a faixa \"Black Friday da Dolce Gusto\"",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "A campanha já está no ar, com promoções novas todos os dias",
@@ -54941,6 +54941,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "O cupom CECI na Black Friday",
+        "image": {
+          "src": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
+          "alt": "Cecília Mauad, com chapéu da NESCAFÉ Dolce Gusto, entre pés de café em flor"
+        },
         "paragraphs": [
           "O **CECI**, cupom da parceria com a loja oficial, dá 10% OFF a partir de R$ 100.",
           "Na Black Friday, quem decide é o carrinho. Algumas campanhas aceitam o cupom junto com o preço promocional, outras não. Monte o pedido, aplique o CECI no campo do cupom e veja se os 10% aparecem no resumo antes de pagar. Se não aparecerem, confira se o pedido passa de R$ 100 e se o item está numa campanha que não soma com cupom.",
@@ -55030,9 +55034,9 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
-    "imageAlt": "Cecília Mauad com o Ian no colo na poltrona reclinável DAMIE bege, com porta-copos nos braços",
-    "imageFit": "cover",
+    "image": "/images/reviews/damie/black-friday-damie-capa-faixa.webp",
+    "imageAlt": "Cecília Mauad com o Ian no colo na poltrona reclinável DAMIE bege, com a faixa \"Black Friday da DAMIE\"",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Em outubro de 2026, todas as reclináveis já estavam R$ 1.000 abaixo do preço cheio",
@@ -55698,9 +55702,9 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
-    "imageAlt": "Cecília Mauad, do Em Casa com Cecília, sorrindo com a embalagem do cobertor Igloo da I Wanna Sleep no quarto",
-    "imageFit": "cover",
+    "image": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-faixa.webp",
+    "imageAlt": "Modelo enrolada no cobertor Igloo da I Wanna Sleep, com a faixa \"Black Friday da I Wanna Sleep\"",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Pillow top, travesseiros e cobertores já estavam com 12% a 17% de desconto em outubro",
@@ -55899,6 +55903,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Pix, parcelamento e cupom: o que soma",
+        "image": {
+          "src": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
+          "alt": "Cecília Mauad, do Em Casa com Cecília, sorrindo com a embalagem do cobertor Igloo da I Wanna Sleep no quarto"
+        },
         "bullets": [
           "**Pix:** a página de cada produto dá 5% de desconto, só à vista.",
           "**Cartão:** parcelado sem juros; o número de parcelas aparece na página do produto. A aprovação do cartão leva até 24 horas, e a do boleto, até 72 horas.",
@@ -57358,9 +57366,9 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "Cecília Mauad sorrindo com as caixas dos produtos da Abib que recebeu da YesStyle, num quadro do vídeo da rotina de skincare coreano",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Cecília Mauad com três produtos da Abib (creme PDRN, máscara labial e adesivo para os olhos), com a faixa \"Black Friday\" e o logo da YesStyle",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -57419,6 +57427,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "O cupom da Black Friday é o mesmo do ano todo",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "Cecília Mauad sorrindo com as caixas dos produtos da Abib que recebeu da YesStyle, num quadro do vídeo da rotina de skincare coreano"
+        },
         "paragraphs": [
           "O cupom de faixa de outubro de 2025 (Mid-Season Sale) tinha exatamente as mesmas faixas do cupom da Black Friday de novembro. É o desconto que a YesStyle roda quase o ano inteiro, trocando o nome e o código a cada poucos dias. O código da semana fica na página de [cupons YesStyle e código de recompensa](/cupons/yesstyle), porque a loja o troca em poucos dias."
         ],
@@ -57633,9 +57645,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "Cecília Mauad smiling with the boxes of the Abib products she received from YesStyle, in a frame from the Korean skincare routine video",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Cecília Mauad with three Abib products (PDRN cream, lip mask and eye patches), with the \"Black Friday\" banner and the YesStyle logo",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -57694,6 +57706,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "The Black Friday coupon is the same as the rest of the year",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "Cecília Mauad smiling with the boxes of the Abib products she received from YesStyle, in a frame from the Korean skincare routine video"
+        },
         "paragraphs": [
           "The October 2025 tiered coupon (Mid-Season Sale) had exactly the same tiers as the November Black Friday coupon. It is the discount YesStyle runs almost all year, changing the name and the code every few days. This week's code is on the [YesStyle coupons and Reward Code](/en/coupons/yesstyle) page, because the store swaps it within days."
         ],
@@ -57900,9 +57916,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "Cecília Mauad sonriendo con las cajas de los productos de Abib que recibió de YesStyle, en un fotograma del vídeo de la rutina de skincare coreano",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Cecília Mauad con tres productos de Abib (crema PDRN, mascarilla de labios y parches para los ojos), con la franja \"Black Friday\" y el logo de YesStyle",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -57961,6 +57977,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "El cupón del Black Friday es el mismo de todo el año",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "Cecília Mauad sonriendo con las cajas de los productos de Abib que recibió de YesStyle, en un fotograma del vídeo de la rutina de skincare coreano"
+        },
         "paragraphs": [
           "El cupón por tramos de octubre de 2025 (Mid-Season Sale) tenía exactamente los mismos tramos que el cupón del Black Friday de noviembre. Es el descuento que YesStyle mantiene casi todo el año, cambiando el nombre y el código cada pocos días. El código de la semana está en la página de [cupones YesStyle y código de recompensa](/es/coupons/yesstyle), porque la tienda lo cambia en pocos días."
         ],
@@ -58167,9 +58187,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "Cecília Mauad souriante avec les boîtes des produits Abib reçus de YesStyle, sur une image de la vidéo de la routine skincare coréenne",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Cecília Mauad avec trois produits Abib (crème PDRN, masque à lèvres et patchs pour les yeux), avec le bandeau « Black Friday » et le logo YesStyle",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -58228,6 +58248,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Le coupon du Black Friday est le même que le reste de l'année",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "Cecília Mauad souriante avec les boîtes des produits Abib reçus de YesStyle, sur une image de la vidéo de la routine skincare coréenne"
+        },
         "paragraphs": [
           "Le coupon par palier d'octobre 2025 (Mid-Season Sale) avait exactement les mêmes paliers que le coupon du Black Friday de novembre. C'est la remise que YesStyle propose presque toute l'année, en changeant le nom et le code tous les quelques jours. Le code de cette semaine se trouve sur la page [coupons YesStyle et code récompense](/fr/coupons/yesstyle), car la boutique le change en quelques jours."
         ],
@@ -58434,9 +58458,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "Cecília Mauad lächelt mit den Kartons der Abib-Produkte, die sie von YesStyle bekommen hat, in einem Bild aus dem Video zur koreanischen Skincare-Routine",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Cecília Mauad mit drei Abib-Produkten (PDRN-Creme, Lippenmaske und Augenpads), mit dem Banner „Black Friday“ und dem YesStyle-Logo",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -58495,6 +58519,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Der Black-Friday-Gutschein ist derselbe wie im ganzen Jahr",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "Cecília Mauad lächelt mit den Kartons der Abib-Produkte, die sie von YesStyle bekommen hat, in einem Bild aus dem Video zur koreanischen Skincare-Routine"
+        },
         "paragraphs": [
           "Der Staffelgutschein aus dem Oktober 2025 (Mid-Season Sale) hatte genau dieselben Stufen wie der Black-Friday-Gutschein im November. Es ist der Rabatt, den YesStyle fast das ganze Jahr laufen lässt, mit Name und Code, die alle paar Tage wechseln. Der Code dieser Woche steht auf der Seite [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle), weil der Shop ihn binnen weniger Tage austauscht."
         ],
@@ -58701,9 +58729,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "Cecília Mauad sorridente con le scatole dei prodotti Abib ricevuti da YesStyle, in un fotogramma del video sulla routine di skincare coreano",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Cecília Mauad con tre prodotti Abib (crema PDRN, maschera labbra e patch per gli occhi), con la fascia \"Black Friday\" e il logo YesStyle",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -58762,6 +58790,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Il coupon del Black Friday è lo stesso di tutto l'anno",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "Cecília Mauad sorridente con le scatole dei prodotti Abib ricevuti da YesStyle, in un fotogramma del video sulla routine di skincare coreano"
+        },
         "paragraphs": [
           "Il coupon a scaglioni di ottobre 2025 (Mid-Season Sale) aveva esattamente gli stessi scaglioni del coupon del Black Friday di novembre. È lo sconto che YesStyle tiene attivo quasi tutto l'anno, cambiando nome e codice ogni pochi giorni. Il codice di questa settimana è nella pagina [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle), perché il negozio lo cambia nel giro di pochi giorni."
         ],
@@ -58968,9 +59000,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "YesStyle에서 받은 Abib 제품 상자를 들고 웃고 있는 Cecília, 한국 스킨케어 루틴 영상의 한 장면",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Abib 제품 세 가지(PDRN 크림, 립 마스크, 아이 패치)를 든 Cecília와 \"Black Friday\" 띠, YesStyle 로고",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -59029,6 +59061,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "블랙프라이데이 쿠폰은 연중 같습니다",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "YesStyle에서 받은 Abib 제품 상자를 들고 웃고 있는 Cecília, 한국 스킨케어 루틴 영상의 한 장면"
+        },
         "paragraphs": [
           "2025년 10월의 구간별 쿠폰(Mid-Season Sale)은 11월 블랙프라이데이 쿠폰과 구간이 똑같았습니다. YesStyle이 거의 일 년 내내 진행하는 할인이고, 며칠마다 이름과 코드만 바뀝니다. 이번 주 코드는 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle) 페이지에 있습니다. 스토어가 며칠마다 바꾸기 때문입니다."
         ],
@@ -59235,9 +59271,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "YesStyleから届いたAbibの製品の箱を持って笑うCecília。スキンケアのルーティン動画の一場面",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Abibの3つの製品（PDRNクリーム、リップマスク、アイパッチ）を持つCecília。「Black Friday」の帯とYesStyleのロゴ入り",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -59296,6 +59332,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "ブラックフライデーのクーポンは年中同じ",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "YesStyleから届いたAbibの製品の箱を持って笑うCecília。スキンケアのルーティン動画の一場面"
+        },
         "paragraphs": [
           "2025年10月の段階式クーポン（Mid-Season Sale）は、11月のブラックフライデーのクーポンとまったく同じ段階でした。YesStyleがほぼ一年中実施している割引で、数日ごとに名前とコードが替わります。今週のコードは、[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)のページにあります。ストアが数日で替えるためです。"
         ],
@@ -59502,9 +59542,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "Cecília 笑著拿著從 YesStyle 收到的 Abib 產品盒，來自韓式護膚流程影片的一幕",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Cecília 與三款 Abib 產品（PDRN 面霜、唇膜和眼膜貼），配「Black Friday」橫幅和 YesStyle 標誌",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -59563,6 +59603,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "黑色星期五的優惠券全年都一樣",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "Cecília 笑著拿著從 YesStyle 收到的 Abib 產品盒，來自韓式護膚流程影片的一幕"
+        },
         "paragraphs": [
           "2025 年 10 月的階梯優惠券（Mid-Season Sale）與 11 月黑色星期五優惠券的門檻完全相同。這是 YesStyle 幾乎全年都在推出的折扣，每隔幾天就換一次名稱與代碼。本週的代碼請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)頁面，因為商店幾天就會更換。"
         ],
@@ -59769,9 +59813,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-    "imageAlt": "Cecília 笑着拿着从 YesStyle 收到的 Abib 产品盒，来自韩式护肤流程视频的一幕",
-    "imageFit": "cover",
+    "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+    "imageAlt": "Cecília 与三款 Abib 产品（PDRN 面霜、唇膜和眼膜贴），配“Black Friday”横幅和 YesStyle 标志",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
     "pros": [
@@ -59830,6 +59874,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "黑色星期五的优惠券全年都一样",
+        "image": {
+          "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+          "alt": "Cecília 笑着拿着从 YesStyle 收到的 Abib 产品盒，来自韩式护肤流程视频的一幕"
+        },
         "paragraphs": [
           "2025 年 10 月的阶梯优惠券（Mid-Season Sale）与 11 月黑色星期五优惠券的门槛完全相同。这是 YesStyle 几乎全年都在推出的折扣，每隔几天就换一次名称和代码。本周的代码见 [YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)页面，因为商店几天就会更换。"
         ],
@@ -60035,9 +60083,9 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília Mauad em dois looks de um haul da SHEIN: blusa clara amarrada na cintura com saia midi preta, e vestido longo preto com recortes claros",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "Cardigã esportivo preto, scarpin slingback claro e pijama floral da SHEIN, com a faixa \"Black Friday\" e o logo da SHEIN",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Desde 13 de maio de 2026, pedidos de até US$ 50 não pagam imposto de importação",
@@ -60102,6 +60150,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "\"Até 90%\" não é o carrinho inteiro",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "Cecília Mauad em dois looks de um haul da SHEIN: blusa clara amarrada na cintura com saia midi preta, e vestido longo preto com recortes claros"
+        },
         "paragraphs": [
           "O percentual da campanha é o maior desconto de alguns itens. A maior parte do catálogo tem descontos menores, e o preço de cada peça muda ao longo das fases. Para não cair no número grande da propaganda:"
         ],
@@ -60276,9 +60328,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília Mauad in two looks from a SHEIN haul: a light blouse tied at the waist with a black midi skirt, and a long black dress with light cut-outs",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "Black sporty cardigan, light slingback pumps and floral pajamas from SHEIN, with the \"Black Friday\" banner and the SHEIN logo",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "In the last three years, the deals started before Black Friday and kept going after it",
@@ -60332,6 +60384,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "\"Up to 90%\" is not the whole cart",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "Cecília Mauad in two looks from a SHEIN haul: a light blouse tied at the waist with a black midi skirt, and a long black dress with light cut-outs"
+        },
         "paragraphs": [
           "The campaign percentage is the biggest discount on some items. Most of the catalog has smaller discounts, and the price of each item changes across the phases. To avoid falling for the big number in the ad:"
         ],
@@ -60431,9 +60487,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília Mauad en dos looks de un haul de SHEIN: blusa clara atada a la cintura con falda midi negra, y vestido largo negro con recortes claros",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "Cárdigan deportivo negro, salones slingback claros y pijama floral de SHEIN, con la franja \"Black Friday\" y el logo de SHEIN",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "En los tres últimos años, las ofertas empezaron antes del Black Friday y siguieron después",
@@ -60487,6 +60543,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "\"Hasta 90%\" no es todo el carrito",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "Cecília Mauad en dos looks de un haul de SHEIN: blusa clara atada a la cintura con falda midi negra, y vestido largo negro con recortes claros"
+        },
         "paragraphs": [
           "El porcentaje de la campaña es el mayor descuento de algunos artículos. La mayor parte del catálogo tiene descuentos menores, y el precio de cada prenda cambia a lo largo de las fases. Para no caer en el número grande de la publicidad:"
         ],
@@ -60586,9 +60646,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília Mauad dans deux looks d'un haul SHEIN : blouse claire nouée à la taille avec une jupe midi noire, et longue robe noire à découpes claires",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "Cardigan sport noir, escarpins slingback clairs et pyjama fleuri SHEIN, avec le bandeau « Black Friday » et le logo SHEIN",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Ces trois dernières années, les offres ont commencé avant le Black Friday et ont continué après",
@@ -60642,6 +60702,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "« Jusqu'à 90 % », ce n'est pas tout le panier",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "Cecília Mauad dans deux looks d'un haul SHEIN : blouse claire nouée à la taille avec une jupe midi noire, et longue robe noire à découpes claires"
+        },
         "paragraphs": [
           "Le pourcentage de la campagne est la plus forte remise de certains articles. La plus grande partie du catalogue a des remises plus faibles, et le prix de chaque pièce change au fil des phases. Pour ne pas tomber dans le gros chiffre de la publicité :"
         ],
@@ -60741,9 +60805,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília Mauad in zwei Looks aus einem SHEIN-Haul: helle Bluse, in der Taille geknotet, mit schwarzem Midirock, und langes schwarzes Kleid mit hellen Cut-outs",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "Schwarze Sportjacke, helle Slingback-Pumps und geblümter Pyjama von SHEIN, mit dem Banner „Black Friday“ und dem SHEIN-Logo",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "In den letzten drei Jahren begannen die Angebote vor dem Black Friday und liefen danach weiter",
@@ -60797,6 +60861,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "„Bis zu 90 %“ ist nicht der ganze Warenkorb",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "Cecília Mauad in zwei Looks aus einem SHEIN-Haul: helle Bluse, in der Taille geknotet, mit schwarzem Midirock, und langes schwarzes Kleid mit hellen Cut-outs"
+        },
         "paragraphs": [
           "Der Prozentsatz der Aktion ist der höchste Rabatt auf einzelne Artikel. Der größte Teil des Sortiments hat kleinere Rabatte, und der Preis jedes Teils ändert sich im Lauf der Phasen. Damit Sie nicht auf die große Zahl der Werbung hereinfallen:"
         ],
@@ -60896,9 +60964,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília Mauad in due look di un haul SHEIN: camicetta chiara annodata in vita con gonna midi nera, e lungo abito nero con cut-out chiari",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "Cardigan sportivo nero, décolleté slingback chiare e pigiama a fiori di SHEIN, con la fascia \"Black Friday\" e il logo SHEIN",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "Negli ultimi tre anni le offerte sono iniziate prima del Black Friday e sono continuate dopo",
@@ -60952,6 +61020,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "«Fino al 90%» non è tutto il carrello",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "Cecília Mauad in due look di un haul SHEIN: camicetta chiara annodata in vita con gonna midi nera, e lungo abito nero con cut-out chiari"
+        },
         "paragraphs": [
           "La percentuale della campagna è lo sconto più alto su alcuni articoli. La maggior parte del catalogo ha sconti più bassi, e il prezzo di ogni capo cambia nel corso delle fasi. Per non cadere nel numero grande della pubblicità:"
         ],
@@ -61051,9 +61123,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília가 SHEIN 하울에서 입은 두 가지 룩: 허리에 묶은 밝은 블라우스와 검은 미디 스커트, 그리고 밝은 컷아웃이 들어간 검은 롱 원피스",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "SHEIN의 검은 스포티 카디건, 밝은 색 슬링백 펌프스, 꽃무늬 잠옷과 \"Black Friday\" 띠, SHEIN 로고",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "지난 3년간 할인은 블랙프라이데이 전에 시작해 그 뒤로도 이어졌습니다",
@@ -61107,6 +61179,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "'최대 90%'는 장바구니 전체가 아니다",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "Cecília가 SHEIN 하울에서 입은 두 가지 룩: 허리에 묶은 밝은 블라우스와 검은 미디 스커트, 그리고 밝은 컷아웃이 들어간 검은 롱 원피스"
+        },
         "paragraphs": [
           "캠페인 할인율은 일부 상품에 적용되는 가장 큰 할인입니다. 대부분의 상품은 그보다 작게 할인되고, 상품마다 가격도 단계에 따라 바뀝니다. 큰 숫자의 광고에 속지 않으려면:"
         ],
@@ -61206,9 +61282,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "CecíliaがSHEINのまとめ買いで着た2つのコーディネート。ウエストで結んだ明るい色のブラウスと黒のミディスカート、そして明るい色のカットアウトが入った黒のロングワンピース",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "SHEINの黒のスポーティーなカーディガン、明るい色のスリングバックパンプス、花柄のパジャマ。「Black Friday」の帯とSHEINのロゴ入り",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "過去3年間、セールはブラックフライデーの前に始まり、その後も続きました",
@@ -61262,6 +61338,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "「最大90%」はカート全体ではない",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "CecíliaがSHEINのまとめ買いで着た2つのコーディネート。ウエストで結んだ明るい色のブラウスと黒のミディスカート、そして明るい色のカットアウトが入った黒のロングワンピース"
+        },
         "paragraphs": [
           "キャンペーンの割引率は、一部の商品に適用される最大の割引です。商品の大半はそれより小さい割引で、1点ごとの価格もフェーズによって変わります。大きな数字の広告に惑わされないために："
         ],
@@ -61361,9 +61441,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília 在一次 SHEIN 開箱中的兩套穿搭：腰間綁結的淺色上衣搭黑色中長裙，以及帶淺色鏤空設計的黑色長洋裝",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "SHEIN 的黑色運動開襟衫、淺色露跟高跟鞋和碎花睡衣，配「Black Friday」橫幅和 SHEIN 標誌",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "過去三年，優惠都在黑色星期五之前開始，並在之後持續",
@@ -61417,6 +61497,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "「最高 90%」不是整個購物車",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "Cecília 在一次 SHEIN 開箱中的兩套穿搭：腰間綁結的淺色上衣搭黑色中長裙，以及帶淺色鏤空設計的黑色長洋裝"
+        },
         "paragraphs": [
           "活動宣傳的百分比，是部分商品的最高折扣。大部分商品的折扣比較小，每件商品的價格也會隨階段改變。想避免被大數字的廣告牽著走："
         ],
@@ -61516,9 +61600,9 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-    "imageAlt": "Cecília 在一次 SHEIN 开箱中的两套造型：腰间系结的浅色上衣配黑色中长裙，以及带浅色镂空的黑色长连衣裙",
-    "imageFit": "cover",
+    "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+    "imageAlt": "SHEIN 的黑色运动开衫、浅色露跟高跟鞋和碎花睡衣，配“Black Friday”横幅和 SHEIN 标志",
+    "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
       "过去三年，优惠都在黑色星期五之前开始，并在之后继续",
@@ -61572,6 +61656,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "“最高 90%”不是整个购物车",
+        "image": {
+          "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+          "alt": "Cecília 在一次 SHEIN 开箱中的两套造型：腰间系结的浅色上衣配黑色中长裙，以及带浅色镂空的黑色长连衣裙"
+        },
         "paragraphs": [
           "活动宣传的百分比，是部分商品的最高折扣。大部分商品的折扣更小，每件商品的价格也会随阶段变化。想不被大数字的广告带偏："
         ],
@@ -105244,8 +105332,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/mais-mu/black-friday-mais-mu-capa.webp",
-    "imageAlt": "Produtos da Mais Mu: Whey Isolado baunilha refil 900 g, Creatina 100% Pura refil 500 g e pré-treino Exquenta pink lemonade 300 g",
+    "image": "/images/reviews/mais-mu/black-friday-mais-mu-capa-faixa.webp",
+    "imageAlt": "Whey Isolado, Creatina e pré-treino Exquenta da Mais Mu, com a faixa \"Black Friday da Mais Mu\"",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "contentSections": [

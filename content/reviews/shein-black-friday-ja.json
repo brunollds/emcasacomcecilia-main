@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-  "imageAlt": "CecíliaがSHEINのまとめ買いで着た2つのコーディネート。ウエストで結んだ明るい色のブラウスと黒のミディスカート、そして明るい色のカットアウトが入った黒のロングワンピース",
-  "imageFit": "cover",
+  "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+  "imageAlt": "SHEINの黒のスポーティーなカーディガン、明るい色のスリングバックパンプス、花柄のパジャマ。「Black Friday」の帯とSHEINのロゴ入り",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "過去3年間、セールはブラックフライデーの前に始まり、その後も続きました",
@@ -79,6 +79,10 @@
     },
     {
       "heading": "「最大90%」はカート全体ではない",
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+        "alt": "CecíliaがSHEINのまとめ買いで着た2つのコーディネート。ウエストで結んだ明るい色のブラウスと黒のミディスカート、そして明るい色のカットアウトが入った黒のロングワンピース"
+      },
       "paragraphs": [
         "キャンペーンの割引率は、一部の商品に適用される最大の割引です。商品の大半はそれより小さい割引で、1点ごとの価格もフェーズによって変わります。大きな数字の広告に惑わされないために："
       ],

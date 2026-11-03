@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-  "imageAlt": "YesStyle에서 받은 Abib 제품 상자를 들고 웃고 있는 Cecília, 한국 스킨케어 루틴 영상의 한 장면",
-  "imageFit": "cover",
+  "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+  "imageAlt": "Abib 제품 세 가지(PDRN 크림, 립 마스크, 아이 패치)를 든 Cecília와 \"Black Friday\" 띠, YesStyle 로고",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
   "pros": [
@@ -84,6 +84,10 @@
     },
     {
       "heading": "블랙프라이데이 쿠폰은 연중 같습니다",
+      "image": {
+        "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+        "alt": "YesStyle에서 받은 Abib 제품 상자를 들고 웃고 있는 Cecília, 한국 스킨케어 루틴 영상의 한 장면"
+      },
       "paragraphs": [
         "2025년 10월의 구간별 쿠폰(Mid-Season Sale)은 11월 블랙프라이데이 쿠폰과 구간이 똑같았습니다. YesStyle이 거의 일 년 내내 진행하는 할인이고, 며칠마다 이름과 코드만 바뀝니다. 이번 주 코드는 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle) 페이지에 있습니다. 스토어가 며칠마다 바꾸기 때문입니다."
       ],
