@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Simple Organic está em Black Friday: a Clean Friday, com até 50% OFF, vai até o fim de novembro ou até o estoque acabar. O cupom S-EMCASACOMCECILIA entrou em itens de campanha no nosso teste, mas a loja diz que cupom não soma com promoção. O que decide é o desconto no carrinho: veja o capítulo do cupom."
+        "A Simple Organic está em Black Friday: a Clean Friday, com até 50% OFF, vai até o fim de novembro ou até o estoque acabar. No nosso teste, o cupom S-EMCASACOMCECILIA entrou em kit, duo e itens com preço de campanha. O que decide é o desconto no carrinho: veja o capítulo do cupom."
       ]
     },
     {
@@ -116,8 +116,8 @@
       "heading": "O cupom na Clean Friday: o que o teste mostrou",
       "paragraphs": [
         "O cupom entrou no carrinho com a Clean Friday no ar, mas a regra escrita da loja diz o contrário; o que vale é a linha de desconto que o seu carrinho mostra antes de pagar. O código é o S-EMCASACOMCECILIA, 5% na loja online da Simple Organic.",
-        "No teste, feito com a campanha no ar, o código entrou num kit, num duo e em produtos já com o preço de campanha, e tirou 5% do carrinho inteiro: no carrinho de R$ 182,00, com o kit Rotina Pele Sensível, o Hidratante Facial Super Glow e um lip combo a preço cheio, foram R$ 9,10 a menos. A letra miúda do banner diz que cupons não somam com outras promoções ou benefícios, e a política de cupons da loja diz que cupom não vale em kit nem em duo. O teste passou por cima disso, e a loja pode fechar essa porta a qualquer hora.",
-        "Então a ordem é esta: coloque os produtos no carrinho, cole o código no campo \"Desconto\" e olhe se a linha do cupom apareceu. Se apareceu, pague. Se não apareceu, o preço da campanha já é o seu desconto, e não há o que fazer. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. A política da loja fala em um uso por pessoa, com o cupom preso ao e-mail da compra. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar), e as condições do dia, na página do [cupom Simple Organic](/cupons/simple-organic).",
+        "No teste, feito com a campanha no ar, o código entrou num kit, num duo e em produtos já com o preço de campanha, e tirou 5% do carrinho inteiro: no carrinho de R$ 182,00, com o kit Rotina Pele Sensível, o Hidratante Facial Super Glow e um lip combo a preço cheio, foram R$ 9,10 a menos.",
+        "Então a ordem é esta: coloque os produtos no carrinho, cole o código no campo \"Desconto\" e olhe se a linha do cupom apareceu. Se apareceu, não perca a oportunidade e compre. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar), e as condições do dia, na página do [cupom Simple Organic](/cupons/simple-organic).",
         "Nas Lojas Simple e nas farmácias, não conte com o código: ele é da loja online."
       ],
       "images": [
@@ -169,7 +169,7 @@
       "bullets": [
         "A Simple Organic tem Black Friday? Tem, com o nome de Clean Friday: o banner da home anuncia tudo com até 50% OFF, e o desconto já está no preço de cada produto.",
         "Quando é a Black Friday da Simple Organic? A Clean Friday já começou e vai até o fim de novembro, enquanto durarem os estoques; a loja não anunciou regra diferente para a sexta.",
-        "O cupom da Simple Organic vale na Clean Friday? No nosso teste, o S-EMCASACOMCECILIA entrou em itens com preço de campanha, mas a regra da loja diz que cupom não soma com promoção: confira a linha do cupom no carrinho, como mostra o capítulo do cupom.",
+        "O cupom da Simple Organic vale na Clean Friday? No nosso teste, o S-EMCASACOMCECILIA entrou em itens com preço de campanha: confira a linha do cupom no carrinho, como mostra o capítulo do cupom.",
         "A Simple Organic tem frete grátis na Clean Friday? Tem, a partir de R$ 99 em produtos, como fora da campanha; abaixo disso, o frete é pelo CEP.",
         "Tem cupom de primeira compra na Simple Organic? O cupom que temos é o S-EMCASACOMCECILIA, de 5% na loja online, e ele vale na primeira compra."
       ]
@@ -183,7 +183,6 @@
       "É presente: a campanha vai até o fim de novembro, mas o despacho pode demorar mais que o normal, e a primeira quinzena é mais segura."
     ],
     "skipIf": [
-      "Você conta com o cupom somando com o preço da campanha sem olhar o carrinho: a regra da loja diz que cupom não soma com promoção.",
       "Você quer usar o código numa Loja Simple ou numa farmácia: ele é da loja online."
     ]
   },

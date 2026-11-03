@@ -7,9 +7,9 @@ parceiro_slug: "simple-organic"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia & Cupons"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-2 (Fable 5.1)"
-proxima_acao: "deploy (decisão do Bruno), depois IndexNow"
+proxima_acao: "reler o Reclame Aqui e os preços na revisão mensal de dezembro de 2026; tirar a Clean Friday depois de 30/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-03"
 i18n_cluster: null
@@ -202,7 +202,7 @@ As três fotos do corpo evitam as capas dos outros três artigos (rotina-pele-se
 
 | Seção | Arquivo (CDN da loja) | O que mostra | `href` (sponsored) | Alt sugerido | Legenda sugerida |
 |---|---|---|---|---|---|
-| 2. Monte o carrinho | `gel-de-limpeza-suave.jpg` (3001²) | Foto oficial do Gel de Limpeza Suave, produto em promoção na Clean Friday | `https://simpleorganic.com.br/products/gel-de-limpeza-suave` | Gel de Limpeza Suave da Simple Organic, em foto oficial da loja | O preço da página já traz a promoção do site; os 5% do cupom entram depois, no carrinho. Foto da loja. |
+| O que é o S-EMCASACOMCECILIA | `gel-de-limpeza-suave.jpg` (3001²) | Foto oficial do Gel de Limpeza Suave, produto em promoção na Clean Friday | `https://simpleorganic.com.br/products/gel-de-limpeza-suave` | Gel de Limpeza Suave da Simple Organic, em foto oficial da loja | O preço da página já traz a promoção do site; os 5% do cupom entram depois, no carrinho. Foto da loja. |
 | Onde o código valeu | `duo-limpeza-regeneracao.jpg` (2001²) | Foto oficial do Duo Limpeza + Regeneração, um duo, linha que a política de cupons exclui | `https://simpleorganic.com.br/products/duo-limpeza-regeneracao` | Duo Limpeza + Regeneração da Simple Organic, em foto oficial da loja | Duos estão na lista de exclusão da política de cupons; no nosso teste, o duo do carrinho recebeu os 5%. Foto da loja. |
 | Quando o cupom vale a pena | `body-splash-blossom-kiss.jpg` (2084²) | Foto oficial do Body Splash Blossom Kiss, item pela metade na Clean Friday | `https://simpleorganic.com.br/products/body-splash-blossom-kiss` | Body Splash Blossom Kiss da Simple Organic, em foto oficial da loja | Na campanha, o desconto grande é o da loja; o cupom é o extra. Foto da loja. |
 
@@ -247,3 +247,8 @@ Capa no modelo do tipo, gerada com `covers:render` (spec no scratchpad da sessã
 
 ## Conformação e gates (Jobs 4 e 5, 03/11/2026)
 JSON `content/reviews/cupom-simple-organic-como-usar.json`, id 782, no manifesto e no índice gerado. `validate:content`, `test:article-d2`, `typecheck`, `test:review-i18n`, `test:internal-links`, `test:home-stores`, `test:reviews-hub`, `test:site-search`, `test-delivery-integration` e `candidate-proof` verdes; o `npm run build` completo roda no Gate 1. PR com squash sem deploy.
+
+## Publicação (03/11/2026)
+- No ar em 03/11/2026: PR #539, release `34126d7d` (build 01a1a36b), id 782, só PT. Smoke com 7 imagens no CDN e a foto com link de produto; sitemap, llms.txt e IndexNow; captura 41727165405 verde.
+- O Gate 1 do #539 barrou a foto do gel em "2. Monte o carrinho": os passos do guia vão para a linha do tempo, que não mostra imagens. A foto foi para "O que é o S-EMCASACOMCECILIA", com a mesma legenda. Seção de passo (título numerado) não leva imagem.
+- Pendente: reler o Reclame Aqui e os preços na revisão mensal de dezembro de 2026; tirar a Clean Friday depois de 30/11.
