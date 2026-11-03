@@ -645,7 +645,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Does the coupon work on monthly plans?',
         answer:
-          "Yes. The code covers monthly and yearly plans; on Hostinger's Brazilian site, the 1-month Startup plan also dropped 20% with SONAR20 in our October 29, 2026 test.",
+          "Yes. The code covers monthly and yearly plans; in our October 29, 2026 test, the 1-month Startup plan also dropped 20% with SONAR20.",
       },
       {
         question: 'Where do I enter the coupon on Hostinger?',
@@ -734,7 +734,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '¿El cupón funciona en planes mensuales?',
         answer:
-          'Sí. El código cubre planes mensuales y anuales; en el sitio brasileño de Hostinger, en nuestra prueba del 29 de octubre de 2026, el plan Startup de 1 mes también bajó un 20% con SONAR20.',
+          'Sí. El código cubre planes mensuales y anuales; en nuestra prueba del 29 de octubre de 2026, el plan Startup de 1 mes también bajó un 20% con SONAR20.',
       },
       {
         question: '¿Dónde introduzco el cupón en Hostinger?',
@@ -816,7 +816,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `Le code fonctionne-t-il sur les offres mensuelles${NBSP}?`,
-        answer: `Oui. Le code couvre les offres mensuelles et annuelles${NBSP}; sur le site brésilien de Hostinger, lors de notre test du 29 octobre 2026, l’offre Startup d’un mois a également baissé de 20${NBSP}% avec SONAR20.`,
+        answer: `Oui. Le code couvre les offres mensuelles et annuelles${NBSP}; lors de notre test du 29 octobre 2026, l’offre Startup d’un mois a également baissé de 20${NBSP}% avec SONAR20.`,
       },
       {
         question: `Où saisir le code promo sur Hostinger${NBSP}?`,
@@ -891,7 +891,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `Gilt der Gutschein auch bei Monatstarifen?`,
-        answer: `Ja. Der Code gilt für Monats- und Jahrestarife; auf der brasilianischen Hostinger-Seite wurde beim Test am 29. Oktober 2026 auch der Tarif Startup mit 1 Monat Laufzeit mit SONAR20 um 20${NBSP}% günstiger.`,
+        answer: `Ja. Der Code gilt für Monats- und Jahrestarife; beim Test am 29. Oktober 2026 wurde auch der Tarif Startup mit 1 Monat Laufzeit mit SONAR20 um 20${NBSP}% günstiger.`,
       },
       {
         question: `Wo gebe ich den Gutschein bei Hostinger ein?`,
@@ -973,7 +973,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Il coupon vale sui piani mensili?',
         answer:
-          'Sì. Il codice vale per piani mensili e annuali; sul sito brasiliano di Hostinger, nel test del 29 ottobre 2026, anche il piano Startup da 1 mese è sceso del 20% con SONAR20.',
+          'Sì. Il codice vale per piani mensili e annuali; nel test del 29 ottobre 2026, anche il piano Startup da 1 mese è sceso del 20% con SONAR20.',
       },
       {
         question: 'Dove inserisco il coupon su Hostinger?',
@@ -1062,7 +1062,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '쿠폰은 월간 요금제에도 적용되나요?',
         answer:
-          '네. 이 코드는 월간 및 연간 요금제에 적용됩니다. 2026년 10월 29일 테스트에서 Hostinger 브라질 사이트의 1개월 Startup 요금제도 SONAR20으로 20% 내렸습니다.',
+          '네. 이 코드는 월간 및 연간 요금제에 적용됩니다. 2026년 10월 29일 테스트에서 1개월 Startup 요금제도 SONAR20으로 20% 내렸습니다.',
       },
       {
         question: 'Hostinger에서 쿠폰은 어디에 입력하나요?',
@@ -1151,7 +1151,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'クーポンは月額プランでも使えますか？',
         answer:
-          'はい。このコードは月額・年額プランに適用されます。2026年10月29日のテストでは、HostingerのブラジルサイトでStartupプラン（1か月）もSONAR20で20%オフになりました。',
+          'はい。このコードは月額・年額プランに適用されます。2026年10月29日のテストでは、Startupプラン（1か月）もSONAR20で20%オフになりました。',
       },
       {
         question: 'Hostingerでクーポンはどこに入力しますか？',
@@ -1240,7 +1240,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '優惠碼適用於月繳方案嗎？',
         answer:
-          '適用。代碼適用於月繳與年繳方案；在 2026 年 10 月 29 日的測試中，Hostinger 巴西網站上的 1 個月 Startup 方案也用 SONAR20 降了 20%。',
+          '適用。代碼適用於月繳與年繳方案；在 2026 年 10 月 29 日的測試中，1 個月 Startup 方案也用 SONAR20 降了 20%。',
       },
       {
         question: '在 Hostinger 哪裡輸入優惠碼？',
@@ -1329,7 +1329,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '优惠码适用于月付套餐吗？',
         answer:
-          '适用。代码适用于月付和年付套餐；在 2026 年 10 月 29 日的测试中，Hostinger 巴西网站上的 1 个月 Startup 套餐也用 SONAR20 降了 20%。',
+          '适用。代码适用于月付和年付套餐；在 2026 年 10 月 29 日的测试中，1 个月 Startup 套餐也用 SONAR20 降了 20%。',
       },
       {
         question: '在 Hostinger 哪里输入优惠码？',
