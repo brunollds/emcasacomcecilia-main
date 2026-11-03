@@ -27,18 +27,18 @@ export const couponFontVariables = `${archivo.variable} ${jetbrainsMono.variable
 
 export { FOCUS_RING };
 
-const PRIMARY_LOOK = `flex items-center justify-center gap-2.5 rounded-[10px] border-2 border-marinho bg-laranja px-4 text-center text-base font-extrabold text-marinho transition-colors hover:bg-laranja/85 data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`;
+const PRIMARY_LOOK = `flex items-center justify-center gap-2.5 rounded-[10px] border-2 border-marinho bg-laranja px-4 text-center font-extrabold text-marinho transition-colors hover:bg-laranja/85 data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-escuro data-[copied=true]:text-white ${FOCUS_RING}`;
 
-const SECONDARY_LOOK = `flex w-full items-center justify-center gap-2 rounded-[10px] border-2 border-marinho bg-white px-4 text-center text-[15px] font-extrabold text-marinho transition-colors hover:bg-creme data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro ${FOCUS_RING}`;
+const SECONDARY_LOOK = `flex w-full items-center justify-center gap-2 rounded-[10px] border-2 border-marinho bg-white px-4 text-center font-extrabold text-marinho transition-colors hover:bg-creme data-[copied=true]:border-verde-escuro data-[copied=true]:bg-verde-claro data-[copied=true]:text-verde-escuro ${FOCUS_RING}`;
 
-export const PRIMARY_ACTION = `min-h-[52px] ${PRIMARY_LOOK}`;
+export const PRIMARY_ACTION = `min-h-[52px] text-base ${PRIMARY_LOOK}`;
 
-export const SECONDARY_ACTION = `min-h-12 ${SECONDARY_LOOK}`;
+export const SECONDARY_ACTION = `min-h-12 text-[15px] ${SECONDARY_LOOK}`;
 
-// Os recortes do artigo (topo e lateral): mais baixos no celular, sem passar dos 44 px de toque.
-export const PRIMARY_ACTION_COMPACT = `min-h-12 md:min-h-[52px] ${PRIMARY_LOOK}`;
+// Os recortes do artigo (topo e lateral): no celular, os dois com 44 px (o mínimo de toque) e a letra 10% menor.
+export const PRIMARY_ACTION_COMPACT = `min-h-11 text-[15px] md:min-h-[52px] md:text-base ${PRIMARY_LOOK}`;
 
-export const SECONDARY_ACTION_COMPACT = `min-h-11 md:min-h-12 ${SECONDARY_LOOK}`;
+export const SECONDARY_ACTION_COMPACT = `min-h-11 text-sm md:min-h-12 md:text-[15px] ${SECONDARY_LOOK}`;
 
 export const BODY_TEXT = 'max-w-[68ch] text-[15px] font-medium leading-6 text-marinho-suave md:text-base md:leading-7';
 

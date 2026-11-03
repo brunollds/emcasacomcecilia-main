@@ -116,7 +116,7 @@ export function ArticleHeader({
         <span className="marca-texto marca-texto-entra">{review.title}</span>
       </h1>
 
-      <p className="mt-3 max-w-3xl font-editorial text-base leading-snug text-marinho-suave md:mt-4 md:text-xl md:leading-relaxed">
+      <p className="mt-3 max-w-3xl font-editorial text-[13px] leading-snug text-marinho-suave md:mt-4 md:text-xl md:leading-relaxed">
         {review.description}
       </p>
 
