@@ -192,7 +192,7 @@ Rodada de 27/10 pelo autocompletar do Google e do Bing (sem ranking de vendas: o
 | B3 | Bolinho kids da Belive para a lancheira | **No ar em 28/10/2026 (#331, release `c3af3e1`, id 629):** [[bolinho-kids-belive-lancheira]] |
 | B4, B6 | Bolo sem açúcar; kits de doces | Viram seção ou ficam no estoque |
 | B5 | Pão sem glúten da Belive | Fora do eixo da loja no site (sem açúcar) |
-| B7 | Panetone e doces de Natal sem açúcar | Descartada: a Belive não vende panetone nem chocotone (catálogo de 27/10) |
+| B7 | Panetone e doces de Natal sem açúcar | Descartada: a Belive não vende panetone nem chocotone (catálogo de 27/10). **Condição mudou em 03/11/2026:** o catálogo traz o Panetone Sem Glúten Zero Açúcar e kits de chocotone e panetone; entra como capítulo do [[belive-e-boa-0311]]; a pauta própria volta se o Bruno pedir |
 
 Descartados na Nutre pela regra de saúde: Control (diabetes), Resource (disfagia), enterais, "engorda", Beauty, Fibermais ou Metamucil e a linha Kids por idade.
 
@@ -364,6 +364,17 @@ Parceira nova (beleza limpa, cupom S-EMCASACOMCECILIA 5%, PR #537). Fatos de 03/
 | SO3 | Cupom Simple Organic: como usar | **Publicado em 03/11/2026** (#539, release `34126d7d`, id 782): [[cupom-simple-organic-como-usar]] |
 | SO4 | Black Friday Simple Organic (Clean Friday) | **Publicado em 03/11/2026** (#539, release `34126d7d`, id 783): [[black-friday-simple-organic]] |
 | SO5 | Simple Organic é boa? (niacinamida, vitamina C, retinol, PDRN pelo rótulo) | **Pauta aprovada em 03/11/2026:** [[simple-organic-e-boa-0311]] (linha "é boa", liberada pelo Bruno depois do onboarding) |
+
+## Linha "é boa", lote 2 (Bruno, 03/11/2026)
+
+O Bruno liberou o lote sem o Trends e juntou a Simple Organic a ele. Base: autocompletar de 03/11 e catálogo lido no dia. Molde: `insider-vale-a-pena` reformado e o lote 1 (`probiotica-e-boa`).
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| EB1 | Mais Mu é boa? (whey, Exquenta e barras; creatina fora, decisão de 23/10) | **Pauta aprovada em 03/11/2026:** [[mais-mu-e-boa-0311]] |
+| EB2 | Dr. Peanut é boa? (pasta, whey e snacks; saúde só pelo rótulo) | **Pauta aprovada em 03/11/2026:** [[dr-peanut-e-boa-0311]] |
+| EB3 | Belive é boa? (doces sem açúcar, panetone, salgadinhos e pães) | **Pauta aprovada em 03/11/2026:** [[belive-e-boa-0311]] |
+| EB4 | Simple Organic é boa? (SO5) | **Pauta aprovada em 03/11/2026:** [[simple-organic-e-boa-0311]] |
 
 ## Temas para depois (não prioritários)
 
