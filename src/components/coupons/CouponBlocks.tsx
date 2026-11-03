@@ -254,6 +254,17 @@ export function CouponFaq({ items, brand }: { items: CouponFAQ[]; brand?: string
               <ArrowRight aria-hidden="true" className="size-4 shrink-0" />
             </CouponStoreLink>
           )}
+          {item.link && (
+            <a
+              href={item.link.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={`mb-4 inline-flex min-h-11 items-center gap-2 text-[15px] font-extrabold text-marinho underline underline-offset-[3px] ${FOCUS_RING}`}
+            >
+              {item.link.label}
+              <ArrowRight aria-hidden="true" className="size-4 shrink-0" />
+            </a>
+          )}
         </details>
       ))}
     </div>
