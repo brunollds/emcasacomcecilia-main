@@ -77,6 +77,7 @@ const PARTNERS: AboutPartner[] = [
   { name: 'Skelt', src: '/images/about/partners/skelt.png', href: 'https://www.skelt.com.br' },
   { name: 'Bagaggio', src: '/images/about/partners/bagaggio.png', href: 'https://www.bagaggio.com.br' },
   { name: 'Toda Up', src: '/images/about/partners/toda-up.png', href: 'https://todaup.com' },
+  { name: 'Simple Organic', src: '/images/about/partners/simple-organic.png', href: 'https://simpleorganic.com.br' },
 ];
 
 const PORTUGUESE_LONG_DATE = new Intl.DateTimeFormat('pt-BR', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' });

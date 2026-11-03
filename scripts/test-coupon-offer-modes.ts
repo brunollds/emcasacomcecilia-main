@@ -70,26 +70,27 @@ assert.equal(
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
 
 // Parceiros de 13/10/2026, a Max Titanium e a Cléa Store desde 14/10, a Belive desde 16/10, a Mais Mu desde 20/10, a Skelt desde 21/10, a Bagaggio
-// desde 22/10 e a Toda Up desde 26/10. Só a Probiótica, a Skelt, a Bagaggio, a Toda Up e a Lejour mandaram link com UTM, e ele vai como veio; as
-// outras vão ao site oficial. O link da Toda Up também abre o site com o MAUAD aplicado.
+// desde 22/10, a Toda Up desde 26/10 e a Simple Organic desde 03/11. Só a Probiótica, a Skelt, a Bagaggio, a Toda Up, a Simple Organic e a
+// Lejour mandaram link próprio, e ele vai como veio; as outras vão ao site oficial. O link da Toda Up também abre o site com o MAUAD aplicado, e o da Simple Organic, com o S-EMCASACOMCECILIA.
 const newPartners = [
-  { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
-  { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.drpeanut.com.br/' },
-  { slug: 'black-skull', code: 'CECILIA10', hubCategory: 'saude', offerUrl: 'https://www.blackskullusa.com.br/' },
-  { slug: 'max-titanium', code: 'MAX10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.maxtitanium.com.br/' },
-  { slug: 'clea-store', code: 'CSEMCASACOMCECILIA', hubCategory: 'moda', offerUrl: 'https://www.cleastore.com.br/' },
+  { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
+  { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.drpeanut.com.br/' },
+  { slug: 'black-skull', code: 'CECILIA10', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.blackskullusa.com.br/' },
+  { slug: 'max-titanium', code: 'MAX10EMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.maxtitanium.com.br/' },
+  { slug: 'clea-store', code: 'CSEMCASACOMCECILIA', discountNumber: 10, hubCategory: 'moda', offerUrl: 'https://www.cleastore.com.br/' },
   // Belive (16/10/2026): o mesmo MAUAD da Let's Eat It, com 10% em todo o site.
-  { slug: 'belive', code: 'MAUAD', hubCategory: 'alimentacao', offerUrl: 'https://belivebefree.com.br/' },
-  { slug: 'mais-mu', code: 'MMEMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.lojamaismu.com.br/' },
-  { slug: 'skelt', code: 'SKEMCASACOMCECILIA', hubCategory: 'beleza', offerUrl: 'https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz' },
-  { slug: 'bagaggio', code: 'CECILIA10', hubCategory: 'moda', offerUrl: 'https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz' },
-  { slug: 'toda-up', code: 'MAUAD', hubCategory: 'moda', offerUrl: 'https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao' },
+  { slug: 'belive', code: 'MAUAD', discountNumber: 10, hubCategory: 'alimentacao', offerUrl: 'https://belivebefree.com.br/' },
+  { slug: 'mais-mu', code: 'MMEMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.lojamaismu.com.br/' },
+  { slug: 'skelt', code: 'SKEMCASACOMCECILIA', discountNumber: 10, hubCategory: 'beleza', offerUrl: 'https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz' },
+  { slug: 'bagaggio', code: 'CECILIA10', discountNumber: 10, hubCategory: 'moda', offerUrl: 'https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz' },
+  { slug: 'toda-up', code: 'MAUAD', discountNumber: 10, hubCategory: 'moda', offerUrl: 'https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao' },
+  { slug: 'simple-organic', code: 'S-EMCASACOMCECILIA', discountNumber: 5, hubCategory: 'beleza', offerUrl: 'https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA' },
 ] as const;
 for (const partner of newPartners) {
   const store = getCouponBySlug(partner.slug);
   assert.ok(store && store.offerMode === 'discount-code', `${partner.slug} deve existir como discount-code ativo`);
   assert.equal(store.code, partner.code);
-  assert.equal(store.discountNumber, 10);
+  assert.equal(store.discountNumber, partner.discountNumber);
   assert.equal(store.hubCategory, partner.hubCategory);
   assert.equal(store.offerUrl, partner.offerUrl);
 }
@@ -260,4 +261,4 @@ for (const coupon of COUPONS.filter((item) => item.status === 'ativo')) {
   );
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Hostinger e prateleiras do hub conferidos.");
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, Hostinger e prateleiras do hub conferidos.");

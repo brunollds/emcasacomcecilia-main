@@ -2398,6 +2398,97 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'simple-organic',
+    brand: 'Simple Organic',
+    officialUrl: 'https://simpleorganic.com.br/',
+    // Link da parceria como veio (03/11/2026): abre o site com o cupom aplicado. Com redirect para um produto o
+    // cupom não entra, então ele vai à home. Não editar o link.
+    offerUrl: 'https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA',
+    brandIcon: 'S',
+    brandLogo: '/images/about/partners/simple-organic-icon.png',
+    brandLogoAlt: 'Marca Simple Organic',
+    brandWatermark: '/images/logos/watermarks/simple-organic.webp',
+    brandColor: '#E6006F',
+    code: 'S-EMCASACOMCECILIA',
+    discount: '5% OFF',
+    discountNumber: 5,
+    category: 'Skincare e maquiagem vegana',
+    hubCategory: 'beleza',
+    shortDescription: 'todo o site Simple Organic, inclusive nos produtos em promoção e nos kits',
+    longDescription:
+      'O S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes, limpeza facial, maquiagem e body splash no site oficial da Simple Organic e entra também nos produtos que já estão em promoção e nos kits. Testado em 03/11/2026 num carrinho com kit, produto em promoção e produto a preço cheio.',
+    metaTitle: 'Cupom Simple Organic: 5% OFF em tudo com S-EMCASACOMCECILIA (nov/2026)',
+    metaDescription:
+      'Cupom Simple Organic testado em 03/11/2026: S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes e maquiagem, inclusive em promoção e nos kits.',
+    eligibleCategories: 'Todos os produtos do site oficial da Simple Organic, inclusive os que já estão em promoção e os kits',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping:
+      'Frete grátis a partir de R$ 99,00 em produtos; abaixo disso, calculado pelo CEP no checkout, por PAC, Sedex ou JadLog. O pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento',
+    combinable:
+      'Soma com as promoções do site e vale nos kits: no teste de 03/11/2026, os 5% entraram sobre o preço promocional de todos os itens do carrinho',
+    lastVerified: '2026-11-03',
+    testNote:
+      'Montamos um carrinho com o kit Rotina Pele Sensível (R$ 91,00), o Hidratante Facial Super Glow em promoção (R$ 27,00) e o Lip Combo People Colour a preço cheio (R$ 64,00). O S-EMCASACOMCECILIA tirou 5% de tudo, R$ 9,10, e o total caiu de R$ 182,00 para R$ 172,90. No mesmo dia, num carrinho com o Duo Antimanchas Noturno, o desconto também entrou sobre o preço promocional: R$ 70,90 viraram R$ 67,36.',
+    codeInstructions: [
+      'Copie o código S-EMCASACOMCECILIA no card acima.',
+      'Acesse o site oficial da Simple Organic pelo botão indicado: ele abre a loja com o cupom aplicado. Depois, coloque os produtos no carrinho.',
+      'Confira se o S-EMCASACOMCECILIA aparece em "Desconto" no carrinho; se não, cole o código nesse campo ou no campo de cupom do checkout e clique em "Aplicar".',
+      'Confira o desconto no resumo do pedido antes de pagar.',
+    ],
+    aboutBrand:
+      'A Simple Organic é uma marca brasileira de beleza limpa e vegana, criada em 2017 em Florianópolis (SC) e parte da Hypera Pharma desde 2020. Vende séruns, hidratantes, limpeza facial, maquiagem e body splash. O cupom S-EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 5% OFF em todo o site, inclusive nos produtos em promoção e nos kits. A recomendação é conferir o resumo do pedido antes de pagar.',
+    faqs: [
+      {
+        question: 'O cupom S-EMCASACOMCECILIA vale para todos os produtos da Simple Organic?',
+        answer:
+          'Sim. O S-EMCASACOMCECILIA dá 5% OFF nos produtos do site oficial da Simple Organic: séruns, hidratantes, limpeza facial, maquiagem e body splash, inclusive os kits e os duos.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 03/11/2026, os 5% entraram sobre o preço promocional de um hidratante e de um duo e sobre um kit que já estava com desconto. O desconto aparece no carrinho antes de pagar.',
+      },
+      {
+        question: 'O cupom S-EMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 03/11/2026, o S-EMCASACOMCECILIA aplicou os 5% no carrinho. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Simple Organic?',
+        answer:
+          'No campo "Desconto" do carrinho ou no campo de cupom do checkout, antes de pagar. Pelo botão desta página, o site da Simple Organic já abre com o cupom aplicado; confira o desconto no resumo do pedido.',
+      },
+      {
+        question: 'A Simple Organic tem frete grátis?',
+        answer:
+          'Sim, a partir de R$ 99,00 em produtos, segundo a faixa do site. Abaixo disso, o frete é calculado pelo CEP no checkout, por PAC, Sedex ou JadLog, e o pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento.',
+      },
+      {
+        question: 'O que fazer se o cupom S-EMCASACOMCECILIA não funcionar?',
+        answer:
+          'Pelo botão desta página, o cupom já entra aplicado; se ele não aparecer no carrinho, cole o código no campo "Desconto", sem espaços, e clique em "Aplicar". Ele vale no site oficial simpleorganic.com.br. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Posso trocar ou devolver a compra feita com o cupom?',
+        answer:
+          'Sim. A Simple Organic aceita troca ou desistência em até 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O pedido de troca vai pelo e-mail de atendimento da loja.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Vale também nos produtos em promoção e nos kits',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     brand: 'Hostinger',
     officialUrl: 'https://www.hostinger.com/',
