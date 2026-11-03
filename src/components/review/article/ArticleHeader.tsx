@@ -14,7 +14,6 @@ import { ReviewHeroImage } from '../ReviewHeroImage';
 import { getDisclosureLabel, type ArticleCopy, type TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
 import { ArticleCouponCutout } from './ArticleCouponCutout';
-import { isHeroFirst } from './heroOrder';
 
 const CECILIA: Pick<PersonRef, 'name' | 'url'> = { name: 'Cecília Mauad', url: '/sobre' };
 
@@ -41,9 +40,8 @@ export interface ArticleHeaderProps {
   storeLabel: string;
 }
 
-// Topo do artigo no visual da D2: trilha, a foto (capa larga), tipo e categoria, título com o marca-texto,
-// introdução em serifa, a linha de dados, a transparência numa linha e o recorte do código (artigo com loja). A foto
-// que não é larga vem no fim, depois do recorte.
+// Topo do artigo no visual da D2: trilha, tipo e categoria, título com o marca-texto, introdução em serifa,
+// a linha de dados, a transparência numa linha, o recorte do código (artigo com loja) e a foto.
 export function ArticleHeader({
   review, kind, kindLabel, copy, ui, noteLabels, couponCopyLocale, breadcrumbs, languageLinks, speechText,
   readTime, unanchoredNotes, reviewImage, reviewImageAlt, isPortraitHero, hasProductRating, videoPageUrl,
@@ -55,27 +53,6 @@ export function ArticleHeader({
   // A nota do veredito, como na sidebar; só em análise de produto.
   const rawStars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
   const stars = typeof rawStars === 'number' ? rawStars.toFixed(1) : undefined;
-  // A capa larga vem logo abaixo da trilha, com a largura do texto: o título segue na primeira tela.
-  const heroFirst = isHeroFirst(review);
-  const hero = (
-    <figure className={heroFirst ? 'mt-4 max-w-3xl' : 'mt-8'}>
-      <ReviewHeroImage
-        src={reviewImage}
-        alt={reviewImageAlt}
-        isPortrait={isPortraitHero}
-        imageAspect={review.imageAspect}
-        imagePosition={review.imagePosition}
-        imageFit={review.imageFit}
-        hasProductRating={hasProductRating}
-        objectContain={kind === 'editorial'}
-        compact={Boolean(review.heroCompact)}
-        slug={review.slug}
-        video={review.video}
-        locale={couponCopyLocale}
-        sizes={heroFirst ? '(max-width: 1023px) calc(100vw - 2rem), 768px' : undefined}
-      />
-    </figure>
-  );
 
   return (
     <header data-article="topo" className="mb-10 text-marinho">
@@ -99,11 +76,7 @@ export function ArticleHeader({
         </ol>
       </nav>
 
-      {heroFirst && hero}
-
-      <p
-        className={`${heroFirst ? 'mt-5' : 'mt-2'} flex flex-wrap items-center gap-x-2 text-[13px] font-extrabold leading-[18px] tracking-[0.06em] uppercase`}
-      >
+      <p className="mt-2 flex flex-wrap items-center gap-x-2 text-[13px] font-extrabold leading-[18px] tracking-[0.06em] uppercase">
         {/* O ponto fica com o tipo: numa quebra de linha, ele não abre a linha de baixo. */}
         <span className="whitespace-nowrap">
           <span>{kindLabel}</span>
@@ -116,11 +89,13 @@ export function ArticleHeader({
         <span className="marca-texto marca-texto-entra">{review.title}</span>
       </h1>
 
-      <p className="mt-3 max-w-3xl font-editorial text-[13px] leading-snug text-marinho-suave md:mt-4 md:text-xl md:leading-relaxed">
+      <p className="mt-3 max-w-3xl font-editorial text-[13px] leading-snug text-marinho-suave md:mt-4 md:text-base md:leading-relaxed">
         {review.description}
       </p>
 
-      <div className="mt-5 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm font-semibold text-marinho-suave">
+      {/* No celular, o "Ouvir" curto vem na linha do autor e da data (a data com o mês abreviado); o tempo de leitura,
+          a atualização e a nota descem para a linha de baixo. */}
+      <div className="mt-5 flex flex-wrap items-center gap-x-3 gap-y-2 text-sm font-semibold text-marinho-suave md:gap-x-4">
         <span className="font-extrabold text-marinho">
           {authors.map((author, index) => (
             <Fragment key={author.name}>
@@ -136,19 +111,22 @@ export function ArticleHeader({
           ))}
         </span>
         {review.publishedAtISO && (
-          <time dateTime={review.publishedAtISO}>{formatDate(review.publishedAtISO, couponCopyLocale)}</time>
+          <time dateTime={review.publishedAtISO}>
+            <span className="md:hidden">{formatDate(review.publishedAtISO, couponCopyLocale, 'short')}</span>
+            <span className="max-md:hidden">{formatDate(review.publishedAtISO, couponCopyLocale)}</span>
+          </time>
         )}
         {updated && (
-          <span>
+          <span className="max-md:order-1">
             {ui.updatedAt} <time dateTime={updated}>{formatDate(updated, couponCopyLocale)}</time>
           </span>
         )}
-        <span className="inline-flex items-center gap-1.5">
+        <span className="inline-flex items-center gap-1.5 max-md:order-1">
           <Clock aria-hidden="true" className="h-4 w-4" />
           {ui.readTime(readTime)}
         </span>
         {stars && (
-          <span className="inline-flex items-center gap-1 font-extrabold text-marinho">
+          <span className="inline-flex items-center gap-1 font-extrabold text-marinho max-md:order-1">
             <Star aria-hidden="true" className="h-4 w-4 fill-amarelo-cupom" />
             <span aria-hidden="true">{stars}</span>
             <span className="sr-only">{copy.ratingLabel(stars)}</span>
@@ -157,6 +135,7 @@ export function ArticleHeader({
         <TextToSpeechButton
           text={speechText}
           label={getShellCopy(couponCopyLocale).listenAudio}
+          shortLabel={copy.listenShort}
           pauseLabel={copy.listenPause}
           resumeLabel={copy.listenResume}
           stopLabel={copy.listenStop}
@@ -208,7 +187,22 @@ export function ArticleHeader({
         </div>
       )}
 
-      {!heroFirst && hero}
+      <figure className="mt-8">
+        <ReviewHeroImage
+          src={reviewImage}
+          alt={reviewImageAlt}
+          isPortrait={isPortraitHero}
+          imageAspect={review.imageAspect}
+          imagePosition={review.imagePosition}
+          imageFit={review.imageFit}
+          hasProductRating={hasProductRating}
+          objectContain={kind === 'editorial'}
+          compact={Boolean(review.heroCompact)}
+          slug={review.slug}
+          video={review.video}
+          locale={couponCopyLocale}
+        />
+      </figure>
       {videoPageUrl && !youtubeEmbedUrl && (
         <Link
           href={videoPageUrl}

@@ -313,7 +313,8 @@ export function buildSchemaAuthors(
  * Retorna a própria string se não for uma data válida.
  * A data é tratada como dia civil em UTC, então o fuso do servidor não muda o dia exibido.
  */
-export function formatDate(isoDate: string, locale: Locale = 'pt'): string {
+// `month: 'short'` abrevia o mês ("12 de out. de 2026"): a linha de dados do artigo no celular.
+export function formatDate(isoDate: string, locale: Locale = 'pt', monthStyle: 'long' | 'short' = 'long'): string {
   const parts = isoDate.match(/^(\d{4})-(\d{2})-(\d{2})$/);
   if (!parts) return isoDate;
 
@@ -332,7 +333,7 @@ export function formatDate(isoDate: string, locale: Locale = 'pt'): string {
 
   return date.toLocaleDateString(LOCALES[locale].htmlLang, {
     day: 'numeric',
-    month: 'long',
+    month: monthStyle,
     year: 'numeric',
     timeZone: 'UTC',
   });

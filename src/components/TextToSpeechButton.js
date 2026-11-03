@@ -5,7 +5,8 @@ import { Pause, Play, RotateCcw, Square } from 'lucide-react';
 import { splitIntoChunks, createUtterance, cancelSpeech, pauseSpeech, resumeSpeech } from '@/lib/tts';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 
-// O padrão é o das receitas; o artigo usa o visual da D2.
+// O padrão é o das receitas; o artigo usa o visual da D2, mais baixo no celular (36 px à vista, 44 px de toque pelo
+// ::after) para caber na linha do autor e da data.
 const STYLES = {
   default: {
     wrap: 'mx-auto mt-6 flex max-w-fit flex-wrap items-center justify-center gap-2 rounded-full border border-[#0f1419]/10 bg-white/90 p-1.5 shadow-sm print:hidden',
@@ -15,9 +16,9 @@ const STYLES = {
   },
   d2: {
     wrap: 'flex flex-wrap items-center gap-2 print:hidden',
-    start: `inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-marinho bg-amarelo-cupom px-4 text-sm font-extrabold text-marinho transition-colors hover:bg-amarelo-cupom/70 ${FOCUS_RING}`,
-    pause: `inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-marinho bg-laranja px-4 text-sm font-extrabold text-marinho transition-colors hover:bg-laranja/85 ${FOCUS_RING}`,
-    stop: `inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-marinho bg-white px-4 text-sm font-extrabold text-marinho transition-colors hover:bg-creme ${FOCUS_RING}`,
+    start: `relative inline-flex min-h-9 items-center gap-1.5 rounded-full border-2 border-marinho bg-amarelo-cupom px-3 text-[13px] font-extrabold text-marinho transition-colors hover:bg-amarelo-cupom/70 after:absolute after:-inset-1 after:content-[''] md:min-h-11 md:gap-2 md:px-4 md:text-sm ${FOCUS_RING}`,
+    pause: `relative inline-flex min-h-9 items-center gap-1.5 rounded-full border-2 border-marinho bg-laranja px-3 text-[13px] font-extrabold text-marinho transition-colors hover:bg-laranja/85 after:absolute after:-inset-1 after:content-[''] md:min-h-11 md:gap-2 md:px-4 md:text-sm ${FOCUS_RING}`,
+    stop: `relative inline-flex min-h-9 items-center gap-1.5 rounded-full border-2 border-marinho bg-white px-3 text-[13px] font-extrabold text-marinho transition-colors hover:bg-creme after:absolute after:-inset-1 after:content-[''] md:min-h-11 md:gap-2 md:px-4 md:text-sm ${FOCUS_RING}`,
   },
 };
 
@@ -36,6 +37,8 @@ function getServerSnapshot() {
 export default function TextToSpeechButton({
   text,
   label = 'Ouvir artigo',
+  // Só no visual da D2: o rótulo do celular; o leitor de tela ouve sempre o label.
+  shortLabel = '',
   pauseLabel = 'Pausar',
   resumeLabel = 'Continuar',
   stopLabel = 'Parar',
@@ -131,8 +134,15 @@ export default function TextToSpeechButton({
           onClick={start}
           className={styles.start}
         >
-          <Play className="h-4 w-4" />
-          {label}
+          <Play aria-hidden="true" className="h-4 w-4" />
+          {shortLabel ? (
+            <>
+              <span aria-hidden="true" className="md:hidden">{shortLabel}</span>
+              <span className="max-md:sr-only">{label}</span>
+            </>
+          ) : (
+            label
+          )}
         </button>
       )}
 
