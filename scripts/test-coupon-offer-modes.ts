@@ -5,6 +5,7 @@ import {
   getCouponBySlug,
   getCouponHubSections,
   getStoreCodeKind,
+  MERCADO_LIVRE_COUPONS_URL,
   type AffiliateLinkOffer,
 } from '../src/lib/couponsData';
 import { getOfferMonth } from '../src/lib/offerMonth';
@@ -118,15 +119,22 @@ const mercadoLivreLinks: Record<string, string> = {
 };
 for (const coupon of COUPONS) {
   const linked = coupon.faqs.filter((faq) => faq.mercadoLivreUrl);
+  const mlCoupons = coupon.faqs.filter((faq) => faq.link?.href === MERCADO_LIVRE_COUPONS_URL);
   const expected = mercadoLivreLinks[coupon.slug];
   if (!expected) {
     assert.equal(linked.length, 0, `${coupon.slug} não tem link do Mercado Livre`);
+    assert.equal(mlCoupons.length, 0, `${coupon.slug}: sem link do Mercado Livre, sem a pergunta dos cupons do Mercado Livre`);
     continue;
   }
   assert.equal(linked.length, 1, `${coupon.slug}: um link do Mercado Livre, no FAQ do Mercado Livre`);
   assert.match(linked[0].question, /Mercado Livre\?$/, `${coupon.slug}: o link vai na pergunta do Mercado Livre`);
   assert.equal(linked[0].mercadoLivreUrl, expected, `${coupon.slug}: link do Mercado Livre diferente do enviado`);
+  // Logo depois dela, a pergunta que leva aos cupons do Mercado Livre no Dicas & Ofertas.
+  const next = coupon.faqs[coupon.faqs.indexOf(linked[0]) + 1];
+  assert.deepEqual(mlCoupons, [next], `${coupon.slug}: a pergunta dos cupons do Mercado Livre vem logo depois da do Mercado Livre`);
+  assert.equal(next.question, `Tem cupom da ${coupon.brand} para usar no Mercado Livre?`);
 }
+assert.equal(MERCADO_LIVRE_COUPONS_URL, 'https://dicas.emcasacomcecilia.com/cupons/mercado-livre/');
 
 // Regra do Bruno (16/10/2026): todo cupom soma com as promoções vigentes da loja, e só a exceção confirmada
 // aparece no texto, a Magazine Você da Magalu inclusive. A YesStyle (código de recompensa) segue regra própria, e a

@@ -1,3 +1,4 @@
+import { brandLinks } from './brandLinks';
 import { getPrimaryRewardCode, getLatestYesStyleVerifiedAtISO } from './yesstyleCoupons';
 
 export interface CouponFAQ {
@@ -5,6 +6,8 @@ export interface CouponFAQ {
   answer: string;
   // Link de afiliado da marca no Mercado Livre, como veio do Bruno. Sai como sponsored e o clique é medido.
   mercadoLivreUrl?: string;
+  // Link para uma página nossa (não é afiliado nem sponsored).
+  link?: { href: string; label: string };
 }
 
 export interface CouponHistory {
@@ -117,7 +120,24 @@ export type AffiliateLinkOffer = CouponBase & {
 
 export type Coupon = CouponCodeOffer | AffiliateLinkOffer;
 
-export const COUPONS: Coupon[] = [
+// Quem busca "cupom <loja> mercado livre" não acha o nosso código lá. Logo depois da pergunta do Mercado Livre, toda
+// loja com o link do Mercado Livre ganha esta: o melhor costuma ser o site oficial com o código, e quem quiser mesmo
+// comprar no Mercado Livre vê os cupons do próprio Mercado Livre no Dicas & Ofertas.
+export const MERCADO_LIVRE_COUPONS_URL = `${brandLinks.dicas}/cupons/mercado-livre/`;
+
+function withMercadoLivreCouponsFaq(coupon: Coupon): Coupon {
+  const index = coupon.faqs.findIndex((faq) => faq.mercadoLivreUrl);
+  if (index === -1) return coupon;
+  const ours = coupon.offerMode === 'discount-code' ? `o ${coupon.code}` : 'o nosso link';
+  const faq: CouponFAQ = {
+    question: `Tem cupom da ${coupon.brand} para usar no Mercado Livre?`,
+    answer: `Não temos cupom da ${coupon.brand} para o Mercado Livre: ${ours} vale na loja oficial, e é lá, com ele, que costumam estar as melhores condições. Se ainda assim preferir comprar pelo Mercado Livre, veja os cupons do próprio Mercado Livre que reunimos no Dicas & Ofertas. Eles mudam com frequência, e o checkout do Mercado Livre mostra se ainda valem.`,
+    link: { href: MERCADO_LIVRE_COUPONS_URL, label: 'Ver cupons do Mercado Livre' },
+  };
+  return { ...coupon, faqs: [...coupon.faqs.slice(0, index + 1), faq, ...coupon.faqs.slice(index + 1)] };
+}
+
+const STORE_COUPONS: Coupon[] = [
   {
     offerMode: 'discount-code',
     slug: 'damie',
@@ -2446,6 +2466,8 @@ export const COUPONS: Coupon[] = [
     featured: false,
   },
 ];
+
+export const COUPONS: Coupon[] = STORE_COUPONS.map(withMercadoLivreCouponsFaq);
 
 export function getActiveCoupons(): Coupon[] {
   return COUPONS.filter((coupon) => coupon.status === 'ativo');
