@@ -176262,5 +176262,963 @@ export const reviewsData: unknown[] = [
         "Quem usa top e calcinha em tamanhos diferentes: o kit prende os dois no mesmo número."
       ]
     }
+  },
+  {
+    "id": 776,
+    "slug": "black-skull-e-boa",
+    "title": "Black Skull é boa? O whey, a creatina e o que vale comprar da marca",
+    "seoTitle": "Black Skull é boa? Whey HD, creatina e pré-treino pelo rótulo",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que o rótulo da Black Skull entrega no whey 80% HD, no 100% HD, na creatina e no pré-treino, quanto custa com o cupom CECILIA10, onde comprar e para quem a marca compensa.",
+    "metaDescription": "Black Skull é boa? O whey 80% HD tem mais proteína por dose que o 100% HD. Veja whey, creatina e pré-treino pelo rótulo, o preço com o cupom CECILIA10 e onde comprar.",
+    "publishedAt": "2 de novembro de 2026",
+    "publishedAtISO": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp",
+    "imageAlt": "Embalagem refil de 900 g do Whey 100% HD da Black Skull, sabor Baunilha, com a caveira da marca e o nome do produto",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Rótulo com a proteína por dose publicada: o whey 80% HD traz mais proteína por dose que o 100% HD",
+      "Creator, a creatina da marca, lista só creatina monohidratada e tem o menor preço por grama da linha",
+      "Cupom CECILIA10 de 10% no site todo, que soma com as promoções do site e vale em todas as formas de pagamento"
+    ],
+    "cons": [
+      "Nenhum whey isolado nem sem lactose: todos os wheys declaram \"Contém lactose\"",
+      "O nome do whey confunde: o \"100%\" do 100% HD não é a porcentagem de proteína",
+      "O cupom não vale no Mercado Livre"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, pelo rótulo: o whey 80% HD tem mais proteína por dose que o 100% HD, e a creatina Creator traz só creatina monohidratada. O que muda a compra é o whey escolhido, porque o \"100%\" do nome não é a porcentagem de proteína; a conta está no capítulo do whey."
+        ]
+      },
+      {
+        "heading": "O que a Black Skull vende",
+        "paragraphs": [
+          "A Black Skull é uma marca de suplementos para treino, com loja própria no site e uma loja oficial no Mercado Livre. O que mais se procura é o whey e, depois dele, a creatina. Cada linha tem um guia com a conta completa."
+        ],
+        "bullets": [
+          "**Whey:** 80% HD, 100% HD, 3W Core, Gourmet e a linha Turbo. O guia dos wheys está em [whey Black Skull: qual escolher](/reviews/whey-black-skull-qual-escolher).",
+          "**Creatina:** Creator, Creatine e Creatine Turbo, em pote e em refil. A conta por pote está em [creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher).",
+          "**Pré-treino:** BOPE, Bone Crusher e Legacy, comparados em [pré-treino Black Skull: BOPE ou Bone Crusher](/reviews/pre-treino-black-skull-bope-ou-bone-crusher).",
+          "**Hipercalórico:** Masstodon e Monstrous, em [hipercalórico Black Skull: qual escolher](/reviews/hipercalorico-black-skull-qual-escolher).",
+          "**Glutamina:** Glutamine e Glutamine Turbo, no guia de [glutamina: qual escolher](/reviews/glutamina-qual-escolher-black-skull-max-probiotica).",
+          "**Roupas:** regatas e camisas da marca, que ficam fora deste artigo."
+        ]
+      },
+      {
+        "heading": "O whey da Black Skull é bom?",
+        "paragraphs": [
+          "É bom no sentido do rótulo: a tabela nutricional diz quanto de proteína vem em cada dose, e o preço por proteína cabe numa conta. O que atrapalha é o nome do pote.",
+          "O ponto que decide é o 80% HD: ele tem mais proteína por dose que o 100% HD, numa dose menor. O \"100%\" do 100% HD não é a porcentagem de proteína, já que o pó dele tem 60% de proteína, contra 77% do 80% HD, que também é o de menor preço por proteína da linha.",
+          "Conta nossa: com a tabela nutricional de cada rótulo e o preço do site, que está no capítulo do cupom, a conta é preço ÷ (proteína por dose × doses do pote) × 100."
+        ],
+        "comparisonTable": {
+          "caption": "Proteína por dose e doses do rótulo. R$ por 100 g de proteína: conta nossa, com o preço do site antes do cupom.",
+          "headers": [
+            "Whey",
+            "Proteína por dose",
+            "Doses",
+            "R$ por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
+              "23 g em 30 g",
+              "30",
+              "R$ 23,17"
+            ],
+            [
+              "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
+              "21 g em 35 g",
+              "25",
+              "R$ 30,46"
+            ],
+            [
+              "[Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
+              "21 g em 35 g",
+              "50",
+              "R$ 26,66"
+            ],
+            [
+              "[Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
+              "31 g em 40 g",
+              "22",
+              "R$ 41,04"
+            ],
+            [
+              "[Whey 100% HD Gourmet 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-900/p)",
+              "12 g em 30 g",
+              "30",
+              "R$ 36,08"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A loja informa: todos esses wheys declaram \"Contém lactose\", e a Black Skull não vende whey isolado nem zero lactose. O 80% HD leva só proteína concentrada (WPC); o 100% HD e o 3W Core misturam concentrado, isolado e hidrolisado. O único com \"WPI\" no nome, o Whey Protein (WPI, WPC, WPH), tem 11 g em 25 g de dose e também contém lactose.",
+          "**80% HD:** serve a quem quer pagar menos pela proteína e aceita uma lista simples. Não é o whey para quem procura isolado ou mistura de proteínas.",
+          "**100% HD:** serve a quem quer uma mistura de proteínas para o dia a dia, em muitos sabores; o de 1,8 kg compensa quando se compra o pote grande de uma vez. Não escolha se o critério é preço por proteína: sai mais caro que o 80% HD pelo mesmo preço do refil.",
+          "**3W Core:** serve a quem quer a dose mais proteica da linha. Não escolha pelo preço, porque é o mais caro por proteína entre os cinco da tabela.",
+          "**Gourmet:** serve a quem quer um pote mais barato para começar. Não escolha se a proteína é o critério: a dose tem 12 g, a menor da tabela."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/whey-black-skull-3w-core.webp",
+          "alt": "Pote de 900 g do Whey 3W Core da Black Skull, sabor Baunilha, com a caveira da marca e o nome do produto",
+          "caption": "Whey 3W Core 900 g. Foto oficial da Black Skull.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "A creatina da Black Skull é boa?",
+        "paragraphs": [
+          "É, se você escolher o pote certo. O Creator e o Creatine têm a mesma lista de ingredientes nas páginas, só creatina monohidratada, e a loja não explica por que um custa quase o dobro do outro. Pela conta do rótulo, o Creator refil de 500 g é o que sai mais barato por grama.",
+          "A Creatine Turbo lista creatina monohidratada e maltodextrina, com 5 g de creatina e 5 g de carboidrato em cada dose de 10 g. Por isso ela não é só creatina, e o preço por grama de creatina é mais de três vezes o do Creator."
+        ],
+        "comparisonTable": {
+          "caption": "Doses e creatina por dose do rótulo. R$ por 100 g de creatina: conta nossa, preço do site ÷ creatina do pote × 100.",
+          "headers": [
+            "Creatina",
+            "Doses",
+            "R$ por 100 g de creatina"
+          ],
+          "rows": [
+            [
+              "[Creator Refil 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p)",
+              "100 de 5 g",
+              "R$ 7,98"
+            ],
+            [
+              "[Creatine 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p)",
+              "60 de 5 g",
+              "R$ 13,97"
+            ],
+            [
+              "[Creatine Turbo 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p)",
+              "30 de 10 g, com 5 g de carboidrato",
+              "R$ 26,60"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Creator serve a quem quer só creatina pelo menor preço; o refil de 500 g rende mais por real que o pote de 300 g. Não o escolha se você prefere a linha Creatine pelo nome, porque a página não aponta diferença no rótulo. A Turbo serve a quem quer carboidrato na mesma dose; para quem quer só creatina, é a opção mais cara.",
+          "As páginas não declaram selo Creapure nem laudo de terceiros. Quem precisa dessa informação deve perguntar ao SAC da Black Skull antes de comprar."
+        ],
+        "image": {
+          "src": "/images/reviews/black-skull/creatina-black-skull-turbo-300g.webp",
+          "alt": "Pote da Creatine Turbo sem sabor, 300 g, da Black Skull",
+          "caption": "Creatine Turbo 300 g, na foto do site da Black Skull.",
+          "objectFit": "square",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Pré-treino: BOPE ou Bone Crusher",
+        "paragraphs": [
+          "Os dois pedem a mesma dose de 7,5 g e declaram a mesma quantidade de creatina. O que os separa no rótulo é a beta-alanina, a arginina e o carboidrato, além do preço por dose. Nenhum pré-treino da Black Skull é sem cafeína."
+        ],
+        "comparisonTable": {
+          "caption": "Por dose de 7,5 g. Os números do Bone Crusher são do rótulo do pote de 150 g, porque o de 300 g só traz a tabela em imagem. R$ por dose: conta nossa, preço do site ÷ 40 doses.",
+          "headers": [
+            "Pré-treino",
+            "Cafeína",
+            "Beta-alanina",
+            "Carboidrato",
+            "R$ por dose"
+          ],
+          "rows": [
+            [
+              "[Pré-treino BOPE 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p)",
+              "135 mg",
+              "750 mg",
+              "2,2 a 2,3 g",
+              "R$ 1,62"
+            ],
+            [
+              "[Pré-treino Bone Crusher 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p)",
+              "140 mg",
+              "2 g",
+              "0,9 g",
+              "R$ 1,75"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O BOPE serve a quem escolhe pelo preço por dose; não é o da dupla com mais beta-alanina. O Bone Crusher serve a quem quer mais beta-alanina e menos carboidrato por dose; não escolha se o preço por dose pesa mais. O Legacy, com 200 mg de cafeína numa dose de 10 g, é o da loja com mais cafeína por dose."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/pre-treino-black-skull-bope-300g.webp",
+            "alt": "Pote do Pré-Treino BOPE 300 g, sabor frutas vermelhas, da Black Skull",
+            "caption": "BOPE 300 g. Foto oficial da Black Skull.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/black-skull/pre-treino-black-skull-bone-crusher-300g.webp",
+            "alt": "Pote do Pré-Treino Bone Crusher 300 g, sabor frutas vermelhas, da Black Skull",
+            "caption": "Bone Crusher 300 g. Foto oficial da Black Skull.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Hipercalórico e glutamina",
+        "paragraphs": [
+          "No hipercalórico, a escolha é entre duas tabelas. O Masstodon tem 618 kcal e 12 g de proteína por dose de 160 g, quase só carboidrato, e custa menos por caloria. O Monstrous tem 981 kcal e 51 g de proteína por dose de 260 g, e custa mais. O Masstodon serve a quem quer calorias pelo menor preço; não é o da dupla para quem procura proteína. O Monstrous serve a quem quer mais proteína por dose; não escolha se o critério é o preço. A conta completa está em [hipercalórico Black Skull: qual escolher](/reviews/hipercalorico-black-skull-qual-escolher).",
+          "Na glutamina, a Glutamine declara 5 g de L-glutamina por dose de 5 g, com 60 doses no pote de 300 g. A Glutamine Turbo leva metade da dose em maltodextrina, então não é glutamina pura, e estava sem estoque. A Glutamine serve a quem quer glutamina sem carboidrato junto; a conta do pote está em [glutamina: qual escolher](/reviews/glutamina-qual-escolher-black-skull-max-probiotica)."
+        ]
+      },
+      {
+        "heading": "Quanto custa com o cupom CECILIA10",
+        "paragraphs": [
+          "O CECILIA10 dá 10% de desconto em todo o site da Black Skull, soma com as promoções do site e vale em todas as formas de pagamento. O frete fica fora do cupom e a loja calcula no carrinho. O passo a passo está em [como usar o cupom CECILIA10 na Black Skull](/reviews/cupom-black-skull-como-usar)."
+        ],
+        "comparisonTable": {
+          "caption": "Preço no site, 02/11. Com o cupom: conta nossa, 10% sobre o preço do site.",
+          "headers": [
+            "Produto",
+            "Preço no site",
+            "Com CECILIA10"
+          ],
+          "rows": [
+            [
+              "[Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
+              "R$ 159,90",
+              "R$ 143,91"
+            ],
+            [
+              "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
+              "R$ 159,90",
+              "R$ 143,91"
+            ],
+            [
+              "[Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
+              "R$ 279,90",
+              "R$ 251,91"
+            ],
+            [
+              "[Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
+              "R$ 279,90",
+              "R$ 251,91"
+            ],
+            [
+              "[Whey 100% HD Gourmet 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-900/p)",
+              "R$ 129,90",
+              "R$ 116,91"
+            ],
+            [
+              "[Creator Refil 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p)",
+              "R$ 39,90",
+              "R$ 35,91"
+            ],
+            [
+              "[Creatine 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p)",
+              "R$ 41,90",
+              "R$ 37,71"
+            ],
+            [
+              "[Creatine Turbo 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p)",
+              "R$ 39,90",
+              "R$ 35,91"
+            ],
+            [
+              "[Pré-treino BOPE 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p)",
+              "R$ 64,90",
+              "R$ 58,41"
+            ],
+            [
+              "[Pré-treino Bone Crusher 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p)",
+              "R$ 69,90",
+              "R$ 62,91"
+            ],
+            [
+              "[Hipercalórico Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p)",
+              "R$ 129,90",
+              "R$ 116,91"
+            ],
+            [
+              "[Glutamine 300 g](https://www.blackskullusa.com.br/glutamine-caveira-preta--glutamina--300g/p)",
+              "R$ 79,90",
+              "R$ 71,91"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A Black Skull mexe nos preços do site com frequência, então confira o valor e a linha do desconto no carrinho antes de pagar. Na [loja oficial da Black Skull no Mercado Livre](https://meli.la/2knUCTL) o cupom não vale: lá vale o preço do anúncio. Na comparação de [Black Skull no Mercado Livre ou no site](/reviews/black-skull-mercado-livre-ou-site), o Mercado Livre só ganhou no Whey 100% HD de 900 g e no refil de 900 g; no resto, o site com o cupom saiu mais barato."
+        ],
+        "links": [
+          {
+            "label": "Cupom Black Skull: CECILIA10",
+            "href": "/cupons/black-skull"
+          },
+          {
+            "label": "Como usar o cupom CECILIA10 na Black Skull",
+            "href": "/reviews/cupom-black-skull-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "A Black Skull é confiável?",
+        "paragraphs": [
+          "Pelo que a empresa publica, sim: a marca tem CNPJ ativo e regras de troca, frete e atendimento no site. Quem quer a conta inteira, da empresa à reputação, encontra em [Black Skull é confiável?](/reviews/black-skull-e-confiavel) e em [Black Skull no Reclame Aqui](/reviews/black-skull-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "emphasis": "Se você escolhe whey pelo rótulo, comece pelo 80% HD: é o que traz mais proteína por dose e o menor preço por proteína da linha.",
+        "bullets": [
+          "Vale para quem compra suplemento pela tabela nutricional e pelo preço por proteína, e não pelo nome do pote.",
+          "Vale para quem quer creatina só monohidratada pelo menor preço por grama: o Creator refil de 500 g.",
+          "Não vale para quem procura whey isolado ou sem lactose: a Black Skull não vende nenhum.",
+          "Não vale para quem quer usar o cupom no Mercado Livre: o CECILIA10 vale só no site."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O whey da Black Skull é bom? Pelo rótulo, sim: a tabela nutricional traz a proteína por dose, e o 80% HD tem mais proteína por dose que o 100% HD. A conta está no capítulo do whey.",
+          "Qual whey da Black Skull compensa mais? Para pagar menos por proteína, o 80% HD Refil 900 g; para uma mistura de proteínas em muitos sabores, o 100% HD; para a dose mais proteica, o 3W Core.",
+          "80% ou 100% HD: qual escolher? O 80% HD tem mais proteína por dose e sai mais barato por proteína. O \"100%\" do nome do outro não é a porcentagem de proteína do pó.",
+          "A creatina da Black Skull é boa? Pelo rótulo, o Creator traz só creatina monohidratada e sai mais barato por grama que o Creatine, que tem a mesma lista de ingredientes.",
+          "A Black Skull tem whey zero lactose ou isolado? Não: todos os wheys da loja declaram que contêm lactose.",
+          "O cupom CECILIA10 vale no Mercado Livre? Não: ele vale só no site da Black Skull, onde dá 10% e soma com as promoções do site.",
+          "A Black Skull é confiável? Os dados da empresa e a reputação estão em dois guias próprios, linkados no capítulo de confiabilidade."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Veja os produtos da Black Skull e aplique o cupom CECILIA10 no carrinho: 10% em todo o site. Confira a linha do desconto antes de pagar.",
+      "label": "Ir para a Black Skull",
+      "url": "https://www.blackskullusa.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECILIA10",
+    "affiliate": "black-skull",
+    "decision": {
+      "takeIf": [
+        "Você escolhe whey pela proteína por dose e pelo preço por proteína, e não pelo nome do pote.",
+        "Você quer creatina só monohidratada pelo menor preço por grama."
+      ],
+      "skipIf": [
+        "Você precisa de whey isolado ou sem lactose: todos os da loja declaram lactose.",
+        "Você quer usar o cupom no Mercado Livre: o CECILIA10 vale só no site."
+      ]
+    },
+    "editorialNote": "Podemos receber comissão pelo cupom CECILIA10. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
+    "relatedArticles": [
+      {
+        "slug": "whey-black-skull-qual-escolher",
+        "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo"
+      },
+      {
+        "slug": "creatina-black-skull-qual-escolher",
+        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+      },
+      {
+        "slug": "black-skull-e-confiavel",
+        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      }
+    ]
+  },
+  {
+    "id": 777,
+    "slug": "max-titanium-e-boa",
+    "title": "Max Titanium é boa? O whey, a creatina e o que vale comprar da marca",
+    "seoTitle": "Max Titanium é boa? Whey 100%, 3W, isolado e creatina pelo rótulo",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O que o whey da Max Titanium entrega pelo rótulo: 100% Whey, Top Whey 3W, Whey Pro e IsoWhey, com proteína por dose, preço por 100 g de proteína, o cupom e para quem compensa.",
+    "metaDescription": "Max Titanium é boa? Proteína por dose e preço por 100 g do 100% Whey, Top Whey 3W, Whey Pro e IsoWhey, o cupom de até 10% e para quem compensa.",
+    "publishedAt": "2 de novembro de 2026",
+    "publishedAtISO": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-whey.webp",
+    "imageAlt": "Potes de 100% Whey Refil 900 g e Top Whey 3W + Performance 900 g, da Max Titanium, sabor baunilha",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Tabela nutricional publicada na página de cada whey, com a proteína por dose",
+      "O 100% Whey Refil é o mais barato por grama de proteína entre os wheys da tabela",
+      "Uma linha para cada tipo de proteína: concentrado, isolado e o blend do Top Whey 3W",
+      "Cupom de até 10% que soma com as promoções do site e vale em todas as formas de pagamento"
+    ],
+    "cons": [
+      "A Max não vende whey zero lactose, e o isolado também contém lactose",
+      "A página às vezes diz uma proteína por dose diferente da tabela nutricional",
+      "O Whey Pro tem só 15 g de proteína por dose, bem menos que os outros",
+      "O cupom varia por produto e não chega a 10% em todo item"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo rótulo, é boa: o whey da Max Titanium entrega a proteína que o nome promete, e o 100% Whey Refil sai mais barato por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. A tabela do capítulo de preço traz os números."
+        ]
+      },
+      {
+        "heading": "O que a Max Titanium vende",
+        "paragraphs": [
+          "A Max Titanium é uma marca brasileira de suplementos, e o whey é a linha que mais gente procura. O resto do catálogo, com o guia de cada um que já existe:"
+        ],
+        "bullets": [
+          "**Whey:** 100% Whey, Top Whey 3W, Whey Pro e IsoWhey, nos capítulos abaixo.",
+          "**Creatina:** potes de 100 g a 500 g e a Creapure, de 250 g. A conta de cada pote está em [creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote).",
+          "**Pré-treino:** Hórus, Égide e o Night Train, sem cafeína, comparados em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
+          "**Glutamina e BCAA:** a glutamina tem guia em [glutamina: qual escolher](/reviews/glutamina-qual-escolher-black-skull-max-probiotica). O BCAA vem em cápsulas e em pó para beber, e ainda não tem guia aqui.",
+          "**Hipercalórico:** o Mass Titanium 17500, que também tem versão zero lactose.",
+          "**Snacks:** barras de proteína, como a Top Whey Bar e a Power Protein Bar."
+        ]
+      },
+      {
+        "heading": "O whey da Max Titanium é bom?",
+        "paragraphs": [
+          "É, no sentido que importa para um suplemento: o rótulo entrega o que o nome promete. O 100% Whey é concentrado de soro, o IsoWhey é isolado e o Top Whey 3W junta concentrado, isolado e hidrolisado.",
+          "A loja informa: o tipo de proteína de cada whey está na lista de ingredientes da página do produto. A proteína por dose, porém, só vale pela tabela nutricional, porque o texto de venda às vezes diz outro número: a página do 100% Whey Pote fala em \"até 20 g\" e a tabela do sabor baunilha mostra 21 g; a do Top Whey 3W + Sabor fala em 25 a 26 g e a tabela do Brigadeiro mostra 25 g."
+        ]
+      },
+      {
+        "heading": "Proteína por dose e preço por 100 g de proteína",
+        "paragraphs": [
+          "Conta nossa, com a proteína da tabela nutricional e as doses de cada pote: preço dividido por (proteína por dose × doses) e multiplicado por 100. Quanto menor o número da última coluna, mais barata a proteína."
+        ],
+        "comparisonTable": {
+          "caption": "Preço no site, 02/11. Proteína da tabela nutricional de um sabor de cada pote.",
+          "headers": [
+            "Whey",
+            "Tipo de proteína",
+            "Proteína por dose",
+            "Doses",
+            "Preço no site",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[100% Whey Refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
+              "Concentrada",
+              "21 g em 30 g",
+              "30",
+              "R$ 196,39",
+              "R$ 31,17"
+            ],
+            [
+              "[100% Whey Pote 900 g](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
+              "Concentrada",
+              "21 g em 30 g",
+              "30",
+              "R$ 210,39",
+              "R$ 33,40"
+            ],
+            [
+              "[Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
+              "Concentrada, isolada e hidrolisada",
+              "25 g em 40 g",
+              "22,5",
+              "R$ 189,00 (de R$ 273,55)",
+              "R$ 33,60"
+            ],
+            [
+              "[Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
+              "Concentrada, isolada e hidrolisada",
+              "32 g em 40 g",
+              "22,5",
+              "R$ 273,55",
+              "R$ 37,99"
+            ],
+            [
+              "[Top Whey 3W + Natural 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-natural-900g/p)",
+              "Concentrada, isolada e hidrolisada",
+              "26 g em 40 g",
+              "22,5",
+              "R$ 273,55",
+              "R$ 46,76"
+            ],
+            [
+              "[Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
+              "Concentrada",
+              "15 g em 40 g",
+              "25",
+              "R$ 126,20",
+              "R$ 33,65"
+            ],
+            [
+              "[IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
+              "Isolada",
+              "26 g em 30 g",
+              "30",
+              "R$ 326,18",
+              "R$ 41,82"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O Top Whey 3W + Sabor está em promoção: no preço de lista, os 100 g de proteína dele sairiam a R$ 48,63. Os demais estão sem desconto no site."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-100-whey-refil.webp",
+            "alt": "Tabela nutricional do 100% Whey Refil 900 g, sabor baunilha: 30 g por dose, 126 kcal e 21 g de proteína",
+            "caption": "Tabela nutricional do 100% Whey Refil 900 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6358
+          },
+          {
+            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-isowhey.webp",
+            "alt": "Tabela nutricional do IsoWhey 900 g, sabor baunilha: 30 g por dose, 118 kcal e 26 g de proteína",
+            "caption": "Tabela nutricional do IsoWhey 900 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 0.5649
+          }
+        ]
+      },
+      {
+        "heading": "100% Whey: o mais barato por grama de proteína",
+        "paragraphs": [
+          "O 100% Whey é a proteína de soro concentrada da linha de entrada. O Refil sai mais barato que o pote, com a mesma proteína por dose na tabela. A linha tem sabores de colaboração, como o 100% Whey Dr. Peanut, que contém amendoim: olhe a tabela do sabor antes de comprar.",
+          "Serve para quem quer proteína de soro pelo menor preço e aceita lactose. Não escolha se você tem intolerância à lactose, porque o rótulo diz \"contém lactose\", nem se quer uma dose de proteína maior por copo."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+          "alt": "Embalagem do 100% Whey Refil de 900 g da Max Titanium, sabor baunilha.",
+          "caption": "100% Whey Refil 900 g. Imagem: Max Titanium.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7692
+        }
+      },
+      {
+        "heading": "Top Whey 3W: três proteínas e dose maior",
+        "paragraphs": [
+          "O Top Whey 3W junta concentrado, isolado e hidrolisado do soro, numa dose de 40 g. O que muda entre as três versões está na tabela: a + Sabor é a de menor proteína por dose, a + Natural troca a sucralose por estévia e a + Performance é a de maior proteína e traz mix de vitaminas e minerais na lista de ingredientes.",
+          "Serve para quem quer uma dose maior por copo e topa pagar mais por grama de proteína. Não escolha a + Performance ou a + Natural só pelo preço: as duas custam mais por grama de proteína que o 100% Whey."
+        ]
+      },
+      {
+        "heading": "Whey Pro: 15 g de proteína por dose, com mais carboidrato",
+        "paragraphs": [
+          "O Whey Pro é proteína de soro concentrada, em pote de 1 kg, e a loja o descreve como fórmula enriquecida com carboidratos: a dose de 40 g tem 19 g de carboidrato, contra 5,8 g na dose de 30 g do 100% Whey.",
+          "Serve para quem quer um pote maior com preço baixo e não se importa com o carboidrato extra. Não escolha se o critério é proteína: a dose tem menos proteína que a de qualquer outro whey da tabela, e por grama de proteína ele fica acima do 100% Whey Refil."
+        ]
+      },
+      {
+        "heading": "IsoWhey: o isolado, com menos carboidrato e gordura",
+        "paragraphs": [
+          "O IsoWhey é proteína isolada do soro (WPI) e tem 2,3 g de carboidrato e 0,5 g de gordura na dose de 30 g, os menores números da tabela.",
+          "Serve para quem quer o mínimo de carboidrato e gordura por dose e aceita pagar por isso. Não escolha achando que isolado é sem lactose: o rótulo do IsoWhey diz \"contém lactose\"."
+        ]
+      },
+      {
+        "heading": "A Max Titanium tem whey zero lactose?",
+        "paragraphs": [
+          "Não. O 100% Whey, o Top Whey 3W, o Whey Pro e o IsoWhey trazem \"contém lactose\" no rótulo. O \"Zero Lactose\" que aparece no menu da loja é o hipercalórico Mass Titanium 17500, que não é whey. Com intolerância à lactose ou alergia ao leite, a escolha do suplemento fica com um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Creatina, pré-treino, glutamina e BCAA",
+        "paragraphs": [
+          "**Creatina.** O pote de 500 g é o mais barato por grama, e o selo Creapure só existe no pote de 250 g. Os números estão em [creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote).",
+          "**Pré-treino.** O Hórus e o Égide mudam na cafeína e no preço por dose, e o Night Train é o que não tem cafeína. A tabela de cada um está em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
+          "**Glutamina e BCAA.** O guia de [glutamina](/reviews/glutamina-qual-escolher-black-skull-max-probiotica) traz o rótulo e o preço por 100 g do pote de 300 g da Max. O BCAA segue sem comparação aqui: confira a tabela da página antes de comprar."
+        ]
+      },
+      {
+        "heading": "Quanto custa com o cupom e onde comprar",
+        "paragraphs": [
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto, e o percentual varia por produto: nem todo item chega a 10%. No teste do cupom no checkout, com o Top Whey 3W + Sabor em promoção, o cupom tirou R$ 16,75, menos de 9% do preço. Ele soma com as promoções do site e vale em todas as formas de pagamento, então confira a linha Descontos do carrinho antes de pagar.",
+          "A compra é no site oficial, o maxtitanium.com.br. O preço de campanha não entra nas contas deste guia; a Black Friday da marca está em [Black Friday Max Titanium](/reviews/black-friday-max-titanium), e o passo a passo do código, em [como usar o cupom na Max Titanium](/reviews/cupom-max-titanium-como-usar)."
+        ],
+        "links": [
+          {
+            "label": "Cupom Max Titanium: MAX10EMCASACOMCECILIA",
+            "href": "/cupons/max-titanium"
+          }
+        ]
+      },
+      {
+        "heading": "A Max Titanium é confiável?",
+        "paragraphs": [
+          "A parte da loja (quem vende, o site oficial, trocas e frete) está em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel), e a reputação, em [Max Titanium no Reclame Aqui](/reviews/max-titanium-reclame-aqui-nota-reputacao). Aqui o assunto é o produto, e o whey passa no teste do rótulo."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "emphasis": "Para começar pelo whey da Max, o 100% Whey Refil é a escolha mais barata por grama de proteína; o IsoWhey e o Top Whey 3W só compensam se você quer o que o rótulo deles tem a mais.",
+        "bullets": [
+          "Vale para quem quer proteína de soro concentrada pelo menor preço por grama e aceita lactose.",
+          "Vale o Top Whey 3W para quem quer uma dose maior de proteína por copo, e o IsoWhey para quem quer o mínimo de carboidrato e gordura.",
+          "Não vale para quem tem intolerância à lactose: a Max não vende whey zero lactose.",
+          "Não vale comparar só pelo texto da página: confira a proteína na tabela nutricional do sabor que você vai levar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O whey da Max Titanium é bom? É, pelo rótulo: cada whey entrega a proteína por dose que a tabela mostra, e o 100% Whey Refil é o mais barato por grama de proteína.",
+          "Qual whey da Max Titanium compensa mais? Pelo preço por grama de proteína, o 100% Whey Refil; pela dose maior, o Top Whey 3W + Performance; pelo menor carboidrato, o IsoWhey. A tabela do capítulo de preço traz os números.",
+          "100% Whey ou Top Whey 3W? O 100% Whey é concentrado e mais barato por grama de proteína; o Top Whey 3W junta concentrado, isolado e hidrolisado numa dose de 40 g.",
+          "A Max Titanium tem whey zero lactose? Não: os wheys trazem \"contém lactose\" no rótulo, o isolado também, e o \"Zero Lactose\" do menu é o hipercalórico Mass Titanium 17500.",
+          "A creatina da Max Titanium é boa? O pote de 500 g é o mais barato por grama, e o guia da creatina traz a conta de cada pote e o selo Creapure.",
+          "O cupom da Max Titanium dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto, somando com as promoções do site."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% OFF, no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "decision": {
+      "takeIf": [
+        "Você quer proteína de soro concentrada pelo menor preço por grama de proteína.",
+        "Você quer ler a proteína por dose na tabela nutricional antes de escolher o pote."
+      ],
+      "skipIf": [
+        "Você tem intolerância à lactose: a Max não vende whey zero lactose.",
+        "Você compara só pelo texto de venda: a página às vezes diz um número e a tabela, outro."
+      ]
+    },
+    "editorialNote": "Podemos receber comissão pela Max Titanium. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
+    "relatedArticles": [
+      {
+        "slug": "creatina-max-titanium-qual-pote",
+        "title": "Creatina Max Titanium: qual pote compensa (100 g, 300 g, 500 g) e se é Creapure"
+      },
+      {
+        "slug": "max-titanium-ou-growth",
+        "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+      },
+      {
+        "slug": "max-titanium-e-confiavel",
+        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      }
+    ]
+  },
+  {
+    "id": 778,
+    "slug": "probiotica-e-boa",
+    "title": "Probiótica é boa? O whey, a creatina e o que vale comprar da marca",
+    "seoTitle": "Probiótica é boa? 100% Pure Whey, zero lactose e creatina pelo rótulo",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Probiótica é boa? O que o rótulo diz do 100% Pure Whey, do Zero Lactose, do Hiper e do Iso Pro, da creatina e do hipercalórico, quanto custa com o cupom PRO10EMCASACOMCECILIA e para quem compensa.",
+    "metaDescription": "Probiótica é boa? Whey, zero lactose e creatina pelo rótulo, preço por 100 g de proteína e o cupom de até 10%: para quem a marca compensa.",
+    "publishedAt": "2 de novembro de 2026",
+    "publishedAtISO": "2026-11-02",
+    "updatedAt": "2026-11-02",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
+    "imageAlt": "Três embalagens de whey da Probiótica, de 900 g: o pote, o refil e o Zero Lactose, de frente",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "Rótulo com o tipo de proteína e a proteína por dose em todos os wheys",
+      "Whey que o rótulo declara sem lactose, o Zero Lactose",
+      "Creatina com 5 g por porção, com o pote de 300 g como o mais barato por grama",
+      "Cupom de até 10% que soma com as promoções do site e vale em todas as formas de pagamento"
+    ],
+    "cons": [
+      "O aviso do Zero Lactose cita derivados de leite",
+      "O cupom varia por produto e não chega a 10% em todos",
+      "O Iso Pro, o isolado, cobra mais por grama de proteína e contém lactose"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, pelo rótulo. O 100% Pure Whey entrega a proteína que o nome promete, o Zero Lactose declara \"sem lactose\" e a creatina traz 5 g por porção. O que muda a escolha é o tipo de whey e o tamanho do pote de creatina; os capítulos abaixo mostram qual serve para quem."
+        ]
+      },
+      {
+        "heading": "O que a Probiótica vende",
+        "paragraphs": [
+          "A Probiótica é uma marca de suplementos com loja própria no site oficial. O catálogo vai do whey e da creatina a hipercalóricos, colágeno, barras de proteína e kits. Este artigo olha o que mais se procura na marca e manda cada assunto para o guia que já tem a conta feita."
+        ],
+        "bullets": [
+          "**Whey:** 100% Pure Whey (pote e refil), Zero Lactose, Hiper 100% Whey e o isolado Iso Pro, no próximo capítulo.",
+          "**Creatina:** potes de 300 g e de 100 g, Creapure e monodose, comparados em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
+          "**Monodose:** os sachês de creatina, em [monodose Probiótica: sachê ou pote](/reviews/monodose-probiotica-sache-ou-pote).",
+          "**Glutamina:** potes de 300 g e de 120 g, no [guia de glutamina](/reviews/glutamina-qual-escolher-black-skull-max-probiotica).",
+          "**Hipercalórico, colágeno e barras:** o hipercalórico tem um parágrafo mais abaixo; colágeno e barras ficam fora deste artigo."
+        ]
+      },
+      {
+        "heading": "O whey da Probiótica é bom? A proteína de cada pote",
+        "paragraphs": [
+          "Pelo rótulo, é: cada pote declara o tipo de proteína e a proteína por dose, e o que separa um do outro é o tipo, o tamanho da dose e o preço por grama de proteína. A tabela reúne os cinco potes de 900 g de whey de soro da marca."
+        ],
+        "comparisonTable": {
+          "caption": "Preço no site, 02/11. O Hiper 100% Whey está em promoção da loja.",
+          "headers": [
+            "Produto",
+            "Tipo de proteína",
+            "Proteína por dose",
+            "Doses",
+            "Preço no site",
+            "Por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[100% Pure Whey pote, baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Concentrado (WPC)",
+              "20 g em 30 g",
+              "30",
+              "R$ 252,49",
+              "R$ 42,08"
+            ],
+            [
+              "[100% Pure Whey refil, baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Concentrado (WPC)",
+              "20 g em 30 g",
+              "30",
+              "R$ 235,65",
+              "R$ 39,28"
+            ],
+            [
+              "[100% Pure Whey Zero Lactose, chocolate](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Concentrado sem lactose (WPC)",
+              "21 g em 30 g",
+              "30",
+              "R$ 241,97",
+              "R$ 38,41"
+            ],
+            [
+              "[Hiper 100% Whey, baunilha](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Concentrado (WPC)",
+              "23 g em 40 g",
+              "22,5",
+              "R$ 124,90 (de R$ 210,39)",
+              "R$ 24,13"
+            ],
+            [
+              "[Iso Pro Whey, baunilha](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "Isolado (WPI)",
+              "26 g em 30 g",
+              "30",
+              "R$ 346,28",
+              "R$ 44,39"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: com a proteína e as doses da tabela nutricional de cada pote, o preço por 100 g de proteína é preço ÷ (proteína por dose × doses) × 100. No Hiper, as doses saem do peso: 900 g em doses de 40 g. Sem a promoção, o Hiper deixa de ser o mais barato por grama de proteína, e a loja pode tirá-la sem aviso.",
+          "Os potes da tabela são do sabor indicado; a proteína por dose muda pouco de sabor para sabor, e o certo é conferir a tabela do que você vai comprar. O quadro por objetivo, com a seção da Probiótica, está em [melhor whey: qual escolher por objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
+        ]
+      },
+      {
+        "heading": "100% Pure Whey: pote ou refil",
+        "paragraphs": [
+          "O 100% Pure Whey é o whey de entrada da marca: proteína concentrada do soro (WPC), 20 g de proteína em cada dose de 30 g e 30 doses por embalagem de 900 g. O texto de venda fala em 20 g a 24 g; vale a tabela, que diz 20 g. O aviso de alergênicos cita leite e soja, e o produto contém lactose.",
+          "O refil repete a tabela do pote e custa menos. Para quem já tem o pote em casa, é a mesma proteína por menos.",
+          "Serve para quem quer um whey concentrado comum, sem dose grande e sem ser isolado. Não escolha se você precisa evitar lactose: o rótulo diz que contém."
+        ],
+        "image": {
+          "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-whey-baunilha.webp",
+          "alt": "Tabela nutricional do 100% Pure Whey 900 g, sabor Baunilha, com 20 g de proteína em 30 g.",
+          "caption": "Tabela da própria Probiótica: 20 g de proteína em cada porção de 30 g, 30 porções. Imagem: Probiótica",
+          "objectFit": "contain",
+          "aspectRatio": 0.6386
+        }
+      },
+      {
+        "heading": "Zero Lactose: o que o rótulo declara",
+        "paragraphs": [
+          "A loja informa: o 100% Pure Whey Zero Lactose é feito com proteína concentrada do soro do leite sem lactose (WPC), e a página traz \"lactose: não contém\". O que o rótulo escreve está na lista de ingredientes e no aviso de alergênicos, e o aviso diz \"contém derivados de leite\" e \"pode conter soja e ovo\". Sem lactose não é sem leite.",
+          "Na tabela do chocolate, a dose rende um grama de proteína a mais que a do pote comum, e o preço por 100 g de proteína fica abaixo do pote e do refil.",
+          "Serve para quem quer um whey que o rótulo declara sem lactose. Não escolha como isolado, porque é concentrado (WPC); quem quer mais proteína por dose e menos carboidrato olha o Iso Pro."
+        ]
+      },
+      {
+        "heading": "Hiper 100% Whey: a dose de 40 g",
+        "paragraphs": [
+          "O Hiper 100% Whey é proteína concentrada do soro (WPC) numa dose maior, de 40 g, e contém lactose. Na tabela da baunilha, a dose traz 23 g de proteína, 11 g de carboidrato e 159 kcal, mais carboidrato que o Pure Whey. É a dose maior, somada à promoção da loja, que derruba o preço por grama de proteína.",
+          "Serve para quem quer pagar menos pela proteína e aceita uma dose de 40 g. Não escolha se o preço de lista é o que você vai pagar, porque sem a promoção ele perde a vantagem; também não serve a quem quer pouco carboidrato (o Iso Pro) ou whey sem lactose (o Zero Lactose)."
+        ]
+      },
+      {
+        "heading": "Iso Pro: o isolado",
+        "paragraphs": [
+          "O Iso Pro Whey é isolado do soro (WPI): 26 g de proteína em 30 g e 1,3 g de carboidrato na tabela da baunilha, com vitaminas e minerais listados. É o pote com mais proteína por dose e o maior preço por grama de proteína. A página diz que contém lactose, e o aviso cita derivados de leite e soja: não é a opção para quem quer o rótulo sem lactose.",
+          "Serve para quem quer a dose mais concentrada em proteína e o menor carboidrato da marca, e aceita pagar mais por grama. Não escolha para economizar nem para evitar lactose.",
+          "O Iso Protein Blend, apesar do \"Iso\" no nome, não é isolado de soro: a lista de ingredientes traz proteína isolada da soja e concentrado do soro. Por isso fica fora da tabela."
+        ]
+      },
+      {
+        "heading": "A creatina da Probiótica é boa?",
+        "paragraphs": [
+          "Pelo rótulo, sim: a creatina é monohidratada, com 5 g por porção (5.000 mg) nas versões de 5 g, e a tabela não lista outros nutrientes em quantidade significativa. O que muda é o tamanho do pote e o preço por grama. A conta completa, com a Pure Creatina Monster, de porção de 3 g, está em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa)."
+        ],
+        "comparisonTable": {
+          "caption": "Preços no site, na mesma leitura da tabela do whey. Porções da tabela nutricional de cada versão.",
+          "headers": [
+            "Versão",
+            "Porções de 5 g",
+            "Preço no site",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "[Creatina Monohidratada Pura 300 g](https://www.probiotica.com.br/creatina-300g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "60",
+              "R$ 59,90 (de R$ 75,10)",
+              "R$ 19,97"
+            ],
+            [
+              "[Creatina Monohidratada Pura 100 g](https://www.probiotica.com.br/creatina-100g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "20",
+              "R$ 33,89",
+              "R$ 33,89"
+            ],
+            [
+              "[Creatina Creapure Monohidratada 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30",
+              "R$ 99,89",
+              "R$ 66,59"
+            ],
+            [
+              "[Creatina Monodose, 30 sachês de 5 g](https://www.probiotica.com.br/creatina-monodose/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30",
+              "R$ 69,89",
+              "R$ 46,59"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O pote de 300 g está em promoção da loja; sem ela, ainda seria o mais barato por grama. Serve para quem usa uma porção por dia por semanas. O de 100 g só vale para experimentar, e a Creapure e a monodose cobram o selo de origem e a embalagem individual: a composição por porção na tabela é a mesma do pote comum."
+        ],
+        "image": {
+          "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pote-300g.webp",
+          "alt": "Pote azul de 300 g da Creatina Monohidratada da Probiótica, de frente",
+          "caption": "Creatina Monohidratada Pura 300 g. Imagem: Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 0.899
+        }
+      },
+      {
+        "heading": "Hipercalórico, monodose e glutamina",
+        "paragraphs": [
+          "Hipercalórico: a Probiótica vende o [Mass Monster 3200](https://www.probiotica.com.br/mass-monster-3200-3kg/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), de 3 kg, e o [Massa Nitro](https://www.probiotica.com.br/massa-nitro-refil-/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), em refil de 2,52 kg. Este artigo não os compara: a conta é por 100 g de proteína e de carboidrato, na tabela do sabor. Hipercalórico serve para quem procura dose grande de calorias; quem quer só proteína fica no whey.",
+          "Monodose: o sachê de creatina traz 5 g por sachê, uma dose pronta para levar na mochila, e custa mais que o dobro por grama do pote de 300 g. Compensa só se a praticidade vale a diferença, e a conta está em [monodose Probiótica: sachê ou pote](/reviews/monodose-probiotica-sache-ou-pote).",
+          "Glutamina: a L-Glutamine tem [pote de 300 g](https://www.probiotica.com.br/l-glutamine-pote-300/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi) e [pote de 120 g](https://www.probiotica.com.br/l-glutamine-pote-120g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi), os dois com 5 g de L-glutamina por dose no rótulo. O de 300 g sai a R$ 23,30 por 100 g e o de 120 g, a R$ 32,84; quem usa com regularidade fica com o grande. A conta completa está no [guia de glutamina](/reviews/glutamina-qual-escolher-black-skull-max-probiotica)."
+        ]
+      },
+      {
+        "heading": "Quanto custa com o cupom e onde comprar",
+        "paragraphs": [
+          "O PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, e o percentual varia por produto: nem todo item chega a 10%. O cupom vale para conta nova e para quem já comprou, soma com as promoções da loja e vale em todas as formas de pagamento.",
+          "No teste do checkout, um carrinho com colágeno, creatina em promoção, camiseta e barra de proteína teve cerca de 8,3% de desconto no total. Os preços das tabelas são de antes do cupom, e o desconto de cada produto só aparece no carrinho, no campo \"Cupom de Desconto\": confira a linha do desconto antes de pagar.",
+          "A compra é no site oficial, probiotica.com.br, entrando pelo link da parceria."
+        ],
+        "links": [
+          {
+            "label": "Cupom Probiótica: PRO10EMCASACOMCECILIA",
+            "href": "/cupons/probiotica"
+          },
+          {
+            "label": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica",
+            "href": "/reviews/cupom-probiotica-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "A Probiótica é confiável?",
+        "paragraphs": [
+          "É. A loja é operada pela Supley, cuja razão social, CNPJ e endereço, em Matão (SP), aparecem no rodapé do site, e a marca diz, em \"Quem Somos\", que investe em pesquisa e inovação \"desde 1986\". Essa idade é afirmação da própria marca.",
+          "Troca, frete, site oficial e reputação estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel) e em [Probiótica no Reclame Aqui](/reviews/probiotica-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "emphasis": "Vale para quem escolhe whey e creatina pela tabela nutricional e pelo preço por grama, e não pelo nome do pote.",
+        "bullets": [
+          "Para pagar menos pela proteína, o Hiper 100% Whey enquanto estiver em promoção; fora dela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente.",
+          "Para um whey que o rótulo declara sem lactose, o Zero Lactose, lembrando que o aviso de alergênicos cita derivados de leite.",
+          "Para menos carboidrato por dose, o Iso Pro, que cobra mais por grama de proteína.",
+          "Na creatina, o pote de 300 g para uso regular e o de 100 g só para experimentar; Creapure e monodose custam mais pelo selo e pela embalagem.",
+          "Não vale esperar 10% em tudo: o cupom chega a 10% e varia por produto."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O whey da Probiótica é bom? Pelo rótulo, sim: cada pote declara o tipo de proteína e a proteína por dose, e o que muda entre eles é o tipo, a dose e o preço por grama de proteína, na tabela do capítulo do whey.",
+          "O 100% Pure Whey é concentrado? É: a lista de ingredientes traz proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
+          "O zero lactose serve para quem tem intolerância? O rótulo declara \"sem lactose\", e o aviso de alergênicos cita derivados de leite; o artigo lê o rótulo, e a escolha para o seu caso é conversa com médico ou nutricionista.",
+          "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja. O whey declarado sem lactose da marca é o 100% Pure Whey Zero Lactose.",
+          "O Hiper 100% Whey é concentrado? É: proteína concentrada do soro (WPC), em dose de 40 g, e contém lactose.",
+          "A creatina Probiótica é boa? Pelo rótulo, a creatina monohidratada traz 5.000 mg por porção de 5 g nos potes e nos sachês, e o pote de 300 g é o mais barato por grama; os números estão em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
+          "O cupom da Probiótica dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. Vale para conta nova e antiga e soma com as promoções da loja.",
+          "A Probiótica é confiável? É, e os detalhes estão no [guia de confiabilidade da marca](/reviews/probiotica-e-confiavel)."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% OFF no site da Probiótica. Confira o desconto de cada item antes de pagar.",
+      "label": "Ir para a Probiótica com o cupom",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "decision": {
+      "takeIf": [
+        "Você escolhe whey e creatina pela tabela nutricional e pelo preço por grama.",
+        "Você quer um whey que o rótulo declara sem lactose."
+      ],
+      "skipIf": [
+        "Você espera 10% de desconto garantido em todo item: o cupom varia por produto.",
+        "Você precisa evitar leite: o Zero Lactose é sem lactose, e o aviso de alergênicos cita derivados de leite."
+      ]
+    },
+    "editorialNote": "Podemos receber comissão pela Probiótica. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
+    "relatedArticles": [
+      {
+        "slug": "creatina-probiotica-qual-compensa",
+        "title": "Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo"
+      },
+      {
+        "slug": "probiotica-e-confiavel",
+        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "probiotica-ou-growth",
+        "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
+      }
+    ]
   }
 ];
