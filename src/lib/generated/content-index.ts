@@ -29237,7 +29237,7 @@ export const reviewsData: unknown[] = [
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
-    "description": "Passo a passo prático para usar o código de influenciador CECILIA010 na YesStyle. Veja onde digitá-lo no checkout (Reward Code), como combinar com cupons ativos, dicas de K-Beauty e regras de importação para o Brasil.",
+    "description": "O CECILIA010 é um código de recompensa da YesStyle com até 5% extra: 5% na primeira compra e 2% nas seguintes. Veja onde digitar no Reward Code e como soma com os cupons.",
     "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, até 5% extra (5% na primeira compra e 2% nas recorrentes), combinável com cupons promocionais elegíveis conforme o checkout.",
     "publishedAt": "21 Jun 2026",
     "publishedAtISO": "2026-06-21",
@@ -29754,7 +29754,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: Reward Code",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "A practical step-by-step guide to using the influencer code CECILIA010 on YesStyle. See where to enter it at checkout (Reward Code), how to combine it with active coupons and K-Beauty tips.",
+    "description": "CECILIA010 is a YesStyle Reward Code worth up to 5% extra: 5% on your first order and 2% after that. See where to enter it and how it stacks with eligible coupons.",
     "metaDescription": "How to use CECILIA010 on YesStyle: the Reward Code field, up to 5% extra (5% on the first order and 2% on repeat orders), combinable with eligible promo coupons as shown at checkout.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
@@ -30017,7 +30017,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: código de recompensa",
     "type": "Guía & Cupones",
     "reviewKind": "guia",
-    "description": "Guía práctica paso a paso para usar el código de influencer CECILIA010 en YesStyle. Mira dónde introducirlo en el checkout (Reward Code), cómo combinarlo con cupones activos y consejos de K-Beauty.",
+    "description": "CECILIA010 es un código de recompensa de YesStyle con hasta un 5 % extra: 5 % en la primera compra y 2 % en las siguientes. Mira dónde introducirlo y cómo se suma a los cupones.",
     "metaDescription": "Cómo usar CECILIA010 en YesStyle: campo Reward Code, hasta un 5% extra (5% en la primera compra y 2% en las recurrentes), combinable con cupones promocionales elegibles según el checkout.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
@@ -30280,7 +30280,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010 : code de récompense",
     "type": "Guide & Coupons",
     "reviewKind": "guia",
-    "description": "Guide pratique pas à pas pour utiliser le code d'influenceuse CECILIA010 sur YesStyle. Découvrez où le saisir au paiement (Reward Code), comment le combiner avec les coupons actifs et des conseils K-Beauty.",
+    "description": "CECILIA010 est un code de récompense YesStyle : jusqu'à 5 % en plus, soit 5 % sur la première commande et 2 % ensuite. Voyez où le saisir et comment le cumuler avec les coupons.",
     "metaDescription": "Comment utiliser CECILIA010 sur YesStyle : champ Reward Code, jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes), cumulable avec les coupons promotionnels éligibles selon le paiement.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
@@ -30543,7 +30543,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle CECILIA010: Reward Code nutzen",
     "type": "Ratgeber & Gutscheine",
     "reviewKind": "guia",
-    "description": "Praktische Anleitung zum Influencer-Code CECILIA010 bei YesStyle. Hier sehen Sie, wo Sie ihn im Checkout eingeben (Reward Code), wie Sie ihn mit aktiven Gutscheinen kombinieren, dazu K-Beauty-Tipps.",
+    "description": "CECILIA010 ist ein Belohnungscode von YesStyle mit bis zu 5 % extra: 5 % auf die erste Bestellung, 2 % danach. So geben Sie ihn ein und kombinieren ihn mit Gutscheinen.",
     "metaDescription": "CECILIA010 bei YesStyle nutzen: Feld Reward Code, bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), laut Checkout mit berechtigten Aktionsgutscheinen kombinierbar.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
@@ -33969,7 +33969,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os sabores de cápsulas Dolce Gusto da loja oficial por perfil: cafés pretos pela intensidade, cafés com leite de uma ou duas cápsulas, chocolates, chás, gelados, Starbucks, Kopenhagen e NEO, mais os kits, os combos e o cupom CECI.",
+    "description": "Não existe um melhor sabor de Dolce Gusto. As cápsulas da loja oficial por perfil, de cafés a chás e gelados, para escolher conforme o seu jeito de tomar café e a sua máquina.",
     "metaDescription": "Qual sabor de cápsula Dolce Gusto escolher: cafés pela intensidade, com leite, chocolates, chás, gelados, Starbucks e NEO, mais kits e combos da loja oficial.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -34342,7 +34342,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Aprenda a usar o cupom CECIEMCASA no site oficial da I Wanna Sleep. Veja o passo a passo completo para garantir 10% de desconto em travesseiros, pillow tops, cobertores e acessórios de sono.",
+    "description": "Use o cupom CECIEMCASA no site oficial da I Wanna Sleep: o passo a passo para colocar o código no checkout e confirmar os 10% de desconto em todo o site, sem erro.",
     "metaDescription": "Use o cupom CECIEMCASA na I Wanna Sleep e ganhe 10% OFF em todo o site. Veja o passo a passo, regras e como validar o desconto de 10% no checkout.",
     "publishedAt": "07 Jul 2026",
     "publishedAtISO": "2026-07-07",
@@ -34483,7 +34483,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "As cinco máquinas Dolce Gusto à venda na loja oficial, com preço, medidas em cm e recursos lado a lado, qual escolher para cada jeito de tomar café, as cápsulas que cada uma aceita e o cupom CECI.",
+    "description": "Mini Me 2.0, Genio S ou NEO? As cinco máquinas Dolce Gusto da loja oficial lado a lado, com preço, medidas e cápsulas, para escolher pelo seu jeito de tomar café.",
     "metaDescription": "Mini Me 2.0, Genio S Basic, Plus, Touch ou NEO? Preço, medidas em cm, XL, temperaturas e cápsulas de cada Dolce Gusto, e qual comprar para o seu uso.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -35356,7 +35356,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Aprenda a usar o cupom CECI no site oficial da Nestlé Nutre. Passo a passo para aplicar o código, conferir os 10% de desconto no carrinho e saber as exceções: Alfamino, Alfaré e fórmulas infantis para bebês de 0 a 12 meses, como NAN.",
+    "description": "Como aplicar o cupom CECI na Nestlé Nutre para ter 10% de desconto no carrinho, e quais produtos ficam de fora, como Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses.",
     "metaDescription": "Use o cupom CECI na Nestlé Nutre e confira 10% OFF no checkout da loja oficial. Veja o passo a passo, as exceções (Alfamino, Alfaré e fórmulas infantis NAN de 0 a 12 meses) e como validar o desconto antes de pagar.",
     "publishedAt": "10 Jul 2026",
     "publishedAtISO": "2026-07-10",
@@ -35679,7 +35679,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Para quem a Nestlé indica cada linha Nutren (Senior, Protein, Control e Active), nove versões lado a lado pelo rótulo, com cafeína, glúten, lactose e açúcares, e onde entra o cupom CECI.",
+    "description": "Cada linha Nutren tem um público definido pela Nestlé, do Senior ao Active. Veja as nove versões lado a lado pelo rótulo, com cafeína, glúten e lactose, e onde entra o cupom CECI.",
     "metaDescription": "Qual Nutren escolher? Senior, Protein, Control e Active lado a lado pelo rótulo: para quem é cada um, proteína, cafeína, glúten, lactose e o cupom CECI.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -36056,7 +36056,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Este guia reúne os dados públicos das latas de 740 g do Nutren Senior Zero Lactose: rendimento, preparo, diferenças entre as versões sem sabor e baunilha e as regras do cupom CECI no checkout.",
+    "description": "O Nutren Senior Zero Lactose vem em lata de 740 g, sem sabor ou baunilha. Veja rendimento, preparo, a diferença entre as versões e as regras do cupom CECI no checkout.",
     "seoTitle": "Nutren Senior Zero Lactose: o que saber antes de comprar",
     "metaDescription": "Nutren Senior Zero Lactose: veja a ficha da lata de 740 g, o preparo de 180 ml e as diferenças entre as versões sem sabor e baunilha.",
     "publishedAt": "17 de agosto de 2026",
@@ -36440,7 +36440,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Passo a passo para usar o cupom Magazine Luiza da Cecília no navegador: códigos de R$ 10 a R$ 100 OFF na loja Magazine Você da Cecília e o que fazer quando o código não funciona no app do Magalu.",
+    "description": "Passo a passo para usar o cupom Magalu da Cecília no navegador, com dez faixas de desconto pelo valor do carrinho, e o que fazer quando o código não funciona no app do Magalu.",
     "metaDescription": "Passo a passo para usar o cupom Magazine Luiza da Cecília no navegador: códigos de R$ 10 a R$ 100 OFF na loja Magazine Você — e por que não funciona no app.",
     "publishedAt": "17 Jul 2026",
     "publishedAtISO": "2026-07-17",
@@ -37778,7 +37778,7 @@ export const reviewsData: unknown[] = [
     "title": "YesStyle-Gutscheine finden und mit CECILIA010 kombinieren",
     "type": "Ratgeber & Gutscheine",
     "reviewKind": "guia",
-    "description": "Praktischer Leitfaden, um die Rabattgutscheine von YesStyle zu finden, den Unterschied zwischen Coupon Code und Reward Code zu verstehen und mit CECILIA010 bis zu 5 % extra zu sparen.",
+    "description": "So finden Sie gültige YesStyle-Gutscheine und vermeiden abgelaufene Codes. Dazu der Unterschied zu CECILIA010, dem Belohnungscode, der bis zu 5 % extra bringt.",
     "metaDescription": "Wo Sie die aktuell gültigen YesStyle-Gutscheine finden, wie Sie abgelaufene Codes vermeiden und wie Sie den Belohnungscode CECILIA010 für bis zu 5 % Extra-Rabatt dazunehmen.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
@@ -38902,7 +38902,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, com fotos da tabela impressa na embalagem: inclui cafés, lattes, bebidas em duas etapas e XL.",
+    "description": "Tabela de referência de quantos ml saem em cada nível da Dolce Gusto, do 1 ao 7 e no XL, feita com os manuais da Genio S Touch e da Mini Me 2.0 e a tabela da caixa.",
     "metaDescription": "Quantos ml tem cada risco (traço ou barra) da Dolce Gusto, do 1 ao 7 e no XL, segundo os manuais da Genio S Touch e da Mini Me, com a tabela da caixa.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
@@ -41551,7 +41551,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da loja online da I Wanna Sleep no Reclame Aqui em 24/10/2026: reputação RA1000, nota 8,5 nos últimos 6 meses, 100% das reclamações respondidas e 90,6% resolvidas. Veja o que mais gera queixa e o que conferir antes de comprar.",
+    "description": "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, nota 8,5 e 90,6% das reclamações resolvidas. Veja as queixas mais comuns antes de comprar.",
     "metaDescription": "I Wanna Sleep no Reclame Aqui: reputação RA1000, nota 8,5 e 90,6% de reclamações resolvidas. Veja as queixas mais comuns antes de comprar (24/10/2026).",
     "publishedAt": "24 de outubro de 2026",
     "publishedAtISO": "2026-10-24",
@@ -42032,7 +42032,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Nunca tinha tido lava e seca. Gravei o unboxing da Samsung 13 kg (WD13FG), o sufoco da porta de 80 cm, o improviso no encanamento, o batismo da Dona Amélia e o primeiro ciclo de toalhas a 60 °C com secagem completa.",
+    "description": "Minha primeira lava e seca, a Samsung 13 kg: a secagem de quatro toalhas funcionou bem, mas a porta de 80 cm e o encanamento pedem planejamento. Veja unboxing e primeiro uso.",
     "seoTitle": "Lava e Seca Samsung 13 kg: Unboxing e Primeiras Impressões",
     "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, instalação, como usar na primeira vez, app SmartThings e o primeiro ciclo com secagem.",
     "publishedAt": "17 de agosto de 2026",
@@ -43200,7 +43200,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Ce qu’est la K-Beauty, pourquoi la beauté coréenne est devenue un engouement mondial pour le skincare et où trouver des marques comme COSRX, Beauty of Joseon et Anua réunies au même endroit.",
+    "description": "Qu'est-ce que la K-Beauty, pourquoi cette routine coréenne séduit le monde et comment réunir COSRX, Beauty of Joseon et Anua dans un seul panier sur YesStyle.",
     "metaDescription": "Découvrez ce qu’est la K-Beauty, pourquoi elle est devenue une tendance mondiale du skincare et où acheter des marques coréennes comme COSRX, Anua et Beauty of Joseon avec le code CECILIA010.",
     "publishedAt": "25 août 2026",
     "publishedAtISO": "2026-08-25",
@@ -46352,7 +46352,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Compare as linhas de cobertor da I Wanna Sleep: Igloo (dual face), Huggy (sherpa fleece), Puffer Ultralight e Cozy (marshmallow), e veja qual combina com o seu clima e com quem divide a cama.",
+    "description": "Qual cobertor da I Wanna Sleep escolher? As linhas Igloo, Huggy, Puffer Ultralight e Cozy comparadas, para acertar pelo clima do quarto e por quem divide a cama com você.",
     "metaDescription": "Qual cobertor escolher? Compare as linhas Igloo, Huggy, Puffer Ultralight e Cozy da I Wanna Sleep por sensação térmica, tecidos, peso e rotina da casa.",
     "publishedAt": "7 de setembro de 2026",
     "publishedAtISO": "2026-09-07",
@@ -46758,7 +46758,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Nunca usei nem protetor solar e, aos 30, testei uma rotina de skincare coreano com três produtos da Abib que recebi da YesStyle: adesivo de hidrogel para os olhos, creme booster com PDRN e retinal e máscara labial em gel.",
+    "description": "Aos 30, testei uma rotina de iniciante com três produtos da Abib da YesStyle: adesivo de olhos, creme com PDRN e máscara labial. Veja minhas impressões e o CECILIA010.",
     "metaDescription": "Skincare coreano aos 30 para iniciantes: testei o adesivo de olhos, o creme PDRN e a lip mask da Abib. Textura, cheiro, como usar e o código CECILIA010 na YesStyle.",
     "publishedAt": "28 de setembro de 2026",
     "publishedAtISO": "2026-09-28",
@@ -47022,7 +47022,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "I had never even used sunscreen, and at 30 I tried a Korean skincare routine with three Abib products YesStyle sent me: a hydrogel eye patch, a booster cream with PDRN and retinal, and a gel lip mask.",
+    "description": "At 30, I tried a beginner routine with three Abib products from YesStyle: an eye patch, a PDRN cream and a lip mask. See my first impressions and the CECILIA010 code.",
     "metaDescription": "Korean skincare at 30 for beginners: I tried Abib's eye patch, PDRN cream and lip mask. Texture, scent, how to use them and the CECILIA010 code at YesStyle.",
     "publishedAt": "September 28, 2026",
     "publishedAtISO": "2026-09-28",
@@ -47285,7 +47285,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Ni siquiera había usado nunca protector solar y, a los 30, probé una rutina de skincare coreano con tres productos de Abib que me envió YesStyle: parches de hidrogel para los ojos, crema booster con PDRN y retinal y mascarilla de labios en gel.",
+    "description": "A los 30 probé una rutina de principiante con tres productos de Abib de YesStyle: parche de ojos, crema PDRN y mascarilla de labios. Mis impresiones y el código CECILIA010.",
     "metaDescription": "Skincare coreano a los 30 para principiantes: probé el parche de ojos, la crema PDRN y la mascarilla de labios de Abib. Textura, olor, cómo usarlos y el código CECILIA010 en YesStyle.",
     "publishedAt": "28 de septiembre de 2026",
     "publishedAtISO": "2026-09-28",
@@ -47546,7 +47546,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Je n'avais jamais utilisé de crème solaire et, à 30 ans, j'ai testé une routine de skincare coréen avec trois produits Abib reçus de YesStyle : patch hydrogel pour les yeux, crème booster au PDRN et au rétinal, et masque pour les lèvres en gel.",
+    "description": "À 30 ans, j'ai testé une routine débutante avec trois produits Abib de YesStyle : patch yeux, crème PDRN et masque lèvres. Mes impressions et le code CECILIA010.",
     "metaDescription": "Skincare coréen à 30 ans pour débutantes : j'ai testé le patch yeux, la crème PDRN et le masque lèvres Abib. Texture, odeur, mode d'emploi et code CECILIA010 chez YesStyle.",
     "publishedAt": "28 septembre 2026",
     "publishedAtISO": "2026-09-28",
@@ -47809,7 +47809,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Ich hatte bisher nicht einmal Sonnenschutz benutzt und habe mit 30 eine Routine mit koreanischer Hautpflege ausprobiert, mit drei Abib-Produkten, die YesStyle mir geschickt hat: Hydrogel-Augenpatches, Boostercreme mit PDRN und Retinal und eine Lippenmaske als Gel.",
+    "description": "Mit 30 habe ich eine Anfängerroutine mit drei Abib-Produkten von YesStyle getestet: Augenpatches, PDRN-Creme und Lippenmaske. Meine Eindrücke und der Code CECILIA010.",
     "metaDescription": "Koreanische Hautpflege mit 30 für Einsteiger: Ich habe Abibs Augenpatch, die PDRN-Creme und die Lippenmaske getestet. Textur, Duft, Anwendung und der Code CECILIA010 bei YesStyle.",
     "publishedAt": "28. September 2026",
     "publishedAtISO": "2026-09-28",
@@ -48072,7 +48072,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Non avevo mai usato nemmeno la protezione solare e, a 30 anni, ho provato una routine di skincare coreana con tre prodotti Abib ricevuti da YesStyle: patch in idrogel per gli occhi, crema booster con PDRN e retinale e maschera labbra in gel.",
+    "description": "A 30 anni ho provato una routine da principiante con tre prodotti Abib di YesStyle: patch occhi, crema PDRN e maschera labbra. Le mie impressioni e il codice CECILIA010.",
     "metaDescription": "Skincare coreana a 30 anni per principianti: ho provato la patch occhi, la crema PDRN e la maschera labbra di Abib. Consistenza, profumo, come usarle e il codice CECILIA010 su YesStyle.",
     "publishedAt": "28 settembre 2026",
     "publishedAtISO": "2026-09-28",
@@ -50165,7 +50165,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Entenda por que a Dolce Gusto acende a luz laranja, como o calcário se forma em qualquer cafeteira e veja o passo a passo de descalcificação da Mini Me, Genio S e NEO, sem usar vinagre.",
+    "description": "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Entenda por que o calcário se forma e veja como descalcificar a Mini Me, a Genio S e a NEO, sem vinagre.",
     "metaDescription": "Luz laranja na Dolce Gusto? Veja por que o calcário se forma, quando descalcificar e o passo a passo por modelo (Mini Me, Genio S, NEO), sem vinagre.",
     "publishedAt": "29 de setembro de 2026",
     "publishedAtISO": "2026-09-29",
@@ -50444,7 +50444,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que o SleepSpray Kidz da IWS é de fato: composição do rótulo, sem melatonina, indicado a partir de 2 anos, como usar (1 a 3 borrifadas), um roteiro de sono em 4 passos e para quem ele faz sentido.",
+    "description": "O SleepSpray Kidz da IWS é um spray de travesseiro aromático, sem melatonina, para crianças a partir de 2 anos. Veja como usar, um ritual do sono em 4 passos e se vale a pena.",
     "metaDescription": "SleepSpray Kidz IWS: spray de travesseiro com lavanda, camomila e laranja doce, sem melatonina, para crianças a partir de 2 anos. Como usar, ritual do sono em 4 passos, diferença para o adulto e cupom.",
     "publishedAt": "29 de setembro de 2026",
     "publishedAtISO": "2026-09-29",
@@ -50696,7 +50696,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como tomar Nutren Senior sem empelotar: o método da pasta indicado pela Nestlé, quando usar água ou leite desnatado, se pode esquentar ou ferver, como usar o Sem Sabor em receitas e o cupom CECI.",
+    "description": "Para o Nutren Senior não empelotar, faça uma pasta com o pó e um pouco de líquido antes de completar o copo. Veja as medidas por versão e se pode esquentar.",
     "metaDescription": "Nutren Senior empelotando? Veja o método da pasta indicado pela Nestlé, água ou leite, se pode esquentar e como usar o Sem Sabor em receitas.",
     "publishedAt": "30 de setembro de 2026",
     "publishedAtISO": "2026-09-30",
@@ -51285,7 +51285,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como incluir FiberMais Sem Sabor no café, em bebidas frias e nas refeições: cuidados com o calor, diferenças entre lata e sachês, informações do rótulo e cupom CECI de 10% na Nestlé Nutre.",
+    "description": "O FiberMais Sem Sabor entra no café, nas bebidas e nas refeições, sempre ao final do preparo e sem ferver. Veja a medida da lata e dos sachês e o cupom CECI na Nestlé Nutre.",
     "metaDescription": "Veja como usar FiberMais Sem Sabor em café, sucos e refeições, com cuidados de preparo, medidas da lata e dos sachês e cupom CECI de 10% na Nestlé Nutre.",
     "publishedAt": "2 de outubro de 2026",
     "publishedAtISO": "2026-10-02",
@@ -51604,7 +51604,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que conferimos sobre a Let's Eat It antes de indicar a loja: empresa ativa desde 2020 com quatro CNPJs, presença no localizador oficial da Le Creuset, política de 30 dias para devolução, entrega de peças frágeis e o ponto de atenção no pós-venda.",
+    "description": "A Let's Eat It é confiável? O que conferimos antes de indicar a loja: empresa ativa, presença no localizador da Le Creuset, política de troca e o ponto de atenção no pós-venda.",
     "metaDescription": "A loja Let's Eat It é confiável? Veja CNPJ, Le Creuset, troca em 30 dias, frete, Reclame Aqui e fotos da Casa Let's, a loja física em São Paulo.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
@@ -52153,7 +52153,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Passo a passo para aplicar o cupom MAUAD no checkout da Let's Eat It, com o teste que fizemos no site: o desconto de 5% entrou em item de pré-venda e em produto com preço promocional.",
+    "description": "O cupom MAUAD dá 5% de desconto no site da Let's Eat It, e testamos até em item de pré-venda e em preço promocional. Veja o passo a passo para aplicar no checkout.",
     "metaDescription": "Cupom Let's Eat It MAUAD: 5% OFF testado no checkout, inclusive em promoção. Veja o passo a passo e como ficam Pix, cashback, frete e primeira compra.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
@@ -52391,7 +52391,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia do Pillow Top Magnum da I Wanna Sleep: como funcionam os 10 cm de AirFiber gomo a gomo, como instalar e prender no colchão, tamanhos, preços, Sleeptest e quando ele ajuda (ou não) quem acorda desconfortável em colchão duro.",
+    "description": "O Pillow Top Magnum vale a pena se o colchão está em bom estado, mas firme demais; ele não resolve colchão afundado nem trata dor nas costas. Veja para quem serve.",
     "metaDescription": "Pillow Top Magnum IWS: 10 cm de AirFiber, elásticos, tamanhos, preços, cuidados e quando ajuda no colchão duro. 10% OFF com o cupom CECIEMCASA.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
@@ -52638,7 +52638,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia da linha Ninho: diferença entre leite em pó, composto lácteo e fórmula de primeira infância, Fases 1+ e 3+, Forti+, Mucininho, qual Ninho usar em bolo e recheio e os preços na Nestlé Nutre com o cupom CECI.",
+    "description": "Para bolo, vitamina e recheio, o certo é o Leite Ninho Integral, que é leite em pó de verdade. Veja como diferenciar os tipos da linha pelo rótulo e qual usar em cada caso.",
     "metaDescription": "Leite Ninho, composto lácteo ou fórmula? Veja os tipos de Ninho, qual usar no bolo e no recheio e os preços na Nestlé Nutre com 10% OFF no cupom CECI.",
     "publishedAt": "4 de outubro de 2026",
     "publishedAtISO": "2026-10-04",
@@ -52919,7 +52919,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Assinatura Dolce Gusto vale a pena? Preço por caixa com 25% de desconto, custo por cápsula, gasto por mês, comparação com as promoções avulsas, o teste do cupom CECI e a verdade sobre a máquina grátis.",
+    "description": "Assinatura Dolce Gusto vale a pena? A conta com 25% de desconto e frete grátis, quando a promoção avulsa sai mais barata e o que o cupom CECI e a máquina grátis entregam.",
     "metaDescription": "Assinatura Dolce Gusto vale a pena? Veja o preço da caixa com 25% OFF, o gasto por mês, quando a promoção avulsa sai mais barata e o teste do cupom CECI.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
@@ -53262,7 +53262,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que conferimos sobre a Insider Store antes de indicar a loja: CNPJ ativo desde 2016, loja física no MorumbiShopping, troca e devolução gratuitas, garantia contra desbotamento da Tech T-Shirt, reputação RA1000 no Reclame Aqui e os pontos de atenção no pós-venda.",
+    "description": "Sim, a Insider Store é confiável: CNPJ ativo, loja física, trocas sem custo e a melhor reputação do Reclame Aqui. O ponto de atenção é a entrega, onde estão as queixas.",
     "metaDescription": "A Insider Store é confiável? Veja CNPJ, loja física em São Paulo, prazos de troca, garantia, frete, atendimento e a reputação da loja no Reclame Aqui.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
@@ -53501,7 +53501,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Insider Store no Reclame Aqui: reputação RA1000, nota 9,0 nos últimos 6 meses, 99,4% das reclamações respondidas e 92,6% resolvidas. Veja o que mais gera queixa, como a loja responde e os dois alertas recentes.",
+    "description": "A Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. Veja o que mais gera queixa e os dois alertas recentes.",
     "metaDescription": "Insider Store no Reclame Aqui: reputação RA1000, nota 9,0 e 92,6% de solução. Veja as queixas mais comuns, como a loja responde e como reclamar.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
@@ -53820,7 +53820,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como usar o cupom EMCASACOMCECILIA na Insider Store e ganhar 15% OFF sem valor mínimo: passo a passo com o link que já aplica o código, onde o cupom vale, lançamentos, Outlet, frete grátis, primeira compra e o que comprar.",
+    "description": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider Store, sem valor mínimo, inclusive no Outlet e em kits. Veja como aplicar no checkout e as exceções em que ele não entra.",
     "metaDescription": "Cupom Insider Store EMCASACOMCECILIA: 15% OFF sem valor mínimo, testado no checkout. Veja como aplicar, onde vale (Outlet e kits), as exceções e o frete grátis.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
@@ -54080,7 +54080,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como escolher poltrona de amamentação: apoio de braço e de cabeça, com balanço ou sem, tecido fácil de limpar, medidas para quarto pequeno e as três faixas de preço, da poltrona com puff à reclinável elétrica.",
+    "description": "Para escolher a poltrona de amamentação, olhe primeiro os apoios e o assento; o balanço ajuda, mas não é obrigatório. Veja as medidas e as três faixas de preço.",
     "metaDescription": "Como escolher poltrona de amamentação: com balanço ou sem, com puff ou reclinável, tecido, medidas e preços, da opção barata à elétrica. Com a experiência da Cecília.",
     "publishedAt": "7 de outubro de 2026",
     "publishedAtISO": "2026-10-07",
@@ -54418,7 +54418,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Poltrona de amamentação ou reclinável? A diferença entre as duas na mamada, no descanso e na hora de levantar, reclinação manual ou elétrica, qual base da DAMIE faz sentido para amamentar e a conta de quanto tempo cada uma vai ser usada.",
+    "description": "Poltrona de amamentação ou reclinável? A diferença na mamada e no descanso, manual ou elétrica, qual base da DAMIE faz sentido e a conta de quanto tempo cada uma será usada.",
     "metaDescription": "Poltrona de amamentação ou reclinável: qual vale a pena? Diferenças, manual ou elétrica, qual reclinável DAMIE escolher, preços e a conta de quanto tempo de uso.",
     "publishedAt": "7 de outubro de 2026",
     "publishedAtISO": "2026-10-07",
@@ -54752,7 +54752,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da NESCAFÉ Dolce Gusto já começou no site oficial: Mini Me 2.0 e Genio S com 30 cápsulas e 10 vezes sem juros, promoções novas todos os dias, assinatura com desconto no primeiro pedido e frete grátis. Os preços de outubro para comparar, Original ou NEO e como o cupom CECI entra.",
+    "description": "A Black Friday da NESCAFÉ Dolce Gusto já começou, com Mini Me 2.0 e Genio S com 30 cápsulas e ofertas novas todo dia. Veja os preços para comparar e como o cupom CECI entra.",
     "metaDescription": "Black Friday Dolce Gusto 2026 já começou: Mini Me e Genio S com 30 cápsulas, ofertas novas todo dia e assinatura com desconto. Preços e o cupom CECI.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
@@ -55023,7 +55023,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da DAMIE já está no ar, até 27/11: poltrona reclinável com 3 presentes e frete grátis no Esquenta Black. Os preços de outubro das reclináveis, da Levita, da Aurora, do sofá modular e da Poltrona Cinema para comparar, como os descontos se somam com o cupom CECILIA12 e o prazo de entrega.",
+    "description": "A Black Friday da DAMIE já está no ar, com poltrona reclinável, três presentes e frete grátis. Veja os preços de outubro para comparar e como o CECILIA12 soma com as promoções.",
     "metaDescription": "Black Friday DAMIE 2026 já começou, até 27/11: poltrona com 3 presentes e frete grátis. Preços de outubro para comparar, Pix e o cupom CECILIA12.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
@@ -55368,7 +55368,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70% e peças de Natal de 20% a 60%. A Le Creuset de 15% a 40% OFF, os preços de outubro para comparar, como Pix, cashback e cupom MAUAD se somam e até quando pedir para chegar antes do Natal.",
+    "description": "A Black Friday da Let's Eat It já está no ar, com Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 40%. Veja como o Pix e o cupom MAUAD entram na conta.",
     "metaDescription": "Black Friday Let's Eat It 2026 já começou: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%. Le Creuset de 15% a 40%, Pix e cupom.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
@@ -55691,7 +55691,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A I Wanna Sleep ainda não abriu campanha de Black Friday em novembro de 2026. Os preços de outubro do Pillow Top Magnum, de travesseiros e cobertores para comparar, como o cupom CECIEMCASA soma com o Pix, o teste em casa e até quando pedir para chegar no Natal. Colchões e box são vendidos nas lojas físicas.",
+    "description": "A I Wanna Sleep entrou em novembro sem campanha de Black Friday. Veja os preços do Pillow Top Magnum para comparar, como o cupom CECIEMCASA entra e o prazo para o Natal.",
     "metaDescription": "Black Friday I Wanna Sleep 2026: a loja segue sem campanha. Preços de outubro do Pillow Top Magnum e travesseiros, cupom CECIEMCASA com Pix e Natal.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
@@ -56043,7 +56043,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Insider já está no ar, com até 40% OFF e 50% OFF na segunda peça, e o cupom EMCASACOMCECILIA entrou por cima dos preços da campanha e do Outlet no teste de fim de outubro. O guia da linha masculina: os preços da Tech T-Shirt, dos kits e das cuecas para comparar, como o cupom soma com o Pix e o frete grátis, a troca de presente e até quando pedir para chegar no Natal.",
+    "description": "A Black Friday da Insider já está no ar, com até 40% OFF e 50% na segunda peça. Guia da linha masculina: preços para comparar, o cupom EMCASACOMCECILIA entra e o prazo de Natal.",
     "metaDescription": "Black Friday Insider 2026 masculino: até 40% OFF e 2ª peça com 50%. Preços da Tech T-Shirt e das cuecas, e o cupom EMCASACOMCECILIA somando com a campanha.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
@@ -56381,7 +56381,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Insider já está no ar, com até 40% OFF e 50% OFF na segunda peça. O guia da linha feminina: os preços de outubro da Tech T-Shirt feminina, da Gola V, da Manga Longa e dos kits, as calcinhas e os sutiãs do Outlet, o cupom EMCASACOMCECILIA que entrou por cima da campanha no teste, o Pix, a troca de presente e o prazo para o Natal.",
+    "description": "A Black Friday da Insider já está no ar, com até 40% OFF e 50% na segunda peça. O guia da linha feminina, com os preços para comparar e como o cupom EMCASACOMCECILIA entra.",
     "metaDescription": "Black Friday Insider 2026 feminino: até 40% OFF e 2ª peça com 50%. Preços da Tech feminina, calcinhas e sutiãs, e o cupom EMCASACOMCECILIA na campanha.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
@@ -56685,7 +56685,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Month da Nestlé Nutre já começou: novembro inteiro com até 25% OFF e mais 10% com cupom, o esquenta em Materna, Ascenda, Nestonutri, Molico e Vital até 22 de novembro, e o Nutren Senior ainda sem desconto anunciado. Os preços de outubro do Nutren Senior e do Just Protein para comparar, assinatura ou compra única com o cupom CECI, o frete grátis e até quando pedir para chegar no Natal.",
+    "description": "A Black Month da Nestlé Nutre já começou, com até 25% OFF e mais 10% com o cupom CECI. O Nutren Senior segue sem desconto; veja os preços para comparar e o prazo do Natal.",
     "metaDescription": "Black Friday Nutren 2026: a Nestlé Nutre abriu o Black Month com até 25% OFF e mais 10% com cupom, o CECI; Nutren Senior ainda sem desconto. Preços e Natal.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
@@ -57040,7 +57040,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday do Magalu é em 27 de novembro de 2026, e as ofertas antecipadas com o selo Oferta Black já estão no ar, com novidades todo domingo no app. O que é só no app, qual das dez faixas do código da Cecília usar, quando ele vale mais que o cupom do Magalu, como achar o que é vendido e entregue pelo Magalu e os preços de outubro de geladeiras, lavadoras, fogões e eletroportáteis para comparar.",
+    "description": "A Black Friday do Magalu já tem ofertas antecipadas no ar, com o selo Oferta Black e novidades todo domingo no app. Veja o que é só no app e qual faixa do código da Cecília usar.",
     "metaDescription": "Black Friday Magalu 2026 é em 27 de novembro, com ofertas antecipadas o mês todo. O que é só no app, as faixas do código da Cecília e preços de eletro.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
@@ -57351,7 +57351,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da YesStyle já está no ar: o que a loja mostra em 3 de novembro, o cupom de faixa da semana, o calendário de 2024 e 2025, os dias de 15% sem valor mínimo, como somar o código de recompensa CECILIA010 e por que a loja não entrega no Brasil.",
+    "description": "A Black Friday da YesStyle já está no ar, com Mega Sale e cupom de faixa de 8% a 15%. Veja como somar o CECILIA010 no Reward Code e por que a loja não entrega no Brasil.",
     "metaDescription": "A Black Friday da YesStyle 2026 já começou: Mega Sale, cupom de 8% a 15% por faixa, os dias de 15% sem mínimo e como somar o CECILIA010. Sem entrega no Brasil.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
@@ -57625,7 +57625,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Does YesStyle do Black Friday? Yes, and it is on now: what the store shows on November 3, this week's tiered coupon, the 2024 and 2025 calendar, the 15% days with no minimum and how to stack the CECILIA010 Reward Code.",
+    "description": "YesStyle's Black Friday is already on, with the Mega Sale and a tiered coupon of 8% to 15% this week. See where the CECILIA010 Reward Code goes and when the 15% days arrive.",
     "metaDescription": "Does YesStyle have a Black Friday sale? Yes, it is on now: Mega Sale, tiered coupon of 8% to 15%, 15% no-minimum days and how to stack the CECILIA010 Reward Code.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
@@ -57892,7 +57892,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "El Black Friday de YesStyle ya está en marcha: lo que muestra la tienda el 3 de noviembre, el cupón por tramos de la semana, el calendario de 2024 y 2025, los días de 15% sin compra mínima y cómo sumar el código de recompensa CECILIA010.",
+    "description": "El Black Friday de YesStyle ya está en marcha, con la Mega Sale y un cupón por tramos de 8% a 15% esta semana. Mira dónde va el código CECILIA010 y cuándo llegan los días de 15%.",
     "metaDescription": "El Black Friday de YesStyle 2026 ya empezó: Mega Sale, cupón de 8% a 15% por tramos, días de 15% sin mínimo y cómo sumar el código CECILIA010.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
@@ -58159,7 +58159,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle fait-il le Black Friday ? Oui, et il est déjà en cours : ce que la boutique affiche le 3 novembre, le coupon par palier de la semaine, le calendrier 2024 et 2025, les jours à 15 % sans minimum et comment cumuler le code récompense CECILIA010.",
+    "description": "Le Black Friday de YesStyle est déjà en cours, avec Mega Sale et un coupon par palier de 8 à 15 %. Voyez où saisir le code CECILIA010 et quand arrivent les jours à 15 %.",
     "metaDescription": "YesStyle a-t-il un Black Friday ? Oui, il est en cours : Mega Sale, coupon par palier de 8 à 15 %, jours à 15 % sans minimum et cumul avec le code récompense CECILIA010.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
@@ -58426,7 +58426,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Macht YesStyle einen Black Friday? Ja, und er läuft schon: was der Shop am 3. November zeigt, der Staffelgutschein der Woche, der Kalender von 2024 und 2025, die 15-%-Tage ohne Mindestbestellwert und wie sich der Reward Code CECILIA010 addieren lässt.",
+    "description": "Der Black Friday von YesStyle läuft schon, mit Mega Sale und einem Staffelgutschein von 8 bis 15 %. So nutzen Sie den Reward Code CECILIA010 und wann die 15-%-Tage kommen.",
     "metaDescription": "Hat YesStyle einen Black Friday? Ja, er läuft schon: Mega Sale, Staffelgutschein von 8 bis 15 %, 15-%-Tage ohne Mindestbestellwert und wie sich der Reward Code CECILIA010 addieren lässt.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
@@ -58693,7 +58693,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle fa il Black Friday? Sì, ed è già attivo: cosa mostra il negozio il 3 novembre, il coupon a scaglioni della settimana, il calendario 2024 e 2025, i giorni al 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
+    "description": "Il Black Friday di YesStyle è già attivo, con Mega Sale e un coupon a scaglioni dall'8% al 15% in settimana. Scopri dove va il codice CECILIA010 e quando arrivano i giorni al 15%.",
     "metaDescription": "YesStyle ha il Black Friday? Sì, è già attivo: Mega Sale, coupon a scaglioni dall'8% al 15%, giorni al 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
@@ -60028,7 +60028,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday de 2026 cai em 27 de novembro e a SHEIN, hoje no 11.11, ainda não anunciou a campanha. O calendário de 2023 a 2025, o imposto de importação zero até US$ 50, Envio Nacional, cupons, pontos e devolução.",
+    "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Veja o calendário, o imposto zero até US$ 50 e o código de indicação 4CW5Y.",
     "metaDescription": "Black Friday SHEIN 2026: cai em 27/11, a SHEIN está no 11.11 e não anunciou a campanha. Histórico de fases, imposto zero até US$ 50 e devolução.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
@@ -61661,7 +61661,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que os rótulos do Nutren Senior, do Ensure e do Sustagen Senior informam (proteína, cálcio, vitamina D, lactose e glúten), o que não dá para comparar entre eles e onde entra o cupom CECI.",
+    "description": "Nutren Senior, Ensure ou Sustagen Senior: não há um melhor, pois cada rótulo usa uma base diferente. Veja proteína, cálcio e lactose lado a lado e onde entra o cupom CECI.",
     "metaDescription": "Nutren Senior, Ensure ou Sustagen Senior? Proteína, cálcio, vitamina D e lactose lado a lado, o que os rótulos não permitem comparar e o cupom CECI.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -61929,7 +61929,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A louça Porto Brasil é cerâmica, em stoneware e faiança: o que a ficha de cada produto libera no micro-ondas, na lava-louças, no forno e no freezer, as exceções, a garantia, a nota no Reclame Aqui e a comparação com a Oxford.",
+    "description": "A louça Porto Brasil é boa? É cerâmica, não porcelana: veja o que a ficha libera no forno, no micro-ondas e na lava-louças, a garantia, o Reclame Aqui e a comparação com a Oxford.",
     "metaDescription": "Porto Brasil é cerâmica ou porcelana? O que vai ao micro-ondas, à lava-louças e ao forno, as exceções, garantia, Reclame Aqui e Porto Brasil ou Oxford.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -62417,7 +62417,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a Le Creuset diz sobre indução, forno, lava-louças, micro-ondas e panela queimada, o que a garantia não cobre, a comparação com a Staub e onde comprar, com preços de 12/10/2026.",
+    "description": "Le Creuset vale a pena? O que a marca diz sobre indução, forno, lava-louças, micro-ondas e panela queimada, o que a garantia não cobre e como ela se compara à Staub.",
     "metaDescription": "Le Creuset vale a pena? Indução, forno por tipo de puxador, lava-louças, micro-ondas, como limpar o queimado e Le Creuset ou Staub, pelas regras das marcas.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -62646,7 +62646,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "As tabelas de medidas da Insider em texto, linha por linha: Tech T-Shirt masculina e feminina, Core, Daily, Heavy Slim, Oversized, cuecas, calcinha e undershirt, com o jeito de medir uma peça sua e o que vale saber antes de comprar cueca.",
+    "description": "As tabelas de medidas da Insider em texto, da Tech T-Shirt à cueca, e o jeito de medir uma peça sua para escolher o tamanho certo, com o que saber antes de comprar cueca.",
     "metaDescription": "Tabela de medidas Insider em texto: Tech T-Shirt, Daily, Core, feminina, cueca e calcinha, como medir uma peça sua e por que a cueca não troca por tamanho.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -63922,7 +63922,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Nutren Protein, Nutren Just Protein, a garrafa de 260 ml, o Nutren Senior e a YoPRO lado a lado pelo rótulo: proteína, calorias, açúcares, lactose e cafeína, com a base de cada número e o que whey protein quer dizer.",
+    "description": "Não existe um melhor pelo rótulo: Nutren Protein, Just Protein, Senior e YoPRO diferem em cafeína, lactose e preço por porção. Veja a comparação lado a lado e o cupom CECI.",
     "metaDescription": "Nutren Protein ou whey? Proteína, calorias, açúcares e lactose do pó, da garrafa, do Just Protein, do Senior e da YoPRO pelo rótulo, e o cupom CECI.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -64269,7 +64269,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O preço de cada tipo de bebida Dolce Gusto na loja oficial, por cápsula e por xícara, quantas bebidas saem de cada caixa, quanto custa cada bebida na caixa, no DGusta, no combo e na assinatura e como chegar aos R$ 100 do frete grátis e do cupom CECI.",
+    "description": "A bebida de duas cápsulas Dolce Gusto custa o dobro da de uma, e o combo foi a forma mais barata de comprar. Veja o preço por cápsula, por caixa e por xícara.",
     "metaDescription": "Quanto custa uma cápsula Dolce Gusto e cada bebida: preço por xícara, Cappuccino de 2 cápsulas, NEO, caixa, DGusta, combo e assinatura na loja oficial.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
@@ -64663,7 +64663,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Onde colocar o código de indicação da SHEIN (na busca, não no campo de cupom), o passo a passo com as telas, o que aparece depois da pesquisa, o que mudou desde o programa antigo de 2024 e como ter o seu código.",
+    "description": "O código de indicação da SHEIN vai na busca da loja, não no campo de cupom, e não dá desconto fixo. Veja o passo a passo, o que ele abre e como ter o seu código.",
     "metaDescription": "O código de indicação da SHEIN vai na busca, não no campo de cupom. Veja o passo a passo com telas, o que ele abre, o que mudou em 2024 e como ter o seu.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
@@ -64803,7 +64803,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Where to enter the SHEIN referral code (in the search bar, not the coupon field), a step-by-step with screenshots, what shows up after the search, what changed since the old 2024 program and how to get your own code.",
+    "description": "The SHEIN referral code goes in the store's search bar, not the coupon field, and it gives no fixed discount. See the steps, what it opens and how to get your own code.",
     "metaDescription": "The SHEIN referral code goes in the search bar, not the coupon field. See the step-by-step with screenshots, what it opens, what changed in 2024 and how to get yours.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
@@ -64943,7 +64943,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Dónde poner el código de referido de SHEIN (en el buscador, no en el campo de cupón), el paso a paso con capturas, qué aparece después de la búsqueda, qué cambió desde el antiguo programa de 2024 y cómo conseguir tu propio código.",
+    "description": "El código de referido de SHEIN va en el buscador de la tienda, no en el campo de cupón, y no da un descuento fijo. Mira el paso a paso, qué abre y cómo conseguir el tuyo.",
     "metaDescription": "El código de referido de SHEIN va en el buscador, no en el campo de cupón. Mira el paso a paso con capturas, qué abre, qué cambió en 2024 y cómo conseguir el tuyo.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
@@ -65083,7 +65083,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Où saisir le code de parrainage SHEIN (dans la recherche, pas dans le champ du code promo), le pas à pas avec captures d'écran, ce qui s'affiche après la recherche, ce qui a changé depuis l'ancien programme de 2024 et comment obtenir votre code.",
+    "description": "Le code de parrainage SHEIN se saisit dans la recherche, pas dans le champ du code promo, et ne donne pas de réduction fixe. Voyez le pas à pas et comment obtenir le vôtre.",
     "metaDescription": "Le code de parrainage SHEIN se saisit dans la recherche, pas dans le champ du code promo. Voyez le pas à pas avec captures, ce qu'il ouvre, ce qui a changé en 2024 et comment obtenir le vôtre.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -65223,7 +65223,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Wo Sie den SHEIN-Empfehlungscode eingeben (in der Suche, nicht im Gutscheinfeld), die Schritt-für-Schritt-Anleitung mit Screenshots, was nach der Suche erscheint, was sich seit dem alten Programm von 2024 geändert hat und wie Sie Ihren eigenen Code bekommen.",
+    "description": "Der SHEIN-Empfehlungscode gehört in die Suche des Shops, nicht ins Gutscheinfeld, und gibt keinen festen Rabatt. Hier die Anleitung, was er öffnet und wie Sie Ihren Code bekommen.",
     "metaDescription": "Der SHEIN-Empfehlungscode gehört in die Suche, nicht ins Gutscheinfeld. Hier die Anleitung mit Screenshots, was er öffnet, was sich 2024 geändert hat und wie Sie Ihren eigenen bekommen.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
@@ -65363,7 +65363,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Dove inserire il codice invito SHEIN (nella ricerca, non nel campo del coupon), la guida passo passo con le schermate, cosa compare dopo la ricerca, cosa è cambiato dal vecchio programma del 2024 e come ottenere il tuo codice.",
+    "description": "Il codice invito SHEIN va nella ricerca del negozio, non nel campo del coupon, e non dà uno sconto fisso. Ecco la guida passo passo, cosa apre e come ottenere il tuo codice.",
     "metaDescription": "Il codice invito SHEIN va nella ricerca, non nel campo del coupon. Guarda la guida passo passo con le schermate, cosa apre, cosa è cambiato nel 2024 e come ottenere il tuo.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -66063,7 +66063,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quem opera a SHEIN no Brasil, de que país ela é, o que ela vende, o que o Reclame Aqui mostra, como pagar, quanto demora a entrega, o imposto, a devolução e o que conferir antes de pagar.",
+    "description": "Sim, a SHEIN é uma loja legítima, operada no Brasil por uma empresa registrada. Veja o que pesa na decisão, como prazo, imposto e devolução, e o que conferir antes de pagar.",
     "metaDescription": "A SHEIN é confiável? Quem opera a loja no Brasil, a nota 7,5 no Reclame Aqui, de que país ela é, o prazo, a taxa, a devolução e o que conferir antes de pagar.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
@@ -66297,7 +66297,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Whether SHEIN is a legitimate store, which company runs its sites in the US and the UK, which country it comes from, what it sells, whether it is safe to pay, the return policy, import tax and what to check before you pay.",
+    "description": "Yes, SHEIN is a legitimate store, and each market's site is run by a company named in its privacy policy. See returns, import tax and what to check before you pay.",
     "metaDescription": "Is SHEIN legit and safe? Who runs the US and UK sites, which country SHEIN is from, whether it is safe to pay, returns, import tax and what to check before you pay.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
@@ -66478,7 +66478,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "La legitimidad de SHEIN, qué empresa opera sus sitios de España y México, de qué país es, qué vende, si es seguro pagar, el plazo de devolución, los impuestos de importación y qué revisar antes de pagar.",
+    "description": "Sí, SHEIN es una tienda legítima, y el sitio de cada mercado lo opera una empresa identificada. Mira qué pesa en la devolución y los impuestos y qué revisar antes de pagar.",
     "metaDescription": "¿SHEIN es confiable y segura? Quién opera los sitios de España y México, de qué país es, si es seguro pagar, la devolución, la aduana y qué revisar antes de pagar.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
@@ -66668,7 +66668,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "La légitimité de SHEIN, qui exploite son site en France, de quel pays vient l'entreprise, ce qu'elle vend, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
+    "description": "Oui, SHEIN est une boutique légitime, et le site de chaque marché est exploité par une société identifiée. Voyez le retour, la douane et quoi vérifier avant de payer.",
     "metaDescription": "SHEIN est-il fiable et sûr ? Qui l'exploite en France, d'où vient l'entreprise, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -66836,7 +66836,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Wer SHEIN in Deutschland betreibt, woher das Unternehmen kommt, was SHEIN verkauft, was SHEIN zu Ihren Daten sagt, wie die Rückgabe funktioniert, was der EU-Zoll von € 3 bedeutet und was Sie vor der Zahlung kontrollieren sollten.",
+    "description": "Ja, SHEIN ist ein echter Onlineshop, und jede Länderseite hat einen genannten Betreiber. Lesen Sie, was bei Rückgabe und Zoll zählt und was Sie vor der Zahlung prüfen sollten.",
     "metaDescription": "Ist SHEIN seriös und sicher? Betreiber in Deutschland, Herkunft, Daten, Rückgabefristen ab Erhalt, EU-Zoll von € 3, Verfahren und Mitteilung der EU-Behörden.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
@@ -68052,7 +68052,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN and Temu side by side: the shipping, delivery time and returns that each store publishes for the United Kingdom, and how to choose depending on what you are buying. No price comparison.",
+    "description": "SHEIN or Temu? What each store publishes on shipping, delivery time and returns for the UK, and how to choose by what you are buying. Temu gives the longest return window.",
     "metaDescription": "SHEIN vs Temu: shipping, delivery time and returns published for the UK, and what to check before you buy.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
@@ -68236,7 +68236,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN o Temu lado a lado: el envío, el plazo de entrega y las devoluciones que publica cada tienda en España y México, el arancel de 3 € de la UE, cómo elegir según lo que vayas a comprar y qué revisar antes de pagar. Sin comparación de precios.",
+    "description": "¿SHEIN o Temu? Lo que cada tienda publica sobre envío, plazo de entrega y devoluciones en España y México, y cómo elegir según lo que compres. Temu da más plazo para devolver.",
     "metaDescription": "SHEIN o Temu: envío, plazo de entrega y devoluciones que cada tienda publica en España y México, y qué revisar antes de comprar.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
@@ -68452,7 +68452,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN et Temu côte à côte : la livraison, le délai et les retours publiés par chaque boutique en France, le droit de douane de 3 € de l'UE sur les commandes expédiées depuis l'extérieur de l'UE, comment choisir selon ce que vous achetez et ce qu'il faut vérifier avant de payer. Sans comparaison de prix.",
+    "description": "SHEIN ou Temu ? Ce que chaque boutique publie sur la livraison, le délai et les retours en France, et comment choisir selon votre achat. Temu est celle qui laisse le plus de temps.",
     "metaDescription": "SHEIN ou Temu : livraison, délai et retours publiés en France, douane de 3 € de l'UE et points à vérifier avant d'acheter.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -68637,7 +68637,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN und Temu im Vergleich: Was die beiden Shops zu Versand, Lieferzeit und Rückgabe für Deutschland veröffentlichen, wie der EU-Zoll von 3 € pro Warenkategorie bei Sendungen von außerhalb der EU wirkt und was Sie vor dem Kauf prüfen sollten. Ohne Preisvergleich.",
+    "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben und wie Sie je nach Einkauf wählen. Temu hat die längste Rückgabefrist von allen.",
     "metaDescription": "SHEIN oder Temu? Versand, Lieferzeit und Rückgabe für Deutschland, EU-Zoll von 3 € und was Sie vor dem Kauf prüfen sollten.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
@@ -68822,7 +68822,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN e Temu a confronto: cosa pubblicano i due negozi in Italia su spedizione, tempi di consegna e resi, cosa cambia con il dazio UE di 3 euro per categoria di prodotto sugli ordini spediti da fuori UE e cosa controllare prima di comprare. Senza confronto di prezzi.",
+    "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia e come scegliere in base a ciò che compri. Temu concede più tempo per i resi.",
     "metaDescription": "SHEIN o Temu? Spedizione, tempi di consegna e resi per l'Italia, dazio UE di 3 euro e cosa controllare prima di comprare.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -69802,7 +69802,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a YesStyle publica sobre entrega, prazo, frete grátis, imposto, devolução e pagamento no Brasil e em Portugal, o nosso pedido enviado ao Brasil em setembro de 2026 e como pedir o reembolso da taxa da alfândega.",
+    "description": "A YesStyle entrega em Portugal, com prazo e frete publicados, mas na última leitura não oferecia entrega para o Brasil. Veja a tabela e o capítulo do imposto.",
     "metaDescription": "A YesStyle entrega no Brasil e em Portugal? Prazo, frete grátis e imposto pela tabela da loja de 13/10/2026, o envio ao Brasil e o reembolso da taxa.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
@@ -70054,7 +70054,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "What YesStyle publishes about delivery times, free shipping, taxes, returns and payment for the US, UK, Canada, Australia, Ireland and New Zealand, and how to get customs charges refunded.",
+    "description": "YesStyle ships to the US, UK, Canada, Australia, Ireland and New Zealand, with free shipping above a minimum that varies by country. See the delivery table and the tax section.",
     "metaDescription": "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Delivery times, free shipping and taxes from the store's Oct 13, 2026 table.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
@@ -70347,7 +70347,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Lo que YesStyle publica sobre plazos de entrega, envío gratis, impuestos, devoluciones y pago en España, México, Chile, Perú, Argentina y Colombia, y cómo pedir el reembolso de las tasas de aduana.",
+    "description": "YesStyle envía a España, México, Chile, Perú, Argentina y Colombia, con envío gratis a partir de un mínimo según el país. Mira la tabla de plazos y el capítulo de impuestos.",
     "metaDescription": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos y envío gratis según la tabla de la tienda del 13 de octubre de 2026, e impuestos.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
@@ -70612,7 +70612,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Ce que YesStyle publie sur la livraison, les délais, la livraison gratuite, les taxes, les retours et le paiement en France, en Belgique et au Canada, et comment se faire rembourser les frais de douane.",
+    "description": "YesStyle livre en France, en Belgique et au Canada, avec livraison gratuite au-dessus d'un minimum selon le pays. Voyez la grille des délais et le chapitre des taxes.",
     "metaDescription": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, livraison gratuite et taxes d'après la grille de la boutique du 13 octobre 2026.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -70860,7 +70860,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Was YesStyle zu Lieferung, Lieferzeit, Gratisversand, Steuern, Rückgabe und Zahlung in Deutschland, Österreich und der Schweiz veröffentlicht und wie Sie sich die Zollgebühr erstatten lassen.",
+    "description": "YesStyle liefert nach Deutschland, Österreich und in die Schweiz, ab einem Mindestbestellwert versandkostenfrei. Sehen Sie die Lieferzeiten und die Abgaben, die noch anfallen.",
     "metaDescription": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Gratisversand und MwSt. laut Versandtabelle vom 13.10.2026 sowie Zollerstattung.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
@@ -72303,7 +72303,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse lado a lado no Brasil e em Portugal: quem entrega, a partir de quanto o frete é grátis, quem paga o imposto e o que cada loja aceita de volta, pelas páginas oficiais.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse lado a lado no Brasil e em Portugal: quem entrega, quando o frete é grátis, quem paga o imposto e o que cada loja devolve.",
     "metaDescription": "YesStyle ou Stylevana? Entrega, frete grátis, imposto e devolução no Brasil e em Portugal, com Olive Young, StyleKorean e Jolse, pelas páginas oficiais.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
@@ -72682,7 +72682,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean and Jolse side by side: the return deadline and what each store takes back, StyleKorean's free shipping and order limit, and the CECILIA010 Reward Code, from the official pages.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean and Jolse compared: return windows, free shipping and the CECILIA010 Reward Code, based on each store's official pages.",
     "metaDescription": "YesStyle or Stylevana? Returns, StyleKorean free shipping and the CECILIA010 Reward Code, with Olive Young, StyleKorean and Jolse, from the official pages.",
     "publishedAt": "October 13, 2026",
     "publishedAtISO": "2026-10-13",
@@ -72919,7 +72919,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean y Jolse lado a lado: el plazo de devolución y lo que acepta de vuelta cada tienda, el envío gratis y el límite de pedido de StyleKorean y el código de recompensa CECILIA010, según las páginas oficiales.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean y Jolse frente a frente: plazos de devolución, envío gratis y el código de recompensa CECILIA010, según las páginas oficiales.",
     "metaDescription": "¿YesStyle o Stylevana? Devoluciones, envío gratis de StyleKorean y código de recompensa CECILIA010, con Olive Young, StyleKorean y Jolse, según las páginas oficiales.",
     "publishedAt": "13 de octubre de 2026",
     "publishedAtISO": "2026-10-13",
@@ -73156,7 +73156,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean et Jolse côte à côte : le délai de retour et ce que chaque boutique reprend, la livraison gratuite et la limite de commande de StyleKorean, et le code récompense CECILIA010, d'après les pages officielles.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean et Jolse comparées : délais de retour, livraison gratuite et le code récompense CECILIA010, d'après les pages officielles.",
     "metaDescription": "YesStyle ou Stylevana ? Retours, livraison gratuite de StyleKorean et code récompense CECILIA010, avec Olive Young, StyleKorean et Jolse, d'après les pages officielles.",
     "publishedAt": "13 octobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -73393,7 +73393,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean und Jolse im Vergleich: die Frist für die Rückgabe und was jeder Shop zurücknimmt, der kostenlose Versand und die Bestellgrenze bei StyleKorean und der Reward Code CECILIA010, nach den offiziellen Seiten.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean und Jolse im Vergleich: Rückgabefristen, kostenloser Versand und der Reward Code CECILIA010, nach den offiziellen Seiten der Shops.",
     "metaDescription": "YesStyle oder Stylevana? Rückgabe, kostenloser Versand bei StyleKorean und der Reward Code CECILIA010, mit Olive Young, StyleKorean und Jolse, nach den offiziellen Seiten.",
     "publishedAt": "13. Oktober 2026",
     "publishedAtISO": "2026-10-13",
@@ -73630,7 +73630,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse a confronto: il termine per il reso e cosa accetta indietro ogni negozio, la spedizione gratuita e il limite d'ordine di StyleKorean e il codice ricompensa CECILIA010, dalle pagine ufficiali.",
+    "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse a confronto: termini di reso, spedizione gratuita e il codice ricompensa CECILIA010, secondo le pagine ufficiali dei negozi.",
     "metaDescription": "YesStyle o Stylevana? Resi, spedizione gratuita di StyleKorean e codice ricompensa CECILIA010, con Olive Young, StyleKorean e Jolse, dalle pagine ufficiali.",
     "publishedAt": "13 ottobre 2026",
     "publishedAtISO": "2026-10-13",
@@ -74813,7 +74813,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Conferimos a Probiótica antes de indicar a loja: operada pela Supley, CNPJ ativo em 14/10/2026, site oficial probiotica.com.br, 7 dias para arrependimento, 30 para defeito, frete grátis por região e reputação Boa no Reclame Aqui.",
+    "description": "Sim, a Probiótica é confiável: operada pela Supley, com CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Veja frete, prazos e o ponto de atenção.",
     "metaDescription": "A Probiótica é confiável? Veja quem opera a loja, o CNPJ, o site oficial, os prazos de troca, o frete grátis e a reputação no Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -75064,7 +75064,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Probiótica no Reclame Aqui em 14/10/2026: reputação Boa, nota 7,2 nos últimos 6 meses, 99% das reclamações respondidas e 79,3% resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
+    "description": "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses. Veja qual perfil olhar, já que a loja é operada pela Supley, e o que fazer se o pedido falhar.",
     "metaDescription": "Probiótica no Reclame Aqui: reputação Boa, nota 7,2 e 79,3% de reclamações resolvidas. Veja as queixas mais comuns e o que fazer (14/10/2026).",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -75295,7 +75295,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% OFF em todo o site, testado no carrinho em 13/10/2026. Passo a passo, linha Descontos, frete grátis por região, Pix, primeira compra e o que comprar.",
+    "description": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF em todo o site da Probiótica. Veja o passo a passo no carrinho e como o frete grátis muda conforme a região onde você mora.",
     "metaDescription": "Passo a passo para aplicar o PRO10EMCASACOMCECILIA no carrinho da Probiótica: onde digitar, a linha Descontos (até 10% OFF) e o frete grátis por região.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -75524,7 +75524,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que conferimos sobre a Dr. Peanut em 14/10/2026: CNPJ ativo desde 2017, fábrica em Curitiba ligada ao grupo Supley, site oficial, regras de troca e de frete grátis por região e a reputação no Reclame Aqui.",
+    "description": "Sim, a Dr. Peanut é confiável: marca de Curitiba com CNPJ ativo e site oficial, ligada ao grupo Supley. Veja as regras de frete grátis por região e a reputação.",
     "metaDescription": "A Dr. Peanut é confiável? Veja o CNPJ, de quem é a marca, o site oficial, as regras de troca, o frete grátis por região e o Reclame Aqui (14/10/2026).",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -75765,7 +75765,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Dr. Peanut no Reclame Aqui: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12 meses, 95,6% das reclamações respondidas, 84,2% resolvidas, o que mais gera queixa e o que fazer se o pedido der problema.",
+    "description": "Dá para confiar na Dr. Peanut? Os números do Reclame Aqui, com reputação Boa em 6 meses e Ótima em 12, onde as queixas se concentram e o que fazer se o pedido der problema.",
     "metaDescription": "Dr. Peanut no Reclame Aqui: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12. Veja respostas, solução, recompra e as queixas mais comuns.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -76043,7 +76043,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut e ganhar 10% OFF em todo o site: passo a passo no carrinho, produto em promoção, todas as formas de pagamento, frete grátis por região e o que fazer se precisar trocar.",
+    "description": "O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, em qualquer forma de pagamento. Veja o passo a passo no carrinho, o frete grátis por região e como trocar.",
     "metaDescription": "Cupom Dr. Peanut DREMCASACOMCECILIA: 10% OFF em todo o site, testado no carrinho. Veja o passo a passo, o frete grátis por região e as regras de troca.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -76242,7 +76242,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que conferimos sobre a Black Skull antes de indicar a loja: a GDS Grow Dietary Supplements do Brasil S/A, CNPJ ativo desde 2014, o site oficial blackskullusa.com.br, as regras de troca, as faixas de frete grátis e os canais de atendimento.",
+    "description": "A Black Skull é confiável? Conferimos quem é dono da marca, o CNPJ ativo desde 2014, o site oficial, as regras de troca, o frete grátis por região e o atendimento.",
     "metaDescription": "A Black Skull é confiável? Veja de quem é a marca, o CNPJ, o site oficial, as regras de troca, o frete grátis por região e o atendimento, em 14/10/2026.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -76521,7 +76521,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Black Skull no Reclame Aqui em 14/10/2026: reputação Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1), 100% das reclamações respondidas, 61,5% resolvidas e o que mais aparece nas queixas.",
+    "description": "A Black Skull tem reputação Regular (6,8) em 6 meses e Boa (7,1) em 12 no Reclame Aqui, responde tudo e resolve 61,5%. Veja o que isso significa para a sua compra.",
     "metaDescription": "Black Skull no Reclame Aqui em 14/10/2026: reputação Regular (6,8) em 6 meses e Boa (7,1) em 12 meses, 100% respondidas e 61,5% resolvidas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -76821,7 +76821,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como usar o cupom CECILIA10 na Black Skull e ganhar 10% de desconto em todo o site: passo a passo na sacola com os prints do nosso teste de 13/10/2026, promoções, frete grátis por região, primeira compra e trocas.",
+    "description": "O cupom CECILIA10 dá 10% de desconto em todo o site da Black Skull e soma com as promoções. Veja o passo a passo na sacola e como o frete muda o total.",
     "metaDescription": "Cupom Black Skull CECILIA10: 10% em todo o site, testado na sacola em 13/10/2026. Veja como aplicar, o desconto nos itens em promoção e o frete grátis.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -77020,7 +77020,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que conferimos sobre a Lejour antes de indicar: CNPJ ativo desde 2017, a parceria com a Fast Shop, as travas do saque por Pix, os prazos do crédito dos presentes e a reputação Ótima no Reclame Aqui em 14/10/2026.",
+    "description": "Sim, a Lejour é uma empresa regular, com CNPJ ativo e parceria com a Fast Shop. Veja como o saque por Pix é protegido e o que pesa antes de criar a sua lista de presentes.",
     "metaDescription": "A Lejour é confiável? Veja o CNPJ, a parceria com a Fast Shop, como o saque por Pix é protegido e a reputação no Reclame Aqui em 14/10/2026.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -77266,7 +77266,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Lejour no Reclame Aqui em 14/10/2026: reputação Ótima nos últimos 12 meses, nota 9,5, 22 reclamações 100% respondidas, o que significa \"Sem Reputação\" e o que fazer se o saque não cair.",
+    "description": "A Lejour tem reputação Ótima no Reclame Aqui, nota 9,5, com todas as reclamações respondidas. Veja o que é Sem Reputação e o que fazer se o saque travar.",
     "metaDescription": "Lejour no Reclame Aqui em 14/10/2026: reputação Ótima, nota 9,5 e 22 reclamações respondidas. Veja o que é \"Sem Reputação\" e o que fazer.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -77531,7 +77531,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que é a Lejour e como funciona: site do casamento, lista de presentes virtuais, taxa de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro em 14/10/2026, prazos do saque e qual plano escolher.",
+    "description": "O que é a Lejour e como funciona: site do casamento e lista de presentes virtuais, as taxas de cada plano, como sacar o dinheiro e qual plano escolher para a sua lista.",
     "metaDescription": "Lejour: o que é, como funciona a lista de presentes, as taxas (3,89% a 2,99%) e os planos Basic, Premium e Pro, em 14/10/2026.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -77867,7 +77867,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Passo a passo para criar a lista de casamento na Lejour: nomes do casal, data, tema do site, conta grátis, lista de presentes, quem paga a taxa e como sacar. Cadastro refeito até o painel em 14/10/2026.",
+    "description": "Como criar a lista de casamento na Lejour em três passos: cadastro do casal, lista de presentes, quem paga a taxa e como sacar. Veja o que decidir antes de começar.",
     "metaDescription": "Como criar a lista de casamento na Lejour em 3 passos, com as telas do cadastro, a taxa dos presentes e o saque por Pix. Consulta de 14/10/2026.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -78074,7 +78074,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "description": "Inflow e Sofá na Caixa são empresas diferentes. Compare as duas com a DAMIE em como o sofá chega, teste em casa, devolução, garantia, preço do 3 lugares e Reclame Aqui, com dados de 14/10/2026.",
+    "description": "Inflow e Sofá na Caixa são empresas diferentes. Compare as duas com a DAMIE em teste em casa, garantia, preço no Pix e Reclame Aqui para escolher o sofá certo.",
     "metaDescription": "Inflow é a Sofá na Caixa? Não. Compare as duas com a DAMIE: como chega, teste em casa, devolução, garantia, preço e Reclame Aqui (14/10/2026).",
     "image": "/images/reviews/damie/sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
     "imageAlt": "Cecília encaixando o puff no sofá modular azul da Damie, ao lado da foto oficial do modular verde",
@@ -78498,7 +78498,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-14",
     "draft": false,
     "isNew": true,
-    "description": "\"Na caixa\" é o jeito de entregar, não de fabricar. Veja o que faz um sofá durar (estrutura, molas, espuma e tecido), o checklist da ficha técnica, a garantia de cada marca e quando o sofá montado leva vantagem.",
+    "description": "Sofá na caixa pode durar tanto quanto o montado, porque a caixa é só o jeito de entregar. Veja o que decide a durabilidade, o checklist da ficha técnica e a garantia de cada marca.",
     "metaDescription": "Sofá na caixa dura menos? Veja o que faz um sofá durar, o checklist da ficha técnica, a garantia de cada marca e quando o montado leva vantagem.",
     "image": "/images/reviews/damie/sofa-na-caixa-ou-montado-capa-discover.webp",
     "imageAlt": "Cecília sentada no sofá modular azul da Damie, ao lado da foto oficial do modular bege",
@@ -78740,7 +78740,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Conferimos a Max Titanium antes de indicar a loja: operada pela Supley, CNPJ ativo em 14/10/2026, site oficial maxtitanium.com.br, 7 dias para arrependimento, 30 para defeito em suplemento, frete grátis por região e reputação Boa no Reclame Aqui.",
+    "description": "A Max Titanium é confiável: loja operada pela Supley, CNPJ ativo, site oficial e reputação Boa no Reclame Aqui. Veja os prazos de troca, o frete grátis e como conferir o site.",
     "metaDescription": "A Max Titanium é confiável? Veja quem opera a loja, o CNPJ, o site oficial, os prazos de troca, o frete grátis e a reputação no Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -78980,7 +78980,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Max Titanium no Reclame Aqui em 14/10/2026: reputação Boa, nota 7,6 nos últimos 6 meses, 97,5% das reclamações respondidas e 82,6% resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
+    "description": "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. Veja o que mais gera queixa e o que fazer se o seu pedido atrasar ou der problema.",
     "metaDescription": "Max Titanium no Reclame Aqui: reputação Boa, nota 7,6 e 82,6% de reclamações resolvidas. Veja as queixas mais comuns e o que fazer (14/10/2026).",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -79216,7 +79216,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% OFF, testado no carrinho em 14/10/2026. Passo a passo, linha Descontos, soma com promoção e com o Pix, frete grátis por região e brindes.",
+    "description": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max Titanium. Veja onde digitar, como ele soma com promoção e Pix e como funciona o frete grátis por região.",
     "metaDescription": "Passo a passo para aplicar o MAX10EMCASACOMCECILIA no carrinho da Max Titanium: onde digitar, a linha Descontos (até 10% OFF) e o frete grátis por região.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -79457,7 +79457,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Conferimos a Cléa Store antes de indicar a loja: Clea Store Ltda., CNPJ ativo em 14/10/2026, sede em Jaraguá do Sul (SC), site oficial cleastore.com.br, devolução grátis em 30 dias, cashback de 10% e reputação Boa no Reclame Aqui.",
+    "description": "Conferimos a Cléa Store: CNPJ ativo, site oficial, devolução grátis, cashback de 10% e reputação Boa no Reclame Aqui. Veja se ela é confiável e o que pesa na compra.",
     "metaDescription": "A Cléa Store é confiável? Veja quem vende, o CNPJ, o site oficial, a devolução grátis, o cashback e a reputação no Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -79724,7 +79724,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Cléa Store no Reclame Aqui em 14/10/2026: reputação Boa, selo de Empresa Verificada, nota 7,1 nos últimos 6 meses, 100% das reclamações respondidas e 83,3% resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
+    "description": "A Cléa Store tem reputação Boa e selo de Empresa Verificada no Reclame Aqui, e responde todas as reclamações. Veja os pontos fracos e o que fazer se o pedido der problema.",
     "metaDescription": "Cléa Store no Reclame Aqui: reputação Boa, Empresa Verificada, nota 7,1 e 100% das reclamações respondidas. Veja as queixas e o que fazer (14/10/2026).",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -79965,7 +79965,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como usar o cupom CSEMCASACOMCECILIA na Cléa Store: 10% OFF em todo o site, testado no carrinho em 14/10/2026. Passo a passo, soma com promoção e com o cashback, frete grátis acima de R$ 599 e devolução.",
+    "description": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Veja o passo a passo para aplicar no carrinho e como ele soma com a promoção e com o cashback.",
     "metaDescription": "Cupom Cléa Store CSEMCASACOMCECILIA: 10% OFF em todo o site, testado no carrinho. Veja como aplicar, o cashback e o frete grátis.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -80194,7 +80194,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black November da Black Skull já está no ar: desconto progressivo, quanto mais você leva maior o desconto, com selos de até 40% e frete grátis. O cupom CECILIA10 dá 10% em todo o site; preços de whey e creatina de outubro para comparar.",
+    "description": "A Black November da Black Skull já está no ar, com desconto progressivo de até 40% e frete grátis. Veja os preços de outubro de whey e creatina e como o CECILIA10 entra.",
     "metaDescription": "Black Friday Black Skull 2026: a Black November já começou, com desconto progressivo de até 40% e frete grátis. Cupom CECILIA10 de 10% em todo o site.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
@@ -80465,7 +80465,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Max November da Max Titanium vai o mês inteiro, até 30 de novembro: cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa de valor e Pix com 5%. O cupom MAX10EMCASACOMCECILIA dá até 10% e soma com as promoções; preços de outubro para comparar.",
+    "description": "O Max November da Max Titanium vai o mês inteiro, com cashback de até 16%, roupas com 50% OFF e Pix com 5%. Veja como o cupom MAX10EMCASACOMCECILIA soma com as promoções.",
     "metaDescription": "Black Friday Max Titanium 2026: Max November até 30/11, cashback de até 16%, roupas com 50% OFF e Pix com 5%. Cupom MAX10EMCASACOMCECILIA de até 10%.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
@@ -80744,7 +80744,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Dr. Peanut entrou em novembro de 2026 sem campanha de Black Friday no site. Como o cupom DREMCASACOMCECILIA soma com as promoções do site, o frete grátis por região com o cupom já aplicado e o checklist antes de pagar.",
+    "description": "A Dr. Peanut entrou em novembro sem campanha de Black Friday. Veja como o cupom DREMCASACOMCECILIA soma com as promoções, o frete grátis por região e o que conferir antes de pagar.",
     "metaDescription": "Black Friday Dr. Peanut 2026: a loja segue sem campanha. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com promoção; frete grátis por região.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
@@ -80916,7 +80916,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Novembro PRO da Probiótica já começou, por tempo limitado, com Pix e boleto de até 5% OFF. Os preços de whey, creatina, barra e colágeno de outubro para comparar, como o cupom PRO10EMCASACOMCECILIA soma com a promoção, o frete grátis por região, kits e trocas.",
+    "description": "O Novembro PRO da Probiótica já começou, com Pix e boleto de até 5% OFF. Veja os preços de outubro de whey e creatina e como o PRO10EMCASACOMCECILIA soma com a promoção.",
     "metaDescription": "Black Friday Probiótica 2026: o Novembro PRO já começou, com Pix e boleto de até 5% OFF. Cupom PRO10EMCASACOMCECILIA de até 10% e frete grátis.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
@@ -81136,7 +81136,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Cléa Store já começou: 30% OFF em todo o site e kits de camiseta a preço fixo. O que a loja mostra, os preços de outubro para comparar, o teste do cupom CSEMCASACOMCECILIA num kit em promoção, o frete grátis acima de R$ 599, a devolução grátis e o cashback de 10%.",
+    "description": "A Black Friday da Cléa Store já está no ar, com 30% OFF em todo o site e kits a preço fixo. Veja o que a loja mostra e como o cupom CSEMCASACOMCECILIA entra na conta.",
     "metaDescription": "Black Friday Cléa Store 2026 já começou: 30% OFF em todo o site e kits a preço fixo. Preços de outubro, cupom CSEMCASACOMCECILIA, frete e cashback.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
@@ -81364,7 +81364,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black November da Lejour já está no ar: planos e adicionais com 50% OFF. O que a faixa do site anuncia, o que a Lejour fez em 2025, os planos e taxas de outubro, a conta de uma lista de R$ 20.000 e quando o Premium pela metade compensa.",
+    "description": "A Lejour já está em Black November, com planos e adicionais com 50% OFF. Veja o que a faixa do site anuncia e a conta que mostra quando o Premium pela metade compensa.",
     "metaDescription": "Black Friday Lejour 2026 já começou: Black November com planos e adicionais com 50% OFF. Planos, taxas e a conta de quando o Premium compensa.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
@@ -81598,7 +81598,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Cléa Store faz 14 anos e dá uma T-Shirt Oversized de brinde na compra de qualquer peça, até 31/10/2026. Como escolher o brinde, o pedido mais barato que leva a T-Shirt e o teste do cupom CSEMCASACOMCECILIA junto com o brinde.",
+    "description": "A Cléa Store dá uma T-Shirt Oversized de brinde na compra de qualquer peça, e o cupom CSEMCASACOMCECILIA vale junto. Veja como escolher o brinde e o pedido mais barato.",
     "metaDescription": "Cléa Store 14 anos: T-Shirt de brinde em qualquer compra até 31/10. Como escolher, o pedido mais barato e o cupom CSEMCASACOMCECILIA testado junto.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
@@ -81783,7 +81783,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A seleção da Cecília na Insider: 20 peças de roupa íntima, camisetas, shorts, vestidos e casacos com o preço de tabela, o preço do site e o preço com o cupom EMCASACOMCECILIA, até 49% abaixo da tabela, com as promoções valendo até 31/10.",
+    "description": "As 20 peças da seleção da Cecília na Insider, com o preço do site e o preço final com o cupom EMCASACOMCECILIA, que dá 15% OFF sem valor mínimo e vale um por pedido.",
     "metaDescription": "Promoção Insider: 20 peças com o cupom EMCASACOMCECILIA, até 49% abaixo da tabela. Preços, cores e tamanhos de cada peça, com promoções até 31/10.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
@@ -82474,7 +82474,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Black Skull e Max Titanium lado a lado: whey e creatina comparados pelo rótulo, com preço por dose, preço por 100 g de proteína e os dois cupons, pelos sites oficiais em 16/10/2026.",
+    "description": "A Black Skull é a mais barata na creatina e no whey por grama de proteína; a Max Titanium tem mais whey 3W com sabor e creatina Creapure. Veja quem escolhe o quê.",
     "metaDescription": "Black Skull ou Max Titanium? Whey e creatina pelo rótulo, com preço por dose, por 100 g de proteína e os dois cupons.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
@@ -82935,7 +82935,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Max Titanium e Probiótica lado a lado: mesma fábrica no rótulo, linhas diferentes. Proteína por porção, preço por 100 g de proteína, creatina e cupom, pelas lojas oficiais em 16/10/2026.",
+    "description": "Max Titanium e Probiótica são do mesmo grupo, mas não vendem os mesmos potes. Veja lado a lado proteína por porção, preço por 100 g, creatina e cupom, e qual escolher.",
     "metaDescription": "Max Titanium ou Probiótica? Mesma fábrica, linhas diferentes: proteína por porção, preço por 100 g, creatina e cupom nas lojas oficiais.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
@@ -84793,7 +84793,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Conferimos a Belive antes de indicar a loja: vendida pela NHD Foods, CNPJ ativo em 16/10/2026, site oficial belivebefree.com.br, 7 dias para arrependimento, frete grátis por região e reputação Ótima no Reclame Aqui.",
+    "description": "A Belive é confiável: é vendida pela NHD Foods, tem site oficial com CNPJ ativo e reputação Ótima no Reclame Aqui. Veja trocas, prazo de arrependimento e frete grátis por região.",
     "metaDescription": "A Belive é confiável? Veja quem vende, o CNPJ, o site oficial, as trocas, o frete grátis por região e a reputação no Reclame Aqui.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
@@ -85001,7 +85001,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Belive no Reclame Aqui em 16/10/2026: reputação Ótima, nota 8,1 nos últimos 6 meses, 100% das reclamações respondidas e 80% resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
+    "description": "A Belive tem reputação Ótima no Reclame Aqui, com nota 8,1 nos últimos 6 meses e 80% das reclamações resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
     "metaDescription": "Belive no Reclame Aqui: reputação Ótima, nota 8,1 e 80% de reclamações resolvidas nos 6 meses. Veja as queixas e o que fazer (16/10/2026).",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
@@ -86365,7 +86365,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Nanlac Supreme Pro 800 g pelo rótulo: composição, tabela, preparo, quanto rende a lata, o que mudou do Supreme, como conferir o lote do recolhimento de janeiro e o preço na Nestlé Nutre.",
+    "description": "O Nanlac Supreme Pro é fórmula infantil para crianças de 1 a 3 anos. Veja composição, preparo, quanto rende a lata de 800 g e como conferir o lote do recolhimento.",
     "metaDescription": "Nanlac Supreme Pro 800 g (1 a 3 anos): composição, preparo, quanto rende a lata, os lotes do recolhimento de janeiro e o preço na Nestlé Nutre.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
@@ -86732,7 +86732,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Nanlac Supreme Pro e Nanlac Comfor HMO, as duas fórmulas infantis de primeira infância da Nestlé para 1 a 3 anos: o que cada lata declara, alérgicos, preparo, os lotes do Comfor no recolhimento e o preço na Nestlé Nutre em 17/10/2026.",
+    "description": "Nanlac Supreme Pro ou Comfor HMO, fórmulas da Nestlé para 1 a 3 anos: o Supreme Pro declara mais HMOs, o Comfor tem GOS, FOS e menor preço. Veja o rótulo lado a lado.",
     "metaDescription": "Nanlac Supreme Pro ou Comfor HMO (1 a 3 anos): HMO, proteína, DHA, ARA, GOS e FOS, preparo, preço por litro e os lotes do Comfor no recolhimento.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
@@ -87061,7 +87061,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Nanlac Supreme Pro (Nestlé) e Aptanutri Profutura 3 (Danone), fórmulas infantis de primeira infância de 1 a 3 anos: o que cada rótulo declara, alérgicos, preparo, rendimento da lata de 800 g e preço em 17/10/2026.",
+    "description": "O Nanlac Supreme Pro e o Aptanutri Profutura 3 são fórmulas para crianças de 1 a 3 anos, e a escolha depende do rótulo. Veja o que cada um declara, o preparo e o preço.",
     "metaDescription": "Nanlac Supreme Pro ou Aptanutri Profutura 3 (1 a 3 anos): HMO, DHA, ARA, prebióticos, alérgicos, preparo e preço por litro da lata de 800 g.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
@@ -87457,7 +87457,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Nanlac Supreme Pro e Ninho Fases 1+, as duas fórmulas infantis de seguimento da Nestlé para 1 a 3 anos: HMO, DHA e ARA contra prebióticos, açúcares, proteína, preparo e preço por 100 g na Nestlé Nutre em 17/10/2026.",
+    "description": "Nanlac Supreme Pro ou Ninho Fases 1+, fórmulas da Nestlé para 1 a 3 anos: a diferença está no rótulo. Veja HMO, DHA e ARA contra prebióticos, açúcares e preço por 100 g.",
     "metaDescription": "Nanlac Supreme Pro ou Ninho Fases 1+ (1 a 3 anos)? O que muda no rótulo: HMO, DHA e ARA ou prebióticos, açúcares, proteína e preço por 100 g.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
@@ -87824,7 +87824,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Nutren A-Z Multi (60 cápsulas) e Centrum A a Zinco Adulto (60 comprimidos): a dose de cada vitamina e mineral por unidade, o que cada um declara, ingredientes e o preço por dia em 17/10/2026.",
+    "description": "Nutren A-Z Multi ou Centrum A a Zinco? Veja a dose de cada vitamina e mineral por unidade, o que cada rótulo declara e quanto cada multivitamínico custa por dia.",
     "metaDescription": "Nutren A-Z ou Centrum A a Zinco? Dose de cada vitamina e mineral por unidade, ingredientes e quanto cada um custa por dia, com preços datados.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
@@ -90979,7 +90979,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Max Titanium ou Growth? O whey, a creatina e o hipercalórico das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, preço por 1.000 kcal, com e sem o cupom MAX10EMCASACOMCECILIA.",
+    "description": "Pelo preço no cartão, a Growth sai mais barata no whey concentrado e na creatina, e a Max no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
     "metaDescription": "Max Titanium ou Growth: whey, creatina e hipercalórico comparados por 100 g de proteína, por grama de creatina e por 1.000 kcal, com o cupom da Max e os preços de 18/10/2026.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
@@ -94455,7 +94455,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger en Trustpilot: TrustScore 4,6 con 73.411 opiniones en octubre de 2026, cómo influyen las invitaciones, de qué se quejan los clientes y cómo desactivar la renovación automática.",
+    "description": "Hostinger tiene un TrustScore de 4,6 en Trustpilot con más de 73.000 opiniones. Mira las quejas más citadas y cómo desactivar la renovación automática.",
     "metaDescription": "Hostinger en Trustpilot (24 de octubre de 2026): TrustScore 4,6 con 73.411 opiniones, 99 % de las negativas respondidas y cobros y renovación entre las quejas principales. Mira cómo desactivar la renovación.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
@@ -94743,7 +94743,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger sur Trustpilot : un TrustScore de 4,6 pour 73 411 avis en octobre 2026, l’effet des invitations, les plaintes des clients et comment désactiver le renouvellement automatique.",
+    "description": "Hostinger a un TrustScore de 4,6 sur Trustpilot pour plus de 73 000 avis. Voyez les plaintes les plus citées et comment désactiver le renouvellement automatique.",
     "metaDescription": "Hostinger sur Trustpilot (24 octobre 2026) : TrustScore 4,6 pour 73 411 avis, 99 % des avis négatifs traités, facturation et renouvellement parmi les plaintes principales. Voyez comment désactiver le renouvellement.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
@@ -95031,7 +95031,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger auf Trustpilot: TrustScore 4,6 aus 73.411 Bewertungen im Oktober 2026, wie Einladungen die Note beeinflussen, worüber sich Kunden beschweren und wie Sie die automatische Verlängerung abschalten.",
+    "description": "Hostinger hat auf Trustpilot einen TrustScore von 4,6 bei über 73.000 Bewertungen. Sie sehen die häufigsten Beschwerden und wie Sie die automatische Verlängerung abschalten.",
     "metaDescription": "Hostinger auf Trustpilot (24. Oktober 2026): TrustScore 4,6 aus 73.411 Bewertungen, 99 % der negativen beantwortet, Abrechnung und Verlängerung unter den häufigsten Beschwerden. So schalten Sie die Verlängerung ab.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
@@ -97046,7 +97046,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "El cupón Hostinger SONAR20 da 20% de descuento en el primer período, en plan mensual o anual, para cliente nuevo o antiguo. Mira dónde pegar el código y qué cambia en la renovación.",
+    "description": "El código SONAR20 da 20% de descuento en el primer período de un plan de Hostinger, mensual o anual. Mira dónde pegarlo en el carrito y qué cambia en la renovación.",
     "metaDescription": "Cupón Hostinger SONAR20: 20% de descuento en el primer período, en plan mensual o anual. Mira dónde pegar el código en el carrito y qué cambia en la renovación.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
@@ -97173,7 +97173,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Le code promo Hostinger SONAR20 donne 20 % de réduction sur la première période, en forfait mensuel ou annuel, pour un client nouveau ou existant. Voyez où coller le code et ce qui change au renouvellement.",
+    "description": "Le code SONAR20 donne 20 % de réduction sur la première période d'un forfait Hostinger, mensuel ou annuel. Voyez où le saisir dans le panier et ce qui change au renouvellement.",
     "metaDescription": "Code promo Hostinger SONAR20 : 20 % sur la première période, en forfait mensuel ou annuel. Voyez où coller le code dans le panier et ce qui change au renouvellement.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
@@ -97300,7 +97300,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Der Hostinger-Gutschein SONAR20 gibt 20 % Rabatt auf den ersten Zeitraum, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Sie sehen, wo der Code hingehört und was sich bei der Verlängerung ändert.",
+    "description": "Mit dem Code SONAR20 sparen Sie 20 % auf den ersten Zeitraum eines Hostinger-Tarifs, monatlich oder jährlich. Sie sehen, wo er hingehört und was sich bei der Verlängerung ändert.",
     "metaDescription": "Hostinger-Gutschein SONAR20: 20 % Rabatt auf den ersten Zeitraum, bei Monats- oder Jahrestarif. Sehen Sie, wo der Code im Warenkorb hingehört und was sich bei der Verlängerung ändert.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
@@ -97427,7 +97427,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Il coupon Hostinger SONAR20 dà il 20% di sconto sul primo periodo, con piano mensile o annuale, per cliente nuovo o già esistente. Scopri dove incollare il codice e cosa cambia al rinnovo.",
+    "description": "Il codice SONAR20 dà il 20% di sconto sul primo periodo di un piano Hostinger, mensile o annuale. Scopri dove inserirlo nel carrello e cosa cambia al rinnovo.",
     "metaDescription": "Coupon Hostinger SONAR20: 20% di sconto sul primo periodo, con piano mensile o annuale. Scopri dove incollare il codice nel carrello e cosa cambia al rinnovo.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
@@ -98062,7 +98062,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "A Black Friday da Hostinger já começou e vai de 19/10 a 14/12/2026. O cupom SONAR20 tira mais 20% do preço da campanha. Veja a conta por plano, a renovação e como conferir antes de pagar.",
+    "description": "A Black Friday da Hostinger já está no ar e o código SONAR20 tira mais 20% do preço da campanha. Veja a conta por plano e o que muda na renovação antes de pagar.",
     "metaDescription": "Black Friday Hostinger 2026 já começou e vai até 14/12. O cupom SONAR20 tira mais 20% do preço da campanha. Preços por plano e renovação.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
@@ -98235,7 +98235,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger's Black Friday has already started and runs from October 19 to December 14, 2026. The SONAR20 coupon takes another 20% off the campaign price. See the renewal price and how to check before you pay.",
+    "description": "Hostinger's Black Friday is live, and the SONAR20 code takes another 20% off the campaign price. See the math by plan and what changes at renewal before you pay.",
     "metaDescription": "Hostinger Black Friday 2026 has started and runs until December 14. The SONAR20 coupon takes another 20% off the campaign price. Renewal and how to check.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
@@ -98361,7 +98361,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "La Black Friday de Hostinger ya empezó y va del 19 de octubre al 14 de diciembre de 2026. El cupón SONAR20 quita un 20 % más del precio de la campaña. Mira la renovación y cómo comprobarlo antes de pagar.",
+    "description": "La Black Friday de Hostinger ya está en marcha y el código SONAR20 quita un 20 % más al precio de la campaña. Mira la cuenta por plan y la renovación antes de pagar.",
     "metaDescription": "Black Friday Hostinger 2026 ya empezó y dura hasta el 14 de diciembre. El cupón SONAR20 quita un 20 % más del precio de la campaña. Renovación y cómo comprobarlo.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
@@ -98487,7 +98487,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Le Black Friday de Hostinger a déjà commencé et dure du 19 octobre au 14 décembre 2026. Le code SONAR20 retire encore 20 % du prix de la campagne. Voyez le tarif de renouvellement et comment vérifier avant de payer.",
+    "description": "Le Black Friday de Hostinger est en cours et le code SONAR20 retire 20 % de plus sur le prix de la campagne. Voyez le calcul par offre et le renouvellement avant de payer.",
     "metaDescription": "Black Friday Hostinger 2026 : c’est déjà parti, jusqu’au 14 décembre. Le code SONAR20 retire encore 20 % du prix de la campagne. Renouvellement et vérification.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
@@ -98613,7 +98613,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Der Black Friday von Hostinger hat schon begonnen und läuft vom 19. Oktober bis zum 14. Dezember 2026. Der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Hier steht der Verlängerungspreis und wie Sie vor dem Bezahlen nachprüfen.",
+    "description": "Der Black Friday von Hostinger läuft bereits, und der Code SONAR20 zieht weitere 20 % vom Aktionspreis ab. Sehen Sie die Rechnung pro Tarif und die Verlängerung vor dem Kauf.",
     "metaDescription": "Hostinger Black Friday 2026 hat begonnen und läuft bis zum 14. Dezember. Der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Verlängerung und Prüfung.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
@@ -98739,7 +98739,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Il Black Friday di Hostinger è già iniziato e va dal 19 ottobre al 14 dicembre 2026. Il coupon SONAR20 toglie un altro 20% dal prezzo della campagna. Scopri il prezzo del rinnovo e come controllare prima di pagare.",
+    "description": "Il Black Friday di Hostinger è in corso e il codice SONAR20 toglie un altro 20% dal prezzo della campagna. Guarda il conto per piano e il rinnovo prima di pagare.",
     "metaDescription": "Black Friday Hostinger 2026 è già iniziato e dura fino al 14 dicembre. Il coupon SONAR20 toglie un altro 20% dal prezzo della campagna. Rinnovo e come controllare.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
@@ -99352,7 +99352,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Qual cafeteira serve para o escritório de 5, 10 ou 20 pessoas e quanto custa por mês: Dolce Gusto Negócios, TRES, Nespresso, cápsulas compatíveis e filtro, com preços de 19/10/2026.",
+    "description": "Para um escritório em que nem todos tomam só café, a Dolce Gusto atende melhor; quem só toma café preto paga menos com filtro. Veja o custo por mês para 5, 10 e 20 pessoas.",
     "metaDescription": "Cafeteira para escritório: o custo por mês para 5, 10 e 20 pessoas com Dolce Gusto, TRES, Nespresso e filtro, e qual máquina atende quem não toma café.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -99782,7 +99782,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mesa posta de Natal para seis pessoas em três faixas de preço, de R$ 1.019,90 a R$ 5.250,69, com faqueiro, taças, sousplat, guardanapo e centro de mesa da Let's Eat It e o passo a passo para montar.",
+    "description": "A mesa posta de Natal para seis pessoas tem três faixas de preço, da básica à completa. Veja o que comprar, a conta de cada faixa, o cupom MAUAD e como montar cada lugar.",
     "metaDescription": "Mesa posta de Natal para 6 pessoas: o que comprar, quanto custa em três faixas (de R$ 1.019,90) e como montar cada lugar. Preços de 20/10/2026.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -100253,7 +100253,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Ideias de presente de casamento em quatro faixas de preço, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com aparelho de jantar Porto Brasil, Le Creuset, taças Bohemia e faqueiros, e o que a ficha de cada peça diz.",
+    "description": "Não existe valor certo para um presente de casamento. Veja ideias da Let's Eat It em quatro faixas de preço, de taças a Le Creuset, e como escolher pelo que o casal já tem.",
     "metaDescription": "Presente de casamento por faixa de preço: Le Creuset, Porto Brasil, taças Bohemia e faqueiros de até R$ 300 a mais de R$ 1.500, com preços de 20/10/2026.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -100612,7 +100612,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Presentes de Natal para quem gosta de cozinhar em quatro faixas de preço, de canecas Le Creuset e utensílios KitchenAid a panelas Signature e eletroportáteis Ariete, com o prazo de entrega para chegar antes do Natal.",
+    "description": "Ideias de presente de Natal para quem gosta de cozinhar em quatro faixas de preço, de Le Creuset a Ariete. Veja como escolher pelo perfil e o prazo para chegar antes do Natal.",
     "metaDescription": "Presente de Natal para quem gosta de cozinhar: ideias de até R$ 150 a mais de R$ 1.000, com Le Creuset, KitchenAid e Ariete. Preços de 20/10/2026.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -100959,7 +100959,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Três looks de trabalho com alfaiataria da Cléa Store, do blazer risca de giz com camisa off white ao colete vermelho, com o preço de cada peça em 20/10/2026 e o total com o cupom de 10%.",
+    "description": "Três looks de trabalho com alfaiataria montados só com peças da Cléa Store, do neutro ao colete vermelho. Veja quanto custa cada um, com e sem o cupom de 10%.",
     "metaDescription": "Look de trabalho com alfaiataria feminina: 3 combinações com blazer, camisa, body e colete da Cléa Store e quanto custa cada uma, com e sem cupom.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -101546,7 +101546,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como ler a tabela de medidas da Cléa Store: onde ela fica, como medir busto, cintura e quadril, as faixas de P, M e G nas peças de cima e de 36 a 42 na calça, e o que fazer entre dois tamanhos.",
+    "description": "Como escolher o tamanho na tabela de medidas da Cléa Store: onde achar, como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos.",
     "metaDescription": "Tabela de medidas da Cléa Store: como medir busto, cintura e quadril e escolher entre P, M e G ou 36 a 42 em cada peça. Medidas lidas em 20/10/2026.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -101767,7 +101767,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Cléa Store no Mercado Livre ou no site: a loja oficial do Mercado Livre tem 7 anúncios com as t-shirts e os bodies mais vendidos, e o site tem a variedade de modelos, cores e a alfaiataria, com o cupom de 10% e cashback. Preços de 20/10/2026.",
+    "description": "No essencial, como t-shirts e bodies, o Mercado Livre da Cléa Store sai mais barato; o site vence em variedade, alfaiataria, cupom de 10% e cashback. Veja a comparação.",
     "metaDescription": "Cléa Store no Mercado Livre ou no site: o essencial sai mais barato no ML, a variedade de modelos e a alfaiataria está no site, com cupom de 10%. Preços de 20/10/2026.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -102923,7 +102923,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Presente de Natal na Insider: os kits por faixa de preço, os kits com cueca boxer, como funciona o gift card, sacola e envelope, a troca de presente e até quando pedir para chegar antes do Natal.",
+    "description": "Para presentear com a Insider, o kit serve a quem quer algo pronto e o gift card, a quem não sabe o tamanho. Veja o prazo para chegar antes do Natal e como funciona a troca.",
     "metaDescription": "Presente de Natal Insider: kits por preço, kits com cueca, gift card, sacola, troca de presente e prazo para chegar antes do Natal.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -103439,7 +103439,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Black Skull ou Dux? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, a Dux no cartão e no Pix e a Black Skull com e sem o cupom CECILIA10.",
+    "description": "Black Skull ou Dux? Whey e creatina das duas lojas comparados pelo preço por 100 g de proteína e de creatina, com a Black Skull no cupom CECILIA10 e a Dux no Pix.",
     "metaDescription": "Black Skull ou Dux: whey e creatina comparados por 100 g de proteína e de creatina, Creapure, ingredientes, cupom CECILIA10, Pix e frete.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -103784,7 +103784,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Max Titanium ou Dux? Whey concentrado, 3W e isolado, creatina, Creapure, multivitamínico e pré-treino das duas lojas pela mesma régua: proteína por dose, preço por 100 g, por dia e por dose, a Dux no cartão e no Pix e a Max com e sem o cupom MAX10EMCASACOMCECILIA.",
+    "description": "Max Titanium ou Dux? Whey, creatina, multivitamínico e pré-treino comparados pela mesma régua, de proteína por dose a preço por dia, com Pix e cupom. Veja qual sai mais barata.",
     "metaDescription": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por 100 g de proteína, por dia e por dose, com cupom, Pix e frete.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -104239,7 +104239,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Probiótica ou Dux? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, Creapure, a Dux no cartão e no Pix e a Probiótica com e sem o cupom PRO10EMCASACOMCECILIA.",
+    "description": "A Probiótica sai mais barata que a Dux no whey e na creatina e tem o cupom PRO10EMCASACOMCECILIA; a Dux ganha no Pix. Veja onde cada uma ganha e quem escolhe o quê.",
     "metaDescription": "Probiótica ou Dux: whey e creatina comparados por 100 g de proteína e de creatina, Creapure, ingredientes, cupom PRO10EMCASACOMCECILIA, Pix e frete.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -104543,7 +104543,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quem opera a Mais Mu, como conferir o site oficial, o que a loja diz sobre trocas e reembolso e o que o Reclame Aqui mostra sobre a reputação recente. A loja caiu para Regular nos últimos 6 meses.",
+    "description": "A Mais Mu é uma empresa registrada, com CNPJ ativo e site oficial, mas a reputação recente no Reclame Aqui caiu para Regular. Veja trocas, reembolso e o que pesa na compra.",
     "metaDescription": "A Mais Mu é confiável? Veja a empresa por trás da loja, o CNPJ, o site oficial, as regras de troca e reembolso e a reputação no Reclame Aqui.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -104758,7 +104758,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Mais Mu no Reclame Aqui em 20/10/2026: reputação Regular nos últimos 6 meses, nota 6,4, 95,5% das reclamações respondidas e 67,9% resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
+    "description": "A Mais Mu tem reputação Regular no Reclame Aqui nos últimos seis meses, com nota 6,4. Veja os números, as queixas mais comuns e o que fazer se o pedido der problema.",
     "metaDescription": "Mais Mu no Reclame Aqui: reputação Regular em 6 meses (nota 6,4), 67,9% resolvidas e queixas sobre entrega. Veja os números e o que fazer (20/10/2026).",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -105010,7 +105010,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como usar o cupom MMEMCASACOMCECILIA no site oficial da Mais Mu: 10% OFF, passo a passo no checkout, frete grátis por região e por que ele não vale no Mercado Livre. Testado no carrinho em 20/10/2026.",
+    "description": "O cupom MMEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Mais Mu e soma com o Pix. Veja o passo a passo no checkout e por que ele não vale no Mercado Livre.",
     "metaDescription": "Passo a passo para aplicar o MMEMCASACOMCECILIA no checkout da Mais Mu: 10% OFF em todo o site, soma com o Pix e não vale no Mercado Livre.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -105237,7 +105237,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Mais Mu já está com ofertas de até 50% OFF e 3% no Pix, na campanha que a loja chama de Blue Friday. Este guia traz os preços de whey e creatina de outubro para comparar, como o cupom MMEMCASACOMCECILIA soma com as ofertas e com o Pix e as regras de frete grátis.",
+    "description": "A Mais Mu chama a Black Friday de Blue Friday e já tem até 50% OFF e 3% no Pix. Veja os preços de outubro de whey e creatina e como o MMEMCASACOMCECILIA entra na conta.",
     "metaDescription": "Black Friday Mais Mu 2026: a Blue Friday já está no ar, com até 50% OFF e 3% no Pix. Cupom MMEMCASACOMCECILIA de 10% e preços de outubro.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -105732,7 +105732,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mais Mu ou Dux? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, Creapure, Pix, frete e o cupom MMEMCASACOMCECILIA da Mais Mu. Preços de 21/10/2026.",
+    "description": "Pelo preço no cartão, a Mais Mu sai mais barata no whey e na creatina, e a Dux leva o Pix de 5% e a única Creapure declarada. Veja as tabelas e quem escolhe o quê.",
     "metaDescription": "Mais Mu ou Dux: whey e creatina por 100 g de proteína e de creatina, com cupom, Pix, Creapure e frete. Preços de 21/10/2026.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
@@ -106109,7 +106109,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle e Olive Young Global lado a lado: quem entrega no Brasil, em Portugal e em mais 22 países, a partir de quanto o frete é grátis, quem paga o imposto e o que cada loja aceita de volta, pelas páginas oficiais.",
+    "description": "YesStyle e Olive Young Global lado a lado: quem entrega no Brasil, em Portugal e em outros países, quando o frete é grátis, quem paga o imposto e o que cada loja devolve.",
     "metaDescription": "YesStyle ou Olive Young? A Olive Young Global não entrega no Brasil. Veja frete grátis, prazo, imposto e devolução por país, pelas páginas oficiais.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
@@ -106410,7 +106410,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle and Olive Young Global side by side: who ships to 23 countries, the order value where shipping becomes free, who pays the tax and what each store takes back, from the official pages.",
+    "description": "YesStyle and Olive Young Global head to head: who ships to 23 countries, when shipping becomes free, who pays the tax and what each store takes back after a purchase.",
     "metaDescription": "YesStyle or Olive Young? See free shipping, delivery time, tax and returns by country, from the official pages.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
@@ -106674,7 +106674,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle y Olive Young Global cara a cara: quién envía a 23 países, desde qué importe el envío es gratis, quién paga el impuesto y qué devuelve cada tienda, según sus páginas oficiales.",
+    "description": "YesStyle y Olive Young Global frente a frente: quién envía a 23 países, desde qué importe el envío es gratis, quién paga el impuesto y qué devuelve cada tienda.",
     "metaDescription": "¿YesStyle u Olive Young? Mira el envío gratis, el plazo, el impuesto y la devolución por país, según las páginas oficiales.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
@@ -106938,7 +106938,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle et Olive Young Global côte à côte : qui livre dans 23 pays, à partir de quel montant la livraison est gratuite, qui paie les taxes et ce que chaque boutique reprend, d'après les pages officielles.",
+    "description": "YesStyle et Olive Young Global face à face : qui livre dans 23 pays, dès quel montant la livraison est gratuite, qui paie les taxes et ce que chaque boutique reprend.",
     "metaDescription": "YesStyle ou Olive Young ? Livraison gratuite, délai, taxes et retours par pays, d'après les pages officielles.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
@@ -107202,7 +107202,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle und Olive Young Global im Vergleich: wer in 23 Länder liefert, ab welchem Bestellwert der Versand kostenlos ist, wer die Steuern zahlt und was jeder Shop zurücknimmt, nach den offiziellen Seiten.",
+    "description": "YesStyle und Olive Young Global im Vergleich: wer in 23 Länder liefert, ab wann der Versand kostenlos ist, wer die Steuern zahlt und was jeder Shop zurücknimmt.",
     "metaDescription": "YesStyle oder Olive Young? Kostenloser Versand, Lieferzeit, Steuern und Rückgabe je Land, nach den offiziellen Seiten.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
@@ -107466,7 +107466,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle e Olive Young Global a confronto: chi spedisce in 23 paesi, da quale importo la spedizione è gratuita, chi paga le imposte e cosa accetta indietro ciascun negozio, secondo le pagine ufficiali.",
+    "description": "YesStyle e Olive Young Global a confronto: chi spedisce in 23 paesi, da quale importo la spedizione è gratuita, chi paga le imposte e cosa accetta indietro ciascun negozio.",
     "metaDescription": "YesStyle o Olive Young? Spedizione gratuita, tempi, imposte e resi per paese, secondo le pagine ufficiali.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
@@ -116942,7 +116942,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Paperclip ist ein Open-Source-Orchestrator (MIT) für Teams aus KI-Agenten. Sehen Sie, was sich überprüfen lässt und ob bei Hostinger das verwaltete Angebot oder ein VPS besser passt.",
+    "description": "Paperclip ist ein Open-Source-Orchestrator für Teams aus KI-Agenten. Sehen Sie, was sich überprüfen lässt und ob bei Hostinger der verwaltete Tarif oder ein VPS besser passt.",
     "metaDescription": "Paperclip AI: was es ist, wer es pflegt, was sich überprüfen lässt und wie Sie es bei Hostinger betreiben, verwaltet oder als VPS.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
@@ -119473,7 +119473,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Skelt no Reclame Aqui em 21/10/2026: reputação Ótima nos últimos 6 meses, nota 8,3 e 92,2% das reclamações resolvidas. Veja a troca de faixa, as queixas mais comuns e o que fazer se o pedido der problema.",
+    "description": "A reputação da Skelt no Reclame Aqui é boa: Ótima em 6 meses, nota 8,3 e 92,2% das reclamações resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
     "metaDescription": "Skelt no Reclame Aqui: reputação Ótima em 6 meses (nota 8,3), 92,2% resolvidas e queixas sobre defeito e entrega. Veja os números e o que fazer (21/10/2026).",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
@@ -119726,7 +119726,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Como usar o cupom SKEMCASACOMCECILIA no site oficial da Skelt: 10% OFF, passo a passo na sacola, o que ele soma com o Pix e por que não vale no Mercado Livre. Testado na sacola em 21/10/2026.",
+    "description": "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site oficial da Skelt e soma com o Pix. Veja o passo a passo na sacola e por que ele não vale no Mercado Livre.",
     "metaDescription": "Onde colar o SKEMCASACOMCECILIA na sacola da Skelt e o que conferir no resumo: 10% OFF em todo o site, que soma com a promoção e com os 5% do Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
@@ -119960,7 +119960,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Skelt começa o esquenta da Black Friday em 5 de novembro, com uma live, e faz a Black Friday em 27 de novembro. Este guia traz os preços de autobronzeador de outubro para comparar, como o cupom SKEMCASACOMCECILIA soma com as promoções e com o Pix e as regras de frete e de brinde.",
+    "description": "A Skelt faz esquenta e Black Friday em novembro, e o percentual ainda não saiu. Veja os preços de autobronzeador de outubro e como o cupom SKEMCASACOMCECILIA soma com o Pix.",
     "metaDescription": "Black Friday Skelt 2026: esquenta a partir de 05/11 e Black Friday em 27/11. Preços de autobronzeador, cupom SKEMCASACOMCECILIA com 10% OFF e Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
@@ -120449,7 +120449,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Bagaggio no Reclame Aqui em 22/10/2026: reputação Boa nos últimos 6 meses e Ruim nos últimos 12. Veja a tabela por período, qual perfil olhar e o que fazer se o pedido der problema.",
+    "description": "A Bagaggio tem reputação Boa no Reclame Aqui nos últimos 6 meses, mas Ruim nos últimos 12. Veja qual perfil olhar e o que fazer se o seu pedido der problema.",
     "metaDescription": "Bagaggio no Reclame Aqui: Boa em 6 meses (nota 7,7), Ruim em 12 meses (nota 5,8). Tabela por período, qual perfil olhar e o que fazer se o pedido atrasar (22/10/2026).",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
@@ -120960,7 +120960,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Bagaggio já está no ar, com até 70% OFF e leve 3, pague 2. O que a loja mostra, os preços de outubro de malas e mochilas para comparar e como o cupom CECILIA10 e o Pix entram na conta.",
+    "description": "A Black Friday da Bagaggio já está no ar, com até 70% OFF e leve 3, pague 2. Veja os preços de outubro de malas e mochilas e como o CECILIA10 e o Pix entram na conta.",
     "metaDescription": "Black Friday Bagaggio 2026 já começou: até 70% OFF e leve 3, pague 2. Preços de outubro para comparar, cupom CECILIA10 com 10% OFF e Pix.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
@@ -121513,7 +121513,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Que móvel dar de presente de Natal: sofá modular, poltrona reclinável, poltrona de cinema e área de piscina. O que olhar em cada um, faixa de preço, o que a DAMIE oferece, o prazo de entrega e o cupom CECILIA12.",
+    "description": "Sofá modular, poltrona reclinável, poltrona de cinema ou área de piscina? Veja o que pesa em cada móvel, faixa de preço, prazo de entrega e o cupom CECILIA12 da DAMIE.",
     "metaDescription": "Presente de Natal para a casa: sofá, poltrona reclinável, cinema em casa e piscina, com faixa de preço, prazo de entrega, Black Friday e CECILIA12.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
@@ -122317,7 +122317,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os wheys de Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu comparados pelo preço por 100 g de proteína em 23/10/2026: custo-benefício, zero lactose, isolado, 3W, sabor e pote pequeno.",
+    "description": "Qual whey escolher para cada objetivo? Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu comparados pelo preço por 100 g de proteína, com a melhor opção para cada perfil.",
     "metaDescription": "Qual whey comprar: compare Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu pelo preço por 100 g de proteína, com os preços de 23/10/2026.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
@@ -123034,7 +123034,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Skelt ou Best Bronze? Mousse com cor-guia, transparente, kit com luva e formatos lado a lado, com o preço por 100 ml no cartão e com o cupom SKEMCASACOMCECILIA e o Pix, em 23/10/2026.",
+    "description": "Skelt ou Best Bronze? Mousse escuro, transparente e kit com luva lado a lado, com o preço por 100 ml no cartão, com o cupom SKEMCASACOMCECILIA e no Pix.",
     "metaDescription": "Skelt ou Best Bronze: compare o mousse escuro, o transparente e o kit com luva por preço por 100 ml, duração e tempo de ação que cada marca diz, com os preços de 23/10/2026.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
@@ -123364,7 +123364,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "As creatinas da Black Skull lado a lado: Creator, Creatine, Turbo e Caps, com porção, preço por 100 g de creatina e por dose em 23/10/2026. Qual pote compensa e o que a página declara sobre Creapure.",
+    "description": "Se você quer o menor preço por grama, o Creator refil de 500 g é a escolha na Black Skull. Veja as creatinas lado a lado e qual pote compensa pelo preço por dose.",
     "metaDescription": "Qual creatina da Black Skull comprar: Creator, Creatine ou Turbo, com o preço por 100 g de creatina, por dose e com o cupom CECILIA10, nos preços de 23/10/2026.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
@@ -124627,7 +124627,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os wheys da Black Skull lado a lado: 80% HD, 100% HD, 3W Core, Gourmet e Turbo, com dose, proteína por dose e preço por 100 g de proteína em 23/10/2026, mais os sabores com estoque e o cupom CECILIA10.",
+    "description": "Para pagar menos pela proteína, o Whey 80% HD Refil 900 g é o mais barato da Black Skull; para uso diário, vale o 100% HD. Veja a comparação por dose e preço por 100 g.",
     "metaDescription": "Qual whey da Black Skull comprar: compare 80% HD, 100% HD, 3W Core, Gourmet e Turbo pela proteína por dose e pelo preço por 100 g, com os preços do site.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
@@ -126374,7 +126374,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Creatina com sabor da Black Skull, da Max Titanium e da Probiótica: a creatina por dose no rótulo, o preço por 100 g de creatina e o carboidrato de cada pote, com os preços do site.",
+    "description": "Creatina com sabor da Black Skull, da Max Titanium e da Probiótica comparadas pelo rótulo: a creatina por dose, o preço por 100 g de creatina e o carboidrato de cada pote.",
     "metaDescription": "Creatina com sabor: Black Skull, Max Titanium e Probiótica pelo rótulo, com o preço por 100 g de creatina e o carboidrato de cada pote, nos preços de 25/10/2026.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
@@ -128834,7 +128834,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-26",
     "draft": false,
     "isNew": true,
-    "description": "Valley Modular, Inflow e DAMIE comparadas em como o sofá chega, garantia, teste em casa, devolução, prazo de produção, preço do 2 e do 3 lugares e Reclame Aqui, com dados de 25/10/2026.",
+    "description": "Valley Modular e Inflow vendem sofá de espuma a vácuo, e a DAMIE manda módulos de madeira. Compare garantia, teste em casa, devolução, prazo e preço para escolher.",
     "metaDescription": "Valley Modular é a Inflow? Não. Compare as duas com a DAMIE: como chega, garantia, devolução, prazo, preço e Reclame Aqui (25/10/2026).",
     "image": "/images/reviews/damie/valley-inflow-ou-damie-capa-discover.webp",
     "imageAlt": "Cecília sorrindo deitada no sofá modular azul da DAMIE, ao lado da foto oficial do modular 2 lugares cinza numa sala",
@@ -129518,7 +129518,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-26",
     "draft": false,
     "isNew": true,
-    "description": "Como saber se a Le Creuset é original pelo que a marca publica: o alerta contra falsas promoções, a origem e a garantia na ficha de cada peça, o localizador de revendedores autorizados e o outlet, lidos em 26/10/2026.",
+    "description": "A Le Creuset Brasil não publica guia de número de série ou selo para conferir a peça. Veja o que dá para checar pelo canal e pela nota fiscal, e onde comprar original.",
     "metaDescription": "Existe Le Creuset falsa? Veja o alerta da marca, a origem na ficha (France ou Tailândia), a garantia e onde comprar original (26/10/2026).",
     "image": "/images/reviews/letseatit/le-creuset-original-como-saber-capa-discover.webp",
     "imageAlt": "Panela Oval Signature vermelha da Le Creuset com a tampa gravada LE CREUSET, ao lado do título Le Creuset original: como saber e do logo da Let's Eat It",
@@ -130168,7 +130168,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-26",
     "draft": false,
     "isNew": true,
-    "description": "Como usar o cupom da Toda Up no site oficial: 10% OFF em todo o site, inclusive em promoção, o passo a passo no carrinho e o que ele somou com a Black Antecipada no teste de 26/10/2026.",
+    "description": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up, inclusive em produto em promoção. Veja o passo a passo no carrinho e o que ele somou com a Black Antecipada no teste.",
     "metaDescription": "Passo a passo para usar o cupom da Toda Up no carrinho: 10% OFF em todo o site, vale em produto em promoção e somou com a progressiva da Black Antecipada.",
     "image": "/images/reviews/toda-up/cupom-toda-up-capa-discover.webp",
     "imageAlt": "Modelo com o Sutiã Comfort Up rosa da Toda Up, com o logo da loja e o desconto de 10% do cupom da Cecília",
@@ -130368,7 +130368,7 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
-    "description": "A Toda Up já está em Black November, com todo o site em desconto. O que a loja mostra agora, a Black Antecipada de outubro com desconto progressivo de 12%, 15% e 20% pelo carrinho, o cupom da Toda Up somando no teste, três carrinhos de exemplo e os preços para comparar.",
+    "description": "A Toda Up já está em Black November, com todo o site em desconto e até 35% OFF. Veja os carrinhos de exemplo, os preços para comparar e como o cupom da loja entra na conta.",
     "metaDescription": "Black Friday Toda Up 2026 já começou: Black November com até 35% OFF e brinde acima de R$ 199. Cupom de 10%, três carrinhos e preços de outubro.",
     "image": "/images/reviews/toda-up/black-friday-toda-up-capa-discover.webp",
     "imageAlt": "Banner Black Friday antecipada da Toda Up com uma modelo de sutiã tomara que caia preto, com o logo da loja e o título Black Friday da Toda Up",
@@ -131291,7 +131291,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-27",
     "draft": false,
     "isNew": true,
-    "description": "Os dois hipercalóricos da Black Skull lado a lado: Masstodon Refil 3 kg e Monstrous 2,7 kg, com a porção do rótulo, a proteína e o carboidrato por 100 g, o preço por 100 g de proteína em 27/10/2026, os sabores com estoque e o cupom CECILIA10.",
+    "description": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: o Masstodon custa menos por 100 g de proteína, e o Monstrous tem mais proteína. Veja as contas lado a lado e o efeito do CECILIA10.",
     "metaDescription": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: as duas tabelas lado a lado, o preço por 100 g de proteína e por 1.000 kcal em 27/10/2026 e o cupom CECILIA10.",
     "image": "/images/reviews/black-skull/hipercalorico-black-skull-capa.webp",
     "imageAlt": "Embalagens do Masstodon Refil 3 kg e do Monstrous 2,7 kg da Black Skull, com o título Masstodon ou Monstrous",
@@ -133030,7 +133030,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-28",
     "draft": false,
     "isNew": true,
-    "description": "Bolinho kids da Belive para a lancheira: o rótulo do brigadeiro de 45 g comparado ao adulto de chocolate, os adoçantes da lista de ingredientes, os alergênicos, o preço por unidade e nos kits, e o Kit Lanche Escolar de 25, que não traz bolinho kids.",
+    "description": "O bolinho kids da Belive de 45 g para a lancheira, lido pelo rótulo: calorias, açúcares, adoçantes e alergênicos. Veja o preço por unidade e por que o kit de 25 não o traz.",
     "metaDescription": "Bolinho kids da Belive de 45 g: R$ 6,97 por unidade no cartão, 157 kcal e 0,5 g de açúcar total no rótulo. Comparado ao adulto e ao kit de 25, que não tem bolinho kids. Preços de 28/10/2026.",
     "image": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
     "imageAlt": "Pacote do bolinho kids de brigadeiro da Belive, com o título Bolinho kids",
@@ -133288,7 +133288,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-28",
     "draft": false,
     "isNew": true,
-    "description": "Guia do app da YesStyle: links oficiais, notas das lojas de aplicativo, o campo \"Influencer / Rewards Code\" onde o CECILIA010 entra, o que muda em relação ao site e o que checar se o app não funcionar.",
+    "description": "Sim, a YesStyle tem app para Android e iPhone. Veja onde o código de recompensa CECILIA010 entra no checkout do app, o que muda do site e o que checar se ele não funcionar.",
     "metaDescription": "A YesStyle tem app para Android e iPhone. Onde o código de recompensa CECILIA010 entra no checkout do app, o que muda do site e se entrega no Brasil.",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp",
     "imageAlt": "Lip mask Abib Glazed Jelly e a faixa com o logo da YesStyle, o app e o código de recompensa CECILIA010",
@@ -133493,7 +133493,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Guide to the YesStyle app: the official download links, store ratings, the \"Influencer / Rewards Code\" field where CECILIA010 goes, what differs from the website and what to check if the app doesn't work.",
+    "description": "Yes, YesStyle has an app for Android and iPhone. See where the CECILIA010 reward code goes at checkout, what differs from the website and what to check if the app doesn't work.",
     "metaDescription": "YesStyle has an app for Android and iPhone. Where the CECILIA010 reward code goes at checkout in the app and what differs from the website.",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp",
     "imageAlt": "Abib Glazed Jelly lip mask, with the YesStyle logo, the app and the reward code CECILIA010",
@@ -133689,7 +133689,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Guía de la app de YesStyle: enlaces oficiales, valoraciones en las tiendas de aplicaciones, el campo \"Influencer / Rewards Code\" donde entra el CECILIA010, qué cambia respecto a la web y qué revisar si la app no funciona.",
+    "description": "Sí, YesStyle tiene app para Android e iPhone. Mira dónde entra el código de recompensa CECILIA010 en el checkout, qué cambia respecto a la web y qué revisar si la app falla.",
     "metaDescription": "YesStyle tiene app para Android e iPhone. Dónde entra el código de recompensa CECILIA010 en el checkout de la app y qué cambia respecto a la web.",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp",
     "imageAlt": "Mascarilla de labios Abib Glazed Jelly, con el logo de YesStyle, la app y el código de recompensa CECILIA010",
@@ -133885,7 +133885,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Guide de l'appli YesStyle : liens officiels, notes sur les boutiques d'applications, le champ « Influencer / Rewards Code » où se saisit le CECILIA010, ce qui change par rapport au site et quoi vérifier si l'appli ne fonctionne pas.",
+    "description": "Oui, YesStyle a une appli pour Android et iPhone. Voyez où se saisit le code de récompense CECILIA010 à la commande, ce qui change par rapport au site et quoi vérifier.",
     "metaDescription": "YesStyle a une appli pour Android et iPhone. Où se saisit le code de récompense CECILIA010 à la validation de commande dans l'appli, et ce qui change par rapport au site.",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp",
     "imageAlt": "Masque à lèvres Abib Glazed Jelly, avec le logo YesStyle, l’application et le code de récompense CECILIA010",
@@ -134081,7 +134081,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Guida all'app di YesStyle: link ufficiali, valutazioni negli store di app, il campo \"Influencer / Rewards Code\" dove va il CECILIA010, cosa cambia rispetto al sito e cosa controllare se l'app non funziona.",
+    "description": "Sì, YesStyle ha un'app per Android e iPhone. Scopri dove va il codice ricompensa CECILIA010 al checkout dell'app, cosa cambia rispetto al sito e cosa controllare se non funziona.",
     "metaDescription": "YesStyle ha un'app per Android e iPhone. Dove va il codice ricompensa CECILIA010 al checkout dell'app e cosa cambia rispetto al sito.",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp",
     "imageAlt": "Maschera labbra Abib Glazed Jelly, con il logo YesStyle, l’app e il codice premio CECILIA010",
@@ -134277,7 +134277,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Leitfaden zur YesStyle-App: offizielle Links, Bewertungen in den App-Stores, das Feld „Influencer / Rewards Code“, in das der CECILIA010 gehört, was sich gegenüber der Website ändert und was Sie prüfen sollten, wenn die App nicht funktioniert.",
+    "description": "Ja, YesStyle hat eine App für Android und iPhone. Sie sehen, wo der Reward Code CECILIA010 im Checkout hingehört, was sich gegenüber der Website ändert und was Sie prüfen sollten.",
     "metaDescription": "YesStyle hat eine App für Android und iPhone. Wo der Reward Code CECILIA010 im Checkout der App eingegeben wird und was sich gegenüber der Website ändert.",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp",
     "imageAlt": "Lippenmaske Abib Glazed Jelly, mit dem YesStyle-Logo, der App und dem Reward Code CECILIA010",
@@ -135256,7 +135256,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-10-28",
     "draft": false,
     "isNew": true,
-    "description": "A seleção da Cecília na Mega Promoção 11.11 da SHEIN, que vai até 12/11/2026: 19 peças em 5 grupos (pijamas, infantil, feminino, acessórios e masculino), cada uma com o preço do dia, o riscado e o desconto, os tamanhos, a nota e o link direto para a peça na campanha. Preços lidos em 28/10/2026.",
+    "description": "A SHEIN anuncia até 85% off na Mega Promoção 11.11, e a Cecília escolheu 19 peças em 5 grupos, de pijamas a masculino. Veja os descontos, os tamanhos e o link de cada peça.",
     "metaDescription": "SHEIN 11.11 até 12/11/2026: 19 peças escolhidas pela Cecília, de pijama a camisa masculina, com preço, desconto e tamanhos de cada peça.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Colagem com peças da seleção 11.11 da SHEIN: pijama floral, conjunto infantil, cardigã, scarpin e camisa masculina, com a logo da SHEIN",
@@ -136156,7 +136156,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecília's selection from SHEIN's 11.11 Mega Sale, which runs until November 12, 2026: 19 pieces in 5 groups (pajamas, kids, women, accessories and men), each with its discount, rating and a direct link to the piece in the campaign. Discounts read on October 28, 2026.",
+    "description": "SHEIN advertises up to 85% off in the 11.11 Mega Sale, and Cecília picked 19 pieces in 5 groups, from pajamas to men's. See each piece's discount, rating and direct link.",
     "metaDescription": "SHEIN 11.11 until November 12, 2026: 19 pieces picked by Cecília, from pajamas to a men's shirt, with the discount and rating of each piece.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage of pieces from SHEIN's 11.11 selection: floral pajamas, a kids' set, a cardigan, pumps and a men's shirt, with the SHEIN logo",
@@ -137023,7 +137023,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "La selección de Cecília en la Mega Promoción 11.11 de SHEIN, que va hasta el 12/11/2026: 19 prendas en 5 grupos (pijamas, infantil, mujer, accesorios y hombre), cada una con su descuento, su nota y el enlace directo a la prenda en la campaña. Descuentos leídos el 28/10/2026.",
+    "description": "SHEIN anuncia hasta un 85 % de descuento en la Mega Promoción 11.11, y Cecília eligió 19 prendas en 5 grupos. Mira el descuento, la nota y el enlace de cada prenda.",
     "metaDescription": "SHEIN 11.11 hasta el 12/11/2026: 19 prendas elegidas por Cecília, de pijamas a camisa de hombre, con el descuento y la nota de cada prenda.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage con prendas de la selección 11.11 de SHEIN: pijama floral, conjunto infantil, cárdigan, zapatos de salón y camisa de hombre, con el logo de SHEIN",
@@ -137890,7 +137890,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "La sélection de Cecília dans la Méga Promotion 11.11 de SHEIN, qui court jusqu'au 12/11/2026 : 19 pièces en 5 groupes (pyjamas, enfant, femme, accessoires et homme), chacune avec sa remise, sa note et le lien direct vers la pièce dans la campagne. Remises relevées le 28/10/2026.",
+    "description": "SHEIN annonce jusqu'à 85 % de remise pendant la Méga Promotion 11.11, et Cecília a choisi 19 pièces en 5 groupes. Voyez la remise, la note et le lien de chaque pièce.",
     "metaDescription": "SHEIN 11.11 jusqu'au 12/11/2026 : 19 pièces choisies par Cecília, du pyjama à la chemise homme, avec la remise et la note de chaque pièce.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage de pièces de la sélection 11.11 de SHEIN : pyjama fleuri, ensemble enfant, cardigan, escarpin et chemise homme, avec le logo de SHEIN",
@@ -138757,7 +138757,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "La selezione di Cecília per la Mega Promozione 11.11 di SHEIN, in corso fino al 12/11/2026: 19 articoli in 5 gruppi (pigiami, bambini, donna, accessori e uomo), ognuno con lo sconto, la valutazione e il link diretto all'articolo nella campagna. Sconti letti il 28/10/2026.",
+    "description": "SHEIN annuncia fino all'85% di sconto nella Mega Promozione 11.11, e Cecília ha scelto 19 articoli in 5 gruppi. Scopri sconto, valutazione e link di ciascun articolo.",
     "metaDescription": "SHEIN 11.11 fino al 12/11/2026: 19 articoli scelti da Cecília, dal pigiama alla camicia da uomo, con sconto e valutazione di ciascuno.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage con articoli della selezione 11.11 di SHEIN: pigiama floreale, completo da bambina, cardigan, décolleté e camicia da uomo, con il logo di SHEIN",
@@ -139624,7 +139624,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
-    "description": "Cecílias Auswahl für die Mega-Aktion 11.11 von SHEIN, die bis zum 12.11.2026 läuft: 19 Teile in 5 Gruppen (Pyjamas, Kinder, Damen, Accessoires und Herren), jedes mit Rabatt, Bewertung und direktem Link zum Teil in der Aktion. Rabatte vom 28.10.2026.",
+    "description": "Die SHEIN wirbt in der Mega-Aktion 11.11 mit bis zu 85 % Rabatt, und Cecília hat 19 Teile in 5 Gruppen ausgewählt. Sehen Sie Rabatt, Bewertung und Link zu jedem Teil.",
     "metaDescription": "SHEIN 11.11 bis 12.11.2026: 19 Teile, von Cecília ausgewählt, vom Pyjama bis zum Herrenhemd, mit Rabatt und Bewertung jedes Teils.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Collage mit Teilen aus der 11.11-Auswahl von SHEIN: Blumenpyjama, Kinderset, Cardigan, Pumps und Herrenhemd, mit dem SHEIN-Logo",
@@ -143953,7 +143953,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Probiótica ou Integralmédica: creatina e whey comparados pelo preço por 100 g de creatina e de proteína, com o rótulo de cada uma, o cupom PRO10EMCASACOMCECILIA e a origem das duas marcas.",
+    "description": "A Integralmédica sai mais barata por 100 g de creatina e de proteína nos tamanhos comparados. Veja os rótulos, o efeito do cupom PRO10EMCASACOMCECILIA e qual escolher por perfil.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -144226,7 +144226,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Creatina da Probiótica em pote de 300 g, de 100 g, Creapure de 150 g e monodose: o que a tabela nutricional de cada versão diz, o preço por 100 g e por dose de 5 g, com os preços de 28/10/2026.",
+    "description": "O pote de 300 g é a creatina da Probiótica que mais compensa por grama e por dose. Veja quanto o de 100 g, a Creapure e a monodose custam a mais e qual escolher.",
     "metaDescription": "Creatina Probiótica: 300 g, 100 g, Creapure 150 g e monodose comparadas pela tabela nutricional e pelo preço por 100 g e por dose, nos preços de 28/10/2026.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
@@ -144474,7 +144474,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Creatina Monodose da Probiótica contra os potes de 300 g e de 100 g: a porção pelo rótulo, o preço por 100 g e por dose de 5 g, e quanto o sachê custa a mais, com os preços de 28/10/2026.",
+    "description": "Creatina Monodose da Probiótica ou pote de 300 g? O pote ganha: veja a porção pelo rótulo, o preço por 100 g e por dose de 5 g e quanto o sachê custa a mais.",
     "metaDescription": "Creatina Monodose da Probiótica ou pote: porção pelo rótulo, preço por 100 g e por dose de 5 g e quanto o sachê custa a mais, nos preços de 28/10/2026.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
@@ -144669,7 +144669,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os quatro potes de creatina da Max Titanium (100 g, 300 g, 500 g e Creapure 250 g) pelo rótulo e pelo preço por 100 g e por dose de 28/10/2026: qual compensa, em qual pote está o selo Creapure e quanto cada um dura.",
+    "description": "Qual dos quatro potes de creatina da Max Titanium compensa? A conta pelo preço por 100 g e por dose, onde está o selo Creapure e quanto cada pote dura.",
     "metaDescription": "Creatina Max Titanium: o pote de 100 g, 300 g, 500 g e a Creapure 250 g comparados pelo rótulo, com o preço por 100 g e por dose de 28/10/2026, o selo Creapure e o cupom MAX10EMCASACOMCECILIA.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
@@ -144868,7 +144868,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Hórus, Égide e Night Train da Max Titanium lado a lado: cafeína por dose, beta-alanina, taurina, dose e número de doses pela tabela do rótulo, e o preço por dose com e sem o cupom MAX10EMCASACOMCECILIA, pelo site oficial em 28/10/2026.",
+    "description": "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. Veja qual sai mais barato por dose e a opção sem cafeína, o Night Train, com o cupom.",
     "metaDescription": "Pré-treino Max Titanium: Hórus ou Égide? Compare cafeína por dose, dose e preço por dose pela tabela do rótulo, com o Night Train sem cafeína e o cupom MAX10EMCASACOMCECILIA, em 28/10/2026.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
@@ -145139,7 +145139,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Max Titanium ou Integralmédica: whey e creatina comparados pelo preço por 100 g de proteína e de creatina, com o rótulo de cada uma, os preços de 28/10/2026 e o cupom MAX10EMCASACOMCECILIA.",
+    "description": "No whey, a Max Titanium sai mais barata por 100 g de proteína, e na creatina a Integralmédica fica abaixo no cartão. Veja a comparação pelo rótulo e o veredito por perfil.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -145406,7 +145406,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "O Criador com IA da Hostinger, o antigo Horizons, serve para site ou app simples sem programar; quem quer plugins e controle fica no WordPress. Preços de 28/10/2026, com a renovação.",
+    "description": "O Criador com IA da Hostinger, o antigo Horizons, serve para site ou app simples sem programar. Veja quando ele vale a pena e quando o WordPress é a melhor escolha.",
     "metaDescription": "Hostinger Horizons virou o Criador com IA. Vale a pena ou WordPress? Quadro por tipo de projeto, comparação com Wix e Lovable, créditos de IA, preço e renovação em 28/10/2026.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
@@ -148104,7 +148104,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Domínio na Hostinger: os três caminhos (comprar ali, comprar fora e apontar, transferir), o preço de registro e de renovação do .com.br e do .com em 28/10/2026 e o que checar antes de pagar.",
+    "description": "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador. Veja os três caminhos, o preço de renovação e o que checar antes de pagar.",
     "metaDescription": "Comprar o domínio na Hostinger, registrar fora e apontar, ou transferir? Preço do .com.br e do .com com a renovação ao lado, regra dos 60 dias, quem é o dono e a checklist antes de pagar.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
@@ -151129,7 +151129,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Un site ordinaire se porte bien sur un hébergement mutualisé ; un VPS seulement avec un système propre, des ressources réservées ou l'accès root. Tableau par scénario et specs des KVM.",
+    "description": "Un hébergement mutualisé suffit pour un site ordinaire ; le VPS ne se justifie qu'avec un système propre, des ressources réservées ou l'accès root. Voyez le tableau par scénario.",
     "metaDescription": "VPS ou hébergement mutualisé chez Hostinger : ce qu'est chacun, tableau par scénario, specs des KVM 1 à 8 et ce qui reste à votre charge en maintenance.",
     "publishedAt": "28 octobre 2026",
     "publishedAtISO": "2026-10-28",
@@ -152829,7 +152829,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A nota da YesStyle na Trustpilot em 28/10/2026: TrustScore 4,4 em 104.552 avaliações, 71% de cinco estrelas, as queixas concentradas na entrega internacional e por que a nota não diz nada sobre o seu país.",
+    "description": "A YesStyle tem nota 4,4 na Trustpilot, com mais de 104 mil avaliações e 71% de cinco estrelas. Veja as queixas de entrega e por que a nota global não diz nada sobre o seu país.",
     "metaDescription": "YesStyle na Trustpilot em 28/10/2026: nota 4,4 em 104 mil avaliações, 71% de cinco estrelas, queixas de entrega e rastreio. Veja o que a nota não mostra.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
@@ -153019,7 +153019,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle's Trustpilot score on October 28, 2026: TrustScore 4.4 from 104,552 reviews, 71% five-star, complaints concentrated on international delivery, and why the score says nothing about your own country.",
+    "description": "YesStyle scores 4.4 on Trustpilot, with over 104,000 reviews and 71% five-star. See the delivery complaints and why a global score says nothing about your own country.",
     "metaDescription": "YesStyle on Trustpilot on October 28, 2026: 4.4 from 104,000 reviews, 71% five-star, delivery and tracking complaints. See what the score doesn't show.",
     "publishedAt": "October 29, 2026",
     "publishedAtISO": "2026-10-29",
@@ -153209,7 +153209,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "La calificación de YesStyle en Trustpilot el 28 de octubre de 2026: TrustScore 4,4 con 104.552 opiniones, 71 % de cinco estrellas, quejas concentradas en el envío internacional y por qué la nota no dice nada sobre tu país.",
+    "description": "YesStyle tiene un 4,4 en Trustpilot, con más de 104 mil opiniones y 71 % de cinco estrellas. Mira las quejas de envío y por qué la nota global no dice nada sobre tu país.",
     "metaDescription": "YesStyle en Trustpilot el 28 de octubre de 2026: 4,4 con 104 mil opiniones, 71 % de cinco estrellas, quejas de envío y seguimiento. Mira lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
@@ -153399,7 +153399,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "La note de YesStyle sur Trustpilot le 28 octobre 2026 : TrustScore de 4,4 sur 104 552 avis, 71 % de cinq étoiles, des plaintes concentrées sur la livraison internationale et pourquoi la note ne dit rien sur votre pays.",
+    "description": "YesStyle a une note de 4,4 sur Trustpilot, avec plus de 104 000 avis et 71 % de cinq étoiles. Voyez les plaintes de livraison et pourquoi la note ne dit rien sur votre pays.",
     "metaDescription": "YesStyle sur Trustpilot le 28 octobre 2026 : note de 4,4 sur 104 000 avis, 71 % de cinq étoiles, plaintes de livraison et de suivi. Voyez ce que la note ne montre pas.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -153589,7 +153589,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Il punteggio di YesStyle su Trustpilot al 28 ottobre 2026: TrustScore 4,4 su 104.552 recensioni, 71% di cinque stelle, reclami concentrati sulla consegna internazionale e perché il punteggio non dice nulla sul tuo paese.",
+    "description": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i reclami sulla consegna e perché il punteggio non dice nulla sul tuo paese.",
     "metaDescription": "YesStyle su Trustpilot al 28 ottobre 2026: punteggio 4,4 su 104 mila recensioni, 71% di cinque stelle, reclami su consegna e tracking. Scopri cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -153779,7 +153779,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Die Bewertung von YesStyle auf Trustpilot am 28. Oktober 2026: TrustScore 4,4 bei 104.552 Bewertungen, 71 % Fünf-Sterne, Beschwerden vor allem zur internationalen Lieferung, und warum die Note nichts über Ihr Land aussagt.",
+    "description": "YesStyle hat auf Trustpilot eine Note von 4,4 bei über 104.000 Bewertungen und 71 % Fünf-Sterne. Hier die Beschwerden zur Lieferung und warum die Note nichts über Ihr Land aussagt.",
     "metaDescription": "YesStyle auf Trustpilot am 28. Oktober 2026: Note 4,4 bei 104.000 Bewertungen, 71 % Fünf-Sterne, Beschwerden zu Lieferung und Sendungsverfolgung. Was die Note nicht zeigt.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
@@ -154896,7 +154896,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN's Trustpilot score on October 28, 2026: a TrustScore of 3.8 from 353,435 reviews, 59% five stars and 18% one star, complaints about packages that never arrived and about refunds, and why a global score says nothing about your country.",
+    "description": "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. See what over 350,000 reviews show, the complaints about packages and refunds, and why the score is global.",
     "metaDescription": "SHEIN on Trustpilot on October 28, 2026: TrustScore 3.8 from 353,435 reviews, 59% five stars and 18% one star, complaints about delivery and refunds. See what the score does not show.",
     "publishedAt": "October 29, 2026",
     "publishedAtISO": "2026-10-29",
@@ -155075,7 +155075,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "La calificación de SHEIN en Trustpilot el 28 de octubre de 2026: TrustScore 3,8 con 353.435 opiniones, 59 % de cinco estrellas y 18 % de una, las quejas por paquetes que no llegan y por reembolsos, y por qué una calificación global no dice nada de tu país.",
+    "description": "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Mira qué muestran más de 350.000 opiniones, las quejas por paquetes y reembolsos, y por qué la calificación es global.",
     "metaDescription": "SHEIN en Trustpilot el 28 de octubre de 2026: calificación 3,8 con 353.435 opiniones, 59 % de cinco estrellas y 18 % de una, quejas por entregas y reembolsos. Lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
@@ -155254,7 +155254,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "La note de SHEIN sur Trustpilot le 28 octobre 2026 : TrustScore de 3,8 pour 353 435 avis, 59 % de cinq étoiles et 18 % d’une, les plaintes sur les colis jamais reçus et sur les remboursements, et pourquoi une note mondiale ne dit rien de votre pays.",
+    "description": "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Voyez ce que montrent plus de 350 000 avis, les plaintes sur colis et remboursements, et pourquoi la note est mondiale.",
     "metaDescription": "SHEIN sur Trustpilot le 28 octobre 2026 : TrustScore de 3,8 pour 353 435 avis, 59 % de cinq étoiles et 18 % d’une, plaintes sur la livraison et les remboursements. Ce que la note ne montre pas.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -155433,7 +155433,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Il punteggio di SHEIN su Trustpilot al 28 ottobre 2026: TrustScore 3,8 su 353.435 recensioni, 59% di cinque stelle e 18% di una, i reclami su pacchi non consegnati e rimborsi, e perché un punteggio globale non dice nulla sul tuo paese.",
+    "description": "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Guarda cosa mostrano oltre 350.000 recensioni, i reclami su pacchi e rimborsi e perché il punteggio è globale.",
     "metaDescription": "SHEIN su Trustpilot al 28 ottobre 2026: 3,8 su 353.435 recensioni, 59% di cinque stelle, 18% di una. Reclami su consegne e rimborsi, e cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -155612,7 +155612,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Die Trustpilot-Bewertung von SHEIN am 28. Oktober 2026: TrustScore 3,8 aus 353.435 Bewertungen, 59 % mit fünf Sternen und 18 % mit einem, Beschwerden über nicht zugestellte Pakete und Erstattungen, und warum eine globale Zahl nichts über Ihr Land sagt.",
+    "description": "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Sehen Sie, was über 350.000 Bewertungen zeigen, die Beschwerden über Pakete und Erstattungen und warum die Zahl global ist.",
     "metaDescription": "SHEIN auf Trustpilot am 28. Oktober 2026: 3,8 aus 353.435 Bewertungen, 59 % fünf Sterne, 18 % ein Stern. Beschwerden über Zustellung und Erstattungen und was die Zahl nicht zeigt.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
@@ -157503,7 +157503,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Body Splash Solar Muse da Skelt pela ficha da loja: 100 ml, as notas de topo, meio e fundo, o modo de uso e a conta dos oito conjuntos que o levam contra os avulsos, em 29/10/2026.",
+    "description": "O Body Splash Solar Muse da Skelt pela ficha da loja: frasco de 100 ml, notas, modo de uso e a conta dos oito kits que o levam contra os avulsos, para saber se o conjunto compensa.",
     "metaDescription": "Body Splash Skelt Solar Muse: 100 ml por R$ 99,90, as notas que a loja publica e os oito kits com o Solar comparados aos avulsos, com o cupom SKEMCASACOMCECILIA, em 29/10/2026.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
@@ -157717,7 +157717,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Body Splash Milos Breeze da Skelt pela ficha da loja: notas, a diferença para o Grand Bahama e a conta do frasco avulso, do Trio Exotic Trip e do kit de miniaturas, em 29/10/2026.",
+    "description": "O Body Splash Milos Breeze da Skelt pela ficha da loja: as notas, a diferença para o Grand Bahama e a conta do frasco avulso, do Trio Exotic Trip e do kit de miniaturas.",
     "metaDescription": "Skelt Milos Breeze: notas de água de coco, frangipani e cedro, R$ 99,90 por 100 ml, o Trio Exotic Trip a R$ 297,70 e o kit de miniaturas, com o cupom SKEMCASACOMCECILIA.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
@@ -157890,7 +157890,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Faqueiro Laguiole La Maison Luxo de 12, 18 ou 30 peças: o que vem em cada um, as cores com estoque e o preço de cada cor na Let's Eat It, de R$ 469,00 a R$ 1.099,00, e o que a ficha não diz.",
+    "description": "Faqueiro Laguiole La Maison de 12, 18 ou 30 peças: o que vem em cada um, as cores com estoque e o preço de cada cor na Let's Eat It, para escolher o conjunto certo para a sua mesa.",
     "metaDescription": "Faqueiro Laguiole La Maison de 12, 18 ou 30 peças: o que vem em cada um, cores com estoque e preço por cor. Preços de 29/10/2026.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
@@ -158124,7 +158124,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mesa posta do dia a dia para 2 e 4 pessoas, na ordem de compra: guardanapo e jogo americano de tecido, depois faqueiro e pratos, com o preço de cada peça e duas faixas, de R$ 414,80 a R$ 849,20.",
+    "description": "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido, depois os talheres e por último os pratos. Veja o preço de cada peça para 2 e 4 pessoas.",
     "metaDescription": "Mesa posta do dia a dia: o que comprar primeiro (tecido, talheres e pratos) e quanto custa para 2 e 4 pessoas. Preços de 29/10/2026.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
@@ -158908,7 +158908,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Em 30/10/2026, por 24 horas, a Skelt dá o Trends Set em compras acima de R$ 219 e também o Body Cream Unexpected Day acima de R$ 249, só com o cupom SKEMCASACOMCECILIA. Veja como montar o pedido com folga.",
+    "description": "Por 24 horas, a Skelt dá o Trends Set e o Body Cream Unexpected Day de brinde, só com o cupom SKEMCASACOMCECILIA. Veja as faixas de valor e como montar o pedido com folga.",
     "metaDescription": "Brinde Skelt em 30/10: Trends Set acima de R$ 219 e Body Cream Unexpected Day acima de R$ 249, só com o cupom SKEMCASACOMCECILIA. Veja como montar o pedido.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
@@ -159400,7 +159400,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Reach is worth it for anyone with a Hostinger site and a list of up to 1,000 recipients; bigger lists go to Mailchimp or Brevo. Global prices in US dollars on October 30, 2026, with renewal.",
+    "description": "Reach is worth it if you already have a Hostinger site and a list of up to 1,000 recipients; bigger lists fit Mailchimp or Brevo better. See how it compares with their free plans.",
     "metaDescription": "Is Hostinger Reach worth it? Chart by profile, plans, sending limits, WhatsApp and renewal in US dollars on October 30, 2026, compared with the free plans of Mailchimp and Brevo.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
@@ -159655,7 +159655,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Reach compensa a quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios; las listas más grandes van a Mailchimp o Brevo. Precios globales en dólares del 30 de octubre de 2026, con la renovación.",
+    "description": "Reach compensa a quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios; con listas mayores, mejor Mailchimp o Brevo. Compáralo con sus planes gratuitos.",
     "metaDescription": "¿Vale la pena Hostinger Reach? Cuadro por perfil, planes, límites de envío, WhatsApp y renovación en dólares el 30 de octubre de 2026, frente a los planes gratis de Mailchimp y Brevo.",
     "publishedAt": "30 de octubre de 2026",
     "publishedAtISO": "2026-10-30",
@@ -159910,7 +159910,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires ; les listes plus grandes vont vers Mailchimp ou Brevo. Prix mondiaux en dollars américains au 30 octobre 2026, avec le renouvellement.",
+    "description": "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste de 1 000 contacts au plus ; au-delà, mieux vaut Mailchimp ou Brevo. Comparez avec leurs forfaits gratuits.",
     "metaDescription": "Hostinger Reach vaut-il le coup ? Tableau par profil, forfaits, limites d'envoi, WhatsApp et renouvellement en dollars américains au 30 octobre 2026, face aux forfaits gratuits de Mailchimp et de Brevo.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
@@ -160166,7 +160166,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Reach conviene a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari; le liste più grandi vanno su Mailchimp o Brevo. Prezzi globali in dollari del 30 ottobre 2026, con il rinnovo.",
+    "description": "Reach conviene a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari; per liste più grandi meglio Mailchimp o Brevo. Qui il confronto con i loro piani gratuiti.",
     "metaDescription": "Conviene Hostinger Reach? Quadro per profilo, piani, limiti di invio, WhatsApp e rinnovo in dollari al 30 ottobre 2026, a confronto con i piani gratuiti di Mailchimp e Brevo.",
     "publishedAt": "30 ottobre 2026",
     "publishedAtISO": "2026-10-30",
@@ -160424,7 +160424,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Reach lohnt sich für alle, die schon eine Hostinger-Website und eine Liste mit bis zu 1.000 Empfängern haben; größere Listen gehören zu Mailchimp oder Brevo. Globale Preise in US-Dollar vom 30. Oktober 2026, mit Verlängerung.",
+    "description": "Reach lohnt sich bei Hostinger-Website und bis zu 1.000 Empfängern; bei größeren Listen passen Mailchimp oder Brevo besser. Dazu der Vergleich mit deren kostenlosen Tarifen.",
     "metaDescription": "Lohnt sich Hostinger Reach? Tabelle nach Profil, Tarife, Versandlimits, WhatsApp und Verlängerung in US-Dollar am 30. Oktober 2026, im Vergleich mit den kostenlosen Tarifen von Mailchimp und Brevo.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
@@ -162535,7 +162535,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Comment choisir un hébergeur selon le renouvellement, le cycle, l'emplacement du serveur et le VPS. Prix internationaux de Hostinger en dollars, avec renouvellement, au 30 octobre 2026.",
+    "description": "Pour choisir un hébergeur, comparez le prix par mois avec le renouvellement à côté. Premium est le moins cher au renouvellement, Unlimited convient aux nombreux sites.",
     "metaDescription": "Choisir un hébergeur web : renouvellement, cycle de 48 mois, emplacement du serveur et VPS. Prix du site international de Hostinger en dollars au 30 octobre 2026, avec le renouvellement à côté.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
@@ -164895,7 +164895,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Quel forfait WordPress de Hostinger choisir pour un site, trois sites, plusieurs sites ou une boutique, et comment commencer. Prix en dollars au 30 octobre 2026, avec le renouvellement.",
+    "description": "Premium, Unlimited ou Cloud Startup : quel forfait WordPress de Hostinger choisir selon le nombre de sites, la sauvegarde et le renouvellement, et comment bien démarrer.",
     "metaDescription": "WordPress chez Hostinger : Premium, Unlimited ou Cloud Startup ? Forfait par projet, prix et renouvellement au 30 octobre 2026, et une liste pour commencer.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
@@ -170870,7 +170870,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "How to choose a party dress on SHEIN for graduation, as a wedding guest and for the end-of-year holidays: occasion, fabric, size and timing, with three dresses checked in the store.",
+    "description": "A party dress on SHEIN comes down to the occasion, the fabric and the arrival date. For Christmas and New Year's Eve, timing beats style. Plus three dresses checked in the store.",
     "metaDescription": "SHEIN party dress: occasion, fabric, size and timing for Christmas and graduation, with three dresses from the store read on each product page.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
@@ -171596,7 +171596,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Comment choisir une robe de soirée sur SHEIN pour une remise de diplôme, un mariage en tant qu'invitée et les fêtes de fin d'année : occasion, tissu, taille et délai, avec trois robes passées en revue dans la boutique.",
+    "description": "Une robe de soirée SHEIN se choisit selon l'occasion, le tissu et la date d'arrivée. Pour Noël et le réveillon, le délai compte plus que le modèle. Trois robes à la loupe.",
     "metaDescription": "Robe de soirée SHEIN : occasion, tissu, taille et délai pour Noël et la remise de diplôme, avec trois robes de la boutique lues sur la page de chaque produit.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
@@ -171959,7 +171959,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "So wählen Sie ein Partykleid bei SHEIN für den Abschluss, als Hochzeitsgast und für die Feiertage zum Jahresende: Anlass, Stoff, Größe und Lieferzeit, mit drei im Shop geprüften Kleidern.",
+    "description": "Ein Partykleid bei SHEIN wählt man nach Anlass, Stoff und Ankunftsdatum. Für Weihnachten und Silvester zählt die Lieferzeit mehr als das Modell. Dazu drei Kleider im Check.",
     "metaDescription": "SHEIN-Partykleid: Anlass, Stoff, Größe und Lieferzeit für Weihnachten und Abschlussfeier, mit drei Kleidern aus dem Shop, gelesen auf der Seite jedes Produkts.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
@@ -175067,7 +175067,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "As cinco peças masculinas do Outlet da Insider, em dois grupos: quanto cada camiseta Tech T-Shirt, a regata e o short saem com o cupom EMCASACOMCECILIA, as cores e os tamanhos que sobraram, como usar cada peça e quando o kit compensa mais.",
+    "description": "O Outlet masculino da Insider vale a pena? As cinco peças com 40% ou mais de desconto, o preço com o cupom EMCASACOMCECILIA, o que sobrou de cor e tamanho e quando o kit compensa.",
     "metaDescription": "Outlet Insider masculino vale a pena? Preço com o cupom EMCASACOMCECILIA em cada Tech T-Shirt, regata e short à venda, cores e tamanhos que sobraram e a comparação com o kit.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
@@ -175428,7 +175428,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Mochila de viagem Bagaggio: Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale com preço de cartão de 31/10/2026, medida e litros da loja, cruzados com o item pessoal e a mala pequena de LATAM, Azul e GOL.",
+    "description": "Qual mochila de viagem Bagaggio cabe como item pessoal e qual só entra como mala pequena? Cinco modelos cruzados com as regras de LATAM, Azul e GOL, com preço e medidas.",
     "metaDescription": "Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale com preço de 31/10/2026, medida e litros da loja, e qual cabe como item pessoal ou mala pequena na LATAM, na Azul e na GOL.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
@@ -177393,7 +177393,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Probiótica é boa? O que o rótulo diz do 100% Pure Whey, do Zero Lactose, do Hiper e do Iso Pro, da creatina e do hipercalórico, quanto custa com o cupom PRO10EMCASACOMCECILIA e para quem compensa.",
+    "description": "A Probiótica é boa? Sim, pelo rótulo: veja o que o whey, a creatina e o hipercalórico entregam, quanto custam com o cupom PRO10EMCASACOMCECILIA e para quem a marca compensa.",
     "metaDescription": "Probiótica é boa? Whey, zero lactose e creatina pelo rótulo, preço por 100 g de proteína e o cupom de até 10%: para quem a marca compensa.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",

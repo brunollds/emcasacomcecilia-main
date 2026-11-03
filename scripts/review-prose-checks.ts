@@ -7,6 +7,9 @@ import type { BodyDatesReason, ContentSection } from '../src/lib/content/types';
 export const BODY_DATES_REASONS = ['campanha', 'prazo-entrega', 'reclame-aqui'] as const satisfies readonly BodyDatesReason[];
 export const MAX_BODY_DATES = 2;
 export const MAX_BODY_DATES_WITH_REASON = 8;
+// O subtítulo (description) sai embaixo do título, no JSON-LD, no llms.txt e no começo do "Ouvir": uma ou duas
+// frases, não o sumário do artigo. Vale para todos os idiomas.
+export const MAX_DESCRIPTION_LENGTH = 180;
 
 const MONTHS = 'janeiro|fevereiro|março|abril|maio|junho|julho|agosto|setembro|outubro|novembro|dezembro';
 // 26/10, 26/10/2026, 5 de outubro (de 2026), 1º de novembro e outubro de 2026. O mês numérico tem dois
