@@ -54821,6 +54821,22 @@ export const reviewsData: unknown[] = [
           "Nas bebidas, a campanha funciona por oferta do dia: na que lemos, a caixa de Mochaccino caía de R$ 25,90 para R$ 15,90. Fora dela, os banners traziam 25% OFF nos cafés Lungos NEO, até 25% OFF em acessórios, frete grátis acima de R$ 100 e uma Mini Me vermelha de brinde na compra de 80 caixas de bebidas.",
           "A assinatura entrou na campanha com desconto em todas as bebidas no primeiro pedido, 35% OFF num banner e 30% OFF noutro, com \"benefícios garantidos até janeiro\", e frete grátis em todos os pedidos. A conta vale para quem toma café todo dia; o desconto maior é só na primeira entrega.",
           "Pelo regulamento do site, as ofertas diárias valem só no site oficial, enquanto durarem os estoques, e não são cumulativas com combo com máquinas, combo de bebidas e resgate de pontos. Essa é a regra da oferta; a do cupom está no capítulo do CECI."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-genio-s.webp",
+            "alt": "Banner da Black Friday da Dolce Gusto com a Genio S Basic branca de R$ 679,90 por R$ 409,90 e a Genio S Plus vermelha de R$ 779,90 por R$ 499,90, as duas com mais 30 cápsulas grátis",
+            "caption": "A Genio S Basic e a Genio S Plus no banner da Black Friday da home da Dolce Gusto.",
+            "objectFit": "contain",
+            "aspectRatio": 1.8412
+          },
+          {
+            "src": "/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-mini-me.webp",
+            "alt": "Banner Máquinas com preço de Black da Dolce Gusto com a Mini Me 2.0 de R$ 599,90 por R$ 369,90 e mais 30 cápsulas grátis",
+            "caption": "A Mini Me 2.0 no banner Máquinas com preço de Black, na home da Dolce Gusto.",
+            "objectFit": "contain",
+            "aspectRatio": 2.5
+          }
         ]
       },
       {
@@ -55103,7 +55119,14 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O CECILIA12 vale nessas condições do mesmo jeito: soma com o preço de campanha e com o Pix, e não soma com outro cupom nem com o giftback. Confira no carrinho o desconto e os brindes do seu pedido antes de pagar."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/damie/black-friday-damie-banner-esquenta.webp",
+          "alt": "Banner da DAMIE: sua poltrona com 3 presentes e frete grátis, R$ 1.150,00 de economia na compra de qualquer poltrona, com carregador USB, massagem e porta-copos grátis",
+          "caption": "Os três presentes e o frete grátis da poltrona, no banner da home da DAMIE.",
+          "objectFit": "contain",
+          "aspectRatio": 2.974
+        }
       },
       {
         "heading": "Preços de outubro para comparar",
@@ -55333,7 +55356,7 @@ export const reviewsData: unknown[] = [
     "id": 332,
     "slug": "black-friday-letseatit",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Let's Eat It 2026: já começou, com Porto Brasil até 60% OFF, La Maison até 70% e a Le Creuset para comparar",
+    "title": "Black Friday Let's Eat It 2026: já começou, com Le Creuset até 40% OFF, Porto Brasil até 60% e La Maison até 70%",
     "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e Porto Brasil",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -55345,8 +55368,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70% e peças de Natal de 20% a 60%. A Le Creuset sem desconto lido, os preços de outubro para comparar, como Pix, cashback e cupom MAUAD se somam e até quando pedir para chegar antes do Natal.",
-    "metaDescription": "Black Friday Let's Eat It 2026 já começou: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%. Le Creuset sem desconto lido, Pix e cupom.",
+    "description": "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70% e peças de Natal de 20% a 60%. A Le Creuset de 15% a 40% OFF, os preços de outubro para comparar, como Pix, cashback e cupom MAUAD se somam e até quando pedir para chegar antes do Natal.",
+    "metaDescription": "Black Friday Let's Eat It 2026 já começou: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%. Le Creuset de 15% a 40%, Pix e cupom.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
     "updatedAt": "2026-11-03",
@@ -55363,7 +55386,7 @@ export const reviewsData: unknown[] = [
       "30 dias para trocar ou devolver, com etiqueta paga pela loja"
     ],
     "cons": [
-      "Na Black Friday, não lemos nenhuma Le Creuset com desconto; em outubro, quase toda a marca estava pelo preço cheio",
+      "O desconto da Le Creuset fica só nas peças e cores da coleção de promoção; fora dela, o preço é o cheio",
       "Não há frete grátis na compra",
       "O cashback só vale numa compra de 7 vezes o valor do cupom",
       "Os prazos de entrega podem mudar em períodos promocionais"
@@ -55372,28 +55395,37 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
         "paragraphs": [
-          "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%; o dia da Black Friday é 27 de novembro. Na Le Creuset, não lemos nenhuma peça com desconto. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
+          "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%; o dia da Black Friday é 27 de novembro. A Le Creuset tem coleção de promoção, de 15% a 40% OFF, a maioria das panelas com 25%. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
         ]
       },
       {
         "heading": "A Let's Eat It tem Black Friday?",
         "paragraphs": [
-          "Tem, e já começou. A home traz a coleção \"Best Sellers - Black Friday\" e anuncia a La Maison com até 70% OFF, a Porto Brasil com até 60% OFF e as peças de Natal de 20% a 60% de desconto, mais 15% de cashback e 5% no Pix. A loja não publica até quando a campanha vale.",
+          "Tem, e já começou. A home traz a coleção \"Best Sellers - Black Friday\" e anuncia a La Maison com até 70% OFF, a Linha Sintonia, de taças e copos, também com até 70%, a Porto Brasil com até 60% OFF, as peças de Natal de 20% a 60% de desconto e a Le Creuset Colorful, com \"descontos imperdíveis\", mais 15% de cashback e 5% no Pix. A loja não publica até quando a campanha vale.",
           "O \"até\" é o teto de cada marca: o desconto da peça é o que a página dela mostra. Em outubro, antes da campanha, a loja já oferecia a coleção Natal Let's com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado. Ou seja, o selo da Porto Brasil é o mesmo de outubro, e só o preço do dia diz se há desconto novo. As tabelas abaixo são a régua.",
           "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia."
         ],
-        "image": {
-          "src": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
-          "alt": "Página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF",
-          "caption": "A página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/black-friday-letseatit-banner-sintonia.webp",
+            "alt": "Banner Black Friday Linha Sintonia da Let's Eat It, com taças de vidro de base esférica e o selo até 70% OFF",
+            "caption": "A Linha Sintonia no banner da Black Friday da home da Let's Eat It.",
+            "objectFit": "contain",
+            "aspectRatio": 3.6036
+          },
+          {
+            "src": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
+            "alt": "Página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF",
+            "caption": "A página inicial da Let's Eat It com o banner Natal Let's e as faixas de cashback de 30% e de Porto Brasil com até 60% OFF.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
       },
       {
         "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
         "paragraphs": [
-          "Na Black Friday, a Le Creuset aparece só no menu da coleção Best Sellers - Black Friday: na leitura da campanha, não encontramos nenhuma peça da marca com desconto. Quem procura \"black friday le creuset\" na Let's Eat It compara, por enquanto, com o preço cheio.",
+          "Na Black Friday, a Le Creuset tem coleção própria de promoção, anunciada na home com o banner Le Creuset Colorful. A coleção Promoção Le Creuset lista 146 peças; nas 47 primeiras que lemos, o desconto ia de 15% a 40%, quase sempre 25%. A panela Redonda Signature de 20 cm, a R$ 2.329 pelo preço cheio, estava por R$ 1.746,75 com 25% OFF, e na cor Cool Mint, por R$ 1.513,85, com 35%.",
           "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas. É essa a tabela de referência."
         ],
         "image": {
@@ -55522,7 +55554,7 @@ export const reviewsData: unknown[] = [
           "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
           "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita agora gera um cashback que ainda vale na sexta da Black Friday.",
           "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
-          "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 2.329, o MAUAD tira R$ 116,45, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 2.101,92, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
+          "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 1.746,75 com os 25% da promoção, o MAUAD tira R$ 87,34, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 1.576,44, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
           "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
           "**Frete:** não há frete grátis na compra. Ele é calculado pelo CEP e pelo peso do pedido."
         ],
@@ -55607,12 +55639,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
-          "Le Creuset fica mais barata na Black Friday? Na leitura da campanha, nenhuma Le Creuset da Let's Eat It estava com desconto. Em outubro, quase toda a marca estava pelo preço cheio, como a panela Redonda Signature de 20 cm a R$ 2.329: se o preço ficar abaixo disso, o desconto é de verdade.",
-          "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, não lemos nenhuma.",
+          "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Le Creuset de 15% a 40% OFF, Porto Brasil até 60%, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
+          "Le Creuset fica mais barata na Black Friday? Fica. A coleção Promoção Le Creuset traz peças de 15% a 40% OFF, a maioria com 25%. A panela Redonda Signature de 20 cm, que em outubro estava a R$ 2.329, o preço cheio, aparece por R$ 1.746,75.",
+          "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, a coleção de promoção vai de 15% a 40%, e a maioria das panelas Signature tem 25%.",
           "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O envio da devolução é que sai por conta da loja.",
           "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
-          "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, de R$ 2.329 em outubro, sai por R$ 2.101,92, sem o frete.",
+          "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
           "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom vale 30 dias: uma compra feita até 30 dias antes da sexta gera um cupom que ainda vale nela, desde que a nova compra seja de pelo menos 7 vezes o valor do cupom.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
           "Até quando comprar para chegar antes do Natal? Pela nossa conta com o prazo mais longo da loja e um dia útil de folga, a data limite vai de meados de dezembro em São Paulo capital ao começo de dezembro no Norte e no Nordeste; a tabela do guia traz cada região."
@@ -80472,8 +80504,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O **Max November** de 2026 vai de 1º a 30 de novembro, o mês inteiro, e a home da Max Titanium já traz o banner de Black Friday. A sexta-feira do calendário é 27 de novembro, e a Cyber Monday, 30 de novembro; na loja, a campanha é o mês todo, não só a sexta.",
           "O que a home anuncia: cashback de até 16%; roupas e acessórios com 50% OFF; o \"Comprou ganhou\", com brindes Znack That por faixa de valor do pedido, até 3 brindes; e Pix e boleto com 5% OFF.",
-          "A loja não publicou as regras completas do Max November, como as faixas do cashback e o valor de pedido de cada brinde. Confira a página da campanha antes de fechar o carrinho, e compare o preço do dia com a tabela de outubro, abaixo."
-        ]
+          "Os banners da home trazem duas regras: o cashback de até 16% vale em compras acima de R$ 150, em dobro para todos os níveis do Elite Member, e quem compra acima de R$ 199,90 ganha um par de meias exclusivo, por tempo limitado. A loja não publicou as faixas do cashback abaixo dos 16% nem o valor de pedido de cada brinde Znack That. Confira a página da campanha antes de fechar o carrinho, e compare o preço do dia com a tabela de outubro, abaixo."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp",
+          "alt": "Banner da Promoção Max November da Max Titanium: em compras acima de R$ 199,90, ganhe um par de meias exclusivo, por tempo limitado",
+          "caption": "O brinde de meias da Promoção Max November, no banner da home da Max Titanium.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
       },
       {
         "heading": "Preços de outubro: whey e creatina para comparar",
@@ -80658,7 +80697,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa de valor e 5% no Pix e no boleto.",
+          "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16% acima de R$ 150, um par de meias de brinde acima de R$ 199,90, roupas e acessórios com 50% OFF, brindes por faixa de valor e 5% no Pix e no boleto.",
           "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Num produto com preço do Max November ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
           "O cupom vale com produto em promoção? Sim. No teste no carrinho, o cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
           "O cupom soma com o cashback do Max November? Não testamos. O cashback é da loja, com as regras na página da campanha; o cupom entra no campo do carrinho, e a linha Descontos mostra o que ele abateu.",
@@ -81113,7 +81152,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A faixa do topo do site anuncia 30% OFF em todo o site, e o menu Black Friday tem duas seções: \"preço fixo\", com os kits, e \"Black 30\". O banner principal mostra o Kit 3 T-Shirts por R$ 199,00: em outubro, o mesmo kit saía por R$ 258,00 na promoção leve 3, pague 2, então o preço da campanha fica R$ 59,00 abaixo.",
           "A sexta da Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A loja não publica quando a campanha termina nem se o preço muda na sexta. Nos produtos de preço cheio, o 30% é o que compara com a tabela de outubro; nos que já tinham desconto, como os bodies, só é desconto novo o que ficar abaixo do preço que o site mostrava em outubro."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/clea-store/black-friday-clea-store-banner-kit-t-shirts.webp",
+          "alt": "Banner da Black Friday da Cléa Store com uma modelo de camiseta preta e o Kit 3 T-Shirts por R$ 199",
+          "caption": "O Kit 3 T-Shirts no banner principal da Black Friday, na home da Cléa Store.",
+          "objectFit": "contain",
+          "aspectRatio": 2.4615
+        }
       },
       {
         "heading": "Como foi a Black Friday da Cléa Store em 2025?",
@@ -105139,7 +105185,7 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 531,
     "slug": "black-friday-mais-mu",
-    "title": "Black Friday Mais Mu 2026: ofertas de até 50% já no ar, preços de outubro e o cupom MMEMCASACOMCECILIA",
+    "title": "Black Friday Mais Mu 2026: Blue Friday com até 50% já no ar, preços de outubro e o cupom MMEMCASACOMCECILIA",
     "seoTitle": "Black Friday Mais Mu 2026: até 50% OFF e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -105151,8 +105197,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Mais Mu já está com ofertas de até 50% OFF e 3% no Pix, sem chamar a campanha de Black Friday. Este guia traz os preços de whey e creatina de outubro para comparar, como o cupom MMEMCASACOMCECILIA soma com as ofertas e com o Pix e as regras de frete grátis.",
-    "metaDescription": "Black Friday Mais Mu 2026: ofertas de até 50% OFF já no ar e 3% no Pix, sem o nome Black Friday. Cupom MMEMCASACOMCECILIA de 10% e preços de outubro.",
+    "description": "A Mais Mu já está com ofertas de até 50% OFF e 3% no Pix, na campanha que a loja chama de Blue Friday. Este guia traz os preços de whey e creatina de outubro para comparar, como o cupom MMEMCASACOMCECILIA soma com as ofertas e com o Pix e as regras de frete grátis.",
+    "metaDescription": "Black Friday Mais Mu 2026: a Blue Friday já está no ar, com até 50% OFF e 3% no Pix. Cupom MMEMCASACOMCECILIA de 10% e preços de outubro.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "updatedAt": "2026-11-03",
@@ -105166,16 +105212,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mais Mu já está com ofertas de até 50% OFF, mais 3% no Pix, sem usar o nome Black Friday nem publicar data de fim; a Black Friday do calendário é a última sexta de novembro. O cupom MMEMCASACOMCECILIA dá 10% OFF, soma com as ofertas e com o Pix, e não soma com o cashback."
+          "A Black Friday da Mais Mu se chama Blue Friday e já está no ar, com até 50% OFF e mais 3% no Pix, sem data de fim publicada; a Black Friday do calendário é a última sexta de novembro. O cupom MMEMCASACOMCECILIA dá 10% OFF, soma com as ofertas e com o Pix, e não soma com o cashback."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da Mais Mu?",
         "paragraphs": [
-          "A Mais Mu não usa o nome Black Friday, mas as ofertas já estão no ar: a home chama \"Garanta seus favoritos com até 50% OFF\", e o Pix segue com 3% de desconto. A loja não publicou data de início nem de fim, nem regra da campanha.",
+          "Já começou, com outro nome: a Mais Mu chama a campanha de **Blue Friday**. O banner da home anuncia \"A Blue Friday mais esperada chegou\" e \"Garanta seus favoritos com até 50% OFF\", com os produtos de acordo com o estoque, e o Pix segue com 3% de desconto. A loja não publicou data de fim nem outra regra da campanha.",
           "O calendário é outro assunto: a Black Friday de 2026 cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. São as datas do calendário, não da loja.",
-          "O \"até 50%\" é o teto: o desconto é por produto, e a página de cada um mostra o preço riscado e o preço do dia. Compare com a tabela de outubro, abaixo. Se a Mais Mu publicar uma campanha com data e regra, elas entram aqui."
-        ]
+          "O \"até 50%\" é o teto: o desconto é por produto, e a página de cada um mostra o preço riscado e o preço do dia. Compare com a tabela de outubro, abaixo. Se a Mais Mu publicar a data de fim ou as regras da Blue Friday, elas entram aqui."
+        ],
+        "image": {
+          "src": "/images/reviews/mais-mu/black-friday-mais-mu-banner-blue-friday.webp",
+          "alt": "Banner da Blue Friday da Mais Mu com potes de whey e creatina e os textos A Blue Friday mais esperada chegou e Garanta seus favoritos com até 50% OFF",
+          "caption": "A Blue Friday no banner da home da Mais Mu.",
+          "objectFit": "contain",
+          "aspectRatio": 3.0659
+        }
       },
       {
         "heading": "Preços para comparar",
@@ -105266,13 +105319,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Mais Mu? A loja não usa o nome Black Friday, mas já está com ofertas de até 50% OFF e 3% no Pix, sem data de fim publicada. A Black Friday do calendário é a última sexta-feira de novembro.",
+          "Quando começa e quanto dura a Black Friday da Mais Mu? Já começou: a Mais Mu chama a campanha de Blue Friday, com até 50% OFF e 3% no Pix, sem data de fim publicada. A Black Friday do calendário é a última sexta-feira de novembro.",
           "O cupom da Mais Mu vale na Black Friday? O MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com o Pix e não soma com o cashback. Num produto com o preço das ofertas de novembro ainda não testamos; o resumo do pedido mostra a linha Desconto do cupom antes de pagar.",
           "O cupom vale com produto em promoção? Sim. No teste no carrinho, os 10% entraram também na creatina que já estava em oferta.",
           "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
           "Posso usar o cupom junto com o crédito do cashback? Não. A loja não acumula cupons, e o crédito do cashback conta como cupom.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio, sem o cupom.",
-          "O que muda se a Mais Mu publicar uma campanha com esse nome? O guia ganha a data, as regras e o que o cupom faz na campanha."
+          "O que é a Blue Friday da Mais Mu? É o nome que a loja dá à Black Friday: ofertas de até 50% OFF, por produto e de acordo com o estoque. A linha Desconto do cupom mostra no resumo do pedido o que o MMEMCASACOMCECILIA abateu antes de pagar."
         ]
       }
     ],
@@ -130276,7 +130329,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "A Toda Up já está em Black November, com todo o site em desconto. O que a loja mostra agora, a Black Antecipada de outubro com desconto progressivo de 12%, 15% e 20% pelo carrinho, o cupom da Toda Up somando no teste, três carrinhos de exemplo e os preços para comparar.",
-    "metaDescription": "Black Friday Toda Up 2026 já começou: Black November com todo o site em desconto e selos de até 33% OFF. Cupom de 10%, três carrinhos e preços de outubro.",
+    "metaDescription": "Black Friday Toda Up 2026 já começou: Black November com até 35% OFF e brinde acima de R$ 199. Cupom de 10%, três carrinhos e preços de outubro.",
     "image": "/images/reviews/toda-up/black-friday-toda-up-capa-discover.webp",
     "imageAlt": "Banner Black Friday antecipada da Toda Up com uma modelo de sutiã tomara que caia preto, com o logo da loja e o título Black Friday da Toda Up",
     "imageFit": "contain",
@@ -130310,13 +130363,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com selos de até 33% OFF, e o dia da Black Friday é 27 de novembro. O cupom da Toda Up, MAUAD, de 10%, somou com a campanha de outubro no carrinho; sobre a Black November, confira o total antes de pagar."
+          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com até 35% OFF e calcinha de brinde por valor de pedido, e o dia da Black Friday é 27 de novembro. O cupom da Toda Up, MAUAD, de 10%, somou com a campanha de outubro no carrinho; sobre a Black November, confira o total antes de pagar."
         ]
       },
       {
         "heading": "O que a Black November da Toda Up mostra",
         "paragraphs": [
-          "A home da Toda Up anuncia a \"Black November: todo site com desconto\", com selos de até 15%, 16%, 20% e 33% OFF nos produtos. O desconto é por peça, e o que vale é o preço na página de cada uma: compare com a tabela de outubro deste guia, mais abaixo.",
+          "A home da Toda Up anuncia a \"Black November: todo site com desconto\", e o banner da campanha fala em até 35% OFF; nos produtos, lemos selos de 15%, 16%, 20% e 33%. O desconto é por peça, e o que vale é o preço na página de cada uma: compare com a tabela de outubro deste guia, mais abaixo.",
+          "O mesmo banner traz brindes por valor de pedido: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. O banner não diz o modelo nem o tamanho do brinde: confira se ele entra no carrinho antes de pagar.",
           "A loja não publica até quando a Black November vale nem se a regra muda na sexta, 27/11/2026. Confira o desconto no seu carrinho antes de pagar.",
           "Em outubro, a campanha se chamava \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site, e o desconto era progressivo: entrava sozinho no carrinho, sem código, pelo subtotal dos produtos. Foi nessa regra que testamos o cupom, e é ela que os carrinhos abaixo usam. Se a progressiva segue valendo na Black November, o site não diz: veja se a linha da campanha aparece no seu carrinho."
         ],
@@ -130344,18 +130398,25 @@ export const reviewsData: unknown[] = [
           "No carrinho do teste de outubro, a linha do desconto apareceu como \"Flash Sale · 12% OFF acima de R$ 299\". Abaixo de R$ 299, a campanha não tirava nada, e sobrava só o cupom."
         ],
         "image": {
-          "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
-          "alt": "Faixas da promoção progressiva da Toda Up: 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499",
-          "caption": "As faixas da promoção progressiva no banner da home da Toda Up, na Black Antecipada de outubro.",
+          "src": "/images/reviews/toda-up/black-friday-toda-up-banner-black-november.webp",
+          "alt": "Banner da Black November da Toda Up com até 35% OFF, uma modelo de sutiã e os brindes: acima de R$ 199 ganhe calcinha fio dental, acima de R$ 299 ganhe calcinha e protetor de silicone",
+          "caption": "A Black November e os brindes por valor de pedido, no banner da home da Toda Up.",
           "objectFit": "contain",
-          "aspectRatio": 5
+          "aspectRatio": 2.9197
         }
       },
       {
         "heading": "O cupom e a campanha: o teste de outubro",
         "paragraphs": [
           "O cupom da Toda Up é o MAUAD, de 10% em todo o site. No carrinho de outubro, sem finalizar a compra, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. Sobre os preços da Black November, não testamos: a loja pode mudar a regra de soma durante a campanha, então confira a linha do cupom no carrinho antes de pagar. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
-        ]
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
+          "alt": "Faixas da promoção progressiva da Toda Up: 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499",
+          "caption": "As faixas da promoção progressiva no banner da home da Toda Up, na Black Antecipada de outubro.",
+          "objectFit": "contain",
+          "aspectRatio": 5
+        }
       },
       {
         "heading": "Três carrinhos para comparar",
@@ -130578,10 +130639,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto e selos de até 33% OFF. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
+          "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto, até 35% OFF e brindes por valor de pedido. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
           "A Toda Up tem Black Friday? Sim. Em outubro, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo carrinho; agora mostra a \"Black November\", com desconto por peça.",
           "O cupom da Toda Up vale na Black November? No teste de outubro, na Black Antecipada, os 10% do cupom saíram depois do desconto da campanha. Sobre os preços da Black November, não testamos: confira a linha do cupom no carrinho.",
-          "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com selos de até 15%, 16%, 20% e 33% OFF. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
+          "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com até 35% OFF no banner e selos de 15%, 16%, 20% e 33% nos produtos. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
+          "A Black November da Toda Up tem brinde? Tem, pelo banner da campanha: acima de R$ 199, uma calcinha fio dental; acima de R$ 299, uma calcinha e um protetor de silicone. Confira o brinde no carrinho antes de pagar.",
           "A Black November tem frete grátis? A home não diz. Na Black Antecipada de outubro, a faixa do topo anunciava frete grátis em todo o site. A loja libera frete grátis em campanhas; fora delas, o frete é pelo CEP.",
           "Vale esperar a Black Friday? A loja não anunciou regra para a data. Compare o preço do dia com a tabela de outubro deste guia."
         ]

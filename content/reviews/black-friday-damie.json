@@ -82,7 +82,14 @@
       },
       "postParagraphs": [
         "O CECILIA12 vale nessas condições do mesmo jeito: soma com o preço de campanha e com o Pix, e não soma com outro cupom nem com o giftback. Confira no carrinho o desconto e os brindes do seu pedido antes de pagar."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/damie/black-friday-damie-banner-esquenta.webp",
+        "alt": "Banner da DAMIE: sua poltrona com 3 presentes e frete grátis, R$ 1.150,00 de economia na compra de qualquer poltrona, com carregador USB, massagem e porta-copos grátis",
+        "caption": "Os três presentes e o frete grátis da poltrona, no banner da home da DAMIE.",
+        "objectFit": "contain",
+        "aspectRatio": 2.974
+      }
     },
     {
       "heading": "Preços de outubro para comparar",

@@ -44071,6 +44071,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/clea-store/black-friday-clea-store-banner-kit-t-shirts.webp",
+      "local_url": "/images/reviews/clea-store/black-friday-clea-store-banner-kit-t-shirts.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74968,
+      "sha256": "28afcb677fde5fb3607e6f0a754b65c913ca66db199929af3a79dc3e0819932d",
+      "width": 1440,
+      "height": 585,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-clea-store-banner-kit-t-shirts.webp",
+      "storage_filename": "black-friday-clea-store-banner-kit-t-shirts.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-clea-store.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-clea-store.json",
+          "line": 55,
+          "column": 17,
+          "literal": "/images/reviews/clea-store/black-friday-clea-store-banner-kit-t-shirts.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/28afcb677fde5fb3607e6f0a754b65c913ca66db199929af3a79dc3e0819932d/black-friday-clea-store-banner-kit-t-shirts.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/28afcb677fde5fb3607e6f0a754b65c913ca66db199929af3a79dc3e0819932d/black-friday-clea-store-banner-kit-t-shirts.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T17:11:38.382Z",
+      "verification_etag_or_digest": "28afcb677fde5fb3607e6f0a754b65c913ca66db199929af3a79dc3e0819932d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
       "local_url": "/images/reviews/clea-store/black-friday-clea-store-bodies.webp",
       "media_kind": "image",
@@ -49956,6 +49994,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/black-friday-damie-banner-esquenta.webp",
+      "local_url": "/images/reviews/damie/black-friday-damie-banner-esquenta.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 81150,
+      "sha256": "aa0cc19e7f918b4cb046056f43681dac301471c64eda58a2f7fec6d677c37dd9",
+      "width": 1600,
+      "height": 538,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-damie-banner-esquenta.webp",
+      "storage_filename": "black-friday-damie-banner-esquenta.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-damie.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-damie.json",
+          "line": 87,
+          "column": 17,
+          "literal": "/images/reviews/damie/black-friday-damie-banner-esquenta.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/aa0cc19e7f918b4cb046056f43681dac301471c64eda58a2f7fec6d677c37dd9/black-friday-damie-banner-esquenta.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/aa0cc19e7f918b4cb046056f43681dac301471c64eda58a2f7fec6d677c37dd9/black-friday-damie-banner-esquenta.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T17:11:38.383Z",
+      "verification_etag_or_digest": "aa0cc19e7f918b4cb046056f43681dac301471c64eda58a2f7fec6d677c37dd9",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
       "local_url": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
       "media_kind": "image",
@@ -52334,6 +52410,82 @@
       "uploaded_at": null,
       "verified_at": "2026-11-02T22:42:31.463Z",
       "verification_etag_or_digest": "eed6fa69b7a655e5f73ba24ac8538c55abe15f6ec16fb94f418a543c13e0b0da",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-genio-s.webp",
+      "local_url": "/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-genio-s.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64946,
+      "sha256": "19f19c0e324e03431278583fe4e4e01801791a7d9dd8187fe8cfbb56ae1e79ef",
+      "width": 1600,
+      "height": 869,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-dolce-gusto-banner-genio-s.webp",
+      "storage_filename": "black-friday-dolce-gusto-banner-genio-s.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-dolce-gusto.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-dolce-gusto.json",
+          "line": 68,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-genio-s.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/19f19c0e324e03431278583fe4e4e01801791a7d9dd8187fe8cfbb56ae1e79ef/black-friday-dolce-gusto-banner-genio-s.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/19f19c0e324e03431278583fe4e4e01801791a7d9dd8187fe8cfbb56ae1e79ef/black-friday-dolce-gusto-banner-genio-s.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T17:11:38.383Z",
+      "verification_etag_or_digest": "19f19c0e324e03431278583fe4e4e01801791a7d9dd8187fe8cfbb56ae1e79ef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-mini-me.webp",
+      "local_url": "/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-mini-me.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 44874,
+      "sha256": "6e87bf5abac8ed5c21219f679ab19a61e480298afd4f1d88c7e4db1bd225a9b7",
+      "width": 1600,
+      "height": 640,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-dolce-gusto-banner-mini-me.webp",
+      "storage_filename": "black-friday-dolce-gusto-banner-mini-me.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-dolce-gusto.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-dolce-gusto.json",
+          "line": 75,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-mini-me.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/6e87bf5abac8ed5c21219f679ab19a61e480298afd4f1d88c7e4db1bd225a9b7/black-friday-dolce-gusto-banner-mini-me.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6e87bf5abac8ed5c21219f679ab19a61e480298afd4f1d88c7e4db1bd225a9b7/black-friday-dolce-gusto-banner-mini-me.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T17:11:38.383Z",
+      "verification_etag_or_digest": "6e87bf5abac8ed5c21219f679ab19a61e480298afd4f1d88c7e4db1bd225a9b7",
       "verification_status": "verified"
     },
     {
@@ -76122,6 +76274,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/letseatit/black-friday-letseatit-banner-sintonia.webp",
+      "local_url": "/images/reviews/letseatit/black-friday-letseatit-banner-sintonia.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 63500,
+      "sha256": "ae62f5dd09ce7949dc80d7906073083c84dee2026593934f5f20994e74460358",
+      "width": 1600,
+      "height": 444,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "built-in",
+      "metadata_pending": [],
+      "original_filename": "black-friday-letseatit-banner-sintonia.webp",
+      "storage_filename": "black-friday-letseatit-banner-sintonia.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-letseatit.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-letseatit.json",
+          "line": 56,
+          "column": 19,
+          "literal": "/images/reviews/letseatit/black-friday-letseatit-banner-sintonia.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/ae62f5dd09ce7949dc80d7906073083c84dee2026593934f5f20994e74460358/black-friday-letseatit-banner-sintonia.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ae62f5dd09ce7949dc80d7906073083c84dee2026593934f5f20994e74460358/black-friday-letseatit-banner-sintonia.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T17:11:38.383Z",
+      "verification_etag_or_digest": "ae62f5dd09ce7949dc80d7906073083c84dee2026593934f5f20994e74460358",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/letseatit/black-friday-letseatit-capa-discover.webp",
       "local_url": "/images/reviews/letseatit/black-friday-letseatit-capa-discover.webp",
       "media_kind": "image",
@@ -80970,6 +81160,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/mais-mu/black-friday-mais-mu-banner-blue-friday.webp",
+      "local_url": "/images/reviews/mais-mu/black-friday-mais-mu-banner-blue-friday.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46900,
+      "sha256": "58599a187c33206d87a2a369a6cc6d54aee843348b8bc7cab81a1e609c8dc08f",
+      "width": 1024,
+      "height": 334,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-mais-mu-banner-blue-friday.webp",
+      "storage_filename": "black-friday-mais-mu-banner-blue-friday.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-mais-mu.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-mais-mu.json",
+          "line": 43,
+          "column": 17,
+          "literal": "/images/reviews/mais-mu/black-friday-mais-mu-banner-blue-friday.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/58599a187c33206d87a2a369a6cc6d54aee843348b8bc7cab81a1e609c8dc08f/black-friday-mais-mu-banner-blue-friday.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/58599a187c33206d87a2a369a6cc6d54aee843348b8bc7cab81a1e609c8dc08f/black-friday-mais-mu-banner-blue-friday.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T17:11:38.383Z",
+      "verification_etag_or_digest": "58599a187c33206d87a2a369a6cc6d54aee843348b8bc7cab81a1e609c8dc08f",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/mais-mu/black-friday-mais-mu-capa.webp",
       "local_url": "/images/reviews/mais-mu/black-friday-mais-mu-capa.webp",
       "media_kind": "image",
@@ -82609,6 +82837,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T16:50:00.173Z",
       "verification_etag_or_digest": "f190da5af0820c55d2c182de0e8203656d314b63fbb0cfc90887e7dd52d276ef",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp",
+      "local_url": "/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 137092,
+      "sha256": "98b9f271dccd1e60dbfd93b1d83586991dd1f72fbd8eb7526921331bb80b6954",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-max-titanium-banner-max-november.webp",
+      "storage_filename": "black-friday-max-titanium-banner-max-november.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-max-titanium.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-max-titanium.json",
+          "line": 79,
+          "column": 17,
+          "literal": "/images/reviews/max-titanium/black-friday-max-titanium-banner-max-november.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/98b9f271dccd1e60dbfd93b1d83586991dd1f72fbd8eb7526921331bb80b6954/black-friday-max-titanium-banner-max-november.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/98b9f271dccd1e60dbfd93b1d83586991dd1f72fbd8eb7526921331bb80b6954/black-friday-max-titanium-banner-max-november.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T17:11:38.383Z",
+      "verification_etag_or_digest": "98b9f271dccd1e60dbfd93b1d83586991dd1f72fbd8eb7526921331bb80b6954",
       "verification_status": "verified"
     },
     {
@@ -101708,6 +101974,44 @@
       "uploaded_at": null,
       "verified_at": "2026-10-19T14:16:14.946Z",
       "verification_etag_or_digest": "116c0385a9921afbda4e3e768dfd2b00f13f695b595d1d766e439f33a02f5104",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/black-friday-toda-up-banner-black-november.webp",
+      "local_url": "/images/reviews/toda-up/black-friday-toda-up-banner-black-november.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49852,
+      "sha256": "2d76132e1065c9d8cc45131fbfa1b9f51a3a3a85403e52d6f4b411451ab64657",
+      "width": 1600,
+      "height": 548,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-toda-up-banner-black-november.webp",
+      "storage_filename": "black-friday-toda-up-banner-black-november.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-toda-up.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-toda-up.json",
+          "line": 93,
+          "column": 17,
+          "literal": "/images/reviews/toda-up/black-friday-toda-up-banner-black-november.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/2d76132e1065c9d8cc45131fbfa1b9f51a3a3a85403e52d6f4b411451ab64657/black-friday-toda-up-banner-black-november.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2d76132e1065c9d8cc45131fbfa1b9f51a3a3a85403e52d6f4b411451ab64657/black-friday-toda-up-banner-black-november.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T17:11:38.383Z",
+      "verification_etag_or_digest": "2d76132e1065c9d8cc45131fbfa1b9f51a3a3a85403e52d6f4b411451ab64657",
       "verification_status": "verified"
     },
     {

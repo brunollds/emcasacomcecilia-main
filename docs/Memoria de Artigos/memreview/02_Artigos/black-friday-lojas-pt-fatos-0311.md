@@ -65,15 +65,20 @@ O texto de outubro respondia "a loja ainda não anunciou". Em 03/11 quase todas 
 | Insider | Até 40% OFF e 50% OFF na 2ª peça (página `/black-friday-insider`) | campanha `insider-black-friday-2026` | 2026-11-02 |
 | Skelt | Esquenta a partir de 05/11 (coleção "BF - Live 05/11") e Black Friday em 27/11 | campanhas da Skelt (datas informadas pelo Bruno) | 2026-11-02 |
 | Toda Up | "Black November: todo site com desconto"; selos de até 15%, 16%, 20% e 33% OFF | home `todaup.com` (HTTP) | 2026-11-03 |
+| Toda Up | Banner da Black November: até 35% OFF; acima de R$ 199, calcinha fio dental de brinde; acima de R$ 299, calcinha e protetor de silicone | banner da home (imagem) | 2026-11-03 |
 | Belive | "Black November": até 30% de desconto em todo o site, mais 5% no Pix; panetones com 5% + 5% no Pix; kit panetones com frete a R$ 9,90; lanche escolar a partir de R$ 3,39 no Pix | home `belivebefree.com.br` (HTTP) | 2026-11-03 |
 | Lejour | "Black November Lejour: planos e adicionais com 50% OFF" | home `lejour.com.br` (HTTP) | 2026-11-03 |
 | Black Skull | "A Black November da Black Skull começou: quanto mais você leva, maior o desconto"; desconto progressivo, com selos de 16%, 22%, 33% e 40% nos produtos; frete grátis para todo o Brasil "consulte as regras" | `blackskullusa.com.br/blackfriday2026` (Chrome) | 2026-11-03 |
 | Max Titanium | Max November de 01/11 a 30/11; cashback de até 16%; roupas e acessórios com 50% OFF; banner de Black Friday | nomes dos banners da home `maxtitanium.com.br` (Chrome) | 2026-11-03 |
 | Max Titanium | "Comprou ganhou": brindes Znack That por faixa de valor (até 3); Pix e boleto com 5% OFF | home | 2026-11-03 |
+| Max Titanium | Cashback de até 16% em compras acima de R$ 150, em dobro para todos os níveis do Elite Member; Promoção Max November: acima de R$ 199,90, um par de meias exclusivo, por tempo limitado | banners da home (imagem) | 2026-11-03 |
 | Probiótica | "Já começou o Novembro PRO, por tempo limitado"; Pix e boleto com até 5% OFF | home `probiotica.com.br` (Chrome) | 2026-11-03 |
-| Mais Mu | "Garanta seus favoritos com até 50% OFF" (sem o nome Black Friday); Pix com 3% OFF | home `lojamaismu.com.br` (Chrome) | 2026-11-03 |
+| Mais Mu | "Garanta seus favoritos com até 50% OFF"; Pix com 3% OFF | home `lojamaismu.com.br` (Chrome) | 2026-11-03 |
+| Mais Mu | A campanha se chama **Blue Friday** ("A Blue Friday mais esperada chegou"), produtos de acordo com o estoque | banner do carrossel da home (imagem) | 2026-11-03 |
 | Let's Eat It | Black Friday no ar: La Maison até 70% OFF, Porto Brasil até 60% OFF, peças de Natal de 20% a 60%; coleção "Best Sellers - Black Friday"; 15% de cashback; 5% no Pix | home e `/collections/best-sellers-black-friday` (Chrome) | 2026-11-03 |
-| Let's Eat It | Le Creuset só no menu da coleção; nenhuma peça Le Creuset com desconto lida | mesma coleção | 2026-11-03 |
+| Let's Eat It | ~~Le Creuset só no menu da coleção; nenhuma peça Le Creuset com desconto lida~~ (corrigido na mesma data, linha abaixo) | mesma coleção | 2026-11-03 |
+| Let's Eat It | Banner "Le Creuset Colorful: descontos imperdíveis" leva à coleção `/collections/promocao-le-creuset`: 146 peças; nas 47 primeiras, 15% a 40% OFF (27 com 25%, 13 com 35%). Redonda Signature 20 cm de R$ 2.329 por R$ 1.746,75 (25%); na cor Cool Mint, R$ 1.513,85 (35%) | navegador do app | 2026-11-03 |
+| Let's Eat It | Banner "Black Friday Linha Sintonia" (taças e copos) com até 70% OFF | banner da home (imagem) | 2026-11-03 |
 | Dr. Peanut | Sem campanha de Black Friday na home; frete grátis no Sul e Sudeste acima de R$ 149,90 e nas demais regiões acima de R$ 199,90 | home `drpeanut.com.br` (Chrome) | 2026-11-03 |
 | Dr. Peanut | "Desconto no PIX: 3% adicional" nas condições de pagamento da ficha de produto (o artigo dizia 5%) | ficha do Combo Leve 8, Pague 5 em `drpeanut.com.br` (navegador do app) | 2026-11-03 |
 | I Wanna Sleep | Sem campanha de Black Friday na home; frete grátis acima de R$ 150 | home `iwannasleep.com.br` (Chrome) | 2026-11-03 |

@@ -50,7 +50,14 @@
       "paragraphs": [
         "A faixa do topo do site anuncia 30% OFF em todo o site, e o menu Black Friday tem duas seções: \"preço fixo\", com os kits, e \"Black 30\". O banner principal mostra o Kit 3 T-Shirts por R$ 199,00: em outubro, o mesmo kit saía por R$ 258,00 na promoção leve 3, pague 2, então o preço da campanha fica R$ 59,00 abaixo.",
         "A sexta da Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A loja não publica quando a campanha termina nem se o preço muda na sexta. Nos produtos de preço cheio, o 30% é o que compara com a tabela de outubro; nos que já tinham desconto, como os bodies, só é desconto novo o que ficar abaixo do preço que o site mostrava em outubro."
-      ]
+      ],
+      "image": {
+        "src": "/images/reviews/clea-store/black-friday-clea-store-banner-kit-t-shirts.webp",
+        "alt": "Banner da Black Friday da Cléa Store com uma modelo de camiseta preta e o Kit 3 T-Shirts por R$ 199",
+        "caption": "O Kit 3 T-Shirts no banner principal da Black Friday, na home da Cléa Store.",
+        "objectFit": "contain",
+        "aspectRatio": 2.4615
+      }
     },
     {
       "heading": "Como foi a Black Friday da Cléa Store em 2025?",

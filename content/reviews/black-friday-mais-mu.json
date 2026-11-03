@@ -2,7 +2,7 @@
   "bodyDatesReason": "campanha",
   "id": 531,
   "slug": "black-friday-mais-mu",
-  "title": "Black Friday Mais Mu 2026: ofertas de até 50% já no ar, preços de outubro e o cupom MMEMCASACOMCECILIA",
+  "title": "Black Friday Mais Mu 2026: Blue Friday com até 50% já no ar, preços de outubro e o cupom MMEMCASACOMCECILIA",
   "seoTitle": "Black Friday Mais Mu 2026: até 50% OFF e cupom",
   "type": "Guia de Black Friday",
   "category": "cupons-como-usar",
@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Mais Mu já está com ofertas de até 50% OFF e 3% no Pix, sem chamar a campanha de Black Friday. Este guia traz os preços de whey e creatina de outubro para comparar, como o cupom MMEMCASACOMCECILIA soma com as ofertas e com o Pix e as regras de frete grátis.",
-  "metaDescription": "Black Friday Mais Mu 2026: ofertas de até 50% OFF já no ar e 3% no Pix, sem o nome Black Friday. Cupom MMEMCASACOMCECILIA de 10% e preços de outubro.",
+  "description": "A Mais Mu já está com ofertas de até 50% OFF e 3% no Pix, na campanha que a loja chama de Blue Friday. Este guia traz os preços de whey e creatina de outubro para comparar, como o cupom MMEMCASACOMCECILIA soma com as ofertas e com o Pix e as regras de frete grátis.",
+  "metaDescription": "Black Friday Mais Mu 2026: a Blue Friday já está no ar, com até 50% OFF e 3% no Pix. Cupom MMEMCASACOMCECILIA de 10% e preços de outubro.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "updatedAt": "2026-11-03",
@@ -29,16 +29,23 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Mais Mu já está com ofertas de até 50% OFF, mais 3% no Pix, sem usar o nome Black Friday nem publicar data de fim; a Black Friday do calendário é a última sexta de novembro. O cupom MMEMCASACOMCECILIA dá 10% OFF, soma com as ofertas e com o Pix, e não soma com o cashback."
+        "A Black Friday da Mais Mu se chama Blue Friday e já está no ar, com até 50% OFF e mais 3% no Pix, sem data de fim publicada; a Black Friday do calendário é a última sexta de novembro. O cupom MMEMCASACOMCECILIA dá 10% OFF, soma com as ofertas e com o Pix, e não soma com o cashback."
       ]
     },
     {
       "heading": "Quando começa a Black Friday da Mais Mu?",
       "paragraphs": [
-        "A Mais Mu não usa o nome Black Friday, mas as ofertas já estão no ar: a home chama \"Garanta seus favoritos com até 50% OFF\", e o Pix segue com 3% de desconto. A loja não publicou data de início nem de fim, nem regra da campanha.",
+        "Já começou, com outro nome: a Mais Mu chama a campanha de **Blue Friday**. O banner da home anuncia \"A Blue Friday mais esperada chegou\" e \"Garanta seus favoritos com até 50% OFF\", com os produtos de acordo com o estoque, e o Pix segue com 3% de desconto. A loja não publicou data de fim nem outra regra da campanha.",
         "O calendário é outro assunto: a Black Friday de 2026 cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. São as datas do calendário, não da loja.",
-        "O \"até 50%\" é o teto: o desconto é por produto, e a página de cada um mostra o preço riscado e o preço do dia. Compare com a tabela de outubro, abaixo. Se a Mais Mu publicar uma campanha com data e regra, elas entram aqui."
-      ]
+        "O \"até 50%\" é o teto: o desconto é por produto, e a página de cada um mostra o preço riscado e o preço do dia. Compare com a tabela de outubro, abaixo. Se a Mais Mu publicar a data de fim ou as regras da Blue Friday, elas entram aqui."
+      ],
+      "image": {
+        "src": "/images/reviews/mais-mu/black-friday-mais-mu-banner-blue-friday.webp",
+        "alt": "Banner da Blue Friday da Mais Mu com potes de whey e creatina e os textos A Blue Friday mais esperada chegou e Garanta seus favoritos com até 50% OFF",
+        "caption": "A Blue Friday no banner da home da Mais Mu.",
+        "objectFit": "contain",
+        "aspectRatio": 3.0659
+      }
     },
     {
       "heading": "Preços para comparar",
@@ -129,13 +136,13 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quando começa e quanto dura a Black Friday da Mais Mu? A loja não usa o nome Black Friday, mas já está com ofertas de até 50% OFF e 3% no Pix, sem data de fim publicada. A Black Friday do calendário é a última sexta-feira de novembro.",
+        "Quando começa e quanto dura a Black Friday da Mais Mu? Já começou: a Mais Mu chama a campanha de Blue Friday, com até 50% OFF e 3% no Pix, sem data de fim publicada. A Black Friday do calendário é a última sexta-feira de novembro.",
         "O cupom da Mais Mu vale na Black Friday? O MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com o Pix e não soma com o cashback. Num produto com o preço das ofertas de novembro ainda não testamos; o resumo do pedido mostra a linha Desconto do cupom antes de pagar.",
         "O cupom vale com produto em promoção? Sim. No teste no carrinho, os 10% entraram também na creatina que já estava em oferta.",
         "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
         "Posso usar o cupom junto com o crédito do cashback? Não. A loja não acumula cupons, e o crédito do cashback conta como cupom.",
         "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio, sem o cupom.",
-        "O que muda se a Mais Mu publicar uma campanha com esse nome? O guia ganha a data, as regras e o que o cupom faz na campanha."
+        "O que é a Blue Friday da Mais Mu? É o nome que a loja dá à Black Friday: ofertas de até 50% OFF, por produto e de acordo com o estoque. A linha Desconto do cupom mostra no resumo do pedido o que o MMEMCASACOMCECILIA abateu antes de pagar."
       ]
     }
   ],

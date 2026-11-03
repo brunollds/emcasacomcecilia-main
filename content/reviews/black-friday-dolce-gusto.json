@@ -62,6 +62,22 @@
         "Nas bebidas, a campanha funciona por oferta do dia: na que lemos, a caixa de Mochaccino caía de R$ 25,90 para R$ 15,90. Fora dela, os banners traziam 25% OFF nos cafés Lungos NEO, até 25% OFF em acessórios, frete grátis acima de R$ 100 e uma Mini Me vermelha de brinde na compra de 80 caixas de bebidas.",
         "A assinatura entrou na campanha com desconto em todas as bebidas no primeiro pedido, 35% OFF num banner e 30% OFF noutro, com \"benefícios garantidos até janeiro\", e frete grátis em todos os pedidos. A conta vale para quem toma café todo dia; o desconto maior é só na primeira entrega.",
         "Pelo regulamento do site, as ofertas diárias valem só no site oficial, enquanto durarem os estoques, e não são cumulativas com combo com máquinas, combo de bebidas e resgate de pontos. Essa é a regra da oferta; a do cupom está no capítulo do CECI."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-genio-s.webp",
+          "alt": "Banner da Black Friday da Dolce Gusto com a Genio S Basic branca de R$ 679,90 por R$ 409,90 e a Genio S Plus vermelha de R$ 779,90 por R$ 499,90, as duas com mais 30 cápsulas grátis",
+          "caption": "A Genio S Basic e a Genio S Plus no banner da Black Friday da home da Dolce Gusto.",
+          "objectFit": "contain",
+          "aspectRatio": 1.8412
+        },
+        {
+          "src": "/images/reviews/dolcegusto/black-friday-dolce-gusto-banner-mini-me.webp",
+          "alt": "Banner Máquinas com preço de Black da Dolce Gusto com a Mini Me 2.0 de R$ 599,90 por R$ 369,90 e mais 30 cápsulas grátis",
+          "caption": "A Mini Me 2.0 no banner Máquinas com preço de Black, na home da Dolce Gusto.",
+          "objectFit": "contain",
+          "aspectRatio": 2.5
+        }
       ]
     },
     {
