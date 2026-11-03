@@ -66726,6 +66726,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/black-friday-insider-feminino-capa.webp",
+      "local_url": "/images/reviews/insider/black-friday-insider-feminino-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 60886,
+      "sha256": "9c15b376a1de6cd859669ff0336bfc8ea5b5ecd8770717100618e151005b2cac",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-insider-feminino-capa.webp",
+      "storage_filename": "black-friday-insider-feminino-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-insider-feminino.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-insider-feminino.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/black-friday-insider-feminino-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 56358,
+          "column": 15,
+          "literal": "/images/reviews/insider/black-friday-insider-feminino-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9c15b376a1de6cd859669ff0336bfc8ea5b5ecd8770717100618e151005b2cac/black-friday-insider-feminino-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9c15b376a1de6cd859669ff0336bfc8ea5b5ecd8770717100618e151005b2cac/black-friday-insider-feminino-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T16:35:18.267Z",
+      "verification_etag_or_digest": "9c15b376a1de6cd859669ff0336bfc8ea5b5ecd8770717100618e151005b2cac",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa.webp",
       "local_url": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-capa.webp",
       "media_kind": "image",

@@ -54740,8 +54740,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 330,
     "slug": "black-friday-dolce-gusto",
-    "title": "Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI",
-    "seoTitle": "Black Friday Dolce Gusto 2026: máquinas, cápsulas e preços",
+    "title": "Black Friday Dolce Gusto 2026 já começou: máquinas com 30 cápsulas, ofertas do dia, assinatura e o cupom CECI",
+    "seoTitle": "Black Friday Dolce Gusto 2026 já começou: máquinas e cápsulas",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -54752,10 +54752,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando começa a Black Friday da NESCAFÉ Dolce Gusto, o que a Nestlé ofereceu em 2023 e 2024, os preços de outubro de 2026 para comparar, Original ou NEO e como usar o cupom CECI.",
-    "metaDescription": "Black Friday Dolce Gusto 2026: o que a loja oficial ofereceu nos últimos anos, preços de máquinas e cápsulas em outubro para comparar e o cupom CECI.",
+    "description": "A Black Friday da NESCAFÉ Dolce Gusto já começou no site oficial: Mini Me 2.0 e Genio S com 30 cápsulas e 10 vezes sem juros, promoções novas todos os dias, assinatura com desconto no primeiro pedido e frete grátis. Os preços de outubro para comparar, Original ou NEO e como o cupom CECI entra.",
+    "metaDescription": "Black Friday Dolce Gusto 2026 já começou: Mini Me e Genio S com 30 cápsulas, ofertas novas todo dia e assinatura com desconto. Preços e o cupom CECI.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dolcegusto/black-friday-dolce-gusto-cecilia-cafezal.webp",
@@ -54763,71 +54764,69 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "imageAspect": "landscape",
     "pros": [
-      "Em 2023 e 2024, a campanha da loja oficial durou novembro inteiro, com ofertas diárias",
-      "Em outubro de 2026, as Genio S já custavam menos que na Black Friday de 2024",
+      "A campanha já está no ar, com promoções novas todos os dias",
+      "Mini Me 2.0 e Genio S abaixo do preço de outubro, com 30 cápsulas e 10 vezes sem juros",
       "O cupom CECI dá 10% OFF a partir de R$ 100",
       "Máquinas de Outlet têm a mesma garantia das novas"
     ],
     "cons": [
       "Se o CECI soma com a promoção do dia depende da campanha",
       "As promoções acabam sem aviso, mesmo com o item no carrinho",
-      "Nenhuma promoção soma com o resgate de pontos do Club",
+      "A oferta do dia não soma com combo de máquina, combo de bebidas nem resgate de pontos",
       "Cápsulas NEO e Original não servem uma na máquina da outra"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: Black Friday Dolce Gusto 2026",
         "paragraphs": [
-          "A NESCAFÉ Dolce Gusto ainda não anunciou a Black Friday de 2026, que cai em 27 de novembro. Nos últimos anos a loja oficial fez ofertas no mês inteiro. O cupom CECI dá 10% OFF, e a tabela de preços de outubro, mais abaixo, serve de régua para novembro."
+          "A Black Friday da NESCAFÉ Dolce Gusto já começou, com promoções novas todos os dias, Mini Me 2.0 e Genio S com 30 cápsulas e assinatura com desconto no primeiro pedido. O grande dia é 27 de novembro. O cupom CECI dá 10% OFF; se ele soma com a oferta do dia, o carrinho mostra antes de pagar."
         ]
       },
       {
-        "heading": "Quando começa a Black Friday da Dolce Gusto",
+        "heading": "O que já está no ar na Black Friday da Dolce Gusto",
         "paragraphs": [
-          "A NESCAFÉ Dolce Gusto costuma anunciar a Black Friday perto da virada para novembro, pela Nestlé Brasil. Em 2023, a campanha valeu o mês inteiro no site oficial, com uma oferta diferente a cada dia. Em 2024, as promoções foram de 1º a 30 de novembro, com \"descontos que vão até 50%\", anunciou a Nestlé.",
-          "Para 2026, a Nestlé ainda não anunciou nada. Se o padrão se repetir, as ofertas começam em 1º de novembro, mas isso é o histórico, não uma promessa da loja.",
-          "De 2025, sem comunicado oficial da Nestlé, este guia usa 2023 e 2024 como referência."
+          "\"Começou a Black\", diz a home do site oficial, com a promessa de promoções novas todos os dias. Como em 2023 e 2024, quando a Nestlé anunciou ofertas diárias durante novembro inteiro, a campanha ocupa o mês; o grande dia é a sexta-feira 27 de novembro, e a Cyber Monday vem na segunda seguinte.",
+          "Nas máquinas, os banners trazem a Mini Me 2.0 e as duas Genio S com 30 cápsulas e 10 vezes sem juros, já abaixo do que o site cobrava em outubro:"
         ],
         "comparisonTable": {
-          "caption": "Ofertas anunciadas pela Nestlé Brasil nos releases da Black Friday de 2023 e de 2024. Os preços são \"a partir de\" e valiam só no site oficial.",
+          "caption": "Máquinas nos banners da Black Friday do site oficial, com 30 cápsulas e 10 vezes sem juros, ao lado do preço cheio e do preço de outubro. As ofertas mudam sem aviso.",
           "headers": [
-            "",
-            "Black Friday 2023",
-            "Black Friday 2024"
+            "Máquina",
+            "Preço cheio",
+            "Em outubro",
+            "Na Black Friday"
           ],
           "rows": [
             [
-              "Período",
-              "Novembro inteiro, uma oferta por dia",
-              "1º a 30 de novembro, ofertas diárias"
+              "Mini Me 2.0",
+              "R$ 599,90",
+              "R$ 429,90 a R$ 449,90, conforme a cor",
+              "R$ 369,90, com 30 cápsulas"
             ],
             [
-              "Caixas de cápsulas",
-              "A partir de R$ 12,90",
-              "Bebidas a partir de R$ 13,90"
+              "Genio S Basic",
+              "R$ 679,90",
+              "R$ 479,90",
+              "R$ 409,90, com 30 cápsulas"
             ],
             [
-              "DGusta, por cápsula",
-              "A partir de R$ 1,29",
-              "A partir de R$ 1,39"
-            ],
-            [
-              "Máquinas Original",
-              "30 cápsulas grátis na Mini Me, Genio S Basic, Genio S Plus e Infiníssima Touch",
-              "Mini Me a partir de R$ 399,90; Genio S Basic, R$ 499,90; Genio S Plus, R$ 599,90; Genio Touch, R$ 699,90"
-            ],
-            [
-              "Linha NEO",
-              "30 cápsulas grátis na máquina NEO até 17/11 e até 20% OFF em cafés",
-              "Cafés a partir de R$ 19,90; máquinas entre R$ 399 e R$ 449"
+              "Genio S Plus",
+              "R$ 779,90",
+              "R$ 589,90",
+              "R$ 499,90, com 30 cápsulas"
             ]
           ]
-        }
+        },
+        "postParagraphs": [
+          "Nas bebidas, a campanha funciona por oferta do dia: na que lemos, a caixa de Mochaccino caía de R$ 25,90 para R$ 15,90. Fora dela, os banners traziam 25% OFF nos cafés Lungos NEO, até 25% OFF em acessórios, frete grátis acima de R$ 100 e uma Mini Me vermelha de brinde na compra de 80 caixas de bebidas.",
+          "A assinatura entrou na campanha com desconto em todas as bebidas no primeiro pedido, 35% OFF num banner e 30% OFF noutro, com \"benefícios garantidos até janeiro\", e frete grátis em todos os pedidos. A conta vale para quem toma café todo dia; o desconto maior é só na primeira entrega.",
+          "Pelo regulamento do site, as ofertas diárias valem só no site oficial, enquanto durarem os estoques, e não são cumulativas com combo com máquinas, combo de bebidas e resgate de pontos. Essa é a regra da oferta; a do cupom está no capítulo do CECI."
+        ]
       },
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "O jeito mais seguro de saber se a oferta de novembro é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 8 de outubro de 2026, ao lado dos anunciados pela Nestlé na Black Friday de 2024:"
+          "O jeito mais seguro de saber se a oferta do dia é boa é ter o preço de antes. Estes são os preços que o site oficial mostrava em 8 de outubro de 2026, ao lado dos anunciados pela Nestlé na Black Friday de 2024:"
         ],
         "image": {
           "src": "/images/reviews/dolcegusto/dolce-gusto-original-e-neo-oficial.webp",
@@ -54890,8 +54889,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A tabela mostra duas coisas. Nas máquinas Genio S, o preço de outubro já estava um pouco abaixo do anunciado na Black Friday de 2024. Nas cápsulas foi o contrário: a régua de 2024 segue bem abaixo das promoções de outubro.",
-          "Se você está de olho numa máquina, compare o preço de novembro com esta tabela antes de concluir que a Black Friday compensa. Se o plano é encher a despensa de cápsulas, os preços de 2024 dão uma boa régua para avaliar a campanha deste ano."
+          "A tabela mostra duas coisas. Nas máquinas, a Black Friday deste ano já bateu as duas réguas: a Mini Me 2.0 e as Genio S estão abaixo de outubro e abaixo do anunciado em 2024, e ainda com 30 cápsulas. Nas cápsulas, a régua de 2024 segue bem abaixo das promoções de outubro: é nela que vale medir a oferta do dia.",
+          "Se o plano é encher a despensa, espere a oferta do dia da bebida que você toma e compare com as duas colunas antes de fechar."
         ]
       },
       {
@@ -54946,7 +54945,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como não cair em desconto falso",
         "bullets": [
           "**Compare com a tabela de outubro.** O preço riscado no site é o cheio, que quase ninguém paga: em outubro, a Genio S Basic já estava R$ 200 abaixo dele.",
-          "**Some o frete.** Em outubro, as promoções davam frete grátis em bebidas acima de R$ 50 ou de R$ 100, conforme a semana, e algumas deixavam os pedidos com máquina de fora.",
+          "**Some o frete.** O banner da Black Friday dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos; o carrinho mostra se o seu pedido entrou.",
           "**Confira o sistema.** Cápsula NEO não serve em máquina Original sem o adaptador, e cápsula Original não serve em máquina NEO.",
           "**Escolha a voltagem com calma.** No combo da Mini Me, ela é escolhida no carrinho e não pode ser trocada depois.",
           "**Compre no site oficial.** As promoções anunciadas pela Nestlé valem em nescafe-dolcegusto.com.br.",
@@ -54956,18 +54955,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa a Black Friday da Dolce Gusto? Em 2023 e 2024, as ofertas da loja oficial começaram no início de novembro e foram até o fim do mês. Para 2026, a Nestlé ainda não anunciou a campanha.",
-          "Quando é a Black Friday de 2026? Na última sexta-feira de novembro, e a Cyber Monday cai na segunda seguinte.",
-          "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Compare antes: em outubro, a Genio S Basic já saía por menos que o anunciado na Black Friday de 2024, como mostra a tabela acima.",
+          "Quando começa e quanto dura a Black Friday da Dolce Gusto? Já começou no site oficial, com promoções novas todos os dias, e o grande dia é a última sexta-feira de novembro, dia 27. Nos dois anos anteriores, a campanha da Nestlé durou o mês inteiro.",
+          "Quais máquinas estão em oferta na Black Friday da Dolce Gusto? Nos banners, a Mini Me 2.0 a R$ 369,90, a Genio S Basic a R$ 409,90 e a Genio S Plus a R$ 499,90, todas com 30 cápsulas e em 10 vezes sem juros, abaixo do preço de outubro e do anunciado na Black Friday passada.",
+          "Vale a pena comprar cafeteira Dolce Gusto na Black Friday? Nas máquinas, vale: a Mini Me 2.0 e as Genio S estão abaixo de outubro e ainda vêm com 30 cápsulas. Nas cápsulas, compare a oferta do dia com a régua de 2024 da tabela antes de fechar.",
           "Tem cupom Dolce Gusto para a Black Friday? O CECI dá 10% OFF em compras a partir de R$ 100 na loja oficial. Se ele soma com a oferta do dia, o carrinho mostra antes de pagar.",
           "As cápsulas Dolce Gusto ficam mais baratas na Black Friday? Em 2024, a Nestlé anunciou caixas a partir de R$ 13,90 e DGusta a partir de R$ 1,39 a cápsula; em outubro, as promoções partiam de R$ 17,90 e R$ 1,79.",
           "Cápsula NEO serve na Mini Me ou na Genio S? Não. NEO e Original são sistemas diferentes; com o Adaptador NEO Start, a máquina Original aceita cinco cafés NEO.",
-          "A Black Friday da Dolce Gusto tem frete grátis? Depende da promoção: veja no capítulo Como não cair em desconto falso se o seu pedido entra no frete grátis."
+          "A Black Friday da Dolce Gusto tem frete grátis? Tem: o banner da campanha dá frete grátis acima de R$ 100, e a assinatura, em todos os pedidos. O carrinho mostra se o seu pedido entrou.",
+          "A oferta do dia da Dolce Gusto soma com outras promoções? Não com combo de máquina, combo de bebidas nem resgate de pontos, pelo regulamento do site. Se soma com o cupom CECI, o carrinho mostra antes de pagar."
         ]
       }
     ],
     "cta": {
-      "text": "Quando a Black Friday começar, confira as ofertas no site oficial e aplique o cupom CECI no carrinho para ver se os 10% somam com a promoção do dia.",
+      "text": "A Black Friday já está no ar: confira a oferta do dia no site oficial e aplique o cupom CECI no carrinho para ver se os 10% somam com ela.",
       "label": "Ir para a loja oficial Dolce Gusto",
       "url": "https://www.nescafe-dolcegusto.com.br/",
       "sponsored": true
@@ -54995,8 +54995,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 331,
     "slug": "black-friday-damie",
-    "title": "Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12",
-    "seoTitle": "Black Friday DAMIE 2026: poltrona reclinável com desconto",
+    "title": "Black Friday DAMIE 2026: já começou, com poltrona reclinável com 3 presentes, frete grátis e o cupom CECILIA12",
+    "seoTitle": "Black Friday DAMIE 2026: poltrona com 3 presentes e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -55007,11 +55007,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a DAMIE oferecia em outubro de 2026, os preços das poltronas reclináveis, da Levita, da Aurora, do sofá modular e da Poltrona Cinema para comparar na Black Friday, como os descontos se somam com o cupom CECILIA12 e o prazo de entrega.",
-    "metaDescription": "Black Friday DAMIE 2026: preços de outubro das poltronas reclináveis e do sofá modular para comparar, desconto no Pix, brindes e o cupom CECILIA12.",
+    "description": "A Black Friday da DAMIE já está no ar, até 27/11: poltrona reclinável com 3 presentes e frete grátis no Esquenta Black. Os preços de outubro das reclináveis, da Levita, da Aurora, do sofá modular e da Poltrona Cinema para comparar, como os descontos se somam com o cupom CECILIA12 e o prazo de entrega.",
+    "metaDescription": "Black Friday DAMIE 2026 já começou, até 27/11: poltrona com 3 presentes e frete grátis. Preços de outubro para comparar, Pix e o cupom CECILIA12.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
@@ -55034,7 +55034,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday DAMIE 2026",
         "paragraphs": [
-          "A DAMIE já mostra as ofertas de Black Friday de 2026, válidas até 27 de novembro, com brindes na compra de poltrona e desconto por quantidade. O cupom CECILIA12 dá 12% OFF no site e soma com essas promoções. O que pesa é comparar com o preço de outubro, porque parte do desconto já existia; veja a tabela abaixo."
+          "A Black Friday da DAMIE já começou: o Esquenta Black dá três presentes na compra de poltrona e frete grátis, até 27 de novembro, enquanto durarem os estoques. O cupom CECILIA12 dá 12% OFF e soma com as promoções e com o Pix. O que pesa é comparar com o preço de outubro, porque parte do desconto já existia."
         ]
       },
       {
@@ -55049,7 +55049,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a DAMIE anunciou para a Black Friday 2026",
         "paragraphs": [
-          "A campanha vale só até o dia da Black Friday: o site abria com a faixa \"A Black Friday chegou antes\", e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) listava as condições. A Cyber Monday fica depois desse prazo.",
+          "A campanha vale até o dia da Black Friday, enquanto durarem os estoques: o site abre com as faixas \"A Black Friday chegou antes\" e \"Esquenta Black\", que promete a poltrona com três presentes e frete grátis, e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) lista as condições. A Cyber Monday fica depois desse prazo.",
           "Os preços de venda das poltronas, do sofá e da Poltrona Cinema eram os mesmos de antes da campanha. Por isso, o desconto de R$ 1.000 nas poltronas não é novo: é o que já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
         ],
         "bullets": [
@@ -55294,8 +55294,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando é a Black Friday da DAMIE? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda-feira seguinte. A DAMIE já mostrava as ofertas da campanha no site, válidas até a Black Friday.",
-          "A DAMIE tem Black Friday? Tem em 2026: a página de ofertas da loja trazia brindes na compra de poltrona, R$ 1.000 de desconto nas poltronas e desconto por quantidade, até a Black Friday.",
+          "Quando começa e quanto dura a Black Friday da DAMIE? Já começou: o Esquenta Black, com a poltrona com três presentes e frete grátis, vale até a última sexta-feira de novembro, que é a Black Friday, enquanto durarem os estoques. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
+          "A DAMIE tem Black Friday? Tem em 2026: a página de ofertas da loja traz brindes na compra de poltrona, R$ 1.000 de desconto nas poltronas e desconto por quantidade, até a Black Friday.",
           "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Antes da campanha, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
           "Qual o preço da poltrona DAMIE? Antes da campanha, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
           "Tem cupom DAMIE para a Black Friday? O CECILIA12 dá 12% OFF em todos os produtos do site da DAMIE, com todas as formas de pagamento e sem limite de usos por CPF, e soma com as promoções, os brindes e o desconto do Pix. Só não soma com outro cupom nem com o giftback.",
@@ -55306,7 +55306,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Quando a Black Friday começar, monte a sua poltrona no site da DAMIE e aplique o cupom CECILIA12 no carrinho: os 12% somam com a promoção do momento.",
+      "text": "A Black Friday da DAMIE já está no ar: monte a sua poltrona no site e aplique o cupom CECILIA12 no carrinho. Os 12% somam com a promoção do momento.",
       "label": "Ver o cupom CECILIA12 e ir para a DAMIE",
       "url": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=black-friday-damie-cta",
       "sponsored": true
@@ -55333,8 +55333,8 @@ export const reviewsData: unknown[] = [
     "id": 332,
     "slug": "black-friday-letseatit",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto",
-    "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e mesa posta",
+    "title": "Black Friday Let's Eat It 2026: já começou, com Porto Brasil até 60% OFF, La Maison até 70% e a Le Creuset para comparar",
+    "seoTitle": "Black Friday Let's Eat It 2026: Le Creuset e Porto Brasil",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -55345,10 +55345,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a Let's Eat It oferecia em outubro de 2026, os preços de Le Creuset e Porto Brasil para comparar na Black Friday, como Pix, cashback e cupom se somam e até quando pedir para o presente chegar antes do Natal.",
-    "metaDescription": "Black Friday Let's Eat It 2026: preços de outubro de Le Creuset e Porto Brasil para comparar, cashback de 30%, Pix, cupom e prazo para chegar no Natal.",
+    "description": "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70% e peças de Natal de 20% a 60%. A Le Creuset sem desconto lido, os preços de outubro para comparar, como Pix, cashback e cupom MAUAD se somam e até quando pedir para chegar antes do Natal.",
+    "metaDescription": "Black Friday Let's Eat It 2026 já começou: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%. Le Creuset sem desconto lido, Pix e cupom.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/black-friday-letseatit-capa-discover.webp",
@@ -55358,11 +55359,11 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Em outubro de 2026, quase toda a Porto Brasil já estava com 40% OFF",
       "5% de desconto no Pix, que soma com o cupom MAUAD",
-      "Cashback de 30% em cupom para a compra seguinte",
+      "Cashback em cupom para a compra seguinte: 15% na faixa da Black Friday",
       "30 dias para trocar ou devolver, com etiqueta paga pela loja"
     ],
     "cons": [
-      "A maior parte da Le Creuset estava pelo preço cheio em outubro",
+      "Na Black Friday, não lemos nenhuma Le Creuset com desconto; em outubro, quase toda a marca estava pelo preço cheio",
       "Não há frete grátis na compra",
       "O cashback só vale numa compra de 7 vezes o valor do cupom",
       "Os prazos de entrega podem mudar em períodos promocionais"
@@ -55371,15 +55372,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Let's Eat It 2026",
         "paragraphs": [
-          "A Let's Eat It ainda não anunciou Black Friday, que em 2026 é em 27 de novembro, mas a coleção Natal Let's já tem descontos. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF em todo o site e soma com o Pix. O que pesa é a Le Creuset, quase toda a preço cheio; veja abaixo."
+          "A Black Friday da Let's Eat It já está no ar: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%; o dia da Black Friday é 27 de novembro. Na Le Creuset, não lemos nenhuma peça com desconto. Com o [cupom Let's Eat It](/cupons/letseatit), o MAUAD dá 5% OFF e soma com o Pix."
         ]
       },
       {
         "heading": "A Let's Eat It tem Black Friday?",
         "paragraphs": [
-          "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "Em outubro, a loja já oferecia a coleção Natal Let's, com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado.",
-          "Se a campanha sair depois desta leitura, compare as condições novas com as tabelas de outubro deste guia."
+          "Tem, e já começou. A home traz a coleção \"Best Sellers - Black Friday\" e anuncia a La Maison com até 70% OFF, a Porto Brasil com até 60% OFF e as peças de Natal de 20% a 60% de desconto, mais 15% de cashback e 5% no Pix. A loja não publica até quando a campanha vale.",
+          "O \"até\" é o teto de cada marca: o desconto da peça é o que a página dela mostra. Em outubro, antes da campanha, a loja já oferecia a coleção Natal Let's com 40% de desconto na maior parte das peças; a Porto Brasil com \"até 60% OFF\"; uma seleção de Le Creuset com desconto; e o Outlet's, com cerca de 750 produtos, a maioria entre 40% e 60% abaixo do preço riscado. Ou seja, o selo da Porto Brasil é o mesmo de outubro, e só o preço do dia diz se há desconto novo. As tabelas abaixo são a régua.",
+          "Não encontramos anúncio oficial de Black Friday da Let's Eat It em anos anteriores. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia."
         ],
         "image": {
           "src": "/images/reviews/letseatit/black-friday-letseatit-loja-natal.webp",
@@ -55392,7 +55393,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le Creuset na Black Friday: preços de outubro para comparar",
         "paragraphs": [
-          "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas."
+          "Na Black Friday, a Le Creuset aparece só no menu da coleção Best Sellers - Black Friday: na leitura da campanha, não encontramos nenhuma peça da marca com desconto. Quem procura \"black friday le creuset\" na Let's Eat It compara, por enquanto, com o preço cheio.",
+          "Em outubro, a Le Creuset na Let's Eat It estava quase toda pelo preço cheio, que é o mesmo na maioria das cores de cada modelo. O desconto aparecia só numa seleção de peças, quase sempre numa cor específica, e muitas delas estavam esgotadas. É essa a tabela de referência."
         ],
         "image": {
           "src": "/images/reviews/letseatit/le-creuset-redonda-signature-cotton.webp",
@@ -55452,7 +55454,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na Le Creuset, a régua é simples: em outubro, quase tudo estava pelo preço cheio. Se em novembro o preço do dia ficar abaixo desta tabela, o desconto é de verdade. Se o preço riscado subir, compare com a tabela, não com o riscado.",
+          "Na Le Creuset, a régua é simples: em outubro, quase tudo estava pelo preço cheio. Se durante a campanha o preço do dia ficar abaixo desta tabela, o desconto é de verdade. Se o preço riscado subir, compare com a tabela, não com o riscado.",
           "A Let's Eat It aparece no localizador de lojas do site oficial da Le Creuset Brasil."
         ],
         "links": [
@@ -55465,7 +55467,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Porto Brasil e mesa posta: preços de outubro",
         "paragraphs": [
-          "Na Porto Brasil, o desconto já estava no catálogo inteiro em outubro: das 174 peças da marca na loja, 150 apareciam com 40% OFF e 21 com 60%. Por isso, um \"até 60% OFF\" em novembro só é vantagem se o preço do dia ficar abaixo do de outubro."
+          "Na Porto Brasil, o desconto já estava no catálogo inteiro em outubro: das 174 peças da marca na loja, 150 apareciam com 40% OFF e 21 com 60%. A Black Friday anuncia o mesmo \"até 60% OFF\", então o selo só é vantagem se o preço do dia ficar abaixo do de outubro."
         ],
         "image": {
           "src": "/images/reviews/letseatit/porto-brasil-stoneware-bio-latte-v2.webp",
@@ -55510,15 +55512,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o aparelho de jantar de 30 peças a R$ 868 em outubro, é esse o número a comparar em novembro, e não a porcentagem do selo."
+          "Com o aparelho de jantar de 30 peças a R$ 868 em outubro, é esse o número a comparar na campanha, e não a porcentagem do selo."
         ]
       },
       {
         "heading": "Pix, cashback e cupom: o que soma",
         "bullets": [
           "**Pix:** a página do produto dá 5% de desconto nas compras por Pix.",
-          "**Cashback de 30%:** depois da compra, a loja manda pelo WhatsApp um cupom de 30% do valor, válido por 30 dias. Ele só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 300 pede uma compra de R$ 2.100 e vira cerca de 14% de desconto nela.",
-          "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita a partir de 28 de outubro gera um cashback que ainda vale na Black Friday.",
+          "**Cashback:** a faixa da Black Friday anuncia 15% de cashback; em outubro, a loja anunciava 30%. Pela página do cashback, depois da compra a loja manda pelo WhatsApp um cupom com esse valor, válido por 30 dias, que só entra numa compra de pelo menos 7 vezes o valor do cupom, sem contar o frete (um trecho da mesma página fala em 5 vezes). Na prática, um cashback de R$ 150 pede uma compra de R$ 1.050 e vira cerca de 14% de desconto nela.",
+          "**Cashback na Black Friday:** como o cupom vale 30 dias a partir da compra, uma compra feita agora gera um cashback que ainda vale na sexta da Black Friday.",
           "**Cupom:** o MAUAD dá 5% OFF em todo o site, com todas as formas de pagamento. No nosso teste, ele foi aceito num carrinho com item em promoção e item em pré-venda, e o desconto saiu do subtotal, antes do frete.",
           "**Pix com o cupom:** os dois somam. Na panela Redonda Signature de 20 cm, a R$ 2.329, o MAUAD tira R$ 116,45, e no Pix entram também os 5% da loja: pela nossa conta, aplicando um desconto sobre o outro, ela sai por R$ 2.101,92, sem o frete. O resumo do checkout mostra o valor exato antes de pagar.",
           "**O que não confirmamos:** se o cupom do cashback e o MAUAD entram no mesmo pedido. A página do cashback manda consultar as condições do dia, e o checkout mostra o total antes de pagar.",
@@ -55593,7 +55595,7 @@ export const reviewsData: unknown[] = [
           "**Peça frágil:** a loja embala porcelana, cristal, vidro e cerâmica um a um e repõe de graça o que chegar quebrado. Para isso, ela pede fotos do produto e da embalagem pelo WhatsApp ou e-mail, então fotografe a caixa ao receber.",
           "**Rastreio:** o código chega por WhatsApp e e-mail depois do envio. \"Produto não recebido\" é um dos problemas mais citados no Reclame Aqui da loja: acompanhe o pedido e fale com a loja assim que o prazo passar.",
           "**Pré-venda:** em outubro, várias peças Le Creuset estavam em pré-venda. Se o presente tem data, prefira o que está em estoque.",
-          "**Compare com as tabelas de outubro** antes de se guiar pelo selo de desconto."
+          "**Compare com as tabelas de outubro** antes de se guiar pelo selo de desconto: o \"até 60%\" da Porto Brasil é o mesmo de antes da campanha."
         ],
         "links": [
           {
@@ -55605,20 +55607,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando é a Black Friday da Let's Eat It? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda seguinte. Na nossa leitura de outubro, a Let's Eat It ainda não tinha anunciado campanha.",
-          "Le Creuset fica mais barata na Black Friday? Na Let's Eat It, em outubro, quase toda a Le Creuset estava pelo preço cheio, como a panela Redonda Signature de 20 cm a R$ 2.329. Se em novembro o preço ficar abaixo disso, o desconto é de verdade.",
-          "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores.",
+          "Quando começa e quanto dura a Black Friday da Let's Eat It? Já começou: a home traz a coleção Best Sellers - Black Friday, com Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%. A Black Friday é na última sexta-feira de novembro, e a loja não publica a data de fim da campanha.",
+          "Le Creuset fica mais barata na Black Friday? Na leitura da campanha, nenhuma Le Creuset da Let's Eat It estava com desconto. Em outubro, quase toda a marca estava pelo preço cheio, como a panela Redonda Signature de 20 cm a R$ 2.329: se o preço ficar abaixo disso, o desconto é de verdade.",
+          "Panelas Le Creuset em promoção valem a pena? Compare o preço do dia com o preço cheio da tabela deste guia. Em outubro, as promoções da Let's Eat It eram de 15% a 33% e ficavam numa seleção de peças e cores; na Black Friday, não lemos nenhuma.",
           "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O envio da devolução é que sai por conta da loja.",
           "Tem cupom de primeira compra na Let's Eat It? Use o MAUAD, que dá 5% OFF em todo o site. A loja não divulga outro cupom de boas-vindas.",
           "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, de R$ 2.329 em outubro, sai por R$ 2.101,92, sem o frete.",
-          "O cashback da Let's Eat It vale na Black Friday? Vale se estiver dentro dos 30 dias: uma compra feita até 30 dias antes da Black Friday gera um cupom que ainda vale nela, desde que a nova compra seja de pelo menos 7 vezes o valor do cupom.",
+          "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom vale 30 dias: uma compra feita até 30 dias antes da sexta gera um cupom que ainda vale nela, desde que a nova compra seja de pelo menos 7 vezes o valor do cupom.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
           "Até quando comprar para chegar antes do Natal? Pela nossa conta com o prazo mais longo da loja e um dia útil de folga, a data limite vai de meados de dezembro em São Paulo capital ao começo de dezembro no Norte e no Nordeste; a tabela do guia traz cada região."
         ]
       }
     ],
     "cta": {
-      "text": "Quando a Black Friday começar, compare os preços com as tabelas deste guia e aplique o cupom MAUAD no checkout da Let's Eat It antes de pagar.",
+      "text": "A Black Friday da Let's Eat It já está no ar: compare os preços com as tabelas deste guia e aplique o cupom MAUAD no checkout antes de pagar.",
       "label": "Ir para a Let's Eat It",
       "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
       "sponsored": true
@@ -55645,8 +55647,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 333,
     "slug": "black-friday-i-wanna-sleep",
-    "title": "Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA",
-    "seoTitle": "Black Friday I Wanna Sleep 2026: pillow top e travesseiros",
+    "title": "Black Friday I Wanna Sleep 2026: a loja segue sem campanha, os preços do Pillow Top Magnum e o cupom CECIEMCASA",
+    "seoTitle": "Black Friday I Wanna Sleep 2026: pillow top, cupom e preços",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -55657,10 +55659,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a I Wanna Sleep oferecia em outubro de 2026, os preços do Pillow Top Magnum, de travesseiros e cobertores para comparar na Black Friday, como o cupom soma com o Pix, o teste em casa e até quando pedir para chegar no Natal. Colchões e box são vendidos nas lojas físicas.",
-    "metaDescription": "Black Friday I Wanna Sleep 2026: preços de outubro do Pillow Top Magnum, travesseiros e cobertores, cupom CECIEMCASA com Pix, Sleeptest e prazo para o Natal.",
+    "description": "A I Wanna Sleep ainda não abriu campanha de Black Friday em novembro de 2026. Os preços de outubro do Pillow Top Magnum, de travesseiros e cobertores para comparar, como o cupom CECIEMCASA soma com o Pix, o teste em casa e até quando pedir para chegar no Natal. Colchões e box são vendidos nas lojas físicas.",
+    "metaDescription": "Black Friday I Wanna Sleep 2026: a loja segue sem campanha. Preços de outubro do Pillow Top Magnum e travesseiros, cupom CECIEMCASA com Pix e Natal.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
@@ -55682,15 +55685,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday I Wanna Sleep 2026",
         "paragraphs": [
-          "A I Wanna Sleep ainda não anunciou campanha de Black Friday, que em 2026 é em 27 de novembro. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os preços já reduzidos. O que muda a decisão é o prazo de entrega para o Natal, no capítulo de entrega."
+          "A I Wanna Sleep entrou em novembro sem campanha de Black Friday: a home não traz selo nem data, e o grande dia é 27 de novembro. O [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA dá 10% OFF em todo o site e soma com os preços já reduzidos. O que muda a decisão é o prazo para o Natal."
         ]
       },
       {
         "heading": "A I Wanna Sleep tem Black Friday?",
         "paragraphs": [
-          "Não encontramos campanha oficial de Black Friday da I Wanna Sleep nos últimos anos: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
-          "A loja já oferecia o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
-          "Se a campanha sair depois desta leitura, compare as condições novas com as tabelas de outubro deste guia."
+          "Por enquanto, não: em novembro, a home da I Wanna Sleep segue sem campanha de Black Friday, só com o aviso de frete grátis acima de R$ 150. Também não encontramos campanha oficial nos anos anteriores: a busca do site não traz nada com o termo, e o blog da marca não fala da data. O que aparece na busca são sites de cupom com percentuais que a loja não confirma, e eles ficam fora deste guia.",
+          "O que a loja já fazia em outubro era vender o Pillow Top Magnum, os travesseiros e os cobertores com selo de desconto, e kits como o Pillow Top Magnum + Bao Bao + Igloo, que entrou no site em 6 de outubro.",
+          "Se a campanha sair, compare as condições novas com as tabelas de outubro deste guia: o selo só é vantagem se o preço do dia ficar abaixo delas."
         ]
       },
       {
@@ -55956,7 +55959,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando é a Black Friday da I Wanna Sleep? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda seguinte. Na última conferência, a I Wanna Sleep ainda não tinha anunciado campanha.",
+          "Quando começa e quanto dura a Black Friday da I Wanna Sleep? A loja não abriu campanha: em novembro, a home segue sem selo nem data de Black Friday. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Se a campanha sair, compare com as tabelas de outubro deste guia.",
           "Dá para comprar colchão da I Wanna Sleep pelo site? Não. Os colchões e a base box aparecem no site, mas são vendidos só nas lojas físicas, em Belo Horizonte, com as consultoras do sono. Pelo site, a peça para a cama é o Pillow Top Magnum.",
           "O cupom CECIEMCASA soma com o desconto do Pix? Soma. O CECIEMCASA dá 10% OFF em todo o site, com todas as formas de pagamento, e no Pix entram também os 5% da loja: pela nossa conta, o Pillow Top Magnum casal, de R$ 1.848 na leitura de preços, sai por R$ 1.580,04.",
           "O que é o Sleeptest da I Wanna Sleep? É o teste em casa: 30 dias para o travesseiro e o pillow top e 100 dias para o colchão, com pelo menos 15 dias de uso antes de pedir a troca. No travesseiro e no pillow top, a troca vira crédito na loja.",
@@ -55969,7 +55972,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Quando a Black Friday começar, compare os preços com as tabelas deste guia e aplique o cupom CECIEMCASA no checkout da I Wanna Sleep antes de pagar.",
+      "text": "Com ou sem campanha, compare os preços com as tabelas deste guia e aplique o cupom CECIEMCASA no checkout da I Wanna Sleep antes de pagar.",
       "label": "Ir para a I Wanna Sleep",
       "url": "https://www.iwannasleep.com.br",
       "sponsored": true
@@ -55996,8 +55999,8 @@ export const reviewsData: unknown[] = [
     "id": 334,
     "slug": "black-friday-insider",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA",
-    "seoTitle": "Black Friday Insider 2026: esquenta, preços e cupom",
+    "title": "Black Friday Insider 2026 masculino: até 40% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA",
+    "seoTitle": "Black Friday Insider 2026 masculino: até 40% OFF e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -56008,11 +56011,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O esquenta da Black Friday 2026 da Insider, com o cupom testado em 31 de outubro por cima dos preços da campanha e do Outlet, os preços da Tech T-Shirt, de kits e de underwear para comparar, como o cupom soma com o Pix e o frete grátis, a troca de presente e até quando pedir para chegar no Natal.",
-    "metaDescription": "Black Friday Insider 2026: esquenta no ar, cupom EMCASACOMCECILIA testado em 31/10 com os preços da campanha e do Outlet, Pix, frete e prazo para o Natal.",
+    "description": "A Black Friday da Insider já está no ar, com até 40% OFF e 50% OFF na segunda peça, e o cupom EMCASACOMCECILIA entrou por cima dos preços da campanha e do Outlet no teste de fim de outubro. O guia da linha masculina: os preços da Tech T-Shirt, dos kits e das cuecas para comparar, como o cupom soma com o Pix e o frete grátis, a troca de presente e até quando pedir para chegar no Natal.",
+    "metaDescription": "Black Friday Insider 2026 masculino: até 40% OFF e 2ª peça com 50%. Preços da Tech T-Shirt e das cuecas, e o cupom EMCASACOMCECILIA somando com a campanha.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/black-friday-insider-capa-discover.webp",
@@ -56036,16 +56039,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Insider 2026",
         "paragraphs": [
-          "A Black Friday está chegando, e a Insider já está no esquenta, em janelas curtas que mudam a cada dia. O cupom EMCASACOMCECILIA dá 15% OFF por cima dos preços da campanha e do Outlet; o que muda a conta é a regra de cada promoção, explicada em \"o que soma\"."
+          "A Black Friday da Insider já está no ar, com até 40% OFF e 50% OFF na segunda peça, em janelas curtas até o grande dia, 27 de novembro. Este guia cobre a linha masculina: Tech T-Shirt, kits e cuecas. O cupom EMCASACOMCECILIA dá 15% OFF e, no teste de fim de outubro, entrou por cima dos preços da campanha."
         ]
       },
       {
-        "heading": "Quando começa a Black Friday da Insider?",
+        "heading": "Quando começa e até quando vai a Black Friday da Insider?",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. A Insider já abriu a coleção Black Friday Insider 2026: em outubro, ela tinha 129 produtos e uma chamada com brindes, desconto no Pix e \"até 40% OFF\", sem datas de início e fim.",
-          "A coleção convida a aproveitar \"antes de todo mundo\", mas a loja não publicou datas de início e fim nem o que muda perto da Black Friday.",
-          "Enquanto isso, ela faz promoções curtas, cada uma com regra própria. Uma delas dava R$ 100 OFF em itens selecionados, aplicados automaticamente, e avisava na página do produto que esse desconto não somava com cupons; nos outros produtos do carrinho, o cupom continuava valendo.",
-          "No fim de outubro, a loja abriu o esquenta da Black Friday em janelas curtas, com um \"último dia\" anunciado para 2 de novembro. Na leitura mais recente, a home trazia frete grátis em qualquer pedido, +2% OFF no Pix e brindes cumulativos: meias a partir de R$ 399, underwear a partir de R$ 599 e boné ou sutiã a partir de R$ 799. As condições mudam de uma janela para a outra; confira a home da loja no dia da compra.",
+          "A linha feminina está em [Black Friday Insider feminino](/reviews/black-friday-insider-feminino), com as camisetas, as calcinhas e o Outlet feminino. Aqui ficam as peças masculinas.",
+          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, em 30 de novembro. A Insider abriu a coleção Black Friday Insider 2026 ainda em outubro, com 129 produtos e uma chamada de \"até 40% OFF\", e agora a página da campanha anuncia até 40% OFF e 50% OFF na segunda peça, sem data de fim publicada.",
+          "A campanha anda em janelas curtas, cada uma com regra própria. Uma delas dava R$ 100 OFF em itens selecionados, aplicados automaticamente, e avisava na página do produto que esse desconto não somava com cupons; nos outros produtos do carrinho, o cupom continuava valendo.",
+          "A janela de fim de outubro trouxe frete grátis em qualquer pedido, +2% OFF no Pix e brindes cumulativos: meias a partir de R$ 399, underwear a partir de R$ 599 e boné ou sutiã a partir de R$ 799. As condições mudam de uma janela para a outra; confira a home da loja no dia da compra.",
           "Nos anos anteriores, a campanha mudou de nome. Em 2024, foi a \"Loucos por conforto\", com a Narcisa Tamborindeguy, segundo reportagem do site Nosso Meio, com declarações do CEO da marca. Percentuais de anos anteriores publicados por sites de cupom ficam fora deste guia, porque a loja não os confirma."
         ],
         "image": {
@@ -56059,7 +56062,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech T-Shirt e kits: preços de outubro",
         "paragraphs": [
-          "A Tech T-Shirt, a camiseta mais conhecida da marca, já estava R$ 40 abaixo do preço riscado em outubro, nas versões masculina, feminina e gola V."
+          "A Tech T-Shirt, a camiseta mais conhecida da marca, já estava R$ 40 abaixo do preço riscado em outubro, na gola U, na gola V e na manga longa."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
@@ -56078,11 +56081,6 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Tech T-Shirt, gola U masculina",
-              "R$ 169",
-              "R$ 129"
-            ],
-            [
-              "Tech T-Shirt Feminina",
               "R$ 169",
               "R$ 129"
             ],
@@ -56114,14 +56112,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Compare o kit com a peça avulsa: no preço de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. Na leitura mais recente, o kit de três mais barato estava a R$ 356, abaixo das três avulsas, e a Tech T-Shirt Gola V saía a R$ 119 na promoção do dia; a conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa). Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
+          "Compare o kit com a peça avulsa: no preço de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas, e a Tech T-Shirt Gola V saía a R$ 119 na promoção do dia; a conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa). Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
           "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela."
         ]
       },
       {
-        "heading": "Cuecas e calcinhas: preços de outubro",
+        "heading": "Cuecas: preços de outubro",
         "paragraphs": [
-          "No underwear, os kits saíam mais baratos por peça que as avulsas em outubro."
+          "Nas cuecas, os kits saíam mais baratos por peça que as avulsas em outubro."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
@@ -56130,7 +56128,7 @@ export const reviewsData: unknown[] = [
           "objectFit": "square"
         },
         "comparisonTable": {
-          "caption": "Underwear na Insider, na mesma leitura: preço riscado na página e preço do dia, antes do cupom e do Pix.",
+          "caption": "Cuecas na Insider, na mesma leitura: preço riscado na página e preço do dia, antes do cupom e do Pix.",
           "headers": [
             "Produto",
             "Preço riscado",
@@ -56156,33 +56154,23 @@ export const reviewsData: unknown[] = [
               "Cueca Boxer Performance",
               "R$ 95",
               "R$ 89"
-            ],
-            [
-              "Calcinha Biquíni Brief",
-              "R$ 69",
-              "R$ 49"
-            ],
-            [
-              "Kit 3 calcinhas Brief",
-              "R$ 207",
-              "R$ 139,90"
             ]
           ]
         },
         "postParagraphs": [
-          "Cuecas e calcinhas só têm troca por defeito, por higiene. Antes de comprar um kit, confira o guia de medidas na página do produto."
+          "Cuecas só têm troca por defeito, por higiene. Antes de comprar um kit, confira o guia de medidas na página do produto. A conta por peça de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa)."
         ]
       },
       {
         "heading": "Cupom, Pix e frete grátis: o que soma",
         "bullets": [
           "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
-          "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65; a Calça Pantalona InLounge do Outlet, de R$ 299 por R$ 179, saiu por R$ 152,15. A loja aceita um cupom por pedido e também oferece cupons da própria campanha: compare os 15% com o cupom da campanha da própria Insider antes de fechar o pedido.",
+          "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido e também oferece cupons da própria campanha: compare os 15% com o cupom da campanha da própria Insider antes de fechar o pedido.",
           "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
           "**Lançamentos:** nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, mesmo com a etiqueta de lançamento, o desconto entra: no nosso teste, a Tech T-Shirt recebeu os 15%. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
-          "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; na leitura mais recente, a barra dizia +2% OFF no Pix. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
+          "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; no fim de outubro, a barra dizia +2% OFF no Pix. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
           "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
-          "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas do esquenta, como a mais recente, o frete foi grátis em qualquer pedido.",
+          "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
           "**Exemplo:** quatro Tech T-Shirts e duas cuecas Comfort somavam R$ 674 em outubro. O cupom tira R$ 101,10, e o pedido fica em R$ 572,90, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar."
         ],
         "links": [
@@ -56304,13 +56292,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa a Black Friday da Insider? A Black Friday de 2026 é na última sexta-feira de novembro, mas a Insider abriu a coleção Black Friday Insider 2026 antes: em outubro, ela já estava no site, sem datas de início e fim.",
+          "Quando começa e quanto dura a Black Friday da Insider? Já começou: a página da campanha anuncia até 40% OFF e 50% OFF na segunda peça, em janelas curtas que mudam ao longo de novembro, até a última sexta-feira do mês, dia 27, e a Cyber Monday, na segunda seguinte. A loja não publicou data de fim.",
           "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
-          "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e a Calça Pantalona InLounge do Outlet, a R$ 179, por R$ 152,15. A loja aceita um cupom por pedido: compare os 15% com o cupom da campanha da própria Insider.",
+          "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e no Outlet o desconto entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare os 15% com o cupom da campanha da própria Insider.",
           "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
-          "O kit de Tech T-Shirt compensa? Depende do dia e do kit. No preço de outubro, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas. Nos kits de cueca, de calcinha e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
+          "O kit de Tech T-Shirt compensa? Depende do dia e do kit. No preço de outubro, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas. Nos kits de cueca e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
           "A Insider tem desconto no Pix? Tem: em outubro, a loja anunciava desconto no Pix, que soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners, então confira no checkout. No fim de outubro, a barra do site dizia +2%.",
-          "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas do esquenta, como a mais recente, o frete foi grátis em qualquer pedido.",
+          "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
           "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Underwear e moda praia só têm troca por defeito.",
           "O cupom vale na loja física da Insider? Não. Cupons e cashback valem só no site, e pedidos do site não podem ser retirados nem trocados na Concept Store do MorumbiShopping.",
           "Até quando comprar para chegar antes do Natal? Pela nossa conta com os prazos do frete grátis que o carrinho mostrou em outubro e um dia útil de folga, a data limite varia por capital: a tabela da seção Entrega e prazo para o Natal traz o dia de cada uma, de meados de dezembro em São Paulo ao fim de novembro em Manaus."
@@ -56328,6 +56316,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
     "relatedArticles": [
       {
+        "slug": "black-friday-insider-feminino",
+        "title": "Black Friday Insider 2026 feminino: até 40% OFF, camisetas, calcinhas e o cupom EMCASACOMCECILIA"
+      },
+      {
         "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
         "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
       },
@@ -56342,11 +56334,11 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
+    "id": 779,
+    "slug": "black-friday-insider-feminino",
     "bodyDatesReason": "campanha",
-    "id": 335,
-    "slug": "black-friday-nestle-nutre",
-    "title": "Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre",
-    "seoTitle": "Black Friday Nutren Senior 2026: preços e cupom CECI",
+    "title": "Black Friday Insider 2026 feminino: até 40% OFF, camisetas, calcinhas e o cupom EMCASACOMCECILIA",
+    "seoTitle": "Black Friday Insider 2026 feminino: até 40% OFF e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -56357,10 +56349,315 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a Nestlé Nutre oferecia em outubro de 2026, os preços do Nutren Senior, do Just Protein e de outros produtos para adultos para comparar na Black Friday, assinatura ou compra única com o cupom CECI, o frete grátis e até quando pedir para chegar no Natal.",
-    "metaDescription": "Black Friday Nutren 2026: preços de outubro do Nutren Senior 740 g e do Just Protein, cupom CECI, assinatura, frete grátis e prazo para o Natal.",
+    "description": "A Black Friday da Insider já está no ar, com até 40% OFF e 50% OFF na segunda peça. O guia da linha feminina: os preços de outubro da Tech T-Shirt feminina, da Gola V, da Manga Longa e dos kits, as calcinhas e os sutiãs do Outlet, o cupom EMCASACOMCECILIA que entrou por cima da campanha no teste, o Pix, a troca de presente e o prazo para o Natal.",
+    "metaDescription": "Black Friday Insider 2026 feminino: até 40% OFF e 2ª peça com 50%. Preços da Tech feminina, calcinhas e sutiãs, e o cupom EMCASACOMCECILIA na campanha.",
+    "publishedAt": "3 de novembro de 2026",
+    "publishedAtISO": "2026-11-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/black-friday-insider-feminino-capa.webp",
+    "imageAlt": "Camisetas femininas da Insider nas cores vinho, preta e verde vestidas por modelos, em fotos oficiais da loja, com o logo e o título Black Friday Insider feminino",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [
+      "No teste de fim de outubro, o cupom EMCASACOMCECILIA entrou por cima dos preços da campanha e do Outlet",
+      "A Tech T-Shirt feminina já estava a R$ 129 em outubro, R$ 40 abaixo do preço riscado",
+      "O cupom EMCASACOMCECILIA dá 15% OFF e soma com o desconto do Pix",
+      "Frete grátis a partir de R$ 399 e troca grátis",
+      "Troca de presente sem nota fiscal, com vale-troca"
+    ],
+    "cons": [
+      "Cada janela da campanha tem regra própria, e algumas promoções não somam com cupom",
+      "O cupom não vale na loja física e pode não entrar nos primeiros dias de um lançamento",
+      "Calcinhas, sutiãs e moda praia só têm troca por defeito",
+      "O Outlet não repõe: quando o tamanho acaba, acabou"
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: Black Friday Insider feminino",
+        "paragraphs": [
+          "A Black Friday da Insider já está no ar, com até 40% OFF e 50% OFF na segunda peça, em janelas curtas até o grande dia, 27 de novembro. Este guia cobre a linha feminina: camisetas, calcinhas, sutiãs e Outlet. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF e, no teste de fim de outubro, entrou por cima da campanha."
+        ]
+      },
+      {
+        "heading": "Quando começa e até quando vai a Black Friday da Insider?",
+        "paragraphs": [
+          "A Black Friday de 2026 cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A Insider abriu a coleção Black Friday Insider 2026 ainda em outubro, com 129 produtos e a chamada de \"até 40% OFF\"; agora a página da campanha anuncia até 40% OFF e 50% OFF na segunda peça, sem data de fim publicada.",
+          "A campanha anda em janelas curtas, cada uma com regra própria. Uma delas dava R$ 100 OFF em itens selecionados, aplicados sozinhos no carrinho, e avisava na página do produto que esse desconto não somava com cupons; nos outros itens do pedido, o cupom seguia valendo. A janela de fim de outubro trouxe frete grátis em qualquer pedido, +2% OFF no Pix e brindes por faixa de valor: meias a partir de R$ 399, underwear a partir de R$ 599 e boné ou sutiã a partir de R$ 799. Confira a home da loja no dia da compra, porque as condições trocam de uma janela para a outra.",
+          "As peças masculinas, com a Tech T-Shirt gola U, os kits e as cuecas, estão em [Black Friday Insider masculino](/reviews/black-friday-insider)."
+        ]
+      },
+      {
+        "heading": "Camisetas femininas: preços para comparar",
+        "paragraphs": [
+          "A régua para saber se um selo de novembro é desconto de verdade é o preço que a loja já praticava antes. Os valores abaixo são da leitura de 30 de outubro de 2026 no catálogo da Insider, no cartão, antes do cupom e do Pix. A Tech T-Shirt feminina, a Gola V, a Manga Longa e a Gola Alta Manga Longa já estavam R$ 40 abaixo do preço riscado."
+        ],
+        "image": {
+          "src": "/images/reviews/insider/camiseta-feminina-insider-qual-escolher-tech-feminina.webp",
+          "alt": "Tech T-Shirt feminina preta, de manga curta, vestida por modelo sobre fundo cinza claro",
+          "caption": "Tech T-Shirt feminina em preto. Foto oficial da Insider.",
+          "objectFit": "contain",
+          "aspectRatio": 0.76
+        },
+        "comparisonTable": {
+          "caption": "Camisetas femininas e kits na Insider no fim de outubro: preço riscado na página e preço do dia, antes do cupom e do Pix.",
+          "headers": [
+            "Produto",
+            "Preço riscado",
+            "Preço do dia"
+          ],
+          "rows": [
+            [
+              "Tech T-Shirt Feminina",
+              "R$ 169",
+              "R$ 129"
+            ],
+            [
+              "Tech T-Shirt Gola V Feminina",
+              "R$ 169",
+              "R$ 129"
+            ],
+            [
+              "Tech T-Shirt Manga Longa Feminina",
+              "R$ 239",
+              "R$ 199"
+            ],
+            [
+              "Tech T-Shirt Gola Alta Manga Longa Feminina",
+              "R$ 239",
+              "R$ 199"
+            ],
+            [
+              "Camiseta Premium NEXTECH Feminina",
+              "R$ 215",
+              "R$ 129"
+            ],
+            [
+              "Camiseta Básica Tech Daily Feminina",
+              "R$ 139",
+              "R$ 99"
+            ],
+            [
+              "Blusa Skin Cropped",
+              "R$ 119",
+              "R$ 99"
+            ],
+            [
+              "Kit 3 Tech T-Shirt Feminina",
+              "R$ 507",
+              "R$ 355,50"
+            ],
+            [
+              "Kit 5 Tech T-Shirt Feminina",
+              "R$ 845",
+              "R$ 544,38"
+            ],
+            [
+              "Kit 3 Daily Feminina",
+              "R$ 417",
+              "R$ 290,76"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O kit de três Tech femininas saía a R$ 118,50 por camiseta, contra R$ 129 da avulsa: economia de R$ 31,50 no kit. No de cinco, cada uma saía por R$ 108,88. O Kit 3 Daily quase empata com as avulsas, R$ 290,76 contra R$ 297. A conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa); as diferenças de tecido e caimento entre as linhas, em [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher).",
+          "Com o cupom, a Gola V de R$ 129 sai por R$ 109,65 e a Manga Longa de R$ 199, por R$ 169,15. A Tech feminina, a NEXTECH, a The Perfect Top T-Shirt e as Skin Cropped aparecem na loja com a etiqueta de lançamento, e o cupom pode ficar de fora delas nos primeiros dias: o resumo do carrinho mostra a linha do cupom em cada item que entrou. A Daily masculina avisa na página que não aceita cupom; na feminina, confira no carrinho."
+        ]
+      },
+      {
+        "heading": "Calcinhas, sutiãs e underwear feminino",
+        "paragraphs": [
+          "No underwear feminino, o kit sai mais barato por peça que a avulsa, e o Outlet baixa ainda mais. Em outubro, a Calcinha Biquíni Brief estava a R$ 49, de R$ 69, e o Kit 3 Calcinhas Brief a R$ 139,90, de R$ 207. No fim do mês, o mesmo kit de três apareceu no Outlet a R$ 118,20, e o de cinco a R$ 190,19, de R$ 345."
+        ],
+        "image": {
+          "src": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-kit-5-brief.webp",
+          "alt": "Cinco calcinhas Brief em preto e azul-marinho, do Kit 5 Calcinhas Biquíni Brief, sobre fundo cinza claro",
+          "caption": "Kit 5 Calcinhas Biquíni Brief. Foto oficial da Insider.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        },
+        "comparisonTable": {
+          "caption": "Calcinhas e sutiãs na Insider, na leitura do Outlet feminino de fim de outubro: preço no Outlet, preço riscado e o valor com os 15% do cupom.",
+          "headers": [
+            "Peça",
+            "Preço riscado",
+            "Preço no Outlet",
+            "Com o cupom"
+          ],
+          "rows": [
+            [
+              "Kit 3 Calcinhas Biquíni Brief",
+              "R$ 207",
+              "R$ 118,20",
+              "R$ 100,47"
+            ],
+            [
+              "Kit 5 Calcinhas Biquíni Brief",
+              "R$ 345",
+              "R$ 190,19",
+              "R$ 161,66"
+            ],
+            [
+              "Kit 3 Calcinhas Tanga String",
+              "R$ 195",
+              "R$ 111",
+              "R$ 94,35"
+            ],
+            [
+              "Kit 3 Calcinhas Hot Pant Safe",
+              "R$ 237",
+              "R$ 127,98",
+              "R$ 108,78"
+            ],
+            [
+              "Sutiã Comfy, sem bojo",
+              "R$ 179",
+              "R$ 99",
+              "R$ 84,15"
+            ],
+            [
+              "Sutiã Top Lounge, com bojo removível",
+              "R$ 185",
+              "R$ 99",
+              "R$ 84,15"
+            ],
+            [
+              "Sutiã Flex, triângulo sem bojo",
+              "R$ 155",
+              "R$ 99",
+              "R$ 84,15"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três sutiãs Nakedfeel (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. Calcinhas e sutiãs só têm troca por defeito, então confira o tamanho antes de fechar."
+        ]
+      },
+      {
+        "heading": "Outlet feminino: o que vale a pena",
+        "paragraphs": [
+          "O Outlet é a seção de últimas unidades da Insider: peças e cores que saíram de linha, com desconto de 32% a 50% e sem reposição. A página feminina tinha 41 peças no fim de outubro, 39 à venda, a maioria com 40% OFF, e a grade de cada uma só encolhe. Vale a pena quando a sua cor e o seu tamanho ainda aparecem: a Tech feminina e a Gola V a R$ 99, a Regata Intech a R$ 83, a Tech Manga Longa a R$ 143, vestidos, saia, calças e shorts.",
+          "As 39 peças, por tipo, com o preço final e os tamanhos que sobraram, estão em [Outlet Insider feminino: o que vale a pena](/reviews/outlet-insider-feminino-vale-a-pena). Na Black Friday, compare o preço do Outlet com o da coleção da campanha: a mesma peça pode estar nos dois lugares com preços diferentes."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete grátis: o que soma",
+        "bullets": [
+          "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido, então compare os 15% com o cupom da própria campanha antes de fechar.",
+          "**Teste no carrinho:** no fim de outubro, a Calça Pantalona InLounge, de R$ 299 por R$ 179 no Outlet, saiu por R$ 152,15 com o cupom. Ele também entrou em peças com etiqueta de lançamento, como os sutiãs Nakedfeel e o Perfect Body Manga Longa.",
+          "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na janela de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
+          "**Pix:** a loja anunciava desconto no Pix também na coleção da Black Friday, e ele soma com o cupom. O percentual mudava entre a barra do site e os banners; no fim de outubro, a barra dizia +2% OFF. O desconto do Pix não vale em gift card.",
+          "**Cartão e boleto:** cartão em até 3 vezes sem juros, ou de 4 a 10 vezes com juros, e boleto à vista.",
+          "**Frete grátis:** a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
+          "**Exemplo:** três Tech femininas avulsas e o Kit 3 Calcinhas Brief, nos preços de outubro, somam R$ 526,90. O cupom tira R$ 79,04, e o pedido fica em R$ 447,86, ainda acima dos R$ 399 do frete grátis. No Pix, entra também o desconto da loja, que o resumo do checkout mostra antes de pagar.",
+          "**Loja física:** o cupom não vale na Concept Store do MorumbiShopping, em São Paulo. Cupons e cashback são só do site, e pedidos do site não são retirados nem trocados lá."
+        ],
+        "links": [
+          {
+            "label": "Ver o cupom EMCASACOMCECILIA e a data do último teste",
+            "href": "/cupons/insider"
+          },
+          {
+            "label": "Passo a passo do EMCASACOMCECILIA no checkout",
+            "href": "/reviews/cupom-emcasacomcecilia-insider-store-como-usar"
+          }
+        ]
+      },
+      {
+        "heading": "Trocas e presente",
+        "paragraphs": [
+          "A troca é grátis e sai pelo portal de trocas do site, pelo titular da compra. Por arrependimento, o prazo é de 7 dias úteis depois do recebimento; por tamanho, cor ou modelo, 21 dias corridos, com a peça sem uso, com etiqueta e sem sinal de lavagem; por defeito, 180 dias, com fotos. Calcinhas, sutiãs e moda praia só trocam por defeito, e isso vale para cada peça de um kit.",
+          "Para presente, quem ganhou pede a troca sem nota fiscal e sem a embalagem, e recebe um vale-troca no valor do item para usar no site, em até 21 dias corridos depois da entrega. O prazo conta da entrega, não do Natal. Se o pedido veio com brinde e a peça volta, o brinde volta junto.",
+          "Antes de escolher o tamanho, use a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider): a Tech feminina vai do PP ao XGG, com caimento levemente ajustado, sem comprimir, e a tabela mede o busto e a largura da peça deitada. A Gola V feminina vai do PP ao GG."
+        ],
+        "image": {
+          "src": "/images/reviews/insider/insider-tabela-medidas-tech-t-shirt-feminina.webp",
+          "alt": "Tabela oficial de medidas da Tech T-Shirt feminina da Insider, com o desenho da camiseta e altura, busto, largura e manga do PP ao XGG",
+          "caption": "Fonte: Insider, insiderstore.com.br. Tabela oficial da Tech T-Shirt feminina.",
+          "objectFit": "contain",
+          "aspectRatio": 2.0759
+        },
+        "links": [
+          {
+            "label": "Insider Store é confiável? CNPJ, loja física, trocas e reputação",
+            "href": "/reviews/insider-store-e-confiavel"
+          }
+        ]
+      },
+      {
+        "heading": "Entrega e prazo para o Natal",
+        "paragraphs": [
+          "A Insider não publica prazos por região: o carrinho mostra as opções depois do CEP, e o prazo conta a partir da aprovação do pagamento. A central de ajuda avisa que ele pode esticar em períodos de alta demanda, como a Black Friday, e o Reclame Aqui confirma: mais de dois terços das reclamações dos últimos 12 meses vieram do semestre da Black Friday e do Natal, e a entrega é o problema mais citado.",
+          "Na simulação de outubro com o CEP do centro de 12 capitais, o frete grátis ia de 5 dias úteis em São Paulo a 19 em Manaus. A tabela com a data limite de pagamento de cada capital, com um dia útil de folga para chegar até 24 de dezembro, está em [Black Friday Insider masculino](/reviews/black-friday-insider). Em novembro, refaça a simulação com o seu CEP, e se o pedido é presente, peça com folga."
+        ],
+        "links": [
+          {
+            "label": "Insider Store no Reclame Aqui: nota e reclamações",
+            "href": "/reviews/insider-store-reclame-aqui-nota-reputacao"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Quando começa e quanto dura a Black Friday da Insider? Já começou: a página da campanha anuncia até 40% OFF e 50% OFF na segunda peça, em janelas curtas que mudam ao longo de novembro, até a última sexta-feira do mês, dia 27, e a Cyber Monday, na segunda seguinte. A loja não publicou data de fim.",
+          "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
+          "O cupom soma com o Outlet feminino? Soma. No teste de fim de outubro, a Calça Pantalona InLounge, a R$ 179 no Outlet, saiu por R$ 152,15 com o cupom, e ele entrou até nos sutiãs Nakedfeel, que estavam com etiqueta de lançamento.",
+          "Quanto custa a Tech T-Shirt feminina na Black Friday? No preço de outubro, R$ 129, contra R$ 169 do preço riscado. Com o cupom, sai por R$ 109,65, se ele entrar: a peça aparece com a etiqueta de lançamento, e o carrinho mostra se o desconto foi aplicado. Um selo de novembro só é vantagem se o preço do dia ficar abaixo de R$ 129.",
+          "Qual tamanho da Tech T-Shirt feminina escolher? A loja descreve o caimento como levemente ajustado, sem comprimir, do PP ao XGG. Meça uma camiseta sua deitada e compare o busto e a largura com a tabela oficial, que está no [guia de medidas Insider](/reviews/tabela-de-medidas-insider). Camiseta troca por tamanho em 21 dias corridos; calcinha e sutiã, não.",
+          "O kit de calcinhas compensa? Compensa no preço por peça: no Outlet, o Kit 3 Calcinhas Brief estava a R$ 118,20 e o de cinco a R$ 190,19, contra R$ 49 da Brief avulsa em outubro. O kit é fechado, sem escolha de tamanho e com no máximo duas cores no de cinco, e só troca por defeito.",
+          "A Insider tem desconto no Pix? Tem, e ele soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners; no fim de outubro, a barra dizia +2%. Confira no checkout.",
+          "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
+          "Dá para trocar presente da Insider? Dá. Quem ganhou pede a troca, sem nota fiscal, e recebe um vale-troca no valor do item, em até 21 dias corridos depois da entrega. Calcinhas, sutiãs e moda praia só têm troca por defeito.",
+          "Até quando comprar para chegar antes do Natal? Depende da capital: pela simulação de outubro, o frete grátis ia de 5 dias úteis em São Paulo a 19 em Manaus, e a data limite de cada uma está na tabela do guia masculino. Refaça a simulação com o seu CEP em novembro."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Entre na Insider pelo link da parceria: o cupom EMCASACOMCECILIA já vai para o carrinho. Compare os preços com as tabelas deste guia e confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-insider",
+        "title": "Black Friday Insider 2026 masculino: até 40% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
+      },
+      {
+        "slug": "camiseta-feminina-insider-qual-escolher",
+        "title": "Camiseta feminina Insider: qual escolher entre Tech, Gola V, Manga Longa, Daily, NEXTECH e Perfect Top"
+      },
+      {
+        "slug": "outlet-insider-feminino-vale-a-pena",
+        "title": "Outlet Insider feminino: o que vale a pena, por tipo de peça, e o preço com o cupom"
+      }
+    ]
+  },
+  {
+    "bodyDatesReason": "campanha",
+    "id": 335,
+    "slug": "black-friday-nestle-nutre",
+    "title": "Black Friday Nutren 2026: o Black Month da Nestlé Nutre já começou, os preços do Nutren Senior e o cupom CECI",
+    "seoTitle": "Black Friday Nutren 2026: Black Month até 25% e cupom CECI",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Black Month da Nestlé Nutre já começou: novembro inteiro com até 25% OFF e mais 10% com cupom, o esquenta em Materna, Ascenda, Nestonutri, Molico e Vital até 22 de novembro, e o Nutren Senior ainda sem desconto anunciado. Os preços de outubro do Nutren Senior e do Just Protein para comparar, assinatura ou compra única com o cupom CECI, o frete grátis e até quando pedir para chegar no Natal.",
+    "metaDescription": "Black Friday Nutren 2026: a Nestlé Nutre abriu o Black Month com até 25% OFF e mais 10% com cupom, o CECI; Nutren Senior ainda sem desconto. Preços e Natal.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/nutren/black-friday-nestle-nutre-capa-discover.webp",
@@ -56368,12 +56665,13 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Nutren Senior, Just Protein e Nutren Active já tinham preço riscado em outubro",
-      "Kits com duas latas de Nutren Senior saíam mais baratos por lata",
+      "O Black Month anuncia até 25% OFF o mês inteiro e mais 10% com cupom: é o CECI",
+      "Kits com duas latas de Nutren Senior saíam mais baratos por lata em outubro",
       "O cupom CECI dá 10% OFF e vale com todas as formas de pagamento",
       "Frete grátis acima de R$ 400 na compra única e de R$ 200 na assinatura"
     ],
     "cons": [
+      "O Nutren Senior não aparece no esquenta nem na arte do Black Month: sem desconto anunciado",
       "A loja não dá desconto no Pix",
       "O CECI não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses",
       "O parcelamento sem juros pede parcela mínima de R$ 75",
@@ -56383,14 +56681,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Nutren 2026",
         "paragraphs": [
-          "A Nestlé Nutre ainda não anunciou Black Friday do Nutren: até a leitura dos preços, em outubro, não havia campanha. O [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, dá 10% OFF na loja, vale com todas as formas de pagamento e soma com os preços da Black Friday. O que muda a decisão é o prazo de entrega para o Natal; veja o capítulo de entrega."
+          "A Nestlé Nutre já abriu a Black Month: novembro inteiro com até 25% OFF e mais 10% com cupom, e o esquenta em Materna, Ascenda, Nestonutri, Molico e Vital vai até 22 de novembro; o Nutren Senior segue sem desconto anunciado. O cupom dos 10% é o [cupom Nestlé Nutre](/cupons/nestle-nutre), o CECI, com todas as formas de pagamento."
         ]
       },
       {
-        "heading": "A Nestlé Nutre tem Black Friday?",
+        "heading": "O que já está no ar na Black Month da Nestlé Nutre",
         "paragraphs": [
-          "Não encontramos campanha de Black Friday do Nutren na loja Nestlé Nutre nos anos anteriores. Em novembro do ano passado, a Nestlé disse ao site Gironews que fazia a maior Black Friday da sua história, de olho nos canais digitais, mas a reportagem não detalha ofertas do Nutren nem da loja.",
-          "O que dá para mostrar é o que a loja já cobrava em outubro: preço riscado em vários produtos para adultos, um preço menor para quem assina e kits com duas latas. Quando a campanha de 2026 for anunciada, as condições entram aqui, com o que mudou em relação a outubro. A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro."
+          "\"Começou a Black Month Nestlé Nutre\", diz a home da loja. Na mensagem que a Nestlé Nutre mandou aos clientes, o Black Month é \"novembro inteiro de ofertas\" nas categorias Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com \"até 25% OFF\" e \"+10% OFF adicional com cupom\". Esse cupom, para quem compra pelo site, é o CECI: 10% OFF, com todas as formas de pagamento. A loja aceita um cupom por pedido, então o CECI entra no lugar de qualquer outro código, não junto.",
+          "Na arte da campanha, pela Nutrição Adulta, aparecem o Nutren Just Protein e o Nutren Control, sem percentual por produto. O Nutren Senior não aparece nela nem no Esquenta Black Friday: até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, de 1º a 22 de novembro ou enquanto durarem os estoques, exceto fórmulas infantis para lactentes e de seguimento para lactentes, pelo banner da loja.",
+          "Para o Nutren Senior, a Creatina e o FiberMais, a régua segue sendo a tabela de outubro deste guia: um selo de desconto só é vantagem se o preço do dia ficar abaixo dela. Para o Just Protein e o Nutren Control, a mesma conta: a tabela deles está mais abaixo. A Black Friday de 2026 é na sexta-feira, 27 de novembro, e a Cyber Monday, na segunda, 30 de novembro; se o Nutren Senior ganhar oferta até lá, compare com as tabelas.",
+          "Dois cuidados: o CECI não vale em fórmulas infantis de 0 a 12 meses, e o Nestonutri, para crianças de 1 a 3 anos, segue a indicação do rótulo; na dúvida, o pediatra."
         ]
       },
       {
@@ -56654,7 +56954,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando é a Black Friday da Nestlé Nutre? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda-feira seguinte. Até a leitura de outubro, a loja ainda não tinha anunciado campanha para o Nutren.",
+          "Quando começa e quanto dura a Black Friday da Nestlé Nutre? Já começou: a loja chama novembro de Black Month, \"novembro inteiro de ofertas\" em Nutrição Especializada, Nutrição Infantil, Nutrição Adulta e Vitaminas, com até 25% OFF e mais 10% com cupom. O esquenta, com até 25% OFF em Materna, Ascenda, Nestonutri, Molico e Vital, vai até o dia 22 ou enquanto durarem os estoques. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte.",
+          "Qual cupom usar nos 10% adicionais do Black Month da Nestlé Nutre? O CECI: 10% OFF, com todas as formas de pagamento, sobre os preços da campanha. A loja aceita um cupom por pedido, e o CECI não vale em fórmulas infantis de 0 a 12 meses.",
+          "O Nutren Senior entrou na Black Friday da Nestlé Nutre? Ainda não: a arte do Black Month traz o Just Protein e o Nutren Control pela Nutrição Adulta, mas não o Nutren Senior, que também fica fora do banner do esquenta. Compare o preço do dia com as tabelas de outubro deste guia; se ficar abaixo, o desconto é maior que o de outubro.",
           "Quanto custa o Nutren Senior 740 g? Na leitura de outubro, a lata de café com leite saía por R$ 169,37 na compra única (preço riscado de R$ 188,19), e a zero lactose sem sabor, por R$ 190,61 (riscado de R$ 211,79). O kit com duas latas sem sabor saía por R$ 263,49.",
           "O Nutren Senior fica mais barato na Black Friday? Em outubro, ele já estava abaixo do preço riscado, e o kit com duas latas saía por cerca de R$ 131,75 a lata. Se em novembro o preço do dia ficar abaixo das tabelas deste guia, o desconto é maior que o de outubro.",
           "O cupom CECI vale para o Nutren Senior? Vale. O CECI dá 10% OFF, com todas as formas de pagamento, e soma com os preços da Black Friday: pela nossa conta, a lata zero lactose de R$ 190,61 sai por R$ 171,55.",
@@ -56667,7 +56969,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Quando a Black Friday começar, compare os preços com as tabelas deste guia e aplique o cupom CECI no checkout da Nestlé Nutre antes de pagar.",
+      "text": "A Black Month já começou: compare os preços com as tabelas deste guia e aplique o cupom CECI no checkout da Nestlé Nutre antes de pagar.",
       "label": "Ir para a Nestlé Nutre",
       "url": "https://www.nestlenutre.com.br/",
       "sponsored": true
@@ -56693,8 +56995,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 336,
     "slug": "black-friday-magalu",
-    "title": "Black Friday Magalu 2026: quando começa, geladeira e eletro vendidos pelo Magalu e qual código da Cecília usar",
-    "seoTitle": "Black Friday Magalu 2026: datas, eletro e código",
+    "title": "Black Friday Magalu 2026: é 27 de novembro, as ofertas antecipadas já estão no ar e qual código da Cecília usar",
+    "seoTitle": "Black Friday Magalu 2026: 27/11, ofertas antecipadas e cupom",
     "type": "Guia de Black Friday",
     "bodyDatesReason": "campanha",
     "category": "cupons-como-usar",
@@ -56706,10 +57008,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O calendário da Black Friday 2026 do Magalu, o que é só no app, qual das dez faixas do código da Cecília usar, quando ele vale mais que o cupom do Magalu, como achar o que é vendido e entregue pelo Magalu e os preços de outubro de geladeiras, lavadoras, fogões e eletroportáteis para comparar.",
-    "metaDescription": "Black Friday Magalu 2026: quando começa, o que é só no app, as faixas do código da Cecília, preços de outubro de geladeira e eletro, frete, retirada e trocas.",
+    "description": "A Black Friday do Magalu é em 27 de novembro de 2026, e as ofertas antecipadas com o selo Oferta Black já estão no ar, com novidades todo domingo no app. O que é só no app, qual das dez faixas do código da Cecília usar, quando ele vale mais que o cupom do Magalu, como achar o que é vendido e entregue pelo Magalu e os preços de outubro de geladeiras, lavadoras, fogões e eletroportáteis para comparar.",
+    "metaDescription": "Black Friday Magalu 2026 é em 27 de novembro, com ofertas antecipadas o mês todo. O que é só no app, as faixas do código da Cecília e preços de eletro.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/magalu/black-friday-magalu-capa-discover-v2.webp",
@@ -56732,15 +57035,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Magalu 2026",
         "paragraphs": [
-          "A Black Friday do Magalu é em 27 de novembro, mas as ofertas começam antes e vão até a Cyber Monday, e o esquenta já está no ar. Os códigos da Cecília dão um desconto fixo em reais, que cresce com o carrinho, só pelo navegador. Vale um cupom por pedido; veja abaixo qual usar."
+          "A Black Friday do Magalu é em 27 de novembro de 2026, mas as ofertas antecipadas já estão no ar, com o selo Oferta Black e novidades todo domingo no app. Os códigos da Cecília dão desconto fixo em reais, que cresce com o carrinho, só pelo navegador, e vale um cupom por pedido."
         ]
       },
       {
         "heading": "Quando começa e até quando vai a Black Friday do Magalu?",
         "paragraphs": [
-          "O dia oficial é 27 de novembro de 2026. Na página da Black Friday, o Magalu diz que as ofertas começam antes e se estendem por alguns dias, com esquenta, semana especial e Cyber Monday. Em outubro, o esquenta já estava no ar.",
-          "O calendário que o Magalu publicou para novembro: Liquidação do Dia do Pagamento em 5 e 6 de novembro, no app e nas lojas, com até 60% de desconto e frete grátis; 11.11 com preços de Black Friday no app; e o \"Faz um 21\", com descontos de Black Friday em até 21 vezes sem juros durante o mês. O app também traz ofertas antecipadas que duram um dia, com produtos novos todos os dias, e manda ofertas por notificação.",
-          "Na prática, a Black Friday do Magalu ocupa novembro inteiro. Em 2023, as promoções correram o mês todo, segundo o Money Times. Em 2024, o Canaltech registrou ofertas por notificação no app antes da data. Em 2025, a \"Black das Blacks\" durou mais de um mês, em texto patrocinado pelo Magalu no Canaltech."
+          "O grande dia é a sexta-feira 27 de novembro, e as ofertas se estendem até a Cyber Monday. Mas o Magalu chama novembro inteiro de \"Black das Blacks\", com \"descontos de até 70% off em milhares de produtos\", e a página da Black Friday já está cheia de ofertas antecipadas.",
+          "O que já está valendo, pela página da Black Friday: as ofertas antecipadas levam o selo \"Oferta Black\", que a loja chama de garantia de preço da Black Friday; a super oferta antecipada traz ofertas novas todo domingo no app e às segundas nas lojas físicas; o app dá um cupom extra sobre as ofertas antecipadas, novo todo dia e válido por um dia; toda sexta-feira de novembro tem uma condição nas lojas físicas; e o Cliente Ouro tem dia exclusivo em 7 e 8 de novembro, em todas as lojas.",
+          "O calendário divulgado em outubro trazia ainda a Liquidação do Dia do Pagamento em 5 e 6 de novembro, no app e nas lojas, com até 60% de desconto e frete grátis, o 11.11 com preços de Black Friday no app e o \"Faz um 21\", com parcelamento em até 21 vezes sem juros durante o mês.",
+          "O padrão se repete: em 2023, as promoções correram o mês todo, segundo o Money Times; em 2025, a \"Black das Blacks\" durou mais de um mês, em texto patrocinado pelo Magalu no Canaltech."
         ]
       },
       {
@@ -56851,7 +57155,7 @@ export const reviewsData: unknown[] = [
         "heading": "App ou navegador: o que vale onde",
         "paragraphs": [
           "Os códigos da Cecília só funcionam pelo navegador, no celular ou no computador, na loja Magazine Você da Cecília. O login é a mesma conta Magalu do site e do app.",
-          "As ofertas que o Magalu anuncia só no app, como as antecipadas, o 11.11 e as que chegam por notificação, ficam fora do código. Antes de pagar, compare o preço do app sem o código com o preço do navegador com o código da sua faixa."
+          "O que o Magalu anuncia só no app fica fora do código: a super oferta antecipada de domingo, o cupom extra diário sobre as ofertas antecipadas, o 11.11 e as ofertas que chegam por notificação. Antes de pagar, compare o preço do app, com o cupom do dia, com o preço do navegador com o código da sua faixa."
         ],
         "image": {
           "src": "/images/reviews/magalu/magazine-voce-endereco-e-selo.webp",
@@ -56968,11 +57272,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa a Black Friday do Magalu? A Black Friday de 2026 é numa sexta-feira de fim de novembro, mas o Magalu já abriu o esquenta em outubro. Ao longo de novembro, ele anuncia a Liquidação do Dia do Pagamento e o 11.11 com preços de Black Friday no app; as datas estão no capítulo do calendário.",
-          "A Black Friday do Magalu vai até quando? Segundo o Magalu, as ofertas se estendem por alguns dias depois da sexta-feira da Black Friday, até a Cyber Monday. Em 2025, a Black das Blacks durou mais de um mês.",
+          "Quando começa e quanto dura a Black Friday do Magalu? O grande dia é a última sexta-feira de novembro, dia 27, mas o Magalu chama o mês inteiro de Black das Blacks: as ofertas antecipadas com o selo Oferta Black já estão no ar, com novidades todo domingo no app e às segundas nas lojas físicas, e as ofertas seguem até a Cyber Monday.",
+          "O que é o selo Oferta Black do Magalu? É a marca das ofertas antecipadas: a loja o chama de garantia de preço da Black Friday. No app, ainda entra um cupom extra por dia sobre essas ofertas, que não vale no navegador nem com o código da Cecília.",
           "Tem cupom Magalu para a Black Friday? Tem: os códigos da Cecília dão de R$ 10 a R$ 100 OFF, conforme o valor do carrinho, na loja Magazine Você da Cecília, pelo navegador, em produtos vendidos e entregues pelo Magalu. Eles valem sobre o preço da Black Friday e com todas as formas de pagamento.",
           "O cupom da Cecília funciona no app do Magalu? Não. Os códigos só funcionam pelo navegador, na loja Magazine Você da Cecília, então as ofertas exclusivas do app ficam fora deles.",
-          "Posso usar o código da Cecília junto com o cupom do Magalu? Não, vale um cupom por pedido. O código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar.",
+          "Posso usar o código da Cecília junto com o cupom do Magalu? Não, vale um cupom por pedido. O código da Cecília é para quando o produto não tem cupom do próprio Magalu, ou quando ele não vale para o que você quer comprar. O cupom extra diário da Black Friday é só do app, onde o código da Cecília não entra.",
           "Qual código usar na compra de uma geladeira? Depende do valor da sacola. Pela tabela de preços, a geladeira Consul Frost Free de 377 litros custava R$ 2.727,54 e ficava na faixa do 50EMCASACOMCECILIA, de R$ 50 OFF.",
           "O Magalu tem desconto no Pix? Tem, e ele muda por produto: nos eletrodomésticos da tabela de preços, ia de 5% a 7% em outubro. O código da Cecília também vale no Pix.",
           "Dá para comprar no site do Magalu e retirar na loja? Dá, nos produtos que têm a opção Retira loja. Digite o CEP na página do produto para ver as lojas mais próximas e o prazo.",
@@ -79825,8 +80129,9 @@ export const reviewsData: unknown[] = [
   {
     "id": 436,
     "slug": "black-friday-black-skull",
-    "title": "Black Friday Black Skull 2026: quando começa, preços de whey e creatina e o cupom CECILIA10",
-    "seoTitle": "Black Friday Black Skull 2026: preços e cupom",
+    "bodyDatesReason": "campanha",
+    "title": "Black Friday Black Skull 2026: a Black November já começou, desconto progressivo e o cupom CECILIA10",
+    "seoTitle": "Black Friday Black Skull 2026: Black November e CECILIA10",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -79837,10 +80142,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando é a Black Friday da Black Skull, os preços de whey, creatina e pré-treino de 14 de outubro para comparar, como o CECILIA10 soma com as promoções, o frete grátis por região, o Pix e a troca de presente de Natal.",
-    "metaDescription": "Black Friday Black Skull 2026: preços de whey e creatina em outubro, cupom CECILIA10 de 10% com as promoções, frete grátis por região e prazo de troca.",
+    "description": "A Black November da Black Skull já está no ar: desconto progressivo, quanto mais você leva maior o desconto, com selos de até 40% e frete grátis. O cupom CECILIA10 dá 10% em todo o site; preços de whey e creatina de outubro para comparar.",
+    "metaDescription": "Black Friday Black Skull 2026: a Black November já começou, com desconto progressivo de até 40% e frete grátis. Cupom CECILIA10 de 10% em todo o site.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-friday-black-skull-capa-discover.webp",
@@ -79848,14 +80154,15 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Em 14 de outubro, a Creatina Creator 300 g saía por R$ 29,90, contra R$ 49,90 do preço de lista",
+      "A Black November já está no ar, com desconto progressivo e selos de até 40%",
       "O CECILIA10 dá 10% em todo o site e soma com as promoções vigentes",
+      "Em outubro, a Creatina Creator 300 g saía por R$ 29,90, contra R$ 49,90 do preço de lista",
       "O cupom vale em todas as formas de pagamento, com cartão em até 8 vezes sem juros e Pix parcelado em 4 vezes",
       "Frete grátis acima de R$ 199,90 no Sul e no Sudeste",
       "Arrependimento de 7 dias corridos, com o envio pago pela loja"
     ],
     "cons": [
-      "A loja não informa data de início nem de fim da campanha de Black Friday",
+      "A loja não publicou as regras completas do desconto progressivo nem a data de fim da campanha",
       "A troca comum tem frete de ida e de volta pago por quem comprou",
       "A loja não anuncia desconto próprio no Pix",
       "Frete grátis só acima de R$ 299,90 nas demais regiões",
@@ -79865,15 +80172,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Black Skull 2026",
         "paragraphs": [
-          "A Black Friday de 2026 cai na última sexta-feira de novembro, mas a Black Skull não informou data de início nem de fim e diz que as ofertas ficam no ar o mês todo. O cupom CECILIA10 dá 10% em todo o site e soma com as promoções. Compare com os preços de antes, mais abaixo."
+          "A Black November da Black Skull já está no ar: desconto progressivo, quanto mais produtos você leva maior o desconto, com selos de até 40% e frete grátis anunciado para todo o Brasil. O cupom CECILIA10 dá 10% em todo o site e soma com as promoções da loja; confira a linha de descontos na sacola antes de pagar."
         ]
       },
       {
-        "heading": "Quando é a Black Friday da Black Skull?",
+        "heading": "O que está no ar na Black November da Black Skull",
         "paragraphs": [
-          "A página da campanha diz que a Black Friday \"acontece na última sexta-feira de novembro\". Em 2026, essa sexta é 27 de novembro. A mesma página afirma que as ofertas ficam disponíveis durante todo o mês e que podem chegar a \"até 50% off\". A loja não diz quais produtos chegam a esse percentual, e não conferimos o número em nenhum item.",
-          "A Black Skull não informa data de início nem de fim. Quando conferimos, não achamos a página `/black-friday` no menu nem na home do site. Por isso, o texto dela não quer dizer que a campanha já começou.",
-          "Em 2024, a campanha já estava na home 10 dias antes da sexta; em 2025, 12 dias antes. Nos registros da home guardados no web.archive.org, em 2024 o site já tinha a seção \"Black Friday Suplementos\" e o banner principal de Black Friday. Em 2025, o banner dizia \"BLACK FRIDAY BLACKSKULL | 50% OFF Whey, Creatina e Mais\". As datas de início e fim dessas campanhas não aparecem nos registros."
+          "A Black November da Black Skull já começou. A página da campanha, blackfriday2026 no site oficial, diz que \"quanto mais você leva, maior o desconto\": é um desconto progressivo, e os produtos aparecem com selos de 16%, 22%, 33% e 40%. A mesma página anuncia frete grátis para todo o Brasil, com a ressalva \"consulte as regras\".",
+          "A loja não publicou as regras completas do progressivo, como quantos itens dão cada faixa, nem a data de fim. A página de Black Friday da loja diz que a data \"acontece na última sexta-feira de novembro\", que em 2026 é 27 de novembro, e que as ofertas ficam disponíveis durante todo o mês.",
+          "Na prática: monte a sacola com mais de um item, veja o selo de cada produto e a linha \"Descontos\" antes de pagar. O desconto progressivo é da loja; o CECILIA10 é outro desconto, do campo do cupom, e o que ele faz na sacola está na seção do cupom, abaixo."
         ]
       },
       {
@@ -79960,7 +80267,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O kit com 2 Whey Turbo 907 g saía por R$ 132,81, contra R$ 139,80 de lista. Na creatina, o refil de 500 g do Creator saía por R$ 39,90 (cerca de R$ 0,08 por grama), e o Creator de 300 g, por R$ 29,90 (cerca de R$ 0,10 por grama).",
-          "Uma oferta de Black Friday só é vantagem se o preço do dia ficar abaixo desta tabela. Se ficar igual, o desconto de novembro é só o do cupom.",
+          "Uma oferta da Black November só é vantagem se o preço do dia, já com o selo do progressivo, ficar abaixo desta tabela. Compare com o preço do dia de outubro, não com o preço de lista.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
         ]
       },
@@ -79969,7 +80276,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Vale. O **CECILIA10** dá 10% de desconto em todo o site da Black Skull, vale com todas as formas de pagamento e soma com as promoções vigentes. O desconto vem em cima do preço já reduzido, sem substituí-lo.",
           "No nosso teste na sacola, havia uma regata, um kit de whey, creatina e pré-treino e uma glutamina. Dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
-          "Esse teste foi feito em itens em promoção, não em item da campanha de Black Friday, que ainda não tem data na loja. Para a Black Friday, a informação que temos é a de hoje: o cupom soma com as promoções vigentes. Ainda não testamos num item da campanha.",
+          "Esse teste foi feito em outubro, em itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes; ainda não testamos o CECILIA10 num item com o selo do desconto progressivo. Aplique o código na sacola e confira a linha \"Descontos\": se ela mostrar os 10%, o cupom entrou.",
           "A conta pode ser feita no próprio carrinho, na linha \"Descontos\", antes de finalizar.",
           "O passo a passo do campo do cupom está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições do dia ficam na [página do cupom da Black Skull](/cupons/black-skull)."
         ],
@@ -79982,7 +80289,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis, Pix e parcelamento",
         "paragraphs": [
-          "O frete grátis depende da região de entrega e do valor final do carrinho. A loja conta o total já com os descontos, inclusive o do cupom. A tabela traz a política de entrega.",
+          "Na Black November, a página da campanha anuncia frete grátis para todo o Brasil, com \"consulte as regras\". Fora da campanha, o frete grátis depende da região de entrega e do valor final do carrinho, e a loja conta o total já com os descontos, inclusive o do cupom. A tabela traz a política de entrega; confira o frete do seu CEP na sacola.",
           "Os mínimos abaixo valem para o total já com o CECILIA10. Pela nossa conta, o whey 100% HD 1,8 kg baunilha, que estava a R$ 279,90, sai por R$ 251,91 com o CECILIA10. Esse valor passa do mínimo do Sul, do Sudeste e do Centro-Oeste, mas fica abaixo dos R$ 299,90 das demais regiões. Em pedido que passa do mínimo por pouco, confira o total com o cupom aplicado antes de pagar."
         ],
         "comparisonTable": {
@@ -80054,14 +80361,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Friday da Black Skull é em novembro? A Black Friday de 2026 é na última sexta-feira de novembro, e a Cyber Monday, na segunda-feira seguinte. A página de Black Friday da loja diz que as ofertas ficam disponíveis durante todo o mês, mas a loja não informa data de início nem de fim.",
-          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste na sacola, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado.",
+          "Quando começa e quanto dura a Black Friday da Black Skull? A Black November já começou, com desconto progressivo e selos de até 40%. A página da loja diz que as ofertas ficam disponíveis durante todo o mês e que a Black Friday acontece na última sexta-feira de novembro; a loja não informa data de fim.",
+          "Qual é o cupom da Black Skull na Black Friday? O CECILIA10, 10% em todo o site, em todas as formas de pagamento. É o mesmo código do resto do ano, e as condições do dia ficam na página do cupom da Black Skull.",
+          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste na sacola, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Num item com o selo do desconto progressivo ainda não testamos; a linha Descontos da sacola mostra.",
           "O CECILIA10 vale em qualquer forma de pagamento? Vale em todas as formas de pagamento da loja: cartão em até 8 vezes sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4 vezes sem juros e boleto à vista.",
           "O frete da Black Skull é grátis? Depende da região. O frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
           "A Black Skull tem desconto no Pix? A loja não anuncia desconto próprio no Pix. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o CECILIA10 vale nelas.",
           "Dá para trocar um produto comprado na Black Friday? Dá. O arrependimento vale 7 dias corridos depois do recebimento, com a loja pagando a postagem. A troca comum pode ser pedida em até 30 dias corridos da entrega, com frete pago por você e produto lacrado. Defeito fica por conta da loja.",
           "Compro na Black Friday e dou de Natal: o prazo de troca dá? Conta da entrega: um pedido recebido no começo de dezembro pode ter troca comum pedida até o fim do mês. O arrependimento, de 7 dias, é de quem comprou.",
-          "Vale a pena esperar a Black Friday para comprar? Depende do que você já tem em vista. O CECILIA10 vale hoje e dá 10% em cima do preço do dia, então ele não é motivo para esperar. A espera só compensa se o preço de novembro ficar abaixo do preço de outubro; por isso o guia traz os preços de outubro para comparar."
+          "Vale a pena esperar a sexta-feira para comprar? O desconto progressivo já está no ar e o CECILIA10 vale hoje, então esperar só compensa se o preço do dia ainda estiver acima da tabela de outubro deste guia. Compare antes de decidir."
         ]
       }
     ],
@@ -80093,8 +80401,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 437,
     "slug": "black-friday-max-titanium",
-    "title": "Black Friday Max Titanium 2026: preços de outubro, o cupom MAX10EMCASACOMCECILIA e o que a loja já anunciou",
-    "seoTitle": "Black Friday Max Titanium 2026: preços e cupom",
+    "title": "Black Friday Max Titanium 2026: o Max November já começou, cashback, 50% em roupas e o cupom MAX10EMCASACOMCECILIA",
+    "seoTitle": "Black Friday Max Titanium 2026: Max November e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -80105,10 +80413,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando a Max Titanium faz a Black Friday (o Max November), os preços de whey e creatina em outubro para comparar, como o cupom MAX10EMCASACOMCECILIA soma com a promoção e o Pix, e o valor do frete grátis por região.",
-    "metaDescription": "Black Friday Max Titanium 2026: preços de whey e creatina em outubro, cupom MAX10EMCASACOMCECILIA com Pix e promoção e frete grátis por região.",
+    "description": "O Max November da Max Titanium vai o mês inteiro, até 30 de novembro: cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa de valor e Pix com 5%. O cupom MAX10EMCASACOMCECILIA dá até 10% e soma com as promoções; preços de outubro para comparar.",
+    "metaDescription": "Black Friday Max Titanium 2026: Max November até 30/11, cashback de até 16%, roupas com 50% OFF e Pix com 5%. Cupom MAX10EMCASACOMCECILIA de até 10%.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/black-friday-max-titanium-capa-discover.webp",
@@ -80116,13 +80425,14 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
+      "O Max November já está no ar, o mês inteiro, com cashback de até 16% e 50% OFF em roupas e acessórios",
       "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e vale com todas as formas de pagamento",
       "O cupom soma com as promoções do site e com o Pix e o boleto, de até 5% OFF",
       "A creatina de 500g saía mais barata por grama que a de 300 g",
       "Frete grátis a partir de R$ 104 na capital de São Paulo e R$ 134 no Sudeste"
     ],
     "cons": [
-      "A Max Titanium não tinha anunciado campanha de Black Friday até 14 de outubro de 2026",
+      "A loja não publicou as regras completas do Max November, como as faixas do cashback e dos brindes",
       "O percentual do cupom varia por produto e pode ser menor que 10%",
       "O desconto do cupom pode deixar o total abaixo do mínimo do frete grátis",
       "Frete grátis só na entrega mais barata, e o mínimo chega a R$ 599 no Norte"
@@ -80154,16 +80464,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Max Titanium 2026",
         "paragraphs": [
-          "A Max Titanium ainda não anunciou Black Friday: na nossa última consulta não havia campanha, só o Max November, que em 2024 durou o mês todo. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e soma com o Pix e com as promoções do site. O que muda a decisão é o preço de hoje; veja abaixo."
+          "O Max November da Max Titanium já começou e vai o mês inteiro: cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa e 5% no Pix e no boleto. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções e com o Pix; confira a linha de descontos no carrinho."
         ]
       },
       {
-        "heading": "Quando começa a Black Friday da Max Titanium?",
+        "heading": "Quando é e o que está no ar no Max November",
         "paragraphs": [
-          "A Max Titanium ainda não anunciou a Black Friday de 2026. A sexta cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A home do site não trazia campanha de novembro, e a loja não tem página de Black Friday no site. O que existe é o **Max November**, que em 2024 durou o mês inteiro, não só a sexta-feira.",
-          "Em 2024, o Max November foi uma promoção com sorteio, \"Max te leva pra Roma\". Cada compra de qualquer valor no site, durante a campanha, dava um número da sorte para concorrer a uma viagem. O regulamento ficou publicado no próprio site da loja.",
-          "Em 2025, a home em meados de novembro trazia banners do Max November de Boneco + Creatina, Whey Pro e Termogênicos, sem desconto legível. Este guia não cita percentual de 2025.",
-          "Em 2024, a campanha começou logo no início do mês. É só uma referência, não uma promessa da loja. Quando a Max Titanium anunciar, a data e as regras entram aqui."
+          "O **Max November** de 2026 vai de 1º a 30 de novembro, o mês inteiro, e a home da Max Titanium já traz o banner de Black Friday. A sexta-feira do calendário é 27 de novembro, e a Cyber Monday, 30 de novembro; na loja, a campanha é o mês todo, não só a sexta.",
+          "O que a home anuncia: cashback de até 16%; roupas e acessórios com 50% OFF; o \"Comprou ganhou\", com brindes Znack That por faixa de valor do pedido, até 3 brindes; e Pix e boleto com 5% OFF.",
+          "A loja não publicou as regras completas do Max November, como as faixas do cashback e o valor de pedido de cada brinde. Confira a página da campanha antes de fechar o carrinho, e compare o preço do dia com a tabela de outubro, abaixo."
         ]
       },
       {
@@ -80247,7 +80556,7 @@ export const reviewsData: unknown[] = [
           "Os preços de lista só aparecem nos itens que a loja já vendia com desconto. Pela nossa conta, o Whey Blend estava 35% abaixo do preço de lista, o Top Whey 3W + Sabor, 31%, a Creatina 500g, 24%, e a Creatina 300 g, 20%. O Top Whey 3W + Sabor e o Top Whey 3W + Performance têm o mesmo preço de lista, R$ 273,55, mas em outubro o primeiro custava R$ 84,55 a menos.",
           "Na creatina, o pote maior saía mais barato por grama: R$ 17,51 por 100 g na de 500g, contra R$ 19,97 na de 300 g. Na linha de whey, a diferença entre o mais barato e o mais caro, por 100 g, passava de quatro vezes.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
-          "Um desconto de novembro só é vantagem se o preço do dia ficar abaixo desta tabela. O preço do site muda sem aviso, então confira no dia."
+          "Um preço do Max November só é vantagem se ficar abaixo desta tabela. O preço do site muda sem aviso, então confira no dia."
         ]
       },
       {
@@ -80291,15 +80600,16 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**O cupom abateu cerca de 9% sobre a promoção.** No whey do teste, o percentual ficou abaixo dos 10%.",
-          "**O Pix é \"até 5%\".** A home anunciava esse teto no Pix, no boleto e no 1x no cartão."
+          "**O cupom abateu cerca de 9% sobre a promoção.** No whey do teste, feito em outubro, o percentual ficou abaixo dos 10%.",
+          "**O Pix é 5%.** No Max November, a home anuncia 5% OFF no Pix e no boleto.",
+          "**O cashback é da loja.** Não testamos o cupom num produto com preço do Max November nem o crédito do cashback junto com o código; a linha \"Descontos\" do carrinho mostra o que o cupom abateu antes de pagar."
         ],
         "postParagraphs": [
           "Para o passo a passo do carrinho, veja [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar). As condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
-        "heading": "Frete grátis e prazo: o que conferir antes de novembro",
+        "heading": "Frete grátis e prazo: o que conferir no carrinho",
         "paragraphs": [
           "O banner da loja diz \"frete grátis em todo o país\", com asterisco. O asterisco é a política de frete: a entrega sai sem custo a partir de um valor de pedido que depende da região do CEP. A política do site trazia estes valores:"
         ],
@@ -80348,9 +80658,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano, e a loja não anunciou campanha de Black Friday na nossa última consulta. Ele vale em todas as formas de pagamento e soma com as promoções do site. Se a campanha de novembro tiver uma regra própria, o carrinho mostra antes de pagar.",
-          "O cupom vale com produto em promoção? Sim. No teste no carrinho, o cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se a campanha de novembro tiver regra própria, o carrinho mostra antes de pagar.",
-          "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de até 5% do Pix e do boleto. O Pix e o boleto são \"até 5%\", segundo o banner da loja.",
+          "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa de valor e 5% no Pix e no boleto.",
+          "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Num produto com preço do Max November ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
+          "O cupom vale com produto em promoção? Sim. No teste no carrinho, o cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
+          "O cupom soma com o cashback do Max November? Não testamos. O cashback é da loja, com as regras na página da campanha; o cupom entra no campo do carrinho, e a linha Descontos mostra o que ele abateu.",
+          "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 5% do Pix e do boleto que a loja anuncia no Max November.",
           "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site na consulta de outubro. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
           "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
           "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha \"Descontos\"."
@@ -80361,8 +80673,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 438,
     "slug": "black-friday-dr-peanut",
-    "title": "Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis",
-    "seoTitle": "Black Friday Dr. Peanut 2026: cupom e frete grátis",
+    "title": "Black Friday Dr. Peanut 2026: a loja segue sem campanha, o cupom DREMCASACOMCECILIA e o frete grátis",
+    "seoTitle": "Black Friday Dr. Peanut 2026: cupom de 10% e frete grátis",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -80373,10 +80685,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a Dr. Peanut tinha anunciado para a Black Friday de 2026 em 14 de outubro, como o cupom DREMCASACOMCECILIA soma com as promoções do site, o frete grátis por região com o cupom já aplicado e o checklist antes de pagar.",
-    "metaDescription": "Black Friday Dr. Peanut 2026: cupom DREMCASACOMCECILIA com 10% OFF em todo o site, soma com promoção, frete grátis por região e o que conferir antes de pagar.",
+    "description": "A Dr. Peanut entrou em novembro de 2026 sem campanha de Black Friday no site. Como o cupom DREMCASACOMCECILIA soma com as promoções do site, o frete grátis por região com o cupom já aplicado e o checklist antes de pagar.",
+    "metaDescription": "Black Friday Dr. Peanut 2026: a loja segue sem campanha. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com promoção; frete grátis por região.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/black-friday-dr-peanut-capa-discover-v2.webp",
@@ -80386,11 +80699,11 @@ export const reviewsData: unknown[] = [
     "pros": [
       "O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento",
       "Soma com as promoções do site: no teste de 13/10/2026, valeu até na pasta de amendoim em promoção",
-      "O Pix tem 5% de desconto na loja",
+      "O Pix tem 3% de desconto na ficha do produto",
       "Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul"
     ],
     "cons": [
-      "Em 14/10/2026, a loja ainda não tinha anunciado datas, produtos nem preços da Black Friday",
+      "A loja entrou em novembro sem datas, produtos nem preços de Black Friday no site",
       "O mínimo do frete grátis é conferido sobre o total já com o cupom",
       "No Centro-Oeste, Nordeste e Norte, o frete grátis só começa em R$ 199,90",
       "Na troca por outro produto, o frete de ida e de volta é seu"
@@ -80423,13 +80736,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Dr. Peanut 2026",
         "paragraphs": [
-          "A Dr. Peanut ainda não anunciou a Black Friday de 2026, que cai em 27 de novembro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções no ar; a loja dá 5% no Pix, e só o carrinho mostra se os dois somam. O capítulo sobre o cupom na Black Friday mostra a conta."
+          "A Dr. Peanut entrou em novembro sem campanha de Black Friday: a home traz só o frete grátis e os combos, e o grande dia é 27 de novembro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções no ar; a ficha do produto mostra 3% no Pix, e só o carrinho mostra se somam."
         ]
       },
       {
         "heading": "A Dr. Peanut faz Black Friday?",
         "paragraphs": [
-          "Para 2026, a loja não publicou nada até 14/10/2026. Na home, o que aparecia era o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Também não havia datas de início e fim nem lista de produtos da campanha.",
+          "Por enquanto, a loja não publicou nada para 2026. Em novembro, a home segue como em outubro: o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Não há datas de início e fim nem lista de produtos da campanha.",
           "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
           "Da Black Friday de 2025, não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
         ],
@@ -80452,7 +80765,7 @@ export const reviewsData: unknown[] = [
           "**Cupom:** os 10% do DREMCASACOMCECILIA entram sobre o subtotal do carrinho, que já traz o preço promocional."
         ],
         "postParagraphs": [
-          "A loja dá 5% de desconto no Pix. Se esse desconto soma com o cupom, só o resumo do carrinho mostra.",
+          "A ficha do produto mostra 3% de desconto no Pix. Se esse desconto soma com o cupom, só o resumo do carrinho mostra.",
           "O teste no carrinho mostra a soma do cupom com a promoção. O carrinho tinha três itens, entre eles uma pasta de amendoim em promoção, de R$ 64,90 por R$ 59,89. O subtotal era de R$ 440,16. Com o cupom, a linha \"Descontos\" abateu R$ 44,02, que são 10% do subtotal, e o total ficou em **R$ 396,14**.",
           "Se a linha \"Descontos\" não aparecer no resumo do carrinho, o cupom não foi aplicado. Confira se o código está escrito igual, sem letra faltando."
         ],
@@ -80489,7 +80802,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Um carrinho de R$ 155,00, por exemplo, passa de R$ 149,90, mas com os 10% fica em R$ 139,50 e o frete volta a ser cobrado em São Paulo capital, no Sudeste e no Sul. Se faltar pouco, confira o Total depois de aplicar o código e compare o custo do frete com o de um item extra.",
-          "Os valores são de 14/10/2026. Reconfira o aviso do carrinho em novembro: ele mostra o mínimo da sua região no momento da compra."
+          "Os mínimos eram os mesmos em outubro e no início de novembro. Mesmo assim, reconfira o aviso do carrinho: ele mostra o mínimo da sua região no momento da compra."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
@@ -80518,13 +80831,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dr. Peanut tem Black Friday? Até a última conferência a loja ainda não tinha anunciado datas, produtos nem preços da campanha de 2026. A Black Friday é na última sexta-feira de novembro, e a Cyber Monday, na segunda-feira seguinte.",
+          "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não anunciou campanha: em novembro, o site segue sem datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
           "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste.",
           "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido sobre o total já com o cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
           "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? Pela nossa conta, R$ 166,56 em São Paulo capital, Sudeste e Sul e R$ 222,12 no Centro-Oeste, Nordeste e Norte. O aviso do carrinho confirma depois de aplicar o código.",
-          "A Dr. Peanut tem desconto no Pix? Tem, de 5%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
+          "A Dr. Peanut tem desconto no Pix? Tem: a ficha do produto mostra 3%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
           "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
-          "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho em novembro com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto de novembro está garantido."
+          "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto está garantido."
         ]
       }
     ]
@@ -80532,8 +80845,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 439,
     "slug": "black-friday-probiotica",
-    "title": "Black Friday Probiótica 2026: sem data anunciada, preços de outubro e o cupom PRO10EMCASACOMCECILIA",
-    "seoTitle": "Black Friday Probiótica 2026: preços, Pix e cupom",
+    "title": "Black Friday Probiótica 2026: o Novembro PRO já começou, preços de outubro e o cupom PRO10EMCASACOMCECILIA",
+    "seoTitle": "Black Friday Probiótica 2026: Novembro PRO e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -80544,10 +80857,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando é a Black Friday de 2026, o que a Probiótica tinha publicado em 14 de outubro, os preços de whey, creatina, barra e colágeno para comparar, como o cupom PRO10EMCASACOMCECILIA soma com o Pix, o frete grátis por região, kits, trocas e devolução.",
-    "metaDescription": "Black Friday Probiótica 2026: sem página nem data em 14/10, preços de outubro, cupom PRO10EMCASACOMCECILIA com Pix, frete grátis por região e trocas.",
+    "description": "O Novembro PRO da Probiótica já começou, por tempo limitado, com Pix e boleto de até 5% OFF. Os preços de whey, creatina, barra e colágeno de outubro para comparar, como o cupom PRO10EMCASACOMCECILIA soma com a promoção, o frete grátis por região, kits e trocas.",
+    "metaDescription": "Black Friday Probiótica 2026: o Novembro PRO já começou, com Pix e boleto de até 5% OFF. Cupom PRO10EMCASACOMCECILIA de até 10% e frete grátis.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/black-friday-probiotica-capa-discover.webp",
@@ -80555,14 +80869,15 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
+      "O Novembro PRO já está no ar, por tempo limitado",
       "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, em todas as formas de pagamento",
       "O cupom vale em conta nova e antiga e soma com o preço promocional da loja",
-      "Pix e boleto com até 5% OFF em 14 de outubro",
+      "Pix e boleto com até 5% OFF no Novembro PRO",
       "Frete grátis a partir de R$ 104 na capital de São Paulo, pela forma de envio mais barata",
       "Whey Protein Iso Blend 900g a R$ 79,00 em 14 de outubro, contra R$ 121,99 do preço riscado"
     ],
     "cons": [
-      "Em 14 de outubro, a Probiótica não tinha publicado página nem data de Black Friday",
+      "A loja não publicou data de fim nem percentual geral do Novembro PRO",
       "O percentual do cupom varia por produto, e em alguns é menor que 10%",
       "Kit não recebe promoção, dizem os termos da loja",
       "O cupom pode derrubar o total abaixo do mínimo do frete grátis",
@@ -80572,19 +80887,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Probiótica 2026",
         "paragraphs": [
-          "A Probiótica ainda não anunciou Black Friday: o site não tinha página nem data. O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional. O que muda a decisão é que a loja lança ofertas sem aviso; veja abaixo."
+          "O Novembro PRO da Probiótica já começou, por tempo limitado, com Pix e boleto de até 5% OFF; a loja não publicou data de fim nem percentual geral, e as ofertas podem sair do ar quando o estoque acaba. O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional."
         ]
       },
       {
-        "heading": "Quando é a Black Friday da Probiótica?",
+        "heading": "Quando é e o que está no ar no Novembro PRO",
         "paragraphs": [
-          "A Probiótica não publicou data de Black Friday para 2026. O site não tinha página de Black Friday, e os endereços /black-friday e /blackfriday davam erro 404. O que existe é o calendário: a Black Friday cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30.",
-          "A loja também não dá prazo de aviso. Os termos de uso dizem que as ofertas e promoções \"podem ser lançadas a qualquer momento, sem aviso prévio\". Uma promoção pode aparecer antes de 27 de novembro, e uma que você viu pode sair do site quando o estoque acaba."
+          "A campanha de novembro da Probiótica é o Novembro PRO, e ele já começou: a home diz \"Já começou o Novembro PRO, por tempo limitado\", com Pix e boleto de até 5% OFF. A loja não publicou data de fim nem um percentual geral de desconto: o preço de campanha aparece produto a produto, com o preço riscado ao lado.",
+          "A Black Friday do calendário cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30. Os termos de uso dizem que as ofertas \"podem ser lançadas a qualquer momento, sem aviso prévio\", e uma oferta que você viu pode sair do site quando o estoque acaba: se o preço do dia já está abaixo da tabela de outubro, não espere a sexta."
         ],
         "image": {
           "src": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
           "alt": "Página inicial do site da Probiótica em 14/10/2026, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos (squeeze, galão de 1,8 L e toalha)",
-          "caption": "A página inicial da Probiótica, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos.",
+          "caption": "A página inicial da Probiótica em outubro, antes do Novembro PRO, com o banner Compre R$ 299,90 e ganhe 3 brindes exclusivos.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -80592,7 +80907,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "A régua é o catálogo público do site, antes do cupom e do Pix. Não são preços de Black Friday. O preço da loja muda, então use a tabela como régua: se em novembro o preço do dia ficar abaixo do dela, o produto está mais barato que em outubro."
+          "A régua é o catálogo público do site em outubro, antes do cupom, do Pix e do Novembro PRO. O preço da loja muda, então use a tabela como régua: se o preço do dia ficar abaixo dela, o produto está mais barato que em outubro."
         ],
         "comparisonTable": {
           "caption": "Preços da Probiótica em 14 de outubro de 2026: preço do dia e preço riscado, antes do cupom e do Pix.",
@@ -80646,7 +80961,7 @@ export const reviewsData: unknown[] = [
           "Os outros descontos e regras que mexem no total, pelo que a loja mostrava:"
         ],
         "bullets": [
-          "**Pix e boleto:** a loja anuncia até 5% OFF. Nos cards da home, o Pix à vista aparecia com 3% nas proteínas e 5% no resto do site. O percentual é da loja e pode mudar: o checkout mostra o valor final.",
+          "**Pix e boleto:** a loja anuncia até 5% OFF, no Novembro PRO inclusive. Em outubro, nos cards da home, o Pix à vista aparecia com 3% nas proteínas e 5% no resto do site. O percentual é da loja e pode mudar: o checkout mostra o valor final.",
           "**Frete grátis:** depende da região do CEP e vale para a forma de envio mais barata. Sedex é por conta do cliente.",
           "**Brinde:** o valor que conta é o final do pedido, depois de todos os descontos, incluindo cupom e Pix."
         ],
@@ -80684,7 +80999,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Exemplo de conta, não de produto: no Sudeste, um carrinho de R$ 140 passa do mínimo de R$ 134 sem cupom. Com o desconto máximo de 10%, o total cai para R$ 126 e o frete deixa de ser grátis. Na Black Friday, com preços mudando, vale refazer essa conta no carrinho antes de pagar.",
+          "Exemplo de conta, não de produto: no Sudeste, um carrinho de R$ 140 passa do mínimo de R$ 134 sem cupom. Com o desconto máximo de 10%, o total cai para R$ 126 e o frete deixa de ser grátis. No Novembro PRO, com preços mudando, vale refazer essa conta no carrinho antes de pagar.",
           "A ordem prática é montar o carrinho, aplicar o cupom no campo \"Cupom de Desconto\", conferir a linha \"Descontos\" e o total contra o mínimo da região e só então escolher a forma de pagamento. As condições do código estão na [página do cupom da Probiótica](/cupons/probiotica), e o passo a passo, em [Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-probiotica-como-usar)."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
@@ -80711,13 +81026,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom PRO10EMCASACOMCECILIA vale na Black Friday da Probiótica? Ele vale no site oficial, em todas as formas de pagamento, e dá até 10% OFF, com percentual menor em alguns produtos. A loja não anunciou a campanha de Black Friday, e o carrinho mostra o desconto antes de pagar.",
+          "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já começou, por tempo limitado, sem data de fim publicada; a Black Friday do calendário é a última sexta-feira de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba.",
+          "O cupom PRO10EMCASACOMCECILIA vale no Novembro PRO? Ele vale no site oficial, em todas as formas de pagamento, dá até 10% OFF, com percentual menor em alguns produtos, e soma com o preço promocional. Num produto com preço do Novembro PRO ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
           "O cupom soma com produto em promoção? Soma com o preço promocional: no nosso teste, a creatina estava em promoção e o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
           "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto, e o checkout mostra o valor final.",
           "A Probiótica tem frete grátis? Tem, a partir de R$ 104 (capital de SP) a R$ 599 (Norte), na forma de envio mais barata e fora o Sedex. Cupom pode derrubar o total abaixo do mínimo.",
           "O brinde conta o valor com ou sem cupom? Conta o valor final, depois de todos os descontos. Se o cupom ou o Pix levar o pedido para baixo do valor do brinde, ele pode não entrar.",
           "Dá para trocar um produto da Probiótica? Sim. O arrependimento vale por 7 dias corridos depois do recebimento, com embalagem original e lacre intactos, e o defeito, por 30 dias corridos.",
-          "A promoção pode acabar antes do fim da Black Friday? Pode. Os termos da loja dizem que as promoções podem ser lançadas a qualquer momento, sem aviso prévio, e também sair do site quando o produto esgota."
+          "A promoção pode acabar antes do fim do Novembro PRO? Pode. Os termos da loja dizem que as promoções podem ser lançadas a qualquer momento, sem aviso prévio, e também sair do site quando o produto esgota."
         ]
       }
     ],
@@ -80749,8 +81065,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 440,
     "slug": "black-friday-clea-store",
-    "title": "Black Friday Cléa Store 2026: campanha ainda não anunciada, preços de outubro e o cupom CSEMCASACOMCECILIA",
-    "seoTitle": "Black Friday Cléa Store 2026: preços e cupom",
+    "title": "Black Friday Cléa Store 2026: 30% OFF em todo o site, kits a preço fixo e o cupom CSEMCASACOMCECILIA",
+    "seoTitle": "Black Friday Cléa Store 2026: 30% OFF e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -80761,10 +81077,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que a Cléa Store fez na Black Friday de 2025, os preços de tabela e do site em 14/10/2026 para comparar com novembro, o teste do cupom CSEMCASACOMCECILIA num kit em promoção, o frete grátis acima de R$ 599, a devolução grátis e o cashback de 10%.",
-    "metaDescription": "Black Friday Cléa Store 2026: campanha não anunciada, preços de outubro, cupom CSEMCASACOMCECILIA testado no kit em promoção, frete, devolução e cashback.",
+    "description": "A Black Friday da Cléa Store já começou: 30% OFF em todo o site e kits de camiseta a preço fixo. O que a loja mostra, os preços de outubro para comparar, o teste do cupom CSEMCASACOMCECILIA num kit em promoção, o frete grátis acima de R$ 599, a devolução grátis e o cashback de 10%.",
+    "metaDescription": "Black Friday Cléa Store 2026 já começou: 30% OFF em todo o site e kits a preço fixo. Preços de outubro, cupom CSEMCASACOMCECILIA, frete e cashback.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/black-friday-clea-store-capa-discover.webp",
@@ -80779,7 +81096,7 @@ export const reviewsData: unknown[] = [
       "Frete grátis acima de R$ 599"
     ],
     "cons": [
-      "Em 14/10/2026, a loja ainda não tinha anunciado a campanha de Black Friday deste ano",
+      "A loja não publica até quando a campanha vale, e não testamos o cupom sobre os preços da Black Friday",
       "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência",
       "A loja aceita só um cupom por pedido",
       "Os termos da loja preveem exceção para produtos remarcados, e não testamos o cupom em peça avulsa remarcada"
@@ -80788,13 +81105,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Cléa Store 2026",
         "paragraphs": [
-          "A Cléa Store ainda não anunciou a Black Friday de 2026. O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site e valeu até sobre kit em promoção no nosso teste. Use os preços de outubro como régua; o capítulo sobre o cupom no kit mostra a conta."
+          "A Black Friday da Cléa Store já está no ar: 30% OFF em todo o site e kits a preço fixo, sem data de fim publicada. O dia da Black Friday é 27 de novembro. O cupom CSEMCASACOMCECILIA dá 10% OFF e valeu sobre kit em promoção em outubro; sobre a campanha, confira a linha Desconto antes de pagar."
+        ]
+      },
+      {
+        "heading": "O que a Black Friday da Cléa Store mostra agora",
+        "paragraphs": [
+          "A faixa do topo do site anuncia 30% OFF em todo o site, e o menu Black Friday tem duas seções: \"preço fixo\", com os kits, e \"Black 30\". O banner principal mostra o Kit 3 T-Shirts por R$ 199,00: em outubro, o mesmo kit saía por R$ 258,00 na promoção leve 3, pague 2, então o preço da campanha fica R$ 59,00 abaixo.",
+          "A sexta da Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. A loja não publica quando a campanha termina nem se o preço muda na sexta. Nos produtos de preço cheio, o 30% é o que compara com a tabela de outubro; nos que já tinham desconto, como os bodies, só é desconto novo o que ficar abaixo do preço que o site mostrava em outubro."
         ]
       },
       {
         "heading": "Como foi a Black Friday da Cléa Store em 2025?",
         "paragraphs": [
-          "A Cléa Store ainda não anunciou a campanha deste ano: o menu tem a categoria Black Friday, sem data nem percentual. A sexta de 2026 cai em 27 de novembro, e a Cyber Monday, em 30 de novembro.",
           "Em 2025, a Black Friday da Cléa foi anunciada na própria loja. Na home de novembro de 2025, no registro do Internet Archive, o menu trazia \"BLACK FRIDAY - ATÉ 75% OFF\" e \"KIT LEVE 3 PAGUE 2\". A faixa do topo dizia: \"BLACK FRIDAY CLÉA • ATÉ 75% OFF • KITS LEVE 3 PAGUE 2 • 10% DE CASHBACK\".",
           "São três regras que a loja destacou:"
         ],
@@ -80804,7 +81127,7 @@ export const reviewsData: unknown[] = [
           "**10% de cashback:** em créditos, diz a página de cashback da loja. As regras estão mais abaixo, na seção sobre frete, devolução e cashback."
         ],
         "postParagraphs": [
-          "O registro de 2025 não traz as datas de início e fim da campanha. Na home de novembro de 2024, o Internet Archive não mostra texto de Black Friday. É histórico: a loja não confirmou que repete o formato em 2026."
+          "O registro de 2025 não traz as datas de início e fim da campanha. Na home de novembro de 2024, o Internet Archive não mostra texto de Black Friday. Em 2026, o formato mudou: 30% OFF em todo o site e kits a preço fixo, em vez do \"até 75%\" e do leve 3, pague 2."
         ]
       },
       {
@@ -80850,7 +81173,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência. Em novembro, só é desconto novo o que ficar abaixo do preço no site em outubro. Se aparecer no mesmo valor, o selo de Black Friday não mudou o preço. O kit se compara com os R$ 258,00."
+          "Os bodies já tinham desconto em outubro, então o preço de tabela não serve de referência: só é desconto novo o que ficar abaixo do preço no site em outubro. Se aparecer no mesmo valor, o selo de Black Friday não mudou o preço. O kit se compara com os R$ 258,00, e o banner da campanha o mostra por R$ 199,00."
         ]
       },
       {
@@ -80886,7 +81209,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Só um cupom por pedido: pelos termos da loja, cada cliente usa um voucher por pedido. Não testamos o cupom em peça avulsa remarcada.",
-          "Os termos permitem exceção, então a loja pode excluir itens de uma campanha. Vamos repetir o teste no checkout em novembro. Antes de pagar, a linha \"Desconto\" do resumo mostra o que o cupom abateu.",
+          "Os termos permitem exceção, então a loja pode excluir itens de uma campanha, e não testamos o cupom sobre os preços da Black Friday. Antes de pagar, a linha \"Desconto\" do resumo mostra o que o cupom abateu; se ela não aparecer, vale o preço da campanha.",
           "Se o seu carrinho tem peças de preço cheio e peças remarcadas, o passo a passo do código está em [Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-clea-store-como-usar). As condições do código ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
         ],
         "images": [
@@ -80924,13 +81247,14 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o cupom da Cléa Store na Black Friday? O cupom da nossa parceria é o CSEMCASACOMCECILIA, com 10% OFF em todo o site, em todas as formas de pagamento.",
-          "O cupom vale em kit em promoção? No nosso teste, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, então vamos reconferir no checkout em novembro.",
+          "O cupom vale em kit em promoção? No teste de outubro, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, e não testamos o cupom sobre os preços da Black Friday: confira a linha Desconto antes de pagar.",
           "O cupom soma com o cashback? Sim. No nosso teste, o checkout mostrou cashback previsto de até R$ 23,22, calculado sobre o valor com o cupom.",
           "Posso usar dois cupons no mesmo pedido? Não. Pelos termos da loja, cada cliente usa um voucher por pedido.",
           "O cupom dá frete grátis? Não. O frete grátis é regra da loja e valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",
           "A Cléa Store tem devolução grátis? Sim, sempre: a postagem não é cobrada. O prazo é de 30 dias corridos depois do recebimento, com a peça sem uso e com a nota fiscal.",
           "Como funciona o cashback da Cléa Store? É de 10% em créditos, concedidos automaticamente na compra pelo site. Ficam disponíveis em até 1 dia útil, valem por 30 dias, são acumulativos e são usados no campo \"Utilize seu saldo de créditos\" do checkout.",
-          "A Black Friday de 2026 da Cléa Store já tem data? Não. A loja ainda não tinha publicado a campanha quando lemos o site."
+          "Quando começa e quanto dura a Black Friday da Cléa Store? Já começou: a faixa do site anuncia 30% OFF em todo o site, e o menu Black Friday traz os kits a preço fixo e a seção Black 30. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
+          "O que é a seção Black 30 da Cléa Store? É uma das duas seções do menu Black Friday da loja, ao lado da de kits a preço fixo. A faixa do site anuncia 30% OFF em todo o site; o desconto de cada peça é o que a página dela mostra."
         ]
       }
     ],
@@ -80962,8 +81286,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 441,
     "slug": "black-friday-lejour",
-    "title": "Black Friday Lejour 2026: sem promoção anunciada, o que a Lejour fez em 2025 e vale esperar?",
-    "seoTitle": "Black Friday Lejour 2026: Premium e taxa da lista",
+    "title": "Black Friday Lejour 2026: Black November com planos e adicionais com 50% OFF, e vale assinar o Premium?",
+    "seoTitle": "Black Friday Lejour 2026: planos com 50% OFF",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -80974,10 +81298,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Em 14/10/2026 a Lejour ainda não tinha anunciado Black Friday. Veja o que a faixa do site mostrou em 2025, os planos e taxas de hoje, a conta de uma lista de R$ 20.000 e se vale esperar para abrir a lista.",
-    "metaDescription": "Black Friday Lejour 2026: sem promoção anunciada em 14/10, histórico de 2025, planos e taxas de hoje e a conta para decidir se vale esperar.",
+    "description": "A Black November da Lejour já está no ar: planos e adicionais com 50% OFF. O que a faixa do site anuncia, o que a Lejour fez em 2025, os planos e taxas de outubro, a conta de uma lista de R$ 20.000 e quando o Premium pela metade compensa.",
+    "metaDescription": "Black Friday Lejour 2026 já começou: Black November com planos e adicionais com 50% OFF. Planos, taxas e a conta de quando o Premium compensa.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/lejour/black-friday-lejour-capa-discover.webp",
@@ -80991,7 +81316,7 @@ export const reviewsData: unknown[] = [
       "O crédito da lista pode virar Pix ou produtos da Fast Shop, com cashback mínimo de 4%"
     ],
     "cons": [
-      "Em 14/10/2026 a Lejour não tinha anunciado promoção para este ano",
+      "A faixa da Black November não diz até quando vale nem sobre qual preço o 50% incide",
       "Os períodos e as regras das ofertas de 2025 não foram divulgados",
       "Pela taxa, o Premium só compensa a partir de cerca de R$ 16.650 em presentes",
       "O link da Cecília é só uma indicação, sem desconto"
@@ -81026,13 +81351,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Lejour 2026",
         "paragraphs": [
-          "A Lejour ainda não anunciou promoção para a Black Friday de 2026, que cai em 27 de novembro. O link da Cecília é só uma indicação, sem desconto: qualquer oferta é da Lejour e vale para qualquer casal. Para decidir se vale esperar, veja o que a loja fez em 2025."
+          "A Lejour já está em Black November: a faixa do site anuncia planos e adicionais com 50% OFF, e o dia da Black Friday é 27 de novembro. O link da Cecília é só uma indicação, sem desconto: a oferta é da Lejour e vale para qualquer casal. A conta abaixo mostra quando o Premium pela metade compensa."
+        ]
+      },
+      {
+        "heading": "O que a Black November da Lejour mostra",
+        "paragraphs": [
+          "A faixa do topo do site diz \"Black November Lejour: planos e adicionais com 50% OFF\". A promoção é dos planos pagos, o Premium e o Pro, e dos adicionais, como o domínio; a faixa não fala da taxa por presente, que em 2025 foi o que a Lejour reduziu em dezembro.",
+          "A faixa não diz sobre qual preço o 50% incide nem até quando vale. Em outubro, o painel mostrava o Premium a R$ 99,90, riscado de R$ 179,90: metade dos R$ 179,90 dá R$ 89,95, e metade dos R$ 99,90, R$ 49,95. As duas são contas nossas; o preço que vale é o que o painel da Lejour mostra na hora de assinar.",
+          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, na segunda seguinte. Como a Lejour chama a campanha de Black November, a oferta tende a cobrir o mês, mas a faixa não publica a data de fim."
         ]
       },
       {
         "heading": "Como foi a Black Friday da Lejour em 2025",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, e a Cyber Monday, na segunda seguinte. Na última conferência, a Lejour ainda não tinha anunciado promoção para este ano: a home não trazia faixa de campanha. Este guia é atualizado quando a Lejour anunciar o que muda.",
           "Em 2025, a Lejour não fez uma promoção só. Os registros do site no Internet Archive mostram a faixa do topo mudando de oferta ao longo do segundo semestre:"
         ],
         "bullets": [
@@ -81043,13 +81375,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "A diferença para o preço de hoje é grande. O Premium custava R$ 99,90, ou seja, R$ 40 a mais que os R$ 59,90 cobrados em novembro do ano passado. A taxa de 1,99% seria 1,9 ponto percentual menor que a do Basic (3,89%) e 1 ponto menor que a do Pro (2,99%), a menor entre os planos de hoje.",
           "Três limites valem para esse histórico. O asterisco das faixas de 2025 leva a um rodapé que cita cadastros feitos em maio, então a Lejour não divulgou as datas de início e de fim das promoções. Também não se sabe se a taxa de 1,99% valia para listas criadas antes da campanha nem se somava com o plano pago. E em 2024 não houve nada parecido: os registros do fim de 2024 (novembro e dezembro) não mostram faixa de promoção na home.",
-          "Os registros de 2025 mostram o que a Lejour fez naquele ano, não o que fará em 2026."
+          "Os registros de 2025 mostram o que a Lejour fez naquele ano. Em 2026, a campanha começou mais cedo e com outro desenho: 50% OFF nos planos e adicionais, sem menção à taxa."
         ]
       },
       {
-        "heading": "Planos e taxas da Lejour hoje",
+        "heading": "Planos e taxas da Lejour fora da campanha",
         "paragraphs": [
-          "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour na leitura de preços, sem preço de campanha. O Premium já aparecia com desconto sobre o preço cheio, e esse preço pode mudar."
+          "São três planos, e o Basic é grátis. O Premium e o Pro são pagos uma única vez, valem para sempre e podem ser pagos à vista ou em até 12x. A tabela abaixo é a do painel da Lejour na leitura de outubro, antes da Black November: é a régua para saber quanto o 50% tira. O Premium já aparecia com desconto sobre o preço cheio, e esse preço pode mudar."
         ],
         "comparisonTable": {
           "headers": [
@@ -81093,9 +81425,9 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.3563
       },
       {
-        "heading": "Vale esperar a Black Friday para abrir a lista?",
+        "heading": "Vale assinar o Premium na Black November?",
         "paragraphs": [
-          "A Lejour não tinha anunciado promoção para este ano, e não dá para saber se haverá desconto no Premium ou taxa reduzida.",
+          "Com a Black November no ar, a pergunta deixa de ser se vale esperar e passa a ser se o plano pago pela metade compensa para a sua lista. A taxa por presente, até onde a faixa diz, não mudou.",
           "A decisão depende de quanto a taxa pesa. A Lejour cobra um percentual sobre cada presente, e o casal escolhe se paga a taxa ou se os convidados pagam por cima. A conta abaixo vale para o casal que paga. Ela usa uma lista de exemplo com R$ 20.000 em presentes e as taxas da tabela anterior: 3,89% no Basic, 3,29% no Premium e 2,99% no Pro. A última linha é uma hipótese: a taxa de 1,99% que a Lejour anunciou na faixa do site no fim de 2025, sem garantia de que volte. Todas as contas são nossas."
         ],
         "comparisonTable": {
@@ -81147,12 +81479,13 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**Lista de R$ 20.000:** o Premium a R$ 99,90 fecha R$ 20,10 abaixo do Basic. O Pro sai R$ 19,90 acima. Com o Premium a R$ 179,90, o plano pago sai R$ 59,90 acima do Basic.",
-          "**Lista menor:** pela taxa, o Premium só compensa a partir de cerca de R$ 16.650 em presentes (R$ 99,90 divididos por 0,60 ponto percentual de diferença entre as taxas). Abaixo disso, só pela taxa, o Basic sai mais barato. Se o preço do Premium voltar a R$ 179,90, o ponto sobe para cerca de R$ 29.983.",
-          "**Se a taxa de 1,99% voltar:** ela tiraria R$ 380 da taxa do Basic nessa lista, mais do que a queda de taxa de qualquer plano (R$ 120 no Premium e R$ 180 no Pro, antes do preço do plano). Não sabemos se valeria para listas já criadas, por quanto tempo nem se vale em todos os planos. Quem espera pode não achar promoção em novembro: hoje não há promoção anunciada.",
+          "**Lista menor:** pela taxa, o Premium a R$ 99,90 só compensa a partir de cerca de R$ 16.650 em presentes (R$ 99,90 divididos por 0,60 ponto percentual de diferença entre as taxas). Abaixo disso, só pela taxa, o Basic sai mais barato. Se o preço do Premium voltar a R$ 179,90, o ponto sobe para cerca de R$ 29.983.",
+          "**Premium com 50% OFF:** é conta nossa, porque a faixa não diz a base do desconto. Se o 50% incide sobre os R$ 99,90, o Premium sai por R$ 49,95 e compensa a partir de cerca de R$ 8.325 em presentes; na lista de R$ 20.000, fecha em R$ 707,95, R$ 70,05 abaixo do Basic. Se incide sobre os R$ 179,90, sai por R$ 89,95, compensa a partir de cerca de R$ 14.992 e fecha em R$ 747,95 na mesma lista. Confira o preço no painel antes de assinar.",
+          "**Se a taxa de 1,99% voltar:** ela tiraria R$ 380 da taxa do Basic nessa lista, mais do que a queda de taxa de qualquer plano (R$ 120 no Premium e R$ 180 no Pro, antes do preço do plano). A faixa da Black November fala só de planos e adicionais, então não há taxa reduzida anunciada.",
           "**Quando o convidado paga a taxa:** nada disso muda o valor que o casal recebe. Nesse caso, o plano pago só vale pelos outros recursos, como saques ilimitados e domínio incluso."
         ],
         "postParagraphs": [
-          "O Basic é gratuito, então abrir a lista agora não custa nada e não impede de assinar o Premium depois. O cadastro está em [Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes](/reviews/lista-de-casamento-lejour-como-criar)."
+          "O Basic é gratuito, então abrir a lista agora não custa nada e não impede de assinar o Premium depois, dentro da campanha. O cadastro está em [Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes](/reviews/lista-de-casamento-lejour-como-criar)."
         ]
       },
       {
@@ -81173,12 +81506,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Lejour terá Black Friday em 2026? Na última conferência, a Lejour ainda não tinha confirmado promoção para este ano. A Black Friday é na última sexta-feira de novembro.",
-          "Vale esperar a Black Friday para assinar o Premium? Na leitura de preços, o Premium estava a R$ 99,90, riscado de R$ 179,90. Pela taxa e pelo preço dessa leitura, compensa a partir de cerca de R$ 16.650 em presentes; a conta completa está na seção anterior. Em 2025, o plano chegou a R$ 59,90 em novembro, mas a Lejour não garante que se repita.",
-          "A taxa da lista fica menor na Black Friday? No fim de 2025, a Lejour anunciou taxa reduzida de 1,99% numa faixa do site, sem informar o período. Na leitura de preços, as taxas eram de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro.",
+          "Quando começa e quanto dura a Black Friday da Lejour? Já começou: a faixa do site anuncia a Black November Lejour, com planos e adicionais com 50% OFF, sem data de fim publicada. A Black Friday é na última sexta-feira de novembro.",
+          "Vale assinar o Premium na Black November? Depende da lista. Em outubro, o Premium estava a R$ 99,90, riscado de R$ 179,90, e compensava a partir de cerca de R$ 16.650 em presentes. Com 50% OFF, pela nossa conta, o ponto cai para cerca de R$ 8.325 ou R$ 14.992, conforme a base do desconto; a conta completa está na seção sobre o Premium.",
+          "A taxa da lista fica menor na Black Friday? A faixa da Black November fala de planos e adicionais, não da taxa. No fim de 2025, a Lejour anunciou taxa reduzida de 1,99% numa faixa do site, sem informar o período. Na leitura de outubro, as taxas eram de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro.",
           "Quanto a taxa pesa numa lista de R$ 20.000? No Basic, R$ 778,00; no Premium, R$ 658,00; no Pro, R$ 598,00, pelas taxas da tabela. As contas são nossas, e valem quando o casal paga a taxa.",
-          "A taxa reduzida valeria para uma lista já criada? Não sabemos. A Lejour não explicou isso em 2025, e não há regulamento de 2026. Se a promoção sair, confira o regulamento dela antes de decidir.",
-          "A Lejour tem desconto pelo link do Em Casa com Cecília para a Black Friday? Não. O link é uma indicação: o cadastro e os planos são os mesmos do site da Lejour. Se a Lejour fizer promoção, ela vale para qualquer casal, com ou sem o nosso link. As condições do link estão na [página da Lejour no Em Casa com Cecília](/cupons/lejour).",
+          "O 50% OFF vale para uma lista já criada? A faixa não diz, e a Lejour não explicou isso em 2025. Como o Basic é grátis e o plano pago é comprado no painel, confira no painel da sua lista se o preço de campanha aparece antes de assinar.",
+          "A Lejour tem desconto pelo link do Em Casa com Cecília para a Black Friday? Não. O link é uma indicação: o cadastro e os planos são os mesmos do site da Lejour. A Black November é da Lejour e vale para qualquer casal, com ou sem o nosso link. As condições do link estão na [página da Lejour no Em Casa com Cecília](/cupons/lejour).",
           "Dá para usar o crédito da lista na Fast Shop? Dá. A Fast Shop informava cashback mínimo de 4% nas compras com o crédito."
         ]
       }
@@ -85080,8 +85413,9 @@ export const reviewsData: unknown[] = [
   {
     "id": 452,
     "slug": "black-friday-belive",
-    "title": "Black Friday Belive 2026: preços de outubro, o cupom MAUAD e o que a loja já anunciou",
-    "seoTitle": "Black Friday Belive 2026: preços e cupom MAUAD",
+    "bodyDatesReason": "campanha",
+    "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD",
+    "seoTitle": "Black Friday Belive 2026: Black November e cupom MAUAD",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -85092,10 +85426,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Black Friday Belive 2026: o que a loja já mostra sem datas, preços de página em outubro, o cupom MAUAD com Pix e o frete grátis por região.",
-    "metaDescription": "Black Friday Belive 2026: o que a loja já mostra sem datas, preços de página em outubro, o cupom MAUAD com Pix e o frete grátis por região.",
+    "description": "A Black November da Belive já está no ar: até 30% de desconto em todo o site, mais 5% no Pix, panetones em oferta e o cupom MAUAD de 10% para somar.",
+    "metaDescription": "Black Friday Belive 2026: a Black November já começou, com até 30% em todo o site, 5% no Pix e panetones em oferta. Cupom MAUAD de 10% e frete por região.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/black-friday-belive-capa-discover.webp",
@@ -85109,9 +85444,9 @@ export const reviewsData: unknown[] = [
       "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO"
     ],
     "cons": [
-      "A Belive não anunciou data nem regra para a campanha de novembro",
-      "Não há regra publicada de que o MAUAD valha do mesmo jeito na campanha",
-      "Em 16/10/2026, não havia panetone à venda no site",
+      "A loja não publicou data de fim nem regra da Black November",
+      "Não testamos o MAUAD num produto com preço de Black November",
+      "Os preços da tabela são de outubro: confira o preço do dia na página do produto",
       "Frete grátis só a partir de R$ 250 no Sul e R$ 300 nos demais estados"
     ],
     "cta": {
@@ -85132,32 +85467,30 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Belive 2026",
         "paragraphs": [
-          "A Black Friday de 2026 é em 27 de novembro, mas a Belive ainda não anunciou data nem regra para a campanha. O cupom MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas do site. A tabela de preços é a régua; o capítulo final mostra o que conferir antes de novembro."
+          "A Black November da Belive já está no ar: até 30% de desconto em todo o site, mais 5% no Pix e panetones em oferta, sem data de fim publicada. O cupom MAUAD dá 10% em todas as formas de pagamento e soma com as ofertas e com o Pix; confira a linha de descontos no carrinho."
         ]
       },
       {
-        "heading": "O que a Belive já publicou",
+        "heading": "O que está no ar na Black November da Belive",
         "paragraphs": [
-          "A Belive não anunciou data nem regra para a campanha da Black Friday.",
-          "A página Black November, em belivebefree.com.br, mostrava o título \"Receba ofertas exclusivas na Black November da Belive!\" e um formulário de cadastro com e-mail e nome. Não trazia banners, percentuais nem datas."
+          "A Belive já está em Black November. A home da loja anuncia até 30% de desconto em todo o site, mais 5% no Pix, e os panetones voltaram: panetones com 5% de desconto mais 5% no Pix, kit de panetones com frete a R$ 9,90 e o lanche escolar a partir de R$ 3,39 no Pix.",
+          "A loja não publicou data de fim nem regra da campanha; a Black Friday do calendário é em 27 de novembro. O \"até 30%\" é o teto: o desconto é por produto, e a página de cada um mostra o preço do dia."
         ],
         "image": {
           "src": "/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp",
           "alt": "Página Black November do site da Belive, com o logo e a faixa Receba ofertas exclusivas na Black November da Belive",
-          "caption": "A página Black November da Belive: o convite para receber as ofertas, sem preços nem datas.",
+          "caption": "A página Black November da Belive em outubro: o convite para receber as ofertas, antes de a campanha entrar no ar.",
           "objectFit": "contain",
           "aspectRatio": 3.3333
         },
         "postParagraphs": [
-          "A loja não divulgou datas de início nem de fim. Não dá para saber quando a campanha começa ou termina.",
-          "A busca por panetone e chocotone no site voltava vazia. Por isso este guia não traz preço de panetone.",
-          "Em 2024, a mesma página tinha uma seção de panetones e frete grátis para todo o Brasil acima de R$ 150, por tempo limitado. A informação vem do Arquivo da Web (captura de 2024). Não encontramos registro público da campanha de 2025."
+          "Em outubro, a página Black November era só um cadastro para receber as ofertas, sem preços nem datas, e a busca por panetone no site voltava vazia. Este guia não traz preço de panetone: confira na página do produto."
         ]
       },
       {
         "heading": "Preços de referência",
         "paragraphs": [
-          "Use estes preços de página como régua: o maior desconto nas oito páginas foi de 20%. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
+          "Use estes preços de página, lidos em outubro, como régua: o maior desconto nas oito páginas foi de 20%. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
         ],
         "image": {
           "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
@@ -85235,14 +85568,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Um desconto de novembro só vale a pena se o preço do dia ficar abaixo desta tabela. Os preços da página mudam sem aviso.",
+          "Uma oferta da Black November só vale a pena se o preço do dia ficar abaixo desta tabela. Os preços da página mudam sem aviso.",
           "Os nomes dos produtos declaram sem glúten, sem leite, sem lactose e sem açúcar, na página de cada um. Quem tem intolerância, doença celíaca ou segue dieta deve falar com um nutricionista ou médico antes de comprar."
         ]
       },
       {
         "heading": "Quanto fica com o MAUAD e com o Pix",
         "paragraphs": [
-          "O cupom **MAUAD** dá 10% em todo o site, em qualquer forma de pagamento. Ele soma com as ofertas do site e com o Pix de 5%. Vale na primeira compra. Não vale no Mercado Livre, onde a Belive também vende.",
+          "O cupom MAUAD dá 10% em todo o site, em qualquer forma de pagamento. Ele soma com as ofertas do site e com o Pix de 5%. Vale na primeira compra. Não vale no Mercado Livre, onde a Belive também vende.",
           "No teste de checkout, o carrinho tinha quatro combos e kits com selo de oferta:"
         ],
         "image": {
@@ -85278,7 +85611,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom entrou sobre o preço de oferta de cada item. Hoje o MAUAD soma com as ofertas. Não sabemos se ele vale do mesmo jeito durante a campanha de novembro, e não vamos afirmar isso. Na campanha, conferimos o carrinho e atualizamos este texto. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
+          "O cupom entrou sobre o preço de oferta de cada item, e a regra do MAUAD é somar com as ofertas do site e com o Pix. Não testamos o cupom num produto com preço de Black November: antes de pagar, confira a linha de descontos no carrinho. As regras atuais do cupom ficam na [página do cupom da Belive](/cupons/belive), e o passo a passo no carrinho está em [Cupom Belive: como usar o MAUAD](/reviews/cupom-belive-como-usar)."
         ]
       },
       {
@@ -85305,10 +85638,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Antes de novembro: o que conferir",
+        "heading": "Na Black November: o que conferir",
         "bullets": [
-          "Vamos conferir os preços de novo na última semana de outubro; até lá, a tabela deste guia é a referência.",
-          "Compare o preço da página no dia da compra com a tabela deste guia.",
+          "Compare o preço da página no dia da compra com a tabela de outubro deste guia.",
           "Coloque o MAUAD no carrinho e confira a linha de descontos.",
           "Confira o frete pelo CEP antes de pagar.",
           "Escolha o Pix por último, para ver o total final."
@@ -85322,11 +85654,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O MAUAD vale na Black Friday? Hoje ele soma com as ofertas do site. A Belive não publicou regra para novembro; conferimos na campanha e atualizamos este guia.",
+          "Quando começa e quanto dura a Black Friday da Belive? A Black November já está no ar, com até 30% em todo o site e 5% a mais no Pix. A loja não publicou data de fim; a Black Friday do calendário é a última sexta-feira de novembro.",
+          "O MAUAD vale na Black Friday? Ele dá 10% em todas as formas de pagamento e soma com as ofertas do site e com o Pix. Não testamos o cupom num produto com preço de Black November: confira a linha de descontos no carrinho antes de pagar.",
           "O MAUAD soma com o Pix? Sim. No teste de checkout, o Pix de 5% entrou depois do cupom.",
           "O MAUAD vale no Mercado Livre? Não. Lá a Belive também vende, mas o cupom não vale.",
-          "A Belive já anunciou a data da Black Friday? Não. A página Black November é um cadastro para receber ofertas e não traz datas de início nem de fim.",
-          "Tem panetone à venda? Não havia panetone no site.",
+          "Quanto é o desconto da Black November da Belive? Até 30% em todo o site, mais 5% no Pix. O percentual é por produto; o teto é o da campanha.",
+          "Tem panetone à venda? Tem. A Black November trouxe panetones com 5% de desconto mais 5% no Pix e kit de panetones com frete a R$ 9,90.",
           "O cupom tira o frete grátis? Não. O limite de frete conta o valor sem o cupom."
         ]
       }
@@ -102170,7 +102503,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+        "title": "Black Friday Insider 2026 masculino: até 40% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
       }
     ]
   },
@@ -102993,7 +103326,7 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+        "title": "Black Friday Insider 2026 masculino: até 40% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
       },
       {
         "slug": "tabela-de-medidas-insider",
@@ -104806,8 +105139,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "id": 531,
     "slug": "black-friday-mais-mu",
-    "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou",
-    "seoTitle": "Black Friday Mais Mu 2026: preços e cupom",
+    "title": "Black Friday Mais Mu 2026: ofertas de até 50% já no ar, preços de outubro e o cupom MMEMCASACOMCECILIA",
+    "seoTitle": "Black Friday Mais Mu 2026: até 50% OFF e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -104818,10 +105151,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Mais Mu não anunciou Black Friday até 20/10/2026. Este guia traz os preços de whey e creatina de hoje para comparar, como o cupom MMEMCASACOMCECILIA soma com o Pix e as regras de frete grátis.",
-    "metaDescription": "Black Friday Mais Mu 2026: sem anúncio até 20/10/2026. Preços de whey e creatina para comparar, cupom MMEMCASACOMCECILIA com 10% OFF e frete.",
+    "description": "A Mais Mu já está com ofertas de até 50% OFF e 3% no Pix, sem chamar a campanha de Black Friday. Este guia traz os preços de whey e creatina de outubro para comparar, como o cupom MMEMCASACOMCECILIA soma com as ofertas e com o Pix e as regras de frete grátis.",
+    "metaDescription": "Black Friday Mais Mu 2026: ofertas de até 50% OFF já no ar e 3% no Pix, sem o nome Black Friday. Cupom MMEMCASACOMCECILIA de 10% e preços de outubro.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/black-friday-mais-mu-capa.webp",
@@ -104832,21 +105166,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Até a última leitura, a Mais Mu não tinha anunciado data, regra nem desconto de Black Friday para novembro. O cupom MMEMCASACOMCECILIA, com 10% OFF em todo o site, já vale hoje e soma com o desconto do Pix. O que muda a decisão é o preço de referência de outubro; veja a tabela abaixo."
+          "A Mais Mu já está com ofertas de até 50% OFF, mais 3% no Pix, sem usar o nome Black Friday nem publicar data de fim; a Black Friday do calendário é a última sexta de novembro. O cupom MMEMCASACOMCECILIA dá 10% OFF, soma com as ofertas e com o Pix, e não soma com o cashback."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da Mais Mu?",
         "paragraphs": [
-          "A loja não tem data de Black Friday. Até a última leitura, a home do site não traz campanha de novembro. Também não há página de campanha nos endereços do sitemap que conferimos.",
+          "A Mais Mu não usa o nome Black Friday, mas as ofertas já estão no ar: a home chama \"Garanta seus favoritos com até 50% OFF\", e o Pix segue com 3% de desconto. A loja não publicou data de início nem de fim, nem regra da campanha.",
           "O calendário é outro assunto: a Black Friday de 2026 cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. São as datas do calendário, não da loja.",
-          "Se a Mais Mu anunciar uma campanha, a data, as regras e o que o cupom faz nela entram aqui, com a data da atualização."
+          "O \"até 50%\" é o teto: o desconto é por produto, e a página de cada um mostra o preço riscado e o preço do dia. Compare com a tabela de outubro, abaixo. Se a Mais Mu publicar uma campanha com data e regra, elas entram aqui."
         ]
       },
       {
         "heading": "Preços para comparar",
         "paragraphs": [
-          "Estes são os preços que as páginas dos produtos mostravam em 20/10/2026, antes do cupom. Quando a página mostra dois valores, a tabela traz o preço riscado e o preço do dia."
+          "Estes são os preços que as páginas dos produtos mostravam em 20/10/2026, antes das ofertas de novembro e do cupom. Quando a página mostra dois valores, a tabela traz o preço riscado e o preço do dia."
         ],
         "comparisonTable": {
           "headers": [
@@ -104877,7 +105211,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Um desconto de novembro só vale a pena se o preço ficar abaixo desta tabela. O preço do site muda sem aviso, então confira a página do produto no dia da compra."
+          "Uma oferta do \"até 50%\" só vale a pena se o preço do dia ficar abaixo desta tabela. O preço do site muda sem aviso, então confira a página do produto no dia da compra."
         ],
         "images": [
           {
@@ -104905,7 +105239,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "bullets": [
-          "Ofertas: o cupom vale também para produto que já está em promoção.",
+          "Ofertas: o cupom vale também para produto que já está em promoção. Num produto com o preço das ofertas de novembro ainda não testamos; a linha \"Desconto do cupom\" do resumo mostra o valor antes de pagar.",
           "Pix: o cupom soma com o desconto de 3% que a loja dá no Pix.",
           "Outros cupons: a loja não acumula cupons. O crédito do cashback e o desconto de boas-vindas contam como cupom e não somam com o MMEMCASACOMCECILIA. O cashback é regra da loja, não vantagem do nosso cupom.",
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/24RjvdP)."
@@ -104932,23 +105266,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O cupom da Mais Mu vale na Black Friday? Até a última leitura, a loja não anunciou regra especial para novembro. O MMEMCASACOMCECILIA vale enquanto a parceria estiver vigente, e o carrinho mostra o desconto antes de pagar.",
+          "Quando começa e quanto dura a Black Friday da Mais Mu? A loja não usa o nome Black Friday, mas já está com ofertas de até 50% OFF e 3% no Pix, sem data de fim publicada. A Black Friday do calendário é a última sexta-feira de novembro.",
+          "O cupom da Mais Mu vale na Black Friday? O MMEMCASACOMCECILIA dá 10% OFF em todo o site, soma com as ofertas e com o Pix e não soma com o cashback. Num produto com o preço das ofertas de novembro ainda não testamos; o resumo do pedido mostra a linha Desconto do cupom antes de pagar.",
           "O cupom vale com produto em promoção? Sim. No teste no carrinho, os 10% entraram também na creatina que já estava em oferta.",
           "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de 3% que a loja dá no Pix.",
           "Posso usar o cupom junto com o crédito do cashback? Não. A loja não acumula cupons, e o crédito do cashback conta como cupom.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio, sem o cupom.",
-          "O que muda quando a Mais Mu anunciar a Black Friday? O guia ganha a data, as regras e o que o cupom faz na campanha, com a data da atualização."
+          "O que muda se a Mais Mu publicar uma campanha com esse nome? O guia ganha a data, as regras e o que o cupom faz na campanha."
         ]
       }
     ],
     "pros": [
+      "Ofertas de até 50% OFF já no ar, com 3% a mais no Pix",
       "O cupom MMEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento",
       "O cupom soma com as ofertas do site e com os 3% do Pix",
       "A creatina refil de 500 g estava a R$ 79,90, de R$ 119,00, em 20/10/2026",
       "Frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste"
     ],
     "cons": [
-      "A Mais Mu não tinha anunciado Black Friday até 20/10/2026",
+      "A loja não publicou data de fim nem regra das ofertas de até 50%",
       "O cupom não soma com o cashback nem com o desconto de boas-vindas da loja",
       "O desconto do cupom pode deixar o total abaixo do mínimo do frete grátis",
       "No Norte e no Nordeste, o frete grátis começa em R$ 399"
@@ -119519,8 +119855,8 @@ export const reviewsData: unknown[] = [
     "id": 587,
     "slug": "black-friday-skelt",
     "bodyDatesReason": "campanha",
-    "title": "Black Friday Skelt 2026: preços de outubro e o que a loja ainda não anunciou",
-    "seoTitle": "Black Friday Skelt 2026: preços e cupom",
+    "title": "Black Friday Skelt 2026: esquenta a partir de 5 de novembro, Black Friday em 27 e o cupom SKEMCASACOMCECILIA",
+    "seoTitle": "Black Friday Skelt 2026: datas, esquenta e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -119531,10 +119867,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Skelt não tem Black Friday no ar até 21/10/2026. Este guia traz os preços de autobronzeador de 21/10/2026 para comparar, como o cupom SKEMCASACOMCECILIA soma com o Pix e as regras de frete e de brinde.",
-    "metaDescription": "Black Friday Skelt 2026: sem anúncio até 21/10/2026. Preços de autobronzeador para comparar, cupom SKEMCASACOMCECILIA com 10% OFF, Pix e frete.",
+    "description": "A Skelt começa o esquenta da Black Friday em 5 de novembro, com uma live, e faz a Black Friday em 27 de novembro. Este guia traz os preços de autobronzeador de outubro para comparar, como o cupom SKEMCASACOMCECILIA soma com as promoções e com o Pix e as regras de frete e de brinde.",
+    "metaDescription": "Black Friday Skelt 2026: esquenta a partir de 05/11 e Black Friday em 27/11. Preços de autobronzeador, cupom SKEMCASACOMCECILIA com 10% OFF e Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/black-friday-skelt-capa-discover.webp",
@@ -119545,38 +119882,34 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Ainda não há data nem desconto: até 21/10/2026, a Skelt não tinha página de Black Friday no ar. O cupom SKEMCASACOMCECILIA, com 10% OFF em todo o site, já vale e soma com as promoções da loja e com o Pix. O que muda a decisão é esperar novembro ou comprar já; veja o capítulo final."
+          "A Skelt começa o esquenta da Black Friday em 5 de novembro e faz a Black Friday em 27 de novembro; a loja ainda não publicou o percentual. O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções e com o Pix; compare o preço do dia com a tabela de outubro."
         ]
       },
       {
-        "heading": "O que a Skelt já mostrou sobre a Black Friday",
+        "heading": "As datas da Black Friday da Skelt",
         "paragraphs": [
-          "Nenhuma página do site dizia percentual de desconto para a Black Friday. A data cai em 27/11/2026, e a Cyber Monday, em 30/11/2026. O que encontramos:"
+          "A Skelt tem duas datas: o esquenta começa em 5 de novembro, com a live da coleção \"BF - Live\", e a Black Friday é em 27 de novembro, a sexta do calendário; a Cyber Monday cai em 30 de novembro. As datas vieram da loja. O percentual de desconto do esquenta e o da sexta ainda não foram publicados, e entram aqui quando a loja divulgar. O que a loja mostrava até aqui:"
         ],
         "bullets": [
-          "A home tem coleções internas com os nomes \"Black Friday\", \"Pre Black Friday\" e \"BF - Live 05/11\". Só os nomes aparecem na home; não encontramos o desconto de cada uma.",
-          "Pelo nome da coleção, a loja prepara uma live de aquecimento. É um indício, não um anúncio de desconto.",
-          "Na sacola, a loja mostrava a flash sale \"OUT/26\", com 10% em todo o site, sem prazo de fim à mostra.",
-          "A página da flash sale traz 20% OFF no creme para mãos. Não encontramos data de fim nela.",
-          "O endereço /black-friday redireciona para a home."
+          "A home traz as coleções \"Black Friday\", \"Pre Black Friday\" e \"BF - Live\", só pelo nome, sem percentual.",
+          "Em outubro, a sacola mostrava a flash sale \"OUT/26\", com 10% em todo o site, sem prazo de fim à mostra; o preço de venda da tabela abaixo já traz esses 10%.",
+          "A página da flash sale trazia 20% OFF no creme para mãos, também sem data de fim.",
+          "Em outubro, o endereço /black-friday redirecionava para a home."
         ],
         "images": [
           {
             "src": "/images/reviews/skelt/black-friday-skelt-busca-vazia.webp",
             "alt": "Busca do site da Skelt por \"blackfriday\" em 21/10/2026, com a mensagem de nenhum resultado encontrado",
-            "caption": "A busca pelo endereço /blackfriday no site da Skelt: nenhum resultado encontrado.",
+            "caption": "Em outubro, a busca pelo endereço /blackfriday no site da Skelt não trazia resultado.",
             "objectFit": "contain",
             "aspectRatio": 1.9355
           }
-        ],
-        "postParagraphs": [
-          "Sobre 2024 e 2025: sem registro à mostra, não dá para afirmar se a Skelt fez campanha de Black Friday antes."
         ]
       },
       {
         "heading": "Preços para comparar",
         "paragraphs": [
-          "Guarde os preços de venda, antes do cupom: são eles que valem na comparação. Quando o produto mostra preço cheio, a tabela traz os dois valores."
+          "Guarde os preços de venda de outubro, antes do cupom: são eles que valem na comparação com o esquenta e com a sexta. Quando o produto mostra preço cheio, a tabela traz os dois valores."
         ],
         "comparisonTable": {
           "headers": [
@@ -119649,7 +119982,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brinde e frete",
         "paragraphs": [
-          "O brinde da Skelt conta o valor final do pedido, depois dos descontos. No teste de carrinho, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola.",
+          "O brinde da Skelt conta o valor final do pedido, depois dos descontos. No teste de carrinho de outubro, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola.",
           "O frete grátis também conta o valor final do pedido. A política de frete do site dizia:"
         ],
         "bullets": [
@@ -119662,14 +119995,14 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Como se preparar, sem promessa de desconto",
+        "heading": "Como se preparar para o esquenta e para a sexta",
         "paragraphs": [
-          "Estas etapas valem com ou sem campanha:"
+          "Estas etapas valem no esquenta e na Black Friday:"
         ],
         "image": {
           "src": "/images/reviews/skelt/black-friday-skelt-capa.webp",
           "alt": "Linha do tempo da Black Friday Skelt 2026: 21/10 preço medido, última semana de outubro para reler, 05/11 live de aquecimento, 27/11 Black Friday e 30/11 Cyber Monday",
-          "caption": "As datas da Black Friday Skelt 2026: a leitura dos preços, a releitura no fim de outubro, a live de aquecimento, a Black Friday e a Cyber Monday.",
+          "caption": "A linha do tempo da Black Friday Skelt 2026: a leitura dos preços em outubro, a live de esquenta, a Black Friday e a Cyber Monday.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -119682,31 +120015,33 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Vale esperar novembro?",
+        "heading": "Vale esperar o esquenta ou a sexta?",
         "paragraphs": [
-          "Não há base pública para prometer que novembro será melhor. A Skelt não anunciou desconto de Black Friday, e a tabela deste guia é o que dá para comparar hoje.",
-          "Se você precisa agora, o cupom e o Pix já estão ativos. Se pode esperar, compare o preço que a loja mostrar em novembro com a tabela deste guia antes de comprar."
+          "A loja ainda não publicou o percentual do esquenta nem o da sexta, então não há base para prometer que o dia 27 será melhor que o esquenta. A tabela de outubro deste guia é o que dá para comparar.",
+          "Se você precisa agora, o cupom e o Pix já estão ativos sobre o preço do dia. Se pode esperar, compare o preço que a loja mostrar a partir do esquenta com a tabela antes de comprar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Skelt tem Black Friday? Não anunciou até a leitura do site. O endereço /blackfriday abre uma busca sem resultado, e a home mostra coleções com esse nome, sem percentual de desconto.",
-          "A coleção \"BF - Live\" é desconto? Não. A loja não anunciou desconto. O nome da coleção indica uma live de aquecimento.",
-          "O cupom vale na Black Friday? Hoje ele vale enquanto a parceria estiver vigente. Não encontramos regra para novembro, e a loja pode mudar as regras sem aviso.",
-          "Vale a pena esperar? Depende do que você precisa e do preço do dia. Compare com a tabela deste guia.",
+          "Quando começa e quanto dura a Black Friday da Skelt? O esquenta começa no dia 5, com uma live, e a Black Friday é na última sexta-feira do mês, dia 27. As datas vieram da loja; o percentual de cada etapa ainda não foi publicado.",
+          "A Skelt tem Black Friday? Tem: um esquenta com live no começo do mês e a sexta-feira. O desconto de cada etapa ainda não foi publicado; a home mostra as coleções com esse nome, sem percentual.",
+          "A coleção \"BF - Live\" é desconto? É a coleção da live de esquenta. O percentual dela ainda não foi publicado.",
+          "O cupom vale na Black Friday? O SKEMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções da loja e com o Pix. Não testamos o cupom num produto com preço de esquenta ou de Black Friday; a sacola mostra o total antes de pagar.",
+          "Vale a pena esperar? Depende do que você precisa e do preço do dia. Compare o preço do esquenta e o da sexta com a tabela de outubro deste guia.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2unTb7k).",
-          "O que muda quando a Skelt anunciar a Black Friday? O guia ganha a data, as regras e o que o cupom faz na campanha, com a data da atualização."
+          "O que muda quando a Skelt publicar o percentual? O guia ganha o desconto de cada etapa e o que o cupom faz na campanha."
         ]
       }
     ],
     "pros": [
+      "Datas definidas: esquenta a partir de 5 de novembro e Black Friday em 27 de novembro",
       "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site, com as promoções da loja",
       "Com o Pix, o total cai mais 5%, sobre o valor que já está com o cupom",
       "Frete grátis em 12 cidades, sem valor mínimo"
     ],
     "cons": [
-      "A Skelt não anunciou Black Friday até 21/10/2026",
+      "A loja ainda não publicou o percentual do esquenta nem o da sexta",
       "A loja aceita um cupom por pedido: outro código da loja troca o nosso",
       "Brinde e frete contam o valor final do pedido, depois dos descontos"
     ],
@@ -120520,8 +120855,8 @@ export const reviewsData: unknown[] = [
   {
     "id": 591,
     "slug": "black-friday-bagaggio",
-    "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom",
-    "seoTitle": "Black Friday Bagaggio 2026: preços e cupom",
+    "title": "Black Friday Bagaggio 2026: até 70% OFF, leve 3 pague 2 e o cupom CECILIA10",
+    "seoTitle": "Black Friday Bagaggio 2026: até 70% OFF e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -120532,10 +120867,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Bagaggio ainda não anunciou Black Friday para 2026. Este guia mostra o que a página da loja diz hoje, os preços de 22/10 para comparar e como o cupom CECILIA10 soma com o Pix.",
-    "metaDescription": "Black Friday Bagaggio 2026: sem anúncio de percentual até 22/10/2026. Preços de malas e mochilas para comparar, cupom CECILIA10 com 10% OFF e Pix.",
+    "description": "A Black Friday da Bagaggio já está no ar, com até 70% OFF e leve 3, pague 2. O que a loja mostra, os preços de outubro de malas e mochilas para comparar e como o cupom CECILIA10 e o Pix entram na conta.",
+    "metaDescription": "Black Friday Bagaggio 2026 já começou: até 70% OFF e leve 3, pague 2. Preços de outubro para comparar, cupom CECILIA10 com 10% OFF e Pix.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/black-friday-bagaggio-capa.webp",
@@ -120546,26 +120882,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio ainda não anunciou Black Friday com percentual nem data de início. O calendário marca 27 de novembro, e o cupom CECILIA10 segue valendo em todo o site, inclusive no Outlet. Use a tabela de preços abaixo como régua; o capítulo \"Vale esperar novembro?\" mostra o que muda a decisão."
+          "A Black Friday da Bagaggio já está no ar: a página da campanha anuncia até 70% OFF, e a home traz o leve 3, pague 2. O dia da Black Friday é 27 de novembro, sem data de fim publicada. O CECILIA10 vale em todo o site; se soma com a campanha, confira na sacola antes de pagar."
         ]
       },
       {
-        "heading": "O que a página da Black Friday mostra hoje",
+        "heading": "O que a Black Friday da Bagaggio mostra agora",
         "paragraphs": [
-          "Pela página, ainda não dá para planejar: ela traz o título e o texto da campanha anterior, sem ano, data de início ou de fim. A página também não diz se algum cupom soma com as ofertas.",
+          "A página de Black Friday da loja anuncia até 70% OFF, e o banner da home traz o leve 3, pague 2. As condições de cada oferta, como o que entra no \"até\" e quais produtos valem no leve 3, aparecem no site da loja, e a página não diz se algum cupom soma com as ofertas nem até quando a campanha vale.",
+          "O \"até 70%\" é o teto: o desconto de cada produto é o que a página dele mostra. Compare o preço do dia com a tabela de outubro deste guia, não com o preço riscado.",
           "Pelos nomes das coleções do catálogo, a loja já teve campanhas de Black Friday em 2023, 2024 e 2025, além de uma campanha antecipada. Não encontramos o percentual de cada uma, e por isso ele não entra aqui."
         ]
       },
       {
         "heading": "Calendário de novembro",
         "paragraphs": [
-          "A Black Friday de 2026 cai na sexta, 27/11/2026, e a Cyber Monday, na segunda, 30/11/2026. A Bagaggio não anunciou nenhuma das duas.",
-          "Dá para se preparar sem esperar o anúncio: ter um preço de referência, reler a página no fim de outubro e, na semana da campanha, conferir o total com o cupom e o Pix antes de pagar."
+          "A Black Friday de 2026 cai na sexta, 27/11/2026, e a Cyber Monday, na segunda, 30/11/2026. A campanha da Bagaggio já está no ar antes da sexta, e a loja não diz se segue até a Cyber Monday.",
+          "O que ajuda a decidir: ter um preço de referência, que é a tabela de outubro deste guia, e conferir o total com o cupom e o Pix na sacola antes de pagar."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bf-linha-do-tempo.webp",
           "alt": "Linha do tempo da Black Friday Bagaggio 2026: preços lidos em 22/10, releitura no fim de outubro, Black Friday em 27/11 e Cyber Monday em 30/11",
-          "caption": "As datas da Black Friday Bagaggio 2026: preços lidos, releitura no fim de outubro, Black Friday e Cyber Monday, a confirmar.",
+          "caption": "As datas da Black Friday Bagaggio 2026: preços lidos, releitura no fim de outubro, Black Friday e Cyber Monday.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -120573,7 +120910,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços para comparar",
         "paragraphs": [
-          "Para comparar em novembro, estes são os preços de venda sem cupom, lidos em 22/10/2026. Quando o produto mostra preço cheio, a tabela traz os dois valores."
+          "Estes são os preços de venda sem cupom de outubro, lidos em 22/10/2026, antes da campanha: a régua para saber se o preço da Black Friday é desconto novo. Quando o produto mostrava preço cheio, a tabela traz os dois valores."
         ],
         "comparisonTable": {
           "headers": [
@@ -120651,7 +120988,7 @@ export const reviewsData: unknown[] = [
           "Mercado Livre: o cupom não vale lá. Vale o preço do anúncio."
         ],
         "postParagraphs": [
-          "Se a campanha de novembro soma com o CECILIA10, confira o total com o cupom antes de pagar."
+          "Não testamos o CECILIA10 sobre os preços da Black Friday nem sobre o leve 3, pague 2. Aplique o cupom na sacola e confira a linha do desconto antes de pagar: se ele não entrar, vale a oferta da loja."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-downtown-preta.webp",
@@ -120702,10 +121039,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Vale esperar novembro?",
+        "heading": "Comprar agora ou esperar a sexta?",
         "paragraphs": [
-          "Não há base pública para prometer que novembro será mais barato. A loja não anunciou percentual nem data, e a tabela acima é o que dá para comparar hoje.",
-          "Se você precisa agora, o cupom e o Pix já funcionam. Se pode esperar, compare o preço que a loja mostrar em novembro com a tabela deste guia antes de pagar. As condições atuais do cupom estão na [página da Bagaggio](/cupons/bagaggio)."
+          "A campanha já está no ar, e a loja não diz se a sexta da Black Friday terá preço menor que o de agora. O que dá para fazer é comparar: se o preço do dia está abaixo da tabela de outubro, o desconto é de verdade; se está igual, o selo não mudou o preço.",
+          "Se você precisa agora, o cupom e o Pix já funcionam, e o leve 3, pague 2 ajuda quem vai levar mais de uma peça. Se pode esperar, confira o preço de novo na sexta e compare com a tabela antes de pagar. As condições atuais do cupom estão na [página da Bagaggio](/cupons/bagaggio)."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp",
@@ -120718,8 +121055,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Bagaggio tem Black Friday? A página /black-friday existe, mas traz texto da campanha anterior, sem data. Na leitura do site, a loja não anunciou percentual para 2026.",
-          "O cupom CECILIA10 vale na Black Friday? Hoje ele vale em todo o site, com o Pix. Se soma com as ofertas de novembro, ainda não sabemos: vamos testar quando a campanha abrir.",
+          "Quando começa e quanto dura a Black Friday da Bagaggio? Já começou: a página de Black Friday da loja anuncia até 70% OFF, e a home traz o leve 3, pague 2. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
+          "O cupom CECILIA10 vale na Black Friday? Ele vale em todo o site, com o Pix. Se soma com os preços da campanha, não testamos: aplique na sacola e confira a linha do desconto antes de pagar.",
+          "O leve 3, pague 2 soma com o cupom? Não testamos. A promoção é da loja, e as condições dela aparecem no site. Confira o total da sacola com o cupom antes de pagar.",
           "Garantia vitalícia vale para mochila? Não. Ela vale só para malas da marca compradas depois do início do programa.",
           "Dá para retirar na loja? Sim, quando há loja perto. A retirada é em até 3 horas e precisa do titular da compra, com documento original com foto.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. Link da marca no [Mercado Livre](https://meli.la/2KeydkG)."
@@ -120729,10 +121067,10 @@ export const reviewsData: unknown[] = [
     "pros": [
       "O CECILIA10 dá 10% OFF em todo o site, inclusive em produto já com desconto",
       "Com o Pix, o total cai mais 5%, sobre o valor que já está com o cupom",
-      "A tabela de 22/10 dá um preço de referência para comparar em novembro"
+      "A tabela de outubro dá um preço de referência para comparar com a campanha"
     ],
     "cons": [
-      "A Bagaggio não anunciou percentual nem data de Black Friday para 2026",
+      "A loja não publica até quando a campanha vale nem se o cupom soma com os preços da Black Friday",
       "Um cupom por pedido, e a promoção de 50% na 2ª peça não soma com ele",
       "A garantia vitalícia vale só para malas da marca, não para mochilas"
     ],
@@ -129920,8 +130258,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-toda-up",
     "bodyDatesReason": "campanha",
     "locale": "pt",
-    "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom",
-    "seoTitle": "Black Friday Toda Up 2026: Black Antecipada e cupom",
+    "title": "Black Friday Toda Up 2026: a Black November com todo o site em desconto e o cupom",
+    "seoTitle": "Black Friday Toda Up 2026: Black November e cupom",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -129934,10 +130272,11 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
-    "description": "A Black Antecipada da Toda Up em 26/10/2026: desconto progressivo de 12%, 15% e 20% pelo valor do carrinho, o cupom da Toda Up somando, três carrinhos de exemplo e os preços para comparar.",
-    "metaDescription": "Black Friday Toda Up 2026: a Black Antecipada dá 12%, 15% ou 20% pelo carrinho e o cupom de 10% soma. Veja três carrinhos e os preços de 26/10/2026.",
+    "description": "A Toda Up já está em Black November, com todo o site em desconto. O que a loja mostra agora, a Black Antecipada de outubro com desconto progressivo de 12%, 15% e 20% pelo carrinho, o cupom da Toda Up somando no teste, três carrinhos de exemplo e os preços para comparar.",
+    "metaDescription": "Black Friday Toda Up 2026 já começou: Black November com todo o site em desconto e selos de até 33% OFF. Cupom de 10%, três carrinhos e preços de outubro.",
     "image": "/images/reviews/toda-up/black-friday-toda-up-capa-discover.webp",
     "imageAlt": "Banner Black Friday antecipada da Toda Up com uma modelo de sutiã tomara que caia preto, com o logo da loja e o título Black Friday da Toda Up",
     "imageFit": "contain",
@@ -129945,7 +130284,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Veja os preços no site da Toda Up pelo botão, com o cupom da Toda Up já aplicado, e confira o total com a progressiva antes de pagar.",
+      "text": "Veja os preços da Black November no site da Toda Up pelo botão, com o cupom da Toda Up já aplicado, e confira o total no carrinho antes de pagar.",
       "label": "Ir para a Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -129971,15 +130310,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up já está em campanha: o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo valor do carrinho, sem datas publicadas. O cupom da Toda Up, MAUAD, de 10%, somou com a progressiva no carrinho. O que muda a decisão é o valor do carrinho; veja os três carrinhos abaixo."
+          "A Toda Up já está em Black November: a home diz que todo o site está com desconto, com selos de até 33% OFF, e o dia da Black Friday é 27 de novembro. O cupom da Toda Up, MAUAD, de 10%, somou com a campanha de outubro no carrinho; sobre a Black November, confira o total antes de pagar."
         ]
       },
       {
-        "heading": "O que o site mostra hoje",
+        "heading": "O que a Black November da Toda Up mostra",
         "paragraphs": [
-          "A faixa do topo e o carrossel da home da Toda Up anunciavam a \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site. O \"até 20%\" é a frase da faixa; o percentual que entra no seu carrinho depende das faixas abaixo.",
-          "A loja não publicou quando a campanha começou nem quando termina. A Black Friday do calendário cai na sexta, 27/11/2026. Se a Black Antecipada segue até lá, ou se a loja troca a regra em novembro, o site não diz. Confira o desconto no seu carrinho antes de pagar.",
-          "O desconto da campanha é progressivo e entra sozinho no carrinho, sem código, pelo subtotal dos produtos:"
+          "A home da Toda Up anuncia a \"Black November: todo site com desconto\", com selos de até 15%, 16%, 20% e 33% OFF nos produtos. O desconto é por peça, e o que vale é o preço na página de cada uma: compare com a tabela de outubro deste guia, mais abaixo.",
+          "A loja não publica até quando a Black November vale nem se a regra muda na sexta, 27/11/2026. Confira o desconto no seu carrinho antes de pagar.",
+          "Em outubro, a campanha se chamava \"Black Antecipada\", com \"até 20% OFF\" e frete grátis em todo o site, e o desconto era progressivo: entrava sozinho no carrinho, sem código, pelo subtotal dos produtos. Foi nessa regra que testamos o cupom, e é ela que os carrinhos abaixo usam. Se a progressiva segue valendo na Black November, o site não diz: veja se a linha da campanha aparece no seu carrinho."
         ],
         "comparisonTable": {
           "headers": [
@@ -130002,26 +130341,26 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No carrinho do teste, a linha do desconto apareceu como \"Flash Sale · 12% OFF acima de R$ 299\". Abaixo de R$ 299, a campanha não tira nada, e sobra só o cupom."
+          "No carrinho do teste de outubro, a linha do desconto apareceu como \"Flash Sale · 12% OFF acima de R$ 299\". Abaixo de R$ 299, a campanha não tirava nada, e sobrava só o cupom."
         ],
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-faixas-progressiva-2610.webp",
           "alt": "Faixas da promoção progressiva da Toda Up: 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499",
-          "caption": "As faixas da promoção progressiva no banner da home da Toda Up.",
+          "caption": "As faixas da promoção progressiva no banner da home da Toda Up, na Black Antecipada de outubro.",
           "objectFit": "contain",
           "aspectRatio": 5
         }
       },
       {
-        "heading": "O cupom soma com a campanha",
+        "heading": "O cupom e a campanha: o teste de outubro",
         "paragraphs": [
-          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. No carrinho, sem finalizar a compra, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. A loja pode mudar a regra de soma durante a campanha; o passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+          "O cupom da Toda Up é o MAUAD, de 10% em todo o site. No carrinho de outubro, sem finalizar a compra, ele entrou depois da progressiva: de R$ 360,81, os 12% da campanha tiraram R$ 43,28, e os 10% do cupom saíram dos R$ 317,53 restantes. Sobre os preços da Black November, não testamos: a loja pode mudar a regra de soma durante a campanha, então confira a linha do cupom no carrinho antes de pagar. O passo a passo está em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ]
       },
       {
         "heading": "Três carrinhos para comparar",
         "paragraphs": [
-          "O que pesa nos carrinhos é o subtotal: abaixo de R$ 299 só o cupom tira, acima entra a progressiva. Os carrinhos A e B são os do teste no carrinho, com os números que a tela mostrou. O carrinho C é conta nossa, com a regra da faixa de 20% e os preços das coleções públicas; não foi montado no site."
+          "Na regra da Black Antecipada, o que pesava nos carrinhos era o subtotal: abaixo de R$ 299 só o cupom tirava, acima entrava a progressiva. Os carrinhos A e B são os do teste de outubro, com os números que a tela mostrou. O carrinho C é conta nossa, com a regra da faixa de 20% e os preços das coleções públicas; não foi montado no site. Na Black November, o desconto é por peça, então o seu carrinho pode sair diferente destes."
         ],
         "comparisonTable": {
           "headers": [
@@ -130074,7 +130413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços para comparar",
         "paragraphs": [
-          "Estes são os preços de venda das coleções públicas do menu da Toda Up (Sutiãs, Calcinhas, Adesivos e Conjuntos), lidos em 26/10/2026, antes da progressiva e do cupom. Quando o produto mostra o preço \"de\", a tabela traz os dois."
+          "Estes são os preços de outubro: os preços de venda das coleções públicas do menu da Toda Up (Sutiãs, Calcinhas, Adesivos e Conjuntos), lidos em 26/10/2026, antes da progressiva e do cupom. Quando o produto mostrava o preço \"de\", a tabela traz os dois. Na Black November, só é desconto novo o que ficar abaixo do preço de venda desta tabela."
         ],
         "comparisonTable": {
           "headers": [
@@ -130177,7 +130516,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os cinco kits SkinUp e Comfort da coleção Conjuntos estavam esgotados; só o kit Cotton Up aparecia disponível. O preço do site muda sem aviso: confira o produto no dia da compra, e use esta tabela como régua para a semana da Black Friday.",
-          "Para passar da faixa de R$ 299 com peças pequenas, as calcinhas ajudam: o Comfort Up com três Calcinhas Biquíni SkinUp (R$ 134,73) dá R$ 305,64 e entra nos 12%. É conta com os preços da tabela, não teste."
+          "Se a progressiva seguir valendo, para passar da faixa de R$ 299 com peças pequenas, as calcinhas ajudam: o Comfort Up com três Calcinhas Biquíni SkinUp (R$ 134,73) dá R$ 305,64 e entra nos 12%. É conta com os preços da tabela de outubro, não teste."
         ],
         "image": {
           "src": "/images/reviews/toda-up/black-friday-toda-up-catalogo.webp",
@@ -130190,7 +130529,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazo e troca",
         "paragraphs": [
-          "A loja libera frete grátis em campanhas, como a Black Antecipada. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
+          "A loja libera frete grátis em campanhas, como fez na Black Antecipada de outubro; na Black November, a home não diz, então confira o frete no carrinho. Fora de campanha, o frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog. Confira o valor no carrinho antes de pagar, em qualquer época.",
           "Pela política de frete da loja, o pedido é despachado em até 3 dias úteis depois da confirmação do pagamento, e o código de rastreio chega por e-mail. Na semana da Black Friday, conte esse prazo mais o da transportadora para o seu CEP.",
           "Troca de modelo, tamanho ou cor e devolução por arrependimento valem em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja, com o CPF da titular e o número do pedido. A própria política diz que os 30 dias ampliam os 7 dias da lei."
         ],
@@ -130209,8 +130548,8 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Confira o tamanho no guia de medidas da página de cada produto: a troca por tamanho é grátis só na primeira vez.",
-          "Veja se o subtotal passou de R$ 299, R$ 399 ou R$ 499 e se a linha da campanha apareceu no carrinho.",
-          "Aplique o cupom e confira o total: os 10% saem depois do desconto da campanha.",
+          "Veja o desconto de cada peça na página dela e se alguma linha da campanha apareceu no carrinho.",
+          "Aplique o cupom e confira o total: no teste de outubro, os 10% saíram depois do desconto da campanha.",
           "Confira o frete e o prazo pelo seu CEP.",
           "Compre só pelo site oficial, todaup.com, pelo link da parceria. O rodapé traz o CNPJ da FITA UP LTDA; a empresa, a troca de nome e as políticas estão em [Toda Up é confiável?](/reviews/toda-up-e-confiavel).",
           "Guarde o print do carrinho e o número do pedido; o portal de trocas pede o número e o CPF da titular."
@@ -130230,20 +130569,21 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Comprar agora ou esperar novembro",
+        "heading": "Comprar agora ou esperar a sexta",
         "paragraphs": [
-          "A loja não publica quanto tempo a Black Antecipada dura, nem anunciou outra regra para 27/11. O desconto da campanha e o cupom já saíam no carrinho, e a tabela deste guia é a régua para comparar.",
-          "Quem já sabe o que quer e passa da faixa de R$ 299 tem a conta deste guia. Quem pode esperar compara o preço do site na semana de 23/11 e em 27/11 com a tabela acima. As condições atuais do cupom ficam na [página da Toda Up](/cupons/toda-up)."
+          "A loja não publica quanto tempo a Black November dura, nem anunciou outra regra para 27/11. O desconto da campanha já está no preço de cada peça, e a tabela de outubro deste guia é a régua para comparar.",
+          "Quem já sabe o que quer compra com o desconto da peça e o cupom, conferindo o total no carrinho. Quem pode esperar compara o preço do site na semana de 23/11 e em 27/11 com a tabela acima. As condições atuais do cupom ficam na [página da Toda Up](/cupons/toda-up)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Toda Up tem Black Friday? Sim. O site já mostrava a campanha \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20%. A loja não publica a data de início nem a de fim.",
-          "O cupom da Toda Up vale na Black Antecipada? Valeu no carrinho: os 10% do cupom saíram depois do desconto da campanha. A regra pode mudar durante a campanha.",
-          "Quanto dá o desconto da campanha? 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal dos produtos. Abaixo de R$ 299, só o cupom.",
-          "A Black Antecipada tem frete grátis? A faixa do topo anunciava frete grátis em todo o site. A loja libera frete grátis em campanhas; fora delas, o frete é pelo CEP.",
-          "Vale esperar a Black Friday? A loja não anunciou regra para a data. Compare o preço do dia com a tabela deste guia."
+          "Quando começa e quanto dura a Black Friday da Toda Up? Já começou: a home anuncia a Black November, com todo o site em desconto e selos de até 33% OFF. A Black Friday é na última sexta de novembro, e a loja não publica a data de fim da campanha.",
+          "A Toda Up tem Black Friday? Sim. Em outubro, o site mostrava a \"Black Antecipada\", com desconto progressivo de 12%, 15% e 20% pelo carrinho; agora mostra a \"Black November\", com desconto por peça.",
+          "O cupom da Toda Up vale na Black November? No teste de outubro, na Black Antecipada, os 10% do cupom saíram depois do desconto da campanha. Sobre os preços da Black November, não testamos: confira a linha do cupom no carrinho.",
+          "Quanto dá o desconto da campanha? Na Black November, o desconto é por peça, com selos de até 15%, 16%, 20% e 33% OFF. Na Black Antecipada de outubro, era 12% acima de R$ 299, 15% acima de R$ 399 e 20% acima de R$ 499, sobre o subtotal.",
+          "A Black November tem frete grátis? A home não diz. Na Black Antecipada de outubro, a faixa do topo anunciava frete grátis em todo o site. A loja libera frete grátis em campanhas; fora delas, o frete é pelo CEP.",
+          "Vale esperar a Black Friday? A loja não anunciou regra para a data. Compare o preço do dia com a tabela de outubro deste guia."
         ]
       }
     ]
@@ -168210,7 +168550,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+        "title": "Black Friday Insider 2026 masculino: até 40% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
       }
     ]
   },
@@ -170024,8 +170364,8 @@ export const reviewsData: unknown[] = [
         "title": "Insider no Mercado Livre ou no site: onde sai mais barato"
       },
       {
-        "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider-feminino",
+        "title": "Black Friday Insider 2026 feminino: até 40% OFF, camisetas, calcinhas e o cupom EMCASACOMCECILIA"
       }
     ]
   },
@@ -174536,7 +174876,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom no Outlet: testado no carrinho",
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% sobre o preço do Outlet, e vale um cupom por pedido. No teste no carrinho, a Pantalona InLounge foi de R$ 299 para R$ 179 no Outlet, e para R$ 152,15 com o cupom. Ele também entrou nas peças com etiqueta de lançamento, como os sutiãs Nakedfeel e o Perfect Body Manga Longa; a regra é que um lançamento pode ficar fora do cupom nos primeiros dias, então confira o desconto no carrinho antes de pagar.",
-          "Como aplicar o código e o que ele cobre está na página do [cupom Insider](/cupons/insider). Na Black Friday a loja pode mexer nos preços, e o que o cupom faz nessa época está em [Black Friday Insider 2026](/reviews/black-friday-insider)."
+          "Como aplicar o código e o que ele cobre está na página do [cupom Insider](/cupons/insider). Na Black Friday a loja pode mexer nos preços, e o que o cupom faz nessa época está em [Black Friday Insider 2026 feminino](/reviews/black-friday-insider-feminino)."
         ]
       },
       {
@@ -174586,8 +174926,8 @@ export const reviewsData: unknown[] = [
         "title": "Kit Insider: quando compensa mais que comprar peças avulsas (conta por peça)"
       },
       {
-        "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider-feminino",
+        "title": "Black Friday Insider 2026 feminino: até 40% OFF, camisetas, calcinhas e o cupom EMCASACOMCECILIA"
       },
       {
         "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
@@ -174947,7 +175287,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026: quando começa, preços da Tech T-Shirt e o cupom EMCASACOMCECILIA"
+        "title": "Black Friday Insider 2026 masculino: até 40% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
       },
       {
         "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
