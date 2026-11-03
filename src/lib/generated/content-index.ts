@@ -176325,45 +176325,45 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "É bom no sentido do rótulo: a tabela nutricional diz quanto de proteína vem em cada dose, e o preço por proteína cabe numa conta. O que atrapalha é o nome do pote.",
           "O ponto que decide é o 80% HD: ele tem mais proteína por dose que o 100% HD, numa dose menor. O \"100%\" do 100% HD não é a porcentagem de proteína, já que o pó dele tem 60% de proteína, contra 77% do 80% HD, que também é o de menor preço por proteína da linha.",
-          "Conta nossa: com a tabela nutricional de cada rótulo e o preço do site, que está no capítulo do cupom, a conta é preço ÷ (proteína por dose × doses do pote) × 100."
+          "Conta nossa: com a tabela nutricional de cada rótulo e o preço do site, que está no capítulo do cupom, a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100."
         ],
         "comparisonTable": {
-          "caption": "Proteína por dose e doses do rótulo. R$ por 100 g de proteína: conta nossa, com o preço do site antes do cupom.",
+          "caption": "Proteína por dose do rótulo. R$ por 100 g de proteína: conta nossa, com o preço do site antes do cupom.",
           "headers": [
             "Whey",
             "Proteína por dose",
-            "Doses",
+            "Proteína no pote",
             "R$ por 100 g de proteína"
           ],
           "rows": [
             [
               "[Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
               "23 g em 30 g",
-              "30",
+              "690 g",
               "R$ 23,17"
             ],
             [
               "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
               "21 g em 35 g",
-              "25",
-              "R$ 30,46"
+              "540 g",
+              "R$ 29,61"
             ],
             [
               "[Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
               "21 g em 35 g",
-              "50",
-              "R$ 26,66"
+              "1.080 g",
+              "R$ 25,92"
             ],
             [
               "[Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
               "31 g em 40 g",
-              "22",
-              "R$ 41,04"
+              "697,5 g",
+              "R$ 40,13"
             ],
             [
               "[Whey 100% HD Gourmet 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-900/p)",
               "12 g em 30 g",
-              "30",
+              "360 g",
               "R$ 36,08"
             ]
           ]
@@ -176705,7 +176705,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Conta nossa, com a proteína da tabela nutricional e as doses de cada pote: preço dividido por (proteína por dose × doses) e multiplicado por 100. Quanto menor o número da última coluna, mais barata a proteína."
+          "Conta nossa, com a proteína da tabela nutricional: a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Quanto menor o número da última coluna, mais barata a proteína."
         ],
         "comparisonTable": {
           "caption": "Preço no site, 02/11. Proteína da tabela nutricional de um sabor de cada pote.",
@@ -176713,7 +176713,7 @@ export const reviewsData: unknown[] = [
             "Whey",
             "Tipo de proteína",
             "Proteína por dose",
-            "Doses",
+            "Proteína no pote",
             "Preço no site",
             "Por 100 g de proteína"
           ],
@@ -176722,7 +176722,7 @@ export const reviewsData: unknown[] = [
               "[100% Whey Refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
               "Concentrada",
               "21 g em 30 g",
-              "30",
+              "630 g",
               "R$ 196,39",
               "R$ 31,17"
             ],
@@ -176730,7 +176730,7 @@ export const reviewsData: unknown[] = [
               "[100% Whey Pote 900 g](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
               "Concentrada",
               "21 g em 30 g",
-              "30",
+              "630 g",
               "R$ 210,39",
               "R$ 33,40"
             ],
@@ -176738,7 +176738,7 @@ export const reviewsData: unknown[] = [
               "[Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
               "Concentrada, isolada e hidrolisada",
               "25 g em 40 g",
-              "22,5",
+              "562,5 g",
               "R$ 189,00 (de R$ 273,55)",
               "R$ 33,60"
             ],
@@ -176746,7 +176746,7 @@ export const reviewsData: unknown[] = [
               "[Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
               "Concentrada, isolada e hidrolisada",
               "32 g em 40 g",
-              "22,5",
+              "720 g",
               "R$ 273,55",
               "R$ 37,99"
             ],
@@ -176754,7 +176754,7 @@ export const reviewsData: unknown[] = [
               "[Top Whey 3W + Natural 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-natural-900g/p)",
               "Concentrada, isolada e hidrolisada",
               "26 g em 40 g",
-              "22,5",
+              "585 g",
               "R$ 273,55",
               "R$ 46,76"
             ],
@@ -176762,7 +176762,7 @@ export const reviewsData: unknown[] = [
               "[Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
               "Concentrada",
               "15 g em 40 g",
-              "25",
+              "375 g",
               "R$ 126,20",
               "R$ 33,65"
             ],
@@ -176770,7 +176770,7 @@ export const reviewsData: unknown[] = [
               "[IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
               "Isolada",
               "26 g em 30 g",
-              "30",
+              "780 g",
               "R$ 326,18",
               "R$ 41,82"
             ]
@@ -176887,7 +176887,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% OFF, no carrinho.",
+      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% de desconto, no carrinho.",
       "label": "Ir para a Max Titanium",
       "url": "https://www.maxtitanium.com.br/",
       "sponsored": true
@@ -176988,7 +176988,7 @@ export const reviewsData: unknown[] = [
             "Produto",
             "Tipo de proteína",
             "Proteína por dose",
-            "Doses",
+            "Proteína no pote",
             "Preço no site",
             "Por 100 g de proteína"
           ],
@@ -176997,7 +176997,7 @@ export const reviewsData: unknown[] = [
               "[100% Pure Whey pote, baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Concentrado (WPC)",
               "20 g em 30 g",
-              "30",
+              "600 g",
               "R$ 252,49",
               "R$ 42,08"
             ],
@@ -177005,7 +177005,7 @@ export const reviewsData: unknown[] = [
               "[100% Pure Whey refil, baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Concentrado (WPC)",
               "20 g em 30 g",
-              "30",
+              "600 g",
               "R$ 235,65",
               "R$ 39,28"
             ],
@@ -177013,7 +177013,7 @@ export const reviewsData: unknown[] = [
               "[100% Pure Whey Zero Lactose, chocolate](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Concentrado sem lactose (WPC)",
               "21 g em 30 g",
-              "30",
+              "630 g",
               "R$ 241,97",
               "R$ 38,41"
             ],
@@ -177021,22 +177021,22 @@ export const reviewsData: unknown[] = [
               "[Hiper 100% Whey, baunilha](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Concentrado (WPC)",
               "23 g em 40 g",
-              "22,5",
+              "517,5 g",
               "R$ 124,90 (de R$ 210,39)",
-              "R$ 24,13"
+              "R$ 24,14"
             ],
             [
               "[Iso Pro Whey, baunilha](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
               "Isolado (WPI)",
               "26 g em 30 g",
-              "30",
+              "780 g",
               "R$ 346,28",
               "R$ 44,39"
             ]
           ]
         },
         "postParagraphs": [
-          "Conta nossa: com a proteína e as doses da tabela nutricional de cada pote, o preço por 100 g de proteína é preço ÷ (proteína por dose × doses) × 100. No Hiper, as doses saem do peso: 900 g em doses de 40 g. Sem a promoção, o Hiper deixa de ser o mais barato por grama de proteína, e a loja pode tirá-la sem aviso.",
+          "Conta nossa: com a proteína da tabela nutricional de cada pote, a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Sem a promoção, o Hiper deixa de ser o mais barato por grama de proteína, e a loja pode tirá-la sem aviso.",
           "Os potes da tabela são do sabor indicado; a proteína por dose muda pouco de sabor para sabor, e o certo é conferir a tabela do que você vai comprar. O quadro por objetivo, com a seção da Probiótica, está em [melhor whey: qual escolher por objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
         ]
       },
@@ -177188,7 +177188,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% OFF no site da Probiótica. Confira o desconto de cada item antes de pagar.",
+      "text": "Entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% de desconto no site da Probiótica. Confira o desconto de cada item antes de pagar.",
       "label": "Ir para a Probiótica com o cupom",
       "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
       "sponsored": true

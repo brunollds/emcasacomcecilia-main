@@ -60,45 +60,45 @@
       "paragraphs": [
         "É bom no sentido do rótulo: a tabela nutricional diz quanto de proteína vem em cada dose, e o preço por proteína cabe numa conta. O que atrapalha é o nome do pote.",
         "O ponto que decide é o 80% HD: ele tem mais proteína por dose que o 100% HD, numa dose menor. O \"100%\" do 100% HD não é a porcentagem de proteína, já que o pó dele tem 60% de proteína, contra 77% do 80% HD, que também é o de menor preço por proteína da linha.",
-        "Conta nossa: com a tabela nutricional de cada rótulo e o preço do site, que está no capítulo do cupom, a conta é preço ÷ (proteína por dose × doses do pote) × 100."
+        "Conta nossa: com a tabela nutricional de cada rótulo e o preço do site, que está no capítulo do cupom, a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100."
       ],
       "comparisonTable": {
-        "caption": "Proteína por dose e doses do rótulo. R$ por 100 g de proteína: conta nossa, com o preço do site antes do cupom.",
+        "caption": "Proteína por dose do rótulo. R$ por 100 g de proteína: conta nossa, com o preço do site antes do cupom.",
         "headers": [
           "Whey",
           "Proteína por dose",
-          "Doses",
+          "Proteína no pote",
           "R$ por 100 g de proteína"
         ],
         "rows": [
           [
             "[Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
             "23 g em 30 g",
-            "30",
+            "690 g",
             "R$ 23,17"
           ],
           [
             "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
             "21 g em 35 g",
-            "25",
-            "R$ 30,46"
+            "540 g",
+            "R$ 29,61"
           ],
           [
             "[Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
             "21 g em 35 g",
-            "50",
-            "R$ 26,66"
+            "1.080 g",
+            "R$ 25,92"
           ],
           [
             "[Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p)",
             "31 g em 40 g",
-            "22",
-            "R$ 41,04"
+            "697,5 g",
+            "R$ 40,13"
           ],
           [
             "[Whey 100% HD Gourmet 900 g](https://www.blackskullusa.com.br/whey-100-gourmet-900/p)",
             "12 g em 30 g",
-            "30",
+            "360 g",
             "R$ 36,08"
           ]
         ]
