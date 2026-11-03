@@ -49,3 +49,8 @@ Ficha `01_Parceiros/Max-Titanium.md` (proteína pela tabela, sem whey zero lacto
 - **Catraca:** resposta rápida sem preço, no máximo 2 datas no corpo, nenhuma em título de seção, legenda de foto ou FAQ.
 - **Imagens:** a capa e ao menos uma foto no corpo, só da marca (fotos oficiais ou da Cecília), pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
 - `somente-pt`, `isNew: true`, link de cada produto na primeira célula das tabelas.
+
+## Capa e imagens (aprovadas pelo Bruno em 03/11/2026)
+- **Capa:** `/images/reviews/max-titanium/max-titanium-e-boa-capa.webp`, 1600×900, `covers:render`, modelo "Guia ou produto". Topo: foto oficial da Max Titanium com o 100% Whey refil e o Top Whey 3W (`max-titanium-ou-growth-embalagens-whey.webp`, só a marca). Faixa: logo, "Max Titanium é boa?" e "100% Whey, Top Whey 3W, isolado e creatina pelo rótulo". `imageFit: contain`.
+- **Corpo:** as tabelas nutricionais do 100% Whey Refil e do IsoWhey (imagens da Max), na seção de preço, e o 100% Whey refil (foto oficial), na seção do 100% Whey.
+- **Capa antiga:** a foto já está no topo da capa nova, então não desce para o corpo.

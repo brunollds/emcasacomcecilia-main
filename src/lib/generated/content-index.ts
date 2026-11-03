@@ -176285,8 +176285,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-02",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp",
-    "imageAlt": "Embalagem refil de 900 g do Whey 100% HD da Black Skull, sabor Baunilha, com a caveira da marca e o nome do produto",
+    "image": "/images/reviews/black-skull/black-skull-e-boa-capa.webp",
+    "imageAlt": "Whey 80% HD refil de 900 g e Whey 100% HD de 1,8 kg da Black Skull lado a lado, com a faixa \"Black Skull é boa?\"",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -176375,13 +176375,29 @@ export const reviewsData: unknown[] = [
           "**3W Core:** serve a quem quer a dose mais proteica da linha. Não escolha pelo preço, porque é o mais caro por proteína entre os cinco da tabela.",
           "**Gourmet:** serve a quem quer um pote mais barato para começar. Não escolha se a proteína é o critério: a dose tem 12 g, a menor da tabela."
         ],
-        "image": {
-          "src": "/images/reviews/black-skull/whey-black-skull-3w-core.webp",
-          "alt": "Pote de 900 g do Whey 3W Core da Black Skull, sabor Baunilha, com a caveira da marca e o nome do produto",
-          "caption": "Whey 3W Core 900 g. Foto oficial da Black Skull.",
-          "objectFit": "square",
-          "aspectRatio": 1
-        }
+        "images": [
+          {
+            "src": "/images/reviews/black-skull/black-skull-ou-dark-lab-tabela-nutricional-whey-80-hd.webp",
+            "alt": "Tabela nutricional do Whey 80% HD refil 900 g da Black Skull: porção de 30 g com 23 g de proteína.",
+            "caption": "Tabela da própria Black Skull: 23 g de proteína em cada porção de 30 g do 80% HD.",
+            "objectFit": "contain",
+            "aspectRatio": 1.0048
+          },
+          {
+            "src": "/images/reviews/black-skull/whey-black-skull-100-hd-refil.webp",
+            "alt": "Embalagem refil de 900 g do Whey 100% HD da Black Skull, sabor Baunilha, com a caveira da marca e o nome do produto",
+            "caption": "Whey 100% HD refil 900 g. Foto oficial da Black Skull.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/black-skull/whey-black-skull-3w-core.webp",
+            "alt": "Pote de 900 g do Whey 3W Core da Black Skull, sabor Baunilha, com a caveira da marca e o nome do produto",
+            "caption": "Whey 3W Core 900 g. Foto oficial da Black Skull.",
+            "objectFit": "square",
+            "aspectRatio": 1
+          }
+        ]
       },
       {
         "heading": "A creatina da Black Skull é boa?",
@@ -176658,8 +176674,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-02",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/max-titanium/max-titanium-ou-growth-embalagens-whey.webp",
-    "imageAlt": "Potes de 100% Whey Refil 900 g e Top Whey 3W + Performance 900 g, da Max Titanium, sabor baunilha",
+    "image": "/images/reviews/max-titanium/max-titanium-e-boa-capa.webp",
+    "imageAlt": "100% Whey refil e Top Whey 3W da Max Titanium lado a lado, com a faixa \"Max Titanium é boa?\"",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
@@ -176942,8 +176958,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-02",
     "draft": false,
     "isNew": true,
-    "image": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
-    "imageAlt": "Três embalagens de whey da Probiótica, de 900 g: o pote, o refil e o Zero Lactose, de frente",
+    "image": "/images/reviews/probiotica/probiotica-e-boa-capa.webp",
+    "imageAlt": "Pote, refil e Zero Lactose do 100% Pure Whey da Probiótica, com a faixa \"Probiótica é boa?\"",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [

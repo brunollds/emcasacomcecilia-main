@@ -49,3 +49,8 @@ Ficha `01_Parceiros/Probiotica.md`, o quadro-mestre e a seção "Probiótica: co
 - **Catraca:** resposta rápida sem preço, no máximo 2 datas no corpo, nenhuma em título de seção, legenda de foto ou FAQ.
 - **Imagens:** a capa e ao menos uma foto no corpo, só da marca (fotos oficiais ou da Cecília), pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`.
 - `somente-pt`, `isNew: true`, link de cada produto na primeira célula das tabelas.
+
+## Capa e imagens (aprovadas pelo Bruno em 03/11/2026)
+- **Capa:** `/images/reviews/probiotica/probiotica-e-boa-capa.webp`, 1600×900, `covers:render`, modelo "Guia ou produto". Topo: foto oficial da Probiótica com o pote, o refil e o Zero Lactose do 100% Pure Whey (`probiotica-ou-growth-embalagens-whey.webp`, só a marca). Faixa: logo, "Probiótica é boa?" e "100% Pure Whey, zero lactose e creatina pelo rótulo". `imageFit: contain`.
+- **Corpo:** a tabela nutricional do 100% Pure Whey baunilha (imagem da Probiótica), na seção do Pure Whey, e a Creatina 300 g (foto oficial), na seção da creatina.
+- **Capa antiga:** a foto já está no topo da capa nova, então não desce para o corpo.
