@@ -252,23 +252,23 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
     category: 'Mode, Accessoires, Beauty und Wohnen',
     shortDescription: 'Hauptlink, Empfehlungscode und aktuelle Aktionen',
     longDescription:
-      'Öffne SHEIN über Cecílias Hauptlink, sieh dir den Empfehlungscode 4CW5Y an und entdecke die bestätigten Aktionen für ausgewählte Produkte und Neukunden.',
+      'Öffnen Sie SHEIN über Cecílias Hauptlink, sehen Sie sich den Empfehlungscode 4CW5Y an und entdecken Sie die bestätigten Aktionen für ausgewählte Produkte und Neukunden.',
     metaTitle: 'SHEIN: Empfehlungscode 4CW5Y und aktuelle Aktionen',
     metaDescription:
-      'Öffne SHEIN über Cecílias Link, suche in der App nach 4CW5Y und sieh dir die aktuellen Aktionen für ausgewählte Produkte und Neukunden an.',
+      'Öffnen Sie SHEIN über Cecílias Link, suchen Sie in der App nach 4CW5Y und sehen Sie sich die aktuellen Aktionen für ausgewählte Produkte und Neukunden an.',
     eligibleCategories: 'Mode, Accessoires, Beauty, Wohnen und weitere Kategorien, die in der jeweiligen Aktion gelten',
-    validity: 'Links und Aktionen können sich ändern; prüfe die Bedingungen, die SHEIN anzeigt',
+    validity: 'Links und Aktionen können sich ändern; prüfen Sie die Bedingungen, die SHEIN anzeigt',
     reusable: 'Nach den Regeln, die SHEIN für die jeweilige Aktion angibt',
     shipping: 'Berechnet von SHEIN je nach Adresse, Produkten und Aktion',
-    combinable: 'Kann je nach Aktion, Konto und Produkt variieren; prüfe den Endpreis vor dem Bezahlen',
+    combinable: 'Kann je nach Aktion, Konto und Produkt variieren; prüfen Sie den Endpreis vor dem Bezahlen',
     aboutBrand:
-      'SHEIN ist eine internationale Plattform für Mode, Accessoires, Beauty und Wohnartikel. Diese Seite bündelt Cecílias Hauptlink, den Empfehlungscode aus der Partnerschaft und Aktionen, die sich mit der Zeit ändern können. Links zu einzelnen Produkten gehören in Haul-Artikel und Tests, weil Verfügbarkeit, Preis und Bestand von Teil zu Teil variieren. Käufe über die angegebenen Links können Em Casa com Cecília eine Provision einbringen – ohne Mehrkosten für dich.',
+      'SHEIN ist eine internationale Plattform für Mode, Accessoires, Beauty und Wohnartikel. Diese Seite bündelt Cecílias Hauptlink, den Empfehlungscode aus der Partnerschaft und Aktionen, die sich mit der Zeit ändern können. Links zu einzelnen Produkten gehören in Haul-Artikel und Tests, weil Verfügbarkeit, Preis und Bestand von Teil zu Teil variieren. Käufe über die angegebenen Links können Em Casa com Cecília eine Provision einbringen – ohne Mehrkosten für Sie.',
     brandLogoAlt: 'SHEIN-Logo',
     faqs: [
       {
         question: 'Ist 4CW5Y ein SHEIN-Gutscheincode?',
         answer:
-          '4CW5Y ist der Empfehlungscode aus der Partnerschaft. Suche den Code in der SHEIN-App und prüfe die Bedingungen, die für dein Konto angezeigt werden; wir stellen ihn nicht als festen prozentualen Rabatt dar.',
+          '4CW5Y ist der Empfehlungscode aus der Partnerschaft. Suchen Sie den Code in der SHEIN-App und prüfen Sie die Bedingungen, die für Ihr Konto angezeigt werden; wir stellen ihn nicht als festen prozentualen Rabatt dar.',
       },
       {
         question: 'Was ist der Code 37S3442 bei SHEIN?',
@@ -278,7 +278,7 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       {
         question: 'Wer kann den Code K49L457 nutzen?',
         answer:
-          'Die Aktion K49L457 bewirbt einen 50-%-Gutschein nur für Neukunden. Ob du berechtigt bist und wie hoch der Rabatt am Ende ist, bestätigt SHEIN im Konto und an der Kasse.',
+          'Die Aktion K49L457 bewirbt einen 50-%-Gutschein nur für Neukunden. Ob Sie berechtigt sind und wie hoch der Rabatt am Ende ist, bestätigt SHEIN im Konto und an der Kasse.',
       },
       {
         question: 'Sind die SHEIN-Links und -Codes dauerhaft gültig?',
@@ -288,21 +288,21 @@ const SHEIN_TRANSLATIONS: Record<TranslatedLocale, AffiliateOfferTranslation> = 
       {
         question: 'Bekommt Cecília eine Provision, wenn ich über die Links kaufe?',
         answer:
-          'Das ist möglich. SHEIN kann Em Casa com Cecília eine Provision für Käufe zahlen, die den Partnerlinks zugeordnet werden – ohne Mehrkosten für dich.',
+          'Das ist möglich. SHEIN kann Em Casa com Cecília eine Provision für Käufe zahlen, die den Partnerlinks zugeordnet werden – ohne Mehrkosten für Sie.',
       },
     ],
     linkInstructions: [
-      'Öffne SHEIN über Cecílias Hauptlink.',
-      'Für den Empfehlungscode suchst du in der SHEIN-App nach 4CW5Y.',
-      'Für eine bestimmte Aktion nutzt du den Suchcode oder den passenden Button auf dieser Seite.',
-      'Prüfe Berechtigung, Produkte und Laufzeit direkt bei SHEIN.',
-      'Prüfe den Endpreis, bevor du den Kauf abschließt.',
+      'Öffnen Sie SHEIN über Cecílias Hauptlink.',
+      'Für den Empfehlungscode suchen Sie in der SHEIN-App nach 4CW5Y.',
+      'Für eine bestimmte Aktion nutzen Sie den Suchcode oder den passenden Button auf dieser Seite.',
+      'Prüfen Sie Berechtigung, Produkte und Laufzeit direkt bei SHEIN.',
+      'Prüfen Sie den Endpreis, bevor Sie den Kauf abschließen.',
     ],
     linkNote:
-      'Der Hauptlink öffnet SHEIN; Empfehlungs- und Aktionscodes suchst du in der App. Prüfe vor dem Bezahlen die Bedingungen, die für dein Konto angezeigt werden.',
+      'Der Hauptlink öffnet SHEIN; Empfehlungs- und Aktionscodes suchen Sie in der App. Prüfen Sie vor dem Bezahlen die Bedingungen, die für Ihr Konto angezeigt werden.',
     referral: {
       label: 'Cecílias Empfehlungscode',
-      instructions: 'Suche in der SHEIN-App nach 4CW5Y und prüfe die Bedingungen, die für dein Konto angezeigt werden.',
+      instructions: 'Suchen Sie in der SHEIN-App nach 4CW5Y und prüfen Sie die Bedingungen, die für Ihr Konto angezeigt werden.',
     },
   },
   it: {
@@ -860,23 +860,23 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     discount: `20${NBSP}% Rabatt`,
     category: 'Webhosting und Domains',
     shortDescription: 'alle Hostinger-Tarife, monatlich oder jährlich, für Neu- und Bestandskunden',
-    longDescription: `SONAR20 gewährt 20${NBSP}% Rabatt auf alle Hostinger-Tarife, monatlich oder jährlich, egal ob du neu bei Hostinger bist oder schon Kunde. Füge den Code im Warenkorb in das Gutscheinfeld ein. Getestet am 29. Oktober 2026 beim Tarif Startup, zusätzlich zum Black-Friday-Preis. Em Casa com Cecília läuft seit 2024 bei Hostinger.`,
-    metaTitle: `Hostinger-Gutschein 2026${NBSP}: 20${NBSP}% auf alles mit SONAR20`,
-    metaDescription: `Hostinger-Gutschein getestet am 29. Oktober 2026${NBSP}: SONAR20 gibt 20${NBSP}% auf Monats- und Jahrestarife, für Neu- und Bestandskunden, auch zum Black Friday.`,
+    longDescription: `SONAR20 gewährt 20${NBSP}% Rabatt auf alle Hostinger-Tarife, monatlich oder jährlich, egal ob Sie neu bei Hostinger sind oder schon Kunde. Fügen Sie den Code im Warenkorb in das Gutscheinfeld ein. Getestet am 29. Oktober 2026 beim Tarif Startup, zusätzlich zum Black-Friday-Preis. Em Casa com Cecília läuft seit 2024 bei Hostinger.`,
+    metaTitle: `Hostinger-Gutschein 2026: 20${NBSP}% auf alles mit SONAR20`,
+    metaDescription: `Hostinger-Gutschein getestet am 29. Oktober 2026: SONAR20 gibt 20${NBSP}% auf Monats- und Jahrestarife, für Neu- und Bestandskunden, auch zum Black Friday.`,
     eligibleCategories: 'Alle Hostinger-Tarife, monatlich oder jährlich, für Neu- und Bestandskunden',
     validity: 'Gutschein gültig, solange die Partnerschaft läuft',
     reusable: 'Gilt für Neukunden und für alle, die bereits einen Hostinger-Tarif haben',
     shipping: 'Entfällt',
-    combinable: `Gilt zusätzlich zum Black-Friday-Preis von Hostinger (beim Test am 29. Oktober 2026 wurden die 20${NBSP}% vom Aktionspreis abgezogen)${NBSP}; die Kombination mit anderen Gutscheinen wurde nicht getestet`,
+    combinable: `Gilt zusätzlich zum Black-Friday-Preis von Hostinger (beim Test am 29. Oktober 2026 wurden die 20${NBSP}% vom Aktionspreis abgezogen); die Kombination mit anderen Gutscheinen wurde nicht getestet`,
     aboutBrand: `Hostinger ist ein Webhosting-Anbieter mit Hosting-Tarifen, Website-Baukasten, VPS, Domains und E-Mail. Em Casa com Cecília läuft seit 2024 bei Hostinger als Node.js-Anwendung. SONAR20 ist der Partnergutschein: 20${NBSP}% Rabatt auf alle Tarife, für Neu- und Bestandskunden.`,
     brandLogoAlt: 'Hostinger-Logo',
     faqs: [
       {
-        question: `Funktioniert der Gutschein SONAR20 heute${NBSP}?`,
+        question: `Funktioniert der Gutschein SONAR20 heute?`,
         answer: `Ja. Beim Test am 29. Oktober 2026 hat SONAR20 auf der globalen Hostinger-Seite 20${NBSP}% vom Tarif Startup mit 48 Monaten Laufzeit abgezogen. Das Datum des letzten Tests steht oben auf dieser Seite.`,
       },
       {
-        question: `Gilt SONAR20 auch für bestehende Hostinger-Kunden${NBSP}?`,
+        question: `Gilt SONAR20 auch für bestehende Hostinger-Kunden?`,
         answer: 'Ja. Der Gutschein gilt für Neukunden und für alle, die schon einen Hostinger-Tarif haben.',
       },
       {
@@ -890,41 +890,41 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           `SONAR20 bringt mehr: 20${NBSP}% auf alle Tarife, monatlich oder jährlich, für Neu- und Bestandskunden. Bei unserem Test kamen die 20${NBSP}% zusätzlich auf den Black-Friday-Preis, den Hostinger bereits anzeigte.`,
       },
       {
-        question: `Gilt der Gutschein auch bei Monatstarifen${NBSP}?`,
-        answer: `Ja. Der Code gilt für Monats- und Jahrestarife${NBSP}; auf der brasilianischen Hostinger-Seite wurde beim Test am 29. Oktober 2026 auch der Tarif Startup mit 1 Monat Laufzeit mit SONAR20 um 20${NBSP}% günstiger.`,
+        question: `Gilt der Gutschein auch bei Monatstarifen?`,
+        answer: `Ja. Der Code gilt für Monats- und Jahrestarife; auf der brasilianischen Hostinger-Seite wurde beim Test am 29. Oktober 2026 auch der Tarif Startup mit 1 Monat Laufzeit mit SONAR20 um 20${NBSP}% günstiger.`,
       },
       {
-        question: `Wo gebe ich den Gutschein bei Hostinger ein${NBSP}?`,
-        answer: `Im Warenkorb, in der Bestellübersicht${NBSP}: Klicke auf „Have a coupon code${NBSP}?“, füge SONAR20 ein und klicke auf Apply. Der Rabatt erscheint als „Coupon savings applied“.`,
+        question: `Wo gebe ich den Gutschein bei Hostinger ein?`,
+        answer: `Im Warenkorb, in der Bestellübersicht: Klicken Sie auf „Have a coupon code?“, fügen Sie SONAR20 ein und klicken Sie auf Apply. Der Rabatt erscheint als „Coupon savings applied“.`,
       },
       {
-        question: `Muss ich den Gutschein eingeben, wenn ich den Link nutze${NBSP}?`,
-        answer: `Prüfe die Bestellübersicht${NBSP}: Wenn dort nicht „Coupon applied“ steht, füge SONAR20 in das Gutscheinfeld ein. Der Link auf dieser Seite öffnet Hostinger mit der Empfehlung für denselben Code.`,
+        question: `Muss ich den Gutschein eingeben, wenn ich den Link nutze?`,
+        answer: `Prüfen Sie die Bestellübersicht: Wenn dort nicht „Coupon applied“ steht, fügen Sie SONAR20 in das Gutscheinfeld ein. Der Link auf dieser Seite öffnet Hostinger mit der Empfehlung für denselben Code.`,
       },
       {
-        question: `Gilt der Gutschein während des Black Friday von Hostinger${NBSP}?`,
+        question: `Gilt der Gutschein während des Black Friday von Hostinger?`,
         answer: `Ja. Beim Test am 29. Oktober 2026 wurden die 20${NBSP}% von SONAR20 auf den Black-Friday-Preis abgezogen, den Hostinger im Warenkorb schon anzeigte.`,
       },
       {
-        question: `Gilt der Rabatt auch bei Verlängerungen${NBSP}?`,
-        answer: `Das haben wir nicht getestet. Der Warenkorb zeigt den Verlängerungspreis unter dem Tarif${NBSP}; prüfe ihn also vor der Zahlung.`,
+        question: `Gilt der Rabatt auch bei Verlängerungen?`,
+        answer: `Das haben wir nicht getestet. Der Warenkorb zeigt den Verlängerungspreis unter dem Tarif; prüfen Sie ihn also vor der Zahlung.`,
       },
       {
-        question: `Nutzt Em Casa com Cecília Hostinger${NBSP}?`,
+        question: `Nutzt Em Casa com Cecília Hostinger?`,
         answer: 'Ja. Die Seite läuft seit 2024 bei Hostinger als Node.js-Anwendung.',
       },
       {
-        question: `Unterstützt ein Kauf mit dem Gutschein Em Casa com Cecília${NBSP}?`,
-        answer: 'Ja, ein Kauf mit SONAR20 kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für dich.',
+        question: `Unterstützt ein Kauf mit dem Gutschein Em Casa com Cecília?`,
+        answer: 'Ja, ein Kauf mit SONAR20 kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie.',
       },
     ],
-    testNote: `Wir haben SONAR20 im Feld „Have a coupon code${NBSP}?“ im Warenkorb von Hostinger mit dem Tarif Startup angewendet, den der Empfehlungslink nicht abdeckt. Bei 48 Monaten Laufzeit sank die Summe von $383.52 auf $306.82, also $76.70 weniger${NBSP}: 20${NBSP}% auf den Black-Friday-Preis, den Hostinger schon anzeigte.`,
+    testNote: `Wir haben SONAR20 im Feld „Have a coupon code?“ im Warenkorb von Hostinger mit dem Tarif Startup angewendet, den der Empfehlungslink nicht abdeckt. Bei 48 Monaten Laufzeit sank die Summe von $383.52 auf $306.82, also $76.70 weniger: 20${NBSP}% auf den Black-Friday-Preis, den Hostinger schon anzeigte.`,
     codeFieldLabel: 'Have a coupon code?',
     codeInstructions: [
-      'Kopiere den Code SONAR20 aus der Karte oben.',
-      'Öffne Hostinger über den Button auf dieser Seite, wähle Tarif und Laufzeit und gehe in den Warenkorb.',
-      `Klicke in der Bestellübersicht auf „Have a coupon code${NBSP}?“, füge SONAR20 ein und klicke auf Apply.`,
-      'Prüfe im Warenkorb den Rabatt und den Verlängerungspreis, bevor du bezahlst.',
+      'Kopieren Sie den Code SONAR20 aus der Karte oben.',
+      'Öffnen Sie Hostinger über den Button auf dieser Seite, wählen Sie Tarif und Laufzeit und gehen Sie in den Warenkorb.',
+      `Klicken Sie in der Bestellübersicht auf „Have a coupon code?“, fügen Sie SONAR20 ein und klicken Sie auf Apply.`,
+      'Prüfen Sie im Warenkorb den Rabatt und den Verlängerungspreis, bevor Sie bezahlen.',
     ],
     monthlyHighlight: {
       scope: 'bei allen Tarifen',
