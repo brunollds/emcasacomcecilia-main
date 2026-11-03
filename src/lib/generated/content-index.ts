@@ -178737,5 +178737,1334 @@ export const reviewsData: unknown[] = [
         "title": "Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam"
       }
     ]
+  },
+  {
+    "id": 784,
+    "slug": "mais-mu-e-boa",
+    "title": "Mais Mu é boa? O whey, o Exquenta, as barras e o que vale comprar da marca",
+    "seoTitle": "Mais Mu é boa? Whey, Exquenta e barras pelo rótulo",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mais Mu é boa? Pelo rótulo: o Exquenta e as barras mostram tudo, e o whey declara a proteína por dose sem tabela nutricional. Preço, cupom MMEMCASACOMCECILIA e para quem compensa.",
+    "metaDescription": "Mais Mu é boa? Whey, pré-treino Exquenta e barras pelo rótulo, preço de lista, o cupom de 10% e para quem a marca compensa.",
+    "publishedAt": "3 de novembro de 2026",
+    "publishedAtISO": "2026-11-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/mais-mu/mais-mu-e-boa-capa.webp",
+    "imageAlt": "Potes do Whey Concentrado Chocolate, do pré-treino Exquenta Manga e da Proteína Vegetal Caramel Macchiato da Mais Mu, com o logo da marca e a pergunta Mais Mu é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo rótulo, a Mais Mu é boa no que ela publica: o Exquenta e as barras trazem tabela nutricional completa, e o whey declara 20 g de proteína por dose. Falta a tabela nutricional da maioria dos wheys. Se você compara whey pela tabela, isso muda a decisão; o capítulo do whey explica."
+        ]
+      },
+      {
+        "heading": "O que a Mais Mu vende",
+        "paragraphs": [
+          "Quase tudo o que a Mais Mu vende gira em torno do whey: o pó em pote, refil e sachê, e as barras e os wafers com a mesma proteína dentro. É uma marca brasileira de proteína com sabor de doce no nome, Paçoquita, Brownie, Cookies'n Cream, e este artigo olha cada linha pelo rótulo e pelo preço de lista, mandando sabor e versão para o guia que já tem a conta feita."
+        ],
+        "bullets": [
+          "**Whey:** concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês; isolado e proteína vegetal na linha Performance. No próximo capítulo.",
+          "**Pré-treino Exquenta:** potes de 300 g e 500 g, sachês e as duas versões sem cafeína, no capítulo do Exquenta.",
+          "**Barras e wafers:** Mukebar, Crushbar, Chocowheyfer (comum, Max e Bites) e um snack salgado de parmesão, no capítulo das barras.",
+          "**Creatina:** a loja também vende, e ela fica fora deste artigo.",
+          "**Bebidas proteicas e combos:** ficam fora deste artigo."
+        ]
+      },
+      {
+        "heading": "O whey da Mais Mu é bom?",
+        "paragraphs": [
+          "Pelo que a loja publica, o whey cumpre o básico, a proteína por dose declarada em todas as linhas, mas na maioria dos sabores não dá para conferir carboidrato, gordura nem açúcar: a Mais Mu publica a tabela nutricional de poucos wheys, como o Baunilha de 450 g. Quem compara whey pela tabela fica sem o número na maior parte do catálogo.",
+          "A loja informa: 20 g de proteína por dose no concentrado e 22 g no isolado e na proteína vegetal. A dose em gramas aparece só no sachê, no título de cada sabor, e no pote de 450 g, cuja tabela do sabor Baunilha mostra porção de 36 g e cerca de 13 porções. Nos refis, a página traz no máximo um \"cerca de N doses\", sem a dose em gramas."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Linha",
+            "Proteína por dose (loja)",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Whey Concentrado Chocolate, pote de 450 g](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-chocolate-pote-450g/)",
+              "Concentrado",
+              "20 g",
+              "R$ 159,99"
+            ],
+            [
+              "[Whey Concentrado Paçoquita, 15 sachês](https://www.lojamaismu.com.br/produtos/whey-concentrado-pacoquita-sache-525g/)",
+              "Concentrado",
+              "20 g",
+              "R$ 239,85"
+            ],
+            [
+              "[Whey Concentrado Chocolate, refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-concentrado-chocolate-refil-900g/)",
+              "Concentrado",
+              "20 g",
+              "R$ 279,99"
+            ],
+            [
+              "[Whey Concentrado Paçoquita, refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-pacoquita-refil-18kg-15ej0/)",
+              "Concentrado",
+              "20 g",
+              "R$ 499,99"
+            ],
+            [
+              "[Whey Isolado Chocolate, pote de 450 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-chocolate-mais-mu-performance-450g-1e1ej/)",
+              "Isolado",
+              "22 g",
+              "R$ 299,99"
+            ],
+            [
+              "[Whey Isolado Baunilha, refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/)",
+              "Isolado",
+              "22 g",
+              "R$ 349,99"
+            ],
+            [
+              "[Proteína Vegetal Caramel Macchiato, pote de 450 g](https://www.lojamaismu.com.br/produtos/proteina-vegetal-caramel-macchiato-pote-450g/)",
+              "Vegetal",
+              "22 g",
+              "R$ 179,99"
+            ],
+            [
+              "[Proteína Vegetal Caramel Macchiato, refil de 900 g](https://www.lojamaismu.com.br/produtos/proteina-vegetal-vegana-caramel-macchiato-refil-900g/)",
+              "Vegetal",
+              "22 g",
+              "R$ 299,99"
+            ]
+          ],
+          "caption": "Preço de lista no site, 03/11. A loja vende quase tudo com desconto de promoção, e o valor do dia aparece na página de cada produto."
+        },
+        "postParagraphs": [
+          "Conta nossa, com a proteína por dose e a contagem de doses que a loja publica: o pote de 450 g sai de R$ 61,53 a R$ 66,66 por 100 g de proteína, com 13 ou 12 doses conforme o sabor, e a caixa de 15 sachês sai a R$ 79,95. Nos refis a conta não sai, porque a loja não declara a dose em gramas. A promoção do dia derruba os dois números na mesma proporção.",
+          "O concentrado é o whey da casa: proteína de soro concentrada, sabor, goma xantana e sucralose, com \"contém lactose\" no texto e leite e soja como alergênicos. Serve para quem quer o whey comum e escolhe pelo sabor, que é onde a marca aposta. Não escolha se você precisa evitar lactose.",
+          "O isolado é a linha Performance, com 22 g por dose e o maior preço por dose da marca. A página do Baunilha de 450 g diz \"contém lactose\", e a loja fala só em menos lactose que o concentrado, não em zero. Serve para quem quer mais proteína na dose; não escolha pelo preço nem como opção sem lactose.",
+          "A proteína vegetal é isolada de arroz e de ervilha, não é whey, também com 22 g por dose. Serve para quem não quer leite no pó; a lista completa de ingredientes e o aviso de alergênicos estão só no rótulo do pote, então confira a embalagem que chegar.",
+          "O sabor e o formato certo para cada rotina, com a conta por dose de todos os refis e sachês, estão em [whey Mais Mu: qual sabor e versão escolher](/reviews/whey-mais-mu-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-whey-isolado-concentrado-vegetal.webp",
+            "alt": "Potes de whey da Mais Mu: concentrado, isolado e proteína vegetal, em fotos oficiais da marca",
+            "caption": "As três linhas de pó da Mais Mu: concentrado, isolado e proteína vegetal. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "href": "https://www.lojamaismu.com.br/produtos/whey-protein-isolado-chocolate-mais-mu-performance-450g-1e1ej/",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "O Exquenta é bom?",
+        "paragraphs": [
+          "Pelo rótulo, o Exquenta é um pré-treino de cafeína e taurina com bastante açúcar na dose: 150 mg de cafeína, 500 mg de taurina (400 mg em dois sabores) e 16 g de açúcares adicionados em cada 20 g. A loja não publica teste de efeito, e este texto também não fala de efeito: o que dá para comparar é o rótulo e o preço por dose."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Doses",
+            "Cafeína por dose",
+            "Taurina por dose",
+            "Preço de lista",
+            "Por dose"
+          ],
+          "rows": [
+            [
+              "[Exquenta Manga 300 g](https://www.lojamaismu.com.br/produtos/exquenta-manga-300g/)",
+              "15 de 20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 129,00",
+              "R$ 8,60"
+            ],
+            [
+              "[Exquenta Manga 500 g](https://www.lojamaismu.com.br/produtos/exquenta-manga-500g/)",
+              "25 de 20 g",
+              "150 mg",
+              "500 mg",
+              "R$ 179,99",
+              "R$ 7,20"
+            ],
+            [
+              "[Exquenta em sachê Azedinha Morango, 15 unidades](https://www.lojamaismu.com.br/produtos/pre-treino-em-sache-exquenta-mais-mu-azedinha-morango-15-unid-1thga/)",
+              "15 de 20 g",
+              "150 mg",
+              "400 mg",
+              "R$ 149,85",
+              "R$ 9,99"
+            ],
+            [
+              "[Exquenta Sem Cafeína Tropical 450 g](https://www.lojamaismu.com.br/produtos/pre-treino-sem-cafeina-exquenta-mais-mu-performance-tropical-450g-1qn11/)",
+              "15 de 30 g",
+              "sem linha na tabela",
+              "sem linha na tabela",
+              "R$ 89,99",
+              "R$ 6,00"
+            ],
+            [
+              "[Exquenta Nitrato Laranja e Acerola 450 g](https://www.lojamaismu.com.br/produtos/exquenta-pre-treino-mais-mu-nitrato-laranja-e-acerola-450g-1ngim/)",
+              "15 de 30 g",
+              "sem linha na tabela",
+              "sem linha na tabela",
+              "R$ 189,00",
+              "R$ 12,60"
+            ]
+          ],
+          "caption": "Preço de lista, na mesma leitura da tabela do whey; a loja vende com desconto de promoção. Doses e porções pela tabela que a loja publica."
+        },
+        "postParagraphs": [
+          "O pote de 500 g sai mais barato por dose que o de 300 g, com o mesmo rótulo, e o sachê cobra pela dose já medida. Para quem toma em casa, o de 500 g; o sachê é para quem leva a dose na bolsa e aceita pagar por isso.",
+          "Os dois de 450 g são os sem cafeína: a tabela deles não traz linha de cafeína nem de taurina, e o Nitrato não publica quantos miligramas de nitrato há na dose. Servem para quem quer a linha sem cafeína; o Nitrato é o mais caro por dose de todo o quadro, e você paga sem saber a quantidade do que dá nome a ele.",
+          "A taurina cai de 500 mg para 400 mg nos sabores Azedinha Morango e Lilith Maçã Verde, e a loja não explica a diferença. Sabor por sabor, com os seis potes de 500 g e os preços com cupom, o guia do Exquenta fica nos artigos relacionados."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-e-boa-exquenta-sem-cafeina.webp",
+            "alt": "Pote do pré-treino Exquenta Sem Cafeína Tropical da Mais Mu, em foto oficial da marca",
+            "caption": "Exquenta Sem Cafeína Tropical, um dos dois potes de 450 g sem linha de cafeína na tabela. Imagem: Mais Mu.",
+            "objectFit": "square",
+            "href": "https://www.lojamaismu.com.br/produtos/pre-treino-sem-cafeina-exquenta-mais-mu-performance-tropical-450g-1qn11/"
+          }
+        ]
+      },
+      {
+        "heading": "Barras e Chocowheyfer",
+        "paragraphs": [
+          "Nas barras, a Mais Mu publica o que falta no whey: tabela nutricional por unidade, com proteína, calorias e açúcar. O que decide entre elas é o tamanho da unidade."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Unidade",
+            "Proteína por unidade (loja)",
+            "Preço de lista da caixa",
+            "Por unidade"
+          ],
+          "rows": [
+            [
+              "[Mukebar Paçoquita, caixa com 12](https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-pacoquita-720g/)",
+              "60 g",
+              "15 g",
+              "R$ 179,88",
+              "R$ 14,99"
+            ],
+            [
+              "[Mukebar Chocolate Crocante, caixa com 12](https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-chocolate-crocante-720g/)",
+              "60 g",
+              "15 g",
+              "R$ 179,88",
+              "R$ 14,99"
+            ],
+            [
+              "[Crushbar Morango, caixa com 12](https://www.lojamaismu.com.br/produtos/crushbar-mu-morango-20-caixa-12-unidades-420g/)",
+              "35 g",
+              "10 g (tabela)",
+              "R$ 131,88",
+              "R$ 10,99"
+            ],
+            [
+              "[Chocowheyfer Chocolate, caixa com 12](https://www.lojamaismu.com.br/produtos/chocowheyfer-chocolate-300g/)",
+              "25 g",
+              "6 g (tabela)",
+              "R$ 83,88",
+              "R$ 6,99"
+            ],
+            [
+              "[Chocowheyfer Max Chocolate, caixa com 20](https://www.lojamaismu.com.br/produtos/chocowheyfer-max-mais-mu-chocolate-caixa-20-unidades-1mr93/)",
+              "50 g",
+              "12 g (tabela)",
+              "R$ 258,00",
+              "R$ 12,90"
+            ],
+            [
+              "[Snack Proteico Parmesão Zero Lactose, caixa com 8](https://www.lojamaismu.com.br/produtos/snack-proteico-parmesao-zero-lactose-mais-mu-caixa-com-8-unid-13d9u/)",
+              "—",
+              "confira na embalagem",
+              "R$ 119,92",
+              "R$ 14,99"
+            ]
+          ],
+          "caption": "Preço de lista, na mesma leitura da tabela do whey; a loja vende com desconto de promoção. Proteína pela tabela ou pelo texto da página, como indicado."
+        },
+        "postParagraphs": [
+          "A Mukebar é a unidade grande e a que mais custa; o Chocowheyfer é o lanche pequeno pelo menor preço, e a Crushbar e o Max ficam no meio. Nos sabores com tabela, o açúcar adicionado é 0 g e o açúcar total vai de 0,3 g a 3,7 g por unidade; a Mukebar é a que tem mais.",
+          "Mukebar e Chocowheyfer dizem CONTÉM GLÚTEN e CONTÉM LACTOSE na página. O snack de parmesão é o único salgado da lista, com \"zero lactose\" no nome, e a proteína dele você confere na embalagem.",
+          "Serve para quem quer o lanche de proteína pronto, na mochila ou na gaveta. Se o que decide é a caloria ou o açúcar, fique no Chocowheyfer; se é a proteína por unidade, na Mukebar. O guia das barras, com cada sabor, fica nos artigos relacionados."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/mais-mu/mais-mu-barras-mukebar-chocowheyfer-crushbar.webp",
+            "alt": "Caixas das barras Mukebar, Chocowheyfer e Crushbar da Mais Mu, em fotos oficiais da marca",
+            "caption": "Mukebar, Chocowheyfer e Crushbar: o tamanho da unidade decide entre elas. Imagem: Mais Mu.",
+            "objectFit": "contain",
+            "href": "https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-pacoquita-720g/",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa com o cupom, e onde comprar",
+        "paragraphs": [
+          "O MMEMCASACOMCECILIA tira 10% de tudo no site da Mais Mu, soma com os 3% do Pix e entra também no produto que já está em promoção, pelo teste no carrinho. Vale em todas as formas de pagamento, para conta nova e para quem já comprou.",
+          "A loja não acumula cupons: o crédito do cashback e o desconto de boas-vindas entram no mesmo campo, então em cada pedido vale um só. O cashback de 5% nas compras acima de R$ 250 é programa da loja, para qualquer cliente, e não tem nada a ver com o cupom.",
+          "O código vai no checkout, em \"Adicionar cupom de desconto\", depois de \"Iniciar compra\" no carrinho. É longo: copie e cole, e confira a linha \"Desconto do cupom\" no resumo antes de pagar. As regras completas estão na página do [cupom Mais Mu](/cupons/mais-mu).",
+          "O frete sai grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste; abaixo disso, o checkout calcula. O cupom baixa o total, e um pedido perto do mínimo pode perder o frete grátis: olhe o frete depois de colar o código. No [Mercado Livre](https://meli.la/24RjvdP) a Mais Mu tem loja, e lá vale o preço do anúncio, sem o cupom."
+        ]
+      },
+      {
+        "heading": "A Mais Mu é confiável?",
+        "paragraphs": [
+          "Dá para confiar na empresa, com atenção à entrega. A Mais Mu é uma sociedade anônima com CNPJ ativo desde 2014 e sede em São Paulo, o site oficial é lojamaismu.com.br, e as regras de troca estão publicadas: produto fechado, pedido por e-mail e recolhimento pago pela loja.",
+          "No Reclame Aqui, a reputação dos últimos 6 meses caiu para Regular, com nota 6,4, enquanto a janela de 12 meses segue Boa, com 7,2. A queixa principal é a entrega: produto não recebido e atraso. Esses números mudam todo dia, e os do dia estão em [Mais Mu no Reclame Aqui](/reviews/mais-mu-reclame-aqui-nota-reputacao). Na prática, guarde o número do pedido e acompanhe o rastreio desde a postagem."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Para whey com sabor de doce e um formato para cada rotina: o concentrado, escolhido pelo sabor, porque a tabela não dá para comparar.",
+          "Para pré-treino comparado pelo rótulo: o Exquenta de 500 g, o mais barato por dose, ou um dos dois sem cafeína.",
+          "Para lanche de proteína: a Mukebar na unidade grande, o Chocowheyfer na pequena e barata.",
+          "Não vale para quem só compra whey depois de ler a tabela nutricional: na maioria dos sabores ela não está publicada.",
+          "Não vale para quem precisa evitar lactose: concentrado, isolado e barras declaram que contêm."
+        ],
+        "postParagraphs": [
+          "Dose, horário e objetivo de treino são conversa com nutricionista ou médico; este artigo lê rótulo e preço."
+        ],
+        "emphasis": "A Mais Mu é a marca de quem escolhe o whey pelo sabor; quem escolhe pela tabela nutricional fica sem o número para comparar."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O whey da Mais Mu é bom? Pelo que a loja publica, ele declara a proteína por dose em todas as linhas, mas a tabela nutricional não está publicada; o capítulo do whey mostra o que dá e o que não dá para comparar.",
+          "Qual o melhor whey da Mais Mu? Pela proteína por dose, o isolado e a proteína vegetal declaram 22 g e o concentrado, 20 g; o sabor e o formato de cada rotina estão no guia do whey, linkado no capítulo do whey.",
+          "O Exquenta é bom? Pelo rótulo, é um pré-treino de cafeína e taurina com açúcar na dose; a loja não publica teste de efeito, e a conta por dose está no capítulo do Exquenta.",
+          "A Mais Mu publica a tabela nutricional? Nas barras, nos wafers e no Exquenta, sim; nos wheys, só em poucos sabores, como o Baunilha de 450 g, e nos outros a página declara só a proteína por dose.",
+          "O cupom soma com o cashback? Não. A loja não acumula cupons, e o crédito do cashback entra como cupom; em cada pedido vale um dos dois."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você escolhe whey pelo sabor e pelo formato, e a proteína por dose que a loja declara basta para você.",
+        "Você compara pré-treino e barra pelo rótulo: o Exquenta, a Mukebar e o Chocowheyfer têm a tabela publicada."
+      ],
+      "skipIf": [
+        "Você só compra whey depois de ler a tabela nutricional: a loja não publica a da maioria dos wheys.",
+        "Você precisa evitar lactose: o concentrado, o isolado e as barras declaram que contêm."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Mais Mu com o cupom",
+      "text": "Entre no site oficial da Mais Mu, clique em \"Adicionar cupom de desconto\" no checkout e cole o MMEMCASACOMCECILIA: 10% em todo o site.",
+      "url": "https://www.lojamaismu.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MMEMCASACOMCECILIA",
+    "affiliate": "mais-mu",
+    "editorialNote": "Podemos receber comissão pelo cupom MMEMCASACOMCECILIA. Ninguém da equipe usou os produtos: os dados são do site da marca.",
+    "relatedArticles": [
+      {
+        "slug": "whey-mais-mu-qual-escolher",
+        "title": "Whey Mais Mu: qual sabor e qual versão escolher (pote, refil, sachê e isolado)"
+      },
+      {
+        "slug": "pre-treino-exquenta-mais-mu-e-bom",
+        "title": "Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína"
+      },
+      {
+        "slug": "barra-de-proteina-mais-mu-qual-escolher",
+        "title": "Barrinhas e wafers proteicos da Mais Mu: Mukebar, Crush Bar e Chocowheyfer, qual escolher (proteína, açúcar e preço por unidade)"
+      }
+    ]
+  },
+  {
+    "id": 785,
+    "slug": "dr-peanut-e-boa",
+    "title": "Dr. Peanut é boa? A pasta de amendoim, o whey, os snacks e o que vale comprar da marca",
+    "seoTitle": "Dr. Peanut é boa? Pasta, whey e snacks pelo rótulo",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Dr. Peanut é boa? Pelo rótulo: o que a pasta de amendoim, o whey e os snacks trazem, o preço por 100 g, o cupom DREMCASACOMCECILIA de 10% e para quem a marca compensa.",
+    "metaDescription": "Dr. Peanut é boa? A pasta de amendoim, o whey e os snacks pelo rótulo, o preço por 100 g, o cupom DREMCASACOMCECILIA de 10% e para quem a marca compensa.",
+    "publishedAt": "3 de novembro de 2026",
+    "publishedAtISO": "2026-11-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa.webp",
+    "imageAlt": "Pote de 600 g da pasta de amendoim Bueníssimo, pote do 100% Whey Dr. Peanut Avelã e Doctor Wafer Avelã, com o logo da Dr. Peanut e a pergunta Dr. Peanut é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. O que muda a escolha é a lactose em toda a linha e o glúten do whey e dos snacks; os capítulos abaixo mostram cada rótulo e qual formato compensa."
+        ]
+      },
+      {
+        "heading": "O que a Dr. Peanut vende",
+        "paragraphs": [
+          "A Dr. Peanut é a marca da pasta de amendoim: é por ela que a loja existe, e o whey e os snacks vêm em volta. O site se divide em três prateleiras:"
+        ],
+        "bullets": [
+          "**Pastas de amendoim:** 12 sabores, em potes de 250 g e de 600 g, mais combos de 2 a 5 potes e a assinatura, que só tem potes de 250 g. O capítulo seguinte lê o rótulo.",
+          "**Snacks:** a Doctor Bar, barra de proteína vendida só em display de 8, o alfajor e a Doctor Wafer, comparados mais abaixo.",
+          "**Whey:** o \"100% Whey Dr. Peanut - Max Titanium\", pote de 900 g em 5 sabores."
+        ],
+        "postParagraphs": [
+          "Por trás da marca está a Body Food, fábrica de Curitiba que tem a Supley como sócia, o mesmo grupo da Probiótica e da Max Titanium. É daí que vem o nome duplo do whey: a página o apresenta como uma criação da Max Titanium em parceria com a Dr. Peanut, vendida na loja da Dr. Peanut."
+        ]
+      },
+      {
+        "heading": "A pasta de amendoim Dr. Peanut é boa?",
+        "paragraphs": [
+          "Pelo rótulo, é uma pasta de amendoim com proteína do soro do leite e sem adição de açúcares, e o que decide entre os 12 sabores é a linha dos polióis, não o preço, que é o mesmo em todos. A lista de ingredientes se repete: amendoim, proteína concentrada do soro do leite, os polióis maltitol e xilitol e os edulcorantes sucralose e acessulfame de potássio; o Brownie e o Banoffee levam também glicosídeos de esteviol. Todos dizem que contêm lactose e que não contêm glúten. Os alérgicos trazem amendoim e derivados de leite em todos os sabores, e avelã, castanha-de-caju, pistache, ovo ou soja conforme o sabor.",
+          "Na colher de 15 g, a tabela traz de 2,5 a 3 g de proteína, de 0,7 a 1,5 g de açúcares totais, 0 g de açúcares adicionados e de 1,1 a 2 g de gordura saturada. Por 100 g, a proteína vai de 17 g a 20 g e os polióis, de 6,4 g a 20 g, e é essa linha que separa os sabores: o Brownie é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g, e o Cookies & Cream tem o menor açúcar e o maior poliol dos 12. A tabela sabor a sabor, com os alérgicos de cada um, está em [qual o melhor sabor da Dr. Peanut](/reviews/dr-peanut-melhor-sabor)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Formato",
+            "Peso",
+            "Preço de lista",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "[Pote de 250 g, Avelã](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-avela/p)",
+              "250 g",
+              "R$ 28,90",
+              "R$ 11,56"
+            ],
+            [
+              "[Pote de 600 g, Bombom Italiano](https://www.drpeanut.com.br/pasta-de-amendoim-sabor-bombom-italiano/p)",
+              "600 g",
+              "R$ 64,90",
+              "R$ 10,82"
+            ]
+          ],
+          "caption": "Preço de lista no site, 03/11, igual em todos os sabores do mesmo tamanho."
+        },
+        "postParagraphs": [
+          "Conta nossa: pelo preço de lista e pelo peso do pote, o de 600 g sai cerca de 6% mais barato por 100 g que o de 250 g, e os combos de 2 a 5 potes e a assinatura baixam mais. A loja vende os dois potes com desconto em promoção, e o cupom entra em cima do preço do dia.",
+          "Serve para quem quer pasta de amendoim com proteína do soro e sem açúcar adicionado, e escolhe o sabor pelo poliol. Não escolha se você precisa evitar lactose ou quer pasta só de amendoim: a loja não vende versão sem lactose nem pasta de um ingrediente só."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp",
+            "alt": "Pote de 600 g da pasta de amendoim Dr. Peanut sabor Pistache, em foto oficial da marca",
+            "caption": "Pasta de amendoim Pistache, pote de 600 g: o mesmo preço de lista dos outros sabores do tamanho. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/pasta-de-amendoim-sabor-pistache/p"
+          }
+        ]
+      },
+      {
+        "heading": "Dr. Peanut é boa para dieta?",
+        "paragraphs": [
+          "O rótulo não responde isso: quem encaixa a pasta, o whey ou a barra no seu plano é o nutricionista. O que o rótulo dá são os números que entram nessa conversa. A colher de 15 g de pasta tem de 83 a 90 kcal; a porção de 40 g de whey, de 159 a 166 kcal; a Doctor Bar de 62 g, 261 kcal e 6,2 g de gordura saturada. Leve esses números, e a porção que você come de verdade, para a consulta.",
+          "Adoçantes, polióis, lactose e glúten de cada produto estão no [guia do rótulo da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
+        ]
+      },
+      {
+        "heading": "O whey Dr. Peanut é bom?",
+        "paragraphs": [
+          "Pelo rótulo, é um whey concentrado (WPC) com 20 g de proteína por dose, e o que decide é o aviso de glúten e lactose, não o sabor: os 5 custam o mesmo e têm a mesma proteína. A loja informa: a porção é de 40 g, dois dosadores, com 20 g de proteína e 4.405 mg de BCAA. A lista de ingredientes traz a proteína concentrada do soro, amendoim torrado e granulado, cacau, lecitina de soja e sucralose; a página diz \"CONTÉM GLÚTEN\", o produto contém lactose, e os alérgicos são amendoim, leite e soja, com \"pode conter\" trigo, centeio, cevada, aveia, castanhas e ovo.",
+          "O [pote de 900 g](https://www.drpeanut.com.br/whey-dr-peanut/p) custa R$ 224,39, e são 22 doses e meia: 450 g de proteína no pote, R$ 49,86 por 100 g de proteína e R$ 9,97 por dose. Os 5 sabores (Avelã, Bombom Italiano, Bueníssimo, Doce de Leite e Paçoca) mudam só em duas linhas, os açúcares totais, de 8,5 g a 11 g por dose, e o sódio da Paçoca, o dobro dos outros. A Paçoca é o único sabor que não existe na pasta.",
+          "Serve para quem quer um whey concentrado com gosto de pasta de amendoim e compra na mesma loja da pasta. Não escolha se você precisa evitar glúten ou lactose, nem se quer um isolado: a Dr. Peanut só tem esse whey."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-whey-pacoca.webp",
+            "alt": "Pote de 900 g do 100% Whey Dr. Peanut - Max Titanium, sabor Paçoca, em foto oficial da marca",
+            "caption": "100% Whey Dr. Peanut - Max Titanium, sabor Paçoca, o único sabor que não existe na pasta. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/whey-dr-peanut-pacoca/p"
+          }
+        ]
+      },
+      {
+        "heading": "Doctor Bar, alfajor e Doctor Wafer",
+        "paragraphs": [
+          "Entre os três, só a Doctor Bar é snack de proteína; o alfajor e o wafer são o doce da linha. A barra traz 21 g por unidade, contra menos de 6 g dos outros dois."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Snack",
+            "Porção",
+            "Proteína",
+            "Preço de lista da unidade"
+          ],
+          "rows": [
+            [
+              "[Doctor Bar Avelã](https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p)",
+              "62 g",
+              "21 g",
+              "R$ 15,25 (display de 8 por R$ 122,03)"
+            ],
+            [
+              "[Alfajor Doce de Leite](https://www.drpeanut.com.br/alfajor-sabor-doce-de-leite-cobertura-chocolate-ao-leite-35g/p)",
+              "35 g",
+              "4,7 g (de 4 a 4,7 g nos 5 sabores)",
+              "R$ 12,99"
+            ],
+            [
+              "[Doctor Wafer Avelã](https://www.drpeanut.com.br/doctor-wafer-avela-un/p)",
+              "25 g",
+              "5 g (de 5 a 6 g nos 3 sabores)",
+              "R$ 11,46"
+            ]
+          ],
+          "caption": "Preço de lista no site, na mesma leitura da tabela das pastas. A Doctor Bar só se vende em display de 8."
+        },
+        "postParagraphs": [
+          "Por grama de proteína, a barra sai a R$ 0,73 e o alfajor passa de R$ 2,76: quem compra snack pela proteína fica na barra, quem quer um doce de 35 g fica no alfajor, e o wafer é o menor preço por unidade. A Doctor Bar Avelã e a Doctor Wafer Avelã dizem \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\"; o wafer é de farinha de trigo, e a barra leva maltitol, glicosídeos de esteviol e sucralose. O alfajor é o caso à parte: a loja publica só a tabela nutricional, em imagem, e não publica a lista de ingredientes nem o aviso de alérgicos, então este texto não diz o que ele leva. Quem tem restrição confere a embalagem antes de comer."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+            "alt": "Display e barra de proteína Doctor Bar da Dr. Peanut, sabor Avelã, em foto oficial da marca",
+            "caption": "Doctor Bar Avelã, vendida em display de 8. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/doctor-bar-8un-de-62g/p"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa com o cupom e onde comprar",
+        "paragraphs": [
+          "O DREMCASACOMCECILIA tira 10% de todo o site da Dr. Peanut, em todas as formas de pagamento, e soma com as promoções: no teste do checkout, o desconto entrou até no item que já estava com preço promocional. Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 15% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Para quem compra pasta de 250 g todo mês, é o menor preço por 100 g dos potes pequenos.",
+          "O frete grátis conta o total já com o cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Um pote de 600 g sozinho não chega; o pote de whey chega em qualquer região. A compra é no site oficial, drpeanut.com.br, e o código para copiar fica na página do [cupom Dr. Peanut](/cupons/dr-peanut)."
+        ]
+      },
+      {
+        "heading": "Confiança: quem fabrica e como a loja responde",
+        "paragraphs": [
+          "Dá para confiar: a Dr. Peanut é uma fábrica de Curitiba com CNPJ ativo, a Body Food, que tem a Supley como sócia e mostra o CNPJ e o endereço no rodapé do site. No Reclame Aqui, a reputação é Boa nos últimos 6 meses e Ótima nos últimos 12, com quase todas as reclamações respondidas e a maior parte resolvida. As queixas se concentram na entrega: guarde o rastreio e chame o atendimento assim que o prazo vencer.",
+          "Na troca, o arrependimento em 7 dias sai sem custo para você, e a troca por outro produto tem o frete por sua conta. Escolha o sabor antes de fechar o carrinho."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Vale para quem escolhe pasta de amendoim pelo rótulo: sem açúcar adicionado, com a proteína e os polióis declarados, e aceita lactose na lista.",
+          "Vale para quem já compra a pasta e quer o whey na mesma loja, com um cupom que vale em todo o site e soma com as promoções.",
+          "Não vale para quem precisa evitar lactose: as pastas, o whey, a Doctor Bar e o wafer declaram que contêm, e a loja não tem versão sem lactose.",
+          "Não vale para quem precisa evitar glúten e quer o whey ou os snacks: só a pasta diz que não contém.",
+          "Não vale para quem quer uma resposta sobre dieta: o rótulo dá os números, e a resposta é do nutricionista."
+        ],
+        "emphasis": "Se é para conhecer a marca por um produto só, que seja a pasta: é onde o rótulo mostra tudo, do ingrediente ao poliol, e o whey e os snacks vêm depois."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A pasta de amendoim Dr. Peanut é boa? Pelo rótulo, é uma pasta de amendoim com proteína do soro do leite, sem adição de açúcares e com polióis, que contém lactose e não contém glúten; o capítulo da pasta mostra as faixas por colher e por 100 g.",
+          "Qual o melhor sabor da Dr. Peanut? Pelo rótulo, depende do que você procura: Avelã e Leite em Pó têm mais proteína por 100 g, e o Brownie tem menos açúcar com menos poliol; o preço é o mesmo em todos os sabores do mesmo tamanho.",
+          "O whey da Dr. Peanut é bom? Pelo rótulo, é um whey concentrado com 20 g de proteína por dose de 40 g, nos 5 sabores, e contém glúten e lactose; a conta por 100 g de proteína está no capítulo do whey.",
+          "Dr. Peanut é boa para dieta? O rótulo não responde isso: ele mostra as calorias, os açúcares e a gordura de cada porção, e quem encaixa o produto no seu plano é o nutricionista.",
+          "Tem pasta Dr. Peanut zero lactose? Não: os 12 sabores dizem \"contém lactose\", e a loja não vende versão sem lactose."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você escolhe pasta de amendoim pelo rótulo: sem adição de açúcares, com a proteína e os polióis declarados por 100 g.",
+        "Você já compra a pasta e quer o whey na mesma loja, com um cupom que vale em todo o site e soma com as promoções.",
+        "Você compra pasta de 250 g todo mês: a assinatura com o cupom é o menor preço por 100 g dos potes pequenos."
+      ],
+      "skipIf": [
+        "Você precisa evitar lactose: as pastas, o whey, a Doctor Bar e o wafer declaram que contêm, e a loja não tem versão sem lactose.",
+        "Você precisa evitar glúten e quer o whey ou os snacks: só a pasta diz que não contém.",
+        "Você quer saber se cabe na sua dieta: o rótulo dá os números, e a resposta é do nutricionista."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Dr. Peanut",
+      "text": "Entre no site da Dr. Peanut e digite o cupom DREMCASACOMCECILIA no carrinho: são 10% em todo o site, somados às promoções. Confira a linha do desconto antes de pagar.",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Podemos receber comissão pelo cupom DREMCASACOMCECILIA. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
+    "relatedArticles": [
+      {
+        "slug": "snacks-dr-peanut-qual-escolher",
+        "title": "Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher (proteína, açúcar e preço por unidade)"
+      },
+      {
+        "slug": "dr-peanut-qual-tamanho-compensa",
+        "title": "Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa"
+      },
+      {
+        "slug": "dr-peanut-reclame-aqui-nota-reputacao",
+        "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ]
+  },
+  {
+    "id": 786,
+    "slug": "belive-e-boa",
+    "title": "Belive é boa? Os doces sem açúcar, os salgadinhos, os pães e o que vale comprar da marca",
+    "seoTitle": "Belive é boa? Brownie, salgadinho, pão sem glúten pelo rótulo",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Belive é boa? Sim, para quem precisa tirar glúten, leite e lactose da mesa: veja o que o rótulo dos doces, snacks e pães mostra, quanto custam com o código e onde comprar.",
+    "metaDescription": "Belive é boa? Brownie, bolinho, salgadinho, pão e panetone sem glúten pelo rótulo, preço de lista, o código de 10% e o frete por região: para quem a marca compensa.",
+    "publishedAt": "3 de novembro de 2026",
+    "publishedAtISO": "2026-11-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/belive-e-boa-capa.webp",
+    "imageAlt": "Brownie de chocolate com nozes, panetone de chocolate e pão de mel proteico da Belive, em fotos oficiais, com o logo da marca e a pergunta Belive é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha e publica a tabela nutricional de doces e snacks. Os doces são sem açúcar pelo rótulo, não pobres em carboidrato. O que muda a escolha é o preço por unidade e o frete por região; veja os capítulos de preço e compra."
+        ]
+      },
+      {
+        "heading": "O que a Belive vende",
+        "paragraphs": [
+          "A Belive vende a padaria e a lanchonete de quem não come glúten, leite ou lactose, tudo numa loja só. A marca é brasileira, da NHD Foods, com fábrica em Uberaba (MG), e a loja oficial é a belivebefree.com.br, com um \"e\" só. Tudo o que está no site é declarado sem glúten, sem leite e sem lactose; a marca diz que a fábrica é livre de glúten e leite, com \"zero risco de contaminação cruzada\". É declaração da loja, e a lista de alérgenos de cada página marca ovo, soja e castanhas em vários itens, então vale ler produto a produto.",
+          "As linhas, com o capítulo de cada uma abaixo:"
+        ],
+        "bullets": [
+          "**Doces sem açúcar:** brownies comuns e proteicos, pão de mel, bolinhos (inclusive os infantis), cookies e dois bolos inteiros.",
+          "**Panetone e chocotone:** dois panetones zero açúcar e os kits de 3, de época.",
+          "**Salgadinhos e snacks:** o snack proteico, o snack de arroz, o salgadinho de milho de 25 g, os GoodSoy e os chips de batata-doce e de mandioca.",
+          "**Pães:** pão de forma tradicional, multigrãos e de batata-doce, pãezinhos de batata, cebola, cenoura e brioche de coco, e bisnaguinha.",
+          "**Combos e kits:** caixas de 10, combos de 4 pacotes de pão, kits de lanche escolar e os \"Completão\" de 25 a 40 unidades."
+        ],
+        "postParagraphs": [
+          "Os GoodSoy são de outra marca do mesmo grupo, criada antes da Belive e feita na mesma fábrica; a loja os vende junto com os dela."
+        ]
+      },
+      {
+        "heading": "Brownie, pão de mel, bolinho e cookie: o que o rótulo mostra",
+        "paragraphs": [
+          "Pelo rótulo, os doces da Belive são sem açúcar, não \"light\": 0 g de açúcares adicionados em todos, e de 13 g a 23 g de carboidratos por unidade. O adoçante é a dupla maltitol e glicosídeos de esteviol em toda a linha; a descrição da loja fala em stévia, e o maltitol vem antes dela na lista de ingredientes. Os proteicos trocam parte da farinha por proteína isolada de soja, arroz e ervilha: o brownie proteico tem 5 g ou 6 g de proteína por unidade de 40 g, contra 1,6 g a 2 g do comum, com as calorias quase iguais, de 121 kcal a 144 kcal nos oito sabores. O pão de mel repete a lógica, 6 g no proteico contra 2 g no comum. Os oito brownies, sabor a sabor, estão no guia do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive)."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Unidade",
+            "Preço de lista",
+            "Kit de 10"
+          ],
+          "rows": [
+            [
+              "[Brownie de Chocolate Sem Açúcar](https://belivebefree.com.br/produto/brownie-de-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
+              "40 g",
+              "R$ 6,97",
+              "R$ 69,70"
+            ],
+            [
+              "[Brownie Proteico Double Chocolate Sem Açúcar](https://belivebefree.com.br/produto/brownie-proteico-double-chocolate-sem-acucar-sem-gluten-sem-leite-belive/)",
+              "40 g",
+              "R$ 7,97",
+              "R$ 79,70"
+            ],
+            [
+              "[Pão de Mel Sem Açúcar](https://belivebefree.com.br/produto/pao-de-mel-sem-gluten-sem-acucar-sem-leite-belive/)",
+              "45 g",
+              "R$ 7,97",
+              "R$ 79,70"
+            ],
+            [
+              "[Pão de Mel Proteico Sem Açúcar](https://belivebefree.com.br/produto/pao-de-mel-proteico-sem-gluten-sem-acucar-sem-leite-belive/)",
+              "45 g",
+              "R$ 8,49",
+              "R$ 84,90"
+            ],
+            [
+              "[Bolinho de Chocolate Sem Açúcar](https://belivebefree.com.br/produto/bolinho-de-chocolate-fit-sem-acucar-sem-gluten-sem-leite-belive/)",
+              "40 g",
+              "R$ 5,39",
+              "R$ 53,90"
+            ],
+            [
+              "[Bolinho de Cenoura com Cobertura, linha Special](https://belivebefree.com.br/produto/bolinho-de-cenoura-com-cobertura-de-chocolate-sem-gluten-sem-acucar-sem-leite-belive/)",
+              "45 g",
+              "R$ 6,97",
+              "R$ 69,70"
+            ],
+            [
+              "[Bolinho para Criança, brigadeiro ou morango](https://belivebefree.com.br/produto/bolinho-para-crianca-sabor-brigadeiro-com-cobertura-sem-gluten-sem-acucar-sem-leite-belive-45g/)",
+              "45 g",
+              "R$ 6,97",
+              "R$ 69,70"
+            ],
+            [
+              "[Cookie de Chocolate Sem Açúcar](https://belivebefree.com.br/produto/cookie-de-chocolate-fit-sem-gluten-sem-acucar-sem-leite-belive/)",
+              "pacote com 4",
+              "R$ 8,97",
+              "R$ 89,70"
+            ],
+            [
+              "[Bolo de Cenoura com Cobertura, inteiro](https://belivebefree.com.br/produto/bolo-de-cenoura-com-cobertura-de-chocolate-sem-gluten-sem-acucar-sem-leite-belive/)",
+              "1 bolo",
+              "R$ 34,90",
+              "—"
+            ]
+          ],
+          "caption": "Preço de lista do site em 03/11, sem o código. A loja vendia a maior parte da linha com desconto de promoção no dia, e o preço riscado da página é o desta tabela."
+        },
+        "postParagraphs": [
+          "Conta nossa, pelos preços de lista da tabela: o kit de 10 custa o mesmo que 10 unidades avulsas. O kit só sai mais barato por unidade quando está em promoção, e no dia estava, em toda a linha; confira o preço riscado antes de levar a caixa pensando que ela já é o desconto.",
+          "Atenção ao nome parecido: o Brownie Proteico Double Chocolate \"Sem Glúten Sem Lactose\" não é sem açúcar, e a lista de ingredientes dele começa por açúcar. O sem açúcar é o \"Sem Açúcar Sem Glúten Sem Leite\". O bolinho para criança, de 45 g, tem mais calorias e mais gordura saturada que o bolinho adulto de 40 g, e o Kit Lanche Escolar de 25 bolinhos não traz nenhum kids: são os adultos de 40 g.",
+          "Os doces servem a quem quer um doce pronto, embalado por unidade, sem glúten e sem leite. Não escolha pelo \"sem açúcar\" se o que você controla é carboidrato: o rótulo não separa o maltitol da linha de carboidratos, e a conta para o seu caso é com o nutricionista."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/belive-e-boa-kit-misto-brownies.webp",
+            "alt": "Caixa do Kit Misto 10 Brownies da Belive, sem glúten e sem leite, com os brownies em embalagem individual",
+            "caption": "O kit de 10 brownies: em lista, custa o mesmo que 10 unidades; o desconto é o da promoção. Imagem: Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/kit-misto-10-brownies-sem-gluten-sem-leite-zero-lactose-belive/"
+          }
+        ]
+      },
+      {
+        "heading": "Panetone e chocotone sem glúten",
+        "paragraphs": [
+          "O panetone da Belive existe, é de época e vem em dois sabores: o de chocolate, com recheio de brownie, gotas de chocolate 42% cacau e cobertura de chocolate, e o de frutas cristalizadas, com uvas-passas e amêndoas laminadas. Os dois são declarados sem glúten, zero açúcar (adoçados com stévia) e sem leite e lactose, e a página do de frutas repete o \"zero risco de contaminação cruzada\" da fábrica. Os kits de 3 trazem só chocotones, só panetones de frutas ou um de frutas com dois chocotones."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Panetone Zero Açúcar de Chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/)",
+              "R$ 64,90"
+            ],
+            [
+              "[Panetone Zero Açúcar de Frutas Cristalizadas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/)",
+              "R$ 64,90"
+            ],
+            [
+              "[Kit 3 Chocotones](https://belivebefree.com.br/produto/oferta-especial-kit-3-chocotones-sem-gluten-sem-acucar-sem-leite-belive/)",
+              "R$ 194,70"
+            ],
+            [
+              "[Kit 1 Panetone de Frutas + 2 Chocotones](https://belivebefree.com.br/produto/kit-panetone-chocotones-sem-gluten-zero-acucar-belive/)",
+              "R$ 194,70"
+            ],
+            [
+              "[Kit 3 Panetones de Frutas](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/)",
+              "R$ 194,70"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O que a página não traz: a tabela nutricional e a lista completa de ingredientes dos panetones. Quem compra pelo rótulo lê na embalagem que chegar. O panetone vale para quem quer a mesa de Natal sem glúten e sem leite com um produto pronto; quem conta carboidrato ou precisa da lista de alérgenos antes de pagar fica sem a informação na página."
+        ]
+      },
+      {
+        "heading": "Salgadinhos e snacks",
+        "paragraphs": [
+          "O salgadinho da Belive se escolhe pela proteína e pelo tamanho do pacote, não pelas calorias: as cinco linhas ficam entre 100 kcal e 139 kcal por pacote nas que declaram o número. O snack proteico de 35 g traz 10 g de proteína, e ela é isolada de soja, não whey. O snack de arroz, do mesmo tamanho, tem 3 g de proteína e, em média, menos sódio; o sódio é o que mais separa as duas linhas depois da proteína, de 180 mg a 310 mg no proteico contra 87 mg a 209 mg no de arroz.",
+          "As outras três linhas são de lanche pequeno. O salgadinho de milho de 25 g é o da lancheira: a página o declara assado, 100% vegetal e com 9 vitaminas e minerais. O GoodSoy, também de 25 g, é a bolinha de soja da marca irmã, que a página declara com 100 kcal por pacote. Os chips de batata-doce e de mandioca, de 50 g, são fatias crocantes com temperos da BR Spices (sal rosa, chimichurri, lemon pepper, barbecue, sweet chilli), feitos em Minas Gerais."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Pacote",
+            "Preço de lista",
+            "Combo"
+          ],
+          "rows": [
+            [
+              "[Snack Proteico, 4 sabores](https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/)",
+              "35 g",
+              "R$ 7,97",
+              "16 por R$ 127,52"
+            ],
+            [
+              "[Snack de Arroz, 4 sabores](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-snack-de-arroz-belive/)",
+              "35 g",
+              "R$ 5,19",
+              "20 por R$ 103,80"
+            ],
+            [
+              "[Salgadinho de milho com vitaminas, 4 sabores](https://belivebefree.com.br/produto/salgadinho-de-queijo-sem-gluten-sem-leite-com-vitaminas-belive-25g/)",
+              "25 g",
+              "R$ 3,97",
+              "30 por R$ 144,86"
+            ],
+            [
+              "[GoodSoy, 7 sabores](https://belivebefree.com.br/produto/goodsoy-snacks-salgadinho-de-queijo-sem-gluten-sem-leite-sem-lactose/)",
+              "25 g",
+              "R$ 3,97",
+              "20 por R$ 79,40"
+            ],
+            [
+              "[Chips de batata-doce e de mandioca, 5 sabores](https://belivebefree.com.br/produto/chips-de-batata-doce-sem-gluten-belive-temperados-com-sal-rosa-do-himalaia/)",
+              "50 g",
+              "R$ 7,97",
+              "18 por R$ 143,46"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Por grama de proteína o proteico sai bem mais barato que o de arroz, mesmo custando mais o pacote. A tabela de alérgenos da loja marca derivados de soja nos oito snacks de 35 g e não marca leite em nenhum. Para a lancheira, o pacote de 25 g é a porção pequena; para a bolsa de academia, o proteico; para o petisco de receber gente, o chips. Não escolha o snack proteico esperando menos calorias: ele tem quase as mesmas do de arroz."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
+            "alt": "Pacote de 35 g do Snack Proteico sabor queijo da Belive, salgadinho sem glúten, sem leite e zero lactose com 10 g de proteína",
+            "caption": "O snack proteico de 35 g: 10 g de proteína isolada de soja, não whey. Imagem: Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/snack-proteico-sabor-queijo-salgadinho-sem-gluten-sem-leite-zero-lactose-belive-35g/"
+          }
+        ]
+      },
+      {
+        "heading": "Pães sem glúten",
+        "paragraphs": [
+          "O pão da Belive é pão pronto, de pacote, com validade longa, e é isso que decide. A loja informa: 120 dias de validade no pão de forma de 400 g, e os pãezinhos em pacotes de cerca de 200 g, com 7 a 9 unidades pequenas. O pão de forma vem em três massas: tradicional, multigrãos (com castanha-do-pará, chia, linhaça e quinoa) e batata-doce. Os pãezinhos são de batata, cebola, cenoura e o brioche de coco, que é pão doce. A bisnaguinha vem tradicional ou multigrãos. A página dos pães diz \"sem proteína do leite\" e repete o \"zero risco de contaminação cruzada\" da fábrica."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Pacote",
+            "Preço de lista",
+            "Combo de 4 pacotes"
+          ],
+          "rows": [
+            [
+              "[Pão de forma tradicional](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/)",
+              "400 g",
+              "R$ 22,90",
+              "R$ 91,60"
+            ],
+            [
+              "[Pão de forma multigrãos](https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-multigraos-belive/)",
+              "400 g",
+              "R$ 22,90",
+              "R$ 91,60"
+            ],
+            [
+              "[Pão de forma de batata-doce](https://belivebefree.com.br/produto/pao-de-batata-doce-pao-de-forma-sem-gluten-sem-lactose-sem-leite-belive-400g/)",
+              "400 g",
+              "R$ 22,90",
+              "R$ 91,60"
+            ],
+            [
+              "[Pão de batata, pãozinho](https://belivebefree.com.br/produto/pao-de-batata-sem-gluten-sem-leite-sem-lactose-paozinho-belive/)",
+              "198 g, cerca de 9",
+              "R$ 20,90",
+              "R$ 83,60"
+            ],
+            [
+              "[Pão de cebola, pãozinho](https://belivebefree.com.br/produto/pao-de-cebola-sem-gluten-sem-lactose-sem-leite-belive/)",
+              "pacote",
+              "R$ 20,90",
+              "R$ 83,60"
+            ],
+            [
+              "[Pão de cenoura, pãozinho](https://belivebefree.com.br/produto/pao-de-cenoura-sem-gluten-sem-leite-zero-lactose-belive-200g/)",
+              "200 g",
+              "R$ 20,90",
+              "R$ 83,60"
+            ],
+            [
+              "[Brioche de coco, pão doce](https://belivebefree.com.br/produto/pao-brioche-de-coco-pao-doce-sem-gluten-sem-leite-zero-lactose-belive-200g/)",
+              "200 g, cerca de 8",
+              "R$ 20,90",
+              "R$ 83,60"
+            ],
+            [
+              "[Bisnaguinha tradicional](https://belivebefree.com.br/produto/bisnaguinha-sem-gluten-sem-lactose-sem-leite-com-vitaminas-tradicional-belive/)",
+              "200 g, cerca de 7",
+              "R$ 20,90",
+              "R$ 83,60"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O combo de 4 custa, em lista, o mesmo que 4 pacotes avulsos; o desconto do combo é o da promoção do dia, e o Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. A página dos pães não publica a tabela nutricional nem a lista de ingredientes além do que o nome diz; o multigrãos leva castanha-do-pará, que é alérgeno, e quem evita castanhas fica no tradicional ou no de batata-doce. O pão de forma serve a quem quer pão de todo dia com validade longa para não faltar; o pãozinho e a bisnaguinha, à lancheira e ao café. Quem compra um pacote só paga frete sobre ele: o pão é o item que mais pede o combo ou o carrinho cheio, como mostra o próximo capítulo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/belive-e-boa-pao-de-forma-tradicional.webp",
+            "alt": "Pacote de 400 g do Pão Sem Glúten Sem Lactose Sem Leite Tradicional da Belive",
+            "caption": "O pão de forma de 400 g: a loja informa 120 dias de validade. Imagem: Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/pao-sem-gluten-sem-lactose-sem-leite-tradicional-belive/"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa com o código, e onde comprar",
+        "paragraphs": [
+          "Com o código da Belive, todo o site sai 10% mais barato, em todas as formas de pagamento, na primeira compra e nas seguintes, e o desconto soma com as promoções da loja e com os 5% do Pix. No teste do cupom, um carrinho com quatro combos em oferta, de R$ 576,82, caiu para R$ 519,14 com o código e para R$ 493,18 no Pix. O código vai no campo \"Código do cupom\" do carrinho, com o botão \"Aplicar cupom\"; a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
+          "O que muda a conta é o frete, e ele muda por região: frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout, e o valor do frete grátis conta o carrinho antes do código. A faixa do site mostra só o valor de São Paulo: quem mora fora dos cinco estados precisa do carrinho maior para zerar o frete, e é aí que os combos de 4 pães e as caixas de 10 fazem sentido.",
+          "A Belive também vende no [Mercado Livre](https://meli.la/2xDjP2k), onde o código não vale e o preço é o do anúncio. Vale olhar lá quando o pedido é pequeno e o frete do site pesa; para o carrinho cheio, o site oficial com o código e o Pix leva."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na Belive",
+        "paragraphs": [
+          "Dá. A loja é da NHD Foods Indústria, Comércio, Importação e Exportação Ltda., empresa registrada e ativa nos dados públicos, com CNPJ, razão social, trocas e frete publicados no site, e as duas unidades em Uberaba (MG). No Reclame Aqui, a reputação era Ótima, com nota 8,1 nos últimos 6 meses, e a loja responde a todas as reclamações, resolvendo entre 75% e 80% delas. CNPJ, como reconhecer o site oficial, trocas e frete estão em [Belive é confiável?](/reviews/belive-e-confiavel), e a leitura das reclamações, no guia da marca no Reclame Aqui, listado no fim."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Para o doce pronto sem açúcar e sem glúten, o brownie e o bolinho, pelo rótulo publicado; o proteico só para quem quer os 5 g a 6 g de proteína, porque as calorias são as mesmas.",
+          "Para o lanche com proteína sem whey, o snack proteico; para o lanche pequeno da lancheira, o salgadinho de milho de 25 g ou o GoodSoy.",
+          "Para o pão de todo dia com validade longa, o pão de forma de 400 g; para a lancheira, a bisnaguinha e o pãozinho de batata.",
+          "Para o panetone sem glúten e sem açúcar de Natal, os dois sabores existem, mas a página não publica a tabela nutricional.",
+          "Não vale escolher pelo \"sem açúcar\" quem controla carboidrato: o rótulo mostra de 13 g a 23 g por unidade nos doces, e a conta é com o nutricionista.",
+          "Não vale o pedido pequeno fora de SP, MG, RJ, DF, GO e do Sul: o frete grátis pede o carrinho mais alto, e o Mercado Livre pode sair melhor nesse caso."
+        ],
+        "emphasis": "Para quem precisa tirar glúten e leite da mesa, a Belive resolve a padaria inteira numa loja só; o preço por unidade é o preço dessa conveniência."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O brownie da Belive é bom? Pelo rótulo, é um brownie de 40 g sem açúcar adicionado, adoçado com maltitol e esteviol, e os quatro proteicos trazem de 5 g a 6 g de proteína; os oito sabores estão no capítulo dos doces e no guia do brownie.",
+          "Os produtos da Belive são saudáveis? O rótulo não responde isso: ele mostra calorias, carboidratos, açúcares e proteína de cada item, e a conta para o seu caso é com o nutricionista ou o médico.",
+          "A Belive tem panetone sem açúcar? Tem, de chocolate e de frutas cristalizadas, declarados sem glúten e sem lactose, mais os kits de 3; a página não traz a tabela nutricional, como mostra o capítulo do panetone.",
+          "Os produtos da Belive são sem glúten? A loja declara toda a linha sem glúten, sem leite e sem lactose, e a marca diz que a fábrica não tem contaminação cruzada; a tabela de alérgenos de cada página marca ovo, soja e castanhas em vários itens.",
+          "Onde comprar Belive? No site oficial, com o código da Belive de 10%, ou no Mercado Livre, onde o código não vale; o frete grátis muda por região, como mostra o capítulo de compra."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você precisa de pão, doce e salgadinho sem glúten, sem leite e sem lactose e quer resolver tudo numa loja só.",
+        "Você escolhe o doce pelo rótulo: açúcares, carboidratos e proteína estão na página de cada brownie, bolinho e cookie."
+      ],
+      "skipIf": [
+        "Você quer o panetone com a tabela nutricional na página: ela não está lá, só a descrição.",
+        "Você compra pouco e mora fora de SP, MG, RJ, DF, GO e do Sul: o frete grátis pede o carrinho mais alto da loja."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Belive com o código",
+      "text": "Entre no site oficial da Belive e digite o código da Belive no campo \"Código do cupom\" do carrinho: 10% em todo o site, em todas as formas de pagamento. Confira a linha de desconto antes de pagar.",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Podemos receber comissão pela Belive. Ninguém da equipe provou os produtos: os dados são do rótulo e do site da marca.",
+    "relatedArticles": [
+      {
+        "slug": "belive-reclame-aqui-nota-reputacao",
+        "title": "Belive no Reclame Aqui: nota e reputação"
+      },
+      {
+        "slug": "snack-proteico-ou-snack-de-arroz-belive",
+        "title": "Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína"
+      },
+      {
+        "slug": "pao-de-mel-sem-acucar-belive",
+        "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+      }
+    ]
+  },
+  {
+    "id": 787,
+    "slug": "simple-organic-e-boa",
+    "title": "Simple Organic é boa? Os séruns, as soluções e o que vale comprar da marca",
+    "seoTitle": "Simple Organic é boa? Niacinamida, vitamina C e retinol",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Simple Organic é boa? Pelo rótulo, sim: o que os séruns de niacinamida, vitamina C e retinol declaram, as soluções, os hidratantes, o cupom de 5% e para quem a marca compensa.",
+    "metaDescription": "Simple Organic é boa? Niacinamida a 10%, duas vitaminas C, retinol a 0,3% e o Retinol-Like de bakuchiol, tudo pelo rótulo, com o cupom de 5% e para quem a marca compensa.",
+    "publishedAt": "3 de novembro de 2026",
+    "publishedAtISO": "2026-11-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/simple-organic-e-boa-capa.webp",
+    "imageAlt": "Frascos do Ultra Sérum Vitamina C, da Solução Vitamina C e da Solução Retinol-Like da Simple Organic, com o logo da marca e a pergunta Simple Organic é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo rótulo, é: os séruns da Simple Organic trazem o ativo e a concentração, na página ou no frasco, e a marca se apresenta como vegana e de beleza limpa. O que muda a escolha é o par certo de cada ativo, como as duas vitaminas C que não são o mesmo produto; os capítulos abaixo mostram produto por produto."
+        ]
+      },
+      {
+        "heading": "O que a Simple Organic vende",
+        "paragraphs": [
+          "O que mais se procura na Simple Organic são os séruns, e é por eles que este guia começa. A marca, que assina só \"SIMPLE\" na embalagem, vende beleza limpa e vegana com loja própria no site oficial, e o catálogo vai bem além do sérum:"
+        ],
+        "bullets": [
+          "**Séruns:** a linha Ultra Sérum (niacinamida, vitamina C, retinol, ácido hialurônico, mandélico e salicílico) e a linha Soluções (vitamina C, Retinol-Like, Exossomos + PDRN + Peptídeos, Hero, Gaba, Poliglutâmico e Oxyresveratrol), nos próximos capítulos.",
+          "**Hidratantes faciais:** Super Glow, Antioleosidade, Calmante Multirreparador e o Multifuncional, com capítulo próprio.",
+          "**Limpeza, máscaras e sticks:** gel de limpeza, máscaras e sticks faciais; ficam fora deste guia.",
+          "**Maquiagem:** a linha People Colour, com primer, lip combo e companhia; também fora deste guia.",
+          "**Fragrância:** body splash de 100 mL e os perfumes de cabelo e corpo #01, #02 e #03, no capítulo de fragrância."
+        ],
+        "postParagraphs": [
+          "\"Beleza limpa\" e \"vegana\" são frases da marca: ela se apresenta como vegana, cruelty-free e com matéria-prima orgânica, e aponta selos de terceiros, como o PETA Vegan Approved e o COSMOS Organic da Ecocert, para sustentar isso. Se o selo decide a sua compra, procure o nome da marca no site da certificadora antes de fechar; aqui, ele entra como afirmação da marca."
+        ]
+      },
+      {
+        "heading": "Ultra Sérum ou Solução: o que muda de uma linha para a outra",
+        "paragraphs": [
+          "Quem busca \"solução niacinamida\" compra o Ultra Sérum Niacinamida sem perder nada: a página diz que ele é a mesma fórmula da Solução Niacinamida, numa embalagem nova. Mas o nome da linha não garante o par. A Solução Vitamina C e o Ultra Sérum Vitamina C são fórmulas diferentes, com derivados diferentes, e a Solução custa mais. A regra que funciona é ir pelo ativo escrito, não pelo nome da linha."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Ativo declarado",
+            "Volume",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida)",
+              "Niacinamida 10%",
+              "30 mL",
+              "R$ 69,00"
+            ],
+            [
+              "[Ultra Sérum Vitamina C](https://simpleorganic.com.br/products/ultra-serum-vitamina-c)",
+              "Vitamina C (ascorbil fosfato de sódio) 10% e ácido ferúlico 0,5%, pelo rótulo do frasco",
+              "não declarado",
+              "R$ 69,00"
+            ],
+            [
+              "[Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol)",
+              "Retinol 0,3% e squalane 0,5%, pelo rótulo do frasco",
+              "30 mL",
+              "R$ 69,00"
+            ],
+            [
+              "[Ultra Sérum Ácido Hialurônico](https://simpleorganic.com.br/products/ultra-serum-acido-hialuronico)",
+              "Ácido hialurônico nanoencapsulado e peptídeos",
+              "não declarado",
+              "R$ 69,00"
+            ],
+            [
+              "[Ultra Sérum Ácido Mandélico](https://simpleorganic.com.br/products/ultra-serum-acido-mandelico)",
+              "Ácido mandélico e gluconolactona",
+              "30 mL",
+              "R$ 69,00"
+            ],
+            [
+              "[Ultra Sérum Ácido Salicílico](https://simpleorganic.com.br/products/ultra-serum-acido-salicilico)",
+              "Ácido salicílico, ácido kójico e alfa-arbutin",
+              "30 mL",
+              "R$ 69,00"
+            ],
+            [
+              "[Solução Vitamina C](https://simpleorganic.com.br/products/solucao-vitamina-c)",
+              "Ascorbyl glucoside 15%",
+              "não declarado",
+              "R$ 99,00"
+            ],
+            [
+              "[Solução Retinol-Like](https://simpleorganic.com.br/products/solucao-retinol-like)",
+              "Bakuchiol 1% (sem retinol)",
+              "30 mL",
+              "R$ 99,00"
+            ],
+            [
+              "[Solução Exossomos + PDRN + Peptídeos](https://simpleorganic.com.br/products/solucao-pdrn)",
+              "PDRN vegano, exossomos de centella asiática e peptídeos",
+              "não declarado",
+              "R$ 129,00"
+            ],
+            [
+              "[Solução Hero](https://simpleorganic.com.br/products/solucao-hero), Gaba, Poliglutâmico e Oxyresveratrol",
+              "Ashwagandha (Hero), ácido aminobutírico (Gaba), ácido poliglutâmico e hidroxiresveratrol (Oxyresveratrol)",
+              "não declarado",
+              "R$ 99,00"
+            ]
+          ],
+          "caption": "Preço de lista no site da Simple Organic, 03/11; com a Clean Friday no ar, a loja mostra o preço de campanha abaixo dele."
+        },
+        "postParagraphs": [
+          "Conta nossa, pelos preços de lista e pelos volumes da tabela: o Ultra Sérum de 30 mL sai a R$ 2,30 por mL e a Solução Retinol-Like, a R$ 3,30. Nas páginas que não trazem o volume (as duas vitaminas C, o ácido hialurônico e o PDRN), a conta por mL não fecha, e a comparação fica pelo ativo e pela concentração.",
+          "Na dúvida entre as duas linhas, o Ultra Sérum é a entrada da marca, com o mesmo preço em todos os ativos; a Solução é a linha de cima, com os ativos que a marca vende como diferenciais e um preço acima. O que decide não é a linha, é o rótulo de cada frasco, e os três capítulos seguintes leem os que mais se procuram."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
+            "alt": "Arte da Simple Organic com o frasco antigo da Solução Niacinamida e o novo Ultra Sérum Niacinamida, sob os dizeres Nova embalagem, mesma fórmula",
+            "caption": "A marca avisa: o Ultra Sérum Niacinamida é a Solução Niacinamida em embalagem nova. Imagem: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/ultra-serum-niacinamida"
+          }
+        ]
+      },
+      {
+        "heading": "A niacinamida da Simple Organic é boa? O que o rótulo diz",
+        "paragraphs": [
+          "Pelo rótulo, ela entrega o que quem busca o ativo quer ver escrito: niacinamida a 10%, 30 mL e a lista de ingredientes inteira na página. É o sérum mais procurado da marca e o que sai pelo menor preço por mL do catálogo, pela conta do capítulo anterior.",
+          "A loja informa: o Ultra Sérum Niacinamida é \"a mesma fórmula da Solução Niacinamida, agora em uma nova embalagem\", e a composição leva Parfum. O que a página promete para a pele é frase da marca, e este texto não repete.",
+          "Regra prática, sem teste nosso, para quem evita perfume em produto de rosto: leia a lista de ingredientes antes de fechar, porque este sérum leva Parfum e a página mostra a lista inteira. Gestante, lactante e quem tem alguma condição de pele: a própria página manda ao médico ou ao dermatologista, e na dúvida é ele quem responde, não o rótulo.",
+          "Serve para quem quer o ativo mais procurado da marca com a concentração escrita e o menor preço por mL. Passe se perfume na fórmula é o que você evita; aí o rótulo já respondeu."
+        ]
+      },
+      {
+        "heading": "A vitamina C da Simple Organic é boa? Duas fórmulas, dois derivados",
+        "paragraphs": [
+          "Depende de qual: a marca vende duas vitaminas C que não são o mesmo produto com embalagem nova, e é o rótulo que separa as duas. O Ultra Sérum Vitamina C traz, impresso no frasco, 10% de vitamina C na forma de ascorbil fosfato de sódio e 0,5% de ácido ferúlico. A Solução Vitamina C declara na página 15% de ascorbyl glucoside, outro derivado, e custa mais, pela tabela do capítulo das linhas.",
+          "Os dois são derivados da vitamina C, não o ácido ascórbico puro, e os dois dizem isso no rótulo. O número maior da Solução é de outro derivado, então 15% e 10% não se comparam direto, e o resultado na pele é promessa da página, não resposta deste texto. Nenhum dos dois traz o volume na página, e por isso a conta por mL não fecha aqui: a diferença de preço da tabela é a única conta que existe.",
+          "O Ultra Sérum é para quem quer a vitamina C com o ácido ferúlico junto, pelo preço de entrada da marca. A Solução é para quem quer a concentração maior escrita e aceita pagar mais pela linha de cima. Gestante e lactante: a página da vitamina C manda ao médico, e a regra vale para as duas."
+        ]
+      },
+      {
+        "heading": "Retinol, Retinol-Like e PDRN: o que cada página declara",
+        "paragraphs": [
+          "O nome engana em um dos três: a Solução Retinol-Like não tem retinol. O ativo é o bakuchiol a 1%, que a marca chama de alternativa vegetal ao retinol, e a composição não traz retinol. Quem quer retinol vai ao Ultra Sérum Retinol, que traz, impresso no frasco, 0,3% de retinol e 0,5% de squalane; o texto da página não repete esses números, então o lugar de ler é o rótulo na foto do produto.",
+          "A Solução Exossomos + PDRN + Peptídeos é a mais cara das soluções: PDRN vegano, exossomos de centella asiática e peptídeos, sem o volume na página. É o produto para quem já sabe o que procura por esses nomes e aceita pagar o maior preço da linha; para quem está começando na marca, não é por aqui.",
+          "Niacinamida, PDRN e Retinol-Like aparecem nas buscas junto de \"reclame aqui\". As reclamações recentes do perfil da loja falam de conta-gotas que chega quebrado ou torto, não de fórmula; o artigo sobre o Reclame Aqui, mais abaixo, traz as queixas e o que fazer ao receber.",
+          "O Retinol-Like serve para quem quer evitar retinol e ainda assim ter um ativo com a concentração escrita. O Ultra Sérum Retinol, para quem quer retinol com a dose no frasco e pelo preço de entrada da marca. A página do Retinol-Like manda gestante e lactante ao médico; com retinol, a regra é a mesma: na dúvida, o dermatologista."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
+            "alt": "Frasco do Ultra Sérum Retinol da Simple Organic, com o rótulo 0,3% Retinol e 0,5% Squalane, em foto oficial da marca",
+            "caption": "Ultra Sérum Retinol: a dose de retinol está impressa no frasco. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
+          },
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-e-boa-solucao-pdrn.webp",
+            "alt": "Frasco da Solução Exossomos + PDRN + Peptídeos da Simple Organic, em foto oficial da marca",
+            "caption": "A mais cara das soluções: PDRN vegano, exossomos de centella e peptídeos. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/solucao-pdrn"
+          }
+        ]
+      },
+      {
+        "heading": "Hidratantes faciais: três de 40 g e um de 80 g",
+        "paragraphs": [
+          "Os três hidratantes faciais de 40 g custam o mesmo e se separam pela lista de ativos que a página destaca, então a escolha é pelo rótulo, não pelo preço. O Multifuncional é outro produto: 80 g, com manteigas e óleos no lugar da niacinamida, e um preço acima."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Ativos que a página destaca",
+            "Peso",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow)",
+              "Niacinamida, manteiga de karité e ácido hialurônico",
+              "40 g",
+              "R$ 54,00"
+            ],
+            [
+              "[Hidratante Facial Antioleosidade](https://simpleorganic.com.br/products/hidratante-facial-antioliosidade)",
+              "Niacinamida, zinco PCA e aloe",
+              "40 g",
+              "R$ 54,00"
+            ],
+            [
+              "[Hidratante Facial Calmante Multirreparador](https://simpleorganic.com.br/products/hidratante-facial-calmante-multirreparador)",
+              "Pantenol, niacinamida, camomila e centella",
+              "40 g",
+              "R$ 54,00"
+            ],
+            [
+              "[Hidratante Multifuncional](https://simpleorganic.com.br/products/hidratante-multifuncional)",
+              "Manteigas de murumuru e ucuuba, óleos de castanha-do-brasil e semente de uva, lemongrass",
+              "80 g",
+              "R$ 95,00"
+            ]
+          ],
+          "caption": "Preço de lista, na mesma leitura da tabela dos séruns."
+        },
+        "postParagraphs": [
+          "Pelos preços de lista e pelos pesos da tabela, o Multifuncional sai mais barato por grama que os três de 40 g (R$ 1,19 contra R$ 1,35), mas o que ele leva é outra lista: manteigas e óleos, com lemongrass na fórmula. Quem quer niacinamida também no hidratante fica num dos três de 40 g; quem quer um pote maior, sem niacinamida, olha o Multifuncional. Os nomes \"Antioleosidade\" e \"Calmante\" são promessas da marca; o que separa os três, de fato, é a lista de ativos da tabela.",
+          "Na dúvida entre os três de 40 g, o Super Glow é o que repete o ativo do sérum mais procurado da marca, a niacinamida, junto do ácido hialurônico; o Calmante leva pantenol e camomila, e o Antioleosidade, zinco PCA. Passe do Multifuncional se você evita óleo essencial no rosto: a fórmula leva o de lemongrass."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
+            "alt": "Bisnaga do Hidratante Facial Super Glow da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Super Glow, um dos três hidratantes de 40 g: niacinamida, karité e ácido hialurônico. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/hidratante-facial-super-glow"
+          }
+        ]
+      },
+      {
+        "heading": "Body splash e perfume de cabelo e corpo",
+        "paragraphs": [
+          "Para quem quer a fragrância da marca, o body splash é a entrada e o perfume de cabelo e corpo é o passo acima, e a diferença está no frasco e na fórmula, não na promessa. O body splash tem 100 mL, em quatro versões, com álcool orgânico e um ativo desodorante natural na composição. Os perfumes #01, #02 e #03, da linha People Colour, levam álcool orgânico, niacinamida e o ativo desodorante, e a página não traz o volume."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Notas que a marca declara",
+            "Volume",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Body Splash Blossom Kiss](https://simpleorganic.com.br/products/body-splash-blossom-kiss), Dream Cloud, Perfect Matcha e Rebel Scent ALUF",
+              "A página de cada um traz a própria descrição",
+              "100 mL",
+              "R$ 69,00"
+            ],
+            [
+              "[Perfume Cabelo e Corpo #01](https://simpleorganic.com.br/products/no-1-perfume-cabelo-e-corpo)",
+              "Cereja, jasmim e patchouli",
+              "não declarado",
+              "R$ 79,00"
+            ],
+            [
+              "[Perfume Cabelo e Corpo #02](https://simpleorganic.com.br/products/no-2-perfume-cabelo-e-corpo)",
+              "Framboesa, pera e âmbar",
+              "não declarado",
+              "R$ 79,00"
+            ],
+            [
+              "[Perfume Cabelo e Corpo #03](https://simpleorganic.com.br/products/no-3-perfume-cabelo-e-corpo)",
+              "Coco, jasmim e sândalo",
+              "não declarado",
+              "R$ 79,00"
+            ]
+          ],
+          "caption": "Preço de lista, na mesma leitura da tabela dos séruns."
+        },
+        "postParagraphs": [
+          "O ingrediente que decide aqui é o álcool: os dois têm álcool orgânico na fórmula, e quem evita álcool em fragrância já sabe antes de comprar.",
+          "O body splash serve para quem quer 100 mL pelo preço de entrada e um frasco para o dia a dia. O perfume de cabelo e corpo é para quem quer a versão com niacinamida e as notas escritas, e aceita comprar sem o volume na página. Os quatro body splashes custam o mesmo: escolha pela descrição da página de cada um."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
+            "alt": "Frasco do Body Splash Blossom Kiss da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Body Splash Blossom Kiss, um dos quatro de 100 mL, com álcool orgânico na fórmula. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/body-splash-blossom-kiss"
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa com o cupom e onde comprar",
+        "paragraphs": [
+          "Os preços das tabelas são de lista, e em campanha a loja põe o preço do dia abaixo dele, como na Clean Friday que está no ar. Por cima do preço que estiver no carrinho entra o S-EMCASACOMCECILIA: 5% na loja online, o [cupom Simple Organic](/cupons/simple-organic) da parceria.",
+          "Nos testes, o código entrou em kit, em duo e em produto com preço de promoção, e os 5% saíram do preço que já estava no carrinho, não do preço riscado. O que confirma é a linha do desconto no resumo do pedido: confira antes de pagar. O link da parceria abre a home da loja com o código aplicado; o link de produto, como os das tabelas, vai sem ele, então copie o código e cole no campo \"Desconto\" do carrinho. O código é da loja online.",
+          "Conta de casa para o pedido pequeno: um Ultra Sérum sozinho não cruza o mínimo do frete grátis da loja, a partir de R$ 99 em produtos; dois cruzam. Num pedido de um sérum só, o frete pesa mais que os 5% do cupom, e por isso vale fechar o par, ou o sérum com o hidratante, num pedido só."
+        ]
+      },
+      {
+        "heading": "A Simple Organic é confiável?",
+        "paragraphs": [
+          "Dá para confiar na loja; o que este guia não responde é se o produto serve à sua pele. A empresa, as lojas físicas, o frete e o pagamento estão em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel), e as notas por período e as reclamações recentes, inclusive as de frasco e conta-gotas, em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao).",
+          "O que pesa, da loja, é o prazo de troca: 7 dias corridos depois de receber, com o lacre inviolado. Sérum aberto não volta, e por isso o rótulo se lê antes de comprar, não depois; é o que este guia tenta adiantar."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Para começar pela marca, o Ultra Sérum Niacinamida: ativo, concentração e volume escritos, e o menor preço por mL da tabela.",
+          "Para vitamina C, escolha pelo derivado e pelo que vem junto: o Ultra Sérum traz o ácido ferúlico pelo preço de entrada; a Solução, a concentração maior de outro derivado, pelo preço da linha de cima.",
+          "Para retinol, o Ultra Sérum Retinol, com a dose impressa no frasco; para evitar retinol, o Retinol-Like, de bakuchiol.",
+          "No hidratante, um dos três de 40 g para quem quer niacinamida também ali; o Multifuncional para quem quer o pote maior, com manteigas e óleos.",
+          "Não vale esperar comparar tudo por mL: metade das páginas não traz o volume."
+        ],
+        "emphasis": "Marca que escreve o ativo e a concentração no frasco deixa a escolha com quem compra. O que eu olharia antes de qualquer promessa é essa linha miúda do rótulo."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A niacinamida da Simple Organic é boa? Pelo rótulo, ela declara o que importa: niacinamida a 10%, 30 mL e a lista de ingredientes na página, com Parfum na fórmula. O que ela faz na sua pele é pergunta para o dermatologista; o capítulo da niacinamida traz o resto.",
+          "O Ultra Sérum é a mesma coisa que a Solução? Depende do par: a página do Ultra Sérum Niacinamida diz que é a mesma fórmula da Solução Niacinamida em embalagem nova, mas a Solução Vitamina C e o Ultra Sérum Vitamina C usam derivados e concentrações diferentes.",
+          "O Retinol-Like tem retinol? Não: o ativo é o bakuchiol, a 1%, que a marca chama de alternativa vegetal ao retinol. O sérum com retinol é o Ultra Sérum Retinol, com 0,3% impressos no frasco.",
+          "A Simple Organic é vegana? Pela própria marca, sim: ela diz que os produtos são veganos e cruelty-free e aponta selos de terceiros, como o PETA Vegan Approved. Se o selo decide a compra, confira o nome da marca na certificadora.",
+          "Qual sérum da Simple escolher? Pelo rótulo: o Ultra Sérum Niacinamida é o que declara ativo, concentração e volume pelo menor preço por mL, e o capítulo \"Para quem vale\" separa os outros por ativo. A escolha para a sua pele é com o dermatologista."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você escolhe sérum pelo rótulo: ativo e concentração escritos na página ou no frasco, como na niacinamida e no retinol.",
+        "Você quer uma marca que se diz vegana e aponta selos de terceiros, e vai conferir o selo na certificadora se ele decide a compra.",
+        "Você já ia comprar no site oficial e quer os 5% do código por cima do preço do dia."
+      ],
+      "skipIf": [
+        "Você evita perfume em produto de rosto: a lista do Ultra Sérum Niacinamida leva Parfum.",
+        "Você quer comparar os séruns por mL: as duas vitaminas C, o ácido hialurônico e o PDRN não trazem o volume na página.",
+        "Você vai comprar na loja física ou na farmácia: o código é da loja online."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Simple Organic com o cupom",
+      "text": "Entre pelo link da parceria: a loja abre com o S-EMCASACOMCECILIA, de 5% OFF na loja online, já aplicado. Confira a linha do desconto no carrinho antes de pagar.",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Feito pelo rótulo e pelo site da marca, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-simple-organic-como-usar",
+        "title": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale"
+      },
+      {
+        "slug": "black-friday-simple-organic",
+        "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom"
+      },
+      {
+        "slug": "simple-organic-e-confiavel",
+        "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas"
+      }
+    ]
   }
 ];

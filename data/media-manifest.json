@@ -39531,6 +39531,190 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/belive/belive-e-boa-capa.webp",
+      "local_url": "/images/reviews/belive/belive-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 175626,
+      "sha256": "10c0b103aeba0298053280db5a843fc0eb6f93d91199f8f2eb2791bd29ff0e3b",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "belive-e-boa-capa.webp",
+      "storage_filename": "belive-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/belive-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/belive-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/belive/belive-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179349,
+          "column": 15,
+          "literal": "/images/reviews/belive/belive-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/10c0b103aeba0298053280db5a843fc0eb6f93d91199f8f2eb2791bd29ff0e3b/belive-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/10c0b103aeba0298053280db5a843fc0eb6f93d91199f8f2eb2791bd29ff0e3b/belive-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.467Z",
+      "verification_etag_or_digest": "10c0b103aeba0298053280db5a843fc0eb6f93d91199f8f2eb2791bd29ff0e3b",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/belive-e-boa-kit-misto-brownies.webp",
+      "local_url": "/images/reviews/belive/belive-e-boa-kit-misto-brownies.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 107090,
+      "sha256": "e10021f2038dd9ffe3ca61c814d467e9fa745f8486217a0bee3267857237bf12",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "belive-e-boa-kit-misto-brownies.webp",
+      "storage_filename": "belive-e-boa-kit-misto-brownies.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/belive-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/belive-e-boa.json",
+          "line": 127,
+          "column": 19,
+          "literal": "/images/reviews/belive/belive-e-boa-kit-misto-brownies.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179454,
+          "column": 21,
+          "literal": "/images/reviews/belive/belive-e-boa-kit-misto-brownies.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e10021f2038dd9ffe3ca61c814d467e9fa745f8486217a0bee3267857237bf12/belive-e-boa-kit-misto-brownies.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e10021f2038dd9ffe3ca61c814d467e9fa745f8486217a0bee3267857237bf12/belive-e-boa-kit-misto-brownies.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "e10021f2038dd9ffe3ca61c814d467e9fa745f8486217a0bee3267857237bf12",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/belive-e-boa-pao-de-forma-tradicional.webp",
+      "local_url": "/images/reviews/belive/belive-e-boa-pao-de-forma-tradicional.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 38152,
+      "sha256": "e9fbcdca686b13c76500ed26a5dba3ceb5567092872b8e6e1eb92597e70dfe3d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "belive-e-boa-pao-de-forma-tradicional.webp",
+      "storage_filename": "belive-e-boa-pao-de-forma-tradicional.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/belive-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/belive-e-boa.json",
+          "line": 299,
+          "column": 19,
+          "literal": "/images/reviews/belive/belive-e-boa-pao-de-forma-tradicional.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179626,
+          "column": 21,
+          "literal": "/images/reviews/belive/belive-e-boa-pao-de-forma-tradicional.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e9fbcdca686b13c76500ed26a5dba3ceb5567092872b8e6e1eb92597e70dfe3d/belive-e-boa-pao-de-forma-tradicional.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e9fbcdca686b13c76500ed26a5dba3ceb5567092872b8e6e1eb92597e70dfe3d/belive-e-boa-pao-de-forma-tradicional.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "e9fbcdca686b13c76500ed26a5dba3ceb5567092872b8e6e1eb92597e70dfe3d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
+      "local_url": "/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 86850,
+      "sha256": "36d33a1c19c490622a02e74e8b3dec5be64a27c2f46b6bd2b4bd36231b4c77fa",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "belive-e-boa-snack-proteico-queijo.webp",
+      "storage_filename": "belive-e-boa-snack-proteico-queijo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/belive-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/belive-e-boa.json",
+          "line": 223,
+          "column": 19,
+          "literal": "/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179550,
+          "column": 21,
+          "literal": "/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/36d33a1c19c490622a02e74e8b3dec5be64a27c2f46b6bd2b4bd36231b4c77fa/belive-e-boa-snack-proteico-queijo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/36d33a1c19c490622a02e74e8b3dec5be64a27c2f46b6bd2b4bd36231b4c77fa/belive-e-boa-snack-proteico-queijo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "36d33a1c19c490622a02e74e8b3dec5be64a27c2f46b6bd2b4bd36231b4c77fa",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/belive/belive-e-confiavel-home.webp",
       "local_url": "/images/reviews/belive/belive-e-confiavel-home.webp",
       "media_kind": "image",
@@ -56972,6 +57156,190 @@
       "uploaded_at": null,
       "verified_at": "2026-10-20T15:12:33.925Z",
       "verification_etag_or_digest": "f8719ddfbd340da293e8c077a0e66625dd8cc365d9e54c2907e508261f296e84",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-e-boa-capa.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 113304,
+      "sha256": "5606f4b7d66351f3536585748bc517f9bfedf077cce754f5b77c6dd2400bda8e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-e-boa-capa.webp",
+      "storage_filename": "dr-peanut-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179115,
+          "column": 15,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5606f4b7d66351f3536585748bc517f9bfedf077cce754f5b77c6dd2400bda8e/dr-peanut-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5606f4b7d66351f3536585748bc517f9bfedf077cce754f5b77c6dd2400bda8e/dr-peanut-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "5606f4b7d66351f3536585748bc517f9bfedf077cce754f5b77c6dd2400bda8e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 116844,
+      "sha256": "c03bedf5fa3298222639ba2aec70dd3ad80db28d24e33892858d1d6f1b868d08",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-e-boa-doctor-bar-avela.webp",
+      "storage_filename": "dr-peanut-e-boa-doctor-bar-avela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-boa.json",
+          "line": 153,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179246,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c03bedf5fa3298222639ba2aec70dd3ad80db28d24e33892858d1d6f1b868d08/dr-peanut-e-boa-doctor-bar-avela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c03bedf5fa3298222639ba2aec70dd3ad80db28d24e33892858d1d6f1b868d08/dr-peanut-e-boa-doctor-bar-avela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "c03bedf5fa3298222639ba2aec70dd3ad80db28d24e33892858d1d6f1b868d08",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96102,
+      "sha256": "82191099af0a6213bccb6b751c873e26f7c2b5afaac0712b15a6dec751cdfa52",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-e-boa-pasta-pistache-600g.webp",
+      "storage_filename": "dr-peanut-e-boa-pasta-pistache-600g.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-boa.json",
+          "line": 82,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179175,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/82191099af0a6213bccb6b751c873e26f7c2b5afaac0712b15a6dec751cdfa52/dr-peanut-e-boa-pasta-pistache-600g.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/82191099af0a6213bccb6b751c873e26f7c2b5afaac0712b15a6dec751cdfa52/dr-peanut-e-boa-pasta-pistache-600g.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "82191099af0a6213bccb6b751c873e26f7c2b5afaac0712b15a6dec751cdfa52",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dr-peanut/dr-peanut-e-boa-whey-pacoca.webp",
+      "local_url": "/images/reviews/dr-peanut/dr-peanut-e-boa-whey-pacoca.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57964,
+      "sha256": "45c3f1e90a21d6698a47bf37cc33a8e45f1d1645321e615aa0d4fc18c62894b7",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dr-peanut-e-boa-whey-pacoca.webp",
+      "storage_filename": "dr-peanut-e-boa-whey-pacoca.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dr-peanut-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dr-peanut-e-boa.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-boa-whey-pacoca.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179199,
+          "column": 21,
+          "literal": "/images/reviews/dr-peanut/dr-peanut-e-boa-whey-pacoca.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/45c3f1e90a21d6698a47bf37cc33a8e45f1d1645321e615aa0d4fc18c62894b7/dr-peanut-e-boa-whey-pacoca.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/45c3f1e90a21d6698a47bf37cc33a8e45f1d1645321e615aa0d4fc18c62894b7/dr-peanut-e-boa-whey-pacoca.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "45c3f1e90a21d6698a47bf37cc33a8e45f1d1645321e615aa0d4fc18c62894b7",
       "verification_status": "verified"
     },
     {
@@ -81830,6 +82198,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-e-boa-capa.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 105556,
+      "sha256": "5db9c38170f74314473cc0679f71cc70b9f49e31dede0464c9643e62dffac6e0",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-e-boa-capa.webp",
+      "storage_filename": "mais-mu-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/mais-mu-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178762,
+          "column": 15,
+          "literal": "/images/reviews/mais-mu/mais-mu-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5db9c38170f74314473cc0679f71cc70b9f49e31dede0464c9643e62dffac6e0/mais-mu-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5db9c38170f74314473cc0679f71cc70b9f49e31dede0464c9643e62dffac6e0/mais-mu-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "5db9c38170f74314473cc0679f71cc70b9f49e31dede0464c9643e62dffac6e0",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/mais-mu-e-boa-exquenta-sem-cafeina.webp",
+      "local_url": "/images/reviews/mais-mu/mais-mu-e-boa-exquenta-sem-cafeina.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 25804,
+      "sha256": "c2a2369da810035ecf69bfe453235a6a760114ec61c8640bca36fc1aaa119f16",
+      "width": 640,
+      "height": 640,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "mais-mu-e-boa-exquenta-sem-cafeina.webp",
+      "storage_filename": "mais-mu-e-boa-exquenta-sem-cafeina.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/mais-mu-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/mais-mu-e-boa.json",
+          "line": 194,
+          "column": 19,
+          "literal": "/images/reviews/mais-mu/mais-mu-e-boa-exquenta-sem-cafeina.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178934,
+          "column": 21,
+          "literal": "/images/reviews/mais-mu/mais-mu-e-boa-exquenta-sem-cafeina.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c2a2369da810035ecf69bfe453235a6a760114ec61c8640bca36fc1aaa119f16/mais-mu-e-boa-exquenta-sem-cafeina.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c2a2369da810035ecf69bfe453235a6a760114ec61c8640bca36fc1aaa119f16/mais-mu-e-boa-exquenta-sem-cafeina.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "c2a2369da810035ecf69bfe453235a6a760114ec61c8640bca36fc1aaa119f16",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp",
       "local_url": "/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp",
       "media_kind": "image",
@@ -98845,6 +99305,190 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T21:10:51.184Z",
       "verification_etag_or_digest": "7f7991fdeb90c90b708cd0ef27c925f242e73fed0866ff096d87b64897af08cf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-e-boa-capa.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-e-boa-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 52902,
+      "sha256": "ca19592e57c0cad9cfb8dad2dcf834ea6f71e3b038011b3e892414161179e46e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-e-boa-capa.webp",
+      "storage_filename": "simple-organic-e-boa-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-boa.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-boa-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179728,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-boa-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ca19592e57c0cad9cfb8dad2dcf834ea6f71e3b038011b3e892414161179e46e/simple-organic-e-boa-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ca19592e57c0cad9cfb8dad2dcf834ea6f71e3b038011b3e892414161179e46e/simple-organic-e-boa-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "ca19592e57c0cad9cfb8dad2dcf834ea6f71e3b038011b3e892414161179e46e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 54290,
+      "sha256": "b81d4a9236fb7a41cb93bc6879212dc2d3a80e43daab59d40c605c28092c810a",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-e-boa-niacinamida-nova-embalagem.webp",
+      "storage_filename": "simple-organic-e-boa-niacinamida-nova-embalagem.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-boa.json",
+          "line": 131,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179837,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b81d4a9236fb7a41cb93bc6879212dc2d3a80e43daab59d40c605c28092c810a/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b81d4a9236fb7a41cb93bc6879212dc2d3a80e43daab59d40c605c28092c810a/simple-organic-e-boa-niacinamida-nova-embalagem.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "b81d4a9236fb7a41cb93bc6879212dc2d3a80e43daab59d40c605c28092c810a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-e-boa-solucao-pdrn.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-e-boa-solucao-pdrn.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 23636,
+      "sha256": "789823fe12978546ee4e5cf133f8f76cdc112e2d08efbf54fe086d7c287cdd39",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-e-boa-solucao-pdrn.webp",
+      "storage_filename": "simple-organic-e-boa-solucao-pdrn.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-boa.json",
+          "line": 173,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-boa-solucao-pdrn.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179879,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-boa-solucao-pdrn.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/789823fe12978546ee4e5cf133f8f76cdc112e2d08efbf54fe086d7c287cdd39/simple-organic-e-boa-solucao-pdrn.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/789823fe12978546ee4e5cf133f8f76cdc112e2d08efbf54fe086d7c287cdd39/simple-organic-e-boa-solucao-pdrn.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "789823fe12978546ee4e5cf133f8f76cdc112e2d08efbf54fe086d7c287cdd39",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 16922,
+      "sha256": "92200dd4845a803df1b1c2ba2aef57accdcb5bd4a1df3a3d413c90105b2215ab",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-e-boa-ultra-serum-retinol.webp",
+      "storage_filename": "simple-organic-e-boa-ultra-serum-retinol.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-boa.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-boa.json",
+          "line": 166,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 179872,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/92200dd4845a803df1b1c2ba2aef57accdcb5bd4a1df3a3d413c90105b2215ab/simple-organic-e-boa-ultra-serum-retinol.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/92200dd4845a803df1b1c2ba2aef57accdcb5bd4a1df3a3d413c90105b2215ab/simple-organic-e-boa-ultra-serum-retinol.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T23:54:47.468Z",
+      "verification_etag_or_digest": "92200dd4845a803df1b1c2ba2aef57accdcb5bd4a1df3a3d413c90105b2215ab",
       "verification_status": "verified"
     },
     {

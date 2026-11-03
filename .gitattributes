@@ -228,6 +228,10 @@ public/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-grande.webp -te
 public/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-route-media.webp -text export-ignore
 public/images/reviews/belive/belive-black-november-pagina-2026-10-19.webp -text export-ignore
 public/images/reviews/belive/belive-confiavel-capa-discover.webp -text export-ignore
+public/images/reviews/belive/belive-e-boa-capa.webp -text export-ignore
+public/images/reviews/belive/belive-e-boa-kit-misto-brownies.webp -text export-ignore
+public/images/reviews/belive/belive-e-boa-pao-de-forma-tradicional.webp -text export-ignore
+public/images/reviews/belive/belive-e-boa-snack-proteico-queijo.webp -text export-ignore
 public/images/reviews/belive/belive-e-confiavel-home.webp -text export-ignore
 public/images/reviews/belive/belive-e-confiavel-rodape-cnpj.webp -text export-ignore
 public/images/reviews/belive/belive-ingredientes-bolinho-chocolate.webp -text export-ignore
@@ -572,6 +576,10 @@ public/images/reviews/dr-peanut/dr-peanut-cupom-02-codigo-digitado.webp -text ex
 public/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-cupom-capa.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-doctor-bar-avela-tabela-nutricional.webp -text export-ignore
+public/images/reviews/dr-peanut/dr-peanut-e-boa-capa.webp -text export-ignore
+public/images/reviews/dr-peanut/dr-peanut-e-boa-doctor-bar-avela.webp -text export-ignore
+public/images/reviews/dr-peanut/dr-peanut-e-boa-pasta-pistache-600g.webp -text export-ignore
+public/images/reviews/dr-peanut/dr-peanut-e-boa-whey-pacoca.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-discover.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp -text export-ignore
 public/images/reviews/dr-peanut/dr-peanut-melhor-sabor-capa.webp -text export-ignore
@@ -1093,6 +1101,8 @@ public/images/reviews/mais-mu/mais-mu-cupom-01-sem-cupom.webp -text export-ignor
 public/images/reviews/mais-mu/mais-mu-cupom-02-codigo-digitado.webp -text export-ignore
 public/images/reviews/mais-mu/mais-mu-cupom-03-desconto-aplicado.webp -text export-ignore
 public/images/reviews/mais-mu/mais-mu-cupom-capa.webp -text export-ignore
+public/images/reviews/mais-mu/mais-mu-e-boa-capa.webp -text export-ignore
+public/images/reviews/mais-mu/mais-mu-e-boa-exquenta-sem-cafeina.webp -text export-ignore
 public/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp -text export-ignore
 public/images/reviews/mais-mu/mais-mu-ou-dux-capa.webp -text export-ignore
 public/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp -text export-ignore
@@ -1403,6 +1413,10 @@ public/images/reviews/simple-organic/gel-de-limpeza-suave.webp -text export-igno
 public/images/reviews/simple-organic/hidratante-facial-super-glow.webp -text export-ignore
 public/images/reviews/simple-organic/primer-blur-effect.webp -text export-ignore
 public/images/reviews/simple-organic/rotina-pele-sensivel.webp -text export-ignore
+public/images/reviews/simple-organic/simple-organic-e-boa-capa.webp -text export-ignore
+public/images/reviews/simple-organic/simple-organic-e-boa-niacinamida-nova-embalagem.webp -text export-ignore
+public/images/reviews/simple-organic/simple-organic-e-boa-solucao-pdrn.webp -text export-ignore
+public/images/reviews/simple-organic/simple-organic-e-boa-ultra-serum-retinol.webp -text export-ignore
 public/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp -text export-ignore
 public/images/reviews/simple-organic/simple-organic-logo.webp -text export-ignore
 public/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp -text export-ignore
