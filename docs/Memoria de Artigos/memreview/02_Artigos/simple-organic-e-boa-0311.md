@@ -13,7 +13,7 @@ responsavel: "-"
 proxima_acao: "redacao"
 bloqueado_por: "-"
 data_criacao: "2026-11-03"
-pauta: "Série \"<Marca> é boa? Vale a pena?\", Simple Organic (SO5), liberada pelo Bruno em 03/11/2026 depois do onboarding"
+pauta: "Série \"<Marca> é boa? Vale a pena?\", lote 2 (Mais Mu, Dr. Peanut, Belive e Simple Organic), decisão do Bruno de 03/11/2026"
 translationKey: null
 modo_i18n: "somente-pt"
 idioma_fonte: "pt"
