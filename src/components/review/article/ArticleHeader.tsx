@@ -40,8 +40,9 @@ export interface ArticleHeaderProps {
   storeLabel: string;
 }
 
-// Topo do artigo no visual da D2: trilha, tipo e categoria, título com o marca-texto, introdução em serifa,
-// a linha de dados, a transparência numa linha, o recorte do código (artigo com loja) e a foto.
+// Topo do artigo no visual da D2: trilha, a foto (capa larga), tipo e categoria, título com o marca-texto,
+// introdução em serifa, a linha de dados, a transparência numa linha e o recorte do código (artigo com loja). A foto
+// que não é larga vem no fim, depois do recorte.
 export function ArticleHeader({
   review, kind, kindLabel, copy, ui, noteLabels, couponCopyLocale, breadcrumbs, languageLinks, speechText,
   readTime, unanchoredNotes, reviewImage, reviewImageAlt, isPortraitHero, hasProductRating, videoPageUrl,
@@ -53,6 +54,28 @@ export function ArticleHeader({
   // A nota do veredito, como na sidebar; só em análise de produto.
   const rawStars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
   const stars = typeof rawStars === 'number' ? rawStars.toFixed(1) : undefined;
+  // A capa larga (a do Discover, 16:9) abre o artigo logo abaixo da trilha, com a largura do texto: o título segue
+  // na primeira tela. Retrato, quadrado e editorial sem imageAspect ficam no fim do topo, senão o título desceria.
+  const heroFirst = (review.video?.aspect ?? review.imageAspect) === 'landscape';
+  const hero = (
+    <figure className={heroFirst ? 'mt-4 max-w-3xl' : 'mt-8'}>
+      <ReviewHeroImage
+        src={reviewImage}
+        alt={reviewImageAlt}
+        isPortrait={isPortraitHero}
+        imageAspect={review.imageAspect}
+        imagePosition={review.imagePosition}
+        imageFit={review.imageFit}
+        hasProductRating={hasProductRating}
+        objectContain={kind === 'editorial'}
+        compact={Boolean(review.heroCompact)}
+        slug={review.slug}
+        video={review.video}
+        locale={couponCopyLocale}
+        sizes={heroFirst ? '(max-width: 1023px) calc(100vw - 2rem), 768px' : undefined}
+      />
+    </figure>
+  );
 
   return (
     <header data-article="topo" className="mb-10 text-marinho">
@@ -76,7 +99,11 @@ export function ArticleHeader({
         </ol>
       </nav>
 
-      <p className="mt-2 flex flex-wrap items-center gap-x-2 text-[13px] font-extrabold leading-[18px] tracking-[0.06em] uppercase">
+      {heroFirst && hero}
+
+      <p
+        className={`${heroFirst ? 'mt-5' : 'mt-2'} flex flex-wrap items-center gap-x-2 text-[13px] font-extrabold leading-[18px] tracking-[0.06em] uppercase`}
+      >
         {/* O ponto fica com o tipo: numa quebra de linha, ele não abre a linha de baixo. */}
         <span className="whitespace-nowrap">
           <span>{kindLabel}</span>
@@ -89,7 +116,7 @@ export function ArticleHeader({
         <span className="marca-texto marca-texto-entra">{review.title}</span>
       </h1>
 
-      <p className="mt-4 max-w-3xl font-editorial text-lg leading-relaxed text-marinho-suave md:text-xl">
+      <p className="mt-3 max-w-3xl font-editorial text-base leading-snug text-marinho-suave md:mt-4 md:text-xl md:leading-relaxed">
         {review.description}
       </p>
 
@@ -181,22 +208,7 @@ export function ArticleHeader({
         </div>
       )}
 
-      <figure className="mt-8">
-        <ReviewHeroImage
-          src={reviewImage}
-          alt={reviewImageAlt}
-          isPortrait={isPortraitHero}
-          imageAspect={review.imageAspect}
-          imagePosition={review.imagePosition}
-          imageFit={review.imageFit}
-          hasProductRating={hasProductRating}
-          objectContain={kind === 'editorial'}
-          compact={Boolean(review.heroCompact)}
-          slug={review.slug}
-          video={review.video}
-          locale={couponCopyLocale}
-        />
-      </figure>
+      {!heroFirst && hero}
       {videoPageUrl && !youtubeEmbedUrl && (
         <Link
           href={videoPageUrl}
