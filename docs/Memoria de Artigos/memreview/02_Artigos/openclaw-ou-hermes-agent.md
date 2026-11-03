@@ -263,3 +263,9 @@ Lida no Chrome do Bruno, sem abrir link de indicação nem carrinho. As páginas
 - **Imagens.** Símbolo oficial de cada projeto (pedido do Bruno em 21/10/2026, download a aprovar), dentro de capas e quadros desenhados por nós. Folha de opções antes da redação final.
 - **Ordem de redação:** openclaw-hostinger-gerenciado-ou-vps → melhor-vps-para-openclaw → openclaw-ou-hermes-agent → paperclip-ai-hostinger.
 
+## Atualização de 29/10/2026: cupom SONAR20
+
+- **No ar em 29/10/2026:** PR #353 (squash `1120ec60`), no mesmo deploy do #352 (página da loja), release `7eb13d89`; probe 40904062038 e IndexNow.
+- **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
+- **Renovação:** sem teste com o código. O texto diz "não testamos a renovação; confira o preço no carrinho"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
+- **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.

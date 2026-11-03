@@ -173,3 +173,10 @@ Fatos: `vps-ou-hospedagem-compartilhada-qual-escolher-fatos-2810.md`, ao lado (v
 - Redação: Fable 5.1, revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp`), no CDN.
 - Fora do PT: só os preços em dólar do site internacional (fatos, leitura de 28/10), com a renovação ao lado; planos com os nomes de lá (Premium, Unlimited e Cloud Startup; o Single não aparece no site internacional) e o exemplo de extensão de país no idioma de cada versão.
 - Pendente: reler preços antes da Black Friday.
+
+## Atualização de 29/10/2026: cupom SONAR20
+
+- **No ar em 29/10/2026:** PR #353 (squash `1120ec60`), no mesmo deploy do #352 (página da loja), release `7eb13d89`; probe 40904062038 e IndexNow.
+- **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
+- **Renovação:** sem teste com o código. O texto diz "não testamos a renovação; confira o preço no carrinho"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
+- **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.

@@ -264,3 +264,11 @@ Lida no Chrome do Bruno, sem abrir link de indicação nem carrinho. As páginas
 - **Fontes de terceiros, só para mapear o que existe (não citadas como requisito):** ZimaSpace (`shop.zimaspace.com/pages/openclaw-hardware-requirements`), Mac Studio e 24 GB de GPU; guias de Docker (2 GB de RAM, 1 vCPU, 2 GB de SSD, Node 22.14+). Conflitos entre elas registrados aqui; nenhum número entra no texto.
 - **Oracle (WebSearch, 21/10/2026):** `docs.oracle.com/en-us/iaas/Content/FreeTier/resourceref.htm` (não lida direto; a conferir) e relatos de corte do A1 (não confirmados).
 - **Não feito:** Reddit (sem leitura), concorrentes (Hetzner, DigitalOcean): citáveis sem link, mas sem preço lido. Mac mini: nenhuma fonte de especificação lida.
+
+## Atualização de 29/10/2026: cupom SONAR20
+
+- **VPS sem teste do código:** o texto diz que o SONAR20 dá 20% no primeiro período, sem dizer que foi testado no KVM.
+- **No ar em 29/10/2026:** PR #353 (squash `1120ec60`), no mesmo deploy do #352 (página da loja), release `7eb13d89`; probe 40904062038 e IndexNow.
+- **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
+- **Renovação:** sem teste com o código. O texto diz "não testamos a renovação; confira o preço no carrinho"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
+- **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.

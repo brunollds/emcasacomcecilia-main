@@ -9,8 +9,10 @@ revisao_geral_ate: "2027-01-19"
 # Dossiê Factual: Hostinger
 
 Indicação iniciada em 19/10/2026 com a página `/cupons/hostinger`. Em 19/10/2026 entraram os quatro artigos de onboarding, cada um nos 10 idiomas: [[hostinger-e-confiavel]], [[hostinger-reclame-aqui-nota-reputacao]], [[cupom-hostinger-indicacao]] e [[black-friday-hostinger]]. Não é parceria de
-marca: é o programa de indicação da Hostinger, onde o site está hospedado, com o código do Bruno
-(`SONARDEOFERTAS`) dentro do link. Fica fora do `/sobre` (decisão do Bruno, 19/10/2026).
+marca: o site está hospedado na Hostinger. Até 29/10/2026 era o programa de indicação, com o código
+`SONARDEOFERTAS` dentro do link. Em 29/10/2026 o Bruno entrou no programa de agências e a Hostinger
+passou a loja de código: **cupom `SONAR20`** (20%), digitado no carrinho ou pelo link
+`?REFERRALCODE=SONAR20`. Fica fora do `/sobre` (decisão do Bruno, 19/10/2026).
 
 ---
 
@@ -18,13 +20,15 @@ marca: é o programa de indicação da Hostinger, onde o site está hospedado, c
 
 | Fato / Condição Comercial | Tipo | Fonte Canônica | Consultado Em | Rever Até | Escopo / Regras | Confiança |
 |---|---|---|---|---|---|---|
-| Indicação por link, sem cupom para digitar ("Não precisa de cupom") | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `hostinger`, `offerMode: 'affiliate-link'`) e página de indicação da Hostinger | 2026-10-19 | 2026-11-19 | O desconto fica vinculado ao link e já aparece nos preços | Alta |
-| Link `https://www.hostinger.com/br?REFERRALCODE=SONARDEOFERTAS` | condicao_comercial_volatil | `offerUrl` em `src/lib/couponsData.ts` | 2026-10-19 | 2026-11-19 | Enviado pelo Bruno; manter exatamente como veio. Abre `hostinger.com/br/refer`. Só no PT | Alta |
-| Link global `https://www.hostinger.com/?REFERRALCODE=SONARDEOFERTAS`, nas páginas dos 9 idiomas | condicao_comercial_volatil | `offerUrl` de `hostinger` em `src/lib/couponTranslations.ts` | 2026-10-19 | 2026-11-19 | Sugerido pelo Bruno: abre `hostinger.com/refer` em inglês com as mesmas regras (20%, primeiro período, não soma), área de serviço "Worldwide", sem restrição de país ou moeda | Alta |
-| 20% no primeiro período de um plano novo, seja qual for o produto | condicao_comercial_volatil | FAQ da página de indicação; termos do programa (`hostinger.com/br/legal/referral-program-agreement`) | 2026-10-19 | 2026-11-19 | Não vale em renovação nem em compra já feita. Os termos falam em assinaturas de 12 meses ou mais: nunca escrever "qualquer plano" | Alta |
-| Renovação pelo preço padrão do plano, o que aparece abaixo do card; dá para trocar o período ou cancelar antes | condicao_comercial_volatil | FAQ da página de indicação | 2026-10-19 | 2026-11-19 | | Alta |
-| Não soma com outros cupons ("Este já é o melhor preço que podemos oferecer por este link") | condicao_comercial_volatil | FAQ da página de indicação | 2026-10-19 | 2026-11-19 | Exceção explícita à regra de que todo cupom soma com as promoções | Alta |
-| Quem indica recebe crédito, que o Bruno usa na renovação dos planos do site | condicao_comercial_volatil | Bruno, 19/10/2026; programa de indicação da Hostinger | 2026-10-19 | 2026-11-19 | Os termos do programa (percentual e prazo de liberação) não foram conferidos: o texto só diz que a compra "pode gerar crédito" | Média |
+| Cupom `SONAR20`: 20% no primeiro período, digitado no carrinho ("Tem um cupom de desconto?" no /br; "Have a coupon code?" no global) ou pelo link | condicao_comercial_volatil | `src/lib/couponsData.ts` (slug: `hostinger`, `offerMode: 'discount-code'`, desde o #352) e `couponTranslations.ts` nos 9 idiomas | 2026-10-29 | 2026-11-29 | Programa de agências (Bruno, 29/10/2026) | Alta |
+| Regra da parceria: o SONAR20 vale em todos os planos, mensais e anuais, para cliente novo ou antigo | condicao_comercial_volatil | Bruno, 29/10/2026 | 2026-10-29 | 2026-11-29 | Regra, não teste: escrever "pela regra da parceria" | Alta |
+| Teste no /br (29/10/2026): plano Startup de 48 meses R$ 1.919,52 → R$ 1.535,62; de 1 mês R$ 139,99 → R$ 111,99 | condicao_comercial_volatil | Chrome, sessão de cupons | 2026-10-29 | 2026-11-29 | Os 20% saíram do preço da Black Friday; o código valeu sozinho, sem o link. Só no PT | Alta |
+| Teste no global (29/10/2026): Startup de 48 meses US$ 383,52 → US$ 306,82 | condicao_comercial_volatil | Prints do Bruno | 2026-10-29 | 2026-11-29 | O único teste citado fora do PT | Alta |
+| Testes de 30/10/2026: e-mail profissional Premium Business (48 meses, R$ 383,52 → R$ 306,82) e Reach 500 (24 meses, R$ 215,76 → R$ 172,61) | condicao_comercial_volatil | Prints do Bruno | 2026-10-30 | 2026-11-30 | Ver [[hostinger-reach-ou-mailchimp-brevo]] | Alta |
+| Sem teste: renovação, VPS, agentes de IA, domínio e soma com outros cupons | condicao_comercial_volatil | — | 2026-10-29 | 2026-11-29 | "Não testamos a renovação; confira o preço no carrinho". Nunca dizer que soma nem "um cupom por pedido" | Alta |
+| Link PT `https://www.hostinger.com/br?REFERRALCODE=SONAR20`; global `https://www.hostinger.com/?REFERRALCODE=SONAR20` | condicao_comercial_volatil | `offerUrl` em `couponsData.ts` e `couponTranslations.ts` | 2026-10-29 | 2026-11-29 | Link profundo mantém o caminho e troca só o código; no PT, sempre com `/br` | Alta |
+| Compras pelo código ou pelo link podem gerar comissão para o Bruno | condicao_comercial_volatil | Bruno, 29/10/2026 | 2026-10-29 | 2026-11-29 | Nota: "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você." Saiu o "crédito na Hostinger" | Alta |
+| Até 29/10/2026: indicação por link `?REFERRALCODE=SONARDEOFERTAS`, sem cupom, 12 meses ou mais, cliente novo, não somava, crédito para quem indica | historico | página de indicação da Hostinger | 2026-10-19 | — | Código antigo: o `test:review-i18n` barra `SONARDEOFERTAS` em qualquer artigo | Alta |
 
 ---
 
@@ -39,14 +43,21 @@ marca: é o programa de indicação da Hostinger, onde o site está hospedado, c
 
 ## 3. Alertas Editoriais
 
-Nunca mandar digitar o `SONARDEOFERTAS`: o código vai no link, e a página não o mostra. Não chamar a
-indicação de cupom. Todo texto diz que os 20% valem só no primeiro período e não somam com outros
-cupons. Artigo só por decisão do Bruno: o tema está fora do site, e as buscas por cupom de hospedagem
-são muito disputadas.
+**Desde 29/10/2026 (SONAR20).** O SONAR20 é cupom: o texto manda colar o código no campo do carrinho ou
+entrar pelo link. Nunca citar o `SONARDEOFERTAS` nem dizer "não há código", "nada para digitar" ou
+"só no link": o `test:review-i18n` barra essas frases nos artigos da Hostinger, nos 10 idiomas (pedido
+do Redesenho, #353). Nunca dizer que soma com outros cupons nem "um cupom por pedido" (não testado).
+Nunca citar código de terceiros. Renovação sem teste: "não testamos a renovação; confira o preço no
+carrinho". Fora do PT, só o teste do site global, com o nome do campo em inglês. Artigo só por decisão
+do Bruno: as buscas por cupom de hospedagem são muito disputadas.
+
+**Até 29/10/2026 (histórico).** Era indicação por link: nunca mandar digitar o `SONARDEOFERTAS`, nem
+chamar de cupom; 20% só no primeiro período e sem somar com outros cupons.
 
 **Termos da indicação (revisão de 02/09/2026, lidos em 21/10/2026).**
 - O link "não deve ser publicado ou distribuído em sites comerciais, em blogs ou em canais/vídeos do YouTube", só nas redes sociais pessoais.
 - Decisão do Bruno (21/10/2026): seguir com a indicação enquanto pede a entrada no programa de afiliados da Hostinger. Se for aceito, o link de todos os artigos e da página da loja muda num PR próprio.
+- **29/10/2026:** aceito no programa de agências. A página da loja passou ao SONAR20 no #352 e os 110 artigos (11 famílias × 10 idiomas) no #353, num deploy só (release `7eb13d89`). Os termos da indicação acima deixam de reger o texto.
 - Os mesmos termos dão como elegíveis: hospedagem, VPS, e-mail, Reach, Criador com IA, "aplicativos de automação com IA" e "Agentes da Hostinger", sempre em assinaturas de 12 meses ou mais. O texto nunca promete o desconto em plano mensal.
 
 **Agentes de IA (21/10/2026).** São quatro briefings em 10 idiomas: [[openclaw-hostinger-gerenciado-ou-vps]], [[melhor-vps-para-openclaw]], [[openclaw-ou-hermes-agent]] e [[paperclip-ai-hostinger]].

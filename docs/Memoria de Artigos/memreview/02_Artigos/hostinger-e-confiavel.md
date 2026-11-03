@@ -296,3 +296,11 @@ Fechamento do briefing feito na sessão de artigos (Job 2 do artigo: `hostinger-
 - **Fatos só do Brasil** (preços em R$, parcelamento, Pix, empresa contratante, percentuais do banner, a frase "Código de indicação aplicado") ficaram só no PT. Fora do PT, preço é "consulte a página de preços da sua região pelo link", porque só a página brasileira foi lida.
 - **Traduções:** 8 subagentes (um por artigo e grupo de idiomas: en/es/fr/de e it/ko/ja/zh).
 - **Releitura (item 10 do Job 4), 19/10/2026, por outros agentes, um por grupo de idiomas (en+es, fr+de, it+ko, ja, zh-hant+zh-hans):** texto alternativo da capa corrigido onde descrevia outra imagem; saíram os percentuais do banner brasileiro, as frases sobre o que o card da página mostra na região do leitor e os rótulos de menu do hPanel traduzidos (os passos ficaram genéricos); "Ótima" em português trocado pela tradução; o alemão passou a usar "Sie" nas 4 versões; a frase de que a cobrança é a queixa mais citada passou a citar o Reclame Aqui como fonte em todas as versões do guia de confiança.
+
+## Atualização de 29/10/2026: cupom SONAR20
+
+- **Imagem mantida:** a linha do tempo da renovação (`hostinger-e-confiavel-linha-do-tempo-renovacao`) fala da política da própria Hostinger e ficou.
+- **No ar em 29/10/2026:** PR #353 (squash `1120ec60`), no mesmo deploy do #352 (página da loja), release `7eb13d89`; probe 40904062038 e IndexNow.
+- **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
+- **Renovação:** sem teste com o código. O texto diz "não testamos a renovação; confira o preço no carrinho"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
+- **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
