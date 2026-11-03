@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-  "imageAlt": "Cecília Mauad in due look di un haul SHEIN: camicetta chiara annodata in vita con gonna midi nera, e lungo abito nero con cut-out chiari",
-  "imageFit": "cover",
+  "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+  "imageAlt": "Cardigan sportivo nero, décolleté slingback chiare e pigiama a fiori di SHEIN, con la fascia \"Black Friday\" e il logo SHEIN",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "Negli ultimi tre anni le offerte sono iniziate prima del Black Friday e sono continuate dopo",
@@ -79,6 +79,10 @@
     },
     {
       "heading": "«Fino al 90%» non è tutto il carrello",
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+        "alt": "Cecília Mauad in due look di un haul SHEIN: camicetta chiara annodata in vita con gonna midi nera, e lungo abito nero con cut-out chiari"
+      },
       "paragraphs": [
         "La percentuale della campagna è lo sconto più alto su alcuni articoli. La maggior parte del catalogo ha sconti più bassi, e il prezzo di ogni capo cambia nel corso delle fasi. Per non cadere nel numero grande della pubblicità:"
       ],

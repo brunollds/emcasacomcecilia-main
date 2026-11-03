@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-  "imageAlt": "Cecília 在一次 SHEIN 開箱中的兩套穿搭：腰間綁結的淺色上衣搭黑色中長裙，以及帶淺色鏤空設計的黑色長洋裝",
-  "imageFit": "cover",
+  "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+  "imageAlt": "SHEIN 的黑色運動開襟衫、淺色露跟高跟鞋和碎花睡衣，配「Black Friday」橫幅和 SHEIN 標誌",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "過去三年，優惠都在黑色星期五之前開始，並在之後持續",
@@ -79,6 +79,10 @@
     },
     {
       "heading": "「最高 90%」不是整個購物車",
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+        "alt": "Cecília 在一次 SHEIN 開箱中的兩套穿搭：腰間綁結的淺色上衣搭黑色中長裙，以及帶淺色鏤空設計的黑色長洋裝"
+      },
       "paragraphs": [
         "活動宣傳的百分比，是部分商品的最高折扣。大部分商品的折扣比較小，每件商品的價格也會隨階段改變。想避免被大數字的廣告牽著走："
       ],

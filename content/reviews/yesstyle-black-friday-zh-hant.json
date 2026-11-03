@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
-  "imageAlt": "Cecília 笑著拿著從 YesStyle 收到的 Abib 產品盒，來自韓式護膚流程影片的一幕",
-  "imageFit": "cover",
+  "image": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+  "imageAlt": "Cecília 與三款 Abib 產品（PDRN 面霜、唇膜和眼膜貼），配「Black Friday」橫幅和 YesStyle 標誌",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "youtubeUrl": "https://youtu.be/agfG-x5lq1s",
   "pros": [
@@ -84,6 +84,10 @@
     },
     {
       "heading": "黑色星期五的優惠券全年都一樣",
+      "image": {
+        "src": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
+        "alt": "Cecília 笑著拿著從 YesStyle 收到的 Abib 產品盒，來自韓式護膚流程影片的一幕"
+      },
       "paragraphs": [
         "2025 年 10 月的階梯優惠券（Mid-Season Sale）與 11 月黑色星期五優惠券的門檻完全相同。這是 YesStyle 幾乎全年都在推出的折扣，每隔幾天就換一次名稱與代碼。本週的代碼請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)頁面，因為商店幾天就會更換。"
       ],

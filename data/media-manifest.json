@@ -50032,6 +50032,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/damie/black-friday-damie-capa-faixa.webp",
+      "local_url": "/images/reviews/damie/black-friday-damie-capa-faixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 65738,
+      "sha256": "57425095d7c8a7bfc6cf59c20e2cfe159b29752ff3c7e1cb433657f11cd76672",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-damie-capa-faixa.webp",
+      "storage_filename": "black-friday-damie-capa-faixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-damie.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-damie.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/damie/black-friday-damie-capa-faixa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/57425095d7c8a7bfc6cf59c20e2cfe159b29752ff3c7e1cb433657f11cd76672/black-friday-damie-capa-faixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/57425095d7c8a7bfc6cf59c20e2cfe159b29752ff3c7e1cb433657f11cd76672/black-friday-damie-capa-faixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T19:34:43.531Z",
+      "verification_etag_or_digest": "57425095d7c8a7bfc6cf59c20e2cfe159b29752ff3c7e1cb433657f11cd76672",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
       "local_url": "/images/reviews/damie/black-friday-damie-cecilia-poltrona-reclinavel.webp",
       "media_kind": "image",
@@ -52486,6 +52524,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T17:11:38.383Z",
       "verification_etag_or_digest": "6e87bf5abac8ed5c21219f679ab19a61e480298afd4f1d88c7e4db1bd225a9b7",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-faixa.webp",
+      "local_url": "/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-faixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 88944,
+      "sha256": "f09bc6c3afc1856453cdaa39f1d61349064e71a27affaad86929ec04f9ad02f3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-dolce-gusto-capa-faixa.webp",
+      "storage_filename": "black-friday-dolce-gusto-capa-faixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-dolce-gusto.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-dolce-gusto.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/black-friday-dolce-gusto-capa-faixa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/f09bc6c3afc1856453cdaa39f1d61349064e71a27affaad86929ec04f9ad02f3/black-friday-dolce-gusto-capa-faixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/f09bc6c3afc1856453cdaa39f1d61349064e71a27affaad86929ec04f9ad02f3/black-friday-dolce-gusto-capa-faixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T19:34:43.532Z",
+      "verification_etag_or_digest": "f09bc6c3afc1856453cdaa39f1d61349064e71a27affaad86929ec04f9ad02f3",
       "verification_status": "verified"
     },
     {
@@ -72204,6 +72280,44 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-faixa.webp",
+      "local_url": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-faixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53062,
+      "sha256": "4cd908eb17f43584486e48154248b943ee14ef13b75ec1cb4d7af40f18b84c71",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-i-wanna-sleep-capa-faixa.webp",
+      "storage_filename": "black-friday-i-wanna-sleep-capa-faixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-i-wanna-sleep.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-i-wanna-sleep.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-capa-faixa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4cd908eb17f43584486e48154248b943ee14ef13b75ec1cb4d7af40f18b84c71/black-friday-i-wanna-sleep-capa-faixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4cd908eb17f43584486e48154248b943ee14ef13b75ec1cb4d7af40f18b84c71/black-friday-i-wanna-sleep-capa-faixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T19:34:43.533Z",
+      "verification_etag_or_digest": "4cd908eb17f43584486e48154248b943ee14ef13b75ec1cb4d7af40f18b84c71",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
       "local_url": "/images/reviews/iwannasleep/black-friday-i-wanna-sleep-cecilia-cobertor-igloo.webp",
       "media_kind": "image",
@@ -81195,6 +81309,44 @@
       "uploaded_at": null,
       "verified_at": "2026-11-03T17:11:38.383Z",
       "verification_etag_or_digest": "58599a187c33206d87a2a369a6cc6d54aee843348b8bc7cab81a1e609c8dc08f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/mais-mu/black-friday-mais-mu-capa-faixa.webp",
+      "local_url": "/images/reviews/mais-mu/black-friday-mais-mu-capa-faixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 97530,
+      "sha256": "4992e19372691d577dcc7b838cbb99ce1d0e3980bfac354dab6d115f9a2ab3de",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-mais-mu-capa-faixa.webp",
+      "storage_filename": "black-friday-mais-mu-capa-faixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-mais-mu.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-mais-mu.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/mais-mu/black-friday-mais-mu-capa-faixa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/4992e19372691d577dcc7b838cbb99ce1d0e3980bfac354dab6d115f9a2ab3de/black-friday-mais-mu-capa-faixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4992e19372691d577dcc7b838cbb99ce1d0e3980bfac354dab6d115f9a2ab3de/black-friday-mais-mu-capa-faixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T19:34:43.533Z",
+      "verification_etag_or_digest": "4992e19372691d577dcc7b838cbb99ce1d0e3980bfac354dab6d115f9a2ab3de",
       "verification_status": "verified"
     },
     {
@@ -91678,6 +91830,116 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "a7e61512111060cd48000abc9a76213f3dfa31dfefc15c8f93c9652f2a059f03",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+      "local_url": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 132742,
+      "sha256": "cf056a041e6408589ba882a488215e44d885c81d921c14c1a75eea5a47e97d60",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-shein-capa-faixa.webp",
+      "storage_filename": "black-friday-shein-capa-faixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-shein-date-e-tasse.json",
+        "content/reviews/black-friday-shein-dates-et-taxes.json",
+        "content/reviews/black-friday-shein-fechas-impuestos.json",
+        "content/reviews/black-friday-shein.json",
+        "content/reviews/shein-black-friday-dates-taxes.json",
+        "content/reviews/shein-black-friday-ja.json",
+        "content/reviews/shein-black-friday-ko.json",
+        "content/reviews/shein-black-friday-termine-steuern.json",
+        "content/reviews/shein-black-friday-zh-hans.json",
+        "content/reviews/shein-black-friday-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-shein-date-e-tasse.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-shein-dates-et-taxes.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-shein-fechas-impuestos.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-dates-taxes.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-termine-steuern.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-black-friday-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/cf056a041e6408589ba882a488215e44d885c81d921c14c1a75eea5a47e97d60/black-friday-shein-capa-faixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/cf056a041e6408589ba882a488215e44d885c81d921c14c1a75eea5a47e97d60/black-friday-shein-capa-faixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T19:34:43.533Z",
+      "verification_etag_or_digest": "cf056a041e6408589ba882a488215e44d885c81d921c14c1a75eea5a47e97d60",
       "verification_status": "verified"
     },
     {
@@ -105208,6 +105470,116 @@
       "uploaded_at": null,
       "verified_at": "2026-09-28T18:40:28.134Z",
       "verification_etag_or_digest": "b88ecc0db2fcfe57f50fa9622bde683d07d1695a7da134b0e785b3d1016a0758",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+      "local_url": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 134096,
+      "sha256": "51f615a711b7d3153a43ce463e3bf215cf06224b29cc7f4494475059087d6f5e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-yesstyle-capa-faixa.webp",
+      "storage_filename": "black-friday-yesstyle-capa-faixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-yesstyle-date-e-coupon.json",
+        "content/reviews/black-friday-yesstyle-dates-et-coupons.json",
+        "content/reviews/black-friday-yesstyle-fechas-cupones.json",
+        "content/reviews/black-friday-yesstyle.json",
+        "content/reviews/yesstyle-black-friday-dates-coupons.json",
+        "content/reviews/yesstyle-black-friday-ja.json",
+        "content/reviews/yesstyle-black-friday-ko.json",
+        "content/reviews/yesstyle-black-friday-termine-gutscheine.json",
+        "content/reviews/yesstyle-black-friday-zh-hans.json",
+        "content/reviews/yesstyle-black-friday-zh-hant.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-yesstyle-date-e-coupon.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-yesstyle-dates-et-coupons.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-yesstyle-fechas-cupones.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/black-friday-yesstyle.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-dates-coupons.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-ja.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-ko.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-termine-gutscheine.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-zh-hans.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/yesstyle-black-friday-zh-hant.json",
+          "line": 26,
+          "column": 13,
+          "literal": "/images/reviews/yesstyle/black-friday-yesstyle-capa-faixa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/51f615a711b7d3153a43ce463e3bf215cf06224b29cc7f4494475059087d6f5e/black-friday-yesstyle-capa-faixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/51f615a711b7d3153a43ce463e3bf215cf06224b29cc7f4494475059087d6f5e/black-friday-yesstyle-capa-faixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T19:34:43.533Z",
+      "verification_etag_or_digest": "51f615a711b7d3153a43ce463e3bf215cf06224b29cc7f4494475059087d6f5e",
       "verification_status": "verified"
     },
     {

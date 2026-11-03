@@ -23,9 +23,9 @@
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-  "imageAlt": "Cecília Mauad in two looks from a SHEIN haul: a light blouse tied at the waist with a black midi skirt, and a long black dress with light cut-outs",
-  "imageFit": "cover",
+  "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+  "imageAlt": "Black sporty cardigan, light slingback pumps and floral pajamas from SHEIN, with the \"Black Friday\" banner and the SHEIN logo",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "In the last three years, the deals started before Black Friday and kept going after it",
@@ -79,6 +79,10 @@
     },
     {
       "heading": "\"Up to 90%\" is not the whole cart",
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+        "alt": "Cecília Mauad in two looks from a SHEIN haul: a light blouse tied at the waist with a black midi skirt, and a long black dress with light cut-outs"
+      },
       "paragraphs": [
         "The campaign percentage is the biggest discount on some items. Most of the catalog has smaller discounts, and the price of each item changes across the phases. To avoid falling for the big number in the ad:"
       ],
