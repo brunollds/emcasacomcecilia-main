@@ -96,6 +96,42 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-02"
   },
   {
+    "id": "dolce-gusto-black-friday-2026",
+    "affiliate": "dolce-gusto",
+    "slot": "top",
+    "href": "https://www.nescafe-dolcegusto.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Dolce Gusto: ofertas novas todos os dias",
+        "text": "Campanha da própria Dolce Gusto. As ofertas mudam sem aviso e as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Home de nescafe-dolcegusto.com.br (\"Começou a Black\") e artigo black-friday-dolce-gusto, revisado com a campanha (03/11/2026)",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "dolce-gusto-maquinas-30-capsulas",
+    "affiliate": "dolce-gusto",
+    "slot": "mid",
+    "href": "https://www.nescafe-dolcegusto.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Mini Me 2.0 e Genio S com 30 cápsulas na Black Friday",
+        "text": "Campanha da própria Dolce Gusto, com 10 vezes sem juros. As condições aparecem no site da loja.",
+        "action": "Ver as máquinas"
+      }
+    },
+    "source": "Banners da Black Friday em nescafe-dolcegusto.com.br e artigo black-friday-dolce-gusto (03/11/2026)",
+    "verifiedAt": "2026-11-03"
+  },
+  {
     "id": "hostinger-black-friday-2026",
     "affiliate": "hostinger",
     "slot": "top",
