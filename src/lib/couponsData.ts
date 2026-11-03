@@ -212,6 +212,11 @@ const STORE_COUPONS: Coupon[] = [
           'Não. O cupom aplica desconto no valor dos produtos. O frete é calculado separadamente pela loja conforme CEP, produto e política de entrega.',
       },
       {
+        question: 'O que fazer se o cupom CECILIA12 não funcionar?',
+        answer:
+          'Confira se não há outro cupom no carrinho nem o giftback de 15%: o CECILIA12 não soma com eles. O código vai no campo de cupom do site oficial da DAMIE, sem espaços; ele não vale no app do colchão nem no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
         question: 'A Cecília testou produtos da DAMIE?',
         answer:
           'Sim. Há reviews e vídeos de produtos DAMIE usados pela Cecília em casa, incluindo poltronas e sofá modular. A página de cupom também aponta para esses conteúdos relacionados.',
@@ -955,6 +960,11 @@ const STORE_COUPONS: Coupon[] = [
           'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja oficial.',
       },
       {
+        question: 'O que fazer se o cupom MAUAD não funcionar?',
+        answer:
+          "Confira se não há outro cupom no pedido e se o código foi digitado sem espaços no campo de cupom do site letseatit.com.br; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.",
+      },
+      {
         question: 'O cupom MAUAD é cumulativo?',
         answer:
           'O MAUAD soma com o desconto do Pix e, no teste de 02/10/2026, foi aceito em produto que já estava com preço promocional e em item de pré-venda. A soma com outros cupons segue as regras da loja; o valor final do checkout é a referência.',
@@ -1558,6 +1568,11 @@ const STORE_COUPONS: Coupon[] = [
           'Em 13/10/2026, o carrinho avisava frete grátis quando o total, já com o cupom aplicado, chega a R$ 149,90. Abaixo disso, o frete é calculado pela loja.',
       },
       {
+        question: 'O que fazer se o cupom DREMCASACOMCECILIA não funcionar?',
+        answer:
+          'Confira se o código foi digitado sem espaços no campo de cupom do site oficial da Dr. Peanut. Ele vale em todos os produtos e soma com as promoções; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
@@ -1641,6 +1656,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'O cupom dá frete grátis?',
         answer:
           'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIA10 não funcionar?',
+        answer:
+          'Confira se o código foi digitado sem espaços no campo de cupom do site oficial ou do app Black Skull USA. Ele vale em todos os produtos e soma com as promoções; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -1803,6 +1823,11 @@ const STORE_COUPONS: Coupon[] = [
           'Em 14/10/2026, o site anunciava frete grátis acima de R$ 599. Abaixo disso, o frete é calculado pela loja no checkout.',
       },
       {
+        question: 'O que fazer se o cupom CSEMCASACOMCECILIA não funcionar?',
+        answer:
+          'Confira se o código foi digitado sem espaços no campo de cupom do site oficial da Cléa Store. Ele vale em todos os produtos e soma com as promoções e com o cashback da loja; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
         answer:
           'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
@@ -1903,6 +1928,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'A Belive tem frete grátis?',
         answer:
           'Sim, com valor mínimo por região. Em 16/10/2026, as regras de frete da loja davam frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout.',
+      },
+      {
+        question: 'O que fazer se o cupom MAUAD não funcionar?',
+        answer:
+          'Confira se o código foi colado no campo "Código do cupom" do carrinho, sem espaços, e se você clicou em "Aplicar cupom". Ele vale em todos os produtos do site oficial belivebefree.com.br; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -2342,6 +2372,11 @@ const STORE_COUPONS: Coupon[] = [
         question: 'Quanto custa o frete da Toda Up?',
         answer:
           'O frete é calculado pelo CEP no checkout, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento. O valor aparece no checkout antes de pagar.',
+      },
+      {
+        question: 'O que fazer se o cupom MAUAD não funcionar?',
+        answer:
+          'Pelo botão desta página, o MAUAD já entra aplicado; se ele não aparecer no resumo do pedido, cole o código no campo de cupom do checkout, sem espaços. Ele vale em todo o site oficial todaup.com, inclusive nos produtos em promoção. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Posso trocar ou devolver a compra feita com o cupom?',
