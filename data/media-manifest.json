@@ -98404,6 +98404,696 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/simple-organic/black-friday-simple-organic-capa.webp",
+      "local_url": "/images/reviews/simple-organic/black-friday-simple-organic-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 55000,
+      "sha256": "4a0231b998e0f0977a01ec5b6dafbbc1501ab3b381f10d32777a8b14b6afbbd3",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "black-friday-simple-organic-capa.webp",
+      "storage_filename": "black-friday-simple-organic-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-simple-organic.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-simple-organic.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-simple-organic.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/black-friday-simple-organic-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/black-friday-simple-organic.md",
+          "line": 239,
+          "column": 10,
+          "literal": "/images/reviews/simple-organic/black-friday-simple-organic-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178551,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/black-friday-simple-organic-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4a0231b998e0f0977a01ec5b6dafbbc1501ab3b381f10d32777a8b14b6afbbd3/black-friday-simple-organic-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4a0231b998e0f0977a01ec5b6dafbbc1501ab3b381f10d32777a8b14b6afbbd3/black-friday-simple-organic-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.183Z",
+      "verification_etag_or_digest": "4a0231b998e0f0977a01ec5b6dafbbc1501ab3b381f10d32777a8b14b6afbbd3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
+      "local_url": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 13610,
+      "sha256": "2a0d4ba875d47607b15d80512c9b7ab92713739bd945ac163193b8c386d88f08",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "body-splash-blossom-kiss.webp",
+      "storage_filename": "body-splash-blossom-kiss.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-simple-organic.json",
+        "content/reviews/cupom-simple-organic-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-simple-organic.json",
+          "line": 143,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/cupom-simple-organic-como-usar.json",
+          "line": 173,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178475,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178672,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2a0d4ba875d47607b15d80512c9b7ab92713739bd945ac163193b8c386d88f08/body-splash-blossom-kiss.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2a0d4ba875d47607b15d80512c9b7ab92713739bd945ac163193b8c386d88f08/body-splash-blossom-kiss.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "2a0d4ba875d47607b15d80512c9b7ab92713739bd945ac163193b8c386d88f08",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/cupom-simple-organic-capa.webp",
+      "local_url": "/images/reviews/simple-organic/cupom-simple-organic-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37104,
+      "sha256": "245ad823eb4374e114c407779912ab655a99fc4ac6dacc847271a32c4524847f",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "cupom-simple-organic-capa.webp",
+      "storage_filename": "cupom-simple-organic-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-simple-organic-como-usar.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/cupom-simple-organic-como-usar.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-simple-organic-como-usar.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/cupom-simple-organic-como-usar.md",
+          "line": 246,
+          "column": 10,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178324,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/cupom-simple-organic-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/245ad823eb4374e114c407779912ab655a99fc4ac6dacc847271a32c4524847f/cupom-simple-organic-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/245ad823eb4374e114c407779912ab655a99fc4ac6dacc847271a32c4524847f/cupom-simple-organic-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "245ad823eb4374e114c407779912ab655a99fc4ac6dacc847271a32c4524847f",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/duo-limpeza-regeneracao.webp",
+      "local_url": "/images/reviews/simple-organic/duo-limpeza-regeneracao.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 31396,
+      "sha256": "34513602f8c435a19b313809e8918d3cbdbf4cb07af1fddd3c9aad2bdf973b35",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "duo-limpeza-regeneracao.webp",
+      "storage_filename": "duo-limpeza-regeneracao.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-simple-organic-como-usar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-simple-organic-como-usar.json",
+          "line": 124,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/duo-limpeza-regeneracao.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178426,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/duo-limpeza-regeneracao.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/34513602f8c435a19b313809e8918d3cbdbf4cb07af1fddd3c9aad2bdf973b35/duo-limpeza-regeneracao.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/34513602f8c435a19b313809e8918d3cbdbf4cb07af1fddd3c9aad2bdf973b35/duo-limpeza-regeneracao.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "34513602f8c435a19b313809e8918d3cbdbf4cb07af1fddd3c9aad2bdf973b35",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+      "local_url": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 18406,
+      "sha256": "4d84b767ba3c12773901cf5729ccc31b60a09d73f6e6cd28bfbb23c3515eda1d",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "gel-de-limpeza-suave.webp",
+      "storage_filename": "gel-de-limpeza-suave.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/cupom-simple-organic-como-usar.json",
+        "content/reviews/simple-organic-e-confiavel.json",
+        "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/cupom-simple-organic-como-usar.json",
+          "line": 56,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/simple-organic-e-confiavel.json",
+          "line": 183,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+          "line": 178,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 177952,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178219,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178358,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4d84b767ba3c12773901cf5729ccc31b60a09d73f6e6cd28bfbb23c3515eda1d/gel-de-limpeza-suave.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4d84b767ba3c12773901cf5729ccc31b60a09d73f6e6cd28bfbb23c3515eda1d/gel-de-limpeza-suave.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "4d84b767ba3c12773901cf5729ccc31b60a09d73f6e6cd28bfbb23c3515eda1d",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
+      "local_url": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 20046,
+      "sha256": "32cda69edb853aa92f063c96cf3e5625998f19f2a7e835fe24f8b8cb54688132",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hidratante-facial-super-glow.webp",
+      "storage_filename": "hidratante-facial-super-glow.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-confiavel.json",
+        "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-confiavel.json",
+          "line": 206,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+          "line": 195,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 177975,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178236,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/32cda69edb853aa92f063c96cf3e5625998f19f2a7e835fe24f8b8cb54688132/hidratante-facial-super-glow.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/32cda69edb853aa92f063c96cf3e5625998f19f2a7e835fe24f8b8cb54688132/hidratante-facial-super-glow.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "32cda69edb853aa92f063c96cf3e5625998f19f2a7e835fe24f8b8cb54688132",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/primer-blur-effect.webp",
+      "local_url": "/images/reviews/simple-organic/primer-blur-effect.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 15268,
+      "sha256": "e1355522b7b7b0e7d0ee2a3b8c23713113c29bed1ef0dc17eba710a0a54aeb47",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "primer-blur-effect.webp",
+      "storage_filename": "primer-blur-effect.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-simple-organic.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-simple-organic.json",
+          "line": 107,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/primer-blur-effect.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178636,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/primer-blur-effect.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/e1355522b7b7b0e7d0ee2a3b8c23713113c29bed1ef0dc17eba710a0a54aeb47/primer-blur-effect.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/e1355522b7b7b0e7d0ee2a3b8c23713113c29bed1ef0dc17eba710a0a54aeb47/primer-blur-effect.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "e1355522b7b7b0e7d0ee2a3b8c23713113c29bed1ef0dc17eba710a0a54aeb47",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/rotina-pele-sensivel.webp",
+      "local_url": "/images/reviews/simple-organic/rotina-pele-sensivel.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 33156,
+      "sha256": "7f7991fdeb90c90b708cd0ef27c925f242e73fed0866ff096d87b64897af08cf",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "rotina-pele-sensivel.webp",
+      "storage_filename": "rotina-pele-sensivel.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/black-friday-simple-organic.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/black-friday-simple-organic.json",
+          "line": 125,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/rotina-pele-sensivel.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178654,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/rotina-pele-sensivel.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7f7991fdeb90c90b708cd0ef27c925f242e73fed0866ff096d87b64897af08cf/rotina-pele-sensivel.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f7991fdeb90c90b708cd0ef27c925f242e73fed0866ff096d87b64897af08cf/rotina-pele-sensivel.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "7f7991fdeb90c90b708cd0ef27c925f242e73fed0866ff096d87b64897af08cf",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45032,
+      "sha256": "46cd5e10dc729d309d1971403e0acabffccdb77cef1aaf1285297ab4e5c5c637",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-e-confiavel-capa.webp",
+      "storage_filename": "simple-organic-e-confiavel-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-confiavel.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-e-confiavel.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-confiavel.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-e-confiavel.md",
+          "line": 288,
+          "column": 10,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 177791,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/46cd5e10dc729d309d1971403e0acabffccdb77cef1aaf1285297ab4e5c5c637/simple-organic-e-confiavel-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/46cd5e10dc729d309d1971403e0acabffccdb77cef1aaf1285297ab4e5c5c637/simple-organic-e-confiavel-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "46cd5e10dc729d309d1971403e0acabffccdb77cef1aaf1285297ab4e5c5c637",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-logo.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-logo.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 7702,
+      "sha256": "a400d5245b08fac2afd82c7e0c11489c4c3e60786c5ce3a8388b1c88ce4ffd27",
+      "width": 1200,
+      "height": 675,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-logo.webp",
+      "storage_filename": "simple-organic-logo.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-confiavel.json",
+          "line": 85,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-logo.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 177854,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-logo.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a400d5245b08fac2afd82c7e0c11489c4c3e60786c5ce3a8388b1c88ce4ffd27/simple-organic-logo.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a400d5245b08fac2afd82c7e0c11489c4c3e60786c5ce3a8388b1c88ce4ffd27/simple-organic-logo.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "a400d5245b08fac2afd82c7e0c11489c4c3e60786c5ce3a8388b1c88ce4ffd27",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29348,
+      "sha256": "d8cac03011a741e2c0bd6b4c1de55b5784b9ce22e9dfde95ca54dd6c0a47900e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-reclame-aqui-capa.webp",
+      "storage_filename": "simple-organic-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-reclame-aqui-nota-reputacao.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/simple-organic-reclame-aqui-nota-reputacao.md",
+          "line": 249,
+          "column": 10,
+          "literal": "/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178063,
+          "column": 15,
+          "literal": "/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d8cac03011a741e2c0bd6b4c1de55b5784b9ce22e9dfde95ca54dd6c0a47900e/simple-organic-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d8cac03011a741e2c0bd6b4c1de55b5784b9ce22e9dfde95ca54dd6c0a47900e/simple-organic-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "d8cac03011a741e2c0bd6b4c1de55b5784b9ce22e9dfde95ca54dd6c0a47900e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-site-oficial-home.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-site-oficial-home.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74600,
+      "sha256": "baf3b28c68e373e708650f361897253716aa931e29b9e3856419ccc88b50da58",
+      "width": 1600,
+      "height": 582,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-site-oficial-home.webp",
+      "storage_filename": "simple-organic-site-oficial-home.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-e-confiavel.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-e-confiavel.json",
+          "line": 102,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-site-oficial-home.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 177871,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-site-oficial-home.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/baf3b28c68e373e708650f361897253716aa931e29b9e3856419ccc88b50da58/simple-organic-site-oficial-home.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/baf3b28c68e373e708650f361897253716aa931e29b9e3856419ccc88b50da58/simple-organic-site-oficial-home.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "baf3b28c68e373e708650f361897253716aa931e29b9e3856419ccc88b50da58",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/simple-organic/simple-organic-ultra-serum-retinol-campanha.webp",
+      "local_url": "/images/reviews/simple-organic/simple-organic-ultra-serum-retinol-campanha.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 46626,
+      "sha256": "ae912332451b7ff27e65f29ed52d647267e3af87e0a98355832f5bde3031d0fc",
+      "width": 900,
+      "height": 1039,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "simple-organic-ultra-serum-retinol-campanha.webp",
+      "storage_filename": "simple-organic-ultra-serum-retinol-campanha.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/simple-organic-reclame-aqui-nota-reputacao.json",
+          "line": 153,
+          "column": 19,
+          "literal": "/images/reviews/simple-organic/simple-organic-ultra-serum-retinol-campanha.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 178194,
+          "column": 21,
+          "literal": "/images/reviews/simple-organic/simple-organic-ultra-serum-retinol-campanha.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ae912332451b7ff27e65f29ed52d647267e3af87e0a98355832f5bde3031d0fc/simple-organic-ultra-serum-retinol-campanha.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ae912332451b7ff27e65f29ed52d647267e3af87e0a98355832f5bde3031d0fc/simple-organic-ultra-serum-retinol-campanha.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-03T21:10:51.184Z",
+      "verification_etag_or_digest": "ae912332451b7ff27e65f29ed52d647267e3af87e0a98355832f5bde3031d0fc",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/autobronzeador-agua-dark.webp",
       "local_url": "/images/reviews/skelt/autobronzeador-agua-dark.webp",
       "media_kind": "image",

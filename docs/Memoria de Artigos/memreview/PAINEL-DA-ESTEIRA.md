@@ -55,6 +55,10 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
+- [ ] [[simple-organic-e-confiavel]]: Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas (PT, id 780; onboarding da Simple Organic, Fable 5.1 no Job 2; squash sem deploy)
+- [ ] [[simple-organic-reclame-aqui-nota-reputacao]]: Simple Organic no Reclame Aqui: RA1000 nos 6 meses, as 5 abas e do que as pessoas reclamam (PT, id 781; onboarding da Simple Organic, Fable 5.1 no Job 2; squash sem deploy)
+- [ ] [[cupom-simple-organic-como-usar]]: Como usar o cupom S-EMCASACOMCECILIA: passo a passo e onde ele valeu no teste (PT, id 782; onboarding da Simple Organic, Fable 5.1 no Job 2; squash sem deploy)
+- [ ] [[black-friday-simple-organic]]: Black Friday Simple Organic: a Clean Friday (até 30/11) com preços de 9 produtos e o cupom (PT, id 783; onboarding da Simple Organic, Fable 5.1 no Job 2; squash sem deploy)
 
 ---
 
