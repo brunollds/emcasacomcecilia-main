@@ -1,5 +1,7 @@
 # Série "Insider ou X" (planejamento, 02/11/2026)
 
+> **Estoque (Bruno, 02/11/2026):** a série espera; a vez é da linha "<Marca> é boa? Vale a pena?".
+
 Decisão do Bruno (02/11/2026): a comparação que sai da reforma do `insider-vale-a-pena` vira uma série própria, um artigo por concorrente, por linha e por gênero (camiseta masculina, camiseta feminina, cueca, regata, camisa...). Uma comparação de seis marcas e várias linhas não cabe num artigo só. Esta página é o plano; os briefings saem depois da reforma.
 
 ## Base
