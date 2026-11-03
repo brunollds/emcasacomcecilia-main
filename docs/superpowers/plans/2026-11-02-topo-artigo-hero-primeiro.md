@@ -85,3 +85,9 @@ Fase 2, a trava e a documentação:
 `npm run typecheck`, `npm run lint`, `npm run test:article-d2`, `npm run build` e `npm run test:build-output`;
 conferência visual em 390 px e 1440 px de um artigo paisagem (`wordpress-na-hostinger`), um retrato, um editorial
 e um com vídeo; um idioma CJK.
+
+## Ajustes depois da conferência no Chrome (02/11)
+
+A pedido do Bruno: subtítulo em 13px no celular (no lugar de 16px; 10px ficaria abaixo do mínimo de 12px do
+Lighthouse) e os dois botões compactos com 44px no celular e a letra 10% menor (15px e 14px). A regra da capa
+larga virou `isHeroFirst` (`heroOrder.ts`), lida pelo `ArticleHeader` e pelo `test:build-output`.
