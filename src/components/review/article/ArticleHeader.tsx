@@ -14,6 +14,7 @@ import { ReviewHeroImage } from '../ReviewHeroImage';
 import { getDisclosureLabel, type ArticleCopy, type TemplateUi } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
 import { ArticleCouponCutout } from './ArticleCouponCutout';
+import { isHeroFirst } from './heroOrder';
 
 const CECILIA: Pick<PersonRef, 'name' | 'url'> = { name: 'Cecília Mauad', url: '/sobre' };
 
@@ -54,9 +55,8 @@ export function ArticleHeader({
   // A nota do veredito, como na sidebar; só em análise de produto.
   const rawStars = kind === 'produto' ? review.verdict?.stars ?? review.rating : undefined;
   const stars = typeof rawStars === 'number' ? rawStars.toFixed(1) : undefined;
-  // A capa larga (a do Discover, 16:9) abre o artigo logo abaixo da trilha, com a largura do texto: o título segue
-  // na primeira tela. Retrato, quadrado e editorial sem imageAspect ficam no fim do topo, senão o título desceria.
-  const heroFirst = (review.video?.aspect ?? review.imageAspect) === 'landscape';
+  // A capa larga vem logo abaixo da trilha, com a largura do texto: o título segue na primeira tela.
+  const heroFirst = isHeroFirst(review);
   const hero = (
     <figure className={heroFirst ? 'mt-4 max-w-3xl' : 'mt-8'}>
       <ReviewHeroImage

@@ -19,6 +19,7 @@ import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
+import { isHeroFirst } from '../src/components/review/article/heroOrder';
 import { getArticleStoreBlock, type ArticleStoreBlock } from '../src/lib/articleStore';
 import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
@@ -1025,7 +1026,8 @@ function drawerStoreLinkProblems(dialog: string): string[] {
   assert.equal(drawerStoreLinkProblems(drawer('')).length, 1, 'gaveta sem o link da loja passou');
 }
 
-// O topo do artigo (data-article="topo": trilha, título, dados, idiomas, histórico, recorte e foto) e o corpo
+// O topo do artigo (data-article="topo": trilha, foto da capa larga, título, dados, idiomas, histórico, recorte e,
+// quando a capa não é larga, a foto no fim) e o corpo
 // (data-article="corpo": ficha, seções, linha do tempo, FAQ e veredito em texto) no visual da D2: nenhuma cor antiga,
 // nem em classe nem em estilo. O fundo do artigo é branco, sem o caderno nem os pontos.
 const OLD_ARTICLE_COLORS = /#(?:1a4d2e|ff6b35|0f1d3a|faf8f3)\b/gi;
@@ -1079,6 +1081,38 @@ function articleBodyProblems(body: string): string[] {
   assert.notDeepEqual(articleBodyProblems(ok.replace('<h1>T</h1>', '')), [], 'topo sem título passou');
   assert.notDeepEqual(articleBodyProblems(ok.replace('<h2>A</h2>', '<h2>A</h2><p><span class="coupon-highlight ">X1</span></p>')), [], 'destaque das receitas no corpo passou');
   assert.deepEqual(articleBodyProblems(ok.replace('<h2>A</h2>', '<h2>A</h2><p><span class="marca-codigo">X1</span></p>')), [], 'marca-codigo barrado');
+}
+
+// A ordem do topo: a capa larga (isHeroFirst) vem antes do título, para abrir o artigo; a foto que não é larga vem
+// depois do título e do recorte, senão o título desceria para a segunda tela do celular.
+function heroOrderProblems(body: string, heroFirst: boolean): string[] {
+  const start = body.search(/<[a-zA-Z][\w-]*\s[^>]*\bdata-article="topo"/);
+  if (start < 0) return ['sem o topo'];
+  const topo = elementAt(body, start);
+  const figure = topo.search(/<figure\b/);
+  const title = topo.search(/<h1\b/);
+  const cutout = topo.search(/\sid="cupom-artigo"/);
+  if (figure < 0 || title < 0) return ['topo sem a foto ou sem o título'];
+  if (heroFirst) return figure < title ? [] : ['capa larga depois do título'];
+  const problems: string[] = [];
+  if (figure < title) problems.push('foto que não é larga antes do título');
+  if (cutout >= 0 && figure < cutout) problems.push('foto que não é larga antes do recorte');
+  return problems;
+}
+{
+  const topo = (inner: string) => `<main><header data-article="topo">${inner}</header></main>`;
+  const first = topo('<nav></nav><figure></figure><h1>T</h1><section id="cupom-artigo"></section>');
+  const last = topo('<nav></nav><h1>T</h1><section id="cupom-artigo"></section><figure></figure>');
+  assert.deepEqual(heroOrderProblems(first, true), []);
+  assert.deepEqual(heroOrderProblems(last, false), []);
+  assert.notDeepEqual(heroOrderProblems(last, true), [], 'capa larga no fim do topo passou');
+  assert.notDeepEqual(heroOrderProblems(first, false), [], 'foto que não é larga antes do título passou');
+  assert.notDeepEqual(
+    heroOrderProblems(topo('<h1>T</h1><figure></figure><section id="cupom-artigo"></section>'), false),
+    [],
+    'foto que não é larga antes do recorte passou'
+  );
+  assert.deepEqual(heroOrderProblems(topo('<h1>T</h1><figure></figure>'), false), [], 'artigo sem loja, foto depois do título, barrado');
 }
 
 // O código da loja do artigo citado no texto do corpo copia ao toque: um <span data-copy-code> com o botão de
@@ -1377,6 +1411,7 @@ let faqArticles = 0;
 let decisionArticles = 0;
 let bannerArticles = 0;
 let cutoutArticles = 0;
+let heroFirstArticles = 0;
 let cutoutStoreLinks = 0;
 let codeHighlightArticles = 0;
 let sidebarCutoutArticles = 0;
@@ -1429,6 +1464,9 @@ for (const url of articleUrls) {
 
   const review = reviewByPathname.get(pagePath);
   assert.ok(review, `${pagePath}: artigo do sitemap sem review publicada`);
+  const heroFirst = isHeroFirst(review);
+  assert.deepEqual(heroOrderProblems(body, heroFirst), [], `${pagePath}: ordem da foto no topo`);
+  if (heroFirst) heroFirstArticles++;
 
   const ids = new Set([...body.matchAll(/\sid="([^"]+)"/g)].map(([, id]) => id));
   const targets = [...dialog.matchAll(/href="#([^"]+)"/g)].map(([, id]) => id);
@@ -3814,5 +3852,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, a capa larga antes do título em ${heroFirstArticles}, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );
