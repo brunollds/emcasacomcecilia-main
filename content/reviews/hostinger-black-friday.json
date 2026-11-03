@@ -3,8 +3,8 @@
   "slug": "hostinger-black-friday",
   "locale": "en",
   "translationKey": "hostinger-black-friday",
-  "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price",
-  "seoTitle": "Hostinger Black Friday 2026: SONAR20 on top of the campaign",
+  "title": "Hostinger Black Friday 2026: it has started, runs to Dec 14, and SONAR20 takes another 20% off",
+  "seoTitle": "Hostinger Black Friday 2026: runs to Dec 14 + SONAR20",
   "type": "Black Friday Guide",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -30,10 +30,11 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger's Black Friday runs from October 19 to December 14, 2026. The SONAR20 coupon takes another 20% off the campaign price. See the renewal price and how to check before you pay.",
-  "metaDescription": "Hostinger Black Friday 2026: campaign from October 19 to December 14, and the SONAR20 coupon takes another 20% off its price. Renewal and how to check.",
+  "description": "Hostinger's Black Friday has already started and runs from October 19 to December 14, 2026. The SONAR20 coupon takes another 20% off the campaign price. See the renewal price and how to check before you pay.",
+  "metaDescription": "Hostinger Black Friday 2026 has started and runs until December 14. The SONAR20 coupon takes another 20% off the campaign price. Renewal and how to check.",
   "publishedAt": "October 19, 2026",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-03",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -45,14 +46,14 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, Hostinger's Black Friday has already started and runs until December 14, 2026. The campaign price applies automatically, and the code **SONAR20**, entered in the cart's coupon field, takes another 20% off it. What changes the math is the renewal, explained below."
+        "Hostinger's Black Friday has already started: it runs from October 19 to December 14, 2026. The campaign price applies automatically, and the code **SONAR20**, entered in the cart's coupon field, takes another 20% off it. What changes the math is the renewal, explained below."
       ]
     },
     {
       "heading": "Has Hostinger's Black Friday started?",
       "paragraphs": [
         "It has. Hostinger's official FAQ says: “Hostinger's Black Friday sale runs from October 19 to December 14, 2026.” The global page in English gives the same date.",
-        "The banner on the web hosting page says “Up to 82% off.” That is the banner's ceiling, not the discount on every plan: on the 48-month Single plan the discount is 80%. The VPS banner says “Up to 70% off,” and VPS is left out of the math in this article, as explained further down.",
+        "On November 3, the campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach (email marketing). Those are the banner figures, not the discount on every plan. VPS is left out of the math in this article, as explained further down.",
         "The numbers below are for the 2026 campaign only, read from the official page."
       ],
       "images": []
@@ -69,7 +70,7 @@
       "paragraphs": [
         "If you need your site online this week, don't wait. On the 48-month plans we checked, the campaign with SONAR20 is already the lowest price.",
         "If you can wait, keep in mind that the campaign runs until mid-December, but no price is guaranteed until then. The 20% from SONAR20 comes off the campaign price: if the campaign changes, the total changes with it.",
-        "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner says up to 70%, and the math in this article does not cover that plan.",
+        "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner shows 67% on November 3, and the math in this article does not cover that plan.",
         "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan. Bruno, who runs this site, has been a Hostinger customer since 2024, with more than 24 months of subscription. His plans are Business hosting, VPS KVM 2, email and domains, all with automatic renewal. Em Casa com Cecília runs on Hostinger."
       ]
     },
@@ -88,6 +89,7 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
+        "When does Hostinger's Black Friday start and how long does it last? It has already started and runs until mid-December; the exact dates are in the quick answer at the top. The campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach.",
         "Does Hostinger's Black Friday have a coupon? The campaign price applies automatically, and the code SONAR20, entered in the cart's coupon field, takes another 20% off it. We don't mention codes from other sites.",
         "When does Hostinger's Black Friday end? In mid-December, according to the official FAQ; the exact date is at the start of the article.",
         "Does the Black Friday price carry over to renewal? No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",

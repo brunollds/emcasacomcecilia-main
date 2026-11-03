@@ -57339,8 +57339,8 @@ export const reviewsData: unknown[] = [
     "bodyDatesReason": "campanha",
     "locale": "pt",
     "translationKey": "yesstyle-black-friday",
-    "title": "Black Friday YesStyle 2026: quando começa, como funcionam os cupons e onde entra o código CECILIA010",
-    "seoTitle": "Black Friday YesStyle 2026: datas, cupons e CECILIA010",
+    "title": "Black Friday YesStyle 2026: já começou? Cupons da semana, datas e onde entra o CECILIA010",
+    "seoTitle": "Black Friday YesStyle 2026: já começou? Cupons e CECILIA010",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -57351,10 +57351,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando começa a Black Friday da YesStyle, o calendário de 2024 e 2025 tirado das páginas oficiais, por que o cupom de faixa é o mesmo do ano todo, os dias de 15% sem valor mínimo e como somar o código de recompensa CECILIA010.",
-    "metaDescription": "Black Friday YesStyle 2026: o calendário de 2024 e 2025, as faixas do cupom, os dias de 15% sem valor mínimo e como somar o código de recompensa CECILIA010.",
+    "description": "A Black Friday da YesStyle já está no ar: o que a loja mostra em 3 de novembro, o cupom de faixa da semana, o calendário de 2024 e 2025, os dias de 15% sem valor mínimo, como somar o código de recompensa CECILIA010 e por que a loja não entrega no Brasil.",
+    "metaDescription": "A Black Friday da YesStyle 2026 já começou: Mega Sale, cupom de 8% a 15% por faixa, os dias de 15% sem mínimo e como somar o CECILIA010. Sem entrega no Brasil.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/yesstyle/black-friday-yesstyle-cecilia.webp",
@@ -57369,22 +57370,22 @@ export const reviewsData: unknown[] = [
       "A YesStyle devolve os impostos de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja"
     ],
     "cons": [
-      "As datas de 2026 ainda não saíram: por enquanto, o calendário é uma estimativa pelo histórico",
+      "As datas de fim e os dias de 15% sem valor mínimo de 2026 ainda não saíram: o que vem depois é estimativa pelo histórico",
       "O cupom de faixa da Black Friday é o mesmo do resto do ano",
       "Os cupons são só para membros, valem um por pedido e não descontam o frete",
-      "Compra internacional: o prazo de entrega é maior que o de uma loja daqui"
+      "A YesStyle não entrega no Brasil desde 28 de outubro"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle ainda não anunciou a Black Friday de 2026, mas em 2024 e 2025 os cupons com esse nome começaram no início de novembro e foram até a Cyber Monday. O cupom de faixa é o mesmo do ano todo, e o CECILIA010 soma com ele. O que muda a decisão são os dias de 15% sem mínimo; veja abaixo."
+          "A Black Friday da YesStyle já está no ar: a home tem a Mega Sale, com ofertas por produto e banners de até 50% off, e o cupom de faixa da semana dá 8%, 10% ou 15%. O CECILIA010 soma com ele, no Reward Code. Mas, hoje, a loja não entrega no Brasil."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da YesStyle",
         "paragraphs": [
-          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. A de 2026 ainda não saiu."
+          "A YesStyle publica as regras de cada cupom na central de ajuda do site, com dia e hora de início e de fim. A tabela abaixo traz as datas de 2025; em 2024, as fases seguiram a mesma ordem e começaram um ou dois dias depois. Em 2026, a campanha já começou: a home da loja traz a \"Black Friday Mega Sale\", com ofertas por produto e banners de até 50% off, e o cupom de faixa da semana (8% acima de US$ 79, 10% acima de US$ 149 e 15% acima de US$ 199), que a loja troca a cada poucos dias. O frete padrão é grátis acima de US$ 35. As datas de fim e dos dias de 15% sem mínimo de 2026 ainda não saíram."
         ],
         "comparisonTable": {
           "caption": "Cupons abertos a todos os membros em 2025, pelas páginas de ajuda da YesStyle; cada fase vai até o início da seguinte. Datas no horário GMT, que é o que vale para a loja.",
@@ -57412,14 +57413,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Em 2026, a Black Friday cai em 27 de novembro e a Cyber Monday em 30 de novembro. Se a YesStyle repetir o padrão, o nome Black Friday deve aparecer nos cupons no começo de novembro, e os dias de 15% sem valor mínimo devem ficar perto dessas duas datas. É uma estimativa pelo histórico: a loja pode mudar tudo, e este guia é atualizado quando as páginas de 2026 saírem.",
+          "Em 2026, a Black Friday cai em 27 de novembro e a Cyber Monday em 30 de novembro. Se a YesStyle repetir o padrão, os dias de 15% sem valor mínimo devem ficar perto dessas duas datas. É uma estimativa pelo histórico: a loja pode mudar tudo, e este guia é atualizado quando as páginas de 2026 saírem.",
           "Os cupons trocam num horário fixo em GMT. Em 2025, os cupons de faixa trocaram às 2h GMT, que são 23h do dia anterior em Brasília, e o de 15% sem mínimo começou às 8h GMT, 5h da manhã em Brasília."
         ]
       },
       {
         "heading": "O cupom da Black Friday é o mesmo do ano todo",
         "paragraphs": [
-          "O cupom de faixa de outubro de 2025 (Mid-Season Sale) tinha exatamente as mesmas faixas do cupom da Black Friday de novembro. É o desconto que a YesStyle roda quase o ano inteiro, trocando o nome e o código a cada poucos dias. Os cupons vigentes ficam em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
+          "O cupom de faixa de outubro de 2025 (Mid-Season Sale) tinha exatamente as mesmas faixas do cupom da Black Friday de novembro. É o desconto que a YesStyle roda quase o ano inteiro, trocando o nome e o código a cada poucos dias. O código da semana fica na página de [cupons YesStyle e código de recompensa](/cupons/yesstyle), porque a loja o troca em poucos dias."
         ],
         "comparisonTable": {
           "caption": "Faixas do cupom de faixa da YesStyle em 2024 e 2025, iguais fora e dentro da Black Friday. O desconto vale sobre o preço dos produtos.",
@@ -57520,9 +57521,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Entrega no Brasil e impostos",
+        "heading": "Entrega no Brasil: a YesStyle parou",
         "paragraphs": [
-          "O frete e o prazo aparecem no checkout, e o cupom não desconta o frete. Se o pacote for taxado na chegada, a YesStyle reembolsa os impostos e as taxas de alfândega em pedidos abaixo de US$ 1.000, em crédito na loja. O que a loja publica para o Brasil e para Portugal, e como pedir o reembolso, está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal)."
+          "Hoje, conferido no app, a YesStyle não oferece entrega para o Brasil. Os envios voltaram por um tempo e foram suspensos de novo, então a Black Friday da loja, hoje, serve a quem recebe em outro país. O que a loja publica, o prazo e o frete de Portugal e a política de reembolso de impostos da alfândega, que vale em pedidos abaixo de US$ 1.000, estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal). Se a entrega voltar, o frete e o prazo aparecem no checkout, e o cupom não desconta o frete."
         ],
         "image": {
           "src": "/images/reviews/yesstyle/yesstyle-reembolso-alfandega-pt-2026-10-13.webp",
@@ -57570,16 +57571,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa a Black Friday da YesStyle em 2026? A YesStyle ainda não anunciou. Em 2024 e 2025, os cupons com o nome Black Friday começaram nos primeiros dias de novembro e foram até a Cyber Monday.",
-          "Qual é o cupom da YesStyle na Black Friday? Ele muda a cada três ou quatro dias. A página da YesStyle aqui no site mostra o cupom que está valendo, com a data em que foi conferido.",
+          "Quando começa e quanto dura a Black Friday da YesStyle? Já começou: a home da loja traz a Black Friday Mega Sale e o cupom de faixa da semana. A YesStyle ainda não publicou o fim; em 2024 e 2025, os cupons com o nome Black Friday foram até a Cyber Monday.",
+          "Qual é o cupom da YesStyle na Black Friday? Ele muda a cada poucos dias. A página da YesStyle aqui no site mostra o código da semana, com a data em que foi conferido.",
           "O cupom da Black Friday da YesStyle tem valor mínimo? O cupom de faixa tem: 8% a partir de US$ 79, 10% a partir de US$ 149 e 15% a partir de US$ 199. Nos dias perto da sexta-feira e da Cyber Monday, a YesStyle costuma liberar 15% sem valor mínimo.",
           "Na YesStyle, é melhor comprar na Black Friday ou na Cyber Monday? Em 2024 e 2025, as duas tiveram 15% sem valor mínimo, então o teto do cupom foi o mesmo. O que muda de um dia para o outro é o preço promocional de cada produto.",
           "A YesStyle tem promoção fora da Black Friday? Tem. O cupom de faixa, de 8%, 10% e 15%, roda quase o ano inteiro e muda de nome a cada três ou quatro dias.",
           "O CECILIA010 vale na Black Friday? Vale. Ele vai no campo Reward Code, e as regras dos cupons da Black Friday dizem que eles valem junto com os Rewards Codes.",
           "Dá para usar dois cupons da YesStyle no mesmo pedido? Não: é um cupom por pedido. O código de recompensa é outra coisa e vai em outro campo do checkout.",
           "Preciso ter conta na YesStyle para usar o cupom da Black Friday? Precisa. Os cupons são só para membros, e quem compra como visitante fica sem o desconto.",
-          "A YesStyle entrega no Brasil? A loja não traz o Brasil na tabela de frete, mas um pedido nosso foi enviado dois dias depois de feito. O frete e o prazo aparecem no checkout.",
-          "Vou pagar imposto comprando na YesStyle? Pode haver cobrança na chegada do pacote. Em pedidos abaixo de US$ 1.000, a YesStyle devolve esses impostos em crédito na loja, se você mandar o comprovante em até 30 dias."
+          "A YesStyle entrega no Brasil? Não: hoje, conferido no app, a loja não oferece entrega para o Brasil. Os envios voltaram por um tempo e foram suspensos de novo; o que a loja publica está no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Vou pagar imposto comprando na YesStyle? Onde a loja entrega, pode haver cobrança na chegada do pacote. Em pedidos abaixo de US$ 1.000, a YesStyle devolve esses impostos em crédito na loja, se você mandar o comprovante em até 30 dias."
         ]
       }
     ],
@@ -57612,8 +57613,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-black-friday-dates-coupons",
     "locale": "en",
     "translationKey": "yesstyle-black-friday",
-    "title": "YesStyle Black Friday 2026: when it starts, how the coupons work and where the CECILIA010 code goes",
-    "seoTitle": "YesStyle Black Friday 2026: dates, coupons and CECILIA010",
+    "title": "YesStyle Black Friday 2026: has it started? This week's coupon, dates and where CECILIA010 goes",
+    "seoTitle": "YesStyle Black Friday 2026: Sale On Now, Coupons, CECILIA010",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -57624,10 +57625,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "When YesStyle's Black Friday starts, the 2024 and 2025 calendar taken from the official pages, why the tiered coupon is the same all year, the 15% days with no minimum, and how to stack the CECILIA010 Reward Code.",
-    "metaDescription": "YesStyle Black Friday 2026: the 2024 and 2025 calendar, the coupon tiers, the 15% days with no minimum and how to stack the CECILIA010 Reward Code.",
+    "description": "Does YesStyle do Black Friday? Yes, and it is on now: what the store shows on November 3, this week's tiered coupon, the 2024 and 2025 calendar, the 15% days with no minimum and how to stack the CECILIA010 Reward Code.",
+    "metaDescription": "Does YesStyle have a Black Friday sale? Yes, it is on now: Mega Sale, tiered coupon of 8% to 15%, 15% no-minimum days and how to stack the CECILIA010 Reward Code.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -57643,7 +57645,7 @@ export const reviewsData: unknown[] = [
       "YesStyle refunds customs duties on orders under US$ 1,000, as store credit"
     ],
     "cons": [
-      "The 2026 dates are not out yet: for now, the calendar is an estimate based on past years",
+      "The end date and the 15% no-minimum days for 2026 are not out yet: what comes next is an estimate based on past years",
       "The Black Friday tiered coupon is the same as the rest of the year",
       "Coupons are for members only, one per order, and do not discount shipping",
       "International purchase: delivery takes longer than from a local store"
@@ -57652,13 +57654,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle has not announced Black Friday 2026 yet, but in 2024 and 2025 the coupons with that name started in early November and ran until Cyber Monday. The tiered coupon is the same all year, and CECILIA010 stacks with it. What changes the decision are the 15% days with no minimum; see below."
+          "Yes, YesStyle does Black Friday, and it is already on: the home page has the Mega Sale, with per-product deals and banners up to 50% off, and this week's tiered coupon gives 8%, 10% or 15%. CECILIA010 stacks with it, in the Reward Code field. The 15% no-minimum days are the part still to come."
         ]
       },
       {
         "heading": "When YesStyle's Black Friday starts",
         "paragraphs": [
-          "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. The 2026 one is not out yet."
+          "YesStyle publishes the rules of each coupon in the site's help center, with the start and end day and time. The table below has the 2025 dates; in 2024, the phases followed the same order and started a day or two later. In 2026 the campaign has already started: on November 3, the store's home page shows the \"Black Friday Mega Sale\", with per-product deals and banners up to 50% off, and this week's tiered coupon (8% over US$ 79, 10% over US$ 149 and 15% over US$ 199), which the store swaps every few days. Standard shipping is free over US$ 35. The end date and the 15% no-minimum days for 2026 are not out yet."
         ],
         "comparisonTable": {
           "caption": "Coupons open to all members in 2025, from YesStyle's help pages; each phase runs until the next one begins. Dates are in GMT, which is what counts for the store.",
@@ -57686,14 +57688,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "In 2026, Black Friday falls on November 27 and Cyber Monday on November 30. If YesStyle repeats the pattern, the Black Friday name should show up on the coupons in early November, and the 15% days with no minimum should land around those two dates. This is an estimate based on past years: the store can change everything, and this guide is updated when the 2026 pages come out.",
+          "In 2026, Black Friday falls on November 27 and Cyber Monday on November 30. If YesStyle repeats the pattern, the 15% days with no minimum should land around those two dates. This is an estimate based on past years: the store can change everything, and this guide is updated when the 2026 pages come out.",
           "Coupons switch at a fixed time in GMT. In 2025, the tiered coupons switched at 2:00 GMT, and the 15% with no minimum started at 8:00 GMT."
         ]
       },
       {
         "heading": "The Black Friday coupon is the same as the rest of the year",
         "paragraphs": [
-          "The October 2025 tiered coupon (Mid-Season Sale) had exactly the same tiers as the November Black Friday coupon. It is the discount YesStyle runs almost all year, changing the name and the code every few days. The current coupons are on [YesStyle coupons and Reward Code](/en/coupons/yesstyle)."
+          "The October 2025 tiered coupon (Mid-Season Sale) had exactly the same tiers as the November Black Friday coupon. It is the discount YesStyle runs almost all year, changing the name and the code every few days. This week's code is on the [YesStyle coupons and Reward Code](/en/coupons/yesstyle) page, because the store swaps it within days."
         ],
         "comparisonTable": {
           "caption": "Tiers of YesStyle's tiered coupon in 2024 and 2025, the same outside and inside Black Friday. The discount applies to the price of the products.",
@@ -57837,11 +57839,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "When does YesStyle's Black Friday start in 2026? YesStyle has not announced it yet. In 2024 and 2025, the coupons named Black Friday started in the first days of November and ran until Cyber Monday.",
-          "What is the YesStyle coupon on Black Friday? It changes every three or four days. The YesStyle page here on the site shows the coupon that is valid, with the date it was checked.",
+          "When does YesStyle's Black Friday start and how long does it last? It has already started: the store's home page has the Black Friday Mega Sale and this week's tiered coupon. YesStyle has not published the end yet; in 2024 and 2025, the coupons named Black Friday ran until Cyber Monday.",
+          "What is the YesStyle coupon on Black Friday? It changes every few days. The YesStyle page here on the site shows this week's code, with the date it was checked.",
           "Does the YesStyle Black Friday coupon have a minimum order value? The tiered coupon does: 8% from US$ 79, 10% from US$ 149 and 15% from US$ 199. On the days around Friday and Cyber Monday, YesStyle usually opens 15% with no minimum.",
           "Is it better to buy on Black Friday or Cyber Monday at YesStyle? In 2024 and 2025, both had 15% with no minimum, so the coupon cap was the same. What changes from one day to the next is the promotional price of each product.",
-          "Does YesStyle have promotions outside Black Friday? Yes. The tiered coupon, with 8%, 10% and 15%, runs almost all year and changes its name every three or four days.",
+          "Does YesStyle have promotions outside Black Friday? Yes. The tiered coupon, with 8%, 10% and 15%, runs almost all year and changes its name every few days.",
           "Does CECILIA010 work on Black Friday? Yes. It goes in the Reward Code field, and the Black Friday coupon rules say the coupons are valid together with Reward Codes.",
           "Can I use two YesStyle coupons on the same order? No: it is one coupon per order. The Reward Code is a different thing and goes in another checkout field.",
           "Do I need a YesStyle account to use the Black Friday coupon? Yes. The coupons are for members only, and guest checkouts get no discount.",
@@ -57878,8 +57880,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-yesstyle-fechas-cupones",
     "locale": "es",
     "translationKey": "yesstyle-black-friday",
-    "title": "Black Friday YesStyle 2026: cuándo empieza, cómo funcionan los cupones y dónde va el código CECILIA010",
-    "seoTitle": "Black Friday YesStyle 2026: fechas, cupones y CECILIA010",
+    "title": "Black Friday YesStyle 2026: ¿ya empezó? Cupón de la semana, fechas y dónde va CECILIA010",
+    "seoTitle": "Black Friday YesStyle 2026: ¿ya empezó? Cupones y CECILIA010",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -57890,10 +57892,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Cuándo empieza el Black Friday de YesStyle, el calendario de 2024 y 2025 sacado de las páginas oficiales, por qué el cupón por tramos es el mismo todo el año, los días de 15% sin compra mínima y cómo sumar el código de recompensa CECILIA010.",
-    "metaDescription": "Black Friday YesStyle 2026: el calendario de 2024 y 2025, los tramos del cupón, los días de 15% sin compra mínima y cómo sumar el código de recompensa CECILIA010.",
+    "description": "El Black Friday de YesStyle ya está en marcha: lo que muestra la tienda el 3 de noviembre, el cupón por tramos de la semana, el calendario de 2024 y 2025, los días de 15% sin compra mínima y cómo sumar el código de recompensa CECILIA010.",
+    "metaDescription": "El Black Friday de YesStyle 2026 ya empezó: Mega Sale, cupón de 8% a 15% por tramos, días de 15% sin mínimo y cómo sumar el código CECILIA010.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -57909,7 +57912,7 @@ export const reviewsData: unknown[] = [
       "YesStyle devuelve los impuestos de aduana en pedidos de menos de US$ 1.000, como crédito en la tienda"
     ],
     "cons": [
-      "Las fechas de 2026 aún no han salido: por ahora, el calendario es una estimación según el historial",
+      "La fecha de fin y los días de 15% sin mínimo de 2026 aún no han salido: lo que viene después es una estimación según el historial",
       "El cupón por tramos del Black Friday es el mismo del resto del año",
       "Los cupones son solo para miembros, valen uno por pedido y no descuentan el envío",
       "Compra internacional: el plazo de entrega es mayor que el de una tienda local"
@@ -57918,13 +57921,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle aún no ha anunciado el Black Friday de 2026, pero en 2024 y 2025 los cupones con ese nombre empezaron a principios de noviembre y llegaron hasta el Cyber Monday. El cupón por tramos es el mismo todo el año, y CECILIA010 se suma a él. Lo que cambia la decisión son los días de 15% sin mínimo; mira abajo."
+          "El Black Friday de YesStyle ya está en marcha: la página principal tiene la Mega Sale, con ofertas por producto y banners de hasta 50% de descuento, y el cupón por tramos de esta semana da 8%, 10% o 15%. CECILIA010 se suma a él, en el campo Reward Code. Los días de 15% sin mínimo son lo que falta por llegar."
         ]
       },
       {
         "heading": "Cuándo empieza el Black Friday de YesStyle",
         "paragraphs": [
-          "YesStyle publica las reglas de cada cupón en el centro de ayuda del sitio, con día y hora de inicio y de fin. La tabla de abajo trae las fechas de 2025; en 2024, las fases siguieron el mismo orden y empezaron uno o dos días después. La de 2026 aún no ha salido."
+          "YesStyle publica las reglas de cada cupón en el centro de ayuda del sitio, con día y hora de inicio y de fin. La tabla de abajo trae las fechas de 2025; en 2024, las fases siguieron el mismo orden y empezaron uno o dos días después. En 2026 la campaña ya empezó: el 3 de noviembre, la página principal de la tienda trae la \"Black Friday Mega Sale\", con ofertas por producto y banners de hasta 50% de descuento, y el cupón por tramos de la semana (8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199), que la tienda cambia cada pocos días. El envío estándar es gratis desde US$ 35. La fecha de fin y los días de 15% sin mínimo de 2026 aún no han salido."
         ],
         "comparisonTable": {
           "caption": "Cupones abiertos a todos los miembros en 2025, según las páginas de ayuda de YesStyle; cada fase dura hasta el inicio de la siguiente. Fechas en horario GMT, que es el que vale para la tienda.",
@@ -57952,14 +57955,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "En 2026, el Black Friday cae el 27 de noviembre y el Cyber Monday el 30 de noviembre. Si YesStyle repite el patrón, el nombre Black Friday debería aparecer en los cupones a principios de noviembre, y los días de 15% sin compra mínima deberían quedar cerca de esas dos fechas. Es una estimación según el historial: la tienda puede cambiarlo todo, y esta guía se actualiza cuando salgan las páginas de 2026.",
+          "En 2026, el Black Friday cae el 27 de noviembre y el Cyber Monday el 30 de noviembre. Si YesStyle repite el patrón, los días de 15% sin compra mínima deberían quedar cerca de esas dos fechas. Es una estimación según el historial: la tienda puede cambiarlo todo, y esta guía se actualiza cuando salgan las páginas de 2026.",
           "Los cupones cambian a una hora fija en GMT. En 2025, los cupones por tramos cambiaron a las 2:00 GMT, y el de 15% sin mínimo empezó a las 8:00 GMT."
         ]
       },
       {
         "heading": "El cupón del Black Friday es el mismo de todo el año",
         "paragraphs": [
-          "El cupón por tramos de octubre de 2025 (Mid-Season Sale) tenía exactamente los mismos tramos que el cupón del Black Friday de noviembre. Es el descuento que YesStyle mantiene casi todo el año, cambiando el nombre y el código cada pocos días. Los cupones vigentes están en [cupones YesStyle y código de recompensa](/es/coupons/yesstyle)."
+          "El cupón por tramos de octubre de 2025 (Mid-Season Sale) tenía exactamente los mismos tramos que el cupón del Black Friday de noviembre. Es el descuento que YesStyle mantiene casi todo el año, cambiando el nombre y el código cada pocos días. El código de la semana está en la página de [cupones YesStyle y código de recompensa](/es/coupons/yesstyle), porque la tienda lo cambia en pocos días."
         ],
         "comparisonTable": {
           "caption": "Tramos del cupón por tramos de YesStyle en 2024 y 2025, iguales dentro y fuera del Black Friday. El descuento se aplica sobre el precio de los productos.",
@@ -58103,11 +58106,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuándo empieza el Black Friday de YesStyle en 2026? YesStyle aún no lo ha anunciado. En 2024 y 2025, los cupones con el nombre Black Friday empezaron en los primeros días de noviembre y duraron hasta el Cyber Monday.",
-          "¿Cuál es el cupón de YesStyle en el Black Friday? Cambia cada tres o cuatro días. La página de YesStyle de este sitio muestra el cupón vigente, con la fecha en que se comprobó.",
+          "¿Cuándo empieza y cuánto dura el Black Friday de YesStyle? Ya empezó: la página principal de la tienda trae la Black Friday Mega Sale y el cupón por tramos de la semana. YesStyle aún no ha publicado el fin; en 2024 y 2025, los cupones con el nombre Black Friday duraron hasta el Cyber Monday.",
+          "¿Cuál es el cupón de YesStyle en el Black Friday? Cambia cada pocos días. La página de YesStyle de este sitio muestra el código de la semana, con la fecha en que se comprobó.",
           "¿El cupón del Black Friday de YesStyle tiene compra mínima? El cupón por tramos sí: 8% desde US$ 79, 10% desde US$ 149 y 15% desde US$ 199. En los días cercanos al viernes y al Cyber Monday, YesStyle suele abrir 15% sin compra mínima.",
           "¿En YesStyle es mejor comprar en el Black Friday o en el Cyber Monday? En 2024 y 2025, los dos tuvieron 15% sin compra mínima, así que el tope del cupón fue el mismo. Lo que cambia de un día a otro es el precio promocional de cada producto.",
-          "¿YesStyle tiene promociones fuera del Black Friday? Sí. El cupón por tramos, de 8%, 10% y 15%, funciona casi todo el año y cambia de nombre cada tres o cuatro días.",
+          "¿YesStyle tiene promociones fuera del Black Friday? Sí. El cupón por tramos, de 8%, 10% y 15%, funciona casi todo el año y cambia de nombre cada pocos días.",
           "¿CECILIA010 vale en el Black Friday? Sí. Va en el campo Reward Code, y las reglas de los cupones del Black Friday dicen que valen junto con los Reward Codes.",
           "¿Se pueden usar dos cupones de YesStyle en el mismo pedido? No: es un cupón por pedido. El código de recompensa es otra cosa y va en otro campo del checkout.",
           "¿Necesito una cuenta en YesStyle para usar el cupón del Black Friday? Sí. Los cupones son solo para miembros, y quien compra como invitado se queda sin el descuento.",
@@ -58144,8 +58147,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-yesstyle-dates-et-coupons",
     "locale": "fr",
     "translationKey": "yesstyle-black-friday",
-    "title": "Black Friday YesStyle 2026 : quand il commence, comment fonctionnent les coupons et où saisir le code CECILIA010",
-    "seoTitle": "Black Friday YesStyle 2026 : dates, coupons et CECILIA010",
+    "title": "Black Friday YesStyle 2026 : c'est déjà commencé ? Le coupon de la semaine, les dates et où saisir CECILIA010",
+    "seoTitle": "Black Friday YesStyle 2026 : déjà en cours, coupons",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -58156,10 +58159,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quand commence le Black Friday de YesStyle, le calendrier 2024 et 2025 tiré des pages officielles, pourquoi le coupon par palier est le même toute l'année, les jours à 15 % sans minimum et comment cumuler le code récompense CECILIA010.",
-    "metaDescription": "Black Friday YesStyle 2026 : le calendrier 2024 et 2025, les paliers du coupon, les jours à 15 % sans minimum et comment cumuler le code récompense CECILIA010.",
+    "description": "YesStyle fait-il le Black Friday ? Oui, et il est déjà en cours : ce que la boutique affiche le 3 novembre, le coupon par palier de la semaine, le calendrier 2024 et 2025, les jours à 15 % sans minimum et comment cumuler le code récompense CECILIA010.",
+    "metaDescription": "YesStyle a-t-il un Black Friday ? Oui, il est en cours : Mega Sale, coupon par palier de 8 à 15 %, jours à 15 % sans minimum et cumul avec le code récompense CECILIA010.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58175,7 +58179,7 @@ export const reviewsData: unknown[] = [
       "YesStyle rembourse les droits de douane sur les commandes de moins de 1 000 US$, sous forme de crédit en boutique"
     ],
     "cons": [
-      "Les dates de 2026 ne sont pas encore sorties : pour l'instant, le calendrier est une estimation d'après l'historique",
+      "La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis : la suite est une estimation d'après l'historique",
       "Le coupon par palier du Black Friday est le même que le reste de l'année",
       "Les coupons sont réservés aux membres, valables un par commande, et ne réduisent pas les frais de port",
       "Achat international : le délai de livraison est plus long que celui d'une boutique locale"
@@ -58184,13 +58188,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle n'a pas encore annoncé le Black Friday 2026, mais en 2024 et 2025 les coupons portant ce nom ont commencé début novembre et ont duré jusqu'au Cyber Monday. Le coupon par palier est le même toute l'année, et CECILIA010 se cumule avec lui. Ce qui change la décision, ce sont les jours à 15 % sans minimum ; voir plus bas."
+          "Oui, YesStyle fait le Black Friday, et il est déjà en cours : la page d'accueil affiche la Mega Sale, avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier de la semaine donne 8 %, 10 % ou 15 %. CECILIA010 se cumule avec lui, dans le champ Reward Code. Les jours à 15 % sans minimum restent à venir."
         ]
       },
       {
         "heading": "Quand commence le Black Friday de YesStyle",
         "paragraphs": [
-          "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. Celle de 2026 n'est pas encore sortie."
+          "YesStyle publie les règles de chaque coupon dans le centre d'aide du site, avec le jour et l'heure de début et de fin. Le tableau ci-dessous donne les dates de 2025 ; en 2024, les phases ont suivi le même ordre et ont commencé un ou deux jours plus tard. En 2026, la campagne a déjà commencé : le 3 novembre, la page d'accueil de la boutique affiche la « Black Friday Mega Sale », avec des offres par produit et des bannières jusqu'à 50 % de remise, et le coupon par palier de la semaine (8 % dès 79 US$, 10 % dès 149 US$ et 15 % dès 199 US$), que la boutique change tous les quelques jours. La livraison standard est gratuite dès 35 US$. La date de fin et les jours à 15 % sans minimum de 2026 ne sont pas encore sortis."
         ],
         "comparisonTable": {
           "caption": "Coupons ouverts à tous les membres en 2025, d'après les pages d'aide de YesStyle ; chaque phase dure jusqu'au début de la suivante. Dates en heure GMT, qui est celle qui compte pour la boutique.",
@@ -58218,14 +58222,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "En 2026, le Black Friday tombe le 27 novembre et le Cyber Monday le 30 novembre. Si YesStyle reproduit le schéma, le nom Black Friday devrait apparaître sur les coupons début novembre, et les jours à 15 % sans minimum devraient se situer autour de ces deux dates. C'est une estimation d'après l'historique : la boutique peut tout changer, et ce guide est mis à jour quand les pages de 2026 sortiront.",
+          "En 2026, le Black Friday tombe le 27 novembre et le Cyber Monday le 30 novembre. Si YesStyle reproduit le schéma, les jours à 15 % sans minimum devraient se situer autour de ces deux dates. C'est une estimation d'après l'historique : la boutique peut tout changer, et ce guide est mis à jour quand les pages de 2026 sortiront.",
           "Les coupons changent à une heure fixe en GMT. En 2025, les coupons par palier ont changé à 2 h GMT, et celui de 15 % sans minimum a commencé à 8 h GMT."
         ]
       },
       {
         "heading": "Le coupon du Black Friday est le même que le reste de l'année",
         "paragraphs": [
-          "Le coupon par palier d'octobre 2025 (Mid-Season Sale) avait exactement les mêmes paliers que le coupon du Black Friday de novembre. C'est la remise que YesStyle propose presque toute l'année, en changeant le nom et le code tous les quelques jours. Les coupons en cours se trouvent dans [coupons YesStyle et code récompense](/fr/coupons/yesstyle)."
+          "Le coupon par palier d'octobre 2025 (Mid-Season Sale) avait exactement les mêmes paliers que le coupon du Black Friday de novembre. C'est la remise que YesStyle propose presque toute l'année, en changeant le nom et le code tous les quelques jours. Le code de cette semaine se trouve sur la page [coupons YesStyle et code récompense](/fr/coupons/yesstyle), car la boutique le change en quelques jours."
         ],
         "comparisonTable": {
           "caption": "Paliers du coupon par palier de YesStyle en 2024 et 2025, identiques hors et pendant le Black Friday. La remise s'applique sur le prix des produits.",
@@ -58369,11 +58373,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quand commence le Black Friday de YesStyle en 2026 ? YesStyle ne l'a pas encore annoncé. En 2024 et 2025, les coupons portant le nom Black Friday ont commencé dans les premiers jours de novembre et ont duré jusqu'au Cyber Monday.",
-          "Quel est le coupon YesStyle pendant le Black Friday ? Il change tous les trois ou quatre jours. La page YesStyle de ce site affiche le coupon en cours, avec la date à laquelle il a été vérifié.",
+          "Quand commence le Black Friday de YesStyle et combien de temps dure-t-il ? Il a déjà commencé : la page d'accueil de la boutique affiche la Black Friday Mega Sale et le coupon par palier de la semaine. YesStyle n'a pas encore publié la fin ; en 2024 et 2025, les coupons portant le nom Black Friday ont duré jusqu'au Cyber Monday.",
+          "Quel est le coupon YesStyle pendant le Black Friday ? Il change tous les quelques jours. La page YesStyle de ce site affiche le code de la semaine, avec la date à laquelle il a été vérifié.",
           "Le coupon du Black Friday de YesStyle a-t-il un montant minimum ? Le coupon par palier en a un : 8 % à partir de 79 US$, 10 % à partir de 149 US$ et 15 % à partir de 199 US$. Les jours proches du vendredi et du Cyber Monday, YesStyle ouvre généralement 15 % sans minimum.",
           "Chez YesStyle, vaut-il mieux acheter pendant le Black Friday ou le Cyber Monday ? En 2024 et 2025, les deux ont eu 15 % sans minimum, donc le plafond du coupon a été le même. Ce qui change d'un jour à l'autre, c'est le prix promotionnel de chaque produit.",
-          "YesStyle a-t-il des promotions en dehors du Black Friday ? Oui. Le coupon par palier, à 8 %, 10 % et 15 %, tourne presque toute l'année et change de nom tous les trois ou quatre jours.",
+          "YesStyle a-t-il des promotions en dehors du Black Friday ? Oui. Le coupon par palier, à 8 %, 10 % et 15 %, tourne presque toute l'année et change de nom tous les quelques jours.",
           "CECILIA010 est-il valable pendant le Black Friday ? Oui. Il va dans le champ Reward Code, et les règles des coupons du Black Friday indiquent qu'ils sont valables avec les Reward Codes.",
           "Peut-on utiliser deux coupons YesStyle dans la même commande ? Non : c'est un coupon par commande. Le code récompense est autre chose et va dans un autre champ de la page de paiement.",
           "Faut-il un compte YesStyle pour utiliser le coupon du Black Friday ? Oui. Les coupons sont réservés aux membres, et qui commande en invité n'a pas la remise.",
@@ -58410,8 +58414,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-black-friday-termine-gutscheine",
     "locale": "de",
     "translationKey": "yesstyle-black-friday",
-    "title": "YesStyle Black Friday 2026: Termine, Gutscheine und wo der Reward Code CECILIA010 eingegeben wird",
-    "seoTitle": "YesStyle Black Friday 2026: Termine, Gutscheine, CECILIA010",
+    "title": "YesStyle Black Friday 2026: Schon gestartet? Der Gutschein der Woche, Termine und wo der Reward Code CECILIA010 hinkommt",
+    "seoTitle": "YesStyle Black Friday 2026: läuft schon, Gutscheine",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -58422,10 +58426,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Wann der Black Friday bei YesStyle beginnt, der Kalender von 2024 und 2025 aus den offiziellen Seiten, warum der Staffelgutschein das ganze Jahr derselbe ist, die 15-%-Tage ohne Mindestbestellwert und wie sich der Reward Code CECILIA010 addieren lässt.",
-    "metaDescription": "YesStyle Black Friday 2026: der Kalender von 2024 und 2025, die Stufen des Gutscheins, die 15-%-Tage ohne Mindestbestellwert und wie sich der Reward Code CECILIA010 addieren lässt.",
+    "description": "Macht YesStyle einen Black Friday? Ja, und er läuft schon: was der Shop am 3. November zeigt, der Staffelgutschein der Woche, der Kalender von 2024 und 2025, die 15-%-Tage ohne Mindestbestellwert und wie sich der Reward Code CECILIA010 addieren lässt.",
+    "metaDescription": "Hat YesStyle einen Black Friday? Ja, er läuft schon: Mega Sale, Staffelgutschein von 8 bis 15 %, 15-%-Tage ohne Mindestbestellwert und wie sich der Reward Code CECILIA010 addieren lässt.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58441,7 +58446,7 @@ export const reviewsData: unknown[] = [
       "YesStyle erstattet die Zollgebühren bei Bestellungen unter US$ 1.000 als Guthaben im Shop"
     ],
     "cons": [
-      "Die Termine für 2026 sind noch nicht veröffentlicht: Der Kalender ist vorerst eine Schätzung nach den Vorjahren",
+      "Das Enddatum und die 15-%-Tage ohne Mindestbestellwert für 2026 sind noch nicht veröffentlicht: Was danach kommt, ist eine Schätzung nach den Vorjahren",
       "Der Staffelgutschein des Black Friday ist derselbe wie im Rest des Jahres",
       "Die Gutscheine gelten nur für Mitglieder, einer pro Bestellung, und mindern nicht die Versandkosten",
       "Internationaler Kauf: Die Lieferzeit ist länger als bei einem lokalen Shop"
@@ -58450,13 +58455,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "YesStyle hat den Black Friday 2026 noch nicht angekündigt, aber 2024 und 2025 begannen die Gutscheine mit diesem Namen Anfang November und liefen bis zum Cyber Monday. Der Staffelgutschein ist das ganze Jahr derselbe, und der CECILIA010 lässt sich mit ihm addieren. Entscheidend sind die 15-%-Tage ohne Mindestbestellwert; siehe unten."
+          "Ja, YesStyle macht einen Black Friday, und er läuft bereits: Auf der Startseite steht die Mega Sale mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt, und der Staffelgutschein der Woche gibt 8 %, 10 % oder 15 %. Der CECILIA010 lässt sich damit addieren, im Feld Reward Code. Die 15-%-Tage ohne Mindestbestellwert stehen noch aus."
         ]
       },
       {
         "heading": "Wann der Black Friday bei YesStyle beginnt",
         "paragraphs": [
-          "YesStyle veröffentlicht die Regeln jedes Gutscheins im Hilfecenter der Website, mit Tag und Uhrzeit für Beginn und Ende. Die Tabelle unten zeigt die Termine von 2025; 2024 folgten die Phasen in derselben Reihenfolge und begannen ein bis zwei Tage später. Die von 2026 ist noch nicht veröffentlicht."
+          "YesStyle veröffentlicht die Regeln jedes Gutscheins im Hilfecenter der Website, mit Tag und Uhrzeit für Beginn und Ende. Die Tabelle unten zeigt die Termine von 2025; 2024 folgten die Phasen in derselben Reihenfolge und begannen ein bis zwei Tage später. 2026 läuft die Aktion bereits: Am 3. November zeigt die Startseite des Shops die „Black Friday Mega Sale“ mit Angeboten pro Produkt und Bannern bis zu 50 % Rabatt sowie den Staffelgutschein der Woche (8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199), den der Shop alle paar Tage austauscht. Der Standardversand ist ab US$ 35 kostenlos. Das Enddatum und die 15-%-Tage ohne Mindestbestellwert für 2026 sind noch nicht veröffentlicht."
         ],
         "comparisonTable": {
           "caption": "Für alle Mitglieder offene Gutscheine 2025, nach den Hilfeseiten von YesStyle; jede Phase läuft bis zum Beginn der nächsten. Zeiten in GMT, das ist die Zeit, die für den Shop gilt.",
@@ -58484,14 +58489,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026 fällt der Black Friday auf den 27. November und der Cyber Monday auf den 30. November. Wenn YesStyle das Muster wiederholt, dürfte der Name Black Friday Anfang November auf den Gutscheinen erscheinen, und die 15-%-Tage ohne Mindestbestellwert dürften um diese beiden Termine liegen. Das ist eine Schätzung nach den Vorjahren: Der Shop kann alles ändern, und dieser Ratgeber wird aktualisiert, sobald die Seiten für 2026 erscheinen.",
+          "2026 fällt der Black Friday auf den 27. November und der Cyber Monday auf den 30. November. Wenn YesStyle das Muster wiederholt, dürften die 15-%-Tage ohne Mindestbestellwert dürften um diese beiden Termine liegen. Das ist eine Schätzung nach den Vorjahren: Der Shop kann alles ändern, und dieser Ratgeber wird aktualisiert, sobald die Seiten für 2026 erscheinen.",
           "Die Gutscheine wechseln zu einer festen Uhrzeit in GMT. 2025 wechselten die Staffelgutscheine um 2 Uhr GMT, und der 15-%-Gutschein ohne Mindestbestellwert begann um 8 Uhr GMT."
         ]
       },
       {
         "heading": "Der Black-Friday-Gutschein ist derselbe wie im ganzen Jahr",
         "paragraphs": [
-          "Der Staffelgutschein aus dem Oktober 2025 (Mid-Season Sale) hatte genau dieselben Stufen wie der Black-Friday-Gutschein im November. Es ist der Rabatt, den YesStyle fast das ganze Jahr laufen lässt, mit Name und Code, die alle paar Tage wechseln. Die aktuellen Gutscheine stehen unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle)."
+          "Der Staffelgutschein aus dem Oktober 2025 (Mid-Season Sale) hatte genau dieselben Stufen wie der Black-Friday-Gutschein im November. Es ist der Rabatt, den YesStyle fast das ganze Jahr laufen lässt, mit Name und Code, die alle paar Tage wechseln. Der Code dieser Woche steht auf der Seite [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle), weil der Shop ihn binnen weniger Tage austauscht."
         ],
         "comparisonTable": {
           "caption": "Stufen des Staffelgutscheins von YesStyle 2024 und 2025, außerhalb und innerhalb des Black Friday gleich. Der Rabatt gilt auf den Preis der Produkte.",
@@ -58635,11 +58640,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Wann beginnt der Black Friday bei YesStyle 2026? YesStyle hat ihn noch nicht angekündigt. 2024 und 2025 begannen die Gutscheine mit dem Namen Black Friday in den ersten Novembertagen und liefen bis zum Cyber Monday.",
-          "Welcher YesStyle-Gutschein gilt am Black Friday? Er wechselt alle drei bis vier Tage. Die YesStyle-Seite hier auf der Website zeigt den aktuell gültigen Gutschein mit dem Datum, an dem er geprüft wurde.",
+          "Wann beginnt der Black Friday bei YesStyle und wie lange dauert er? Er hat bereits begonnen: Auf der Startseite des Shops stehen die Black Friday Mega Sale und der Staffelgutschein der Woche. Das Ende hat YesStyle noch nicht veröffentlicht; 2024 und 2025 liefen die Gutscheine mit dem Namen Black Friday bis zum Cyber Monday.",
+          "Welcher YesStyle-Gutschein gilt am Black Friday? Er wechselt alle paar Tage. Die YesStyle-Seite hier auf der Website zeigt den Code der Woche mit dem Datum, an dem er geprüft wurde.",
           "Hat der Black-Friday-Gutschein von YesStyle einen Mindestbestellwert? Der Staffelgutschein schon: 8 % ab US$ 79, 10 % ab US$ 149 und 15 % ab US$ 199. An den Tagen rund um den Freitag und den Cyber Monday öffnet YesStyle meist 15 % ohne Mindestbestellwert.",
           "Kauft man bei YesStyle besser am Black Friday oder am Cyber Monday? 2024 und 2025 hatten beide 15 % ohne Mindestbestellwert, die Obergrenze des Gutscheins war also dieselbe. Was sich von einem Tag zum anderen ändert, ist der Aktionspreis der einzelnen Produkte.",
-          "Hat YesStyle auch außerhalb des Black Friday Aktionen? Ja. Der Staffelgutschein mit 8 %, 10 % und 15 % läuft fast das ganze Jahr und wechselt alle drei bis vier Tage den Namen.",
+          "Hat YesStyle auch außerhalb des Black Friday Aktionen? Ja. Der Staffelgutschein mit 8 %, 10 % und 15 % läuft fast das ganze Jahr und wechselt alle paar Tage den Namen.",
           "Gilt der CECILIA010 am Black Friday? Ja. Er kommt in das Feld Reward Code, und die Regeln der Black-Friday-Gutscheine besagen, dass sie zusammen mit Reward Codes gelten.",
           "Kann man zwei YesStyle-Gutscheine in derselben Bestellung nutzen? Nein: Es gilt ein Gutschein pro Bestellung. Der Reward Code ist etwas anderes und kommt in ein anderes Feld des Checkouts.",
           "Braucht man ein YesStyle-Konto, um den Black-Friday-Gutschein zu nutzen? Ja. Die Gutscheine gelten nur für Mitglieder, und wer als Gast bestellt, bekommt den Rabatt nicht.",
@@ -58676,8 +58681,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-yesstyle-date-e-coupon",
     "locale": "it",
     "translationKey": "yesstyle-black-friday",
-    "title": "Black Friday YesStyle 2026: quando inizia, come funzionano i coupon e dove inserire il codice CECILIA010",
-    "seoTitle": "Black Friday YesStyle 2026: date, coupon e codice CECILIA010",
+    "title": "Black Friday YesStyle 2026: è già iniziato? Il coupon della settimana, le date e dove inserire CECILIA010",
+    "seoTitle": "Black Friday YesStyle 2026: già attivo, coupon",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -58688,10 +58693,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando inizia il Black Friday di YesStyle, il calendario 2024 e 2025 preso dalle pagine ufficiali, perché il coupon a scaglioni è lo stesso tutto l'anno, i giorni al 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
-    "metaDescription": "Black Friday YesStyle 2026: il calendario 2024 e 2025, gli scaglioni del coupon, i giorni al 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
+    "description": "YesStyle fa il Black Friday? Sì, ed è già attivo: cosa mostra il negozio il 3 novembre, il coupon a scaglioni della settimana, il calendario 2024 e 2025, i giorni al 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
+    "metaDescription": "YesStyle ha il Black Friday? Sì, è già attivo: Mega Sale, coupon a scaglioni dall'8% al 15%, giorni al 15% senza minimo e come sommare il codice ricompensa CECILIA010.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58707,7 +58713,7 @@ export const reviewsData: unknown[] = [
       "YesStyle rimborsa le tasse doganali sugli ordini inferiori a US$ 1.000, come credito nel negozio"
     ],
     "cons": [
-      "Le date del 2026 non sono ancora uscite: per ora il calendario è una stima basata sullo storico",
+      "La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti: il resto è una stima basata sullo storico",
       "Il coupon a scaglioni del Black Friday è lo stesso del resto dell'anno",
       "I coupon sono solo per i membri, uno per ordine, e non scontano la spedizione",
       "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio locale"
@@ -58716,13 +58722,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "YesStyle non ha ancora annunciato il Black Friday 2026, ma nel 2024 e nel 2025 i coupon con quel nome sono iniziati a inizio novembre e sono durati fino al Cyber Monday. Il coupon a scaglioni è lo stesso tutto l'anno, e CECILIA010 si somma a esso. Ciò che cambia la decisione sono i giorni al 15% senza minimo; vedi sotto."
+          "Sì, YesStyle fa il Black Friday ed è già attivo: la home ha la Mega Sale, con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni della settimana dà l'8%, il 10% o il 15%. CECILIA010 si somma a esso, nel campo Reward Code. I giorni al 15% senza minimo devono ancora arrivare."
         ]
       },
       {
         "heading": "Quando inizia il Black Friday di YesStyle",
         "paragraphs": [
-          "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Quella del 2026 non è ancora uscita."
+          "YesStyle pubblica le regole di ogni coupon nel centro assistenza del sito, con giorno e ora di inizio e di fine. La tabella qui sotto riporta le date del 2025; nel 2024 le fasi sono seguite nello stesso ordine e sono iniziate uno o due giorni dopo. Nel 2026 la campagna è già iniziata: il 3 novembre la home del negozio mostra la «Black Friday Mega Sale», con offerte per prodotto e banner fino al 50% di sconto, e il coupon a scaglioni della settimana (8% sopra US$ 79, 10% sopra US$ 149 e 15% sopra US$ 199), che il negozio cambia ogni pochi giorni. La spedizione standard è gratuita sopra US$ 35. La data di fine e i giorni al 15% senza minimo del 2026 non sono ancora usciti."
         ],
         "comparisonTable": {
           "caption": "Coupon aperti a tutti i membri nel 2025, dalle pagine di assistenza di YesStyle; ogni fase dura fino all'inizio della successiva. Date in orario GMT, che è quello che vale per il negozio.",
@@ -58750,14 +58756,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nel 2026 il Black Friday cade il 27 novembre e il Cyber Monday il 30 novembre. Se YesStyle ripeterà lo schema, il nome Black Friday dovrebbe comparire sui coupon a inizio novembre, e i giorni al 15% senza minimo dovrebbero cadere vicino a queste due date. È una stima basata sullo storico: il negozio può cambiare tutto, e questa guida viene aggiornata quando usciranno le pagine del 2026.",
+          "Nel 2026 il Black Friday cade il 27 novembre e il Cyber Monday il 30 novembre. Se YesStyle ripeterà lo schema, i giorni al 15% senza minimo dovrebbero cadere vicino a queste due date. È una stima basata sullo storico: il negozio può cambiare tutto, e questa guida viene aggiornata quando usciranno le pagine del 2026.",
           "I coupon cambiano a un orario fisso in GMT. Nel 2025 i coupon a scaglioni sono cambiati alle 2:00 GMT, e quello al 15% senza minimo è iniziato alle 8:00 GMT."
         ]
       },
       {
         "heading": "Il coupon del Black Friday è lo stesso di tutto l'anno",
         "paragraphs": [
-          "Il coupon a scaglioni di ottobre 2025 (Mid-Season Sale) aveva esattamente gli stessi scaglioni del coupon del Black Friday di novembre. È lo sconto che YesStyle tiene attivo quasi tutto l'anno, cambiando nome e codice ogni pochi giorni. I coupon in corso si trovano in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle)."
+          "Il coupon a scaglioni di ottobre 2025 (Mid-Season Sale) aveva esattamente gli stessi scaglioni del coupon del Black Friday di novembre. È lo sconto che YesStyle tiene attivo quasi tutto l'anno, cambiando nome e codice ogni pochi giorni. Il codice di questa settimana è nella pagina [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle), perché il negozio lo cambia nel giro di pochi giorni."
         ],
         "comparisonTable": {
           "caption": "Scaglioni del coupon a scaglioni di YesStyle nel 2024 e nel 2025, uguali dentro e fuori il Black Friday. Lo sconto vale sul prezzo dei prodotti.",
@@ -58901,11 +58907,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Quando inizia il Black Friday di YesStyle nel 2026? YesStyle non l'ha ancora annunciato. Nel 2024 e nel 2025, i coupon con il nome Black Friday sono iniziati nei primi giorni di novembre e sono durati fino al Cyber Monday.",
-          "Qual è il coupon di YesStyle nel Black Friday? Cambia ogni tre o quattro giorni. La pagina di YesStyle qui sul sito mostra il coupon in corso, con la data in cui è stato controllato.",
+          "Quando inizia il Black Friday di YesStyle e quanto dura? È già iniziato: la home del negozio ha la Black Friday Mega Sale e il coupon a scaglioni della settimana. YesStyle non ha ancora pubblicato la fine; nel 2024 e nel 2025 i coupon con il nome Black Friday sono durati fino al Cyber Monday.",
+          "Qual è il coupon di YesStyle nel Black Friday? Cambia ogni pochi giorni. La pagina di YesStyle qui sul sito mostra il codice della settimana, con la data in cui è stato controllato.",
           "Il coupon del Black Friday di YesStyle ha un importo minimo? Il coupon a scaglioni sì: 8% da US$ 79, 10% da US$ 149 e 15% da US$ 199. Nei giorni vicini al venerdì e al Cyber Monday, YesStyle di solito apre il 15% senza minimo.",
           "Su YesStyle è meglio comprare nel Black Friday o nel Cyber Monday? Nel 2024 e nel 2025 entrambi hanno avuto il 15% senza minimo, quindi il tetto del coupon è stato lo stesso. Ciò che cambia da un giorno all'altro è il prezzo promozionale di ogni prodotto.",
-          "YesStyle ha promozioni fuori dal Black Friday? Sì. Il coupon a scaglioni, dell'8%, 10% e 15%, resta attivo quasi tutto l'anno e cambia nome ogni tre o quattro giorni.",
+          "YesStyle ha promozioni fuori dal Black Friday? Sì. Il coupon a scaglioni, dell'8%, 10% e 15%, resta attivo quasi tutto l'anno e cambia nome ogni pochi giorni.",
           "CECILIA010 vale nel Black Friday? Sì. Va nel campo Reward Code, e le regole dei coupon del Black Friday dicono che valgono insieme ai Reward Code.",
           "Si possono usare due coupon di YesStyle nello stesso ordine? No: è un coupon per ordine. Il codice ricompensa è un'altra cosa e va in un altro campo del checkout.",
           "Serve un account su YesStyle per usare il coupon del Black Friday? Sì. I coupon sono solo per i membri, e chi acquista come ospite resta senza sconto.",
@@ -58942,8 +58948,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-black-friday-ko",
     "locale": "ko",
     "translationKey": "yesstyle-black-friday",
-    "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치",
-    "seoTitle": "YesStyle 블랙프라이데이 2026: 날짜, 쿠폰, CECILIA010",
+    "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 벌써 시작했나요? 이번 주 쿠폰, 일정, CECILIA010 입력 위치",
+    "seoTitle": "YesStyle 블랙프라이데이 2026: 진행 중, 쿠폰, CECILIA010",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -58954,10 +58960,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 블랙프라이데이는 언제 시작할까요? 공식 페이지로 확인한 2024년과 2025년 일정, 구간별 쿠폰이 연중 같은 이유, 최소 금액 없는 15% 데이, 그리고 리워드 코드 CECILIA010를 함께 쓰는 방법을 정리했습니다.",
-    "metaDescription": "YesStyle 블랙프라이데이 2026: 2024년과 2025년 일정, 쿠폰 구간, 최소 금액 없는 15% 데이, 리워드 코드 CECILIA010 함께 쓰는 법.",
+    "description": "YesStyle은 블랙프라이데이를 할까요? 네, 지금 진행 중입니다. 11월 3일 스토어에 올라온 내용, 이번 주 구간별 쿠폰, 2024년과 2025년 일정, 최소 금액 없는 15% 데이, 그리고 리워드 코드 CECILIA010를 함께 쓰는 방법을 정리했습니다.",
+    "metaDescription": "YesStyle 블랙프라이데이 세일을 하나요? 네, 진행 중입니다: Mega Sale, 8~15% 구간별 쿠폰, 최소 금액 없는 15% 데이, 리워드 코드 CECILIA010 함께 쓰는 법.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -58973,7 +58980,7 @@ export const reviewsData: unknown[] = [
       "YesStyle은 US$ 1,000 미만 주문에서 낸 관세 등 세금을 스토어 크레딧으로 돌려줌"
     ],
     "cons": [
-      "2026년 일정은 아직 나오지 않음: 지금의 일정은 과거 기록으로 한 추정",
+      "2026년 종료일과 최소 금액 없는 15% 데이는 아직 나오지 않음: 앞으로의 일정은 과거 기록으로 한 추정",
       "블랙프라이데이의 구간별 쿠폰은 평소와 같음",
       "쿠폰은 회원 전용이고, 주문당 하나만 쓸 수 있으며, 배송비에는 적용되지 않음",
       "해외 구매라서 배송 기간이 가까운 쇼핑몰보다 깁니다"
@@ -58982,13 +58989,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 요약",
         "paragraphs": [
-          "YesStyle은 2026년 블랙프라이데이를 아직 발표하지 않았지만, 2024년과 2025년에는 이 이름의 쿠폰이 11월 초에 시작해 사이버 먼데이까지 이어졌습니다. 구간별 쿠폰은 연중 같고, CECILIA010은 그 쿠폰과 함께 쓸 수 있습니다. 선택을 좌우하는 것은 최소 금액 없는 15% 데이니, 아래에서 확인하세요."
+          "네, YesStyle은 블랙프라이데이를 하고 있고 이미 진행 중입니다. 홈에는 Mega Sale이 열려 상품별 특가와 최대 50% 할인 배너가 걸려 있고, 이번 주 구간별 쿠폰은 8%, 10%, 15%입니다. CECILIA010은 Reward Code 칸에 넣어 함께 쓸 수 있습니다. 최소 금액 없는 15% 데이는 아직 남아 있습니다."
         ]
       },
       {
         "heading": "YesStyle 블랙프라이데이는 언제 시작하나요",
         "paragraphs": [
-          "YesStyle은 각 쿠폰의 규정을 시작·종료 날짜와 시각까지 적어 사이트 고객센터에 올립니다. 아래 표는 2025년 일정입니다. 2024년에도 단계는 같은 순서로 진행됐고, 하루나 이틀 늦게 시작했습니다. 2026년 일정은 아직 나오지 않았습니다."
+          "YesStyle은 각 쿠폰의 규정을 시작·종료 날짜와 시각까지 적어 사이트 고객센터에 올립니다. 아래 표는 2025년 일정입니다. 2024년에도 단계는 같은 순서로 진행됐고, 하루나 이틀 늦게 시작했습니다. 2026년에는 캠페인이 이미 시작됐습니다. 11월 3일 기준 스토어 홈에는 상품별 특가와 최대 50% 할인 배너가 걸린 “Black Friday Mega Sale”과 이번 주 구간별 쿠폰(US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%)이 있으며, 쿠폰은 스토어가 며칠마다 바꿉니다. 기본 배송은 US$ 35 이상 무료입니다. 2026년 종료일과 최소 금액 없는 15% 데이는 아직 나오지 않았습니다."
         ],
         "comparisonTable": {
           "caption": "2025년에 모든 회원이 쓸 수 있던 쿠폰, YesStyle 도움말 페이지 기준. 각 단계는 다음 단계가 시작될 때까지 이어집니다. 날짜와 시각은 스토어 기준인 GMT입니다.",
@@ -59016,14 +59023,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026년 블랙프라이데이는 11월 27일, 사이버 먼데이는 11월 30일입니다. YesStyle이 같은 패턴을 따른다면 Black Friday 이름의 쿠폰은 11월 초에 나오고, 최소 금액 없는 15% 데이는 이 두 날짜 근처가 될 것입니다. 과거 기록으로 한 추정일 뿐이고, 스토어가 모든 것을 바꿀 수도 있습니다. 2026년 페이지가 나오면 이 가이드가 업데이트됩니다.",
+          "2026년 블랙프라이데이는 11월 27일, 사이버 먼데이는 11월 30일입니다. YesStyle이 같은 패턴을 따른다면 최소 금액 없는 15% 데이는 이 두 날짜 근처가 될 것입니다. 과거 기록으로 한 추정일 뿐이고, 스토어가 모든 것을 바꿀 수도 있습니다. 2026년 페이지가 나오면 이 가이드가 업데이트됩니다.",
           "쿠폰은 GMT로 정해진 시각에 바뀝니다. 2025년에는 구간별 쿠폰이 GMT 2시에 바뀌었고, 최소 금액 없는 15%는 GMT 8시에 시작했습니다."
         ]
       },
       {
         "heading": "블랙프라이데이 쿠폰은 연중 같습니다",
         "paragraphs": [
-          "2025년 10월의 구간별 쿠폰(Mid-Season Sale)은 11월 블랙프라이데이 쿠폰과 구간이 똑같았습니다. YesStyle이 거의 일 년 내내 진행하는 할인이고, 며칠마다 이름과 코드만 바뀝니다. 현재 유효한 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에 있습니다."
+          "2025년 10월의 구간별 쿠폰(Mid-Season Sale)은 11월 블랙프라이데이 쿠폰과 구간이 똑같았습니다. YesStyle이 거의 일 년 내내 진행하는 할인이고, 며칠마다 이름과 코드만 바뀝니다. 이번 주 코드는 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle) 페이지에 있습니다. 스토어가 며칠마다 바꾸기 때문입니다."
         ],
         "comparisonTable": {
           "caption": "2024년과 2025년 YesStyle 구간별 쿠폰의 구간. 블랙프라이데이 기간과 그 밖의 기간이 같습니다. 할인은 상품 가격에 적용됩니다.",
@@ -59167,11 +59174,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "2026년 YesStyle 블랙프라이데이는 언제 시작하나요? YesStyle이 아직 발표하지 않았습니다. 2024년과 2025년에는 Black Friday 이름의 쿠폰이 11월 첫 며칠에 시작해 사이버 먼데이까지 이어졌습니다.",
-          "블랙프라이데이에 YesStyle 쿠폰은 무엇인가요? 3~4일마다 바뀝니다. 이 사이트의 YesStyle 페이지에 지금 유효한 쿠폰이 확인한 날짜와 함께 나와 있습니다.",
+          "YesStyle 블랙프라이데이는 언제 시작하고 얼마나 오래 가나요? 이미 시작했습니다. 스토어 홈에 Black Friday Mega Sale과 이번 주 구간별 쿠폰이 있습니다. YesStyle은 종료일을 아직 발표하지 않았고, 2024년과 2025년에는 Black Friday 이름의 쿠폰이 사이버 먼데이까지 이어졌습니다.",
+          "블랙프라이데이에 YesStyle 쿠폰은 무엇인가요? 며칠마다 바뀝니다. 이 사이트의 YesStyle 페이지에 이번 주 코드가 확인한 날짜와 함께 나와 있습니다.",
           "YesStyle 블랙프라이데이 쿠폰에는 최소 금액이 있나요? 구간별 쿠폰에는 있습니다. US$ 79 이상 8%, US$ 149 이상 10%, US$ 199 이상 15%입니다. 금요일과 사이버 먼데이 즈음에는 YesStyle이 최소 금액 없는 15%를 열어 주는 경우가 많습니다.",
           "YesStyle은 블랙프라이데이와 사이버 먼데이 중 언제 사는 게 낫나요? 2024년과 2025년에는 둘 다 최소 금액 없는 15%였으므로 쿠폰 상한은 같았습니다. 날마다 달라지는 것은 상품별 프로모션 가격입니다.",
-          "YesStyle은 블랙프라이데이 말고도 프로모션이 있나요? 있습니다. 8%, 10%, 15%의 구간별 쿠폰이 거의 일 년 내내 진행되고, 3~4일마다 이름이 바뀝니다.",
+          "YesStyle은 블랙프라이데이 말고도 프로모션이 있나요? 있습니다. 8%, 10%, 15%의 구간별 쿠폰이 거의 일 년 내내 진행되고, 며칠마다 이름이 바뀝니다.",
           "CECILIA010은 블랙프라이데이에도 되나요? 됩니다. Reward Code 칸에 넣으며, 블랙프라이데이 쿠폰 규정에도 리워드 코드와 함께 쓸 수 있다고 되어 있습니다.",
           "YesStyle 쿠폰 두 개를 한 주문에 쓸 수 있나요? 안 됩니다. 주문당 쿠폰은 하나입니다. 리워드 코드는 다른 것이고 결제 화면의 다른 칸에 넣습니다.",
           "블랙프라이데이 쿠폰을 쓰려면 YesStyle 계정이 필요한가요? 필요합니다. 쿠폰은 회원 전용이고, 비회원으로 구매하면 할인을 받지 못합니다.",
@@ -59208,8 +59215,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-black-friday-ja",
     "locale": "ja",
     "translationKey": "yesstyle-black-friday",
-    "title": "Black Friday YesStyle 2026（ブラックフライデー）：いつ始まる？クーポンの仕組みとCECILIA010の入れ方",
-    "seoTitle": "YesStyleブラックフライデー 2026：日程・クーポン・CECILIA010",
+    "title": "Black Friday YesStyle 2026（ブラックフライデー）：もう始まってる？今週のクーポン、日程、CECILIA010の入れ方",
+    "seoTitle": "YesStyleブラックフライデー 2026：開催中・クーポン・CECILIA010",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -59220,10 +59227,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyleのブラックフライデーはいつ始まるのか。公式ページで確認できる2024年と2025年のスケジュール、段階式クーポンが一年中同じ理由、最低金額なしの15%の日、そしてリワードコードCECILIA010の併用方法をまとめました。",
-    "metaDescription": "YesStyleブラックフライデー2026：2024年と2025年のスケジュール、クーポンの段階、最低金額なしの15%の日、リワードコードCECILIA010の併用方法。",
+    "description": "YesStyleはブラックフライデーをやる？はい、すでに開催中です。11月3日時点のストアの内容、今週の段階式クーポン、2024年と2025年のスケジュール、最低金額なしの15%の日、そしてリワードコードCECILIA010の併用方法をまとめました。",
+    "metaDescription": "YesStyleにブラックフライデーはある？はい、開催中です：Mega Sale、8〜15%の段階式クーポン、最低金額なしの15%の日、リワードコードCECILIA010の併用方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59239,7 +59247,7 @@ export const reviewsData: unknown[] = [
       "YesStyleは、US$1,000未満の注文にかかった関税などの税金を、ストアクレジットで返金する"
     ],
     "cons": [
-      "2026年の日程はまだ未発表。今のスケジュールは過去の実績からの推定",
+      "2026年の終了日と最低金額なしの15%の日はまだ未発表。この先の予定は過去の実績からの推定",
       "ブラックフライデーの段階式クーポンは、通常時と同じ",
       "クーポンは会員限定で、1注文につき1枚、送料には使えない",
       "海外通販なので、地元のストアより届くまでに時間がかかる"
@@ -59248,13 +59256,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "YesStyleは2026年のブラックフライデーをまだ発表していませんが、2024年と2025年は、この名前のクーポンが11月初めに始まり、サイバーマンデーまで続きました。段階式クーポンは一年中同じ内容で、CECILIA010はそれと併用できます。判断を左右するのは最低金額なしの15%の日です。詳しくは下をご覧ください。"
+          "YesStyleのブラックフライデーは、もう始まっています。ホームにはMega Saleがあり、商品ごとのセールと最大50%OFFのバナーが並び、今週の段階式クーポンは8%、10%、15%です。CECILIA010はReward Code欄に入れて併用できます。最低金額なしの15%の日は、これからです。"
         ]
       },
       {
         "heading": "YesStyleのブラックフライデーはいつ始まる？",
         "paragraphs": [
-          "YesStyleは、各クーポンのルールを、開始日時と終了日時つきでサイトのヘルプセンターに公開しています。下の表は2025年の日程です。2024年も段階は同じ順番で、1〜2日遅れて始まりました。2026年の日程はまだ出ていません。"
+          "YesStyleは、各クーポンのルールを、開始日時と終了日時つきでサイトのヘルプセンターに公開しています。下の表は2025年の日程です。2024年も段階は同じ順番で、1〜2日遅れて始まりました。2026年はキャンペーンがすでに始まっています。11月3日時点で、ストアのホームには、商品ごとのセールと最大50%OFFのバナーが並ぶ「Black Friday Mega Sale」と、今週の段階式クーポン（US$79以上で8%、US$149以上で10%、US$199以上で15%）があり、クーポンはストアが数日ごとに替えます。通常配送はUS$35以上で無料です。2026年の終了日と最低金額なしの15%の日はまだ出ていません。"
         ],
         "comparisonTable": {
           "caption": "2025年に全会員が使えたクーポン（YesStyleのヘルプページより）。各段階は次の段階が始まるまで続きます。日時はストアの基準であるGMTです。",
@@ -59282,14 +59290,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026年のブラックフライデーは11月27日、サイバーマンデーは11月30日です。YesStyleが例年どおりなら、「Black Friday」の名前のクーポンは11月の初めに出て、最低金額なしの15%の日はこの2つの日付の近くになるはずです。あくまで過去の実績からの推定で、ストア側がすべて変えることもあります。2026年のページが出たら、このガイドを更新します。",
+          "2026年のブラックフライデーは11月27日、サイバーマンデーは11月30日です。YesStyleが例年どおりなら、最低金額なしの15%の日はこの2つの日付の近くになるはずです。あくまで過去の実績からの推定で、ストア側がすべて変えることもあります。2026年のページが出たら、このガイドを更新します。",
           "クーポンはGMTの決まった時刻に切り替わります。2025年は、段階式クーポンの切り替えがGMT 2時、最低金額なしの15%の開始がGMT 8時でした。"
         ]
       },
       {
         "heading": "ブラックフライデーのクーポンは年中同じ",
         "paragraphs": [
-          "2025年10月の段階式クーポン（Mid-Season Sale）は、11月のブラックフライデーのクーポンとまったく同じ段階でした。YesStyleがほぼ一年中実施している割引で、数日ごとに名前とコードが替わります。現在有効なクーポンは、[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)にあります。"
+          "2025年10月の段階式クーポン（Mid-Season Sale）は、11月のブラックフライデーのクーポンとまったく同じ段階でした。YesStyleがほぼ一年中実施している割引で、数日ごとに名前とコードが替わります。今週のコードは、[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)のページにあります。ストアが数日で替えるためです。"
         ],
         "comparisonTable": {
           "caption": "2024年と2025年のYesStyleの段階式クーポンの段階。ブラックフライデーの期間でもそれ以外でも同じです。割引は商品の価格に適用されます。",
@@ -59433,11 +59441,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "2026年のYesStyleのブラックフライデーはいつ始まりますか？YesStyleはまだ発表していません。2024年と2025年は、「Black Friday」の名前のクーポンが11月の最初の数日に始まり、サイバーマンデーまで続きました。",
-          "ブラックフライデーのYesStyleのクーポンは何ですか？3、4日ごとに替わります。このサイトのYesStyleのページに、現在有効なクーポンが、確認した日付つきで載っています。",
-          "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$149以上で8%、US$149以上で10%、US$199以上で15%です。金曜日とサイバーマンデーの前後は、最低金額なしの15%になることが多いです。",
+          "YesStyleのブラックフライデーはいつ始まり、いつまで続きますか？もう始まっています。ストアのホームにBlack Friday Mega Saleと今週の段階式クーポンがあります。YesStyleは終了日をまだ発表していません。2024年と2025年は、「Black Friday」の名前のクーポンがサイバーマンデーまで続きました。",
+          "ブラックフライデーのYesStyleのクーポンは何ですか？数日ごとに替わります。このサイトのYesStyleのページに、今週のコードが、確認した日付つきで載っています。",
+          "YesStyleのブラックフライデーのクーポンに最低金額はありますか？段階式クーポンにはあります。US$79以上で8%、US$149以上で10%、US$199以上で15%です。金曜日とサイバーマンデーの前後は、最低金額なしの15%になることが多いです。",
           "YesStyleは、ブラックフライデーとサイバーマンデーのどちらで買うのがお得ですか？2024年と2025年は、どちらも最低金額なしの15%だったので、クーポンの上限は同じでした。日によって変わるのは、各商品のセール価格です。",
-          "YesStyleにはブラックフライデー以外にもセールがありますか？あります。8%、10%、15%の段階式クーポンはほぼ一年中実施されていて、3、4日ごとに名前が替わります。",
+          "YesStyleにはブラックフライデー以外にもセールがありますか？あります。8%、10%、15%の段階式クーポンはほぼ一年中実施されていて、数日ごとに名前が替わります。",
           "CECILIA010はブラックフライデーでも使えますか？使えます。Reward Code欄に入力します。ブラックフライデーのクーポンのルールにも、リワードコードと併用できると書かれています。",
           "YesStyleのクーポンを同じ注文で2枚使えますか？使えません。1注文につきクーポンは1枚です。リワードコードは別のもので、チェックアウトの別の欄に入力します。",
           "YesStyleのブラックフライデーのクーポンを使うには、アカウントが必要ですか？必要です。クーポンは会員限定で、ゲスト購入では割引されません。",
@@ -59474,8 +59482,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-black-friday-zh-hant",
     "locale": "zh-hant",
     "translationKey": "yesstyle-black-friday",
-    "title": "Black Friday YesStyle 2026（黑色星期五）：何時開始、優惠券怎麼用，CECILIA010 填在哪裡",
-    "seoTitle": "YesStyle 黑色星期五 2026：日期、優惠券與 CECILIA010",
+    "title": "Black Friday YesStyle 2026（黑色星期五）：已經開始了嗎？本週優惠券、日期與 CECILIA010 填在哪裡",
+    "seoTitle": "YesStyle 黑色星期五 2026：已開始、優惠券、CECILIA010",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -59486,10 +59494,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 的黑色星期五何時開始？本文整理了從官方頁面查到的 2024 年與 2025 年日程、階梯優惠券全年相同的原因、無最低消費的 15% 日子，以及如何疊加獎勵碼 CECILIA010。",
-    "metaDescription": "YesStyle 黑色星期五 2026：2024 年與 2025 年日程、優惠券的門檻、無最低消費的 15% 日子，以及如何疊加獎勵碼 CECILIA010。",
+    "description": "YesStyle 有黑色星期五嗎？有，而且已經開始。本文整理了 11 月 3 日商店頁面的內容、本週的階梯優惠券、2024 年與 2025 年日程、無最低消費的 15% 日子，以及如何疊加獎勵碼 CECILIA010。",
+    "metaDescription": "YesStyle 有黑色星期五嗎？有，已經開始：Mega Sale、8% 至 15% 的階梯優惠券、無最低消費的 15% 日子，以及獎勵碼 CECILIA010 的疊加方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59505,7 +59514,7 @@ export const reviewsData: unknown[] = [
       "訂單低於 1,000 美元時，YesStyle 會以店鋪抵用金退還關稅等稅費"
     ],
     "cons": [
-      "2026 年的日期尚未公布：目前的日程只是依往年紀錄的推測",
+      "2026 年的結束日期和無最低消費的 15% 日子尚未公布：之後的安排只是依往年紀錄的推測",
       "黑色星期五的階梯優惠券和平常的一樣",
       "優惠券僅限會員，每筆訂單限用一張，不折抵運費",
       "這是跨境購物，送達時間比本地商店長"
@@ -59514,13 +59523,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "先說結論",
         "paragraphs": [
-          "YesStyle 還沒有公布 2026 年的黑色星期五，但在 2024 年與 2025 年，使用這個名稱的優惠券都在 11 月初開始，一直持續到網購星期一。階梯優惠券全年都一樣，CECILIA010 可與它疊加。真正影響決定的是無最低消費的 15% 日子，詳見下文。"
+          "有，YesStyle 的黑色星期五已經開始。首頁上有 Mega Sale，商品各有特價，橫幅最高標 50% off；本週的階梯優惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 欄位，可與它疊加。無最低消費的 15% 日子還沒到。"
         ]
       },
       {
         "heading": "YesStyle 黑色星期五何時開始",
         "paragraphs": [
-          "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年的還沒有公布。"
+          "YesStyle 會在網站的說明中心公布每張優惠券的規則，寫明開始與結束的日期與時間。下表是 2025 年的日期。2024 年各階段的順序相同，只是晚一兩天開始。2026 年活動已經開始：11 月 3 日，商店首頁有「Black Friday Mega Sale」，商品各有特價，橫幅最高標 50% off，還有本週的階梯優惠券（滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%），商店每隔幾天更換一次。標準運費滿 US$ 35 免運費。2026 年的結束日期和無最低消費的 15% 日子尚未公布。"
         ],
         "comparisonTable": {
           "caption": "2025 年開放給所有會員的優惠券，取自 YesStyle 說明頁面；每個階段持續到下一階段開始。日期與時間採用 GMT，這是商店的計時標準。",
@@ -59548,14 +59557,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026 年的黑色星期五是 11 月 27 日，網購星期一是 11 月 30 日。如果 YesStyle 沿用往年的模式，名為 Black Friday 的優惠券會在 11 月初出現，無最低消費的 15% 日子則會落在這兩個日期前後。這只是依往年紀錄的推測：商店可能全部改變。2026 年的頁面出來後，本指南會隨之更新。",
+          "2026 年的黑色星期五是 11 月 27 日，網購星期一是 11 月 30 日。如果 YesStyle 沿用往年的模式，無最低消費的 15% 日子會落在這兩個日期前後。這只是依往年紀錄的推測：商店可能全部改變。2026 年的頁面出來後，本指南會隨之更新。",
           "優惠券依 GMT 的固定時間切換。2025 年，階梯優惠券在 GMT 2 點切換，無最低消費的 15% 則在 GMT 8 點開始。"
         ]
       },
       {
         "heading": "黑色星期五的優惠券全年都一樣",
         "paragraphs": [
-          "2025 年 10 月的階梯優惠券（Mid-Season Sale）與 11 月黑色星期五優惠券的門檻完全相同。這是 YesStyle 幾乎全年都在推出的折扣，每隔幾天就換一次名稱與代碼。目前有效的優惠券請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。"
+          "2025 年 10 月的階梯優惠券（Mid-Season Sale）與 11 月黑色星期五優惠券的門檻完全相同。這是 YesStyle 幾乎全年都在推出的折扣，每隔幾天就換一次名稱與代碼。本週的代碼請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)頁面，因為商店幾天就會更換。"
         ],
         "comparisonTable": {
           "caption": "2024 年與 2025 年 YesStyle 階梯優惠券的門檻，黑色星期五期間與其他時間相同。折扣按商品價格計算。",
@@ -59699,11 +59708,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "2026 年 YesStyle 的黑色星期五何時開始？YesStyle 還沒有公布。2024 年與 2025 年，名稱為 Black Friday 的優惠券在 11 月的頭幾天開始，一直持續到網購星期一。",
-          "YesStyle 黑色星期五的優惠券是什麼？它每三四天換一次。本站的 YesStyle 頁面會顯示目前有效的優惠券，並標明核對的日期。",
+          "YesStyle 的黑色星期五何時開始、持續多久？已經開始：商店首頁有 Black Friday Mega Sale 和本週的階梯優惠券。YesStyle 還沒有公布結束日期；2024 年與 2025 年，名稱為 Black Friday 的優惠券一直持續到網購星期一。",
+          "YesStyle 黑色星期五的優惠券是什麼？它每隔幾天換一次。本站的 YesStyle 頁面會顯示本週的代碼，並標明核對的日期。",
           "YesStyle 黑色星期五的優惠券有最低消費嗎？階梯優惠券有：滿 US$ 79 給 8%，滿 US$ 149 給 10%，滿 US$ 199 給 15%。接近週五與網購星期一的幾天，YesStyle 通常會開放無最低消費的 15%。",
           "在 YesStyle，黑色星期五和網購星期一哪個買比較划算？2024 年與 2025 年，兩者都是無最低消費的 15%，所以優惠券的上限相同。每天不同的是每件商品的促銷價。",
-          "YesStyle 在黑色星期五以外也有促銷嗎？有。8%、10% 與 15% 的階梯優惠券幾乎全年都在，每三四天換一次名稱。",
+          "YesStyle 在黑色星期五以外也有促銷嗎？有。8%、10% 與 15% 的階梯優惠券幾乎全年都在，每隔幾天換一次名稱。",
           "CECILIA010 在黑色星期五能用嗎？能用。它填在 Reward Code 欄位，黑色星期五優惠券的規則也寫明可與獎勵碼一起使用。",
           "同一筆訂單能用兩張 YesStyle 優惠券嗎？不能：每筆訂單一張優惠券。獎勵碼是另一回事，填在結帳頁的另一個欄位。",
           "使用黑色星期五優惠券需要 YesStyle 帳號嗎？需要。優惠券僅限會員，以訪客身分購買拿不到折扣。",
@@ -59740,8 +59749,8 @@ export const reviewsData: unknown[] = [
     "slug": "yesstyle-black-friday-zh-hans",
     "locale": "zh-hans",
     "translationKey": "yesstyle-black-friday",
-    "title": "Black Friday YesStyle 2026（黑色星期五）：何时开始、优惠券怎么用，CECILIA010 填在哪里",
-    "seoTitle": "YesStyle 黑色星期五 2026：日期、优惠券与 CECILIA010",
+    "title": "Black Friday YesStyle 2026（黑色星期五）：已经开始了吗？本周优惠券、日期与 CECILIA010 填在哪里",
+    "seoTitle": "YesStyle 黑色星期五 2026：已开始、优惠券、CECILIA010",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -59752,10 +59761,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 的黑色星期五何时开始？本文整理了从官方页面查到的 2024 年和 2025 年日程、阶梯优惠券全年相同的原因、无最低消费的 15% 日子，以及如何叠加奖励码 CECILIA010。",
-    "metaDescription": "YesStyle 黑色星期五 2026：2024 年和 2025 年日程、优惠券的门槛、无最低消费的 15% 日子，以及如何叠加奖励码 CECILIA010。",
+    "description": "YesStyle 有黑色星期五吗？有，而且已经开始。本文整理了 11 月 3 日商店页面的内容、本周的阶梯优惠券、2024 年和 2025 年日程、无最低消费的 15% 日子，以及如何叠加奖励码 CECILIA010。",
+    "metaDescription": "YesStyle 有黑色星期五吗？有，已经开始：Mega Sale、8% 至 15% 的阶梯优惠券、无最低消费的 15% 日子，以及奖励码 CECILIA010 的叠加方法。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -59771,7 +59781,7 @@ export const reviewsData: unknown[] = [
       "订单低于 1,000 美元时，YesStyle 会以店铺抵用金退还关税等税费"
     ],
     "cons": [
-      "2026 年的日期尚未公布：目前的日程只是根据往年记录的推测",
+      "2026 年的结束日期和无最低消费的 15% 日子尚未公布：之后的安排只是根据往年记录的推测",
       "黑色星期五的阶梯优惠券和平时的一样",
       "优惠券仅限会员，每笔订单限用一张，不抵扣运费",
       "这是跨境购物，送达时间比本地商店长"
@@ -59780,13 +59790,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "先说结论",
         "paragraphs": [
-          "YesStyle 还没有公布 2026 年的黑色星期五，但在 2024 年和 2025 年，用这个名称的优惠券都在 11 月初开始，一直持续到网络星期一。阶梯优惠券全年都一样，CECILIA010 可与它叠加。真正影响决定的是无最低消费的 15% 日子，详见下文。"
+          "有，YesStyle 的黑色星期五已经开始。首页上有 Mega Sale，商品各有特价，横幅最高标 50% off；本周的阶梯优惠券是 8%、10% 或 15%。CECILIA010 填在 Reward Code 栏位，可与它叠加。无最低消费的 15% 日子还没到。"
         ]
       },
       {
         "heading": "YesStyle 黑色星期五何时开始",
         "paragraphs": [
-          "YesStyle 会在网站的帮助中心公布每张优惠券的规则，写明开始和结束的日期与时间。下表是 2025 年的日期。2024 年各阶段的顺序相同，只是晚一两天开始。2026 年的还没有公布。"
+          "YesStyle 会在网站的帮助中心公布每张优惠券的规则，写明开始和结束的日期与时间。下表是 2025 年的日期。2024 年各阶段的顺序相同，只是晚一两天开始。2026 年活动已经开始：11 月 3 日，商店首页有“Black Friday Mega Sale”，商品各有特价，横幅最高标 50% off，还有本周的阶梯优惠券（满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%），商店每隔几天更换一次。标准运费满 US$ 35 免运费。2026 年的结束日期和无最低消费的 15% 日子尚未公布。"
         ],
         "comparisonTable": {
           "caption": "2025 年向所有会员开放的优惠券，取自 YesStyle 帮助页面；每个阶段持续到下一阶段开始。日期和时间采用 GMT，这是商店的计时标准。",
@@ -59814,14 +59824,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026 年的黑色星期五是 11 月 27 日，网络星期一是 11 月 30 日。如果 YesStyle 沿用往年的模式，名为 Black Friday 的优惠券会在 11 月初出现，无最低消费的 15% 日子则会落在这两个日期前后。这只是根据往年记录的推测：商店可能全部改变。2026 年的页面出来后，本指南会随之更新。",
+          "2026 年的黑色星期五是 11 月 27 日，网络星期一是 11 月 30 日。如果 YesStyle 沿用往年的模式，无最低消费的 15% 日子会落在这两个日期前后。这只是根据往年记录的推测：商店可能全部改变。2026 年的页面出来后，本指南会随之更新。",
           "优惠券按 GMT 的固定时间切换。2025 年，阶梯优惠券在 GMT 2 点切换，无最低消费的 15% 则在 GMT 8 点开始。"
         ]
       },
       {
         "heading": "黑色星期五的优惠券全年都一样",
         "paragraphs": [
-          "2025 年 10 月的阶梯优惠券（Mid-Season Sale）与 11 月黑色星期五优惠券的门槛完全相同。这是 YesStyle 几乎全年都在推出的折扣，每隔几天就换一次名称和代码。当前有效的优惠券见 [YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)。"
+          "2025 年 10 月的阶梯优惠券（Mid-Season Sale）与 11 月黑色星期五优惠券的门槛完全相同。这是 YesStyle 几乎全年都在推出的折扣，每隔几天就换一次名称和代码。本周的代码见 [YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)页面，因为商店几天就会更换。"
         ],
         "comparisonTable": {
           "caption": "2024 年和 2025 年 YesStyle 阶梯优惠券的门槛，黑色星期五期间与其他时间相同。折扣按商品价格计算。",
@@ -59965,11 +59975,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "2026 年 YesStyle 的黑色星期五何时开始？YesStyle 还没有公布。2024 年和 2025 年，名称为 Black Friday 的优惠券在 11 月的头几天开始，一直持续到网络星期一。",
-          "YesStyle 黑色星期五的优惠券是什么？它每三四天换一次。本站的 YesStyle 页面会显示当前有效的优惠券，并标明核对的日期。",
+          "YesStyle 的黑色星期五何时开始、持续多久？已经开始：商店首页有 Black Friday Mega Sale 和本周的阶梯优惠券。YesStyle 还没有公布结束日期；2024 年和 2025 年，名称为 Black Friday 的优惠券一直持续到网络星期一。",
+          "YesStyle 黑色星期五的优惠券是什么？它每隔几天换一次。本站的 YesStyle 页面会显示本周的代码，并标明核对的日期。",
           "YesStyle 黑色星期五的优惠券有最低消费吗？阶梯优惠券有：满 US$ 79 给 8%，满 US$ 149 给 10%，满 US$ 199 给 15%。临近周五和网络星期一的几天，YesStyle 通常会开放无最低消费的 15%。",
           "在 YesStyle，黑色星期五和网络星期一哪个买更划算？2024 年和 2025 年，两者都是无最低消费的 15%，所以优惠券的上限相同。每天不同的是每件商品的促销价。",
-          "YesStyle 在黑色星期五以外也有促销吗？有。8%、10% 和 15% 的阶梯优惠券几乎全年都在，每三四天换一次名称。",
+          "YesStyle 在黑色星期五以外也有促销吗？有。8%、10% 和 15% 的阶梯优惠券几乎全年都在，每隔几天换一次名称。",
           "CECILIA010 在黑色星期五能用吗？能用。它填在 Reward Code 栏位，黑色星期五优惠券的规则也写明可与奖励码一起使用。",
           "同一笔订单能用两张 YesStyle 优惠券吗？不能：每笔订单一张优惠券。奖励码是另一回事，填在结账页的另一个栏位。",
           "使用黑色星期五优惠券需要 YesStyle 账号吗？需要。优惠券仅限会员，以访客身份购买拿不到折扣。",
@@ -60006,8 +60016,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein",
     "locale": "pt",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50",
-    "seoTitle": "Black Friday SHEIN 2026: datas, imposto e cupons",
+    "title": "Black Friday SHEIN 2026: quando começa, o que já está no ar (11.11) e o imposto zero até US$ 50",
+    "seoTitle": "Black Friday SHEIN 2026: quando começa e o que já está no ar",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60018,10 +60028,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando começa e até quando vai a Black Friday da SHEIN, o calendário de 2023 a 2025, o que muda com o imposto de importação zerado nos pedidos de até US$ 50, Envio Nacional ou internacional, cupons, pontos, pagamento e devolução.",
-    "metaDescription": "Black Friday SHEIN 2026: o calendário de 2023 a 2025, o imposto de importação zero até US$ 50 e o ICMS que continua, Envio Nacional, cupons, pontos e devolução.",
+    "description": "A Black Friday de 2026 cai em 27 de novembro e a SHEIN, hoje no 11.11, ainda não anunciou a campanha. O calendário de 2023 a 2025, o imposto de importação zero até US$ 50, Envio Nacional, cupons, pontos e devolução.",
+    "metaDescription": "Black Friday SHEIN 2026: cai em 27/11, a SHEIN está no 11.11 e não anunciou a campanha. Histórico de fases, imposto zero até US$ 50 e devolução.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
@@ -60044,13 +60055,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SHEIN ainda não anunciou a Black Friday de 2026, que cai em 27 de novembro. Pelo histórico, as ofertas começam antes, junto com o 11.11, e vão até o fim do mês. No pedido internacional de até US$ 50 não há imposto de importação, só ICMS; veja abaixo a conta, o cupom e o código 4CW5Y."
+          "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou data nem página da Black Friday; pelo histórico, as ofertas dela entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa no app, sem promessa de desconto."
         ]
       },
       {
         "heading": "Quando começa a Black Friday da SHEIN",
         "paragraphs": [
-          "A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases que aumentam o desconto máximo até o fim do mês. A tabela abaixo junta o que a SHEIN anunciou nos três últimos anos. O calendário de 2026 ainda não saiu."
+          "Em 3 de novembro, a página inicial da SHEIN traz a promoção do 11.11 e nenhum banner, link ou página de Black Friday. A Black Friday do calendário cai na última sexta do mês, e a SHEIN ainda não divulgou datas nem fases de 2026. A empresa junta o 11.11 e a Black Friday numa campanha só, com fases que aumentam o desconto máximo até o fim do mês. A tabela abaixo é a régua: o que a SHEIN anunciou nos três últimos anos."
         ],
         "comparisonTable": {
           "caption": "Fases e descontos máximos anunciados pela SHEIN Brasil, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
@@ -60078,7 +60089,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta. Se a SHEIN repetir o padrão, as ofertas devem começar entre o fim de outubro e o começo de novembro e ir até o fim do mês. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
+          "Em 2026, o 11.11 cai numa quarta-feira e a Black Friday numa sexta. Se a SHEIN repetir o padrão, as ofertas de Black Friday entram depois do 11.11 e vão até o fim do mês. É uma estimativa pelo histórico, e este guia é atualizado quando a SHEIN anunciar a campanha de 2026.",
           "Nos três anos, o desconto máximo subiu perto do fim: quem pode esperar ganha, e quem precisa de tamanho difícil não espera a última fase."
         ],
         "image": {
@@ -60210,8 +60221,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa a Black Friday da SHEIN em 2026? A SHEIN ainda não anunciou. Em 2024 as ofertas começaram junto com o 11.11, no fim de outubro, e em 2025 já estavam no ar no começo de novembro. A Black Friday de 2026 cai na última sexta de novembro.",
-          "A Black Friday da SHEIN vai até quando? Em 2024 e 2025, até o fim de novembro. Em 2023, até o sábado depois da Black Friday.",
+          "Quando começa e quanto dura a Black Friday da SHEIN? A Black Friday de 2026 cai na última sexta de novembro, dia 27. Hoje a SHEIN está no 11.11 e não anunciou a campanha. Pelo histórico, as ofertas de Black Friday entram depois do 11.11 e vão até o fim do mês; as fases mudam a cada ano.",
+          "A Black Friday da SHEIN vai até quando? Em 2024 e 2025, foi até o fim de novembro. Em 2023, até o sábado depois da Black Friday. A de 2026 ainda não tem data de fim.",
           "O que é o 11.11 da SHEIN? É a promoção do Dia dos Solteiros, no dia 11 do mês 11. A SHEIN junta o 11.11 e a Black Friday numa campanha só, com fases de desconto até o fim do mês.",
           "Tem imposto nas compras da SHEIN na Black Friday? Tem ICMS, de 17% a 20% conforme o estado, em toda compra internacional. O imposto de importação é zero nos pedidos de até US$ 50 e de 60%, menos US$ 30 no valor do imposto, acima disso.",
           "O imposto zero da SHEIN vale para qualquer compra? Vale para o pedido internacional de até US$ 50, contando produto e frete, já com os descontos. Acima disso, o imposto de importação volta.",
@@ -60245,8 +60256,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-dates-taxes",
     "locale": "en",
     "translationKey": "shein-black-friday",
-    "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work",
-    "seoTitle": "SHEIN Black Friday 2026: dates, coupons and points",
+    "title": "SHEIN Black Friday 2026: when it starts, what is live now (11.11) and how the 4CW5Y code works",
+    "seoTitle": "SHEIN Black Friday 2026: when it starts and what is live now",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60257,10 +60268,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "When SHEIN's Black Friday starts and ends, the 2023 to 2025 calendar, coupons, points and returns.",
-    "metaDescription": "SHEIN Black Friday 2026: the 2023 to 2025 calendar, the \"up to 90%\", coupons, points and returns.",
+    "description": "Black Friday 2026 is November 27, and SHEIN, now in its 11.11 sale, has not announced its campaign. The 2023 to 2025 calendar, coupons, points and returns.",
+    "metaDescription": "SHEIN Black Friday 2026: it falls on Nov 27, SHEIN is in its 11.11 sale and has not announced the campaign. Past phases, \"up to 90%\", points and returns.",
     "publishedAt": "October 11, 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60280,13 +60292,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "SHEIN has not yet announced the 2026 Black Friday, which falls on November 27. Going by past years, the deals start earlier, together with 11.11, and run to the end of the month. See below the calendar, the coupons, the points and the 4CW5Y code."
+          "Black Friday 2026 falls on November 27. SHEIN is in its 11.11 sale right now and has not published Black Friday dates or a page yet; going by past years, its Black Friday deals come after 11.11 and run to the end of the month. 4CW5Y is a referral code: you search for it in the app, with no discount promised."
         ]
       },
       {
         "heading": "When SHEIN's Black Friday starts",
         "paragraphs": [
-          "SHEIN combines 11.11 and Black Friday into a single campaign, with phases that raise the maximum discount until the end of the month. The table below gathers what SHEIN announced in the last three years. The 2026 calendar is not out yet."
+          "In early November, SHEIN is running its 11.11 promotion and has not published Black Friday dates or a page for 2026. Black Friday on the calendar is the last Friday of the month, and the phases and dates vary with your country's SHEIN site. SHEIN combines 11.11 and Black Friday into a single campaign, with phases that raise the maximum discount until the end of the month. The table below is the yardstick: what SHEIN announced in the last three years."
         ],
         "comparisonTable": {
           "caption": "Phases and maximum discounts announced by SHEIN, by the press that published the announcements and by the brand's profiles. The \"up to\" applies to some items.",
@@ -60314,7 +60326,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "In 2026, 11.11 falls on a Wednesday and Black Friday on a Friday. If SHEIN repeats the pattern, the deals should start between the end of October and the beginning of November and run to the end of the month. This is an estimate based on past years, and this guide is updated when SHEIN announces the 2026 campaign.",
+          "In 2026, 11.11 falls on a Wednesday and Black Friday on a Friday. If SHEIN repeats the pattern, the Black Friday deals will come after 11.11 and run to the end of the month. This is an estimate based on past years, and this guide is updated when SHEIN announces the 2026 campaign.",
           "In all three years, the maximum discount went up near the end: if you can wait, you gain, and if you need a hard-to-find size, don't wait for the last phase."
         ]
       },
@@ -60368,8 +60380,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "When does SHEIN's Black Friday start in 2026? SHEIN has not announced it yet. In 2024 the deals started together with 11.11, at the end of October, and in 2025 they were already live in early November. The 2026 Black Friday falls on the last Friday of November.",
-          "How long does SHEIN's Black Friday last? In 2024 and 2025, until the end of November. In 2023, until the Saturday after Black Friday.",
+          "When does SHEIN's Black Friday start and how long does it last? Black Friday 2026 falls on the last Friday of November, the 27th. SHEIN is in its 11.11 sale now and has not announced the campaign. Going by past years, the Black Friday deals come after 11.11 and run to the end of the month; phases change every year and by country site.",
+          "How long does SHEIN's Black Friday last? In 2024 and 2025, until the end of November. In 2023, until the Saturday after Black Friday. The 2026 one has no end date yet.",
           "What is SHEIN's 11.11? It is the Singles' Day sale, on the 11th day of the 11th month. SHEIN combines 11.11 and Black Friday into a single campaign, with discount phases until the end of the month.",
           "Can I use more than one coupon on SHEIN? One SHEIN coupon per order.",
           "Is 4CW5Y a discount coupon? No. It is Cecília's SHEIN referral code: you search for the code in the SHEIN app and see the conditions for your account.",
@@ -60399,8 +60411,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein-fechas-impuestos",
     "locale": "es",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: cuándo empieza, cuándo termina y cómo funcionan los cupones",
-    "seoTitle": "Black Friday SHEIN 2026: fechas, cupones y puntos",
+    "title": "Black Friday SHEIN 2026: cuándo es, qué hay ya en línea (11.11) y cómo funciona el código 4CW5Y",
+    "seoTitle": "Black Friday SHEIN 2026: cuándo es y qué hay ya en línea",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60411,10 +60423,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Cuándo empieza y hasta cuándo dura el Black Friday de SHEIN, el calendario de 2023 a 2025, cupones, puntos y devolución.",
-    "metaDescription": "Black Friday SHEIN 2026: el calendario de 2023 a 2025, el «hasta 90 %», cupones, puntos y devolución.",
+    "description": "El Black Friday de 2026 cae el 27 de noviembre y SHEIN, hoy en el 11.11, todavía no anunció la campaña. El calendario de 2023 a 2025, cupones, puntos y devolución.",
+    "metaDescription": "Black Friday SHEIN 2026: cae el 27/11, SHEIN está en el 11.11 y no anunció la campaña. Historial de fases, el «hasta 90 %», puntos y devolución.",
     "publishedAt": "11 de octubre de 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60434,13 +60447,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "SHEIN todavía no anunció el Black Friday de 2026, que cae el 27 de noviembre. Según el historial, las ofertas empiezan antes, junto con el 11.11, y duran hasta fin de mes. Más abajo, el calendario, los cupones, los puntos y el código 4CW5Y."
+          "El Black Friday de 2026 cae el 27 de noviembre. Hoy SHEIN está en el 11.11 y todavía no publicó fechas ni página del Black Friday; según el historial, sus ofertas entran después del 11.11 y duran hasta fin de mes. El 4CW5Y es un código de referido: se busca en la app, sin promesa de descuento."
         ]
       },
       {
         "heading": "Cuándo empieza el Black Friday de SHEIN",
         "paragraphs": [
-          "SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que van subiendo el descuento máximo hasta fin de mes. La tabla de abajo reúne lo que SHEIN anunció en los tres últimos años. El calendario de 2026 todavía no salió."
+          "A comienzos de noviembre, SHEIN tiene en marcha su promoción del 11.11 y no publicó fechas ni página del Black Friday de 2026. El Black Friday del calendario cae el último viernes del mes, y las fases y las fechas cambian según la web de SHEIN de tu país. SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases que van subiendo el descuento máximo hasta fin de mes. La tabla de abajo es la vara de medir: lo que SHEIN anunció en los tres últimos años."
         ],
         "comparisonTable": {
           "caption": "Fases y descuentos máximos anunciados por SHEIN, por la prensa que publicó los comunicados y por los perfiles de la marca. El \"hasta\" vale para algunos artículos.",
@@ -60468,7 +60481,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "En 2026, el 11.11 cae en miércoles y el Black Friday en viernes. Si SHEIN repite el patrón, las ofertas deberían empezar entre fines de octubre y comienzos de noviembre y durar hasta fin de mes. Es una estimación según el historial, y esta guía se actualiza cuando SHEIN anuncie la campaña de 2026.",
+          "En 2026, el 11.11 cae en miércoles y el Black Friday en viernes. Si SHEIN repite el patrón, las ofertas de Black Friday entrarán después del 11.11 y durarán hasta fin de mes. Es una estimación según el historial, y esta guía se actualiza cuando SHEIN anuncie la campaña de 2026.",
           "En los tres años, el descuento máximo subió cerca del final: quien puede esperar gana, y quien necesita una talla difícil no espera a la última fase."
         ]
       },
@@ -60522,8 +60535,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuándo empieza el Black Friday de SHEIN en 2026? SHEIN todavía no lo anunció. En 2024 las ofertas empezaron junto con el 11.11, a fines de octubre, y en 2025 ya estaban en línea a comienzos de noviembre. El Black Friday de 2026 cae el último viernes de noviembre.",
-          "¿Hasta cuándo dura el Black Friday de SHEIN? En 2024 y 2025, hasta fin de noviembre. En 2023, hasta el sábado después del Black Friday.",
+          "¿Cuándo empieza y cuánto dura el Black Friday de SHEIN? El Black Friday de 2026 cae el último viernes de noviembre, el día 27. Hoy SHEIN está en el 11.11 y no anunció la campaña. Según el historial, las ofertas de Black Friday entran después del 11.11 y duran hasta fin de mes; las fases cambian cada año y según la web de tu país.",
+          "¿Hasta cuándo dura el Black Friday de SHEIN? En 2024 y 2025 duró hasta fin de noviembre. En 2023, hasta el sábado después del Black Friday. El de 2026 todavía no tiene fecha de fin.",
           "¿Qué es el 11.11 de SHEIN? Es la promoción del Día de los Solteros, el día 11 del mes 11. SHEIN junta el 11.11 y el Black Friday en una sola campaña, con fases de descuento hasta fin de mes.",
           "¿Puedo usar más de un cupón en SHEIN? Un cupón de SHEIN por pedido.",
           "¿El 4CW5Y es un cupón de descuento? No. Es el código de referido de Cecília en SHEIN: buscas el código en la app de SHEIN y ves las condiciones para tu cuenta.",
@@ -60553,8 +60566,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein-dates-et-taxes",
     "locale": "fr",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026 : quand il commence, jusqu'à quand et comment fonctionnent les coupons",
-    "seoTitle": "Black Friday SHEIN 2026 : dates, coupons et points",
+    "title": "Black Friday SHEIN 2026 : quand il commence, ce qui est déjà en ligne (11.11) et comment fonctionne le code 4CW5Y",
+    "seoTitle": "Black Friday SHEIN 2026 : quand et ce qui est déjà en ligne",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60565,10 +60578,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quand commence et jusqu'à quand dure le Black Friday de SHEIN, le calendrier de 2023 à 2025, coupons, points et retour.",
-    "metaDescription": "Black Friday SHEIN 2026 : le calendrier de 2023 à 2025, le « jusqu'à 90 % », coupons, points et retour.",
+    "description": "Le Black Friday 2026 tombe le 27 novembre et SHEIN, en plein 11.11, n'a pas encore annoncé sa campagne. Le calendrier de 2023 à 2025, coupons, points et retour.",
+    "metaDescription": "Black Friday SHEIN 2026 : le 27/11, SHEIN est au 11.11 et n'a pas annoncé la campagne. Historique des phases, le « jusqu'à 90 % », points et retour.",
     "publishedAt": "11 octobre 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60588,13 +60602,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "SHEIN n'a pas encore annoncé le Black Friday 2026, qui tombe le 27 novembre. D'après l'historique, les offres commencent plus tôt, avec le 11.11, et durent jusqu'à la fin du mois. Plus bas, le calendrier, les coupons, les points et le code 4CW5Y."
+          "Le Black Friday 2026 tombe le 27 novembre. SHEIN est aujourd'hui au 11.11 et n'a publié ni dates ni page pour le Black Friday ; d'après l'historique, ses offres arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y est un code de parrainage : on le cherche dans l'appli, sans promesse de remise."
         ]
       },
       {
         "heading": "Quand commence le Black Friday de SHEIN",
         "paragraphs": [
-          "SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases qui font monter la remise maximale jusqu'à la fin du mois. Le tableau ci-dessous rassemble ce que SHEIN a annoncé ces trois dernières années. Le calendrier de 2026 n'est pas encore sorti."
+          "Début novembre, SHEIN a en cours sa promotion du 11.11 et n'a publié ni dates ni page pour le Black Friday 2026. Le Black Friday du calendrier tombe le dernier vendredi du mois, et les phases et les dates changent selon le site SHEIN de votre pays. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases qui font monter la remise maximale jusqu'à la fin du mois. Le tableau ci-dessous sert de repère : ce que SHEIN a annoncé ces trois dernières années."
         ],
         "comparisonTable": {
           "caption": "Phases et remises maximales annoncées par SHEIN, par la presse qui a publié les communiqués et par les profils de la marque. Le « jusqu'à » vaut pour certains articles.",
@@ -60622,7 +60636,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "En 2026, le 11.11 tombe un mercredi et le Black Friday un vendredi. Si SHEIN reprend le schéma, les offres devraient commencer entre fin octobre et début novembre et durer jusqu'à la fin du mois. C'est une estimation d'après l'historique, et ce guide est mis à jour quand SHEIN annoncera la campagne de 2026.",
+          "En 2026, le 11.11 tombe un mercredi et le Black Friday un vendredi. Si SHEIN reprend le schéma, les offres du Black Friday arriveront après le 11.11 et dureront jusqu'à la fin du mois. C'est une estimation d'après l'historique, et ce guide est mis à jour quand SHEIN annoncera la campagne de 2026.",
           "Ces trois années, la remise maximale a grimpé vers la fin : qui peut attendre y gagne, et qui cherche une taille difficile à trouver n'attend pas la dernière phase."
         ]
       },
@@ -60676,8 +60690,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quand commence le Black Friday de SHEIN en 2026 ? SHEIN ne l'a pas encore annoncé. En 2024, les offres ont commencé avec le 11.11, fin octobre, et en 2025 elles étaient déjà en ligne début novembre. Le Black Friday 2026 tombe le dernier vendredi de novembre.",
-          "Jusqu'à quand dure le Black Friday de SHEIN ? En 2024 et 2025, jusqu'à la fin de novembre. En 2023, jusqu'au samedi après le Black Friday.",
+          "Quand commence et combien de temps dure le Black Friday de SHEIN ? Le Black Friday 2026 tombe le dernier vendredi de novembre, le 27. SHEIN est aujourd'hui au 11.11 et n'a pas annoncé la campagne. D'après l'historique, les offres du Black Friday arrivent après le 11.11 et durent jusqu'à la fin du mois ; les phases changent chaque année et selon le site de votre pays.",
+          "Jusqu'à quand dure le Black Friday de SHEIN ? En 2024 et 2025, jusqu'à la fin de novembre. En 2023, jusqu'au samedi après le Black Friday. Celui de 2026 n'a pas encore de date de fin.",
           "Qu'est-ce que le 11.11 de SHEIN ? C'est la promotion de la Fête des célibataires, le 11 du mois 11. SHEIN réunit le 11.11 et le Black Friday dans une seule campagne, avec des phases de remise jusqu'à la fin du mois.",
           "Puis-je utiliser plus d'un coupon sur SHEIN ? Un coupon SHEIN par commande.",
           "Le 4CW5Y est-il un coupon de réduction ? Non. C'est le code de parrainage SHEIN de Cecília : vous recherchez le code dans l'appli SHEIN et voyez les conditions pour votre compte.",
@@ -60707,8 +60721,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-termine-steuern",
     "locale": "de",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: Beginn, Ende und so funktionieren die Gutscheine",
-    "seoTitle": "SHEIN Black Friday 2026: Termine, Gutscheine, Punkte",
+    "title": "Black Friday SHEIN 2026: Wann er beginnt, was schon läuft (11.11) und wie der Code 4CW5Y funktioniert",
+    "seoTitle": "SHEIN Black Friday 2026: Wann er beginnt, was schon läuft",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60719,10 +60733,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Wann der Black Friday von SHEIN beginnt und wie lange er läuft, der Kalender von 2023 bis 2025, Gutscheine, Punkte und Rückgabe.",
-    "metaDescription": "Black Friday SHEIN 2026: der Kalender von 2023 bis 2025, das „bis zu 90 %“, Gutscheine, Punkte und Rückgabe.",
+    "description": "Der Black Friday 2026 fällt auf den 27. November, und SHEIN, derzeit beim 11.11, hat die Aktion noch nicht angekündigt. Kalender von 2023 bis 2025, Gutscheine, Punkte und Rückgabe.",
+    "metaDescription": "Black Friday SHEIN 2026: fällt auf den 27.11., SHEIN ist beim 11.11 und hat die Aktion nicht angekündigt. Phasen der Vorjahre, „bis zu 90 %“, Punkte, Rückgabe.",
     "publishedAt": "11. Oktober 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60742,13 +60757,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "SHEIN hat den Black Friday 2026, der auf den 27. November fällt, noch nicht angekündigt. Nach den Vorjahren beginnen die Angebote früher, zusammen mit dem 11.11, und laufen bis Monatsende. Unten folgen der Kalender, die Gutscheine, die Punkte und der Code 4CW5Y."
+          "Der Black Friday 2026 fällt auf den 27. November. SHEIN ist derzeit beim 11.11 und hat weder Termine noch eine Seite zum Black Friday veröffentlicht; nach den Vorjahren kommen die Black-Friday-Angebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y ist ein Empfehlungscode: Sie suchen ihn in der App, ohne Rabattversprechen."
         ]
       },
       {
         "heading": "Wann der Black Friday von SHEIN beginnt",
         "paragraphs": [
-          "SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Phasen, die den Höchstrabatt bis Monatsende anheben. Die Tabelle unten stellt zusammen, was SHEIN in den letzten drei Jahren angekündigt hat. Der Kalender für 2026 ist noch nicht erschienen."
+          "Anfang November läuft bei SHEIN die 11.11-Aktion, und Termine oder eine Seite zum Black Friday 2026 gibt es noch nicht. Der Black Friday im Kalender ist der letzte Freitag des Monats, und Phasen und Termine hängen vom SHEIN-Shop Ihres Landes ab. SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Phasen, die den Höchstrabatt bis Monatsende anheben. Die Tabelle unten ist der Maßstab: was SHEIN in den letzten drei Jahren angekündigt hat."
         ],
         "comparisonTable": {
           "caption": "Phasen und Höchstrabatte, die SHEIN, die Presse, die die Mitteilungen veröffentlicht hat, und die Profile der Marke angekündigt haben. Das „bis zu“ gilt für einzelne Artikel.",
@@ -60776,7 +60791,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026 fällt der 11.11 auf einen Mittwoch und der Black Friday auf einen Freitag. Wenn SHEIN das Muster wiederholt, dürften die Angebote zwischen Ende Oktober und Anfang November beginnen und bis Monatsende laufen. Das ist eine Schätzung nach den Vorjahren, und dieser Ratgeber wird aktualisiert, sobald SHEIN die Aktion 2026 ankündigt.",
+          "2026 fällt der 11.11 auf einen Mittwoch und der Black Friday auf einen Freitag. Wenn SHEIN das Muster wiederholt, kommen die Black-Friday-Angebote nach dem 11.11 und laufen bis Monatsende. Das ist eine Schätzung nach den Vorjahren, und dieser Ratgeber wird aktualisiert, sobald SHEIN die Aktion 2026 ankündigt.",
           "In allen drei Jahren stieg der Höchstrabatt gegen Ende: Wer warten kann, gewinnt, und wer eine schwer zu findende Größe braucht, wartet nicht auf die letzte Phase."
         ]
       },
@@ -60830,8 +60845,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Wann beginnt der Black Friday von SHEIN 2026? SHEIN hat ihn noch nicht angekündigt. 2024 begannen die Angebote zusammen mit dem 11.11, Ende Oktober, und 2025 waren sie Anfang November schon online. Der Black Friday 2026 fällt auf den letzten Freitag im November.",
-          "Wie lange läuft der Black Friday von SHEIN? 2024 und 2025 bis Ende November. 2023 bis zum Samstag nach dem Black Friday.",
+          "Wann beginnt der Black Friday von SHEIN und wie lange dauert er? Der Black Friday 2026 fällt auf den letzten Freitag im November, den 27. SHEIN ist derzeit beim 11.11 und hat die Aktion nicht angekündigt. Nach den Vorjahren kommen die Black-Friday-Angebote nach dem 11.11 und laufen bis Monatsende; die Phasen ändern sich jedes Jahr und je nach Shop Ihres Landes.",
+          "Wie lange läuft der Black Friday von SHEIN? 2024 und 2025 bis Ende November. 2023 bis zum Samstag nach dem Black Friday. Der von 2026 hat noch kein Enddatum.",
           "Was ist der 11.11 von SHEIN? Das ist die Aktion zum Singles' Day, am 11. Tag des 11. Monats. SHEIN fasst den 11.11 und den Black Friday zu einer einzigen Aktion zusammen, mit Rabattphasen bis Monatsende.",
           "Kann ich bei SHEIN mehr als einen Gutschein nutzen? Ein SHEIN-Gutschein pro Bestellung.",
           "Ist 4CW5Y ein Rabattgutschein? Nein. Es ist Cecílias SHEIN-Empfehlungscode: Sie suchen den Code in der SHEIN-App und sehen die Bedingungen für Ihr Konto.",
@@ -60861,8 +60876,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein-date-e-tasse",
     "locale": "it",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e come funzionano i coupon",
-    "seoTitle": "SHEIN Black Friday 2026: date, coupon e punti",
+    "title": "Black Friday SHEIN 2026: quando inizia, cosa c'è già online (11.11) e come funziona il codice 4CW5Y",
+    "seoTitle": "Black Friday SHEIN 2026: quando è e cosa c'è già online",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -60873,10 +60888,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Quando inizia e fino a quando dura il Black Friday di SHEIN, il calendario dal 2023 al 2025, coupon, punti e reso.",
-    "metaDescription": "Black Friday SHEIN 2026: il calendario dal 2023 al 2025, il «fino al 90%», coupon, punti e reso.",
+    "description": "Il Black Friday 2026 cade il 27 novembre e SHEIN, ora nell'11.11, non ha ancora annunciato la campagna. Il calendario dal 2023 al 2025, coupon, punti e reso.",
+    "metaDescription": "Black Friday SHEIN 2026: cade il 27/11, SHEIN è nell'11.11 e non ha annunciato la campagna. Storico delle fasi, il «fino al 90%», punti e reso.",
     "publishedAt": "11 ottobre 2026",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -60896,13 +60912,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "SHEIN non ha ancora annunciato il Black Friday 2026, che cade il 27 novembre. Dallo storico, le offerte iniziano prima, insieme all'11.11, e vanno fino a fine mese. Più sotto il calendario, i coupon, i punti e il codice 4CW5Y."
+          "Il Black Friday 2026 cade il 27 novembre. Oggi SHEIN è nell'11.11 e non ha ancora pubblicato date né una pagina del Black Friday; dallo storico, le sue offerte arrivano dopo l'11.11 e vanno fino a fine mese. Il 4CW5Y è un codice di invito: si cerca nell'app, senza promessa di sconto."
         ]
       },
       {
         "heading": "Quando inizia il Black Friday di SHEIN",
         "paragraphs": [
-          "SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi che alzano lo sconto massimo fino a fine mese. La tabella qui sotto riunisce ciò che SHEIN ha annunciato negli ultimi tre anni. Il calendario del 2026 non è ancora uscito."
+          "A inizio novembre SHEIN ha in corso la promozione dell'11.11 e non ha pubblicato date né una pagina del Black Friday 2026. Il Black Friday del calendario cade l'ultimo venerdì del mese, e le fasi e le date cambiano secondo il sito SHEIN del tuo paese. SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi che alzano lo sconto massimo fino a fine mese. La tabella qui sotto è il metro di confronto: ciò che SHEIN ha annunciato negli ultimi tre anni."
         ],
         "comparisonTable": {
           "caption": "Fasi e sconti massimi annunciati da SHEIN, dalla stampa che ha pubblicato i comunicati e dai profili del marchio. Il «fino a» vale per alcuni articoli.",
@@ -60930,7 +60946,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nel 2026 l'11.11 cade di mercoledì e il Black Friday di venerdì. Se SHEIN ripete lo schema, le offerte dovrebbero iniziare tra fine ottobre e inizio novembre e arrivare a fine mese. È una stima basata sullo storico, e questa guida viene aggiornata quando SHEIN annuncerà la campagna del 2026.",
+          "Nel 2026 l'11.11 cade di mercoledì e il Black Friday di venerdì. Se SHEIN ripete lo schema, le offerte del Black Friday arriveranno dopo l'11.11 e andranno fino a fine mese. È una stima basata sullo storico, e questa guida viene aggiornata quando SHEIN annuncerà la campagna del 2026.",
           "In tutti e tre gli anni lo sconto massimo è salito verso la fine: chi può aspettare ci guadagna, e chi cerca una taglia difficile da trovare non aspetta l'ultima fase."
         ]
       },
@@ -60984,8 +61000,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Quando inizia il Black Friday di SHEIN nel 2026? SHEIN non l'ha ancora annunciato. Nel 2024 le offerte sono iniziate insieme all'11.11, a fine ottobre, e nel 2025 erano già online a inizio novembre. Il Black Friday del 2026 cade l'ultimo venerdì di novembre.",
-          "Fino a quando dura il Black Friday di SHEIN? Nel 2024 e nel 2025, fino a fine novembre. Nel 2023, fino al sabato dopo il Black Friday.",
+          "Quando inizia e quanto dura il Black Friday di SHEIN? Il Black Friday 2026 cade l'ultimo venerdì di novembre, il 27. Oggi SHEIN è nell'11.11 e non ha annunciato la campagna. Dallo storico, le offerte del Black Friday arrivano dopo l'11.11 e vanno fino a fine mese; le fasi cambiano ogni anno e secondo il sito del tuo paese.",
+          "Fino a quando dura il Black Friday di SHEIN? Nel 2024 e nel 2025, fino a fine novembre. Nel 2023, fino al sabato dopo il Black Friday. Quello del 2026 non ha ancora una data di fine.",
           "Cos'è l'11.11 di SHEIN? È la promozione del Singles' Day, l'11 del mese 11. SHEIN unisce l'11.11 e il Black Friday in un'unica campagna, con fasi di sconto fino a fine mese.",
           "Posso usare più di un coupon su SHEIN? Un coupon SHEIN per ordine.",
           "Il 4CW5Y è un coupon sconto? No. È il codice invito SHEIN di Cecília: cerchi il codice nell'app SHEIN e vedi le condizioni per il tuo account.",
@@ -61015,8 +61031,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-ko",
     "locale": "ko",
     "translationKey": "shein-black-friday",
-    "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, 쿠폰 사용 방법",
-    "seoTitle": "SHEIN 블랙프라이데이 2026: 날짜, 쿠폰, 포인트",
+    "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작 시기, 지금 진행 중인 11.11, 코드 4CW5Y 사용법",
+    "seoTitle": "SHEIN 블랙프라이데이 2026: 시작 시기와 지금 진행 중인 세일",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61027,10 +61043,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 블랙프라이데이는 언제 시작하고 언제까지 이어질까요? 2023~2025년 일정, 쿠폰, 포인트, 반품을 정리했습니다.",
-    "metaDescription": "SHEIN 블랙프라이데이 2026: 2023~2025년 일정, '최대 90%', 쿠폰, 포인트, 반품.",
+    "description": "2026년 블랙프라이데이는 11월 27일이며, SHEIN은 지금 11.11 세일 중이고 블랙프라이데이는 아직 발표하지 않았습니다. 2023~2025년 일정, 쿠폰, 포인트, 반품을 정리했습니다.",
+    "metaDescription": "SHEIN 블랙프라이데이 2026: 11월 27일, SHEIN은 11.11 세일 중이며 아직 미발표. 지난 단계, '최대 90%', 포인트, 반품.",
     "publishedAt": "2026년 10월 11일",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -61050,13 +61067,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN은 11월 27일인 2026년 블랙프라이데이를 아직 발표하지 않았습니다. 지난 기록을 보면 할인은 11.11과 함께 그보다 먼저 시작해 월말까지 이어집니다. 일정과 쿠폰, 포인트, 그리고 코드 4CW5Y는 아래에서 확인하세요."
+          "2026년 블랙프라이데이는 11월 27일입니다. SHEIN은 지금 11.11 세일 중이며 블랙프라이데이 날짜와 페이지는 아직 공개하지 않았습니다. 지난 기록을 보면 블랙프라이데이 할인은 11.11 이후에 시작해 월말까지 이어집니다. 4CW5Y는 추천 코드로, 앱에서 검색해 쓰며 할인을 약속하지 않습니다."
         ]
       },
       {
         "heading": "SHEIN 블랙프라이데이는 언제 시작할까",
         "paragraphs": [
-          "SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶고, 월말로 갈수록 단계별로 최대 할인율을 올립니다. 아래 표는 지난 3년간 SHEIN이 발표한 내용을 모은 것입니다. 2026년 일정은 아직 나오지 않았습니다."
+          "11월 초인 지금 SHEIN은 11.11 프로모션을 진행 중이며, 2026년 블랙프라이데이 날짜와 페이지는 아직 공개하지 않았습니다. 달력상 블랙프라이데이는 11월의 마지막 금요일이고, 단계와 날짜는 거주 국가의 SHEIN 사이트에 따라 다릅니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶고, 월말로 갈수록 단계별로 최대 할인율을 올립니다. 아래 표가 가늠자로, 지난 3년간 SHEIN이 발표한 내용입니다."
         ],
         "comparisonTable": {
           "caption": "SHEIN이 발표한 단계별 최대 할인율. SHEIN, 발표를 보도한 언론, 브랜드 계정의 자료입니다. '최대'는 일부 상품에만 해당합니다.",
@@ -61084,7 +61101,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026년에는 11.11이 수요일, 블랙프라이데이가 금요일입니다. SHEIN이 같은 패턴을 되풀이한다면 할인은 10월 말에서 11월 초 사이에 시작해 월말까지 이어질 것입니다. 지난 기록에 따른 추정이며, SHEIN이 2026년 캠페인을 발표하면 이 가이드를 업데이트합니다.",
+          "2026년에는 11.11이 수요일, 블랙프라이데이가 금요일입니다. SHEIN이 같은 패턴을 되풀이한다면 블랙프라이데이 할인은 11.11 이후에 시작해 월말까지 이어질 것입니다. 지난 기록에 따른 추정이며, SHEIN이 2026년 캠페인을 발표하면 이 가이드를 업데이트합니다.",
           "3년 모두 최대 할인율은 끝으로 갈수록 올랐습니다. 기다릴 수 있는 사람은 이득을 보고, 구하기 어려운 사이즈가 필요한 사람은 마지막 단계까지 기다리지 마세요."
         ]
       },
@@ -61138,8 +61155,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "2026년 SHEIN 블랙프라이데이는 언제 시작하나요? SHEIN은 아직 발표하지 않았습니다. 2024년에는 11.11과 함께 10월 말에 시작했고, 2025년에는 11월 초에 이미 진행 중이었습니다. 2026년 블랙프라이데이는 11월의 마지막 금요일입니다.",
-          "SHEIN 블랙프라이데이는 언제까지인가요? 2024년과 2025년에는 11월 말까지였습니다. 2023년에는 블랙프라이데이 다음 토요일까지였습니다.",
+          "SHEIN 블랙프라이데이는 언제 시작하고 얼마나 이어지나요? 2026년 블랙프라이데이는 11월의 마지막 금요일입니다. SHEIN은 지금 11.11 세일 중이며 캠페인은 아직 발표하지 않았습니다. 지난 기록을 보면 블랙프라이데이 할인은 11.11 이후에 시작해 월말까지 이어지며, 단계는 매년, 그리고 국가별 사이트에 따라 달라집니다.",
+          "SHEIN 블랙프라이데이는 언제까지인가요? 2024년과 2025년에는 11월 말까지였습니다. 2023년에는 블랙프라이데이 다음 토요일까지였습니다. 2026년은 아직 종료일이 없습니다.",
           "SHEIN 11.11이 무엇인가요? 11월 11일 광군제 할인입니다. SHEIN은 11.11과 블랙프라이데이를 하나의 캠페인으로 묶어 월말까지 단계별로 할인합니다.",
           "SHEIN에서 쿠폰을 두 개 이상 쓸 수 있나요? SHEIN 쿠폰은 주문당 하나입니다.",
           "4CW5Y는 할인 쿠폰인가요? 아니요. Cecília의 SHEIN 추천 코드입니다. SHEIN 앱에서 코드를 검색하면 계정의 조건을 볼 수 있습니다.",
@@ -61169,8 +61186,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-ja",
     "locale": "ja",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで続くか、クーポンの仕組み",
-    "seoTitle": "SHEIN ブラックフライデー 2026：日程・クーポン・ポイント",
+    "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まるか、今実施中の11.11、コード4CW5Yの仕組み",
+    "seoTitle": "SHEIN ブラックフライデー 2026：開始時期と今実施中のセール",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61181,10 +61198,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEINのブラックフライデーはいつ始まり、いつまで続くのか。2023〜2025年のスケジュール、クーポン、ポイント、返品をまとめました。",
-    "metaDescription": "SHEIN ブラックフライデー 2026：2023〜2025年のスケジュール、「最大90%」、クーポン、ポイント、返品。",
+    "description": "2026年のブラックフライデーは11月27日。SHEINは今11.11セールの最中で、ブラックフライデーはまだ発表していません。2023〜2025年のスケジュール、クーポン、ポイント、返品をまとめました。",
+    "metaDescription": "SHEIN ブラックフライデー 2026：11月27日。SHEINは11.11セール中で未発表。過去のフェーズ、「最大90%」、ポイント、返品。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -61204,13 +61222,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEINは、11月27日にあたる2026年のブラックフライデーをまだ発表していません。過去の実績では、セールは11.11と同時にその前から始まり、月末まで続きます。スケジュール、クーポン、ポイント、そしてコード4CW5Yは以下のとおりです。"
+          "2026年のブラックフライデーは11月27日です。SHEINは現在11.11セールの最中で、ブラックフライデーの日程やページはまだ公開していません。過去の実績では、ブラックフライデーのセールは11.11の後に始まり、月末まで続きます。4CW5Yは紹介コードで、SHEINのアプリで検索して使い、割引は約束されません。"
         ]
       },
       {
         "heading": "SHEINのブラックフライデーはいつ始まるか",
         "paragraphs": [
-          "SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末に向けて段階的に最大割引率を引き上げます。下の表は、過去3年間にSHEINが発表した内容をまとめたものです。2026年のスケジュールはまだ出ていません。"
+          "11月初めの今、SHEINは11.11セールを実施中で、2026年のブラックフライデーの日程もページもまだ公開していません。カレンダー上のブラックフライデーは11月の最後の金曜日で、フェーズと日程はお住まいの国のSHEINサイトによって異なります。SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末に向けて段階的に最大割引率を引き上げます。下の表が目安で、過去3年間にSHEINが発表した内容です。"
         ],
         "comparisonTable": {
           "caption": "SHEINが発表した各フェーズと最大割引率。SHEIN、発表を掲載したメディア、ブランドのアカウントによる情報です。「最大」は一部の商品にのみ適用されます。",
@@ -61238,7 +61256,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026年は、11.11が水曜日、ブラックフライデーが金曜日にあたります。SHEINが同じパターンを繰り返すなら、セールは10月末から11月初めの間に始まり、月末まで続くはずです。これは過去の実績からの推定で、SHEINが2026年のキャンペーンを発表したら、このガイドを更新します。",
+          "2026年は、11.11が水曜日、ブラックフライデーが金曜日にあたります。SHEINが同じパターンを繰り返すなら、ブラックフライデーのセールは11.11の後に始まり、月末まで続くはずです。これは過去の実績からの推定で、SHEINが2026年のキャンペーンを発表したら、このガイドを更新します。",
           "3年とも、最大割引率は終盤に向けて上がりました。待てる人は得をしますが、見つけにくいサイズが必要な人は、最後のフェーズまで待たないでください。"
         ]
       },
@@ -61292,8 +61310,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "2026年、SHEINのブラックフライデーはいつ始まりますか？SHEINはまだ発表していません。2024年は11.11と同時に10月末に始まり、2025年は11月初めにすでに実施されていました。2026年のブラックフライデーは、11月の最後の金曜日です。",
-          "SHEINのブラックフライデーはいつまでですか？2024年と2025年は11月末まででした。2023年は、ブラックフライデーの翌土曜日まででした。",
+          "SHEINのブラックフライデーはいつ始まり、どれくらい続きますか？2026年のブラックフライデーは11月の最後の金曜日です。SHEINは今11.11セールの最中で、キャンペーンはまだ発表していません。過去の実績では、ブラックフライデーのセールは11.11の後に始まり月末まで続きます。フェーズは毎年、そして国ごとのサイトによって変わります。",
+          "SHEINのブラックフライデーはいつまでですか？2024年と2025年は11月末まででした。2023年は、ブラックフライデーの翌土曜日まででした。2026年はまだ終了日が出ていません。",
           "SHEINの11.11とは何ですか？11月11日の独身の日のセールです。SHEINは11.11とブラックフライデーを1つのキャンペーンにまとめ、月末まで段階的に割引を行います。",
           "SHEINでクーポンを複数使えますか？SHEINのクーポンは1注文につき1枚です。",
           "4CW5Yは割引クーポンですか？いいえ。CecíliaのSHEIN紹介コードです。SHEINのアプリでコードを検索すると、ご自身のアカウントの条件が表示されます。",
@@ -61323,8 +61341,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-zh-hant",
     "locale": "zh-hant",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及優惠券怎麼用",
-    "seoTitle": "SHEIN 黑色星期五 2026：日期、優惠券與點數",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、目前進行中的 11.11，以及代碼 4CW5Y 怎麼用",
+    "seoTitle": "SHEIN 黑色星期五 2026：何時開始與目前的活動",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61335,10 +61353,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 黑色星期五何時開始、何時結束？本文整理了 2023 至 2025 年的活動時程，以及優惠券、點數與退貨。",
-    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年時程、「最高 90%」、優惠券、點數與退貨。",
+    "description": "2026 年黑色星期五是 11 月 27 日，SHEIN 目前正在辦 11.11 促銷，黑色星期五尚未公布。本文整理了 2023 至 2025 年的活動時程，以及優惠券、點數與退貨。",
+    "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，SHEIN 正辦 11.11、尚未公布。往年階段、「最高 90%」、點數與退貨。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -61358,13 +61377,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 還沒有公布 2026 年的黑色星期五，這一天是 11 月 27 日。從往年來看，優惠會隨 11.11 提前開始，一路持續到月底。下面有時程、優惠券、點數，以及代碼 4CW5Y。"
+          "2026 年黑色星期五是 11 月 27 日。SHEIN 目前正在辦 11.11 促銷，還沒有公布黑色星期五的日期和頁面；從往年來看，黑色星期五的優惠在 11.11 之後到來，持續到月底。4CW5Y 是推薦碼，要在 App 裡搜尋，不承諾任何折扣。"
         ]
       },
       {
         "heading": "SHEIN 黑色星期五何時開始",
         "paragraphs": [
-          "SHEIN 把 11.11 和黑色星期五合併成同一檔活動，分階段調高最高折扣，直到月底。下表彙整了 SHEIN 過去三年公布的內容。2026 年的時程尚未公布。"
+          "11 月初的現在，SHEIN 正在辦 11.11 促銷，還沒有公布 2026 年黑色星期五的日期和頁面。日曆上的黑色星期五是 11 月的最後一個星期五，各階段和日期會因你所在國家的 SHEIN 網站而不同。SHEIN 把 11.11 和黑色星期五合併成同一檔活動，分階段調高最高折扣，直到月底。下表是參照：SHEIN 過去三年公布的內容。"
         ],
         "comparisonTable": {
           "caption": "SHEIN 公布的各階段與最高折扣，資料來源為 SHEIN、刊登公告的媒體與品牌帳號。「最高」只適用於部分商品。",
@@ -61392,7 +61411,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用相同的模式，優惠應該會在 10 月底到 11 月初之間開始，持續到月底。這是依往年所做的推估，等 SHEIN 公布 2026 年的活動後，本指南會跟著更新。",
+          "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用相同的模式，黑色星期五的優惠會在 11.11 之後到來，持續到月底。這是依往年所做的推估，等 SHEIN 公布 2026 年的活動後，本指南會跟著更新。",
           "三年來，最高折扣都在接近月底時調高：等得起的人比較划算，需要不好買的尺寸的人，別等到最後一個階段。"
         ]
       },
@@ -61446,8 +61465,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "SHEIN 2026 年的黑色星期五何時開始？SHEIN 還沒有公布。2024 年，優惠隨 11.11 在 10 月底開始；2025 年，11 月初就已經上線。2026 年的黑色星期五是 11 月的最後一個星期五。",
-          "SHEIN 的黑色星期五持續到什麼時候？2024 年與 2025 年都持續到 11 月底。2023 年持續到黑色星期五之後的那個週六。",
+          "SHEIN 的黑色星期五何時開始、持續多久？2026 年的黑色星期五是 11 月的最後一個星期五。SHEIN 目前在辦 11.11 促銷，還沒有公布這檔活動。從往年來看，黑色星期五的優惠在 11.11 之後到來，持續到月底；階段每年不同，也因各國網站而異。",
+          "SHEIN 的黑色星期五持續到什麼時候？2024 年與 2025 年都持續到 11 月底。2023 年持續到黑色星期五之後的那個週六。2026 年還沒有結束日期。",
           "SHEIN 的 11.11 是什麼？是 11 月 11 日的光棍節促銷。SHEIN 把 11.11 和黑色星期五合併成同一檔活動，分階段打折，直到月底。",
           "在 SHEIN 可以同時使用多張優惠券嗎？每筆訂單只能使用一張 SHEIN 優惠券。",
           "4CW5Y 是折扣優惠券嗎？不是。它是 Cecília 的 SHEIN 推薦碼：你在 SHEIN App 裡搜尋這個碼，就能看到適用於你帳號的條件。",
@@ -61477,8 +61496,8 @@ export const reviewsData: unknown[] = [
     "slug": "shein-black-friday-zh-hans",
     "locale": "zh-hans",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用",
-    "seoTitle": "SHEIN 黑色星期五 2026：日期、优惠券与积分",
+    "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、眼下正在进行的 11.11，以及代码 4CW5Y 怎么用",
+    "seoTitle": "SHEIN 黑色星期五 2026：何时开始与眼下的活动",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -61489,10 +61508,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "SHEIN 黑色星期五何时开始、何时结束？本文整理了 2023 至 2025 年的活动日程，以及优惠券、积分和退货。",
-    "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年日程、“最高 90%”、优惠券、积分与退货。",
+    "description": "2026 年黑色星期五是 11 月 27 日，SHEIN 目前在办 11.11 促销，黑色星期五尚未公布。本文整理了 2023 至 2025 年的活动日程，以及优惠券、积分和退货。",
+    "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，SHEIN 正办 11.11、尚未公布。往年阶段、“最高 90%”、积分与退货。",
     "publishedAt": "2026年10月11日",
     "publishedAtISO": "2026-10-11",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -61512,13 +61532,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "SHEIN 还没有公布 2026 年的黑色星期五，这一天是 11 月 27 日。从往年来看，优惠会随 11.11 提前开始，一直持续到月底。下面有日程、优惠券、积分，以及代码 4CW5Y。"
+          "2026 年黑色星期五是 11 月 27 日。SHEIN 目前正在办 11.11 促销，还没有公布黑色星期五的日期和页面；从往年来看，黑色星期五的优惠在 11.11 之后到来，持续到月底。4CW5Y 是推荐码，要在 App 里搜索，不承诺任何折扣。"
         ]
       },
       {
         "heading": "SHEIN 黑色星期五何时开始",
         "paragraphs": [
-          "SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段提高最高折扣，直到月底。下表汇总了 SHEIN 过去三年公布的内容。2026 年的日程尚未公布。"
+          "11 月初的现在，SHEIN 正在办 11.11 促销，还没有公布 2026 年黑色星期五的日期和页面。日历上的黑色星期五是 11 月的最后一个星期五，各阶段和日期会因你所在国家的 SHEIN 站点而不同。SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段提高最高折扣，直到月底。下表是参照：SHEIN 过去三年公布的内容。"
         ],
         "comparisonTable": {
           "caption": "SHEIN 公布的各阶段与最高折扣，来源为 SHEIN、刊登公告的媒体和品牌账号。“最高”只适用于部分商品。",
@@ -61546,7 +61566,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用同样的模式，优惠应该会在 10 月底到 11 月初之间开始，持续到月底。这是根据往年做的推测，等 SHEIN 公布 2026 年的活动后，本指南会随之更新。",
+          "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用同样的模式，黑色星期五的优惠会在 11.11 之后到来，持续到月底。这是根据往年做的推测，等 SHEIN 公布 2026 年的活动后，本指南会随之更新。",
           "三年来，最高折扣都在接近月底时提高：等得起的人更划算，需要难买尺码的人不要等到最后一个阶段。"
         ]
       },
@@ -61600,8 +61620,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "SHEIN 2026 年的黑色星期五何时开始？SHEIN 还没有公布。2024 年，优惠随 11.11 在 10 月底开始；2025 年，11 月初就已经上线。2026 年的黑色星期五是 11 月的最后一个星期五。",
-          "SHEIN 的黑色星期五持续到什么时候？2024 年和 2025 年都持续到 11 月底。2023 年持续到黑色星期五之后的那个周六。",
+          "SHEIN 的黑色星期五何时开始、持续多久？2026 年的黑色星期五是 11 月的最后一个星期五。SHEIN 目前在办 11.11 促销，还没有公布这场活动。从往年来看，黑色星期五的优惠在 11.11 之后到来，持续到月底；阶段每年不同，也因各国站点而异。",
+          "SHEIN 的黑色星期五持续到什么时候？2024 年和 2025 年都持续到 11 月底。2023 年持续到黑色星期五之后的那个周六。2026 年还没有结束日期。",
           "SHEIN 的 11.11 是什么？是 11 月 11 日的光棍节促销。SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段打折，直到月底。",
           "在 SHEIN 可以同时用多张优惠券吗？每笔订单只能用一张 SHEIN 优惠券。",
           "4CW5Y 是折扣优惠券吗？不是。它是 Cecília 的 SHEIN 推荐码：你在 SHEIN App 里搜索这个码，就能看到适用于你账户的条件。",
@@ -98015,8 +98035,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-hostinger",
     "locale": "pt",
     "translationKey": "hostinger-black-friday",
-    "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha",
-    "seoTitle": "Black Friday Hostinger 2026: campanha + cupom SONAR20",
+    "title": "Black Friday Hostinger 2026: já começou, vai até 14/12 e o SONAR20 tira mais 20%",
+    "seoTitle": "Black Friday Hostinger 2026: até 14/12 + cupom SONAR20",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -98042,10 +98062,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "A Black Friday da Hostinger vai de 19/10 a 14/12/2026. O cupom SONAR20 tira mais 20% do preço da campanha. Veja a conta por plano, a renovação e como conferir antes de pagar.",
-    "metaDescription": "Black Friday Hostinger 2026: campanha de 19/10 a 14/12, e o cupom SONAR20 tira mais 20% do preço dela. Preços por plano e renovação.",
+    "description": "A Black Friday da Hostinger já começou e vai de 19/10 a 14/12/2026. O cupom SONAR20 tira mais 20% do preço da campanha. Veja a conta por plano, a renovação e como conferir antes de pagar.",
+    "metaDescription": "Black Friday Hostinger 2026 já começou e vai até 14/12. O cupom SONAR20 tira mais 20% do preço da campanha. Preços por plano e renovação.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
@@ -98056,14 +98077,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Black Friday da Hostinger já começou e vai até 14 de dezembro de 2026. O preço da campanha entra sozinho, e o código **SONAR20**, no campo de cupom do carrinho, tira mais 20% dele. O que muda a conta é a renovação, explicada abaixo."
+          "A Black Friday da Hostinger já começou: vai de 19 de outubro a 14 de dezembro de 2026. O preço da campanha entra sozinho, e o código **SONAR20**, no campo de cupom do carrinho, tira mais 20% dele. O que muda a conta é a renovação, explicada abaixo."
         ]
       },
       {
         "heading": "A Black Friday da Hostinger já começou?",
         "paragraphs": [
           "Já começou. A FAQ oficial da Hostinger diz: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026.\" A página global em inglês diz a mesma data.",
-          "O banner da página de hospedagem de sites diz \"Até 82% off\". Esse é o teto do banner, não o desconto de todo plano: no Single de 48 meses o desconto é de 80%, e o preço por plano está na tabela abaixo. O banner de VPS diz \"Até 70% off\", e o VPS fica de fora da conta deste texto, como explicamos mais abaixo.",
+          "Em 03/11, a página da campanha no Brasil mostra 80% off em hospedagem de sites, 66% em VPS e 74% no Reach (e-mail marketing). São os números dos banners, não o desconto de cada plano: o preço por plano está na tabela abaixo. O VPS fica de fora da conta deste texto, como explicamos mais abaixo.",
           "Os números abaixo são só da campanha de 2026, lidos na página oficial."
         ],
         "images": [
@@ -98127,7 +98148,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se você precisa do site no ar esta semana, não espere. Nos planos de 48 meses que conferimos, a campanha com o SONAR20 já é o menor preço.",
           "Se pode esperar, saiba que a campanha vai até meados de dezembro, mas nenhum preço fica garantido até lá. Os 20% do SONAR20 saem do preço da campanha: se a campanha mudar, o total muda junto.",
-          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner diz até 70%, e a conta deste texto não cobre esse plano.",
+          "Para a maioria dos sites pessoais, empresariais e WordPress, a própria FAQ indica o Premium. A Hostinger indica o Single para quem está começando ou tem projetos simples. Para VPS, faça a conta no carrinho: o banner mostra 66% em 03/11, e a conta deste texto não cobre esse plano.",
           "Se você já é cliente, confira as ofertas de upgrade da sua conta: a FAQ diz que clientes atuais podem receber ofertas separadas. O SONAR20 vale também para um plano novo. O Bruno, que cuida deste site, é cliente da Hostinger desde 2024, com mais de 24 meses de assinatura. Os planos dele são hospedagem Business, VPS KVM 2, e-mail e domínios, todos com renovação automática. O Em Casa com Cecília roda na Hostinger."
         ]
       },
@@ -98146,6 +98167,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
+          "Quando começa e quanto dura a Black Friday da Hostinger? Já começou e vai até meados de dezembro; as datas exatas estão na resposta rápida, no começo do artigo. A página da campanha no Brasil mostra 80% off em hospedagem de sites, 66% em VPS e 74% no Reach.",
           "A Black Friday da Hostinger tem cupom? O preço da campanha entra sozinho, e o código SONAR20, no campo de cupom do carrinho, tira mais 20% dele. Não citamos códigos de outros sites.",
           "Até quando vai a Black Friday da Hostinger? Até meados de dezembro, segundo a FAQ oficial; a data exata está no começo do artigo.",
           "O preço da Black Friday continua na renovação? Não. Ele vale para o período inicial da assinatura. A renovação sai pelo preço normal do plano.",
@@ -98186,8 +98208,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-black-friday",
     "locale": "en",
     "translationKey": "hostinger-black-friday",
-    "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price",
-    "seoTitle": "Hostinger Black Friday 2026: SONAR20 on top of the campaign",
+    "title": "Hostinger Black Friday 2026: it has started, runs to Dec 14, and SONAR20 takes another 20% off",
+    "seoTitle": "Hostinger Black Friday 2026: runs to Dec 14 + SONAR20",
     "type": "Black Friday Guide",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -98213,10 +98235,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger's Black Friday runs from October 19 to December 14, 2026. The SONAR20 coupon takes another 20% off the campaign price. See the renewal price and how to check before you pay.",
-    "metaDescription": "Hostinger Black Friday 2026: campaign from October 19 to December 14, and the SONAR20 coupon takes another 20% off its price. Renewal and how to check.",
+    "description": "Hostinger's Black Friday has already started and runs from October 19 to December 14, 2026. The SONAR20 coupon takes another 20% off the campaign price. See the renewal price and how to check before you pay.",
+    "metaDescription": "Hostinger Black Friday 2026 has started and runs until December 14. The SONAR20 coupon takes another 20% off the campaign price. Renewal and how to check.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98228,14 +98251,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, Hostinger's Black Friday has already started and runs until December 14, 2026. The campaign price applies automatically, and the code **SONAR20**, entered in the cart's coupon field, takes another 20% off it. What changes the math is the renewal, explained below."
+          "Hostinger's Black Friday has already started: it runs from October 19 to December 14, 2026. The campaign price applies automatically, and the code **SONAR20**, entered in the cart's coupon field, takes another 20% off it. What changes the math is the renewal, explained below."
         ]
       },
       {
         "heading": "Has Hostinger's Black Friday started?",
         "paragraphs": [
           "It has. Hostinger's official FAQ says: “Hostinger's Black Friday sale runs from October 19 to December 14, 2026.” The global page in English gives the same date.",
-          "The banner on the web hosting page says “Up to 82% off.” That is the banner's ceiling, not the discount on every plan: on the 48-month Single plan the discount is 80%. The VPS banner says “Up to 70% off,” and VPS is left out of the math in this article, as explained further down.",
+          "On November 3, the campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach (email marketing). Those are the banner figures, not the discount on every plan. VPS is left out of the math in this article, as explained further down.",
           "The numbers below are for the 2026 campaign only, read from the official page."
         ],
         "images": []
@@ -98252,7 +98275,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "If you need your site online this week, don't wait. On the 48-month plans we checked, the campaign with SONAR20 is already the lowest price.",
           "If you can wait, keep in mind that the campaign runs until mid-December, but no price is guaranteed until then. The 20% from SONAR20 comes off the campaign price: if the campaign changes, the total changes with it.",
-          "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner says up to 70%, and the math in this article does not cover that plan.",
+          "For most personal, business and WordPress sites, the FAQ itself recommends Premium. Hostinger recommends Single for people just starting out or with simple projects. For VPS, do the math in the cart: the banner shows 67% on November 3, and the math in this article does not cover that plan.",
           "If you are already a customer, check the upgrade offers in your account: the FAQ says existing customers may get separate offers. SONAR20 also works for a new plan. Bruno, who runs this site, has been a Hostinger customer since 2024, with more than 24 months of subscription. His plans are Business hosting, VPS KVM 2, email and domains, all with automatic renewal. Em Casa com Cecília runs on Hostinger."
         ]
       },
@@ -98271,6 +98294,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
+          "When does Hostinger's Black Friday start and how long does it last? It has already started and runs until mid-December; the exact dates are in the quick answer at the top. The campaign page in US$ shows 85% off web hosting, 67% off VPS and 75% off Reach.",
           "Does Hostinger's Black Friday have a coupon? The campaign price applies automatically, and the code SONAR20, entered in the cart's coupon field, takes another 20% off it. We don't mention codes from other sites.",
           "When does Hostinger's Black Friday end? In mid-December, according to the official FAQ; the exact date is at the start of the article.",
           "Does the Black Friday price carry over to renewal? No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",
@@ -98310,8 +98334,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-hostinger-ofertas",
     "locale": "es",
     "translationKey": "hostinger-black-friday",
-    "title": "Black Friday Hostinger 2026: el cupón SONAR20 quita un 20 % más del precio de la campaña",
-    "seoTitle": "Black Friday Hostinger 2026: campaña + cupón SONAR20",
+    "title": "Black Friday Hostinger 2026: ya empezó, dura hasta el 14/12 y SONAR20 quita un 20 % más",
+    "seoTitle": "Black Friday Hostinger 2026: hasta el 14/12 + SONAR20",
     "type": "Guía de Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -98337,10 +98361,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "La Black Friday de Hostinger va del 19 de octubre al 14 de diciembre de 2026. El cupón SONAR20 quita un 20 % más del precio de la campaña. Mira la renovación y cómo comprobarlo antes de pagar.",
-    "metaDescription": "Black Friday Hostinger 2026: campaña del 19 de octubre al 14 de diciembre, y el cupón SONAR20 quita un 20 % más de su precio. Renovación y cómo comprobarlo.",
+    "description": "La Black Friday de Hostinger ya empezó y va del 19 de octubre al 14 de diciembre de 2026. El cupón SONAR20 quita un 20 % más del precio de la campaña. Mira la renovación y cómo comprobarlo antes de pagar.",
+    "metaDescription": "Black Friday Hostinger 2026 ya empezó y dura hasta el 14 de diciembre. El cupón SONAR20 quita un 20 % más del precio de la campaña. Renovación y cómo comprobarlo.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98352,14 +98377,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, la Black Friday de Hostinger ya empezó y dura hasta el 14 de diciembre de 2026. El precio de la campaña se aplica solo, y el código **SONAR20**, en el campo de cupón del carrito, quita un 20 % más. Lo que cambia la cuenta es la renovación, explicada más abajo."
+          "La Black Friday de Hostinger ya empezó: va del 19 de octubre al 14 de diciembre de 2026. El precio de la campaña se aplica solo, y el código **SONAR20**, en el campo de cupón del carrito, quita un 20 % más. Lo que cambia la cuenta es la renovación, explicada más abajo."
         ]
       },
       {
         "heading": "¿Ya empezó la Black Friday de Hostinger?",
         "paragraphs": [
           "Ya empezó. La FAQ oficial de Hostinger dice: «La promoción Black Friday de Hostinger va del 19 de octubre al 14 de diciembre de 2026». La página global en inglés indica la misma fecha.",
-          "El banner de la página de hosting web dice «Hasta 82 % de descuento». Es el tope del banner, no el descuento de cada plan: en el Single de 48 meses el descuento es del 80 %. El banner de VPS dice «Hasta 70 % de descuento», y el VPS queda fuera de la cuenta de este texto, como explicamos más abajo.",
+          "El 3 de noviembre, la página de la campaña en US$ muestra un 85 % de descuento en hosting web, un 67 % en VPS y un 75 % en Reach (email marketing). Son las cifras de los banners, no el descuento de cada plan. El VPS queda fuera de la cuenta de este texto, como explicamos más abajo.",
           "Las cifras de abajo son solo de la campaña de 2026, leídas en la página oficial."
         ],
         "images": []
@@ -98376,7 +98401,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Si necesitas el sitio en línea esta semana, no esperes. En los planes de 48 meses que comprobamos, la campaña con SONAR20 ya es el precio más bajo.",
           "Si puedes esperar, ten en cuenta que la campaña dura hasta mediados de diciembre, pero ningún precio está garantizado hasta entonces. El 20 % de SONAR20 sale del precio de la campaña: si la campaña cambia, el total cambia con ella.",
-          "Para la mayoría de los sitios personales, empresariales y de WordPress, la propia FAQ recomienda el Premium. Hostinger recomienda el Single a quien empieza o tiene proyectos sencillos. Para VPS, haz la cuenta en el carrito: el banner dice hasta 70 %, y la cuenta de este texto no cubre ese plan.",
+          "Para la mayoría de los sitios personales, empresariales y de WordPress, la propia FAQ recomienda el Premium. Hostinger recomienda el Single a quien empieza o tiene proyectos sencillos. Para VPS, haz la cuenta en el carrito: el banner muestra un 67 % el 3 de noviembre, y la cuenta de este texto no cubre ese plan.",
           "Si ya eres cliente, revisa las ofertas de mejora de tu cuenta: la FAQ dice que los clientes actuales pueden recibir ofertas aparte. SONAR20 también vale para un plan nuevo. Bruno, que se encarga de este sitio, es cliente de Hostinger desde 2024, con más de 24 meses de suscripción. Sus planes son hosting Business, VPS KVM 2, correo y dominios, todos con renovación automática. Em Casa com Cecília funciona en Hostinger."
         ]
       },
@@ -98395,6 +98420,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
+          "¿Cuándo empieza y cuánto dura la Black Friday de Hostinger? Ya empezó y dura hasta mediados de diciembre; las fechas exactas están en la respuesta rápida, al comienzo del artículo. La página de la campaña en US$ muestra un 85 % de descuento en hosting web, un 67 % en VPS y un 75 % en Reach.",
           "¿La Black Friday de Hostinger tiene cupón? El precio de la campaña se aplica solo, y el código SONAR20, en el campo de cupón del carrito, quita un 20 % más. No citamos códigos de otros sitios.",
           "¿Hasta cuándo dura la Black Friday de Hostinger? Hasta mediados de diciembre, según la FAQ oficial; la fecha exacta está al comienzo del artículo.",
           "¿El precio de la Black Friday se mantiene en la renovación? No. Vale para el período inicial de la suscripción. La renovación se cobra al precio normal del plan.",
@@ -98434,8 +98460,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-hostinger-offres",
     "locale": "fr",
     "translationKey": "hostinger-black-friday",
-    "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne",
-    "seoTitle": "Black Friday Hostinger 2026 : campagne + code SONAR20",
+    "title": "Black Friday Hostinger 2026 : c’est parti, jusqu’au 14/12, et SONAR20 retire 20 % de plus",
+    "seoTitle": "Black Friday Hostinger 2026 : jusqu’au 14/12 + SONAR20",
     "type": "Guide Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -98461,10 +98487,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Le Black Friday de Hostinger dure du 19 octobre au 14 décembre 2026. Le code SONAR20 retire encore 20 % du prix de la campagne. Voyez le tarif de renouvellement et comment vérifier avant de payer.",
-    "metaDescription": "Black Friday Hostinger 2026 : campagne du 19 octobre au 14 décembre, et le code SONAR20 retire encore 20 % de son prix. Renouvellement et vérification.",
+    "description": "Le Black Friday de Hostinger a déjà commencé et dure du 19 octobre au 14 décembre 2026. Le code SONAR20 retire encore 20 % du prix de la campagne. Voyez le tarif de renouvellement et comment vérifier avant de payer.",
+    "metaDescription": "Black Friday Hostinger 2026 : c’est déjà parti, jusqu’au 14 décembre. Le code SONAR20 retire encore 20 % du prix de la campagne. Renouvellement et vérification.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98476,14 +98503,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, le Black Friday de Hostinger a déjà commencé et dure jusqu’au 14 décembre 2026. Le prix de la campagne s’applique automatiquement, et le code **SONAR20**, saisi dans le champ de code promo du panier, en retire encore 20 %. Ce qui change le calcul, c’est le renouvellement, expliqué plus bas."
+          "Le Black Friday de Hostinger a déjà commencé : il dure du 19 octobre au 14 décembre 2026. Le prix de la campagne s’applique automatiquement, et le code **SONAR20**, saisi dans le champ de code promo du panier, en retire encore 20 %. Ce qui change le calcul, c’est le renouvellement, expliqué plus bas."
         ]
       },
       {
         "heading": "Le Black Friday de Hostinger a-t-il déjà commencé ?",
         "paragraphs": [
           "Oui. La FAQ officielle de Hostinger indique : « La promotion Black Friday de Hostinger a lieu du 19 octobre au 14 décembre 2026. » La page mondiale en anglais donne la même date.",
-          "La bannière de la page d’hébergement web affiche « Jusqu’à 82 % de réduction ». C’est le plafond de la bannière, pas la réduction de chaque offre : pour le Single sur 48 mois, la réduction est de 80 %. La bannière VPS affiche « Jusqu’à 70 % de réduction », et le VPS reste en dehors du calcul de cet article, comme nous l’expliquons plus bas.",
+          "Le 3 novembre, la page de la campagne en US$ affiche 85 % de réduction sur l’hébergement web, 67 % sur le VPS et 75 % sur Reach (e-mail marketing). Ce sont les chiffres des bannières, pas la réduction de chaque offre. Le VPS reste en dehors du calcul de cet article, comme nous l’expliquons plus bas.",
           "Les chiffres ci-dessous concernent uniquement la campagne 2026, relevés sur la page officielle."
         ],
         "images": []
@@ -98500,7 +98527,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Si vous avez besoin de votre site en ligne cette semaine, n’attendez pas. Sur les offres en 48 mois que nous avons vérifiées, la campagne avec SONAR20 est déjà le prix le plus bas.",
           "Si vous pouvez attendre, sachez que la campagne dure jusqu’à la mi-décembre, mais qu’aucun prix n’est garanti d’ici là. Les 20 % de SONAR20 sont retirés du prix de la campagne : si la campagne change, le total change aussi.",
-          "Pour la plupart des sites personnels, professionnels et WordPress, la FAQ elle-même recommande le Premium. Hostinger recommande le Single à ceux qui débutent ou ont des projets simples. Pour un VPS, faites le calcul dans le panier : la bannière annonce jusqu’à 70 %, et le calcul de cet article ne couvre pas cette offre.",
+          "Pour la plupart des sites personnels, professionnels et WordPress, la FAQ elle-même recommande le Premium. Hostinger recommande le Single à ceux qui débutent ou ont des projets simples. Pour un VPS, faites le calcul dans le panier : la bannière affiche 67 % le 3 novembre, et le calcul de cet article ne couvre pas cette offre.",
           "Si vous êtes déjà client, consultez les offres de mise à niveau de votre compte : la FAQ indique que les clients actuels peuvent recevoir des offres distinctes. SONAR20 vaut aussi pour une nouvelle offre. Bruno, qui s’occupe de ce site, est client de Hostinger depuis 2024, avec plus de 24 mois d’abonnement. Ses offres sont l’hébergement Business, le VPS KVM 2, la messagerie et les noms de domaine, tous en renouvellement automatique. Em Casa com Cecília tourne sur Hostinger."
         ]
       },
@@ -98519,6 +98546,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
+          "Quand commence et combien de temps dure le Black Friday de Hostinger ? Il a déjà commencé et dure jusqu’à la mi-décembre ; les dates exactes sont dans la réponse rapide, au début de l’article. La page de la campagne en US$ affiche 85 % de réduction sur l’hébergement web, 67 % sur le VPS et 75 % sur Reach.",
           "Le Black Friday de Hostinger a-t-il un code promo ? Le prix de la campagne s’applique automatiquement, et le code SONAR20, saisi dans le champ de code promo du panier, en retire encore 20 %. Nous ne citons pas de codes d’autres sites.",
           "Jusqu’à quand dure le Black Friday de Hostinger ? Jusqu’à la mi-décembre, selon la FAQ officielle ; la date exacte figure au début de l’article.",
           "Le prix du Black Friday continue-t-il au renouvellement ? Non. Il vaut pour la période initiale de l’abonnement. Le renouvellement se fait au prix normal de l’offre.",
@@ -98558,8 +98586,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-black-friday-angebote",
     "locale": "de",
     "translationKey": "hostinger-black-friday",
-    "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab",
-    "seoTitle": "Hostinger Black Friday 2026: Aktion + SONAR20",
+    "title": "Hostinger Black Friday 2026: läuft schon, bis 14.12., und SONAR20 zieht weitere 20 % ab",
+    "seoTitle": "Hostinger Black Friday 2026: bis 14.12. + SONAR20",
     "type": "Black-Friday-Ratgeber",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -98585,10 +98613,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Der Black Friday von Hostinger läuft vom 19. Oktober bis zum 14. Dezember 2026. Der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Hier steht der Verlängerungspreis und wie Sie vor dem Bezahlen nachprüfen.",
-    "metaDescription": "Hostinger Black Friday 2026: Aktion vom 19. Oktober bis 14. Dezember, und der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Verlängerung und Prüfung.",
+    "description": "Der Black Friday von Hostinger hat schon begonnen und läuft vom 19. Oktober bis zum 14. Dezember 2026. Der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Hier steht der Verlängerungspreis und wie Sie vor dem Bezahlen nachprüfen.",
+    "metaDescription": "Hostinger Black Friday 2026 hat begonnen und läuft bis zum 14. Dezember. Der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Verlängerung und Prüfung.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98600,14 +98629,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurzantwort",
         "paragraphs": [
-          "Ja, der Black Friday von Hostinger hat schon begonnen und läuft bis zum 14. Dezember 2026. Der Aktionspreis gilt automatisch, und der Code **SONAR20** zieht im Gutscheinfeld des Warenkorbs weitere 20 % davon ab. Was die Rechnung verändert, ist die Verlängerung, die weiter unten erklärt wird."
+          "Der Black Friday von Hostinger hat schon begonnen: Er läuft vom 19. Oktober bis zum 14. Dezember 2026. Der Aktionspreis gilt automatisch, und der Code **SONAR20** zieht im Gutscheinfeld des Warenkorbs weitere 20 % davon ab. Was die Rechnung verändert, ist die Verlängerung, die weiter unten erklärt wird."
         ]
       },
       {
         "heading": "Hat der Black Friday von Hostinger schon begonnen?",
         "paragraphs": [
           "Ja. Die offizielle FAQ von Hostinger sagt: „Die Black-Friday-Aktion von Hostinger läuft vom 19. Oktober bis zum 14. Dezember 2026.“ Die globale Seite auf Englisch nennt dasselbe Datum.",
-          "Das Banner der Webhosting-Seite sagt „Bis zu 82 % Rabatt“. Das ist die Obergrenze des Banners, nicht der Rabatt jedes Tarifs: Beim Single mit 48 Monaten beträgt der Rabatt 80 %. Das VPS-Banner sagt „Bis zu 70 % Rabatt“, und VPS bleibt in der Rechnung dieses Textes außen vor, wie weiter unten erklärt.",
+          "Am 3. November zeigt die Kampagnenseite in US$ 85 % Rabatt auf Webhosting, 67 % auf VPS und 75 % auf Reach (E-Mail-Marketing). Das sind die Bannerzahlen, nicht der Rabatt jedes Tarifs. VPS bleibt in der Rechnung dieses Textes außen vor, wie weiter unten erklärt.",
           "Die folgenden Zahlen betreffen nur die Aktion 2026 und stammen von der offiziellen Seite."
         ],
         "images": []
@@ -98624,7 +98653,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Wenn Sie Ihre Website noch diese Woche online brauchen, warten Sie nicht. Bei den 48-Monats-Tarifen, die wir geprüft haben, ist die Aktion mit SONAR20 schon der niedrigste Preis.",
           "Wenn Sie warten können, bedenken Sie: Die Aktion läuft bis Mitte Dezember, aber bis dahin ist kein Preis garantiert. Die 20 % von SONAR20 werden vom Aktionspreis abgezogen: Ändert sich die Aktion, ändert sich auch die Summe.",
-          "Für die meisten privaten, geschäftlichen und WordPress-Websites empfiehlt die FAQ selbst den Premium. Hostinger empfiehlt den Single für alle, die gerade anfangen oder einfache Projekte haben. Für VPS rechnen Sie im Warenkorb nach: Das Banner nennt bis zu 70 %, und die Rechnung dieses Textes deckt diesen Tarif nicht ab.",
+          "Für die meisten privaten, geschäftlichen und WordPress-Websites empfiehlt die FAQ selbst den Premium. Hostinger empfiehlt den Single für alle, die gerade anfangen oder einfache Projekte haben. Für VPS rechnen Sie im Warenkorb nach: Das Banner zeigt am 3. November 67 %, und die Rechnung dieses Textes deckt diesen Tarif nicht ab.",
           "Wenn Sie schon Kunde sind, prüfen Sie die Upgrade-Angebote in Ihrem Konto: Laut FAQ können Bestandskunden gesonderte Angebote erhalten. SONAR20 gilt auch für einen neuen Tarif. Bruno, der diese Website betreut, ist seit 2024 Hostinger-Kunde, mit mehr als 24 Monaten Laufzeit. Seine Tarife sind Business-Hosting, VPS KVM 2, E-Mail und Domains, alle mit automatischer Verlängerung. Em Casa com Cecília läuft bei Hostinger."
         ]
       },
@@ -98643,6 +98672,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
+          "Wann beginnt der Black Friday von Hostinger und wie lange dauert er? Er hat schon begonnen und läuft bis Mitte Dezember; die genauen Daten stehen in der Kurzantwort am Anfang des Artikels. Die Kampagnenseite in US$ zeigt 85 % Rabatt auf Webhosting, 67 % auf VPS und 75 % auf Reach.",
           "Gibt es zum Black Friday von Hostinger einen Gutschein? Der Aktionspreis gilt automatisch, und der Code SONAR20 zieht im Gutscheinfeld des Warenkorbs weitere 20 % davon ab. Codes anderer Websites nennen wir nicht.",
           "Bis wann läuft der Black Friday von Hostinger? Laut der offiziellen FAQ bis Mitte Dezember; das genaue Datum steht am Anfang des Artikels.",
           "Gilt der Black-Friday-Preis auch bei der Verlängerung? Nein. Er gilt für den ersten Zeitraum des Abonnements. Die Verlängerung kostet den normalen Preis des Tarifs.",
@@ -98682,8 +98712,8 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-hostinger-offerte",
     "locale": "it",
     "translationKey": "hostinger-black-friday",
-    "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna",
-    "seoTitle": "Black Friday Hostinger 2026: campagna + coupon SONAR20",
+    "title": "Black Friday Hostinger 2026: è già iniziato, dura fino al 14/12 e SONAR20 toglie un altro 20%",
+    "seoTitle": "Black Friday Hostinger 2026: fino al 14/12 + SONAR20",
     "type": "Guida al Black Friday",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -98709,10 +98739,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Il Black Friday di Hostinger va dal 19 ottobre al 14 dicembre 2026. Il coupon SONAR20 toglie un altro 20% dal prezzo della campagna. Scopri il prezzo del rinnovo e come controllare prima di pagare.",
-    "metaDescription": "Black Friday Hostinger 2026: campagna dal 19 ottobre al 14 dicembre, e il coupon SONAR20 toglie un altro 20% dal suo prezzo. Rinnovo e come controllare.",
+    "description": "Il Black Friday di Hostinger è già iniziato e va dal 19 ottobre al 14 dicembre 2026. Il coupon SONAR20 toglie un altro 20% dal prezzo della campagna. Scopri il prezzo del rinnovo e come controllare prima di pagare.",
+    "metaDescription": "Black Friday Hostinger 2026 è già iniziato e dura fino al 14 dicembre. Il coupon SONAR20 toglie un altro 20% dal prezzo della campagna. Rinnovo e come controllare.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98724,14 +98755,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, il Black Friday di Hostinger è già iniziato e dura fino al 14 dicembre 2026. Il prezzo della campagna si applica da solo, e il codice **SONAR20**, nel campo coupon del carrello, ne toglie un altro 20%. Ciò che cambia il conto è il rinnovo, spiegato più sotto."
+          "Il Black Friday di Hostinger è già iniziato: va dal 19 ottobre al 14 dicembre 2026. Il prezzo della campagna si applica da solo, e il codice **SONAR20**, nel campo coupon del carrello, ne toglie un altro 20%. Ciò che cambia il conto è il rinnovo, spiegato più sotto."
         ]
       },
       {
         "heading": "Il Black Friday di Hostinger è già iniziato?",
         "paragraphs": [
           "È già iniziato. La FAQ ufficiale di Hostinger dice: «La promozione Black Friday di Hostinger si svolge dal 19 ottobre al 14 dicembre 2026». La pagina globale in inglese riporta la stessa data.",
-          "Il banner della pagina di web hosting dice «Fino all’82% di sconto». È il tetto del banner, non lo sconto di ogni piano: sul Single da 48 mesi lo sconto è dell’80%. Il banner del VPS dice «Fino al 70% di sconto», e il VPS resta fuori dal conto di questo testo, come spieghiamo più sotto.",
+          "Il 3 novembre la pagina della campagna in US$ mostra 85% di sconto sul web hosting, 67% sul VPS e 75% su Reach (email marketing). Sono le cifre dei banner, non lo sconto di ogni piano. Il VPS resta fuori dal conto di questo testo, come spieghiamo più sotto.",
           "I numeri qui sotto riguardano solo la campagna 2026, letti sulla pagina ufficiale."
         ],
         "images": []
@@ -98748,7 +98779,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se ti serve il sito online questa settimana, non aspettare. Sui piani da 48 mesi che abbiamo controllato, la campagna con SONAR20 è già il prezzo più basso.",
           "Se puoi aspettare, tieni presente che la campagna dura fino a metà dicembre, ma nessun prezzo è garantito fino ad allora. Il 20% di SONAR20 si toglie dal prezzo della campagna: se la campagna cambia, cambia anche il totale.",
-          "Per la maggior parte dei siti personali, aziendali e WordPress, la stessa FAQ indica il Premium. Hostinger indica il Single per chi inizia o ha progetti semplici. Per il VPS, fai il conto nel carrello: il banner dice fino al 70%, e il conto di questo testo non copre quel piano.",
+          "Per la maggior parte dei siti personali, aziendali e WordPress, la stessa FAQ indica il Premium. Hostinger indica il Single per chi inizia o ha progetti semplici. Per il VPS, fai il conto nel carrello: il banner mostra il 67% il 3 novembre, e il conto di questo testo non copre quel piano.",
           "Se sei già cliente, controlla le offerte di upgrade del tuo account: la FAQ dice che i clienti attuali possono ricevere offerte separate. SONAR20 vale anche per un piano nuovo. Bruno, che cura questo sito, è cliente di Hostinger dal 2024, con più di 24 mesi di abbonamento. I suoi piani sono hosting Business, VPS KVM 2, e-mail e domini, tutti con rinnovo automatico. Em Casa com Cecília gira su Hostinger."
         ]
       },
@@ -98767,6 +98798,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
+          "Quando inizia e quanto dura il Black Friday di Hostinger? È già iniziato e dura fino a metà dicembre; le date esatte sono nella risposta rapida, all’inizio dell’articolo. La pagina della campagna in US$ mostra 85% di sconto sul web hosting, 67% sul VPS e 75% su Reach.",
           "Il Black Friday di Hostinger ha un coupon? Il prezzo della campagna si applica da solo, e il codice SONAR20, nel campo coupon del carrello, ne toglie un altro 20%. Non citiamo codici di altri siti.",
           "Fino a quando dura il Black Friday di Hostinger? Fino a metà dicembre, secondo la FAQ ufficiale; la data esatta è all’inizio dell’articolo.",
           "Il prezzo del Black Friday continua al rinnovo? No. Vale per il periodo iniziale dell’abbonamento. Il rinnovo costa il prezzo normale del piano.",
@@ -98806,8 +98838,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-black-friday-ko",
     "locale": "ko",
     "translationKey": "hostinger-black-friday",
-    "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인",
-    "seoTitle": "2026 Hostinger 블랙프라이데이: 캠페인 + 쿠폰 SONAR20",
+    "title": "2026 Hostinger 블랙프라이데이: 이미 시작, 12월 14일까지, SONAR20으로 20% 더 할인",
+    "seoTitle": "2026 Hostinger 블랙프라이데이: 12/14까지 + SONAR20",
     "type": "블랙프라이데이 가이드",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -98833,10 +98865,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger 블랙프라이데이는 2026년 10월 19일부터 12월 14일까지입니다. SONAR20 쿠폰을 쓰면 캠페인 가격에서 20%가 더 빠집니다. 갱신 가격과 결제 전 확인 방법을 정리했습니다.",
-    "metaDescription": "Hostinger 블랙프라이데이 2026: 10월 19일~12월 14일 캠페인 가격에서 SONAR20 쿠폰으로 20% 추가 할인. 갱신 가격과 확인 방법.",
+    "description": "Hostinger 블랙프라이데이는 이미 시작되었고 2026년 10월 19일부터 12월 14일까지입니다. SONAR20 쿠폰을 쓰면 캠페인 가격에서 20%가 더 빠집니다. 갱신 가격과 결제 전 확인 방법을 정리했습니다.",
+    "metaDescription": "Hostinger 블랙프라이데이 2026은 이미 시작되어 12월 14일까지입니다. 캠페인 가격에서 SONAR20 쿠폰으로 20% 추가 할인. 갱신 가격과 확인 방법.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98848,14 +98881,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "네, Hostinger 블랙프라이데이는 이미 시작되었고 2026년 12월 14일까지 이어집니다. 캠페인 가격은 자동으로 적용되고, 장바구니의 쿠폰 입력란에 **SONAR20** 코드를 넣으면 그 가격에서 20%가 더 빠집니다. 계산을 바꾸는 것은 갱신 가격이며, 아래에서 설명합니다."
+          "Hostinger 블랙프라이데이는 이미 시작되었고 2026년 10월 19일부터 12월 14일까지 이어집니다. 캠페인 가격은 자동으로 적용되고, 장바구니의 쿠폰 입력란에 **SONAR20** 코드를 넣으면 그 가격에서 20%가 더 빠집니다. 계산을 바꾸는 것은 갱신 가격이며, 아래에서 설명합니다."
         ]
       },
       {
         "heading": "Hostinger 블랙프라이데이는 이미 시작되었나요?",
         "paragraphs": [
           "이미 시작되었습니다. Hostinger 공식 FAQ에는 “Hostinger 블랙프라이데이 세일은 2026년 10월 19일부터 12월 14일까지 진행됩니다.”라고 나와 있습니다. 영어 글로벌 페이지도 같은 날짜를 알려 줍니다.",
-          "웹 호스팅 페이지의 배너에는 “최대 82% 할인”이라고 적혀 있습니다. 이는 배너의 상한일 뿐 모든 요금제의 할인율이 아닙니다. 48개월 Single의 할인율은 80%입니다. VPS 배너에는 “최대 70% 할인”이라고 나와 있으며, VPS는 아래에서 설명하듯 이 글의 계산에서 제외합니다.",
+          "11월 3일 기준 US$ 캠페인 페이지에는 웹 호스팅 85% 할인, VPS 67% 할인, Reach(이메일 마케팅) 75% 할인이라고 나와 있습니다. 배너 수치일 뿐 모든 요금제의 할인율이 아닙니다. VPS는 아래에서 설명하듯 이 글의 계산에서 제외합니다.",
           "아래 숫자는 2026년 캠페인만 해당하며 공식 페이지에서 확인한 것입니다."
         ],
         "images": []
@@ -98872,7 +98905,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "이번 주 안에 사이트를 열어야 한다면 기다리지 마세요. 확인한 48개월 요금제에서는 SONAR20을 적용한 캠페인 가격이 이미 가장 낮습니다.",
           "기다릴 수 있다 해도, 캠페인은 12월 중순까지 이어지지만 그때까지 가격이 보장되지는 않습니다. SONAR20의 20%는 캠페인 가격에서 빠지므로, 캠페인이 바뀌면 합계도 함께 바뀝니다.",
-          "개인 사이트, 기업 사이트, 워드프레스 사이트 대부분에는 FAQ 자체가 Premium을 권합니다. Hostinger는 이제 막 시작하는 사람이나 단순한 프로젝트에는 Single을 권합니다. VPS는 장바구니에서 직접 계산해 보세요. 배너에는 최대 70%라고 나와 있지만, 이 글의 계산은 그 요금제를 다루지 않습니다.",
+          "개인 사이트, 기업 사이트, 워드프레스 사이트 대부분에는 FAQ 자체가 Premium을 권합니다. Hostinger는 이제 막 시작하는 사람이나 단순한 프로젝트에는 Single을 권합니다. VPS는 장바구니에서 직접 계산해 보세요. 배너에는 11월 3일 기준 67%라고 나와 있지만, 이 글의 계산은 그 요금제를 다루지 않습니다.",
           "이미 고객이라면 계정에서 업그레이드 혜택을 확인하세요. FAQ에 따르면 기존 고객에게는 별도 혜택이 제공될 수 있습니다. SONAR20은 새 요금제에도 적용됩니다. 이 사이트를 운영하는 Bruno는 2024년부터 Hostinger 고객이며 구독 기간이 24개월을 넘습니다. 요금제는 Business 호스팅, VPS KVM 2, 이메일, 도메인이고 모두 자동 갱신입니다. Em Casa com Cecília도 Hostinger에서 운영됩니다."
         ]
       },
@@ -98891,6 +98924,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
+          "Hostinger 블랙프라이데이는 언제 시작하고 얼마나 이어지나요? 이미 시작되었고 12월 중순까지 이어집니다. 정확한 날짜는 글 맨 앞의 빠른 답에 있습니다. US$ 캠페인 페이지에는 웹 호스팅 85% 할인, VPS 67% 할인, Reach 75% 할인이라고 나와 있습니다.",
           "Hostinger 블랙프라이데이에 쿠폰이 있나요? 캠페인 가격은 자동으로 적용되고, 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 그 가격에서 20%가 더 빠집니다. 다른 사이트의 코드는 다루지 않습니다.",
           "Hostinger 블랙프라이데이는 언제까지인가요? 공식 FAQ에 따르면 12월 중순까지이며, 정확한 날짜는 글 맨 앞에 있습니다.",
           "블랙프라이데이 가격이 갱신 때도 이어지나요? 아니요. 구독의 첫 번째 기간에만 적용됩니다. 갱신은 요금제의 정상 가격으로 청구됩니다.",
@@ -98930,8 +98964,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-black-friday-ja",
     "locale": "ja",
     "translationKey": "hostinger-black-friday",
-    "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%引き",
-    "seoTitle": "Hostinger ブラックフライデー 2026：キャンペーン＋SONAR20",
+    "title": "Hostinger ブラックフライデー 2026：すでに開始、12月14日まで、SONAR20でさらに20%引き",
+    "seoTitle": "Hostinger ブラックフライデー 2026：12/14まで＋SONAR20",
     "type": "ブラックフライデーガイド",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -98957,10 +98991,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostingerのブラックフライデーは2026年10月19日から12月14日までです。クーポンSONAR20で、キャンペーン価格からさらに20%引きになります。更新料金と、支払い前の確認方法をまとめました。",
-    "metaDescription": "Hostinger ブラックフライデー2026：10月19日から12月14日のキャンペーン価格に、クーポンSONAR20でさらに20%引き。更新料金と確認方法。",
+    "description": "Hostingerのブラックフライデーはすでに始まっていて、2026年10月19日から12月14日までです。クーポンSONAR20で、キャンペーン価格からさらに20%引きになります。更新料金と、支払い前の確認方法をまとめました。",
+    "metaDescription": "Hostinger ブラックフライデー2026はすでに開始、12月14日まで。キャンペーン価格に、クーポンSONAR20でさらに20%引き。更新料金と確認方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98972,14 +99007,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "はい、Hostingerのブラックフライデーはすでに始まっていて、2026年12月14日まで続きます。キャンペーン価格は自動で適用され、カートのクーポン欄にコード**SONAR20**を入れると、そこからさらに20%引きになります。計算を左右するのは更新料金で、下で説明します。"
+          "Hostingerのブラックフライデーはすでに始まっていて、2026年10月19日から12月14日まで続きます。キャンペーン価格は自動で適用され、カートのクーポン欄にコード**SONAR20**を入れると、そこからさらに20%引きになります。計算を左右するのは更新料金で、下で説明します。"
         ]
       },
       {
         "heading": "Hostingerのブラックフライデーはもう始まっていますか？",
         "paragraphs": [
           "始まっています。Hostinger公式のFAQには「Hostingerのブラックフライデーセールは2026年10月19日から12月14日まで開催されます」とあります。英語のグローバルページも同じ日付です。",
-          "ウェブホスティングのページのバナーには「最大82%オフ」とあります。これはバナーの上限で、すべてのプランの割引ではありません。48か月のSingleでは割引は80%です。VPSのバナーは「最大70%オフ」で、VPSはこの記事の計算には含めません。理由は下で説明します。",
+          "11月3日時点で、米ドル建てのキャンペーンページにはウェブホスティング85%オフ、VPS 67%オフ、Reach（メールマーケティング）75%オフと出ています。これはバナーの数字で、すべてのプランの割引ではありません。VPSはこの記事の計算には含めません。理由は下で説明します。",
           "以下の数字は2026年のキャンペーンだけのもので、公式ページで確認しました。"
         ],
         "images": []
@@ -98996,7 +99031,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "今週中にサイトを公開したいなら、待たないでください。確認した48か月プランでは、SONAR20を使ったキャンペーン価格がすでに最安です。",
           "待てる場合も、キャンペーンは12月中旬まで続きますが、それまで価格が保証されるわけではありません。SONAR20の20%はキャンペーン価格から引かれるので、キャンペーンが変われば合計も変わります。",
-          "個人サイト、ビジネスサイト、WordPressサイトの多くには、FAQ自体がPremiumを勧めています。Hostingerは、これから始める人やシンプルなプロジェクトにはSingleを勧めています。VPSはカートで計算してください。バナーは最大70%ですが、この記事の計算にはそのプランは含まれていません。",
+          "個人サイト、ビジネスサイト、WordPressサイトの多くには、FAQ自体がPremiumを勧めています。Hostingerは、これから始める人やシンプルなプロジェクトにはSingleを勧めています。VPSはカートで計算してください。バナーは11月3日時点で67%ですが、この記事の計算にはそのプランは含まれていません。",
           "すでに利用中の場合は、アカウントのアップグレード特典を確認してください。FAQによると、既存のお客様には別のオファーが出ることがあります。SONAR20は新しいプランにも使えます。このサイトを運営するBrunoは、2024年からHostingerを利用していて、契約期間は24か月を超えています。プランはBusinessホスティング、VPS KVM 2、メール、ドメインで、すべて自動更新です。Em Casa com CecíliaもHostingerで動いています。"
         ]
       },
@@ -99015,6 +99050,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
+          "Hostingerのブラックフライデーはいつ始まり、どのくらい続きますか？ すでに始まっていて、12月中旬までです。正確な日付は冒頭の結論にあります。米ドル建てのキャンペーンページにはウェブホスティング85%オフ、VPS 67%オフ、Reach 75%オフと出ています。",
           "Hostingerのブラックフライデーにクーポンはありますか？ キャンペーン価格は自動で適用され、カートのクーポン欄にコードSONAR20を入れると、そこからさらに20%引きになります。他のサイトのコードは取り上げていません。",
           "Hostingerのブラックフライデーはいつまでですか？ 公式FAQによると12月中旬までです。正確な日付は記事の冒頭にあります。",
           "ブラックフライデーの価格は更新時も続きますか？ いいえ。契約の最初の期間にだけ適用されます。更新はプランの通常価格になります。",
@@ -99054,8 +99090,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-black-friday-zh-hant",
     "locale": "zh-hant",
     "translationKey": "hostinger-black-friday",
-    "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%",
-    "seoTitle": "Hostinger 黑色星期五 2026：活動價 + SONAR20 優惠碼",
+    "title": "Hostinger 黑色星期五 2026：已經開始，到 12 月 14 日，SONAR20 再減 20%",
+    "seoTitle": "Hostinger 黑色星期五 2026：到 12/14 + SONAR20",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -99081,10 +99117,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger 的黑色星期五從 2026 年 10 月 19 日持續到 12 月 14 日。優惠碼 SONAR20 可在活動價的基礎上再減 20%。這裡有續約價格，以及付款前如何核對。",
-    "metaDescription": "Hostinger 黑色星期五 2026：活動從 10 月 19 日到 12 月 14 日，優惠碼 SONAR20 在活動價上再減 20%。續約與核對方式。",
+    "description": "Hostinger 的黑色星期五已經開始，從 2026 年 10 月 19 日持續到 12 月 14 日。優惠碼 SONAR20 可在活動價的基礎上再減 20%。這裡有續約價格，以及付款前如何核對。",
+    "metaDescription": "Hostinger 黑色星期五 2026 已經開始，持續到 12 月 14 日，優惠碼 SONAR20 在活動價上再減 20%。續約與核對方式。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -99096,14 +99133,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Hostinger 的黑色星期五已經開始，持續到 2026 年 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可在此基礎上再減 20%。真正影響費用的是續約，下方會說明。"
+          "Hostinger 的黑色星期五已經開始：從 2026 年 10 月 19 日持續到 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可在此基礎上再減 20%。真正影響費用的是續約，下方會說明。"
         ]
       },
       {
         "heading": "Hostinger 的黑色星期五已經開始了嗎？",
         "paragraphs": [
           "已經開始。Hostinger 官方 FAQ 寫道：「Hostinger 黑色星期五促銷從 2026 年 10 月 19 日持續到 12 月 14 日。」英文全球頁面給出的日期相同。",
-          "網站代管頁面的橫幅寫著「最高 82% 折扣」。這是橫幅的上限，並非每個方案的折扣：48 個月的 Single 折扣是 80%。VPS 橫幅寫著「最高 70% 折扣」，VPS 不在本文的計算範圍內，下方會說明。",
+          "11 月 3 日，美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach（電子郵件行銷）75% 折扣。這是橫幅數字，並非每個方案的折扣。VPS 不在本文的計算範圍內，下方會說明。",
           "以下數字只針對 2026 年的活動，取自官方頁面。"
         ],
         "images": []
@@ -99120,7 +99157,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "如果這週就需要讓網站上線，不要等。在我們核對過的 48 個月方案中，活動價加 SONAR20 已經是最低價。",
           "如果可以等，要知道活動持續到 12 月中旬，但在那之前沒有任何價格有保證。SONAR20 的 20% 是從活動價中扣除的：活動一變，總價也會跟著變。",
-          "對大多數個人、企業與 WordPress 網站，FAQ 本身推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。VPS 請在購物車裡自行計算：橫幅寫的是最高 70%，本文的計算不包含該方案。",
+          "對大多數個人、企業與 WordPress 網站，FAQ 本身推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。VPS 請在購物車裡自行計算：橫幅在 11 月 3 日寫的是 67%，本文的計算不包含該方案。",
           "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。負責本站的 Bruno 自 2024 年起就是 Hostinger 客戶，訂閱已超過 24 個月。他的方案有 Business 代管、VPS KVM 2、電子郵件與網域，全部自動續約。Em Casa com Cecília 就運行在 Hostinger 上。"
         ]
       },
@@ -99139,6 +99176,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
+          "Hostinger 的黑色星期五什麼時候開始，持續多久？已經開始，持續到 12 月中旬；確切日期在文章開頭的快速回答裡。美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach 75% 折扣。",
           "Hostinger 的黑色星期五有優惠碼嗎？活動價會自動套用，在購物車的優惠碼欄位輸入代碼 SONAR20，可在此基礎上再減 20%。我們不提其他網站的代碼。",
           "Hostinger 的黑色星期五到什麼時候？根據官方 FAQ，到 12 月中旬；確切日期在文章開頭。",
           "黑色星期五的價格續約時還有效嗎？沒有。它只適用於訂閱的第一個期間。續約按方案的正常價格收費。",
@@ -99178,8 +99216,8 @@ export const reviewsData: unknown[] = [
     "slug": "hostinger-black-friday-zh-hans",
     "locale": "zh-hans",
     "translationKey": "hostinger-black-friday",
-    "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%",
-    "seoTitle": "2026 Hostinger 黑色星期五：活动价 + SONAR20 优惠码",
+    "title": "2026 Hostinger 黑色星期五：已经开始，到 12 月 14 日，SONAR20 再减 20%",
+    "seoTitle": "2026 Hostinger 黑色星期五：到 12/14 + SONAR20",
     "type": "黑色星期五指南",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -99205,10 +99243,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger 的黑色星期五从 2026 年 10 月 19 日持续到 12 月 14 日。优惠码 SONAR20 可在活动价的基础上再减 20%。这里有续费价格，以及付款前如何核对。",
-    "metaDescription": "Hostinger 黑色星期五 2026：活动从 10 月 19 日到 12 月 14 日，优惠码 SONAR20 在活动价上再减 20%。续费与核对方法。",
+    "description": "Hostinger 的黑色星期五已经开始，从 2026 年 10 月 19 日持续到 12 月 14 日。优惠码 SONAR20 可在活动价的基础上再减 20%。这里有续费价格，以及付款前如何核对。",
+    "metaDescription": "Hostinger 黑色星期五 2026 已经开始，持续到 12 月 14 日，优惠码 SONAR20 在活动价上再减 20%。续费与核对方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-03",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -99220,14 +99259,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，Hostinger 的黑色星期五已经开始，持续到 2026 年 12 月 14 日。活动价会自动生效，在购物车的优惠码栏输入代码 **SONAR20**，可在此基础上再减 20%。真正影响费用的是续费，下面会说明。"
+          "Hostinger 的黑色星期五已经开始：从 2026 年 10 月 19 日持续到 12 月 14 日。活动价会自动生效，在购物车的优惠码栏输入代码 **SONAR20**，可在此基础上再减 20%。真正影响费用的是续费，下面会说明。"
         ]
       },
       {
         "heading": "Hostinger 的黑色星期五已经开始了吗？",
         "paragraphs": [
           "已经开始。Hostinger 官方 FAQ 写道：“Hostinger 黑色星期五促销从 2026 年 10 月 19 日持续到 12 月 14 日。”英文全球页面给出的日期相同。",
-          "网站托管页面的横幅写着“最高 82% 折扣”。这是横幅的上限，并非每个方案的折扣：48 个月的 Single 折扣是 80%。VPS 横幅写着“最高 70% 折扣”，VPS 不在本文的计算范围内，下面会说明。",
+          "11 月 3 日，美元版活动页面显示网站托管 85% 折扣、VPS 67% 折扣、Reach（邮件营销）75% 折扣。这是横幅数字，并非每个方案的折扣。VPS 不在本文的计算范围内，下面会说明。",
           "以下数字只针对 2026 年的活动，取自官方页面。"
         ],
         "images": []
@@ -99244,7 +99283,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "如果这周就需要让网站上线，不要等。在我们核对过的 48 个月方案里，活动价加 SONAR20 已经是最低价。",
           "如果可以等，要知道活动持续到 12 月中旬，但在那之前没有任何价格有保证。SONAR20 的 20% 是从活动价里减的：活动一变，总价也会跟着变。",
-          "对大多数个人、企业和 WordPress 网站，FAQ 本身推荐 Premium。Hostinger 建议刚起步或项目简单的用户选 Single。VPS 请在购物车里自己算：横幅写的是最高 70%，本文的计算不包含该方案。",
+          "对大多数个人、企业和 WordPress 网站，FAQ 本身推荐 Premium。Hostinger 建议刚起步或项目简单的用户选 Single。VPS 请在购物车里自己算：横幅在 11 月 3 日写的是 67%，本文的计算不包含该方案。",
           "如果你已经是客户，请查看账户里的升级优惠：FAQ 说现有客户可能会收到单独的优惠。SONAR20 也适用于新方案。负责本站的 Bruno 从 2024 年起就是 Hostinger 客户，订阅已超过 24 个月。他的方案有 Business 托管、VPS KVM 2、邮箱和域名，全部自动续费。Em Casa com Cecília 就运行在 Hostinger 上。"
         ]
       },
@@ -99263,6 +99302,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
+          "Hostinger 的黑色星期五什么时候开始，持续多久？已经开始，持续到 12 月中旬；确切日期在文章开头的快速回答里。美元版活动页面显示网站托管 85% 折扣、VPS 67% 折扣、Reach 75% 折扣。",
           "Hostinger 的黑色星期五有优惠码吗？活动价会自动生效，在购物车的优惠码栏输入代码 SONAR20，可在此基础上再减 20%。我们不提其他网站的代码。",
           "Hostinger 的黑色星期五到什么时候？据官方 FAQ，到 12 月中旬；确切日期在文章开头。",
           "黑色星期五的价格续费时还有效吗？没有。它只适用于订阅的首个周期。续费按方案的正常价格收取。",
