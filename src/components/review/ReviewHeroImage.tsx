@@ -20,8 +20,6 @@ export interface ReviewHeroImageProps {
   compact?: boolean;
   slug?: string;
   locale?: Locale;
-  // A largura renderizada, quando o topo trava a foto (a capa larga fica com a largura do texto).
-  sizes?: string;
   video?: {
     mp4: string;
     webm?: string;
@@ -55,7 +53,6 @@ export function ReviewHeroImage({
   compact = false,
   slug,
   locale = 'pt',
-  sizes,
   video,
 }: ReviewHeroImageProps): React.ReactElement {
   const effectivePortrait = imageAspect === 'portrait' || (!imageAspect && isPortrait);
@@ -187,10 +184,9 @@ export function ReviewHeroImage({
                       : 'object-cover transition-transform duration-700 group-hover:scale-[1.03]'
             }
             sizes={
-              sizes ??
-              (isPortrait
+              isPortrait
                 ? '(max-width: 768px) 100vw, 672px'
-                : '(max-width: 1200px) 100vw, 1100px')
+                : '(max-width: 1200px) 100vw, 1100px'
             }
             priority
           />

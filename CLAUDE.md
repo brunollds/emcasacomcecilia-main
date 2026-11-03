@@ -243,13 +243,11 @@ vídeo, primeiras impressões e uso noturno.
 - Com a gaveta aberta, o resto da página fica inerte. O que precisa de foco nesse momento vai
   dentro do `<dialog>`, como o fallback de cópia de `clipboardUtils.ts`.
 - As peças do visual da D2 ficam em `src/components/review/article/`; o `ReviewNotebookTemplate` só as
-  monta. `ArticleHeader`: trilha "Guias & Análises", a foto, título, subtítulo (13px no celular), linha de dados e o
-  recorte do topo. A capa larga (`isHeroFirst`, de `heroOrder.ts`: `imageAspect` ou o `aspect` do vídeo do topo
-  `landscape`) abre o artigo logo abaixo da trilha, com a largura do texto (`max-w-3xl`, `sizes` de 768px); retrato,
-  quadrado e editorial sem `imageAspect` vão para o fim do topo, depois do recorte, para o título não sair da primeira
-  tela do celular. O `test:build-output` confere a ordem em todo artigo. A capa do Discover vale pelo arquivo
-  (1600×900 no `og:image` e no JSON-LD), não pela largura na tela.
-  `ArticleCouponCutout` tem três variantes, `top` (o fim do topo, antes da Resposta rápida), `end` (bloco da
+  monta. `ArticleHeader`: trilha "Guias & Análises", título, subtítulo (13px no celular, 16px no computador), linha
+  de dados, o recorte do topo e a foto. Na linha de dados do celular, o "Ouvir" curto (`listenShort`, `articleCopy.ts`)
+  vem logo depois do autor e da data, com o mês abreviado; o tempo de leitura, a atualização e a nota descem
+  (`max-md:order-1`). A foto antes do título ficou no ar de 03/11 (#518) até a volta, a pedido do Bruno.
+  `ArticleCouponCutout` tem três variantes, `top` (abaixo da introdução, acima da foto), `end` (bloco da
   loja) e `sidebar`; o copiar é o `CopyCodeButton`, com a tesoura e o verde de `/cupons`. O `top` e o `sidebar` usam
   os botões compactos (`PRIMARY_ACTION_COMPACT` e `SECONDARY_ACTION_COMPACT`, de `CouponBlocks.tsx`: 44px no
   celular); `/cupons`, as páginas de loja e o `end` seguem com os de sempre. O fim
