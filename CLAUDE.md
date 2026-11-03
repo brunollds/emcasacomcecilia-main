@@ -217,6 +217,10 @@ vídeo, primeiras impressões e uso noturno.
   artigos de antes da regra (31/10/2026) estão em `scripts/review-prose-baseline.json`, que só encolhe: artigo fora
   dela que fura a regra, ou artigo dela que piora, quebra o build, e quem corrige um artigo baixa ou tira a entrada
   dele, como o erro pede.
+- Subtítulo (`description`) com no máximo 180 caracteres em todo idioma (`MAX_DESCRIPTION_LENGTH`, em
+  `scripts/review-prose-checks.ts`; o `validate:content` barra): uma ou duas frases, de 150 a 180, nunca o sumário do
+  artigo. Ele sai embaixo do título, no JSON-LD, no `llms.txt` e no começo do "Ouvir"; o snippet do Google usa o
+  `metaDescription`.
 - O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 

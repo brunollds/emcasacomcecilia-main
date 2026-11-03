@@ -31,6 +31,7 @@ import {
   findDates,
   getProseProblems,
   isBodyDatesReason,
+  MAX_DESCRIPTION_LENGTH,
   type ProseBaselineEntry,
 } from './review-prose-checks';
 import proseBaselineJson from './review-prose-baseline.json';
@@ -698,6 +699,19 @@ for (const review of reviews) {
 for (const slug of Object.keys(proseBaseline)) {
   if (!portugueseSlugs.has(slug)) {
     reportError({ type: 'review', id: -1, slug, message: 'scripts/review-prose-baseline.json cita um artigo em português que não existe' });
+  }
+}
+
+// Subtítulo curto em todo idioma, rascunho inclusive.
+for (const review of reviews) {
+  const length = [...review.description].length;
+  if (length > MAX_DESCRIPTION_LENGTH) {
+    reportError({
+      type: 'review',
+      id: review.id,
+      slug: review.slug,
+      message: `subtítulo (description) com ${length} caracteres, máximo ${MAX_DESCRIPTION_LENGTH}: uma ou duas frases, não o sumário`,
+    });
   }
 }
 

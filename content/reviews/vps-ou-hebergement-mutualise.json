@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Un site ordinaire se porte bien sur un hébergement mutualisé ; un VPS seulement avec un système propre, des ressources réservées ou l'accès root. Tableau par scénario et specs des KVM.",
+  "description": "Un hébergement mutualisé suffit pour un site ordinaire ; le VPS ne se justifie qu'avec un système propre, des ressources réservées ou l'accès root. Voyez le tableau par scénario.",
   "metaDescription": "VPS ou hébergement mutualisé chez Hostinger : ce qu'est chacun, tableau par scénario, specs des KVM 1 à 8 et ce qui reste à votre charge en maintenance.",
   "publishedAt": "28 octobre 2026",
   "publishedAtISO": "2026-10-28",
