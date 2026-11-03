@@ -177766,5 +177766,978 @@ export const reviewsData: unknown[] = [
         "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
       }
     ]
+  },
+  {
+    "id": 780,
+    "slug": "simple-organic-e-confiavel",
+    "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas",
+    "seoTitle": "Simple Organic é confiável? CNPJ, site oficial e trocas",
+    "type": "Editorial",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Quem opera a Simple Organic, a ligação com a Hypera Pharma, como conferir o site oficial, as lojas próprias e o que a loja diz sobre trocas, frete e pagamento.",
+    "metaDescription": "Simple Organic é confiável? A marca é da Simple Organic Beauty S.A., de Florianópolis, com CNPJ ativo e, pela marca, parte da Hypera desde 2020. Veja trocas, frete, lojas e o site oficial.",
+    "publishedAt": "3 de novembro de 2026",
+    "publishedAtISO": "2026-11-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
+    "imageAlt": "Kit Rotina Pele Sensível da Simple Organic, em foto oficial da loja, com o logo da marca, a pergunta Simple Organic é confiável? e os selos RA1000 e Empresa Verificada do perfil no Reclame Aqui",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim. A Simple Organic é a marca da Simple Organic Beauty S.A., empresa ativa de Florianópolis com o CNPJ no rodapé do site e, pela própria marca, parte da Hypera Pharma desde 2020. O que pesa é o prazo de troca, só 7 dias com o lacre inviolado; veja abaixo se ele cabe na sua compra."
+        ]
+      },
+      {
+        "heading": "Simple Organic é da Hypera?",
+        "paragraphs": [
+          "É, pelo que a própria marca conta: a página Sobre nós diz que a Simple faz parte da Hypera Pharma desde 2020. Antes disso, a marca se apresenta como brasileira, de Florianópolis, nascida em 2017. O dono conhecido muda a leitura de quem compra: por trás da loja há um grupo farmacêutico, e a empresa do site tem CNPJ ativo.",
+          "A empresa que opera o site é a Simple Organic Beauty S.A. O rodapé traz o CNPJ e o endereço do escritório e showroom, no centro de Florianópolis, e a consulta pública do CNPJ bate com o rodapé: empresa ativa, sociedade anônima fechada, com atividade de comércio varejista de cosméticos. O ano de abertura do CNPJ, 2016, vem antes do ano que a marca dá como nascimento; os dois estão no quadro, cada um com a sua origem."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Ponto",
+            "O que aparece"
+          ],
+          "rows": [
+            [
+              "Razão social",
+              "SIMPLE ORGANIC BEAUTY S.A."
+            ],
+            [
+              "CNPJ",
+              "24.692.452/0001-40"
+            ],
+            [
+              "Situação",
+              "Ativa, S.A. fechada, comércio varejista de cosméticos"
+            ],
+            [
+              "Abertura do CNPJ (consulta pública)",
+              "2016"
+            ],
+            [
+              "Nascimento da marca (página Sobre nós)",
+              "2017, em Florianópolis"
+            ],
+            [
+              "Controle (página Sobre nós)",
+              "Hypera Pharma, desde 2020"
+            ],
+            [
+              "Domínio simpleorganic.com.br",
+              "Registrado em 2017, ativo"
+            ],
+            [
+              "Endereço do rodapé",
+              "Praça Getulio Vargas, 268, Centro, Florianópolis (SC)"
+            ]
+          ],
+          "caption": "Rodapé do site, consulta pública do CNPJ e registro do domínio, lidos em 03/11."
+        },
+        "postParagraphs": [
+          "O nome na embalagem e no logo é só \"SIMPLE\"; o site e o domínio são Simple Organic. É a mesma marca, com o nome curto na frente e o nome completo no endereço."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-logo.webp",
+            "alt": "Logo da Simple Organic: a palavra SIMPLE em letras pretas sobre fundo branco",
+            "caption": "Na embalagem e no logo, a marca assina só SIMPLE; o site e o domínio usam Simple Organic. Logo: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Como saber se você está no site oficial",
+        "paragraphs": [
+          "O endereço oficial é simpleorganic.com.br. Antes de digitar qualquer dado, confira o endereço na barra do navegador, principalmente se o link chegou por anúncio ou mensagem.",
+          "Depois, role até o rodapé. Ele traz o CNPJ e o endereço em Florianópolis. Compare o número com a consulta pública do CNPJ: deve aparecer a Simple Organic Beauty S.A., ativa. O perfil da marca no Reclame Aqui usa esse mesmo CNPJ, então o número fecha dos dois lados.",
+          "Faça a compra dentro do site, e não por um link que chegou em mensagem. Endereço parecido, com outra terminação ou com uma letra a mais, não é a loja: na dúvida, digite você o endereço."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-site-oficial-home.webp",
+            "alt": "Print da home do site oficial da Simple Organic, com o logo SIMPLE e o menu no topo e três fotos de campanha: maquiagem, skincare e tipo de pele",
+            "caption": "A home do site oficial, simpleorganic.com.br, com o logo SIMPLE e o menu de produtos no topo. Print do site da Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 2.7491,
+            "href": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA"
+          }
+        ]
+      },
+      {
+        "heading": "Lojas físicas e farmácias",
+        "paragraphs": [
+          "Tem loja física, e em cidade grande: a página Onde encontrar do site lista 10 pontos, as \"Lojas Simple\", quase todos em shopping. Se a sua cidade está na lista, dá para ver o produto antes de comprar; se não está, a loja online é o caminho."
+        ],
+        "bullets": [
+          "Belo Horizonte (Pátio Savassi)",
+          "Campinas (Iguatemi)",
+          "Curitiba (Alameda Prudente de Moraes)",
+          "Florianópolis (showroom, no mesmo endereço do rodapé)",
+          "Fortaleza (RioMar)",
+          "Porto Alegre (Pátio 24)",
+          "Rio de Janeiro (Shopping Tijuca e Leblon)",
+          "São Caetano do Sul (ParkShopping)",
+          "São Paulo (Oscar Freire, nos Jardins)"
+        ],
+        "postParagraphs": [
+          "Cada loja tem WhatsApp, e-mail e entrega por delivery, pela mesma página. Brasília não está na lista: quem busca \"loja Simple Organic Brasília\" compra pelo site ou procura uma farmácia na busca do site, que lista redes e lojas independentes.",
+          "Uma coisa que a página não diz: o nosso código é da loja online. Não conte com ele na loja física nem na farmácia."
+        ]
+      },
+      {
+        "heading": "Trocas e devolução",
+        "paragraphs": [
+          "O prazo é curto, e é a regra que mais pesa aqui: 7 dias corridos depois do recebimento, para troca ou desistência, com o produto na embalagem original, sem uso e com o lacre inviolado. Na prática, o lacre decide: produto aberto não volta.",
+          "O pedido vai por e-mail ao atendimento, com o número do pedido. Guarde esse número e a embalagem até ter certeza de que fica com o produto.",
+          "Quem comprou na loja física tem outro caminho: o FAQ do site separa \"problema com um pedido feito na loja física\" de \"pedido na loja online\". Se o seu caso é da loja, fale com a loja; o e-mail e o WhatsApp de cada uma estão na página Onde encontrar."
+        ]
+      },
+      {
+        "heading": "Frete, prazo e pagamento",
+        "paragraphs": [
+          "Acima do mínimo, o frete sai de graça, e é a conta que decide o tamanho do carrinho. Abaixo disso, o valor sai pelo CEP, pela tabela dos Correios, por PAC, Sedex ou JadLog."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Ponto",
+            "O que a loja publica"
+          ],
+          "rows": [
+            [
+              "Frete grátis",
+              "A partir de R$ 99"
+            ],
+            [
+              "Despacho",
+              "3 a 5 dias úteis depois da confirmação do pagamento"
+            ],
+            [
+              "Cartão",
+              "À vista ou em até 5x sem juros, com parcela mínima de R$ 30"
+            ],
+            [
+              "Pix",
+              "QR Code com 2 horas de validade"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Em campanha grande, como a Clean Friday, a política de frete avisa que o prazo pode crescer. Se o produto é presente com data, conte o despacho e o prazo dos Correios juntos, não só um deles.",
+          "A página de pagamento não fala em desconto no Pix. Quem quer parcelar, parcela no cartão; o Pix vale pela rapidez, não pelo preço."
+        ]
+      },
+      {
+        "heading": "Simple Organic é vegana?",
+        "paragraphs": [
+          "Pela marca, sim: a Simple diz que os produtos são veganos, cruelty-free e com matéria-prima orgânica, e aponta selos de terceiros para sustentar isso. A diferença entre \"a marca diz\" e \"um selo atesta\" é o que este capítulo mostra, sem julgar o produto.",
+          "A loja informa: a página Nossos selos e certificações lista o PETA Vegan Approved e o Cruelty Free da PETA, o COSMOS Organic da Ecocert, o Eureciclo (compensação de 100% das embalagens), o Reciclo Beleza (logística reversa), o EcoSun Pass para os protetores solares e a opção de Frete CO2 Neutro no checkout. A página Sobre nós acrescenta que a marca neutraliza 100% do carbono da cadeia.",
+          "Tudo isso é afirmação da marca sobre selos de outros. Se o selo decide a sua compra, procure o nome da marca no site da certificadora antes de fechar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+            "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Gel de Limpeza Suave, da limpeza facial: a página de selos da marca vale para o catálogo todo. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
+          }
+        ]
+      },
+      {
+        "heading": "Simple Organic no Reclame Aqui",
+        "paragraphs": [
+          "Dá para confiar no atendimento: nos 6 meses, a Simple Organic tem o selo RA1000, responde a todas as reclamações e resolve nove em cada dez. O maior problema é atraso na entrega, perto de um quinto das queixas, o que combina com o aviso da loja sobre prazo em campanha. As notas de cada período, as reclamações mais recentes e o que elas mostram estão em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao)."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O código S-EMCASACOMCECILIA dá 5% em todo o site, na loja online, e o desconto aparece no carrinho antes de pagar. O Em Casa com Cecília tem parceria com a Simple Organic e pode receber comissão pelas compras com esse código; o código e as condições vigentes estão na página do [cupom Simple Organic](/cupons/simple-organic).",
+          "Aqui vale uma atenção. A política de cupons da loja diz que cupom não soma com preço promocional e não vale em kit nem em duo. No teste do nosso código, feito no checkout e no carrinho, o desconto entrou em kit, em duo e em produto com preço de promoção. Como a regra escrita diz uma coisa e o carrinho mostrou outra, a orientação é simples: aplique o código, veja os 5% no resumo do pedido e só então pague. Se o desconto não aparecer, não conte com ele.",
+          "Para aplicar, cole o código no campo \"Desconto\" do carrinho ou no checkout. O botão deste artigo abre a home com o código já aplicado; link de produto não leva o código, então copie e cole. O passo a passo com a conta do teste está em [como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
+            "alt": "Bisnaga do Hidratante Facial Super Glow da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Hidratante Facial Super Glow, um dos produtos em que o código entrou no teste. O link abre a página do produto; copie o código e cole no carrinho. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/hidratante-facial-super-glow"
+          }
+        ]
+      },
+      {
+        "heading": "Simple Organic é confiável? O que pesa",
+        "paragraphs": [
+          "Dá para confiar, com uma condição: compre pelo site oficial e decida em uma semana. Do lado da empresa, a Simple Organic mostra o que quem compra procura: CNPJ ativo no rodapé, o mesmo da consulta pública e do Reclame Aqui, um grupo conhecido por trás (a Hypera Pharma, pela própria marca), lojas próprias em nove cidades, regras de troca, frete e pagamento publicadas e atendimento que responde a todas as reclamações.",
+          "Os pontos de atenção são dois. O prazo de troca é de 7 dias com o lacre inviolado; produto aberto não volta. E \"vegana\", \"orgânica\" e \"carbono neutralizado\" são frases da marca sobre selos de terceiros, não uma conferência nossa. Isso vale para a loja; se o produto é bom para a sua pele, é outra pergunta, e este texto não a responde.",
+          "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e a embalagem, e aplique o código no carrinho do site oficial."
+        ],
+        "emphasis": "Loja com dono conhecido, CNPJ à vista e atendimento que responde passa no teste de confiança. O que eu olharia antes é o prazo de troca, porque sete dias passam rápido.",
+        "emphasisAfterParagraph": 2
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Simple Organic é confiável? É a marca da Simple Organic Beauty S.A., empresa ativa de Florianópolis com o CNPJ no rodapé do site, o mesmo do Reclame Aqui, que publica regras de troca, frete e pagamento. O ponto de atenção é o prazo de troca, de 7 dias com o lacre inviolado.",
+          "A Simple Organic é da Hypera? Pela própria marca, sim: a página Sobre nós diz que a Simple faz parte da Hypera Pharma desde 2020. A empresa que opera o site segue sendo a Simple Organic Beauty S.A.",
+          "A Simple Organic tem loja física? Tem: a página Onde encontrar lista 10 pontos em nove cidades, de Fortaleza a Porto Alegre, quase todos em shopping. Brasília não está na lista; o capítulo de lojas traz a relação completa.",
+          "Qual é o site oficial da Simple Organic? É simpleorganic.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública.",
+          "Qual é o CNPJ da Simple Organic? É o 24.692.452/0001-40, da Simple Organic Beauty S.A., ativa desde 2016 na consulta pública e com sede em Florianópolis (SC)."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você compra pelo site oficial, confere o CNPJ no rodapé e guarda o número do pedido.",
+        "Você quer a marca de uma empresa com dono conhecido, lojas próprias e atendimento que responde no Reclame Aqui.",
+        "Você fecha o carrinho acima do mínimo do frete grátis e paga no cartão em até cinco vezes ou no Pix."
+      ],
+      "skipIf": [
+        "Você precisa de mais de uma semana para decidir se fica com o produto: a troca é de sete dias e só com o lacre inviolado.",
+        "Você quer usar o código em loja física ou farmácia: ele é da loja online.",
+        "Você vai abrir o produto para experimentar antes de decidir a devolução."
+      ]
+    },
+    "cta": {
+      "text": "Se a Simple Organic faz sentido para você, entre pelo botão: o site abre com o S-EMCASACOMCECILIA aplicado. Confira os 5% no carrinho antes de pagar.",
+      "label": "Ir para a Simple Organic com o cupom",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Feito com fontes públicas, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "simple-organic-reclame-aqui-nota-reputacao",
+        "title": "Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam"
+      },
+      {
+        "slug": "cupom-simple-organic-como-usar",
+        "title": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale"
+      },
+      {
+        "slug": "black-friday-simple-organic",
+        "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom"
+      }
+    ]
+  },
+  {
+    "id": 781,
+    "slug": "simple-organic-reclame-aqui-nota-reputacao",
+    "title": "Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam",
+    "seoTitle": "Simple Organic no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Simple Organic no Reclame Aqui: RA1000 nos últimos 6 meses, nota 8,6, 100% respondidas e 90,2% resolvidas. Do que as pessoas reclamam e o que fazer se o pedido der problema.",
+    "metaDescription": "Simple Organic no Reclame Aqui: RA1000 em 6 meses, nota 8,6, 100% respondidas e 90,2% resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
+    "publishedAt": "3 de novembro de 2026",
+    "publishedAtISO": "2026-11-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
+    "imageAlt": "Frasco do Ultra Sérum Retinol da Simple Organic e o topo do perfil Simple Organic no Reclame Aqui, com a reputação RA1000 e o selo Empresa Verificada",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim: a Simple Organic estava na RA1000 do Reclame Aqui nos últimos 6 meses, com nota 8,6, todas as reclamações respondidas e nove em cada dez resolvidas, num perfil verificado com o CNPJ da loja. O que pesa é o atraso na entrega, a queixa mais comum; veja abaixo as reclamações e o que fazer se o pedido der problema."
+        ]
+      },
+      {
+        "heading": "Qual perfil olhar",
+        "paragraphs": [
+          "O perfil certo é o \"Simple Organic\", na página empresa/simple-organic do Reclame Aqui, com o CNPJ 24.692.452/0001-40: o mesmo que aparece no rodapé da loja, em nome da Simple Organic Beauty S.A., de Florianópolis. Se o CNPJ bate, você está no lugar certo.",
+          "Ele é verificado, está no Reclame Aqui há 9 anos e ocupa o 3º lugar em \"Melhor empresa\" na categoria E-commerce - Cosméticos, Beleza e Estética. O selo de verificada diz quem é o dono do perfil; não é nota. A descrição no topo (\"vegana, matéria-prima orgânica, natural, cruelty-free e sem gênero\") é texto da própria empresa, não avaliação do Reclame Aqui.",
+          "A empresa, o CNPJ, as lojas físicas e as regras de troca estão em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel). Aqui ficam só os números das reclamações."
+        ]
+      },
+      {
+        "heading": "Os números da Simple Organic",
+        "paragraphs": [
+          "Olhe primeiro a aba de 6 meses, a mais recente: é a única em RA1000 e a que diz como a loja está atendendo agora. As outras abas mostram de onde ela veio."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "6 meses",
+            "12 meses",
+            "2025",
+            "2024",
+            "Geral"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "RA1000",
+              "Ótima",
+              "Ótima",
+              "Ótima",
+              "Ótima"
+            ],
+            [
+              "Nota",
+              "8,6",
+              "8,5",
+              "8,0",
+              "8,3",
+              "8,2"
+            ],
+            [
+              "Reclamações recebidas",
+              "153",
+              "385",
+              "516",
+              "766",
+              "1.766"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "100%",
+              "100%",
+              "100%",
+              "99,9%"
+            ],
+            [
+              "Resolvidas",
+              "90,2%",
+              "88,2%",
+              "84,4%",
+              "87,7%",
+              "86,7%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "76,8%",
+              "77,7%",
+              "70,1%",
+              "74,3%",
+              "71,8%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "82",
+              "220",
+              "301",
+              "487",
+              "1.042"
+            ],
+            [
+              "Nota média do consumidor",
+              "7,82",
+              "7,7",
+              "6,98",
+              "7,43",
+              "7,18"
+            ],
+            [
+              "Tempo médio de resposta",
+              "2 dias e 11 h",
+              "2 dias e 15 h",
+              "2 dias e 5 h",
+              "1 dia e 8 h",
+              "3 dias e 2 h"
+            ]
+          ],
+          "caption": "Abas do perfil Simple Organic no Reclame Aqui, lidas em 03/11/2026. A aba Geral cobre os 3 anos até a leitura."
+        },
+        "postParagraphs": [
+          "A nota de reputação é a que define a faixa. A nota média do consumidor é outra conta: a média que quem reclamou deu ao atendimento, e aqui ela fica abaixo da nota de reputação em todas as abas."
+        ]
+      },
+      {
+        "heading": "O que a conta entre as abas mostra",
+        "paragraphs": [
+          "A Simple Organic está melhorando, não piorando: a aba mais recente é a melhor do perfil em faixa, nota, resolução e vontade de voltar a comprar. O histórico de reputação dos 6 meses mostra RA1000 em maio, Ótima de junho a setembro e RA1000 de novo em outubro, então a faixa de cima não é um mês de sorte.",
+          "Conta nossa, com os números da tabela: de 2024 para 2025, as reclamações caíram perto de um terço, e dentro dos 12 meses os 6 mais recentes carregam menos da metade do total. Menos reclamação entrando e mais reclamação resolvida ao mesmo tempo é o melhor sinal que uma aba de Reclame Aqui dá.",
+          "O ano de 2025 foi o pior da série: a nota mais baixa, a menor fatia de gente que voltaria e a nota do consumidor mais baixa. O que a tabela não explica é o porquê. Se você vai comprar hoje, o que vale é a aba recente; o ano passado serve para saber que a loja já teve fase pior e saiu dela."
+        ]
+      },
+      {
+        "heading": "Do que as pessoas reclamam",
+        "paragraphs": [
+          "Atraso na entrega é a queixa mais comum: lidera a lista de principais problemas do perfil, com um pouco mais de um quinto das reclamações. O resto se espalha; nas categorias, a maior fatia é Produtos Naturais, e nos produtos, Cosméticos naturais, que é o que a loja vende.",
+          "As reclamações mais recentes do perfil contam o resto da história. Entre as últimas oito, apareceram: conta-gotas de sérum que chegou quebrado ou torto (duas vezes), produto reformulado com embalagem e quantidade novas, pedido de devolução feito no dia do recebimento, pedido que não deu para cancelar junto com tampa de creme que quebra, pedido não recebido e o mesmo produto pela metade do preço logo depois da compra. Todas tinham resposta da loja.",
+          "Quem busca \"niacinamida Simple Organic reclame aqui\" ou \"retinol like Simple Organic reclame aqui\" quer saber do produto, não só do correio, e as queixas recentes confirmam: parte é sobre frasco, tampa e fórmula, não sobre entrega. Regra prática, sem teste nosso, com um frasco de conta-gotas viajando pelo correio: confira o conta-gotas assim que a caixa chegar e fotografe antes de usar, porque a troca pede o produto sem uso.",
+          "Uma das reclamações de conta-gotas veio de compra na loja oficial da Simple na Shopee. O perfil do Reclame Aqui junta pedidos de todos os canais, então a nota não é só do site. Guarde onde comprou: o pedido da Shopee se resolve primeiro na Shopee, e o do site, no atendimento do site."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/simple-organic-ultra-serum-retinol-campanha.webp",
+            "alt": "Foto de campanha da Simple Organic: um modelo segura o frasco do Ultra Sérum Retinol junto do rosto",
+            "caption": "O Ultra Sérum Retinol, um dos produtos que aparecem nas buscas junto de \"reclame aqui\". Foto de campanha: Simple Organic.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8662,
+            "href": "https://simpleorganic.com.br/products/ultra-serum-retinol"
+          }
+        ]
+      },
+      {
+        "heading": "Como a loja responde",
+        "paragraphs": [
+          "Responde a tudo, e em poucos dias: a loja não deixou reclamação sem resposta em nenhuma aba de ano, e o tempo médio nos 6 meses fica abaixo de três dias. Em 2024 era mais rápido, pouco mais de um dia; ficou mais lento, mas continua em poucos dias.",
+          "Responder não é resolver. Nos 6 meses, a resolução é a mais alta da série, e três em cada quatro pessoas que avaliaram disseram que voltariam a comprar. O que fica aquém é a nota do consumidor, que avalia a resposta recebida: fica abaixo de 8 em todas as abas. Resumindo: a loja resolve, mas nem sempre do jeito que a pessoa queria."
+        ]
+      },
+      {
+        "heading": "Se o pedido der problema",
+        "paragraphs": [
+          "Comece pela loja, com o número do pedido na mão, e só depois vá ao Reclame Aqui. O FAQ do perfil já responde ao que mais aparece: prazo de envio, pedido errado ou com defeito, problema com pedido da loja física, pedido \"não finalizado\" no site e cancelamento. Leia o item do seu caso antes de abrir reclamação; às vezes a resposta já está lá.",
+          "A loja informa: o pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento, por PAC, Sedex ou JadLog, e em ações grandes como a Clean Friday esse prazo pode crescer. A troca ou a desistência tem 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado, pedida por e-mail ao atendimento com o número do pedido. O prazo conta do recebimento, não da compra: pedido que ainda não chegou não entra nessa regra, e por isso o cancelamento antes do envio é uma conversa à parte, pelo FAQ.",
+          "Pedido da loja física ou da farmácia tem caminho próprio no FAQ da loja, separado do pedido online. Se nada disso resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil. Guarde o número do pedido, o CPF da compra, a foto do produto como chegou e a data em que o prazo venceu: é o que serve em qualquer canal."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+            "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Frasco, tampa e conta-gotas: confira ao receber, porque a troca pede o produto sem uso. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
+          }
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Simple Organic e pode receber comissão pelas compras feitas com o S-EMCASACOMCECILIA, o [cupom Simple Organic](/cupons/simple-organic). Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
+          "O cupom dá 5% OFF na loja online. Nos nossos testes ele entrou em kit, em duo e em produto que já estava com preço de promoção, embora a política de cupons da loja diga que cupom não soma com promoção nem vale em kit e duo: por isso, confira o desconto no carrinho antes de pagar. O código é da loja online; nas lojas físicas e nas farmácias, não conte com ele. O passo a passo está em [Cupom Simple Organic: como usar](/reviews/cupom-simple-organic-como-usar).",
+          "Entrando pelo botão da parceria, o cupom já vem aplicado na home. Entrando pela página de um produto, como o [Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow), copie o código e cole no campo Desconto do carrinho."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/hidratante-facial-super-glow.webp",
+            "alt": "Bisnaga do Hidratante Facial Super Glow da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "O cupom entrou neste hidratante no teste; copie o código e confira os 5% no carrinho. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/hidratante-facial-super-glow"
+          }
+        ]
+      },
+      {
+        "heading": "Dá para confiar na Simple Organic: o veredito",
+        "paragraphs": [
+          "Dá, com o comprovante guardado. O perfil estava na RA1000 nos últimos 6 meses, com nota 8,6, respondeu a todas as reclamações e resolveu a grande maioria, e a aba recente é a melhor do histórico. O ponto de atenção é o atraso na entrega, a queixa mais comum, e os frascos que chegam quebrados; os dois se resolvem com o número do pedido e uma foto na hora de receber."
+        ],
+        "bullets": [
+          "O que conferir no dia: o perfil empresa/simple-organic, o CNPJ 24.692.452/0001-40 no topo e a aba de 6 meses.",
+          "O que guardar: número do pedido, CPF da compra, onde comprou (site, Shopee ou loja física) e a foto do produto ao receber.",
+          "Quando o Reclame Aqui entra: depois do atendimento da loja, com o prazo vencido anotado."
+        ],
+        "emphasis": "Loja que responde em poucos dias e resolve a maioria das reclamações passa no teste. O cuidado que fica é com a entrega."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Simple Organic é confiável? Pelo Reclame Aqui, sim: RA1000 nos últimos 6 meses, com todas as reclamações respondidas e a maioria resolvida. Esses números vêm das reclamações registradas e não avaliam a qualidade dos produtos.",
+          "Qual a nota da Simple Organic no Reclame Aqui? Nota 8,6 nos últimos 6 meses, 8,5 nos 12 meses e 8,2 na aba geral; a tabela do capítulo \"Os números da Simple Organic\" traz as cinco abas.",
+          "Do que as pessoas reclamam da Simple Organic? Atraso na entrega é o problema mais citado; nas reclamações recentes aparecem também conta-gotas quebrado, produto reformulado, devolução sem retorno e pedido que não deu para cancelar.",
+          "A Simple Organic responde às reclamações no Reclame Aqui? Sim, a todas, em pouco mais de dois dias em média nos últimos 6 meses. Resolveu nove em cada dez no mesmo período.",
+          "O que fazer se o pedido da Simple Organic atrasar ou chegar com defeito? Fale com o atendimento da loja com o número do pedido e a foto do produto; a troca tem 7 dias corridos depois do recebimento, com o lacre inviolado. Se não resolver, registre no Reclame Aqui."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você compra na loja online, guarda o número do pedido e aceita esperar alguns dias úteis até o despacho.",
+        "O que pesa para você é a reputação recente: os últimos meses são os melhores do perfil."
+      ],
+      "skipIf": [
+        "Um atraso de entrega estraga a compra, porque é a queixa mais comum do perfil.",
+        "Você pode mudar de ideia logo depois de pagar: há reclamação de pedido que não deu para cancelar, e a desistência só corre depois do recebimento."
+      ]
+    },
+    "cta": {
+      "text": "Se for comprar, entre na loja online pelo botão, confira o 5% do S-EMCASACOMCECILIA no carrinho e guarde o número do pedido.",
+      "label": "Ir para a Simple Organic com o cupom",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Feito com fontes públicas, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "simple-organic-e-confiavel",
+        "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas"
+      },
+      {
+        "slug": "cupom-simple-organic-como-usar",
+        "title": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale"
+      },
+      {
+        "slug": "black-friday-simple-organic",
+        "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom"
+      }
+    ]
+  },
+  {
+    "id": 782,
+    "slug": "cupom-simple-organic-como-usar",
+    "title": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale",
+    "seoTitle": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic",
+    "type": "Guia & Cupons",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O cupom S-EMCASACOMCECILIA dá 5% OFF no site da Simple Organic. Veja o passo a passo no carrinho, onde ele entrou nos testes e o que conferir antes de pagar.",
+    "metaDescription": "Passo a passo do S-EMCASACOMCECILIA na Simple Organic: 5% OFF na loja online, o campo Desconto do carrinho, onde o código entrou nos testes e o que conferir antes de pagar.",
+    "publishedAt": "3 de novembro de 2026",
+    "publishedAtISO": "2026-11-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/cupom-simple-organic-capa.webp",
+    "imageAlt": "Hidratante Facial Super Glow da Simple Organic, com o logo da loja e o cupom S-EMCASACOMCECILIA de 5% OFF",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O cupom Simple Organic é o S-EMCASACOMCECILIA: 5% OFF na loja online, pelo link da parceria ou no campo Desconto do carrinho. Nos testes, ele entrou até em kit, duo e promoção, embora a regra da loja diga que não. O que decide é a linha do cupom no resumo do pedido: os números estão em \"Onde o código valeu\"."
+        ]
+      },
+      {
+        "heading": "O que é o S-EMCASACOMCECILIA",
+        "paragraphs": [
+          "Se a compra é no site oficial da Simple Organic, o [cupom Simple Organic](/cupons/simple-organic) da parceria é o S-EMCASACOMCECILIA: 5% OFF em todo o site, de sérum e hidratante a limpeza facial, maquiagem e body splash. A Simple Organic se apresenta como marca de beleza limpa e vegana, de Florianópolis, parte da Hypera Pharma desde 2020; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
+          "Ele é o código da loja online, simpleorganic.com.br. Para a primeira compra, o código é este mesmo: a parceria não tem um código separado. O que ela dá são os 5%, e é isso que o resumo do pedido vai mostrar.",
+          "O desconto sai do preço que está no carrinho. Se o produto já está em promoção, os 5% saem do preço promocional, não do preço riscado. Não é muito, e por isso ele é o extra de quem já ia comprar, não o motivo da compra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+            "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "O preço da página já traz a promoção do site; os 5% do cupom entram depois, no carrinho. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
+          }
+        ]
+      },
+      {
+        "heading": "1. Entre pelo botão da parceria",
+        "paragraphs": [
+          "O caminho mais curto é o botão desta página: ele abre a home da Simple Organic com o S-EMCASACOMCECILIA já aplicado, e o código aparece sozinho no carrinho. Confira que o endereço é simpleorganic.com.br.",
+          "Link de produto não carrega o cupom, nem os deste texto. Se você entrou por um deles, ou já estava no site, copie o código pelo botão e cole no carrinho, no passo 3."
+        ]
+      },
+      {
+        "heading": "2. Monte o carrinho",
+        "paragraphs": [
+          "O cupom não entra na página do produto: ele aparece no carrinho. Escolha o que você quer e abra o carrinho; o preço da página já traz o desconto da promoção do site, quando há, e é sobre ele que os 5% vão entrar.",
+          "Na dúvida entre um item avulso e um kit, ponha os dois no carrinho e compare o total com o cupom aplicado. A regra da loja sobre kits está mais abaixo, e é por isso que a comparação se faz no carrinho, não na página do produto."
+        ]
+      },
+      {
+        "heading": "3. Confira o código em \"Desconto\" ou cole no checkout",
+        "paragraphs": [
+          "No carrinho, o campo se chama \"Desconto\". Se você entrou pelo botão, o S-EMCASACOMCECILIA já deve estar lá. Se não estiver, cole o código nesse campo, ou no campo de cupom do checkout, e clique em \"Aplicar\".",
+          "Cole sem espaço antes ou depois. Copiar pelo botão desta página evita erro de digitação."
+        ]
+      },
+      {
+        "heading": "4. Confira o desconto antes de pagar",
+        "paragraphs": [
+          "Confira três coisas no resumo do pedido: a linha do cupom, o valor de cada item e o total. Quando o código entra, cada item cai 5% e o total acompanha. Se a linha do cupom não aparece, o preço é o da promoção, sem os 5%: volte ao passo 3 antes de seguir.",
+          "Na hora de pagar, a loja aceita cartão em até 5 vezes sem juros, com parcela mínima de R$ 30, e Pix por QR Code, que vale 2 horas. A página de pagamento não anuncia desconto extra no Pix: o desconto da compra é o do cupom."
+        ]
+      },
+      {
+        "heading": "Onde o código valeu",
+        "paragraphs": [
+          "Nos dois carrinhos de teste, o S-EMCASACOMCECILIA entrou em tudo: produto em promoção, duo e kit. A tabela mostra o preço do site e o preço com o cupom."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Teste",
+            "O que tinha no carrinho",
+            "Preço do site",
+            "Com o S-EMCASACOMCECILIA"
+          ],
+          "rows": [
+            [
+              "No checkout",
+              "Duo Antimanchas Noturno, já em promoção",
+              "R$ 70,90",
+              "R$ 67,36"
+            ],
+            [
+              "No checkout",
+              "Hidratante Facial Super Glow, já em promoção",
+              "R$ 27,00",
+              "R$ 25,65"
+            ],
+            [
+              "No checkout",
+              "Ultra Sérum Niacinamida, já em promoção",
+              "R$ 41,40",
+              "R$ 39,33"
+            ],
+            [
+              "No carrinho",
+              "Kit Rotina Pele Sensível (de R$ 182,00) + Hidratante Facial Super Glow (de R$ 54,00) + Lip Combo People Colour (preço cheio)",
+              "R$ 182,00 no total",
+              "R$ 172,90 no total (−R$ 9,10)"
+            ]
+          ],
+          "caption": "Preços da loja e do resumo do pedido, 03/11, com a Clean Friday no ar."
+        },
+        "postParagraphs": [
+          "Conta nossa: pelos números do resumo, os 5% saíram do preço que já estava na promoção, não do preço riscado. No kit, o desconto da campanha veio primeiro e o cupom tirou 5% do que sobrou.",
+          "A regra geral da loja diz o contrário. A loja informa: produto com preço promocional não soma com cupom, e cupom não vale em Kits, Duos, Simple Collabs, Simple Guests e Simple Collection (política de promoções e cupons). A letra miúda da Clean Friday repete que cupom não soma com outras promoções. O resumo do pedido tem a última palavra: se a linha do cupom não aparecer no seu carrinho, o preço é o da promoção, e não vale fechar a compra esperando os 5%."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/duo-limpeza-regeneracao.webp",
+            "alt": "Duo Limpeza + Regeneração da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Duos estão na lista de exclusão da política de cupons: com um no carrinho, confira a linha do cupom antes de pagar. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/duo-limpeza-regeneracao"
+          }
+        ]
+      },
+      {
+        "heading": "Frete, prazo e troca",
+        "paragraphs": [
+          "Acima de R$ 99 em produtos, o frete é grátis; o cupom em si não dá frete grátis, e quem busca \"cupom frete grátis\" encontra aqui a regra da loja, não um código. Abaixo disso, o frete é calculado pelo CEP no checkout, por PAC, Sedex ou JadLog.",
+          "Se o carrinho fica perto dos R$ 99, confira o frete no resumo depois de aplicar o cupom, porque é ali que a loja mostra se o pedido ganhou o frete grátis. O pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento; em ação grande, como a Clean Friday, o prazo pode crescer.",
+          "Troca ou desistência vale por 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O pedido vai por e-mail ao atendimento, com o número do pedido."
+        ]
+      },
+      {
+        "heading": "Loja online, loja física e farmácia",
+        "paragraphs": [
+          "O S-EMCASACOMCECILIA é o código da loja online, e é lá que ele entra no campo Desconto. A Simple Organic tem lojas próprias em Belo Horizonte, Campinas, Curitiba, Florianópolis, Fortaleza, Porto Alegre, Rio de Janeiro, São Caetano do Sul e São Paulo, e uma busca de farmácias no site.",
+          "Na loja física e na farmácia, não conte com o código. As lojas têm WhatsApp e entrega própria, mas o pedido feito por lá é da loja física, não do site, e a própria loja separa os dois tipos de pedido no atendimento. Para usar o cupom, a compra é pelo site."
+        ]
+      },
+      {
+        "heading": "O cupom não funcionou: o que conferir",
+        "paragraphs": [
+          "Quando o S-EMCASACOMCECILIA não entra, a causa costuma estar numa destas regras da loja, e o resumo do pedido mostra qual:"
+        ],
+        "bullets": [
+          "**Item de uma linha excluída.** A política de cupons tira Simple Collabs, Simple Guests, Kits, Duos e Simple Collection. Nos nossos testes, kit e duo entraram, mas a regra existe e a loja pode aplicá-la: confira a linha do cupom no resumo com o item no carrinho.",
+          "**Produto em promoção.** Pela mesma política, cupom não soma com preço promocional. Nos testes, somou; se no seu carrinho não somar, o preço é o da promoção.",
+          "**Uso por pessoa.** A política diz que cupom vale uma vez por pessoa, e o cupom fica preso ao e-mail da compra. Se você já usou o código com um e-mail, a loja pode recusar o segundo pedido.",
+          "**Código com espaço.** Cole sem espaço antes ou depois e clique em \"Aplicar\". O botão de copiar desta página evita isso.",
+          "**Entrou por link de produto.** O cupom só vem aplicado pela home. Por link de produto, cole o código no carrinho.",
+          "**Loja física ou farmácia.** O código é da loja online."
+        ],
+        "postParagraphs": [
+          "Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação."
+        ]
+      },
+      {
+        "heading": "Quando o cupom vale a pena",
+        "paragraphs": [
+          "Se a compra já ia ser no site da Simple Organic, o cupom vale: 5% a mais sobre o preço que já está lá, sem passo extra além de colar o código. Durante a Clean Friday, até 30/11, o desconto grande é o da campanha, com boa parte do catálogo pela metade; o cupom é o acréscimo, e só se o resumo mostrar. Os preços da campanha estão no [guia de Black Friday da Simple Organic](/reviews/black-friday-simple-organic).",
+          "Passe do cupom quando a compra é na loja física, quando você espera frete grátis só por ele ou quando o resumo não mostra a linha do desconto. Antes de comprar pela primeira vez, leia [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel), com a empresa, o CNPJ e as regras de troca."
+        ],
+        "emphasis": "Cupom de 5% não decide compra nenhuma: ele é o troco de quem já ia comprar. Escolha pelo preço da promoção e deixe o cupom ser o extra.",
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
+            "alt": "Frasco do Body Splash Blossom Kiss da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Na Clean Friday, o desconto grande é o da loja; o cupom é o extra. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/body-splash-blossom-kiss"
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Simple Organic tem cupom de primeira compra? O da parceria vale na primeira compra: S-EMCASACOMCECILIA, 5% OFF na loja online, pelo passo a passo acima.",
+          "O cupom Simple Organic soma com promoção? No nosso teste, entrou: os 5% saíram do preço promocional, inclusive em kit e duo. A regra geral da loja diz que não, então confira a linha do cupom no resumo; os números estão em \"Onde o código valeu\".",
+          "Cupom Simple Organic frete grátis existe? Não como cupom. O frete grátis é regra da loja, a partir de R$ 99 em produtos; o S-EMCASACOMCECILIA tira 5% dos produtos.",
+          "O cupom vale na loja física da Simple Organic? É o código da loja online; na loja física e na farmácia, não conte com ele.",
+          "Onde coloco o cupom na Simple Organic? No campo \"Desconto\" do carrinho, ou no campo de cupom do checkout, antes de pagar; pelo botão desta página ele já vem aplicado."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você já ia comprar no site oficial da Simple Organic e quer 5% a mais sobre o preço que já está lá.",
+        "O carrinho tem kit, duo ou produto em promoção e a linha do cupom aparece no resumo do pedido."
+      ],
+      "skipIf": [
+        "Você vai comprar na loja física ou na farmácia: o código é da loja online.",
+        "Você espera frete grátis ou um segundo cupom por cima: o cupom é só os 5%."
+      ]
+    },
+    "cta": {
+      "text": "Entre no site oficial pelo botão: ele abre a loja com o cupom aplicado. Confira a linha do desconto no resumo do pedido antes de pagar.",
+      "label": "Ir para a Simple Organic",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Cupom testado no carrinho, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "simple-organic-e-confiavel",
+        "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas"
+      },
+      {
+        "slug": "simple-organic-reclame-aqui-nota-reputacao",
+        "title": "Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam"
+      },
+      {
+        "slug": "black-friday-simple-organic",
+        "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom"
+      }
+    ]
+  },
+  {
+    "id": 783,
+    "slug": "black-friday-simple-organic",
+    "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom",
+    "seoTitle": "Black Friday Simple Organic 2026: Clean Friday e cupom",
+    "type": "Guia de Black Friday",
+    "category": "cupons-como-usar",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Clean Friday é a Black Friday da Simple Organic: até 50% OFF no site até o fim de novembro. Veja os preços de 9 produtos, o que o cupom de 5% fez no teste e o prazo do frete.",
+    "metaDescription": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF vai até o fim de novembro. Preços de séruns, hidratante, kits e body splash, o cupom S-EMCASACOMCECILIA e o frete.",
+    "publishedAt": "3 de novembro de 2026",
+    "publishedAtISO": "2026-11-03",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/simple-organic/black-friday-simple-organic-capa.webp",
+    "imageAlt": "Trio de body splashes da Simple Organic, com o logo da loja e o título Black Friday da Simple Organic",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Simple Organic está em Black Friday: a Clean Friday, com até 50% OFF, vai até o fim de novembro ou até o estoque acabar. O cupom S-EMCASACOMCECILIA entrou em itens de campanha no nosso teste, mas a loja diz que cupom não soma com promoção. O que decide é o desconto no carrinho: veja o capítulo do cupom."
+        ]
+      },
+      {
+        "heading": "A Clean Friday: o que é e até quando vale",
+        "paragraphs": [
+          "A Clean Friday é a Black Friday da Simple Organic, e ela já está no ar: não precisa esperar a última sexta de novembro para ver o preço baixo. O banner da home anuncia \"tudo com até 50% OFF\", e o desconto já está no preço de cada produto, sem código nenhum.",
+          "A loja informa: a ação vale desde o fim de outubro até 30/11, enquanto durarem os estoques, e ofertas, preços e condições podem mudar no meio do caminho. Ou seja, o desconto é o do mês inteiro; o que acaba antes é o produto, não a promoção.",
+          "O \"até\" pesa. Não é tudo pela metade: cada produto tem o próprio corte na página, e a tabela do próximo capítulo mostra onde ele é de 50% e onde fica em 40%. Serve para quem já conhece a linha e quer fechar a rotina num pedido só, e também para quem só quer provar um sérum; nesse caso, o que pesa é o frete, e o capítulo do frete mostra a conta."
+        ]
+      },
+      {
+        "heading": "Os preços da Clean Friday, produto por produto",
+        "paragraphs": [
+          "Olhando os preços, o corte de verdade está no hidratante, no gel de limpeza, nos body splashes e no kit Pele Sensível, que saem pela metade; os séruns e o primer ficam em 40%. O nome de cada produto abre a página dele na loja, sem o cupom: copie o código antes."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "De",
+            "Por"
+          ],
+          "rows": [
+            [
+              "[Ultra Sérum Niacinamida](https://simpleorganic.com.br/products/ultra-serum-niacinamida)",
+              "R$ 69,00",
+              "R$ 41,40"
+            ],
+            [
+              "[Ultra Sérum Retinol](https://simpleorganic.com.br/products/ultra-serum-retinol)",
+              "R$ 69,00",
+              "R$ 41,40"
+            ],
+            [
+              "[Hidratante Facial Super Glow](https://simpleorganic.com.br/products/hidratante-facial-super-glow)",
+              "R$ 54,00",
+              "R$ 27,00"
+            ],
+            [
+              "[Gel de Limpeza Suave](https://simpleorganic.com.br/products/gel-de-limpeza-suave)",
+              "R$ 59,00",
+              "R$ 29,50"
+            ],
+            [
+              "[Primer Blur Effect](https://simpleorganic.com.br/products/primer-blur-effect)",
+              "R$ 79,00",
+              "R$ 47,40"
+            ],
+            [
+              "[Body Splash Blossom Kiss](https://simpleorganic.com.br/products/body-splash-blossom-kiss)",
+              "R$ 69,00",
+              "R$ 34,50"
+            ],
+            [
+              "[Rotina Pele Sensível (kit)](https://simpleorganic.com.br/products/rotina-pele-sensivel)",
+              "R$ 182,00",
+              "R$ 91,00"
+            ],
+            [
+              "[Duo Limpeza + Regeneração](https://simpleorganic.com.br/products/duo-limpeza-regeneracao)",
+              "R$ 188,00",
+              "R$ 107,00"
+            ],
+            [
+              "[Trio Body Splashes Simple](https://simpleorganic.com.br/products/kit-body-splash)",
+              "R$ 199,00",
+              "R$ 99,50"
+            ]
+          ],
+          "caption": "Preço no site da Simple Organic, 03/11; o \"de\" é o preço riscado na página do produto."
+        },
+        "postParagraphs": [
+          "Conta nossa, pelos preços \"de\" e \"por\" da tabela: os dois Ultra Sérum e o Primer Blur Effect saem com 40%, o Duo Limpeza + Regeneração com 43%, e os outros cinco com 50%. O \"até 50%\" do banner é o teto, não a regra. Se o item que você quer está em 40%, a diferença para o de 50% não muda a escolha do produto; muda só a conta do frete, mais abaixo.",
+          "O preço do site muda sem aviso, e a campanha diz isso na letra miúda. Use a tabela como régua: na semana da Black Friday, só é desconto novo o que ficar abaixo do \"por\" daqui."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/primer-blur-effect.webp",
+            "alt": "Bisnaga do Primer Blur Effect da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Primer Blur Effect, um dos itens que ficam em 40% na Clean Friday. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/primer-blur-effect"
+          }
+        ]
+      },
+      {
+        "heading": "O cupom na Clean Friday: o que o teste mostrou",
+        "paragraphs": [
+          "O cupom entrou no carrinho com a Clean Friday no ar, mas a regra escrita da loja diz o contrário; o que vale é a linha de desconto que o seu carrinho mostra antes de pagar. O código é o S-EMCASACOMCECILIA, 5% na loja online da Simple Organic.",
+          "No teste, feito com a campanha no ar, o código entrou num kit, num duo e em produtos já com o preço de campanha, e tirou 5% do carrinho inteiro: no carrinho de R$ 182,00, com o kit Rotina Pele Sensível, o Hidratante Facial Super Glow e um lip combo a preço cheio, foram R$ 9,10 a menos. A letra miúda do banner diz que cupons não somam com outras promoções ou benefícios, e a política de cupons da loja diz que cupom não vale em kit nem em duo. O teste passou por cima disso, e a loja pode fechar essa porta a qualquer hora.",
+          "Então a ordem é esta: coloque os produtos no carrinho, cole o código no campo \"Desconto\" e olhe se a linha do cupom apareceu. Se apareceu, pague. Se não apareceu, o preço da campanha já é o seu desconto, e não há o que fazer. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. A política da loja fala em um uso por pessoa, com o cupom preso ao e-mail da compra. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar), e as condições do dia, na página do [cupom Simple Organic](/cupons/simple-organic).",
+          "Nas Lojas Simple e nas farmácias, não conte com o código: ele é da loja online."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/rotina-pele-sensivel.webp",
+            "alt": "Kit Rotina Pele Sensível da Simple Organic, com gel de limpeza, balm de olhos e hidratante, em foto oficial da loja",
+            "caption": "O kit Rotina Pele Sensível foi um dos itens do carrinho em que o cupom entrou. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/rotina-pele-sensivel"
+          }
+        ]
+      },
+      {
+        "heading": "Frete e prazo na campanha",
+        "paragraphs": [
+          "Na Clean Friday, o que muda não é o frete, é o prazo: a política de frete da loja avisa que, em ação grande, o despacho pode passar dos 3 a 5 dias úteis de sempre. O frete grátis segue a partir de R$ 99,00 em produtos, pela faixa do topo do site; abaixo disso, ele é calculado pelo CEP, por PAC, Sedex ou JadLog.",
+          "Com os preços da campanha, um sérum, o hidratante ou mesmo o kit Pele Sensível sozinhos ficam abaixo dos 99. O trio de body splashes e o duo passam, e dois séruns com o hidratante também. Vale montar o pedido para cruzar essa linha em vez de pagar frete num item de 41.",
+          "Regra prática, sem teste nosso: com o despacho de até 5 dias úteis mais a viagem até o seu CEP, e com a fila da campanha por cima, presente comprado na última semana de novembro pode chegar depois da data; quem precisa do produto num dia certo compra na primeira quinzena.",
+          "Pagamento: cartão em até 5x sem juros, com parcela mínima de R$ 30, ou Pix com QR Code que vale 2 horas. Troca ou desistência: 7 dias corridos depois de receber, com o produto sem uso e o lacre inviolado, por e-mail ao atendimento com o número do pedido. Na campanha isso pesa: produto aberto não volta, e o lacre decide a troca."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
+            "alt": "Frasco do Body Splash Blossom Kiss da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "Body Splash Blossom Kiss: sozinho, fica abaixo do mínimo do frete grátis; no trio, passa. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/body-splash-blossom-kiss"
+          }
+        ]
+      },
+      {
+        "heading": "Comprar agora ou esperar a sexta",
+        "paragraphs": [
+          "Esperar a última sexta de novembro não ganha nada que a loja tenha anunciado: o desconto é o mesmo o mês inteiro, e o que acaba é o estoque. A campanha diz \"enquanto durarem os estoques\" e avisa que preços e condições podem mudar; nada publicado promete corte maior na sexta.",
+          "Quem já sabe o produto compra quando ele aparece disponível com a etiqueta de 50%. Quem está entre dois usa a tabela como régua e confere o preço do dia. Para confiar na compra: o rodapé do site traz o CNPJ da Simple Organic Beauty S.A., e o perfil da loja no Reclame Aqui tem selo RA1000 nos últimos 6 meses, com todas as reclamações respondidas; os números por período estão em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao). A queixa mais comum lá é atraso na entrega, o que reforça o aviso do prazo.",
+          "Antes de pagar:"
+        ],
+        "bullets": [
+          "Compare o \"por\" da página com a tabela deste guia.",
+          "Cole o código e veja se a linha do cupom apareceu; se não, o preço da campanha é o desconto.",
+          "Veja se o pedido cruzou o mínimo do frete grátis e qual é o prazo para o seu CEP.",
+          "Guarde o número do pedido: a troca pede ele e o lacre intacto."
+        ],
+        "emphasis": "Promoção de um mês inteiro não premia quem espera: o que acaba antes é o estoque, não o desconto.",
+        "emphasisAfterParagraph": 1
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Simple Organic tem Black Friday? Tem, com o nome de Clean Friday: o banner da home anuncia tudo com até 50% OFF, e o desconto já está no preço de cada produto.",
+          "Quando é a Black Friday da Simple Organic? A Clean Friday já começou e vai até o fim de novembro, enquanto durarem os estoques; a loja não anunciou regra diferente para a sexta.",
+          "O cupom da Simple Organic vale na Clean Friday? No nosso teste, o S-EMCASACOMCECILIA entrou em itens com preço de campanha, mas a regra da loja diz que cupom não soma com promoção: confira a linha do cupom no carrinho, como mostra o capítulo do cupom.",
+          "A Simple Organic tem frete grátis na Clean Friday? Tem, a partir de R$ 99 em produtos, como fora da campanha; abaixo disso, o frete é pelo CEP.",
+          "Tem cupom de primeira compra na Simple Organic? O cupom que temos é o S-EMCASACOMCECILIA, de 5% na loja online, e ele vale na primeira compra."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "O produto que você quer está com a etiqueta de 50% na página e o pedido passa do mínimo do frete grátis.",
+        "É presente: a campanha vai até o fim de novembro, mas o despacho pode demorar mais que o normal, e a primeira quinzena é mais segura."
+      ],
+      "skipIf": [
+        "Você conta com o cupom somando com o preço da campanha sem olhar o carrinho: a regra da loja diz que cupom não soma com promoção.",
+        "Você quer usar o código numa Loja Simple ou numa farmácia: ele é da loja online."
+      ]
+    },
+    "cta": {
+      "text": "Abra a loja pelo botão, que aplica o cupom na home, monte o carrinho e confira a linha do desconto antes de pagar.",
+      "label": "Ir para a Simple Organic",
+      "url": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "S-EMCASACOMCECILIA",
+    "affiliate": "simple-organic",
+    "editorialNote": "Feito com os preços do site, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-simple-organic-como-usar",
+        "title": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale"
+      },
+      {
+        "slug": "simple-organic-e-confiavel",
+        "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas"
+      },
+      {
+        "slug": "simple-organic-reclame-aqui-nota-reputacao",
+        "title": "Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam"
+      }
+    ]
   }
 ];

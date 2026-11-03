@@ -103,3 +103,73 @@ Arquivo: `simple-organic-autocomplete-0311.txt`, na mesma pasta.
 - Produto ("é boa"): "simple organic é bom", "é boa", "vale a pena", "é vegana", "melhores produtos",
   "niacinamida/vitamina C simple organic é boa", e os sérums, hidratantes, body splash e perfume.
 - Black Friday: "simple organic black friday" ("clean friday simple organic" não volta sugestão).
+
+## 8. Releitura do Job 2 (03/11/2026, navegador do app; o Chrome não estava conectado)
+
+Só leitura: sem carrinho, login ou formulário. O aviso de cookies do Reclame Aqui foi recusado.
+
+### Reclame Aqui (todas as abas)
+
+| Aba | Reputação | Nota | Recebidas | Respondidas | Resolvidas | Voltariam | Avaliadas | Nota do consumidor | Resposta | Período |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 6 meses | RA1000 | 8,6 | 153 | 100% | 90,2% | 76,8% | 82 | 7,82 | 2 dias e 11 h | 01/05 a 31/10/2026 |
+| 12 meses | Ótima | 8,5 | 385 | 100% | 88,2% | 77,7% | 220 | 7,7 | 2 dias e 15 h | 01/11/2025 a 31/10/2026 |
+| 2025 | Ótima | 8,0 | 516 | 100% | 84,4% | 70,1% | 301 | 6,98 | 2 dias e 5 h | ano de 2025 |
+| 2024 | Ótima | 8,3 | 766 | 100% | 87,7% | 74,3% | 487 | 7,43 | 1 dia e 8 h | ano de 2024 |
+| Geral | Ótima | 8,2 | 1.766 | 99,9% | 86,7% | 71,8% | 1.042 | 7,18 | 3 dias e 2 h | 04/11/2023 a 03/11/2026 |
+
+- Histórico dos 6 meses: RA1000 em maio, Ótima de junho a setembro, RA1000 em outubro.
+- Leitura: as reclamações caíram de 766 (2024) para 516 (2025); a resolução subiu de 84,4% (2025) para 90,2% (6 meses).
+- O perfil descreve a empresa como "Vegana, matéria-prima orgânica, natural, cruelty-free e sem gênero" (texto da empresa).
+- FAQ do perfil: prazo de envio, pedido errado ou com defeito, problema com pedido da loja física, pedido "não
+  finalizado" no site e cancelamento.
+- **Tipos nas reclamações recentes (8 títulos, sem nome de consumidor):** conta-gotas de sérum quebrado ou torto (2,
+  um deles comprado na loja oficial da Simple na Shopee), produto reformulado com embalagem e quantidade novas (balm
+  antiolheiras), devolução pedida no dia do recebimento sem retorno, pedido que não dá para cancelar e tampa de
+  creme que quebra, pedido não recebido e o mesmo produto pela metade do preço logo depois da compra. Todas
+  respondidas.
+
+### Clean Friday
+
+- Banner da home: "CLEAN FRIDAY / TUDO COM ATÉ 50% OFF". Letra miúda do banner: "*Ação válida de 27/10/2026 a
+  30/11/2026, enquanto durarem os estoques. Cupons não cumulativos com outras promoções ou benefícios. Ofertas, preços
+  e condições sujeitos a alteração."
+- **Os testes do cupom de 03/11 foram feitos com a Clean Friday no ar** (ela começou em 27/10) e em itens com o preço
+  da campanha (ex.: Ultra Sérum Niacinamida R$ 41,40, o preço de campanha de hoje). Mesmo assim, o artigo segue a
+  decisão do briefing: diz o que testamos e manda conferir o carrinho, sem afirmar que o cupom soma. Ponto levado ao
+  Bruno.
+
+### Preços da Clean Friday (catálogo público da loja, /products.json, 03/11/2026; "de" é o compare_at_price)
+
+| Produto | Linha | De | Por | Handle |
+|---|---|---|---|---|
+| Ultra Sérum Niacinamida | sérum | 69,00 | 41,40 | ultra-serum-niacinamida |
+| Ultra Sérum Retinol | sérum | 69,00 | 41,40 | ultra-serum-retinol |
+| Hidratante Facial Super Glow | hidratante | 54,00 | 27,00 | hidratante-facial-super-glow |
+| Gel de Limpeza Suave | limpeza | 59,00 | 29,50 | gel-de-limpeza-suave |
+| Rotina Pele Sensível | kit | 182,00 | 91,00 | rotina-pele-sensivel |
+| Duo Limpeza + Regeneração | duo | 188,00 | 107,00 | duo-limpeza-regeneracao |
+| Primer Blur Effect | maquiagem | 79,00 | 47,40 | primer-blur-effect |
+| Body Splash Blossom Kiss | body splash | 69,00 | 34,50 | body-splash-blossom-kiss |
+| Trio Body Splashes Simple | kit | 199,00 | 99,50 | kit-body-splash |
+
+Os dois Ultra Sérum e o Primer Blur Effect saem com 40%; o Duo Limpeza + Regeneração, com 43%; hidratante, gel de limpeza, body splash, o trio e o kit Pele Sensível, com 50% (corrigido pelo redator do Job 2).
+
+### Lojas físicas (página Onde encontrar)
+
+10 pontos no mapa: Pátio Savassi (BH), Iguatemi (Campinas), Curitiba (Alameda Prudente de Moraes), Florianópolis
+(showroom), RioMar (Fortaleza), Porto Alegre (Pátio 24), Shopping Tijuca e Leblon (Rio), ParkShopping São Caetano e
+Oscar Freire (São Paulo). Cada loja tem WhatsApp, e-mail e "Entregas via Delivery". Não há loja em Brasília na lista.
+
+### Selos (página Nossos selos e certificações)
+
+PETA Vegan Approved e Cruelty Free (PETA), COSMOS Organic (Ecocert), Eureciclo (compensação de 100% das embalagens),
+Reciclo Beleza (logística reversa), EcoSun Pass (protetores solares), Frete CO2 Neutro (opção no checkout) e
+compensação de carbono em eventos. Tudo como afirmação da marca sobre selos de terceiros.
+
+### Fotos da marca para o corpo e a capa (CDN da Shopify da loja, 03/11/2026)
+
+`https://cdn.shopify.com/s/files/1/0469/4500/9826/files/<arquivo>`: ultra-serum-niacinamida.jpg (2001²),
+hidratante-facial-super-glow.jpg (2083²), gel-de-limpeza-suave.jpg (3001²), rotina-pele-sensivel.jpg (2083²),
+primer-blur-effect.jpg (2084²), body-splash-blossom-kiss.jpg (2084²), trio-body-splashes-simple.jpg (2001²),
+duo-limpeza-regeneracao.jpg (2001²), e as fotos 2 a 4 de cada um.
