@@ -251,4 +251,5 @@ JSON `content/reviews/cupom-simple-organic-como-usar.json`, id 782, no manifesto
 ## Publicação (03/11/2026)
 - No ar em 03/11/2026: PR #539, release `34126d7d` (build 01a1a36b), id 782, só PT. Smoke com 7 imagens no CDN e a foto com link de produto; sitemap, llms.txt e IndexNow; captura 41727165405 verde.
 - O Gate 1 do #539 barrou a foto do gel em "2. Monte o carrinho": os passos do guia vão para a linha do tempo, que não mostra imagens. A foto foi para "O que é o S-EMCASACOMCECILIA", com a mesma legenda. Seção de passo (título numerado) não leva imagem.
+- Ajuste do Bruno (03/11, depois do deploy): saiu a regra geral da loja (promoção, kit e duo) da resposta rápida, do passo 2, de "Onde o código valeu", da legenda do duo e do FAQ. A lista "O cupom não funcionou" segue com as regras da loja, porque explica um código recusado.
 - Pendente: reler o Reclame Aqui e os preços na revisão mensal de dezembro de 2026; tirar a Clean Friday depois de 30/11.
