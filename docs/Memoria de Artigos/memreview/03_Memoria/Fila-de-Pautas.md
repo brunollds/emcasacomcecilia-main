@@ -359,10 +359,10 @@ Parceira nova (beleza limpa, cupom S-EMCASACOMCECILIA 5%, PR #537). Fatos de 03/
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| SO1 | Simple Organic é confiável? | **Pronto para deploy em 03/11/2026** (id 780): [[simple-organic-e-confiavel]] |
-| SO2 | Simple Organic no Reclame Aqui | **Pronto para deploy em 03/11/2026** (id 781): [[simple-organic-reclame-aqui-nota-reputacao]] |
-| SO3 | Cupom Simple Organic: como usar | **Pronto para deploy em 03/11/2026** (id 782): [[cupom-simple-organic-como-usar]] |
-| SO4 | Black Friday Simple Organic (Clean Friday) | **Pronto para deploy em 03/11/2026** (id 783): [[black-friday-simple-organic]] |
+| SO1 | Simple Organic é confiável? | **Publicado em 03/11/2026** (#539, release `34126d7d`, id 780): [[simple-organic-e-confiavel]] |
+| SO2 | Simple Organic no Reclame Aqui | **Publicado em 03/11/2026** (#539, release `34126d7d`, id 781): [[simple-organic-reclame-aqui-nota-reputacao]] |
+| SO3 | Cupom Simple Organic: como usar | **Publicado em 03/11/2026** (#539, release `34126d7d`, id 782): [[cupom-simple-organic-como-usar]] |
+| SO4 | Black Friday Simple Organic (Clean Friday) | **Publicado em 03/11/2026** (#539, release `34126d7d`, id 783): [[black-friday-simple-organic]] |
 | SO5 | Simple Organic é boa? (niacinamida, vitamina C, retinol, PDRN pelo rótulo) | Linha "é boa", depois do onboarding |
 
 ## Temas para depois (não prioritários)

@@ -55,14 +55,14 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[simple-organic-e-confiavel]]: Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas (PT, id 780; onboarding da Simple Organic, Fable 5.1 no Job 2; squash sem deploy)
-- [ ] [[simple-organic-reclame-aqui-nota-reputacao]]: Simple Organic no Reclame Aqui: RA1000 nos 6 meses, as 5 abas e do que as pessoas reclamam (PT, id 781; onboarding da Simple Organic, Fable 5.1 no Job 2; squash sem deploy)
-- [ ] [[cupom-simple-organic-como-usar]]: Como usar o cupom S-EMCASACOMCECILIA: passo a passo e onde ele valeu no teste (PT, id 782; onboarding da Simple Organic, Fable 5.1 no Job 2; squash sem deploy)
-- [ ] [[black-friday-simple-organic]]: Black Friday Simple Organic: a Clean Friday (até 30/11) com preços de 9 produtos e o cupom (PT, id 783; onboarding da Simple Organic, Fable 5.1 no Job 2; squash sem deploy)
 
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[simple-organic-e-confiavel]]: Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas (PT, id 780; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
+- [x] [[simple-organic-reclame-aqui-nota-reputacao]]: Simple Organic no Reclame Aqui: RA1000 nos 6 meses, as 5 abas e do que as pessoas reclamam (PT, id 781; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
+- [x] [[cupom-simple-organic-como-usar]]: Como usar o cupom S-EMCASACOMCECILIA: passo a passo e onde ele valeu no teste (PT, id 782; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
+- [x] [[black-friday-simple-organic]]: Black Friday Simple Organic: a Clean Friday (até 30/11) com preços de 9 produtos e o cupom (PT, id 783; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
 - [x] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT) (no ar em 30/10/2026 17:02 UTC, PR #369, release `5c16b59c`, id 747) 🚀
 - [x] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT) (no ar em 30/10/2026 17:02 UTC, PR #369, release `5c16b59c`, id 748) 🚀
 - [x] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos (no ar em 30/10/2026 17:02 UTC, PR #369, release `5c16b59c`, id 749) 🚀

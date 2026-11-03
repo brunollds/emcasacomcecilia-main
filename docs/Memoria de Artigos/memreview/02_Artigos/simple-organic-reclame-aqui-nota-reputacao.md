@@ -7,9 +7,9 @@ parceiro_slug: "simple-organic"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Job-2 (Fable 5.1)"
-proxima_acao: "deploy (decisão do Bruno), depois IndexNow"
+proxima_acao: "reler o Reclame Aqui e os preços na revisão mensal de dezembro de 2026; tirar a Clean Friday depois de 30/11"
 bloqueado_por: "-"
 data_criacao: "2026-11-03"
 i18n_cluster: null
@@ -250,3 +250,7 @@ Capa no modelo do tipo, gerada com `covers:render` (spec no scratchpad da sessã
 
 ## Conformação e gates (Jobs 4 e 5, 03/11/2026)
 JSON `content/reviews/simple-organic-reclame-aqui-nota-reputacao.json`, id 781, no manifesto e no índice gerado. `validate:content`, `test:article-d2`, `typecheck`, `test:review-i18n`, `test:internal-links`, `test:home-stores`, `test:reviews-hub`, `test:site-search`, `test-delivery-integration` e `candidate-proof` verdes; o `npm run build` completo roda no Gate 1. PR com squash sem deploy.
+
+## Publicação (03/11/2026)
+- No ar em 03/11/2026: PR #539, release `34126d7d` (build 01a1a36b), id 781, só PT. Smoke com 7 imagens no CDN e a foto com link de produto; sitemap, llms.txt e IndexNow; captura 41727165405 verde.
+- Pendente: reler o Reclame Aqui e os preços na revisão mensal de dezembro de 2026; tirar a Clean Friday depois de 30/11.
