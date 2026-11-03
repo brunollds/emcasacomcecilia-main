@@ -302,9 +302,24 @@ export const COUPONS: Coupon[] = [
           'Pode funcionar em máquinas Dolce Gusto. Caso algum produto tenha uma campanha própria ou restrição comercial, o checkout informa se o cupom é aceito.',
       },
       {
+        question: 'O cupom CECI vale na primeira compra na Dolce Gusto?',
+        answer:
+          'Sim. O CECI vale na primeira compra no site oficial Nescafé Dolce Gusto e também para quem já comprou na loja, em compras a partir de R$ 100.',
+      },
+      {
+        question: 'Existe cupom Dolce Gusto de 20% ou 50%?',
+        answer:
+          'Com código, o desconto que testamos é o do CECI: 10% em compras a partir de R$ 100. Não testamos os códigos de 20% ou 50% que aparecem em sites de cupom. Quando a própria loja põe cápsulas ou máquinas em promoção, o CECI soma: os 10% entram sobre o preço promocional.',
+      },
+      {
         question: 'Posso usar o cupom CECI mais de uma vez?',
         answer:
           'Sim, o cupom aceita até 3 usos por campanha. Quando a campanha muda, o mesmo código volta a valer.',
+      },
+      {
+        question: 'O cupom CECI está funcionando hoje?',
+        answer:
+          'Sim. No último teste de checkout, o CECI aplicou os 10% num carrinho de cápsulas acima de R$ 100. A data do teste mais recente aparece no topo desta página.',
       },
       {
         question: 'O cupom CECI vale no Mercado Livre?',
@@ -331,6 +346,11 @@ export const COUPONS: Coupon[] = [
         question: 'O link leva para a loja oficial?',
         answer:
           'Sim. O botão de compra aponta para o site oficial Nescafé Dolce Gusto Brasil informado pela parceria.',
+      },
+      {
+        question: 'O que fazer se o cupom CECI não funcionar?',
+        answer:
+          'Confira se o carrinho passa de R$ 100, porque abaixo disso a loja recusa o cupom, se o código foi digitado sem espaços e se você já usou o CECI 3 vezes na campanha atual. O cupom vale no site e no app oficiais da Nescafé Dolce Gusto, não no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
     ],
     status: 'ativo',
@@ -555,6 +575,11 @@ export const COUPONS: Coupon[] = [
         question: 'Posso usar o cupom CECI mais de uma vez?',
         answer:
           'A regra de reutilização depende da política da loja e da campanha vigente. Se houver limite por conta, CPF ou pedido, o checkout informa.',
+      },
+      {
+        question: 'O cupom CECI vale na primeira compra na Nestlé Nutre?',
+        answer:
+          'Sim. O CECI vale na primeira compra e também para quem já comprou na loja, nos produtos elegíveis: fora Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses.',
       },
       {
         question: 'O cupom CECI vale no Mercado Livre?',
@@ -985,6 +1010,11 @@ export const COUPONS: Coupon[] = [
           'O EMCASACOMCECILIA dá 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. O desconto aparece em cada item do resumo do pedido assim que o código é aceito.',
       },
       {
+        question: 'Existe cupom Insider de 20%, 25% ou 30%?',
+        answer:
+          'Com código, o maior desconto que testamos na Insider é o do EMCASACOMCECILIA: 15%. Não testamos os códigos de 20% a 30% que aparecem em sites de cupom. O que rende mais é somar: os 15% entram sobre os preços de Black Friday e do Outlet, que já vêm reduzidos.',
+      },
+      {
         question: 'O cupom EMCASACOMCECILIA está funcionando hoje?',
         answer:
           'Sim. No último teste de checkout, em 31/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível, sobre os preços de Black Friday. A data do teste mais recente aparece no topo desta página.',
@@ -998,6 +1028,11 @@ export const COUPONS: Coupon[] = [
         question: 'Posso usar o cupom junto com outro cupom?',
         answer:
           'Não. A Insider aceita um cupom por pedido, e descontos de cupons diferentes não se somam.',
+      },
+      {
+        question: 'O EMCASACOMCECILIA é cupom de influenciadora?',
+        answer:
+          'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Ele não soma com o cupom de outra influenciadora: a Insider aceita um cupom por pedido.',
       },
       {
         question: 'O cupom acumula com produtos em promoção?',
@@ -1033,6 +1068,11 @@ export const COUPONS: Coupon[] = [
         question: 'O cupom dá frete grátis?',
         answer:
           'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+      },
+      {
+        question: 'O que fazer se o cupom EMCASACOMCECILIA não funcionar?',
+        answer:
+          'Veja se o item não é lançamento, que fica fora do desconto, e se não há outro cupom no pedido: a Insider aceita um por pedido. O cupom vale só na loja online, não nas lojas físicas nem no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -1249,6 +1289,11 @@ export const COUPONS: Coupon[] = [
           'Até 10% OFF. O percentual varia conforme o produto: alguns itens recebem os 10%, outros um desconto menor. O resumo do pedido mostra o valor de cada item assim que o código é aceito.',
       },
       {
+        question: 'Existe cupom Probiótica de 20%?',
+        answer:
+          'Com código, o desconto que testamos é o do PRO10EMCASACOMCECILIA: até 10%, variando por produto. Não testamos os códigos de 20% que aparecem em sites de cupom. Nos produtos em promoção, o cupom soma: no teste, a creatina com preço promocional recebeu os 10% por cima.',
+      },
+      {
         question: 'O cupom PRO10EMCASACOMCECILIA vale para todos os produtos da Probiótica?',
         answer:
           'Ele vale nas compras do site oficial da Probiótica, com o desconto variando por produto. Se um item não receber os 10%, o carrinho mostra; confira o resumo do pedido antes de pagar.',
@@ -1274,6 +1319,11 @@ export const COUPONS: Coupon[] = [
           'Sim. O PRO10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
       },
       {
+        question: 'O PRO10EMCASACOMCECILIA é cupom de influenciadora?',
+        answer:
+          'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Não testamos a soma com o cupom de outra pessoa; o resumo do pedido mostra qual código ficou aplicado.',
+      },
+      {
         question: 'O cupom PRO10EMCASACOMCECILIA vale no Mercado Livre?',
         answer:
           'Não. O PRO10EMCASACOMCECILIA é usado no checkout do site oficial da Probiótica e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
@@ -1288,6 +1338,11 @@ export const COUPONS: Coupon[] = [
         question: 'O cupom dá frete grátis?',
         answer:
           'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+      },
+      {
+        question: 'O que fazer se o cupom PRO10EMCASACOMCECILIA não funcionar?',
+        answer:
+          'Lembre que o desconto varia por produto: alguns itens recebem menos de 10%, e o resumo do pedido mostra quanto cada um teve. Confira se o código foi colado no campo "Cupom de Desconto" do carrinho, sem espaços, e se a compra é no site oficial, não no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -1342,6 +1397,11 @@ export const COUPONS: Coupon[] = [
           'Até 10% OFF. O percentual varia conforme o produto: alguns itens recebem os 10%, outros um desconto menor. O resumo do pedido mostra o valor de cada item assim que o código é aceito.',
       },
       {
+        question: 'Existe cupom Max Titanium de 20% ou 30%?',
+        answer:
+          'Com código, o desconto que testamos é o do MAX10EMCASACOMCECILIA: até 10%, variando por produto. Não testamos os códigos de 20% ou 30% que aparecem em sites de cupom. Nos produtos em promoção, o cupom soma, e os brindes do carrinho continuam nele.',
+      },
+      {
         question: 'O cupom MAX10EMCASACOMCECILIA vale no Pix, no cartão e em outras formas de pagamento?',
         answer:
           'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto não depende do meio escolhido.',
@@ -1349,6 +1409,11 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O cupom MAX10EMCASACOMCECILIA vale na primeira compra na Max Titanium?',
         answer: 'Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
+      },
+      {
+        question: 'O MAX10EMCASACOMCECILIA é cupom de influenciadora?',
+        answer:
+          'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Não testamos a soma com o cupom de outra pessoa; o resumo do pedido mostra qual código ficou aplicado.',
       },
       {
         question: 'O cupom MAX10EMCASACOMCECILIA vale no Mercado Livre?',
@@ -1380,6 +1445,11 @@ export const COUPONS: Coupon[] = [
         question: 'O cupom dá frete grátis?',
         answer:
           'Não necessariamente. O cupom aplica desconto nos produtos; frete, prazo e condições de entrega seguem a política da loja.',
+      },
+      {
+        question: 'O que fazer se o cupom MAX10EMCASACOMCECILIA não funcionar?',
+        answer:
+          'Lembre que o desconto varia por produto: alguns itens recebem menos de 10%, e o resumo do pedido mostra quanto cada um teve. Confira se o código foi colado no campo "Cupom de Desconto", sem espaços, no site oficial ou no app da Max Titanium; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -1898,6 +1968,11 @@ export const COUPONS: Coupon[] = [
           'Sim. Ele vale na primeira compra e também para quem já comprou na loja. Como a Mais Mu não acumula cupons, ele substitui o desconto de boas-vindas da loja, de R$ 15 em compras acima de R$ 250.',
       },
       {
+        question: 'O MMEMCASACOMCECILIA é cupom de influenciadora?',
+        answer:
+          'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Ele não soma com o cupom de outra pessoa: a Mais Mu não acumula cupons no mesmo pedido.',
+      },
+      {
         question: 'O cupom MMEMCASACOMCECILIA está funcionando hoje?',
         answer:
           'Sim. No teste de checkout de 20/10/2026, o MMEMCASACOMCECILIA aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
@@ -1921,6 +1996,11 @@ export const COUPONS: Coupon[] = [
         question: 'A Mais Mu tem frete grátis?',
         answer:
           'Sim, com valor mínimo por região. Em 20/10/2026, o site dava frete grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste e acima de R$ 399 no Norte e Nordeste. Abaixo disso, o frete é calculado no checkout.',
+      },
+      {
+        question: 'O que fazer se o cupom MMEMCASACOMCECILIA não funcionar?',
+        answer:
+          'Confira se não há outro código no pedido, como o crédito do cashback ou o desconto de boas-vindas: a Mais Mu não acumula cupons. O código vai em "Adicionar cupom de desconto", no checkout, depois de "Iniciar compra"; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -1981,6 +2061,11 @@ export const COUPONS: Coupon[] = [
         answer: 'Sim. O SKEMCASACOMCECILIA dá 10% OFF em todos os produtos do site oficial da Skelt, inclusive kits e combos.',
       },
       {
+        question: 'Existe cupom Skelt de 15%?',
+        answer:
+          'Com código, o desconto que testamos é o do SKEMCASACOMCECILIA: 10% em todo o site. Ele soma com as promoções do site e, no Pix, com os 5% da loja: no teste, os 10% entraram sobre produtos que já estavam 10% mais baratos, e o Pix tirou mais 5%.',
+      },
+      {
         question: 'O cupom soma com produtos em promoção?',
         answer:
           'Sim. No teste de 21/10/2026, os 10% do cupom entraram sobre os preços que já estavam com os 10% da promoção do site.',
@@ -1994,6 +2079,11 @@ export const COUPONS: Coupon[] = [
         question: 'O SKEMCASACOMCECILIA vale na primeira compra? Soma com o PRIMEIRA10?',
         answer:
           'Vale, mas não soma: a Skelt aceita um cupom por pedido, e aplicar outro código troca o anterior. Na primeira compra, fique com um dos dois; os dois dão 10%.',
+      },
+      {
+        question: 'O SKEMCASACOMCECILIA é cupom de influenciadora?',
+        answer:
+          'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Ele não soma com o cupom de outra influenciadora: a Skelt aceita um cupom por pedido, e aplicar outro código troca o anterior.',
       },
       {
         question: 'O cupom tira o brinde do pedido?',
@@ -2024,6 +2114,11 @@ export const COUPONS: Coupon[] = [
         question: 'A Skelt tem frete grátis?',
         answer:
           'Sim. Em 21/10/2026, o frete era grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte, Curitiba e Goiânia; a partir de R$ 199 no Sul, Sudeste e Centro-Oeste; e a partir de R$ 299 no Norte e Nordeste. O valor conta o pedido já com os descontos.',
+      },
+      {
+        question: 'O que fazer se o cupom SKEMCASACOMCECILIA não funcionar?',
+        answer:
+          'Confira se não há outro cupom no pedido, como o de primeira compra: a Skelt aceita um por pedido, e o último aplicado troca o anterior. Se o brinde sumiu ao aplicar o cupom, é o mínimo da campanha, que conta o pedido já com o desconto. O cupom vale no site oficial, não no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -2099,6 +2194,16 @@ export const COUPONS: Coupon[] = [
           'Não. A promoção da 2ª peça funciona com outro cupom da loja, que não acumula com outros cupons. Levando duas peças de preço parecido, os 50% na mais barata costumam render mais que os 10%; levando uma, fique com o CECILIA10.',
       },
       {
+        question: 'O cupom CECILIA10 vale na primeira compra na Bagaggio?',
+        answer:
+          'Sim. O CECILIA10 dá 10% OFF já na primeira compra e também para quem já comprou na loja. Como a Bagaggio não acumula cupons no mesmo pedido, ele não soma com um cupom de boas-vindas da própria loja.',
+      },
+      {
+        question: 'O CECILIA10 é cupom de influenciadora?',
+        answer:
+          'Sim. É o código da Cecília, do Em Casa com Cecília, testado por nós no checkout. Ele não soma com o cupom de outra influenciadora: a Bagaggio não acumula cupons no mesmo pedido.',
+      },
+      {
         question: 'O cupom CECILIA10 está funcionando hoje?',
         answer:
           'Sim. No teste de checkout de 22/10/2026, o CECILIA10 aplicou os 10% no carrinho. A data do teste mais recente aparece no topo desta página.',
@@ -2127,6 +2232,11 @@ export const COUPONS: Coupon[] = [
         question: 'Posso desistir da compra feita com o cupom?',
         answer:
           'Sim. Em compras pelo site, a Bagaggio aceita a desistência em até 7 dias corridos depois do recebimento, com vale-troca ou devolução do valor pago.',
+      },
+      {
+        question: 'O que fazer se o cupom CECILIA10 não funcionar?',
+        answer:
+          'Veja se não há outro cupom no carrinho, como o da promoção de 50% na 2ª peça: a Bagaggio não acumula cupons. O código vai no campo de cupom do carrinho, no site ou no app, sem espaços; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
@@ -2282,6 +2392,16 @@ export const COUPONS: Coupon[] = [
       {
         question: 'O SONAR20 vale para quem já é cliente da Hostinger?',
         answer: 'Sim. O cupom vale para clientes novos e para quem já tem plano na Hostinger.',
+      },
+      {
+        question: 'Tem cupom de primeira compra na Hostinger?',
+        answer:
+          'Sim. O SONAR20 dá 20% OFF já no primeiro plano, mensal ou anual, e vale também para quem já é cliente.',
+      },
+      {
+        question: 'Existe cupom Hostinger de 15%?',
+        answer:
+          'O SONAR20 dá mais: 20% OFF em todos os planos, mensais ou anuais, para clientes novos e antigos. No teste, os 20% entraram sobre o preço de Black Friday que a Hostinger já mostrava.',
       },
       {
         question: 'O cupom vale no plano mensal?',

@@ -633,6 +633,16 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Yes. The coupon works for new customers and for those who already have a Hostinger plan.',
       },
       {
+        question: 'Is there a first-purchase coupon for Hostinger?',
+        answer:
+          'Yes. SONAR20 takes 20% off your very first plan, monthly or yearly, and it also works if you are already a customer.',
+      },
+      {
+        question: 'Is there a 15% Hostinger coupon?',
+        answer:
+          'SONAR20 gives more: 20% off every plan, monthly or yearly, for new and existing customers. In our test, the 20% came off the Black Friday price Hostinger was already showing.',
+      },
+      {
         question: 'Does the coupon work on monthly plans?',
         answer:
           "Yes. The code covers monthly and yearly plans; on Hostinger's Brazilian site, the 1-month Startup plan also dropped 20% with SONAR20 in our October 29, 2026 test.",
@@ -712,6 +722,16 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           'Sí. El cupón funciona para clientes nuevos y para quienes ya tienen un plan de Hostinger.',
       },
       {
+        question: '¿Hay cupón de primera compra en Hostinger?',
+        answer:
+          'Sí. SONAR20 da un 20% de descuento ya en tu primer plan, mensual o anual, y también funciona si ya eres cliente.',
+      },
+      {
+        question: '¿Existe un cupón de Hostinger del 15%?',
+        answer:
+          'SONAR20 da más: un 20% de descuento en todos los planes, mensuales o anuales, para clientes nuevos y actuales. En nuestra prueba, el 20% se aplicó sobre el precio de Black Friday que Hostinger ya mostraba.',
+      },
+      {
         question: '¿El cupón funciona en planes mensuales?',
         answer:
           'Sí. El código cubre planes mensuales y anuales; en el sitio brasileño de Hostinger, en nuestra prueba del 29 de octubre de 2026, el plan Startup de 1 mes también bajó un 20% con SONAR20.',
@@ -785,6 +805,16 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         answer: 'Oui. Le code fonctionne pour les nouveaux clients et pour ceux qui ont déjà une offre Hostinger.',
       },
       {
+        question: `Existe-t-il un code promo Hostinger pour une première commande${NBSP}?`,
+        answer:
+          `Oui. SONAR20 donne 20${NBSP}% de réduction dès votre premier abonnement, mensuel ou annuel, et il fonctionne aussi si vous êtes déjà client.`,
+      },
+      {
+        question: `Existe-t-il un code promo Hostinger de 15${NBSP}%${NBSP}?`,
+        answer:
+          `SONAR20 donne plus${NBSP}: 20${NBSP}% de réduction sur toutes les offres, mensuelles ou annuelles, pour les nouveaux clients comme pour les clients existants. Lors de notre test, les 20${NBSP}% se sont appliqués au prix Black Friday que Hostinger affichait déjà.`,
+      },
+      {
         question: `Le code fonctionne-t-il sur les offres mensuelles${NBSP}?`,
         answer: `Oui. Le code couvre les offres mensuelles et annuelles${NBSP}; sur le site brésilien de Hostinger, lors de notre test du 29 octobre 2026, l’offre Startup d’un mois a également baissé de 20${NBSP}% avec SONAR20.`,
       },
@@ -848,6 +878,16 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: `Gilt SONAR20 auch für bestehende Hostinger-Kunden${NBSP}?`,
         answer: 'Ja. Der Gutschein gilt für Neukunden und für alle, die schon einen Hostinger-Tarif haben.',
+      },
+      {
+        question: 'Gibt es einen Hostinger-Gutschein für die erste Bestellung?',
+        answer:
+          `Ja. SONAR20 zieht schon beim ersten Tarif 20${NBSP}% ab, monatlich oder jährlich, und gilt auch, wenn Sie bereits Kunde sind.`,
+      },
+      {
+        question: `Gibt es einen Hostinger-Gutschein mit 15${NBSP}%?`,
+        answer:
+          `SONAR20 bringt mehr: 20${NBSP}% auf alle Tarife, monatlich oder jährlich, für Neu- und Bestandskunden. Bei unserem Test kamen die 20${NBSP}% zusätzlich auf den Black-Friday-Preis, den Hostinger bereits anzeigte.`,
       },
       {
         question: `Gilt der Gutschein auch bei Monatstarifen${NBSP}?`,
@@ -919,6 +959,16 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         question: 'SONAR20 vale per i clienti Hostinger già esistenti?',
         answer:
           'Sì. Il coupon vale per i nuovi clienti e per chi ha già un piano Hostinger.',
+      },
+      {
+        question: 'Esiste un coupon Hostinger per il primo acquisto?',
+        answer:
+          'Sì. SONAR20 dà il 20% di sconto già sul primo piano, mensile o annuale, e vale anche se sei già cliente.',
+      },
+      {
+        question: 'Esiste un coupon Hostinger del 15%?',
+        answer:
+          'SONAR20 dà di più: il 20% di sconto su tutti i piani, mensili o annuali, per clienti nuovi ed esistenti. Nel nostro test, il 20% si è applicato sul prezzo del Black Friday che Hostinger mostrava già.',
       },
       {
         question: 'Il coupon vale sui piani mensili?',
@@ -1000,6 +1050,16 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '네. 이 쿠폰은 신규 고객과 이미 Hostinger 요금제를 쓰는 고객 모두에게 적용됩니다.',
       },
       {
+        question: 'Hostinger 첫 구매 쿠폰이 있나요?',
+        answer:
+          '네. SONAR20은 첫 요금제부터 월간이든 연간이든 20% 할인되며, 이미 고객인 경우에도 쓸 수 있습니다.',
+      },
+      {
+        question: 'Hostinger 15% 쿠폰이 있나요?',
+        answer:
+          'SONAR20이 더 큽니다. 신규 고객과 기존 고객 모두 월간·연간 모든 요금제에서 20% 할인됩니다. 테스트에서는 Hostinger가 이미 보여 주던 블랙 프라이데이 가격에서 20%가 추가로 빠졌습니다.',
+      },
+      {
         question: '쿠폰은 월간 요금제에도 적용되나요?',
         answer:
           '네. 이 코드는 월간 및 연간 요금제에 적용됩니다. 2026년 10월 29일 테스트에서 Hostinger 브라질 사이트의 1개월 Startup 요금제도 SONAR20으로 20% 내렸습니다.',
@@ -1077,6 +1137,16 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         question: 'SONAR20は既存のHostinger顧客も使えますか？',
         answer:
           'はい。このクーポンは新規のお客様と、すでにHostingerプランをお持ちの方の両方に使えます。',
+      },
+      {
+        question: 'Hostingerに初回購入クーポンはありますか？',
+        answer:
+          'はい。SONAR20は最初のプランから、月払いでも年払いでも20%オフになり、すでに顧客の方も使えます。',
+      },
+      {
+        question: 'Hostingerの15%クーポンはありますか？',
+        answer:
+          'SONAR20のほうがお得です。新規・既存の顧客とも、月払い・年払いのすべてのプランが20%オフになります。テストでは、Hostingerがすでに表示していたブラックフライデー価格からさらに20%引かれました。',
       },
       {
         question: 'クーポンは月額プランでも使えますか？',
@@ -1158,6 +1228,16 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
           '適用。這個優惠碼適用於新客，也適用於已有 Hostinger 方案的客戶。',
       },
       {
+        question: 'Hostinger 有首購優惠碼嗎？',
+        answer:
+          '有。SONAR20 從第一個方案起就打 20% 折扣，月繳或年繳都適用，已經是客戶的人也能用。',
+      },
+      {
+        question: 'Hostinger 有 15% 的優惠碼嗎？',
+        answer:
+          'SONAR20 的折扣更多：所有方案，月繳或年繳，新舊客戶都打 20% 折扣。在我們的測試中，這 20% 是在 Hostinger 已顯示的黑色星期五價格上再降的。',
+      },
+      {
         question: '優惠碼適用於月繳方案嗎？',
         answer:
           '適用。代碼適用於月繳與年繳方案；在 2026 年 10 月 29 日的測試中，Hostinger 巴西網站上的 1 個月 Startup 方案也用 SONAR20 降了 20%。',
@@ -1235,6 +1315,16 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
         question: 'SONAR20 适用于现有的 Hostinger 客户吗？',
         answer:
           '适用。该优惠码适用于新客户，也适用于已拥有 Hostinger 套餐的客户。',
+      },
+      {
+        question: 'Hostinger 有首购优惠码吗？',
+        answer:
+          '有。SONAR20 从第一个套餐起就打 20% 折扣，月付或年付都适用，已经是客户的人也能用。',
+      },
+      {
+        question: 'Hostinger 有 15% 的优惠码吗？',
+        answer:
+          'SONAR20 的折扣更多：所有套餐，月付或年付，新老客户都打 20% 折扣。在我们的测试中，这 20% 是在 Hostinger 已显示的黑色星期五价格上再降的。',
       },
       {
         question: '优惠码适用于月付套餐吗？',
