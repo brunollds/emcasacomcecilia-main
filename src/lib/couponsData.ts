@@ -962,7 +962,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O que fazer se o cupom MAUAD não funcionar?',
         answer:
-          "Confira se não há outro cupom no pedido: a soma com outros cupons segue as regras da Let's Eat It. O código vai no campo de cupom do site letseatit.com.br, sem espaços; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.",
+          "Confira se não há outro cupom no pedido e se o código foi digitado sem espaços no campo de cupom do site letseatit.com.br; no Mercado Livre ele não vale. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.",
       },
       {
         question: 'O cupom MAUAD é cumulativo?',
