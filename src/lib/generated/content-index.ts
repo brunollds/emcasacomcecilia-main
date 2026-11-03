@@ -178338,6 +178338,15 @@ export const reviewsData: unknown[] = [
           "Se a compra é no site oficial da Simple Organic, o [cupom Simple Organic](/cupons/simple-organic) da parceria é o S-EMCASACOMCECILIA: 5% OFF em todo o site, de sérum e hidratante a limpeza facial, maquiagem e body splash. A Simple Organic se apresenta como marca de beleza limpa e vegana, de Florianópolis, parte da Hypera Pharma desde 2020; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
           "Ele é o código da loja online, simpleorganic.com.br. Para a primeira compra, o código é este mesmo: a parceria não tem um código separado. O que ela dá são os 5%, e é isso que o resumo do pedido vai mostrar.",
           "O desconto sai do preço que está no carrinho. Se o produto já está em promoção, os 5% saem do preço promocional, não do preço riscado. Não é muito, e por isso ele é o extra de quem já ia comprar, não o motivo da compra."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
+            "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
+            "caption": "O preço da página já traz a promoção do site; os 5% do cupom entram depois, no carrinho. Foto: Simple Organic.",
+            "objectFit": "square",
+            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
+          }
         ]
       },
       {
@@ -178352,15 +178361,6 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O cupom não entra na página do produto: ele aparece no carrinho. Escolha o que você quer e abra o carrinho; o preço da página já traz o desconto da promoção do site, quando há, e é sobre ele que os 5% vão entrar.",
           "Na dúvida entre um item avulso e um kit, ponha os dois no carrinho e compare o total com o cupom aplicado. A regra da loja sobre kits está mais abaixo, e é por isso que a comparação se faz no carrinho, não na página do produto."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
-            "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "O preço da página já traz a promoção do site; os 5% do cupom entram depois, no carrinho. Foto: Simple Organic.",
-            "objectFit": "square",
-            "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
-          }
         ]
       },
       {
