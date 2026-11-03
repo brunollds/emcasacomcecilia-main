@@ -3,8 +3,8 @@
   "slug": "hostinger-black-friday-zh-hant",
   "locale": "zh-hant",
   "translationKey": "hostinger-black-friday",
-  "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%",
-  "seoTitle": "Hostinger 黑色星期五 2026：活動價 + SONAR20 優惠碼",
+  "title": "Hostinger 黑色星期五 2026：已經開始，到 12 月 14 日，SONAR20 再減 20%",
+  "seoTitle": "Hostinger 黑色星期五 2026：到 12/14 + SONAR20",
   "type": "黑色星期五指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -30,10 +30,11 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger 的黑色星期五從 2026 年 10 月 19 日持續到 12 月 14 日。優惠碼 SONAR20 可在活動價的基礎上再減 20%。這裡有續約價格，以及付款前如何核對。",
-  "metaDescription": "Hostinger 黑色星期五 2026：活動從 10 月 19 日到 12 月 14 日，優惠碼 SONAR20 在活動價上再減 20%。續約與核對方式。",
+  "description": "Hostinger 的黑色星期五已經開始，從 2026 年 10 月 19 日持續到 12 月 14 日。優惠碼 SONAR20 可在活動價的基礎上再減 20%。這裡有續約價格，以及付款前如何核對。",
+  "metaDescription": "Hostinger 黑色星期五 2026 已經開始，持續到 12 月 14 日，優惠碼 SONAR20 在活動價上再減 20%。續約與核對方式。",
   "publishedAt": "2026年10月19日",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-03",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -45,14 +46,14 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "是的，Hostinger 的黑色星期五已經開始，持續到 2026 年 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可在此基礎上再減 20%。真正影響費用的是續約，下方會說明。"
+        "Hostinger 的黑色星期五已經開始：從 2026 年 10 月 19 日持續到 12 月 14 日。活動價會自動套用，在購物車的優惠碼欄位輸入代碼 **SONAR20**，可在此基礎上再減 20%。真正影響費用的是續約，下方會說明。"
       ]
     },
     {
       "heading": "Hostinger 的黑色星期五已經開始了嗎？",
       "paragraphs": [
         "已經開始。Hostinger 官方 FAQ 寫道：「Hostinger 黑色星期五促銷從 2026 年 10 月 19 日持續到 12 月 14 日。」英文全球頁面給出的日期相同。",
-        "網站代管頁面的橫幅寫著「最高 82% 折扣」。這是橫幅的上限，並非每個方案的折扣：48 個月的 Single 折扣是 80%。VPS 橫幅寫著「最高 70% 折扣」，VPS 不在本文的計算範圍內，下方會說明。",
+        "11 月 3 日，美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach（電子郵件行銷）75% 折扣。這是橫幅數字，並非每個方案的折扣。VPS 不在本文的計算範圍內，下方會說明。",
         "以下數字只針對 2026 年的活動，取自官方頁面。"
       ],
       "images": []
@@ -69,7 +70,7 @@
       "paragraphs": [
         "如果這週就需要讓網站上線，不要等。在我們核對過的 48 個月方案中，活動價加 SONAR20 已經是最低價。",
         "如果可以等，要知道活動持續到 12 月中旬，但在那之前沒有任何價格有保證。SONAR20 的 20% 是從活動價中扣除的：活動一變，總價也會跟著變。",
-        "對大多數個人、企業與 WordPress 網站，FAQ 本身推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。VPS 請在購物車裡自行計算：橫幅寫的是最高 70%，本文的計算不包含該方案。",
+        "對大多數個人、企業與 WordPress 網站，FAQ 本身推薦 Premium。Hostinger 建議剛起步或專案簡單的用戶選 Single。VPS 請在購物車裡自行計算：橫幅在 11 月 3 日寫的是 67%，本文的計算不包含該方案。",
         "如果你已經是客戶，請查看帳戶裡的升級優惠：FAQ 說現有客戶可能會收到單獨的優惠。SONAR20 也適用於新方案。負責本站的 Bruno 自 2024 年起就是 Hostinger 客戶，訂閱已超過 24 個月。他的方案有 Business 代管、VPS KVM 2、電子郵件與網域，全部自動續約。Em Casa com Cecília 就運行在 Hostinger 上。"
       ]
     },
@@ -88,6 +89,7 @@
     {
       "heading": "常見問題",
       "bullets": [
+        "Hostinger 的黑色星期五什麼時候開始，持續多久？已經開始，持續到 12 月中旬；確切日期在文章開頭的快速回答裡。美元版活動頁面顯示網站代管 85% 折扣、VPS 67% 折扣、Reach 75% 折扣。",
         "Hostinger 的黑色星期五有優惠碼嗎？活動價會自動套用，在購物車的優惠碼欄位輸入代碼 SONAR20，可在此基礎上再減 20%。我們不提其他網站的代碼。",
         "Hostinger 的黑色星期五到什麼時候？根據官方 FAQ，到 12 月中旬；確切日期在文章開頭。",
         "黑色星期五的價格續約時還有效嗎？沒有。它只適用於訂閱的第一個期間。續約按方案的正常價格收費。",
