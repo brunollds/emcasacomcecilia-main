@@ -20,7 +20,7 @@ import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getArticleStoreBlock, type ArticleStoreBlock } from '../src/lib/articleStore';
-import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
+import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
   getCouponStorePath,
@@ -1031,6 +1031,58 @@ function drawerStoreLinkProblems(dialog: string): string[] {
   assert.equal(drawerStoreLinkProblems(drawer('')).length, 1, 'gaveta sem o link da loja passou');
 }
 
+// A faixa do código com prazo (o CECIEMCASA15 da I Wanna Sleep) só monta no navegador. O HTML leva só o invólucro, com
+// o data-nosnippet e vazio, no fim de cada recorte (depois do botão de copiar e do link da loja) e no card da gaveta, e
+// só nos artigos com prazo pendente. O código vai no payload do React (os <script>), nunca no texto da página; o código
+// com prazo de outra loja não vai nem ao payload.
+const LIMITED_CODE_SPOTS = 4;
+function limitedCodeLineProblems(body: string, html: string, own: readonly string[], all: readonly string[]): string[] {
+  const problems: string[] = [];
+  const wrappers = elementsWithAttribute(body, 'data-limited-code-lines');
+  const expected = own.length > 0 ? LIMITED_CODE_SPOTS : 0;
+  if (wrappers.length !== expected) problems.push(`${wrappers.length} invólucros da faixa do código com prazo em vez de ${expected}`);
+  for (const wrapper of wrappers) {
+    if (!/^<div\b[^>]*\sdata-nosnippet=""[^>]*><\/div>$/.test(wrapper)) problems.push(`invólucro da faixa com conteúdo ou sem data-nosnippet: ${wrapper.slice(0, 160)}`);
+  }
+  if (own.length > 0) {
+    for (const match of body.matchAll(/<section\b[^>]*\sdata-recorte="(top|end|sidebar)"/g)) {
+      const cutout = elementAt(body, match.index);
+      const at = cutout.indexOf(' data-limited-code-lines=');
+      if (at < Math.max(cutout.lastIndexOf('<a '), cutout.lastIndexOf(' data-copied='))) problems.push(`recorte ${match[1]}: a faixa não fica no fim`);
+    }
+  }
+  for (const code of all) {
+    if (body.includes(code)) problems.push(`${code} no texto da página`);
+    if (html.includes(code) !== own.includes(code)) problems.push(`${code} ${own.includes(code) ? 'fora do' : 'no'} payload`);
+  }
+  return problems;
+}
+// O guarda acima passa no artigo certo e no artigo sem prazo, e falha com a faixa no HTML, sem o data-nosnippet, com a
+// faixa no meio do recorte, sem o invólucro da gaveta, sem o código no payload e com o código no payload de outro artigo.
+{
+  const wrapper = '<div data-nosnippet="" data-limited-code-lines=""></div>';
+  const page = (inner: string, early = false) =>
+    ['top', 'end', 'sidebar']
+      .map(
+        (variant) =>
+          `<section data-recorte="${variant}"><code>CECIEMCASA</code>${early ? inner : ''}<button data-copied="false">Copiar</button>` +
+          `<a href="https://loja.example/" rel="sponsored">Ir</a>${early ? '' : inner}<p>Copiado.</p></section>`
+      )
+      .join('') + `<dialog><article><code>CECIEMCASA</code>${inner}</article></dialog>`;
+  const payload = '<script>self.__next_f.push([1,"CECIEMCASA15"])</script>';
+  const codes = ['CECIEMCASA15'];
+  const problems = (body: string, withPayload = true, own = codes) => limitedCodeLineProblems(body, withPayload ? body + payload : body, own, codes);
+  assert.deepEqual(problems(page(wrapper)), []);
+  assert.deepEqual(problems(page(''), false, []), [], 'artigo sem prazo barrado');
+  const filled = page(wrapper.replace('></div>', '><button>Até 8 de novembro: 15% OFF com o CECIEMCASA15</button></div>'));
+  assert.notDeepEqual(problems(filled), [], 'faixa no HTML passou');
+  assert.notDeepEqual(problems(page(wrapper.replace(' data-nosnippet=""', ''))), [], 'invólucro sem data-nosnippet passou');
+  assert.notDeepEqual(problems(page(wrapper, true)), [], 'faixa no meio do recorte passou');
+  assert.notDeepEqual(problems(page(wrapper).replace(`<article><code>CECIEMCASA</code>${wrapper}`, '<article>')), [], 'gaveta sem o invólucro passou');
+  assert.notDeepEqual(problems(page(wrapper), false), [], 'código fora do payload passou');
+  assert.notDeepEqual(problems(page(''), true, []), [], 'código com prazo no payload de outro artigo passou');
+}
+
 // O topo do artigo (data-article="topo": trilha, título, dados, idiomas, histórico, recorte e foto) e o corpo
 // (data-article="corpo": ficha, seções, linha do tempo, FAQ e veredito em texto) no visual da D2: nenhuma cor antiga,
 // nem em classe nem em estilo. O fundo do artigo é branco, sem o caderno nem os pontos.
@@ -1383,6 +1435,9 @@ let faqArticles = 0;
 let decisionArticles = 0;
 let bannerArticles = 0;
 let cutoutArticles = 0;
+let limitedCodeArticles = 0;
+// Os códigos com prazo que ainda não venceram, de todas as lojas: cada um só vai ao payload dos artigos da loja dele.
+const ALL_LIMITED_CODES = [...new Set(getActiveCoupons().flatMap((store) => getPendingLimitedCodes(store).map((item) => item.code)))];
 let cutoutStoreLinks = 0;
 let codeHighlightArticles = 0;
 let sidebarCutoutArticles = 0;
@@ -1525,6 +1580,13 @@ for (const url of articleUrls) {
     cutoutStoreLinks += storeLinks.links;
     assert.deepEqual(drawerStoreLinkProblems(dialog), [], `${pagePath}: link da loja na gaveta do celular`);
   }
+  const ownLimitedCodes = (storeBlock?.limitedCodes ?? []).map((item) => item.code);
+  assert.deepEqual(
+    limitedCodeLineProblems(body, html, ownLimitedCodes, ALL_LIMITED_CODES),
+    [],
+    `${pagePath}: faixa do código com prazo`
+  );
+  if (ownLimitedCodes.length > 0) limitedCodeArticles++;
   const citesStoreCode = Boolean(storeBlock?.code && bodyCitesCode(review, storeBlock.code));
   assert.deepEqual(inlineCopyProblems(body, locale, storeBlock, citesStoreCode), [], `${pagePath}: código copiável no texto`);
   if (citesStoreCode) inlineCopyArticles++;
@@ -3872,5 +3934,5 @@ const cardsIn = (section: string) => {
 const sectionCards = (id: string) => cardsIn(between(homeBody, `aria-labelledby="${id}"`, ['aria-labelledby="titulo-', '<footer']));
 
 console.log(
-  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
+  `✅ build output: o header marca a seção atual em ${HEADER_PAGES.length} páginas, CSS de CJK e da gaveta, sitemap.xml (${sitemapUrls.length} URLs), llms.txt (${llmsUrls.length} URLs), ${translatedUrls.length} páginas de loja traduzida, ${yesStyleHubs.length} páginas da YesStyle, o dock, a sidebar, a trilha e a interface de ${articleUrls.length} artigos, o recorte do topo e da lateral de ${cutoutArticles}, a faixa do código com prazo de ${limitedCodeArticles}, o código copiável no texto de ${inlineCopyArticles}, a nota editorial de ${notedArticles}, o FAQ de ${faqArticles} igual ao FAQPage, o quadro de decisão de ${decisionArticles}, os banners de campanha de ${bannerArticles} e de ${storePageBannerPages} páginas de loja, o <head> de ${familyHeads} artigos de família, o robots de imagem grande e o dateModified de ${discoverArticles} artigos e das ${LOCALE_HOME_LOCALES.length} homes de idioma, o ${rewardCode} em ${rewardCodePages} páginas, a home (ofertas: ${sectionCards('titulo-explore-a-casa')}, vídeos: ${sectionCards('titulo-ultimos-videos')}), ${storeArticleSlugs.length} subpáginas de loja, /videos (${videosHub.videos.length} vídeos, canal: ${videosChannel ? 'sim' : 'ausente'}), ${videoWatchPages.length} páginas de vídeo, ${eventHubPaths.length} páginas de data, ${LOCALE_HOME_LOCALES.length} homes de idioma, o 404, o movimento de /cupons (o hub e ${couponMotionPages} páginas de loja) e o @id da Cecília em ${Object.values(personNodesChecked).flat().length} nós de pessoa conferidos.`
 );

@@ -2,7 +2,14 @@ import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { resolveYesStylePage } from '@/components/coupons/yesstylePage';
 import { getArticleCopy } from '@/components/review/articleCopy';
 import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
-import { getCouponBySlug, getPendingLimitedCodes, getStoreCodeKind, type Coupon, type CouponCodeKind } from '@/lib/couponsData';
+import {
+  formatBrasiliaDay,
+  getCouponBySlug,
+  getPendingLimitedCodes,
+  getStoreCodeKind,
+  type Coupon,
+  type CouponCodeKind,
+} from '@/lib/couponsData';
 import { getCouponStorePath, getLocalizedCoupon, isTranslatedLocale } from '@/lib/couponTranslations';
 import { publishedReviews, type Review } from '@/lib/data';
 import { getStoreArticlesPath, getStoreCode, hasArticlesPage } from '@/lib/homeStores';
@@ -24,12 +31,22 @@ export type ArticleStoreBlock = {
   couponPageHref?: string;
   articlesHref?: string;
   articleCount?: number;
-  // O código com prazo da loja (o CECIEMCASA15 da I Wanna Sleep): a faixa dos recortes e da gaveta, que só monta no
-  // navegador e dentro do prazo. Sem prazo pendente, o campo não vai ao payload.
+  // O código com prazo da loja (o CECIEMCASA15 da I Wanna Sleep): a faixa do fim dos recortes e do card da gaveta, que
+  // só monta no navegador e dentro do prazo. Vai no payload do React até o próximo deploy, e o navegador esconde o que
+  // venceu. Sem prazo pendente no build, o campo não existe.
   limitedCodes?: ArticleLimitedCode[];
 };
 
-export type ArticleLimitedCode = { code: string; discount: string; startsAt: string; endsAt: string };
+export type ArticleLimitedCode = {
+  code: string;
+  startsAt: string;
+  endsAt: string;
+  // "Até 8 de novembro: 15% OFF com o CECIEMCASA15": a mesma frase no recorte e na gaveta.
+  label: string;
+};
+
+// O desconto não quebra entre o número e o OFF, como na linha do recorte da página da loja.
+const NBSP = ' ';
 
 // Os mesmos códigos com prazo da página da loja (CouponStorePage): só em PT, em loja de código sem faixas, e só no
 // artigo que usa o código de sempre da loja. O que já venceu fica de fora.
@@ -41,7 +58,13 @@ export function pickArticleLimitedCodes(
 ): ArticleLimitedCode[] {
   if (locale !== 'pt' || store.offerMode !== 'discount-code' || store.tiers?.length) return [];
   if (!articleCode || articleCode !== store.code) return [];
-  return getPendingLimitedCodes(store, now).map(({ code, discount, startsAt, endsAt }) => ({ code, discount, startsAt, endsAt }));
+  const copy = getArticleCopy(locale);
+  return getPendingLimitedCodes(store, now).map(({ code, discount, startsAt, endsAt }) => ({
+    code,
+    startsAt,
+    endsAt,
+    label: copy.limitedCodeLine(code, discount.replace(/ /g, NBSP), formatBrasiliaDay(endsAt)),
+  }));
 }
 
 const MAX_RULE_LENGTH = 140;
@@ -100,7 +123,8 @@ function getStoreRules(store: Coupon, source: Coupon | undefined, locale: Coupon
   ];
 }
 
-export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale): ArticleStoreBlock | null {
+// `now` decide os códigos com prazo: o build usa a hora dele, e os testes passam uma data fixa.
+export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale, now = Date.now()): ArticleStoreBlock | null {
   if (!review.affiliate) return null;
   const store = getCouponBySlug(review.affiliate);
   if (!store) return null;
@@ -124,7 +148,7 @@ export function getArticleStoreBlock(review: Review, locale: CouponCopyLocale): 
   const ctaUrl = review.cta?.url;
   const storeHref = (ctaUrl && !isInternalLink(ctaUrl) ? ctaUrl : undefined) || source?.offerUrl || store.offerUrl;
   const storeSponsored = storeHref === ctaUrl ? review.cta?.sponsored ?? true : true;
-  const limitedCodes = pickArticleLimitedCodes(store, code, locale);
+  const limitedCodes = pickArticleLimitedCodes(store, code, locale, now);
 
   return {
     brand: store.brand,

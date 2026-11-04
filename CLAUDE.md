@@ -260,7 +260,17 @@ vídeo, primeiras impressões e uso noturno.
   `ArticleCouponCutout` tem três variantes, `top` (abaixo da introdução, acima da foto), `end` (bloco da
   loja) e `sidebar`; o copiar é o `CopyCodeButton`, com a tesoura e o verde de `/cupons`. O `top` e o `sidebar` usam
   os botões compactos (`PRIMARY_ACTION_COMPACT` e `SECONDARY_ACTION_COMPACT`, de `CouponBlocks.tsx`: 44px no
-  celular); `/cupons`, as páginas de loja e o `end` seguem com os de sempre. O fim
+  celular); `/cupons`, as páginas de loja e o `end` seguem com os de sempre. Na loja com código com prazo (o
+  `limitedCodes` de `couponsData.ts`, hoje o CECIEMCASA15 da I Wanna Sleep), o artigo em PT que usa o código de sempre
+  leva no fim dos três recortes e no card da gaveta uma faixa amarela que copia o código com prazo
+  (`ArticleLimitedCodeLines`, com o `limitedCodes` do bloco e a frase pronta de `limitedCodeLine`, `articleCopy.ts`). Ela
+  só monta no navegador e dentro do prazo (`CampaignWindow` com `hiddenInHtml`): o HTML visível leva só o invólucro
+  vazio com o `data-nosnippet`, que o Google respeita no texto que o navegador põe. O payload do React (as tags
+  `<script>`) leva o código e as datas dos prazos até o próximo deploy, porque os artigos são estáticos; o navegador
+  esconde o que venceu. No fim do recorte, a faixa que monta depois da hidratação não empurra o código nem os botões. O
+  `test:article-d2` confere a escolha com datas fixas e o `test:build-output`, o invólucro vazio e o payload. Build que
+  cruza a virada do último prazo (27 para 28/11) quebra o `test:build-output`: o build ainda leva o invólucro, e o
+  teste já não espera nenhum. O fim
   (`ArticleEnd`, dentro da coluna do artigo) vai nesta ordem: vídeo, galeria, veredito (só produto), bloco da
   loja (`ArticleStoreBlock`, `id="loja"`) ou, sem loja mas com `cta`, `ArticleAffiliateBlock` ("Ver na
   <loja>", sempre com o `cta.url` de afiliado e `rel` sponsored), caixa da Cecília (`ArticleAuthorBox`),
@@ -282,7 +292,9 @@ vídeo, primeiras impressões e uso noturno.
 - `placement` dos eventos `coupon_copy` e `coupon_store_click` dos artigos: `review_top`, `review_inline`,
   `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`, mais `review_banner_top`,
   `review_banner_mid`, `review_banner_end` e `review_styling` (só `coupon_store_click`, sem `coupon_code`). `review_final_cta` e
-  `review_verdict` saíram; componente novo do artigo passa sempre um desses.
+  `review_verdict` saíram; componente novo do artigo passa sempre um desses. A faixa do código com prazo usa o
+  `placement` do recorte ou da gaveta em que está, e o `coupon_code` separa os dois códigos no `coupon_copy`; o "Ir para
+  a loja" do recorte manda sempre o código de sempre no `coupon_store_click`, mesmo depois de copiar o com prazo.
 - Card de estilo dos artigos de roupa ("Como usar / Ocasião / Combina com"): o campo `styling` da seção
   (`{ layout?: 'tabs' | 'tags', items: [...] }`, tipos em `src/lib/content/types.ts`), desenhado por
   `ArticleStyling` (`src/components/review/article/`) no fim da seção. Cada seção escolhe o modelo: `tabs` (o padrão),
@@ -456,9 +468,10 @@ vídeo, primeiras impressões e uso noturno.
   topo que leva a ela (o `footer` do `StoreCutout`). O `CampaignWindow` mostra as duas só dentro do prazo: o que vence
   ou começa entre dois deploys some ou aparece no navegador. Na vitrine da home, o recorte da loja troca o código e o
   desconto de sempre pelos do prazo, com "Por tempo limitado: até <dia>" (`limitedCodes` da aba, em `homeStores.ts`;
-  o de sempre fica no `OutsideCampaignWindows`). O código de sempre, o título, o hub e os artigos não mudam. O
-  `test:coupon-offer-modes` confere os prazos e avisa do vencido (tirar do array); o `getPendingLimitedCodes` é
-  testado num cupom montado no teste, porque os dados reais perdem os itens vencidos.
+  o de sempre fica no `OutsideCampaignWindows`). Nos artigos em PT que usam o código de sempre da loja, uma faixa no
+  fim dos recortes e da gaveta copia o código com prazo (ver "Artigos: sumário no celular"). O código de sempre, o
+  título e o hub não mudam. O `test:coupon-offer-modes` confere os prazos e avisa do vencido (tirar do array); o
+  `getPendingLimitedCodes` é testado num cupom montado no teste, porque os dados reais perdem os itens vencidos.
 - `src/components/coupons/CouponStorePage.tsx` (lojas de `couponsData.ts`) e
   `src/components/YesStyleCouponPage.tsx` usam a mesma moldura,
   `src/components/coupons/StoreLayout.tsx`, e o `CouponDock` de `CouponActions.tsx`: no celular,
