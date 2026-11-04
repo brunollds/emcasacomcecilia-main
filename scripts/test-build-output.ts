@@ -19,8 +19,8 @@ import { brandLinks, socialMedias } from '../src/lib/brandLinks';
 import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
-import { getArticleStoreBlock, type ArticleStoreBlock } from '../src/lib/articleStore';
-import { getActiveCoupons, getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
+import { getArticleStoreBlock, type ArticleLimitedCode, type ArticleStoreBlock } from '../src/lib/articleStore';
+import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
   getCouponStorePath,
@@ -1032,55 +1032,83 @@ function drawerStoreLinkProblems(dialog: string): string[] {
 }
 
 // A faixa do código com prazo (o CECIEMCASA15 da I Wanna Sleep) só monta no navegador. O HTML leva só o invólucro, com
-// o data-nosnippet e vazio, no fim de cada recorte (depois do botão de copiar e do link da loja) e no card da gaveta, e
-// só nos artigos com prazo pendente. O código vai no payload do React (os <script>), nunca no texto da página; o código
-// com prazo de outra loja não vai nem ao payload.
-const LIMITED_CODE_SPOTS = 4;
-function limitedCodeLineProblems(body: string, html: string, own: readonly string[], all: readonly string[]): string[] {
+// o data-nosnippet e vazio: um em cada recorte (topo, lateral e fim), entre o "Ir para a loja" e a dica de copiado, e
+// um no card da gaveta, só nos artigos com prazo pendente quando a página foi gerada. O payload do React (os <script>
+// do self.__next_f) leva o campo limitedCodes e o código, que nenhum outro artigo leva. A frase não vai ao texto da
+// página, e o código não vai ao <head> nem ao JSON-LD, de onde sai o snippet: nem pela faixa, nem pelo texto do artigo
+// (o FAQ que cite o código vai ao FAQPage).
+const flightPayloadOf = (html: string) =>
+  [...html.matchAll(/<script>self\.__next_f\.push\(([\s\S]*?)\)<\/script>/g)].map(([, chunk]) => chunk).join('');
+function limitedCodeLineProblems(body: string, html: string, own: readonly ArticleLimitedCode[]): string[] {
   const problems: string[] = [];
-  const wrappers = elementsWithAttribute(body, 'data-limited-code-lines');
-  const expected = own.length > 0 ? LIMITED_CODE_SPOTS : 0;
-  if (wrappers.length !== expected) problems.push(`${wrappers.length} invólucros da faixa do código com prazo em vez de ${expected}`);
+  const wrappersIn = (part: string) => elementsWithAttribute(part, 'data-limited-code-lines');
+  const expected = own.length > 0 ? 1 : 0;
+  const wrappers = wrappersIn(body);
   for (const wrapper of wrappers) {
     if (!/^<div\b[^>]*\sdata-nosnippet=""[^>]*><\/div>$/.test(wrapper)) problems.push(`invólucro da faixa com conteúdo ou sem data-nosnippet: ${wrapper.slice(0, 160)}`);
   }
-  if (own.length > 0) {
-    for (const match of body.matchAll(/<section\b[^>]*\sdata-recorte="(top|end|sidebar)"/g)) {
-      const cutout = elementAt(body, match.index);
-      const at = cutout.indexOf(' data-limited-code-lines=');
-      if (at < Math.max(cutout.lastIndexOf('<a '), cutout.lastIndexOf(' data-copied='))) problems.push(`recorte ${match[1]}: a faixa não fica no fim`);
-    }
+  let placed = 0;
+  for (const match of body.matchAll(/<section\b[^>]*\sdata-recorte="(top|end|sidebar)"/g)) {
+    const cutout = elementAt(body, match.index);
+    const found = wrappersIn(cutout).length;
+    placed += found;
+    if (found !== expected) problems.push(`recorte ${match[1]}: ${found} invólucros da faixa em vez de ${expected}`);
+    if (found === 0) continue;
+    const at = cutout.indexOf(' data-limited-code-lines=');
+    if (at < Math.max(cutout.lastIndexOf('<a '), cutout.lastIndexOf(' data-copied='))) problems.push(`recorte ${match[1]}: a faixa antes do "Copiar" ou do link da loja`);
+    if (cutout.lastIndexOf('<p aria-hidden="true"') < at) problems.push(`recorte ${match[1]}: a faixa depois da dica de copiado`);
   }
-  for (const code of all) {
-    if (body.includes(code)) problems.push(`${code} no texto da página`);
-    if (html.includes(code) !== own.includes(code)) problems.push(`${code} ${own.includes(code) ? 'fora do' : 'no'} payload`);
+  const inDrawer = wrappersIn(body.match(/<dialog\b[\s\S]*?<\/dialog>/)?.[0] ?? '').length;
+  placed += inDrawer;
+  if (inDrawer !== expected) problems.push(`gaveta: ${inDrawer} invólucros da faixa em vez de ${expected}`);
+  if (placed !== wrappers.length) problems.push(`${wrappers.length - placed} invólucros da faixa fora dos recortes e da gaveta`);
+  const payload = flightPayloadOf(html);
+  if (payload.includes('limitedCodes') !== own.length > 0) {
+    problems.push(own.length > 0 ? 'payload sem o campo limitedCodes' : 'campo limitedCodes no payload de artigo sem código com prazo');
+  }
+  const jsonLd = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => json).join('');
+  const text = decodeHtml(body);
+  for (const { code, label } of own) {
+    if (!payload.includes(code)) problems.push(`${code} fora do payload`);
+    if (headOf(html).includes(code)) problems.push(`${code} no <head>`);
+    if (jsonLd.includes(code)) problems.push(`${code} no JSON-LD`);
+    if (text.includes(label)) problems.push(`a frase da faixa do ${code} no texto da página`);
   }
   return problems;
 }
 // O guarda acima passa no artigo certo e no artigo sem prazo, e falha com a faixa no HTML, sem o data-nosnippet, com a
-// faixa no meio do recorte, sem o invólucro da gaveta, sem o código no payload e com o código no payload de outro artigo.
+// faixa antes do "Copiar" ou depois da dica, com dois invólucros num recorte e nenhum na gaveta, com o invólucro fora dos
+// recortes, sem o payload, com o campo no payload de outro artigo e com o código no <head>, no JSON-LD ou no texto.
 {
+  const own: ArticleLimitedCode[] = [
+    { code: 'CECIEMCASA15', startsAt: '2026-11-04T00:00:00-03:00', endsAt: '2026-11-08T23:59:59-03:00', label: 'Até 8 de novembro: 15%\u00a0OFF com o CECIEMCASA15' },
+  ];
   const wrapper = '<div data-nosnippet="" data-limited-code-lines=""></div>';
-  const page = (inner: string, early = false) =>
-    ['top', 'end', 'sidebar']
-      .map(
-        (variant) =>
-          `<section data-recorte="${variant}"><code>CECIEMCASA</code>${early ? inner : ''}<button data-copied="false">Copiar</button>` +
-          `<a href="https://loja.example/" rel="sponsored">Ir</a>${early ? '' : inner}<p>Copiado.</p></section>`
-      )
-      .join('') + `<dialog><article><code>CECIEMCASA</code>${inner}</article></dialog>`;
-  const payload = '<script>self.__next_f.push([1,"CECIEMCASA15"])</script>';
-  const codes = ['CECIEMCASA15'];
-  const problems = (body: string, withPayload = true, own = codes) => limitedCodeLineProblems(body, withPayload ? body + payload : body, own, codes);
-  assert.deepEqual(problems(page(wrapper)), []);
-  assert.deepEqual(problems(page(''), false, []), [], 'artigo sem prazo barrado');
-  const filled = page(wrapper.replace('></div>', '><button>Até 8 de novembro: 15% OFF com o CECIEMCASA15</button></div>'));
-  assert.notDeepEqual(problems(filled), [], 'faixa no HTML passou');
-  assert.notDeepEqual(problems(page(wrapper.replace(' data-nosnippet=""', ''))), [], 'invólucro sem data-nosnippet passou');
-  assert.notDeepEqual(problems(page(wrapper, true)), [], 'faixa no meio do recorte passou');
-  assert.notDeepEqual(problems(page(wrapper).replace(`<article><code>CECIEMCASA</code>${wrapper}`, '<article>')), [], 'gaveta sem o invólucro passou');
-  assert.notDeepEqual(problems(page(wrapper), false), [], 'código fora do payload passou');
-  assert.notDeepEqual(problems(page(''), true, []), [], 'código com prazo no payload de outro artigo passou');
+  const cutout = (variant: string, wrap: string, place: 'fim' | 'meio' | 'depois') =>
+    `<section data-recorte="${variant}"><code>CECIEMCASA</code>${place === 'meio' ? wrap : ''}<button data-copied="false">Copiar</button>` +
+    `<a href="https://loja.example/" rel="sponsored">Ir</a>${place === 'fim' ? wrap : ''}<p aria-hidden="true">Copiado.</p>` +
+    `${place === 'depois' ? wrap : ''}</section>`;
+  const page = ({ wrap = wrapper, place = 'fim' as 'fim' | 'meio' | 'depois', drawer = wrap, extra = '' } = {}) =>
+    `<main>${['top', 'end', 'sidebar'].map((variant) => cutout(variant, wrap, place)).join('')}${extra}</main>` +
+    `<dialog><article><code>CECIEMCASA</code>${drawer}</article></dialog>`;
+  const payload = '<script>self.__next_f.push([1,"{\\"limitedCodes\\":[{\\"code\\":\\"CECIEMCASA15\\"}]}"])</script>';
+  const check = (markup: string, { withPayload = true, head = '', codes = own }: { withPayload?: boolean; head?: string; codes?: ArticleLimitedCode[] } = {}) => {
+    const html = `<html><head>${head}</head><body>${markup}${withPayload ? payload : ''}</body></html>`;
+    return limitedCodeLineProblems(bodyOf(html), html, codes);
+  };
+  assert.deepEqual(check(page()), []);
+  assert.deepEqual(check(page({ wrap: '' }), { withPayload: false, codes: [] }), [], 'artigo sem prazo barrado');
+  assert.notDeepEqual(check(page({ wrap: wrapper.replace('></div>', `><button>${own[0].label}</button></div>`) })), [], 'faixa no HTML passou');
+  assert.notDeepEqual(check(page({ wrap: wrapper.replace(' data-nosnippet=""', '') })), [], 'invólucro sem data-nosnippet passou');
+  assert.notDeepEqual(check(page({ place: 'meio' })), [], 'faixa antes do "Copiar" passou');
+  assert.notDeepEqual(check(page({ place: 'depois' })), [], 'faixa depois da dica passou');
+  assert.notDeepEqual(check(page({ drawer: '' }).replace(wrapper, wrapper + wrapper)), [], 'dois invólucros num recorte e nenhum na gaveta passaram');
+  assert.notDeepEqual(check(page({ drawer: '', extra: wrapper })), [], 'invólucro da gaveta fora dela passou');
+  assert.notDeepEqual(check(page(), { withPayload: false }), [], 'código fora do payload passou');
+  assert.notDeepEqual(check(page({ wrap: '' }), { codes: [] }), [], 'campo limitedCodes no payload de artigo sem prazo passou');
+  assert.notDeepEqual(check(page(), { head: '<meta name="description" content="Use o CECIEMCASA15">' }), [], 'código no <head> passou');
+  assert.notDeepEqual(check(page({ extra: '<script type="application/ld+json">{"description":"CECIEMCASA15"}</script>' })), [], 'código no JSON-LD passou');
+  assert.notDeepEqual(check(page({ extra: `<p>${own[0].label}</p>` })), [], 'frase da faixa no texto passou');
 }
 
 // O topo do artigo (data-article="topo": trilha, título, dados, idiomas, histórico, recorte e foto) e o corpo
@@ -1436,8 +1464,6 @@ let decisionArticles = 0;
 let bannerArticles = 0;
 let cutoutArticles = 0;
 let limitedCodeArticles = 0;
-// Os códigos com prazo que ainda não venceram, de todas as lojas: cada um só vai ao payload dos artigos da loja dele.
-const ALL_LIMITED_CODES = [...new Set(getActiveCoupons().flatMap((store) => getPendingLimitedCodes(store).map((item) => item.code)))];
 let cutoutStoreLinks = 0;
 let codeHighlightArticles = 0;
 let sidebarCutoutArticles = 0;
@@ -1506,8 +1532,10 @@ for (const url of articleUrls) {
   // A sidebar segue o idioma do artigo, com os textos de sidebarCopy.ts. A outra <aside> dos artigos
   // é a nota editorial, sem <nav>.
   const locale = LOCALE_KEYS.find((key) => key === pagePath.split('/')[1]) ?? 'pt';
-  // O bloco de loja ativa que o template recebe: recorte do topo, lateral e bloco do fim.
-  const storeBlock = getArticleStoreBlock(review, locale);
+  // O bloco de loja ativa que o template recebeu: recorte do topo, lateral e bloco do fim. A faixa do código com prazo
+  // depende da hora, e a hora é a do build (o mtime do HTML): o teste roda depois, às vezes já do outro lado do fim de
+  // um prazo.
+  const storeBlock = getArticleStoreBlock(review, locale, fs.statSync(file).mtimeMs);
   const copy = getSidebarCopy(locale);
   const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
   assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
@@ -1580,12 +1608,8 @@ for (const url of articleUrls) {
     cutoutStoreLinks += storeLinks.links;
     assert.deepEqual(drawerStoreLinkProblems(dialog), [], `${pagePath}: link da loja na gaveta do celular`);
   }
-  const ownLimitedCodes = (storeBlock?.limitedCodes ?? []).map((item) => item.code);
-  assert.deepEqual(
-    limitedCodeLineProblems(body, html, ownLimitedCodes, ALL_LIMITED_CODES),
-    [],
-    `${pagePath}: faixa do código com prazo`
-  );
+  const ownLimitedCodes = storeBlock?.limitedCodes ?? [];
+  assert.deepEqual(limitedCodeLineProblems(body, html, ownLimitedCodes), [], `${pagePath}: faixa do código com prazo`);
   if (ownLimitedCodes.length > 0) limitedCodeArticles++;
   const citesStoreCode = Boolean(storeBlock?.code && bodyCitesCode(review, storeBlock.code));
   assert.deepEqual(inlineCopyProblems(body, locale, storeBlock, citesStoreCode), [], `${pagePath}: código copiável no texto`);
@@ -1877,6 +1901,18 @@ for (const url of articleUrls) {
       `${pagePath}: gaveta sem o título "${drawerTitle}" no card do código`
     );
   }
+}
+// O artigo fora do sitemap (hideFromListings) também é gerado e leva a faixa do código com prazo do mesmo jeito.
+const sitemapArticlePaths = new Set(articleUrls.map((url) => new URL(url).pathname));
+for (const review of publishedReviews) {
+  const pagePath = getReviewCanonicalPathname(review);
+  const file = sitemapArticlePaths.has(pagePath) ? undefined : builtFile(new URL(pagePath, SITE_URL).href);
+  if (!file) continue;
+  const html = read(file);
+  const locale = LOCALE_KEYS.find((key) => key === pagePath.split('/')[1]) ?? 'pt';
+  const own = getArticleStoreBlock(review, locale, fs.statSync(file).mtimeMs)?.limitedCodes ?? [];
+  assert.deepEqual(limitedCodeLineProblems(bodyOf(html), html, own), [], `${pagePath}: faixa do código com prazo (fora do sitemap)`);
+  if (own.length > 0) limitedCodeArticles++;
 }
 // Sem nenhum artigo com nota, a conferência da nota editorial passaria à toa.
 assert.ok(notedArticles > 0, 'nenhum artigo com nota editorial');

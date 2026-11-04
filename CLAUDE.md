@@ -267,10 +267,11 @@ vídeo, primeiras impressões e uso noturno.
   só monta no navegador e dentro do prazo (`CampaignWindow` com `hiddenInHtml`): o HTML visível leva só o invólucro
   vazio com o `data-nosnippet`, que o Google respeita no texto que o navegador põe. O payload do React (as tags
   `<script>`) leva o código e as datas dos prazos até o próximo deploy, porque os artigos são estáticos; o navegador
-  esconde o que venceu. No fim do recorte, a faixa que monta depois da hidratação não empurra o código nem os botões. O
-  `test:article-d2` confere a escolha com datas fixas e o `test:build-output`, o invólucro vazio e o payload. Build que
-  cruza a virada do último prazo (27 para 28/11) quebra o `test:build-output`: o build ainda leva o invólucro, e o
-  teste já não espera nenhum. O fim
+  esconde o que venceu. Ao montar, a faixa não mexe no código nem nos botões do recorte, mas desce o que vem abaixo (no
+  topo, a foto). Copiar pela faixa também deixa o recorte verde e mostra a dica de onde colar. O `test:article-d2`
+  confere a escolha com datas fixas e o `test:build-output`, na hora do build (o mtime do HTML, não o relógio), um
+  invólucro vazio por recorte e um na gaveta, antes da dica de copiado, e o código só no payload, nem no `<head>` nem
+  no JSON-LD, inclusive nos artigos fora do sitemap. O fim
   (`ArticleEnd`, dentro da coluna do artigo) vai nesta ordem: vídeo, galeria, veredito (só produto), bloco da
   loja (`ArticleStoreBlock`, `id="loja"`) ou, sem loja mas com `cta`, `ArticleAffiliateBlock` ("Ver na
   <loja>", sempre com o `cta.url` de afiliado e `rel` sponsored), caixa da Cecília (`ArticleAuthorBox`),

@@ -78,7 +78,8 @@ export type ArticleCopy = {
   decisionTakeIf: string;
   decisionSkipIf: string;
   // A faixa do código com prazo da loja no fim dos recortes e na gaveta (o CECIEMCASA15 da I Wanna Sleep), montada no
-  // servidor por articleStore.ts. O último dia vem escrito no idioma; hoje só o PT tem código com prazo.
+  // servidor por articleStore.ts. Hoje só o PT tem código com prazo, e o último dia sai em português (formatBrasiliaDay):
+  // o idioma que ganhar um código com prazo precisa da data escrita nele.
   limitedCodeLine: (code: string, discount: string, lastDay: string) => string;
 };
 
@@ -423,7 +424,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: 'Prenderlo o no',
     decisionTakeIf: 'Prendilo se',
     decisionSkipIf: 'Lascia perdere se',
-    // "Fino al" muda para "fino all'" antes de 8 e 11: a data vai depois de "scadenza".
+    // A data vai no fim, depois de "scadenza": com "fino al", a preposição mudaria com o dia (all'8, all'11).
     limitedCodeLine: (code, discount, lastDay) => `${discount} con ${code}, scadenza: ${lastDay}`,
   },
   ko: {

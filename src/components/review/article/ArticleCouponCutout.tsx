@@ -144,7 +144,7 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
         </div>
       </div>
 
-      {/* No fim do recorte: ao montar depois da hidratação, ela não empurra o código nem os botões de cima. */}
+      {/* No fim do recorte: a faixa monta depois da hidratação sem mexer no código nem nos botões; no topo, a foto abaixo desce. */}
       {block.limitedCodes && (
         <ArticleLimitedCodeLines
           items={block.limitedCodes}
