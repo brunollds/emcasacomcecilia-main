@@ -8,9 +8,9 @@ coupon: "MAUAD"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude (Jobs 3 a 6)"
-proxima_acao: "deploy (decisão do Bruno)"
+proxima_acao: "reler preços na BF"
 bloqueado_por: "-"
 data_criacao: "2026-11-03"
 pauta: "Série \"<Marca> é boa? Vale a pena?\", lote 3 (Skelt, Cléa Store, I Wanna Sleep, Toda Up e Let's Eat It), decisão do Bruno de 03/11/2026"
@@ -285,3 +285,6 @@ Capa gerada com `covers:render` (spec no scratchpad da sessão). **Folha aprovad
 
 ## Conformação e gates (Jobs 4 e 5, 04/11/2026)
 JSON `content/reviews/lets-eat-it-e-boa.json`, id 793, só PT, no manifesto e no índice gerado. `validate:content`, `test:article-d2`, `test:review-i18n`, `typecheck`, `test:reviews-hub`, `test:site-search`, `test-delivery-integration`, `phase5-export --check`, `candidate-proof`, o `npm run build` completo e o `test:build-output` verdes. PR com auto-merge (squash) depois do Gate 1, sem deploy.
+
+## Publicação (04/11/2026)
+- No ar em 04/11/2026: PR #553, release `ffc044c7` (build 01a1a4a6), id 793, só PT. Smoke com título, capa e as imagens do corpo no CDN (69 de 69 nos seis); IndexNow; captura 41769080624 verde.

@@ -8,9 +8,9 @@ coupon: "SKEMCASACOMCECILIA"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude (Jobs 3 a 6)"
-proxima_acao: "deploy (decisão do Bruno)"
+proxima_acao: "refazer o teste do cupom antes de 21/11; reler preços e ranking antes da BF"
 bloqueado_por: "-"
 data_criacao: "2026-11-03"
 pauta: "Série \"<Marca> é boa? Vale a pena?\", lote 3 (Skelt, Cléa Store, I Wanna Sleep, Toda Up e Let's Eat It), decisão do Bruno de 03/11/2026"
@@ -447,3 +447,6 @@ Capa gerada com `covers:render` (spec no scratchpad da sessão). **Folha aprovad
 JSON `content/reviews/skelt-e-boa.json`, id 789, só PT, no manifesto e no índice gerado. `validate:content`, `test:article-d2`, `test:review-i18n`, `typecheck`, `test:reviews-hub`, `test:site-search`, `test-delivery-integration`, `phase5-export --check`, `candidate-proof`, o `npm run build` completo e o `test:build-output` verdes. PR com auto-merge (squash) depois do Gate 1, sem deploy.
 
 Pendente: Repetir o teste do cupom no dia da publicação (a regra vence em 21/11); os preços e o ranking de 23/10 a 30/10 voltam a ser lidos antes da BF.
+
+## Publicação (04/11/2026)
+- No ar em 04/11/2026: PR #553, release `ffc044c7` (build 01a1a4a6), id 789, só PT. Smoke com título, capa e as imagens do corpo no CDN (69 de 69 nos seis); IndexNow; captura 41769080624 verde.

@@ -8,9 +8,9 @@ coupon: "MAUAD"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude (Jobs 3 a 6)"
-proxima_acao: "deploy (decisão do Bruno)"
+proxima_acao: "reler preços e o estoque dos kits em dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-03"
 pauta: "B7, pauta própria (decisão do Bruno de 03/11/2026)"
@@ -359,3 +359,6 @@ Capa gerada com `covers:render` (spec no scratchpad da sessão). **Folha aprovad
 JSON `content/reviews/panetone-belive-e-bom.json`, id 788, só PT, no manifesto e no índice gerado. `validate:content`, `test:article-d2`, `test:review-i18n`, `typecheck`, `test:reviews-hub`, `test:site-search`, `test-delivery-integration`, `phase5-export --check`, `candidate-proof`, o `npm run build` completo e o `test:build-output` verdes. PR com auto-merge (squash) depois do Gate 1, sem deploy.
 
 Pendente: O [[belive-e-boa-0311]] passa a listar a B7 em primeiro nos `relatedArticles` (o corpo dele já tem 3 links internos), e a B7 linka o "é boa" no corpo.
+
+## Publicação (04/11/2026)
+- No ar em 04/11/2026: PR #553, release `ffc044c7` (build 01a1a4a6), id 788, só PT. Smoke com título, capa e as imagens do corpo no CDN (69 de 69 nos seis); IndexNow; captura 41769080624 verde.

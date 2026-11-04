@@ -55,16 +55,16 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[panetone-chocotone-belive-0311]]: Panetone Belive é bom? Chocolate e frutas pelo rótulo, os kits e o código (PT, id 788; B7, Fable 5.1 no Job 2)
-- [ ] [[skelt-e-boa-0311]]: Skelt é boa? Autobronzeador, body splash, hidratação e iluminador pelo rótulo (PT, id 789; linha "é boa", lote 3, Fable 5.1 no Job 2)
-- [ ] [[i-wanna-sleep-e-boa-0311]]: I Wanna Sleep é boa? Travesseiros, cobertores e melatonina pelo rótulo, sem colchão (PT, id 790; linha "é boa", lote 3, Fable 5.1 no Job 2)
-- [ ] [[clea-store-e-boa-0311]]: Cléa Store é boa? Camiseta, bodies e alfaiataria pelo site (PT, id 791; linha "é boa", lote 3, Fable 5.1 no Job 2)
-- [ ] [[toda-up-e-boa-0311]]: Toda Up é boa? Sutiãs Comfort, SkinUp, Cotton Up, Fita Up e kits (PT, id 792; linha "é boa", lote 3, Fable 5.1 no Job 2)
-- [ ] [[lets-eat-it-e-boa-0311]]: Let's Eat It é boa? Le Creuset, Porto Brasil, mesa posta e confiança (PT, id 793; linha "é boa", lote 3, Fable 5.1 no Job 2)
 
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[panetone-chocotone-belive-0311]]: Panetone Belive é bom? Chocolate e frutas pelo rótulo, os kits e o código (PT, id 788; B7, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[skelt-e-boa-0311]]: Skelt é boa? Autobronzeador, body splash, hidratação e iluminador pelo rótulo (PT, id 789; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[i-wanna-sleep-e-boa-0311]]: I Wanna Sleep é boa? Travesseiros, cobertores e melatonina pelo rótulo, sem colchão (PT, id 790; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[clea-store-e-boa-0311]]: Cléa Store é boa? Camiseta, bodies e alfaiataria pelo site (PT, id 791; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[toda-up-e-boa-0311]]: Toda Up é boa? Sutiãs Comfort, SkinUp, Cotton Up, Fita Up e kits (PT, id 792; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[lets-eat-it-e-boa-0311]]: Let's Eat It é boa? Le Creuset, Porto Brasil, mesa posta e confiança (PT, id 793; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
 - [x] [[mais-mu-e-boa-0311]]: Mais Mu é boa? Whey, Exquenta e barras pelo rótulo; creatina só citada (PT, id 784; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
 - [x] [[dr-peanut-e-boa-0311]]: Dr. Peanut é boa? Pasta, whey e snacks pelo rótulo (PT, id 785; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
 - [x] [[belive-e-boa-0311]]: Belive é boa? Doces sem açúcar, salgadinhos e pães pelo rótulo (PT, id 786; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
