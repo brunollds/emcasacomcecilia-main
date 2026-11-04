@@ -6,10 +6,10 @@ parceiro: "[[SHEIN]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Fable 5.1 (Job 2) e Claude (Jobs 3 a 6)"
-proxima_acao: "Merge do PR #564 (auto-merge) e deploy quando o Bruno decidir; depois smoke das 10 URLs, IndexNow e status publicado"
-bloqueado_por: "Bruno: decisão de deploy"
+proxima_acao: "medir no GSC por volta de 18/11 (impressões, posição e consultas); reler os preços das peças antes da BF"
+bloqueado_por: "-"
 data_criacao: "2026-10-30"
 pauta: "SH-1 do molde moda-casa (30/10/2026), aprovada pelo Bruno em 30/10"
 i18n_cluster: "shein (família própria, 10 idiomas)"
@@ -378,3 +378,6 @@ Caíram na verificação, entre os 16:
 - "The fitting room is the measurements", que a releitura já tinha tirado;
 - os nomes do rastreio, diferentes de um artigo para o outro em ko, zh-hant e zh-hans (cada artigo usa um termo só, e os dois são naturais);
 - o "#379" do vestido de festa na matriz do cluster, que é mesmo o PR dele.
+
+## Publicação (04/11/2026)
+- No ar em 04/11/2026: PR #564, release `0863ea63` (build 01a1a8b8), ids 794–803, nos 10 idiomas. Smoke das 20 URLs das duas famílias: título, descrição, canonical, hreflang dos 10 idiomas com x-default em inglês, capa e imagens do corpo no CDN, FAQ igual ao FAQPage, trilha igual ao BreadcrumbList, o 4CW5Y com o termo de cada idioma e nenhum Brasil fora do PT (949 de 949 conferências); sitemap, llms.txt, /reviews, as 9 /<locale>/reviews e os índices de busca; IndexNow com as 74 URLs do release; captura 41927781548 verde.
