@@ -174,7 +174,7 @@
         "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
         "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time; without a manual renewal, the service ends at the end of the period.",
         "Who bills you at Hostinger? It depends on your country. The contracting company follows section 2 of the terms, and other companies in the group may also bill you. Check the name shown at checkout.",
-        "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The code also works on renewal; check the price in the cart."
+        "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% also apply on renewal; check the price in the cart."
       ]
     },
     {
@@ -191,7 +191,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
+    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on renewal; check the renewal price in the cart.",
     "label": "See Hostinger plans",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
