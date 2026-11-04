@@ -363,7 +363,7 @@ Parceira nova (beleza limpa, cupom S-EMCASACOMCECILIA 5%, PR #537). Fatos de 03/
 | SO2 | Simple Organic no Reclame Aqui | **Publicado em 03/11/2026** (#539, release `34126d7d`, id 781): [[simple-organic-reclame-aqui-nota-reputacao]] |
 | SO3 | Cupom Simple Organic: como usar | **Publicado em 03/11/2026** (#539, release `34126d7d`, id 782): [[cupom-simple-organic-como-usar]] |
 | SO4 | Black Friday Simple Organic (Clean Friday) | **Publicado em 03/11/2026** (#539, release `34126d7d`, id 783): [[black-friday-simple-organic]] |
-| SO5 | Simple Organic é boa? (niacinamida, vitamina C, retinol, PDRN pelo rótulo) | **Pronto para deploy em 03/11/2026:** [[simple-organic-e-boa-0311]] (linha "é boa", liberada pelo Bruno depois do onboarding) |
+| SO5 | Simple Organic é boa? (niacinamida, vitamina C, retinol, PDRN pelo rótulo) | **Publicado em 03/11/2026** (#544, release `3851aa15`, id 787): [[simple-organic-e-boa-0311]] (linha "é boa", liberada pelo Bruno depois do onboarding) |
 
 ## Linha "é boa", lote 2 (Bruno, 03/11/2026)
 
@@ -371,10 +371,10 @@ O Bruno liberou o lote sem o Trends e juntou a Simple Organic a ele. Base: autoc
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| EB1 | Mais Mu é boa? (whey, Exquenta e barras; creatina só citada como linha da loja, sem detalhe, decisão do Bruno de 03/11) | **Pronto para deploy em 03/11/2026** (JSON e gates verdes, imagens no CDN): [[mais-mu-e-boa-0311]] |
-| EB2 | Dr. Peanut é boa? (pasta, whey e snacks; saúde só pelo rótulo) | **Pronto para deploy em 03/11/2026** (JSON e gates verdes, imagens no CDN): [[dr-peanut-e-boa-0311]] |
-| EB3 | Belive é boa? (doces sem açúcar, panetone, salgadinhos e pães) | **Pronto para deploy em 03/11/2026** (JSON e gates verdes, imagens no CDN): [[belive-e-boa-0311]] |
-| EB4 | Simple Organic é boa? (SO5) | **Pronto para deploy em 03/11/2026** (JSON e gates verdes, imagens no CDN): [[simple-organic-e-boa-0311]] |
+| EB1 | Mais Mu é boa? (whey, Exquenta e barras; creatina só citada como linha da loja, sem detalhe, decisão do Bruno de 03/11) | **Publicado em 03/11/2026** (#544, release `3851aa15`, id 784): [[mais-mu-e-boa-0311]] |
+| EB2 | Dr. Peanut é boa? (pasta, whey e snacks; saúde só pelo rótulo) | **Publicado em 03/11/2026** (#544, release `3851aa15`, id 785): [[dr-peanut-e-boa-0311]] |
+| EB3 | Belive é boa? (doces sem açúcar, panetone, salgadinhos e pães) | **Publicado em 03/11/2026** (#544, release `3851aa15`, id 786): [[belive-e-boa-0311]] |
+| EB4 | Simple Organic é boa? (SO5) | **Publicado em 03/11/2026** (#544, release `3851aa15`, id 787): [[simple-organic-e-boa-0311]] |
 
 ## Temas para depois (não prioritários)
 

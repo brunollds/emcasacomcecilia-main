@@ -8,9 +8,9 @@ coupon: "S-EMCASACOMCECILIA"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Marca"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Claude (Jobs 3 a 6)"
-proxima_acao: "deploy (decisão do Bruno)"
+proxima_acao: "reler preços e concentrações na revisão mensal de dezembro de 2026"
 bloqueado_por: "-"
 data_criacao: "2026-11-03"
 pauta: "Série \"<Marca> é boa? Vale a pena?\", lote 2 (Mais Mu, Dr. Peanut, Belive e Simple Organic), decisão do Bruno de 03/11/2026"
@@ -351,3 +351,6 @@ Capa no modelo do tipo, gerada com `covers:render` (spec no scratchpad da sessã
 
 ## Conformação e gates (Jobs 4 e 5, 03/11/2026)
 JSON `content/reviews/simple-organic-e-boa.json`, id 787, só PT, no manifesto e no índice gerado. `validate:content`, `test:article-d2`, `typecheck`, `test-delivery-integration`, `phase5-export --check` e `candidate-proof` verdes; o `npm run build` completo roda no Gate 1. PR com squash sem deploy.
+
+## Publicação (03/11/2026)
+- No ar em 03/11/2026: PR #544, release `3851aa15` (build 01a1a3e5), id 787, só PT. Smoke com as imagens no CDN e os links da loja como sponsored; sitemap, llms.txt e IndexNow; captura 41745392090 verde.
