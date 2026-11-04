@@ -2572,7 +2572,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O desconto vale na renovação?',
         answer:
-          'Não testamos a renovação. O carrinho mostra o preço de renovação abaixo do plano; confira esse valor antes de pagar.',
+          'Sim. O SONAR20 vale também na renovação e no VPS; só não vale no registro de domínio. O carrinho mostra o preço de renovação abaixo do plano; confira esse valor antes de pagar.',
       },
       {
         question: 'O Em Casa com Cecília usa a Hostinger?',
