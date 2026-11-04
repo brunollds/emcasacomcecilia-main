@@ -20,7 +20,7 @@ import {
   couponFontVariables,
 } from './CouponBlocks';
 import { OtherCouponCard } from './CouponCards';
-import { LimitedCodeNotices } from './LimitedCodeNotice';
+import { LimitedCodeNotices, LimitedCodePointers } from './LimitedCodeNotice';
 import { StorePageBanners } from './StorePageBanners';
 import { COUPON_STORE_COPY, type CouponStoreCopy } from './couponStoreCopy';
 import {
@@ -226,6 +226,8 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
   const couponCodeOffer = coupon.offerMode === 'discount-code' ? coupon : null;
   const affiliateLinkOffer = coupon.offerMode === 'affiliate-link' ? coupon : null;
   const tiers = couponCodeOffer?.tiers?.length ? couponCodeOffer.tiers : null;
+  // O código com prazo existe só em PT e em loja sem faixas.
+  const limitedCodes = locale === 'pt' && couponCodeOffer && !tiers ? getPendingLimitedCodes(couponCodeOffer) : [];
   const offerType = getOfferType(coupon, copy);
   const offerTypePlural =
     coupon.offerTypeLabelPlural || (couponCodeOffer ? copy.offerTypePlural.code : copy.offerTypePlural.link);
@@ -278,6 +280,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           label={couponCodeOffer ? copy.cutoutLabel.code(offerType, coupon.brand) : copy.cutoutLabel.link(offerType, coupon.brand)}
           verified={couponCodeOffer?.testNote ? copy.testedOn(lastVerified) : copy.verifiedOn(lastVerified)}
           copyable={Boolean(couponCodeOffer && !tiers)}
+          footer={limitedCodes.length > 0 ? <LimitedCodePointers items={limitedCodes} /> : undefined}
         >
           {couponCodeOffer && !tiers && (
             <>
@@ -331,9 +334,9 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
         <StoreContent>
           <LanguageLinks links={getCouponLanguageLinks(coupon.slug)} current={locale} label={copy.otherLanguagesLabel} />
 
-          {locale === 'pt' && couponCodeOffer && !tiers && (
+          {couponCodeOffer && limitedCodes.length > 0 && (
             <LimitedCodeNotices
-              items={getPendingLimitedCodes(couponCodeOffer)}
+              items={limitedCodes}
               brand={coupon.brand}
               regularCode={couponCodeOffer.code}
               regularDiscount={couponCodeOffer.discount}

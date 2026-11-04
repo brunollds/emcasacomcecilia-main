@@ -1,10 +1,10 @@
 import { ArrowUpRight } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
+import { CampaignWindow } from '@/components/ui/CampaignWindow';
 import { FOCUS_RING } from '@/components/ui/focusRing';
 import { isArticleBannerHref, type StoreBanner } from '@/lib/storeBanners';
 import { getArticleCopy } from '../articleCopy';
 import type { CouponCopyLocale } from '../couponCopyLocale';
-import { CampaignWindow } from './CampaignWindow';
 
 export type ArticlePromoBannerProps = {
   banner: StoreBanner;

@@ -2457,6 +2457,17 @@ for (const { pagePath, store } of couponStorePages) {
     limited.map((item) => item.code),
     `${pagePath}: os códigos com prazo no HTML não são os do prazo de hoje`
   );
+  // A linha do recorte do topo que leva à caixa do código com prazo, no mesmo prazo.
+  const topCutoutAt = body.indexOf('<section id="cupom"');
+  assert.ok(topCutoutAt >= 0, `${pagePath}: sem o recorte do topo (id="cupom")`);
+  const pointers = elementAt(body, topCutoutAt).match(/<a\b[^>]*\bdata-limited-code-pointer="[^"]+"[^>]*>/g) ?? [];
+  assert.deepEqual(
+    pointers.map((tag) => tag.match(/data-limited-code-pointer="([^"]+)"/)?.[1]),
+    limited.map((item) => item.code),
+    `${pagePath}: a linha do código com prazo no recorte do topo não bate com a caixa`
+  );
+  for (const tag of pointers) assert.ok(tag.includes(' href="#codigo-com-prazo"'), `${pagePath}: a linha do recorte não leva à caixa`);
+  if (limited.length > 0) assert.ok(body.includes(' id="codigo-com-prazo"'), `${pagePath}: a caixa do código com prazo sem o id`);
   const expected = {
     total: Number(copyable) + Number(Boolean(store.referral)) + others.filter(hasCopyCode).length + limited.length,
     withScissors: Number(copyable),

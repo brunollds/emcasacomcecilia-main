@@ -118,11 +118,14 @@ export function StoreCutout({
   verified,
   copyable,
   children,
+  footer,
 }: {
   label: string;
   verified: string;
   copyable: boolean;
   children: ReactNode;
+  // Depois da data do teste: o aviso do código com prazo (LimitedCodePointers).
+  footer?: ReactNode;
 }) {
   return (
     <section
@@ -143,6 +146,8 @@ export function StoreCutout({
         <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
         {verified}
       </p>
+
+      {footer}
     </section>
   );
 }
