@@ -24,7 +24,7 @@ Vale junto com o Job 2 e com as decisões de 31/10/2026 (datas, rótulos, respos
 - Põe preço, "de" riscado ou percentual no card de estilo.
 - Lista ocasião como se fosse peça, ou sugere chinelo e meia genéricos como combinação.
 - Põe bastidor: "como lemos", "nesta rodada", "a página não abriu".
-- Usa link de `br.shein.com` ou cupom do PT fora do PT. Na SHEIN, o `onelink.shein.com` vale em todo idioma.
+- Usa cupom do PT fora do PT. Na SHEIN, os links de produto valem em todo idioma, `onelink.shein.com` e `br.shein.com` (regra de 02/11).
 
 ## Exemplo de capítulo bom
 

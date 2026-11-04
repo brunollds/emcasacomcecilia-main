@@ -86,7 +86,7 @@ A build confere estas regras; o resumo técnico também está no `CLAUDE.md`, em
 10. **Releitura das traduções, antes do `pronto-para-gates`.** A build confere a estrutura, não o texto. Reler cada uma das 9 versões ao lado do PT aprovado no Job 3, um idioma por vez, de preferência com outro agente (não o que traduziu), e conferir:
     - o sentido é o do PT: os mesmos claims, nada acrescentado sem fonte, nada cortado;
     - preço, moeda, frete, disponibilidade e campanha aparecem como fatos do mercado de origem, sem conversão;
-    - o código tem o nome do idioma (tabela em `CONTRATOS-DE-CONTEUDO.md`), e a SHEIN leva o aviso de que o código é da SHEIN Brasil;
+    - o código tem o nome do idioma (tabela em `CONTRATOS-DE-CONTEUDO.md`); na SHEIN, sem aviso de país e sem "SHEIN Brasil" (regra de 02/11);
     - o link do `cta` é o do idioma (item 3 desta seção): na SHEIN, nenhum link brasileiro fora do português;
     - a escrita está certa: caracteres tradicionais em `zh-hant`, simplificados em `zh-hans`, nenhuma palavra ou frase ficou em português, e o `type` é o da tabela do item 4;
     - o FAQ segue o item 5 da seção 2, o `publishedAt` está no formato do idioma e o `editorialNote` tem até 3 linhas;
