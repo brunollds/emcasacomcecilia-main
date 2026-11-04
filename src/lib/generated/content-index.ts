@@ -53824,7 +53824,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider Store, sem valor mínimo, inclusive no Outlet e em kits. Veja como aplicar no checkout e as exceções em que ele não entra.",
-    "metaDescription": "Cupom Insider Store EMCASACOMCECILIA: 15% OFF sem valor mínimo, testado no checkout. Veja como aplicar, onde vale (Outlet e kits), as exceções e o frete grátis.",
+    "metaDescription": "O EMCASACOMCECILIA dá 15% OFF sem valor mínimo na Insider Store, testado no checkout. Veja como aplicar, onde vale (Outlet e kits) e as exceções.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "updatedAt": "2026-10-31",
@@ -56055,7 +56055,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Friday da Insider já está no ar, com até 40% OFF e 50% na segunda peça. Guia da linha masculina: preços para comparar, o cupom EMCASACOMCECILIA entra e o prazo de Natal.",
-    "metaDescription": "Black Friday Insider 2026 masculino: até 40% OFF e 2ª peça com 50%. Preços da Tech T-Shirt e das cuecas, e o cupom EMCASACOMCECILIA somando com a campanha.",
+    "metaDescription": "Black Friday Insider 2026 masculino: o cupom EMCASACOMCECILIA dá 15% OFF e soma com até 40% OFF. Tech T-Shirt, cuecas e a 2ª peça com 50%.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
     "updatedAt": "2026-11-03",
@@ -56393,7 +56393,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Friday da Insider já está no ar, com até 40% OFF e 50% na segunda peça. O guia da linha feminina, com os preços para comparar e como o cupom EMCASACOMCECILIA entra.",
-    "metaDescription": "Black Friday Insider 2026 feminino: até 40% OFF e 2ª peça com 50%. Preços da Tech feminina, calcinhas e sutiãs, e o cupom EMCASACOMCECILIA na campanha.",
+    "metaDescription": "Black Friday Insider 2026 feminino: o cupom EMCASACOMCECILIA dá 15% OFF e soma com até 40% OFF. Tech feminina, calcinhas, sutiãs e a 2ª peça.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "draft": false,
@@ -80557,7 +80557,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Max November da Max Titanium vai o mês inteiro, com cashback de até 16%, roupas com 50% OFF e Pix com 5%. Veja como o cupom MAX10EMCASACOMCECILIA soma com as promoções.",
-    "metaDescription": "Black Friday Max Titanium 2026: Max November até 30/11, cashback de até 16%, roupas com 50% OFF e Pix com 5%. Cupom MAX10EMCASACOMCECILIA de até 10%.",
+    "metaDescription": "Black Friday Max Titanium 2026: o cupom MAX10EMCASACOMCECILIA dá até 10% OFF. Cashback de até 16%, roupas com 50% OFF e 5% no Pix.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-03",
@@ -81875,7 +81875,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "As 20 peças da seleção da Cecília na Insider, com o preço do site e o preço final com o cupom EMCASACOMCECILIA, que dá 15% OFF sem valor mínimo e vale um por pedido.",
-    "metaDescription": "Promoção Insider: 20 peças com o cupom EMCASACOMCECILIA, até 49% abaixo da tabela. Preços, cores e tamanhos de cada peça, com promoções até 31/10.",
+    "metaDescription": "Promoção Insider: 20 peças da seleção da Cecília com o cupom EMCASACOMCECILIA e 15% OFF. Preço com o cupom, cores e tamanhos de cada peça.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "draft": false,
@@ -120052,7 +120052,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Skelt faz esquenta e Black Friday em novembro, e o percentual ainda não saiu. Veja os preços de autobronzeador de outubro e como o cupom SKEMCASACOMCECILIA soma com o Pix.",
-    "metaDescription": "Black Friday Skelt 2026: esquenta a partir de 05/11 e Black Friday em 27/11. Preços de autobronzeador, cupom SKEMCASACOMCECILIA com 10% OFF e Pix.",
+    "metaDescription": "Black Friday Skelt 2026: o cupom SKEMCASACOMCECILIA dá 10% OFF. O esquenta, a data da Black Friday, os preços de autobronzeador e o Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "updatedAt": "2026-11-03",
@@ -121052,7 +121052,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Friday da Bagaggio já está no ar, com até 70% OFF e leve 3, pague 2. Veja os preços de outubro de malas e mochilas e como o CECILIA10 e o Pix entram na conta.",
-    "metaDescription": "Black Friday Bagaggio 2026 já começou: até 70% OFF e leve 3, pague 2. Preços de outubro para comparar, cupom CECILIA10 com 10% OFF e Pix.",
+    "metaDescription": "Black Friday Bagaggio 2026: até 70% OFF, leve 3, pague 2 e o cupom CECILIA10 com 10% OFF. Preços para comparar antes da campanha e o Pix.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
     "updatedAt": "2026-11-03",
@@ -123711,7 +123711,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "As 10 fragrâncias de body splash da Skelt lado a lado, com as notas que a loja publica, os hidratantes da mesma fragrância e a conta dos kits com cupom e Pix, em 23/10/2026.",
-    "metaDescription": "Qual body splash Skelt escolher: as 10 fragrâncias por notas, perfil e preço, os hidratantes da mesma linha e a conta dos kits com o cupom SKEMCASACOMCECILIA, em 23/10/2026.",
+    "metaDescription": "Body splash Skelt com o SKEMCASACOMCECILIA e 10% OFF: as 10 fragrâncias por notas, perfil e preço, os hidratantes da linha e a conta dos kits.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -132046,7 +132046,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Insider no Mercado Livre ou no site: 17 produtos comparados em 27/10/2026, com o cupom EMCASACOMCECILIA do site e o preço da loja oficial no Mercado Livre, peça a peça.",
-    "metaDescription": "Insider no Mercado Livre ou no site: com o cupom EMCASACOMCECILIA, o site ganha em 13 de 17 produtos. Preços de 27/10/2026.",
+    "metaDescription": "Insider no Mercado Livre ou no site: com o cupom EMCASACOMCECILIA e 15% OFF, o site ganha em 13 de 17 produtos. Veja onde cada um ganha.",
     "image": "/images/reviews/insider/insider-mercado-livre-ou-site-capa.webp",
     "imageAlt": "Homem com a Tech T-Shirt preta da Insider, com o título Mercado Livre ou site",
     "imageFit": "contain",
@@ -144765,7 +144765,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual dos quatro potes de creatina da Max Titanium compensa? A conta pelo preço por 100 g e por dose, onde está o selo Creapure e quanto cada pote dura.",
-    "metaDescription": "Creatina Max Titanium: o pote de 100 g, 300 g, 500 g e a Creapure 250 g comparados pelo rótulo, com o preço por 100 g e por dose de 28/10/2026, o selo Creapure e o cupom MAX10EMCASACOMCECILIA.",
+    "metaDescription": "Creatina Max Titanium com o MAX10EMCASACOMCECILIA e até 10% OFF: os potes de 100 g, 300 g, 500 g e a Creapure 250 g por 100 g e por dose.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -144964,7 +144964,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. Veja qual sai mais barato por dose e a opção sem cafeína, o Night Train, com o cupom.",
-    "metaDescription": "Pré-treino Max Titanium: Hórus ou Égide? Compare cafeína por dose, dose e preço por dose pela tabela do rótulo, com o Night Train sem cafeína e o cupom MAX10EMCASACOMCECILIA, em 28/10/2026.",
+    "metaDescription": "Pré-treino Max Titanium com o MAX10EMCASACOMCECILIA e até 10% OFF: Hórus ou Égide pela cafeína e pelo preço por dose, e o Night Train sem cafeína.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -157074,7 +157074,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Conjunto de malas Bagaggio compensa? Somamos as peças avulsas de 32 conjuntos em 29/10/2026: 24 custam a soma exata. Veja quais têm desconto real e quanto.",
-    "metaDescription": "Conjunto de malas Bagaggio: dos 32 conferidos em 29/10/2026, 24 custam a soma das peças avulsas. Veja os 6 com desconto real e estoque, e o cupom CECILIA10.",
+    "metaDescription": "Com o CECILIA10, 10% OFF nos conjuntos de malas Bagaggio: dos 32 conferidos, 24 custam a soma das peças avulsas. Veja os 6 com desconto real.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -157329,7 +157329,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os seis hidratantes corporais da Skelt por perfil de fragrância, com o preço por 100 g no avulso, no kit de três e nos duos com body splash ou creme para mãos, em 29/10/2026.",
-    "metaDescription": "Qual hidratante corporal Skelt escolher: as seis fragrâncias por perfil e quanto sai por 100 g no avulso, no kit e nos duos, com a regra do cupom SKEMCASACOMCECILIA.",
+    "metaDescription": "Hidratante corporal Skelt com o SKEMCASACOMCECILIA e 10% OFF: as seis fragrâncias por perfil e quanto sai por 100 g no avulso, no kit e nos duos.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -157600,7 +157600,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Body Splash Solar Muse da Skelt pela ficha da loja: frasco de 100 ml, notas, modo de uso e a conta dos oito kits que o levam contra os avulsos, para saber se o conjunto compensa.",
-    "metaDescription": "Body Splash Skelt Solar Muse: 100 ml por R$ 99,90, as notas que a loja publica e os oito kits com o Solar comparados aos avulsos, com o cupom SKEMCASACOMCECILIA, em 29/10/2026.",
+    "metaDescription": "Body Splash Skelt Solar Muse com o SKEMCASACOMCECILIA e 10% OFF: as notas que a loja publica e os oito kits com o Solar comparados aos avulsos.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -157814,7 +157814,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Body Splash Milos Breeze da Skelt pela ficha da loja: as notas, a diferença para o Grand Bahama e a conta do frasco avulso, do Trio Exotic Trip e do kit de miniaturas.",
-    "metaDescription": "Skelt Milos Breeze: notas de água de coco, frangipani e cedro, R$ 99,90 por 100 ml, o Trio Exotic Trip a R$ 297,70 e o kit de miniaturas, com o cupom SKEMCASACOMCECILIA.",
+    "metaDescription": "Body Splash Skelt Milos Breeze com o SKEMCASACOMCECILIA e 10% OFF: notas de água de coco, frangipani e cedro, o Trio Exotic Trip e as miniaturas.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -159005,7 +159005,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Por 24 horas, a Skelt dá o Trends Set e o Body Cream Unexpected Day de brinde, só com o cupom SKEMCASACOMCECILIA. Veja as faixas de valor e como montar o pedido com folga.",
-    "metaDescription": "Brinde Skelt em 30/10: Trends Set acima de R$ 219 e Body Cream Unexpected Day acima de R$ 249, só com o cupom SKEMCASACOMCECILIA. Veja como montar o pedido.",
+    "metaDescription": "Brinde Skelt com o cupom SKEMCASACOMCECILIA e 10% OFF: o Trends Set e o Body Cream Unexpected Day só saem com o código. Veja como montar o pedido.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167012,7 +167012,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mochila para notebook Bagaggio: 12 modelos com preço de cartão de 30/10/2026, da faixa de R$ 79,90 ao couro de R$ 699,90, com medida, material e garantia informados pela loja.",
-    "metaDescription": "12 mochilas para notebook da Bagaggio com preço de cartão de 30/10/2026: medida, material e garantia informados pela loja, e o cupom CECILIA10.",
+    "metaDescription": "Mochila para notebook Bagaggio com o CECILIA10 e 10% OFF: 12 modelos com preço de cartão, medida, material e garantia informados pela loja.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167280,7 +167280,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Presente de Natal na Bagaggio por faixa de preço: carteira, nécessaire, bolsa e mochila, com o preço de cartão de 30/10/2026 e o cupom CECILIA10.",
-    "metaDescription": "Presente de Natal na Bagaggio até R$ 100, de R$ 100 a R$ 250 e acima de R$ 250, com o preço de cartão de 30/10/2026 e o cupom CECILIA10.",
+    "metaDescription": "Presente de Natal na Bagaggio com o cupom CECILIA10 e 10% OFF: as opções em três faixas de preço, com o preço de cartão de cada uma.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167551,7 +167551,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mochila escolar Bagaggio: 10 modelos com preço de cartão de 30/10/2026, medida e garantia informadas pela loja, e quais são de personagem licenciado.",
-    "metaDescription": "Mochila escolar Bagaggio: 10 modelos com preço de cartão, medida e garantia informadas pela loja em 30/10/2026. Veja as licenciadas, a idade, que as páginas não trazem, e o cupom CECILIA10.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF nas mochilas escolares Bagaggio: 10 modelos por linha, com preço de cartão, medida, garantia e as licenciadas.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -168273,7 +168273,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual camiseta masculina da Insider escolher entre Tech, Heavy, Core, Daily, Polo e Henley: tecido, preço e tamanhos de cada linha, cupom e troca.",
-    "metaDescription": "Camiseta masculina Insider: Tech, Heavy, Core, Daily, Polo e Henley comparadas por tecido e preço, com o cupom EMCASACOMCECILIA e a troca.",
+    "metaDescription": "Camiseta masculina Insider com o EMCASACOMCECILIA e 15% OFF: Tech, Heavy, Core, Daily, Polo e Henley comparadas por tecido e preço, e a troca.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -170111,7 +170111,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual camiseta feminina da Insider escolher entre Tech, Gola V, Manga Longa, Daily, NEXTECH, Perfect Top e Skin Cropped: tecido, preço, tamanhos, cupom e troca.",
-    "metaDescription": "Camiseta feminina Insider: Tech, Gola V, Manga Longa, Daily, NEXTECH, Perfect Top e Skin Cropped comparadas por tecido e preço, com o cupom EMCASACOMCECILIA e a troca.",
+    "metaDescription": "Camiseta feminina Insider com o EMCASACOMCECILIA e 15% OFF: Tech, Gola V, Manga Longa, Daily, NEXTECH e Perfect Top por tecido e preço.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -174232,7 +174232,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "As 39 peças femininas do Outlet da Insider separadas por tipo, com as cores e tamanhos que sobraram, o preço com o cupom EMCASACOMCECILIA e os sutiãs Nakedfeel sem desconto.",
-    "metaDescription": "Outlet Insider feminino vale a pena? As 39 peças por tipo (sutiãs, praia, Tech T-Shirt, vestidos), o que sobrou na grade e o preço com o cupom EMCASACOMCECILIA.",
+    "metaDescription": "Outlet Insider feminino com o EMCASACOMCECILIA e 15% OFF: as 39 peças por tipo (sutiãs, praia, Tech T-Shirt, vestidos) e o que sobrou na grade.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
     "draft": false,
@@ -175164,7 +175164,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Outlet masculino da Insider vale a pena? As cinco peças com 40% ou mais de desconto, o preço com o cupom EMCASACOMCECILIA, o que sobrou de cor e tamanho e quando o kit compensa.",
-    "metaDescription": "Outlet Insider masculino vale a pena? Preço com o cupom EMCASACOMCECILIA em cada Tech T-Shirt, regata e short à venda, cores e tamanhos que sobraram e a comparação com o kit.",
+    "metaDescription": "Outlet Insider masculino com o EMCASACOMCECILIA e 15% OFF: o preço de cada Tech T-Shirt, regata e short, o que sobrou na grade e a conta do kit.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
     "draft": false,
