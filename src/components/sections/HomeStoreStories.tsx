@@ -10,6 +10,7 @@ import { getCouponCopyLabels } from '@/components/review/couponCopyLocale';
 import { TrackedCouponPageLink } from '@/components/review/TrackedCouponPageLink';
 import { TrackedHomeLink } from '@/components/TrackedHomeLink';
 import { HomeStoreStrip, type TabDirection } from '@/components/sections/HomeStoreStrip';
+import { CampaignWindow, OutsideCampaignWindows } from '@/components/ui/CampaignWindow';
 import { FOCUS_RING, FOCUS_RING_ON_DARK } from '@/components/ui/focusRing';
 import { StoreMark } from '@/components/ui/StoreMark';
 import { trackEvent } from '@/lib/analytics';
@@ -116,7 +117,7 @@ function StorePanel({ tab, eager }: { tab: HomeStoreTab; eager: boolean }) {
 
   return (
     <div className="flex flex-col gap-4 md:gap-[22px]">
-      <CodeBanner tab={tab} />
+      <StoreCodeBanner tab={tab} />
       <div className="flex flex-col gap-5 lg:flex-row lg:items-start">
         {count > 0 ? (
           <ArticleStory article={tab.articles[current]} index={current} count={count} onMove={move} eager={eager} />
@@ -127,8 +128,29 @@ function StorePanel({ tab, eager }: { tab: HomeStoreTab; eager: boolean }) {
   );
 }
 
+// Dentro do prazo de um código com prazo, o recorte mostra ele e o desconto dele no lugar do código de sempre; fora
+// dos prazos, o de sempre. A troca acontece sozinha no navegador quando o prazo começa ou acaba.
+function StoreCodeBanner({ tab }: { tab: HomeStoreTab }) {
+  const limitedCodes = tab.limitedCodes ?? [];
+  if (limitedCodes.length === 0) return <CodeBanner tab={tab} />;
+
+  const windows = limitedCodes.map(({ startsAt, endsAt }) => ({ from: startsAt, until: endsAt }));
+  return (
+    <>
+      {limitedCodes.map((item) => (
+        <CampaignWindow key={item.startsAt} from={item.startsAt} until={item.endsAt} hiddenInHtml={!item.inHtml}>
+          <CodeBanner tab={{ ...tab, code: item.code, discount: item.discount }} deadline={item.deadline} />
+        </CampaignWindow>
+      ))}
+      <OutsideCampaignWindows windows={windows} hiddenInHtml={limitedCodes.some((item) => item.inHtml)}>
+        <CodeBanner tab={tab} />
+      </OutsideCampaignWindows>
+    </>
+  );
+}
+
 // O recorte do código: parte laranja com logo, rótulo e oferta; parte creme com o código e os links.
-function CodeBanner({ tab }: { tab: HomeStoreTab }) {
+function CodeBanner({ tab, deadline }: { tab: HomeStoreTab; deadline?: string }) {
   const titleId = `titulo-${getTabAnchor(tab.slug)}`;
 
   return (
@@ -145,6 +167,14 @@ function CodeBanner({ tab }: { tab: HomeStoreTab }) {
             {tab.label}
           </h2>
           <p className="text-[13px] leading-[1.45] font-semibold text-marinho md:text-sm">
+            {deadline ? (
+              <span
+                data-limited-code-deadline=""
+                className="mb-1 inline-block rounded-[5px] bg-marinho px-1.5 py-0.5 text-[11px] leading-4 font-extrabold tracking-[0.06em] text-amarelo-cupom uppercase md:text-xs"
+              >
+                {deadline}
+              </span>
+            ) : null}
             <span className="block font-extrabold">{tab.discount}</span>
             {asSentence(tab.description)}
           </p>

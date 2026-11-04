@@ -134,6 +134,11 @@ export function getPendingLimitedCodes(coupon: Coupon, now = Date.now()) {
     .map((item) => ({ ...item, inHtml: Date.parse(item.startsAt) <= now }));
 }
 
+// "8 de novembro", no fuso de Brasília: o fim do prazo e o dia do teste nos avisos da página da loja e da home.
+export function formatBrasiliaDay(iso: string) {
+  return new Date(iso).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', timeZone: 'America/Sao_Paulo' });
+}
+
 export type AffiliateLinkOffer = CouponBase & {
   offerMode: 'affiliate-link';
   linkInstructions?: string[];
