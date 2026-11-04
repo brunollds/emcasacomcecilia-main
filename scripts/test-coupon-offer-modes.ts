@@ -285,12 +285,34 @@ for (const coupon of COUPONS) {
   const ended = coupon.limitedCodes.length - getPendingLimitedCodes(coupon).length;
   if (ended > 0) console.warn(`⚠️ ${coupon.slug}: ${ended} código(s) com prazo vencido(s); tire de limitedCodes em couponsData.ts.`);
 }
-const iwsLimited = getCouponBySlug('i-wanna-sleep');
-assert.ok(iwsLimited && iwsLimited.offerMode === 'discount-code');
-assert.equal(iwsLimited.code, 'CECIEMCASA', 'o CECIEMCASA segue como código de sempre da I Wanna Sleep');
-const atStart = getPendingLimitedCodes(iwsLimited, Date.parse('2026-11-05T12:00:00-03:00'));
-assert.deepEqual(atStart.map((item) => [item.code, item.inHtml]), [['CECIEMCASA15', true], ['CECIEMCASA15', false]]);
-assert.equal(getPendingLimitedCodes(iwsLimited, Date.parse('2026-11-09T00:00:00-03:00')).length, 1, 'o de até 08/11 sai do build em 09/11');
-assert.equal(getPendingLimitedCodes(iwsLimited, Date.parse('2026-11-28T00:00:00-03:00')).length, 0);
+// O getPendingLimitedCodes num cupom montado aqui, com datas fixas: os dados reais perdem os itens que vencem.
+const sampleBase = COUPONS.find((item) => item.offerMode === 'discount-code' && !item.tiers);
+assert.ok(sampleBase && sampleBase.offerMode === 'discount-code', 'nenhuma loja de código sem faixas para o teste');
+const sampleWindow = (code: string, startsAt: string, endsAt: string) => ({
+  code,
+  discount: '15% OFF',
+  startsAt,
+  endsAt,
+  testedAt: '2026-01-01',
+  testNote: 'deu 15% no carrinho',
+});
+const sample = {
+  ...sampleBase,
+  limitedCodes: [
+    sampleWindow('PRAZOUM', '2026-01-05T00:00:00-03:00', '2026-01-08T23:59:59-03:00'),
+    sampleWindow('PRAZODOIS', '2026-01-20T00:00:00-03:00', '2026-01-21T23:59:59-03:00'),
+  ],
+};
+const pendingAt = (iso: string) => getPendingLimitedCodes(sample, Date.parse(iso)).map((item) => [item.code, item.inHtml]);
+assert.deepEqual(pendingAt('2026-01-01T12:00:00-03:00'), [['PRAZOUM', false], ['PRAZODOIS', false]], 'antes do prazo: no payload, fora do HTML');
+assert.deepEqual(pendingAt('2026-01-06T12:00:00-03:00'), [['PRAZOUM', true], ['PRAZODOIS', false]], 'no 1º prazo: ele no HTML, o 2º só no payload');
+assert.deepEqual(pendingAt('2026-01-08T23:59:59-03:00'), [['PRAZOUM', true], ['PRAZODOIS', false]], 'o último segundo do prazo ainda vale');
+assert.deepEqual(pendingAt('2026-01-09T00:00:00-03:00'), [['PRAZODOIS', false]], 'o vencido sai do build');
+assert.deepEqual(pendingAt('2026-01-20T08:00:00-03:00'), [['PRAZODOIS', true]]);
+assert.deepEqual(pendingAt('2026-01-22T00:00:00-03:00'), []);
+assert.deepEqual(getPendingLimitedCodes(shein, Date.parse('2026-01-06T12:00:00-03:00')), [], 'loja de link não tem código com prazo');
+const iws = getCouponBySlug('i-wanna-sleep');
+assert.ok(iws && iws.offerMode === 'discount-code');
+assert.equal(iws.code, 'CECIEMCASA', 'o código com prazo não substitui o CECIEMCASA, o código de sempre da I Wanna Sleep');
 
 console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, Hostinger e prateleiras do hub conferidos.");
