@@ -305,8 +305,8 @@ Estudo do cupomtiff.com.br (case da Inbazz) e rodadas com os moldes de título (
 | M1 | Presente de Natal na Bagaggio | **Publicado em 30/10/2026:** [[presente-natal-bagaggio]] (PR #369) |
 | M2 | Mochila escolar Bagaggio | **Publicado em 30/10/2026:** [[mochila-escolar-bagaggio]] (PR #369) |
 | M3 | Mala de bordo: o que pode levar | Virou seção de [[mala-de-bordo-bagaggio-qual-compensa]] (só com ANAC e companhias) |
-| M4 | SHEIN vale a pena? | **Pronto para deploy em 04/11/2026 (PR #564):** [[shein-vale-a-pena]] (10 idiomas, ids 794–803) |
-| M5 | Tamanho SHEIN no Brasil | **Pronto para deploy em 04/11/2026 (PR #564):** [[tamanho-shein-brasil]] (10 idiomas, ids 804–813) |
+| M4 | SHEIN vale a pena? | **No ar em 04/11/2026** (PR #564, release `0863ea63`): [[shein-vale-a-pena]] (10 idiomas, ids 794–803) |
+| M5 | Tamanho SHEIN no Brasil | **No ar em 04/11/2026** (PR #564, release `0863ea63`): [[tamanho-shein-brasil]] (10 idiomas, ids 804–813) |
 | M6 | Dr. Peanut: Mercado Livre ou site | Briefing pronto (30/10); espera o link do Mercado Livre do Bruno. Pix lido no Chrome: 3% adicional |
 | M7 | DAMIE: é confiável, DAMIE ou Frau, medidas de sofá e poltrona | Handoff mandado ao subdomínio damie.emcasacomcecilia.com em 30/10 (repositório e agente próprios). "É confiável", medidas da poltrona, limpeza e cinema já existem lá; lacunas reais: medidas do sofá modular e DAMIE ou Frau |
 | M8 | Whey Probiótica: concentrado ou isolado | **Aprovada em 30/10/2026 como seção** de `melhor-whey-qual-escolher-por-objetivo`: [[whey-probiotica-concentrado-ou-isolado]] |

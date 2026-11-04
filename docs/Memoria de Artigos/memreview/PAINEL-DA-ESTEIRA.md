@@ -52,12 +52,13 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[shein-vale-a-pena]]: SHEIN vale a pena? Quando compensa comprar e quando passar (10 idiomas, ids 794–803; Fable 5.1 no Job 2; gates verdes em 04/11/2026, PR #564)
-- [ ] [[tamanho-shein-brasil]]: Tamanho na SHEIN: qual letra pedir e como ler o guia de cada peça (10 idiomas, ids 804–813; Fable 5.1 no Job 2; gates verdes em 04/11/2026, PR #564)
+- *(Nenhum artigo no momento)*
 
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[shein-vale-a-pena]]: SHEIN vale a pena? Quando compensa comprar e quando passar (10 idiomas, ids 794–803; Fable 5.1 no Job 2; no ar em 04/11/2026, PR #564, release `0863ea63`) 🚀
+- [x] [[tamanho-shein-brasil]]: Tamanho na SHEIN: qual letra pedir e como ler o guia de cada peça (10 idiomas, ids 804–813; Fable 5.1 no Job 2; no ar em 04/11/2026, PR #564, release `0863ea63`) 🚀
 - [x] [[panetone-chocotone-belive-0311]]: Panetone Belive é bom? Chocolate e frutas pelo rótulo, os kits e o código (PT, id 788; B7, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
 - [x] [[skelt-e-boa-0311]]: Skelt é boa? Autobronzeador, body splash, hidratação e iluminador pelo rótulo (PT, id 789; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
 - [x] [[i-wanna-sleep-e-boa-0311]]: I Wanna Sleep é boa? Travesseiros, cobertores e melatonina pelo rótulo, sem colchão (PT, id 790; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
