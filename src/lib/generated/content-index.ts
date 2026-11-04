@@ -28811,7 +28811,7 @@ export const reviewsData: unknown[] = [
     "rating": 5,
     "ratingCount": 14,
     "description": "Análise completa da nova Poltrona Reclinável Damie 2.0 (versão 2026). Testamos a versão elétrica com massagem, giro, balanço, mesa de apoio e cupom CECILIA12.",
-    "metaDescription": "Análise da Poltrona Reclinável Damie 2.0. Veja os opcionais de massagem, mesa, motor de cabeça e use o cupom CECILIA12 para ganhar 12% de desconto.",
+    "metaDescription": "Poltrona Damie 2.0 com o cupom CECILIA12 e 12% de desconto: a minha análise dos opcionais de massagem, mesa e motor de cabeça.",
     "publishedAt": "21 Jul 2026",
     "publishedAtISO": "2026-07-21",
     "authors": [
@@ -29238,7 +29238,7 @@ export const reviewsData: unknown[] = [
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "description": "O CECILIA010 é um código de recompensa da YesStyle com até 5% extra: 5% na primeira compra e 2% nas seguintes. Veja onde digitar no Reward Code e como soma com os cupons.",
-    "metaDescription": "Como usar CECILIA010 na YesStyle: campo Reward Code, até 5% extra (5% na primeira compra e 2% nas recorrentes), combinável com cupons promocionais elegíveis conforme o checkout.",
+    "metaDescription": "O código CECILIA010 dá até 5% extra na YesStyle: 5% na primeira compra e 2% nas recorrentes. Veja onde fica o campo Reward Code no checkout.",
     "publishedAt": "21 Jun 2026",
     "publishedAtISO": "2026-06-21",
     "updatedAt": "2026-10-12",
@@ -29531,7 +29531,7 @@ export const reviewsData: unknown[] = [
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "description": "Guia prático para achar os cupons de desconto da YesStyle, entender a diferença entre Coupon Code e Reward Code e somar até 5% extra com o CECILIA010.",
-    "metaDescription": "Onde achar os cupons da YesStyle em vigor, como evitar códigos vencidos e como somar o código de recompensa CECILIA010 para economizar até 5% extra.",
+    "metaDescription": "O código de recompensa CECILIA010 dá até 5% extra na YesStyle. Veja onde achar os cupons da loja em vigor e como evitar os códigos vencidos.",
     "publishedAt": "24 Jul 2026",
     "publishedAtISO": "2026-07-24",
     "authors": [
@@ -32017,6 +32017,7 @@ export const reviewsData: unknown[] = [
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "description": "Passo a passo simples para usar o cupom CECILIA12 no site da Damie. Veja onde digitar o código e como confirmar o desconto antes de finalizar a compra.",
+    "metaDescription": "O CECILIA12 dá 12% OFF em todos os produtos da DAMIE e soma com o Pix. Veja onde digitar o código e como confirmar o desconto antes de pagar.",
     "publishedAt": "11 Jun 2026",
     "publishedAtISO": "2026-06-11",
     "image": "/images/reviews/cupom-damie-cecilia-poltrona-reclinavel.webp",
@@ -33324,6 +33325,7 @@ export const reviewsData: unknown[] = [
     "reviewKind": "produto",
     "rating": 5,
     "description": "Minha experiência real com as poltronas reclináveis Damie: compra, montagem, tecido, conforto no uso diário e cupom CECILIA12.",
+    "metaDescription": "Poltrona reclinável Damie com o CECILIA12 e 12% OFF: a minha experiência com compra, montagem, tecido, conforto no uso diário e amamentação.",
     "publishedAt": "17 Abr 2026",
     "publishedAtISO": "2026-04-17",
     "authors": [
@@ -34891,7 +34893,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Análise dos dados públicos da I Wanna Sleep: CNPJ 43.783.630/0001-92, lojas físicas, políticas de entrega, trocas e como consultar cupons no site oficial.",
-    "metaDescription": "A I Wanna Sleep é confiável? Veja dados de CNPJ, lojas físicas, políticas de devolução e como testar o cupom CECIEMCASA no e-commerce oficial.",
+    "metaDescription": "A I Wanna Sleep, com o cupom CECIEMCASA e 10% OFF, é confiável? Os dados de CNPJ, as lojas físicas e as políticas de devolução antes de comprar.",
     "publishedAt": "14 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/iwannasleep/i-wanna-sleep-e-confiavel-capa-discover.webp",
@@ -35078,7 +35080,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Ficha técnica do Travesseiro IWS Snow com preço atual, materiais, regulagem de altura e produtos relacionados da marca.",
-    "metaDescription": "Veja a ficha técnica do Travesseiro IWS Snow: preço, materiais, regulagem de altura e como comprar com cupom CECIEMCASA.",
+    "metaDescription": "Travesseiro IWS Snow com o cupom CECIEMCASA e 10% OFF: a ficha técnica, os materiais, a regulagem de altura e como comprar.",
     "publishedAt": "Draft",
     "draft": true,
     "image": "/images/reviews/iwannasleep/travesseiro-snow-hero.webp",
@@ -39863,7 +39865,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia sobre o Sleeptest da I Wanna Sleep: regras por categoria (colchões 100 dias, travesseiros 30 dias), custos de frete, etiquetas e reembolso em crédito.",
-    "metaDescription": "Entenda o Sleeptest da I Wanna Sleep: colchões (100 dias), travesseiros (30 dias), taxa de frete R$300 em colchões (BH), etiqueta intacta e crédito.",
+    "metaDescription": "Sleeptest da I Wanna Sleep com o cupom CECIEMCASA e 10% OFF: colchões em 100 dias, travesseiros em 30, o frete da troca, a etiqueta e o crédito.",
     "publishedAt": "Draft",
     "draft": true,
     "pros": [],
@@ -41689,7 +41691,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Ficha da Melatonina Líquida IWS (30 ml, sabor maracujá): 0,21 mg por gota, cerca de 750 gotas, ingredientes, cuidados de rótulo, preço e cupom CECIEMCASA.",
     "seoTitle": "Melatonina Líquida IWS 30 ml: ficha e preço",
-    "metaDescription": "Ficha da Melatonina Líquida IWS 30 ml sabor maracujá: 0,21 mg por gota, ingredientes, cuidados do rótulo, preço e cupom CECIEMCASA.",
+    "metaDescription": "Melatonina Líquida IWS 30 ml com o cupom CECIEMCASA e 10% OFF: 0,21 mg por gota, sabor maracujá, ingredientes e os cuidados do rótulo.",
     "publishedAt": "20 de agosto de 2026",
     "publishedAtISO": "2026-08-20",
     "updatedAt": "2026-10-24",
@@ -42764,7 +42766,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que é K-Beauty, por que a beleza coreana virou uma febre global de skincare e onde encontrar marcas como COSRX, Beauty of Joseon e Anua reunidas num só lugar.",
-    "metaDescription": "Entenda o que é K-Beauty, por que virou tendência mundial de skincare e onde comprar marcas coreanas como COSRX, Anua e Beauty of Joseon com o código CECILIA010.",
+    "metaDescription": "K-Beauty na YesStyle com o código CECILIA010 e até 5% extra: o que é, por que virou tendência e onde comprar COSRX, Anua e Beauty of Joseon.",
     "publishedAt": "25 de agosto de 2026",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -46762,7 +46764,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Aos 30, testei uma rotina de iniciante com três produtos da Abib da YesStyle: adesivo de olhos, creme com PDRN e máscara labial. Veja minhas impressões e o CECILIA010.",
-    "metaDescription": "Skincare coreano aos 30 para iniciantes: testei o adesivo de olhos, o creme PDRN e a lip mask da Abib. Textura, cheiro, como usar e o código CECILIA010 na YesStyle.",
+    "metaDescription": "Skincare coreano aos 30 com o código CECILIA010 e até 5% extra na YesStyle: testei o adesivo de olhos, o creme PDRN e a lip mask da Abib.",
     "publishedAt": "28 de setembro de 2026",
     "publishedAtISO": "2026-09-28",
     "draft": false,
@@ -52157,7 +52159,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom MAUAD dá 5% de desconto no site da Let's Eat It, e testamos até em item de pré-venda e em preço promocional. Veja o passo a passo para aplicar no checkout.",
-    "metaDescription": "Cupom Let's Eat It MAUAD: 5% OFF testado no checkout, inclusive em promoção. Veja o passo a passo e como ficam Pix, cashback, frete e primeira compra.",
+    "metaDescription": "O código MAUAD dá 5% OFF na Let's Eat It, testado no checkout, inclusive em promoção. Veja o passo a passo, o Pix, o cashback, o frete e a 1ª compra.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
     "updatedAt": "2026-10-08",
@@ -52395,7 +52397,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Pillow Top Magnum vale a pena se o colchão está em bom estado, mas firme demais; ele não resolve colchão afundado nem trata dor nas costas. Veja para quem serve.",
-    "metaDescription": "Pillow Top Magnum IWS: 10 cm de AirFiber, elásticos, tamanhos, preços, cuidados e quando ajuda no colchão duro. 10% OFF com o cupom CECIEMCASA.",
+    "metaDescription": "Pillow Top Magnum IWS com o cupom CECIEMCASA e 10% OFF: 10 cm de AirFiber, elásticos, tamanhos, cuidados e quando ajuda no colchão duro.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
     "draft": false,
@@ -55031,7 +55033,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Friday da DAMIE já está no ar, com poltrona reclinável, três presentes e frete grátis. Veja os preços de outubro para comparar e como o CECILIA12 soma com as promoções.",
-    "metaDescription": "Black Friday DAMIE 2026 já começou, até 27/11: poltrona com 3 presentes e frete grátis. Preços de outubro para comparar, Pix e o cupom CECILIA12.",
+    "metaDescription": "Black Friday DAMIE 2026: o cupom CECILIA12 dá 12% OFF e soma com o Pix. A poltrona com 3 presentes, o frete grátis e os preços para comparar.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
     "updatedAt": "2026-11-03",
@@ -55699,7 +55701,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A I Wanna Sleep entrou em novembro sem campanha de Black Friday. Veja os preços do Pillow Top Magnum para comparar, como o cupom CECIEMCASA entra e o prazo para o Natal.",
-    "metaDescription": "Black Friday I Wanna Sleep 2026: a loja segue sem campanha. Preços de outubro do Pillow Top Magnum e travesseiros, cupom CECIEMCASA com Pix e Natal.",
+    "metaDescription": "Black Friday I Wanna Sleep 2026: o cupom CECIEMCASA dá 10% OFF em todo o site, e a loja segue sem campanha. Pillow Top Magnum, travesseiros e Natal.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
     "updatedAt": "2026-11-03",
@@ -57363,7 +57365,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Friday da YesStyle já está no ar, com Mega Sale e cupom de faixa de 8% a 15%. Veja como somar o CECILIA010 no Reward Code e por que a loja não entrega no Brasil.",
-    "metaDescription": "A Black Friday da YesStyle 2026 já começou: Mega Sale, cupom de 8% a 15% por faixa, os dias de 15% sem mínimo e como somar o CECILIA010. Sem entrega no Brasil.",
+    "metaDescription": "Black Friday YesStyle 2026: o código de recompensa CECILIA010 dá até 5% extra. A Mega Sale, os cupons da loja por faixa e os dias de 15% sem mínimo.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
     "updatedAt": "2026-11-03",
@@ -72395,7 +72397,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse lado a lado no Brasil e em Portugal: quem entrega, quando o frete é grátis, quem paga o imposto e o que cada loja devolve.",
-    "metaDescription": "YesStyle ou Stylevana: entrega, frete grátis, imposto e devolução, com o código de recompensa CECILIA010 de até 5% na YesStyle.",
+    "metaDescription": "YesStyle ou Stylevana, com o código de recompensa CECILIA010 e até 5% extra na YesStyle: entrega, frete grátis, imposto e devolução.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
@@ -74905,7 +74907,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a Probiótica é confiável: operada pela Supley, com CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Veja frete, prazos e o ponto de atenção.",
-    "metaDescription": "Quem opera a Probiótica, o CNPJ, o site oficial, as trocas e o frete, com o cupom PRO10EMCASACOMCECILIA de até 10% OFF.",
+    "metaDescription": "Com o PRO10EMCASACOMCECILIA, até 10% OFF na Probiótica: quem opera a loja, o CNPJ, o site oficial, as trocas e o frete.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -75857,7 +75859,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Dá para confiar na Dr. Peanut? Os números do Reclame Aqui, com reputação Boa em 6 meses e Ótima em 12, onde as queixas se concentram e o que fazer se o pedido der problema.",
-    "metaDescription": "Dr. Peanut no Reclame Aqui: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12, com o cupom DREMCASACOMCECILIA de 10% OFF na loja.",
+    "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: a reputação no Reclame Aqui, Boa (7,4) em 6 meses e Ótima (8,1) em 12.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -76135,7 +76137,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, em qualquer forma de pagamento. Veja o passo a passo no carrinho, o frete grátis por região e como trocar.",
-    "metaDescription": "Cupom Dr. Peanut DREMCASACOMCECILIA: 10% OFF em todo o site, testado no carrinho. Veja o passo a passo, o frete grátis por região e as regras de troca.",
+    "metaDescription": "O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado no carrinho. Veja o passo a passo, o frete grátis por região e as trocas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -80057,7 +80059,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Veja o passo a passo para aplicar no carrinho e como ele soma com a promoção e com o cashback.",
-    "metaDescription": "Cupom Cléa Store CSEMCASACOMCECILIA: 10% OFF em todo o site, testado no carrinho. Veja como aplicar, o cashback e o frete grátis.",
+    "metaDescription": "O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, testado no carrinho. Veja como aplicar, o cashback e o frete grátis.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -81008,7 +81010,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Novembro PRO da Probiótica já começou, com Pix e boleto de até 5% OFF. Veja os preços de outubro de whey e creatina e como o PRO10EMCASACOMCECILIA soma com a promoção.",
-    "metaDescription": "Black Friday Probiótica 2026: o Novembro PRO já começou, com Pix e boleto de até 5% OFF. Cupom PRO10EMCASACOMCECILIA de até 10% e frete grátis.",
+    "metaDescription": "Black Friday Probiótica 2026: o cupom PRO10EMCASACOMCECILIA dá até 10% OFF. A campanha já começou, com até 5% no Pix e no boleto e frete grátis.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-03",
@@ -81228,7 +81230,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Friday da Cléa Store já está no ar, com 30% OFF em todo o site e kits a preço fixo. Veja o que a loja mostra e como o cupom CSEMCASACOMCECILIA entra na conta.",
-    "metaDescription": "Black Friday Cléa Store 2026 já começou: 30% OFF em todo o site e kits a preço fixo. Preços de outubro, cupom CSEMCASACOMCECILIA, frete e cashback.",
+    "metaDescription": "Black Friday Cléa Store 2026: o cupom CSEMCASACOMCECILIA dá 10%, e o site tem 30% OFF em tudo e kits a preço fixo. Frete, cashback e preços.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-03",
@@ -81690,7 +81692,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Cléa Store dá uma T-Shirt Oversized de brinde na compra de qualquer peça, e o cupom CSEMCASACOMCECILIA vale junto. Veja como escolher o brinde e o pedido mais barato.",
-    "metaDescription": "Cléa Store 14 anos: T-Shirt de brinde em qualquer compra até 31/10. Como escolher, o pedido mais barato e o cupom CSEMCASACOMCECILIA testado junto.",
+    "metaDescription": "Cléa Store 14 anos: a T-Shirt de brinde e o cupom CSEMCASACOMCECILIA, com 10% OFF, testados juntos. Como escolher e o pedido mais barato.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "draft": false,
@@ -85584,7 +85586,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black November da Belive já está no ar: até 30% de desconto em todo o site, mais 5% no Pix, panetones em oferta e o cupom MAUAD de 10% para somar.",
-    "metaDescription": "Black Friday Belive 2026: a Black November já começou, com até 30% em todo o site, 5% no Pix e panetones em oferta. Cupom MAUAD de 10% e frete por região.",
+    "metaDescription": "Black Friday Belive 2026: até 30% em todo o site e o cupom MAUAD com 10% OFF. Também 5% no Pix, panetones em oferta e o frete por região.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "updatedAt": "2026-11-03",
@@ -91495,7 +91497,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Probiótica ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g e o cupom PRO10EMCASACOMCECILIA no teto.",
-    "metaDescription": "Probiótica ou Growth: whey e creatina comparados por 100 g de proteína e de creatina, ingredientes, cupom PRO10EMCASACOMCECILIA e frete das duas lojas.",
+    "metaDescription": "Probiótica ou Growth, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina e o frete.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
     "draft": false,
@@ -98154,7 +98156,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "A Black Friday da Hostinger já está no ar e o código SONAR20 tira mais 20% do preço da campanha. Veja a conta por plano e o que muda na renovação antes de pagar.",
-    "metaDescription": "Black Friday Hostinger 2026 já começou e vai até 14/12. O cupom SONAR20 tira mais 20% do preço da campanha. Preços por plano e renovação.",
+    "metaDescription": "Black Friday Hostinger 2026: o cupom SONAR20 tira mais 20% do preço da campanha e vale na renovação. Preços por plano, já com a campanha no ar.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-03",
@@ -102093,7 +102095,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que o rótulo de cada produto da Dr. Peanut mostra: açúcares totais e adicionados, adoçantes e polióis, lactose, glúten e calorias por porção, e o que a loja não publica.",
-    "metaDescription": "Rótulo da Dr. Peanut, da pasta ao whey: açúcar, adoçantes, lactose e calorias, com o cupom DREMCASACOMCECILIA de 10% OFF no site.",
+    "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: o rótulo da pasta ao whey, com açúcar, adoçantes, lactose e calorias.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -104331,7 +104333,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Probiótica sai mais barata que a Dux no whey e na creatina e tem o cupom PRO10EMCASACOMCECILIA; a Dux ganha no Pix. Veja onde cada uma ganha e quem escolhe o quê.",
-    "metaDescription": "Probiótica ou Dux: whey e creatina comparados por 100 g de proteína e de creatina, Creapure, ingredientes, cupom PRO10EMCASACOMCECILIA, Pix e frete.",
+    "metaDescription": "Probiótica ou Dux, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina, Creapure e frete.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -104850,7 +104852,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Mais Mu tem reputação Regular no Reclame Aqui nos últimos seis meses, com nota 6,4. Veja os números, as queixas mais comuns e o que fazer se o pedido der problema.",
-    "metaDescription": "Mais Mu no Reclame Aqui: reputação Regular em 6 meses (nota 6,4), 67,9% resolvidas e queixas sobre entrega, com o cupom MMEMCASACOMCECILIA de 10% OFF.",
+    "metaDescription": "Com o MMEMCASACOMCECILIA, 10% OFF na Mais Mu: a reputação Regular no Reclame Aqui (6,4), 67,9% resolvidas e as queixas sobre entrega.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -105329,7 +105331,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Mais Mu chama a Black Friday de Blue Friday e já tem até 50% OFF e 3% no Pix. Veja os preços de outubro de whey e creatina e como o MMEMCASACOMCECILIA entra na conta.",
-    "metaDescription": "Black Friday Mais Mu 2026: a Blue Friday já está no ar, com até 50% OFF e 3% no Pix. Cupom MMEMCASACOMCECILIA de 10% e preços de outubro.",
+    "metaDescription": "Black Friday Mais Mu 2026: o cupom MMEMCASACOMCECILIA dá 10% OFF. A Blue Friday já está no ar, com até 50% OFF e 3% no Pix.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "updatedAt": "2026-11-03",
@@ -108893,7 +108895,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "OpenClaw na Hostinger: o gerenciado sai mais barato no primeiro período, e o VPS dá root e Docker. Preços de 21/10/2026 e para quem é cada um.",
-    "metaDescription": "Gerenciado ou VPS para o OpenClaw na Hostinger: preço com e sem o SONAR20, renovação, créditos de IA, Telegram e WhatsApp e quem cuida do servidor.",
+    "metaDescription": "OpenClaw na Hostinger com o SONAR20 e 20% OFF: gerenciado ou VPS, o preço com e sem o código, a renovação, os créditos de IA e quem cuida do servidor.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -115301,7 +115303,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "OpenClaw ou Hermes Agent: canais, memória, aprendizado, licença e custo real na Hostinger, com preços lidos em 21/10/2026.",
-    "metaDescription": "OpenClaw ou Hermes Agent na Hostinger: qual escolher, canais, memória, modelos de IA e preço com e sem o SONAR20, lidos em 21/10/2026.",
+    "metaDescription": "OpenClaw ou Hermes Agent na Hostinger, com o SONAR20 e 20% OFF: qual escolher, canais, memória, modelos de IA e o preço com e sem o código.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -121605,7 +121607,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sofá modular, poltrona reclinável, poltrona de cinema ou área de piscina? Veja o que pesa em cada móvel, faixa de preço, prazo de entrega e o cupom CECILIA12 da DAMIE.",
-    "metaDescription": "Presente de Natal para a casa: sofá, poltrona reclinável, cinema em casa e piscina, com faixa de preço, prazo de entrega, Black Friday e CECILIA12.",
+    "metaDescription": "Presente de Natal para a casa com o CECILIA12 e 12% OFF na DAMIE: sofá, poltrona reclinável, cinema em casa e piscina, com faixa de preço e prazo.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -126961,7 +126963,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Dr. Peanut ou La Ganexa comparadas pelo rótulo, pela proteína, pela lactose e pelo preço por 100 g, com a conta do cupom da Dr. Peanut em 25/10/2026.",
-    "metaDescription": "Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher pelo rótulo e pelo preço por 100 g, com o cupom DREMCASACOMCECILIA de 10% OFF na Dr. Peanut.",
+    "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: Dr. Peanut ou La Ganexa, qual pasta de amendoim escolher pelo rótulo e pelo preço por 100 g.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "draft": false,
@@ -128121,7 +128123,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "metaDescription": "Whey Mais Mu: pote, refil, sachê e isolado comparados por dose e por 100 g de proteína, com o cupom MMEMCASACOMCECILIA de 10% OFF.",
+    "metaDescription": "Whey Mais Mu com o cupom MMEMCASACOMCECILIA e 10% OFF: pote, refil, sachê e isolado comparados por dose e por 100 g de proteína.",
     "description": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e cupom, com os preços de 25/10/2026.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
@@ -133384,7 +133386,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Sim, a YesStyle tem app para Android e iPhone. Veja onde o código de recompensa CECILIA010 entra no checkout do app, o que muda do site e o que checar se ele não funcionar.",
-    "metaDescription": "A YesStyle tem app para Android e iPhone. Onde o código de recompensa CECILIA010 entra no checkout do app, o que muda do site e se entrega no Brasil.",
+    "metaDescription": "App da YesStyle: o código de recompensa CECILIA010 dá até 5% extra também no app. Onde ele entra no checkout, o que muda do site e a entrega ao Brasil.",
     "image": "/images/reviews/yesstyle/yesstyle-app-como-comprar-codigo-de-recompensa-capa-discover.webp",
     "imageAlt": "Lip mask Abib Glazed Jelly e a faixa com o logo da YesStyle, o app e o código de recompensa CECILIA010",
     "imageFit": "contain",
@@ -144049,6 +144051,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Integralmédica sai mais barata por 100 g de creatina e de proteína nos tamanhos comparados. Veja os rótulos, o efeito do cupom PRO10EMCASACOMCECILIA e qual escolher por perfil.",
+    "metaDescription": "Probiótica ou Integralmédica, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina pelo rótulo e pelo preço por 100 g.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -144570,7 +144573,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Creatina Monodose da Probiótica ou pote de 300 g? O pote ganha: veja a porção pelo rótulo, o preço por 100 g e por dose de 5 g e quanto o sachê custa a mais.",
-    "metaDescription": "Creatina monodose da Probiótica ou pote de 300 g: preço por 100 g e por dose de 5 g, com o cupom PRO10EMCASACOMCECILIA de até 10% OFF.",
+    "metaDescription": "Com o PRO10EMCASACOMCECILIA, até 10% OFF na Probiótica: creatina monodose ou pote de 300 g, pelo preço por 100 g e por dose de 5 g.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -178324,7 +178327,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom S-EMCASACOMCECILIA dá 5% OFF no site da Simple Organic. Veja o passo a passo no carrinho, onde ele entrou nos testes e o que conferir antes de pagar.",
-    "metaDescription": "Passo a passo do S-EMCASACOMCECILIA na Simple Organic: 5% OFF na loja online, o campo Desconto do carrinho, onde o código entrou nos testes e o que conferir antes de pagar.",
+    "metaDescription": "O S-EMCASACOMCECILIA dá 5% OFF na loja online da Simple Organic. Veja o campo Desconto do carrinho, onde o código entrou nos testes e o que conferir.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "draft": false,
@@ -178550,7 +178553,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Clean Friday é a Black Friday da Simple Organic: até 50% OFF no site até o fim de novembro. Veja os preços de 9 produtos, o que o cupom de 5% fez no teste e o prazo do frete.",
-    "metaDescription": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF vai até o fim de novembro. Preços de séruns, hidratante, kits e body splash, o cupom S-EMCASACOMCECILIA e o frete.",
+    "metaDescription": "Black Friday Simple Organic 2026: o cupom S-EMCASACOMCECILIA dá 5% OFF. A Clean Friday tem até 50% OFF em séruns, hidratante, kits e body splash.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "draft": false,
@@ -179175,7 +179178,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Dr. Peanut é boa? Pelo rótulo: o que a pasta de amendoim, o whey e os snacks trazem, o preço por 100 g, o cupom DREMCASACOMCECILIA de 10% e para quem a marca compensa.",
-    "metaDescription": "Dr. Peanut é boa? A pasta de amendoim, o whey e os snacks pelo rótulo, o preço por 100 g, o cupom DREMCASACOMCECILIA de 10% e para quem a marca compensa.",
+    "metaDescription": "O DREMCASACOMCECILIA dá 10% OFF na Dr. Peanut: a pasta de amendoim, o whey e os snacks pelo rótulo, o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "draft": false,
