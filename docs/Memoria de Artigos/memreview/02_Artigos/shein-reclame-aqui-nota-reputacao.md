@@ -315,3 +315,7 @@ Fatos: `shein-reclame-aqui-nota-reputacao-fatos-2810.md`, ao lado; autocompletar
 - No mesmo PR: `shein-e-confiavel` com os números do Reclame Aqui de 28/10; `shein-ou-shopee-temu` segue com a tabela de 12/10.
 - Desde 29/10 os artigos da SHEIN levam os banners de campanha (PR #349, release `e2479745`): na análise da resposta rápida, separar pela data do banner.
 - Pendente: reler a Trustpilot e o Reclame Aqui na revisão mensal de novembro de 2026.
+
+## Correção: sem "SHEIN Brasil" (04/11/2026)
+- Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. Na decisão 3 de 28/10, o 4CW5Y passa a ser "código de indicação da SHEIN".
+- No PT, a frase da Trustpilot terminava em "não do atendimento da SHEIN Brasil" e agora termina em "não do atendimento no Brasil". O fato (o perfil é global e não separa o Brasil) não mudou, nem as 9 traduções. PR #566.

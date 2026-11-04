@@ -60117,7 +60117,7 @@ export const reviewsData: unknown[] = [
           "Em 3 de novembro, a página inicial da SHEIN traz a promoção do 11.11 e nenhum banner, link ou página de Black Friday. A Black Friday do calendário cai na última sexta do mês, e a SHEIN ainda não divulgou datas nem fases de 2026. A empresa junta o 11.11 e a Black Friday numa campanha só, com fases que aumentam o desconto máximo até o fim do mês. A tabela abaixo é a régua: o que a SHEIN anunciou nos três últimos anos."
         ],
         "comparisonTable": {
-          "caption": "Fases e descontos máximos anunciados pela SHEIN Brasil, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
+          "caption": "Fases e descontos máximos anunciados pela SHEIN, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
           "headers": [
             "Ano",
             "Começo e fim",
@@ -60147,8 +60147,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-          "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-          "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
+          "alt": "Página inicial do site da SHEIN em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
+          "caption": "A página inicial da SHEIN, que ainda não trazia a campanha da Black Friday de 2026.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -60176,7 +60176,7 @@ export const reviewsData: unknown[] = [
           "A conta vale por pedido e usa o valor do produto mais o frete, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
         ],
         "comparisonTable": {
-          "caption": "Pela página de impostos da SHEIN Brasil. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
+          "caption": "Pela página de impostos da SHEIN. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
           "headers": [
             "Pedido (produto + frete)",
             "Imposto de importação",
@@ -60224,8 +60224,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-          "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
+          "alt": "Duas telas do site da SHEIN no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
+          "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -60300,7 +60300,7 @@ export const reviewsData: unknown[] = [
     "coupon": "4CW5Y",
     "bodyDatesReason": "campanha",
     "affiliate": "shein",
-    "editorialNote": "Regras das páginas oficiais da SHEIN Brasil e da Lei 15.502/2026. Podemos receber comissão pelas compras.",
+    "editorialNote": "Regras das páginas oficiais da SHEIN e da Lei 15.502/2026. Podemos receber comissão pelas compras.",
     "relatedArticles": [
       {
         "slug": "black-friday-yesstyle",
@@ -64778,7 +64778,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde colocar o código de indicação da SHEIN",
         "paragraphs": [
-          "Pesquise o código na busca do aplicativo da SHEIN. As telas abaixo são do site da SHEIN Brasil no celular, sem login:"
+          "Pesquise o código na busca do aplicativo da SHEIN. As telas abaixo são do site da SHEIN no celular, sem login:"
         ],
         "bullets": [
           "**Passo 1:** toque na barra de busca da SHEIN.",
@@ -64789,21 +64789,21 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/shein/shein-busca-site-movel-antes.webp",
-            "alt": "Tela de busca do site da SHEIN Brasil no celular, com a barra de pesquisa ainda sem texto digitado, a busca recente 4CW5Y e as sugestões da loja",
-            "caption": "Passo 1: a busca aberta no site da SHEIN Brasil, no celular, antes de digitar o código.",
+            "alt": "Tela de busca do site da SHEIN no celular, com a barra de pesquisa ainda sem texto digitado, a busca recente 4CW5Y e as sugestões da loja",
+            "caption": "Passo 1: a busca aberta no site da SHEIN, no celular, antes de digitar o código.",
             "objectFit": "contain",
             "aspectRatio": 1.4722
           },
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
-            "alt": "Barra de busca da SHEIN Brasil com o código 4CW5Y digitado, que aparece na tela como 4Cw5y",
+            "alt": "Barra de busca da SHEIN com o código 4CW5Y digitado, que aparece na tela como 4Cw5y",
             "caption": "Passo 2: o código digitado na barra de busca.",
             "objectFit": "contain",
             "aspectRatio": 1.4722
           },
           {
             "src": "/images/reviews/shein/shein-busca-4cw5y-resultado.webp",
-            "alt": "Página da SHEIN Brasil aberta depois da pesquisa, com o título \"Acho que você pode gostar\" e dois produtos com preço em reais",
+            "alt": "Página da SHEIN aberta depois da pesquisa, com o título \"Acho que você pode gostar\" e dois produtos com preço em reais",
             "caption": "Passo 3: a página que a pesquisa pelo 4CW5Y abriu.",
             "objectFit": "contain",
             "aspectRatio": 0.7581
@@ -64853,7 +64853,7 @@ export const reviewsData: unknown[] = [
           "O código de indicação é a mesma coisa que cupom? Não. Segundo a SHEIN, o código vai na caixa de busca, e não como cupom.",
           "Como saber meu código de indicação da SHEIN? O código de indicação sai do programa de afiliados da SHEIN. Depois do cadastro, feito pela busca \"afiliado\" no aplicativo, ele aparece na página inicial de afiliado.",
           "O código de indicação de 2024 ou 2025 ainda vale? Os códigos do programa antigo, que acabou em 2024, foram desativados junto com o cupom de R$ 10. No programa atual, o código leva à página do afiliado, sem desconto fixo, e o 4CW5Y é o código atual da Cecília.",
-          "O 4CW5Y funciona fora do Brasil? A SHEIN não diz. O código é da SHEIN Brasil e pode não valer na SHEIN de outro país.",
+          "O 4CW5Y funciona fora do Brasil? Sim. O código de indicação é da SHEIN, sem país: a SHEIN leva cada pessoa à loja da região dela.",
           "Preciso criar uma conta nova para usar o código? Não: quando conferimos, a pesquisa abriu a página mesmo sem login. Ofertas só para novos usuários, quando existem, aparecem marcadas na campanha.",
           "Dá para usar o código de indicação no computador? A SHEIN fala em pesquisar o código no aplicativo; o guia mostra o site no celular, e no computador não conferimos."
         ]
@@ -66266,8 +66266,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "É seguro pagar na SHEIN?",
         "paragraphs": [
-          "A SHEIN Brasil aceita Pix, cartão de crédito brasileiro em até 6 vezes, boleto (pago em até 3 dias), cartão virtual e internacional, PayPal e Pagaleve. No pagamento com cartão internacional, a SHEIN diz que não coleta o número do cartão.",
-          "A empresa diz que segue padrões internacionais de segurança e que não vende dados de clientes. A política de privacidade da SHEIN Brasil diz que, quando o pedido é de um vendedor no exterior, os dados do pedido e da entrega vão para o país do vendedor.",
+          "A SHEIN aceita Pix, cartão de crédito brasileiro em até 6 vezes, boleto (pago em até 3 dias), cartão virtual e internacional, PayPal e Pagaleve. No pagamento com cartão internacional, a SHEIN diz que não coleta o número do cartão.",
+          "A empresa diz que segue padrões internacionais de segurança e que não vende dados de clientes. A política de privacidade da SHEIN diz que, quando o pedido é de um vendedor no exterior, os dados do pedido e da entrega vão para o país do vendedor.",
           "Para não cair em site falso, compre pelo endereço br.shein.com ou pelo aplicativo da SHEIN baixado da loja oficial do seu celular."
         ]
       },
@@ -66275,7 +66275,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto tempo demora a entrega",
         "paragraphs": [
           "No pedido internacional, a SHEIN leva de 3 a 5 dias para processar a compra antes de enviar. O prazo e o frete aparecem na página do pedido, e o nome do pedido precisa ser igual ao do CPF.",
-          "A página de envio da SHEIN Brasil estima entregas entre 5 e 30 dias, com 60% de chance de chegar em até 11 dias, e frete de R$ 15 nos pedidos abaixo de R$ 69, grátis acima. A estimativa muda: o prazo que vale é o que aparece no seu pedido.",
+          "A página de envio da SHEIN estima entregas entre 5 e 30 dias, com 60% de chance de chegar em até 11 dias, e frete de R$ 15 nos pedidos abaixo de R$ 69, grátis acima. A estimativa muda: o prazo que vale é o que aparece no seu pedido.",
           "Se o pedido não chegar até a data prevista, a Entrega no Prazo da SHEIN dá 200 pontos ou R$ 10 em créditos. Para reclamar de atraso, você tem 90 dias a partir do pagamento. Se o pedido aparece como entregue e não chegou, ou veio um item trocado, o prazo é de 60 dias a partir da entrega."
         ]
       },
@@ -66309,8 +66309,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/shein/shein-busca-4cw5y.webp",
-          "alt": "Barra de busca da SHEIN Brasil com o código 4CW5Y digitado, que aparece na tela como 4Cw5y",
-          "caption": "O código digitado na busca do site da SHEIN Brasil, no celular.",
+          "alt": "Barra de busca da SHEIN com o código 4CW5Y digitado, que aparece na tela como 4Cw5y",
+          "caption": "O código digitado na busca do site da SHEIN, no celular.",
           "objectFit": "contain",
           "aspectRatio": 1.4722
         },
@@ -135387,7 +135387,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Mega Promoção 11.11 da SHEIN já começou. São até 85% off em mais de 600 mil produtos, diz a SHEIN, e a loja puxa a campanha para o aplicativo.",
           "A página de entrada é a de [Seleções de Vendas Globais da 11.11](https://onelink.shein.com/58/66i60wu7xjjd). Nas 19 peças abaixo, a foto e o card abrem a página de cada uma dentro da campanha.",
-          "O 4CW5Y é o código de indicação da SHEIN Brasil: ele se procura na busca do aplicativo e não se cola no checkout, porque não é cupom. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
+          "O 4CW5Y é o código de indicação da SHEIN: ele se procura na busca do aplicativo e não se cola no checkout, porque não é cupom. O passo a passo está em [Código de indicação SHEIN: como usar o 4CW5Y](/reviews/codigo-de-indicacao-shein)."
         ]
       },
       {
@@ -136216,7 +136216,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Até quando vai a 11.11 da SHEIN? Termina no dia seguinte ao 11.11, segundo a SHEIN; a data está na resposta rápida acima.",
           "O preço das peças pode mudar? Sim. Os preços e os descontos deste guia são os do dia da leitura, e a SHEIN muda o preço durante a campanha e por cor ou tamanho.",
-          "O 4CW5Y é cupom? Não. É o código de indicação da SHEIN Brasil: pesquisa-se na busca do aplicativo e ele não se cola no checkout.",
+          "O 4CW5Y é cupom? Não. É o código de indicação da SHEIN: pesquisa-se na busca do aplicativo e ele não se cola no checkout.",
           "Os links levam direto à peça? Sim. A foto e o card de cada peça abrem a página dela dentro da campanha 11.11, e o link da campanha abre a página de Seleções de Vendas Globais."
         ]
       }
@@ -154904,7 +154904,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: a nota de quem avalia",
         "paragraphs": [
-          "A Trustpilot é internacional: a SHEIN tinha ali 3,8 em 5, em 353.435 avaliações de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento da SHEIN Brasil."
+          "A Trustpilot é internacional: a SHEIN tinha ali 3,8 em 5, em 353.435 avaliações de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento no Brasil."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
@@ -170607,7 +170607,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "4CW5Y",
     "affiliate": "shein",
-    "editorialNote": "Preços e regras conferidos no dia da publicação na SHEIN Brasil. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y. Ninguém da equipe usou as peças.",
+    "editorialNote": "Preços e regras conferidos no site da SHEIN no dia da publicação. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y. Ninguém da equipe usou as peças.",
     "relatedArticles": [
       {
         "slug": "shein-e-confiavel",
@@ -170716,12 +170716,12 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Três vestidos lidos na SHEIN Brasil",
+        "heading": "Três vestidos lidos na SHEIN",
         "paragraphs": [
           "Preços de 30/10/2026, no cartão. A promoção muda o valor, então confira de novo antes de pagar. Tecido, comprimento e nota vêm das páginas dos produtos."
         ],
         "comparisonTable": {
-          "caption": "Três vestidos da SHEIN Brasil, com dados da página de cada produto.",
+          "caption": "Três vestidos da SHEIN, com dados da página de cada produto.",
           "headers": [
             "Vestido",
             "Preço",
@@ -170909,7 +170909,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Um cupom da plataforma vale por pedido, em todas as formas de pagamento.",
-          "O 4CW5Y não é cupom. É o código de indicação da SHEIN Brasil: pesquisa-se na barra de busca do aplicativo, não se cola no checkout, e não dá desconto nem soma com nada. Como funciona, veja [o código de indicação](/reviews/codigo-de-indicacao-shein). As campanhas da loja ficam na [página da SHEIN](/cupons/shein)."
+          "O 4CW5Y não é cupom. É o código de indicação da SHEIN: pesquisa-se na barra de busca do aplicativo, não se cola no checkout, e não dá desconto nem soma com nada. Como funciona, veja [o código de indicação](/reviews/codigo-de-indicacao-shein). As campanhas da loja ficam na [página da SHEIN](/cupons/shein)."
         ],
         "images": [
           {
