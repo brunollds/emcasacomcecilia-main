@@ -179758,6 +179758,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Belive. Ninguém da equipe provou os produtos: os dados são do rótulo e do site da marca.",
     "relatedArticles": [
       {
+        "slug": "panetone-belive-e-bom",
+        "title": "Panetone Belive é bom? Chocotone, zero açúcar e sem glúten pelo rótulo"
+      },
+      {
         "slug": "belive-reclame-aqui-nota-reputacao",
         "title": "Belive no Reclame Aqui: nota e reputação"
       },
@@ -180131,6 +180135,1970 @@ export const reviewsData: unknown[] = [
       {
         "slug": "simple-organic-e-confiavel",
         "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas"
+      }
+    ]
+  },
+  {
+    "id": 788,
+    "slug": "panetone-belive-e-bom",
+    "title": "Panetone Belive é bom? Chocotone, zero açúcar e sem glúten pelo rótulo",
+    "seoTitle": "Panetone Belive é bom? Zero açúcar e sem glúten pelo rótulo",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O panetone Belive é bom? Pelo rótulo, sem glúten, sem leite de vaca e sem açúcar adicionado nos dois sabores: ingredientes, tabela nutricional, o chocotone e o preço com o código.",
+    "metaDescription": "O código MAUAD dá 10% OFF no panetone da Belive. Chocolate e frutas pelo rótulo: ingredientes, tabela nutricional, o que é o chocotone e o preço dos kits.",
+    "publishedAt": "4 de novembro de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/belive/panetone-belive-e-bom-capa.webp",
+    "imageAlt": "Caixas do panetone de chocolate e do panetone de frutas cristalizadas da Belive, sem glúten e zero açúcar adicionado, com o logo da marca e a pergunta Panetone Belive é bom?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pelo rótulo, sim: os dois panetones da Belive são sem glúten, sem leite de vaca e sem açúcar adicionado, com ingredientes e tabela nutricional na página. O chocotone é o de chocolate, com outro nome nos kits. O que muda a decisão é o carboidrato: a conta é com o nutricionista, e os números estão na tabela por 100 g."
+        ]
+      },
+      {
+        "heading": "O que a Belive vende em panetone, e o que é o chocotone",
+        "paragraphs": [
+          "São dois panetones e três kits, e nada mais: não existe chocotone avulso. O panetone de chocolate tem recheio de brownie, gotas de chocolate 42% cacau e cobertura sabor chocolate; o de frutas cristalizadas leva uva-passa e amêndoas laminadas. Os dois vêm em caixa de 420 g. Nos kits de 3, a loja chama o de chocolate de \"chocotone\": Kit 3 Chocotones, Kit 1 Panetone Frutas + 2 Chocotones e Kit 3 Panetones Frutas. Quem procura \"chocotone Belive\" está procurando o panetone de chocolate, e a página dele é a mesma.",
+          "Para servir, a marca sugere aquecer a fatia no micro-ondas ou na frigideira. É sugestão da loja, não teste nosso."
+        ]
+      },
+      {
+        "heading": "Panetone de chocolate, pelo rótulo",
+        "paragraphs": [
+          "O de chocolate é o panetone de quem quer sobremesa, não só pão de Natal: recheio de brownie, gotas e cobertura, e é isso que puxa a gordura dele para cima. A massa é o mix sem glúten da Belive (amido modificado, farinha de arroz, fécula de mandioca, farinha de amêndoas, polvilho azedo, proteína isolada de soja e farinha de soja). Dentro, o recheio de brownie sabor chocolate, as gotas de chocolate 42% cacau e a cobertura sabor chocolate; depois óleo vegetal de palma e soja, ovo em pó, polidextrose, fibra de tapioca, leite de coco em pó, sal light, psyllium, umectantes, fermento e conservantes.",
+          "O \"zero açúcar\" é zero açúcar adicionado. Quem adoça são o maltitol e os glicosídeos de esteviol, e na lista o maltitol vem antes; a descrição da loja fala em stévia. O rótulo de alérgenos diz: \"contém derivados de amêndoas, derivados de ovo e derivados de soja. Não contém glúten.\" Leite de vaca não aparece na lista, e a página o declara sem leite e sem lactose, mas tem leite de coco em pó: quem evita coco lê isso antes de pagar.",
+          "A loja informa: a porção é de 80 g, duas fatias, e a caixa de 420 g rende cerca de 5 porções. Por porção, são 248 kcal e 34 g de carboidrato. Serve para quem quer o panetone recheado da mesa de Natal sem glúten e sem leite de vaca. Não escolha este se o que você olha é gordura saturada: ele tem bem mais gordura saturada que o de frutas, como mostra a tabela abaixo, e a caixa dele traz o selo \"alto em gordura saturada\"."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/panetone-belive-e-bom-fatia-chocolate.webp",
+            "alt": "Fatia do Panetone Sem Glúten Zero Açúcar Zero Lactose Chocolate da Belive, com gotas de chocolate e recheio escuro de brownie",
+            "caption": "O de chocolate: recheio de brownie, gotas 42% cacau e cobertura, adoçado com maltitol e esteviol. Imagem: Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/"
+          }
+        ]
+      },
+      {
+        "heading": "Panetone de frutas cristalizadas, pelo rótulo",
+        "paragraphs": [
+          "O de frutas é o panetone clássico, e dos dois é o que tem menos calorias e menos gordura. A massa é a mesma do de chocolate. O que muda é o recheio: frutas cristalizadas sem adição de açúcares e uva-passa, com amêndoas laminadas por cima. O resto da lista é quase o mesmo, com maltitol, glicosídeos de esteviol e leite de coco em pó.",
+          "Aqui o rótulo mostra 1,5 g de açúcares totais por 100 g, e zero de açúcar adicionado: esse açúcar é o da fruta e da uva-passa, não de açúcar posto na massa. Os alérgenos são os mesmos do de chocolate, com uma diferença de peso: aqui a amêndoa é inteira, laminada por cima, e não só derivado na farinha. O rótulo diz: \"contém amêndoas, derivados de ovo e derivados de soja. Não contém glúten.\"",
+          "A página deste sabor traz uma frase que a do chocolate não traz: a marca diz que ele é sem glúten e sem leite, com \"zero risco de contaminação cruzada\". É declaração da marca. Serve para quem quer o panetone de frutas de sempre sem glúten e sem leite de vaca, e para quem prefere o sabor menos doce. Não escolha este se a sua casa torce o nariz para fruta cristalizada: aí o de chocolate ganha."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/belive/panetone-belive-e-bom-panetone-frutas-amendoas.webp",
+            "alt": "Panetone Zero Açúcar de Frutas Cristalizadas da Belive, com amêndoas laminadas por cima, em forma dourada de papel",
+            "caption": "O de frutas: uva-passa, frutas cristalizadas sem adição de açúcar e amêndoas laminadas por cima. Imagem: Belive.",
+            "objectFit": "square",
+            "href": "https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/"
+          }
+        ]
+      },
+      {
+        "heading": "Chocolate ou frutas: a tabela, lado a lado",
+        "paragraphs": [
+          "A diferença entre os dois está na gordura, não no açúcar nem no carboidrato. Os números abaixo são os da tabela nutricional de cada página, por 100 g."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Panetone",
+            "Calorias",
+            "Carboidratos",
+            "Açúcares adicionados",
+            "Proteínas",
+            "Gordura saturada",
+            "Fibras",
+            "Sódio"
+          ],
+          "rows": [
+            [
+              "[Panetone Zero Açúcar de Chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/)",
+              "310 kcal",
+              "42 g",
+              "0 g",
+              "4,8 g",
+              "9,1 g",
+              "7,7 g",
+              "76 mg"
+            ],
+            [
+              "[Panetone Zero Açúcar de Frutas Cristalizadas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/)",
+              "274 kcal",
+              "43 g",
+              "0 g",
+              "4,9 g",
+              "5,3 g",
+              "6,5 g",
+              "92 mg"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "*Tabela nutricional publicada pela loja na página de cada panetone, por 100 g. Gordura trans: zero nos dois. Açúcares totais: só no de frutas, e são os da fruta.*",
+          "O que a tabela não diz: o carboidrato dos dois é quase igual, e nos dois ele inclui o maltitol, que o rótulo não separa. Quem olha só o \"zero açúcar\" e esquece essa linha compra errado. Quem come duas fatias do de chocolate leva 36% da gordura saturada do dia pela tabela da loja; no de frutas, 21%. A fibra é alta nos dois pelo psyllium e pela fibra de tapioca, e o sódio é baixo nos dois."
+        ]
+      },
+      {
+        "heading": "Os kits: quanto custa cada panetone",
+        "paragraphs": [
+          "O kit não dá desconto: ele custa, em lista, o mesmo que três panetones avulsos. Vale pelo frete e por juntar os dois sabores numa caixa só, como mostra o próximo capítulo."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Unidades",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Panetone Zero Açúcar de Chocolate](https://belivebefree.com.br/produto/panetone-sem-gluten-zero-acucar-zero-lactose-chocolate-belive/)",
+              "1, de 420 g",
+              "R$ 64,90"
+            ],
+            [
+              "[Panetone Zero Açúcar de Frutas Cristalizadas](https://belivebefree.com.br/produto/panetone-zero-acucar-sem-gluten-zero-lactose-frutas-cristalizadas-belive/)",
+              "1, de 420 g",
+              "R$ 64,90"
+            ],
+            [
+              "[Kit 3 Chocotones](https://belivebefree.com.br/produto/oferta-especial-kit-3-chocotones-sem-gluten-sem-acucar-sem-leite-belive/)",
+              "3 de chocolate",
+              "R$ 194,70"
+            ],
+            [
+              "[Kit 1 Panetone de Frutas + 2 Chocotones](https://belivebefree.com.br/produto/kit-panetone-chocotones-sem-gluten-zero-acucar-belive/)",
+              "1 de frutas e 2 de chocolate",
+              "R$ 194,70"
+            ],
+            [
+              "[Kit 3 Panetones de Frutas](https://belivebefree.com.br/produto/oferta-especial-kit-3-panetones-sem-gluten-zero-acucar-frutas-belive/)",
+              "3 de frutas",
+              "R$ 194,70"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "*Preço de lista do site em 03/11, sem o código. No dia, a loja vendia os cinco com desconto de promoção, e o preço riscado da página é o desta tabela.*",
+          "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o kit sai igual ao avulso, em lista e na oferta. O que o kit faz é fechar o carrinho acima do frete grátis e trazer os dois sabores na mesma caixa, no kit misto. Para um panetone só, compre o avulso."
+        ]
+      },
+      {
+        "heading": "Quanto custa com o código, e o frete",
+        "paragraphs": [
+          "Com o código da Belive, o panetone sai 10% mais barato, em todas as formas de pagamento, e o desconto soma com a promoção do dia e com os 5% do Pix. O código vai no campo \"Código do cupom\" do carrinho, e a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
+          "O frete é o que decide entre o avulso e o kit. O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o valor que conta é o do carrinho antes do código. Um panetone avulso não zera o frete em lugar nenhum. O kit passa da faixa dos cinco estados e zera o frete neles; no Sul e no resto do país, ele pede mais itens no carrinho. Para completar, os doces, os pães e os salgadinhos da marca estão no guia [Belive é boa?](/reviews/belive-e-boa), e quem compra pela primeira vez na loja confere CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Sem glúten e sem leite: o que a marca declara e o que o rótulo mostra",
+        "paragraphs": [
+          "Para celíaco, o que vale é a frase escrita, e ela está em um sabor só. Os dois rótulos dizem \"não contém glúten\", e a marca declara os dois sem leite e sem lactose. A marca diz \"zero risco de contaminação cruzada\" só na página do panetone de frutas; a do chocolate não traz a frase. Quem é celíaco, ou tem alergia a leite de vaca, decide com o médico, com o rótulo da caixa que chegar na mão. E o \"sem leite\" é sem leite de vaca: os dois levam leite de coco em pó, e os dois trazem amêndoas, ovo e soja na lista de alérgenos."
+        ]
+      },
+      {
+        "heading": "Qual levar: chocolate ou frutas",
+        "paragraphs": [
+          "Pelos números da tabela, quem escolhe pela gordura saturada fica no de frutas, porque ele tem pouco mais da metade da do de chocolate com quase a mesma quantidade de carboidrato; quem escolhe pela sobremesa fica no de chocolate, porque é o recheado. Para quem conta carboidrato, nenhum dos dois é a resposta sozinho: são 42 g a 43 g por 100 g, e a conta é com o nutricionista. Na dúvida entre os dois, o kit misto resolve."
+        ],
+        "emphasis": "Na dúvida entre os dois sabores, o kit com um de frutas e dois de chocolate resolve a mesa sem escolher: os dois sabores vão no mesmo pedido, pelo mesmo preço por panetone do avulso."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O panetone Belive é bom? Pelo rótulo, é um panetone sem glúten, sem leite de vaca e sem açúcar adicionado, em dois sabores, com ingredientes e tabela nutricional publicados; os números estão na tabela por 100 g.",
+          "O chocotone da Belive é o de chocolate? É: \"chocotone\" é o nome que a loja dá ao panetone de chocolate nos kits de 3, e não existe chocotone avulso.",
+          "A Belive tem panetone sem açúcar? Tem, nos dois sabores: zero açúcar adicionado, adoçados com maltitol e glicosídeos de esteviol; o de frutas tem o açúcar da própria fruta, como mostra o capítulo dele.",
+          "O panetone Belive tem leite ou glúten? O rótulo diz \"não contém glúten\" e a marca declara os dois sem leite e sem lactose; os dois levam leite de coco em pó e trazem amêndoas, ovo e soja na lista de alérgenos.",
+          "O panetone Belive é saudável? O rótulo não responde isso: ele mostra calorias, carboidratos, açúcares e gordura de cada sabor, e a conta para o seu caso é com o nutricionista ou o médico.",
+          "Onde comprar o panetone Belive? No site oficial, avulso ou em kit de 3, com o código da Belive de 10%; o frete grátis muda por região, como mostra o capítulo do preço."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer panetone sem glúten e sem leite de vaca com a lista de ingredientes e a tabela nutricional publicadas na página.",
+        "Você escolhe pelo rótulo: zero açúcar adicionado nos dois sabores, e o pouco açúcar do de frutas vem da fruta."
+      ],
+      "skipIf": [
+        "Você conta carboidrato ou segue dieta com controle: são 42 g a 43 g por 100 g, e a conta é com o nutricionista.",
+        "Você evita amêndoas, ovo ou soja: os três estão na lista de alérgenos dos dois sabores.",
+        "Você precisa do aviso de contaminação cruzada por escrito nos dois sabores: só a página do de frutas traz a frase da marca."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Belive com o código",
+      "text": "Entre no site oficial da Belive e digite o código da Belive no campo \"Código do cupom\" do carrinho: 10% em todo o site, em todas as formas de pagamento. Confira a linha de desconto antes de pagar.",
+      "url": "https://belivebefree.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "belive",
+    "editorialNote": "Podemos receber comissão pela Belive. Ninguém da equipe provou o panetone: os dados são do rótulo e do site da marca.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-belive",
+        "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+      },
+      {
+        "slug": "cupom-belive-como-usar",
+        "title": "Como usar o cupom da Belive e o que ele soma"
+      },
+      {
+        "slug": "belive-reclame-aqui-nota-reputacao",
+        "title": "Belive no Reclame Aqui: nota e reputação"
+      },
+      {
+        "slug": "brownie-sem-acucar-belive",
+        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      },
+      {
+        "slug": "belive-e-boa",
+        "title": "Belive é boa? Os doces sem açúcar, os salgadinhos, os pães e o que vale comprar da marca"
+      }
+    ]
+  },
+  {
+    "id": 789,
+    "slug": "skelt-e-boa",
+    "title": "Skelt é boa? Autobronzeadores, body splash e o que vale comprar da marca",
+    "seoTitle": "Skelt é boa? Autobronzeador, body splash e cupom pelo rótulo",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Skelt é boa? Sim, para quem escolhe pelo rótulo: veja o que cada autobronzeador, body splash e hidratante declara, quanto custam com o cupom e para quem a marca compensa.",
+    "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt. Autobronzeador, body splash e hidratante pelo rótulo, preço e frete: para quem compensa.",
+    "publishedAt": "4 de novembro de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/skelt/skelt-e-boa-capa.webp",
+    "imageAlt": "Frascos do Mousse Autobronzeador, do Autobronzeador Bifásico e do Body Splash Solar Muse da Skelt, com o logo da marca e a pergunta Skelt é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, para quem escolhe pelo rótulo: a Skelt declara intensidade, duração e nível da maioria dos autobronzeadores, e as notas de cada body splash. O cupom tira 10% de tudo. O que muda a escolha é o tipo e a intensidade do autobronzeador, e a fragrância do body splash; o capítulo de cada linha diz qual serve para quem."
+        ]
+      },
+      {
+        "heading": "O que a Skelt vende",
+        "paragraphs": [
+          "Para um bronzeado de semana, um cheiro para o dia a dia ou um presente, a Skelt tem uma linha para cada pedido. O que mais sai da loja é cheiro: body splash, hidratante e perfume para cabelos ocupam quase toda a lista de mais vendidos do site. A marca é de Curitiba, criada por Gabriel Beleze, vende no site oficial, skelt.com.br, e tem loja no Mercado Livre. A Skelt diz que a linha é vegana e cruelty-free. São pouco mais de cem produtos, e mais da metade são kits e combos.",
+          "As linhas, com o capítulo de cada uma abaixo:"
+        ],
+        "bullets": [
+          "**Autobronzeadores:** mousse, água, gel, bifásico, as versões Dark e a mini, de R$ 58,90 a R$ 129,90 de lista.",
+          "**Body splash:** dez fragrâncias em frasco de 100 mL, mais os trios e os kits de miniaturas.",
+          "**Hidratação corporal:** body cream de 200 g, creme para mãos de 75 g e os duos com body splash.",
+          "**Maquiagem corporal:** iluminador, bronzeado instantâneo, glow stick e a luva aplicadora.",
+          "**Protetor solar:** um só, o Protetor Solar com Instant Bronzer, em FPS 8, 15 e 30, a R$ 89,90 de lista. Escolha pelo FPS, não pelo bronzer do nome; qual fator usar, quem diz é o dermatologista.",
+          "**Kits e combos:** 55, do Kit Iniciante aos conjuntos de fragrância."
+        ],
+        "postParagraphs": [
+          "Os preços deste guia são os de lista. A loja costuma mostrar um desconto de campanha sobre eles, e o cupom entra depois, por cima."
+        ]
+      },
+      {
+        "heading": "Autobronzeador Skelt: mousse, água, gel ou bifásico",
+        "paragraphs": [
+          "Quem nunca usou autobronzeador começa pelo Mousse, e é a própria Skelt que o marca como iniciante: ele tem cor-guia, o tom terroso que mostra onde o produto já passou e sai no banho. A Água e o Gel são incolores. Sem a cor-guia, a marca os indica a quem já sabe aplicar, e diz que a Água tem menos chance de manchar a roupa. As versões Dark, em mousse ou em água, trazem intensidade \"intensa\" e nível expert no rótulo: são para quem já usou e quer mais cor, não para a primeira vez. O Bifásico é o mais vendido da categoria e o que traz a fragrância Grand Bahama, de body splash; a Skelt não declara cor-guia nele.",
+          "A loja informa: a duração é de 7 a 12 dias em todos, e nenhum autobronzeador avulso vem com a luva."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Volume",
+            "Intensidade e nível (rótulo)",
+            "Cor-guia",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "140 mL",
+              "Leve a média; iniciante",
+              "Sim",
+              "R$ 119,90"
+            ],
+            [
+              "[Mousse Autobronzeador Dark](https://www.skelt.com.br/autobronzeador-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "140 mL",
+              "Intensa; expert",
+              "Sim",
+              "R$ 129,90"
+            ],
+            [
+              "[Água Autobronzeadora](https://www.skelt.com.br/agua-bronzeadora/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "150 mL",
+              "Leve a média; expert",
+              "Não, incolor",
+              "R$ 119,90"
+            ],
+            [
+              "[Água Autobronzeadora Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "150 mL",
+              "Intensa; expert",
+              "Não, incolor",
+              "R$ 129,90"
+            ],
+            [
+              "[Gel Autobronzeador Hidratante](https://www.skelt.com.br/gel-autobronzeador-hidratante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "120 mL",
+              "Média; expert",
+              "Não, incolor",
+              "R$ 98,90"
+            ],
+            [
+              "[Autobronzeador Bifásico](https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "120 mL",
+              "Média; nível não declarado",
+              "Não declarado",
+              "R$ 119,90"
+            ],
+            [
+              "[Mini Mousse Autobronzeador](https://www.skelt.com.br/mini-autobronzeador-em-mousse-/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "45 mL",
+              "Leve a média; iniciante",
+              "Sim",
+              "R$ 58,90"
+            ]
+          ],
+          "caption": "Preço de lista, 03/11; a loja mostrava desconto de campanha sobre ele. Intensidade, nível e cor-guia são os do rótulo de cada produto; o Bifásico não declara nível nem cor-guia."
+        },
+        "postParagraphs": [
+          "O que a tabela não diz é o preço por mililitro, que é o preço de lista dividido pelo volume: a Água é a mais barata (R$ 0,80), o Gel vem logo atrás (R$ 0,82) e a Mini é a mais cara (R$ 1,31). Ela vale para viagem ou para conhecer, não para quem já vai usar sempre. Quem tem medo de manchar a roupa e já sabe aplicar fica na Água; quem quer o cheiro junto, no Bifásico, sabendo que a Skelt não declara se ele mostra onde passou. As diferenças de fórmula, o tempo de ação de cada um e o passo a passo da marca estão no [guia dos autobronzeadores Skelt](/reviews/autobronzeador-skelt-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/skelt-e-boa-mousse-autobronzeador.webp",
+            "alt": "Frasco do Mousse Autobronzeador da Skelt, de 140 mL, com a indicação de fórmula com cor-guia.",
+            "caption": "Mousse Autobronzeador, o de nível iniciante no rótulo, com cor-guia. Foto: Skelt.",
+            "objectFit": "square",
+            "href": "https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/skelt/skelt-e-boa-bifasico-autobronzeador.webp",
+            "alt": "Frasco de spray do Autobronzeador Bifásico da Skelt, de 120 mL, com a indicação Agite antes de usar.",
+            "caption": "Autobronzeador Bifásico, com a fragrância Grand Bahama. Foto: Skelt.",
+            "objectFit": "square",
+            "href": "https://www.skelt.com.br/autobronzeador-bifasico/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Para tirar e para hoje: removedor e bronzeado instantâneo",
+        "paragraphs": [
+          "Autobronzeador que ficou torto se tira com o Removedor, e cor para hoje não é autobronzeador: é o Bronzeado Instantâneo, que a Skelt classifica como maquiagem corporal. O Removedor de Autobronzeador é um spray para o corpo. Como a marca manda:",
+          "1. Agite o frasco.",
+          "2. Aplique na pele seca, pelo menos 3 dias depois do autobronzeador.",
+          "3. Deixe agir no mínimo 3 minutos.",
+          "4. Retire com toalha ou esponja molhadas em água morna.",
+          "Antes dos 3 dias, o removedor não é o caminho: a Skelt pede esse prazo. O Bifásico tem regra própria: sai no banho, só com água morna.",
+          "O Bronzeado Instantâneo dura de 12 a 24 horas, diz a Skelt, e é indicado para o corpo. Serve para o evento de hoje à noite; para a semana, o Mousse ou a Água. Quem quer brilho em vez de cor vai ao Iluminador, mais abaixo."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Volume",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Removedor de Autobronzeador](https://www.skelt.com.br/removedor-autobronzeador/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "140 mL",
+              "R$ 69,90"
+            ],
+            [
+              "[Bronzeado Instantâneo](https://www.skelt.com.br/bronzeado-instantaneo/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "120 mL",
+              "R$ 99,90"
+            ]
+          ],
+          "caption": "Preço de lista, no mesmo dia da tabela dos autobronzeadores."
+        }
+      },
+      {
+        "heading": "Body splash Skelt: a fragrância decide, não o preço",
+        "paragraphs": [
+          "Com as dez fragrâncias ao mesmo preço, o que decide o body splash é o perfil de cheiro, e aí nem a loja nem este guia dizem qual é a melhor: cheiro é gosto. O frasco é de 100 mL, e as dez se dividem, pelas notas que a Skelt publica, em três grupos: cítrico e fresco (Amalfi Sunset, Unexpected Day, Grand Bahama e Milos Breeze), floral (Hidden Flowers, Mystic Bloom, Pink Sands e Urban Beat) e doce (Velvet Milano e Solar Muse). O Solar Muse é o mais vendido do site. A Skelt o descreve como quente, \"com um toque leve, cítrico e adocicado\", com abacaxi rosa, água de coco e folhas de palmeira no topo. O perfume para cabelos existe numa fragrância só, a Amalfi Sunset, em 140 mL, e por mililitro sai mais barato que o body splash.",
+          "Regra prática, sem teste nosso: com fragrância que você nunca cheirou, prove antes de levar o frasco grande. É para isso que existem os kits de três miniaturas de 15 mL, que custam mais que o dobro por mililitro: é o preço de conhecer três antes de comprar uma."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Volume",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Body Splash Solar Muse](https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Body Splash Amalfi Sunset](https://www.skelt.com.br/body-splash-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Body Splash Hidden Flowers](https://www.skelt.com.br/body-splash-hidden-flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Body Splash Mystic Bloom](https://www.skelt.com.br/body-splash-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Body Splash Pink Sands](https://www.skelt.com.br/body-splash-pink-sands/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Body Splash Velvet Milano](https://www.skelt.com.br/body-splash-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Body Splash Urban Beat](https://www.skelt.com.br/body-splash-urban-beat/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Body Splash Unexpected Day](https://www.skelt.com.br/body-splash-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Body Splash Grand Bahama](https://www.skelt.com.br/body-splash-grand-bahama/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Body Splash Milos Breeze](https://www.skelt.com.br/body-splash-milos-breeze/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "100 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Perfume para Cabelos Amalfi Sunset](https://www.skelt.com.br/perfume-para-cabelos-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "140 mL",
+              "R$ 79,90"
+            ]
+          ],
+          "caption": "Preço de lista, no mesmo dia da tabela dos autobronzeadores."
+        },
+        "postParagraphs": [
+          "O body splash é a compra de uso diário e de presente. Quando não: se você quer o hidratante na mesma fragrância, Pink Sands, Grand Bahama, Solar Muse e Milos Breeze não têm; escolha entre as seis que têm, no capítulo seguinte. As notas das dez, camada a camada, e a conta dos kits para presente estão no [guia dos body splash Skelt](/reviews/body-splash-skelt-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/skelt-e-boa-body-splash-solar-muse.webp",
+            "alt": "Frasco vermelho do Body Splash Solar Muse da Skelt.",
+            "caption": "Body Splash Solar Muse, de 100 mL. Foto: Skelt.",
+            "objectFit": "square",
+            "href": "https://www.skelt.com.br/body-splash-solar-muse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Hidratação: body cream e creme para mãos",
+        "paragraphs": [
+          "O body cream é para quem quer a fragrância do body splash também em creme, e só seis das dez têm o pote: Amalfi Sunset, Unexpected Day, Hidden Flowers, Mystic Bloom, Urban Beat e Velvet Milano. O creme para mãos vem em três: Amalfi Sunset, Hidden Flowers e Velvet Milano. O pote de 200 g custa o mesmo que o body splash de 100 mL, e por 100 g o creme para mãos sai um pouco mais barato que o body cream.",
+          "Quem quer um pote só compra avulso e pronto. Quem vai usar o body splash e o creme juntos olha os duos da mesma fragrância: são os conjuntos em que o pote sai abaixo do preço avulso, como mostra o capítulo dos kits. Na fórmula, a Skelt declara ceramida e glicerina nos dois florais, niacinamida e manteiga de karité no Amalfi Sunset e micropartículas iluminadoras só no Velvet Milano; o que cada um faz na pele é o que a marca escreve."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Peso",
+            "Preço de lista",
+            "Por 100 g"
+          ],
+          "rows": [
+            [
+              "Body Cream, nas seis fragrâncias",
+              "200 g",
+              "R$ 99,90",
+              "R$ 49,95"
+            ],
+            [
+              "[Creme para Mãos Amalfi Sunset](https://www.skelt.com.br/creme-para-maos-amalfi-sunset/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "75 g",
+              "R$ 32,90",
+              "R$ 43,87"
+            ]
+          ],
+          "caption": "Preço de lista, no mesmo dia da tabela dos autobronzeadores; a última coluna divide o preço pelo peso do rótulo."
+        }
+      },
+      {
+        "heading": "Iluminador e glow stick: o brilho por cima do bronze",
+        "paragraphs": [
+          "O Iluminador Corporal é para quem já tem o bronze e quer brilho; quem quer cor para hoje fica no Bronzeado Instantâneo, mais acima. A Skelt indica o iluminador para corpo e rosto, de iniciante a expert, num tom só, e diz que ele dura de 12 a 24 horas. No rosto vale a regra de toda maquiagem corporal nova: pouco produto, numa área pequena, e espere secar antes de julgar o brilho.",
+          "O Glow Stick é o outro item de brilho da linha, listado na maquiagem corporal junto da luva aplicadora. A luva, vendida à parte, espalha o autobronzeador e a maquiagem, e a Skelt diz que ela protege as mãos e as unhas de manchas. O iluminador também entra no Kit Bronze & Glow Mousse, com o mousse e a luva; se você quer os três, o kit é o caminho, como mostra o capítulo dos kits."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Volume",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Iluminador Corporal](https://www.skelt.com.br/iluminador-corporal-red-carpet-glow/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "120 mL",
+              "R$ 99,90"
+            ],
+            [
+              "[Luva Aplicadora (Tanning Mitt)](https://www.skelt.com.br/luva-aplicadora-skelt-tanning-mitt/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "1 unidade",
+              "R$ 34,90"
+            ]
+          ],
+          "caption": "Preço de lista, no mesmo dia da tabela dos autobronzeadores."
+        },
+        "images": [
+          {
+            "src": "/images/reviews/skelt/skelt-e-boa-iluminador-corporal.webp",
+            "alt": "Frasco do Iluminador Corporal da Skelt, de 120 mL, com a faixa dourada.",
+            "caption": "Iluminador Corporal, de 120 mL, para corpo e rosto segundo a marca. Foto: Skelt.",
+            "objectFit": "square",
+            "href": "https://www.skelt.com.br/iluminador-corporal-red-carpet-glow/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Kits e combos: quando o kit vale a soma",
+        "paragraphs": [
+          "Kit só vale quando você quer todas as peças dele, porque nem todo kit da Skelt sai abaixo da soma dos avulsos. São 55 kits e combos, de R$ 130,90 a R$ 395,80 de lista, do Kit Iniciante aos conjuntos de fragrância. Para quem nunca usou, o Kit Iniciante é o jeito mais barato de levar o mousse e a luva juntos; a conta está na tabela. O Kit Bronze & Glow Mousse junta o mousse, a luva e o iluminador por menos que os três avulsos.",
+          "Nos kits de fragrância vale a regra que o guia dos body splash mostrou: os duos de body splash com hidratante são os que saem abaixo da soma das peças; os trios de body splash custam quase o mesmo que as peças separadas, e os kits com perfume para cabelos custam um pouco mais: a vantagem deles é a caixa de presente, não o preço. Os preços de campanha ficam no guia da Black Friday da Skelt, listado no fim."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "O que vem",
+            "Preço de lista",
+            "Soma das peças avulsas"
+          ],
+          "rows": [
+            [
+              "[Kit Iniciante](https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "Mousse Autobronzeador de 140 mL e luva aplicadora",
+              "R$ 130,90",
+              "R$ 154,80"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "*Conta nossa: pelos preços de lista da tabela dos autobronzeadores, o mousse (R$ 119,90) mais a luva (R$ 34,90) somam R$ 154,80. O Kit Iniciante sai R$ 23,90 a menos.*"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/autobronzeador-kit-iniciante.webp",
+            "alt": "Frasco do Mousse Autobronzeador da Skelt ao lado da luva aplicadora preta, que formam o Kit Iniciante.",
+            "caption": "Kit Iniciante, com mousse de 140 mL e luva aplicadora. Foto: Skelt.",
+            "objectFit": "square",
+            "href": "https://www.skelt.com.br/kitiniciante/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "Cupom, frete e onde comprar",
+        "paragraphs": [
+          "O cupom SKEMCASACOMCECILIA tira 10% de todo o site oficial, inclusive do produto que já está em promoção e dos kits, em todas as formas de pagamento, e o Pix tira mais 5% sobre o total já com o cupom. No teste do cupom, um body splash e um mousse, de R$ 219,80 de lista, foram a R$ 178,04 com a promoção da loja e o cupom, e a R$ 169,13 no Pix. É um cupom por pedido: outro código da loja na sacola troca o nosso. O código vai no campo \"Cupom de desconto\" da sacola, abaixo do CEP, e a página do [cupom Skelt](/cupons/skelt) traz o passo a passo e as regras.",
+          "O que muda a conta é o frete. Ele é grátis sem mínimo em 12 cidades: São Paulo, Belo Horizonte, Santo André, Goiânia, Niterói, Barueri, São Caetano do Sul, Taboão da Serra, São José dos Pinhais, Curitiba, Vitória e Balneário Camboriú. Fora delas, o pedido precisa passar de R$ 199 no Sul, Sudeste e Centro-Oeste e de R$ 299 no Norte e Nordeste, contados sobre o valor final, depois do cupom e do Pix.  Dá para pagar no cartão, com parcelas sem juros que mudam por produto, no Pix, no Apple Pay e no Pagaleve.",
+          "A Skelt também vende no [Mercado Livre](https://meli.la/2unTb7k), onde o cupom não vale e o preço é o do anúncio. Antes de fechar, compare o preço do anúncio com o site oficial, que é onde o cupom e o Pix entram."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na Skelt",
+        "paragraphs": [
+          "Dá. A loja é de uma S/A registrada, a SKELT BEAUTY BRANDS, com sede em Curitiba, e publica as regras de troca, reembolso e frete: 20 dias para trocar sem defeito e 45 com defeito, contados da entrega, com a primeira devolução grátis. No Reclame Aqui, a loja respondeu a todas as reclamações dos últimos 6 meses e resolveu mais de 90%. As queixas mais comuns são produto com defeito e atraso, então confira o produto ao receber e abra o chamado cedo se o pedido atrasar. O ponto de atenção é que o perfil do Reclame Aqui está em nome de outro CNPJ ligado à marca, e o site não explica a ligação. CNPJ, site oficial e trocas estão em \"Skelt é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Para a primeira vez com autobronzeador, o Mousse, com cor-guia e nível iniciante no rótulo; no Kit Iniciante, a luva vem junto por menos que as duas peças avulsas.",
+          "Para quem já usou e quer mais cor, o Mousse Dark ou a Água Dark, de intensidade intensa e nível expert.",
+          "Para quem tem medo de manchar a roupa e já sabe aplicar, a Água, incolor.",
+          "Para cheiro, o body splash pelo perfil das notas; o Solar Muse é o mais vendido, e os kits de miniaturas servem para provar antes.",
+          "Para a mesma fragrância em creme, só seis das dez têm body cream, e três têm creme para mãos.",
+          "Não vale ir ao Dark na primeira vez: o rótulo o marca como expert.",
+          "Não vale o pedido pequeno fora das 12 cidades: o frete grátis pede o mínimo da região, contado depois do cupom e do Pix.",
+          "Pele sensível, alergia ou gestação: na dúvida, o dermatologista, antes de qualquer autobronzeador ou fragrância."
+        ],
+        "emphasis": "Pelos números da tabela, para quem está começando a escolha é o Kit Iniciante: o mousse com cor-guia e a luva por menos que as duas peças avulsas."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Skelt é boa? Pelo rótulo, é uma marca de autobronzeador, body splash e hidratação corporal que publica o que cada produto é: intensidade, duração e nível dos autobronzeadores, a cor-guia quando ela existe, as notas nos body splash; qual serve para você está no capítulo de cada linha.",
+          "Qual o melhor autobronzeador da Skelt? Não há um para todos: quem nunca usou começa pelo Mousse, com cor-guia e nível iniciante; quem já sabe aplicar e quer mais cor vai às versões Dark; quem não quer cor-guia, à Água ou ao Gel, como mostra a tabela dos autobronzeadores.",
+          "Os perfumes e os body splash da Skelt são bons? A marca publica as notas de cada fragrância e o frasco de 100 mL, e o Solar Muse é o mais vendido do site; cheiro é gosto, e o capítulo dos body splash agrupa as dez por perfil.",
+          "Qual body splash da Skelt é o melhor? Não há um para todos, porque cheiro é gosto: a marca descreve as dez como de alta fixação, sem tempo em horas, e os kits de miniaturas servem para provar antes.",
+          "A Skelt tem cupom? Tem, o SKEMCASACOMCECILIA, de 10% em todo o site oficial, inclusive em kits e em produto em promoção, somando com o Pix; o teste e as regras estão no capítulo do cupom."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você nunca usou autobronzeador e quer começar pelo mousse de intensidade leve a média, com cor-guia, como diz o rótulo.",
+        "Você escolhe body splash pelas notas que a marca publica e quer o hidratante e o creme para mãos na mesma fragrância."
+      ],
+      "skipIf": [
+        "Você quer o bronze intenso logo na primeira vez: as versões Dark dizem \"intensa\" e nível expert no rótulo, e pedem quem já sabe aplicar.",
+        "Você compra pouco e mora fora das 12 cidades com frete grátis: o pedido precisa passar do mínimo da sua região, contado depois do cupom e do Pix."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Skelt com o cupom",
+      "text": "Entre pelo link da parceria e cole o cupom SKEMCASACOMCECILIA no campo \"Cupom de desconto\" da sacola: 10% em todo o site, em todas as formas de pagamento, somando com o Pix. Confira a linha de descontos antes de pagar.",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Podemos receber comissão pela Skelt. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
+    "relatedArticles": [
+      {
+        "slug": "autobronzeador-skelt-qual-escolher",
+        "title": "Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark"
+      },
+      {
+        "slug": "body-splash-skelt-qual-escolher",
+        "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits"
+      },
+      {
+        "slug": "hidratante-corporal-skelt-qual-fragrancia",
+        "title": "Hidratante corporal Skelt: qual fragrância escolher e quanto sai por 100 g"
+      },
+      {
+        "slug": "iluminador-corporal-skelt-como-usar",
+        "title": "Iluminador corporal Skelt: como usar e se compensa comprar sozinho ou no kit"
+      },
+      {
+        "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador",
+        "title": "Bronzeado instantâneo Skelt: qual usar para hoje (e o que muda do autobronzeador)"
+      },
+      {
+        "slug": "removedor-autobronzeador-skelt-como-tirar",
+        "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a empresa anuncia"
+      },
+      {
+        "slug": "cupom-skelt-como-usar",
+        "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma"
+      },
+      {
+        "slug": "skelt-e-confiavel",
+        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "skelt-reclame-aqui-nota-reputacao",
+        "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "black-friday-skelt",
+        "title": "Black Friday Skelt 2026: esquenta a partir de 5 de novembro, Black Friday em 27 e o cupom SKEMCASACOMCECILIA"
+      },
+      {
+        "slug": "skelt-ou-best-bronze",
+        "title": "Skelt ou Best Bronze: qual autobronzeador escolher (mousse, transparente e preço por ml)"
+      }
+    ]
+  },
+  {
+    "id": 790,
+    "slug": "i-wanna-sleep-e-boa",
+    "title": "I Wanna Sleep é boa? Travesseiros, melatonina e o que vale comprar da marca",
+    "seoTitle": "I Wanna Sleep é boa? Travesseiro Snow, cervical e melatonina",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A I Wanna Sleep é boa? Sim, para travesseiro: veja as dez linhas por altura e material, a conta dos kits, melatonina e spray pelo rótulo, o código da parceria e onde comprar.",
+    "metaDescription": "O cupom CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep. Travesseiros por altura e material, kits, melatonina pelo rótulo e onde comprar.",
+    "publishedAt": "4 de novembro de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/iwannasleep/i-wanna-sleep-e-boa-capa.webp",
+    "imageAlt": "Travesseiro Snow, travesseiro cervical Neck Plus e frasco da Melatonina Líquida da I Wanna Sleep, com o logo da marca e a pergunta I Wanna Sleep é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, para quem procura travesseiro: a I Wanna Sleep vende dez modelos e informa altura, material e tamanho, e é por isso que se escolhe. Melatonina e spray entram só pelo rótulo, e colchão não se compra pelo site. O que muda a conta é o kit e o código; veja os capítulos de kits e de compra."
+        ]
+      },
+      {
+        "heading": "O que a I Wanna Sleep vende",
+        "paragraphs": [
+          "Quem chega pelo travesseiro encontra o centro da loja: metade do que o site vende é travesseiro ou kit. A marca é de Belo Horizonte, vende pelo site oficial e em sete lojas na cidade, e se apresenta como uma marca de estilo de vida do sono. Em volta do travesseiro vêm os cobertores, os pijamas Comfty, a roupa de cama de bambu, o spray de travesseiro, os suplementos de melatonina e os apoios de coluna. O box também está à venda no site; o colchão se compra só na loja física, com as consultoras da marca.",
+          "As linhas, com o capítulo de cada uma abaixo:"
+        ],
+        "bullets": [
+          "**Travesseiros:** dez modelos de cama, do Snow regulável ao Látex de altura fixa, mais os de viagem e o de corpo.",
+          "**Kits:** Snow em caixas de 2 a 10, o kit de 4 cervicais e o kit com o Skin.",
+          "**Cobertores:** Igloo de dupla face, Cozy, Puffer Ultralight e Huggy.",
+          "**Melatonina:** líquida em gotas e em goma, com kits de 3 e de 5.",
+          "**Sono e quarto:** Sleepspray, Calm Floral de Bach, máscara de dormir e a máscara térmica Aliv Head Gel.",
+          "**Cama e pijama:** jogos de cama Bamboo Bao Bao, protetores Protex Bamboo, fronhas e os pijamas Comfty."
+        ]
+      },
+      {
+        "heading": "Travesseiros: a linha pela posição, pelo material e pela altura",
+        "paragraphs": [
+          "Quem acerta o travesseiro da I Wanna Sleep acerta primeiro a altura, e o Snow é o que deixa você acertar em casa: ele chega com 18 cm e você tira flocos do enchimento até o ponto. Os outros vêm prontos, e aí a escolha é pelo material e pela posição em que você dorme. Regra prática, sem teste nosso: para quem dorme de lado, a altura certa preenche o espaço entre o ombro e a cabeça, e por isso quem dorme assim costuma pedir mais altura que quem dorme de costas.",
+          "Os materiais são três. A espuma viscoelástica do Snow molda-se ao contorno da cabeça. O látex do Original Látex vem em três alturas fixas, P de 11 cm, M de 13 cm e G de 15 cm. A fibra acrílica do Magnum Pluma AirFiber tem toque de pluma, sem pena de animal. A loja informa: fora o Airgelly 2.0, que lava por inteiro, só a capa vai à lavagem, à mão; o Magnum pede lavagem a seco."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Travesseiro",
+            "Linha",
+            "Preço de lista",
+            "Na loja"
+          ],
+          "rows": [
+            [
+              "[Travesseiro IWS Snow](https://www.iwannasleep.com.br/products/travesseiro-snow)",
+              "viscoelástico regulável, Regular 50x70 ou Plus 50x90",
+              "R$ 419 a R$ 459",
+              "à venda"
+            ],
+            [
+              "[Travesseiro IWS Snow Body](https://www.iwannasleep.com.br/products/travesseiro-de-corpo-iws-snow-body)",
+              "de corpo, para abraçar de lado",
+              "R$ 439",
+              "à venda"
+            ],
+            [
+              "[Cervical Neck Plus Charcoal](https://www.iwannasleep.com.br/products/cervical-neck-plus-charcoal)",
+              "cervical com carvão ativado",
+              "R$ 419",
+              "à venda"
+            ],
+            [
+              "[Cervical Neck Plus Gel](https://www.iwannasleep.com.br/products/cervical-neck-plus-gel)",
+              "cervical com partículas de gel",
+              "R$ 429",
+              "à venda"
+            ],
+            [
+              "[Cervical Coluna Relax](https://www.iwannasleep.com.br/products/travesseiro-cervical-coluna-relax-1)",
+              "cervical ondulado",
+              "R$ 259",
+              "à venda"
+            ],
+            [
+              "[Travesseiro IWS Ergoblu](https://www.iwannasleep.com.br/products/trv-iws-ergoblu)",
+              "viscoelástico de perfil baixo",
+              "R$ 367",
+              "à venda"
+            ],
+            [
+              "[Travesseiro IWS Airgelly 2.0](https://www.iwannasleep.com.br/products/travesseiro-airgelly)",
+              "lavável por inteiro",
+              "R$ 549",
+              "à venda"
+            ],
+            [
+              "[Travesseiro IWS Original Látex](https://www.iwannasleep.com.br/products/travesseiro-iws-original-latex)",
+              "látex, alturas P, M e G",
+              "R$ 327 a R$ 447",
+              "à venda"
+            ],
+            [
+              "[Travesseiro Magnum Pluma AirFiber](https://www.iwannasleep.com.br/products/trv-magnum-pluma-airfiber-iws)",
+              "fibra, toque de pluma",
+              "R$ 267",
+              "à venda"
+            ],
+            [
+              "[Travesseiro IWS Bubble Gel](https://www.iwannasleep.com.br/products/travesseiro-iws-bubble-gel)",
+              "viscoelástico com cavidade central",
+              "R$ 397",
+              "à venda"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "*Preço de lista do site em 03/11, sem o código. A loja vendia boa parte da linha com desconto de promoção, e o preço riscado da página é o desta tabela.*",
+          "O Regular cabe na fronha comum, e o Plus é para a cama King. Quem já sabe a altura e não quer mexer em nada vai no Látex no tamanho certo; quem sente calor à noite olha o Snow, o Ergoblu ou o Neck Plus Gel, que a marca indica para isso. O Airgelly é para quem lava tudo, e o Magnum Pluma, para quem quer travesseiro fofo e moldável sem pena de animal. Deixe o Snow Body para quem dorme de lado e quer apoio para a perna de cima; para a cabeça ele não substitui nenhum da tabela. A comparação completa, posição por posição, está no [guia das linhas de travesseiro](/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep)."
+        ]
+      },
+      {
+        "heading": "Cervical: Neck Plus e Coluna Relax",
+        "paragraphs": [
+          "O cervical da I Wanna Sleep se escolhe pelo que vai dentro, porque os dois Neck Plus têm o mesmo contorno anatômico, para quem dorme de costas ou de lado e quer o pescoço apoiado. O Coluna Relax é o côncavo ondulado e o mais barato dos três. O Neck Plus Gel põe partículas de gel na espuma, e a marca diz que dá sensação até 5 °C mais fresca. O Neck Plus Charcoal põe carvão ativado, que a marca associa a menos odor e a quem é sensível a alérgenos. Para quem dorme de bruços, o guia da linha aponta o modelo mais baixo e plano, porque a curva alta tende a girar o pescoço. Dor que não passa é assunto de médico, não de travesseiro."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/i-wanna-sleep-e-boa-cervical-neck-plus-charcoal.webp",
+            "alt": "Travesseiro Cervical Neck Plus Charcoal da I Wanna Sleep, branco com contorno anatômico, sobre fundo preto, em foto oficial da marca",
+            "caption": "O Neck Plus Charcoal, com contorno anatômico e carvão ativado na espuma. Foto: I Wanna Sleep.",
+            "objectFit": "square",
+            "href": "https://www.iwannasleep.com.br/products/cervical-neck-plus-charcoal"
+          }
+        ]
+      },
+      {
+        "heading": "Kits de travesseiro: a conta por unidade",
+        "paragraphs": [
+          "Quem vai trocar os travesseiros da casa inteira paga menos por unidade no kit, e a diferença é grande no de 10. Conta nossa: pelos preços de lista, o kit de 10 Snow custa R$ 2.870 e dez Snow Regular avulsos custam R$ 4.190, então cada travesseiro do kit sai por R$ 287, cerca de um terço a menos. Os kits de 2, 4, 6 e 8 ficam entre um e outro, e vale fazer a mesma conta na página antes de levar: divida o preço do kit pelo número de peças e compare com o avulso riscado. O kit de 4 Neck Plus estava esgotado, e o kit com o Skin junta o Snow ao travesseiro de capa lisa, para quem acorda com marca no rosto. O kit faz sentido para quem troca vários travesseiros de uma vez; para trocar um só, o avulso com o código da parceria é o caminho."
+        ]
+      },
+      {
+        "heading": "Cobertores",
+        "paragraphs": [
+          "O cobertor da I Wanna Sleep se escolhe pelo clima do quarto e por quem divide a cama, não pela estampa. O Igloo é o de dupla face, com um lado frio e outro quente, e estava esgotado. O Cozy é o fofo, com fibras longas que a marca diz não empelotar. O Puffer Ultralight é o leve, que vira almofada. O Huggy é o de inverno, em fleece com sherpa sintética."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Cobertor",
+            "Para quem",
+            "Preço de lista",
+            "Na loja"
+          ],
+          "rows": [
+            [
+              "[Cobertor Cozy IWS](https://www.iwannasleep.com.br/products/cobertor-cozy-iws)",
+              "toque fofo, cama posta",
+              "R$ 599 a R$ 669",
+              "à venda"
+            ],
+            [
+              "[Cobertor IWS Igloo](https://www.iwannasleep.com.br/products/cobertor-iws-igloo)",
+              "um lado frio, um quente",
+              "R$ 1.099 a R$ 1.299",
+              "esgotado"
+            ],
+            [
+              "Cobertor Puffer Ultralight IWS",
+              "leve, vira almofada",
+              "veja na página",
+              "à venda"
+            ],
+            [
+              "Cobertor Huggy IWS",
+              "inverno, sherpa sintética",
+              "veja na página",
+              "à venda"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "*Preço de lista, sem o código.*",
+          "Leve o Igloo quando um sente calor e o outro frio na mesma cama, e o Cozy quando o que você quer é o toque marshmallow. O Puffer é para quem detesta peso na perna e para quem viaja; o Huggy, para o quarto que gela no inverno. A equipe recebeu o Igloo em parceria; as primeiras impressões estão no artigo dele."
+        ]
+      },
+      {
+        "heading": "Melatonina líquida e em goma",
+        "paragraphs": [
+          "A melatonina da I Wanna Sleep é suplemento, e a escolha é só de formato: gotas no frasco de 30 mL, sabor maracujá, ou goma no pote de 30 unidades, que estava esgotada. A loja declara as duas sem açúcar, sem glúten e sem lactose. A porção e o modo de uso estão no rótulo. Quantidade, horário e tempo de uso, para gestante, para quem toma remédio e para quem pensa em uso contínuo, são conversa com o médico, não com o rótulo."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Formato",
+            "Preço de lista",
+            "Na loja"
+          ],
+          "rows": [
+            [
+              "[Melatonina Líquida IWS 30 mL Maracujá](https://www.iwannasleep.com.br/products/melatonina-liquida-maracuja-novo-sabor)",
+              "gotas",
+              "R$ 87",
+              "à venda"
+            ],
+            [
+              "[Melatonina Gummy IWS Maracujá Doce](https://www.iwannasleep.com.br/products/melatonina-gummy-iws-maracuja-doce)",
+              "30 gomas",
+              "R$ 97",
+              "esgotada"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "*Preço de lista, sem o código.*",
+          "Escolha a goma se você quer a porção pronta e não quer contar gota; escolha a líquida se prefere não mastigar ou se a goma seguir esgotada. Não escolha nenhuma esperando um resultado prometido: o rótulo diz o que tem e como tomar, e para por aí."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/iwannasleep/i-wanna-sleep-e-boa-melatonina-liquida-frasco.webp",
+            "alt": "Frasco de 30 mL da Melatonina Líquida IWS, sabor maracujá, em foto oficial da I Wanna Sleep",
+            "caption": "Frasco de 30 mL com conta-gotas, sabor maracujá. Foto: I Wanna Sleep.",
+            "objectFit": "square",
+            "href": "https://www.iwannasleep.com.br/products/melatonina-liquida-maracuja-novo-sabor"
+          }
+        ]
+      },
+      {
+        "heading": "Sleepspray, Calm e Aliv Head Gel",
+        "paragraphs": [
+          "Os acessórios de quarto da I Wanna Sleep são de rotina, não de resultado, e é assim que se compram. O Sleepspray é um spray de 60 mL para o travesseiro e o lençol, não para a pele, com a versão Kidz indicada pela marca a partir de 2 anos, sem melatonina, com camomila, lavanda e laranja doce; a versão adulta leva melatonina na fórmula e não traz faixa etária, então não vai para o quarto da criança. A marca indica de 1 a 3 borrifadas. O Calm é um floral de Bach. A Aliv Head Gel é a máscara térmica de gel em formato de touca, sem velcro, para usar fria ou quente, sempre testando a temperatura antes de encostar na pele."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "O que é",
+            "Preço de lista",
+            "Na loja"
+          ],
+          "rows": [
+            [
+              "[Sleepspray IWS 60 mL](https://www.iwannasleep.com.br/products/sleepspray-iws-60ml)",
+              "spray para tecido",
+              "R$ 127",
+              "à venda"
+            ],
+            [
+              "Aliv Head Gel IWS",
+              "máscara térmica",
+              "veja na página",
+              "à venda"
+            ],
+            [
+              "Calm Floral de Bach IWS",
+              "floral",
+              "veja na página",
+              "à venda"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "*Preço de lista, sem o código.*",
+          "O spray serve a quem monta um ritual de dormir com cheiro no travesseiro; com criança com asma, rinite ou pele sensível, o pediatra vem antes do frasco, porque a fragrância leva linalol, limoneno e outros componentes de perfume. A máscara é para a pausa com compressa fria ou quente no rosto, e só. Enxaqueca e dor de cabeça que voltam são assunto de médico."
+        ]
+      },
+      {
+        "heading": "Cama e pijama: Bamboo Bao Bao, Protex e Comfty",
+        "paragraphs": [
+          "A roupa de cama da I Wanna Sleep é a parte cara da loja, e por isso ela se compra depois do travesseiro. Os jogos de cama Bamboo Bao Bao vão de R$ 1.679 a R$ 8.596 de lista, com os kits no topo; os protetores de travesseiro Protex Bamboo, que a marca apresenta como barreira contra suor e ácaros, custam de R$ 127 a R$ 157 de lista, e as fronhas Bao Bao e a capa Snow completam a linha. Os pijamas Comfty são cerca de 20 peças, de R$ 107,90 na camiseta a R$ 384,90 no pijama feminino de manga longa, que estava esgotado. O protetor é a compra pequena que faz sentido junto com o travesseiro, porque a capa do viscoelástico é de lavagem à mão; o jogo de cama é para quem já fechou o resto e quer a linha Bamboo. Quem quer gastar pouco no quarto começa pelo protetor e pelo pijama, não pelo jogo."
+        ]
+      },
+      {
+        "heading": "Onde comprar: site, lojas de Belo Horizonte e o código da parceria",
+        "paragraphs": [
+          "Com o CECIEMCASA, todo o site da I Wanna Sleep sai 10% mais barato, em todas as formas de pagamento, e o desconto soma com as promoções da loja e com os 5% do Pix à vista. O código vai no campo de cupom do checkout, em maiúsculas e sem espaço, e o total recalcula antes do pagamento; no teste do cupom, um carrinho com box e kit de pillow top ganhou os 10% nos dois itens. A página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep) tem o passo a passo e as regras. O código não vale no Mercado Livre nem em marketplace: lá o preço é o do anúncio.",
+          "O frete é grátis acima de R$ 150, fora colchão, box, baú e cabeceira, então quase todo travesseiro já passa do mínimo sozinho. O cartão parcela sem juros, e o número de parcelas aparece na página de cada produto. Quem se arrepende tem 7 dias corridos, com o frete da primeira devolução grátis, e o estorno no cartão leva de 30 a 60 dias; a compra do site não se troca nas lojas. O travesseiro ainda tem o Sleeptest de 30 dias, com pelo menos 15 dias de uso e troca por crédito.",
+          "As sete lojas ficam em Belo Horizonte: BH Shopping, Castelo, Del Rey, Só Marcas Outlet, Lourdes, Silviano Brandão e Ponteio. É lá, e só lá, que se compra o colchão, com as consultoras do sono; o site mostra os modelos, mas não vende. Travesseiro, cobertor e o resto da loja vêm pelo site."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na I Wanna Sleep",
+        "paragraphs": [
+          "Dá. A empresa tem CNPJ ativo em Belo Horizonte, sete lojas de rua e shopping, políticas de troca e devolução publicadas e, no Reclame Aqui, a reputação mais alta do site, com todas as reclamações dos últimos seis meses respondidas e a maior parte resolvida; a queixa mais comum é atraso na entrega. A troca de travesseiro pelo Sleeptest pede a etiqueta intacta, então não rasgue nada antes de decidir. Os dados da empresa e o que conferir no domínio estão em [I Wanna Sleep é confiável?](/reviews/i-wanna-sleep-e-confiavel), e as queixas, no guia do Reclame Aqui."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Para o travesseiro, vale: a linha inteira, com altura e material na página, e o Snow para quem não sabe a altura.",
+          "Para a casa inteira, o kit: o de 10 Snow sai cerca de um terço mais barato por unidade que o avulso.",
+          "Para o cobertor, vale quando o clima do quarto ou quem divide a cama decide: Igloo para o casal em desacordo, Cozy para a cama fofa, Puffer para quem não quer peso, Huggy para o inverno.",
+          "Para a melatonina e o spray, vale só pelo rótulo: porção, modo de uso e o que tem dentro; o efeito não está lá e a conversa é com o médico.",
+          "Não vale para colchão pelo site: o colchão se compra nas lojas de Belo Horizonte.",
+          "Não vale comprar um item só, abaixo do mínimo do frete grátis: aí o frete é pago."
+        ],
+        "emphasis": "Na dúvida, o Snow não erra: é o travesseiro que você acerta em casa, tirando flocos até a altura certa."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A I Wanna Sleep é boa? Para travesseiro, sim: a marca vende dez modelos e informa altura, material e tamanho de cada um, como mostra o capítulo dos travesseiros; melatonina e spray entram só pelo rótulo.",
+          "A I Wanna Sleep vale a pena? Vale para quem escolhe o travesseiro pela posição e pelo material e compra pelo site com o código da parceria, que dá 10% e soma com o Pix.",
+          "O travesseiro I Wanna Sleep é bom? Depende da posição em que você dorme e da altura de que precisa: o Snow se regula em casa, o Látex vem em três alturas fixas e os cervicais têm contorno para quem dorme de costas ou de lado.",
+          "A melatonina da I Wanna Sleep é boa? É um suplemento em gotas ou em goma, e o rótulo traz a porção e o modo de uso; quantidade, horário e tempo de uso são conversa com o médico, como diz o capítulo da melatonina.",
+          "A I Wanna Sleep tem loja em BH? Tem sete, e é nelas que se compra o colchão.",
+          "Qual travesseiro I Wanna Sleep escolher? Quem não sabe a altura vai no Snow; quem já sabe, no Látex P, M ou G; quem quer apoio no pescoço, num dos três cervicais; quem lava tudo, no Airgelly."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você procura travesseiro e quer escolher pela posição em que dorme, pelo material e pela altura que a página informa.",
+        "Você compra dois travesseiros ou mais e quer o preço por unidade do kit.",
+        "Você quer cobertor escolhido pelo clima do quarto e por quem divide a cama."
+      ],
+      "skipIf": [
+        "Você quer colchão para comprar pelo site: colchão só se compra nas lojas de Belo Horizonte.",
+        "Você espera da melatonina ou do spray algum efeito: o rótulo traz a porção e o modo de uso, e o resto é conversa com o médico.",
+        "Você vai levar um item só, abaixo do mínimo do frete grátis, e paga o frete."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a I Wanna Sleep com o cupom",
+      "text": "Entre no site oficial da I Wanna Sleep e digite CECIEMCASA no campo de cupom do checkout: 10% em todo o site, em todas as formas de pagamento. Confira o desconto no resumo do pedido antes de pagar.",
+      "url": "https://www.iwannasleep.com.br",
+      "sponsored": true
+    },
+    "coupon": "CECIEMCASA",
+    "affiliate": "i-wanna-sleep",
+    "editorialNote": "Podemos receber comissão pela I Wanna Sleep. Os dados são do site da marca; o cobertor Igloo foi recebido em parceria, e o relato está no artigo dele.",
+    "relatedArticles": [
+      {
+        "slug": "i-wanna-sleep-travesseiro-snow-ficha-tecnica",
+        "title": "Travesseiro IWS Snow: ficha técnica, preço e como comprar"
+      },
+      {
+        "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
+        "title": "Qual Cobertor Escolher? As opções da I Wanna Sleep"
+      },
+      {
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
+        "title": "Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeira noite"
+      },
+      {
+        "slug": "melatonina-liquida-iws-ficha-tecnica",
+        "title": "Melatonina Líquida IWS 30 ml: ficha do rótulo e preço"
+      },
+      {
+        "slug": "melatonina-gummy-iws-para-que-serve-como-tomar",
+        "title": "Melatonina Gummy IWS: para que serve, como tomar e cuidados"
+      },
+      {
+        "slug": "sleepspray-kidz-iws-como-funciona-ritual-do-sono",
+        "title": "SleepSpray Kidz IWS: Como Funciona o Spray para Travesseiro e o Ritual do Sono Infantil"
+      },
+      {
+        "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca",
+        "title": "Aliv Head Gel IWS: máscara térmica fria ou quente, como usar e para quem serve"
+      },
+      {
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
+        "title": "Como usar o cupom CECIEMCASA na I Wanna Sleep: 10% de desconto"
+      },
+      {
+        "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao",
+        "title": "I Wanna Sleep no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "sleeptest-i-wanna-sleep-como-funciona",
+        "title": "Sleeptest da I Wanna Sleep: como funciona na prática (100 noites, 30 dias e as regras que ninguém lê)"
+      },
+      {
+        "slug": "black-friday-i-wanna-sleep",
+        "title": "Black Friday I Wanna Sleep 2026: a loja segue sem campanha, os preços do Pillow Top Magnum e o cupom CECIEMCASA"
+      },
+      {
+        "slug": "i-wanna-sleep-ou-ortobom",
+        "title": "Travesseiro I Wanna Sleep ou Ortobom: qual escolher por material, altura e jeito de dormir"
+      },
+      {
+        "slug": "travesseiro-i-wanna-sleep-ou-emma",
+        "title": "Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir"
+      }
+    ]
+  },
+  {
+    "id": 791,
+    "slug": "clea-store-e-boa",
+    "title": "Cléa Store é boa? As camisetas, os bodies, a alfaiataria e o que vale comprar da marca",
+    "seoTitle": "Cléa Store é boa? Camiseta, bodies e alfaiataria pelo site",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Cléa Store é boa? Sim, para quem quer camiseta oversized de algodão, body justo e alfaiataria de linho: o que a página mostra, o preço com o cupom e para quem compensa.",
+    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Camiseta oversized, bodies e alfaiataria pelo que a loja publica: para quem compensa.",
+    "publishedAt": "4 de novembro de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/clea-store/clea-store-e-boa-capa.webp",
+    "imageAlt": "Modelos com a camiseta oversized preta, o body gola alta vinho e o colete de linho bege da Cléa Store, com o logo da marca e a pergunta Cléa Store é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10% que soma com as promoções. Camisetas e bodies saem em P, M e G. O que muda a escolha é o tamanho e o preço por peça do kit; veja os capítulos da camiseta e do cupom."
+        ]
+      },
+      {
+        "heading": "O que a Cléa vende",
+        "paragraphs": [
+          "Três frentes valem a visita na Cléa Store, uma loja de moda feminina: a camiseta oversized de algodão, os bodies justos da linha Second Skin e a alfaiataria de verão em linho. A marca é brasileira e vende no site oficial, cleastore.com.br, com cashback próprio, tabela de medidas em cada página e devolução grátis. Não existe conjunto de alfaiataria pronto: blazer, colete, calça e shorts são peças avulsas, e os \"conjuntos\" à venda são de crochê.",
+          "As linhas, com o capítulo de cada uma abaixo:"
+        ],
+        "bullets": [
+          "**Camisetas:** um modelo só, a T-Shirt Oversized de algodão, avulsa ou em cinco kits de três.",
+          "**Bodies Second Skin:** nove modelos, de regata a gola alta com manga longa.",
+          "**Alfaiataria:** blazer, colete, calça wide leg e shorts, em linho ou mistura, mais camisa de tricoline e bata.",
+          "**Peças de época:** calça cargo, calça jeans bicolor e os conjuntos de crochê, fora deste guia."
+        ],
+        "postParagraphs": [
+          "A linha é maior que a camiseta, mas é a camiseta que puxa a busca. Então ela abre a lista."
+        ]
+      },
+      {
+        "heading": "Camiseta oversized de algodão: avulsa ou kit de três",
+        "paragraphs": [
+          "A camiseta da Cléa se escolhe pela cor e pela quantidade, porque modelo só tem um. A loja informa: corpo 100% algodão penteado, modelagem oversized, tamanhos P, M e G, e a gramatura, o peso da malha, não aparece na página. Quem quer corte regular ou baby look não encontra aqui; quem quer a camiseta larga, de caimento solto, encontra em dez cores."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Peça",
+            "Cores",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189)",
+              "10: azul claro, azul marinho, caramelo, marrom, off white, preto, rosa claro, verde oliva, vermelho e vinho",
+              "R$ 129,00"
+            ],
+            [
+              "[Kit 3 T-Shirts Essenciais, Monte Seu Kit](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229)",
+              "Você escolhe 3 entre as 10 cores e pode repetir",
+              "R$ 387,00"
+            ],
+            [
+              "[Kit 3 T-Shirts Oversized Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951)",
+              "Off white, preto e marrom, uma de cada",
+              "R$ 387,00"
+            ]
+          ]
+        },
+        "bullets": [
+          "piece: T-Shirt Oversized Algodão; url: https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+          "howTo: Solta, com jeans, short ou saia, segundo a loja.",
+          "occasion: Dia a dia; com uma peça de alfaiataria por cima, vira produção de trabalho.",
+          "pairsWith: Shorts Alfaiataria Rosa Linho (url https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402; note: a página do shorts indica camisetas básicas), jeans, saia, calça de alfaiataria."
+        ],
+        "postParagraphs": [
+          "*Preço de lista no site, 03/11. A loja põe os kits em promoção com frequência: o preço riscado é o de lista, e o cupom entra sobre o preço do dia.*",
+          "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, porque é no kit em promoção que a camiseta fica mais barata por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa).",
+          "**Card de estilo (styling, layout tabs, 1 peça):**"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/camiseta-clea-store-kit-classic.webp",
+            "alt": "Modelo com a camiseta oversized off white do Kit 3 T-Shirts Oversized Classic da Cléa Store",
+            "caption": "O Kit Classic: off white, preto e marrom, uma de cada. Imagem: Cléa Store.",
+            "objectFit": "square",
+            "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951"
+          }
+        ]
+      },
+      {
+        "heading": "Bodies Second Skin: nove modelos, dois preços",
+        "paragraphs": [
+          "O body da Cléa se escolhe pelo corte, não pelo tecido: os seis modelos comparados no guia do body saem da mesma malha, e os nove ficam em dois preços. A composição é 90% poliamida e 10% elastano, segundo a loja, nos seis modelos do guia do body. O que separa um modelo do outro é a gola, a manga e o decote."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Corte",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Body Gola Alta Manga Longa Second Skin](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047)",
+              "Gola alta, manga longa",
+              "R$ 169,00"
+            ],
+            [
+              "[Body Regata Cavado Second Skin](https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185)",
+              "Regata de cavas profundas",
+              "R$ 169,00"
+            ],
+            [
+              "Body Franzimento Assimétrico",
+              "Franzido de um lado",
+              "R$ 169,00"
+            ],
+            [
+              "[Body Regata Second Skin Duplo](https://www.cleastore.com.br/produto/body-regata-second-skin-duplo-4045)",
+              "Gola alta, regata",
+              "R$ 159,00"
+            ],
+            [
+              "[Body Frente Única Decote Second Skin](https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128)",
+              "Decote profundo na frente, sem gola",
+              "R$ 159,00"
+            ],
+            [
+              "[Body Decote Reversível Second Skin](https://www.cleastore.com.br/produto/body-decote-reversivel-second-skin-design-especial-4194)",
+              "Decote na frente ou nas costas",
+              "R$ 159,00"
+            ],
+            [
+              "[Body Ombro Único com Detalhe nas Costas](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230)",
+              "Um ombro só, abertura nas costas",
+              "R$ 159,00"
+            ],
+            [
+              "Body Regata Decote U Costas Second Skin",
+              "Regata, decote U nas costas",
+              "R$ 159,00"
+            ],
+            [
+              "Body Tule Gola Alta Second Skin",
+              "Gola alta em tule",
+              "R$ 159,00"
+            ]
+          ]
+        },
+        "bullets": [
+          "piece: Body Gola Alta Manga Longa; url: https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047",
+          "howTo: Sozinho ou por baixo de blazer e casaco, segundo a loja.",
+          "occasion: Trabalho e dias frios.",
+          "pairsWith: Blazer Oversized Alfaiataria Mescla (url https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307; note: o nosso look de trabalho monta os dois), calça de alfaiataria.",
+          "piece: Body Regata Cavado; url: https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185",
+          "howTo: Como regata de cava funda, com a modelagem ajustada.",
+          "occasion: Fim de semana e calor.",
+          "pairsWith: jeans, shorts."
+        ],
+        "postParagraphs": [
+          "*Preço de lista no site. Os bodies costumam estar em promoção, e o Gola Alta e o Duplo têm o \"leve 3\" na própria página, que baixa o preço por peça.*",
+          "Para o frio e para o trabalho, o Gola Alta Manga Longa: a loja o indica sozinho ou por baixo de blazer e casaco. Para o dia a dia com jeans, o Duplo ou o Cavado, que é regata. Para a noite, o Frente Única e o Ombro Único, com o decote à mostra. Não escolha o body pela cor da foto sem olhar a tabela da peça: a modelagem é justa, e no justo a medida manda. Os seis modelos do guia do body, com cores, tamanhos e o leve 3 na conta, estão no guia do body Second Skin, listado no fim.",
+          "**Card de estilo (styling, layout tags, 2 peças):**"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-gola-alta-manga-longa.webp",
+            "alt": "Modelo com o body gola alta manga longa Second Skin da Cléa Store",
+            "caption": "O Gola Alta Manga Longa, que a loja indica sozinho ou por baixo do blazer. Imagem: Cléa Store.",
+            "objectFit": "portrait",
+            "href": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047"
+          }
+        ]
+      },
+      {
+        "heading": "Alfaiataria de verão e look de trabalho",
+        "paragraphs": [
+          "A alfaiataria da Cléa é para montar, não para levar pronta: blazer, colete, calça e shorts são vendidos separados, e o conjunto se faz juntando duas peças da mesma cor e do mesmo tecido. O linho manda na linha de verão, com o [Blazer Alfaiataria Rosa Linho](https://www.cleastore.com.br/produto/blazer-alfaiataria-rosa-linho-4404), o [Colete Frente Única Linho Bege](https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221), o [Colete Alfaiataria Trespasse Vermelho](https://www.cleastore.com.br/produto/colete-alfaiataria-trespasse-vermelho-4393) e o [Shorts Alfaiataria Rosa Linho](https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402); o [Blazer Oversized Alfaiataria Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307) é o de poliéster com viscose, com forro declarado. As calças de linho vêm em 36 e 38, numeração diferente da das peças de cima.",
+          "A alfaiataria serve a quem monta o guarda-roupa de trabalho peça a peça e quer o colete ou o blazer para usar com o que já tem. Não serve a quem quer o conjunto fechado numa compra só, nem a quem precisa do tamanho P no blazer de linho: a grade dessas peças quebra com frequência, e a peça que falta hoje pode voltar amanhã. As montagens de verão e os três looks de trabalho, com a conta de cada um, estão nos dois guias de alfaiataria listados no fim."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/alfaiataria-verao-clea-store-colete-4221.webp",
+            "alt": "Colete frente única de linho bege da Cléa Store, foto oficial da loja",
+            "caption": "O colete de linho bege: a alfaiataria se monta peça a peça. Imagem: Cléa Store.",
+            "objectFit": "portrait",
+            "href": "https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221"
+          }
+        ]
+      },
+      {
+        "heading": "Tamanho: P, M e G, e a tabela de cada peça",
+        "paragraphs": [
+          "O tamanho na Cléa se decide na página da peça, não numa tabela geral do site. Cada produto tem o botão \"Tabela de Medidas\", que abre as faixas de busto, cintura e quadril em centímetros; nas peças de cima a tabela é a mesma para camiseta, body e blazer, e na calça ela traz cintura e quadril com a numeração de 36 a 42. O mesmo botão abre um provador virtual, que a loja não garante: use como apoio, não como medida.",
+          "A conta que evita a troca é medir antes. Regra prática, sem teste nosso: pela modelagem que a loja descreve, na peça justa, como o body, a medida manda e a folga não existe; na oversized, a folga já vem do corte, e quem cai entre dois tamanhos tem mais margem. Como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos estão no guia da tabela de medidas, listado no fim."
+        ]
+      },
+      {
+        "heading": "Quanto custa com o cupom, e onde comprar",
+        "paragraphs": [
+          "O [cupom Cléa Store](/cupons/clea-store) é o CSEMCASACOMCECILIA: 10% em todo o site, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções da loja e com o cashback, que devolve 10% da compra em créditos para usar no site. Conta nossa: pelo preço de lista da tabela, a camiseta avulsa sai por R$ 116,10 com o cupom, e no kit em promoção os 10% entram sobre o preço já baixado, com o cashback calculado depois do desconto. O código vai no resumo do pedido, no carrinho; confira a linha Desconto antes de pagar.",
+          "O que muda a conta é o frete. A faixa do site anuncia frete grátis acima de R$ 599; abaixo disso, o frete aparece no carrinho, e uma camiseta avulsa ou um body sozinho paga frete. É aí que o kit de três ou o pedido com duas peças faz sentido. A Cléa também vende no Mercado Livre, onde o cupom não vale e a camiseta e os bodies costumam sair mais baratos; a comparação, anúncio a anúncio, está em [Mercado Livre ou site da Cléa Store](/reviews/clea-store-mercado-livre-ou-site). Para a alfaiataria e para qualquer cor fora dos kits, só o site tem."
+        ]
+      },
+      {
+        "heading": "Devolução e troca",
+        "paragraphs": [
+          "A devolução é grátis, e isso tira o medo de errar o tamanho numa loja que só vende online. A política da loja dá 30 dias corridos depois do recebimento para devolver, com a peça sem uso, na embalagem original e com a nota fiscal, e 90 dias para defeito; a postagem não é cobrada. O que a política também diz: cashback, cupom e frete grátis não voltam no reembolso. Então, se o pedido pode voltar, a conta a guardar é a do valor pago, não a do desconto.",
+          "Troca direta de tamanho é outra conversa: a página fala em devolução, e o caminho mais seguro para trocar o P pelo M é devolver e comprar de novo. Antes de fechar, meça; a devolução grátis é a rede, não o plano."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na Cléa Store",
+        "paragraphs": [
+          "Dá. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No Reclame Aqui, a reputação é Boa, com o selo de Empresa Verificada, nota 7,1 nos seis meses e todas as reclamações respondidas, com mais de 80% resolvidas; o ponto fraco é que pouco mais da metade de quem avaliou a loja voltaria a comprar. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados. CNPJ, trocas e frete estão em \"Cléa Store é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Para a camiseta larga de algodão em cor lisa, a T-Shirt Oversized: avulsa para uma cor, kit de três em promoção para o menor preço por peça.",
+          "Para o body que vai por baixo do blazer e segura o frio, o Gola Alta Manga Longa; para o dia a dia com jeans, o Duplo ou o Cavado.",
+          "Para a alfaiataria de linho montada peça a peça, o blazer ou o colete com a calça ou o shorts da mesma cor, enquanto a grade do seu tamanho estiver aberta.",
+          "Não vale para quem precisa saber a gramatura ou o toque antes de comprar: a página não traz, e isso só se decide com a peça na mão.",
+          "Não vale o pedido de uma peça só, longe do frete grátis: nesse caso, compare com o Mercado Livre antes de fechar no site."
+        ],
+        "emphasis": "Eu começaria pela camiseta avulsa, de R$ 129,00: ela mostra se o P, o M ou o G cai bem antes de pagar por três."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Cléa Store é boa? Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10%; o que pesa é o tamanho e o preço por peça do kit, nos capítulos da camiseta e do cupom.",
+          "A camiseta da Cléa é boa? Pelo que a loja publica, é uma camiseta oversized de corpo 100% algodão, em dez cores e nos tamanhos P, M e G, sem a gramatura na página; o capítulo da camiseta resume e aponta o guia completo da peça.",
+          "A Cléa Store tem cupom? Tem: o CSEMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback; o capítulo do cupom mostra onde digitar.",
+          "A Cléa Store é confiável? Sim: CNPJ ativo, dados publicados no site, devolução grátis e reputação Boa no Reclame Aqui, com todas as reclamações respondidas, como mostra o capítulo de confiança.",
+          "A Cléa Store tem tabela de medidas? Tem, na página de cada peça, no botão \"Tabela de Medidas\", com busto, cintura e quadril em centímetros; o capítulo de tamanho explica como usar."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, comprando no site oficial com o cupom de 10%.",
+        "Você escolhe o tamanho pela tabela de medidas de cada peça e aceita a grade de cada peça."
+      ],
+      "skipIf": [
+        "Você precisa de uma informação que a página não traz, como a gramatura da camiseta ou o toque do tecido.",
+        "Você quer só uma camiseta ou um body avulso: o pedido pequeno fica longe do frete grátis, e o Mercado Livre pode sair melhor."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Cléa Store com o cupom",
+      "text": "Entre no site oficial da Cléa Store e digite o CSEMCASACOMCECILIA no resumo do pedido: 10% em todo o site, em todas as formas de pagamento. Confira a linha Desconto antes de pagar.",
+      "url": "https://www.cleastore.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CSEMCASACOMCECILIA",
+    "affiliate": "clea-store",
+    "editorialNote": "Podemos receber comissão pelo CSEMCASACOMCECILIA. Ninguém da equipe comprou nem vestiu as peças: os dados são do site da Cléa Store.",
+    "relatedArticles": [
+      {
+        "slug": "camiseta-clea-store-e-boa",
+        "title": "Camiseta Cléa Store é boa? Tecido, modelagem, tamanhos, kit e preço por peça"
+      },
+      {
+        "slug": "body-clea-store-second-skin-qual-escolher",
+        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      },
+      {
+        "slug": "alfaiataria-verao-clea-store",
+        "title": "Alfaiataria de verão na Cléa Store: dá para montar conjunto, mas a loja não vende pronto"
+      },
+      {
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
+        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+      },
+      {
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
+        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+      },
+      {
+        "slug": "clea-store-mercado-livre-ou-site",
+        "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato"
+      },
+      {
+        "slug": "clea-store-e-confiavel",
+        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+      },
+      {
+        "slug": "clea-store-reclame-aqui-nota-reputacao",
+        "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-clea-store-como-usar",
+        "title": "Como usar o cupom CSEMCASACOMCECILIA na Cléa Store: passo a passo"
+      },
+      {
+        "slug": "black-friday-clea-store",
+        "title": "Black Friday Cléa Store 2026: 30% OFF em todo o site, kits a preço fixo e o cupom CSEMCASACOMCECILIA"
+      }
+    ]
+  },
+  {
+    "id": 792,
+    "slug": "toda-up-e-boa",
+    "title": "Toda Up é boa? Sutiãs, segunda pele, Fita Up e kits: o que vale comprar da marca",
+    "seoTitle": "Toda Up é boa? Sutiã Comfort, SkinUp, Fita Up e o cupom",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Toda Up é boa? Sim, para quem mede o busto antes de comprar: o que a loja diz dos sutiãs Comfort, da SkinUp, da Cotton Up e da Fita Up, quanto custa com o código e onde comprar.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up. Sutiãs Comfort, SkinUp, Cotton Up e Fita Up pela página da loja, os kits que compensam e onde comprar.",
+    "publishedAt": "4 de novembro de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/toda-up/toda-up-e-boa-capa.webp",
+    "imageAlt": "Sutiã Comfort Up rosa, tops SkinUp preto e rosa e o kit de três sutiãs da Toda Up, com o logo da marca e a pergunta Toda Up é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim, para quem quer sutiã de todo dia ou segunda pele e mede o busto antes de comprar: a Toda Up vende três sutiãs Comfort, as linhas SkinUp e Cotton Up, a Fita Up e os adesivos, no site oficial. O que decide é a sua medida na tabela de cada peça; veja os capítulos abaixo."
+        ]
+      },
+      {
+        "heading": "O que a Toda Up vende e de onde veio",
+        "paragraphs": [
+          "Se você quer sutiã, segunda pele ou adesivo, vai encontrar tudo na mesma loja, em cinco grupos. A marca é de Biguaçu (SC) e começou com a Fita UP, a fita adesiva para decote; cresceu, passou a se chamar Toda Up, e a fita continua à venda. A loja oficial é a todaup.com, e a marca não lista revendedor nem loja em marketplace.",
+          "As linhas, com o capítulo de cada uma abaixo:"
+        ],
+        "bullets": [
+          "**Sutiãs Comfort:** Comfort Up, Comfort Line e Comfort Slim, o sutiã de todo dia em três formatos.",
+          "**SkinUp:** a segunda pele, com corte a laser e sem costura: Top Segunda Pele, Sutiã Top Alça Fina, Sutiã Clássico e quatro calcinhas.",
+          "**Cotton Up:** a linha de algodão: Top Faixa, Top Triangular e Calcinha Biquíni, em preto, branco e cinza.",
+          "**Adesivos:** Fita Up, Sutiã de Silicone Invisível, Protetor de Silicone Ultrafino e a Case que guarda os dois.",
+          "**Conjuntos:** kits de top com calcinha, de sutiã Comfort com protetor e o kit com os três Comfort."
+        ]
+      },
+      {
+        "heading": "Sutiãs Comfort: Up, Line e Slim",
+        "paragraphs": [
+          "Entre os três sutiãs Comfort, o que decide é a faixa de tamanho, porque o tecido e o preço são os mesmos. A loja informa: 76,6% de poliamida e 23,5% de elastano nos três. O Comfort Up é o de maior faixa e o único que chega ao G2 e ao G3, com o ajuste nas costas e sem aros, diz a página. O Comfort Line é o que vira tomara que caia ou leva as alças cruzadas, com faixas de silicone para não escorregar, e a própria loja avisa que a modelagem dele é menor. O Comfort Slim é o discreto, para sumir sob a roupa ou aparecer sob transparência."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Modelo",
+            "Tamanhos",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "PP (34-36) a G3 (54-56)",
+              "R$ 199,90"
+            ],
+            [
+              "[Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "P (38-40) a G1 (46-48), sem PP",
+              "R$ 199,90"
+            ],
+            [
+              "[Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "PP (34-36) a GG (44-46)",
+              "R$ 199,90"
+            ]
+          ],
+          "caption": "Preço de lista do site em 03/11, sem o código. No dia, os três estavam com desconto de promoção, e o preço riscado da página é o desta tabela."
+        },
+        "postParagraphs": [
+          "A mesma letra não tem a mesma medida nos três: o M do Comfort Up vai de 79 a 87 cm de sob busto, e o M do Comfort Line, de 75 a 81. Meça o sob busto e o busto e compare com a coluna do modelo, não com o número que você usa em outra marca; a tabela completa, modelo a modelo, está no [guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher). Quem veste PP fica fora do Line; quem usa G2 ou G3 só tem o Up. Para o dia a dia com blusa de alça larga, o Up ou o Slim; para ombro de fora, o Line."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up.webp",
+            "alt": "Sutiã Comfort Up rosa da Toda Up, de frente, em foto oficial da loja",
+            "caption": "O Comfort Up: o único Comfort que chega ao G3. Imagem: Toda Up.",
+            "objectFit": "square",
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "SkinUp e Cotton Up: segunda pele ou algodão",
+        "paragraphs": [
+          "A escolha entre as duas linhas é pela roupa que vai por cima: a SkinUp é para sumir sob roupa justa, clara ou de alça fina, e a Cotton Up é o básico de algodão para casa e roupa larga. A loja descreve a SkinUp com corte a laser e acabamento ultrafino, sem costura, e tem três tops nela. O Top Segunda Pele é o top fixo de alça larga, sem fecho e sem regulagem, para quem quer o mínimo de estrutura. O Sutiã Top Alça Fina tem alças finas reguláveis e fecho de quatro níveis, e é o único top da loja com PP, e a loja diz que a alça some sob a alça da regata. O Sutiã Clássico é o de bojo fixo, sem aro, com o efeito push-up que a página promete, e o mais caro das duas linhas. Na Cotton Up, o Top Faixa é reto e o Top Triangular tem o decote em V; os dois vêm com bojo removível, em algodão com 5% de elastano no Faixa, e a própria loja classifica a sustentação como leve."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Peça",
+            "Linha",
+            "Tamanhos",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Top Segunda Pele SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "P (38-40) a G1 (46-48)",
+              "R$ 179,90"
+            ],
+            [
+              "[Sutiã Top Alça Fina SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "PP (34-36) a GG (44-46)",
+              "R$ 199,90"
+            ],
+            [
+              "[Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "P (38-40) a G1 (46-48)",
+              "R$ 219,90"
+            ],
+            [
+              "[Top Faixa Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Cotton Up",
+              "P (36-38) a G1 (50-52)",
+              "R$ 189,90"
+            ],
+            [
+              "[Top Triangular Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Cotton Up",
+              "P (36-38) a G1 (50-52)",
+              "R$ 189,90"
+            ]
+          ],
+          "caption": "Preço de lista do site, sem o código; os cinco tops estavam com desconto de promoção no dia."
+        },
+        "postParagraphs": [
+          "O número não passa de uma linha para a outra: o P da Cotton Up é 36-38 e o da SkinUp, 38-40. Para blusa colada, não escolha a Cotton Up: ela não tem o corte a laser que faz a SkinUp sumir na roupa. Para quem veste PP, só o Alça Fina. As medidas em centímetros de cada top e das calcinhas, e as sugestões de combinação de cada peça, estão no [guia SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
+            "alt": "Sutiã Top Alça Fina SkinUp preto, com alças finas e decote em V, em foto oficial da loja",
+            "caption": "O Sutiã Top Alça Fina: o único top da loja com PP. Imagem: Toda Up.",
+            "objectFit": "wide",
+            "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "Fita Up: a fita que deu nome à marca",
+        "paragraphs": [
+          "A Fita Up é para o decote que nenhum sutiã resolve, e a largura se escolhe pelo tamanho da roupa: P até o 44, M até o 48 e G até o 54, pelo guia da página. A loja a descreve como fita adesiva para seios, de poliéster com elastano e cola acrílica à base de água, e a marca fala em até 12 horas no corpo. O uso é cortar um pedaço por vez, colar da base do seio para cima, sem esticar, com o protetor de mamilo por baixo, e tirar devagar com hidratante ou óleo. Se dá para colar de novo, a página não diz: conte um pedaço por uso. Vem em Bege, Marrom e Preto. Se você quer uma peça pronta, pule a fita: o Sutiã de Silicone Invisível é a opção de colar sem cortar, no capítulo seguinte."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
+            "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
+            "caption": "A Fita Up, o produto que deu nome à marca. Imagem: Toda Up.",
+            "objectFit": "square",
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "Kits: quando o conjunto compensa",
+        "paragraphs": [
+          "Na Toda Up, o kit compensa quando você leva três conjuntos ou um sutiã com protetor, e o de um conjunto quase não economiza. Conta nossa: pelos preços da loja no guia dos kits, os kits de três conjuntos SkinUp ou Cotton Up, os dois de sutiã Comfort com protetor, o Kit Invisible Up e o Kit Comfort Up saem de 22% a 30% abaixo das peças avulsas. O kit de um conjunto economiza menos de R$ 20. O kit prende top e calcinha no mesmo número: quem usa tamanhos diferentes compra avulso, e quem veste PP fica fora dos kits de três conjuntos e do Kit Comfort Up, que começam no P. No dia, os cinco kits SkinUp estavam esgotados, e os dois Cotton Up, o Top Faixa e o Top Triangular com a Calcinha Biquíni, à venda.",
+          "Os Leve 2 e Leve 3 são outra coisa: a mesma peça repetida com desconto, na página da Fita Up e dos tops Cotton Up. A página deles diz que cupons não acumulam com o kit, salvo os de influenciadoras; o código da Toda Up somou com os dois no teste do carrinho. A conta kit a kit, com as peças de cada um, está no guia dos kits, listado no fim."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/toda-up/kit-toda-up-quando-compensa-cotton-faixa.webp",
+            "alt": "Kit Top Faixa e Calcinha Biquíni Cotton Up em branco, de frente, em foto oficial da Toda Up",
+            "caption": "O Kit Top Faixa e Calcinha Biquíni Cotton Up, em branco. Imagem: Toda Up.",
+            "objectFit": "portrait",
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+          }
+        ]
+      },
+      {
+        "heading": "Calcinhas e adesivos",
+        "paragraphs": [
+          "Calcinha e adesivo se escolhem pela roupa de cima, e a tabela abaixo resolve: a SkinUp para não marcar, a Cotton Up para o algodão de todo dia, e os três adesivos para a roupa sem sutiã. As quatro calcinhas SkinUp têm corte a laser e vão do P ao G1, e a diferença entre elas é só a cobertura: Biquíni, Cós Alto, Fio Dental e Fio Dental Cós Alto. A Biquíni Cotton Up é a única de algodão, com o cós de elástico à mostra, para casa e roupa larga. Nos adesivos, o Protetor de Silicone Ultrafino é o adesivo para roupa, em P, M e G, e não substitui a fita; o Sutiã de Silicone Invisível é a peça pronta de colar, também em P, M e G; a Case guarda os dois."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Linha",
+            "Preço de lista"
+          ],
+          "rows": [
+            [
+              "[Calcinha Biquíni SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "R$ 59,90"
+            ],
+            [
+              "[Calcinha Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "R$ 59,90"
+            ],
+            [
+              "[Calcinha Fio Dental SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "R$ 59,90"
+            ],
+            [
+              "[Calcinha Fio Dental Cós Alto SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-cos-alto-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "SkinUp",
+              "R$ 59,90"
+            ],
+            [
+              "[Calcinha Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao)",
+              "Cotton Up",
+              "R$ 59,90"
+            ],
+            [
+              "Fita Up",
+              "Adesivos",
+              "R$ 179,90"
+            ],
+            [
+              "Sutiã de Silicone Invisível",
+              "Adesivos",
+              "R$ 159,90"
+            ],
+            [
+              "Protetor de Silicone Ultrafino",
+              "Adesivos",
+              "R$ 99,90"
+            ],
+            [
+              "Case Protetor de Silicone",
+              "Adesivos",
+              "R$ 79,90"
+            ]
+          ],
+          "caption": "Preço de lista do site, sem o código; todos estavam com desconto de promoção no dia."
+        },
+        "postParagraphs": [
+          "As cinco calcinhas custam o mesmo em lista, então a escolha é pela roupa: sob legging e vestido de malha, uma SkinUp; para o pijama e a calça larga, a Cotton Up. Para quem usa frente única ou tomara que caia, a fita pede o protetor antes: é o que o passo a passo da própria loja manda."
+        ]
+      },
+      {
+        "heading": "Quanto custa com o código e onde comprar",
+        "paragraphs": [
+          "O código da Toda Up tira 10% de todo o site, inclusive da peça que já está em promoção, e a compra é só no site oficial. No teste do carrinho, os 10% saíram do preço promocional do Comfort Up; num carrinho maior, a promoção progressiva da loja entrou primeiro, sozinha, e o código tirou mais 10% do que sobrou. É assim que a conta funciona em campanha: a linha da loja vem antes, a do código depois, e o total do carrinho é o que vale. Pelo botão desta página, o site já abre com o código aplicado; se a linha não aparecer no resumo do pedido, cole MAUAD no campo de cupom do checkout. O passo a passo e as regras estão na página do [cupom Toda Up](/cupons/toda-up).",
+          "A loja libera frete grátis em campanhas; fora delas, o frete sai pelo CEP no checkout, por Sedex, Loggi ou Jadlog. A campanha de fim de ano da loja tem guia próprio, listado no fim; nenhum preço de campanha entra aqui, porque ele muda sem aviso."
+        ]
+      },
+      {
+        "heading": "Envio, troca e devolução",
+        "paragraphs": [
+          "A troca por tamanho é o que protege a compra de sutiã pela internet, e na Toda Up ela vale por 30 dias corridos depois do recebimento, com frete grátis na primeira troca. O pedido sai em até 3 dias úteis depois da confirmação do pagamento, com o rastreio por e-mail. Troca de modelo, tamanho ou cor e devolução por arrependimento se pedem no portal de trocas da loja, com o CPF da titular e o número do pedido; a peça volta com etiqueta, sem sinal de uso, lavagem ou perfume, e a segunda troca tem o frete por conta da cliente. O que a política não fixa é em quantos dias o reembolso cai: no cartão, o estorno é pela administradora. Se o prazo pesa para você, pergunte ao atendimento, por e-mail ou WhatsApp, antes de devolver. O rodapé mostra as bandeiras de cartão."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na Toda Up",
+        "paragraphs": [
+          "Dá. A loja é da mesma empresa de Biguaçu (SC) que abriu como Fita UP, com CNPJ ativo no rodapé do site, o mesmo da consulta pública e do perfil no Reclame Aqui, e regras de troca, reembolso e frete publicadas. No Reclame Aqui, o perfil estava na RA1000, com nota 8,5 nos seis meses até o fim de setembro, todas as reclamações respondidas e 93,1% resolvidas. Os dois pontos de atenção: a política não fixa o prazo de reembolso, e o que a loja diz da qualidade das peças é a marca falando de si. O CNPJ, a mudança de nome e as reclamações estão nos dois guias de confiança, listados no fim."
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Para o sutiã de todo dia com a maior faixa de tamanho, o Comfort Up; para tomara que caia, o Comfort Line, a partir do P.",
+          "Para a peça que some sob regata e roupa justa, a SkinUp; o Sutiã Top Alça Fina é o único top da loja com PP.",
+          "Para algodão e preço menor, em casa e sob roupa larga, a Cotton Up.",
+          "Para o decote sem sutiã, a Fita Up, cortada por uso, ou o Sutiã de Silicone Invisível, pronto.",
+          "Para três conjuntos ou os três sutiãs de uma vez, os kits de três conjuntos ou o Kit Comfort Up; o de um conjunto quase não economiza.",
+          "Não vale para quem veste PP e quer o Comfort Line, o Top Segunda Pele ou um kit de top e calcinha: todos começam no P.",
+          "Não vale para quem precisa saber o prazo do reembolso antes de comprar: a política não fixa."
+        ],
+        "emphasis": "Se fosse para mim, eu começaria pelo Comfort Up: é o sutiã de todo dia que eu indicaria a quem ainda não sabe a própria medida."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Toda Up é boa? Para quem quer sutiã de todo dia ou segunda pele com a tabela de medidas na página, sim: três sutiãs Comfort, as linhas SkinUp e Cotton Up e os adesivos, só no site oficial; o que decide é a sua medida na coluna da peça, como mostram os capítulos das linhas.",
+          "Toda Up tem cupom? Tem: o código da Toda Up, MAUAD, dá 10% em todo o site, inclusive em peça já em promoção, e soma com a promoção da loja; o capítulo do preço mostra como ele entra no carrinho.",
+          "A Toda Up é confiável? É: empresa registrada em Biguaçu (SC), com o CNPJ no rodapé, troca em 30 dias e RA1000 no Reclame Aqui; os números estão no capítulo de confiança.",
+          "Sutiã da Toda Up é bom? Pela página da loja, os três sutiãs Comfort têm o mesmo tecido e o mesmo preço, e o que muda é a faixa de tamanho e as alças; o capítulo dos sutiãs resume, e o guia dos Comfort, listado no fim, traz a tabela de busto.",
+          "A Toda Up é a mesma Fita Up? É: a Fita UP cresceu e virou Toda Up, a mesma empresa e a mesma equipe; a fita segue à venda."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você procura sutiã de todo dia ou segunda pele e mede o sob busto e o busto para comparar com a coluna da peça na tabela da loja.",
+        "Você vai usar três conjuntos, ou quer os três sutiãs Comfort de uma vez, e prefere o kit de três conjuntos ou o Kit Comfort Up."
+      ],
+      "skipIf": [
+        "Você veste PP e quer o Comfort Line, o Top Segunda Pele ou um kit de top e calcinha: todos começam no P.",
+        "Você precisa saber em quantos dias o reembolso cai antes de comprar: a política da loja não fixa o prazo."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Toda Up com o código",
+      "text": "Entre no site oficial da Toda Up pelo botão: o código da Toda Up já entra aplicado, com 10% em todo o site, inclusive nas peças em promoção. Confira a linha de desconto no resumo do pedido antes de pagar.",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Podemos receber comissão pela Toda Up. Ninguém da equipe vestiu as peças: os dados são do site da marca e do teste do cupom.",
+    "relatedArticles": [
+      {
+        "slug": "sutia-toda-up-qual-escolher",
+        "title": "Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher"
+      },
+      {
+        "slug": "skinup-ou-cotton-up-toda-up",
+        "title": "SkinUp ou Cotton Up: segunda pele ou algodão, qual escolher na Toda Up"
+      },
+      {
+        "slug": "fita-up-como-usar",
+        "title": "Fita Up: como usar no tomara que caia e no decote (e se dá para reutilizar)"
+      },
+      {
+        "slug": "kit-toda-up-quando-compensa",
+        "title": "Kits da Toda Up: quando compensam (conta por peça)"
+      },
+      {
+        "slug": "cupom-toda-up-como-usar",
+        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+      },
+      {
+        "slug": "toda-up-e-confiavel",
+        "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas"
+      },
+      {
+        "slug": "toda-up-reclame-aqui-nota-reputacao",
+        "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram"
+      },
+      {
+        "slug": "black-friday-toda-up",
+        "title": "Black Friday Toda Up 2026: a Black November com todo o site em desconto e o cupom"
+      }
+    ]
+  },
+  {
+    "id": 793,
+    "slug": "lets-eat-it-e-boa",
+    "title": "Let's Eat It é boa? Le Creuset, Porto Brasil, mesa posta e o que a loja vende",
+    "seoTitle": "Let's Eat It é boa? Le Creuset, Porto Brasil e mesa posta",
+    "type": "Guia de Marca",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Let's Eat It é boa? Sim, para casa e presente com troca em 30 dias: veja o que a loja vende, a Le Creuset no localizador oficial, o código de 5% e o que o Reclame Aqui mostra.",
+    "metaDescription": "O código MAUAD dá 5% OFF no site da Let's Eat It. A loja é boa? Le Creuset no localizador oficial, Porto Brasil, troca em 30 dias e Reclame Aqui.",
+    "publishedAt": "4 de novembro de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/letseatit/lets-eat-it-e-boa-capa.webp",
+    "imageAlt": "Travessa Le Creuset, taça de vinho de cristal e aparelho de jantar verde Porto Brasil, com o logo da Let's Eat It e a pergunta Let's Eat It é boa?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial da marca. O que pesa contra é o prazo fora de São Paulo e a peça frágil; veja os capítulos de frete e de louça."
+        ]
+      },
+      {
+        "heading": "O que a Let's Eat It vende, e o que ela não é",
+        "paragraphs": [
+          "A Let's Eat It serve para montar a mesa e a cozinha numa compra só; ela não fabrica nada do que vende. É uma loja online de casa e presentes, multimarca, com as seções de mesa posta, cozinha, bar, café e chá, decoração, outdoor e eletrodomésticos, mais uma seção de lançamentos e um outlet.",
+          "As marcas que dão o tom da loja são a Le Creuset (ferro fundido esmaltado), a Porto Brasil (louça de cerâmica), a Bohemia (cristal), a Trussardi, a Toque de Ouro e a Wolff, além dos utensílios KitchenAid, dos eletroportáteis Ariete e do faqueiro La Maison, da linha Laguiole. Um detalhe que confunde quem chega procurando batedeira: a loja vende utensílios KitchenAid, não a batedeira; as batedeiras do site são Ariete.",
+          "Depende do que você procura. Para panela de ferro, louça de mesa, taça e faqueiro, a loja tem linha completa; para eletrodoméstico grande, não é o lugar."
+        ]
+      },
+      {
+        "heading": "Le Creuset na Let's Eat It",
+        "paragraphs": [
+          "Comprar Le Creuset na Let's Eat It é comprar num canal que a própria marca lista: a loja aparece no localizador oficial de revendedores da Le Creuset Brasil, com o endereço da filial de Serra (ES), o mesmo do CNPJ. É isso que dá para afirmar; a loja não publica termo de \"revenda autorizada\", e nós não escrevemos o que a marca não escreveu.",
+          "A linha Le Creuset da loja é larga: caçarolas, skillets, frigideiras, panelas com cabo, chaleiras, travessas, moedores, ramekins e canecas. Quase tudo sai pelo preço cheio; a promoção aparece só numa seleção de peças e cores, então quem espera a Le Creuset com preço riscado em toda a vitrine se decepciona. A regra de uso é a da marca: a panela vai ao fogão, à indução e ao forno, não vai ao micro-ondas, e a garantia não cobre choque térmico nem queda. O que a Le Creuset libera e o que a garantia deixa de fora está no guia [Le Creuset vale a pena?](/reviews/le-creuset-vale-a-pena); o tamanho certo e como conferir a peça original estão nos guias do fim.",
+          "Vale para quem já decidiu pela Le Creuset e quer comprar com nota fiscal num canal listado. Não vale para quem só quer o menor preço de uma panela de ferro: a marca não faz promoção larga na loja."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/le-creuset-localizador-lets-eat-it.webp",
+            "alt": "Página do localizador de lojas da Le Creuset Brasil mostrando a Let's Eat It na Avenida Setecentos, Serra, ES; captura de tela do site da marca",
+            "caption": "A Let's Eat It no localizador oficial da Le Creuset Brasil, no endereço da filial de Serra. Imagem: Le Creuset Brasil.",
+            "objectFit": "wide",
+            "href": "https://letseatit.com.br/collections/le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ]
+      },
+      {
+        "heading": "Porto Brasil e as outras louças",
+        "paragraphs": [
+          "A Porto Brasil é a louça da loja para o dia a dia, e é onde a promoção aparece: toda a coleção estava com preço riscado, de aparelho de jantar a caneca. É cerâmica, não porcelana, e o stoneware da marca libera forno, micro-ondas e freezer na maior parte das peças; as com filete dourado e algumas canecas ficam de fora, então confira a página da peça antes de levar ao forno. Serve para quem quer o aparelho de jantar completo, de 30 peças, ou para repor prato, bowl e xícara da mesma linha; não serve para quem quer porcelana fina.",
+          "O cristal da loja é a Bohemia, e as taças pedem outro cuidado: o transporte. Taças estão entre os problemas mais citados nas reclamações da loja, e a política prevê reposição gratuita de avaria, com fotos. Regra prática, sem teste nosso: para quem compra cristal pela internet, fotografe a peça ao abrir a caixa, antes de descartar a embalagem, porque a loja pede essa foto para repor a avaria."
+        ]
+      },
+      {
+        "heading": "Mesa posta, presentes e faqueiro",
+        "paragraphs": [
+          "Para a mesa do dia a dia, a ordem que funciona é tecido, talheres e por último os pratos: jogo americano e guardanapo mudam a mesa com a louça que já está em casa, os talheres são a compra maior de uma vez, e os pratos fecham. A loja tem as três etapas na mesma vitrine, e a Casa Let's monta a mesa posta com a equipe para quem quer ver antes de levar. Para o Natal, a coleção Natal Let's tem preço riscado em quase todas as peças: porta-bolo, castiçal, adorno, sousplat e travessa.",
+          "Para presente, a loja resolve dois perfis: quem casa e quem cozinha. Para o casal que monta a mesa do zero, o aparelho de jantar da Porto Brasil e as taças Bohemia; para quem já tem casa montada, travessa, chaleira ou uma peça Le Creuset. Para quem gosta de cozinhar, a conta vai da caneca Le Creuset aos eletroportáteis Ariete e às panelas Signature. Os guias de presente por faixa de preço estão no fim.",
+          "O faqueiro da loja é o La Maison, da linha Laguiole, em 12, 18 ou 30 peças, com o cabo colorido: no de 30, a cor muda o preço. A página não diz se vai à lava-louças nem traz prazo de garantia, e isso decide para quem lava tudo na máquina. A loja também vende faqueiro Wolff."
+        ]
+      },
+      {
+        "heading": "Cupom, Pix e frete",
+        "paragraphs": [
+          "O código da Let's Eat It é o MAUAD e dá 5% em todo o site, em todas as formas de pagamento, somando com as promoções, a pré-venda e o desconto do Pix, que sai em muitos produtos. Ele vai no campo \"Código de desconto\" do checkout, e a linha \"Desconto no pedido\" aparece no resumo antes do pagamento; o frete entra na etapa seguinte. Conta nossa: se o Pix incide sobre o preço que já saiu com o código, os dois juntos tiram 9,75% do preço de lista, não 10%. A loja não publica cupom de primeira compra. O MAUAD dá 5% no site, e a loja não publica regra de uso por CPF. O passo a passo e as regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "O frete é o que mais muda a conta, e ele não zera: a loja não publica faixa de frete grátis, e o valor sai por CEP e peso, simulado na página do produto. A loja informa: o pedido é separado no mesmo dia ou no dia útil seguinte, e a entrega leva de 3 a 5 dias úteis em São Paulo capital, de 4 a 7 no interior e na Grande São Paulo, de 5 a 8 no Sul e no Sudeste, de 6 a 9 no Centro-Oeste e de 7 a 12 no Norte e no Nordeste, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo do seu CEP mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
+        ]
+      },
+      {
+        "heading": "A Let's Eat It é confiável?",
+        "paragraphs": [
+          "Dá para confiar, com a expectativa certa sobre o pós-venda: a loja responde e resolve quase tudo, mas nem sempre no tempo que o cliente espera. A empresa é a N. R. Bennesby Comércio de Utensílios Domésticos Ltda., com matriz no Rio de Janeiro desde 2020 e filiais em São Paulo, em Serra (ES) e em Itajaí (SC), todas ativas nos dados públicos. Os números do Reclame Aqui, nos últimos 6 meses, dizem o resto:"
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "Resultado"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Boa, nota 7,6"
+            ],
+            [
+              "Reclamações no período",
+              "115"
+            ],
+            [
+              "Respondidas",
+              "99,1%"
+            ],
+            [
+              "Resolvidas",
+              "94%"
+            ],
+            [
+              "Voltariam a comprar",
+              "54%"
+            ],
+            [
+              "Tempo médio de resposta",
+              "16 dias"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O que a tabela não diz: resolvido e satisfeito são coisas diferentes. Quase metade de quem teve o caso encerrado não voltaria a comprar, e o problema mais citado é \"produto não recebido\", seguido das taças. Há relatos de produto falsificado no perfil; são relatos de consumidores, sem confirmação, e pesa do outro lado a loja estar no localizador da Le Creuset. Para peça de alto valor, a orientação é a de qualquer loja: guarde a nota fiscal e confira a peça ao receber.",
+          "A política de troca ajuda: 30 dias da entrega para devolver, com reembolso integral ou crédito na loja sem validade, frete grátis na devolução, promoção que também pode ser devolvida e defeito coberto por 90 dias. Há também um texto padrão de reembolso com regras diferentes: se uma regra decidir a sua compra, peça a confirmação por escrito ao atendimento. A loja física é a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h, sem agendamento; quem mora perto troca ali, mas o pedido do site não pode ser retirado lá. O CNPJ completo, as políticas e o que observar antes de comprar estão em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/letseatit/casa-lets-fachada.webp",
+            "alt": "Fachada da Casa Let's, a loja física da Let's Eat It na Avenida Pacaembu, em São Paulo; captura de tela da página da loja",
+            "caption": "A Casa Let's, na página oficial da loja: visita sem agendamento, e o pedido do site não é retirado ali. Imagem: Let's Eat It.",
+            "objectFit": "wide",
+            "href": "https://letseatit.com.br/pages/casa-lets?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico"
+          }
+        ]
+      },
+      {
+        "heading": "Para quem vale e para quem não vale",
+        "bullets": [
+          "Para quem quer Le Creuset com nota fiscal num canal que a marca lista, a loja vale, e o código tira 5% até da Le Creuset.",
+          "Para a louça do dia a dia e o aparelho de jantar completo, a Porto Brasil, que é onde a promoção da loja está.",
+          "Para presente de casamento ou de quem cozinha, a loja tem as faixas numa vitrine só, com troca em 30 dias da entrega.",
+          "Não vale para quem precisa da peça em poucos dias fora de São Paulo: o prazo chega a 12 dias úteis, e sobe em promoção.",
+          "Não vale para quem quer frete grátis: ele não existe na compra, só na devolução.",
+          "Pense duas vezes no cristal se o pedido vai longe: taças são o que mais quebra no caminho, e a reposição depende das fotos no dia da chegada."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a Le Creuset e a louça pela Let's Eat It; o cristal, eu pediria com tempo de sobra."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Let's Eat It é confiável? Sim: empresa ativa com filiais em quatro estados, troca em 30 dias e reputação Boa no Reclame Aqui; o pós-venda resolve, mas pode demorar, como mostra o capítulo de confiança.",
+          "A Let's Eat It vende Le Creuset original? A loja está no localizador oficial de revendedores da Le Creuset Brasil, com o endereço da filial de Serra (ES); guarde a nota fiscal, que a marca pede para analisar a garantia.",
+          "Tem cupom de primeira compra? A loja não publica cupom de primeira compra; o código MAUAD dá 5% no site, e soma com o desconto do Pix.",
+          "A Let's Eat It tem loja física? Tem, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta sem agendamento; o pedido feito no site não pode ser retirado lá.",
+          "A Let's Eat It é boa para presente? É, para presente de casa: aparelho de jantar, taças, faqueiro e Le Creuset, com troca em 30 dias da entrega; confira o prazo de entrega do CEP de quem ganha, no capítulo de frete."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer panela, louça e presente de casa numa loja só, com troca em 30 dias e a Le Creuset num canal que a própria marca lista.",
+        "Você compra no site com o código e paga no Pix: os dois descontos valem no mesmo pedido."
+      ],
+      "skipIf": [
+        "Você precisa da peça em poucos dias fora de São Paulo: o prazo chega a 12 dias úteis no Norte e no Nordeste.",
+        "Você quer frete grátis: a loja não publica faixa, e o frete sai por CEP e peso.",
+        "A peça é de cristal e você não quer o risco do transporte: taças estão entre os problemas mais citados no Reclame Aqui."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Let's Eat It com o código",
+      "text": "Entre no site oficial da Let's Eat It e digite o código MAUAD no campo \"Código de desconto\" do checkout: 5% em todo o site, em todas as formas de pagamento, somando com o Pix. Confira a linha do desconto antes de pagar.",
+      "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "letseatit",
+    "editorialNote": "Podemos receber comissão pela Let's Eat It. Ninguém da equipe comprou na loja: dados do site, do CNPJ e do Reclame Aqui.",
+    "relatedArticles": [
+      {
+        "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
+        "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      },
+      {
+        "slug": "cupom-mauad-lets-eat-it-como-usar",
+        "title": "Como usar o código de desconto da Let's Eat It: 5% no site"
+      },
+      {
+        "slug": "le-creuset-qual-tamanho-escolher",
+        "title": "Le Creuset 20 ou 24 cm: qual tamanho escolher (e quando o buffet faz sentido)"
+      },
+      {
+        "slug": "le-creuset-original-como-saber",
+        "title": "Le Creuset original: como saber e onde comprar"
+      },
+      {
+        "slug": "porto-brasil-e-boa",
+        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+      },
+      {
+        "slug": "mesa-posta-dia-a-dia-o-que-comprar",
+        "title": "Mesa posta do dia a dia: o que comprar primeiro e quanto custa por peça"
+      },
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
+        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      },
+      {
+        "slug": "presente-natal-quem-gosta-de-cozinhar",
+        "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço"
+      },
+      {
+        "slug": "presente-de-casamento-ideias-por-preco",
+        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+      },
+      {
+        "slug": "faqueiro-laguiole-la-maison-qual-escolher",
+        "title": "Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças) e se vale a pena"
       }
     ]
   }
