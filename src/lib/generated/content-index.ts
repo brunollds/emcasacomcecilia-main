@@ -53263,7 +53263,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a Insider Store é confiável: CNPJ ativo, loja física, trocas sem custo e a melhor reputação do Reclame Aqui. O ponto de atenção é a entrega, onde estão as queixas.",
-    "metaDescription": "A Insider Store é confiável? Veja CNPJ, loja física em São Paulo, prazos de troca, garantia, frete, atendimento e a reputação da loja no Reclame Aqui.",
+    "metaDescription": "15% com o cupom EMCASACOMCECILIA no site da Insider. A loja é confiável? CNPJ, loja física em São Paulo, trocas, garantia, frete e Reclame Aqui.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "draft": false,
@@ -53502,7 +53502,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. Veja o que mais gera queixa e os dois alertas recentes.",
-    "metaDescription": "Insider Store no Reclame Aqui: reputação RA1000, nota 9,0 e 92,6% de solução. Veja as queixas mais comuns, como a loja responde e como reclamar.",
+    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. No Reclame Aqui, RA1000, nota 9,0 e 92,6% de solução: as queixas mais comuns e como a loja responde.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "draft": false,
@@ -62735,7 +62735,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "As tabelas de medidas da Insider em texto, da Tech T-Shirt à cueca, e o jeito de medir uma peça sua para escolher o tamanho certo, com o que saber antes de comprar cueca.",
-    "metaDescription": "Tabela de medidas Insider em texto: Tech T-Shirt, Daily, Core, feminina, cueca e calcinha, como medir uma peça sua e por que a cueca não troca por tamanho.",
+    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. Tabela de medidas em texto: Tech T-Shirt, Daily, Core, feminina, cueca e calcinha, e como medir uma peça sua.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -63776,7 +63776,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que a Insider vende, o que a Tech T-Shirt garante por escrito, quanto custa com o cupom EMCASACOMCECILIA, onde comprar, troca e reputação: para quem a marca compensa.",
-    "metaDescription": "Insider vale a pena? O que a marca vende, a garantia da Tech T-Shirt, o preço com o cupom de 15%, onde comprar e as regras de troca.",
+    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. Vale a pena? O que a marca vende, a garantia da Tech T-Shirt, onde comprar e as regras de troca.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "updatedAt": "2026-11-02",
@@ -78829,7 +78829,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Max Titanium é confiável: loja operada pela Supley, CNPJ ativo, site oficial e reputação Boa no Reclame Aqui. Veja os prazos de troca, o frete grátis e como conferir o site.",
-    "metaDescription": "A Max Titanium é confiável? Veja quem opera a loja, o CNPJ, o site oficial, os prazos de troca, o frete grátis e a reputação no Reclame Aqui.",
+    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA no site oficial. A Max Titanium é confiável? Quem opera a loja, CNPJ, trocas, frete e Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -79069,7 +79069,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. Veja o que mais gera queixa e o que fazer se o seu pedido atrasar ou der problema.",
-    "metaDescription": "Max Titanium no Reclame Aqui: reputação Boa, nota 7,6 e 82,6% de reclamações resolvidas. Veja as queixas mais comuns e o que fazer (14/10/2026).",
+    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. No Reclame Aqui, a Max Titanium é Boa, com nota 7,6 e 82,6% resolvidas: as queixas e o que fazer.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -83024,7 +83024,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Max Titanium e Probiótica são do mesmo grupo, mas não vendem os mesmos potes. Veja lado a lado proteína por porção, preço por 100 g, creatina e cupom, e qual escolher.",
-    "metaDescription": "Max Titanium ou Probiótica? Mesma fábrica, linhas diferentes: proteína por porção, preço por 100 g, creatina e cupom nas lojas oficiais.",
+    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max Titanium ou Probiótica? Mesma fábrica, linhas diferentes: proteína por porção, preço por 100 g e creatina.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -91068,7 +91068,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Pelo preço no cartão, a Growth sai mais barata no whey concentrado e na creatina, e a Max no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
-    "metaDescription": "Max Titanium ou Growth: whey, creatina e hipercalórico comparados por 100 g de proteína, por grama de creatina e por 1.000 kcal, com o cupom da Max e os preços de 18/10/2026.",
+    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína, por grama e por 1.000 kcal.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
     "draft": false,
@@ -102421,7 +102421,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Comfort ou Performance? O tecido, o uso que a marca indica, a versão Anti Suor, a Seamless Touch e a Slip, o preço por peça nos kits e a regra de troca da cueca Insider.",
-    "metaDescription": "Cueca Insider Comfort ou Performance: tecido, uso, Anti Suor, Seamless e Slip, preço por peça nos kits com o cupom e a regra de troca.",
+    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. Cueca Comfort ou Performance: tecido, uso, Anti Suor, Seamless e Slip, preço por peça nos kits e a troca.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -102697,7 +102697,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual undershirt Insider escolher: o nível de suor que a marca indica para a Leve, o Moderado e o Block, o que muda nas axilas, cores, tamanho, preço com o cupom e a regra de troca.",
-    "metaDescription": "Undershirt Insider Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho, preço com o cupom e troca.",
+    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. Undershirt Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho e troca.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -103012,7 +103012,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Para presentear com a Insider, o kit serve a quem quer algo pronto e o gift card, a quem não sabe o tamanho. Veja o prazo para chegar antes do Natal e como funciona a troca.",
-    "metaDescription": "Presente de Natal Insider: kits por preço, kits com cueca, gift card, sacola, troca de presente e prazo para chegar antes do Natal.",
+    "metaDescription": "15% com o cupom EMCASACOMCECILIA nos kits da Insider. Presente de Natal: kits por preço, kits com cueca, gift card, sacola, troca e prazo de entrega.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -103873,7 +103873,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Max Titanium ou Dux? Whey, creatina, multivitamínico e pré-treino comparados pela mesma régua, de proteína por dose a preço por dia, com Pix e cupom. Veja qual sai mais barata.",
-    "metaDescription": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por 100 g de proteína, por dia e por dose, com cupom, Pix e frete.",
+    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino por 100 g de proteína, por dia e por dose.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -119337,7 +119337,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quem opera a Skelt, o que os dois CNPJs ligados à marca mostram, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete.",
-    "metaDescription": "A Skelt é confiável? Veja a empresa por trás do site, os dois CNPJs, as regras de troca e reembolso, o frete grátis por região e como conferir o site oficial.",
+    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA no site oficial. A Skelt é confiável? A empresa por trás do site, os dois CNPJs, trocas, reembolso e frete grátis.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -119562,7 +119562,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A reputação da Skelt no Reclame Aqui é boa: Ótima em 6 meses, nota 8,3 e 92,2% das reclamações resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
-    "metaDescription": "Skelt no Reclame Aqui: reputação Ótima em 6 meses (nota 8,3), 92,2% resolvidas e queixas sobre defeito e entrega. Veja os números e o que fazer (21/10/2026).",
+    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. No Reclame Aqui, Ótima em 6 meses (nota 8,3) e 92,2% resolvidas: as queixas sobre defeito e entrega.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -120266,7 +120266,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quem opera a Bagaggio, o que as datas do site significam, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e garantia.",
-    "metaDescription": "A Bagaggio é confiável? Veja a empresa por trás do site, o CNPJ do rodapé, as três datas da marca, a garantia vitalícia, as trocas e como conferir o site oficial.",
+    "metaDescription": "10% com o cupom CECILIA10 no site oficial. A Bagaggio é confiável? A empresa por trás do site, o CNPJ, a garantia vitalícia, as trocas e como conferir.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
     "draft": false,
@@ -120538,7 +120538,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Bagaggio tem reputação Boa no Reclame Aqui nos últimos 6 meses, mas Ruim nos últimos 12. Veja qual perfil olhar e o que fazer se o seu pedido der problema.",
-    "metaDescription": "Bagaggio no Reclame Aqui: Boa em 6 meses (nota 7,7), Ruim em 12 meses (nota 5,8). Tabela por período, qual perfil olhar e o que fazer se o pedido atrasar (22/10/2026).",
+    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. No Reclame Aqui, Boa em 6 meses (nota 7,7) e Ruim em 12 (5,8): qual perfil olhar e o que fazer se o pedido atrasar.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
     "draft": false,
@@ -121300,7 +121300,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A garantia vitalícia da Bagaggio vale só para malas da marca compradas a partir de 29/04/2024. Veja o que cobre, o que não cobre e como acionar a garantia.",
-    "metaDescription": "Garantia vitalícia Bagaggio: vale só para malas da marca compradas a partir de 29/04/2024. Veja o que cobre, o que não cobre, o passo a passo e o que fazer com dano no voo.",
+    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. A garantia vitalícia vale só para malas da marca: o que cobre, o que não cobre, o passo a passo e o dano no voo.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
     "draft": false,
@@ -122029,7 +122029,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os 7 autobronzeadores da Skelt lado a lado: cor-guia, intensidade, tempo de ação, nível e preço por ml em 23/10/2026. Mousse ou água, Dark ou normal, gel, bifásico e kits.",
-    "metaDescription": "Qual autobronzeador Skelt comprar: compare mousse, água, Dark, gel e bifásico por cor-guia, intensidade, nível e preço por ml, com os preços de 23/10/2026.",
+    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Qual autobronzeador comprar: mousse, água, Dark, gel e bifásico por cor-guia, intensidade e preço por ml.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -123123,7 +123123,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Skelt ou Best Bronze? Mousse escuro, transparente e kit com luva lado a lado, com o preço por 100 ml no cartão, com o cupom SKEMCASACOMCECILIA e no Pix.",
-    "metaDescription": "Skelt ou Best Bronze: compare o mousse escuro, o transparente e o kit com luva por preço por 100 ml, duração e tempo de ação que cada marca diz, com os preços de 23/10/2026.",
+    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Skelt ou Best Bronze: mousse escuro, transparente e kit com luva por preço por 100 ml e duração.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -145228,6 +145228,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "No whey, a Max Titanium sai mais barata por 100 g de proteína, e na creatina a Integralmédica fica abaixo no cartão. Veja a comparação pelo rótulo e o veredito por perfil.",
+    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max ou Integralmédica: no whey, a Max sai mais barata por 100 g de proteína; na creatina, a Integralmédica.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -156591,7 +156592,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mala de bordo de 10 kg em ABS, polipropileno e policarbonato na Bagaggio: preço, litros e peso de cada ficha em 29/10/2026, com a conta de reais por litro e por kg.",
-    "metaDescription": "Mala de policarbonato ou ABS? Na Bagaggio, a de policarbonato custa de 3,6 a 6 vezes a de ABS na mesma medida de 10 kg. Veja preço por litro e por kg.",
+    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. Policarbonato ou ABS? Na medida de 10 kg, a de policarbonato custa de 3,6 a 6 vezes a de ABS. Veja por litro e kg.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -156837,7 +156838,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que a loja diz sobre malas, mochilas e bolsas: material, peso, medida, garantia e preço em 29/10/2026, e o que é Travelcross no site.",
-    "metaDescription": "Bagaggio é boa? Veja o que a marca informa sobre malas, mochilas e bolsas: material, peso, garantia e preço em 29/10/2026, e o que é linha Travelcross.",
+    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. A marca é boa? Material, peso, garantia e preço das malas, mochilas e bolsas, e o que é a linha Travelcross.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -166480,7 +166481,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das páginas de produto de 30/10/2026.",
-    "metaDescription": "Mala de bordo Bagaggio: preço, medida, peso e litros de 7 malas, o selo BORDO informado pela loja e a regra de bagagem de mão da ANAC, LATAM, GOL e Azul em 30/10/2026.",
+    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. Mala de bordo: preço, medida, peso e litros de 7 malas, o selo BORDO e a regra da ANAC, LATAM, GOL e Azul.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -166729,7 +166730,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual tamanho de mala comprar na Bagaggio? P, M e G são as faixas de 10, 23 e 32 kg. Veja medidas e litros das malas em 30/10/2026.",
-    "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio: medidas e litros informados pela loja, a ligação entre P, M e G e a medida de mala de mão das companhias em 30/10/2026.",
+    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. Mala de 10, 23 ou 32 kg: medidas e litros da loja, a ligação entre P, M e G e a mala de mão das companhias.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167783,7 +167784,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Bronzeado Instantâneo Skelt é uma maquiagem corporal que a Skelt anuncia durar de 12 a 24 horas, por R$ 99,90. Veja o que muda do autobronzeador e o preço de 30/10/2026.",
-    "metaDescription": "Bronzeado instantâneo Skelt ou autobronzeador: compare duração, área, modo de uso e preço de 30/10/2026 segundo a marca, para hoje ou para a semana.",
+    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Bronzeado instantâneo ou autobronzeador: duração, área, modo de uso e preço, para hoje ou para a semana.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167964,7 +167965,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como tirar o autobronzeador Skelt com o Removedor de Autobronzeador, de 140 ml por R$ 69,90 em 30/10/2026: o modo de uso, o prazo de 3 dias e o que diz a fonte oficial.",
-    "metaDescription": "Removedor de autobronzeador Skelt: passo a passo segundo a Skelt, prazo de 3 dias, tempo de ação de 3 minutos e preço de 30/10/2026. Veja também o que a página oficial traz sobre o Bifásico.",
+    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Removedor de autobronzeador: o passo a passo da marca, o prazo de 3 dias e os 3 minutos de ação.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -168118,7 +168119,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como usar o Iluminador Corporal Skelt, de 120 ml por R$ 99,90 em 30/10/2026: modo de uso, corpo e rosto, e a conta do Kit Bronze & Glow Mousse.",
-    "metaDescription": "Iluminador corporal Skelt: modo de uso segundo a Skelt, duração anunciada de 12 a 24 horas e a conta do kit Bronze & Glow Mousse contra o avulso, com preços de 30/10/2026.",
+    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Iluminador corporal: modo de uso, a duração de 12 a 24 horas que a marca anuncia e o kit Bronze & Glow.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -169131,7 +169132,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quando o kit Insider compensa contra as peças avulsas: o preço do kit dividido pelas peças, de camiseta, cueca e undershirt, e o cupom testado no kit de 5 Tech.",
-    "metaDescription": "Kit Insider vale a pena? Conta por peça de Tech, Heavy, Daily, cueca e undershirt contra o avulso, com o cupom testado no carrinho e o que não compensa.",
+    "metaDescription": "15% com o cupom EMCASACOMCECILIA, testado no carrinho. Kit Insider vale a pena? Conta por peça de Tech, Heavy, Daily, cueca e undershirt contra o avulso.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -175517,7 +175518,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual mochila de viagem Bagaggio cabe como item pessoal e qual só entra como mala pequena? Cinco modelos cruzados com as regras de LATAM, Azul e GOL, com preço e medidas.",
-    "metaDescription": "Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale com preço de 31/10/2026, medida e litros da loja, e qual cabe como item pessoal ou mala pequena na LATAM, na Azul e na GOL.",
+    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale: medida, litros e qual vai como item pessoal no avião.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
     "draft": false,
@@ -177198,7 +177199,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que o whey da Max Titanium entrega pelo rótulo: 100% Whey, Top Whey 3W, Whey Pro e IsoWhey, com proteína por dose, preço por 100 g de proteína, o cupom e para quem compensa.",
-    "metaDescription": "Max Titanium é boa? Proteína por dose e preço por 100 g do 100% Whey, Top Whey 3W, Whey Pro e IsoWhey, o cupom de até 10% e para quem compensa.",
+    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max Titanium é boa? Proteína por dose e preço por 100 g do 100% Whey, Top Whey 3W, Whey Pro e IsoWhey.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
     "updatedAt": "2026-11-02",
