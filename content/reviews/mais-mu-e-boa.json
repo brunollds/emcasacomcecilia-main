@@ -39,7 +39,7 @@
         "**Whey:** concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês; isolado e proteína vegetal na linha Performance. No próximo capítulo.",
         "**Pré-treino Exquenta:** potes de 300 g e 500 g, sachês e as duas versões sem cafeína, no capítulo do Exquenta.",
         "**Barras e wafers:** Mukebar, Crushbar, Chocowheyfer (comum, Max e Bites) e um snack salgado de parmesão, no capítulo das barras.",
-        "**Creatina:** a loja também vende, e ela fica fora deste artigo.",
+        "**Creatina:** monohidratada, em pote e refil, sem sabor e com sabor, no capítulo da creatina.",
         "**Bebidas proteicas e combos:** ficam fora deste artigo."
       ]
     },
@@ -270,6 +270,66 @@
           "caption": "Mukebar, Chocowheyfer e Crushbar: o tamanho da unidade decide entre elas. Imagem: Mais Mu.",
           "objectFit": "contain",
           "href": "https://www.lojamaismu.com.br/produtos/mukebar-barra-de-proteina-pacoquita-720g/",
+          "aspectRatio": 1.7778
+        }
+      ]
+    },
+    {
+      "heading": "A creatina da Mais Mu",
+      "paragraphs": [
+        "A Mais Mu vende creatina monohidratada em quatro embalagens: o pote de 200 g sem sabor, o de 210 g de limonada e o refil de 500 g, sem sabor ou de melancia. A sem sabor leva só creatina monohidratada; as de sabor somam acidulante, aroma e o adoçante estévia, e a de melancia, corante de beterraba."
+      ],
+      "comparisonTable": {
+        "headers": [
+          "Produto",
+          "Doses",
+          "Ingredientes",
+          "Preço de lista",
+          "Por dose"
+        ],
+        "rows": [
+          [
+            "[Creatina Sem Sabor 200 g](https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/)",
+            "66",
+            "só creatina monohidratada",
+            "R$ 89,99",
+            "R$ 1,36"
+          ],
+          [
+            "[Creatina Limonada 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/)",
+            "60",
+            "creatina, acidulante, aroma e estévia",
+            "R$ 89,99",
+            "R$ 1,50"
+          ],
+          [
+            "[Refil Creatina Sem Sabor 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/)",
+            "cerca de 167",
+            "só creatina monohidratada",
+            "R$ 119,90",
+            "R$ 0,72"
+          ],
+          [
+            "[Refil Creatina Melancia 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/)",
+            "143",
+            "creatina, acidulante, aroma, corante de beterraba e estévia",
+            "R$ 119,90",
+            "R$ 0,84"
+          ]
+        ],
+        "caption": "Preço de lista, na mesma leitura das outras tabelas; a loja vende com desconto de promoção. Doses e ingredientes como a loja informa."
+      },
+      "postParagraphs": [
+        "O refil de 500 g sai por pouco mais da metade do preço por dose do pote pequeno. Para quem já toma creatina todo dia, o refil sem sabor; o pote serve para quem quer conhecer o sabor antes de levar o refil.",
+        "Pela página, as quatro não contêm glúten e podem conter traços de amendoim, castanhas, leite, soja e ovo. Quanto tomar, e se a creatina faz sentido para a sua rotina, é conversa para o nutricionista."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/mais-mu/mais-mu-ou-dux-creatina.webp",
+          "alt": "Creatina Mais Mu limonada 210 g, sem sabor 200 g, refil melancia 500 g e refil sem sabor 500 g",
+          "caption": "As quatro creatinas da Mais Mu: dois potes e dois refis. Imagem: Mais Mu.",
+          "objectFit": "contain",
+          "href": "https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/",
           "aspectRatio": 1.7778
         }
       ]

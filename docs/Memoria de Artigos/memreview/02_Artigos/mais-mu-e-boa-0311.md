@@ -288,3 +288,6 @@ Pendente: Fora do escopo, só apontado: o `whey-mais-mu-qual-escolher` no ar cal
 
 ## Publicação (03/11/2026)
 - No ar em 03/11/2026: PR #544, release `3851aa15` (build 01a1a3e5), id 784, só PT. Smoke com as imagens no CDN e os links da loja como sponsored; sitemap, llms.txt e IndexNow; captura 41745392090 verde.
+
+## Capítulo da creatina (03/11/2026)
+Decisão do Bruno de 03/11/2026: a creatina ganha um capítulo com o que a loja vende, sem o caso Bioghen ("não cabe nesse artigo discutir isso"). O capítulo "A creatina da Mais Mu" fica entre as barras e o preço. Ele traz os 4 produtos: pote de 200 g sem sabor, pote de 210 g de limonada e refil de 500 g sem sabor e de melancia. Para cada um, as doses, os ingredientes, o preço de lista e o preço por dose, lidos na loja em 03/11. O texto não avalia efeito e manda dose e uso ao nutricionista. A foto é a `mais-mu-ou-dux-creatina.webp`, que já está no CDN. A lista de "O que a Mais Mu vende" aponta para o capítulo.
