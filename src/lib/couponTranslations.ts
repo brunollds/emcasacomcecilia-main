@@ -665,7 +665,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Does the discount apply to renewals?',
         answer:
-          'We have not tested renewals. The cart shows the renewal price under the plan, so check that amount before paying.',
+          'Yes. SONAR20 also applies to renewals and to VPS plans; it does not apply to domain registration. The cart shows the renewal price under the plan, so check that amount before paying.',
       },
       {
         question: 'Does Em Casa com Cecília use Hostinger?',
@@ -754,7 +754,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '¿El descuento se aplica a las renovaciones?',
         answer:
-          'No hemos probado las renovaciones. El carrito muestra el precio de renovación debajo del plan, así que revisa ese importe antes de pagar.',
+          'Sí. El SONAR20 también vale en la renovación y en el VPS; no vale en el registro de dominios. El carrito muestra el precio de renovación debajo del plan, así que revisa ese importe antes de pagar.',
       },
       {
         question: '¿Em Casa com Cecília usa Hostinger?',
@@ -832,7 +832,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `La réduction s’applique-t-elle aux renouvellements${NBSP}?`,
-        answer: `Nous n’avons pas testé les renouvellements. Le panier affiche le prix de renouvellement sous l’offre${NBSP}: vérifiez ce montant avant de payer.`,
+        answer: `Oui. SONAR20 s’applique aussi aux renouvellements et aux VPS${NBSP}; il ne s’applique pas à l’enregistrement de noms de domaine. Le panier affiche le prix de renouvellement sous l’offre${NBSP}: vérifiez ce montant avant de payer.`,
       },
       {
         question: `Em Casa com Cecília utilise-t-il Hostinger${NBSP}?`,
@@ -907,7 +907,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `Gilt der Rabatt auch bei Verlängerungen?`,
-        answer: `Das haben wir nicht getestet. Der Warenkorb zeigt den Verlängerungspreis unter dem Tarif; prüfen Sie ihn also vor der Zahlung.`,
+        answer: `Ja. SONAR20 gilt auch bei Verlängerungen und für VPS, nicht aber für die Registrierung von Domains. Der Warenkorb zeigt den Verlängerungspreis unter dem Tarif; prüfen Sie ihn also vor der Zahlung.`,
       },
       {
         question: `Nutzt Em Casa com Cecília Hostinger?`,
@@ -993,7 +993,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Lo sconto vale anche per i rinnovi?',
         answer:
-          'Non abbiamo testato i rinnovi. Il carrello mostra il prezzo di rinnovo sotto il piano, quindi controlla quell’importo prima di pagare.',
+          'Sì. SONAR20 vale anche per i rinnovi e per i VPS; non vale per la registrazione dei domini. Il carrello mostra il prezzo di rinnovo sotto il piano, quindi controlla quell’importo prima di pagare.',
       },
       {
         question: 'Em Casa com Cecília usa Hostinger?',
@@ -1082,7 +1082,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '할인은 갱신에도 적용되나요?',
         answer:
-          '갱신은 테스트하지 않았습니다. 장바구니에는 요금제 아래에 갱신 가격이 표시되므로, 결제 전에 그 금액을 확인하세요.',
+          '네. SONAR20은 갱신과 VPS에도 적용되지만, 도메인 등록에는 적용되지 않습니다. 장바구니에는 요금제 아래에 갱신 가격이 표시되므로, 결제 전에 그 금액을 확인하세요.',
       },
       {
         question: 'Em Casa com Cecília도 Hostinger를 쓰나요?',
@@ -1171,7 +1171,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '更新時の料金にも割引は適用されますか？',
         answer:
-          '更新はテストしていません。カートにはプランの下に更新料金が表示されるので、支払い前にその金額を確認してください。',
+          'はい。SONAR20は更新とVPSにも適用されますが、ドメイン登録には適用されません。カートにはプランの下に更新料金が表示されるので、支払い前にその金額を確認してください。',
       },
       {
         question: 'Em Casa com CecíliaはHostingerを使っていますか？',
@@ -1260,7 +1260,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '折扣也適用於續約嗎？',
         answer:
-          '續約尚未測試。購物車會在方案下方顯示續約價格，付款前請確認該金額。',
+          '是的。SONAR20 也適用於續約和 VPS，但不適用於網域註冊。購物車會在方案下方顯示續約價格，付款前請確認該金額。',
       },
       {
         question: 'Em Casa com Cecília 也使用 Hostinger 嗎？',
@@ -1349,7 +1349,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '折扣也适用于续费吗？',
         answer:
-          '续费尚未测试。购物车会在套餐下方显示续费价格，付款前请确认该金额。',
+          '是的。SONAR20 也适用于续费和 VPS，但不适用于域名注册。购物车会在套餐下方显示续费价格，付款前请确认该金额。',
       },
       {
         question: 'Em Casa com Cecília 也使用 Hostinger 吗？',
