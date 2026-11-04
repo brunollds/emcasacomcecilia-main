@@ -16,6 +16,7 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - `coupon`: o código que o leitor copia no dock e na sidebar (ex: `"CECI"`). O campo se chama `coupon`, mas o texto chama o código pelo nome que ele tem na loja: o `CECILIA010` da YesStyle é código de recompensa, nunca cupom (regras em `CONTRATOS-DE-CONTEUDO.md`).
    - `affiliate`: Slug do cupom correspondente em `src/lib/couponsData.ts`.
    - `editorialNote`: Texto de divulgação, com no máximo 3 linhas no celular e sem data.
+   - `metaDescription`: obrigatória em todo artigo em português com `coupon`. Vem do `meta_description` do briefing e segue a regra do Job 1 ("Snippet com o código"): código e % na 1ª frase, código até o caractere 100, até 155 caracteres, sem data, sem R$ e sem abrir com "Cupom <loja>".
 3. **Mídia, Imagens & Vídeos (Sub-etapa de Assets):**
    - A capa e as imagens do corpo chegam prontas do Job 6: aprovadas pelo Bruno, no CDN e verificadas, com caminhos, alts e legendas na seção "Capa e imagens" da nota. Sem esse registro o Job 4 não começa. Aqui elas só entram no JSON, com as regras abaixo; imagem nova que aparecer no Job 4 volta ao Job 6.
    - `image`: Caminho da imagem principal (Hero).
