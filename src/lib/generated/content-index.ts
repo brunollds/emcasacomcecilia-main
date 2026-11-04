@@ -179561,7 +179561,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O que a página não traz: a tabela nutricional e a lista completa de ingredientes dos panetones. Quem compra pelo rótulo lê na embalagem que chegar. O panetone vale para quem quer a mesa de Natal sem glúten e sem leite com um produto pronto; quem conta carboidrato ou precisa da lista de alérgenos antes de pagar fica sem a informação na página."
+          "A página de cada panetone traz a tabela nutricional, como imagem, na aba \"Tabela Nutricional\", e os ingredientes completos na aba \"Ingredientes\". Na porção de 80 g, ou 2 fatias, o de chocolate tem 248 kcal e 34 g de carboidratos, e o de frutas, 219 kcal e 35 g, com zero de açúcares adicionados nos dois. O panetone vale para quem quer a mesa de Natal sem glúten e sem leite com um produto pronto; quem conta carboidrato tem o número antes de pagar."
         ]
       },
       {
@@ -179687,7 +179687,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O combo de 4 custa, em lista, o mesmo que 4 pacotes avulsos; o desconto do combo é o da promoção do dia, e o Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. A página dos pães não publica a tabela nutricional nem a lista de ingredientes além do que o nome diz; o multigrãos leva castanha-do-pará, que é alérgeno, e quem evita castanhas fica no tradicional ou no de batata-doce. O pão de forma serve a quem quer pão de todo dia com validade longa para não faltar; o pãozinho e a bisnaguinha, à lancheira e ao café. Quem compra um pacote só paga frete sobre ele: o pão é o item que mais pede o combo ou o carrinho cheio, como mostra o próximo capítulo."
+          "O combo de 4 custa, em lista, o mesmo que 4 pacotes avulsos; o desconto do combo é o da promoção do dia, e o Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. A página de cada pão traz a tabela nutricional, como imagem, e a lista de ingredientes, nas abas da página; o multigrãos leva castanha-do-pará, que é alérgeno, e quem evita castanhas fica no tradicional ou no de batata-doce. O pão de forma serve a quem quer pão de todo dia com validade longa para não faltar; o pãozinho e a bisnaguinha, à lancheira e ao café. Quem compra um pacote só paga frete sobre ele: o pão é o item que mais pede o combo ou o carrinho cheio, como mostra o próximo capítulo."
         ],
         "images": [
           {
@@ -179719,7 +179719,7 @@ export const reviewsData: unknown[] = [
           "Para o doce pronto sem açúcar e sem glúten, o brownie e o bolinho, pelo rótulo publicado; o proteico só para quem quer os 5 g a 6 g de proteína, porque as calorias são as mesmas.",
           "Para o lanche com proteína sem whey, o snack proteico; para o lanche pequeno da lancheira, o salgadinho de milho de 25 g ou o GoodSoy.",
           "Para o pão de todo dia com validade longa, o pão de forma de 400 g; para a lancheira, a bisnaguinha e o pãozinho de batata.",
-          "Para o panetone sem glúten e sem açúcar de Natal, os dois sabores existem, mas a página não publica a tabela nutricional.",
+          "Para o panetone sem glúten e sem açúcar de Natal, os dois sabores existem, com a tabela nutricional na página de cada um.",
           "Não vale escolher pelo \"sem açúcar\" quem controla carboidrato: o rótulo mostra de 13 g a 23 g por unidade nos doces, e a conta é com o nutricionista.",
           "Não vale o pedido pequeno fora de SP, MG, RJ, DF, GO e do Sul: o frete grátis pede o carrinho mais alto, e o Mercado Livre pode sair melhor nesse caso."
         ],
@@ -179730,7 +179730,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O brownie da Belive é bom? Pelo rótulo, é um brownie de 40 g sem açúcar adicionado, adoçado com maltitol e esteviol, e os quatro proteicos trazem de 5 g a 6 g de proteína; os oito sabores estão no capítulo dos doces e no guia do brownie.",
           "Os produtos da Belive são saudáveis? O rótulo não responde isso: ele mostra calorias, carboidratos, açúcares e proteína de cada item, e a conta para o seu caso é com o nutricionista ou o médico.",
-          "A Belive tem panetone sem açúcar? Tem, de chocolate e de frutas cristalizadas, declarados sem glúten e sem lactose, mais os kits de 3; a página não traz a tabela nutricional, como mostra o capítulo do panetone.",
+          "A Belive tem panetone sem açúcar? Tem, de chocolate e de frutas cristalizadas, declarados sem glúten e sem lactose, mais os kits de 3; a tabela nutricional fica na aba \"Tabela Nutricional\" da página, como mostra o capítulo do panetone.",
           "Os produtos da Belive são sem glúten? A loja declara toda a linha sem glúten, sem leite e sem lactose, e a marca diz que a fábrica não tem contaminação cruzada; a tabela de alérgenos de cada página marca ovo, soja e castanhas em vários itens.",
           "Onde comprar Belive? No site oficial, com o código da Belive de 10%, ou no Mercado Livre, onde o código não vale; o frete grátis muda por região, como mostra o capítulo de compra."
         ]
@@ -179744,7 +179744,6 @@ export const reviewsData: unknown[] = [
         "Você escolhe o doce pelo rótulo: açúcares, carboidratos e proteína estão na página de cada brownie, bolinho e cookie."
       ],
       "skipIf": [
-        "Você quer o panetone com a tabela nutricional na página: ela não está lá, só a descrição.",
         "Você compra pouco e mora fora de SP, MG, RJ, DF, GO e do Sul: o frete grátis pede o carrinho mais alto da loja."
       ]
     },

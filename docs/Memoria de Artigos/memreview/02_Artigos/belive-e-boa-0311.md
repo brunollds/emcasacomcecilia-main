@@ -291,3 +291,10 @@ Pendente: B7 (panetone da Belive) volta à fila e pede briefing (Job 1).
 
 ## Publicação (03/11/2026)
 - No ar em 03/11/2026: PR #544, release `3851aa15` (build 01a1a3e5), id 786, só PT. Smoke com as imagens no CDN e os links da loja como sponsored; sitemap, llms.txt e IndexNow; captura 41745392090 verde.
+
+## Correção (03/11/2026)
+A revisão tinha aceitado que as páginas do panetone e dos pães não publicam tabela nutricional. Elas publicam, como imagem, na aba "Tabela Nutricional", e os ingredientes completos ficam na aba "Ingredientes". A conferência foi feita na página no mesmo dia. A correção mexeu em quatro lugares:
+- o capítulo do panetone, que ganhou kcal e carboidratos por porção de 80 g (chocolate: 248 kcal e 34 g; frutas: 219 kcal e 35 g; zero açúcares adicionados nos dois);
+- a frase dos pães;
+- o resumo e a FAQ do panetone;
+- o "Passe se" do panetone, que saiu.
