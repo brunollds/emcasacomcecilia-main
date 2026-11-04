@@ -85318,7 +85318,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como usar o cupom MAUAD na Belive: 10% OFF em todo o site, em todas as formas de pagamento. Passo a passo, o que soma com o Pix e o frete grátis por região.",
-    "metaDescription": "Cupom Belive MAUAD: 10% OFF em todo o site. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.",
+    "metaDescription": "O código MAUAD dá 10% OFF em todo o site da Belive. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -96829,7 +96829,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "O cupom Hostinger SONAR20 dá 20% no primeiro período, em plano mensal ou anual, para cliente novo ou antigo. Veja onde colar o código, os preços e o que muda na renovação.",
-    "metaDescription": "Cupom Hostinger SONAR20: 20% no primeiro período, em plano mensal ou anual. Veja onde colar o código no carrinho e o preço da renovação.",
+    "metaDescription": "O SONAR20 dá 20% OFF na Hostinger, no primeiro período e na renovação, em plano mensal ou anual. Veja onde colar o código no carrinho.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
