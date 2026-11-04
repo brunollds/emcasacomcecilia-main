@@ -2,10 +2,20 @@
 
 import { useSyncExternalStore, type ReactNode } from 'react';
 
-const subscribe = () => () => {};
+// Confere o prazo de novo a cada minuto e quando a aba volta a ficar visível: uma página aberta antes do fim (ou que o
+// celular guardou na memória) esconde o que venceu sem recarregar. O React só renderiza de novo quando o resultado
+// muda.
+function subscribe(onStoreChange: () => void) {
+  const timer = window.setInterval(onStoreChange, 60_000);
+  document.addEventListener('visibilitychange', onStoreChange);
+  return () => {
+    window.clearInterval(timer);
+    document.removeEventListener('visibilitychange', onStoreChange);
+  };
+}
 
-// O HTML do build traz o banner que estava no prazo. Se o início ou o fim da campanha passa antes do próximo deploy, o
-// navegador mostra ou esconde o banner; no servidor e na hidratação vale o estado do build, para o HTML bater.
+// O HTML do build traz o que estava no prazo. No servidor e na hidratação vale o estado do build, para o HTML bater;
+// depois, o navegador mostra o que começou e esconde o que venceu, também com a página aberta.
 export function CampaignWindow({
   from,
   until,

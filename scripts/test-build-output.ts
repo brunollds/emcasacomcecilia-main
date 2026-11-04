@@ -869,6 +869,12 @@ function elementsWithClass(html: string, token: string) {
     .filter(([tag]) => classesOf(tag).includes(token))
     .map((match) => elementAt(html, match.index));
 }
+// Os elementos com o atributo (o nome inteiro: data-limited-code não pega data-limited-code-pointer), na ordem do HTML.
+function elementsWithAttribute(html: string, attribute: string) {
+  return [...html.matchAll(new RegExp(`<[a-zA-Z][\\w-]*\\s[^>]*\\b${attribute}="[^"]*"[^>]*>`, 'g'))].map((match) =>
+    elementAt(html, match.index)
+  );
+}
 
 // Textos da sidebar do desktop em todos os idiomas, menos os do idioma da página. O código de
 // indicação da SHEIN tem rótulo e dicas próprios.
@@ -2449,25 +2455,35 @@ for (const { pagePath, store } of couponStorePages) {
   // Os "Outros cupons" só existem em português (CouponStorePage).
   const others = pagePath.startsWith('/cupons/') ? getOtherActiveCoupons(store.slug) : [];
   const copyable = hasCopyCode(store);
-  // O código com prazo que já começou sai no HTML, só em português e só em loja sem faixas.
+  // O código com prazo que já começou sai no HTML, só em português e só em loja sem faixas: a caixa, com o id que a
+  // linha do recorte do topo usa, e a linha. As duas levam o fim do prazo, que separa prazos com o mesmo código
+  // (os dois da I Wanna Sleep).
   const limited = pagePath.startsWith('/cupons/') && copyable ? getPendingLimitedCodes(store).filter((item) => item.inHtml) : [];
-  const limitedInHtml = body.match(/data-limited-code="[^"]+"/g) ?? [];
-  assert.deepEqual(
-    limitedInHtml.map((attribute) => attribute.slice('data-limited-code="'.length, -1)),
-    limited.map((item) => item.code),
-    `${pagePath}: os códigos com prazo no HTML não são os do prazo de hoje`
+  const limitedEnd = (endsAt: string) =>
+    new Date(endsAt).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', timeZone: 'America/Sao_Paulo' });
+  const limitedBoxes = elementsWithAttribute(body, 'data-limited-code');
+  assert.equal(limitedBoxes.length, limited.length, `${pagePath}: ${limitedBoxes.length} caixas de código com prazo no HTML; o prazo de hoje pede ${limited.length}`);
+  assert.equal(
+    body.split(' id="codigo-com-prazo"').length - 1,
+    limited.length,
+    `${pagePath}: o id da caixa do código com prazo (codigo-com-prazo) não sai uma vez por caixa`
   );
-  // A linha do recorte do topo que leva à caixa do código com prazo, no mesmo prazo.
   const topCutoutAt = body.indexOf('<section id="cupom"');
   assert.ok(topCutoutAt >= 0, `${pagePath}: sem o recorte do topo (id="cupom")`);
-  const pointers = elementAt(body, topCutoutAt).match(/<a\b[^>]*\bdata-limited-code-pointer="[^"]+"[^>]*>/g) ?? [];
-  assert.deepEqual(
-    pointers.map((tag) => tag.match(/data-limited-code-pointer="([^"]+)"/)?.[1]),
-    limited.map((item) => item.code),
-    `${pagePath}: a linha do código com prazo no recorte do topo não bate com a caixa`
-  );
-  for (const tag of pointers) assert.ok(tag.includes(' href="#codigo-com-prazo"'), `${pagePath}: a linha do recorte não leva à caixa`);
-  if (limited.length > 0) assert.ok(body.includes(' id="codigo-com-prazo"'), `${pagePath}: a caixa do código com prazo sem o id`);
+  const pointers = elementsWithAttribute(elementAt(body, topCutoutAt), 'data-limited-code-pointer');
+  assert.equal(pointers.length, limited.length, `${pagePath}: ${pointers.length} linhas do código com prazo no recorte do topo; o prazo de hoje pede ${limited.length}`);
+  limited.forEach((item, index) => {
+    const end = limitedEnd(item.endsAt);
+    const box = limitedBoxes[index];
+    assert.ok(box.includes(` data-limited-code="${item.code}"`), `${pagePath}: a caixa ${index + 1} de código com prazo não é a do ${item.code}`);
+    assert.ok(textOf(box).includes(`Por tempo limitado: até ${end}`), `${pagePath}: a caixa do ${item.code} sem o fim do prazo de hoje (${end})`);
+    const pointer = pointers[index];
+    assert.ok(pointer.startsWith('<a ') && pointer.includes(' href="#codigo-com-prazo"'), `${pagePath}: a linha do ${item.code} no recorte do topo não leva à caixa`);
+    assert.ok(
+      textOf(pointer).includes(`Até ${end}: ${item.discount} com o ${item.code}`),
+      `${pagePath}: a linha do ${item.code} no recorte do topo sem o fim do prazo de hoje (${end})`
+    );
+  });
   const expected = {
     total: Number(copyable) + Number(Boolean(store.referral)) + others.filter(hasCopyCode).length + limited.length,
     withScissors: Number(copyable),
