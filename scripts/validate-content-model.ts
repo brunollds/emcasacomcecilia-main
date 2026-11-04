@@ -28,13 +28,19 @@ import { isFaqHeading, parseFaqBullet } from '@/lib/faq';
 import {
   BODY_DATES_REASONS,
   checkReviewProse,
+  checkSnippet,
   findDates,
   getProseProblems,
+  getSnippetProblems,
   isBodyDatesReason,
+  isSnippetChecked,
+  isSnippetProblem,
   MAX_DESCRIPTION_LENGTH,
+  SNIPPET_EXCEPTION_SLUGS,
   type ProseBaselineEntry,
 } from './review-prose-checks';
 import proseBaselineJson from './review-prose-baseline.json';
+import snippetBaselineJson from './review-snippet-baseline.json';
 import { findDuplicateKeys } from './json-duplicate-keys';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -702,6 +708,43 @@ for (const slug of Object.keys(proseBaseline)) {
   }
 }
 
+// Snippet com o código nos artigos em português com coupon: código e % no começo, até 155 caracteres, sem data,
+// sem R$ e sem abrir com "Cupom <loja>". Os artigos de antes da regra ficam em scripts/review-snippet-baseline.json,
+// que só encolhe; as exceções, com o motivo, em review-prose-checks.ts.
+const snippetBaseline: Record<string, string[]> = snippetBaselineJson;
+const snippetChecked = new Set<string>();
+for (const review of reviews) {
+  if (!isSnippetChecked(review)) continue;
+  snippetChecked.add(review.slug);
+  for (const problem of getSnippetProblems(checkSnippet(review), snippetBaseline[review.slug])) {
+    reportError({ type: 'review', id: review.id, slug: review.slug, message: problem });
+  }
+}
+for (const [slug, problems] of Object.entries(snippetBaseline)) {
+  if (!snippetChecked.has(slug)) {
+    reportError({
+      type: 'review',
+      id: -1,
+      slug,
+      message: 'scripts/review-snippet-baseline.json cita um artigo fora da regra do snippet (não existe, não é PT, sem coupon ou exceção)',
+    });
+  }
+  const unknown = problems.filter((problem) => !isSnippetProblem(problem));
+  if (problems.length === 0 || unknown.length > 0) {
+    reportError({
+      type: 'review',
+      id: -1,
+      slug,
+      message: `scripts/review-snippet-baseline.json com entrada vazia ou problema desconhecido: ${unknown.join(', ')}`,
+    });
+  }
+}
+for (const slug of Object.keys(SNIPPET_EXCEPTION_SLUGS)) {
+  if (!portugueseSlugs.has(slug)) {
+    reportError({ type: 'review', id: -1, slug, message: 'SNIPPET_EXCEPTION_SLUGS cita um artigo em português que não existe' });
+  }
+}
+
 // Subtítulo curto em todo idioma, rascunho inclusive.
 for (const review of reviews) {
   const length = [...review.description].length;
@@ -749,6 +792,45 @@ for (const review of reviews) {
   if (!getProseProblems({ ...prontuario, quickAnswerPrice: false }, undefined, expected).some((p) => p.includes('tire "quickAnswerPrice"'))) {
     report('a lista não pediu para encolher depois que o artigo melhorou');
   }
+
+  // Snippet: um artigo que fura cada regra dá um problema por regra.
+  const expectSnippet = (label: string, review: Parameters<typeof checkSnippet>[0], expected: string[]) => {
+    const found = checkSnippet(review);
+    if (JSON.stringify(found) !== JSON.stringify(expected)) {
+      report(`checkSnippet (${label}): ${JSON.stringify(found)}, esperado ${JSON.stringify(expected)}`);
+    }
+  };
+  const base = { slug: 'snippet-de-mentira', coupon: 'LOJA10', affiliate: 'loja' };
+  expectSnippet('dentro da regra', { ...base, metaDescription: 'O cupom LOJA10 dá 10% OFF em todo o site. Veja como aplicar, válido em novembro de 2026.' }, []);
+  expectSnippet('sem metaDescription', base, ['missing']);
+  expectSnippet('sem o código', { ...base, metaDescription: 'Desconto de 10% em todo o site.' }, ['noCode']);
+  expectSnippet('código tarde', { ...base, metaDescription: `10% OFF ${'em todo o site '.repeat(7)}com LOJA10.` }, ['codeLate']);
+  expectSnippet('sem o %', { ...base, metaDescription: 'Com o LOJA10, desconto em todo o site.' }, ['noPercent']);
+  expectSnippet('longo', { ...base, metaDescription: `Com o LOJA10, até 10% OFF.${' Veja como aplicar.'.repeat(8)}` }, ['tooLong']);
+  expectSnippet('data', { ...base, metaDescription: 'Com o LOJA10, 10% OFF a partir de 05/11.' }, ['date']);
+  expectSnippet('preço', { ...base, metaDescription: 'Com o LOJA10, 10% OFF acima de R$ 99.' }, ['price']);
+  expectSnippet('R$ 100 da Dolce Gusto', { ...base, affiliate: 'dolce-gusto', metaDescription: 'Com o LOJA10, 10% OFF a partir de R$ 100.' }, []);
+  expectSnippet('abre com Cupom', { ...base, metaDescription: 'Cupom Loja LOJA10: 10% OFF em todo o site.' }, ['opensWithCoupon']);
+  expectSnippet(
+    'YesStyle',
+    { ...base, affiliate: 'yesstyle', coupon: 'CECILIA010', metaDescription: 'Use o cupom CECILIA010 e ganhe até 5%.' },
+    ['rewardCalledCoupon']
+  );
+  expectSnippet(
+    'SHEIN',
+    { ...base, affiliate: 'shein', coupon: '4CW5Y', metaDescription: 'Pesquise 4CW5Y no app da SHEIN Brasil e ganhe 10%.' },
+    ['sheinPercent', 'sheinBrasil']
+  );
+  if (isSnippetChecked({ ...base, affiliate: 'magalu' })) report('a Magalu entrou na regra do snippet');
+  if (isSnippetChecked({ ...base, locale: 'en' })) report('artigo fora do PT entrou na regra do snippet');
+  if (isSnippetChecked({ ...base, slug: 'dominio-hostinger-comprar-transferir-ou-fora' })) report('exceção por slug entrou na regra do snippet');
+  if (getSnippetProblems(['codeLate', 'noPercent']).length !== 2) report('snippet fora da lista furando 2 regras não deu 2 problemas');
+  if (getSnippetProblems(['codeLate', 'noPercent'], ['codeLate', 'noPercent']).length !== 0) report('a lista do snippet não tolerou o que registra');
+  if (getSnippetProblems(['codeLate', 'date'], ['codeLate']).length !== 1) report('problema novo no snippet não foi barrado');
+  if (!getSnippetProblems(['codeLate'], ['codeLate', 'noPercent']).some((p) => p.includes('tire "noPercent"'))) {
+    report('a lista do snippet não pediu para encolher depois que o artigo melhorou');
+  }
+  if (!getSnippetProblems([], ['codeLate']).some((p) => p.includes('tire a entrada'))) report('a lista do snippet não pediu para tirar a entrada');
 }
 
 // ---------------------------------------------------------------------------
