@@ -192,7 +192,7 @@ Rodada de 27/10 pelo autocompletar do Google e do Bing (sem ranking de vendas: o
 | B3 | Bolinho kids da Belive para a lancheira | **No ar em 28/10/2026 (#331, release `c3af3e1`, id 629):** [[bolinho-kids-belive-lancheira]] |
 | B4, B6 | Bolo sem açúcar; kits de doces | Viram seção ou ficam no estoque |
 | B5 | Pão sem glúten da Belive | Fora do eixo da loja no site (sem açúcar) |
-| B7 | Panetone e doces de Natal sem açúcar | Descartada em 27/10 (a Belive não vendia panetone). **Volta como pauta própria (Bruno, 03/11/2026):** briefing [[panetone-chocotone-belive-0311]], um artigo só (o chocotone não tem página própria, só os kits). Publicar até meados de novembro; o [[belive-e-boa-0311]] passa a linkar a B7 quando ela sair |
+| B7 | Panetone e doces de Natal sem açúcar | **Pronto para deploy em 04/11/2026** (JSON e gates verdes, imagens no CDN): [[panetone-chocotone-belive-0311]] |
 
 Descartados na Nutre pela regra de saúde: Control (diabetes), Resource (disfagia), enterais, "engorda", Beauty, Fibermais ou Metamucil e a linha Kids por idade.
 
@@ -382,11 +382,11 @@ Kopenhagen saiu da lista. A Le Creuset não é afiliada: entra como capítulo do
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| EB5 | Skelt é boa? (autobronzeadores, fragrâncias, hidratantes e iluminadores) | Briefing aprovado: [[skelt-e-boa-0311]] |
-| EB6 | I Wanna Sleep é boa? (travesseiros, cobertores, melatonina e sono; colchão espera decisão do Bruno) | Briefing aprovado: [[i-wanna-sleep-e-boa-0311]] |
-| EB7 | Cléa Store é boa? (camisetas, bodies e alfaiataria) | Briefing aprovado: [[clea-store-e-boa-0311]] |
-| EB8 | Toda Up é boa? (sutiãs, segunda pele, calcinhas e adesivos) | Briefing aprovado: [[toda-up-e-boa-0311]] |
-| EB9 | Let's Eat It é boa? (Le Creuset, Porto Brasil e Natal) | Briefing aprovado: [[lets-eat-it-e-boa-0311]] |
+| EB5 | Skelt é boa? (autobronzeadores, fragrâncias, hidratantes e iluminadores) | **Pronto para deploy em 04/11/2026** (JSON e gates verdes, imagens no CDN): [[skelt-e-boa-0311]] |
+| EB6 | I Wanna Sleep é boa? (travesseiros, cobertores, melatonina e sono; colchão espera decisão do Bruno) | **Pronto para deploy em 04/11/2026** (JSON e gates verdes, imagens no CDN): [[i-wanna-sleep-e-boa-0311]] |
+| EB7 | Cléa Store é boa? (camisetas, bodies e alfaiataria) | **Pronto para deploy em 04/11/2026** (JSON e gates verdes, imagens no CDN): [[clea-store-e-boa-0311]] |
+| EB8 | Toda Up é boa? (sutiãs, segunda pele, calcinhas e adesivos) | **Pronto para deploy em 04/11/2026** (JSON e gates verdes, imagens no CDN): [[toda-up-e-boa-0311]] |
+| EB9 | Let's Eat It é boa? (Le Creuset, Porto Brasil e Natal) | **Pronto para deploy em 04/11/2026** (JSON e gates verdes, imagens no CDN): [[lets-eat-it-e-boa-0311]] |
 
 ## Temas para depois (não prioritários)
 

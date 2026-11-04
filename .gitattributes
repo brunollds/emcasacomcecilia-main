@@ -270,6 +270,9 @@ public/images/reviews/belive/cupom-belive-capa-discover.webp -text export-ignore
 public/images/reviews/belive/cupom-belive-capa.webp -text export-ignore
 public/images/reviews/belive/cupom-belive-resumo-desconto.webp -text export-ignore
 public/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp -text export-ignore
+public/images/reviews/belive/panetone-belive-e-bom-capa.webp -text export-ignore
+public/images/reviews/belive/panetone-belive-e-bom-fatia-chocolate.webp -text export-ignore
+public/images/reviews/belive/panetone-belive-e-bom-panetone-frutas-amendoas.webp -text export-ignore
 public/images/reviews/belive/pao-de-mel-sem-acucar-belive-capa.webp -text export-ignore
 public/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa.webp -text export-ignore
 public/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-fotos-2810.webp -text export-ignore
@@ -377,6 +380,7 @@ public/images/reviews/clea-store/clea-store-confiavel-capa.webp -text export-ign
 public/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp -text export-ignore
 public/images/reviews/clea-store/clea-store-cupom-03-desconto-aplicado.webp -text export-ignore
 public/images/reviews/clea-store/clea-store-cupom-capa.webp -text export-ignore
+public/images/reviews/clea-store/clea-store-e-boa-capa.webp -text export-ignore
 public/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp -text export-ignore
 public/images/reviews/clea-store/clea-store-look-blazer-risca-de-giz-camisa.webp -text export-ignore
 public/images/reviews/clea-store/clea-store-mercado-livre-ou-site-precos.webp -text export-ignore
@@ -916,6 +920,9 @@ public/images/reviews/iwannasleep/cobertor-puffer-travesseiro-viagem.webp -text 
 public/images/reviews/iwannasleep/confiabilidade-hero.webp -text export-ignore
 public/images/reviews/iwannasleep/cupom-ceciemcasa-hero.webp -text export-ignore
 public/images/reviews/iwannasleep/cupom-ceciemcasa-i-wanna-sleep-capa-discover.webp -text export-ignore
+public/images/reviews/iwannasleep/i-wanna-sleep-e-boa-capa.webp -text export-ignore
+public/images/reviews/iwannasleep/i-wanna-sleep-e-boa-cervical-neck-plus-charcoal.webp -text export-ignore
+public/images/reviews/iwannasleep/i-wanna-sleep-e-boa-melatonina-liquida-frasco.webp -text export-ignore
 public/images/reviews/iwannasleep/i-wanna-sleep-e-confiavel-capa-discover.webp -text export-ignore
 public/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-alturas.webp -text export-ignore
 public/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp -text export-ignore
@@ -1026,6 +1033,7 @@ public/images/reviews/letseatit/le-creuset-redonda-signature-litros-por-tamanho.
 public/images/reviews/letseatit/le-creuset-redonda-signature-tampa-alcas.webp -text export-ignore
 public/images/reviews/letseatit/lets-eat-it-confiavel-hero-loja.webp -text export-ignore
 public/images/reviews/letseatit/lets-eat-it-confiavel-hero.webp -text export-ignore
+public/images/reviews/letseatit/lets-eat-it-e-boa-capa.webp -text export-ignore
 public/images/reviews/letseatit/lets-eat-it-e-confiavel-capa-discover.webp -text export-ignore
 public/images/reviews/letseatit/lets-eat-it-le-creuset-pagina.webp -text export-ignore
 public/images/reviews/letseatit/lets-eat-it-marcas-linhas.webp -text export-ignore
@@ -1475,6 +1483,11 @@ public/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-capa.webp 
 public/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-frasco.webp -text export-ignore
 public/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-luva.webp -text export-ignore
 public/images/reviews/skelt/removedor-autobronzeador-skelt-como-tirar-mao.webp -text export-ignore
+public/images/reviews/skelt/skelt-e-boa-bifasico-autobronzeador.webp -text export-ignore
+public/images/reviews/skelt/skelt-e-boa-body-splash-solar-muse.webp -text export-ignore
+public/images/reviews/skelt/skelt-e-boa-capa.webp -text export-ignore
+public/images/reviews/skelt/skelt-e-boa-iluminador-corporal.webp -text export-ignore
+public/images/reviews/skelt/skelt-e-boa-mousse-autobronzeador.webp -text export-ignore
 public/images/reviews/skelt/skelt-e-confiavel-capa.webp -text export-ignore
 public/images/reviews/skelt/skelt-e-confiavel-rodape-cnpj.webp -text export-ignore
 public/images/reviews/skelt/skelt-ou-best-bronze-agua-incolor.webp -text export-ignore
@@ -1566,6 +1579,7 @@ public/images/reviews/toda-up/sutia-toda-up-qual-escolher-comfort-up.webp -text 
 public/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-line.webp -text export-ignore
 public/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-slim.webp -text export-ignore
 public/images/reviews/toda-up/sutia-toda-up-qual-escolher-medidas-comfort-up.webp -text export-ignore
+public/images/reviews/toda-up/toda-up-e-boa-capa.webp -text export-ignore
 public/images/reviews/toda-up/toda-up-e-confiavel-capa-discover.webp -text export-ignore
 public/images/reviews/toda-up/toda-up-empresa-cnpj-2610.webp -text export-ignore
 public/images/reviews/toda-up/toda-up-faq-mudanca-de-marca-2610.webp -text export-ignore
