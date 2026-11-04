@@ -17,8 +17,10 @@ const activeCodeStores = getActiveCoupons()
   .filter((coupon) => coupon.offerMode === 'discount-code')
   .map((coupon) => coupon.brand);
 const snippetStores = SNIPPET_STORES.filter((brand) => activeCodeStores.includes(brand));
-const snippetStoreList = `${snippetStores.slice(0, -1).join(', ')} e ${snippetStores.at(-1)}`;
-const HUB_DESCRIPTION = `Códigos de desconto de ${activeCodeStores.length} lojas parceiras, como ${snippetStoreList}: o desconto de cada código, as regras e se ele soma com a promoção.`;
+// Com uma loja só sai o nome dela; sem nenhuma das quatro ativa, a frase fica sem o "como".
+const snippetStoreList = new Intl.ListFormat('pt-BR', { type: 'conjunction' }).format(snippetStores);
+const storeCount = activeCodeStores.length === 1 ? '1 loja parceira' : `${activeCodeStores.length} lojas parceiras`;
+const HUB_DESCRIPTION = `Códigos de desconto de ${storeCount}${snippetStores.length ? `, como ${snippetStoreList}` : ''}: o desconto de cada código, as regras e se ele soma com a promoção.`;
 
 export const metadata: Metadata = {
   title: 'Cupons da Cecília — Códigos de desconto ativos',
