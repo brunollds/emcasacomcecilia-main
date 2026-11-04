@@ -11,16 +11,24 @@ const COUPONS_LOGO_URL = new URL(
   'https://emcasacomcecilia.com'
 ).toString();
 
+// O snippet cita as lojas de código mais buscadas que estão ativas, para não anunciar uma loja pausada.
+const SNIPPET_STORES = ['Insider', 'DAMIE', 'Dolce Gusto', 'Hostinger'];
+const activeCodeStores = getActiveCoupons()
+  .filter((coupon) => coupon.offerMode === 'discount-code')
+  .map((coupon) => coupon.brand);
+const snippetStores = SNIPPET_STORES.filter((brand) => activeCodeStores.includes(brand));
+const snippetStoreList = `${snippetStores.slice(0, -1).join(', ')} e ${snippetStores.at(-1)}`;
+const HUB_DESCRIPTION = `Códigos de desconto de ${activeCodeStores.length} lojas parceiras, como ${snippetStoreList}: o desconto de cada código, as regras e se ele soma com a promoção.`;
+
 export const metadata: Metadata = {
   title: 'Cupons da Cecília — Códigos de desconto ativos',
-  description:
-    'Cupons e ofertas da Cecília para economizar em marcas parceiras como DAMIE e Dolce Gusto.',
+  description: HUB_DESCRIPTION,
   alternates: {
     canonical: '/cupons',
   },
   openGraph: {
     title: 'Cupons da Cecília — Em Casa com Cecília',
-    description: 'Códigos de desconto e ofertas em marcas parceiras da Cecília.',
+    description: HUB_DESCRIPTION,
     url: '/cupons',
     type: 'website',
     images: [

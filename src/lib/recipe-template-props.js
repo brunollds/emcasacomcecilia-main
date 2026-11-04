@@ -33,16 +33,17 @@ export function buildRecipeMetadata(recipe) {
   const url = `${SITE_URL}/receitas/${recipe.slug}`;
   const image = getRecipeOwnImage(recipe);
   const imageUrl = image ? absoluteMediaUrl(image) : undefined;
+  const description = recipe.metaDescription || recipe.description;
 
   return {
     title: `${recipe.title} - Em Casa com Cecília`,
-    description: recipe.description,
+    description,
     alternates: {
       canonical: url,
     },
     openGraph: {
       title: recipe.title,
-      description: recipe.description,
+      description,
       url,
       type: 'article',
       ...(imageUrl && { images: [{ url: imageUrl, width: 1200, height: 630, alt: recipe.title }] }),
@@ -50,7 +51,7 @@ export function buildRecipeMetadata(recipe) {
     twitter: {
       card: imageUrl ? 'summary_large_image' : 'summary',
       title: recipe.title,
-      description: recipe.description,
+      description,
       ...(imageUrl && { images: [imageUrl] }),
     },
   };
