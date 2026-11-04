@@ -19,6 +19,8 @@ npm run build
 
 O `npm run build` roda os testes de conteúdo antes do `next build` (entre eles a vitrine em português, os idiomas e as famílias, os links internos, as lojas traduzidas e a validade das ofertas da YesStyle, que derruba a build quando uma oferta ativa vence) e, depois dele, o bundle do navegador, o `<html lang>` e o `test:build-output`. Para iterar mais rápido, cada teste roda solto (ex.: `npm run test:review-i18n`).
 
+O `validate:content` também confere o snippet dos artigos em português com `coupon` (`checkSnippet`): a regra do Job 1, "Snippet com o código".
+
 Se o artigo tem **imagem ou vídeo novo** (fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`), rodar antes do commit:
 
 ```powershell
