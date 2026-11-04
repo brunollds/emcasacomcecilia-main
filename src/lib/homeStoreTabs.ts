@@ -19,6 +19,19 @@ export type HomeStoreArticle = {
   imagePosition?: CardImagePosition;
 };
 
+// O código com prazo da loja (o CECIEMCASA15 da I Wanna Sleep): dentro do prazo, o recorte da vitrine mostra ele e o
+// desconto dele no lugar do código de sempre, com o fim do prazo.
+export type HomeLimitedCode = {
+  code: string;
+  discount: string;
+  startsAt: string;
+  endsAt: string;
+  // Já tinha começado no build: sai no HTML.
+  inHtml: boolean;
+  // "Por tempo limitado: até 8 de novembro".
+  deadline: string;
+};
+
 export type HomeStoreTab = {
   slug: string;
   brand: string;
@@ -29,6 +42,8 @@ export type HomeStoreTab = {
   // Falta só em loja de link sem código de indicação.
   code?: string;
   discount: string;
+  // Só em loja com código com prazo que ainda não venceu.
+  limitedCodes?: HomeLimitedCode[];
   description: string;
   hints: { copy: string; copied: string };
   storeUrl: string;

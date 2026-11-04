@@ -2703,13 +2703,24 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
     const title = panel.match(new RegExp(`<h2 id="titulo-loja-${tab.slug}"[^>]*>([^<]*)</h2>`))?.[1];
     check(title !== undefined && decodeHtml(title) === tab.label, `painel ${tab.slug}: título diferente de "${tab.label}"`);
     check(panel.includes(hrefOf(tab.storePageUrl)), `painel ${tab.slug}: sem o link de ${tab.storePageUrl}`);
-    if (tab.code) {
-      check(nodes.includes(tab.code), `painel ${tab.slug}: sem o código`);
+    // No prazo de um código com prazo (o CECIEMCASA15 da I Wanna Sleep), o recorte mostra ele, o desconto dele e o fim
+    // do prazo, e não o código de sempre.
+    const live = tab.limitedCodes?.find((item) => item.inHtml);
+    const shownCode = live?.code ?? tab.code;
+    const shownDiscount = live?.discount ?? tab.discount;
+    if (shownCode) {
+      check(nodes.includes(shownCode), `painel ${tab.slug}: sem o código ${shownCode}`);
       check(nodes.includes(tab.hints.copy), `painel ${tab.slug}: sem a dica de copiar`);
-      const copyLabel = COPY_LABELS.copyCoupon(tab.code);
+      const copyLabel = COPY_LABELS.copyCoupon(shownCode);
       check(panel.includes(`aria-label="${escapeHtml(copyLabel)}"`), `painel ${tab.slug}: botão de copiar sem o rótulo "${copyLabel}"`);
     }
-    check(nodes.includes(tab.discount), `painel ${tab.slug}: sem a oferta "${tab.discount}"`);
+    check(nodes.includes(shownDiscount), `painel ${tab.slug}: sem a oferta "${shownDiscount}"`);
+    const deadlines = panel.match(/\sdata-limited-code-deadline=""/g) ?? [];
+    check(deadlines.length === (live ? 1 : 0), `painel ${tab.slug}: ${deadlines.length} avisos de prazo no recorte; o prazo de hoje pede ${live ? 1 : 0}`);
+    if (live) {
+      check(nodes.includes(live.deadline), `painel ${tab.slug}: sem "${live.deadline}"`);
+      check(!tab.code || !nodes.includes(tab.code), `painel ${tab.slug}: o código de sempre (${tab.code}) junto do código com prazo`);
+    }
     check(panel.includes(hrefOf(tab.storeUrl)), `painel ${tab.slug}: sem o link da loja`);
     // Os artigos do painel são exatamente os da expectativa (o "Ver os N artigos" fica de fora: /reviews/loja/...).
     const articleLinks = [...new Set(panel.match(/href="\/reviews\/[^"/]+"/g) ?? [])].sort();
@@ -2850,7 +2861,12 @@ const storeWhere = (what: string, find: (tab: HomeTab) => boolean) => {
   return tab;
 };
 const [firstTab] = homeExpected.tabs;
-const codeTab = storeWhere('com código', (tab) => !!tab.code);
+// A loja no prazo de um código com prazo mostra ele no recorte: as mutações do código e da oferta de sempre vão a
+// outra loja, e a dela ganha as próprias.
+const liveLimited = (tab: HomeTab) => tab.limitedCodes?.find((item) => item.inHtml);
+const codeTab = storeWhere('com código', (tab) => !!tab.code && !liveLimited(tab));
+const offerTab = storeWhere('com a oferta de sempre', (tab) => !liveLimited(tab));
+const limitedTab = homeExpected.tabs.find(liveLimited);
 const articleTab = storeWhere('com artigo', (tab) => tab.articles.length > 0);
 // As mutações dos textos que o guarda exige de uma loja pelo nome: só existem com a loja ativa, como a trava.
 const forStore = (slug: string, mutations: string[]) =>
@@ -2917,7 +2933,14 @@ const brokenHomes = [
   inPanel(codeTab, (panel) => panel.replace(`aria-label="${escapeHtml(COPY_LABELS.copyCoupon(codeTab.code))}"`, `aria-label="Copiar o cupom ${codeTab.code}"`)),
   inPanel(codeTab, (panel) => panel.replace(`>${escapeHtml(codeTab.code)}<`, '>OUTRO<')),
   inPanel(codeTab, (panel) => panel.replace(`>${escapeHtml(codeTab.hints.copy)}<`, '>Outra dica.<')),
-  inPanel(firstTab, (panel) => panel.replace(`>${escapeHtml(firstTab.discount)}<`, '>Outra oferta<')),
+  inPanel(offerTab, (panel) => panel.replace(`>${escapeHtml(offerTab.discount)}<`, '>Outra oferta<')),
+  // No prazo de um código com prazo: sem o aviso do prazo, ou com o código de sempre no lugar do dele.
+  ...(limitedTab
+    ? [
+        inPanel(limitedTab, (panel) => panel.replace(`>${escapeHtml(liveLimited(limitedTab)!.deadline)}<`, '>Outro prazo<')),
+        inPanel(limitedTab, (panel) => panel.replace(`>${escapeHtml(liveLimited(limitedTab)!.code)}<`, `>${escapeHtml(limitedTab.code ?? '')}<`)),
+      ]
+    : []),
   inPanel(firstTab, (panel) => panel.replace(hrefOf(firstTab.storeUrl), 'href="/outra"')),
   // O artigo aparece no story e na lista do painel: troca todas as ocorrências, senão a outra o esconderia.
   inPanel(articleTab, (panel) => panel.split(hrefOf(articleTab.articles[0].href)).join('href="/outra"')),
