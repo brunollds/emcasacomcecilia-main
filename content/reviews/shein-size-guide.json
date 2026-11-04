@@ -1,0 +1,276 @@
+{
+  "id": 805,
+  "slug": "shein-size-guide",
+  "locale": "en",
+  "translationKey": "shein-tamanho",
+  "title": "SHEIN size guide: which size to order and how to read each size chart",
+  "seoTitle": "SHEIN size guide: which size to order and how to read it",
+  "type": "Size Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "At SHEIN the same letter changes from brand to brand: two M tees differ by 11 cm at the bust. Choose by the measurements of each piece in cm, not by your usual letter.",
+  "metaDescription": "Size at SHEIN: the letter changes by brand. The 4CW5Y is a SHEIN referral code, searched in the app. Measure in cm and read each piece's size guide.",
+  "publishedAt": "November 4, 2026",
+  "publishedAtISO": "2026-11-04",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+  "imageAlt": "Navy T-shirt, black T-shirt seen from behind and green printed pajamas in official SHEIN photos, with the store logo, the letters S, M and L and a ruler",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "label": "Go to SHEIN",
+    "text": "Open the piece's size guide and compare its measurement in centimeters with yours before choosing a letter.",
+    "url": "https://onelink.shein.com/55/6463grgxf6ru",
+    "sponsored": true
+  },
+  "coupon": "4CW5Y",
+  "affiliate": "shein",
+  "editorialNote": "We may earn a commission on SHEIN links. No one on the team wore these pieces.",
+  "relatedArticles": [
+    {
+      "slug": "is-shein-worth-it",
+      "title": "Is SHEIN worth it? When buying pays off and when to skip it"
+    },
+    {
+      "slug": "shein-party-dress-guide",
+      "title": "Party dress on SHEIN: how to choose by occasion, fabric and delivery time"
+    },
+    {
+      "slug": "is-shein-legit-and-safe",
+      "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+    },
+    {
+      "slug": "shein-referral-code-where-to-enter",
+      "title": "SHEIN referral code: where to enter it and how it works"
+    },
+    {
+      "slug": "shein-trustpilot-reviews",
+      "title": "SHEIN on Trustpilot: score, complaints and what the numbers show"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "At SHEIN, choose the size by the centimeter measurement in each piece's size guide, never by the letter you always wear: the M changes from one brand to another. Measure your body and compare it with the piece. If it doesn't fit, returning it is the way out; the section “If it doesn't fit: returns” explains how."
+      ]
+    },
+    {
+      "heading": "The same letter changes from brand to brand",
+      "paragraphs": [
+        "You wear M, you order M, and the T-shirt arrives in a different size: at SHEIN, the letter is no yardstick. The platform sells different brands, and each brand measures its M its own way. Two plain short-sleeve tees show the size of the problem."
+      ],
+      "comparisonTable": {
+        "caption": "Bust of the piece in international size M, from each page's size guide; the full DAZY guide is further down.",
+        "headers": [
+          "T-shirt",
+          "Bust of the piece in M",
+          "Fit type",
+          "Stretch",
+          "Fabric"
+        ],
+        "rows": [
+          [
+            "[DAZY short-sleeve T-shirt](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
+            "93 cm",
+            "Regular",
+            "Slight",
+            "100% cotton"
+          ],
+          [
+            "[SHEIN Essnce plain T-shirt](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
+            "82 cm",
+            "Between skinny and regular",
+            "High",
+            "95% viscose and 5% elastane"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Our math: from the piece measurements in both guides, the DAZY M has 11 cm more bust than the Essnce M, almost the bust of the Essnce XL. The store says: the DAZY page itself warns that the brand follows Asian sizing and runs smaller than SHEIN.",
+        "What this changes when you buy: each piece has its own guide, and that guide is the one that counts. The way not to go wrong is to ignore the letter, open the piece's size guide and compare centimeter by centimeter. The next two sections show how: first your body, then the guide."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "alt": "Model wearing the navy short-sleeve DAZY T-shirt with a round neck, facing front, with black trousers and a bag on the shoulder",
+          "caption": "DAZY T-shirt: the page warns that the brand runs smaller than SHEIN. Official SHEIN photo.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7513
+        },
+        {
+          "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "alt": "Model wearing the black short-sleeve SHEIN Essnce T-shirt with a round neck, facing front, with jeans and a belt",
+          "caption": "SHEIN Essnce T-shirt: its M has a smaller bust than the DAZY. Official SHEIN photo.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7513
+        }
+      ]
+    },
+    {
+      "heading": "How to measure your body",
+      "paragraphs": [
+        "Before opening any guide, you need three of your numbers: bust, waist and hips. Rule of thumb, not tested by us: use a sewing tape over light clothing, with the tape touching the skin without pulling. Where to pass the tape for each measurement:"
+      ],
+      "bullets": [
+        "Bust: at the fullest part, with the tape level, passing under the arms and across the back at the same height.",
+        "Waist: at the narrowest point of the torso, usually a little above the navel, breathing normally.",
+        "Hips: at the widest part of the hips, with feet together."
+      ],
+      "postParagraphs": [
+        "Write the three down in centimeters. The SHEIN guide shows measurements in centimeters and inches; to compare, stay in CM. The guide itself explains how to measure: if your method matches its method, the comparison comes out right. For T-shirts, blouses and dresses, the bust decides; for trousers and skirts, the waist and hips. If you fall between two of your numbers, use the larger one: extra room can be taken in, a shortfall can't."
+      ]
+    },
+    {
+      "heading": "How to read the piece's guide: piece measurement, body measurement and ease",
+      "paragraphs": [
+        "What decides the size is knowing which table you are looking at, because the SHEIN guide can have two. The product measurements table is the garment measured flat: the DAZY T-shirt's bust in M is the garment's measurement, not your body's. The body measurements table, when the piece has one, is the body range the brand gives for each letter, and its own note says it is for reference only. Some pieces only have the garment table, like the Essnce; then the comparison is direct, between your measurement and the piece's, and the ease is up to you."
+      ],
+      "comparisonTable": {
+        "caption": "Size guide for the DAZY T-shirt, read on November 4, 2026, in centimeters: product measurements on the left (bust and length; shoulder and sleeve left out), body range on the right.",
+        "headers": [
+          "Size",
+          "Product bust",
+          "Length",
+          "Height",
+          "Body bust",
+          "Waist",
+          "Hips"
+        ],
+        "rows": [
+          [
+            "XS",
+            "85",
+            "58",
+            "150-155",
+            "74-78",
+            "58-62",
+            "82-86"
+          ],
+          [
+            "S",
+            "89",
+            "59",
+            "155-160",
+            "78-82",
+            "62-66",
+            "86-90"
+          ],
+          [
+            "M",
+            "93",
+            "60",
+            "160-165",
+            "82-86",
+            "66-70",
+            "90-94"
+          ],
+          [
+            "L",
+            "97",
+            "61",
+            "160-165",
+            "86-90",
+            "70-74",
+            "94-98"
+          ],
+          [
+            "XL",
+            "101",
+            "62",
+            "165-170",
+            "90-94",
+            "74-78",
+            "98-102"
+          ],
+          [
+            "XXL",
+            "105",
+            "63",
+            "165-170",
+            "94-98",
+            "78-82",
+            "102-106"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Ease is the difference between the garment and your body, and it shows the cut before you put it on. By the same math, with the DAZY guide, M is meant for a bust of 82 to 86 cm. That leaves 7 to 11 cm of ease in a regular-fit T-shirt with slight stretch. When only the garment measurement exists, stretch takes the place of ease: in the Essnce, with high stretch, the model on the page wears S, which measures 78 cm, 9 cm less than her bust.",
+        "The guide warns that the piece measurement can vary by 1 to 2 cm, and the descriptions of both T-shirts warn that the fabric changes size after washing at home. If your measurement falls on the edge of one size, those 2 cm decide. So: fabric with no or slight stretch calls for ease, and on the edge the size above; fabric with medium or high stretch calls for the size whose measurement is equal to or below yours, because a lot of ease in a stretchy piece just ends up baggy."
+      ]
+    },
+    {
+      "heading": "What else the page shows: the model and the buyers",
+      "paragraphs": [
+        "After the measurements, the most useful thing is the buyers' table, because it shows real people: height, weight, bust, waist, hips and the size each one ordered. Look there for someone with your measurements and see what they ordered. Just above it sits the buyers' fit rating, in percentages: on the DAZY, 93% found it true to size, 6% found it small and 1% large; on the Essnce, the page says 95% found it true to size. A high share saying it runs small is a warning to go up a size.",
+        "The model is a height reference. On the DAZY, she is 176 cm tall with an 87 cm bust and wears the international M; on the Essnce, 175 cm and an 87 cm bust, in S. Same bust, different letters, in both brands: it's the letter problem again. The size and fit details button shows the model's measurements on the page itself.",
+        "Below the sizes, some pages have a size-finder link that suggests a size. SHEIN's help page says the tool asks for height, age and weight to suggest a letter. When you are logged in, the suggestion appears on its own for some pieces. Use it as a second opinion, never in place of the tape: it does not ask for your bust or your waist, and that is exactly where the letter changes."
+      ]
+    },
+    {
+      "heading": "If it doesn't fit: returns",
+      "paragraphs": [
+        "A wrong size costs the time of two deliveries: the piece goes back before the right one arrives, which is why the tape comes before the order.",
+        "The return policy for your country is in SHEIN's help center. Returns and the store's reputation are covered in [Is SHEIN trustworthy?](/en/reviews/is-shein-legit-and-safe)."
+      ]
+    },
+    {
+      "heading": "Before you buy",
+      "paragraphs": [
+        "The size is settled before the cart, in this order:"
+      ],
+      "bullets": [
+        "Measure bust, waist and hips and write them down in centimeters.",
+        "Open the piece's size guide and keep it on CM.",
+        "Check whether the table is for the piece or for the body. Compare it with your measurement and count the ease.",
+        "Read the fit type and the stretch: fabric that doesn't stretch calls for ease; fabric that stretches, the size that matches your measurement.",
+        "Check the buyers' fit rating and look in their table for someone with your measurements.",
+        "Allow for 1 to 2 cm of variation in the piece and for the change after washing.",
+        "Keep the order confirmation and the tracking number: a return depends on them, if the piece doesn't fit."
+      ],
+      "postParagraphs": [
+        "Delivery time, shipping and what to check before paying are in [Is SHEIN worth it?](/en/reviews/is-shein-worth-it). The 4CW5Y is SHEIN's referral code: you search for it in the app, it is not a coupon and gives no discount; current promotions are on the [SHEIN page](/en/coupons/shein)."
+      ]
+    },
+    {
+      "heading": "Which size to order: a summary by situation",
+      "bullets": [
+        "Fabric without elastane, with no or slight stretch (the DAZY T-shirt): the size whose piece measurement gives the ease you want; if your measurement falls on the edge, the one above.",
+        "Fabric with elastane, medium or high stretch, and only the piece measurement in the guide (the Essnce): the size whose measurement is equal to or below yours, as the model on the page does.",
+        "A brand the page warns runs smaller (the DAZY): read the brand's own body table, not your usual letter.",
+        "Between two sizes and unsure: the one that the buyer with your measurements ordered, in the buyers' table; with nobody similar, the ease decides, by the fabric rule."
+      ],
+      "emphasis": "If it were for my own home, I wouldn't order a size without opening the piece's guide, because the same letter changes from brand to brand."
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "What is my size at SHEIN? Whatever the piece's size guide gives for your measurement in centimeters; the letter changes from brand to brand, as the two T-shirts in the first section show.",
+        "Are SHEIN sizes small? You can't answer by the letter: each piece's page shows the fit type, the stretch and the percentage of buyers who found it true to size, and for the two T-shirts in this guide most found it true to size; the numbers are in the section “What else the page shows”.",
+        "Does SHEIN exchange for another size? It depends on the country: the return and exchange policy for each one is in SHEIN's help center.",
+        "How do I measure my bust for SHEIN? With the tape at the fullest part of the bust, level across the back and not pulling; the section on how to measure also covers the waist and hips."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "The piece measurement in the guide, in centimeters, gives the ease you want, and the fit type and the stretch match what you expect from the fabric.",
+      "The buyers' table on the page has someone with your measurements, and that person ordered the size you are about to order."
+    ],
+    "skipIf": [
+      "You chose by your usual letter without opening the piece's guide: the same letter changes from brand to brand.",
+      "You need the piece on a set date and can't wait for a return: a wrong size costs the time of two deliveries."
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "id": 804,
+  "slug": "tamanho-shein-brasil",
+  "locale": "pt",
+  "translationKey": "shein-tamanho",
+  "title": "Tamanho na SHEIN: qual letra pedir, o tamanho brasileiro e como ler o guia de cada peça",
+  "seoTitle": "Tamanho SHEIN: qual pedir e o tamanho brasileiro de cada peça",
+  "type": "Guia de Tamanho",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "Na SHEIN a mesma letra muda de marca para marca: o M de duas camisetas difere 11 cm no busto. Por isso o tamanho sai da medida da peça em centímetros, não da letra de sempre.",
+  "metaDescription": "Tamanho na SHEIN: a letra muda de marca para marca; o 4CW5Y é código de indicação, pesquisado no app. Meça em centímetros e leia o guia de cada peça.",
+  "publishedAt": "4 de novembro de 2026",
+  "publishedAtISO": "2026-11-04",
+  "draft": false,
+  "isNew": true,
+  "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+  "imageAlt": "Camiseta azul-marinho, camiseta preta de costas e pijama verde estampado em fotos oficiais da SHEIN, com o logo da loja, as letras S, M e L e uma régua",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "label": "Ir para a SHEIN",
+    "text": "Abra o \"Guia de tamanhos\" da peça e compare a medida em centímetros com a sua antes de escolher a letra.",
+    "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+    "sponsored": true
+  },
+  "coupon": "4CW5Y",
+  "affiliate": "shein",
+  "editorialNote": "Podemos receber comissão pelos links da SHEIN. Ninguém da equipe vestiu as peças.",
+  "relatedArticles": [
+    {
+      "slug": "shein-vale-a-pena",
+      "title": "SHEIN vale a pena? Quando compensa comprar e quando é melhor passar"
+    },
+    {
+      "slug": "vestido-de-festa-shein",
+      "title": "Vestido de festa na SHEIN: como escolher pela ocasião, pelo tecido e pelo prazo"
+    },
+    {
+      "slug": "shein-e-confiavel",
+      "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+    },
+    {
+      "slug": "codigo-de-indicacao-shein",
+      "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+    },
+    {
+      "slug": "shein-reclame-aqui-nota-reputacao",
+      "title": "SHEIN no Reclame Aqui: nota, reclamações e o que os dados mostram"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "Na SHEIN, o tamanho se escolhe pela medida em centímetros do guia de cada peça, nunca pela letra de sempre: o M muda de uma marca para outra. Meça o corpo e compare com a peça. Se não servir, a saída é a devolução; o capítulo \"Se não servir\" diz como."
+      ]
+    },
+    {
+      "heading": "A mesma letra muda de marca para marca",
+      "paragraphs": [
+        "Você veste M, pediu M, e a camiseta chegou de outro tamanho: na SHEIN, a letra não serve de régua. A plataforma vende marcas diferentes, e cada marca mede o M do seu jeito. Duas camisetas lisas de manga curta mostram o tamanho do problema."
+      ],
+      "comparisonTable": {
+        "caption": "Busto da peça no tamanho M internacional, pelo \"Guia de tamanhos\" de cada página; o guia inteiro da DAZY está mais abaixo.",
+        "headers": [
+          "Camiseta",
+          "Busto da peça no M",
+          "Letra brasileira do M",
+          "Tipo de ajuste",
+          "Elasticidade",
+          "Tecido"
+        ],
+        "rows": [
+          [
+            "[Camiseta DAZY de manga curta](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
+            "93 cm",
+            "PP",
+            "Regular",
+            "Pouco",
+            "100% algodão"
+          ],
+          [
+            "[Camiseta SHEIN Essnce lisa](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
+            "82 cm",
+            "M",
+            "Entre skinny e regular",
+            "Muito",
+            "95% viscose e 5% elastano"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Conta nossa: pelas medidas da peça nos dois guias, o M da DAZY tem 11 cm a mais de busto que o M da Essnce, quase o busto do XL dela. A loja informa: a própria página da DAZY avisa que a marca \"segue tamanhos asiáticos e é menor do que SHEIN\". Por isso o seletor de tamanho tem a opção \"BR Tamanho\", que mostra a letra daqui ao lado da internacional: o M da DAZY vira PP no Brasil, e o M da Essnce continua M.",
+        "O que isso muda na compra: cada peça tem o próprio guia, e é ele que vale. O jeito de não errar é fechar os olhos para a letra, abrir o \"Guia de tamanhos\" e comparar centímetro com centímetro. Os dois capítulos seguintes mostram como: primeiro o seu corpo, depois o guia."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "alt": "Modelo com a camiseta DAZY azul-marinho de manga curta e gola redonda, de frente, com calça preta e bolsa no ombro",
+          "caption": "Camiseta DAZY: a página avisa que a marca \"é menor do que SHEIN\". Foto oficial da SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7513
+        },
+        {
+          "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "alt": "Modelo com a camiseta preta SHEIN Essnce de manga curta e gola redonda, de frente, com calça jeans e cinto",
+          "caption": "Camiseta SHEIN Essnce: o M dela tem busto menor que o da DAZY. Foto oficial da SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7513
+        }
+      ]
+    },
+    {
+      "heading": "Como medir o corpo",
+      "paragraphs": [
+        "Antes de abrir qualquer guia, você precisa de três números seus: busto, cintura e quadril. Regra prática, sem teste nosso: use fita métrica de costura, sobre roupa leve, com a fita encostada na pele sem apertar. Onde passar a fita em cada medida:"
+      ],
+      "bullets": [
+        "Busto: na parte mais cheia, com a fita reta, passando por baixo dos braços e nas costas na mesma altura.",
+        "Cintura: no ponto mais fino do tronco, em geral um pouco acima do umbigo, respirando normalmente.",
+        "Quadril: na parte mais larga do quadril, com os pés juntos."
+      ],
+      "postParagraphs": [
+        "Anote os três em centímetros. O guia da SHEIN mostra as medidas em centímetros e em polegadas, e o botão \"Alterne para\" troca entre BR Tamanho, IN e CM; para comparar, fique no CM. O próprio guia traz a explicação de como medir: se o seu jeito de medir for o dele, a comparação sai certa. Para camiseta, blusa e vestido, o busto decide; para calça e saia, a cintura e o quadril. Na dúvida entre dois números seus, use o maior: a sobra se ajeita, a falta não."
+      ]
+    },
+    {
+      "heading": "Como ler o guia da peça: medida da peça, medida do corpo e folga",
+      "paragraphs": [
+        "O que decide a letra é saber qual tabela você está olhando, porque o guia da SHEIN pode trazer duas. \"Medições do produto\" é a roupa medida na mesa: o busto da camiseta DAZY no M é a medida da roupa, não a do seu corpo. \"Medições corporais\", quando a peça tem, é a faixa de corpo que a marca indica para cada letra, e a própria nota diz que ela é só para referência. Algumas peças só trazem a da roupa, como a Essnce; aí a comparação é direta entre a sua medida e a medida da peça, e a folga fica por sua conta."
+      ],
+      "comparisonTable": {
+        "caption": "\"Guia de tamanhos\" da camiseta DAZY, lido em 04/11/2026, em centímetros: medida da peça à esquerda (busto e comprimento; ombro e manga ficaram de fora), faixa do corpo à direita.",
+        "headers": [
+          "BR",
+          "Letra",
+          "Busto da peça",
+          "Comprimento",
+          "Altura",
+          "Busto do corpo",
+          "Cintura",
+          "Quadril"
+        ],
+        "rows": [
+          [
+            "XXPP",
+            "XS",
+            "85",
+            "58",
+            "150-155",
+            "74-78",
+            "58-62",
+            "82-86"
+          ],
+          [
+            "XPP",
+            "S",
+            "89",
+            "59",
+            "155-160",
+            "78-82",
+            "62-66",
+            "86-90"
+          ],
+          [
+            "PP",
+            "M",
+            "93",
+            "60",
+            "160-165",
+            "82-86",
+            "66-70",
+            "90-94"
+          ],
+          [
+            "P",
+            "L",
+            "97",
+            "61",
+            "160-165",
+            "86-90",
+            "70-74",
+            "94-98"
+          ],
+          [
+            "M",
+            "XL",
+            "101",
+            "62",
+            "165-170",
+            "90-94",
+            "74-78",
+            "98-102"
+          ],
+          [
+            "G",
+            "XXL",
+            "105",
+            "63",
+            "165-170",
+            "94-98",
+            "78-82",
+            "102-106"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "A folga é a diferença entre a peça e o seu corpo, e ela conta a modelagem antes de você vestir. Pela mesma conta, com o guia da DAZY, o M é indicado para busto de 82 a 86 cm. Sobram de 7 a 11 cm de folga numa camiseta de ajuste regular e elasticidade \"Pouco\". Quando só existe a medida da peça, a elasticidade faz o papel da folga: na Essnce, de elasticidade \"Muito\", a modelo da página veste o S, que mede 78 cm, 9 cm a menos que o busto dela.",
+        "O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade \"Não\" ou \"Pouco\" pede folga, e no limite a letra de cima; tecido \"Médio\" ou \"Muito\" pede a letra cuja medida fica igual ou abaixo da sua, porque folga grande numa peça que estica vira roupa larga."
+      ]
+    },
+    {
+      "heading": "O que mais a página mostra: a modelo e quem comprou",
+      "paragraphs": [
+        "Depois da medida, o que mais ajuda é a tabela de quem comprou, porque ela mostra gente de verdade: altura, peso, busto, cintura, quadril e a letra que cada uma pediu. Procure ali alguém com as suas medidas e veja o que pediu. Logo acima dela vem \"Como o comprador avaliou o look\", em porcentagem: na DAZY, 93% acharam fiel ao tamanho, 6% acharam pequeno e 1% grande; na Essnce, a página diz que 95% acharam fiel ao tamanho. Um número alto de \"pequeno\" é aviso para a letra de cima.",
+        "A modelo serve de régua de altura. Na DAZY, ela tem 176 cm e 87 cm de busto e veste o M internacional (o PP brasileiro); na Essnce, 175 cm e 87 cm de busto, no S (o P brasileiro). Mesmo busto, letras diferentes, nas duas marcas: é o capítulo da letra outra vez. O botão \"Tamanho e ajuste\" mostra essas medidas da modelo na própria página.",
+        "Abaixo das letras, algumas páginas trazem o link \"Diga-me o seu tamanho\"; a página de ajuda da SHEIN chama o recurso de \"Verificar meu tamanho\" e diz que ele pede altura, idade e peso para sugerir uma letra. Com login, a sugestão aparece sozinha em algumas peças. Use como segunda opinião, nunca no lugar da fita: ele não pergunta o seu busto nem a sua cintura, e é nisso que a letra muda."
+      ]
+    },
+    {
+      "heading": "Envio Nacional: a letra brasileira e a tabela do vendedor",
+      "paragraphs": [
+        "Na peça de loja parceira local, a letra pode vir só na forma brasileira, sem a internacional ao lado, e quem decide é a tabela da loja. No vestido midi de alfaiataria de uma loja parceira, as letras vão de P a GG, e a tabela está numa foto da galeria do produto: busto, cintura, quadril e comprimento, com 92 cm de busto no M. Outro M, outro número: compare com a sua medida do mesmo jeito, e lembre que ali é a medida da peça.",
+        "Para quem o Envio Nacional serve: quem quer a letra que já conhece e o prazo curto. Quando não: se a página não mostra tabela nenhuma, nem na galeria, não escolha pela letra; procure a peça em outra loja da plataforma."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/tamanho-shein-tabela-loja-parceira.webp",
+          "alt": "Tabela de medidas de uma loja parceira de Envio Nacional: busto, cintura, quadril e comprimento do vestido em P, M, G e GG",
+          "caption": "A tabela da loja vem numa foto da galeria, com a letra brasileira. Foto da loja parceira na SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 1.0
+        },
+        {
+          "src": "/images/reviews/shein/tamanho-shein-vestido-loja-parceira.webp",
+          "alt": "Modelo com o vestido midi de alfaiataria terracota, sem manga, com amarração na cintura e fenda, diante do espelho",
+          "caption": "O vestido da tabela acima, de loja parceira. Foto da loja parceira na SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.8
+        }
+      ]
+    },
+    {
+      "heading": "Se não servir: a devolução",
+      "paragraphs": [
+        "Errar a letra custa o tempo de duas entregas: a peça volta antes de a certa chegar, e é por isso que a fita vem antes do pedido. No Brasil, a política não prevê troca: quem errou a letra devolve a peça, recebe o reembolso e faz um pedido novo com a letra certa.",
+        "A devolução é em até 20 dias do recebimento. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso. Body, roupa de banho e roupa íntima só voltam nos 7 dias do direito de arrependimento, então nessas a medida pede ainda mais cuidado. A devolução e a reputação da loja estão em [SHEIN é confiável?](/reviews/shein-e-confiavel)."
+      ]
+    },
+    {
+      "heading": "Antes de comprar",
+      "paragraphs": [
+        "A letra se decide antes do carrinho, nesta ordem:"
+      ],
+      "bullets": [
+        "Meça busto, cintura e quadril e anote em centímetros.",
+        "Abra o \"Guia de tamanhos\" da peça e deixe em CM; o \"BR Tamanho\" mostra a letra daqui ao lado da internacional.",
+        "Veja se a tabela é da peça ou do corpo. Compare com a sua medida e conte a folga.",
+        "Leia o tipo de ajuste e a elasticidade: tecido que não estica pede folga; tecido que estica, a letra da sua medida.",
+        "Confira \"Como o comprador avaliou o look\" e procure, na tabela de compradores, alguém com as suas medidas.",
+        "Em peça de Envio Nacional, procure a tabela do vendedor na galeria de fotos.",
+        "Conte com 1 a 2 cm de variação na peça e com a mudança depois da lavagem.",
+        "Guarde a confirmação do pedido e o rastreio: é com eles que a devolução anda, se a peça não servir."
+      ],
+      "postParagraphs": [
+        "Prazo, frete, imposto de importação e o que conferir antes de pagar estão em [SHEIN vale a pena?](/reviews/shein-vale-a-pena). O 4CW5Y é o código de indicação da SHEIN: pesquisa-se no aplicativo, não é cupom e não dá desconto; as campanhas do momento ficam na [página da SHEIN](/cupons/shein)."
+      ]
+    },
+    {
+      "heading": "Qual letra pedir: o resumo por situação",
+      "bullets": [
+        "Tecido sem elastano, elasticidade \"Não\" ou \"Pouco\" (a camiseta DAZY): a letra cuja medida da peça dá a folga que você usa; se a sua medida cai no limite, a de cima.",
+        "Tecido com elastano, elasticidade \"Médio\" ou \"Muito\", e só a medida da peça no guia (a Essnce): a letra cuja medida fica igual ou abaixo da sua, como faz a modelo da página.",
+        "Marca que a página avisa ser menor (a DAZY): leia a tabela do corpo da própria marca, não a sua letra de sempre; o \"BR Tamanho\" já faz a conversão no seletor.",
+        "Envio Nacional: a tabela do vendedor, com a letra brasileira.",
+        "Entre duas letras e sem certeza: a que a tabela de compradores com as suas medidas pediu; sem ninguém parecido, a folga decide, pela regra do tecido."
+      ],
+      "emphasis": "Se fosse para a minha casa, eu não pediria letra sem abrir o guia da peça, porque a mesma letra muda de marca para marca."
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Qual é o meu tamanho na SHEIN? O que o \"Guia de tamanhos\" da peça disser para a sua medida em centímetros; a letra muda de marca para marca, como mostram as duas camisetas do primeiro capítulo.",
+        "O M da SHEIN é o M brasileiro? Depende da marca: o seletor \"BR Tamanho\" mostra a letra daqui ao lado da internacional, e o M internacional da DAZY aparece como PP, enquanto o da SHEIN Essnce segue M.",
+        "Os tamanhos da SHEIN são pequenos? Não dá para responder pela letra: a página de cada peça mostra o tipo de ajuste, a elasticidade e a porcentagem de compradores que acharam fiel ao tamanho, e nas duas camisetas deste guia a maioria achou fiel; os números estão no capítulo \"O que mais a página mostra\".",
+        "A SHEIN troca por outro tamanho? Não; a política tem devolução e reembolso, e o tamanho certo vem num pedido novo, como explica o capítulo da devolução.",
+        "Como medir o busto para a SHEIN? Com a fita na parte mais cheia do busto, reta nas costas e sem apertar; o capítulo de como medir traz a cintura e o quadril."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "A medida da peça no guia, em centímetros, dá a folga que você usa, e o tipo de ajuste e a elasticidade batem com o que você espera do tecido.",
+      "A tabela de compradores da página tem alguém com as suas medidas e essa pessoa pediu a letra que você vai pedir."
+    ],
+    "skipIf": [
+      "Você escolheu pela letra de sempre sem abrir o guia da peça: a mesma letra muda de marca para marca.",
+      "Você precisa da peça numa data marcada e não pode esperar a devolução: errar a letra custa o tempo de duas entregas."
+    ]
+  }
+}

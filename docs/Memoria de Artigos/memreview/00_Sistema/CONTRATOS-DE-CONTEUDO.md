@@ -28,7 +28,7 @@
     | zh-hant | 獎勵碼 |
     | zh-hans | 奖励码 |
 
-  - **`4CW5Y` (SHEIN) é código de indicação** da SHEIN Brasil, pesquisado no aplicativo. Fora do português, o texto avisa que o código e as campanhas são da SHEIN Brasil.
+  - **`4CW5Y` (SHEIN) é código de indicação** da SHEIN, pesquisado no aplicativo: não dá desconto, não é cupom e não "soma". A SHEIN é plataforma global: nenhum texto diz "SHEIN Brasil", e fora do português o código e as campanhas não levam aviso de país, porque o link e o código levam o visitante à loja da região dele (regra do Bruno de 02/11).
   - Os cupons promocionais da YesStyle (como o MIDS26) vencem e não entram no texto do artigo: o artigo manda para a página da loja, que mostra os vigentes.
   - **Hostinger é indicação por link, não cupom:** o SONARDEOFERTAS vai dentro do link e o leitor não digita nada. Nunca chamar de cupom nem mandar digitar o código. Todo texto diz que os 20% valem **só no primeiro período** e que **não somam** com outros cupons.
   - **CECI (Dolce Gusto):** o limite de 3 usos é por campanha, e o mesmo código volta na campanha seguinte (Bruno, 19/10/2026). No máximo uma frase sobre o limite; nunca tratá-lo como desconto de uso único. Nunca indicar o CECI em fórmula infantil de 0 a 12 meses.

@@ -5,7 +5,7 @@ modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
 idiomas_alvo: [pt, en, es, fr, de, it, ko, ja, zh-hant, zh-hans]
 fonte_tecnica: "00_Sistema/JOBS/Job-4-Conformacao-JSON.md (seção 3)"
-ultima_revisao: "2026-10-12"
+ultima_revisao: "2026-11-04"
 ---
 
 # Cluster multilíngue — SHEIN
@@ -30,9 +30,9 @@ e `/<locale>/coupons/shein`), servida por rota dinâmica com os textos de
 
 | Tipo | Como sai | Atenção |
 |---|---|---|
-| Guia (código, campanhas, como usar) | localização editorial do PT | código e campanhas são da SHEIN Brasil |
-| Tabela de medidas | idem | medidas e numeração são as da SHEIN Brasil; não converter para outra numeração |
-| Haul de peças recebidas | família de 10, com as mesmas peças e fotos do PT | preço em reais, tamanho comprado e disponibilidade são da SHEIN Brasil |
+| Guia (código, campanhas, como usar, compra, tamanho) | localização editorial do PT | código e campanhas valem em todo idioma, sem aviso de país; preço em reais, frete, imposto e Envio Nacional só no PT |
+| Tabela de medidas | idem | as medidas da página de cada peça, em cm, sem converter; a letra brasileira (P, M, G) e a tabela do vendedor do Envio Nacional só no PT |
+| Haul de peças recebidas | família de 10, com as mesmas peças e fotos do PT | preço em reais, frete e imposto só no PT; as traduções não convertem moeda nem tamanho |
 | Editorial e comparativo (confiança, X ou Y) | núcleo igual + bloco do mercado do idioma (decisão A do Bruno, 12/10/2026) | os fatos de mercado vêm só do site da SHEIN daquele mercado; nada do Brasil; o que não foi lido, o texto diz que não leu |
 
 ## Matriz atual
@@ -40,21 +40,29 @@ e `/<locale>/coupons/shein`), servida por rota dinâmica com os textos de
 | Chave | Fonte PT | Idiomas | Estado |
 |---|---|---:|---|
 | `shein-black-friday` | [[02_Artigos/black-friday-shein]] | 10/10 | publicado em 11/10/2026; a primeira família da SHEIN |
-| `shein-referral-code` | [[02_Artigos/codigo-de-indicacao-shein]] | 10/10 | pronto para deploy em 12/10/2026 (fase 4); as traduções não trazem o programa antigo nem o R$ 10 |
-| `shein-trust` | [[02_Artigos/shein-e-confiavel]] | 10/10 | pronto para deploy em 12/10/2026 (fase 4); núcleo + bloco de mercado, capa com o site de cada mercado |
-| `shein-vs-shopee-temu` | [[02_Artigos/shein-ou-shopee-temu]] | 10/10 | pronto para deploy em 12/10/2026 (fase 4); núcleo + bloco de mercado, com o concorrente de cada idioma |
+| `shein-referral-code` | [[02_Artigos/codigo-de-indicacao-shein]] | 10/10 | publicado em 13/10/2026 (#73); as traduções não trazem o programa antigo nem o R$ 10 |
+| `shein-trust` | [[02_Artigos/shein-e-confiavel]] | 10/10 | publicado em 13/10/2026 (#73); núcleo + bloco de mercado, capa com o site de cada mercado |
+| `shein-vs-shopee-temu` | [[02_Artigos/shein-ou-shopee-temu]] | 10/10 | publicado em 13/10/2026 (#73); núcleo + bloco de mercado, com o concorrente de cada idioma |
+| `shein-11-11` | [[02_Artigos/shein-11-11-selecao-da-cecilia]] | 10/10 | publicado em 28/10/2026 (#339 e #340, ids 640–649) |
+| `shein-reputation` | [[02_Artigos/shein-reclame-aqui-nota-reputacao]] | 10/10 | publicado em 29/10/2026 (#348, ids 696–705) |
+| `shein-vestido-festa` | [[02_Artigos/vestido-de-festa-shein]] | 10/10 | publicado em 30/10/2026 (#379, ids 761–770); a nota do artigo ainda está como `pauta-aprovada` |
+| `shein-vale-a-pena` | [[02_Artigos/shein-vale-a-pena]] | 10/10 | Job 4 em 04/11/2026 (ids 794–803); 8 capítulos fora do PT, sem os 3 do Brasil |
+| `shein-tamanho` | [[02_Artigos/tamanho-shein-brasil]] | 10/10 | Job 4 em 04/11/2026 (ids 804–813); 9 capítulos fora do PT, sem o do Envio Nacional; o slug `tamanho-shein-brasil` é só do PT |
 
 Cada família nova entra aqui com a chave, o slug da fonte em português e a data (Job 4,
 seção 3, item 9).
 
 ## Regras específicas
 
-- `4CW5Y` é **código de indicação** da SHEIN Brasil, pesquisado no aplicativo da SHEIN.
+- `4CW5Y` é **código de indicação** da SHEIN, pesquisado no aplicativo: não dá desconto,
+  não é cupom e não soma.
   Aparece como `4CW5Y` nas 10 versões, sem prometer percentual nem benefício que o
   `couponsData.ts` não traga. O nome do código em cada idioma é o da página da loja
   (`referral.label` em `couponTranslations.ts`).
-- Fora do português, o texto avisa que o código e as campanhas são da SHEIN Brasil e
-  podem não valer em outro país, como já faz a página da loja.
+- A SHEIN é plataforma global: nenhum texto diz "SHEIN Brasil", e fora do português o
+  código e as campanhas não levam aviso de país, porque o link e o código levam o
+  visitante à loja da região dele (regra do Bruno de 02/11). O aviso de país das
+  traduções saiu nessa data.
 - Nas 10 versões: `affiliate: "shein"` e `coupon: "4CW5Y"`. A build reprova valores
   diferentes entre as versões.
 - Link do `cta`, sempre com `"sponsored": true`:
@@ -71,9 +79,9 @@ seção 3, item 9).
 - URL do artigo: `/reviews/<slug>` em português e `/<locale>/reviews/<slug>` nos
   outros idiomas. Sai sozinha do `locale` do JSON; não criar `page.tsx`, hreflang nem
   entrada em `clusters/`.
-- Preço (em reais), tamanhos, estoque, disponibilidade e campanhas são fatos da SHEIN
-  Brasil. As traduções dizem isso de forma explícita e não convertem moeda nem
-  tamanho.
+- Preço em reais, frete, imposto, Envio Nacional e a letra brasileira dos tamanhos são
+  fatos do Brasil e ficam só no português (`[só PT]` no rascunho). As traduções não
+  convertem moeda nem tamanho e não acrescentam fato de outro país sem fonte própria.
 - As campanhas (como "produtos selecionados" e "50% para novos usuários") têm prazo e
   mudam. Decisão do Bruno em 07/10/2026: elas ficam fora do texto dos artigos, como os
   cupons promocionais da YesStyle. O artigo manda para a página da loja, que mostra as
@@ -85,10 +93,13 @@ seção 3, item 9).
   traduções, o haul leva o link de cada peça, o mesmo deep link convertido do haul em
   português, copiado do arquivo. Nunca editar o link e nunca abrir nem clicar: o
   clique registra atribuição. O `cta` continua no link neutro (regra acima).
-  - Ressalva: o `test:review-i18n` barra, fora do português, links do host
-    `br.shein.com` e os links de oferta e de campanha do cupom em PT. Se o deep link de
-    uma peça for desse host, a versão traduzida falha no build. Nesse caso, levar ao
-    Bruno antes de publicar, sem mexer no teste.
+  - Desde 02/11 o `br.shein.com` vale em todo idioma: a SHEIN está em
+    `INTERNATIONAL_STORES` (`src/lib/storeBanners.ts`), e o `test:review-i18n` não barra
+    mais esse host fora do português.
+- Foto com link de produto (`href` da imagem) só em capítulo que existe nas 10 versões: o
+  `test:review-i18n` exige o mesmo `href`, foto a foto, em toda a família, e capítulo
+  `[só PT]` com foto linkada quebra a conferência (lição do `shein-vale-a-pena`, 04/11). O
+  link da peça vai no texto ou na tabela.
 
 ## Gates adicionais
 
@@ -109,6 +120,8 @@ Os testes de idioma (`test:review-i18n`, `test:html-lang` e `test:build-output`)
   toda versão fora do português tem `hideFromPortugueseListings: true` (o
   `validate:content` só cobra a flag nas famílias da YesStyle).
 - Releitura das traduções, um idioma por vez, de preferência por outro agente, como
-  no item 10 da seção 3 do Job 4. Na SHEIN, conferir também o aviso da SHEIN Brasil, o
-  preço em reais dito como tal e a ausência de link brasileiro fora do português.
+  no item 10 da seção 3 do Job 4. Na SHEIN, conferir também que nenhum texto fala em "SHEIN
+  Brasil" nem em país, que nenhum fato do Brasil (preço em reais, frete, imposto, Envio
+  Nacional, letra brasileira dos tamanhos) passou para a tradução, que o 4CW5Y tem o nome
+  do `referralCodeLabel` do idioma e que o `cta` fora do português é o link neutro.
   Registrar na nota do artigo a data da releitura e o que mudou.

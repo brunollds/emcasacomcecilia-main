@@ -12,7 +12,7 @@ revisao_geral_ate: "2027-01-07"
 
 | Dado | Fonte canônica | Regra |
 |---|---|---|
-| Código de indicação `4CW5Y` | `referral` do cupom `shein` em `src/lib/couponsData.ts` | é código de indicação da SHEIN Brasil, pesquisado no aplicativo da SHEIN; não tratar como percentual fixo de desconto nem extrapolar benefício |
+| Código de indicação `4CW5Y` | `referral` do cupom `shein` em `src/lib/couponsData.ts` | é código de indicação da SHEIN, pesquisado no aplicativo, sem desconto, sem ser cupom e sem somar; não tratar como percentual fixo de desconto nem extrapolar benefício |
 | Link comercial em português | `offerUrl` do mesmo cupom | link brasileiro ligado ao código; é o CTA das versões em português |
 | Link comercial fora do português | `offerUrl` de `COUPON_TRANSLATIONS.shein` em `src/lib/couponTranslations.ts` | link neutro, sem `br.`; é o CTA das 9 traduções |
 | Campanhas | `campaigns` do mesmo cupom | têm prazo e mudam; ficam fora do texto dos artigos, que mandam para a página da loja |
@@ -29,9 +29,11 @@ clique registra atribuição.
 - **Modo:** `paridade-completa`. Guias e hauls saem nos 10 idiomas (o português e 9
   traduções), como uma família com a mesma `translationKey`. Não há gate de conversão.
 - **Contrato do JSON:** seção 3 do `00_Sistema/JOBS/Job-4-Conformacao-JSON.md`.
-- **Mercado dos fatos comerciais:** SHEIN Brasil. O código de indicação, as campanhas,
-  o preço em reais, os tamanhos e a disponibilidade são de lá; as traduções dizem isso
-  e não convertem moeda nem tamanho.
+- **Mercado dos fatos comerciais:** a leitura é feita em `br.shein.com`. O preço em reais,
+  o frete, o imposto, o Envio Nacional e a letra brasileira dos tamanhos ficam só no
+  português (`[só PT]` no rascunho), e as traduções não convertem moeda nem tamanho. O
+  código de indicação, os links e as campanhas valem em todo idioma, sem aviso de país:
+  a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil" (regra do Bruno de 02/11).
 - **Link do CTA em cada idioma:** português, o link brasileiro do código; os outros 9
   idiomas, o link neutro (tabela da seção 1).
 - **Link da loja:** `/cupons/shein` em português e `/<locale>/coupons/shein` nos outros.
@@ -41,9 +43,9 @@ clique registra atribuição.
 
 ## 3. Black Friday e regras da loja (páginas oficiais, lidas em 11/10/2026)
 
-As páginas de ajuda da SHEIN Brasil (`br.shein.com/<nome>-a-<id>.html`) abrem sem bloqueio, mas o
-texto vem no JSON da página (`articleInfo.conText`), não no HTML. Nos artigos fora do PT, nenhum link
-para `br.shein.com` (o `test:review-i18n` barra o host).
+As páginas de ajuda de `br.shein.com` (`br.shein.com/<nome>-a-<id>.html`) abrem sem bloqueio, mas o
+texto vem no JSON da página (`articleInfo.conText`), não no HTML. Desde 02/11 (#493) o `br.shein.com`
+vale em todo idioma, e o `test:review-i18n` não barra mais o host fora do PT.
 
 | Dado | Fonte | Regra |
 |---|---|---|

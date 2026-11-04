@@ -9,7 +9,7 @@
 // Os caminhos de imagem da especificação são relativos ao arquivo dela (ou absolutos). A capa sai em
 // <out>/<nome>.png e <out>/<nome>.webp; quem leva o WebP para public/images é o fluxo do Job 6.
 import { execFileSync } from 'node:child_process';
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, mkdtempSync, readFileSync, rmSync, statSync, writeFileSync } from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
@@ -34,6 +34,8 @@ const ICONS = {
   truck: '<path d="M2 6h11v9H2zM13 9h4l4 4v2h-8z"/><circle cx="6.5" cy="17.5" r="1.8"/><circle cx="17" cy="17.5" r="1.8"/>',
   clock: '<circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>',
   receipt: '<path d="M6 3h12v18l-3-2-3 2-3-2-3 2z"/><path d="M9 8h6M9 12h6M9 16h4"/>',
+  ruler: '<rect x="2" y="8" width="20" height="8" rx="1.5"/><path d="M6 8v3M10 8v4M14 8v3M18 8v4"/>',
+  return: '<path d="M9 14L4 9l5-5"/><path d="M4 9h10.5a5.5 5.5 0 0 1 0 11H11"/>',
 };
 
 const CSS = `
@@ -176,6 +178,19 @@ export async function checkScene(c, baseDir) {
   }
 }
 
+// Espera o arquivo existir com o mesmo tamanho em duas leituras seguidas.
+async function waitForFile(file, ms = 30000) {
+  const end = Date.now() + ms;
+  let last = -1;
+  while (Date.now() < end) {
+    const size = existsSync(file) ? statSync(file).size : -1;
+    if (size > 0 && size === last) return true;
+    last = size;
+    await new Promise((resolve) => setTimeout(resolve, 250));
+  }
+  return false;
+}
+
 export async function render(spec, baseDir, only) {
   const out = path.resolve(baseDir, spec.out || 'out');
   mkdirSync(out, { recursive: true });
@@ -194,15 +209,24 @@ export async function render(spec, baseDir, only) {
       const file = path.join(tmp, `${c.name}.html`);
       writeFileSync(file, html);
       const png = path.join(out, `${c.name}.png`);
+      rmSync(png, { force: true });
+      // Perfil próprio: com o Edge aberto, o headless no perfil padrão entrega a página à janela aberta e sai sem captura.
       execFileSync(exe, ['--headless=new', '--disable-gpu', '--hide-scrollbars', '--force-device-scale-factor=1',
-        `--screenshot=${png}`, `--window-size=${W},${H}`, pathToFileURL(file).href], { stdio: 'ignore' });
+        `--user-data-dir=${path.join(tmp, 'perfil')}`, `--screenshot=${png}`, `--window-size=${W},${H}`, pathToFileURL(file).href], { stdio: 'ignore' });
+      // O msedge.exe volta antes de o processo do navegador gravar a captura.
+      if (!(await waitForFile(png))) throw new Error(`${c.name}: o navegador (${exe}) não gravou a captura`);
       const meta = await sharp(png).metadata();
       if (meta.width !== W || meta.height !== H) throw new Error(`${c.name}: saiu ${meta.width}x${meta.height}, esperado ${W}x${H}`);
       await sharp(png).webp({ quality: 86 }).toFile(path.join(out, `${c.name}.webp`));
       console.log('ok', c.name, path.join(out, `${c.name}.webp`));
     }
   } finally {
-    rmSync(tmp, { recursive: true, force: true });
+    // O navegador segura o perfil por alguns instantes depois da captura.
+    try {
+      rmSync(tmp, { recursive: true, force: true, maxRetries: 20, retryDelay: 250 });
+    } catch (error) {
+      console.warn(`aviso: a pasta temporária ficou em ${tmp} (${error.code})`);
+    }
   }
 }
 

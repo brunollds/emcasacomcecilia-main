@@ -62,7 +62,7 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - Como usar diz como vestir, não repete a ficha. Combina com só leva o que acrescenta: nada de chinelo ou meia genéricos; sem combinação útil, a peça fica só com como usar e ocasião (acessórios, pijamas, roupa íntima).
 - Sem preço e sem markdown no card. Sem dizer que alguém do site usou a peça.
 - Link da peça é o de afiliado (na Insider, o link de criador `creators.insiderstore.com.br/<código>`, conferido pelo redirecionamento até o produto certo). Peça sem link fica sem `url`; esgotada fica fora do card.
-- Família de 10 idiomas: o mesmo card e o mesmo `href` em toda versão, na mesma seção e posição; como usar, ocasião e nota traduzidos. Na SHEIN, o link de produto `onelink.shein.com` vale em todo idioma (a SHEIN leva o leitor à loja regional); `br.shein.com` e os links de cupom do PT ficam só no PT. O `test:review-i18n` barra a diferença.
+- Família de 10 idiomas: o mesmo card e o mesmo `href` em toda versão, na mesma seção e posição; como usar, ocasião e nota traduzidos. Na SHEIN, o link de produto vale em todo idioma, `onelink.shein.com` ou `br.shein.com` (a SHEIN leva o leitor à loja regional; regra de 02/11); os links de cupom do PT ficam só no PT. O `test:review-i18n` barra a diferença.
 - O briefing traz o card proposto de cada seção para o Bruno aprovar junto com a pauta.
 
 ### Snippet com o código
