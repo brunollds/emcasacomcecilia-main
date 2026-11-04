@@ -71,6 +71,58 @@ assert.equal(storeBannersOverlap({ startsAt: day(5), endsAt: day(27) }, { starts
 assert.equal(storeBannersOverlap({}, { startsAt: day(27) }), true, 'campanha sem datas');
 assert.equal(storeBannersOverlap({ endsAt: day(10) }, { startsAt: day(11) }), false, 'sem início, acaba antes');
 
+// Campanha sem fim não some sozinha, e a loja pode ter encerrado sem ninguém ver: a que passou 7 dias ou mais sem
+// conferência entra no aviso do fim do teste, para a reconferência da rodada. O dia é o de Brasília (-03:00, sem
+// horário de verão).
+const RECHECK_AFTER_DAYS = 7;
+const brasiliaDay = (date: Date) => new Date(date.getTime() - 3 * 3_600_000).toISOString().slice(0, 10);
+const daysBetween = (from: string, to: string) => Math.round((Date.parse(`${to}T00:00:00Z`) - Date.parse(`${from}T00:00:00Z`)) / 86_400_000);
+const openEndedToRecheck = (banners: StoreBanner[], today: string) =>
+  banners
+    .filter((banner) => !banner.endsAt)
+    .map(({ id, verifiedAt }) => ({ id, days: daysBetween(verifiedAt, today) }))
+    .filter(({ days }) => days >= RECHECK_AFTER_DAYS)
+    .sort((a, b) => b.days - a.days || a.id.localeCompare(b.id));
+const recheckWarning = (banners: StoreBanner[], today: string) => {
+  const list = openEndedToRecheck(banners, today);
+  if (!list.length) return null;
+  return `campanhas sem fim, conferidas há ${RECHECK_AFTER_DAYS} dias ou mais, para reconferir na rodada: ${list.map(({ id, days }) => `${id} (${days} dias)`).join(', ')}`;
+};
+
+// Às 23h59 de domingo em Brasília já é segunda em UTC.
+assert.equal(brasiliaDay(new Date('2026-11-09T02:59:59Z')), '2026-11-08', '23h59 em Brasília');
+assert.equal(brasiliaDay(new Date('2026-11-09T03:00:00Z')), '2026-11-09', 'meia-noite em Brasília');
+// A campanha com fim e a conferida há menos de 7 dias ficam fora do aviso. O `sample` herda as datas de uma campanha
+// real: aqui o que não vem em `dates` fica sem início e sem fim.
+const checked = (id: string, verifiedAt: string, dates: Pick<StoreBanner, 'startsAt' | 'endsAt'> = {}): StoreBanner => ({
+  ...sample(id, 'h', 'top', { startsAt: undefined, endsAt: undefined, ...dates }),
+  verifiedAt,
+});
+const toRecheck = [
+  checked('conferida-ha-6-dias', '2026-11-09'),
+  checked('conferida-ha-7-dias', '2026-11-08'),
+  checked('a-mesma-idade', '2026-11-08'),
+  checked('agendada-sem-fim', '2026-11-01', { startsAt: day(27) }),
+  checked('com-fim', '2026-10-01', { endsAt: day(30, '23:59:59') }),
+  checked('conferida-ha-12-dias', '2026-11-03'),
+];
+assert.deepEqual(
+  openEndedToRecheck(toRecheck, '2026-11-15'),
+  [
+    { id: 'agendada-sem-fim', days: 14 },
+    { id: 'conferida-ha-12-dias', days: 12 },
+    { id: 'a-mesma-idade', days: 7 },
+    { id: 'conferida-ha-7-dias', days: 7 },
+  ],
+  'sem fim e sem conferência há 7 dias ou mais, a mais antiga primeiro e, no empate, pelo id'
+);
+assert.equal(
+  recheckWarning(toRecheck, '2026-11-15'),
+  'campanhas sem fim, conferidas há 7 dias ou mais, para reconferir na rodada: agendada-sem-fim (14 dias), conferida-ha-12-dias (12 dias), a-mesma-idade (7 dias), conferida-ha-7-dias (7 dias)',
+  'texto do aviso'
+);
+assert.equal(recheckWarning([toRecheck[0], toRecheck[4]], '2026-11-15'), null, 'nada a reconferir: sem aviso');
+
 // O lugar 1 depois da 1ª seção; o 2 antes do FAQ ou, sem FAQ, antes da última, com uma seção inteira entre os dois.
 assert.deepEqual(placeStoreBanners([], -1), {});
 assert.deepEqual(placeStoreBanners(['a', 'b', 'c', 'faq'], 3), { top: 'a', mid: 'faq', end: 'faq' }, 'end depois do FAQ');
@@ -157,4 +209,7 @@ const expired = STORE_BANNERS.filter((banner) => banner.endsAt && Date.parse(ban
 if (expired.length) {
   console.warn(`campanhas vencidas, para apagar de content/campanhas/: ${expired.map(({ id }) => `${id}.json`).join(', ')}`);
 }
+// A sem fim também não para o build. O aviso é para ver se a loja ainda a mantém e, se sim, avançar o verifiedAt.
+const recheck = recheckWarning(STORE_BANNERS, brasiliaDay(new Date()));
+if (recheck) console.warn(recheck);
 console.log(`banners de campanha: ${STORE_BANNERS.length} campanhas conferidas, ${STORE_BANNERS.length - expired.length} no prazo`);
