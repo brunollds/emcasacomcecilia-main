@@ -55,6 +55,10 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
+- [ ] [[mais-mu-e-boa-0311]]: Mais Mu é boa? Whey, Exquenta e barras pelo rótulo; creatina só citada (PT, id 784; linha "é boa", lote 2, Fable 5.1 no Job 2)
+- [ ] [[dr-peanut-e-boa-0311]]: Dr. Peanut é boa? Pasta, whey e snacks pelo rótulo (PT, id 785; linha "é boa", lote 2, Fable 5.1 no Job 2)
+- [ ] [[belive-e-boa-0311]]: Belive é boa? Doces sem açúcar, salgadinhos e pães pelo rótulo (PT, id 786; linha "é boa", lote 2, Fable 5.1 no Job 2)
+- [ ] [[simple-organic-e-boa-0311]]: Simple Organic é boa? Séruns, soluções e hidratantes pelo rótulo (PT, id 787; linha "é boa", lote 2, Fable 5.1 no Job 2)
 
 ---
 
