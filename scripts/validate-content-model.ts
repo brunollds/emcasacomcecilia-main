@@ -74,6 +74,12 @@ function reportWarning(warning: ValidationWarning): void {
   warnings.push(warning);
 }
 
+// Itálico de markdown (*texto*), aberto depois de espaço, parêntese ou aspas. Não pega o **negrito** nem o
+// asterisco colado na palavra das citações de loja ("NESPRESSO®* ORIGINAL", "Garantia Vitalícia *confira").
+const MARKDOWN_ITALIC = /(^|[\s("“])\*(?![\s*])[^*]*[^\s*]\*(?![*\p{L}\p{N}])/u;
+// Os campos do card de estilo escritos como texto, como o rascunho do Job 2 os traz.
+const STYLING_AS_TEXT = /^(piece|howTo|occasion|pairsWith|variants):/;
+
 // O card de estilo (ArticleStyling): o modelo, de 1 a 3 peças, cada uma com algum dos três campos, de 1 a 4 itens
 // no "combina com", links https e amostras de cor em hex. O markdown cru o plainTextBody já barra.
 function getStylingProblems(styling: ContentSectionStyling): string[] {
@@ -547,6 +553,23 @@ for (const review of reviews) {
         for (const problem of getStylingProblems(section.styling)) {
           reportError({ type: 'review', id: review.id, slug: review.slug, message: `card de estilo em "${section.heading}": ${problem}` });
         }
+      }
+      // A página não lê itálico de markdown e mostra o asterisco: a legenda da tabela vai em
+      // comparisonTable.caption. O card de estilo vai no campo styling, nunca em bullets "piece: …".
+      const sectionTexts = [
+        ...(section.paragraphs || []),
+        ...(section.postParagraphs || []),
+        ...(section.bullets || []),
+        section.emphasis,
+        section.comparisonTable?.caption,
+      ].filter((text): text is string => typeof text === 'string');
+      for (const text of sectionTexts) {
+        if (MARKDOWN_ITALIC.test(text)) {
+          reportError({ type: 'review', id: review.id, slug: review.slug, message: `itálico de markdown em "${section.heading}", que a página mostra com o asterisco: ${text.slice(0, 80)}` });
+        }
+      }
+      if ((section.bullets || []).some((bullet) => STYLING_AS_TEXT.test(bullet))) {
+        reportError({ type: 'review', id: review.id, slug: review.slug, message: `card de estilo em bullets em "${section.heading}": use o campo styling` });
       }
     }
     // O FAQ corta a pergunta no primeiro "?": "**Pergunta?** resposta" vira a pergunta "**Pergunta?" e a

@@ -73,18 +73,11 @@
             "Off white, preto e marrom, uma de cada",
             "R$ 387,00"
           ]
-        ]
+        ],
+        "caption": "Preço de lista no site, 03/11. A loja põe os kits em promoção com frequência: o preço riscado é o de lista, e o cupom entra sobre o preço do dia."
       },
-      "bullets": [
-        "piece: T-Shirt Oversized Algodão; url: https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
-        "howTo: Solta, com jeans, short ou saia, segundo a loja.",
-        "occasion: Dia a dia; com uma peça de alfaiataria por cima, vira produção de trabalho.",
-        "pairsWith: Shorts Alfaiataria Rosa Linho (url https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402; note: a página do shorts indica camisetas básicas), jeans, saia, calça de alfaiataria."
-      ],
       "postParagraphs": [
-        "*Preço de lista no site, 03/11. A loja põe os kits em promoção com frequência: o preço riscado é o de lista, e o cupom entra sobre o preço do dia.*",
-        "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, porque é no kit em promoção que a camiseta fica mais barata por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa).",
-        "**Card de estilo (styling, layout tabs, 1 peça):**"
+        "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, porque é no kit em promoção que a camiseta fica mais barata por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa)."
       ],
       "images": [
         {
@@ -94,7 +87,34 @@
           "objectFit": "square",
           "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tabs",
+        "items": [
+          {
+            "piece": "T-Shirt Oversized Algodão",
+            "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+            "howTo": "Solta, com jeans, short ou saia, segundo a loja.",
+            "occasion": "Dia a dia; com uma peça de alfaiataria por cima, vira produção de trabalho.",
+            "pairsWith": [
+              {
+                "label": "Shorts Alfaiataria Rosa Linho",
+                "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402",
+                "note": "a página do shorts indica camisetas básicas"
+              },
+              {
+                "label": "jeans"
+              },
+              {
+                "label": "saia"
+              },
+              {
+                "label": "calça de alfaiataria"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Bodies Second Skin: nove modelos, dois preços",
@@ -153,22 +173,11 @@
             "Gola alta em tule",
             "R$ 159,00"
           ]
-        ]
+        ],
+        "caption": "Preço de lista no site. Os bodies costumam estar em promoção, e o Gola Alta e o Duplo têm o \"leve 3\" na própria página, que baixa o preço por peça."
       },
-      "bullets": [
-        "piece: Body Gola Alta Manga Longa; url: https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047",
-        "howTo: Sozinho ou por baixo de blazer e casaco, segundo a loja.",
-        "occasion: Trabalho e dias frios.",
-        "pairsWith: Blazer Oversized Alfaiataria Mescla (url https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307; note: o nosso look de trabalho monta os dois), calça de alfaiataria.",
-        "piece: Body Regata Cavado; url: https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185",
-        "howTo: Como regata de cava funda, com a modelagem ajustada.",
-        "occasion: Fim de semana e calor.",
-        "pairsWith: jeans, shorts."
-      ],
       "postParagraphs": [
-        "*Preço de lista no site. Os bodies costumam estar em promoção, e o Gola Alta e o Duplo têm o \"leve 3\" na própria página, que baixa o preço por peça.*",
-        "Para o frio e para o trabalho, o Gola Alta Manga Longa: a loja o indica sozinho ou por baixo de blazer e casaco. Para o dia a dia com jeans, o Duplo ou o Cavado, que é regata. Para a noite, o Frente Única e o Ombro Único, com o decote à mostra. Não escolha o body pela cor da foto sem olhar a tabela da peça: a modelagem é justa, e no justo a medida manda. Os seis modelos do guia do body, com cores, tamanhos e o leve 3 na conta, estão no guia do body Second Skin, listado no fim.",
-        "**Card de estilo (styling, layout tags, 2 peças):**"
+        "Para o frio e para o trabalho, o Gola Alta Manga Longa: a loja o indica sozinho ou por baixo de blazer e casaco. Para o dia a dia com jeans, o Duplo ou o Cavado, que é regata. Para a noite, o Frente Única e o Ombro Único, com o decote à mostra. Não escolha o body pela cor da foto sem olhar a tabela da peça: a modelagem é justa, e no justo a medida manda. Os seis modelos do guia do body, com cores, tamanhos e o leve 3 na conta, estão no guia do body Second Skin, listado no fim."
       ],
       "images": [
         {
@@ -178,7 +187,42 @@
           "objectFit": "portrait",
           "href": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Body Gola Alta Manga Longa",
+            "url": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047",
+            "howTo": "Sozinho ou por baixo de blazer e casaco, segundo a loja.",
+            "occasion": "Trabalho e dias frios.",
+            "pairsWith": [
+              {
+                "label": "Blazer Oversized Alfaiataria Mescla",
+                "url": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
+                "note": "o nosso look de trabalho monta os dois"
+              },
+              {
+                "label": "calça de alfaiataria"
+              }
+            ]
+          },
+          {
+            "piece": "Body Regata Cavado",
+            "url": "https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185",
+            "howTo": "Como regata de cava funda, com a modelagem ajustada.",
+            "occasion": "Fim de semana e calor.",
+            "pairsWith": [
+              {
+                "label": "jeans"
+              },
+              {
+                "label": "shorts"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Alfaiataria de verão e look de trabalho",

@@ -96,7 +96,7 @@
       "heading": "2. Monte o carrinho",
       "paragraphs": [
         "Escolha as peças e abra o carrinho. A tela mostra os itens e, ao lado, o \"Resumo do pedido\", com o campo \"Cupom de desconto\", o subtotal e o total.",
-        "No nosso teste, de 14/10/2026, o carrinho tinha um item: o Kit 3 T-Shirts Oversized Classic. O kit estava em promoção, de R$ 387,00 por R$ 258,00. Nessa tela, a loja mostrava \"Receba até R$ 25,80 de cashback\".",
+        "No nosso teste, de 14/10/2026, o carrinho tinha um item: o Kit 3 T-Shirts Oversized Classic. O kit estava em promoção naquele dia, de R$ 387,00 por R$ 258,00: era o preço de promoção do dia, não o preço atual do kit. Nessa tela, a loja mostrava \"Receba até R$ 25,80 de cashback\".",
         "O frete é calculado pelo CEP, no link \"Calcular\" da linha \"Entrega\", no resumo do pedido."
       ],
       "image": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
@@ -118,7 +118,7 @@
         "A conta do nosso teste:"
       ],
       "bullets": [
-        "Kit 3 T-Shirts Oversized Classic em promoção: R$ 258,00.",
+        "Kit 3 T-Shirts Oversized Classic, no preço de promoção do dia do teste: R$ 258,00.",
         "Cupom de 10%: -R$ 25,80.",
         "Total: **R$ 232,20**."
       ],
@@ -162,11 +162,11 @@
         ],
         "rows": [
           [
-            "Preço do kit",
+            "Preço de lista do kit",
             "R$ 387,00"
           ],
           [
-            "Promoção da loja",
+            "Promoção da loja no dia do teste",
             "R$ 258,00"
           ],
           [

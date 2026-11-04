@@ -34371,7 +34371,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "O desconto não é aplicável sobre o valor do frete",
-      "Não cumulativo com alguns cupons ou campanhas específicas"
+      "Segundo a página da loja, a regra do cupom \"pode variar conforme campanha\""
     ],
     "contentSections": [
       {
@@ -34458,7 +34458,7 @@ export const reviewsData: unknown[] = [
           "O cupom CECIEMCASA pode ser usado em compras com frete grátis? Sim, o cupom CECIEMCASA é aplicado sobre o valor dos produtos, enquanto o frete grátis é uma condição independente ativada por valor mínimo de compra ou promoções específicas. Quando ambas as regras se aplicam, você acumula o desconto do cupom e o frete grátis, pagando apenas o valor final dos itens.",
           "O cupom CECIEMCASA expira em alguma data? O cupom é vinculado à parceria ativa entre o Em Casa com Cecília e a I Wanna Sleep. Não há uma data de expiração fixa divulgada, mas a marca pode alterar ou encerrar a promoção a qualquer momento. Recomendamos aplicar o código no checkout antes de finalizar para confirmar que ele ainda está ativo.",
           "O cupom CECIEMCASA funciona para compras no aplicativo da IWS? O cupom CECIEMCASA é validado no checkout do site oficial (iwannasleep.com.br). Se a marca oferecer um aplicativo, o código deve funcionar da mesma forma, desde que a finalização ocorra dentro da plataforma oficial. A dica é sempre verificar se o desconto de 10% aparece no resumo do pedido antes de confirmar.",
-          "O cupom CECIEMCASA é cumulativo com outros descontos ou promoções sazonais? Não. O cupom geralmente não é cumulativo com outras campanhas promocionais, cupons de primeira compra ou descontos automáticos já aplicados. O sistema do checkout aplica apenas o maior desconto disponível, então insira o código para comparar e garantir que o valor de 10% OFF seja o mais vantajoso.",
+          "O cupom CECIEMCASA é cumulativo com outros descontos ou promoções sazonais? Sim: o CECIEMCASA soma com os preços de promoção, como os da Black Friday, e com o desconto do Pix, e vale em todas as formas de pagamento. A página da loja diz que a regra \"pode variar conforme campanha\", então confira os 10% no resumo do pedido antes de pagar.",
           "Posso usar o cupom CECIEMCASA em pedidos parcelados? Sim, o cupom reduz o valor total dos produtos e o valor final pode ser parcelado no cartão de crédito conforme as condições disponíveis no checkout (geralmente em até 6 vezes sem juros). O desconto incide sobre o valor base, reduzindo proporcionalmente o valor de cada parcela."
         ]
       }
@@ -42199,7 +42199,7 @@ export const reviewsData: unknown[] = [
         "heading": "O sufoco do encanamento e a instalação na lavanderia",
         "paragraphs": [
           "A mangueira de drenagem já vem com uma curva plástica rígida: encaixa na saída da parede ou apoia na borda do tanque. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
-          "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Fica a dica de ouro: verifique a rosca e a tubulação da sua parede *antes* da instalação.",
+          "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Fica a dica de ouro: verifique a rosca e a tubulação da sua parede antes da instalação.",
           "Com a máquina no lugar e nivelada pelos pezinhos reguláveis, veio a melhor parte de todo o processo: puxar a película adesiva dos plásticos brilhantes da carcaça e do painel digital."
         ],
         "image": "/images/reviews/samsung/amelia-no-lugar.webp",
@@ -80141,7 +80141,7 @@ export const reviewsData: unknown[] = [
         "heading": "2. Monte o carrinho",
         "paragraphs": [
           "Escolha as peças e abra o carrinho. A tela mostra os itens e, ao lado, o \"Resumo do pedido\", com o campo \"Cupom de desconto\", o subtotal e o total.",
-          "No nosso teste, de 14/10/2026, o carrinho tinha um item: o Kit 3 T-Shirts Oversized Classic. O kit estava em promoção, de R$ 387,00 por R$ 258,00. Nessa tela, a loja mostrava \"Receba até R$ 25,80 de cashback\".",
+          "No nosso teste, de 14/10/2026, o carrinho tinha um item: o Kit 3 T-Shirts Oversized Classic. O kit estava em promoção naquele dia, de R$ 387,00 por R$ 258,00: era o preço de promoção do dia, não o preço atual do kit. Nessa tela, a loja mostrava \"Receba até R$ 25,80 de cashback\".",
           "O frete é calculado pelo CEP, no link \"Calcular\" da linha \"Entrega\", no resumo do pedido."
         ],
         "image": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
@@ -80163,7 +80163,7 @@ export const reviewsData: unknown[] = [
           "A conta do nosso teste:"
         ],
         "bullets": [
-          "Kit 3 T-Shirts Oversized Classic em promoção: R$ 258,00.",
+          "Kit 3 T-Shirts Oversized Classic, no preço de promoção do dia do teste: R$ 258,00.",
           "Cupom de 10%: -R$ 25,80.",
           "Total: **R$ 232,20**."
         ],
@@ -80207,11 +80207,11 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Preço do kit",
+              "Preço de lista do kit",
               "R$ 387,00"
             ],
             [
-              "Promoção da loja",
+              "Promoção da loja no dia do teste",
               "R$ 258,00"
             ],
             [
@@ -101176,7 +101176,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A [T-Shirt Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189) custa R$ 129,00, vem em 10 cores e nos tamanhos P, M e G. O corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações.",
           "Por cima, o Blazer Oversized Alfaiataria Mescla (R$ 524,30) dá o toque de alfaiataria sem pesar o visual. Se o blazer não servir no seu tamanho, o Colete Alfaiataria Trespasse Vermelho (R$ 799,00) entra no lugar dele.",
-          "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258,00 (preço cheio R$ 387,00). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe."
+          "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts: o preço de lista é R$ 387,00, o mesmo de três avulsas, e a loja põe os kits em promoção com frequência. O cupom soma com a promoção: no teste da equipe, com o kit a R$ 258,00 naquele dia, o total ficou em R$ 232,20."
         ],
         "images": [
           {
@@ -101904,7 +101904,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Alfaiataria: blazers, entre eles o [Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282) e os oversized [Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305) e [Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307), coletes, bermuda e calças de alfaiataria.",
           "Bodies: seis modelos Second Skin no site, contra dois deles no Mercado Livre (fora o de tule). Só no site estão o [Frente Única](https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128), o [Decote Reversível](https://www.cleastore.com.br/produto/body-decote-reversivel-second-skin-design-especial-4194), o [Regata Cavado](https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185) e o [Ombro Único](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230). O [Gola Alta](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047) tem 7 cores no site e 5 no anúncio do Mercado Livre.",
-          "Kits de t-shirt: além do Intense, do Colorful e do Classic, o site tem o [Brazil Edition](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-brazil-edition-4333) e o [Monte Seu Kit](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229). Os dois custam R$ 258,00, ou R$ 232,20 com o cupom.",
+          "Kits de t-shirt: além do Intense, do Colorful e do Classic, o site tem o [Brazil Edition](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-brazil-edition-4333) e o [Monte Seu Kit](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229). Na leitura, os dois estavam em promoção por R$ 258,00, ou R$ 232,20 com o cupom; o preço de lista é R$ 387,00.",
           "Outras peças: camisas e batas de tricoline, calças jeans, cargo e balloon, trench coat e conjunto de crochê.",
           "Compra com cupom, cashback, tabela de medidas e provador virtual na página de cada peça, e devolução grátis."
         ],
@@ -101938,7 +101938,7 @@ export const reviewsData: unknown[] = [
             "Peça",
             "Mercado Livre",
             "Site com o cupom",
-            "Onde sai mais barato hoje"
+            "Onde saía mais barato na leitura"
           ],
           "rows": [
             [
@@ -101980,7 +101980,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No site, o preço de venda era R$ 258,00 em cada kit, R$ 129,00 na t-shirt avulsa, R$ 127,20 no Body Duplo e R$ 135,20 no Gola Alta. O Body Tule fica fora da tabela: no site, uma das variantes está em pré-venda e o preço não fecha.",
+          "No site, o preço de venda era R$ 258,00 em cada kit, em promoção (o de lista é R$ 387,00), R$ 129,00 na t-shirt avulsa, R$ 127,20 no Body Duplo e R$ 135,20 no Gola Alta. O Body Tule fica fora da tabela: no site, uma das variantes está em pré-venda e o preço não fecha.",
           "Os anúncios do Mercado Livre tinham frete grátis. No site, o frete é grátis acima de R$ 599. Abaixo disso, o frete é calculado no carrinho e não entra nesta conta."
         ],
         "links": [
@@ -124173,7 +124173,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A camiseta da Cléa Store pela ficha da loja: composição, modelagem oversized, os 6 modelos com cores, o preço por peça na avulsa e no kit e os cuidados, em 23/10/2026.",
+    "description": "A camiseta da Cléa Store pela ficha da loja: composição, modelagem oversized, os 6 modelos com cores, o preço da avulsa e do kit, quando o kit compensa e os cuidados.",
     "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta é boa? Só oversized, 6 modelos e o preço por peça no kit de 3.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
@@ -124185,7 +124185,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Leve o kit de três se você veste oversized e quer o menor preço por peça.",
+        "Leve o kit de três em promoção se você veste oversized e quer o menor preço por peça.",
         "Leve a avulsa se você quer uma cor só ou completar um kit."
       ],
       "skipIf": [
@@ -124228,7 +124228,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tecido e composição: o que a ficha informa",
         "paragraphs": [
-          "A Cléa Store vende camiseta em um modelo só, o oversized. Os preços deste guia são de 23/10/2026, no site, sem cupom: R$ 129,00 a peça avulsa e R$ 258,00 o kit de três. Este guia usa a ficha da loja, a composição informada, o preço do dia e a tabela de medidas, e não opina sobre toque, caimento ou durabilidade.",
+          "A Cléa Store vende camiseta em um modelo só, o oversized. Os preços deste guia são os de lista do site, sem cupom, lidos em 04/11/2026: R$ 129,00 a peça avulsa e R$ 387,00 o kit de três. Este guia usa a ficha da loja, a composição informada, o preço de lista e a tabela de medidas, e não opina sobre toque, caimento ou durabilidade.",
           "Na ficha da T-Shirts Oversized Algodão, o corpo da peça é 100% algodão penteado premium. A ribana da gola tem 97% algodão e 3% elastano. Ou seja, o elastano está só na ribana, não no corpo. Os cinco kits trazem a mesma composição.",
           "\"Algodão penteado premium\" é o nome que a loja dá ao tecido. Este guia usa o termo como a loja usa.",
           "A loja descreve o tecido como leve, respirável e de toque natural e macio.",
@@ -124272,15 +124272,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os 6 modelos de camiseta lado a lado",
         "paragraphs": [
-          "Uma avulsa e cinco kits de três; o preço por peça cai de R$ 129,00 para R$ 86,00 no kit. Preços de venda do site, sem cupom. Nos kits, o preço cheio de R$ 387,00 aparece entre parênteses."
+          "Uma avulsa e cinco kits de três, pelo preço de lista do site, sem cupom. Na lista, o kit custa o mesmo que três avulsas: R$ 129,00 por peça nos dois casos."
         ],
         "comparisonTable": {
           "headers": [
             "Modelo",
             "Cores",
             "Tamanhos",
-            "Preço no site",
-            "Preço por peça"
+            "Preço de lista",
+            "Por peça"
           ],
           "rows": [
             [
@@ -124294,41 +124294,41 @@ export const reviewsData: unknown[] = [
               "[Kit 3 T-Shirts Oversized Classic](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951)",
               "Off white, preto e marrom, uma de cada",
               "P, M e G",
-              "R$ 258,00 (R$ 387,00)",
-              "R$ 86,00"
+              "R$ 387,00",
+              "R$ 129,00"
             ],
             [
               "[Kit 3 T-Shirts Oversized Colorful](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-colorful-4421)",
               "Rosa claro, verde oliva e caramelo, uma de cada",
               "P, M e G",
-              "R$ 258,00 (R$ 387,00)",
-              "R$ 86,00"
+              "R$ 387,00",
+              "R$ 129,00"
             ],
             [
               "[Kit 3 T-Shirts Oversized Intense](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-intense-4422)",
               "Chumbo, bege e vinho, uma de cada",
               "P, M e G",
-              "R$ 258,00 (R$ 387,00)",
-              "R$ 86,00"
+              "R$ 387,00",
+              "R$ 129,00"
             ],
             [
               "[Kit 3 T-Shirts Oversized Brazil Edition](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-brazil-edition-4333)",
               "Azul marinho, verde oliva e off white, uma de cada",
               "P, M e G",
-              "R$ 258,00 (R$ 387,00)",
-              "R$ 86,00"
+              "R$ 387,00",
+              "R$ 129,00"
             ],
             [
               "[Kit 3 T-Shirts Essenciais, Monte Seu Kit](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229)",
               "Você escolhe 3 entre as 10 cores e pode repetir",
               "P, M e G",
-              "R$ 258,00 (R$ 387,00)",
-              "R$ 86,00"
+              "R$ 387,00",
+              "R$ 129,00"
             ]
           ]
         },
         "postParagraphs": [
-          "Os kits estão em promoção, de R$ 387,00 por R$ 258,00. O kit Classic aparece na ficha com dois nomes: \"Classic\" na página e \"Kit 3 T-Shirts Básica Algodão\" nas variantes. Aqui vale o nome da página."
+          "A loja põe os kits em promoção com frequência, e só em promoção a peça do kit sai mais barata que a avulsa. O kit Classic aparece na ficha com dois nomes: \"Classic\" na página e \"Kit 3 T-Shirts Básica Algodão\" nas variantes. Aqui vale o nome da página."
         ],
         "images": [
           {
@@ -124337,30 +124337,21 @@ export const reviewsData: unknown[] = [
             "caption": "Foto oficial da Cléa Store.",
             "objectFit": "square",
             "aspectRatio": 1
-          },
-          {
-            "src": "/images/reviews/clea-store/camiseta-clea-store-quadro-modelos.webp",
-            "alt": "Quadro com os seis modelos de camiseta da Cléa Store: a peça avulsa e os cinco kits de três, com cores e preço por peça em 23/10/2026",
-            "caption": "Os seis modelos e o preço por peça no site oficial.",
-            "objectFit": "contain",
-            "aspectRatio": 1.7778
           }
         ]
       },
       {
         "heading": "Avulsa ou kit: quanto sai cada peça",
         "paragraphs": [
-          "A conta é direta, com os preços do dia. Três avulsas custam R$ 387,00. O kit de três custa R$ 258,00. A diferença é de R$ 129,00, o preço de uma camiseta avulsa. Por peça, a avulsa sai por R$ 129,00 e o kit por R$ 86,00.",
-          "Com o cupom CSEMCASACOMCECILIA, de 10% sobre o preço do dia, a conta fica assim:"
+          "No preço de lista, o kit não economiza: três avulsas custam R$ 387,00, o mesmo que o kit de três, e a peça sai por R$ 129,00 nos dois. O kit compensa quando está em promoção, o que a loja faz com frequência. No dia da compra, divida o preço do kit por três e compare com a avulsa, que também pode estar com desconto.",
+          "Com o cupom CSEMCASACOMCECILIA, de 10% sobre o preço do dia, a conta pelo preço de lista fica assim:"
         ],
         "bullets": [
           "Avulsa: R$ 116,10.",
-          "Três avulsas: R$ 348,30.",
-          "Kit de três: R$ 232,20, ou R$ 77,40 por peça."
+          "Três avulsas ou um kit de três: R$ 348,30."
         ],
         "postParagraphs": [
-          "O cupom soma com as promoções do site, em todas as formas de pagamento. No teste de checkout, o kit de três saiu de R$ 258,00 por R$ 232,20 com o cupom. O valor final aparece no carrinho, e o preço do dia pode mudar. Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store).",
-          "Até 31/10/2026, a Cléa Store dá uma T-Shirt Oversized de brinde em qualquer pedido. As regras estão no [guia da promoção dos 14 anos](/reviews/clea-store-aniversario-14-anos-t-shirt-brinde).",
+          "O cupom soma com as promoções do site, em todas as formas de pagamento. No teste de checkout, com o kit em promoção a R$ 258,00 naquele dia, o total caiu para R$ 232,20. O valor final aparece no carrinho, e o preço do dia muda com a promoção. Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store).",
           "A diferença entre os kits é só a combinação de cores. O Classic é off white, preto e marrom, o Colorful é rosa claro, verde oliva e caramelo, o Intense é chumbo, bege e vinho e o Brazil Edition é azul marinho, verde oliva e off white. No Essenciais, você monta as três cores. A avulsa é a opção para uma cor só ou para completar um kit."
         ],
         "images": [
@@ -124409,26 +124400,26 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Vale a pena? Avulsa ou kit",
-        "emphasis": "Pelos números da tabela, para quem quer o menor preço por peça a escolha é o kit Essenciais, porque sai a R$ 86,00 por peça e deixa montar as três cores.",
+        "emphasis": "Para quem vai levar três camisetas, a escolha é o kit Essenciais em promoção: ele deixa montar as três cores, e é no kit em promoção que a peça sai mais barata.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pela ficha da loja, a camiseta tem corpo em algodão e um único corte, o oversized. Quem quer outro corte não encontra neste catálogo, e a loja não informa a gramatura. Como ninguém do site comprou nem vestiu as peças, a escolha entre avulsa e kit parte só do preço e da cor."
         ],
         "bullets": [
           "Peça avulsa: [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189), R$ 129,00, em 10 cores e nos tamanhos P, M e G.",
-          "Kit de três: R$ 258,00 no site, o que dá R$ 86,00 por peça. São cinco kits, todos em P, M e G.",
+          "Kit de três: R$ 387,00 de lista, R$ 129,00 por peça, o mesmo que a avulsa; em promoção, a peça do kit sai mais barata. São cinco kits, todos em P, M e G.",
           "Composição, segundo a ficha: corpo 100% algodão penteado premium; a ribana da gola é 97% algodão e 3% elastano.",
           "Gramatura: a loja não informa."
         ],
         "postParagraphs": [
-          "O cupom CSEMCASACOMCECILIA tira mais 10% no site. Com ele, a peça avulsa sai por R$ 116,10 e o kit de três por R$ 232,20, ou R$ 77,40 por peça."
+          "O cupom CSEMCASACOMCECILIA tira mais 10% no site, também sobre o preço de promoção. Pelo preço de lista, a peça avulsa sai por R$ 116,10 e o kit de três por R$ 348,30."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Camiseta Cléa Store é boa? Este guia responde pela ficha da loja, não por opinião: corpo 100% algodão penteado premium, modelagem oversized e cuidados simples. Ninguém do site comprou nem vestiu a peça.",
-          "Kit camiseta Cléa Store vale a pena? No preço do site, o kit de três sai a R$ 86,00 por peça, contra R$ 129,00 da avulsa; com o cupom, R$ 77,40 por peça.",
+          "Kit camiseta Cléa Store vale a pena? Em promoção, sim: no preço de lista, o kit de três sai a R$ 129,00 por peça, o mesmo que a avulsa, e é a promoção do kit, frequente na loja, que baixa o preço por peça; o cupom soma com ela.",
           "A Cléa Store tem camiseta básica? Tem, mas a \"básica\" da loja é a própria oversized: no catálogo lido não há corte regular nem baby look.",
           "Como lavar a camiseta Cléa Store? Segundo a loja, até 30 °C, com sabão para roupa delicada, sem alvejante, secando no varal e passando até 150 °C.",
           "Qual a composição da camiseta Cléa Store? Segundo a ficha, o corpo é 100% algodão penteado premium, e a ribana da gola tem 97% algodão e 3% elastano."
@@ -180251,10 +180242,10 @@ export const reviewsData: unknown[] = [
               "6,5 g",
               "92 mg"
             ]
-          ]
+          ],
+          "caption": "Tabela nutricional publicada pela loja na página de cada panetone, por 100 g. Gordura trans: zero nos dois. Açúcares totais: só no de frutas, e são os da fruta."
         },
         "postParagraphs": [
-          "*Tabela nutricional publicada pela loja na página de cada panetone, por 100 g. Gordura trans: zero nos dois. Açúcares totais: só no de frutas, e são os da fruta.*",
           "O que a tabela não diz: o carboidrato dos dois é quase igual, e nos dois ele inclui o maltitol, que o rótulo não separa. Quem olha só o \"zero açúcar\" e esquece essa linha compra errado. Quem come duas fatias do de chocolate leva 36% da gordura saturada do dia pela tabela da loja; no de frutas, 21%. A fibra é alta nos dois pelo psyllium e pela fibra de tapioca, e o sódio é baixo nos dois."
         ]
       },
@@ -180295,10 +180286,10 @@ export const reviewsData: unknown[] = [
               "3 de frutas",
               "R$ 194,70"
             ]
-          ]
+          ],
+          "caption": "Preço de lista do site em 03/11, sem o código. No dia, a loja vendia os cinco com desconto de promoção, e o preço riscado da página é o desta tabela."
         },
         "postParagraphs": [
-          "*Preço de lista do site em 03/11, sem o código. No dia, a loja vendia os cinco com desconto de promoção, e o preço riscado da página é o desta tabela.*",
           "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o kit sai igual ao avulso, em lista e na oferta. O que o kit faz é fechar o carrinho acima do frete grátis e trazer os dois sabores na mesma caixa, no kit misto. Para um panetone só, compre o avulso."
         ]
       },
@@ -180721,7 +180712,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "*Conta nossa: pelos preços de lista da tabela dos autobronzeadores, o mousse (R$ 119,90) mais a luva (R$ 34,90) somam R$ 154,80. O Kit Iniciante sai R$ 23,90 a menos.*"
+          "Conta nossa: pelos preços de lista da tabela dos autobronzeadores, o mousse (R$ 119,90) mais a luva (R$ 34,90) somam R$ 154,80. O Kit Iniciante sai R$ 23,90 a menos."
         ],
         "images": [
           {
@@ -180961,10 +180952,10 @@ export const reviewsData: unknown[] = [
               "R$ 397",
               "à venda"
             ]
-          ]
+          ],
+          "caption": "Preço de lista do site em 03/11, sem o código. A loja vendia boa parte da linha com desconto de promoção, e o preço riscado da página é o desta tabela."
         },
         "postParagraphs": [
-          "*Preço de lista do site em 03/11, sem o código. A loja vendia boa parte da linha com desconto de promoção, e o preço riscado da página é o desta tabela.*",
           "O Regular cabe na fronha comum, e o Plus é para a cama King. Quem já sabe a altura e não quer mexer em nada vai no Látex no tamanho certo; quem sente calor à noite olha o Snow, o Ergoblu ou o Neck Plus Gel, que a marca indica para isso. O Airgelly é para quem lava tudo, e o Magnum Pluma, para quem quer travesseiro fofo e moldável sem pena de animal. Deixe o Snow Body para quem dorme de lado e quer apoio para a perna de cima; para a cabeça ele não substitui nenhum da tabela. A comparação completa, posição por posição, está no [guia das linhas de travesseiro](/reviews/qual-travesseiro-escolher-guia-linhas-i-wanna-sleep)."
         ]
       },
@@ -181026,10 +181017,10 @@ export const reviewsData: unknown[] = [
               "veja na página",
               "à venda"
             ]
-          ]
+          ],
+          "caption": "Preço de lista, sem o código."
         },
         "postParagraphs": [
-          "*Preço de lista, sem o código.*",
           "Leve o Igloo quando um sente calor e o outro frio na mesma cama, e o Cozy quando o que você quer é o toque marshmallow. O Puffer é para quem detesta peso na perna e para quem viaja; o Huggy, para o quarto que gela no inverno. A equipe recebeu o Igloo em parceria; as primeiras impressões estão no artigo dele."
         ]
       },
@@ -181058,10 +181049,10 @@ export const reviewsData: unknown[] = [
               "R$ 97",
               "esgotada"
             ]
-          ]
+          ],
+          "caption": "Preço de lista, sem o código."
         },
         "postParagraphs": [
-          "*Preço de lista, sem o código.*",
           "Escolha a goma se você quer a porção pronta e não quer contar gota; escolha a líquida se prefere não mastigar ou se a goma seguir esgotada. Não escolha nenhuma esperando um resultado prometido: o rótulo diz o que tem e como tomar, e para por aí."
         ],
         "images": [
@@ -181105,10 +181096,10 @@ export const reviewsData: unknown[] = [
               "veja na página",
               "à venda"
             ]
-          ]
+          ],
+          "caption": "Preço de lista, sem o código."
         },
         "postParagraphs": [
-          "*Preço de lista, sem o código.*",
           "O spray serve a quem monta um ritual de dormir com cheiro no travesseiro; com criança com asma, rinite ou pele sensível, o pediatra vem antes do frasco, porque a fragrância leva linalol, limoneno e outros componentes de perfume. A máscara é para a pausa com compressa fria ou quente no rosto, e só. Enxaqueca e dor de cabeça que voltam são assunto de médico."
         ]
       },
@@ -181309,18 +181300,11 @@ export const reviewsData: unknown[] = [
               "Off white, preto e marrom, uma de cada",
               "R$ 387,00"
             ]
-          ]
+          ],
+          "caption": "Preço de lista no site, 03/11. A loja põe os kits em promoção com frequência: o preço riscado é o de lista, e o cupom entra sobre o preço do dia."
         },
-        "bullets": [
-          "piece: T-Shirt Oversized Algodão; url: https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
-          "howTo: Solta, com jeans, short ou saia, segundo a loja.",
-          "occasion: Dia a dia; com uma peça de alfaiataria por cima, vira produção de trabalho.",
-          "pairsWith: Shorts Alfaiataria Rosa Linho (url https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402; note: a página do shorts indica camisetas básicas), jeans, saia, calça de alfaiataria."
-        ],
         "postParagraphs": [
-          "*Preço de lista no site, 03/11. A loja põe os kits em promoção com frequência: o preço riscado é o de lista, e o cupom entra sobre o preço do dia.*",
-          "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, porque é no kit em promoção que a camiseta fica mais barata por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa).",
-          "**Card de estilo (styling, layout tabs, 1 peça):**"
+          "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, porque é no kit em promoção que a camiseta fica mais barata por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa)."
         ],
         "images": [
           {
@@ -181330,7 +181314,34 @@ export const reviewsData: unknown[] = [
             "objectFit": "square",
             "href": "https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-classic-3951"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tabs",
+          "items": [
+            {
+              "piece": "T-Shirt Oversized Algodão",
+              "url": "https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189",
+              "howTo": "Solta, com jeans, short ou saia, segundo a loja.",
+              "occasion": "Dia a dia; com uma peça de alfaiataria por cima, vira produção de trabalho.",
+              "pairsWith": [
+                {
+                  "label": "Shorts Alfaiataria Rosa Linho",
+                  "url": "https://www.cleastore.com.br/produto/shorts-alfaiataria-rosa-linho-4402",
+                  "note": "a página do shorts indica camisetas básicas"
+                },
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "saia"
+                },
+                {
+                  "label": "calça de alfaiataria"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Bodies Second Skin: nove modelos, dois preços",
@@ -181389,22 +181400,11 @@ export const reviewsData: unknown[] = [
               "Gola alta em tule",
               "R$ 159,00"
             ]
-          ]
+          ],
+          "caption": "Preço de lista no site. Os bodies costumam estar em promoção, e o Gola Alta e o Duplo têm o \"leve 3\" na própria página, que baixa o preço por peça."
         },
-        "bullets": [
-          "piece: Body Gola Alta Manga Longa; url: https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047",
-          "howTo: Sozinho ou por baixo de blazer e casaco, segundo a loja.",
-          "occasion: Trabalho e dias frios.",
-          "pairsWith: Blazer Oversized Alfaiataria Mescla (url https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307; note: o nosso look de trabalho monta os dois), calça de alfaiataria.",
-          "piece: Body Regata Cavado; url: https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185",
-          "howTo: Como regata de cava funda, com a modelagem ajustada.",
-          "occasion: Fim de semana e calor.",
-          "pairsWith: jeans, shorts."
-        ],
         "postParagraphs": [
-          "*Preço de lista no site. Os bodies costumam estar em promoção, e o Gola Alta e o Duplo têm o \"leve 3\" na própria página, que baixa o preço por peça.*",
-          "Para o frio e para o trabalho, o Gola Alta Manga Longa: a loja o indica sozinho ou por baixo de blazer e casaco. Para o dia a dia com jeans, o Duplo ou o Cavado, que é regata. Para a noite, o Frente Única e o Ombro Único, com o decote à mostra. Não escolha o body pela cor da foto sem olhar a tabela da peça: a modelagem é justa, e no justo a medida manda. Os seis modelos do guia do body, com cores, tamanhos e o leve 3 na conta, estão no guia do body Second Skin, listado no fim.",
-          "**Card de estilo (styling, layout tags, 2 peças):**"
+          "Para o frio e para o trabalho, o Gola Alta Manga Longa: a loja o indica sozinho ou por baixo de blazer e casaco. Para o dia a dia com jeans, o Duplo ou o Cavado, que é regata. Para a noite, o Frente Única e o Ombro Único, com o decote à mostra. Não escolha o body pela cor da foto sem olhar a tabela da peça: a modelagem é justa, e no justo a medida manda. Os seis modelos do guia do body, com cores, tamanhos e o leve 3 na conta, estão no guia do body Second Skin, listado no fim."
         ],
         "images": [
           {
@@ -181414,7 +181414,42 @@ export const reviewsData: unknown[] = [
             "objectFit": "portrait",
             "href": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Body Gola Alta Manga Longa",
+              "url": "https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047",
+              "howTo": "Sozinho ou por baixo de blazer e casaco, segundo a loja.",
+              "occasion": "Trabalho e dias frios.",
+              "pairsWith": [
+                {
+                  "label": "Blazer Oversized Alfaiataria Mescla",
+                  "url": "https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307",
+                  "note": "o nosso look de trabalho monta os dois"
+                },
+                {
+                  "label": "calça de alfaiataria"
+                }
+              ]
+            },
+            {
+              "piece": "Body Regata Cavado",
+              "url": "https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185",
+              "howTo": "Como regata de cava funda, com a modelagem ajustada.",
+              "occasion": "Fim de semana e calor.",
+              "pairsWith": [
+                {
+                  "label": "jeans"
+                },
+                {
+                  "label": "shorts"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Alfaiataria de verão e look de trabalho",
@@ -181691,7 +181726,69 @@ export const reviewsData: unknown[] = [
             "objectFit": "wide",
             "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
           }
-        ]
+        ],
+        "styling": {
+          "layout": "tags",
+          "items": [
+            {
+              "piece": "Top Segunda Pele SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Por baixo de roupa casual ou esportiva, como um top fixo sem fecho; a alça é larga, então pede roupa que cubra o ombro.",
+              "occasion": "Dia a dia em casa, lazer e roupa de malha.",
+              "pairsWith": [
+                {
+                  "label": "camiseta de malha"
+                },
+                {
+                  "label": "legging"
+                },
+                {
+                  "label": "Calcinha Biquíni SkinUp",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "mesma linha, sem costura"
+                }
+              ]
+            },
+            {
+              "piece": "Sutiã Top Alça Fina SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Sob regata ou blusa de alça fina: segundo a loja, a alça regulável some debaixo da alça da roupa.",
+              "occasion": "Regata, blusa de alcinha e vestido de alça fina.",
+              "pairsWith": [
+                {
+                  "label": "regata de alça fina"
+                },
+                {
+                  "label": "vestido de alcinha"
+                },
+                {
+                  "label": "Calcinha Fio Dental SkinUp",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "para roupa justa"
+                }
+              ]
+            },
+            {
+              "piece": "Sutiã Clássico SkinUp",
+              "url": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+              "howTo": "Como sutiã de todo dia, no lugar do modelo com aro: o bojo fixo leve dá o efeito push-up, segundo a loja.",
+              "occasion": "Trabalho e dia a dia com blusa de decote.",
+              "pairsWith": [
+                {
+                  "label": "blusa de decote"
+                },
+                {
+                  "label": "camisa"
+                },
+                {
+                  "label": "Calcinha Cós Alto SkinUp",
+                  "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                  "note": "cintura alta, mesma linha"
+                }
+              ]
+            }
+          ]
+        }
       },
       {
         "heading": "Fita Up: a fita que deu nome à marca",
