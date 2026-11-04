@@ -1,9 +1,9 @@
 import { socialMedias } from '@/lib/brandLinks';
 import { cardImageFit, type CardImageFit, type CardImagePosition } from '@/lib/cardImage';
-import { getActiveCoupons, getStoreCodeKind, type Coupon } from '@/lib/couponsData';
+import { formatBrasiliaDay, getActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '@/lib/couponsData';
 import { getCouponStorePath } from '@/lib/couponTranslations';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from '@/components/review/sidebarCopy';
-import type { HomeStoreTab } from '@/lib/homeStoreTabs';
+import type { HomeLimitedCode, HomeStoreTab } from '@/lib/homeStoreTabs';
 import {
   getListedPortugueseReviews,
   sortReviewsByPublishedAt,
@@ -72,6 +72,19 @@ export function getStoreArticlesPath(slug: string): string {
   return `/reviews/loja/${slug}`;
 }
 
+// Os códigos com prazo que ainda não venceram, com o texto do prazo pronto: o componente da vitrine é cliente e não
+// importa couponsData.
+function getHomeLimitedCodes(store: Coupon): HomeLimitedCode[] {
+  return getPendingLimitedCodes(store).map(({ code, discount, startsAt, endsAt, inHtml }) => ({
+    code,
+    discount,
+    startsAt,
+    endsAt,
+    inHtml,
+    deadline: `Por tempo limitado: até ${formatBrasiliaDay(endsAt)}`,
+  }));
+}
+
 export function getHomeStoreTabs(
   reviews: readonly StoreReview[],
   stores: readonly Coupon[] = getActiveCoupons()
@@ -83,6 +96,7 @@ export function getHomeStoreTabs(
     const code = getStoreCode(store);
     const kind = getStoreCodeKind(store, code);
     const articles = articlesOfStore(listed, store.slug);
+    const limitedCodes = getHomeLimitedCodes(store);
 
     return {
       slug: store.slug,
@@ -92,6 +106,7 @@ export function getHomeStoreTabs(
       label: code ? getCodeTitle(copy, kind, store.brand) : store.brand,
       code,
       discount: store.discount,
+      ...(limitedCodes.length > 0 ? { limitedCodes } : {}),
       description: store.shortDescription,
       hints: getCodeHints(copy, kind, store.brand),
       storeUrl: store.offerUrl,

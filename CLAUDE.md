@@ -454,7 +454,9 @@ vídeo, primeiras impressões e uso noturno.
   `limitedCodes` da loja em `couponsData.ts` (início e fim com -03:00, dia e nota do teste). Só em PT, numa caixa
   `.recorte` no começo do conteúdo (`LimitedCodeNotice.tsx`, `id="codigo-com-prazo"`), com uma linha no recorte do
   topo que leva a ela (o `footer` do `StoreCutout`). O `CampaignWindow` mostra as duas só dentro do prazo: o que vence
-  ou começa entre dois deploys some ou aparece no navegador. O código de sempre, o título e os artigos não mudam. O
+  ou começa entre dois deploys some ou aparece no navegador. Na vitrine da home, o recorte da loja troca o código e o
+  desconto de sempre pelos do prazo, com "Por tempo limitado: até <dia>" (`limitedCodes` da aba, em `homeStores.ts`;
+  o de sempre fica no `OutsideCampaignWindows`). O código de sempre, o título, o hub e os artigos não mudam. O
   `test:coupon-offer-modes` confere os prazos e avisa do vencido (tirar do array); o `getPendingLimitedCodes` é
   testado num cupom montado no teste, porque os dados reais perdem os itens vencidos.
 - `src/components/coupons/CouponStorePage.tsx` (lojas de `couponsData.ts`) e
