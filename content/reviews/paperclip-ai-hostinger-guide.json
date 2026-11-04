@@ -156,7 +156,7 @@
     {
       "heading": "SONAR20 coupon",
       "paragraphs": [
-        "Use the code **SONAR20** in the cart’s coupon field, or come in through this article’s link: it gives **20% off the first period**, on a monthly or annual plan, for new or existing customers. The code also works on renewal; check the price in the cart. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral). Check the price in the cart before you pay."
+        "Use the code **SONAR20** in the cart’s coupon field, or come in through this article’s link: it gives **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% also apply on renewal; check the price in the cart. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral). Check the price in the cart before you pay."
       ]
     },
     {
@@ -180,7 +180,7 @@
         "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. We found no independent audit in the sources read.",
         "Does it need an API key? Yes. On managed and on the VPS, the Paperclip page asks you to bring your own. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
         "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
-        "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The code also works on renewal; check the price in the cart."
+        "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% also apply on renewal; check the price in the cart."
       ]
     },
     {
@@ -193,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on renewal; check the price in the cart.",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on renewal; check the price in the cart.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

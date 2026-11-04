@@ -156,7 +156,7 @@
     {
       "heading": "Code SONAR20",
       "paragraphs": [
-        "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c’est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier. Où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Vérifiez le montant dans le panier avant de payer."
+        "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c’est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. Où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Vérifiez le montant dans le panier avant de payer."
       ]
     },
     {
@@ -180,7 +180,7 @@
         "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Nous n’avons pas trouvé d’audit indépendant dans les sources lues.",
         "Faut-il une clé d’API ? Oui. Sur le géré et sur le VPS, la page de Paperclip demande d’apporter les vôtres. Sur l’ordinateur, le README accepte aussi l’abonnement Claude ou Codex, sans clé d’API.",
         "Fonctionne-t-il avec Ollama ? Cela dépend de l’agent que vous connectez. Le README de Paperclip ne cite pas Ollama, un programme pour faire tourner un modèle d’IA sur son propre ordinateur. OpenClaw, par exemple, documente des modèles locaux ; dans Paperclip, le modèle reste du côté de l’agent que vous connectez.",
-        "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier."
+        "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier."
       ]
     },
     {
@@ -193,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier.",
+    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

@@ -149,7 +149,7 @@
         "**KVM 8（32 GB）。** 只有在用更大的本機模型時才有意義。文件沒有說每個大配方需要多少記憶體。"
       ],
       "postParagraphs": [
-        "代碼 SONAR20 在第一個週期享有 20% 折扣。代碼也適用於續約；請在購物車裡確認價格。[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，付款前請在購物車裡確認金額。Hostinger 正值黑色星期五，價格會變動：[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
+        "代碼 SONAR20 在第一個週期享有 20% 折扣。SONAR20 的 20% 折扣也適用於續約；請在購物車裡確認價格。[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，付款前請在購物車裡確認金額。Hostinger 正值黑色星期五，價格會變動：[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
       ]
     },
     {
@@ -227,7 +227,7 @@
       "heading": "SONAR20 優惠碼",
       "paragraphs": [],
       "postParagraphs": [
-        "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。代碼也適用於續約；請在購物車裡確認價格。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣也適用於續約；請在購物車裡確認價格。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
@@ -237,7 +237,7 @@
         "可以不用 API 金鑰執行嗎？可以，用本機模型，但這時記憶體就成了問題：文件把最小本機配方的下限定為 8 GiB（上下文 64K），並提醒這不保證模型放得下，也不保證跑得好。用 Hostinger 額度的話，不需要 AI 供應商的帳號，但要按使用量付費。",
         "Oracle 真的免費嗎？只要帳號維持在 Always Free 範圍內，就是免費的：Arm A1 上 2 個 OCPU 和 12 GB，外加 Micro 執行個體。如果執行個體閒置 7 天，CPU、網路和記憶體都低於 20%，Oracle 可能把它回收。",
         "Mac mini 還是 VPS？取決於電腦能不能 24 小時開著。能的話，在家執行可以省掉伺服器月費；不能的話，選 VPS 或託管。",
-        "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。代碼也適用於續約；請在購物車裡確認價格。"
+        "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。SONAR20 的 20% 折扣也適用於續約；請在購物車裡確認價格。"
       ]
     },
     {
@@ -250,7 +250,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。代碼也適用於續約，請在購物車裡確認價格。",
+    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。SONAR20 的 20% 折扣也適用於續約，請在購物車裡確認價格。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

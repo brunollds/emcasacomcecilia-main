@@ -174,7 +174,7 @@
         "Hostinger rimborsa? Sì, entro 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo di dominio e i servizi di assistenza a pagamento non vengono rimborsati.",
         "Il rinnovo di Hostinger è automatico? Sì, per impostazione predefinita. Puoi disattivarlo nell'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
         "Chi addebita su Hostinger? Dipende dal paese. L'azienda contraente segue la sezione 2 dei termini, e anche altre società del gruppo possono addebitare. Controlla il nome mostrato al checkout.",
-        "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello."
+        "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello."
       ]
     },
     {
@@ -191,7 +191,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
     "label": "Vedi i piani di Hostinger",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
