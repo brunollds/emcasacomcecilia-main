@@ -98088,6 +98088,1181 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/shein/shein-vale-a-pena-capa.webp",
+      "local_url": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 175870,
+      "sha256": "975d937117d8ce593a9c92a871f64d2709af399e88eb3b3e514c154bf392592a",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-vale-a-pena-capa.webp",
+      "storage_filename": "shein-vale-a-pena-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-shein-worth-it.json",
+        "content/reviews/lohnt-sich-shein.json",
+        "content/reviews/shein-ca-vaut-le-coup.json",
+        "content/reviews/shein-conviene.json",
+        "content/reviews/shein-vale-a-pena.json",
+        "content/reviews/shein-worth-it-ja.json",
+        "content/reviews/shein-worth-it-ko.json",
+        "content/reviews/shein-worth-it-zh-hans.json",
+        "content/reviews/shein-worth-it-zh-hant.json",
+        "content/reviews/vale-la-pena-shein.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/shein-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-shein-worth-it.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/lohnt-sich-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ca-vaut-le-coup.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-conviene.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vale-a-pena.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-worth-it-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-worth-it-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-worth-it-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-worth-it-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vale-la-pena-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/shein-vale-a-pena.md",
+          "line": 278,
+          "column": 45,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/shein-vale-a-pena.md",
+          "line": 334,
+          "column": 10,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182228,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182468,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182628,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182788,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182948,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183108,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183268,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183428,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183588,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183748,
+          "column": 15,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/975d937117d8ce593a9c92a871f64d2709af399e88eb3b3e514c154bf392592a/shein-vale-a-pena-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/975d937117d8ce593a9c92a871f64d2709af399e88eb3b3e514c154bf392592a/shein-vale-a-pena-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-04T21:34:59.900Z",
+      "verification_etag_or_digest": "975d937117d8ce593a9c92a871f64d2709af399e88eb3b3e514c154bf392592a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+      "local_url": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 142646,
+      "sha256": "6fbae555a93b72ee54febd994292496ea9539486367bad0a3577313089f60517",
+      "width": 900,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-vale-a-pena-casaco-motf-aberto.webp",
+      "storage_filename": "shein-vale-a-pena-casaco-motf-aberto.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/is-shein-worth-it.json",
+        "content/reviews/lohnt-sich-shein.json",
+        "content/reviews/shein-ca-vaut-le-coup.json",
+        "content/reviews/shein-conviene.json",
+        "content/reviews/shein-vale-a-pena.json",
+        "content/reviews/shein-worth-it-ja.json",
+        "content/reviews/shein-worth-it-ko.json",
+        "content/reviews/shein-worth-it-zh-hans.json",
+        "content/reviews/shein-worth-it-zh-hant.json",
+        "content/reviews/vale-la-pena-shein.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/shein-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/is-shein-worth-it.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/lohnt-sich-shein.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-ca-vaut-le-coup.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-conviene.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-vale-a-pena.json",
+          "line": 197,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-worth-it-ja.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-worth-it-ko.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-worth-it-zh-hans.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-worth-it-zh-hant.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/vale-la-pena-shein.json",
+          "line": 118,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/shein-vale-a-pena.md",
+          "line": 276,
+          "column": 8,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182401,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182561,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182721,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182881,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183041,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183201,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183361,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183521,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183681,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183841,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/6fbae555a93b72ee54febd994292496ea9539486367bad0a3577313089f60517/shein-vale-a-pena-casaco-motf-aberto.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/6fbae555a93b72ee54febd994292496ea9539486367bad0a3577313089f60517/shein-vale-a-pena-casaco-motf-aberto.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-04T21:34:59.901Z",
+      "verification_etag_or_digest": "6fbae555a93b72ee54febd994292496ea9539486367bad0a3577313089f60517",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-vale-a-pena-casaco-motf.webp",
+      "local_url": "/images/reviews/shein/shein-vale-a-pena-casaco-motf.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 140904,
+      "sha256": "528552f185a9f09334466f5369493412f6a7078916f6873437bd1f94657f1615",
+      "width": 900,
+      "height": 1199,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-vale-a-pena-casaco-motf.webp",
+      "storage_filename": "shein-vale-a-pena-casaco-motf.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vale-a-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/shein-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vale-a-pena.json",
+          "line": 130,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/shein-vale-a-pena.md",
+          "line": 274,
+          "column": 8,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182334,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-casaco-motf.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/528552f185a9f09334466f5369493412f6a7078916f6873437bd1f94657f1615/shein-vale-a-pena-casaco-motf.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/528552f185a9f09334466f5369493412f6a7078916f6873437bd1f94657f1615/shein-vale-a-pena-casaco-motf.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-04T21:34:59.901Z",
+      "verification_etag_or_digest": "528552f185a9f09334466f5369493412f6a7078916f6873437bd1f94657f1615",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/shein-vale-a-pena-vestido-loja-parceira.webp",
+      "local_url": "/images/reviews/shein/shein-vale-a-pena-vestido-loja-parceira.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71014,
+      "sha256": "15b52c440855a649c9493f13a4921ce5684e8fbc4bf217d7f189d36050661a33",
+      "width": 900,
+      "height": 1125,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "shein-vale-a-pena-vestido-loja-parceira.webp",
+      "storage_filename": "shein-vale-a-pena-vestido-loja-parceira.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-vale-a-pena.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/shein-vale-a-pena.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-vale-a-pena.json",
+          "line": 123,
+          "column": 19,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-vestido-loja-parceira.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/shein-vale-a-pena.md",
+          "line": 273,
+          "column": 8,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-vestido-loja-parceira.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 182327,
+          "column": 21,
+          "literal": "/images/reviews/shein/shein-vale-a-pena-vestido-loja-parceira.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/15b52c440855a649c9493f13a4921ce5684e8fbc4bf217d7f189d36050661a33/shein-vale-a-pena-vestido-loja-parceira.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/15b52c440855a649c9493f13a4921ce5684e8fbc4bf217d7f189d36050661a33/shein-vale-a-pena-vestido-loja-parceira.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-04T21:34:59.901Z",
+      "verification_etag_or_digest": "15b52c440855a649c9493f13a4921ce5684e8fbc4bf217d7f189d36050661a33",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+      "local_url": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 45480,
+      "sha256": "93a2a0f3e28a17e74e7dbe2f2d1ac7e5a559733ac284f80305fda25f11508fd2",
+      "width": 900,
+      "height": 1198,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tamanho-shein-camiseta-dazy.webp",
+      "storage_filename": "tamanho-shein-camiseta-dazy.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-groessen.json",
+        "content/reviews/shein-size-guide-ja.json",
+        "content/reviews/shein-size-guide-ko.json",
+        "content/reviews/shein-size-guide-zh-hans.json",
+        "content/reviews/shein-size-guide-zh-hant.json",
+        "content/reviews/shein-size-guide.json",
+        "content/reviews/taglie-shein.json",
+        "content/reviews/tailles-shein.json",
+        "content/reviews/tallas-shein.json",
+        "content/reviews/tamanho-shein-brasil.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-groessen.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-ja.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-ko.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-zh-hans.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-zh-hant.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/taglie-shein.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tailles-shein.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tallas-shein.json",
+          "line": 106,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tamanho-shein-brasil.json",
+          "line": 108,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+          "line": 265,
+          "column": 8,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183991,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184300,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184576,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184852,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185128,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185404,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185680,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185956,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 186232,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 186508,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/93a2a0f3e28a17e74e7dbe2f2d1ac7e5a559733ac284f80305fda25f11508fd2/tamanho-shein-camiseta-dazy.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/93a2a0f3e28a17e74e7dbe2f2d1ac7e5a559733ac284f80305fda25f11508fd2/tamanho-shein-camiseta-dazy.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-04T21:34:59.901Z",
+      "verification_etag_or_digest": "93a2a0f3e28a17e74e7dbe2f2d1ac7e5a559733ac284f80305fda25f11508fd2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+      "local_url": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61338,
+      "sha256": "040fe33b4626749d1098271fd7d53739bde9dcfbf0715d8cf37df03d41b93289",
+      "width": 900,
+      "height": 1198,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tamanho-shein-camiseta-essnce.webp",
+      "storage_filename": "tamanho-shein-camiseta-essnce.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-groessen.json",
+        "content/reviews/shein-size-guide-ja.json",
+        "content/reviews/shein-size-guide-ko.json",
+        "content/reviews/shein-size-guide-zh-hans.json",
+        "content/reviews/shein-size-guide-zh-hant.json",
+        "content/reviews/shein-size-guide.json",
+        "content/reviews/taglie-shein.json",
+        "content/reviews/tailles-shein.json",
+        "content/reviews/tallas-shein.json",
+        "content/reviews/tamanho-shein-brasil.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-groessen.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-ja.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-ko.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-zh-hans.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-zh-hant.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/taglie-shein.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tailles-shein.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tallas-shein.json",
+          "line": 113,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tamanho-shein-brasil.json",
+          "line": 115,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+          "line": 266,
+          "column": 8,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183998,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184307,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184583,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184859,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185135,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185411,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185687,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185963,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 186239,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 186515,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/040fe33b4626749d1098271fd7d53739bde9dcfbf0715d8cf37df03d41b93289/tamanho-shein-camiseta-essnce.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/040fe33b4626749d1098271fd7d53739bde9dcfbf0715d8cf37df03d41b93289/tamanho-shein-camiseta-essnce.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-04T21:34:59.901Z",
+      "verification_etag_or_digest": "040fe33b4626749d1098271fd7d53739bde9dcfbf0715d8cf37df03d41b93289",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/tamanho-shein-capa.webp",
+      "local_url": "/images/reviews/shein/tamanho-shein-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 94062,
+      "sha256": "1b96e094cb1fb3d9a3b468aa11498b92998a57240336092c723db02ae7faf4be",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tamanho-shein-capa.webp",
+      "storage_filename": "tamanho-shein-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/shein-groessen.json",
+        "content/reviews/shein-size-guide-ja.json",
+        "content/reviews/shein-size-guide-ko.json",
+        "content/reviews/shein-size-guide-zh-hans.json",
+        "content/reviews/shein-size-guide-zh-hant.json",
+        "content/reviews/shein-size-guide.json",
+        "content/reviews/taglie-shein.json",
+        "content/reviews/tailles-shein.json",
+        "content/reviews/tallas-shein.json",
+        "content/reviews/tamanho-shein-brasil.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/shein-groessen.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-ja.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-ko.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-zh-hans.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide-zh-hant.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/shein-size-guide.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/taglie-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tailles-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tallas-shein.json",
+          "line": 25,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/tamanho-shein-brasil.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+          "line": 272,
+          "column": 45,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+          "line": 325,
+          "column": 10,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 183907,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184219,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184495,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184771,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185047,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185323,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185599,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 185875,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 186151,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 186427,
+          "column": 15,
+          "literal": "/images/reviews/shein/tamanho-shein-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/1b96e094cb1fb3d9a3b468aa11498b92998a57240336092c723db02ae7faf4be/tamanho-shein-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/1b96e094cb1fb3d9a3b468aa11498b92998a57240336092c723db02ae7faf4be/tamanho-shein-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-04T21:34:59.901Z",
+      "verification_etag_or_digest": "1b96e094cb1fb3d9a3b468aa11498b92998a57240336092c723db02ae7faf4be",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/tamanho-shein-tabela-loja-parceira.webp",
+      "local_url": "/images/reviews/shein/tamanho-shein-tabela-loja-parceira.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30380,
+      "sha256": "5394503c70efb037278befa21982a6cd71408b089799e62f2d6d8c070abb1d2a",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tamanho-shein-tabela-loja-parceira.webp",
+      "storage_filename": "tamanho-shein-tabela-loja-parceira.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tamanho-shein-brasil.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tamanho-shein-brasil.json",
+          "line": 238,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-tabela-loja-parceira.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+          "line": 267,
+          "column": 8,
+          "literal": "/images/reviews/shein/tamanho-shein-tabela-loja-parceira.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184121,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-tabela-loja-parceira.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5394503c70efb037278befa21982a6cd71408b089799e62f2d6d8c070abb1d2a/tamanho-shein-tabela-loja-parceira.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5394503c70efb037278befa21982a6cd71408b089799e62f2d6d8c070abb1d2a/tamanho-shein-tabela-loja-parceira.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-04T21:34:59.901Z",
+      "verification_etag_or_digest": "5394503c70efb037278befa21982a6cd71408b089799e62f2d6d8c070abb1d2a",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/shein/tamanho-shein-vestido-loja-parceira.webp",
+      "local_url": "/images/reviews/shein/tamanho-shein-vestido-loja-parceira.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 62094,
+      "sha256": "9e705d8dcca4cb3b5cd4d4549a7687a88739535556b2a175c401daa04cce179b",
+      "width": 900,
+      "height": 1125,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "tamanho-shein-vestido-loja-parceira.webp",
+      "storage_filename": "tamanho-shein-vestido-loja-parceira.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/tamanho-shein-brasil.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/tamanho-shein-brasil.json",
+          "line": 245,
+          "column": 19,
+          "literal": "/images/reviews/shein/tamanho-shein-vestido-loja-parceira.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/tamanho-shein-brasil.md",
+          "line": 268,
+          "column": 8,
+          "literal": "/images/reviews/shein/tamanho-shein-vestido-loja-parceira.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 184128,
+          "column": 21,
+          "literal": "/images/reviews/shein/tamanho-shein-vestido-loja-parceira.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9e705d8dcca4cb3b5cd4d4549a7687a88739535556b2a175c401daa04cce179b/tamanho-shein-vestido-loja-parceira.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9e705d8dcca4cb3b5cd4d4549a7687a88739535556b2a175c401daa04cce179b/tamanho-shein-vestido-loja-parceira.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-04T21:34:59.901Z",
+      "verification_etag_or_digest": "9e705d8dcca4cb3b5cd4d4549a7687a88739535556b2a175c401daa04cce179b",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
       "local_url": "/images/reviews/shein/vestido-de-festa-shein-adyce-cauda.webp",
       "media_kind": "image",

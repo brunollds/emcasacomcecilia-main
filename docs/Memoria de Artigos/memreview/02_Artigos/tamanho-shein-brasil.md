@@ -165,8 +165,8 @@ Você veste M, pediu M, e a camiseta chegou de outro tamanho: na SHEIN, a letra 
 
 | Camiseta | Busto da peça no M | Letra brasileira do M [só PT] | Tipo de ajuste | Elasticidade | Tecido |
 |---|---|---|---|---|---|
-| [Camiseta DAZY de manga curta](LINK-AFILIADO-PENDENTE: https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html) | 93 cm | PP | Regular | Pouco | 100% algodão |
-| [Camiseta SHEIN Essnce lisa](LINK-AFILIADO-PENDENTE: https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html) | 82 cm | M | Entre skinny e regular | Muito | 95% viscose e 5% elastano |
+| [Camiseta DAZY de manga curta](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C) | 93 cm | PP | Regular | Pouco | 100% algodão |
+| [Camiseta SHEIN Essnce lisa](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C) | 82 cm | M | Entre skinny e regular | Muito | 95% viscose e 5% elastano |
 
 *Legenda: Busto da peça no tamanho M internacional, pelo "Guia de tamanhos" de cada página; o guia inteiro da DAZY está mais abaixo.*
 
@@ -321,7 +321,7 @@ Revisor em contexto limpo contra os fatos de 04/11, o briefing, as REGRAS-GLOBAI
 Fica para o Job 4: fora do PT, os nomes da interface da SHEIN ("Guia de tamanhos", "Tamanho e ajuste", "Como o comprador avaliou o look", "Diga-me o seu tamanho", os valores de elasticidade) vão descritos, não entre aspas, porque o nome em cada idioma não foi lido.
 
 ## Capa e imagens (Job 6, 04/11/2026)
-Capa gerada com `covers:render` (spec no scratchpad da sessão) e folha de aprovação em JPG enviada ao Bruno em 04/11/2026. A capa foi refeita no mesmo dia com "S · M · L", sem o "cm", a pedido dele. **Aguarda a aprovação**; depois, o CDN pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`. Nenhuma foto do corpo repete a da capa, e nenhuma tem `href`.
+Capa gerada com `covers:render` (spec no scratchpad da sessão) e folha de aprovação em JPG enviada ao Bruno em 04/11/2026. A capa foi refeita no mesmo dia com "S · M · L", sem o "cm", a pedido dele. **Folha aprovada pelo Bruno em 04/11/2026**; as 9 imagens novas dos dois artigos subiram ao CDN pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md` (inventário só com as entradas novas, upload, `verify-remote`, mapa de entrega e `phase5-export`) e estão `verified` no manifesto e no mapa de entrega. Nenhuma foto do corpo repete a da capa, e nenhuma tem `href`.
 - Capa: `/images/reviews/shein/tamanho-shein-capa.webp`.
 - Corpo, 4 novas: as camisetas DAZY e Essnce em "A mesma letra muda de marca para marca" (10 idiomas), e a tabela e o vestido da loja parceira no capítulo do Envio Nacional (só PT).
 
@@ -342,4 +342,4 @@ JSON `content/reviews/tamanho-shein-brasil.json`, id 804, e as 9 traduções (id
 
 Gates antes do CDN, verdes: `validate:content`, `test:review-i18n` (34 famílias), `test:article-d2`, `typecheck`, `test:reviews-hub`, `test:site-search` e `test:covers`. Faltam, depois do CDN: `test-delivery-integration`, `phase5-export --check`, `candidate-proof`, o `npm run build` e o `test:build-output`.
 
-Pendente: os links de afiliado da DAZY e da Essnce, na tabela das camisetas (10 idiomas). O Bruno converte os links.
+Os links de afiliado da DAZY e da Essnce (`onelink.shein.com/59/...`) chegaram do Bruno em 04/11/2026 e estão na tabela das camisetas, o mesmo link nos 10 idiomas, como pede a nota do cluster para link de peça.

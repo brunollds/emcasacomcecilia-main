@@ -197,9 +197,9 @@ A conta muda com o envio e com o valor: a básica barata, sozinha, paga frete; a
 
 | Peça | Envio | Preço de venda | Frete | Prazo na página | O que a descrição diz |
 |---|---|---|---|---|---|
-| [Camiseta SHEIN Essnce](LINK-AFILIADO-PENDENTE: https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html) | Internacional | a partir de R$ 48,91 (de R$ 50,95) | R$ 15,00 sozinha, abaixo do mínimo | De 8 a 19 dias; 60% em até 14 dias | 95% viscose e 5% elastano |
-| [Vestido midi de alfaiataria](LINK-AFILIADO-PENDENTE: https://br.shein.com/Women-s-Tailored-Midi-Dress-Elegant-With-Slit-Detail-And-Front-Tie-p-485599894.html) | Envio Nacional, loja parceira local | R$ 79,99 (de R$ 130,00) | Grátis | De 4 a 7 dias úteis | Elastano e poliéster; P, M, G e GG |
-| [Casaco de lã MOTF PREMIUM](LINK-AFILIADO-PENDENTE: https://br.shein.com/MOTF-PREMIUM-WOMEN-S-SOLID-COLOR-LAPEL-NECK-LONG-SLEEVE-DOUBLE-BREASTED-ELEGANT-WOOL-COAT-p-564613696.html) | Internacional | R$ 513,56 (US$ 94,44 na página) | Grátis | De 8 a 19 dias; 60% em até 14 dias | 50% lã e 50% poliéster; só lavagem a seco; sem forro |
+| [Camiseta SHEIN Essnce](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C) | Internacional | a partir de R$ 48,91 (de R$ 50,95) | R$ 15,00 sozinha, abaixo do mínimo | De 8 a 19 dias; 60% em até 14 dias | 95% viscose e 5% elastano |
+| [Vestido midi de alfaiataria](https://onelink.shein.com/59/677nkr07aerh?ismg_ol=DKAmqzFlK5w_01_KOC-C) | Envio Nacional, loja parceira local | R$ 79,99 (de R$ 130,00) | Grátis | De 4 a 7 dias úteis | Elastano e poliéster; P, M, G e GG |
+| [Casaco de lã MOTF PREMIUM](https://onelink.shein.com/59/677nlgnlqf6n?ismg_ol=GFFZMTcDLpq_01_KOC-C) | Internacional | R$ 513,56 (US$ 94,44 na página) | Grátis | De 8 a 19 dias; 60% em até 14 dias | 50% lã e 50% poliéster; só lavagem a seco; sem forro |
 
 *Legenda: Preço de venda da página de cada peça, sem cupom, 04/11; a promoção muda o valor, então confira de novo antes de pagar.*
 
@@ -330,7 +330,7 @@ Revisor em contexto limpo contra os fatos de 04/11, o briefing, as REGRAS-GLOBAI
 Notas do revisor que ficam para o Bruno: os documentos do vault que ainda dizem "SHEIN Brasil" ou proíbem `br.shein.com` fora do PT (CONTRATOS-DE-CONTEUDO seção 2, Job 3 item 8, Job 2 regra 6 e Anexo-Moda), contra a regra de 02/11.
 
 ## Capa e imagens (Job 6, 04/11/2026)
-Capa gerada com `covers:render` (spec no scratchpad da sessão) e folha de aprovação em JPG enviada ao Bruno em 04/11/2026. **Aguarda a aprovação**; depois, o CDN pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`. Nenhuma foto do corpo repete a da capa, e nenhuma tem `href`.
+Capa gerada com `covers:render` (spec no scratchpad da sessão) e folha de aprovação em JPG enviada ao Bruno em 04/11/2026. **Folha aprovada pelo Bruno em 04/11/2026**; as 9 imagens novas dos dois artigos subiram ao CDN pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md` (inventário só com as entradas novas, upload, `verify-remote`, mapa de entrega e `phase5-export`) e estão `verified` no manifesto e no mapa de entrega. Nenhuma foto do corpo repete a da capa, e nenhuma tem `href`.
 - Capa: `/images/reviews/shein/shein-vale-a-pena-capa.webp`.
 - Corpo, 3 novas: o vestido da loja parceira e o casaco MOTF PREMIUM de frente em "A conta" (só PT), e o casaco aberto em "Antes de pagar" (10 idiomas). Em "Devolução", a ilustração do rastreio que já está no CDN (`shein-rastreio-reembolso-tela-2910.webp`).
 
@@ -353,4 +353,6 @@ JSON `content/reviews/shein-vale-a-pena.json`, id 794, e as 9 traduções (ids 7
 
 Gates antes do CDN, verdes: `validate:content`, `test:review-i18n` (34 famílias), `test:article-d2`, `typecheck`, `test:reviews-hub`, `test:site-search` e `test:covers`. Faltam, depois do CDN: `test-delivery-integration`, `phase5-export --check`, `candidate-proof`, o `npm run build` e o `test:build-output`.
 
-Pendente: os links de afiliado da Essnce, do vestido e do casaco MOTF, nas linhas da tabela "A conta" (só PT). O Bruno converte os links.
+Os links de afiliado da Essnce, do vestido e do casaco MOTF (`onelink.shein.com/59/...`) chegaram do Bruno em 04/11/2026 e estão na tabela "A conta" (só PT).
+
+Data da alíquota zero: decisão do Bruno em 04/11/2026, 12/05. O `black-friday-shein` foi corrigido nos dois lugares em que dizia 13 de maio, e o `shein-e-confiavel` já dizia só "desde maio".

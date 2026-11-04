@@ -60093,7 +60093,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Desde 13 de maio de 2026, pedidos de até US$ 50 não pagam imposto de importação",
+      "Desde 12 de maio de 2026, pedidos de até US$ 50 não pagam imposto de importação",
       "Nos três últimos anos, as ofertas começaram antes da Black Friday e continuaram depois dela",
       "Produtos de Envio Nacional não pagam imposto de importação",
       "Devolução em até 20 dias, com a primeira devolução de cada pedido grátis"
@@ -60172,7 +60172,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O imposto na Black Friday: o que mudou em 2026",
         "paragraphs": [
-          "A SHEIN está no Remessa Conforme, então o imposto aparece no checkout, junto do pedido. Em regra não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 13 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502/2026 confirmou que o governo pode manter a alíquota zero nessa faixa.",
+          "A SHEIN está no Remessa Conforme, então o imposto aparece no checkout, junto do pedido. Em regra não há cobrança extra na entrega, mas a Receita Federal pode reavaliar o valor do pacote, e isso muda o imposto devido. Em 12 de maio de 2026, o imposto de importação das compras de até US$ 50 foi zerado. A Lei 15.502/2026 confirmou que o governo pode manter a alíquota zero nessa faixa.",
           "A conta vale por pedido e usa o valor do produto mais o frete, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
         ],
         "comparisonTable": {
@@ -182294,7 +182294,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Camiseta SHEIN Essnce](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[Camiseta SHEIN Essnce](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "Internacional",
               "a partir de R$ 48,91 (de R$ 50,95)",
               "R$ 15,00 sozinha, abaixo do mínimo",
@@ -182302,7 +182302,7 @@ export const reviewsData: unknown[] = [
               "95% viscose e 5% elastano"
             ],
             [
-              "[Vestido midi de alfaiataria](https://br.shein.com/Women-s-Tailored-Midi-Dress-Elegant-With-Slit-Detail-And-Front-Tie-p-485599894.html)",
+              "[Vestido midi de alfaiataria](https://onelink.shein.com/59/677nkr07aerh?ismg_ol=DKAmqzFlK5w_01_KOC-C)",
               "Envio Nacional, loja parceira local",
               "R$ 79,99 (de R$ 130,00)",
               "Grátis",
@@ -182310,7 +182310,7 @@ export const reviewsData: unknown[] = [
               "Elastano e poliéster; P, M, G e GG"
             ],
             [
-              "[Casaco de lã MOTF PREMIUM](https://br.shein.com/MOTF-PREMIUM-WOMEN-S-SOLID-COLOR-LAPEL-NECK-LONG-SLEEVE-DOUBLE-BREASTED-ELEGANT-WOOL-COAT-p-564613696.html)",
+              "[Casaco de lã MOTF PREMIUM](https://onelink.shein.com/59/677nlgnlqf6n?ismg_ol=GFFZMTcDLpq_01_KOC-C)",
               "Internacional",
               "R$ 513,56 (US$ 94,44 na página)",
               "Grátis",
@@ -183965,7 +183965,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Camiseta DAZY de manga curta](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[Camiseta DAZY de manga curta](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "PP",
               "Regular",
@@ -183973,7 +183973,7 @@ export const reviewsData: unknown[] = [
               "100% algodão"
             ],
             [
-              "[Camiseta SHEIN Essnce lisa](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[Camiseta SHEIN Essnce lisa](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "M",
               "Entre skinny e regular",
@@ -184276,14 +184276,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[DAZY short-sleeve T-shirt](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[DAZY short-sleeve T-shirt](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "Regular",
               "Slight",
               "100% cotton"
             ],
             [
-              "[SHEIN Essnce plain T-shirt](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[SHEIN Essnce plain T-shirt](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "Between skinny and regular",
               "High",
@@ -184552,14 +184552,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Camiseta DAZY de manga corta](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[Camiseta DAZY de manga corta](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "Regular",
               "Poca",
               "100% algodón"
             ],
             [
-              "[Camiseta lisa SHEIN Essnce](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[Camiseta lisa SHEIN Essnce](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "Entre skinny y regular",
               "Alta",
@@ -184828,14 +184828,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[T-shirt DAZY à manches courtes](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[T-shirt DAZY à manches courtes](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "Coupe régulière",
               "Légère",
               "100 % coton"
             ],
             [
-              "[T-shirt SHEIN Essnce uni](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[T-shirt SHEIN Essnce uni](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "Entre skinny et régulière",
               "Forte",
@@ -185104,14 +185104,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[DAZY-Kurzarm-T-Shirt](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[DAZY-Kurzarm-T-Shirt](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "Regular",
               "Leicht",
               "100 % Baumwolle"
             ],
             [
-              "[Unifarbenes SHEIN-Essnce-T-Shirt](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[Unifarbenes SHEIN-Essnce-T-Shirt](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "Zwischen Skinny und Regular",
               "Stark",
@@ -185380,14 +185380,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[Maglietta DAZY a maniche corte](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[Maglietta DAZY a maniche corte](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "Regolare",
               "Poca",
               "100% cotone"
             ],
             [
-              "[Maglietta SHEIN Essnce in tinta unita](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[Maglietta SHEIN Essnce in tinta unita](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "Tra skinny e regolare",
               "Alta",
@@ -185656,14 +185656,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[DAZY 반팔 티셔츠](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[DAZY 반팔 티셔츠](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "레귤러 핏",
               "약간 늘어남",
               "면 100%"
             ],
             [
-              "[SHEIN Essnce 무지 반팔 티셔츠](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[SHEIN Essnce 무지 반팔 티셔츠](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "스키니와 레귤러 사이",
               "많이 늘어남",
@@ -185932,14 +185932,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[DAZYの半袖Tシャツ](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[DAZYの半袖Tシャツ](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "レギュラーフィット",
               "わずかに伸びる",
               "綿100%"
             ],
             [
-              "[SHEIN Essnceの無地Tシャツ](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[SHEIN Essnceの無地Tシャツ](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "スキニーとレギュラーの中間",
               "よく伸びる",
@@ -186208,14 +186208,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[DAZY 純色短袖 T 恤](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[DAZY 純色短袖 T 恤](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "常規版型",
               "稍有彈性",
               "100% 棉"
             ],
             [
-              "[SHEIN Essnce 純色短袖 T 恤](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[SHEIN Essnce 純色短袖 T 恤](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "介於緊身與常規之間",
               "彈性很大",
@@ -186484,14 +186484,14 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "[DAZY 纯色短袖 T 恤](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "[DAZY 纯色短袖 T 恤](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
               "93 cm",
               "常规版型",
               "略有弹性",
               "100% 棉"
             ],
             [
-              "[SHEIN Essnce 纯色短袖 T 恤](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "[SHEIN Essnce 纯色短袖 T 恤](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
               "82 cm",
               "介于紧身和常规之间",
               "弹性很大",
