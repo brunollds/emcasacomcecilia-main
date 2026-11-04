@@ -20,7 +20,7 @@ import { CECILIA_FULL_NAME } from '../src/lib/ceciliaCredentials';
 import { generateSectionIds, inferReviewKind, type EditorialNoteData, type Recommendation } from '../src/lib/content';
 import { getReviewCanonicalPathname } from '../src/lib/content/review-i18n';
 import { getArticleStoreBlock, type ArticleStoreBlock } from '../src/lib/articleStore';
-import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
+import { getAllActiveCouponSlugs, getCouponBySlug, getCouponHubSections, getOtherActiveCoupons, getPendingLimitedCodes, getStoreCodeKind, type Coupon } from '../src/lib/couponsData';
 import {
   getCouponLanguageLinks,
   getCouponStorePath,
@@ -2449,8 +2449,16 @@ for (const { pagePath, store } of couponStorePages) {
   // Os "Outros cupons" só existem em português (CouponStorePage).
   const others = pagePath.startsWith('/cupons/') ? getOtherActiveCoupons(store.slug) : [];
   const copyable = hasCopyCode(store);
+  // O código com prazo que já começou sai no HTML, só em português e só em loja sem faixas.
+  const limited = pagePath.startsWith('/cupons/') && copyable ? getPendingLimitedCodes(store).filter((item) => item.inHtml) : [];
+  const limitedInHtml = body.match(/data-limited-code="[^"]+"/g) ?? [];
+  assert.deepEqual(
+    limitedInHtml.map((attribute) => attribute.slice('data-limited-code="'.length, -1)),
+    limited.map((item) => item.code),
+    `${pagePath}: os códigos com prazo no HTML não são os do prazo de hoje`
+  );
   const expected = {
-    total: Number(copyable) + Number(Boolean(store.referral)) + others.filter(hasCopyCode).length,
+    total: Number(copyable) + Number(Boolean(store.referral)) + others.filter(hasCopyCode).length + limited.length,
     withScissors: Number(copyable),
   };
   assertStoreCutout(pagePath, body, copyable);

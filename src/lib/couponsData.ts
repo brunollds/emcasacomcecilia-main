@@ -104,12 +104,35 @@ export type CouponCodeOffer = CouponBase & {
   codeFieldLabel?: string;
   codeInstructions?: string[];
   history?: CouponHistory[];
+  // Códigos da parceria que valem só num prazo (o CECIEMCASA15 da I Wanna Sleep), ao lado do código de sempre,
+  // que segue valendo. A página da loja mostra cada um só dentro do prazo, e o navegador o esconde quando vence.
+  limitedCodes?: LimitedCode[];
   tiers?: {
     code: string;
     discount: string;
     minPurchase: string;
   }[];
 };
+
+export type LimitedCode = {
+  code: string;
+  discount: string;
+  // Com -03:00, como as campanhas: o fim é o último minuto do dia que a loja anuncia.
+  startsAt: string;
+  endsAt: string;
+  // Dia do teste no carrinho (AAAA-MM-DD) e o que ele mostrou.
+  testedAt: string;
+  testNote: string;
+};
+
+// Os códigos com prazo que ainda não venceram, com o que o HTML do build mostra: o que já começou. O que começa
+// ou vence até o próximo deploy aparece ou some no navegador (CampaignWindow).
+export function getPendingLimitedCodes(coupon: Coupon, now = Date.now()) {
+  if (coupon.offerMode !== 'discount-code') return [];
+  return (coupon.limitedCodes ?? [])
+    .filter((item) => Date.parse(item.endsAt) >= now)
+    .map((item) => ({ ...item, inHtml: Date.parse(item.startsAt) <= now }));
+}
 
 export type AffiliateLinkOffer = CouponBase & {
   offerMode: 'affiliate-link';
@@ -685,6 +708,25 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
     lastVerified: '2026-10-24',
+    limitedCodes: [
+      {
+        code: 'CECIEMCASA15',
+        discount: '15% OFF',
+        startsAt: '2026-11-04T00:00:00-03:00',
+        endsAt: '2026-11-08T23:59:59-03:00',
+        testedAt: '2026-11-04',
+        testNote: 'deu 15% no carrinho inteiro, inclusive no kit em promoção',
+      },
+      {
+        // Upgrade de cupom da Black Friday da loja (26 e 27/11), com o mesmo código.
+        code: 'CECIEMCASA15',
+        discount: '15% OFF',
+        startsAt: '2026-11-26T00:00:00-03:00',
+        endsAt: '2026-11-27T23:59:59-03:00',
+        testedAt: '2026-11-04',
+        testNote: 'deu 15% no carrinho inteiro, inclusive no kit em promoção',
+      },
+    ],
     testNote:
       'Aplicamos o CECIEMCASA num carrinho de R$ 6.163,00 com um box IWS Linen Gray e um kit Pillow Top Magnum, e o total caiu para R$ 5.546,70, com R$ 616,30 de desconto: os 10% valeram nos dois itens.',
     aboutBrand:

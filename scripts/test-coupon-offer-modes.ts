@@ -4,6 +4,7 @@ import {
   getAllActiveCouponSlugs,
   getCouponBySlug,
   getCouponHubSections,
+  getPendingLimitedCodes,
   getStoreCodeKind,
   MERCADO_LIVRE_COUPONS_URL,
   type AffiliateLinkOffer,
@@ -260,5 +261,36 @@ for (const coupon of COUPONS.filter((item) => item.status === 'ativo')) {
     `${coupon.slug}: o mês do título não é o mês da oferta testada em ${coupon.lastVerified}`
   );
 }
+
+// Códigos com prazo: horário de Brasília, prazos que não se cruzam, código diferente do de sempre e teste antes do
+// prazo. O vencido não quebra o build (o navegador já o esconde), mas avisa para tirar o item.
+const BRASILIA_TIME = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}-03:00$/;
+for (const coupon of COUPONS) {
+  if (coupon.offerMode !== 'discount-code' || !coupon.limitedCodes) continue;
+  assert.ok(!coupon.tiers, `${coupon.slug}: loja com faixas não leva código com prazo`);
+  const windows = [...coupon.limitedCodes].sort((a, b) => Date.parse(a.startsAt) - Date.parse(b.startsAt));
+  windows.forEach((item, index) => {
+    const label = `${coupon.slug} ${item.code} (${item.startsAt})`;
+    assert.match(item.code, /^[A-Z0-9]{4,30}$/, `${label}: código fora do formato`);
+    assert.notEqual(item.code, coupon.code, `${label}: é o código de sempre da loja`);
+    assert.match(item.startsAt, BRASILIA_TIME, `${label}: início sem -03:00`);
+    assert.match(item.endsAt, BRASILIA_TIME, `${label}: fim sem -03:00`);
+    assert.ok(Date.parse(item.startsAt) < Date.parse(item.endsAt), `${label}: o fim vem antes do início`);
+    assert.match(item.testedAt, /^\d{4}-\d{2}-\d{2}$/, `${label}: testedAt fora do formato`);
+    assert.ok(item.testedAt <= item.endsAt.slice(0, 10), `${label}: teste depois do prazo`);
+    assert.ok(item.testNote && !item.testNote.endsWith('.'), `${label}: testNote vazio ou com ponto final`);
+    const next = windows[index + 1];
+    if (next) assert.ok(Date.parse(item.endsAt) < Date.parse(next.startsAt), `${label}: o prazo cruza o do ${next.code}`);
+  });
+  const ended = coupon.limitedCodes.length - getPendingLimitedCodes(coupon).length;
+  if (ended > 0) console.warn(`⚠️ ${coupon.slug}: ${ended} código(s) com prazo vencido(s); tire de limitedCodes em couponsData.ts.`);
+}
+const iwsLimited = getCouponBySlug('i-wanna-sleep');
+assert.ok(iwsLimited && iwsLimited.offerMode === 'discount-code');
+assert.equal(iwsLimited.code, 'CECIEMCASA', 'o CECIEMCASA segue como código de sempre da I Wanna Sleep');
+const atStart = getPendingLimitedCodes(iwsLimited, Date.parse('2026-11-05T12:00:00-03:00'));
+assert.deepEqual(atStart.map((item) => [item.code, item.inHtml]), [['CECIEMCASA15', true], ['CECIEMCASA15', false]]);
+assert.equal(getPendingLimitedCodes(iwsLimited, Date.parse('2026-11-09T00:00:00-03:00')).length, 1, 'o de até 08/11 sai do build em 09/11');
+assert.equal(getPendingLimitedCodes(iwsLimited, Date.parse('2026-11-28T00:00:00-03:00')).length, 0);
 
 console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, Hostinger e prateleiras do hub conferidos.");
