@@ -326,7 +326,8 @@ vídeo, primeiras impressões e uso noturno.
   começou vai no payload e fica fora do HTML. Cada lugar leva uma fila (`getArticleStoreBanners`): campanhas da mesma
   loja e do mesmo lugar podem esperar uma depois da outra (o esquenta e a Black Friday), desde que os prazos não se
   sobreponham (`storeBannersOverlap`), e entram no ar no deploy antes do início. O `test:store-banners` barra a
-  sobreposição e avisa para apagar o arquivo da vencida. Campanha
+  sobreposição e avisa para apagar o arquivo da vencida e para reconferir a campanha sem `endsAt` conferida há 7 dias
+  ou mais (avançar o `verifiedAt`; o aviso não derruba o build). Campanha
   que só vale com o código da loja leva ao nosso artigo sobre ela (`href` `/reviews/<slug>` da mesma loja, com
   `endsAt`), link interno sem sponsored e fora do próprio artigo. O `test:build-output` confere o lugar, o link, o
   `rel` e os textos em todo artigo.
