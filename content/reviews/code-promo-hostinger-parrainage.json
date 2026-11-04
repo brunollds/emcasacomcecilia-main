@@ -45,7 +45,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Oui, il y a un code : **SONAR20** donne 20 % de réduction sur la première période de n'importe quel forfait [Hostinger](/fr/coupons/hostinger), mensuel ou annuel, pour un client nouveau ou existant. Collez le code dans le champ de coupon du panier, ou passez par le lien de cet article. Nous n'avons pas testé le renouvellement."
+        "Oui, il y a un code : **SONAR20** donne 20 % de réduction sur la première période de n'importe quel forfait [Hostinger](/fr/coupons/hostinger), mensuel ou annuel, pour un client nouveau ou existant. Collez le code dans le champ de coupon du panier, ou passez par le lien de cet article. Le code vaut aussi sur le renouvellement."
       ]
     },
     {
@@ -70,7 +70,7 @@
     {
       "heading": "Forfait mensuel, annuel et clients existants",
       "paragraphs": [
-        "SONAR20 donne 20 % sur la première période en forfait mensuel ou annuel, pour un client nouveau ou existant. Nous n'avons testé que le forfait Startup d'hébergement ; pour les VPS, la messagerie, les agents d'IA et les domaines, vérifiez dans le panier si la réduction apparaît. Un client existant utilise le code sur un nouveau forfait ; pour le renouvellement d'un forfait que vous avez déjà, consultez le prix dans le tableau de bord."
+        "SONAR20 donne 20 % sur la première période en forfait mensuel ou annuel, pour un client nouveau ou existant. Nous l'avons testé sur le forfait Startup d'hébergement ; il vaut aussi sur le VPS, mais pas sur un domaine seul. Pour la messagerie et les agents d'IA, vérifiez dans le panier si la réduction apparaît. Un client existant utilise le code sur un nouveau forfait et sur le renouvellement d'un forfait qu'il a déjà ; consultez le prix dans le tableau de bord."
       ]
     },
     {
@@ -93,8 +93,8 @@
       "bullets": [
         "Hostinger a-t-il un code promo ? Oui : le code SONAR20 donne 20 % sur la première période de n'importe quel forfait, mensuel ou annuel.",
         "Où mettre le code promo Hostinger ? Dans le panier, dans le champ « Have a coupon code? ». Collez SONAR20 et appliquez-le avant de payer.",
-        "SONAR20 est-il valable pour un client existant ? Oui, sur un nouveau forfait, d'après les règles du partenariat. Pour le renouvellement d'un forfait que vous avez déjà, consultez le prix dans le tableau de bord.",
-        "Le code donne-t-il une réduction sur le renouvellement ? Nous ne l'avons pas testé. Vérifiez le prix de renouvellement dans le panier avant de payer.",
+        "SONAR20 est-il valable pour un client existant ? Oui, sur un nouveau forfait, d'après les règles du partenariat, et sur le renouvellement d'un forfait que vous avez déjà ; consultez le prix dans le tableau de bord.",
+        "Le code donne-t-il une réduction sur le renouvellement ? Oui, le code vaut aussi sur le renouvellement. Vérifiez le prix de renouvellement dans le panier avant de payer.",
         "SONAR20 est-il valable pendant le Black Friday ? Oui : lors du test dans le panier, les 20 % ont été retirés du prix de la campagne."
       ]
     }
@@ -102,7 +102,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+    "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement : confirmez le prix dans le panier.",
     "label": "Voir les forfaits avec la réduction",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

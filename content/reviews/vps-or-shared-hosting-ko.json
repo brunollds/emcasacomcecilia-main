@@ -209,14 +209,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+    "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
     "label": "SONAR20으로 플랜 보기",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 회원님에게는 추가 비용이 없습니다. VPS는 테스트하지 않았습니다.",
+  "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 회원님에게는 추가 비용이 없습니다. VPS에도 적용됩니다.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps-ko",

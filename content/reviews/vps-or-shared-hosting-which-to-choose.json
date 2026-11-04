@@ -209,14 +209,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart.",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on renewal; check the price in the cart.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. We did not test VPS.",
+  "editorialNote": "Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. The code works on VPS.",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps",

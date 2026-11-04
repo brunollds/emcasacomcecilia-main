@@ -168,13 +168,13 @@
         ]
       },
       "postParagraphs": [
-        "La renovación del VPS es casi el doble del precio promocional: el KVM 1 pasa de 6,49 US$ a 11,99 US$ al mes, y el KVM 2, de 8,79 US$ a 14,99 US$. Son precios de la promoción de 24 meses. No probamos el SONAR20 en el VPS; confirma el precio en el carrito antes de contratar."
+        "La renovación del VPS es casi el doble del precio promocional: el KVM 1 pasa de 6,49 US$ a 11,99 US$ al mes, y el KVM 2, de 8,79 US$ a 14,99 US$. Son precios de la promoción de 24 meses. El SONAR20 vale en el VPS; confirma el precio en el carrito antes de contratar."
       ]
     },
     {
       "heading": "SONAR20 en Hostinger",
       "paragraphs": [
-        "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: **20% en el primer período**. Lo probamos en el carrito con tres productos: el plan Startup de e-commerce, del creador de tiendas, el correo profesional y el Reach. En los planes de hosting de esta tabla y en el VPS, no lo probamos; confirma en el carrito. No probamos la renovación. La regla completa está en [cupones de Hostinger](/es/coupons/hostinger)."
+        "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: **20% en el primer período**. Lo probamos en el carrito con tres productos: el plan Startup de e-commerce, del creador de tiendas, el correo profesional y el Reach. En los planes de hosting de esta tabla, no lo probamos; confirma en el carrito. El código también vale en el VPS y en la renovación. La regla completa está en [cupones de Hostinger](/es/coupons/hostinger)."
       ]
     },
     {
@@ -193,7 +193,7 @@
         "¿Qué plan de Hostinger renueva más barato? El Premium, a 10,99 US$ al mes en el sitio internacional, después de una promoción de 48 meses a 2,49 US$.",
         "¿Vale la pena el VPS de Hostinger? Depende de la carga que tenga el sitio. Compara vCPU, memoria y renovación: el KVM 1 renueva a 11,99 US$ al mes en el sitio internacional.",
         "¿Hostinger dice dónde están sus servidores? Las páginas de planes no dicen dónde está el servidor. Pregunta al soporte antes de comprar.",
-        "¿El código SONAR20 vale en el VPS? No lo probamos en el VPS; confirma en el carrito. Lo probamos en el plan Startup de e-commerce, del creador de tiendas, y dio 20% en el primer período.",
+        "¿El código SONAR20 vale en el VPS? Sí, vale en el VPS. Lo probamos en el plan Startup de e-commerce, del creador de tiendas, y dio 20% en el primer período.",
         "¿Se puede cambiar de hosting sin perder el sitio? Sí, pasando los archivos y la base de datos al nuevo hosting. Haz el cambio antes de que venza el plan anterior."
       ]
     },
@@ -207,7 +207,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
     "label": "Ver los planes de hosting con el SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true

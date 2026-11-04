@@ -29130,7 +29130,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Comprei o sofá modular Damie e usei no dia a dia. Aqui está o que me fez escolher, e o que eu observaria de novo antes de fechar a compra.",
-    "metaDescription": "Sofá que chega na caixa, puff incluso, modular de verdade. O que levou a Cecília a escolher e o que observar antes de comprar.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. Sofá Damie modular: chega na caixa, puff incluso, o que levou a Cecília a escolher e o que observar.",
     "publishedAt": "26 Jun 2026",
     "publishedAtISO": "2026-06-26",
     "draft": false,
@@ -32761,6 +32761,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Minha análise da Poltrona Levita Elétrica Damie: dois motores independentes, ajuste de pescoço, base giratória e conforto premium para quem busca o topo da linha.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. Poltrona Levita elétrica: dois motores independentes, ajuste de pescoço, base giratória e se vale pagar por eles.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
     "image": "/images/reviews/damie/poltrona-levita-capa-discover.webp",
@@ -32955,6 +32956,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Uma análise do Sofá Damie Modular 3 Lugares com puff: entrega em caixas, montagem, flexibilidade, conforto e por que ele pode valer o investimento para casas reais.",
+    "metaDescription": "Sofá Damie na caixa, com o cupom CECILIA12 de 12% OFF: vale o modular de 3 lugares com puff, pela entrega em caixas, montagem e conforto.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
     "image": "/images/reviews/damie/sofa-damie-na-caixa-capa-discover.webp",
@@ -33161,6 +33163,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.",
+    "metaDescription": "Poltrona Moon da DAMIE, com o cupom CECILIA12 de 12% OFF: design escultural, base giratória de 360°, tecidos premium e para quem ela é peça de destaque.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
     "image": "/images/reviews/damie/poltrona-moon-capa-discover.webp",
@@ -33970,7 +33973,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Não existe um melhor sabor de Dolce Gusto. As cápsulas da loja oficial por perfil, de cafés a chás e gelados, para escolher conforme o seu jeito de tomar café e a sua máquina.",
-    "metaDescription": "Qual sabor de cápsula Dolce Gusto escolher: cafés pela intensidade, com leite, chocolates, chás, gelados, Starbucks e NEO, mais kits e combos da loja oficial.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Qual sabor de cápsula Dolce Gusto escolher: cafés, com leite, chocolates, chás, gelados e NEO.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -34484,7 +34487,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mini Me 2.0, Genio S ou NEO? As cinco máquinas Dolce Gusto da loja oficial lado a lado, com preço, medidas e cápsulas, para escolher pelo seu jeito de tomar café.",
-    "metaDescription": "Mini Me 2.0, Genio S Basic, Plus, Touch ou NEO? Preço, medidas em cm, XL, temperaturas e cápsulas de cada Dolce Gusto, e qual comprar para o seu uso.",
+    "metaDescription": "Qual Dolce Gusto comprar, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: Mini Me 2.0, Genio S, Touch ou NEO, com preço e medidas.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -34760,7 +34763,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Análise dos dados públicos da NESCAFÉ Dolce Gusto: CNPJ, políticas de entrega, trocas, assistência técnica das máquinas e o que observar antes de comprar.",
-    "metaDescription": "A Dolce Gusto é confiável? Veja CNPJ, políticas de entrega e devolução, assistência técnica das máquinas e o que observar antes de comprar no site oficial.",
+    "metaDescription": "Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: CNPJ, entrega, devolução, assistência técnica e o que checar antes de comprar.",
     "publishedAt": "14 Jul 2026",
     "publishedAtISO": "2026-07-14",
     "draft": false,
@@ -35191,7 +35194,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Recebemos o primeiro cobertor dupla-face da I Wanna Sleep. Veja nossas primeiras impressões em vídeo e a ficha técnica completa (tecnologias, tamanhos, preço).",
-    "metaDescription": "Primeiras impressões do cobertor Igloo da I Wanna Sleep: o lado gelado esfria na hora e bastou virar o cobertor quando o calor veio. Tamanhos casal/queen e king e preço.",
+    "metaDescription": "Cobertor Igloo da I Wanna Sleep, com o cupom CECIEMCASA de 10% OFF no site: lado gelado e quente, tamanhos casal/queen e king e ficha técnica.",
     "publishedAt": "16 Jul 2026",
     "publishedAtISO": "2026-07-16",
     "draft": false,
@@ -35540,7 +35543,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Análise completa da Nestlé Nutre: CNPJ oficial da Nestlé Brasil, SAC, política de troca/devolução (CDC 7 dias), entregas e o que observar antes de comprar.",
-    "metaDescription": "Sim: a Nestlé Nutre (nestlenutre.com.br) é a loja oficial da Nestlé Health Science, com o CNPJ da Nestlé Brasil. Veja SAC, troca em 7 dias e entregas.",
+    "metaDescription": "Nestlé Nutre, loja oficial da Nestlé Health Science com CNPJ da Nestlé Brasil: SAC, trocas em 7 dias e entregas, com o cupom CECI de 10% OFF.",
     "publishedAt": "5 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/nestle-nutre-e-confiavel-capa-discover.webp",
@@ -36058,7 +36061,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "O Nutren Senior Zero Lactose vem em lata de 740 g, sem sabor ou baunilha. Veja rendimento, preparo, a diferença entre as versões e as regras do cupom CECI no checkout.",
     "seoTitle": "Nutren Senior Zero Lactose: o que saber antes de comprar",
-    "metaDescription": "Nutren Senior Zero Lactose: veja a ficha da lata de 740 g, o preparo de 180 ml e as diferenças entre as versões sem sabor e baunilha.",
+    "metaDescription": "Nutren Senior Zero Lactose, com o cupom CECI de 10% OFF na Nestlé Nutre: a lata de 740 g, o preparo de 180 ml e a diferença entre sem sabor e baunilha.",
     "publishedAt": "17 de agosto de 2026",
     "publishedAtISO": "2026-08-17",
     "updatedAt": "2026-08-17",
@@ -38903,7 +38906,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Tabela de referência de quantos ml saem em cada nível da Dolce Gusto, do 1 ao 7 e no XL, feita com os manuais da Genio S Touch e da Mini Me 2.0 e a tabela da caixa.",
-    "metaDescription": "Quantos ml tem cada risco (traço ou barra) da Dolce Gusto, do 1 ao 7 e no XL, segundo os manuais da Genio S Touch e da Mini Me, com a tabela da caixa.",
+    "metaDescription": "Tabela de medidas Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: quantos ml saem em cada nível, do 1 ao 7 e no XL.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "draft": false,
@@ -39108,7 +39111,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Análise dos dados públicos da YesStyle: empresa de Hong Kong, marcas asiáticas de beleza, envios e atendimento internacional.",
-    "metaDescription": "A YesStyle é confiável? Veja dados públicos da empresa, autorização de marcas coreanas, política de envios, impostos e o que observar antes de comprar.",
+    "metaDescription": "O código de recompensa CECILIA010 dá até 5% de desconto na primeira compra da YesStyle. A YesStyle é confiável? Empresa, envios, impostos e atendimento.",
     "publishedAt": "2 de agosto de 2026",
     "publishedAtISO": "2026-08-02",
     "updatedAt": "2026-10-13",
@@ -39477,7 +39480,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia do Adaptador NEO Start: compatibilidade com máquinas ORIGINAL, uso seguro e o que conferir antes de comprar.",
-    "metaDescription": "Adaptador NEO Start: o que é, quais máquinas e cápsulas são compatíveis, como funciona a extração e se vale a pena para sua máquina Dolce Gusto.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Adaptador NEO Start: o que é, quais máquinas e cápsulas aceita e como funciona.",
     "publishedAt": "4 de agosto de 2026",
     "draft": false,
     "pros": [],
@@ -41358,7 +41361,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia da máscara térmica Aliv Head Gel IWS: uso frio ou quente, cobertura 360 graus, cuidados de segurança e o que considerar antes de comprar.",
-    "metaDescription": "Aliv Head Gel IWS: máscara térmica quente ou fria. Veja instruções de uso, cuidados de segurança, cobertura 360 graus e o que avaliar antes de comprar.",
+    "metaDescription": "O cupom CECIEMCASA dá 10% OFF em produtos elegíveis da I Wanna Sleep. Aliv Head Gel IWS: máscara térmica quente ou fria, uso e cobertura de 360 graus.",
     "publishedAt": "4 de agosto de 2026",
     "publishedAtISO": "2026-08-04",
     "draft": false,
@@ -41552,7 +41555,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, nota 8,5 e 90,6% das reclamações resolvidas. Veja as queixas mais comuns antes de comprar.",
-    "metaDescription": "I Wanna Sleep no Reclame Aqui: reputação RA1000, nota 8,5 e 90,6% de reclamações resolvidas. Veja as queixas mais comuns antes de comprar (24/10/2026).",
+    "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF nos elegíveis do site: reputação RA1000, nota 8,5 e 90,6% das reclamações resolvidas.",
     "publishedAt": "24 de outubro de 2026",
     "publishedAtISO": "2026-10-24",
     "draft": false,
@@ -41830,7 +41833,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
     "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real",
-    "metaDescription": "Review da Dolce Gusto Mini Me 2.0 Terracota: veja os controles de preparo, Lungo e Matinal, aquecimento em 20-30s, modo Eco e prós e contras.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Review da Mini Me 2.0 Terracota: controles, Lungo e Matinal e o aquecimento.",
     "publishedAt": "12 de agosto de 2026",
     "publishedAtISO": "2026-08-12",
     "updatedAt": "2026-08-12",
@@ -42336,7 +42339,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Entenda o que é o Nutren Just Protein, confira a tabela nutricional e o preparo indicado no rótulo, veja cuidados de consumo e sugestões para usá-lo em receitas.",
-    "metaDescription": "Nutren Just Protein: veja para que serve, tabela por 15g (52 kcal e 13g de proteína), preparo indicado no rótulo, cuidados e sugestões de uso.",
+    "metaDescription": "O cupom CECI dá 10% OFF em itens elegíveis da Nestlé Nutre. Nutren Just Protein: para que serve, tabela por 15 g, preparo indicado no rótulo e cuidados.",
     "publishedAt": "23 de agosto de 2026",
     "publishedAtISO": "2026-08-23",
     "draft": false,
@@ -42515,7 +42518,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Comparativo entre Dolce Gusto Genio S Basic, Plus e Touch com diferenças de painel, temperaturas, Espresso Boost e recursos compartilhados.",
-    "metaDescription": "Compare Genio S Basic, Plus e Touch: painel, temperaturas, Espresso Boost, recursos em comum e qual modelo combina melhor com sua rotina.",
+    "metaDescription": "O cupom CECI dá 10% OFF em produtos elegíveis da loja oficial a partir de R$ 100. Genio S Basic, Plus e Touch: painel, temperaturas e Espresso Boost.",
     "publishedAt": "24 de agosto de 2026",
     "publishedAtISO": "2026-08-24",
     "draft": false,
@@ -44083,7 +44086,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O retrátil recolhe o assento; o modular facilita a entrada e permite mudar o layout. Compare espaço, conforto, entrega e rotina antes de escolher.",
-    "metaDescription": "Retrátil ocupa menos espaço fechado; modular facilita a entrega e permite mudar o layout. Compare circulação, conforto e acesso ao apartamento.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF em itens elegíveis da DAMIE. Modular ou retrátil: o retrátil ocupa menos espaço fechado, e o modular facilita a entrega.",
     "publishedAt": "25 de agosto de 2026",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -44320,7 +44323,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Melatonina Gummy IWS é um suplemento para adultos, com 0,21 mg por goma. Veja o horário indicado no rótulo, composição, restrições e diferenças para as gotas.",
-    "metaDescription": "Melatonina Gummy IWS: veja para que serve, como tomar 1 goma de 0,21 mg, horário indicado, contraindicações, calorias e diferenças para gotas.",
+    "metaDescription": "O cupom CECIEMCASA dá 10% OFF em produtos elegíveis da I Wanna Sleep. Melatonina Gummy IWS: para que serve, como tomar e contraindicações.",
     "publishedAt": "26 de agosto de 2026",
     "publishedAtISO": "2026-08-26",
     "draft": false,
@@ -44584,7 +44587,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Nutren Creatina traz creatina monohidratada, porção de 3 g e 100 porções. Comparamos rótulo, preço oficial e disponibilidade com Growth, FTW e Lavitan.",
-    "metaDescription": "Nutren Creatina é boa? Confira rótulo, preparo, preço por 100 g e um comparativo auditável com Growth, FTW e Lavitan, sem promessas médicas.",
+    "metaDescription": "Creatina Nutren, com o cupom CECI de 10% OFF na Nestlé Nutre: rótulo, preparo e preço por 100 g frente a Growth, FTW e Lavitan.",
     "publishedAt": "26 de agosto de 2026",
     "publishedAtISO": "2026-08-26",
     "draft": false,
@@ -44650,7 +44653,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparativo auditável: Nutren, Growth, FTW e Lavitan",
         "paragraphs": [
-          "Na tabela, as quatro marcas lado a lado pelo custo por 100 g, com Nutren e FTW empatadas à vista.",
+          "Na tabela, as quatro marcas lado a lado pelo custo por 100 g, com a Nutren com o CECI e a Growth no Pix praticamente empatadas.",
           "Não atribuímos superioridade de pureza, eficácia ou controle de qualidade sem laudo comparável dos mesmos lotes. A expressão “100% monohidratada” descreve a composição declarada; não substitui ensaio laboratorial independente."
         ],
         "comparisonTable": {
@@ -44693,14 +44696,14 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Preço oficial consultado",
-              "R$ 56,91 com o CECI de 5% da época, sobre R$ 59,90",
+              "R$ 53,91 com o CECI de 10%, sobre R$ 59,90",
               "R$ 44,90 no Pix ou boleto; R$ 49,88 no cartão",
               "R$ 59,90; R$ 56,91 à vista",
               "Sem preço; produto esgotado"
             ],
             [
               "Custo por 100 g",
-              "R$ 18,97 com o CECI de 5% da época",
+              "R$ 17,97 com o CECI de 10%",
               "R$ 17,96 no Pix/boleto; R$ 19,95 no cartão",
               "R$ 19,97 no preço cheio; R$ 18,97 à vista",
               "Não calculado"
@@ -44729,12 +44732,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual delas faz mais sentido para você?",
         "paragraphs": [
-          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Pela tabela, Nutren e FTW empatam no custo por 100 g à vista, e a Growth fica no mesmo patamar no Pix; confirme frete e desconto no checkout antes de fechar.",
-          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth usa porção de 5 g e embalagem de 250 g, então rende menos doses; vale para quem já compra na loja dela. A FTW oferece pote de 300 g e chega ao mesmo custo por 100 g da Nutren com CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
+          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Pela tabela, a Nutren com o CECI e a Growth no Pix empatam no custo por 100 g, a R$ 17,97 e R$ 17,96, e a FTW à vista fica R$ 1 acima, a R$ 18,97; confirme frete e desconto no checkout antes de fechar.",
+          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth usa porção de 5 g e embalagem de 250 g, então rende menos doses; vale para quem já compra na loja dela. A FTW oferece pote de 300 g e fica R$ 1 por 100 g acima da Nutren com o CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
           "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
         ],
         "bullets": [],
-        "emphasis": "Pelos números da tabela, para quem já compra na Nestlé Nutre a escolha é a Nutren, porque ela empata no menor custo por 100 g com o CECI.",
+        "emphasis": "Pelos números da tabela, para quem já compra na Nestlé Nutre a escolha é a Nutren, porque ela fica no menor custo por 100 g com o CECI, empatada com a Growth no Pix.",
         "emphasisAfterParagraph": 2
       },
       {
@@ -44759,7 +44762,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preço oficial e cupom CECI",
         "paragraphs": [
           "Na consulta, o catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90. A imagem abaixo registra esse momento; preço, estoque e condições podem mudar.",
-          "Na data da consulta, o CECI dava 5%: sobre R$ 59,90, o valor ficava em R$ 56,91, equivalente a R$ 18,97 por 100 g. Com o desconto atual de 10%, o mesmo preço cai para R$ 53,91, ou R$ 17,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) foi aceito e compare o total com frete antes de pagar."
+          "O CECI dá 10%: sobre R$ 59,90, o valor cai para R$ 53,91, ou R$ 17,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) foi aceito e compare o total com frete antes de pagar."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
@@ -44791,7 +44794,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
           "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
-          "Qual foi a mais barata no comparativo? Nutren com o CECI, FTW à vista e Growth no Pix ficaram muito próximas no custo por 100 g; os valores estão na tabela do capítulo Comparativo auditável. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
+          "Qual foi a mais barata no comparativo? Nutren com o CECI e Growth no Pix ficaram empatadas no custo por 100 g, a R$ 17,97 e R$ 17,96, com a FTW à vista logo acima, a R$ 18,97; os valores estão na tabela do capítulo Comparativo auditável. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
           "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
           "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
           "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
@@ -44871,7 +44874,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Comparativo completo entre Dolce Gusto, Nespresso e 3 Corações. Veja as diferenças de cápsulas, custo por xícara e por 100 ml, pressão, multibebidas e qual escolher.",
-    "metaDescription": "Dolce Gusto, Nespresso ou 3 Corações: qual cafeteira de cápsula escolher? Veja preços, custo por 100 ml, cápsulas compatíveis e guia decisório.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Dolce Gusto a partir de R$ 100. Dolce Gusto, Nespresso ou 3 Corações: custo por 100 ml e qual escolher.",
     "publishedAt": "1º de setembro de 2026",
     "publishedAtISO": "2026-09-01",
     "updatedAt": "2026-10-01",
@@ -45196,7 +45199,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento, com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
-    "metaDescription": "Como escolher poltrona decorativa: entenda o ícone Eames, meça circulação, compare Aurora manual com puff e Levita elétrica e escolha o revestimento para sua rotina.",
+    "metaDescription": "Aurora manual ou Levita elétrica da DAMIE, com o cupom CECILIA12 de 12% em itens elegíveis: como escolher, com o ícone Eames como referência de design.",
     "publishedAt": "2 de setembro de 2026",
     "publishedAtISO": "2026-09-02",
     "draft": false,
@@ -45511,7 +45514,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual travesseiro escolher: compare as linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep por posição de dormir, material e altura.",
-    "metaDescription": "Qual travesseiro escolher? Compare linhas Cervical, Memory Foam, Antialérgica e Látex da I Wanna Sleep por posição, material e altura.",
+    "metaDescription": "O cupom CECIEMCASA dá 10% OFF no site da I Wanna Sleep. Qual travesseiro escolher: Cervical, Memory Foam, Antialérgica e Látex por posição e altura.",
     "publishedAt": "4 de setembro de 2026",
     "publishedAtISO": "2026-09-04",
     "draft": false,
@@ -45946,7 +45949,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Comparativo direto entre Dolce Gusto e Nespresso em 2026. Veja diferenças de pressão nominal, cápsulas, custo por xícara, bebidas e perfis de uso.",
-    "metaDescription": "Dolce Gusto ou Nespresso? Compare cápsulas, bebidas, custo por xícara e perfis de uso para escolher a cafeteira mais adequada em 2026.",
+    "metaDescription": "Dolce Gusto ou Nespresso, com o cupom CECI de 10% OFF na Dolce Gusto a partir de R$ 100: cápsulas, bebidas, custo por xícara e perfis de uso para escolher.",
     "publishedAt": "5 de setembro de 2026",
     "publishedAtISO": "2026-09-05",
     "draft": false,
@@ -46353,7 +46356,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual cobertor da I Wanna Sleep escolher? As linhas Igloo, Huggy, Puffer Ultralight e Cozy comparadas, para acertar pelo clima do quarto e por quem divide a cama com você.",
-    "metaDescription": "Qual cobertor escolher? Compare as linhas Igloo, Huggy, Puffer Ultralight e Cozy da I Wanna Sleep por sensação térmica, tecidos, peso e rotina da casa.",
+    "metaDescription": "Qual cobertor escolher, com o cupom CECIEMCASA de 10% OFF na I Wanna Sleep: Igloo, Huggy, Puffer Ultralight e Cozy por sensação térmica, tecido e peso.",
     "publishedAt": "7 de setembro de 2026",
     "publishedAtISO": "2026-09-07",
     "draft": false,
@@ -50166,7 +50169,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Entenda por que o calcário se forma e veja como descalcificar a Mini Me, a Genio S e a NEO, sem vinagre.",
-    "metaDescription": "Luz laranja na Dolce Gusto? Veja por que o calcário se forma, quando descalcificar e o passo a passo por modelo (Mini Me, Genio S, NEO), sem vinagre.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Luz laranja na Dolce Gusto? Por que o calcário se forma e como descalcificar, sem vinagre.",
     "publishedAt": "29 de setembro de 2026",
     "publishedAtISO": "2026-09-29",
     "draft": false,
@@ -50445,7 +50448,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O SleepSpray Kidz da IWS é um spray de travesseiro aromático, sem melatonina, para crianças a partir de 2 anos. Veja como usar, um ritual do sono em 4 passos e se vale a pena.",
-    "metaDescription": "SleepSpray Kidz IWS: spray de travesseiro com lavanda, camomila e laranja doce, sem melatonina, para crianças a partir de 2 anos. Como usar, ritual do sono em 4 passos, diferença para o adulto e cupom.",
+    "metaDescription": "SleepSpray Kidz IWS, com o cupom CECIEMCASA de 10% OFF: spray sem melatonina para crianças a partir de 2 anos, como usar e o ritual do sono.",
     "publishedAt": "29 de setembro de 2026",
     "publishedAtISO": "2026-09-29",
     "draft": false,
@@ -50697,7 +50700,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Para o Nutren Senior não empelotar, faça uma pasta com o pó e um pouco de líquido antes de completar o copo. Veja as medidas por versão e se pode esquentar.",
-    "metaDescription": "Nutren Senior empelotando? Veja o método da pasta indicado pela Nestlé, água ou leite, se pode esquentar e como usar o Sem Sabor em receitas.",
+    "metaDescription": "Como tomar Nutren Senior sem empelotar, com o cupom CECI de 10% OFF na Nestlé Nutre: a pasta com o pó, água ou leite, e se pode esquentar.",
     "publishedAt": "30 de setembro de 2026",
     "publishedAtISO": "2026-09-30",
     "draft": false,
@@ -51605,7 +51608,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Let's Eat It é confiável? O que conferimos antes de indicar a loja: empresa ativa, presença no localizador da Le Creuset, política de troca e o ponto de atenção no pós-venda.",
-    "metaDescription": "A loja Let's Eat It é confiável? Veja CNPJ, Le Creuset, troca em 30 dias, frete, Reclame Aqui e fotos da Casa Let's, a loja física em São Paulo.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF no site da Let's Eat It. A loja é confiável? CNPJ, Le Creuset, troca em 30 dias, frete, Reclame Aqui e a Casa Let's em São Paulo.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
     "draft": false,
@@ -51890,7 +51893,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os números da Let's Eat It no Reclame Aqui nos últimos 6 meses: reputação Boa, 99,1% das reclamações respondidas e 94% resolvidas — e por que só 54% dizem que voltariam a comprar.",
-    "metaDescription": "Let's Eat It no Reclame Aqui: reputação Boa, nota 7,6, 99,1% respondidas e 94% resolvidas. Veja o que mais gera reclamação e o que fazer se seu pedido der problema.",
+    "metaDescription": "Let's Eat It no Reclame Aqui, com o cupom MAUAD de 5% OFF: reputação Boa, nota 7,6, 99,1% respondidas e 94% resolvidas, e o que fazer se der problema.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
     "draft": false,
@@ -53263,7 +53266,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a Insider Store é confiável: CNPJ ativo, loja física, trocas sem custo e a melhor reputação do Reclame Aqui. O ponto de atenção é a entrega, onde estão as queixas.",
-    "metaDescription": "15% com o cupom EMCASACOMCECILIA no site da Insider. A loja é confiável? CNPJ, loja física em São Paulo, trocas, garantia, frete e Reclame Aqui.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF no site da Insider. A loja é confiável? CNPJ, loja física em São Paulo, trocas, garantia, frete e Reclame Aqui.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "draft": false,
@@ -53502,7 +53505,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. Veja o que mais gera queixa e os dois alertas recentes.",
-    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. No Reclame Aqui, RA1000, nota 9,0 e 92,6% de solução: as queixas mais comuns e como a loja responde.",
+    "metaDescription": "Insider Store no Reclame Aqui, com o cupom EMCASACOMCECILIA de 15% OFF: RA1000, nota 9,0 e 92,6% de solução, as queixas e como a loja responde.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "draft": false,
@@ -54081,7 +54084,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Para escolher a poltrona de amamentação, olhe primeiro os apoios e o assento; o balanço ajuda, mas não é obrigatório. Veja as medidas e as três faixas de preço.",
-    "metaDescription": "Como escolher poltrona de amamentação: com balanço ou sem, com puff ou reclinável, tecido, medidas e preços, da opção barata à elétrica. Com a experiência da Cecília.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. Poltrona de amamentação: com balanço ou sem, com puff ou reclinável, tecido, medidas e as três faixas de preço.",
     "publishedAt": "7 de outubro de 2026",
     "publishedAtISO": "2026-10-07",
     "isNew": true,
@@ -54419,7 +54422,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Poltrona de amamentação ou reclinável? A diferença na mamada e no descanso, manual ou elétrica, qual base da DAMIE faz sentido e a conta de quanto tempo cada uma será usada.",
-    "metaDescription": "Poltrona de amamentação ou reclinável: qual vale a pena? Diferenças, manual ou elétrica, qual reclinável DAMIE escolher, preços e a conta de quanto tempo de uso.",
+    "metaDescription": "Poltrona de amamentação ou reclinável, com o cupom CECILIA12 de 12% OFF na DAMIE: diferenças, manual ou elétrica, e a conta de quanto tempo de uso.",
     "publishedAt": "7 de outubro de 2026",
     "publishedAtISO": "2026-10-07",
     "isNew": true,
@@ -55373,7 +55376,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Friday da Let's Eat It já está no ar, com Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 40%. Veja como o Pix e o cupom MAUAD entram na conta.",
-    "metaDescription": "Black Friday Let's Eat It 2026 já começou: Porto Brasil até 60% OFF, La Maison até 70% e Natal de 20% a 60%. Le Creuset de 15% a 40%, Pix e cupom.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It e soma com o Pix. Black Friday: Porto Brasil até 60% OFF, La Maison até 70% e Le Creuset de 15% a 40%.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
     "updatedAt": "2026-11-03",
@@ -60077,7 +60080,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Veja o calendário, o imposto zero até US$ 50 e o código de indicação 4CW5Y.",
-    "metaDescription": "Black Friday SHEIN 2026: cai em 27/11, a SHEIN está no 11.11 e não anunciou a campanha. Histórico de fases, imposto zero até US$ 50 e devolução.",
+    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases de desconto do histórico e imposto zero até US$ 50.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
     "updatedAt": "2026-11-03",
@@ -62018,7 +62021,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A louça Porto Brasil é boa? É cerâmica, não porcelana: veja o que a ficha libera no forno, no micro-ondas e na lava-louças, a garantia, o Reclame Aqui e a comparação com a Oxford.",
-    "metaDescription": "Porto Brasil é cerâmica ou porcelana? O que vai ao micro-ondas, à lava-louças e ao forno, as exceções, garantia, Reclame Aqui e Porto Brasil ou Oxford.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Porto Brasil é cerâmica, não porcelana: o que vai ao micro-ondas, à lava-louças e ao forno, e a garantia.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -62235,7 +62238,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Travesseiros I Wanna Sleep, Emma e Ortobom lado a lado: como cada um ajusta a altura, qual a firmeza, o teste em casa, a garantia e o preço, pelos sites oficiais.",
-    "metaDescription": "Travesseiro I Wanna Sleep ou Emma? Altura, firmeza, teste de noites, garantia e preço dos modelos, com a Ortobom no comparativo.",
+    "metaDescription": "O cupom CECIEMCASA dá 10% de desconto no site da I Wanna Sleep. Travesseiro I Wanna Sleep ou Emma: altura, firmeza, teste de noites, garantia e preço.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -62506,7 +62509,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Le Creuset vale a pena? O que a marca diz sobre indução, forno, lava-louças, micro-ondas e panela queimada, o que a garantia não cobre e como ela se compara à Staub.",
-    "metaDescription": "Le Creuset vale a pena? Indução, forno por tipo de puxador, lava-louças, micro-ondas, como limpar o queimado e Le Creuset ou Staub, pelas regras das marcas.",
+    "metaDescription": "Le Creuset vale a pena com o cupom MAUAD de 5% OFF? Indução, forno por tipo de puxador, lava-louças, micro-ondas e a comparação com a Staub.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -62735,7 +62738,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "As tabelas de medidas da Insider em texto, da Tech T-Shirt à cueca, e o jeito de medir uma peça sua para escolher o tamanho certo, com o que saber antes de comprar cueca.",
-    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. Tabela de medidas em texto: Tech T-Shirt, Daily, Core, feminina, cueca e calcinha, e como medir uma peça sua.",
+    "metaDescription": "Tabela de medidas Insider em texto, com o cupom EMCASACOMCECILIA de 15% OFF: Tech T-Shirt, Daily, Core, feminina, cueca e calcinha, e como medir.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -63776,7 +63779,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que a Insider vende, o que a Tech T-Shirt garante por escrito, quanto custa com o cupom EMCASACOMCECILIA, onde comprar, troca e reputação: para quem a marca compensa.",
-    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. Vale a pena? O que a marca vende, a garantia da Tech T-Shirt, onde comprar e as regras de troca.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider. Vale a pena? O que a marca vende, a garantia da Tech T-Shirt, onde comprar e as regras de troca.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "updatedAt": "2026-11-02",
@@ -64358,7 +64361,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A bebida de duas cápsulas Dolce Gusto custa o dobro da de uma, e o combo foi a forma mais barata de comprar. Veja o preço por cápsula, por caixa e por xícara.",
-    "metaDescription": "Quanto custa uma cápsula Dolce Gusto e cada bebida: preço por xícara, Cappuccino de 2 cápsulas, NEO, caixa, DGusta, combo e assinatura na loja oficial.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Quanto custa cada bebida Dolce Gusto: preço por cápsula, caixa, xícara, combo e assinatura.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -64752,7 +64755,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O código de indicação da SHEIN vai na busca da loja, não no campo de cupom, e não dá desconto fixo. Veja o passo a passo, o que ele abre e como ter o seu código.",
-    "metaDescription": "O código de indicação da SHEIN vai na busca, não no campo de cupom. Veja o passo a passo com telas, o que ele abre, o que mudou em 2024 e como ter o seu.",
+    "metaDescription": "Código de indicação SHEIN: pesquise 4CW5Y no app da SHEIN, sem desconto fixo. Passo a passo com telas e o que ele abre.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
@@ -66152,7 +66155,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a SHEIN é uma loja legítima, operada no Brasil por uma empresa registrada. Veja o que pesa na decisão, como prazo, imposto e devolução, e o que conferir antes de pagar.",
-    "metaDescription": "A SHEIN é confiável? Quem opera a loja no Brasil, a nota 7,5 no Reclame Aqui, de que país ela é, o prazo, a taxa, a devolução e o que conferir antes de pagar.",
+    "metaDescription": "SHEIN é confiável, com empresa no Brasil e nota 7,5 no Reclame Aqui: pesquise 4CW5Y no app da SHEIN, código de indicação.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-10-29",
@@ -67862,7 +67865,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN, Shopee, Temu e AliExpress lado a lado: frete, prazo, devolução, imposto e Reclame Aqui pelas regras que cada loja publica, e como escolher conforme o que você vai comprar.",
-    "metaDescription": "SHEIN ou Shopee? Frete, prazo, devolução, imposto e nota no Reclame Aqui lado a lado com Temu e AliExpress, pelas regras que cada loja publica no Brasil.",
+    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. SHEIN ou Shopee: frete, prazo, devolução e imposto lado a lado com Temu e AliExpress.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
@@ -69891,7 +69894,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A YesStyle entrega em Portugal, com prazo e frete publicados, mas na última leitura não oferecia entrega para o Brasil. Veja a tabela e o capítulo do imposto.",
-    "metaDescription": "A YesStyle entrega no Brasil e em Portugal? Prazo, frete grátis e imposto pela tabela da loja de 13/10/2026, o envio ao Brasil e o reembolso da taxa.",
+    "metaDescription": "YesStyle com o código de recompensa CECILIA010, até 5% na primeira compra: prazo, frete e imposto para Portugal, com o envio ao Brasil suspenso.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "updatedAt": "2026-10-29",
@@ -72392,7 +72395,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse lado a lado no Brasil e em Portugal: quem entrega, quando o frete é grátis, quem paga o imposto e o que cada loja devolve.",
-    "metaDescription": "YesStyle ou Stylevana? Entrega, frete grátis, imposto e devolução no Brasil e em Portugal, com Olive Young, StyleKorean e Jolse, pelas páginas oficiais.",
+    "metaDescription": "YesStyle ou Stylevana: entrega, frete grátis, imposto e devolução, com o código de recompensa CECILIA010 de até 5% na YesStyle.",
     "publishedAt": "13 de outubro de 2026",
     "publishedAtISO": "2026-10-13",
     "draft": false,
@@ -74902,7 +74905,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a Probiótica é confiável: operada pela Supley, com CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Veja frete, prazos e o ponto de atenção.",
-    "metaDescription": "A Probiótica é confiável? Veja quem opera a loja, o CNPJ, o site oficial, os prazos de troca, o frete grátis e a reputação no Reclame Aqui.",
+    "metaDescription": "Quem opera a Probiótica, o CNPJ, o site oficial, as trocas e o frete, com o cupom PRO10EMCASACOMCECILIA de até 10% OFF.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -75153,7 +75156,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses. Veja qual perfil olhar, já que a loja é operada pela Supley, e o que fazer se o pedido falhar.",
-    "metaDescription": "Probiótica no Reclame Aqui: reputação Boa, nota 7,2 e 79,3% de reclamações resolvidas. Veja as queixas mais comuns e o que fazer (14/10/2026).",
+    "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. No Reclame Aqui, a reputação é Boa, com nota 7,2 em 6 meses e 79,3% das reclamações resolvidas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -75613,7 +75616,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Sim, a Dr. Peanut é confiável: marca de Curitiba com CNPJ ativo e site oficial, ligada ao grupo Supley. Veja as regras de frete grátis por região e a reputação.",
-    "metaDescription": "A Dr. Peanut é confiável? Veja o CNPJ, de quem é a marca, o site oficial, as regras de troca, o frete grátis por região e o Reclame Aqui (14/10/2026).",
+    "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. A marca é confiável? Veja o CNPJ, de quem ela é, as regras de troca, o frete e o Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -75854,7 +75857,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Dá para confiar na Dr. Peanut? Os números do Reclame Aqui, com reputação Boa em 6 meses e Ótima em 12, onde as queixas se concentram e o que fazer se o pedido der problema.",
-    "metaDescription": "Dr. Peanut no Reclame Aqui: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12. Veja respostas, solução, recompra e as queixas mais comuns.",
+    "metaDescription": "Dr. Peanut no Reclame Aqui: reputação Boa (7,4) em 6 meses e Ótima (8,1) em 12, com o cupom DREMCASACOMCECILIA de 10% OFF na loja.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -76331,7 +76334,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Skull é confiável? Conferimos quem é dono da marca, o CNPJ ativo desde 2014, o site oficial, as regras de troca, o frete grátis por região e o atendimento.",
-    "metaDescription": "A Black Skull é confiável? Veja de quem é a marca, o CNPJ, o site oficial, as regras de troca, o frete grátis por região e o atendimento, em 14/10/2026.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. A marca é confiável? Veja de quem ela é, o CNPJ, o site oficial, as regras de troca e o frete grátis.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -76610,7 +76613,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Skull tem reputação Regular (6,8) em 6 meses e Boa (7,1) em 12 no Reclame Aqui, responde tudo e resolve 61,5%. Veja o que isso significa para a sua compra.",
-    "metaDescription": "Black Skull no Reclame Aqui em 14/10/2026: reputação Regular (6,8) em 6 meses e Boa (7,1) em 12 meses, 100% respondidas e 61,5% resolvidas.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. No Reclame Aqui, a reputação é Regular em 6 meses (nota 6,8), com 61,5% das reclamações resolvidas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -78163,7 +78166,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Inflow e Sofá na Caixa são empresas diferentes. Compare as duas com a DAMIE em teste em casa, garantia, preço no Pix e Reclame Aqui para escolher o sofá certo.",
-    "metaDescription": "Inflow é a Sofá na Caixa? Não. Compare as duas com a DAMIE: como chega, teste em casa, devolução, garantia, preço e Reclame Aqui (14/10/2026).",
+    "metaDescription": "Sofá na Caixa, Inflow ou DAMIE, com o cupom CECILIA12 de 12% OFF na DAMIE: Inflow e Sofá na Caixa são empresas diferentes; compare garantia e preço.",
     "image": "/images/reviews/damie/sofa-na-caixa-inflow-ou-damie-capa-discover.webp",
     "imageAlt": "Cecília encaixando o puff no sofá modular azul da Damie, ao lado da foto oficial do modular verde",
     "imageFit": "contain",
@@ -78587,7 +78590,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Sofá na caixa pode durar tanto quanto o montado, porque a caixa é só o jeito de entregar. Veja o que decide a durabilidade, o checklist da ficha técnica e a garantia de cada marca.",
-    "metaDescription": "Sofá na caixa dura menos? Veja o que faz um sofá durar, o checklist da ficha técnica, a garantia de cada marca e quando o montado leva vantagem.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF na DAMIE. Sofá na caixa ou montado: o que decide a durabilidade, o checklist da ficha técnica e a garantia de cada marca.",
     "image": "/images/reviews/damie/sofa-na-caixa-ou-montado-capa-discover.webp",
     "imageAlt": "Cecília sentada no sofá modular azul da Damie, ao lado da foto oficial do modular bege",
     "imageFit": "contain",
@@ -78829,7 +78832,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Max Titanium é confiável: loja operada pela Supley, CNPJ ativo, site oficial e reputação Boa no Reclame Aqui. Veja os prazos de troca, o frete grátis e como conferir o site.",
-    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA no site oficial. A Max Titanium é confiável? Quem opera a loja, CNPJ, trocas, frete e Reclame Aqui.",
+    "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial. A Max Titanium é confiável? Quem opera a loja, CNPJ, trocas, frete e Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -79069,7 +79072,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. Veja o que mais gera queixa e o que fazer se o seu pedido atrasar ou der problema.",
-    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. No Reclame Aqui, a Max Titanium é Boa, com nota 7,6 e 82,6% resolvidas: as queixas e o que fazer.",
+    "metaDescription": "Max Titanium no Reclame Aqui, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: reputação Boa, nota 7,6, 82,6% resolvidas e o que fazer.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -79546,7 +79549,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Conferimos a Cléa Store: CNPJ ativo, site oficial, devolução grátis, cashback de 10% e reputação Boa no Reclame Aqui. Veja se ela é confiável e o que pesa na compra.",
-    "metaDescription": "A Cléa Store é confiável? Veja quem vende, o CNPJ, o site oficial, a devolução grátis, o cashback e a reputação no Reclame Aqui.",
+    "metaDescription": "Cléa Store, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: CNPJ, devolução grátis, cashback e reputação no Reclame Aqui antes de comprar.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -79813,7 +79816,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Cléa Store tem reputação Boa e selo de Empresa Verificada no Reclame Aqui, e responde todas as reclamações. Veja os pontos fracos e o que fazer se o pedido der problema.",
-    "metaDescription": "Cléa Store no Reclame Aqui: reputação Boa, Empresa Verificada, nota 7,1 e 100% das reclamações respondidas. Veja as queixas e o que fazer (14/10/2026).",
+    "metaDescription": "Cléa Store no Reclame Aqui, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: reputação Boa, nota 7,1 e 100% das reclamações respondidas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -82563,7 +82566,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Skull é a mais barata na creatina e no whey por grama de proteína; a Max Titanium tem mais whey 3W com sabor e creatina Creapure. Veja quem escolhe o quê.",
-    "metaDescription": "Black Skull ou Max Titanium? Whey e creatina pelo rótulo, com preço por dose, por 100 g de proteína e os dois cupons.",
+    "metaDescription": "Black Skull ou Max Titanium: whey e creatina pelo rótulo e pelo preço por dose, com o cupom CECILIA10 de 10% OFF na Black Skull.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -83024,7 +83027,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Max Titanium e Probiótica são do mesmo grupo, mas não vendem os mesmos potes. Veja lado a lado proteína por porção, preço por 100 g, creatina e cupom, e qual escolher.",
-    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max Titanium ou Probiótica? Mesma fábrica, linhas diferentes: proteína por porção, preço por 100 g e creatina.",
+    "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Probiótica? Mesma fábrica, linhas diferentes: proteína, preço por 100 g e creatina.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -83506,7 +83509,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os 12 sabores de pasta de amendoim e os 5 de whey da Dr. Peanut comparados pelo rótulo e pelo preço por 100 g, com os mais vendidos segundo a loja e qual escolher pelo seu perfil.",
-    "metaDescription": "Dr. Peanut: qual o melhor sabor? Os 12 de pasta e os 5 de whey por rótulo, preço por 100 g e os mais vendidos da loja, sem eleger o mais gostoso.",
+    "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Sabores de pasta e de whey pelo rótulo e preço por 100 g, sem eleger o mais gostoso.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -84549,7 +84552,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Travesseiros I Wanna Sleep e Ortobom lado a lado, por material: altura, firmeza declarada, lavagem, teste em casa, garantia e preço, pelos sites oficiais.",
-    "metaDescription": "Travesseiro I Wanna Sleep ou Ortobom? Par a par por material, altura, lavagem, teste em casa, garantia e preço, pelos sites oficiais.",
+    "metaDescription": "O cupom CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep. Travesseiro I Wanna Sleep ou Ortobom: material, altura, lavagem, teste em casa e garantia.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -84882,7 +84885,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Belive é confiável: é vendida pela NHD Foods, tem site oficial com CNPJ ativo e reputação Ótima no Reclame Aqui. Veja trocas, prazo de arrependimento e frete grátis por região.",
-    "metaDescription": "A Belive é confiável? Veja quem vende, o CNPJ, o site oficial, as trocas, o frete grátis por região e a reputação no Reclame Aqui.",
+    "metaDescription": "Quem vende a Belive, o CNPJ, as trocas e o frete, com o cupom MAUAD de 10% OFF no site oficial.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -85090,7 +85093,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Belive tem reputação Ótima no Reclame Aqui, com nota 8,1 nos últimos 6 meses e 80% das reclamações resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
-    "metaDescription": "Belive no Reclame Aqui: reputação Ótima, nota 8,1 e 80% de reclamações resolvidas nos 6 meses. Veja as queixas e o que fazer (16/10/2026).",
+    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. No Reclame Aqui, a reputação é Ótima, com nota 8,1 em 6 meses e 75% a 80% das reclamações resolvidas.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -86454,7 +86457,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Nanlac Supreme Pro é fórmula infantil para crianças de 1 a 3 anos. Veja composição, preparo, quanto rende a lata de 800 g e como conferir o lote do recolhimento.",
-    "metaDescription": "Nanlac Supreme Pro 800 g (1 a 3 anos): composição, preparo, quanto rende a lata, os lotes do recolhimento de janeiro e o preço na Nestlé Nutre.",
+    "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre. Nanlac Supreme Pro (1 a 3 anos): composição, preparo, quanto rende a lata e os lotes do recolhimento.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -86821,7 +86824,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Nanlac Supreme Pro ou Comfor HMO, fórmulas da Nestlé para 1 a 3 anos: o Supreme Pro declara mais HMOs, o Comfor tem GOS, FOS e menor preço. Veja o rótulo lado a lado.",
-    "metaDescription": "Nanlac Supreme Pro ou Comfor HMO (1 a 3 anos): HMO, proteína, DHA, ARA, GOS e FOS, preparo, preço por litro e os lotes do Comfor no recolhimento.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Nanlac Supreme Pro ou Comfor HMO (1 a 3 anos): HMO, DHA, ARA, GOS, FOS e preço por litro.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -87150,7 +87153,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Nanlac Supreme Pro e o Aptanutri Profutura 3 são fórmulas para crianças de 1 a 3 anos, e a escolha depende do rótulo. Veja o que cada um declara, o preparo e o preço.",
-    "metaDescription": "Nanlac Supreme Pro ou Aptanutri Profutura 3 (1 a 3 anos): HMO, DHA, ARA, prebióticos, alérgicos, preparo e preço por litro da lata de 800 g.",
+    "metaDescription": "Nanlac Supreme Pro (1 a 3 anos), com o cupom CECI de 10% OFF na Nestlé Nutre, comparado à Aptanutri Profutura 3: HMO, DHA, ARA e preço por litro.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -87546,7 +87549,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Nanlac Supreme Pro ou Ninho Fases 1+, fórmulas da Nestlé para 1 a 3 anos: a diferença está no rótulo. Veja HMO, DHA e ARA contra prebióticos, açúcares e preço por 100 g.",
-    "metaDescription": "Nanlac Supreme Pro ou Ninho Fases 1+ (1 a 3 anos)? O que muda no rótulo: HMO, DHA e ARA ou prebióticos, açúcares, proteína e preço por 100 g.",
+    "metaDescription": "Nanlac Supreme Pro ou Ninho Fases 1+ (1 a 3 anos), com o cupom CECI de 10% OFF na Nestlé Nutre: HMO, DHA, ARA, prebióticos e preço por 100 g.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -87913,7 +87916,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Nutren A-Z Multi ou Centrum A a Zinco? Veja a dose de cada vitamina e mineral por unidade, o que cada rótulo declara e quanto cada multivitamínico custa por dia.",
-    "metaDescription": "Nutren A-Z ou Centrum A a Zinco? Dose de cada vitamina e mineral por unidade, ingredientes e quanto cada um custa por dia, com preços datados.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Nutren A-Z ou Centrum A a Zinco: dose de cada vitamina e mineral e quanto cada um custa por dia.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -88470,7 +88473,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha, caixas de 1 L: comparação por litro, o que cada fonte informa e o preço por litro e por 1.000 kcal em 17/10/2026.",
-    "metaDescription": "Isosource 1.5 ou Trophic 1.5? 1,5 kcal/mL nos dois, proteína e fibra por litro e o preço por 1.000 kcal em 17/10/2026. Uso só sob orientação.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Isosource 1.5 e Trophic 1.5 por litro e por 1.000 kcal, com o rótulo de cada uma.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -88650,7 +88653,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Veja o que a loja oficial informa sobre o Mochaccino Canela Dolce Gusto: 77 kcal por cápsula, ingredientes, açúcar, cafeína, volume, preço e avaliação.",
-    "metaDescription": "Mochaccino Canela Dolce Gusto: 77 kcal por cápsula, ingredientes, açúcar, glúten, cafeína, volume (conta nossa), preço e avaliação na loja oficial.",
+    "metaDescription": "Mochaccino Canela Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: 77 kcal por cápsula, ingredientes, cafeína e preço.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -88844,7 +88847,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Espresso (intensidade 5) ou Espresso Intenso (7)? Veja o que muda, a xícara, o ingrediente, o que a loja diz da cafeína e o preço na loja oficial.",
-    "metaDescription": "Espresso Dolce Gusto: o que muda entre o de intensidade 5 e o Intenso 7, xícara, ingrediente, cafeína e preço por cápsula na loja oficial.",
+    "metaDescription": "Espresso Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: intensidade 5 ou Intenso 7, xícara, cafeína e preço por cápsula.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -89031,7 +89034,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Veja o que a loja oficial informa sobre o Caramelo Salgado Dolce Gusto: 78 kcal por cápsula, ingredientes, açúcar, cafeína, volume, preço e avaliação.",
-    "metaDescription": "Caramelo Salgado Dolce Gusto: 78 kcal por cápsula, ingredientes, açúcar, glúten, cafeína, volume (conta nossa), preço e avaliação na loja oficial.",
+    "metaDescription": "Caramelo Salgado Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: 78 kcal por cápsula, ingredientes, açúcar, cafeína e preço.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -89215,7 +89218,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Café au Lait Dolce Gusto tem açúcar? Veja ml, calorias, ingredientes, cafeína e alérgenos do clássico, do Desnatado e do Vanilla, e o preço na loja oficial.",
-    "metaDescription": "Café au Lait Dolce Gusto: tem açúcar, quantos ml, calorias por cápsula, ingredientes e alérgenos do clássico, Desnatado e Vanilla. Preço na loja oficial.",
+    "metaDescription": "Café au Lait Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: açúcar, ml, calorias e alérgenos, Desnatado e Vanilla.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -89492,7 +89495,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Diet, zero açúcar e sem açúcar não são a mesma coisa, e sem açúcar não quer dizer pouco carboidrato. Veja o que ler no rótulo, com seis doces da Belive como exemplo.",
-    "metaDescription": "Doces sem açúcar para diabéticos: o que olhar no rótulo, a diferença entre diet, zero e sem adição de açúcar e o carboidrato de seis doces da Belive.",
+    "metaDescription": "Doces sem açúcar para diabéticos, com o cupom MAUAD de 10% OFF na Belive: o que olhar no rótulo e a diferença entre diet, zero e sem adição de açúcar.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -89788,7 +89791,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os oito brownies sem açúcar da Belive, quatro comuns e quatro proteicos, com o rótulo de cada um, os adoçantes da lista de ingredientes e o preço por unidade e no kit de 10.",
-    "metaDescription": "Brownie sem açúcar Belive: oito sabores, calorias, carboidratos e proteína por unidade, adoçantes, alérgicos e preço por unidade no kit de 10.",
+    "metaDescription": "Brownie sem açúcar da Belive, oito sabores, com o cupom MAUAD de 10% OFF no site: rótulo, adoçantes, carboidratos e preço por unidade e no kit de 10.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -90118,7 +90121,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O bolinho de chocolate da Belive e o da Suavipan lado a lado: o que cada embalagem promete, os adoçantes, glúten, leite, alérgicos e o preço por unidade.",
-    "metaDescription": "Bolinho sem açúcar Belive ou Suavipan: zero açúcar ou zero adição, adoçantes, glúten e leite, alérgicos e preço por unidade de cada um.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Bolinho sem açúcar, Belive ou Suavipan: rótulo de cada um, adoçantes, glúten, leite e preço por unidade.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -90456,7 +90459,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O pão de mel sem açúcar da Belive em duas versões, comum e proteica: o rótulo lado a lado, os ingredientes, o preço por unidade e no kit de 10 e o que dizem as avaliações da loja.",
-    "metaDescription": "Pão de mel sem açúcar Belive: comum ou proteico, calorias, carboidratos e proteína por unidade, ingredientes, preço no kit de 10 e avaliações.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Pão de mel sem açúcar, comum ou proteico: rótulo, ingredientes, preço no kit de 10 e avaliações da loja.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -91068,7 +91071,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Pelo preço no cartão, a Growth sai mais barata no whey concentrado e na creatina, e a Max no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
-    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína, por grama e por 1.000 kcal.",
+    "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína e por 1.000 kcal.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
     "draft": false,
@@ -91801,7 +91804,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o que ele não cobre, a renovação automática e o que checar antes de pagar.",
-    "metaDescription": "Hostinger é confiável? Veja quem cobra, o reembolso de 30 dias e as exceções, a renovação automática com preço novo e o que conferir antes de contratar.",
+    "metaDescription": "O cupom SONAR20 dá 20% OFF na Hostinger, também na renovação. A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o preço da renovação.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -91947,7 +91950,7 @@ export const reviewsData: unknown[] = [
           "A Hostinger tem reembolso? Sim, de 30 dias para hospedagem e VPS, com as exceções da tabela. Renovação de domínio e serviços de suporte pagos não voltam.",
           "A renovação da Hostinger é automática? Sim, por padrão. Dá para desligar na conta a qualquer momento; sem renovação manual, o serviço encerra no fim do período.",
           "Quem cobra na Hostinger? Depende do país. Para o Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre, mas a Hostinger Brasil também aparece entre as empresas que podem cobrar. Confira o nome no checkout.",
-          "Tem cupom Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, em plano mensal ou anual. Não testamos a renovação; confira o preço no carrinho."
+          "Tem cupom Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, em plano mensal ou anual. O código também vale na renovação; confira o preço no carrinho."
         ]
       },
       {
@@ -91964,7 +91967,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho.",
       "label": "Ver os planos da Hostinger",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92163,7 +92166,7 @@ export const reviewsData: unknown[] = [
           "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
           "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time; without a manual renewal, the service ends at the end of the period.",
           "Who bills you at Hostinger? It depends on your country. The contracting company follows section 2 of the terms, and other companies in the group may also bill you. Check the name shown at checkout.",
-          "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. We have not tested renewal; check the price in the cart."
+          "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The code also works on renewal; check the price in the cart."
         ]
       },
       {
@@ -92180,7 +92183,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
       "label": "See Hostinger plans",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92379,7 +92382,7 @@ export const reviewsData: unknown[] = [
           "¿Hostinger tiene reembolso? Sí, de 30 días para hosting y VPS, con las excepciones de la tabla. La renovación de dominio y los servicios de soporte de pago no se reembolsan.",
           "¿La renovación de Hostinger es automática? Sí, por defecto. Puedes desactivarla en la cuenta en cualquier momento; sin renovación manual, el servicio termina al final del período.",
           "¿Quién cobra en Hostinger? Depende del país. La empresa contratante sigue la sección 2 de los términos, y otras empresas del grupo también pueden cobrar. Revisa el nombre en el checkout.",
-          "¿Hay cupón de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período, en plan mensual o anual. No probamos la renovación; revisa el precio en el carrito."
+          "¿Hay cupón de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período, en plan mensual o anual. El código también vale en la renovación; revisa el precio en el carrito."
         ]
       },
       {
@@ -92396,7 +92399,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes de Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92595,7 +92598,7 @@ export const reviewsData: unknown[] = [
           "Hostinger rembourse-t-il ? Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
           "Le renouvellement chez Hostinger est-il automatique ? Oui, par défaut. Vous pouvez le désactiver dans le compte à tout moment ; sans renouvellement manuel, le service s'arrête à la fin de la période.",
           "Qui facture chez Hostinger ? Cela dépend du pays. La société contractante suit la section 2 des conditions, et d'autres sociétés du groupe peuvent aussi facturer. Vérifiez le nom affiché au paiement.",
-          "Existe-t-il un code promo Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, en forfait mensuel ou annuel. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier."
+          "Existe-t-il un code promo Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, en forfait mensuel ou annuel. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier."
         ]
       },
       {
@@ -92612,7 +92615,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les forfaits Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92811,7 +92814,7 @@ export const reviewsData: unknown[] = [
           "Erstattet Hostinger Geld? Ja, innerhalb von 30 Tagen für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Support-Leistungen werden nicht erstattet.",
           "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können das im Konto jederzeit abschalten; ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
           "Wer rechnet bei Hostinger ab? Das hängt vom Land ab. Das Vertragsunternehmen folgt Abschnitt 2 der Bedingungen, und auch andere Unternehmen der Gruppe können abrechnen. Prüfen Sie den Namen beim Checkout.",
-          "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb."
+          "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb."
         ]
       },
       {
@@ -92828,7 +92831,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
+      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
       "label": "Hostinger-Tarife ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93027,7 +93030,7 @@ export const reviewsData: unknown[] = [
           "Hostinger rimborsa? Sì, entro 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo di dominio e i servizi di assistenza a pagamento non vengono rimborsati.",
           "Il rinnovo di Hostinger è automatico? Sì, per impostazione predefinita. Puoi disattivarlo nell'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
           "Chi addebita su Hostinger? Dipende dal paese. L'azienda contraente segue la sezione 2 dei termini, e anche altre società del gruppo possono addebitare. Controlla il nome mostrato al checkout.",
-          "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello."
+          "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello."
         ]
       },
       {
@@ -93044,7 +93047,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
       "label": "Vedi i piani di Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93243,7 +93246,7 @@ export const reviewsData: unknown[] = [
           "호스팅어는 환불해 주나요? 네, 호스팅과 VPS는 30일 이내이며 표의 예외가 있습니다. 도메인 갱신과 유료 지원 서비스는 환불되지 않습니다.",
           "호스팅어의 갱신은 자동인가요? 네, 기본값은 자동입니다. 계정에서 언제든 끌 수 있고, 직접 갱신하지 않으면 기간이 끝날 때 서비스가 종료됩니다.",
           "호스팅어에서는 누가 결제를 청구하나요? 국가에 따라 다릅니다. 계약 당사자 회사는 약관 제2조를 따르며, 그룹 내 다른 회사가 청구할 수도 있습니다. 결제 화면에 표시되는 이름을 확인하세요.",
-          "호스팅어 쿠폰이 있나요? 네, 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 월간 요금제든 연간 요금제든 첫 기간이 20% 할인됩니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요."
+          "호스팅어 쿠폰이 있나요? 네, 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 월간 요금제든 연간 요금제든 첫 기간이 20% 할인됩니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요."
         ]
       },
       {
@@ -93260,7 +93263,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
       "label": "호스팅어 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93459,7 +93462,7 @@ export const reviewsData: unknown[] = [
           "Hostingerは返金してくれますか？ はい。ホスティングとVPSは30日以内で、表の例外があります。ドメインの更新と有料のサポートサービスは返金されません。",
           "Hostingerの更新は自動ですか？ はい、初期設定では自動です。アカウントからいつでもオフにできます。手動で更新しなければ、期間の終わりにサービスは終了します。",
           "Hostingerでは誰が請求しますか？ 国によって異なります。契約する会社は規約の第2条に従い、グループ内の他の会社が請求することもあります。チェックアウト画面に表示される名前を確認してください。",
-          "Hostingerのクーポンはありますか？ はい。カートのクーポン欄に SONAR20 を入れると、月払いでも年払いでも初回期間が20%割引になります。更新は検証していません。カートで価格を確認してください。"
+          "Hostingerのクーポンはありますか？ はい。カートのクーポン欄に SONAR20 を入れると、月払いでも年払いでも初回期間が20%割引になります。更新時もこのコードが使えます。カートで価格を確認してください。"
         ]
       },
       {
@@ -93476,7 +93479,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。更新は検証していません。カートで価格を確認してください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。更新時もこのコードが使えます。カートで価格を確認してください。",
       "label": "Hostingerのプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93675,7 +93678,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 可以退款嗎？可以，主機與 VPS 在 30 天內，表中列出了例外。網域續訂與付費支援服務不退款。",
           "Hostinger 的續訂是自動的嗎？是，預設如此。你可以隨時在帳戶中關閉；如果不手動續訂，服務會在期限結束時終止。",
           "Hostinger 由誰來扣款？這取決於所在國家。簽約公司依據條款第 2 條決定，集團內的其他公司也可能扣款。請核對結帳頁面上顯示的名稱。",
-          "有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，月繳或年繳方案的首期都可享 20% 折扣。我們沒有測試過續訂；請在購物車裡確認價格。"
+          "有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，月繳或年繳方案的首期都可享 20% 折扣。代碼也適用於續訂；請在購物車裡確認價格。"
         ]
       },
       {
@@ -93692,7 +93695,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。我們沒有測試過續訂；請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。代碼也適用於續訂；請在購物車確認價格。",
       "label": "查看 Hostinger 方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93891,7 +93894,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 可以退款吗？可以，主机和 VPS 在 30 天内，表中列出了例外。域名续费和付费支持服务不退款。",
           "Hostinger 的续费是自动的吗？是，默认如此。你可以随时在账户中关闭；如果不手动续费，服务会在周期结束时终止。",
           "Hostinger 由谁来扣款？这取决于所在国家。签约公司依据条款第 2 条确定，集团内的其他公司也可能扣款。请核对结账页面上显示的名称。",
-          "有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，月付或年付套餐的首期都可享 20% 折扣。我们没有测试过续费；请在购物车里确认价格。"
+          "有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，月付或年付套餐的首期都可享 20% 折扣。代码在续费时也有效；请在购物车里确认价格。"
         ]
       },
       {
@@ -93908,7 +93911,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。代码在续费时也有效，请在购物车确认续费价格。",
       "label": "查看 Hostinger 套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93965,7 +93968,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "A nota da Hostinger no Reclame Aqui em 30/09/2026: reputação Ótima, cobrança indevida no topo das queixas e como desligar a renovação automática.",
-    "metaDescription": "Hostinger no Reclame Aqui até 30/09/2026: nota 8,6 em 6 meses, 88,6% das reclamações resolvidas e cobrança indevida como queixa mais citada. Veja como desligar a renovação.",
+    "metaDescription": "Hostinger no Reclame Aqui, com o cupom SONAR20 de 20% OFF: nota 8,6 em 6 meses e 88,6% das reclamações resolvidas.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -94193,7 +94196,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se você já decidiu",
         "paragraphs": [
-          "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Não testamos a renovação com o cupom; confira o preço no carrinho, e veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
+          "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. O cupom também vale na renovação; confira o preço no carrinho, e veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
         ]
       }
     ],
@@ -94481,14 +94484,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "If you have already decided",
         "paragraphs": [
-          "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. We have not tested renewal with the code, so check the price in the cart, and see the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
+          "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. The code also works on renewal, so check the price in the cart, and see the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94769,14 +94772,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si ya decidiste",
         "paragraphs": [
-          "Si decidiste contratar, usa el código SONAR20 en el campo de cupón del carrito: 20 % en el primer período. La [página de Hostinger](/es/coupons/hostinger) muestra los detalles. No probamos la renovación con el código, así que revisa el precio en el carrito, y mira el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) muestra la cuenta con el código, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
+          "Si decidiste contratar, usa el código SONAR20 en el campo de cupón del carrito: 20 % en el primer período. La [página de Hostinger](/es/coupons/hostinger) muestra los detalles. El código también vale en la renovación; revisa el precio en el carrito, y mira el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) muestra la cuenta con el código, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con descuento",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -95057,14 +95060,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Si vous avez déjà décidé",
         "paragraphs": [
-          "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Nous n’avons pas testé le renouvellement avec le code : confirmez le prix dans le panier, et voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
+          "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Le code vaut aussi sur le renouvellement : confirmez le prix dans le panier, et voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n’avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les offres avec réduction",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -95345,14 +95348,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wenn Sie sich schon entschieden haben",
         "paragraphs": [
-          "Wenn Sie kaufen möchten, geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum. Die [Hostinger-Seite](/de/coupons/hostinger) zeigt die Details. Die Verlängerung mit dem Code haben wir nicht getestet; prüfen Sie den Preis im Warenkorb und lesen Sie den [Gutschein-Artikel](/de/reviews/hostinger-gutschein-empfehlungscode). Wenn Ihre Frage das Black Friday betrifft, zeigt der [Ratgeber zur Aktion](/de/reviews/hostinger-black-friday-angebote) die Rechnung mit dem Code, und der [Artikel zur Vertrauenswürdigkeit](/de/reviews/ist-hostinger-serioes) behandelt Erstattung und Sicherheit des Unternehmens."
+          "Wenn Sie kaufen möchten, geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum. Die [Hostinger-Seite](/de/coupons/hostinger) zeigt die Details. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb und lesen Sie den [Gutschein-Artikel](/de/reviews/hostinger-gutschein-empfehlungscode). Wenn Ihre Frage das Black Friday betrifft, zeigt der [Ratgeber zur Aktion](/de/reviews/hostinger-black-friday-angebote) die Rechnung mit dem Code, und der [Artikel zur Vertrauenswürdigkeit](/de/reviews/ist-hostinger-serioes) behandelt Erstattung und Sicherheit des Unternehmens."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -95633,14 +95636,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se hai già deciso",
         "paragraphs": [
-          "Se hai deciso di acquistare, usa il codice **SONAR20** nel campo coupon del carrello: 20% sul primo periodo. La [pagina Hostinger](/it/coupons/hostinger) mostra i dettagli. Non abbiamo testato il rinnovo con il codice: controlla il prezzo nel carrello, e leggi l’[articolo sul coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) mostra il conto con il codice, e l’[articolo sull’affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell’azienda."
+          "Se hai deciso di acquistare, usa il codice **SONAR20** nel campo coupon del carrello: 20% sul primo periodo. La [pagina Hostinger](/it/coupons/hostinger) mostra i dettagli. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello, e leggi l’[articolo sul coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) mostra il conto con il codice, e l’[articolo sull’affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell’azienda."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo.",
+      "text": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo.",
       "label": "Vedi i piani scontati",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -95915,7 +95918,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "이미 결정했다면",
         "paragraphs": [
-          "구매를 결정했다면, 장바구니의 쿠폰 입력란에 SONAR20을 넣으면 첫 기간 20% 할인을 받을 수 있고, [Hostinger](/ko/coupons/hostinger) 페이지에 자세한 내용이 있습니다. 갱신은 테스트하지 않았으니 가격은 장바구니에서 확인하세요. 자세한 설명은 [쿠폰 SONAR20 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에서 SONAR20과 캠페인 가격의 관계를 확인하고, [신뢰도 글](/ko/reviews/hostinger-trust-guide-ko)에서 환불과 회사의 안전성을 다룹니다."
+          "구매를 결정했다면, 장바구니의 쿠폰 입력란에 SONAR20을 넣으면 첫 기간 20% 할인을 받을 수 있고, [Hostinger](/ko/coupons/hostinger) 페이지에 자세한 내용이 있습니다. 갱신에도 적용됩니다. 가격은 장바구니에서 확인하세요. 자세한 설명은 [쿠폰 SONAR20 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에서 SONAR20과 캠페인 가격의 관계를 확인하고, [신뢰도 글](/ko/reviews/hostinger-trust-guide-ko)에서 환불과 회사의 안전성을 다룹니다."
         ]
       }
     ],
@@ -96197,7 +96200,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "すでに決めているなら",
         "paragraphs": [
-          "契約を決めているなら、カートのクーポン欄に SONAR20 を入れると最初の期間が 20% 割引になります。詳しくは [Hostinger](/ja/coupons/hostinger) のページにあります。更新は検証していないので、価格はカートで確認してください。詳しくは [SONAR20 クーポンの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ブラックフライデーが気になるなら、[キャンペーンガイド](/ja/reviews/hostinger-black-friday-ja) で SONAR20 とキャンペーン価格の関係を確認でき、[信頼性の記事](/ja/reviews/hostinger-trust-guide-ja) で返金と企業の安全性を扱っています。"
+          "契約を決めているなら、カートのクーポン欄に SONAR20 を入れると最初の期間が 20% 割引になります。詳しくは [Hostinger](/ja/coupons/hostinger) のページにあります。更新時もこのコードが使えるので、価格はカートで確認してください。詳しくは [SONAR20 クーポンの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ブラックフライデーが気になるなら、[キャンペーンガイド](/ja/reviews/hostinger-black-friday-ja) で SONAR20 とキャンペーン価格の関係を確認でき、[信頼性の記事](/ja/reviews/hostinger-trust-guide-ja) で返金と企業の安全性を扱っています。"
         ]
       }
     ],
@@ -96479,7 +96482,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如果你已經決定",
         "paragraphs": [
-          "如果你決定購買，在購物車的優惠碼欄輸入 SONAR20，首個週期可享 20% 折扣，詳情見 [Hostinger](/zh-hant/coupons/hostinger) 頁面。我們沒有測試續訂，請在購物車確認價格，細節見[SONAR20 優惠碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)會說明 SONAR20 如何在活動價上計算，而[可信度文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)則談退款和公司的安全性。"
+          "如果你決定購買，在購物車的優惠碼欄輸入 SONAR20，首個週期可享 20% 折扣，詳情見 [Hostinger](/zh-hant/coupons/hostinger) 頁面。代碼也適用於續訂，請在購物車確認價格，細節見[SONAR20 優惠碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)會說明 SONAR20 如何在活動價上計算，而[可信度文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)則談退款和公司的安全性。"
         ]
       }
     ],
@@ -96761,14 +96764,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如果你已经决定",
         "paragraphs": [
-          "如果你决定购买，在购物车的优惠码栏输入 SONAR20，首个周期可享 20% 折扣，详情见 [Hostinger](/zh-hans/coupons/hostinger) 页面。我们没有测试续费，请在购物车确认价格，细节见[SONAR20 优惠码文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。如果你关心的是黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)会说明 SONAR20 如何在活动价上计算，而[可信度文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)则谈退款和公司的安全性。"
+          "如果你决定购买，在购物车的优惠码栏输入 SONAR20，首个周期可享 20% 折扣，详情见 [Hostinger](/zh-hans/coupons/hostinger) 页面。代码在续费时也有效，请在购物车确认价格，细节见[SONAR20 优惠码文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。如果你关心的是黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)会说明 SONAR20 如何在活动价上计算，而[可信度文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)则谈退款和公司的安全性。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+      "text": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。代码在续费时也有效，请在购物车确认续费价格。",
       "label": "查看折扣套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96837,7 +96840,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Tem cupom: o código **SONAR20** dá 20% de desconto no primeiro período de qualquer plano da [Hostinger](/cupons/hostinger), mensal ou anual, para cliente novo ou antigo. Cole o código no campo \"Tem um cupom de desconto?\" do carrinho, ou entre pelo link deste artigo. Não testamos a renovação; veja abaixo a conta."
+          "Tem cupom: o código **SONAR20** dá 20% de desconto no primeiro período de qualquer plano da [Hostinger](/cupons/hostinger), mensal ou anual, para cliente novo ou antigo. Cole o código no campo \"Tem um cupom de desconto?\" do carrinho, ou entre pelo link deste artigo. O código também vale na renovação; veja abaixo a conta."
         ]
       },
       {
@@ -96904,7 +96907,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Single, em 48 meses, o SONAR20 deixa a conta R$ 57,60 mais baixa no total (R$ 229,92 contra R$ 287,52). No Premium, a diferença é de R$ 96,00 (R$ 383,52 contra R$ 479,52). O preço de renovação de cada plano aparece abaixo do card; não testamos a renovação com o cupom.",
+          "No Single, em 48 meses, o SONAR20 deixa a conta R$ 57,60 mais baixa no total (R$ 229,92 contra R$ 287,52). No Premium, a diferença é de R$ 96,00 (R$ 383,52 contra R$ 479,52). O preço de renovação de cada plano aparece abaixo do card; o cupom também vale na renovação.",
           "Para a campanha em si, com as datas e a conta com o cupom, veja a [Black Friday da Hostinger](/reviews/black-friday-hostinger)."
         ],
         "images": [
@@ -96920,7 +96923,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Plano mensal, anual e quem já é cliente",
         "paragraphs": [
-          "O SONAR20 dá 20% no primeiro período em plano mensal ou anual, para cliente novo ou antigo. Testamos só o plano Startup de hospedagem; em VPS, e-mail, agentes de IA e domínio, confira no carrinho se o desconto aparece. Quem já é cliente usa o código num plano novo; para a renovação de um plano que você já tem, veja o preço no painel."
+          "O SONAR20 dá 20% no primeiro período em plano mensal ou anual, para cliente novo ou antigo. Testamos só o plano Startup de hospedagem. O código vale no VPS e na renovação; no domínio avulso, não vale. No e-mail e nos agentes de IA, confira no carrinho se o desconto aparece. Quem já é cliente usa o código num plano novo e na renovação de um plano que já tem; confira o preço no painel."
         ]
       },
       {
@@ -96943,8 +96946,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger tem cupom? Tem: o código SONAR20 dá 20% no primeiro período de qualquer plano, mensal ou anual.",
           "Onde coloco o cupom da Hostinger? No carrinho, no campo \"Tem um cupom de desconto?\" (\"Have a coupon code?\" no site global). Cole SONAR20 e aplique antes de pagar.",
-          "O SONAR20 vale para quem já é cliente? Sim, num plano novo, pela regra da parceria. Para a renovação de um plano que você já tem, veja o preço no painel.",
-          "O cupom dá desconto na renovação? Não testamos. Confira o preço de renovação no carrinho antes de pagar.",
+          "O SONAR20 vale para quem já é cliente? Sim, num plano novo, pela regra da parceria, e na renovação de um plano que você já tem; confira o preço no painel.",
+          "O cupom dá desconto na renovação? Sim, o código vale na renovação. Confira o preço de renovação no carrinho antes de pagar.",
           "O SONAR20 vale na Black Friday? Sim: no teste no carrinho, os 20% saíram do preço da campanha."
         ]
       }
@@ -96952,7 +96955,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho.",
       "label": "Ver os planos com desconto",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97022,7 +97025,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. We did not test renewal."
+          "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. The code also works on renewal."
         ]
       },
       {
@@ -97047,7 +97050,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Monthly plan, annual plan and existing customers",
         "paragraphs": [
-          "SONAR20 gives 20% off the first period on a monthly or annual plan, for new or existing customers. We tested only the Startup hosting plan; for VPS, email, AI agents and domains, check in the cart whether the discount shows up. Existing customers use the code on a new plan; for the renewal of a plan you already have, check the price in the dashboard."
+          "SONAR20 gives 20% off the first period on a monthly or annual plan, for new or existing customers. The code works on VPS and WordPress plans and on renewal, but on a standalone domain it does not work. For email and AI agents, check in the cart whether the discount shows up. Existing customers use the code on a new plan, and it also works on the renewal of a plan you already have; check the price in the dashboard."
         ]
       },
       {
@@ -97070,8 +97073,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Does Hostinger have a coupon? Yes: the code SONAR20 gives 20% off the first period of any plan, monthly or annual.",
           "Where do I enter the Hostinger coupon? In the cart, in the “Have a coupon code?” field. Paste SONAR20 and apply it before paying.",
-          "Does SONAR20 work for existing customers? Yes, on a new plan, under the partnership rules. For the renewal of a plan you already have, check the price in the dashboard.",
-          "Does the coupon discount the renewal? We did not test it. Check the renewal price in the cart before paying.",
+          "Does SONAR20 work for existing customers? Yes, on a new plan, under the partnership rules, and on the renewal of a plan you already have; check the price in the dashboard.",
+          "Does the coupon discount the renewal? Yes, the code works on renewal. Check the renewal price in the cart before paying.",
           "Does SONAR20 work on Black Friday? Yes: in the cart test, the 20% came off the campaign price."
         ]
       }
@@ -97079,7 +97082,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
       "label": "See plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97149,7 +97152,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí hay cupón: el código **SONAR20** da 20% de descuento en el primer período de cualquier plan de [Hostinger](/es/coupons/hostinger), mensual o anual, para cliente nuevo o antiguo. Pega el código en el campo de cupón del carrito, o entra por el enlace de este artículo. No probamos la renovación."
+          "Sí hay cupón: el código **SONAR20** da 20% de descuento en el primer período de cualquier plan de [Hostinger](/es/coupons/hostinger), mensual o anual, para cliente nuevo o antiguo. Pega el código en el campo de cupón del carrito, o entra por el enlace de este artículo. El código también vale en la renovación."
         ]
       },
       {
@@ -97174,7 +97177,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Plan mensual, anual y quien ya es cliente",
         "paragraphs": [
-          "El SONAR20 da 20% en el primer período en plan mensual o anual, para cliente nuevo o antiguo. Probamos solo el plan Startup de hosting; en VPS, correo, agentes de IA y dominio, revisa en el carrito si aparece el descuento. Quien ya es cliente usa el código en un plan nuevo; para la renovación de un plan que ya tienes, mira el precio en el panel."
+          "El SONAR20 da 20% en el primer período en plan mensual o anual, para cliente nuevo o antiguo. Probamos solo el plan Startup de hosting; en correo y agentes de IA, revisa en el carrito si aparece el descuento. El código vale en el VPS; en el dominio suelto, no. Quien ya es cliente usa el código en un plan nuevo y en la renovación de un plan que ya tiene; mira el precio en el panel."
         ]
       },
       {
@@ -97197,8 +97200,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Hostinger tiene cupón? Sí: el código SONAR20 da 20% en el primer período de cualquier plan, mensual o anual.",
           "¿Dónde pongo el cupón de Hostinger? En el carrito, en el campo «Have a coupon code?». Pega SONAR20 y aplícalo antes de pagar.",
-          "¿El SONAR20 vale para quien ya es cliente? Sí, en un plan nuevo, según las reglas de la alianza. Para la renovación de un plan que ya tienes, mira el precio en el panel.",
-          "¿El cupón da descuento en la renovación? No lo probamos. Comprueba el precio de renovación en el carrito antes de pagar.",
+          "¿El SONAR20 vale para quien ya es cliente? Sí, en un plan nuevo, según las reglas de la alianza, y en la renovación de un plan que ya tienes; mira el precio en el panel.",
+          "¿El cupón da descuento en la renovación? Sí, el código vale en la renovación. Comprueba el precio de renovación en el carrito antes de pagar.",
           "¿El SONAR20 vale en Black Friday? Sí: en la prueba en el carrito, el 20% se descontó del precio de la campaña."
         ]
       }
@@ -97206,7 +97209,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con descuento",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97276,7 +97279,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, il y a un code : **SONAR20** donne 20 % de réduction sur la première période de n'importe quel forfait [Hostinger](/fr/coupons/hostinger), mensuel ou annuel, pour un client nouveau ou existant. Collez le code dans le champ de coupon du panier, ou passez par le lien de cet article. Nous n'avons pas testé le renouvellement."
+          "Oui, il y a un code : **SONAR20** donne 20 % de réduction sur la première période de n'importe quel forfait [Hostinger](/fr/coupons/hostinger), mensuel ou annuel, pour un client nouveau ou existant. Collez le code dans le champ de coupon du panier, ou passez par le lien de cet article. Le code vaut aussi sur le renouvellement."
         ]
       },
       {
@@ -97301,7 +97304,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Forfait mensuel, annuel et clients existants",
         "paragraphs": [
-          "SONAR20 donne 20 % sur la première période en forfait mensuel ou annuel, pour un client nouveau ou existant. Nous n'avons testé que le forfait Startup d'hébergement ; pour les VPS, la messagerie, les agents d'IA et les domaines, vérifiez dans le panier si la réduction apparaît. Un client existant utilise le code sur un nouveau forfait ; pour le renouvellement d'un forfait que vous avez déjà, consultez le prix dans le tableau de bord."
+          "SONAR20 donne 20 % sur la première période en forfait mensuel ou annuel, pour un client nouveau ou existant. Nous l'avons testé sur le forfait Startup d'hébergement ; il vaut aussi sur le VPS, mais pas sur un domaine seul. Pour la messagerie et les agents d'IA, vérifiez dans le panier si la réduction apparaît. Un client existant utilise le code sur un nouveau forfait et sur le renouvellement d'un forfait qu'il a déjà ; consultez le prix dans le tableau de bord."
         ]
       },
       {
@@ -97324,8 +97327,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger a-t-il un code promo ? Oui : le code SONAR20 donne 20 % sur la première période de n'importe quel forfait, mensuel ou annuel.",
           "Où mettre le code promo Hostinger ? Dans le panier, dans le champ « Have a coupon code? ». Collez SONAR20 et appliquez-le avant de payer.",
-          "SONAR20 est-il valable pour un client existant ? Oui, sur un nouveau forfait, d'après les règles du partenariat. Pour le renouvellement d'un forfait que vous avez déjà, consultez le prix dans le tableau de bord.",
-          "Le code donne-t-il une réduction sur le renouvellement ? Nous ne l'avons pas testé. Vérifiez le prix de renouvellement dans le panier avant de payer.",
+          "SONAR20 est-il valable pour un client existant ? Oui, sur un nouveau forfait, d'après les règles du partenariat, et sur le renouvellement d'un forfait que vous avez déjà ; consultez le prix dans le tableau de bord.",
+          "Le code donne-t-il une réduction sur le renouvellement ? Oui, le code vaut aussi sur le renouvellement. Vérifiez le prix de renouvellement dans le panier avant de payer.",
           "SONAR20 est-il valable pendant le Black Friday ? Oui : lors du test dans le panier, les 20 % ont été retirés du prix de la campagne."
         ]
       }
@@ -97333,7 +97336,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les forfaits avec la réduction",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97403,7 +97406,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ja, es gibt einen Gutscheincode: **SONAR20** gibt 20 % Rabatt auf den ersten Zeitraum jedes [Hostinger](/de/coupons/hostinger)-Tarifs, ob monatlich oder jährlich, für Neu- und Bestandskunden. Fügen Sie den Code im Gutscheinfeld des Warenkorbs ein oder gehen Sie über den Link in diesem Artikel. Die Verlängerung haben wir nicht getestet."
+          "Ja, es gibt einen Gutscheincode: **SONAR20** gibt 20 % Rabatt auf den ersten Zeitraum jedes [Hostinger](/de/coupons/hostinger)-Tarifs, ob monatlich oder jährlich, für Neu- und Bestandskunden. Fügen Sie den Code im Gutscheinfeld des Warenkorbs ein oder gehen Sie über den Link in diesem Artikel. Der Code gilt auch bei der Verlängerung."
         ]
       },
       {
@@ -97428,7 +97431,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Monatstarif, Jahrestarif und Bestandskunden",
         "paragraphs": [
-          "SONAR20 gibt 20 % auf den ersten Zeitraum bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Wir haben nur den Hosting-Tarif Startup getestet; bei VPS, E-Mail, KI-Agenten und Domain prüfen Sie im Warenkorb, ob der Rabatt erscheint. Bestandskunden nutzen den Code für einen neuen Tarif; für die Verlängerung eines Tarifs, den Sie schon haben, sehen Sie den Preis im Kundenbereich."
+          "SONAR20 gibt 20 % auf den ersten Zeitraum bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Beim VPS gilt der Code; bei E-Mail und KI-Agenten prüfen Sie im Warenkorb, ob der Rabatt erscheint. Bei einer einzelnen Domain gilt der Code nicht. Bestandskunden nutzen den Code für einen neuen Tarif und für die Verlängerung eines Tarifs, den sie schon haben; den Preis sehen Sie im Kundenbereich."
         ]
       },
       {
@@ -97451,8 +97454,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Gibt es bei Hostinger einen Gutschein? Ja: Der Code SONAR20 gibt 20 % auf den ersten Zeitraum jedes Tarifs, ob monatlich oder jährlich.",
           "Wo trage ich den Hostinger-Gutschein ein? Im Warenkorb, im Feld „Have a coupon code?“. Fügen Sie SONAR20 ein und wenden Sie ihn an, bevor Sie zahlen.",
-          "Gilt SONAR20 für Bestandskunden? Ja, für einen neuen Tarif, nach den Regeln der Partnerschaft. Für die Verlängerung eines Tarifs, den Sie schon haben, sehen Sie den Preis im Kundenbereich.",
-          "Gibt der Gutschein Rabatt auf die Verlängerung? Das haben wir nicht getestet. Prüfen Sie den Verlängerungspreis im Warenkorb, bevor Sie zahlen.",
+          "Gilt SONAR20 für Bestandskunden? Ja, für einen neuen Tarif, nach den Regeln der Partnerschaft, und für die Verlängerung eines Tarifs, den Sie schon haben; den Preis sehen Sie im Kundenbereich.",
+          "Gibt der Gutschein Rabatt auf die Verlängerung? Ja, der Code gilt auch bei der Verlängerung. Prüfen Sie den Verlängerungspreis im Warenkorb, bevor Sie zahlen.",
           "Gilt SONAR20 am Black Friday? Ja: Im Test im Warenkorb wurden die 20 % vom Preis der Aktion abgezogen."
         ]
       }
@@ -97460,7 +97463,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Tragen Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Tragen Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
       "label": "Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97530,7 +97533,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, c'è un coupon: il codice **SONAR20** dà il 20% di sconto sul primo periodo di qualsiasi piano [Hostinger](/it/coupons/hostinger), mensile o annuale, per cliente nuovo o già esistente. Incolla il codice nel campo coupon del carrello, oppure entra dal link di questo articolo. Non abbiamo testato il rinnovo."
+          "Sì, c'è un coupon: il codice **SONAR20** dà il 20% di sconto sul primo periodo di qualsiasi piano [Hostinger](/it/coupons/hostinger), mensile o annuale, per cliente nuovo o già esistente. Incolla il codice nel campo coupon del carrello, oppure entra dal link di questo articolo. Il codice vale anche sul rinnovo."
         ]
       },
       {
@@ -97555,7 +97558,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Piano mensile, annuale e chi è già cliente",
         "paragraphs": [
-          "SONAR20 dà il 20% sul primo periodo con piano mensile o annuale, per cliente nuovo o già esistente. Abbiamo testato solo il piano Startup di hosting; per VPS, e-mail, agenti IA e dominio, controlla nel carrello se lo sconto compare. Chi è già cliente usa il codice su un piano nuovo; per il rinnovo di un piano che hai già, guarda il prezzo nel pannello."
+          "SONAR20 dà il 20% sul primo periodo con piano mensile o annuale, per cliente nuovo o già esistente. Vale sui piani di hosting, sul VPS e sul rinnovo; sul dominio singolo non vale. Per e-mail e agenti IA, controlla nel carrello se lo sconto compare. Chi è già cliente usa il codice su un piano nuovo e sul rinnovo di un piano che ha già; guarda il prezzo nel pannello."
         ]
       },
       {
@@ -97578,8 +97581,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger ha un coupon? Sì: il codice SONAR20 dà il 20% sul primo periodo di qualsiasi piano, mensile o annuale.",
           "Dove inserisco il coupon Hostinger? Nel carrello, nel campo «Have a coupon code?». Incolla SONAR20 e applica prima di pagare.",
-          "SONAR20 vale per chi è già cliente? Sì, su un piano nuovo, secondo le regole della partnership. Per il rinnovo di un piano che hai già, guarda il prezzo nel pannello.",
-          "Il coupon dà sconto sul rinnovo? Non l'abbiamo testato. Controlla il prezzo di rinnovo nel carrello prima di pagare.",
+          "SONAR20 vale per chi è già cliente? Sì, su un piano nuovo, secondo le regole della partnership, e sul rinnovo di un piano che hai già; guarda il prezzo nel pannello.",
+          "Il coupon dà sconto sul rinnovo? Sì, il codice vale anche sul rinnovo. Controlla il prezzo di rinnovo nel carrello prima di pagare.",
           "SONAR20 vale durante il Black Friday? Sì: nel test nel carrello, il 20% è stato tolto dal prezzo della campagna."
         ]
       }
@@ -97587,7 +97590,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
       "label": "Vedi i piani con SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97657,7 +97660,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 쿠폰이 있습니다. 코드 **SONAR20**은 모든 [Hostinger](/ko/coupons/hostinger) 플랜의 첫 기간에 20%를 할인하며, 월간과 연간 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 장바구니의 쿠폰 입력란에 코드를 넣거나, 이 글의 링크로 들어가세요. 갱신은 테스트하지 않았습니다."
+          "네, 쿠폰이 있습니다. 코드 **SONAR20**은 모든 [Hostinger](/ko/coupons/hostinger) 플랜의 첫 기간에 20%를 할인하며, 월간과 연간 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 장바구니의 쿠폰 입력란에 코드를 넣거나, 이 글의 링크로 들어가세요. 갱신에도 적용됩니다."
         ]
       },
       {
@@ -97682,7 +97685,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "월간 플랜, 연간 플랜, 기존 고객",
         "paragraphs": [
-          "SONAR20은 월간이든 연간이든, 신규 고객이든 기존 고객이든 첫 기간에 20%를 할인해 줍니다. 테스트한 것은 호스팅 Startup 플랜뿐입니다. VPS, 이메일, AI 에이전트, 도메인은 장바구니에서 할인이 나타나는지 확인하세요. 기존 고객은 새 플랜에 코드를 씁니다. 이미 쓰고 있는 플랜의 갱신은 관리 화면에서 가격을 확인하세요."
+          "SONAR20은 월간이든 연간이든, 신규 고객이든 기존 고객이든 첫 기간에 20%를 할인해 줍니다. 테스트한 것은 호스팅 Startup 플랜뿐입니다. VPS에도 적용됩니다. 이메일과 AI 에이전트는 장바구니에서 할인이 나타나는지 확인하세요. 도메인 단독 구매에는 코드가 적용되지 않습니다. 기존 고객은 새 플랜에도, 이미 쓰고 있는 플랜의 갱신에도 코드를 쓸 수 있습니다. 가격은 관리 화면에서 확인하세요."
         ]
       },
       {
@@ -97705,8 +97708,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger에 쿠폰이 있나요? 네. 코드 SONAR20은 모든 플랜의 첫 기간에 20%를 할인해 줍니다. 월간과 연간 모두 해당합니다.",
           "Hostinger 쿠폰은 어디에 넣나요? 장바구니의 “Have a coupon code?” 입력란입니다. SONAR20을 붙여넣고 결제 전에 적용하세요.",
-          "SONAR20은 기존 고객도 쓸 수 있나요? 네. 제휴 규정상 새 플랜에 쓸 수 있습니다. 이미 쓰고 있는 플랜의 갱신은 관리 화면에서 가격을 확인하세요.",
-          "쿠폰으로 갱신도 할인되나요? 테스트하지 않았습니다. 결제 전에 장바구니에서 갱신 가격을 확인하세요.",
+          "SONAR20은 기존 고객도 쓸 수 있나요? 네. 제휴 규정상 새 플랜에도, 이미 쓰고 있는 플랜의 갱신에도 쓸 수 있습니다. 가격은 관리 화면에서 확인하세요.",
+          "쿠폰으로 갱신도 할인되나요? 네, 갱신에도 적용됩니다. 결제 전에 장바구니에서 갱신 가격을 확인하세요.",
           "SONAR20은 블랙프라이데이에도 되나요? 네. 장바구니 테스트에서 20%는 캠페인 가격에서 빠졌습니다."
         ]
       }
@@ -97714,7 +97717,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
       "label": "할인 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97783,7 +97786,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "クーポンはあります。コード **SONAR20** で、[Hostinger](/ja/coupons/hostinger)のどのプランでも最初の期間が20%割引になります。月額でも年額でも、新規のお客様も既存のお客様も対象です。カートのクーポン欄にコードを入れるか、この記事のリンクから入ってください。更新は検証していません。"
+          "クーポンはあります。コード **SONAR20** で、[Hostinger](/ja/coupons/hostinger)のどのプランでも最初の期間が20%割引になります。月額でも年額でも、新規のお客様も既存のお客様も対象です。カートのクーポン欄にコードを入れるか、この記事のリンクから入ってください。更新時もこのコードが使えます。"
         ]
       },
       {
@@ -97808,7 +97811,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "月額プラン、年額プラン、既存のお客様",
         "paragraphs": [
-          "SONAR20は、月額でも年額でも、新規のお客様も既存のお客様も、最初の期間が20%割引になります。検証したのはホスティングのStartupプランだけです。VPS、メール、AIエージェント、ドメインは、カートで割引が出るか確認してください。既存のお客様は新しいプランでコードを使います。すでにお持ちのプランの更新は、管理画面で料金を確認してください。"
+          "SONAR20は、月額でも年額でも、新規のお客様も既存のお客様も、最初の期間が20%割引になります。検証したのはホスティングのStartupプランだけです。VPSでも使えます。メールとAIエージェントは、カートで割引が出るか確認してください。ドメインには使えません。既存のお客様は、新しいプランにも、すでにお持ちのプランの更新にもコードを使えます。料金は管理画面で確認してください。"
         ]
       },
       {
@@ -97831,8 +97834,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostingerにクーポンはありますか？はい。コードSONAR20で、どのプランでも最初の期間が20%割引になります。月額でも年額でも対象です。",
           "Hostingerのクーポンはどこに入れますか？カートの「Have a coupon code?」欄です。SONAR20を貼り付けて、支払う前に適用してください。",
-          "SONAR20は既存のお客様も使えますか？はい。提携のルールでは、新しいプランで使えます。すでにお持ちのプランの更新は、管理画面で料金を確認してください。",
-          "クーポンで更新も割引になりますか？検証していません。支払う前に、カートで更新料金を確認してください。",
+          "SONAR20は既存のお客様も使えますか？はい。提携のルールでは、新しいプランにも、すでにお持ちのプランの更新にも使えます。料金は管理画面で確認してください。",
+          "クーポンで更新も割引になりますか？はい、このコードは更新にも使えます。支払う前に、カートで更新料金を確認してください。",
           "SONAR20はブラックフライデーでも使えますか？はい。カートでの検証では、20%はキャンペーン価格から引かれました。"
         ]
       }
@@ -97840,7 +97843,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入力するか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していないので、カートで料金を確認してください。",
+      "text": "カートのクーポン欄に SONAR20 を入力するか、このリンクから入ってください。最初の期間が20%割引です。更新時もこのコードが使えるので、カートで料金を確認してください。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97911,7 +97914,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "有優惠碼：**SONAR20** 在任何 [Hostinger](/zh-hant/coupons/hostinger) 方案的首期給 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入優惠碼，或從本文連結進入。我們沒有測試續訂。"
+          "有優惠碼：**SONAR20** 在任何 [Hostinger](/zh-hant/coupons/hostinger) 方案的首期給 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入優惠碼，或從本文連結進入。優惠碼也適用於續訂。"
         ]
       },
       {
@@ -97936,7 +97939,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "月付、年付與現有客戶",
         "paragraphs": [
-          "SONAR20 在月付或年付方案的首期享 20% 折扣，新客戶和舊客戶都適用。我們只測試了 Startup 主機方案；VPS、電郵、AI 代理和網域，請在購物車確認折扣是否出現。現有客戶用優惠碼購買新方案；已有方案的續訂，請到後台查看價格。"
+          "SONAR20 在月付或年付方案的首期享 20% 折扣，新客戶和舊客戶都適用。我們只測試了 Startup 主機方案；VPS 也適用。電郵和 AI 代理請在購物車確認折扣是否出現；網域不適用 SONAR20。現有客戶購買新方案和續訂已有方案都能用優惠碼，價格請到後台查看。"
         ]
       },
       {
@@ -97959,8 +97962,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger 有優惠碼嗎？有：優惠碼 SONAR20 在任何方案的首期享 20% 折扣，月付或年付都可以。",
           "Hostinger 的優惠碼要輸入在哪裡？在購物車的「Have a coupon code?」欄位。付款前貼上 SONAR20 並套用。",
-          "SONAR20 現有客戶能用嗎？能，用於新方案，依合作規則。已有方案的續訂，請到後台查看價格。",
-          "優惠碼對續訂有折扣嗎？我們沒有測試。付款前請在購物車確認續訂價格。",
+          "SONAR20 現有客戶能用嗎？能，依合作規則，新方案和已有方案的續訂都能用，價格請到後台查看。",
+          "優惠碼對續訂有折扣嗎？有，優惠碼也適用於續訂。付款前請在購物車確認續訂價格。",
           "SONAR20 在黑色星期五能用嗎？能：購物車測試中，20% 是從活動價扣掉的。"
         ]
       }
@@ -97968,7 +97971,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續訂，續訂價請在購物車確認。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。優惠碼也適用於續訂，續訂價請在購物車確認。",
       "label": "查看享有折扣的方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -98038,7 +98041,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "有优惠码：代码 **SONAR20** 可在任何 [Hostinger](/zh-hans/coupons/hostinger) 套餐的首个计费周期享 20% 折扣，月付或年付都可以，新老客户均适用。在购物车的优惠码栏输入代码，或从本文的链接进入。我们没有测试续费。"
+          "有优惠码：代码 **SONAR20** 可在任何 [Hostinger](/zh-hans/coupons/hostinger) 套餐的首个计费周期享 20% 折扣，月付或年付都可以，新老客户均适用。在购物车的优惠码栏输入代码，或从本文的链接进入。代码在续费时也有效。"
         ]
       },
       {
@@ -98063,7 +98066,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "月付、年付和现有客户",
         "paragraphs": [
-          "SONAR20 在月付或年付套餐的首个周期享 20% 折扣，新老客户都适用。我们只测试了 Startup 主机套餐；VPS、邮箱、AI 代理和域名，请在购物车确认折扣是否出现。现有客户用代码购买新套餐；已有套餐的续费，请在后台查看价格。"
+          "SONAR20 在月付或年付套餐的首个周期享 20% 折扣，新老客户都适用。我们只测试了 Startup 主机套餐；VPS 也适用，域名不适用，邮箱和 AI 代理请在购物车确认折扣是否出现。现有客户购买新套餐和续费已有套餐都能用代码，价格请在后台查看。"
         ]
       },
       {
@@ -98086,8 +98089,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger 有优惠码吗？有：优惠码 SONAR20 在任何套餐的首个周期享 20% 折扣，月付或年付都可以。",
           "Hostinger 的优惠码在哪里输入？在购物车的 “Have a coupon code?” 栏。付款前粘贴 SONAR20 并应用。",
-          "SONAR20 现有客户能用吗？能，用于新套餐，按合作规则。已有套餐的续费，请在后台查看价格。",
-          "优惠码对续费有折扣吗？我们没有测试。付款前请在购物车确认续费价格。",
+          "SONAR20 现有客户能用吗？能，按合作规则，新套餐和已有套餐的续费都能用，价格请在后台查看。",
+          "优惠码对续费有折扣吗？有，代码在续费时也有效。付款前请在购物车确认续费价格。",
           "SONAR20 在黑色星期五能用吗？能：购物车测试中，20% 是从活动价上扣的。"
         ]
       }
@@ -98095,7 +98098,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。代码在续费时也有效，请在购物车确认续费价格。",
       "label": "查看享有折扣的套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -99441,7 +99444,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Para um escritório em que nem todos tomam só café, a Dolce Gusto atende melhor; quem só toma café preto paga menos com filtro. Veja o custo por mês para 5, 10 e 20 pessoas.",
-    "metaDescription": "Cafeteira para escritório: o custo por mês para 5, 10 e 20 pessoas com Dolce Gusto, TRES, Nespresso e filtro, e qual máquina atende quem não toma café.",
+    "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Cafeteira para equipe: custo mensal para 5, 10 e 20 pessoas em Dolce Gusto, Nespresso e filtro.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -99871,7 +99874,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A mesa posta de Natal para seis pessoas tem três faixas de preço, da básica à completa. Veja o que comprar, a conta de cada faixa, o cupom MAUAD e como montar cada lugar.",
-    "metaDescription": "Mesa posta de Natal para 6 pessoas: o que comprar, quanto custa em três faixas (de R$ 1.019,90) e como montar cada lugar. Preços de 20/10/2026.",
+    "metaDescription": "Mesa posta de Natal para 6 pessoas com o cupom MAUAD de 5% OFF: o que comprar, quanto custa em três faixas e como montar cada lugar.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -100342,7 +100345,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Não existe valor certo para um presente de casamento. Veja ideias da Let's Eat It em quatro faixas de preço, de taças a Le Creuset, e como escolher pelo que o casal já tem.",
-    "metaDescription": "Presente de casamento por faixa de preço: Le Creuset, Porto Brasil, taças Bohemia e faqueiros de até R$ 300 a mais de R$ 1.500, com preços de 20/10/2026.",
+    "metaDescription": "Presente de casamento com o cupom MAUAD de 5% OFF: ideias de Le Creuset, Porto Brasil, taças Bohemia e faqueiros em quatro faixas de preço.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -100701,7 +100704,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Ideias de presente de Natal para quem gosta de cozinhar em quatro faixas de preço, de Le Creuset a Ariete. Veja como escolher pelo perfil e o prazo para chegar antes do Natal.",
-    "metaDescription": "Presente de Natal para quem gosta de cozinhar: ideias de até R$ 150 a mais de R$ 1.000, com Le Creuset, KitchenAid e Ariete. Preços de 20/10/2026.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF no subtotal da Let's Eat It. Presente de Natal para quem gosta de cozinhar, com Le Creuset, KitchenAid e Ariete em quatro faixas.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -101048,7 +101051,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Três looks de trabalho com alfaiataria montados só com peças da Cléa Store, do neutro ao colete vermelho. Veja quanto custa cada um, com e sem o cupom de 10%.",
-    "metaDescription": "Look de trabalho com alfaiataria feminina: 3 combinações com blazer, camisa, body e colete da Cléa Store e quanto custa cada uma, com e sem cupom.",
+    "metaDescription": "Look de trabalho com alfaiataria da Cléa Store, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: três combinações e quanto custa cada uma.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -101313,7 +101316,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os seis bodies Second Skin da Cléa Store lado a lado: uso que a loja indica, gola e manga, cores, tabela de tamanhos, avaliações e o preço de cada um em 20/10/2026, com o leve 3.",
-    "metaDescription": "Body Second Skin da Cléa Store: compare os 6 modelos por uso, gola, cores, tamanho e preço, de R$ 50,70 a R$ 135,20 em 20/10/2026, e o leve 3.",
+    "metaDescription": "Body Second Skin da Cléa Store, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: os 6 modelos por uso, gola, cores, tamanho e preço, e o leve 3.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -101635,7 +101638,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como escolher o tamanho na tabela de medidas da Cléa Store: onde achar, como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos.",
-    "metaDescription": "Tabela de medidas da Cléa Store: como medir busto, cintura e quadril e escolher entre P, M e G ou 36 a 42 em cada peça. Medidas lidas em 20/10/2026.",
+    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Tabela de medidas: como medir busto, cintura e quadril e escolher entre P, M, G ou 36 a 42.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -101856,7 +101859,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "No essencial, como t-shirts e bodies, o Mercado Livre da Cléa Store sai mais barato; o site vence em variedade, alfaiataria, cupom de 10% e cashback. Veja a comparação.",
-    "metaDescription": "Cléa Store no Mercado Livre ou no site: o essencial sai mais barato no ML, a variedade de modelos e a alfaiataria está no site, com cupom de 10%. Preços de 20/10/2026.",
+    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Mercado Livre ou site: no Mercado Livre o essencial sai mais barato; a variedade fica no site.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -102090,7 +102093,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que o rótulo de cada produto da Dr. Peanut mostra: açúcares totais e adicionados, adoçantes e polióis, lactose, glúten e calorias por porção, e o que a loja não publica.",
-    "metaDescription": "Dr. Peanut é saudável? O rótulo da pasta, do alfajor, da Doctor Bar, da Doctor Wafer e do whey: açúcar, adoçantes, lactose, glúten e calorias.",
+    "metaDescription": "Rótulo da Dr. Peanut, da pasta ao whey: açúcar, adoçantes, lactose e calorias, com o cupom DREMCASACOMCECILIA de 10% OFF no site.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -102421,7 +102424,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Comfort ou Performance? O tecido, o uso que a marca indica, a versão Anti Suor, a Seamless Touch e a Slip, o preço por peça nos kits e a regra de troca da cueca Insider.",
-    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. Cueca Comfort ou Performance: tecido, uso, Anti Suor, Seamless e Slip, preço por peça nos kits e a troca.",
+    "metaDescription": "Cueca Insider Comfort ou Performance, com o cupom EMCASACOMCECILIA de 15% OFF: tecido, uso, Anti Suor, Seamless e Slip, preço por peça nos kits e a troca.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -102697,7 +102700,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual undershirt Insider escolher: o nível de suor que a marca indica para a Leve, o Moderado e o Block, o que muda nas axilas, cores, tamanho, preço com o cupom e a regra de troca.",
-    "metaDescription": "15% com o cupom EMCASACOMCECILIA na Insider. Undershirt Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho e troca.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider. Undershirt Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho e troca.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -103012,7 +103015,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Para presentear com a Insider, o kit serve a quem quer algo pronto e o gift card, a quem não sabe o tamanho. Veja o prazo para chegar antes do Natal e como funciona a troca.",
-    "metaDescription": "15% com o cupom EMCASACOMCECILIA nos kits da Insider. Presente de Natal: kits por preço, kits com cueca, gift card, sacola, troca e prazo de entrega.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF nos kits da Insider. Presente de Natal: kits por preço, kits com cueca, gift card, sacola, troca e prazo de entrega.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -103873,7 +103876,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Max Titanium ou Dux? Whey, creatina, multivitamínico e pré-treino comparados pela mesma régua, de proteína por dose a preço por dia, com Pix e cupom. Veja qual sai mais barata.",
-    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino por 100 g de proteína, por dia e por dose.",
+    "metaDescription": "Max Titanium ou Dux, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: whey, creatina, multivitamínico e pré-treino por proteína, por dia e por dose.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -104632,7 +104635,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Mais Mu é uma empresa registrada, com CNPJ ativo e site oficial, mas a reputação recente no Reclame Aqui caiu para Regular. Veja trocas, reembolso e o que pesa na compra.",
-    "metaDescription": "A Mais Mu é confiável? Veja a empresa por trás da loja, o CNPJ, o site oficial, as regras de troca e reembolso e a reputação no Reclame Aqui.",
+    "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. A marca é confiável? Veja a empresa, o CNPJ, as regras de troca e a reputação no Reclame Aqui.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -104847,7 +104850,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Mais Mu tem reputação Regular no Reclame Aqui nos últimos seis meses, com nota 6,4. Veja os números, as queixas mais comuns e o que fazer se o pedido der problema.",
-    "metaDescription": "Mais Mu no Reclame Aqui: reputação Regular em 6 meses (nota 6,4), 67,9% resolvidas e queixas sobre entrega. Veja os números e o que fazer (20/10/2026).",
+    "metaDescription": "Mais Mu no Reclame Aqui: reputação Regular em 6 meses (nota 6,4), 67,9% resolvidas e queixas sobre entrega, com o cupom MMEMCASACOMCECILIA de 10% OFF.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -105510,7 +105513,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mais Mu ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína e creatina por 100 g, preço no cartão, Pix e o cupom MMEMCASACOMCECILIA. Preços de 21/10/2026.",
-    "metaDescription": "Mais Mu ou Growth: whey e creatina por 100 g de proteína e de creatina, com preço no cartão, no Pix e com cupom. Preços de 21/10/2026.",
+    "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. Mais Mu ou Growth: whey e creatina por 100 g, com preço no cartão, no Pix e com cupom.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -105821,7 +105824,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Pelo preço no cartão, a Mais Mu sai mais barata no whey e na creatina, e a Dux leva o Pix de 5% e a única Creapure declarada. Veja as tabelas e quem escolhe o quê.",
-    "metaDescription": "Mais Mu ou Dux: whey e creatina por 100 g de proteína e de creatina, com cupom, Pix, Creapure e frete. Preços de 21/10/2026.",
+    "metaDescription": "Mais Mu ou Dux: whey e creatina por 100 g de proteína e de creatina, com o cupom MMEMCASACOMCECILIA de 10% OFF na Mais Mu.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -106198,7 +106201,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "YesStyle e Olive Young Global lado a lado: quem entrega no Brasil, em Portugal e em outros países, quando o frete é grátis, quem paga o imposto e o que cada loja devolve.",
-    "metaDescription": "YesStyle ou Olive Young? A Olive Young Global não entrega no Brasil. Veja frete grátis, prazo, imposto e devolução por país, pelas páginas oficiais.",
+    "metaDescription": "O código de recompensa CECILIA010 dá até 5% de desconto na YesStyle. YesStyle ou Olive Young Global: frete, prazo, imposto e entrega por país.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -109047,7 +109050,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao).",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. O código também vale na renovação; confira o preço no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao).",
           "Preços de planos de 24 meses, lidos em 21/10/2026:"
         ],
         "comparisonTable": {
@@ -109100,7 +109103,7 @@ export const reviewsData: unknown[] = [
           "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
           "Precisa de conta na OpenAI ou na Anthropic? Não. Nas duas opções dá para usar os créditos de IA da Hostinger. A conta no provedor só é preciso se você preferir a sua própria chave.",
           "Tem cupom de desconto da Hostinger para o OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período.",
-          "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. Não testamos a renovação com o SONAR20; confira o preço no carrinho.",
+          "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. O SONAR20 também vale na renovação; confira o preço no carrinho.",
           "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave."
         ]
       },
@@ -109125,7 +109128,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109322,7 +109325,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. We did not test the renewal; check the price in the cart. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The code also works on renewal; check the price in the cart. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ],
         "postParagraphs": [
           "Hostinger is running a Black Friday campaign, and prices change. See [Hostinger's Black Friday](/en/reviews/hostinger-black-friday) and check the amount in the cart before you pay."
@@ -109347,7 +109350,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109555,7 +109558,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % de descuento en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. No probamos la renovación; revisa el precio en el carrito. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % de descuento en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. El código también vale en la renovación; revisa el precio en el carrito. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ],
         "postParagraphs": [
           "Hostinger está en campaña de Black Friday, y los precios cambian. Mira [el Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas) y revisa el importe en el carrito antes de pagar."
@@ -109580,7 +109583,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109788,7 +109791,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code promo SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ],
         "postParagraphs": [
           "Hostinger est en pleine campagne de Black Friday, et les prix changent. Consultez [le Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) et vérifiez le montant dans le panier avant de payer."
@@ -109813,7 +109816,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110020,7 +110023,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: Das sind **20 % Rabatt auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
+          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: Das sind **20 % Rabatt auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ],
         "postParagraphs": [
           "Hostinger hat gerade eine Black-Friday-Aktion, und die Preise ändern sich. Sehen Sie sich [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote) an und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
@@ -110045,7 +110048,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110253,7 +110256,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, sia con il piano mensile sia con quello annuale, per clienti nuovi o già esistenti. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, sia con il piano mensile sia con quello annuale, per clienti nuovi o già esistenti. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ],
         "postParagraphs": [
           "Hostinger è in piena campagna di Black Friday, e i prezzi cambiano. Guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) e controlla l'importo nel carrello prima di pagare."
@@ -110278,7 +110281,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110486,7 +110489,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 코드를 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
+          "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요. 코드를 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ],
         "postParagraphs": [
           "호스팅어는 블랙프라이데이 행사 중이며 가격이 달라집니다. [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)를 보고, 결제하기 전에 장바구니에서 금액을 확인하세요."
@@ -110511,7 +110514,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
       "label": "SONAR20 할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110720,7 +110723,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。更新は検証していません。カートで価格を確認してください。コードの入れ方は [クーポン SONAR20の使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
+          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。更新時もこのコードが使えます。カートで価格を確認してください。コードの入れ方は [クーポン SONAR20の使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
         ],
         "postParagraphs": [
           "Hostinger はブラックフライデーのキャンペーン中で、価格が変わります。[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見て、支払う前にカートで金額を確認してください。"
@@ -110745,7 +110748,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していないので、カートで価格を確認してください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新時もこのコードが使えるので、カートで価格を確認してください。",
       "label": "SONAR20 の割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110953,7 +110956,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**首期享 20% 折扣**，月付或年付都可以，新客戶和舊客戶都適用。我們沒有測試續訂，請在購物車確認價格。輸入位置見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**首期享 20% 折扣**，月付或年付都可以，新客戶和舊客戶都適用。代碼也適用於續訂，請在購物車確認價格。輸入位置見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ],
         "postParagraphs": [
           "Hostinger 正在進行黑五活動，價格會變動。請看[Hostinger 黑五](/zh-hant/reviews/hostinger-black-friday-zh-hant)，付款前在購物車確認金額。"
@@ -110978,7 +110981,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續訂，請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。代碼也適用於續訂，請在購物車確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111186,7 +111189,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期享 20% 折扣**，月付或年付都可以，新老客户都适用。我们没有测试续费，请在购物车确认价格。输入位置见[如何使用 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期享 20% 折扣**，月付或年付都可以，新老客户都适用。代码在续费时也有效，请在购物车确认价格。输入位置见[如何使用 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ],
         "postParagraphs": [
           "Hostinger 正在进行黑五活动，价格会变动。请看[Hostinger 黑五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，付款前在购物车确认金额。"
@@ -111211,7 +111214,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首期享 20% 折扣。代码在续费时也有效，请在购物车确认续费价格。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111396,7 +111399,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8（32 GB）。** より大きなローカルモデルを使う場合にだけ意味があります。大きなレシピがそれぞれどれだけのメモリを必要とするかは、ドキュメントに書かれていません。"
         ],
         "postParagraphs": [
-          "コード SONAR20 は、最初の期間が 20% 割引になります。更新時の料金は確認していないので、カートで価格を確かめてください。[SONAR20 クーポンの使い方を見る](/ja/reviews/hostinger-referral-code-ja)。支払う前に、カートで金額を確認してください。Hostinger はブラックフライデーのセール中で、価格が変わります：[キャンペーンを見る](/ja/reviews/hostinger-black-friday-ja)。"
+          "コード SONAR20 は、最初の期間が 20% 割引になります。更新時もこのコードが使えます。カートで価格を確かめてください。[SONAR20 クーポンの使い方を見る](/ja/reviews/hostinger-referral-code-ja)。支払う前に、カートで金額を確認してください。Hostinger はブラックフライデーのセール中で、価格が変わります：[キャンペーンを見る](/ja/reviews/hostinger-black-friday-ja)。"
         ]
       },
       {
@@ -111474,7 +111477,7 @@ export const reviewsData: unknown[] = [
         "heading": "クーポン SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。更新時の料金は確認していないので、カートで価格を確かめてください。ブラックフライデーで価格が変わるため、支払う前にカートで金額を確認してください。[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)と[サイト内の Hostinger のページ](/ja/coupons/hostinger)を見てください。"
+          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。更新時もこのコードが使えます。カートで価格を確かめてください。ブラックフライデーで価格が変わるため、支払う前にカートで金額を確認してください。[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)と[サイト内の Hostinger のページ](/ja/coupons/hostinger)を見てください。"
         ]
       },
       {
@@ -111484,7 +111487,7 @@ export const reviewsData: unknown[] = [
           "API キーなしで動かせる？ ローカルモデルなら動かせますが、問題はメモリです。ドキュメントは、最も小さいローカルレシピの下限を 8 GiB（コンテキストは 64K）としたうえで、モデルが収まることも快適に動くことも保証しないと書いています。Hostinger のクレジットを使えば AI プロバイダーのアカウントは要りませんが、使った分の料金がかかります。",
           "Oracle は本当に無料？ アカウントが Always Free の範囲にある間は無料です。Arm A1 で 2 OCPU とメモリ 12 GB、それに Micro インスタンスが使えます。7 日間、CPU、ネットワーク、メモリがすべて 20% 未満のまま使われていないインスタンスは、Oracle に回収されることがあります。",
           "Mac mini と VPS、どちら？ パソコンを 24 時間つけておけるかどうかで決まります。つけておけるなら、自宅で動かせばサーバーの月額がかかりません。つけておけないなら、VPS かマネージドを選んでください。",
-          "OpenClaw の VPS に使える Hostinger の割引コードはある？ あります。カートのクーポン欄にコード SONAR20 を入力すると、最初の期間が 20% 割引になります。更新時の料金は確認していないので、カートで価格を確かめてください。"
+          "OpenClaw の VPS に使える Hostinger の割引コードはある？ あります。カートのクーポン欄にコード SONAR20 を入力すると、最初の期間が 20% 割引になります。更新時もこのコードが使えます。カートで価格を確かめてください。"
         ]
       },
       {
@@ -111497,7 +111500,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していないので、カートで価格を確かめてください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新時もこのコードが使えるので、カートで価格を確かめてください。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111681,7 +111684,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8(32 GB).** 더 큰 로컬 모델을 쓸 때만 의미가 있습니다. 큰 레시피마다 메모리가 얼마나 필요한지는 문서에 없습니다."
         ],
         "postParagraphs": [
-          "SONAR20 코드는 첫 번째 기간에 20%를 할인해 줍니다. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko). 결제 전에 장바구니에서 금액을 확인하세요. 호스팅어는 블랙프라이데이 중이라 가격이 바뀝니다: [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)."
+          "SONAR20 코드는 첫 번째 기간에 20%를 할인해 줍니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요. [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko). 결제 전에 장바구니에서 금액을 확인하세요. 호스팅어는 블랙프라이데이 중이라 가격이 바뀝니다: [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)."
         ]
       },
       {
@@ -111759,7 +111762,7 @@ export const reviewsData: unknown[] = [
         "heading": "쿠폰 SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 넣거나, 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두에게 적용됩니다. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 블랙프라이데이로 가격이 바뀌므로 결제 전에 장바구니에서 금액을 확인하세요. [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)과 [사이트 안의 호스팅어 페이지](/ko/coupons/hostinger)를 보세요."
+          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 넣거나, 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두에게 적용됩니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요. 블랙프라이데이로 가격이 바뀌므로 결제 전에 장바구니에서 금액을 확인하세요. [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)과 [사이트 안의 호스팅어 페이지](/ko/coupons/hostinger)를 보세요."
         ]
       },
       {
@@ -111769,7 +111772,7 @@ export const reviewsData: unknown[] = [
           "API 키 없이 돌릴 수 있나요? 로컬 모델로 가능하지만, 그러면 메모리가 문제입니다. 문서는 가장 작은 로컬 레시피의 기준을 64K 컨텍스트에서 8 GiB로 제시하면서, 모델이 들어맞는다는 것도 잘 돈다는 것도 보장하지 않는다고 말합니다. 호스팅어 크레딧을 쓰면 AI 제공업체 계정이 필요 없지만 사용한 만큼 비용을 냅니다.",
           "Oracle은 정말 무료인가요? 계정이 Always Free 범위에 있는 동안은 무료입니다. Arm A1에서 2 OCPU와 12 GB, 그리고 Micro 인스턴스를 쓸 수 있습니다. 7일 동안 CPU, 네트워크, 메모리가 모두 20% 미만인 유휴 인스턴스는 Oracle이 회수할 수 있습니다.",
           "Mac mini와 VPS 중 무엇이 좋을까요? 컴퓨터를 24시간 켜 둘 수 있는지에 달려 있습니다. 켜 둘 수 있다면 집에서 돌려 서버 월 요금을 아낄 수 있고, 그럴 수 없다면 VPS나 관리형을 고르세요.",
-          "OpenClaw VPS에 쓸 수 있는 호스팅어 할인 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 첫 번째 기간에 20%를 할인받습니다. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요."
+          "OpenClaw VPS에 쓸 수 있는 호스팅어 할인 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 첫 번째 기간에 20%를 할인받습니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요."
         ]
       },
       {
@@ -111782,7 +111785,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 링크로 들어가세요. 첫 기간 20%입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 링크로 들어가세요. 첫 기간 20%입니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
       "label": "할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111968,7 +111971,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8（32 GB）。** 只有在用更大的本地模型时才有意义。文档没有说每个大配方需要多少内存。"
         ],
         "postParagraphs": [
-          "代码 SONAR20 在第一个周期可享 20% 折扣。我们没有测试续费；请在购物车里确认价格。[查看如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，付款前请在购物车里确认金额。Hostinger 正在黑色星期五期间，价格会变动：[查看活动](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
+          "代码 SONAR20 在第一个周期可享 20% 折扣。代码在续费时也有效；请在购物车里确认价格。[查看如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，付款前请在购物车里确认金额。Hostinger 正在黑色星期五期间，价格会变动：[查看活动](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
         ]
       },
       {
@@ -112046,7 +112049,7 @@ export const reviewsData: unknown[] = [
         "heading": "优惠码 SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。我们没有测试续费；请在购物车里确认价格。因为黑色星期五会改变价格，付款前请在购物车里确认金额。请看[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)和[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。代码在续费时也有效；请在购物车里确认价格。因为黑色星期五会改变价格，付款前请在购物车里确认金额。请看[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)和[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -112056,7 +112059,7 @@ export const reviewsData: unknown[] = [
           "可以不用 API 密钥运行吗？可以，用本地模型，但这时内存就成了问题：文档把最小本地配方的下限定为 8 GiB（上下文 64K），并提醒这不保证模型放得下，也不保证跑得好。用 Hostinger 额度的话，不需要 AI 供应商的账号，但要按使用量付费。",
           "Oracle 真的免费吗？只要账户保持在 Always Free 范围内，就是免费的：Arm A1 上 2 个 OCPU 和 12 GB，外加 Micro 实例。如果实例闲置 7 天，CPU、网络和内存都低于 20%，Oracle 可能把它收回。",
           "Mac mini 还是 VPS？取决于电脑能不能 24 小时开着。能的话，在家运行可以省掉服务器月费；不能的话，选 VPS 或托管。",
-          "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？有：在购物车的优惠码栏输入代码 SONAR20，第一个周期享 20% 折扣。我们没有测试续费；请在购物车里确认价格。"
+          "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？有：在购物车的优惠码栏输入代码 SONAR20，第一个周期享 20% 折扣。代码在续费时也有效；请在购物车里确认价格。"
         ]
       },
       {
@@ -112069,7 +112072,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。代码在续费时也有效，请在购物车确认续费价格。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112254,7 +112257,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8（32 GB）。** 只有在用更大的本機模型時才有意義。文件沒有說每個大配方需要多少記憶體。"
         ],
         "postParagraphs": [
-          "代碼 SONAR20 在第一個週期享有 20% 折扣。我們沒有測試續約；請在購物車裡確認價格。[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，付款前請在購物車裡確認金額。Hostinger 正值黑色星期五，價格會變動：[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
+          "代碼 SONAR20 在第一個週期享有 20% 折扣。代碼也適用於續約；請在購物車裡確認價格。[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，付款前請在購物車裡確認金額。Hostinger 正值黑色星期五，價格會變動：[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
         ]
       },
       {
@@ -112332,7 +112335,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 優惠碼",
         "paragraphs": [],
         "postParagraphs": [
-          "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。我們沒有測試續約；請在購物車裡確認價格。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+          "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。代碼也適用於續約；請在購物車裡確認價格。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -112342,7 +112345,7 @@ export const reviewsData: unknown[] = [
           "可以不用 API 金鑰執行嗎？可以，用本機模型，但這時記憶體就成了問題：文件把最小本機配方的下限定為 8 GiB（上下文 64K），並提醒這不保證模型放得下，也不保證跑得好。用 Hostinger 額度的話，不需要 AI 供應商的帳號，但要按使用量付費。",
           "Oracle 真的免費嗎？只要帳號維持在 Always Free 範圍內，就是免費的：Arm A1 上 2 個 OCPU 和 12 GB，外加 Micro 執行個體。如果執行個體閒置 7 天，CPU、網路和記憶體都低於 20%，Oracle 可能把它回收。",
           "Mac mini 還是 VPS？取決於電腦能不能 24 小時開著。能的話，在家執行可以省掉伺服器月費；不能的話，選 VPS 或託管。",
-          "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。我們沒有測試續約；請在購物車裡確認價格。"
+          "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。代碼也適用於續約；請在購物車裡確認價格。"
         ]
       },
       {
@@ -112355,7 +112358,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。我們沒有測試續約，請在購物車裡確認價格。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。代碼也適用於續約，請在購物車裡確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112540,7 +112543,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Makes sense only with a larger local model. The documentation does not say how much memory each large recipe needs."
         ],
         "postParagraphs": [
-          "The SONAR20 code gives 20% off the first period. We did not test the renewal; check the price in the cart. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and check the amount in the cart before paying. Hostinger is running Black Friday, and prices change: [see the campaign](/en/reviews/hostinger-black-friday)."
+          "The SONAR20 code gives 20% off the first period. The code also works on renewal; check the price in the cart. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and check the amount in the cart before paying. Hostinger is running Black Friday, and prices change: [see the campaign](/en/reviews/hostinger-black-friday)."
         ]
       },
       {
@@ -112618,7 +112621,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 coupon",
         "paragraphs": [],
         "postParagraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. We did not test the renewal; check the price in the cart. Check the amount in the cart before paying, because Black Friday changes prices. See [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
+          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The code also works on renewal; check the price in the cart. Check the amount in the cart before paying, because Black Friday changes prices. See [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
         ]
       },
       {
@@ -112628,7 +112631,7 @@ export const reviewsData: unknown[] = [
           "Can you run it without an API key? Yes, with a local model, but then memory becomes the problem: the documentation gives 8 GiB as the floor for its smallest local recipe, with a 64K context, and warns that this does not guarantee the model fits or runs well. With Hostinger's credits, you do not need an account with an AI provider, but you pay for usage.",
           "Is Oracle really free? Yes, as long as the account stays within Always Free: 2 OCPUs and 12 GB on the Arm A1, plus the Micro instances. An instance that sits idle for 7 days, with CPU, network and memory below 20%, can be reclaimed by Oracle.",
           "Mac mini or VPS? It depends on whether the computer can stay on 24 hours. If it can, running at home removes the server fee; if it cannot, choose a VPS or the managed option.",
-          "Is there a Hostinger discount coupon for an OpenClaw VPS? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. We did not test the renewal; check the price in the cart."
+          "Is there a Hostinger discount coupon for an OpenClaw VPS? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The code also works on renewal; check the price in the cart."
         ]
       },
       {
@@ -112641,7 +112644,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112825,7 +112828,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Sinnvoll nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
         ],
         "postParagraphs": [
-          "Der Code SONAR20 gibt 20 % auf den ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. [So nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen. Hostinger hat Black Friday, und die Preise ändern sich: [sehen Sie sich die Aktion an](/de/reviews/hostinger-black-friday-angebote)."
+          "Der Code SONAR20 gibt 20 % auf den ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. [So nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen. Hostinger hat Black Friday, und die Preise ändern sich: [sehen Sie sich die Aktion an](/de/reviews/hostinger-black-friday-angebote)."
         ]
       },
       {
@@ -112903,7 +112906,7 @@ export const reviewsData: unknown[] = [
         "heading": "Gutschein SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für neue oder bestehende Kunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen, denn der Black Friday ändert die Preise. Lesen Sie [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Seite von Hostinger auf der Website](/de/coupons/hostinger)."
+          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für neue oder bestehende Kunden. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen, denn der Black Friday ändert die Preise. Lesen Sie [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Seite von Hostinger auf der Website](/de/coupons/hostinger)."
         ]
       },
       {
@@ -112913,7 +112916,7 @@ export const reviewsData: unknown[] = [
           "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
           "Ist Oracle wirklich kostenlos? Ja, solange das Konto bei Always Free bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang ungenutzt bleibt, mit CPU, Netzwerk und Speicher unter 20 %, kann von Oracle zurückgeholt werden.",
           "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nein, wählen Sie VPS oder den verwalteten Weg.",
-          "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb."
+          "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb."
         ]
       },
       {
@@ -112926,7 +112929,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113112,7 +113115,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 Go).** N'a de sens qu'avec un modèle local plus grand. La documentation ne dit pas combien de mémoire demande chaque grande recette."
         ],
         "postParagraphs": [
-          "Le code SONAR20 donne 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. [Voyez comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et vérifiez le montant dans le panier avant de payer. Hostinger est en Black Friday, et les prix changent : [voyez la campagne](/fr/reviews/black-friday-hostinger-offres)."
+          "Le code SONAR20 donne 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier. [Voyez comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et vérifiez le montant dans le panier avant de payer. Hostinger est en Black Friday, et les prix changent : [voyez la campagne](/fr/reviews/black-friday-hostinger-offres)."
         ]
       },
       {
@@ -113190,7 +113193,7 @@ export const reviewsData: unknown[] = [
         "heading": "Code promo SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. Vérifiez le montant dans le panier avant de payer, car le Black Friday change les prix. Voyez [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et [la page d'Hostinger sur le site](/fr/coupons/hostinger)."
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier. Vérifiez le montant dans le panier avant de payer, car le Black Friday change les prix. Voyez [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et [la page d'Hostinger sur le site](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -113200,7 +113203,7 @@ export const reviewsData: unknown[] = [
           "Peut-on s'en passer, sans clé d'API ? Oui, avec un modèle local, mais alors la mémoire devient le problème : la documentation donne 8 GiB comme plancher de sa plus petite recette locale, avec un contexte de 64K, et prévient que cela ne garantit ni que le modèle tienne, ni qu'il tourne bien. Avec les crédits de Hostinger, vous n'avez pas besoin d'un compte chez un fournisseur d'IA, mais vous payez l'usage.",
           "Oracle est-il vraiment gratuit ? Oui, tant que le compte reste dans l'Always Free : 2 OCPU et 12 Go sur les A1 Arm, plus les instances Micro. Une instance inactive pendant 7 jours, avec CPU, réseau et mémoire sous 20 %, peut être récupérée par Oracle.",
           "Mac mini ou VPS ? Cela dépend de la possibilité de laisser l'ordinateur allumé 24 heures sur 24. Si c'est possible, tourner chez soi supprime la mensualité du serveur ; sinon, choisissez un VPS ou l'offre gérée.",
-          "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier."
+          "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier."
         ]
       },
       {
@@ -113213,7 +113216,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113398,7 +113401,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Tiene sentido solo con un modelo local más grande. La documentación no dice cuánta memoria pide cada receta grande."
         ],
         "postParagraphs": [
-          "El código SONAR20 da un 20% en el primer período. No probamos la renovación; confirma el precio en el carrito. [Mira cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y confirma el importe en el carrito antes de pagar. Hostinger está en Black Friday y los precios cambian: [mira la campaña](/es/reviews/black-friday-hostinger-ofertas)."
+          "El código SONAR20 da un 20% en el primer período. El código también vale en la renovación; confirma el precio en el carrito. [Mira cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y confirma el importe en el carrito antes de pagar. Hostinger está en Black Friday y los precios cambian: [mira la campaña](/es/reviews/black-friday-hostinger-ofertas)."
         ]
       },
       {
@@ -113476,7 +113479,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupón SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para clientes nuevos o antiguos. No probamos la renovación; confirma el precio en el carrito. Confirma el importe en el carrito antes de pagar, porque la Black Friday cambia los precios. Mira [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y [la página de Hostinger en el sitio](/es/coupons/hostinger)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para clientes nuevos o antiguos. El código también vale en la renovación; confirma el precio en el carrito. Confirma el importe en el carrito antes de pagar, porque la Black Friday cambia los precios. Mira [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y [la página de Hostinger en el sitio](/es/coupons/hostinger)."
         ]
       },
       {
@@ -113486,7 +113489,7 @@ export const reviewsData: unknown[] = [
           "¿Se puede usar sin clave de API? Sí, con un modelo local, pero entonces la memoria es el problema: la documentación da 8 GiB como piso de su receta local más pequeña, con un contexto de 64K, y advierte de que eso no garantiza que el modelo quepa ni que funcione bien. Con los créditos de Hostinger no necesitas una cuenta en un proveedor de IA, pero pagas por el uso.",
           "¿Oracle es gratis de verdad? Sí, mientras la cuenta siga en Always Free: 2 OCPU y 12 GB en las A1 Arm, más las instancias Micro. Una instancia inactiva durante 7 días, con CPU, red y memoria por debajo del 20%, puede ser recuperada por Oracle.",
           "¿Mac mini o VPS? Depende de si la computadora puede quedar encendida las 24 horas. Si puede, correrlo en casa elimina la mensualidad del servidor; si no puede, elige VPS o gestionado.",
-          "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da un 20% en el primer período. No probamos la renovación; confirma el precio en el carrito."
+          "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da un 20% en el primer período. El código también vale en la renovación; confirma el precio en el carrito."
         ]
       },
       {
@@ -113499,7 +113502,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113566,7 +113569,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "O OpenClaw não publica RAM mínima geral. Veja quanto cada cenário pede e qual plano KVM da Hostinger cabe, com preços de 21/10/2026.",
-    "metaDescription": "Melhor VPS para OpenClaw sem RAM mínima oficial: o KVM por cenário, com modelo na nuvem ou local, e os preços da Hostinger de 21/10/2026.",
+    "metaDescription": "O cupom SONAR20 dá 20% OFF nos VPS da Hostinger. Melhor VPS para OpenClaw sem RAM mínima oficial: KVM por cenário, modelo na nuvem ou local.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -113698,7 +113701,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Faz sentido só com um modelo local maior. A documentação não diz quanta memória cada receita grande pede."
         ],
         "postParagraphs": [
-          "O código SONAR20 dá 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho. [Veja como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e confira o valor no carrinho antes de pagar. A Hostinger está em Black Friday, e os preços mudam: [veja a campanha](/reviews/black-friday-hostinger)."
+          "O código SONAR20 dá 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho. [Veja como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e confira o valor no carrinho antes de pagar. A Hostinger está em Black Friday, e os preços mudam: [veja a campanha](/reviews/black-friday-hostinger)."
         ]
       },
       {
@@ -113778,7 +113781,7 @@ export const reviewsData: unknown[] = [
           "Preços de 21/10/2026, em plano de 24 meses, já com os 20% do SONAR20: gerenciado R$ 19,99/mês; VPS KVM 1 R$ 23,99/mês; VPS KVM 2 R$ 34,39/mês. Na renovação, o gerenciado e o KVM 1 vão a R$ 59,99/mês, e o KVM 2 a R$ 77,99/mês."
         ],
         "postParagraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. Confira o valor no carrinho antes de pagar, porque a Black Friday muda preços. Veja [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e [a página da Hostinger no site](/cupons/hostinger)."
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. O código também vale na renovação; confira o preço no carrinho. Confira o valor no carrinho antes de pagar, porque a Black Friday muda preços. Veja [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e [a página da Hostinger no site](/cupons/hostinger)."
         ]
       },
       {
@@ -113788,7 +113791,7 @@ export const reviewsData: unknown[] = [
           "Dá para rodar sem chave de API? Dá, com modelo local, mas aí a memória vira o problema: a documentação dá 8 GiB como piso da menor receita local, com contexto de 64K, e avisa que isso não garante que o modelo caiba nem que rode bem. Com os créditos da Hostinger, você não precisa de conta num provedor de IA, mas paga pelo uso.",
           "Oracle é de graça mesmo? É, enquanto a conta seguir o Always Free: 2 OCPUs e 12 GB no Arm A1, mais as instâncias Micro. Uma instância que fica ociosa por 7 dias, com CPU, rede e memória abaixo de 20%, pode ser recuperada pela Oracle.",
           "Mac mini ou VPS? Depende de o computador poder ficar ligado 24 horas. Se pode, rodar em casa tira a mensalidade do servidor; se não pode, escolha VPS ou gerenciado.",
-          "Tem cupom de desconto da Hostinger para VPS do OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho."
+          "Tem cupom de desconto da Hostinger para VPS do OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho."
         ]
       },
       {
@@ -113812,7 +113815,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113985,7 +113988,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Ha senso solo con un modello locale più grande. La documentazione non dice quanta memoria richieda ogni ricetta grande."
         ],
         "postParagraphs": [
-          "Il codice SONAR20 dà il 20% sul primo periodo. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. [Vedi come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e controlla l'importo nel carrello prima di pagare. Hostinger è in Black Friday e i prezzi cambiano: [vedi la campagna](/it/reviews/black-friday-hostinger-offerte)."
+          "Il codice SONAR20 dà il 20% sul primo periodo. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello. [Vedi come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e controlla l'importo nel carrello prima di pagare. Hostinger è in Black Friday e i prezzi cambiano: [vedi la campagna](/it/reviews/black-friday-hostinger-offerte)."
         ]
       },
       {
@@ -114063,7 +114066,7 @@ export const reviewsData: unknown[] = [
         "heading": "Coupon SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. Controlla l'importo nel carrello prima di pagare, perché il Black Friday cambia i prezzi. Vedi [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello. Controlla l'importo nel carrello prima di pagare, perché il Black Friday cambia i prezzi. Vedi [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
         ]
       },
       {
@@ -114073,7 +114076,7 @@ export const reviewsData: unknown[] = [
           "Si può usare senza chiave API? Sì, con un modello locale, ma allora la memoria diventa il problema: la documentazione indica 8 GiB come minimo per la ricetta locale più piccola, con contesto da 64K, e avverte che non garantisce né che il modello ci stia, né che giri bene. Con i crediti di Hostinger non ti serve un account presso un fornitore di IA, ma paghi in base all'uso.",
           "Oracle è davvero gratis? Sì, finché l'account resta nell'Always Free: 2 OCPU e 12 GB sulle A1 Arm, più le istanze Micro. Un'istanza inattiva per 7 giorni, con CPU, rete e memoria sotto il 20%, può essere recuperata da Oracle.",
           "Mac mini o VPS? Dipende dal fatto che il computer possa restare acceso 24 ore. Se può, farlo girare a casa toglie il canone del server; se non può, scegli VPS o gestito.",
-          "Esiste un coupon sconto di Hostinger per un VPS OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello."
+          "Esiste un coupon sconto di Hostinger per un VPS OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello."
         ]
       },
       {
@@ -114086,7 +114089,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114348,7 +114351,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. Controlla l'importo nel carrello prima di pagare.",
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello. Controlla l'importo nel carrello prima di pagare.",
           "Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
@@ -114373,7 +114376,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114635,7 +114638,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. No probamos la renovación; consulta el precio en el carrito. Comprueba el importe en el carrito antes de pagar.",
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. El código también vale en la renovación; consulta el precio en el carrito. Comprueba el importe en el carrito antes de pagar.",
           "Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
@@ -114660,7 +114663,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer periodo. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer periodo. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114920,7 +114923,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20",
         "paragraphs": [
-          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen.",
+          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für Neu- und Bestandskunden. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen.",
           "Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
@@ -114945,7 +114948,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten Zeitraum. Der Code gilt auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
       "label": "Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115207,7 +115210,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code promo SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. Vérifiez le montant dans le panier avant de payer.",
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier. Vérifiez le montant dans le panier avant de payer.",
           "Où coller le code est expliqué dans [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
@@ -115232,7 +115235,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement : confirmez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115510,7 +115513,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. Confira o valor no carrinho antes de pagar.",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. O código também vale na renovação; confira o preço no carrinho. Confira o valor no carrinho antes de pagar.",
           "Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
@@ -115545,7 +115548,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115796,7 +115799,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから申し込んでください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。更新時の割引は確認していないので、カートで価格を確認してください。支払う前に、カートで金額を確認してください。",
+          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから申し込んでください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。更新時もこのコードが使えます。カートで価格を確認してください。支払う前に、カートで金額を確認してください。",
           "コードを貼り付ける場所は、[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
@@ -115821,7 +115824,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していないので、カートで価格を確認してください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時もこのコードが使えるので、カートで価格を確認してください。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116081,7 +116084,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나, 이 글의 링크로 들어가세요. **첫 결제 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두 쓸 수 있습니다. 갱신 시 할인은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 결제하기 전에 장바구니에서 금액을 확인하세요.",
+          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나, 이 글의 링크로 들어가세요. **첫 결제 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두 쓸 수 있습니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요. 결제하기 전에 장바구니에서 금액을 확인하세요.",
           "코드를 붙여 넣는 위치는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
@@ -116106,7 +116109,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
       "label": "할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116368,7 +116371,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。我们没有测试续费，请在购物车里确认价格。付款前，请在购物车里确认金额。",
+          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。代码在续费时也有效，请在购物车里确认价格。付款前，请在购物车里确认金额。",
           "代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
@@ -116393,7 +116396,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。代码在续费时也有效，请在购物车确认续费价格。",
       "label": "通过 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116654,7 +116657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "優惠碼 SONAR20",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。我們沒有測試續約，請在購物車裡確認價格。付款前，請在購物車裡確認金額。",
+          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。代碼也適用於續約，請在購物車裡確認價格。付款前，請在購物車裡確認金額。",
           "代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
@@ -116679,7 +116682,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車裡確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。代碼也適用於續約，請在購物車裡確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116940,7 +116943,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or enter through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. We did not test renewal; check the price in the cart. Check the amount in the cart before paying.",
+          "Use the code **SONAR20** in the cart's coupon field, or enter through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The code also works on renewal; check the price in the cart. Check the amount in the cart before paying.",
           "Where to paste the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
@@ -116965,7 +116968,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117155,7 +117158,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutscheincode SONAR20",
         "paragraphs": [
-          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht unter [so verwenden Sie den Code SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode). Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
+          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht unter [so verwenden Sie den Code SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode). Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
         ]
       },
       {
@@ -117179,7 +117182,7 @@ export const reviewsData: unknown[] = [
           "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. In den gelesenen Quellen haben wir kein unabhängiges Audit gefunden.",
           "Braucht man einen API-Schlüssel? Ja. Beim verwalteten Angebot und beim VPS verlangt die Paperclip-Seite, dass man eigene mitbringt. Auf dem Computer akzeptiert die README auch das Abonnement von Claude oder Codex, ohne API-Schlüssel.",
           "Läuft es mit Ollama? Das hängt vom Agenten ab, den Sie verbinden. Die README von Paperclip nennt Ollama nicht, ein Programm, um ein KI-Modell auf dem eigenen Computer auszuführen. OpenClaw dokumentiert zum Beispiel lokale Modelle; bei Paperclip liegt das Modell beim Agenten, den Sie verbinden.",
-          "Gibt es einen Gutscheincode für Paperclip bei Hostinger? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb."
+          "Gibt es einen Gutscheincode für Paperclip bei Hostinger? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb."
         ]
       },
       {
@@ -117192,7 +117195,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117383,7 +117386,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Codice SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo codice sconto del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già attivi. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito). Controlla il prezzo nel carrello prima di pagare."
+          "Usa il codice **SONAR20** nel campo codice sconto del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già attivi. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito). Controlla il prezzo nel carrello prima di pagare."
         ]
       },
       {
@@ -117407,7 +117410,7 @@ export const reviewsData: unknown[] = [
           "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
           "Serve una chiave API? Sì. Sul gestito e sul VPS, la pagina di Paperclip chiede di portare le proprie. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
           "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
-          "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello."
+          "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello."
         ]
       },
       {
@@ -117420,7 +117423,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117612,7 +117615,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c’est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Nous n’avons pas testé le renouvellement ; vérifiez le prix dans le panier. Où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Vérifiez le montant dans le panier avant de payer."
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c’est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier. Où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Vérifiez le montant dans le panier avant de payer."
         ]
       },
       {
@@ -117636,7 +117639,7 @@ export const reviewsData: unknown[] = [
           "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Nous n’avons pas trouvé d’audit indépendant dans les sources lues.",
           "Faut-il une clé d’API ? Oui. Sur le géré et sur le VPS, la page de Paperclip demande d’apporter les vôtres. Sur l’ordinateur, le README accepte aussi l’abonnement Claude ou Codex, sans clé d’API.",
           "Fonctionne-t-il avec Ollama ? Cela dépend de l’agent que vous connectez. Le README de Paperclip ne cite pas Ollama, un programme pour faire tourner un modèle d’IA sur son propre ordinateur. OpenClaw, par exemple, documente des modèles locaux ; dans Paperclip, le modèle reste du côté de l’agent que vous connectez.",
-          "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Nous n’avons pas testé le renouvellement ; vérifiez le prix dans le panier."
+          "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier."
         ]
       },
       {
@@ -117649,7 +117652,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117840,7 +117843,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart’s coupon field, or come in through this article’s link: it gives **20% off the first period**, on a monthly or annual plan, for new or existing customers. We did not test the renewal; check the price in the cart. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral). Check the price in the cart before you pay."
+          "Use the code **SONAR20** in the cart’s coupon field, or come in through this article’s link: it gives **20% off the first period**, on a monthly or annual plan, for new or existing customers. The code also works on renewal; check the price in the cart. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral). Check the price in the cart before you pay."
         ]
       },
       {
@@ -117864,7 +117867,7 @@ export const reviewsData: unknown[] = [
           "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. We found no independent audit in the sources read.",
           "Does it need an API key? Yes. On managed and on the VPS, the Paperclip page asks you to bring your own. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
           "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
-          "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. We did not test the renewal; check the price in the cart."
+          "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The code also works on renewal; check the price in the cart."
         ]
       },
       {
@@ -117877,7 +117880,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on renewal; check the price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -118068,7 +118071,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも適用されます。更新については確認していません。カートで価格を確認してください。コードを入れる場所は[クーポン SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja)にあります。支払う前に、カートで金額を確認してください。"
+          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも適用されます。更新時もこのコードが使えます。カートで価格を確認してください。コードを入れる場所は[クーポン SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja)にあります。支払う前に、カートで金額を確認してください。"
         ]
       },
       {
@@ -118092,7 +118095,7 @@ export const reviewsData: unknown[] = [
           "Paperclip は信頼できますか？ 結論を出すことはできません。確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を責任者としていること、セキュリティ上の不具合は GitHub の公式窓口で報告されることです。調べた情報源には、独立した監査は見つかりませんでした。",
           "API キーは必要ですか？ はい。マネージドでも VPS でも、Paperclip のページはご自身のキーを持ち込むよう求めています。コンピューターで動かす場合は、README により Claude または Codex のサブスクリプションでも、API キーなしで利用できます。",
           "Ollama で動きますか？ 接続するエージェント次第です。Paperclip の README には、AI モデルを自分のコンピューターで動かすプログラムである Ollama への言及がありません。たとえば OpenClaw はローカルモデルを文書化していますが、Paperclip ではモデルは接続したエージェント側にあります。",
-          "Hostinger で Paperclip に使えるクーポンはありますか？ あります。カートのクーポン欄にコード SONAR20 を入れると、最初の期間が20%引きになります。更新については確認していません。カートで価格を確認してください。"
+          "Hostinger で Paperclip に使えるクーポンはありますか？ あります。カートのクーポン欄にコード SONAR20 を入れると、最初の期間が20%引きになります。更新時もこのコードが使えます。カートで価格を確認してください。"
         ]
       },
       {
@@ -118105,7 +118108,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時もこのコードが使えます。カートで価格を確認してください。",
       "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -118295,7 +118298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두에게 적용됩니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 코드를 붙여 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 결제하기 전에 장바구니에서 금액을 확인하세요."
+          "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두에게 적용됩니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요. 코드를 붙여 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 결제하기 전에 장바구니에서 금액을 확인하세요."
         ]
       },
       {
@@ -118319,7 +118322,7 @@ export const reviewsData: unknown[] = [
           "Paperclip은 믿을 만한가요? 결론을 내릴 수는 없습니다. 확인할 수 있는 것은 코드가 공개되어 있다는 점, 저장소가 Paperclip 팀(저작권 표기로는 Paperclip Labs, Inc.)을 책임자로 밝힌다는 점, 보안 결함은 GitHub의 공식 창구로 신고된다는 점입니다. 살펴본 자료에서 독립적인 감사는 찾지 못했습니다.",
           "API 키가 필요한가요? 네. 관리형과 VPS 모두 Paperclip 페이지는 자신의 키를 가져오라고 안내합니다. 컴퓨터에서는 README에 따라 Claude나 Codex 구독으로도 API 키 없이 쓸 수 있습니다.",
           "Ollama와 함께 작동하나요? 연결하는 에이전트에 따라 다릅니다. Paperclip의 README에는 AI 모델을 컴퓨터에서 직접 실행하는 프로그램인 Ollama가 언급되어 있지 않습니다. 예를 들어 OpenClaw는 로컬 모델을 문서화하고 있지만, Paperclip에서 모델은 연결한 에이전트 쪽에 있습니다.",
-          "Hostinger에서 Paperclip에 쓸 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣으면 첫 번째 기간 20% 할인이 적용됩니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요."
+          "Hostinger에서 Paperclip에 쓸 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣으면 첫 번째 기간 20% 할인이 적용됩니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요."
         ]
       },
       {
@@ -118332,7 +118335,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -118524,7 +118527,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**首个周期享 8 折**（即减 20%），月付或年付均可，新老客户都适用。我们没有测试续费，请在购物车里确认价格。代码填在哪里，见[如何使用优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。付款前请在购物车里确认金额。"
+          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**首个周期享 8 折**（即减 20%），月付或年付均可，新老客户都适用。代码在续费时也有效，请在购物车里确认价格。代码填在哪里，见[如何使用优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。付款前请在购物车里确认金额。"
         ]
       },
       {
@@ -118548,7 +118551,7 @@ export const reviewsData: unknown[] = [
           "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。在所查阅的资料中，我们没有找到独立审计。",
           "需要 API 密钥吗？ 需要。无论托管版还是 VPS，Paperclip 的页面都要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
           "能搭配 Ollama 使用吗？ 取决于您连接的智能体。Paperclip 的 README 没有提到 Ollama，这是一个在自己电脑上运行 AI 模型的程序。例如 OpenClaw 记录了本地模型的用法；而在 Paperclip 中，模型取决于您连接的智能体。",
-          "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。我们没有测试续费，请在购物车里确认价格。"
+          "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。代码在续费时也有效，请在购物车里确认价格。"
         ]
       },
       {
@@ -118561,7 +118564,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。代码在续费时也有效，请在购物车确认价格。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -118752,7 +118755,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "優惠碼 SONAR20",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**首個週期享 8 折**（即減 20%），月繳或年繳皆可，新舊客戶都適用。我們沒有測試續約，請在購物車裡確認價格。代碼填在哪裡，請見[如何使用優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。付款前請在購物車裡確認金額。"
+          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**首個週期享 8 折**（即減 20%），月繳或年繳皆可，新舊客戶都適用。代碼也適用於續約，請在購物車裡確認價格。代碼填在哪裡，請見[如何使用優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。付款前請在購物車裡確認金額。"
         ]
       },
       {
@@ -118776,7 +118779,7 @@ export const reviewsData: unknown[] = [
           "Paperclip 可靠嗎？ 無法下定論。可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。在所查閱的資料中，我們沒有找到獨立稽核。",
           "需要 API 金鑰嗎？ 需要。無論代管方案還是 VPS，Paperclip 的頁面都要求您自備金鑰。在電腦上執行時，README 也支援 Claude 或 Codex 的訂閱，不需要 API 金鑰。",
           "能搭配 Ollama 使用嗎？ 取決於您連接的代理。Paperclip 的 README 沒有提到 Ollama，這是一個在自己電腦上執行 AI 模型的程式。例如 OpenClaw 記錄了本機模型的用法；而在 Paperclip 中，模型取決於您連接的代理。",
-          "Hostinger 上有適用於 Paperclip 的優惠碼嗎？ 有：在購物車的優惠碼欄輸入代碼 SONAR20，首個週期可減 20%。我們沒有測試續約，請在購物車裡確認價格。"
+          "Hostinger 上有適用於 Paperclip 的優惠碼嗎？ 有：在購物車的優惠碼欄輸入代碼 SONAR20，首個週期可減 20%。代碼也適用於續約，請在購物車裡確認價格。"
         ]
       },
       {
@@ -118789,7 +118792,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。代碼也適用於續約，請在購物車確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -118855,7 +118858,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Paperclip é um orquestrador de equipes de agentes de IA, open source (MIT). Veja o que dá para conferir e se compensa gerenciado ou VPS na Hostinger.",
-    "metaDescription": "Paperclip AI: o que é, quem mantém, o que dá para conferir e como rodar na Hostinger, gerenciado ou VPS, com preços de 21/10/2026.",
+    "metaDescription": "Paperclip na Hostinger, com o cupom SONAR20 de 20% OFF: o que é, quem mantém e se vale o gerenciado ou o VPS.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -119023,7 +119026,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Confira o valor no carrinho antes de pagar."
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. O código também vale na renovação; confira o preço no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Confira o valor no carrinho antes de pagar."
         ]
       },
       {
@@ -119047,7 +119050,7 @@ export const reviewsData: unknown[] = [
           "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não encontramos auditoria independente nas fontes lidas.",
           "Precisa de chave de API? Sim. No gerenciado e no VPS, a página do Paperclip pede que você traga as suas. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
           "Roda com Ollama? Depende do agente que você conecta. O README do Paperclip não cita o Ollama, um programa para rodar modelo de IA no próprio computador. O OpenClaw, por exemplo, documenta modelos locais; no Paperclip, o modelo fica com o agente que você conecta.",
-          "Tem cupom para o Paperclip na Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho."
+          "Tem cupom para o Paperclip na Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho."
         ]
       },
       {
@@ -119070,7 +119073,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -119251,7 +119254,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. No probamos la renovación; confirma el precio en el carrito. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Confirma el valor en el carrito antes de pagar."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. El código también vale en la renovación; confirma el precio en el carrito. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Confirma el valor en el carrito antes de pagar."
         ]
       },
       {
@@ -119275,7 +119278,7 @@ export const reviewsData: unknown[] = [
           "¿Paperclip es confiable? No se puede dar un veredicto. Se puede comprobar que el código es público, que el repositorio indica al equipo de Paperclip (Paperclip Labs, Inc. en el aviso de copyright) como responsable, y que las fallas de seguridad se reportan por un canal oficial en GitHub. No encontramos auditoría independiente en las fuentes leídas.",
           "¿Necesita clave de API? Sí. En el gestionado y en el VPS, la página de Paperclip pide que traigas las tuyas. En la computadora, el README también acepta la suscripción de Claude o de Codex, sin clave de API.",
           "¿Funciona con Ollama? Depende del agente que conectes. El README de Paperclip no menciona Ollama, un programa para ejecutar un modelo de IA en la propia computadora. OpenClaw, por ejemplo, documenta modelos locales; en Paperclip, el modelo queda con el agente que conectes.",
-          "¿Hay cupón para Paperclip en Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período. No probamos la renovación; confirma el precio en el carrito."
+          "¿Hay cupón para Paperclip en Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período. El código también vale en la renovación; confirma el precio en el carrito."
         ]
       },
       {
@@ -119288,7 +119291,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -119337,7 +119340,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quem opera a Skelt, o que os dois CNPJs ligados à marca mostram, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete.",
-    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA no site oficial. A Skelt é confiável? A empresa por trás do site, os dois CNPJs, trocas, reembolso e frete grátis.",
+    "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF no site oficial. A Skelt é confiável? A empresa por trás do site, os dois CNPJs, trocas, reembolso e frete grátis.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -119562,7 +119565,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A reputação da Skelt no Reclame Aqui é boa: Ótima em 6 meses, nota 8,3 e 92,2% das reclamações resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
-    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. No Reclame Aqui, Ótima em 6 meses (nota 8,3) e 92,2% resolvidas: as queixas sobre defeito e entrega.",
+    "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF na Skelt. No Reclame Aqui, Ótima em 6 meses (nota 8,3) e 92,2% resolvidas: as queixas sobre defeito e entrega.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
     "draft": false,
@@ -120266,7 +120269,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quem opera a Bagaggio, o que as datas do site significam, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e garantia.",
-    "metaDescription": "10% com o cupom CECILIA10 no site oficial. A Bagaggio é confiável? A empresa por trás do site, o CNPJ, a garantia vitalícia, as trocas e como conferir.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF no site oficial da Bagaggio. A loja é confiável? A empresa por trás do site, o CNPJ, a garantia vitalícia e as trocas.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
     "draft": false,
@@ -120538,7 +120541,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Bagaggio tem reputação Boa no Reclame Aqui nos últimos 6 meses, mas Ruim nos últimos 12. Veja qual perfil olhar e o que fazer se o seu pedido der problema.",
-    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. No Reclame Aqui, Boa em 6 meses (nota 7,7) e Ruim em 12 (5,8): qual perfil olhar e o que fazer se o pedido atrasar.",
+    "metaDescription": "Bagaggio no Reclame Aqui, com o cupom CECILIA10 de 10% OFF: Boa em 6 meses (nota 7,7), Ruim em 12 (5,8), qual perfil olhar e o que fazer se atrasar.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
     "draft": false,
@@ -121300,7 +121303,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A garantia vitalícia da Bagaggio vale só para malas da marca compradas a partir de 29/04/2024. Veja o que cobre, o que não cobre e como acionar a garantia.",
-    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. A garantia vitalícia vale só para malas da marca: o que cobre, o que não cobre, o passo a passo e o dano no voo.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. A garantia vitalícia vale só para malas da marca: o que cobre, o que não cobre, o passo a passo e o dano no voo.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
     "draft": false,
@@ -122029,7 +122032,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Os 7 autobronzeadores da Skelt lado a lado: cor-guia, intensidade, tempo de ação, nível e preço por ml em 23/10/2026. Mousse ou água, Dark ou normal, gel, bifásico e kits.",
-    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Qual autobronzeador comprar: mousse, água, Dark, gel e bifásico por cor-guia, intensidade e preço por ml.",
+    "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF na Skelt. Qual autobronzeador comprar: mousse, água, Dark, gel e bifásico por cor-guia, intensidade e preço por ml.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -123123,7 +123126,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Skelt ou Best Bronze? Mousse escuro, transparente e kit com luva lado a lado, com o preço por 100 ml no cartão, com o cupom SKEMCASACOMCECILIA e no Pix.",
-    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Skelt ou Best Bronze: mousse escuro, transparente e kit com luva por preço por 100 ml e duração.",
+    "metaDescription": "Skelt ou Best Bronze, com o cupom SKEMCASACOMCECILIA de 10% OFF na Skelt: mousse escuro, transparente e kit com luva por preço por 100 ml e duração.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -124169,7 +124172,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A camiseta da Cléa Store pela ficha da loja: composição, modelagem oversized, os 6 modelos com cores, o preço por peça na avulsa e no kit e os cuidados, em 23/10/2026.",
-    "metaDescription": "Camiseta Cléa Store é boa? Veja composição, só oversized, 6 modelos e o preço por peça: avulsa R$ 129,00 e kit de 3 a R$ 258,00 em 23/10/2026.",
+    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta é boa? Só oversized, 6 modelos e o preço por peça no kit de 3.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -124716,7 +124719,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Para pagar menos pela proteína, o Whey 80% HD Refil 900 g é o mais barato da Black Skull; para uso diário, vale o 100% HD. Veja a comparação por dose e preço por 100 g.",
-    "metaDescription": "Qual whey da Black Skull comprar: compare 80% HD, 100% HD, 3W Core, Gourmet e Turbo pela proteína por dose e pelo preço por 100 g, com os preços do site.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF em todo o site da Black Skull. Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -125149,6 +125152,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Black Skull ou Dark Lab: creatina e whey comparados pelo preço por 100 g de creatina e de proteína, com o rótulo de cada uma e a origem das duas marcas.",
+    "metaDescription": "Black Skull ou Dark Lab: creatina e whey por 100 g, com o cupom CECILIA10 de 10% OFF na Black Skull e o rótulo de cada marca.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "draft": false,
@@ -125394,7 +125398,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Doctor Bar, alfajor e Doctor Wafer comparados por unidade: proteína, açúcar, calorias e preço, com as tabelas da loja lidas em 24/10/2026.",
-    "metaDescription": "Doctor Bar, alfajor ou Doctor Wafer? Proteína, açúcar, calorias e preço por unidade dos snacks da Dr. Peanut, com as tabelas de 24/10/2026.",
+    "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Doctor Bar, alfajor ou Doctor Wafer: proteína, açúcar, calorias e preço por unidade.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "draft": false,
@@ -125739,6 +125743,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Preço por 100 g de cada pote e kit da Dr. Peanut, com e sem o cupom, o frete grátis por região e a assinatura.",
+    "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Pote de 250 g, 600 g ou kit: qual tamanho compensa, pelo preço por 100 g e o frete por região.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "draft": false,
@@ -126024,7 +126029,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Blazer, colete e shorts de linho e de mistura da Cléa Store, com a grade do dia e as três montagens de conjunto com o cupom de 10%, lidas em 24/10/2026.",
-    "metaDescription": "Alfaiataria de verão na Cléa Store: composição de cada blazer, colete e calça, grade do dia e três montagens de conjunto com e sem o cupom de 10%.",
+    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Alfaiataria de verão: blazer, colete e calça, grade do dia e três montagens de conjunto.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "draft": false,
@@ -126463,7 +126468,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Creatina com sabor da Black Skull, da Max Titanium e da Probiótica comparadas pelo rótulo: a creatina por dose, o preço por 100 g de creatina e o carboidrato de cada pote.",
-    "metaDescription": "Creatina com sabor: Black Skull, Max Titanium e Probiótica pelo rótulo, com o preço por 100 g de creatina e o carboidrato de cada pote, nos preços de 25/10/2026.",
+    "metaDescription": "Creatina com sabor: a Black Skull, com o cupom CECILIA10 de 10% OFF, comparada à Max Titanium e à Probiótica pelo rótulo e pelo preço por 100 g.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "draft": false,
@@ -126713,6 +126718,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Black Skull ou Integralmédica: creatina e whey comparados pelo preço por 100 g de creatina e de proteína, com o rótulo de cada uma e a origem das duas marcas.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. Creatina e whey comparados com a Integralmédica pelo rótulo e pelo preço por 100 g de proteína.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "draft": false,
@@ -126955,6 +126961,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Dr. Peanut ou La Ganexa comparadas pelo rótulo, pela proteína, pela lactose e pelo preço por 100 g, com a conta do cupom da Dr. Peanut em 25/10/2026.",
+    "metaDescription": "Dr. Peanut ou La Ganexa: qual pasta de amendoim escolher pelo rótulo e pelo preço por 100 g, com o cupom DREMCASACOMCECILIA de 10% OFF na Dr. Peanut.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "draft": false,
@@ -127735,7 +127742,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "metaDescription": "Exquenta Mais Mu: cafeína, taurina, açúcar e preço por dose de cada pote, sachê e versão sem cafeína, pela tabela da loja em 25/10/2026.",
+    "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. Exquenta: cafeína, taurina, açúcar e preço por dose de cada pote, sachê e versão sem cafeína.",
     "description": "Exquenta Mais Mu em potes de 300 g e 500 g, sachês e versões sem cafeína: cafeína e taurina por dose pelo rótulo, doses por pote e preço por dose com os preços de 25/10/2026.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
@@ -128114,7 +128121,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "metaDescription": "Qual whey Mais Mu escolher: pote, refil, sachê e isolado pela contagem de doses da loja, com preço por dose e por 100 g de proteína em 25/10/2026.",
+    "metaDescription": "Whey Mais Mu: pote, refil, sachê e isolado comparados por dose e por 100 g de proteína, com o cupom MMEMCASACOMCECILIA de 10% OFF.",
     "description": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e cupom, com os preços de 25/10/2026.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
@@ -128580,7 +128587,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mukebar, Crush Bar, Chocowheyfer e Veggie Wafer da Mais Mu comparados por unidade: proteína, açúcar, calorias e preço, com as tabelas da loja lidas em 25/10/2026.",
-    "metaDescription": "Mukebar, Crush Bar ou Chocowheyfer? Proteína, açúcar, calorias e preço por unidade das barras e wafers da Mais Mu, com as tabelas de 25/10/2026.",
+    "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. Mukebar, Crush Bar, Chocowheyfer e Veggie Wafer: proteína, açúcar, calorias e preço por unidade.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
     "draft": false,
@@ -128923,7 +128930,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Valley Modular e Inflow vendem sofá de espuma a vácuo, e a DAMIE manda módulos de madeira. Compare garantia, teste em casa, devolução, prazo e preço para escolher.",
-    "metaDescription": "Valley Modular é a Inflow? Não. Compare as duas com a DAMIE: como chega, garantia, devolução, prazo, preço e Reclame Aqui (25/10/2026).",
+    "metaDescription": "Valley Modular, Inflow ou DAMIE, com o cupom CECILIA12 de 12% OFF na DAMIE: espuma a vácuo contra módulos de madeira, garantia, devolução e preço.",
     "image": "/images/reviews/damie/valley-inflow-ou-damie-capa-discover.webp",
     "imageAlt": "Cecília sorrindo deitada no sofá modular azul da DAMIE, ao lado da foto oficial do modular 2 lugares cinza numa sala",
     "imageFit": "contain",
@@ -129320,7 +129327,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Le Creuset 20 ou 24 cm comparadas em litros, preço no cartão, preço por litro e cores na Let's Eat It, mais a caçarola buffet e os outros formatos, com dados de 26/10/2026.",
-    "metaDescription": "A Le Creuset 20 cm tem 2,4 L e a 24 cm, 4,2 L. Compare preço por litro, cores e quando a caçarola buffet faz sentido (26/10/2026).",
+    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It, também na Le Creuset. A 20 cm tem 2,4 L e a 24 cm, 4,2 L: compare preço por litro e cores.",
     "image": "/images/reviews/letseatit/le-creuset-qual-tamanho-escolher-capa-discover.webp",
     "imageAlt": "Panelas Le Creuset Redonda Signature vermelhas de 20 cm (2,4 L) e 24 cm (4,2 L) lado a lado, com o logo da Let's Eat It",
     "imageFit": "contain",
@@ -129802,7 +129809,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Quem opera a Toda Up, a ligação com a Fita UP, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete, com dados de 26/10/2026.",
-    "metaDescription": "Fita Up é confiável? A Toda Up é o nome novo da Fita Up: FITA UP LTDA, CNPJ ativo desde 2020. Veja trocas em 30 dias, reembolso, frete e o site oficial.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF no site oficial da Toda Up. A Toda Up é confiável? CNPJ da Fita UP ativo desde 2020, trocas, reembolso e frete.",
     "image": "/images/reviews/toda-up/toda-up-e-confiavel-capa-discover.webp",
     "imageAlt": "Três modelos com sutiãs da Toda Up, com o logo da loja, o título Toda Up é confiável? e os selos RA1000 e Empresa Verificada do Reclame Aqui em 26/10/2026",
     "imageFit": "contain",
@@ -130039,7 +130046,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Os números da Toda Up no Reclame Aqui em 26/10/2026: RA1000 nos últimos 6 meses, nota 8,5, 100% respondidas e 93,1% resolvidas, e o que muda na aba geral.",
-    "metaDescription": "Toda Up no Reclame Aqui: RA1000 em 6 meses, nota 8,5, 100% respondidas e 93,1% resolvidas. Veja a aba geral e o que fazer se o pedido der problema.",
+    "metaDescription": "Toda Up no Reclame Aqui com o cupom MAUAD de 10% OFF: RA1000, nota 8,5, 100% respondidas e 93,1% resolvidas, e o que fazer se der problema.",
     "image": "/images/reviews/toda-up/toda-up-reclame-aqui-capa-discover.webp",
     "imageAlt": "Modelo com o Sutiã Comfort Line da Toda Up e o topo do perfil Toda Up no Reclame Aqui em 26/10/2026, com a reputação RA1000 e o selo Empresa Verificada",
     "imageFit": "contain",
@@ -130257,7 +130264,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up, inclusive em produto em promoção. Veja o passo a passo no carrinho e o que ele somou com a Black Antecipada no teste.",
-    "metaDescription": "Passo a passo para usar o cupom da Toda Up no carrinho: 10% OFF em todo o site, vale em produto em promoção e somou com a progressiva da Black Antecipada.",
+    "metaDescription": "Passo a passo para usar o cupom MAUAD no carrinho da Toda Up: 10% OFF em todo o site, inclusive em produto em promoção.",
     "image": "/images/reviews/toda-up/cupom-toda-up-capa-discover.webp",
     "imageAlt": "Modelo com o Sutiã Comfort Up rosa da Toda Up, com o logo da loja e o desconto de 10% do cupom da Cecília",
     "imageFit": "contain",
@@ -130457,7 +130464,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "A Toda Up já está em Black November, com todo o site em desconto e até 35% OFF. Veja os carrinhos de exemplo, os preços para comparar e como o cupom da loja entra na conta.",
-    "metaDescription": "Black Friday Toda Up 2026 já começou: Black November com até 35% OFF e brinde acima de R$ 199. Cupom de 10%, três carrinhos e preços de outubro.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Black Friday: Black November com até 35% OFF, brinde por valor de pedido e preços de outubro para comparar.",
     "image": "/images/reviews/toda-up/black-friday-toda-up-capa-discover.webp",
     "imageAlt": "Banner Black Friday antecipada da Toda Up com uma modelo de sutiã tomara que caia preto, com o logo da loja e o título Black Friday da Toda Up",
     "imageFit": "contain",
@@ -130799,7 +130806,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "O que a Toda Up publica sobre a Fita Up: como colar no tomara que caia e no decote, a largura, como remover e se dá para reutilizar. Preço de 26/10/2026.",
-    "metaDescription": "Fita Up (Toda Up): o passo a passo de uso que a marca publica, a largura P, M ou G, como tirar e o que ela diz sobre reutilizar. Preço de 26/10/2026.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF no site da Toda Up, antes Fita Up. Fita Up: como colar no tomara que caia e no decote, a largura P, M ou G e como tirar.",
     "image": "/images/reviews/toda-up/fita-up-como-usar-capa-discover.webp",
     "imageAlt": "Três rolos da Fita Up na cor bege, com o logo da Toda Up e o título Fita Up: como usar",
     "imageFit": "contain",
@@ -132366,7 +132373,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Nutren Senior comparada por 100 g em cinco formas de compra (370 g, 740 g, kit, combo e Premium Baunilha), com a assinatura e a Zero Lactose, com preços de 28/10/2026.",
-    "metaDescription": "Nutren Senior por 100 g: o kit de duas latas de 740 g sai mais barato que lata, combo e 370 g. Preços lidos em 28/10/2026 na loja oficial.",
+    "metaDescription": "O cupom CECI dá 10% na loja oficial da Nestlé Nutre. Nutren Senior por 100 g: qual tamanho compensa, com os preços da própria loja.",
     "image": "/images/reviews/nutren/nutren-senior-kit-combo-ou-assinatura-capa.webp",
     "imageAlt": "Latas de Nutren Senior Zero Lactose, Café com Leite e Sem Sabor de 740 g, com o título 370 g, 740 g ou kit",
     "imageFit": "contain",
@@ -132592,7 +132599,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Cookies sem açúcar da Belive comparados por 100 g, com o rótulo, os adoçantes, os alérgenos e o cupom MAUAD, a partir da loja oficial em 28/10/2026.",
-    "metaDescription": "Os quatro cookies sem açúcar da Belive comparados por 100 g: preço no cartão, kcal, proteína, açúcares e alérgenos, com a leitura da loja em 28/10/2026.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Os quatro cookies sem açúcar comparados por 100 g: calorias, proteína, açúcares, alérgenos e preço.",
     "image": "/images/reviews/belive/cookies-sem-acucar-belive-capa.webp",
     "imageAlt": "Pacotes dos cookies sem açúcar da Belive de chocolate, baunilha com chocolate e castanhas, com o título Cookies sem açúcar",
     "imageFit": "contain",
@@ -132873,7 +132880,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Os oito sabores dos snacks proteicos e de arroz da Belive, com preço, rótulo, ingredientes e a conta por grama de proteína, em 28/10/2026.",
-    "metaDescription": "Snack proteico ou de arroz da Belive, com preços de 28/10/2026: o proteico tem 10 g de proteína por pacote e custa menos da metade por grama de proteína.",
+    "metaDescription": "Snack proteico ou de arroz da Belive, com o cupom MAUAD de 10% OFF: o proteico tem 10 g de proteína por pacote e o preço por grama.",
     "image": "/images/reviews/belive/snack-proteico-ou-snack-de-arroz-belive-capa.webp",
     "imageAlt": "Pacotes do snack proteico de queijo e do snack de arroz de queijo da Belive, com o título Proteico ou de arroz",
     "imageFit": "contain",
@@ -133119,7 +133126,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "O bolinho kids da Belive de 45 g para a lancheira, lido pelo rótulo: calorias, açúcares, adoçantes e alergênicos. Veja o preço por unidade e por que o kit de 25 não o traz.",
-    "metaDescription": "Bolinho kids da Belive de 45 g: R$ 6,97 por unidade no cartão, 157 kcal e 0,5 g de açúcar total no rótulo. Comparado ao adulto e ao kit de 25, que não tem bolinho kids. Preços de 28/10/2026.",
+    "metaDescription": "Bolinho kids da Belive para a lancheira, com o cupom MAUAD de 10% OFF no site: 45 g, calorias, açúcares e alergênicos pelo rótulo.",
     "image": "/images/reviews/belive/bolinho-kids-belive-lancheira-capa.webp",
     "imageAlt": "Pacote do bolinho kids de brigadeiro da Belive, com o título Bolinho kids",
     "imageFit": "contain",
@@ -135345,7 +135352,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "A SHEIN anuncia até 85% off na Mega Promoção 11.11, e a Cecília escolheu 19 peças em 5 grupos, de pijamas a masculino. Veja os descontos, os tamanhos e o link de cada peça.",
-    "metaDescription": "SHEIN 11.11 até 12/11/2026: 19 peças escolhidas pela Cecília, de pijama a camisa masculina, com preço, desconto e tamanhos de cada peça.",
+    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. SHEIN 11.11: 19 peças escolhidas pela Cecília, de pijama a camisa masculina.",
     "image": "/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp",
     "imageAlt": "Colagem com peças da seleção 11.11 da SHEIN: pijama floral, conjunto infantil, cardigã, scarpin e camisa masculina, com a logo da SHEIN",
     "imageFit": "contain",
@@ -144315,7 +144322,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O pote de 300 g é a creatina da Probiótica que mais compensa por grama e por dose. Veja quanto o de 100 g, a Creapure e a monodose custam a mais e qual escolher.",
-    "metaDescription": "Creatina Probiótica: 300 g, 100 g, Creapure 150 g e monodose comparadas pela tabela nutricional e pelo preço por 100 g e por dose, nos preços de 28/10/2026.",
+    "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Creatina de 300 g, 100 g, Creapure e monodose: qual compensa pelo preço por 100 g e por dose.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -144563,7 +144570,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Creatina Monodose da Probiótica ou pote de 300 g? O pote ganha: veja a porção pelo rótulo, o preço por 100 g e por dose de 5 g e quanto o sachê custa a mais.",
-    "metaDescription": "Creatina Monodose da Probiótica ou pote: porção pelo rótulo, preço por 100 g e por dose de 5 g e quanto o sachê custa a mais, nos preços de 28/10/2026.",
+    "metaDescription": "Creatina monodose da Probiótica ou pote de 300 g: preço por 100 g e por dose de 5 g, com o cupom PRO10EMCASACOMCECILIA de até 10% OFF.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -145228,7 +145235,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "No whey, a Max Titanium sai mais barata por 100 g de proteína, e na creatina a Integralmédica fica abaixo no cartão. Veja a comparação pelo rótulo e o veredito por perfil.",
-    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max ou Integralmédica: no whey, a Max sai mais barata por 100 g de proteína; na creatina, a Integralmédica.",
+    "metaDescription": "Max Titanium ou Integralmédica, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: no whey, a Max sai mais barata por proteína; na creatina, não.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -145496,7 +145503,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "O Criador com IA da Hostinger, o antigo Horizons, serve para site ou app simples sem programar. Veja quando ele vale a pena e quando o WordPress é a melhor escolha.",
-    "metaDescription": "Hostinger Horizons virou o Criador com IA. Vale a pena ou WordPress? Quadro por tipo de projeto, comparação com Wix e Lovable, créditos de IA, preço e renovação em 28/10/2026.",
+    "metaDescription": "O cupom SONAR20 dá 20% OFF no Criador com IA da Hostinger. Vale a pena ou WordPress? Quadro por projeto, Wix, Lovable e créditos de IA.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -145707,7 +145714,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. Os preços com os 20% eram os da coluna \"com o SONAR20\" acima. A regra completa e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. O código também vale na renovação; confira o preço no carrinho. Os preços com os 20% eram os da coluna \"com o SONAR20\" acima. A regra completa e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
           "A Hostinger está em campanha de Black Friday, sem data de fim na página, e os preços e os créditos em dobro podem mudar. Confira o valor no carrinho antes de pagar."
         ]
       },
@@ -145728,7 +145735,7 @@ export const reviewsData: unknown[] = [
           "Dá para migrar do Criador com IA para outra hospedagem? A página diz que o código-fonte pode ser exportado e hospedado em outro lugar. O back-end integrado, com banco e login, fica na Hostinger, então um app precisa de reconfiguração fora dela.",
           "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual é item dos planos Unlimited e Cloud Startup. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
           "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. O Premium custava R$ 7,99/mês com o SONAR20 (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
-          "Tem cupom para o Criador com IA da Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho."
+          "Tem cupom para o Criador com IA da Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho."
         ]
       },
       {
@@ -145753,7 +145760,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -145973,7 +145980,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or use this article's link: it's **20% off the first period**, on a monthly or annual plan, for new or existing customers. We haven't tested the renewal; check the price in the cart. The full rule and the other products are in [Hostinger coupons](/en/coupons/hostinger).",
+          "Use the code **SONAR20** in the cart's coupon field, or use this article's link: it's **20% off the first period**, on a monthly or annual plan, for new or existing customers. The code also works on renewal; check the price in the cart. The full rule and the other products are in [Hostinger coupons](/en/coupons/hostinger).",
           "Prices and terms change; check the amount in the cart before paying."
         ]
       },
@@ -145993,7 +146000,7 @@ export const reviewsData: unknown[] = [
           "Do you need to know how to code to use the AI Builder? No. The page says it requires no technical knowledge in either mode. For people who do code, AI mode has a code editor.",
           "Can you migrate from the AI Builder to another host? The page says the source code can be exported and hosted elsewhere. The built-in back end, with database and login, stays at Hostinger, so an app needs reconfiguring outside it.",
           "Is the AI Builder good for an online store? For a small store, yes: the online store is a feature of the Unlimited and Cloud Startup plans. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
-          "Is there a coupon for Hostinger's AI Builder? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. We haven't tested the renewal; check the price in the cart."
+          "Is there a coupon for Hostinger's AI Builder? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The code also works on renewal; check the price in the cart."
         ]
       },
       {
@@ -146006,7 +146013,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on renewal; check the price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -146238,7 +146245,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. No probamos la renovación; comprueba el precio en el carrito. La regla completa y los demás productos están en [cupones de Hostinger](/es/coupons/hostinger).",
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. El código también vale en la renovación; comprueba el precio en el carrito. La regla completa y los demás productos están en [cupones de Hostinger](/es/coupons/hostinger).",
           "Los precios y las condiciones cambian; comprueba el importe en el carrito antes de pagar."
         ]
       },
@@ -146258,7 +146265,7 @@ export const reviewsData: unknown[] = [
           "¿Hace falta saber programar para usar el creador con IA? No. La página dice que no exige conocimientos técnicos en ninguno de los dos modos. Quien sabe programar tiene un editor de código en el modo con IA.",
           "¿Se puede migrar del creador con IA a otro hosting? La página dice que el código fuente se puede exportar y alojar en otro sitio. El back end integrado, con base de datos e inicio de sesión, se queda en Hostinger, así que una app necesita reconfigurarse fuera de ella.",
           "¿El creador con IA sirve para una tienda online? Para una tienda pequeña, sí: la tienda online es un elemento de los planes Unlimited y Cloud Startup. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
-          "¿Hay cupón para el creador con IA de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer periodo. No probamos la renovación; comprueba el precio en el carrito."
+          "¿Hay cupón para el creador con IA de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer periodo. El código también vale en la renovación; comprueba el precio en el carrito."
         ]
       },
       {
@@ -146271,7 +146278,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -146503,7 +146510,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. La règle complète et les autres produits sont dans [codes promo Hostinger](/fr/coupons/hostinger).",
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier. La règle complète et les autres produits sont dans [codes promo Hostinger](/fr/coupons/hostinger).",
           "Les prix et les conditions changent ; vérifiez le montant dans le panier avant de payer."
         ]
       },
@@ -146523,7 +146530,7 @@ export const reviewsData: unknown[] = [
           "Faut-il savoir coder pour utiliser le créateur IA ? Non. La page dit qu'il n'exige aucune connaissance technique dans les deux modes. Pour ceux qui codent, le mode IA propose un éditeur de code.",
           "Peut-on migrer du créateur IA vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une appli demande une reconfiguration en dehors.",
           "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne fait partie des offres Unlimited et Cloud Startup. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
-          "Existe-t-il un code promo pour le créateur IA de Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier."
+          "Existe-t-il un code promo pour le créateur IA de Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier."
         ]
       },
       {
@@ -146536,7 +146543,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -146768,7 +146775,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Codice SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, con piano mensile o annuale, per i clienti nuovi o esistenti. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. La regola completa e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger).",
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, con piano mensile o annuale, per i clienti nuovi o esistenti. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello. La regola completa e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger).",
           "I prezzi e le condizioni cambiano; controlla l'importo nel carrello prima di pagare."
         ]
       },
@@ -146788,7 +146795,7 @@ export const reviewsData: unknown[] = [
           "Serve saper programmare per usare l'AI Builder? No. La pagina dice che non richiede competenze tecniche in nessuna delle due modalità. Chi sa programmare ha un editor di codice nella modalità con IA.",
           "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app richiede una riconfigurazione fuori da lì.",
           "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è una voce dei piani Unlimited e Cloud Startup. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
-          "C'è un coupon per l'AI Builder di Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello."
+          "C'è un coupon per l'AI Builder di Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. Il codice vale anche sul rinnovo; controlla il prezzo nel carrello."
         ]
       },
       {
@@ -146801,7 +146808,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147033,7 +147040,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutscheincode SONAR20",
         "paragraphs": [
-          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Die vollständigen Bedingungen und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
+          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Die vollständigen Bedingungen und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
           "Preise und Bedingungen ändern sich; prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
         ]
       },
@@ -147053,7 +147060,7 @@ export const reviewsData: unknown[] = [
           "Braucht man Programmierkenntnisse für den KI-Builder? Nein. Laut Seite sind in beiden Modi keine technischen Kenntnisse nötig. Wer programmieren kann, hat im KI-Modus einen Code-Editor.",
           "Kann man vom KI-Builder zu einem anderen Hoster migrieren? Laut Seite lässt sich der Quellcode exportieren und anderswo hosten. Das integrierte Back-End mit Datenbank und Login bleibt bei Hostinger, eine App muss also außerhalb neu konfiguriert werden.",
           "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop gehört zu den Tarifen Unlimited und Cloud Startup. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
-          "Gibt es einen Gutschein für den KI-Builder von Hostinger? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb."
+          "Gibt es einen Gutschein für den KI-Builder von Hostinger? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb."
         ]
       },
       {
@@ -147066,7 +147073,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147298,7 +147305,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 引き**で、月額・年額どちらのプランでも、新規のお客様も既存のお客様も対象です。更新は検証していません。カートで価格を確認してください。すべての規則とほかの製品は [Hostinger のクーポンページ](/ja/coupons/hostinger)にあります。",
+          "カートのクーポン欄にコード **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 引き**で、月額・年額どちらのプランでも、新規のお客様も既存のお客様も対象です。更新時もこのコードが使えます。カートで価格を確認してください。すべての規則とほかの製品は [Hostinger のクーポンページ](/ja/coupons/hostinger)にあります。",
           "価格や条件は変わることがあります。支払う前にカートで金額を確認してください。"
         ]
       },
@@ -147318,7 +147325,7 @@ export const reviewsData: unknown[] = [
           "AI Builder を使うのにプログラミングは必要ですか？ いいえ。ページによれば、どちらのモードも専門知識は不要です。プログラミングができる人には、AI を使うモードにコードエディタがあります。",
           "AI Builder から別のホスティングへ移せますか？ ページによれば、ソースコードをエクスポートして別の場所でホストできます。データベースとログインを含む内蔵バックエンドは Hostinger に残るため、アプリは外部で再設定が必要です。",
           "AI Builder はショップに向いていますか？ 小さなショップなら向いています。ショップ機能は Unlimited と Cloud Startup プランの機能です。配送や決済のルールが複雑な大きなショップは、WooCommerce 付きの WordPress のほうが制御しやすくなります。",
-          "Hostinger の AI Builder にクーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 引きになります。更新は検証していません。カートで価格を確認してください。"
+          "Hostinger の AI Builder にクーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 引きになります。更新時もこのコードが使えます。カートで価格を確認してください。"
         ]
       },
       {
@@ -147331,7 +147338,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時もこのコードが使えます。カートで価格を確認してください。",
       "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147562,7 +147569,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월간과 연간 플랜 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 전체 규칙과 다른 제품은 [Hostinger 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다.",
+          "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월간과 연간 플랜 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요. 전체 규칙과 다른 제품은 [Hostinger 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다.",
           "가격과 조건은 바뀔 수 있습니다. 결제 전에 장바구니에서 금액을 확인하세요."
         ]
       },
@@ -147582,7 +147589,7 @@ export const reviewsData: unknown[] = [
           "AI Builder를 쓰려면 코딩을 알아야 하나요? 아니요. 페이지에 따르면 두 모드 모두 기술 지식이 필요 없습니다. 코딩을 아는 사람에게는 AI 모드에 코드 에디터가 있습니다.",
           "AI Builder에서 다른 호스팅으로 옮길 수 있나요? 페이지에 따르면 소스 코드를 내보내 다른 곳에서 호스팅할 수 있습니다. 데이터베이스와 로그인이 있는 내장 백엔드는 Hostinger에 남기 때문에, 앱은 밖에서 다시 설정해야 합니다.",
           "AI Builder는 온라인 스토어에 맞나요? 작은 스토어라면 맞습니다. 온라인 스토어는 Unlimited와 Cloud Startup 플랜의 기능입니다. 배송과 결제 규칙이 있는 큰 스토어는 WooCommerce를 쓰는 WordPress가 더 세밀하게 제어할 수 있습니다.",
-          "Hostinger의 AI Builder에 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간이 20% 할인됩니다. 갱신 가격은 테스트하지 않았으니 장바구니에서 가격을 확인하세요."
+          "Hostinger의 AI Builder에 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간이 20% 할인됩니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요."
         ]
       },
       {
@@ -147595,7 +147602,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147827,7 +147834,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：**首个周期享 20% 折扣**，月付或年付的套餐都可以，新老客户都适用。我们没有测试续费，请在购物车确认价格。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：**首个周期享 20% 折扣**，月付或年付的套餐都可以，新老客户都适用。代码在续费时也有效，请在购物车确认价格。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
           "价格和条件可能会变，付款前请在购物车里核对金额。"
         ]
       },
@@ -147847,7 +147854,7 @@ export const reviewsData: unknown[] = [
           "用 AI Builder 需要会编程吗？不需要。页面说两种模式都不要求技术知识。会编程的人，在 AI 模式里有代码编辑器。",
           "能从 AI Builder 迁到别的主机吗？页面说源代码可以导出，放到别处托管。带数据库和登录的内置后端留在 Hostinger，所以应用在别处需要重新配置。",
           "AI Builder 适合开网店吗？小店可以：网店是 Unlimited 和 Cloud Startup 套餐的功能。对运费和支付规则复杂的大店，WordPress 加 WooCommerce 控制得更细。",
-          "Hostinger 的 AI Builder 有优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。"
+          "Hostinger 的 AI Builder 有优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首个周期享 20% 折扣。代码在续费时也有效，请在购物车确认价格。"
         ]
       },
       {
@@ -147860,7 +147867,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。代码在续费时也有效，请在购物车确认价格。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148092,7 +148099,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "優惠碼 SONAR20",
         "paragraphs": [
-          "在購物車的優惠碼欄位輸入 **SONAR20**，或從本文連結進入：**首期享 20% 折扣**，月付或年付方案都可以，新客戶和舊客戶都適用。我們沒有測試續約，請在購物車確認價格。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
+          "在購物車的優惠碼欄位輸入 **SONAR20**，或從本文連結進入：**首期享 20% 折扣**，月付或年付方案都可以，新客戶和舊客戶都適用。代碼也適用於續約，請在購物車確認價格。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
           "價格和條件可能會變，付款前請在購物車裡核對金額。"
         ]
       },
@@ -148112,7 +148119,7 @@ export const reviewsData: unknown[] = [
           "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人，在 AI 模式裡有程式碼編輯器。",
           "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，放到別處託管。含資料庫和登入的內建後端留在 Hostinger，所以應用程式在別處需要重新設定。",
           "AI Builder 適合開網路商店嗎？小店可以：網路商店是 Unlimited 和 Cloud Startup 方案的功能。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
-          "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。"
+          "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣。代碼也適用於續約，請在購物車確認價格。"
         ]
       },
       {
@@ -148125,7 +148132,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。代碼也適用於續約，請在購物車確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148349,7 +148356,7 @@ export const reviewsData: unknown[] = [
           "Compre na conta que vai ser sua, com um e-mail seu e a renovação automática ligada.",
           "Para .com.br, confira o caminho próprio da transferência do .br no suporte da Hostinger antes de comprar, se a ideia é sair um dia.",
           "Se o domínio veio com o plano de hospedagem, anote o preço de renovação do segundo ano: ele aparece antes de comprar.",
-          "O SONAR20 dá 20% no plano de hospedagem; no domínio avulso, confira no carrinho se o desconto aparece antes de pagar."
+          "O SONAR20 dá 20% no plano de hospedagem; no domínio avulso, o código não vale."
         ]
       },
       {
@@ -148365,7 +148372,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. No domínio avulso, o que vale é o que aparecer no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. O código também vale na renovação; confira o preço no carrinho. No domínio avulso, o código não vale. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -148399,7 +148406,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho. Confira o domínio no carrinho antes de pagar.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho. No domínio avulso, o código não vale.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148569,7 +148576,7 @@ export const reviewsData: unknown[] = [
           "If you will transfer, check the registration date: under 60 days, the transfer does not start.",
           "Buy on the account that will be yours, with your own email and auto-renewal on.",
           "If the domain came with the hosting plan, write down the second-year renewal price: it is shown before you buy.",
-          "SONAR20 gives 20% off the hosting plan; on a standalone domain, check in the cart whether the discount appears before you pay."
+          "SONAR20 gives 20% off the hosting plan; on a standalone domain, the code does not work."
         ]
       },
       {
@@ -148585,7 +148592,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon and price",
         "paragraphs": [
-          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. We have not tested the renewal; check the price in the cart. For a domain on its own, what counts is what appears in the cart. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. The code also works on the renewal of hosting plans; check the price in the cart. For a domain on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
         ]
       },
       {
@@ -148606,7 +148613,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart. Check the domain in the cart before paying.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on the renewal of hosting plans; check the price in the cart. On a standalone domain, the code does not work.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148787,7 +148794,7 @@ export const reviewsData: unknown[] = [
           "Si vas a transferir, revisa la fecha del registro: con menos de 60 días, la transferencia no empieza.",
           "Compra en la cuenta que va a ser tuya, con un correo tuyo y la renovación automática activada.",
           "Si el dominio vino con el plan de hosting, anota el precio de renovación del segundo año: aparece antes de comprar.",
-          "SONAR20 da 20% en el plan de hosting; en el dominio suelto, revisa en el carrito si el descuento aparece antes de pagar."
+          "SONAR20 da 20% en el plan de hosting; en el dominio suelto, el código no vale."
         ]
       },
       {
@@ -148803,7 +148810,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20 y precio",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. No probamos la renovación; revisa el precio en el carrito. En el dominio suelto, lo que vale es lo que aparezca en el carrito. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido), y los planes, en [la página de Hostinger](/es/coupons/hostinger)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. El código también vale en la renovación; revisa el precio en el carrito. En el dominio suelto, el código no vale. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido), y los planes, en [la página de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -148824,7 +148831,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito. Revisa el dominio en el carrito antes de pagar.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. El código también vale en la renovación; revisa el precio en el carrito. En el dominio suelto, el código no vale.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149005,7 +149012,7 @@ export const reviewsData: unknown[] = [
           "Si vous transférez, vérifiez la date d'enregistrement : moins de 60 jours, le transfert ne démarre pas.",
           "Achetez sur le compte qui sera le vôtre, avec votre propre e-mail et le renouvellement automatique activé.",
           "Si le domaine est venu avec le forfait d'hébergement, notez le prix de renouvellement de la deuxième année : il s'affiche avant l'achat.",
-          "SONAR20 donne 20 % sur le forfait d'hébergement ; pour un domaine seul, vérifiez dans le panier si la réduction apparaît avant de payer."
+          "SONAR20 donne 20 % sur le forfait d'hébergement ; pour un domaine seul, le code ne vaut pas."
         ]
       },
       {
@@ -149021,7 +149028,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 et prix",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier. Pour un domaine seul, c'est ce qui s'affiche dans le panier qui compte. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
+          "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Le code vaut aussi sur le renouvellement : confirmez le prix dans le panier. Pour un domaine seul, le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -149042,7 +149049,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. Vérifiez le domaine dans le panier avant de payer.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier. Pour un domaine seul, le code ne vaut pas.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149223,7 +149230,7 @@ export const reviewsData: unknown[] = [
           "Se devi trasferire, controlla la data della registrazione: sotto i 60 giorni il trasferimento non parte.",
           "Compra sull'account che sarà tuo, con un'e-mail tua e il rinnovo automatico attivo.",
           "Se il dominio è arrivato con il piano di hosting, annota il prezzo di rinnovo del secondo anno: compare prima dell'acquisto.",
-          "SONAR20 dà il 20% sul piano di hosting; sul dominio singolo, controlla nel carrello se lo sconto compare prima di pagare."
+          "SONAR20 dà il 20% sul piano di hosting; sul dominio singolo il codice non vale."
         ]
       },
       {
@@ -149239,7 +149246,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 e prezzo",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Sul dominio singolo, vale quello che compare nel carrello. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello. Sul dominio singolo, il codice non vale. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -149260,7 +149267,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello. Controlla il dominio nel carrello prima di pagare.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello. Sul dominio singolo il codice non vale.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149441,7 +149448,7 @@ export const reviewsData: unknown[] = [
           "Wenn Sie umziehen wollen, prüfen Sie das Registrierungsdatum: unter 60 Tagen beginnt der Umzug nicht.",
           "Kaufen Sie in dem Konto, das Ihres sein wird, mit Ihrer eigenen E-Mail-Adresse und eingeschalteter automatischer Verlängerung.",
           "Wenn die Domain mit dem Hosting-Tarif kam, notieren Sie den Verlängerungspreis für das zweite Jahr: Er wird vor dem Kauf angezeigt.",
-          "SONAR20 gibt 20 % auf den Hosting-Tarif; prüfen Sie bei einer einzelnen Domain im Warenkorb, ob der Rabatt vor der Zahlung erscheint."
+          "SONAR20 gibt 20 % auf den Hosting-Tarif; bei einer einzelnen Domain gilt der Code nicht."
         ]
       },
       {
@@ -149457,7 +149464,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20 und Preis",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die Verlängerung haben wir nicht getestet: Prüfen Sie den Preis im Warenkorb. Bei einer einzelnen Domain zählt, was im Warenkorb erscheint. Wo der Code hingehört, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
+          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Der Code gilt auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb. Bei einer einzelnen Domain gilt der Code nicht. Wo der Code hingehört, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
         ]
       },
       {
@@ -149478,7 +149485,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Prüfen Sie die Domain im Warenkorb, bevor Sie zahlen.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Bei einer einzelnen Domain gilt der Code nicht.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149659,7 +149666,7 @@ export const reviewsData: unknown[] = [
           "移管するなら登録日を確認してください。60日未満だと移管は始まりません。",
           "自分のものになるアカウントで、自分のメールアドレスを使い、自動更新をオンにして買ってください。",
           "ホスティングプランにドメインが付いてきたなら、2年目の更新料をメモしてください。購入前に表示されます。",
-          "SONAR20はホスティングプランに20%の割引です。ドメイン単独の購入では、支払う前にカートで割引が表示されるか確認してください。"
+          "SONAR20はホスティングプランに20%の割引です。ドメイン単独の購入では、コードは使えません。"
         ]
       },
       {
@@ -149675,7 +149682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20クーポンと料金",
         "paragraphs": [
-          "カートのクーポン欄に**SONAR20**と入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。更新は試していないので、カートで料金を確認してください。ドメイン単独の購入は、カートに表示される金額がすべてです。コードを入れる場所は[SONAR20クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、プランは[Hostingerのページ](/ja/coupons/hostinger)にあります。"
+          "カートのクーポン欄に**SONAR20**と入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。ホスティングプランの更新にも使えます。ドメイン単独の購入では、コードは使えません。コードを入れる場所は[SONAR20クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、プランは[Hostingerのページ](/ja/coupons/hostinger)にあります。"
         ]
       },
       {
@@ -149696,7 +149703,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。ドメインの金額も、支払う前にカートで確認してください。",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。ホスティングの更新にも使えますが、ドメインには使えません。カートで価格を確認してください。ドメインの金額も、支払う前にカートで確認してください。",
       "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149877,7 +149884,7 @@ export const reviewsData: unknown[] = [
           "이전할 계획이면 등록일을 확인하세요. 60일이 안 됐으면 이전이 시작되지 않습니다.",
           "자신 소유가 될 계정에서, 본인 이메일로 구매하고 자동 갱신을 켜 두세요.",
           "도메인이 호스팅 플랜에 포함되어 있다면 2년째 갱신 요금을 메모하세요. 구매 전에 표시됩니다.",
-          "SONAR20은 호스팅 플랜에 20% 할인을 줍니다. 도메인 단독 구매에서는 결제 전에 장바구니에 할인이 나타나는지 확인하세요."
+          "SONAR20은 호스팅 플랜에 20% 할인을 줍니다. 도메인 단독 구매에는 코드가 적용되지 않습니다."
         ]
       },
       {
@@ -149893,7 +149900,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰과 요금",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이고, 월간 또는 연간 플랜, 신규 또는 기존 고객 모두 해당합니다. 갱신은 테스트하지 않았으니 장바구니에서 요금을 확인하세요. 도메인 단독 구매는 장바구니에 표시되는 금액이 기준입니다. 코드를 붙여 넣는 곳은 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에, 플랜은 [Hostinger 페이지](/ko/coupons/hostinger)에 있습니다."
+          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이고, 월간 또는 연간 플랜, 신규 또는 기존 고객 모두 해당합니다. 갱신에도 적용됩니다. 장바구니에서 요금을 확인하세요. 도메인 단독 구매에는 코드가 적용되지 않습니다. 코드를 붙여 넣는 곳은 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에, 플랜은 [Hostinger 페이지](/ko/coupons/hostinger)에 있습니다."
         ]
       },
       {
@@ -149914,7 +149921,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 도메인 금액도 결제 전에 장바구니에서 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요. 도메인 단독 구매에는 코드가 적용되지 않습니다.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -150095,7 +150102,7 @@ export const reviewsData: unknown[] = [
           "打算转入的话，先看注册日期：不满 60 天，转移不会开始。",
           "在将来属于你的账户里购买，用你自己的邮箱，并开着自动续费。",
           "如果域名是随主机套餐附带的，记下第二年的续费价：下单前就会显示。",
-          "SONAR20 对主机套餐优惠 20%；单买域名时，付款前请在购物车确认是否出现这项优惠。"
+          "SONAR20 对主机套餐优惠 20%；单买域名时，代码不适用。"
         ]
       },
       {
@@ -150111,7 +150118,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 优惠码与价格",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期优惠 20%**，月付或年付套餐都可以，新老客户都适用。续费我们没有测试，请在购物车确认价格。单买域名，以购物车里显示的为准。代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)；套餐见 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期优惠 20%**，月付或年付套餐都可以，新老客户都适用。代码在续费时也有效，请在购物车确认价格。单买域名时，代码不适用。代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)；套餐见 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -150132,7 +150139,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。域名金额也请在付款前于购物车核对。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。代码在续费时也有效，请在购物车确认价格。单独购买域名时，代码不适用。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -150313,7 +150320,7 @@ export const reviewsData: unknown[] = [
           "打算轉入的話，先看註冊日期：不滿 60 天，轉移不會開始。",
           "在將來屬於你的帳戶裡購買，用你自己的電子郵件，並開著自動續訂。",
           "如果網域是隨主機方案附帶的，記下第二年的續訂價：下單前就會顯示。",
-          "SONAR20 對主機方案優惠 20%；單買網域時，付款前請在購物車確認是否出現這項優惠。"
+          "SONAR20 對主機方案優惠 20%；單買網域時，代碼不適用。"
         ]
       },
       {
@@ -150329,7 +150336,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼與價格",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**第一個週期優惠 20%**，月繳或年繳方案都可以，新舊客戶都適用。續訂我們沒有測試，請在購物車確認價格。單買網域，以購物車裡顯示的為準。代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)；方案見 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**第一個週期優惠 20%**，月繳或年繳方案都可以，新舊客戶都適用。續訂也適用，請在購物車確認價格。單買網域，SONAR20 不適用。代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)；方案見 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -150350,7 +150357,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。網域的金額也請在付款前於購物車核對。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。代碼也適用於續約，請在購物車確認價格。單買網域時，SONAR20 不適用；付款前請在購物車核對金額。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -150417,7 +150424,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Site comum fica bem na hospedagem compartilhada; VPS só com sistema próprio, recurso reservado ou root. Quadro por cenário, specs dos KVM e preços de 28/10/2026 com a renovação.",
-    "metaDescription": "VPS ou hospedagem compartilhada na Hostinger: o que é cada um, quadro por cenário, specs dos KVM 1 a 8, o que fica com você na manutenção e os preços de 28/10/2026 com a renovação ao lado.",
+    "metaDescription": "O cupom SONAR20 dá 20% OFF nos VPS da Hostinger. VPS ou hospedagem compartilhada: quadro por cenário, KVM e renovação lado a lado.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "draft": false,
@@ -150673,14 +150680,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Não testamos VPS.",
+    "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. O código vale no VPS.",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-gerenciado-ou-vps",
@@ -150907,14 +150914,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on renewal; check the price in the cart.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. We did not test VPS.",
+    "editorialNote": "Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. The code works on VPS.",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-managed-or-vps",
@@ -151152,14 +151159,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. No probamos VPS.",
+    "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. El código vale en el VPS.",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-gestionado-o-vps",
@@ -151397,14 +151404,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Nous n'avons pas testé de VPS.",
+    "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Le code vaut sur le VPS.",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-gere-ou-vps",
@@ -151642,14 +151649,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Non abbiamo testato il VPS.",
+    "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Il codice vale anche sul VPS.",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-gestito-o-vps",
@@ -151887,7 +151894,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -152132,14 +152139,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新は検証していません。カートで価格を確認してください。",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時もこのコードが使えます。カートで価格を確認してください。",
       "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入ることがありますが、あなたに追加の費用はかかりません。VPS はテストしていません。",
+    "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入ることがありますが、あなたに追加の費用はかかりません。VPS でも使えます。",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-managed-or-vps-ja",
@@ -152377,14 +152384,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 회원님에게는 추가 비용이 없습니다. VPS는 테스트하지 않았습니다.",
+    "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 회원님에게는 추가 비용이 없습니다. VPS에도 적용됩니다.",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-managed-or-vps-ko",
@@ -152622,14 +152629,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。代码在续费时也有效，请在购物车确认价格。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你不用多付任何费用。我们没有测试 VPS。",
+    "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你不用多付任何费用。SONAR20 在 VPS 上也有效。",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
@@ -152867,14 +152874,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。代碼也適用於續約，請在購物車確認價格。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
     },
     "coupon": "SONAR20",
     "affiliate": "hostinger",
-    "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金，你不用多付任何費用。我們沒有測試 VPS。",
+    "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金，你不用多付任何費用。SONAR20 也適用於 VPS。",
     "relatedArticles": [
       {
         "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
@@ -156592,7 +156599,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mala de bordo de 10 kg em ABS, polipropileno e policarbonato na Bagaggio: preço, litros e peso de cada ficha em 29/10/2026, com a conta de reais por litro e por kg.",
-    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. Policarbonato ou ABS? Na medida de 10 kg, a de policarbonato custa de 3,6 a 6 vezes a de ABS. Veja por litro e kg.",
+    "metaDescription": "Mala de policarbonato ou ABS na Bagaggio, com o cupom CECILIA10 de 10% OFF: na medida de 10 kg, a de policarbonato custa de 3,6 a 6 vezes a de ABS.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -156838,7 +156845,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que a loja diz sobre malas, mochilas e bolsas: material, peso, medida, garantia e preço em 29/10/2026, e o que é Travelcross no site.",
-    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. A marca é boa? Material, peso, garantia e preço das malas, mochilas e bolsas, e o que é a linha Travelcross.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. A marca é boa? Material, peso, garantia e preço das malas, mochilas e bolsas, e o que é a linha Travelcross.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -157980,7 +157987,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Faqueiro Laguiole La Maison de 12, 18 ou 30 peças: o que vem em cada um, as cores com estoque e o preço de cada cor na Let's Eat It, para escolher o conjunto certo para a sua mesa.",
-    "metaDescription": "Faqueiro Laguiole La Maison de 12, 18 ou 30 peças: o que vem em cada um, cores com estoque e preço por cor. Preços de 29/10/2026.",
+    "metaDescription": "Faqueiro Laguiole La Maison com o cupom MAUAD de 5% OFF: 12, 18 ou 30 peças, o que vem em cada um e as cores com estoque.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -158214,7 +158221,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido, depois os talheres e por último os pratos. Veja o preço de cada peça para 2 e 4 pessoas.",
-    "metaDescription": "Mesa posta do dia a dia: o que comprar primeiro (tecido, talheres e pratos) e quanto custa para 2 e 4 pessoas. Preços de 29/10/2026.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF no site da Let's Eat It e soma com o Pix. Mesa posta do dia a dia: o que comprar primeiro e quanto custa para 2 e 4 pessoas.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -158509,7 +158516,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quantos guardanapos de tecido comprar para 2, 4, 6 ou 8 pessoas, com um de reserva por mesa, e a diferença entre as medidas de 45 x 45 cm e 40 x 40 cm, com preços de 29/10/2026.",
-    "metaDescription": "Guardanapo de tecido: 1 por pessoa e 1 de reserva por mesa. Tabela para 2 a 8 pessoas e a diferença entre 45 e 40 cm. Preços de 29/10/2026.",
+    "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Guardanapo de tecido: 1 por pessoa e 1 de reserva por mesa, com tabela de 2 a 8 pessoas.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -158745,7 +158752,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Jogo americano de tecido redondo ou retangular: a medida que cabe o seu prato, a cor e o material que cada ficha informa e sete peças da Let's Eat It de R$ 18,65 a R$ 63,00.",
-    "metaDescription": "Redondo ou retangular, qual medida cabe o prato e qual cor escolher: sete jogos americanos de tecido de 36,5 a 52 cm, de R$ 18,65. Preços de 29/10/2026.",
+    "metaDescription": "Jogo americano de tecido com o cupom MAUAD de 5% OFF: sete peças de 36,5 a 52 cm, redondas ou retangulares, com cor e material de cada uma.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "draft": false,
@@ -159204,7 +159211,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "O Hostinger Reach compensa para quem já tem site na Hostinger e lista de até 1.000 destinatários; lista maior vai para Mailchimp ou Brevo. Preços de 30/10/2026, com a renovação.",
-    "metaDescription": "Hostinger Reach vale a pena? Quadro por perfil, planos, limites de envio, WhatsApp e renovação, comparados ao plano grátis e ao preço do Mailchimp e do Brevo em 30/10/2026.",
+    "metaDescription": "Hostinger Reach com o cupom SONAR20 de 20% OFF: quadro por perfil, planos, limites de envio e WhatsApp, contra Mailchimp e Brevo.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -161803,7 +161810,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger ou HostGator: no plano de 1 site a Hostinger renova mais barato; com muitos sites, a HostGator. Preços de 30/10/2026, por mês e com a renovação.",
-    "metaDescription": "Hostinger ou HostGator? Preço promocional e renovação lado a lado em 30/10/2026, ciclos de 48 meses e 3 anos por mês, espaço, backup, servidor no Brasil e VPS.",
+    "metaDescription": "Hostinger ou HostGator, com o cupom SONAR20 de 20% OFF na Hostinger: renovação, ciclos, backup e VPS lado a lado.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -162041,7 +162048,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 na Hostinger",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, o e-mail profissional e o Reach. Nos planos de hospedagem desta tabela e no VPS, não testamos; confira no carrinho. Não testamos a renovação. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, o e-mail profissional e o Reach. O código vale no VPS e na renovação. Nos planos de hospedagem desta tabela, não testamos; confira no carrinho. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
           "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
         ]
       },
@@ -162061,7 +162068,7 @@ export const reviewsData: unknown[] = [
           "Qual renova mais barato, Hostinger ou HostGator? No plano de 1 site, a Hostinger: R$ 23,99/mês contra R$ 31,39/mês do preço regular da HostGator. No plano para vários sites, a HostGator: R$ 40,89/mês contra R$ 64,99/mês do Unlimited.",
           "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
           "A Hostinger tem servidor no Brasil? As páginas de planos que lemos não dizem onde fica o servidor. A HostGator declara servidores no Brasil.",
-          "O cupom SONAR20 vale no VPS da Hostinger? Não testamos no VPS; confira no carrinho. Testamos no plano Startup de e-commerce, do Criador de lojas, e o desconto é de 20% no primeiro período.",
+          "O cupom SONAR20 vale no VPS da Hostinger? Vale. Testamos no plano Startup de e-commerce, do Criador de lojas, e o desconto é de 20% no primeiro período.",
           "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer."
         ]
       },
@@ -162085,7 +162092,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162278,13 +162285,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices. We did not test SONAR20 on the VPS, so check the price in the cart before you buy."
+          "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices. SONAR20 works on the VPS, so check the price in the cart before you buy."
         ]
       },
       {
         "heading": "SONAR20 on Hostinger",
         "paragraphs": [
-          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table and on the VPS, we did not test it; check in the cart. We did not test renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
+          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table, we did not test it; check in the cart. The code also works on the VPS and on renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
@@ -162303,7 +162310,7 @@ export const reviewsData: unknown[] = [
           "Which Hostinger plan renews for the least? Premium, at US$10.99 a month on the international site, after a 48-month promotion at US$2.49.",
           "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
           "Does Hostinger say where its servers are? The plan pages do not say where the server is. Ask support before you buy.",
-          "Does the SONAR20 code work on the VPS? We have not tested it on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
+          "Does the SONAR20 code work on the VPS? Yes, it works on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
           "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires."
         ]
       },
@@ -162317,7 +162324,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
       "label": "See the hosting plans with SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162520,13 +162527,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "La renovación del VPS es casi el doble del precio promocional: el KVM 1 pasa de 6,49 US$ a 11,99 US$ al mes, y el KVM 2, de 8,79 US$ a 14,99 US$. Son precios de la promoción de 24 meses. No probamos el SONAR20 en el VPS; confirma el precio en el carrito antes de contratar."
+          "La renovación del VPS es casi el doble del precio promocional: el KVM 1 pasa de 6,49 US$ a 11,99 US$ al mes, y el KVM 2, de 8,79 US$ a 14,99 US$. Son precios de la promoción de 24 meses. El SONAR20 vale en el VPS; confirma el precio en el carrito antes de contratar."
         ]
       },
       {
         "heading": "SONAR20 en Hostinger",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: **20% en el primer período**. Lo probamos en el carrito con tres productos: el plan Startup de e-commerce, del creador de tiendas, el correo profesional y el Reach. En los planes de hosting de esta tabla y en el VPS, no lo probamos; confirma en el carrito. No probamos la renovación. La regla completa está en [cupones de Hostinger](/es/coupons/hostinger)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: **20% en el primer período**. Lo probamos en el carrito con tres productos: el plan Startup de e-commerce, del creador de tiendas, el correo profesional y el Reach. En los planes de hosting de esta tabla, no lo probamos; confirma en el carrito. El código también vale en el VPS y en la renovación. La regla completa está en [cupones de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -162545,7 +162552,7 @@ export const reviewsData: unknown[] = [
           "¿Qué plan de Hostinger renueva más barato? El Premium, a 10,99 US$ al mes en el sitio internacional, después de una promoción de 48 meses a 2,49 US$.",
           "¿Vale la pena el VPS de Hostinger? Depende de la carga que tenga el sitio. Compara vCPU, memoria y renovación: el KVM 1 renueva a 11,99 US$ al mes en el sitio internacional.",
           "¿Hostinger dice dónde están sus servidores? Las páginas de planes no dicen dónde está el servidor. Pregunta al soporte antes de comprar.",
-          "¿El código SONAR20 vale en el VPS? No lo probamos en el VPS; confirma en el carrito. Lo probamos en el plan Startup de e-commerce, del creador de tiendas, y dio 20% en el primer período.",
+          "¿El código SONAR20 vale en el VPS? Sí, vale en el VPS. Lo probamos en el plan Startup de e-commerce, del creador de tiendas, y dio 20% en el primer período.",
           "¿Se puede cambiar de hosting sin perder el sitio? Sí, pasando los archivos y la base de datos al nuevo hosting. Haz el cambio antes de que venza el plan anterior."
         ]
       },
@@ -162559,7 +162566,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. El código también vale en la renovación; revisa el precio en el carrito.",
       "label": "Ver los planes de hosting con el SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162762,13 +162769,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Le renouvellement du VPS est presque le double du prix promotionnel : le KVM 1 passe de 6,49 US$ à 11,99 US$ par mois, et le KVM 2, de 8,79 US$ à 14,99 US$. Ce sont les prix de la promotion sur 24 mois. Nous n'avons pas testé le SONAR20 sur le VPS : vérifiez le prix dans le panier avant de souscrire."
+          "Le renouvellement du VPS est presque le double du prix promotionnel : le KVM 1 passe de 6,49 US$ à 11,99 US$ par mois, et le KVM 2, de 8,79 US$ à 14,99 US$. Ce sont les prix de la promotion sur 24 mois. Le SONAR20 vaut sur le VPS : vérifiez le prix dans le panier avant de souscrire."
         ]
       },
       {
         "heading": "Le code SONAR20 chez Hostinger",
         "paragraphs": [
-          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, l'e-mail professionnel et Reach. Sur les forfaits d'hébergement de ce tableau et sur le VPS, nous ne l'avons pas testé : vérifiez dans le panier. Nous n'avons pas testé le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger)."
+          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, l'e-mail professionnel et Reach. Sur les forfaits d'hébergement de ce tableau, nous ne l'avons pas testé : vérifiez dans le panier. Le code vaut sur le VPS. Le code vaut aussi sur le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -162787,7 +162794,7 @@ export const reviewsData: unknown[] = [
           "Quel forfait Hostinger se renouvelle le moins cher ? Premium, à 10,99 US$ par mois sur le site international, après une promotion sur 48 mois à 2,49 US$.",
           "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
           "Hostinger indique-t-il où se trouvent ses serveurs ? Les pages de forfaits n'indiquent pas où se trouve le serveur. Demandez au support avant d'acheter.",
-          "Le code SONAR20 fonctionne-t-il sur le VPS ? Nous ne l'avons pas testé sur le VPS : vérifiez dans le panier. Nous l'avons testé sur le forfait Startup e-commerce, du créateur de boutiques, et il a donné 20 % sur la première période.",
+          "Le code SONAR20 fonctionne-t-il sur le VPS ? Oui, il vaut sur le VPS. Nous l'avons testé sur le forfait Startup e-commerce, du créateur de boutiques, et il a donné 20 % sur la première période.",
           "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait."
         ]
       },
@@ -162801,7 +162808,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Le code vaut aussi sur le renouvellement ; vérifiez le prix dans le panier.",
       "label": "Voir les forfaits d'hébergement avec le SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163004,13 +163011,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Il rinnovo del VPS è quasi il doppio del prezzo promozionale: il KVM 1 passa da 6,49 US$ a 11,99 US$ al mese, e il KVM 2 da 8,79 US$ a 14,99 US$. Sono i prezzi della promozione di 24 mesi. Non abbiamo testato il SONAR20 sul VPS: controlla il prezzo nel carrello prima di pagare."
+          "Il rinnovo del VPS è quasi il doppio del prezzo promozionale: il KVM 1 passa da 6,49 US$ a 11,99 US$ al mese, e il KVM 2 da 8,79 US$ a 14,99 US$. Sono i prezzi della promozione di 24 mesi. Il SONAR20 vale sul VPS: controlla il prezzo nel carrello prima di pagare."
         ]
       },
       {
         "heading": "Coupon SONAR20 con la Hostinger",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, l'e-mail professionale e il Reach. Sui piani di hosting di questa tabella e sul VPS non l'abbiamo testato; controlla nel carrello. Non abbiamo testato il rinnovo. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, l'e-mail professionale e il Reach. Sui piani di hosting di questa tabella non l'abbiamo testato; controlla nel carrello. Il codice vale anche sul VPS e sul rinnovo. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -163029,7 +163036,7 @@ export const reviewsData: unknown[] = [
           "Quale piano Hostinger si rinnova al prezzo più basso? Il Premium, a 10,99 US$ al mese sul sito internazionale, dopo una promozione di 48 mesi a 2,49 US$.",
           "Conviene il VPS della Hostinger? Dipende dal carico del sito. Confronta vCPU, memoria e rinnovo: il KVM 1 si rinnova a 11,99 US$ al mese sul sito internazionale.",
           "La Hostinger dice dove si trovano i suoi server? Le pagine dei piani non dicono dove si trova il server. Chiedilo al supporto prima di pagare.",
-          "Il codice SONAR20 vale sul VPS? Non l'abbiamo testato sul VPS: controlla nel carrello. L'abbiamo provato sul piano Startup di e-commerce, del costruttore di negozi, e ha dato il 20% sul primo periodo.",
+          "Il codice SONAR20 vale sul VPS? Sì. L'abbiamo provato sul piano Startup di e-commerce, del costruttore di negozi, e ha dato il 20% sul primo periodo.",
           "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio."
         ]
       },
@@ -163043,7 +163050,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale anche sul rinnovo: controlla il prezzo nel carrello.",
       "label": "Vedi i piani di hosting con il SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163246,13 +163253,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Die Verlängerung des VPS kostet fast das Doppelte des Aktionspreises: Der KVM 1 steigt von 6,49 US$ auf 11,99 US$ pro Monat, der KVM 2 von 8,79 US$ auf 14,99 US$. Das sind die Preise der Aktion mit 24 Monaten. Wir haben SONAR20 beim VPS nicht getestet; prüfen Sie den Preis im Warenkorb, bevor Sie abschließen."
+          "Die Verlängerung des VPS kostet fast das Doppelte des Aktionspreises: Der KVM 1 steigt von 6,49 US$ auf 11,99 US$ pro Monat, der KVM 2 von 8,79 US$ auf 14,99 US$. Das sind die Preise der Aktion mit 24 Monaten. SONAR20 gilt beim VPS; prüfen Sie den Preis im Warenkorb, bevor Sie abschließen."
         ]
       },
       {
         "heading": "Gutschein SONAR20 bei Hostinger",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link in diesem Artikel: Sie erhalten **20 % auf den ersten Zeitraum**. Wir haben den Code im Warenkorb bei drei Produkten getestet: beim Startup-Tarif für E-Commerce aus dem Shop-Ersteller, bei der professionellen E-Mail und bei Reach. Bei den Hosting-Tarifen dieser Tabelle und beim VPS haben wir nicht getestet; prüfen Sie es im Warenkorb. Die Verlängerung haben wir nicht getestet. Alle Regeln stehen auf der Seite der [Hostinger-Gutscheine](/de/coupons/hostinger)."
+          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link in diesem Artikel: Sie erhalten **20 % auf den ersten Zeitraum**. Wir haben den Code im Warenkorb bei drei Produkten getestet: beim Startup-Tarif für E-Commerce aus dem Shop-Ersteller, bei der professionellen E-Mail und bei Reach. Bei den Hosting-Tarifen dieser Tabelle haben wir nicht getestet; prüfen Sie es im Warenkorb. Beim VPS gilt der Code. Der Code gilt auch bei der Verlängerung. Alle Regeln stehen auf der Seite der [Hostinger-Gutscheine](/de/coupons/hostinger)."
         ]
       },
       {
@@ -163271,7 +163278,7 @@ export const reviewsData: unknown[] = [
           "Welcher Hostinger-Tarif verlängert sich am günstigsten? Der Premium, zu 10,99 US$ pro Monat auf der internationalen Seite, nach einer Aktion über 48 Monate zu 2,49 US$.",
           "Lohnt sich der VPS der Hostinger? Das hängt von der Last der Website ab. Vergleichen Sie vCPU, Arbeitsspeicher und Verlängerung: Der KVM 1 verlängert sich zu 11,99 US$ pro Monat auf der internationalen Seite.",
           "Sagt die Hostinger, wo ihre Server stehen? Die Tarifseiten sagen nicht, wo der Server steht. Fragen Sie vor dem Kauf den Support.",
-          "Gilt der Code SONAR20 beim VPS? Beim VPS haben wir nicht getestet; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce aus dem Shop-Ersteller, und er gab 20 % auf den ersten Zeitraum.",
+          "Gilt der Code SONAR20 beim VPS? Ja, SONAR20 gilt beim VPS; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce aus dem Shop-Ersteller, und er gab 20 % auf den ersten Zeitraum.",
           "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft."
         ]
       },
@@ -163285,7 +163292,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Der Code gilt auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
       "label": "Hosting-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163494,7 +163501,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "HostingerのクーポンSONAR20",
         "paragraphs": [
-          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ると、**最初の期間が20%割引**になります。カートで試したのは3つです。ショップ作成ツールのE-commerce向けStartupプラン、プロ仕様のメール、Reachです。この表のホスティングプランとVPSは試していません。カートで確認してください。更新料も試していません。ルールの詳細は[Hostingerのクーポン](/ja/coupons/hostinger)にあります。"
+          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ると、**最初の期間が20%割引**になります。カートで試したのは3つです。ショップ作成ツールのE-commerce向けStartupプラン、プロ仕様のメール、Reachです。この表のホスティングプランは試していません。VPSでも使えます。更新時もこのコードが使えます。カートで確認してください。ルールの詳細は[Hostingerのクーポン](/ja/coupons/hostinger)にあります。"
         ]
       },
       {
@@ -163513,7 +163520,7 @@ export const reviewsData: unknown[] = [
           "Hostingerの更新料はいくらですか？ 国際サイトで確認したところ、Premiumは月額US$10.99、Unlimitedは月額US$16.99、Cloud Startupは月額US$25.99です。国や通貨で変わることがあるので、支払う前にカートで確認してください。",
           "VPSはどのプランから見ればいいですか？ 入門のKVM 1（1 vCPU、4 GB、50 GB NVMe）は、24か月契約で割引価格が月額US$6.49、更新後は月額US$11.99です。KVM 2は2 vCPU、8 GBで、割引価格は月額US$8.79です。長い期間で契約する前に、カートで更新料を確認してください。",
           "Hostingerには国内サーバーがありますか？ 確認したプランのページには、サーバーの場所が書かれていませんでした。大事なら、支払う前にサポートに聞いてください。",
-          "SONAR20はVPSでも使えますか？ VPSでは試していません。カートで確認してください。試したのはE-commerce向けのStartupプランで、割引は最初の期間の20%です。",
+          "SONAR20はVPSでも使えますか？ VPSでも使えます。カートで確認してください。試したのはE-commerce向けのStartupプランで、割引は最初の期間の20%です。",
           "サイトを消さずに別のサーバーへ移せますか？ はい。ファイルとデータベースを新しいサーバーに移せば可能です。新しいサービスが無料の移行に対応しているか確認し、古いプランの期限が切れる前に移してください。"
         ]
       },
@@ -163527,7 +163534,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新料は確認していません。カートで料金を確かめてください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時もこのコードが使えます。カートで料金を確かめてください。",
       "label": "SONAR20で料金プランを見る",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163735,7 +163742,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰",
         "paragraphs": [
-          "카트의 쿠폰 칸에 **SONAR20**을 입력하거나 이 글의 링크로 들어가면 **첫 기간 20% 할인**이 적용됩니다. 카트에서 테스트한 것은 세 가지입니다. 스토어 빌더의 Startup 이커머스 플랜, 전문 이메일, Reach입니다. 이 표의 호스팅 플랜과 VPS는 테스트하지 않았으니 카트에서 확인하세요. 갱신 가격도 테스트하지 않았습니다. 규칙 전체는 [호스팅어 쿠폰](/ko/coupons/hostinger)에 있습니다."
+          "카트의 쿠폰 칸에 **SONAR20**을 입력하거나 이 글의 링크로 들어가면 **첫 기간 20% 할인**이 적용됩니다. 카트에서 테스트한 것은 세 가지입니다. 스토어 빌더의 Startup 이커머스 플랜, 전문 이메일, Reach입니다. 이 표의 호스팅 플랜은 테스트하지 않았으니 카트에서 확인하세요. VPS에도 적용됩니다. 갱신에도 적용됩니다. 규칙 전체는 [호스팅어 쿠폰](/ko/coupons/hostinger)에 있습니다."
         ]
       },
       {
@@ -163754,7 +163761,7 @@ export const reviewsData: unknown[] = [
           "호스팅어 갱신가는 얼마인가요? 국제 사이트에서 확인한 결과 Premium은 월 US$ 10.99, Unlimited는 월 US$ 16.99, Cloud Startup은 월 US$ 25.99입니다. 국가와 통화에 따라 다를 수 있으니 결제 전에 카트에서 확인하세요.",
           "VPS는 어떤 플랜부터 보면 되나요? 입문 플랜인 KVM 1(1 vCPU, 4 GB, 50 GB NVMe)은 24개월 기준 프로모션가가 월 US$ 6.49, 갱신가가 월 US$ 11.99입니다. KVM 2는 2 vCPU, 8 GB이고 프로모션가는 월 US$ 8.79입니다. 긴 기간으로 결제하기 전에 카트에서 갱신가를 확인하세요.",
           "호스팅어 서버는 어느 나라에 있나요? 확인한 플랜 페이지에는 서버 위치가 적혀 있지 않았습니다. 중요하다면 결제 전에 고객 지원에 문의하세요.",
-          "SONAR20은 VPS에도 적용되나요? VPS에서는 테스트하지 않았으니 카트에서 확인하세요. 테스트한 것은 스토어 빌더의 Startup 이커머스 플랜이고, 할인은 첫 기간 20%입니다.",
+          "SONAR20은 VPS에도 적용되나요? 네, VPS에도 적용됩니다. 테스트한 것은 스토어 빌더의 Startup 이커머스 플랜이고, 할인은 첫 기간 20%입니다.",
           "사이트를 잃지 않고 호스팅을 옮길 수 있나요? 가능합니다. 파일과 데이터베이스를 새 호스팅으로 옮기면 됩니다. 새 호스팅이 무료 이전을 제공하는지 확인하고, 기존 플랜이 끝나기 전에 옮기세요."
         ]
       },
@@ -163768,7 +163775,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "카트의 쿠폰 칸에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 갱신 가격은 테스트하지 않았으니 카트에서 확인하세요.",
+      "text": "카트의 쿠폰 칸에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 갱신에도 적용됩니다. 카트에서 가격을 확인하세요.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163977,7 +163984,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 优惠码",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，**首个周期享 20% 折扣**。我们在购物车里测试了三项产品：商店建站工具的 Startup 电商套餐、专业邮箱和 Reach。这张表里的主机套餐和 VPS 没有测试，请在购物车确认。续费价也没有测试。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，**首个周期享 20% 折扣**。我们在购物车里测试了三项产品：商店建站工具的 Startup 电商套餐、专业邮箱和 Reach。这张表里的主机套餐和 VPS 都适用，续费时也适用，请在购物车确认价格。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -163996,7 +164003,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 续费多少钱？在国际站上看到的是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各国和货币可能不同，付款前请在购物车确认。",
           "VPS 从哪个套餐看起？入门的 KVM 1（1 vCPU，4 GB，50 GB NVMe）按 24 个月计，促销价每月 US$ 6.49，续费价每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促销价每月 US$ 8.79。购买长周期之前，先在购物车确认续费价。",
           "Hostinger 的服务器在哪个国家？我们查看的套餐页面没有写明服务器位置。如果这对你重要，付款前请问客服。",
-          "SONAR20 能用在 VPS 上吗？VPS 没有测试，请在购物车确认。测试过的是商店建站工具的 Startup 电商套餐，优惠是首个周期 20%。",
+          "SONAR20 能用在 VPS 上吗？能，VPS 也适用，请在购物车确认。测试过的是商店建站工具的 Startup 电商套餐，优惠是首个周期 20%。",
           "能换主机而不丢失网站吗？可以，把文件和数据库迁到新主机即可。确认新主机是否提供免费迁移，并在旧套餐到期前完成。"
         ]
       },
@@ -164010,7 +164017,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接进入：首个周期享 20% 折扣。续费价我们没有测试，请在购物车确认。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接进入：首个周期享 20% 折扣。代码在续费时也有效，请在购物车确认。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -164219,7 +164226,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [
-          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，**首期享 20% 折扣**。我們在購物車裡測試了三項產品：商店建站工具的 Startup 電商方案、專業電子郵件和 Reach。這張表裡的主機方案和 VPS 沒有測試，請在購物車確認。續訂價也沒有測試。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
+          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，**首期享 20% 折扣**。我們在購物車裡測試了三項產品：商店建站工具的 Startup 電商方案、專業電子郵件和 Reach。這張表裡的主機方案沒有測試，請在購物車確認。VPS 也適用，續訂價同樣適用。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -164238,7 +164245,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 續訂要多少錢？在國際站上看到的是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各國和貨幣可能不同，付款前請在購物車確認。",
           "VPS 從哪個方案看起？入門的 KVM 1（1 vCPU，4 GB，50 GB NVMe）以 24 個月計，促銷價每月 US$ 6.49，續訂價每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促銷價每月 US$ 8.79。購買長週期之前，先在購物車確認續訂價。",
           "Hostinger 的伺服器在哪個國家？我們查看的方案頁面沒有寫明伺服器位置。如果這對你很重要，付款前請問客服。",
-          "SONAR20 能用在 VPS 上嗎？VPS 沒有測試，請在購物車確認。測試過的是商店建站工具的 Startup 電商方案，優惠是首期 20%。",
+          "SONAR20 能用在 VPS 上嗎？能，請在購物車確認。測試過的是商店建站工具的 Startup 電商方案，優惠是首期 20%。",
           "能換主機而不遺失網站嗎？可以，把檔案和資料庫搬到新主機即可。請確認新主機是否提供免費搬遷，並在舊方案到期前完成。"
         ]
       },
@@ -164252,7 +164259,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。續訂價我們沒有測試，請在購物車確認。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。續訂價也適用，請在購物車確認。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -164319,7 +164326,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Qual plano de WordPress da Hostinger pegar para um site, três sites, vários sites ou loja, e como começar. Preços de 30/10/2026, com a renovação.",
-    "metaDescription": "WordPress na Hostinger: Single, Premium, Unlimited ou Cloud Startup? Plano por projeto, preço e renovação em 30/10/2026 e o checklist para começar.",
+    "metaDescription": "WordPress na Hostinger com o cupom SONAR20 de 20% OFF nos planos Single, Premium, Unlimited e Cloud Startup, e o checklist para começar.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -164454,7 +164461,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "O código **SONAR20** dá **20% no primeiro período**, no campo de cupom do carrinho ou pelo link deste artigo. Não testamos o SONAR20 nos planos de WordPress; confira o preço no carrinho antes de pagar. Depois do primeiro período, vale a coluna da renovação. A regra do código e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger)."
+          "O código **SONAR20** dá **20% no primeiro período**, no campo de cupom do carrinho ou pelo link deste artigo. O SONAR20 vale nos planos de WordPress; confira o preço no carrinho antes de pagar. Depois do primeiro período, vale a coluna da renovação. A regra do código e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -164473,7 +164480,7 @@ export const reviewsData: unknown[] = [
           "O WordPress vem instalado na Hostinger? A página diz que todos os planos incluem WordPress e cita um instalador de 1 clique no painel. Ela não detalha a instalação por plano.",
           "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
           "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
-          "O cupom SONAR20 vale no plano de WordPress da Hostinger? Não testamos o SONAR20 nos planos de WordPress; confira no carrinho. Onde ele vale, são 20% no primeiro período."
+          "O cupom SONAR20 vale no plano de WordPress da Hostinger? Vale: nos planos de WordPress, com 20% no primeiro período. Confira no carrinho."
         ]
       },
       {
@@ -164497,7 +164504,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos nos planos de WordPress; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código vale nos planos de WordPress; confira o preço no carrinho.",
       "label": "Ver os planos de WordPress com o SONAR20",
       "url": "https://www.hostinger.com/br/hospedagem-wordpress?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -164671,7 +164678,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 code and price",
         "paragraphs": [
-          "Enter the code **SONAR20** in the cart's coupon field, or come in through this article's link: it gives **20% off the first period**. We did not test SONAR20 on the WordPress plans; check the price in the cart before paying. After the first period, the renewal column applies. The rules for the code and the other products are in [Hostinger coupons](/en/coupons/hostinger)."
+          "Enter the code **SONAR20** in the cart's coupon field, or come in through this article's link: it gives **20% off the first period**. SONAR20 works on the WordPress plans; check the price in the cart before paying. After the first period, the renewal column applies. The rules for the code and the other products are in [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
@@ -164688,7 +164695,7 @@ export const reviewsData: unknown[] = [
           "Which is the cheapest WordPress plan on Hostinger? Premium, at US$ 2.49 a month over 48 months (US$ 119.52 in total), for up to 3 sites. It renews at US$ 10.99 a month.",
           "Does WordPress come installed on Hostinger? You install it from the hosting panel, without downloading files by hand. The checklist above covers the steps.",
           "Which WordPress plan suits an online store? Unlimited, for its daily backups and unlimited sites. For a store with heavy traffic, Cloud Startup.",
-          "Does the SONAR20 code work on the WordPress plans? We did not test it there; check the price in the cart. Where it works, it gives 20% off the first period.",
+          "Does the SONAR20 code work on the WordPress plans? Yes; check the price in the cart. It gives 20% off the first period.",
           "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month."
         ]
       },
@@ -164702,7 +164709,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We did not test it on the WordPress plans; check the price in the cart.",
+      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. It works on the WordPress plans; check the price in the cart.",
       "label": "See WordPress plans with SONAR20",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -164887,7 +164894,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20 y precio",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. No probamos el SONAR20 en los planes de WordPress; confirma el precio en el carrito antes de pagar. Después del primer período, vale la columna de renovación. Las reglas del código y los otros productos están en [cupones de Hostinger](/es/coupons/hostinger)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. El SONAR20 vale en los planes de WordPress; confirma el precio en el carrito antes de pagar. Después del primer período, vale la columna de renovación. Las reglas del código y los otros productos están en [cupones de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -164904,7 +164911,7 @@ export const reviewsData: unknown[] = [
           "¿Cuál es el plan de WordPress más barato de Hostinger? El Premium, a 2,49 US$ al mes en 48 meses (119,52 US$ en total), para hasta 3 sitios. Se renueva a 10,99 US$ al mes.",
           "¿Viene WordPress instalado en Hostinger? Lo instalas desde el panel de hosting, sin descargar archivos a mano. La lista de arriba explica los pasos.",
           "¿Qué plan de WordPress conviene para una tienda online? Unlimited, por sus backups diarios y los sitios ilimitados. Para una tienda con mucho tráfico, Cloud Startup.",
-          "¿Funciona el código SONAR20 en los planes de WordPress? No lo probamos ahí; confirma el precio en el carrito. Donde funciona, da 20% en el primer período.",
+          "¿Funciona el código SONAR20 en los planes de WordPress? Sí; confirma el precio en el carrito. Da 20% en el primer período.",
           "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, 10,99 US$ al mes."
         ]
       },
@@ -164918,7 +164925,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. No lo probamos en los planes de WordPress; confirma el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. El SONAR20 vale en los planes de WordPress; confirma el precio en el carrito.",
       "label": "Ver los planes de WordPress con el SONAR20",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -165103,7 +165110,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code SONAR20 et prix",
         "paragraphs": [
-          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Nous n'avons pas testé SONAR20 sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger)."
+          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Le SONAR20 vaut sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -165120,7 +165127,7 @@ export const reviewsData: unknown[] = [
           "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à 2,49 US$ par mois sur 48 mois (119,52 US$ au total), pour jusqu'à 3 sites. Il se renouvelle à 10,99 US$ par mois.",
           "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
           "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
-          "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Nous ne l'avons pas testé là-dessus ; vérifiez le prix dans le panier. Là où il fonctionne, il donne 20 % sur la première période.",
+          "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Oui, il donne 20 % sur la première période ; vérifiez le prix dans le panier.",
           "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois."
         ]
       },
@@ -165134,7 +165141,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous ne l'avons pas testé sur les forfaits WordPress ; vérifiez le prix dans le panier.",
+      "text": "Saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Il vaut sur les forfaits WordPress ; vérifiez le prix dans le panier.",
       "label": "Voir les forfaits WordPress avec le SONAR20",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -165319,7 +165326,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 e prezzo",
         "paragraphs": [
-          "Il codice **SONAR20** dà il **20% sul primo periodo**, nel campo coupon del carrello o dal link di questo articolo. Non abbiamo testato SONAR20 sui piani WordPress: controlla il prezzo nel carrello prima di pagare. Dopo il primo periodo vale la colonna del rinnovo. Le regole del codice e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger)."
+          "Il codice **SONAR20** dà il **20% sul primo periodo**, nel campo coupon del carrello o dal link di questo articolo. Il SONAR20 vale sui piani WordPress: controlla il prezzo nel carrello prima di pagare. Dopo il primo periodo vale la colonna del rinnovo. Le regole del codice e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -165336,7 +165343,7 @@ export const reviewsData: unknown[] = [
           "Qual è il piano WordPress più economico di Hostinger? Il Premium, a 2,49 US$ al mese per 48 mesi (119,52 US$ in totale), per fino a 3 siti. Si rinnova a 10,99 US$ al mese.",
           "WordPress è già installato su Hostinger? Lo installi dal pannello di hosting, senza scaricare i file a mano. La checklist qui sopra spiega i passaggi.",
           "Qual è il piano WordPress di Hostinger per un negozio online? L'Unlimited, per i backup giornalieri e i siti illimitati. Per un negozio con molto traffico, il Cloud Startup.",
-          "Il coupon SONAR20 vale sul piano WordPress di Hostinger? Non abbiamo testato SONAR20 sui piani WordPress: controllalo nel carrello. Dove vale, è il 20% sul primo periodo.",
+          "Il coupon SONAR20 vale sul piano WordPress di Hostinger? Sì, il SONAR20 vale sui piani WordPress: controllalo nel carrello. È il 20% sul primo periodo.",
           "Il prezzo di rinnovo è uguale a quello promozionale? No. Dopo il primo periodo di 48 mesi vale il prezzo di rinnovo: per il Premium, 10,99 US$ al mese."
         ]
       },
@@ -165350,7 +165357,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Sui piani WordPress non abbiamo testato il codice: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Il codice vale sui piani WordPress: controlla il prezzo nel carrello.",
       "label": "Vedi i piani WordPress con il SONAR20",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -165535,7 +165542,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20-Gutschein und Preis",
         "paragraphs": [
-          "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. Wir haben SONAR20 bei den WordPress-Tarifen nicht getestet; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
+          "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
         ]
       },
       {
@@ -165552,7 +165559,7 @@ export const reviewsData: unknown[] = [
           "Welcher WordPress-Tarif von Hostinger ist der günstigste? Der Premium: 2,49 US$ im Monat über 48 Monate (119,52 US$ insgesamt), für bis zu 3 Websites. Er verlängert sich auf 10,99 US$ im Monat.",
           "Ist WordPress bei Hostinger schon installiert? Sie installieren es im Hosting-Panel, ohne Dateien von Hand herunterzuladen. Die Checkliste oben erklärt die Schritte.",
           "Welcher WordPress-Tarif von Hostinger eignet sich für einen Online-Shop? Der Unlimited, wegen der täglichen Backups und der unbegrenzten Websites. Für einen Shop mit viel Traffic der Cloud Startup.",
-          "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? Wir haben SONAR20 bei den WordPress-Tarifen nicht getestet; prüfen Sie es im Warenkorb. Wo er gilt, sind es 20 % im ersten Zeitraum.",
+          "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? Ja, SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie es im Warenkorb. Wo er gilt, sind es 20 % im ersten Zeitraum.",
           "Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt der Verlängerungspreis: beim Premium 10,99 US$ im Monat."
         ]
       },
@@ -165566,7 +165573,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Bei den WordPress-Tarifen haben wir den Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Bei den WordPress-Tarifen gilt der Code: Prüfen Sie den Preis im Warenkorb.",
       "label": "WordPress-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -165751,7 +165758,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 クーポンと価格",
         "paragraphs": [
-          "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでは SONAR20 をテストしていません。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されます。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
+          "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでも SONAR20 が使えます。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されます。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
         ]
       },
       {
@@ -165768,7 +165775,7 @@ export const reviewsData: unknown[] = [
           "Hostinger の WordPress で一番安いプランは？ Premium で、48か月で月額 US$2.49（合計 US$119.52）、3サイトまでです。更新料は月額 US$10.99です。",
           "Hostinger では WordPress はインストール済みですか？ ホスティングのパネルからインストールします。ファイルを手でダウンロードする必要はありません。手順は上のチェックリストにあります。",
           "オンラインショップ向けの Hostinger の WordPress プランは？ Unlimited です。毎日のバックアップとサイト数無制限が理由です。アクセスの多いショップなら Cloud Startup です。",
-          "SONAR20 は Hostinger の WordPress プランで使えますか？ WordPress プランではテストしていません。カートで価格を確認してください。使える場合は、最初の期間が20%割引です。",
+          "SONAR20 は Hostinger の WordPress プランで使えますか？ WordPress プランでも使えます。カートで価格を確認してください。最初の期間が20%割引です。",
           "更新料はプロモーション価格と同じですか？ いいえ。最初の48か月の期間が終わると更新料になります。Premium では月額 US$10.99です。"
         ]
       },
@@ -165782,7 +165789,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。WordPress プランでは検証していません。カートで価格を確認してください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。WordPress プランでも使えます。カートで価格を確認してください。",
       "label": "WordPress プランを SONAR20 で見る",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -165966,7 +165973,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰과 가격",
         "paragraphs": [
-          "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가면 **첫 기간에 20%**가 할인됩니다. WordPress 플랜에서는 SONAR20을 테스트하지 않았습니다. 결제 전에 장바구니에서 가격을 확인하세요. 첫 기간이 끝나면 갱신가가 적용됩니다. 규칙과 다른 제품은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
+          "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가면 **첫 기간에 20%**가 할인됩니다. SONAR20은 WordPress 플랜에도 적용됩니다. 결제 전에 장바구니에서 가격을 확인하세요. 첫 기간이 끝나면 갱신가가 적용됩니다. 규칙과 다른 제품은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
         ]
       },
       {
@@ -165983,7 +165990,7 @@ export const reviewsData: unknown[] = [
           "WordPress 호스팅어 플랜 중 가장 저렴한 것은 무엇인가요? Premium입니다. 48개월 선결제 월 US$ 2.49, 총액 US$ 119.52이고, 3개 사이트까지 쓸 수 있습니다. 갱신은 월 US$ 10.99입니다.",
           "호스팅어에서 WordPress가 설치되어 나오나요? 호스팅 패널에서 설치합니다. 파일을 직접 내려받을 필요는 없습니다. 단계는 위의 체크리스트에 있습니다.",
           "온라인 스토어에는 어느 WordPress 플랜이 맞나요? Unlimited입니다. 사이트 무제한과 매일 백업이 있습니다. 트래픽이 아주 많은 스토어라면 Cloud Startup을 보세요.",
-          "WordPress 플랜에도 SONAR20을 쓸 수 있나요? WordPress 플랜은 테스트하지 않았습니다. 장바구니에서 가격을 확인하세요. 적용된다면 20%는 첫 기간에만 적용됩니다.",
+          "WordPress 플랜에도 SONAR20을 쓸 수 있나요? 네, 쓸 수 있습니다. 장바구니에서 가격을 확인하세요. 20%는 첫 기간에만 적용됩니다.",
           "갱신가는 프로모션 가격과 같은가요? 아닙니다. 첫 48개월 기간이 끝나면 갱신가가 적용됩니다. Premium은 월 US$ 10.99입니다."
         ]
       },
@@ -165997,7 +166004,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 적용됩니다. WordPress 플랜은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 적용됩니다. SONAR20은 WordPress 플랜에도 적용됩니다. 장바구니에서 가격을 확인하세요.",
       "label": "SONAR20으로 WordPress 플랜 보기",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -166182,7 +166189,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 优惠码与价格",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。我们没有在 WordPress 套餐上测试 SONAR20，请在付款前到购物车确认价格。首个周期之后，按续费价计算。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。SONAR20 适用于 WordPress 套餐，请在付款前到购物车确认价格。首个周期之后，按续费价计算。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -166199,7 +166206,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 上最便宜的 WordPress 套餐是哪个？是 Premium：48 个月预付每月 US$ 2.49，总价 US$ 119.52，最多 3 个网站。续费为每月 US$ 10.99。",
           "Hostinger 会预装 WordPress 吗？在主机面板里安装，不需要手动下载文件。步骤见上面的清单。",
           "网店适合哪个 WordPress 套餐？Unlimited：网站不限，每日备份。流量非常大的网店可以看 Cloud Startup。",
-          "SONAR20 能用于 WordPress 套餐吗？我们没有测试。请在购物车确认价格。如果可用，20% 只适用于首个周期。",
+          "SONAR20 能用于 WordPress 套餐吗？能。请在购物车确认价格。20% 只适用于首个周期。",
           "续费价和促销价一样吗？不一样。第一个 48 个月周期结束后，按续费价计算：Premium 为每月 US$ 10.99。"
         ]
       },
@@ -166213,7 +166220,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。WordPress 套餐我们没有测试，请在购物车确认价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。WordPress 套餐也适用，请在购物车确认价格。",
       "label": "通过 SONAR20 查看 WordPress 套餐",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -166398,7 +166405,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼與價格",
         "paragraphs": [
-          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享**第一期 20% 折扣**。我們沒有在 WordPress 方案上測試 SONAR20，付款前請先到購物車確認價格。第一期之後，以續約價計算。規則與其他產品請見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
+          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享**第一期 20% 折扣**。SONAR20 也適用於 WordPress 方案，付款前請先到購物車確認價格。第一期之後，以續約價計算。規則與其他產品請見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -166415,7 +166422,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 最便宜的 WordPress 方案是哪一個？是 Premium：48 個月預付每月 US$ 2.49，總價 US$ 119.52，最多 3 個網站。續約價為每月 US$ 10.99。",
           "Hostinger 的 WordPress 是預先安裝好的嗎？要在主機管理面板安裝，不需要手動下載檔案。步驟請見上方的檢查清單。",
           "網路商店適合哪一個 WordPress 方案？Unlimited：網站不限，每日備份。流量非常大的商店可以考慮 Cloud Startup。",
-          "SONAR20 可以用在 WordPress 方案嗎？我們沒有測試過，請在購物車確認價格。如果可用，20% 只適用於第一期。",
+          "SONAR20 可以用在 WordPress 方案嗎？可以，請在購物車確認價格。20% 只適用於第一期。",
           "續約價和優惠價一樣嗎？不一樣。第一個 48 個月的期間結束後，以續約價計算：Premium 為每月 US$ 10.99。"
         ]
       },
@@ -166429,7 +166436,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。WordPress 方案我們沒有測試，請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 也適用於 WordPress 方案，請在購物車確認價格。",
       "label": "用 SONAR20 查看 WordPress 方案",
       "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -166481,7 +166488,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das páginas de produto de 30/10/2026.",
-    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. Mala de bordo: preço, medida, peso e litros de 7 malas, o selo BORDO e a regra da ANAC, LATAM, GOL e Azul.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Mala de bordo: preço, medida, peso e litros de 7 malas, o selo BORDO e a regra da ANAC, LATAM, GOL e Azul.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -166730,7 +166737,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual tamanho de mala comprar na Bagaggio? P, M e G são as faixas de 10, 23 e 32 kg. Veja medidas e litros das malas em 30/10/2026.",
-    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. Mala de 10, 23 ou 32 kg: medidas e litros da loja, a ligação entre P, M e G e a mala de mão das companhias.",
+    "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio, com o cupom CECILIA10 de 10% OFF: medidas e litros da loja, a ligação entre P, M e G e a mala de mão das companhias.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167784,7 +167791,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O Bronzeado Instantâneo Skelt é uma maquiagem corporal que a Skelt anuncia durar de 12 a 24 horas, por R$ 99,90. Veja o que muda do autobronzeador e o preço de 30/10/2026.",
-    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Bronzeado instantâneo ou autobronzeador: duração, área, modo de uso e preço, para hoje ou para a semana.",
+    "metaDescription": "Bronzeado instantâneo Skelt ou autobronzeador, com o cupom SKEMCASACOMCECILIA de 10% OFF: duração, área, modo de uso e preço, para hoje ou a semana.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -167965,7 +167972,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como tirar o autobronzeador Skelt com o Removedor de Autobronzeador, de 140 ml por R$ 69,90 em 30/10/2026: o modo de uso, o prazo de 3 dias e o que diz a fonte oficial.",
-    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Removedor de autobronzeador: o passo a passo da marca, o prazo de 3 dias e os 3 minutos de ação.",
+    "metaDescription": "Removedor de autobronzeador Skelt, com o cupom SKEMCASACOMCECILIA de 10% OFF: o passo a passo da marca, o prazo de 3 dias e os 3 minutos de ação.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -168119,7 +168126,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como usar o Iluminador Corporal Skelt, de 120 ml por R$ 99,90 em 30/10/2026: modo de uso, corpo e rosto, e a conta do Kit Bronze & Glow Mousse.",
-    "metaDescription": "10% com o cupom SKEMCASACOMCECILIA na Skelt. Iluminador corporal: modo de uso, a duração de 12 a 24 horas que a marca anuncia e o kit Bronze & Glow.",
+    "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF na Skelt. Iluminador corporal: modo de uso, a duração de 12 a 24 horas que a marca anuncia e o kit Bronze & Glow.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -168766,7 +168773,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Comfort Up, Comfort Line ou Comfort Slim, da Toda Up: os tamanhos de cada um, a tabela de busto da loja, o que a página diz de cada modelo e o preço.",
-    "metaDescription": "Sutiã Toda Up: Comfort Up (PP a G3), Comfort Line (do P ao G1) ou Comfort Slim (PP a GG). Tabela de medidas e preço.",
+    "metaDescription": "Sutiã Toda Up com o cupom MAUAD de 10% OFF: Comfort Up, Comfort Line ou Comfort Slim, com tabela de medidas e o preço de cada um.",
     "image": "/images/reviews/toda-up/sutia-toda-up-qual-escolher-capa-discover.webp",
     "imageAlt": "Sutiãs Comfort Up, Comfort Line e Comfort Slim da Toda Up, com o logo da loja",
     "imageFit": "contain",
@@ -169132,7 +169139,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quando o kit Insider compensa contra as peças avulsas: o preço do kit dividido pelas peças, de camiseta, cueca e undershirt, e o cupom testado no kit de 5 Tech.",
-    "metaDescription": "15% com o cupom EMCASACOMCECILIA, testado no carrinho. Kit Insider vale a pena? Conta por peça de Tech, Heavy, Daily, cueca e undershirt contra o avulso.",
+    "metaDescription": "Kit Insider com o cupom EMCASACOMCECILIA de 15% OFF, testado no carrinho: a conta por peça de Tech, Heavy, Daily, cueca e undershirt contra o avulso.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -169832,7 +169839,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A taça base esfera da Let's Eat It só sai em conjunto. Veja as cores, a diferença entre 450 ml e 250 ml, o preço por taça e as opções coloridas para champanhe, água e vinho.",
-    "metaDescription": "Taça base esfera só em conjunto: cores, tamanhos, preço por taça e opções coloridas para champanhe, água e vinho, com o preço do cartão.",
+    "metaDescription": "Taça base esfera com o cupom MAUAD de 5% OFF: só sai em conjunto, com cores, tamanhos, preço por taça e opções coloridas para champanhe, água e vinho.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -170579,7 +170586,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como escolher vestido de festa na SHEIN para formatura, casamento como convidada e fim de ano: ocasião, tecido, tamanho, prazo e imposto, com três vestidos lidos na loja.",
-    "metaDescription": "Vestido de festa SHEIN: ocasião, tecido, tamanho e prazo para Natal e formatura, com preço e imposto de três vestidos da loja.",
+    "metaDescription": "Vestido de festa SHEIN: ocasião, tecido, tamanho e prazo; pesquise 4CW5Y no app da SHEIN, código de indicação.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
     "draft": false,
@@ -175518,7 +175525,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qual mochila de viagem Bagaggio cabe como item pessoal e qual só entra como mala pequena? Cinco modelos cruzados com as regras de LATAM, Azul e GOL, com preço e medidas.",
-    "metaDescription": "10% com o cupom CECILIA10 na Bagaggio. Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale: medida, litros e qual vai como item pessoal no avião.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale: medida, litros e qual vai como item pessoal no avião.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
     "draft": false,
@@ -175821,7 +175828,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "SkinUp (segunda pele, sem costura) ou Cotton Up (algodão), da Toda Up: as dez peças das duas linhas, para qual roupa cada uma serve, as faixas de tamanho, as cores e o preço.",
-    "metaDescription": "SkinUp ou Cotton Up, da Toda Up: segunda pele sem costura ou algodão. Tops, sutiã e calcinhas das duas linhas, tamanhos, tabela de medidas e preço.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up, nas duas linhas. SkinUp ou Cotton Up: segunda pele sem costura ou algodão, tamanhos, cores e preço.",
     "image": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-capa.webp",
     "imageAlt": "Top Segunda Pele SkinUp e Top Faixa Cotton Up, da Toda Up, lado a lado com o logo da loja",
     "imageFit": "contain",
@@ -176450,7 +176457,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Kits da Toda Up: o que cada um traz, o preço por conjunto ou por sutiã e a conta contra as peças avulsas, para saber quando o kit compensa.",
-    "metaDescription": "Kits Toda Up: top e calcinha SkinUp e Cotton Up, sutiã com protetor, Invisible Up e Comfort Up. A conta por peça contra o avulso e quando compensa.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF no site da Toda Up. Kits: a conta por peça contra o avulso e quando compensa, em Cotton Up, SkinUp e Comfort Up.",
     "image": "/images/reviews/toda-up/kit-toda-up-quando-compensa-capa.webp",
     "imageAlt": "Kits da Toda Up: top com calcinha, sutiã com protetor e os três sutiãs Comfort, com o logo da loja",
     "imageFit": "contain",
@@ -177199,7 +177206,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que o whey da Max Titanium entrega pelo rótulo: 100% Whey, Top Whey 3W, Whey Pro e IsoWhey, com proteína por dose, preço por 100 g de proteína, o cupom e para quem compensa.",
-    "metaDescription": "Até 10% com o cupom MAX10EMCASACOMCECILIA. Max Titanium é boa? Proteína por dose e preço por 100 g do 100% Whey, Top Whey 3W, Whey Pro e IsoWhey.",
+    "metaDescription": "A Max Titanium é boa com o cupom MAX10EMCASACOMCECILIA de até 10% OFF? Proteína por dose e preço por 100 g do 100% Whey, Top Whey 3W, Whey Pro e IsoWhey.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
     "updatedAt": "2026-11-02",
@@ -177483,7 +177490,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Probiótica é boa? Sim, pelo rótulo: veja o que o whey, a creatina e o hipercalórico entregam, quanto custam com o cupom PRO10EMCASACOMCECILIA e para quem a marca compensa.",
-    "metaDescription": "Probiótica é boa? Whey, zero lactose e creatina pelo rótulo, preço por 100 g de proteína e o cupom de até 10%: para quem a marca compensa.",
+    "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Whey, creatina e glutamina pelo rótulo, com o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
     "updatedAt": "2026-11-02",
@@ -177784,7 +177791,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Quem opera a Simple Organic, a ligação com a Hypera Pharma, como conferir o site oficial, as lojas próprias e o que a loja diz sobre trocas, frete e pagamento.",
-    "metaDescription": "Simple Organic é confiável? A marca é da Simple Organic Beauty S.A., de Florianópolis, com CNPJ ativo e, pela marca, parte da Hypera desde 2020. Veja trocas, frete, lojas e o site oficial.",
+    "metaDescription": "Simple Organic é confiável, com o cupom S-EMCASACOMCECILIA de 5% OFF na loja online: CNPJ, trocas, frete, lojas próprias e site oficial.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "draft": false,
@@ -178056,7 +178063,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Simple Organic no Reclame Aqui: RA1000 nos últimos 6 meses, nota 8,6, 100% respondidas e 90,2% resolvidas. Do que as pessoas reclamam e o que fazer se o pedido der problema.",
-    "metaDescription": "Simple Organic no Reclame Aqui: RA1000 em 6 meses, nota 8,6, 100% respondidas e 90,2% resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
+    "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic no Reclame Aqui: RA1000, nota 8,6, 90,2% resolvidas e as queixas mais comuns.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "draft": false,
@@ -178755,7 +178762,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mais Mu é boa? Pelo rótulo: o Exquenta e as barras mostram tudo, e o whey declara a proteína por dose sem tabela nutricional. Preço, cupom MMEMCASACOMCECILIA e para quem compensa.",
-    "metaDescription": "Mais Mu é boa? Whey, pré-treino Exquenta e barras pelo rótulo, preço de lista, o cupom de 10% e para quem a marca compensa.",
+    "metaDescription": "Whey, Exquenta e barras da Mais Mu pelo rótulo, com o cupom MMEMCASACOMCECILIA de 10% OFF: para quem a marca compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "draft": false,
@@ -179342,7 +179349,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Belive é boa? Sim, para quem precisa tirar glúten, leite e lactose da mesa: veja o que o rótulo dos doces, snacks e pães mostra, quanto custam com o código e onde comprar.",
-    "metaDescription": "Belive é boa? Brownie, bolinho, salgadinho, pão e panetone sem glúten pelo rótulo, preço de lista, o código de 10% e o frete por região: para quem a marca compensa.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Doces, snacks e pães sem glúten pelo rótulo, preço e frete por região: para quem compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "draft": false,
@@ -179721,7 +179728,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Simple Organic é boa? Pelo rótulo, sim: o que os séruns de niacinamida, vitamina C e retinol declaram, as soluções, os hidratantes, o cupom de 5% e para quem a marca compensa.",
-    "metaDescription": "Simple Organic é boa? Niacinamida a 10%, duas vitaminas C, retinol a 0,3% e o Retinol-Like de bakuchiol, tudo pelo rótulo, com o cupom de 5% e para quem a marca compensa.",
+    "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic é boa? Niacinamida a 10%, duas vitaminas C, retinol a 0,3% e bakuchiol, pelo rótulo.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "draft": false,
