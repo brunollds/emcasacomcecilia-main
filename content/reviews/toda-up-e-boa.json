@@ -144,7 +144,69 @@
           "objectFit": "wide",
           "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         }
-      ]
+      ],
+      "styling": {
+        "layout": "tags",
+        "items": [
+          {
+            "piece": "Top Segunda Pele SkinUp",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Por baixo de roupa casual ou esportiva, como um top fixo sem fecho; a alça é larga, então pede roupa que cubra o ombro.",
+            "occasion": "Dia a dia em casa, lazer e roupa de malha.",
+            "pairsWith": [
+              {
+                "label": "camiseta de malha"
+              },
+              {
+                "label": "legging"
+              },
+              {
+                "label": "Calcinha Biquíni SkinUp",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "mesma linha, sem costura"
+              }
+            ]
+          },
+          {
+            "piece": "Sutiã Top Alça Fina SkinUp",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Sob regata ou blusa de alça fina: segundo a loja, a alça regulável some debaixo da alça da roupa.",
+            "occasion": "Regata, blusa de alcinha e vestido de alça fina.",
+            "pairsWith": [
+              {
+                "label": "regata de alça fina"
+              },
+              {
+                "label": "vestido de alcinha"
+              },
+              {
+                "label": "Calcinha Fio Dental SkinUp",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-fio-dental-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "para roupa justa"
+              }
+            ]
+          },
+          {
+            "piece": "Sutiã Clássico SkinUp",
+            "url": "https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "howTo": "Como sutiã de todo dia, no lugar do modelo com aro: o bojo fixo leve dá o efeito push-up, segundo a loja.",
+            "occasion": "Trabalho e dia a dia com blusa de decote.",
+            "pairsWith": [
+              {
+                "label": "blusa de decote"
+              },
+              {
+                "label": "camisa"
+              },
+              {
+                "label": "Calcinha Cós Alto SkinUp",
+                "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+                "note": "cintura alta, mesma linha"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "heading": "Fita Up: a fita que deu nome à marca",
