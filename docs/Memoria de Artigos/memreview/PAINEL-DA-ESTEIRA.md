@@ -55,14 +55,14 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
-- [ ] [[mais-mu-e-boa-0311]]: Mais Mu é boa? Whey, Exquenta e barras pelo rótulo; creatina só citada (PT, id 784; linha "é boa", lote 2, Fable 5.1 no Job 2)
-- [ ] [[dr-peanut-e-boa-0311]]: Dr. Peanut é boa? Pasta, whey e snacks pelo rótulo (PT, id 785; linha "é boa", lote 2, Fable 5.1 no Job 2)
-- [ ] [[belive-e-boa-0311]]: Belive é boa? Doces sem açúcar, salgadinhos e pães pelo rótulo (PT, id 786; linha "é boa", lote 2, Fable 5.1 no Job 2)
-- [ ] [[simple-organic-e-boa-0311]]: Simple Organic é boa? Séruns, soluções e hidratantes pelo rótulo (PT, id 787; linha "é boa", lote 2, Fable 5.1 no Job 2)
 
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[mais-mu-e-boa-0311]]: Mais Mu é boa? Whey, Exquenta e barras pelo rótulo; creatina só citada (PT, id 784; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
+- [x] [[dr-peanut-e-boa-0311]]: Dr. Peanut é boa? Pasta, whey e snacks pelo rótulo (PT, id 785; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
+- [x] [[belive-e-boa-0311]]: Belive é boa? Doces sem açúcar, salgadinhos e pães pelo rótulo (PT, id 786; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
+- [x] [[simple-organic-e-boa-0311]]: Simple Organic é boa? Séruns, soluções e hidratantes pelo rótulo (PT, id 787; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
 - [x] [[simple-organic-e-confiavel]]: Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas (PT, id 780; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
 - [x] [[simple-organic-reclame-aqui-nota-reputacao]]: Simple Organic no Reclame Aqui: RA1000 nos 6 meses, as 5 abas e do que as pessoas reclamam (PT, id 781; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
 - [x] [[cupom-simple-organic-como-usar]]: Como usar o cupom S-EMCASACOMCECILIA: passo a passo e onde ele valeu no teste (PT, id 782; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
