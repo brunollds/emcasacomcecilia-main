@@ -1,18 +1,18 @@
 ---
-titulo_provisorio: "Tamanho SHEIN no Brasil: como ler a tabela de medidas e o que fazer se não servir"
-seo_title: "Tamanho SHEIN no Brasil: tabela de medidas e como acertar"
+titulo_provisorio: "Tamanho na SHEIN: qual letra pedir, o tamanho brasileiro e como ler o guia de cada peça"
+seo_title: "Tamanho SHEIN: qual pedir e o tamanho brasileiro de cada peça"
 slug_sugerido: "tamanho-shein-brasil"
 parceiro: "[[SHEIN]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Tamanho"
-status: "em-redacao"
+status: "pronto-para-gates"
 responsavel: "Fable 5.1 (Job 2) e Claude (Jobs 3 a 6)"
-proxima_acao: "redacao"
-bloqueado_por: "-"
+proxima_acao: "Bruno: aprovar a folha de imagens e mandar os links de afiliado das peças; depois CDN, gates e PR"
+bloqueado_por: "Bruno: folha de imagens (capa e corpo) e os links da DAZY e da Essnce"
 data_criacao: "2026-10-30"
 pauta: "SH-3 do molde moda-casa (30/10/2026), aprovada pelo Bruno em 30/10"
-i18n_cluster: "shein-trust (proposta: entrar nos 10 idiomas)"
+i18n_cluster: "shein (família própria, 10 idiomas)"
 translationKey: "shein-tamanho"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
@@ -319,3 +319,27 @@ Revisor em contexto limpo contra os fatos de 04/11, o briefing, as REGRAS-GLOBAI
 - `modo_i18n` registrado como `paridade-completa`.
 
 Fica para o Job 4: fora do PT, os nomes da interface da SHEIN ("Guia de tamanhos", "Tamanho e ajuste", "Como o comprador avaliou o look", "Diga-me o seu tamanho", os valores de elasticidade) vão descritos, não entre aspas, porque o nome em cada idioma não foi lido.
+
+## Capa e imagens (Job 6, 04/11/2026)
+Capa gerada com `covers:render` (spec no scratchpad da sessão) e folha de aprovação em JPG enviada ao Bruno em 04/11/2026. A capa foi refeita no mesmo dia com "S · M · L", sem o "cm", a pedido dele. **Aguarda a aprovação**; depois, o CDN pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`. Nenhuma foto do corpo repete a da capa, e nenhuma tem `href`.
+- Capa: `/images/reviews/shein/tamanho-shein-capa.webp`.
+- Corpo, 4 novas: as camisetas DAZY e Essnce em "A mesma letra muda de marca para marca" (10 idiomas), e a tabela e o vestido da loja parceira no capítulo do Envio Nacional (só PT).
+
+## Conformação e gates (Jobs 4 e 5, 04/11/2026)
+JSON `content/reviews/tamanho-shein-brasil.json`, id 804, e as 9 traduções (ids 805 a 813), com `translationKey: "shein-tamanho"` e o type "Guia de Tamanho", coluna nova da tabela do Job 4. Slugs: `shein-size-guide`, `tallas-shein`, `tailles-shein`, `shein-groessen`, `taglie-shein` e `shein-size-guide-<idioma>` em ko, ja, zh-hant e zh-hans. O "brasil" fica só no slug do PT.
+- Fora do PT saem o capítulo do Envio Nacional (a letra brasileira e a tabela do vendedor) e os trechos `[só PT]`: as traduções têm 9 capítulos.
+- Depois do Job 3, no PT: "a fita vale antes do pedido" virou "a fita vem antes do pedido". Cinco traduções tinham lido "vale mais que o pedido".
+- Releitura em 04/11/2026 por outros 4 agentes (Fable 5.1), um idioma por vez, e depois a minha revisão final. O que mudou:
+  - en: 7 mudanças, entre elas o sentido trocado da fita e o texto do link igual ao do M4. A revisão final mexeu em mais 5: o título, a nota, o "sometimes" que o PT não tem, "the letter problem again" e "section".
+  - es: 9. "Código de recomendación" virou "código de referido", a fita foi corrigida e a elasticidade ficou num termo só. Saiu também o "a veces" que o PT não tem.
+  - fr: 11. Corrigidos a fita e "l'aisance vous revient", que não tinha sentido. "Taille", ambíguo com a altura, virou "stature".
+  - de: 15. O título ficou mais curto, a fita foi corrigida, "Rückgabe" e "Größenguide" ficaram como no M4, e saíram os acréscimos "(ein Größenfinder)" e "manchmal".
+  - it: 17. "Codice referral" virou "codice invito", a fita foi corrigida e saíram os acréscimos "(un selettore di taglia)" e "a volte".
+  - ko: 8. A "Conta nossa" dizia que o busto da Essnce chegava ao XL, a metaDescription voltou ao registro do artigo e saiu o "87cm" que o PT não repete ali. A revisão final acertou a lógica da frase sobre o recurso de tamanho.
+  - ja: 9. Corrigidos a mesma inversão da "Conta nossa" e o parágrafo do recurso de tamanho, que perdia o "nunca no lugar da fita".
+  - zh-hant: 9. "整體穿搭" (o look) virou "合身度" (o caimento), a regra da folga deixou de estar invertida e saiu a "troca" acrescentada.
+  - zh-hans: 7, com as mesmas correções.
+
+Gates antes do CDN, verdes: `validate:content`, `test:review-i18n` (34 famílias), `test:article-d2`, `typecheck`, `test:reviews-hub`, `test:site-search` e `test:covers`. Faltam, depois do CDN: `test-delivery-integration`, `phase5-export --check`, `candidate-proof`, o `npm run build` e o `test:build-output`.
+
+Pendente: os links de afiliado da DAZY e da Essnce, na tabela das camisetas (10 idiomas). O Bruno converte os links.

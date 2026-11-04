@@ -6,8 +6,6 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[shein-vale-a-pena]]: SHEIN vale a pena? Preço, prazo, imposto e devolução (10 idiomas); no mesmo PR, a data da alíquota zero (12/05) em 2 artigos
-- [ ] [[tamanho-shein-brasil]]: Tamanho SHEIN no Brasil: como ler o Guia de tamanhos de cada peça e o que fazer se não servir (10 idiomas)
 - [ ] [[camiseta-insider-qual-escolher]]: Camiseta Insider: qual escolher (Tech, Core, Heavy, Polo, Henley) (PT); revisão: piloto "Como usar / Ocasião / Combina com" (briefing, seção 11)
 - [ ] [[sutia-toda-up-qual-escolher]]: Sutiã Toda Up: Comfort Up, Line ou Slim (PT)
 - [ ] [[kit-insider-quando-compensa]]: Kit Insider: quando compensa contra peças avulsas (14 de 17 kits mais baratos; Tech 5 e 10 de 16% a 23%) (PT); teste do cupom em kit com o Bruno
@@ -49,7 +47,8 @@
 
 ## 5. Prontos para Gates (`status: pronto-para-gates`)
 *JSON pronto e traduções relidas; aguardando os gates do Job-5.*
-- *(Nenhum artigo no momento)*
+- [ ] [[shein-vale-a-pena]]: SHEIN vale a pena? Quando compensa comprar e quando passar (10 idiomas, ids 794–803; Fable 5.1 no Job 2); espera a folha de imagens, os links das peças e a data da alíquota zero (12/05 ou 13/05) em 2 artigos
+- [ ] [[tamanho-shein-brasil]]: Tamanho na SHEIN: qual letra pedir e como ler o guia de cada peça (10 idiomas, ids 804–813; Fable 5.1 no Job 2); espera a folha de imagens e os links das peças
 
 ---
 

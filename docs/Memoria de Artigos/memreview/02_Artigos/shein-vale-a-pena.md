@@ -1,18 +1,18 @@
 ---
-titulo_provisorio: "SHEIN vale a pena? Prazo, imposto e devolução antes de pagar"
-seo_title: "SHEIN vale a pena? Prazo, imposto e devolução"
+titulo_provisorio: "SHEIN vale a pena? Quando compensa comprar e quando é melhor passar"
+seo_title: "SHEIN vale a pena? Prazo, imposto e devolução antes de pagar"
 slug_sugerido: "shein-vale-a-pena"
 parceiro: "[[SHEIN]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "em-redacao"
+status: "pronto-para-gates"
 responsavel: "Fable 5.1 (Job 2) e Claude (Jobs 3 a 6)"
-proxima_acao: "redacao"
-bloqueado_por: "-"
+proxima_acao: "Bruno: aprovar a folha de imagens e mandar os links de afiliado das peças; depois CDN, gates e PR"
+bloqueado_por: "Bruno: folha de imagens (capa e corpo), os links da Essnce, do vestido e do casaco MOTF e a data da alíquota zero (12/05 ou 13/05) em shein-e-confiavel e black-friday-shein"
 data_criacao: "2026-10-30"
 pauta: "SH-1 do molde moda-casa (30/10/2026), aprovada pelo Bruno em 30/10"
-i18n_cluster: "shein-trust (proposta: entrar nos 10 idiomas)"
+i18n_cluster: "shein (família própria, 10 idiomas)"
 translationKey: "shein-vale-a-pena"
 modo_i18n: "paridade-completa"
 idioma_fonte: "pt"
@@ -328,3 +328,29 @@ Revisor em contexto limpo contra os fatos de 04/11, o briefing, as REGRAS-GLOBAI
 - `modo_i18n` registrado como `paridade-completa`.
 
 Notas do revisor que ficam para o Bruno: os documentos do vault que ainda dizem "SHEIN Brasil" ou proíbem `br.shein.com` fora do PT (CONTRATOS-DE-CONTEUDO seção 2, Job 3 item 8, Job 2 regra 6 e Anexo-Moda), contra a regra de 02/11.
+
+## Capa e imagens (Job 6, 04/11/2026)
+Capa gerada com `covers:render` (spec no scratchpad da sessão) e folha de aprovação em JPG enviada ao Bruno em 04/11/2026. **Aguarda a aprovação**; depois, o CDN pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`. Nenhuma foto do corpo repete a da capa, e nenhuma tem `href`.
+- Capa: `/images/reviews/shein/shein-vale-a-pena-capa.webp`.
+- Corpo, 3 novas: o vestido da loja parceira e o casaco MOTF PREMIUM de frente em "A conta" (só PT), e o casaco aberto em "Antes de pagar" (10 idiomas). Em "Devolução", a ilustração do rastreio que já está no CDN (`shein-rastreio-reembolso-tela-2910.webp`).
+
+## Conformação e gates (Jobs 4 e 5, 04/11/2026)
+JSON `content/reviews/shein-vale-a-pena.json`, id 794, e as 9 traduções (ids 795 a 803), com `translationKey: "shein-vale-a-pena"` e o type "Guia de Compra", coluna nova da tabela do Job 4. Slugs: `is-shein-worth-it`, `vale-la-pena-shein`, `shein-ca-vaut-le-coup`, `lohnt-sich-shein`, `shein-conviene` e `shein-worth-it-<idioma>` em ko, ja, zh-hant e zh-hans.
+- Fora do PT saem os três capítulos do Brasil (a conta em reais, frete e imposto, Envio Nacional) e os trechos `[só PT]`: as traduções têm 8 capítulos. O `cta` do PT usa o link brasileiro do código; o dos outros idiomas, o link neutro.
+- Depois do Job 3, no PT: "O P da SHEIN não é o seu P" virou "O M da SHEIN não é o seu M". O M existe nos dois sistemas de tamanho, e o P não diz nada fora do Brasil.
+- Traduções por 2 subagentes. Em 04/11/2026, outros 4 agentes (Fable 5.1) releram um idioma por vez, e depois veio a minha revisão final. O que mudou:
+  - en: 8 mudanças, como o jogo "cobra o que a página não cobra" e os decalques "street store" e "the check is the measurements". A revisão final mexeu em mais 3.
+  - es: 6, entre elas o mesmo jogo e "sin envío local, pasa", que se lia como "acontece".
+  - fr: 7, como os decalques "la voie est le retour" e "boutique de rue", mais o seoTitle encurtado.
+  - de: 9. "Kommt ungeprüft an" mudava o sentido, e os termos ficaram iguais aos do M5. O título perdeu o "lohnt sich" repetido.
+  - it: 11. "Codice referral" virou "codice invito", o nome do site, e "La SHEIN conviene?" virou "SHEIN conviene?".
+  - ko: 5. "추천인 코드" virou "추천 코드", sem "당신", mais a troca de P por M.
+  - ja: 7. O cartão "店に置いてきます", um decalque, virou "見送ります", mais a troca de P por M.
+  - zh-hant: 8. "放過" virou "別買", a frase sem sentido sobre provar antes de receber foi refeita, e 尺碼表 e 幫助中心 ficaram como no M5.
+  - zh-hans: 8, com as mesmas correções, e "这种方式不太适合这里" virou "那 SHEIN 不太适合你".
+- O conferidor das traduções agora barra outro nome para o 4CW5Y: vale o `referralCodeLabel` de cada idioma.
+- Vault: o dossiê e a nota do cluster da SHEIN seguem a regra de 02/11, a pendência que o revisor do Job 3 deixou. A matriz do cluster ganhou as cinco famílias que faltavam.
+
+Gates antes do CDN, verdes: `validate:content`, `test:review-i18n` (34 famílias), `test:article-d2`, `typecheck`, `test:reviews-hub`, `test:site-search` e `test:covers`. Faltam, depois do CDN: `test-delivery-integration`, `phase5-export --check`, `candidate-proof`, o `npm run build` e o `test:build-output`.
+
+Pendente: os links de afiliado da Essnce, do vestido e do casaco MOTF, nas linhas da tabela "A conta" (só PT). O Bruno converte os links.
