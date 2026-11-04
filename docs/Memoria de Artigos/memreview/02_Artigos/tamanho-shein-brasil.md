@@ -219,7 +219,7 @@ Para quem o Envio Nacional serve: quem quer a letra que já conhece e o prazo cu
 
 ### Se não servir: a devolução
 
-Errar a letra custa o tempo de duas entregas: a peça volta antes de a certa chegar, e é por isso que a fita vale antes do pedido. [só PT: No Brasil, a política não prevê troca: quem errou a letra devolve a peça, recebe o reembolso e faz um pedido novo com a letra certa.]
+Errar a letra custa o tempo de duas entregas: a peça volta antes de a certa chegar, e é por isso que a fita vem antes do pedido. [só PT: No Brasil, a política não prevê troca: quem errou a letra devolve a peça, recebe o reembolso e faz um pedido novo com a letra certa.]
 
 [só PT: A devolução é em até 20 dias do recebimento. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso. Body, roupa de banho e roupa íntima só voltam nos 7 dias do direito de arrependimento, então nessas a medida pede ainda mais cuidado.] [fora do PT: A política de devolução do seu país está na central de ajuda da SHEIN.] A devolução e a reputação da loja estão em [SHEIN é confiável?](/reviews/shein-e-confiavel).
 
@@ -269,7 +269,7 @@ Refeito depois do Job 3 (04/11). **Nenhuma foto leva `href`:** o `test:review-i1
 
 Os arquivos do site não levam "brasil" no nome: as fotos 1 e 2 e a capa aparecem nos 10 idiomas.
 
-**Capa (Job 6, `covers:render`, pronta):** `/images/reviews/shein/tamanho-shein-capa.webp`, 1600x900: a camiseta DAZY de corpo inteiro (`dazy-2`), a Essnce de costas (`essnce-2`) e o pijama de três peças do guia do 11.11, com a faixa do logo da SHEIN, "S · M · L cm" e o ícone de régua; sem letra brasileira. Alt: "Camiseta azul-marinho, camiseta preta de costas e pijama verde estampado em fotos oficiais da SHEIN, com o logo da loja, as letras S, M e L e uma régua".
+**Capa (Job 6, `covers:render`, pronta):** `/images/reviews/shein/tamanho-shein-capa.webp`, 1600x900: a camiseta DAZY de corpo inteiro (`dazy-2`), a Essnce de costas (`essnce-2`) e o pijama de três peças do guia do 11.11, com a faixa do logo da SHEIN, "S · M · L" e o ícone de régua (o "cm" saiu a pedido do Bruno, 04/11); sem letra brasileira. Alt: "Camiseta azul-marinho, camiseta preta de costas e pijama verde estampado em fotos oficiais da SHEIN, com o logo da loja, as letras S, M e L e uma régua".
 
 ### Matriz de claims
 

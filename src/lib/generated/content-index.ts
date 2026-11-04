@@ -182201,5 +182201,4479 @@ export const reviewsData: unknown[] = [
         "title": "Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças) e se vale a pena"
       }
     ]
+  },
+  {
+    "id": 794,
+    "slug": "shein-vale-a-pena",
+    "locale": "pt",
+    "translationKey": "shein-vale-a-pena",
+    "title": "SHEIN vale a pena? Quando compensa comprar e quando é melhor passar",
+    "seoTitle": "SHEIN vale a pena? Prazo, imposto e devolução antes de pagar",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN vale a pena para a peça de que você sabe a medida e que pode esperar. Três peças lidas na loja mostram onde o frete, o imposto e a devolução mudam a conta antes de pagar.",
+    "metaDescription": "SHEIN vale a pena para peça de medida conhecida e sem pressa. Pesquise 4CW5Y no app da SHEIN: código de indicação, sem desconto. Frete, prazo e devolução.",
+    "publishedAt": "4 de novembro de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "Camiseta henley azul-marinho, short estampado e óculos de sol em fotos oficiais da SHEIN, com o logo da loja e ícones de preço, entrega, recibo e devolução",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Ir para a SHEIN",
+      "text": "Antes de pagar, confira na página do pedido o frete, o prazo e os tributos. O 4CW5Y é código de indicação: pesquise no aplicativo, sem desconto.",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Podemos receber comissão pelos links da SHEIN. Ninguém da equipe comprou as peças.",
+    "relatedArticles": [
+      {
+        "slug": "shein-e-confiavel",
+        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+      },
+      {
+        "slug": "tamanho-shein-brasil",
+        "title": "Tamanho na SHEIN: qual letra pedir, o tamanho brasileiro e como ler o guia de cada peça"
+      },
+      {
+        "slug": "codigo-de-indicacao-shein",
+        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+      },
+      {
+        "slug": "vestido-de-festa-shein",
+        "title": "Vestido de festa na SHEIN: como escolher pela ocasião, pelo tecido e pelo prazo"
+      },
+      {
+        "slug": "shein-reclame-aqui-nota-reputacao",
+        "title": "SHEIN no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Vale a pena para a peça de que você já sabe a medida e que pode esperar a entrega; para a compra urgente ou para a peça que precisa de prova, não. O que decide é o valor do pedido: existe uma faixa sem frete e sem imposto de importação, que o capítulo de frete e imposto mostra."
+        ]
+      },
+      {
+        "heading": "Quando compensa e quando não",
+        "paragraphs": [
+          "Compensa quando três coisas estão a seu favor: você sabe a medida, não tem pressa e o pedido fecha num valor que a loja entrega de graça. A SHEIN tem catálogo gigante e peças de preço baixo, e isso cobra o que a página não cobra: tempo e atenção na descrição. O pedido internacional leva alguns dias só para sair do armazém, e a entrega vem depois. A peça chega sem prova, e a política não prevê troca: se não serviu, o caminho é a devolução que a loja descreve na central de ajuda e um pedido novo.",
+          "Para quem: a peça básica que você já compra sempre, como camiseta, legging ou pijama, e a peça de ocasião com um mês de folga. Quando não: presente para a semana que vem, roupa para um evento com data marcada e qualquer peça cara que você precise ver no corpo antes de decidir.",
+          "A decisão se faz na página do produto, antes do carrinho: é ali que estão o tipo de envio, a previsão de entrega e a composição. O checkout só confirma o que você já devia saber."
+        ]
+      },
+      {
+        "heading": "A conta: três peças lidas na loja",
+        "paragraphs": [
+          "A conta muda com o envio e com o valor: a básica barata, sozinha, paga frete; a de loja parceira chega em dias úteis; e a peça cara passa da faixa sem imposto de importação. O preço é o de venda da página, sem cupom: o \"Estimado\" que ela mostra já desconta cupom da loja e não entra aqui."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda da página de cada peça, sem cupom, 04/11; a promoção muda o valor, então confira de novo antes de pagar.",
+          "headers": [
+            "Peça",
+            "Envio",
+            "Preço de venda",
+            "Frete",
+            "Prazo na página",
+            "O que a descrição diz"
+          ],
+          "rows": [
+            [
+              "[Camiseta SHEIN Essnce](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "Internacional",
+              "a partir de R$ 48,91 (de R$ 50,95)",
+              "R$ 15,00 sozinha, abaixo do mínimo",
+              "De 8 a 19 dias; 60% em até 14 dias",
+              "95% viscose e 5% elastano"
+            ],
+            [
+              "[Vestido midi de alfaiataria](https://br.shein.com/Women-s-Tailored-Midi-Dress-Elegant-With-Slit-Detail-And-Front-Tie-p-485599894.html)",
+              "Envio Nacional, loja parceira local",
+              "R$ 79,99 (de R$ 130,00)",
+              "Grátis",
+              "De 4 a 7 dias úteis",
+              "Elastano e poliéster; P, M, G e GG"
+            ],
+            [
+              "[Casaco de lã MOTF PREMIUM](https://br.shein.com/MOTF-PREMIUM-WOMEN-S-SOLID-COLOR-LAPEL-NECK-LONG-SLEEVE-DOUBLE-BREASTED-ELEGANT-WOOL-COAT-p-564613696.html)",
+              "Internacional",
+              "R$ 513,56 (US$ 94,44 na página)",
+              "Grátis",
+              "De 8 a 19 dias; 60% em até 14 dias",
+              "50% lã e 50% poliéster; só lavagem a seco; sem forro"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "O que a tabela não diz: a camiseta sozinha paga um frete que é quase um terço do preço dela; duas camisetas passam do mínimo e o frete some. O vestido vem de uma loja parceira local, por isso chega em dias úteis e fica fora do imposto de importação. O casaco é o único dos três que paga imposto de importação, e a descrição avisa o que a foto não mostra: só lava a seco e não tem forro."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-vestido-loja-parceira.webp",
+            "alt": "Duas modelos com o vestido midi de alfaiataria terracota, sem manga, com amarração na cintura, de frente e de costas diante do espelho",
+            "caption": "Foto da loja parceira na SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8
+          },
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf.webp",
+            "alt": "Modelo com o casaco longo de lã MOTF PREMIUM creme, de gola lapela e abotoamento duplo com botões dourados, e bolsa na mão",
+            "caption": "Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Frete e imposto: a faixa que vale",
+        "paragraphs": [
+          "Entre R$ 69 e uns R$ 270, o pedido internacional não paga frete nem imposto de importação: é a faixa em que a SHEIN compensa mais. Conta nossa: pela página de envio da loja e pelo dólar do dia, o frete custa R$ 15 abaixo de R$ 69 e é grátis a partir daí; o imposto de importação começa quando o pedido passa de US$ 50, que davam perto de R$ 270. Pedidos de até US$ 50, somando produto e frete, não pagam imposto de importação. A SHEIN está na lista da Receita dos sites certificados no Remessa Conforme, e a regra vale para pessoa física. Os tributos aparecem no checkout, antes de pagar.",
+          "Acima de US$ 50, a alíquota é de 60% com desconto de US$ 30 no imposto, e por isso ele começa pequeno: um pedido de US$ 60 paga US$ 6, um de US$ 75 paga US$ 15 e um de US$ 100 paga US$ 30. O casaco da tabela paga cerca de R$ 146 de imposto de importação. Em cima disso vem o ICMS, de 17% a 20%, que muda de estado para estado e vale em toda compra internacional, abaixo ou acima dos US$ 50; a SHEIN diz que subsidia a parte do ICMS que incide sobre o valor do produto, por critérios dela, cliente a cliente, e o que sobra está no resumo do pedido.",
+          "A armadilha é a base da conta: o imposto incide sobre o que você paga, já com promoção e cupom, não sobre o preço riscado. Uma peça de lista acima de US$ 50 pode cair na faixa zero depois do desconto; o contrário não acontece. Quando não: a peça que sozinha passa dos US$ 50 paga imposto de qualquer jeito, e aí o que decide é se ela vale o que custa com o imposto no resumo, não o preço da vitrine."
+        ]
+      },
+      {
+        "heading": "Envio Nacional ou internacional",
+        "paragraphs": [
+          "Se a peça tem Envio Nacional, ela chega em dias úteis e fica fora do imposto de importação: é a escolha quando o prazo manda. O Envio Nacional é de lojas parceiras locais, e o prazo não conta fim de semana nem feriado; cada loja tem o próprio frete e prazo, e a página do produto mostra \"Enviado por: Envio Nacional\" ou \"Internacional\". O internacional, a página avisa, está sujeito à declaração de importação e aos tributos.",
+          "Olha o detalhe: um mesmo produto pode ter um tamanho no Envio Nacional e os outros no internacional, e a página diz qual. Confira o envio do seu tamanho, não o da peça. Para quem tem data, o filtro é esse. Quando não: se a peça que você quer só existe no internacional, não adianta esperar; conte o prazo do capítulo seguinte."
+        ]
+      },
+      {
+        "heading": "Prazo: quanto esperar",
+        "paragraphs": [
+          "Conte de duas a três semanas para o pedido internacional e peça com essa folga. A previsão exata está na página do produto, antes do carrinho, e muda com o seu endereço. A página de envio diz de 3 a 5 dias para processar antes de o pedido sair. Para roupa com data, some o prazo mais longo da página a uma semana de folga, para que uma devolução não vire correria.",
+          "A loja informa: o serviço Entrega no Prazo, grátis, devolve 200 pontos ou R$ 10 em créditos se o pedido passa da data prevista; pacote que não chega se avisa em até 90 dias do pagamento, e item faltando ou errado, em até 60 dias da entrega. Quando não: pedido para presente com dia marcado, porque a previsão pode passar. O atraso é compensado em pontos, não em tempo."
+        ]
+      },
+      {
+        "heading": "Devolução, sem troca",
+        "paragraphs": [
+          "A política da SHEIN não prevê troca: ela descreve devolução e reembolso, e o tamanho certo vem num pedido novo. O prazo é de 20 dias do recebimento, com a peça sem uso, sem lavar e com etiqueta. A primeira devolução de cada pedido é grátis, pelos Correios, Jadlog ou Total Express; da segunda em diante do mesmo pedido, R$ 45 saem do reembolso. Roupa íntima, de banho, bodies, brincos e piercings só voltam nos 7 dias do arrependimento; cosmético, só lacrado; kit volta inteiro; brinde e personalizado não voltam. O reembolso, na Carteira SHEIN ou no pagamento original, leva de 16 a 21 dias, mais 1 a 8 dias úteis do banco.",
+          "Por isso, mande tudo numa devolução só: a segunda do mesmo pedido custa, e peça íntima ou de banho é compra sem volta depois da primeira semana. Quem compra para provar em casa, como numa loja de rua, não é o perfil: aqui a prova é a medida, no capítulo seguinte."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "Ilustração de uma tela de rastreio do pedido ao lado de um comprovante com código de barras e de uma moeda com a seta de volta do reembolso",
+            "caption": "Guarde o rastreio: a devolução e o reembolso andam com ele.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Tamanho: a medida, não a letra",
+        "paragraphs": [
+          "O M da SHEIN não é o seu M: cada peça tem o próprio guia em centímetros, e é ele que decide, não a letra. Regra prática, sem teste nosso: meça uma roupa sua que veste bem, deitada, e compare com a medida da peça do guia, não com a medida do seu corpo; a diferença entre as duas é a folga que você gosta. Peça sem guia em centímetros é peça para passar. O que medir em cada tipo de roupa, e como ler o guia de cada produto, está no [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil)."
+        ]
+      },
+      {
+        "heading": "Antes de pagar",
+        "bullets": [
+          "A página do produto diz o tipo de envio e a previsão de entrega, Envio Nacional ou internacional; confira antes do carrinho.",
+          "Leia a descrição inteira: composição, forro e lavagem. Casaco que só lava a seco e não tem forro não é surpresa boa na caixa.",
+          "O nome do pedido igual ao do CPF e o endereço completo: o pedido internacional exige.",
+          "O imposto de importação e o ICMS aparecem no resumo do pedido, antes de pagar; se o pedido passa de US$ 50, é ali que você vê quanto.",
+          "Cobrança que chegue depois da entrega, confira no site oficial da transportadora ou dos Correios antes de pagar qualquer valor: a SHEIN recolhe os tributos na compra.",
+          "Guarde a confirmação e o rastreio: é com eles que a devolução e o aviso de pacote perdido andam."
+        ],
+        "postParagraphs": [
+          "O 4CW5Y não é cupom e não dá desconto: é o código de indicação da SHEIN, que se pesquisa na barra de busca do aplicativo, e não soma com nada. As regras da loja ficam na [página da SHEIN](/cupons/shein). Quem opera a loja e a reputação dela estão em [SHEIN é confiável?](/reviews/shein-e-confiavel)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "Modelo com o casaco longo de lã MOTF PREMIUM creme, aberto sobre camisa branca e short bege, com bota estampada",
+            "caption": "Foto oficial da SHEIN. A descrição avisa o que a foto não diz: só lavagem a seco e sem forro.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Vale a pena para quem",
+        "bullets": [
+          "Para o básico de todo dia, como camiseta, legging e meia: vale, no pedido que fecha acima do mínimo do frete grátis e abaixo dos US$ 50.",
+          "Para a peça de ocasião com um mês de folga: vale, lendo a descrição e o guia de medida da peça.",
+          "Para quem tem data marcada: só com Envio Nacional; sem envio local, passe.",
+          "Para a peça cara, de lã ou de alfaiataria: vale só para quem já sabe a medida e aceita a devolução no lugar da prova, com o imposto no resumo.",
+          "Para quem precisa provar antes: não."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a camiseta básica, em pedido de duas, porque aí o frete some; o casaco de lã eu deixaria na loja, porque é o único da tabela que paga imposto de importação."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "SHEIN vale a pena? Vale para a peça de que você sabe a medida e que pode esperar; o capítulo \"Vale a pena para quem\" diz para qual compra sim e para qual não.",
+          "SHEIN vale a pena para comprar roupa cara? Só para quem já sabe a medida e aceita devolver em vez de provar; acima de US$ 50 o imposto de importação entra, e o capítulo de frete e imposto mostra a conta.",
+          "SHEIN ainda vale a pena? Sim, para o pedido que fecha acima do mínimo do frete grátis e dentro da faixa sem imposto de importação, que o capítulo de frete e imposto mostra; fora disso, o que decide é o prazo e a descrição da peça.",
+          "Dá para trocar de tamanho na SHEIN? Não: a política é de devolução e reembolso, e o tamanho certo vem num pedido novo; a primeira devolução de cada pedido é grátis, como mostra o capítulo da devolução.",
+          "O 4CW5Y dá desconto na SHEIN? Não: é código de indicação, que se pesquisa no aplicativo, não é cupom e não soma com nada."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Você já sabe a medida da peça em centímetros e pode esperar a entrega que a página do produto mostra.",
+        "O pedido junta peças básicas que você compraria de qualquer jeito e fecha acima do mínimo do frete grátis.",
+        "A descrição da peça traz composição, forro e lavagem, e nada disso é surpresa para você."
+      ],
+      "skipIf": [
+        "A peça precisa chegar numa data marcada e não tem envio local: processamento e entrega somados raramente cabem numa semana.",
+        "Você precisa provar antes de comprar: se não servir, o caminho é a devolução.",
+        "A peça é cara e você não leu a lavagem e o forro: casaco que só lava a seco e não tem forro é compra para quem já sabe o que quer."
+      ]
+    }
+  },
+  {
+    "id": 795,
+    "slug": "is-shein-worth-it",
+    "locale": "en",
+    "translationKey": "shein-vale-a-pena",
+    "title": "Is SHEIN worth it? When buying pays off and when to skip it",
+    "seoTitle": "Is SHEIN worth it? Delivery, returns and what to check first",
+    "type": "Buying Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN is worth it for a piece whose size you know and that can wait for delivery. Delivery time, returns and each product's details show when to buy and when to skip.",
+    "metaDescription": "SHEIN is worth it for a piece whose size you know and that can wait. Search 4CW5Y in the SHEIN app: referral code, no discount. Delivery and returns.",
+    "publishedAt": "November 4, 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "Navy henley T-shirt, printed shorts and sunglasses in official SHEIN photos, with the store logo and icons for price, delivery, receipt and returns",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Go to SHEIN",
+      "text": "Before paying, check the shipping, delivery time and taxes on the order page. The 4CW5Y is a referral code: search for it in the app, no discount.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "We may earn a commission on SHEIN links. No one on the team bought the pieces.",
+    "relatedArticles": [
+      {
+        "slug": "is-shein-legit-and-safe",
+        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+      },
+      {
+        "slug": "shein-size-guide",
+        "title": "SHEIN size guide: which size to order and how to read each size chart"
+      },
+      {
+        "slug": "shein-referral-code-where-to-enter",
+        "title": "SHEIN referral code: where to enter it and how it works"
+      },
+      {
+        "slug": "shein-party-dress-guide",
+        "title": "Party dress on SHEIN: how to choose by occasion, fabric and delivery time"
+      },
+      {
+        "slug": "shein-trustpilot-reviews",
+        "title": "SHEIN on Trustpilot: score, complaints and what the numbers show"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "It's worth it for a piece whose size you already know and that can wait for delivery. For an urgent purchase or a piece you need to try on, it isn't. What decides it is the delivery estimate the product page shows for your address."
+        ]
+      },
+      {
+        "heading": "When it pays off and when it doesn't",
+        "paragraphs": [
+          "It pays off when three things are on your side: you know the size, you aren't in a hurry, and the order comes to an amount the store ships for free. SHEIN has a huge catalog and low prices, and that comes with a cost the page doesn't charge: time and attention to the description. An international order takes a few days just to leave the warehouse, and delivery comes after that. There is no trying it on first: if it doesn't fit, the way out is the return process the store describes in its help center.",
+          "For whom: the basic piece you always buy, like a T-shirt, leggings or pajamas, and an occasion piece with a month to spare. When not: a gift for next week, an outfit for an event with a fixed date, and any expensive piece you need to see on before deciding.",
+          "The decision is made on the product page, before the cart: that's where the shipping type, the delivery estimate and the material are. Checkout only confirms what you should already know."
+        ]
+      },
+      {
+        "heading": "Delivery: how long to wait",
+        "paragraphs": [
+          "The exact estimate is on the product page, before the cart, and changes with your address. For clothes needed by a date, add a week of slack to the longest time on the page, so a return doesn't turn into a rush.",
+          "When not: an order for a gift with a fixed day, because the estimate can slip."
+        ]
+      },
+      {
+        "heading": "Returns",
+        "paragraphs": [
+          "The return policy for your country is in the SHEIN help center: read it before ordering, because the time limit, the cost and what can't be returned change the math.",
+          "Someone who buys to try on at home, as in a physical store, is not the profile here: the fitting room is the measurements, covered in the next section."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "Illustration of an order-tracking screen next to a receipt with a barcode and a coin with a return arrow for the refund",
+            "caption": "Keep the tracking number: the return and the refund both follow it.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Size: the measurements, not the letter",
+        "paragraphs": [
+          "SHEIN's M isn't your M: each piece has its own size guide in centimeters, and that is what decides, not the letter. Rule of thumb, not tested by us: measure a garment you own that fits you well, lying flat, and compare it with the measurement in the piece's guide, not with your body measurements; the difference between the two is the room you like. A piece without a guide in centimeters is one to skip. What to measure for each type of garment, and how to read each product's guide, is in the [SHEIN size guide](/en/reviews/shein-size-guide)."
+        ]
+      },
+      {
+        "heading": "Before paying",
+        "bullets": [
+          "The product page states the shipping type and the delivery estimate; check them before the cart.",
+          "Read the full description: material, lining and washing. A coat that is dry-clean only and has no lining is not a nice surprise when the box arrives.",
+          "Keep the confirmation and the tracking number: the return and the lost-package claim both depend on them."
+        ],
+        "postParagraphs": [
+          "The 4CW5Y is not a coupon and gives no discount: it's SHEIN's referral code, which you search for in the app's search bar, and it doesn't stack with anything. The store's rules are on the [SHEIN page](/en/coupons/shein). Who runs the store and its reputation are covered in [Is SHEIN trustworthy?](/en/reviews/is-shein-legit-and-safe)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "Model in the cream long wool MOTF PREMIUM coat, open over a white shirt and beige shorts, with printed boots",
+            "caption": "Official SHEIN photo. The description says what the photo doesn't show: dry-clean only and no lining.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Who it's worth it for",
+        "bullets": [
+          "For everyday basics, like T-shirts, leggings and socks: worth it, on an order that clears the free-shipping minimum.",
+          "For an occasion piece with a month to spare: worth it, if you read the description and the piece's size guide.",
+          "For anyone with a fixed date: no local shipping, so skip it.",
+          "For an expensive piece, wool or tailoring: worth it only for someone who already knows their size and accepts returning it instead of trying it on.",
+          "For anyone who needs to try it on first: no."
+        ],
+        "emphasis": "If it were for my own home, I'd take the basic T-shirt; I'd leave the wool coat on the rack."
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "Is SHEIN worth it? Yes, for a piece whose size you know and that can wait; the section “Who it's worth it for” says which purchases make sense and which don't.",
+          "Is SHEIN worth it for expensive clothes? Only for someone who already knows their size and accepts returning instead of trying on.",
+          "Is SHEIN still worth it? Yes, for an order that clears the free-shipping minimum; otherwise, the delivery time and the piece's description decide.",
+          "Can you exchange sizes at SHEIN? It depends on the country: the return and exchange policy for each one is in the SHEIN help center.",
+          "Does the 4CW5Y give a discount at SHEIN? No: it's a referral code, searched for in the app. It's not a coupon and doesn't stack with anything."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "You already know the piece's size in centimeters and can wait for the delivery the product page shows.",
+        "The order gathers basics you would buy anyway and clears the free-shipping minimum.",
+        "The description gives the material, lining and washing, and none of that is a surprise for you."
+      ],
+      "skipIf": [
+        "The piece has to arrive on a fixed date and has no local shipping: processing and delivery rarely fit into a week.",
+        "You need to try it on before buying: if it doesn't fit, the way out is the return.",
+        "The piece is expensive and you haven't read the washing and lining: a coat that is dry-clean only and has no lining is only for someone who already knows what they want."
+      ]
+    }
+  },
+  {
+    "id": 796,
+    "slug": "vale-la-pena-shein",
+    "locale": "es",
+    "translationKey": "shein-vale-a-pena",
+    "title": "¿SHEIN vale la pena? Cuándo compensa comprar y cuándo es mejor pasar",
+    "seoTitle": "¿Vale la pena SHEIN? Envío, devolución y qué revisar antes",
+    "type": "Guía de compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN vale la pena para una prenda cuya talla conoces y que puede esperar. El plazo, la devolución y la ficha de cada producto muestran cuándo comprar y cuándo pasar.",
+    "metaDescription": "SHEIN vale la pena para prendas de talla conocida y sin prisa. Busca 4CW5Y en la app de SHEIN: código de referido, sin descuento. Envío y devolución.",
+    "publishedAt": "4 de noviembre de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "Camiseta henley azul marino, short estampado y gafas de sol en fotos oficiales de SHEIN, con el logo de la tienda e iconos de precio, envío, recibo y devolución",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Ir a SHEIN",
+      "text": "Antes de pagar, revisa en la página del pedido el envío, el plazo y los impuestos. El 4CW5Y es un código de referido: búscalo en la app, sin descuento.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Podemos recibir comisión por los enlaces de SHEIN. Nadie del equipo compró las prendas.",
+    "relatedArticles": [
+      {
+        "slug": "shein-es-confiable-y-seguro",
+        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+      },
+      {
+        "slug": "tallas-shein",
+        "title": "Guía de tallas de SHEIN: qué talla pedir y cómo leer la tabla de cada prenda"
+      },
+      {
+        "slug": "codigo-de-referido-shein-donde-ponerlo",
+        "title": "Código de referido de SHEIN: dónde ponerlo y cómo usarlo"
+      },
+      {
+        "slug": "vestido-de-fiesta-shein",
+        "title": "Vestido de fiesta en SHEIN: cómo elegir según la ocasión, la tela y el plazo"
+      },
+      {
+        "slug": "shein-opiniones-trustpilot",
+        "title": "SHEIN en Trustpilot: calificación, quejas y lo que muestran los datos"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "Vale la pena para la prenda cuya talla ya sabes y que puedes esperar a que llegue. Para una compra urgente o para una prenda que necesitas probarte, no. Lo que decide es el plazo que muestra la página del producto para tu dirección."
+        ]
+      },
+      {
+        "heading": "Cuándo compensa y cuándo no",
+        "paragraphs": [
+          "Compensa cuando tres cosas juegan a tu favor: conoces la talla, no tienes prisa y el pedido llega a un importe que la tienda envía gratis. SHEIN tiene un catálogo enorme y precios bajos, y eso se paga con lo que la página no cobra: tiempo y atención en la descripción. Un pedido internacional tarda unos días solo en salir del almacén, y la entrega llega después. No hay probador: si no te queda, el camino es la devolución que la tienda describe en su centro de ayuda.",
+          "Para quién: la prenda básica que siempre compras, como camiseta, leggings o pijama, y la prenda para una ocasión con un mes de margen. Cuándo no: un regalo para la semana que viene, ropa para un evento con fecha fija y cualquier prenda cara que necesites ver puesta antes de decidir.",
+          "La decisión se toma en la página del producto, antes del carrito: ahí están el tipo de envío, la previsión de entrega y la composición. La página de pago solo confirma lo que ya deberías saber."
+        ]
+      },
+      {
+        "heading": "Plazo: cuánto esperar",
+        "paragraphs": [
+          "La previsión exacta está en la página del producto, antes del carrito, y cambia según tu dirección. Para ropa con fecha, suma una semana de margen al plazo más largo de la página, para que una devolución no acabe en apuros.",
+          "Cuándo no: un pedido para un regalo con día fijo, porque la previsión puede retrasarse."
+        ]
+      },
+      {
+        "heading": "Devolución",
+        "paragraphs": [
+          "La política de devolución de tu país está en el centro de ayuda de SHEIN: léela antes de pedir, porque el plazo, el costo y lo que no se puede devolver cambian la cuenta.",
+          "Quien compra para probarse en casa, como en una tienda física, no es el perfil aquí: el probador es la medida, en el capítulo siguiente."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "Ilustración de una pantalla de seguimiento del pedido junto a un comprobante con código de barras y una moneda con la flecha de retorno del reembolso",
+            "caption": "Guarda el seguimiento: la devolución y el reembolso van con él.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Talla: la medida, no la letra",
+        "paragraphs": [
+          "La M de SHEIN no es tu M: cada prenda tiene su propia guía de tallas en centímetros, y es esa la que decide, no la letra. Regla práctica, sin prueba nuestra: mide una prenda tuya que te quede bien, extendida, y compárala con la medida de la prenda en la guía, no con la medida de tu cuerpo; la diferencia entre ambas es la holgura que te gusta. Una prenda sin guía en centímetros es para pasar. Qué medir en cada tipo de ropa y cómo leer la guía de cada producto está en la [guía de tallas de SHEIN](/es/reviews/tallas-shein)."
+        ]
+      },
+      {
+        "heading": "Antes del pago",
+        "bullets": [
+          "La página del producto indica el tipo de envío y la previsión de entrega; revísalos antes del carrito.",
+          "Lee la descripción completa: composición, forro y lavado. Un abrigo que solo se lava en seco y no tiene forro no es una buena sorpresa al abrir la caja.",
+          "Guarda la confirmación y el seguimiento: con ellos se gestionan la devolución y el aviso de paquete perdido."
+        ],
+        "postParagraphs": [
+          "El 4CW5Y no es un cupón ni da descuento: es el código de referido de SHEIN, que se busca en la barra de búsqueda de la app, y no suma con nada. Las reglas de la tienda están en la [página de SHEIN](/es/coupons/shein). Quién opera la tienda y su reputación están en [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "Modelo con el abrigo largo de lana MOTF PREMIUM crema, abierto sobre camisa blanca y short beige, con botas estampadas",
+            "caption": "Foto oficial de SHEIN. La descripción avisa lo que la foto no dice: solo lavado en seco y sin forro.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Para quién vale la pena",
+        "bullets": [
+          "Para lo básico de todos los días, como camiseta, leggings y calcetines: vale la pena, en un pedido que supere el mínimo del envío gratis.",
+          "Para la prenda de ocasión con un mes de margen: vale la pena, si lees la descripción y la guía de tallas de la prenda.",
+          "Para quien tiene una fecha fija: sin envío local, mejor pasar.",
+          "Para la prenda cara, de lana o de corte sastre: vale la pena solo para quien ya sabe su talla y acepta devolverla en lugar de probársela.",
+          "Para quien necesita probársela antes: no."
+        ],
+        "emphasis": "Si fuera para mi casa, me llevaría la camiseta básica; el abrigo de lana lo dejaría en la tienda."
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿SHEIN vale la pena? Vale para la prenda cuya talla conoces y que puede esperar; el apartado «Para quién vale la pena» dice para qué compras sí y para cuáles no.",
+          "¿Vale la pena SHEIN para ropa cara? Solo para quien ya sabe su talla y acepta devolver en lugar de probar.",
+          "¿SHEIN todavía vale la pena? Sí, para el pedido que supera el mínimo del envío gratis; fuera de eso, deciden el plazo y la descripción de la prenda.",
+          "¿Se puede cambiar de talla en SHEIN? Depende del país: la política de devolución y cambio de cada uno está en el centro de ayuda de SHEIN.",
+          "¿El 4CW5Y da descuento en SHEIN? No: es un código de referido, que se busca en la app; no es un cupón y no suma con nada."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Ya conoces la medida de la prenda en centímetros y puedes esperar la entrega que muestra la página del producto.",
+        "El pedido junta básicos que comprarías de todos modos y supera el mínimo del envío gratis.",
+        "La descripción de la prenda trae composición, forro y lavado, y nada de eso te sorprende."
+      ],
+      "skipIf": [
+        "La prenda tiene que llegar en una fecha fija y no tiene envío local: el procesamiento y la entrega rara vez caben en una semana.",
+        "Necesitas probártela antes de comprar: si no te queda, el camino es la devolución.",
+        "La prenda es cara y no leíste el lavado ni el forro: un abrigo que solo se lava en seco y no tiene forro es compra solo para quien ya sabe lo que quiere."
+      ]
+    }
+  },
+  {
+    "id": 797,
+    "slug": "shein-ca-vaut-le-coup",
+    "locale": "fr",
+    "translationKey": "shein-vale-a-pena",
+    "title": "SHEIN vaut-il le coup ? Quand acheter et quand passer son tour",
+    "seoTitle": "SHEIN, ça vaut le coup ? Délais, retours et points à vérifier",
+    "type": "Guide d'achat",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN vaut le coup pour un vêtement dont vous connaissez la taille et qui peut attendre. Délai, retour et fiche de chaque article disent quand acheter et quand passer.",
+    "metaDescription": "SHEIN vaut le coup pour une pièce à taille connue, sans urgence. Cherchez 4CW5Y dans l'appli SHEIN : code de parrainage, sans réduction. Livraison, retour.",
+    "publishedAt": "4 novembre 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "T-shirt henley bleu marine, short imprimé et lunettes de soleil sur les photos officielles de SHEIN, avec le logo de la boutique et des icônes prix, livraison, reçu et retour",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Aller sur SHEIN",
+      "text": "Avant de payer, vérifiez sur la page de commande les frais de port, le délai et les taxes. Le 4CW5Y est un code de parrainage : cherchez-le dans l'appli, sans réduction.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Nous pouvons toucher une commission sur les liens SHEIN. Personne de l'équipe n'a acheté les pièces.",
+    "relatedArticles": [
+      {
+        "slug": "shein-est-il-fiable-et-sur",
+        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+      },
+      {
+        "slug": "tailles-shein",
+        "title": "Tailles SHEIN : quelle taille commander et comment lire le guide de chaque article"
+      },
+      {
+        "slug": "code-de-parrainage-shein-ou-le-mettre",
+        "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser"
+      },
+      {
+        "slug": "robe-de-soiree-shein",
+        "title": "Robe de soirée sur SHEIN : comment choisir selon l'occasion, le tissu et le délai"
+      },
+      {
+        "slug": "shein-avis-trustpilot",
+        "title": "SHEIN sur Trustpilot : note, plaintes et ce que montrent les chiffres"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "C'est intéressant pour un vêtement dont vous connaissez déjà la taille et que vous pouvez attendre. Pour un achat urgent, ou pour une pièce qu'il faut essayer, non. Ce qui décide, c'est le délai affiché sur la page du produit pour votre adresse."
+        ]
+      },
+      {
+        "heading": "Quand ça vaut le coup, et quand non",
+        "paragraphs": [
+          "Ça vaut le coup quand trois conditions sont réunies : vous connaissez la taille, vous n'êtes pas pressé et la commande atteint le montant à partir duquel la boutique livre gratuitement. SHEIN propose un catalogue immense et des prix bas, et cela a un prix que la page n'affiche pas : du temps et de l'attention pour lire la description. Une commande internationale met quelques jours rien que pour quitter l'entrepôt, puis vient la livraison. L'article arrive sans essayage : s'il ne vous va pas, la solution est le retour décrit dans le centre d'aide de la boutique.",
+          "Pour qui : la pièce de base que vous achetez toujours, comme un t-shirt, des leggings ou un pyjama, et la tenue de cérémonie avec un mois devant soi. Quand non : un cadeau pour la semaine prochaine, une tenue pour un événement à date fixe et toute pièce chère qu'il faut voir sur soi avant de décider.",
+          "La décision se prend sur la page du produit, avant le panier : c'est là que figurent le mode d'expédition, le délai estimé et la composition. Le paiement ne fait que confirmer ce que vous deviez déjà savoir."
+        ]
+      },
+      {
+        "heading": "Délai : combien attendre",
+        "paragraphs": [
+          "La date exacte figure sur la page du produit, avant le panier, et elle change selon votre adresse. Pour un vêtement à date fixe, ajoutez une semaine de marge au délai le plus long affiché, pour qu'un éventuel retour ne se fasse pas dans l'urgence.",
+          "Quand non : une commande pour un cadeau à jour fixe, car le délai peut glisser."
+        ]
+      },
+      {
+        "heading": "Retours",
+        "paragraphs": [
+          "La politique de retour de votre pays figure dans le centre d'aide de SHEIN : lisez-la avant de commander, car le délai, le coût et ce qui ne se retourne pas changent le calcul.",
+          "Acheter pour essayer chez soi, comme dans une boutique physique, n'est pas le profil visé : ici, l'essayage se fait par les mensurations, dans le chapitre suivant."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "Illustration d'un écran de suivi de commande à côté d'un justificatif avec code-barres et d'une pièce avec la flèche de retour du remboursement",
+            "caption": "Gardez le numéro de suivi : le retour et le remboursement s'y rattachent.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Taille : les mensurations, pas la lettre",
+        "paragraphs": [
+          "Le M de SHEIN n'est pas votre M : chaque article a son propre guide des tailles en centimètres, et c'est lui qui décide, pas la lettre. Règle pratique, non testée par nous : mesurez un vêtement à vous qui vous va bien, à plat, et comparez-le à la mesure de l'article dans le guide, pas à vos propres mensurations ; la différence entre les deux, c'est l'aisance que vous aimez. Un article sans guide en centimètres, passez votre chemin. Ce qu'il faut mesurer selon le type de vêtement, et comment lire le guide de chaque produit, est dans le [guide des tailles SHEIN](/fr/reviews/tailles-shein)."
+        ]
+      },
+      {
+        "heading": "Avant de payer",
+        "bullets": [
+          "La page du produit indique le mode d'expédition et le délai ; vérifiez-les avant le panier.",
+          "Lisez toute la description : composition, doublure et entretien. Un manteau qui ne se nettoie qu'à sec et sans doublure n'est pas une bonne surprise à l'ouverture du colis.",
+          "Gardez la confirmation et le numéro de suivi : le retour et la déclaration de colis perdu s'y rattachent."
+        ],
+        "postParagraphs": [
+          "Le 4CW5Y n'est pas un coupon et n'offre aucune réduction : c'est le code de parrainage de SHEIN, qu'on cherche dans la barre de recherche de l'appli, et il ne se cumule avec rien. Les règles de la boutique sont sur la [page SHEIN](/fr/coupons/shein). Qui gère la boutique et quelle est sa réputation, c'est dans [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "Mannequin avec le long manteau en laine MOTF PREMIUM crème, ouvert sur une chemise blanche et un short beige, avec des bottes imprimées",
+            "caption": "Photo officielle de SHEIN. La description signale ce que la photo ne montre pas : nettoyage à sec uniquement et sans doublure.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Pour qui ça vaut le coup",
+        "bullets": [
+          "Pour les basiques du quotidien, comme t-shirts, leggings et chaussettes : oui, sur une commande qui dépasse le minimum de la livraison offerte.",
+          "Pour une pièce de cérémonie avec un mois devant soi : oui, si vous lisez la description et le guide des tailles de la pièce.",
+          "Pour qui a une date fixe : sans expédition locale, passez.",
+          "Pour une pièce chère, en laine ou de coupe tailleur : oui seulement pour qui connaît déjà sa taille et accepte de la renvoyer plutôt que de l'essayer.",
+          "Pour qui doit l'essayer avant : non."
+        ],
+        "emphasis": "Si c'était pour chez moi, je prendrais le t-shirt basique ; le manteau en laine, je le laisserais en boutique."
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "SHEIN vaut-il le coup ? Oui pour un article dont vous connaissez la taille et qui peut attendre ; la section « Pour qui ça vaut le coup » dit quels achats le justifient et lesquels non.",
+          "SHEIN vaut-il le coup pour des vêtements chers ? Seulement pour qui connaît sa taille et accepte un retour plutôt qu'un essayage.",
+          "SHEIN vaut-il toujours le coup ? Oui, pour une commande qui dépasse le minimum de la livraison offerte ; sinon, le délai et la description de l'article décident.",
+          "Peut-on échanger une taille chez SHEIN ? Cela dépend du pays : la politique de retour et d'échange de chacun figure dans le centre d'aide de SHEIN.",
+          "Le 4CW5Y donne-t-il une réduction chez SHEIN ? Non : c'est un code de parrainage, à chercher dans l'appli ; ce n'est pas un coupon et il ne se cumule avec rien."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Vous connaissez déjà la taille de la pièce en centimètres et pouvez attendre la livraison affichée sur la page du produit.",
+        "La commande regroupe des basiques que vous achèteriez de toute façon et dépasse le minimum de la livraison offerte.",
+        "La description de l'article donne la composition, la doublure et l'entretien, et rien de tout cela ne vous surprend."
+      ],
+      "skipIf": [
+        "La pièce doit arriver à une date fixe et n'a pas d'expédition locale : la préparation et la livraison tiennent rarement dans une semaine.",
+        "Vous devez l'essayer avant d'acheter : si elle ne vous va pas, la solution est le retour.",
+        "La pièce est chère et vous n'avez vérifié ni l'entretien ni la doublure : un manteau qui ne se nettoie qu'à sec et sans doublure ne convient qu'à qui sait déjà ce qu'il veut."
+      ]
+    }
+  },
+  {
+    "id": 798,
+    "slug": "lohnt-sich-shein",
+    "locale": "de",
+    "translationKey": "shein-vale-a-pena",
+    "title": "Lohnt sich SHEIN? Wann sich der Kauf rechnet und wann Sie besser verzichten",
+    "seoTitle": "Lohnt sich SHEIN? Lieferzeit, Rückgabe, Check vor dem Kauf",
+    "type": "Kaufratgeber",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN lohnt sich für ein Teil, dessen Größe Sie kennen und das warten kann. Lieferzeit, Rückgabe und Angaben zu jedem Artikel zeigen, wann Sie kaufen sollten und wann nicht.",
+    "metaDescription": "SHEIN lohnt sich für Teile mit bekannter Größe und ohne Eile. Suchen Sie 4CW5Y in der SHEIN-App: Empfehlungscode, kein Rabatt. Lieferung und Rückgabe.",
+    "publishedAt": "4. November 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "Dunkelblaues Henley-Shirt, bedruckte Shorts und Sonnenbrille auf offiziellen SHEIN-Fotos, mit Shop-Logo und Symbolen für Preis, Lieferung, Beleg und Rückgabe",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Zu SHEIN",
+      "text": "Prüfen Sie vor dem Bezahlen auf der Bestellseite Versand, Lieferzeit und Abgaben. Der 4CW5Y ist ein Empfehlungscode: in der App suchen, ohne Rabatt.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Wir können eine Provision für Links zu SHEIN erhalten. Niemand aus unserem Team hat die Teile gekauft.",
+    "relatedArticles": [
+      {
+        "slug": "ist-shein-serioes-und-sicher",
+        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+      },
+      {
+        "slug": "shein-groessen",
+        "title": "Größen bei SHEIN: welche Größe bestellen und wie Sie den Guide jedes Artikels lesen"
+      },
+      {
+        "slug": "shein-empfehlungscode-wo-eingeben",
+        "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert"
+      },
+      {
+        "slug": "partykleid-shein",
+        "title": "Partykleid bei SHEIN: so wählen Sie nach Anlass, Stoff und Lieferzeit"
+      },
+      {
+        "slug": "shein-trustpilot-bewertungen",
+        "title": "SHEIN auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Kurzantwort",
+        "paragraphs": [
+          "Es lohnt sich für ein Teil, dessen Größe Sie schon kennen und dessen Lieferung Sie abwarten können. Für einen eiligen Kauf oder ein Teil, das Sie anprobieren müssen, lohnt es sich nicht. Entscheidend ist die Lieferzeit, die die Produktseite für Ihre Adresse anzeigt."
+        ]
+      },
+      {
+        "heading": "Wann es sich lohnt und wann nicht",
+        "paragraphs": [
+          "Es lohnt sich, wenn drei Dinge zusammenkommen: Sie kennen die Größe, Sie haben keine Eile, und die Bestellung erreicht einen Betrag, ab dem der Shop kostenlos liefert. SHEIN hat einen riesigen Katalog und niedrige Preise, und das kostet etwas, das die Seite nicht zeigt: Zeit und Aufmerksamkeit für die Beschreibung. Eine internationale Bestellung braucht schon ein paar Tage, bis sie das Lager verlässt, dann folgt die Lieferung. Anprobiert wird erst zu Hause: Passt es nicht, bleibt die Rückgabe, die der Shop im Hilfecenter beschreibt.",
+          "Für wen: das Basisteil, das Sie ohnehin regelmäßig kaufen, etwa T-Shirt, Leggings oder Schlafanzug, und das Anlassteil mit einem Monat Vorlauf. Wann nicht: ein Geschenk für die kommende Woche, Kleidung für einen Termin mit festem Datum und jedes teure Teil, das Sie vorher am Körper sehen müssen.",
+          "Die Entscheidung fällt auf der Produktseite, vor dem Warenkorb: Dort stehen Versandart, voraussichtliche Lieferzeit und Material. Der Checkout bestätigt nur, was Sie schon wissen sollten."
+        ]
+      },
+      {
+        "heading": "Lieferzeit: wie lange Sie warten",
+        "paragraphs": [
+          "Die genaue Angabe steht auf der Produktseite vor dem Warenkorb und hängt von Ihrer Adresse ab. Bei Kleidung mit Termin rechnen Sie zur längsten Angabe auf der Seite eine Woche Puffer dazu, damit eine Rückgabe nicht zur Hetze wird.",
+          "Wann nicht: eine Bestellung für ein Geschenk mit festem Tag, denn die Angabe kann sich verschieben."
+        ]
+      },
+      {
+        "heading": "Rückgabe",
+        "paragraphs": [
+          "Die Rückgabebedingungen für Ihr Land stehen im Hilfecenter von SHEIN. Lesen Sie sie vor der Bestellung, denn Frist, Kosten und das, was nicht zurückgenommen wird, verändern die Rechnung.",
+          "Wer bestellt, um zu Hause anzuprobieren wie im Geschäft vor Ort, ist hier falsch: Hier ersetzt das Maß die Anprobe, im nächsten Kapitel."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "Illustration eines Sendungsverfolgungsbildschirms neben einem Beleg mit Barcode und einer Münze mit Rückpfeil für die Erstattung",
+            "caption": "Bewahren Sie die Sendungsnummer auf: Rückgabe und Erstattung hängen daran.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Größe: die Maße, nicht der Buchstabe",
+        "paragraphs": [
+          "Das M von SHEIN ist nicht Ihr M: Jedes Teil hat seinen eigenen Größenguide in Zentimetern, und der entscheidet, nicht der Buchstabe. Faustregel, nicht von uns getestet: Messen Sie ein Kleidungsstück, das Ihnen gut passt, flach ausgelegt, und vergleichen Sie es mit dem Maß des Teils im Guide, nicht mit Ihren Körpermaßen; der Unterschied zwischen beiden ist die Weite, die Sie mögen. Ein Teil ohne Guide in Zentimetern lassen Sie besser liegen. Was Sie bei welcher Kleidungsart messen und wie Sie den Guide jedes Produkts lesen, steht im [SHEIN-Größenguide](/de/reviews/shein-groessen)."
+        ]
+      },
+      {
+        "heading": "Vor dem Bezahlen",
+        "bullets": [
+          "Die Produktseite nennt die Versandart und die voraussichtliche Lieferzeit; prüfen Sie beides vor dem Warenkorb.",
+          "Lesen Sie die ganze Beschreibung: Material, Futter und Pflege. Ein Mantel, der nur chemisch gereinigt werden darf und kein Futter hat, ist beim Öffnen des Pakets keine gute Überraschung.",
+          "Bewahren Sie Bestätigung und Sendungsnummer auf: Rückgabe und Meldung eines verlorenen Pakets hängen davon ab."
+        ],
+        "postParagraphs": [
+          "Der 4CW5Y ist kein Gutschein und gibt keinen Rabatt: Es ist der Empfehlungscode von SHEIN, den Sie in der Suchleiste der App eingeben, und er lässt sich mit nichts kombinieren. Die Regeln des Shops finden Sie auf der [SHEIN-Seite](/de/coupons/shein). Wer hinter dem Shop steht und wie es um dessen Ruf bestellt ist, erfahren Sie unter [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "Modell im cremefarbenen langen Wollmantel MOTF PREMIUM, offen über weißem Hemd und beigen Shorts, mit bedruckten Stiefeln",
+            "caption": "Offizielles SHEIN-Foto. Die Beschreibung nennt, was das Foto nicht zeigt: nur chemische Reinigung und kein Futter.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Für wen es sich lohnt",
+        "bullets": [
+          "Für Alltagsbasics wie T-Shirts, Leggings und Socken: lohnt sich bei einer Bestellung über dem Mindestbetrag für kostenlosen Versand.",
+          "Für ein Anlassteil mit einem Monat Vorlauf: lohnt sich, wenn Sie die Beschreibung und den Größenguide des Teils lesen.",
+          "Für alle mit festem Termin: ohne lokalen Versand lieber verzichten.",
+          "Für ein teures Teil aus Wolle oder mit Schneiderschnitt: nur für jene, die ihre Größe schon kennen und eine Rückgabe statt einer Anprobe in Kauf nehmen.",
+          "Für alle, die es vorher anprobieren müssen: nein."
+        ],
+        "emphasis": "Für mein eigenes Zuhause würde ich das Basic-T-Shirt nehmen; den Wollmantel würde ich im Laden hängen lassen."
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Lohnt sich SHEIN? Ja, für ein Teil, dessen Größe man kennt und das warten kann; der Abschnitt „Für wen es sich lohnt“ sagt, welche Käufe sich lohnen und welche nicht.",
+          "Lohnt sich SHEIN auch für teure Kleidung? Nur für jene, die ihre Größe kennen und eine Rückgabe statt einer Anprobe akzeptieren.",
+          "Lohnt sich SHEIN noch? Ja, bei einer Bestellung über dem Mindestbetrag für kostenlosen Versand; sonst entscheiden Lieferzeit und Beschreibung des Teils.",
+          "Kann man bei SHEIN die Größe tauschen? Das hängt vom Land ab: Die Rückgabe- und Umtauschregeln stehen im Hilfecenter von SHEIN.",
+          "Gibt der 4CW5Y bei SHEIN Rabatt? Nein: Es ist ein Empfehlungscode, den man in der App sucht. Er ist kein Gutschein und lässt sich mit nichts kombinieren."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Sie kennen die Größe des Teils in Zentimetern und können auf die Lieferung warten, die die Produktseite anzeigt.",
+        "Die Bestellung bündelt Basics, die Sie ohnehin kaufen würden, und liegt über dem Mindestbetrag für kostenlosen Versand.",
+        "Die Beschreibung nennt Material, Futter und Pflege, und nichts davon überrascht Sie."
+      ],
+      "skipIf": [
+        "Das Teil muss an einem festen Datum ankommen und hat keinen lokalen Versand: Bearbeitung und Lieferung passen selten in eine Woche.",
+        "Sie müssen es vor dem Kauf anprobieren: Passt es nicht, bleibt nur die Rückgabe.",
+        "Das Teil ist teuer und Sie haben Pflege und Futter nicht gelesen: Ein Mantel, der nur chemisch gereinigt werden darf und kein Futter hat, ist nur etwas für Leute, die schon wissen, was sie wollen."
+      ]
+    }
+  },
+  {
+    "id": 799,
+    "slug": "shein-conviene",
+    "locale": "it",
+    "translationKey": "shein-vale-a-pena",
+    "title": "SHEIN conviene? Quando vale la pena comprare e quando è meglio lasciar perdere",
+    "seoTitle": "SHEIN conviene? Spedizione, resi e cosa controllare prima",
+    "type": "Guida all'acquisto",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN conviene per un capo di cui conosci la taglia e che può aspettare la consegna. Tempi, resi e scheda di ogni articolo mostrano quando comprare e quando passare.",
+    "metaDescription": "SHEIN conviene per capi di taglia nota e senza fretta. Cerca 4CW5Y nell'app SHEIN: codice invito, nessuno sconto. Spedizione, tempi e resi.",
+    "publishedAt": "4 novembre 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "Maglia henley blu navy, shorts stampati e occhiali da sole nelle foto ufficiali SHEIN, con il logo del negozio e le icone di prezzo, consegna, ricevuta e reso",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Vai su SHEIN",
+      "text": "Prima di pagare, controlla nella pagina dell'ordine spedizione, tempi e tasse. Il 4CW5Y è un codice invito: cercalo nell'app, senza sconto.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Potremmo ricevere una commissione sui link SHEIN. Nessuno del team ha acquistato i capi.",
+    "relatedArticles": [
+      {
+        "slug": "shein-e-affidabile-e-sicuro",
+        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+      },
+      {
+        "slug": "taglie-shein",
+        "title": "Taglie SHEIN: quale taglia ordinare e come leggere la guida di ogni capo"
+      },
+      {
+        "slug": "codice-invito-shein-dove-inserirlo",
+        "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
+      },
+      {
+        "slug": "abito-da-festa-shein",
+        "title": "Abito da festa su SHEIN: come scegliere per occasione, tessuto e tempi di consegna"
+      },
+      {
+        "slug": "shein-recensioni-trustpilot",
+        "title": "SHEIN su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Conviene per un capo di cui conosci già la taglia e che puoi aspettare. Per un acquisto urgente o per un capo che devi provare, no. A decidere è il tempo di consegna che la pagina del prodotto mostra per il tuo indirizzo."
+        ]
+      },
+      {
+        "heading": "Quando conviene e quando no",
+        "paragraphs": [
+          "Conviene quando tre cose giocano a tuo favore: conosci la taglia, non hai fretta e l'ordine raggiunge un importo che il negozio spedisce gratis. SHEIN ha un catalogo enorme e prezzi bassi, e questo ha un costo che la pagina non mostra: tempo e attenzione nella descrizione. Un ordine internazionale impiega alcuni giorni solo a lasciare il magazzino, e la consegna arriva dopo. Il capo arriva senza averlo provato: se non ti va bene, la soluzione è il reso descritto nel centro assistenza del negozio.",
+          "Per chi: il basico che compri sempre, come t-shirt, leggings o pigiama, e il capo da occasione con un mese di margine. Quando no: un regalo per la settimana prossima, un abito per un evento con data fissa e qualsiasi capo costoso che devi vedere addosso prima di decidere.",
+          "La decisione si prende sulla pagina del prodotto, prima del carrello: lì ci sono il tipo di spedizione, il tempo di consegna previsto e la composizione. Il checkout conferma solo quello che dovresti già sapere."
+        ]
+      },
+      {
+        "heading": "Tempi: quanto aspettare",
+        "paragraphs": [
+          "La stima esatta è nella pagina del prodotto, prima del carrello, e cambia con il tuo indirizzo. Per l'abbigliamento con una data, aggiungi una settimana di margine al tempo più lungo indicato nella pagina, così un eventuale reso non diventa una corsa contro il tempo.",
+          "Quando no: un ordine per un regalo con giorno fisso, perché la stima può slittare."
+        ]
+      },
+      {
+        "heading": "Resi",
+        "paragraphs": [
+          "La politica di reso del tuo paese è nel centro assistenza di SHEIN: leggila prima di ordinare, perché termini, costi e ciò che non si può restituire cambiano il conto.",
+          "Chi compra per provare a casa, come in un negozio fisico, non è il profilo giusto: qui la prova la fanno le misure, nel capitolo successivo."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "Illustrazione di una schermata di tracciamento dell'ordine accanto a una ricevuta con codice a barre e a una moneta con la freccia del rimborso",
+            "caption": "Conserva il tracciamento: reso e rimborso passano da lì.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "Taglia: le misure, non la lettera",
+        "paragraphs": [
+          "La M di SHEIN non è la tua M: ogni capo ha la sua guida alle taglie in centimetri, ed è quella a decidere, non la lettera. Regola pratica, non testata da noi: misura un capo tuo che ti sta bene, disteso, e confrontalo con la misura del capo nella guida, non con le misure del tuo corpo; la differenza tra le due è l'ampiezza che ti piace. Un capo senza guida in centimetri è da lasciar perdere. Cosa misurare per ogni tipo di capo e come leggere la guida di ogni prodotto è nella [guida alle taglie SHEIN](/it/reviews/taglie-shein)."
+        ]
+      },
+      {
+        "heading": "Prima di pagare",
+        "bullets": [
+          "La pagina del prodotto indica il tipo di spedizione e il tempo di consegna; controllali prima del carrello.",
+          "Leggi la descrizione per intero: composizione, fodera e lavaggio. Un cappotto da lavare solo a secco e senza fodera non è una bella sorpresa quando apri la scatola.",
+          "Conserva la conferma e il tracciamento: su di essi si basano il reso e la segnalazione di pacco smarrito."
+        ],
+        "postParagraphs": [
+          "Il 4CW5Y non è un coupon e non dà sconti: è il codice invito di SHEIN, che si cerca nella barra di ricerca dell'app, e non si somma a nulla. Le regole del negozio sono nella [pagina SHEIN](/it/coupons/shein). Chi gestisce il negozio e che reputazione ha è in [SHEIN è affidabile?](/it/reviews/shein-e-affidabile-e-sicuro)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "Modella con il lungo cappotto di lana MOTF PREMIUM color crema, aperto su camicia bianca e shorts beige, con stivali stampati",
+            "caption": "Foto ufficiale SHEIN. La descrizione segnala ciò che la foto non mostra: solo lavaggio a secco e senza fodera.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "Per chi vale la pena",
+        "bullets": [
+          "Per il basico di tutti i giorni, come t-shirt, leggings e calzini: conviene, su un ordine sopra il minimo per la spedizione gratuita.",
+          "Per il capo da occasione con un mese di margine: conviene, se leggi la descrizione e la guida alle taglie del capo.",
+          "Per chi ha una data fissa: senza spedizione locale, lascia perdere.",
+          "Per il capo costoso, di lana o da sartoria: conviene solo a chi conosce già la taglia e accetta di restituirlo invece di provarlo.",
+          "Per chi deve provarlo prima: no."
+        ],
+        "emphasis": "Se fosse per casa mia, prenderei la t-shirt basica; il cappotto di lana lo lascerei in negozio."
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "SHEIN conviene? Sì per un capo di cui conosci la taglia e che può aspettare; la sezione «Per chi vale la pena» dice per quali acquisti sì e per quali no.",
+          "SHEIN conviene anche per i capi costosi? Solo a chi conosce la taglia e accetta di restituire invece di provare.",
+          "SHEIN conviene ancora? Sì, per un ordine sopra il minimo della spedizione gratuita; altrimenti decidono tempi di consegna e descrizione del capo.",
+          "Si può cambiare taglia su SHEIN? Dipende dal paese: la politica di reso e cambio di ciascuno è nel centro assistenza di SHEIN.",
+          "Il 4CW5Y dà sconto su SHEIN? No: è un codice invito, da cercare nell'app; non è un coupon e non si somma a nulla."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Conosci già la taglia del capo in centimetri e puoi aspettare la consegna che mostra la pagina del prodotto.",
+        "L'ordine raccoglie basici che compreresti comunque e supera il minimo per la spedizione gratuita.",
+        "La descrizione riporta composizione, fodera e lavaggio, e niente di tutto questo ti sorprende."
+      ],
+      "skipIf": [
+        "Il capo deve arrivare in una data fissa e non ha spedizione locale: lavorazione e consegna raramente entrano in una settimana.",
+        "Devi provarlo prima di comprare: se non ti va bene, la soluzione è il reso.",
+        "Il capo è costoso e non hai letto lavaggio né fodera: un cappotto da lavare solo a secco e senza fodera è un acquisto solo per chi sa già cosa vuole."
+      ]
+    }
+  },
+  {
+    "id": 800,
+    "slug": "shein-worth-it-ko",
+    "locale": "ko",
+    "translationKey": "shein-vale-a-pena",
+    "title": "SHEIN은 살 만할까요? 언제 사면 좋고 언제 건너뛰어야 할지",
+    "seoTitle": "SHEIN 살 만한가요? 배송, 반품, 결제 전에 볼 것",
+    "type": "구매 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "치수를 알고 있고 배송을 기다릴 수 있는 옷이라면 SHEIN은 살 만해요. 배송 기간, 반품, 상품 설명을 보면 언제 사고 언제 건너뛸지 알 수 있어요.",
+    "metaDescription": "치수를 알고 급하지 않은 옷이라면 SHEIN은 살 만해요. 앱 검색창에서 4CW5Y를 검색하세요. SHEIN 추천 코드이고 할인은 없어요. 배송과 반품도 확인하세요.",
+    "publishedAt": "2026년 11월 4일",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "SHEIN 공식 사진 속 네이비 헨리넥 티셔츠, 패턴 반바지, 선글라스. 쇼핑몰 로고와 가격, 배송, 영수증, 반품 아이콘이 함께 있어요",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "SHEIN으로 이동",
+      "text": "결제 전에 주문 화면에서 배송비, 배송 기간, 세금을 확인하세요. 4CW5Y는 추천 코드예요. 앱에서 검색해서 쓰고, 할인은 없어요.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN 링크로 수수료를 받을 수 있어요. 편집팀 중 누구도 이 옷들을 직접 사지 않았어요.",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ko",
+        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+      },
+      {
+        "slug": "shein-size-guide-ko",
+        "title": "SHEIN 사이즈 고르는 법: 상품별 사이즈 가이드 읽는 법"
+      },
+      {
+        "slug": "shein-referral-code-ko",
+        "title": "SHEIN 추천 코드: 입력하는 곳과 사용법"
+      },
+      {
+        "slug": "shein-party-dress-guide-ko",
+        "title": "SHEIN 파티 드레스: 행사, 소재, 배송 기간으로 고르는 법"
+      },
+      {
+        "slug": "shein-trustpilot-reviews-ko",
+        "title": "SHEIN(쉬인) Trustpilot 평점과 불만, 그리고 숫자가 보여주는 것"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "빠른 답",
+        "paragraphs": [
+          "치수를 이미 알고 배송을 기다릴 수 있는 옷이라면 살 만해요. 급하게 필요하거나 입어 보고 골라야 하는 옷이라면 추천하지 않아요. 판단 기준은 주소에 따라 상품 페이지에 뜨는 배송 예정일이에요."
+        ]
+      },
+      {
+        "heading": "언제 사면 좋고 언제 사지 말아야 할까",
+        "paragraphs": [
+          "세 가지가 맞으면 살 만해요. 치수를 알고, 급하지 않고, 주문 금액이 쇼핑몰의 무료배송 기준을 넘을 때예요. SHEIN은 상품이 아주 많고 가격도 낮아요. 대신 상품 설명을 꼼꼼히 읽는 데 시간과 주의가 필요해요. 해외 주문은 창고에서 출고되기까지 며칠 걸리고, 그 뒤에 배송이 시작돼요. 옷은 입어 보지 않은 채 받게 돼요. 맞지 않으면 고객센터에 나온 반품 절차를 따라야 해요.",
+          "이런 분께 맞아요: 늘 사는 기본 아이템(티셔츠, 레깅스, 잠옷)과 한 달 여유가 있는 행사용 옷. 맞지 않는 경우: 다음 주에 필요한 선물, 날짜가 정해진 행사 옷, 결정하기 전에 몸에 대 봐야 하는 비싼 옷.",
+          "결정은 장바구니에 담기 전에 상품 페이지에서 하세요. 배송 방식, 배송 예정일, 소재가 거기 나와 있어요. 결제 화면은 이미 알고 있어야 할 내용을 마지막으로 확인하는 곳일 뿐이에요."
+        ]
+      },
+      {
+        "heading": "배송: 얼마나 기다려야 할까",
+        "paragraphs": [
+          "정확한 예정일은 장바구니에 담기 전 상품 페이지에 나와 있고, 주소에 따라 달라져요. 날짜가 정해진 옷이라면 페이지에 나온 가장 긴 기간에 일주일 여유를 더하세요. 반품할 때 허둥대지 않으려면요.",
+          "맞지 않는 경우: 날짜를 정해 둔 선물 주문. 예정일이 밀릴 수 있어요."
+        ]
+      },
+      {
+        "heading": "반품",
+        "paragraphs": [
+          "거주 국가의 반품 정책은 SHEIN 고객센터에 있어요. 주문 전에 꼭 읽으세요. 기간, 비용, 반품되지 않는 상품에 따라 계산이 달라져요.",
+          "동네 가게에서처럼 집에서 입어 보고 사려는 분에게는 맞지 않아요. 여기서는 치수가 입어 보는 역할을 해요. 다음 장에서 이어 갈게요."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "주문 배송 조회 화면, 바코드가 있는 영수증, 환불 화살표가 그려진 동전 일러스트",
+            "caption": "배송 조회 번호를 보관하세요. 반품과 환불이 이 번호로 진행돼요.",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "사이즈: 글자보다 치수",
+        "paragraphs": [
+          "SHEIN의 M은 평소 입던 M과 같지 않을 수 있어요. 상품마다 센티미터로 된 사이즈 가이드가 있고, 기준은 글자가 아니라 그 가이드예요. 일반 기준(직접 테스트하지 않음): 평소 잘 맞는 옷을 평평하게 놓고 재서, 상품 사이즈 가이드의 치수와 비교하세요. 몸의 치수와 비교하는 게 아니에요. 두 치수의 차이가 평소 좋아하는 여유분이에요. 센티미터 사이즈 가이드가 없는 상품은 건너뛰세요. 옷 종류별로 재는 법과 상품별 사이즈 가이드 읽는 법은 [SHEIN 사이즈 가이드](/ko/reviews/shein-size-guide-ko)에 있어요."
+        ]
+      },
+      {
+        "heading": "결제 전에",
+        "bullets": [
+          "상품 페이지에서 배송 방식과 예정일을 확인하세요. 장바구니에 담기 전에 보는 게 좋아요.",
+          "상품 설명을 끝까지 읽으세요. 소재, 안감, 세탁 방법이에요. 드라이클리닝만 가능하고 안감이 없는 코트는 상자를 열었을 때 기분 좋은 놀람이 아니에요.",
+          "주문 확인과 배송 조회 번호를 보관하세요. 반품과 분실 신고가 이 자료로 진행돼요."
+        ],
+        "postParagraphs": [
+          "4CW5Y는 쿠폰이 아니고 할인도 없어요. SHEIN의 추천 코드로, 앱 검색창에서 검색해서 쓰는 거예요. 다른 혜택과는 함께 쓸 수 없어요. 쇼핑몰 규칙은 [SHEIN 페이지](/ko/coupons/shein)에서, 쇼핑몰 운영과 평판은 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko)에서 확인하세요."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "MOTF PREMIUM 크림색 롱 울 코트를 입은 모델. 흰 셔츠와 베이지 반바지 위에 앞을 열어 입었고, 패턴 부츠를 신었어요",
+            "caption": "SHEIN 공식 사진이에요. 상품 설명에는 사진이 말해 주지 않는 내용이 있어요. 드라이클리닝만 가능하고 안감이 없어요.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "이런 분께 맞아요",
+        "bullets": [
+          "매일 입는 기본 아이템(티셔츠, 레깅스, 양말): 무료배송 기준을 넘는 주문이라면 살 만해요.",
+          "한 달 여유가 있는 행사용 옷: 상품 설명과 사이즈 가이드를 읽고 사면 살 만해요.",
+          "날짜가 정해진 경우: 현지 발송이 아니라면 건너뛰세요.",
+          "비싼 울 제품이나 테일러드 옷: 치수를 알고, 입어 보는 대신 반품을 받아들일 수 있는 분께만 살 만해요.",
+          "사기 전에 꼭 입어 봐야 하는 분: 맞지 않아요."
+        ],
+        "emphasis": "저라면 기본 티셔츠는 사고, 울 코트는 가게에 두고 올 거예요."
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "SHEIN은 살 만한가요? 치수를 알고 배송을 기다릴 수 있는 옷이라면 살 만해요. '이런 분께 맞아요' 장에 무엇을 사고 무엇을 건너뛸지 나와 있어요.",
+          "SHEIN에서 비싼 옷도 살 만한가요? 치수를 알고, 입어 보는 대신 반품을 받아들일 수 있는 분께만 맞아요.",
+          "SHEIN은 아직도 살 만한가요? 네, 무료배송 기준을 넘는 주문이라면요. 그 밖에는 배송 기간과 상품 설명이 결정해요.",
+          "SHEIN에서 사이즈를 교환할 수 있나요? 나라마다 달라요. 교환과 반품 정책은 SHEIN 고객센터에 있어요.",
+          "4CW5Y로 SHEIN에서 할인을 받을 수 있나요? 아니요. 추천 코드라서 앱에서 검색해 쓰는 것이고, 쿠폰이 아니며 다른 혜택과도 함께 쓸 수 없어요."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "치수를 센티미터로 알고 있고, 상품 페이지에 나오는 배송 기간을 기다릴 수 있어요.",
+        "늘 사는 기본 아이템을 한 번에 담아서 무료배송 기준을 넘어요.",
+        "상품 설명에 소재, 안감, 세탁 방법이 나와 있어서 놀랄 일이 없어요."
+      ],
+      "skipIf": [
+        "날짜까지 꼭 도착해야 하는데 현지 발송이 아니에요. 주문 처리와 배송을 합쳐 일주일 안에 끝나는 경우는 드물어요.",
+        "사기 전에 입어 봐야 해요. 맞지 않으면 반품하게 돼요.",
+        "비싼 옷인데 세탁 방법과 안감을 확인하지 않았어요. 드라이클리닝만 가능하고 안감이 없는 코트는 무엇을 원하는지 분명한 사람이 사는 옷이에요."
+      ]
+    }
+  },
+  {
+    "id": 801,
+    "slug": "shein-worth-it-ja",
+    "locale": "ja",
+    "translationKey": "shein-vale-a-pena",
+    "title": "SHEINは買う価値がある？買うべきときと見送るべきとき",
+    "seoTitle": "SHEINは買う価値あり？配送、返品、購入前に確認すること",
+    "type": "購入ガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "サイズを把握していて、届くまで待てる服なら、SHEINは買う価値があります。配送日数、返品、各商品の説明を見れば、買うべきか見送るべきかがわかります。",
+    "metaDescription": "サイズが分かっていて急がない服なら、SHEINは買う価値あり。アプリの検索欄で4CW5Yを検索してください。紹介コードで、割引にはなりません。送料、配送日数、返品も確認を。",
+    "publishedAt": "2026年11月4日",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "SHEINの公式写真に写った紺のヘンリーネックTシャツ、柄のショートパンツ、サングラス。店のロゴと、価格・配送・領収書・返品のアイコン付き",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "SHEIN へ進む",
+      "text": "支払う前に、注文画面で送料、配送日数、税金を確認してください。4CW5Yは紹介コードです。アプリで検索して使うもので、割引にはなりません。",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEINのリンクから、コミッションを受け取る場合があります。編集部の誰もこれらの商品を購入していません。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-ja",
+        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+      },
+      {
+        "slug": "shein-size-guide-ja",
+        "title": "SHEINのサイズの選び方：商品ごとのサイズガイドの読み方"
+      },
+      {
+        "slug": "shein-referral-code-ja",
+        "title": "SHEINの紹介コード：入力する場所と使い方"
+      },
+      {
+        "slug": "shein-party-dress-guide-ja",
+        "title": "SHEINのパーティードレス：場面・生地・納期で選ぶ方法"
+      },
+      {
+        "slug": "shein-trustpilot-reviews-ja",
+        "title": "SHEIN の Trustpilot 評価：スコア、苦情、数字が示すこと"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "結論",
+        "paragraphs": [
+          "サイズを把握していて、届くまで待てる商品なら買う価値があります。急ぎの買い物や、試着してから選びたい商品は向きません。判断の決め手は、お届け先の住所に応じて商品ページに表示される配送日数です。"
+        ]
+      },
+      {
+        "heading": "買う価値があるときと、ないとき",
+        "paragraphs": [
+          "買う価値があるのは、3つがそろっているときです。サイズがわかっている、急いでいない、注文額が店の送料無料ラインを超えている。SHEINは商品数が非常に多く、価格も低めです。その代わり、商品説明を読むのに時間と注意が必要です。海外からの注文は、倉庫から出荷されるまでに数日かかり、その後に配送が始まります。服は試着せずに届きます。合わなければ、ヘルプセンターにある返品手続きになります。",
+          "向いているのは：いつも買う基本のアイテム（Tシャツ、レギンス、パジャマなど）と、1か月の余裕がある行事用の服。向かないのは：来週までに必要なプレゼント、日付が決まった行事の服、着てみて決めたい高価な服。",
+          "判断は、カートに入れる前に商品ページで行いましょう。配送方法、配送日数、素材はそこに出ています。注文画面は、知っておくべきことを最後に確認するだけの場所です。"
+        ]
+      },
+      {
+        "heading": "配送：どれくらい待つか",
+        "paragraphs": [
+          "正確な日数はカートに入れる前の商品ページにあり、住所によって変わります。日付が決まっている服なら、ページに出ている一番長い日数に1週間の余裕を足してください。返品の時に慌てないためです。",
+          "向かないのは：プレゼントを日付指定で注文する場合。配送日数がずれることがあるからです。"
+        ]
+      },
+      {
+        "heading": "返品",
+        "paragraphs": [
+          "お住まいの国の返品ポリシーは、SHEINのヘルプセンターにあります。注文前に読んでください。期限、送料、返品できない商品によって、損得が変わります。",
+          "店頭で試着してから買うように、家で試着して決めたい人には向きません。ここで試着の代わりをするのは、サイズの測り方です。次の章で説明します。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "注文の追跡画面と、バーコード付きの受領書、返金の戻り矢印が描かれたコインのイラスト",
+            "caption": "追跡番号は保管してください。返品と返金は、この番号で進みます。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "サイズ：文字ではなく寸法",
+        "paragraphs": [
+          "SHEINのMは、あなたのMとは限りません。商品ごとにセンチ表記のサイズガイドがあり、決めるのは文字ではなくそのガイドです。目安（当サイトでは未検証）：普段よく合う服を平らに置いて寸法を測り、商品のサイズガイドの寸法と比べてください。比べるのは体の寸法ではありません。その差が、あなたの好みのゆとりです。センチ表記のないサイズガイドの商品は見送ってください。服の種類ごとの測り方と、商品ごとのサイズガイドの読み方は[SHEINのサイズガイド](/ja/reviews/shein-size-guide-ja)にまとめています。"
+        ]
+      },
+      {
+        "heading": "購入前に",
+        "bullets": [
+          "商品ページで配送方法と配送日数を確認してください。カートに入れる前がタイミングです。",
+          "説明文を最後まで読んでください。素材、裏地、洗濯方法です。ドライクリーニングのみで裏地がないコートは、箱を開けて嬉しい驚きになることはありません。",
+          "注文確認と追跡番号は保管してください。返品や、荷物が届かなかった時の連絡に必要です。"
+        ],
+        "postParagraphs": [
+          "4CW5Yはクーポンではありません。割引にもならず、ほかの割引との併用もできません。SHEINの紹介コードで、アプリの検索欄で検索して使います。店のルールは[SHEINのページ](/ja/coupons/shein)に、店の運営と評判は[SHEINは信頼できる？](/ja/reviews/shein-trust-guide-ja)にあります。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "モデルがMOTF PREMIUMの長いウールコート（クリーム色）を羽織った姿。白いシャツとベージュのショートパンツの上で前を開け、柄入りのブーツを合わせています",
+            "caption": "SHEINの公式写真。説明文には、写真では分からないことが書かれています。ドライクリーニングのみで、裏地はありません。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "向いている人",
+        "bullets": [
+          "毎日の基本のアイテム（Tシャツ、レギンス、靴下）：送料無料ラインを超える注文なら買う価値あり。",
+          "1か月の余裕がある行事用の服：商品説明とサイズガイドを読んでから買う価値あり。",
+          "日付が決まっている人：現地発送でなければ見送り。",
+          "高価なウールや、仕立ての服：サイズがわかっていて、試着の代わりに返品を受け入れられる人だけ買う価値あり。",
+          "買う前に試着したい人：向きません。"
+        ],
+        "emphasis": "私の場合なら、基本のTシャツは買います。ウールのコートは見送ります。"
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEINは買う価値がある？サイズがわかっていて、届くまで待てる商品なら買う価値があります。「向いている人」の章に、買うべき場合と見送るべき場合が書かれています。",
+          "SHEINで高い服を買う価値はある？サイズがわかっていて、試着の代わりに返品を受け入れられる人だけです。",
+          "SHEINはまだ買う価値がある？はい、送料無料ラインを超える注文なら。それ以外は、配送日数と商品説明で決まります。",
+          "SHEINでサイズを交換できる？国によって違います。交換と返品のポリシーは、SHEINのヘルプセンターにあります。",
+          "4CW5Yで割引になる？なりません。紹介コードで、アプリで検索して使うものです。クーポンではなく、ほかの割引との併用もできません。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "サイズをセンチで把握していて、商品ページに出る配送日数を待てる。",
+        "どのみち買う基本のアイテムをまとめて注文し、送料無料ラインを超える。",
+        "商品説明に素材、裏地、洗濯方法が書いてあり、どれも驚きにならない。"
+      ],
+      "skipIf": [
+        "日付までに届く必要があるのに、現地発送ではない。注文処理と配送を合わせて1週間に収まることは、あまりありません。",
+        "買う前に試着が必要。合わなければ返品になる。",
+        "高価な服なのに、洗濯方法と裏地を確認していない。ドライクリーニングのみで裏地がないコートは、欲しいものが決まっている人の買い物です。"
+      ]
+    }
+  },
+  {
+    "id": 802,
+    "slug": "shein-worth-it-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-vale-a-pena",
+    "title": "SHEIN 值得買嗎？什麼時候買划算，什麼時候別買",
+    "seoTitle": "SHEIN 值得買嗎？運送時間、退貨與付款前要看的事",
+    "type": "購買指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "如果你知道衣服的尺碼，又能等待運送，SHEIN 就值得買。運送時間、退貨與每件商品的說明，能幫你判斷什麼時候買、什麼時候別買。",
+    "metaDescription": "尺碼已知、不急著要的衣服，SHEIN 值得買。在 SHEIN App 搜尋 4CW5Y，這是推薦碼，沒有折扣。另外也要看運費、運送時間與退貨。",
+    "publishedAt": "2026年11月4日",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "SHEIN 官方照片中的深藍色亨利領T恤、印花短褲與太陽眼鏡，附店家 logo，以及價格、運送、收據與退貨圖示",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "前往 SHEIN",
+      "text": "付款前，請在訂單頁面確認運費、運送時間與稅金。4CW5Y 是推薦碼：在 App 搜尋就好，沒有折扣。",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "我們可能會因 SHEIN 的連結獲得分潤。編輯團隊沒有人實際購買這些商品。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hant",
+        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+      },
+      {
+        "slug": "shein-size-guide-zh-hant",
+        "title": "SHEIN 尺碼怎麼選：如何看每件商品的尺碼表"
+      },
+      {
+        "slug": "shein-referral-code-zh-hant",
+        "title": "SHEIN 推薦碼：在哪裡輸入、怎麼用"
+      },
+      {
+        "slug": "shein-party-dress-guide-zh-hant",
+        "title": "SHEIN 派對禮服：依場合、布料與到貨時間怎麼選"
+      },
+      {
+        "slug": "shein-trustpilot-reviews-zh-hant",
+        "title": "SHEIN 在 Trustpilot 的評分、投訴，以及數據說明了什麼"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "如果你已經知道衣服尺碼，而且能等待運送，這樣的商品值得買。急著要的訂單，或需要試穿才能決定的衣服，就不建議。判斷的關鍵是商品頁面上顯示、送到你所在地址的運送時間。"
+        ]
+      },
+      {
+        "heading": "什麼時候划算，什麼時候不划算",
+        "paragraphs": [
+          "三件事同時成立，就值得買：你知道尺碼、不急著要，訂單金額能達到店家免運的門檻。SHEIN 的商品數量很多，價格也低，代價是得花時間和心力看商品說明。跨境訂單光是從倉庫出貨就要幾天，之後才開始配送。衣服送到前沒辦法試穿，如果不合身，就要照幫助中心說明的退貨流程辦理。",
+          "適合的情況：你平常一定會買的基本款，例如 T恤、緊身褲或睡衣，以及還有一個月時間的場合服飾。不適合的情況：下週就要的禮物、日期已定的活動服裝，以及任何貴到需要先穿在身上看過才決定的單品。",
+          "決定應該在商品頁面、加入購物車前完成。運送方式、預計送達時間與材質都在那裡。結帳頁面只是再確認一次你早就該知道的內容。"
+        ]
+      },
+      {
+        "heading": "運送：要等多久",
+        "paragraphs": [
+          "確切的時間在加入購物車前的商品頁面上，會因地址而不同。如果衣服有日期要求，就把頁面上最長的時間再加一週，讓退貨不會變得手忙腳亂。",
+          "不適合的情況：要送禮、而且日期已定的訂單，因為預計時間可能延後。"
+        ]
+      },
+      {
+        "heading": "退貨",
+        "paragraphs": [
+          "你所在國家的退貨政策，寫在 SHEIN 幫助中心。下單前請先讀，因為期限、費用和不能退的商品，都會影響划不划算。",
+          "如果你習慣像逛實體店一樣，在家試穿再決定，那這種方式不太適合。這裡代替試穿的是尺寸，下一章會說明。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "訂單追蹤畫面，旁邊是附條碼的收據，以及畫有退款回轉箭頭的硬幣插圖",
+            "caption": "請保存追蹤編號，退貨與退款都要靠它。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "尺碼：看公分，不看字母",
+        "paragraphs": [
+          "SHEIN 的 M 不一定是你的 M。每件商品都有自己的公分尺碼表，決定尺碼的是尺碼表，不是字母。經驗法則（未經我們實測）：把一件你穿起來很合身的衣服平放量尺寸，和商品尺碼表上的數字比較，不要和你身體的尺寸比。兩者的差距，就是你喜歡的寬鬆度。沒有公分尺碼表的商品就別買。各類衣服怎麼量，以及怎麼看每件商品的尺碼表，請看 [SHEIN 尺碼指南](/zh-hant/reviews/shein-size-guide-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "下單前",
+        "bullets": [
+          "在商品頁面確認運送方式與預計時間，加入購物車前先看。",
+          "把商品說明看完：材質、內裡與洗滌方式。只能乾洗又沒有內裡的大衣，開箱時可不是什麼好驚喜。",
+          "保存訂單確認與追蹤編號。退貨和包裹遺失申報，都要靠它們。"
+        ],
+        "postParagraphs": [
+          "4CW5Y 不是優惠券，也不提供折扣。它是 SHEIN 的推薦碼，在 App 的搜尋欄搜尋即可，不能和其他優惠併用。店家規則請看 [SHEIN 頁面](/zh-hant/coupons/shein)，店家經營與口碑請看 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "模特兒穿著米白色 MOTF PREMIUM 長版羊毛大衣，敞開搭配白襯衫與米色短褲，腳上是印花靴",
+            "caption": "SHEIN 官方照片。商品說明補充了照片沒有說明的內容：只能乾洗，而且沒有內裡。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "適合哪些人",
+        "bullets": [
+          "每天穿的基本款，例如 T恤、緊身褲、襪子：訂單超過免運門檻，就值得買。",
+          "還有一個月時間的場合服飾：看過商品說明與尺碼表再買，就值得。",
+          "有日期要求的人：沒有當地出貨就別買。",
+          "貴的羊毛或訂製剪裁單品：只適合已經知道尺寸，並且願意用退貨代替試穿的人。",
+          "下單前一定要試穿的人：不適合。"
+        ],
+        "emphasis": "如果是我，會買基本款的 T恤，羊毛大衣就留在店裡。"
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "SHEIN 值得買嗎？如果你知道尺碼，又能等待運送，就值得。“適合哪些人”一章會說明哪些買了划算，哪些不划算。",
+          "在 SHEIN 買貴的衣服值得嗎？只適合已經知道尺寸，並且願意用退貨代替試穿的人。",
+          "SHEIN 還值得買嗎？值得，前提是訂單超過免運門檻；其他情況，要看運送時間和商品說明。",
+          "SHEIN 可以換尺寸嗎？要看國家。各地的退換貨政策，都寫在 SHEIN 幫助中心。",
+          "4CW5Y 能在 SHEIN 打折嗎？不能。它是推薦碼，要在 App 搜尋，不是優惠券，也不能和其他優惠併用。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你知道衣服的公分尺碼，也能等待商品頁面上顯示的運送時間。",
+        "買的是你本來就會買的基本款，訂單超過免運門檻。",
+        "商品說明寫了材質、內裡與洗滌方式，對你來說沒有意外。"
+      ],
+      "skipIf": [
+        "日期前一定要送到，卻沒有當地出貨。下單處理加上運送，一週內很少能完成。",
+        "買之前必須試穿，不合身就得退貨。",
+        "是貴的單品，但你沒有看洗滌方式和內裡。只能乾洗又沒有內裡的大衣，只適合早就知道自己要什麼的人。"
+      ]
+    }
+  },
+  {
+    "id": 803,
+    "slug": "shein-worth-it-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-vale-a-pena",
+    "title": "SHEIN 值得买吗？什么时候买划算，什么时候别买",
+    "seoTitle": "SHEIN 值得买吗？配送时间、退货和付款前要看的内容",
+    "type": "购买指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "如果你知道衣服的尺码，又能等待配送，SHEIN 就值得买。配送时间、退货和每件商品的说明，能帮你判断什么时候买、什么时候别买。",
+    "metaDescription": "尺码已知、不着急的衣服，SHEIN 值得买。在 SHEIN App 搜索 4CW5Y，这是推荐码，没有折扣。另外也要看运费、配送时间和退货。",
+    "publishedAt": "2026年11月4日",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+    "imageAlt": "SHEIN 官方照片中的藏青色亨利领T恤、印花短裤和太阳镜，带店铺标志，以及价格、配送、收据和退货图标",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "前往 SHEIN",
+      "text": "付款前，请在订单页面确认运费、配送时间和税费。4CW5Y 是推荐码：在 App 搜索就行，没有折扣。",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "我们可能会因 SHEIN 的链接获得佣金。编辑团队没有人实际购买这些商品。",
+    "relatedArticles": [
+      {
+        "slug": "shein-trust-guide-zh-hans",
+        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+      },
+      {
+        "slug": "shein-size-guide-zh-hans",
+        "title": "SHEIN 尺码怎么选：如何看每件商品的尺码表"
+      },
+      {
+        "slug": "shein-referral-code-zh-hans",
+        "title": "SHEIN 推荐码：在哪里输入、怎么用"
+      },
+      {
+        "slug": "shein-party-dress-guide-zh-hans",
+        "title": "SHEIN 派对礼服：按场合、面料和到货时间怎么选"
+      },
+      {
+        "slug": "shein-trustpilot-reviews-zh-hans",
+        "title": "SHEIN 在 Trustpilot 的评分、投诉，以及数据说明了什么"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "如果你已经知道衣服尺码，并且能等待配送，这类商品值得买。着急要的订单，或需要试穿才能决定的衣服，就不推荐。判断的关键是商品页面上显示的、送到你所在地址的配送时间。"
+        ]
+      },
+      {
+        "heading": "什么时候划算，什么时候不划算",
+        "paragraphs": [
+          "三件事同时成立，就值得买：你知道尺码，不着急，订单金额能达到店铺包邮的门槛。SHEIN 的商品很多，价格也低，代价是要花时间和精力看商品说明。跨境订单光是从仓库发出就要几天，之后才开始配送。衣服送到前没法试穿，如果不合身，就要按帮助中心说明的退货流程办理。",
+          "适合的情况：你平时一定会买的基本款，例如 T恤、紧身裤或睡衣，以及还有一个月时间的场合服装。不适合的情况：下周就要的礼物、日期已定的活动服装，以及任何贵到需要先穿上身才能决定的单品。",
+          "决定应该在商品页面、加入购物车之前完成。配送方式、预计送达时间和材质都在那里。结账页面只是再确认一遍你早就该知道的内容。"
+        ]
+      },
+      {
+        "heading": "配送：要等多久",
+        "paragraphs": [
+          "准确的时间在加入购物车前的商品页面上，会随地址变化。如果衣服有日期要求，就把页面上最长的时间再加一周，让退货不会变得手忙脚乱。",
+          "不适合的情况：送礼且日期已定的订单，因为预计时间可能延后。"
+        ]
+      },
+      {
+        "heading": "退货",
+        "paragraphs": [
+          "你所在国家的退货政策，写在 SHEIN 帮助中心。下单前请先读，因为期限、费用和不能退的商品，都会影响划不划算。",
+          "如果你习惯像逛实体店那样在家试穿再决定，那 SHEIN 不太适合你。这里代替试穿的是尺码，下一章会讲。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+            "alt": "订单追踪界面，旁边是带条形码的收据，以及画有退款回转箭头的硬币插图",
+            "caption": "请保存追踪编号，退货和退款都要靠它。",
+            "objectFit": "contain",
+            "aspectRatio": 1.7778
+          }
+        ]
+      },
+      {
+        "heading": "尺码：看厘米，不看字母",
+        "paragraphs": [
+          "SHEIN 的 M 不一定是你的 M。每件商品都有自己的厘米尺码表，决定尺码的是尺码表，不是字母。经验法则（未经我们实测）：把一件你穿着很合身的衣服平放量尺寸，和商品尺码表上的数字比较，不要和你身体的尺寸比。两者的差距，就是你喜欢的宽松度。没有厘米尺码表的商品就别买。各类衣服怎么量，以及怎么看每件商品的尺码表，请看 [SHEIN 尺码指南](/zh-hans/reviews/shein-size-guide-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "付款前",
+        "bullets": [
+          "在商品页面确认配送方式和预计时间，加入购物车前先看。",
+          "把商品说明看完：材质、内里和洗涤方式。只能干洗又没有内里的大衣，开箱时可不是什么好惊喜。",
+          "保存订单确认和追踪编号。退货和包裹丢失申报，都要靠它们。"
+        ],
+        "postParagraphs": [
+          "4CW5Y 不是优惠券，也没有折扣。它是 SHEIN 的推荐码，在 App 的搜索栏搜索即可，不能和其他优惠叠加。店铺规则请看 [SHEIN 页面](/zh-hans/coupons/shein)，店铺运营和口碑请看 [SHEIN 靠谱吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+            "alt": "模特穿着米白色 MOTF PREMIUM 长款羊毛大衣，敞开搭配白衬衫和米色短裤，脚上是印花靴",
+            "caption": "SHEIN 官方照片。商品说明补充了照片没有说明的内容：只能干洗，而且没有内里。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7506
+          }
+        ]
+      },
+      {
+        "heading": "适合哪些人",
+        "bullets": [
+          "每天穿的基本款，例如 T恤、紧身裤、袜子：订单超过包邮门槛，就值得买。",
+          "还有一个月时间的场合服装：看过商品说明和尺码表再买，就值得。",
+          "有日期要求的人：没有当地发货就别买。",
+          "贵的羊毛或定制剪裁单品：只适合已经知道尺码，并且愿意用退货代替试穿的人。",
+          "下单前一定要试穿的人：不适合。"
+        ],
+        "emphasis": "如果是我，会买基本款的 T恤，羊毛大衣就留在店里。"
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "SHEIN 值得买吗？如果你知道尺码，又能等待配送，就值得。“适合哪些人”一章会说明哪些买了划算，哪些不划算。",
+          "在 SHEIN 买贵的衣服值得吗？只适合已经知道尺码，并且愿意用退货代替试穿的人。",
+          "SHEIN 还值得买吗？值得，前提是订单超过包邮门槛；其他情况要看配送时间和商品说明。",
+          "SHEIN 能换尺码吗？要看国家。各地的退换货政策，都写在 SHEIN 帮助中心。",
+          "4CW5Y 能在 SHEIN 打折吗？不能。它是推荐码，要在 App 搜索，不是优惠券，也不能和其他优惠叠加。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "你知道衣服的厘米尺码，也能等待商品页面上显示的配送时间。",
+        "买的是你本来就会买的基本款，订单超过包邮门槛。",
+        "商品说明写了材质、内里和洗涤方式，对你来说没有意外。"
+      ],
+      "skipIf": [
+        "日期前必须送到，却没有当地发货。下单处理加上配送，一周内很少能完成。",
+        "买之前必须试穿，不合身就得退货。",
+        "是贵的单品，但你没有看洗涤方式和内里。只能干洗又没有内里的大衣，只适合早就知道自己要什么的人。"
+      ]
+    }
+  },
+  {
+    "id": 804,
+    "slug": "tamanho-shein-brasil",
+    "locale": "pt",
+    "translationKey": "shein-tamanho",
+    "title": "Tamanho na SHEIN: qual letra pedir, o tamanho brasileiro e como ler o guia de cada peça",
+    "seoTitle": "Tamanho SHEIN: qual pedir e o tamanho brasileiro de cada peça",
+    "type": "Guia de Tamanho",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Na SHEIN a mesma letra muda de marca para marca: o M de duas camisetas difere 11 cm no busto. Por isso o tamanho sai da medida da peça em centímetros, não da letra de sempre.",
+    "metaDescription": "Tamanho na SHEIN: a letra muda de marca para marca; o 4CW5Y é código de indicação, pesquisado no app. Meça em centímetros e leia o guia de cada peça.",
+    "publishedAt": "4 de novembro de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "Camiseta azul-marinho, camiseta preta de costas e pijama verde estampado em fotos oficiais da SHEIN, com o logo da loja, as letras S, M e L e uma régua",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Ir para a SHEIN",
+      "text": "Abra o \"Guia de tamanhos\" da peça e compare a medida em centímetros com a sua antes de escolher a letra.",
+      "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Podemos receber comissão pelos links da SHEIN. Ninguém da equipe vestiu as peças.",
+    "relatedArticles": [
+      {
+        "slug": "shein-vale-a-pena",
+        "title": "SHEIN vale a pena? Quando compensa comprar e quando é melhor passar"
+      },
+      {
+        "slug": "vestido-de-festa-shein",
+        "title": "Vestido de festa na SHEIN: como escolher pela ocasião, pelo tecido e pelo prazo"
+      },
+      {
+        "slug": "shein-e-confiavel",
+        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+      },
+      {
+        "slug": "codigo-de-indicacao-shein",
+        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+      },
+      {
+        "slug": "shein-reclame-aqui-nota-reputacao",
+        "title": "SHEIN no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na SHEIN, o tamanho se escolhe pela medida em centímetros do guia de cada peça, nunca pela letra de sempre: o M muda de uma marca para outra. Meça o corpo e compare com a peça. Se não servir, a saída é a devolução; o capítulo \"Se não servir\" diz como."
+        ]
+      },
+      {
+        "heading": "A mesma letra muda de marca para marca",
+        "paragraphs": [
+          "Você veste M, pediu M, e a camiseta chegou de outro tamanho: na SHEIN, a letra não serve de régua. A plataforma vende marcas diferentes, e cada marca mede o M do seu jeito. Duas camisetas lisas de manga curta mostram o tamanho do problema."
+        ],
+        "comparisonTable": {
+          "caption": "Busto da peça no tamanho M internacional, pelo \"Guia de tamanhos\" de cada página; o guia inteiro da DAZY está mais abaixo.",
+          "headers": [
+            "Camiseta",
+            "Busto da peça no M",
+            "Letra brasileira do M",
+            "Tipo de ajuste",
+            "Elasticidade",
+            "Tecido"
+          ],
+          "rows": [
+            [
+              "[Camiseta DAZY de manga curta](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "PP",
+              "Regular",
+              "Pouco",
+              "100% algodão"
+            ],
+            [
+              "[Camiseta SHEIN Essnce lisa](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "M",
+              "Entre skinny e regular",
+              "Muito",
+              "95% viscose e 5% elastano"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa: pelas medidas da peça nos dois guias, o M da DAZY tem 11 cm a mais de busto que o M da Essnce, quase o busto do XL dela. A loja informa: a própria página da DAZY avisa que a marca \"segue tamanhos asiáticos e é menor do que SHEIN\". Por isso o seletor de tamanho tem a opção \"BR Tamanho\", que mostra a letra daqui ao lado da internacional: o M da DAZY vira PP no Brasil, e o M da Essnce continua M.",
+          "O que isso muda na compra: cada peça tem o próprio guia, e é ele que vale. O jeito de não errar é fechar os olhos para a letra, abrir o \"Guia de tamanhos\" e comparar centímetro com centímetro. Os dois capítulos seguintes mostram como: primeiro o seu corpo, depois o guia."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "Modelo com a camiseta DAZY azul-marinho de manga curta e gola redonda, de frente, com calça preta e bolsa no ombro",
+            "caption": "Camiseta DAZY: a página avisa que a marca \"é menor do que SHEIN\". Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "Modelo com a camiseta preta SHEIN Essnce de manga curta e gola redonda, de frente, com calça jeans e cinto",
+            "caption": "Camiseta SHEIN Essnce: o M dela tem busto menor que o da DAZY. Foto oficial da SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "Como medir o corpo",
+        "paragraphs": [
+          "Antes de abrir qualquer guia, você precisa de três números seus: busto, cintura e quadril. Regra prática, sem teste nosso: use fita métrica de costura, sobre roupa leve, com a fita encostada na pele sem apertar. Onde passar a fita em cada medida:"
+        ],
+        "bullets": [
+          "Busto: na parte mais cheia, com a fita reta, passando por baixo dos braços e nas costas na mesma altura.",
+          "Cintura: no ponto mais fino do tronco, em geral um pouco acima do umbigo, respirando normalmente.",
+          "Quadril: na parte mais larga do quadril, com os pés juntos."
+        ],
+        "postParagraphs": [
+          "Anote os três em centímetros. O guia da SHEIN mostra as medidas em centímetros e em polegadas, e o botão \"Alterne para\" troca entre BR Tamanho, IN e CM; para comparar, fique no CM. O próprio guia traz a explicação de como medir: se o seu jeito de medir for o dele, a comparação sai certa. Para camiseta, blusa e vestido, o busto decide; para calça e saia, a cintura e o quadril. Na dúvida entre dois números seus, use o maior: a sobra se ajeita, a falta não."
+        ]
+      },
+      {
+        "heading": "Como ler o guia da peça: medida da peça, medida do corpo e folga",
+        "paragraphs": [
+          "O que decide a letra é saber qual tabela você está olhando, porque o guia da SHEIN pode trazer duas. \"Medições do produto\" é a roupa medida na mesa: o busto da camiseta DAZY no M é a medida da roupa, não a do seu corpo. \"Medições corporais\", quando a peça tem, é a faixa de corpo que a marca indica para cada letra, e a própria nota diz que ela é só para referência. Algumas peças só trazem a da roupa, como a Essnce; aí a comparação é direta entre a sua medida e a medida da peça, e a folga fica por sua conta."
+        ],
+        "comparisonTable": {
+          "caption": "\"Guia de tamanhos\" da camiseta DAZY, lido em 04/11/2026, em centímetros: medida da peça à esquerda (busto e comprimento; ombro e manga ficaram de fora), faixa do corpo à direita.",
+          "headers": [
+            "BR",
+            "Letra",
+            "Busto da peça",
+            "Comprimento",
+            "Altura",
+            "Busto do corpo",
+            "Cintura",
+            "Quadril"
+          ],
+          "rows": [
+            [
+              "XXPP",
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "XPP",
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "PP",
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "P",
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "M",
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "G",
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A folga é a diferença entre a peça e o seu corpo, e ela conta a modelagem antes de você vestir. Pela mesma conta, com o guia da DAZY, o M é indicado para busto de 82 a 86 cm. Sobram de 7 a 11 cm de folga numa camiseta de ajuste regular e elasticidade \"Pouco\". Quando só existe a medida da peça, a elasticidade faz o papel da folga: na Essnce, de elasticidade \"Muito\", a modelo da página veste o S, que mede 78 cm, 9 cm a menos que o busto dela.",
+          "O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade \"Não\" ou \"Pouco\" pede folga, e no limite a letra de cima; tecido \"Médio\" ou \"Muito\" pede a letra da sua medida, porque folga grande numa peça que estica vira roupa larga."
+        ]
+      },
+      {
+        "heading": "O que mais a página mostra: a modelo e quem comprou",
+        "paragraphs": [
+          "Depois da medida, o que mais ajuda é a tabela de quem comprou, porque ela mostra gente de verdade: altura, peso, busto, cintura, quadril e a letra que cada uma pediu. Procure ali alguém com as suas medidas e veja o que pediu. Logo acima dela vem \"Como o comprador avaliou o look\", em porcentagem: na DAZY, 93% acharam fiel ao tamanho, 6% acharam pequeno e 1% grande; na Essnce, a página diz que 95% acharam fiel ao tamanho. Um número alto de \"pequeno\" é aviso para a letra de cima.",
+          "A modelo serve de régua de altura. Na DAZY, ela tem 176 cm e 87 cm de busto e veste o M internacional (o PP brasileiro); na Essnce, 175 cm e 87 cm de busto, no S (o P brasileiro). Mesmo busto, letras diferentes, nas duas marcas: é o capítulo da letra outra vez. O botão \"Tamanho e ajuste\" mostra essas medidas da modelo na própria página.",
+          "Abaixo das letras, algumas páginas trazem o link \"Diga-me o seu tamanho\"; a página de ajuda da SHEIN chama o recurso de \"Verificar meu tamanho\" e diz que ele pede altura, idade e peso para sugerir uma letra. Com login, a sugestão aparece sozinha em algumas peças. Use como segunda opinião, nunca no lugar da fita: ele não pergunta o seu busto nem a sua cintura, e é nisso que a letra muda."
+        ]
+      },
+      {
+        "heading": "Envio Nacional: a letra brasileira e a tabela do vendedor",
+        "paragraphs": [
+          "Na peça de loja parceira local, a letra pode vir só na forma brasileira, sem a internacional ao lado, e quem decide é a tabela da loja. No vestido midi de alfaiataria de uma loja parceira, as letras vão de P a GG, e a tabela está numa foto da galeria do produto: busto, cintura, quadril e comprimento, com 92 cm de busto no M. Outro M, outro número: compare com a sua medida do mesmo jeito, e lembre que ali é a medida da peça.",
+          "Para quem o Envio Nacional serve: quem quer a letra que já conhece e o prazo curto. Quando não: se a página não mostra tabela nenhuma, nem na galeria, não escolha pela letra; procure a peça em outra loja da plataforma."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-tabela-loja-parceira.webp",
+            "alt": "Tabela de medidas de uma loja parceira de Envio Nacional: busto, cintura, quadril e comprimento do vestido em P, M, G e GG",
+            "caption": "A tabela da loja vem numa foto da galeria, com a letra brasileira. Foto da loja parceira na SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-vestido-loja-parceira.webp",
+            "alt": "Modelo com o vestido midi de alfaiataria terracota, sem manga, com amarração na cintura e fenda, diante do espelho",
+            "caption": "O vestido da tabela acima, de loja parceira. Foto da loja parceira na SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.8
+          }
+        ]
+      },
+      {
+        "heading": "Se não servir: a devolução",
+        "paragraphs": [
+          "Errar a letra custa o tempo de duas entregas: a peça volta antes de a certa chegar, e é por isso que a fita vem antes do pedido. No Brasil, a política não prevê troca: quem errou a letra devolve a peça, recebe o reembolso e faz um pedido novo com a letra certa.",
+          "A devolução é em até 20 dias do recebimento. A primeira devolução de cada pedido é grátis; da segunda em diante, a SHEIN desconta R$ 45 do reembolso. Body, roupa de banho e roupa íntima só voltam nos 7 dias do direito de arrependimento, então nessas a medida pede ainda mais cuidado. A devolução e a reputação da loja estão em [SHEIN é confiável?](/reviews/shein-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Antes de comprar",
+        "paragraphs": [
+          "A letra se decide antes do carrinho, nesta ordem:"
+        ],
+        "bullets": [
+          "Meça busto, cintura e quadril e anote em centímetros.",
+          "Abra o \"Guia de tamanhos\" da peça e deixe em CM; o \"BR Tamanho\" mostra a letra daqui ao lado da internacional.",
+          "Veja se a tabela é da peça ou do corpo. Compare com a sua medida e conte a folga.",
+          "Leia o tipo de ajuste e a elasticidade: tecido que não estica pede folga; tecido que estica, a letra da sua medida.",
+          "Confira \"Como o comprador avaliou o look\" e procure, na tabela de compradores, alguém com as suas medidas.",
+          "Em peça de Envio Nacional, procure a tabela do vendedor na galeria de fotos.",
+          "Conte com 1 a 2 cm de variação na peça e com a mudança depois da lavagem.",
+          "Guarde a confirmação do pedido e o rastreio: é com eles que a devolução anda, se a peça não servir."
+        ],
+        "postParagraphs": [
+          "Prazo, frete, imposto de importação e o que conferir antes de pagar estão em [SHEIN vale a pena?](/reviews/shein-vale-a-pena). O 4CW5Y é o código de indicação da SHEIN: pesquisa-se no aplicativo, não é cupom e não dá desconto; as campanhas do momento ficam na [página da SHEIN](/cupons/shein)."
+        ]
+      },
+      {
+        "heading": "Qual letra pedir: o resumo por situação",
+        "bullets": [
+          "Tecido sem elastano, elasticidade \"Não\" ou \"Pouco\" (a camiseta DAZY): a letra cuja medida da peça dá a folga que você usa; se a sua medida cai no limite, a de cima.",
+          "Tecido com elastano, elasticidade \"Médio\" ou \"Muito\", e só a medida da peça no guia (a Essnce): a letra cuja medida fica igual ou abaixo da sua, como faz a modelo da página.",
+          "Marca que a página avisa ser menor (a DAZY): leia a tabela do corpo da própria marca, não a sua letra de sempre; o \"BR Tamanho\" já faz a conversão no seletor.",
+          "Envio Nacional: a tabela do vendedor, com a letra brasileira.",
+          "Entre duas letras e sem certeza: a que a tabela de compradores com as suas medidas pediu; sem ninguém parecido, a folga decide, pela regra do tecido."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu não pediria letra sem abrir o guia da peça, porque a mesma letra muda de marca para marca."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é o meu tamanho na SHEIN? O que o \"Guia de tamanhos\" da peça disser para a sua medida em centímetros; a letra muda de marca para marca, como mostram as duas camisetas do primeiro capítulo.",
+          "O M da SHEIN é o M brasileiro? Depende da marca: o seletor \"BR Tamanho\" mostra a letra daqui ao lado da internacional, e o M internacional da DAZY aparece como PP, enquanto o da SHEIN Essnce segue M.",
+          "Os tamanhos da SHEIN são pequenos? Não dá para responder pela letra: a página de cada peça mostra o tipo de ajuste, a elasticidade e a porcentagem de compradores que acharam fiel ao tamanho, e nas duas camisetas deste guia a maioria achou fiel; os números estão no capítulo \"O que mais a página mostra\".",
+          "A SHEIN troca por outro tamanho? Não; a política tem devolução e reembolso, e o tamanho certo vem num pedido novo, como explica o capítulo da devolução.",
+          "Como medir o busto para a SHEIN? Com a fita na parte mais cheia do busto, reta nas costas e sem apertar; o capítulo de como medir traz a cintura e o quadril."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "A medida da peça no guia, em centímetros, dá a folga que você usa, e o tipo de ajuste e a elasticidade batem com o que você espera do tecido.",
+        "A tabela de compradores da página tem alguém com as suas medidas e essa pessoa pediu a letra que você vai pedir."
+      ],
+      "skipIf": [
+        "Você escolheu pela letra de sempre sem abrir o guia da peça: a mesma letra muda de marca para marca.",
+        "Você precisa da peça numa data marcada e não pode esperar a devolução: errar a letra custa o tempo de duas entregas."
+      ]
+    }
+  },
+  {
+    "id": 805,
+    "slug": "shein-size-guide",
+    "locale": "en",
+    "translationKey": "shein-tamanho",
+    "title": "SHEIN size guide: which size to order and how to read each size chart",
+    "seoTitle": "SHEIN size guide: which size to order and how to read it",
+    "type": "Size Guide",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "At SHEIN the same letter changes from brand to brand: two M tees differ by 11 cm at the bust. Choose by the measurements of each piece in cm, not by your usual letter.",
+    "metaDescription": "Size at SHEIN: the letter changes by brand. The 4CW5Y is a SHEIN referral code, searched in the app. Measure in cm and read each piece's size guide.",
+    "publishedAt": "November 4, 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "Navy T-shirt, black T-shirt seen from behind and green printed pajamas in official SHEIN photos, with the store logo, the letters S, M and L and a ruler",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Go to SHEIN",
+      "text": "Open the piece's size guide and compare its measurement in centimeters with yours before choosing a letter.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "We may earn a commission on SHEIN links. No one on the team wore these pieces.",
+    "relatedArticles": [
+      {
+        "slug": "is-shein-worth-it",
+        "title": "Is SHEIN worth it? When buying pays off and when to skip it"
+      },
+      {
+        "slug": "shein-party-dress-guide",
+        "title": "Party dress on SHEIN: how to choose by occasion, fabric and delivery time"
+      },
+      {
+        "slug": "is-shein-legit-and-safe",
+        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+      },
+      {
+        "slug": "shein-referral-code-where-to-enter",
+        "title": "SHEIN referral code: where to enter it and how it works"
+      },
+      {
+        "slug": "shein-trustpilot-reviews",
+        "title": "SHEIN on Trustpilot: score, complaints and what the numbers show"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Quick answer",
+        "paragraphs": [
+          "At SHEIN, choose the size by the centimeter measurement in each piece's size guide, never by the letter you always wear: the M changes from one brand to another. Measure your body and compare it with the piece. If it doesn't fit, returning it is the way out; the section “If it doesn't fit: returns” explains how."
+        ]
+      },
+      {
+        "heading": "The same letter changes from brand to brand",
+        "paragraphs": [
+          "You wear M, you order M, and the T-shirt arrives in a different size: at SHEIN, the letter is no yardstick. The platform sells different brands, and each brand measures its M its own way. Two plain short-sleeve tees show the size of the problem."
+        ],
+        "comparisonTable": {
+          "caption": "Bust of the piece in international size M, from each page's size guide; the full DAZY guide is further down.",
+          "headers": [
+            "T-shirt",
+            "Bust of the piece in M",
+            "Fit type",
+            "Stretch",
+            "Fabric"
+          ],
+          "rows": [
+            [
+              "[DAZY short-sleeve T-shirt](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "Regular",
+              "Slight",
+              "100% cotton"
+            ],
+            [
+              "[SHEIN Essnce plain T-shirt](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "Between skinny and regular",
+              "High",
+              "95% viscose and 5% elastane"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Our math: from the piece measurements in both guides, the DAZY M has 11 cm more bust than the Essnce M, almost the bust of the Essnce XL. The store says: the DAZY page itself warns that the brand follows Asian sizing and runs smaller than SHEIN.",
+          "What this changes when you buy: each piece has its own guide, and that guide is the one that counts. The way not to go wrong is to ignore the letter, open the piece's size guide and compare centimeter by centimeter. The next two sections show how: first your body, then the guide."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "Model wearing the navy short-sleeve DAZY T-shirt with a round neck, facing front, with black trousers and a bag on the shoulder",
+            "caption": "DAZY T-shirt: the page warns that the brand runs smaller than SHEIN. Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "Model wearing the black short-sleeve SHEIN Essnce T-shirt with a round neck, facing front, with jeans and a belt",
+            "caption": "SHEIN Essnce T-shirt: its M has a smaller bust than the DAZY. Official SHEIN photo.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "How to measure your body",
+        "paragraphs": [
+          "Before opening any guide, you need three of your numbers: bust, waist and hips. Rule of thumb, not tested by us: use a sewing tape over light clothing, with the tape touching the skin without pulling. Where to pass the tape for each measurement:"
+        ],
+        "bullets": [
+          "Bust: at the fullest part, with the tape level, passing under the arms and across the back at the same height.",
+          "Waist: at the narrowest point of the torso, usually a little above the navel, breathing normally.",
+          "Hips: at the widest part of the hips, with feet together."
+        ],
+        "postParagraphs": [
+          "Write the three down in centimeters. The SHEIN guide shows measurements in centimeters and inches; to compare, stay in CM. The guide itself explains how to measure: if your method matches its method, the comparison comes out right. For T-shirts, blouses and dresses, the bust decides; for trousers and skirts, the waist and hips. If you fall between two of your numbers, use the larger one: extra room can be taken in, a shortfall can't."
+        ]
+      },
+      {
+        "heading": "How to read the piece's guide: piece measurement, body measurement and ease",
+        "paragraphs": [
+          "What decides the size is knowing which table you are looking at, because the SHEIN guide can have two. The product measurements table is the garment measured flat: the DAZY T-shirt's bust in M is the garment's measurement, not your body's. The body measurements table, when the piece has one, is the body range the brand gives for each letter, and its own note says it is for reference only. Some pieces only have the garment table, like the Essnce; then the comparison is direct, between your measurement and the piece's, and the ease is up to you."
+        ],
+        "comparisonTable": {
+          "caption": "Size guide for the DAZY T-shirt, read on November 4, 2026, in centimeters: product measurements on the left (bust and length; shoulder and sleeve left out), body range on the right.",
+          "headers": [
+            "Size",
+            "Product bust",
+            "Length",
+            "Height",
+            "Body bust",
+            "Waist",
+            "Hips"
+          ],
+          "rows": [
+            [
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Ease is the difference between the garment and your body, and it shows the cut before you put it on. By the same math, with the DAZY guide, M is meant for a bust of 82 to 86 cm. That leaves 7 to 11 cm of ease in a regular-fit T-shirt with slight stretch. When only the garment measurement exists, stretch takes the place of ease: in the Essnce, with high stretch, the model on the page wears S, which measures 78 cm, 9 cm less than her bust.",
+          "The guide warns that the piece measurement can vary by 1 to 2 cm, and the descriptions of both T-shirts warn that the fabric changes size after washing at home. If your measurement falls on the edge of one size, those 2 cm decide. So: fabric with no or slight stretch calls for ease, and on the edge the size above; fabric with medium or high stretch calls for the size that matches your measurement, because a lot of ease in a stretchy piece just ends up baggy."
+        ]
+      },
+      {
+        "heading": "What else the page shows: the model and the buyers",
+        "paragraphs": [
+          "After the measurements, the most useful thing is the buyers' table, because it shows real people: height, weight, bust, waist, hips and the size each one ordered. Look there for someone with your measurements and see what they ordered. Just above it sits the buyers' fit rating, in percentages: on the DAZY, 93% found it true to size, 6% found it small and 1% large; on the Essnce, the page says 95% found it true to size. A high share saying it runs small is a warning to go up a size.",
+          "The model is a height reference. On the DAZY, she is 176 cm tall with an 87 cm bust and wears the international M; on the Essnce, 175 cm and an 87 cm bust, in S. Same bust, different letters, in both brands: it's the letter problem again. The size and fit details button shows the model's measurements on the page itself.",
+          "Below the sizes, some pages have a size-finder link that suggests a size. SHEIN's help page says the tool asks for height, age and weight to suggest a letter. When you are logged in, the suggestion appears on its own for some pieces. Use it as a second opinion, never in place of the tape: it does not ask for your bust or your waist, and that is exactly where the letter changes."
+        ]
+      },
+      {
+        "heading": "If it doesn't fit: returns",
+        "paragraphs": [
+          "A wrong size costs the time of two deliveries: the piece goes back before the right one arrives, which is why the tape comes before the order.",
+          "The return policy for your country is in SHEIN's help center. Returns and the store's reputation are covered in [Is SHEIN trustworthy?](/en/reviews/is-shein-legit-and-safe)."
+        ]
+      },
+      {
+        "heading": "Before you buy",
+        "paragraphs": [
+          "The size is settled before the cart, in this order:"
+        ],
+        "bullets": [
+          "Measure bust, waist and hips and write them down in centimeters.",
+          "Open the piece's size guide and keep it on CM.",
+          "Check whether the table is for the piece or for the body. Compare it with your measurement and count the ease.",
+          "Read the fit type and the stretch: fabric that doesn't stretch calls for ease; fabric that stretches, the size that matches your measurement.",
+          "Check the buyers' fit rating and look in their table for someone with your measurements.",
+          "Allow for 1 to 2 cm of variation in the piece and for the change after washing.",
+          "Keep the order confirmation and the tracking number: a return depends on them, if the piece doesn't fit."
+        ],
+        "postParagraphs": [
+          "Delivery time, shipping and what to check before paying are in [Is SHEIN worth it?](/en/reviews/is-shein-worth-it). The 4CW5Y is SHEIN's referral code: you search for it in the app, it is not a coupon and gives no discount; current promotions are on the [SHEIN page](/en/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Which size to order: a summary by situation",
+        "bullets": [
+          "Fabric without elastane, with no or slight stretch (the DAZY T-shirt): the size whose piece measurement gives the ease you want; if your measurement falls on the edge, the one above.",
+          "Fabric with elastane, medium or high stretch, and only the piece measurement in the guide (the Essnce): the size whose measurement is equal to or below yours, as the model on the page does.",
+          "A brand the page warns runs smaller (the DAZY): read the brand's own body table, not your usual letter.",
+          "Between two sizes and unsure: the one that the buyer with your measurements ordered, in the buyers' table; with nobody similar, the ease decides, by the fabric rule."
+        ],
+        "emphasis": "If it were for my own home, I wouldn't order a size without opening the piece's guide, because the same letter changes from brand to brand."
+      },
+      {
+        "heading": "Frequently asked questions",
+        "bullets": [
+          "What is my size at SHEIN? Whatever the piece's size guide gives for your measurement in centimeters; the letter changes from brand to brand, as the two T-shirts in the first section show.",
+          "Are SHEIN sizes small? You can't answer by the letter: each piece's page shows the fit type, the stretch and the percentage of buyers who found it true to size, and for the two T-shirts in this guide most found it true to size; the numbers are in the section “What else the page shows”.",
+          "Does SHEIN exchange for another size? It depends on the country: the return and exchange policy for each one is in SHEIN's help center.",
+          "How do I measure my bust for SHEIN? With the tape at the fullest part of the bust, level across the back and not pulling; the section on how to measure also covers the waist and hips."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "The piece measurement in the guide, in centimeters, gives the ease you want, and the fit type and the stretch match what you expect from the fabric.",
+        "The buyers' table on the page has someone with your measurements, and that person ordered the size you are about to order."
+      ],
+      "skipIf": [
+        "You chose by your usual letter without opening the piece's guide: the same letter changes from brand to brand.",
+        "You need the piece on a set date and can't wait for a return: a wrong size costs the time of two deliveries."
+      ]
+    }
+  },
+  {
+    "id": 806,
+    "slug": "tallas-shein",
+    "locale": "es",
+    "translationKey": "shein-tamanho",
+    "title": "Guía de tallas de SHEIN: qué talla pedir y cómo leer la tabla de cada prenda",
+    "seoTitle": "Tallas SHEIN: qué talla pedir y cómo leer la guía",
+    "type": "Guía de tallas",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "En SHEIN la misma letra cambia de marca en marca: dos camisetas M difieren 11 cm de busto. Elige por las medidas de cada prenda en cm, no por tu letra habitual.",
+    "metaDescription": "Talla en SHEIN: la letra cambia de marca. El 4CW5Y es un código de referido que se busca en la app. Mide en cm y lee la guía de cada prenda.",
+    "publishedAt": "4 de noviembre de 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "Camiseta azul marino, camiseta negra vista de espaldas y pijama verde estampado en fotos oficiales de SHEIN, con el logo de la tienda, las letras S, M y L y una regla",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Ir a SHEIN",
+      "text": "Abre la guía de tallas de la prenda y compara la medida en centímetros con la tuya antes de elegir la letra.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Podemos recibir comisión por los enlaces de SHEIN. Nadie del equipo se probó las prendas.",
+    "relatedArticles": [
+      {
+        "slug": "vale-la-pena-shein",
+        "title": "¿SHEIN vale la pena? Cuándo compensa comprar y cuándo es mejor pasar"
+      },
+      {
+        "slug": "vestido-de-fiesta-shein",
+        "title": "Vestido de fiesta en SHEIN: cómo elegir según la ocasión, la tela y el plazo"
+      },
+      {
+        "slug": "shein-es-confiable-y-seguro",
+        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+      },
+      {
+        "slug": "codigo-de-referido-shein-donde-ponerlo",
+        "title": "Código de referido de SHEIN: dónde ponerlo y cómo usarlo"
+      },
+      {
+        "slug": "shein-opiniones-trustpilot",
+        "title": "SHEIN en Trustpilot: calificación, quejas y lo que muestran los datos"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Respuesta rápida",
+        "paragraphs": [
+          "En SHEIN, la talla se elige por la medida en centímetros de la guía de cada prenda, nunca por la letra de siempre: la M cambia de una marca a otra. Mide tu cuerpo y compáralo con la prenda. Si no te queda bien, la salida es la devolución; el capítulo «Si no te queda: la devolución» explica cómo."
+        ]
+      },
+      {
+        "heading": "La misma letra cambia de marca en marca",
+        "paragraphs": [
+          "Te pones M, pides M, y la camiseta llega en otra talla: en SHEIN la letra no sirve de regla. La plataforma vende marcas distintas, y cada una mide su M a su manera. Dos camisetas lisas de manga corta muestran el problema."
+        ],
+        "comparisonTable": {
+          "caption": "Busto de la prenda en la talla M internacional, según la guía de tallas de cada ficha; la guía completa de DAZY está más abajo.",
+          "headers": [
+            "Camiseta",
+            "Busto de la prenda en M",
+            "Ajuste",
+            "Elasticidad",
+            "Tejido"
+          ],
+          "rows": [
+            [
+              "[Camiseta DAZY de manga corta](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "Regular",
+              "Poca",
+              "100% algodón"
+            ],
+            [
+              "[Camiseta lisa SHEIN Essnce](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "Entre skinny y regular",
+              "Alta",
+              "95% viscosa y 5% elastano"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Nuestra cuenta: con las medidas de la prenda en las dos guías, la M de DAZY tiene 11 cm más de busto que la M de Essnce, casi el busto de la XL de Essnce. La tienda informa: la propia ficha de DAZY advierte que la marca sigue el tallaje asiático y es más pequeña que SHEIN.",
+          "Qué cambia al comprar: cada prenda tiene su propia guía, y es ella la que vale. La forma de no equivocarse es dejar de lado la letra, abrir la guía de tallas de la prenda y comparar centímetro a centímetro. Los dos capítulos siguientes muestran cómo: primero tu cuerpo, después la guía."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "Modelo con la camiseta DAZY azul marino de manga corta y cuello redondo, de frente, con pantalón negro y bolso al hombro",
+            "caption": "Camiseta DAZY: la ficha advierte que la marca es más pequeña que SHEIN. Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "Modelo con la camiseta negra SHEIN Essnce de manga corta y cuello redondo, de frente, con vaqueros y cinturón",
+            "caption": "Camiseta SHEIN Essnce: su M tiene menos busto que la DAZY. Foto oficial de SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "Cómo medir el cuerpo",
+        "paragraphs": [
+          "Antes de abrir cualquier guía necesitas tres números tuyos: busto, cintura y cadera. Regla práctica, sin prueba nuestra: usa cinta métrica de costura, sobre ropa ligera, con la cinta pegada a la piel sin apretar. Dónde pasar la cinta en cada medida:"
+        ],
+        "bullets": [
+          "Busto: en la parte más llena, con la cinta recta, pasando por debajo de los brazos y por la espalda a la misma altura.",
+          "Cintura: en el punto más fino del torso, por lo general un poco por encima del ombligo, respirando con normalidad.",
+          "Cadera: en la parte más ancha de la cadera, con los pies juntos."
+        ],
+        "postParagraphs": [
+          "Anota los tres en centímetros. La guía de SHEIN muestra las medidas en centímetros y en pulgadas; para comparar, quédate en CM. La propia guía explica cómo medir: si tu forma de medir es la suya, la comparación sale bien. Para camiseta, blusa y vestido decide el busto; para pantalón y falda, la cintura y la cadera. Si estás entre dos de tus números, usa el mayor: lo que sobra se ajusta, lo que falta no."
+        ]
+      },
+      {
+        "heading": "Cómo leer la guía de la prenda: medida de la prenda, medida del cuerpo y holgura",
+        "paragraphs": [
+          "Lo que decide la talla es saber qué tabla estás mirando, porque la guía de SHEIN puede traer dos. La tabla de medidas del producto es la prenda medida extendida: el busto de la camiseta DAZY en M es la medida de la prenda, no la de tu cuerpo. La tabla de medidas corporales, cuando la prenda la tiene, es el rango de cuerpo que la marca indica para cada letra, y su propia nota dice que es solo de referencia. Algunas prendas traen solo la de la prenda, como la Essnce; entonces la comparación es directa entre tu medida y la de la prenda, y la holgura queda por tu cuenta."
+        ],
+        "comparisonTable": {
+          "caption": "Guía de tallas de la camiseta DAZY, consultada el 4 de noviembre de 2026, en centímetros: medida de la prenda a la izquierda (busto y largo; hombro y manga quedaron fuera), rango del cuerpo a la derecha.",
+          "headers": [
+            "Talla",
+            "Busto de la prenda",
+            "Largo",
+            "Altura",
+            "Busto del cuerpo",
+            "Cintura",
+            "Cadera"
+          ],
+          "rows": [
+            [
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "La holgura es la diferencia entre la prenda y tu cuerpo, y cuenta el corte antes de que te la pongas. Con la misma cuenta, con la guía de DAZY, la M está indicada para un busto de 82 a 86 cm. Quedan de 7 a 11 cm de holgura en una camiseta de ajuste regular y poca elasticidad. Cuando solo existe la medida de la prenda, la elasticidad hace el papel de la holgura: en la Essnce, de alta elasticidad, la modelo de la ficha lleva la S, que mide 78 cm, 9 cm menos que su busto.",
+          "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta pide la talla de tu medida, porque mucha holgura en una prenda que estira se vuelve ropa ancha."
+        ]
+      },
+      {
+        "heading": "Qué más muestra la ficha: la modelo y quienes compraron",
+        "paragraphs": [
+          "Después de la medida, lo que más ayuda es la tabla de quienes compraron, porque muestra gente de verdad: altura, peso, busto, cintura, cadera y la talla que pidió cada una. Busca ahí a alguien con tus medidas y mira lo que pidió. Justo encima aparece la valoración de ajuste de los compradores, en porcentaje: en DAZY, el 93% la encontró fiel a la talla, el 6% la encontró pequeña y el 1% grande; en Essnce, la ficha dice que el 95% la encontró fiel a la talla. Un porcentaje alto de «pequeña» es un aviso para subir una talla.",
+          "La modelo sirve de referencia de altura. En DAZY, mide 176 cm y tiene 87 cm de busto y lleva la M internacional; en Essnce, 175 cm y 87 cm de busto, con la S. Mismo busto, letras distintas, en las dos marcas: es el capítulo de la talla otra vez. El botón de detalles de talla y ajuste muestra esas medidas de la modelo en la propia ficha.",
+          "Debajo de las tallas, algunas fichas traen un enlace que sugiere la talla. El centro de ayuda de SHEIN dice que la herramienta pide altura, edad y peso para sugerir una talla. Con sesión iniciada, la sugerencia aparece sola en algunas prendas. Úsala como segunda opinión, nunca en lugar de la cinta: no pregunta tu busto ni tu cintura, y es ahí donde cambia la talla."
+        ]
+      },
+      {
+        "heading": "Si no te queda: la devolución",
+        "paragraphs": [
+          "Equivocarte de talla cuesta el tiempo de dos entregas: la prenda vuelve antes de que llegue la correcta, y por eso la cinta va antes del pedido.",
+          "La política de devolución de tu país está en el centro de ayuda de SHEIN. La devolución y la reputación de la tienda están en [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
+        ]
+      },
+      {
+        "heading": "Antes de hacer el pedido",
+        "paragraphs": [
+          "La talla se decide antes del carrito, en este orden:"
+        ],
+        "bullets": [
+          "Mide busto, cintura y cadera y anótalos en centímetros.",
+          "Abre la guía de tallas de la prenda y déjala en CM.",
+          "Mira si la tabla es de la prenda o del cuerpo. Compárala con tu medida y cuenta la holgura.",
+          "Lee el tipo de ajuste y la elasticidad: una tela que no estira pide holgura; una que estira, la talla de tu medida.",
+          "Revisa la valoración de ajuste de los compradores y busca en su tabla a alguien con tus medidas.",
+          "Cuenta con una variación de 1 a 2 cm en la prenda y con el cambio tras el lavado.",
+          "Guarda la confirmación del pedido y el seguimiento: con ellos se hace la devolución si la prenda no te queda."
+        ],
+        "postParagraphs": [
+          "Plazo, envío y qué revisar antes de pagar están en [¿SHEIN vale la pena?](/es/reviews/vale-la-pena-shein). El 4CW5Y es el código de referido de SHEIN: se busca en la app, no es un cupón y no da descuento; las campañas del momento están en la [página de SHEIN](/es/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Qué talla pedir: el resumen por situación",
+        "bullets": [
+          "Tela sin elastano, con elasticidad nula o poca (la camiseta DAZY): la talla cuya medida de la prenda da la holgura que usas; si tu medida cae en el límite, la de arriba.",
+          "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): la talla cuya medida queda igual o por debajo de la tuya, como hace la modelo de la ficha.",
+          "Marca que la ficha avisa que queda pequeña (la DAZY): lee la tabla de cuerpo de la propia marca, no tu letra de siempre.",
+          "Entre dos tallas y sin certeza: la que pidieron en la tabla de compradores con tus medidas; sin nadie parecido, decide la holgura, según la regla de la tela."
+        ],
+        "emphasis": "Si fuera para mi casa, no pediría una talla sin abrir la guía de la prenda, porque la misma letra cambia de marca en marca."
+      },
+      {
+        "heading": "Preguntas frecuentes",
+        "bullets": [
+          "¿Cuál es mi talla en SHEIN? La que diga la guía de tallas de la prenda para tu medida en centímetros; la letra cambia de marca en marca, como muestran las dos camisetas del primer capítulo.",
+          "¿Las tallas de SHEIN son pequeñas? No se puede responder por la letra: la ficha de cada prenda muestra el tipo de ajuste, la elasticidad y el porcentaje de compradores que la encontraron fiel a la talla. En las dos camisetas de esta guía, la mayoría la encontró fiel; los números están en el capítulo «Qué más muestra la ficha».",
+          "¿SHEIN cambia por otra talla? Depende del país: la política de devolución y cambio de cada uno está en el centro de ayuda de SHEIN.",
+          "¿Cómo mido el busto para SHEIN? Con la cinta en la parte más llena del busto, recta en la espalda y sin apretar; el capítulo de cómo medir trae también la cintura y la cadera."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "La medida de la prenda en la guía, en centímetros, da la holgura que usas, y el tipo de ajuste y la elasticidad encajan con lo que esperas de la tela.",
+        "La tabla de compradores de la ficha tiene a alguien con tus medidas, y esa persona pidió la talla que tú vas a pedir."
+      ],
+      "skipIf": [
+        "Elegiste por tu letra de siempre sin abrir la guía de la prenda: la misma letra cambia de marca en marca.",
+        "Necesitas la prenda en una fecha fija y no puedes esperar a la devolución: equivocarte de talla cuesta el tiempo de dos entregas."
+      ]
+    }
+  },
+  {
+    "id": 807,
+    "slug": "tailles-shein",
+    "locale": "fr",
+    "translationKey": "shein-tamanho",
+    "title": "Tailles SHEIN : quelle taille commander et comment lire le guide de chaque article",
+    "seoTitle": "Tailles SHEIN : quelle taille prendre et comment lire le guide",
+    "type": "Guide des tailles",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Chez SHEIN, la même lettre change d'une marque à l'autre : deux t-shirts M diffèrent de 11 cm au buste. Choisissez d'après les mesures en cm de chaque article.",
+    "metaDescription": "Taille SHEIN : la lettre change selon la marque. Le 4CW5Y est un code de parrainage à chercher dans l'appli. Mesurez en cm et suivez le guide de l'article.",
+    "publishedAt": "4 novembre 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "T-shirt bleu marine, t-shirt noir vu de dos et pyjama vert imprimé, sur des photos officielles SHEIN, avec le logo de la boutique, les lettres S, M et L et une règle",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Aller sur SHEIN",
+      "text": "Ouvrez le guide des tailles de l'article et comparez la mesure en centimètres avec la vôtre avant de choisir la lettre.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Nous pouvons toucher une commission sur les liens SHEIN. Personne de l'équipe n'a porté ces articles.",
+    "relatedArticles": [
+      {
+        "slug": "shein-ca-vaut-le-coup",
+        "title": "SHEIN vaut-il le coup ? Quand acheter et quand passer son tour"
+      },
+      {
+        "slug": "robe-de-soiree-shein",
+        "title": "Robe de soirée sur SHEIN : comment choisir selon l'occasion, le tissu et le délai"
+      },
+      {
+        "slug": "shein-est-il-fiable-et-sur",
+        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+      },
+      {
+        "slug": "code-de-parrainage-shein-ou-le-mettre",
+        "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser"
+      },
+      {
+        "slug": "shein-avis-trustpilot",
+        "title": "SHEIN sur Trustpilot : note, plaintes et ce que montrent les chiffres"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Réponse rapide",
+        "paragraphs": [
+          "Chez SHEIN, on choisit la taille d'après la mesure en centimètres du guide de chaque article, jamais d'après la lettre habituelle : le M change d'une marque à l'autre. Mesurez votre corps et comparez avec l'article. Si ça ne convient pas, la solution est le retour ; le chapitre « Si ça ne convient pas » explique comment."
+        ]
+      },
+      {
+        "heading": "La même lettre change d'une marque à l'autre",
+        "paragraphs": [
+          "Vous prenez du M, vous commandez du M, et le t-shirt arrive dans une autre taille : chez SHEIN, la lettre ne sert pas de règle. La plateforme vend des marques différentes, et chacune mesure son M à sa façon. Deux t-shirts unis à manches courtes montrent le problème."
+        ],
+        "comparisonTable": {
+          "caption": "Buste de l'article en taille M internationale, d'après le guide des tailles de chaque fiche ; le guide complet de DAZY se trouve plus bas.",
+          "headers": [
+            "T-shirt",
+            "Buste de l'article en M",
+            "Type de coupe",
+            "Élasticité",
+            "Matière"
+          ],
+          "rows": [
+            [
+              "[T-shirt DAZY à manches courtes](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "Coupe régulière",
+              "Légère",
+              "100 % coton"
+            ],
+            [
+              "[T-shirt SHEIN Essnce uni](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "Entre skinny et régulière",
+              "Forte",
+              "95 % viscose et 5 % élasthanne"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Notre calcul : d'après les mesures de l'article dans les deux guides, le M de DAZY a 11 cm de plus au buste que le M d'Essnce, presque le buste du XL d'Essnce. Le magasin indique : la fiche DAZY elle-même prévient que la marque suit les tailles asiatiques et qu'elle taille plus petit que SHEIN.",
+          "Ce que cela change à l'achat : chaque article a son propre guide, et c'est lui qui compte. Pour ne pas se tromper, ne vous fiez pas à la lettre : ouvrez le guide des tailles de l'article et comparez centimètre par centimètre. Les deux chapitres suivants montrent comment : d'abord votre corps, ensuite le guide."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "Mannequin portant le t-shirt DAZY bleu marine à manches courtes et col rond, de face, avec un pantalon noir et un sac à l'épaule",
+            "caption": "T-shirt DAZY : la fiche prévient que la marque taille plus petit que SHEIN. Photo officielle SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "Mannequin portant le t-shirt noir SHEIN Essnce à manches courtes et col rond, de face, avec un jean et une ceinture",
+            "caption": "T-shirt SHEIN Essnce : son M a un buste plus petit que celui du DAZY. Photo officielle SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "Comment mesurer votre corps",
+        "paragraphs": [
+          "Avant d'ouvrir un guide, il vous faut trois de vos mesures : buste, taille et hanches. Règle pratique, non testée par nous : utilisez un mètre de couturière sur des vêtements légers, le ruban au contact de la peau sans serrer. Où passer le mètre pour chaque mesure :"
+        ],
+        "bullets": [
+          "Buste : à la partie la plus forte, le mètre bien droit, en passant sous les bras et dans le dos à la même hauteur.",
+          "Taille : au point le plus fin du tronc, en général un peu au-dessus du nombril, en respirant normalement.",
+          "Hanches : à la partie la plus large des hanches, pieds joints."
+        ],
+        "postParagraphs": [
+          "Notez les trois en centimètres. Le guide SHEIN donne les mesures en centimètres et en pouces ; pour comparer, restez sur les CM. Le guide explique lui-même comment mesurer : si votre façon de mesurer est la sienne, la comparaison est juste. Pour un t-shirt, un chemisier ou une robe, c'est le buste qui décide ; pour un pantalon ou une jupe, la taille et les hanches. Si vous hésitez entre deux de vos chiffres, prenez le plus grand : l'excédent se reprend, le manque non."
+        ]
+      },
+      {
+        "heading": "Lire le guide de l'article : mesure de l'article, mesure du corps et aisance",
+        "paragraphs": [
+          "Ce qui décide de la taille, c'est de savoir quel tableau vous regardez, car le guide SHEIN peut en contenir deux. Le tableau des mesures du produit correspond à l'article mesuré à plat : le buste du t-shirt DAZY en M est la mesure du vêtement, pas celle de votre corps. Le tableau des mesures corporelles, quand l'article en a un, donne la plage de corps indiquée par la marque pour chaque lettre, et sa note précise qu'il ne sert que de référence. Certains articles n'ont que celui du vêtement, comme l'Essnce ; la comparaison se fait alors directement entre votre mesure et celle de l'article, et c'est à vous de prévoir l'aisance."
+        ],
+        "comparisonTable": {
+          "caption": "Guide des tailles du t-shirt DAZY, consulté le 4 novembre 2026, en centimètres : mesure de l'article à gauche (buste et longueur ; épaule et manche exclues), plage du corps à droite.",
+          "headers": [
+            "Taille",
+            "Buste de l'article",
+            "Longueur",
+            "Hauteur",
+            "Buste du corps",
+            "Tour de taille",
+            "Tour de hanches"
+          ],
+          "rows": [
+            [
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "L'aisance, c'est la différence entre le vêtement et votre corps ; elle révèle la coupe avant même que vous ne l'enfiliez. Avec le même calcul, pour le guide DAZY, le M est prévu pour un buste de 82 à 86 cm. Il reste 7 à 11 cm d'aisance sur un t-shirt à coupe régulière et à élasticité légère. Quand il n'existe que la mesure du vêtement, l'élasticité joue le rôle de l'aisance : sur l'Essnce, à élasticité forte, le mannequin de la fiche porte le S, qui mesure 78 cm, soit 9 cm de moins que son buste.",
+          "Le guide prévient que la mesure de l'article peut varier de 1 à 2 cm, et la description des deux t-shirts prévient que le tissu change de dimensions après un lavage à la maison. Si votre mesure tombe à la limite d'une taille, ces 2 cm décident. Donc : un tissu sans élasticité ou à élasticité légère demande de l'aisance, et à la limite la taille au-dessus ; un tissu à élasticité moyenne ou forte demande la taille de votre mesure, car trop d'aisance sur un article qui s'étire donne un vêtement flottant."
+        ]
+      },
+      {
+        "heading": "Ce que la fiche montre en plus : le mannequin et les acheteurs",
+        "paragraphs": [
+          "Après la mesure, le plus utile est le tableau des acheteurs, car il montre de vraies personnes : stature, poids, buste, tour de taille, tour de hanches et la lettre commandée par chacune. Cherchez-y quelqu'un qui a vos mesures et regardez la lettre commandée. Juste au-dessus figure l'avis des acheteurs sur la coupe, en pourcentage : sur DAZY, 93 % ont trouvé le vêtement fidèle à la taille, 6 % l'ont trouvé petit et 1 % grand ; sur Essnce, la fiche indique que 95 % l'ont trouvé fidèle à la taille. Un fort pourcentage de « petit » est un avertissement : prenez la taille au-dessus.",
+          "Le mannequin sert de repère de hauteur. Sur DAZY, elle mesure 176 cm, a 87 cm de buste et porte le M international ; sur Essnce, 175 cm et 87 cm de buste, en S. Même buste, lettres différentes, dans les deux marques : c'est encore l'histoire de la lettre. Le bouton de détail des tailles et de la coupe affiche sur la fiche elle-même les mesures du mannequin.",
+          "Sous les tailles, certaines fiches proposent un lien qui suggère une taille. Le centre d'aide SHEIN indique que l'outil demande la taille en centimètres, l'âge et le poids pour suggérer une lettre. Connecté, le conseil apparaît tout seul sur certains articles. Utilisez-le comme deuxième avis, jamais à la place du mètre : il ne demande ni votre buste ni votre tour de taille, et c'est précisément là que la lettre change."
+        ]
+      },
+      {
+        "heading": "Si ça ne convient pas : le retour",
+        "paragraphs": [
+          "Se tromper de taille coûte le temps de deux livraisons : l'article repart avant que le bon n'arrive, et c'est pour cela que le mètre sert avant la commande.",
+          "La politique de retour de votre pays figure dans le centre d'aide SHEIN. Le retour et la réputation de la boutique sont traités dans [SHEIN est-il fiable ?](/fr/reviews/shein-est-il-fiable-et-sur)."
+        ]
+      },
+      {
+        "heading": "Avant d'acheter",
+        "paragraphs": [
+          "La taille se décide avant le panier, dans cet ordre :"
+        ],
+        "bullets": [
+          "Mesurez buste, taille et hanches et notez-les en centimètres.",
+          "Ouvrez le guide des tailles de l'article et laissez-le en CM.",
+          "Regardez si le tableau concerne l'article ou le corps. Comparez-le à votre mesure et calculez l'aisance.",
+          "Lisez le type de coupe et l'élasticité : un tissu qui ne s'étire pas demande de l'aisance ; un tissu qui s'étire, la taille de votre mesure.",
+          "Consultez l'avis des acheteurs sur la coupe et cherchez dans leur tableau quelqu'un qui a vos mesures.",
+          "Prévoyez une variation de 1 à 2 cm sur l'article et le changement après lavage.",
+          "Gardez la confirmation de commande et le suivi : c'est avec eux que se fait le retour si l'article ne convient pas."
+        ],
+        "postParagraphs": [
+          "Délais, livraison et ce qu'il faut vérifier avant de payer figurent dans [SHEIN vaut-il le coup ?](/fr/reviews/shein-ca-vaut-le-coup). Le 4CW5Y est le code de parrainage SHEIN : on le cherche dans l'appli, ce n'est pas un coupon et il n'accorde aucune réduction ; les promotions du moment sont sur la [page SHEIN](/fr/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Quelle taille commander : le résumé par situation",
+        "bullets": [
+          "Tissu sans élasthanne, élasticité nulle ou légère (le t-shirt DAZY) : la taille dont la mesure du vêtement donne l'aisance que vous voulez ; si votre mesure tombe à la limite, la taille au-dessus.",
+          "Tissu avec élasthanne, élasticité moyenne ou forte, et seulement la mesure du vêtement dans le guide (l'Essnce) : la taille dont la mesure est égale ou inférieure à la vôtre, comme le fait le mannequin de la fiche.",
+          "Marque dont la fiche prévient qu'elle taille petit (DAZY) : lisez le tableau du corps de la marque elle-même, pas votre lettre habituelle.",
+          "Entre deux tailles et sans certitude : celle que le tableau des acheteurs ayant vos mesures a commandée ; sans personne de comparable, l'aisance décide, selon la règle du tissu."
+        ],
+        "emphasis": "Si c'était pour chez moi, je ne commanderais pas une taille sans ouvrir le guide de l'article, parce que la même lettre change d'une marque à l'autre."
+      },
+      {
+        "heading": "Questions fréquentes",
+        "bullets": [
+          "Quelle est ma taille chez SHEIN ? Celle que donne le guide des tailles de l'article pour votre mesure en centimètres ; la lettre change d'une marque à l'autre, comme le montrent les deux t-shirts du premier chapitre.",
+          "Les tailles SHEIN sont-elles petites ? On ne peut pas répondre à partir de la lettre : la fiche de chaque article indique le type de coupe, l'élasticité et le pourcentage d'acheteurs qui ont trouvé la taille fidèle. Pour les deux t-shirts de ce guide, la majorité l'a trouvée fidèle ; les chiffres sont dans le chapitre « Ce que la fiche montre en plus ».",
+          "SHEIN échange-t-il contre une autre taille ? Cela dépend du pays : la politique de retour et d'échange de chacun figure dans le centre d'aide SHEIN.",
+          "Comment mesurer le buste pour SHEIN ? Avec le mètre à la partie la plus forte du buste, droit dans le dos et sans serrer ; le chapitre sur la mesure couvre aussi la taille et les hanches."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "La mesure de l'article dans le guide, en centimètres, donne l'aisance que vous voulez, et le type de coupe et l'élasticité correspondent à ce que vous attendez du tissu.",
+        "Le tableau des acheteurs de la fiche compte quelqu'un qui a vos mesures, et cette personne a commandé la taille que vous allez commander."
+      ],
+      "skipIf": [
+        "Vous avez choisi d'après votre lettre habituelle sans ouvrir le guide de l'article : la même lettre change d'une marque à l'autre.",
+        "Il vous faut l'article à une date fixe et vous ne pouvez pas attendre un retour : se tromper de taille coûte le temps de deux livraisons."
+      ]
+    }
+  },
+  {
+    "id": 808,
+    "slug": "shein-groessen",
+    "locale": "de",
+    "translationKey": "shein-tamanho",
+    "title": "Größen bei SHEIN: welche Größe bestellen und wie Sie den Guide jedes Artikels lesen",
+    "seoTitle": "SHEIN Größen: welche Größe passt und wie Sie den Guide lesen",
+    "type": "Größenratgeber",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Bei SHEIN passt derselbe Buchstabe je nach Marke anders: Zwei M-Shirts unterscheiden sich um 11 cm am Brustumfang. Wählen Sie nach den Maßen in cm, nicht nach Buchstaben.",
+    "metaDescription": "Größe bei SHEIN: je Marke ändert sich der Buchstabe. Der 4CW5Y ist ein Empfehlungscode für die Suche in der App. Messen Sie in cm und prüfen Sie den Guide.",
+    "publishedAt": "4. November 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "Marineblaues T-Shirt, schwarzes T-Shirt von hinten und grün bedruckter Pyjama auf offiziellen SHEIN-Fotos, mit dem Logo des Shops, den Buchstaben S, M und L und einem Lineal",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Zu SHEIN",
+      "text": "Öffnen Sie den Größenguide des Artikels und vergleichen Sie das Maß in Zentimetern mit Ihrem, bevor Sie einen Buchstaben wählen.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Wir können für SHEIN-Links eine Provision erhalten. Niemand aus dem Team hat die Teile getragen.",
+    "relatedArticles": [
+      {
+        "slug": "lohnt-sich-shein",
+        "title": "Lohnt sich SHEIN? Wann sich der Kauf rechnet und wann Sie besser verzichten"
+      },
+      {
+        "slug": "partykleid-shein",
+        "title": "Partykleid bei SHEIN: so wählen Sie nach Anlass, Stoff und Lieferzeit"
+      },
+      {
+        "slug": "ist-shein-serioes-und-sicher",
+        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+      },
+      {
+        "slug": "shein-empfehlungscode-wo-eingeben",
+        "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert"
+      },
+      {
+        "slug": "shein-trustpilot-bewertungen",
+        "title": "SHEIN auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Kurzantwort",
+        "paragraphs": [
+          "Bei SHEIN wählen Sie die Größe nach dem Maß in Zentimetern im Größenguide jedes Artikels, nie nach Ihrem üblichen Buchstaben: Das M ändert sich von einer Marke zur anderen. Messen Sie Ihren Körper und vergleichen Sie die Werte mit dem Artikel. Passt es nicht, bleibt die Rückgabe; der Abschnitt „Wenn es nicht passt“ erklärt das Vorgehen."
+        ]
+      },
+      {
+        "heading": "Derselbe Buchstabe, andere Marke, andere Größe",
+        "paragraphs": [
+          "Sie tragen M, bestellen M, und das Shirt kommt in einer anderen Größe: Bei SHEIN taugt der Buchstabe nicht als Maßstab. Die Plattform verkauft verschiedene Marken, und jede misst ihr M auf eigene Weise. Zwei schlichte Kurzarm-Shirts zeigen das Problem."
+        ],
+        "comparisonTable": {
+          "caption": "Brustumfang des Artikels in internationaler Größe M, laut Größenguide der jeweiligen Seite; der vollständige Guide des DAZY-Shirts steht weiter unten.",
+          "headers": [
+            "T-Shirt",
+            "Brustumfang des Artikels in M",
+            "Schnitt",
+            "Elastizität",
+            "Material"
+          ],
+          "rows": [
+            [
+              "[DAZY-Kurzarm-T-Shirt](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "Regular",
+              "Leicht",
+              "100 % Baumwolle"
+            ],
+            [
+              "[Unifarbenes SHEIN-Essnce-T-Shirt](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "Zwischen Skinny und Regular",
+              "Stark",
+              "95 % Viskose und 5 % Elasthan"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Unsere Rechnung: Nach den Artikelmaßen in beiden Guides hat das M von DAZY 11 cm mehr Brustumfang als das M von Essnce, fast so viel wie deren XL. Laut Shop: Die Seite des DAZY-Artikels selbst warnt, dass die Marke asiatischen Größen folgt und kleiner ausfällt als SHEIN.",
+          "Was das beim Kauf bedeutet: Jeder Artikel hat seinen eigenen Guide, und der zählt. Um sich nicht zu vertun, verlassen Sie sich nicht auf den Buchstaben: Öffnen Sie den Größenguide des Artikels und vergleichen Sie Zentimeter für Zentimeter. Die beiden nächsten Abschnitte zeigen, wie: zuerst Ihr Körper, dann der Guide."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "Model mit dem marineblauen kurzärmeligen DAZY-T-Shirt mit Rundhalsausschnitt, von vorn, mit schwarzer Hose und Tasche über der Schulter",
+            "caption": "DAZY-T-Shirt: Die Seite warnt, dass die Marke kleiner ausfällt als SHEIN. Offizielles SHEIN-Foto.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "Model mit dem schwarzen kurzärmeligen SHEIN-Essnce-T-Shirt mit Rundhalsausschnitt, von vorn, mit Jeans und Gürtel",
+            "caption": "SHEIN-Essnce-T-Shirt: Sein M hat einen kleineren Brustumfang als das M von DAZY. Offizielles SHEIN-Foto.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "So messen Sie Ihren Körper",
+        "paragraphs": [
+          "Bevor Sie einen Guide öffnen, brauchen Sie drei Ihrer Maße: Brust, Taille und Hüfte. Faustregel, nicht von uns getestet: Verwenden Sie ein Maßband über leichter Kleidung, das Band liegt an der Haut an, ohne zu ziehen. Wo Sie das Band für jedes Maß anlegen:"
+        ],
+        "bullets": [
+          "Brust: an der vollsten Stelle, das Band gerade, unter den Armen durch und am Rücken auf gleicher Höhe.",
+          "Taille: an der schmalsten Stelle des Rumpfes, meist etwas oberhalb des Nabels, bei normaler Atmung.",
+          "Hüfte: an der breitesten Stelle der Hüfte, mit geschlossenen Füßen."
+        ],
+        "postParagraphs": [
+          "Notieren Sie die drei in Zentimetern. Der SHEIN-Guide zeigt Maße in Zentimetern und Zoll; zum Vergleichen bleiben Sie bei CM. Der Guide erklärt selbst, wie zu messen ist: Wenn Ihre Messweise seiner entspricht, stimmt der Vergleich. Bei T-Shirts, Blusen und Kleidern entscheidet die Brust, bei Hosen und Röcken Taille und Hüfte. Schwanken Sie zwischen zwei Ihrer Werte, nehmen Sie den größeren: Zu viel lässt sich ändern, zu wenig nicht."
+        ]
+      },
+      {
+        "heading": "Den Guide des Artikels lesen: Artikelmaß, Körpermaß und Weite",
+        "paragraphs": [
+          "Entscheidend ist, welche Tabelle Sie gerade vor sich haben, denn der SHEIN-Guide kann zwei enthalten. Die Tabelle der Produktmaße zeigt das Kleidungsstück, flach ausgemessen: Der Brustumfang des DAZY-Shirts in M ist das Maß des Kleidungsstücks, nicht Ihres Körpers. Die Tabelle der Körpermaße, wenn der Artikel eine hat, zeigt den Körperbereich, den die Marke für jeden Buchstaben angibt; ihr Hinweis sagt, dass sie nur als Orientierung dient. Manche Artikel haben nur die Tabelle des Kleidungsstücks, wie die Essnce; dann vergleichen Sie Ihr Maß direkt mit dem des Artikels, und die Weite müssen Sie selbst einplanen."
+        ],
+        "comparisonTable": {
+          "caption": "Größenguide des DAZY-T-Shirts, geprüft am 4. November 2026, in Zentimetern: Produktmaß links (Brust und Länge; Schulter und Ärmel ausgelassen), Körperbereich rechts.",
+          "headers": [
+            "Größe",
+            "Brust des Artikels",
+            "Länge",
+            "Körpergröße",
+            "Brust des Körpers",
+            "Taille",
+            "Hüfte"
+          ],
+          "rows": [
+            [
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Die Weite ist der Unterschied zwischen Kleidungsstück und Körper, und sie verrät den Schnitt, bevor Sie es anziehen. Nach derselben Rechnung ist M im DAZY-Guide für einen Brustumfang von 82 bis 86 cm gedacht. Bei einem Shirt mit regulärem Schnitt und leichter Elastizität bleiben so 7 bis 11 cm Weite. Gibt es nur das Maß des Kleidungsstücks, übernimmt die Elastizität die Rolle der Weite: Bei der Essnce mit starker Elastizität trägt das Model auf der Produktseite Größe S, die 78 cm misst, also 9 cm weniger als ihr Brustumfang.",
+          "Der Guide weist darauf hin, dass sich das Maß des Artikels um 1 bis 2 cm unterscheiden kann, und die Beschreibung beider Shirts warnt, dass sich der Stoff nach dem Waschen zu Hause verändert. Liegt Ihr Maß genau an der Grenze einer Größe, entscheiden diese 2 cm. Also: Stoff ohne oder mit wenig Elastizität verlangt Weite, und an der Grenze die Größe darüber; Stoff mit mittlerer oder starker Elastizität verlangt die Größe Ihres Maßes, denn viel Weite an einem dehnbaren Stoff wird zu weiter Kleidung."
+        ]
+      },
+      {
+        "heading": "Was die Seite sonst zeigt: das Model und die Käufer",
+        "paragraphs": [
+          "Nach dem Maß hilft am meisten die Tabelle der Käufer, weil sie echte Menschen zeigt: Körpergröße, Gewicht, Brust, Taille, Hüfte und die Größe, die jede bestellt hat. Suchen Sie dort jemanden mit Ihren Maßen und sehen Sie nach, was diese Person bestellt hat. Direkt darüber steht die Passformbewertung der Käufer in Prozent: Beim DAZY-Shirt fanden 93 % die Größe passend, 6 % zu klein und 1 % zu groß; bei der Essnce gibt die Seite an, dass 95 % die Größe passend fanden. Ein hoher Anteil bei „zu klein“ ist ein Hinweis auf die Größe darüber.",
+          "Das Model dient als Maßstab für die Körpergröße. Beim DAZY-Shirt ist sie 176 cm groß, hat 87 cm Brustumfang und trägt die internationale M; bei der Essnce 175 cm und 87 cm Brustumfang, in S. Gleicher Brustumfang, unterschiedliche Buchstaben, bei beiden Marken: wieder die Geschichte mit dem Buchstaben. Der Button mit den Angaben zu Größe und Passform zeigt diese Maße des Models auf der Seite selbst.",
+          "Unter den Größen zeigen manche Seiten einen Link, der eine Größe vorschlägt. Das Hilfecenter von SHEIN sagt, dass das Tool Körpergröße, Alter und Gewicht abfragt, um eine Größe vorzuschlagen. Angemeldet erscheint der Vorschlag bei einigen Artikeln von selbst. Nutzen Sie ihn als zweite Meinung, nie anstelle des Maßbands: Er fragt nicht nach Brust und Taille, und genau da ändert sich der Buchstabe."
+        ]
+      },
+      {
+        "heading": "Wenn es nicht passt: die Rückgabe",
+        "paragraphs": [
+          "Eine falsche Größe kostet die Zeit von zwei Lieferungen: Das Teil geht zurück, bevor das richtige ankommt, deshalb lohnt sich das Maßband vor der Bestellung.",
+          "Die Rückgabebedingungen Ihres Landes finden Sie im Hilfecenter von SHEIN. Rückgabe und Ruf des Shops stehen unter [Ist SHEIN seriös?](/de/reviews/ist-shein-serioes-und-sicher)."
+        ]
+      },
+      {
+        "heading": "Vor dem Kauf",
+        "paragraphs": [
+          "Die Größe wird vor dem Warenkorb festgelegt, in dieser Reihenfolge:"
+        ],
+        "bullets": [
+          "Messen Sie Brust, Taille und Hüfte und notieren Sie sie in Zentimetern.",
+          "Öffnen Sie den Größenguide des Artikels und lassen Sie ihn auf CM.",
+          "Prüfen Sie, ob die Tabelle zum Artikel oder zum Körper gehört. Vergleichen Sie mit Ihrem Maß und rechnen Sie die Weite aus.",
+          "Lesen Sie Schnitt und Elastizität: Stoff ohne Dehnung braucht Weite; Stoff mit Dehnung die Größe Ihres Maßes.",
+          "Sehen Sie sich die Passformbewertung der Käufer an und suchen Sie in deren Tabelle jemanden mit Ihren Maßen.",
+          "Rechnen Sie mit 1 bis 2 cm Abweichung am Artikel und mit der Veränderung nach dem Waschen.",
+          "Bewahren Sie die Bestellbestätigung und die Sendungsnummer auf: Damit läuft die Rückgabe, wenn der Artikel nicht passt."
+        ],
+        "postParagraphs": [
+          "Lieferzeit, Versand und was Sie vor der Zahlung prüfen sollten, stehen in [Lohnt sich SHEIN?](/de/reviews/lohnt-sich-shein). Der 4CW5Y ist der Empfehlungscode von SHEIN: Er wird in der App gesucht, ist kein Gutschein und gibt keinen Rabatt; die aktuellen Aktionen stehen auf der [SHEIN-Seite](/de/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Welche Größe bestellen: die Übersicht nach Situation",
+        "bullets": [
+          "Stoff ohne Elasthan, ohne oder mit leichter Elastizität (das DAZY-Shirt): die Größe, deren Artikelmaß die Weite ergibt, die Sie möchten; liegt Ihr Maß an der Grenze, die Größe darüber.",
+          "Stoff mit Elasthan, mittlerer oder starker Elastizität, und nur das Artikelmaß im Guide (die Essnce): die Größe, deren Maß gleich Ihrem oder darunter liegt, wie es das Model auf der Seite vormacht.",
+          "Marke, bei der die Seite warnt, dass sie kleiner ausfällt (DAZY): Lesen Sie die Körpertabelle der Marke selbst, nicht Ihren üblichen Buchstaben.",
+          "Zwischen zwei Größen und unsicher: die, die in der Käufertabelle jemand mit Ihren Maßen bestellt hat; ohne Vergleichsperson entscheidet die Weite nach der Stoffregel."
+        ],
+        "emphasis": "Für mein eigenes Zuhause würde ich keine Größe bestellen, ohne den Guide des Artikels zu öffnen, denn derselbe Buchstabe ändert sich von Marke zu Marke."
+      },
+      {
+        "heading": "Häufige Fragen",
+        "bullets": [
+          "Welche Größe braucht man bei SHEIN? Die, die der Größenguide des Artikels für Ihr Maß in Zentimetern angibt; der Buchstabe ändert sich von Marke zu Marke, wie die beiden T-Shirts im ersten Kapitel zeigen.",
+          "Fallen die Größen bei SHEIN klein aus? Mit dem Buchstaben allein lässt sich das nicht beantworten: Die Produktseite zeigt Schnitt, Elastizität und den Anteil der Käufer, die die Größe passend fanden. Bei den beiden T-Shirts dieses Guides fand die Mehrheit sie passend; die Zahlen stehen im Kapitel „Was die Seite sonst zeigt“.",
+          "Tauscht SHEIN gegen eine andere Größe? Das hängt vom Land ab: Die Rückgabe- und Umtauschregeln stehen im Hilfecenter von SHEIN.",
+          "Wie misst man die Brust für SHEIN? Mit dem Band an der vollsten Stelle der Brust, gerade am Rücken und ohne zu ziehen; das Kapitel zum Messen umfasst auch Taille und Hüfte."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Das Maß des Artikels im Guide in Zentimetern gibt die Weite, die Sie möchten, und Schnitt und Elastizität passen zu dem, was Sie vom Stoff erwarten.",
+        "Die Käufertabelle der Seite enthält jemanden mit Ihren Maßen, und diese Person hat die Größe bestellt, die Sie bestellen wollen."
+      ],
+      "skipIf": [
+        "Sie haben nach Ihrem üblichen Buchstaben gewählt, ohne den Guide des Artikels zu öffnen: Derselbe Buchstabe ändert sich von Marke zu Marke.",
+        "Sie brauchen den Artikel zu einem festen Termin und können keine Rückgabe abwarten: Eine falsche Größe kostet die Zeit von zwei Lieferungen."
+      ]
+    }
+  },
+  {
+    "id": 809,
+    "slug": "taglie-shein",
+    "locale": "it",
+    "translationKey": "shein-tamanho",
+    "title": "Taglie SHEIN: quale taglia ordinare e come leggere la guida di ogni capo",
+    "seoTitle": "Taglie SHEIN: quale taglia prendere e come leggere la guida",
+    "type": "Guida alle taglie",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Su SHEIN la stessa lettera cambia da marchio a marchio: due magliette M differiscono di 11 cm sul busto. Scegli dalle misure in cm di ogni capo, non dalla lettera abituale.",
+    "metaDescription": "Taglia su SHEIN: la lettera cambia da marchio a marchio. Il 4CW5Y è un codice invito da cercare nell'app. Misura in cm e leggi la guida di ogni capo.",
+    "publishedAt": "4 novembre 2026",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "Maglietta blu navy, maglietta nera vista di spalle e pigiama verde stampato in foto ufficiali SHEIN, con il logo del negozio, le lettere S, M e L e un righello",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "Vai su SHEIN",
+      "text": "Apri la guida alle taglie del capo e confronta la misura in centimetri con la tua prima di scegliere la lettera.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "Possiamo ricevere una commissione sui link SHEIN. Nessuno del team ha indossato i capi.",
+    "relatedArticles": [
+      {
+        "slug": "shein-conviene",
+        "title": "SHEIN conviene? Quando vale la pena comprare e quando è meglio lasciar perdere"
+      },
+      {
+        "slug": "abito-da-festa-shein",
+        "title": "Abito da festa su SHEIN: come scegliere per occasione, tessuto e tempi di consegna"
+      },
+      {
+        "slug": "shein-e-affidabile-e-sicuro",
+        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+      },
+      {
+        "slug": "codice-invito-shein-dove-inserirlo",
+        "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
+      },
+      {
+        "slug": "shein-recensioni-trustpilot",
+        "title": "SHEIN su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Risposta rapida",
+        "paragraphs": [
+          "Su SHEIN la taglia si sceglie dalla misura in centimetri della guida di ogni capo, mai dalla lettera abituale: la M cambia da un marchio all'altro. Misura il corpo e confrontalo con il capo. Se non va bene, la soluzione è il reso; il capitolo «Se non va bene» spiega come."
+        ]
+      },
+      {
+        "heading": "La stessa lettera cambia da marchio a marchio",
+        "paragraphs": [
+          "Porti la M, ordini la M, e la maglietta arriva di un'altra taglia: su SHEIN la lettera non fa da riferimento. La piattaforma vende marchi diversi, e ogni marchio misura la sua M a modo suo. Due magliette in tinta unita a maniche corte mostrano il problema."
+        ],
+        "comparisonTable": {
+          "caption": "Busto del capo nella taglia M internazionale, dalla guida alle taglie di ogni scheda; la guida completa di DAZY è più in basso.",
+          "headers": [
+            "Maglietta",
+            "Busto del capo in M",
+            "Tipo di vestibilità",
+            "Elasticità",
+            "Tessuto"
+          ],
+          "rows": [
+            [
+              "[Maglietta DAZY a maniche corte](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "Regolare",
+              "Poca",
+              "100% cotone"
+            ],
+            [
+              "[Maglietta SHEIN Essnce in tinta unita](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "Tra skinny e regolare",
+              "Alta",
+              "95% viscosa e 5% elastan"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Il nostro calcolo: dalle misure del capo nelle due guide, la M di DAZY ha 11 cm di busto in più della M di Essnce, quasi quanto la XL di Essnce. Il negozio indica: la scheda stessa di DAZY avverte che il marchio segue le taglie asiatiche e veste più piccolo di SHEIN.",
+          "Cosa cambia nell'acquisto: ogni capo ha la sua guida, ed è quella che conta. Per non sbagliare, non fidarti della lettera: apri la guida alle taglie del capo e confronta centimetro per centimetro. I due capitoli successivi mostrano come: prima il corpo, poi la guida."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "Modella con la maglietta DAZY blu navy a maniche corte e girocollo, di fronte, con pantaloni neri e borsa a spalla",
+            "caption": "Maglietta DAZY: la scheda avverte che il marchio veste più piccolo di SHEIN. Foto ufficiale SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "Modella con la maglietta nera SHEIN Essnce a maniche corte e girocollo, di fronte, con jeans e cintura",
+            "caption": "Maglietta SHEIN Essnce: la sua M ha un busto più piccolo di quello della DAZY. Foto ufficiale SHEIN.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "Come misurare il corpo",
+        "paragraphs": [
+          "Prima di aprire una guida ti servono tre misure: busto, vita e fianchi. Regola pratica, non testata da noi: usa un metro da sarta sopra vestiti leggeri, con il metro appoggiato alla pelle senza stringere. Dove passare il metro per ogni misura:"
+        ],
+        "bullets": [
+          "Busto: nel punto più pieno, con il metro dritto, passando sotto le braccia e sulla schiena alla stessa altezza.",
+          "Vita: nel punto più stretto del tronco, di solito un po' sopra l'ombelico, respirando normalmente.",
+          "Fianchi: nel punto più largo dei fianchi, con i piedi uniti."
+        ],
+        "postParagraphs": [
+          "Annota le tre misure in centimetri. La guida SHEIN mostra le misure in centimetri e in pollici; per confrontare resta su CM. La guida spiega da sola come misurare: se il tuo modo di misurare è il suo, il confronto torna. Per t-shirt, camicette e abiti decide il busto; per pantaloni e gonne, vita e fianchi. Nel dubbio tra due tue misure, usa la più grande: l'eccesso si sistema, il difetto no."
+        ]
+      },
+      {
+        "heading": "Come leggere la guida del capo: misura del capo, misura del corpo e ampiezza",
+        "paragraphs": [
+          "Quello che decide la taglia è sapere quale tabella stai guardando, perché la guida SHEIN può averne due. La tabella delle misure del prodotto è il capo misurato a piatto: il busto della maglietta DAZY in M è la misura del capo, non del tuo corpo. La tabella delle misure corporee, quando il capo la prevede, è la fascia di corpo che il marchio indica per ogni lettera, e la nota stessa dice che serve solo come riferimento. Alcuni capi hanno solo quella del capo, come la Essnce; allora il confronto è diretto tra la tua misura e quella del capo, e l'ampiezza la decidi tu."
+        ],
+        "comparisonTable": {
+          "caption": "Guida alle taglie della maglietta DAZY, letta il 4 novembre 2026, in centimetri: misura del capo a sinistra (busto e lunghezza; spalla e manica escluse), fascia del corpo a destra.",
+          "headers": [
+            "Taglia",
+            "Busto del capo",
+            "Lunghezza",
+            "Altezza",
+            "Busto del corpo",
+            "Vita",
+            "Fianchi"
+          ],
+          "rows": [
+            [
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "L'ampiezza è la differenza tra il capo e il tuo corpo, e rivela la vestibilità prima ancora di indossarlo. Con lo stesso calcolo, nella guida DAZY la M è indicata per un busto da 82 a 86 cm. Restano da 7 a 11 cm di ampiezza su una maglietta a vestibilità regolare e poca elasticità. Quando c'è solo la misura del capo, l'elasticità fa le veci dell'ampiezza: sulla Essnce, con elasticità alta, la modella della scheda porta la S, che misura 78 cm, 9 cm meno del suo busto.",
+          "La guida avverte che la misura del capo può variare di 1-2 cm, e la descrizione delle due magliette avverte che il tessuto cambia misura dopo il lavaggio in casa. Se la tua misura cade al limite di una taglia, decidono questi 2 cm. Quindi: un tessuto senza elasticità o con poca elasticità chiede ampiezza, e al limite la taglia sopra; un tessuto con elasticità media o alta chiede la taglia della tua misura, perché troppa ampiezza su un capo elastico lo fa diventare largo."
+        ]
+      },
+      {
+        "heading": "Cosa mostra in più la scheda: la modella e chi ha comprato",
+        "paragraphs": [
+          "Dopo la misura, la cosa più utile è la tabella di chi ha comprato, perché mostra persone reali: altezza, peso, busto, vita, fianchi e la taglia ordinata da ciascuna. Cerca lì qualcuno con le tue misure e guarda cosa ha preso. Subito sopra compare la valutazione di vestibilità degli acquirenti, in percentuale: su DAZY, il 93% l'ha trovata fedele alla taglia, il 6% piccola e l'1% grande; su Essnce la scheda dice che il 95% l'ha trovata fedele alla taglia. Una quota alta di «piccola» è un segnale: prendi la taglia sopra.",
+          "La modella fa da riferimento per l'altezza. Su DAZY è alta 176 cm, ha 87 cm di busto e porta la M internazionale; su Essnce, 175 cm e 87 cm di busto, con la S. Stesso busto, lettere diverse, in entrambi i marchi: è di nuovo la storia della lettera. Il pulsante dei dettagli su taglia e vestibilità mostra queste misure della modella nella scheda stessa.",
+          "Sotto le taglie, alcune schede mostrano un link che suggerisce la taglia. Il centro assistenza SHEIN dice che lo strumento chiede altezza, età e peso per suggerire una taglia. Da loggati, il suggerimento compare da solo su alcuni capi. Usalo come seconda opinione, mai al posto del metro: non chiede né il busto né la vita, ed è proprio lì che cambia la lettera."
+        ]
+      },
+      {
+        "heading": "Se non va bene: il reso",
+        "paragraphs": [
+          "Sbagliare taglia costa il tempo di due consegne: il capo torna prima che arrivi quello giusto, ed è per questo che il metro serve prima dell'ordine.",
+          "La politica di reso del tuo paese è nel centro assistenza SHEIN. Reso e reputazione del negozio sono in [SHEIN è affidabile?](/it/reviews/shein-e-affidabile-e-sicuro)."
+        ]
+      },
+      {
+        "heading": "Prima di comprare",
+        "paragraphs": [
+          "La taglia si decide prima del carrello, in quest'ordine:"
+        ],
+        "bullets": [
+          "Misura busto, vita e fianchi e annotali in centimetri.",
+          "Apri la guida alle taglie del capo e tienila in CM.",
+          "Controlla se la tabella è del capo o del corpo. Confrontala con la tua misura e conta l'ampiezza.",
+          "Leggi il tipo di vestibilità e l'elasticità: un tessuto che non si allunga chiede ampiezza; uno che si allunga, la taglia della tua misura.",
+          "Guarda la valutazione di vestibilità degli acquirenti e cerca nella loro tabella qualcuno con le tue misure.",
+          "Considera una variazione di 1-2 cm sul capo e il cambiamento dopo il lavaggio.",
+          "Conserva la conferma d'ordine e il tracciamento: con quelli si fa il reso, se il capo non va bene."
+        ],
+        "postParagraphs": [
+          "Tempi di consegna, spedizione e cosa controllare prima di pagare sono in [SHEIN conviene?](/it/reviews/shein-conviene). Il 4CW5Y è il codice invito di SHEIN: si cerca nell'app, non è un coupon e non dà sconto; le promozioni del momento sono nella [pagina SHEIN](/it/coupons/shein)."
+        ]
+      },
+      {
+        "heading": "Quale taglia ordinare: il riassunto per situazione",
+        "bullets": [
+          "Tessuto senza elastan, senza elasticità o con poca (la maglietta DAZY): la taglia la cui misura del capo dà l'ampiezza che preferisci; se la tua misura cade al limite, quella sopra.",
+          "Tessuto con elastan, elasticità media o alta, e solo la misura del capo nella guida (la Essnce): la taglia la cui misura è uguale o inferiore alla tua, come fa la modella della scheda.",
+          "Marchio che la scheda segnala come più piccolo (DAZY): leggi la tabella del corpo del marchio stesso, non la tua lettera abituale.",
+          "Tra due taglie e senza certezza: quella che, nella tabella degli acquirenti, ha ordinato chi ha le tue misure; senza nessuno di simile, decide l'ampiezza, con la regola del tessuto."
+        ],
+        "emphasis": "Se fosse per casa mia, non ordinerei una taglia senza aprire la guida del capo, perché la stessa lettera cambia da marchio a marchio."
+      },
+      {
+        "heading": "Domande frequenti",
+        "bullets": [
+          "Qual è la mia taglia su SHEIN? Quella che la guida alle taglie del capo indica per la tua misura in centimetri; la lettera cambia da marchio a marchio, come mostrano le due magliette del primo capitolo.",
+          "Le taglie SHEIN sono piccole? Dalla lettera non si può rispondere: la scheda di ogni capo mostra il tipo di vestibilità, l'elasticità e la percentuale di acquirenti che l'ha trovata fedele alla taglia. Per le due magliette di questa guida la maggioranza l'ha trovata fedele; i numeri sono nel capitolo «Cosa mostra in più la scheda».",
+          "SHEIN cambia con un'altra taglia? Dipende dal paese: la politica di reso e cambio di ciascuno è nel centro assistenza SHEIN.",
+          "Come si misura il busto per SHEIN? Con il metro nel punto più pieno del busto, dritto sulla schiena e senza stringere; il capitolo su come misurare comprende anche vita e fianchi."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "La misura del capo nella guida, in centimetri, dà l'ampiezza che preferisci, e tipo di vestibilità ed elasticità corrispondono a ciò che ti aspetti dal tessuto.",
+        "La tabella degli acquirenti della scheda ha qualcuno con le tue misure, e quella persona ha ordinato la taglia che stai per ordinare tu."
+      ],
+      "skipIf": [
+        "Hai scelto dalla lettera abituale senza aprire la guida del capo: la stessa lettera cambia da marchio a marchio.",
+        "Ti serve il capo per una data fissa e non puoi aspettare il reso: sbagliare taglia costa il tempo di due consegne."
+      ]
+    }
+  },
+  {
+    "id": 810,
+    "slug": "shein-size-guide-ko",
+    "locale": "ko",
+    "translationKey": "shein-tamanho",
+    "title": "SHEIN 사이즈 고르는 법: 상품별 사이즈 가이드 읽는 법",
+    "seoTitle": "SHEIN 사이즈: 사이즈 가이드 읽는 법",
+    "type": "사이즈 가이드",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN은 같은 사이즈 글자라도 브랜드마다 치수가 다릅니다. 티셔츠 두 장의 M 가슴둘레가 11cm 차이 나므로, 글자 대신 상품의 치수(cm)로 고르십시오.",
+    "metaDescription": "SHEIN 사이즈는 브랜드마다 다릅니다. 4CW5Y는 앱에서 검색하는 추천 코드이며 쿠폰이 아니고 할인도 없습니다. cm로 재고 상품 가이드를 읽으십시오.",
+    "publishedAt": "2026년 11월 4일",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "네이비 티셔츠, 검정 티셔츠 뒷모습, 초록 무늬 파자마를 담은 SHEIN 공식 사진. 로고, S·M·L 글자, 줄자가 들어 있습니다.",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "SHEIN으로 이동",
+      "text": "상품의 사이즈 가이드를 열고, 고르기 전에 cm 치수를 자신의 치수와 비교하십시오.",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEIN 링크로 저희가 수수료를 받을 수 있습니다. 팀원 누구도 이 옷을 입어 보지 않았습니다.",
+    "relatedArticles": [
+      {
+        "slug": "shein-worth-it-ko",
+        "title": "SHEIN은 살 만할까요? 언제 사면 좋고 언제 건너뛰어야 할지"
+      },
+      {
+        "slug": "shein-party-dress-guide-ko",
+        "title": "SHEIN 파티 드레스: 행사, 소재, 배송 기간으로 고르는 법"
+      },
+      {
+        "slug": "shein-trust-guide-ko",
+        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+      },
+      {
+        "slug": "shein-referral-code-ko",
+        "title": "SHEIN 추천 코드: 입력하는 곳과 사용법"
+      },
+      {
+        "slug": "shein-trustpilot-reviews-ko",
+        "title": "SHEIN(쉬인) Trustpilot 평점과 불만, 그리고 숫자가 보여주는 것"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "빠른 답",
+        "paragraphs": [
+          "SHEIN에서는 사이즈를 상품 가이드의 cm 치수로 고릅니다. 글자(M 등)를 늘 입던 기준으로 고르지 마십시오. M도 브랜드마다 치수가 다릅니다. 먼저 자신의 몸을 재고 상품과 비교합니다. 맞지 않으면 반품하면 되며, 방법은 “맞지 않을 때” 장에서 설명합니다."
+        ]
+      },
+      {
+        "heading": "같은 글자라도 브랜드마다 치수가 다릅니다",
+        "paragraphs": [
+          "같은 M을 골랐는데 다른 치수가 왔다면, 그건 SHEIN에서 흔히 생기는 일입니다. SHEIN은 여러 브랜드를 팔고, 브랜드마다 M을 재는 방식이 다릅니다. 반팔 무지 티셔츠 두 장을 보면 차이가 잘 드러납니다."
+        ],
+        "comparisonTable": {
+          "caption": "상품 페이지의 사이즈 가이드에 따른, 인터내셔널 M 사이즈 상품의 가슴둘레. DAZY 가이드 전체는 아래에 있습니다.",
+          "headers": [
+            "티셔츠",
+            "M 상품 가슴둘레",
+            "핏 타입",
+            "신축성",
+            "소재"
+          ],
+          "rows": [
+            [
+              "[DAZY 반팔 티셔츠](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "레귤러 핏",
+              "약간 늘어남",
+              "면 100%"
+            ],
+            [
+              "[SHEIN Essnce 무지 반팔 티셔츠](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "스키니와 레귤러 사이",
+              "많이 늘어남",
+              "레이온 95%, 스판덱스 5%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "저희 계산: 두 상품 가이드의 치수로 보면, DAZY의 M은 SHEIN Essnce의 M보다 가슴둘레가 11cm 큽니다. Essnce의 XL 가슴둘레에 가까운 수치입니다. 쇼핑몰 안내: DAZY 상품 페이지에는 이 브랜드가 아시아 사이즈 기준을 따르며 SHEIN보다 작게 나온다고 적혀 있습니다.",
+          "그래서 구매할 때는 상품마다 자체 가이드가 있고, 그 가이드가 기준이 됩니다. 글자는 잠시 잊고 사이즈 가이드를 열어 cm를 하나씩 비교하십시오. 다음 두 장에서 자신의 몸을 재는 법과 가이드 읽는 법을 차례로 설명합니다."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "DAZY 네이비 반팔 라운드넥 티셔츠를 입은 모델의 정면 모습. 검정 바지와 어깨에 멘 가방이 함께 있습니다.",
+            "caption": "DAZY 티셔츠: 페이지에 SHEIN보다 작게 나온다고 적혀 있습니다. SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "SHEIN Essnce 검정 반팔 라운드넥 티셔츠를 입은 모델의 정면 모습. 청바지와 벨트를 함께 착용했습니다.",
+            "caption": "SHEIN Essnce 티셔츠: 이 제품의 M은 DAZY보다 가슴둘레가 작습니다. SHEIN 공식 사진.",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "자신의 몸 재는 법",
+        "paragraphs": [
+          "어떤 가이드를 열기 전에도 자신의 수치 세 가지가 필요합니다. 가슴둘레, 허리둘레, 엉덩이둘레입니다. 일반 기준(직접 테스트하지 않음): 재봉용 줄자를 얇은 옷 위에서 피부에 살짝 대고, 조이지 않게 잽니다. 재는 위치는 다음과 같습니다:"
+        ],
+        "bullets": [
+          "가슴둘레: 가장 볼록한 부분에서 줄자가 수평이 되도록, 겨드랑이 아래와 등의 같은 높이로 돌려 잽니다.",
+          "허리둘레: 몸통에서 가장 잘록한 부분으로, 보통 배꼽 조금 위입니다. 숨을 평소처럼 쉬면서 잽니다.",
+          "엉덩이둘레: 엉덩이에서 가장 넓은 부분을, 두 발을 붙인 상태로 잽니다."
+        ],
+        "postParagraphs": [
+          "세 수치를 cm로 적어 두십시오. SHEIN 가이드는 cm와 인치를 함께 보여주지만, 비교에는 cm를 쓰십시오. 가이드에 재는 법이 함께 나와 있으니, 같은 방식으로 재면 비교가 정확합니다. 티셔츠, 블라우스, 원피스는 가슴둘레가 기준이고, 바지와 치마는 허리와 엉덩이가 기준입니다. 두 수치 사이에서 고민되면 큰 쪽을 쓰십시오. 남는 부분은 조정할 수 있지만 모자란 부분은 그럴 수 없습니다."
+        ]
+      },
+      {
+        "heading": "상품 가이드 읽는 법: 상품 치수, 신체 치수, 여유분",
+        "paragraphs": [
+          "어느 표를 보고 있는지 아는 것이 사이즈를 정하는 핵심입니다. SHEIN 가이드에는 표가 두 가지 있을 수 있습니다. 하나는 상품 치수로, 상품을 평평하게 놓고 잰 수치입니다. DAZY M의 가슴둘레는 몸이 아니라 옷의 치수입니다. 다른 하나는 신체 치수로, 상품에 따라 있습니다. 그 사이즈가 맞는다고 보는 몸의 범위이며, 페이지 메모에 참고용이라고 적혀 있습니다. Essnce처럼 상품 치수만 있는 제품도 있습니다. 그럴 때는 자신의 치수와 상품 치수를 직접 비교하고, 여유분은 스스로 판단하십시오."
+        ],
+        "comparisonTable": {
+          "caption": "DAZY 티셔츠의 사이즈 가이드(2026년 11월 4일 확인, cm): 왼쪽은 상품 치수(가슴둘레와 총장, 어깨와 소매는 제외), 오른쪽은 신체 치수 범위입니다.",
+          "headers": [
+            "사이즈",
+            "상품 가슴둘레",
+            "총장",
+            "키",
+            "신체 가슴둘레",
+            "허리",
+            "엉덩이"
+          ],
+          "rows": [
+            [
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "여유분은 옷과 자신의 몸의 차이로, 입기 전에 핏이 얼마나 넉넉한지 알려 줍니다. 같은 계산을 DAZY 가이드에 적용하면 M은 가슴둘레 82~86cm인 사람에게 맞습니다. 레귤러 핏이고 신축성이 약간 있는 티셔츠라면 7~11cm의 여유가 남습니다. 상품 치수만 있을 때는 신축성이 여유분의 역할을 합니다. 신축성이 많이 늘어나는 Essnce에서는, 페이지의 모델이 78cm인 S를 입고 있습니다. 이는 모델의 가슴둘레보다 9cm 작은 수치입니다.",
+          "가이드에는 상품 치수가 1~2cm 달라질 수 있다고 나와 있고, 두 티셔츠 모두 집에서 세탁하면 원단 치수가 바뀔 수 있다고 적혀 있습니다. 자신의 치수가 사이즈 경계에 걸리면 이 2cm가 결정합니다. 그러니 신축성이 없거나 약간 있는 원단은 여유가 필요하므로 경계에서는 위 사이즈를 고르고, 신축성이 중간이거나 많이 늘어나는 원단은 자신의 치수에 맞는 사이즈를 고르십시오. 잘 늘어나는 원단에서 여유가 크면 헐렁해지기 때문입니다."
+        ]
+      },
+      {
+        "heading": "모델과 구매자: 페이지에 있는 다른 정보",
+        "paragraphs": [
+          "치수 다음으로 도움이 되는 것은 구매자 표입니다. 실제 사람들의 데이터가 있기 때문입니다. 키, 몸무게, 가슴둘레, 허리, 엉덩이, 그리고 각자 고른 사이즈를 볼 수 있습니다. 자신과 비슷한 사람을 찾아 무엇을 골랐는지 보십시오. 그 위에는 구매자가 착용감을 어떻게 평가했는지 비율로 나옵니다. DAZY에서는 93%가 사이즈가 맞았다고 했고, 6%는 작다고, 1%는 크다고 답했습니다. Essnce 페이지에는 95%가 사이즈가 맞았다고 나와 있습니다. 작다는 비율이 높으면 위 사이즈를 고르라는 신호입니다.",
+          "모델은 키의 기준이 됩니다. DAZY에서는 모델이 176cm, 가슴둘레 87cm이고 인터내셔널 M을 입고 있습니다. Essnce에서는 175cm, 가슴둘레 87cm이고 S를 입고 있습니다. 두 브랜드에서 가슴둘레는 같은데 고르는 사이즈 글자가 다릅니다. 사이즈 글자보다 치수로 고르라는 장의 이야기로 돌아갑니다. 페이지의 사이즈와 핏 상세 정보를 열면 그 화면에서 모델의 치수를 볼 수 있습니다.",
+          "사이즈 목록 아래에 추천 사이즈를 알려 주는 링크가 있는 페이지도 있습니다. SHEIN 도움말에 따르면 이 기능은 키, 나이, 몸무게를 입력받아 사이즈를 추천합니다. 로그인하면 일부 상품에서는 추천이 자동으로 나타나기도 합니다. 줄자 대신이 아니라 보조 의견으로만 쓰십시오. 가슴둘레나 허리둘레는 묻지 않는데, 사이즈가 달라지는 것이 바로 그 부분입니다."
+        ]
+      },
+      {
+        "heading": "맞지 않을 때: 반품",
+        "paragraphs": [
+          "사이즈를 잘못 고르면 배송을 두 번 기다려야 합니다. 맞지 않은 상품이 반송된 뒤에야 맞는 상품이 도착하기 때문입니다. 그래서 주문하기 전에 줄자로 재 두는 것이 중요합니다.",
+          "거주 국가의 반품 정책은 SHEIN 고객센터에 있습니다. 반품과 쇼핑몰의 평판은 [SHEIN은 믿을 만한가요?](/ko/reviews/shein-trust-guide-ko)에 정리해 두었습니다."
+        ]
+      },
+      {
+        "heading": "구매 전에",
+        "paragraphs": [
+          "사이즈는 장바구니에 담기 전에 다음 순서로 정하십시오:"
+        ],
+        "bullets": [
+          "가슴둘레, 허리둘레, 엉덩이둘레를 재서 cm로 적어 두십시오.",
+          "상품의 사이즈 가이드를 열고, 단위를 cm로 맞추십시오.",
+          "표가 상품 치수인지 신체 치수인지 확인하고, 자신의 치수와 비교해 여유분을 계산하십시오.",
+          "핏 타입과 신축성을 읽으십시오. 늘어나지 않는 원단은 여유가 필요하고, 늘어나는 원단은 자신의 치수에 맞는 사이즈면 됩니다.",
+          "구매자 착용감 평가를 확인하고, 구매자 표에서 자신과 치수가 비슷한 사람을 찾으십시오.",
+          "상품 치수는 1~2cm 차이가 날 수 있고, 세탁 후에도 바뀔 수 있다는 점을 감안하십시오.",
+          "주문 확인서와 배송 추적 번호를 보관하십시오. 맞지 않을 때 반품은 이 두 가지로 진행됩니다."
+        ],
+        "postParagraphs": [
+          "배송 기간, 배송비, 결제 전 확인할 사항은 [SHEIN은 살 만할까요?](/ko/reviews/shein-worth-it-ko)에 있습니다. 4CW5Y는 SHEIN 추천 코드입니다. 앱에서 검색해서 쓰는 것이며, 쿠폰이 아니고 할인도 없습니다. 현재 진행 중인 행사는 [SHEIN 페이지](/ko/coupons/shein)에서 확인하십시오."
+        ]
+      },
+      {
+        "heading": "어떤 사이즈를 고를까: 상황별 요약",
+        "bullets": [
+          "스판덱스가 없는 원단이고 신축성이 없거나 약간 있는 경우(DAZY 티셔츠): 상품 치수를 보고, 원하는 여유가 나오는 사이즈를 고르십시오. 치수가 경계에 걸리면 위 사이즈를 고르십시오.",
+          "스판덱스가 들어 있고 신축성이 중간이거나 많이 늘어나며, 상품 치수만 있는 가이드(Essnce): 상품 치수가 자신의 치수와 같거나 작은 사이즈를 고르십시오. 페이지의 모델이 고른 방식과 같습니다.",
+          "페이지에서 작게 나온다고 안내하는 브랜드(DAZY): 평소 입던 사이즈 글자가 아니라 그 브랜드의 신체 치수표를 읽으십시오.",
+          "두 사이즈 사이에서 확신이 없을 때: 구매자 표에서 자신과 치수가 비슷한 사람이 고른 사이즈를 보십시오. 비슷한 사람이 없다면 원단의 신축성 기준으로 여유를 정하십시오."
+        ],
+        "emphasis": "제가 집에서 쓸 옷이라면, 상품의 사이즈 가이드를 열어 보지 않고는 사이즈를 고르지 않습니다. 같은 글자라도 브랜드마다 치수가 다르기 때문입니다."
+      },
+      {
+        "heading": "자주 묻는 질문",
+        "bullets": [
+          "SHEIN에서 자신의 사이즈는 무엇인가요? 상품의 사이즈 가이드에서 자신의 치수(cm)에 해당하는 사이즈가 답입니다. 브랜드마다 글자가 다르다는 것은 첫 장의 티셔츠 두 장에서 보신 그대로입니다.",
+          "SHEIN 사이즈는 작은 편인가요? 글자만으로는 답할 수 없습니다. 상품 페이지에서는 핏 타입, 신축성, 그리고 사이즈가 맞았다고 답한 구매자 비율을 볼 수 있습니다. 이 가이드의 티셔츠 두 장에서는 대다수가 사이즈가 맞았다고 답했습니다. 숫자는 “모델과 구매자” 장에 있습니다.",
+          "SHEIN에서 다른 사이즈로 교환해 주나요? 나라마다 다릅니다. 반품과 교환 정책은 거주 국가의 SHEIN 고객센터에서 확인하십시오.",
+          "SHEIN 기준으로 가슴둘레는 어떻게 재나요? 가슴에서 가장 볼록한 부분에 줄자를 수평으로 두르고, 조이지 않게 잽니다. 허리와 엉덩이는 측정 방법 장에 있습니다."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "상품 치수가 cm로 원하는 여유를 주고, 핏 타입과 신축성이 그 원단에 기대하는 것과 맞습니다.",
+        "구매자 표에 자신과 치수가 같은 사람이 있고, 그 사람이 고른 사이즈를 자신도 고릅니다."
+      ],
+      "skipIf": [
+        "상품 가이드를 열지 않고 평소 사이즈로 골랐습니다. 같은 글자라도 브랜드마다 치수가 다릅니다.",
+        "정해진 날짜까지 꼭 받아야 하고, 사이즈가 틀려 반품을 기다릴 수 없습니다. 배송을 두 번 기다려야 하기 때문입니다."
+      ]
+    }
+  },
+  {
+    "id": 811,
+    "slug": "shein-size-guide-ja",
+    "locale": "ja",
+    "translationKey": "shein-tamanho",
+    "title": "SHEINのサイズの選び方：商品ごとのサイズガイドの読み方",
+    "seoTitle": "SHEINのサイズ：サイズガイドの読み方",
+    "type": "サイズガイド",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEINでは同じ文字でもブランドによってサイズが違います。2枚のTシャツでMの胸囲が11cm違うので、文字ではなく商品ごとの寸法（cm）で選ぶのが確実です。",
+    "metaDescription": "SHEINのサイズはブランドで変わります。紹介コード4CW5Yはアプリで検索するもので、クーポンではありません。cmで測り、商品のガイドを読みましょう。",
+    "publishedAt": "2026年11月4日",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "紺のTシャツ、黒のTシャツの背面、緑の柄のパジャマを写したSHEINの公式写真。ロゴ、S・M・Lの文字、定規が入っています",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "SHEIN へ進む",
+      "text": "商品のサイズガイドを開き、サイズを選ぶ前にcmの数字を自分の寸法と比べてください。",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "SHEINのリンクから、当サイトが報酬を受け取る場合があります。スタッフは誰もこの商品を試着していません。",
+    "relatedArticles": [
+      {
+        "slug": "shein-worth-it-ja",
+        "title": "SHEINは買う価値がある？買うべきときと見送るべきとき"
+      },
+      {
+        "slug": "shein-party-dress-guide-ja",
+        "title": "SHEINのパーティードレス：場面・生地・納期で選ぶ方法"
+      },
+      {
+        "slug": "shein-trust-guide-ja",
+        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+      },
+      {
+        "slug": "shein-referral-code-ja",
+        "title": "SHEINの紹介コード：入力する場所と使い方"
+      },
+      {
+        "slug": "shein-trustpilot-reviews-ja",
+        "title": "SHEIN の Trustpilot 評価：スコア、苦情、数字が示すこと"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "結論",
+        "paragraphs": [
+          "SHEINでは、サイズは商品ごとのガイドにあるcm表示で選びます。M・Lといった文字をいつもの感覚で選ぶのはやめてください。Mもブランドによって寸法が違います。まず自分の体を測り、商品と比べます。合わなければ返品します。方法は「合わないとき」の章で説明します。"
+        ]
+      },
+      {
+        "heading": "ブランドが違えば、同じ文字でも寸法が違う",
+        "paragraphs": [
+          "同じMを選んだのに、届いたものは寸法が違った。SHEINでは、そんなことが起きます。SHEINは複数のブランドを扱っていて、ブランドごとにMの寸法が違うからです。無地の半袖Tシャツ2枚を見ると、その差がよくわかります。"
+        ],
+        "comparisonTable": {
+          "caption": "各商品ページのサイズガイドによる、インターナショナルMサイズの商品の胸囲。DAZYのガイド全体は下にあります。",
+          "headers": [
+            "Tシャツ",
+            "Mの商品の胸囲",
+            "フィットのタイプ",
+            "伸縮性",
+            "素材"
+          ],
+          "rows": [
+            [
+              "[DAZYの半袖Tシャツ](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "レギュラーフィット",
+              "わずかに伸びる",
+              "綿100%"
+            ],
+            [
+              "[SHEIN Essnceの無地Tシャツ](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "スキニーとレギュラーの中間",
+              "よく伸びる",
+              "レーヨン95%、スパンデックス5%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "当サイトの計算：2つの商品ガイドの寸法で比べると、DAZYのMはSHEIN EssnceのMより胸囲が11cm大きく、EssnceのXLの胸囲に近い数字です。ショップの案内：DAZYの商品ページには、このブランドはアジアのサイズ基準に従い、SHEINより小さめだと書かれています。",
+          "購入のポイントは、商品ごとにガイドがあり、そのガイドが基準になることです。文字は見ずに、サイズガイドを開いてcmを1つずつ比べてください。次の2つの章では、まず自分の体の測り方、次にガイドの読み方を説明します。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "DAZYの紺の半袖クルーネックTシャツを着たモデル。正面から、黒いパンツとショルダーバッグ",
+            "caption": "DAZYのTシャツ：ページには、このブランドはSHEINより小さめだと書かれています。SHEINの公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "SHEIN Essnceの黒い半袖クルーネックTシャツを着たモデル。正面から、ジーンズとベルト",
+            "caption": "SHEIN EssnceのTシャツ：このMは、DAZYのMより胸囲が小さめです。SHEINの公式写真。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "自分の体の測り方",
+        "paragraphs": [
+          "どのガイドを開く前にも、自分の数字が3つ必要です。胸囲、ウエスト、ヒップです。目安（当サイトでは未検証）：柔らかいメジャーを薄手の服の上から、肌に軽く当てて、きつく引っ張らずに測ります。測る場所は次のとおりです。"
+        ],
+        "bullets": [
+          "胸囲：いちばん張っている部分で、メジャーが水平になるように、わきの下を通して背中の同じ高さで測ります。",
+          "ウエスト：胴体のいちばん細い部分。たいていはへそより少し上で、普段どおりに呼吸しながら測ります。",
+          "ヒップ：お尻のいちばん大きい部分で、足をそろえた状態で測ります。"
+        ],
+        "postParagraphs": [
+          "3つの数字をcmで書き留めます。SHEINのガイドはcmとインチの両方を載せていますが、比べるときはcmを使ってください。ガイドには測り方の説明もあるので、同じ方法で測れば比較は正確になります。Tシャツ、ブラウス、ワンピースは胸囲が基準で、パンツやスカートはウエストとヒップが基準です。2つの数字で迷ったら大きいほうを使ってください。余った分は調整できますが、足りない分はどうにもなりません。"
+        ]
+      },
+      {
+        "heading": "ガイドの読み方：商品の寸法、体の寸法、ゆとり",
+        "paragraphs": [
+          "サイズを決めるのは、どの表を見ているかを知ることです。SHEINのガイドには表が2つあることがあります。1つ目は商品の寸法で、商品を平らに置いて測った数字です。DAZY Mの胸囲は、あなたの体ではなく服の寸法です。2つ目は体の寸法で、商品によってあります。そのサイズが合うとされる体の範囲を示していて、ページにも参考値だと書かれています。Essnceのように商品の寸法しかない商品もあります。その場合は、自分の寸法と商品の寸法を直接比べ、ゆとりは自分で判断します。"
+        ],
+        "comparisonTable": {
+          "caption": "DAZYのTシャツのサイズガイド（2026年11月4日に確認、cm）：左は商品の寸法（胸囲と着丈。肩と袖は除く）、右は体の寸法の範囲です。",
+          "headers": [
+            "サイズ",
+            "商品の胸囲",
+            "着丈",
+            "身長",
+            "体の胸囲",
+            "ウエスト",
+            "ヒップ"
+          ],
+          "rows": [
+            [
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "ゆとりは、服と自分の体の差のことで、着る前にどれくらい余裕があるかがわかります。同じ計算をDAZYのガイドで行うと、Mは胸囲82〜86cmの人向けです。レギュラーフィットで伸縮性がわずかなTシャツなら、7〜11cmのゆとりがあります。商品の寸法しかない場合は、伸縮性がゆとりの役割を果たします。よく伸びるEssnceでは、ページのモデルはSサイズ（78cm）を着ていて、それはモデルの胸囲より9cm小さい数字です。",
+          "ガイドには、商品の寸法が1〜2cmずれることがあると書かれています。2つのTシャツの商品説明にも、家で洗濯すると生地のサイズが変わることがあると書かれています。自分の寸法がサイズの境目にあるなら、この2cmで決まります。そのため、伸縮性がない、またはわずかな生地はゆとりが必要なので、境目では上のサイズを選びます。伸縮性が中くらい、またはよく伸びる生地は、自分の寸法に合うサイズを選びます。よく伸びる生地でゆとりが大きいと、ゆるくなってしまうからです。"
+        ]
+      },
+      {
+        "heading": "モデルと購入者：ページに載っているほかの情報",
+        "paragraphs": [
+          "寸法の次に役立つのは購入者の表です。実際の人のデータが載っているからです。身長、体重、胸囲、ウエスト、ヒップと、その人が選んだサイズがわかります。自分に近い人を探して、何を選んだかを見てください。その上には、購入者が着用感をどう評価したかが割合で出ています。DAZYでは93%がサイズどおりと答え、6%が小さい、1%が大きいと答えています。Essnceのページでは、95%がサイズどおりだと書かれています。小さいという割合が高ければ、上のサイズを選ぶサインです。",
+          "モデルは身長の目安になります。DAZYのモデルは176cm、胸囲87cmで、インターナショナルのMを着ています。Essnceのモデルは175cm、胸囲87cmで、Sを着ています。胸囲は同じでも、2つのブランドでは選ぶ文字が違います。ここでも、文字ではなく寸法で選ぶという話になります。ページのサイズと着用感の詳細を開くと、その画面でモデルの寸法が見られます。",
+          "サイズの下に、推奨サイズを教えてくれるリンクがあるページもあります。SHEINのヘルプでは、この機能は身長、年齢、体重をもとにサイズを提案すると説明されています。ログインしていると、商品によっては提案が自動で表示されることもあります。メジャーの代わりではなく、あくまで参考意見として使ってください。胸囲もウエストも聞かれませんが、サイズが変わるのはまさにその部分です。"
+        ]
+      },
+      {
+        "heading": "合わないとき：返品",
+        "paragraphs": [
+          "サイズを間違えると、配送を2回待つことになります。合わなかった商品が戻ってから、正しいサイズが届くからです。だから注文の前に、メジャーで測っておくことが大切です。",
+          "お住まいの国の返品ポリシーは、SHEINのヘルプセンターにあります。返品と店の評判は[SHEINは信頼できる？](/ja/reviews/shein-trust-guide-ja)にまとめています。"
+        ]
+      },
+      {
+        "heading": "買う前に",
+        "paragraphs": [
+          "サイズは、カートに入れる前に次の順番で決めてください："
+        ],
+        "bullets": [
+          "胸囲、ウエスト、ヒップを測り、cmで書き留める。",
+          "商品のサイズガイドを開き、単位をcmにする。",
+          "表が商品の寸法か体の寸法かを確かめ、自分の寸法と比べてゆとりを計算する。",
+          "フィットのタイプと伸縮性を読む。伸びない生地はゆとりが必要で、伸びる生地は自分の寸法に合うサイズでよい。",
+          "購入者の着用感の評価を確認し、購入者の表で自分と近い寸法の人を探す。",
+          "商品の寸法は1〜2cmずれることがあり、洗濯後も変わることを見込んでおく。",
+          "注文確認と配送の追跡番号を保存しておく。合わなかったときの返品は、この2つで進む。"
+        ],
+        "postParagraphs": [
+          "配送の期間、送料、支払い前に確認することは[SHEINは買う価値がある？](/ja/reviews/shein-worth-it-ja)にまとめています。4CW5Yは、SHEINの紹介コードです。アプリで検索して使うもので、クーポンではありません。割引もありません。現在のキャンペーンは[SHEINのページ](/ja/coupons/shein)にあります。"
+        ]
+      },
+      {
+        "heading": "どのサイズを選ぶか：状況別のまとめ",
+        "bullets": [
+          "スパンデックスを含まず、伸縮性がない、またはわずかな生地（DAZYのTシャツ）：商品の寸法で、ほしいゆとりが出るサイズを選ぶ。寸法が境目なら、上のサイズ。",
+          "スパンデックスを含み、伸縮性が中くらいかよく伸び、商品の寸法しかないガイド（Essnce）：商品の寸法が自分の寸法と同じか、それより小さいサイズを選ぶ。ページのモデルと同じ選び方です。",
+          "ページで小さめだと注意書きされているブランド（DAZY）：いつものサイズ文字ではなく、そのブランドの体の寸法の表を読む。",
+          "2つのサイズで迷い、確信がないとき：購入者の表で、自分と寸法が近い人が選んだサイズを見る。近い人がいなければ、生地の伸縮性のルールでゆとりを決める。"
+        ],
+        "emphasis": "私なら、商品のサイズガイドを開かずにサイズは選びません。同じ文字でもブランドによって寸法が違うからです。"
+      },
+      {
+        "heading": "よくある質問",
+        "bullets": [
+          "SHEINで自分のサイズは何ですか？商品のサイズガイドで、自分の寸法（cm）に合うサイズが答えです。ブランドによって文字が違うのは、最初の章にある2枚のTシャツのとおりです。",
+          "SHEINのサイズは小さめですか？文字だけでは答えられません。商品ページには、フィットのタイプ、伸縮性、そしてサイズどおりと答えた購入者の割合が出ています。このガイドの2枚のTシャツでは、大多数がサイズどおりと答えています。数字は「モデルと購入者」の章にあります。",
+          "SHEINは別のサイズと交換してくれますか？国によって異なります。返品と交換のルールは、お住まいの国のSHEINのヘルプセンターで確認してください。",
+          "SHEINで胸囲はどう測ればいいですか？胸のいちばん張っている部分にメジャーを水平に当て、きつく締めずに測ります。ウエストとヒップは、測り方の章にあります。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "商品の寸法がcmで、ほしいゆとりが出ていて、フィットのタイプと伸縮性がその生地に期待するものと合っている。",
+        "購入者の表に自分と寸法が同じ人がいて、その人が選んだサイズを自分も選ぶ。"
+      ],
+      "skipIf": [
+        "商品のガイドを開かず、いつものサイズで選んだ。同じ文字でもブランドによって寸法が違います。",
+        "決まった日までに商品が必要で、サイズ違いの返品を待てない。配送を2回待つことになるからです。"
+      ]
+    }
+  },
+  {
+    "id": 812,
+    "slug": "shein-size-guide-zh-hant",
+    "locale": "zh-hant",
+    "translationKey": "shein-tamanho",
+    "title": "SHEIN 尺碼怎麼選：如何看每件商品的尺碼表",
+    "seoTitle": "SHEIN 尺碼：怎麼看尺碼表",
+    "type": "尺碼指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 同一個字母在不同品牌裡尺寸不同。兩件 T 恤的 M 胸圍相差 11 公分，所以要依每件商品的公分尺寸來選，不能只看字母。",
+    "metaDescription": "SHEIN 尺碼因品牌而異。4CW5Y 是推薦碼，要在 App 裡搜尋使用，不是優惠券。請用公分量身體，並閱讀每件商品的尺碼表。",
+    "publishedAt": "2026年11月4日",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "SHEIN 官方照片：藏青色 T 恤、黑色 T 恤背面和綠色印花睡衣，附品牌標誌、S、M、L 字母和捲尺",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "前往 SHEIN",
+      "text": "打開商品的尺碼表，選字母前先把公分數和自己的尺寸比一比。",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "我們可能會從 SHEIN 連結獲得傭金。團隊成員沒有試穿這些商品。",
+    "relatedArticles": [
+      {
+        "slug": "shein-worth-it-zh-hant",
+        "title": "SHEIN 值得買嗎？什麼時候買划算，什麼時候別買"
+      },
+      {
+        "slug": "shein-party-dress-guide-zh-hant",
+        "title": "SHEIN 派對禮服：依場合、布料與到貨時間怎麼選"
+      },
+      {
+        "slug": "shein-trust-guide-zh-hant",
+        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+      },
+      {
+        "slug": "shein-referral-code-zh-hant",
+        "title": "SHEIN 推薦碼：在哪裡輸入、怎麼用"
+      },
+      {
+        "slug": "shein-trustpilot-reviews-zh-hant",
+        "title": "SHEIN 在 Trustpilot 的評分、投訴，以及數據說明了什麼"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速解答",
+        "paragraphs": [
+          "在 SHEIN，尺碼要依每件商品尺碼表裡的公分數來選，不要只憑平常的字母。M 會因品牌而不同。先量好自己的身形，再和商品比較。不合適就退貨，“不合適時”那一章會說明怎麼做。"
+        ]
+      },
+      {
+        "heading": "同一個字母，不同品牌尺寸不同",
+        "paragraphs": [
+          "你平常穿 M，下單也選 M，收到的卻是另一個尺寸。在 SHEIN，字母不能當尺來用。平台賣多個品牌，每個品牌量 M 的方式都不一樣。兩件純色短袖 T 恤就能看出問題有多大。"
+        ],
+        "comparisonTable": {
+          "caption": "各商品頁面尺碼表中，國際 M 碼商品的胸圍；DAZY 完整尺碼表在下方。",
+          "headers": [
+            "T 恤",
+            "M 碼商品胸圍",
+            "版型",
+            "彈性",
+            "材質"
+          ],
+          "rows": [
+            [
+              "[DAZY 純色短袖 T 恤](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "常規版型",
+              "稍有彈性",
+              "100% 棉"
+            ],
+            [
+              "[SHEIN Essnce 純色短袖 T 恤](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "介於緊身與常規之間",
+              "彈性很大",
+              "95% 嫘縈、5% 氨綸"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "我們的計算：依兩份商品尺碼表，DAZY 的 M 比 SHEIN Essnce 的 M 胸圍大 11 公分，幾乎等於 Essnce 的 XL 胸圍。商家說明：DAZY 的商品頁面提醒，這個品牌採用亞洲尺碼，比 SHEIN 偏小。",
+          "這對購買的意義：每件商品都有自己的尺碼表，應以它為準。避免出錯的方法，是先別看字母，打開商品的尺碼表，逐公分比較。接下來兩章分別說明怎麼量身體，以及怎麼看尺碼表。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "模特穿著 DAZY 藏青色圓領短袖 T 恤，正面，搭配黑色長褲和肩背包",
+            "caption": "DAZY T 恤：頁面提醒該品牌比 SHEIN 偏小。SHEIN 官方照片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "模特穿著 SHEIN Essnce 黑色圓領短袖 T 恤，正面，搭配牛仔褲和皮帶",
+            "caption": "SHEIN Essnce T 恤：它的 M 胸圍比 DAZY 的小。SHEIN 官方照片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "怎麼量身體",
+        "paragraphs": [
+          "打開任何尺碼表前，你需要三個自己的數字：胸圍、腰圍和臀圍。經驗法則（未經我們實測）：用裁縫軟尺，隔著薄衣服量，貼著皮膚但不要勒緊。量的位置如下："
+        ],
+        "bullets": [
+          "胸圍：胸部最豐滿的地方，軟尺保持水平，從腋下繞過，背後在同一高度。",
+          "腰圍：軀幹最細的地方，通常在肚臍稍上方，正常呼吸時量。",
+          "臀圍：臀部最寬的地方，雙腳併攏時量。"
+        ],
+        "postParagraphs": [
+          "把三個數字以公分寫下來。SHEIN 尺碼表同時有公分和英吋，比較時請用公分。尺碼表本身也有量法說明，量法一致，比較才準確。T 恤、襯衫和洋裝看胸圍；褲子和裙子看腰圍和臀圍。兩個數字之間拿不定主意，就用較大的那個：多出來的部分可以調整，不夠的就沒辦法了。"
+        ]
+      },
+      {
+        "heading": "怎麼看商品尺碼表：商品尺寸、身體尺寸與寬鬆量",
+        "paragraphs": [
+          "決定字母的，是你在看哪一張表。SHEIN 的尺碼表可能有兩張：一張是商品尺寸，也就是把商品平放後量出的數字。DAZY M 的胸圍是衣服本身的尺寸，不是你身體的尺寸。另一張是身體尺寸（只有部分商品有），表示該尺碼適合的身形範圍，備註裡也寫明只供參考。有些商品只有商品尺寸，例如 Essnce，這時就直接比較你的尺寸和商品尺寸，寬鬆量由你自己判斷。"
+        ],
+        "comparisonTable": {
+          "caption": "DAZY T 恤的尺碼表（2026年11月4日查看，單位公分）：左側是商品尺寸（胸圍和衣長；肩寬與袖長未列出），右側是身體尺寸範圍。",
+          "headers": [
+            "尺碼",
+            "商品胸圍",
+            "衣長",
+            "身高",
+            "身體胸圍",
+            "腰圍",
+            "臀圍"
+          ],
+          "rows": [
+            [
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "寬鬆量是衣服和你身體之間的差距，穿之前就能看出版型鬆緊。用 DAZY 的尺碼表來算：M 碼適合胸圍 82 到 86 公分的人。常規版型、稍有彈性的 T 恤，還留有 7 到 11 公分的寬鬆。只有商品尺寸時，彈性就取代寬鬆的作用。Essnce 的彈性很大，頁面上的模特穿 S 碼，S 碼尺寸是 78 公分，比模特的胸圍小 9 公分。",
+          "尺碼表寫明，商品尺寸可能有 1 到 2 公分的誤差；兩件 T 恤的說明也都提到，布料在家洗過後尺寸會變。如果你的尺寸剛好落在兩個尺碼的交界，這 2 公分就會決定結果。所以：布料沒有彈性或稍有彈性，需要寬鬆，交界就選大一號；布料彈性中等或很大，就選和你尺寸相符的尺碼，因為彈性大的布料寬鬆一多，就會顯得鬆垮。"
+        ]
+      },
+      {
+        "heading": "模特與買家：頁面上的其他資訊",
+        "paragraphs": [
+          "尺寸之後最有用的是買家表，因為它呈現的是真實的人：身高、體重、胸圍、腰圍、臀圍，以及她們各自選的尺碼。找一個和你尺寸相近的人，看她選了什麼。表格上方是買家對合身度的評價（以百分比顯示）：DAZY 頁面上，93% 的人覺得尺寸合適，6% 覺得偏小，1% 覺得偏大；Essnce 頁面寫明 95% 的人覺得尺寸合適。偏小的比例高，就是提醒你選大一號。",
+          "模特可以用來參考身高。DAZY 的模特身高 176 公分、胸圍 87 公分，穿國際 M 碼；Essnce 的模特身高 175 公分、胸圍 87 公分，穿 S 碼。同樣的胸圍，兩個品牌選的字母卻不一樣，這又回到字母的問題。頁面上的尺寸與版型細節裡，可以看到模特的尺寸。",
+          "有些頁面在尺碼下方有一個推薦尺碼的連結。SHEIN 幫助中心說明，這項功能要輸入身高、年齡和體重才會推薦尺碼。登入後，部分商品還會自動顯示推薦。把它當作第二意見就好，不能取代軟尺：它不問你的胸圍和腰圍，而字母恰恰是因為這些數字才會不同。"
+        ]
+      },
+      {
+        "heading": "不合適時：退貨",
+        "paragraphs": [
+          "選錯字母要多等兩趟配送：錯的商品先退回，對的才會寄到。所以下單前先用軟尺量好。",
+          "你所在國家的退貨政策，寫在 SHEIN 幫助中心。退貨與店家口碑，請看 [SHEIN 可靠嗎？](/zh-hant/reviews/shein-trust-guide-zh-hant)。"
+        ]
+      },
+      {
+        "heading": "購買前",
+        "paragraphs": [
+          "下單前，依下列順序決定字母："
+        ],
+        "bullets": [
+          "量好胸圍、腰圍和臀圍，以公分記下來。",
+          "打開商品的尺碼表，單位保持為公分。",
+          "確認表格是商品尺寸還是身體尺寸，和你的尺寸比較，算出寬鬆量。",
+          "看版型和彈性：不會伸縮的布料需要寬鬆；會伸縮的，就選和你尺寸相符的尺碼。",
+          "看買家對合身度的評價，並在買家表裡找和你尺寸相近的人。",
+          "商品尺寸可能有 1 到 2 公分的誤差，洗過後也會變，都要算進去。",
+          "保存訂單確認與物流單號：不合適時，退貨要靠它們辦理。"
+        ],
+        "postParagraphs": [
+          "運送時間、運費，以及付款前要確認的事項，請看 [SHEIN 值得買嗎？](/zh-hant/reviews/shein-worth-it-zh-hant)。4CW5Y 是 SHEIN 的推薦碼，要在 App 裡搜尋。它不是優惠券，也沒有折扣。目前的活動在 [SHEIN 頁面](/zh-hant/coupons/shein)。"
+        ]
+      },
+      {
+        "heading": "怎麼選碼：各種情況一覽",
+        "bullets": [
+          "布料不含氨綸、沒有彈性或稍有彈性（DAZY 的 T 恤）：看商品尺寸，選出能留給你所需寬鬆的尺碼；尺寸正好卡在交界，就選大一號。",
+          "布料含氨綸、彈性中等或很大，且只有商品尺寸（Essnce）：選商品尺寸小於或等於你尺寸的尺碼，和頁面上模特的選法一樣。",
+          "頁面提醒偏小的品牌（DAZY）：不要看你平常的字母，要讀該品牌自己的身體尺寸表。",
+          "兩個尺碼之間拿不定主意：看買家表裡和你尺寸相近的人選了哪個。找不到相近的人，就照布料的規則，由寬鬆量來決定。"
+        ],
+        "emphasis": "如果是我自己要買，我不會不打開商品的尺碼表就選碼，因為同一個字母在不同品牌裡尺寸不同。"
+      },
+      {
+        "heading": "常見問題",
+        "bullets": [
+          "SHEIN 上我的尺碼是多少？商品尺碼表裡，對應你公分尺寸的那一欄就是答案。同一個字母在不同品牌裡尺寸不同，前面兩件 T 恤就是例子。",
+          "SHEIN 的尺寸偏小嗎？只看字母無法回答。每件商品的頁面會顯示版型、彈性，以及覺得尺寸合適的買家比例。本指南的兩件 T 恤，多數買家都覺得尺寸合適。數字在“模特與買家”那一章。",
+          "SHEIN 可以換其他尺碼嗎？要看國家。各地的退換貨政策，都寫在 SHEIN 幫助中心。",
+          "SHEIN 的胸圍要怎麼量？用軟尺量最豐滿的地方，保持水平、不要勒緊。腰圍和臀圍在量法那一章。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "商品尺寸的公分數能給你想要的寬鬆，版型和彈性也符合你對布料的期待。",
+        "買家表裡有和你尺寸相同的人，而且她選的尺碼就是你要選的。"
+      ],
+      "skipIf": [
+        "沒有打開商品的尺碼表，只憑平常的字母選碼。同一個字母在不同品牌裡尺寸不同。",
+        "你要在指定日期前拿到商品，等不起退貨。選錯字母要多等兩趟配送。"
+      ]
+    }
+  },
+  {
+    "id": 813,
+    "slug": "shein-size-guide-zh-hans",
+    "locale": "zh-hans",
+    "translationKey": "shein-tamanho",
+    "title": "SHEIN 尺码怎么选：如何看每件商品的尺码表",
+    "seoTitle": "SHEIN 尺码：怎么看尺码表",
+    "type": "尺码指南",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "SHEIN 同一个字母在不同品牌里尺寸不同。两件 T 恤的 M 胸围相差 11 厘米，所以要按每件商品的厘米尺寸来选，而不是只看字母。",
+    "metaDescription": "SHEIN 尺码因品牌而异。4CW5Y 是推荐码，在 App 里搜索使用，不是优惠券。请用厘米量身体，并阅读每件商品的尺码表。",
+    "publishedAt": "2026年11月4日",
+    "publishedAtISO": "2026-11-04",
+    "draft": false,
+    "isNew": false,
+    "hideFromPortugueseListings": true,
+    "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+    "imageAlt": "SHEIN 官方照片：藏青色 T 恤、黑色 T 恤背面和绿色印花睡衣，带有品牌标识、S、M、L 字母和卷尺",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "label": "前往 SHEIN",
+      "text": "打开商品的尺码表，选字母之前先把厘米数和自己的尺寸比一比。",
+      "url": "https://onelink.shein.com/55/6463grgxf6ru",
+      "sponsored": true
+    },
+    "coupon": "4CW5Y",
+    "affiliate": "shein",
+    "editorialNote": "我们可能会从 SHEIN 链接获得佣金。团队成员没有试穿这些商品。",
+    "relatedArticles": [
+      {
+        "slug": "shein-worth-it-zh-hans",
+        "title": "SHEIN 值得买吗？什么时候买划算，什么时候别买"
+      },
+      {
+        "slug": "shein-party-dress-guide-zh-hans",
+        "title": "SHEIN 派对礼服：按场合、面料和到货时间怎么选"
+      },
+      {
+        "slug": "shein-trust-guide-zh-hans",
+        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+      },
+      {
+        "slug": "shein-referral-code-zh-hans",
+        "title": "SHEIN 推荐码：在哪里输入、怎么用"
+      },
+      {
+        "slug": "shein-trustpilot-reviews-zh-hans",
+        "title": "SHEIN 在 Trustpilot 的评分、投诉，以及数据说明了什么"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "快速回答",
+        "paragraphs": [
+          "在 SHEIN，尺码要按每件商品尺码表里的厘米数来选，不能只凭平时的字母。M 会因品牌而不同。先量好自己的身材，再和商品比较。不合适就退货，“不合适时”一章会说明怎么做。"
+        ]
+      },
+      {
+        "heading": "同一个字母，不同品牌尺寸不同",
+        "paragraphs": [
+          "你平时穿 M，下单也选 M，收到的却是另一个尺寸。在 SHEIN，字母不能当尺子用。平台卖多个品牌，每个品牌量 M 的方式都不一样。两件纯色短袖 T 恤就能看出问题有多大。"
+        ],
+        "comparisonTable": {
+          "caption": "各商品页面尺码表中，国际 M 码商品的胸围；DAZY 完整尺码表在下方。",
+          "headers": [
+            "T 恤",
+            "M 码商品胸围",
+            "版型",
+            "弹性",
+            "面料"
+          ],
+          "rows": [
+            [
+              "[DAZY 纯色短袖 T 恤](https://br.shein.com/DAZY-Women-s-Solid-Color-Crew-Neck-Short-Sleeve-T-Shirt-p-30817696.html)",
+              "93 cm",
+              "常规版型",
+              "略有弹性",
+              "100% 棉"
+            ],
+            [
+              "[SHEIN Essnce 纯色短袖 T 恤](https://br.shein.com/SHEIN-Essnce-Short-Sleeve-Solid-Tee-p-842369.html)",
+              "82 cm",
+              "介于紧身和常规之间",
+              "弹性很大",
+              "95% 粘胶纤维、5% 氨纶"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "我们的计算：依两份商品尺码表，DAZY 的 M 比 SHEIN Essnce 的 M 胸围大 11 厘米，几乎等于 Essnce 的 XL 胸围。商家说明：DAZY 的商品页面提醒，这个品牌采用亚洲尺码，比 SHEIN 偏小。",
+          "这对购买的意义：每件商品都有自己的尺码表，应以它为准。避免出错的办法是先不看字母，打开商品的尺码表，逐厘米比较。接下来两章分别说明怎么量身体，以及怎么看尺码表。"
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+            "alt": "模特穿 DAZY 藏青色圆领短袖 T 恤，正面，搭配黑色长裤和肩包",
+            "caption": "DAZY T 恤：页面提醒该品牌比 SHEIN 偏小。SHEIN 官方照片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          },
+          {
+            "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+            "alt": "模特穿 SHEIN Essnce 黑色圆领短袖 T 恤，正面，搭配牛仔裤和腰带",
+            "caption": "SHEIN Essnce T 恤：它的 M 胸围比 DAZY 的小。SHEIN 官方照片。",
+            "objectFit": "contain",
+            "aspectRatio": 0.7513
+          }
+        ]
+      },
+      {
+        "heading": "怎么量身体",
+        "paragraphs": [
+          "打开任何尺码表前，你需要三个自己的数字：胸围、腰围和臀围。经验法则（未经我们实测）：用缝纫软尺，隔着薄衣服量，贴着皮肤但不要勒紧。量的位置如下："
+        ],
+        "bullets": [
+          "胸围：胸部最丰满的地方，软尺保持水平，从腋下绕过，背后在同一高度。",
+          "腰围：躯干最细的地方，通常在肚脐稍上方，正常呼吸时量。",
+          "臀围：臀部最宽的地方，双脚并拢时量。"
+        ],
+        "postParagraphs": [
+          "把三个数字以厘米写下来。SHEIN 尺码表同时有厘米和英寸，比较时请用厘米。尺码表本身也有量法说明，量法一致，比较才准确。T 恤、衬衫和连衣裙看胸围，裤子和裙子看腰围和臀围。两个数字之间拿不准，就用较大的那个：多出来的部分可以调整，不够的就没办法了。"
+        ]
+      },
+      {
+        "heading": "怎么看商品尺码表：商品尺寸、身体尺寸和宽松量",
+        "paragraphs": [
+          "决定选哪个字母的，是你在看哪一张表。SHEIN 的尺码表可能有两张：一张是商品尺寸，即把商品平放量出的数字。DAZY M 码的胸围是衣服本身的尺寸，不是你身体的尺寸。另一张是身体尺寸（有的商品才有），表示该码适合的身体范围，备注里也写明只供参考。有些商品只有商品尺寸，比如 Essnce，这时直接比较你的尺寸和商品尺寸，宽松量由你自己判断。"
+        ],
+        "comparisonTable": {
+          "caption": "DAZY T 恤的尺码表（2026年11月4日查看，单位厘米）：左侧是商品尺寸（胸围和衣长；肩宽与袖长未列出），右侧是身体尺寸范围。",
+          "headers": [
+            "尺码",
+            "商品胸围",
+            "衣长",
+            "身高",
+            "身体胸围",
+            "腰围",
+            "臀围"
+          ],
+          "rows": [
+            [
+              "XS",
+              "85",
+              "58",
+              "150-155",
+              "74-78",
+              "58-62",
+              "82-86"
+            ],
+            [
+              "S",
+              "89",
+              "59",
+              "155-160",
+              "78-82",
+              "62-66",
+              "86-90"
+            ],
+            [
+              "M",
+              "93",
+              "60",
+              "160-165",
+              "82-86",
+              "66-70",
+              "90-94"
+            ],
+            [
+              "L",
+              "97",
+              "61",
+              "160-165",
+              "86-90",
+              "70-74",
+              "94-98"
+            ],
+            [
+              "XL",
+              "101",
+              "62",
+              "165-170",
+              "90-94",
+              "74-78",
+              "98-102"
+            ],
+            [
+              "XXL",
+              "105",
+              "63",
+              "165-170",
+              "94-98",
+              "78-82",
+              "102-106"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "宽松量是衣服和你身体之间的差值，穿之前就能看出版型的松紧。用 DAZY 的尺码表来算：M 码适合胸围 82 到 86 厘米的人。常规版型、略有弹性的 T 恤，还留有 7 到 11 厘米的宽松。只有商品尺寸时，弹性就代替了宽松的作用。Essnce 的弹性很大，页面上的模特穿的是 S 码，S 码尺寸 78 厘米，比模特的胸围小 9 厘米。",
+          "尺码表写明，商品尺寸可能有 1 到 2 厘米的误差；两件 T 恤的说明也都提到，面料在家洗过后尺寸会变。如果你的尺寸正好卡在两个尺码的边界，这 2 厘米就会决定结果。所以：面料没有弹性或略有弹性，需要宽松，边界上选大一号；面料弹性中等或很大，就选与你尺寸相符的尺码，因为弹性大的面料宽松一多，就会显得松垮。"
+        ]
+      },
+      {
+        "heading": "模特和买家：页面上的其他信息",
+        "paragraphs": [
+          "尺寸之后最有用的是买家表，因为它展示的是真实的人：身高、体重、胸围、腰围、臀围，以及她们各自选的尺码。找一个和你尺寸相近的人，看她选了什么。表格上方是买家对合身度的评价（按百分比显示）：DAZY 页面上，93% 的人觉得尺寸合适，6% 觉得偏小，1% 觉得偏大；Essnce 页面写明 95% 的人觉得尺寸合适。偏小的比例高，就是提醒你选大一号。",
+          "模特可以用来参考身高。DAZY 的模特身高 176 厘米、胸围 87 厘米，穿国际 M 码；Essnce 的模特身高 175 厘米、胸围 87 厘米，穿 S 码。同样的胸围，两个品牌选的字母却不一样，这又回到字母的问题。页面上的尺寸与版型细节里，可以看到模特的尺寸。",
+          "有些页面在尺码下方有一个推荐尺码的链接。SHEIN 帮助中心说明，这项功能要输入身高、年龄和体重才会推荐尺码。登录后，部分商品还会自动显示推荐。把它当作第二意见就好，不能代替软尺：它不问你的胸围和腰围，而字母恰恰是因为这些数字才会不同。"
+        ]
+      },
+      {
+        "heading": "不合适怎么办：退货",
+        "paragraphs": [
+          "选错字母要多等两次配送：错的商品先退回，对的才会送到。所以下单前先用软尺量好。",
+          "你所在国家的退货政策，写在 SHEIN 帮助中心。退货与店铺口碑，请看 [SHEIN 靠谱吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。"
+        ]
+      },
+      {
+        "heading": "购买前",
+        "paragraphs": [
+          "下单前，按以下顺序确定字母："
+        ],
+        "bullets": [
+          "量好胸围、腰围和臀围，以厘米记下来。",
+          "打开商品的尺码表，单位保持为厘米。",
+          "确认表格是商品尺寸还是身体尺寸，和你的尺寸比较，算出宽松量。",
+          "看版型和弹性：不会伸缩的面料需要宽松；会伸缩的，就选与你尺寸相符的尺码。",
+          "看买家对合身度的评价，并在买家表里找和你尺寸相近的人。",
+          "商品尺寸可能有 1 到 2 厘米的误差，洗过后也会变，都要算进去。",
+          "保存订单确认和物流单号：不合适时，退货要靠它们办理。"
+        ],
+        "postParagraphs": [
+          "配送时间、运费，以及付款前要确认的事项，请看 [SHEIN 值得买吗？](/zh-hans/reviews/shein-worth-it-zh-hans)。4CW5Y 是 SHEIN 的推荐码，要在 App 里搜索。它不是优惠券，也没有折扣。当前的活动在 [SHEIN 页面](/zh-hans/coupons/shein)。"
+        ]
+      },
+      {
+        "heading": "怎么选码：各种情况一览",
+        "bullets": [
+          "面料不含氨纶，没有弹性或略有弹性（DAZY T 恤）：看商品尺寸，选出能留给你所需宽松的尺码；尺寸正好卡在边界，就选大一号。",
+          "面料含氨纶，弹性中等或很大，且只有商品尺寸（Essnce）：选商品尺寸小于或等于你尺寸的尺码，和页面上模特的选法一样。",
+          "页面提醒偏小的品牌（DAZY）：不要看你平时的字母，要读该品牌自己的身体尺寸表。",
+          "两个尺码之间拿不定主意：看买家表里和你尺寸相近的人选了哪个。找不到相近的人，就按面料的规则，由宽松量来决定。"
+        ],
+        "emphasis": "如果是为我自己买，我不会不打开商品的尺码表就选码，因为同一个字母在不同品牌里尺寸不同。"
+      },
+      {
+        "heading": "常见问题",
+        "bullets": [
+          "SHEIN 上我的尺码是多少？商品尺码表里，对应你厘米尺寸的那一档就是答案。同一个字母在不同品牌里尺寸不同，前面两件 T 恤就是例子。",
+          "SHEIN 的尺寸偏小吗？只看字母无法回答。每件商品的页面会显示版型、弹性，以及觉得尺寸合适的买家比例。本指南的两件 T 恤，多数买家都觉得尺寸合适。数字在“模特和买家”那一章。",
+          "SHEIN 可以换其他尺码吗？要看国家。各地的退换货政策，都写在 SHEIN 帮助中心。",
+          "SHEIN 的胸围要怎么量？用软尺量最丰满的地方，保持水平、不要勒紧。腰围和臀围在量法那一章。"
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "商品尺寸的厘米数能给你想要的宽松，版型和弹性也符合你对面料的期待。",
+        "买家表里有和你尺寸相同的人，而且她选的尺码就是你要选的。"
+      ],
+      "skipIf": [
+        "没有打开商品的尺码表，只凭平时的字母选码。同一个字母在不同品牌里尺寸不同。",
+        "你要在指定日期前拿到商品，等不起退货。选错字母要多等两次配送。"
+      ]
+    }
   }
 ];

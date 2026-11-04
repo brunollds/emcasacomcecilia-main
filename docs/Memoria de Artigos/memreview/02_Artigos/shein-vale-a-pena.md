@@ -193,7 +193,7 @@ A decisão se faz na página do produto, antes do carrinho: é ali que estão o 
 
 ### A conta: três peças lidas na loja [só PT]
 
-A conta muda com o envio e com o valor: a básica barata, sozinha, paga frete; a de loja parceira chega em dias úteis; e a peça cara passa da faixa sem imposto de importação. O preço é o de venda da página, sem cupom.
+A conta muda com o envio e com o valor: a básica barata, sozinha, paga frete; a de loja parceira chega em dias úteis; e a peça cara passa da faixa sem imposto de importação. O preço é o de venda da página, sem cupom: o "Estimado" que ela mostra já desconta cupom da loja e não entra aqui.
 
 | Peça | Envio | Preço de venda | Frete | Prazo na página | O que a descrição diz |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@ A conta muda com o envio e com o valor: a básica barata, sozinha, paga frete; a
 | [Vestido midi de alfaiataria](LINK-AFILIADO-PENDENTE: https://br.shein.com/Women-s-Tailored-Midi-Dress-Elegant-With-Slit-Detail-And-Front-Tie-p-485599894.html) | Envio Nacional, loja parceira local | R$ 79,99 (de R$ 130,00) | Grátis | De 4 a 7 dias úteis | Elastano e poliéster; P, M, G e GG |
 | [Casaco de lã MOTF PREMIUM](LINK-AFILIADO-PENDENTE: https://br.shein.com/MOTF-PREMIUM-WOMEN-S-SOLID-COLOR-LAPEL-NECK-LONG-SLEEVE-DOUBLE-BREASTED-ELEGANT-WOOL-COAT-p-564613696.html) | Internacional | R$ 513,56 (US$ 94,44 na página) | Grátis | De 8 a 19 dias; 60% em até 14 dias | 50% lã e 50% poliéster; só lavagem a seco; sem forro |
 
-*Legenda: Preço de venda da página de cada peça, sem cupom, 04/11. O "Estimado" que a página mostra já desconta cupom da loja e não entra aqui; a promoção muda o valor, então confira de novo antes de pagar.*
+*Legenda: Preço de venda da página de cada peça, sem cupom, 04/11; a promoção muda o valor, então confira de novo antes de pagar.*
 
 O que a tabela não diz: a camiseta sozinha paga um frete que é quase um terço do preço dela; duas camisetas passam do mínimo e o frete some. O vestido vem de uma loja parceira local, por isso chega em dias úteis e fica fora do imposto de importação. O casaco é o único dos três que paga imposto de importação, e a descrição avisa o que a foto não mostra: só lava a seco e não tem forro.
 
@@ -233,7 +233,7 @@ Olha o detalhe: um mesmo produto pode ter um tamanho no Envio Nacional e os outr
 
 ### Tamanho: a medida, não a letra
 
-O P da SHEIN não é o seu P: cada peça tem o próprio guia em centímetros, e é ele que decide, não a letra. Regra prática, sem teste nosso: meça uma roupa sua que veste bem, deitada, e compare com a medida da peça do guia, não com a medida do seu corpo; a diferença entre as duas é a folga que você gosta. Peça sem guia em centímetros é peça para passar. O que medir em cada tipo de roupa, e como ler o guia de cada produto, está no [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil).
+O M da SHEIN não é o seu M: cada peça tem o próprio guia em centímetros, e é ele que decide, não a letra. Regra prática, sem teste nosso: meça uma roupa sua que veste bem, deitada, e compare com a medida da peça do guia, não com a medida do seu corpo; a diferença entre as duas é a folga que você gosta. Peça sem guia em centímetros é peça para passar. O que medir em cada tipo de roupa, e como ler o guia de cada produto, está no [guia de tamanho da SHEIN](/reviews/tamanho-shein-brasil).
 
 ### Antes de pagar
 
@@ -272,7 +272,7 @@ Refeito depois do Job 3 (04/11). **Nenhuma foto leva `href`:** o `test:review-i1
 |---|---|---|---|---|---|---|
 | 1 | `/images/reviews/shein/shein-vale-a-pena-vestido-loja-parceira.webp` | `vestido-1` | A conta: três peças lidas na loja [só PT] | Duas modelos com o vestido midi de alfaiataria terracota, sem manga, com amarração na cintura, de frente e de costas diante do espelho | Foto da loja parceira na SHEIN. | só PT |
 | 2 | `/images/reviews/shein/shein-vale-a-pena-casaco-motf.webp` | `motf-6` | A conta: três peças lidas na loja [só PT] | Modelo com o casaco longo de lã MOTF PREMIUM creme, de gola lapela e abotoamento duplo com botões dourados, e bolsa na mão | Foto oficial da SHEIN. | só PT |
-| 3 | `/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp` (já no site e no CDN) | ilustração nossa | Devolução | Ilustração de um celular com a tela de rastreio do pedido e um recibo com a seta de reembolso | Guarde o rastreio: a devolução e o reembolso andam com ele. | 10 idiomas |
+| 3 | `/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp` (já no site e no CDN) | ilustração nossa | Devolução | Ilustração de uma tela de rastreio do pedido ao lado de um comprovante com código de barras e de uma moeda com a seta de volta do reembolso | Guarde o rastreio: a devolução e o reembolso andam com ele. | 10 idiomas |
 | 4 | `/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp` | `motf-4` | Antes de pagar | Modelo com o casaco longo de lã MOTF PREMIUM creme, aberto sobre camisa branca e short bege, com bota estampada | Foto oficial da SHEIN. A descrição avisa o que a foto não diz: só lavagem a seco e sem forro. | 10 idiomas |
 
 **Capa (Job 6, `covers:render`, pronta):** `/images/reviews/shein/shein-vale-a-pena-capa.webp`, 1600x900: três fotos oficiais do guia do 11.11 (camiseta henley, short estampado e óculos degradê) e a faixa com o logo da SHEIN e os ícones de etiqueta, caminhão, recibo e devolução; sem texto, sem preço e sem concorrente. Alt: "Camiseta henley azul-marinho, short estampado e óculos de sol em fotos oficiais da SHEIN, com o logo da loja e ícones de preço, entrega, recibo e devolução".
