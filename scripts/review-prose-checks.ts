@@ -148,3 +148,106 @@ export function toBaselineEntry(findings: ProseFindings, reason: BodyDatesReason
     ...(findings.datesOutsideBody > 0 ? { datesOutsideBody: findings.datesOutsideBody } : {}),
   };
 }
+
+// Snippet (metaDescription) dos artigos em português com código de loja: o Google corta perto de 120 caracteres no
+// celular, e a venda vem de quem lê o código no resultado, sem clicar. O validate:content usa estas funções com a
+// lista de pendentes (review-snippet-baseline.json), que só pode encolher.
+export const MAX_SNIPPET_LENGTH = 155;
+/** O código tem de terminar até este caractere. */
+export const SNIPPET_CODE_END = 100;
+
+// Fora da regra, cada um com o motivo.
+export const SNIPPET_EXCEPTION_STORES: Record<string, string> = {
+  magalu: 'a loja inteira ficou fora das fases 2b e 2c (handoff de 04/11/2026)',
+};
+export const SNIPPET_EXCEPTION_SLUGS: Record<string, string> = {
+  'dominio-hostinger-comprar-transferir-ou-fora': 'o SONAR20 não vale em domínio',
+  'le-creuset-original-como-saber': 'ficou fora da lista da fase 2b',
+  'protetor-de-silicone-mamilo-como-usar': 'ficou fora da lista da fase 2b',
+  'sutia-de-silicone-invisivel-como-usar': 'ficou fora da lista da fase 2b',
+  'shein-reclame-aqui-nota-reputacao': 'ficou fora da lista da fase 2b',
+  'yesstyle-trustpilot-nota-reclamacoes': 'ficou fora da lista da fase 2b',
+};
+
+export const SNIPPET_PROBLEMS = {
+  missing: 'sem metaDescription',
+  noCode: 'sem o código da loja',
+  codeLate: `o código termina depois do caractere ${SNIPPET_CODE_END}`,
+  noPercent: 'sem o % do desconto ("10%" ou "até 10%")',
+  tooLong: `mais de ${MAX_SNIPPET_LENGTH} caracteres`,
+  date: 'data com dia (o ano da Black Friday pode ficar; o dia e o mês, não)',
+  price: 'preço em R$ (na Dolce Gusto, só "a partir de R$ 100")',
+  opensWithCoupon: 'abre com "Cupom <loja>": alterne a abertura ("O cupom X dá…", "Com o X…")',
+  rewardCalledCoupon: 'CECILIA010 é código de recompensa, não "cupom CECILIA010"',
+  sheinPercent: 'SHEIN sem "%": o código se pesquisa no app',
+  sheinBrasil: 'SHEIN sem "SHEIN Brasil"',
+} as const;
+export type SnippetProblem = keyof typeof SNIPPET_PROBLEMS;
+
+export function isSnippetProblem(value: unknown): value is SnippetProblem {
+  return typeof value === 'string' && Object.hasOwn(SNIPPET_PROBLEMS, value);
+}
+
+interface SnippetReview {
+  slug: string;
+  locale?: string;
+  coupon?: string;
+  affiliate?: string;
+  metaDescription?: string;
+}
+
+/** Artigo que a regra cobre: em português, com código e fora das exceções. */
+export function isSnippetChecked(review: SnippetReview): boolean {
+  if (review.locale && review.locale !== 'pt') return false;
+  if (!review.coupon) return false;
+  if (review.affiliate && Object.hasOwn(SNIPPET_EXCEPTION_STORES, review.affiliate)) return false;
+  return !Object.hasOwn(SNIPPET_EXCEPTION_SLUGS, review.slug);
+}
+
+const MONTH_YEAR = new RegExp(String.raw`^(?:${MONTHS}) de \d{4}$`, 'i');
+
+export function checkSnippet(review: SnippetReview): SnippetProblem[] {
+  const text = review.metaDescription?.trim() ?? '';
+  if (!text) return ['missing'];
+  const code = review.coupon ?? '';
+  const store = review.affiliate;
+  const problems: SnippetProblem[] = [];
+
+  const at = text.indexOf(code);
+  if (at < 0) problems.push('noCode');
+  else if ([...text.slice(0, at)].length + [...code].length > SNIPPET_CODE_END) problems.push('codeLate');
+  if (store === 'shein') {
+    if (text.includes('%')) problems.push('sheinPercent');
+    if (/shein brasil/i.test(text)) problems.push('sheinBrasil');
+  } else if (!/\d+(?:[.,]\d+)?\s?%/.test(text)) {
+    problems.push('noPercent');
+  }
+  if ([...text].length > MAX_SNIPPET_LENGTH) problems.push('tooLong');
+  // "novembro de 2026" é o mês da validade, não data; "05/11" e "5 de novembro" são.
+  if (findDates(text).some((found) => !MONTH_YEAR.test(found))) problems.push('date');
+  const priced = store === 'dolce-gusto' ? text.replace(/a partir de R\$\s?100\b/gi, '') : text;
+  if (priced.includes('R$')) problems.push('price');
+  if (/^cupom\s/i.test(text)) problems.push('opensWithCoupon');
+  if (store === 'yesstyle' && /cupom\s+CECILIA010/i.test(text)) problems.push('rewardCalledCoupon');
+  return problems;
+}
+
+/**
+ * O que o snippet fura, descontado o que a lista de pendentes ainda tolera. Problema da lista que já não existe
+ * (o artigo melhorou) também é problema: quem corrige o artigo tira a entrada dele.
+ */
+export function getSnippetProblems(found: SnippetProblem[], baseline?: readonly string[]): string[] {
+  const tolerated = new Set(baseline ?? []);
+  const problems = found.filter((problem) => !tolerated.has(problem)).map((problem) => `snippet (metaDescription): ${SNIPPET_PROBLEMS[problem]}`);
+  if (baseline) {
+    const stale = baseline.filter((problem) => !found.includes(problem as SnippetProblem));
+    if (stale.length > 0) {
+      problems.push(
+        stale.length === baseline.length
+          ? 'o artigo melhorou: tire a entrada dele de scripts/review-snippet-baseline.json'
+          : `o artigo melhorou: em scripts/review-snippet-baseline.json, tire ${stale.map((problem) => `"${problem}"`).join(', ')}`
+      );
+    }
+  }
+  return problems;
+}

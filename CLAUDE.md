@@ -217,6 +217,12 @@ vídeo, primeiras impressões e uso noturno.
   artigos de antes da regra (31/10/2026) estão em `scripts/review-prose-baseline.json`, que só encolhe: artigo fora
   dela que fura a regra, ou artigo dela que piora, quebra o build, e quem corrige um artigo baixa ou tira a entrada
   dele, como o erro pede.
+- Snippet com o código (`metaDescription`) em todo artigo em português com `coupon` (`checkSnippet`, em
+  `scripts/review-prose-checks.ts`; o `validate:content` barra): código exato e % na primeira frase, o código terminando
+  até o caractere 100, no máximo 155 caracteres, sem data com dia, sem R$ (salvo o "a partir de R$ 100" da Dolce Gusto)
+  e sem abrir com "Cupom <loja>"; na YesStyle, nunca "cupom CECILIA010"; na SHEIN, sem % e sem "SHEIN Brasil". As
+  exceções (a Magalu e alguns slugs) ficam em `SNIPPET_EXCEPTION_*`, com o motivo. Os artigos de antes da regra (04/11/2026)
+  estão em `scripts/review-snippet-baseline.json` (slug → problemas), que só encolhe: quem corrige um artigo tira a entrada.
 - Subtítulo (`description`) com no máximo 180 caracteres em todo idioma (`MAX_DESCRIPTION_LENGTH`, em
   `scripts/review-prose-checks.ts`; o `validate:content` barra): uma ou duas frases, de 150 a 180, nunca o sumário do
   artigo. Ele sai embaixo do título, no JSON-LD, no `llms.txt` e no começo do "Ouvir"; o snippet do Google usa o
