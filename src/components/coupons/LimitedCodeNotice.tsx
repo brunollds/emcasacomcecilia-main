@@ -10,7 +10,7 @@ type PendingLimitedCode = ReturnType<typeof getPendingLimitedCodes>[number];
 const BRASILIA = 'America/Sao_Paulo';
 
 // Os prazos não se cruzam, então no máximo uma caixa fica na tela e o id não se repete.
-export const LIMITED_CODE_ID = 'codigo-com-prazo';
+const LIMITED_CODE_ID = 'codigo-com-prazo';
 
 function dayAndMonth(iso: string) {
   return new Date(iso).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', timeZone: BRASILIA });
@@ -61,7 +61,8 @@ export function LimitedCodeNotices({
 }
 
 // A linha no recorte do topo que leva à caixa, no mesmo prazo: quem copia o código do topo sem rolar a página
-// fica sabendo do código com prazo.
+// fica sabendo do código com prazo. A seta só aparece com a caixa embaixo do recorte: a partir do lg, o recorte
+// fica ao lado dela.
 export function LimitedCodePointers({ items }: { items: PendingLimitedCode[] }) {
   return items.map((item) => (
     <CampaignWindow key={item.startsAt} from={item.startsAt} until={item.endsAt} hiddenInHtml={!item.inHtml}>
@@ -73,7 +74,7 @@ export function LimitedCodePointers({ items }: { items: PendingLimitedCode[] }) 
         <span className="min-w-0 text-balance">
           Até {dayAndMonth(item.endsAt)}: <span className="whitespace-nowrap">{item.discount}</span> com o {item.code}
         </span>
-        <ArrowDown aria-hidden="true" className="h-4 w-4 shrink-0" />
+        <ArrowDown aria-hidden="true" className="h-4 w-4 shrink-0 lg:hidden" />
       </a>
     </CampaignWindow>
   ));

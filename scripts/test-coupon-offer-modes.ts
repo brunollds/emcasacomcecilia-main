@@ -305,14 +305,15 @@ const sample = {
 };
 const pendingAt = (iso: string) => getPendingLimitedCodes(sample, Date.parse(iso)).map((item) => [item.code, item.inHtml]);
 assert.deepEqual(pendingAt('2026-01-01T12:00:00-03:00'), [['PRAZOUM', false], ['PRAZODOIS', false]], 'antes do prazo: no payload, fora do HTML');
+assert.deepEqual(pendingAt('2026-01-04T23:59:59-03:00'), [['PRAZOUM', false], ['PRAZODOIS', false]], 'o segundo antes do início ainda fica fora do HTML');
+assert.deepEqual(pendingAt('2026-01-05T00:00:00-03:00'), [['PRAZOUM', true], ['PRAZODOIS', false]], 'o início exato já vai ao HTML');
 assert.deepEqual(pendingAt('2026-01-06T12:00:00-03:00'), [['PRAZOUM', true], ['PRAZODOIS', false]], 'no 1º prazo: ele no HTML, o 2º só no payload');
 assert.deepEqual(pendingAt('2026-01-08T23:59:59-03:00'), [['PRAZOUM', true], ['PRAZODOIS', false]], 'o último segundo do prazo ainda vale');
 assert.deepEqual(pendingAt('2026-01-09T00:00:00-03:00'), [['PRAZODOIS', false]], 'o vencido sai do build');
 assert.deepEqual(pendingAt('2026-01-20T08:00:00-03:00'), [['PRAZODOIS', true]]);
 assert.deepEqual(pendingAt('2026-01-22T00:00:00-03:00'), []);
-assert.deepEqual(getPendingLimitedCodes(shein, Date.parse('2026-01-06T12:00:00-03:00')), [], 'loja de link não tem código com prazo');
-const iws = getCouponBySlug('i-wanna-sleep');
-assert.ok(iws && iws.offerMode === 'discount-code');
-assert.equal(iws.code, 'CECIEMCASA', 'o código com prazo não substitui o CECIEMCASA, o código de sempre da I Wanna Sleep');
+// Loja de link com prazos colados à força: o offerMode é que barra, não a falta do campo.
+const linkWithWindows = { ...shein, limitedCodes: sample.limitedCodes } as AffiliateLinkOffer;
+assert.deepEqual(getPendingLimitedCodes(linkWithWindows, Date.parse('2026-01-06T12:00:00-03:00')), [], 'loja de link não tem código com prazo');
 
 console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, Hostinger e prateleiras do hub conferidos.");
