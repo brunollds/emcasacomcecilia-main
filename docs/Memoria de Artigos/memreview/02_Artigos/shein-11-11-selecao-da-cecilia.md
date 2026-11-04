@@ -57,3 +57,7 @@ A SHEIN está na "Mega Promoção 11.11" ("até 85% off em mais de 600 mil produ
 - Redação: Fable 5.1 (PT e 9 idiomas), revisão do Claude. Capa aprovada pelo Bruno em 28/10 (`/images/reviews/shein/shein-11-11-selecao-da-cecilia-capa.webp`); 19 fotos das fichas em `/images/reviews/shein/shein-1111-NN-*.webp`, no CDN.
 - Fora do PT: preços convertidos pela cotação de 28/10 (tabela no fatos), um aviso só; tamanhos internacionais pela equivalência das fichas (XPP=XXS, PP=XS, P=S, M, G=L, GG=XL, EG=XXL, EEGG=XXXL). Lidos em 7 fichas antes do CAPTCHA; #11, #12, #18, #19 e #20 pela equivalência; o cardigã #10 é S–L, como a ficha mostra.
 - Pendente: depois de 12/11/2026, tirar da vitrine ou marcar a campanha como encerrada.
+
+## Correção: sem "SHEIN Brasil" (04/11/2026)
+- Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. O aviso da decisão 4 de 28/10 ("fora do PT, o aviso de que é da SHEIN Brasil") não vale mais.
+- No PT, as 2 frases do 4CW5Y (a abertura e o FAQ "O 4CW5Y é cupom?") passam a dizer "o código de indicação da SHEIN". As 9 traduções já estavam sem o termo desde o #493 e não mudaram. PR #NUM.

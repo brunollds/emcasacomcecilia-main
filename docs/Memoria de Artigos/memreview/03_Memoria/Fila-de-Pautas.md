@@ -310,7 +310,7 @@ Estudo do cupomtiff.com.br (case da Inbazz) e rodadas com os moldes de título (
 | M6 | Dr. Peanut: Mercado Livre ou site | Briefing pronto (30/10); espera o link do Mercado Livre do Bruno. Pix lido no Chrome: 3% adicional |
 | M7 | DAMIE: é confiável, DAMIE ou Frau, medidas de sofá e poltrona | Handoff mandado ao subdomínio damie.emcasacomcecilia.com em 30/10 (repositório e agente próprios). "É confiável", medidas da poltrona, limpeza e cinema já existem lá; lacunas reais: medidas do sofá modular e DAMIE ou Frau |
 | M8 | Whey Probiótica: concentrado ou isolado | **Aprovada em 30/10/2026 como seção** de `melhor-whey-qual-escolher-por-objetivo`: [[whey-probiotica-concentrado-ou-isolado]] |
-| M9 | Vestido de festa SHEIN | **Pauta aprovada em 30/10/2026:** [[vestido-de-festa-shein]] |
+| M9 | Vestido de festa SHEIN | **Publicado em 30/10/2026:** [[vestido-de-festa-shein]] (PR #379, 10 idiomas, ids 761–770) |
 | M10 | Magalu ou Mercado Livre | Estoque |
 | M11 | Glutamina Max e Probiótica (com a B3 da Black Skull) | **Pauta aprovada em 30/10/2026:** [[glutamina-qual-escolher-black-skull-max-probiotica]] |
 | M12 | Kit Insider: quando compensa | **Pauta aprovada em 30/10/2026:** [[kit-insider-quando-compensa]] |

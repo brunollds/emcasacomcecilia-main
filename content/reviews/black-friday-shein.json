@@ -51,7 +51,7 @@
         "Em 3 de novembro, a página inicial da SHEIN traz a promoção do 11.11 e nenhum banner, link ou página de Black Friday. A Black Friday do calendário cai na última sexta do mês, e a SHEIN ainda não divulgou datas nem fases de 2026. A empresa junta o 11.11 e a Black Friday numa campanha só, com fases que aumentam o desconto máximo até o fim do mês. A tabela abaixo é a régua: o que a SHEIN anunciou nos três últimos anos."
       ],
       "comparisonTable": {
-        "caption": "Fases e descontos máximos anunciados pela SHEIN Brasil, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
+        "caption": "Fases e descontos máximos anunciados pela SHEIN, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
         "headers": ["Ano", "Começo e fim", "Desconto máximo anunciado"],
         "rows": [
           [
@@ -77,8 +77,8 @@
       ],
       "image": {
         "src": "/images/reviews/shein/shein-home-br-2026-10-12.webp",
-        "alt": "Página inicial do site da SHEIN Brasil em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
-        "caption": "A página inicial da SHEIN Brasil, que ainda não trazia a campanha da Black Friday de 2026.",
+        "alt": "Página inicial do site da SHEIN em 12/10/2026, com a campanha do dia, o menu de categorias e a barra de busca",
+        "caption": "A página inicial da SHEIN, que ainda não trazia a campanha da Black Friday de 2026.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       }
@@ -106,7 +106,7 @@
         "A conta vale por pedido e usa o valor do produto mais o frete, já com os descontos e o cupom. Ou seja, o desconto da Black Friday pode deixar um pedido abaixo de US$ 50. O limite é em dólar: o checkout mostra os impostos do seu pedido antes do pagamento."
       ],
       "comparisonTable": {
-        "caption": "Pela página de impostos da SHEIN Brasil. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
+        "caption": "Pela página de impostos da SHEIN. O ICMS de 17% vale para a maioria dos estados; Amapá tem 18%, Pará 19%, e Acre, Alagoas, Bahia, Ceará, Paraíba, Piauí, Rio Grande do Norte, Roraima e Sergipe têm 20%.",
         "headers": [
           "Pedido (produto + frete)",
           "Imposto de importação",
@@ -149,8 +149,8 @@
       ],
       "image": {
         "src": "/images/reviews/shein/codigo-de-indicacao-shein-busca-capa.webp",
-        "alt": "Duas telas do site da SHEIN Brasil no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
-        "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN Brasil.",
+        "alt": "Duas telas do site da SHEIN no celular: a barra de busca com o código 4CW5Y digitado e a página que abre depois da pesquisa",
+        "caption": "O 4CW5Y não vai no checkout: ele é pesquisado na barra de busca do site ou do aplicativo da SHEIN.",
         "objectFit": "contain",
         "aspectRatio": 1.7778
       },
@@ -225,7 +225,7 @@
   "coupon": "4CW5Y",
   "bodyDatesReason": "campanha",
   "affiliate": "shein",
-  "editorialNote": "Regras das páginas oficiais da SHEIN Brasil e da Lei 15.502/2026. Podemos receber comissão pelas compras.",
+  "editorialNote": "Regras das páginas oficiais da SHEIN e da Lei 15.502/2026. Podemos receber comissão pelas compras.",
   "relatedArticles": [
     {
       "slug": "black-friday-yesstyle",

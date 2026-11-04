@@ -11,7 +11,6 @@
 - [ ] [[kit-insider-quando-compensa]]: Kit Insider: quando compensa contra peças avulsas (14 de 17 kits mais baratos; Tech 5 e 10 de 16% a 23%) (PT); teste do cupom em kit com o Bruno
 - [ ] [[glutamina-qual-escolher-black-skull-max-probiotica]]: Glutamina: qual escolher (Black Skull, Max e Probiótica) pelo rótulo e pelo preço por 100 g (PT)
 - [ ] [[taca-base-esfera-e-tacas-coloridas]]: Taça base esfera e taças coloridas: conjunto, cor e uso (Let's Eat It) (PT); no mesmo PR, o preço da Sphere no artigo de mesa posta
-- [ ] [[vestido-de-festa-shein]]: Vestido de festa na SHEIN: Natal, Réveillon, formatura e convidada de casamento (10 idiomas)
 - [ ] [[whey-probiotica-concentrado-ou-isolado]]: Whey Probiótica: concentrado ou isolado como SEÇÃO de `melhor-whey-qual-escolher-por-objetivo` (PT); no mesmo PR, 20 g por dose em `probiotica-ou-integralmedica`
 - [ ] [[camiseta-feminina-insider-qual-escolher]]: Camiseta feminina Insider: qual escolher (Tech, Manga Longa, Perfect Top T-Shirt, NEXTECH, Skin Cropped) (PT); par do artigo masculino
 - [ ] [[card-estilo-roupas-lote-3110]]: card de estilo na cueca e no undershirt Insider, na Fita Up e na camiseta, no body e na alfaiataria da Cléa (PT)
@@ -73,6 +72,7 @@
 - [x] [[simple-organic-reclame-aqui-nota-reputacao]]: Simple Organic no Reclame Aqui: RA1000 nos 6 meses, as 5 abas e do que as pessoas reclamam (PT, id 781; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
 - [x] [[cupom-simple-organic-como-usar]]: Como usar o cupom S-EMCASACOMCECILIA: passo a passo e onde ele valeu no teste (PT, id 782; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
 - [x] [[black-friday-simple-organic]]: Black Friday Simple Organic: a Clean Friday (até 30/11) com preços de 9 produtos e o cupom (PT, id 783; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
+- [x] [[vestido-de-festa-shein]]: Vestido de festa na SHEIN: Natal, Réveillon, formatura e convidada de casamento (10 idiomas, ids 761–770; publicado em 30/10/2026, PR #379, release `2614ef9d`; card de estilo e fotos com link no #388) 🚀
 - [x] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT) (no ar em 30/10/2026 17:02 UTC, PR #369, release `5c16b59c`, id 747) 🚀
 - [x] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT) (no ar em 30/10/2026 17:02 UTC, PR #369, release `5c16b59c`, id 748) 🚀
 - [x] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos (no ar em 30/10/2026 17:02 UTC, PR #369, release `5c16b59c`, id 749) 🚀
