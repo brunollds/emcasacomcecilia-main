@@ -318,4 +318,4 @@ Fatos: `shein-reclame-aqui-nota-reputacao-fatos-2810.md`, ao lado; autocompletar
 
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
 - Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. Na decisão 3 de 28/10, o 4CW5Y passa a ser "código de indicação da SHEIN".
-- No PT, a frase da Trustpilot terminava em "não do atendimento da SHEIN Brasil" e agora termina em "não do atendimento no Brasil". O fato (o perfil é global e não separa o Brasil) não mudou, nem as 9 traduções. PR #NUM.
+- No PT, a frase da Trustpilot terminava em "não do atendimento da SHEIN Brasil" e agora termina em "não do atendimento no Brasil". O fato (o perfil é global e não separa o Brasil) não mudou, nem as 9 traduções. PR #566.

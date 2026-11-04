@@ -431,4 +431,4 @@ Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, 
 - As telas do passo a passo (o parágrafo, a legenda do passo 1 e os três alts) dizem "site da SHEIN", "Barra de busca da SHEIN" e "Página da SHEIN".
 - O FAQ "O 4CW5Y funciona fora do Brasil?" respondia "A SHEIN não diz. O código é da SHEIN Brasil e pode não valer na SHEIN de outro país.", o que a regra desmente. Decisão do Bruno (04/11): responder por ela, com "Sim. O código de indicação é da SHEIN, sem país: a SHEIN leva cada pessoa à loja da região dela." A pergunta só existe no PT; as traduções têm 9 itens no FAQ.
 
-As 9 traduções já estavam sem o termo desde o #493 e não mudaram. O registro das traduções (Job 4) e o das imagens, acima, ainda dizem "SHEIN Brasil"; vale a regra. PR #NUM.
+As 9 traduções já estavam sem o termo desde o #493 e não mudaram. O registro das traduções (Job 4) e o das imagens, acima, ainda dizem "SHEIN Brasil"; vale a regra. PR #566.

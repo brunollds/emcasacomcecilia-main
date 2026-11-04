@@ -60,4 +60,4 @@ A SHEIN está na "Mega Promoção 11.11" ("até 85% off em mais de 600 mil produ
 
 ## Correção: sem "SHEIN Brasil" (04/11/2026)
 - Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. O aviso da decisão 4 de 28/10 ("fora do PT, o aviso de que é da SHEIN Brasil") não vale mais.
-- No PT, as 2 frases do 4CW5Y (a abertura e o FAQ "O 4CW5Y é cupom?") passam a dizer "o código de indicação da SHEIN". As 9 traduções já estavam sem o termo desde o #493 e não mudaram. PR #NUM.
+- No PT, as 2 frases do 4CW5Y (a abertura e o FAQ "O 4CW5Y é cupom?") passam a dizer "o código de indicação da SHEIN". As 9 traduções já estavam sem o termo desde o #493 e não mudaram. PR #566.
