@@ -6,10 +6,10 @@ parceiro: "[[SHEIN]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
-status: "pronto-para-gates"
+status: "pronto-para-deploy"
 responsavel: "Fable 5.1 (Job 2) e Claude (Jobs 3 a 6)"
-proxima_acao: "Bruno: aprovar a folha de imagens e mandar os links de afiliado das peças; depois CDN, gates e PR"
-bloqueado_por: "Bruno: folha de imagens (capa e corpo), os links da Essnce, do vestido e do casaco MOTF e a data da alíquota zero (12/05 ou 13/05) em shein-e-confiavel e black-friday-shein"
+proxima_acao: "Merge do PR #564 (auto-merge) e deploy quando o Bruno decidir; depois smoke das 10 URLs, IndexNow e status publicado"
+bloqueado_por: "Bruno: decisão de deploy"
 data_criacao: "2026-10-30"
 pauta: "SH-1 do molde moda-casa (30/10/2026), aprovada pelo Bruno em 30/10"
 i18n_cluster: "shein (família própria, 10 idiomas)"
@@ -313,7 +313,7 @@ Fontes: `F` = `shein-vale-a-pena-fatos-3010.md` (seção "Lido em 04/11/2026", s
 - "A loja informa:" ficou no Entrega no Prazo (capítulo do prazo, trecho só PT). Nas 9 versões, o Job 4 escolhe outro dado da loja para o rótulo, ou deixa a versão sem ele.
 - O cartão de destaque e a resposta rápida têm trecho só PT entre colchetes; as 9 versões ficam com a frase sem o trecho.
 - Data da regra do imposto (12 ou 13 de maio): o texto fala no presente, sem a data, como pedido. A correção de `shein-e-confiavel` e `black-friday-shein` segue com o Bruno.
-- Os links de afiliado das três peças (tabela e `href` das fotos 2, 3, 4 e 6) estão como `LINK-AFILIADO-PENDENTE` com a URL da página do produto; o Bruno manda o `onelink.shein.com/58/...` de cada uma.
+- Os links de afiliado das três peças (tabela e `href` das fotos 2, 3, 4 e 6) estão como `LINK-AFILIADO-PENDENTE` com a URL da página do produto; o Bruno manda o `onelink.shein.com/58/...` de cada uma. *Resolvido em 04/11/2026:* os links chegaram no formato `onelink.shein.com/59/...` e estão só na tabela "A conta"; as fotos ficaram sem `href` (revisão do Job 3, abaixo).
 - O selo "50% WOOL" das fotos do casaco sai no recorte do Job 6; se não der para recortar sem perder a peça, ficam só as fotos 1, 2, 3 e 5.
 
 ## Revisão (Job 3, 04/11/2026)
@@ -351,8 +351,30 @@ JSON `content/reviews/shein-vale-a-pena.json`, id 794, e as 9 traduções (ids 7
 - O conferidor das traduções agora barra outro nome para o 4CW5Y: vale o `referralCodeLabel` de cada idioma.
 - Vault: o dossiê e a nota do cluster da SHEIN seguem a regra de 02/11, a pendência que o revisor do Job 3 deixou. A matriz do cluster ganhou as cinco famílias que faltavam.
 
-Gates antes do CDN, verdes: `validate:content`, `test:review-i18n` (34 famílias), `test:article-d2`, `typecheck`, `test:reviews-hub`, `test:site-search` e `test:covers`. Faltam, depois do CDN: `test-delivery-integration`, `phase5-export --check`, `candidate-proof`, o `npm run build` e o `test:build-output`.
+Gates verdes em 04/11/2026: `validate:content`, `test:review-i18n` (340 versões em 34 famílias), `test:article-d2`, `typecheck`, `lint` (só o aviso antigo do `DesktopNav`), `test:reviews-hub`, `test:site-search`, `test:covers`, `validate:video`, `test-delivery-integration`, `phase5-export --check`, `candidate-proof` (também no hook do commit das imagens), o `npm run build` completo, com `test:client-bundle`, o `<html lang>` das 20 páginas novas e o `test:build-output` (598 artigos, `<head>` de 340 artigos de família), e o `test-review-delivery-html`. No HTML do build, as fotos novas saem do CDN. As correções da revisão independente (abaixo) só mexeram em texto; depois delas rodaram de novo todos, menos `test:covers`, `validate:video` e `candidate-proof`, que não dependem do texto.
 
 Os links de afiliado da Essnce, do vestido e do casaco MOTF (`onelink.shein.com/59/...`) chegaram do Bruno em 04/11/2026 e estão na tabela "A conta" (só PT).
 
 Data da alíquota zero: decisão do Bruno em 04/11/2026, 12/05. O `black-friday-shein` foi corrigido nos dois lugares em que dizia 13 de maio, e o `shein-e-confiavel` já dizia só "desde maio".
+
+## Revisão independente (workflow, 04/11/2026)
+Com o PR #564 aberto, um workflow releu os dois artigos novos (o PT e as 18 traduções) e o vault em quatro frentes, cada uma com revisores em contexto limpo: as regras fora do PT, a fidelidade das traduções latinas, a das asiáticas e os fatos do PT contra a ficha e o vault. Cada achado passou por um verificador que tentava derrubá-lo. Dos 31 achados, 15 se confirmaram e 16 caíram. A conta é dos dois artigos juntos; a nota do [[tamanho-shein-brasil]] traz a parte dele.
+
+Corrigido neste artigo:
+- es, capítulo da devolução: "el probador es la medida" virou "la prueba está en la medida". O probador é a cabine da loja, e o texto fala da prova em casa.
+- it, capítulo "Quando compensa e quando não": "un abito per un evento" virou "un outfit per un evento". O PT fala de roupa, e "abito" estreita para vestido ou terno.
+- Vault: a pendência dos links das três peças ficou marcada como resolvida, nas anotações para o Job 3 e o Job 6.
+
+Ficou como está:
+- A coluna "Prazo na página" da tabela "A conta" traz dias (de 8 a 19), e a leitura de 04/11 deu datas (12/11 a 23/11). A conversão em dias está na matriz de claims ("fato da loja, convertido em dias") e serve a quem lê em outro dia; datas envelheceriam a tabela no dia seguinte.
+- "A política não prevê troca", no capítulo da devolução e no FAQ: o verificador deste artigo derrubou o achado, porque a ficha registra que a política "não fala em troca" e descreve só devolução e reembolso. No artigo de tamanho, o mesmo achado ficou de pé, com gravidade baixa. A frase segue nos dois, só no PT.
+
+Fora dos artigos:
+- A seção da correção da data no [[black-friday-shein]] dizia que a data mudou "no PR" dos dois artigos novos. Agora diz que mudou só no `black-friday-shein.json`, no PR #564, e que os dois artigos novos não citam a data.
+- O `CONTRATOS-DE-CONTEUDO` e a nota do cluster da SHEIN dizem que nenhum texto diz "SHEIN Brasil", e seis artigos PT publicados ainda dizem. A correção ficou para uma sessão à parte, aberta pelo Bruno em 04/11/2026, que começa depois do merge deste PR.
+
+Caíram na verificação, entre os 16:
+- os rótulos "Conta nossa:" e "Regra prática, sem teste nosso:" nas 8 traduções do artigo de tamanho, lidos como primeira pessoa no corpo (são os rótulos fixos do BRIEF, os mesmos do PT);
+- "The fitting room is the measurements", que a releitura já tinha tirado;
+- os nomes do rastreio, diferentes de um artigo para o outro em ko, zh-hant e zh-hans (cada artigo usa um termo só, e os dois são naturais);
+- o "#379" do vestido de festa na matriz do cluster, que é mesmo o PR dele.

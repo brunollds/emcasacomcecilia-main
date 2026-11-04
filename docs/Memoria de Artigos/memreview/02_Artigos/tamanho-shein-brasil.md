@@ -6,10 +6,10 @@ parceiro: "[[SHEIN]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Tamanho"
-status: "pronto-para-gates"
+status: "pronto-para-deploy"
 responsavel: "Fable 5.1 (Job 2) e Claude (Jobs 3 a 6)"
-proxima_acao: "Bruno: aprovar a folha de imagens e mandar os links de afiliado das peças; depois CDN, gates e PR"
-bloqueado_por: "Bruno: folha de imagens (capa e corpo) e os links da DAZY e da Essnce"
+proxima_acao: "Merge do PR #564 (auto-merge) e deploy quando o Bruno decidir; depois smoke das 10 URLs, IndexNow e status publicado"
+bloqueado_por: "Bruno: decisão de deploy"
 data_criacao: "2026-10-30"
 pauta: "SH-3 do molde moda-casa (30/10/2026), aprovada pelo Bruno em 30/10"
 i18n_cluster: "shein (família própria, 10 idiomas)"
@@ -149,7 +149,7 @@ Fonte canônica da família `shein-tamanho` (10 idiomas). Capítulo marcado com 
 - **emphasis (cartão, no capítulo "Qual letra pedir"):** Se fosse para a minha casa, eu não pediria letra sem abrir o guia da peça, porque a mesma letra muda de marca para marca.
 - **relatedArticles (slugs):** `shein-vale-a-pena`, `vestido-de-festa-shein`, `shein-e-confiavel`, `codigo-de-indicacao-shein`, `shein-reclame-aqui-nota-reputacao`
 - **Links internos no corpo (3):** `/reviews/shein-e-confiavel` (capítulo da devolução), `/reviews/shein-vale-a-pena` e `/cupons/shein` (os dois no "Antes de comprar").
-- **Links das duas camisetas:** `LINK-AFILIADO-PENDENTE` só na primeira célula da tabela do capítulo da letra (o Bruno manda o link de afiliado de cada uma). As fotos ficam sem `href`: o `test:review-i18n` exige os mesmos links de foto, seção a seção, em toda versão, e o capítulo do Envio Nacional sai fora do PT.
+- **Links das duas camisetas:** `LINK-AFILIADO-PENDENTE` só na primeira célula da tabela do capítulo da letra (o Bruno manda o link de afiliado de cada uma). As fotos ficam sem `href`: o `test:review-i18n` exige os mesmos links de foto, seção a seção, em toda versão, e o capítulo do Envio Nacional sai fora do PT. *Resolvido em 04/11/2026:* os links da DAZY e da Essnce chegaram no formato `onelink.shein.com/59/...` e estão na tabela, o mesmo link nos 10 idiomas.
 
 ### Artigo
 
@@ -201,7 +201,7 @@ O que decide a letra é saber qual tabela você está olhando, porque o guia da 
 
 A folga é a diferença entre a peça e o seu corpo, e ela conta a modelagem antes de você vestir. Pela mesma conta, com o guia da DAZY, o M é indicado para busto de 82 a 86 cm. Sobram de 7 a 11 cm de folga numa camiseta de ajuste regular e elasticidade "Pouco". Quando só existe a medida da peça, a elasticidade faz o papel da folga: na Essnce, de elasticidade "Muito", a modelo da página veste o S, que mede 78 cm, 9 cm a menos que o busto dela.
 
-O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade "Não" ou "Pouco" pede folga, e no limite a letra de cima; tecido "Médio" ou "Muito" pede a letra da sua medida, porque folga grande numa peça que estica vira roupa larga.
+O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade "Não" ou "Pouco" pede folga, e no limite a letra de cima; tecido "Médio" ou "Muito" pede a letra cuja medida fica igual ou abaixo da sua, porque folga grande numa peça que estica vira roupa larga.
 
 ### O que mais a página mostra: a modelo e quem comprou
 
@@ -340,6 +340,25 @@ JSON `content/reviews/tamanho-shein-brasil.json`, id 804, e as 9 traduções (id
   - zh-hant: 9. "整體穿搭" (o look) virou "合身度" (o caimento), a regra da folga deixou de estar invertida e saiu a "troca" acrescentada.
   - zh-hans: 7, com as mesmas correções.
 
-Gates antes do CDN, verdes: `validate:content`, `test:review-i18n` (34 famílias), `test:article-d2`, `typecheck`, `test:reviews-hub`, `test:site-search` e `test:covers`. Faltam, depois do CDN: `test-delivery-integration`, `phase5-export --check`, `candidate-proof`, o `npm run build` e o `test:build-output`.
+Gates verdes em 04/11/2026: `validate:content`, `test:review-i18n` (340 versões em 34 famílias), `test:article-d2`, `typecheck`, `lint` (só o aviso antigo do `DesktopNav`), `test:reviews-hub`, `test:site-search`, `test:covers`, `validate:video`, `test-delivery-integration`, `phase5-export --check`, `candidate-proof` (também no hook do commit das imagens), o `npm run build` completo, com `test:client-bundle`, o `<html lang>` das 20 páginas novas e o `test:build-output` (598 artigos, `<head>` de 340 artigos de família), e o `test-review-delivery-html`. No HTML do build, as fotos novas saem do CDN. As correções da revisão independente (abaixo) só mexeram em texto; depois delas rodaram de novo todos, menos `test:covers`, `validate:video` e `candidate-proof`, que não dependem do texto.
 
 Os links de afiliado da DAZY e da Essnce (`onelink.shein.com/59/...`) chegaram do Bruno em 04/11/2026 e estão na tabela das camisetas, o mesmo link nos 10 idiomas, como pede a nota do cluster para link de peça.
+
+## Revisão independente (workflow, 04/11/2026)
+O mesmo workflow do [[shein-vale-a-pena]]: 31 achados nos dois artigos, 15 confirmados e 16 derrubados. O registro completo está na nota dele; aqui, a parte deste artigo.
+
+Corrigido:
+- PT: "Como ler o guia da peça" dizia que tecido "Médio" ou "Muito" pede "a letra da sua medida", e o resumo "Qual letra pedir" dizia "a letra cuja medida fica igual ou abaixo da sua". O capítulo passou a dizer o mesmo que o resumo, no rascunho acima e no JSON, e as 9 traduções seguiram a troca.
+- fr, capítulo "O que mais a página mostra": o recurso de tamanho pedia "la taille en centimètres", que em francês é o tamanho da peça. Virou "la stature", como no resto do artigo.
+- ko: as quatro perguntas do FAQ estavam em 해요체, num artigo todo em 합니다체. Passaram ao registro do artigo.
+- ja, "Como ler o guia da peça": "商品によってあります" virou "商品によっては載っています", a forma natural de "quando a peça tem".
+- Vault: a pendência dos links das duas camisetas ficou marcada como resolvida, na lista dos campos do JSON.
+
+Ficou como está:
+- "A política não prevê troca", no capítulo "Se não servir", e o "Não" do FAQ: o verificador deu gravidade baixa, e o do outro artigo derrubou o mesmo achado. A ficha registra que a política "não fala em troca" e descreve só devolução e reembolso. O trecho existe só no PT.
+
+Caíram na verificação:
+- os rótulos "Conta nossa:" e "Regra prática, sem teste nosso:" das 8 traduções, lidos como primeira pessoa no corpo (são os rótulos fixos do BRIEF, os mesmos do PT);
+- "Taille" sozinho para a cintura, no "Como medir" em fr (a definição logo depois desfaz a dúvida);
+- "상품에 따라 있습니다" em ko (o sentido está certo);
+- os nomes do rastreio, diferentes dos do outro artigo em ko, zh-hant e zh-hans.

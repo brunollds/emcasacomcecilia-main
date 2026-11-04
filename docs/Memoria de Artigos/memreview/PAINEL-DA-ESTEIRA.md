@@ -47,13 +47,14 @@
 
 ## 5. Prontos para Gates (`status: pronto-para-gates`)
 *JSON pronto e traduções relidas; aguardando os gates do Job-5.*
-- [ ] [[shein-vale-a-pena]]: SHEIN vale a pena? Quando compensa comprar e quando passar (10 idiomas, ids 794–803; Fable 5.1 no Job 2); espera a folha de imagens, os links das peças e a data da alíquota zero (12/05 ou 13/05) em 2 artigos
-- [ ] [[tamanho-shein-brasil]]: Tamanho na SHEIN: qual letra pedir e como ler o guia de cada peça (10 idiomas, ids 804–813; Fable 5.1 no Job 2); espera a folha de imagens e os links das peças
+- *(Nenhum artigo no momento)*
 
 ---
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
+- [ ] [[shein-vale-a-pena]]: SHEIN vale a pena? Quando compensa comprar e quando passar (10 idiomas, ids 794–803; Fable 5.1 no Job 2; gates verdes em 04/11/2026, PR #564)
+- [ ] [[tamanho-shein-brasil]]: Tamanho na SHEIN: qual letra pedir e como ler o guia de cada peça (10 idiomas, ids 804–813; Fable 5.1 no Job 2; gates verdes em 04/11/2026, PR #564)
 
 ---
 

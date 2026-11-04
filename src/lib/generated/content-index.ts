@@ -182688,7 +182688,7 @@ export const reviewsData: unknown[] = [
         "heading": "Devolución",
         "paragraphs": [
           "La política de devolución de tu país está en el centro de ayuda de SHEIN: léela antes de pedir, porque el plazo, el costo y lo que no se puede devolver cambian la cuenta.",
-          "Quien compra para probarse en casa, como en una tienda física, no es el perfil aquí: el probador es la medida, en el capítulo siguiente."
+          "Quien compra para probarse en casa, como en una tienda física, no es el perfil aquí: la prueba está en la medida, en el capítulo siguiente."
         ],
         "images": [
           {
@@ -183153,7 +183153,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quando conviene e quando no",
         "paragraphs": [
           "Conviene quando tre cose giocano a tuo favore: conosci la taglia, non hai fretta e l'ordine raggiunge un importo che il negozio spedisce gratis. SHEIN ha un catalogo enorme e prezzi bassi, e questo ha un costo che la pagina non mostra: tempo e attenzione nella descrizione. Un ordine internazionale impiega alcuni giorni solo a lasciare il magazzino, e la consegna arriva dopo. Il capo arriva senza averlo provato: se non ti va bene, la soluzione è il reso descritto nel centro assistenza del negozio.",
-          "Per chi: il basico che compri sempre, come t-shirt, leggings o pigiama, e il capo da occasione con un mese di margine. Quando no: un regalo per la settimana prossima, un abito per un evento con data fissa e qualsiasi capo costoso che devi vedere addosso prima di decidere.",
+          "Per chi: il basico che compri sempre, come t-shirt, leggings o pigiama, e il capo da occasione con un mese di margine. Quando no: un regalo per la settimana prossima, un outfit per un evento con data fissa e qualsiasi capo costoso che devi vedere addosso prima di decidere.",
           "La decisione si prende sulla pagina del prodotto, prima del carrello: lì ci sono il tipo di spedizione, il tempo di consegna previsto e la composizione. Il checkout conferma solo quello che dovresti già sapere."
         ]
       },
@@ -184099,7 +184099,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A folga é a diferença entre a peça e o seu corpo, e ela conta a modelagem antes de você vestir. Pela mesma conta, com o guia da DAZY, o M é indicado para busto de 82 a 86 cm. Sobram de 7 a 11 cm de folga numa camiseta de ajuste regular e elasticidade \"Pouco\". Quando só existe a medida da peça, a elasticidade faz o papel da folga: na Essnce, de elasticidade \"Muito\", a modelo da página veste o S, que mede 78 cm, 9 cm a menos que o busto dela.",
-          "O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade \"Não\" ou \"Pouco\" pede folga, e no limite a letra de cima; tecido \"Médio\" ou \"Muito\" pede a letra da sua medida, porque folga grande numa peça que estica vira roupa larga."
+          "O guia avisa que a medida da peça pode mudar 1 a 2 cm, e a descrição das duas camisetas avisa que o tecido muda de medida depois da lavagem em casa. Se a sua medida cai no limite de uma letra, esses 2 cm decidem. Então: tecido de elasticidade \"Não\" ou \"Pouco\" pede folga, e no limite a letra de cima; tecido \"Médio\" ou \"Muito\" pede a letra cuja medida fica igual ou abaixo da sua, porque folga grande numa peça que estica vira roupa larga."
         ]
       },
       {
@@ -184401,7 +184401,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Ease is the difference between the garment and your body, and it shows the cut before you put it on. By the same math, with the DAZY guide, M is meant for a bust of 82 to 86 cm. That leaves 7 to 11 cm of ease in a regular-fit T-shirt with slight stretch. When only the garment measurement exists, stretch takes the place of ease: in the Essnce, with high stretch, the model on the page wears S, which measures 78 cm, 9 cm less than her bust.",
-          "The guide warns that the piece measurement can vary by 1 to 2 cm, and the descriptions of both T-shirts warn that the fabric changes size after washing at home. If your measurement falls on the edge of one size, those 2 cm decide. So: fabric with no or slight stretch calls for ease, and on the edge the size above; fabric with medium or high stretch calls for the size that matches your measurement, because a lot of ease in a stretchy piece just ends up baggy."
+          "The guide warns that the piece measurement can vary by 1 to 2 cm, and the descriptions of both T-shirts warn that the fabric changes size after washing at home. If your measurement falls on the edge of one size, those 2 cm decide. So: fabric with no or slight stretch calls for ease, and on the edge the size above; fabric with medium or high stretch calls for the size whose measurement is equal to or below yours, because a lot of ease in a stretchy piece just ends up baggy."
         ]
       },
       {
@@ -184677,7 +184677,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "La holgura es la diferencia entre la prenda y tu cuerpo, y cuenta el corte antes de que te la pongas. Con la misma cuenta, con la guía de DAZY, la M está indicada para un busto de 82 a 86 cm. Quedan de 7 a 11 cm de holgura en una camiseta de ajuste regular y poca elasticidad. Cuando solo existe la medida de la prenda, la elasticidad hace el papel de la holgura: en la Essnce, de alta elasticidad, la modelo de la ficha lleva la S, que mide 78 cm, 9 cm menos que su busto.",
-          "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta pide la talla de tu medida, porque mucha holgura en una prenda que estira se vuelve ropa ancha."
+          "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta pide la talla cuya medida queda igual o por debajo de la tuya, porque mucha holgura en una prenda que estira se vuelve ropa ancha."
         ]
       },
       {
@@ -184953,7 +184953,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "L'aisance, c'est la différence entre le vêtement et votre corps ; elle révèle la coupe avant même que vous ne l'enfiliez. Avec le même calcul, pour le guide DAZY, le M est prévu pour un buste de 82 à 86 cm. Il reste 7 à 11 cm d'aisance sur un t-shirt à coupe régulière et à élasticité légère. Quand il n'existe que la mesure du vêtement, l'élasticité joue le rôle de l'aisance : sur l'Essnce, à élasticité forte, le mannequin de la fiche porte le S, qui mesure 78 cm, soit 9 cm de moins que son buste.",
-          "Le guide prévient que la mesure de l'article peut varier de 1 à 2 cm, et la description des deux t-shirts prévient que le tissu change de dimensions après un lavage à la maison. Si votre mesure tombe à la limite d'une taille, ces 2 cm décident. Donc : un tissu sans élasticité ou à élasticité légère demande de l'aisance, et à la limite la taille au-dessus ; un tissu à élasticité moyenne ou forte demande la taille de votre mesure, car trop d'aisance sur un article qui s'étire donne un vêtement flottant."
+          "Le guide prévient que la mesure de l'article peut varier de 1 à 2 cm, et la description des deux t-shirts prévient que le tissu change de dimensions après un lavage à la maison. Si votre mesure tombe à la limite d'une taille, ces 2 cm décident. Donc : un tissu sans élasticité ou à élasticité légère demande de l'aisance, et à la limite la taille au-dessus ; un tissu à élasticité moyenne ou forte demande la taille dont la mesure est égale ou inférieure à la vôtre, car trop d'aisance sur un article qui s'étire donne un vêtement flottant."
         ]
       },
       {
@@ -184961,7 +184961,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Après la mesure, le plus utile est le tableau des acheteurs, car il montre de vraies personnes : stature, poids, buste, tour de taille, tour de hanches et la lettre commandée par chacune. Cherchez-y quelqu'un qui a vos mesures et regardez la lettre commandée. Juste au-dessus figure l'avis des acheteurs sur la coupe, en pourcentage : sur DAZY, 93 % ont trouvé le vêtement fidèle à la taille, 6 % l'ont trouvé petit et 1 % grand ; sur Essnce, la fiche indique que 95 % l'ont trouvé fidèle à la taille. Un fort pourcentage de « petit » est un avertissement : prenez la taille au-dessus.",
           "Le mannequin sert de repère de hauteur. Sur DAZY, elle mesure 176 cm, a 87 cm de buste et porte le M international ; sur Essnce, 175 cm et 87 cm de buste, en S. Même buste, lettres différentes, dans les deux marques : c'est encore l'histoire de la lettre. Le bouton de détail des tailles et de la coupe affiche sur la fiche elle-même les mesures du mannequin.",
-          "Sous les tailles, certaines fiches proposent un lien qui suggère une taille. Le centre d'aide SHEIN indique que l'outil demande la taille en centimètres, l'âge et le poids pour suggérer une lettre. Connecté, le conseil apparaît tout seul sur certains articles. Utilisez-le comme deuxième avis, jamais à la place du mètre : il ne demande ni votre buste ni votre tour de taille, et c'est précisément là que la lettre change."
+          "Sous les tailles, certaines fiches proposent un lien qui suggère une taille. Le centre d'aide SHEIN indique que l'outil demande la stature, l'âge et le poids pour suggérer une lettre. Connecté, le conseil apparaît tout seul sur certains articles. Utilisez-le comme deuxième avis, jamais à la place du mètre : il ne demande ni votre buste ni votre tour de taille, et c'est précisément là que la lettre change."
         ]
       },
       {
@@ -185229,7 +185229,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Die Weite ist der Unterschied zwischen Kleidungsstück und Körper, und sie verrät den Schnitt, bevor Sie es anziehen. Nach derselben Rechnung ist M im DAZY-Guide für einen Brustumfang von 82 bis 86 cm gedacht. Bei einem Shirt mit regulärem Schnitt und leichter Elastizität bleiben so 7 bis 11 cm Weite. Gibt es nur das Maß des Kleidungsstücks, übernimmt die Elastizität die Rolle der Weite: Bei der Essnce mit starker Elastizität trägt das Model auf der Produktseite Größe S, die 78 cm misst, also 9 cm weniger als ihr Brustumfang.",
-          "Der Guide weist darauf hin, dass sich das Maß des Artikels um 1 bis 2 cm unterscheiden kann, und die Beschreibung beider Shirts warnt, dass sich der Stoff nach dem Waschen zu Hause verändert. Liegt Ihr Maß genau an der Grenze einer Größe, entscheiden diese 2 cm. Also: Stoff ohne oder mit wenig Elastizität verlangt Weite, und an der Grenze die Größe darüber; Stoff mit mittlerer oder starker Elastizität verlangt die Größe Ihres Maßes, denn viel Weite an einem dehnbaren Stoff wird zu weiter Kleidung."
+          "Der Guide weist darauf hin, dass sich das Maß des Artikels um 1 bis 2 cm unterscheiden kann, und die Beschreibung beider Shirts warnt, dass sich der Stoff nach dem Waschen zu Hause verändert. Liegt Ihr Maß genau an der Grenze einer Größe, entscheiden diese 2 cm. Also: Stoff ohne oder mit wenig Elastizität verlangt Weite, und an der Grenze die Größe darüber; Stoff mit mittlerer oder starker Elastizität verlangt die Größe, deren Maß gleich Ihrem oder darunter liegt, denn viel Weite an einem dehnbaren Stoff wird zu weiter Kleidung."
         ]
       },
       {
@@ -185505,7 +185505,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "L'ampiezza è la differenza tra il capo e il tuo corpo, e rivela la vestibilità prima ancora di indossarlo. Con lo stesso calcolo, nella guida DAZY la M è indicata per un busto da 82 a 86 cm. Restano da 7 a 11 cm di ampiezza su una maglietta a vestibilità regolare e poca elasticità. Quando c'è solo la misura del capo, l'elasticità fa le veci dell'ampiezza: sulla Essnce, con elasticità alta, la modella della scheda porta la S, che misura 78 cm, 9 cm meno del suo busto.",
-          "La guida avverte che la misura del capo può variare di 1-2 cm, e la descrizione delle due magliette avverte che il tessuto cambia misura dopo il lavaggio in casa. Se la tua misura cade al limite di una taglia, decidono questi 2 cm. Quindi: un tessuto senza elasticità o con poca elasticità chiede ampiezza, e al limite la taglia sopra; un tessuto con elasticità media o alta chiede la taglia della tua misura, perché troppa ampiezza su un capo elastico lo fa diventare largo."
+          "La guida avverte che la misura del capo può variare di 1-2 cm, e la descrizione delle due magliette avverte che il tessuto cambia misura dopo il lavaggio in casa. Se la tua misura cade al limite di una taglia, decidono questi 2 cm. Quindi: un tessuto senza elasticità o con poca elasticità chiede ampiezza, e al limite la taglia sopra; un tessuto con elasticità media o alta chiede la taglia la cui misura è uguale o inferiore alla tua, perché troppa ampiezza su un capo elastico lo fa diventare largo."
         ]
       },
       {
@@ -185781,7 +185781,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "여유분은 옷과 자신의 몸의 차이로, 입기 전에 핏이 얼마나 넉넉한지 알려 줍니다. 같은 계산을 DAZY 가이드에 적용하면 M은 가슴둘레 82~86cm인 사람에게 맞습니다. 레귤러 핏이고 신축성이 약간 있는 티셔츠라면 7~11cm의 여유가 남습니다. 상품 치수만 있을 때는 신축성이 여유분의 역할을 합니다. 신축성이 많이 늘어나는 Essnce에서는, 페이지의 모델이 78cm인 S를 입고 있습니다. 이는 모델의 가슴둘레보다 9cm 작은 수치입니다.",
-          "가이드에는 상품 치수가 1~2cm 달라질 수 있다고 나와 있고, 두 티셔츠 모두 집에서 세탁하면 원단 치수가 바뀔 수 있다고 적혀 있습니다. 자신의 치수가 사이즈 경계에 걸리면 이 2cm가 결정합니다. 그러니 신축성이 없거나 약간 있는 원단은 여유가 필요하므로 경계에서는 위 사이즈를 고르고, 신축성이 중간이거나 많이 늘어나는 원단은 자신의 치수에 맞는 사이즈를 고르십시오. 잘 늘어나는 원단에서 여유가 크면 헐렁해지기 때문입니다."
+          "가이드에는 상품 치수가 1~2cm 달라질 수 있다고 나와 있고, 두 티셔츠 모두 집에서 세탁하면 원단 치수가 바뀔 수 있다고 적혀 있습니다. 자신의 치수가 사이즈 경계에 걸리면 이 2cm가 결정합니다. 그러니 신축성이 없거나 약간 있는 원단은 여유가 필요하므로 경계에서는 위 사이즈를 고르고, 신축성이 중간이거나 많이 늘어나는 원단은 상품 치수가 자신의 치수와 같거나 작은 사이즈를 고르십시오. 잘 늘어나는 원단에서 여유가 크면 헐렁해지기 때문입니다."
         ]
       },
       {
@@ -185830,10 +185830,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN에서 자신의 사이즈는 무엇인가요? 상품의 사이즈 가이드에서 자신의 치수(cm)에 해당하는 사이즈가 답입니다. 브랜드마다 글자가 다르다는 것은 첫 장의 티셔츠 두 장에서 보신 그대로입니다.",
-          "SHEIN 사이즈는 작은 편인가요? 글자만으로는 답할 수 없습니다. 상품 페이지에서는 핏 타입, 신축성, 그리고 사이즈가 맞았다고 답한 구매자 비율을 볼 수 있습니다. 이 가이드의 티셔츠 두 장에서는 대다수가 사이즈가 맞았다고 답했습니다. 숫자는 “모델과 구매자” 장에 있습니다.",
-          "SHEIN에서 다른 사이즈로 교환해 주나요? 나라마다 다릅니다. 반품과 교환 정책은 거주 국가의 SHEIN 고객센터에서 확인하십시오.",
-          "SHEIN 기준으로 가슴둘레는 어떻게 재나요? 가슴에서 가장 볼록한 부분에 줄자를 수평으로 두르고, 조이지 않게 잽니다. 허리와 엉덩이는 측정 방법 장에 있습니다."
+          "SHEIN에서 자신의 사이즈는 무엇입니까? 상품의 사이즈 가이드에서 자신의 치수(cm)에 해당하는 사이즈가 답입니다. 브랜드마다 글자가 다르다는 것은 첫 장의 티셔츠 두 장에서 보신 그대로입니다.",
+          "SHEIN 사이즈는 작은 편입니까? 글자만으로는 답할 수 없습니다. 상품 페이지에서는 핏 타입, 신축성, 그리고 사이즈가 맞았다고 답한 구매자 비율을 볼 수 있습니다. 이 가이드의 티셔츠 두 장에서는 대다수가 사이즈가 맞았다고 답했습니다. 숫자는 “모델과 구매자” 장에 있습니다.",
+          "SHEIN에서 다른 사이즈로 교환해 줍니까? 나라마다 다릅니다. 반품과 교환 정책은 거주 국가의 SHEIN 고객센터에서 확인하십시오.",
+          "SHEIN 기준으로 가슴둘레는 어떻게 잽니까? 가슴에서 가장 볼록한 부분에 줄자를 수평으로 두르고, 조이지 않게 잽니다. 허리와 엉덩이는 측정 방법 장에 있습니다."
         ]
       }
     ],
@@ -185985,7 +185985,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ガイドの読み方：商品の寸法、体の寸法、ゆとり",
         "paragraphs": [
-          "サイズを決めるのは、どの表を見ているかを知ることです。SHEINのガイドには表が2つあることがあります。1つ目は商品の寸法で、商品を平らに置いて測った数字です。DAZY Mの胸囲は、あなたの体ではなく服の寸法です。2つ目は体の寸法で、商品によってあります。そのサイズが合うとされる体の範囲を示していて、ページにも参考値だと書かれています。Essnceのように商品の寸法しかない商品もあります。その場合は、自分の寸法と商品の寸法を直接比べ、ゆとりは自分で判断します。"
+          "サイズを決めるのは、どの表を見ているかを知ることです。SHEINのガイドには表が2つあることがあります。1つ目は商品の寸法で、商品を平らに置いて測った数字です。DAZY Mの胸囲は、あなたの体ではなく服の寸法です。2つ目は体の寸法で、商品によっては載っています。そのサイズが合うとされる体の範囲を示していて、ページにも参考値だと書かれています。Essnceのように商品の寸法しかない商品もあります。その場合は、自分の寸法と商品の寸法を直接比べ、ゆとりは自分で判断します。"
         ],
         "comparisonTable": {
           "caption": "DAZYのTシャツのサイズガイド（2026年11月4日に確認、cm）：左は商品の寸法（胸囲と着丈。肩と袖は除く）、右は体の寸法の範囲です。",
@@ -186057,7 +186057,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "ゆとりは、服と自分の体の差のことで、着る前にどれくらい余裕があるかがわかります。同じ計算をDAZYのガイドで行うと、Mは胸囲82〜86cmの人向けです。レギュラーフィットで伸縮性がわずかなTシャツなら、7〜11cmのゆとりがあります。商品の寸法しかない場合は、伸縮性がゆとりの役割を果たします。よく伸びるEssnceでは、ページのモデルはSサイズ（78cm）を着ていて、それはモデルの胸囲より9cm小さい数字です。",
-          "ガイドには、商品の寸法が1〜2cmずれることがあると書かれています。2つのTシャツの商品説明にも、家で洗濯すると生地のサイズが変わることがあると書かれています。自分の寸法がサイズの境目にあるなら、この2cmで決まります。そのため、伸縮性がない、またはわずかな生地はゆとりが必要なので、境目では上のサイズを選びます。伸縮性が中くらい、またはよく伸びる生地は、自分の寸法に合うサイズを選びます。よく伸びる生地でゆとりが大きいと、ゆるくなってしまうからです。"
+          "ガイドには、商品の寸法が1〜2cmずれることがあると書かれています。2つのTシャツの商品説明にも、家で洗濯すると生地のサイズが変わることがあると書かれています。自分の寸法がサイズの境目にあるなら、この2cmで決まります。そのため、伸縮性がない、またはわずかな生地はゆとりが必要なので、境目では上のサイズを選びます。伸縮性が中くらい、またはよく伸びる生地は、商品の寸法が自分の寸法と同じか、それより小さいサイズを選びます。よく伸びる生地でゆとりが大きいと、ゆるくなってしまうからです。"
         ]
       },
       {
@@ -186333,7 +186333,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "寬鬆量是衣服和你身體之間的差距，穿之前就能看出版型鬆緊。用 DAZY 的尺碼表來算：M 碼適合胸圍 82 到 86 公分的人。常規版型、稍有彈性的 T 恤，還留有 7 到 11 公分的寬鬆。只有商品尺寸時，彈性就取代寬鬆的作用。Essnce 的彈性很大，頁面上的模特穿 S 碼，S 碼尺寸是 78 公分，比模特的胸圍小 9 公分。",
-          "尺碼表寫明，商品尺寸可能有 1 到 2 公分的誤差；兩件 T 恤的說明也都提到，布料在家洗過後尺寸會變。如果你的尺寸剛好落在兩個尺碼的交界，這 2 公分就會決定結果。所以：布料沒有彈性或稍有彈性，需要寬鬆，交界就選大一號；布料彈性中等或很大，就選和你尺寸相符的尺碼，因為彈性大的布料寬鬆一多，就會顯得鬆垮。"
+          "尺碼表寫明，商品尺寸可能有 1 到 2 公分的誤差；兩件 T 恤的說明也都提到，布料在家洗過後尺寸會變。如果你的尺寸剛好落在兩個尺碼的交界，這 2 公分就會決定結果。所以：布料沒有彈性或稍有彈性，需要寬鬆，交界就選大一號；布料彈性中等或很大，就選商品尺寸小於或等於你尺寸的尺碼，因為彈性大的布料寬鬆一多，就會顯得鬆垮。"
         ]
       },
       {
@@ -186609,7 +186609,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "宽松量是衣服和你身体之间的差值，穿之前就能看出版型的松紧。用 DAZY 的尺码表来算：M 码适合胸围 82 到 86 厘米的人。常规版型、略有弹性的 T 恤，还留有 7 到 11 厘米的宽松。只有商品尺寸时，弹性就代替了宽松的作用。Essnce 的弹性很大，页面上的模特穿的是 S 码，S 码尺寸 78 厘米，比模特的胸围小 9 厘米。",
-          "尺码表写明，商品尺寸可能有 1 到 2 厘米的误差；两件 T 恤的说明也都提到，面料在家洗过后尺寸会变。如果你的尺寸正好卡在两个尺码的边界，这 2 厘米就会决定结果。所以：面料没有弹性或略有弹性，需要宽松，边界上选大一号；面料弹性中等或很大，就选与你尺寸相符的尺码，因为弹性大的面料宽松一多，就会显得松垮。"
+          "尺码表写明，商品尺寸可能有 1 到 2 厘米的误差；两件 T 恤的说明也都提到，面料在家洗过后尺寸会变。如果你的尺寸正好卡在两个尺码的边界，这 2 厘米就会决定结果。所以：面料没有弹性或略有弹性，需要宽松，边界上选大一号；面料弹性中等或很大，就选商品尺寸小于或等于你尺寸的尺码，因为弹性大的面料宽松一多，就会显得松垮。"
         ]
       },
       {
