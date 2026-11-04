@@ -388,6 +388,25 @@ Kopenhagen saiu da lista. A Le Creuset não é afiliada: entra como capítulo do
 | EB8 | Toda Up é boa? (sutiãs, segunda pele, calcinhas e adesivos) | **No ar em 04/11/2026** (PR #553, release `ffc044c7`): [[toda-up-e-boa-0311]] |
 | EB9 | Let's Eat It é boa? (Le Creuset, Porto Brasil e Natal) | **No ar em 04/11/2026** (PR #553, release `ffc044c7`): [[lets-eat-it-e-boa-0311]] |
 
+## Rodada do Bing de 04/11/2026 (Bruno, 04/11/2026)
+
+Base: AI Search Queries (Copilot), Keyword Report e Performance Overview do Bing exportados pelo Bruno em 04/11, mais o autocompletar do Google do mesmo dia. O Copilot citou o site 4.112 vezes, 86% delas em perguntas da Dolce Gusto. Ordem do Bruno: BG1, BG2, BG3 e BG4.
+
+| Ordem | Pauta | Situação |
+|---|---|---|
+| BG1 | Renovação da Hostinger: preço, o SONAR20 na renovação, renovação automática e reembolso (família de 10 idiomas) | Briefing aprovado: [[hostinger-renovacao-cupom-sonar20]] e [[hostinger-renovacao-cupom-sonar20-fatos-0411]]. Falta o Bruno dizer onde se digita o código na renovação |
+| BG2 | Dolce Gusto no Reclame Aqui | Briefing aprovado: [[dolce-gusto-reclame-aqui-nota-reputacao]] |
+| BG3 | Promoção Dolce Lovers (sorteio de 2025; nenhuma edição em 2026 até 04/11) | Briefing aprovado: [[promocao-dolce-lovers-dolce-gusto]]. "Comprou Dobrou" ficou fora: nenhuma fonte oficial traz o nome |
+| BG4 | Promoções da Dolce Gusto: o que se repete toda semana e quando comprar | Briefing aprovado: [[promocoes-dolce-gusto-quando-comprar]] |
+
+**Para a sessão de artigos (otimizações, sem artigo novo):**
+- `clube-dolce-gusto-como-funciona`: o nome oficial "Dolce Gusto Club" no título SEO. No Bing, "dolce gusto club" teve 48 impressões, posição 6,3 e 0 cliques, e cerca de 30 variações ficaram entre a 1ª e a 8ª posição, quase sem clique.
+- `nutren-senior-zero-lactose-ficha-tecnica`: "sem lactose" no título e na FAQ. A consulta "nutren sem lactose" teve 56 citações no Copilot, só 20% delas nossas; o Google completa com sem sabor, baunilha, tabela e preço.
+- Receita `biscoitos-amanteigados-decorados`: "natalinos" e "glacê" no título antes de dezembro. Bing: posição 9 para "receita de biscoitos natalinos amanteigados com glacê colorido".
+- Famílias de confiança da SHEIN e da YesStyle: seção e FAQ "de onde é" nos 10 idiomas.
+  - SHEIN: "shein é de qual país", "where is shein from" e "shein どこの国の会社" (6 variações no Bing, posição 8 a 10).
+  - YesStyle: "where is yesstyle from" e "yesstyle de donde es".
+
 ## Temas para depois (não prioritários)
 
 Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda não existe. Não foram descartados: voltam quando a fila acima esvaziar ou quando a condição mudar.
@@ -395,7 +414,7 @@ Têm demanda, mas não são de decisão de compra, ou dependem de algo que ainda
 | Tema | Sinal | Origem | Melhor formato | Condição para voltar |
 |---|---|---|---|---|
 | Pontos da Dolce Gusto NEO pelo app (ganhar pontos preparando cafés) | Copilot: cerca de 86 citações somando as variações ("Dolce Gusto NEO ganhar pontos preparando cafés app" e outras) | AI Search Queries do Bing, 12/10/2026 | Seção do `clube-dolce-gusto-como-funciona`, não artigo novo | Fila de cima vazia |
-| Validade, resgate e cadastro do código da caixa no Clube Dolce Gusto | Bing: "dolce gusto club" (117 impressões, posição 5,9) e cerca de 60 variações; Copilot: Dolce Lovers Club e Comprou Dobrou, mais de 200 citações | Keyword Report e AI Search Queries do Bing, 12/10/2026 | Atualização do `clube-dolce-gusto-como-funciona` | Com a sessão de melhorias: conferir se ela já cobriu |
+| Validade, resgate e cadastro do código da caixa no Clube Dolce Gusto | Bing: "dolce gusto club" (117 impressões, posição 5,9) e cerca de 60 variações; Copilot: Dolce Lovers Club e Comprou Dobrou, mais de 200 citações | Keyword Report e AI Search Queries do Bing, 12/10/2026 | Atualização do `clube-dolce-gusto-como-funciona` | Com a sessão de melhorias: conferir se ela já cobriu  **04/11/2026:** a Dolce Lovers virou a BG3; o "Comprou Dobrou" não tem fonte oficial. |
 | Prazo de entrega da loja Dolce Gusto | Copilot: "prazo de entrega Dolce Gusto Brasil" (82 citações) e "prazos de entrega" (18) | AI Search Queries do Bing, 12/10/2026 | Seção do `dolce-gusto-e-confiavel` | Com a sessão de melhorias: conferir se ela já cobriu |
 | Quantas xícaras por dia uma máquina Dolce Gusto aguenta | Copilot: 10 citações em espanhol e 3 em português de Portugal; Bing: "quantas chávenas por dia suporta" | Bing, 12/10/2026 | FAQ num guia de máquinas | Só com fonte oficial (manual ou atendimento); hoje não há |
 | Dr. Peanut é saudável? Calorias, açúcar e lactose | Autocompletar de 14/10/2026: "dr peanut é saudável / é calórico / é zero lactose / é zero açúcar / é bom para dieta / é bom para emagrecer" (a maior parte das sugestões de "dr peanut é") | Pesquisa do onboarding da Dr. Peanut | Guia com a tabela nutricional oficial, sem claim de emagrecimento | **Publicado em 20/10/2026:** [[dr-peanut-e-saudavel]] (PR #185, release `e7443ec`; pasta, alfajor, Doctor Bar, Doctor Wafer e whey) |
