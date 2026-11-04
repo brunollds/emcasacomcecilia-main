@@ -168,13 +168,13 @@
         ]
       },
       "postParagraphs": [
-        "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices. We did not test SONAR20 on the VPS, so check the price in the cart before you buy."
+        "The VPS renewal is almost double the promotional price: KVM 1 goes from US$6.49 to US$11.99 a month, and KVM 2 from US$8.79 to US$14.99. These are the 24-month promotion prices. SONAR20 works on the VPS, so check the price in the cart before you buy."
       ]
     },
     {
       "heading": "SONAR20 on Hostinger",
       "paragraphs": [
-        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table and on the VPS, we did not test it; check in the cart. We did not test renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
+        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table, we did not test it; check in the cart. The code also works on the VPS and on renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
       ]
     },
     {
@@ -193,7 +193,7 @@
         "Which Hostinger plan renews for the least? Premium, at US$10.99 a month on the international site, after a 48-month promotion at US$2.49.",
         "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
         "Does Hostinger say where its servers are? The plan pages do not say where the server is. Ask support before you buy.",
-        "Does the SONAR20 code work on the VPS? We have not tested it on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
+        "Does the SONAR20 code work on the VPS? Yes, it works on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
         "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires."
       ]
     },
@@ -207,7 +207,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
     "label": "See the hosting plans with SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true

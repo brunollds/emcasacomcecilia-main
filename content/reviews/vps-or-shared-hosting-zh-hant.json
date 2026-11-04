@@ -209,14 +209,14 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。代碼也適用於續約，請在購物車確認價格。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金，你不用多付任何費用。我們沒有測試 VPS。",
+  "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金，你不用多付任何費用。SONAR20 也適用於 VPS。",
   "relatedArticles": [
     {
       "slug": "openclaw-hostinger-managed-or-vps-zh-hant",

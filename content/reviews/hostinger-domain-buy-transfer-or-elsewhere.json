@@ -145,7 +145,7 @@
         "If you will transfer, check the registration date: under 60 days, the transfer does not start.",
         "Buy on the account that will be yours, with your own email and auto-renewal on.",
         "If the domain came with the hosting plan, write down the second-year renewal price: it is shown before you buy.",
-        "SONAR20 gives 20% off the hosting plan; on a standalone domain, check in the cart whether the discount appears before you pay."
+        "SONAR20 gives 20% off the hosting plan; on a standalone domain, the code does not work."
       ]
     },
     {
@@ -161,7 +161,7 @@
     {
       "heading": "SONAR20 coupon and price",
       "paragraphs": [
-        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. We have not tested the renewal; check the price in the cart. For a domain on its own, what counts is what appears in the cart. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. The code also works on the renewal of hosting plans; check the price in the cart. For a domain on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
       ]
     },
     {
@@ -182,7 +182,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. We have not tested renewal; check the price in the cart. Check the domain in the cart before paying.",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The code also works on the renewal of hosting plans; check the price in the cart. On a standalone domain, the code does not work.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

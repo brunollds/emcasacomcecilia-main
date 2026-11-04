@@ -149,7 +149,7 @@
         "**KVM 8 (32 GB).** Makes sense only with a larger local model. The documentation does not say how much memory each large recipe needs."
       ],
       "postParagraphs": [
-        "The SONAR20 code gives 20% off the first period. We did not test the renewal; check the price in the cart. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and check the amount in the cart before paying. Hostinger is running Black Friday, and prices change: [see the campaign](/en/reviews/hostinger-black-friday)."
+        "The SONAR20 code gives 20% off the first period. The code also works on renewal; check the price in the cart. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and check the amount in the cart before paying. Hostinger is running Black Friday, and prices change: [see the campaign](/en/reviews/hostinger-black-friday)."
       ]
     },
     {
@@ -227,7 +227,7 @@
       "heading": "SONAR20 coupon",
       "paragraphs": [],
       "postParagraphs": [
-        "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. We did not test the renewal; check the price in the cart. Check the amount in the cart before paying, because Black Friday changes prices. See [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
+        "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The code also works on renewal; check the price in the cart. Check the amount in the cart before paying, because Black Friday changes prices. See [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
       ]
     },
     {
@@ -237,7 +237,7 @@
         "Can you run it without an API key? Yes, with a local model, but then memory becomes the problem: the documentation gives 8 GiB as the floor for its smallest local recipe, with a 64K context, and warns that this does not guarantee the model fits or runs well. With Hostinger's credits, you do not need an account with an AI provider, but you pay for usage.",
         "Is Oracle really free? Yes, as long as the account stays within Always Free: 2 OCPUs and 12 GB on the Arm A1, plus the Micro instances. An instance that sits idle for 7 days, with CPU, network and memory below 20%, can be reclaimed by Oracle.",
         "Mac mini or VPS? It depends on whether the computer can stay on 24 hours. If it can, running at home removes the server fee; if it cannot, choose a VPS or the managed option.",
-        "Is there a Hostinger discount coupon for an OpenClaw VPS? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. We did not test the renewal; check the price in the cart."
+        "Is there a Hostinger discount coupon for an OpenClaw VPS? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The code also works on renewal; check the price in the cart."
       ]
     },
     {
@@ -250,7 +250,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The code also works on renewal; check the renewal price in the cart.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

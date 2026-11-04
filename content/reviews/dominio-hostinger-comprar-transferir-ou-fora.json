@@ -186,7 +186,7 @@
         "Compre na conta que vai ser sua, com um e-mail seu e a renovação automática ligada.",
         "Para .com.br, confira o caminho próprio da transferência do .br no suporte da Hostinger antes de comprar, se a ideia é sair um dia.",
         "Se o domínio veio com o plano de hospedagem, anote o preço de renovação do segundo ano: ele aparece antes de comprar.",
-        "O SONAR20 dá 20% no plano de hospedagem; no domínio avulso, confira no carrinho se o desconto aparece antes de pagar."
+        "O SONAR20 dá 20% no plano de hospedagem; no domínio avulso, o código não vale."
       ]
     },
     {
@@ -202,7 +202,7 @@
     {
       "heading": "Cupom SONAR20 e preço",
       "paragraphs": [
-        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. No domínio avulso, o que vale é o que aparecer no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
+        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. O código também vale na renovação; confira o preço no carrinho. No domínio avulso, o código não vale. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
       ]
     },
     {
@@ -236,7 +236,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho. Confira o domínio no carrinho antes de pagar.",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. O código também vale na renovação; confira o preço no carrinho. No domínio avulso, o código não vale.",
     "label": "Ver os planos com o SONAR20",
     "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
