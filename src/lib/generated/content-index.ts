@@ -33574,7 +33574,7 @@ export const reviewsData: unknown[] = [
     "category": "cupons-como-usar",
     "reviewKind": "guia",
     "description": "Guia completo para aplicar o cupom CECI no site oficial da NESCAFÉ Dolce Gusto e obter 10% de desconto em compras acima de R$ 100.",
-    "metaDescription": "Cupom CECI NESCAFÉ Dolce Gusto: use CECI no site oficial e obtenha 10% OFF em cápsulas, cafeteiras e acessórios a partir de R$ 100. Válido em novembro de 2026.",
+    "metaDescription": "O CECI dá 10% OFF no site oficial da NESCAFÉ Dolce Gusto em cápsulas, cafeteiras e acessórios, a partir de R$ 100. Veja como aplicar no checkout.",
     "publishedAt": "19 Jun 2026",
     "publishedAtISO": "2026-06-19",
     "updatedAt": "2026-10-01",
@@ -33800,7 +33800,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia prático do Clube Dolce Gusto: como cadastrar códigos das caixas, acumular pontos, trocar prêmios e economizar com o cupom CECI.",
-    "metaDescription": "Veja como cadastrar o código da caixa, acumular e resgatar pontos por prêmios no Clube Dolce Gusto e como usar o cupom CECI para economizar mais.",
+    "metaDescription": "Clube Dolce Gusto e o cupom CECI, com 10% OFF no site: como cadastrar o código da caixa, acumular pontos e trocar por prêmios.",
     "publishedAt": "03 Jul 2026",
     "publishedAtISO": "2026-07-03",
     "draft": false,
@@ -35360,7 +35360,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como aplicar o cupom CECI na Nestlé Nutre para ter 10% de desconto no carrinho, e quais produtos ficam de fora, como Alfamino, Alfaré e as fórmulas infantis de 0 a 12 meses.",
-    "metaDescription": "Use o cupom CECI na Nestlé Nutre e confira 10% OFF no checkout da loja oficial. Veja o passo a passo, as exceções (Alfamino, Alfaré e fórmulas infantis NAN de 0 a 12 meses) e como validar o desconto antes de pagar.",
+    "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre, conferido no checkout, mas nunca em fórmula infantil de 0 a 12 meses. Veja o passo a passo e as exceções.",
     "publishedAt": "10 Jul 2026",
     "publishedAtISO": "2026-07-10",
     "updatedAt": "2026-10-04",
@@ -35543,7 +35543,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Análise completa da Nestlé Nutre: CNPJ oficial da Nestlé Brasil, SAC, política de troca/devolução (CDC 7 dias), entregas e o que observar antes de comprar.",
-    "metaDescription": "Nestlé Nutre, loja oficial da Nestlé Health Science com CNPJ da Nestlé Brasil: SAC, trocas em 7 dias e entregas, com o cupom CECI de 10% OFF.",
+    "metaDescription": "A Nestlé Nutre, com o cupom CECI e 10% OFF, é a loja oficial da Nestlé Health Science com CNPJ da Nestlé Brasil: SAC, trocas em 7 dias e entregas.",
     "publishedAt": "5 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/nestle-nutre-e-confiavel-capa-discover.webp",
@@ -35683,7 +35683,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Cada linha Nutren tem um público definido pela Nestlé, do Senior ao Active. Veja as nove versões lado a lado pelo rótulo, com cafeína, glúten e lactose, e onde entra o cupom CECI.",
-    "metaDescription": "Qual Nutren escolher? Senior, Protein, Control e Active lado a lado pelo rótulo: para quem é cada um, proteína, cafeína, glúten, lactose e o cupom CECI.",
+    "metaDescription": "Qual Nutren escolher, com o cupom CECI e 10% OFF: Senior, Protein, Control e Active pelo rótulo, com proteína, cafeína, glúten e lactose.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -36295,7 +36295,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como ganhar ou comprar a Mini Me da Dolce Gusto: combos com máquina, combo Mini Me 2.0 com 20 caixas por R$ 797,00 e a máquina avulsa por R$ 419,90. Veja a conta e o cupom CECI.",
-    "metaDescription": "Mini Me Dolce Gusto: combos com máquina, combo com 20 caixas (R$ 797,00) e avulsa (R$ 419,90). Veja quando compensa e o cupom CECI.",
+    "metaDescription": "Mini Me Dolce Gusto com o cupom CECI e 10% OFF: os combos com máquina, o combo com 20 caixas e a avulsa, e quando cada um compensa.",
     "publishedAt": "29 Jun 2026",
     "publishedAtISO": "2026-06-29",
     "draft": false,
@@ -36860,7 +36860,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Primeiras impressões reais da NESCAFÉ Dolce Gusto Genio S Touch: unboxing, painel touchscreen, primeira xícara, o que incomodou e como comprar com o cupom CECI.",
-    "metaDescription": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso: unboxing, painel touch, velocidade, o que incomodou e cupom CECI para comprar.",
+    "metaDescription": "Dolce Gusto Genio S Touch com o cupom CECI e 10% OFF: review após o primeiro uso, com unboxing, painel touch, velocidade e o que incomodou.",
     "publishedAt": "23 de julho de 2026",
     "draft": false,
     "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
@@ -39270,7 +39270,7 @@ export const reviewsData: unknown[] = [
     },
     "description": "Como funciona a Assinatura NESCAFÉ Dolce Gusto: Geração 1 e NEO, pedido mínimo, frequência, 25% de desconto, frete grátis, cartão recusado, como pular uma entrega e como cancelar.",
     "seoTitle": "Assinatura Dolce Gusto: Como Funciona e Como Cancelar",
-    "metaDescription": "Assinatura Dolce Gusto: como assinar Geração 1 ou NEO, mínimo de 3 caixas, 25% OFF com frete grátis, cupom CECI e como cancelar sem multa.",
+    "metaDescription": "Assinatura Dolce Gusto com o cupom CECI e 10% OFF, que somou com os 25% no nosso teste: como assinar Geração 1 ou NEO, mínimo de 3 caixas e como cancelar.",
     "publishedAt": "3 de agosto de 2026",
     "publishedAtISO": "2026-08-03",
     "updatedAt": "2026-10-05",
@@ -39697,7 +39697,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Guia dos sabores Starbucks exclusivos para o sistema Dolce Gusto: intensidade, formatos (5+5 e 10 cápsulas), preços atualizados de 30/07/2026 e como comprar com o cupom CECI.",
-    "metaDescription": "Cápsulas Starbucks Dolce Gusto: guia completo dos 5 sabores disponíveis, intensidade, preços de 30/07/2026 e como comprar com cupom CECI na loja oficial.",
+    "metaDescription": "Cápsulas Starbucks Dolce Gusto com o cupom CECI e 10% OFF na loja oficial: os 5 sabores, a intensidade de cada um e como comprar.",
     "publishedAt": "12 de agosto de 2026",
     "draft": true,
     "pros": [],
@@ -51012,7 +51012,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Descubra quais cápsulas servem na sua Dolce Gusto (Original ou NEO), o que faz o Adaptador NEO Start, que marcas vendem compatíveis e como usar o cupom CECI.",
-    "metaDescription": "Que cápsula serve na sua Dolce Gusto, Original ou NEO? Veja o Adaptador NEO Start, marcas compatíveis e preço por cápsula. Inclui o cupom CECI.",
+    "metaDescription": "Cápsulas compatíveis com Dolce Gusto e o cupom CECI, com 10% OFF no site: o que serve na Original e na NEO, o Adaptador NEO Start e o preço por cápsula.",
     "publishedAt": "30 de setembro de 2026",
     "publishedAtISO": "2026-09-30",
     "draft": false,
@@ -51289,7 +51289,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O FiberMais Sem Sabor entra no café, nas bebidas e nas refeições, sempre ao final do preparo e sem ferver. Veja a medida da lata e dos sachês e o cupom CECI na Nestlé Nutre.",
-    "metaDescription": "Veja como usar FiberMais Sem Sabor em café, sucos e refeições, com cuidados de preparo, medidas da lata e dos sachês e cupom CECI de 10% na Nestlé Nutre.",
+    "metaDescription": "FiberMais com o cupom CECI e 10% OFF na Nestlé Nutre: como usar o Sem Sabor em café, sucos e refeições, os cuidados de preparo e as medidas.",
     "publishedAt": "2 de outubro de 2026",
     "publishedAtISO": "2026-10-02",
     "draft": false,
@@ -52642,7 +52642,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Para bolo, vitamina e recheio, o certo é o Leite Ninho Integral, que é leite em pó de verdade. Veja como diferenciar os tipos da linha pelo rótulo e qual usar em cada caso.",
-    "metaDescription": "Leite Ninho, composto lácteo ou fórmula? Veja os tipos de Ninho, qual usar no bolo e no recheio e os preços na Nestlé Nutre com 10% OFF no cupom CECI.",
+    "metaDescription": "Leite Ninho com o cupom CECI e 10% OFF na Nestlé Nutre: leite, composto lácteo ou fórmula, os tipos de Ninho e qual usar no bolo e no recheio.",
     "publishedAt": "4 de outubro de 2026",
     "publishedAtISO": "2026-10-04",
     "draft": false,
@@ -52923,7 +52923,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Assinatura Dolce Gusto vale a pena? A conta com 25% de desconto e frete grátis, quando a promoção avulsa sai mais barata e o que o cupom CECI e a máquina grátis entregam.",
-    "metaDescription": "Assinatura Dolce Gusto vale a pena? Veja o preço da caixa com 25% OFF, o gasto por mês, quando a promoção avulsa sai mais barata e o teste do cupom CECI.",
+    "metaDescription": "Assinatura Dolce Gusto com o cupom CECI e 10% OFF: o preço da caixa com 25%, o gasto por mês e quando a promoção avulsa sai mais barata.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "draft": false,
@@ -54756,7 +54756,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Friday da NESCAFÉ Dolce Gusto já começou, com Mini Me 2.0 e Genio S com 30 cápsulas e ofertas novas todo dia. Veja os preços para comparar e como o cupom CECI entra.",
-    "metaDescription": "Black Friday Dolce Gusto 2026 já começou: Mini Me e Genio S com 30 cápsulas, ofertas novas todo dia e assinatura com desconto. Preços e o cupom CECI.",
+    "metaDescription": "Black Friday Dolce Gusto 2026: o cupom CECI dá 10% OFF a partir de R$ 100. Mini Me e Genio S com 30 cápsulas, ofertas do dia e assinatura com desconto.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
     "updatedAt": "2026-11-03",
@@ -56697,7 +56697,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Month da Nestlé Nutre já começou, com até 25% OFF e mais 10% com o cupom CECI. O Nutren Senior segue sem desconto; veja os preços para comparar e o prazo do Natal.",
-    "metaDescription": "Black Friday Nutren 2026: a Nestlé Nutre abriu o Black Month com até 25% OFF e mais 10% com cupom, o CECI; Nutren Senior ainda sem desconto. Preços e Natal.",
+    "metaDescription": "Black Friday Nutren 2026: o cupom CECI dá 10% OFF e soma com até 25% do Black Month da Nestlé Nutre. O Nutren Senior, ainda sem desconto, e o Natal.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
     "updatedAt": "2026-11-03",
@@ -61753,7 +61753,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Nutren Senior, Ensure ou Sustagen Senior: não há um melhor, pois cada rótulo usa uma base diferente. Veja proteína, cálcio e lactose lado a lado e onde entra o cupom CECI.",
-    "metaDescription": "Nutren Senior, Ensure ou Sustagen Senior? Proteína, cálcio, vitamina D e lactose lado a lado, o que os rótulos não permitem comparar e o cupom CECI.",
+    "metaDescription": "Nutren Senior, Ensure ou Sustagen Senior, com o cupom CECI e 10% OFF no Nutren: proteína, cálcio, vitamina D e lactose lado a lado pelo rótulo.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -64014,7 +64014,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Não existe um melhor pelo rótulo: Nutren Protein, Just Protein, Senior e YoPRO diferem em cafeína, lactose e preço por porção. Veja a comparação lado a lado e o cupom CECI.",
-    "metaDescription": "Nutren Protein ou whey? Proteína, calorias, açúcares e lactose do pó, da garrafa, do Just Protein, do Senior e da YoPRO pelo rótulo, e o cupom CECI.",
+    "metaDescription": "Nutren Protein ou whey, com o cupom CECI e 10% OFF: proteína, calorias, açúcares e lactose do pó, da garrafa, do Just Protein, do Senior e da YoPRO.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
     "draft": false,
@@ -76913,7 +76913,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom CECILIA10 dá 10% de desconto em todo o site da Black Skull e soma com as promoções. Veja o passo a passo na sacola e como o frete muda o total.",
-    "metaDescription": "Cupom Black Skull CECILIA10: 10% em todo o site, testado na sacola em 13/10/2026. Veja como aplicar, o desconto nos itens em promoção e o frete grátis.",
+    "metaDescription": "O CECILIA10 dá 10% em todo o site da Black Skull, testado na sacola. Veja como aplicar, o desconto nos itens em promoção e o frete grátis.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -80286,7 +80286,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black November da Black Skull já está no ar, com desconto progressivo de até 40% e frete grátis. Veja os preços de outubro de whey e creatina e como o CECILIA10 entra.",
-    "metaDescription": "Black Friday Black Skull 2026: a Black November já começou, com desconto progressivo de até 40% e frete grátis. Cupom CECILIA10 de 10% em todo o site.",
+    "metaDescription": "Black Friday Black Skull 2026: o cupom CECILIA10 dá 10% em todo o site. Desconto progressivo de até 40% e frete grátis, com a campanha já no ar.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-03",
@@ -82566,7 +82566,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Black Skull é a mais barata na creatina e no whey por grama de proteína; a Max Titanium tem mais whey 3W com sabor e creatina Creapure. Veja quem escolhe o quê.",
-    "metaDescription": "Black Skull ou Max Titanium: whey e creatina pelo rótulo e pelo preço por dose, com o cupom CECILIA10 de 10% OFF na Black Skull.",
+    "metaDescription": "Black Skull ou Max Titanium, com o cupom CECILIA10 e 10% OFF na Black Skull: whey e creatina pelo rótulo e pelo preço por dose.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
     "draft": false,
@@ -85838,7 +85838,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que o rótulo do Isosource 1.5 Sem Sabor de 1 L declara: a tabela por 100 ml, os ingredientes, a conservação, quanto rende o litro e o preço na Nestlé Nutre em 17/10/2026.",
-    "metaDescription": "Isosource 1.5 Sem Sabor 1 L: o que o rótulo declara, a tabela por 100 ml, 1.510 kcal por litro e o preço na Nestlé Nutre com o cupom CECI.",
+    "metaDescription": "Isosource 1.5 Sem Sabor com o cupom CECI e 10% OFF na Nestlé Nutre: o que o rótulo declara, a tabela por 100 ml e quanto rende o litro.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -86154,7 +86154,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que o rótulo do Nutren A-Z Multi declara: 13 vitaminas e 7 minerais por cápsula com o %VD, as três alegações, como tomar, se tem glúten e o preço na Nestlé Nutre.",
-    "metaDescription": "Nutren A-Z Multi 60 cápsulas: composição por cápsula e %VD, como tomar, se tem glúten, a diferença para Mulher e Senior e o preço com o CECI.",
+    "metaDescription": "Nutren A-Z Multi 60 cápsulas com o cupom CECI e 10% OFF: composição por cápsula e %VD, como tomar, glúten e a diferença para Mulher e Senior.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -88264,7 +88264,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Nutren Senior Baunilha 740 g e Nutridrink Protein Senior 750 g lado a lado: a tabela por porção e por 100 g de pó, a lactose e o preço por porção em 17/10/2026.",
-    "metaDescription": "Nutren Senior ou Nutridrink Protein Senior? Porção, proteína, cálcio, vitamina D, lactose e preço por porção, e o cupom CECI no Nutren.",
+    "metaDescription": "Nutren Senior ou Nutridrink Protein Senior, com o cupom CECI e 10% OFF no Nutren: porção, proteína, cálcio, vitamina D, lactose e preço por porção.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
     "draft": false,
@@ -90729,7 +90729,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Black Skull ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, com e sem o cupom CECILIA10.",
-    "metaDescription": "Black Skull ou Growth: whey e creatina comparados por 100 g de proteína e de creatina, ingredientes, cupom CECILIA10 e frete das duas lojas.",
+    "metaDescription": "Black Skull ou Growth, com o cupom CECILIA10 e 10% OFF na Black Skull: whey e creatina por 100 g de proteína e de creatina, ingredientes e frete.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
     "draft": false,
@@ -103531,7 +103531,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Black Skull ou Dux? Whey e creatina das duas lojas comparados pelo preço por 100 g de proteína e de creatina, com a Black Skull no cupom CECILIA10 e a Dux no Pix.",
-    "metaDescription": "Black Skull ou Dux: whey e creatina comparados por 100 g de proteína e de creatina, Creapure, ingredientes, cupom CECILIA10, Pix e frete.",
+    "metaDescription": "Black Skull ou Dux, com o cupom CECILIA10 e 10% OFF na Black Skull: whey e creatina por 100 g de proteína e de creatina, Creapure, Pix e frete.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "draft": false,
@@ -123456,7 +123456,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Se você quer o menor preço por grama, o Creator refil de 500 g é a escolha na Black Skull. Veja as creatinas lado a lado e qual pote compensa pelo preço por dose.",
-    "metaDescription": "Qual creatina da Black Skull comprar: Creator, Creatine ou Turbo, com o preço por 100 g de creatina, por dose e com o cupom CECILIA10, nos preços de 23/10/2026.",
+    "metaDescription": "Creatina Black Skull com o CECILIA10 e 10% OFF: Creator, Creatine ou Turbo, com o preço por 100 g de creatina e por dose, e qual pote compensa.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -124450,7 +124450,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "BOPE, Bone Crusher e Legacy da Black Skull lado a lado: cafeína, beta-alanina, arginina e preço por dose com e sem o cupom CECILIA10, pelo site oficial em 23/10/2026.",
-    "metaDescription": "Pré-treino Black Skull: BOPE ou Bone Crusher? Compare cafeína, beta-alanina e preço por dose pelo rótulo, com o cupom CECILIA10 e os preços de 23/10/2026.",
+    "metaDescription": "Pré-treino Black Skull com o CECILIA10 e 10% OFF: BOPE ou Bone Crusher, com cafeína, beta-alanina e preço por dose comparados pelo rótulo.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -131387,7 +131387,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: o Masstodon custa menos por 100 g de proteína, e o Monstrous tem mais proteína. Veja as contas lado a lado e o efeito do CECILIA10.",
-    "metaDescription": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: as duas tabelas lado a lado, o preço por 100 g de proteína e por 1.000 kcal em 27/10/2026 e o cupom CECILIA10.",
+    "metaDescription": "Hipercalórico Black Skull com o CECILIA10 e 10% OFF: Masstodon Refil 3 kg ou Monstrous 2,7 kg pelo rótulo, por 100 g de proteína e por 1.000 kcal.",
     "image": "/images/reviews/black-skull/hipercalorico-black-skull-capa.webp",
     "imageAlt": "Embalagens do Masstodon Refil 3 kg e do Monstrous 2,7 kg da Black Skull, com o título Masstodon ou Monstrous",
     "imageFit": "contain",
@@ -131768,7 +131768,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Black Skull no Mercado Livre ou no site: 15 produtos comparados em 27/10/2026, com o cupom CECILIA10 do site e o preço da loja oficial no Mercado Livre, peça a peça.",
-    "metaDescription": "Black Skull no Mercado Livre ou no site: com o cupom CECILIA10, o site ganha em 13 de 15 produtos; o Mercado Livre só nos dois wheys de 900 g. Preços de 27/10/2026.",
+    "metaDescription": "Com o cupom CECILIA10 e 10% OFF, o site da Black Skull ganha do Mercado Livre em 13 de 15 produtos; o Mercado Livre, só nos dois wheys de 900 g.",
     "image": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-capa.webp",
     "imageAlt": "Pote do Whey 100% HD 900 g da Black Skull, com o título Mercado Livre ou site",
     "imageFit": "contain",
@@ -176817,7 +176817,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que o rótulo da Black Skull entrega no whey 80% HD, no 100% HD, na creatina e no pré-treino, quanto custa com o cupom CECILIA10, onde comprar e para quem a marca compensa.",
-    "metaDescription": "Black Skull é boa? O whey 80% HD tem mais proteína por dose que o 100% HD. Veja whey, creatina e pré-treino pelo rótulo, o preço com o cupom CECILIA10 e onde comprar.",
+    "metaDescription": "Com o CECILIA10, 10% OFF na Black Skull: whey, creatina e pré-treino pelo rótulo. O whey 80% HD tem mais proteína por dose que o 100% HD.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
     "updatedAt": "2026-11-02",
