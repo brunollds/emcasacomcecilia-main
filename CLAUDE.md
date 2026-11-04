@@ -450,6 +450,11 @@ vídeo, primeiras impressões e uso noturno.
   `public/images` só entra pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`, e o hook recusa o commit
   sem ele. O `primaryImageOfPage` do JSON-LD é o mesmo endereço do `og:image`, e as páginas da
   YesStyle usam o logo da loja.
+- Código da parceria com prazo, ao lado do de sempre (o CECIEMCASA15 da I Wanna Sleep, até 08/11 e em 26 e 27/11): o
+  `limitedCodes` da loja em `couponsData.ts` (início e fim com -03:00, dia e nota do teste). Só em PT, numa caixa
+  `.recorte` no começo do conteúdo (`LimitedCodeNotice.tsx`), que o `CampaignWindow` mostra só dentro do prazo: o
+  que vence ou começa entre dois deploys some ou aparece no navegador. O código de sempre, o título e os artigos
+  não mudam. O `test:coupon-offer-modes` confere os prazos e avisa do vencido (tirar do array).
 - `src/components/coupons/CouponStorePage.tsx` (lojas de `couponsData.ts`) e
   `src/components/YesStyleCouponPage.tsx` usam a mesma moldura,
   `src/components/coupons/StoreLayout.tsx`, e o `CouponDock` de `CouponActions.tsx`: no celular,

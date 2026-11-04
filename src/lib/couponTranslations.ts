@@ -1428,6 +1428,8 @@ export const CODE_FIELD_POLICY = {
   codeInstructions: 'translate',
   history: 'drop',
   tiers: 'drop',
+  // O aviso do código com prazo só existe em PT.
+  limitedCodes: 'drop',
 } as const satisfies Record<keyof CouponCodeOffer, 'pt' | 'translate' | 'drop'>;
 
 // Os campos que vêm da tradução; cada um precisa existir em CodeOfferTranslation (o Pick de localizeCoupon
