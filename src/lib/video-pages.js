@@ -92,6 +92,22 @@ const videoPageDefinitions = [
     sourceTitle: 'NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real na Cor Terracota',
   },
   {
+    slug: 'risoto-holyfoods-kit-tiktok-shop',
+    kind: 'youtube',
+    aspect: 'vertical',
+    videoId: 'cSGGCKqv4VU',
+    sourcePath: '/reviews/holyfoods-e-confiavel',
+    sourceTitle: 'HolyFoods é confiável? CNPJ, site oficial, entrega e a garantia de 30 dias',
+  },
+  {
+    slug: 'mac-queijo-holyfoods-na-panela',
+    kind: 'youtube',
+    aspect: 'vertical',
+    videoId: 'EFJy5dJudpw',
+    sourcePath: '/reviews/cupom-holyfoods-como-usar',
+    sourceTitle: 'Como usar o cupom EMCASA na HolyFoods e onde ele vale',
+  },
+  {
     slug: 'como-usar-cupom-ceciemcasa-i-wanna-sleep',
     kind: 'local',
     aspect: 'square',
