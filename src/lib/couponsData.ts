@@ -2598,6 +2598,12 @@ const STORE_COUPONS: Coupon[] = [
         answer: 'Sim. O EMCASA vale na primeira compra e também para quem já comprou na HolyFoods.',
       },
       {
+        question: 'O cupom EMCASA vale no Mercado Livre?',
+        answer:
+          'Não. O EMCASA é usado no checkout do site oficial da HolyFoods e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/2mjWEVp',
+      },
+      {
         question: 'A HolyFoods tem frete grátis?',
         answer:
           'Sim, a partir de um valor mínimo que muda conforme o estado. O carrinho mostra quanto falta para o frete grátis na sua região, e o prazo de entrega aparece no checkout.',

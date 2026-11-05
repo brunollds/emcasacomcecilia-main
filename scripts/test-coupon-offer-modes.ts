@@ -119,6 +119,7 @@ const mercadoLivreLinks: Record<string, string> = {
   'mais-mu': 'https://meli.la/24RjvdP',
   skelt: 'https://meli.la/2unTb7k',
   bagaggio: 'https://meli.la/2KeydkG',
+  holyfoods: 'https://meli.la/2mjWEVp',
 };
 for (const coupon of COUPONS) {
   const linked = coupon.faqs.filter((faq) => faq.mercadoLivreUrl);
