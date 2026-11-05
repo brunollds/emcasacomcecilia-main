@@ -191,6 +191,24 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-04"
   },
   {
+    "id": "holyfoods-black-2026",
+    "affiliate": "holyfoods",
+    "slot": "top",
+    "href": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black da Holy: 30% OFF no site todo",
+        "text": "Campanha da própria HolyFoods. O desconto já vem aplicado nos preços; as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Home de holyfoods.com.br (\"Black da Holy: 30% OFF no site todo\", \"30% OFF já aplicado nos preços\", sem prazo), lida no navegador em 05/11/2026; campanha informada pelo Bruno",
+    "verifiedAt": "2026-11-05"
+  },
+  {
     "id": "hostinger-black-friday-2026",
     "affiliate": "hostinger",
     "slot": "top",
