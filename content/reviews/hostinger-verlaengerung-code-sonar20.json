@@ -1,0 +1,262 @@
+{
+  "id": 818,
+  "slug": "hostinger-verlaengerung-code-sonar20",
+  "locale": "de",
+  "translationKey": "hostinger-renovacao-cupom",
+  "title": "Hostinger-Verlängerung: Preis, Code SONAR20 und Erstattung vor dem Zahlen",
+  "seoTitle": "Hostinger-Verlängerung: Preis, SONAR20, Erstattung",
+  "type": "Entscheidungsratgeber",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Redaktion und Analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Die Verlängerung bei Hostinger kostet mehr als der erste Zeitraum. Preis je Tarif, Abbuchungstermin, automatische Verlängerung ausschalten und die Frist für die Erstattung.",
+  "metaDescription": "Der Code SONAR20 gibt 20 % Rabatt auf einen neuen Hostinger-Tarif; die Verlängerung läuft zum Tabellenpreis. Preise je Tarif und Erstattung im Überblick.",
+  "publishedAt": "5. November 2026",
+  "publishedAtISO": "2026-11-05",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp",
+  "imageAlt": "Hostinger-Logo mit den Symbolen für Verlängerungskalender und Beleg",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Lesen Sie weiter, wenn Sie schon Hosting oder einen VPS bei Hostinger haben und die Verlängerung vor der Abbuchung entscheiden wollen.",
+      "Lesen Sie weiter, wenn mehrere Dienste in Ihrem Konto laufen und Sie wissen möchten, was sich verlängert, was Sie ausschalten können und was wie die Domain außen vor bleibt."
+    ],
+    "skipIf": [
+      "Überspringen Sie den Ratgeber, wenn Sie nur Ihren ersten Tarif abschließen wollen: Der Gutschein-Ratgeber beantwortet das besser.",
+      "Überspringen Sie ihn, wenn Sie nur eine Domain verlängern müssen: Der Domain-Ratgeber beantwortet das besser."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Geben Sie beim Kauf eines neuen Tarifs den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % Rabatt auf den Kauf.",
+    "label": "Hostinger-Tarife mit SONAR20 ansehen",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Wir erhalten möglicherweise eine Provision über den Code und die Links.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-gutschein-empfehlungscode"
+    },
+    {
+      "slug": "ist-hostinger-serioes"
+    },
+    {
+      "slug": "hostinger-domain-kaufen-oder-umziehen"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Kurze Antwort",
+      "paragraphs": [
+        "Die Verlängerung kostet mehr als der erste Zeitraum, und die automatische Verlängerung ist von Anfang an eingeschaltet. SONAR20 gibt 20 % auf einen neuen Tarif, die Verlängerung läuft aber zum Tabellenpreis. Unten sehen Sie, was die Verlängerung jedes Tarifs kostet, wann abgebucht wird, wie Sie sie ausschalten und bis wann Sie eine Erstattung beantragen können."
+      ]
+    },
+    {
+      "heading": "Was die Verlängerung jedes Tarifs kostet",
+      "paragraphs": [
+        "Der Einstiegspreis gilt nur für den ersten Zeitraum; danach zählt die Rechnung der Verlängerung. Der niedrige Preis im Schaufenster deckt die gebuchte Laufzeit ab, 48 Monate beim Hosting und 24 beim VPS. Danach verlängert Hostinger um dieselbe Laufzeit zu dem Preis aus der letzten Spalte."
+      ],
+      "postParagraphs": [
+        "Unsere Rechnung: Wer den Premium-Tarif um weitere 48 Monate verlängert, zahlt nach den Tabellenpreisen 527,52 US$, mehr als das Fünffache der 95,52 US$ aus dem ersten Zeitraum.",
+        "Wenn Sie zwischen zwei Tarifen schwanken, vergleichen Sie die Spalte der Verlängerung, nicht die des Einstiegs: Dort liegt Ihr Budget nach dem ersten Zeitraum."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-de.webp",
+        "alt": "Balkendiagramm mit dem Monatspreis der Hostinger-Tarife im ersten Zeitraum und in der Verlängerung: Premium, Unlimited und Cloud Startup beim Hosting sowie KVM 1, 2, 4 und 8 beim VPS; bei allen ist die Verlängerung teurer",
+        "caption": "Jeder Tarif in zwei Balken: der Monatspreis im ersten Zeitraum und in der Verlängerung. Grafik von Em Casa com Cecília, nach den Preisen auf der Hostinger-Seite.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      },
+      "comparisonTable": {
+        "caption": "Hostinger-Preise vom 4. November, in US-Dollar, ohne Gutschein.",
+        "headers": [
+          "Tarif",
+          "Erster Zeitraum (pro Monat)",
+          "Laufzeit",
+          "Gesamt im ersten Zeitraum",
+          "Verlängerung (pro Monat)"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "1,99 US$",
+            "48 Monate",
+            "95,52 US$",
+            "10,99 US$"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "2,79 US$",
+            "48 Monate",
+            "133,92 US$",
+            "16,99 US$"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "7,99 US$",
+            "48 Monate",
+            "383,52 US$",
+            "25,99 US$"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "6,49 US$",
+            "24 Monate",
+            "155,76 US$",
+            "11,99 US$"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "8,79 US$",
+            "24 Monate",
+            "210,96 US$",
+            "14,99 US$"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "12,99 US$",
+            "24 Monate",
+            "311,76 US$",
+            "28,99 US$"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "25,99 US$",
+            "24 Monate",
+            "623,76 US$",
+            "49,99 US$"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "SONAR20 und die Verlängerung",
+      "paragraphs": [
+        "SONAR20 gibt 20 % auf einen Neukauf; die Verlängerung läuft zum Preis aus der letzten Tabellenspalte. Laut den Bedingungen des Empfehlungsprogramms von Hostinger gilt der Rabatt von 20 % nur für Neukäufe, und die Domain ist in jedem Fall vom Code ausgenommen.",
+        "Wer verlängert, rechnet deshalb mit der Spalte der Verlängerung, ohne Rabatt. Der Code kommt beim Kauf eines neuen Tarifs ins Spiel: Wo Sie ihn einfügen, steht Schritt für Schritt im Beitrag [So nutzen Sie den Hostinger-Gutschein](/de/reviews/hostinger-gutschein-empfehlungscode), und die Regeln zu **SONAR20** finden Sie auf der Seite zum [Hostinger-Gutschein](/de/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Wann Hostinger die Verlängerung abbucht",
+      "paragraphs": [
+        "Bei eingeschalteter automatischer Verlängerung kommt die Abbuchung vor dem Ablauf, und wie früh, hängt vom Tarif ab. Laut Hilfe-Center von Hostinger wird die hinterlegte Zahlungsart belastet:"
+      ],
+      "bullets": [
+        "14 Tage vor Ablauf bei Hosting-Tarifen mit Jahreslaufzeit oder länger;",
+        "am Ablauftag bei Monatstarifen;",
+        "27 Tage vor Ablauf bei der Domain."
+      ],
+      "postParagraphs": [
+        "Der Termin kann leicht abweichen. Bleibt bis zur Verlängerung höchstens ein Tag, läuft sie in diesem Zyklus nicht von selbst: Dann müssen Sie von Hand verlängern. Sorgen Sie rund um diese Termine für Guthaben auf der Zahlungsart.",
+        "Um jederzeit von Hand zu verlängern, öffnen Sie Abrechnung, dann Abonnements, und klicken neben dem Dienst auf Verlängern. Der Verlängerungspreis ohne Steuern steht dort in der Spalte des Verlängerungspreises. Läuft der Tarif bald aus, zeigt seine Karte im Bereich der Websites im Dashboard das Datum und die Schaltfläche zum Verlängern."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-cobranca-de.webp",
+        "alt": "Zeitstrahl der automatischen Verlängerung bei Hostinger: Jahreshosting wird 14 Tage vor Ablauf abgebucht, Monatshosting am Ablauftag und die Domain 27 Tage vorher; die 30 Tage für den Erstattungsantrag zählen ab der Abbuchung, und die Domain-Verlängerung wird nicht erstattet",
+        "caption": "Wann abgebucht wird und bis wann Sie eine Erstattung beantragen können. Grafik von Em Casa com Cecília, nach Hilfe-Center und Erstattungsrichtlinie von Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9677
+      }
+    },
+    {
+      "heading": "So schalten Sie die automatische Verlängerung aus",
+      "paragraphs": [
+        "Die automatische Verlängerung schalten Sie Dienst für Dienst aus, und der Tarif läuft bis zum Ablauf weiter. So geht es:"
+      ],
+      "bullets": [
+        "Öffnen Sie im Hostinger-Dashboard Ihr Profil und gehen Sie zu Abrechnung.",
+        "Öffnen Sie Abonnements.",
+        "Suchen Sie den Dienst und schalten Sie den Schalter daneben aus.",
+        "Lesen Sie die Hinweisseite, die Hostinger für das Produkt öffnet, und bestätigen Sie. Zum Wiedereinschalten klicken Sie einfach erneut auf den Schalter."
+      ],
+      "postParagraphs": [
+        "Das Ausschalten ändert den Status des Dienstes nicht: Er bleibt bis zum Ablauf aktiv und wird nicht erneut belastet. Was schon abgebucht wurde, kommt auf diesem Weg nicht zurück; für die Erstattung gelten eigene Regeln, im nächsten Kapitel. Bei einem Monatstarif mit offener Rechnung wird die Rechnung storniert, und das Abonnement endet am Ende des Zyklus. Bei teilweise bezahlter Rechnung, angewendeten Guthaben oder einer Laufzeit von einem Jahr oder mehr kann der Weg über den Support nötig sein, über den KI-Assistenten von Hostinger.",
+        "Zwei Details wiegen bei der Entscheidung schwer. Um die Laufzeit des Tarifs bei der Verlängerung zu ändern, muss die automatische Verlängerung eingeschaltet sein. Und läuft der Tarif ab, warnt der Hinweis auf seiner Karte, dass die Websites offline gehen. Schalten Sie den Schalter im Zweifel erst aus, wenn Sie sich gegen die Verlängerung entschieden haben."
+      ]
+    },
+    {
+      "heading": "Erstattung nach der Verlängerung",
+      "paragraphs": [
+        "Die Verlängerung eröffnet eine neue Frist von 30 Tagen für den Erstattungsantrag, mit Ausnahmen. Der Shop gibt an: Produkte können nur erstattet werden, wenn sie innerhalb von 30 Tagen ab dem Transaktionsdatum gekündigt werden, und der Tag, an dem Hostinger eine Verlängerung verarbeitet, gilt als Transaktionsdatum."
+      ],
+      "bullets": [
+        "Reguläre Erstattung: Hosting in allen Tarifen, außer der ersten Zahlung nach einem kostenlosen Test; und VPS KVM, außer Upgrades.",
+        "Keine Erstattung: Domain-Verlängerung, abgeschlossener Domain-Transfer, Domain-Datenschutz, VPS-Lizenz, Upgrade eines VPS KVM, KI-Guthaben und kostenpflichtiger Support.",
+        "Beim VPS gilt eine Regel mehr: Die Erstattung gibt es nur, wenn sie innerhalb von 30 Tagen beantragt wird und die letzte Erstattung für einen anderen VPS-Tarif mehr als 180 Tage zurückliegt. Wer in den letzten 180 Tagen für einen anderen VPS eine Erstattung beantragt hat, bekommt für diesen keine."
+      ],
+      "postParagraphs": [
+        "Die Uhr läuft ab der Abbuchung, nicht ab dem Ablauf. Beim Jahrestarif, der 14 Tage vor Ablauf abgebucht wird, enden die 30 Tage etwa zwei Wochen nach dem Ablaufdatum. Notieren Sie den Tag der Abbuchung: Nach den 30 Tagen gilt der Antrag nicht mehr."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-reembolso-de.webp",
+        "alt": "Übersicht zur Erstattung nach der Verlängerung bei Hostinger: Hosting und VPS KVM haben 30 Tage ab der Abbuchung, mit Ausnahmen; die Domain-Verlängerung wird nicht erstattet",
+        "caption": "Was nach der Verlängerung erstattet wird, je Dienst. Grafik von Em Casa com Cecília, nach der Erstattungsrichtlinie von Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 1.0909
+      }
+    },
+    {
+      "heading": "Die Domain bleibt außen vor",
+      "paragraphs": [
+        "Die Domain wird bei der Verlängerung nicht erstattet und bekommt auch SONAR20 nicht, deshalb braucht sie eine eigene Entscheidung. Ihre Verlängerung hat einen eigenen Schalter, im Domainbereich des Dashboards, und wird 27 Tage vor Ablauf abgebucht. Nur die Neuregistrierung hat eine kurze Erstattungsfrist von 96 Stunden; die Verlängerung hat keine.",
+        "Entscheiden Sie die Domain vor dieser Abbuchung: Schauen Sie auf den Preis, prüfen Sie, ob sie bei diesem Registrar bleiben muss, und lassen Sie sie erst dann verlängern. Die Wege Registrieren, Umziehen oder die Domain draußen lassen stehen in [Domain bei Hostinger](/de/reviews/hostinger-domain-kaufen-oder-umziehen)."
+      ]
+    },
+    {
+      "heading": "Vor der Verlängerung: was Sie entscheiden sollten",
+      "paragraphs": [
+        "Vor der Verlängerung entscheiden der Verlängerungspreis und der Abbuchungstermin, nicht der Preis des ersten Kaufs. Em Casa com Cecília läuft seit 2024 bei Hostinger, mit Hosting, einem VPS KVM 2, E-Mail und Domains, alle mit eingeschalteter automatischer Verlängerung: Bei uns ist die Verlängerung eine Haushaltsrechnung, und man kennt den Betrag besser, bevor sie kommt."
+      ],
+      "bullets": [
+        "Prüfen Sie den Verlängerungspreis jedes Dienstes unter Abonnements.",
+        "Entscheiden Sie Dienst für Dienst, ob die automatische Verlängerung eingeschaltet bleibt.",
+        "Notieren Sie den Abbuchungstag: Ab ihm zählt die Erstattungsfrist.",
+        "Sorgen Sie rund um diesen Termin für Guthaben auf der Zahlungsart.",
+        "Behandeln Sie die Domain getrennt, mit eigenem Preis und eigener Entscheidung."
+      ],
+      "postParagraphs": [
+        "Lassen Sie im Zweifel die automatische Verlängerung bei dem eingeschaltet, was Sie nutzen, und schalten Sie sie nur bei dem aus, was Sie schon aufgeben wollten."
+      ],
+      "emphasis": "Über eine Verlängerung entscheidet man in Ruhe, bevor die Abbuchung kommt, und nicht am Ablauftag."
+    },
+    {
+      "heading": "Häufige Fragen",
+      "bullets": [
+        "Gilt der Hostinger-Gutschein bei der Verlängerung? Nein: SONAR20 gibt 20 % auf einen Neukauf, die Verlängerung läuft zum Tabellenpreis. Das Kapitel zu SONAR20 erklärt, wo der Code gilt.",
+        "Wie kündige ich die automatische Verlängerung bei Hostinger? Schalten Sie unter Abrechnung und Abonnements den Schalter des Dienstes aus; er bleibt bis zum Ablauf aktiv. Die Schritte stehen im Kapitel zum Ausschalten.",
+        "Erstattet Hostinger die Verlängerung? Ja, innerhalb von 30 Tagen ab der Abbuchung, beim Hosting und beim VPS KVM; die Domain-Verlängerung wird nicht erstattet. Die Ausnahmen stehen im Kapitel zur Erstattung.",
+        "Wann bucht Hostinger die automatische Verlängerung ab? Beim Jahrestarif 14 Tage vor Ablauf, beim Monatstarif am Ablauftag. Die Domain hat eine eigene Frist, im Kapitel zur Abbuchung.",
+        "Was passiert, wenn der Hostinger-Tarif abläuft? Die Websites gehen offline, wie der Hinweis auf der Karte des Tarifs warnt. Damit es nicht so weit kommt, verlängern Sie vor dem Ablauf oder lassen die automatische Verlängerung eingeschaltet."
+      ]
+    }
+  ]
+}
