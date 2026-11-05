@@ -162,17 +162,27 @@
     {
       "heading": "Qual canal escolher",
       "paragraphs": [
-        "Pelo preço de tabela, o site com o cupom é a compra mais em conta e a única com a troca pelo portal da marca; o Mercado Livre só passa à frente em dia de promoção."
+        "Pelo preço de tabela, o site com o cupom é a compra mais em conta e a única com a troca pelo portal da marca; o Mercado Livre só passa à frente em dia de promoção.",
+        "**Menor preço sem promoção:** site oficial, com o MAUAD. É também o canal em que a política de troca da marca vale sem ressalva.",
+        "**Dia de promoção:** confira a loja oficial do Mercado Livre pelo botão abaixo antes de fechar; com desconto do produto e cupom da loja somados, ela pode ficar abaixo do site.",
+        "**Prefere a Amazon:** compre da loja da Toda Up, enviada pela Amazon, e não do vendedor de fora do mesmo anúncio.",
+        "**Outro marketplace:** compre só da loja oficial da marca; de outro vendedor, a troca e a garantia ficam com ele.",
+        "**Quer ver antes de levar:** a loja parceira mais perto, depois de chamar no WhatsApp.",
+        "**Drogasil e Droga Raia:** só se já estiver lá; há uma variação, sem estoque."
       ],
-      "bullets": [
-        "Menor preço sem promoção: site oficial, com o MAUAD. É também o canal em que a política de troca da marca vale sem ressalva.",
-        "Dia de promoção: confira a loja oficial do Mercado Livre pelo link antes de fechar; com desconto do produto e cupom da loja somados, ela pode ficar abaixo do site.",
-        "Prefere a Amazon: compre da loja da Toda Up, enviada pela Amazon, e não do vendedor de fora do mesmo anúncio.",
-        "Outro marketplace: compre só da loja oficial da marca; de outro vendedor, a troca e a garantia ficam com ele.",
-        "Quer ver antes de levar: a loja parceira mais perto, depois de chamar no WhatsApp.",
-        "Drogasil e Droga Raia: só se já estiver lá; há uma variação, sem estoque."
-      ],
-      "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up do site oficial com o cupom. Vale conferir e comparar o preço no Mercado Livre e na Amazon, mas normalmente é o site que dá o melhor custo-benefício."
+      "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up do site oficial com o cupom. Vale conferir e comparar o preço no Mercado Livre e na Amazon, mas normalmente é o site que dá o melhor custo-benefício.",
+      "links": [
+        {
+          "label": "Ver no Mercado Livre",
+          "href": "https://meli.la/2qNDns1",
+          "sponsored": true
+        },
+        {
+          "label": "Ver na Amazon",
+          "href": "https://link.amazon/B0ddRJoJi",
+          "sponsored": true
+        }
+      ]
     },
     {
       "heading": "Perguntas frequentes",
