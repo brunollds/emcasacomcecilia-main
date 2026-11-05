@@ -10,7 +10,6 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| BG2 | Dolce Gusto no Reclame Aqui | Dolce Gusto | PT | [[dolce-gusto-reclame-aqui-nota-reputacao]] | Redação. Reler o perfil no dia, com as abas 2024 e Geral |
 | BG3 | Promoção Dolce Lovers: o sorteio de 2025 e se há edição em 2026 | Dolce Gusto | PT | [[promocao-dolce-lovers-dolce-gusto]] | Redação. Antes de publicar, ver se surgiu edição de 2026 |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Redação. Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |

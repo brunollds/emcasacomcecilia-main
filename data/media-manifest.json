@@ -54278,6 +54278,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-capa.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90320,
+      "sha256": "428d613bee8edad247cec98b4304d9d6d2e9b02775faff194b9929f0b1e233d6",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-reclame-aqui-capa.webp",
+      "storage_filename": "dolce-gusto-reclame-aqui-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-reclame-aqui-nota-reputacao.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 187768,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/428d613bee8edad247cec98b4304d9d6d2e9b02775faff194b9929f0b1e233d6/dolce-gusto-reclame-aqui-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/428d613bee8edad247cec98b4304d9d6d2e9b02775faff194b9929f0b1e233d6/dolce-gusto-reclame-aqui-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T03:48:42.974Z",
+      "verification_etag_or_digest": "428d613bee8edad247cec98b4304d9d6d2e9b02775faff194b9929f0b1e233d6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-periodos.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-periodos.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71068,
+      "sha256": "4dedbee80b75c9056e90cc288972bbcc05926dc7a687846dcef01a4df0fbadc3",
+      "width": 1200,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-reclame-aqui-periodos.webp",
+      "storage_filename": "dolce-gusto-reclame-aqui-periodos.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-reclame-aqui-nota-reputacao.json",
+          "line": 41,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-periodos.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 187786,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-periodos.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4dedbee80b75c9056e90cc288972bbcc05926dc7a687846dcef01a4df0fbadc3/dolce-gusto-reclame-aqui-periodos.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4dedbee80b75c9056e90cc288972bbcc05926dc7a687846dcef01a4df0fbadc3/dolce-gusto-reclame-aqui-periodos.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T03:48:42.974Z",
+      "verification_etag_or_digest": "4dedbee80b75c9056e90cc288972bbcc05926dc7a687846dcef01a4df0fbadc3",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-problemas.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-problemas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 64548,
+      "sha256": "ab2616bfa7854099bd62d27e726514217086f919644f120ce844d0b7acb899d7",
+      "width": 1200,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-reclame-aqui-problemas.webp",
+      "storage_filename": "dolce-gusto-reclame-aqui-problemas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-reclame-aqui-nota-reputacao.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-reclame-aqui-nota-reputacao.json",
+          "line": 150,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-problemas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 187895,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-problemas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ab2616bfa7854099bd62d27e726514217086f919644f120ce844d0b7acb899d7/dolce-gusto-reclame-aqui-problemas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ab2616bfa7854099bd62d27e726514217086f919644f120ce844d0b7acb899d7/dolce-gusto-reclame-aqui-problemas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T03:48:42.974Z",
+      "verification_etag_or_digest": "ab2616bfa7854099bd62d27e726514217086f919644f120ce844d0b7acb899d7",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-starbucks-e-kopenhagen-oficial.webp",
       "media_kind": "image",
