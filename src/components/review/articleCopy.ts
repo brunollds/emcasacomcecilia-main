@@ -77,6 +77,10 @@ export type ArticleCopy = {
   decisionLabel: string;
   decisionTakeIf: string;
   decisionSkipIf: string;
+  // A faixa do código com prazo da loja no fim dos recortes e na gaveta (o CECIEMCASA15 da I Wanna Sleep), montada no
+  // servidor por articleStore.ts. Hoje só o PT tem código com prazo, e o último dia sai em português (formatBrasiliaDay):
+  // o idioma que ganhar um código com prazo precisa da data escrita nele.
+  limitedCodeLine: (code: string, discount: string, lastDay: string) => string;
 };
 
 const articleCopy: Record<Locale, ArticleCopy> = {
@@ -135,6 +139,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: 'Leve ou passe',
     decisionTakeIf: 'Leve se',
     decisionSkipIf: 'Passe se',
+    limitedCodeLine: (code, discount, lastDay) => `Até ${lastDay}: ${discount} com o ${code}`,
   },
   en: {
     kindLabel: { produto: 'Product review', guia: 'Guide', editorial: 'Editorial' },
@@ -191,6 +196,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: 'Buy it or skip it',
     decisionTakeIf: 'Buy it if',
     decisionSkipIf: 'Skip it if',
+    limitedCodeLine: (code, discount, lastDay) => `Until ${lastDay}: ${discount} with ${code}`,
   },
   es: {
     kindLabel: { produto: 'Reseña de producto', guia: 'Guía', editorial: 'Editorial' },
@@ -247,6 +253,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: 'Comprar o pasar',
     decisionTakeIf: 'Cómpralo si',
     decisionSkipIf: 'Mejor pásalo si',
+    limitedCodeLine: (code, discount, lastDay) => `Hasta el ${lastDay}: ${discount} con ${code}`,
   },
   fr: {
     kindLabel: { produto: 'Test de produit', guia: 'Guide', editorial: 'Éditorial' },
@@ -303,6 +310,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: 'Le prendre ou pas',
     decisionTakeIf: 'À prendre si',
     decisionSkipIf: 'À éviter si',
+    limitedCodeLine: (code, discount, lastDay) => `Jusqu’au ${lastDay}${NBSP}: ${discount} avec ${code}`,
   },
   de: {
     kindLabel: { produto: 'Produkttest', guia: 'Ratgeber', editorial: 'Redaktionell' },
@@ -359,6 +367,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: 'Kaufen oder lassen',
     decisionTakeIf: 'Zugreifen, wenn',
     decisionSkipIf: 'Lieber lassen, wenn',
+    limitedCodeLine: (code, discount, lastDay) => `Bis zum ${lastDay}: ${discount} mit ${code}`,
   },
   it: {
     kindLabel: { produto: 'Recensione di prodotto', guia: 'Guida', editorial: 'Editoriale' },
@@ -415,6 +424,8 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: 'Prenderlo o no',
     decisionTakeIf: 'Prendilo se',
     decisionSkipIf: 'Lascia perdere se',
+    // A data vai no fim, depois de "scadenza": com "fino al", a preposição mudaria com o dia (all'8, all'11).
+    limitedCodeLine: (code, discount, lastDay) => `${discount} con ${code}, scadenza: ${lastDay}`,
   },
   ko: {
     kindLabel: { produto: '제품 리뷰', guia: '가이드', editorial: '에디토리얼' },
@@ -471,6 +482,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: '살까 말까',
     decisionTakeIf: '이런 분께 추천',
     decisionSkipIf: '이런 분은 패스',
+    limitedCodeLine: (code, discount, lastDay) => `${lastDay}까지: ${code} 코드로 ${discount}`,
   },
   ja: {
     kindLabel: { produto: '製品レビュー', guia: 'ガイド', editorial: 'エディトリアル' },
@@ -527,6 +539,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: '買うか見送るか',
     decisionTakeIf: 'こんな人におすすめ',
     decisionSkipIf: 'こんな人は見送り',
+    limitedCodeLine: (code, discount, lastDay) => `${lastDay}まで：${code}で${discount}`,
   },
   'zh-hant': {
     kindLabel: { produto: '產品評測', guia: '指南', editorial: '編輯專題' },
@@ -583,6 +596,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: '買或不買',
     decisionTakeIf: '這些情況適合買',
     decisionSkipIf: '這些情況可以略過',
+    limitedCodeLine: (code, discount, lastDay) => `至${lastDay}：使用 ${code} 享 ${discount}`,
   },
   'zh-hans': {
     kindLabel: { produto: '产品评测', guia: '指南', editorial: '编辑专题' },
@@ -639,6 +653,7 @@ const articleCopy: Record<Locale, ArticleCopy> = {
     decisionLabel: '买或不买',
     decisionTakeIf: '这些情况适合买',
     decisionSkipIf: '这些情况可以跳过',
+    limitedCodeLine: (code, discount, lastDay) => `至${lastDay}：使用 ${code} 享 ${discount}`,
   },
 };
 

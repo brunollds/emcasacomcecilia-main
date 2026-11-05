@@ -424,7 +424,17 @@ export function ReviewNotebookTemplate({
         reviewSlug={review.slug}
         tocItems={tocItems}
         affiliate={review.affiliate}
-        coupon={review.coupon ? { code: review.coupon, brand: store?.brand, kind: codeKind, offer: storeOffer } : undefined}
+        coupon={
+          review.coupon
+            ? {
+                code: review.coupon,
+                brand: store?.brand,
+                kind: codeKind,
+                offer: storeOffer,
+                ...(storeBlock?.limitedCodes && { limitedCodes: storeBlock.limitedCodes }),
+              }
+            : undefined
+        }
         // Com loja ativa, o botão da gaveta é o "Ir para a loja" dos recortes (rótulo junto com o link); sem ela, o cta.
         cta={
           storeBlock?.storeHref

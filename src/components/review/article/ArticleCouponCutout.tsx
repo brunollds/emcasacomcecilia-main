@@ -15,6 +15,7 @@ import { getArticleCopy } from '../articleCopy';
 import { getCouponCopyLabels, type CouponCopyLocale } from '../couponCopyLocale';
 import { ARTICLE_CUTOUT_ID } from '../articleAnchors';
 import { getCodeTitle, getSidebarCopy } from '../sidebarCopy';
+import { ArticleLimitedCodeLines } from './ArticleLimitedCodeLines';
 
 type Variant = 'top' | 'end' | 'sidebar';
 
@@ -142,6 +143,18 @@ export function ArticleCouponCutout({ variant, block, locale, reviewSlug, storeL
           )}
         </div>
       </div>
+
+      {/* No fim do recorte: a faixa monta depois da hidratação sem mexer no código nem nos botões; no topo, a foto abaixo desce. */}
+      {block.limitedCodes && (
+        <ArticleLimitedCodeLines
+          items={block.limitedCodes}
+          locale={locale}
+          brand={slug}
+          reviewSlug={reviewSlug}
+          placement={placement}
+          className="mt-3"
+        />
+      )}
 
       {/* O leitor de tela ouve a mesma frase pelo status do botão de copiar. */}
       {code && (

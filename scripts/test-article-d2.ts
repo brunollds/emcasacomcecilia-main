@@ -2,8 +2,9 @@ import assert from 'node:assert/strict';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
-import { getArticleStoreBlock, shortenRule } from '@/lib/articleStore';
-import { getActiveCoupons, getCouponBySlug } from '@/lib/couponsData';
+import { getArticleStoreBlock, pickArticleLimitedCodes, shortenRule } from '@/lib/articleStore';
+import { getActiveCoupons, getCouponBySlug, type Coupon } from '@/lib/couponsData';
+import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
 import { COUPON_STORE_COPY } from '@/components/coupons/couponStoreCopy';
 import { resolveYesStylePage } from '@/components/coupons/yesstylePage';
 import { LABEL_SAME_AS_PORTUGUESE, OTHER_COUPONS, codeAsCouponRegExp } from './locale-home-guards';
@@ -133,6 +134,91 @@ assert.equal(plain.couponPageHref, undefined);
 assert.deepEqual(plain.rules, []);
 assert.equal(plain.articlesHref, undefined);
 
+// Código com prazo (o CECIEMCASA15 da I Wanna Sleep): a faixa do fim dos recortes e da gaveta. Num cupom montado aqui,
+// com datas fixas: este teste roda dentro do build, e os dados reais perdem os itens que vencem.
+const limitedBase = getActiveCoupons().find((item) => item.offerMode === 'discount-code' && !item.tiers?.length);
+assert.ok(limitedBase?.offerMode === 'discount-code', 'nenhuma loja de código sem faixas para o teste');
+const limitedWindow = (code: string, startsAt: string, endsAt: string) => ({
+  code,
+  discount: '15% OFF',
+  startsAt,
+  endsAt,
+  testedAt: '2026-01-01',
+  testNote: 'deu 15% no carrinho',
+});
+const limitedStore: Coupon = {
+  ...limitedBase,
+  limitedCodes: [
+    limitedWindow('PRAZOUM', '2026-01-05T00:00:00-03:00', '2026-01-08T23:59:59-03:00'),
+    limitedWindow('PRAZODOIS', '2026-01-20T00:00:00-03:00', '2026-01-21T23:59:59-03:00'),
+  ],
+};
+const limitedAt = (
+  iso: string,
+  { store = limitedStore, code = limitedBase.code, locale = 'pt' }: { store?: Coupon; code?: string; locale?: CouponCopyLocale } = {}
+) => pickArticleLimitedCodes(store, code, locale, Date.parse(iso)).map((item) => item.code);
+assert.deepEqual(limitedAt('2026-01-01T12:00:00-03:00'), ['PRAZOUM', 'PRAZODOIS'], 'antes dos prazos: os dois vão ao payload');
+assert.deepEqual(limitedAt('2026-01-06T12:00:00-03:00'), ['PRAZOUM', 'PRAZODOIS'], 'no 1º prazo');
+assert.deepEqual(limitedAt('2026-01-08T23:59:59-03:00'), ['PRAZOUM', 'PRAZODOIS'], 'o último segundo do 1º prazo ainda vale');
+assert.deepEqual(limitedAt('2026-01-12T12:00:00-03:00'), ['PRAZODOIS'], 'entre os prazos: o vencido sai');
+assert.deepEqual(limitedAt('2026-01-22T00:00:00-03:00'), [], 'depois dos prazos: nenhum');
+const midWindow = '2026-01-06T12:00:00-03:00';
+assert.deepEqual(limitedAt(midWindow, { locale: 'en' }), [], 'fora do PT');
+assert.deepEqual(limitedAt(midWindow, { code: 'OUTROCODIGO' }), [], 'artigo com outro código');
+assert.deepEqual(
+  pickArticleLimitedCodes(limitedStore, undefined, 'pt', Date.parse(midWindow)),
+  [],
+  'artigo sem código'
+);
+const withTiers = { ...limitedStore, tiers: [{ code: 'FAIXA10', discount: 'R$ 10 OFF', minPurchase: 'R$ 100' }] } as Coupon;
+assert.deepEqual(limitedAt(midWindow, { store: withTiers }), [], 'loja com faixas');
+const sheinStore = getCouponBySlug('shein')!;
+const linkWithWindows = { ...sheinStore, limitedCodes: limitedStore.limitedCodes } as Coupon;
+assert.deepEqual(limitedAt(midWindow, { store: linkWithWindows, code: sheinCode }), [], 'loja de link');
+// A frase da faixa: o último dia no fuso de Brasília e o desconto sem quebra entre o número e o OFF.
+assert.deepEqual(pickArticleLimitedCodes(limitedStore, limitedBase.code, 'pt', Date.parse(midWindow))[0], {
+  code: 'PRAZOUM',
+  startsAt: '2026-01-05T00:00:00-03:00',
+  endsAt: '2026-01-08T23:59:59-03:00',
+  label: 'Até 8 de janeiro: 15%\u00a0OFF com o PRAZOUM',
+});
+// No bloco do artigo, os mesmos do pickArticleLimitedCodes na mesma hora, e sem prazo pendente o campo não existe. As
+// horas vêm dos dados (antes de tudo e o começo de cada prazo), não do relógio.
+const storesWithWindows = getActiveCoupons().flatMap((item) =>
+  item.offerMode === 'discount-code' && item.limitedCodes?.length ? [item.limitedCodes] : []
+);
+const blockTimes = [Date.parse('2020-01-01T00:00:00-03:00'), ...storesWithWindows.flat().map((item) => Date.parse(item.startsAt))];
+for (const now of blockTimes) {
+  for (const review of publishedReviews) {
+    const locale = resolveReviewLocale(review.locale) as CouponCopyLocale;
+    const block = getArticleStoreBlock(review, locale, now);
+    if (!block) continue;
+    const expected = pickArticleLimitedCodes(getCouponBySlug(review.affiliate!)!, review.coupon || undefined, locale, now);
+    if (expected.length === 0) {
+      assert.ok(!('limitedCodes' in block), `${review.slug}: campo limitedCodes sem código com prazo`);
+      continue;
+    }
+    assert.deepEqual(block.limitedCodes, expected, `${review.slug}: códigos com prazo do bloco`);
+  }
+}
+// A regra de quem leva a faixa, dita aqui sem o pickArticleLimitedCodes: no começo de cada prazo, todo artigo em PT da
+// loja de código sem faixas que usa o código de sempre leva aquele prazo no bloco, e nenhum outro artigo o leva. Loja com
+// prazo e sem artigo assim não tem o que conferir.
+for (const store of getActiveCoupons()) {
+  if (store.offerMode !== 'discount-code') continue;
+  for (const limited of store.limitedCodes ?? []) {
+    const at = Date.parse(limited.startsAt);
+    for (const review of publishedReviews) {
+      const locale = resolveReviewLocale(review.locale) as CouponCopyLocale;
+      const expected = !store.tiers?.length && review.affiliate === store.slug && locale === 'pt' && review.coupon === store.code;
+      const got = (getArticleStoreBlock(review, locale, at)?.limitedCodes ?? []).some(
+        (item) => item.code === limited.code && item.endsAt === limited.endsAt
+      );
+      assert.equal(got, expected, `${review.slug} (${locale}): o prazo do ${limited.code} até ${limited.endsAt} ${expected ? 'falta no' : 'sobra no'} bloco`);
+    }
+  }
+}
+
 // Textos novos do artigo: nos 10 idiomas, sem campo vazio e, fora do PT, diferentes dos do PT.
 const DAMIE = { slug: 'damie', brand: 'DAMIE' };
 const newTexts = (loc: (typeof LOCALE_KEYS)[number]) => {
@@ -153,10 +239,12 @@ const newTexts = (loc: (typeof LOCALE_KEYS)[number]) => {
     listenPause: c.listenPause,
     listenResume: c.listenResume,
     listenStop: c.listenStop,
+    limitedCodeLine: c.limitedCodeLine('CODIGO15', '15% OFF', 'DIA'),
   };
 };
 const ptTexts = newTexts('pt');
 assert.equal(ptTexts.copiedHint, 'Copiado. Agora é só colar no checkout da DAMIE.');
+assert.equal(ptTexts.limitedCodeLine, 'Até DIA: 15% OFF com o CODIGO15');
 assert.equal(ptTexts.storeBlockTitle, 'Sua compra na DAMIE');
 assert.equal(ptTexts.allStoreArticles, 'Todos os 12 artigos da DAMIE');
 // A caixa do Bruno: textos exatos em português; o link do Sonar de Ofertas só existe em português.

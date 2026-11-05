@@ -8,9 +8,11 @@ import { CopyCodeButton, dockCodeSize } from '@/components/coupons/CouponActions
 import { BrandWatermark, DiscountFigure, couponFontVariables } from '@/components/coupons/CouponBlocks';
 import { acquireScrollLock, releaseScrollLock } from '@/components/editorial';
 import { FOCUS_RING } from '@/components/ui/focusRing';
+import type { ArticleLimitedCode } from '@/lib/articleStore';
 import type { CouponCodeKind } from '@/lib/couponsData';
 import { isInternalLink } from '@/lib/internalLinks';
 import type { Locale } from '@/lib/i18n/locales';
+import { ArticleLimitedCodeLines } from './article/ArticleLimitedCodeLines';
 import { getCouponCopyLabels } from './couponCopyLocale';
 import { isDockVisible, useDockTargets } from './dockVisibility';
 import { getCodeHints, getCodeTitle, getSidebarCopy } from './sidebarCopy';
@@ -30,6 +32,8 @@ export interface ReviewMobileBottomBarProps {
     kind?: CouponCodeKind;
     // Desconto e regra da loja em /cupons, quando ela usa o mesmo código.
     offer?: { discount: string; note: string; watermark?: string };
+    // O código com prazo da loja (articleStore.ts): a faixa embaixo do código no card da gaveta.
+    limitedCodes?: ArticleLimitedCode[];
   };
   cta?: { url: string; label: string; sponsored?: boolean };
   related: { href: string; title: string }[];
@@ -284,6 +288,18 @@ export function ReviewMobileBottomBar({
                   {couponCopy.copy}
                 </CopyCodeButton>
               </div>
+              {/* Dentro do <dialog>, como o botão de cima: com a gaveta aberta, o fallback de cópia
+                  (clipboardUtils.ts) vai para o dialog do botão, porque o resto da página fica inerte. */}
+              {coupon.limitedCodes && (
+                <ArticleLimitedCodeLines
+                  items={coupon.limitedCodes}
+                  locale={locale}
+                  brand={affiliate}
+                  reviewSlug={reviewSlug}
+                  placement="review_mobile_drawer"
+                  className="relative z-10 bg-white px-2 pb-2"
+                />
+              )}
             </article>
           )}
 
