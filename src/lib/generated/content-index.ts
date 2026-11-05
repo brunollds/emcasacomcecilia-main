@@ -33334,7 +33334,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "image": "/images/reviews/damie/poltronas-reclinaveis-damie-capa-discover.webp",
-    "imageAlt": "Cecília acionando o botão de reclinação da poltrona Damie, ao lado das fotos oficiais da poltrona reclinável de 2 lugares e da 1.0 com giro e balanço",
+    "imageAlt": "Cecília acionando o botão de reclinação da poltrona Damie, ao lado das fotos oficiais da poltrona reclinável de 2 lugares e da 2.0 com giro e balanço",
     "imageFit": "contain",
     "imageAspect": "landscape",
     "youtubeUrl": "https://youtu.be/brlxM4aUXkk?si=jHZDbXvAzKj-BNQx",
@@ -33363,7 +33363,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Modelo testado",
-        "value": "Poltrona reclinável bege em linho"
+        "value": "Poltrona reclinável DAMIE 1.0, linho bege"
       },
       {
         "key": "Tempo de uso",
@@ -33395,14 +33395,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a poltrona reclinável da Damie valeu o investimento para nós: usamos todos os dias há mais de um ano, a reclinação elétrica é silenciosa e o linho bege respira bem no calor. O que pesa é o preço e a tomada por perto. No site da Damie, o cupom CECILIA12 dá 12% OFF e soma com as promoções."
+          "Sim, a poltrona reclinável Damie 1.0 valeu o investimento para nós: usamos todos os dias há mais de um ano, a reclinação elétrica é silenciosa e o linho bege respira bem no calor. O que pesa é o preço e a tomada por perto. No site da Damie, o cupom CECILIA12 dá 12% OFF e soma com as promoções."
         ]
       },
       {
         "heading": "Como Descobrimos as Poltronas da Damie",
         "paragraphs": [
           "Durante a construção da nossa casa nova, meu marido e eu estávamos planejando cada detalhe do nosso lar. Foi quando ele descobriu as poltronas reclináveis da Damie pelo canal do YouTube Meu Mundo Tech, especializado em cinema em casa e tecnologia. Ele ficou encantado na hora.",
-          "Os vídeos destacavam o conforto, a funcionalidade e o design moderno das poltronas. Mesmo com a casa ainda em obras, começamos a planejar onde elas ficariam. Decidimos quantas poltronas teríamos, três para compor nossa sala de TV, e como integraríamos tudo ao projeto.",
+          "Os vídeos destacavam o conforto, a funcionalidade e o design moderno das poltronas. Mesmo com a casa ainda em obras, começamos a planejar onde elas ficariam. Decidimos quantas poltronas teríamos, duas para compor nossa sala de TV, e como integraríamos tudo ao projeto.",
           "A possibilidade de personalizar revestimentos e acessórios nos deixou ainda mais animados. A visão de criar um ambiente de relaxamento e sofisticação com as poltronas da Damie nos motivou desde o início."
         ],
         "image": {
@@ -33416,13 +33416,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Minha Experiência: Entrega, Montagem e Primeiras Impressões",
         "paragraphs": [
-          "Usamos as poltronas reclináveis Damie há mais de um ano. Para nós, a entrega foi rápida, e o produto chegou muito bem embalado e protegido. O prazo muda conforme a região: confira o frete e o prazo pelo CEP no carrinho antes de fechar a compra. Um detalhe curioso: as poltronas ficaram guardadas por quase dois meses na casa ainda em obras e, mesmo assim, estavam perfeitas quando finalmente as abrimos.",
+          "Usamos as duas poltronas reclináveis Damie 1.0 há mais de um ano; a 2.0, com giro e balanço, tem [análise própria](/reviews/poltrona-damie-e-boa). Para nós, a entrega foi rápida, e o produto chegou muito bem embalado e protegido. O prazo muda conforme a região: confira o frete e o prazo pelo CEP no carrinho antes de fechar a compra. Um detalhe curioso: as poltronas ficaram guardadas por quase dois meses na casa ainda em obras e, mesmo assim, estavam perfeitas quando finalmente as abrimos.",
           "No primeiro vídeo que gravamos, mostramos o processo de montagem, que é realmente simples, como a própria Damie promete. Basta encaixar o encosto no assento, conectar os fios do sistema elétrico e pronto. O QR code na embalagem direciona para vídeos explicativos, facilitando ainda mais para quem nunca montou um móvel desse tipo."
         ],
         "image": {
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-conexao-1.webp",
           "alt": "Parte de trás do assento de uma poltrona DAMIE 2.0 mostrando a fiação dos motores",
-          "caption": "Os fios dos motores na parte de trás do assento, que se ligam na montagem. Foto oficial da DAMIE 2.0, não a poltrona que usamos em casa.",
+          "caption": "Os fios dos motores na parte de trás do assento, que se ligam na montagem. Foto oficial da DAMIE 2.0; a nossa é a 1.0.",
           "objectFit": "contain",
           "aspectRatio": 1.7762
         }
@@ -33459,7 +33459,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/damie/poltrona-reclinavel-damie-2-0-reclinada-bege.webp",
           "alt": "Poltrona reclinável DAMIE 2.0 totalmente reclinada, com o apoio de pés aberto, vazia",
-          "caption": "Encosto e apoio de pés abertos, a posição de descanso. Foto oficial da DAMIE 2.0, não a poltrona que usamos em casa.",
+          "caption": "Encosto e apoio de pés abertos, a posição de descanso. Foto oficial da DAMIE 2.0; a nossa é a 1.0.",
           "objectFit": "square",
           "aspectRatio": 1
         },
