@@ -10,7 +10,7 @@ type: "Guia de Compra"
 anexo_tipo: "nenhum"
 status: "publicado"
 responsavel: "Claude"
-proxima_acao: "reler-precos-depois-da-black"
+proxima_acao: "deploy-da-revisao"
 bloqueado_por: ""
 score_autoridade: 70
 score_conversao: 80
@@ -268,3 +268,9 @@ Lido no Chrome do Bruno. Preços do dia, em plena Black Friday dos canais.
 - **Depois do deploy:** status "publicado", a linha sai da Fila, e os preços do site e do ML são relidos quando a Black acabar (a comparação do veredito depende deles).
 
 **Publicado em 05/11/2026:** release f0008e69 (build 01a1ace4), smoke ok (capa e caixa do CDN, links do ML e da Amazon, localizador, sem Shopee), covers:check ok, sitemap e llms.txt com o artigo, IndexNow com 22 URLs.
+
+## 14. Revisão do Bruno (05/11/2026, depois do deploy)
+
+- **Preço real, não o promocional:** os R$ 84,40 do Mercado Livre eram promoção do dia (desconto do produto de 53% e cupom da loja, no detalhe de preço que o Bruno colou; outro anúncio: R$ 199,90 com 40% OFF, cupom da loja, cupom extra e Pix). A tabela passa a usar o preço sem promoção do ML (R$ 179,90), e o texto manda conferir pelo link se há promoção no momento.
+- **Veredito invertido:** pelo preço de tabela, o site com o MAUAD (R$ 105,21) é o mais em conta e o único com a troca pelo portal da marca. O cartão de destaque, a resposta rápida, o quadro "Leve se / Passe se" e o capítulo "Qual canal escolher" mudaram junto.
+- **Fora do artigo:** C&A e Renner (deixavam confuso o texto abaixo da tabela). Saíram também a pergunta "Fita Up vende na Renner?" do FAQ e a C&A do `toda-up-e-confiavel`. O localizador de lojas parceiras fica, sem citar a Renner.
