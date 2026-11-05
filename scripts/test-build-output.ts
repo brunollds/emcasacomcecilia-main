@@ -1575,10 +1575,11 @@ for (const url of articleUrls) {
   // A sidebar segue o idioma do artigo, com os textos de sidebarCopy.ts. A outra <aside> dos artigos
   // é a nota editorial, sem <nav>.
   const locale = LOCALE_KEYS.find((key) => key === pagePath.split('/')[1]) ?? 'pt';
-  // O bloco de loja ativa que o template recebeu: recorte do topo, lateral e bloco do fim. A faixa do código com prazo
-  // depende da hora, e a hora é a do build (o mtime do HTML): o teste roda depois, às vezes já do outro lado do fim de
-  // um prazo.
-  const storeBlock = getArticleStoreBlock(review, locale, fs.statSync(file).mtimeMs);
+  // A hora em que o build gerou a página (o mtime do HTML): a faixa do código com prazo e os banners de campanha são os
+  // dessa hora, não os da hora do teste, que às vezes já está do outro lado do início ou do fim de um prazo.
+  const builtTime = fs.statSync(file).mtime;
+  // O bloco de loja ativa que o template recebeu: recorte do topo, lateral e bloco do fim.
+  const storeBlock = getArticleStoreBlock(review, locale, builtTime.getTime());
   const copy = getSidebarCopy(locale);
   const sidebars = [...body.matchAll(/<aside\b[\s\S]*?<\/aside>/g)].map(([aside]) => aside).filter((aside) => aside.includes('<nav '));
   assert.equal(sidebars.length, 1, `${pagePath}: ${sidebars.length} sidebars em vez de uma`);
@@ -1846,9 +1847,9 @@ for (const url of articleUrls) {
   // O que leva ao nosso artigo da campanha tem link interno, sem sponsored, e não sai no próprio artigo. Campanha que
   // ainda não começou não vem no HTML.
   const bannerStore = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
-  // Da fila de cada lugar, só a campanha no ar na hora do build (o mtime do HTML, não a hora do teste) sai no HTML; as
-  // outras ficam para o navegador mostrar no prazo delas.
-  const bannerNow = fs.statSync(file).mtime;
+  // Da fila de cada lugar, só a campanha no ar na hora do build sai no HTML; as outras ficam para o navegador mostrar no
+  // prazo delas.
+  const bannerNow = builtTime;
   const banners = Object.fromEntries(
     Object.entries(bannerStore ? getArticleStoreBanners(bannerStore.slug, review.slug, locale, bannerNow) : {})
       .map(([slot, queue]) => [slot, queue.find((banner) => isStoreBannerLive(banner, bannerNow))])
