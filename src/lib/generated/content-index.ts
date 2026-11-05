@@ -29215,7 +29215,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "damie",
     "relatedArticles": [
       {
-        "slug": "cupom-cecilia12-damie-como-usar",
+        "slug": "cupom-cecilia12-como-usar",
         "title": "Cupom Damie CECILIA12: como usar o desconto da Cecília"
       },
       {
@@ -29223,8 +29223,8 @@ export const reviewsData: unknown[] = [
         "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
       },
       {
-        "slug": "dicas",
-        "title": "Dicas & Ofertas: cupons e promoções do mês"
+        "slug": "valley-inflow-ou-damie",
+        "title": "Valley Modular, Inflow ou DAMIE: qual a diferença e qual escolher"
       }
     ],
     "editorialNote": "Review com link afiliado: comissão sem custo extra para você."
@@ -29597,10 +29597,6 @@ export const reviewsData: unknown[] = [
       {
         "slug": "codigo-cecilia010-yesstyle-como-usar",
         "title": "YesStyle CECILIA010: Código de Recompensa"
-      },
-      {
-        "slug": "yesstyle-reward-code-coupon-cecilia010",
-        "title": "YesStyle Reward Code CECILIA010 (English)"
       }
     ],
     "contentSections": [
@@ -42016,8 +42012,8 @@ export const reviewsData: unknown[] = [
         "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis"
       },
       {
-        "slug": "starbucks-dolce-gusto-capsulas-guia",
-        "title": "Cápsulas Starbucks na Dolce Gusto: guia dos sabores"
+        "slug": "melhores-capsulas-dolce-gusto-2026",
+        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
       }
     ],
     "youtubeUrl": "https://www.youtube.com/shorts/RGM_61Heclo",
@@ -44537,8 +44533,8 @@ export const reviewsData: unknown[] = [
         "title": "Melatonina Líquida IWS: o que saber antes de comprar"
       },
       {
-        "slug": "sleeptest-i-wanna-sleep-como-funciona",
-        "title": "Sleeptest I Wanna Sleep: como funciona"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
+        "title": "Como usar o cupom CECIEMCASA na I Wanna Sleep: 10% de desconto"
       },
       {
         "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao",
@@ -45850,8 +45846,8 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Parceria comercial com a I Wanna Sleep. Guia com dados do catálogo, sem teste próprio.",
     "relatedArticles": [
       {
-        "slug": "i-wanna-sleep-travesseiro-snow-ficha-tecnica",
-        "title": "Travesseiro Snow IWS: Ficha Técnica e Review"
+        "slug": "travesseiro-i-wanna-sleep-ou-emma",
+        "title": "Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir"
       },
       {
         "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
@@ -84921,9 +84917,18 @@ export const reviewsData: unknown[] = [
     "affiliate": "belive",
     "editorialNote": "Feito com fontes públicas. Não avaliamos sabor nem dieta. Podemos receber comissão pelo MAUAD.",
     "relatedArticles": [
-      "belive-reclame-aqui-nota-reputacao",
-      "cupom-belive-como-usar",
-      "black-friday-belive"
+      {
+        "slug": "belive-reclame-aqui-nota-reputacao",
+        "title": "Belive no Reclame Aqui: nota e reputação"
+      },
+      {
+        "slug": "cupom-belive-como-usar",
+        "title": "Como usar o cupom da Belive e o que ele soma"
+      },
+      {
+        "slug": "black-friday-belive",
+        "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+      }
     ],
     "contentSections": [
       {
@@ -85127,9 +85132,18 @@ export const reviewsData: unknown[] = [
     "affiliate": "belive",
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MAUAD.",
     "relatedArticles": [
-      "belive-e-confiavel",
-      "cupom-belive-como-usar",
-      "black-friday-belive"
+      {
+        "slug": "belive-e-confiavel",
+        "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+      },
+      {
+        "slug": "cupom-belive-como-usar",
+        "title": "Como usar o cupom da Belive e o que ele soma"
+      },
+      {
+        "slug": "black-friday-belive",
+        "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+      }
     ],
     "contentSections": [
       {
@@ -85349,9 +85363,18 @@ export const reviewsData: unknown[] = [
     "affiliate": "belive",
     "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo MAUAD.",
     "relatedArticles": [
-      "belive-e-confiavel",
-      "belive-reclame-aqui-nota-reputacao",
-      "black-friday-belive"
+      {
+        "slug": "belive-e-confiavel",
+        "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+      },
+      {
+        "slug": "belive-reclame-aqui-nota-reputacao",
+        "title": "Belive no Reclame Aqui: nota e reputação"
+      },
+      {
+        "slug": "black-friday-belive",
+        "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+      }
     ],
     "contentSections": [
       {
@@ -85619,9 +85642,18 @@ export const reviewsData: unknown[] = [
     "affiliate": "belive",
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MAUAD.",
     "relatedArticles": [
-      "belive-e-confiavel",
-      "belive-reclame-aqui-nota-reputacao",
-      "cupom-belive-como-usar"
+      {
+        "slug": "belive-e-confiavel",
+        "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+      },
+      {
+        "slug": "belive-reclame-aqui-nota-reputacao",
+        "title": "Belive no Reclame Aqui: nota e reputação"
+      },
+      {
+        "slug": "cupom-belive-como-usar",
+        "title": "Como usar o cupom da Belive e o que ele soma"
+      }
     ],
     "contentSections": [
       {
@@ -181173,10 +181205,6 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela I Wanna Sleep. Os dados são do site da marca; o cobertor Igloo foi recebido em parceria, e o relato está no artigo dele.",
     "relatedArticles": [
       {
-        "slug": "i-wanna-sleep-travesseiro-snow-ficha-tecnica",
-        "title": "Travesseiro IWS Snow: ficha técnica, preço e como comprar"
-      },
-      {
         "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
         "title": "Qual Cobertor Escolher? As opções da I Wanna Sleep"
       },
@@ -181207,10 +181235,6 @@ export const reviewsData: unknown[] = [
       {
         "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao",
         "title": "I Wanna Sleep no Reclame Aqui: nota, reclamações e o que os dados mostram"
-      },
-      {
-        "slug": "sleeptest-i-wanna-sleep-como-funciona",
-        "title": "Sleeptest da I Wanna Sleep: como funciona na prática (100 noites, 30 dias e as regras que ninguém lê)"
       },
       {
         "slug": "black-friday-i-wanna-sleep",

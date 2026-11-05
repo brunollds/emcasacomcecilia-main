@@ -46,9 +46,18 @@
   "affiliate": "belive",
   "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MAUAD.",
   "relatedArticles": [
-    "belive-e-confiavel",
-    "cupom-belive-como-usar",
-    "black-friday-belive"
+    {
+      "slug": "belive-e-confiavel",
+      "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+    },
+    {
+      "slug": "cupom-belive-como-usar",
+      "title": "Como usar o cupom da Belive e o que ele soma"
+    },
+    {
+      "slug": "black-friday-belive",
+      "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+    }
   ],
   "contentSections": [
     {
