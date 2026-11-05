@@ -10,7 +10,7 @@ type: "Guia de Compra"
 anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "redacao"
+proxima_acao: "deploy"
 bloqueado_por: ""
 score_autoridade: 70
 score_conversao: 80
@@ -255,3 +255,14 @@ Lido no Chrome do Bruno. Preços do dia, em plena Black Friday dos canais.
 3. Sim: C&A, Drogasil e Droga Raia entram como canal, sem afiliado.
 4. A Shopee fica de fora.
 5. Sim: o localizador entra no artigo e responde "loja física", "perto de mim", "rj" e "bh".
+
+---
+
+## 13. Redação, revisão e mídia (05/11/2026)
+
+- **Job 2:** rascunho com a seção 12. A Shopee ficou fora, e o MAUAD com a Black do site entra só como "Conta nossa" (R$ 105,21, ainda R$ 20,81 acima do Mercado Livre).
+- **Job 3 (Fable):** aprovado com 3 ajustes de uma frase, todos aplicados. Oito das dez lacunas apontadas entraram: tamanho e cor por canal, larguras (P até o sutiã 44, M até 48, G até 54, rolos de 5 m, conferido na página de larguras em 05/11), os dois anúncios da loja oficial no ML, frete (grátis acima de R$ 199 no site), o kit Leve 2 com o MAUAD, a Drogasil sem estoque, o fitaup.com e Florianópolis (33 pontos).
+- **Links:** o da Amazon (link.amazon/B0ddRJoJi) leva ao B0CWS8T5DZ com a tag ceciliamauadc-20.
+- **Job 6:** capa A aprovada pelo Bruno (rolos e duas modelos, fotos oficiais da Toda Up). A foto da caixa (opção B) entrou no capítulo "Fita Up original". As duas estão no CDN e foram verificadas.
+- **Artigos no ar corrigidos no mesmo PR:** `toda-up-e-confiavel` (seção "Onde comprar a Fita Up hoje"), `toda-up-e-boa` (dizia que a marca não tinha revendedor nem marketplace) e `fita-up-como-usar` (link para cá).
+- **Depois do deploy:** status "publicado", a linha sai da Fila, e os preços do site e do ML são relidos quando a Black acabar (a comparação do veredito depende deles).

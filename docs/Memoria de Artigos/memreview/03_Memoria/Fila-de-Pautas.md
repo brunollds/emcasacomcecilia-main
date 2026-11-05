@@ -10,7 +10,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| R1 | Fita Up original: onde comprar (site com o MAUAD, Renner, C&A, Drogasil, Shopee, Amazon e Mercado Livre) | Toda Up | PT | [[fita-up-onde-comprar-original]] | Chrome: preço e vendedor em cada canal (os sites bloquearam o curl). Links de ML, Amazon e Shopee: o Bruno converte |
+| R1 | Fita Up original: onde comprar (site com o MAUAD, Renner, C&A, Drogasil, Shopee, Amazon e Mercado Livre) | Toda Up | PT | [[fita-up-onde-comprar-original]] | Escrito, revisado (Job 3, Fable), capa aprovada e mídia no CDN em 05/11; id 830 na main, falta o deploy. Sai daqui quando for ao ar |
 | R2 | Whey Max Titanium x Dr. Peanut: sabores e onde sai mais barato | Dr. Peanut e Max | PT | [[whey-dr-peanut-max-titanium]] | Teste do Bruno: os dois códigos nesse whey e o Pix. Chrome: a página do whey na Dr. Peanut |
 | R3 | Fita Up ou Blumi (ou Lib)? | Toda Up | PT | [[fita-up-ou-blumi-ou-lib]] | Decisões do Bruno no briefing: a Blumi entra sem produto de fita? "Empresas diferentes" pelo CNPJ? |
 | R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Qual Minimal comparar; Chrome: páginas da Insider e da Minimal (429 no curl) |
@@ -119,7 +119,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
-| `toda-up-e-confiavel` e `fita-up-como-usar` | **Corrigir:** dizem que a Fita Up só se vende no site oficial ("Só no site oficial, todaup.com"), e o Bruno confirmou em 05/11 que a mesma fita está em outros canais. Corrigir junto com a R1 e linkar para ela | Rodada R1, 05/11 |
+| `toda-up-e-confiavel` e `fita-up-como-usar` | **Corrigir:** dizem que a Fita Up só se vende no site oficial ("Só no site oficial, todaup.com"), e o Bruno confirmou em 05/11 que a mesma fita está em outros canais. Corrigir junto com a R1 e linkar para ela. **Feito no PR da R1 (05/11), com o `toda-up-e-boa`, que dizia o mesmo; falta o deploy** | Rodada R1, 05/11 |
 | `fita-up-como-usar` | R8: "plus size" no H2 da largura e uma FAQ, pelo briefing [[fita-up-como-usar-plus-size-otimizacao]] (sem URL nova) | Rodada R8, 05/11 |
 | `dr-peanut-melhor-sabor`, `dr-peanut-e-boa`, `max-titanium-e-boa`, `probiotica-e-boa` e `cupom-dr-peanut-como-usar` | Encurtar as seções de whey e linkar para a R2, a R5 e a R6, quando cada uma for ao ar (lista em cada briefing). No `dr-peanut-melhor-sabor`, a tabela de sabores fica (dossiê) | Rodada R2, R5 e R6, 05/11 |
 | `camiseta-insider-qual-escolher`, `camiseta-feminina-insider-qual-escolher` e `insider-vale-a-pena` | Com a R7 no ar: as seções de lavagem encurtam e linkam para ela, e as notas "Não testamos as peças" e "Ninguém da equipe usou as peças" mudam, porque a Perfect Top foi usada no short. O dossiê da Insider (seção 4) proíbe experiência de uso: registrar a exceção. Conferir também a Core (aviso de 2 cm na página?) e o cupom na Daily, que se contradizem entre os artigos | Rodada R7, 05/11 |
