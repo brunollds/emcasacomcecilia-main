@@ -34486,7 +34486,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual Dolce Gusto comprar",
         "paragraphs": [
-          "Para uma ou duas xícaras por dia, a Mini Me 2.0 é a mais barata; para alternar café, café com leite e chá, a Genio S Plus; para cápsula compostável e reservatório de 1 litro, a NEO, que aceita só cápsulas NEO. O que pesa é o preço, o XL e a largura na bancada; veja abaixo."
+          "Para uma ou duas xícaras por dia, a Mini Me 2.0 é a mais barata; para alternar café, café com leite e chá, a Genio S Plus; para cápsula compostável e reservatório de 1 litro, a NEO, que aceita só cápsulas NEO. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -34758,7 +34758,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim. A NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e devolução em 7 dias prevista no CDC. O ponto de atenção é a assistência das máquinas, que é da Arno e não da Nestlé; veja em \"Dá para confiar na Dolce Gusto?\" os números e o que conferir. Para comprar com desconto, use o [cupom Dolce Gusto](/cupons/dolce-gusto)."
+          "Sim, a NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e devolução em 7 dias prevista no CDC. O ponto de atenção é a assistência das máquinas, que é da Arno e não da Nestlé. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -35530,7 +35530,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que pesa é conferir o domínio e as regras de troca, com os números no capítulo Dá para confiar na Nestlé Nutre? Para comprar com desconto, veja o [cupom Nestlé Nutre](/cupons/nestle-nutre)."
+          "Sim, a Nestlé Nutre é confiável: é a loja oficial da Nestlé Health Science no Brasil, operada sob o CNPJ da Nestlé Brasil. O que pesa é conferir o domínio e as regras de troca. Lá, o cupom CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       },
       {
@@ -35670,7 +35670,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual Nutren é para quem",
         "paragraphs": [
-          "Não existe um Nutren melhor que os outros: cada linha tem um público definido pela própria Nestlé, do Senior (acima dos 50 anos) ao Active (jovens e adultos). O que pesa é quem vai usar e a orientação do médico ou nutricionista; veja abaixo o capítulo \"Qual Nutren é para quem\"."
+          "Não existe um Nutren melhor que os outros: cada linha tem um público definido pela própria Nestlé, do Senior (acima dos 50 anos) ao Active (jovens e adultos). O que pesa é quem vai usar e a orientação do médico ou nutricionista. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
         ]
       },
       {
@@ -36093,7 +36093,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nutren Senior Zero Lactose é o composto lácteo em pó da Nestlé Health Science para adultos acima de 50 anos que buscam um complemento sem lactose. A lata de 740 g vem em duas versões, sem sabor e baunilha. Se a dúvida é qual levar, o capítulo Qual lata escolher decide rápido."
+          "O Nutren Senior Zero Lactose é o composto lácteo em pó da Nestlé Health Science para adultos acima de 50 anos que buscam um complemento sem lactose. A lata de 740 g vem em duas versões, sem sabor e baunilha. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
         ]
       },
       {
@@ -36300,7 +36300,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas. Comparada à avulsa, a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho; veja a conta no último capítulo."
+          "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -36920,7 +36920,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale a pena, com ressalvas, para quem quer uma máquina de cápsula rápida e compacta, com painel touch que responde bem. Nas primeiras impressões, pesam contra o pingo entre preparos e a pouca conectividade em relação à NEO e à Vertuo. Veja o capítulo Veredito para quem faz sentido e o que ainda não dá para afirmar."
+          "Vale a pena, com ressalvas, para quem quer uma máquina de cápsula rápida e compacta, com painel touch que responde bem. Nas primeiras impressões, pesam contra o pingo entre preparos e a pouca conectividade em relação à NEO e à Vertuo. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -38867,7 +38867,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na Dolce Gusto, 1 barra do painel rende cerca de 35 a 40 ml, 4 barras cerca de 110 a 120 ml, 7 barras cerca de 200 a 220 ml, e o XL chega a 300 ml na Genio S Touch. A Nestlé não publica tabela oficial única, então são faixas de referência; veja a Tabela de referência."
+          "Na Dolce Gusto, 1 barra rende cerca de 35 a 40 ml, 4 barras 110 a 120 ml, 7 barras 200 a 220 ml, e o XL chega a 300 ml. A Nestlé não publica tabela oficial única, então são faixas de referência. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -39431,7 +39431,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Adaptador NEO Start deixa uma Dolce Gusto ORIGINAL compatível preparar cápsulas NEO de café preto, só com água quente. Vale para quem já tem um dos oito modelos aceitos e quer provar a linha NEO sem trocar de máquina. O que decide é o modelo e o consumo; veja o capítulo Vale a pena comprar?"
+          "O Adaptador NEO Start deixa uma Dolce Gusto ORIGINAL compatível preparar cápsulas NEO de café preto, só com água quente. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais. Vale para quem já tem um dos oito modelos aceitos; o que decide é o modelo e o consumo."
         ]
       },
       {
@@ -41827,7 +41827,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta na bancada, com controles no painel no lugar da alavanca da Mini Me clássica. Na unidade 127V testada, o que pesa é o plugue de 20A e o pingamento depois do preparo; veja em Pontos reais de atenção."
+          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada, o que pesa é o plugue de 20A e o pingamento depois do preparo. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -42270,7 +42270,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nutren Just Protein é um suplemento de proteína do soro do leite, em pó e sem sabor. Ele contém lactose e o rótulo diz que gestantes, lactantes e crianças não devem consumir; os números estão na tabela nutricional abaixo."
+          "O Nutren Just Protein é um suplemento de proteína do soro do leite, em pó e sem sabor. Ele contém lactose e o rótulo diz que gestantes, lactantes e crianças não devem consumir. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
         ]
       },
       {
@@ -42447,7 +42447,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Genio S Plus é a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem exigir o painel touch. A Basic serve a quem quer o essencial pelo menor preço, e a Touch compensa para quem prefere comandos por toque. O que pesa é a diferença de preço no dia da compra; veja o capítulo Veredito editorial."
+          "A Genio S Plus é a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem exigir o painel touch. A Basic serve a quem quer o essencial pelo menor preço, e a Touch compensa para quem prefere comandos por toque. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -44766,7 +44766,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há vencedora única. A Dolce Gusto serve a quem quer variedade de bebidas e custo menor por cápsula, a Nespresso a quem quer café premium e edições sazonais, e a TRES a quem toma café filtrado. As cápsulas não se misturam entre os sistemas; o custo por 100 ml está no capítulo \"Quanto custa cada xícara?\"."
+          "Não há vencedora única: a Dolce Gusto serve a quem quer variedade de bebidas e custo menor por cápsula, a Nespresso a quem quer café premium e a TRES a quem toma café filtrado. As cápsulas não se misturam entre os sistemas. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -45830,7 +45830,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Dolce Gusto ou Nespresso",
         "paragraphs": [
-          "A Dolce Gusto é a melhor escolha para a casa que quer cappuccino, achocolatado e chá na mesma máquina. A Nespresso Original serve a quem quer só espresso e mais opções de cápsula no mercado. O custo por dose pesa na conta e está no capítulo \"A matemática da xícara\"."
+          "A Dolce Gusto é a melhor escolha para quem quer cappuccino, achocolatado e chá na mesma máquina; a Nespresso Original serve a quem quer só espresso e mais opções de cápsula, e o custo por dose pesa na conta. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -50016,7 +50016,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Descalcifique com produto próprio para cafeteiras, sem vinagre, ativando o modo do seu modelo e rodando o ciclo até o fim; o manual da Genio S pede isso a cada 3 a 4 meses. O gesto de ativação muda por modelo; veja a tabela no passo a passo."
+          "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Descalcifique com produto próprio para cafeteiras, sem vinagre, ativando o modo do seu modelo e rodando o ciclo; o manual da Genio S pede isso a cada 3 a 4 meses. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -50542,7 +50542,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o Nutren Senior não empelotar, ponha 3 colheres de sopa de pó no copo seco, junte cerca de 50 ml de líquido, mexa até virar pasta e só então complete. Não ferva e beba logo após o preparo. As medidas por versão estão em O método da pasta, passo a passo."
+          "Para o Nutren Senior não empelotar, ponha 3 colheres de sopa de pó no copo seco, junte cerca de 50 ml de líquido, mexa até virar pasta e só então complete. Não ferva e beba logo após o preparo. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
         ]
       },
       {
@@ -51126,7 +51126,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O FiberMais Sem Sabor pode ser misturado a café, bebidas e refeições, sempre ao final do preparo e sem ferver. A medida muda com a apresentação: 3 colheres de chá na lata e 1 sachê duas vezes ao dia nos sachês. Os cuidados estão em Pode colocar no café quente, ferver, assar ou congelar?"
+          "O FiberMais Sem Sabor entra no café, nas bebidas e nas refeições, sempre ao final do preparo e sem ferver. A medida é 3 colheres de chá na lata e 1 sachê duas vezes ao dia nos sachês. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses."
         ]
       },
       {
@@ -52465,7 +52465,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual Ninho comprar",
         "paragraphs": [
-          "Para café, vitamina, bolo e recheio, o Ninho certo é o Leite Ninho Integral, que é leite em pó de verdade. Os outros da linha são compostos lácteos, fórmula infantil ou leite semidesnatado, e o nome na frente da embalagem diz qual é. Veja abaixo como ler o rótulo e qual Ninho usar em cada caso."
+          "Para café, vitamina, bolo e recheio, o Ninho certo é o Leite Ninho Integral, que é leite em pó de verdade. Os outros são compostos lácteos, fórmula infantil ou semidesnatado, e o nome na frente da embalagem diz qual é. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto em fórmulas de 0 a 12 meses."
         ]
       },
       {
@@ -53087,7 +53087,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Insider Store é confiável: tem CNPJ ativo, trocas e devoluções sem custo e a reputação mais alta do Reclame Aqui. O ponto de atenção é a entrega, onde está a maioria das reclamações. Veja abaixo as regras de troca, de frete e o que observar antes de fechar o pedido; para comprar com desconto, use o [cupom Insider](/cupons/insider)."
+          "Sim, a Insider Store é confiável: tem CNPJ ativo, trocas e devoluções sem custo e a reputação mais alta do Reclame Aqui. O ponto de atenção é a entrega, onde está a maioria das reclamações. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -53324,7 +53324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. A entrega é o problema que mais se repete. Há também dois alertas recentes, sobre cupom vazado e mensagens de golpe, e os capítulos abaixo explicam cada um e o caminho certo se o pedido der problema; para comprar com desconto, veja o [cupom Insider](/cupons/insider)."
+          "Sim, a Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. A entrega é o problema que mais se repete, e há alertas recentes de cupom vazado e golpe. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -61484,7 +61484,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe um melhor entre os três: cada rótulo informa os números numa base diferente, e a escolha depende do que a pessoa precisa e da dose indicada pelo médico ou nutricionista. O que mais pesa é a lactose e o fato de o Ensure não publicar a tabela por porção. Veja a tabela e o fechamento abaixo."
+          "Não existe um melhor entre os três: cada rótulo informa os números numa base diferente, e a escolha depende da dose indicada pelo médico ou nutricionista. O que mais pesa é a lactose e o fato de o Ensure não publicar a tabela por porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren Senior."
         ]
       },
       {
@@ -62459,7 +62459,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Insider mede a peça deitada, não o corpo, então o jeito mais seguro é medir uma camiseta sua que veste bem e comparar com a tabela da peça. Os tamanhos vão de PP a XXGG, e cueca e calcinha só trocam por defeito. Veja abaixo as tabelas e o encolhimento."
+          "A Insider mede a peça deitada, não o corpo, então o mais seguro é comparar uma camiseta sua que veste bem com a tabela da peça. Cueca e calcinha só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -63729,7 +63729,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe um melhor no rótulo. O Nutren Protein em pó contém whey, mas também cafeína, lactose, glúten, vitaminas e minerais, e quem quer só a proteína do soro está falando do Nutren Just Protein. Para bebida pronta, a comparação é com a YoPRO. O que pesa é cafeína, lactose e preço por porção; veja abaixo."
+          "Não existe um melhor no rótulo: o Nutren Protein em pó contém whey, mas também cafeína, lactose e glúten, e quem quer só a proteína do soro quer o Nutren Just Protein. O que pesa é cafeína, lactose e preço por porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
         ]
       },
       {
@@ -64073,7 +64073,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: quanto custa cada bebida",
         "paragraphs": [
-          "Na loja oficial, a bebida de duas cápsulas Dolce Gusto custa o dobro da bebida de uma. O que decide o preço da xícara é quantas cápsulas a bebida usa e se a caixa está em promoção, e o combo de várias caixas foi a forma mais barata de comprar."
+          "Na loja oficial, a bebida de duas cápsulas Dolce Gusto custa o dobro da bebida de uma. O que decide o preço da xícara é quantas cápsulas a bebida usa e se a caixa está em promoção. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -85331,7 +85331,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Isosource 1.5 Sem Sabor é uma fórmula padrão para nutrição enteral e oral, com 1,5 kcal por mL, em caixa de 1 litro com tampa. O rótulo manda usar somente sob orientação médica ou de nutricionista, que define quanto, quando e como usar. Veja abaixo a tabela por 100 mL, o rendimento do litro e o preço."
+          "Isosource 1.5 Sem Sabor é uma fórmula padrão para nutrição enteral e oral, com 1,5 kcal por mL, em caixa de 1 litro com tampa. O rótulo manda usar somente sob orientação médica ou de nutricionista, que define quanto, quando e como usar. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
         ]
       },
       {
@@ -85644,7 +85644,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: o que é o Nutren A-Z Multi",
         "paragraphs": [
-          "O Nutren A-Z Multi é um suplemento alimentar em cápsulas da Nestlé, com 13 vitaminas e 7 minerais, para adultos acima de 19 anos, na dose de 1 cápsula por dia. O frasco de 60 cápsulas dura 60 dias. O que pesa é o que o rótulo afirma; veja abaixo as três alegações."
+          "O Nutren A-Z Multi é um suplemento alimentar em cápsulas da Nestlé, com 13 vitaminas e 7 minerais, para adultos acima de 19 anos, na dose de 1 cápsula por dia. O frasco de 60 cápsulas dura 60 dias. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
         ]
       },
       {
@@ -85944,7 +85944,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: o que é o Nanlac Supreme Pro 1 a 3 anos",
         "paragraphs": [
-          "O Nanlac Supreme Pro é fórmula infantil de primeira infância da Nestlé, para crianças de 1 a 3 anos, e não deve ser usado abaixo de 1 ano. A lata de 800 g rende cerca de 56 porções de 100 ml, pela nossa conta. Antes de usar, confira o lote; o capítulo sobre o recolhimento mostra como."
+          "O Nanlac Supreme Pro é fórmula infantil da Nestlé para crianças de 1 a 3 anos, e não deve ser usado abaixo de 1 ano. A lata de 800 g rende cerca de 56 porções de 100 ml, pela nossa conta. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto fórmulas de 0 a 12 meses."
         ]
       },
       {
@@ -86308,7 +86308,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nanlac Supreme Pro e Comfor HMO são fórmulas da Nestlé de 1 a 3 anos, com leite, lactose e soja. Pelo rótulo, o Supreme Pro declara quatro HMOs; o Comfor, um, mais GOS, FOS e menor preço. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF nas duas; não vale em fórmulas de 0 a 12 meses."
+          "Nanlac Supreme Pro e Comfor HMO são fórmulas da Nestlé de 1 a 3 anos, com leite, lactose e soja. Pelo rótulo, o Supreme Pro declara quatro HMOs; o Comfor, um, mais GOS e FOS. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF nas duas; não vale em fórmulas de 0 a 12 meses."
         ]
       },
       {
@@ -86634,7 +86634,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nanlac Supreme Pro e o Aptanutri Profutura 3 são fórmulas para crianças de 1 a 3 anos, e a escolha depende do que você procura no rótulo. O Nanlac declara quatro HMOs; o Aptanutri, GOS, FOS e nucleotídeos, e custava mais na leitura dos preços. A orientação do pediatra pesa; veja o capítulo \"Para quem cada uma faz sentido, pelo rótulo\"."
+          "O Nanlac Supreme Pro e o Aptanutri Profutura 3 são fórmulas para crianças de 1 a 3 anos, e a escolha depende do rótulo. O Nanlac declara quatro HMOs; o Aptanutri, GOS, FOS e nucleotídeos. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto fórmulas de 0 a 12 meses."
         ]
       },
       {
@@ -87027,7 +87027,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na dúvida entre o Nanlac Supreme Pro e o Ninho Fases 1+, fórmulas da Nestlé para crianças de 1 a 3 anos, a diferença está no rótulo. O que pesa é HMO, DHA e ARA no Nanlac contra prebióticos, menos açúcar adicionado e cerca da metade do preço por 100 g no Ninho. O capítulo Para quem cada um faz sentido, pelo rótulo detalha a escolha."
+          "Entre o Nanlac Supreme Pro e o Ninho Fases 1+, fórmulas da Nestlé para 1 a 3 anos, a diferença está no rótulo. O Nanlac traz HMO, DHA e ARA; o Ninho, prebióticos e menos açúcar. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF, exceto fórmulas de 0 a 12 meses."
         ]
       },
       {
@@ -87391,7 +87391,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. O Nutren sai bem mais barato por dia (contas nossas), mas o Centrum lista também cálcio, fósforo, magnésio e iodo. O capítulo Para quem cada um faz sentido, pelo rótulo detalha."
+          "O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. O Nutren sai bem mais barato por dia (contas nossas), mas o Centrum lista também cálcio, fósforo, magnésio e iodo. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren."
         ]
       },
       {
@@ -87736,7 +87736,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nutren Senior e Nutridrink Protein Senior são dois pós de lata para adultos mais velhos, e não há vencedor geral: cada um ganha num ponto do rótulo. As porções diferem (31,5 g no Nutren e 30 g no Nutridrink), então a comparação justa é por 100 g de pó. O que pesa é lactose, açúcares e preço; veja abaixo."
+          "Nutren Senior e Nutridrink Protein Senior são dois pós de lata para adultos mais velhos, e não há vencedor geral: cada um ganha num ponto do rótulo. A comparação justa é por 100 g de pó, e o que pesa é lactose, açúcares e preço. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren Senior."
         ]
       },
       {
@@ -87942,7 +87942,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nenhuma das duas é melhor para todos: Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são fórmulas de 1 litro com 1,5 kcal por mL, e a escolha é do médico ou do nutricionista. O que muda é a fibra e o preço por 1.000 kcal; veja o capítulo Para quem cada um faz sentido."
+          "Nenhuma das duas é melhor para todos: Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha são fórmulas de 1 litro com 1,5 kcal por mL, e a escolha é do médico ou do nutricionista. O que muda é a fibra e o preço por 1.000 kcal. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF."
         ]
       },
       {
@@ -88310,7 +88310,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Espresso e o Espresso Intenso da Dolce Gusto são duas caixas de 10 cápsulas, as duas só com café torrado e moído e pelo mesmo preço. O que muda é a intensidade, 5 no Espresso e 7 no Intenso. Para quem quer o café mais suave, é o Espresso; o capítulo abaixo compara os dois."
+          "O Espresso e o Espresso Intenso da Dolce Gusto são caixas de 10 cápsulas, só com café torrado e moído e pelo mesmo preço; muda a intensidade, 5 no Espresso e 7 no Intenso. Para o café mais suave, é o Espresso. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -88494,7 +88494,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Caramelo Salgado Dolce Gusto é um cappuccino em cápsula com leite em pó, açúcar, café solúvel e sal: 78 kcal e 7,9 g de açúcares adicionados por cápsula, com glúten e lactose. Tem café, mas a loja não informa a quantidade de cafeína. O que muda a escolha é o açúcar; veja a tabela nutricional abaixo."
+          "O Caramelo Salgado Dolce Gusto é um cappuccino em cápsula com leite em pó, açúcar, café solúvel e sal: 78 kcal e 7,9 g de açúcares adicionados por cápsula, com glúten e lactose. Tem café, mas a loja não informa a cafeína. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -88675,7 +88675,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Café au Lait Dolce Gusto clássico não tem açúcar adicionado, e o Desnatado também não: os açúcares que aparecem vêm do leite. O Vanilla é a exceção, com açúcar na lista de ingredientes. O que muda a resposta é a versão, e a tabela do capítulo seguinte mostra o número de cada uma."
+          "O Café au Lait Dolce Gusto clássico não tem açúcar adicionado, e o Desnatado também não: os açúcares que aparecem vêm do leite. O Vanilla é a exceção, com açúcar na lista de ingredientes. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -98787,7 +98787,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para um escritório em que nem todo mundo toma só café, a Dolce Gusto atende melhor: faz café, bebidas com leite, chocolate e chá na mesma máquina. Quem só toma café preto paga bem menos com filtro. O custo por mês para 5, 10 e 20 pessoas está no capítulo de custo."
+          "Para um escritório em que nem todo mundo toma só café, a Dolce Gusto atende melhor: faz café, bebidas com leite, chocolate e chá na mesma máquina. Quem só toma café preto paga bem menos com filtro. Na Dolce Gusto, o cupom CECI dá 10% OFF no site oficial em compras a partir de 100 reais."
         ]
       },
       {
@@ -101740,7 +101740,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para treino, a Performance; para o dia a dia, a Comfort. A escolha sai do tecido e do uso que a própria marca indica. O que pode mudar a decisão é a cor e o tamanho, que mexem no preço; veja em Qual escolher."
+          "Para treino, a Performance; para o dia a dia, a Comfort. A escolha sai do tecido e do uso que a própria marca indica, e só cor e tamanho mexem no preço. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -102013,7 +102013,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha pelo nível de transpiração, que é como a própria Insider indica as três undershirts: Leve para suor leve, Moderado para suor moderado e Block para suor excessivo. Nenhuma das três trata ou elimina o suor. A tabela abaixo mostra o que a loja diz de cada uma, e o Block estava esgotado."
+          "Escolha pelo nível de transpiração, como a Insider indica: Leve para suor leve, Moderado para moderado e Block para excessivo. Nenhuma das três trata ou elimina o suor, e o Block estava esgotado. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -102325,7 +102325,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para presentear com a Insider neste Natal, o kit de presente serve a quem quer entregar algo pronto, e o gift card virtual, a quem não sabe o tamanho. Cueca, calcinha e sutiã só trocam por defeito, então acertar o tamanho pesa na escolha. O prazo para chegar antes do Natal depende da cidade; a tabela está abaixo."
+          "Para presentear com a Insider neste Natal, o kit de presente serve a quem quer entregar algo pronto, e o gift card virtual, a quem não sabe o tamanho. Cueca, calcinha e sutiã só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -166786,7 +166786,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Quer mais corpo? A Heavy é 20% mais encorpada que a Tech, diz a página dela. A Core, de viscose e com textura leve, é a opção mais leve. Cada linha está na tabela abaixo."
+          "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Para mais corpo, a Heavy é 20% mais encorpada que a Tech, e a Core, de viscose, é a mais leve. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -168605,7 +168605,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida, em PP a XGG. A Gola V tem gola levemente alongada, e a Tech de manga longa é a opção para o frio. O guia da linha masculina está em [Camiseta masculina Insider: qual escolher](/reviews/camiseta-insider-qual-escolher)."
+          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida, em PP a XGG. A Gola V tem gola levemente alongada, e a Tech de manga longa é a opção para o frio. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -187587,7 +187587,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Dolce Gusto está na faixa Regular do Reclame Aqui nos últimos 6 e 12 meses, com nota 6,6 e 6,9, e foi Boa em 2025. A loja respondeu 100% das reclamações nos 6 meses, e a queixa mais comum é a entrega. Para o desconto, veja o [cupom Dolce Gusto](/cupons/dolce-gusto)."
+          "A Dolce Gusto está na faixa Regular do Reclame Aqui nos últimos 6 e 12 meses, com nota 6,6 e 6,9, e respondeu 100% das reclamações nos 6 meses; a queixa mais comum é a entrega. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
