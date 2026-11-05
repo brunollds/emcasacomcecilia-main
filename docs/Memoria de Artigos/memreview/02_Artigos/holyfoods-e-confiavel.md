@@ -7,9 +7,9 @@ parceiro_slug: "holyfoods"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Editorial"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "deploy junto com /cupons/holyfoods (#590) ou depois; IndexNow"
+proxima_acao: "-"
 bloqueado_por: "-"
 data_criacao: "2026-11-05"
 i18n_cluster: null
@@ -296,3 +296,7 @@ JSON em `content/reviews/holyfoods-e-confiavel.json`, escrito em 05/11/2026. `bu
 ## Vídeo da Cecília (05/11/2026)
 
 O Bruno liberou os vídeos da Cecília com os produtos (05/11). `youtubeUrl`: https://youtube.com/shorts/cSGGCKqv4VU. "PROVEI o Risoto Proteico viral do TikTok Shop" (Short de 55 s, 25/09/2026): a Cecília abre um kit da HolyFoods comprado no TikTok Shop, antes da parceria, e faz o risoto na indução com 400 ml de água e manteiga ("uma porção bem servida", nas palavras dela). A descrição do vídeo diz que a caixa chegou amassada. Com isso, a nota editorial deixou de dizer que ninguém provou os produtos, e uma frase no corpo leva ao vídeo; a página de exibição `/videos/risoto-holyfoods-kit-tiktok-shop` aponta para este artigo. Os vídeos servem também para artigos de experiência própria (estoque).
+
+## Publicado
+
+No ar em 05/11/2026, release `040b1515` (build `01a1ac5f`), com o vídeo da Cecília e o banner da Black da HolyFoods. `covers:check` 4/4 na produção, sitemap e llms.txt conferidos, IndexNow enviado.
