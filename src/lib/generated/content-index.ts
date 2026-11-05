@@ -33804,7 +33804,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Vale a pena participar do Clube Dolce Gusto se você já compra cápsulas com frequência: o cadastro é gratuito e cada caixa da Geração 1 ou extração na NEO rende pontos. O que pesa é a validade, porque o saldo zera após 6 meses sem registrar código nem resgatar prêmio; veja o capítulo Passo a passo para cadastrar seus códigos."
+          "Vale a pena participar do Clube Dolce Gusto se você já compra cápsulas com frequência: o cadastro é gratuito e cada caixa da Geração 1 ou extração na NEO rende pontos. O saldo zera após 6 meses sem registrar código nem resgatar prêmio. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -33977,7 +33977,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual sabor para cada perfil",
         "paragraphs": [
-          "Não existe um melhor sabor de Dolce Gusto: a escolha depende do seu jeito de tomar café, puro, com leite, chocolate, chá ou gelado, e da sua máquina, Original ou NEO. O capítulo Qual sabor escolher, no fim, traz um sabor para cada perfil, e a máquina vem primeiro, logo abaixo."
+          "Não existe um melhor sabor de Dolce Gusto: a escolha depende do seu jeito de tomar café, puro, com leite, chocolate, chá ou gelado, e da sua máquina, Original ou NEO. O capítulo Qual sabor escolher traz um sabor para cada perfil. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -39232,7 +39232,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como funciona a assinatura",
         "paragraphs": [
-          "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas em casa todo mês, a cada 2 ou a cada 3 meses, com 25% de desconto e frete grátis em todos os pedidos de 3 caixas ou mais, pagos só no cartão de crédito. Dá para cancelar quando quiser, sem multa. Veja abaixo as regras de pagamento, alteração e cancelamento."
+          "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com 25% de desconto e frete grátis em pedidos de 3 caixas ou mais, no cartão de crédito, e cancela sem multa. O cupom CECI dá mais 10% OFF, que somou com os 25% no nosso teste, em pedidos a partir de 100 reais."
         ]
       },
       {
@@ -50842,7 +50842,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual cápsula serve em cada máquina",
         "paragraphs": [
-          "Cada máquina Dolce Gusto usa o sistema de cápsula dela: a NEO só aceita cápsulas NEO, e as máquinas Original usam as cápsulas Original, com o Adaptador NEO Start como exceção oficial para alguns cafés NEO. Cápsulas de outras marcas existem, mas compatível nem sempre sai mais barato; veja abaixo os preços por cápsula."
+          "Cada máquina Dolce Gusto usa o sistema de cápsula dela: a NEO só aceita cápsulas NEO, e as Original usam as cápsulas Original, com o Adaptador NEO Start como exceção oficial. Compatível de outra marca nem sempre sai mais barato. Nas cápsulas oficiais, o cupom CECI dá 10% OFF no site, em compras a partir de 100 reais."
         ]
       },
       {
@@ -56837,7 +56837,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Magalu 2026",
         "paragraphs": [
-          "A Black Friday do Magalu é em 27 de novembro de 2026, mas as ofertas antecipadas já estão no ar, com o selo Oferta Black e novidades todo domingo no app. Os códigos da Cecília dão desconto fixo em reais, que cresce com o carrinho, só pelo navegador, e vale um cupom por pedido."
+          "A Black Friday do Magalu é em 27 de novembro de 2026, mas as ofertas antecipadas já estão no ar, com o selo Oferta Black e novidades todo domingo no app. Os códigos da Cecília, de 10EMCASACOMCECILIA a 100EMCASACOMCECILIA, dão de 10 a 100 reais de desconto conforme o valor do carrinho, só pelo navegador, um por pedido."
         ]
       },
       {
@@ -86308,7 +86308,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na dúvida entre o Nanlac Supreme Pro e o Nanlac Comfor HMO, fórmulas da Nestlé para crianças de 1 a 3 anos, as duas contêm leite, lactose e soja. O Supreme Pro declara quatro HMOs e o Comfor, um. O que pesa é o número de HMOs declarados de um lado e GOS, FOS e o menor preço do outro, como detalha o capítulo \"Para quem cada uma faz sentido, pelo rótulo\"."
+          "Nanlac Supreme Pro e Comfor HMO são fórmulas da Nestlé de 1 a 3 anos, com leite, lactose e soja. Pelo rótulo, o Supreme Pro declara quatro HMOs; o Comfor, um, mais GOS, FOS e menor preço. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF nas duas; não vale em fórmulas de 0 a 12 meses."
         ]
       },
       {
