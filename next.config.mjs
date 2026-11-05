@@ -38,6 +38,15 @@ const renamedCouponRedirect = {
   permanent: true,
 };
 
+// O www abria o site inteiro (200) com a canonical sem www; a Hostinger não redireciona o www de um
+// Node.js Web App (o redirect dela só aceita caminhos do próprio domínio). Mantém caminho e query.
+const wwwToApexRedirect = {
+  source: '/:path*',
+  has: [{ type: 'host', value: 'www.emcasacomcecilia.com' }],
+  destination: 'https://emcasacomcecilia.com/:path*',
+  permanent: true,
+};
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'standalone',
@@ -50,6 +59,7 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      wwwToApexRedirect,
       ...redirects,
       legacyRecipeSearchRedirect,
       renamedCouponRedirect,
