@@ -52934,7 +52934,7 @@ export const reviewsData: unknown[] = [
               "− R$ 29,90"
             ],
             [
-              "Cupom CECI: 5% OFF (valor no dia do teste)",
+              "Cupom CECI: 5% OFF no dia do teste (hoje, 10%)",
               "− R$ 4,49"
             ],
             [
