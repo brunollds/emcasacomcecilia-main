@@ -21,6 +21,7 @@ prateleira de alimentação de `/cupons`.
 | Campanha de Black Friday da loja: 30% OFF em todo o site, já aplicado nos preços, no lugar do desconto progressivo | condicao_comercial_volatil | FAQ da home de holyfoods.com.br | 2026-11-05 | 2026-12-05 | Fora da campanha a loja tem desconto progressivo por quantidade ("15% OFF desbloqueado"); se o EMCASA soma com o progressivo não foi testado | Média |
 | Frete grátis a partir de R$ 199 em SP; R$ 249 em RJ, MG, DF e PR; R$ 289 em GO, SC, ES e RS; nos demais estados, consulta no checkout | condicao_comercial_volatil | FAQ da home ("Seu frete na Black") | 2026-11-05 | 2026-12-05 | O mínimo considera os preços depois dos descontos dos produtos. A página de cupom fala só em "mínimo por estado", sem os valores, porque a tabela é da campanha | Média |
 | Garantia: 30 dias depois de receber para pedir a devolução; pode provar uma unidade e devolver as outras fechadas; devolução sem custo, com reembolso dos produtos devolvidos | condicao_comercial_volatil | FAQ da home de holyfoods.com.br | 2026-11-05 | 2026-12-05 | A página de política (`/policies/refund-policy`) fica atrás de verificação da Cloudflare | Média |
+| Link de afiliado da marca no Mercado Livre: `https://meli.la/2mjWEVp` | condicao_comercial_volatil | Bruno, 05/11/2026; `mercadoLivreUrl` no FAQ | 2026-11-05 | 2026-12-05 | O cupom não vale no Mercado Livre; lá vale o preço do anúncio | Alta |
 | Link de afiliado: `https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz` | condicao_comercial_volatil | Bruno, 05/11/2026; `offerUrl` em `src/lib/couponsData.ts` | 2026-11-05 | 2026-12-05 | Vai exatamente como veio. Não aplica o cupom: o leitor copia o EMCASA | Alta |
 
 Teste de 2026-11-05 (Claude, no Chrome, sem dados pessoais e sem finalizar): Pack Sopa da Vovó
@@ -54,7 +55,7 @@ Teste mensal: pela tela "Finalizar compra".
   (Job 1) e depois pela sessão de artigos.
 - Os depoimentos do site falam em emagrecimento. Os nossos textos não prometem perda de peso nem
   efeito de saúde: descrevem o produto, o rótulo e o preço.
-- Sem link da marca no Mercado Livre.
+- Link da marca no Mercado Livre: `https://meli.la/2mjWEVp`, como veio, só no FAQ "vale no Mercado Livre?".
 - Reclame Aqui ainda não levantado (fica para o briefing de onboarding).
 
 ---
