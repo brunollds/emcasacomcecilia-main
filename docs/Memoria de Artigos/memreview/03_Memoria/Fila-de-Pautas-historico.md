@@ -447,6 +447,7 @@ Os artigos abaixo já existem e o Bing os põe entre a 4ª e a 9ª posição, ou
 - **R3, Fita Up ou Blumi (ou Lib)?** ([[fita-up-ou-blumi-ou-lib]], id 832): no ar em 05/11 (release 45ab7e43, PR #622). A Blumi é da Brandness, a mesma dona da Fita Up (quadro de sócios), e não vende fita; Fita Up × Lib.
 - **R2, Whey Dr. Peanut na Max ou na Dr. Peanut** ([[whey-dr-peanut-max-titanium]], id 833): no ar em 05/11 (release 45ab7e43, PRs #622 e #623, com dois Job 3). Mesmo pote, preço e sabores; os dois códigos funcionam no whey.
 - **R4, Insider ou Minimal Club** ([[insider-ou-minimal-club]], id 834): no ar em 05/11 (release a048c8a2, PR #627). Tech × Tech Modal e Core × Camiseta Minimal, com o cupom de 15%; Minimal sem link, cupom ou foto.
+- **R5, Whey Max Titanium: qual escolher** ([[whey-max-titanium-qual-escolher]], id 835): no ar em 05/11 (release c8913d19, PR #630), com o resumo dos wheys no `max-titanium-e-boa`. Preço de venda do dia, cupom até 10% por produto. A preferência do Bruno na R4 (#629) foi no mesmo deploy.
 - **Correção do "só no site oficial":** `toda-up-e-confiavel`, `toda-up-e-boa` (que dizia o mesmo) e `fita-up-como-usar` (link para a R1), no mesmo PR e no mesmo release.
 
 ## Onboarding da HolyFoods (Bruno, 05/11/2026)
