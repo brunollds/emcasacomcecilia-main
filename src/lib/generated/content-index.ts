@@ -35356,6 +35356,12 @@ export const reviewsData: unknown[] = [
     ],
     "contentSections": [
       {
+        "heading": "Resposta rápida: como usar o cupom CECI",
+        "paragraphs": [
+          "O [cupom Nestlé Nutre](/cupons/nestle-nutre) é o CECI e dá 10% sobre os produtos da loja oficial, não sobre o frete. Você digita CECI no campo de cupom do checkout e confere a linha do desconto antes de pagar. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; veja a seção de produtos excluídos."
+        ]
+      },
+      {
         "heading": "Introdução",
         "paragraphs": [
           "Muita gente me pergunta sobre suplementação alimentar para pais e avós, e quer acertar o produto sem errar nas exceções do cupom. Foi conversando sobre isso que a parceria com a Nestlé Nutre apareceu: uma marca que muita família já usa no dia a dia, com produtos fáceis de achar em mercado e farmácia.",
@@ -35366,12 +35372,6 @@ export const reviewsData: unknown[] = [
             "label": "Cupom Nestlé Nutre atualizado",
             "href": "/cupons/nestle-nutre"
           }
-        ]
-      },
-      {
-        "heading": "Resposta rápida: como usar o cupom CECI",
-        "paragraphs": [
-          "O [cupom Nestlé Nutre](/cupons/nestle-nutre) é o CECI e dá 10% sobre os produtos da loja oficial, não sobre o frete. Você digita CECI no campo de cupom do checkout e confere a linha do desconto antes de pagar. Ele não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; veja a seção de produtos excluídos."
         ]
       },
       {
@@ -44479,6 +44479,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "contentSections": [
       {
+        "heading": "Resposta rápida: Nutren Creatina é boa?",
+        "paragraphs": [
+          "Sim, para quem quer creatina monohidratada sem mistura: pelo rótulo, a Nutren Creatina entrega a formulação esperada. O que decide frente a Growth, FTW e Lavitan é o preço por 100 g e a porção. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF na Nutren Creatina."
+        ]
+      },
+      {
         "heading": "O que é creatina e para que serve?",
         "paragraphs": [
           "Se você começou a pesquisar creatina, é fácil ter a impressão de que todos os potes entregam exatamente a mesma coisa. O pó costuma ser branco, o sabor é discreto e quase todas as marcas falam em desempenho. A diferença começa a aparecer quando olhamos a composição, a porção, o rendimento e o preço por grama.",
@@ -44503,7 +44509,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Nutren Creatina é boa? Resposta direta",
+        "heading": "Nutren Creatina é boa?",
         "paragraphs": [
           "Sim para quem quer creatina monohidratada sem mistura, pelo rótulo. O que decide é preço por 100 g e porção, na tabela do capítulo Comparativo auditável.",
           "O que não dá para concluir apenas pelo nome da marca é que ela seja mais eficaz ou mais pura do que as concorrentes. Sem laudos comparáveis dos mesmos lotes, a resposta mais útil é esta: a Nutren oferece a formulação esperada, e sua vantagem ou desvantagem depende do preço final, do tamanho da porção, da embalagem e do canal em que você prefere comprar."
@@ -102325,7 +102331,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para presentear com a Insider neste Natal, o kit de presente serve a quem quer entregar algo pronto, e o gift card virtual, a quem não sabe o tamanho. Cueca, calcinha e sutiã só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Para presentear com a Insider neste Natal, o kit de presente serve a quem quer entregar algo pronto, e o gift card virtual, a quem não sabe o tamanho. Cueca, calcinha e sutiã só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, também na compra do gift card, exceto em lançamentos."
         ]
       },
       {
@@ -102343,7 +102349,7 @@ export const reviewsData: unknown[] = [
           "O cartão fica fora da campanha de brindes."
         ],
         "postParagraphs": [
-          "O desconto do Pix não se aplica à compra do gift card. E o cupom não pode ser usado em pedido pago com gift card: se a pessoa pagar com o saldo do cartão, o cupom EMCASACOMCECILIA não entra nessa compra."
+          "O desconto do Pix não se aplica à compra do gift card, mas o cupom vale nela: no nosso teste, o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900, que saiu por R$ 765. O que não aceita cupom é o pedido pago com gift card: se a pessoa pagar com o saldo do cartão, o cupom EMCASACOMCECILIA não entra nessa compra."
         ],
         "images": [
           {
@@ -102769,7 +102775,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Insider vale presente? Vale: a loja vende gift card virtual de R$ 50 a R$ 1.000, enviado por e-mail a quem comprou, com validade de 12 meses a partir do recebimento.",
           "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, mas a troca sai em vale-troca para usar no site. Cueca, calcinha e sutiã só trocam por defeito.",
-          "Cupom vale com gift card? Não: pedido pago com gift card não aceita cupom, segundo a página do cartão.",
+          "Cupom vale no gift card? Vale na compra do cartão: no nosso teste, o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
           "Chega a tempo do Natal? Depende da cidade e da data da aprovação do pagamento. A tabela da seção \"Até quando pedir\" traz a data limite de cada capital, e a loja diz que os prazos podem mudar em alta demanda.",
           "A Insider tem kit de presente com cueca? Tem: o Kit Presente Performance Masculino e o Kit Presente Básico Masculino levam cueca, e há outros três kits com cueca fora do rótulo Kit Presente.",
           "A Insider vende sacola de presente? Vende a Insider Gift Bag, de R$ 9,00, e uma embalagem prateada em envelope, de R$ 13,90."
