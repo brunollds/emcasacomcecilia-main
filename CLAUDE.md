@@ -16,7 +16,7 @@ estava desatualizada:
 
 ```bash
 npm run typecheck            # tsc --noEmit — gate mais rápido que o build
-npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (roda no build); chave repetida no mesmo objeto de content/reviews e content/receitas, com o caminho
+npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (roda no build); chave repetida no mesmo objeto de content/reviews e content/receitas, com o caminho; relacionados (relatedArticles) de todo artigo no ar: { slug, title }, com o slug de um artigo publicado no mesmo idioma (rascunho não tem página)
 npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
@@ -341,10 +341,13 @@ vídeo, primeiras impressões e uso noturno.
   começou vai no payload e fica fora do HTML. Cada lugar leva uma fila (`getArticleStoreBanners`): campanhas da mesma
   loja e do mesmo lugar podem esperar uma depois da outra (o esquenta e a Black Friday), desde que os prazos não se
   sobreponham (`storeBannersOverlap`), e entram no ar no deploy antes do início. O `test:store-banners` barra a
-  sobreposição e avisa para apagar o arquivo da vencida. Campanha
+  sobreposição e avisa para apagar o arquivo da vencida e para reconferir a campanha sem `endsAt` conferida há 7 dias
+  ou mais (avançar o `verifiedAt`; o aviso não derruba o build). Campanha
   que só vale com o código da loja leva ao nosso artigo sobre ela (`href` `/reviews/<slug>` da mesma loja, com
   `endsAt`), link interno sem sponsored e fora do próprio artigo. O `test:build-output` confere o lugar, o link, o
-  `rel` e os textos em todo artigo.
+  `rel` e os textos em todo artigo. Ele confere as campanhas e os códigos com prazo (da página da loja e da vitrine da
+  home) pela hora em que o build gerou cada página, o mtime do HTML, e não pela hora do teste: o build que cruza o
+  início ou o fim de um prazo não quebra.
   A campanha pode levar o `code` da própria loja (o 37S3442 da SHEIN), nunca o nosso: o banner o mostra com a frase de
   pesquisar no app (`bannerCodeHint`, `articleCopy.ts`). As mesmas campanhas vão à página da loja (`StorePageBanners`,
   de `src/components/coupons/`, por `getStorePageBanners`): em `/cupons/<loja>`, nas traduzidas e nas 10 da YesStyle,

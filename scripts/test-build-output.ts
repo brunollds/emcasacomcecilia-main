@@ -597,8 +597,9 @@ for (const slug of translatedSlugs) {
     assert.equal(webPage?.inLanguage, LOCALES[locale].htmlLang, `${pagePath}: inLanguage do JSON-LD`);
 
     // Cada idioma leva o seu link principal, e o de outro idioma não aparece na página. O banner de campanha leva o
-    // link da campanha, que pode ser o de outro idioma (a Black Friday da Hostinger, no site global), e fica de fora.
-    const campaignHrefs = new Set(getStorePageBanners(slug, locale, new Date()).map(({ href }) => href));
+    // link da campanha, que pode ser o de outro idioma (a Black Friday da Hostinger, no site global), e fica de fora:
+    // as campanhas da página na hora do build.
+    const campaignHrefs = new Set(getStorePageBanners(slug, locale, fs.statSync(file).mtime).map(({ href }) => href));
     const hrefs = new Set([...html.matchAll(/href="([^"]+)"/g)].map(([, href]) => href.replace(/&amp;/g, '&')));
     assert.ok(hrefs.has(offerUrls[locale]), `${pagePath}: sem o link principal do idioma`);
     for (const offerUrl of new Set(Object.values(offerUrls))) {
@@ -1845,8 +1846,9 @@ for (const url of articleUrls) {
   // O que leva ao nosso artigo da campanha tem link interno, sem sponsored, e não sai no próprio artigo. Campanha que
   // ainda não começou não vem no HTML.
   const bannerStore = review.affiliate ? getCouponBySlug(review.affiliate) : undefined;
-  const bannerNow = new Date();
-  // Da fila de cada lugar, só a campanha no ar sai no HTML; as outras ficam para o navegador mostrar no prazo delas.
+  // Da fila de cada lugar, só a campanha no ar na hora do build (o mtime do HTML, não a hora do teste) sai no HTML; as
+  // outras ficam para o navegador mostrar no prazo delas.
+  const bannerNow = fs.statSync(file).mtime;
   const banners = Object.fromEntries(
     Object.entries(bannerStore ? getArticleStoreBanners(bannerStore.slug, review.slug, locale, bannerNow) : {})
       .map(([slot, queue]) => [slot, queue.find((banner) => isStoreBannerLive(banner, bannerNow))])
@@ -2379,6 +2381,13 @@ const builtBody = (pagePath: string) => {
   assert.ok(file, `${pagePath}: página não gerada no build`);
   return bodyOf(read(file));
 };
+// A hora em que o build gerou a página (o mtime do HTML). Os prazos e as campanhas que o HTML mostra são os dessa hora,
+// não os da hora do teste: o build que cruza o início ou o fim de um deles não quebra.
+const builtAt = (pagePath: string) => {
+  const file = builtFile(`${SITE_URL}${pagePath}`);
+  assert.ok(file, `${pagePath}: página não gerada no build`);
+  return fs.statSync(file).mtime;
+};
 function assertStoreCutout(where: string, body: string, copyable: boolean) {
   const at = body.indexOf('<section id="cupom"');
   assert.ok(at >= 0, `${where}: sem o recorte do topo (id="cupom")`);
@@ -2554,12 +2563,12 @@ for (const [file, shelf] of REVEAL_SHELVES) {
   }
 }
 
-// As campanhas da loja na página dela (StorePageBanners): só as no ar no HTML, todas logo antes da seção das regras,
-// com o link da campanha, o rel sponsored (o link interno do nosso artigo, sem), os textos do idioma e, com código, a
-// frase de pesquisar no app.
+// As campanhas da loja na página dela (StorePageBanners): só as no ar na hora do build saem no HTML, todas logo antes
+// da seção das regras, com o link da campanha, o rel sponsored (o link interno do nosso artigo, sem), os textos do
+// idioma e, com código, a frase de pesquisar no app.
 let storePageBannerPages = 0;
 function assertStorePageBanners(pagePath: string, body: string, affiliate: string, brand: string, locale: Locale, rulesId: string) {
-  const bannerNow = new Date();
+  const bannerNow = builtAt(pagePath);
   const live = getStorePageBanners(affiliate, locale, bannerNow).filter((banner) => isStoreBannerLive(banner, bannerNow));
   const tags = [...body.matchAll(/<aside\b[^>]*\bdata-promo-banner="pagina"[^>]*>/g)];
   assert.equal(tags.length, live.length, `${pagePath}: ${tags.length} banners de campanha na página, esperado ${live.length}`);
@@ -2584,6 +2593,63 @@ function assertStorePageBanners(pagePath: string, body: string, affiliate: strin
   storePageBannerPages++;
 }
 
+// O código com prazo que já tinha começado na hora do build: a caixa, com o id que a linha do recorte do topo usa, e a
+// linha. As duas levam o fim do prazo, que separa prazos com o mesmo código (os dois da I Wanna Sleep). Os problemas
+// vão juntos, para a falha mostrar a caixa e a linha de uma vez.
+const limitedEnd = (endsAt: string) =>
+  new Date(endsAt).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', timeZone: 'America/Sao_Paulo' });
+function limitedCodeProblems(body: string, limited: readonly { code: string; discount: string; endsAt: string }[]): string[] {
+  const problems: string[] = [];
+  const check = (ok: boolean, message: string) => {
+    if (!ok) problems.push(message);
+  };
+  const boxes = elementsWithAttribute(body, 'data-limited-code');
+  check(boxes.length === limited.length, `${boxes.length} caixas de código com prazo no HTML; o prazo na hora do build pede ${limited.length}`);
+  check(
+    body.split(' id="codigo-com-prazo"').length - 1 === limited.length,
+    'o id da caixa do código com prazo (codigo-com-prazo) não sai uma vez por caixa'
+  );
+  const topCutoutAt = body.indexOf('<section id="cupom"');
+  check(topCutoutAt >= 0, 'sem o recorte do topo (id="cupom")');
+  const pointers = topCutoutAt >= 0 ? elementsWithAttribute(elementAt(body, topCutoutAt), 'data-limited-code-pointer') : [];
+  check(
+    pointers.length === limited.length,
+    `${pointers.length} linhas do código com prazo no recorte do topo; o prazo na hora do build pede ${limited.length}`
+  );
+  limited.forEach((item, index) => {
+    const end = limitedEnd(item.endsAt);
+    const box = boxes[index] ?? '';
+    check(box.includes(` data-limited-code="${item.code}"`), `a caixa ${index + 1} de código com prazo não é a do ${item.code}`);
+    check(textOf(box).includes(`Por tempo limitado: até ${end}`), `a caixa do ${item.code} sem o fim do prazo (${end})`);
+    const pointer = pointers[index] ?? '';
+    check(pointer.startsWith('<a ') && pointer.includes(' href="#codigo-com-prazo"'), `a linha do ${item.code} no recorte do topo não leva à caixa`);
+    check(
+      textOf(pointer).includes(`Até ${end}: ${item.discount} com o ${item.code}`),
+      `a linha do ${item.code} no recorte do topo sem o fim do prazo (${end})`
+    );
+  });
+  return problems;
+}
+// O guarda acima passa na página certa e na página sem prazo. Falha na página do prazo conferida depois do fim (a
+// caixa e a linha que sobram, como num build depois da virada), na página sem as duas durante o prazo, na caixa sem
+// o fim do prazo e na linha que não leva à caixa.
+{
+  const item = { code: 'PRAZOUM', discount: '15% OFF', endsAt: '2026-01-08T23:59:59-03:00' };
+  const box = '<article id="codigo-com-prazo" data-limited-code="PRAZOUM" class="recorte"><p>Por tempo limitado: até 8 de janeiro</p></article>';
+  const pointer = '<a href="#codigo-com-prazo" data-limited-code-pointer="PRAZOUM"><span>Até 8 de janeiro: <span>15% OFF</span> com o PRAZOUM</span></a>';
+  const page = (top: string, content: string) => `<section id="cupom" class="recorte"><code>CODIGO</code>${top}</section><div>${content}</div>`;
+  assert.deepEqual(limitedCodeProblems(page(pointer, box), [item]), [], 'código com prazo: a página certa barrada');
+  assert.deepEqual(limitedCodeProblems(page('', ''), []), [], 'código com prazo: a página sem prazo barrada');
+  const late = limitedCodeProblems(page(pointer, box), []);
+  assert.ok(
+    late.some((problem) => problem.includes(' caixas de código com prazo no HTML')) && late.some((problem) => problem.includes(' linhas do código com prazo no recorte')),
+    'código com prazo: a caixa e a linha que sobram depois do prazo passaram'
+  );
+  assert.notDeepEqual(limitedCodeProblems(page('', ''), [item]), [], 'código com prazo: a página sem a caixa e a linha passou');
+  assert.notDeepEqual(limitedCodeProblems(page(pointer, box.replace(': até 8 de janeiro', '')), [item]), [], 'código com prazo: a caixa sem o fim do prazo passou');
+  assert.notDeepEqual(limitedCodeProblems(page(pointer.replace('#codigo-com-prazo', '#cupom'), box), [item]), [], 'código com prazo: a linha que não leva à caixa passou');
+}
+
 let couponMotionPages = 0;
 let storeCutouts = 0;
 let referralPages = 0;
@@ -2596,35 +2662,10 @@ for (const { pagePath, store } of couponStorePages) {
   // Os "Outros cupons" só existem em português (CouponStorePage).
   const others = pagePath.startsWith('/cupons/') ? getOtherActiveCoupons(store.slug) : [];
   const copyable = hasCopyCode(store);
-  // O código com prazo que já começou sai no HTML, só em português e só em loja sem faixas: a caixa, com o id que a
-  // linha do recorte do topo usa, e a linha. As duas levam o fim do prazo, que separa prazos com o mesmo código
-  // (os dois da I Wanna Sleep).
-  const limited = pagePath.startsWith('/cupons/') && copyable ? getPendingLimitedCodes(store).filter((item) => item.inHtml) : [];
-  const limitedEnd = (endsAt: string) =>
-    new Date(endsAt).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', timeZone: 'America/Sao_Paulo' });
-  const limitedBoxes = elementsWithAttribute(body, 'data-limited-code');
-  assert.equal(limitedBoxes.length, limited.length, `${pagePath}: ${limitedBoxes.length} caixas de código com prazo no HTML; o prazo de hoje pede ${limited.length}`);
-  assert.equal(
-    body.split(' id="codigo-com-prazo"').length - 1,
-    limited.length,
-    `${pagePath}: o id da caixa do código com prazo (codigo-com-prazo) não sai uma vez por caixa`
-  );
-  const topCutoutAt = body.indexOf('<section id="cupom"');
-  assert.ok(topCutoutAt >= 0, `${pagePath}: sem o recorte do topo (id="cupom")`);
-  const pointers = elementsWithAttribute(elementAt(body, topCutoutAt), 'data-limited-code-pointer');
-  assert.equal(pointers.length, limited.length, `${pagePath}: ${pointers.length} linhas do código com prazo no recorte do topo; o prazo de hoje pede ${limited.length}`);
-  limited.forEach((item, index) => {
-    const end = limitedEnd(item.endsAt);
-    const box = limitedBoxes[index];
-    assert.ok(box.includes(` data-limited-code="${item.code}"`), `${pagePath}: a caixa ${index + 1} de código com prazo não é a do ${item.code}`);
-    assert.ok(textOf(box).includes(`Por tempo limitado: até ${end}`), `${pagePath}: a caixa do ${item.code} sem o fim do prazo de hoje (${end})`);
-    const pointer = pointers[index];
-    assert.ok(pointer.startsWith('<a ') && pointer.includes(' href="#codigo-com-prazo"'), `${pagePath}: a linha do ${item.code} no recorte do topo não leva à caixa`);
-    assert.ok(
-      textOf(pointer).includes(`Até ${end}: ${item.discount} com o ${item.code}`),
-      `${pagePath}: a linha do ${item.code} no recorte do topo sem o fim do prazo de hoje (${end})`
-    );
-  });
+  // O código com prazo sai no HTML só em português e só em loja sem faixas, pela hora em que o build gerou a página.
+  const limited =
+    pagePath.startsWith('/cupons/') && copyable ? getPendingLimitedCodes(store, builtAt(pagePath).getTime()).filter((item) => item.inHtml) : [];
+  assert.deepEqual(limitedCodeProblems(body, limited), [], `${pagePath}: código com prazo`);
   const expected = {
     total: Number(copyable) + Number(Boolean(store.referral)) + others.filter(hasCopyCode).length + limited.length,
     withScissors: Number(copyable),
@@ -2857,7 +2898,7 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
     }
     check(nodes.includes(shownDiscount), `painel ${tab.slug}: sem a oferta "${shownDiscount}"`);
     const deadlines = panel.match(/\sdata-limited-code-deadline=""/g) ?? [];
-    check(deadlines.length === (live ? 1 : 0), `painel ${tab.slug}: ${deadlines.length} avisos de prazo no recorte; o prazo de hoje pede ${live ? 1 : 0}`);
+    check(deadlines.length === (live ? 1 : 0), `painel ${tab.slug}: ${deadlines.length} avisos de prazo no recorte; o prazo na hora do build pede ${live ? 1 : 0}`);
     if (live) {
       check(nodes.includes(live.deadline), `painel ${tab.slug}: sem "${live.deadline}"`);
       check(!tab.code || !nodes.includes(tab.code), `painel ${tab.slug}: o código de sempre (${tab.code}) junto do código com prazo`);
@@ -2975,11 +3016,12 @@ function homeProblems(body: string, expected: HomeExpectations): string[] {
 const homeFile = builtFile(`${SITE_URL}/`);
 assert.ok(homeFile, '/: página não gerada no build');
 const homeBody = bodyOf(read(homeFile));
+// O código com prazo da vitrine e a faixa da data valem pela hora em que a página foi gerada, não pela de agora.
+const homeBuiltAt = fs.statSync(homeFile).mtime;
 const homeExpected: HomeExpectations = {
-  tabs: getHomeStoreTabs(publishedReviews),
+  tabs: getHomeStoreTabs(publishedReviews, getActiveCoupons(), homeBuiltAt.getTime()),
   latest: getHomeLatest(publishedReviews),
-  // A faixa da data vale pela hora em que a página foi gerada, não pela de agora.
-  hasEvent: resolveActiveHomeEvent(homeEventsConfig, publishedReviews, fs.statSync(homeFile).mtime) !== null,
+  hasEvent: resolveActiveHomeEvent(homeEventsConfig, publishedReviews, homeBuiltAt) !== null,
   recipeCount: recipes.length,
 };
 // Com a DAMIE ativa, a aba dela leva à página de cupom, não ao subdomínio (Bruno, 08/10).

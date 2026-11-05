@@ -6,10 +6,10 @@ parceiro: "[[SHEIN]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Tamanho"
-status: "pronto-para-deploy"
+status: "publicado"
 responsavel: "Fable 5.1 (Job 2) e Claude (Jobs 3 a 6)"
-proxima_acao: "Merge do PR #564 (auto-merge) e deploy quando o Bruno decidir; depois smoke das 10 URLs, IndexNow e status publicado"
-bloqueado_por: "Bruno: decisão de deploy"
+proxima_acao: "medir no GSC por volta de 18/11 (impressões, posição e consultas)"
+bloqueado_por: "-"
 data_criacao: "2026-10-30"
 pauta: "SH-3 do molde moda-casa (30/10/2026), aprovada pelo Bruno em 30/10"
 i18n_cluster: "shein (família própria, 10 idiomas)"
@@ -362,3 +362,6 @@ Caíram na verificação:
 - "Taille" sozinho para a cintura, no "Como medir" em fr (a definição logo depois desfaz a dúvida);
 - "상품에 따라 있습니다" em ko (o sentido está certo);
 - os nomes do rastreio, diferentes dos do outro artigo em ko, zh-hant e zh-hans.
+
+## Publicação (04/11/2026)
+- No ar em 04/11/2026: PR #564, release `0863ea63` (build 01a1a8b8), ids 804–813, nos 10 idiomas. Smoke das 20 URLs das duas famílias (o resultado está na nota do [[shein-vale-a-pena]]), com os dois links das camisetas como sponsored nos 10 idiomas; IndexNow com as 74 URLs do release; captura 41927781548 verde.

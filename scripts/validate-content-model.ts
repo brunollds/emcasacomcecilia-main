@@ -2,14 +2,16 @@
 // Executa normalizeRecipe() e normalizeReview() em todos os registros de
 // src/lib/data.ts e reporta inconsistências.
 
-import { recipes, reviews } from '@/lib/data';
+import { publishedReviews, recipes, reviews } from '@/lib/data';
 import {
   isListedInPortuguese,
   isReviewCategory,
   isValidReviewPublishedAtISO,
 } from '@/lib/reviewDiscovery';
+import { resolveRelatedArticleLinks } from '@/lib/review-template-props';
 import {
   formatQuantity,
+  getReviewCanonicalPathname,
   inferReviewKind,
   resolveReviewLocale,
   isValidTranslationKey,
@@ -150,6 +152,67 @@ function getDecisionProblems(decision: unknown, kind: ReviewKind): string[] {
   expectProblems({ ...ok, skipIf: ['Custa R$ 299,90.'] }, 'guia', 1, 'preço');
   expectProblems({ ...ok, takeIf: ['Leia o [guia](/reviews/x).'] }, 'guia', 1, 'markdown');
   expectProblems({ leveSe: ['a'], ...ok }, 'guia', 1, 'campo fora do formato');
+}
+
+// Os relacionados da sidebar e da gaveta do celular saem do resolveRelatedArticleLinks. Item sem { slug, title } vira
+// um link para /reviews/undefined, só com a seta, e slug que não é artigo publicado no idioma do artigo dá 404 ou leva
+// a outro idioma. Até 11/2026 os 4 artigos da Belive traziam só os slugs, e o do sofá DAMIE, dois slugs que não existem.
+type RelatedArticleSource = { slug: string; locale?: string; relatedArticles?: unknown };
+
+function isArticleRef(item: unknown): item is { slug: string; title: string } {
+  if (typeof item !== 'object' || item === null) return false;
+  const { slug, title } = item as Record<string, unknown>;
+  return typeof slug === 'string' && slug.trim() !== '' && typeof title === 'string' && title.trim() !== '';
+}
+
+function getRelatedArticleProblems(review: RelatedArticleSource, corpus: Array<{ slug: string; locale?: string }>): string[] {
+  const related = review.relatedArticles;
+  if (related === undefined) return [];
+  if (!Array.isArray(related)) return ['relatedArticles não é uma lista'];
+  const locale = resolveReviewLocale(review.locale);
+  const sameLocalePaths = new Set(
+    corpus.filter((item) => resolveReviewLocale(item.locale) === locale).map((item) => getReviewCanonicalPathname(item))
+  );
+  const problems: string[] = [];
+  related.forEach((item, index) => {
+    if (!isArticleRef(item)) {
+      problems.push(`item ${index + 1} de relatedArticles fora do formato { "slug", "title" }: ${JSON.stringify(item)}`);
+      return;
+    }
+    try {
+      const [{ href }] = resolveRelatedArticleLinks({ slug: review.slug, locale: review.locale, relatedArticles: [item] }, corpus);
+      if (!sameLocalePaths.has(href)) {
+        problems.push(`relatedArticles com "${item.slug}", que leva a ${href}: não é artigo publicado em ${locale}`);
+      }
+    } catch (error) {
+      problems.push(error instanceof Error ? error.message : String(error));
+    }
+  });
+  return problems;
+}
+
+{
+  const report = (message: string) => reportError({ type: 'review', id: -1, slug: '__related_articles__', message });
+  const corpus = [
+    { slug: 'guia' },
+    { slug: 'guide', locale: 'en' },
+    { slug: 'shared', locale: 'en' },
+    { slug: 'shared', locale: 'es' },
+    { slug: 'ambiguous', locale: 'es' },
+    { slug: 'ambiguous', locale: 'fr' },
+  ];
+  const expectProblems = (review: RelatedArticleSource, expected: number, label: string) => {
+    const problems = getRelatedArticleProblems(review, corpus);
+    if (problems.length !== expected) report(`${label}: ${problems.length} problemas (${problems.join('; ')}), esperado ${expected}`);
+  };
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia', title: 'Guia' }] }, 0, 'item certo');
+  expectProblems({ slug: 'origem', relatedArticles: ['guia'] }, 1, 'só o slug, sem objeto');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia', title: ' ' }] }, 1, 'sem title');
+  expectProblems({ slug: 'origem', relatedArticles: { slug: 'guia', title: 'Guia' } }, 1, 'objeto em vez de lista');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'nao-existe', title: 'Não existe' }] }, 1, 'slug que não existe');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guide', title: 'Guide' }] }, 1, 'artigo só em outro idioma');
+  expectProblems({ slug: 'origin', locale: 'en', relatedArticles: [{ slug: 'shared', title: 'Shared' }] }, 0, 'slug em dois idiomas, um deles o do artigo');
+  expectProblems({ slug: 'ursprung', locale: 'de', relatedArticles: [{ slug: 'ambiguous', title: 'Ambiguous' }] }, 1, 'slug ambíguo');
 }
 
 // Chave repetida no mesmo objeto: o JSON.parse guarda só a última, e a primeira nunca vai ao ar.
@@ -619,6 +682,13 @@ for (const duplicate of duplicateTranslationLocales) {
     slug: duplicate.translationKey,
     message: `translationKey duplicada no locale "${duplicate.locale}": ${duplicate.slugs.join(', ')}`,
   });
+}
+
+// Relacionados de todo artigo no ar. O rascunho não tem página: a regra vale quando ele sai do draft.
+for (const review of publishedReviews) {
+  for (const problem of getRelatedArticleProblems(review, publishedReviews)) {
+    reportError({ type: 'review', id: review.id, slug: review.slug, message: problem });
+  }
 }
 
 // ---------------------------------------------------------------------------

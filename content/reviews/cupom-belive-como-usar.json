@@ -44,9 +44,18 @@
   "affiliate": "belive",
   "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo MAUAD.",
   "relatedArticles": [
-    "belive-e-confiavel",
-    "belive-reclame-aqui-nota-reputacao",
-    "black-friday-belive"
+    {
+      "slug": "belive-e-confiavel",
+      "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+    },
+    {
+      "slug": "belive-reclame-aqui-nota-reputacao",
+      "title": "Belive no Reclame Aqui: nota e reputação"
+    },
+    {
+      "slug": "black-friday-belive",
+      "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+    }
   ],
   "contentSections": [
     {
