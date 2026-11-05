@@ -2536,6 +2536,102 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'holyfoods',
+    brand: 'HolyFoods',
+    officialUrl: 'https://holyfoods.com.br/',
+    offerUrl: 'https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz',
+    brandIcon: 'HF',
+    brandLogo: '/images/about/partners/holyfoods-icon.png',
+    brandLogoAlt: 'Marca HolyFoods',
+    brandWatermark: '/images/logos/watermarks/holyfoods.webp',
+    brandColor: '#005234',
+    code: 'EMCASA',
+    discount: '15% OFF',
+    discountNumber: 15,
+    category: 'Sopas, macarrões e risotos prontos',
+    hubCategory: 'alimentacao',
+    shortDescription: 'todo o site HolyFoods, inclusive nos produtos em promoção',
+    longDescription:
+      'O código da Cecília dá 15% OFF em todo o site da HolyFoods e soma com os preços já reduzidos da loja. Testado em 05/11/2026 num carrinho de sopas que já estavam em promoção.',
+    metaTitle: 'Cupom HolyFoods: 15% OFF com o código EMCASA (nov/2026)',
+    metaDescription:
+      'Cupom HolyFoods testado em 05/11/2026: use EMCASA e ganhe 15% OFF em sopas, macarrões, risotos e kits, somando com os produtos já em promoção.',
+    eligibleCategories: 'Todos os produtos do site oficial da HolyFoods, avulsos e kits',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping:
+      'Frete grátis a partir de um valor mínimo que muda conforme o estado; o carrinho mostra quanto falta para a sua região, e o prazo aparece no checkout',
+    combinable: 'Soma com as promoções do site, inclusive nos produtos que já estão com desconto, e vale com todas as formas de pagamento',
+    lastVerified: '2026-11-05',
+    testNote:
+      'Aplicamos o EMCASA num carrinho de R$ 69,79 com um Pack Sopa da Vovó e duas Sopas Detox, todos já com desconto da loja, e o cupom tirou R$ 10,47: o total caiu para R$ 59,32, os 15% inteiros sobre o preço promocional.',
+    codeInstructions: [
+      'Copie o código EMCASA no card acima.',
+      'Acesse o site oficial da HolyFoods pelo botão indicado e coloque os produtos no carrinho.',
+      'Na tela "Finalizar compra", clique em "Inserir cupom de desconto", cole o código no campo "Código do cupom" e clique em "Adicionar".',
+      'Confira a linha "Cupom de desconto" no resumo da compra antes de pagar.',
+    ],
+    aboutBrand:
+      'A HolyFoods é uma marca brasileira de refeições prontas para preparar em casa: sopas, macarrões, risotos, aveias, mel e kits, vendidos no site oficial, da Holy Group Ltda (CNPJ 50.874.415/0001-62). O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 15% OFF em todo o site e soma com os preços que já estão em promoção. A recomendação é conferir o resumo da compra antes de pagar.',
+    faqs: [
+      {
+        question: 'O cupom EMCASA vale para todos os produtos da HolyFoods?',
+        answer: 'Sim. O EMCASA dá 15% OFF em todo o site oficial da HolyFoods, nos produtos avulsos e nos kits.',
+      },
+      {
+        question: 'O cupom soma com os produtos em promoção?',
+        answer:
+          'Sim. No teste de 05/11/2026, os 15% entraram sobre sopas que já estavam com desconto da loja: R$ 69,79 viraram R$ 59,32.',
+      },
+      {
+        question: 'Onde coloco o cupom na HolyFoods?',
+        answer:
+          'Na tela "Finalizar compra", que abre depois do carrinho: clique em "Inserir cupom de desconto", cole o EMCASA no campo "Código do cupom" e clique em "Adicionar". O desconto aparece no resumo da compra.',
+      },
+      {
+        question: 'O site oficial da HolyFoods é holyfoods.com.br?',
+        answer:
+          'Sim. O site oficial é holyfoods.com.br, e o pagamento é feito em seguro.holyfoods.com.br, o checkout da própria loja. É lá que o EMCASA dá 15% OFF.',
+      },
+      {
+        question: 'O cupom EMCASA vale na primeira compra?',
+        answer: 'Sim. O EMCASA vale na primeira compra e também para quem já comprou na HolyFoods.',
+      },
+      {
+        question: 'A HolyFoods tem frete grátis?',
+        answer:
+          'Sim, a partir de um valor mínimo que muda conforme o estado. O carrinho mostra quanto falta para o frete grátis na sua região, e o prazo de entrega aparece no checkout.',
+      },
+      {
+        question: 'E se eu não gostar dos produtos?',
+        answer:
+          'Pela garantia da loja, você tem 30 dias depois de receber para pedir a devolução: pode provar uma unidade, e as outras voltam fechadas. A devolução é sem custo, com reembolso dos produtos devolvidos.',
+      },
+      {
+        question: 'O cupom EMCASA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 05/11/2026, o EMCASA aplicou os 15% no carrinho. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'O que fazer se o cupom EMCASA não funcionar?',
+        answer:
+          'Confira se o código foi colado no campo "Código do cupom" da tela "Finalizar compra", sem espaços, e se você clicou em "Adicionar". O campo "Cartão-presente" não aceita cupons. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Vale também nos produtos em promoção e nos kits',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     brand: 'Hostinger',
     officialUrl: 'https://www.hostinger.com/',
