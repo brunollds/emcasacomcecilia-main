@@ -208,3 +208,17 @@ Nada foi editado. Propostas para o Bruno aprovar:
 - **Perfis:** quem já compra pasta de amendoim na Dr. Peanut e quer o whey na mesma compra; quem compra na Max e já tem a conta lá; quem não pode ter glúten ou lactose não compra nenhum dos dois.
 - **Conta própria:** pote de 900 g, 450 g de proteína, o preço do pote dividido pela proteína, com e sem 10%. O leitor refaz a conta com o preço do dia.
 - **Armadilha:** comparar só o preço sem cupom, e não ver o total com o cupom para o frete (o total pode cair abaixo do mínimo de frete grátis em outra região).
+
+---
+
+## Leitura no Chrome (05/11/2026, à tarde)
+
+Página `drpeanut.com.br/whey-dr-peanut/p`, aberta no Chrome do Bruno:
+
+- **Nome:** "100% Whey Dr. Peanut- Max Titanium Avelã 900g", vendido por Dr. Peanut. **Só o sabor Avelã e só o pote de 900 g** aparecem na página da Dr. Peanut (seletor de sabor e de peso com uma opção cada). Se a Max vende outros sabores, a comparação de sabores muda: conferir na Max antes da redação.
+- **Preço:** R$ 224,39, ou 4x de R$ 56,09 sem juros. O mesmo valor da Max lido de manhã. A página não mostra desconto no Pix (o 3% de 16/10 não aparece no topo; conferir no carrinho, junto com o teste do código).
+- **Frete:** grátis no Sul e Sudeste acima de R$ 149,90 e nas demais regiões acima de R$ 199,90 (faixa do topo).
+- **Tabela (imagem da página):** porção de 40 g (2 dosadores), cerca de 23 porções; 162 kcal, 13 g de carboidratos (8,5 g de açúcares totais, 0,1 g adicionados), 20 g de proteína, 3,1 g de gorduras totais (1 g saturada), 0,8 g de fibras, 112 mg de sódio. Leucina 2.019 mg, isoleucina 1.202 mg, valina 1.184 mg (a página fala em 4.405 mg de BCAA por porção). Indicado de 9 a 18 anos e acima de 19.
+- **Ingredientes:** WPC, amendoim torrado e granulado, cacau alcalino, sal, lecitina de soja, aromatizantes, corante caramelo IV, gomas xantana e guar, sucralose. **Alérgicos na Dr. Peanut: "CONTÉM AMENDOIM E DERIVADOS DE LEITE E SOJA. PODE CONTER TRIGO, CENTEIO, CEVADA, AVEIA, AMÊNDOA, AVELÃ, CASTANHA-DE-CAJU, CASTANHA-DO-PARÁ, MACADÂMIA, NOZES E OVO."** Contém glúten e lactose. A página da Max diz "PODE CONTER SOJA E OVO": as duas páginas divergem sobre a soja. O texto segue a embalagem e manda conferir o rótulo; não afirmar uma das duas como certa.
+- **Fotos da marca:** pote (`drpeanut.vteximg.com.br/arquivos/ids/155870/whey_avela.jpg`), foto de uso (155602) e a tabela (155603). Servem para o Job 6.
+- **Falta:** o teste do Bruno com os dois códigos e o Pix no carrinho.

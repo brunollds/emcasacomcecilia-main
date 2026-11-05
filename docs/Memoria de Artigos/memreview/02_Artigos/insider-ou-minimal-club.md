@@ -212,3 +212,23 @@ Rodada R4 aprovada na Fila (seção 3, bloco "Rodada de 05/11/2026"). Respostas 
 
 - `insider-vale-a-pena`: no parágrafo das camisetas masculinas (seção "O que a Insider vende"), uma frase com link para esta pauta, depois de publicada.
 - Nenhuma mudança nas guias de camiseta por causa desta pauta.
+
+---
+
+## Leitura no Chrome (05/11/2026, à tarde)
+
+Lido no Chrome do Bruno (Shopify das duas lojas):
+
+| Peça | Preço | Riscado | Composição | Observação |
+|---|---|---|---|---|
+| Insider Tech T-Shirt (`/products/tech-t-shirt`) | R$ 129 | R$ 169 | 92% TENCEL modal + 8% elastano (índigo: 62% modal, 30% viscose, 8% elastano) | Antiodor, garantia de 2 anos contra desbotamento |
+| Insider Core T-Shirt (`/products/core-t-shirt-masculino`) | R$ 179 | R$ 189 | 94% viscose + 6% elastano | "Maior gramatura", encorpada; **a página diz que o tamanho já considera 2 cm a mais no comprimento pelo encolhimento** (vale também para a R7) |
+| Minimal Club Camiseta Minimal (`/products/camiseta-masculina`) | R$ 169,90 | — | 93% algodão egípcio + 7% elastano | R$ 140,08 no Pix hoje (a base de 12/10 dizia R$ 164,80) |
+| Minimal Club Camiseta Minimal 2.0 (`/products/camiseta-minimal-2-0`) | R$ 169,90 | — | 93% algodão egípcio + 7% elastano | R$ 140,08 no Pix |
+| Minimal Club Tech Modal (`/products/tech-modal`) | R$ 109,90 | — | 91% modal + 9% elastano | R$ 90,61 no Pix |
+
+- O handle da Tech da Insider é `tech-t-shirt` (o `tech-t-shirt-masculino` do briefing dá 404).
+- A Minimal tem também "Camiseta Minimal Novas Cores" a R$ 129,90 e uma edição "Lucro Zero" a R$ 89,90 (cores vinho e areia).
+- O Pix da Minimal está bem abaixo da base de 12/10: pode ser campanha de Black. Pelo critério do Bruno (preço real, não promocional), a tabela usa o preço de cartão e o texto manda conferir o Pix no dia.
+- **Gramatura:** nenhuma das duas lojas publica o número em g/m² nessas páginas.
+- **Ainda é do Bruno:** qual Minimal comparar (a Tech Modal, que é o par direto da Tech, a Camiseta de algodão egípcio, ou as duas).
