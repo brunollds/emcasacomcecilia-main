@@ -1097,9 +1097,9 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. No último teste de checkout, em 31/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível, sobre os preços de Black Friday. A data do teste mais recente aparece no topo desta página.',
       },
       {
-        question: 'O cupom vale na primeira compra na Insider?',
+        question: 'O cupom Insider vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
-          'Sim. O EMCASACOMCECILIA vale para clientes novos e antigos, sem cadastro prévio. Como a loja aceita um cupom por pedido, ele não soma com o cupom de boas-vindas da própria Insider.',
+          'Vale, e o desconto é o mesmo: o cupom de boas-vindas da Insider, liberado na primeira compra para quem cadastra o e-mail no site, também é de 15%. Como a loja aceita um cupom por pedido, os dois não somam. A diferença é que o EMCASACOMCECILIA não pede cadastro e vale também para quem já comprou.',
       },
       {
         question: 'Posso usar o cupom junto com outro cupom?',
@@ -1391,7 +1391,7 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. No teste de 26/10/2026, o cupom deu os 10% também na creatina que já estava com preço promocional.',
       },
       {
-        question: 'O cupom PRO10EMCASACOMCECILIA vale na primeira compra na Probiótica?',
+        question: 'O cupom Probiótica vale na primeira compra?',
         answer:
           'Sim. O PRO10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
       },
@@ -1484,7 +1484,7 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto não depende do meio escolhido.',
       },
       {
-        question: 'O cupom MAX10EMCASACOMCECILIA vale na primeira compra na Max Titanium?',
+        question: 'O cupom Max Titanium vale na primeira compra?',
         answer: 'Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
       },
       {
@@ -2060,9 +2060,9 @@ const STORE_COUPONS: Coupon[] = [
           'Não. O crédito do cashback chega por e-mail como um código para o campo de cupom, e a Mais Mu não acumula cupons no mesmo pedido. O crédito vale 90 dias e pede um pedido mínimo a partir de R$ 200.',
       },
       {
-        question: 'O cupom MMEMCASACOMCECILIA vale na primeira compra na Mais Mu?',
+        question: 'O cupom Mais Mu vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
-          'Sim. Ele vale na primeira compra e também para quem já comprou na loja. Como a Mais Mu não acumula cupons, ele substitui o desconto de boas-vindas da loja, de R$ 15 em compras acima de R$ 250.',
+          'Vale, e o desconto é o mesmo: quem assina a newsletter da Mais Mu ganha 10% na primeira compra, o mesmo do MMEMCASACOMCECILIA. Como a loja não acumula cupons, os dois não somam. A diferença é que o MMEMCASACOMCECILIA não pede cadastro e vale também para quem já comprou.',
       },
       {
         question: 'O MMEMCASACOMCECILIA é cupom de influenciadora?',
@@ -2291,9 +2291,9 @@ const STORE_COUPONS: Coupon[] = [
           'Não. A promoção da 2ª peça funciona com outro cupom da loja, que não acumula com outros cupons. Levando duas peças de preço parecido, os 50% na mais barata costumam render mais que os 10%; levando uma, fique com o CECILIA10.',
       },
       {
-        question: 'O cupom CECILIA10 vale na primeira compra na Bagaggio?',
+        question: 'O cupom Bagaggio vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
-          'Sim. O CECILIA10 dá 10% OFF já na primeira compra e também para quem já comprou na loja. Como a Bagaggio não acumula cupons no mesmo pedido, ele não soma com um cupom de boas-vindas da própria loja.',
+          'Vale, e rende mais: o desconto de primeira compra da própria Bagaggio é de 5%, e o CECILIA10 dá 10% OFF, também para quem já comprou na loja. Como a Bagaggio não acumula cupons no mesmo pedido, os dois não somam: na primeira compra, fique com o CECILIA10.',
       },
       {
         question: 'O CECILIA10 é cupom de influenciadora?',
