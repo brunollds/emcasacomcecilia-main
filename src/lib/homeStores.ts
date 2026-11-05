@@ -74,8 +74,8 @@ export function getStoreArticlesPath(slug: string): string {
 
 // Os códigos com prazo que ainda não venceram, com o texto do prazo pronto: o componente da vitrine é cliente e não
 // importa couponsData.
-function getHomeLimitedCodes(store: Coupon): HomeLimitedCode[] {
-  return getPendingLimitedCodes(store).map(({ code, discount, startsAt, endsAt, inHtml }) => ({
+function getHomeLimitedCodes(store: Coupon, now: number): HomeLimitedCode[] {
+  return getPendingLimitedCodes(store, now).map(({ code, discount, startsAt, endsAt, inHtml }) => ({
     code,
     discount,
     startsAt,
@@ -85,9 +85,12 @@ function getHomeLimitedCodes(store: Coupon): HomeLimitedCode[] {
   }));
 }
 
+// `now` decide os códigos com prazo: a página usa a hora em que é gerada (no build e no ISR), e os testes passam a hora
+// do build ou uma data fixa.
 export function getHomeStoreTabs(
   reviews: readonly StoreReview[],
-  stores: readonly Coupon[] = getActiveCoupons()
+  stores: readonly Coupon[] = getActiveCoupons(),
+  now = Date.now()
 ): HomeStoreTab[] {
   const listed = listedNewestFirst(reviews);
   const copy = getSidebarCopy('pt');
@@ -96,7 +99,7 @@ export function getHomeStoreTabs(
     const code = getStoreCode(store);
     const kind = getStoreCodeKind(store, code);
     const articles = articlesOfStore(listed, store.slug);
-    const limitedCodes = getHomeLimitedCodes(store);
+    const limitedCodes = getHomeLimitedCodes(store, now);
 
     return {
       slug: store.slug,

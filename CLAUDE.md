@@ -330,7 +330,9 @@ vídeo, primeiras impressões e uso noturno.
   ou mais (avançar o `verifiedAt`; o aviso não derruba o build). Campanha
   que só vale com o código da loja leva ao nosso artigo sobre ela (`href` `/reviews/<slug>` da mesma loja, com
   `endsAt`), link interno sem sponsored e fora do próprio artigo. O `test:build-output` confere o lugar, o link, o
-  `rel` e os textos em todo artigo.
+  `rel` e os textos em todo artigo. Ele confere as campanhas e os códigos com prazo (da página da loja e da vitrine da
+  home) pela hora em que o build gerou cada página, o mtime do HTML, e não pela hora do teste: o build que cruza o
+  início ou o fim de um prazo não quebra.
   A campanha pode levar o `code` da própria loja (o 37S3442 da SHEIN), nunca o nosso: o banner o mostra com a frase de
   pesquisar no app (`bannerCodeHint`, `articleCopy.ts`). As mesmas campanhas vão à página da loja (`StorePageBanners`,
   de `src/components/coupons/`, por `getStorePageBanners`): em `/cupons/<loja>`, nas traduzidas e nas 10 da YesStyle,
