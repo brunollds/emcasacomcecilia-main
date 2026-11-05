@@ -10,13 +10,11 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| R2 | Whey Max Titanium x Dr. Peanut: sabores e onde sai mais barato | Dr. Peanut e Max | PT | [[whey-dr-peanut-max-titanium]] | Redigido e no Job 3 em 05/11 (PR R2+R3); os dois códigos funcionam no whey. Falta o deploy |
-| R3 | Fita Up ou Blumi (ou Lib)? | Toda Up | PT | [[fita-up-ou-blumi-ou-lib]] | Redigido e no Job 3 em 05/11 (PR R2+R3). Falta o deploy |
 | R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Decidido 05/11: as duas Minimal (Tech Modal × Tech, Camiseta × Core); Chrome lido. Falta a redação |
 | R5 | Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey | Max Titanium | PT | [[whey-max-titanium-qual-escolher]] | Decidido 05/11: o Super Whey entra. Falta o teste do código no whey |
 | R6 | Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hiper) | Probiótica | PT | [[whey-probiotica-qual-escolher]] | Teste do código no whey; o Iso Protein Blend tem soja e não é whey |
 | R7 | Camiseta Insider encolhe? Como lavar, mancha e odor, com o short da Cecília | Insider | PT | [[camiseta-insider-encolhe-como-lavar]] | As 9 perguntas do briefing sobre o vídeo (peça, mancha, método, cheiro, uso). Encolher não foi testado |
-| DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | Escrito, revisado (Job 3, Fable), capa aprovada e mídia no CDN em 05/11; id 831 na main, falta o deploy. Sai daqui quando for ao ar |
+| DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | No ar em 05/11 (release 400c60ff). DN2–DN4 depois |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação, depois da DN1 |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação, depois da DN1 |
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
