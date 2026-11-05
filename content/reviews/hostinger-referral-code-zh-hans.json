@@ -112,16 +112,13 @@
   "editorialNote": "通过 SONAR20 代码或链接购买，Bruno 可能获得佣金，你不需要多付任何费用。本站跑在 Hostinger 上。",
   "relatedArticles": [
     {
-      "slug": "hostinger-trust-guide-zh-hans",
-      "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      "slug": "hostinger-trust-guide-zh-hans"
     },
     {
-      "slug": "hostinger-trustpilot-reviews-zh-hans",
-      "title": "Hostinger 在 Trustpilot 的评分、投诉，以及 200 条评价说明了什么"
+      "slug": "hostinger-trustpilot-reviews-zh-hans"
     },
     {
-      "slug": "hostinger-black-friday-zh-hans",
-      "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
+      "slug": "hostinger-black-friday-zh-hans"
     }
   ]
 }

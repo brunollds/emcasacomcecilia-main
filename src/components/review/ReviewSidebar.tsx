@@ -31,7 +31,7 @@ interface ReviewSidebarProps {
   storeLabel?: string;
 }
 
-export type ResolvedRelatedArticle = NonNullable<Review['relatedArticles']>[number] & { href: string };
+export type ResolvedRelatedArticle = { slug: string; title: string; href: string };
 
 const BOX = 'rounded-2xl border-2 border-marinho bg-white p-4';
 

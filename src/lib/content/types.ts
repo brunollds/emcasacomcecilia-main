@@ -32,11 +32,9 @@ export interface PersonRef {
   avatar?: Image;
 }
 
+// Item de relatedArticles: só o slug. O texto do link é o título atual do artigo de destino (resolveRelatedArticleLinks).
 export interface ArticleRef {
   slug: string;
-  title: string;
-  category?: string;
-  coverImage?: Image;
 }
 
 // ---------------------------------------------------------------------------

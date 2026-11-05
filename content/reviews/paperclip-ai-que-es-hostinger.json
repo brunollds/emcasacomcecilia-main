@@ -203,16 +203,13 @@
   "editorialNote": "Las compras con el código SONAR20 o mediante el enlace pueden generar comisión para Bruno, sin costo extra para ti. Nadie del equipo usa Paperclip.",
   "relatedArticles": [
     {
-      "slug": "openclaw-o-hermes-agent",
-      "title": "OpenClaw o Hermes Agent: cuál elegir y cómo ejecutar cada uno en Hostinger"
+      "slug": "openclaw-o-hermes-agent"
     },
     {
-      "slug": "openclaw-hostinger-gestionado-o-vps",
-      "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién es"
+      "slug": "openclaw-hostinger-gestionado-o-vps"
     },
     {
-      "slug": "cupon-hostinger-codigo-de-referido",
-      "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+      "slug": "cupon-hostinger-codigo-de-referido"
     }
   ],
   "decision": {

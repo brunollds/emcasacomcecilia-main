@@ -256,16 +256,13 @@
   "editorialNote": "규정은 YesStyle 공식 페이지를 기준으로 합니다. 구매에 따라 수수료를 받을 수 있습니다.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-reward-code-cecilia010-ko",
-      "title": "YesStyle 리워드 코드 CECILIA010 사용법"
+      "slug": "yesstyle-reward-code-cecilia010-ko"
     },
     {
-      "slug": "yesstyle-valid-coupon-guide-ko",
-      "title": "유효한 YesStyle 쿠폰 코드 찾는 법"
+      "slug": "yesstyle-valid-coupon-guide-ko"
     },
     {
-      "slug": "yesstyle-trust-guide-ko",
-      "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+      "slug": "yesstyle-trust-guide-ko"
     }
   ]
 }

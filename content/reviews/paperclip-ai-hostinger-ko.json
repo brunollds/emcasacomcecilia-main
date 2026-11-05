@@ -202,16 +202,13 @@
   "editorialNote": "코드 SONAR20이나 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 추가 비용은 없습니다. 팀 중에 Paperclip을 쓰는 사람은 없습니다.",
   "relatedArticles": [
     {
-      "slug": "openclaw-vs-hermes-agent-ko",
-      "title": "OpenClaw 또는 Hermes Agent: 어떤 것을 고르고 호스팅어에서 각각 어떻게 돌릴까"
+      "slug": "openclaw-vs-hermes-agent-ko"
     },
     {
-      "slug": "openclaw-hostinger-managed-or-vps-ko",
-      "title": "호스팅어의 OpenClaw: 관리형인가 VPS인가? 방식별 필요한 작업, 맞는 사람"
+      "slug": "openclaw-hostinger-managed-or-vps-ko"
     },
     {
-      "slug": "hostinger-referral-code-ko",
-      "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+      "slug": "hostinger-referral-code-ko"
     }
   ],
   "hideFromPortugueseListings": true,

@@ -261,16 +261,13 @@
   "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。追加の費用はかかりません。チームの誰も OpenClaw や Hermes Agent は使っていません。",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-ja",
-      "title": "Hostinger の OpenClaw：マネージドか VPS か？それぞれに必要なことと、向いている人"
+      "slug": "openclaw-hostinger-managed-or-vps-ja"
     },
     {
-      "slug": "best-vps-for-openclaw-ja",
-      "title": "OpenClaw に最適な VPS：必要な条件と選ぶべき KVM プラン"
+      "slug": "best-vps-for-openclaw-ja"
     },
     {
-      "slug": "paperclip-ai-hostinger-ja",
-      "title": "Paperclip AI とは：信頼できるか、Hostinger で運用する方法"
+      "slug": "paperclip-ai-hostinger-ja"
     }
   ],
   "decision": {

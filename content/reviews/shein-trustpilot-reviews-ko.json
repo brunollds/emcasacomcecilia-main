@@ -167,12 +167,10 @@
   "editorialNote": "Trustpilot의 공개 데이터이며 시간이 지나면 바뀝니다. SHEIN 구매 시 수수료를 받을 수 있습니다.",
   "relatedArticles": [
     {
-      "slug": "shein-trust-guide-ko",
-      "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+      "slug": "shein-trust-guide-ko"
     },
     {
-      "slug": "shein-vs-temu-vs-ali-ko",
-      "title": "SHEIN(쉬인) vs 테무: 어떻게 고를까? 배송비, 반품 기한과 구매 전 확인할 것"
+      "slug": "shein-vs-temu-vs-ali-ko"
     }
   ]
 }

@@ -248,16 +248,13 @@
   "editorialNote": "YesStyle에서 제품을 보내 주었어요. 이 사이트는 링크와 Reward Code CECILIA010로 수수료를 받아요.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-kbeauty-guide-ko",
-      "title": "K-뷰티가 세계를 사로잡은 이유와 한국 브랜드 구매처 찾기"
+      "slug": "yesstyle-kbeauty-guide-ko"
     },
     {
-      "slug": "yesstyle-trust-guide-ko",
-      "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+      "slug": "yesstyle-trust-guide-ko"
     },
     {
-      "slug": "yesstyle-valid-coupon-guide-ko",
-      "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드"
+      "slug": "yesstyle-valid-coupon-guide-ko"
     }
   ]
 }

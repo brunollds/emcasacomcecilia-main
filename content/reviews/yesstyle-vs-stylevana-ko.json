@@ -217,20 +217,16 @@
   "editorialNote": "YesStyle에서 수수료를 받을 수 있습니다. 다른 쇼핑몰은 직접 테스트하지 않았으며, 각 쇼핑몰의 규정은 공식 페이지를 따랐습니다.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-vs-olive-young-ko",
-      "title": "YesStyle vs Olive Young Global: 한국 배송, 관세, 반품 비교"
+      "slug": "yesstyle-vs-olive-young-ko"
     },
     {
-      "slug": "yesstyle-shipping-korea-ko",
-      "title": "YesStyle 한국 배송: 배송 기간, 배송비, 관세"
+      "slug": "yesstyle-shipping-korea-ko"
     },
     {
-      "slug": "yesstyle-trust-guide-ko",
-      "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+      "slug": "yesstyle-trust-guide-ko"
     },
     {
-      "slug": "yesstyle-reward-code-cecilia010-ko",
-      "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+      "slug": "yesstyle-reward-code-cecilia010-ko"
     }
   ],
   "updatedAt": "2026-10-21"

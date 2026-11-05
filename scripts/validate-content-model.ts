@@ -155,16 +155,21 @@ function getDecisionProblems(decision: unknown, kind: ReviewKind): string[] {
 }
 
 // Os relacionados da sidebar e da gaveta do celular saem do resolveRelatedArticleLinks, com o título atual do artigo de
-// destino. Item que é só o slug vira um link para /reviews/undefined, só com a seta, e slug que não é artigo publicado
-// no idioma do artigo dá 404 ou leva a outro idioma. Até 11/2026 os 4 artigos da Belive traziam só os slugs, e o do
-// sofá DAMIE, dois slugs que não existem.
+// destino, então o item é só { "slug" }: o title guardado no JSON ficava velho quando o destino mudava de título. Slug
+// solto, sem objeto, vira um link para /reviews/undefined, só com a seta, e slug que não é artigo publicado no idioma do
+// artigo dá 404 ou leva a outro idioma. Até 11/2026 os 4 artigos da Belive traziam só os slugs, e o do sofá DAMIE, dois
+// slugs que não existem.
 type RelatedArticleSource = { slug: string; locale?: string; relatedArticles?: unknown };
 type RelatedArticleTarget = { slug: string; locale?: string; title: string };
 
-function isArticleRef(item: unknown): item is { slug: string; title: string } {
-  if (typeof item !== 'object' || item === null) return false;
-  const { slug, title } = item as Record<string, unknown>;
-  return typeof slug === 'string' && slug.trim() !== '' && typeof title === 'string' && title.trim() !== '';
+function getRelatedItemProblem(item: unknown): string | undefined {
+  if (typeof item !== 'object' || item === null || Array.isArray(item)) return 'fora do formato { "slug" }';
+  const { slug, ...rest } = item as Record<string, unknown>;
+  if (typeof slug !== 'string' || slug.trim() === '') return 'sem slug';
+  const extra = Object.keys(rest);
+  if (extra.includes('title')) return 'com title: tire o campo, a caixa mostra o título atual do artigo de destino';
+  if (extra.length > 0) return `com campo fora do formato { "slug" }: ${extra.join(', ')}`;
+  return undefined;
 }
 
 function getRelatedArticleProblems(review: RelatedArticleSource, corpus: RelatedArticleTarget[]): string[] {
@@ -177,14 +182,16 @@ function getRelatedArticleProblems(review: RelatedArticleSource, corpus: Related
   );
   const problems: string[] = [];
   related.forEach((item, index) => {
-    if (!isArticleRef(item)) {
-      problems.push(`item ${index + 1} de relatedArticles fora do formato { "slug", "title" }: ${JSON.stringify(item)}`);
+    const problem = getRelatedItemProblem(item);
+    if (problem) {
+      problems.push(`item ${index + 1} de relatedArticles ${problem}: ${JSON.stringify(item)}`);
       return;
     }
+    const { slug } = item as { slug: string };
     try {
-      const [{ href }] = resolveRelatedArticleLinks({ slug: review.slug, locale: review.locale, relatedArticles: [item] }, corpus);
+      const [{ href }] = resolveRelatedArticleLinks({ slug: review.slug, locale: review.locale, relatedArticles: [{ slug }] }, corpus);
       if (!sameLocalePaths.has(href)) {
-        problems.push(`relatedArticles com "${item.slug}", que leva a ${href}: não é artigo publicado em ${locale}`);
+        problems.push(`relatedArticles com "${slug}", que leva a ${href}: não é artigo publicado em ${locale}`);
       }
     } catch (error) {
       problems.push(error instanceof Error ? error.message : String(error));
@@ -207,14 +214,16 @@ function getRelatedArticleProblems(review: RelatedArticleSource, corpus: Related
     const problems = getRelatedArticleProblems(review, corpus);
     if (problems.length !== expected) report(`${label}: ${problems.length} problemas (${problems.join('; ')}), esperado ${expected}`);
   };
-  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia', title: 'Guia' }] }, 0, 'item certo');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia' }] }, 0, 'item certo');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia', title: 'Guia' }] }, 1, 'com title');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia', category: 'cupons-como-usar' }] }, 1, 'com outro campo');
   expectProblems({ slug: 'origem', relatedArticles: ['guia'] }, 1, 'só o slug, sem objeto');
-  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia', title: ' ' }] }, 1, 'sem title');
-  expectProblems({ slug: 'origem', relatedArticles: { slug: 'guia', title: 'Guia' } }, 1, 'objeto em vez de lista');
-  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'nao-existe', title: 'Não existe' }] }, 1, 'slug que não existe');
-  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guide', title: 'Guide' }] }, 1, 'artigo só em outro idioma');
-  expectProblems({ slug: 'origin', locale: 'en', relatedArticles: [{ slug: 'shared', title: 'Shared' }] }, 0, 'slug em dois idiomas, um deles o do artigo');
-  expectProblems({ slug: 'ursprung', locale: 'de', relatedArticles: [{ slug: 'ambiguous', title: 'Ambiguous' }] }, 1, 'slug ambíguo');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: ' ' }] }, 1, 'slug vazio');
+  expectProblems({ slug: 'origem', relatedArticles: { slug: 'guia' } }, 1, 'objeto em vez de lista');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'nao-existe' }] }, 1, 'slug que não existe');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guide' }] }, 1, 'artigo só em outro idioma');
+  expectProblems({ slug: 'origin', locale: 'en', relatedArticles: [{ slug: 'shared' }] }, 0, 'slug em dois idiomas, um deles o do artigo');
+  expectProblems({ slug: 'ursprung', locale: 'de', relatedArticles: [{ slug: 'ambiguous' }] }, 1, 'slug ambíguo');
 }
 
 // Chave repetida no mesmo objeto: o JSON.parse guarda só a última, e a primeira nunca vai ao ar.

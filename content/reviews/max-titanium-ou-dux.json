@@ -440,16 +440,13 @@
   "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Dux não é parceira. Não provamos os produtos.",
   "relatedArticles": [
     {
-      "slug": "max-titanium-ou-growth",
-      "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+      "slug": "max-titanium-ou-growth"
     },
     {
-      "slug": "max-titanium-ou-probiotica",
-      "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      "slug": "max-titanium-ou-probiotica"
     },
     {
-      "slug": "black-skull-ou-max-titanium",
-      "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      "slug": "black-skull-ou-max-titanium"
     }
   ]
 }

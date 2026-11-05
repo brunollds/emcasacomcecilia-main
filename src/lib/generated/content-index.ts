@@ -28899,16 +28899,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Baseado no nosso uso. O CECILIA12 é parceria com a Damie e pode render comissão.",
     "relatedArticles": [
       {
-        "slug": "sofa-damie-modular-vale-a-pena",
-        "title": "Sofá Modular Damie: Vale a pena?"
+        "slug": "sofa-damie-modular-vale-a-pena"
       },
       {
-        "slug": "damie-reclame-aqui-o-que-os-dados-mostram",
-        "title": "Damie no Reclame Aqui: O que os dados mostram?"
+        "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
       },
       {
-        "slug": "cupom-cecilia12-como-usar",
-        "title": "Cupom CECILIA12 na Damie: Como usar?"
+        "slug": "cupom-cecilia12-como-usar"
       }
     ],
     "contentSections": [
@@ -29215,16 +29212,13 @@ export const reviewsData: unknown[] = [
     "affiliate": "damie",
     "relatedArticles": [
       {
-        "slug": "cupom-cecilia12-como-usar",
-        "title": "Cupom Damie CECILIA12: como usar o desconto da Cecília"
+        "slug": "cupom-cecilia12-como-usar"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "valley-inflow-ou-damie",
-        "title": "Valley Modular, Inflow ou DAMIE: qual a diferença e qual escolher"
+        "slug": "valley-inflow-ou-damie"
       }
     ],
     "editorialNote": "Review com link afiliado: comissão sem custo extra para você."
@@ -29595,8 +29589,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Contém links de afiliado: podemos receber comissão pela YesStyle e pelo CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "codigo-cecilia010-yesstyle-como-usar",
-        "title": "YesStyle CECILIA010: Código de Recompensa"
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ],
     "contentSections": [
@@ -33946,12 +33939,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Parceria com a Dolce Gusto: comissão pelo cupom CECI. Guia feito das regras públicas do Clube.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
-        "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis (como funciona)"
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
       }
     ]
   },
@@ -34311,20 +34302,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão da Dolce Gusto. Dados das páginas oficiais da loja.",
     "relatedArticles": [
       {
-        "slug": "quanto-custa-capsula-dolce-gusto",
-        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+        "slug": "quanto-custa-capsula-dolce-gusto"
       },
       {
-        "slug": "dolce-gusto-capsulas-compativeis-guia",
-        "title": "Cápsulas Compatíveis com Dolce Gusto: O Que Serve na Sua Máquina"
+        "slug": "dolce-gusto-capsulas-compativeis-guia"
       },
       {
-        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-        "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       }
     ]
   },
@@ -34732,16 +34719,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da loja oficial.",
     "relatedArticles": [
       {
-        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
-        "title": "Genio S Basic, Plus ou Touch: qual vale mais a pena?"
+        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch"
       },
       {
-        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
-        "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real"
+        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena"
       },
       {
-        "slug": "black-friday-dolce-gusto",
-        "title": "Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI"
+        "slug": "black-friday-dolce-gusto"
       }
     ]
   },
@@ -34861,16 +34845,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Parceria comercial: podemos receber comissão pelo cupom CECI. Dados públicos da marca.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "clube-dolce-gusto-como-funciona",
-        "title": "Clube Dolce Gusto: pontos e prêmios"
+        "slug": "clube-dolce-gusto-como-funciona"
       },
       {
-        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
-        "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis (como funciona)"
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
       }
     ],
     "imageAspect": "square"
@@ -35049,12 +35030,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Análise com dados públicos do site oficial. O cupom CECIEMCASA é parceria e pode render comissão.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-        "title": "Cobertor IWS Igloo: ficha técnica, preço e como comprar"
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
       }
     ],
     "publishedAtISO": "2026-08-14",
@@ -35167,12 +35146,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artigo apresenta dados técnicos e de preço baseados em informações públicas do site oficial da I Wanna Sleep. Não foi realizada nenhuma avaliação pessoal do produto, pois o item ainda não foi recebido. O cupom CECIEMCASA é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "i-wanna-sleep-e-confiavel",
-        "title": "I Wanna Sleep é confiável? O que observar antes de comprar"
+        "slug": "i-wanna-sleep-e-confiavel"
       }
     ]
   },
@@ -35337,8 +35314,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Produto recebido em parceria; só primeiras impressões. O cupom pode render comissão.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       }
     ]
   },
@@ -35653,12 +35629,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Parceria comercial com a Nestlé Nutre. Dados do site oficial, sem teste próprio.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "nestle-nutre-produtos-para-que-servem",
-        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+        "slug": "nestle-nutre-produtos-para-que-servem"
       }
     ],
     "publishedAtISO": "2026-08-05",
@@ -36026,20 +36000,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só rótulos e páginas oficiais.",
     "relatedArticles": [
       {
-        "slug": "nutren-senior-ensure-ou-sustagen-senior",
-        "title": "Nutren Senior, Ensure ou Sustagen Senior: qual escolher pelo rótulo de cada um"
+        "slug": "nutren-senior-ensure-ou-sustagen-senior"
       },
       {
-        "slug": "nutren-just-protein-para-que-serve",
-        "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"
+        "slug": "nutren-just-protein-para-que-serve"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica"
       }
     ]
   },
@@ -36264,16 +36234,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artigo usa a ficha pública da Nestlé Health Science e menciona o cupom CECI por parceria comercial com a Nestlé Nutre. Não há experiência própria de uso do produto. Confira o rótulo e o desconto no checkout.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "nestle-nutre-e-confiavel",
-        "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+        "slug": "nestle-nutre-e-confiavel"
       },
       {
-        "slug": "nestle-nutre-produtos-para-que-servem",
-        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+        "slug": "nestle-nutre-produtos-para-que-servem"
       }
     ]
   },
@@ -36417,12 +36384,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom CECI é parceria comercial. Regras e preços vêm da loja oficial.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "clube-dolce-gusto-como-funciona",
-        "title": "Clube Dolce Gusto: pontos e prêmios"
+        "slug": "clube-dolce-gusto-como-funciona"
       }
     ]
   },
@@ -36823,12 +36788,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelas compras feitas na loja da Cecília, no programa de influenciadores do Magalu.",
     "relatedArticles": [
       {
-        "slug": "cupom-magalu-em-casa-com-cecilia",
-        "title": "Como usar o cupom Magalu da Cecília"
+        "slug": "cupom-magalu-em-casa-com-cecilia"
       },
       {
-        "slug": "black-friday-magalu",
-        "title": "Black Friday Magalu 2026: quando começa, geladeira e eletro vendidos pelo Magalu e qual código da Cecília usar"
+        "slug": "black-friday-magalu"
       }
     ]
   },
@@ -36944,16 +36907,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Primeiras impressões de uso em casa. O cupom CECI vem de parceria comercial com comissão.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "dolce-gusto-e-confiavel",
-        "title": "Dolce Gusto é confiável? O que observar antes de comprar"
+        "slug": "dolce-gusto-e-confiavel"
       },
       {
-        "slug": "clube-dolce-gusto-como-funciona",
-        "title": "Clube Dolce Gusto: pontos e prêmios"
+        "slug": "clube-dolce-gusto-como-funciona"
       }
     ],
     "contentSections": [
@@ -37176,8 +37136,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Contains affiliate links: we may earn a commission from YesStyle and from CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-coupon-cecilia010",
-        "title": "YesStyle Reward Code CECILIA010 (Guide)"
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
       }
     ],
     "contentSections": [
@@ -37399,8 +37358,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Contiene enlaces de afiliado: podemos recibir una comisión de YesStyle y por el uso de CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-        "title": "Código de recompensa YesStyle CECILIA010 (Guía)"
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       }
     ],
     "contentSections": [
@@ -37622,8 +37580,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Contient des liens d'affiliation : nous pouvons toucher une commission de YesStyle et sur l'utilisation de CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "code-recompense-yesstyle-cecilia010",
-        "title": "Code de récompense YesStyle CECILIA010 (Guide)"
+        "slug": "code-recompense-yesstyle-cecilia010"
       }
     ],
     "contentSections": [
@@ -37845,8 +37802,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Enthält Affiliate-Links: Wir können von YesStyle und über CECILIA010 eine Provision erhalten.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-rabatt-cecilia010",
-        "title": "YesStyle Belohnungscode CECILIA010 (Ratgeber)"
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
       }
     ],
     "contentSections": [
@@ -38068,8 +38024,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "제휴 링크가 포함되어 있습니다. YesStyle과 CECILIA010을 통한 구매로 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ko",
-        "title": "YesStyle 리워드 코드 CECILIA010 (가이드)"
+        "slug": "yesstyle-reward-code-cecilia010-ko"
       }
     ],
     "contentSections": [
@@ -38291,8 +38246,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "アフィリエイトリンクを含みます。YesStyleとCECILIA010を通じたご購入で、報酬を受け取る場合があります。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ja",
-        "title": "YesStyle リワードコード CECILIA010（ガイド）"
+        "slug": "yesstyle-reward-code-cecilia010-ja"
       }
     ],
     "contentSections": [
@@ -38514,8 +38468,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "含聯盟連結：透過 YesStyle 與 CECILIA010 購物，我們可能獲得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵碼 CECILIA010（指南）"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       }
     ],
     "contentSections": [
@@ -38737,8 +38690,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "含联盟链接：通过 YesStyle 和 CECILIA010 购物，我们可能获得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励码 CECILIA010（指南）"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       }
     ],
     "contentSections": [
@@ -39033,16 +38985,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compilação editorial dos manuais, sem tabela oficial. O CECI vem de parceria comercial.",
     "relatedArticles": [
       {
-        "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
-        "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+        "slug": "dolce-gusto-genio-s-touch-vale-a-pena"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "dolce-gusto-e-confiavel",
-        "title": "Dolce Gusto é confiável? O que observar antes de comprar"
+        "slug": "dolce-gusto-e-confiavel"
       }
     ],
     "image": "/images/reviews/dolcegusto/tabela-medidas-dolce-gusto-ml-por-nivel-capa-discover.webp",
@@ -39243,8 +39192,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Baseado em dados públicos. O código CECILIA010 vem de parceria comercial.",
     "relatedArticles": [
       {
-        "slug": "codigo-cecilia010-yesstyle-como-usar",
-        "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ],
     "locale": "pt",
@@ -39445,20 +39393,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com o regulamento oficial e um teste de checkout. Podemos receber comissão.",
     "relatedArticles": [
       {
-        "slug": "assinatura-dolce-gusto-vale-a-pena",
-        "title": "Assinatura Dolce Gusto vale a pena? Valor, cupom CECI e máquina grátis"
+        "slug": "assinatura-dolce-gusto-vale-a-pena"
       },
       {
-        "slug": "clube-dolce-gusto-como-funciona",
-        "title": "Clube Dolce Gusto: pontos e prêmios"
+        "slug": "clube-dolce-gusto-como-funciona"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "adaptador-neo-start-o-que-e",
-        "title": "Adaptador NEO Start: o que é e quando você precisa dele"
+        "slug": "adaptador-neo-start-o-que-e"
       }
     ]
   },
@@ -39663,16 +39607,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Guia com base no site e no manual oficiais. O cupom CECI é parceria e pode render comissão.",
     "relatedArticles": [
       {
-        "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
-        "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+        "slug": "dolce-gusto-genio-s-touch-vale-a-pena"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "clube-dolce-gusto-como-funciona",
-        "title": "Clube Dolce Gusto: pontos e prêmios"
+        "slug": "clube-dolce-gusto-como-funciona"
       }
     ],
     "image": "/images/reviews/dolcegusto/adaptador-neo-start-hero-oficial.webp",
@@ -39710,16 +39651,13 @@ export const reviewsData: unknown[] = [
     },
     "relatedArticles": [
       {
-        "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
-        "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+        "slug": "dolce-gusto-genio-s-touch-vale-a-pena"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "clube-dolce-gusto-como-funciona",
-        "title": "Clube Dolce Gusto: pontos e prêmios"
+        "slug": "clube-dolce-gusto-como-funciona"
       }
     ],
     "contentSections": [
@@ -39988,12 +39926,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artigo traduz a política oficial de Sleeptest da I Wanna Sleep com base em dados públicos coletados diretamente da central de ajuda oficial. O cupom CECIEMCASA (10% de desconto) é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços, políticas e cupons estão sujeitos a alterações pela marca.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-        "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
       }
     ],
     "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",
@@ -40333,8 +40269,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Based on public information. The CECILIA010 code comes from a commercial partnership.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-coupon-cecilia010",
-        "title": "How to Use YesStyle Reward Code CECILIA010: Step-by-Step Checkout Guide"
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -40477,8 +40412,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Basado en datos públicos. El código CECILIA010 procede de una alianza comercial.",
     "relatedArticles": [
       {
-        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-        "title": "Cómo usar el código de recompensa CECILIA010 en YesStyle"
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -40620,8 +40554,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Basé sur des données publiques. Le code CECILIA010 vient d'un partenariat commercial.",
     "relatedArticles": [
       {
-        "slug": "code-recompense-yesstyle-cecilia010",
-        "title": "Comment utiliser le code de récompense CECILIA010 sur YesStyle"
+        "slug": "code-recompense-yesstyle-cecilia010"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -40763,8 +40696,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Basiert auf öffentlichen Daten. Der Code CECILIA010 stammt aus einer Geschäftspartnerschaft.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-rabatt-cecilia010",
-        "title": "YesStyle Reward Code CECILIA010 einlösen: Anleitung"
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -40906,8 +40838,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "공개된 정보를 바탕으로 작성했습니다. CECILIA010 코드는 상업적 제휴에 따른 것입니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ko",
-        "title": "YesStyle 리워드 코드 CECILIA010 사용 방법 안내"
+        "slug": "yesstyle-reward-code-cecilia010-ko"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41049,8 +40980,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "公開情報にもとづく内容です。CECILIA010コードは業務提携によるものです。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ja",
-        "title": "YesStyleリワードコード CECILIA010 の使い方・入力手順"
+        "slug": "yesstyle-reward-code-cecilia010-ja"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41192,8 +41122,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "依據公開資訊撰寫。CECILIA010 來自商業合作。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵碼 CECILIA010 使用指南"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41335,8 +41264,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "基于公开信息撰写。CECILIA010 来自商业合作。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励码 CECILIA010 使用指南"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -41527,12 +41455,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Guia com dados públicos da marca, sem teste próprio. Cupom em parceria; pode render comissão.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-        "title": "Cobertor IWS Igloo: toque gelado de um lado e aconchego do outro"
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
       }
     ],
     "brand": "I Wanna Sleep"
@@ -41662,12 +41588,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CECIEMCASA.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-        "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
       }
     ]
   },
@@ -41812,12 +41736,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do rótulo e do site da marca. O cupom CECIEMCASA vem de parceria comercial.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "i-wanna-sleep-e-confiavel",
-        "title": "I Wanna Sleep é confiável? O que observar antes de comprar"
+        "slug": "i-wanna-sleep-e-confiavel"
       }
     ]
   },
@@ -42004,16 +41926,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Review com uso próprio da máquina. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
-        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-        "title": "Tabela de Medidas Dolce Gusto: quantos ml em cada nível"
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
       },
       {
-        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
-        "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis"
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
       },
       {
-        "slug": "melhores-capsulas-dolce-gusto-2026",
-        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+        "slug": "melhores-capsulas-dolce-gusto-2026"
       }
     ],
     "youtubeUrl": "https://www.youtube.com/shorts/RGM_61Heclo",
@@ -42469,12 +42388,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Informações do rótulo, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "nestle-nutre-e-confiavel",
-        "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+        "slug": "nestle-nutre-e-confiavel"
       }
     ],
     "gallery": [
@@ -42711,16 +42628,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compara fichas da Arno; só a Touch foi usada em casa. Parceria comissionada (cupom CECI).",
     "relatedArticles": [
       {
-        "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
-        "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+        "slug": "dolce-gusto-genio-s-touch-vale-a-pena"
       },
       {
-        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-        "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
       },
       {
-        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
-        "title": "Dolce Gusto Mini Me 2.0 vale a pena? Análise completa"
+        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena"
       }
     ],
     "gallery": [
@@ -42878,16 +42792,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Parceria com a YesStyle: podemos receber comissão pelos links e pelo código CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "codigo-cecilia010-yesstyle-como-usar",
-        "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
       },
       {
-        "slug": "yesstyle-e-confiavel",
-        "title": "YesStyle é confiável? O que observar antes de comprar"
+        "slug": "yesstyle-e-confiavel"
       },
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
-        "title": "Como Encontrar Cupons YesStyle Válidos e Usar com o CECILIA010"
+        "slug": "como-encontrar-cupons-yesstyle-validos"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -43025,16 +42936,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Partnership with YesStyle: we may earn a commission from the links and from the code CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-coupon-cecilia010",
-        "title": "How to Use YesStyle Reward Code CECILIA010: Step-by-Step Checkout Guide"
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
       },
       {
-        "slug": "is-yesstyle-legit-and-safe-review",
-        "title": "Is YesStyle Legit and Safe? What to Know Before Shopping"
+        "slug": "is-yesstyle-legit-and-safe-review"
       },
       {
-        "slug": "how-to-find-valid-yesstyle-coupon-codes",
-        "title": "How to Find Valid YesStyle Coupon Codes and Combine with CECILIA010"
+        "slug": "how-to-find-valid-yesstyle-coupon-codes"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -43172,16 +43080,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Alianza con YesStyle: podemos recibir comisión por los enlaces y por el código CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-        "title": "YesStyle CECILIA010: código de recompensa"
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       },
       {
-        "slug": "es-yesstyle-de-fiar-y-seguro",
-        "title": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar"
+        "slug": "es-yesstyle-de-fiar-y-seguro"
       },
       {
-        "slug": "como-encontrar-cupones-yesstyle-validos",
-        "title": "Cómo Encontrar Cupones YesStyle Válidos y Usar con el Código CECILIA010"
+        "slug": "como-encontrar-cupones-yesstyle-validos"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -43319,16 +43224,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Partenariat avec YesStyle : nous pouvons recevoir une commission sur les liens et sur le code CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "code-recompense-yesstyle-cecilia010",
-        "title": "YesStyle CECILIA010 : code de récompense"
+        "slug": "code-recompense-yesstyle-cecilia010"
       },
       {
-        "slug": "yesstyle-est-il-fiable-et-sur",
-        "title": "YesStyle est-il Fiable et Sûr ? Ce qu'il Faut Savoir Avant d'Acheter"
+        "slug": "yesstyle-est-il-fiable-et-sur"
       },
       {
-        "slug": "comment-trouver-des-codes-promo-yesstyle-valides",
-        "title": "Comment Trouver des Codes Promo YesStyle Valides et Utiliser CECILIA010"
+        "slug": "comment-trouver-des-codes-promo-yesstyle-valides"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -43466,16 +43368,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Partnerschaft mit YesStyle: Wir können über die Links und über den Code CECILIA010 eine Provision erhalten.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-rabatt-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code nutzen"
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
       },
       {
-        "slug": "ist-yesstyle-serioes-und-sicher",
-        "title": "Ist YesStyle Seriös und Sicher? Was Sie Vor Dem Kauf Wissen Müssen"
+        "slug": "ist-yesstyle-serioes-und-sicher"
       },
       {
-        "slug": "gueltige-yesstyle-gutscheincodes-finden",
-        "title": "Gültige YesStyle Gutscheincodes Finden und mit CECILIA010 Kombinieren"
+        "slug": "gueltige-yesstyle-gutscheincodes-finden"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -43613,16 +43512,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyle 제휴: 링크와 CECILIA010 코드를 통해 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ko",
-        "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-ko"
       },
       {
-        "slug": "yesstyle-trust-guide-ko",
-        "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+        "slug": "yesstyle-trust-guide-ko"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-ko",
-        "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드"
+        "slug": "yesstyle-valid-coupon-guide-ko"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -43760,16 +43656,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyleとの提携：リンクおよびCECILIA010コードを通じて、コミッションを受け取る場合があります。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ja",
-        "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）"
+        "slug": "yesstyle-reward-code-cecilia010-ja"
       },
       {
-        "slug": "yesstyle-trust-guide-ja",
-        "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+        "slug": "yesstyle-trust-guide-ja"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-ja",
-        "title": "有効なYesStyleクーポンコードの見つけ方とCECILIA010の併用方法"
+        "slug": "yesstyle-valid-coupon-guide-ja"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -43907,16 +43800,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyle 合作：我們可能會透過連結和 CECILIA010 代碼獲得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hant",
-        "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+        "slug": "yesstyle-trust-guide-zh-hant"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-zh-hant",
-        "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用"
+        "slug": "yesstyle-valid-coupon-guide-zh-hant"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -44054,16 +43944,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyle 合作：我们可能会通过链接和 CECILIA010 代码获得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hans",
-        "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
+        "slug": "yesstyle-trust-guide-zh-hans"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-zh-hans",
-        "title": "如何找到有效的 YesStyle 优惠码并与 CECILIA010 叠加使用"
+        "slug": "yesstyle-valid-coupon-guide-zh-hans"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -44270,16 +44157,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este comparativo baseia-se em padrões ergonômicos de interiores, especificações técnicas de fabricantes e análise pública de mercado. O site Em Casa com Cecília mantém parceria comercial com a DAMIE por meio do cupom CECILIA12.",
     "relatedArticles": [
       {
-        "slug": "sofa-damie-modular-vale-a-pena",
-        "title": "Sofá Damie Modular: vale a pena?"
+        "slug": "sofa-damie-modular-vale-a-pena"
       },
       {
-        "slug": "damie-reclame-aqui-o-que-os-dados-mostram",
-        "title": "Damie no Reclame Aqui: o que os dados mostram?"
+        "slug": "damie-reclame-aqui-o-que-os-dados-mostram"
       },
       {
-        "slug": "poltrona-damie-e-boa",
-        "title": "Poltrona Damie é boa? Review real"
+        "slug": "poltrona-damie-e-boa"
       }
     ],
     "gallery": [
@@ -44529,16 +44413,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este guia é informativo e se baseia na página oficial do produto e nas regras públicas da Anvisa. Não substitui orientação de profissional de saúde. O Em Casa com Cecília mantém parceria comercial com a I Wanna Sleep e pode receber comissão pelo cupom CECIEMCASA, sem custo adicional para o comprador.",
     "relatedArticles": [
       {
-        "slug": "melatonina-liquida-iws-ficha-tecnica",
-        "title": "Melatonina Líquida IWS: o que saber antes de comprar"
+        "slug": "melatonina-liquida-iws-ficha-tecnica"
       },
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Como usar o cupom CECIEMCASA na I Wanna Sleep: 10% de desconto"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao",
-        "title": "I Wanna Sleep no Reclame Aqui: qual é a nota e a reputação da marca?"
+        "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao"
       }
     ],
     "gallery": [
@@ -44821,16 +44702,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este guia usa o rótulo fotografado da Nutren Creatina, páginas oficiais das marcas e a alegação funcional autorizada pela Anvisa. O Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
     "relatedArticles": [
       {
-        "slug": "nutren-just-protein-para-que-serve",
-        "title": "Nutren Just Protein: tudo o que você precisa saber"
+        "slug": "nutren-just-protein-para-que-serve"
       },
       {
-        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-        "title": "Nutren Senior Zero Lactose: Ficha Técnica e Modo de Uso"
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       }
     ],
     "gallery": [
@@ -45151,16 +45029,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da Amazon, sem custo extra.",
     "relatedArticles": [
       {
-        "slug": "dolce-gusto-maquinas-qual-escolher",
-        "title": "Máquinas Dolce Gusto: qual escolher para sua casa?"
+        "slug": "dolce-gusto-maquinas-qual-escolher"
       },
       {
-        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
-        "title": "Dolce Gusto Genio S Basic vs Plus vs Touch: Qual a Diferença e Qual Vale a Pena?"
+        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch"
       },
       {
-        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-        "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
       }
     ],
     "gallery": [
@@ -45427,20 +45302,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Parceria comercial com a DAMIE, com links de comissão. Levita testada por nós; Aurora, não.",
     "relatedArticles": [
       {
-        "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto",
-        "title": "Poltrona Levita: O Topo da Tecnologia e Conforto"
+        "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
       },
       {
-        "slug": "poltrona-damie-e-boa",
-        "title": "Poltrona Damie é boa? Review real"
+        "slug": "poltrona-damie-e-boa"
       },
       {
-        "slug": "sofa-modular-ou-retratil-qual-escolher",
-        "title": "Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto"
+        "slug": "sofa-modular-ou-retratil-qual-escolher"
       },
       {
-        "slug": "poltronas-reclinaveis-damie-vale-o-investimento",
-        "title": "Poltronas Reclináveis DAMIE: Vale o Investimento?"
+        "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
       }
     ],
     "gallery": [
@@ -45846,16 +45717,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Parceria comercial com a I Wanna Sleep. Guia com dados do catálogo, sem teste próprio.",
     "relatedArticles": [
       {
-        "slug": "travesseiro-i-wanna-sleep-ou-emma",
-        "title": "Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir"
+        "slug": "travesseiro-i-wanna-sleep-ou-emma"
       },
       {
-        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-        "title": "Cobertor Igloo IWS: Ficha Técnica Completa"
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
       },
       {
-        "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca",
-        "title": "Aliv Head Gel IWS: Máscara Térmica para Dor de Cabeça e Enxaqueca"
+        "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca"
       }
     ],
     "gallery": [
@@ -46289,20 +46157,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da Amazon, sem custo extra.",
     "relatedArticles": [
       {
-        "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
-        "title": "Dolce Gusto vs Nespresso vs 3 Corações: qual cafeteira de cápsula escolher em 2026?"
+        "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes"
       },
       {
-        "slug": "dolce-gusto-maquinas-qual-escolher",
-        "title": "Máquinas Dolce Gusto: qual escolher para sua casa?"
+        "slug": "dolce-gusto-maquinas-qual-escolher"
       },
       {
-        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
-        "title": "Dolce Gusto Genio S Basic vs Plus vs Touch: Qual a Diferença e Qual Vale a Pena?"
+        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch"
       },
       {
-        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-        "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
       }
     ],
     "gallery": [
@@ -46693,20 +46557,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Baseado no catálogo da marca, sem teste das 4 linhas. Podemos receber comissão.",
     "relatedArticles": [
       {
-        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
-        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
       },
       {
-        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-        "title": "Cobertor Igloo IWS: Ficha Técnica Completa"
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
       },
       {
-        "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca",
-        "title": "Aliv Head Gel IWS: Máscara Térmica para Dor de Cabeça e Enxaqueca"
+        "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca"
       },
       {
-        "slug": "melatonina-gummy-iws-para-que-serve-como-tomar",
-        "title": "Melatonina Gummy IWS: Para que Serve e Como Tomar"
+        "slug": "melatonina-gummy-iws-para-que-serve-como-tomar"
       }
     ],
     "gallery": [
@@ -46992,16 +46852,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Produtos enviados pela YesStyle; o site ganha comissão nos links e no Reward Code CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "k-beauty-o-que-e-onde-comprar",
-        "title": "K-Beauty: o que é e onde comprar produtos coreanos"
+        "slug": "k-beauty-o-que-e-onde-comprar"
       },
       {
-        "slug": "yesstyle-e-confiavel",
-        "title": "YesStyle é confiável? Procedência, prazos e devolução"
+        "slug": "yesstyle-e-confiavel"
       },
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
-        "title": "Como encontrar cupons YesStyle válidos e economizar"
+        "slug": "como-encontrar-cupons-yesstyle-validos"
       }
     ]
   },
@@ -47255,16 +47112,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Products sent by YesStyle; the site earns a commission on the links and on the CECILIA010 Reward Code.",
     "relatedArticles": [
       {
-        "slug": "k-beauty-trend-explained-where-to-buy",
-        "title": "K-Beauty Explained: Why It Became a Global Trend and Where to Shop"
+        "slug": "k-beauty-trend-explained-where-to-buy"
       },
       {
-        "slug": "is-yesstyle-legit-and-safe-review",
-        "title": "Is YesStyle Legit and Safe? What to Know Before Shopping"
+        "slug": "is-yesstyle-legit-and-safe-review"
       },
       {
-        "slug": "how-to-find-valid-yesstyle-coupon-codes",
-        "title": "How to Find Valid YesStyle Coupon Codes and Combine with CECILIA010"
+        "slug": "how-to-find-valid-yesstyle-coupon-codes"
       }
     ]
   },
@@ -47518,16 +47372,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Productos enviados por YesStyle; el sitio gana comisión en los enlaces y en el Reward Code CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "k-beauty-marcas-coreanas-tendencia-mundial",
-        "title": "K-Beauty: Por Qué Se Convirtió en Tendencia Mundial y Dónde Comprar las Marcas Coreanas"
+        "slug": "k-beauty-marcas-coreanas-tendencia-mundial"
       },
       {
-        "slug": "es-yesstyle-de-fiar-y-seguro",
-        "title": "¿Es YesStyle de Fiar y Seguro? Lo que Debes Saber Antes de Comprar"
+        "slug": "es-yesstyle-de-fiar-y-seguro"
       },
       {
-        "slug": "como-encontrar-cupones-yesstyle-validos",
-        "title": "Cómo Encontrar Cupones YesStyle Válidos y Usar con el Código CECILIA010"
+        "slug": "como-encontrar-cupones-yesstyle-validos"
       }
     ]
   },
@@ -47779,16 +47630,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Produits envoyés par YesStyle ; le site touche une commission sur les liens et sur le Reward Code CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "k-beauty-tendance-beaute-coreenne",
-        "title": "K-Beauty : Pourquoi Cette Tendance Beauté Coréenne Conquiert le Monde et Où L'Acheter"
+        "slug": "k-beauty-tendance-beaute-coreenne"
       },
       {
-        "slug": "yesstyle-est-il-fiable-et-sur",
-        "title": "YesStyle est-il Fiable et Sûr ? Ce qu'il Faut Savoir Avant d'Acheter"
+        "slug": "yesstyle-est-il-fiable-et-sur"
       },
       {
-        "slug": "comment-trouver-des-codes-promo-yesstyle-valides",
-        "title": "Comment Trouver des Codes Promo YesStyle Valides et Utiliser CECILIA010"
+        "slug": "comment-trouver-des-codes-promo-yesstyle-valides"
       }
     ],
     "translationKey": "yesstyle-skincare-30",
@@ -48042,16 +47890,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Produkte von YesStyle geschickt; die Website erhält eine Provision auf die Links und auf den Reward Code CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "k-beauty-trend-koreanische-marken-kaufen",
-        "title": "K-Beauty: Das Koreanische Beauty-Geheimnis – Und Wo Sie Authentische Produkte Kaufen"
+        "slug": "k-beauty-trend-koreanische-marken-kaufen"
       },
       {
-        "slug": "ist-yesstyle-serioes-und-sicher",
-        "title": "Ist YesStyle Seriös und Sicher? Was Sie Vor Dem Kauf Wissen Müssen"
+        "slug": "ist-yesstyle-serioes-und-sicher"
       },
       {
-        "slug": "gueltige-yesstyle-gutscheincodes-finden",
-        "title": "Gültige YesStyle Gutscheincodes Finden und mit CECILIA010 Kombinieren"
+        "slug": "gueltige-yesstyle-gutscheincodes-finden"
       }
     ],
     "translationKey": "yesstyle-skincare-30",
@@ -48305,16 +48150,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Prodotti inviati da YesStyle; il sito guadagna una commissione sui link e sul Reward Code CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "k-beauty-tendenza-bellezza-coreana",
-        "title": "K-Beauty spiegata: perché la bellezza coreana è diventata una tendenza globale e dove comprarla"
+        "slug": "k-beauty-tendenza-bellezza-coreana"
       },
       {
-        "slug": "yesstyle-e-affidabile-e-sicuro",
-        "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare"
+        "slug": "yesstyle-e-affidabile-e-sicuro"
       },
       {
-        "slug": "come-trovare-codici-sconto-yesstyle-validi",
-        "title": "Come trovare codici sconto YesStyle validi e combinarli con CECILIA010"
+        "slug": "come-trovare-codici-sconto-yesstyle-validi"
       }
     ],
     "translationKey": "yesstyle-skincare-30",
@@ -48570,16 +48412,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyle에서 제품을 보내 주었어요. 이 사이트는 링크와 Reward Code CECILIA010로 수수료를 받아요.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-kbeauty-guide-ko",
-        "title": "K-뷰티가 세계를 사로잡은 이유와 한국 브랜드 구매처 찾기"
+        "slug": "yesstyle-kbeauty-guide-ko"
       },
       {
-        "slug": "yesstyle-trust-guide-ko",
-        "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+        "slug": "yesstyle-trust-guide-ko"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-ko",
-        "title": "유효한 YesStyle 쿠폰 코드 찾는 법 및 CECILIA010 중복 할인 가이드"
+        "slug": "yesstyle-valid-coupon-guide-ko"
       }
     ]
   },
@@ -48833,16 +48672,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyle提供の商品です。当サイトはリンクとReward Code CECILIA010から手数料を受け取ります。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-kbeauty-guide-ja",
-        "title": "K-Beautyがなぜ世界中で流行？韓国コスメの特徴と購入方法"
+        "slug": "yesstyle-kbeauty-guide-ja"
       },
       {
-        "slug": "yesstyle-trust-guide-ja",
-        "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+        "slug": "yesstyle-trust-guide-ja"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-ja",
-        "title": "有効なYesStyleクーポンコードの見つけ方とCECILIA010の併用方法"
+        "slug": "yesstyle-valid-coupon-guide-ja"
       }
     ]
   },
@@ -49095,16 +48931,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "產品由 YesStyle 寄送；本站透過連結與 Reward Code CECILIA010 賺取佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-kbeauty-guide-zh-hant",
-        "title": "K-Beauty 韓妝熱潮全解析：為何全球為之瘋狂，到哪裡買才放心"
+        "slug": "yesstyle-kbeauty-guide-zh-hant"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hant",
-        "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+        "slug": "yesstyle-trust-guide-zh-hant"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-zh-hant",
-        "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用"
+        "slug": "yesstyle-valid-coupon-guide-zh-hant"
       }
     ],
     "translationKey": "yesstyle-skincare-30"
@@ -49358,16 +49191,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "产品由 YesStyle 寄送；本站通过链接和 Reward Code CECILIA010 获得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-kbeauty-guide-zh-hans",
-        "title": "K-Beauty 全球热潮解读：为什么韩国护肤品风靡世界，如何购买正品"
+        "slug": "yesstyle-kbeauty-guide-zh-hans"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hans",
-        "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
+        "slug": "yesstyle-trust-guide-zh-hans"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-zh-hans",
-        "title": "如何找到有效的 YesStyle 优惠码并与 CECILIA010 叠加使用"
+        "slug": "yesstyle-valid-coupon-guide-zh-hans"
       }
     ],
     "translationKey": "yesstyle-skincare-30"
@@ -49709,8 +49539,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Contiene link di affiliazione: potremmo ricevere una commissione da YesStyle e dall'uso di CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "codice-ricompensa-yesstyle-cecilia010",
-        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
       }
     ],
     "contentSections": [
@@ -49996,8 +49825,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Basato su dati pubblici. Il codice CECILIA010 nasce da una partnership commerciale.",
     "relatedArticles": [
       {
-        "slug": "codice-ricompensa-yesstyle-cecilia010",
-        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
       }
     ],
     "translationKey": "yesstyle-trust",
@@ -50137,16 +49965,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Partnership con YesStyle: possiamo ricevere una commissione dai link e dal codice CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "codice-ricompensa-yesstyle-cecilia010",
-        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
       },
       {
-        "slug": "yesstyle-e-affidabile-e-sicuro",
-        "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare"
+        "slug": "yesstyle-e-affidabile-e-sicuro"
       },
       {
-        "slug": "come-trovare-codici-sconto-yesstyle-validi",
-        "title": "Come trovare codici sconto YesStyle validi e combinarli con CECILIA010"
+        "slug": "come-trovare-codici-sconto-yesstyle-validi"
       }
     ],
     "translationKey": "yesstyle-kbeauty"
@@ -50417,16 +50242,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Guia com base nos manuais oficiais. O cupom CECI é parceria e pode render comissão.",
     "relatedArticles": [
       {
-        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-        "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
       },
       {
-        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
-        "title": "Dolce Gusto Mini Me Vale a Pena? Análise Real"
+        "slug": "dolce-gusto-mini-me-2-0-vale-a-pena"
       },
       {
-        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
-        "title": "Dolce Gusto Genio S Basic vs Plus vs Touch: Qual a Diferença?"
+        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch"
       }
     ]
   },
@@ -50673,12 +50495,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Guia feito do rótulo e da página da IWS, sem teste próprio. Comissão pelo cupom CECIEMCASA.",
     "relatedArticles": [
       {
-        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
-        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
       },
       {
-        "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
-        "title": "Qual Cobertor Escolher? Guia das Linhas I Wanna Sleep"
+        "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep"
       }
     ]
   },
@@ -50981,16 +50801,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Baseado na página oficial, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
-        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica"
       },
       {
-        "slug": "nutren-just-protein-para-que-serve",
-        "title": "Nutren Just Protein: Para Que Serve e Tabela Nutricional"
+        "slug": "nutren-just-protein-para-que-serve"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       }
     ]
   },
@@ -51254,20 +51071,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito a partir de páginas públicas da Nescafé Dolce Gusto, da Arno e das marcas citadas, de anúncios, de um fórum e da foto de uma caixa; não testamos cápsulas de outras marcas. Parceria comercial: podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
-        "slug": "adaptador-neo-start-o-que-e",
-        "title": "Adaptador NEO Start: o que é e quando você precisa dele"
+        "slug": "adaptador-neo-start-o-que-e"
       },
       {
-        "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
-        "title": "Dolce Gusto vs Nespresso vs 3 Corações: qual cafeteira de cápsula escolher em 2026?"
+        "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes"
       },
       {
-        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-        "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+        "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       }
     ]
   },
@@ -51554,16 +51367,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Fontes oficiais, sem teste próprio. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
-        "slug": "nutren-senior-como-tomar-sem-empelotar",
-        "title": "Como Tomar Nutren Senior Sem Empelotar"
+        "slug": "nutren-senior-como-tomar-sem-empelotar"
       },
       {
-        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: Como Usar o Desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       }
     ],
     "gallery": [
@@ -51865,12 +51675,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelas compras com o cupom MAUAD.",
     "relatedArticles": [
       {
-        "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
-        "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-mauad-lets-eat-it-como-usar",
-        "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
+        "slug": "cupom-mauad-lets-eat-it-como-usar"
       }
     ],
     "imageAspect": "landscape"
@@ -52130,12 +51938,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados públicos do Reclame Aqui, que mudam com o tempo. Podemos receber comissão pelo MAUAD.",
     "relatedArticles": [
       {
-        "slug": "lets-eat-it-e-confiavel",
-        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+        "slug": "lets-eat-it-e-confiavel"
       },
       {
-        "slug": "cupom-mauad-lets-eat-it-como-usar",
-        "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
+        "slug": "cupom-mauad-lets-eat-it-como-usar"
       }
     ]
   },
@@ -52368,12 +52174,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no checkout. Podemos receber comissão pelas compras com o MAUAD.",
     "relatedArticles": [
       {
-        "slug": "lets-eat-it-e-confiavel",
-        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+        "slug": "lets-eat-it-e-confiavel"
       },
       {
-        "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
-        "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -52611,16 +52415,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com dados públicos da IWS, sem orientação médica. Podemos receber comissão.",
     "relatedArticles": [
       {
-        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
-        "title": "Guia de Travesseiros IWS: Como Escolher o Modelo Ideal"
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
       },
       {
-        "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
-        "title": "Guia de Cobertores IWS: Linhas Huggy, Puffer, Cozy e Igloo"
+        "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep"
       },
       {
-        "slug": "melatonina-liquida-iws-ficha-tecnica",
-        "title": "Melatonina Líquida IWS 30 ml: ficha do rótulo e preço"
+        "slug": "melatonina-liquida-iws-ficha-tecnica"
       }
     ]
   },
@@ -52892,16 +52693,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com dados públicos da Nestlé, sem orientação médica. Podemos receber comissão.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "fibermais-como-usar-em-receitas-e-bebidas",
-        "title": "FiberMais Nestlé: como usar em receitas e bebidas quentes ou frias"
+        "slug": "fibermais-como-usar-em-receitas-e-bebidas"
       },
       {
-        "slug": "nutren-senior-como-tomar-sem-empelotar",
-        "title": "Como Tomar Nutren Senior Sem Empelotar"
+        "slug": "nutren-senior-como-tomar-sem-empelotar"
       }
     ]
   },
@@ -53230,20 +53028,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços do site oficial e um teste de checkout nosso. Podemos receber comissão.",
     "relatedArticles": [
       {
-        "slug": "assinatura-dolce-gusto-como-funciona",
-        "title": "Assinatura Dolce Gusto: como funciona, regras e como cancelar"
+        "slug": "assinatura-dolce-gusto-como-funciona"
       },
       {
-        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
-        "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis"
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       },
       {
-        "slug": "melhores-capsulas-dolce-gusto-2026",
-        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+        "slug": "melhores-capsulas-dolce-gusto-2026"
       }
     ]
   },
@@ -53477,12 +53271,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas; não avaliamos o uso das roupas. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       },
       {
-        "slug": "insider-store-reclame-aqui-nota-reputacao",
-        "title": "Insider Store no Reclame Aqui: nota, reclamações e pós-venda"
+        "slug": "insider-store-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -53797,12 +53589,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "insider-store-e-confiavel",
-        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+        "slug": "insider-store-e-confiavel"
       },
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       }
     ]
   },
@@ -54057,12 +53847,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no checkout oficial da Insider. Podemos receber comissão.",
     "relatedArticles": [
       {
-        "slug": "insider-store-e-confiavel",
-        "title": "Insider Store é confiável?"
+        "slug": "insider-store-e-confiavel"
       },
       {
-        "slug": "insider-store-reclame-aqui-nota-reputacao",
-        "title": "Insider Store no Reclame Aqui: nota e reclamações"
+        "slug": "insider-store-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -54391,16 +54179,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com a nossa poltrona e lojas consultadas. Podemos receber comissão pelos links.",
     "relatedArticles": [
       {
-        "slug": "poltrona-de-amamentacao-vs-poltrona-reclinavel",
-        "title": "Poltrona de amamentação ou poltrona reclinável: qual vale mais a pena?"
+        "slug": "poltrona-de-amamentacao-vs-poltrona-reclinavel"
       },
       {
-        "slug": "poltrona-amamentacao-rotina",
-        "title": "Poltrona de amamentação: o que fez diferença na rotina aqui em casa"
+        "slug": "poltrona-amamentacao-rotina"
       },
       {
-        "slug": "poltrona-damie-e-boa",
-        "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0"
+        "slug": "poltrona-damie-e-boa"
       }
     ]
   },
@@ -54725,16 +54510,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação com a nossa poltrona e lojas consultadas. Podemos receber comissão pelos links.",
     "relatedArticles": [
       {
-        "slug": "poltrona-de-amamentacao-como-escolher",
-        "title": "Poltrona de amamentação: como escolher entre com puff, com balanço e reclinável"
+        "slug": "poltrona-de-amamentacao-como-escolher"
       },
       {
-        "slug": "poltrona-damie-e-boa",
-        "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0"
+        "slug": "poltrona-damie-e-boa"
       },
       {
-        "slug": "poltronas-reclinaveis-damie-vale-o-investimento",
-        "title": "Poltronas Reclináveis Damie - Vale o Investimento?"
+        "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
       }
     ]
   },
@@ -54998,16 +54780,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site oficial. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
-        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis",
-        "title": "Promoção Dolce Gusto: caixas de cápsulas + Mini Me grátis"
+        "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
       },
       {
-        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
-        "title": "Genio S Basic, Plus ou Touch: qual vale mais a pena?"
+        "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       }
     ],
     "bodyDatesReason": "campanha"
@@ -55344,16 +55123,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da DAMIE. Podemos receber comissão pelo cupom CECILIA12.",
     "relatedArticles": [
       {
-        "slug": "poltrona-damie-e-boa",
-        "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0"
+        "slug": "poltrona-damie-e-boa"
       },
       {
-        "slug": "poltronas-reclinaveis-damie-vale-o-investimento",
-        "title": "Poltronas Reclináveis Damie - Vale o Investimento?"
+        "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
       },
       {
-        "slug": "cupom-cecilia12-como-usar",
-        "title": "Cupom Damie CECILIA12: como usar o desconto da Cecília"
+        "slug": "cupom-cecilia12-como-usar"
       }
     ]
   },
@@ -55667,16 +55443,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MAUAD.",
     "relatedArticles": [
       {
-        "slug": "cupom-mauad-lets-eat-it-como-usar",
-        "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
+        "slug": "cupom-mauad-lets-eat-it-como-usar"
       },
       {
-        "slug": "lets-eat-it-e-confiavel",
-        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+        "slug": "lets-eat-it-e-confiavel"
       },
       {
-        "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
-        "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -56023,16 +55796,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECIEMCASA.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "pillow-top-magnum-iws-colchao-dor-nas-costas",
-        "title": "Pillow Top Magnum IWS vale a pena? Guia para colchão duro"
+        "slug": "pillow-top-magnum-iws-colchao-dor-nas-costas"
       },
       {
-        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
-        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
       }
     ]
   },
@@ -56357,20 +56127,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "black-friday-insider-feminino",
-        "title": "Black Friday Insider 2026 feminino: até 50% OFF, camisetas, calcinhas e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider-feminino"
       },
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       },
       {
-        "slug": "insider-store-e-confiavel",
-        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+        "slug": "insider-store-e-confiavel"
       },
       {
-        "slug": "insider-store-reclame-aqui-nota-reputacao",
-        "title": "Insider Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "insider-store-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -56666,16 +56432,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026 masculino: até 50% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider"
       },
       {
-        "slug": "camiseta-feminina-insider-qual-escolher",
-        "title": "Camiseta feminina Insider: qual escolher entre Tech, Gola V, Manga Longa, Daily, NEXTECH e Perfect Top"
+        "slug": "camiseta-feminina-insider-qual-escolher"
       },
       {
-        "slug": "outlet-insider-feminino-vale-a-pena",
-        "title": "Outlet Insider feminino: o que vale a pena, por tipo de peça, e o preço com o cupom"
+        "slug": "outlet-insider-feminino-vale-a-pena"
       }
     ]
   },
@@ -57021,16 +56784,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECI.",
     "relatedArticles": [
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "nutren-senior-como-tomar-sem-empelotar",
-        "title": "Como Tomar Nutren Senior Sem Empelotar"
+        "slug": "nutren-senior-como-tomar-sem-empelotar"
       },
       {
-        "slug": "nutren-just-protein-para-que-serve",
-        "title": "Nutren Just Protein: tudo o que você precisa saber"
+        "slug": "nutren-just-protein-para-que-serve"
       }
     ]
   },
@@ -57338,8 +57098,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos na loja Magazine Você da Cecília. Podemos receber comissão pelas compras.",
     "relatedArticles": [
       {
-        "slug": "cupom-magalu-em-casa-com-cecilia",
-        "title": "Como usar o cupom Magalu da Cecília"
+        "slug": "cupom-magalu-em-casa-com-cecilia"
       }
     ]
   },
@@ -57609,16 +57368,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regras das páginas oficiais da YesStyle. Podemos receber comissão pelas compras.",
     "relatedArticles": [
       {
-        "slug": "codigo-cecilia010-yesstyle-como-usar",
-        "title": "Como usar o código CECILIA010 na YesStyle"
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
       },
       {
-        "slug": "como-encontrar-cupons-yesstyle-validos",
-        "title": "Como encontrar cupons YesStyle válidos"
+        "slug": "como-encontrar-cupons-yesstyle-validos"
       },
       {
-        "slug": "yesstyle-e-confiavel",
-        "title": "YesStyle é confiável? O que observar antes de comprar"
+        "slug": "yesstyle-e-confiavel"
       }
     ]
   },
@@ -57880,16 +57636,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Rules from YesStyle's official pages. We may earn a commission on purchases.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-coupon-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code"
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
       },
       {
-        "slug": "how-to-find-valid-yesstyle-coupon-codes",
-        "title": "How to Find Valid YesStyle Coupon Codes"
+        "slug": "how-to-find-valid-yesstyle-coupon-codes"
       },
       {
-        "slug": "is-yesstyle-legit-and-safe-review",
-        "title": "Is YesStyle Legit and Safe? What to Know Before Shopping"
+        "slug": "is-yesstyle-legit-and-safe-review"
       }
     ]
   },
@@ -58151,16 +57904,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Reglas de las páginas oficiales de YesStyle. Podemos recibir comisión por las compras.",
     "relatedArticles": [
       {
-        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-        "title": "YesStyle CECILIA010: código de recompensa"
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       },
       {
-        "slug": "como-encontrar-cupones-yesstyle-validos",
-        "title": "Cómo encontrar cupones YesStyle válidos"
+        "slug": "como-encontrar-cupones-yesstyle-validos"
       },
       {
-        "slug": "es-yesstyle-de-fiar-y-seguro",
-        "title": "¿Es YesStyle de fiar y seguro? Lo que debes saber antes de comprar"
+        "slug": "es-yesstyle-de-fiar-y-seguro"
       }
     ]
   },
@@ -58422,16 +58172,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Règles des pages officielles de YesStyle. Nous pouvons recevoir une commission sur les achats.",
     "relatedArticles": [
       {
-        "slug": "code-recompense-yesstyle-cecilia010",
-        "title": "YesStyle CECILIA010 : code récompense"
+        "slug": "code-recompense-yesstyle-cecilia010"
       },
       {
-        "slug": "comment-trouver-des-codes-promo-yesstyle-valides",
-        "title": "Comment trouver des codes promo YesStyle valides"
+        "slug": "comment-trouver-des-codes-promo-yesstyle-valides"
       },
       {
-        "slug": "yesstyle-est-il-fiable-et-sur",
-        "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter"
+        "slug": "yesstyle-est-il-fiable-et-sur"
       }
     ]
   },
@@ -58693,16 +58440,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regeln aus den offiziellen Seiten von YesStyle. Wir können für Käufe eine Provision erhalten.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-rabatt-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code nutzen"
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
       },
       {
-        "slug": "gueltige-yesstyle-gutscheincodes-finden",
-        "title": "Gültige YesStyle-Gutscheincodes finden"
+        "slug": "gueltige-yesstyle-gutscheincodes-finden"
       },
       {
-        "slug": "ist-yesstyle-serioes-und-sicher",
-        "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen"
+        "slug": "ist-yesstyle-serioes-und-sicher"
       }
     ]
   },
@@ -58964,16 +58708,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regole dalle pagine ufficiali di YesStyle. Possiamo ricevere una commissione sugli acquisti.",
     "relatedArticles": [
       {
-        "slug": "codice-ricompensa-yesstyle-cecilia010",
-        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
       },
       {
-        "slug": "come-trovare-codici-sconto-yesstyle-validi",
-        "title": "Come trovare codici sconto YesStyle validi"
+        "slug": "come-trovare-codici-sconto-yesstyle-validi"
       },
       {
-        "slug": "yesstyle-e-affidabile-e-sicuro",
-        "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare"
+        "slug": "yesstyle-e-affidabile-e-sicuro"
       }
     ]
   },
@@ -59235,16 +58976,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "규정은 YesStyle 공식 페이지를 기준으로 합니다. 구매에 따라 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ko",
-        "title": "YesStyle 리워드 코드 CECILIA010 사용법"
+        "slug": "yesstyle-reward-code-cecilia010-ko"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-ko",
-        "title": "유효한 YesStyle 쿠폰 코드 찾는 법"
+        "slug": "yesstyle-valid-coupon-guide-ko"
       },
       {
-        "slug": "yesstyle-trust-guide-ko",
-        "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+        "slug": "yesstyle-trust-guide-ko"
       }
     ]
   },
@@ -59506,16 +59244,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "ルールはYesStyle公式ページに基づいています。購入によりコミッションを受け取る場合があります。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ja",
-        "title": "YesStyle リワードコード CECILIA010 の使い方"
+        "slug": "yesstyle-reward-code-cecilia010-ja"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-ja",
-        "title": "有効なYesStyleクーポンコードの見つけ方"
+        "slug": "yesstyle-valid-coupon-guide-ja"
       },
       {
-        "slug": "yesstyle-trust-guide-ja",
-        "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+        "slug": "yesstyle-trust-guide-ja"
       }
     ]
   },
@@ -59777,16 +59512,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "規則取自 YesStyle 官方頁面。我們可能會從購買中獲得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵碼 CECILIA010 使用方法"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-zh-hant",
-        "title": "如何找到有效的 YesStyle 優惠碼"
+        "slug": "yesstyle-valid-coupon-guide-zh-hant"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hant",
-        "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+        "slug": "yesstyle-trust-guide-zh-hant"
       }
     ]
   },
@@ -60048,16 +59780,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "规则取自 YesStyle 官方页面。我们可能会从购买中获得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励码 CECILIA010 使用方法"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       },
       {
-        "slug": "yesstyle-valid-coupon-guide-zh-hans",
-        "title": "如何找到有效的 YesStyle 优惠码"
+        "slug": "yesstyle-valid-coupon-guide-zh-hans"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hans",
-        "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
+        "slug": "yesstyle-trust-guide-zh-hans"
       }
     ]
   },
@@ -60300,8 +60029,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regras das páginas oficiais da SHEIN e da Lei 15.502/2026. Podemos receber comissão pelas compras.",
     "relatedArticles": [
       {
-        "slug": "black-friday-yesstyle",
-        "title": "Black Friday YesStyle 2026: quando começa, como funcionam os cupons e onde entra o código CECILIA010"
+        "slug": "black-friday-yesstyle"
       }
     ]
   },
@@ -60459,8 +60187,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Rules from SHEIN's official pages. We may earn a commission on purchases.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-black-friday-dates-coupons",
-        "title": "YesStyle Black Friday 2026: when it starts, how the coupons work and where the CECILIA010 code goes"
+        "slug": "yesstyle-black-friday-dates-coupons"
       }
     ]
   },
@@ -60618,8 +60345,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Reglas de las páginas oficiales de SHEIN. Podemos recibir comisión por las compras.",
     "relatedArticles": [
       {
-        "slug": "black-friday-yesstyle-fechas-cupones",
-        "title": "Black Friday YesStyle 2026: cuándo empieza, cómo funcionan los cupones y dónde va el código CECILIA010"
+        "slug": "black-friday-yesstyle-fechas-cupones"
       }
     ]
   },
@@ -60777,8 +60503,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Règles des pages officielles de SHEIN. Nous pouvons toucher une commission sur les achats.",
     "relatedArticles": [
       {
-        "slug": "black-friday-yesstyle-dates-et-coupons",
-        "title": "Black Friday YesStyle 2026 : quand il commence, comment fonctionnent les coupons et où saisir le code CECILIA010"
+        "slug": "black-friday-yesstyle-dates-et-coupons"
       }
     ]
   },
@@ -60936,8 +60661,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regeln laut den offiziellen Seiten von SHEIN. Wir können für Käufe eine Provision erhalten.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-black-friday-termine-gutscheine",
-        "title": "YesStyle Black Friday 2026: Termine, Gutscheine und wo der Reward Code CECILIA010 eingegeben wird"
+        "slug": "yesstyle-black-friday-termine-gutscheine"
       }
     ]
   },
@@ -61095,8 +60819,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regole delle pagine ufficiali di SHEIN. Possiamo ricevere una commissione sugli acquisti.",
     "relatedArticles": [
       {
-        "slug": "black-friday-yesstyle-date-e-coupon",
-        "title": "Black Friday YesStyle 2026: quando inizia, come funzionano i coupon e dove inserire il codice CECILIA010"
+        "slug": "black-friday-yesstyle-date-e-coupon"
       }
     ]
   },
@@ -61254,8 +60977,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SHEIN 공식 페이지의 규정 기준입니다. 구매하면 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-black-friday-ko",
-        "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치"
+        "slug": "yesstyle-black-friday-ko"
       }
     ]
   },
@@ -61413,8 +61135,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SHEIN公式ページのルールによります。購入により手数料を受け取る場合があります。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-black-friday-ja",
-        "title": "Black Friday YesStyle 2026（ブラックフライデー）：いつ始まる？クーポンの仕組みとCECILIA010の入れ方"
+        "slug": "yesstyle-black-friday-ja"
       }
     ]
   },
@@ -61572,8 +61293,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "規則取自 SHEIN 官方頁面。我們可能會從購買中獲得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-black-friday-zh-hant",
-        "title": "Black Friday YesStyle 2026（黑色星期五）：何時開始、優惠券怎麼用，CECILIA010 填在哪裡"
+        "slug": "yesstyle-black-friday-zh-hant"
       }
     ]
   },
@@ -61731,8 +61451,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "规则来自 SHEIN 官方页面。我们可能会从购买中获得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-black-friday-zh-hans",
-        "title": "Black Friday YesStyle 2026（黑色星期五）：何时开始、优惠券怎么用，CECILIA010 填在哪里"
+        "slug": "yesstyle-black-friday-zh-hans"
       }
     ]
   },
@@ -61991,16 +61710,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
     "relatedArticles": [
       {
-        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica"
       },
       {
-        "slug": "nutren-senior-como-tomar-sem-empelotar",
-        "title": "Como tomar Nutren Senior sem empelotar"
+        "slug": "nutren-senior-como-tomar-sem-empelotar"
       },
       {
-        "slug": "black-friday-nestle-nutre",
-        "title": "Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre"
+        "slug": "black-friday-nestle-nutre"
       }
     ]
   },
@@ -62208,16 +61924,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão da Let's Eat It. Sem teste próprio: dados da fabricante.",
     "relatedArticles": [
       {
-        "slug": "black-friday-letseatit",
-        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+        "slug": "black-friday-letseatit"
       },
       {
-        "slug": "lets-eat-it-e-confiavel",
-        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+        "slug": "lets-eat-it-e-confiavel"
       },
       {
-        "slug": "le-creuset-vale-a-pena",
-        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+        "slug": "le-creuset-vale-a-pena"
       }
     ]
   },
@@ -62479,16 +62192,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela I Wanna Sleep. Emma e Ortobom não são parceiras. Sem teste próprio: preços e condições dos sites oficiais.",
     "relatedArticles": [
       {
-        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
-        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
       },
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "black-friday-i-wanna-sleep",
-        "title": "Black Friday I Wanna Sleep 2026: Pillow Top Magnum, travesseiros e cobertores com o cupom CECIEMCASA"
+        "slug": "black-friday-i-wanna-sleep"
       }
     ]
   },
@@ -62708,16 +62418,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da Let's Eat It. Não testamos as panelas: as regras são das marcas.",
     "relatedArticles": [
       {
-        "slug": "black-friday-letseatit",
-        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+        "slug": "black-friday-letseatit"
       },
       {
-        "slug": "lets-eat-it-e-confiavel",
-        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+        "slug": "lets-eat-it-e-confiavel"
       },
       {
-        "slug": "porto-brasil-e-boa",
-        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e Porto Brasil ou Oxford"
+        "slug": "porto-brasil-e-boa"
       }
     ]
   },
@@ -63749,16 +63456,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão quando você compra pelos nossos links. Não provamos as peças.",
     "relatedArticles": [
       {
-        "slug": "insider-vale-a-pena",
-        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+        "slug": "insider-vale-a-pena"
       },
       {
-        "slug": "insider-store-e-confiavel",
-        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+        "slug": "insider-store-e-confiavel"
       },
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       }
     ]
   },
@@ -63984,16 +63688,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Insider. Ninguém da equipe usou as peças: os dados são das páginas da marca e do teste do cupom no checkout.",
     "relatedArticles": [
       {
-        "slug": "camiseta-insider-qual-escolher",
-        "title": "Camiseta masculina Insider: qual escolher entre Tech, Heavy, Core, Daily, Polo e Henley"
+        "slug": "camiseta-insider-qual-escolher"
       },
       {
-        "slug": "cueca-insider-comfort-ou-performance",
-        "title": "Cueca Insider: Comfort, Performance, Seamless Touch ou Slip, qual escolher"
+        "slug": "cueca-insider-comfort-ou-performance"
       },
       {
-        "slug": "insider-store-e-confiavel",
-        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+        "slug": "insider-store-e-confiavel"
       }
     ]
   },
@@ -64331,16 +64032,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
     "relatedArticles": [
       {
-        "slug": "nutren-just-protein-para-que-serve",
-        "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"
+        "slug": "nutren-just-protein-para-que-serve"
       },
       {
-        "slug": "nutren-senior-ensure-ou-sustagen-senior",
-        "title": "Nutren Senior, Ensure ou Sustagen Senior: qual escolher pelo rótulo de cada um"
+        "slug": "nutren-senior-ensure-ou-sustagen-senior"
       },
       {
-        "slug": "nestle-nutre-produtos-para-que-servem",
-        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+        "slug": "nestle-nutre-produtos-para-que-servem"
       }
     ]
   },
@@ -64723,16 +64421,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão da Dolce Gusto. Preços das páginas oficiais da loja.",
     "relatedArticles": [
       {
-        "slug": "melhores-capsulas-dolce-gusto-2026",
-        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+        "slug": "melhores-capsulas-dolce-gusto-2026"
       },
       {
-        "slug": "assinatura-dolce-gusto-vale-a-pena",
-        "title": "Assinatura Dolce Gusto vale a pena? Valor, cupom CECI e máquina grátis"
+        "slug": "assinatura-dolce-gusto-vale-a-pena"
       },
       {
-        "slug": "black-friday-dolce-gusto",
-        "title": "Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI"
+        "slug": "black-friday-dolce-gusto"
       }
     ]
   },
@@ -64867,12 +64562,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regras das páginas oficiais da SHEIN. Podemos receber comissão pelas compras.",
     "relatedArticles": [
       {
-        "slug": "shein-e-confiavel",
-        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+        "slug": "shein-e-confiavel"
       },
       {
-        "slug": "black-friday-shein",
-        "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50"
+        "slug": "black-friday-shein"
       }
     ]
   },
@@ -65007,12 +64700,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SHEIN's official page rules. We may earn a commission on purchases.",
     "relatedArticles": [
       {
-        "slug": "is-shein-legit-and-safe",
-        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+        "slug": "is-shein-legit-and-safe"
       },
       {
-        "slug": "shein-black-friday-dates-taxes",
-        "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work"
+        "slug": "shein-black-friday-dates-taxes"
       }
     ]
   },
@@ -65147,12 +64838,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Reglas de las páginas oficiales de SHEIN. Podemos recibir comisión por las compras.",
     "relatedArticles": [
       {
-        "slug": "shein-es-confiable-y-seguro",
-        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+        "slug": "shein-es-confiable-y-seguro"
       },
       {
-        "slug": "black-friday-shein-fechas-impuestos",
-        "title": "Black Friday SHEIN 2026: cuándo empieza, cuándo termina y cómo funcionan los cupones"
+        "slug": "black-friday-shein-fechas-impuestos"
       }
     ]
   },
@@ -65287,12 +64976,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Règles des pages officielles de SHEIN. Nous pouvons percevoir une commission sur les achats.",
     "relatedArticles": [
       {
-        "slug": "shein-est-il-fiable-et-sur",
-        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+        "slug": "shein-est-il-fiable-et-sur"
       },
       {
-        "slug": "black-friday-shein-dates-et-taxes",
-        "title": "Black Friday SHEIN 2026 : quand il commence, jusqu'à quand et comment fonctionnent les coupons"
+        "slug": "black-friday-shein-dates-et-taxes"
       }
     ]
   },
@@ -65427,12 +65114,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regeln der offiziellen SHEIN-Seiten. Wir können für Käufe eine Provision erhalten.",
     "relatedArticles": [
       {
-        "slug": "ist-shein-serioes-und-sicher",
-        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+        "slug": "ist-shein-serioes-und-sicher"
       },
       {
-        "slug": "shein-black-friday-termine-steuern",
-        "title": "Black Friday SHEIN 2026: Beginn, Ende und so funktionieren die Gutscheine"
+        "slug": "shein-black-friday-termine-steuern"
       }
     ]
   },
@@ -65567,12 +65252,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regole delle pagine ufficiali di SHEIN. Possiamo ricevere una commissione sugli acquisti.",
     "relatedArticles": [
       {
-        "slug": "shein-e-affidabile-e-sicuro",
-        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+        "slug": "shein-e-affidabile-e-sicuro"
       },
       {
-        "slug": "black-friday-shein-date-e-tasse",
-        "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e come funzionano i coupon"
+        "slug": "black-friday-shein-date-e-tasse"
       }
     ]
   },
@@ -65707,12 +65390,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SHEIN 공식 페이지의 규정에 따랐습니다. 구매에 대해 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ko",
-        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+        "slug": "shein-trust-guide-ko"
       },
       {
-        "slug": "shein-black-friday-ko",
-        "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, 쿠폰 사용 방법"
+        "slug": "shein-black-friday-ko"
       }
     ]
   },
@@ -65847,12 +65528,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SHEIN公式ページの規約に基づいています。購入に応じて手数料を受け取ることがあります。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ja",
-        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+        "slug": "shein-trust-guide-ja"
       },
       {
-        "slug": "shein-black-friday-ja",
-        "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで続くか、クーポンの仕組み"
+        "slug": "shein-black-friday-ja"
       }
     ]
   },
@@ -65987,12 +65666,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "依據 SHEIN 官方頁面的規則。購物後我們可能獲得傭金。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hant",
-        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+        "slug": "shein-trust-guide-zh-hant"
       },
       {
-        "slug": "shein-black-friday-zh-hant",
-        "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及優惠券怎麼用"
+        "slug": "shein-black-friday-zh-hant"
       }
     ]
   },
@@ -66127,12 +65804,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "依据 SHEIN 官方页面的规则。购物后我们可能获得佣金。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hans",
-        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+        "slug": "shein-trust-guide-zh-hans"
       },
       {
-        "slug": "shein-black-friday-zh-hans",
-        "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用"
+        "slug": "shein-black-friday-zh-hans"
       }
     ]
   },
@@ -66357,16 +66032,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artigo é editorial. Podemos receber comissão pelas compras na SHEIN, sem custo para você.",
     "relatedArticles": [
       {
-        "slug": "shein-ou-shopee-temu",
-        "title": "SHEIN, Shopee, Temu ou AliExpress: como escolher para comprar roupa (prazo, devolução e imposto)"
+        "slug": "shein-ou-shopee-temu"
       },
       {
-        "slug": "black-friday-shein",
-        "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50"
+        "slug": "black-friday-shein"
       },
       {
-        "slug": "codigo-de-indicacao-shein",
-        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+        "slug": "codigo-de-indicacao-shein"
       }
     ]
   },
@@ -66538,16 +66210,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "This article is editorial. We may earn a commission on SHEIN purchases, at no cost to you.",
     "relatedArticles": [
       {
-        "slug": "shein-vs-temu-which-to-choose",
-        "title": "SHEIN vs Temu: how to choose (shipping, returns and what to check before you buy)"
+        "slug": "shein-vs-temu-which-to-choose"
       },
       {
-        "slug": "shein-black-friday-dates-taxes",
-        "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work"
+        "slug": "shein-black-friday-dates-taxes"
       },
       {
-        "slug": "shein-referral-code-where-to-enter",
-        "title": "SHEIN referral code: where to enter it and how it works"
+        "slug": "shein-referral-code-where-to-enter"
       }
     ]
   },
@@ -66728,16 +66397,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artículo es editorial. Podemos recibir comisión por las compras en SHEIN, sin costo para ti.",
     "relatedArticles": [
       {
-        "slug": "shein-o-temu-cual-elegir",
-        "title": "SHEIN o Temu: cómo elegir (envío, devoluciones y qué revisar antes de comprar)"
+        "slug": "shein-o-temu-cual-elegir"
       },
       {
-        "slug": "black-friday-shein-fechas-impuestos",
-        "title": "Black Friday SHEIN 2026: cuándo empieza, cuándo termina y cómo funcionan los cupones"
+        "slug": "black-friday-shein-fechas-impuestos"
       },
       {
-        "slug": "codigo-de-referido-shein-donde-ponerlo",
-        "title": "Código de referido de SHEIN: dónde ponerlo y cómo usarlo"
+        "slug": "codigo-de-referido-shein-donde-ponerlo"
       }
     ]
   },
@@ -66896,16 +66562,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cet article est éditorial. Nous pouvons toucher une commission sur les achats SHEIN, sans frais pour vous.",
     "relatedArticles": [
       {
-        "slug": "shein-ou-temu-comment-choisir",
-        "title": "SHEIN ou Temu : comment choisir (livraison, retours, douane et points à vérifier avant d'acheter)"
+        "slug": "shein-ou-temu-comment-choisir"
       },
       {
-        "slug": "black-friday-shein-dates-et-taxes",
-        "title": "Black Friday SHEIN 2026 : quand il commence, jusqu'à quand et comment fonctionnent les coupons"
+        "slug": "black-friday-shein-dates-et-taxes"
       },
       {
-        "slug": "code-de-parrainage-shein-ou-le-mettre",
-        "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser"
+        "slug": "code-de-parrainage-shein-ou-le-mettre"
       }
     ]
   },
@@ -67059,16 +66722,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Redaktioneller Artikel. Für Käufe bei SHEIN können wir eine Provision erhalten, ohne Mehrkosten für Sie.",
     "relatedArticles": [
       {
-        "slug": "shein-oder-temu-was-waehlen",
-        "title": "SHEIN oder Temu: Was passt besser? Versand, Rückgabe, Zoll und was Sie prüfen sollten"
+        "slug": "shein-oder-temu-was-waehlen"
       },
       {
-        "slug": "shein-black-friday-termine-steuern",
-        "title": "Black Friday SHEIN 2026: Beginn, Ende und so funktionieren die Gutscheine"
+        "slug": "shein-black-friday-termine-steuern"
       },
       {
-        "slug": "shein-empfehlungscode-wo-eingeben",
-        "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert"
+        "slug": "shein-empfehlungscode-wo-eingeben"
       }
     ]
   },
@@ -67222,16 +66882,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Questo articolo è editoriale. Possiamo ricevere una commissione sugli acquisti su SHEIN, senza costi per te.",
     "relatedArticles": [
       {
-        "slug": "shein-o-temu-come-scegliere",
-        "title": "SHEIN o Temu: come scegliere (spedizione, resi, dogana e cosa controllare prima di comprare)"
+        "slug": "shein-o-temu-come-scegliere"
       },
       {
-        "slug": "black-friday-shein-date-e-tasse",
-        "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e come funzionano i coupon"
+        "slug": "black-friday-shein-date-e-tasse"
       },
       {
-        "slug": "codice-invito-shein-dove-inserirlo",
-        "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
+        "slug": "codice-invito-shein-dove-inserirlo"
       }
     ]
   },
@@ -67373,16 +67030,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "이 글은 에디토리얼입니다. SHEIN 구매 시 수수료를 받을 수 있으며, 구매자에게 추가 비용은 없습니다.",
     "relatedArticles": [
       {
-        "slug": "shein-vs-temu-vs-ali-ko",
-        "title": "SHEIN(쉬인) vs 테무: 어떻게 고를까? 배송비, 반품 기한과 구매 전 확인할 것"
+        "slug": "shein-vs-temu-vs-ali-ko"
       },
       {
-        "slug": "shein-black-friday-ko",
-        "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, 쿠폰 사용 방법"
+        "slug": "shein-black-friday-ko"
       },
       {
-        "slug": "shein-referral-code-ko",
-        "title": "SHEIN 추천 코드: 입력하는 곳과 사용법"
+        "slug": "shein-referral-code-ko"
       }
     ]
   },
@@ -67527,16 +67181,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "この記事は編集記事です。SHEIN での購入で報酬を受け取る場合がありますが、あなたの負担は増えません。",
     "relatedArticles": [
       {
-        "slug": "shein-vs-temu-ja",
-        "title": "SHEIN と Temu どちらを選ぶ？送料・返品・関税と、買う前に確認すること"
+        "slug": "shein-vs-temu-ja"
       },
       {
-        "slug": "shein-black-friday-ja",
-        "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで続くか、クーポンの仕組み"
+        "slug": "shein-black-friday-ja"
       },
       {
-        "slug": "shein-referral-code-ja",
-        "title": "SHEINの紹介コード：入力する場所と使い方"
+        "slug": "shein-referral-code-ja"
       }
     ]
   },
@@ -67680,16 +67331,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "本文為編輯專題。我們可能從 SHEIN 的購買中獲得傭金，你不需要額外付費。",
     "relatedArticles": [
       {
-        "slug": "shein-vs-shopee-zh-hant",
-        "title": "SHEIN 還是 Temu？新加坡和馬來西亞怎麼選：運費、時效與退貨"
+        "slug": "shein-vs-shopee-zh-hant"
       },
       {
-        "slug": "shein-black-friday-zh-hant",
-        "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及優惠券怎麼用"
+        "slug": "shein-black-friday-zh-hant"
       },
       {
-        "slug": "shein-referral-code-zh-hant",
-        "title": "SHEIN 推薦碼：在哪裡輸入、怎麼用"
+        "slug": "shein-referral-code-zh-hant"
       }
     ]
   },
@@ -67833,16 +67481,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "本文为编辑专题。我们可能从 SHEIN 的购买中获得佣金，你不需要额外付费。",
     "relatedArticles": [
       {
-        "slug": "shein-vs-temu-zh-hans",
-        "title": "SHEIN 还是 Temu？新加坡和马来西亚怎么选：运费、时效与退货"
+        "slug": "shein-vs-temu-zh-hans"
       },
       {
-        "slug": "shein-black-friday-zh-hans",
-        "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用"
+        "slug": "shein-black-friday-zh-hans"
       },
       {
-        "slug": "shein-referral-code-zh-hans",
-        "title": "SHEIN 推荐码：在哪里输入、怎么用"
+        "slug": "shein-referral-code-zh-hans"
       }
     ]
   },
@@ -68112,16 +67757,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artigo é editorial. Podemos receber comissão pelos links da SHEIN, da Shopee, da Temu e do AliExpress.",
     "relatedArticles": [
       {
-        "slug": "shein-e-confiavel",
-        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+        "slug": "shein-e-confiavel"
       },
       {
-        "slug": "black-friday-shein",
-        "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50"
+        "slug": "black-friday-shein"
       },
       {
-        "slug": "codigo-de-indicacao-shein",
-        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+        "slug": "codigo-de-indicacao-shein"
       }
     ]
   },
@@ -68288,16 +67930,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "This article is editorial. We may earn a commission on SHEIN and Temu links.",
     "relatedArticles": [
       {
-        "slug": "is-shein-legit-and-safe",
-        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+        "slug": "is-shein-legit-and-safe"
       },
       {
-        "slug": "shein-black-friday-dates-taxes",
-        "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work"
+        "slug": "shein-black-friday-dates-taxes"
       },
       {
-        "slug": "shein-referral-code-where-to-enter",
-        "title": "SHEIN referral code: where to enter it and how it works"
+        "slug": "shein-referral-code-where-to-enter"
       }
     ],
     "decision": {
@@ -68504,16 +68143,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Este artículo es editorial. Podemos recibir comisión por los enlaces de SHEIN y Temu.",
     "relatedArticles": [
       {
-        "slug": "shein-es-confiable-y-seguro",
-        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+        "slug": "shein-es-confiable-y-seguro"
       },
       {
-        "slug": "black-friday-shein-fechas-impuestos",
-        "title": "Black Friday SHEIN 2026: cuándo empieza, cuándo termina y cómo funcionan los cupones"
+        "slug": "black-friday-shein-fechas-impuestos"
       },
       {
-        "slug": "codigo-de-referido-shein-donde-ponerlo",
-        "title": "Código de referido de SHEIN: dónde ponerlo y cómo usarlo"
+        "slug": "codigo-de-referido-shein-donde-ponerlo"
       }
     ],
     "decision": {
@@ -68689,16 +68325,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cet article est éditorial. Nous pouvons toucher une commission sur les liens SHEIN et Temu.",
     "relatedArticles": [
       {
-        "slug": "shein-est-il-fiable-et-sur",
-        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+        "slug": "shein-est-il-fiable-et-sur"
       },
       {
-        "slug": "black-friday-shein-dates-et-taxes",
-        "title": "Black Friday SHEIN 2026 : quand il commence, jusqu'à quand et comment fonctionnent les coupons"
+        "slug": "black-friday-shein-dates-et-taxes"
       },
       {
-        "slug": "code-de-parrainage-shein-ou-le-mettre",
-        "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser"
+        "slug": "code-de-parrainage-shein-ou-le-mettre"
       }
     ],
     "decision": {
@@ -68874,16 +68507,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dieser Artikel ist redaktionell. Über die Links zu SHEIN und Temu erhalten wir möglicherweise eine Provision.",
     "relatedArticles": [
       {
-        "slug": "ist-shein-serioes-und-sicher",
-        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+        "slug": "ist-shein-serioes-und-sicher"
       },
       {
-        "slug": "shein-black-friday-termine-steuern",
-        "title": "Black Friday SHEIN 2026: Beginn, Ende und so funktionieren die Gutscheine"
+        "slug": "shein-black-friday-termine-steuern"
       },
       {
-        "slug": "shein-empfehlungscode-wo-eingeben",
-        "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert"
+        "slug": "shein-empfehlungscode-wo-eingeben"
       }
     ],
     "decision": {
@@ -69059,16 +68689,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Articolo editoriale. Possiamo ricevere una commissione sugli acquisti fatti con i link di SHEIN e Temu.",
     "relatedArticles": [
       {
-        "slug": "shein-e-affidabile-e-sicuro",
-        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+        "slug": "shein-e-affidabile-e-sicuro"
       },
       {
-        "slug": "black-friday-shein-date-e-tasse",
-        "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e come funzionano i coupon"
+        "slug": "black-friday-shein-date-e-tasse"
       },
       {
-        "slug": "codice-invito-shein-dove-inserirlo",
-        "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
+        "slug": "codice-invito-shein-dove-inserirlo"
       }
     ],
     "decision": {
@@ -69240,16 +68867,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "이 글은 편집 콘텐츠입니다. SHEIN과 테무 링크로 구매하면 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ko",
-        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+        "slug": "shein-trust-guide-ko"
       },
       {
-        "slug": "shein-black-friday-ko",
-        "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, 쿠폰 사용 방법"
+        "slug": "shein-black-friday-ko"
       },
       {
-        "slug": "shein-referral-code-ko",
-        "title": "SHEIN 추천 코드: 입력하는 곳과 사용법"
+        "slug": "shein-referral-code-ko"
       }
     ],
     "decision": {
@@ -69429,16 +69053,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "この記事は編集コンテンツです。SHEIN と Temu のリンクから購入された場合、報酬を受け取ることがあります。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ja",
-        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+        "slug": "shein-trust-guide-ja"
       },
       {
-        "slug": "shein-black-friday-ja",
-        "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで続くか、クーポンの仕組み"
+        "slug": "shein-black-friday-ja"
       },
       {
-        "slug": "shein-referral-code-ja",
-        "title": "SHEINの紹介コード：入力する場所と使い方"
+        "slug": "shein-referral-code-ja"
       }
     ],
     "decision": {
@@ -69641,16 +69262,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "本文為編輯內容。透過本文的 SHEIN 和 Temu 連結購買，我們可能獲得傭金。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hant",
-        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+        "slug": "shein-trust-guide-zh-hant"
       },
       {
-        "slug": "shein-black-friday-zh-hant",
-        "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及優惠券怎麼用"
+        "slug": "shein-black-friday-zh-hant"
       },
       {
-        "slug": "shein-referral-code-zh-hant",
-        "title": "SHEIN 推薦碼：在哪裡輸入、怎麼用"
+        "slug": "shein-referral-code-zh-hant"
       }
     ],
     "decision": {
@@ -69853,16 +69471,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "本文为编辑内容。通过本文的 SHEIN 和 Temu 链接购买，我们可能获得佣金。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hans",
-        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+        "slug": "shein-trust-guide-zh-hans"
       },
       {
-        "slug": "shein-black-friday-zh-hans",
-        "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用"
+        "slug": "shein-black-friday-zh-hans"
       },
       {
-        "slug": "shein-referral-code-zh-hans",
-        "title": "SHEIN 推荐码：在哪里输入、怎么用"
+        "slug": "shein-referral-code-zh-hans"
       }
     ],
     "decision": {
@@ -70114,16 +69729,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regras das páginas oficiais da YesStyle. Podemos receber comissão pelas compras.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-ou-stylevana",
-        "title": "YesStyle ou Stylevana: entrega, frete, imposto e devolução lado a lado, com Olive Young, StyleKorean e Jolse"
+        "slug": "yesstyle-ou-stylevana"
       },
       {
-        "slug": "yesstyle-e-confiavel",
-        "title": "YesStyle é confiável? O que observar antes de comprar"
+        "slug": "yesstyle-e-confiavel"
       },
       {
-        "slug": "codigo-cecilia010-yesstyle-como-usar",
-        "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ]
   },
@@ -70407,16 +70019,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Rules from YesStyle's official pages. We may earn a commission on purchases.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-olive-young",
-        "title": "YesStyle vs Stylevana: shipping, customs and returns side by side, with Olive Young, StyleKorean and Jolse"
+        "slug": "yesstyle-vs-stylevana-olive-young"
       },
       {
-        "slug": "is-yesstyle-legit-and-safe-review",
-        "title": "Is YesStyle Legit and Safe? What to Know Before Shopping"
+        "slug": "is-yesstyle-legit-and-safe-review"
       },
       {
-        "slug": "yesstyle-reward-code-coupon-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code"
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
       }
     ]
   },
@@ -70672,16 +70281,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Reglas de las páginas oficiales de YesStyle. Podemos recibir comisión por las compras.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-o-stylevana-cual-elegir",
-        "title": "YesStyle o Stylevana: envíos, impuestos y devoluciones lado a lado, con Olive Young, StyleKorean y Jolse"
+        "slug": "yesstyle-o-stylevana-cual-elegir"
       },
       {
-        "slug": "es-yesstyle-de-fiar-y-seguro",
-        "title": "¿YesStyle es confiable y seguro? Quién la opera, de dónde es y envíos"
+        "slug": "es-yesstyle-de-fiar-y-seguro"
       },
       {
-        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-        "title": "YesStyle CECILIA010: código de recompensa"
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       }
     ]
   },
@@ -70920,16 +70526,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Règles tirées des pages officielles de YesStyle. Commission possible sur les achats.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-ou-stylevana-que-choisir",
-        "title": "YesStyle ou Stylevana : livraison, taxes et retours côte à côte, avec Olive Young, StyleKorean et Jolse"
+        "slug": "yesstyle-ou-stylevana-que-choisir"
       },
       {
-        "slug": "yesstyle-est-il-fiable-et-sur",
-        "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter"
+        "slug": "yesstyle-est-il-fiable-et-sur"
       },
       {
-        "slug": "code-recompense-yesstyle-cecilia010",
-        "title": "YesStyle CECILIA010 : code de récompense"
+        "slug": "code-recompense-yesstyle-cecilia010"
       }
     ]
   },
@@ -71174,16 +70777,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regeln aus den offiziellen YesStyle-Seiten. Wir können für Käufe eine Provision erhalten.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-oder-stylevana-welcher-shop",
-        "title": "YesStyle oder Stylevana: Versand, Zoll und Rückgabe im Vergleich, mit Olive Young, StyleKorean und Jolse"
+        "slug": "yesstyle-oder-stylevana-welcher-shop"
       },
       {
-        "slug": "ist-yesstyle-serioes-und-sicher",
-        "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen"
+        "slug": "ist-yesstyle-serioes-und-sicher"
       },
       {
-        "slug": "yesstyle-reward-code-rabatt-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code nutzen"
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
       }
     ]
   },
@@ -71408,16 +71008,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Regole dalle pagine ufficiali di YesStyle. Possiamo ricevere una commissione sugli acquisti.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-o-stylevana-quale-scegliere",
-        "title": "YesStyle o Stylevana: spedizione, dogana e resi a confronto, con Olive Young, StyleKorean e Jolse"
+        "slug": "yesstyle-o-stylevana-quale-scegliere"
       },
       {
-        "slug": "yesstyle-e-affidabile-e-sicuro",
-        "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare"
+        "slug": "yesstyle-e-affidabile-e-sicuro"
       },
       {
-        "slug": "codice-ricompensa-yesstyle-cecilia010",
-        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
       }
     ]
   },
@@ -71642,16 +71239,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyle 공식 페이지의 규정을 기준으로 합니다. 구매하면 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-ko",
-        "title": "YesStyle vs Stylevana: 배송, 관세, 반품 비교"
+        "slug": "yesstyle-vs-stylevana-ko"
       },
       {
-        "slug": "yesstyle-trust-guide-ko",
-        "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+        "slug": "yesstyle-trust-guide-ko"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-ko",
-        "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-ko"
       }
     ]
   },
@@ -71876,16 +71470,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "ルールはYesStyleの公式ページより。購入によりアフィリエイト報酬を受け取る場合があります。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-ja",
-        "title": "YesStyleとStylevanaを比較：配送・関税・返品"
+        "slug": "yesstyle-vs-stylevana-ja"
       },
       {
-        "slug": "yesstyle-trust-guide-ja",
-        "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+        "slug": "yesstyle-trust-guide-ja"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-ja",
-        "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）"
+        "slug": "yesstyle-reward-code-cecilia010-ja"
       }
     ]
   },
@@ -72122,16 +71713,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "規則取自 YesStyle 官方頁面。我們可能會從購買中獲得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-zh-hant",
-        "title": "YesStyle 還是 Stylevana？運送、稅費與退貨比較"
+        "slug": "yesstyle-vs-stylevana-zh-hant"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hant",
-        "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+        "slug": "yesstyle-trust-guide-zh-hant"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       }
     ]
   },
@@ -72363,16 +71951,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "规则取自 YesStyle 官方页面。我们可能会从购买中获得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-zh-hans",
-        "title": "YesStyle 还是 Stylevana？运送、税费与退货比较"
+        "slug": "yesstyle-vs-stylevana-zh-hans"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hans",
-        "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
+        "slug": "yesstyle-trust-guide-zh-hans"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       }
     ]
   },
@@ -72737,20 +72322,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela YesStyle. Não testamos as outras lojas: as regras delas vêm das páginas oficiais.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-ou-olive-young",
-        "title": "YesStyle ou Olive Young: quem entrega no seu país, frete, imposto e devolução"
+        "slug": "yesstyle-ou-olive-young"
       },
       {
-        "slug": "yesstyle-entrega-no-brasil-e-portugal",
-        "title": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto"
+        "slug": "yesstyle-entrega-no-brasil-e-portugal"
       },
       {
-        "slug": "yesstyle-e-confiavel",
-        "title": "YesStyle é confiável? O que observar antes de comprar"
+        "slug": "yesstyle-e-confiavel"
       },
       {
-        "slug": "codigo-cecilia010-yesstyle-como-usar",
-        "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -72974,20 +72555,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "We may earn a commission from YesStyle. We did not test the other stores: their rules come from the official pages.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-olive-young",
-        "title": "YesStyle or Olive Young: who ships to your country, shipping, tax and returns"
+        "slug": "yesstyle-vs-olive-young"
       },
       {
-        "slug": "yesstyle-shipping-us-uk-canada-australia",
-        "title": "Does YesStyle ship to the US, UK, Canada and Australia? Delivery times, shipping costs and customs"
+        "slug": "yesstyle-shipping-us-uk-canada-australia"
       },
       {
-        "slug": "is-yesstyle-legit-and-safe-review",
-        "title": "Is YesStyle Legit and Safe? What to Know Before Shopping"
+        "slug": "is-yesstyle-legit-and-safe-review"
       },
       {
-        "slug": "yesstyle-reward-code-coupon-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code"
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -73211,20 +72788,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos recibir comisión por YesStyle. No probamos las otras tiendas: sus reglas vienen de las páginas oficiales.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-o-olive-young-cual-elegir",
-        "title": "YesStyle o Olive Young: quién envía a tu país, envío, impuestos y devoluciones"
+        "slug": "yesstyle-o-olive-young-cual-elegir"
       },
       {
-        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia",
-        "title": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos"
+        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
       },
       {
-        "slug": "es-yesstyle-de-fiar-y-seguro",
-        "title": "¿YesStyle es confiable y seguro? Quién la opera, de dónde es y envíos"
+        "slug": "es-yesstyle-de-fiar-y-seguro"
       },
       {
-        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-        "title": "YesStyle CECILIA010: código de recompensa"
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -73448,20 +73021,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Commission possible sur YesStyle. Nous n'avons pas testé les autres boutiques : leurs règles viennent des pages officielles.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-ou-olive-young-que-choisir",
-        "title": "YesStyle ou Olive Young : qui livre dans votre pays, frais, taxes et retours"
+        "slug": "yesstyle-ou-olive-young-que-choisir"
       },
       {
-        "slug": "yesstyle-livraison-france-belgique-canada",
-        "title": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes"
+        "slug": "yesstyle-livraison-france-belgique-canada"
       },
       {
-        "slug": "yesstyle-est-il-fiable-et-sur",
-        "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter"
+        "slug": "yesstyle-est-il-fiable-et-sur"
       },
       {
-        "slug": "code-recompense-yesstyle-cecilia010",
-        "title": "YesStyle CECILIA010 : code de récompense"
+        "slug": "code-recompense-yesstyle-cecilia010"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -73685,20 +73254,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Wir können eine Provision von YesStyle erhalten. Wir haben die anderen Shops nicht getestet: Ihre Regeln stammen von den offiziellen Seiten.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-oder-olive-young-welcher-shop",
-        "title": "YesStyle oder Olive Young: wer in Ihr Land liefert, Versand, Steuern und Rückgabe"
+        "slug": "yesstyle-oder-olive-young-welcher-shop"
       },
       {
-        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz",
-        "title": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Versandkosten und Zoll"
+        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
       },
       {
-        "slug": "ist-yesstyle-serioes-und-sicher",
-        "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen"
+        "slug": "ist-yesstyle-serioes-und-sicher"
       },
       {
-        "slug": "yesstyle-reward-code-rabatt-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code nutzen"
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -73922,20 +73487,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Possiamo ricevere una commissione da YesStyle. Non abbiamo testato gli altri negozi: le loro regole vengono dalle pagine ufficiali.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-o-olive-young-quale-scegliere",
-        "title": "YesStyle o Olive Young: chi spedisce nel tuo paese, spedizione, imposte e resi"
+        "slug": "yesstyle-o-olive-young-quale-scegliere"
       },
       {
-        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana",
-        "title": "YesStyle spedisce in Italia? Tempi di consegna, spese di spedizione e dogana"
+        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
       },
       {
-        "slug": "yesstyle-e-affidabile-e-sicuro",
-        "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare"
+        "slug": "yesstyle-e-affidabile-e-sicuro"
       },
       {
-        "slug": "codice-ricompensa-yesstyle-cecilia010",
-        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -74159,20 +73720,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyle에서 수수료를 받을 수 있습니다. 다른 쇼핑몰은 직접 테스트하지 않았으며, 각 쇼핑몰의 규정은 공식 페이지를 따랐습니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-olive-young-ko",
-        "title": "YesStyle vs Olive Young Global: 한국 배송, 관세, 반품 비교"
+        "slug": "yesstyle-vs-olive-young-ko"
       },
       {
-        "slug": "yesstyle-shipping-korea-ko",
-        "title": "YesStyle 한국 배송: 배송 기간, 배송비, 관세"
+        "slug": "yesstyle-shipping-korea-ko"
       },
       {
-        "slug": "yesstyle-trust-guide-ko",
-        "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+        "slug": "yesstyle-trust-guide-ko"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-ko",
-        "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-ko"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -74396,20 +73953,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyleからはコミッションを受け取ることがあります。ほかのショップは試していません。各ショップのルールは公式ページによるものです。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-olive-young-ja",
-        "title": "YesStyleとOlive Youngを比較：日本への配送・送料・関税・返品"
+        "slug": "yesstyle-vs-olive-young-ja"
       },
       {
-        "slug": "yesstyle-shipping-japan-ja",
-        "title": "YesStyleの日本への配送：日数・送料・関税"
+        "slug": "yesstyle-shipping-japan-ja"
       },
       {
-        "slug": "yesstyle-trust-guide-ja",
-        "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+        "slug": "yesstyle-trust-guide-ja"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-ja",
-        "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）"
+        "slug": "yesstyle-reward-code-cecilia010-ja"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -74633,20 +74186,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "我們可能從 YesStyle 獲得佣金。其他商店我們沒有測試過，它們的規定來自官方頁面。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-olive-young-zh-hant",
-        "title": "YesStyle 還是 Olive Young？台灣與香港的運送、運費、稅費與退貨比較"
+        "slug": "yesstyle-vs-olive-young-zh-hant"
       },
       {
-        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
-        "title": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費"
+        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hant",
-        "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+        "slug": "yesstyle-trust-guide-zh-hant"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -74870,20 +74419,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "我们可能从 YesStyle 获得佣金。其他商店我们没有测试过，它们的规定来自官方页面。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-olive-young-zh-hans",
-        "title": "YesStyle 还是 Olive Young？新加坡与马来西亚的运送、运费、税费与退货比较"
+        "slug": "yesstyle-vs-olive-young-zh-hans"
       },
       {
-        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans",
-        "title": "YesStyle 寄往新加坡与马来西亚：运送时间、运费与税费"
+        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hans",
-        "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
+        "slug": "yesstyle-trust-guide-zh-hans"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       }
     ],
     "updatedAt": "2026-10-21"
@@ -74938,12 +74483,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas, sem laudo nem teste de produto. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "probiotica-reclame-aqui-nota-reputacao",
-        "title": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "probiotica-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-probiotica-como-usar",
-        "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-probiotica-como-usar"
       }
     ],
     "contentSections": [
@@ -75188,12 +74731,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       },
       {
-        "slug": "cupom-probiotica-como-usar",
-        "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-probiotica-como-usar"
       }
     ],
     "contentSections": [
@@ -75418,12 +74959,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no carrinho oficial, sem laudo nem teste dos produtos. Podemos receber comissão pelo PRO10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       },
       {
-        "slug": "probiotica-reclame-aqui-nota-reputacao",
-        "title": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "probiotica-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -75831,12 +75370,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo DREMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-reclame-aqui-nota-reputacao",
-        "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "dr-peanut-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-dr-peanut-como-usar",
-        "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+        "slug": "cupom-dr-peanut-como-usar"
       }
     ]
   },
@@ -76109,12 +75646,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo DREMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-e-confiavel",
-        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "dr-peanut-e-confiavel"
       },
       {
-        "slug": "cupom-dr-peanut-como-usar",
-        "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+        "slug": "cupom-dr-peanut-como-usar"
       }
     ]
   },
@@ -76308,12 +75843,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado num pedido real. Podemos receber comissão pelo DREMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-e-confiavel",
-        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "dr-peanut-e-confiavel"
       },
       {
-        "slug": "dr-peanut-reclame-aqui-nota-reputacao",
-        "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "dr-peanut-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -76587,12 +76120,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "black-skull-reclame-aqui-nota-reputacao",
-        "title": "Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "black-skull-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       }
     ]
   },
@@ -76887,12 +76418,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       },
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       }
     ]
   },
@@ -77086,12 +76615,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no checkout oficial da Black Skull. Podemos receber comissão.",
     "relatedArticles": [
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       },
       {
-        "slug": "black-skull-reclame-aqui-nota-reputacao",
-        "title": "Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "black-skull-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -77327,16 +76854,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
     "relatedArticles": [
       {
-        "slug": "lejour-reclame-aqui-nota-reputacao",
-        "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "lejour-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "lejour-como-funciona",
-        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+        "slug": "lejour-como-funciona"
       },
       {
-        "slug": "lista-de-casamento-lejour-como-criar",
-        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+        "slug": "lista-de-casamento-lejour-como-criar"
       }
     ]
   },
@@ -77593,16 +77117,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
     "relatedArticles": [
       {
-        "slug": "lejour-e-confiavel",
-        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+        "slug": "lejour-e-confiavel"
       },
       {
-        "slug": "lejour-como-funciona",
-        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+        "slug": "lejour-como-funciona"
       },
       {
-        "slug": "lista-de-casamento-lejour-como-criar",
-        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+        "slug": "lista-de-casamento-lejour-como-criar"
       }
     ]
   },
@@ -77929,16 +77450,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
     "relatedArticles": [
       {
-        "slug": "lejour-e-confiavel",
-        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+        "slug": "lejour-e-confiavel"
       },
       {
-        "slug": "lejour-reclame-aqui-nota-reputacao",
-        "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "lejour-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "lista-de-casamento-lejour-como-criar",
-        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+        "slug": "lista-de-casamento-lejour-como-criar"
       }
     ]
   },
@@ -78131,16 +77649,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
     "relatedArticles": [
       {
-        "slug": "lejour-e-confiavel",
-        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+        "slug": "lejour-e-confiavel"
       },
       {
-        "slug": "lejour-reclame-aqui-nota-reputacao",
-        "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "lejour-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "lejour-como-funciona",
-        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+        "slug": "lejour-como-funciona"
       }
     ]
   },
@@ -78183,16 +77698,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com as regras publicadas pelas três marcas. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
     "relatedArticles": [
       {
-        "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
-        "title": "Sofá na caixa ou sofá montado: qual dura mais?"
+        "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais"
       },
       {
-        "slug": "sofa-na-caixa-crise-reclamacoes-procon-sp",
-        "title": "O que aconteceu com a Sofá na Caixa?"
+        "slug": "sofa-na-caixa-crise-reclamacoes-procon-sp"
       },
       {
-        "slug": "sofa-damie-modular-vale-a-pena",
-        "title": "Sofá Damie Modular: vale a pena?"
+        "slug": "sofa-damie-modular-vale-a-pena"
       }
     ],
     "contentSections": [
@@ -78607,16 +78119,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Guia feito com as fichas das marcas, normas ABNT e o meu sofá. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
     "relatedArticles": [
       {
-        "slug": "sofa-na-caixa-inflow-ou-damie",
-        "title": "Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher"
+        "slug": "sofa-na-caixa-inflow-ou-damie"
       },
       {
-        "slug": "sofa-modular-ou-retratil-qual-escolher",
-        "title": "Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto"
+        "slug": "sofa-modular-ou-retratil-qual-escolher"
       },
       {
-        "slug": "sofa-damie-modular-vale-a-pena",
-        "title": "Sofá Damie Modular: vale a pena?"
+        "slug": "sofa-damie-modular-vale-a-pena"
       }
     ],
     "contentSections": [
@@ -78865,12 +78374,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas, sem laudo nem teste dos produtos. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-reclame-aqui-nota-reputacao",
-        "title": "Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "max-titanium-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-max-titanium-como-usar",
-        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-max-titanium-como-usar"
       }
     ],
     "contentSections": [
@@ -79103,12 +78610,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-e-confiavel",
-        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "max-titanium-e-confiavel"
       },
       {
-        "slug": "cupom-max-titanium-como-usar",
-        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-max-titanium-como-usar"
       }
     ],
     "contentSections": [
@@ -79339,12 +78844,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo MAX10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-e-confiavel",
-        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "max-titanium-e-confiavel"
       },
       {
-        "slug": "max-titanium-reclame-aqui-nota-reputacao",
-        "title": "Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "max-titanium-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -79580,12 +79083,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "clea-store-reclame-aqui-nota-reputacao",
-        "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "clea-store-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-clea-store-como-usar",
-        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-clea-store-como-usar"
       }
     ],
     "contentSections": [
@@ -79848,12 +79349,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "clea-store-e-confiavel",
-        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+        "slug": "clea-store-e-confiavel"
       },
       {
-        "slug": "cupom-clea-store-como-usar",
-        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-clea-store-como-usar"
       }
     ],
     "contentSections": [
@@ -80098,12 +79597,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "clea-store-e-confiavel",
-        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+        "slug": "clea-store-e-confiavel"
       },
       {
-        "slug": "clea-store-reclame-aqui-nota-reputacao",
-        "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "clea-store-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -80526,16 +80023,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       },
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       },
       {
-        "slug": "black-skull-reclame-aqui-nota-reputacao",
-        "title": "Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "black-skull-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -80590,16 +80084,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "cupom-max-titanium-como-usar",
-        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-max-titanium-como-usar"
       },
       {
-        "slug": "max-titanium-e-confiavel",
-        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "max-titanium-e-confiavel"
       },
       {
-        "slug": "max-titanium-reclame-aqui-nota-reputacao",
-        "title": "Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "max-titanium-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -80868,16 +80359,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom DREMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "cupom-dr-peanut-como-usar",
-        "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+        "slug": "cupom-dr-peanut-como-usar"
       },
       {
-        "slug": "dr-peanut-e-confiavel",
-        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "dr-peanut-e-confiavel"
       },
       {
-        "slug": "dr-peanut-reclame-aqui-nota-reputacao",
-        "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "dr-peanut-reclame-aqui-nota-reputacao"
       }
     ],
     "bodyDatesReason": "campanha",
@@ -81197,16 +80685,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom PRO10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "cupom-probiotica-como-usar",
-        "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-probiotica-como-usar"
       },
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       },
       {
-        "slug": "probiotica-reclame-aqui-nota-reputacao",
-        "title": "Probiótica no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "probiotica-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -81425,16 +80910,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "cupom-clea-store-como-usar",
-        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-clea-store-como-usar"
       },
       {
-        "slug": "clea-store-e-confiavel",
-        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+        "slug": "clea-store-e-confiavel"
       },
       {
-        "slug": "clea-store-reclame-aqui-nota-reputacao",
-        "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "clea-store-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -81487,20 +80969,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Planos conferidos no site da Lejour. Podemos receber comissão pela indicação.",
     "relatedArticles": [
       {
-        "slug": "lejour-como-funciona",
-        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+        "slug": "lejour-como-funciona"
       },
       {
-        "slug": "lista-de-casamento-lejour-como-criar",
-        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+        "slug": "lista-de-casamento-lejour-como-criar"
       },
       {
-        "slug": "lejour-e-confiavel",
-        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+        "slug": "lejour-e-confiavel"
       },
       {
-        "slug": "lejour-reclame-aqui-nota-reputacao",
-        "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "lejour-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -81721,16 +81199,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Brinde e cupom testados no carrinho oficial. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "cupom-clea-store-como-usar",
-        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-clea-store-como-usar"
       },
       {
-        "slug": "clea-store-e-confiavel",
-        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+        "slug": "clea-store-e-confiavel"
       },
       {
-        "slug": "black-friday-clea-store",
-        "title": "Black Friday Cléa Store 2026: campanha ainda não anunciada, preços de outubro e o cupom CSEMCASACOMCECILIA"
+        "slug": "black-friday-clea-store"
       }
     ],
     "contentSections": [
@@ -82536,16 +82011,13 @@ export const reviewsData: unknown[] = [
     ],
     "relatedArticles": [
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       },
       {
-        "slug": "insider-vale-a-pena",
-        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+        "slug": "insider-vale-a-pena"
       },
       {
-        "slug": "tabela-de-medidas-insider",
-        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+        "slug": "tabela-de-medidas-insider"
       }
     ]
   },
@@ -82997,16 +82469,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Black Skull e pela Max Titanium. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       },
       {
-        "slug": "max-titanium-e-confiavel",
-        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "max-titanium-e-confiavel"
       },
       {
-        "slug": "cupom-max-titanium-como-usar",
-        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-max-titanium-como-usar"
       }
     ]
   },
@@ -83479,16 +82948,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Max Titanium e pela Probiótica, que são do mesmo grupo. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-e-confiavel",
-        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "max-titanium-e-confiavel"
       },
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       },
       {
-        "slug": "cupom-max-titanium-como-usar",
-        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-max-titanium-como-usar"
       }
     ]
   },
@@ -84022,16 +83488,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo cupom DREMCASACOMCECILIA. Não provamos os sabores: os dados são do site oficial da loja.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-e-confiavel",
-        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "dr-peanut-e-confiavel"
       },
       {
-        "slug": "cupom-dr-peanut-como-usar",
-        "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+        "slug": "cupom-dr-peanut-como-usar"
       },
       {
-        "slug": "black-friday-dr-peanut",
-        "title": "Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis"
+        "slug": "black-friday-dr-peanut"
       }
     ],
     "updatedAt": "2026-10-27"
@@ -84522,16 +83985,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal. iCasei e Casar.com não são parceiros. Não fizemos lista de casamento real em nenhuma das três.",
     "relatedArticles": [
       {
-        "slug": "lejour-como-funciona",
-        "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+        "slug": "lejour-como-funciona"
       },
       {
-        "slug": "lista-de-casamento-lejour-como-criar",
-        "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+        "slug": "lista-de-casamento-lejour-como-criar"
       },
       {
-        "slug": "lejour-e-confiavel",
-        "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+        "slug": "lejour-e-confiavel"
       }
     ]
   },
@@ -84855,16 +84315,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela I Wanna Sleep, a única parceira comissionada deste artigo. A Ortobom não é parceira: não há link comissionado nem código nosso para ela. Não testamos nenhum dos travesseiros; as contas e comparações são nossas, sobre o que os sites oficiais informam.",
     "relatedArticles": [
       {
-        "slug": "travesseiro-i-wanna-sleep-ou-emma",
-        "title": "Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir"
+        "slug": "travesseiro-i-wanna-sleep-ou-emma"
       },
       {
-        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
-        "title": "Qual Travesseiro Escolher? O Guia das Linhas I Wanna Sleep"
+        "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
       },
       {
-        "slug": "pillow-top-magnum-iws-colchao-dor-nas-costas",
-        "title": "Pillow Top Magnum IWS vale a pena? Guia para colchão duro"
+        "slug": "pillow-top-magnum-iws-colchao-dor-nas-costas"
       }
     ]
   },
@@ -84918,16 +84375,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas. Não avaliamos sabor nem dieta. Podemos receber comissão pelo MAUAD.",
     "relatedArticles": [
       {
-        "slug": "belive-reclame-aqui-nota-reputacao",
-        "title": "Belive no Reclame Aqui: nota e reputação"
+        "slug": "belive-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-belive-como-usar",
-        "title": "Como usar o cupom da Belive e o que ele soma"
+        "slug": "cupom-belive-como-usar"
       },
       {
-        "slug": "black-friday-belive",
-        "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+        "slug": "black-friday-belive"
       }
     ],
     "contentSections": [
@@ -85133,16 +84587,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MAUAD.",
     "relatedArticles": [
       {
-        "slug": "belive-e-confiavel",
-        "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+        "slug": "belive-e-confiavel"
       },
       {
-        "slug": "cupom-belive-como-usar",
-        "title": "Como usar o cupom da Belive e o que ele soma"
+        "slug": "cupom-belive-como-usar"
       },
       {
-        "slug": "black-friday-belive",
-        "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+        "slug": "black-friday-belive"
       }
     ],
     "contentSections": [
@@ -85364,16 +84815,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo MAUAD.",
     "relatedArticles": [
       {
-        "slug": "belive-e-confiavel",
-        "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+        "slug": "belive-e-confiavel"
       },
       {
-        "slug": "belive-reclame-aqui-nota-reputacao",
-        "title": "Belive no Reclame Aqui: nota e reputação"
+        "slug": "belive-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "black-friday-belive",
-        "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+        "slug": "black-friday-belive"
       }
     ],
     "contentSections": [
@@ -85643,16 +85091,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MAUAD.",
     "relatedArticles": [
       {
-        "slug": "belive-e-confiavel",
-        "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+        "slug": "belive-e-confiavel"
       },
       {
-        "slug": "belive-reclame-aqui-nota-reputacao",
-        "title": "Belive no Reclame Aqui: nota e reputação"
+        "slug": "belive-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-belive-como-usar",
-        "title": "Como usar o cupom da Belive e o que ele soma"
+        "slug": "cupom-belive-como-usar"
       }
     ],
     "contentSections": [
@@ -86160,16 +85605,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Guia feito com o rótulo e a página da loja; não recebemos o produto. Podemos receber comissão pela Nestlé Nutre.",
     "relatedArticles": [
       {
-        "slug": "nestle-nutre-produtos-para-que-servem",
-        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+        "slug": "nestle-nutre-produtos-para-que-servem"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "nestle-nutre-e-confiavel",
-        "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+        "slug": "nestle-nutre-e-confiavel"
       }
     ]
   },
@@ -86463,16 +85905,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Guia feito com o rótulo do frasco e a página da loja, sem teste de uso. Podemos receber comissão pela Nestlé Nutre.",
     "relatedArticles": [
       {
-        "slug": "nestle-nutre-produtos-para-que-servem",
-        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+        "slug": "nestle-nutre-produtos-para-que-servem"
       },
       {
-        "slug": "nutren-just-protein-para-que-serve",
-        "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"
+        "slug": "nutren-just-protein-para-que-serve"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       }
     ]
   },
@@ -86830,16 +86269,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Guia feito com o rótulo, a página da loja e a nota técnica do governo; não substitui a orientação do pediatra. Podemos receber comissão pela Nestlé Nutre.",
     "relatedArticles": [
       {
-        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo",
-        "title": "Leite Ninho: tipos, qual usar no bolo e onde comprar com desconto"
+        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "nestle-nutre-e-confiavel",
-        "title": "Nestlé Nutre é confiável? O que observar antes de comprar"
+        "slug": "nestle-nutre-e-confiavel"
       }
     ]
   },
@@ -87159,16 +86595,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
     "relatedArticles": [
       {
-        "slug": "nanlac-supreme-pro-1-a-3-anos",
-        "title": "Nanlac Supreme Pro 1 a 3 anos: composição, preparo e quanto rende a lata de 800 g"
+        "slug": "nanlac-supreme-pro-1-a-3-anos"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo",
-        "title": "Leite Ninho: tipos, qual usar no bolo e onde comprar com desconto"
+        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo"
       }
     ]
   },
@@ -87555,16 +86988,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
     "relatedArticles": [
       {
-        "slug": "nanlac-supreme-pro-1-a-3-anos",
-        "title": "Nanlac Supreme Pro 1 a 3 anos: composição, preparo e quanto rende a lata de 800 g"
+        "slug": "nanlac-supreme-pro-1-a-3-anos"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "nanlac-supreme-pro-ou-comfor",
-        "title": "Nanlac Supreme Pro ou Nanlac Comfor HMO: diferenças de rótulo e preço (1 a 3 anos)"
+        "slug": "nanlac-supreme-pro-ou-comfor"
       }
     ]
   },
@@ -87922,16 +87352,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
     "relatedArticles": [
       {
-        "slug": "nanlac-supreme-pro-1-a-3-anos",
-        "title": "Nanlac Supreme Pro 1 a 3 anos: composição, preparo e quanto rende a lata de 800 g"
+        "slug": "nanlac-supreme-pro-1-a-3-anos"
       },
       {
-        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo",
-        "title": "Leite Ninho: tipos, qual usar no bolo e onde comprar com desconto"
+        "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       }
     ]
   },
@@ -88270,16 +87697,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparativo feito com rótulos e páginas de fabricantes e lojas. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
     "relatedArticles": [
       {
-        "slug": "nutren-a-z-multi-para-que-serve",
-        "title": "Nutren A-Z Multi 60 cápsulas: para que serve, composição por cápsula e como tomar"
+        "slug": "nutren-a-z-multi-para-que-serve"
       },
       {
-        "slug": "nestle-nutre-produtos-para-que-servem",
-        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+        "slug": "nestle-nutre-produtos-para-que-servem"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       }
     ]
   },
@@ -88479,16 +87903,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas dos fabricantes informam.",
     "relatedArticles": [
       {
-        "slug": "nutren-senior-ensure-ou-sustagen-senior",
-        "title": "Nutren Senior, Ensure ou Sustagen Senior: qual escolher pelo rótulo de cada um"
+        "slug": "nutren-senior-ensure-ou-sustagen-senior"
       },
       {
-        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica"
       },
       {
-        "slug": "nutren-senior-como-tomar-sem-empelotar",
-        "title": "Como tomar Nutren Senior sem empelotar"
+        "slug": "nutren-senior-como-tomar-sem-empelotar"
       }
     ]
   },
@@ -88659,16 +88080,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Não recebemos os produtos.",
     "relatedArticles": [
       {
-        "slug": "isosource-1-5-para-que-serve",
-        "title": "Isosource 1.5 Sem Sabor: para que serve, tabela nutricional e quanto rende o litro"
+        "slug": "isosource-1-5-para-que-serve"
       },
       {
-        "slug": "nestle-nutre-produtos-para-que-servem",
-        "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+        "slug": "nestle-nutre-produtos-para-que-servem"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       }
     ]
   },
@@ -88853,16 +88271,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Texto feito a partir da página do produto na loja oficial, sem teste de sabor: as contas são identificadas no texto. Parceria comercial com a Dolce Gusto: pode haver comissão nas compras feitas com o CECI.",
     "relatedArticles": [
       {
-        "slug": "melhores-capsulas-dolce-gusto-2026",
-        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+        "slug": "melhores-capsulas-dolce-gusto-2026"
       },
       {
-        "slug": "quanto-custa-capsula-dolce-gusto",
-        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+        "slug": "quanto-custa-capsula-dolce-gusto"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       }
     ]
   },
@@ -89040,16 +88455,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Ficha feita a partir das páginas do produto na loja oficial, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI.",
     "relatedArticles": [
       {
-        "slug": "melhores-capsulas-dolce-gusto-2026",
-        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+        "slug": "melhores-capsulas-dolce-gusto-2026"
       },
       {
-        "slug": "quanto-custa-capsula-dolce-gusto",
-        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+        "slug": "quanto-custa-capsula-dolce-gusto"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       }
     ]
   },
@@ -89224,16 +88636,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Texto feito a partir da página do produto na loja oficial, sem teste de sabor: as medidas e as contas são identificadas no texto. Parceria comercial com a Dolce Gusto: pode haver comissão nas compras feitas com o CECI.",
     "relatedArticles": [
       {
-        "slug": "melhores-capsulas-dolce-gusto-2026",
-        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+        "slug": "melhores-capsulas-dolce-gusto-2026"
       },
       {
-        "slug": "quanto-custa-capsula-dolce-gusto",
-        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+        "slug": "quanto-custa-capsula-dolce-gusto"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       }
     ]
   },
@@ -89501,16 +88910,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Texto feito a partir das páginas do produto na loja oficial, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI.",
     "relatedArticles": [
       {
-        "slug": "melhores-capsulas-dolce-gusto-2026",
-        "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+        "slug": "melhores-capsulas-dolce-gusto-2026"
       },
       {
-        "slug": "quanto-custa-capsula-dolce-gusto",
-        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+        "slug": "quanto-custa-capsula-dolce-gusto"
       },
       {
-        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-        "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
       }
     ]
   },
@@ -89797,16 +89203,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Rótulos e preços lidos no site oficial da Belive. O texto mostra o que o rótulo informa e não indica quantidade para ninguém. Podemos receber comissão pelo cupom MAUAD.",
     "relatedArticles": [
       {
-        "slug": "brownie-sem-acucar-belive",
-        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+        "slug": "brownie-sem-acucar-belive"
       },
       {
-        "slug": "bolinho-sem-acucar-belive-ou-suavipan",
-        "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+        "slug": "bolinho-sem-acucar-belive-ou-suavipan"
       },
       {
-        "slug": "pao-de-mel-sem-acucar-belive",
-        "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+        "slug": "pao-de-mel-sem-acucar-belive"
       }
     ]
   },
@@ -90127,16 +89530,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Rótulos, ingredientes e preços lidos no site oficial da Belive. Não provamos os brownies. Podemos receber comissão pelo cupom MAUAD.",
     "relatedArticles": [
       {
-        "slug": "doces-sem-acucar-para-diabeticos",
-        "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+        "slug": "doces-sem-acucar-para-diabeticos"
       },
       {
-        "slug": "bolinho-sem-acucar-belive-ou-suavipan",
-        "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+        "slug": "bolinho-sem-acucar-belive-ou-suavipan"
       },
       {
-        "slug": "pao-de-mel-sem-acucar-belive",
-        "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+        "slug": "pao-de-mel-sem-acucar-belive"
       }
     ]
   },
@@ -90465,16 +89865,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com os rótulos e as listas de ingredientes publicados pelas lojas. Não provamos os bolinhos. Podemos receber comissão pelo cupom MAUAD da Belive.",
     "relatedArticles": [
       {
-        "slug": "doces-sem-acucar-para-diabeticos",
-        "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+        "slug": "doces-sem-acucar-para-diabeticos"
       },
       {
-        "slug": "brownie-sem-acucar-belive",
-        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+        "slug": "brownie-sem-acucar-belive"
       },
       {
-        "slug": "pao-de-mel-sem-acucar-belive",
-        "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+        "slug": "pao-de-mel-sem-acucar-belive"
       }
     ]
   },
@@ -90735,16 +90132,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Rótulos, ingredientes, preços e avaliações lidos no site oficial da Belive. Não provamos os pães de mel. Podemos receber comissão pelo cupom MAUAD.",
     "relatedArticles": [
       {
-        "slug": "doces-sem-acucar-para-diabeticos",
-        "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+        "slug": "doces-sem-acucar-para-diabeticos"
       },
       {
-        "slug": "brownie-sem-acucar-belive",
-        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+        "slug": "brownie-sem-acucar-belive"
       },
       {
-        "slug": "bolinho-sem-acucar-belive-ou-suavipan",
-        "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+        "slug": "bolinho-sem-acucar-belive-ou-suavipan"
       }
     ]
   },
@@ -91077,16 +90471,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Black Skull; a Growth não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "black-skull-ou-max-titanium",
-        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+        "slug": "black-skull-ou-max-titanium"
       },
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       },
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       }
     ]
   },
@@ -91501,16 +90892,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Growth não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-ou-probiotica",
-        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+        "slug": "max-titanium-ou-probiotica"
       },
       {
-        "slug": "black-skull-ou-max-titanium",
-        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+        "slug": "black-skull-ou-max-titanium"
       },
       {
-        "slug": "cupom-max-titanium-como-usar",
-        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-max-titanium-como-usar"
       }
     ]
   },
@@ -91793,16 +91181,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Probiótica; a Growth não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-ou-probiotica",
-        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+        "slug": "max-titanium-ou-probiotica"
       },
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       },
       {
-        "slug": "cupom-probiotica-como-usar",
-        "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-probiotica-como-usar"
       }
     ]
   },
@@ -92012,16 +91397,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. A Hostinger hospeda este site.",
     "relatedArticles": [
       {
-        "slug": "hostinger-reclame-aqui-nota-reputacao",
-        "title": "Hostinger no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "hostinger-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       },
       {
-        "slug": "black-friday-hostinger",
-        "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
+        "slug": "black-friday-hostinger"
       }
     ]
   },
@@ -92228,16 +91610,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. Hostinger hosts this site.",
     "relatedArticles": [
       {
-        "slug": "hostinger-trustpilot-reviews",
-        "title": "Hostinger on Trustpilot: the score, the complaints and what 200 reviews show"
+        "slug": "hostinger-trustpilot-reviews"
       },
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       },
       {
-        "slug": "hostinger-black-friday",
-        "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
+        "slug": "hostinger-black-friday"
       }
     ]
   },
@@ -92444,16 +91823,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. Hostinger aloja este sitio.",
     "relatedArticles": [
       {
-        "slug": "hostinger-opiniones-trustpilot",
-        "title": "Hostinger en Trustpilot: calificación, quejas y lo que muestran 200 opiniones"
+        "slug": "hostinger-opiniones-trustpilot"
       },
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       },
       {
-        "slug": "black-friday-hostinger-ofertas",
-        "title": "Black Friday Hostinger 2026: el SONAR20 quita 20% más del precio de la campaña"
+        "slug": "black-friday-hostinger-ofertas"
       }
     ]
   },
@@ -92660,16 +92036,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Hostinger héberge ce site.",
     "relatedArticles": [
       {
-        "slug": "hostinger-avis-trustpilot",
-        "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent 200 avis"
+        "slug": "hostinger-avis-trustpilot"
       },
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       },
       {
-        "slug": "black-friday-hostinger-offres",
-        "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+        "slug": "black-friday-hostinger-offres"
       }
     ]
   },
@@ -92876,16 +92249,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Hostinger hostet diese Website.",
     "relatedArticles": [
       {
-        "slug": "hostinger-trustpilot-bewertungen",
-        "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was 200 Bewertungen zeigen"
+        "slug": "hostinger-trustpilot-bewertungen"
       },
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       },
       {
-        "slug": "hostinger-black-friday-angebote",
-        "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
+        "slug": "hostinger-black-friday-angebote"
       }
     ]
   },
@@ -93092,16 +92462,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono far guadagnare una commissione a Bruno, senza costi extra per te. Hostinger ospita questo sito.",
     "relatedArticles": [
       {
-        "slug": "hostinger-recensioni-trustpilot",
-        "title": "Hostinger su Trustpilot: punteggio, reclami e cosa dicono 200 recensioni"
+        "slug": "hostinger-recensioni-trustpilot"
       },
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       },
       {
-        "slug": "black-friday-hostinger-offerte",
-        "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
+        "slug": "black-friday-hostinger-offerte"
       }
     ]
   },
@@ -93308,16 +92675,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 링크로 구매하시면 브루노에게 수수료가 생길 수 있지만, 회원님께 추가 비용은 없습니다. 호스팅어가 이 사이트를 호스팅합니다.",
     "relatedArticles": [
       {
-        "slug": "hostinger-trustpilot-reviews-ko",
-        "title": "Hostinger Trustpilot 평점, 불만, 그리고 200건의 리뷰가 보여주는 것"
+        "slug": "hostinger-trustpilot-reviews-ko"
       },
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       },
       {
-        "slug": "hostinger-black-friday-ko",
-        "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
+        "slug": "hostinger-black-friday-ko"
       }
     ]
   },
@@ -93524,16 +92888,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合がありますが、あなたに追加の費用はかかりません。このサイトはHostingerで動いています。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trustpilot-reviews-ja",
-        "title": "Hostinger の Trustpilot 評価、苦情、200 件のレビューが示すこと"
+        "slug": "hostinger-trustpilot-reviews-ja"
       },
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       },
       {
-        "slug": "hostinger-black-friday-ja",
-        "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%"
+        "slug": "hostinger-black-friday-ja"
       }
     ]
   },
@@ -93740,16 +93101,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "透過優惠碼 SONAR20 或連結購買，Bruno 可能獲得佣金，但你不需額外付費。Hostinger 也是本站的主機服務商。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trustpilot-reviews-zh-hant",
-        "title": "Hostinger 在 Trustpilot 的評分、投訴，以及 200 則評價說明了什麼"
+        "slug": "hostinger-trustpilot-reviews-zh-hant"
       },
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       },
       {
-        "slug": "hostinger-black-friday-zh-hant",
-        "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
+        "slug": "hostinger-black-friday-zh-hant"
       }
     ]
   },
@@ -93956,16 +93314,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "通过优惠码 SONAR20 或链接购买，Bruno 可能获得佣金，你无需额外付费。Hostinger 也是本站的主机服务商。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trustpilot-reviews-zh-hans",
-        "title": "Hostinger 在 Trustpilot 的评分、投诉，以及 200 条评价说明了什么"
+        "slug": "hostinger-trustpilot-reviews-zh-hans"
       },
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       },
       {
-        "slug": "hostinger-black-friday-zh-hans",
-        "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
+        "slug": "hostinger-black-friday-zh-hans"
       }
     ]
   },
@@ -94248,16 +93603,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. O site roda na Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       },
       {
-        "slug": "black-friday-hostinger",
-        "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
+        "slug": "black-friday-hostinger"
       }
     ]
   },
@@ -94536,16 +93888,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. This site runs on Hostinger.",
     "relatedArticles": [
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       },
       {
-        "slug": "hostinger-black-friday",
-        "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
+        "slug": "hostinger-black-friday"
       }
     ]
   },
@@ -94824,16 +94173,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. El sitio funciona con Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       },
       {
-        "slug": "black-friday-hostinger-ofertas",
-        "title": "Black Friday Hostinger 2026: el SONAR20 quita 20% más del precio de la campaña"
+        "slug": "black-friday-hostinger-ofertas"
       }
     ]
   },
@@ -95112,16 +94458,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Ce site fonctionne sur Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       },
       {
-        "slug": "black-friday-hostinger-offres",
-        "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+        "slug": "black-friday-hostinger-offres"
       }
     ]
   },
@@ -95400,16 +94743,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Diese Seite läuft auf Hostinger.",
     "relatedArticles": [
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       },
       {
-        "slug": "hostinger-black-friday-angebote",
-        "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
+        "slug": "hostinger-black-friday-angebote"
       }
     ]
   },
@@ -95688,16 +95028,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Il sito gira sulla Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       },
       {
-        "slug": "black-friday-hostinger-offerte",
-        "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
+        "slug": "black-friday-hostinger-offerte"
       }
     ]
   },
@@ -95970,16 +95307,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 이 사이트는 Hostinger에서 운영됩니다.",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       },
       {
-        "slug": "hostinger-black-friday-ko",
-        "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
+        "slug": "hostinger-black-friday-ko"
       }
     ]
   },
@@ -96252,16 +95586,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。このサイトは Hostinger で動いています。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       },
       {
-        "slug": "hostinger-black-friday-ja",
-        "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%"
+        "slug": "hostinger-black-friday-ja"
       }
     ]
   },
@@ -96534,16 +95865,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，Bruno 可能獲得佣金，對你沒有額外費用。本網站運行在 Hostinger 上。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       },
       {
-        "slug": "hostinger-black-friday-zh-hant",
-        "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
+        "slug": "hostinger-black-friday-zh-hant"
       }
     ]
   },
@@ -96816,16 +96144,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，对你没有额外费用。本网站运行在 Hostinger 上。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       },
       {
-        "slug": "hostinger-black-friday-zh-hans",
-        "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
+        "slug": "hostinger-black-friday-zh-hans"
       }
     ]
   },
@@ -97000,16 +96325,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. O site roda na Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "hostinger-reclame-aqui-nota-reputacao",
-        "title": "Hostinger no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "hostinger-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "black-friday-hostinger",
-        "title": "Black Friday Hostinger 2026: a promoção ou o link de indicação, qual sai mais barato?"
+        "slug": "black-friday-hostinger"
       }
     ]
   },
@@ -97127,16 +96449,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. This site runs on Hostinger.",
     "relatedArticles": [
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-trustpilot-reviews",
-        "title": "Hostinger on Trustpilot: the score, the complaints and what 200 reviews show"
+        "slug": "hostinger-trustpilot-reviews"
       },
       {
-        "slug": "hostinger-black-friday",
-        "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
+        "slug": "hostinger-black-friday"
       }
     ]
   },
@@ -97254,16 +96573,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. Este sitio funciona con Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "hostinger-opiniones-trustpilot",
-        "title": "Hostinger en Trustpilot: calificación, quejas y lo que muestran 200 opiniones"
+        "slug": "hostinger-opiniones-trustpilot"
       },
       {
-        "slug": "black-friday-hostinger-ofertas",
-        "title": "Black Friday Hostinger 2026: el SONAR20 quita 20% más del precio de la campaña"
+        "slug": "black-friday-hostinger-ofertas"
       }
     ]
   },
@@ -97381,16 +96697,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent générer une commission pour Bruno, sans frais supplémentaires pour vous. Ce site tourne sur Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "hostinger-avis-trustpilot",
-        "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent 200 avis"
+        "slug": "hostinger-avis-trustpilot"
       },
       {
-        "slug": "black-friday-hostinger-offres",
-        "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+        "slug": "black-friday-hostinger-offres"
       }
     ]
   },
@@ -97508,16 +96821,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Diese Website läuft auf Hostinger.",
     "relatedArticles": [
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-trustpilot-bewertungen",
-        "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was 200 Bewertungen zeigen"
+        "slug": "hostinger-trustpilot-bewertungen"
       },
       {
-        "slug": "hostinger-black-friday-angebote",
-        "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
+        "slug": "hostinger-black-friday-angebote"
       }
     ]
   },
@@ -97635,16 +96945,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Questo sito gira su Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "hostinger-recensioni-trustpilot",
-        "title": "Hostinger su Trustpilot: punteggio, reclami e cosa dicono 200 recensioni"
+        "slug": "hostinger-recensioni-trustpilot"
       },
       {
-        "slug": "black-friday-hostinger-offerte",
-        "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
+        "slug": "black-friday-hostinger-offerte"
       }
     ]
   },
@@ -97762,16 +97069,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 링크로 구매하면 Bruno에게 수수료가 생길 수 있지만, 회원님에게는 추가 비용이 없습니다. 이 사이트는 Hostinger에서 운영됩니다.",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-trustpilot-reviews-ko",
-        "title": "Hostinger Trustpilot 평점, 불만, 그리고 200건의 리뷰가 보여주는 것"
+        "slug": "hostinger-trustpilot-reviews-ko"
       },
       {
-        "slug": "hostinger-black-friday-ko",
-        "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
+        "slug": "hostinger-black-friday-ko"
       }
     ]
   },
@@ -97888,16 +97192,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "コードSONAR20またはリンクからの購入では、Brunoに紹介手数料が入る場合があります。あなたに追加の費用はかかりません。このサイトはHostingerで動いています。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-trustpilot-reviews-ja",
-        "title": "Hostinger の Trustpilot 評価、苦情、200 件のレビューが示すこと"
+        "slug": "hostinger-trustpilot-reviews-ja"
       },
       {
-        "slug": "hostinger-black-friday-ja",
-        "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%"
+        "slug": "hostinger-black-friday-ja"
       }
     ],
     "hideFromPortugueseListings": true
@@ -98016,16 +97317,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "透過 SONAR20 優惠碼或連結購買，Bruno 可能獲得傭金，你不需要多付任何費用。本站跑在 Hostinger 上。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-trustpilot-reviews-zh-hant",
-        "title": "Hostinger 在 Trustpilot 的評分、投訴，以及 200 則評價說明了什麼"
+        "slug": "hostinger-trustpilot-reviews-zh-hant"
       },
       {
-        "slug": "hostinger-black-friday-zh-hant",
-        "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
+        "slug": "hostinger-black-friday-zh-hant"
       }
     ]
   },
@@ -98143,16 +97441,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "通过 SONAR20 代码或链接购买，Bruno 可能获得佣金，你不需要多付任何费用。本站跑在 Hostinger 上。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-trustpilot-reviews-zh-hans",
-        "title": "Hostinger 在 Trustpilot 的评分、投诉，以及 200 条评价说明了什么"
+        "slug": "hostinger-trustpilot-reviews-zh-hans"
       },
       {
-        "slug": "hostinger-black-friday-zh-hans",
-        "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
+        "slug": "hostinger-black-friday-zh-hans"
       }
     ]
   },
@@ -98315,16 +97610,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "A Hostinger hospeda este site. Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Confira o total no carrinho antes de pagar.",
     "relatedArticles": [
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "hostinger-reclame-aqui-nota-reputacao",
-        "title": "Hostinger no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "hostinger-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       }
     ],
     "bodyDatesReason": "campanha"
@@ -98442,16 +97734,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger hosts this site. Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. Check the total in the cart before paying.",
     "relatedArticles": [
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-trustpilot-reviews",
-        "title": "Hostinger on Trustpilot: the score, the complaints and what 200 reviews show"
+        "slug": "hostinger-trustpilot-reviews"
       },
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       }
     ]
   },
@@ -98568,16 +97857,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger aloja este sitio. Las compras con el código SONAR20 o a través del enlace pueden generar una comisión para Bruno, sin coste adicional para ti. Comprueba el total en el carrito antes de pagar.",
     "relatedArticles": [
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "hostinger-opiniones-trustpilot",
-        "title": "Hostinger en Trustpilot: calificación, quejas y lo que muestran 200 opiniones"
+        "slug": "hostinger-opiniones-trustpilot"
       },
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       }
     ]
   },
@@ -98694,16 +97980,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger héberge ce site. Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Vérifiez le total dans le panier avant de payer.",
     "relatedArticles": [
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "hostinger-avis-trustpilot",
-        "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent 200 avis"
+        "slug": "hostinger-avis-trustpilot"
       },
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       }
     ]
   },
@@ -98820,16 +98103,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger hostet diese Website. Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Prüfen Sie die Summe im Warenkorb, bevor Sie bezahlen.",
     "relatedArticles": [
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-trustpilot-bewertungen",
-        "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was 200 Bewertungen zeigen"
+        "slug": "hostinger-trustpilot-bewertungen"
       },
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       }
     ]
   },
@@ -98946,16 +98226,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger ospita questo sito. Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Controlla il totale nel carrello prima di pagare.",
     "relatedArticles": [
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "hostinger-recensioni-trustpilot",
-        "title": "Hostinger su Trustpilot: punteggio, reclami e cosa dicono 200 recensioni"
+        "slug": "hostinger-recensioni-trustpilot"
       },
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       }
     ]
   },
@@ -99072,16 +98349,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger가 이 사이트를 호스팅합니다. SONAR20 코드를 쓰거나 링크를 통해 구매하면 회원님께 추가 비용 없이 Bruno에게 수수료가 발생할 수 있습니다. 결제 전에 장바구니에서 합계를 확인하세요.",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-trustpilot-reviews-ko",
-        "title": "Hostinger Trustpilot 평점, 불만, 그리고 200건의 리뷰가 보여주는 것"
+        "slug": "hostinger-trustpilot-reviews-ko"
       },
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       }
     ]
   },
@@ -99198,16 +98472,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostingerはこのサイトをホスティングしています。コードSONAR20またはリンク経由での購入は、あなたの負担なしにBrunoに報酬が入ることがあります。支払い前にカートで合計を確認してください。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-trustpilot-reviews-ja",
-        "title": "Hostinger の Trustpilot 評価、苦情、200 件のレビューが示すこと"
+        "slug": "hostinger-trustpilot-reviews-ja"
       },
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       }
     ]
   },
@@ -99324,16 +98595,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger 代管本站。使用代碼 SONAR20 或透過連結購買，Bruno 可能獲得傭金，你不需要多付任何費用。付款前請在購物車裡核對總價。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-trustpilot-reviews-zh-hant",
-        "title": "Hostinger 在 Trustpilot 的評分、投訴，以及 200 則評價說明了什麼"
+        "slug": "hostinger-trustpilot-reviews-zh-hant"
       },
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       }
     ]
   },
@@ -99450,16 +98718,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Hostinger 托管着本站。使用代码 SONAR20 或通过链接购买，Bruno 可能获得佣金，你无需多付任何费用。付款前请在购物车里核对总价。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-trustpilot-reviews-zh-hans",
-        "title": "Hostinger 在 Trustpilot 的评分、投诉，以及 200 条评价说明了什么"
+        "slug": "hostinger-trustpilot-reviews-zh-hans"
       },
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       }
     ]
   },
@@ -99870,16 +99135,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão da Dolce Gusto pelo cupom CECI e pelos links da loja. As outras marcas não têm link. Ninguém da equipe usou essas máquinas num escritório.",
     "relatedArticles": [
       {
-        "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
-        "title": "Dolce Gusto vs Nespresso vs 3 Corações: qual cafeteira de cápsula escolher em 2026?"
+        "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes"
       },
       {
-        "slug": "dolce-gusto-maquinas-qual-escolher",
-        "title": "Qual Dolce Gusto comprar: Mini Me 2.0, Genio S ou NEO, pelo seu jeito de tomar café"
+        "slug": "dolce-gusto-maquinas-qual-escolher"
       },
       {
-        "slug": "quanto-custa-capsula-dolce-gusto",
-        "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+        "slug": "quanto-custa-capsula-dolce-gusto"
       }
     ],
     "decision": {
@@ -100341,16 +99603,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
     "relatedArticles": [
       {
-        "slug": "presente-natal-quem-gosta-de-cozinhar",
-        "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço"
+        "slug": "presente-natal-quem-gosta-de-cozinhar"
       },
       {
-        "slug": "porto-brasil-e-boa",
-        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+        "slug": "porto-brasil-e-boa"
       },
       {
-        "slug": "black-friday-letseatit",
-        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+        "slug": "black-friday-letseatit"
       }
     ],
     "decision": {
@@ -100700,16 +99959,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estes produtos.",
     "relatedArticles": [
       {
-        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       },
       {
-        "slug": "le-creuset-vale-a-pena",
-        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+        "slug": "le-creuset-vale-a-pena"
       },
       {
-        "slug": "porto-brasil-e-boa",
-        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+        "slug": "porto-brasil-e-boa"
       }
     ],
     "decision": {
@@ -101047,16 +100303,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou os produtos citados.",
     "relatedArticles": [
       {
-        "slug": "black-friday-letseatit",
-        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+        "slug": "black-friday-letseatit"
       },
       {
-        "slug": "le-creuset-vale-a-pena",
-        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+        "slug": "le-creuset-vale-a-pena"
       },
       {
-        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       }
     ],
     "decision": {
@@ -101312,16 +100565,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Cléa Store; os looks são montagens com as fichas da loja. Podemos receber comissão pelo CSEMCASACOMCECILIA e pelos links da loja.",
     "relatedArticles": [
       {
-        "slug": "body-clea-store-second-skin-qual-escolher",
-        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+        "slug": "body-clea-store-second-skin-qual-escolher"
       },
       {
-        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
-        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho"
       },
       {
-        "slug": "cupom-clea-store-como-usar",
-        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-clea-store-como-usar"
       }
     ],
     "decision": {
@@ -101644,16 +100894,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Cléa Store; ninguém da equipe vestiu os bodies. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
-        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho"
       },
       {
-        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
-        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store"
       },
       {
-        "slug": "clea-store-mercado-livre-ou-site",
-        "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato"
+        "slug": "clea-store-mercado-livre-ou-site"
       }
     ]
   },
@@ -101865,16 +101112,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Medidas lidas no site da Cléa Store; ninguém da equipe vestiu as peças. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "body-clea-store-second-skin-qual-escolher",
-        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+        "slug": "body-clea-store-second-skin-qual-escolher"
       },
       {
-        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
-        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store"
       },
       {
-        "slug": "clea-store-e-confiavel",
-        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+        "slug": "clea-store-e-confiavel"
       }
     ]
   },
@@ -102099,16 +101343,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Cléa Store e no Mercado Livre. Podemos receber comissão pelo CSEMCASACOMCECILIA e pelo link do Mercado Livre.",
     "relatedArticles": [
       {
-        "slug": "cupom-clea-store-como-usar",
-        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-clea-store-como-usar"
       },
       {
-        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
-        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store"
       },
       {
-        "slug": "body-clea-store-second-skin-qual-escolher",
-        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+        "slug": "body-clea-store-second-skin-qual-escolher"
       }
     ]
   },
@@ -102430,16 +101671,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA. Não provamos os produtos: os dados são do rótulo publicado no site da loja.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-melhor-sabor",
-        "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+        "slug": "dr-peanut-melhor-sabor"
       },
       {
-        "slug": "dr-peanut-e-confiavel",
-        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "dr-peanut-e-confiavel"
       },
       {
-        "slug": "cupom-dr-peanut-como-usar",
-        "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+        "slug": "cupom-dr-peanut-como-usar"
       }
     ]
   },
@@ -102706,16 +101944,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
     "relatedArticles": [
       {
-        "slug": "tabela-de-medidas-insider",
-        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+        "slug": "tabela-de-medidas-insider"
       },
       {
-        "slug": "insider-vale-a-pena",
-        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+        "slug": "insider-vale-a-pena"
       },
       {
-        "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026 masculino: até 50% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider"
       }
     ]
   },
@@ -103021,16 +102256,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
     "relatedArticles": [
       {
-        "slug": "tabela-de-medidas-insider",
-        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+        "slug": "tabela-de-medidas-insider"
       },
       {
-        "slug": "insider-vale-a-pena",
-        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+        "slug": "insider-vale-a-pena"
       },
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       }
     ]
   },
@@ -103537,16 +102769,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
     "relatedArticles": [
       {
-        "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026 masculino: até 50% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider"
       },
       {
-        "slug": "tabela-de-medidas-insider",
-        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+        "slug": "tabela-de-medidas-insider"
       },
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       }
     ]
   },
@@ -103882,16 +103111,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Black Skull; a Dux não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "black-skull-ou-growth",
-        "title": "Black Skull ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "black-skull-ou-growth"
       },
       {
-        "slug": "black-skull-ou-max-titanium",
-        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+        "slug": "black-skull-ou-max-titanium"
       },
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       }
     ]
   },
@@ -104337,16 +103563,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Dux não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-ou-growth",
-        "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "max-titanium-ou-growth"
       },
       {
-        "slug": "max-titanium-ou-probiotica",
-        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+        "slug": "max-titanium-ou-probiotica"
       },
       {
-        "slug": "black-skull-ou-max-titanium",
-        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+        "slug": "black-skull-ou-max-titanium"
       }
     ]
   },
@@ -104641,16 +103864,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Probiótica; a Dux não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "probiotica-ou-growth",
-        "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "probiotica-ou-growth"
       },
       {
-        "slug": "max-titanium-ou-probiotica",
-        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+        "slug": "max-titanium-ou-probiotica"
       },
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       }
     ]
   },
@@ -104855,16 +104075,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas, sem laudo nem teste dos produtos. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "mais-mu-reclame-aqui-nota-reputacao",
-        "title": "Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "mais-mu-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-mais-mu-como-usar",
-        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+        "slug": "cupom-mais-mu-como-usar"
       },
       {
-        "slug": "black-friday-mais-mu",
-        "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
+        "slug": "black-friday-mais-mu"
       }
     ]
   },
@@ -105108,16 +104325,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "mais-mu-e-confiavel",
-        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "mais-mu-e-confiavel"
       },
       {
-        "slug": "cupom-mais-mu-como-usar",
-        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+        "slug": "cupom-mais-mu-como-usar"
       },
       {
-        "slug": "black-friday-mais-mu",
-        "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
+        "slug": "black-friday-mais-mu"
       }
     ]
   },
@@ -105334,16 +104548,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no checkout oficial. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "mais-mu-e-confiavel",
-        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "mais-mu-e-confiavel"
       },
       {
-        "slug": "mais-mu-reclame-aqui-nota-reputacao",
-        "title": "Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "mais-mu-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "black-friday-mais-mu",
-        "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
+        "slug": "black-friday-mais-mu"
       }
     ]
   },
@@ -105519,16 +104730,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom MMEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "mais-mu-e-confiavel",
-        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "mais-mu-e-confiavel"
       },
       {
-        "slug": "mais-mu-reclame-aqui-nota-reputacao",
-        "title": "Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "mais-mu-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-mais-mu-como-usar",
-        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+        "slug": "cupom-mais-mu-como-usar"
       }
     ]
   },
@@ -105830,16 +105038,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Mais Mu; a Growth não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "mais-mu-ou-dux",
-        "title": "Mais Mu ou Dux: whey e creatina comparados por dose, proteína e preço"
+        "slug": "mais-mu-ou-dux"
       },
       {
-        "slug": "probiotica-ou-growth",
-        "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "probiotica-ou-growth"
       },
       {
-        "slug": "cupom-mais-mu-como-usar",
-        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+        "slug": "cupom-mais-mu-como-usar"
       }
     ]
   },
@@ -106204,16 +105409,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Mais Mu; a Dux não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "mais-mu-ou-growth",
-        "title": "Mais Mu ou Growth: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+        "slug": "mais-mu-ou-growth"
       },
       {
-        "slug": "probiotica-ou-dux",
-        "title": "Probiótica ou Dux: whey e creatina comparados por dose, proteína e preço"
+        "slug": "probiotica-ou-dux"
       },
       {
-        "slug": "cupom-mais-mu-como-usar",
-        "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+        "slug": "cupom-mais-mu-como-usar"
       }
     ]
   },
@@ -106506,16 +105708,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela YesStyle. As regras da Olive Young vêm das páginas dela.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-ou-stylevana",
-        "title": "YesStyle ou Stylevana: entrega, frete, imposto e devolução lado a lado, com Olive Young, StyleKorean e Jolse"
+        "slug": "yesstyle-ou-stylevana"
       },
       {
-        "slug": "yesstyle-entrega-no-brasil-e-portugal",
-        "title": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto"
+        "slug": "yesstyle-entrega-no-brasil-e-portugal"
       },
       {
-        "slug": "codigo-cecilia010-yesstyle-como-usar",
-        "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ]
   },
@@ -106760,16 +105959,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "We may earn a commission from YesStyle. Olive Young's rules come from its own pages.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-olive-young",
-        "title": "YesStyle vs Stylevana: shipping, customs and returns side by side, with Olive Young, StyleKorean and Jolse"
+        "slug": "yesstyle-vs-stylevana-olive-young"
       },
       {
-        "slug": "yesstyle-shipping-us-uk-canada-australia",
-        "title": "Does YesStyle ship to the US, UK, Canada and Australia? Delivery times, shipping costs and customs"
+        "slug": "yesstyle-shipping-us-uk-canada-australia"
       },
       {
-        "slug": "yesstyle-reward-code-coupon-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code"
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
       }
     ],
     "decision": {
@@ -107024,16 +106220,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos recibir comisión de YesStyle. Las reglas de Olive Young salen de sus páginas.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-o-stylevana-cual-elegir",
-        "title": "YesStyle o Stylevana: envíos, impuestos y devoluciones lado a lado, con Olive Young, StyleKorean y Jolse"
+        "slug": "yesstyle-o-stylevana-cual-elegir"
       },
       {
-        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia",
-        "title": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos"
+        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
       },
       {
-        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-        "title": "YesStyle CECILIA010: código de recompensa"
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       }
     ],
     "decision": {
@@ -107288,16 +106481,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Nous pouvons recevoir une commission de YesStyle. Les règles d'Olive Young viennent de ses pages.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-ou-stylevana-que-choisir",
-        "title": "YesStyle ou Stylevana : livraison, taxes et retours côte à côte, avec Olive Young, StyleKorean et Jolse"
+        "slug": "yesstyle-ou-stylevana-que-choisir"
       },
       {
-        "slug": "yesstyle-livraison-france-belgique-canada",
-        "title": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes"
+        "slug": "yesstyle-livraison-france-belgique-canada"
       },
       {
-        "slug": "code-recompense-yesstyle-cecilia010",
-        "title": "YesStyle CECILIA010 : code de récompense"
+        "slug": "code-recompense-yesstyle-cecilia010"
       }
     ],
     "decision": {
@@ -107552,16 +106742,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Wir können von YesStyle eine Provision erhalten. Die Regeln von Olive Young stammen von deren Seiten.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-oder-stylevana-welcher-shop",
-        "title": "YesStyle oder Stylevana: Versand, Zoll und Rückgabe im Vergleich, mit Olive Young, StyleKorean und Jolse"
+        "slug": "yesstyle-oder-stylevana-welcher-shop"
       },
       {
-        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz",
-        "title": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Versandkosten und Zoll"
+        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
       },
       {
-        "slug": "yesstyle-reward-code-rabatt-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code nutzen"
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
       }
     ],
     "decision": {
@@ -107816,16 +107003,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Possiamo ricevere una commissione da YesStyle. Le regole di Olive Young vengono dalle sue pagine.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-o-stylevana-quale-scegliere",
-        "title": "YesStyle o Stylevana: spedizione, dogana e resi a confronto, con Olive Young, StyleKorean e Jolse"
+        "slug": "yesstyle-o-stylevana-quale-scegliere"
       },
       {
-        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana",
-        "title": "YesStyle spedisce in Italia? Tempi di consegna, spese di spedizione e dogana"
+        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
       },
       {
-        "slug": "codice-ricompensa-yesstyle-cecilia010",
-        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
       }
     ],
     "decision": {
@@ -108080,16 +107264,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyle에서 수수료를 받을 수 있습니다. Olive Young의 규칙은 해당 쇼핑몰의 페이지를 따랐습니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-ko",
-        "title": "YesStyle vs Stylevana: 배송, 관세, 반품 비교"
+        "slug": "yesstyle-vs-stylevana-ko"
       },
       {
-        "slug": "yesstyle-shipping-korea-ko",
-        "title": "YesStyle 한국 배송: 배송 기간, 배송비, 관세"
+        "slug": "yesstyle-shipping-korea-ko"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-ko",
-        "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-ko"
       }
     ],
     "decision": {
@@ -108344,16 +107525,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "YesStyleから報酬（コミッション）を受け取る場合があります。Olive Youngのルールは、同社のページにもとづいています。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-ja",
-        "title": "YesStyleとStylevanaを比較：配送・関税・返品"
+        "slug": "yesstyle-vs-stylevana-ja"
       },
       {
-        "slug": "yesstyle-shipping-japan-ja",
-        "title": "YesStyleの日本への配送：日数・送料・関税"
+        "slug": "yesstyle-shipping-japan-ja"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-ja",
-        "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）"
+        "slug": "yesstyle-reward-code-cecilia010-ja"
       }
     ],
     "decision": {
@@ -108608,16 +107786,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "我們可能從 YesStyle 獲得傭金。Olive Young 的規則取自它自己的頁面。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-zh-hant",
-        "title": "YesStyle 還是 Stylevana？運送、稅費與退貨比較"
+        "slug": "yesstyle-vs-stylevana-zh-hant"
       },
       {
-        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
-        "title": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費"
+        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       }
     ],
     "decision": {
@@ -108872,16 +108047,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "我们可能从 YesStyle 获得佣金。Olive Young 的规则取自它自己的页面。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-vs-stylevana-zh-hans",
-        "title": "YesStyle 还是 Stylevana？运送、税费与退货比较"
+        "slug": "yesstyle-vs-stylevana-zh-hans"
       },
       {
-        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans",
-        "title": "YesStyle 寄往新加坡与马来西亚：运送时间、运费与税费"
+        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
       },
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       }
     ],
     "decision": {
@@ -109173,16 +108345,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usa o OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       },
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "black-friday-hostinger",
-        "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
+        "slug": "black-friday-hostinger"
       }
     ]
   },
@@ -109395,16 +108564,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases made with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. Nobody on the team uses OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       },
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-black-friday",
-        "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
+        "slug": "hostinger-black-friday"
       }
     ],
     "decision": {
@@ -109628,16 +108794,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin coste extra para ti. Nadie del equipo usa OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       },
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "black-friday-hostinger-ofertas",
-        "title": "Black Friday Hostinger 2026: el SONAR20 quita 20% más del precio de la campaña"
+        "slug": "black-friday-hostinger-ofertas"
       }
     ],
     "decision": {
@@ -109861,16 +109024,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Personne dans l'équipe n'utilise OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       },
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "black-friday-hostinger-offres",
-        "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+        "slug": "black-friday-hostinger-offres"
       }
     ],
     "decision": {
@@ -110093,16 +109253,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand im Team nutzt OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       },
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-black-friday-angebote",
-        "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
+        "slug": "hostinger-black-friday-angebote"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -110326,16 +109483,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team usa OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       },
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "black-friday-hostinger-offerte",
-        "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
+        "slug": "black-friday-hostinger-offerte"
       }
     ],
     "decision": {
@@ -110559,16 +109713,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 OpenClaw를 쓰지 않습니다.",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       },
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-black-friday-ko",
-        "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
+        "slug": "hostinger-black-friday-ko"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -110793,16 +109944,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も OpenClaw は使っていません。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       },
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-black-friday-ja",
-        "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%"
+        "slug": "hostinger-black-friday-ja"
       }
     ],
     "decision": {
@@ -111026,16 +110174,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人使用 OpenClaw。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-black-friday-zh-hant",
-        "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
+        "slug": "hostinger-black-friday-zh-hant"
       }
     ],
     "decision": {
@@ -111259,16 +110404,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 优惠码 SONAR20或通过链接购买，可能为 Bruno 带来佣金，对你没有额外费用。团队中没有人使用 OpenClaw。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-black-friday-zh-hans",
-        "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
+        "slug": "hostinger-black-friday-zh-hans"
       }
     ],
     "decision": {
@@ -111545,16 +110687,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "コード SONAR20 やリンク経由でのご購入には、Bruno に手数料が入ることがあります。あなたの負担が増えることはありません。チームに OpenClaw を使っている人はいません。",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-ja",
-        "title": "Hostinger の OpenClaw：マネージドか VPS か？それぞれに必要なことと、向いている人"
+        "slug": "openclaw-hostinger-managed-or-vps-ja"
       },
       {
-        "slug": "openclaw-vs-hermes-agent-ja",
-        "title": "OpenClaw か Hermes Agent か：どちらを選び、Hostinger でそれぞれどう動かすか"
+        "slug": "openclaw-vs-hermes-agent-ja"
       },
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       }
     ],
     "decision": {
@@ -111830,16 +110969,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 추가 비용은 없습니다. 팀에서 OpenClaw를 쓰는 사람은 없습니다.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-ko",
-        "title": "호스팅어의 OpenClaw: 관리형인가 VPS인가? 방식별 필요한 작업, 맞는 사람"
+        "slug": "openclaw-hostinger-managed-or-vps-ko"
       },
       {
-        "slug": "openclaw-vs-hermes-agent-ko",
-        "title": "OpenClaw 또는 Hermes Agent: 어떤 것을 고르고 호스팅어에서 각각 어떻게 돌릴까"
+        "slug": "openclaw-vs-hermes-agent-ko"
       },
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -112117,16 +111253,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "通过代码 SONAR20 或链接购买，Bruno 可能获得佣金，你无需额外付费。团队里没有人在用 OpenClaw。",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
-        "title": "OpenClaw 在 Hostinger：托管还是 VPS？各自要做什么，以及适合谁"
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hans"
       },
       {
-        "slug": "openclaw-vs-hermes-agent-zh-hans",
-        "title": "OpenClaw 还是 Hermes Agent？怎么选，以及在 Hostinger 上各自怎么跑"
+        "slug": "openclaw-vs-hermes-agent-zh-hans"
       },
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       }
     ],
     "decision": {
@@ -112403,16 +111536,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "透過代碼 SONAR20 或連結購買，Bruno 可能獲得佣金，你無須額外付費。團隊裡沒有人在用 OpenClaw。",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
-        "title": "OpenClaw 在 Hostinger：託管還是 VPS？各自要做什麼，以及適合誰"
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hant"
       },
       {
-        "slug": "openclaw-vs-hermes-agent-zh-hant",
-        "title": "OpenClaw 還是 Hermes Agent？怎麼選，以及在 Hostinger 上各自怎麼跑"
+        "slug": "openclaw-vs-hermes-agent-zh-hant"
       },
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       }
     ],
     "decision": {
@@ -112689,16 +111819,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases made with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. Nobody on the team uses OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps",
-        "title": "OpenClaw on Hostinger: managed or VPS? What each one requires and who it suits"
+        "slug": "openclaw-hostinger-managed-or-vps"
       },
       {
-        "slug": "openclaw-vs-hermes-agent",
-        "title": "OpenClaw vs Hermes Agent: which to choose and how to run each one on Hostinger"
+        "slug": "openclaw-vs-hermes-agent"
       },
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       }
     ],
     "decision": {
@@ -112974,16 +112101,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team nutzt OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-verwaltet-oder-vps",
-        "title": "OpenClaw bei Hostinger: verwaltet oder VPS? Was jede Option verlangt und für wen sie passt"
+        "slug": "openclaw-hostinger-verwaltet-oder-vps"
       },
       {
-        "slug": "openclaw-oder-hermes-agent",
-        "title": "OpenClaw oder Hermes Agent: welcher passt und wie Sie jeden bei Hostinger betreiben"
+        "slug": "openclaw-oder-hermes-agent"
       },
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -113261,16 +112385,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Personne dans l'équipe n'utilise OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gere-ou-vps",
-        "title": "OpenClaw chez Hostinger : géré ou VPS ? Ce qu'exige chaque option et à qui elle convient"
+        "slug": "openclaw-hostinger-gere-ou-vps"
       },
       {
-        "slug": "openclaw-ou-hermes-agent-que-choisir",
-        "title": "OpenClaw ou Hermes Agent : lequel choisir et comment faire tourner chacun chez Hostinger"
+        "slug": "openclaw-ou-hermes-agent-que-choisir"
       },
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       }
     ],
     "decision": {
@@ -113547,16 +112668,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar una comisión para Bruno, sin costo extra para ti. Nadie del equipo usa OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gestionado-o-vps",
-        "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién sirve"
+        "slug": "openclaw-hostinger-gestionado-o-vps"
       },
       {
-        "slug": "openclaw-o-hermes-agent",
-        "title": "OpenClaw o Hermes Agent: cuál elegir y cómo ejecutar cada uno en Hostinger"
+        "slug": "openclaw-o-hermes-agent"
       },
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       }
     ],
     "decision": {
@@ -113860,16 +112978,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usa o OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gerenciado-ou-vps",
-        "title": "OpenClaw na Hostinger: gerenciado ou VPS? Preço, o que cada um exige e para quem serve"
+        "slug": "openclaw-hostinger-gerenciado-ou-vps"
       },
       {
-        "slug": "openclaw-ou-hermes-agent",
-        "title": "OpenClaw ou Hermes Agent: qual escolher e como rodar cada um na Hostinger"
+        "slug": "openclaw-ou-hermes-agent"
       },
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       }
     ]
   },
@@ -114134,16 +113249,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team usa OpenClaw.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gestito-o-vps",
-        "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi serve"
+        "slug": "openclaw-hostinger-gestito-o-vps"
       },
       {
-        "slug": "openclaw-o-hermes-agent-quale-scegliere",
-        "title": "OpenClaw o Hermes Agent: quale scegliere e come farli girare su Hostinger"
+        "slug": "openclaw-o-hermes-agent-quale-scegliere"
       },
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -114421,16 +113533,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Nessuno del team usa OpenClaw né Hermes Agent.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gestito-o-vps",
-        "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi serve"
+        "slug": "openclaw-hostinger-gestito-o-vps"
       },
       {
-        "slug": "miglior-vps-per-openclaw",
-        "title": "Miglior VPS per OpenClaw: requisiti e quale piano KVM scegliere"
+        "slug": "miglior-vps-per-openclaw"
       },
       {
-        "slug": "paperclip-ai-hostinger-guida",
-        "title": "Paperclip AI: cos'è, se è affidabile e come ospitarlo su Hostinger"
+        "slug": "paperclip-ai-hostinger-guida"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -114708,16 +113817,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar una comisión para Bruno, sin coste extra para ti. Nadie del equipo usa OpenClaw ni Hermes Agent.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gestionado-o-vps",
-        "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién sirve"
+        "slug": "openclaw-hostinger-gestionado-o-vps"
       },
       {
-        "slug": "mejor-vps-para-openclaw",
-        "title": "Mejor VPS para OpenClaw: requisitos y qué plan KVM elegir"
+        "slug": "mejor-vps-para-openclaw"
       },
       {
-        "slug": "paperclip-ai-que-es-hostinger",
-        "title": "Paperclip AI: qué es, si es confiable y cómo alojarlo en Hostinger"
+        "slug": "paperclip-ai-que-es-hostinger"
       }
     ],
     "decision": {
@@ -114993,16 +114099,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand im Team nutzt OpenClaw oder Hermes Agent.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-verwaltet-oder-vps",
-        "title": "OpenClaw bei Hostinger: verwaltet oder VPS? Was jede Option verlangt und für wen sie passt"
+        "slug": "openclaw-hostinger-verwaltet-oder-vps"
       },
       {
-        "slug": "bester-vps-fuer-openclaw",
-        "title": "Bester VPS für OpenClaw: Anforderungen und welcher KVM-Tarif passt"
+        "slug": "bester-vps-fuer-openclaw"
       },
       {
-        "slug": "paperclip-ai-hostinger-anleitung",
-        "title": "Paperclip AI: was es ist, ob es vertrauenswürdig ist und wie Sie es bei Hostinger hosten"
+        "slug": "paperclip-ai-hostinger-anleitung"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -115280,16 +114383,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'utilise OpenClaw ni Hermes Agent.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gere-ou-vps",
-        "title": "OpenClaw chez Hostinger : géré ou VPS ? Ce qu'exige chaque option et à qui elle convient"
+        "slug": "openclaw-hostinger-gere-ou-vps"
       },
       {
-        "slug": "meilleur-vps-pour-openclaw",
-        "title": "Meilleur VPS pour OpenClaw : besoins et forfait KVM à choisir"
+        "slug": "meilleur-vps-pour-openclaw"
       },
       {
-        "slug": "paperclip-ai-hostinger-guide-fr",
-        "title": "Paperclip AI : ce que c'est, s'il est fiable et comment l'héberger chez Hostinger"
+        "slug": "paperclip-ai-hostinger-guide-fr"
       }
     ],
     "decision": {
@@ -115593,16 +114693,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usa o OpenClaw nem o Hermes Agent.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gerenciado-ou-vps",
-        "title": "OpenClaw na Hostinger: gerenciado ou VPS? Preço, o que cada um exige e para quem serve"
+        "slug": "openclaw-hostinger-gerenciado-ou-vps"
       },
       {
-        "slug": "melhor-vps-para-openclaw",
-        "title": "Melhor VPS para OpenClaw: requisitos e qual plano KVM escolher"
+        "slug": "melhor-vps-para-openclaw"
       },
       {
-        "slug": "paperclip-ai-hostinger",
-        "title": "Paperclip AI: o que é, se é confiável e como hospedar na Hostinger"
+        "slug": "paperclip-ai-hostinger"
       }
     ]
   },
@@ -115869,16 +114966,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。追加の費用はかかりません。チームの誰も OpenClaw や Hermes Agent は使っていません。",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-ja",
-        "title": "Hostinger の OpenClaw：マネージドか VPS か？それぞれに必要なことと、向いている人"
+        "slug": "openclaw-hostinger-managed-or-vps-ja"
       },
       {
-        "slug": "best-vps-for-openclaw-ja",
-        "title": "OpenClaw に最適な VPS：必要な条件と選ぶべき KVM プラン"
+        "slug": "best-vps-for-openclaw-ja"
       },
       {
-        "slug": "paperclip-ai-hostinger-ja",
-        "title": "Paperclip AI とは：信頼できるか、Hostinger で運用する方法"
+        "slug": "paperclip-ai-hostinger-ja"
       }
     ],
     "decision": {
@@ -116154,16 +115248,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 OpenClaw나 Hermes Agent를 쓰지 않습니다.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-ko",
-        "title": "호스팅어의 OpenClaw: 관리형인가 VPS인가? 방식별 필요한 작업, 맞는 사람"
+        "slug": "openclaw-hostinger-managed-or-vps-ko"
       },
       {
-        "slug": "best-vps-for-openclaw-ko",
-        "title": "OpenClaw에 가장 좋은 VPS: 요구 사항과 골라야 할 KVM 플랜"
+        "slug": "best-vps-for-openclaw-ko"
       },
       {
-        "slug": "paperclip-ai-hostinger-ko",
-        "title": "Paperclip AI란? 믿을 만한지, 호스팅어에서 운영하는 방법"
+        "slug": "paperclip-ai-hostinger-ko"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -116441,16 +115532,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，对你没有额外费用。团队中没有人使用 OpenClaw 或 Hermes Agent。",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
-        "title": "OpenClaw 在 Hostinger：托管还是 VPS？各自要做什么，以及适合谁"
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hans"
       },
       {
-        "slug": "best-vps-for-openclaw-zh-hans",
-        "title": "OpenClaw 最适合的 VPS：要求与该选哪个 KVM 套餐"
+        "slug": "best-vps-for-openclaw-zh-hans"
       },
       {
-        "slug": "paperclip-ai-hostinger-zh-hans",
-        "title": "Paperclip AI 是什么：是否可靠，以及如何在 Hostinger 上托管"
+        "slug": "paperclip-ai-hostinger-zh-hans"
       }
     ],
     "decision": {
@@ -116727,16 +115815,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 優惠碼或透過本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
-        "title": "OpenClaw 在 Hostinger：託管還是 VPS？各自要做什麼，以及適合誰"
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hant"
       },
       {
-        "slug": "best-vps-for-openclaw-zh-hant",
-        "title": "OpenClaw 最適合的 VPS：需求與該選哪個 KVM 方案"
+        "slug": "best-vps-for-openclaw-zh-hant"
       },
       {
-        "slug": "paperclip-ai-hostinger-zh-hant",
-        "title": "Paperclip AI 是什麼：是否可靠，以及如何在 Hostinger 上託管"
+        "slug": "paperclip-ai-hostinger-zh-hant"
       }
     ],
     "decision": {
@@ -117013,16 +116098,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases made with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. Nobody on the team uses OpenClaw or Hermes Agent.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps",
-        "title": "OpenClaw on Hostinger: managed or VPS? What each one requires and who it suits"
+        "slug": "openclaw-hostinger-managed-or-vps"
       },
       {
-        "slug": "best-vps-for-openclaw",
-        "title": "Best VPS for OpenClaw: requirements and which KVM plan to pick"
+        "slug": "best-vps-for-openclaw"
       },
       {
-        "slug": "paperclip-ai-hostinger-guide",
-        "title": "Paperclip AI: what it is, whether it's reliable and how to host it on Hostinger"
+        "slug": "paperclip-ai-hostinger-guide"
       }
     ],
     "decision": {
@@ -117240,16 +116322,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team nutzt Paperclip.",
     "relatedArticles": [
       {
-        "slug": "openclaw-oder-hermes-agent",
-        "title": "OpenClaw oder Hermes Agent: welcher passt und wie Sie jeden bei Hostinger betreiben"
+        "slug": "openclaw-oder-hermes-agent"
       },
       {
-        "slug": "openclaw-hostinger-verwaltet-oder-vps",
-        "title": "OpenClaw bei Hostinger: verwaltet oder VPS? Was jede Option verlangt und für wen sie passt"
+        "slug": "openclaw-hostinger-verwaltet-oder-vps"
       },
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -117468,16 +116547,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi extra per te. Nessuno della squadra usa Paperclip.",
     "relatedArticles": [
       {
-        "slug": "openclaw-o-hermes-agent-quale-scegliere",
-        "title": "OpenClaw o Hermes Agent: quale scegliere e come farli girare su Hostinger"
+        "slug": "openclaw-o-hermes-agent-quale-scegliere"
       },
       {
-        "slug": "openclaw-hostinger-gestito-o-vps",
-        "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi è adatto"
+        "slug": "openclaw-hostinger-gestito-o-vps"
       },
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -117697,16 +116773,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l’équipe n’utilise Paperclip.",
     "relatedArticles": [
       {
-        "slug": "openclaw-ou-hermes-agent-que-choisir",
-        "title": "OpenClaw ou Hermes Agent : lequel choisir et comment faire tourner chacun chez Hostinger"
+        "slug": "openclaw-ou-hermes-agent-que-choisir"
       },
       {
-        "slug": "openclaw-hostinger-gere-ou-vps",
-        "title": "OpenClaw chez Hostinger : géré ou VPS ? Ce qu'exige chaque option et à qui elle convient"
+        "slug": "openclaw-hostinger-gere-ou-vps"
       },
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       }
     ],
     "decision": {
@@ -117925,16 +116998,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases made with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. No one on the team uses Paperclip.",
     "relatedArticles": [
       {
-        "slug": "openclaw-vs-hermes-agent",
-        "title": "OpenClaw vs Hermes Agent: which to choose and how to run each one on Hostinger"
+        "slug": "openclaw-vs-hermes-agent"
       },
       {
-        "slug": "openclaw-hostinger-managed-or-vps",
-        "title": "OpenClaw on Hostinger: managed or VPS? What each one requires and who it suits"
+        "slug": "openclaw-hostinger-managed-or-vps"
       },
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       }
     ],
     "decision": {
@@ -118153,16 +117223,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "コード SONAR20 またはリンクからのご購入では、Bruno に手数料が入ることがありますが、お客様の負担は増えません。チームの誰も Paperclip を使っていません。",
     "relatedArticles": [
       {
-        "slug": "openclaw-vs-hermes-agent-ja",
-        "title": "OpenClaw か Hermes Agent か：どちらを選び、Hostinger でそれぞれどう動かすか"
+        "slug": "openclaw-vs-hermes-agent-ja"
       },
       {
-        "slug": "openclaw-hostinger-managed-or-vps-ja",
-        "title": "Hostinger の OpenClaw：マネージドか VPS か？それぞれに必要なことと、向いている人"
+        "slug": "openclaw-hostinger-managed-or-vps-ja"
       },
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       }
     ],
     "decision": {
@@ -118380,16 +117447,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "코드 SONAR20이나 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 추가 비용은 없습니다. 팀 중에 Paperclip을 쓰는 사람은 없습니다.",
     "relatedArticles": [
       {
-        "slug": "openclaw-vs-hermes-agent-ko",
-        "title": "OpenClaw 또는 Hermes Agent: 어떤 것을 고르고 호스팅어에서 각각 어떻게 돌릴까"
+        "slug": "openclaw-vs-hermes-agent-ko"
       },
       {
-        "slug": "openclaw-hostinger-managed-or-vps-ko",
-        "title": "호스팅어의 OpenClaw: 관리형인가 VPS인가? 방식별 필요한 작업, 맞는 사람"
+        "slug": "openclaw-hostinger-managed-or-vps-ko"
       },
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -118609,16 +117673,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "通过代码 SONAR20 或链接购买，Bruno 可能获得佣金，您无需额外付费。团队里没有人使用 Paperclip。",
     "relatedArticles": [
       {
-        "slug": "openclaw-vs-hermes-agent-zh-hans",
-        "title": "OpenClaw 还是 Hermes Agent？怎么选，以及在 Hostinger 上各自怎么跑"
+        "slug": "openclaw-vs-hermes-agent-zh-hans"
       },
       {
-        "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
-        "title": "OpenClaw 在 Hostinger：托管还是 VPS？各自要做什么，以及适合谁"
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hans"
       },
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       }
     ],
     "decision": {
@@ -118837,16 +117898,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "透過代碼 SONAR20 或連結購買，Bruno 可能獲得傭金，您無需額外付費。團隊裡沒有人使用 Paperclip。",
     "relatedArticles": [
       {
-        "slug": "openclaw-vs-hermes-agent-zh-hant",
-        "title": "OpenClaw 還是 Hermes Agent？怎麼選，以及在 Hostinger 上各自怎麼跑"
+        "slug": "openclaw-vs-hermes-agent-zh-hant"
       },
       {
-        "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
-        "title": "OpenClaw 在 Hostinger：託管還是 VPS？各自要做什麼，以及適合誰"
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hant"
       },
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       }
     ],
     "decision": {
@@ -119118,16 +118176,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usa o Paperclip.",
     "relatedArticles": [
       {
-        "slug": "openclaw-ou-hermes-agent",
-        "title": "OpenClaw ou Hermes Agent: qual escolher e como rodar cada um na Hostinger"
+        "slug": "openclaw-ou-hermes-agent"
       },
       {
-        "slug": "openclaw-hostinger-gerenciado-ou-vps",
-        "title": "OpenClaw na Hostinger: gerenciado ou VPS? Preço, o que cada um exige e para quem serve"
+        "slug": "openclaw-hostinger-gerenciado-ou-vps"
       },
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       }
     ]
   },
@@ -119336,16 +118391,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o mediante el enlace pueden generar comisión para Bruno, sin costo extra para ti. Nadie del equipo usa Paperclip.",
     "relatedArticles": [
       {
-        "slug": "openclaw-o-hermes-agent",
-        "title": "OpenClaw o Hermes Agent: cuál elegir y cómo ejecutar cada uno en Hostinger"
+        "slug": "openclaw-o-hermes-agent"
       },
       {
-        "slug": "openclaw-hostinger-gestionado-o-vps",
-        "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién es"
+        "slug": "openclaw-hostinger-gestionado-o-vps"
       },
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       }
     ],
     "decision": {
@@ -119573,12 +118625,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "skelt-reclame-aqui-nota-reputacao",
-        "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "skelt-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       }
     ],
     "imageAspect": "landscape"
@@ -119824,16 +118874,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "skelt-e-confiavel",
-        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "skelt-e-confiavel"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       },
       {
-        "slug": "black-friday-skelt",
-        "title": "Black Friday Skelt 2026: preços de outubro e o que a loja ainda não anunciou"
+        "slug": "black-friday-skelt"
       }
     ]
   },
@@ -120057,16 +119104,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado até a sacola, sem finalizar. Podemos receber comissão pelo SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "skelt-e-confiavel",
-        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "skelt-e-confiavel"
       },
       {
-        "slug": "skelt-reclame-aqui-nota-reputacao",
-        "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "skelt-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "black-friday-skelt",
-        "title": "Black Friday Skelt 2026: preços de outubro e o que a loja ainda não anunciou"
+        "slug": "black-friday-skelt"
       }
     ]
   },
@@ -120275,16 +119319,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "skelt-e-confiavel",
-        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "skelt-e-confiavel"
       },
       {
-        "slug": "skelt-reclame-aqui-nota-reputacao",
-        "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "skelt-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       }
     ]
   },
@@ -120542,20 +119583,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelas compras feitas com o CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "bagaggio-reclame-aqui-nota-reputacao",
-        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+        "slug": "bagaggio-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "bagaggio-garantia-vitalicia",
-        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+        "slug": "bagaggio-garantia-vitalicia"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       },
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       }
     ],
     "imageAspect": "landscape"
@@ -120819,20 +119856,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "bagaggio-e-confiavel",
-        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+        "slug": "bagaggio-e-confiavel"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       },
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       },
       {
-        "slug": "bagaggio-garantia-vitalicia",
-        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+        "slug": "bagaggio-garantia-vitalicia"
       }
     ],
     "bodyDatesReason": "reclame-aqui"
@@ -121054,20 +120087,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado até a sacola, sem finalizar. Podemos receber comissão pelo CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "bagaggio-e-confiavel",
-        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+        "slug": "bagaggio-e-confiavel"
       },
       {
-        "slug": "bagaggio-reclame-aqui-nota-reputacao",
-        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+        "slug": "bagaggio-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       },
       {
-        "slug": "bagaggio-garantia-vitalicia",
-        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+        "slug": "bagaggio-garantia-vitalicia"
       }
     ]
   },
@@ -121304,20 +120333,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "bagaggio-e-confiavel",
-        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+        "slug": "bagaggio-e-confiavel"
       },
       {
-        "slug": "bagaggio-reclame-aqui-nota-reputacao",
-        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+        "slug": "bagaggio-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       },
       {
-        "slug": "bagaggio-garantia-vitalicia",
-        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+        "slug": "bagaggio-garantia-vitalicia"
       }
     ],
     "bodyDatesReason": "campanha"
@@ -121605,20 +120630,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas da própria loja. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "bagaggio-e-confiavel",
-        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+        "slug": "bagaggio-e-confiavel"
       },
       {
-        "slug": "bagaggio-reclame-aqui-nota-reputacao",
-        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+        "slug": "bagaggio-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       },
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       }
     ],
     "imageAspect": "landscape"
@@ -122038,16 +121059,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo CECILIA12. Só usamos a reclinável e o sofá modular.",
     "relatedArticles": [
       {
-        "slug": "black-friday-damie",
-        "title": "Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12"
+        "slug": "black-friday-damie"
       },
       {
-        "slug": "poltrona-damie-e-boa",
-        "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0"
+        "slug": "poltrona-damie-e-boa"
       },
       {
-        "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular",
-        "title": "Sofá Damie na Caixa: Vale a pena o modular?"
+        "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular"
       }
     ]
   },
@@ -122415,16 +121433,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       },
       {
-        "slug": "black-friday-skelt",
-        "title": "Black Friday Skelt 2026: preços de outubro e o que a loja ainda não anunciou"
+        "slug": "black-friday-skelt"
       },
       {
-        "slug": "skelt-e-confiavel",
-        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "skelt-e-confiavel"
       }
     ]
   },
@@ -123132,16 +122147,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Somos afiliados das cinco marcas e ninguém da equipe tomou os wheys.",
     "relatedArticles": [
       {
-        "slug": "black-skull-ou-max-titanium",
-        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+        "slug": "black-skull-ou-max-titanium"
       },
       {
-        "slug": "max-titanium-ou-probiotica",
-        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+        "slug": "max-titanium-ou-probiotica"
       },
       {
-        "slug": "dr-peanut-melhor-sabor",
-        "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+        "slug": "dr-peanut-melhor-sabor"
       }
     ]
   },
@@ -123462,16 +122474,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Comissão pela Skelt; a Best Bronze não é parceira. Não usamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "autobronzeador-skelt-qual-escolher",
-        "title": "Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark"
+        "slug": "autobronzeador-skelt-qual-escolher"
       },
       {
-        "slug": "skelt-e-confiavel",
-        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "skelt-e-confiavel"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       }
     ]
   },
@@ -123717,16 +122726,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "black-skull-ou-max-titanium",
-        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+        "slug": "black-skull-ou-max-titanium"
       },
       {
-        "slug": "black-skull-ou-growth",
-        "title": "Black Skull ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "black-skull-ou-growth"
       },
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       }
     ]
   },
@@ -123779,16 +122785,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "autobronzeador-skelt-qual-escolher",
-        "title": "Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark"
+        "slug": "autobronzeador-skelt-qual-escolher"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       },
       {
-        "slug": "skelt-e-confiavel",
-        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "skelt-e-confiavel"
       }
     ],
     "contentSections": [
@@ -124239,16 +123242,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Cléa Store. Não compramos nem vestimos a peça. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
-        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho"
       },
       {
-        "slug": "body-clea-store-second-skin-qual-escolher",
-        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+        "slug": "body-clea-store-second-skin-qual-escolher"
       },
       {
-        "slug": "cupom-clea-store-como-usar",
-        "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-clea-store-como-usar"
       }
     ],
     "contentSections": [
@@ -124716,16 +123716,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "creatina-black-skull-qual-escolher",
-        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+        "slug": "creatina-black-skull-qual-escolher"
       },
       {
-        "slug": "whey-black-skull-qual-escolher",
-        "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo"
+        "slug": "whey-black-skull-qual-escolher"
       },
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       }
     ]
   },
@@ -124778,16 +123775,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não tomamos os wheys. Podemos receber comissão pelo cupom CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "melhor-whey-qual-escolher-por-objetivo",
-        "title": "Melhor whey em 2026: qual escolher para cada objetivo"
+        "slug": "melhor-whey-qual-escolher-por-objetivo"
       },
       {
-        "slug": "black-skull-ou-max-titanium",
-        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+        "slug": "black-skull-ou-max-titanium"
       },
       {
-        "slug": "creatina-black-skull-qual-escolher",
-        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+        "slug": "creatina-black-skull-qual-escolher"
       }
     ],
     "contentSections": [
@@ -125395,16 +124389,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Dark Lab não é parceira. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "black-skull-ou-growth",
-        "title": "Black Skull ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "black-skull-ou-growth"
       },
       {
-        "slug": "black-skull-ou-dux",
-        "title": "Black Skull ou Dux: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+        "slug": "black-skull-ou-dux"
       },
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       }
     ]
   },
@@ -125739,16 +124730,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom DREMCASACOMCECILIA. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-e-saudavel",
-        "title": "Dr. Peanut é saudável? O que a pasta, o alfajor, a Doctor Bar, a Doctor Wafer e o whey trazem no rótulo"
+        "slug": "dr-peanut-e-saudavel"
       },
       {
-        "slug": "dr-peanut-melhor-sabor",
-        "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+        "slug": "dr-peanut-melhor-sabor"
       },
       {
-        "slug": "dr-peanut-e-confiavel",
-        "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "dr-peanut-e-confiavel"
       }
     ]
   },
@@ -126026,16 +125014,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom. Não provamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-melhor-sabor",
-        "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+        "slug": "dr-peanut-melhor-sabor"
       },
       {
-        "slug": "cupom-dr-peanut-como-usar",
-        "title": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut: 10% em todo o site"
+        "slug": "cupom-dr-peanut-como-usar"
       },
       {
-        "slug": "black-friday-dr-peanut",
-        "title": "Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis"
+        "slug": "black-friday-dr-peanut"
       }
     ]
   },
@@ -126460,20 +125445,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão por compras feitas com o cupom e o link deste texto.",
     "relatedArticles": [
       {
-        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
-        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store"
       },
       {
-        "slug": "body-clea-store-second-skin-qual-escolher",
-        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+        "slug": "body-clea-store-second-skin-qual-escolher"
       },
       {
-        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
-        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho"
       },
       {
-        "slug": "clea-store-mercado-livre-ou-site",
-        "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato"
+        "slug": "clea-store-mercado-livre-ou-site"
       }
     ]
   },
@@ -126714,16 +125695,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos as creatinas. Podemos receber comissão pelos cupons das marcas citadas.",
     "relatedArticles": [
       {
-        "slug": "creatina-black-skull-qual-escolher",
-        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+        "slug": "creatina-black-skull-qual-escolher"
       },
       {
-        "slug": "black-skull-ou-max-titanium",
-        "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+        "slug": "black-skull-ou-max-titanium"
       },
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       }
     ]
   },
@@ -126953,20 +125931,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom CECILIA10. A Integralmédica não é parceira.",
     "relatedArticles": [
       {
-        "slug": "black-skull-ou-dark-lab",
-        "title": "Black Skull ou Dark Lab: whey e creatina comparados por dose, proteína e preço"
+        "slug": "black-skull-ou-dark-lab"
       },
       {
-        "slug": "black-skull-ou-growth",
-        "title": "Black Skull ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "black-skull-ou-growth"
       },
       {
-        "slug": "black-skull-ou-dux",
-        "title": "Black Skull ou Dux: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+        "slug": "black-skull-ou-dux"
       },
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       }
     ]
   },
@@ -127261,16 +126235,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Dr. Peanut. A La Ganexa não é parceira. Sem degustação.",
     "relatedArticles": [
       {
-        "slug": "dr-peanut-qual-tamanho-compensa",
-        "title": "Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa"
+        "slug": "dr-peanut-qual-tamanho-compensa"
       },
       {
-        "slug": "dr-peanut-melhor-sabor",
-        "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+        "slug": "dr-peanut-melhor-sabor"
       },
       {
-        "slug": "dr-peanut-e-saudavel",
-        "title": "Dr. Peanut é saudável? O que a pasta, o alfajor, a Doctor Bar, a Doctor Wafer e o whey trazem no rótulo"
+        "slug": "dr-peanut-e-saudavel"
       }
     ]
   },
@@ -127740,16 +126711,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links e cupons das lojas listadas.",
     "relatedArticles": [
       {
-        "slug": "melhor-whey-qual-escolher-por-objetivo",
-        "title": "Melhor whey em 2026: qual escolher para cada objetivo"
+        "slug": "melhor-whey-qual-escolher-por-objetivo"
       },
       {
-        "slug": "creatina-black-skull-qual-escolher",
-        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+        "slug": "creatina-black-skull-qual-escolher"
       },
       {
-        "slug": "presente-natal-quem-gosta-de-cozinhar",
-        "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço"
+        "slug": "presente-natal-quem-gosta-de-cozinhar"
       }
     ]
   },
@@ -128119,16 +127087,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom MMEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "mais-mu-e-confiavel",
-        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "mais-mu-e-confiavel"
       },
       {
-        "slug": "cupom-mais-mu-como-usar",
-        "title": "Como usar o cupom MMEMCASACOMCECILIA na Mais Mu e o que ele não cobre"
+        "slug": "cupom-mais-mu-como-usar"
       },
       {
-        "slug": "pre-treino-black-skull-bope-ou-bone-crusher",
-        "title": "Pré-treino Black Skull: BOPE ou Bone Crusher, pela tabela do rótulo e pelo preço por dose"
+        "slug": "pre-treino-black-skull-bope-ou-bone-crusher"
       }
     ]
   },
@@ -128584,16 +127549,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo código MMEMCASACOMCECILIA. Sem degustação: dados da loja.",
     "relatedArticles": [
       {
-        "slug": "mais-mu-ou-growth",
-        "title": "Mais Mu ou Growth: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+        "slug": "mais-mu-ou-growth"
       },
       {
-        "slug": "mais-mu-e-confiavel",
-        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "mais-mu-e-confiavel"
       },
       {
-        "slug": "pre-treino-exquenta-mais-mu-e-bom",
-        "title": "Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína"
+        "slug": "pre-treino-exquenta-mais-mu-e-bom"
       }
     ]
   },
@@ -128910,16 +127872,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom MMEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "mais-mu-e-confiavel",
-        "title": "Mais Mu é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "mais-mu-e-confiavel"
       },
       {
-        "slug": "cupom-mais-mu-como-usar",
-        "title": "Como usar o cupom MMEMCASACOMCECILIA na Mais Mu e o que ele não cobre"
+        "slug": "cupom-mais-mu-como-usar"
       },
       {
-        "slug": "black-friday-mais-mu",
-        "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
+        "slug": "black-friday-mais-mu"
       }
     ],
     "decision": {
@@ -128974,16 +127933,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
     "relatedArticles": [
       {
-        "slug": "sofa-na-caixa-inflow-ou-damie",
-        "title": "Sofá na Caixa, Inflow ou DAMIE: qual a diferença e qual escolher"
+        "slug": "sofa-na-caixa-inflow-ou-damie"
       },
       {
-        "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais",
-        "title": "Sofá na caixa ou sofá montado: qual dura mais?"
+        "slug": "sofa-na-caixa-ou-sofa-montado-qual-dura-mais"
       },
       {
-        "slug": "sofa-damie-modular-vale-a-pena",
-        "title": "Sofá Damie Modular: vale a pena? Entrega, puff, tecido e o que observar antes de comprar"
+        "slug": "sofa-damie-modular-vale-a-pena"
       }
     ],
     "contentSections": [
@@ -129371,16 +128327,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "A Let's Eat It é parceira: podemos receber comissão pelas compras no site. Ninguém da equipe usou as panelas citadas.",
     "relatedArticles": [
       {
-        "slug": "le-creuset-original-como-saber",
-        "title": "Le Creuset original: como saber e onde comprar"
+        "slug": "le-creuset-original-como-saber"
       },
       {
-        "slug": "le-creuset-vale-a-pena",
-        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+        "slug": "le-creuset-vale-a-pena"
       },
       {
-        "slug": "black-friday-letseatit",
-        "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+        "slug": "black-friday-letseatit"
       }
     ],
     "contentSections": [
@@ -129658,16 +128611,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "A Let's Eat It é parceira: podemos receber comissão pelas compras no site. Ninguém da equipe comprou nem conferiu uma peça Le Creuset.",
     "relatedArticles": [
       {
-        "slug": "le-creuset-qual-tamanho-escolher",
-        "title": "Le Creuset 20 ou 24 cm: qual tamanho escolher (e quando o buffet faz sentido)"
+        "slug": "le-creuset-qual-tamanho-escolher"
       },
       {
-        "slug": "lets-eat-it-e-confiavel",
-        "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+        "slug": "lets-eat-it-e-confiavel"
       },
       {
-        "slug": "le-creuset-vale-a-pena",
-        "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+        "slug": "le-creuset-vale-a-pena"
       }
     ],
     "contentSections": [
@@ -129853,16 +128803,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "relatedArticles": [
       {
-        "slug": "toda-up-reclame-aqui-nota-reputacao",
-        "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram"
+        "slug": "toda-up-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       },
       {
-        "slug": "black-friday-toda-up",
-        "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom"
+        "slug": "black-friday-toda-up"
       }
     ],
     "contentSections": [
@@ -130090,16 +129037,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados do Reclame Aqui mudam com o tempo. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "relatedArticles": [
       {
-        "slug": "toda-up-e-confiavel",
-        "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "toda-up-e-confiavel"
       },
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       },
       {
-        "slug": "black-friday-toda-up",
-        "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom"
+        "slug": "black-friday-toda-up"
       }
     ],
     "contentSections": [
@@ -130308,16 +129252,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado até o carrinho, sem finalizar. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "relatedArticles": [
       {
-        "slug": "black-friday-toda-up",
-        "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom"
+        "slug": "black-friday-toda-up"
       },
       {
-        "slug": "toda-up-e-confiavel",
-        "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "toda-up-e-confiavel"
       },
       {
-        "slug": "toda-up-reclame-aqui-nota-reputacao",
-        "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram"
+        "slug": "toda-up-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -130508,16 +129449,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "relatedArticles": [
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       },
       {
-        "slug": "toda-up-e-confiavel",
-        "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "toda-up-e-confiavel"
       },
       {
-        "slug": "toda-up-reclame-aqui-nota-reputacao",
-        "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram"
+        "slug": "toda-up-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -130850,16 +129788,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as informações publicadas pela Toda Up; ninguém do site usou a fita. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "relatedArticles": [
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       },
       {
-        "slug": "toda-up-e-confiavel",
-        "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "toda-up-e-confiavel"
       },
       {
-        "slug": "black-friday-toda-up",
-        "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom"
+        "slug": "black-friday-toda-up"
       }
     ],
     "contentSections": [
@@ -131031,16 +129966,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as informações publicadas pela Toda Up; ninguém do site usou o sutiã. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "relatedArticles": [
       {
-        "slug": "fita-up-como-usar",
-        "title": "Fita Up: como usar no tomara que caia e no decote (e se dá para reutilizar)"
+        "slug": "fita-up-como-usar"
       },
       {
-        "slug": "protetor-de-silicone-mamilo-como-usar",
-        "title": "Protetor de silicone da Toda Up: qual tamanho e quantas vezes dá para usar"
+        "slug": "protetor-de-silicone-mamilo-como-usar"
       },
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       }
     ],
     "contentSections": [
@@ -131268,16 +130200,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as informações publicadas pela Toda Up; ninguém do site usou o protetor. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "relatedArticles": [
       {
-        "slug": "sutia-de-silicone-invisivel-como-usar",
-        "title": "Sutiã de silicone invisível: como usar e para qual roupa"
+        "slug": "sutia-de-silicone-invisivel-como-usar"
       },
       {
-        "slug": "fita-up-como-usar",
-        "title": "Fita Up: como usar no tomara que caia e no decote (e se dá para reutilizar)"
+        "slug": "fita-up-como-usar"
       },
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       }
     ],
     "contentSections": [
@@ -131431,16 +130360,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Ninguém do site usou o Masstodon nem o Monstrous. Podemos receber comissão pelo cupom CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "whey-black-skull-qual-escolher",
-        "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo"
+        "slug": "whey-black-skull-qual-escolher"
       },
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       },
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       }
     ],
     "contentSections": [
@@ -131812,16 +130738,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Black Skull e na loja oficial do Mercado Livre. Podemos receber comissão pelo CECILIA10 e pelo link do Mercado Livre. Ninguém da equipe usou os produtos.",
     "relatedArticles": [
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       },
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       },
       {
-        "slug": "whey-black-skull-qual-escolher",
-        "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo"
+        "slug": "whey-black-skull-qual-escolher"
       }
     ],
     "contentSections": [
@@ -132090,16 +131013,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Insider e na loja oficial do Mercado Livre. Podemos receber comissão pelo EMCASACOMCECILIA e pelo link do Mercado Livre.",
     "relatedArticles": [
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Como usar o cupom EMCASACOMCECILIA na Insider Store: 15% de desconto"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       },
       {
-        "slug": "insider-store-e-confiavel",
-        "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+        "slug": "insider-store-e-confiavel"
       },
       {
-        "slug": "cueca-insider-comfort-ou-performance",
-        "title": "Cueca Insider: Comfort, Performance, Seamless Touch ou Slip, qual escolher"
+        "slug": "cueca-insider-comfort-ou-performance"
       }
     ],
     "contentSections": [
@@ -132427,16 +131347,13 @@ export const reviewsData: unknown[] = [
     },
     "relatedArticles": [
       {
-        "slug": "black-friday-nestle-nutre",
-        "title": "Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre"
+        "slug": "black-friday-nestle-nutre"
       },
       {
-        "slug": "cupom-ceci-nestle-nutre-como-usar",
-        "title": "Como usar o cupom CECI na Nestlé Nutre: 10% de desconto"
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
       },
       {
-        "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-        "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+        "slug": "nutren-senior-zero-lactose-ficha-tecnica"
       }
     ],
     "contentSections": [
@@ -132653,16 +131570,13 @@ export const reviewsData: unknown[] = [
     },
     "relatedArticles": [
       {
-        "slug": "brownie-sem-acucar-belive",
-        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+        "slug": "brownie-sem-acucar-belive"
       },
       {
-        "slug": "cupom-belive-como-usar",
-        "title": "Como usar o cupom da Belive e o que ele soma"
+        "slug": "cupom-belive-como-usar"
       },
       {
-        "slug": "doces-sem-acucar-para-diabeticos",
-        "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+        "slug": "doces-sem-acucar-para-diabeticos"
       }
     ],
     "contentSections": [
@@ -132934,16 +131848,13 @@ export const reviewsData: unknown[] = [
     },
     "relatedArticles": [
       {
-        "slug": "cupom-belive-como-usar",
-        "title": "Como usar o cupom da Belive e o que ele soma"
+        "slug": "cupom-belive-como-usar"
       },
       {
-        "slug": "belive-e-confiavel",
-        "title": "Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar"
+        "slug": "belive-e-confiavel"
       },
       {
-        "slug": "cookies-sem-acucar-belive",
-        "title": "Cookies sem açúcar da Belive: qual sabor escolher e quanto sai cada um"
+        "slug": "cookies-sem-acucar-belive"
       }
     ],
     "contentSections": [
@@ -133170,16 +132081,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços e rótulos lidos na loja oficial da Belive. Podemos receber comissão pelo cupom MAUAD. Ninguém da equipe provou os bolinhos.",
     "relatedArticles": [
       {
-        "slug": "bolinho-sem-acucar-belive-ou-suavipan",
-        "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+        "slug": "bolinho-sem-acucar-belive-ou-suavipan"
       },
       {
-        "slug": "cupom-belive-como-usar",
-        "title": "Como usar o cupom da Belive e o que ele soma"
+        "slug": "cupom-belive-como-usar"
       },
       {
-        "slug": "cookies-sem-acucar-belive",
-        "title": "Cookies sem açúcar da Belive: qual sabor escolher e quanto sai cada um"
+        "slug": "cookies-sem-acucar-belive"
       }
     ],
     "contentSections": [
@@ -133428,16 +132336,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Link de afiliado: podemos receber comissão pelo link e pelo código de recompensa CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "codigo-cecilia010-yesstyle-como-usar",
-        "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
+        "slug": "codigo-cecilia010-yesstyle-como-usar"
       },
       {
-        "slug": "yesstyle-e-confiavel",
-        "title": "YesStyle é confiável? O que observar antes de comprar"
+        "slug": "yesstyle-e-confiavel"
       },
       {
-        "slug": "yesstyle-entrega-no-brasil-e-portugal",
-        "title": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto"
+        "slug": "yesstyle-entrega-no-brasil-e-portugal"
       }
     ],
     "contentSections": [
@@ -133633,16 +132538,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Affiliate link: we may earn a commission from the link and from the CECILIA010 reward code.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-coupon-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code"
+        "slug": "yesstyle-reward-code-coupon-cecilia010"
       },
       {
-        "slug": "is-yesstyle-legit-and-safe-review",
-        "title": "Is YesStyle Legit and Safe? What to Know Before Shopping"
+        "slug": "is-yesstyle-legit-and-safe-review"
       },
       {
-        "slug": "yesstyle-shipping-us-uk-canada-australia",
-        "title": "Does YesStyle ship to the US, UK, Canada and Australia? Delivery times, shipping costs and customs"
+        "slug": "yesstyle-shipping-us-uk-canada-australia"
       }
     ],
     "contentSections": [
@@ -133829,16 +132731,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Enlace de afiliado: podemos recibir comisión por el enlace y por el código de recompensa CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-        "title": "YesStyle CECILIA010: código de recompensa"
+        "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       },
       {
-        "slug": "es-yesstyle-de-fiar-y-seguro",
-        "title": "¿YesStyle es confiable y seguro? Quién la opera, de dónde es y envíos"
+        "slug": "es-yesstyle-de-fiar-y-seguro"
       },
       {
-        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia",
-        "title": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos"
+        "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
       }
     ],
     "contentSections": [
@@ -134025,16 +132924,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Lien d'affiliation : nous pouvons toucher une commission via le lien et via le code récompense CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "code-recompense-yesstyle-cecilia010",
-        "title": "YesStyle CECILIA010 : code de récompense"
+        "slug": "code-recompense-yesstyle-cecilia010"
       },
       {
-        "slug": "yesstyle-est-il-fiable-et-sur",
-        "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter"
+        "slug": "yesstyle-est-il-fiable-et-sur"
       },
       {
-        "slug": "yesstyle-livraison-france-belgique-canada",
-        "title": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes"
+        "slug": "yesstyle-livraison-france-belgique-canada"
       }
     ],
     "contentSections": [
@@ -134221,16 +133117,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Link di affiliazione: possiamo ricevere una commissione dal link e dal codice ricompensa CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "codice-ricompensa-yesstyle-cecilia010",
-        "title": "Codice ricompensa YesStyle CECILIA010: come usarlo al checkout"
+        "slug": "codice-ricompensa-yesstyle-cecilia010"
       },
       {
-        "slug": "yesstyle-e-affidabile-e-sicuro",
-        "title": "YesStyle è affidabile e sicuro? Cosa sapere prima di comprare"
+        "slug": "yesstyle-e-affidabile-e-sicuro"
       },
       {
-        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana",
-        "title": "YesStyle spedisce in Italia? Tempi di consegna, spese di spedizione e dogana"
+        "slug": "yesstyle-spedizione-italia-tempi-costi-dogana"
       }
     ],
     "contentSections": [
@@ -134417,16 +133310,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Affiliate-Link: Wir erhalten möglicherweise eine Provision über den Link und den Reward Code CECILIA010.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-rabatt-cecilia010",
-        "title": "YesStyle CECILIA010: Reward Code nutzen"
+        "slug": "yesstyle-reward-code-rabatt-cecilia010"
       },
       {
-        "slug": "ist-yesstyle-serioes-und-sicher",
-        "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen"
+        "slug": "ist-yesstyle-serioes-und-sicher"
       },
       {
-        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz",
-        "title": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Versandkosten und Zoll"
+        "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
       }
     ],
     "contentSections": [
@@ -134613,16 +133503,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "アフィリエイトリンク：このリンクとリワードコードCECILIA010を通じて、報酬を受け取る場合があります。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ja",
-        "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）"
+        "slug": "yesstyle-reward-code-cecilia010-ja"
       },
       {
-        "slug": "yesstyle-trust-guide-ja",
-        "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+        "slug": "yesstyle-trust-guide-ja"
       },
       {
-        "slug": "yesstyle-shipping-japan-ja",
-        "title": "YesStyleの日本への配送：日数・送料・関税"
+        "slug": "yesstyle-shipping-japan-ja"
       }
     ],
     "contentSections": [
@@ -134809,16 +133696,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "제휴 링크: 이 링크와 리워드 코드 CECILIA010을 통해 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-ko",
-        "title": "YesStyle 리워드 코드 CECILIA010: 최대 5% 할인 (첫 구매 5% / 재구매 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-ko"
       },
       {
-        "slug": "yesstyle-trust-guide-ko",
-        "title": "YesStyle 신뢰할 수 있을까? 구매 전 확인해야 할 핵심 정보"
+        "slug": "yesstyle-trust-guide-ko"
       },
       {
-        "slug": "yesstyle-shipping-korea-ko",
-        "title": "YesStyle 한국 배송: 배송 기간, 배송비, 관세"
+        "slug": "yesstyle-shipping-korea-ko"
       }
     ],
     "contentSections": [
@@ -135005,16 +133889,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "联盟链接：我们可能会通过该链接和奖励码 CECILIA010 获得佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-        "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hans",
-        "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
+        "slug": "yesstyle-trust-guide-zh-hans"
       },
       {
-        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans",
-        "title": "YesStyle 寄往新加坡与马来西亚：运送时间、运费与税费"
+        "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
       }
     ],
     "contentSections": [
@@ -135201,16 +134082,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "聯盟連結：我們可能會透過該連結和獎勵碼 CECILIA010 獲得傭金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-reward-code-cecilia010-zh-hant",
-        "title": "YesStyle 獎勵碼 CECILIA010：高達 5% 優惠 (首購 5% / 回購 2%)"
+        "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       },
       {
-        "slug": "yesstyle-trust-guide-zh-hant",
-        "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+        "slug": "yesstyle-trust-guide-zh-hant"
       },
       {
-        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant",
-        "title": "YesStyle 寄送台灣、香港與澳門：運送時間、運費與稅費"
+        "slug": "yesstyle-shipping-taiwan-hong-kong-zh-hant"
       }
     ],
     "contentSections": [
@@ -135396,16 +134274,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Seleção da Cecília, com preços lidos na SHEIN no dia da publicação; ninguém do site usou as peças. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y.",
     "relatedArticles": [
       {
-        "slug": "codigo-de-indicacao-shein",
-        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+        "slug": "codigo-de-indicacao-shein"
       },
       {
-        "slug": "black-friday-shein",
-        "title": "Black Friday SHEIN 2026: quando começa, até quando vai e o imposto de importação zero até US$ 50"
+        "slug": "black-friday-shein"
       },
       {
-        "slug": "shein-e-confiavel",
-        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+        "slug": "shein-e-confiavel"
       }
     ],
     "contentSections": [
@@ -136296,16 +135171,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cecília's selection, with discounts read on SHEIN on the day of publication; nobody from the site has worn the pieces. We may earn a commission from the links and from the 4CW5Y referral code.",
     "relatedArticles": [
       {
-        "slug": "shein-referral-code-where-to-enter",
-        "title": "SHEIN referral code: where to enter it and how it works"
+        "slug": "shein-referral-code-where-to-enter"
       },
       {
-        "slug": "shein-black-friday-dates-taxes",
-        "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work"
+        "slug": "shein-black-friday-dates-taxes"
       },
       {
-        "slug": "is-shein-legit-and-safe",
-        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+        "slug": "is-shein-legit-and-safe"
       }
     ],
     "contentSections": [
@@ -137163,16 +136035,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Selección de Cecília, con descuentos leídos en SHEIN el día de la publicación; nadie del sitio usó las prendas. Podemos recibir comisión por los enlaces y por el código de referido 4CW5Y.",
     "relatedArticles": [
       {
-        "slug": "codigo-de-referido-shein-donde-ponerlo",
-        "title": "Código de referido de SHEIN: dónde ponerlo y cómo usarlo"
+        "slug": "codigo-de-referido-shein-donde-ponerlo"
       },
       {
-        "slug": "black-friday-shein-fechas-impuestos",
-        "title": "Black Friday SHEIN 2026: cuándo empieza, cuándo termina y cómo funcionan los cupones"
+        "slug": "black-friday-shein-fechas-impuestos"
       },
       {
-        "slug": "shein-es-confiable-y-seguro",
-        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+        "slug": "shein-es-confiable-y-seguro"
       }
     ],
     "contentSections": [
@@ -138030,16 +136899,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Sélection de Cecília, avec des remises relevées sur SHEIN le jour de la publication ; personne du site n'a porté les pièces. Nous pouvons toucher une commission sur les liens et sur le code de parrainage 4CW5Y.",
     "relatedArticles": [
       {
-        "slug": "code-de-parrainage-shein-ou-le-mettre",
-        "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser"
+        "slug": "code-de-parrainage-shein-ou-le-mettre"
       },
       {
-        "slug": "black-friday-shein-dates-et-taxes",
-        "title": "Black Friday SHEIN 2026 : quand il commence, jusqu'à quand et comment fonctionnent les coupons"
+        "slug": "black-friday-shein-dates-et-taxes"
       },
       {
-        "slug": "shein-est-il-fiable-et-sur",
-        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+        "slug": "shein-est-il-fiable-et-sur"
       }
     ],
     "contentSections": [
@@ -138897,16 +137763,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Selezione di Cecília, con sconti letti su SHEIN il giorno della pubblicazione; nessuno del sito ha usato i capi. Possiamo ricevere commissioni dai link e dal codice invito 4CW5Y.",
     "relatedArticles": [
       {
-        "slug": "codice-invito-shein-dove-inserirlo",
-        "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
+        "slug": "codice-invito-shein-dove-inserirlo"
       },
       {
-        "slug": "black-friday-shein-date-e-tasse",
-        "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e come funzionano i coupon"
+        "slug": "black-friday-shein-date-e-tasse"
       },
       {
-        "slug": "shein-e-affidabile-e-sicuro",
-        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+        "slug": "shein-e-affidabile-e-sicuro"
       }
     ],
     "contentSections": [
@@ -139764,16 +138627,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Auswahl von Cecília, mit Rabatten, die am Tag der Veröffentlichung bei SHEIN abgelesen wurden; niemand von der Seite hat die Teile getragen. Wir können über die Links und den Empfehlungscode 4CW5Y eine Provision erhalten.",
     "relatedArticles": [
       {
-        "slug": "shein-empfehlungscode-wo-eingeben",
-        "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert"
+        "slug": "shein-empfehlungscode-wo-eingeben"
       },
       {
-        "slug": "shein-black-friday-termine-steuern",
-        "title": "Black Friday SHEIN 2026: Beginn, Ende und so funktionieren die Gutscheine"
+        "slug": "shein-black-friday-termine-steuern"
       },
       {
-        "slug": "ist-shein-serioes-und-sicher",
-        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+        "slug": "ist-shein-serioes-und-sicher"
       }
     ],
     "contentSections": [
@@ -140631,16 +139491,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cecíliaのセレクションです。割引は公開日に SHEIN で確認したものです。サイトの担当者がアイテムを使ったわけではありません。リンクと紹介コード 4CW5Y を通じて報酬を受け取る場合があります。",
     "relatedArticles": [
       {
-        "slug": "shein-referral-code-ja",
-        "title": "SHEINの紹介コード：入力する場所と使い方"
+        "slug": "shein-referral-code-ja"
       },
       {
-        "slug": "shein-black-friday-ja",
-        "title": "Black Friday SHEIN 2026（ブラックフライデー）：いつ始まり、いつまで続くか、クーポンの仕組み"
+        "slug": "shein-black-friday-ja"
       },
       {
-        "slug": "shein-trust-guide-ja",
-        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+        "slug": "shein-trust-guide-ja"
       }
     ],
     "contentSections": [
@@ -141498,16 +140355,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cecília의 셀렉션입니다. 할인율은 게시일에 SHEIN에서 확인한 것입니다. 사이트 담당자가 상품을 직접 사용한 것은 아닙니다. 링크와 추천 코드 4CW5Y를 통해 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "shein-referral-code-ko",
-        "title": "SHEIN 추천 코드: 입력하는 곳과 사용법"
+        "slug": "shein-referral-code-ko"
       },
       {
-        "slug": "shein-black-friday-ko",
-        "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, 쿠폰 사용 방법"
+        "slug": "shein-black-friday-ko"
       },
       {
-        "slug": "shein-trust-guide-ko",
-        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+        "slug": "shein-trust-guide-ko"
       }
     ],
     "contentSections": [
@@ -142365,16 +141219,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cecília 的精选，折扣于发布当天在 SHEIN 读取；站内无人试穿过这些商品。我们可能通过链接和推荐码 4CW5Y 获得佣金。",
     "relatedArticles": [
       {
-        "slug": "shein-referral-code-zh-hans",
-        "title": "SHEIN 推荐码：在哪里输入、怎么用"
+        "slug": "shein-referral-code-zh-hans"
       },
       {
-        "slug": "shein-black-friday-zh-hans",
-        "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用"
+        "slug": "shein-black-friday-zh-hans"
       },
       {
-        "slug": "shein-trust-guide-zh-hans",
-        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+        "slug": "shein-trust-guide-zh-hans"
       }
     ],
     "contentSections": [
@@ -143232,16 +142083,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cecília 的精選，折扣於發布當天在 SHEIN 查看；站內無人穿過這些商品。我們可能透過連結和推薦碼 4CW5Y 獲得傭金。",
     "relatedArticles": [
       {
-        "slug": "shein-referral-code-zh-hant",
-        "title": "SHEIN 推薦碼：在哪裡輸入、怎麼用"
+        "slug": "shein-referral-code-zh-hant"
       },
       {
-        "slug": "shein-black-friday-zh-hant",
-        "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及優惠券怎麼用"
+        "slug": "shein-black-friday-zh-hant"
       },
       {
-        "slug": "shein-trust-guide-zh-hant",
-        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+        "slug": "shein-trust-guide-zh-hant"
       }
     ],
     "contentSections": [
@@ -144311,24 +143159,19 @@ export const reviewsData: unknown[] = [
     },
     "relatedArticles": [
       {
-        "slug": "probiotica-ou-dux",
-        "title": "Probiótica ou Dux: whey e creatina comparados por dose, proteína e preço"
+        "slug": "probiotica-ou-dux"
       },
       {
-        "slug": "probiotica-ou-growth",
-        "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "probiotica-ou-growth"
       },
       {
-        "slug": "max-titanium-ou-probiotica",
-        "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+        "slug": "max-titanium-ou-probiotica"
       },
       {
-        "slug": "black-skull-ou-integralmedica",
-        "title": "Black Skull ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina"
+        "slug": "black-skull-ou-integralmedica"
       },
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       }
     ]
   },
@@ -144567,16 +143410,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Guia pelo rótulo e pelo preço do dia; não usamos os produtos. Podemos receber comissão pela Probiótica.",
     "relatedArticles": [
       {
-        "slug": "creatina-com-sabor-qual-escolher",
-        "title": "Creatina com sabor: qual escolher, pelo rótulo e pelo preço por grama"
+        "slug": "creatina-com-sabor-qual-escolher"
       },
       {
-        "slug": "cupom-probiotica-como-usar",
-        "title": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto"
+        "slug": "cupom-probiotica-como-usar"
       },
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       }
     ]
   },
@@ -144762,16 +143602,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom da Probiótica.",
     "relatedArticles": [
       {
-        "slug": "creatina-probiotica-qual-compensa",
-        "title": "Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo"
+        "slug": "creatina-probiotica-qual-compensa"
       },
       {
-        "slug": "cupom-probiotica-como-usar",
-        "title": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto"
+        "slug": "cupom-probiotica-como-usar"
       },
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       }
     ]
   },
@@ -144961,16 +143798,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos as creatinas. Podemos receber comissão pelo cupom da Max Titanium.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-ou-dux",
-        "title": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por dose, proteína e preço"
+        "slug": "max-titanium-ou-dux"
       },
       {
-        "slug": "max-titanium-ou-growth",
-        "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "max-titanium-ou-growth"
       },
       {
-        "slug": "creatina-com-sabor-qual-escolher",
-        "title": "Creatina com sabor: qual escolher, pelo rótulo e pelo preço por grama"
+        "slug": "creatina-com-sabor-qual-escolher"
       }
     ]
   },
@@ -145232,16 +144066,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "max-titanium-ou-dux",
-        "title": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por dose, proteína e preço"
+        "slug": "max-titanium-ou-dux"
       },
       {
-        "slug": "max-titanium-e-confiavel",
-        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "max-titanium-e-confiavel"
       },
       {
-        "slug": "cupom-max-titanium-como-usar",
-        "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+        "slug": "cupom-max-titanium-como-usar"
       }
     ]
   },
@@ -145480,20 +144311,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA. A Integralmédica não é parceira, e ninguém da equipe provou os produtos.",
     "relatedArticles": [
       {
-        "slug": "black-skull-ou-integralmedica",
-        "title": "Black Skull ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina"
+        "slug": "black-skull-ou-integralmedica"
       },
       {
-        "slug": "max-titanium-ou-dux",
-        "title": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por dose, proteína e preço"
+        "slug": "max-titanium-ou-dux"
       },
       {
-        "slug": "max-titanium-ou-growth",
-        "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "max-titanium-ou-growth"
       },
       {
-        "slug": "max-titanium-e-confiavel",
-        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "max-titanium-e-confiavel"
       }
     ]
   },
@@ -145797,16 +144624,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usou o Criador com IA.",
     "relatedArticles": [
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       },
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "black-friday-hostinger",
-        "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
+        "slug": "black-friday-hostinger"
       }
     ]
   },
@@ -146050,16 +144874,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases made with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. Nobody on the team has used the AI Builder.",
     "relatedArticles": [
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       },
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-black-friday",
-        "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
+        "slug": "hostinger-black-friday"
       }
     ],
     "decision": {
@@ -146315,16 +145136,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar una comisión para Bruno, sin coste extra para ti. Nadie del equipo ha usado el creador con IA.",
     "relatedArticles": [
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       },
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "black-friday-hostinger-ofertas",
-        "title": "Black Friday Hostinger 2026: el cupón SONAR20 quita un 20 % más del precio de la campaña"
+        "slug": "black-friday-hostinger-ofertas"
       }
     ],
     "decision": {
@@ -146580,16 +145398,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent générer une commission pour Bruno, sans frais supplémentaires pour vous. Personne dans l'équipe n'a utilisé le créateur IA.",
     "relatedArticles": [
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       },
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "black-friday-hostinger-offres",
-        "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+        "slug": "black-friday-hostinger-offres"
       }
     ],
     "decision": {
@@ -146845,16 +145660,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Nessuno del team ha usato l'AI Builder.",
     "relatedArticles": [
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       },
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "black-friday-hostinger-offerte",
-        "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
+        "slug": "black-friday-hostinger-offerte"
       }
     ],
     "decision": {
@@ -147110,16 +145922,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand im Team hat den KI-Builder benutzt.",
     "relatedArticles": [
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       },
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-black-friday-angebote",
-        "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
+        "slug": "hostinger-black-friday-angebote"
       }
     ],
     "decision": {
@@ -147375,16 +146184,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も AI Builder は使っていません。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       },
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-black-friday-ja",
-        "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%引き"
+        "slug": "hostinger-black-friday-ja"
       }
     ],
     "decision": {
@@ -147639,16 +146445,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 AI Builder를 쓰지 않았습니다.",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       },
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-black-friday-ko",
-        "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
+        "slug": "hostinger-black-friday-ko"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -147904,16 +146707,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人用过 AI Builder。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-black-friday-zh-hans",
-        "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
+        "slug": "hostinger-black-friday-zh-hans"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -148169,16 +146969,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 優惠碼或本文連結購買，可能為 Bruno 帶來傭金，對你沒有額外費用。團隊中沒有人用過 AI Builder。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-black-friday-zh-hant",
-        "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%"
+        "slug": "hostinger-black-friday-zh-hant"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -148443,16 +147240,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você.",
     "relatedArticles": [
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       },
       {
-        "slug": "black-friday-hostinger",
-        "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
+        "slug": "black-friday-hostinger"
       }
     ]
   },
@@ -148650,16 +147444,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases made with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you.",
     "relatedArticles": [
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       },
       {
-        "slug": "hostinger-black-friday",
-        "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
+        "slug": "hostinger-black-friday"
       }
     ],
     "decision": {
@@ -148868,16 +147659,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar una comisión para Bruno, sin costo extra para ti.",
     "relatedArticles": [
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       },
       {
-        "slug": "black-friday-hostinger-ofertas",
-        "title": "Black Friday Hostinger 2026: el cupón SONAR20 quita un 20 % más del precio de la campaña"
+        "slug": "black-friday-hostinger-ofertas"
       }
     ],
     "decision": {
@@ -149086,16 +147874,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats faits avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous.",
     "relatedArticles": [
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       },
       {
-        "slug": "black-friday-hostinger-offres",
-        "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+        "slug": "black-friday-hostinger-offres"
       }
     ],
     "decision": {
@@ -149304,16 +148089,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te.",
     "relatedArticles": [
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       },
       {
-        "slug": "black-friday-hostinger-offerte",
-        "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
+        "slug": "black-friday-hostinger-offerte"
       }
     ],
     "decision": {
@@ -149522,16 +148304,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie.",
     "relatedArticles": [
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       },
       {
-        "slug": "hostinger-black-friday-angebote",
-        "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
+        "slug": "hostinger-black-friday-angebote"
       }
     ],
     "decision": {
@@ -149740,16 +148519,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20のコード、またはリンクからのご購入で、Brunoに紹介料が入ることがあります。あなたの負担は増えません。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       },
       {
-        "slug": "hostinger-black-friday-ja",
-        "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%引き"
+        "slug": "hostinger-black-friday-ja"
       }
     ],
     "decision": {
@@ -149958,16 +148734,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 추가 비용은 없습니다.",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       },
       {
-        "slug": "hostinger-black-friday-ko",
-        "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
+        "slug": "hostinger-black-friday-ko"
       }
     ],
     "decision": {
@@ -150176,16 +148949,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "通过 SONAR20 优惠码或链接购买，Bruno 可能获得佣金，你无需多付。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       },
       {
-        "slug": "hostinger-black-friday-zh-hans",
-        "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
+        "slug": "hostinger-black-friday-zh-hans"
       }
     ],
     "decision": {
@@ -150394,16 +149164,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "透過 SONAR20 優惠碼或連結購買，Bruno 可能獲得傭金，你無需多付。",
     "relatedArticles": [
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       },
       {
-        "slug": "hostinger-black-friday-zh-hant",
-        "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%"
+        "slug": "hostinger-black-friday-zh-hant"
       }
     ],
     "decision": {
@@ -150717,16 +149484,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. O código vale no VPS.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gerenciado-ou-vps",
-        "title": "OpenClaw na Hostinger: gerenciado ou VPS? Preço, o que cada um exige e para quem serve"
+        "slug": "openclaw-hostinger-gerenciado-ou-vps"
       },
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "black-friday-hostinger",
-        "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
+        "slug": "black-friday-hostinger"
       }
     ]
   },
@@ -150951,16 +149715,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. The code works on VPS.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps",
-        "title": "OpenClaw on Hostinger: managed or VPS? What each one requires and who it suits"
+        "slug": "openclaw-hostinger-managed-or-vps"
       },
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-black-friday",
-        "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
+        "slug": "hostinger-black-friday"
       }
     ],
     "decision": {
@@ -151196,16 +149957,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. El código vale en el VPS.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gestionado-o-vps",
-        "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién es"
+        "slug": "openclaw-hostinger-gestionado-o-vps"
       },
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "black-friday-hostinger-ofertas",
-        "title": "Black Friday Hostinger 2026: el cupón SONAR20 quita un 20 % más del precio de la campaña"
+        "slug": "black-friday-hostinger-ofertas"
       }
     ],
     "decision": {
@@ -151441,16 +150199,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Le code vaut sur le VPS.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gere-ou-vps",
-        "title": "OpenClaw chez Hostinger : géré ou VPS ? Ce qu'exige chaque option et à qui elle convient"
+        "slug": "openclaw-hostinger-gere-ou-vps"
       },
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "black-friday-hostinger-offres",
-        "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+        "slug": "black-friday-hostinger-offres"
       }
     ],
     "decision": {
@@ -151686,16 +150441,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Il codice vale anche sul VPS.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-gestito-o-vps",
-        "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi è adatto"
+        "slug": "openclaw-hostinger-gestito-o-vps"
       },
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "black-friday-hostinger-offerte",
-        "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
+        "slug": "black-friday-hostinger-offerte"
       }
     ],
     "decision": {
@@ -151931,16 +150683,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Wir haben keinen VPS getestet.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-verwaltet-oder-vps",
-        "title": "OpenClaw bei Hostinger: verwaltet oder VPS? Was jede Option verlangt und für wen sie passt"
+        "slug": "openclaw-hostinger-verwaltet-oder-vps"
       },
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-black-friday-angebote",
-        "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
+        "slug": "hostinger-black-friday-angebote"
       }
     ],
     "decision": {
@@ -152176,16 +150925,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入ることがありますが、あなたに追加の費用はかかりません。VPS でも使えます。",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-ja",
-        "title": "Hostinger の OpenClaw：マネージドか VPS か？それぞれに必要なことと、向いている人"
+        "slug": "openclaw-hostinger-managed-or-vps-ja"
       },
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-black-friday-ja",
-        "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%引き"
+        "slug": "hostinger-black-friday-ja"
       }
     ],
     "decision": {
@@ -152421,16 +151167,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 회원님에게는 추가 비용이 없습니다. VPS에도 적용됩니다.",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-ko",
-        "title": "호스팅어의 OpenClaw: 관리형인가 VPS인가? 방식별 필요한 작업, 맞는 사람"
+        "slug": "openclaw-hostinger-managed-or-vps-ko"
       },
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-black-friday-ko",
-        "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
+        "slug": "hostinger-black-friday-ko"
       }
     ],
     "decision": {
@@ -152666,16 +151409,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你不用多付任何费用。SONAR20 在 VPS 上也有效。",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
-        "title": "OpenClaw 在 Hostinger：托管还是 VPS？各自要做什么，以及适合谁"
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hans"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-black-friday-zh-hans",
-        "title": "2026 Hostinger 黑色星期五：SONAR20 优惠码在活动价上再减 20%"
+        "slug": "hostinger-black-friday-zh-hans"
       }
     ],
     "decision": {
@@ -152911,16 +151651,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金，你不用多付任何費用。SONAR20 也適用於 VPS。",
     "relatedArticles": [
       {
-        "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
-        "title": "OpenClaw 在 Hostinger：託管還是 VPS？各自要做什麼，以及適合誰"
+        "slug": "openclaw-hostinger-managed-or-vps-zh-hant"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-black-friday-zh-hant",
-        "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%"
+        "slug": "hostinger-black-friday-zh-hant"
       }
     ],
     "decision": {
@@ -153112,16 +151849,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados públicos da Trustpilot. A YesStyle é parceira: podemos receber comissão pelas compras.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-app-como-comprar-codigo-de-recompensa",
-        "title": "App da YesStyle: como comprar e onde entra o código de recompensa CECILIA010"
+        "slug": "yesstyle-app-como-comprar-codigo-de-recompensa"
       },
       {
-        "slug": "yesstyle-ou-olive-young",
-        "title": "YesStyle ou Olive Young: quem entrega no seu país, frete, imposto e devolução"
+        "slug": "yesstyle-ou-olive-young"
       },
       {
-        "slug": "black-friday-yesstyle",
-        "title": "Black Friday YesStyle 2026: quando começa, como funcionam os cupons e onde entra o código CECILIA010"
+        "slug": "black-friday-yesstyle"
       }
     ]
   },
@@ -153302,16 +152036,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Public Trustpilot data. YesStyle is a partner: we may earn a commission on purchases.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-app-how-to-buy-reward-code",
-        "title": "YesStyle App: How to Shop and Where the Reward Code CECILIA010 Goes"
+        "slug": "yesstyle-app-how-to-buy-reward-code"
       },
       {
-        "slug": "yesstyle-vs-olive-young",
-        "title": "YesStyle vs Olive Young Global: free shipping, tax, returns and points compared"
+        "slug": "yesstyle-vs-olive-young"
       },
       {
-        "slug": "yesstyle-black-friday-dates-coupons",
-        "title": "YesStyle Black Friday 2026: when it starts, how the coupons work and where the CECILIA010 code goes"
+        "slug": "yesstyle-black-friday-dates-coupons"
       }
     ]
   },
@@ -153492,16 +152223,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Datos públicos de Trustpilot. YesStyle es socia del sitio: podemos recibir una comisión por las compras.",
     "relatedArticles": [
       {
-        "slug": "app-yesstyle-como-comprar-codigo-de-recompensa",
-        "title": "App de YesStyle: cómo comprar y dónde va el código de recompensa CECILIA010"
+        "slug": "app-yesstyle-como-comprar-codigo-de-recompensa"
       },
       {
-        "slug": "yesstyle-o-olive-young-cual-elegir",
-        "title": "YesStyle o Olive Young: envío gratis, impuestos, devoluciones y puntos comparados"
+        "slug": "yesstyle-o-olive-young-cual-elegir"
       },
       {
-        "slug": "black-friday-yesstyle-fechas-cupones",
-        "title": "Black Friday YesStyle 2026: cuándo empieza, cómo funcionan los cupones y dónde va el código CECILIA010"
+        "slug": "black-friday-yesstyle-fechas-cupones"
       }
     ]
   },
@@ -153682,16 +152410,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Données publiques de Trustpilot. YesStyle est partenaire : nous pouvons percevoir une commission sur les achats.",
     "relatedArticles": [
       {
-        "slug": "application-yesstyle-acheter-code-recompense",
-        "title": "Appli YesStyle : comment acheter et où saisir le code de récompense CECILIA010"
+        "slug": "application-yesstyle-acheter-code-recompense"
       },
       {
-        "slug": "yesstyle-ou-olive-young-que-choisir",
-        "title": "YesStyle ou Olive Young : livraison gratuite, taxes, retours et points comparés"
+        "slug": "yesstyle-ou-olive-young-que-choisir"
       },
       {
-        "slug": "black-friday-yesstyle-dates-et-coupons",
-        "title": "Black Friday YesStyle 2026 : quand il commence, comment fonctionnent les coupons et où saisir le code CECILIA010"
+        "slug": "black-friday-yesstyle-dates-et-coupons"
       }
     ]
   },
@@ -153872,16 +152597,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dati pubblici di Trustpilot. YesStyle è partner: possiamo ricevere una commissione sugli acquisti.",
     "relatedArticles": [
       {
-        "slug": "app-yesstyle-come-acquistare-codice-ricompensa",
-        "title": "App YesStyle: come si compra e dove va il codice ricompensa CECILIA010"
+        "slug": "app-yesstyle-come-acquistare-codice-ricompensa"
       },
       {
-        "slug": "yesstyle-o-olive-young-quale-scegliere",
-        "title": "YesStyle o Olive Young: spedizione gratuita, imposte, resi e punti a confronto"
+        "slug": "yesstyle-o-olive-young-quale-scegliere"
       },
       {
-        "slug": "black-friday-yesstyle-date-e-coupon",
-        "title": "Black Friday YesStyle 2026: quando inizia, come funzionano i coupon e dove inserire il codice CECILIA010"
+        "slug": "black-friday-yesstyle-date-e-coupon"
       }
     ]
   },
@@ -154062,16 +152784,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Öffentliche Daten von Trustpilot. YesStyle ist Partner: Wir können für Käufe eine Provision erhalten.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-app-bestellen-reward-code",
-        "title": "YesStyle-App: So bestellen Sie und wo der Reward Code CECILIA010 hingehört"
+        "slug": "yesstyle-app-bestellen-reward-code"
       },
       {
-        "slug": "yesstyle-oder-olive-young-welcher-shop",
-        "title": "YesStyle oder Olive Young: kostenloser Versand, Steuern, Rückgabe und Punkte im Vergleich"
+        "slug": "yesstyle-oder-olive-young-welcher-shop"
       },
       {
-        "slug": "yesstyle-black-friday-termine-gutscheine",
-        "title": "YesStyle Black Friday 2026: Termine, Gutscheine und wo der Reward Code CECILIA010 eingegeben wird"
+        "slug": "yesstyle-black-friday-termine-gutscheine"
       }
     ]
   },
@@ -154252,16 +152971,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Trustpilotの公開データに基づく記事です。YesStyleは当サイトのパートナーで、購入により手数料を受け取ることがあります。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-app-reward-code-ja",
-        "title": "YesStyleアプリの使い方：リワードコードCECILIA010はどこに入力する？"
+        "slug": "yesstyle-app-reward-code-ja"
       },
       {
-        "slug": "yesstyle-vs-olive-young-ja",
-        "title": "YesStyleとOlive Youngを比較：送料無料・税金・返品・ポイント"
+        "slug": "yesstyle-vs-olive-young-ja"
       },
       {
-        "slug": "yesstyle-black-friday-ja",
-        "title": "Black Friday YesStyle 2026（ブラックフライデー）：いつ始まる？クーポンの仕組みとCECILIA010の入れ方"
+        "slug": "yesstyle-black-friday-ja"
       }
     ]
   },
@@ -154442,16 +153158,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Trustpilot 공개 데이터를 바탕으로 했습니다. YesStyle은 제휴 파트너이며, 구매 시 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "yesstyle-app-reward-code-ko",
-        "title": "YesStyle 앱 사용법: 구매 순서와 리워드 코드 CECILIA010 입력 위치"
+        "slug": "yesstyle-app-reward-code-ko"
       },
       {
-        "slug": "yesstyle-vs-olive-young-ko",
-        "title": "YesStyle vs Olive Young Global: 무료배송, 세금, 반품, 포인트 비교"
+        "slug": "yesstyle-vs-olive-young-ko"
       },
       {
-        "slug": "yesstyle-black-friday-ko",
-        "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치"
+        "slug": "yesstyle-black-friday-ko"
       }
     ]
   },
@@ -154632,16 +153345,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "数据来自 Trustpilot 公开页面。YesStyle 是本站的合作伙伴：你的购买可能为我们带来佣金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-app-reward-code-zh-hans",
-        "title": "YesStyle App 怎么买：下单步骤和奖励码 CECILIA010 填在哪里"
+        "slug": "yesstyle-app-reward-code-zh-hans"
       },
       {
-        "slug": "yesstyle-vs-olive-young-zh-hans",
-        "title": "YesStyle 还是 Olive Young？免运费、税费、退货与积分比较"
+        "slug": "yesstyle-vs-olive-young-zh-hans"
       },
       {
-        "slug": "yesstyle-black-friday-zh-hans",
-        "title": "Black Friday YesStyle 2026（黑色星期五）：何时开始、优惠券怎么用，CECILIA010 填在哪里"
+        "slug": "yesstyle-black-friday-zh-hans"
       }
     ]
   },
@@ -154822,16 +153532,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "資料來自 Trustpilot 公開頁面。YesStyle 是本站的合作夥伴：你的購買可能為我們帶來傭金。",
     "relatedArticles": [
       {
-        "slug": "yesstyle-app-reward-code-zh-hant",
-        "title": "YesStyle App 怎麼買：下單步驟與獎勵碼 CECILIA010 填在哪裡"
+        "slug": "yesstyle-app-reward-code-zh-hant"
       },
       {
-        "slug": "yesstyle-vs-olive-young-zh-hant",
-        "title": "YesStyle 還是 Olive Young？免運、稅金、退貨與點數比較"
+        "slug": "yesstyle-vs-olive-young-zh-hant"
       },
       {
-        "slug": "yesstyle-black-friday-zh-hant",
-        "title": "Black Friday YesStyle 2026（黑色星期五）：何時開始、優惠券怎麼用，CECILIA010 填在哪裡"
+        "slug": "yesstyle-black-friday-zh-hant"
       }
     ]
   },
@@ -154876,16 +153583,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dados públicos que mudam com o tempo. Podemos receber comissão pelas compras na SHEIN.",
     "relatedArticles": [
       {
-        "slug": "shein-ou-shopee-temu",
-        "title": "SHEIN, Shopee, Temu ou AliExpress: como escolher para comprar roupa (prazo, devolução e imposto)"
+        "slug": "shein-ou-shopee-temu"
       },
       {
-        "slug": "codigo-de-indicacao-shein",
-        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+        "slug": "codigo-de-indicacao-shein"
       },
       {
-        "slug": "shein-e-confiavel",
-        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+        "slug": "shein-e-confiavel"
       }
     ],
     "contentSections": [
@@ -155172,12 +153876,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Public data that changes over time. We may earn a commission on SHEIN purchases.",
     "relatedArticles": [
       {
-        "slug": "is-shein-legit-and-safe",
-        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+        "slug": "is-shein-legit-and-safe"
       },
       {
-        "slug": "shein-vs-temu-which-to-choose",
-        "title": "SHEIN vs Temu: how to choose (shipping, returns and what to check before you buy)"
+        "slug": "shein-vs-temu-which-to-choose"
       }
     ]
   },
@@ -155351,12 +154053,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Datos públicos que cambian con el tiempo. Podemos recibir comisión por las compras en SHEIN.",
     "relatedArticles": [
       {
-        "slug": "shein-es-confiable-y-seguro",
-        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+        "slug": "shein-es-confiable-y-seguro"
       },
       {
-        "slug": "shein-o-temu-cual-elegir",
-        "title": "SHEIN o Temu: cómo elegir (envío, devoluciones y qué revisar antes de comprar)"
+        "slug": "shein-o-temu-cual-elegir"
       }
     ]
   },
@@ -155530,12 +154230,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Données publiques qui changent avec le temps. Nous pouvons toucher une commission sur les achats chez SHEIN.",
     "relatedArticles": [
       {
-        "slug": "shein-est-il-fiable-et-sur",
-        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+        "slug": "shein-est-il-fiable-et-sur"
       },
       {
-        "slug": "shein-ou-temu-comment-choisir",
-        "title": "SHEIN ou Temu : comment choisir (livraison, retours, douane et points à vérifier avant d'acheter)"
+        "slug": "shein-ou-temu-comment-choisir"
       }
     ]
   },
@@ -155709,12 +154407,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dati pubblici che cambiano nel tempo. Possiamo ricevere una commissione sugli acquisti su SHEIN.",
     "relatedArticles": [
       {
-        "slug": "shein-e-affidabile-e-sicuro",
-        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+        "slug": "shein-e-affidabile-e-sicuro"
       },
       {
-        "slug": "shein-o-temu-come-scegliere",
-        "title": "SHEIN o Temu: come scegliere (spedizione, resi, dogana e cosa controllare prima di comprare)"
+        "slug": "shein-o-temu-come-scegliere"
       }
     ]
   },
@@ -155888,12 +154584,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Öffentliche Daten, die sich mit der Zeit ändern. Wir können für Käufe bei SHEIN eine Provision erhalten.",
     "relatedArticles": [
       {
-        "slug": "ist-shein-serioes-und-sicher",
-        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+        "slug": "ist-shein-serioes-und-sicher"
       },
       {
-        "slug": "shein-oder-temu-was-waehlen",
-        "title": "SHEIN oder Temu: Was passt besser? Versand, Rückgabe, Zoll und was Sie prüfen sollten"
+        "slug": "shein-oder-temu-was-waehlen"
       }
     ]
   },
@@ -156066,12 +154760,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "時間とともに変わる公開データです。SHEIN での購入によって手数料を受け取ることがあります。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ja",
-        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+        "slug": "shein-trust-guide-ja"
       },
       {
-        "slug": "shein-vs-temu-ja",
-        "title": "SHEIN と Temu どちらを選ぶ？送料・返品・関税と、買う前に確認すること"
+        "slug": "shein-vs-temu-ja"
       }
     ]
   },
@@ -156244,12 +154936,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Trustpilot의 공개 데이터이며 시간이 지나면 바뀝니다. SHEIN 구매 시 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ko",
-        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+        "slug": "shein-trust-guide-ko"
       },
       {
-        "slug": "shein-vs-temu-vs-ali-ko",
-        "title": "SHEIN(쉬인) vs 테무: 어떻게 고를까? 배송비, 반품 기한과 구매 전 확인할 것"
+        "slug": "shein-vs-temu-vs-ali-ko"
       }
     ]
   },
@@ -156422,12 +155112,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "数据来自 Trustpilot 的公开页面，会随时间变化。通过 SHEIN 购买，本站可能获得佣金。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hans",
-        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+        "slug": "shein-trust-guide-zh-hans"
       },
       {
-        "slug": "shein-vs-temu-zh-hans",
-        "title": "SHEIN 还是 Temu？新加坡和马来西亚怎么选：运费、时效与退货"
+        "slug": "shein-vs-temu-zh-hans"
       }
     ]
   },
@@ -156600,12 +155288,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "資料來自 Trustpilot 的公開頁面，會隨時間變動。透過 SHEIN 購買，本站可能獲得傭金。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hant",
-        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+        "slug": "shein-trust-guide-zh-hant"
       },
       {
-        "slug": "shein-vs-shopee-zh-hant",
-        "title": "SHEIN 還是 Temu？新加坡和馬來西亞怎麼選：運費、時效與退貨"
+        "slug": "shein-vs-shopee-zh-hant"
       }
     ]
   },
@@ -156838,20 +155524,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       },
       {
-        "slug": "bagaggio-garantia-vitalicia",
-        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+        "slug": "bagaggio-garantia-vitalicia"
       },
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       },
       {
-        "slug": "bagaggio-e-confiavel",
-        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+        "slug": "bagaggio-e-confiavel"
       }
     ]
   },
@@ -157067,20 +155749,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com os dados da própria loja. Podemos receber comissão pelas compras feitas com o CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "bagaggio-e-confiavel",
-        "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+        "slug": "bagaggio-e-confiavel"
       },
       {
-        "slug": "bagaggio-garantia-vitalicia",
-        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+        "slug": "bagaggio-garantia-vitalicia"
       },
       {
-        "slug": "bagaggio-reclame-aqui-nota-reputacao",
-        "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+        "slug": "bagaggio-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       }
     ]
   },
@@ -157322,20 +156000,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       },
       {
-        "slug": "mala-policarbonato-ou-abs-bagaggio",
-        "title": "Mala de policarbonato ou ABS na Bagaggio: vale pagar mais?"
+        "slug": "mala-policarbonato-ou-abs-bagaggio"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       },
       {
-        "slug": "bagaggio-garantia-vitalicia",
-        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+        "slug": "bagaggio-garantia-vitalicia"
       }
     ]
   },
@@ -157387,16 +156061,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "body-splash-skelt-qual-escolher",
-        "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits"
+        "slug": "body-splash-skelt-qual-escolher"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       },
       {
-        "slug": "skelt-e-confiavel",
-        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "skelt-e-confiavel"
       }
     ],
     "contentSections": [
@@ -157649,16 +156320,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "body-splash-skelt-qual-escolher",
-        "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits"
+        "slug": "body-splash-skelt-qual-escolher"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       },
       {
-        "slug": "black-friday-skelt",
-        "title": "Black Friday Skelt 2026: preços de outubro e o que a loja ainda não anunciou"
+        "slug": "black-friday-skelt"
       }
     ],
     "contentSections": [
@@ -157863,16 +156531,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos o produto. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "body-splash-skelt-qual-escolher",
-        "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits"
+        "slug": "body-splash-skelt-qual-escolher"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       },
       {
-        "slug": "skelt-e-confiavel",
-        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "skelt-e-confiavel"
       }
     ],
     "contentSections": [
@@ -158218,16 +156883,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estes faqueiros.",
     "relatedArticles": [
       {
-        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       },
       {
-        "slug": "presente-de-casamento-ideias-por-preco",
-        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+        "slug": "presente-de-casamento-ideias-por-preco"
       },
       {
-        "slug": "cupom-mauad-lets-eat-it-como-usar",
-        "title": "Como usar o código de desconto da Let's Eat It: 5% no site"
+        "slug": "cupom-mauad-lets-eat-it-como-usar"
       }
     ]
   },
@@ -158513,16 +157175,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
     "relatedArticles": [
       {
-        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       },
       {
-        "slug": "presente-de-casamento-ideias-por-preco",
-        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+        "slug": "presente-de-casamento-ideias-por-preco"
       },
       {
-        "slug": "porto-brasil-e-boa",
-        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+        "slug": "porto-brasil-e-boa"
       }
     ]
   },
@@ -158749,16 +157408,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estes guardanapos.",
     "relatedArticles": [
       {
-        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       },
       {
-        "slug": "presente-de-casamento-ideias-por-preco",
-        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+        "slug": "presente-de-casamento-ideias-por-preco"
       },
       {
-        "slug": "cupom-mauad-lets-eat-it-como-usar",
-        "title": "Como usar o código de desconto da Let's Eat It: 5% no site"
+        "slug": "cupom-mauad-lets-eat-it-como-usar"
       }
     ]
   },
@@ -159002,16 +157658,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
     "relatedArticles": [
       {
-        "slug": "guardanapo-de-tecido-quantos-tamanho",
-        "title": "Guardanapo de tecido: quantos por pessoa e qual tamanho escolher"
+        "slug": "guardanapo-de-tecido-quantos-tamanho"
       },
       {
-        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       },
       {
-        "slug": "presente-de-casamento-ideias-por-preco",
-        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+        "slug": "presente-de-casamento-ideias-por-preco"
       }
     ]
   },
@@ -159054,16 +157707,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "hidratante-corporal-skelt-qual-fragrancia",
-        "title": "Hidratante corporal Skelt: qual fragrância escolher e quanto sai por 100 g"
+        "slug": "hidratante-corporal-skelt-qual-fragrancia"
       },
       {
-        "slug": "body-splash-skelt-qual-escolher",
-        "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits"
+        "slug": "body-splash-skelt-qual-escolher"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       }
     ],
     "contentSections": [
@@ -159478,16 +158128,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usou o Reach.",
     "relatedArticles": [
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       },
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "dominio-hostinger-comprar-transferir-ou-fora",
-        "title": "Domínio na Hostinger: comprar ali, transferir ou registrar em outro lugar? Preço, renovação e o que checar"
+        "slug": "dominio-hostinger-comprar-transferir-ou-fora"
       }
     ]
   },
@@ -159722,16 +158369,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases made with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. Nobody on the team has used Reach.",
     "relatedArticles": [
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       },
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-domain-buy-transfer-or-elsewhere",
-        "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Renewal and what to check"
+        "slug": "hostinger-domain-buy-transfer-or-elsewhere"
       }
     ],
     "decision": {
@@ -159977,16 +158621,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. Nadie del equipo ha usado Reach.",
     "relatedArticles": [
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       },
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "dominio-hostinger-comprar-o-transferir",
-        "title": "Dominio en Hostinger: ¿comprarlo ahí, transferirlo o registrarlo en otro sitio? Renovación y qué revisar"
+        "slug": "dominio-hostinger-comprar-o-transferir"
       }
     ],
     "decision": {
@@ -160232,16 +158873,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'a utilisé Reach.",
     "relatedArticles": [
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       },
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "domaine-hostinger-acheter-ou-transferer",
-        "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Renouvellement et ce qu'il faut vérifier"
+        "slug": "domaine-hostinger-acheter-ou-transferer"
       }
     ],
     "decision": {
@@ -160490,16 +159128,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team ha usato Reach.",
     "relatedArticles": [
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       },
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "dominio-hostinger-comprare-o-trasferire",
-        "title": "Dominio su Hostinger: comprarlo lì, trasferirlo o registrarlo altrove? Rinnovo e cosa controllare"
+        "slug": "dominio-hostinger-comprare-o-trasferire"
       }
     ],
     "decision": {
@@ -160748,16 +159383,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team hat Reach genutzt.",
     "relatedArticles": [
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       },
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-domain-kaufen-oder-umziehen",
-        "title": "Domain bei Hostinger: dort kaufen, umziehen oder woanders registrieren? Verlängerung und was Sie prüfen sollten"
+        "slug": "hostinger-domain-kaufen-oder-umziehen"
       }
     ],
     "decision": {
@@ -161006,16 +159638,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も Reach は使っていません。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       },
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-domain-ja",
-        "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 更新料と確認すべきこと"
+        "slug": "hostinger-domain-ja"
       }
     ],
     "decision": {
@@ -161263,16 +159892,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 Reach를 쓰지 않았습니다.",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       },
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-domain-ko",
-        "title": "Hostinger 도메인: 여기서 살까, 이전할까, 다른 곳에 등록할까? 갱신과 결제 전 확인할 점"
+        "slug": "hostinger-domain-ko"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -161521,16 +160147,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人用过 Reach。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-domain-zh-hans",
-        "title": "Hostinger 域名：在这里买、转入，还是在别处注册？续费与下单前要确认什么"
+        "slug": "hostinger-domain-zh-hans"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -161779,16 +160402,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金，你不需額外付費。團隊中沒有人用過 Reach。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-domain-zh-hant",
-        "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？續訂與下單前要確認什麼"
+        "slug": "hostinger-domain-zh-hant"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -162129,16 +160749,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno. Ninguém da equipe usou a HostGator.",
     "relatedArticles": [
       {
-        "slug": "vps-ou-hospedagem-compartilhada-qual-escolher",
-        "title": "VPS ou hospedagem compartilhada: qual compensa para o seu site na Hostinger"
+        "slug": "vps-ou-hospedagem-compartilhada-qual-escolher"
       },
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       }
     ]
   },
@@ -162361,16 +160978,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission.",
     "relatedArticles": [
       {
-        "slug": "vps-or-shared-hosting-which-to-choose",
-        "title": "VPS or shared hosting: which one pays off for your site on Hostinger"
+        "slug": "vps-or-shared-hosting-which-to-choose"
       },
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       }
     ],
     "decision": {
@@ -162603,16 +161217,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno.",
     "relatedArticles": [
       {
-        "slug": "vps-o-hosting-compartido-cual-elegir",
-        "title": "VPS o hosting compartido: cuál conviene para tu sitio en Hostinger"
+        "slug": "vps-o-hosting-compartido-cual-elegir"
       },
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       }
     ],
     "decision": {
@@ -162845,16 +161456,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno.",
     "relatedArticles": [
       {
-        "slug": "vps-ou-hebergement-mutualise",
-        "title": "VPS ou hébergement mutualisé : lequel choisir pour votre site chez Hostinger"
+        "slug": "vps-ou-hebergement-mutualise"
       },
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       }
     ],
     "decision": {
@@ -163087,16 +161695,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno.",
     "relatedArticles": [
       {
-        "slug": "vps-o-hosting-condiviso",
-        "title": "VPS o hosting condiviso: quale conviene per il tuo sito su Hostinger"
+        "slug": "vps-o-hosting-condiviso"
       },
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       }
     ],
     "decision": {
@@ -163329,16 +161934,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen.",
     "relatedArticles": [
       {
-        "slug": "vps-oder-shared-hosting",
-        "title": "VPS oder Shared Hosting: was sich für Ihre Website bei Hostinger lohnt"
+        "slug": "vps-oder-shared-hosting"
       },
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       }
     ],
     "decision": {
@@ -163571,16 +162173,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20のコードまたはリンクからの購入で、Brunoに紹介手数料が入る場合があります。",
     "relatedArticles": [
       {
-        "slug": "vps-or-shared-hosting-ja",
-        "title": "VPS か共有ホスティングか：Hostinger であなたのサイトに合うのはどちら"
+        "slug": "vps-or-shared-hosting-ja"
       },
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       }
     ],
     "decision": {
@@ -163812,16 +162411,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "vps-or-shared-hosting-ko",
-        "title": "VPS와 공유 호스팅: 호스팅어에서 사이트에 맞는 쪽은 어디일까"
+        "slug": "vps-or-shared-hosting-ko"
       },
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -164054,16 +162650,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金。",
     "relatedArticles": [
       {
-        "slug": "vps-or-shared-hosting-zh-hans",
-        "title": "VPS 还是共享主机：在 Hostinger 上哪种更适合你的网站"
+        "slug": "vps-or-shared-hosting-zh-hans"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -164296,16 +162889,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金。",
     "relatedArticles": [
       {
-        "slug": "vps-or-shared-hosting-zh-hant",
-        "title": "VPS 還是共享主機：在 Hostinger 上哪種更適合你的網站"
+        "slug": "vps-or-shared-hosting-zh-hant"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -164541,16 +163131,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usou WordPress na Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-horizons-vale-a-pena",
-        "title": "Criador com IA da Hostinger (antigo Horizons): vale a pena ou WordPress?"
+        "slug": "hostinger-horizons-vale-a-pena"
       },
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       },
       {
-        "slug": "dominio-hostinger-comprar-transferir-ou-fora",
-        "title": "Domínio na Hostinger: comprar ali, transferir ou registrar em outro lugar? Preço, renovação e o que checar"
+        "slug": "dominio-hostinger-comprar-transferir-ou-fora"
       }
     ]
   },
@@ -164746,16 +163333,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Purchases with the SONAR20 code or through the link may give Bruno a commission, at no extra cost to you. No one on the team has used WordPress on Hostinger.",
     "relatedArticles": [
       {
-        "slug": "hostinger-ai-builder-worth-it",
-        "title": "Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?"
+        "slug": "hostinger-ai-builder-worth-it"
       },
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       },
       {
-        "slug": "hostinger-domain-buy-transfer-or-elsewhere",
-        "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Renewal and what to check"
+        "slug": "hostinger-domain-buy-transfer-or-elsewhere"
       }
     ],
     "decision": {
@@ -164962,16 +163546,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar comisión para Bruno, sin costo extra para ti. Nadie del equipo ha usado WordPress en Hostinger.",
     "relatedArticles": [
       {
-        "slug": "creador-ia-hostinger-vale-la-pena",
-        "title": "Hostinger AI Builder (el creador con IA, antes Horizons): ¿vale la pena o WordPress?"
+        "slug": "creador-ia-hostinger-vale-la-pena"
       },
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       },
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       }
     ],
     "decision": {
@@ -165178,16 +163759,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'a utilisé WordPress chez Hostinger.",
     "relatedArticles": [
       {
-        "slug": "createur-ia-hostinger-avis",
-        "title": "Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?"
+        "slug": "createur-ia-hostinger-avis"
       },
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       },
       {
-        "slug": "domaine-hostinger-acheter-ou-transferer",
-        "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Renouvellement et ce qu'il faut vérifier"
+        "slug": "domaine-hostinger-acheter-ou-transferer"
       }
     ],
     "decision": {
@@ -165394,16 +163972,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Gli acquisti con il codice SONAR20 o dal link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team ha usato WordPress su Hostinger.",
     "relatedArticles": [
       {
-        "slug": "creatore-ia-hostinger-conviene",
-        "title": "AI Builder di Hostinger (ex Horizons): conviene o meglio WordPress?"
+        "slug": "creatore-ia-hostinger-conviene"
       },
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       },
       {
-        "slug": "dominio-hostinger-comprare-o-trasferire",
-        "title": "Dominio su Hostinger: comprarlo lì, trasferirlo o registrarlo altrove? Rinnovo e cosa controllare"
+        "slug": "dominio-hostinger-comprare-o-trasferire"
       }
     ],
     "decision": {
@@ -165610,16 +164185,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team hat WordPress bei Hostinger genutzt.",
     "relatedArticles": [
       {
-        "slug": "hostinger-ki-builder-lohnt-sich",
-        "title": "KI-Builder von Hostinger (früher Horizons): lohnt er sich oder lieber WordPress?"
+        "slug": "hostinger-ki-builder-lohnt-sich"
       },
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       },
       {
-        "slug": "hostinger-domain-kaufen-oder-umziehen",
-        "title": "Domain bei Hostinger: dort kaufen, umziehen oder woanders registrieren? Verlängerung und was Sie prüfen sollten"
+        "slug": "hostinger-domain-kaufen-oder-umziehen"
       }
     ],
     "decision": {
@@ -165826,16 +164398,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も Hostinger の WordPress は使っていません。",
     "relatedArticles": [
       {
-        "slug": "hostinger-ai-builder-ja",
-        "title": "Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？"
+        "slug": "hostinger-ai-builder-ja"
       },
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       },
       {
-        "slug": "hostinger-domain-ja",
-        "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 更新料と確認すべきこと"
+        "slug": "hostinger-domain-ja"
       }
     ],
     "decision": {
@@ -166041,16 +164610,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 호스팅어에서 WordPress를 쓰지 않았습니다.",
     "relatedArticles": [
       {
-        "slug": "hostinger-ai-builder-ko",
-        "title": "Hostinger AI Builder(구 Horizons): 쓸 만한가, 아니면 WordPress인가?"
+        "slug": "hostinger-ai-builder-ko"
       },
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       },
       {
-        "slug": "hostinger-domain-ko",
-        "title": "Hostinger 도메인: 여기서 살까, 이전할까, 다른 곳에 등록할까? 갱신과 결제 전 확인할 점"
+        "slug": "hostinger-domain-ko"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -166257,16 +164823,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人在 Hostinger 上用过 WordPress。",
     "relatedArticles": [
       {
-        "slug": "hostinger-ai-builder-zh-hans",
-        "title": "Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？"
+        "slug": "hostinger-ai-builder-zh-hans"
       },
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       },
       {
-        "slug": "hostinger-domain-zh-hans",
-        "title": "Hostinger 域名：在这里买、转入，还是在别处注册？续费与下单前要确认什么"
+        "slug": "hostinger-domain-zh-hans"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -166473,16 +165036,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "使用 SONAR20 優惠碼或透過本文連結購買，Bruno 可能獲得傭金，你不需額外付費。團隊中沒有人在 Hostinger 上用過 WordPress。",
     "relatedArticles": [
       {
-        "slug": "hostinger-ai-builder-zh-hant",
-        "title": "Hostinger AI Builder（原 Horizons）：值得用，還是選 WordPress？"
+        "slug": "hostinger-ai-builder-zh-hant"
       },
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       },
       {
-        "slug": "hostinger-domain-zh-hant",
-        "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？續訂與下單前要確認什麼"
+        "slug": "hostinger-domain-zh-hant"
       }
     ],
     "hideFromPortugueseListings": true,
@@ -166730,20 +165290,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho.",
     "relatedArticles": [
       {
-        "slug": "tamanho-mala-bagaggio-p-m-g",
-        "title": "Qual tamanho de mala comprar: 10 kg, 23 kg ou 32 kg (P, M e G) na Bagaggio"
+        "slug": "tamanho-mala-bagaggio-p-m-g"
       },
       {
-        "slug": "mala-policarbonato-ou-abs-bagaggio",
-        "title": "Mala de policarbonato ou ABS na Bagaggio: vale pagar mais?"
+        "slug": "mala-policarbonato-ou-abs-bagaggio"
       },
       {
-        "slug": "conjunto-de-malas-bagaggio-compensa",
-        "title": "Conjunto de malas Bagaggio compensa? A soma das peças, conta por conta"
+        "slug": "conjunto-de-malas-bagaggio-compensa"
       },
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       }
     ]
   },
@@ -167005,20 +165561,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho.",
     "relatedArticles": [
       {
-        "slug": "mala-de-bordo-bagaggio-qual-compensa",
-        "title": "Mala de bordo Bagaggio: qual compensa em preço, medida e selo"
+        "slug": "mala-de-bordo-bagaggio-qual-compensa"
       },
       {
-        "slug": "conjunto-de-malas-bagaggio-compensa",
-        "title": "Conjunto de malas Bagaggio compensa? A soma das peças, conta por conta"
+        "slug": "conjunto-de-malas-bagaggio-compensa"
       },
       {
-        "slug": "mala-policarbonato-ou-abs-bagaggio",
-        "title": "Mala de policarbonato ou ABS na Bagaggio: vale pagar mais?"
+        "slug": "mala-policarbonato-ou-abs-bagaggio"
       },
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       }
     ]
   },
@@ -167263,20 +165815,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado no carrinho de uma mochila. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "mochila-escolar-bagaggio",
-        "title": "Mochila escolar Bagaggio: qual escolher por linha e preço"
+        "slug": "mochila-escolar-bagaggio"
       },
       {
-        "slug": "bagaggio-e-boa-malas-mochilas",
-        "title": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa"
+        "slug": "bagaggio-e-boa-malas-mochilas"
       },
       {
-        "slug": "bagaggio-garantia-vitalicia",
-        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+        "slug": "bagaggio-garantia-vitalicia"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       }
     ],
     "decision": {
@@ -167538,16 +166086,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado nas peças da lista. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       },
       {
-        "slug": "conjunto-de-malas-bagaggio-compensa",
-        "title": "Conjunto de malas Bagaggio compensa? A soma das peças, conta por conta"
+        "slug": "conjunto-de-malas-bagaggio-compensa"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       }
     ],
     "decision": {
@@ -167773,20 +166318,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado no carrinho de uma mochila. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "mochila-notebook-bagaggio-qual-escolher",
-        "title": "Mochila para notebook Bagaggio: qual escolher por preço e uso"
+        "slug": "mochila-notebook-bagaggio-qual-escolher"
       },
       {
-        "slug": "bagaggio-e-boa-malas-mochilas",
-        "title": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa"
+        "slug": "bagaggio-e-boa-malas-mochilas"
       },
       {
-        "slug": "black-friday-bagaggio",
-        "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+        "slug": "black-friday-bagaggio"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       }
     ],
     "decision": {
@@ -167955,20 +166496,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Não calculamos o valor final com o cupom. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "autobronzeador-skelt-qual-escolher",
-        "title": "Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark"
+        "slug": "autobronzeador-skelt-qual-escolher"
       },
       {
-        "slug": "removedor-autobronzeador-skelt-como-tirar",
-        "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a empresa anuncia"
+        "slug": "removedor-autobronzeador-skelt-como-tirar"
       },
       {
-        "slug": "iluminador-corporal-skelt-como-usar",
-        "title": "Iluminador corporal Skelt: como usar e se compensa comprar sozinho ou no kit"
+        "slug": "iluminador-corporal-skelt-como-usar"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       }
     ],
     "decision": {
@@ -168119,20 +166656,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Não calculamos o valor final com o cupom. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "autobronzeador-skelt-qual-escolher",
-        "title": "Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark"
+        "slug": "autobronzeador-skelt-qual-escolher"
       },
       {
-        "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador",
-        "title": "Bronzeado instantâneo Skelt: qual usar para hoje (e o que muda do autobronzeador)"
+        "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador"
       },
       {
-        "slug": "iluminador-corporal-skelt-como-usar",
-        "title": "Iluminador corporal Skelt: como usar e se compensa comprar sozinho ou no kit"
+        "slug": "iluminador-corporal-skelt-como-usar"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       }
     ]
   },
@@ -168267,20 +166800,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
     "relatedArticles": [
       {
-        "slug": "autobronzeador-skelt-qual-escolher",
-        "title": "Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark"
+        "slug": "autobronzeador-skelt-qual-escolher"
       },
       {
-        "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador",
-        "title": "Bronzeado instantâneo Skelt: qual usar para hoje (e o que muda do autobronzeador)"
+        "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador"
       },
       {
-        "slug": "removedor-autobronzeador-skelt-como-tirar",
-        "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a empresa anuncia"
+        "slug": "removedor-autobronzeador-skelt-como-tirar"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       }
     ]
   },
@@ -168762,20 +167291,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
     "relatedArticles": [
       {
-        "slug": "insider-vale-a-pena",
-        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+        "slug": "insider-vale-a-pena"
       },
       {
-        "slug": "tabela-de-medidas-insider",
-        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+        "slug": "tabela-de-medidas-insider"
       },
       {
-        "slug": "insider-mercado-livre-ou-site",
-        "title": "Insider no Mercado Livre ou no site: onde sai mais barato"
+        "slug": "insider-mercado-livre-ou-site"
       },
       {
-        "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026 masculino: até 50% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider"
       }
     ]
   },
@@ -168818,16 +167343,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão na Toda Up. Feito com dados da loja; ninguém do site usou as peças.",
     "relatedArticles": [
       {
-        "slug": "sutia-de-silicone-invisivel-como-usar",
-        "title": "Sutiã de silicone invisível: como usar e para qual roupa"
+        "slug": "sutia-de-silicone-invisivel-como-usar"
       },
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       },
       {
-        "slug": "black-friday-toda-up",
-        "title": "Black Friday Toda Up 2026: a Black Antecipada, as faixas de desconto e o cupom"
+        "slug": "black-friday-toda-up"
       }
     ],
     "contentSections": [
@@ -169548,16 +168070,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Ninguém da equipe usou as peças: os dados são das páginas da loja.",
     "relatedArticles": [
       {
-        "slug": "cueca-insider-comfort-ou-performance",
-        "title": "Cueca Insider: Comfort, Performance, Seamless Touch ou Slip, qual escolher"
+        "slug": "cueca-insider-comfort-ou-performance"
       },
       {
-        "slug": "undershirt-insider-qual-escolher-funciona",
-        "title": "Undershirt Insider: Leve, Moderado ou Block, qual escolher para o seu nível de suor"
+        "slug": "undershirt-insider-qual-escolher-funciona"
       },
       {
-        "slug": "presente-de-natal-insider-kits-gift-card",
-        "title": "Presente de Natal na Insider: kits, gift card, sacola e troca de presente"
+        "slug": "presente-de-natal-insider-kits-gift-card"
       }
     ]
   },
@@ -169824,28 +168343,22 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Black Skull, pela Max Titanium e pela Probiótica. Guia pelo rótulo e pelo preço do dia; não usamos os produtos.",
     "relatedArticles": [
       {
-        "slug": "creatina-black-skull-qual-escolher",
-        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+        "slug": "creatina-black-skull-qual-escolher"
       },
       {
-        "slug": "creatina-max-titanium-qual-pote",
-        "title": "Creatina Max Titanium: qual pote compensa (100 g, 300 g, 500 g) e se é Creapure"
+        "slug": "creatina-max-titanium-qual-pote"
       },
       {
-        "slug": "creatina-probiotica-qual-compensa",
-        "title": "Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo"
+        "slug": "creatina-probiotica-qual-compensa"
       },
       {
-        "slug": "cupom-black-skull-como-usar",
-        "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site"
+        "slug": "cupom-black-skull-como-usar"
       },
       {
-        "slug": "cupom-max-titanium-como-usar",
-        "title": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% de desconto"
+        "slug": "cupom-max-titanium-como-usar"
       },
       {
-        "slug": "cupom-probiotica-como-usar",
-        "title": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto"
+        "slug": "cupom-probiotica-como-usar"
       }
     ]
   },
@@ -170108,16 +168621,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo link e pelo cupom da loja. Ninguém da equipe usou estas taças.",
     "relatedArticles": [
       {
-        "slug": "mesa-posta-dia-a-dia-o-que-comprar",
-        "title": "Mesa posta do dia a dia: o que comprar primeiro e quanto custa por peça"
+        "slug": "mesa-posta-dia-a-dia-o-que-comprar"
       },
       {
-        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       },
       {
-        "slug": "presente-de-casamento-ideias-por-preco",
-        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+        "slug": "presente-de-casamento-ideias-por-preco"
       }
     ]
   },
@@ -170573,24 +169083,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
     "relatedArticles": [
       {
-        "slug": "camiseta-insider-qual-escolher",
-        "title": "Camiseta masculina Insider: qual escolher entre Tech, Heavy, Core, Daily, Polo e Henley"
+        "slug": "camiseta-insider-qual-escolher"
       },
       {
-        "slug": "insider-vale-a-pena",
-        "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+        "slug": "insider-vale-a-pena"
       },
       {
-        "slug": "tabela-de-medidas-insider",
-        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+        "slug": "tabela-de-medidas-insider"
       },
       {
-        "slug": "insider-mercado-livre-ou-site",
-        "title": "Insider no Mercado Livre ou no site: onde sai mais barato"
+        "slug": "insider-mercado-livre-ou-site"
       },
       {
-        "slug": "black-friday-insider-feminino",
-        "title": "Black Friday Insider 2026 feminino: até 50% OFF, camisetas, calcinhas e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider-feminino"
       }
     ]
   },
@@ -170643,8 +169148,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Preços e regras conferidos no site da SHEIN no dia da publicação. Podemos receber comissão pelos links e pelo código de indicação 4CW5Y. Ninguém da equipe usou as peças.",
     "relatedArticles": [
       {
-        "slug": "shein-e-confiavel",
-        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+        "slug": "shein-e-confiavel"
       }
     ],
     "contentSections": [
@@ -171023,8 +169527,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Data checked on the day of publication on SHEIN. We may earn a commission from the links and from the referral code 4CW5Y. No one on the team wore the pieces.",
     "relatedArticles": [
       {
-        "slug": "is-shein-legit-and-safe",
-        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+        "slug": "is-shein-legit-and-safe"
       }
     ],
     "contentSections": [
@@ -171386,8 +169889,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Datos comprobados el día de la publicación en SHEIN. Podemos recibir comisión por los enlaces y por el código de invitación 4CW5Y. Nadie del equipo usó las prendas.",
     "relatedArticles": [
       {
-        "slug": "shein-es-confiable-y-seguro",
-        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+        "slug": "shein-es-confiable-y-seguro"
       }
     ],
     "contentSections": [
@@ -171749,8 +170251,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Données vérifiées le jour de la publication sur SHEIN. Nous pouvons toucher une commission sur les liens et sur le code de parrainage 4CW5Y. Personne de l'équipe n'a porté les pièces.",
     "relatedArticles": [
       {
-        "slug": "shein-est-il-fiable-et-sur",
-        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+        "slug": "shein-est-il-fiable-et-sur"
       }
     ],
     "contentSections": [
@@ -172112,8 +170613,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Angaben am Tag der Veröffentlichung bei SHEIN geprüft. Für die Links und den Empfehlungscode 4CW5Y erhalten wir möglicherweise eine Provision. Niemand aus dem Team hat die Teile getragen.",
     "relatedArticles": [
       {
-        "slug": "ist-shein-serioes-und-sicher",
-        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+        "slug": "ist-shein-serioes-und-sicher"
       }
     ],
     "contentSections": [
@@ -172475,8 +170975,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Dati verificati il giorno della pubblicazione su SHEIN. Possiamo ricevere una commissione dai link e dal codice di invito 4CW5Y. Nessuno del team ha indossato i capi.",
     "relatedArticles": [
       {
-        "slug": "shein-e-affidabile-e-sicuro",
-        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+        "slug": "shein-e-affidabile-e-sicuro"
       }
     ],
     "contentSections": [
@@ -172838,8 +171337,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "데이터는 게재일에 SHEIN에서 확인한 내용입니다. 링크와 추천 코드 4CW5Y로 수수료를 받을 수 있습니다. 팀원 중 누구도 제품을 착용하지 않았습니다.",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ko",
-        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+        "slug": "shein-trust-guide-ko"
       }
     ],
     "contentSections": [
@@ -173201,8 +171699,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "データは掲載日にSHEINで確認済みです。リンクと紹介コード4CW5Yから手数料を受け取る場合があります。スタッフは誰も着用していません。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ja",
-        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+        "slug": "shein-trust-guide-ja"
       }
     ],
     "contentSections": [
@@ -173564,8 +172061,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "資料於刊登當天在 SHEIN 查證。我們可能因連結與推薦碼 4CW5Y 取得傭金。團隊成員都沒有穿過這些商品。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hant",
-        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+        "slug": "shein-trust-guide-zh-hant"
       }
     ],
     "contentSections": [
@@ -173927,8 +172423,7 @@ export const reviewsData: unknown[] = [
     "editorialNote": "数据在发布当天于 SHEIN 核对。我们可能因链接和推荐码 4CW5Y 获得佣金。团队中没有人穿过这些裙子。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hans",
-        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+        "slug": "shein-trust-guide-zh-hans"
       }
     ],
     "contentSections": [
@@ -175143,24 +173638,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Ninguém da equipe usou as peças: os dados são das páginas da loja.",
     "relatedArticles": [
       {
-        "slug": "outlet-insider-masculino-vale-a-pena",
-        "title": "Outlet Insider masculino: o que vale a pena e quanto sai com o cupom"
+        "slug": "outlet-insider-masculino-vale-a-pena"
       },
       {
-        "slug": "kit-insider-quando-compensa",
-        "title": "Kit Insider: quando compensa mais que comprar peças avulsas (conta por peça)"
+        "slug": "kit-insider-quando-compensa"
       },
       {
-        "slug": "black-friday-insider-feminino",
-        "title": "Black Friday Insider 2026 feminino: até 50% OFF, camisetas, calcinhas e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider-feminino"
       },
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Como usar o cupom EMCASACOMCECILIA na Insider Store: 15% de desconto"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       },
       {
-        "slug": "tabela-de-medidas-insider",
-        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+        "slug": "tabela-de-medidas-insider"
       }
     ],
     "decision": {
@@ -175503,24 +173993,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Ninguém da equipe usou as peças: os dados são das páginas da loja.",
     "relatedArticles": [
       {
-        "slug": "outlet-insider-feminino-vale-a-pena",
-        "title": "Outlet Insider feminino: o que vale a pena e quanto sai com o cupom"
+        "slug": "outlet-insider-feminino-vale-a-pena"
       },
       {
-        "slug": "kit-insider-quando-compensa",
-        "title": "Kit Insider: quando compensa mais que comprar peças avulsas (conta por peça)"
+        "slug": "kit-insider-quando-compensa"
       },
       {
-        "slug": "black-friday-insider",
-        "title": "Black Friday Insider 2026 masculino: até 50% OFF, Tech T-Shirt, cuecas e o cupom EMCASACOMCECILIA"
+        "slug": "black-friday-insider"
       },
       {
-        "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-        "title": "Como usar o cupom EMCASACOMCECILIA na Insider Store: 15% de desconto"
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       },
       {
-        "slug": "tabela-de-medidas-insider",
-        "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+        "slug": "tabela-de-medidas-insider"
       }
     ],
     "decision": {
@@ -175806,20 +174291,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as páginas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
     "relatedArticles": [
       {
-        "slug": "mala-de-bordo-bagaggio-qual-compensa",
-        "title": "Mala de bordo Bagaggio: qual compensa em preço, medida e selo"
+        "slug": "mala-de-bordo-bagaggio-qual-compensa"
       },
       {
-        "slug": "mochila-notebook-bagaggio-qual-escolher",
-        "title": "Mochila para notebook Bagaggio: qual escolher por preço e uso"
+        "slug": "mochila-notebook-bagaggio-qual-escolher"
       },
       {
-        "slug": "bagaggio-garantia-vitalicia",
-        "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+        "slug": "bagaggio-garantia-vitalicia"
       },
       {
-        "slug": "cupom-bagaggio-como-usar",
-        "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
+        "slug": "cupom-bagaggio-como-usar"
       }
     ],
     "decision": {
@@ -175873,16 +174354,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão na Toda Up. Feito com dados da loja; ninguém do site usou as peças.",
     "relatedArticles": [
       {
-        "slug": "sutia-toda-up-qual-escolher",
-        "title": "Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher"
+        "slug": "sutia-toda-up-qual-escolher"
       },
       {
-        "slug": "sutia-de-silicone-invisivel-como-usar",
-        "title": "Sutiã de silicone invisível: como usar e para qual roupa"
+        "slug": "sutia-de-silicone-invisivel-como-usar"
       },
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       }
     ],
     "contentSections": [
@@ -176502,16 +174980,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão na Toda Up. Feito com dados da loja; ninguém do site usou os kits.",
     "relatedArticles": [
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       },
       {
-        "slug": "sutia-toda-up-qual-escolher",
-        "title": "Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher"
+        "slug": "sutia-toda-up-qual-escolher"
       },
       {
-        "slug": "sutia-de-silicone-invisivel-como-usar",
-        "title": "Sutiã de silicone invisível: como usar e para qual roupa"
+        "slug": "sutia-de-silicone-invisivel-como-usar"
       }
     ],
     "contentSections": [
@@ -177204,16 +175679,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo cupom CECILIA10. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
     "relatedArticles": [
       {
-        "slug": "whey-black-skull-qual-escolher",
-        "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo"
+        "slug": "whey-black-skull-qual-escolher"
       },
       {
-        "slug": "creatina-black-skull-qual-escolher",
-        "title": "Creatina Black Skull: Creator, Creatine ou Turbo, qual escolher e qual pote compensa"
+        "slug": "creatina-black-skull-qual-escolher"
       },
       {
-        "slug": "black-skull-e-confiavel",
-        "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+        "slug": "black-skull-e-confiavel"
       }
     ]
   },
@@ -177488,16 +175960,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Max Titanium. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
     "relatedArticles": [
       {
-        "slug": "creatina-max-titanium-qual-pote",
-        "title": "Creatina Max Titanium: qual pote compensa (100 g, 300 g, 500 g) e se é Creapure"
+        "slug": "creatina-max-titanium-qual-pote"
       },
       {
-        "slug": "max-titanium-ou-growth",
-        "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "max-titanium-ou-growth"
       },
       {
-        "slug": "max-titanium-e-confiavel",
-        "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "max-titanium-e-confiavel"
       }
     ]
   },
@@ -177789,16 +176258,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Probiótica. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
     "relatedArticles": [
       {
-        "slug": "creatina-probiotica-qual-compensa",
-        "title": "Creatina Probiótica: qual versão compensa pelo preço por 100 g e pelo rótulo"
+        "slug": "creatina-probiotica-qual-compensa"
       },
       {
-        "slug": "probiotica-e-confiavel",
-        "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+        "slug": "probiotica-e-confiavel"
       },
       {
-        "slug": "probiotica-ou-growth",
-        "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
+        "slug": "probiotica-ou-growth"
       }
     ]
   },
@@ -178061,16 +176527,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas, sem uso dos produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
-        "slug": "simple-organic-reclame-aqui-nota-reputacao",
-        "title": "Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam"
+        "slug": "simple-organic-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-simple-organic-como-usar",
-        "title": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale"
+        "slug": "cupom-simple-organic-como-usar"
       },
       {
-        "slug": "black-friday-simple-organic",
-        "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom"
+        "slug": "black-friday-simple-organic"
       }
     ]
   },
@@ -178322,16 +176785,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com fontes públicas, sem uso dos produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
-        "slug": "simple-organic-e-confiavel",
-        "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas"
+        "slug": "simple-organic-e-confiavel"
       },
       {
-        "slug": "cupom-simple-organic-como-usar",
-        "title": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale"
+        "slug": "cupom-simple-organic-como-usar"
       },
       {
-        "slug": "black-friday-simple-organic",
-        "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom"
+        "slug": "black-friday-simple-organic"
       }
     ]
   },
@@ -178548,16 +177008,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Cupom testado no carrinho, sem uso dos produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
-        "slug": "simple-organic-e-confiavel",
-        "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas"
+        "slug": "simple-organic-e-confiavel"
       },
       {
-        "slug": "simple-organic-reclame-aqui-nota-reputacao",
-        "title": "Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam"
+        "slug": "simple-organic-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "black-friday-simple-organic",
-        "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom"
+        "slug": "black-friday-simple-organic"
       }
     ]
   },
@@ -178760,16 +177217,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com os preços do site, sem uso dos produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
-        "slug": "cupom-simple-organic-como-usar",
-        "title": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale"
+        "slug": "cupom-simple-organic-como-usar"
       },
       {
-        "slug": "simple-organic-e-confiavel",
-        "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas"
+        "slug": "simple-organic-e-confiavel"
       },
       {
-        "slug": "simple-organic-reclame-aqui-nota-reputacao",
-        "title": "Simple Organic no Reclame Aqui: nota, reputação e do que as pessoas reclamam"
+        "slug": "simple-organic-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -179173,16 +177627,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo cupom MMEMCASACOMCECILIA. Ninguém da equipe usou os produtos: os dados são do site da marca.",
     "relatedArticles": [
       {
-        "slug": "whey-mais-mu-qual-escolher",
-        "title": "Whey Mais Mu: qual sabor e qual versão escolher (pote, refil, sachê e isolado)"
+        "slug": "whey-mais-mu-qual-escolher"
       },
       {
-        "slug": "pre-treino-exquenta-mais-mu-e-bom",
-        "title": "Exquenta Mais Mu: o que o rótulo mostra em cada sabor, sachê e versão sem cafeína"
+        "slug": "pre-treino-exquenta-mais-mu-e-bom"
       },
       {
-        "slug": "barra-de-proteina-mais-mu-qual-escolher",
-        "title": "Barrinhas e wafers proteicos da Mais Mu: Mukebar, Crush Bar e Chocowheyfer, qual escolher (proteína, açúcar e preço por unidade)"
+        "slug": "barra-de-proteina-mais-mu-qual-escolher"
       }
     ]
   },
@@ -179407,16 +177858,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo cupom DREMCASACOMCECILIA. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
     "relatedArticles": [
       {
-        "slug": "snacks-dr-peanut-qual-escolher",
-        "title": "Doctor Bar, alfajor e Doctor Wafer: qual snack da Dr. Peanut escolher (proteína, açúcar e preço por unidade)"
+        "slug": "snacks-dr-peanut-qual-escolher"
       },
       {
-        "slug": "dr-peanut-qual-tamanho-compensa",
-        "title": "Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa"
+        "slug": "dr-peanut-qual-tamanho-compensa"
       },
       {
-        "slug": "dr-peanut-reclame-aqui-nota-reputacao",
-        "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "dr-peanut-reclame-aqui-nota-reputacao"
       }
     ]
   },
@@ -179785,20 +178233,16 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Belive. Ninguém da equipe provou os produtos: os dados são do rótulo e do site da marca.",
     "relatedArticles": [
       {
-        "slug": "panetone-belive-e-bom",
-        "title": "Panetone Belive é bom? Chocotone, zero açúcar e sem glúten pelo rótulo"
+        "slug": "panetone-belive-e-bom"
       },
       {
-        "slug": "belive-reclame-aqui-nota-reputacao",
-        "title": "Belive no Reclame Aqui: nota e reputação"
+        "slug": "belive-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "snack-proteico-ou-snack-de-arroz-belive",
-        "title": "Snack proteico ou snack de arroz da Belive: qual compensa por grama de proteína"
+        "slug": "snack-proteico-ou-snack-de-arroz-belive"
       },
       {
-        "slug": "pao-de-mel-sem-acucar-belive",
-        "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+        "slug": "pao-de-mel-sem-acucar-belive"
       }
     ]
   },
@@ -180152,16 +178596,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito pelo rótulo e pelo site da marca, sem uso dos produtos. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
-        "slug": "cupom-simple-organic-como-usar",
-        "title": "Como usar o cupom S-EMCASACOMCECILIA na Simple Organic e onde ele vale"
+        "slug": "cupom-simple-organic-como-usar"
       },
       {
-        "slug": "black-friday-simple-organic",
-        "title": "Black Friday Simple Organic 2026: a Clean Friday com até 50% OFF e o cupom"
+        "slug": "black-friday-simple-organic"
       },
       {
-        "slug": "simple-organic-e-confiavel",
-        "title": "Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas"
+        "slug": "simple-organic-e-confiavel"
       }
     ]
   },
@@ -180382,24 +178823,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Belive. Ninguém da equipe provou o panetone: os dados são do rótulo e do site da marca.",
     "relatedArticles": [
       {
-        "slug": "black-friday-belive",
-        "title": "Black Friday Belive 2026: a Black November já começou, até 30% no site e o cupom MAUAD"
+        "slug": "black-friday-belive"
       },
       {
-        "slug": "cupom-belive-como-usar",
-        "title": "Como usar o cupom da Belive e o que ele soma"
+        "slug": "cupom-belive-como-usar"
       },
       {
-        "slug": "belive-reclame-aqui-nota-reputacao",
-        "title": "Belive no Reclame Aqui: nota e reputação"
+        "slug": "belive-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "brownie-sem-acucar-belive",
-        "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+        "slug": "brownie-sem-acucar-belive"
       },
       {
-        "slug": "belive-e-boa",
-        "title": "Belive é boa? Os doces sem açúcar, os salgadinhos, os pães e o que vale comprar da marca"
+        "slug": "belive-e-boa"
       }
     ]
   },
@@ -180819,48 +179255,37 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Skelt. Ninguém da equipe usou os produtos: os dados são do rótulo e do site da marca.",
     "relatedArticles": [
       {
-        "slug": "autobronzeador-skelt-qual-escolher",
-        "title": "Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark"
+        "slug": "autobronzeador-skelt-qual-escolher"
       },
       {
-        "slug": "body-splash-skelt-qual-escolher",
-        "title": "Body splash Skelt: qual escolher por fragrância, com hidratantes e kits"
+        "slug": "body-splash-skelt-qual-escolher"
       },
       {
-        "slug": "hidratante-corporal-skelt-qual-fragrancia",
-        "title": "Hidratante corporal Skelt: qual fragrância escolher e quanto sai por 100 g"
+        "slug": "hidratante-corporal-skelt-qual-fragrancia"
       },
       {
-        "slug": "iluminador-corporal-skelt-como-usar",
-        "title": "Iluminador corporal Skelt: como usar e se compensa comprar sozinho ou no kit"
+        "slug": "iluminador-corporal-skelt-como-usar"
       },
       {
-        "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador",
-        "title": "Bronzeado instantâneo Skelt: qual usar para hoje (e o que muda do autobronzeador)"
+        "slug": "bronzeado-instantaneo-skelt-ou-autobronzeador"
       },
       {
-        "slug": "removedor-autobronzeador-skelt-como-tirar",
-        "title": "Como tirar o autobronzeador Skelt: removedor, banho e o que a empresa anuncia"
+        "slug": "removedor-autobronzeador-skelt-como-tirar"
       },
       {
-        "slug": "cupom-skelt-como-usar",
-        "title": "Como usar o cupom SKEMCASACOMCECILIA na Skelt e o que ele soma"
+        "slug": "cupom-skelt-como-usar"
       },
       {
-        "slug": "skelt-e-confiavel",
-        "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "skelt-e-confiavel"
       },
       {
-        "slug": "skelt-reclame-aqui-nota-reputacao",
-        "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "skelt-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "black-friday-skelt",
-        "title": "Black Friday Skelt 2026: esquenta a partir de 5 de novembro, Black Friday em 27 e o cupom SKEMCASACOMCECILIA"
+        "slug": "black-friday-skelt"
       },
       {
-        "slug": "skelt-ou-best-bronze",
-        "title": "Skelt ou Best Bronze: qual autobronzeador escolher (mousse, transparente e preço por ml)"
+        "slug": "skelt-ou-best-bronze"
       }
     ]
   },
@@ -181205,48 +179630,37 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela I Wanna Sleep. Os dados são do site da marca; o cobertor Igloo foi recebido em parceria, e o relato está no artigo dele.",
     "relatedArticles": [
       {
-        "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
-        "title": "Qual Cobertor Escolher? As opções da I Wanna Sleep"
+        "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep"
       },
       {
-        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-        "title": "Cobertor Igloo da I Wanna Sleep: lado gelado, lado quente e primeira noite"
+        "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
       },
       {
-        "slug": "melatonina-liquida-iws-ficha-tecnica",
-        "title": "Melatonina Líquida IWS 30 ml: ficha do rótulo e preço"
+        "slug": "melatonina-liquida-iws-ficha-tecnica"
       },
       {
-        "slug": "melatonina-gummy-iws-para-que-serve-como-tomar",
-        "title": "Melatonina Gummy IWS: para que serve, como tomar e cuidados"
+        "slug": "melatonina-gummy-iws-para-que-serve-como-tomar"
       },
       {
-        "slug": "sleepspray-kidz-iws-como-funciona-ritual-do-sono",
-        "title": "SleepSpray Kidz IWS: Como Funciona o Spray para Travesseiro e o Ritual do Sono Infantil"
+        "slug": "sleepspray-kidz-iws-como-funciona-ritual-do-sono"
       },
       {
-        "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca",
-        "title": "Aliv Head Gel IWS: máscara térmica fria ou quente, como usar e para quem serve"
+        "slug": "aliv-head-gel-iws-mascara-termica-enxaqueca"
       },
       {
-        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-        "title": "Como usar o cupom CECIEMCASA na I Wanna Sleep: 10% de desconto"
+        "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       },
       {
-        "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao",
-        "title": "I Wanna Sleep no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "i-wanna-sleep-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "black-friday-i-wanna-sleep",
-        "title": "Black Friday I Wanna Sleep 2026: a loja segue sem campanha, os preços do Pillow Top Magnum e o cupom CECIEMCASA"
+        "slug": "black-friday-i-wanna-sleep"
       },
       {
-        "slug": "i-wanna-sleep-ou-ortobom",
-        "title": "Travesseiro I Wanna Sleep ou Ortobom: qual escolher por material, altura e jeito de dormir"
+        "slug": "i-wanna-sleep-ou-ortobom"
       },
       {
-        "slug": "travesseiro-i-wanna-sleep-ou-emma",
-        "title": "Travesseiro I Wanna Sleep ou Emma (e Ortobom): qual escolher pelo seu jeito de dormir"
+        "slug": "travesseiro-i-wanna-sleep-ou-emma"
       }
     ]
   },
@@ -181564,44 +179978,34 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo CSEMCASACOMCECILIA. Ninguém da equipe comprou nem vestiu as peças: os dados são do site da Cléa Store.",
     "relatedArticles": [
       {
-        "slug": "camiseta-clea-store-e-boa",
-        "title": "Camiseta Cléa Store é boa? Tecido, modelagem, tamanhos, kit e preço por peça"
+        "slug": "camiseta-clea-store-e-boa"
       },
       {
-        "slug": "body-clea-store-second-skin-qual-escolher",
-        "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+        "slug": "body-clea-store-second-skin-qual-escolher"
       },
       {
-        "slug": "alfaiataria-verao-clea-store",
-        "title": "Alfaiataria de verão na Cléa Store: dá para montar conjunto, mas a loja não vende pronto"
+        "slug": "alfaiataria-verao-clea-store"
       },
       {
-        "slug": "look-trabalho-alfaiataria-feminina-clea-store",
-        "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+        "slug": "look-trabalho-alfaiataria-feminina-clea-store"
       },
       {
-        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
-        "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+        "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho"
       },
       {
-        "slug": "clea-store-mercado-livre-ou-site",
-        "title": "Cléa Store no Mercado Livre ou no site: onde sai mais barato"
+        "slug": "clea-store-mercado-livre-ou-site"
       },
       {
-        "slug": "clea-store-e-confiavel",
-        "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+        "slug": "clea-store-e-confiavel"
       },
       {
-        "slug": "clea-store-reclame-aqui-nota-reputacao",
-        "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "clea-store-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-clea-store-como-usar",
-        "title": "Como usar o cupom CSEMCASACOMCECILIA na Cléa Store: passo a passo"
+        "slug": "cupom-clea-store-como-usar"
       },
       {
-        "slug": "black-friday-clea-store",
-        "title": "Black Friday Cléa Store 2026: 30% OFF em todo o site, kits a preço fixo e o cupom CSEMCASACOMCECILIA"
+        "slug": "black-friday-clea-store"
       }
     ]
   },
@@ -181976,36 +180380,28 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Toda Up. Ninguém da equipe vestiu as peças: os dados são do site da marca e do teste do cupom.",
     "relatedArticles": [
       {
-        "slug": "sutia-toda-up-qual-escolher",
-        "title": "Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher"
+        "slug": "sutia-toda-up-qual-escolher"
       },
       {
-        "slug": "skinup-ou-cotton-up-toda-up",
-        "title": "SkinUp ou Cotton Up: segunda pele ou algodão, qual escolher na Toda Up"
+        "slug": "skinup-ou-cotton-up-toda-up"
       },
       {
-        "slug": "fita-up-como-usar",
-        "title": "Fita Up: como usar no tomara que caia e no decote (e se dá para reutilizar)"
+        "slug": "fita-up-como-usar"
       },
       {
-        "slug": "kit-toda-up-quando-compensa",
-        "title": "Kits da Toda Up: quando compensam (conta por peça)"
+        "slug": "kit-toda-up-quando-compensa"
       },
       {
-        "slug": "cupom-toda-up-como-usar",
-        "title": "Como usar o cupom da Toda Up e o que ele soma com a Black Antecipada"
+        "slug": "cupom-toda-up-como-usar"
       },
       {
-        "slug": "toda-up-e-confiavel",
-        "title": "Fita Up (Toda Up) é confiável? Empresa, CNPJ, site oficial e trocas"
+        "slug": "toda-up-e-confiavel"
       },
       {
-        "slug": "toda-up-reclame-aqui-nota-reputacao",
-        "title": "Toda Up (antiga Fita Up) no Reclame Aqui: nota, reputação e o que os números mostram"
+        "slug": "toda-up-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "black-friday-toda-up",
-        "title": "Black Friday Toda Up 2026: a Black November com todo o site em desconto e o cupom"
+        "slug": "black-friday-toda-up"
       }
     ]
   },
@@ -182186,44 +180582,34 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pela Let's Eat It. Ninguém da equipe comprou na loja: dados do site, do CNPJ e do Reclame Aqui.",
     "relatedArticles": [
       {
-        "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
-        "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
       },
       {
-        "slug": "cupom-mauad-lets-eat-it-como-usar",
-        "title": "Como usar o código de desconto da Let's Eat It: 5% no site"
+        "slug": "cupom-mauad-lets-eat-it-como-usar"
       },
       {
-        "slug": "le-creuset-qual-tamanho-escolher",
-        "title": "Le Creuset 20 ou 24 cm: qual tamanho escolher (e quando o buffet faz sentido)"
+        "slug": "le-creuset-qual-tamanho-escolher"
       },
       {
-        "slug": "le-creuset-original-como-saber",
-        "title": "Le Creuset original: como saber e onde comprar"
+        "slug": "le-creuset-original-como-saber"
       },
       {
-        "slug": "porto-brasil-e-boa",
-        "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+        "slug": "porto-brasil-e-boa"
       },
       {
-        "slug": "mesa-posta-dia-a-dia-o-que-comprar",
-        "title": "Mesa posta do dia a dia: o que comprar primeiro e quanto custa por peça"
+        "slug": "mesa-posta-dia-a-dia-o-que-comprar"
       },
       {
-        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-        "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       },
       {
-        "slug": "presente-natal-quem-gosta-de-cozinhar",
-        "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço"
+        "slug": "presente-natal-quem-gosta-de-cozinhar"
       },
       {
-        "slug": "presente-de-casamento-ideias-por-preco",
-        "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+        "slug": "presente-de-casamento-ideias-por-preco"
       },
       {
-        "slug": "faqueiro-laguiole-la-maison-qual-escolher",
-        "title": "Faqueiro Laguiole La Maison: qual escolher (12, 18 ou 30 peças) e se vale a pena"
+        "slug": "faqueiro-laguiole-la-maison-qual-escolher"
       }
     ]
   },
@@ -182267,24 +180653,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da SHEIN. Ninguém da equipe comprou as peças.",
     "relatedArticles": [
       {
-        "slug": "shein-e-confiavel",
-        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+        "slug": "shein-e-confiavel"
       },
       {
-        "slug": "tamanho-shein-brasil",
-        "title": "Tamanho na SHEIN: qual letra pedir, o tamanho brasileiro e como ler o guia de cada peça"
+        "slug": "tamanho-shein-brasil"
       },
       {
-        "slug": "codigo-de-indicacao-shein",
-        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+        "slug": "codigo-de-indicacao-shein"
       },
       {
-        "slug": "vestido-de-festa-shein",
-        "title": "Vestido de festa na SHEIN: como escolher pela ocasião, pelo tecido e pelo prazo"
+        "slug": "vestido-de-festa-shein"
       },
       {
-        "slug": "shein-reclame-aqui-nota-reputacao",
-        "title": "SHEIN no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "shein-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -182507,24 +180888,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "We may earn a commission on SHEIN links. No one on the team bought the pieces.",
     "relatedArticles": [
       {
-        "slug": "is-shein-legit-and-safe",
-        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+        "slug": "is-shein-legit-and-safe"
       },
       {
-        "slug": "shein-size-guide",
-        "title": "SHEIN size guide: which size to order and how to read each size chart"
+        "slug": "shein-size-guide"
       },
       {
-        "slug": "shein-referral-code-where-to-enter",
-        "title": "SHEIN referral code: where to enter it and how it works"
+        "slug": "shein-referral-code-where-to-enter"
       },
       {
-        "slug": "shein-party-dress-guide",
-        "title": "Party dress on SHEIN: how to choose by occasion, fabric and delivery time"
+        "slug": "shein-party-dress-guide"
       },
       {
-        "slug": "shein-trustpilot-reviews",
-        "title": "SHEIN on Trustpilot: score, complaints and what the numbers show"
+        "slug": "shein-trustpilot-reviews"
       }
     ],
     "contentSections": [
@@ -182667,24 +181043,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos recibir comisión por los enlaces de SHEIN. Nadie del equipo compró las prendas.",
     "relatedArticles": [
       {
-        "slug": "shein-es-confiable-y-seguro",
-        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+        "slug": "shein-es-confiable-y-seguro"
       },
       {
-        "slug": "tallas-shein",
-        "title": "Guía de tallas de SHEIN: qué talla pedir y cómo leer la tabla de cada prenda"
+        "slug": "tallas-shein"
       },
       {
-        "slug": "codigo-de-referido-shein-donde-ponerlo",
-        "title": "Código de referido de SHEIN: dónde ponerlo y cómo usarlo"
+        "slug": "codigo-de-referido-shein-donde-ponerlo"
       },
       {
-        "slug": "vestido-de-fiesta-shein",
-        "title": "Vestido de fiesta en SHEIN: cómo elegir según la ocasión, la tela y el plazo"
+        "slug": "vestido-de-fiesta-shein"
       },
       {
-        "slug": "shein-opiniones-trustpilot",
-        "title": "SHEIN en Trustpilot: calificación, quejas y lo que muestran los datos"
+        "slug": "shein-opiniones-trustpilot"
       }
     ],
     "contentSections": [
@@ -182827,24 +181198,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Nous pouvons toucher une commission sur les liens SHEIN. Personne de l'équipe n'a acheté les pièces.",
     "relatedArticles": [
       {
-        "slug": "shein-est-il-fiable-et-sur",
-        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+        "slug": "shein-est-il-fiable-et-sur"
       },
       {
-        "slug": "tailles-shein",
-        "title": "Tailles SHEIN : quelle taille commander et comment lire le guide de chaque article"
+        "slug": "tailles-shein"
       },
       {
-        "slug": "code-de-parrainage-shein-ou-le-mettre",
-        "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser"
+        "slug": "code-de-parrainage-shein-ou-le-mettre"
       },
       {
-        "slug": "robe-de-soiree-shein",
-        "title": "Robe de soirée sur SHEIN : comment choisir selon l'occasion, le tissu et le délai"
+        "slug": "robe-de-soiree-shein"
       },
       {
-        "slug": "shein-avis-trustpilot",
-        "title": "SHEIN sur Trustpilot : note, plaintes et ce que montrent les chiffres"
+        "slug": "shein-avis-trustpilot"
       }
     ],
     "contentSections": [
@@ -182987,24 +181353,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Wir können eine Provision für Links zu SHEIN erhalten. Niemand aus unserem Team hat die Teile gekauft.",
     "relatedArticles": [
       {
-        "slug": "ist-shein-serioes-und-sicher",
-        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+        "slug": "ist-shein-serioes-und-sicher"
       },
       {
-        "slug": "shein-groessen",
-        "title": "Größen bei SHEIN: welche Größe bestellen und wie Sie den Guide jedes Artikels lesen"
+        "slug": "shein-groessen"
       },
       {
-        "slug": "shein-empfehlungscode-wo-eingeben",
-        "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert"
+        "slug": "shein-empfehlungscode-wo-eingeben"
       },
       {
-        "slug": "partykleid-shein",
-        "title": "Partykleid bei SHEIN: so wählen Sie nach Anlass, Stoff und Lieferzeit"
+        "slug": "partykleid-shein"
       },
       {
-        "slug": "shein-trustpilot-bewertungen",
-        "title": "SHEIN auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen"
+        "slug": "shein-trustpilot-bewertungen"
       }
     ],
     "contentSections": [
@@ -183147,24 +181508,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Potremmo ricevere una commissione sui link SHEIN. Nessuno del team ha acquistato i capi.",
     "relatedArticles": [
       {
-        "slug": "shein-e-affidabile-e-sicuro",
-        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+        "slug": "shein-e-affidabile-e-sicuro"
       },
       {
-        "slug": "taglie-shein",
-        "title": "Taglie SHEIN: quale taglia ordinare e come leggere la guida di ogni capo"
+        "slug": "taglie-shein"
       },
       {
-        "slug": "codice-invito-shein-dove-inserirlo",
-        "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
+        "slug": "codice-invito-shein-dove-inserirlo"
       },
       {
-        "slug": "abito-da-festa-shein",
-        "title": "Abito da festa su SHEIN: come scegliere per occasione, tessuto e tempi di consegna"
+        "slug": "abito-da-festa-shein"
       },
       {
-        "slug": "shein-recensioni-trustpilot",
-        "title": "SHEIN su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+        "slug": "shein-recensioni-trustpilot"
       }
     ],
     "contentSections": [
@@ -183307,24 +181663,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SHEIN 링크로 수수료를 받을 수 있어요. 편집팀 중 누구도 이 옷들을 직접 사지 않았어요.",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ko",
-        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+        "slug": "shein-trust-guide-ko"
       },
       {
-        "slug": "shein-size-guide-ko",
-        "title": "SHEIN 사이즈 고르는 법: 상품별 사이즈 가이드 읽는 법"
+        "slug": "shein-size-guide-ko"
       },
       {
-        "slug": "shein-referral-code-ko",
-        "title": "SHEIN 추천 코드: 입력하는 곳과 사용법"
+        "slug": "shein-referral-code-ko"
       },
       {
-        "slug": "shein-party-dress-guide-ko",
-        "title": "SHEIN 파티 드레스: 행사, 소재, 배송 기간으로 고르는 법"
+        "slug": "shein-party-dress-guide-ko"
       },
       {
-        "slug": "shein-trustpilot-reviews-ko",
-        "title": "SHEIN(쉬인) Trustpilot 평점과 불만, 그리고 숫자가 보여주는 것"
+        "slug": "shein-trustpilot-reviews-ko"
       }
     ],
     "contentSections": [
@@ -183467,24 +181818,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SHEINのリンクから、コミッションを受け取る場合があります。編集部の誰もこれらの商品を購入していません。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-ja",
-        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+        "slug": "shein-trust-guide-ja"
       },
       {
-        "slug": "shein-size-guide-ja",
-        "title": "SHEINのサイズの選び方：商品ごとのサイズガイドの読み方"
+        "slug": "shein-size-guide-ja"
       },
       {
-        "slug": "shein-referral-code-ja",
-        "title": "SHEINの紹介コード：入力する場所と使い方"
+        "slug": "shein-referral-code-ja"
       },
       {
-        "slug": "shein-party-dress-guide-ja",
-        "title": "SHEINのパーティードレス：場面・生地・納期で選ぶ方法"
+        "slug": "shein-party-dress-guide-ja"
       },
       {
-        "slug": "shein-trustpilot-reviews-ja",
-        "title": "SHEIN の Trustpilot 評価：スコア、苦情、数字が示すこと"
+        "slug": "shein-trustpilot-reviews-ja"
       }
     ],
     "contentSections": [
@@ -183627,24 +181973,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "我們可能會因 SHEIN 的連結獲得分潤。編輯團隊沒有人實際購買這些商品。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hant",
-        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+        "slug": "shein-trust-guide-zh-hant"
       },
       {
-        "slug": "shein-size-guide-zh-hant",
-        "title": "SHEIN 尺碼怎麼選：如何看每件商品的尺碼表"
+        "slug": "shein-size-guide-zh-hant"
       },
       {
-        "slug": "shein-referral-code-zh-hant",
-        "title": "SHEIN 推薦碼：在哪裡輸入、怎麼用"
+        "slug": "shein-referral-code-zh-hant"
       },
       {
-        "slug": "shein-party-dress-guide-zh-hant",
-        "title": "SHEIN 派對禮服：依場合、布料與到貨時間怎麼選"
+        "slug": "shein-party-dress-guide-zh-hant"
       },
       {
-        "slug": "shein-trustpilot-reviews-zh-hant",
-        "title": "SHEIN 在 Trustpilot 的評分、投訴，以及數據說明了什麼"
+        "slug": "shein-trustpilot-reviews-zh-hant"
       }
     ],
     "contentSections": [
@@ -183787,24 +182128,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "我们可能会因 SHEIN 的链接获得佣金。编辑团队没有人实际购买这些商品。",
     "relatedArticles": [
       {
-        "slug": "shein-trust-guide-zh-hans",
-        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+        "slug": "shein-trust-guide-zh-hans"
       },
       {
-        "slug": "shein-size-guide-zh-hans",
-        "title": "SHEIN 尺码怎么选：如何看每件商品的尺码表"
+        "slug": "shein-size-guide-zh-hans"
       },
       {
-        "slug": "shein-referral-code-zh-hans",
-        "title": "SHEIN 推荐码：在哪里输入、怎么用"
+        "slug": "shein-referral-code-zh-hans"
       },
       {
-        "slug": "shein-party-dress-guide-zh-hans",
-        "title": "SHEIN 派对礼服：按场合、面料和到货时间怎么选"
+        "slug": "shein-party-dress-guide-zh-hans"
       },
       {
-        "slug": "shein-trustpilot-reviews-zh-hans",
-        "title": "SHEIN 在 Trustpilot 的评分、投诉，以及数据说明了什么"
+        "slug": "shein-trustpilot-reviews-zh-hans"
       }
     ],
     "contentSections": [
@@ -183946,24 +182282,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelos links da SHEIN. Ninguém da equipe vestiu as peças.",
     "relatedArticles": [
       {
-        "slug": "shein-vale-a-pena",
-        "title": "SHEIN vale a pena? Quando compensa comprar e quando é melhor passar"
+        "slug": "shein-vale-a-pena"
       },
       {
-        "slug": "vestido-de-festa-shein",
-        "title": "Vestido de festa na SHEIN: como escolher pela ocasião, pelo tecido e pelo prazo"
+        "slug": "vestido-de-festa-shein"
       },
       {
-        "slug": "shein-e-confiavel",
-        "title": "SHEIN é confiável? Quem opera a loja, a nota no Reclame Aqui, o prazo e a taxa"
+        "slug": "shein-e-confiavel"
       },
       {
-        "slug": "codigo-de-indicacao-shein",
-        "title": "Código de indicação SHEIN: onde colocar, como usar e o que você ganha"
+        "slug": "codigo-de-indicacao-shein"
       },
       {
-        "slug": "shein-reclame-aqui-nota-reputacao",
-        "title": "SHEIN no Reclame Aqui: nota, reclamações e o que os dados mostram"
+        "slug": "shein-reclame-aqui-nota-reputacao"
       }
     ],
     "contentSections": [
@@ -184258,24 +182589,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "We may earn a commission on SHEIN links. No one on the team wore these pieces.",
     "relatedArticles": [
       {
-        "slug": "is-shein-worth-it",
-        "title": "Is SHEIN worth it? When buying pays off and when to skip it"
+        "slug": "is-shein-worth-it"
       },
       {
-        "slug": "shein-party-dress-guide",
-        "title": "Party dress on SHEIN: how to choose by occasion, fabric and delivery time"
+        "slug": "shein-party-dress-guide"
       },
       {
-        "slug": "is-shein-legit-and-safe",
-        "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+        "slug": "is-shein-legit-and-safe"
       },
       {
-        "slug": "shein-referral-code-where-to-enter",
-        "title": "SHEIN referral code: where to enter it and how it works"
+        "slug": "shein-referral-code-where-to-enter"
       },
       {
-        "slug": "shein-trustpilot-reviews",
-        "title": "SHEIN on Trustpilot: score, complaints and what the numbers show"
+        "slug": "shein-trustpilot-reviews"
       }
     ],
     "contentSections": [
@@ -184534,24 +182860,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos recibir comisión por los enlaces de SHEIN. Nadie del equipo se probó las prendas.",
     "relatedArticles": [
       {
-        "slug": "vale-la-pena-shein",
-        "title": "¿SHEIN vale la pena? Cuándo compensa comprar y cuándo es mejor pasar"
+        "slug": "vale-la-pena-shein"
       },
       {
-        "slug": "vestido-de-fiesta-shein",
-        "title": "Vestido de fiesta en SHEIN: cómo elegir según la ocasión, la tela y el plazo"
+        "slug": "vestido-de-fiesta-shein"
       },
       {
-        "slug": "shein-es-confiable-y-seguro",
-        "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+        "slug": "shein-es-confiable-y-seguro"
       },
       {
-        "slug": "codigo-de-referido-shein-donde-ponerlo",
-        "title": "Código de referido de SHEIN: dónde ponerlo y cómo usarlo"
+        "slug": "codigo-de-referido-shein-donde-ponerlo"
       },
       {
-        "slug": "shein-opiniones-trustpilot",
-        "title": "SHEIN en Trustpilot: calificación, quejas y lo que muestran los datos"
+        "slug": "shein-opiniones-trustpilot"
       }
     ],
     "contentSections": [
@@ -184810,24 +183131,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Nous pouvons toucher une commission sur les liens SHEIN. Personne de l'équipe n'a porté ces articles.",
     "relatedArticles": [
       {
-        "slug": "shein-ca-vaut-le-coup",
-        "title": "SHEIN vaut-il le coup ? Quand acheter et quand passer son tour"
+        "slug": "shein-ca-vaut-le-coup"
       },
       {
-        "slug": "robe-de-soiree-shein",
-        "title": "Robe de soirée sur SHEIN : comment choisir selon l'occasion, le tissu et le délai"
+        "slug": "robe-de-soiree-shein"
       },
       {
-        "slug": "shein-est-il-fiable-et-sur",
-        "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+        "slug": "shein-est-il-fiable-et-sur"
       },
       {
-        "slug": "code-de-parrainage-shein-ou-le-mettre",
-        "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser"
+        "slug": "code-de-parrainage-shein-ou-le-mettre"
       },
       {
-        "slug": "shein-avis-trustpilot",
-        "title": "SHEIN sur Trustpilot : note, plaintes et ce que montrent les chiffres"
+        "slug": "shein-avis-trustpilot"
       }
     ],
     "contentSections": [
@@ -185086,24 +183402,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Wir können für SHEIN-Links eine Provision erhalten. Niemand aus dem Team hat die Teile getragen.",
     "relatedArticles": [
       {
-        "slug": "lohnt-sich-shein",
-        "title": "Lohnt sich SHEIN? Wann sich der Kauf rechnet und wann Sie besser verzichten"
+        "slug": "lohnt-sich-shein"
       },
       {
-        "slug": "partykleid-shein",
-        "title": "Partykleid bei SHEIN: so wählen Sie nach Anlass, Stoff und Lieferzeit"
+        "slug": "partykleid-shein"
       },
       {
-        "slug": "ist-shein-serioes-und-sicher",
-        "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+        "slug": "ist-shein-serioes-und-sicher"
       },
       {
-        "slug": "shein-empfehlungscode-wo-eingeben",
-        "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert"
+        "slug": "shein-empfehlungscode-wo-eingeben"
       },
       {
-        "slug": "shein-trustpilot-bewertungen",
-        "title": "SHEIN auf Trustpilot: Bewertung, Beschwerden und was die Zahlen zeigen"
+        "slug": "shein-trustpilot-bewertungen"
       }
     ],
     "contentSections": [
@@ -185362,24 +183673,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Possiamo ricevere una commissione sui link SHEIN. Nessuno del team ha indossato i capi.",
     "relatedArticles": [
       {
-        "slug": "shein-conviene",
-        "title": "SHEIN conviene? Quando vale la pena comprare e quando è meglio lasciar perdere"
+        "slug": "shein-conviene"
       },
       {
-        "slug": "abito-da-festa-shein",
-        "title": "Abito da festa su SHEIN: come scegliere per occasione, tessuto e tempi di consegna"
+        "slug": "abito-da-festa-shein"
       },
       {
-        "slug": "shein-e-affidabile-e-sicuro",
-        "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+        "slug": "shein-e-affidabile-e-sicuro"
       },
       {
-        "slug": "codice-invito-shein-dove-inserirlo",
-        "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
+        "slug": "codice-invito-shein-dove-inserirlo"
       },
       {
-        "slug": "shein-recensioni-trustpilot",
-        "title": "SHEIN su Trustpilot: punteggio, reclami e cosa mostrano i numeri"
+        "slug": "shein-recensioni-trustpilot"
       }
     ],
     "contentSections": [
@@ -185638,24 +183944,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SHEIN 링크로 저희가 수수료를 받을 수 있습니다. 팀원 누구도 이 옷을 입어 보지 않았습니다.",
     "relatedArticles": [
       {
-        "slug": "shein-worth-it-ko",
-        "title": "SHEIN은 살 만할까요? 언제 사면 좋고 언제 건너뛰어야 할지"
+        "slug": "shein-worth-it-ko"
       },
       {
-        "slug": "shein-party-dress-guide-ko",
-        "title": "SHEIN 파티 드레스: 행사, 소재, 배송 기간으로 고르는 법"
+        "slug": "shein-party-dress-guide-ko"
       },
       {
-        "slug": "shein-trust-guide-ko",
-        "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+        "slug": "shein-trust-guide-ko"
       },
       {
-        "slug": "shein-referral-code-ko",
-        "title": "SHEIN 추천 코드: 입력하는 곳과 사용법"
+        "slug": "shein-referral-code-ko"
       },
       {
-        "slug": "shein-trustpilot-reviews-ko",
-        "title": "SHEIN(쉬인) Trustpilot 평점과 불만, 그리고 숫자가 보여주는 것"
+        "slug": "shein-trustpilot-reviews-ko"
       }
     ],
     "contentSections": [
@@ -185914,24 +184215,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "SHEINのリンクから、当サイトが報酬を受け取る場合があります。スタッフは誰もこの商品を試着していません。",
     "relatedArticles": [
       {
-        "slug": "shein-worth-it-ja",
-        "title": "SHEINは買う価値がある？買うべきときと見送るべきとき"
+        "slug": "shein-worth-it-ja"
       },
       {
-        "slug": "shein-party-dress-guide-ja",
-        "title": "SHEINのパーティードレス：場面・生地・納期で選ぶ方法"
+        "slug": "shein-party-dress-guide-ja"
       },
       {
-        "slug": "shein-trust-guide-ja",
-        "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+        "slug": "shein-trust-guide-ja"
       },
       {
-        "slug": "shein-referral-code-ja",
-        "title": "SHEINの紹介コード：入力する場所と使い方"
+        "slug": "shein-referral-code-ja"
       },
       {
-        "slug": "shein-trustpilot-reviews-ja",
-        "title": "SHEIN の Trustpilot 評価：スコア、苦情、数字が示すこと"
+        "slug": "shein-trustpilot-reviews-ja"
       }
     ],
     "contentSections": [
@@ -186190,24 +184486,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "我們可能會從 SHEIN 連結獲得傭金。團隊成員沒有試穿這些商品。",
     "relatedArticles": [
       {
-        "slug": "shein-worth-it-zh-hant",
-        "title": "SHEIN 值得買嗎？什麼時候買划算，什麼時候別買"
+        "slug": "shein-worth-it-zh-hant"
       },
       {
-        "slug": "shein-party-dress-guide-zh-hant",
-        "title": "SHEIN 派對禮服：依場合、布料與到貨時間怎麼選"
+        "slug": "shein-party-dress-guide-zh-hant"
       },
       {
-        "slug": "shein-trust-guide-zh-hant",
-        "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+        "slug": "shein-trust-guide-zh-hant"
       },
       {
-        "slug": "shein-referral-code-zh-hant",
-        "title": "SHEIN 推薦碼：在哪裡輸入、怎麼用"
+        "slug": "shein-referral-code-zh-hant"
       },
       {
-        "slug": "shein-trustpilot-reviews-zh-hant",
-        "title": "SHEIN 在 Trustpilot 的評分、投訴，以及數據說明了什麼"
+        "slug": "shein-trustpilot-reviews-zh-hant"
       }
     ],
     "contentSections": [
@@ -186466,24 +184757,19 @@ export const reviewsData: unknown[] = [
     "editorialNote": "我们可能会从 SHEIN 链接获得佣金。团队成员没有试穿这些商品。",
     "relatedArticles": [
       {
-        "slug": "shein-worth-it-zh-hans",
-        "title": "SHEIN 值得买吗？什么时候买划算，什么时候别买"
+        "slug": "shein-worth-it-zh-hans"
       },
       {
-        "slug": "shein-party-dress-guide-zh-hans",
-        "title": "SHEIN 派对礼服：按场合、面料和到货时间怎么选"
+        "slug": "shein-party-dress-guide-zh-hans"
       },
       {
-        "slug": "shein-trust-guide-zh-hans",
-        "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+        "slug": "shein-trust-guide-zh-hans"
       },
       {
-        "slug": "shein-referral-code-zh-hans",
-        "title": "SHEIN 推荐码：在哪里输入、怎么用"
+        "slug": "shein-referral-code-zh-hans"
       },
       {
-        "slug": "shein-trustpilot-reviews-zh-hans",
-        "title": "SHEIN 在 Trustpilot 的评分、投诉，以及数据说明了什么"
+        "slug": "shein-trustpilot-reviews-zh-hans"
       }
     ],
     "contentSections": [

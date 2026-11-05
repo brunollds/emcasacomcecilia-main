@@ -111,16 +111,13 @@
   "editorialNote": "コードSONAR20またはリンクからの購入では、Brunoに紹介手数料が入る場合があります。あなたに追加の費用はかかりません。このサイトはHostingerで動いています。",
   "relatedArticles": [
     {
-      "slug": "hostinger-trust-guide-ja",
-      "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+      "slug": "hostinger-trust-guide-ja"
     },
     {
-      "slug": "hostinger-trustpilot-reviews-ja",
-      "title": "Hostinger の Trustpilot 評価、苦情、200 件のレビューが示すこと"
+      "slug": "hostinger-trustpilot-reviews-ja"
     },
     {
-      "slug": "hostinger-black-friday-ja",
-      "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%"
+      "slug": "hostinger-black-friday-ja"
     }
   ],
   "hideFromPortugueseListings": true

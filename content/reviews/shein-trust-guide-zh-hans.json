@@ -138,16 +138,13 @@
   "editorialNote": "本文为编辑专题。我们可能从 SHEIN 的购买中获得佣金，你不需要额外付费。",
   "relatedArticles": [
     {
-      "slug": "shein-vs-temu-zh-hans",
-      "title": "SHEIN 还是 Temu？新加坡和马来西亚怎么选：运费、时效与退货"
+      "slug": "shein-vs-temu-zh-hans"
     },
     {
-      "slug": "shein-black-friday-zh-hans",
-      "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用"
+      "slug": "shein-black-friday-zh-hans"
     },
     {
-      "slug": "shein-referral-code-zh-hans",
-      "title": "SHEIN 推荐码：在哪里输入、怎么用"
+      "slug": "shein-referral-code-zh-hans"
     }
   ]
 }

@@ -248,16 +248,13 @@
   "editorialNote": "YesStyle提供の商品です。当サイトはリンクとReward Code CECILIA010から手数料を受け取ります。",
   "relatedArticles": [
     {
-      "slug": "yesstyle-kbeauty-guide-ja",
-      "title": "K-Beautyがなぜ世界中で流行？韓国コスメの特徴と購入方法"
+      "slug": "yesstyle-kbeauty-guide-ja"
     },
     {
-      "slug": "yesstyle-trust-guide-ja",
-      "title": "YesStyleは安全？購入前に知っておくべき信頼性と評判"
+      "slug": "yesstyle-trust-guide-ja"
     },
     {
-      "slug": "yesstyle-valid-coupon-guide-ja",
-      "title": "有効なYesStyleクーポンコードの見つけ方とCECILIA010の併用方法"
+      "slug": "yesstyle-valid-coupon-guide-ja"
     }
   ]
 }

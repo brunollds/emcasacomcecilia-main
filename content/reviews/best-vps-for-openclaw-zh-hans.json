@@ -260,16 +260,13 @@
   "editorialNote": "通过代码 SONAR20 或链接购买，Bruno 可能获得佣金，你无需额外付费。团队里没有人在用 OpenClaw。",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
-      "title": "OpenClaw 在 Hostinger：托管还是 VPS？各自要做什么，以及适合谁"
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hans"
     },
     {
-      "slug": "openclaw-vs-hermes-agent-zh-hans",
-      "title": "OpenClaw 还是 Hermes Agent？怎么选，以及在 Hostinger 上各自怎么跑"
+      "slug": "openclaw-vs-hermes-agent-zh-hans"
     },
     {
-      "slug": "hostinger-referral-code-zh-hans",
-      "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+      "slug": "hostinger-referral-code-zh-hans"
     }
   ],
   "decision": {

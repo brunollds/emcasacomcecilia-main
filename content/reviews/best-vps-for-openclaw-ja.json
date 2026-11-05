@@ -260,16 +260,13 @@
   "editorialNote": "コード SONAR20 やリンク経由でのご購入には、Bruno に手数料が入ることがあります。あなたの負担が増えることはありません。チームに OpenClaw を使っている人はいません。",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-ja",
-      "title": "Hostinger の OpenClaw：マネージドか VPS か？それぞれに必要なことと、向いている人"
+      "slug": "openclaw-hostinger-managed-or-vps-ja"
     },
     {
-      "slug": "openclaw-vs-hermes-agent-ja",
-      "title": "OpenClaw か Hermes Agent か：どちらを選び、Hostinger でそれぞれどう動かすか"
+      "slug": "openclaw-vs-hermes-agent-ja"
     },
     {
-      "slug": "hostinger-referral-code-ja",
-      "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      "slug": "hostinger-referral-code-ja"
     }
   ],
   "decision": {

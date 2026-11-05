@@ -167,10 +167,10 @@
   "affiliate": "damie",
   "editorialNote": "Parceria comercial com a DAMIE, com links de comissão. Levita testada por nós; Aurora, não.",
   "relatedArticles": [
-    { "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto", "title": "Poltrona Levita: O Topo da Tecnologia e Conforto" },
-    { "slug": "poltrona-damie-e-boa", "title": "Poltrona Damie é boa? Review real" },
-    { "slug": "sofa-modular-ou-retratil-qual-escolher", "title": "Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto" },
-    { "slug": "poltronas-reclinaveis-damie-vale-o-investimento", "title": "Poltronas Reclináveis DAMIE: Vale o Investimento?" }
+    { "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto" },
+    { "slug": "poltrona-damie-e-boa" },
+    { "slug": "sofa-modular-ou-retratil-qual-escolher" },
+    { "slug": "poltronas-reclinaveis-damie-vale-o-investimento" }
   ],
   "gallery": [
     { "image": "/images/reviews/damie/poltrona-aurora-castanho-ambientada.webp", "alt": "Poltrona Aurora em couro castanho com puff em sala de estar", "caption": "Aurora em couro castanho: poltrona e puff como elementos separados da composição." },

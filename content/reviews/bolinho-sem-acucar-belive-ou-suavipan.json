@@ -323,16 +323,13 @@
   "editorialNote": "Comparação feita com os rótulos e as listas de ingredientes publicados pelas lojas. Não provamos os bolinhos. Podemos receber comissão pelo cupom MAUAD da Belive.",
   "relatedArticles": [
     {
-      "slug": "doces-sem-acucar-para-diabeticos",
-      "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+      "slug": "doces-sem-acucar-para-diabeticos"
     },
     {
-      "slug": "brownie-sem-acucar-belive",
-      "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      "slug": "brownie-sem-acucar-belive"
     },
     {
-      "slug": "pao-de-mel-sem-acucar-belive",
-      "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+      "slug": "pao-de-mel-sem-acucar-belive"
     }
   ]
 }
