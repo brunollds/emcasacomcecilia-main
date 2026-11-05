@@ -78,7 +78,8 @@
         "caption": "Preços da loja, 05/11, já com os 30%; o \"de\" é o preço de lista e o \"por refeição\" é a conta da loja, que conta cada sachê de pack como uma refeição."
       },
       "postParagraphs": [
-        "Conta nossa, pelos preços da tabela: multiplique o avulso pelo número de itens e chega no preço de cada kit, nem um centavo a menos. O \"por refeição\" menor do Despensa Cheia vem dos dois packs de sopa: o sachê do pack sai por menos de um terço de um risoto ou de um mac, e a loja conta cada sachê como uma refeição. Massa e risoto custam o mesmo em qualquer kit, então quem não quer sopa não ganha nada no kit grande."
+        "Conta nossa, pelos preços da tabela: multiplique o avulso pelo número de itens e chega no preço de cada kit, nem um centavo a menos. O \"por refeição\" menor do Despensa Cheia vem dos dois packs de sopa: o sachê do pack sai por menos de um terço de um risoto ou de um mac, e a loja conta cada sachê como uma refeição. Massa e risoto custam o mesmo em qualquer kit, então quem não quer sopa não ganha nada no kit grande.",
+        "O Mac Queijo vem nos três kits; no vídeo do fim do artigo, a Cecília prepara um na panela."
       ],
       "images": [
         {
@@ -281,7 +282,7 @@
   "coupon": "EMCASA",
   "affiliate": "holyfoods",
   "bodyDatesReason": "campanha",
-  "editorialNote": "Podemos receber comissão pelo cupom e pelos links. Ninguém da equipe provou os produtos.",
+  "editorialNote": "A Cecília preparou o Mac Queijo em vídeo, antes da parceria. Podemos receber comissão pelo cupom e pelos links.",
   "relatedArticles": [
     {
       "slug": "holyfoods-e-confiavel"
@@ -292,5 +293,6 @@
     {
       "slug": "cupom-holyfoods-como-usar"
     }
-  ]
+  ],
+  "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw"
 }

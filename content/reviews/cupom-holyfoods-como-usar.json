@@ -36,7 +36,8 @@
       "paragraphs": [
         "Se a compra é no site oficial da HolyFoods, o [cupom HolyFoods](/cupons/holyfoods) da parceria é o EMCASA: 15% OFF em todo o site, de sopa e macarrão a risoto e pack. A HolyFoods vende refeições para preparar em casa, que se guardam fechadas na despensa; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
         "Quem busca cupom de primeira compra encontra aqui o nosso código e nenhum outro: o EMCASA é o que a parceria dá, e é o que a linha de desconto vai mostrar. O botão desta página leva à loja, mas não aplica o código: você copia o EMCASA e digita na hora de finalizar.",
-        "O desconto sai do preço que está no carrinho. Se o produto já vem com a promoção da loja, os 15% saem do preço promocional, não do preço de lista. Ele é o extra de quem já ia comprar, não o motivo da compra."
+        "O desconto sai do preço que está no carrinho. Se o produto já vem com a promoção da loja, os 15% saem do preço promocional, não do preço de lista. Ele é o extra de quem já ia comprar, não o motivo da compra.",
+        "No vídeo do fim do artigo, a Cecília prepara o Mac Queijo na panela."
       ]
     },
     {
@@ -191,7 +192,7 @@
   },
   "coupon": "EMCASA",
   "affiliate": "holyfoods",
-  "editorialNote": "Cupom testado no checkout, sem provar os produtos. Podemos receber comissão pelo cupom.",
+  "editorialNote": "Cupom testado no checkout; a Cecília preparou o Mac Queijo em vídeo, antes da parceria. Podemos receber comissão pelo cupom.",
   "relatedArticles": [
     {
       "slug": "black-friday-holyfoods"
@@ -202,5 +203,6 @@
     {
       "slug": "holyfoods-reclame-aqui-nota-reputacao"
     }
-  ]
+  ],
+  "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw"
 }

@@ -188121,7 +188121,8 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Detox é só o nome de uma das sopas. Pela quantidade, a sopa avulsa é a que serve mais de uma pessoa de uma vez; o pack é porção individual, uma por sachê. Risoto e mac são uma refeição para uma pessoa: quem cozinha para a casa toda precisa de várias embalagens.",
-          "A loja marca risotos e macarrões como sem glúten, e alguns levam leite e lactose. Confira a embalagem que chegar, principalmente se alguém da casa tem alergia."
+          "A loja marca risotos e macarrões como sem glúten, e alguns levam leite e lactose. Confira a embalagem que chegar, principalmente se alguém da casa tem alergia.",
+          "A Cecília comprou um kit da HolyFoods no TikTok Shop, antes da parceria, e fez o risoto na panela de indução, com 400 ml de água e um pouco de manteiga: rendeu uma porção bem servida. O vídeo está no fim do artigo."
         ],
         "images": [
           {
@@ -188227,7 +188228,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASA",
     "affiliate": "holyfoods",
-    "editorialNote": "Ninguém da equipe provou os produtos. Podemos receber comissão pelo cupom.",
+    "editorialNote": "A Cecília preparou um risoto da HolyFoods em vídeo, antes da parceria; o resto vem de fontes públicas. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
         "slug": "holyfoods-reclame-aqui-nota-reputacao"
@@ -188238,7 +188239,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-holyfoods"
       }
-    ]
+    ],
+    "youtubeUrl": "https://youtube.com/shorts/cSGGCKqv4VU"
   },
   {
     "id": 827,
@@ -188418,7 +188420,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na HolyFoods: o veredito",
         "paragraphs": [
-          "Dá, com o pedido acompanhado de perto. O perfil está na faixa Boa, responde a todas as reclamações e resolve nove em cada dez nos últimos 6 meses. O ponto de atenção é a entrega, a maior queixa, e o fato de os números recentes estarem abaixo dos de 2025 em nota e em vontade de voltar. A tabela do início traz cada período."
+          "Dá, com o pedido acompanhado de perto. O perfil está na faixa Boa, responde a todas as reclamações e resolve nove em cada dez nos últimos 6 meses. O ponto de atenção é a entrega, a maior queixa, e o fato de os números recentes estarem abaixo dos de 2025 em nota e em vontade de voltar. A tabela do início traz cada período.",
+          "A Cecília comprou um kit da HolyFoods pelo TikTok Shop antes da parceria: a abertura da caixa e o risoto feito em casa estão no vídeo do fim do artigo."
         ],
         "bullets": [
           "O que conferir no dia: o perfil empresa/holysoup com o nome HolyFoods, o CNPJ 50.874.415/0001-62 e a aba de 6 meses.",
@@ -188457,7 +188460,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASA",
     "affiliate": "holyfoods",
-    "editorialNote": "Feito com fontes públicas, sem uso dos produtos. Podemos receber comissão pelo cupom.",
+    "editorialNote": "A Cecília comprou um kit da HolyFoods antes da parceria; os números vêm do Reclame Aqui. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
         "slug": "holyfoods-e-confiavel"
@@ -188468,7 +188471,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "black-friday-holyfoods"
       }
-    ]
+    ],
+    "youtubeUrl": "https://youtube.com/shorts/cSGGCKqv4VU"
   },
   {
     "id": 828,
@@ -188508,7 +188512,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se a compra é no site oficial da HolyFoods, o [cupom HolyFoods](/cupons/holyfoods) da parceria é o EMCASA: 15% OFF em todo o site, de sopa e macarrão a risoto e pack. A HolyFoods vende refeições para preparar em casa, que se guardam fechadas na despensa; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
           "Quem busca cupom de primeira compra encontra aqui o nosso código e nenhum outro: o EMCASA é o que a parceria dá, e é o que a linha de desconto vai mostrar. O botão desta página leva à loja, mas não aplica o código: você copia o EMCASA e digita na hora de finalizar.",
-          "O desconto sai do preço que está no carrinho. Se o produto já vem com a promoção da loja, os 15% saem do preço promocional, não do preço de lista. Ele é o extra de quem já ia comprar, não o motivo da compra."
+          "O desconto sai do preço que está no carrinho. Se o produto já vem com a promoção da loja, os 15% saem do preço promocional, não do preço de lista. Ele é o extra de quem já ia comprar, não o motivo da compra.",
+          "No vídeo do fim do artigo, a Cecília prepara o Mac Queijo na panela."
         ]
       },
       {
@@ -188663,7 +188668,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASA",
     "affiliate": "holyfoods",
-    "editorialNote": "Cupom testado no checkout, sem provar os produtos. Podemos receber comissão pelo cupom.",
+    "editorialNote": "Cupom testado no checkout; a Cecília preparou o Mac Queijo em vídeo, antes da parceria. Podemos receber comissão pelo cupom.",
     "relatedArticles": [
       {
         "slug": "black-friday-holyfoods"
@@ -188674,7 +188679,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "holyfoods-reclame-aqui-nota-reputacao"
       }
-    ]
+    ],
+    "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw"
   },
   {
     "id": 829,
@@ -188756,7 +188762,8 @@ export const reviewsData: unknown[] = [
           "caption": "Preços da loja, 05/11, já com os 30%; o \"de\" é o preço de lista e o \"por refeição\" é a conta da loja, que conta cada sachê de pack como uma refeição."
         },
         "postParagraphs": [
-          "Conta nossa, pelos preços da tabela: multiplique o avulso pelo número de itens e chega no preço de cada kit, nem um centavo a menos. O \"por refeição\" menor do Despensa Cheia vem dos dois packs de sopa: o sachê do pack sai por menos de um terço de um risoto ou de um mac, e a loja conta cada sachê como uma refeição. Massa e risoto custam o mesmo em qualquer kit, então quem não quer sopa não ganha nada no kit grande."
+          "Conta nossa, pelos preços da tabela: multiplique o avulso pelo número de itens e chega no preço de cada kit, nem um centavo a menos. O \"por refeição\" menor do Despensa Cheia vem dos dois packs de sopa: o sachê do pack sai por menos de um terço de um risoto ou de um mac, e a loja conta cada sachê como uma refeição. Massa e risoto custam o mesmo em qualquer kit, então quem não quer sopa não ganha nada no kit grande.",
+          "O Mac Queijo vem nos três kits; no vídeo do fim do artigo, a Cecília prepara um na panela."
         ],
         "images": [
           {
@@ -188959,7 +188966,7 @@ export const reviewsData: unknown[] = [
     "coupon": "EMCASA",
     "affiliate": "holyfoods",
     "bodyDatesReason": "campanha",
-    "editorialNote": "Podemos receber comissão pelo cupom e pelos links. Ninguém da equipe provou os produtos.",
+    "editorialNote": "A Cecília preparou o Mac Queijo em vídeo, antes da parceria. Podemos receber comissão pelo cupom e pelos links.",
     "relatedArticles": [
       {
         "slug": "holyfoods-e-confiavel"
@@ -188970,6 +188977,7 @@ export const reviewsData: unknown[] = [
       {
         "slug": "cupom-holyfoods-como-usar"
       }
-    ]
+    ],
+    "youtubeUrl": "https://youtube.com/shorts/EFJy5dJudpw"
   }
 ];

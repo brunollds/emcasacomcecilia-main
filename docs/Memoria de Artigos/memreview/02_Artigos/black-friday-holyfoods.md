@@ -300,3 +300,6 @@ Aprovado pelo Bruno em 05/11/2026 (folha de aprovação do Job 6). Todas as foto
 
 JSON em `content/reviews/black-friday-holyfoods.json`, escrito em 05/11/2026. `build-index`, `validate:content`, `test:article-d2`, `test:review-i18n`, `typecheck`, `test:store-banners`, `test:site-search` e a integração de mídia passaram.
 
+## Vídeo da Cecília (05/11/2026)
+
+O Bruno liberou os vídeos da Cecília com os produtos (05/11). `youtubeUrl`: https://youtube.com/shorts/EFJy5dJudpw. "Mac n Cheese Holyfoods" (Short de 18 s, 26/10/2026): a Cecília prepara o Mac Queijo na panela. Com isso, a nota editorial deixou de dizer que ninguém provou os produtos, e uma frase no corpo leva ao vídeo; a página de exibição é a do artigo do cupom. Os vídeos servem também para artigos de experiência própria (estoque).
