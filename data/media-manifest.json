@@ -58625,6 +58625,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa.webp",
+      "local_url": "/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 53020,
+      "sha256": "ef1e96252b66b02645ee5e2c77906419277cca3cf0feab10e732cbbe32692a7d",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-dr-peanut-max-titanium-capa.webp",
+      "storage_filename": "whey-dr-peanut-max-titanium-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-dr-peanut-max-titanium.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-dr-peanut-max-titanium.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 189473,
+          "column": 15,
+          "literal": "/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ef1e96252b66b02645ee5e2c77906419277cca3cf0feab10e732cbbe32692a7d/whey-dr-peanut-max-titanium-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ef1e96252b66b02645ee5e2c77906419277cca3cf0feab10e732cbbe32692a7d/whey-dr-peanut-max-titanium-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T20:39:03.767Z",
+      "verification_etag_or_digest": "ef1e96252b66b02645ee5e2c77906419277cca3cf0feab10e732cbbe32692a7d",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp",
       "local_url": "/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp",
       "media_kind": "image",
@@ -107317,6 +107363,52 @@
       "uploaded_at": null,
       "verified_at": "2026-11-05T17:50:52.258Z",
       "verification_etag_or_digest": "0906ef7df58cb93b8cb297112116fe5fa9c5ae87112839c0189305459899a383",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/fita-up-ou-blumi-ou-lib-capa.webp",
+      "local_url": "/images/reviews/toda-up/fita-up-ou-blumi-ou-lib-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 61858,
+      "sha256": "0cd689cf07114b039f2c4043fc91313a91a10c2fdaff3115e275d70a31e09a51",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "fita-up-ou-blumi-ou-lib-capa.webp",
+      "storage_filename": "fita-up-ou-blumi-ou-lib-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fita-up-ou-blumi-ou-lib.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fita-up-ou-blumi-ou-lib.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/fita-up-ou-blumi-ou-lib-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 189641,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/fita-up-ou-blumi-ou-lib-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0cd689cf07114b039f2c4043fc91313a91a10c2fdaff3115e275d70a31e09a51/fita-up-ou-blumi-ou-lib-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0cd689cf07114b039f2c4043fc91313a91a10c2fdaff3115e275d70a31e09a51/fita-up-ou-blumi-ou-lib-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T20:39:03.768Z",
+      "verification_etag_or_digest": "0cd689cf07114b039f2c4043fc91313a91a10c2fdaff3115e275d70a31e09a51",
       "verification_status": "verified"
     },
     {

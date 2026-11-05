@@ -10,8 +10,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| R2 | Whey Max Titanium x Dr. Peanut: sabores e onde sai mais barato | Dr. Peanut e Max | PT | [[whey-dr-peanut-max-titanium]] | Teste do Bruno: os dois códigos nesse whey e o Pix. Chrome: a página do whey na Dr. Peanut |
-| R3 | Fita Up ou Blumi (ou Lib)? | Toda Up | PT | [[fita-up-ou-blumi-ou-lib]] | Decidido 05/11: a Blumi entra como alternativa e o texto diz que as duas são da Brandness (QSA). Falta o Chrome da Lib e a redação |
+| R2 | Whey Max Titanium x Dr. Peanut: sabores e onde sai mais barato | Dr. Peanut e Max | PT | [[whey-dr-peanut-max-titanium]] | Redigido e no Job 3 em 05/11 (PR R2+R3); os dois códigos funcionam no whey. Falta o deploy |
+| R3 | Fita Up ou Blumi (ou Lib)? | Toda Up | PT | [[fita-up-ou-blumi-ou-lib]] | Redigido e no Job 3 em 05/11 (PR R2+R3). Falta o deploy |
 | R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Decidido 05/11: as duas Minimal (Tech Modal × Tech, Camiseta × Core); Chrome lido. Falta a redação |
 | R5 | Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey | Max Titanium | PT | [[whey-max-titanium-qual-escolher]] | Decidido 05/11: o Super Whey entra. Falta o teste do código no whey |
 | R6 | Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hiper) | Probiótica | PT | [[whey-probiotica-qual-escolher]] | Teste do código no whey; o Iso Protein Blend tem soja e não é whey |

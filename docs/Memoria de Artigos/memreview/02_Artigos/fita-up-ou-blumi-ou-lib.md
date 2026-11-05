@@ -187,3 +187,18 @@ Rodada de 05/11/2026, item R3 (aprovado pelo Bruno). Artigo novo, comparativo. C
 - **Tabela: Fita Up, Blumi e Lib lado a lado (título direto):** formato, tamanhos, duração, onde comprar, e a empresa. Os nomes dos concorrentes não têm link.
 - **Qual escolher (veredito por perfil):** o que pesa para cada perfil, com o número que sustenta.
 - **FAQ:** "Fita Up e Blumi são a mesma coisa?" (capítulo 2), "Fita Up ou Lib?" (capítulo 4), "A Fita Up é a Toda Up?" (aponta o `toda-up-e-confiavel`).
+
+---
+
+## Leitura no Chrome (05/11/2026, noite)
+
+- **Blumi (useblumi.com, catálogo da loja Shopify, 191 produtos):** leggings, modeladores, tops, biquínis, maiôs, shorts, sutiãs modeladores (Sutiã Modelador R$ 144,42) e uma bolsa de praia. **Nenhuma fita, nenhum adesivo, nenhum protetor de mamilo.** A Blumi é marca de moda modeladora e praia; não vende fita para seios.
+- **Lib, Drogasil** (`drogasil.com.br/lib-fita-adesiva-para-seios-1-rolo-5-pares-petala.html`): "Fita Lib para Seios 1 rolo 9cm x 5m + 5 pares Lib Pétalas", vendida e entregue pela Drogasil. **R$ 81,56 sem promoção** (R$ 74,98 com 8% do dia). Tecido bege, hipoalergênica, resistente ao suor, para roupas finas. Um rolo de 9 cm x 5 m que se corta no tamanho do decote (sem P, M e G). Uso por até 10 horas ("não ultrapasse este período, pode irritar a pele"). Composição: adesivo acrílico e viscose. Retirada a seco ou com o óleo para seios Lib; não retirar com água, álcool ou acetona. Contraindicado em gestantes, lactantes e peles sensíveis (texto da página). EAN 7896317889123. **A página não traz o fabricante.**
+- **Lib, outras fontes (resumo de busca, não página aberta):** loja oficial da Lib no Mercado Livre; Instagram @libmodelador diz "Feito no Brasil" e "since 1978"; uma distribuidora lista o fabricante como "LIB - PROMAG". **Não afirmar o fabricante**: o texto diz que a página da farmácia não informa.
+- **A mesma linha da Lib tem uma fita dupla face para decotes e barras** (20 fitas, R$ 42,55 sem promoção na Drogasil): é outro produto, não confundir.
+
+## Redação e Job 3 (05/11/2026)
+
+- JSON `content/reviews/fita-up-ou-blumi-ou-lib.json` (id 832). Capa B do Job 6 (modelo com a caixa), aprovada pelo Bruno. Foto no corpo: a embalagem, com o link da Toda Up.
+- Job 3 (Fable): aprovado com 9 ajustes de uma frase, todos aplicados (capítulo "Quem fabrica cada uma" absorvido no primeiro, retirada da Lib "a seco ou com o óleo", editorialNote curto, veredito pessoal no "Qual escolher", sem repetir a tabela no texto).
+- Conta por uso (trocas por semana): não entrou, os pressupostos não foram aprovados.

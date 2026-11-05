@@ -222,3 +222,24 @@ Página `drpeanut.com.br/whey-dr-peanut/p`, aberta no Chrome do Bruno:
 - **Ingredientes:** WPC, amendoim torrado e granulado, cacau alcalino, sal, lecitina de soja, aromatizantes, corante caramelo IV, gomas xantana e guar, sucralose. **Alérgicos na Dr. Peanut: "CONTÉM AMENDOIM E DERIVADOS DE LEITE E SOJA. PODE CONTER TRIGO, CENTEIO, CEVADA, AVEIA, AMÊNDOA, AVELÃ, CASTANHA-DE-CAJU, CASTANHA-DO-PARÁ, MACADÂMIA, NOZES E OVO."** Contém glúten e lactose. A página da Max diz "PODE CONTER SOJA E OVO": as duas páginas divergem sobre a soja. O texto segue a embalagem e manda conferir o rótulo; não afirmar uma das duas como certa.
 - **Fotos da marca:** pote (`drpeanut.vteximg.com.br/arquivos/ids/155870/whey_avela.jpg`), foto de uso (155602) e a tabela (155603). Servem para o Job 6.
 - **Falta:** o teste do Bruno com os dois códigos e o Pix no carrinho.
+
+---
+
+## Teste do Bruno e leitura da Max (05/11/2026, noite)
+
+- **Teste do Bruno:** o DREMCASACOMCECILIA funcionou no 100% Whey Dr. Peanut, no site da Dr. Peanut, e **soma com o Pix**. O código da Max (MAX10EMCASACOMCECILIA) **não foi testado** neste whey: o texto diz isso e não promete o desconto da Max nele.
+- **Max Titanium (catálogo VTEX público, 05/11):** "100% Whey Protein Dr. Peanut Pote 900g" a **R$ 224,39** (sem preço de lista maior) em **cinco sabores: Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite** (`maxtitanium.com.br/100-whey-dr-peanut/p`). A Max também vende o "Kit Creatina 100g + 100% Whey Dr. Peanut" a R$ 258,28, nos mesmos cinco sabores.
+- **Dr. Peanut (Chrome, 05/11):** a página do whey mostra **só o Avelã** (900 g), a R$ 224,39. A busca do site não lista outro sabor.
+- **Consequência para o texto:** mesmo pote e mesmo preço; na Dr. Peanut, só Avelã, com o código testado e o Pix somando; na Max, os cinco sabores, sem o código testado neste whey. A escolha da loja sai do sabor.
+
+## Correção do Bruno (05/11/2026, noite)
+
+- **A Dr. Peanut vende os cinco sabores**, cada um numa página própria (Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite), todos a R$ 224,39 (lista colada pelo Bruno do site). A leitura "só o Avelã" era da página do Avelã, não do catálogo. O `dr-peanut-e-boa` estava certo.
+- **O código da Max funciona no 100% Whey Dr. Peanut** (teste do Bruno). O percentual da Max varia por produto ("até 10%", dossiê): o texto não crava 10% na Max sem o valor do teste.
+- **Consequência:** mesmo pote, mesmo preço e mesmos sabores nas duas lojas; os dois códigos funcionam. A escolha da loja sai do cupom, do Pix e do frete de cada uma, e de onde a pessoa já compra.
+
+## Redação e Job 3 (05/11/2026)
+
+- JSON `content/reviews/whey-dr-peanut-max-titanium.json` (id 833). Capa B do Job 6 (pote Avelã e o código), aprovada pelo Bruno. Foto no corpo: a Paçoca, com o link do produto na Dr. Peanut.
+- Job 3 (Fable): aprovado com 12 ajustes, mas lido antes da correção do Bruno (cinco sabores nas duas lojas, código da Max funcionando). O texto foi refeito com os fatos corrigidos, aplicando o que seguia valendo (alérgenos, abertura pelo aviso de glúten e lactose, conta sem repetir a tabela, link na foto, parágrafo de veredito, FAQ).
+- Mudanças nos artigos no ar: nenhuma (o `dr-peanut-e-boa` estava certo sobre os cinco sabores).

@@ -1,0 +1,209 @@
+{
+  "id": 832,
+  "slug": "fita-up-ou-blumi-ou-lib",
+  "locale": "pt",
+  "title": "Fita Up ou Blumi (ou Lib)? Empresa, formato e onde comprar cada uma",
+  "seoTitle": "Fita Up ou Blumi (ou Lib)? Qual escolher",
+  "type": "Comparativo",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "publishedAt": "5 de novembro de 2026",
+  "publishedAtISO": "2026-11-05",
+  "draft": false,
+  "isNew": true,
+  "description": "A Blumi não vende fita: é outra linha da mesma dona da Fita Up, com CNPJ próprio. Compare empresa, formato e tamanho da Fita Up com a Lib e veja onde comprar cada uma.",
+  "metaDescription": "O cupom MAUAD dá 10% no site oficial da Toda Up, a antiga Fita Up. Veja como ela se compara com a Blumi e a Lib em empresa, tamanho e onde comprar.",
+  "image": "/images/reviews/toda-up/fita-up-ou-blumi-ou-lib-capa.webp",
+  "imageAlt": "Modelo segura a caixa da Fita Up, com o logo da Toda Up e o título Fita Up, Blumi ou Lib?",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "decision": {
+    "takeIf": [
+      "Você quer tamanho pela largura do sutiã e a troca pelo portal da marca: a Fita Up, comprada no site oficial com o cupom.",
+      "Você usa roupa fina, quer um rolo para cortar no decote e compra na Drogasil: a Lib."
+    ],
+    "skipIf": [
+      "Você procura fita adesiva e chegou à Blumi pelo nome: ela não vende fita, então a comparação é só entre a Fita Up e a Lib.",
+      "Você compra pelo nome parecido sem olhar a marca na caixa: confira o nome e o vendedor antes de pagar."
+    ]
+  },
+  "cta": {
+    "text": "Para comprar a Fita Up no site oficial, entre pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+    "label": "Ver na Toda Up",
+    "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+    "sponsored": true
+  },
+  "coupon": "MAUAD",
+  "affiliate": "toda-up",
+  "editorialNote": "Ninguém da equipe usou a Fita Up nem a Lib. Podemos receber comissão pelo cupom e pelos links.",
+  "relatedArticles": [
+    {
+      "slug": "fita-up-onde-comprar-original"
+    },
+    {
+      "slug": "fita-up-como-usar"
+    },
+    {
+      "slug": "toda-up-e-confiavel"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Resposta rápida",
+      "paragraphs": [
+        "A Blumi não é a Fita Up com outro nome: é uma marca mais nova da Brandness, a mesma dona da Fita Up, com CNPJ próprio, e não vende fita adesiva. Para fita, a escolha fica entre a Fita Up, em três larguras, e a Lib, um rolo que se corta no decote: o que pesa está em \"Qual escolher\"."
+      ]
+    },
+    {
+      "heading": "Fita Up e Blumi são a mesma coisa?",
+      "paragraphs": [
+        "Não. Pela consulta pública do CNPJ, a Fita Up é da FITA UP LTDA e a Blumi é da BLUMI LTDA, cada uma com CNPJ próprio, as duas em Biguaçu (SC). A Brandness LTDA é sócia das duas, e a Blumi é a marca mais nova dela.",
+        "A Lib fica fora desse quadro: a página da Drogasil, que vende e entrega a fita, não diz qual empresa está por trás dela. Se a caixa trouxer o nome, é esse o dado para conferir."
+      ],
+      "comparisonTable": {
+        "caption": "Consulta pública do CNPJ de cada uma.",
+        "headers": [
+          "",
+          "Fita Up",
+          "Blumi"
+        ],
+        "rows": [
+          [
+            "Razão social",
+            "FITA UP LTDA",
+            "BLUMI LTDA"
+          ],
+          [
+            "CNPJ",
+            "40.159.443/0001-44",
+            "63.243.441/0001-34"
+          ],
+          [
+            "Abertura",
+            "2020",
+            "2025"
+          ],
+          [
+            "Sede",
+            "Biguaçu (SC)",
+            "Biguaçu (SC)"
+          ],
+          [
+            "Sócia em comum",
+            "Brandness LTDA",
+            "Brandness LTDA"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Fita Up ou Lib: formato e tamanho",
+      "paragraphs": [
+        "O que separa as duas é como você acerta o tamanho. A Fita Up vem em três larguras, escolhidas pelo número do sutiã: P até o 44, M até o 48 e G até o 54. A Lib é um rolo só, que você corta na medida do decote, e serve a qualquer tamanho. O passo a passo de colar e tirar a Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+      ],
+      "image": {
+        "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
+        "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
+        "caption": "A Fita Up na embalagem da Toda Up. Foto da loja.",
+        "objectFit": "contain",
+        "aspectRatio": 1,
+        "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+      },
+      "postParagraphs": [
+        "A Lib pede mais atenção ao relógio: a página da Drogasil manda tirar a fita antes do limite, porque passar dele pode irritar a pele, e não indica o uso em gestantes, lactantes ou peles sensíveis. Os protetores de mamilo já vêm na caixa da Lib; na Fita Up, o passo a passo pede o protetor antes de colar."
+      ],
+      "comparisonTable": {
+        "caption": "Preços de 05/11. O da Lib é o da Drogasil, sem promoção.",
+        "headers": [
+          "",
+          "Fita Up",
+          "Lib"
+        ],
+        "rows": [
+          [
+            "Formato",
+            "Fita de 98,5% poliéster e 1,5% elastano",
+            "Fita de tecido bege, com 5 pares de Lib Pétalas"
+          ],
+          [
+            "Tamanho",
+            "P, M e G, pela largura; rolo de 5 m",
+            "Um rolo de 9 cm x 5 m, cortado no decote"
+          ],
+          [
+            "Cores",
+            "Bege, Marrom e Preto",
+            "Bege"
+          ],
+          [
+            "Duração que a marca informa",
+            "Até 12 horas",
+            "Até 10 horas"
+          ],
+          [
+            "Como tirar",
+            "Hidratante ou óleo, pelo passo a passo da Toda Up",
+            "A seco ou com o óleo para seios da Lib; nunca com água, álcool ou acetona"
+          ],
+          [
+            "Preço",
+            "R$ 116,90 no site; com o MAUAD, R$ 105,21",
+            "R$ 81,56 na Drogasil"
+          ],
+          [
+            "Quem vende",
+            "A própria marca, Mercado Livre, Amazon, Drogasil e Droga Raia",
+            "Drogasil, com entrega da própria Drogasil"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Blumi: outra linha da mesma dona",
+      "paragraphs": [
+        "A Blumi não entra na comparação de fita. O catálogo da loja tem leggings, modeladores, tops, biquínis, maiôs, shorts e sutiãs modeladores, e nenhuma fita adesiva nem protetor de mamilo.",
+        "Quem procura sustentação com peça de roupa, e não com adesivo, pode olhar a linha dela. Para colar sob um decote, a escolha segue entre a Fita Up e a Lib."
+      ]
+    },
+    {
+      "heading": "Qual escolher",
+      "paragraphs": [
+        "**Quer tamanho pela largura do sutiã e troca pelo portal da marca:** Fita Up. Comprando no site, a troca é pelo portal da marca, em até 30 dias, e é lá que vale o cupom MAUAD.",
+        "**Usa roupa fina e quer um rolo para cortar no decote:** Lib, na Drogasil. Lembre do limite de 10 horas e dos casos em que a página desaconselha o uso.",
+        "**Procura sustentação com peça de roupa:** a Blumi, que é outra linha da mesma dona, e não uma fita.",
+        "Antes de pagar, confira a marca na caixa. A busca mistura nomes parecidos, e a Lib tem uma fita dupla face para decotes e barras que é outro produto, com outro preço."
+      ],
+      "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up, mesmo saindo mais cara que a Lib: a largura vem pelo número do sutiã, e comprando no site a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote."
+    },
+    {
+      "heading": "Onde comprar a Fita Up",
+      "paragraphs": [
+        "O cupom MAUAD, de 10%, vale só no site oficial da Toda Up. No Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela. A [página de cupons da Toda Up](/cupons/toda-up) traz as regras do código."
+      ],
+      "links": [
+        {
+          "label": "Ver na Toda Up",
+          "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+          "sponsored": true
+        }
+      ]
+    },
+    {
+      "heading": "Perguntas frequentes",
+      "bullets": [
+        "Fita Up e Blumi são a mesma coisa? Não. Cada uma tem CNPJ próprio, mas as duas têm a mesma dona: a Brandness LTDA é sócia das duas, e a Blumi é a marca mais nova. A Blumi não vende fita adesiva.",
+        "Fita Up ou Lib? Para fita, são as duas opções. A Fita Up tem tamanho pela largura do sutiã; a Lib é um rolo que se corta no decote e tem limite de horas menor. A tabela de \"Fita Up ou Lib: formato e tamanho\" compara as duas.",
+        "A Fita Up é a Toda Up? Sim. Toda Up é o nome novo da Fita Up, da mesma empresa, a FITA UP LTDA. O que a loja publica sobre a empresa, as trocas e o reembolso está em [Fita Up (Toda Up) é confiável?](/reviews/toda-up-e-confiavel)."
+      ]
+    }
+  ]
+}

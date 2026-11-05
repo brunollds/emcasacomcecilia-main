@@ -189447,5 +189447,382 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 833,
+    "slug": "whey-dr-peanut-max-titanium",
+    "locale": "pt",
+    "title": "Whey Dr. Peanut: Max Titanium ou Dr. Peanut, onde sai mais barato",
+    "seoTitle": "Whey Dr. Peanut: Max ou Dr. Peanut, onde compensa",
+    "type": "Comparativo de lojas",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "O mesmo pote de whey Dr. Peanut custa igual na Max Titanium e na Dr. Peanut, nos mesmos cinco sabores. Veja o preço por 100 g de proteína, o cupom de cada loja e o frete.",
+    "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no whey Dr. Peanut, que a Max Titanium também vende. Veja sabores e preço por 100 g nas duas lojas.",
+    "publishedAt": "5 de novembro de 2026",
+    "publishedAtISO": "2026-11-05",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa.webp",
+    "imageAlt": "Pote do 100% Whey Dr. Peanut - Max Titanium sabor Avelã, com o logo da Dr. Peanut e o cupom DREMCASACOMCECILIA de 10% OFF",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "O 100% Whey Dr. Peanut é o mesmo pote na Dr. Peanut e na Max Titanium, com os mesmos cinco sabores e o mesmo preço. O que muda é o cupom: na Dr. Peanut, o DREMCASACOMCECILIA dá 10% e soma com o Pix; na Max, o código dela também funciona, mas o percentual varia por produto."
+        ]
+      },
+      {
+        "heading": "De quem é este whey",
+        "paragraphs": [
+          "São duas lojas vendendo o mesmo pote: o nome traz as duas marcas, e a página do produto o apresenta como criação da Max Titanium em parceria com a Dr. Peanut. Por trás da Dr. Peanut está a Body Food, fábrica de Curitiba do mesmo grupo da Max Titanium."
+        ]
+      },
+      {
+        "heading": "O que o rótulo diz",
+        "paragraphs": [
+          "O que decide aqui é o aviso de glúten e lactose, não a proteína: o pote contém os dois, e quem precisa evitar um deles não compra em loja nenhuma. Quem tem intolerância a um dos dois decide com médico ou nutricionista.",
+          "A loja informa: a porção é de 40 g, dois dosadores, com 20 g de proteína, 162 kcal, 8,5 g de açúcares totais (0,1 g adicionados), 3,1 g de gordura e 112 mg de sódio. A proteína é concentrada do soro do leite (WPC), com amendoim torrado e granulado, cacau, sal, lecitina de soja, gomas, corante caramelo IV e sucralose.",
+          "É nos alérgenos que as páginas divergem. As duas dizem que contém amendoim e leite. A da Dr. Peanut diz que contém soja também, e que pode conter trigo, centeio, cevada, aveia, castanhas, nozes e ovo; a da Max diz que a soja e o ovo só podem estar. Confira a embalagem que chegar."
+        ]
+      },
+      {
+        "heading": "Os cinco sabores",
+        "paragraphs": [
+          "As duas lojas vendem os cinco sabores, Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos pelo mesmo preço. No rótulo, eles mudam pouco: os açúcares totais ficam entre 8,5 g e 11 g por dose, e a Paçoca, que não existe na pasta, tem o dobro de sódio dos outros. A comparação de sabores da pasta está em [Dr. Peanut: qual o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dr-peanut/dr-peanut-e-boa-whey-pacoca.webp",
+            "alt": "Pote de 900 g do 100% Whey Dr. Peanut - Max Titanium, sabor Paçoca, em foto oficial da marca",
+            "caption": "Pote do 100% Whey Dr. Peanut - Max Titanium no sabor Paçoca. Imagem: Dr. Peanut.",
+            "objectFit": "square",
+            "href": "https://www.drpeanut.com.br/whey-dr-peanut-pacoca/p"
+          }
+        ]
+      },
+      {
+        "heading": "Preço por 100 g de proteína",
+        "paragraphs": [
+          "O pote e o preço são iguais nas duas lojas. O que muda é o cupom que entra no carrinho."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Produto",
+            "Loja",
+            "Preço",
+            "Por 100 g de proteína",
+            "Com o cupom"
+          ],
+          "rows": [
+            [
+              "[100% Whey Dr. Peanut, pote 900 g](https://www.drpeanut.com.br/whey-dr-peanut/p)",
+              "Dr. Peanut",
+              "R$ 224,39",
+              "R$ 49,86",
+              "10%: R$ 201,95 o pote, R$ 44,88 por 100 g de proteína"
+            ],
+            [
+              "[100% Whey Dr. Peanut, pote 900 g](https://www.maxtitanium.com.br/100-whey-dr-peanut/p)",
+              "Max Titanium",
+              "R$ 224,39",
+              "R$ 49,86",
+              "Até 10%, conforme o produto: o valor aparece no carrinho"
+            ]
+          ],
+          "caption": "Preço de venda de 05/11, igual nas duas lojas e nos cinco sabores. Proteína pelo rótulo: 20 g por dose de 40 g."
+        },
+        "postParagraphs": [
+          "Conta nossa, pelo rótulo e pelo preço da tabela: o pote de 900 g dá 22,5 doses de 40 g, 450 g de proteína, e o preço do pote dividido por 4,5 é o valor por 100 g. Sem cupom, a dose sai a R$ 9,97; com 10%, o pote cai para R$ 201,95 e a dose, para R$ 8,98. O Pix fica fora da conta: o desconto dele aparece só no carrinho."
+        ]
+      },
+      {
+        "heading": "Cupom e Pix em cada loja",
+        "paragraphs": [
+          "Na Dr. Peanut, o cupom DREMCASACOMCECILIA dá 10% em todo o site, e no checkout deste whey ele funcionou e somou com o Pix. A linha do desconto aparece no carrinho antes de pagar.",
+          "Na Max Titanium, o cupom MAX10EMCASACOMCECILIA também funciona neste pote. Ele dá até 10%, e o percentual muda de produto para produto, então o valor certo aparece no carrinho. Regra prática, sem teste nosso: se a Max der os 10% cheios, os dois carrinhos empatam no cupom e a diferença fica no Pix e no frete de cada loja; se der menos, a Dr. Peanut sai mais barata.",
+          "O Pix é desconto da própria loja, e cada uma tem o seu. O valor de cada um aparece na tela de pagamento. As regras dos códigos estão em [cupom Dr. Peanut](/cupons/dr-peanut) e [cupons da Max Titanium](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "Frete: o cupom entra na conta",
+        "paragraphs": [
+          "A Dr. Peanut dá frete grátis acima de R$ 149,90 no Sul e no Sudeste, e acima de R$ 199,90 nas demais regiões, contando o total já com o cupom. Um pote com 10% fica em R$ 201,95, acima dos dois mínimos; nas demais regiões, a folga é de R$ 2,05. Se o preço do dia cair, o total pode ficar abaixo de R$ 199,90 e o frete deixa de ser grátis fora do Sul e do Sudeste. A Max tem a regra de frete dela: veja o total no carrinho antes de comparar."
+        ]
+      },
+      {
+        "heading": "Qual loja escolher",
+        "paragraphs": [
+          "Com o mesmo pote, os mesmos sabores e o mesmo preço, a loja sai do carrinho, não do produto: o cupom de cada uma, o Pix e o frete."
+        ],
+        "bullets": [
+          "Quer o desconto certo antes de abrir o carrinho: Dr. Peanut, com os 10% do cupom somados ao Pix.",
+          "Já compra na Max ou quer levar outro produto dela no mesmo pedido: Max, com o cupom dela, conferindo o percentual no carrinho.",
+          "Já compra pasta de amendoim na Dr. Peanut: o whey entra no mesmo pedido e ajuda a passar do frete grátis.",
+          "Precisa evitar glúten ou lactose: nenhuma das duas serve, pelo rótulo."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu poria o pote nos dois carrinhos, com o cupom de cada loja, e fecharia no menor total. Quando a Max dá menos de 10% no whey, a Dr. Peanut ganha."
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O whey Dr. Peanut é da Max Titanium? O pote leva as duas marcas: a página do produto o apresenta como criação da Max Titanium em parceria com a Dr. Peanut, e as duas marcas são do mesmo grupo.",
+          "Quais sabores tem o whey Dr. Peanut? Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, nas duas lojas e pelo mesmo preço.",
+          "O cupom DREMCASACOMCECILIA soma com o Pix? Sim: no checkout do whey, o cupom funcionou e somou com o desconto no Pix da Dr. Peanut.",
+          "O cupom da Max vale no whey Dr. Peanut? Vale: o MAX10EMCASACOMCECILIA funciona neste pote. O percentual da Max muda de produto para produto, até 10%, e aparece no carrinho.",
+          "O whey Dr. Peanut tem glúten ou lactose? Sim, pelo rótulo: o pote contém glúten e lactose, e nenhuma das lojas vende versão sem um deles."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer o desconto confirmado de 10%, somado ao Pix: compre na Dr. Peanut com o cupom.",
+        "Você já compra na Max: o cupom dela funciona no pote; confira o percentual no carrinho e compare o total."
+      ],
+      "skipIf": [
+        "Você precisa evitar glúten ou lactose: o rótulo diz que o pote contém os dois.",
+        "Você compara só o preço da vitrine: ele é igual nas duas lojas, e o que decide é o total do carrinho com o cupom e o frete."
+      ]
+    },
+    "cta": {
+      "label": "Ir para a Dr. Peanut",
+      "text": "Entre no site da Dr. Peanut e digite o cupom DREMCASACOMCECILIA no carrinho: são 10% em todo o site, somados ao Pix. Confira a linha do desconto antes de pagar.",
+      "url": "https://www.drpeanut.com.br/",
+      "sponsored": true
+    },
+    "coupon": "DREMCASACOMCECILIA",
+    "affiliate": "dr-peanut",
+    "editorialNote": "Podemos receber comissão pelo cupom DREMCASACOMCECILIA. Ninguém da equipe provou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "dr-peanut-melhor-sabor"
+      },
+      {
+        "slug": "cupom-dr-peanut-como-usar"
+      },
+      {
+        "slug": "max-titanium-e-boa"
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "slug": "fita-up-ou-blumi-ou-lib",
+    "locale": "pt",
+    "title": "Fita Up ou Blumi (ou Lib)? Empresa, formato e onde comprar cada uma",
+    "seoTitle": "Fita Up ou Blumi (ou Lib)? Qual escolher",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "5 de novembro de 2026",
+    "publishedAtISO": "2026-11-05",
+    "draft": false,
+    "isNew": true,
+    "description": "A Blumi não vende fita: é outra linha da mesma dona da Fita Up, com CNPJ próprio. Compare empresa, formato e tamanho da Fita Up com a Lib e veja onde comprar cada uma.",
+    "metaDescription": "O cupom MAUAD dá 10% no site oficial da Toda Up, a antiga Fita Up. Veja como ela se compara com a Blumi e a Lib em empresa, tamanho e onde comprar.",
+    "image": "/images/reviews/toda-up/fita-up-ou-blumi-ou-lib-capa.webp",
+    "imageAlt": "Modelo segura a caixa da Fita Up, com o logo da Toda Up e o título Fita Up, Blumi ou Lib?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você quer tamanho pela largura do sutiã e a troca pelo portal da marca: a Fita Up, comprada no site oficial com o cupom.",
+        "Você usa roupa fina, quer um rolo para cortar no decote e compra na Drogasil: a Lib."
+      ],
+      "skipIf": [
+        "Você procura fita adesiva e chegou à Blumi pelo nome: ela não vende fita, então a comparação é só entre a Fita Up e a Lib.",
+        "Você compra pelo nome parecido sem olhar a marca na caixa: confira o nome e o vendedor antes de pagar."
+      ]
+    },
+    "cta": {
+      "text": "Para comprar a Fita Up no site oficial, entre pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+      "label": "Ver na Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Ninguém da equipe usou a Fita Up nem a Lib. Podemos receber comissão pelo cupom e pelos links.",
+    "relatedArticles": [
+      {
+        "slug": "fita-up-onde-comprar-original"
+      },
+      {
+        "slug": "fita-up-como-usar"
+      },
+      {
+        "slug": "toda-up-e-confiavel"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Blumi não é a Fita Up com outro nome: é uma marca mais nova da Brandness, a mesma dona da Fita Up, com CNPJ próprio, e não vende fita adesiva. Para fita, a escolha fica entre a Fita Up, em três larguras, e a Lib, um rolo que se corta no decote: o que pesa está em \"Qual escolher\"."
+        ]
+      },
+      {
+        "heading": "Fita Up e Blumi são a mesma coisa?",
+        "paragraphs": [
+          "Não. Pela consulta pública do CNPJ, a Fita Up é da FITA UP LTDA e a Blumi é da BLUMI LTDA, cada uma com CNPJ próprio, as duas em Biguaçu (SC). A Brandness LTDA é sócia das duas, e a Blumi é a marca mais nova dela.",
+          "A Lib fica fora desse quadro: a página da Drogasil, que vende e entrega a fita, não diz qual empresa está por trás dela. Se a caixa trouxer o nome, é esse o dado para conferir."
+        ],
+        "comparisonTable": {
+          "caption": "Consulta pública do CNPJ de cada uma.",
+          "headers": [
+            "",
+            "Fita Up",
+            "Blumi"
+          ],
+          "rows": [
+            [
+              "Razão social",
+              "FITA UP LTDA",
+              "BLUMI LTDA"
+            ],
+            [
+              "CNPJ",
+              "40.159.443/0001-44",
+              "63.243.441/0001-34"
+            ],
+            [
+              "Abertura",
+              "2020",
+              "2025"
+            ],
+            [
+              "Sede",
+              "Biguaçu (SC)",
+              "Biguaçu (SC)"
+            ],
+            [
+              "Sócia em comum",
+              "Brandness LTDA",
+              "Brandness LTDA"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Fita Up ou Lib: formato e tamanho",
+        "paragraphs": [
+          "O que separa as duas é como você acerta o tamanho. A Fita Up vem em três larguras, escolhidas pelo número do sutiã: P até o 44, M até o 48 e G até o 54. A Lib é um rolo só, que você corta na medida do decote, e serve a qualquer tamanho. O passo a passo de colar e tirar a Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
+          "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
+          "caption": "A Fita Up na embalagem da Toda Up. Foto da loja.",
+          "objectFit": "contain",
+          "aspectRatio": 1,
+          "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
+        },
+        "postParagraphs": [
+          "A Lib pede mais atenção ao relógio: a página da Drogasil manda tirar a fita antes do limite, porque passar dele pode irritar a pele, e não indica o uso em gestantes, lactantes ou peles sensíveis. Os protetores de mamilo já vêm na caixa da Lib; na Fita Up, o passo a passo pede o protetor antes de colar."
+        ],
+        "comparisonTable": {
+          "caption": "Preços de 05/11. O da Lib é o da Drogasil, sem promoção.",
+          "headers": [
+            "",
+            "Fita Up",
+            "Lib"
+          ],
+          "rows": [
+            [
+              "Formato",
+              "Fita de 98,5% poliéster e 1,5% elastano",
+              "Fita de tecido bege, com 5 pares de Lib Pétalas"
+            ],
+            [
+              "Tamanho",
+              "P, M e G, pela largura; rolo de 5 m",
+              "Um rolo de 9 cm x 5 m, cortado no decote"
+            ],
+            [
+              "Cores",
+              "Bege, Marrom e Preto",
+              "Bege"
+            ],
+            [
+              "Duração que a marca informa",
+              "Até 12 horas",
+              "Até 10 horas"
+            ],
+            [
+              "Como tirar",
+              "Hidratante ou óleo, pelo passo a passo da Toda Up",
+              "A seco ou com o óleo para seios da Lib; nunca com água, álcool ou acetona"
+            ],
+            [
+              "Preço",
+              "R$ 116,90 no site; com o MAUAD, R$ 105,21",
+              "R$ 81,56 na Drogasil"
+            ],
+            [
+              "Quem vende",
+              "A própria marca, Mercado Livre, Amazon, Drogasil e Droga Raia",
+              "Drogasil, com entrega da própria Drogasil"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Blumi: outra linha da mesma dona",
+        "paragraphs": [
+          "A Blumi não entra na comparação de fita. O catálogo da loja tem leggings, modeladores, tops, biquínis, maiôs, shorts e sutiãs modeladores, e nenhuma fita adesiva nem protetor de mamilo.",
+          "Quem procura sustentação com peça de roupa, e não com adesivo, pode olhar a linha dela. Para colar sob um decote, a escolha segue entre a Fita Up e a Lib."
+        ]
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "**Quer tamanho pela largura do sutiã e troca pelo portal da marca:** Fita Up. Comprando no site, a troca é pelo portal da marca, em até 30 dias, e é lá que vale o cupom MAUAD.",
+          "**Usa roupa fina e quer um rolo para cortar no decote:** Lib, na Drogasil. Lembre do limite de 10 horas e dos casos em que a página desaconselha o uso.",
+          "**Procura sustentação com peça de roupa:** a Blumi, que é outra linha da mesma dona, e não uma fita.",
+          "Antes de pagar, confira a marca na caixa. A busca mistura nomes parecidos, e a Lib tem uma fita dupla face para decotes e barras que é outro produto, com outro preço."
+        ],
+        "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up, mesmo saindo mais cara que a Lib: a largura vem pelo número do sutiã, e comprando no site a troca fica com a marca, em 30 dias. A Lib ganha para quem prefere cortar o rolo na medida do decote."
+      },
+      {
+        "heading": "Onde comprar a Fita Up",
+        "paragraphs": [
+          "O cupom MAUAD, de 10%, vale só no site oficial da Toda Up. No Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela. A [página de cupons da Toda Up](/cupons/toda-up) traz as regras do código."
+        ],
+        "links": [
+          {
+            "label": "Ver na Toda Up",
+            "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Fita Up e Blumi são a mesma coisa? Não. Cada uma tem CNPJ próprio, mas as duas têm a mesma dona: a Brandness LTDA é sócia das duas, e a Blumi é a marca mais nova. A Blumi não vende fita adesiva.",
+          "Fita Up ou Lib? Para fita, são as duas opções. A Fita Up tem tamanho pela largura do sutiã; a Lib é um rolo que se corta no decote e tem limite de horas menor. A tabela de \"Fita Up ou Lib: formato e tamanho\" compara as duas.",
+          "A Fita Up é a Toda Up? Sim. Toda Up é o nome novo da Fita Up, da mesma empresa, a FITA UP LTDA. O que a loja publica sobre a empresa, as trocas e o reembolso está em [Fita Up (Toda Up) é confiável?](/reviews/toda-up-e-confiavel)."
+        ]
+      }
+    ]
   }
 ];
