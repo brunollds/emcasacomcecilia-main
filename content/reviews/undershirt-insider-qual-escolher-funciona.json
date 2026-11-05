@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Qual undershirt Insider escolher: o nível de suor que a marca indica para a Leve, o Moderado e o Block, o que muda nas axilas, cores, tamanho, preço com o cupom e a regra de troca.",
-  "metaDescription": "Undershirt Insider Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho, preço com o cupom e troca.",
+  "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider. Undershirt Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho e troca.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "draft": false,
@@ -300,16 +300,13 @@
   "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
   "relatedArticles": [
     {
-      "slug": "tabela-de-medidas-insider",
-      "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      "slug": "tabela-de-medidas-insider"
     },
     {
-      "slug": "insider-vale-a-pena",
-      "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+      "slug": "insider-vale-a-pena"
     },
     {
-      "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-      "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+      "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
     }
   ]
 }

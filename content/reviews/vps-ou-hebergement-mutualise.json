@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Un site ordinaire se porte bien sur un hébergement mutualisé ; un VPS seulement avec un système propre, des ressources réservées ou l'accès root. Tableau par scénario et specs des KVM.",
+  "description": "Un hébergement mutualisé suffit pour un site ordinaire ; le VPS ne se justifie qu'avec un système propre, des ressources réservées ou l'accès root. Voyez le tableau par scénario.",
   "metaDescription": "VPS ou hébergement mutualisé chez Hostinger : ce qu'est chacun, tableau par scénario, specs des KVM 1 à 8 et ce qui reste à votre charge en maintenance.",
   "publishedAt": "28 octobre 2026",
   "publishedAtISO": "2026-10-28",
@@ -196,7 +196,8 @@
         "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Nous ne l'avons pas mesuré. Ce que le VPS garantit, ce sont des ressources réservées : CPU, mémoire et disque sont à vous, alors que sur le mutualisé le serveur est partagé. Pour un site ordinaire, c'est rarement le goulot d'étranglement.",
         "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et y transférez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
         "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. Sur le mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
-        "Un VPS supporte-t-il WordPress ? Oui, mais vous installez et maintenez le serveur web, PHP et la base de données. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur."
+        "Un VPS supporte-t-il WordPress ? Oui, mais vous installez et maintenez le serveur web, PHP et la base de données. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -209,26 +210,23 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
+    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Nous n'avons pas testé de VPS.",
+  "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous. Le code vaut sur le VPS.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-gere-ou-vps",
-      "title": "OpenClaw chez Hostinger : géré ou VPS ? Ce qu'exige chaque option et à qui elle convient"
+      "slug": "openclaw-hostinger-gere-ou-vps"
     },
     {
-      "slug": "hostinger-est-il-fiable",
-      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      "slug": "hostinger-est-il-fiable"
     },
     {
-      "slug": "black-friday-hostinger-offres",
-      "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+      "slug": "black-friday-hostinger-offres"
     }
   ],
   "decision": {

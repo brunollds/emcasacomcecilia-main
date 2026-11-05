@@ -200,12 +200,30 @@ const HOSTINGER_NO_COUPON: Record<Locale, RegExp> = {
   'zh-hant': /不需要優惠券|沒有需要輸入的代碼|(已經)?(包含)?在連結(中|裡)/,
 };
 
+// Desde 04/11/2026: o SONAR20 dá 20% em toda compra nova, também para quem já é cliente, e nunca na renovação,
+// que sai pelo preço de tabela. Nenhum artigo da loja diz que os 20% (ou o código) valem na renovação.
+const HOSTINGER_RENEWAL_DISCOUNT: Record<Locale, RegExp> = {
+  pt: /20 ?% (também )?valem (no primeiro período e )?(também )?na renovação|(código|cupom) vale (no VPS e )?na renovação|renovação (com o cupom|também sai)/i,
+  en: /20 ?% (also )?appl(y|ies) (also )?(on|to) (the )?renewal|appl(y|ies)[^.]{0,40}(on|at) renewal too|code (also )?(works|applies) (on|to|for) renewals?/i,
+  es: /20 ?% (también )?valen? (también )?en la renovación|código (también )?vale en la renovación/i,
+  fr: /20 ?% valen?t aussi sur le renouvellement|code (vaut|s'applique) aussi (sur|au) renouvellement/i,
+  de: /20 ?% gelten auch (bei|für) (der|die) Verlängerung|Code gilt auch (bei|für) (der|die) Verlängerung/i,
+  it: /20 ?% valgono anche sul rinnovo|codice vale anche sul rinnovo/i,
+  ja: /更新(時|料)(も|にも)(20%|SONAR20)|20%(割引)?は更新料にも/,
+  ko: /갱신(에도|가에도|에서도) (20% )?할인이 적용|20%도 갱신가에 적용/,
+  'zh-hans': /(20%|折扣)[^。；]{0,8}续费(时|时也)?也有效|续费也(享|有效)/,
+  'zh-hant': /(20%|折扣)[^。；]{0,8}(也)?適用於續(約|訂)|續(約|訂)(時)?也(享|適用|有效)/,
+};
+
 function hostingerCopyProblems(review: ReviewSource): string[] {
   const text = JSON.stringify(review);
   const problems = text.includes(OLD_HOSTINGER_CODE) ? [`código antigo ${OLD_HOSTINGER_CODE}`] : [];
   if (review.affiliate !== 'hostinger') return problems;
-  const match = text.match(HOSTINGER_NO_COUPON[resolveReviewLocale(review.locale)]);
+  const locale = resolveReviewLocale(review.locale);
+  const match = text.match(HOSTINGER_NO_COUPON[locale]);
   if (match) problems.push(`frase de "sem cupom" ou "só no link": ${match[0]}`);
+  const renewal = text.match(HOSTINGER_RENEWAL_DISCOUNT[locale]);
+  if (renewal) problems.push(`os 20% do SONAR20 não valem na renovação: ${renewal[0]}`);
   return problems;
 }
 
@@ -400,32 +418,40 @@ const storeReferralLabel = (locale: Locale) =>
 
   assert.deepEqual(
     resolveRelatedArticleLinks(
-      { slug: 'source-pt', relatedArticles: [{ slug: 'future-review', title: 'Futuro' }] },
-      []
+      { slug: 'source-pt', relatedArticles: [{ slug: 'guia' }] },
+      [{ slug: 'guia', title: 'Black Friday: até 70% OFF' }]
     ),
-    [{ slug: 'future-review', title: 'Futuro', href: '/reviews/future-review' }],
-    'referência futura PT preserva pathname previsto'
+    [{ slug: 'guia', title: 'Black Friday: até 70% OFF', href: '/reviews/guia' }],
+    'o texto do link é o título atual do destino'
   );
   assert.deepEqual(
     resolveRelatedArticleLinks(
-      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'existing', title: 'Existente' }] },
-      [{ slug: 'existing', locale: 'es' }]
+      { slug: 'source-pt', relatedArticles: [{ slug: 'future-review' }] },
+      []
     ),
-    [{ slug: 'existing', title: 'Existente', href: '/es/reviews/existing' }],
+    [{ slug: 'future-review', title: 'future-review', href: '/reviews/future-review' }],
+    'sem destino (só no /preview) o link vai ao pathname previsto e mostra o slug'
+  );
+  assert.deepEqual(
+    resolveRelatedArticleLinks(
+      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'existing' }] },
+      [{ slug: 'existing', locale: 'es', title: 'Existente hoy' }]
+    ),
+    [{ slug: 'existing', title: 'Existente hoy', href: '/es/reviews/existing' }],
     'candidato único usa o pathname canônico real'
   );
   assert.deepEqual(
     resolveRelatedArticleLinks(
-      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'shared', title: 'Compartilhado' }] },
-      [{ slug: 'shared', locale: 'es' }, { slug: 'shared', locale: 'en' }]
+      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'shared' }] },
+      [{ slug: 'shared', locale: 'es', title: 'Compartido' }, { slug: 'shared', locale: 'en', title: 'Shared' }]
     ),
-    [{ slug: 'shared', title: 'Compartilhado', href: '/en/reviews/shared' }],
+    [{ slug: 'shared', title: 'Shared', href: '/en/reviews/shared' }],
     'múltiplos candidatos preferem o locale de origem'
   );
   assert.throws(
     () => resolveRelatedArticleLinks(
-      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'ambiguous', title: 'Ambíguo' }] },
-      [{ slug: 'ambiguous', locale: 'es' }, { slug: 'ambiguous', locale: 'fr' }]
+      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'ambiguous' }] },
+      [{ slug: 'ambiguous', locale: 'es', title: 'Ambiguo' }, { slug: 'ambiguous', locale: 'fr', title: 'Ambigu' }]
     ),
     /relatedArticles ambíguo/,
     'múltiplos candidatos sem locale de origem falham'
@@ -621,6 +647,26 @@ const storeReferralLabel = (locale: Locale) =>
     'o código antigo falha em qualquer artigo'
   );
   assert.deepEqual(hostingerCopyProblems(hostingerFixture('pt', 'Use o código SONAR20 no campo de cupom do carrinho.')), [], 'o texto novo passa');
+  const renewalDiscountCopy: Record<Locale, string> = {
+    pt: 'Os 20% também valem na renovação; confira o preço no carrinho.',
+    en: 'The 20% also apply on renewal; check the price in the cart.',
+    es: 'Los 20 % también valen en la renovación; revisa el precio en el carrito.',
+    fr: 'Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier.',
+    de: 'Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.',
+    it: 'I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.',
+    ja: '更新時も20%割引が適用されます。',
+    ko: '갱신에도 20% 할인이 적용됩니다.',
+    'zh-hans': 'SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。',
+    'zh-hant': 'SONAR20 的 20% 折扣也適用於續約，請在購物車確認價格。',
+  };
+  for (const [locale, text] of Object.entries(renewalDiscountCopy) as [Locale, string][]) {
+    assert.equal(hostingerCopyProblems(hostingerFixture(locale, text)).length, 1, `${locale}: desconto na renovação falha`);
+  }
+  assert.deepEqual(
+    hostingerCopyProblems(hostingerFixture('pt', 'Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.')),
+    [],
+    'a regra nova passa'
+  );
 
   // Rótulo e dica do código no dock e na sidebar: cupom comum, de recompensa e de indicação, nos 10 idiomas.
   for (const locale of LOCALE_KEYS) {

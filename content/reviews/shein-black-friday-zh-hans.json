@@ -3,8 +3,8 @@
   "slug": "shein-black-friday-zh-hans",
   "locale": "zh-hans",
   "translationKey": "shein-black-friday",
-  "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用",
-  "seoTitle": "SHEIN 黑色星期五 2026：日期、优惠券与积分",
+  "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、眼下正在进行的 11.11，以及代码 4CW5Y 怎么用",
+  "seoTitle": "SHEIN 黑色星期五 2026：何时开始与眼下的活动",
   "type": "黑色星期五指南",
   "category": "cupons-como-usar",
   "reviewKind": "guia",
@@ -15,16 +15,17 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN 黑色星期五何时开始、何时结束？本文整理了 2023 至 2025 年的活动日程，以及优惠券、积分和退货。",
-  "metaDescription": "SHEIN 黑色星期五 2026：2023 至 2025 年日程、“最高 90%”、优惠券、积分与退货。",
+  "description": "2026 年黑色星期五是 11 月 27 日，SHEIN 目前在办 11.11 促销，黑色星期五尚未公布。本文整理了 2023 至 2025 年的活动日程，以及优惠券、积分和退货。",
+  "metaDescription": "SHEIN 黑色星期五 2026：11 月 27 日，SHEIN 正办 11.11、尚未公布。往年阶段、“最高 90%”、积分与退货。",
   "publishedAt": "2026年10月11日",
   "publishedAtISO": "2026-10-11",
+  "updatedAt": "2026-11-03",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
-  "image": "/images/reviews/shein/black-friday-shein-cecilia.webp",
-  "imageAlt": "Cecília 在一次 SHEIN 开箱中的两套造型：腰间系结的浅色上衣配黑色中长裙，以及带浅色镂空的黑色长连衣裙",
-  "imageFit": "cover",
+  "image": "/images/reviews/shein/black-friday-shein-capa-faixa.webp",
+  "imageAlt": "SHEIN 的黑色运动开衫、浅色露跟高跟鞋和碎花睡衣，配“Black Friday”横幅和 SHEIN 标志",
+  "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "过去三年，优惠都在黑色星期五之前开始，并在之后继续",
@@ -38,13 +39,13 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "SHEIN 还没有公布 2026 年的黑色星期五，这一天是 11 月 27 日。从往年来看，优惠会随 11.11 提前开始，一直持续到月底。下面有日程、优惠券、积分，以及代码 4CW5Y。"
+        "2026 年黑色星期五是 11 月 27 日。SHEIN 目前正在办 11.11 促销，还没有公布黑色星期五的日期和页面；从往年来看，黑色星期五的优惠在 11.11 之后到来，持续到月底。4CW5Y 是推荐码，要在 App 里搜索，不承诺任何折扣。"
       ]
     },
     {
       "heading": "SHEIN 黑色星期五何时开始",
       "paragraphs": [
-        "SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段提高最高折扣，直到月底。下表汇总了 SHEIN 过去三年公布的内容。2026 年的日程尚未公布。"
+        "11 月初的现在，SHEIN 正在办 11.11 促销，还没有公布 2026 年黑色星期五的日期和页面。日历上的黑色星期五是 11 月的最后一个星期五，各阶段和日期会因你所在国家的 SHEIN 站点而不同。SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段提高最高折扣，直到月底。下表是参照：SHEIN 过去三年公布的内容。"
       ],
       "comparisonTable": {
         "caption": "SHEIN 公布的各阶段与最高折扣，来源为 SHEIN、刊登公告的媒体和品牌账号。“最高”只适用于部分商品。",
@@ -72,12 +73,16 @@
         ]
       },
       "postParagraphs": [
-        "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用同样的模式，优惠应该会在 10 月底到 11 月初之间开始，持续到月底。这是根据往年做的推测，等 SHEIN 公布 2026 年的活动后，本指南会随之更新。",
+        "2026 年，11.11 是星期三，黑色星期五是星期五。如果 SHEIN 沿用同样的模式，黑色星期五的优惠会在 11.11 之后到来，持续到月底。这是根据往年做的推测，等 SHEIN 公布 2026 年的活动后，本指南会随之更新。",
         "三年来，最高折扣都在接近月底时提高：等得起的人更划算，需要难买尺码的人不要等到最后一个阶段。"
       ]
     },
     {
       "heading": "“最高 90%”不是整个购物车",
+      "image": {
+        "src": "/images/reviews/shein/black-friday-shein-cecilia.webp",
+        "alt": "Cecília 在一次 SHEIN 开箱中的两套造型：腰间系结的浅色上衣配黑色中长裙，以及带浅色镂空的黑色长连衣裙"
+      },
       "paragraphs": [
         "活动宣传的百分比，是部分商品的最高折扣。大部分商品的折扣更小，每件商品的价格也会随阶段变化。想不被大数字的广告带偏："
       ],
@@ -126,8 +131,8 @@
     {
       "heading": "常见问题",
       "bullets": [
-        "SHEIN 2026 年的黑色星期五何时开始？SHEIN 还没有公布。2024 年，优惠随 11.11 在 10 月底开始；2025 年，11 月初就已经上线。2026 年的黑色星期五是 11 月的最后一个星期五。",
-        "SHEIN 的黑色星期五持续到什么时候？2024 年和 2025 年都持续到 11 月底。2023 年持续到黑色星期五之后的那个周六。",
+        "SHEIN 的黑色星期五何时开始、持续多久？2026 年的黑色星期五是 11 月的最后一个星期五。SHEIN 目前在办 11.11 促销，还没有公布这场活动。从往年来看，黑色星期五的优惠在 11.11 之后到来，持续到月底；阶段每年不同，也因各国站点而异。",
+        "SHEIN 的黑色星期五持续到什么时候？2024 年和 2025 年都持续到 11 月底。2023 年持续到黑色星期五之后的那个周六。2026 年还没有结束日期。",
         "SHEIN 的 11.11 是什么？是 11 月 11 日的光棍节促销。SHEIN 把 11.11 和黑色星期五合并成一场活动，分阶段打折，直到月底。",
         "在 SHEIN 可以同时用多张优惠券吗？每笔订单只能用一张 SHEIN 优惠券。",
         "4CW5Y 是折扣优惠券吗？不是。它是 Cecília 的 SHEIN 推荐码：你在 SHEIN App 里搜索这个码，就能看到适用于你账户的条件。",
@@ -147,8 +152,7 @@
   "editorialNote": "规则来自 SHEIN 官方页面。我们可能会从购买中获得佣金。",
   "relatedArticles": [
     {
-      "slug": "yesstyle-black-friday-zh-hans",
-      "title": "Black Friday YesStyle 2026（黑色星期五）：何时开始、优惠券怎么用，CECILIA010 填在哪里"
+      "slug": "yesstyle-black-friday-zh-hans"
     }
   ]
 }

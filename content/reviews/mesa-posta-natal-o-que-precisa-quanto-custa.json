@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Mesa posta de Natal para seis pessoas em três faixas de preço, de R$ 1.019,90 a R$ 5.250,69, com faqueiro, taças, sousplat, guardanapo e centro de mesa da Let's Eat It e o passo a passo para montar.",
-  "metaDescription": "Mesa posta de Natal para 6 pessoas: o que comprar, quanto custa em três faixas (de R$ 1.019,90) e como montar cada lugar. Preços de 20/10/2026.",
+  "description": "A mesa posta de Natal para seis pessoas tem três faixas de preço, da básica à completa. Veja o que comprar, a conta de cada faixa, o cupom MAUAD e como montar cada lugar.",
+  "metaDescription": "Mesa posta de Natal para 6 pessoas com o cupom MAUAD de 5% OFF: o que comprar, quanto custa em três faixas e como montar cada lugar.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "draft": false,
@@ -446,16 +446,13 @@
   "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
   "relatedArticles": [
     {
-      "slug": "presente-natal-quem-gosta-de-cozinhar",
-      "title": "Presente de Natal para quem gosta de cozinhar: ideias por faixa de preço"
+      "slug": "presente-natal-quem-gosta-de-cozinhar"
     },
     {
-      "slug": "porto-brasil-e-boa",
-      "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+      "slug": "porto-brasil-e-boa"
     },
     {
-      "slug": "black-friday-letseatit",
-      "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      "slug": "black-friday-letseatit"
     }
   ],
   "decision": {

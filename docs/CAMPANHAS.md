@@ -39,8 +39,11 @@ Em cada rodada:
 
 1. passar pela lista da seção 3 e anotar campanha nova, mudança de prazo e campanha encerrada;
 2. apagar o arquivo de toda campanha vencida (o `npm run test:store-banners` lista as vencidas);
-3. abrir um PR só com `content/campanhas/` e o `src/lib/generated/store-banners.ts` regenerado;
-4. avisar o Bruno se a campanha nova pede deploy antes do início.
+3. reconferir cada campanha sem `endsAt` que o mesmo teste lista (a que está há 7 dias ou mais sem conferência): se a
+   loja ainda a mantém, avançar o `verifiedAt` (e o `source`, se a página mudou); se a loja deu um prazo, pôr o
+   `endsAt`; se acabou, seguir a seção 6, porque o banner só sai do ar com o deploy;
+4. abrir um PR só com `content/campanhas/` e o `src/lib/generated/store-banners.ts` regenerado;
+5. avisar o Bruno se a campanha nova pede deploy antes do início.
 
 ## 3. Onde procurar
 
@@ -74,6 +77,7 @@ Em todas as lojas, olhar:
 | Skelt (`skelt`) | skelt.com.br | não |
 | Bagaggio (`bagaggio`) | bagaggio.com.br | não |
 | Toda Up (`toda-up`) | todaup.com | não |
+| HolyFoods (`holyfoods`) | holyfoods.com.br | não |
 | Hostinger (`hostinger`) | hostinger.com | sim, 10 idiomas |
 
 A lista sai das lojas ativas de `src/lib/couponsData.ts`; loja nova entra aqui no onboarding dela.
@@ -106,7 +110,8 @@ A lista sai das lojas ativas de `src/lib/couponsData.ts`; loja nova entra aqui n
 - **`code`** (opcional): o código da própria loja para a campanha, de pesquisar no app dela (o 37S3442 da SHEIN).
   Nunca o nosso código da loja, que o teste barra. O banner mostra "Pesquise <código> no aplicativo <loja>" no idioma.
 - **`source` e `verifiedAt`**: onde a campanha foi vista e quando (`AAAA-MM-DD`, nunca no futuro). Só avançam quando
-  alguém confere a campanha de novo.
+  alguém confere a campanha de novo. A campanha sem `endsAt` entra no aviso do `npm run test:store-banners` quando passa
+  7 dias ou mais sem essa conferência (o dia é o de Brasília); o aviso não derruba o build.
 - **Texto curto e direto**: o `headline` diz a campanha, o `text` diz de quem é ("Campanha da própria Skelt.") e onde
   estão as condições, e o `action` é o botão ("Ver a campanha").
 
@@ -149,5 +154,5 @@ A lista sai das lojas ativas de `src/lib/couponsData.ts`; loja nova entra aqui n
 
 - **Venceu:** ela já sumiu dos artigos sozinha. Apague o arquivo na rodada seguinte, rode o `build-index` e abra o PR;
   não precisa de deploy no mesmo dia.
-- **A loja encerrou antes do prazo:** ponha o `endsAt` na data e hora do encerramento, ou apague o arquivo, e faça o
-  deploy, porque o HTML no ar ainda mostra a campanha.
+- **A loja encerrou antes do prazo, ou acabou a campanha sem `endsAt`:** ponha o `endsAt` na data e hora do
+  encerramento, ou apague o arquivo, e faça o deploy, porque o HTML no ar ainda mostra a campanha.

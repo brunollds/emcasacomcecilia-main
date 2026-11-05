@@ -1,0 +1,262 @@
+{
+  "id": 815,
+  "slug": "hostinger-renewal-price-coupon-sonar20",
+  "locale": "en",
+  "translationKey": "hostinger-renovacao-cupom",
+  "title": "Hostinger renewal: price, SONAR20 coupon and refund before you pay",
+  "seoTitle": "Hostinger renewal: price, SONAR20 and refund",
+  "type": "Decision Guide",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Editing and analysis",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger's renewal costs more than the first period. See each plan's price, when the charge happens, how to turn off auto-renewal and how long you can ask for a refund.",
+  "metaDescription": "The SONAR20 code gives 20% off a new Hostinger plan; renewal is charged at the list price. See what each plan costs to renew, plus the refund rules.",
+  "publishedAt": "November 5, 2026",
+  "publishedAtISO": "2026-11-05",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp",
+  "imageAlt": "Hostinger logo with renewal calendar and receipt icons",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Take this guide if you already have hosting or a VPS at Hostinger and want to settle the renewal before the charge hits.",
+      "Take it too if you have several services on the account and want to know what renews, what to switch off and what is left out, like the domain."
+    ],
+    "skipIf": [
+      "Skip it if you only want to buy your first plan: the coupon guide answers that better.",
+      "Skip it if all you need is to renew a domain: the domain guide answers that better."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "When you buy a new plan, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the purchase.",
+    "label": "See Hostinger plans with SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "We may earn a commission from the code and the links.",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-coupon-code-referral"
+    },
+    {
+      "slug": "is-hostinger-legit"
+    },
+    {
+      "slug": "hostinger-domain-buy-transfer-or-elsewhere"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Quick answer",
+      "paragraphs": [
+        "Renewing costs more than the first period, and auto-renewal comes switched on. SONAR20 gives 20% off a new plan, but renewal is charged at the list price. Below you will find what each plan costs to renew, when the charge happens, how to turn it off and how long you can ask for a refund."
+      ]
+    },
+    {
+      "heading": "What each plan costs to renew",
+      "paragraphs": [
+        "The entry price holds only for the first period; after that, the renewal price is the bill that stays. The low sticker price covers the term you buy, 48 months on hosting and 24 on VPS. When it ends, Hostinger renews for the same term at the price in the last column."
+      ],
+      "comparisonTable": {
+        "caption": "Hostinger prices on November 4, in US dollars, without a coupon.",
+        "headers": [
+          "Plan",
+          "First period (per month)",
+          "Term",
+          "First-period total",
+          "Renewal (per month)"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 1.99",
+            "48 months",
+            "US$ 95.52",
+            "US$ 10.99"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 2.79",
+            "48 months",
+            "US$ 133.92",
+            "US$ 16.99"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 7.99",
+            "48 months",
+            "US$ 383.52",
+            "US$ 25.99"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 6.49",
+            "24 months",
+            "US$ 155.76",
+            "US$ 11.99"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 8.79",
+            "24 months",
+            "US$ 210.96",
+            "US$ 14.99"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 12.99",
+            "24 months",
+            "US$ 311.76",
+            "US$ 28.99"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 25.99",
+            "24 months",
+            "US$ 623.76",
+            "US$ 49.99"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Our math: from the table prices, renewing Premium for another 48 months costs US$ 527.52 (48 × 10.99), more than five times the US$ 95.52 of the first period.",
+        "If you are torn between two plans, compare them by the renewal column, not the entry one: that is where your budget ends up after the first period."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-en.webp",
+        "alt": "Bar chart with the monthly price of Hostinger plans in the first period and on renewal: Premium, Unlimited and Cloud Startup on hosting, and KVM 1, 2, 4 and 8 on VPS; on every one, renewal costs more",
+        "caption": "Each plan in two bars: the monthly price in the first period and on renewal. Chart by Em Casa com Cecília, from the prices on Hostinger's page.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
+    },
+    {
+      "heading": "SONAR20 and renewal",
+      "paragraphs": [
+        "SONAR20 gives 20% off a new purchase; renewal is charged at the price in the last column of the table. The terms of Hostinger's referral program say the 20% discount applies only to new purchases, and the domain is left out of the code in any case.",
+        "So if you are renewing, your bill is the renewal column, with no discount. The code comes in when you buy a new plan: the step-by-step on where to paste it is in [how to use the Hostinger coupon](/en/reviews/hostinger-coupon-code-referral), and the rules for **SONAR20** are on the [Hostinger coupon](/en/coupons/hostinger) page."
+      ]
+    },
+    {
+      "heading": "When Hostinger charges the renewal",
+      "paragraphs": [
+        "With auto-renewal on, the charge arrives before the due date, and how early depends on the plan. Hostinger's help center says the saved payment method is charged:"
+      ],
+      "bullets": [
+        "14 days before the due date, on a hosting plan of a year or longer;",
+        "on the due date, on a monthly plan;",
+        "27 days before the due date, on a domain."
+      ],
+      "postParagraphs": [
+        "The date can vary a little. If one day or less is left before renewal, it does not go through on its own in that cycle: you have to renew by hand. Keep funds on the payment method around those dates.",
+        "To renew by hand at any time, open Billing, then Subscriptions, and click renew next to the service. The renewal price, before taxes, shows there, in the renewal price column. When the plan is close to expiring, its card in the websites area of the panel shows the date and the renew button."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-cobranca-en.webp",
+        "alt": "Timeline of Hostinger automatic renewal: annual hosting is charged 14 days before it is due, monthly on the due date and the domain 27 days before; the 30 days to ask for a refund count from the charge, and domain renewal has no refund",
+        "caption": "When the charge happens and how long you can ask for a refund. Chart by Em Casa com Cecília, from Hostinger's help center and refund policy.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9677
+      }
+    },
+    {
+      "heading": "How to turn off auto-renewal",
+      "paragraphs": [
+        "Auto-renewal is switched off service by service, and the plan stays up until the due date. The path:"
+      ],
+      "bullets": [
+        "In the Hostinger panel, open your profile and go to Billing.",
+        "Open Subscriptions.",
+        "Find the service and switch off the toggle next to it.",
+        "Read the notice page Hostinger opens for that product and confirm. To turn it back on, just click the toggle again."
+      ],
+      "postParagraphs": [
+        "Switching it off does not change the service's state: it stays active until the due date and is not charged again. What has already been charged does not come back this way; refunds have their own rule, in the next section. On a monthly plan with an unpaid invoice, the invoice is cancelled and the subscription ends at the close of the cycle. With a partly paid invoice, applied credits or a cycle of a year or more, you may need to talk to support, through Hostinger's AI assistant.",
+        "Two details weigh on the decision. To change the plan's term at renewal, auto-renewal has to be on. And if the plan expires, the notice on its card says the sites go offline. When in doubt, switch the toggle off only once you have decided not to renew."
+      ]
+    },
+    {
+      "heading": "Refund after renewal",
+      "paragraphs": [
+        "Renewal opens a new 30-day window to ask for a refund, with exceptions. The store says: products can be refunded only if cancelled within 30 days of the transaction date, and the date Hostinger processes a renewal counts as the transaction date."
+      ],
+      "bullets": [
+        "Standard refund: hosting, on all plans, except the first payment after a free trial; and VPS KVM, except upgrades.",
+        "No refund: domain renewal, a completed domain transfer, privacy protection, VPS licenses, VPS KVM upgrades, AI credits and paid support.",
+        "VPS has one more rule: the refund comes only if you ask within 30 days and the last refund on another VPS plan was requested more than 180 days ago. If you asked for a refund on another VPS in the last 180 days, there is no refund on this one."
+      ],
+      "postParagraphs": [
+        "The clock starts at the charge, not at the due date. On an annual plan, charged 14 days before it is due, the 30 days end about two weeks after the due date. Write down the charge day: once the 30 days pass, the request no longer counts."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-reembolso-en.webp",
+        "alt": "Chart of refunds after renewal at Hostinger: hosting and VPS KVM get 30 days from the charge, with exceptions; domain renewal has no refund",
+        "caption": "What gets a refund after renewal, by service. Chart by Em Casa com Cecília, from Hostinger's refund policy.",
+        "objectFit": "contain",
+        "aspectRatio": 1.0909
+      }
+    },
+    {
+      "heading": "The domain is left out",
+      "paragraphs": [
+        "The domain has no refund on renewal and does not take SONAR20 either, so it calls for a separate decision. Its renewal has its own toggle, in the domains area of the panel, and is charged 27 days before it is due. Only a new registration has a short refund window, of 96 hours; renewal has none.",
+        "Decide on the domain before that charge: check the price, check whether it has to stay with this registrar and only then let it renew. The paths for registering, transferring or leaving the domain out are in [domain at Hostinger](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere)."
+      ]
+    },
+    {
+      "heading": "Before renewing: what to decide",
+      "paragraphs": [
+        "Before renewing, what decides it is the renewal price and the charge date, not the price of the first purchase. Em Casa com Cecília has run on Hostinger since 2024, with hosting, a VPS KVM 2, email and domains, all with auto-renewal on: here, renewal is a household bill, and it is better to know the amount before it arrives."
+      ],
+      "bullets": [
+        "Check the renewal price of each service, under Subscriptions.",
+        "Decide, service by service, whether auto-renewal stays on.",
+        "Write down the charge day: the refund window counts from it.",
+        "Keep funds on the payment method around that date.",
+        "Handle the domain separately, with its own price and decision."
+      ],
+      "postParagraphs": [
+        "When in doubt, leave auto-renewal on for what you use and switch it off only for what you have already decided to drop."
+      ],
+      "emphasis": "Renewal is something to decide calmly, before the charge arrives, not on the due date."
+    },
+    {
+      "heading": "Frequently asked questions",
+      "bullets": [
+        "Does the Hostinger coupon work on renewal? No: SONAR20 gives 20% off a new purchase, and renewal is charged at the list price. The SONAR20 section explains where the code comes in.",
+        "How do I cancel Hostinger auto-renewal? Under Billing, then Subscriptions, switch off the service's toggle; it stays active until the due date. The steps are in the section on how to turn it off.",
+        "Does Hostinger refund a renewal? Yes, within 30 days of the charge, on hosting and VPS KVM; domain renewal has no refund. The exceptions are in the refund section.",
+        "When does Hostinger charge the automatic renewal? On an annual plan, 14 days before the due date; on a monthly one, on the due date. The domain has its own deadline, in the section on when Hostinger charges.",
+        "What happens if my Hostinger plan expires? The sites go offline, as the plan's card warns. To avoid that, renew before the due date or leave auto-renewal on."
+      ]
+    }
+  ]
+}

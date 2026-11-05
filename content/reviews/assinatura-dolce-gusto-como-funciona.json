@@ -14,7 +14,7 @@
   },
   "description": "Como funciona a Assinatura NESCAFÉ Dolce Gusto: Geração 1 e NEO, pedido mínimo, frequência, 25% de desconto, frete grátis, cartão recusado, como pular uma entrega e como cancelar.",
   "seoTitle": "Assinatura Dolce Gusto: Como Funciona e Como Cancelar",
-  "metaDescription": "Assinatura Dolce Gusto: como assinar Geração 1 ou NEO, mínimo de 3 caixas, 25% OFF com frete grátis, cupom CECI e como cancelar sem multa.",
+  "metaDescription": "Assinatura Dolce Gusto com o cupom CECI e 10% OFF, que somou com os 25% no nosso teste: como assinar Geração 1 ou NEO, mínimo de 3 caixas e como cancelar.",
   "publishedAt": "3 de agosto de 2026",
   "publishedAtISO": "2026-08-03",
   "updatedAt": "2026-10-05",
@@ -191,20 +191,16 @@
   "editorialNote": "Feito com o regulamento oficial e um teste de checkout. Podemos receber comissão.",
   "relatedArticles": [
     {
-      "slug": "assinatura-dolce-gusto-vale-a-pena",
-      "title": "Assinatura Dolce Gusto vale a pena? Valor, cupom CECI e máquina grátis"
+      "slug": "assinatura-dolce-gusto-vale-a-pena"
     },
     {
-      "slug": "clube-dolce-gusto-como-funciona",
-      "title": "Clube Dolce Gusto: pontos e prêmios"
+      "slug": "clube-dolce-gusto-como-funciona"
     },
     {
-      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-      "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
     },
     {
-      "slug": "adaptador-neo-start-o-que-e",
-      "title": "Adaptador NEO Start: o que é e quando você precisa dele"
+      "slug": "adaptador-neo-start-o-que-e"
     }
   ]
 }

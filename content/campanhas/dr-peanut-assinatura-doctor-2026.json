@@ -1,0 +1,20 @@
+{
+  "id": "dr-peanut-assinatura-doctor-2026",
+  "affiliate": "dr-peanut",
+  "slot": "end",
+  "href": "https://www.drpeanut.com.br/",
+  "art": {
+    "kind": "tag",
+    "value": "20%"
+  },
+  "copy": {
+    "pt": {
+      "headline": "Assinatura Doctor da Dr. Peanut: até 20% OFF",
+      "text": "Campanha da própria Dr. Peanut. As condições aparecem no site da loja.",
+      "action": "Ver a campanha",
+      "tag": "ATÉ"
+    }
+  },
+  "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – até 20% OFF – Assinatura Doctor\"), lido no navegador em 04/11/2026",
+  "verifiedAt": "2026-11-04"
+}

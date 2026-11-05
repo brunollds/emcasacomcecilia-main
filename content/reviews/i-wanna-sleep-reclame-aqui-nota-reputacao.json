@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Os números da loja online da I Wanna Sleep no Reclame Aqui em 24/10/2026: reputação RA1000, nota 8,5 nos últimos 6 meses, 100% das reclamações respondidas e 90,6% resolvidas. Veja o que mais gera queixa e o que conferir antes de comprar.",
-  "metaDescription": "I Wanna Sleep no Reclame Aqui: reputação RA1000, nota 8,5 e 90,6% de reclamações resolvidas. Veja as queixas mais comuns antes de comprar (24/10/2026).",
+  "description": "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, nota 8,5 e 90,6% das reclamações resolvidas. Veja as queixas mais comuns antes de comprar.",
+  "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF nos elegíveis do site: reputação RA1000, nota 8,5 e 90,6% das reclamações resolvidas.",
   "publishedAt": "24 de outubro de 2026",
   "publishedAtISO": "2026-10-24",
   "draft": false,
@@ -123,12 +123,10 @@
   "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CECIEMCASA.",
   "relatedArticles": [
     {
-      "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-      "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+      "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
     },
     {
-      "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-      "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
+      "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
     }
   ]
 }

@@ -129,12 +129,10 @@
   "editorialNote": "依据 SHEIN 官方页面的规则。购物后我们可能获得佣金。",
   "relatedArticles": [
     {
-      "slug": "shein-trust-guide-zh-hans",
-      "title": "SHEIN 可靠吗？谁在运营、来自哪里，以及新加坡站购买前要确认的事"
+      "slug": "shein-trust-guide-zh-hans"
     },
     {
-      "slug": "shein-black-friday-zh-hans",
-      "title": "Black Friday SHEIN 2026（黑色星期五）：何时开始、何时结束，以及优惠券怎么用"
+      "slug": "shein-black-friday-zh-hans"
     }
   ]
 }

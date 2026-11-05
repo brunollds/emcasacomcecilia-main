@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN und Temu im Vergleich: Was die beiden Shops zu Versand, Lieferzeit und Rückgabe für Deutschland veröffentlichen, wie der EU-Zoll von 3 € pro Warenkategorie bei Sendungen von außerhalb der EU wirkt und was Sie vor dem Kauf prüfen sollten. Ohne Preisvergleich.",
+  "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben und wie Sie je nach Einkauf wählen. Temu hat die längste Rückgabefrist von allen.",
   "metaDescription": "SHEIN oder Temu? Versand, Lieferzeit und Rückgabe für Deutschland, EU-Zoll von 3 € und was Sie vor dem Kauf prüfen sollten.",
   "publishedAt": "13. Oktober 2026",
   "publishedAtISO": "2026-10-13",
@@ -162,16 +162,13 @@
   "editorialNote": "Dieser Artikel ist redaktionell. Über die Links zu SHEIN und Temu erhalten wir möglicherweise eine Provision.",
   "relatedArticles": [
     {
-      "slug": "ist-shein-serioes-und-sicher",
-      "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+      "slug": "ist-shein-serioes-und-sicher"
     },
     {
-      "slug": "shein-black-friday-termine-steuern",
-      "title": "Black Friday SHEIN 2026: Beginn, Ende und so funktionieren die Gutscheine"
+      "slug": "shein-black-friday-termine-steuern"
     },
     {
-      "slug": "shein-empfehlungscode-wo-eingeben",
-      "title": "SHEIN-Empfehlungscode: wo eingeben und wie er funktioniert"
+      "slug": "shein-empfehlungscode-wo-eingeben"
     }
   ],
   "decision": {

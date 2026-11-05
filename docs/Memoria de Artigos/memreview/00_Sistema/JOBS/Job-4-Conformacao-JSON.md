@@ -16,6 +16,7 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - `coupon`: o código que o leitor copia no dock e na sidebar (ex: `"CECI"`). O campo se chama `coupon`, mas o texto chama o código pelo nome que ele tem na loja: o `CECILIA010` da YesStyle é código de recompensa, nunca cupom (regras em `CONTRATOS-DE-CONTEUDO.md`).
    - `affiliate`: Slug do cupom correspondente em `src/lib/couponsData.ts`.
    - `editorialNote`: Texto de divulgação, com no máximo 3 linhas no celular e sem data.
+   - `metaDescription`: obrigatória em todo artigo em português com `coupon`. Vem do `meta_description` do briefing e segue a regra do Job 1 ("Snippet com o código"): código e % na 1ª frase, código até o caractere 100, até 155 caracteres, sem data, sem R$ e sem abrir com "Cupom <loja>".
 3. **Mídia, Imagens & Vídeos (Sub-etapa de Assets):**
    - A capa e as imagens do corpo chegam prontas do Job 6: aprovadas pelo Bruno, no CDN e verificadas, com caminhos, alts e legendas na seção "Capa e imagens" da nota. Sem esse registro o Job 4 não começa. Aqui elas só entram no JSON, com as regras abaixo; imagem nova que aparecer no Job 4 volta ao Job 6.
    - `image`: Caminho da imagem principal (Hero).
@@ -34,6 +35,7 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - Link para a página da loja é relativo e fica no idioma do artigo: `/cupons/<marca>` em português e `/<locale>/coupons/<marca>` nos outros idiomas (ex.: `/en/coupons/yesstyle`). O `npm run test:review-i18n` reprova link de loja em outro idioma.
    - Links externos de loja devem ter `"sponsored": true`.
 4b. **Resposta rápida:** a primeira seção (`Resposta rápida` e equivalentes nos idiomas) leva só `heading` e `paragraphs` com um item de 40 a 60 palavras; sem `bullets`, `postParagraphs`, `comparisonTable`, `couponTiers`, `emphasis`, `image` ou `images` (`REGRAS-GLOBAIS.md`, seção 6).
+4c. **Relacionados (`relatedArticles`):** cada item é só `{ "slug": "<slug>" }`, de um artigo publicado no mesmo idioma (rascunho não tem página). Sem `title`: a sidebar e a gaveta do celular mostram o título atual do artigo de destino. O `validate:content` barra o `title`, qualquer outro campo e o slug que não leva a um artigo publicado no idioma.
 5. **FAQ:** uma seção de `contentSections` com o título de FAQ do idioma e `bullets`, um por pergunta: a pergunta terminando em `?` (`？` em chinês e japonês) e a resposta logo depois, no mesmo item. Pergunta sem negrito: `Pergunta? resposta`, nunca `**Pergunta?** resposta` (o FAQ corta no primeiro `?` e os asteriscos aparecem no acordeão e no `FAQPage`; o `validate:content` barra). É essa seção que vira o `FAQPage` no schema da página.
 
    | Idioma | Título da seção |
@@ -65,27 +67,27 @@ A build confere estas regras; o resumo técnico também está no `CLAUDE.md`, em
 
    O `type` aparece no cabeçalho do artigo, nos cards da vitrine do idioma e nos relacionados, então vai no idioma da versão, com o sentido do PT e o termo que as famílias já usam (tabela abaixo). Igual ao PT só "Editorial" em `en` e `es`; em `ko`, `ja`, `zh-hant` e `zh-hans`, nunca em letras latinas. O `npm run test:review-i18n` reprova os dois casos. "Editorial" segue o selo do mesmo cabeçalho (`kindLabel.editorial` em `src/components/review/articleCopy.ts`), para os dois rótulos baterem. Rótulo novo: traduzir o sentido e acrescentar a coluna aqui.
 
-   | Idioma | Guia & Cupons | Editorial | Primeiras Impressões | Guia de Black Friday | Comparativo | Guia do Código de Indicação | Comparativo de Lojas | Guia de Entrega e Frete | Análise de Reputação |
-   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-   | en | Guide & Coupons | Editorial | First Impressions | Black Friday Guide | Comparison Guide | Referral Code Guide | Store Comparison | Shipping Guide | Reputation Analysis |
-   | es | Guía & Cupones | Editorial | Primeras Impresiones | Guía de Black Friday | Guía comparativa | Guía del código de referido | Comparativa de Tiendas | Guía de Envíos | Análisis de reputación |
-   | fr | Guide & Coupons | Éditorial | Premières impressions | Guide Black Friday | Guide comparatif | Guide du code de parrainage | Comparatif de boutiques | Guide de livraison | Analyse de réputation |
-   | de | Ratgeber & Gutscheine | Redaktionell | Erste Eindrücke | Black-Friday-Ratgeber | Vergleich | Empfehlungscode-Ratgeber | Shop-Vergleich | Versand-Ratgeber | Reputationsanalyse |
-   | it | Guida e coupon | Editoriale | Prime impressioni | Guida al Black Friday | Guida comparativa | Guida al codice invito | Confronto tra negozi | Guida alle spedizioni | Analisi della reputazione |
-   | ko | 가이드 & 쿠폰 | 에디토리얼 | 첫인상 리뷰 | 블랙프라이데이 가이드 | 비교 가이드 | 추천 코드 가이드 | 쇼핑몰 비교 | 배송 가이드 | 평판 분석 |
-   | ja | ガイド＆クーポン | エディトリアル | ファーストインプレッション | ブラックフライデーガイド | 比較ガイド | 紹介コードガイド | ショップ比較 | 配送ガイド | 評判分析 |
-   | zh-hant | 指南與優惠碼 | 編輯專題 | 初次使用心得 | 黑色星期五指南 | 比較指南 | 推薦碼指南 | 購物平台比較 | 運送指南 | 口碑分析 |
-   | zh-hans | 指南与优惠码 | 编辑专题 | 首次使用体验 | 黑色星期五指南 | 对比指南 | 推荐码指南 | 购物平台比较 | 运送指南 | 口碑分析 |
+   | Idioma | Guia & Cupons | Editorial | Primeiras Impressões | Guia de Black Friday | Comparativo | Guia do Código de Indicação | Comparativo de Lojas | Guia de Entrega e Frete | Análise de Reputação | Guia de Compra | Guia de Tamanho | Guia de Decisão |
+   | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+   | en | Guide & Coupons | Editorial | First Impressions | Black Friday Guide | Comparison Guide | Referral Code Guide | Store Comparison | Shipping Guide | Reputation Analysis | Buying Guide | Size Guide | Decision Guide |
+   | es | Guía & Cupones | Editorial | Primeras Impresiones | Guía de Black Friday | Guía comparativa | Guía del código de referido | Comparativa de Tiendas | Guía de Envíos | Análisis de reputación | Guía de compra | Guía de tallas | Guía de decisión |
+   | fr | Guide & Coupons | Éditorial | Premières impressions | Guide Black Friday | Guide comparatif | Guide du code de parrainage | Comparatif de boutiques | Guide de livraison | Analyse de réputation | Guide d'achat | Guide des tailles | Guide de décision |
+   | de | Ratgeber & Gutscheine | Redaktionell | Erste Eindrücke | Black-Friday-Ratgeber | Vergleich | Empfehlungscode-Ratgeber | Shop-Vergleich | Versand-Ratgeber | Reputationsanalyse | Kaufratgeber | Größenratgeber | Entscheidungsratgeber |
+   | it | Guida e coupon | Editoriale | Prime impressioni | Guida al Black Friday | Guida comparativa | Guida al codice invito | Confronto tra negozi | Guida alle spedizioni | Analisi della reputazione | Guida all'acquisto | Guida alle taglie | Guida alla decisione |
+   | ko | 가이드 & 쿠폰 | 에디토리얼 | 첫인상 리뷰 | 블랙프라이데이 가이드 | 비교 가이드 | 추천 코드 가이드 | 쇼핑몰 비교 | 배송 가이드 | 평판 분석 | 구매 가이드 | 사이즈 가이드 | 결정 가이드 |
+   | ja | ガイド＆クーポン | エディトリアル | ファーストインプレッション | ブラックフライデーガイド | 比較ガイド | 紹介コードガイド | ショップ比較 | 配送ガイド | 評判分析 | 購入ガイド | サイズガイド | 判断ガイド |
+   | zh-hant | 指南與優惠碼 | 編輯專題 | 初次使用心得 | 黑色星期五指南 | 比較指南 | 推薦碼指南 | 購物平台比較 | 運送指南 | 口碑分析 | 購買指南 | 尺碼指南 | 決策指南 |
+   | zh-hans | 指南与优惠码 | 编辑专题 | 首次使用体验 | 黑色星期五指南 | 对比指南 | 推荐码指南 | 购物平台比较 | 运送指南 | 口碑分析 | 购买指南 | 尺码指南 | 决策指南 |
 
 5. `slug` no idioma da versão em `en`, `es`, `fr`, `de` e `it`. Em `ko`, `ja`, `zh-hant` e `zh-hans`, slug em ASCII terminado no código do idioma (ex.: `abib-skincare-routine-30-ja`).
 6. Toda versão fora do português leva `hideFromPortugueseListings: true`. A vitrine em português também filtra pelo `locale`, mas a flag é o padrão das traduções e o `validate:content` a exige nas famílias registradas em `clusters/yesstyle.ts`.
-7. `relatedArticles` aponta para artigos do mesmo idioma.
+7. `relatedArticles` aponta para artigos do mesmo idioma, no formato do item 4c da seção 2.
 8. Modelo de família: `yesstyle-skincare-30` (publicada em 28/09/2026), a mais recente e a mais uniforme. As famílias mais antigas têm campos só em alguns idiomas; não copiar essa diferença.
 9. Atualizar a matriz da nota do cluster com a chave, o slug da fonte em português e a data.
 10. **Releitura das traduções, antes do `pronto-para-gates`.** A build confere a estrutura, não o texto. Reler cada uma das 9 versões ao lado do PT aprovado no Job 3, um idioma por vez, de preferência com outro agente (não o que traduziu), e conferir:
     - o sentido é o do PT: os mesmos claims, nada acrescentado sem fonte, nada cortado;
     - preço, moeda, frete, disponibilidade e campanha aparecem como fatos do mercado de origem, sem conversão;
-    - o código tem o nome do idioma (tabela em `CONTRATOS-DE-CONTEUDO.md`), e a SHEIN leva o aviso de que o código é da SHEIN Brasil;
+    - o código tem o nome do idioma (tabela em `CONTRATOS-DE-CONTEUDO.md`); na SHEIN, sem aviso de país e sem "SHEIN Brasil" (regra de 02/11);
     - o link do `cta` é o do idioma (item 3 desta seção): na SHEIN, nenhum link brasileiro fora do português;
     - a escrita está certa: caracteres tradicionais em `zh-hant`, simplificados em `zh-hans`, nenhuma palavra ou frase ficou em português, e o `type` é o da tabela do item 4;
     - o FAQ segue o item 5 da seção 2, o `publishedAt` está no formato do idioma e o `editorialNote` tem até 3 linhas;

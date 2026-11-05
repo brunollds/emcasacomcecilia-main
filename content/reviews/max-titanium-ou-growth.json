@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Max Titanium ou Growth? O whey, a creatina e o hipercalórico das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, preço por 1.000 kcal, com e sem o cupom MAX10EMCASACOMCECILIA.",
-  "metaDescription": "Max Titanium ou Growth: whey, creatina e hipercalórico comparados por 100 g de proteína, por grama de creatina e por 1.000 kcal, com o cupom da Max e os preços de 18/10/2026.",
+  "description": "Pelo preço no cartão, a Growth sai mais barata no whey concentrado e na creatina, e a Max no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
+  "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína e por 1.000 kcal.",
   "publishedAt": "18 de outubro de 2026",
   "publishedAtISO": "2026-10-18",
   "draft": false,
@@ -353,7 +353,7 @@
         ]
       },
       "postParagraphs": [
-        "O cupom vale com todas as formas de pagamento e soma com as promoções do site. No teste do cupom de 14/10, um Top Whey 3W Mais Sabor 900 g, por R$ 189,00 naquele dia, teve R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na [página do cupom da Max Titanium](/cupons/max-titanium).",
+        "O cupom vale com todas as formas de pagamento e soma com as promoções do site. No teste do cupom de 14/10, um Top Whey 3W Mais Sabor 900 g, por R$ 189,00 naquele dia, teve R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na página do [cupom Max Titanium](/cupons/max-titanium).",
         "Os valores de frete são os do dia da leitura dos preços. O frete grátis é calculado no carrinho. Preço e estoque mudam: confira no carrinho."
       ]
     },
@@ -409,16 +409,13 @@
   "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Growth não é parceira. Não provamos os produtos.",
   "relatedArticles": [
     {
-      "slug": "max-titanium-ou-probiotica",
-      "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      "slug": "max-titanium-ou-probiotica"
     },
     {
-      "slug": "black-skull-ou-max-titanium",
-      "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      "slug": "black-skull-ou-max-titanium"
     },
     {
-      "slug": "cupom-max-titanium-como-usar",
-      "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+      "slug": "cupom-max-titanium-como-usar"
     }
   ]
 }

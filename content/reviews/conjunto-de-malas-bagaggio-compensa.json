@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "Conjunto de malas Bagaggio compensa? Somamos as peças avulsas de 32 conjuntos em 29/10/2026: 24 custam a soma exata. Veja quais têm desconto real e quanto.",
-  "metaDescription": "Conjunto de malas Bagaggio: dos 32 conferidos em 29/10/2026, 24 custam a soma das peças avulsas. Veja os 6 com desconto real e estoque, e o cupom CECILIA10.",
+  "metaDescription": "Com o CECILIA10, 10% OFF nos conjuntos de malas Bagaggio: dos 32 conferidos, 24 custam a soma das peças avulsas. Veja os 6 com desconto real.",
   "publishedAt": "29 de outubro de 2026",
   "publishedAtISO": "2026-10-29",
   "draft": false,
@@ -236,20 +236,16 @@
   "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
-      "slug": "black-friday-bagaggio",
-      "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+      "slug": "black-friday-bagaggio"
     },
     {
-      "slug": "mala-policarbonato-ou-abs-bagaggio",
-      "title": "Mala de policarbonato ou ABS na Bagaggio: vale pagar mais?"
+      "slug": "mala-policarbonato-ou-abs-bagaggio"
     },
     {
-      "slug": "cupom-bagaggio-como-usar",
-      "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+      "slug": "cupom-bagaggio-como-usar"
     },
     {
-      "slug": "bagaggio-garantia-vitalicia",
-      "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      "slug": "bagaggio-garantia-vitalicia"
     }
   ]
 }

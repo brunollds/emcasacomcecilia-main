@@ -34,11 +34,11 @@ export async function generateMetadata({ params }: ReviewHubPageProps): Promise<
 
   return {
     title,
-    description: copy.description,
+    description: copy.metaDescription,
     alternates: { canonical: pathname },
     openGraph: {
       title,
-      description: copy.description,
+      description: copy.metaDescription,
       url: pathname,
       locale: LOCALES[locale].openGraphLocale,
       type: 'website',

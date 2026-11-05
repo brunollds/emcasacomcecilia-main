@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Mais Mu ou Dux? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, Creapure, Pix, frete e o cupom MMEMCASACOMCECILIA da Mais Mu. Preços de 21/10/2026.",
-  "metaDescription": "Mais Mu ou Dux: whey e creatina por 100 g de proteína e de creatina, com cupom, Pix, Creapure e frete. Preços de 21/10/2026.",
+  "description": "Pelo preço no cartão, a Mais Mu sai mais barata no whey e na creatina, e a Dux leva o Pix de 5% e a única Creapure declarada. Veja as tabelas e quem escolhe o quê.",
+  "metaDescription": "Mais Mu ou Dux: whey e creatina por 100 g de proteína e de creatina, com o cupom MMEMCASACOMCECILIA de 10% OFF na Mais Mu.",
   "publishedAt": "21 de outubro de 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -359,16 +359,13 @@
   "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Mais Mu; a Dux não é parceira. Não provamos os produtos.",
   "relatedArticles": [
     {
-      "slug": "mais-mu-ou-growth",
-      "title": "Mais Mu ou Growth: qual whey e qual creatina compensam pelo rótulo, dose e preço"
+      "slug": "mais-mu-ou-growth"
     },
     {
-      "slug": "probiotica-ou-dux",
-      "title": "Probiótica ou Dux: whey e creatina comparados por dose, proteína e preço"
+      "slug": "probiotica-ou-dux"
     },
     {
-      "slug": "cupom-mais-mu-como-usar",
-      "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+      "slug": "cupom-mais-mu-como-usar"
     }
   ]
 }

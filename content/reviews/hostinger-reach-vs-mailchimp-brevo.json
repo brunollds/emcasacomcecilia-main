@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Reach is worth it for anyone with a Hostinger site and a list of up to 1,000 recipients; bigger lists go to Mailchimp or Brevo. Global prices in US dollars on October 30, 2026, with renewal.",
+  "description": "Reach is worth it if you already have a Hostinger site and a list of up to 1,000 recipients; bigger lists fit Mailchimp or Brevo better. See how it compares with their free plans.",
   "metaDescription": "Is Hostinger Reach worth it? Chart by profile, plans, sending limits, WhatsApp and renewal in US dollars on October 30, 2026, compared with the free plans of Mailchimp and Brevo.",
   "publishedAt": "October 30, 2026",
   "publishedAtISO": "2026-10-30",
@@ -206,7 +206,8 @@
         "Does Hostinger Reach have WhatsApp? Yes, only in the Pro plan. The page does not show the cost per message; check the dashboard.",
         "What is Reach 500? It is the name Grow takes in the Hostinger cart, after its limit of 500 recipients. It sends 3,500 emails a month.",
         "Hostinger Reach or Mailchimp? For a list of up to 1,000 recipients and a Hostinger site, Reach. To start for free, or for a list above 1,000 contacts, Mailchimp or Brevo.",
-        "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods it was not tested; check the cart."
+        "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods it was not tested; check the cart.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
     {
@@ -229,16 +230,13 @@
   "editorialNote": "Purchases made with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. Nobody on the team has used Reach.",
   "relatedArticles": [
     {
-      "slug": "hostinger-coupon-code-referral",
-      "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+      "slug": "hostinger-coupon-code-referral"
     },
     {
-      "slug": "is-hostinger-legit",
-      "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      "slug": "is-hostinger-legit"
     },
     {
-      "slug": "hostinger-domain-buy-transfer-or-elsewhere",
-      "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Renewal and what to check"
+      "slug": "hostinger-domain-buy-transfer-or-elsewhere"
     }
   ],
   "decision": {

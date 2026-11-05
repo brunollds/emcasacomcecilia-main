@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Domínio na Hostinger: os três caminhos (comprar ali, comprar fora e apontar, transferir), o preço de registro e de renovação do .com.br e do .com em 28/10/2026 e o que checar antes de pagar.",
+  "description": "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador. Veja os três caminhos, o preço de renovação e o que checar antes de pagar.",
   "metaDescription": "Comprar o domínio na Hostinger, registrar fora e apontar, ou transferir? Preço do .com.br e do .com com a renovação ao lado, regra dos 60 dias, quem é o dono e a checklist antes de pagar.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
@@ -186,7 +186,7 @@
         "Compre na conta que vai ser sua, com um e-mail seu e a renovação automática ligada.",
         "Para .com.br, confira o caminho próprio da transferência do .br no suporte da Hostinger antes de comprar, se a ideia é sair um dia.",
         "Se o domínio veio com o plano de hospedagem, anote o preço de renovação do segundo ano: ele aparece antes de comprar.",
-        "O SONAR20 dá 20% no plano de hospedagem; no domínio avulso, confira no carrinho se o desconto aparece antes de pagar."
+        "O SONAR20 dá 20% no plano de hospedagem; no domínio avulso, o código não vale."
       ]
     },
     {
@@ -202,7 +202,7 @@
     {
       "heading": "Cupom SONAR20 e preço",
       "paragraphs": [
-        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. No domínio avulso, o que vale é o que aparecer no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
+        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. No domínio avulso, o código não vale. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
       ]
     },
     {
@@ -212,7 +212,8 @@
         "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro.",
         "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
         "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
-        "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso."
+        "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso.",
+        "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
     },
     {
@@ -236,7 +237,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho. Confira o domínio no carrinho antes de pagar.",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. No domínio avulso, o código não vale.",
     "label": "Ver os planos com o SONAR20",
     "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -246,16 +247,13 @@
   "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você.",
   "relatedArticles": [
     {
-      "slug": "hostinger-e-confiavel",
-      "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      "slug": "hostinger-e-confiavel"
     },
     {
-      "slug": "cupom-hostinger-indicacao",
-      "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+      "slug": "cupom-hostinger-indicacao"
     },
     {
-      "slug": "black-friday-hostinger",
-      "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
+      "slug": "black-friday-hostinger"
     }
   ]
 }

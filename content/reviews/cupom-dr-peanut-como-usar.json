@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Como usar o cupom DREMCASACOMCECILIA na Dr. Peanut e ganhar 10% OFF em todo o site: passo a passo no carrinho, produto em promoção, todas as formas de pagamento, frete grátis por região e o que fazer se precisar trocar.",
-  "metaDescription": "Cupom Dr. Peanut DREMCASACOMCECILIA: 10% OFF em todo o site, testado no carrinho. Veja o passo a passo, o frete grátis por região e as regras de troca.",
+  "description": "O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, em qualquer forma de pagamento. Veja o passo a passo no carrinho, o frete grátis por região e como trocar.",
+  "metaDescription": "O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado no carrinho. Veja o passo a passo, o frete grátis por região e as trocas.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
   "draft": false,
@@ -188,12 +188,10 @@
   "editorialNote": "Cupom testado num pedido real. Podemos receber comissão pelo DREMCASACOMCECILIA.",
   "relatedArticles": [
     {
-      "slug": "dr-peanut-e-confiavel",
-      "title": "Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete"
+      "slug": "dr-peanut-e-confiavel"
     },
     {
-      "slug": "dr-peanut-reclame-aqui-nota-reputacao",
-      "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "dr-peanut-reclame-aqui-nota-reputacao"
     }
   ]
 }

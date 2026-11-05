@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A louça Porto Brasil é cerâmica, em stoneware e faiança: o que a ficha de cada produto libera no micro-ondas, na lava-louças, no forno e no freezer, as exceções, a garantia, a nota no Reclame Aqui e a comparação com a Oxford.",
-  "metaDescription": "Porto Brasil é cerâmica ou porcelana? O que vai ao micro-ondas, à lava-louças e ao forno, as exceções, garantia, Reclame Aqui e Porto Brasil ou Oxford.",
+  "description": "A louça Porto Brasil é boa? É cerâmica, não porcelana: veja o que a ficha libera no forno, no micro-ondas e na lava-louças, a garantia, o Reclame Aqui e a comparação com a Oxford.",
+  "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Porto Brasil é cerâmica, não porcelana: o que vai ao micro-ondas, à lava-louças e ao forno, e a garantia.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
   "draft": false,
@@ -202,16 +202,13 @@
   "editorialNote": "Podemos receber comissão da Let's Eat It. Sem teste próprio: dados da fabricante.",
   "relatedArticles": [
     {
-      "slug": "black-friday-letseatit",
-      "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      "slug": "black-friday-letseatit"
     },
     {
-      "slug": "lets-eat-it-e-confiavel",
-      "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      "slug": "lets-eat-it-e-confiavel"
     },
     {
-      "slug": "le-creuset-vale-a-pena",
-      "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+      "slug": "le-creuset-vale-a-pena"
     }
   ]
 }

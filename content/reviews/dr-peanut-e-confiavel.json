@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "O que conferimos sobre a Dr. Peanut em 14/10/2026: CNPJ ativo desde 2017, fábrica em Curitiba ligada ao grupo Supley, site oficial, regras de troca e de frete grátis por região e a reputação no Reclame Aqui.",
-  "metaDescription": "A Dr. Peanut é confiável? Veja o CNPJ, de quem é a marca, o site oficial, as regras de troca, o frete grátis por região e o Reclame Aqui (14/10/2026).",
+  "description": "Sim, a Dr. Peanut é confiável: marca de Curitiba com CNPJ ativo e site oficial, ligada ao grupo Supley. Veja as regras de frete grátis por região e a reputação.",
+  "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. A marca é confiável? Veja o CNPJ, de quem ela é, as regras de troca, o frete e o Reclame Aqui.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
   "draft": false,
@@ -230,12 +230,10 @@
   "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo DREMCASACOMCECILIA.",
   "relatedArticles": [
     {
-      "slug": "dr-peanut-reclame-aqui-nota-reputacao",
-      "title": "Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "dr-peanut-reclame-aqui-nota-reputacao"
     },
     {
-      "slug": "cupom-dr-peanut-como-usar",
-      "title": "Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site"
+      "slug": "cupom-dr-peanut-como-usar"
     }
   ]
 }

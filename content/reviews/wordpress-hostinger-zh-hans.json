@@ -148,7 +148,7 @@
     {
       "heading": "SONAR20 优惠码与价格",
       "paragraphs": [
-        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。我们没有在 WordPress 套餐上测试 SONAR20，请在付款前到购物车确认价格。首个周期之后，按续费价计算。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。SONAR20 适用于 WordPress 套餐，请在付款前到购物车确认价格。首个周期之后，按续费价计算，没有 SONAR20 的 20% 折扣。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
       ]
     },
     {
@@ -165,8 +165,9 @@
         "Hostinger 上最便宜的 WordPress 套餐是哪个？是 Premium：48 个月预付每月 US$ 2.49，总价 US$ 119.52，最多 3 个网站。续费为每月 US$ 10.99。",
         "Hostinger 会预装 WordPress 吗？在主机面板里安装，不需要手动下载文件。步骤见上面的清单。",
         "网店适合哪个 WordPress 套餐？Unlimited：网站不限，每日备份。流量非常大的网店可以看 Cloud Startup。",
-        "SONAR20 能用于 WordPress 套餐吗？我们没有测试。请在购物车确认价格。如果可用，20% 只适用于首个周期。",
-        "续费价和促销价一样吗？不一样。第一个 48 个月周期结束后，按续费价计算：Premium 为每月 US$ 10.99。"
+        "SONAR20 能用于 WordPress 套餐吗？能。请在购物车确认价格。20% 适用于首个周期；续费按标价收费，没有折扣。",
+        "续费价和促销价一样吗？不一样。第一个 48 个月周期结束后，按续费价计算：Premium 为每月 US$ 10.99。",
+        "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
       ]
     },
     {
@@ -179,7 +180,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。WordPress 套餐我们没有测试，请在购物车确认价格。",
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。WordPress 套餐也适用，请在购物车确认价格。",
     "label": "通过 SONAR20 查看 WordPress 套餐",
     "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -189,16 +190,13 @@
   "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人在 Hostinger 上用过 WordPress。",
   "relatedArticles": [
     {
-      "slug": "hostinger-ai-builder-zh-hans",
-      "title": "Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？"
+      "slug": "hostinger-ai-builder-zh-hans"
     },
     {
-      "slug": "hostinger-referral-code-zh-hans",
-      "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+      "slug": "hostinger-referral-code-zh-hans"
     },
     {
-      "slug": "hostinger-domain-zh-hans",
-      "title": "Hostinger 域名：在这里买、转入，还是在别处注册？续费与下单前要确认什么"
+      "slug": "hostinger-domain-zh-hans"
     }
   ],
   "hideFromPortugueseListings": true,

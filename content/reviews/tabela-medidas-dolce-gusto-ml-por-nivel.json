@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Tabela de referência construída a partir dos manuais da Genio S Touch e da Mini Me 2.0, com fotos da tabela impressa na embalagem: inclui cafés, lattes, bebidas em duas etapas e XL.",
-  "metaDescription": "Quantos ml tem cada risco (traço ou barra) da Dolce Gusto, do 1 ao 7 e no XL, segundo os manuais da Genio S Touch e da Mini Me, com a tabela da caixa.",
+  "description": "Tabela de referência de quantos ml saem em cada nível da Dolce Gusto, do 1 ao 7 e no XL, feita com os manuais da Genio S Touch e da Mini Me 2.0 e a tabela da caixa.",
+  "metaDescription": "Tabela de medidas Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: quantos ml saem em cada nível, do 1 ao 7 e no XL.",
   "publishedAt": "2 de agosto de 2026",
   "publishedAtISO": "2026-08-02",
   "draft": false,
@@ -143,16 +143,13 @@
   "editorialNote": "Compilação editorial dos manuais, sem tabela oficial. O CECI vem de parceria comercial.",
   "relatedArticles": [
     {
-      "slug": "dolce-gusto-genio-s-touch-vale-a-pena",
-      "title": "Dolce Gusto Genio S Touch vale a pena? Review após o primeiro uso"
+      "slug": "dolce-gusto-genio-s-touch-vale-a-pena"
     },
     {
-      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-      "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
     },
     {
-      "slug": "dolce-gusto-e-confiavel",
-      "title": "Dolce Gusto é confiável? O que observar antes de comprar"
+      "slug": "dolce-gusto-e-confiavel"
     }
   ],
   "image": "/images/reviews/dolcegusto/tabela-medidas-dolce-gusto-ml-por-nivel-capa-discover.webp",

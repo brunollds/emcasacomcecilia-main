@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Diet, zero açúcar e sem açúcar não são a mesma coisa, e sem açúcar não quer dizer pouco carboidrato. Veja o que ler no rótulo, com seis doces da Belive como exemplo.",
-  "metaDescription": "Doces sem açúcar para diabéticos: o que olhar no rótulo, a diferença entre diet, zero e sem adição de açúcar e o carboidrato de seis doces da Belive.",
+  "metaDescription": "Doces sem açúcar para diabéticos, com o cupom MAUAD de 10% OFF na Belive: o que olhar no rótulo e a diferença entre diet, zero e sem adição de açúcar.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
   "draft": false,
@@ -281,16 +281,13 @@
   "editorialNote": "Rótulos e preços lidos no site oficial da Belive. O texto mostra o que o rótulo informa e não indica quantidade para ninguém. Podemos receber comissão pelo cupom MAUAD.",
   "relatedArticles": [
     {
-      "slug": "brownie-sem-acucar-belive",
-      "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      "slug": "brownie-sem-acucar-belive"
     },
     {
-      "slug": "bolinho-sem-acucar-belive-ou-suavipan",
-      "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+      "slug": "bolinho-sem-acucar-belive-ou-suavipan"
     },
     {
-      "slug": "pao-de-mel-sem-acucar-belive",
-      "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+      "slug": "pao-de-mel-sem-acucar-belive"
     }
   ]
 }

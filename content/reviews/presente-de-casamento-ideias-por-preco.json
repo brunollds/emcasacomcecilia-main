@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Ideias de presente de casamento em quatro faixas de preço, até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima, com aparelho de jantar Porto Brasil, Le Creuset, taças Bohemia e faqueiros, e o que a ficha de cada peça diz.",
-  "metaDescription": "Presente de casamento por faixa de preço: Le Creuset, Porto Brasil, taças Bohemia e faqueiros de até R$ 300 a mais de R$ 1.500, com preços de 20/10/2026.",
+  "description": "Não existe valor certo para um presente de casamento. Veja ideias da Let's Eat It em quatro faixas de preço, de taças a Le Creuset, e como escolher pelo que o casal já tem.",
+  "metaDescription": "Presente de casamento com o cupom MAUAD de 5% OFF: ideias de Le Creuset, Porto Brasil, taças Bohemia e faqueiros em quatro faixas de preço.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "draft": false,
@@ -334,16 +334,13 @@
   "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estes produtos.",
   "relatedArticles": [
     {
-      "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-      "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
     },
     {
-      "slug": "le-creuset-vale-a-pena",
-      "title": "Le Creuset vale a pena? Indução, forno, lava-louças e queimado, e a comparação com Staub"
+      "slug": "le-creuset-vale-a-pena"
     },
     {
-      "slug": "porto-brasil-e-boa",
-      "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+      "slug": "porto-brasil-e-boa"
     }
   ],
   "decision": {

@@ -155,7 +155,7 @@
     {
       "heading": "Codice SONAR20",
       "paragraphs": [
-        "Usa il codice **SONAR20** nel campo codice sconto del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già attivi. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito). Controlla il prezzo nel carrello prima di pagare."
+        "Usa il codice **SONAR20** nel campo codice sconto del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già attivi. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito). Controlla il prezzo nel carrello prima di pagare."
       ]
     },
     {
@@ -179,7 +179,8 @@
         "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
         "Serve una chiave API? Sì. Sul gestito e sul VPS, la pagina di Paperclip chiede di portare le proprie. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
         "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
-        "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. Non abbiamo testato il rinnovo; controlla il prezzo nel carrello."
+        "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
     {
@@ -192,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
     "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -202,16 +203,13 @@
   "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi extra per te. Nessuno della squadra usa Paperclip.",
   "relatedArticles": [
     {
-      "slug": "openclaw-o-hermes-agent-quale-scegliere",
-      "title": "OpenClaw o Hermes Agent: quale scegliere e come farli girare su Hostinger"
+      "slug": "openclaw-o-hermes-agent-quale-scegliere"
     },
     {
-      "slug": "openclaw-hostinger-gestito-o-vps",
-      "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi è adatto"
+      "slug": "openclaw-hostinger-gestito-o-vps"
     },
     {
-      "slug": "coupon-hostinger-codice-invito",
-      "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+      "slug": "coupon-hostinger-codice-invito"
     }
   ],
   "hideFromPortugueseListings": true,

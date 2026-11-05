@@ -1,0 +1,21 @@
+{
+  "id": "black-skull-black-friday-2026",
+  "affiliate": "black-skull",
+  "slot": "top",
+  "href": "https://www.blackskullusa.com.br/blackfriday2026",
+  "art": {
+    "kind": "tag",
+    "value": "25%"
+  },
+  "endsAt": "2026-11-30T23:59:59-03:00",
+  "copy": {
+    "pt": {
+      "headline": "Black Friday da Black Skull: até 25% OFF progressivo",
+      "text": "Campanha da própria Black Skull. O desconto sobe com o número de produtos da página da campanha; as condições aparecem no site da loja.",
+      "action": "Ver a campanha",
+      "tag": "ATÉ"
+    }
+  },
+  "source": "Páginas /blackfriday2026 (\"2 produtos = 15%, 3 produtos = 20%, 4 ou mais produtos = 25%\") e /black-friday (\"durante todo o mês\") de blackskullusa.com.br (04/11/2026)",
+  "verifiedAt": "2026-11-04"
+}

@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Como ganhar ou comprar a Mini Me da Dolce Gusto: combos com máquina, combo Mini Me 2.0 com 20 caixas por R$ 797,00 e a máquina avulsa por R$ 419,90. Veja a conta e o cupom CECI.",
-  "metaDescription": "Mini Me Dolce Gusto: combos com máquina, combo com 20 caixas (R$ 797,00) e avulsa (R$ 419,90). Veja quando compensa e o cupom CECI.",
+  "metaDescription": "Mini Me Dolce Gusto com o cupom CECI e 10% OFF: os combos com máquina, o combo com 20 caixas e a avulsa, e quando cada um compensa.",
   "publishedAt": "29 Jun 2026",
   "publishedAtISO": "2026-06-29",
   "draft": false,
@@ -138,12 +138,10 @@
   "editorialNote": "Cupom CECI é parceria comercial. Regras e preços vêm da loja oficial.",
   "relatedArticles": [
     {
-      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-      "title": "Cupom CECI NESCAFÉ Dolce Gusto: como usar o desconto"
+      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
     },
     {
-      "slug": "clube-dolce-gusto-como-funciona",
-      "title": "Clube Dolce Gusto: pontos e prêmios"
+      "slug": "clube-dolce-gusto-como-funciona"
     }
   ]
 }

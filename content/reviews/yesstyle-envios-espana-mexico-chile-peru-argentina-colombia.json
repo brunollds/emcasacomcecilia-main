@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Lo que YesStyle publica sobre plazos de entrega, envío gratis, impuestos, devoluciones y pago en España, México, Chile, Perú, Argentina y Colombia, y cómo pedir el reembolso de las tasas de aduana.",
+  "description": "YesStyle envía a España, México, Chile, Perú, Argentina y Colombia, con envío gratis a partir de un mínimo según el país. Mira la tabla de plazos y el capítulo de impuestos.",
   "metaDescription": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos y envío gratis según la tabla de la tienda del 13 de octubre de 2026, e impuestos.",
   "publishedAt": "13 de octubre de 2026",
   "publishedAtISO": "2026-10-13",
@@ -250,16 +250,13 @@
   "editorialNote": "Reglas de las páginas oficiales de YesStyle. Podemos recibir comisión por las compras.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-o-stylevana-cual-elegir",
-      "title": "YesStyle o Stylevana: envíos, impuestos y devoluciones lado a lado, con Olive Young, StyleKorean y Jolse"
+      "slug": "yesstyle-o-stylevana-cual-elegir"
     },
     {
-      "slug": "es-yesstyle-de-fiar-y-seguro",
-      "title": "¿YesStyle es confiable y seguro? Quién la opera, de dónde es y envíos"
+      "slug": "es-yesstyle-de-fiar-y-seguro"
     },
     {
-      "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-      "title": "YesStyle CECILIA010: código de recompensa"
+      "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
     }
   ]
 }

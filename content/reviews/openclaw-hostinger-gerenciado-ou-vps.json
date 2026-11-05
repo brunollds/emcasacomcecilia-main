@@ -31,7 +31,7 @@
     }
   ],
   "description": "OpenClaw na Hostinger: o gerenciado sai mais barato no primeiro período, e o VPS dá root e Docker. Preços de 21/10/2026 e para quem é cada um.",
-  "metaDescription": "Gerenciado ou VPS para o OpenClaw na Hostinger: preço com e sem o SONAR20, renovação, créditos de IA, Telegram e WhatsApp e quem cuida do servidor.",
+  "metaDescription": "OpenClaw na Hostinger com o SONAR20 e 20% OFF: gerenciado ou VPS, o preço com e sem o código, a renovação, os créditos de IA e quem cuida do servidor.",
   "publishedAt": "21 de outubro de 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -188,7 +188,7 @@
     {
       "heading": "Cupom SONAR20 e preço",
       "paragraphs": [
-        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Não testamos a renovação; confira o preço no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao).",
+        "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao).",
         "Preços de planos de 24 meses, lidos em 21/10/2026:"
       ],
       "comparisonTable": {
@@ -241,8 +241,9 @@
         "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
         "Precisa de conta na OpenAI ou na Anthropic? Não. Nas duas opções dá para usar os créditos de IA da Hostinger. A conta no provedor só é preciso se você preferir a sua própria chave.",
         "Tem cupom de desconto da Hostinger para o OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período.",
-        "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. Não testamos a renovação com o SONAR20; confira o preço no carrinho.",
-        "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave."
+        "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. A renovação sai sem os 20%: R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2.",
+        "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave.",
+        "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
     },
     {
@@ -266,7 +267,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Não testamos a renovação; confira o preço no carrinho.",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
     "label": "Ver os planos com o SONAR20",
     "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -276,16 +277,13 @@
   "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno, sem custo extra para você. Ninguém da equipe usa o OpenClaw.",
   "relatedArticles": [
     {
-      "slug": "cupom-hostinger-indicacao",
-      "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+      "slug": "cupom-hostinger-indicacao"
     },
     {
-      "slug": "hostinger-e-confiavel",
-      "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+      "slug": "hostinger-e-confiavel"
     },
     {
-      "slug": "black-friday-hostinger",
-      "title": "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"
+      "slug": "black-friday-hostinger"
     }
   ]
 }

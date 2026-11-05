@@ -41,7 +41,28 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-02"
   },
   {
-    "id": "clea-store-black-friday-2026",
+    "id": "black-skull-black-friday-2026",
+    "affiliate": "black-skull",
+    "slot": "top",
+    "href": "https://www.blackskullusa.com.br/blackfriday2026",
+    "art": {
+      "kind": "tag",
+      "value": "25%"
+    },
+    "endsAt": "2026-11-30T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Black Skull: até 25% OFF progressivo",
+        "text": "Campanha da própria Black Skull. O desconto sobe com o número de produtos da página da campanha; as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Páginas /blackfriday2026 (\"2 produtos = 15%, 3 produtos = 20%, 4 ou mais produtos = 25%\") e /black-friday (\"durante todo o mês\") de blackskullusa.com.br (04/11/2026)",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "clea-store-black-30-2026",
     "affiliate": "clea-store",
     "slot": "top",
     "href": "https://www.cleastore.com.br/",
@@ -55,8 +76,8 @@ export const storeBannersData: StoreBanner[] = [
         "action": "Ver a campanha"
       }
     },
-    "source": "Banner do topo de cleastore.com.br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Home e /black-friday de cleastore.com.br (\"30% OFF em todo o site\", kits de t-shirts por R$ 199,00), lidas no navegador em 05/11/2026, sem contador nem data de fim",
+    "verifiedAt": "2026-11-05"
   },
   {
     "id": "damie-esquenta-black-2026",
@@ -96,6 +117,116 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-02"
   },
   {
+    "id": "dolce-gusto-black-friday-2026",
+    "affiliate": "dolce-gusto",
+    "slot": "top",
+    "href": "https://www.nescafe-dolcegusto.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Dolce Gusto: ofertas novas todos os dias",
+        "text": "Campanha da própria Dolce Gusto. As ofertas mudam sem aviso e as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Home de nescafe-dolcegusto.com.br (\"Começou a Black\") e artigo black-friday-dolce-gusto, revisado com a campanha (03/11/2026)",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "dolce-gusto-maquinas-30-capsulas",
+    "affiliate": "dolce-gusto",
+    "slot": "mid",
+    "href": "https://www.nescafe-dolcegusto.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Mini Me 2.0 e Genio S com 30 cápsulas na Black Friday",
+        "text": "Campanha da própria Dolce Gusto, com 10 vezes sem juros. As condições aparecem no site da loja.",
+        "action": "Ver as máquinas"
+      }
+    },
+    "source": "Banners da Black Friday em nescafe-dolcegusto.com.br e artigo black-friday-dolce-gusto (03/11/2026)",
+    "verifiedAt": "2026-11-03"
+  },
+  {
+    "id": "dr-peanut-assinatura-doctor-2026",
+    "affiliate": "dr-peanut",
+    "slot": "end",
+    "href": "https://www.drpeanut.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "20%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Assinatura Doctor da Dr. Peanut: até 20% OFF",
+        "text": "Campanha da própria Dr. Peanut. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – até 20% OFF – Assinatura Doctor\"), lido no navegador em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "dr-peanut-comprou-ganhou-2026",
+    "affiliate": "dr-peanut",
+    "slot": "mid",
+    "href": "https://www.drpeanut.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Comprou, ganhou na Dr. Peanut: 3 alfajores na compra de pasta de 600 g",
+        "text": "Campanha da própria Dr. Peanut, para pastas de 600 g de qualquer sabor e enquanto durar o estoque. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Carrossel da home de drpeanut.com.br (\"Comprou, ganhou – 3 alfajores em compras de Dr. Peanut 600 g\"), lido no navegador em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "dr-peanut-leve-8-pague-5-2026",
+    "affiliate": "dr-peanut",
+    "slot": "top",
+    "href": "https://www.drpeanut.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Doctor November da Dr. Peanut: leve 8, pague 5 e ganhe brindes",
+        "text": "Campanha da própria Dr. Peanut. Os brindes variam conforme o estoque; as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Carrossel da home de drpeanut.com.br (\"Doctor November – Leve 8 Pague 5 – Brindes: 1 alfajor + 1 wafer + 1 pasta\"), lido no navegador em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "holyfoods-black-2026",
+    "affiliate": "holyfoods",
+    "slot": "top",
+    "href": "https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black da Holy: 30% OFF no site todo",
+        "text": "Campanha da própria HolyFoods. O desconto já vem aplicado nos preços; as condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Home de holyfoods.com.br (\"Black da Holy: 30% OFF no site todo\", \"30% OFF já aplicado nos preços\", sem prazo), lida no navegador em 05/11/2026; campanha informada pelo Bruno",
+    "verifiedAt": "2026-11-05"
+  },
+  {
     "id": "hostinger-black-friday-2026",
     "affiliate": "hostinger",
     "slot": "top",
@@ -104,6 +235,7 @@ export const storeBannersData: StoreBanner[] = [
       "kind": "tag",
       "value": "82%"
     },
+    "endsAt": "2026-12-14T23:59:59-03:00",
     "copy": {
       "pt": {
         "headline": "Black Friday da Hostinger: até 82% OFF",
@@ -166,8 +298,26 @@ export const storeBannersData: StoreBanner[] = [
         "tag": "最高"
       }
     },
-    "source": "Banner da home de hostinger.com e hostinger.com/br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Página hostinger.com/br/black-friday: \"A promoção Black Friday da Hostinger acontece de 19 de outubro a 14 de dezembro de 2026\" (04/11/2026)",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "insider-black-99-2026",
+    "affiliate": "insider",
+    "slot": "end",
+    "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black 99 na Insider: best sellers por R$ 99",
+        "text": "Campanha da própria Insider. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Página /collections/ate-99 (\"Black 99\", \"Best sellers por R$99\") de insiderstore.com.br (navegador, 04/11/2026)",
+    "verifiedAt": "2026-11-04"
   },
   {
     "id": "insider-black-friday-2026",
@@ -176,18 +326,232 @@ export const storeBannersData: StoreBanner[] = [
     "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
     "art": {
       "kind": "tag",
-      "value": "40%"
+      "value": "50%"
     },
     "copy": {
       "pt": {
-        "headline": "Black Friday da Insider: até 40% OFF e 50% OFF na 2ª peça",
-        "text": "Campanha da própria Insider. As condições aparecem no site da loja.",
+        "headline": "Black Friday da Insider: até 50% OFF em itens selecionados",
+        "text": "Campanha da própria Insider. O até 50% vale só para itens selecionados; as condições aparecem no site da loja.",
         "action": "Ver a campanha",
         "tag": "ATÉ"
       }
     },
-    "source": "Página /black-friday-insider e menu BLACK de insiderstore.com.br (conferido em 02/11/2026)",
-    "verifiedAt": "2026-11-02"
+    "source": "Banner da home de insiderstore.com.br (\"Black Friday – até 50% OFF + frete grátis\") e rodapé legal \"itens selecionados\", lidos no navegador em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "insider-combine-e-ganhe-2026",
+    "affiliate": "insider",
+    "slot": "mid",
+    "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Combine & Ganhe na Insider: leve 3 e o de menor valor sai grátis",
+        "text": "Campanha da própria Insider, nos produtos com o selo Combine & Ganhe. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Banner da home de insiderstore.com.br e página /collections/combine-e-ganhe: \"Na compra de 3 produtos participantes, o item de menor valor será gratuito\" (navegador, 04/11/2026)",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "iws-black-november-2026",
+    "affiliate": "i-wanna-sleep",
+    "slot": "top",
+    "href": "https://www.iwannasleep.com.br",
+    "art": {
+      "kind": "tag",
+      "value": "30%"
+    },
+    "startsAt": "2026-11-09T00:00:00-03:00",
+    "endsAt": "2026-11-22T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Black November da I Wanna Sleep: até 30% OFF",
+        "text": "Campanha da própria I Wanna Sleep. O até 30% vale para parte dos produtos; as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Condições Black November e programação de 09 a 22/11 do programa de afiliados, passadas pelo Bruno em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "iws-brindes-progressivos-2026",
+    "affiliate": "i-wanna-sleep",
+    "slot": "mid",
+    "href": "https://www.iwannasleep.com.br",
+    "art": {
+      "kind": "bag"
+    },
+    "endsAt": "2026-11-30T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Brindes progressivos na Black November da I Wanna Sleep",
+        "text": "Campanha da própria I Wanna Sleep: o brinde cresce com o valor do carrinho, durante o mês. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Condições Black November do programa de afiliados (\"brindes progressivos durante todo o mês\"), passadas pelo Bruno em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "lejour-black-november-2026",
+    "affiliate": "lejour",
+    "slot": "top",
+    "href": "https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers",
+    "art": {
+      "kind": "bag"
+    },
+    "endsAt": "2026-11-30T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Black November da Lejour: planos Premium e Pro com 50% OFF",
+        "text": "Campanha da própria Lejour. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Página lejour.com.br/black-friday/: \"Black November Lejour · 01 a 30/11\", \"Ofertas válidas de 01 a 30/11/2026\" (04/11/2026)",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "lejour-black-week-2026",
+    "affiliate": "lejour",
+    "slot": "mid",
+    "href": "https://painel.lejour.com.br/onboarding/inicio?affiliate=emcasacomcecilia&source=the-coachers",
+    "art": {
+      "kind": "bag"
+    },
+    "startsAt": "2026-11-23T00:00:00-03:00",
+    "endsAt": "2026-11-29T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Black Week da Lejour: taxa reduzida na lista de presentes para novos casais",
+        "text": "Campanha da própria Lejour, para novos casais elegíveis. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Página lejour.com.br/black-friday/: \"Black Week · 23 a 29/11\", \"Taxa promocional válida de 23 a 29/11/2026 para novos casais elegíveis\" (04/11/2026)",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "letseatit-black-friday-2026",
+    "affiliate": "letseatit",
+    "slot": "top",
+    "href": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
+    "art": {
+      "kind": "tag",
+      "value": "70%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Let's Eat It: até 70% OFF",
+        "text": "Campanha da própria Let's Eat It. O até 70% vale para produtos selecionados; as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Carrossel da home e banner de /collections/outlet de letseatit.com.br (\"Black Friday – as melhores ofertas do outlet com até 70% OFF\"), lidos no navegador em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "magalu-black-das-blacks-2026",
+    "affiliate": "magalu",
+    "slot": "top",
+    "href": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/",
+    "art": {
+      "kind": "bag"
+    },
+    "endsAt": "2026-11-30T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Black das Blacks do Magalu: ofertas de Black Friday o mês todo",
+        "text": "Campanha do próprio Magalu. As condições aparecem no site do Magalu.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Página magazineluiza.com.br/lp/black-friday (\"a Black das Blacks Magalu é muito mais do que uma única sexta-feira, é um mês inteiro com ofertas da Black Friday\"), lida no navegador em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "max-titanium-brinde-meias-2026",
+    "affiliate": "max-titanium",
+    "slot": "mid",
+    "href": "https://www.maxtitanium.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Brinde na Max November: par de meias exclusivo",
+        "text": "Campanha da própria Max Titanium, em compras acima de R$ 199,90. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Slide da home de maxtitanium.com.br (\"Em compras acima de R$199,90 ganhe um par de meias exclusivo\"), lido no navegador em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "max-titanium-max-november-2026",
+    "affiliate": "max-titanium",
+    "slot": "top",
+    "href": "https://www.maxtitanium.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "50%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Max November da Max Titanium: até 50% OFF por tempo limitado",
+        "text": "Campanha da própria Max Titanium. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home e página /max-november de maxtitanium.com.br (\"Promoção Max November – descontos de até 50% por tempo limitado\"), lidos no navegador em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "nestle-nutre-esquenta-black-friday-2026",
+    "affiliate": "nestle-nutre",
+    "slot": "top",
+    "href": "https://www.nestlenutre.com.br/",
+    "art": {
+      "kind": "tag",
+      "value": "25%"
+    },
+    "endsAt": "2026-11-22T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Esquenta Black Friday da Nestlé Nutre: até 25% OFF",
+        "text": "Campanha da própria Nestlé Nutre, em produtos selecionados e sem fórmulas infantis. As condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Carrossel da home de nestlenutre.com.br: \"Desconto válido no período de 01/11/26 a 22/11/26 ou enquanto durarem os estoques\" (navegador, 04/11/2026)",
+    "verifiedAt": "2026-11-04"
+  },
+  {
+    "id": "probiotica-novembro-pro-2026",
+    "affiliate": "probiotica",
+    "slot": "top",
+    "href": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Novembro Pro da Probiótica: kits, roupas e acessórios com desconto",
+        "text": "Campanha da própria Probiótica. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Página probiotica.com.br/novembro-pro (\"Novembro Pro - Probiótica\", \"Roupas e Acessórios com até 50% OFF\"), ligada pelo carrossel da home (04/11/2026)",
+    "verifiedAt": "2026-11-04"
   },
   {
     "id": "shein-itens-com-desconto",
@@ -392,6 +756,26 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-10-24"
   },
   {
+    "id": "simple-organic-clean-friday-2026",
+    "affiliate": "simple-organic",
+    "slot": "top",
+    "href": "https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA",
+    "art": {
+      "kind": "tag",
+      "value": "50%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Clean Friday da Simple Organic: tudo com até 50% OFF",
+        "text": "Campanha da própria Simple Organic. O até 50% vale para parte dos produtos; as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Banner da home de simpleorganic.com.br (\"Clean Friday – tudo com até 50% OFF\") e barra do topo, lidos no navegador em 04/11/2026",
+    "verifiedAt": "2026-11-04"
+  },
+  {
     "id": "skelt-black-friday-2026",
     "affiliate": "skelt",
     "slot": "mid",
@@ -411,6 +795,26 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-02"
   },
   {
+    "id": "skelt-brindes-48h-2026",
+    "affiliate": "skelt",
+    "slot": "mid",
+    "href": "/reviews/brindes-skelt-black-friday-cupom",
+    "art": {
+      "kind": "bag"
+    },
+    "startsAt": "2026-11-05T00:00:00-03:00",
+    "endsAt": "2026-11-06T23:59:59-03:00",
+    "copy": {
+      "pt": {
+        "headline": "Brindes da Skelt por 48 horas",
+        "text": "Campanha da própria Skelt. Os brindes valem só em compras com o cupom da Cecília; as condições estão no artigo.",
+        "action": "Ver os brindes"
+      }
+    },
+    "source": "Promoção de Black Friday de 48 horas da Skelt, informada pelo Bruno (05/11/2026); início em 05/11 e fim em 06/11 confirmados por ele",
+    "verifiedAt": "2026-11-05"
+  },
+  {
     "id": "skelt-esquenta-black-friday-2026",
     "affiliate": "skelt",
     "slot": "top",
@@ -428,6 +832,26 @@ export const storeBannersData: StoreBanner[] = [
     },
     "source": "Coleção \"BF - Live 05/11\" de skelt.com.br; início informado pelo Bruno (02/11/2026)",
     "verifiedAt": "2026-11-02"
+  },
+  {
+    "id": "skelt-november-glow-2026",
+    "affiliate": "skelt",
+    "slot": "end",
+    "href": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+    "art": {
+      "kind": "tag",
+      "value": "20%"
+    },
+    "copy": {
+      "pt": {
+        "headline": "November Glow da Skelt: até 20% OFF progressivo",
+        "text": "Campanha da própria Skelt. O desconto sobe com o número de itens participantes; as condições aparecem no site da loja.",
+        "action": "Ver a campanha",
+        "tag": "ATÉ"
+      }
+    },
+    "source": "Barra do topo e página /november-glow de skelt.com.br (\"Desconto progressivo: 10% em 1 item, 15% em 2 itens e 20% em 3 itens ou mais\"), conferidas em 04/11/2026",
+    "verifiedAt": "2026-11-04"
   },
   {
     "id": "toda-up-black-november-2026",

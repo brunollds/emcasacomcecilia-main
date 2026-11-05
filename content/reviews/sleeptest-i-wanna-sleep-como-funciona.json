@@ -12,7 +12,7 @@
     "url": "/sobre"
   },
   "description": "Guia sobre o Sleeptest da I Wanna Sleep: regras por categoria (colchões 100 dias, travesseiros 30 dias), custos de frete, etiquetas e reembolso em crédito.",
-  "metaDescription": "Entenda o Sleeptest da I Wanna Sleep: colchões (100 dias), travesseiros (30 dias), taxa de frete R$300 em colchões (BH), etiqueta intacta e crédito.",
+  "metaDescription": "Sleeptest da I Wanna Sleep com o cupom CECIEMCASA e 10% OFF: colchões em 100 dias, travesseiros em 30, o frete da troca, a etiqueta e o crédito.",
   "publishedAt": "Draft",
   "draft": true,
   "pros": [],
@@ -139,12 +139,10 @@
   "editorialNote": "Este artigo traduz a política oficial de Sleeptest da I Wanna Sleep com base em dados públicos coletados diretamente da central de ajuda oficial. O cupom CECIEMCASA (10% de desconto) é oferecido por meio de uma parceria comercial entre o Em Casa com Cecília e a marca. Ao comprar por meio de nossas indicações, você ajuda a manter nosso trabalho editorial sem qualquer custo adicional. Os preços, políticas e cupons estão sujeitos a alterações pela marca.",
   "relatedArticles": [
     {
-      "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-      "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+      "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
     },
     {
-      "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-      "title": "Cobertor IWS Igloo: toque gelado de um lado, aconchego quentinho do outro"
+      "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
     }
   ],
   "image": "/images/reviews/iwannasleep/confiabilidade-hero.webp",

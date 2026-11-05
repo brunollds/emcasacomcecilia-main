@@ -104,12 +104,40 @@ export type CouponCodeOffer = CouponBase & {
   codeFieldLabel?: string;
   codeInstructions?: string[];
   history?: CouponHistory[];
+  // Códigos da parceria que valem só num prazo (o CECIEMCASA15 da I Wanna Sleep), ao lado do código de sempre,
+  // que segue valendo. A página da loja mostra cada um só dentro do prazo, e o navegador o esconde quando vence.
+  limitedCodes?: LimitedCode[];
   tiers?: {
     code: string;
     discount: string;
     minPurchase: string;
   }[];
 };
+
+export type LimitedCode = {
+  code: string;
+  discount: string;
+  // Com -03:00, como as campanhas: o fim é o último minuto do dia que a loja anuncia.
+  startsAt: string;
+  endsAt: string;
+  // Dia do teste no carrinho (AAAA-MM-DD) e o que ele mostrou.
+  testedAt: string;
+  testNote: string;
+};
+
+// Os códigos com prazo que ainda não venceram, com o que o HTML do build mostra: o que já começou. O que começa
+// ou vence até o próximo deploy aparece ou some no navegador (CampaignWindow).
+export function getPendingLimitedCodes(coupon: Coupon, now = Date.now()) {
+  if (coupon.offerMode !== 'discount-code') return [];
+  return (coupon.limitedCodes ?? [])
+    .filter((item) => Date.parse(item.endsAt) >= now)
+    .map((item) => ({ ...item, inHtml: Date.parse(item.startsAt) <= now }));
+}
+
+// "8 de novembro", no fuso de Brasília: o fim do prazo e o dia do teste nos avisos da página da loja e da home.
+export function formatBrasiliaDay(iso: string) {
+  return new Date(iso).toLocaleDateString('pt-BR', { day: 'numeric', month: 'long', timeZone: 'America/Sao_Paulo' });
+}
 
 export type AffiliateLinkOffer = CouponBase & {
   offerMode: 'affiliate-link';
@@ -685,6 +713,25 @@ const STORE_COUPONS: Coupon[] = [
     shipping: 'Calculado separadamente, conforme política da loja',
     combinable: 'Soma com as promoções vigentes da loja oficial',
     lastVerified: '2026-10-24',
+    limitedCodes: [
+      {
+        code: 'CECIEMCASA15',
+        discount: '15% OFF',
+        startsAt: '2026-11-04T00:00:00-03:00',
+        endsAt: '2026-11-08T23:59:59-03:00',
+        testedAt: '2026-11-04',
+        testNote: 'deu 15% no carrinho inteiro, inclusive no kit em promoção',
+      },
+      {
+        // Upgrade de cupom da Black Friday da loja (26 e 27/11), com o mesmo código.
+        code: 'CECIEMCASA15',
+        discount: '15% OFF',
+        startsAt: '2026-11-26T00:00:00-03:00',
+        endsAt: '2026-11-27T23:59:59-03:00',
+        testedAt: '2026-11-04',
+        testNote: 'deu 15% no carrinho inteiro, inclusive no kit em promoção',
+      },
+    ],
     testNote:
       'Aplicamos o CECIEMCASA num carrinho de R$ 6.163,00 com um box IWS Linen Gray e um kit Pillow Top Magnum, e o total caiu para R$ 5.546,70, com R$ 616,30 de desconto: os 10% valeram nos dois itens.',
     aboutBrand:
@@ -1050,9 +1097,9 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. No último teste de checkout, em 31/10/2026, o EMCASACOMCECILIA aplicou os 15% em cada item elegível, sobre os preços de Black Friday. A data do teste mais recente aparece no topo desta página.',
       },
       {
-        question: 'O cupom vale na primeira compra na Insider?',
+        question: 'O cupom Insider vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
-          'Sim. O EMCASACOMCECILIA vale para clientes novos e antigos, sem cadastro prévio. Como a loja aceita um cupom por pedido, ele não soma com o cupom de boas-vindas da própria Insider.',
+          'Vale, e o desconto é o mesmo: o cupom de boas-vindas da Insider, liberado na primeira compra para quem cadastra o e-mail no site, também é de 15%. Como a loja aceita um cupom por pedido, os dois não somam. A diferença é que o EMCASACOMCECILIA não pede cadastro e vale também para quem já comprou.',
       },
       {
         question: 'Posso usar o cupom junto com outro cupom?',
@@ -1344,7 +1391,7 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. No teste de 26/10/2026, o cupom deu os 10% também na creatina que já estava com preço promocional.',
       },
       {
-        question: 'O cupom PRO10EMCASACOMCECILIA vale na primeira compra na Probiótica?',
+        question: 'O cupom Probiótica vale na primeira compra?',
         answer:
           'Sim. O PRO10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
       },
@@ -1437,7 +1484,7 @@ const STORE_COUPONS: Coupon[] = [
           'Sim. O cupom vale com todas as formas de pagamento disponíveis no checkout, e o desconto não depende do meio escolhido.',
       },
       {
-        question: 'O cupom MAX10EMCASACOMCECILIA vale na primeira compra na Max Titanium?',
+        question: 'O cupom Max Titanium vale na primeira compra?',
         answer: 'Sim. O MAX10EMCASACOMCECILIA vale na primeira compra e também para quem já comprou na loja.',
       },
       {
@@ -2013,9 +2060,9 @@ const STORE_COUPONS: Coupon[] = [
           'Não. O crédito do cashback chega por e-mail como um código para o campo de cupom, e a Mais Mu não acumula cupons no mesmo pedido. O crédito vale 90 dias e pede um pedido mínimo a partir de R$ 200.',
       },
       {
-        question: 'O cupom MMEMCASACOMCECILIA vale na primeira compra na Mais Mu?',
+        question: 'O cupom Mais Mu vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
-          'Sim. Ele vale na primeira compra e também para quem já comprou na loja. Como a Mais Mu não acumula cupons, ele substitui o desconto de boas-vindas da loja, de R$ 15 em compras acima de R$ 250.',
+          'Vale, e o desconto é o mesmo: quem assina a newsletter da Mais Mu ganha 10% na primeira compra, o mesmo do MMEMCASACOMCECILIA. Como a loja não acumula cupons, os dois não somam. A diferença é que o MMEMCASACOMCECILIA não pede cadastro e vale também para quem já comprou.',
       },
       {
         question: 'O MMEMCASACOMCECILIA é cupom de influenciadora?',
@@ -2244,9 +2291,9 @@ const STORE_COUPONS: Coupon[] = [
           'Não. A promoção da 2ª peça funciona com outro cupom da loja, que não acumula com outros cupons. Levando duas peças de preço parecido, os 50% na mais barata costumam render mais que os 10%; levando uma, fique com o CECILIA10.',
       },
       {
-        question: 'O cupom CECILIA10 vale na primeira compra na Bagaggio?',
+        question: 'O cupom Bagaggio vale na primeira compra? É melhor que o de boas-vindas?',
         answer:
-          'Sim. O CECILIA10 dá 10% OFF já na primeira compra e também para quem já comprou na loja. Como a Bagaggio não acumula cupons no mesmo pedido, ele não soma com um cupom de boas-vindas da própria loja.',
+          'Vale, e rende mais: o desconto de primeira compra da própria Bagaggio é de 5%, e o CECILIA10 dá 10% OFF, também para quem já comprou na loja. Como a Bagaggio não acumula cupons no mesmo pedido, os dois não somam: na primeira compra, fique com o CECILIA10.',
       },
       {
         question: 'O CECILIA10 é cupom de influenciadora?',
@@ -2398,6 +2445,199 @@ const STORE_COUPONS: Coupon[] = [
   },
   {
     offerMode: 'discount-code',
+    slug: 'simple-organic',
+    brand: 'Simple Organic',
+    officialUrl: 'https://simpleorganic.com.br/',
+    // Link da parceria como veio (03/11/2026): abre o site com o cupom aplicado. Com redirect para um produto o
+    // cupom não entra, então ele vai à home. Não editar o link.
+    offerUrl: 'https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA',
+    brandIcon: 'S',
+    brandLogo: '/images/about/partners/simple-organic-icon.png',
+    brandLogoAlt: 'Marca Simple Organic',
+    brandWatermark: '/images/logos/watermarks/simple-organic.webp',
+    brandColor: '#E6006F',
+    code: 'S-EMCASACOMCECILIA',
+    discount: '5% OFF',
+    discountNumber: 5,
+    category: 'Skincare e maquiagem vegana',
+    hubCategory: 'beleza',
+    shortDescription: 'todo o site Simple Organic, inclusive nos produtos em promoção e nos kits',
+    longDescription:
+      'O S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes, limpeza facial, maquiagem e body splash no site oficial da Simple Organic e entra também nos produtos que já estão em promoção e nos kits. Testado em 03/11/2026 num carrinho com kit, produto em promoção e produto a preço cheio.',
+    metaTitle: 'Cupom Simple Organic: 5% OFF em tudo com S-EMCASACOMCECILIA (nov/2026)',
+    metaDescription:
+      'Cupom Simple Organic testado em 03/11/2026: S-EMCASACOMCECILIA dá 5% OFF em séruns, hidratantes e maquiagem, inclusive em promoção e nos kits.',
+    eligibleCategories: 'Todos os produtos do site oficial da Simple Organic, inclusive os que já estão em promoção e os kits',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping:
+      'Frete grátis a partir de R$ 99,00 em produtos; abaixo disso, calculado pelo CEP no checkout, por PAC, Sedex ou JadLog. O pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento',
+    combinable:
+      'Soma com as promoções do site e vale nos kits: no teste de 03/11/2026, os 5% entraram sobre o preço promocional de todos os itens do carrinho',
+    lastVerified: '2026-11-03',
+    testNote:
+      'Montamos um carrinho com o kit Rotina Pele Sensível (R$ 91,00), o Hidratante Facial Super Glow em promoção (R$ 27,00) e o Lip Combo People Colour a preço cheio (R$ 64,00). O S-EMCASACOMCECILIA tirou 5% de tudo, R$ 9,10, e o total caiu de R$ 182,00 para R$ 172,90. No mesmo dia, num carrinho com o Duo Antimanchas Noturno, o desconto também entrou sobre o preço promocional: R$ 70,90 viraram R$ 67,36.',
+    codeInstructions: [
+      'Copie o código S-EMCASACOMCECILIA no card acima.',
+      'Acesse o site oficial da Simple Organic pelo botão indicado: ele abre a loja com o cupom aplicado. Depois, coloque os produtos no carrinho.',
+      'Confira se o S-EMCASACOMCECILIA aparece em "Desconto" no carrinho; se não, cole o código nesse campo ou no campo de cupom do checkout e clique em "Aplicar".',
+      'Confira o desconto no resumo do pedido antes de pagar.',
+    ],
+    aboutBrand:
+      'A Simple Organic é uma marca brasileira de beleza limpa e vegana, criada em 2017 em Florianópolis (SC) e parte da Hypera Pharma desde 2020. Vende séruns, hidratantes, limpeza facial, maquiagem e body splash. O cupom S-EMCASACOMCECILIA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 5% OFF em todo o site, inclusive nos produtos em promoção e nos kits. A recomendação é conferir o resumo do pedido antes de pagar.',
+    faqs: [
+      {
+        question: 'O cupom S-EMCASACOMCECILIA vale para todos os produtos da Simple Organic?',
+        answer:
+          'Sim. O S-EMCASACOMCECILIA dá 5% OFF nos produtos do site oficial da Simple Organic: séruns, hidratantes, limpeza facial, maquiagem e body splash, inclusive os kits e os duos.',
+      },
+      {
+        question: 'O cupom soma com produtos em promoção?',
+        answer:
+          'Sim. No teste de 03/11/2026, os 5% entraram sobre o preço promocional de um hidratante e de um duo e sobre um kit que já estava com desconto. O desconto aparece no carrinho antes de pagar.',
+      },
+      {
+        question: 'O cupom S-EMCASACOMCECILIA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 03/11/2026, o S-EMCASACOMCECILIA aplicou os 5% no carrinho. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'Onde coloco o cupom na Simple Organic?',
+        answer:
+          'No campo "Desconto" do carrinho ou no campo de cupom do checkout, antes de pagar. Pelo botão desta página, o site da Simple Organic já abre com o cupom aplicado; confira o desconto no resumo do pedido.',
+      },
+      {
+        question: 'A Simple Organic tem frete grátis?',
+        answer:
+          'Sim, a partir de R$ 99,00 em produtos, segundo a faixa do site. Abaixo disso, o frete é calculado pelo CEP no checkout, por PAC, Sedex ou JadLog, e o pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento.',
+      },
+      {
+        question: 'O que fazer se o cupom S-EMCASACOMCECILIA não funcionar?',
+        answer:
+          'Pelo botão desta página, o cupom já entra aplicado; se ele não aparecer no carrinho, cole o código no campo "Desconto", sem espaços, e clique em "Aplicar". Ele vale no site oficial simpleorganic.com.br. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Posso trocar ou devolver a compra feita com o cupom?',
+        answer:
+          'Sim. A Simple Organic aceita troca ou desistência em até 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado. O pedido de troca vai pelo e-mail de atendimento da loja.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Vale também nos produtos em promoção e nos kits',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
+    slug: 'holyfoods',
+    brand: 'HolyFoods',
+    officialUrl: 'https://holyfoods.com.br/',
+    offerUrl: 'https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz',
+    brandIcon: 'HF',
+    brandLogo: '/images/about/partners/holyfoods-icon.png',
+    brandLogoAlt: 'Marca HolyFoods',
+    brandWatermark: '/images/logos/watermarks/holyfoods.webp',
+    brandColor: '#005234',
+    code: 'EMCASA',
+    discount: '15% OFF',
+    discountNumber: 15,
+    category: 'Sopas, macarrões e risotos prontos',
+    hubCategory: 'alimentacao',
+    shortDescription: 'todo o site HolyFoods, inclusive nos produtos em promoção',
+    longDescription:
+      'O código da Cecília dá 15% OFF em todo o site da HolyFoods e soma com os preços já reduzidos da loja. Testado em 05/11/2026 num carrinho de sopas que já estavam em promoção.',
+    metaTitle: 'Cupom HolyFoods: 15% OFF com o código EMCASA (nov/2026)',
+    metaDescription:
+      'Cupom HolyFoods testado em 05/11/2026: use EMCASA e ganhe 15% OFF em sopas, macarrões, risotos e kits, somando com os produtos já em promoção.',
+    eligibleCategories: 'Todos os produtos do site oficial da HolyFoods, avulsos e kits',
+    validity: 'Cupom ativo enquanto a parceria estiver vigente',
+    reusable: 'Conforme regras da loja',
+    shipping:
+      'Frete grátis a partir de um valor mínimo que muda conforme o estado; o carrinho mostra quanto falta para a sua região, e o prazo aparece no checkout',
+    combinable: 'Soma com as promoções do site, inclusive nos produtos que já estão com desconto, e vale com todas as formas de pagamento',
+    lastVerified: '2026-11-05',
+    testNote:
+      'Aplicamos o EMCASA num carrinho de R$ 69,79 com um Pack Sopa da Vovó e duas Sopas Detox, todos já com desconto da loja, e o cupom tirou R$ 10,47: o total caiu para R$ 59,32, os 15% inteiros sobre o preço promocional.',
+    codeInstructions: [
+      'Copie o código EMCASA no card acima.',
+      'Acesse o site oficial da HolyFoods pelo botão indicado e coloque os produtos no carrinho.',
+      'Na tela "Finalizar compra", clique em "Inserir cupom de desconto", cole o código no campo "Código do cupom" e clique em "Adicionar".',
+      'Confira a linha "Cupom de desconto" no resumo da compra antes de pagar.',
+    ],
+    aboutBrand:
+      'A HolyFoods é uma marca brasileira de refeições prontas para preparar em casa: sopas, macarrões, risotos, aveias, mel e kits, vendidos no site oficial, da Holy Group Ltda (CNPJ 50.874.415/0001-62). O cupom EMCASA é o benefício da parceria para quem acompanha o Em Casa com Cecília: dá 15% OFF em todo o site e soma com os preços que já estão em promoção. A recomendação é conferir o resumo da compra antes de pagar.',
+    faqs: [
+      {
+        question: 'O cupom EMCASA vale para todos os produtos da HolyFoods?',
+        answer: 'Sim. O EMCASA dá 15% OFF em todo o site oficial da HolyFoods, nos produtos avulsos e nos kits.',
+      },
+      {
+        question: 'O cupom soma com os produtos em promoção?',
+        answer:
+          'Sim. No teste de 05/11/2026, os 15% entraram sobre sopas que já estavam com desconto da loja: R$ 69,79 viraram R$ 59,32.',
+      },
+      {
+        question: 'Onde coloco o cupom na HolyFoods?',
+        answer:
+          'Na tela "Finalizar compra", que abre depois do carrinho: clique em "Inserir cupom de desconto", cole o EMCASA no campo "Código do cupom" e clique em "Adicionar". O desconto aparece no resumo da compra.',
+      },
+      {
+        question: 'O site oficial da HolyFoods é holyfoods.com.br?',
+        answer:
+          'Sim. O site oficial é holyfoods.com.br, e o pagamento é feito em seguro.holyfoods.com.br, o checkout da própria loja. É lá que o EMCASA dá 15% OFF.',
+      },
+      {
+        question: 'O cupom EMCASA vale na primeira compra?',
+        answer: 'Sim. O EMCASA vale na primeira compra e também para quem já comprou na HolyFoods.',
+      },
+      {
+        question: 'O cupom EMCASA vale no Mercado Livre?',
+        answer:
+          'Não. O EMCASA é usado no checkout do site oficial da HolyFoods e não vale no Mercado Livre nem em outros marketplaces. Pelo Mercado Livre, vale o preço do anúncio, sem o cupom.',
+        mercadoLivreUrl: 'https://meli.la/2mjWEVp',
+      },
+      {
+        question: 'A HolyFoods tem frete grátis?',
+        answer:
+          'Sim, a partir de um valor mínimo que muda conforme o estado. O carrinho mostra quanto falta para o frete grátis na sua região, e o prazo de entrega aparece no checkout.',
+      },
+      {
+        question: 'E se eu não gostar dos produtos?',
+        answer:
+          'Pela garantia da loja, você tem 30 dias depois de receber para pedir a devolução: pode provar uma unidade, e as outras voltam fechadas. A devolução é sem custo, com reembolso dos produtos devolvidos.',
+      },
+      {
+        question: 'O cupom EMCASA está funcionando hoje?',
+        answer:
+          'Sim. No teste de checkout de 05/11/2026, o EMCASA aplicou os 15% no carrinho. A data do teste mais recente aparece no topo desta página.',
+      },
+      {
+        question: 'O que fazer se o cupom EMCASA não funcionar?',
+        answer:
+          'Confira se o código foi colado no campo "Código do cupom" da tela "Finalizar compra", sem espaços, e se você clicou em "Adicionar". O campo "Cartão-presente" não aceita cupons. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+      },
+      {
+        question: 'Comprar com o cupom apoia o Em Casa com Cecília?',
+        answer:
+          'Sim, a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você. O desconto aparece no checkout quando o cupom é aceito.',
+      },
+    ],
+    monthlyHighlight: {
+      scope: 'em todo o site',
+      note: 'Vale também nos produtos em promoção e nos kits',
+    },
+    status: 'ativo',
+    featured: false,
+  },
+  {
+    offerMode: 'discount-code',
     slug: 'hostinger',
     brand: 'Hostinger',
     officialUrl: 'https://www.hostinger.com/',
@@ -2420,9 +2660,9 @@ const STORE_COUPONS: Coupon[] = [
     metaTitle: 'Cupom Hostinger: 20% OFF em tudo com SONAR20 (nov/2026)',
     metaDescription:
       'Cupom Hostinger testado em 29/10/2026: SONAR20 dá 20% OFF em planos mensais e anuais, para cliente novo ou antigo, inclusive na Black Friday.',
-    eligibleCategories: 'Todos os planos da Hostinger, mensais ou anuais, para clientes novos e antigos',
+    eligibleCategories: 'Compra nova de qualquer plano da Hostinger, mensal ou anual, para clientes novos e antigos; a renovação sai sem desconto',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
-    reusable: 'Vale para clientes novos e para quem já tem plano na Hostinger',
+    reusable: 'Vale em compra nova, para clientes novos e para quem já tem conta na Hostinger; na renovação, não há desconto',
     shipping: 'Não se aplica',
     combinable:
       'Soma com as promoções da Hostinger: no teste de 29/10/2026, os 20% entraram sobre o preço de Black Friday; a soma com outros cupons não foi testada',
@@ -2434,7 +2674,7 @@ const STORE_COUPONS: Coupon[] = [
       'Copie o código SONAR20 no card acima.',
       'Abra a Hostinger pelo botão desta página, escolha o plano e o período e siga para o carrinho.',
       'No resumo do pedido, clique em "Tem um cupom de desconto?", cole o SONAR20 e clique em Aplicar.',
-      'Confira o desconto e o preço da renovação no carrinho antes de pagar.',
+      'Confira o desconto no carrinho antes de pagar. A renovação, no fim do período, sai pelo preço de tabela que aparece abaixo do plano.',
     ],
     aboutBrand:
       'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger desde 2024, como aplicação Node.js. O SONAR20 é o cupom da parceria: dá 20% OFF em todos os planos, para clientes novos e antigos.',
@@ -2446,7 +2686,7 @@ const STORE_COUPONS: Coupon[] = [
       },
       {
         question: 'O SONAR20 vale para quem já é cliente da Hostinger?',
-        answer: 'Sim. O cupom vale para clientes novos e para quem já tem plano na Hostinger.',
+        answer: 'Sim, em compra nova: o cupom vale para quem está chegando e para quem já tem conta na Hostinger e contrata um plano novo. Na renovação de um plano, não há desconto.',
       },
       {
         question: 'Tem cupom de primeira compra na Hostinger?',
@@ -2481,7 +2721,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O desconto vale na renovação?',
         answer:
-          'Não testamos a renovação. O carrinho mostra o preço de renovação abaixo do plano; confira esse valor antes de pagar.',
+          'Não. Os 20% do SONAR20 valem só na compra nova: pela regra do programa de indicação da Hostinger, a renovação sai pelo preço de tabela, sem desconto. Na compra nova, ele vale também no VPS; só não vale no registro de domínio. O carrinho mostra o preço de renovação abaixo do plano; confira esse valor antes de pagar.',
       },
       {
         question: 'O Em Casa com Cecília usa a Hostinger?',
@@ -2495,7 +2735,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'em todos os planos',
-      note: 'Vale para clientes novos e antigos, em planos mensais ou anuais',
+      note: 'Vale na compra nova, para clientes novos e antigos, em planos mensais ou anuais; a renovação sai sem desconto',
     },
     status: 'ativo',
     featured: false,

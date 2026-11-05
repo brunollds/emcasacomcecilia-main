@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Os números da Black Skull no Reclame Aqui em 14/10/2026: reputação Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1), 100% das reclamações respondidas, 61,5% resolvidas e o que mais aparece nas queixas.",
-  "metaDescription": "Black Skull no Reclame Aqui em 14/10/2026: reputação Regular (6,8) em 6 meses e Boa (7,1) em 12 meses, 100% respondidas e 61,5% resolvidas.",
+  "description": "A Black Skull tem reputação Regular (6,8) em 6 meses e Boa (7,1) em 12 no Reclame Aqui, responde tudo e resolve 61,5%. Veja o que isso significa para a sua compra.",
+  "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. No Reclame Aqui, a reputação é Regular em 6 meses (nota 6,8), com 61,5% das reclamações resolvidas.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
   "draft": false,
@@ -289,12 +289,10 @@
   "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CECILIA10.",
   "relatedArticles": [
     {
-      "slug": "black-skull-e-confiavel",
-      "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      "slug": "black-skull-e-confiavel"
     },
     {
-      "slug": "cupom-black-skull-como-usar",
-      "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+      "slug": "cupom-black-skull-como-usar"
     }
   ]
 }

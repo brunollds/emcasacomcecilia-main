@@ -4,6 +4,7 @@ import {
   getAllActiveCouponSlugs,
   getCouponBySlug,
   getCouponHubSections,
+  getPendingLimitedCodes,
   getStoreCodeKind,
   MERCADO_LIVRE_COUPONS_URL,
   type AffiliateLinkOffer,
@@ -70,26 +71,28 @@ assert.equal(
 assert.ok(getAllActiveCouponSlugs().includes('insider'), 'Insider ativa deve gerar página de cupom');
 
 // Parceiros de 13/10/2026, a Max Titanium e a Cléa Store desde 14/10, a Belive desde 16/10, a Mais Mu desde 20/10, a Skelt desde 21/10, a Bagaggio
-// desde 22/10 e a Toda Up desde 26/10. Só a Probiótica, a Skelt, a Bagaggio, a Toda Up e a Lejour mandaram link com UTM, e ele vai como veio; as
-// outras vão ao site oficial. O link da Toda Up também abre o site com o MAUAD aplicado.
+// desde 22/10, a Toda Up desde 26/10, a Simple Organic desde 03/11 e a HolyFoods desde 05/11. Só a Probiótica, a Skelt, a Bagaggio, a Toda Up, a Simple Organic,
+// a HolyFoods e a Lejour mandaram link próprio, e ele vai como veio; as outras vão ao site oficial. O link da Toda Up também abre o site com o MAUAD aplicado, e o da Simple Organic, com o S-EMCASACOMCECILIA.
 const newPartners = [
-  { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
-  { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.drpeanut.com.br/' },
-  { slug: 'black-skull', code: 'CECILIA10', hubCategory: 'saude', offerUrl: 'https://www.blackskullusa.com.br/' },
-  { slug: 'max-titanium', code: 'MAX10EMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.maxtitanium.com.br/' },
-  { slug: 'clea-store', code: 'CSEMCASACOMCECILIA', hubCategory: 'moda', offerUrl: 'https://www.cleastore.com.br/' },
+  { slug: 'probiotica', code: 'PRO10EMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi' },
+  { slug: 'dr-peanut', code: 'DREMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.drpeanut.com.br/' },
+  { slug: 'black-skull', code: 'CECILIA10', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.blackskullusa.com.br/' },
+  { slug: 'max-titanium', code: 'MAX10EMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.maxtitanium.com.br/' },
+  { slug: 'clea-store', code: 'CSEMCASACOMCECILIA', discountNumber: 10, hubCategory: 'moda', offerUrl: 'https://www.cleastore.com.br/' },
   // Belive (16/10/2026): o mesmo MAUAD da Let's Eat It, com 10% em todo o site.
-  { slug: 'belive', code: 'MAUAD', hubCategory: 'alimentacao', offerUrl: 'https://belivebefree.com.br/' },
-  { slug: 'mais-mu', code: 'MMEMCASACOMCECILIA', hubCategory: 'saude', offerUrl: 'https://www.lojamaismu.com.br/' },
-  { slug: 'skelt', code: 'SKEMCASACOMCECILIA', hubCategory: 'beleza', offerUrl: 'https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz' },
-  { slug: 'bagaggio', code: 'CECILIA10', hubCategory: 'moda', offerUrl: 'https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz' },
-  { slug: 'toda-up', code: 'MAUAD', hubCategory: 'moda', offerUrl: 'https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao' },
+  { slug: 'belive', code: 'MAUAD', discountNumber: 10, hubCategory: 'alimentacao', offerUrl: 'https://belivebefree.com.br/' },
+  { slug: 'mais-mu', code: 'MMEMCASACOMCECILIA', discountNumber: 10, hubCategory: 'saude', offerUrl: 'https://www.lojamaismu.com.br/' },
+  { slug: 'skelt', code: 'SKEMCASACOMCECILIA', discountNumber: 10, hubCategory: 'beleza', offerUrl: 'https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz' },
+  { slug: 'bagaggio', code: 'CECILIA10', discountNumber: 10, hubCategory: 'moda', offerUrl: 'https://www.bagaggio.com.br/?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz' },
+  { slug: 'toda-up', code: 'MAUAD', discountNumber: 10, hubCategory: 'moda', offerUrl: 'https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao' },
+  { slug: 'simple-organic', code: 'S-EMCASACOMCECILIA', discountNumber: 5, hubCategory: 'beleza', offerUrl: 'https://simpleorganic.com.br//discount/S-EMCASACOMCECILIA' },
+  { slug: 'holyfoods', code: 'EMCASA', discountNumber: 15, hubCategory: 'alimentacao', offerUrl: 'https://www.holyfoods.com.br/?utm_source=afiliados&utm_medium=emcasacomcecilia&utm_campaign=inbazz' },
 ] as const;
 for (const partner of newPartners) {
   const store = getCouponBySlug(partner.slug);
   assert.ok(store && store.offerMode === 'discount-code', `${partner.slug} deve existir como discount-code ativo`);
   assert.equal(store.code, partner.code);
-  assert.equal(store.discountNumber, 10);
+  assert.equal(store.discountNumber, partner.discountNumber);
   assert.equal(store.hubCategory, partner.hubCategory);
   assert.equal(store.offerUrl, partner.offerUrl);
 }
@@ -116,6 +119,7 @@ const mercadoLivreLinks: Record<string, string> = {
   'mais-mu': 'https://meli.la/24RjvdP',
   skelt: 'https://meli.la/2unTb7k',
   bagaggio: 'https://meli.la/2KeydkG',
+  holyfoods: 'https://meli.la/2mjWEVp',
 };
 for (const coupon of COUPONS) {
   const linked = coupon.faqs.filter((faq) => faq.mercadoLivreUrl);
@@ -260,4 +264,58 @@ for (const coupon of COUPONS.filter((item) => item.status === 'ativo')) {
   );
 }
 
-console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Hostinger e prateleiras do hub conferidos.");
+// Códigos com prazo: horário de Brasília, prazos que não se cruzam, código diferente do de sempre e teste antes do
+// prazo. O vencido não quebra o build (o navegador já o esconde), mas avisa para tirar o item.
+const BRASILIA_TIME = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}-03:00$/;
+for (const coupon of COUPONS) {
+  if (coupon.offerMode !== 'discount-code' || !coupon.limitedCodes) continue;
+  assert.ok(!coupon.tiers, `${coupon.slug}: loja com faixas não leva código com prazo`);
+  const windows = [...coupon.limitedCodes].sort((a, b) => Date.parse(a.startsAt) - Date.parse(b.startsAt));
+  windows.forEach((item, index) => {
+    const label = `${coupon.slug} ${item.code} (${item.startsAt})`;
+    assert.match(item.code, /^[A-Z0-9]{4,30}$/, `${label}: código fora do formato`);
+    assert.notEqual(item.code, coupon.code, `${label}: é o código de sempre da loja`);
+    assert.match(item.startsAt, BRASILIA_TIME, `${label}: início sem -03:00`);
+    assert.match(item.endsAt, BRASILIA_TIME, `${label}: fim sem -03:00`);
+    assert.ok(Date.parse(item.startsAt) < Date.parse(item.endsAt), `${label}: o fim vem antes do início`);
+    assert.match(item.testedAt, /^\d{4}-\d{2}-\d{2}$/, `${label}: testedAt fora do formato`);
+    assert.ok(item.testedAt <= item.endsAt.slice(0, 10), `${label}: teste depois do prazo`);
+    assert.ok(item.testNote && !item.testNote.endsWith('.'), `${label}: testNote vazio ou com ponto final`);
+    const next = windows[index + 1];
+    if (next) assert.ok(Date.parse(item.endsAt) < Date.parse(next.startsAt), `${label}: o prazo cruza o do ${next.code}`);
+  });
+  const ended = coupon.limitedCodes.length - getPendingLimitedCodes(coupon).length;
+  if (ended > 0) console.warn(`⚠️ ${coupon.slug}: ${ended} código(s) com prazo vencido(s); tire de limitedCodes em couponsData.ts.`);
+}
+// O getPendingLimitedCodes num cupom montado aqui, com datas fixas: os dados reais perdem os itens que vencem.
+const sampleBase = COUPONS.find((item) => item.offerMode === 'discount-code' && !item.tiers);
+assert.ok(sampleBase && sampleBase.offerMode === 'discount-code', 'nenhuma loja de código sem faixas para o teste');
+const sampleWindow = (code: string, startsAt: string, endsAt: string) => ({
+  code,
+  discount: '15% OFF',
+  startsAt,
+  endsAt,
+  testedAt: '2026-01-01',
+  testNote: 'deu 15% no carrinho',
+});
+const sample = {
+  ...sampleBase,
+  limitedCodes: [
+    sampleWindow('PRAZOUM', '2026-01-05T00:00:00-03:00', '2026-01-08T23:59:59-03:00'),
+    sampleWindow('PRAZODOIS', '2026-01-20T00:00:00-03:00', '2026-01-21T23:59:59-03:00'),
+  ],
+};
+const pendingAt = (iso: string) => getPendingLimitedCodes(sample, Date.parse(iso)).map((item) => [item.code, item.inHtml]);
+assert.deepEqual(pendingAt('2026-01-01T12:00:00-03:00'), [['PRAZOUM', false], ['PRAZODOIS', false]], 'antes do prazo: no payload, fora do HTML');
+assert.deepEqual(pendingAt('2026-01-04T23:59:59-03:00'), [['PRAZOUM', false], ['PRAZODOIS', false]], 'o segundo antes do início ainda fica fora do HTML');
+assert.deepEqual(pendingAt('2026-01-05T00:00:00-03:00'), [['PRAZOUM', true], ['PRAZODOIS', false]], 'o início exato já vai ao HTML');
+assert.deepEqual(pendingAt('2026-01-06T12:00:00-03:00'), [['PRAZOUM', true], ['PRAZODOIS', false]], 'no 1º prazo: ele no HTML, o 2º só no payload');
+assert.deepEqual(pendingAt('2026-01-08T23:59:59-03:00'), [['PRAZOUM', true], ['PRAZODOIS', false]], 'o último segundo do prazo ainda vale');
+assert.deepEqual(pendingAt('2026-01-09T00:00:00-03:00'), [['PRAZODOIS', false]], 'o vencido sai do build');
+assert.deepEqual(pendingAt('2026-01-20T08:00:00-03:00'), [['PRAZODOIS', true]]);
+assert.deepEqual(pendingAt('2026-01-22T00:00:00-03:00'), []);
+// Loja de link com prazos colados à força: o offerMode é que barra, não a falta do campo.
+const linkWithWindows = { ...shein, limitedCodes: sample.limitedCodes } as AffiliateLinkOffer;
+assert.deepEqual(getPendingLimitedCodes(linkWithWindows, Date.parse('2026-01-06T12:00:00-03:00')), [], 'loja de link não tem código com prazo');
+
+console.log("✅ coupon offer modes: SHEIN, Let's Eat It, Insider, Probiótica, Max Titanium, Dr. Peanut, Black Skull, Lejour, Cléa Store, Belive, Mais Mu, Skelt, Bagaggio, Toda Up, Simple Organic, HolyFoods, Hostinger e prateleiras do hub conferidos.");

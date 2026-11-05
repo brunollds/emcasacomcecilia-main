@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Whether SHEIN is a legitimate store, which company runs its sites in the US and the UK, which country it comes from, what it sells, whether it is safe to pay, the return policy, import tax and what to check before you pay.",
+  "description": "Yes, SHEIN is a legitimate store, and each market's site is run by a company named in its privacy policy. See returns, import tax and what to check before you pay.",
   "metaDescription": "Is SHEIN legit and safe? Who runs the US and UK sites, which country SHEIN is from, whether it is safe to pay, returns, import tax and what to check before you pay.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
@@ -166,16 +166,13 @@
   "editorialNote": "This article is editorial. We may earn a commission on SHEIN purchases, at no cost to you.",
   "relatedArticles": [
     {
-      "slug": "shein-vs-temu-which-to-choose",
-      "title": "SHEIN vs Temu: how to choose (shipping, returns and what to check before you buy)"
+      "slug": "shein-vs-temu-which-to-choose"
     },
     {
-      "slug": "shein-black-friday-dates-taxes",
-      "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work"
+      "slug": "shein-black-friday-dates-taxes"
     },
     {
-      "slug": "shein-referral-code-where-to-enter",
-      "title": "SHEIN referral code: where to enter it and how it works"
+      "slug": "shein-referral-code-where-to-enter"
     }
   ]
 }

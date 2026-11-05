@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "La légitimité de SHEIN, qui exploite son site en France, de quel pays vient l'entreprise, ce qu'elle vend, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
+  "description": "Oui, SHEIN est une boutique légitime, et le site de chaque marché est exploité par une société identifiée. Voyez le retour, la douane et quoi vérifier avant de payer.",
   "metaDescription": "SHEIN est-il fiable et sûr ? Qui l'exploite en France, d'où vient l'entreprise, s'il est sûr de payer, le délai de retour, la douane de l'UE et ce qu'il faut vérifier avant de payer.",
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
@@ -153,16 +153,13 @@
   "editorialNote": "Cet article est éditorial. Nous pouvons toucher une commission sur les achats SHEIN, sans frais pour vous.",
   "relatedArticles": [
     {
-      "slug": "shein-ou-temu-comment-choisir",
-      "title": "SHEIN ou Temu : comment choisir (livraison, retours, douane et points à vérifier avant d'acheter)"
+      "slug": "shein-ou-temu-comment-choisir"
     },
     {
-      "slug": "black-friday-shein-dates-et-taxes",
-      "title": "Black Friday SHEIN 2026 : quand il commence, jusqu'à quand et comment fonctionnent les coupons"
+      "slug": "black-friday-shein-dates-et-taxes"
     },
     {
-      "slug": "code-de-parrainage-shein-ou-le-mettre",
-      "title": "Code de parrainage SHEIN : où le mettre et comment l'utiliser"
+      "slug": "code-de-parrainage-shein-ou-le-mettre"
     }
   ]
 }

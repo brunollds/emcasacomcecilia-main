@@ -138,16 +138,13 @@
   "editorialNote": "本文為編輯專題。我們可能從 SHEIN 的購買中獲得傭金，你不需要額外付費。",
   "relatedArticles": [
     {
-      "slug": "shein-vs-shopee-zh-hant",
-      "title": "SHEIN 還是 Temu？新加坡和馬來西亞怎麼選：運費、時效與退貨"
+      "slug": "shein-vs-shopee-zh-hant"
     },
     {
-      "slug": "shein-black-friday-zh-hant",
-      "title": "Black Friday SHEIN 2026（黑色星期五）：何時開始、何時結束，以及優惠券怎麼用"
+      "slug": "shein-black-friday-zh-hant"
     },
     {
-      "slug": "shein-referral-code-zh-hant",
-      "title": "SHEIN 推薦碼：在哪裡輸入、怎麼用"
+      "slug": "shein-referral-code-zh-hant"
     }
   ]
 }

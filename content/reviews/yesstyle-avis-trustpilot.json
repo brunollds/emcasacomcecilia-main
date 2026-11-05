@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "La note de YesStyle sur Trustpilot le 28 octobre 2026 : TrustScore de 4,4 sur 104 552 avis, 71 % de cinq étoiles, des plaintes concentrées sur la livraison internationale et pourquoi la note ne dit rien sur votre pays.",
+  "description": "YesStyle a une note de 4,4 sur Trustpilot, avec plus de 104 000 avis et 71 % de cinq étoiles. Voyez les plaintes de livraison et pourquoi la note ne dit rien sur votre pays.",
   "metaDescription": "YesStyle sur Trustpilot le 28 octobre 2026 : note de 4,4 sur 104 000 avis, 71 % de cinq étoiles, plaintes de livraison et de suivi. Voyez ce que la note ne montre pas.",
   "publishedAt": "29 octobre 2026",
   "publishedAtISO": "2026-10-29",
@@ -175,16 +175,13 @@
   "editorialNote": "Données publiques de Trustpilot. YesStyle est partenaire : nous pouvons percevoir une commission sur les achats.",
   "relatedArticles": [
     {
-      "slug": "application-yesstyle-acheter-code-recompense",
-      "title": "Appli YesStyle : comment acheter et où saisir le code de récompense CECILIA010"
+      "slug": "application-yesstyle-acheter-code-recompense"
     },
     {
-      "slug": "yesstyle-ou-olive-young-que-choisir",
-      "title": "YesStyle ou Olive Young : livraison gratuite, taxes, retours et points comparés"
+      "slug": "yesstyle-ou-olive-young-que-choisir"
     },
     {
-      "slug": "black-friday-yesstyle-dates-et-coupons",
-      "title": "Black Friday YesStyle 2026 : quand il commence, comment fonctionnent les coupons et où saisir le code CECILIA010"
+      "slug": "black-friday-yesstyle-dates-et-coupons"
     }
   ]
 }

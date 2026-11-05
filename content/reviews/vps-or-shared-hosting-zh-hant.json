@@ -196,7 +196,8 @@
         "VPS 比共享主機快嗎？我們沒有測過。VPS 保證的是獨享資源：CPU、記憶體與硬碟都是你的，而共享主機的伺服器是大家分用的。對一般網站來說，這很少是瓶頸。",
         "可以先用共享主機，之後再遷到 VPS 嗎？可以。兩者是不同的產品：你訂購 VPS，架好伺服器，再把網站遷過去。共享主機不能在面板裡直接轉成 VPS。",
         "用 VPS 需要懂 Linux 嗎？需要，至少要會終端機的基本操作：安裝程式、更新系統、看日誌。共享主機則一切透過面板完成，不必使用終端機。",
-        "VPS 能跑 WordPress 嗎？能，但 Web 伺服器、PHP 與資料庫要你自己安裝與維護。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。"
+        "VPS 能跑 WordPress 嗎？能，但 Web 伺服器、PHP 與資料庫要你自己安裝與維護。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
       ]
     },
     {
@@ -209,26 +210,23 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金，你不用多付任何費用。我們沒有測試 VPS。",
+  "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金，你不用多付任何費用。SONAR20 也適用於 VPS。",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
-      "title": "OpenClaw 在 Hostinger：託管還是 VPS？各自要做什麼，以及適合誰"
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hant"
     },
     {
-      "slug": "hostinger-trust-guide-zh-hant",
-      "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      "slug": "hostinger-trust-guide-zh-hant"
     },
     {
-      "slug": "hostinger-black-friday-zh-hant",
-      "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%"
+      "slug": "hostinger-black-friday-zh-hant"
     }
   ],
   "decision": {

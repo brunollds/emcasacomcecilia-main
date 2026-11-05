@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Os wheys de Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu comparados pelo preço por 100 g de proteína em 23/10/2026: custo-benefício, zero lactose, isolado, 3W, sabor e pote pequeno.",
+  "description": "Qual whey escolher para cada objetivo? Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu comparados pelo preço por 100 g de proteína, com a melhor opção para cada perfil.",
   "metaDescription": "Qual whey comprar: compare Black Skull, Max Titanium, Probiótica, Dr. Peanut e Mais Mu pelo preço por 100 g de proteína, com os preços de 23/10/2026.",
   "publishedAt": "23 de outubro de 2026",
   "publishedAtISO": "2026-10-23",
@@ -702,16 +702,13 @@
   "editorialNote": "Somos afiliados das cinco marcas e ninguém da equipe tomou os wheys.",
   "relatedArticles": [
     {
-      "slug": "black-skull-ou-max-titanium",
-      "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      "slug": "black-skull-ou-max-titanium"
     },
     {
-      "slug": "max-titanium-ou-probiotica",
-      "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      "slug": "max-titanium-ou-probiotica"
     },
     {
-      "slug": "dr-peanut-melhor-sabor",
-      "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+      "slug": "dr-peanut-melhor-sabor"
     }
   ]
 }

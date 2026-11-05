@@ -186,7 +186,7 @@
     {
       "heading": "SONAR20 与 Reach 价格",
       "paragraphs": [
-        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可享受**首个周期 20%** 的折扣。Bruno 用 Reach 500（Grow）的 24 个月套餐测试过，折扣已生效。",
+        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可享受**首个周期 20%** 的折扣。Bruno 用 Reach 500（Grow）的 24 个月套餐测试过，折扣已生效。续费按标价收费，没有这 20%。",
         "页面价格与购物车价格可能不同。请在购物车里确认实际适用哪个价格，以及 SONAR20 能从中减多少。其他套餐和周期没有测试，请在购物车确认。优惠码的完整规则见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
       ]
     },
@@ -208,7 +208,8 @@
         "Hostinger Reach 有 WhatsApp 吗？有，只在 Pro 套餐中。页面没有显示每条消息的费用，请在后台确认。",
         "Reach 500 是什么？它是购物车中 Grow 套餐的名称，对应 500 名收件人的上限，每月 3,500 封邮件。",
         "Hostinger Reach 还是 Mailchimp？如果收件人在 1,000 人以内，选 Reach。如果想免费开始，或名单超过 1,000 人，选 Mailchimp 或 Brevo。",
-        "SONAR20 适用于 Hostinger Reach 吗？适用。Bruno 用 Reach 500 的 24 个月套餐测试过，折扣已生效。其他套餐和周期没有测试，请在购物车确认。"
+        "SONAR20 适用于 Hostinger Reach 吗？适用。Bruno 用 Reach 500 的 24 个月套餐测试过，折扣已生效。其他套餐和周期没有测试，请在购物车确认。",
+        "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
       ]
     },
     {
@@ -231,16 +232,13 @@
   "editorialNote": "使用 SONAR20 优惠码或通过链接购买，可能为 Bruno 带来佣金，你无需额外付费。团队中没有人用过 Reach。",
   "relatedArticles": [
     {
-      "slug": "hostinger-referral-code-zh-hans",
-      "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+      "slug": "hostinger-referral-code-zh-hans"
     },
     {
-      "slug": "hostinger-trust-guide-zh-hans",
-      "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+      "slug": "hostinger-trust-guide-zh-hans"
     },
     {
-      "slug": "hostinger-domain-zh-hans",
-      "title": "Hostinger 域名：在这里买、转入，还是在别处注册？续费与下单前要确认什么"
+      "slug": "hostinger-domain-zh-hans"
     }
   ],
   "hideFromPortugueseListings": true,

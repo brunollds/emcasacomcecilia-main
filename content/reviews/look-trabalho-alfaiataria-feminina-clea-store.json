@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Três looks de trabalho com alfaiataria da Cléa Store, do blazer risca de giz com camisa off white ao colete vermelho, com o preço de cada peça em 20/10/2026 e o total com o cupom de 10%.",
-  "metaDescription": "Look de trabalho com alfaiataria feminina: 3 combinações com blazer, camisa, body e colete da Cléa Store e quanto custa cada uma, com e sem cupom.",
+  "description": "Três looks de trabalho com alfaiataria montados só com peças da Cléa Store, do neutro ao colete vermelho. Veja quanto custa cada um, com e sem o cupom de 10%.",
+  "metaDescription": "Look de trabalho com alfaiataria da Cléa Store, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: três combinações e quanto custa cada uma.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "draft": false,
@@ -137,7 +137,7 @@
       "paragraphs": [
         "Para a sexta mais leve, a t-shirt oversized de algodão troca a camisa. A [T-Shirt Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189) custa R$ 129,00, vem em 10 cores e nos tamanhos P, M e G. O corpo é 100% algodão penteado premium, e a página do produto mostra nota 4,8 com 1.007 avaliações.",
         "Por cima, o Blazer Oversized Alfaiataria Mescla (R$ 524,30) dá o toque de alfaiataria sem pesar o visual. Se o blazer não servir no seu tamanho, o Colete Alfaiataria Trespasse Vermelho (R$ 799,00) entra no lugar dele.",
-        "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts a R$ 258,00 (preço cheio R$ 387,00). Com o cupom, o kit sai por R$ 232,20, valor testado pela equipe."
+        "Quem quer mais de uma camiseta pode levar o kit de 3 t-shirts: o preço de lista é R$ 387,00, o mesmo de três avulsas, e a loja põe os kits em promoção com frequência. O cupom soma com a promoção: no teste da equipe, com o kit a R$ 258,00 naquele dia, o total ficou em R$ 232,20."
       ],
       "images": [
         {
@@ -240,16 +240,13 @@
   "editorialNote": "Preços lidos no site da Cléa Store; os looks são montagens com as fichas da loja. Podemos receber comissão pelo CSEMCASACOMCECILIA e pelos links da loja.",
   "relatedArticles": [
     {
-      "slug": "body-clea-store-second-skin-qual-escolher",
-      "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      "slug": "body-clea-store-second-skin-qual-escolher"
     },
     {
-      "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho",
-      "title": "Tabela de medidas Cléa Store: como escolher o tamanho de cada peça"
+      "slug": "clea-store-tabela-de-medidas-como-escolher-tamanho"
     },
     {
-      "slug": "cupom-clea-store-como-usar",
-      "title": "Cupom Cléa Store CSEMCASACOMCECILIA: como usar o desconto de 10%"
+      "slug": "cupom-clea-store-como-usar"
     }
   ],
   "decision": {

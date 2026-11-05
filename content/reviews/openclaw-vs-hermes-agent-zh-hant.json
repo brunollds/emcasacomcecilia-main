@@ -226,7 +226,7 @@
     {
       "heading": "優惠碼 SONAR20",
       "paragraphs": [
-        "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。我們沒有測試續約，請在購物車裡確認價格。付款前，請在購物車裡確認金額。",
+        "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。付款前，請在購物車裡確認金額。",
         "代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
       ]
     },
@@ -237,7 +237,8 @@
         "能用在 Telegram 上嗎？可以，兩者都行。你在 BotFather 建立機器人，把權杖貼到設定裡即可。",
         "需要會寫程式嗎？啟動託管版不需要：選好管道，貼上權杖就行。用 VPS 則需要懂伺服器基礎，例如 root、Docker 和更新。只有想修改專案程式碼時才需要寫程式。",
         "安全嗎？取決於你怎麼用。兩個安全政策要求的注意事項是一樣的：由一位受信任的人使用，不直接暴露在網際網路上，並審查你安裝的第三方內容。",
-        "如果我已經在用 Claude Code，該選哪個？Claude Code 是在終端機裡寫程式的工具，無法取代這兩者中的任何一個。兩者都支援 Anthropic 的金鑰：OpenClaw 把 Anthropic 列為供應商之一，Hermes Agent 的 README 把 Anthropic 金鑰列在密鑰項目裡。想要越用越會學習的代理，Hermes Agent 比較合適；想要很多管道和手機應用程式，選 OpenClaw。"
+        "如果我已經在用 Claude Code，該選哪個？Claude Code 是在終端機裡寫程式的工具，無法取代這兩者中的任何一個。兩者都支援 Anthropic 的金鑰：OpenClaw 把 Anthropic 列為供應商之一，Hermes Agent 的 README 把 Anthropic 金鑰列在密鑰項目裡。想要越用越會學習的代理，Hermes Agent 比較合適；想要很多管道和手機應用程式，選 OpenClaw。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
       ]
     },
     {
@@ -251,7 +252,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車裡確認價格。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -261,16 +262,13 @@
   "editorialNote": "使用 SONAR20 優惠碼或透過本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
-      "title": "OpenClaw 在 Hostinger：託管還是 VPS？各自要做什麼，以及適合誰"
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hant"
     },
     {
-      "slug": "best-vps-for-openclaw-zh-hant",
-      "title": "OpenClaw 最適合的 VPS：需求與該選哪個 KVM 方案"
+      "slug": "best-vps-for-openclaw-zh-hant"
     },
     {
-      "slug": "paperclip-ai-hostinger-zh-hant",
-      "title": "Paperclip AI 是什麼：是否可靠，以及如何在 Hostinger 上託管"
+      "slug": "paperclip-ai-hostinger-zh-hant"
     }
   ],
   "decision": {

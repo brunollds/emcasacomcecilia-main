@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Os números da Belive no Reclame Aqui em 16/10/2026: reputação Ótima, nota 8,1 nos últimos 6 meses, 100% das reclamações respondidas e 80% resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
-  "metaDescription": "Belive no Reclame Aqui: reputação Ótima, nota 8,1 e 80% de reclamações resolvidas nos 6 meses. Veja as queixas e o que fazer (16/10/2026).",
+  "description": "A Belive tem reputação Ótima no Reclame Aqui, com nota 8,1 nos últimos 6 meses e 80% das reclamações resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
+  "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. No Reclame Aqui, a reputação é Ótima, com nota 8,1 em 6 meses e 75% a 80% das reclamações resolvidas.",
   "publishedAt": "16 de outubro de 2026",
   "publishedAtISO": "2026-10-16",
   "draft": false,
@@ -46,9 +46,15 @@
   "affiliate": "belive",
   "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo MAUAD.",
   "relatedArticles": [
-    "belive-e-confiavel",
-    "cupom-belive-como-usar",
-    "black-friday-belive"
+    {
+      "slug": "belive-e-confiavel"
+    },
+    {
+      "slug": "cupom-belive-como-usar"
+    },
+    {
+      "slug": "black-friday-belive"
+    }
   ],
   "contentSections": [
     {

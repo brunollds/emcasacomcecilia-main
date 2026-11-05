@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN e Temu a confronto: cosa pubblicano i due negozi in Italia su spedizione, tempi di consegna e resi, cosa cambia con il dazio UE di 3 euro per categoria di prodotto sugli ordini spediti da fuori UE e cosa controllare prima di comprare. Senza confronto di prezzi.",
+  "description": "SHEIN o Temu? Cosa pubblicano i due negozi su spedizione, tempi di consegna e resi in Italia e come scegliere in base a ciò che compri. Temu concede più tempo per i resi.",
   "metaDescription": "SHEIN o Temu? Spedizione, tempi di consegna e resi per l'Italia, dazio UE di 3 euro e cosa controllare prima di comprare.",
   "publishedAt": "13 ottobre 2026",
   "publishedAtISO": "2026-10-13",
@@ -162,16 +162,13 @@
   "editorialNote": "Articolo editoriale. Possiamo ricevere una commissione sugli acquisti fatti con i link di SHEIN e Temu.",
   "relatedArticles": [
     {
-      "slug": "shein-e-affidabile-e-sicuro",
-      "title": "SHEIN è affidabile e sicuro? Chi lo gestisce, da dove viene, resi e dogana"
+      "slug": "shein-e-affidabile-e-sicuro"
     },
     {
-      "slug": "black-friday-shein-date-e-tasse",
-      "title": "Black Friday SHEIN 2026: quando inizia, fino a quando dura e come funzionano i coupon"
+      "slug": "black-friday-shein-date-e-tasse"
     },
     {
-      "slug": "codice-invito-shein-dove-inserirlo",
-      "title": "Codice invito SHEIN: dove inserirlo e come usarlo"
+      "slug": "codice-invito-shein-dove-inserirlo"
     }
   ],
   "decision": {

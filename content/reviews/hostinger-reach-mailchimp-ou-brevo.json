@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires ; les listes plus grandes vont vers Mailchimp ou Brevo. Prix mondiaux en dollars américains au 30 octobre 2026, avec le renouvellement.",
+  "description": "Reach convient à ceux qui ont déjà un site chez Hostinger et une liste de 1 000 contacts au plus ; au-delà, mieux vaut Mailchimp ou Brevo. Comparez avec leurs forfaits gratuits.",
   "metaDescription": "Hostinger Reach vaut-il le coup ? Tableau par profil, forfaits, limites d'envoi, WhatsApp et renouvellement en dollars américains au 30 octobre 2026, face aux forfaits gratuits de Mailchimp et de Brevo.",
   "publishedAt": "30 octobre 2026",
   "publishedAtISO": "2026-10-30",
@@ -206,7 +206,8 @@
         "Hostinger Reach a-t-il WhatsApp ? Oui, seulement dans le forfait Pro. La page n'indique pas le coût par message ; consultez le tableau de bord.",
         "Qu'est-ce que Reach 500 ? C'est le nom que prend Grow dans le panier Hostinger, d'après sa limite de 500 destinataires. Il envoie 3 500 e-mails par mois.",
         "Hostinger Reach ou Mailchimp ? Pour une liste allant jusqu'à 1 000 destinataires et un site chez Hostinger, Reach. Pour démarrer gratuitement ou pour une liste de plus de 1 000 contacts, Mailchimp ou Brevo.",
-        "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Oui : lors du test de Bruno, la réduction s'est appliquée à Reach 500 pour 24 mois. Pour les autres forfaits et périodes, il n'a pas été testé ; vérifiez le panier."
+        "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Oui : lors du test de Bruno, la réduction s'est appliquée à Reach 500 pour 24 mois. Pour les autres forfaits et périodes, il n'a pas été testé ; vérifiez le panier.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -229,16 +230,13 @@
   "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'a utilisé Reach.",
   "relatedArticles": [
     {
-      "slug": "code-promo-hostinger-parrainage",
-      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+      "slug": "code-promo-hostinger-parrainage"
     },
     {
-      "slug": "hostinger-est-il-fiable",
-      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      "slug": "hostinger-est-il-fiable"
     },
     {
-      "slug": "domaine-hostinger-acheter-ou-transferer",
-      "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Renouvellement et ce qu'il faut vérifier"
+      "slug": "domaine-hostinger-acheter-ou-transferer"
     }
   ],
   "decision": {

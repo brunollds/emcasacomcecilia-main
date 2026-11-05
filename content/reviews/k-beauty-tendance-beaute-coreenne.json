@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Ce qu’est la K-Beauty, pourquoi la beauté coréenne est devenue un engouement mondial pour le skincare et où trouver des marques comme COSRX, Beauty of Joseon et Anua réunies au même endroit.",
+  "description": "Qu'est-ce que la K-Beauty, pourquoi cette routine coréenne séduit le monde et comment réunir COSRX, Beauty of Joseon et Anua dans un seul panier sur YesStyle.",
   "metaDescription": "Découvrez ce qu’est la K-Beauty, pourquoi elle est devenue une tendance mondiale du skincare et où acheter des marques coréennes comme COSRX, Anua et Beauty of Joseon avec le code CECILIA010.",
   "publishedAt": "25 août 2026",
   "publishedAtISO": "2026-08-25",
@@ -131,16 +131,13 @@
   "editorialNote": "Partenariat avec YesStyle : nous pouvons recevoir une commission sur les liens et sur le code CECILIA010.",
   "relatedArticles": [
     {
-      "slug": "code-recompense-yesstyle-cecilia010",
-      "title": "YesStyle CECILIA010 : code de récompense"
+      "slug": "code-recompense-yesstyle-cecilia010"
     },
     {
-      "slug": "yesstyle-est-il-fiable-et-sur",
-      "title": "YesStyle est-il Fiable et Sûr ? Ce qu'il Faut Savoir Avant d'Acheter"
+      "slug": "yesstyle-est-il-fiable-et-sur"
     },
     {
-      "slug": "comment-trouver-des-codes-promo-yesstyle-valides",
-      "title": "Comment Trouver des Codes Promo YesStyle Valides et Utiliser CECILIA010"
+      "slug": "comment-trouver-des-codes-promo-yesstyle-valides"
     }
   ],
   "translationKey": "yesstyle-kbeauty"

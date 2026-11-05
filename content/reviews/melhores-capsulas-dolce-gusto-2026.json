@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Os sabores de cápsulas Dolce Gusto da loja oficial por perfil: cafés pretos pela intensidade, cafés com leite de uma ou duas cápsulas, chocolates, chás, gelados, Starbucks, Kopenhagen e NEO, mais os kits, os combos e o cupom CECI.",
-  "metaDescription": "Qual sabor de cápsula Dolce Gusto escolher: cafés pela intensidade, com leite, chocolates, chás, gelados, Starbucks e NEO, mais kits e combos da loja oficial.",
+  "description": "Não existe um melhor sabor de Dolce Gusto. As cápsulas da loja oficial por perfil, de cafés a chás e gelados, para escolher conforme o seu jeito de tomar café e a sua máquina.",
+  "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Qual sabor de cápsula Dolce Gusto escolher: cafés, com leite, chocolates, chás, gelados e NEO.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
   "draft": false,
@@ -354,20 +354,16 @@
   "editorialNote": "Podemos receber comissão da Dolce Gusto. Dados das páginas oficiais da loja.",
   "relatedArticles": [
     {
-      "slug": "quanto-custa-capsula-dolce-gusto",
-      "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+      "slug": "quanto-custa-capsula-dolce-gusto"
     },
     {
-      "slug": "dolce-gusto-capsulas-compativeis-guia",
-      "title": "Cápsulas Compatíveis com Dolce Gusto: O Que Serve na Sua Máquina"
+      "slug": "dolce-gusto-capsulas-compativeis-guia"
     },
     {
-      "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-      "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+      "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
     },
     {
-      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-      "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
     }
   ]
 }

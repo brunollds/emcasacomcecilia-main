@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Qual cafeteira serve para o escritório de 5, 10 ou 20 pessoas e quanto custa por mês: Dolce Gusto Negócios, TRES, Nespresso, cápsulas compatíveis e filtro, com preços de 19/10/2026.",
-  "metaDescription": "Cafeteira para escritório: o custo por mês para 5, 10 e 20 pessoas com Dolce Gusto, TRES, Nespresso e filtro, e qual máquina atende quem não toma café.",
+  "description": "Para um escritório em que nem todos tomam só café, a Dolce Gusto atende melhor; quem só toma café preto paga menos com filtro. Veja o custo por mês para 5, 10 e 20 pessoas.",
+  "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Cafeteira para equipe: custo mensal para 5, 10 e 20 pessoas em Dolce Gusto, Nespresso e filtro.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "draft": false,
@@ -405,16 +405,13 @@
   "editorialNote": "Podemos receber comissão da Dolce Gusto pelo cupom CECI e pelos links da loja. As outras marcas não têm link. Ninguém da equipe usou essas máquinas num escritório.",
   "relatedArticles": [
     {
-      "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
-      "title": "Dolce Gusto vs Nespresso vs 3 Corações: qual cafeteira de cápsula escolher em 2026?"
+      "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes"
     },
     {
-      "slug": "dolce-gusto-maquinas-qual-escolher",
-      "title": "Qual Dolce Gusto comprar: Mini Me 2.0, Genio S ou NEO, pelo seu jeito de tomar café"
+      "slug": "dolce-gusto-maquinas-qual-escolher"
     },
     {
-      "slug": "quanto-custa-capsula-dolce-gusto",
-      "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+      "slug": "quanto-custa-capsula-dolce-gusto"
     }
   ],
   "decision": {

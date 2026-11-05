@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "O que o rótulo do Nutren A-Z Multi declara: 13 vitaminas e 7 minerais por cápsula com o %VD, as três alegações, como tomar, se tem glúten e o preço na Nestlé Nutre.",
-  "metaDescription": "Nutren A-Z Multi 60 cápsulas: composição por cápsula e %VD, como tomar, se tem glúten, a diferença para Mulher e Senior e o preço com o CECI.",
+  "metaDescription": "Nutren A-Z Multi 60 cápsulas com o cupom CECI e 10% OFF: composição por cápsula e %VD, como tomar, glúten e a diferença para Mulher e Senior.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
   "draft": false,
@@ -288,16 +288,13 @@
   "editorialNote": "Guia feito com o rótulo do frasco e a página da loja, sem teste de uso. Podemos receber comissão pela Nestlé Nutre.",
   "relatedArticles": [
     {
-      "slug": "nestle-nutre-produtos-para-que-servem",
-      "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+      "slug": "nestle-nutre-produtos-para-que-servem"
     },
     {
-      "slug": "nutren-just-protein-para-que-serve",
-      "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"
+      "slug": "nutren-just-protein-para-que-serve"
     },
     {
-      "slug": "cupom-ceci-nestle-nutre-como-usar",
-      "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      "slug": "cupom-ceci-nestle-nutre-como-usar"
     }
   ]
 }

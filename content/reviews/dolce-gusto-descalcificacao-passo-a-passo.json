@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Entenda por que a Dolce Gusto acende a luz laranja, como o calcário se forma em qualquer cafeteira e veja o passo a passo de descalcificação da Mini Me, Genio S e NEO, sem usar vinagre.",
-  "metaDescription": "Luz laranja na Dolce Gusto? Veja por que o calcário se forma, quando descalcificar e o passo a passo por modelo (Mini Me, Genio S, NEO), sem vinagre.",
+  "description": "A luz laranja da Dolce Gusto é aviso de manutenção, não defeito. Entenda por que o calcário se forma e veja como descalcificar a Mini Me, a Genio S e a NEO, sem vinagre.",
+  "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Luz laranja na Dolce Gusto? Por que o calcário se forma e como descalcificar, sem vinagre.",
   "publishedAt": "29 de setembro de 2026",
   "publishedAtISO": "2026-09-29",
   "draft": false,
@@ -264,16 +264,13 @@
   "editorialNote": "Guia com base nos manuais oficiais. O cupom CECI é parceria e pode render comissão.",
   "relatedArticles": [
     {
-      "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-      "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+      "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
     },
     {
-      "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
-      "title": "Dolce Gusto Mini Me Vale a Pena? Análise Real"
+      "slug": "dolce-gusto-mini-me-2-0-vale-a-pena"
     },
     {
-      "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
-      "title": "Dolce Gusto Genio S Basic vs Plus vs Touch: Qual a Diferença?"
+      "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch"
     }
   ]
 }

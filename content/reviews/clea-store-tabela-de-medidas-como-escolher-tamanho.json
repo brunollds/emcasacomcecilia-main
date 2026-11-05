@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Como ler a tabela de medidas da Cléa Store: onde ela fica, como medir busto, cintura e quadril, as faixas de P, M e G nas peças de cima e de 36 a 42 na calça, e o que fazer entre dois tamanhos.",
-  "metaDescription": "Tabela de medidas da Cléa Store: como medir busto, cintura e quadril e escolher entre P, M e G ou 36 a 42 em cada peça. Medidas lidas em 20/10/2026.",
+  "description": "Como escolher o tamanho na tabela de medidas da Cléa Store: onde achar, como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos.",
+  "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Tabela de medidas: como medir busto, cintura e quadril e escolher entre P, M, G ou 36 a 42.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "draft": false,
@@ -206,16 +206,13 @@
   "editorialNote": "Medidas lidas no site da Cléa Store; ninguém da equipe vestiu as peças. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
   "relatedArticles": [
     {
-      "slug": "body-clea-store-second-skin-qual-escolher",
-      "title": "Body Cléa Store Second Skin: qual modelo escolher por uso, tamanho e preço"
+      "slug": "body-clea-store-second-skin-qual-escolher"
     },
     {
-      "slug": "look-trabalho-alfaiataria-feminina-clea-store",
-      "title": "Look de trabalho com alfaiataria: combinações com peças da Cléa Store e quanto custa cada uma"
+      "slug": "look-trabalho-alfaiataria-feminina-clea-store"
     },
     {
-      "slug": "clea-store-e-confiavel",
-      "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+      "slug": "clea-store-e-confiavel"
     }
   ]
 }

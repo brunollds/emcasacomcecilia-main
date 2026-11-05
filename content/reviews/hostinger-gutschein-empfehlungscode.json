@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Der Hostinger-Gutschein SONAR20 gibt 20 % Rabatt auf den ersten Zeitraum, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Sie sehen, wo der Code hingehört und was sich bei der Verlängerung ändert.",
+  "description": "Mit dem Code SONAR20 sparen Sie 20 % auf den ersten Zeitraum eines Hostinger-Tarifs, monatlich oder jährlich. Sie sehen, wo er hingehört und was sich bei der Verlängerung ändert.",
   "metaDescription": "Hostinger-Gutschein SONAR20: 20 % Rabatt auf den ersten Zeitraum, bei Monats- oder Jahrestarif. Sehen Sie, wo der Code im Warenkorb hingehört und was sich bei der Verlängerung ändert.",
   "publishedAt": "19. Oktober 2026",
   "publishedAtISO": "2026-10-19",
@@ -45,7 +45,7 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Ja, es gibt einen Gutscheincode: **SONAR20** gibt 20 % Rabatt auf den ersten Zeitraum jedes [Hostinger](/de/coupons/hostinger)-Tarifs, ob monatlich oder jährlich, für Neu- und Bestandskunden. Fügen Sie den Code im Gutscheinfeld des Warenkorbs ein oder gehen Sie über den Link in diesem Artikel. Die Verlängerung haben wir nicht getestet."
+        "Ja, es gibt einen Gutscheincode: **SONAR20** gibt 20 % Rabatt auf den ersten Zeitraum jedes [Hostinger](/de/coupons/hostinger)-Tarifs, ob monatlich oder jährlich, für Neu- und Bestandskunden. Fügen Sie den Code im Gutscheinfeld des Warenkorbs ein oder gehen Sie über den Link in diesem Artikel. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },
     {
@@ -70,13 +70,13 @@
     {
       "heading": "Monatstarif, Jahrestarif und Bestandskunden",
       "paragraphs": [
-        "SONAR20 gibt 20 % auf den ersten Zeitraum bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Wir haben nur den Hosting-Tarif Startup getestet; bei VPS, E-Mail, KI-Agenten und Domain prüfen Sie im Warenkorb, ob der Rabatt erscheint. Bestandskunden nutzen den Code für einen neuen Tarif; für die Verlängerung eines Tarifs, den Sie schon haben, sehen Sie den Preis im Kundenbereich."
+        "SONAR20 gibt 20 % auf den ersten Zeitraum bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Beim VPS gilt der Code; bei E-Mail und KI-Agenten prüfen Sie im Warenkorb, ob der Rabatt erscheint. Bei einer einzelnen Domain gilt der Code nicht. Bestandskunden nutzen den Code für jeden neuen Tarif oder jedes neue Produkt: Wir haben ihn mit einem alten Konto getestet, und SONAR20 zog 20 % von einem neuen Produkt ab, zusätzlich zum Rabatt der Aktion. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet."
       ]
     },
     {
       "heading": "Verlängerung: Was nach dem ersten Zeitraum anders ist",
       "paragraphs": [
-        "Nach dem ersten Zeitraum verlängert sich der Tarif zum Standardpreis, der unter der Karte jedes Tarifs steht. Die Seite sagt, dass Sie den Zeitraum ändern oder vor der Verlängerung jederzeit kündigen können."
+        "Nach dem ersten Zeitraum verlängert sich der Tarif zum Standardpreis, der unter der Karte jedes Tarifs steht, ohne den Rabatt von SONAR20. Die Seite sagt, dass Sie den Zeitraum ändern oder vor der Verlängerung jederzeit kündigen können."
       ]
     },
     {
@@ -84,7 +84,7 @@
       "bullets": [
         "Wählen Sie Tarif und Laufzeit und gehen Sie zum Warenkorb.",
         "Fügen Sie SONAR20 im Gutscheinfeld ein und wenden Sie ihn an.",
-        "Prüfen Sie, ob die 20 % in der Summe des ersten Zeitraums erscheinen und ob die Verlängerung aufgeführt ist.",
+        "Prüfen Sie, ob die 20 % in der Summe des ersten Zeitraums erscheinen und ob die Verlängerung zum Listenpreis aufgeführt ist.",
         "Weicht der Betrag im Warenkorb von den angezeigten Preisen ab, gilt der Betrag im Warenkorb."
       ]
     },
@@ -93,8 +93,8 @@
       "bullets": [
         "Gibt es bei Hostinger einen Gutschein? Ja: Der Code SONAR20 gibt 20 % auf den ersten Zeitraum jedes Tarifs, ob monatlich oder jährlich.",
         "Wo trage ich den Hostinger-Gutschein ein? Im Warenkorb, im Feld „Have a coupon code?“. Fügen Sie SONAR20 ein und wenden Sie ihn an, bevor Sie zahlen.",
-        "Gilt SONAR20 für Bestandskunden? Ja, für einen neuen Tarif, nach den Regeln der Partnerschaft. Für die Verlängerung eines Tarifs, den Sie schon haben, sehen Sie den Preis im Kundenbereich.",
-        "Gibt der Gutschein Rabatt auf die Verlängerung? Das haben wir nicht getestet. Prüfen Sie den Verlängerungspreis im Warenkorb, bevor Sie zahlen.",
+        "Gilt SONAR20 für Bestandskunden? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %.",
+        "Gibt der Gutschein Rabatt auf die Verlängerung? Nein: Die Verlängerung wird zum Listenpreis berechnet, den der Warenkorb direkt unter dem Tarif anzeigt. Die 20 % gelten nur bei einem Neukauf.",
         "Gilt SONAR20 am Black Friday? Ja: Im Test im Warenkorb wurden die 20 % vom Preis der Aktion abgezogen."
       ]
     }
@@ -102,7 +102,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Tragen Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung mit dem Code nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "text": "Tragen Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
     "label": "Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -112,16 +112,13 @@
   "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Diese Website läuft auf Hostinger.",
   "relatedArticles": [
     {
-      "slug": "ist-hostinger-serioes",
-      "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      "slug": "ist-hostinger-serioes"
     },
     {
-      "slug": "hostinger-trustpilot-bewertungen",
-      "title": "Hostinger auf Trustpilot: Bewertung, Beschwerden und was 200 Bewertungen zeigen"
+      "slug": "hostinger-trustpilot-bewertungen"
     },
     {
-      "slug": "hostinger-black-friday-angebote",
-      "title": "Hostinger Black Friday 2026: SONAR20 zieht 20 % vom Aktionspreis ab"
+      "slug": "hostinger-black-friday-angebote"
     }
   ]
 }

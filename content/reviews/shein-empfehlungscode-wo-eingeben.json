@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Wo Sie den SHEIN-Empfehlungscode eingeben (in der Suche, nicht im Gutscheinfeld), die Schritt-für-Schritt-Anleitung mit Screenshots, was nach der Suche erscheint, was sich seit dem alten Programm von 2024 geändert hat und wie Sie Ihren eigenen Code bekommen.",
+  "description": "Der SHEIN-Empfehlungscode gehört in die Suche des Shops, nicht ins Gutscheinfeld, und gibt keinen festen Rabatt. Hier die Anleitung, was er öffnet und wie Sie Ihren Code bekommen.",
   "metaDescription": "Der SHEIN-Empfehlungscode gehört in die Suche, nicht ins Gutscheinfeld. Hier die Anleitung mit Screenshots, was er öffnet, was sich 2024 geändert hat und wie Sie Ihren eigenen bekommen.",
   "publishedAt": "13. Oktober 2026",
   "publishedAtISO": "2026-10-13",
@@ -129,12 +129,10 @@
   "editorialNote": "Regeln der offiziellen SHEIN-Seiten. Wir können für Käufe eine Provision erhalten.",
   "relatedArticles": [
     {
-      "slug": "ist-shein-serioes-und-sicher",
-      "title": "Ist SHEIN seriös und sicher? Betreiber, Herkunft, Rückgabe und Zoll"
+      "slug": "ist-shein-serioes-und-sicher"
     },
     {
-      "slug": "shein-black-friday-termine-steuern",
-      "title": "Black Friday SHEIN 2026: Beginn, Ende und so funktionieren die Gutscheine"
+      "slug": "shein-black-friday-termine-steuern"
     }
   ]
 }

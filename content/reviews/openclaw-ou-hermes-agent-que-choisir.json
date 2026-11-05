@@ -226,7 +226,7 @@
     {
       "heading": "Code promo SONAR20",
       "paragraphs": [
-        "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. Vérifiez le montant dans le panier avant de payer.",
+        "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Vérifiez le montant dans le panier avant de payer.",
         "Où coller le code est expliqué dans [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
       ]
     },
@@ -237,7 +237,8 @@
         "Ça marche avec Telegram ? Oui, avec les deux. Vous créez le bot avec BotFather et collez le jeton dans la configuration.",
         "Faut-il savoir programmer ? Pour lancer l'offre gérée, non : vous choisissez les canaux et collez le jeton. En VPS, il faut connaître les bases des serveurs, comme root, Docker et les mises à jour. La programmation n'entre en jeu que si vous voulez toucher au code du projet.",
         "Est-ce sûr ? Cela dépend de l'usage. Les deux politiques de sécurité demandent la même précaution : usage par une personne de confiance, sans exposition directe à l'internet et avec un examen de ce que vous installez de tiers.",
-        "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw cite Anthropic parmi ses fournisseurs, et le README de Hermes Agent range la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une appli sur le téléphone, OpenClaw."
+        "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw cite Anthropic parmi ses fournisseurs, et le README de Hermes Agent range la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une appli sur le téléphone, OpenClaw.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -251,7 +252,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -261,16 +262,13 @@
   "editorialNote": "Les achats avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'utilise OpenClaw ni Hermes Agent.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-gere-ou-vps",
-      "title": "OpenClaw chez Hostinger : géré ou VPS ? Ce qu'exige chaque option et à qui elle convient"
+      "slug": "openclaw-hostinger-gere-ou-vps"
     },
     {
-      "slug": "meilleur-vps-pour-openclaw",
-      "title": "Meilleur VPS pour OpenClaw : besoins et forfait KVM à choisir"
+      "slug": "meilleur-vps-pour-openclaw"
     },
     {
-      "slug": "paperclip-ai-hostinger-guide-fr",
-      "title": "Paperclip AI : ce que c'est, s'il est fiable et comment l'héberger chez Hostinger"
+      "slug": "paperclip-ai-hostinger-guide-fr"
     }
   ],
   "decision": {

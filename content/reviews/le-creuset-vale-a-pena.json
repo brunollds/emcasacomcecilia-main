@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "O que a Le Creuset diz sobre indução, forno, lava-louças, micro-ondas e panela queimada, o que a garantia não cobre, a comparação com a Staub e onde comprar, com preços de 12/10/2026.",
-  "metaDescription": "Le Creuset vale a pena? Indução, forno por tipo de puxador, lava-louças, micro-ondas, como limpar o queimado e Le Creuset ou Staub, pelas regras das marcas.",
+  "description": "Le Creuset vale a pena? O que a marca diz sobre indução, forno, lava-louças, micro-ondas e panela queimada, o que a garantia não cobre e como ela se compara à Staub.",
+  "metaDescription": "Le Creuset vale a pena com o cupom MAUAD de 5% OFF? Indução, forno por tipo de puxador, lava-louças, micro-ondas e a comparação com a Staub.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
   "draft": false,
@@ -214,16 +214,13 @@
   "editorialNote": "Podemos receber comissão pelos links da Let's Eat It. Não testamos as panelas: as regras são das marcas.",
   "relatedArticles": [
     {
-      "slug": "black-friday-letseatit",
-      "title": "Black Friday Let's Eat It 2026: Le Creuset, Porto Brasil e presentes de Natal com desconto"
+      "slug": "black-friday-letseatit"
     },
     {
-      "slug": "lets-eat-it-e-confiavel",
-      "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      "slug": "lets-eat-it-e-confiavel"
     },
     {
-      "slug": "porto-brasil-e-boa",
-      "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e Porto Brasil ou Oxford"
+      "slug": "porto-brasil-e-boa"
     }
   ]
 }

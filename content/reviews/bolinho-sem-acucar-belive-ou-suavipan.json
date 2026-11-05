@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "O bolinho de chocolate da Belive e o da Suavipan lado a lado: o que cada embalagem promete, os adoçantes, glúten, leite, alérgicos e o preço por unidade.",
-  "metaDescription": "Bolinho sem açúcar Belive ou Suavipan: zero açúcar ou zero adição, adoçantes, glúten e leite, alérgicos e preço por unidade de cada um.",
+  "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Bolinho sem açúcar, Belive ou Suavipan: rótulo de cada um, adoçantes, glúten, leite e preço por unidade.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
   "draft": false,
@@ -323,16 +323,13 @@
   "editorialNote": "Comparação feita com os rótulos e as listas de ingredientes publicados pelas lojas. Não provamos os bolinhos. Podemos receber comissão pelo cupom MAUAD da Belive.",
   "relatedArticles": [
     {
-      "slug": "doces-sem-acucar-para-diabeticos",
-      "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+      "slug": "doces-sem-acucar-para-diabeticos"
     },
     {
-      "slug": "brownie-sem-acucar-belive",
-      "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      "slug": "brownie-sem-acucar-belive"
     },
     {
-      "slug": "pao-de-mel-sem-acucar-belive",
-      "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+      "slug": "pao-de-mel-sem-acucar-belive"
     }
   ]
 }

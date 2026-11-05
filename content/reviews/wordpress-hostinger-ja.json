@@ -149,7 +149,7 @@
     {
       "heading": "SONAR20 クーポンと価格",
       "paragraphs": [
-        "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでは SONAR20 をテストしていません。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されます。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
+        "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでも SONAR20 が使えます。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されますが、更新料にSONAR20の20%は含まれません。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
       ]
     },
     {
@@ -166,8 +166,9 @@
         "Hostinger の WordPress で一番安いプランは？ Premium で、48か月で月額 US$2.49（合計 US$119.52）、3サイトまでです。更新料は月額 US$10.99です。",
         "Hostinger では WordPress はインストール済みですか？ ホスティングのパネルからインストールします。ファイルを手でダウンロードする必要はありません。手順は上のチェックリストにあります。",
         "オンラインショップ向けの Hostinger の WordPress プランは？ Unlimited です。毎日のバックアップとサイト数無制限が理由です。アクセスの多いショップなら Cloud Startup です。",
-        "SONAR20 は Hostinger の WordPress プランで使えますか？ WordPress プランではテストしていません。カートで価格を確認してください。使える場合は、最初の期間が20%割引です。",
-        "更新料はプロモーション価格と同じですか？ いいえ。最初の48か月の期間が終わると更新料になります。Premium では月額 US$10.99です。"
+        "SONAR20 は Hostinger の WordPress プランで使えますか？ WordPress プランでも使えます。カートで価格を確認してください。最初の期間が20%割引です。",
+        "更新料はプロモーション価格と同じですか？ いいえ。最初の48か月の期間が終わると更新料になります。Premium では月額 US$10.99です。",
+        "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
       ]
     },
     {
@@ -180,7 +181,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。WordPress プランでは検証していません。カートで価格を確認してください。",
+    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。WordPress プランでも使えます。カートで価格を確認してください。",
     "label": "WordPress プランを SONAR20 で見る",
     "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -190,16 +191,13 @@
   "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も Hostinger の WordPress は使っていません。",
   "relatedArticles": [
     {
-      "slug": "hostinger-ai-builder-ja",
-      "title": "Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？"
+      "slug": "hostinger-ai-builder-ja"
     },
     {
-      "slug": "hostinger-referral-code-ja",
-      "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      "slug": "hostinger-referral-code-ja"
     },
     {
-      "slug": "hostinger-domain-ja",
-      "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 更新料と確認すべきこと"
+      "slug": "hostinger-domain-ja"
     }
   ],
   "decision": {

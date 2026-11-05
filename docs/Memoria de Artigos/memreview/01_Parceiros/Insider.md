@@ -26,7 +26,7 @@ consultado em 2026-10-05.
 | Comissão a partir de 10% das vendas atribuídas ao cupom ou ao link | condicao_comercial_volatil | FAQ oficial, seção 5 | 2026-10-05 | 2026-11-05 | Pode subir em ações e períodos promocionais; acompanhamento pela Inbazz | Alta |
 | Frete grátis acima de R$ 399, calculado depois do desconto | condicao_comercial_volatil | Política de frete do site e aviso "Faltam R$ X pra ganhar Frete Grátis" no carrinho | 2026-10-05 | 2026-11-05 | Os termos de uso ainda dizem R$ 349; valem a política e o carrinho | Alta |
 | Indicação (Member Get Member): cupom de R$ 150 para quem nunca comprou | condicao_comercial_volatil | Termos de uso | 2026-10-05 | 2026-11-05 | Compras acima de R$ 399; um cupom por pedido, sem somar com o EMCASACOMCECILIA | Alta |
-| Cupom de boas-vindas da própria loja na primeira compra online | condicao_comercial_volatil | Central de ajuda, "A INSIDER - Informações sobre a Empresa" (17/09/2026) | 2026-10-05 | 2026-11-05 | Liberado ao cadastrar o e-mail no pop-up do site. Não citar o percentual dele nos textos | Alta |
+| Cupom de boas-vindas da própria loja na primeira compra online | condicao_comercial_volatil | Central de ajuda, "A INSIDER - Informações sobre a Empresa" (17/09/2026); pop-up do site, lido pelo Chrome em 05/11 ("ATIVE 15% OFF AGORA") | 2026-11-05 | 2026-12-05 | Liberado ao cadastrar o e-mail no pop-up do site: 15%, o mesmo do EMCASACOMCECILIA, sem somar. Exceção do Bruno (05/11): o FAQ de /cupons/insider cita os 15% para comparar (#601). Fora dele, não citar o percentual nos textos | Alta |
 | Pagamento: Pix à vista, Pix parcelado em até 4x sem juros (Pagaleve), cartão em até 3x sem juros ou de 4x em diante com juros, boleto | condicao_comercial_volatil | Termos de uso | 2026-10-05 | 2026-11-05 | Na loja física: Pix, dinheiro e cartão em até 3x | Alta |
 | O EMCASACOMCECILIA soma com os preços da Black Friday e com o Pix e vale com todas as formas de pagamento, salvo quando a promoção disser o contrário | condicao_comercial_volatil | Bruno, 09/10/2026, confirmado em 12/10/2026 | 2026-10-12 | 2026-11-09 | A promoção de 10/10 (R$ 100 OFF em selecionados) avisava na página do produto que não acumulava com cupons; nos outros itens do carrinho, o cupom seguia valendo | Alta |
 | Pix com 10% OFF na barra do site, na coleção da Black Friday e nos banners da semana 10.10 | condicao_comercial_volatil | Home e `/collections/black-friday-insider` | 2026-10-09 | 2026-11-09 | Um banner fala em "+10% OFF no Pix na semana 10.10": reconferir o percentual a cada rodada. Não vale na compra de gift card (termos, seção 6). Não confirmado se vale no Pix parcelado | Alta |
@@ -133,7 +133,7 @@ nova consulta.
 
 Com o percentual liberado, o desconto em reais também pode aparecer (preço original, preço com
 cupom e economia). Continua valendo não citar o percentual do cupom de boas-vindas da loja nem
-códigos de terceiros.
+códigos de terceiros. A única exceção é o FAQ "vale na primeira compra?" de /cupons/insider (Bruno, 05/11/2026).
 
 Outras regras do programa que valem para o site e para as redes:
 

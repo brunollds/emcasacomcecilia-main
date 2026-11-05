@@ -62,8 +62,19 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 - Como usar diz como vestir, não repete a ficha. Combina com só leva o que acrescenta: nada de chinelo ou meia genéricos; sem combinação útil, a peça fica só com como usar e ocasião (acessórios, pijamas, roupa íntima).
 - Sem preço e sem markdown no card. Sem dizer que alguém do site usou a peça.
 - Link da peça é o de afiliado (na Insider, o link de criador `creators.insiderstore.com.br/<código>`, conferido pelo redirecionamento até o produto certo). Peça sem link fica sem `url`; esgotada fica fora do card.
-- Família de 10 idiomas: o mesmo card e o mesmo `href` em toda versão, na mesma seção e posição; como usar, ocasião e nota traduzidos. Na SHEIN, o link de produto `onelink.shein.com` vale em todo idioma (a SHEIN leva o leitor à loja regional); `br.shein.com` e os links de cupom do PT ficam só no PT. O `test:review-i18n` barra a diferença.
+- Família de 10 idiomas: o mesmo card e o mesmo `href` em toda versão, na mesma seção e posição; como usar, ocasião e nota traduzidos. Na SHEIN, o link de produto vale em todo idioma, `onelink.shein.com` ou `br.shein.com` (a SHEIN leva o leitor à loja regional; regra de 02/11); os links de cupom do PT ficam só no PT. O `test:review-i18n` barra a diferença.
 - O briefing traz o card proposto de cada seção para o Bruno aprovar junto com a pauta.
+
+### Snippet com o código
+- Todo artigo em português com `coupon` leva `metaDescription`, e o briefing já a propõe no campo `meta_description`. Quem busca a loja muitas vezes compra sem clicar: o código tem de aparecer no snippet do Google.
+- O código exato da loja e o desconto (`N%` ou "até N%") vão na primeira frase, e o código termina até o caractere 100: o Google corta perto de 120 no celular.
+- No máximo 155 caracteres.
+- Sem data. O ano da Black Friday ("Black Friday Skelt 2026") pode ficar; o dia e o mês, não.
+- Sem R$. A única exceção é a Dolce Gusto: "a partir de R$ 100".
+- Não abrir com "Cupom <loja>". Alternar as aberturas: "O cupom X dá 10% OFF…", "Com o X, 10% OFF…" ou a pergunta do título seguida do código.
+- Por loja: Probiótica e Max Titanium, "até 10%"; YesStyle, "até 5%", e o CECILIA010 é código de recompensa, nunca "cupom", sem "outros cupons" na mesma frase; SHEIN, "pesquise 4CW5Y no app", sem % e nunca "SHEIN Brasil"; Insider, nada de promessa em lançamento; Nutre, nunca fórmula infantil de 0 a 12 meses; MAUAD, só o código, sem explicar o nome.
+- Ficam fora da regra: a Magalu inteira, o artigo de domínio da Hostinger (o SONAR20 não vale em domínio) e os artigos sem código que valha no produto (ex.: `le-creuset-original-como-saber`, `shein-reclame-aqui-nota-reputacao`).
+- O `validate:content` confere a regra no build (Job 5).
 
 ### Experiência própria e autoria
 - Pauta que depende de uso ("a camiseta é boa?") fica parada enquanto ninguém do site comprou ou recebeu o produto. Sem uso real, a opinião não sai solta: cada afirmação leva um dos rótulos da matriz de claims do briefing (Template, seção 6). "A loja informa:" para o que vem da loja; "Conta nossa:" para as contas nossas; "Regra prática, sem teste nosso:" para conhecimento geral, sempre com a premissa escrita; "Recebi:" ou "Usei:" só para experiência real.
@@ -79,7 +90,7 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 2. Um arquivo de instruções comum e um subagente por pauta, em paralelo. O prompt de cada subagente cita o caminho absoluto do worktree e proíbe editar o worktree e o checkout principal: o briefing nasce no scratchpad com `status: "briefing"`.
 3. Claude fecha as pendências de navegador dos briefings e junta as perguntas de todos numa lista só para o Bruno.
 4. As respostas entram no fim de cada briefing, numa seção `## Decisões do Bruno (<data>)`; o status passa a `pauta-aprovada`.
-5. O briefing vai para `02_Artigos/<slug>.md`, com o `PAINEL-DA-ESTEIRA.md` (seção 1) e a `Fila-de-Pautas.md` atualizados, num PR só do vault.
+5. O briefing vai para `02_Artigos/<slug>.md`, com a linha da pauta atualizada na `Fila-de-Pautas.md` (o estoque único; a seção 1 lista os briefings que esperam redação), num PR só do vault.
 6. A redação (Job 2) segue na sessão elaboradora de artigos.
 
 ---

@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Espresso (intensidade 5) ou Espresso Intenso (7)? Veja o que muda, a xícara, o ingrediente, o que a loja diz da cafeína e o preço na loja oficial.",
-  "metaDescription": "Espresso Dolce Gusto: o que muda entre o de intensidade 5 e o Intenso 7, xícara, ingrediente, cafeína e preço por cápsula na loja oficial.",
+  "metaDescription": "Espresso Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: intensidade 5 ou Intenso 7, xícara, cafeína e preço por cápsula.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
   "draft": false,
@@ -172,16 +172,13 @@
   "editorialNote": "Ficha feita a partir das páginas do produto na loja oficial, sem teste próprio. O Em Casa com Cecília tem parceria comercial com a NESCAFÉ Dolce Gusto e pode receber comissão pelas compras feitas com o CECI.",
   "relatedArticles": [
     {
-      "slug": "melhores-capsulas-dolce-gusto-2026",
-      "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+      "slug": "melhores-capsulas-dolce-gusto-2026"
     },
     {
-      "slug": "quanto-custa-capsula-dolce-gusto",
-      "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+      "slug": "quanto-custa-capsula-dolce-gusto"
     },
     {
-      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-      "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
     }
   ]
 }

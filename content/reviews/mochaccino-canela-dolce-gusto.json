@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Veja o que a loja oficial informa sobre o Mochaccino Canela Dolce Gusto: 77 kcal por cápsula, ingredientes, açúcar, cafeína, volume, preço e avaliação.",
-  "metaDescription": "Mochaccino Canela Dolce Gusto: 77 kcal por cápsula, ingredientes, açúcar, glúten, cafeína, volume (conta nossa), preço e avaliação na loja oficial.",
+  "metaDescription": "Mochaccino Canela Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: 77 kcal por cápsula, ingredientes, cafeína e preço.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
   "draft": false,
@@ -179,16 +179,13 @@
   "editorialNote": "Texto feito a partir da página do produto na loja oficial, sem teste de sabor: as contas são identificadas no texto. Parceria comercial com a Dolce Gusto: pode haver comissão nas compras feitas com o CECI.",
   "relatedArticles": [
     {
-      "slug": "melhores-capsulas-dolce-gusto-2026",
-      "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+      "slug": "melhores-capsulas-dolce-gusto-2026"
     },
     {
-      "slug": "quanto-custa-capsula-dolce-gusto",
-      "title": "Quanto custa cada bebida Dolce Gusto: preço por cápsula, por caixa e por xícara"
+      "slug": "quanto-custa-capsula-dolce-gusto"
     },
     {
-      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar",
-      "title": "Como usar o cupom CECI na NESCAFÉ Dolce Gusto: 10% de desconto no site"
+      "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
     }
   ]
 }

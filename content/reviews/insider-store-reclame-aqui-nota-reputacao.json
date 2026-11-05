@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Os números da Insider Store no Reclame Aqui: reputação RA1000, nota 9,0 nos últimos 6 meses, 99,4% das reclamações respondidas e 92,6% resolvidas. Veja o que mais gera queixa, como a loja responde e os dois alertas recentes.",
-  "metaDescription": "Insider Store no Reclame Aqui: reputação RA1000, nota 9,0 e 92,6% de solução. Veja as queixas mais comuns, como a loja responde e como reclamar.",
+  "description": "A Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. Veja o que mais gera queixa e os dois alertas recentes.",
+  "metaDescription": "Insider Store no Reclame Aqui, com o cupom EMCASACOMCECILIA de 15% OFF: RA1000, nota 9,0 e 92,6% de solução, as queixas e como a loja responde.",
   "publishedAt": "5 de outubro de 2026",
   "publishedAtISO": "2026-10-05",
   "draft": false,
@@ -309,12 +309,10 @@
   "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo EMCASACOMCECILIA.",
   "relatedArticles": [
     {
-      "slug": "insider-store-e-confiavel",
-      "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+      "slug": "insider-store-e-confiavel"
     },
     {
-      "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-      "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+      "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
     }
   ]
 }

@@ -156,7 +156,7 @@
     {
       "heading": "优惠码 SONAR20",
       "paragraphs": [
-        "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**首个周期享 8 折**（即减 20%），月付或年付均可，新老客户都适用。我们没有测试续费，请在购物车里确认价格。代码填在哪里，见[如何使用优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。付款前请在购物车里确认金额。"
+        "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**首个周期享 8 折**（即减 20%），月付或年付均可，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。代码填在哪里，见[如何使用优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。付款前请在购物车里确认金额。"
       ]
     },
     {
@@ -180,7 +180,8 @@
         "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。在所查阅的资料中，我们没有找到独立审计。",
         "需要 API 密钥吗？ 需要。无论托管版还是 VPS，Paperclip 的页面都要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
         "能搭配 Ollama 使用吗？ 取决于您连接的智能体。Paperclip 的 README 没有提到 Ollama，这是一个在自己电脑上运行 AI 模型的程序。例如 OpenClaw 记录了本地模型的用法；而在 Paperclip 中，模型取决于您连接的智能体。",
-        "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。我们没有测试续费，请在购物车里确认价格。"
+        "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+        "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
       ]
     },
     {
@@ -193,7 +194,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。我们没有测试续费，请在购物车确认价格。",
+    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
     "label": "用 SONAR20 查看套餐",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -203,16 +204,13 @@
   "editorialNote": "通过代码 SONAR20 或链接购买，Bruno 可能获得佣金，您无需额外付费。团队里没有人使用 Paperclip。",
   "relatedArticles": [
     {
-      "slug": "openclaw-vs-hermes-agent-zh-hans",
-      "title": "OpenClaw 还是 Hermes Agent？怎么选，以及在 Hostinger 上各自怎么跑"
+      "slug": "openclaw-vs-hermes-agent-zh-hans"
     },
     {
-      "slug": "openclaw-hostinger-managed-or-vps-zh-hans",
-      "title": "OpenClaw 在 Hostinger：托管还是 VPS？各自要做什么，以及适合谁"
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hans"
     },
     {
-      "slug": "hostinger-referral-code-zh-hans",
-      "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+      "slug": "hostinger-referral-code-zh-hans"
     }
   ],
   "decision": {

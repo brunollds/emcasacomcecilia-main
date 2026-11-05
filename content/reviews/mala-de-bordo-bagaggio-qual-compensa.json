@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "Mala de bordo Bagaggio: qual compensa? Comparamos Detroit, Route, Cartagena e Downtown pelo preço, pela medida e pelo selo BORDO das páginas de produto de 30/10/2026.",
-  "metaDescription": "Mala de bordo Bagaggio: preço, medida, peso e litros de 7 malas, o selo BORDO informado pela loja e a regra de bagagem de mão da ANAC, LATAM, GOL e Azul em 30/10/2026.",
+  "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Mala de bordo: preço, medida, peso e litros de 7 malas, o selo BORDO e a regra da ANAC, LATAM, GOL e Azul.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
   "draft": false,
@@ -230,20 +230,16 @@
   "editorialNote": "Feito com as páginas públicas dos produtos na loja. Podemos receber comissão pelas compras com o CECILIA10. Não conferimos o CECILIA10 no carrinho.",
   "relatedArticles": [
     {
-      "slug": "tamanho-mala-bagaggio-p-m-g",
-      "title": "Qual tamanho de mala comprar: 10 kg, 23 kg ou 32 kg (P, M e G) na Bagaggio"
+      "slug": "tamanho-mala-bagaggio-p-m-g"
     },
     {
-      "slug": "mala-policarbonato-ou-abs-bagaggio",
-      "title": "Mala de policarbonato ou ABS na Bagaggio: vale pagar mais?"
+      "slug": "mala-policarbonato-ou-abs-bagaggio"
     },
     {
-      "slug": "conjunto-de-malas-bagaggio-compensa",
-      "title": "Conjunto de malas Bagaggio compensa? A soma das peças, conta por conta"
+      "slug": "conjunto-de-malas-bagaggio-compensa"
     },
     {
-      "slug": "black-friday-bagaggio",
-      "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+      "slug": "black-friday-bagaggio"
     }
   ]
 }

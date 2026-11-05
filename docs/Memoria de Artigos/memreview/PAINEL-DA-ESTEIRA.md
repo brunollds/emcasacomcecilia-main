@@ -6,26 +6,7 @@
 
 ## 1. Pautas Aprovadas (`status: pauta-aprovada`)
 *Aguardando início da redação pelo Job-2.*
-- [ ] [[shein-vale-a-pena]]: SHEIN vale a pena? Preço, prazo, imposto e devolução (10 idiomas); no mesmo PR, a data da alíquota zero (12/05) em 2 artigos
-- [ ] [[tamanho-shein-brasil]]: Tamanho SHEIN no Brasil: como ler o Guia de tamanhos de cada peça e o que fazer se não servir (10 idiomas)
-- [ ] [[camiseta-insider-qual-escolher]]: Camiseta Insider: qual escolher (Tech, Core, Heavy, Polo, Henley) (PT); revisão: piloto "Como usar / Ocasião / Combina com" (briefing, seção 11)
-- [ ] [[sutia-toda-up-qual-escolher]]: Sutiã Toda Up: Comfort Up, Line ou Slim (PT)
-- [ ] [[kit-insider-quando-compensa]]: Kit Insider: quando compensa contra peças avulsas (14 de 17 kits mais baratos; Tech 5 e 10 de 16% a 23%) (PT); teste do cupom em kit com o Bruno
-- [ ] [[glutamina-qual-escolher-black-skull-max-probiotica]]: Glutamina: qual escolher (Black Skull, Max e Probiótica) pelo rótulo e pelo preço por 100 g (PT)
-- [ ] [[taca-base-esfera-e-tacas-coloridas]]: Taça base esfera e taças coloridas: conjunto, cor e uso (Let's Eat It) (PT); no mesmo PR, o preço da Sphere no artigo de mesa posta
-- [ ] [[vestido-de-festa-shein]]: Vestido de festa na SHEIN: Natal, Réveillon, formatura e convidada de casamento (10 idiomas)
-- [ ] [[whey-probiotica-concentrado-ou-isolado]]: Whey Probiótica: concentrado ou isolado como SEÇÃO de `melhor-whey-qual-escolher-por-objetivo` (PT); no mesmo PR, 20 g por dose em `probiotica-ou-integralmedica`
-- [ ] [[camiseta-feminina-insider-qual-escolher]]: Camiseta feminina Insider: qual escolher (Tech, Manga Longa, Perfect Top T-Shirt, NEXTECH, Skin Cropped) (PT); par do artigo masculino
-- [ ] [[card-estilo-roupas-lote-3110]]: card de estilo na cueca e no undershirt Insider, na Fita Up e na camiseta, no body e na alfaiataria da Cléa (PT)
-- [ ] [[card-estilo-shein-3110]]: SHEIN, card de estilo e foto com link no vestido de festa e no 11.11 (10 idiomas; antes de 12/11; deploy junto com o #386)
-- [ ] [[outlet-insider-vale-a-pena-cupom]]: Outlet Insider, o que vale a pena e quanto sai com o cupom (PT; links de criador e teste das peças de lançamento com o Bruno)
-- [ ] [[canibalizacao-cupom-lojas-3110]]: como usar × /cupons: seoTitle/meta de 7 artigos e âncora "cupom <loja>" no corpo (PT; remedir ~14/11)
-- [ ] [[skinup-ou-cotton-up-toda-up]]: Toda Up, SkinUp ou Cotton Up (PT; card de estilo)
-- [ ] [[kit-toda-up-quando-compensa]]: Toda Up, kits quando compensam (PT; conta por peça)
-- [ ] [[mochila-de-viagem-bagaggio-qual-escolher]]: Bagaggio, mochila de viagem e bagagem de mão (PT)
-- [ ] [[retrofit-catraca-lista-3110]]: retrofit mecânico de 182 artigos PT pela catraca do #407 (lote 0: os 3 do #405)
-- [ ] [[voz-muse-3110/README|voz-muse-3110]]: voz dos 62 artigos de maior impressão (Muse conferido) + conserto mecânico da catraca, por loja
-- [ ] [[look-natal-reveillon-2026-clea-store]]: looks de Natal, Réveillon e formatura com peças da Cléa; publicar em novembro, relendo o estoque (PT)
+- A lista fica na seção 1 da [[Fila-de-Pautas]], o estoque único desde 05/11/2026.
 
 ---
 
@@ -55,10 +36,45 @@
 
 ## 6. Prontos para Deploy (`status: pronto-para-deploy`)
 *Gates verdes; o deploy é decisão do Bruno.*
+- *(Nenhum artigo no momento)*
 
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[hostinger-renovacao-cupom-sonar20]]: Renovação Hostinger: preço, cupom SONAR20 e reembolso antes de pagar (10 idiomas, ids 814–823; BG1; na main em 04/11/2026, PR #579; no ar em 05/11/2026, conferido) 🚀
+- [x] [[black-skull-e-boa-0211]]: Black Skull é boa? O whey, a creatina e o que vale comprar da marca (PT, id 776; linha "é boa", lote 1; na main em 02/11/2026, PR #520) 🚀
+- [x] [[max-titanium-e-boa-0211]]: Max Titanium é boa? O whey, a creatina e o que vale comprar da marca (PT, id 777; linha "é boa", lote 1; na main em 02/11/2026, PR #520) 🚀
+- [x] [[probiotica-e-boa-0211]]: Probiótica é boa? O whey, a creatina e o que vale comprar da marca (PT, id 778; linha "é boa", lote 1; na main em 02/11/2026, PR #520) 🚀
+- [x] [[insider-vale-a-pena-reforma-0211]]: Insider vale a pena? reformado como o artigo da marca, sem concorrente (PT, id 362; na main em 02/11/2026, PR #516) 🚀
+- [x] [[outlet-insider-vale-a-pena-cupom]]: Outlet Insider com o cupom, em dois artigos: `outlet-insider-feminino-vale-a-pena` e `outlet-insider-masculino-vale-a-pena` (PT, ids 771 e 772; I9; na main em 31/10/2026, PR #395) 🚀
+- [x] [[card-estilo-shein-3110]]: SHEIN: card de estilo e foto com link no vestido de festa e no 11.11 (10 idiomas; na main em 31/10/2026, PR #388, vault #387) 🚀
+- [x] [[card-estilo-roupas-lote-3110]]: Card de estilo em 6 artigos de roupa publicados (PT; na main em 31/10/2026, PR #385, vault #383) 🚀
+- [x] [[retrofit-catraca-lista-3110]]: Retrofit mecânico dos artigos PT pela catraca do #407 (PRs #409 a #416, 31/10/2026; a lista da catraca está vazia) 🚀
+- [x] [[voz-muse-3110/README|voz-muse-3110]]: Voz dos 62 artigos de maior impressão, revisão do Muse conferida, aplicada com o retrofit mecânico (PRs #409 a #416, 31/10/2026) 🚀
+- [x] [[camiseta-feminina-insider-qual-escolher]]: Camiseta feminina Insider: qual escolher entre Tech, Gola V, Manga Longa, Daily, NEXTECH e Perfect Top (PT, id 760; na main em 30/10/2026, PR #379) 🚀
+- [x] [[glutamina-qual-escolher-black-skull-max-probiotica]]: Glutamina: Black Skull, Max Titanium ou Probiótica, qual compensa pelo rótulo e pelo preço por 100 g (PT, id 758; na main em 30/10/2026, PR #379) 🚀
+- [x] [[taca-base-esfera-e-tacas-coloridas]]: Taça base esfera: conjunto ou unidade, e qual cor escolher (PT, id 759; na main em 30/10/2026, PR #379) 🚀
+- [x] [[whey-probiotica-concentrado-ou-isolado]]: Whey Probiótica: concentrado ou isolado, como seção do `melhor-whey-qual-escolher-por-objetivo` (PT; na main em 30/10/2026, PR #379) 🚀
+- [x] [[camiseta-insider-qual-escolher]]: Camiseta masculina Insider: qual escolher entre Tech, Heavy, Core, Daily, Polo e Henley (PT, id 755; na main em 30/10/2026, PR #374; piloto "combina com" no #379) 🚀
+- [x] [[kit-insider-quando-compensa]]: Kit Insider: quando compensa mais que comprar peças avulsas (PT, id 757; na main em 30/10/2026, PR #374) 🚀
+- [x] [[sutia-toda-up-qual-escolher]]: Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher (PT, id 756; na main em 30/10/2026, PR #374) 🚀
+- [x] [[shein-vale-a-pena]]: SHEIN vale a pena? Quando compensa comprar e quando passar (10 idiomas, ids 794–803; Fable 5.1 no Job 2; no ar em 04/11/2026, PR #564, release `0863ea63`) 🚀
+- [x] [[tamanho-shein-brasil]]: Tamanho na SHEIN: qual letra pedir e como ler o guia de cada peça (10 idiomas, ids 804–813; Fable 5.1 no Job 2; no ar em 04/11/2026, PR #564, release `0863ea63`) 🚀
+- [x] [[panetone-chocotone-belive-0311]]: Panetone Belive é bom? Chocolate e frutas pelo rótulo, os kits e o código (PT, id 788; B7, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[skelt-e-boa-0311]]: Skelt é boa? Autobronzeador, body splash, hidratação e iluminador pelo rótulo (PT, id 789; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[i-wanna-sleep-e-boa-0311]]: I Wanna Sleep é boa? Travesseiros, cobertores e melatonina pelo rótulo, sem colchão (PT, id 790; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[clea-store-e-boa-0311]]: Cléa Store é boa? Camiseta, bodies e alfaiataria pelo site (PT, id 791; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[toda-up-e-boa-0311]]: Toda Up é boa? Sutiãs Comfort, SkinUp, Cotton Up, Fita Up e kits (PT, id 792; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[lets-eat-it-e-boa-0311]]: Let's Eat It é boa? Le Creuset, Porto Brasil, mesa posta e confiança (PT, id 793; linha "é boa", lote 3, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
+- [x] [[mais-mu-e-boa-0311]]: Mais Mu é boa? Whey, Exquenta e barras pelo rótulo; creatina só citada (PT, id 784; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
+- [x] [[dr-peanut-e-boa-0311]]: Dr. Peanut é boa? Pasta, whey e snacks pelo rótulo (PT, id 785; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
+- [x] [[belive-e-boa-0311]]: Belive é boa? Doces sem açúcar, salgadinhos e pães pelo rótulo (PT, id 786; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
+- [x] [[simple-organic-e-boa-0311]]: Simple Organic é boa? Séruns, soluções e hidratantes pelo rótulo (PT, id 787; linha "é boa", lote 2, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #544, release `3851aa15`) 🚀
+- [x] [[simple-organic-e-confiavel]]: Simple Organic é confiável? CNPJ, Hypera, site oficial, lojas e trocas (PT, id 780; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
+- [x] [[simple-organic-reclame-aqui-nota-reputacao]]: Simple Organic no Reclame Aqui: RA1000 nos 6 meses, as 5 abas e do que as pessoas reclamam (PT, id 781; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
+- [x] [[cupom-simple-organic-como-usar]]: Como usar o cupom S-EMCASACOMCECILIA: passo a passo e onde ele valeu no teste (PT, id 782; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
+- [x] [[black-friday-simple-organic]]: Black Friday Simple Organic: a Clean Friday (até 30/11) com preços de 9 produtos e o cupom (PT, id 783; onboarding da Simple Organic, Fable 5.1 no Job 2; no ar em 03/11/2026, PR #539, release `34126d7d`) 🚀
+- [x] [[vestido-de-festa-shein]]: Vestido de festa na SHEIN: Natal, Réveillon, formatura e convidada de casamento (10 idiomas, ids 761–770; publicado em 30/10/2026, PR #379, release `2614ef9d`; card de estilo e fotos com link no #388) 🚀
 - [x] [[mala-de-bordo-bagaggio-qual-compensa]]: Mala de bordo da Bagaggio: qual compensa (Downtown R$ 179,90, Detroit R$ 249,90, Route R$ 299,90, Cartagena R$ 349,90; policarbonato R$ 899,90+) (PT) (no ar em 30/10/2026 17:02 UTC, PR #369, release `5c16b59c`, id 747) 🚀
 - [x] [[tamanho-mala-bagaggio-p-m-g]]: Mala P, M ou G da Bagaggio: qual tamanho escolher pelos kg e litros da loja (PT) (no ar em 30/10/2026 17:02 UTC, PR #369, release `5c16b59c`, id 748) 🚀
 - [x] [[mochila-notebook-bagaggio-qual-escolher]]: Mochila para notebook da Bagaggio: qual escolher pelo tamanho do notebook e pelo preço (R$ 79,90 a R$ 699,90) (PT); no mesmo PR, a Samsonite em 2 artigos (no ar em 30/10/2026 17:02 UTC, PR #369, release `5c16b59c`, id 749) 🚀

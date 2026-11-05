@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Quem opera a Skelt, o que os dois CNPJs ligados à marca mostram, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete.",
-  "metaDescription": "A Skelt é confiável? Veja a empresa por trás do site, os dois CNPJs, as regras de troca e reembolso, o frete grátis por região e como conferir o site oficial.",
+  "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF no site oficial. A Skelt é confiável? A empresa por trás do site, os dois CNPJs, trocas, reembolso e frete grátis.",
   "publishedAt": "21 de outubro de 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -212,12 +212,10 @@
   "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelo SKEMCASACOMCECILIA.",
   "relatedArticles": [
     {
-      "slug": "skelt-reclame-aqui-nota-reputacao",
-      "title": "Skelt no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "skelt-reclame-aqui-nota-reputacao"
     },
     {
-      "slug": "cupom-skelt-como-usar",
-      "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+      "slug": "cupom-skelt-como-usar"
     }
   ],
   "imageAspect": "landscape"

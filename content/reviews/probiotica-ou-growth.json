@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Probiótica ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g e o cupom PRO10EMCASACOMCECILIA no teto.",
-  "metaDescription": "Probiótica ou Growth: whey e creatina comparados por 100 g de proteína e de creatina, ingredientes, cupom PRO10EMCASACOMCECILIA e frete das duas lojas.",
+  "metaDescription": "Probiótica ou Growth, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina e o frete.",
   "publishedAt": "18 de outubro de 2026",
   "publishedAtISO": "2026-10-18",
   "draft": false,
@@ -228,7 +228,7 @@
         ]
       },
       "postParagraphs": [
-        "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. No teste do cupom de 13/10, um carrinho de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, recebeu R$ 54,75 de desconto (8,3%). Nem todo item recebeu os 10%: a creatina em promoção ficou de fora desse percentual. A regra da loja diz que o cupom vale com todas as formas de pagamento e soma com as promoções vigentes. Por isso, a conta com cupom nas tabelas é o teto, 10% sobre o preço à vista: confira no carrinho se o cupom soma com o Pix, porque o desconto real pode ser menor. O código e o passo a passo estão na [página do cupom Probiótica](/cupons/probiotica).",
+        "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. No teste do cupom de 13/10, um carrinho de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, recebeu R$ 54,75 de desconto (8,3%). Nem todo item recebeu os 10%: a creatina em promoção ficou de fora desse percentual. A regra da loja diz que o cupom vale com todas as formas de pagamento e soma com as promoções vigentes. Por isso, a conta com cupom nas tabelas é o teto, 10% sobre o preço à vista: confira no carrinho se o cupom soma com o Pix, porque o desconto real pode ser menor. O código e o passo a passo estão na página do [cupom Probiótica](/cupons/probiotica).",
         "A página da Probiótica mostra também o parcelamento em 6x sem juros, e o preço do cartão nas tabelas é o dessa condição. O valor parcelado depende do produto. Preço e estoque mudam: confira no carrinho."
       ]
     },
@@ -277,16 +277,13 @@
   "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Probiótica; a Growth não é parceira. Não provamos os produtos.",
   "relatedArticles": [
     {
-      "slug": "max-titanium-ou-probiotica",
-      "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      "slug": "max-titanium-ou-probiotica"
     },
     {
-      "slug": "probiotica-e-confiavel",
-      "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      "slug": "probiotica-e-confiavel"
     },
     {
-      "slug": "cupom-probiotica-como-usar",
-      "title": "Cupom Probiótica PRO10EMCASACOMCECILIA: como usar o desconto de 10%"
+      "slug": "cupom-probiotica-como-usar"
     }
   ]
 }

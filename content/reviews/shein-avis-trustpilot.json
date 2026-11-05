@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "La note de SHEIN sur Trustpilot le 28 octobre 2026 : TrustScore de 3,8 pour 353 435 avis, 59 % de cinq étoiles et 18 % d’une, les plaintes sur les colis jamais reçus et sur les remboursements, et pourquoi une note mondiale ne dit rien de votre pays.",
+  "description": "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Voyez ce que montrent plus de 350 000 avis, les plaintes sur colis et remboursements, et pourquoi la note est mondiale.",
   "metaDescription": "SHEIN sur Trustpilot le 28 octobre 2026 : TrustScore de 3,8 pour 353 435 avis, 59 % de cinq étoiles et 18 % d’une, plaintes sur la livraison et les remboursements. Ce que la note ne montre pas.",
   "publishedAt": "29 octobre 2026",
   "publishedAtISO": "2026-10-29",
@@ -168,12 +168,10 @@
   "editorialNote": "Données publiques qui changent avec le temps. Nous pouvons toucher une commission sur les achats chez SHEIN.",
   "relatedArticles": [
     {
-      "slug": "shein-est-il-fiable-et-sur",
-      "title": "SHEIN est-il fiable et sûr ? Qui l'exploite, d'où il vient, les retours et la douane"
+      "slug": "shein-est-il-fiable-et-sur"
     },
     {
-      "slug": "shein-ou-temu-comment-choisir",
-      "title": "SHEIN ou Temu : comment choisir (livraison, retours, douane et points à vérifier avant d'acheter)"
+      "slug": "shein-ou-temu-comment-choisir"
     }
   ]
 }

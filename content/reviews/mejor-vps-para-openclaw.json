@@ -149,7 +149,7 @@
         "**KVM 8 (32 GB).** Tiene sentido solo con un modelo local más grande. La documentación no dice cuánta memoria pide cada receta grande."
       ],
       "postParagraphs": [
-        "El código SONAR20 da un 20% en el primer período. No probamos la renovación; confirma el precio en el carrito. [Mira cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y confirma el importe en el carrito antes de pagar. Hostinger está en Black Friday y los precios cambian: [mira la campaña](/es/reviews/black-friday-hostinger-ofertas)."
+        "El código SONAR20 da un 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. [Mira cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y confirma el importe en el carrito antes de pagar. Hostinger está en Black Friday y los precios cambian: [mira la campaña](/es/reviews/black-friday-hostinger-ofertas)."
       ]
     },
     {
@@ -227,7 +227,7 @@
       "heading": "Cupón SONAR20",
       "paragraphs": [],
       "postParagraphs": [
-        "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para clientes nuevos o antiguos. No probamos la renovación; confirma el precio en el carrito. Confirma el importe en el carrito antes de pagar, porque la Black Friday cambia los precios. Mira [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y [la página de Hostinger en el sitio](/es/coupons/hostinger)."
+        "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para clientes nuevos o antiguos. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Confirma el importe en el carrito antes de pagar, porque la Black Friday cambia los precios. Mira [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y [la página de Hostinger en el sitio](/es/coupons/hostinger)."
       ]
     },
     {
@@ -237,7 +237,8 @@
         "¿Se puede usar sin clave de API? Sí, con un modelo local, pero entonces la memoria es el problema: la documentación da 8 GiB como piso de su receta local más pequeña, con un contexto de 64K, y advierte de que eso no garantiza que el modelo quepa ni que funcione bien. Con los créditos de Hostinger no necesitas una cuenta en un proveedor de IA, pero pagas por el uso.",
         "¿Oracle es gratis de verdad? Sí, mientras la cuenta siga en Always Free: 2 OCPU y 12 GB en las A1 Arm, más las instancias Micro. Una instancia inactiva durante 7 días, con CPU, red y memoria por debajo del 20%, puede ser recuperada por Oracle.",
         "¿Mac mini o VPS? Depende de si la computadora puede quedar encendida las 24 horas. Si puede, correrlo en casa elimina la mensualidad del servidor; si no puede, elige VPS o gestionado.",
-        "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da un 20% en el primer período. No probamos la renovación; confirma el precio en el carrito."
+        "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da un 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+        "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
       ]
     },
     {
@@ -250,7 +251,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. No probamos la renovación; revisa el precio en el carrito.",
+    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
     "label": "Ver los planes con el SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -260,16 +261,13 @@
   "editorialNote": "Las compras con el código SONAR20 o por el enlace pueden generar una comisión para Bruno, sin costo extra para ti. Nadie del equipo usa OpenClaw.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-gestionado-o-vps",
-      "title": "OpenClaw en Hostinger: ¿gestionado o VPS? Qué exige cada uno y para quién sirve"
+      "slug": "openclaw-hostinger-gestionado-o-vps"
     },
     {
-      "slug": "openclaw-o-hermes-agent",
-      "title": "OpenClaw o Hermes Agent: cuál elegir y cómo ejecutar cada uno en Hostinger"
+      "slug": "openclaw-o-hermes-agent"
     },
     {
-      "slug": "cupon-hostinger-codigo-de-referido",
-      "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+      "slug": "cupon-hostinger-codigo-de-referido"
     }
   ],
   "decision": {

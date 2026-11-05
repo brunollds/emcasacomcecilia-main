@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Promoção"
-status: "publicado"
+status: "aposentado"
 responsavel: "-"
-proxima_acao: "em 31/10/2026: título e resposta rápida com promoção encerrada; tirar a campanha do storeBanners.ts"
+proxima_acao: "-"
 bloqueado_por: "-"
 data_criacao: "2026-10-29"
 modo_i18n: "somente-pt"
@@ -74,3 +74,6 @@ O banner de campanha atual (`src/lib/storeBanners.ts`) não cita o código da lo
 - O texto não diz se a faixa conta antes ou depois do cupom; usa o conselho de folga e as contas da seção 3, marcadas como conta nossa. Preços relidos em 29/10: Body Cream Unexpected Day R$ 99,90; a loja vende o Kit Miniaturas Trends Set por R$ 99,90. Aviso do Kit Radiante (R$ 252,20 no cartão, R$ 226,98 com o cupom, abaixo de R$ 249). Três pedidos de R$ 294,86 a R$ 298,01. Imagens: capa e 6 fotos das fichas.
 - Banner `skelt-brinde-30-10` (`src/lib/storeBanners.ts`): 30/10 00:00 a 23:59, link interno para o artigo, sem sponsored, sem o código e fora do próprio artigo. Como o deploy saiu antes da meia-noite, o banner vai no payload e o navegador o mostra a partir das 00:00 (`CampaignWindow`). Revisado pela sessão "Redesenho do site".
 - Pendente em 31/10/2026: "promoção encerrada" no título e na resposta rápida (sem apagar) e tirar a campanha do `storeBanners.ts`. Follow-up: o clique no banner mede `outbound_link_click`; separar num evento interno.
+
+## Aposentado (05/11/2026)
+O artigo (id 716) saiu do ar com redirect permanente de `/reviews/brinde-skelt-30-outubro-cupom` para `/reviews/brindes-skelt-black-friday-cupom` (nota: [[brindes-skelt-black-friday-cupom]]).

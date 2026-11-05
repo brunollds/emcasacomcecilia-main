@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Hórus, Égide e Night Train da Max Titanium lado a lado: cafeína por dose, beta-alanina, taurina, dose e número de doses pela tabela do rótulo, e o preço por dose com e sem o cupom MAX10EMCASACOMCECILIA, pelo site oficial em 28/10/2026.",
-  "metaDescription": "Pré-treino Max Titanium: Hórus ou Égide? Compare cafeína por dose, dose e preço por dose pela tabela do rótulo, com o Night Train sem cafeína e o cupom MAX10EMCASACOMCECILIA, em 28/10/2026.",
+  "description": "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. Veja qual sai mais barato por dose e a opção sem cafeína, o Night Train, com o cupom.",
+  "metaDescription": "Pré-treino Max Titanium com o MAX10EMCASACOMCECILIA e até 10% OFF: Hórus ou Égide pela cafeína e pelo preço por dose, e o Night Train sem cafeína.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
   "draft": false,
@@ -179,7 +179,7 @@
         "O pote do Égide de 300 g custa R$ 21,00 a mais que o do Hórus de 300 g, mas rende 14 doses a mais. Por isso o Égide sai R$ 0,27 mais barato por dose: R$ 2,20 contra R$ 2,47. Quem compara só o preço do pote vê o contrário.",
         "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 2,20 contra R$ 2,32 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado. Na consulta, parte dos sabores do Hórus de 150 g estava sem estoque.",
         "O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52.",
-        "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, diz a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
+        "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, diz a página da loja. O código e as regras estão na página do [cupom Max Titanium](/cupons/max-titanium)."
       ]
     },
     {
@@ -256,16 +256,13 @@
   "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA.",
   "relatedArticles": [
     {
-      "slug": "max-titanium-ou-dux",
-      "title": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por dose, proteína e preço"
+      "slug": "max-titanium-ou-dux"
     },
     {
-      "slug": "max-titanium-e-confiavel",
-      "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      "slug": "max-titanium-e-confiavel"
     },
     {
-      "slug": "cupom-max-titanium-como-usar",
-      "title": "Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%"
+      "slug": "cupom-max-titanium-como-usar"
     }
   ]
 }

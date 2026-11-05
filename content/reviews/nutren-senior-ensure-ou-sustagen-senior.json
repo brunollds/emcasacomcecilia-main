@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "O que os rótulos do Nutren Senior, do Ensure e do Sustagen Senior informam (proteína, cálcio, vitamina D, lactose e glúten), o que não dá para comparar entre eles e onde entra o cupom CECI.",
-  "metaDescription": "Nutren Senior, Ensure ou Sustagen Senior? Proteína, cálcio, vitamina D e lactose lado a lado, o que os rótulos não permitem comparar e o cupom CECI.",
+  "description": "Nutren Senior, Ensure ou Sustagen Senior: não há um melhor, pois cada rótulo usa uma base diferente. Veja proteína, cálcio e lactose lado a lado e onde entra o cupom CECI.",
+  "metaDescription": "Nutren Senior, Ensure ou Sustagen Senior, com o cupom CECI e 10% OFF no Nutren: proteína, cálcio, vitamina D e lactose lado a lado pelo rótulo.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
   "draft": false,
@@ -252,16 +252,13 @@
   "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só o que as páginas oficiais informam.",
   "relatedArticles": [
     {
-      "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-      "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+      "slug": "nutren-senior-zero-lactose-ficha-tecnica"
     },
     {
-      "slug": "nutren-senior-como-tomar-sem-empelotar",
-      "title": "Como tomar Nutren Senior sem empelotar"
+      "slug": "nutren-senior-como-tomar-sem-empelotar"
     },
     {
-      "slug": "black-friday-nestle-nutre",
-      "title": "Black Friday Nutren 2026: Nutren Senior, Just Protein e o cupom CECI na Nestlé Nutre"
+      "slug": "black-friday-nestle-nutre"
     }
   ]
 }

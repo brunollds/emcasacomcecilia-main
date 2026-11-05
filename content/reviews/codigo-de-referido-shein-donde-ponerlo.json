@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Dónde poner el código de referido de SHEIN (en el buscador, no en el campo de cupón), el paso a paso con capturas, qué aparece después de la búsqueda, qué cambió desde el antiguo programa de 2024 y cómo conseguir tu propio código.",
+  "description": "El código de referido de SHEIN va en el buscador de la tienda, no en el campo de cupón, y no da un descuento fijo. Mira el paso a paso, qué abre y cómo conseguir el tuyo.",
   "metaDescription": "El código de referido de SHEIN va en el buscador, no en el campo de cupón. Mira el paso a paso con capturas, qué abre, qué cambió en 2024 y cómo conseguir el tuyo.",
   "publishedAt": "13 de octubre de 2026",
   "publishedAtISO": "2026-10-13",
@@ -129,12 +129,10 @@
   "editorialNote": "Reglas de las páginas oficiales de SHEIN. Podemos recibir comisión por las compras.",
   "relatedArticles": [
     {
-      "slug": "shein-es-confiable-y-seguro",
-      "title": "¿SHEIN es confiable y segura? Quién la opera, de dónde es, devoluciones y aduana"
+      "slug": "shein-es-confiable-y-seguro"
     },
     {
-      "slug": "black-friday-shein-fechas-impuestos",
-      "title": "Black Friday SHEIN 2026: cuándo empieza, cuándo termina y cómo funcionan los cupones"
+      "slug": "black-friday-shein-fechas-impuestos"
     }
   ]
 }

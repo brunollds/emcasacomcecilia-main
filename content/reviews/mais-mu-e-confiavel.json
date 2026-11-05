@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Quem opera a Mais Mu, como conferir o site oficial, o que a loja diz sobre trocas e reembolso e o que o Reclame Aqui mostra sobre a reputação recente. A loja caiu para Regular nos últimos 6 meses.",
-  "metaDescription": "A Mais Mu é confiável? Veja a empresa por trás da loja, o CNPJ, o site oficial, as regras de troca e reembolso e a reputação no Reclame Aqui.",
+  "description": "A Mais Mu é uma empresa registrada, com CNPJ ativo e site oficial, mas a reputação recente no Reclame Aqui caiu para Regular. Veja trocas, reembolso e o que pesa na compra.",
+  "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. A marca é confiável? Veja a empresa, o CNPJ, as regras de troca e a reputação no Reclame Aqui.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "draft": false,
@@ -199,16 +199,13 @@
   "editorialNote": "Feito com fontes públicas, sem laudo nem teste dos produtos. Podemos receber comissão pelo MMEMCASACOMCECILIA.",
   "relatedArticles": [
     {
-      "slug": "mais-mu-reclame-aqui-nota-reputacao",
-      "title": "Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "mais-mu-reclame-aqui-nota-reputacao"
     },
     {
-      "slug": "cupom-mais-mu-como-usar",
-      "title": "Cupom Mais Mu: como usar o MMEMCASACOMCECILIA e o que ele não cobre"
+      "slug": "cupom-mais-mu-como-usar"
     },
     {
-      "slug": "black-friday-mais-mu",
-      "title": "Black Friday Mais Mu 2026: preços de outubro, o cupom MMEMCASACOMCECILIA e o que a loja ainda não anunciou"
+      "slug": "black-friday-mais-mu"
     }
   ]
 }

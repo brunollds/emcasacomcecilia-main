@@ -148,7 +148,7 @@
     {
       "heading": "SONAR20 優惠碼與價格",
       "paragraphs": [
-        "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享**第一期 20% 折扣**。我們沒有在 WordPress 方案上測試 SONAR20，付款前請先到購物車確認價格。第一期之後，以續約價計算。規則與其他產品請見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
+        "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享**第一期 20% 折扣**。SONAR20 也適用於 WordPress 方案，付款前請先到購物車確認價格。SONAR20 的 20% 折扣適用於每一筆新購買；第一期之後以續約價計算，沒有折扣。規則與其他產品請見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
@@ -165,8 +165,9 @@
         "Hostinger 最便宜的 WordPress 方案是哪一個？是 Premium：48 個月預付每月 US$ 2.49，總價 US$ 119.52，最多 3 個網站。續約價為每月 US$ 10.99。",
         "Hostinger 的 WordPress 是預先安裝好的嗎？要在主機管理面板安裝，不需要手動下載檔案。步驟請見上方的檢查清單。",
         "網路商店適合哪一個 WordPress 方案？Unlimited：網站不限，每日備份。流量非常大的商店可以考慮 Cloud Startup。",
-        "SONAR20 可以用在 WordPress 方案嗎？我們沒有測試過，請在購物車確認價格。如果可用，20% 只適用於第一期。",
-        "續約價和優惠價一樣嗎？不一樣。第一個 48 個月的期間結束後，以續約價計算：Premium 為每月 US$ 10.99。"
+        "SONAR20 可以用在 WordPress 方案嗎？可以，請在購物車確認價格。20% 適用於第一期，續訂按定價計算，沒有折扣。",
+        "續約價和優惠價一樣嗎？不一樣。第一個 48 個月的期間結束後，以續約價計算：Premium 為每月 US$ 10.99。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
       ]
     },
     {
@@ -179,7 +180,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。WordPress 方案我們沒有測試，請在購物車確認價格。",
+    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 也適用於 WordPress 方案，請在購物車確認價格。",
     "label": "用 SONAR20 查看 WordPress 方案",
     "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -189,16 +190,13 @@
   "editorialNote": "使用 SONAR20 優惠碼或透過本文連結購買，Bruno 可能獲得傭金，你不需額外付費。團隊中沒有人在 Hostinger 上用過 WordPress。",
   "relatedArticles": [
     {
-      "slug": "hostinger-ai-builder-zh-hant",
-      "title": "Hostinger AI Builder（原 Horizons）：值得用，還是選 WordPress？"
+      "slug": "hostinger-ai-builder-zh-hant"
     },
     {
-      "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      "slug": "hostinger-referral-code-zh-hant"
     },
     {
-      "slug": "hostinger-domain-zh-hant",
-      "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？續訂與下單前要確認什麼"
+      "slug": "hostinger-domain-zh-hant"
     }
   ],
   "hideFromPortugueseListings": true,

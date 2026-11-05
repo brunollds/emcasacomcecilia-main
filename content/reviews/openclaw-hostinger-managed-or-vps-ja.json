@@ -172,7 +172,7 @@
     {
       "heading": "クーポン SONAR20",
       "paragraphs": [
-        "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。更新は検証していません。カートで価格を確認してください。コードの入れ方は [クーポン SONAR20の使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
+        "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。コードの入れ方は [クーポン SONAR20の使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
       ],
       "postParagraphs": [
         "Hostinger はブラックフライデーのキャンペーン中で、価格が変わります。[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見て、支払う前にカートで金額を確認してください。"
@@ -184,7 +184,8 @@
         "OpenClaw のマネージドプランは買う価値がありますか？ サーバーを管理したくない人には価値があります。最初の期間は VPS より安く、更新価格も同じです。root や他のプログラムをサーバーで動かしたい人には VPS が向いています。",
         "OpenAI や Anthropic のアカウントは必要ですか？ いいえ。どちらの方法でも Hostinger の AI クレジットを使えます。プロバイダーのアカウントが必要なのは、自分の API キーを使いたい場合だけです。",
         "OpenClaw の Hostinger クーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 割引になります。",
-        "マネージドプランで Hermes Agent や Paperclip も使えますか？ はい。三つとも同じ「AI 自動化アプリ」プランで、料金も同じです。Paperclip のページには AI クレジットが載っていないので、自分のキーを用意してください。"
+        "マネージドプランで Hermes Agent や Paperclip も使えますか？ はい。三つとも同じ「AI 自動化アプリ」プランで、料金も同じです。Paperclip のページには AI クレジットが載っていないので、自分のキーを用意してください。",
+        "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
       ]
     },
     {
@@ -197,7 +198,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新は検証していないので、カートで価格を確認してください。",
+    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
     "label": "SONAR20 の割引プランを見る",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -207,16 +208,13 @@
   "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も OpenClaw は使っていません。",
   "relatedArticles": [
     {
-      "slug": "hostinger-referral-code-ja",
-      "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      "slug": "hostinger-referral-code-ja"
     },
     {
-      "slug": "hostinger-trust-guide-ja",
-      "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+      "slug": "hostinger-trust-guide-ja"
     },
     {
-      "slug": "hostinger-black-friday-ja",
-      "title": "Hostinger ブラックフライデー 2026：SONAR20 でキャンペーン価格からさらに20%"
+      "slug": "hostinger-black-friday-ja"
     }
   ],
   "decision": {

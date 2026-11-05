@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Que móvel dar de presente de Natal: sofá modular, poltrona reclinável, poltrona de cinema e área de piscina. O que olhar em cada um, faixa de preço, o que a DAMIE oferece, o prazo de entrega e o cupom CECILIA12.",
-  "metaDescription": "Presente de Natal para a casa: sofá, poltrona reclinável, cinema em casa e piscina, com faixa de preço, prazo de entrega, Black Friday e CECILIA12.",
+  "description": "Sofá modular, poltrona reclinável, poltrona de cinema ou área de piscina? Veja o que pesa em cada móvel, faixa de preço, prazo de entrega e o cupom CECILIA12 da DAMIE.",
+  "metaDescription": "Presente de Natal para a casa com o CECILIA12 e 12% OFF na DAMIE: sofá, poltrona reclinável, cinema em casa e piscina, com faixa de preço e prazo.",
   "publishedAt": "23 de outubro de 2026",
   "publishedAtISO": "2026-10-23",
   "draft": false,
@@ -413,16 +413,13 @@
   "editorialNote": "Podemos receber comissão pelo CECILIA12. Só usamos a reclinável e o sofá modular.",
   "relatedArticles": [
     {
-      "slug": "black-friday-damie",
-      "title": "Black Friday DAMIE 2026: poltrona reclinável e sofá com o cupom CECILIA12"
+      "slug": "black-friday-damie"
     },
     {
-      "slug": "poltrona-damie-e-boa",
-      "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0"
+      "slug": "poltrona-damie-e-boa"
     },
     {
-      "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular",
-      "title": "Sofá Damie na Caixa: Vale a pena o modular?"
+      "slug": "sofa-damie-na-caixa-vale-a-pena-o-modular"
     }
   ]
 }

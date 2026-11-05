@@ -226,7 +226,7 @@
     {
       "heading": "SONAR20 coupon",
       "paragraphs": [
-        "Use the code **SONAR20** in the cart's coupon field, or enter through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. We did not test renewal; check the price in the cart. Check the amount in the cart before paying.",
+        "Use the code **SONAR20** in the cart's coupon field, or enter through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Check the amount in the cart before paying.",
         "Where to paste the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
       ]
     },
@@ -237,7 +237,8 @@
         "Does it work with Telegram? Yes, with both. You create the bot in BotFather and paste the token into the configuration.",
         "Do you need to know how to code? To set up the managed plan, no: you choose the channels and paste the token. On a VPS, you need the basics of servers, such as root, Docker and updates. Coding only comes in if you want to change the project's code.",
         "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person, no direct exposure to the internet, and a review of whatever you install from third parties.",
-        "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw."
+        "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
     {
@@ -251,7 +252,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -261,16 +262,13 @@
   "editorialNote": "Purchases made with the code SONAR20 or through the link may earn Bruno a commission, at no extra cost to you. Nobody on the team uses OpenClaw or Hermes Agent.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps",
-      "title": "OpenClaw on Hostinger: managed or VPS? What each one requires and who it suits"
+      "slug": "openclaw-hostinger-managed-or-vps"
     },
     {
-      "slug": "best-vps-for-openclaw",
-      "title": "Best VPS for OpenClaw: requirements and which KVM plan to pick"
+      "slug": "best-vps-for-openclaw"
     },
     {
-      "slug": "paperclip-ai-hostinger-guide",
-      "title": "Paperclip AI: what it is, whether it's reliable and how to host it on Hostinger"
+      "slug": "paperclip-ai-hostinger-guide"
     }
   ],
   "decision": {

@@ -11,16 +11,26 @@ const COUPONS_LOGO_URL = new URL(
   'https://emcasacomcecilia.com'
 ).toString();
 
+// O snippet cita as lojas de código mais buscadas que estão ativas, para não anunciar uma loja pausada.
+const SNIPPET_STORES = ['Insider', 'DAMIE', 'Dolce Gusto', 'Hostinger'];
+const activeCodeStores = getActiveCoupons()
+  .filter((coupon) => coupon.offerMode === 'discount-code')
+  .map((coupon) => coupon.brand);
+const snippetStores = SNIPPET_STORES.filter((brand) => activeCodeStores.includes(brand));
+// Com uma loja só sai o nome dela; sem nenhuma das quatro ativa, a frase fica sem o "como".
+const snippetStoreList = new Intl.ListFormat('pt-BR', { type: 'conjunction' }).format(snippetStores);
+const storeCount = activeCodeStores.length === 1 ? '1 loja parceira' : `${activeCodeStores.length} lojas parceiras`;
+const HUB_DESCRIPTION = `Códigos de desconto de ${storeCount}${snippetStores.length ? `, como ${snippetStoreList}` : ''}: o desconto de cada código, as regras e se ele soma com a promoção.`;
+
 export const metadata: Metadata = {
   title: 'Cupons da Cecília — Códigos de desconto ativos',
-  description:
-    'Cupons e ofertas da Cecília para economizar em marcas parceiras como DAMIE e Dolce Gusto.',
+  description: HUB_DESCRIPTION,
   alternates: {
     canonical: '/cupons',
   },
   openGraph: {
     title: 'Cupons da Cecília — Em Casa com Cecília',
-    description: 'Códigos de desconto e ofertas em marcas parceiras da Cecília.',
+    description: HUB_DESCRIPTION,
     url: '/cupons',
     type: 'website',
     images: [

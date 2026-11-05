@@ -16,8 +16,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle e Olive Young Global lado a lado: quem entrega no Brasil, em Portugal e em mais 22 países, a partir de quanto o frete é grátis, quem paga o imposto e o que cada loja aceita de volta, pelas páginas oficiais.",
-  "metaDescription": "YesStyle ou Olive Young? A Olive Young Global não entrega no Brasil. Veja frete grátis, prazo, imposto e devolução por país, pelas páginas oficiais.",
+  "description": "YesStyle e Olive Young Global lado a lado: quem entrega no Brasil, em Portugal e em outros países, quando o frete é grátis, quem paga o imposto e o que cada loja devolve.",
+  "metaDescription": "O código de recompensa CECILIA010 dá até 5% de desconto na YesStyle. YesStyle ou Olive Young Global: frete, prazo, imposto e entrega por país.",
   "publishedAt": "21 de outubro de 2026",
   "publishedAtISO": "2026-10-21",
   "draft": false,
@@ -287,16 +287,13 @@
   "editorialNote": "Podemos receber comissão pela YesStyle. As regras da Olive Young vêm das páginas dela.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-ou-stylevana",
-      "title": "YesStyle ou Stylevana: entrega, frete, imposto e devolução lado a lado, com Olive Young, StyleKorean e Jolse"
+      "slug": "yesstyle-ou-stylevana"
     },
     {
-      "slug": "yesstyle-entrega-no-brasil-e-portugal",
-      "title": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto"
+      "slug": "yesstyle-entrega-no-brasil-e-portugal"
     },
     {
-      "slug": "codigo-cecilia010-yesstyle-como-usar",
-      "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
+      "slug": "codigo-cecilia010-yesstyle-como-usar"
     }
   ]
 }

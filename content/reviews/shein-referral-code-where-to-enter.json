@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Where to enter the SHEIN referral code (in the search bar, not the coupon field), a step-by-step with screenshots, what shows up after the search, what changed since the old 2024 program and how to get your own code.",
+  "description": "The SHEIN referral code goes in the store's search bar, not the coupon field, and it gives no fixed discount. See the steps, what it opens and how to get your own code.",
   "metaDescription": "The SHEIN referral code goes in the search bar, not the coupon field. See the step-by-step with screenshots, what it opens, what changed in 2024 and how to get yours.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
@@ -129,12 +129,10 @@
   "editorialNote": "SHEIN's official page rules. We may earn a commission on purchases.",
   "relatedArticles": [
     {
-      "slug": "is-shein-legit-and-safe",
-      "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+      "slug": "is-shein-legit-and-safe"
     },
     {
-      "slug": "shein-black-friday-dates-taxes",
-      "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work"
+      "slug": "shein-black-friday-dates-taxes"
     }
   ]
 }

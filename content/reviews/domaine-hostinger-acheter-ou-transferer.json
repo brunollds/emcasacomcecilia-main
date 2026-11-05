@@ -145,7 +145,7 @@
         "Si vous transférez, vérifiez la date d'enregistrement : moins de 60 jours, le transfert ne démarre pas.",
         "Achetez sur le compte qui sera le vôtre, avec votre propre e-mail et le renouvellement automatique activé.",
         "Si le domaine est venu avec le forfait d'hébergement, notez le prix de renouvellement de la deuxième année : il s'affiche avant l'achat.",
-        "SONAR20 donne 20 % sur le forfait d'hébergement ; pour un domaine seul, vérifiez dans le panier si la réduction apparaît avant de payer."
+        "SONAR20 donne 20 % sur le forfait d'hébergement ; pour un domaine seul, le code ne vaut pas."
       ]
     },
     {
@@ -161,7 +161,7 @@
     {
       "heading": "Coupon SONAR20 et prix",
       "paragraphs": [
-        "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier. Pour un domaine seul, c'est ce qui s'affiche dans le panier qui compte. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
+        "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -169,7 +169,8 @@
       "bullets": [
         "Puis-je changer d'hébergement sans perdre le domaine ? Oui. Le domaine est à vous et reste dans le compte Hostinger ; vous pointez le DNS vers le nouvel hébergement ou vous transférez l'enregistrement plus tard, en respectant les 60 jours depuis l'enregistrement.",
         "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
-        "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours d'enregistrement : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé."
+        "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours d'enregistrement : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -182,7 +183,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier. Vérifiez le domaine dans le panier avant de payer.",
+    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -192,16 +193,13 @@
   "editorialNote": "Les achats faits avec le code SONAR20 ou via le lien peuvent rapporter une commission à Bruno, sans frais supplémentaires pour vous.",
   "relatedArticles": [
     {
-      "slug": "hostinger-est-il-fiable",
-      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      "slug": "hostinger-est-il-fiable"
     },
     {
-      "slug": "code-promo-hostinger-parrainage",
-      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+      "slug": "code-promo-hostinger-parrainage"
     },
     {
-      "slug": "black-friday-hostinger-offres",
-      "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+      "slug": "black-friday-hostinger-offres"
     }
   ],
   "decision": {

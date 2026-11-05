@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "As cinco máquinas Dolce Gusto à venda na loja oficial, com preço, medidas em cm e recursos lado a lado, qual escolher para cada jeito de tomar café, as cápsulas que cada uma aceita e o cupom CECI.",
-  "metaDescription": "Mini Me 2.0, Genio S Basic, Plus, Touch ou NEO? Preço, medidas em cm, XL, temperaturas e cápsulas de cada Dolce Gusto, e qual comprar para o seu uso.",
+  "description": "Mini Me 2.0, Genio S ou NEO? As cinco máquinas Dolce Gusto da loja oficial lado a lado, com preço, medidas e cápsulas, para escolher pelo seu jeito de tomar café.",
+  "metaDescription": "Qual Dolce Gusto comprar, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: Mini Me 2.0, Genio S, Touch ou NEO, com preço e medidas.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
   "draft": false,
@@ -261,16 +261,13 @@
   "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da loja oficial.",
   "relatedArticles": [
     {
-      "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
-      "title": "Genio S Basic, Plus ou Touch: qual vale mais a pena?"
+      "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch"
     },
     {
-      "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
-      "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real"
+      "slug": "dolce-gusto-mini-me-2-0-vale-a-pena"
     },
     {
-      "slug": "black-friday-dolce-gusto",
-      "title": "Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI"
+      "slug": "black-friday-dolce-gusto"
     }
   ]
 }

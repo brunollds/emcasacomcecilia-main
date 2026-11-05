@@ -208,7 +208,8 @@
         "Hostinger Reach 有 WhatsApp 嗎？有，只在 Pro 方案裡。頁面沒有顯示每則訊息的費用，請在後台確認。",
         "Reach 500 是什麼？它是購物車中 Grow 方案的名稱，對應 500 位收件人的上限，每月 3,500 封郵件。",
         "Hostinger Reach 還是 Mailchimp？如果收件人在 1,000 人以內，選 Reach。如果想免費開始，或名單超過 1,000 人，選 Mailchimp 或 Brevo。",
-        "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間沒有測試，請在購物車確認。"
+        "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間沒有測試，請在購物車確認。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
       ]
     },
     {
@@ -231,16 +232,13 @@
   "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，可能為 Bruno 帶來傭金，你不需額外付費。團隊中沒有人用過 Reach。",
   "relatedArticles": [
     {
-      "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      "slug": "hostinger-referral-code-zh-hant"
     },
     {
-      "slug": "hostinger-trust-guide-zh-hant",
-      "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      "slug": "hostinger-trust-guide-zh-hant"
     },
     {
-      "slug": "hostinger-domain-zh-hant",
-      "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？續訂與下單前要確認什麼"
+      "slug": "hostinger-domain-zh-hant"
     }
   ],
   "hideFromPortugueseListings": true,

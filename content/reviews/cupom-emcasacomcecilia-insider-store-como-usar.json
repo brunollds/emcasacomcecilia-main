@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Como usar o cupom EMCASACOMCECILIA na Insider Store e ganhar 15% OFF sem valor mínimo: passo a passo com o link que já aplica o código, onde o cupom vale, lançamentos, Outlet, frete grátis, primeira compra e o que comprar.",
-  "metaDescription": "Cupom Insider Store EMCASACOMCECILIA: 15% OFF sem valor mínimo, testado no checkout. Veja como aplicar, onde vale (Outlet e kits), as exceções e o frete grátis.",
+  "description": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider Store, sem valor mínimo, inclusive no Outlet e em kits. Veja como aplicar no checkout e as exceções em que ele não entra.",
+  "metaDescription": "O EMCASACOMCECILIA dá 15% OFF sem valor mínimo na Insider Store, testado no checkout. Veja como aplicar, onde vale (Outlet e kits) e as exceções.",
   "publishedAt": "5 de outubro de 2026",
   "publishedAtISO": "2026-10-05",
   "updatedAt": "2026-10-31",
@@ -219,12 +219,10 @@
   "editorialNote": "Cupom testado no checkout oficial da Insider. Podemos receber comissão.",
   "relatedArticles": [
     {
-      "slug": "insider-store-e-confiavel",
-      "title": "Insider Store é confiável?"
+      "slug": "insider-store-e-confiavel"
     },
     {
-      "slug": "insider-store-reclame-aqui-nota-reputacao",
-      "title": "Insider Store no Reclame Aqui: nota e reclamações"
+      "slug": "insider-store-reclame-aqui-nota-reputacao"
     }
   ]
 }

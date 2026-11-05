@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle y Olive Young Global cara a cara: quién envía a 23 países, desde qué importe el envío es gratis, quién paga el impuesto y qué devuelve cada tienda, según sus páginas oficiales.",
+  "description": "YesStyle y Olive Young Global frente a frente: quién envía a 23 países, desde qué importe el envío es gratis, quién paga el impuesto y qué devuelve cada tienda.",
   "metaDescription": "¿YesStyle u Olive Young? Mira el envío gratis, el plazo, el impuesto y la devolución por país, según las páginas oficiales.",
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
@@ -239,16 +239,13 @@
   "editorialNote": "Podemos recibir comisión de YesStyle. Las reglas de Olive Young salen de sus páginas.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-o-stylevana-cual-elegir",
-      "title": "YesStyle o Stylevana: envíos, impuestos y devoluciones lado a lado, con Olive Young, StyleKorean y Jolse"
+      "slug": "yesstyle-o-stylevana-cual-elegir"
     },
     {
-      "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia",
-      "title": "¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos"
+      "slug": "yesstyle-envios-espana-mexico-chile-peru-argentina-colombia"
     },
     {
-      "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010",
-      "title": "YesStyle CECILIA010: código de recompensa"
+      "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
     }
   ],
   "decision": {

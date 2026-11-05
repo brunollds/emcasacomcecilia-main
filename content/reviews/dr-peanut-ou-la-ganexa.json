@@ -15,6 +15,7 @@
     "url": "/sobre"
   },
   "description": "Dr. Peanut ou La Ganexa comparadas pelo rótulo, pela proteína, pela lactose e pelo preço por 100 g, com a conta do cupom da Dr. Peanut em 25/10/2026.",
+  "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: Dr. Peanut ou La Ganexa, qual pasta de amendoim escolher pelo rótulo e pelo preço por 100 g.",
   "publishedAt": "25 de outubro de 2026",
   "publishedAtISO": "2026-10-25",
   "draft": false,
@@ -288,16 +289,13 @@
   "editorialNote": "Podemos receber comissão pela Dr. Peanut. A La Ganexa não é parceira. Sem degustação.",
   "relatedArticles": [
     {
-      "slug": "dr-peanut-qual-tamanho-compensa",
-      "title": "Dr. Peanut: 250 g, 600 g ou kit, qual tamanho compensa"
+      "slug": "dr-peanut-qual-tamanho-compensa"
     },
     {
-      "slug": "dr-peanut-melhor-sabor",
-      "title": "Dr. Peanut: qual o melhor sabor? Os 11 sabores de pasta de amendoim (e os 5 de whey) comparados por rótulo, preço e os mais vendidos"
+      "slug": "dr-peanut-melhor-sabor"
     },
     {
-      "slug": "dr-peanut-e-saudavel",
-      "title": "Dr. Peanut é saudável? O que a pasta, o alfajor, a Doctor Bar, a Doctor Wafer e o whey trazem no rótulo"
+      "slug": "dr-peanut-e-saudavel"
     }
   ]
 }

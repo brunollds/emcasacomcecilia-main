@@ -1,0 +1,271 @@
+{
+  "id": 806,
+  "slug": "tallas-shein",
+  "locale": "es",
+  "translationKey": "shein-tamanho",
+  "title": "Guía de tallas de SHEIN: qué talla pedir y cómo leer la tabla de cada prenda",
+  "seoTitle": "Tallas SHEIN: qué talla pedir y cómo leer la guía",
+  "type": "Guía de tallas",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "En SHEIN la misma letra cambia de marca en marca: dos camisetas M difieren 11 cm de busto. Elige por las medidas de cada prenda en cm, no por tu letra habitual.",
+  "metaDescription": "Talla en SHEIN: la letra cambia de marca. El 4CW5Y es un código de referido que se busca en la app. Mide en cm y lee la guía de cada prenda.",
+  "publishedAt": "4 de noviembre de 2026",
+  "publishedAtISO": "2026-11-04",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/tamanho-shein-capa.webp",
+  "imageAlt": "Camiseta azul marino, camiseta negra vista de espaldas y pijama verde estampado en fotos oficiales de SHEIN, con el logo de la tienda, las letras S, M y L y una regla",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "label": "Ir a SHEIN",
+    "text": "Abre la guía de tallas de la prenda y compara la medida en centímetros con la tuya antes de elegir la letra.",
+    "url": "https://onelink.shein.com/55/6463grgxf6ru",
+    "sponsored": true
+  },
+  "coupon": "4CW5Y",
+  "affiliate": "shein",
+  "editorialNote": "Podemos recibir comisión por los enlaces de SHEIN. Nadie del equipo se probó las prendas.",
+  "relatedArticles": [
+    {
+      "slug": "vale-la-pena-shein"
+    },
+    {
+      "slug": "vestido-de-fiesta-shein"
+    },
+    {
+      "slug": "shein-es-confiable-y-seguro"
+    },
+    {
+      "slug": "codigo-de-referido-shein-donde-ponerlo"
+    },
+    {
+      "slug": "shein-opiniones-trustpilot"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "En SHEIN, la talla se elige por la medida en centímetros de la guía de cada prenda, nunca por la letra de siempre: la M cambia de una marca a otra. Mide tu cuerpo y compáralo con la prenda. Si no te queda bien, la salida es la devolución; el capítulo «Si no te queda: la devolución» explica cómo."
+      ]
+    },
+    {
+      "heading": "La misma letra cambia de marca en marca",
+      "paragraphs": [
+        "Te pones M, pides M, y la camiseta llega en otra talla: en SHEIN la letra no sirve de regla. La plataforma vende marcas distintas, y cada una mide su M a su manera. Dos camisetas lisas de manga corta muestran el problema."
+      ],
+      "comparisonTable": {
+        "caption": "Busto de la prenda en la talla M internacional, según la guía de tallas de cada ficha; la guía completa de DAZY está más abajo.",
+        "headers": [
+          "Camiseta",
+          "Busto de la prenda en M",
+          "Ajuste",
+          "Elasticidad",
+          "Tejido"
+        ],
+        "rows": [
+          [
+            "[Camiseta DAZY de manga corta](https://onelink.shein.com/59/677nm8a1bw39?ismg_ol=Cf3mP8JHNm0_01_KOC-C)",
+            "93 cm",
+            "Regular",
+            "Poca",
+            "100% algodón"
+          ],
+          [
+            "[Camiseta lisa SHEIN Essnce](https://onelink.shein.com/59/677njvfpgtwq?ismg_ol=EtbNY1dTW2w_01_KOC-C)",
+            "82 cm",
+            "Entre skinny y regular",
+            "Alta",
+            "95% viscosa y 5% elastano"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Nuestra cuenta: con las medidas de la prenda en las dos guías, la M de DAZY tiene 11 cm más de busto que la M de Essnce, casi el busto de la XL de Essnce. La tienda informa: la propia ficha de DAZY advierte que la marca sigue el tallaje asiático y es más pequeña que SHEIN.",
+        "Qué cambia al comprar: cada prenda tiene su propia guía, y es ella la que vale. La forma de no equivocarse es dejar de lado la letra, abrir la guía de tallas de la prenda y comparar centímetro a centímetro. Los dos capítulos siguientes muestran cómo: primero tu cuerpo, después la guía."
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/tamanho-shein-camiseta-dazy.webp",
+          "alt": "Modelo con la camiseta DAZY azul marino de manga corta y cuello redondo, de frente, con pantalón negro y bolso al hombro",
+          "caption": "Camiseta DAZY: la ficha advierte que la marca es más pequeña que SHEIN. Foto oficial de SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7513
+        },
+        {
+          "src": "/images/reviews/shein/tamanho-shein-camiseta-essnce.webp",
+          "alt": "Modelo con la camiseta negra SHEIN Essnce de manga corta y cuello redondo, de frente, con vaqueros y cinturón",
+          "caption": "Camiseta SHEIN Essnce: su M tiene menos busto que la DAZY. Foto oficial de SHEIN.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7513
+        }
+      ]
+    },
+    {
+      "heading": "Cómo medir el cuerpo",
+      "paragraphs": [
+        "Antes de abrir cualquier guía necesitas tres números tuyos: busto, cintura y cadera. Regla práctica, sin prueba nuestra: usa cinta métrica de costura, sobre ropa ligera, con la cinta pegada a la piel sin apretar. Dónde pasar la cinta en cada medida:"
+      ],
+      "bullets": [
+        "Busto: en la parte más llena, con la cinta recta, pasando por debajo de los brazos y por la espalda a la misma altura.",
+        "Cintura: en el punto más fino del torso, por lo general un poco por encima del ombligo, respirando con normalidad.",
+        "Cadera: en la parte más ancha de la cadera, con los pies juntos."
+      ],
+      "postParagraphs": [
+        "Anota los tres en centímetros. La guía de SHEIN muestra las medidas en centímetros y en pulgadas; para comparar, quédate en CM. La propia guía explica cómo medir: si tu forma de medir es la suya, la comparación sale bien. Para camiseta, blusa y vestido decide el busto; para pantalón y falda, la cintura y la cadera. Si estás entre dos de tus números, usa el mayor: lo que sobra se ajusta, lo que falta no."
+      ]
+    },
+    {
+      "heading": "Cómo leer la guía de la prenda: medida de la prenda, medida del cuerpo y holgura",
+      "paragraphs": [
+        "Lo que decide la talla es saber qué tabla estás mirando, porque la guía de SHEIN puede traer dos. La tabla de medidas del producto es la prenda medida extendida: el busto de la camiseta DAZY en M es la medida de la prenda, no la de tu cuerpo. La tabla de medidas corporales, cuando la prenda la tiene, es el rango de cuerpo que la marca indica para cada letra, y su propia nota dice que es solo de referencia. Algunas prendas traen solo la de la prenda, como la Essnce; entonces la comparación es directa entre tu medida y la de la prenda, y la holgura queda por tu cuenta."
+      ],
+      "comparisonTable": {
+        "caption": "Guía de tallas de la camiseta DAZY, consultada el 4 de noviembre de 2026, en centímetros: medida de la prenda a la izquierda (busto y largo; hombro y manga quedaron fuera), rango del cuerpo a la derecha.",
+        "headers": [
+          "Talla",
+          "Busto de la prenda",
+          "Largo",
+          "Altura",
+          "Busto del cuerpo",
+          "Cintura",
+          "Cadera"
+        ],
+        "rows": [
+          [
+            "XS",
+            "85",
+            "58",
+            "150-155",
+            "74-78",
+            "58-62",
+            "82-86"
+          ],
+          [
+            "S",
+            "89",
+            "59",
+            "155-160",
+            "78-82",
+            "62-66",
+            "86-90"
+          ],
+          [
+            "M",
+            "93",
+            "60",
+            "160-165",
+            "82-86",
+            "66-70",
+            "90-94"
+          ],
+          [
+            "L",
+            "97",
+            "61",
+            "160-165",
+            "86-90",
+            "70-74",
+            "94-98"
+          ],
+          [
+            "XL",
+            "101",
+            "62",
+            "165-170",
+            "90-94",
+            "74-78",
+            "98-102"
+          ],
+          [
+            "XXL",
+            "105",
+            "63",
+            "165-170",
+            "94-98",
+            "78-82",
+            "102-106"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "La holgura es la diferencia entre la prenda y tu cuerpo, y cuenta el corte antes de que te la pongas. Con la misma cuenta, con la guía de DAZY, la M está indicada para un busto de 82 a 86 cm. Quedan de 7 a 11 cm de holgura en una camiseta de ajuste regular y poca elasticidad. Cuando solo existe la medida de la prenda, la elasticidad hace el papel de la holgura: en la Essnce, de alta elasticidad, la modelo de la ficha lleva la S, que mide 78 cm, 9 cm menos que su busto.",
+        "La guía avisa que la medida de la prenda puede variar de 1 a 2 cm, y la descripción de las dos camisetas avisa que la tela cambia de medida tras lavarla en casa. Si tu medida cae en el límite de una talla, esos 2 cm deciden. Así que: la tela sin elasticidad o con poca pide holgura y, en el límite, la talla de arriba; la tela de elasticidad media o alta pide la talla cuya medida queda igual o por debajo de la tuya, porque mucha holgura en una prenda que estira se vuelve ropa ancha."
+      ]
+    },
+    {
+      "heading": "Qué más muestra la ficha: la modelo y quienes compraron",
+      "paragraphs": [
+        "Después de la medida, lo que más ayuda es la tabla de quienes compraron, porque muestra gente de verdad: altura, peso, busto, cintura, cadera y la talla que pidió cada una. Busca ahí a alguien con tus medidas y mira lo que pidió. Justo encima aparece la valoración de ajuste de los compradores, en porcentaje: en DAZY, el 93% la encontró fiel a la talla, el 6% la encontró pequeña y el 1% grande; en Essnce, la ficha dice que el 95% la encontró fiel a la talla. Un porcentaje alto de «pequeña» es un aviso para subir una talla.",
+        "La modelo sirve de referencia de altura. En DAZY, mide 176 cm y tiene 87 cm de busto y lleva la M internacional; en Essnce, 175 cm y 87 cm de busto, con la S. Mismo busto, letras distintas, en las dos marcas: es el capítulo de la talla otra vez. El botón de detalles de talla y ajuste muestra esas medidas de la modelo en la propia ficha.",
+        "Debajo de las tallas, algunas fichas traen un enlace que sugiere la talla. El centro de ayuda de SHEIN dice que la herramienta pide altura, edad y peso para sugerir una talla. Con sesión iniciada, la sugerencia aparece sola en algunas prendas. Úsala como segunda opinión, nunca en lugar de la cinta: no pregunta tu busto ni tu cintura, y es ahí donde cambia la talla."
+      ]
+    },
+    {
+      "heading": "Si no te queda: la devolución",
+      "paragraphs": [
+        "Equivocarte de talla cuesta el tiempo de dos entregas: la prenda vuelve antes de que llegue la correcta, y por eso la cinta va antes del pedido.",
+        "La política de devolución de tu país está en el centro de ayuda de SHEIN. La devolución y la reputación de la tienda están en [¿SHEIN es confiable?](/es/reviews/shein-es-confiable-y-seguro)."
+      ]
+    },
+    {
+      "heading": "Antes de hacer el pedido",
+      "paragraphs": [
+        "La talla se decide antes del carrito, en este orden:"
+      ],
+      "bullets": [
+        "Mide busto, cintura y cadera y anótalos en centímetros.",
+        "Abre la guía de tallas de la prenda y déjala en CM.",
+        "Mira si la tabla es de la prenda o del cuerpo. Compárala con tu medida y cuenta la holgura.",
+        "Lee el tipo de ajuste y la elasticidad: una tela que no estira pide holgura; una que estira, la talla de tu medida.",
+        "Revisa la valoración de ajuste de los compradores y busca en su tabla a alguien con tus medidas.",
+        "Cuenta con una variación de 1 a 2 cm en la prenda y con el cambio tras el lavado.",
+        "Guarda la confirmación del pedido y el seguimiento: con ellos se hace la devolución si la prenda no te queda."
+      ],
+      "postParagraphs": [
+        "Plazo, envío y qué revisar antes de pagar están en [¿SHEIN vale la pena?](/es/reviews/vale-la-pena-shein). El 4CW5Y es el código de referido de SHEIN: se busca en la app, no es un cupón y no da descuento; las campañas del momento están en la [página de SHEIN](/es/coupons/shein)."
+      ]
+    },
+    {
+      "heading": "Qué talla pedir: el resumen por situación",
+      "bullets": [
+        "Tela sin elastano, con elasticidad nula o poca (la camiseta DAZY): la talla cuya medida de la prenda da la holgura que usas; si tu medida cae en el límite, la de arriba.",
+        "Tela con elastano, elasticidad media o alta, y solo la medida de la prenda en la guía (la Essnce): la talla cuya medida queda igual o por debajo de la tuya, como hace la modelo de la ficha.",
+        "Marca que la ficha avisa que queda pequeña (la DAZY): lee la tabla de cuerpo de la propia marca, no tu letra de siempre.",
+        "Entre dos tallas y sin certeza: la que pidieron en la tabla de compradores con tus medidas; sin nadie parecido, decide la holgura, según la regla de la tela."
+      ],
+      "emphasis": "Si fuera para mi casa, no pediría una talla sin abrir la guía de la prenda, porque la misma letra cambia de marca en marca."
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿Cuál es mi talla en SHEIN? La que diga la guía de tallas de la prenda para tu medida en centímetros; la letra cambia de marca en marca, como muestran las dos camisetas del primer capítulo.",
+        "¿Las tallas de SHEIN son pequeñas? No se puede responder por la letra: la ficha de cada prenda muestra el tipo de ajuste, la elasticidad y el porcentaje de compradores que la encontraron fiel a la talla. En las dos camisetas de esta guía, la mayoría la encontró fiel; los números están en el capítulo «Qué más muestra la ficha».",
+        "¿SHEIN cambia por otra talla? Depende del país: la política de devolución y cambio de cada uno está en el centro de ayuda de SHEIN.",
+        "¿Cómo mido el busto para SHEIN? Con la cinta en la parte más llena del busto, recta en la espalda y sin apretar; el capítulo de cómo medir trae también la cintura y la cadera."
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "La medida de la prenda en la guía, en centímetros, da la holgura que usas, y el tipo de ajuste y la elasticidad encajan con lo que esperas de la tela.",
+      "La tabla de compradores de la ficha tiene a alguien con tus medidas, y esa persona pidió la talla que tú vas a pedir."
+    ],
+    "skipIf": [
+      "Elegiste por tu letra de siempre sin abrir la guía de la prenda: la misma letra cambia de marca en marca.",
+      "Necesitas la prenda en una fecha fija y no puedes esperar a la devolución: equivocarte de talla cuesta el tiempo de dos entregas."
+    ]
+  }
+}

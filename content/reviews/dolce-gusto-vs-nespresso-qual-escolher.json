@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Comparativo direto entre Dolce Gusto e Nespresso em 2026. Veja diferenças de pressão nominal, cápsulas, custo por xícara, bebidas e perfis de uso.",
-  "metaDescription": "Dolce Gusto ou Nespresso? Compare cápsulas, bebidas, custo por xícara e perfis de uso para escolher a cafeteira mais adequada em 2026.",
+  "metaDescription": "Dolce Gusto ou Nespresso, com o cupom CECI de 10% OFF na Dolce Gusto a partir de R$ 100: cápsulas, bebidas, custo por xícara e perfis de uso para escolher.",
   "publishedAt": "5 de setembro de 2026",
   "publishedAtISO": "2026-09-05",
   "draft": false,
@@ -234,20 +234,16 @@
   "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da Amazon, sem custo extra.",
   "relatedArticles": [
     {
-      "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes",
-      "title": "Dolce Gusto vs Nespresso vs 3 Corações: qual cafeteira de cápsula escolher em 2026?"
+      "slug": "dolce-gusto-vs-nespresso-vs-3-coracoes"
     },
     {
-      "slug": "dolce-gusto-maquinas-qual-escolher",
-      "title": "Máquinas Dolce Gusto: qual escolher para sua casa?"
+      "slug": "dolce-gusto-maquinas-qual-escolher"
     },
     {
-      "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch",
-      "title": "Dolce Gusto Genio S Basic vs Plus vs Touch: Qual a Diferença e Qual Vale a Pena?"
+      "slug": "dolce-gusto-genio-s-basic-vs-plus-vs-touch"
     },
     {
-      "slug": "tabela-medidas-dolce-gusto-ml-por-nivel",
-      "title": "Tabela de medidas Dolce Gusto: quantos ml saem em cada nível?"
+      "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
     }
   ],
   "gallery": [

@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Os números da Let's Eat It no Reclame Aqui nos últimos 6 meses: reputação Boa, 99,1% das reclamações respondidas e 94% resolvidas — e por que só 54% dizem que voltariam a comprar.",
-  "metaDescription": "Let's Eat It no Reclame Aqui: reputação Boa, nota 7,6, 99,1% respondidas e 94% resolvidas. Veja o que mais gera reclamação e o que fazer se seu pedido der problema.",
+  "metaDescription": "Let's Eat It no Reclame Aqui, com o cupom MAUAD de 5% OFF: reputação Boa, nota 7,6, 99,1% respondidas e 94% resolvidas, e o que fazer se der problema.",
   "publishedAt": "3 de outubro de 2026",
   "publishedAtISO": "2026-10-03",
   "draft": false,
@@ -253,12 +253,10 @@
   "editorialNote": "Dados públicos do Reclame Aqui, que mudam com o tempo. Podemos receber comissão pelo MAUAD.",
   "relatedArticles": [
     {
-      "slug": "lets-eat-it-e-confiavel",
-      "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      "slug": "lets-eat-it-e-confiavel"
     },
     {
-      "slug": "cupom-mauad-lets-eat-it-como-usar",
-      "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
+      "slug": "cupom-mauad-lets-eat-it-como-usar"
     }
   ]
 }

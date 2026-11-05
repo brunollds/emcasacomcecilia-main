@@ -19,7 +19,7 @@
   "draft": false,
   "isNew": true,
   "description": "Cookies sem açúcar da Belive comparados por 100 g, com o rótulo, os adoçantes, os alérgenos e o cupom MAUAD, a partir da loja oficial em 28/10/2026.",
-  "metaDescription": "Os quatro cookies sem açúcar da Belive comparados por 100 g: preço no cartão, kcal, proteína, açúcares e alérgenos, com a leitura da loja em 28/10/2026.",
+  "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Os quatro cookies sem açúcar comparados por 100 g: calorias, proteína, açúcares, alérgenos e preço.",
   "image": "/images/reviews/belive/cookies-sem-acucar-belive-capa.webp",
   "imageAlt": "Pacotes dos cookies sem açúcar da Belive de chocolate, baunilha com chocolate e castanhas, com o título Cookies sem açúcar",
   "imageFit": "contain",
@@ -47,16 +47,13 @@
   },
   "relatedArticles": [
     {
-      "slug": "brownie-sem-acucar-belive",
-      "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      "slug": "brownie-sem-acucar-belive"
     },
     {
-      "slug": "cupom-belive-como-usar",
-      "title": "Como usar o cupom da Belive e o que ele soma"
+      "slug": "cupom-belive-como-usar"
     },
     {
-      "slug": "doces-sem-acucar-para-diabeticos",
-      "title": "Doces sem açúcar para diabéticos: o que olhar no rótulo"
+      "slug": "doces-sem-acucar-para-diabeticos"
     }
   ],
   "contentSections": [

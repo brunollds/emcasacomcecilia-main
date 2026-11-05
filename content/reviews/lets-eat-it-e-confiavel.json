@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "O que conferimos sobre a Let's Eat It antes de indicar a loja: empresa ativa desde 2020 com quatro CNPJs, presença no localizador oficial da Le Creuset, política de 30 dias para devolução, entrega de peças frágeis e o ponto de atenção no pós-venda.",
-  "metaDescription": "A loja Let's Eat It é confiável? Veja CNPJ, Le Creuset, troca em 30 dias, frete, Reclame Aqui e fotos da Casa Let's, a loja física em São Paulo.",
+  "description": "A Let's Eat It é confiável? O que conferimos antes de indicar a loja: empresa ativa, presença no localizador da Le Creuset, política de troca e o ponto de atenção no pós-venda.",
+  "metaDescription": "O cupom MAUAD dá 5% OFF no site da Let's Eat It. A loja é confiável? CNPJ, Le Creuset, troca em 30 dias, frete, Reclame Aqui e a Casa Let's em São Paulo.",
   "publishedAt": "3 de outubro de 2026",
   "publishedAtISO": "2026-10-03",
   "draft": false,
@@ -273,12 +273,10 @@
   "editorialNote": "Feito com fontes públicas. Podemos receber comissão pelas compras com o cupom MAUAD.",
   "relatedArticles": [
     {
-      "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
-      "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
     },
     {
-      "slug": "cupom-mauad-lets-eat-it-como-usar",
-      "title": "Cupom Let's Eat It MAUAD: como usar o desconto de 5%"
+      "slug": "cupom-mauad-lets-eat-it-como-usar"
     }
   ],
   "imageAspect": "landscape"

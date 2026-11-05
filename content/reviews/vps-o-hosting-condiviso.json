@@ -196,7 +196,8 @@
         "Il VPS è più veloce dell'hosting condiviso? Non l'abbiamo misurato. Ciò che il VPS garantisce sono risorse riservate: CPU, memoria e disco sono tuoi, mentre sul condiviso il server è diviso. Per un sito comune, raramente è il collo di bottiglia.",
         "Posso iniziare sul condiviso e passare al VPS dopo? Sì. Sono prodotti diversi: sottoscrivi il VPS, installi il server e porti il sito. L'hosting condiviso non si converte in VPS dall'interno del pannello.",
         "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non devi usare il terminale.",
-        "Il VPS regge WordPress? Sì, ma installi e mantieni tu il server web, PHP e il database. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server."
+        "Il VPS regge WordPress? Sì, ma installi e mantieni tu il server web, PHP e il database. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server.",
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
     {
@@ -209,26 +210,23 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. Non abbiamo testato il rinnovo: controlla il prezzo nel carrello.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
     "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
   },
   "coupon": "SONAR20",
   "affiliate": "hostinger",
-  "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Non abbiamo testato il VPS.",
+  "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Il codice vale anche sul VPS.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-gestito-o-vps",
-      "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi è adatto"
+      "slug": "openclaw-hostinger-gestito-o-vps"
     },
     {
-      "slug": "hostinger-e-affidabile",
-      "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+      "slug": "hostinger-e-affidabile"
     },
     {
-      "slug": "black-friday-hostinger-offerte",
-      "title": "Black Friday Hostinger 2026: il coupon SONAR20 toglie il 20% dal prezzo della campagna"
+      "slug": "black-friday-hostinger-offerte"
     }
   ],
   "decision": {

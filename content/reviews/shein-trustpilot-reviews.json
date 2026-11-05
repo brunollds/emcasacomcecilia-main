@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN's Trustpilot score on October 28, 2026: a TrustScore of 3.8 from 353,435 reviews, 59% five stars and 18% one star, complaints about packages that never arrived and about refunds, and why a global score says nothing about your country.",
+  "description": "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. See what over 350,000 reviews show, the complaints about packages and refunds, and why the score is global.",
   "metaDescription": "SHEIN on Trustpilot on October 28, 2026: TrustScore 3.8 from 353,435 reviews, 59% five stars and 18% one star, complaints about delivery and refunds. See what the score does not show.",
   "publishedAt": "October 29, 2026",
   "publishedAtISO": "2026-10-29",
@@ -168,12 +168,10 @@
   "editorialNote": "Public data that changes over time. We may earn a commission on SHEIN purchases.",
   "relatedArticles": [
     {
-      "slug": "is-shein-legit-and-safe",
-      "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+      "slug": "is-shein-legit-and-safe"
     },
     {
-      "slug": "shein-vs-temu-which-to-choose",
-      "title": "SHEIN vs Temu: how to choose (shipping, returns and what to check before you buy)"
+      "slug": "shein-vs-temu-which-to-choose"
     }
   ]
 }

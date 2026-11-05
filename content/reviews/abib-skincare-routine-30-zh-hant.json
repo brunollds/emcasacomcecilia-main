@@ -247,16 +247,13 @@
   "editorialNote": "產品由 YesStyle 寄送；本站透過連結與 Reward Code CECILIA010 賺取佣金。",
   "relatedArticles": [
     {
-      "slug": "yesstyle-kbeauty-guide-zh-hant",
-      "title": "K-Beauty 韓妝熱潮全解析：為何全球為之瘋狂，到哪裡買才放心"
+      "slug": "yesstyle-kbeauty-guide-zh-hant"
     },
     {
-      "slug": "yesstyle-trust-guide-zh-hant",
-      "title": "YesStyle 值得信賴嗎？購買前必看安全評價與購物指南"
+      "slug": "yesstyle-trust-guide-zh-hant"
     },
     {
-      "slug": "yesstyle-valid-coupon-guide-zh-hant",
-      "title": "如何找到有效的 YesStyle 優惠碼並與 CECILIA010 疊加使用"
+      "slug": "yesstyle-valid-coupon-guide-zh-hant"
     }
   ],
   "translationKey": "yesstyle-skincare-30"

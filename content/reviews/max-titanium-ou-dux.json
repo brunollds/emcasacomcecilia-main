@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Max Titanium ou Dux? Whey concentrado, 3W e isolado, creatina, Creapure, multivitamínico e pré-treino das duas lojas pela mesma régua: proteína por dose, preço por 100 g, por dia e por dose, a Dux no cartão e no Pix e a Max com e sem o cupom MAX10EMCASACOMCECILIA.",
-  "metaDescription": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por 100 g de proteína, por dia e por dose, com cupom, Pix e frete.",
+  "description": "Max Titanium ou Dux? Whey, creatina, multivitamínico e pré-treino comparados pela mesma régua, de proteína por dose a preço por dia, com Pix e cupom. Veja qual sai mais barata.",
+  "metaDescription": "Max Titanium ou Dux, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: whey, creatina, multivitamínico e pré-treino por proteína, por dia e por dose.",
   "publishedAt": "20 de outubro de 2026",
   "publishedAtISO": "2026-10-20",
   "draft": false,
@@ -365,7 +365,7 @@
         ]
       },
       "postParagraphs": [
-        "Regras lidas junto com os preços. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium). A Dux não tem cupom nosso: o desconto de 5% no Pix é da própria página da Dux."
+        "Regras lidas junto com os preços. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na página do [cupom Max Titanium](/cupons/max-titanium). A Dux não tem cupom nosso: o desconto de 5% no Pix é da própria página da Dux."
       ]
     },
     {
@@ -440,16 +440,13 @@
   "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Max Titanium; a Dux não é parceira. Não provamos os produtos.",
   "relatedArticles": [
     {
-      "slug": "max-titanium-ou-growth",
-      "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+      "slug": "max-titanium-ou-growth"
     },
     {
-      "slug": "max-titanium-ou-probiotica",
-      "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      "slug": "max-titanium-ou-probiotica"
     },
     {
-      "slug": "black-skull-ou-max-titanium",
-      "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      "slug": "black-skull-ou-max-titanium"
     }
   ]
 }

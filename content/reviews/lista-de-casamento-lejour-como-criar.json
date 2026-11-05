@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Passo a passo para criar a lista de casamento na Lejour: nomes do casal, data, tema do site, conta grátis, lista de presentes, quem paga a taxa e como sacar. Cadastro refeito até o painel em 14/10/2026.",
+  "description": "Como criar a lista de casamento na Lejour em três passos: cadastro do casal, lista de presentes, quem paga a taxa e como sacar. Veja o que decidir antes de começar.",
   "metaDescription": "Como criar a lista de casamento na Lejour em 3 passos, com as telas do cadastro, a taxa dos presentes e o saque por Pix. Consulta de 14/10/2026.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
@@ -187,16 +187,13 @@
   "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
   "relatedArticles": [
     {
-      "slug": "lejour-e-confiavel",
-      "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+      "slug": "lejour-e-confiavel"
     },
     {
-      "slug": "lejour-reclame-aqui-nota-reputacao",
-      "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "lejour-reclame-aqui-nota-reputacao"
     },
     {
-      "slug": "lejour-como-funciona",
-      "title": "O que é a Lejour e como funciona: site de casamento, lista de presentes, taxas e planos"
+      "slug": "lejour-como-funciona"
     }
   ]
 }

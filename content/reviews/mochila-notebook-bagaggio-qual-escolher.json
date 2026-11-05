@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "Mochila para notebook Bagaggio: 12 modelos com preço de cartão de 30/10/2026, da faixa de R$ 79,90 ao couro de R$ 699,90, com medida, material e garantia informados pela loja.",
-  "metaDescription": "12 mochilas para notebook da Bagaggio com preço de cartão de 30/10/2026: medida, material e garantia informados pela loja, e o cupom CECILIA10.",
+  "metaDescription": "Mochila para notebook Bagaggio com o CECILIA10 e 10% OFF: 12 modelos com preço de cartão, medida, material e garantia informados pela loja.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
   "draft": false,
@@ -239,20 +239,16 @@
   "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado no carrinho de uma mochila. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
-      "slug": "mochila-escolar-bagaggio",
-      "title": "Mochila escolar Bagaggio: qual escolher por linha e preço"
+      "slug": "mochila-escolar-bagaggio"
     },
     {
-      "slug": "bagaggio-e-boa-malas-mochilas",
-      "title": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa"
+      "slug": "bagaggio-e-boa-malas-mochilas"
     },
     {
-      "slug": "bagaggio-garantia-vitalicia",
-      "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      "slug": "bagaggio-garantia-vitalicia"
     },
     {
-      "slug": "cupom-bagaggio-como-usar",
-      "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
+      "slug": "cupom-bagaggio-como-usar"
     }
   ],
   "decision": {

@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "O que a Insider vende, o que a Tech T-Shirt garante por escrito, quanto custa com o cupom EMCASACOMCECILIA, onde comprar, troca e reputação: para quem a marca compensa.",
-  "metaDescription": "Insider vale a pena? O que a marca vende, a garantia da Tech T-Shirt, o preço com o cupom de 15%, onde comprar e as regras de troca.",
+  "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider. Vale a pena? O que a marca vende, a garantia da Tech T-Shirt, onde comprar e as regras de troca.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
   "updatedAt": "2026-11-02",
@@ -97,7 +97,7 @@
     {
       "heading": "Quanto custa de verdade",
       "paragraphs": [
-        "O cupom EMCASACOMCECILIA dá 15% sobre o preço de cada item na loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento."
+        "O cupom EMCASACOMCECILIA dá 15% sobre o preço de cada item na loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento. As regras do mês ficam na página do [cupom Insider](/cupons/insider)."
       ],
       "comparisonTable": {
         "caption": "Preço no cartão, 02/11. Com o cupom: conta nossa, com os 15% sobre o preço do site, antes do desconto do Pix.",
@@ -220,16 +220,13 @@
   "editorialNote": "Podemos receber comissão pela Insider. Ninguém da equipe usou as peças: os dados são das páginas da marca e do teste do cupom no checkout.",
   "relatedArticles": [
     {
-      "slug": "camiseta-insider-qual-escolher",
-      "title": "Camiseta masculina Insider: qual escolher entre Tech, Heavy, Core, Daily, Polo e Henley"
+      "slug": "camiseta-insider-qual-escolher"
     },
     {
-      "slug": "cueca-insider-comfort-ou-performance",
-      "title": "Cueca Insider: Comfort, Performance, Seamless Touch ou Slip, qual escolher"
+      "slug": "cueca-insider-comfort-ou-performance"
     },
     {
-      "slug": "insider-store-e-confiavel",
-      "title": "Insider Store é confiável? CNPJ, loja física, trocas e reputação"
+      "slug": "insider-store-e-confiavel"
     }
   ]
 }

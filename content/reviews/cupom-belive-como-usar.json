@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Como usar o cupom MAUAD na Belive: 10% OFF em todo o site, em todas as formas de pagamento. Passo a passo, o que soma com o Pix e o frete grátis por região.",
-  "metaDescription": "Cupom Belive MAUAD: 10% OFF em todo o site. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.",
+  "metaDescription": "O código MAUAD dá 10% OFF em todo o site da Belive. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.",
   "publishedAt": "16 de outubro de 2026",
   "publishedAtISO": "2026-10-16",
   "draft": false,
@@ -44,9 +44,15 @@
   "affiliate": "belive",
   "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo MAUAD.",
   "relatedArticles": [
-    "belive-e-confiavel",
-    "belive-reclame-aqui-nota-reputacao",
-    "black-friday-belive"
+    {
+      "slug": "belive-e-confiavel"
+    },
+    {
+      "slug": "belive-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "black-friday-belive"
+    }
   ],
   "contentSections": [
     {

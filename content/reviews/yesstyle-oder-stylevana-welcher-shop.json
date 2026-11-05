@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle, Stylevana, Olive Young, StyleKorean und Jolse im Vergleich: die Frist für die Rückgabe und was jeder Shop zurücknimmt, der kostenlose Versand und die Bestellgrenze bei StyleKorean und der Reward Code CECILIA010, nach den offiziellen Seiten.",
+  "description": "YesStyle, Stylevana, Olive Young, StyleKorean und Jolse im Vergleich: Rückgabefristen, kostenloser Versand und der Reward Code CECILIA010, nach den offiziellen Seiten der Shops.",
   "metaDescription": "YesStyle oder Stylevana? Rückgabe, kostenloser Versand bei StyleKorean und der Reward Code CECILIA010, mit Olive Young, StyleKorean und Jolse, nach den offiziellen Seiten.",
   "publishedAt": "13. Oktober 2026",
   "publishedAtISO": "2026-10-13",
@@ -217,20 +217,16 @@
   "editorialNote": "Wir können eine Provision von YesStyle erhalten. Wir haben die anderen Shops nicht getestet: Ihre Regeln stammen von den offiziellen Seiten.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-oder-olive-young-welcher-shop",
-      "title": "YesStyle oder Olive Young: wer in Ihr Land liefert, Versand, Steuern und Rückgabe"
+      "slug": "yesstyle-oder-olive-young-welcher-shop"
     },
     {
-      "slug": "yesstyle-versand-deutschland-oesterreich-schweiz",
-      "title": "Liefert YesStyle nach Deutschland, Österreich und in die Schweiz? Lieferzeit, Versandkosten und Zoll"
+      "slug": "yesstyle-versand-deutschland-oesterreich-schweiz"
     },
     {
-      "slug": "ist-yesstyle-serioes-und-sicher",
-      "title": "Ist YesStyle seriös und sicher? Was Sie vor dem Kauf wissen müssen"
+      "slug": "ist-yesstyle-serioes-und-sicher"
     },
     {
-      "slug": "yesstyle-reward-code-rabatt-cecilia010",
-      "title": "YesStyle CECILIA010: Reward Code nutzen"
+      "slug": "yesstyle-reward-code-rabatt-cecilia010"
     }
   ],
   "updatedAt": "2026-10-21"

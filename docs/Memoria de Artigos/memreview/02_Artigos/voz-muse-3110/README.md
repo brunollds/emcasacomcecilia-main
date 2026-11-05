@@ -1,6 +1,6 @@
 ---
 titulo_provisorio: "Voz dos 62 artigos de maior impressão (revisão do Muse, conferida)"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "sessão de artigos"
 proxima_acao: "redacao: aplicar os consertos aprovados + o conserto mecânico da catraca, por loja"
 data_criacao: "2026-10-31"

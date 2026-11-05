@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN and Temu side by side: the shipping, delivery time and returns that each store publishes for the United Kingdom, and how to choose depending on what you are buying. No price comparison.",
+  "description": "SHEIN or Temu? What each store publishes on shipping, delivery time and returns for the UK, and how to choose by what you are buying. Temu gives the longest return window.",
   "metaDescription": "SHEIN vs Temu: shipping, delivery time and returns published for the UK, and what to check before you buy.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
@@ -161,16 +161,13 @@
   "editorialNote": "This article is editorial. We may earn a commission on SHEIN and Temu links.",
   "relatedArticles": [
     {
-      "slug": "is-shein-legit-and-safe",
-      "title": "Is SHEIN legit and safe? Who runs it, where it's from and its return policy"
+      "slug": "is-shein-legit-and-safe"
     },
     {
-      "slug": "shein-black-friday-dates-taxes",
-      "title": "SHEIN Black Friday 2026: when it starts, how long it lasts and how coupons work"
+      "slug": "shein-black-friday-dates-taxes"
     },
     {
-      "slug": "shein-referral-code-where-to-enter",
-      "title": "SHEIN referral code: where to enter it and how it works"
+      "slug": "shein-referral-code-where-to-enter"
     }
   ],
   "decision": {

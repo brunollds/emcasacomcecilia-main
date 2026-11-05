@@ -16,7 +16,7 @@ estava desatualizada:
 
 ```bash
 npm run typecheck            # tsc --noEmit — gate mais rápido que o build
-npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (roda no build); chave repetida no mesmo objeto de content/reviews e content/receitas, com o caminho
+npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (roda no build); chave repetida no mesmo objeto de content/reviews e content/receitas, com o caminho; relacionados (relatedArticles) de todo artigo no ar: só { slug }, sem title, com o slug de um artigo publicado no mesmo idioma (rascunho não tem página)
 npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
@@ -217,11 +217,21 @@ vídeo, primeiras impressões e uso noturno.
   artigos de antes da regra (31/10/2026) estão em `scripts/review-prose-baseline.json`, que só encolhe: artigo fora
   dela que fura a regra, ou artigo dela que piora, quebra o build, e quem corrige um artigo baixa ou tira a entrada
   dele, como o erro pede.
+- Snippet com o código (`metaDescription`) em todo artigo em português com `coupon` (`checkSnippet`, em
+  `scripts/review-prose-checks.ts`; o `validate:content` barra): código exato e % na primeira frase, o código terminando
+  até o caractere 100, no máximo 155 caracteres, sem data com dia, sem R$ (salvo o "a partir de R$ 100" da Dolce Gusto)
+  e sem abrir com "Cupom <loja>"; na YesStyle, nunca "cupom CECILIA010"; na SHEIN, sem % e sem "SHEIN Brasil". As
+  exceções (a Magalu e alguns slugs) ficam em `SNIPPET_EXCEPTION_*`, com o motivo. Os artigos de antes da regra (04/11/2026)
+  estão em `scripts/review-snippet-baseline.json` (slug → problemas), que só encolhe: quem corrige um artigo tira a entrada.
+- Subtítulo (`description`) com no máximo 180 caracteres em todo idioma (`MAX_DESCRIPTION_LENGTH`, em
+  `scripts/review-prose-checks.ts`; o `validate:content` barra): uma ou duas frases, de 150 a 180, nunca o sumário do
+  artigo. Ele sai embaixo do título, no JSON-LD, no `llms.txt` e no começo do "Ouvir"; o snippet do Google usa o
+  `metaDescription`.
 - O processo editorial (pauta, redação, revisão, JSON e gates) está no vault
   `docs/Memoria de Artigos/memreview`, a partir de `00_Sistema/AI-PRIMING-INDEX.md`.
 
 ### Component layers
-- `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow`, `RevealSection`, `CategoryIcon`, `cardDecor.ts` (the fridge-magnet cards; `couponCardDecorAt` keeps the magnet on the right and makes the yellow one navy on the coupon cards, whose price band is yellow), `useBubbleTilt.ts` (the store bubbles' mouse tilt), `useRowScroll.ts` (the row with arrows) and `StoreMark.tsx` (the store logo or initials, shared by the home and `/reviews`; a server component, so keep `'use client'` out of it).
+- `src/components/ui/` — Shared building blocks: `focusRing.ts` (`FOCUS_RING`, `FOCUS_RING_ON_DARK`), `ScrollRow`, `RevealSection`, `CategoryIcon`, `cardDecor.ts` (the fridge-magnet cards; `couponCardDecorAt` keeps the magnet on the right and makes the yellow one navy on the coupon cards, whose price band is yellow), `useBubbleTilt.ts` (the store bubbles' mouse tilt), `useRowScroll.ts` (the row with arrows), `CampaignWindow.tsx` (shows its children only inside a time window, after the build state on hydration, and checks the window again every minute and when the tab becomes visible: the store banners and the coupon codes with a deadline) and `StoreMark.tsx` (the store logo or initials, shared by the home and `/reviews`; a server component, so keep `'use client'` out of it).
 - `src/components/sections/` — Page sections: the D2 home (`HomeStoreStories`, `HomeStoreStrip` (the store bubbles), `HomeCeciliaPanel`, `HomeLatest`, `HomeEvent`, `PopularRecipes`, `MyLinks` (with `OfferCarousel`), `CTA`, the last two wrapped in `HomeSection`) and `EventHubPage`, which reads the data and wraps `EventHubView` (the date page itself, rendered by `test:home-events`; it must not import `next/font`, which does not run under tsx). `Navbar` and `Footer` live in `src/components/`; the `Navbar` mounts the header from `src/components/header/` (`DesktopNav`, `MobileHeader`, `SiteName`, `LanguageSwitcher` and `useActiveNav`, which reads the URL). The menu data and the "you are here" rule (`getShellMenu`, `getActiveNav`, `getAriaCurrent`) live in `src/lib/i18n/shellMenu.ts`, the Dicas labels included (PT only); the effects live in `globals.css` with the `header-` prefix, all of them inside `prefers-reduced-motion: no-preference`.
 - `src/components/reviews/` — a estante de `/reviews` e das subpáginas de loja: `ReviewsBrowser` (busca, categorias, ordem, grade ou lista, "Carregar mais", a URL e a troca animada), `ReviewShelfCard` e `ReviewShelfRow`, `ReviewsNewRow` (Novidades), `ReviewsStoreStrip` e `StoreBubbleLink` (bolinhas) e `TrackedReviewsLink` (`reviews_route_click`). As regras que o navegador usa ficam em `src/lib/reviewsShelf.ts`; os dados, montados no servidor, em `src/lib/reviewsHub.ts`. A bolinha "Outros" (a casa, `ShelfStoreMark`) é sempre a última de "Por loja" e de "Outras lojas", e leva a `/reviews/outros`: os artigos sem `affiliate` ou de loja pausada, com o mesmo mínimo de 3 das lojas (`getOthersShelfContent`; `outros` não pode ser slug de artigo nem de loja, o `test:reviews-hub` barra). O ímã dos cartões (`cardDecor.ts`), a inclinação das bolinhas (`useBubbleTilt.ts`) e a fila com setas (`useRowScroll.ts`) ficam em `src/components/ui/`, usados também pela home.
 - `src/components/videos/` — `/videos` e as páginas de vídeo: `VideoCard` (o cartão vertical, também nos Últimos vídeos da home), `VideoRow` (as filas: os Últimos vídeos da home, o canal e Mais vídeos), `VideoFeatured` (o destaque), `VideosBrowser` (os chips das lojas, a grade e o `?loja=`), `VideoChannelRow` e `VideoChannelStrip` (o canal e o "Inscrever-se no canal"), `VideoPlayer` (o player no formato do `aspect`), `VideoSourceCard` (a origem e o botão da loja) e `TrackedVideosLink`/`VideoPageLink` (`videos_route_click`). Os dados, montados no servidor, ficam em `src/lib/videosHub.ts`; as regras que o navegador usa, em `src/lib/videosShelf.ts`. A trilha visível das páginas de lista e de vídeo é o `PageTrail` (`src/components/ui/`).
@@ -238,6 +248,10 @@ vídeo, primeiras impressões e uso noturno.
   cópia do código vem de `couponCopyLocale.ts`, e o botão de copiar é o `CopyCodeButton` de
   `CouponActions.tsx` nos dois. `npm run test:build-output` confere a sidebar de cada artigo no
   idioma dele.
+- Os relacionados da sidebar e da gaveta (`relatedArticles` do JSON) mostram o título atual do artigo de
+  destino, pelo `resolveRelatedArticleLinks` (`src/lib/review-template-props.js`): o item é só
+  `{ "slug" }`, e o `validate:content` barra o `title`. Sem destino, o que só acontece no `/preview`, o link
+  mostra o slug.
 - O dock e a gaveta ficam direto no `<body>`: dentro do fundo editorial, `.editorial-ambient-bg > *`
   troca o `sticky` por `relative`. `npm run test:build-output` confere isso em todos os artigos.
 - Com a gaveta aberta, o resto da página fica inerte. O que precisa de foco nesse momento vai
@@ -250,7 +264,20 @@ vídeo, primeiras impressões e uso noturno.
   `ArticleCouponCutout` tem três variantes, `top` (abaixo da introdução, acima da foto), `end` (bloco da
   loja) e `sidebar`; o copiar é o `CopyCodeButton`, com a tesoura e o verde de `/cupons`. O `top` e o `sidebar` usam
   os botões compactos (`PRIMARY_ACTION_COMPACT` e `SECONDARY_ACTION_COMPACT`, de `CouponBlocks.tsx`: 44px no
-  celular); `/cupons`, as páginas de loja e o `end` seguem com os de sempre. O fim
+  celular); `/cupons`, as páginas de loja e o `end` seguem com os de sempre. Na loja com código com prazo (o
+  `limitedCodes` de `couponsData.ts`, hoje o CECIEMCASA15 da I Wanna Sleep), o artigo em PT que usa o código de sempre
+  leva no fim dos três recortes e no card da gaveta uma faixa amarela que copia o código com prazo
+  (`ArticleLimitedCodeLines`, com o `limitedCodes` do bloco e a frase pronta de `limitedCodeLine`, `articleCopy.ts`). Ela
+  só monta no navegador e dentro do prazo (`CampaignWindow` com `hiddenInHtml`): o HTML visível leva só o invólucro
+  vazio com o `data-nosnippet`, que o Google respeita no texto que o navegador põe. O payload do React (as tags
+  `<script>`) leva o código e as datas dos prazos até o próximo deploy, porque os artigos são estáticos; o navegador
+  esconde o que venceu. Ao montar, a faixa não mexe no código nem nos botões do recorte, mas desce o que vem abaixo (no
+  topo, a foto). Copiar pela faixa também deixa o recorte verde e mostra a dica de onde colar. O `test:article-d2`
+  confere a escolha com datas fixas e, nos dados, que todo artigo em PT da loja com o código de sempre leva o prazo e
+  nenhum outro o leva. O `test:build-output`, na hora do build (o mtime do HTML, não o relógio), confere um invólucro
+  vazio em cada um dos três recortes, depois do link da loja e antes da dica de copiado, e um na gaveta; o código e as
+  datas de cada prazo só no payload (nem no HTML, nem no `<head>`, nem no JSON-LD); e, no artigo sem a faixa, nenhum
+  código com prazo dos dados, vencido ou não. Os artigos fora do sitemap passam pela mesma conferência. O fim
   (`ArticleEnd`, dentro da coluna do artigo) vai nesta ordem: vídeo, galeria, veredito (só produto), bloco da
   loja (`ArticleStoreBlock`, `id="loja"`) ou, sem loja mas com `cta`, `ArticleAffiliateBlock` ("Ver na
   <loja>", sempre com o `cta.url` de afiliado e `rel` sponsored), caixa da Cecília (`ArticleAuthorBox`),
@@ -272,7 +299,9 @@ vídeo, primeiras impressões e uso noturno.
 - `placement` dos eventos `coupon_copy` e `coupon_store_click` dos artigos: `review_top`, `review_inline`,
   `review_sidebar`, `review_mobile_dock`, `review_mobile_drawer` e `review_end`, mais `review_banner_top`,
   `review_banner_mid`, `review_banner_end` e `review_styling` (só `coupon_store_click`, sem `coupon_code`). `review_final_cta` e
-  `review_verdict` saíram; componente novo do artigo passa sempre um desses.
+  `review_verdict` saíram; componente novo do artigo passa sempre um desses. A faixa do código com prazo usa o
+  `placement` do recorte ou da gaveta em que está, e o `coupon_code` separa os dois códigos no `coupon_copy`; o "Ir para
+  a loja" do recorte manda sempre o código de sempre no `coupon_store_click`, mesmo depois de copiar o com prazo.
 - Card de estilo dos artigos de roupa ("Como usar / Ocasião / Combina com"): o campo `styling` da seção
   (`{ layout?: 'tabs' | 'tags', items: [...] }`, tipos em `src/lib/content/types.ts`), desenhado por
   `ArticleStyling` (`src/components/review/article/`) no fim da seção. Cada seção escolhe o modelo: `tabs` (o padrão),
@@ -316,10 +345,13 @@ vídeo, primeiras impressões e uso noturno.
   começou vai no payload e fica fora do HTML. Cada lugar leva uma fila (`getArticleStoreBanners`): campanhas da mesma
   loja e do mesmo lugar podem esperar uma depois da outra (o esquenta e a Black Friday), desde que os prazos não se
   sobreponham (`storeBannersOverlap`), e entram no ar no deploy antes do início. O `test:store-banners` barra a
-  sobreposição e avisa para apagar o arquivo da vencida. Campanha
+  sobreposição e avisa para apagar o arquivo da vencida e para reconferir a campanha sem `endsAt` conferida há 7 dias
+  ou mais (avançar o `verifiedAt`; o aviso não derruba o build). Campanha
   que só vale com o código da loja leva ao nosso artigo sobre ela (`href` `/reviews/<slug>` da mesma loja, com
   `endsAt`), link interno sem sponsored e fora do próprio artigo. O `test:build-output` confere o lugar, o link, o
-  `rel` e os textos em todo artigo.
+  `rel` e os textos em todo artigo. Ele confere as campanhas e os códigos com prazo (da página da loja e da vitrine da
+  home) pela hora em que o build gerou cada página, o mtime do HTML, e não pela hora do teste: o build que cruza o
+  início ou o fim de um prazo não quebra.
   A campanha pode levar o `code` da própria loja (o 37S3442 da SHEIN), nunca o nosso: o banner o mostra com a frase de
   pesquisar no app (`bannerCodeHint`, `articleCopy.ts`). As mesmas campanhas vão à página da loja (`StorePageBanners`,
   de `src/components/coupons/`, por `getStorePageBanners`): em `/cupons/<loja>`, nas traduzidas e nas 10 da YesStyle,
@@ -440,6 +472,16 @@ vídeo, primeiras impressões e uso noturno.
   `public/images` só entra pelo fluxo do `docs/GUIA-MIDIA-EDITORIAL.md`, e o hook recusa o commit
   sem ele. O `primaryImageOfPage` do JSON-LD é o mesmo endereço do `og:image`, e as páginas da
   YesStyle usam o logo da loja.
+- Código da parceria com prazo, ao lado do de sempre (o CECIEMCASA15 da I Wanna Sleep, até 08/11 e em 26 e 27/11): o
+  `limitedCodes` da loja em `couponsData.ts` (início e fim com -03:00, dia e nota do teste). Só em PT, numa caixa
+  `.recorte` no começo do conteúdo (`LimitedCodeNotice.tsx`, `id="codigo-com-prazo"`), com uma linha no recorte do
+  topo que leva a ela (o `footer` do `StoreCutout`). O `CampaignWindow` mostra as duas só dentro do prazo: o que vence
+  ou começa entre dois deploys some ou aparece no navegador. Na vitrine da home, o recorte da loja troca o código e o
+  desconto de sempre pelos do prazo, com "Por tempo limitado: até <dia>" (`limitedCodes` da aba, em `homeStores.ts`;
+  o de sempre fica no `OutsideCampaignWindows`). Nos artigos em PT que usam o código de sempre da loja, uma faixa no
+  fim dos recortes e da gaveta copia o código com prazo (ver "Artigos: sumário no celular"). O código de sempre, o
+  título e o hub não mudam. O `test:coupon-offer-modes` confere os prazos e avisa do vencido (tirar do array); o
+  `getPendingLimitedCodes` é testado num cupom montado no teste, porque os dados reais perdem os itens vencidos.
 - `src/components/coupons/CouponStorePage.tsx` (lojas de `couponsData.ts`) e
   `src/components/YesStyleCouponPage.tsx` usam a mesma moldura,
   `src/components/coupons/StoreLayout.tsx`, e o `CouponDock` de `CouponActions.tsx`: no celular,

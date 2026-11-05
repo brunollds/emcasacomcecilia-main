@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse lado a lado no Brasil e em Portugal: quem entrega, a partir de quanto o frete é grátis, quem paga o imposto e o que cada loja aceita de volta, pelas páginas oficiais.",
-  "metaDescription": "YesStyle ou Stylevana? Entrega, frete grátis, imposto e devolução no Brasil e em Portugal, com Olive Young, StyleKorean e Jolse, pelas páginas oficiais.",
+  "description": "YesStyle, Stylevana, Olive Young, StyleKorean e Jolse lado a lado no Brasil e em Portugal: quem entrega, quando o frete é grátis, quem paga o imposto e o que cada loja devolve.",
+  "metaDescription": "YesStyle ou Stylevana, com o código de recompensa CECILIA010 e até 5% extra na YesStyle: entrega, frete grátis, imposto e devolução.",
   "publishedAt": "13 de outubro de 2026",
   "publishedAtISO": "2026-10-13",
   "draft": false,
@@ -359,20 +359,16 @@
   "editorialNote": "Podemos receber comissão pela YesStyle. Não testamos as outras lojas: as regras delas vêm das páginas oficiais.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-ou-olive-young",
-      "title": "YesStyle ou Olive Young: quem entrega no seu país, frete, imposto e devolução"
+      "slug": "yesstyle-ou-olive-young"
     },
     {
-      "slug": "yesstyle-entrega-no-brasil-e-portugal",
-      "title": "YesStyle entrega no Brasil e em Portugal? Prazo, frete e imposto"
+      "slug": "yesstyle-entrega-no-brasil-e-portugal"
     },
     {
-      "slug": "yesstyle-e-confiavel",
-      "title": "YesStyle é confiável? O que observar antes de comprar"
+      "slug": "yesstyle-e-confiavel"
     },
     {
-      "slug": "codigo-cecilia010-yesstyle-como-usar",
-      "title": "Como usar o código CECILIA010 na YesStyle: passo a passo do Reward Code"
+      "slug": "codigo-cecilia010-yesstyle-como-usar"
     }
   ],
   "updatedAt": "2026-10-21"

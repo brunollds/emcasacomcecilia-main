@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Nanlac Supreme Pro e Ninho Fases 1+, as duas fórmulas infantis de seguimento da Nestlé para 1 a 3 anos: HMO, DHA e ARA contra prebióticos, açúcares, proteína, preparo e preço por 100 g na Nestlé Nutre em 17/10/2026.",
-  "metaDescription": "Nanlac Supreme Pro ou Ninho Fases 1+ (1 a 3 anos)? O que muda no rótulo: HMO, DHA e ARA ou prebióticos, açúcares, proteína e preço por 100 g.",
+  "description": "Nanlac Supreme Pro ou Ninho Fases 1+, fórmulas da Nestlé para 1 a 3 anos: a diferença está no rótulo. Veja HMO, DHA e ARA contra prebióticos, açúcares e preço por 100 g.",
+  "metaDescription": "Nanlac Supreme Pro ou Ninho Fases 1+ (1 a 3 anos), com o cupom CECI de 10% OFF na Nestlé Nutre: HMO, DHA, ARA, prebióticos e preço por 100 g.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
   "draft": false,
@@ -352,16 +352,13 @@
   "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
   "relatedArticles": [
     {
-      "slug": "nanlac-supreme-pro-1-a-3-anos",
-      "title": "Nanlac Supreme Pro 1 a 3 anos: composição, preparo e quanto rende a lata de 800 g"
+      "slug": "nanlac-supreme-pro-1-a-3-anos"
     },
     {
-      "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo",
-      "title": "Leite Ninho: tipos, qual usar no bolo e onde comprar com desconto"
+      "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo"
     },
     {
-      "slug": "cupom-ceci-nestle-nutre-como-usar",
-      "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      "slug": "cupom-ceci-nestle-nutre-como-usar"
     }
   ]
 }

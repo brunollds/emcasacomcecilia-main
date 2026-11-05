@@ -18,8 +18,8 @@
   "publishedAtISO": "2026-10-27",
   "draft": false,
   "isNew": true,
-  "description": "Os dois hipercalóricos da Black Skull lado a lado: Masstodon Refil 3 kg e Monstrous 2,7 kg, com a porção do rótulo, a proteína e o carboidrato por 100 g, o preço por 100 g de proteína em 27/10/2026, os sabores com estoque e o cupom CECILIA10.",
-  "metaDescription": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: as duas tabelas lado a lado, o preço por 100 g de proteína e por 1.000 kcal em 27/10/2026 e o cupom CECILIA10.",
+  "description": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: o Masstodon custa menos por 100 g de proteína, e o Monstrous tem mais proteína. Veja as contas lado a lado e o efeito do CECILIA10.",
+  "metaDescription": "Hipercalórico Black Skull com o CECILIA10 e 10% OFF: Masstodon Refil 3 kg ou Monstrous 2,7 kg pelo rótulo, por 100 g de proteína e por 1.000 kcal.",
   "image": "/images/reviews/black-skull/hipercalorico-black-skull-capa.webp",
   "imageAlt": "Embalagens do Masstodon Refil 3 kg e do Monstrous 2,7 kg da Black Skull, com o título Masstodon ou Monstrous",
   "imageFit": "contain",
@@ -37,16 +37,13 @@
   "editorialNote": "Ninguém do site usou o Masstodon nem o Monstrous. Podemos receber comissão pelo cupom CECILIA10.",
   "relatedArticles": [
     {
-      "slug": "whey-black-skull-qual-escolher",
-      "title": "Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo"
+      "slug": "whey-black-skull-qual-escolher"
     },
     {
-      "slug": "cupom-black-skull-como-usar",
-      "title": "Como usar o cupom CECILIA10 na Black Skull: 10% em todo o site"
+      "slug": "cupom-black-skull-como-usar"
     },
     {
-      "slug": "black-skull-e-confiavel",
-      "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      "slug": "black-skull-e-confiavel"
     }
   ],
   "contentSections": [

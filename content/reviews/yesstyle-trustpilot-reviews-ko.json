@@ -175,16 +175,13 @@
   "editorialNote": "Trustpilot 공개 데이터를 바탕으로 했습니다. YesStyle은 제휴 파트너이며, 구매 시 수수료를 받을 수 있습니다.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-app-reward-code-ko",
-      "title": "YesStyle 앱 사용법: 구매 순서와 리워드 코드 CECILIA010 입력 위치"
+      "slug": "yesstyle-app-reward-code-ko"
     },
     {
-      "slug": "yesstyle-vs-olive-young-ko",
-      "title": "YesStyle vs Olive Young Global: 무료배송, 세금, 반품, 포인트 비교"
+      "slug": "yesstyle-vs-olive-young-ko"
     },
     {
-      "slug": "yesstyle-black-friday-ko",
-      "title": "YesStyle 블랙프라이데이(Black Friday) 2026: 시작 날짜, 쿠폰 작동 방식, CECILIA010 입력 위치"
+      "slug": "yesstyle-black-friday-ko"
     }
   ]
 }

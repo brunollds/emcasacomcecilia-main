@@ -167,12 +167,10 @@
   "editorialNote": "資料來自 Trustpilot 的公開頁面，會隨時間變動。透過 SHEIN 購買，本站可能獲得傭金。",
   "relatedArticles": [
     {
-      "slug": "shein-trust-guide-zh-hant",
-      "title": "SHEIN 可靠嗎？誰在營運、是哪個國家的公司，以及台灣站的退貨規則"
+      "slug": "shein-trust-guide-zh-hant"
     },
     {
-      "slug": "shein-vs-shopee-zh-hant",
-      "title": "SHEIN 還是 Temu？新加坡和馬來西亞怎麼選：運費、時效與退貨"
+      "slug": "shein-vs-shopee-zh-hant"
     }
   ]
 }

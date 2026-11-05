@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Black Skull ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g de proteína e de creatina, com e sem o cupom CECILIA10.",
-  "metaDescription": "Black Skull ou Growth: whey e creatina comparados por 100 g de proteína e de creatina, ingredientes, cupom CECILIA10 e frete das duas lojas.",
+  "metaDescription": "Black Skull ou Growth, com o cupom CECILIA10 e 10% OFF na Black Skull: whey e creatina por 100 g de proteína e de creatina, ingredientes e frete.",
   "publishedAt": "18 de outubro de 2026",
   "publishedAtISO": "2026-10-18",
   "draft": false,
@@ -327,16 +327,13 @@
   "editorialNote": "Comparação feita com os rótulos e os preços publicados pelas duas lojas. Podemos receber comissão pela Black Skull; a Growth não é parceira. Não provamos os produtos.",
   "relatedArticles": [
     {
-      "slug": "black-skull-ou-max-titanium",
-      "title": "Black Skull ou Max Titanium: whey e creatina comparados pelo rótulo, preço por dose e cupom"
+      "slug": "black-skull-ou-max-titanium"
     },
     {
-      "slug": "black-skull-e-confiavel",
-      "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      "slug": "black-skull-e-confiavel"
     },
     {
-      "slug": "cupom-black-skull-como-usar",
-      "title": "Cupom Black Skull CECILIA10: como usar os 10% em todo o site"
+      "slug": "cupom-black-skull-como-usar"
     }
   ]
 }

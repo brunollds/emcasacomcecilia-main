@@ -145,7 +145,7 @@
         "打算轉入的話，先看註冊日期：不滿 60 天，轉移不會開始。",
         "在將來屬於你的帳戶裡購買，用你自己的電子郵件，並開著自動續訂。",
         "如果網域是隨主機方案附帶的，記下第二年的續訂價：下單前就會顯示。",
-        "SONAR20 對主機方案優惠 20%；單買網域時，付款前請在購物車確認是否出現這項優惠。"
+        "SONAR20 對主機方案優惠 20%；單買網域時，代碼不適用。"
       ]
     },
     {
@@ -161,7 +161,7 @@
     {
       "heading": "SONAR20 優惠碼與價格",
       "paragraphs": [
-        "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**第一個週期優惠 20%**，月繳或年繳方案都可以，新舊客戶都適用。續訂我們沒有測試，請在購物車確認價格。單買網域，以購物車裡顯示的為準。代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)；方案見 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**第一個週期優惠 20%**，月繳或年繳方案都可以，新舊客戶都適用。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。單買網域，SONAR20 不適用。代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)；方案見 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
@@ -169,7 +169,8 @@
       "bullets": [
         "換主機會丟網域嗎？不會。網域是你的，留在 Hostinger 帳戶裡；你可以把 DNS 指向新主機，或在註冊滿 60 天後再轉移註冊。",
         "使用電子郵件一定要有網域嗎？要。像 you@yourcompany.com 這樣的位址，網域必須存在；主機不是必需的，Hostinger 說網域可以只用於電子郵件，或只用來轉址到另一個網站。",
-        "可以把 Hostinger 的網域轉到別的註冊商嗎？可以，註冊滿 60 天後：在控制台解鎖網域，取得授權碼，再到新註冊商用電子郵件確認。成功的轉移不退款。"
+        "可以把 Hostinger 的網域轉到別的註冊商嗎？可以，註冊滿 60 天後：在控制台解鎖網域，取得授權碼，再到新註冊商用電子郵件確認。成功的轉移不退款。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
       ]
     },
     {
@@ -182,7 +183,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。我們沒有測試續約，請在購物車確認價格。網域的金額也請在付款前於購物車核對。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。單買網域時，SONAR20 不適用；付款前請在購物車核對金額。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -192,16 +193,13 @@
   "editorialNote": "透過 SONAR20 優惠碼或連結購買，Bruno 可能獲得傭金，你無需多付。",
   "relatedArticles": [
     {
-      "slug": "hostinger-trust-guide-zh-hant",
-      "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      "slug": "hostinger-trust-guide-zh-hant"
     },
     {
-      "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      "slug": "hostinger-referral-code-zh-hant"
     },
     {
-      "slug": "hostinger-black-friday-zh-hant",
-      "title": "Hostinger 黑色星期五 2026：SONAR20 優惠碼在活動價上再減 20%"
+      "slug": "hostinger-black-friday-zh-hant"
     }
   ],
   "decision": {

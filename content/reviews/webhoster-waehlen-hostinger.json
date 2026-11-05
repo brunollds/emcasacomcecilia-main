@@ -168,13 +168,13 @@
         ]
       },
       "postParagraphs": [
-        "Die Verlängerung des VPS kostet fast das Doppelte des Aktionspreises: Der KVM 1 steigt von 6,49 US$ auf 11,99 US$ pro Monat, der KVM 2 von 8,79 US$ auf 14,99 US$. Das sind die Preise der Aktion mit 24 Monaten. Wir haben SONAR20 beim VPS nicht getestet; prüfen Sie den Preis im Warenkorb, bevor Sie abschließen."
+        "Die Verlängerung des VPS kostet fast das Doppelte des Aktionspreises: Der KVM 1 steigt von 6,49 US$ auf 11,99 US$ pro Monat, der KVM 2 von 8,79 US$ auf 14,99 US$. Das sind die Preise der Aktion mit 24 Monaten. SONAR20 gilt beim VPS; prüfen Sie den Preis im Warenkorb, bevor Sie abschließen."
       ]
     },
     {
       "heading": "Gutschein SONAR20 bei Hostinger",
       "paragraphs": [
-        "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link in diesem Artikel: Sie erhalten **20 % auf den ersten Zeitraum**. Wir haben den Code im Warenkorb bei drei Produkten getestet: beim Startup-Tarif für E-Commerce aus dem Shop-Ersteller, bei der professionellen E-Mail und bei Reach. Bei den Hosting-Tarifen dieser Tabelle und beim VPS haben wir nicht getestet; prüfen Sie es im Warenkorb. Die Verlängerung haben wir nicht getestet. Alle Regeln stehen auf der Seite der [Hostinger-Gutscheine](/de/coupons/hostinger)."
+        "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link in diesem Artikel: Sie erhalten **20 % auf den ersten Zeitraum**. Wir haben den Code im Warenkorb bei drei Produkten getestet: beim Startup-Tarif für E-Commerce aus dem Shop-Ersteller, bei der professionellen E-Mail und bei Reach. Bei den Hosting-Tarifen dieser Tabelle haben wir nicht getestet; prüfen Sie es im Warenkorb. Beim VPS gilt der Code. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Alle Regeln stehen auf der Seite der [Hostinger-Gutscheine](/de/coupons/hostinger)."
       ]
     },
     {
@@ -193,8 +193,9 @@
         "Welcher Hostinger-Tarif verlängert sich am günstigsten? Der Premium, zu 10,99 US$ pro Monat auf der internationalen Seite, nach einer Aktion über 48 Monate zu 2,49 US$.",
         "Lohnt sich der VPS der Hostinger? Das hängt von der Last der Website ab. Vergleichen Sie vCPU, Arbeitsspeicher und Verlängerung: Der KVM 1 verlängert sich zu 11,99 US$ pro Monat auf der internationalen Seite.",
         "Sagt die Hostinger, wo ihre Server stehen? Die Tarifseiten sagen nicht, wo der Server steht. Fragen Sie vor dem Kauf den Support.",
-        "Gilt der Code SONAR20 beim VPS? Beim VPS haben wir nicht getestet; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce aus dem Shop-Ersteller, und er gab 20 % auf den ersten Zeitraum.",
-        "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft."
+        "Gilt der Code SONAR20 beim VPS? Ja, SONAR20 gilt beim VPS; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce aus dem Shop-Ersteller, und er gab 20 % auf den ersten Zeitraum.",
+        "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft.",
+        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },
     {
@@ -207,7 +208,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Wir haben die Verlängerung nicht getestet: Prüfen Sie den Preis im Warenkorb.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
     "label": "Hosting-Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -217,16 +218,13 @@
   "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen.",
   "relatedArticles": [
     {
-      "slug": "vps-oder-shared-hosting",
-      "title": "VPS oder Shared Hosting: was sich für Ihre Website bei Hostinger lohnt"
+      "slug": "vps-oder-shared-hosting"
     },
     {
-      "slug": "ist-hostinger-serioes",
-      "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+      "slug": "ist-hostinger-serioes"
     },
     {
-      "slug": "hostinger-gutschein-empfehlungscode",
-      "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+      "slug": "hostinger-gutschein-empfehlungscode"
     }
   ],
   "decision": {

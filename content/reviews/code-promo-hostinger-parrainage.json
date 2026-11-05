@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Le code promo Hostinger SONAR20 donne 20 % de réduction sur la première période, en forfait mensuel ou annuel, pour un client nouveau ou existant. Voyez où coller le code et ce qui change au renouvellement.",
+  "description": "Le code SONAR20 donne 20 % de réduction sur la première période d'un forfait Hostinger, mensuel ou annuel. Voyez où le saisir dans le panier et ce qui change au renouvellement.",
   "metaDescription": "Code promo Hostinger SONAR20 : 20 % sur la première période, en forfait mensuel ou annuel. Voyez où coller le code dans le panier et ce qui change au renouvellement.",
   "publishedAt": "19 octobre 2026",
   "publishedAtISO": "2026-10-19",
@@ -45,7 +45,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Oui, il y a un code : **SONAR20** donne 20 % de réduction sur la première période de n'importe quel forfait [Hostinger](/fr/coupons/hostinger), mensuel ou annuel, pour un client nouveau ou existant. Collez le code dans le champ de coupon du panier, ou passez par le lien de cet article. Nous n'avons pas testé le renouvellement."
+        "Oui, il y a un code : **SONAR20** donne 20 % de réduction sur la première période de n'importe quel forfait [Hostinger](/fr/coupons/hostinger), mensuel ou annuel, pour un client nouveau ou existant. Collez le code dans le champ de coupon du panier, ou passez par le lien de cet article. Le renouvellement n'a pas de réduction : il est facturé au prix catalogue."
       ]
     },
     {
@@ -70,13 +70,13 @@
     {
       "heading": "Forfait mensuel, annuel et clients existants",
       "paragraphs": [
-        "SONAR20 donne 20 % sur la première période en forfait mensuel ou annuel, pour un client nouveau ou existant. Nous n'avons testé que le forfait Startup d'hébergement ; pour les VPS, la messagerie, les agents d'IA et les domaines, vérifiez dans le panier si la réduction apparaît. Un client existant utilise le code sur un nouveau forfait ; pour le renouvellement d'un forfait que vous avez déjà, consultez le prix dans le tableau de bord."
+        "SONAR20 donne 20 % sur la première période en forfait mensuel ou annuel, pour un client nouveau ou existant. Nous l'avons testé sur le forfait Startup d'hébergement ; il vaut aussi sur le VPS, mais ni sur un domaine seul ni sur le renouvellement. Pour la messagerie et les agents d'IA, vérifiez dans le panier si la réduction apparaît. Un client existant utilise le code sur tout nouveau forfait ou produit : nous l'avons testé sur un ancien compte, et SONAR20 a retiré 20 % d'un nouveau produit, en plus de la réduction de la campagne. Le renouvellement d'un forfait qu'il a déjà est facturé au prix catalogue."
       ]
     },
     {
       "heading": "Renouvellement : ce qui change après la première période",
       "paragraphs": [
-        "Après la première période, le forfait se renouvelle au prix standard, celui affiché sous la fiche de chaque forfait. La page indique qu'on peut changer de période ou résilier à tout moment avant le renouvellement."
+        "Après la première période, le forfait se renouvelle au prix standard, celui affiché sous la fiche de chaque forfait, sans la réduction de SONAR20. La page indique qu'on peut changer de période ou résilier à tout moment avant le renouvellement."
       ]
     },
     {
@@ -93,8 +93,8 @@
       "bullets": [
         "Hostinger a-t-il un code promo ? Oui : le code SONAR20 donne 20 % sur la première période de n'importe quel forfait, mensuel ou annuel.",
         "Où mettre le code promo Hostinger ? Dans le panier, dans le champ « Have a coupon code? ». Collez SONAR20 et appliquez-le avant de payer.",
-        "SONAR20 est-il valable pour un client existant ? Oui, sur un nouveau forfait, d'après les règles du partenariat. Pour le renouvellement d'un forfait que vous avez déjà, consultez le prix dans le tableau de bord.",
-        "Le code donne-t-il une réduction sur le renouvellement ? Nous ne l'avons pas testé. Vérifiez le prix de renouvellement dans le panier avant de payer.",
+        "SONAR20 est-il valable pour un client existant ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %.",
+        "Le code donne-t-il une réduction sur le renouvellement ? Non : le renouvellement est facturé au prix catalogue, que le panier affiche juste sous le forfait. Les 20 % valent seulement sur un nouvel achat.",
         "SONAR20 est-il valable pendant le Black Friday ? Oui : lors du test dans le panier, les 20 % ont été retirés du prix de la campagne."
       ]
     }
@@ -102,7 +102,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement : confirmez le prix dans le panier.",
+    "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les forfaits avec la réduction",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -112,16 +112,13 @@
   "editorialNote": "Les achats avec le code SONAR20 ou via le lien peuvent générer une commission pour Bruno, sans frais supplémentaires pour vous. Ce site tourne sur Hostinger.",
   "relatedArticles": [
     {
-      "slug": "hostinger-est-il-fiable",
-      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      "slug": "hostinger-est-il-fiable"
     },
     {
-      "slug": "hostinger-avis-trustpilot",
-      "title": "Hostinger sur Trustpilot : note, plaintes et ce que disent 200 avis"
+      "slug": "hostinger-avis-trustpilot"
     },
     {
-      "slug": "black-friday-hostinger-offres",
-      "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+      "slug": "black-friday-hostinger-offres"
     }
   ]
 }

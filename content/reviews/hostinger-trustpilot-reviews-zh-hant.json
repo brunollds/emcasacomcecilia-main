@@ -244,13 +244,14 @@
         "Hostinger 在 Trustpilot 上的評分高嗎？在查閱的時間點，TrustScore 為滿分 5 分中的 4.6，其中五星占 87.1%，一星占 6.9%。",
         "Hostinger 最常見的投訴是什麼？在讀過的最近 100 則一星評價中的 86 則投訴裡，主要主題是 AI 客服和無法找到真人（約 45 則）、帳單和續訂（約 38 則）以及網域（約 27 則）。",
         "Hostinger 會回覆負面評價嗎？會。頁面顯示，公司回覆了 99% 的負面評價，通常在 24 小時內。在我們的樣本中，86 則投訴中有 80 則有回覆。",
-        "如何關閉 Hostinger 的自動續訂？在帳戶的帳單區域進入服務頁面，打開產品旁邊的三點選單，進入續訂設定，關閉自動續訂並儲存。產品會保持有效直到到期日。"
+        "如何關閉 Hostinger 的自動續訂？在帳戶的帳單區域進入服務頁面，打開產品旁邊的三點選單，進入續訂設定，關閉自動續訂並儲存。產品會保持有效直到到期日。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
       ]
     },
     {
       "heading": "如果你已經決定",
       "paragraphs": [
-        "如果你決定購買，在購物車的優惠碼欄輸入 SONAR20，首個週期可享 20% 折扣，詳情見 [Hostinger](/zh-hant/coupons/hostinger) 頁面。我們沒有測試續訂，請在購物車確認價格，細節見[SONAR20 優惠碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)會說明 SONAR20 如何在活動價上計算，而[可信度文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)則談退款和公司的安全性。"
+        "如果你決定購買，在購物車的優惠碼欄輸入 SONAR20，首個週期可享 20% 折扣，詳情見 [Hostinger](/zh-hant/coupons/hostinger) 頁面。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。細節見[SONAR20 優惠碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)會說明 SONAR20 如何在活動價上計算，而[可信度文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)則談退款和公司的安全性。"
       ]
     }
   ],
@@ -267,16 +268,13 @@
   "editorialNote": "使用 SONAR20 優惠碼或透過連結購買，Bruno 可能獲得佣金，對你沒有額外費用。本網站運行在 Hostinger 上。",
   "relatedArticles": [
     {
-      "slug": "hostinger-trust-guide-zh-hant",
-      "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+      "slug": "hostinger-trust-guide-zh-hant"
     },
     {
-      "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      "slug": "hostinger-referral-code-zh-hant"
     },
     {
-      "slug": "hostinger-black-friday-zh-hant",
-      "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
+      "slug": "hostinger-black-friday-zh-hant"
     }
   ]
 }

@@ -14,7 +14,7 @@
     "url": "/sobre"
   },
   "description": "Isosource 1.5 Sem Sabor e Trophic 1.5 Baunilha, caixas de 1 L: comparação por litro, o que cada fonte informa e o preço por litro e por 1.000 kcal em 17/10/2026.",
-  "metaDescription": "Isosource 1.5 ou Trophic 1.5? 1,5 kcal/mL nos dois, proteína e fibra por litro e o preço por 1.000 kcal em 17/10/2026. Uso só sob orientação.",
+  "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Isosource 1.5 e Trophic 1.5 por litro e por 1.000 kcal, com o rótulo de cada uma.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
   "draft": false,
@@ -165,16 +165,13 @@
   "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Não recebemos os produtos.",
   "relatedArticles": [
     {
-      "slug": "isosource-1-5-para-que-serve",
-      "title": "Isosource 1.5 Sem Sabor: para que serve, tabela nutricional e quanto rende o litro"
+      "slug": "isosource-1-5-para-que-serve"
     },
     {
-      "slug": "nestle-nutre-produtos-para-que-servem",
-      "title": "Qual Nutren escolher: Senior, Protein, Control ou Active, para que serve cada um"
+      "slug": "nestle-nutre-produtos-para-que-servem"
     },
     {
-      "slug": "cupom-ceci-nestle-nutre-como-usar",
-      "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      "slug": "cupom-ceci-nestle-nutre-como-usar"
     }
   ]
 }

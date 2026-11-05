@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Paperclip ist ein Open-Source-Orchestrator (MIT) für Teams aus KI-Agenten. Sehen Sie, was sich überprüfen lässt und ob bei Hostinger das verwaltete Angebot oder ein VPS besser passt.",
+  "description": "Paperclip ist ein Open-Source-Orchestrator für Teams aus KI-Agenten. Sehen Sie, was sich überprüfen lässt und ob bei Hostinger der verwaltete Tarif oder ein VPS besser passt.",
   "metaDescription": "Paperclip AI: was es ist, wer es pflegt, was sich überprüfen lässt und wie Sie es bei Hostinger betreiben, verwaltet oder als VPS.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
@@ -155,7 +155,7 @@
     {
       "heading": "Gutscheincode SONAR20",
       "paragraphs": [
-        "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht unter [so verwenden Sie den Code SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode). Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
+        "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Wo Sie den Code einfügen, steht unter [so verwenden Sie den Code SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode). Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
       ]
     },
     {
@@ -179,7 +179,8 @@
         "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. In den gelesenen Quellen haben wir kein unabhängiges Audit gefunden.",
         "Braucht man einen API-Schlüssel? Ja. Beim verwalteten Angebot und beim VPS verlangt die Paperclip-Seite, dass man eigene mitbringt. Auf dem Computer akzeptiert die README auch das Abonnement von Claude oder Codex, ohne API-Schlüssel.",
         "Läuft es mit Ollama? Das hängt vom Agenten ab, den Sie verbinden. Die README von Paperclip nennt Ollama nicht, ein Programm, um ein KI-Modell auf dem eigenen Computer auszuführen. OpenClaw dokumentiert zum Beispiel lokale Modelle; bei Paperclip liegt das Modell beim Agenten, den Sie verbinden.",
-        "Gibt es einen Gutscheincode für Paperclip bei Hostinger? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb."
+        "Gibt es einen Gutscheincode für Paperclip bei Hostinger? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },
     {
@@ -192,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die Verlängerung haben wir nicht getestet; prüfen Sie den Preis im Warenkorb.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
     "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -202,16 +203,13 @@
   "editorialNote": "Käufe mit dem Code SONAR20 oder über den Link können Bruno eine Provision einbringen, ohne Mehrkosten für Sie. Niemand aus dem Team nutzt Paperclip.",
   "relatedArticles": [
     {
-      "slug": "openclaw-oder-hermes-agent",
-      "title": "OpenClaw oder Hermes Agent: welcher passt und wie Sie jeden bei Hostinger betreiben"
+      "slug": "openclaw-oder-hermes-agent"
     },
     {
-      "slug": "openclaw-hostinger-verwaltet-oder-vps",
-      "title": "OpenClaw bei Hostinger: verwaltet oder VPS? Was jede Option verlangt und für wen sie passt"
+      "slug": "openclaw-hostinger-verwaltet-oder-vps"
     },
     {
-      "slug": "hostinger-gutschein-empfehlungscode",
-      "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+      "slug": "hostinger-gutschein-empfehlungscode"
     }
   ],
   "hideFromPortugueseListings": true,

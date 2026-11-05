@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A seleção da Cecília na Insider: 20 peças de roupa íntima, camisetas, shorts, vestidos e casacos com o preço de tabela, o preço do site e o preço com o cupom EMCASACOMCECILIA, até 49% abaixo da tabela, com as promoções valendo até 31/10.",
-  "metaDescription": "Promoção Insider: 20 peças com o cupom EMCASACOMCECILIA, até 49% abaixo da tabela. Preços, cores e tamanhos de cada peça, com promoções até 31/10.",
+  "description": "As 20 peças da seleção da Cecília na Insider, com o preço do site e o preço final com o cupom EMCASACOMCECILIA, que dá 15% OFF sem valor mínimo e vale um por pedido.",
+  "metaDescription": "Promoção Insider: 20 peças da seleção da Cecília com o cupom EMCASACOMCECILIA e 15% OFF. Preço com o cupom, cores e tamanhos de cada peça.",
   "publishedAt": "15 de outubro de 2026",
   "publishedAtISO": "2026-10-15",
   "draft": false,
@@ -676,16 +676,13 @@
   ],
   "relatedArticles": [
     {
-      "slug": "cupom-emcasacomcecilia-insider-store-como-usar",
-      "title": "Cupom Insider Store EMCASACOMCECILIA: como usar o desconto de 15%"
+      "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
     },
     {
-      "slug": "insider-vale-a-pena",
-      "title": "Insider vale a pena? Tech T-Shirt e cuecas comparadas com Minimal Club, Mirante, Alpha Co, Basicamente e Hering"
+      "slug": "insider-vale-a-pena"
     },
     {
-      "slug": "tabela-de-medidas-insider",
-      "title": "Tabela de medidas Insider: como escolher o tamanho (camiseta, Tech T-Shirt, cueca e feminino)"
+      "slug": "tabela-de-medidas-insider"
     }
   ]
 }

@@ -225,7 +225,7 @@
     {
       "heading": "쿠폰 SONAR20",
       "paragraphs": [
-        "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나, 이 글의 링크로 들어가세요. **첫 결제 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두 쓸 수 있습니다. 갱신 시 할인은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 결제하기 전에 장바구니에서 금액을 확인하세요.",
+        "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나, 이 글의 링크로 들어가세요. **첫 결제 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두 쓸 수 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 결제하기 전에 장바구니에서 금액을 확인하세요.",
         "코드를 붙여 넣는 위치는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
       ]
     },
@@ -236,7 +236,8 @@
         "텔레그램에서 쓸 수 있나요? 네, 둘 다 가능합니다. BotFather에서 봇을 만들고 토큰을 설정에 붙여 넣으면 됩니다.",
         "프로그래밍을 알아야 하나요? 관리형을 띄우는 데는 필요 없습니다. 채널을 고르고 토큰을 붙여 넣으면 됩니다. VPS에서는 root, Docker, 업데이트 같은 서버 기초가 필요합니다. 프로그래밍은 프로젝트 코드를 직접 손보려는 경우에만 필요합니다.",
         "안전한가요? 쓰는 방법에 달려 있습니다. 두 보안 정책이 요구하는 주의는 같습니다. 믿을 수 있는 한 사람이 쓰고, 인터넷에 직접 노출하지 않고, 서드파티를 설치하기 전에 내용을 검토하는 것입니다.",
-        "이미 Claude Code를 쓰는데 무엇을 고를까요? Claude Code는 터미널에서 프로그래밍하는 도구이며 둘 중 어느 것도 대신하지 못합니다. 둘 다 Anthropic 키를 받습니다. OpenClaw는 제공업체 중 하나로 Anthropic을 들고, Hermes Agent의 README는 Anthropic 키를 시크릿의 하나로 듭니다. 쓸수록 배우는 에이전트를 원한다면 Hermes Agent가 더 맞습니다. 채널이 많고 휴대폰 앱도 원한다면 OpenClaw입니다."
+        "이미 Claude Code를 쓰는데 무엇을 고를까요? Claude Code는 터미널에서 프로그래밍하는 도구이며 둘 중 어느 것도 대신하지 못합니다. 둘 다 Anthropic 키를 받습니다. OpenClaw는 제공업체 중 하나로 Anthropic을 들고, Hermes Agent의 README는 Anthropic 키를 시크릿의 하나로 듭니다. 쓸수록 배우는 에이전트를 원한다면 Hermes Agent가 더 맞습니다. 채널이 많고 휴대폰 앱도 원한다면 OpenClaw입니다.",
+        "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
       ]
     },
     {
@@ -250,7 +251,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+    "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
     "label": "할인 플랜 보기",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -260,16 +261,13 @@
   "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 OpenClaw나 Hermes Agent를 쓰지 않습니다.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-ko",
-      "title": "호스팅어의 OpenClaw: 관리형인가 VPS인가? 방식별 필요한 작업, 맞는 사람"
+      "slug": "openclaw-hostinger-managed-or-vps-ko"
     },
     {
-      "slug": "best-vps-for-openclaw-ko",
-      "title": "OpenClaw에 가장 좋은 VPS: 요구 사항과 골라야 할 KVM 플랜"
+      "slug": "best-vps-for-openclaw-ko"
     },
     {
-      "slug": "paperclip-ai-hostinger-ko",
-      "title": "Paperclip AI란? 믿을 만한지, 호스팅어에서 운영하는 방법"
+      "slug": "paperclip-ai-hostinger-ko"
     }
   ],
   "hideFromPortugueseListings": true,

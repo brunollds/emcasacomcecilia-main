@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Como usar o cupom CSEMCASACOMCECILIA na Cléa Store: 10% OFF em todo o site, testado no carrinho em 14/10/2026. Passo a passo, soma com promoção e com o cashback, frete grátis acima de R$ 599 e devolução.",
-  "metaDescription": "Cupom Cléa Store CSEMCASACOMCECILIA: 10% OFF em todo o site, testado no carrinho. Veja como aplicar, o cashback e o frete grátis.",
+  "description": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Veja o passo a passo para aplicar no carrinho e como ele soma com a promoção e com o cashback.",
+  "metaDescription": "O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, testado no carrinho. Veja como aplicar, o cashback e o frete grátis.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
   "draft": false,
@@ -56,12 +56,10 @@
   "editorialNote": "Cupom testado no carrinho oficial. Podemos receber comissão pelo CSEMCASACOMCECILIA.",
   "relatedArticles": [
     {
-      "slug": "clea-store-e-confiavel",
-      "title": "Cléa Store é confiável? Quem vende, site oficial, trocas e reputação"
+      "slug": "clea-store-e-confiavel"
     },
     {
-      "slug": "clea-store-reclame-aqui-nota-reputacao",
-      "title": "Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "clea-store-reclame-aqui-nota-reputacao"
     }
   ],
   "contentSections": [
@@ -96,7 +94,7 @@
       "heading": "2. Monte o carrinho",
       "paragraphs": [
         "Escolha as peças e abra o carrinho. A tela mostra os itens e, ao lado, o \"Resumo do pedido\", com o campo \"Cupom de desconto\", o subtotal e o total.",
-        "No nosso teste, de 14/10/2026, o carrinho tinha um item: o Kit 3 T-Shirts Oversized Classic. O kit estava em promoção, de R$ 387,00 por R$ 258,00. Nessa tela, a loja mostrava \"Receba até R$ 25,80 de cashback\".",
+        "No nosso teste, de 14/10/2026, o carrinho tinha um item: o Kit 3 T-Shirts Oversized Classic. O kit estava em promoção naquele dia, de R$ 387,00 por R$ 258,00: era o preço de promoção do dia, não o preço atual do kit. Nessa tela, a loja mostrava \"Receba até R$ 25,80 de cashback\".",
         "O frete é calculado pelo CEP, no link \"Calcular\" da linha \"Entrega\", no resumo do pedido."
       ],
       "image": "/images/reviews/clea-store/clea-store-cupom-01-carrinho-sem-cupom.webp",
@@ -118,7 +116,7 @@
         "A conta do nosso teste:"
       ],
       "bullets": [
-        "Kit 3 T-Shirts Oversized Classic em promoção: R$ 258,00.",
+        "Kit 3 T-Shirts Oversized Classic, no preço de promoção do dia do teste: R$ 258,00.",
         "Cupom de 10%: -R$ 25,80.",
         "Total: **R$ 232,20**."
       ],
@@ -162,11 +160,11 @@
         ],
         "rows": [
           [
-            "Preço do kit",
+            "Preço de lista do kit",
             "R$ 387,00"
           ],
           [
-            "Promoção da loja",
+            "Promoção da loja no dia do teste",
             "R$ 258,00"
           ],
           [

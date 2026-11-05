@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Guia do Pillow Top Magnum da I Wanna Sleep: como funcionam os 10 cm de AirFiber gomo a gomo, como instalar e prender no colchão, tamanhos, preços, Sleeptest e quando ele ajuda (ou não) quem acorda desconfortável em colchão duro.",
-  "metaDescription": "Pillow Top Magnum IWS: 10 cm de AirFiber, elásticos, tamanhos, preços, cuidados e quando ajuda no colchão duro. 10% OFF com o cupom CECIEMCASA.",
+  "description": "O Pillow Top Magnum vale a pena se o colchão está em bom estado, mas firme demais; ele não resolve colchão afundado nem trata dor nas costas. Veja para quem serve.",
+  "metaDescription": "Pillow Top Magnum IWS com o cupom CECIEMCASA e 10% OFF: 10 cm de AirFiber, elásticos, tamanhos, cuidados e quando ajuda no colchão duro.",
   "publishedAt": "3 de outubro de 2026",
   "publishedAtISO": "2026-10-03",
   "draft": false,
@@ -232,16 +232,13 @@
   "editorialNote": "Feito com dados públicos da IWS, sem orientação médica. Podemos receber comissão.",
   "relatedArticles": [
     {
-      "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep",
-      "title": "Guia de Travesseiros IWS: Como Escolher o Modelo Ideal"
+      "slug": "qual-travesseiro-escolher-guia-linhas-i-wanna-sleep"
     },
     {
-      "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep",
-      "title": "Guia de Cobertores IWS: Linhas Huggy, Puffer, Cozy e Igloo"
+      "slug": "qual-cobertor-escolher-guia-linhas-i-wanna-sleep"
     },
     {
-      "slug": "melatonina-liquida-iws-ficha-tecnica",
-      "title": "Melatonina Líquida IWS 30 ml: ficha do rótulo e preço"
+      "slug": "melatonina-liquida-iws-ficha-tecnica"
     }
   ]
 }

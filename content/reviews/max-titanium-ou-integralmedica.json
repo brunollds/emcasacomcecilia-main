@@ -14,7 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Max Titanium ou Integralmédica: whey e creatina comparados pelo preço por 100 g de proteína e de creatina, com o rótulo de cada uma, os preços de 28/10/2026 e o cupom MAX10EMCASACOMCECILIA.",
+  "description": "No whey, a Max Titanium sai mais barata por 100 g de proteína, e na creatina a Integralmédica fica abaixo no cartão. Veja a comparação pelo rótulo e o veredito por perfil.",
+  "metaDescription": "Max Titanium ou Integralmédica, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: no whey, a Max sai mais barata por proteína; na creatina, não.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
   "draft": false,
@@ -232,20 +233,16 @@
   "editorialNote": "Podemos receber comissão pelo cupom MAX10EMCASACOMCECILIA. A Integralmédica não é parceira, e ninguém da equipe provou os produtos.",
   "relatedArticles": [
     {
-      "slug": "black-skull-ou-integralmedica",
-      "title": "Black Skull ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina"
+      "slug": "black-skull-ou-integralmedica"
     },
     {
-      "slug": "max-titanium-ou-dux",
-      "title": "Max Titanium ou Dux: whey, creatina, multivitamínico e pré-treino comparados por dose, proteína e preço"
+      "slug": "max-titanium-ou-dux"
     },
     {
-      "slug": "max-titanium-ou-growth",
-      "title": "Max Titanium ou Growth: whey e creatina comparados por dose, proteína e preço"
+      "slug": "max-titanium-ou-growth"
     },
     {
-      "slug": "max-titanium-e-confiavel",
-      "title": "Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação"
+      "slug": "max-titanium-e-confiavel"
     }
   ]
 }

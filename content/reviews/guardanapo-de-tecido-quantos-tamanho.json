@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "Quantos guardanapos de tecido comprar para 2, 4, 6 ou 8 pessoas, com um de reserva por mesa, e a diferença entre as medidas de 45 x 45 cm e 40 x 40 cm, com preços de 29/10/2026.",
-  "metaDescription": "Guardanapo de tecido: 1 por pessoa e 1 de reserva por mesa. Tabela para 2 a 8 pessoas e a diferença entre 45 e 40 cm. Preços de 29/10/2026.",
+  "metaDescription": "O cupom MAUAD dá 5% OFF na Let's Eat It. Guardanapo de tecido: 1 por pessoa e 1 de reserva por mesa, com tabela de 2 a 8 pessoas.",
   "publishedAt": "29 de outubro de 2026",
   "publishedAtISO": "2026-10-29",
   "draft": false,
@@ -221,16 +221,13 @@
   "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estes guardanapos.",
   "relatedArticles": [
     {
-      "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-      "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
     },
     {
-      "slug": "presente-de-casamento-ideias-por-preco",
-      "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+      "slug": "presente-de-casamento-ideias-por-preco"
     },
     {
-      "slug": "cupom-mauad-lets-eat-it-como-usar",
-      "title": "Como usar o código de desconto da Let's Eat It: 5% no site"
+      "slug": "cupom-mauad-lets-eat-it-como-usar"
     }
   ]
 }

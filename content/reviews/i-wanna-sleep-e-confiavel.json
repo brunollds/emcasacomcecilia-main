@@ -12,7 +12,7 @@
     "url": "/sobre"
   },
   "description": "Análise dos dados públicos da I Wanna Sleep: CNPJ 43.783.630/0001-92, lojas físicas, políticas de entrega, trocas e como consultar cupons no site oficial.",
-  "metaDescription": "A I Wanna Sleep é confiável? Veja dados de CNPJ, lojas físicas, políticas de devolução e como testar o cupom CECIEMCASA no e-commerce oficial.",
+  "metaDescription": "A I Wanna Sleep, com o cupom CECIEMCASA e 10% OFF, é confiável? Os dados de CNPJ, as lojas físicas e as políticas de devolução antes de comprar.",
   "publishedAt": "14 de agosto de 2026",
   "draft": false,
   "image": "/images/reviews/iwannasleep/i-wanna-sleep-e-confiavel-capa-discover.webp",
@@ -172,12 +172,10 @@
   "editorialNote": "Análise com dados públicos do site oficial. O cupom CECIEMCASA é parceria e pode render comissão.",
   "relatedArticles": [
     {
-      "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar",
-      "title": "Cupom I Wanna Sleep CECIEMCASA: como usar o desconto de 10%"
+      "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
     },
     {
-      "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica",
-      "title": "Cobertor IWS Igloo: ficha técnica, preço e como comprar"
+      "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
     }
   ],
   "publishedAtISO": "2026-08-14",

@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Conferimos a Belive antes de indicar a loja: vendida pela NHD Foods, CNPJ ativo em 16/10/2026, site oficial belivebefree.com.br, 7 dias para arrependimento, frete grátis por região e reputação Ótima no Reclame Aqui.",
-  "metaDescription": "A Belive é confiável? Veja quem vende, o CNPJ, o site oficial, as trocas, o frete grátis por região e a reputação no Reclame Aqui.",
+  "description": "A Belive é confiável: é vendida pela NHD Foods, tem site oficial com CNPJ ativo e reputação Ótima no Reclame Aqui. Veja trocas, prazo de arrependimento e frete grátis por região.",
+  "metaDescription": "Quem vende a Belive, o CNPJ, as trocas e o frete, com o cupom MAUAD de 10% OFF no site oficial.",
   "publishedAt": "16 de outubro de 2026",
   "publishedAtISO": "2026-10-16",
   "draft": false,
@@ -47,9 +47,15 @@
   "affiliate": "belive",
   "editorialNote": "Feito com fontes públicas. Não avaliamos sabor nem dieta. Podemos receber comissão pelo MAUAD.",
   "relatedArticles": [
-    "belive-reclame-aqui-nota-reputacao",
-    "cupom-belive-como-usar",
-    "black-friday-belive"
+    {
+      "slug": "belive-reclame-aqui-nota-reputacao"
+    },
+    {
+      "slug": "cupom-belive-como-usar"
+    },
+    {
+      "slug": "black-friday-belive"
+    }
   ],
   "contentSections": [
     {

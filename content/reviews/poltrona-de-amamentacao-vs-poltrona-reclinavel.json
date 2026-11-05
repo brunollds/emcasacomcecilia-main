@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Poltrona de amamentação ou reclinável? A diferença entre as duas na mamada, no descanso e na hora de levantar, reclinação manual ou elétrica, qual base da DAMIE faz sentido para amamentar e a conta de quanto tempo cada uma vai ser usada.",
-  "metaDescription": "Poltrona de amamentação ou reclinável: qual vale a pena? Diferenças, manual ou elétrica, qual reclinável DAMIE escolher, preços e a conta de quanto tempo de uso.",
+  "description": "Poltrona de amamentação ou reclinável? A diferença na mamada e no descanso, manual ou elétrica, qual base da DAMIE faz sentido e a conta de quanto tempo cada uma será usada.",
+  "metaDescription": "Poltrona de amamentação ou reclinável, com o cupom CECILIA12 de 12% OFF na DAMIE: diferenças, manual ou elétrica, e a conta de quanto tempo de uso.",
   "publishedAt": "7 de outubro de 2026",
   "publishedAtISO": "2026-10-07",
   "isNew": true,
@@ -319,16 +319,13 @@
   "editorialNote": "Comparação com a nossa poltrona e lojas consultadas. Podemos receber comissão pelos links.",
   "relatedArticles": [
     {
-      "slug": "poltrona-de-amamentacao-como-escolher",
-      "title": "Poltrona de amamentação: como escolher entre com puff, com balanço e reclinável"
+      "slug": "poltrona-de-amamentacao-como-escolher"
     },
     {
-      "slug": "poltrona-damie-e-boa",
-      "title": "Poltrona Damie é boa? Minha experiência com a nova versão 2.0"
+      "slug": "poltrona-damie-e-boa"
     },
     {
-      "slug": "poltronas-reclinaveis-damie-vale-o-investimento",
-      "title": "Poltronas Reclináveis Damie - Vale o Investimento?"
+      "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
     }
   ]
 }

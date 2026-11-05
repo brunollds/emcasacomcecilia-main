@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Skelt ou Best Bronze? Mousse com cor-guia, transparente, kit com luva e formatos lado a lado, com o preço por 100 ml no cartão e com o cupom SKEMCASACOMCECILIA e o Pix, em 23/10/2026.",
-  "metaDescription": "Skelt ou Best Bronze: compare o mousse escuro, o transparente e o kit com luva por preço por 100 ml, duração e tempo de ação que cada marca diz, com os preços de 23/10/2026.",
+  "description": "Skelt ou Best Bronze? Mousse escuro, transparente e kit com luva lado a lado, com o preço por 100 ml no cartão, com o cupom SKEMCASACOMCECILIA e no Pix.",
+  "metaDescription": "Skelt ou Best Bronze, com o cupom SKEMCASACOMCECILIA de 10% OFF na Skelt: mousse escuro, transparente e kit com luva por preço por 100 ml e duração.",
   "publishedAt": "23 de outubro de 2026",
   "publishedAtISO": "2026-10-23",
   "draft": false,
@@ -315,16 +315,13 @@
   "editorialNote": "Comissão pela Skelt; a Best Bronze não é parceira. Não usamos os produtos.",
   "relatedArticles": [
     {
-      "slug": "autobronzeador-skelt-qual-escolher",
-      "title": "Autobronzeador Skelt: qual escolher entre mousse, água, gel, bifásico e Dark"
+      "slug": "autobronzeador-skelt-qual-escolher"
     },
     {
-      "slug": "skelt-e-confiavel",
-      "title": "Skelt é confiável? Empresa, CNPJ, site oficial e trocas"
+      "slug": "skelt-e-confiavel"
     },
     {
-      "slug": "cupom-skelt-como-usar",
-      "title": "Cupom Skelt: como usar o SKEMCASACOMCECILIA e o que ele soma"
+      "slug": "cupom-skelt-como-usar"
     }
   ]
 }

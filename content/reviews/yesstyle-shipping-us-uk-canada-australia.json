@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "What YesStyle publishes about delivery times, free shipping, taxes, returns and payment for the US, UK, Canada, Australia, Ireland and New Zealand, and how to get customs charges refunded.",
+  "description": "YesStyle ships to the US, UK, Canada, Australia, Ireland and New Zealand, with free shipping above a minimum that varies by country. See the delivery table and the tax section.",
   "metaDescription": "Does YesStyle ship to the US, UK, Canada, Australia, Ireland and New Zealand? Delivery times, free shipping and taxes from the store's Oct 13, 2026 table.",
   "publishedAt": "October 13, 2026",
   "publishedAtISO": "2026-10-13",
@@ -278,16 +278,13 @@
   "editorialNote": "Rules from YesStyle's official pages. We may earn a commission on purchases.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-vs-stylevana-olive-young",
-      "title": "YesStyle vs Stylevana: shipping, customs and returns side by side, with Olive Young, StyleKorean and Jolse"
+      "slug": "yesstyle-vs-stylevana-olive-young"
     },
     {
-      "slug": "is-yesstyle-legit-and-safe-review",
-      "title": "Is YesStyle Legit and Safe? What to Know Before Shopping"
+      "slug": "is-yesstyle-legit-and-safe-review"
     },
     {
-      "slug": "yesstyle-reward-code-coupon-cecilia010",
-      "title": "YesStyle CECILIA010: Reward Code"
+      "slug": "yesstyle-reward-code-coupon-cecilia010"
     }
   ]
 }

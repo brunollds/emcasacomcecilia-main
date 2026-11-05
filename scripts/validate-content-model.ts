@@ -2,14 +2,16 @@
 // Executa normalizeRecipe() e normalizeReview() em todos os registros de
 // src/lib/data.ts e reporta inconsistências.
 
-import { recipes, reviews } from '@/lib/data';
+import { publishedReviews, recipes, reviews } from '@/lib/data';
 import {
   isListedInPortuguese,
   isReviewCategory,
   isValidReviewPublishedAtISO,
 } from '@/lib/reviewDiscovery';
+import { resolveRelatedArticleLinks } from '@/lib/review-template-props';
 import {
   formatQuantity,
+  getReviewCanonicalPathname,
   inferReviewKind,
   resolveReviewLocale,
   isValidTranslationKey,
@@ -28,12 +30,19 @@ import { isFaqHeading, parseFaqBullet } from '@/lib/faq';
 import {
   BODY_DATES_REASONS,
   checkReviewProse,
+  checkSnippet,
   findDates,
   getProseProblems,
+  getSnippetProblems,
   isBodyDatesReason,
+  isSnippetChecked,
+  isSnippetProblem,
+  MAX_DESCRIPTION_LENGTH,
+  SNIPPET_EXCEPTION_SLUGS,
   type ProseBaselineEntry,
 } from './review-prose-checks';
 import proseBaselineJson from './review-prose-baseline.json';
+import snippetBaselineJson from './review-snippet-baseline.json';
 import { findDuplicateKeys } from './json-duplicate-keys';
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -66,6 +75,12 @@ function reportError(error: ValidationError): void {
 function reportWarning(warning: ValidationWarning): void {
   warnings.push(warning);
 }
+
+// Itálico de markdown (*texto*), aberto depois de espaço, parêntese ou aspas. Não pega o **negrito** nem o
+// asterisco colado na palavra das citações de loja ("NESPRESSO®* ORIGINAL", "Garantia Vitalícia *confira").
+const MARKDOWN_ITALIC = /(^|[\s("“])\*(?![\s*])[^*]*[^\s*]\*(?![*\p{L}\p{N}])/u;
+// Os campos do card de estilo escritos como texto, como o rascunho do Job 2 os traz.
+const STYLING_AS_TEXT = /^(piece|howTo|occasion|pairsWith|variants):/;
 
 // O card de estilo (ArticleStyling): o modelo, de 1 a 3 peças, cada uma com algum dos três campos, de 1 a 4 itens
 // no "combina com", links https e amostras de cor em hex. O markdown cru o plainTextBody já barra.
@@ -137,6 +152,78 @@ function getDecisionProblems(decision: unknown, kind: ReviewKind): string[] {
   expectProblems({ ...ok, skipIf: ['Custa R$ 299,90.'] }, 'guia', 1, 'preço');
   expectProblems({ ...ok, takeIf: ['Leia o [guia](/reviews/x).'] }, 'guia', 1, 'markdown');
   expectProblems({ leveSe: ['a'], ...ok }, 'guia', 1, 'campo fora do formato');
+}
+
+// Os relacionados da sidebar e da gaveta do celular saem do resolveRelatedArticleLinks, com o título atual do artigo de
+// destino, então o item é só { "slug" }: o title guardado no JSON ficava velho quando o destino mudava de título. Slug
+// solto, sem objeto, vira um link para /reviews/undefined, só com a seta, e slug que não é artigo publicado no idioma do
+// artigo dá 404 ou leva a outro idioma. Até 11/2026 os 4 artigos da Belive traziam só os slugs, e o do sofá DAMIE, dois
+// slugs que não existem.
+type RelatedArticleSource = { slug: string; locale?: string; relatedArticles?: unknown };
+type RelatedArticleTarget = { slug: string; locale?: string; title: string };
+
+function getRelatedItemProblem(item: unknown): string | undefined {
+  if (typeof item !== 'object' || item === null || Array.isArray(item)) return 'fora do formato { "slug" }';
+  const { slug, ...rest } = item as Record<string, unknown>;
+  if (typeof slug !== 'string' || slug.trim() === '') return 'sem slug';
+  const extra = Object.keys(rest);
+  if (extra.includes('title')) return 'com title: tire o campo, a caixa mostra o título atual do artigo de destino';
+  if (extra.length > 0) return `com campo fora do formato { "slug" }: ${extra.join(', ')}`;
+  return undefined;
+}
+
+function getRelatedArticleProblems(review: RelatedArticleSource, corpus: RelatedArticleTarget[]): string[] {
+  const related = review.relatedArticles;
+  if (related === undefined) return [];
+  if (!Array.isArray(related)) return ['relatedArticles não é uma lista'];
+  const locale = resolveReviewLocale(review.locale);
+  const sameLocalePaths = new Set(
+    corpus.filter((item) => resolveReviewLocale(item.locale) === locale).map((item) => getReviewCanonicalPathname(item))
+  );
+  const problems: string[] = [];
+  related.forEach((item, index) => {
+    const problem = getRelatedItemProblem(item);
+    if (problem) {
+      problems.push(`item ${index + 1} de relatedArticles ${problem}: ${JSON.stringify(item)}`);
+      return;
+    }
+    const { slug } = item as { slug: string };
+    try {
+      const [{ href }] = resolveRelatedArticleLinks({ slug: review.slug, locale: review.locale, relatedArticles: [{ slug }] }, corpus);
+      if (!sameLocalePaths.has(href)) {
+        problems.push(`relatedArticles com "${slug}", que leva a ${href}: não é artigo publicado em ${locale}`);
+      }
+    } catch (error) {
+      problems.push(error instanceof Error ? error.message : String(error));
+    }
+  });
+  return problems;
+}
+
+{
+  const report = (message: string) => reportError({ type: 'review', id: -1, slug: '__related_articles__', message });
+  const corpus: RelatedArticleTarget[] = [
+    { slug: 'guia', title: 'Guia' },
+    { slug: 'guide', locale: 'en', title: 'Guide' },
+    { slug: 'shared', locale: 'en', title: 'Shared' },
+    { slug: 'shared', locale: 'es', title: 'Compartido' },
+    { slug: 'ambiguous', locale: 'es', title: 'Ambiguo' },
+    { slug: 'ambiguous', locale: 'fr', title: 'Ambigu' },
+  ];
+  const expectProblems = (review: RelatedArticleSource, expected: number, label: string) => {
+    const problems = getRelatedArticleProblems(review, corpus);
+    if (problems.length !== expected) report(`${label}: ${problems.length} problemas (${problems.join('; ')}), esperado ${expected}`);
+  };
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia' }] }, 0, 'item certo');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia', title: 'Guia' }] }, 1, 'com title');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guia', category: 'cupons-como-usar' }] }, 1, 'com outro campo');
+  expectProblems({ slug: 'origem', relatedArticles: ['guia'] }, 1, 'só o slug, sem objeto');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: ' ' }] }, 1, 'slug vazio');
+  expectProblems({ slug: 'origem', relatedArticles: { slug: 'guia' } }, 1, 'objeto em vez de lista');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'nao-existe' }] }, 1, 'slug que não existe');
+  expectProblems({ slug: 'origem', relatedArticles: [{ slug: 'guide' }] }, 1, 'artigo só em outro idioma');
+  expectProblems({ slug: 'origin', locale: 'en', relatedArticles: [{ slug: 'shared' }] }, 0, 'slug em dois idiomas, um deles o do artigo');
+  expectProblems({ slug: 'ursprung', locale: 'de', relatedArticles: [{ slug: 'ambiguous' }] }, 1, 'slug ambíguo');
 }
 
 // Chave repetida no mesmo objeto: o JSON.parse guarda só a última, e a primeira nunca vai ao ar.
@@ -541,6 +628,23 @@ for (const review of reviews) {
           reportError({ type: 'review', id: review.id, slug: review.slug, message: `card de estilo em "${section.heading}": ${problem}` });
         }
       }
+      // A página não lê itálico de markdown e mostra o asterisco: a legenda da tabela vai em
+      // comparisonTable.caption. O card de estilo vai no campo styling, nunca em bullets "piece: …".
+      const sectionTexts = [
+        ...(section.paragraphs || []),
+        ...(section.postParagraphs || []),
+        ...(section.bullets || []),
+        section.emphasis,
+        section.comparisonTable?.caption,
+      ].filter((text): text is string => typeof text === 'string');
+      for (const text of sectionTexts) {
+        if (MARKDOWN_ITALIC.test(text)) {
+          reportError({ type: 'review', id: review.id, slug: review.slug, message: `itálico de markdown em "${section.heading}", que a página mostra com o asterisco: ${text.slice(0, 80)}` });
+        }
+      }
+      if ((section.bullets || []).some((bullet) => STYLING_AS_TEXT.test(bullet))) {
+        reportError({ type: 'review', id: review.id, slug: review.slug, message: `card de estilo em bullets em "${section.heading}": use o campo styling` });
+      }
     }
     // O FAQ corta a pergunta no primeiro "?": "**Pergunta?** resposta" vira a pergunta "**Pergunta?" e a
     // resposta "** resposta", e os asteriscos aparecem no acordeão e no FAQPage.
@@ -589,6 +693,13 @@ for (const duplicate of duplicateTranslationLocales) {
     slug: duplicate.translationKey,
     message: `translationKey duplicada no locale "${duplicate.locale}": ${duplicate.slugs.join(', ')}`,
   });
+}
+
+// Relacionados de todo artigo no ar. O rascunho não tem página: a regra vale quando ele sai do draft.
+for (const review of publishedReviews) {
+  for (const problem of getRelatedArticleProblems(review, publishedReviews)) {
+    reportError({ type: 'review', id: review.id, slug: review.slug, message: problem });
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -701,6 +812,56 @@ for (const slug of Object.keys(proseBaseline)) {
   }
 }
 
+// Snippet com o código nos artigos em português com coupon: código e % no começo, até 155 caracteres, sem data,
+// sem R$ e sem abrir com "Cupom <loja>". Os artigos de antes da regra ficam em scripts/review-snippet-baseline.json,
+// que só encolhe; as exceções, com o motivo, em review-prose-checks.ts.
+const snippetBaseline: Record<string, string[]> = snippetBaselineJson;
+const snippetChecked = new Set<string>();
+for (const review of reviews) {
+  if (!isSnippetChecked(review)) continue;
+  snippetChecked.add(review.slug);
+  for (const problem of getSnippetProblems(checkSnippet(review), snippetBaseline[review.slug])) {
+    reportError({ type: 'review', id: review.id, slug: review.slug, message: problem });
+  }
+}
+for (const [slug, problems] of Object.entries(snippetBaseline)) {
+  if (!snippetChecked.has(slug)) {
+    reportError({
+      type: 'review',
+      id: -1,
+      slug,
+      message: 'scripts/review-snippet-baseline.json cita um artigo fora da regra do snippet (não existe, não é PT, sem coupon ou exceção)',
+    });
+  }
+  const unknown = problems.filter((problem) => !isSnippetProblem(problem));
+  if (problems.length === 0 || unknown.length > 0) {
+    reportError({
+      type: 'review',
+      id: -1,
+      slug,
+      message: `scripts/review-snippet-baseline.json com entrada vazia ou problema desconhecido: ${unknown.join(', ')}`,
+    });
+  }
+}
+for (const slug of Object.keys(SNIPPET_EXCEPTION_SLUGS)) {
+  if (!portugueseSlugs.has(slug)) {
+    reportError({ type: 'review', id: -1, slug, message: 'SNIPPET_EXCEPTION_SLUGS cita um artigo em português que não existe' });
+  }
+}
+
+// Subtítulo curto em todo idioma, rascunho inclusive.
+for (const review of reviews) {
+  const length = [...review.description].length;
+  if (length > MAX_DESCRIPTION_LENGTH) {
+    reportError({
+      type: 'review',
+      id: review.id,
+      slug: review.slug,
+      message: `subtítulo (description) com ${length} caracteres, máximo ${MAX_DESCRIPTION_LENGTH}: uma ou duas frases, não o sumário`,
+    });
+  }
+}
+
 // Prova das regras de texto com artigos de mentira: o que fura sem estar na lista, a lista que tolera e a que
 // precisa encolher.
 {
@@ -735,6 +896,45 @@ for (const slug of Object.keys(proseBaseline)) {
   if (!getProseProblems({ ...prontuario, quickAnswerPrice: false }, undefined, expected).some((p) => p.includes('tire "quickAnswerPrice"'))) {
     report('a lista não pediu para encolher depois que o artigo melhorou');
   }
+
+  // Snippet: um artigo que fura cada regra dá um problema por regra.
+  const expectSnippet = (label: string, review: Parameters<typeof checkSnippet>[0], expected: string[]) => {
+    const found = checkSnippet(review);
+    if (JSON.stringify(found) !== JSON.stringify(expected)) {
+      report(`checkSnippet (${label}): ${JSON.stringify(found)}, esperado ${JSON.stringify(expected)}`);
+    }
+  };
+  const base = { slug: 'snippet-de-mentira', coupon: 'LOJA10', affiliate: 'loja' };
+  expectSnippet('dentro da regra', { ...base, metaDescription: 'O cupom LOJA10 dá 10% OFF em todo o site. Veja como aplicar, válido em novembro de 2026.' }, []);
+  expectSnippet('sem metaDescription', base, ['missing']);
+  expectSnippet('sem o código', { ...base, metaDescription: 'Desconto de 10% em todo o site.' }, ['noCode']);
+  expectSnippet('código tarde', { ...base, metaDescription: `10% OFF ${'em todo o site '.repeat(7)}com LOJA10.` }, ['codeLate']);
+  expectSnippet('sem o %', { ...base, metaDescription: 'Com o LOJA10, desconto em todo o site.' }, ['noPercent']);
+  expectSnippet('longo', { ...base, metaDescription: `Com o LOJA10, até 10% OFF.${' Veja como aplicar.'.repeat(8)}` }, ['tooLong']);
+  expectSnippet('data', { ...base, metaDescription: 'Com o LOJA10, 10% OFF a partir de 05/11.' }, ['date']);
+  expectSnippet('preço', { ...base, metaDescription: 'Com o LOJA10, 10% OFF acima de R$ 99.' }, ['price']);
+  expectSnippet('R$ 100 da Dolce Gusto', { ...base, affiliate: 'dolce-gusto', metaDescription: 'Com o LOJA10, 10% OFF a partir de R$ 100.' }, []);
+  expectSnippet('abre com Cupom', { ...base, metaDescription: 'Cupom Loja LOJA10: 10% OFF em todo o site.' }, ['opensWithCoupon']);
+  expectSnippet(
+    'YesStyle',
+    { ...base, affiliate: 'yesstyle', coupon: 'CECILIA010', metaDescription: 'Use o cupom CECILIA010 e ganhe até 5%.' },
+    ['rewardCalledCoupon']
+  );
+  expectSnippet(
+    'SHEIN',
+    { ...base, affiliate: 'shein', coupon: '4CW5Y', metaDescription: 'Pesquise 4CW5Y no app da SHEIN Brasil e ganhe 10%.' },
+    ['sheinPercent', 'sheinBrasil']
+  );
+  if (isSnippetChecked({ ...base, affiliate: 'magalu' })) report('a Magalu entrou na regra do snippet');
+  if (isSnippetChecked({ ...base, locale: 'en' })) report('artigo fora do PT entrou na regra do snippet');
+  if (isSnippetChecked({ ...base, slug: 'dominio-hostinger-comprar-transferir-ou-fora' })) report('exceção por slug entrou na regra do snippet');
+  if (getSnippetProblems(['codeLate', 'noPercent']).length !== 2) report('snippet fora da lista furando 2 regras não deu 2 problemas');
+  if (getSnippetProblems(['codeLate', 'noPercent'], ['codeLate', 'noPercent']).length !== 0) report('a lista do snippet não tolerou o que registra');
+  if (getSnippetProblems(['codeLate', 'date'], ['codeLate']).length !== 1) report('problema novo no snippet não foi barrado');
+  if (!getSnippetProblems(['codeLate'], ['codeLate', 'noPercent']).some((p) => p.includes('tire "noPercent"'))) {
+    report('a lista do snippet não pediu para encolher depois que o artigo melhorou');
+  }
+  if (!getSnippetProblems([], ['codeLate']).some((p) => p.includes('tire a entrada'))) report('a lista do snippet não pediu para tirar a entrada');
 }
 
 // ---------------------------------------------------------------------------

@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Comment choisir un hébergeur selon le renouvellement, le cycle, l'emplacement du serveur et le VPS. Prix internationaux de Hostinger en dollars, avec renouvellement, au 30 octobre 2026.",
+  "description": "Pour choisir un hébergeur, comparez le prix par mois avec le renouvellement à côté. Premium est le moins cher au renouvellement, Unlimited convient aux nombreux sites.",
   "metaDescription": "Choisir un hébergeur web : renouvellement, cycle de 48 mois, emplacement du serveur et VPS. Prix du site international de Hostinger en dollars au 30 octobre 2026, avec le renouvellement à côté.",
   "publishedAt": "30 octobre 2026",
   "publishedAtISO": "2026-10-30",
@@ -168,13 +168,13 @@
         ]
       },
       "postParagraphs": [
-        "Le renouvellement du VPS est presque le double du prix promotionnel : le KVM 1 passe de 6,49 US$ à 11,99 US$ par mois, et le KVM 2, de 8,79 US$ à 14,99 US$. Ce sont les prix de la promotion sur 24 mois. Nous n'avons pas testé le SONAR20 sur le VPS : vérifiez le prix dans le panier avant de souscrire."
+        "Le renouvellement du VPS est presque le double du prix promotionnel : le KVM 1 passe de 6,49 US$ à 11,99 US$ par mois, et le KVM 2, de 8,79 US$ à 14,99 US$. Ce sont les prix de la promotion sur 24 mois. Le SONAR20 vaut sur le VPS : vérifiez le prix dans le panier avant de souscrire."
       ]
     },
     {
       "heading": "Le code SONAR20 chez Hostinger",
       "paragraphs": [
-        "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, l'e-mail professionnel et Reach. Sur les forfaits d'hébergement de ce tableau et sur le VPS, nous ne l'avons pas testé : vérifiez dans le panier. Nous n'avons pas testé le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger)."
+        "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, l'e-mail professionnel et Reach. Sur les forfaits d'hébergement de ce tableau, nous ne l'avons pas testé : vérifiez dans le panier. Le code vaut sur le VPS et sur tout nouvel achat, mais pas sur le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -193,8 +193,9 @@
         "Quel forfait Hostinger se renouvelle le moins cher ? Premium, à 10,99 US$ par mois sur le site international, après une promotion sur 48 mois à 2,49 US$.",
         "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
         "Hostinger indique-t-il où se trouvent ses serveurs ? Les pages de forfaits n'indiquent pas où se trouve le serveur. Demandez au support avant d'acheter.",
-        "Le code SONAR20 fonctionne-t-il sur le VPS ? Nous ne l'avons pas testé sur le VPS : vérifiez dans le panier. Nous l'avons testé sur le forfait Startup e-commerce, du créateur de boutiques, et il a donné 20 % sur la première période.",
-        "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait."
+        "Le code SONAR20 fonctionne-t-il sur le VPS ? Oui, il vaut sur le VPS. Nous l'avons testé sur le forfait Startup e-commerce, du créateur de boutiques, et il a donné 20 % sur la première période.",
+        "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -207,7 +208,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n'avons pas testé le renouvellement ; vérifiez le prix dans le panier.",
+    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les forfaits d'hébergement avec le SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -217,16 +218,13 @@
   "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno.",
   "relatedArticles": [
     {
-      "slug": "vps-ou-hebergement-mutualise",
-      "title": "VPS ou hébergement mutualisé : lequel choisir pour votre site chez Hostinger"
+      "slug": "vps-ou-hebergement-mutualise"
     },
     {
-      "slug": "hostinger-est-il-fiable",
-      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      "slug": "hostinger-est-il-fiable"
     },
     {
-      "slug": "code-promo-hostinger-parrainage",
-      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+      "slug": "code-promo-hostinger-parrainage"
     }
   ],
   "decision": {

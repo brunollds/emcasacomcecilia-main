@@ -13,7 +13,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "O que é a Lejour e como funciona: site do casamento, lista de presentes virtuais, taxa de 3,89% no Basic, 3,29% no Premium e 2,99% no Pro em 14/10/2026, prazos do saque e qual plano escolher.",
+  "description": "O que é a Lejour e como funciona: site do casamento e lista de presentes virtuais, as taxas de cada plano, como sacar o dinheiro e qual plano escolher para a sua lista.",
   "metaDescription": "Lejour: o que é, como funciona a lista de presentes, as taxas (3,89% a 2,99%) e os planos Basic, Premium e Pro, em 14/10/2026.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
@@ -321,16 +321,13 @@
   "editorialNote": "Link de indicação: podemos receber comissão da Lejour, sem custo nem vantagem para o casal.",
   "relatedArticles": [
     {
-      "slug": "lejour-e-confiavel",
-      "title": "Lejour é confiável? Quem está por trás, Fast Shop, segurança e saques"
+      "slug": "lejour-e-confiavel"
     },
     {
-      "slug": "lejour-reclame-aqui-nota-reputacao",
-      "title": "Lejour no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "lejour-reclame-aqui-nota-reputacao"
     },
     {
-      "slug": "lista-de-casamento-lejour-como-criar",
-      "title": "Como criar a lista de casamento na Lejour: passo a passo do site e da lista de presentes"
+      "slug": "lista-de-casamento-lejour-como-criar"
     }
   ]
 }

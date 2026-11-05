@@ -117,7 +117,7 @@
       "paragraphs": [
         "下單的人都會進入自動續訂，因為這是預設設定。扣款發生在期限結束前 30 天到 0 天之間，從設為預設的信用卡扣除，按當天方案的現行價格收費。條款說明，這個價格可能比首期高，也可能比首期低，價格異動在續訂時生效，不會事先通知。",
         "Hostinger 可能會在扣款前寄電子郵件，但條款說明它沒有這個義務。例如，月繳方案的客戶就不會收到通知。想關閉續訂，登入帳戶後可隨時停用。如果你關閉了續訂，又沒有在期限結束前手動續訂，服務就會終止。",
-        "續訂時折扣會如何，請見 [SONAR20 優惠碼指南](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+        "續訂為什麼沒有折扣，請見 [SONAR20 優惠碼指南](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
       ],
       "images": [
         {
@@ -174,7 +174,8 @@
         "Hostinger 可以退款嗎？可以，主機與 VPS 在 30 天內，表中列出了例外。網域續訂與付費支援服務不退款。",
         "Hostinger 的續訂是自動的嗎？是，預設如此。你可以隨時在帳戶中關閉；如果不手動續訂，服務會在期限結束時終止。",
         "Hostinger 由誰來扣款？這取決於所在國家。簽約公司依據條款第 2 條決定，集團內的其他公司也可能扣款。請核對結帳頁面上顯示的名稱。",
-        "有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，月繳或年繳方案的首期都可享 20% 折扣。我們沒有測試過續訂；請在購物車裡確認價格。"
+        "有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，月繳或年繳方案的首期都可享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
       ]
     },
     {
@@ -191,7 +192,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。我們沒有測試過續訂；請在購物車確認價格。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
     "label": "查看 Hostinger 方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -201,16 +202,13 @@
   "editorialNote": "透過優惠碼 SONAR20 或連結購買，Bruno 可能獲得佣金，但你不需額外付費。Hostinger 也是本站的主機服務商。",
   "relatedArticles": [
     {
-      "slug": "hostinger-trustpilot-reviews-zh-hant",
-      "title": "Hostinger 在 Trustpilot 的評分、投訴，以及 200 則評價說明了什麼"
+      "slug": "hostinger-trustpilot-reviews-zh-hant"
     },
     {
-      "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      "slug": "hostinger-referral-code-zh-hant"
     },
     {
-      "slug": "hostinger-black-friday-zh-hant",
-      "title": "Hostinger 黑色星期五 2026：SONAR20 再省 20%，實際多少錢"
+      "slug": "hostinger-black-friday-zh-hant"
     }
   ]
 }

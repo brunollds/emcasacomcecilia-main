@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { CalendarDays, Check, Copy, ExternalLink, Layers, Repeat, ShoppingBag, Truck } from 'lucide-react';
 import { CouponStoreLink } from '@/components/CouponComponents';
 import { getCouponLanguageLinks, getCouponStorePath } from '@/lib/couponTranslations';
-import { getOtherActiveCoupons, type Coupon } from '@/lib/couponsData';
+import { getOtherActiveCoupons, getPendingLimitedCodes, type Coupon } from '@/lib/couponsData';
 import { LOCALES, LOCALE_KEYS, type Locale } from '@/lib/i18n/locales';
 import { getOfferMonthDate } from '@/lib/offerMonth';
 import { RevealSection } from '@/components/ui/RevealSection';
@@ -20,6 +20,7 @@ import {
   couponFontVariables,
 } from './CouponBlocks';
 import { OtherCouponCard } from './CouponCards';
+import { LimitedCodeNotices, LimitedCodePointers } from './LimitedCodeNotice';
 import { StorePageBanners } from './StorePageBanners';
 import { COUPON_STORE_COPY, type CouponStoreCopy } from './couponStoreCopy';
 import {
@@ -225,6 +226,8 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
   const couponCodeOffer = coupon.offerMode === 'discount-code' ? coupon : null;
   const affiliateLinkOffer = coupon.offerMode === 'affiliate-link' ? coupon : null;
   const tiers = couponCodeOffer?.tiers?.length ? couponCodeOffer.tiers : null;
+  // O código com prazo existe só em PT e em loja sem faixas.
+  const limitedCodes = locale === 'pt' && couponCodeOffer && !tiers ? getPendingLimitedCodes(couponCodeOffer) : [];
   const offerType = getOfferType(coupon, copy);
   const offerTypePlural =
     coupon.offerTypeLabelPlural || (couponCodeOffer ? copy.offerTypePlural.code : copy.offerTypePlural.link);
@@ -277,6 +280,7 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
           label={couponCodeOffer ? copy.cutoutLabel.code(offerType, coupon.brand) : copy.cutoutLabel.link(offerType, coupon.brand)}
           verified={couponCodeOffer?.testNote ? copy.testedOn(lastVerified) : copy.verifiedOn(lastVerified)}
           copyable={Boolean(couponCodeOffer && !tiers)}
+          footer={limitedCodes.length > 0 ? <LimitedCodePointers items={limitedCodes} /> : undefined}
         >
           {couponCodeOffer && !tiers && (
             <>
@@ -329,6 +333,16 @@ export function CouponStorePage({ coupon, locale }: { coupon: Coupon; locale: Lo
 
         <StoreContent>
           <LanguageLinks links={getCouponLanguageLinks(coupon.slug)} current={locale} label={copy.otherLanguagesLabel} />
+
+          {couponCodeOffer && limitedCodes.length > 0 && (
+            <LimitedCodeNotices
+              items={limitedCodes}
+              brand={coupon.brand}
+              regularCode={couponCodeOffer.code}
+              regularDiscount={couponCodeOffer.discount}
+              copy={copy}
+            />
+          )}
 
           {coupon.monthlyHighlight && (
             <div className="rounded-xl border-2 border-marinho p-4 md:p-5">

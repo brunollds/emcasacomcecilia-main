@@ -15,7 +15,7 @@
     "url": "/sobre"
   },
   "description": "Mala de bordo de 10 kg em ABS, polipropileno e policarbonato na Bagaggio: preço, litros e peso de cada ficha em 29/10/2026, com a conta de reais por litro e por kg.",
-  "metaDescription": "Mala de policarbonato ou ABS? Na Bagaggio, a de policarbonato custa de 3,6 a 6 vezes a de ABS na mesma medida de 10 kg. Veja preço por litro e por kg.",
+  "metaDescription": "Mala de policarbonato ou ABS na Bagaggio, com o cupom CECILIA10 de 10% OFF: na medida de 10 kg, a de policarbonato custa de 3,6 a 6 vezes a de ABS.",
   "publishedAt": "29 de outubro de 2026",
   "publishedAtISO": "2026-10-29",
   "draft": false,
@@ -227,20 +227,16 @@
   "editorialNote": "Feito com as fichas públicas da loja. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
-      "slug": "cupom-bagaggio-como-usar",
-      "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+      "slug": "cupom-bagaggio-como-usar"
     },
     {
-      "slug": "bagaggio-garantia-vitalicia",
-      "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      "slug": "bagaggio-garantia-vitalicia"
     },
     {
-      "slug": "black-friday-bagaggio",
-      "title": "Black Friday Bagaggio 2026: o que a loja mostra hoje, preços de 22/10 e o cupom"
+      "slug": "black-friday-bagaggio"
     },
     {
-      "slug": "bagaggio-e-confiavel",
-      "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+      "slug": "bagaggio-e-confiavel"
     }
   ]
 }

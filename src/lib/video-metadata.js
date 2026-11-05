@@ -91,6 +91,19 @@ export const videoMetadata = {
     description:
       'Primeiro uso de uma rotina de skincare coreano da Abib aos 30 anos: adesivo de hidrogel geladinho para os olhos, creme com retinal de textura aveludada e máscara labial em gel com cheirinho de doce.',
   },
+  cSGGCKqv4VU: {
+    uploadDate: '2026-09-25T17:15:29-07:00',
+    duration: 'PT55S',
+    title: 'PROVEI o Risoto Proteico viral do TikTok Shop',
+    description:
+      'Cecília abre um kit da HolyFoods comprado no TikTok Shop e prepara o risoto na panela de indução, com 400 ml de água e um pouco de manteiga.',
+  },
+  EFJy5dJudpw: {
+    uploadDate: '2026-10-26T17:30:29-07:00',
+    duration: 'PT18S',
+    title: 'Mac n Cheese Holyfoods',
+    description: 'Cecília prepara o Mac Queijo da HolyFoods na panela, do pacote ao prato.',
+  },
 };
 
 /**

@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Hostinger sur Trustpilot : un TrustScore de 4,6 pour 73 411 avis en octobre 2026, l’effet des invitations, les plaintes des clients et comment désactiver le renouvellement automatique.",
+  "description": "Hostinger a un TrustScore de 4,6 sur Trustpilot pour plus de 73 000 avis. Voyez les plaintes les plus citées et comment désactiver le renouvellement automatique.",
   "metaDescription": "Hostinger sur Trustpilot (24 octobre 2026) : TrustScore 4,6 pour 73 411 avis, 99 % des avis négatifs traités, facturation et renouvellement parmi les plaintes principales. Voyez comment désactiver le renouvellement.",
   "publishedAt": "19 octobre 2026",
   "publishedAtISO": "2026-10-19",
@@ -250,20 +250,21 @@
         "Les avis Hostinger sur Trustpilot sont-ils fiables ? Le profil est revendiqué et géré par l’entreprise, qui invite ses clients à noter. Dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Trustpilot dit qu’il ne vérifie pas les avis un par un.",
         "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Dans les 86 plaintes lues parmi les 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
         "Hostinger répond-il aux avis négatifs ? Oui. La page indique que l’entreprise répond à 99 % des avis négatifs, en général dans les 24 heures, et qu’elle peut utiliser l’IA dans ses réponses. Dans notre échantillon, 80 des 86 plaintes avaient une réponse.",
-        "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance."
+        "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
       "heading": "Si vous avez déjà décidé",
       "paragraphs": [
-        "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Nous n’avons pas testé le renouvellement avec le code : confirmez le prix dans le panier, et voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
+        "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous n’avons pas testé le renouvellement : confirmez le prix dans le panier.",
+    "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les offres avec réduction",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -273,16 +274,13 @@
   "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Ce site fonctionne sur Hostinger.",
   "relatedArticles": [
     {
-      "slug": "hostinger-est-il-fiable",
-      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+      "slug": "hostinger-est-il-fiable"
     },
     {
-      "slug": "code-promo-hostinger-parrainage",
-      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+      "slug": "code-promo-hostinger-parrainage"
     },
     {
-      "slug": "black-friday-hostinger-offres",
-      "title": "Black Friday Hostinger 2026 : le code SONAR20 retire 20 % du prix de la campagne"
+      "slug": "black-friday-hostinger-offres"
     }
   ]
 }

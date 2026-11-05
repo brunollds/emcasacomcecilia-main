@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Mesa posta do dia a dia para 2 e 4 pessoas, na ordem de compra: guardanapo e jogo americano de tecido, depois faqueiro e pratos, com o preço de cada peça e duas faixas, de R$ 414,80 a R$ 849,20.",
-  "metaDescription": "Mesa posta do dia a dia: o que comprar primeiro (tecido, talheres e pratos) e quanto custa para 2 e 4 pessoas. Preços de 29/10/2026.",
+  "description": "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido, depois os talheres e por último os pratos. Veja o preço de cada peça para 2 e 4 pessoas.",
+  "metaDescription": "O cupom MAUAD dá 5% OFF no site da Let's Eat It e soma com o Pix. Mesa posta do dia a dia: o que comprar primeiro e quanto custa para 2 e 4 pessoas.",
   "publishedAt": "29 de outubro de 2026",
   "publishedAtISO": "2026-10-29",
   "draft": false,
@@ -280,16 +280,13 @@
   "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estas peças.",
   "relatedArticles": [
     {
-      "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-      "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
     },
     {
-      "slug": "presente-de-casamento-ideias-por-preco",
-      "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+      "slug": "presente-de-casamento-ideias-por-preco"
     },
     {
-      "slug": "porto-brasil-e-boa",
-      "title": "Porto Brasil é boa? Cerâmica ou porcelana, o que vai ao forno e comparação com a Oxford"
+      "slug": "porto-brasil-e-boa"
     }
   ]
 }

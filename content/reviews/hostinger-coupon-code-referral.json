@@ -45,7 +45,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. We did not test renewal."
+        "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. Renewal has no discount: it is charged at the list price."
       ]
     },
     {
@@ -70,13 +70,13 @@
     {
       "heading": "Monthly plan, annual plan and existing customers",
       "paragraphs": [
-        "SONAR20 gives 20% off the first period on a monthly or annual plan, for new or existing customers. We tested only the Startup hosting plan; for VPS, email, AI agents and domains, check in the cart whether the discount shows up. Existing customers use the code on a new plan; for the renewal of a plan you already have, check the price in the dashboard."
+        "SONAR20 gives 20% off the first period on a monthly or annual plan, for new or existing customers. The code works on VPS and WordPress plans; on a standalone domain and on renewal it does not work. For email and AI agents, check in the cart whether the discount shows up. Existing customers can use the code on any new plan or product: we tested it on an old account, and SONAR20 took 20% off a new product, on top of the campaign discount. The renewal of a plan you already have is charged at the list price."
       ]
     },
     {
       "heading": "Renewal: what changes after the first period",
       "paragraphs": [
-        "After the first period, the plan renews at the standard price, shown below each plan's card. The page says you can change the period or cancel at any time before renewal."
+        "After the first period, the plan renews at the standard price, shown below each plan's card, without the SONAR20 discount. The page says you can change the period or cancel at any time before renewal."
       ]
     },
     {
@@ -93,8 +93,8 @@
       "bullets": [
         "Does Hostinger have a coupon? Yes: the code SONAR20 gives 20% off the first period of any plan, monthly or annual.",
         "Where do I enter the Hostinger coupon? In the cart, in the “Have a coupon code?” field. Paste SONAR20 and apply it before paying.",
-        "Does SONAR20 work for existing customers? Yes, on a new plan, under the partnership rules. For the renewal of a plan you already have, check the price in the dashboard.",
-        "Does the coupon discount the renewal? We did not test it. Check the renewal price in the cart before paying.",
+        "Does SONAR20 work for existing customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%.",
+        "Does the coupon discount the renewal? No: renewal is charged at the list price, which the cart shows right below the plan. The 20% applies only to new purchases.",
         "Does SONAR20 work on Black Friday? Yes: in the cart test, the 20% came off the campaign price."
       ]
     }
@@ -102,7 +102,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "text": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
     "label": "See plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -112,16 +112,13 @@
   "editorialNote": "Purchases with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. This site runs on Hostinger.",
   "relatedArticles": [
     {
-      "slug": "is-hostinger-legit",
-      "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      "slug": "is-hostinger-legit"
     },
     {
-      "slug": "hostinger-trustpilot-reviews",
-      "title": "Hostinger on Trustpilot: the score, the complaints and what 200 reviews show"
+      "slug": "hostinger-trustpilot-reviews"
     },
     {
-      "slug": "hostinger-black-friday",
-      "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
+      "slug": "hostinger-black-friday"
     }
   ]
 }

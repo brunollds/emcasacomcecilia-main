@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Para quem a Nestlé indica cada linha Nutren (Senior, Protein, Control e Active), nove versões lado a lado pelo rótulo, com cafeína, glúten, lactose e açúcares, e onde entra o cupom CECI.",
-  "metaDescription": "Qual Nutren escolher? Senior, Protein, Control e Active lado a lado pelo rótulo: para quem é cada um, proteína, cafeína, glúten, lactose e o cupom CECI.",
+  "description": "Cada linha Nutren tem um público definido pela Nestlé, do Senior ao Active. Veja as nove versões lado a lado pelo rótulo, com cafeína, glúten e lactose, e onde entra o cupom CECI.",
+  "metaDescription": "Qual Nutren escolher, com o cupom CECI e 10% OFF: Senior, Protein, Control e Active pelo rótulo, com proteína, cafeína, glúten e lactose.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
   "draft": false,
@@ -233,20 +233,16 @@
   "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Comparamos só rótulos e páginas oficiais.",
   "relatedArticles": [
     {
-      "slug": "nutren-senior-ensure-ou-sustagen-senior",
-      "title": "Nutren Senior, Ensure ou Sustagen Senior: qual escolher pelo rótulo de cada um"
+      "slug": "nutren-senior-ensure-ou-sustagen-senior"
     },
     {
-      "slug": "nutren-just-protein-para-que-serve",
-      "title": "Nutren Just Protein: para que serve, como usar em receitas e tabela nutricional"
+      "slug": "nutren-just-protein-para-que-serve"
     },
     {
-      "slug": "cupom-ceci-nestle-nutre-como-usar",
-      "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      "slug": "cupom-ceci-nestle-nutre-como-usar"
     },
     {
-      "slug": "nutren-senior-zero-lactose-ficha-tecnica",
-      "title": "Nutren Senior Zero Lactose: o que saber antes de comprar"
+      "slug": "nutren-senior-zero-lactose-ficha-tecnica"
     }
   ]
 }

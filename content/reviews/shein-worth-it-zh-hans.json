@@ -1,0 +1,155 @@
+{
+  "id": 803,
+  "slug": "shein-worth-it-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "shein-vale-a-pena",
+  "title": "SHEIN 值得买吗？什么时候买划算，什么时候别买",
+  "seoTitle": "SHEIN 值得买吗？配送时间、退货和付款前要看的内容",
+  "type": "购买指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "description": "如果你知道衣服的尺码，又能等待配送，SHEIN 就值得买。配送时间、退货和每件商品的说明，能帮你判断什么时候买、什么时候别买。",
+  "metaDescription": "尺码已知、不着急的衣服，SHEIN 值得买。在 SHEIN App 搜索 4CW5Y，这是推荐码，没有折扣。另外也要看运费、配送时间和退货。",
+  "publishedAt": "2026年11月4日",
+  "publishedAtISO": "2026-11-04",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/shein/shein-vale-a-pena-capa.webp",
+  "imageAlt": "SHEIN 官方照片中的藏青色亨利领T恤、印花短裤和太阳镜，带店铺标志，以及价格、配送、收据和退货图标",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "label": "前往 SHEIN",
+    "text": "付款前，请在订单页面确认运费、配送时间和税费。4CW5Y 是推荐码：在 App 搜索就行，没有折扣。",
+    "url": "https://onelink.shein.com/55/6463grgxf6ru",
+    "sponsored": true
+  },
+  "coupon": "4CW5Y",
+  "affiliate": "shein",
+  "editorialNote": "我们可能会因 SHEIN 的链接获得佣金。编辑团队没有人实际购买这些商品。",
+  "relatedArticles": [
+    {
+      "slug": "shein-trust-guide-zh-hans"
+    },
+    {
+      "slug": "shein-size-guide-zh-hans"
+    },
+    {
+      "slug": "shein-referral-code-zh-hans"
+    },
+    {
+      "slug": "shein-party-dress-guide-zh-hans"
+    },
+    {
+      "slug": "shein-trustpilot-reviews-zh-hans"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "如果你已经知道衣服尺码，并且能等待配送，这类商品值得买。着急要的订单，或需要试穿才能决定的衣服，就不推荐。判断的关键是商品页面上显示的、送到你所在地址的配送时间。"
+      ]
+    },
+    {
+      "heading": "什么时候划算，什么时候不划算",
+      "paragraphs": [
+        "三件事同时成立，就值得买：你知道尺码，不着急，订单金额能达到店铺包邮的门槛。SHEIN 的商品很多，价格也低，代价是要花时间和精力看商品说明。跨境订单光是从仓库发出就要几天，之后才开始配送。衣服送到前没法试穿，如果不合身，就要按帮助中心说明的退货流程办理。",
+        "适合的情况：你平时一定会买的基本款，例如 T恤、紧身裤或睡衣，以及还有一个月时间的场合服装。不适合的情况：下周就要的礼物、日期已定的活动服装，以及任何贵到需要先穿上身才能决定的单品。",
+        "决定应该在商品页面、加入购物车之前完成。配送方式、预计送达时间和材质都在那里。结账页面只是再确认一遍你早就该知道的内容。"
+      ]
+    },
+    {
+      "heading": "配送：要等多久",
+      "paragraphs": [
+        "准确的时间在加入购物车前的商品页面上，会随地址变化。如果衣服有日期要求，就把页面上最长的时间再加一周，让退货不会变得手忙脚乱。",
+        "不适合的情况：送礼且日期已定的订单，因为预计时间可能延后。"
+      ]
+    },
+    {
+      "heading": "退货",
+      "paragraphs": [
+        "你所在国家的退货政策，写在 SHEIN 帮助中心。下单前请先读，因为期限、费用和不能退的商品，都会影响划不划算。",
+        "如果你习惯像逛实体店那样在家试穿再决定，那 SHEIN 不太适合你。这里代替试穿的是尺码，下一章会讲。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
+          "alt": "订单追踪界面，旁边是带条形码的收据，以及画有退款回转箭头的硬币插图",
+          "caption": "请保存追踪编号，退货和退款都要靠它。",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778
+        }
+      ]
+    },
+    {
+      "heading": "尺码：看厘米，不看字母",
+      "paragraphs": [
+        "SHEIN 的 M 不一定是你的 M。每件商品都有自己的厘米尺码表，决定尺码的是尺码表，不是字母。经验法则（未经我们实测）：把一件你穿着很合身的衣服平放量尺寸，和商品尺码表上的数字比较，不要和你身体的尺寸比。两者的差距，就是你喜欢的宽松度。没有厘米尺码表的商品就别买。各类衣服怎么量，以及怎么看每件商品的尺码表，请看 [SHEIN 尺码指南](/zh-hans/reviews/shein-size-guide-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "付款前",
+      "bullets": [
+        "在商品页面确认配送方式和预计时间，加入购物车前先看。",
+        "把商品说明看完：材质、内里和洗涤方式。只能干洗又没有内里的大衣，开箱时可不是什么好惊喜。",
+        "保存订单确认和追踪编号。退货和包裹丢失申报，都要靠它们。"
+      ],
+      "postParagraphs": [
+        "4CW5Y 不是优惠券，也没有折扣。它是 SHEIN 的推荐码，在 App 的搜索栏搜索即可，不能和其他优惠叠加。店铺规则请看 [SHEIN 页面](/zh-hans/coupons/shein)，店铺运营和口碑请看 [SHEIN 靠谱吗？](/zh-hans/reviews/shein-trust-guide-zh-hans)。"
+      ],
+      "images": [
+        {
+          "src": "/images/reviews/shein/shein-vale-a-pena-casaco-motf-aberto.webp",
+          "alt": "模特穿着米白色 MOTF PREMIUM 长款羊毛大衣，敞开搭配白衬衫和米色短裤，脚上是印花靴",
+          "caption": "SHEIN 官方照片。商品说明补充了照片没有说明的内容：只能干洗，而且没有内里。",
+          "objectFit": "contain",
+          "aspectRatio": 0.7506
+        }
+      ]
+    },
+    {
+      "heading": "适合哪些人",
+      "bullets": [
+        "每天穿的基本款，例如 T恤、紧身裤、袜子：订单超过包邮门槛，就值得买。",
+        "还有一个月时间的场合服装：看过商品说明和尺码表再买，就值得。",
+        "有日期要求的人：没有当地发货就别买。",
+        "贵的羊毛或定制剪裁单品：只适合已经知道尺码，并且愿意用退货代替试穿的人。",
+        "下单前一定要试穿的人：不适合。"
+      ],
+      "emphasis": "如果是我，会买基本款的 T恤，羊毛大衣就留在店里。"
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "SHEIN 值得买吗？如果你知道尺码，又能等待配送，就值得。“适合哪些人”一章会说明哪些买了划算，哪些不划算。",
+        "在 SHEIN 买贵的衣服值得吗？只适合已经知道尺码，并且愿意用退货代替试穿的人。",
+        "SHEIN 还值得买吗？值得，前提是订单超过包邮门槛；其他情况要看配送时间和商品说明。",
+        "SHEIN 能换尺码吗？要看国家。各地的退换货政策，都写在 SHEIN 帮助中心。",
+        "4CW5Y 能在 SHEIN 打折吗？不能。它是推荐码，要在 App 搜索，不是优惠券，也不能和其他优惠叠加。"
+      ]
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "你知道衣服的厘米尺码，也能等待商品页面上显示的配送时间。",
+      "买的是你本来就会买的基本款，订单超过包邮门槛。",
+      "商品说明写了材质、内里和洗涤方式，对你来说没有意外。"
+    ],
+    "skipIf": [
+      "日期前必须送到，却没有当地发货。下单处理加上配送，一周内很少能完成。",
+      "买之前必须试穿，不合身就得退货。",
+      "是贵的单品，但你没有看洗涤方式和内里。只能干洗又没有内里的大衣，只适合早就知道自己要什么的人。"
+    ]
+  }
+}

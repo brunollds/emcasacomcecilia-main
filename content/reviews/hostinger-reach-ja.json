@@ -209,7 +209,8 @@
         "Hostinger Reach に WhatsApp はある？ あります。Pro だけです。1通ごとの料金はページに書かれていないので、管理画面で確認してください。",
         "Reach 500 とは何？ カートで Grow に付いている名前で、宛先500件の上限を指します。月3,500通送れます。",
         "Hostinger Reach と Mailchimp、どちらが良い？ 宛先が1,000件までなら Reach です。無料で始めたい、またはリストがもっと大きいなら Mailchimp か Brevo です。",
-        "SONAR20 は Hostinger Reach でも使える？ 使えます。Bruno が試した Reach 500 の24か月プランで、割引が反映されました。ほかのプランや期間は試していないので、カートで確認してください。"
+        "SONAR20 は Hostinger Reach でも使える？ 使えます。Bruno が試した Reach 500 の24か月プランで、割引が反映されました。ほかのプランや期間は試していないので、カートで確認してください。",
+        "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
       ]
     },
     {
@@ -232,16 +233,13 @@
   "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も Reach は使っていません。",
   "relatedArticles": [
     {
-      "slug": "hostinger-referral-code-ja",
-      "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      "slug": "hostinger-referral-code-ja"
     },
     {
-      "slug": "hostinger-trust-guide-ja",
-      "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+      "slug": "hostinger-trust-guide-ja"
     },
     {
-      "slug": "hostinger-domain-ja",
-      "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 更新料と確認すべきこと"
+      "slug": "hostinger-domain-ja"
     }
   ],
   "decision": {

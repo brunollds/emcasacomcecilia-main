@@ -14,7 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Probiótica ou Integralmédica: creatina e whey comparados pelo preço por 100 g de creatina e de proteína, com o rótulo de cada uma, o cupom PRO10EMCASACOMCECILIA e a origem das duas marcas.",
+  "description": "A Integralmédica sai mais barata por 100 g de creatina e de proteína nos tamanhos comparados. Veja os rótulos, o efeito do cupom PRO10EMCASACOMCECILIA e qual escolher por perfil.",
+  "metaDescription": "Probiótica ou Integralmédica, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina pelo rótulo e pelo preço por 100 g.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
   "draft": false,
@@ -250,24 +251,19 @@
   },
   "relatedArticles": [
     {
-      "slug": "probiotica-ou-dux",
-      "title": "Probiótica ou Dux: whey e creatina comparados por dose, proteína e preço"
+      "slug": "probiotica-ou-dux"
     },
     {
-      "slug": "probiotica-ou-growth",
-      "title": "Probiótica ou Growth: whey e creatina comparados por dose, proteína e preço"
+      "slug": "probiotica-ou-growth"
     },
     {
-      "slug": "max-titanium-ou-probiotica",
-      "title": "Max Titanium ou Probiótica: whey e creatina lado a lado (proteína por dose, preço por 100 g e cupom)"
+      "slug": "max-titanium-ou-probiotica"
     },
     {
-      "slug": "black-skull-ou-integralmedica",
-      "title": "Black Skull ou Integralmédica: whey e creatina pelo rótulo, preço por 100 g de proteína e de creatina"
+      "slug": "black-skull-ou-integralmedica"
     },
     {
-      "slug": "probiotica-e-confiavel",
-      "title": "Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação"
+      "slug": "probiotica-e-confiavel"
     }
   ]
 }

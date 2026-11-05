@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "O preço de cada tipo de bebida Dolce Gusto na loja oficial, por cápsula e por xícara, quantas bebidas saem de cada caixa, quanto custa cada bebida na caixa, no DGusta, no combo e na assinatura e como chegar aos R$ 100 do frete grátis e do cupom CECI.",
-  "metaDescription": "Quanto custa uma cápsula Dolce Gusto e cada bebida: preço por xícara, Cappuccino de 2 cápsulas, NEO, caixa, DGusta, combo e assinatura na loja oficial.",
+  "description": "A bebida de duas cápsulas Dolce Gusto custa o dobro da de uma, e o combo foi a forma mais barata de comprar. Veja o preço por cápsula, por caixa e por xícara.",
+  "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Quanto custa cada bebida Dolce Gusto: preço por cápsula, caixa, xícara, combo e assinatura.",
   "publishedAt": "12 de outubro de 2026",
   "publishedAtISO": "2026-10-12",
   "draft": false,
@@ -377,16 +377,13 @@
   "editorialNote": "Podemos receber comissão da Dolce Gusto. Preços das páginas oficiais da loja.",
   "relatedArticles": [
     {
-      "slug": "melhores-capsulas-dolce-gusto-2026",
-      "title": "Qual sabor de cápsula Dolce Gusto escolher: guia por perfil, Original e NEO"
+      "slug": "melhores-capsulas-dolce-gusto-2026"
     },
     {
-      "slug": "assinatura-dolce-gusto-vale-a-pena",
-      "title": "Assinatura Dolce Gusto vale a pena? Valor, cupom CECI e máquina grátis"
+      "slug": "assinatura-dolce-gusto-vale-a-pena"
     },
     {
-      "slug": "black-friday-dolce-gusto",
-      "title": "Black Friday Dolce Gusto 2026: quando começa, preços de máquinas e cápsulas e o cupom CECI"
+      "slug": "black-friday-dolce-gusto"
     }
   ]
 }

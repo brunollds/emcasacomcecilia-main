@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Nanlac Supreme Pro e Nanlac Comfor HMO, as duas fórmulas infantis de primeira infância da Nestlé para 1 a 3 anos: o que cada lata declara, alérgicos, preparo, os lotes do Comfor no recolhimento e o preço na Nestlé Nutre em 17/10/2026.",
-  "metaDescription": "Nanlac Supreme Pro ou Comfor HMO (1 a 3 anos): HMO, proteína, DHA, ARA, GOS e FOS, preparo, preço por litro e os lotes do Comfor no recolhimento.",
+  "description": "Nanlac Supreme Pro ou Comfor HMO, fórmulas da Nestlé para 1 a 3 anos: o Supreme Pro declara mais HMOs, o Comfor tem GOS, FOS e menor preço. Veja o rótulo lado a lado.",
+  "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Nanlac Supreme Pro ou Comfor HMO (1 a 3 anos): HMO, DHA, ARA, GOS, FOS e preço por litro.",
   "publishedAt": "17 de outubro de 2026",
   "publishedAtISO": "2026-10-17",
   "draft": false,
@@ -314,16 +314,13 @@
   "editorialNote": "Comparativo feito com rótulos e páginas oficiais, sem orientação médica. Não recebemos os produtos. Podemos receber comissão pela Nestlé Nutre.",
   "relatedArticles": [
     {
-      "slug": "nanlac-supreme-pro-1-a-3-anos",
-      "title": "Nanlac Supreme Pro 1 a 3 anos: composição, preparo e quanto rende a lata de 800 g"
+      "slug": "nanlac-supreme-pro-1-a-3-anos"
     },
     {
-      "slug": "cupom-ceci-nestle-nutre-como-usar",
-      "title": "Cupom Nestlé Nutre CECI: como usar o desconto de 10%"
+      "slug": "cupom-ceci-nestle-nutre-como-usar"
     },
     {
-      "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo",
-      "title": "Leite Ninho: tipos, qual usar no bolo e onde comprar com desconto"
+      "slug": "guia-linha-ninho-nestle-leite-vs-composto-lacteo"
     }
   ]
 }

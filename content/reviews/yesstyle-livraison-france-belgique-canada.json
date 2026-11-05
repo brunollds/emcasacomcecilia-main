@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Ce que YesStyle publie sur la livraison, les délais, la livraison gratuite, les taxes, les retours et le paiement en France, en Belgique et au Canada, et comment se faire rembourser les frais de douane.",
+  "description": "YesStyle livre en France, en Belgique et au Canada, avec livraison gratuite au-dessus d'un minimum selon le pays. Voyez la grille des délais et le chapitre des taxes.",
   "metaDescription": "YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, livraison gratuite et taxes d'après la grille de la boutique du 13 octobre 2026.",
   "publishedAt": "13 octobre 2026",
   "publishedAtISO": "2026-10-13",
@@ -233,16 +233,13 @@
   "editorialNote": "Règles tirées des pages officielles de YesStyle. Commission possible sur les achats.",
   "relatedArticles": [
     {
-      "slug": "yesstyle-ou-stylevana-que-choisir",
-      "title": "YesStyle ou Stylevana : livraison, taxes et retours côte à côte, avec Olive Young, StyleKorean et Jolse"
+      "slug": "yesstyle-ou-stylevana-que-choisir"
     },
     {
-      "slug": "yesstyle-est-il-fiable-et-sur",
-      "title": "YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter"
+      "slug": "yesstyle-est-il-fiable-et-sur"
     },
     {
-      "slug": "code-recompense-yesstyle-cecilia010",
-      "title": "YesStyle CECILIA010 : code de récompense"
+      "slug": "code-recompense-yesstyle-cecilia010"
     }
   ]
 }

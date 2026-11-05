@@ -172,7 +172,7 @@
     {
       "heading": "SONAR20 coupon",
       "paragraphs": [
-        "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. We did not test the renewal; check the price in the cart. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+        "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
       ],
       "postParagraphs": [
         "Hostinger is running a Black Friday campaign, and prices change. See [Hostinger's Black Friday](/en/reviews/hostinger-black-friday) and check the amount in the cart before you pay."
@@ -184,7 +184,8 @@
         "Is Hostinger's managed OpenClaw worth it? It is for people who want the assistant without looking after a server: it costs less than the VPS in the first period and renews at the same price. Anyone who wants root access and other programs on the server is better off with the VPS.",
         "Do you need an OpenAI or Anthropic account? No. On both options you can use Hostinger's AI credits. You only need an account with a provider if you prefer your own key.",
         "Is there a Hostinger discount coupon for OpenClaw? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period.",
-        "Does the managed plan work for Hermes Agent or Paperclip? Yes. All three are on the same plan, \"AI automation apps\", at the same price. The Paperclip page does not list AI credits, so bring your own key."
+        "Does the managed plan work for Hermes Agent or Paperclip? Yes. All three are on the same plan, \"AI automation apps\", at the same price. The Paperclip page does not list AI credits, so bring your own key.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
     {
@@ -197,7 +198,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. We have not tested renewal; check the renewal price in the cart.",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -207,16 +208,13 @@
   "editorialNote": "Purchases made with the SONAR20 code or through the link may earn Bruno a commission, at no extra cost to you. Nobody on the team uses OpenClaw.",
   "relatedArticles": [
     {
-      "slug": "hostinger-coupon-code-referral",
-      "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+      "slug": "hostinger-coupon-code-referral"
     },
     {
-      "slug": "is-hostinger-legit",
-      "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+      "slug": "is-hostinger-legit"
     },
     {
-      "slug": "hostinger-black-friday",
-      "title": "Hostinger Black Friday 2026: the SONAR20 coupon takes another 20% off the campaign price"
+      "slug": "hostinger-black-friday"
     }
   ],
   "decision": {

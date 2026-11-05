@@ -425,3 +425,10 @@ Redigido em 12/10/2026 (Job 2: Claude), revisado no Job 3 por outro agente e con
 **Imagens (no CDN desde 12/10/2026, com o OK do Bruno):** `codigo-de-indicacao-shein-busca-capa.webp` (capa, composição nossa com as telas); `shein-busca-site-movel-antes.webp`, `shein-busca-4cw5y.webp` e `shein-busca-4cw5y-resultado.webp` (M1 a M3): quadros da gravação do site móvel da SHEIN Brasil, sem teclado, recortados para tirar a camiseta com slogan político. A foto do carrinho (M4) não se publica.
 
 **Gates (12/10/2026):** typecheck, eslint, `test:review-i18n` (10 famílias, as três da fase 4 inclusas), `validate:video`, `test-delivery-integration` e os testes de mídia verdes. O `validate:content` só acusa a oferta vencida da YesStyle (1010VIBES), que espera o PR do Bruno; a build completa e as provas de entrega rodam depois dele.
+
+## Correção: sem "SHEIN Brasil" (04/11/2026)
+Regra do Bruno de 02/11/2026 (`00_Sistema/CONTRATOS-DE-CONTEUDO.md`, seção 2, e `03_Memoria/Clusters-Multilingues/SHEIN.md`): a SHEIN é plataforma global, e nenhum texto diz "SHEIN Brasil", nem em português. Seis trocas no PT:
+- As telas do passo a passo (o parágrafo, a legenda do passo 1 e os três alts) dizem "site da SHEIN", "Barra de busca da SHEIN" e "Página da SHEIN".
+- O FAQ "O 4CW5Y funciona fora do Brasil?" respondia "A SHEIN não diz. O código é da SHEIN Brasil e pode não valer na SHEIN de outro país.", o que a regra desmente. Decisão do Bruno (04/11): responder por ela, com "Sim. O código de indicação é da SHEIN, sem país: a SHEIN leva cada pessoa à loja da região dela." A pergunta só existe no PT; as traduções têm 9 itens no FAQ.
+
+As 9 traduções já estavam sem o termo desde o #493 e não mudaram. O registro das traduções (Job 4) e o das imagens, acima, ainda dizem "SHEIN Brasil"; vale a regra. PR #566.

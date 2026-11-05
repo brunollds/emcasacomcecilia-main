@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Como usar o cupom CECILIA10 na Black Skull e ganhar 10% de desconto em todo o site: passo a passo na sacola com os prints do nosso teste de 13/10/2026, promoções, frete grátis por região, primeira compra e trocas.",
-  "metaDescription": "Cupom Black Skull CECILIA10: 10% em todo o site, testado na sacola em 13/10/2026. Veja como aplicar, o desconto nos itens em promoção e o frete grátis.",
+  "description": "O cupom CECILIA10 dá 10% de desconto em todo o site da Black Skull e soma com as promoções. Veja o passo a passo na sacola e como o frete muda o total.",
+  "metaDescription": "O CECILIA10 dá 10% em todo o site da Black Skull, testado na sacola. Veja como aplicar, o desconto nos itens em promoção e o frete grátis.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
   "draft": false,
@@ -188,12 +188,10 @@
   "editorialNote": "Cupom testado no checkout oficial da Black Skull. Podemos receber comissão.",
   "relatedArticles": [
     {
-      "slug": "black-skull-e-confiavel",
-      "title": "Black Skull é confiável? De quem é a marca, site oficial, trocas e frete"
+      "slug": "black-skull-e-confiavel"
     },
     {
-      "slug": "black-skull-reclame-aqui-nota-reputacao",
-      "title": "Black Skull no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "black-skull-reclame-aqui-nota-reputacao"
     }
   ]
 }

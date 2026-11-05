@@ -1,6 +1,7 @@
 ---
 titulo_provisorio: "" # H1 humano e específico (PROIBIDO fórmulas vagas como "Tudo o que você precisa saber")
 seo_title: "" # SERP title (máx ~60 caracteres, recuar se disputar cupom)
+meta_description: "" # código e % na 1ª frase, até 155 caracteres, sem data nem R$ (Job 1, "Snippet com o código")
 slug_sugerido: ""
 parceiro: "" # Ex: "[[Dolce-Gusto]]", "[[I-Wanna-Sleep]]", "[[Nestle-Nutre]]", "[[DAMIE]]"
 category: "" # guias-praticos-utilidade | produtos-experiencias | cupons-como-usar | confianca-reputacao

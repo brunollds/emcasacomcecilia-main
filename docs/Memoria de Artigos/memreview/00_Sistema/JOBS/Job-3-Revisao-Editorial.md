@@ -26,7 +26,7 @@ Auditar rigorosamente o rascunho antes da conversão técnica, garantindo integr
   traduções que o Job 4 escreve.
 - [ ] **8. Nome do Código:** Cada código é chamado pelo que ele é na loja? O
   `CECILIA010` da YesStyle é código de recompensa, nunca cupom; o `4CW5Y` da SHEIN é
-  código de indicação da SHEIN Brasil. Não há código de terceiros nem cupom
+  código de indicação da SHEIN, nunca "SHEIN Brasil" (regra de 02/11). Não há código de terceiros nem cupom
   promocional da YesStyle no texto (`CONTRATOS-DE-CONTEUDO.md`).
 - [ ] **9. Imagens no corpo:** o Plano de imagens do Job 2 traz **pelo menos uma
   imagem no corpo além da capa**, sem repetir imagem e sem fugir do tema da seção?

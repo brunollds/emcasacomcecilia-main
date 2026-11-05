@@ -162,6 +162,45 @@ const [semCodigoTab] = getHomeStoreTabs([], [semCodigo]);
 assert.equal(semCodigoTab.code, undefined);
 assert.equal(semCodigoTab.label, 'SHEIN');
 
+// O código com prazo da aba vale pela hora recebida (`now`, a do build no test:build-output), não pelo relógio. O cupom
+// é montado aqui, com datas fixas: os dados reais perdem os prazos que vencem.
+const limitedBase = COUPONS.find((coupon) => coupon.offerMode === 'discount-code' && !coupon.tiers);
+assert.ok(limitedBase && limitedBase.offerMode === 'discount-code', 'nenhuma loja de código sem faixas para o teste');
+const limitedWindow = (code: string, startsAt: string, endsAt: string) => ({
+  code,
+  discount: '15% OFF',
+  startsAt,
+  endsAt,
+  testedAt: '2026-01-01',
+  testNote: 'deu 15% no carrinho',
+});
+const limitedStore: Coupon = {
+  ...limitedBase,
+  limitedCodes: [
+    limitedWindow('PRAZOUM', '2026-01-05T00:00:00-03:00', '2026-01-08T23:59:59-03:00'),
+    limitedWindow('PRAZODOIS', '2026-01-20T00:00:00-03:00', '2026-01-21T23:59:59-03:00'),
+  ],
+};
+const limitedAt = (iso: string) =>
+  getHomeStoreTabs([], [limitedStore], Date.parse(iso))[0].limitedCodes?.map(({ code, inHtml, deadline }) => [code, inHtml, deadline]);
+assert.deepEqual(
+  limitedAt('2026-01-01T12:00:00-03:00'),
+  [
+    ['PRAZOUM', false, 'Por tempo limitado: até 8 de janeiro'],
+    ['PRAZODOIS', false, 'Por tempo limitado: até 21 de janeiro'],
+  ],
+  'antes dos prazos: os dois só no payload'
+);
+assert.deepEqual(
+  limitedAt('2026-01-06T12:00:00-03:00'),
+  [
+    ['PRAZOUM', true, 'Por tempo limitado: até 8 de janeiro'],
+    ['PRAZODOIS', false, 'Por tempo limitado: até 21 de janeiro'],
+  ],
+  'no 1º prazo: ele no HTML, o 2º só no payload'
+);
+assert.equal(limitedAt('2026-01-22T00:00:00-03:00'), undefined, 'depois do último prazo, a aba fica sem limitedCodes');
+
 // Abas com os dados de hoje.
 const tabs = getHomeStoreTabs(publishedReviews);
 const bySlug = new Map(tabs.map((tab) => [tab.slug, tab]));

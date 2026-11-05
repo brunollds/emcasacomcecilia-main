@@ -171,7 +171,7 @@
     {
       "heading": "쿠폰 SONAR20",
       "paragraphs": [
-        "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요. 코드를 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
+        "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 코드를 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
       ],
       "postParagraphs": [
         "호스팅어는 블랙프라이데이 행사 중이며 가격이 달라집니다. [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)를 보고, 결제하기 전에 장바구니에서 금액을 확인하세요."
@@ -183,7 +183,8 @@
         "호스팅어의 관리형 OpenClaw는 살 만한가요? 서버를 직접 관리하고 싶지 않은 사람에게 가치가 있습니다. 첫 기간에는 VPS보다 저렴하고 갱신가는 같습니다. root와 서버의 다른 프로그램이 필요하다면 VPS가 더 맞습니다.",
         "OpenAI나 Anthropic 계정이 필요한가요? 아니요. 두 방식 모두 호스팅어 AI 크레딧을 쓸 수 있습니다. 제공업체 계정은 직접 가진 API 키를 쓰고 싶을 때만 필요합니다.",
         "OpenClaw용 호스팅어 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간에 20%가 할인됩니다.",
-        "관리형 플랜으로 Hermes Agent나 Paperclip도 쓸 수 있나요? 네. 세 가지 모두 같은 \"AI 자동화 앱\" 플랜에 같은 가격으로 있습니다. Paperclip 페이지에는 AI 크레딧이 나와 있지 않으니 직접 가진 키를 쓰세요."
+        "관리형 플랜으로 Hermes Agent나 Paperclip도 쓸 수 있나요? 네. 세 가지 모두 같은 \"AI 자동화 앱\" 플랜에 같은 가격으로 있습니다. Paperclip 페이지에는 AI 크레딧이 나와 있지 않으니 직접 가진 키를 쓰세요.",
+        "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
       ]
     },
     {
@@ -196,7 +197,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신은 테스트하지 않았으니 장바구니에서 가격을 확인하세요.",
+    "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
     "label": "SONAR20 할인 플랜 보기",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -206,16 +207,13 @@
   "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 OpenClaw를 쓰지 않습니다.",
   "relatedArticles": [
     {
-      "slug": "hostinger-referral-code-ko",
-      "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+      "slug": "hostinger-referral-code-ko"
     },
     {
-      "slug": "hostinger-trust-guide-ko",
-      "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+      "slug": "hostinger-trust-guide-ko"
     },
     {
-      "slug": "hostinger-black-friday-ko",
-      "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
+      "slug": "hostinger-black-friday-ko"
     }
   ],
   "hideFromPortugueseListings": true,

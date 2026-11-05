@@ -15,8 +15,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Nunca usei nem protetor solar e, aos 30, testei uma rotina de skincare coreano com três produtos da Abib que recebi da YesStyle: adesivo de hidrogel para os olhos, creme booster com PDRN e retinal e máscara labial em gel.",
-  "metaDescription": "Skincare coreano aos 30 para iniciantes: testei o adesivo de olhos, o creme PDRN e a lip mask da Abib. Textura, cheiro, como usar e o código CECILIA010 na YesStyle.",
+  "description": "Aos 30, testei uma rotina de iniciante com três produtos da Abib da YesStyle: adesivo de olhos, creme com PDRN e máscara labial. Veja minhas impressões e o CECILIA010.",
+  "metaDescription": "Skincare coreano aos 30 com o código CECILIA010 e até 5% extra na YesStyle: testei o adesivo de olhos, o creme PDRN e a lip mask da Abib.",
   "publishedAt": "28 de setembro de 2026",
   "publishedAtISO": "2026-09-28",
   "draft": false,
@@ -248,16 +248,13 @@
   "editorialNote": "Produtos enviados pela YesStyle; o site ganha comissão nos links e no Reward Code CECILIA010.",
   "relatedArticles": [
     {
-      "slug": "k-beauty-o-que-e-onde-comprar",
-      "title": "K-Beauty: o que é e onde comprar produtos coreanos"
+      "slug": "k-beauty-o-que-e-onde-comprar"
     },
     {
-      "slug": "yesstyle-e-confiavel",
-      "title": "YesStyle é confiável? Procedência, prazos e devolução"
+      "slug": "yesstyle-e-confiavel"
     },
     {
-      "slug": "como-encontrar-cupons-yesstyle-validos",
-      "title": "Como encontrar cupons YesStyle válidos e economizar"
+      "slug": "como-encontrar-cupons-yesstyle-validos"
     }
   ]
 }

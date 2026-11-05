@@ -149,7 +149,7 @@
         "**KVM 8（32 GB）。** 只有在用更大的本機模型時才有意義。文件沒有說每個大配方需要多少記憶體。"
       ],
       "postParagraphs": [
-        "代碼 SONAR20 在第一個週期享有 20% 折扣。我們沒有測試續約；請在購物車裡確認價格。[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，付款前請在購物車裡確認金額。Hostinger 正值黑色星期五，價格會變動：[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
+        "代碼 SONAR20 在第一個週期享有 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，付款前請在購物車裡確認金額。Hostinger 正值黑色星期五，價格會變動：[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
       ]
     },
     {
@@ -227,7 +227,7 @@
       "heading": "SONAR20 優惠碼",
       "paragraphs": [],
       "postParagraphs": [
-        "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。我們沒有測試續約；請在購物車裡確認價格。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+        "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
       ]
     },
     {
@@ -237,7 +237,8 @@
         "可以不用 API 金鑰執行嗎？可以，用本機模型，但這時記憶體就成了問題：文件把最小本機配方的下限定為 8 GiB（上下文 64K），並提醒這不保證模型放得下，也不保證跑得好。用 Hostinger 額度的話，不需要 AI 供應商的帳號，但要按使用量付費。",
         "Oracle 真的免費嗎？只要帳號維持在 Always Free 範圍內，就是免費的：Arm A1 上 2 個 OCPU 和 12 GB，外加 Micro 執行個體。如果執行個體閒置 7 天，CPU、網路和記憶體都低於 20%，Oracle 可能把它回收。",
         "Mac mini 還是 VPS？取決於電腦能不能 24 小時開著。能的話，在家執行可以省掉伺服器月費；不能的話，選 VPS 或託管。",
-        "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。我們沒有測試續約；請在購物車裡確認價格。"
+        "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
       ]
     },
     {
@@ -250,7 +251,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。我們沒有測試續約，請在購物車裡確認價格。",
+    "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -260,16 +261,13 @@
   "editorialNote": "透過代碼 SONAR20 或連結購買，Bruno 可能獲得佣金，你無須額外付費。團隊裡沒有人在用 OpenClaw。",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
-      "title": "OpenClaw 在 Hostinger：託管還是 VPS？各自要做什麼，以及適合誰"
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hant"
     },
     {
-      "slug": "openclaw-vs-hermes-agent-zh-hant",
-      "title": "OpenClaw 還是 Hermes Agent？怎麼選，以及在 Hostinger 上各自怎麼跑"
+      "slug": "openclaw-vs-hermes-agent-zh-hant"
     },
     {
-      "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      "slug": "hostinger-referral-code-zh-hant"
     }
   ],
   "decision": {

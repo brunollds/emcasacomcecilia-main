@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Faqueiro Laguiole La Maison Luxo de 12, 18 ou 30 peças: o que vem em cada um, as cores com estoque e o preço de cada cor na Let's Eat It, de R$ 469,00 a R$ 1.099,00, e o que a ficha não diz.",
-  "metaDescription": "Faqueiro Laguiole La Maison de 12, 18 ou 30 peças: o que vem em cada um, cores com estoque e preço por cor. Preços de 29/10/2026.",
+  "description": "Faqueiro Laguiole La Maison de 12, 18 ou 30 peças: o que vem em cada um, as cores com estoque e o preço de cada cor na Let's Eat It, para escolher o conjunto certo para a sua mesa.",
+  "metaDescription": "Faqueiro Laguiole La Maison com o cupom MAUAD de 5% OFF: 12, 18 ou 30 peças, o que vem em cada um e as cores com estoque.",
   "publishedAt": "29 de outubro de 2026",
   "publishedAtISO": "2026-10-29",
   "draft": false,
@@ -219,16 +219,13 @@
   "editorialNote": "Preços lidos no site da Let's Eat It. Podemos receber comissão pelo cupom MAUAD e pelo link da loja. Ninguém da equipe usou estes faqueiros.",
   "relatedArticles": [
     {
-      "slug": "mesa-posta-natal-o-que-precisa-quanto-custa",
-      "title": "Mesa posta de Natal: o que precisa, quanto custa e como montar"
+      "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
     },
     {
-      "slug": "presente-de-casamento-ideias-por-preco",
-      "title": "Presente de casamento: ideias por faixa de preço, de taças a Le Creuset"
+      "slug": "presente-de-casamento-ideias-por-preco"
     },
     {
-      "slug": "cupom-mauad-lets-eat-it-como-usar",
-      "title": "Como usar o código de desconto da Let's Eat It: 5% no site"
+      "slug": "cupom-mauad-lets-eat-it-como-usar"
     }
   ]
 }

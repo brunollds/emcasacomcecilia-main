@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "Quel forfait WordPress de Hostinger choisir pour un site, trois sites, plusieurs sites ou une boutique, et comment commencer. Prix en dollars au 30 octobre 2026, avec le renouvellement.",
+  "description": "Premium, Unlimited ou Cloud Startup : quel forfait WordPress de Hostinger choisir selon le nombre de sites, la sauvegarde et le renouvellement, et comment bien démarrer.",
   "metaDescription": "WordPress chez Hostinger : Premium, Unlimited ou Cloud Startup ? Forfait par projet, prix et renouvellement au 30 octobre 2026, et une liste pour commencer.",
   "publishedAt": "30 octobre 2026",
   "publishedAtISO": "2026-10-30",
@@ -149,7 +149,7 @@
     {
       "heading": "Code SONAR20 et prix",
       "paragraphs": [
-        "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Nous n'avons pas testé SONAR20 sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger)."
+        "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Le SONAR20 vaut sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique, sans les 20 % de SONAR20. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -166,8 +166,9 @@
         "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à 2,49 US$ par mois sur 48 mois (119,52 US$ au total), pour jusqu'à 3 sites. Il se renouvelle à 10,99 US$ par mois.",
         "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
         "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
-        "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Nous ne l'avons pas testé là-dessus ; vérifiez le prix dans le panier. Là où il fonctionne, il donne 20 % sur la première période.",
-        "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois."
+        "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Oui, il donne 20 % sur la première période ; vérifiez le prix dans le panier.",
+        "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -180,7 +181,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Nous ne l'avons pas testé sur les forfaits WordPress ; vérifiez le prix dans le panier.",
+    "text": "Saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Il vaut sur les forfaits WordPress ; vérifiez le prix dans le panier.",
     "label": "Voir les forfaits WordPress avec le SONAR20",
     "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -190,16 +191,13 @@
   "editorialNote": "Les achats faits avec le code SONAR20 ou par le lien peuvent rapporter une commission à Bruno, sans coût supplémentaire pour vous. Personne dans l'équipe n'a utilisé WordPress chez Hostinger.",
   "relatedArticles": [
     {
-      "slug": "createur-ia-hostinger-avis",
-      "title": "Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?"
+      "slug": "createur-ia-hostinger-avis"
     },
     {
-      "slug": "code-promo-hostinger-parrainage",
-      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+      "slug": "code-promo-hostinger-parrainage"
     },
     {
-      "slug": "domaine-hostinger-acheter-ou-transferer",
-      "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Renouvellement et ce qu'il faut vérifier"
+      "slug": "domaine-hostinger-acheter-ou-transferer"
     }
   ],
   "decision": {

@@ -1,0 +1,262 @@
+{
+  "id": 821,
+  "slug": "hostinger-renewal-sonar20-ja",
+  "locale": "ja",
+  "translationKey": "hostinger-renovacao-cupom",
+  "title": "Hostinger の更新：料金、SONAR20、支払う前の返金条件",
+  "seoTitle": "Hostinger の更新：料金・SONAR20・返金",
+  "type": "判断ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger の更新料は最初の期間より高くなります。各プランの料金、請求のタイミング、自動更新の止め方、返金を申請できる期限をまとめました。",
+  "metaDescription": "SONAR20 は新規の Hostinger プランが20%オフになるコードで、更新は表の料金のままです。プラン別の更新料と返金条件を確認できます。",
+  "publishedAt": "2026年11月5日",
+  "publishedAtISO": "2026-11-05",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp",
+  "imageAlt": "Hostinger のロゴと、更新カレンダーおよびレシートのアイコン",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "すでに Hostinger でホスティングか VPS を使っていて、請求の前に更新を決めたい人に向いています。",
+      "アカウントに複数のサービスがあり、何が更新され、何を止められ、ドメインのように何が対象外かを知りたい人に向いています。"
+    ],
+    "skipIf": [
+      "最初のプランを契約したいだけなら、クーポンのガイドのほうが答えになります。",
+      "ドメインを更新したいだけなら、ドメインのガイドのほうが答えになります。"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "新しいプランを契約するときは、カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。購入が20%割引になります。",
+    "label": "SONAR20 で Hostinger のプランを見る",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "このコードとリンクから、手数料を受け取る場合があります。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-referral-code-ja"
+    },
+    {
+      "slug": "hostinger-trust-guide-ja"
+    },
+    {
+      "slug": "hostinger-domain-ja"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "更新料は最初の期間より高く、自動更新は最初からオンになっています。SONAR20 は新規プランが20%オフになりますが、更新は表の料金のままです。以下で、各プランの更新料、請求のタイミング、止め方、返金を申請できる期限を確認できます。"
+      ]
+    },
+    {
+      "heading": "各プランの更新料",
+      "paragraphs": [
+        "最初の期間の料金が適用されるのは最初の期間だけで、その後に残るのは更新料の計算です。表示されている安い料金は契約した期間、つまりホスティングは48か月、VPS は24か月が対象です。期間が終わると、Hostinger は同じ期間で、最後の列の料金で更新します。"
+      ],
+      "postParagraphs": [
+        "私たちの計算：表の料金で Premium をさらに48か月更新するとUS$527.52かかり、最初の期間のUS$95.52の5倍を超えます。",
+        "2つのプランで迷ったら、最初の期間の列ではなく更新料の列で比べてください。最初の期間が終わったあと、予算に残るのはそちらです。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-ja.webp",
+        "alt": "Hostinger のプランの月額を、最初の期間と更新で比べた棒グラフ。ホスティングは Premium、Unlimited、Cloud Startup、VPS は KVM 1、2、4、8で、どのプランも更新のほうが高い",
+        "caption": "各プランを2本の棒で表示：最初の期間と更新の月額。Hostinger のページの料金をもとにした Em Casa com Cecília の図。",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      },
+      "comparisonTable": {
+        "caption": "11月4日時点の Hostinger の料金。米ドル、クーポンなし。",
+        "headers": [
+          "プラン",
+          "最初の期間（月額）",
+          "期間",
+          "最初の期間の合計",
+          "更新料（月額）"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$1.99",
+            "48か月",
+            "US$95.52",
+            "US$10.99"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$2.79",
+            "48か月",
+            "US$133.92",
+            "US$16.99"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$7.99",
+            "48か月",
+            "US$383.52",
+            "US$25.99"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$6.49",
+            "24か月",
+            "US$155.76",
+            "US$11.99"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$8.79",
+            "24か月",
+            "US$210.96",
+            "US$14.99"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$12.99",
+            "24か月",
+            "US$311.76",
+            "US$28.99"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$25.99",
+            "24か月",
+            "US$623.76",
+            "US$49.99"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "SONAR20 と更新",
+      "paragraphs": [
+        "SONAR20 は新規購入が20%オフになるコードで、更新は表の最後の列の料金になります。Hostinger の紹介プログラムの規約では、20%の割引は新規購入にのみ適用され、ドメインはどの場合もコードの対象外です。",
+        "そのため、更新する人の計算は割引なしの更新料の列になります。コードが使えるのは新しいプランを契約するときです。入力する場所の手順は[Hostinger クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)に、**SONAR20** のルールは[Hostinger クーポン](/ja/coupons/hostinger)のページにあります。"
+      ]
+    },
+    {
+      "heading": "Hostinger が更新料を請求するタイミング",
+      "paragraphs": [
+        "自動更新がオンなら、請求は期限の前に来ます。どれだけ前かはプランで違います。Hostinger のヘルプセンターによると、保存された支払い方法に請求されるのは次のときです。"
+      ],
+      "bullets": [
+        "1年以上のホスティングプランは、期限の14日前。",
+        "月払いのプランは、期限の当日。",
+        "ドメインは、期限の27日前。"
+      ],
+      "postParagraphs": [
+        "日付は多少前後することがあります。更新まで1日以下しかない場合、そのサイクルでは自動で更新されず、手動で更新する必要があります。この日付の前後は、支払い方法に残高を入れておいてください。",
+        "いつでも手動で更新するには、請求、サブスクリプションの順に開き、サービスの横の更新をクリックします。税抜きの更新料は、その更新料の列に表示されます。プランの期限が近づくと、パネルのサイト一覧にあるそのプランのカードに、日付と更新ボタンが出ます。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-cobranca-ja.webp",
+        "alt": "Hostinger の自動更新のタイムライン：年間ホスティングは期限の14日前、月払いは期限の当日、ドメインは27日前に請求され、返金を申請できる30日は請求日から数え、ドメインの更新は返金されない",
+        "caption": "請求のタイミングと、返金を申請できる期限。Hostinger のヘルプセンターと返金ポリシーをもとにした Em Casa com Cecília の図。",
+        "objectFit": "contain",
+        "aspectRatio": 0.9677
+      }
+    },
+    {
+      "heading": "自動更新の止め方",
+      "paragraphs": [
+        "自動更新はサービスごとに止められ、プランは期限まで使えます。手順は次のとおりです。"
+      ],
+      "bullets": [
+        "Hostinger のパネルでプロフィールを開き、請求に入ります。",
+        "サブスクリプションを開きます。",
+        "サービスを見つけて、横のスイッチをオフにします。",
+        "Hostinger がその商品について開く注意のページを読み、確認します。オンに戻すには、もう一度スイッチをクリックするだけです。"
+      ],
+      "postParagraphs": [
+        "止めてもサービスの状態は変わらず、期限まで有効で、再び請求されることもありません。すでに請求された分は、この方法では戻りません。返金には別のルールがあり、次の章で説明します。未払いの請求書がある月払いのプランでは、請求書が取り消され、契約はサイクルの終わりに期限切れになります。一部が支払い済みの請求書、適用済みのクレジット、1年以上のサイクルでは、Hostinger の AI アシスタント経由でサポートに連絡する必要があるかもしれません。",
+        "判断で効く点が2つあります。更新時にプランの期間を変えるには、自動更新がオンになっている必要があります。また、プランが期限切れになると、そのカードの通知にあるとおりサイトは表示されなくなります。迷ったら、更新しないと決めてからスイッチをオフにしてください。"
+      ]
+    },
+    {
+      "heading": "更新後の返金",
+      "paragraphs": [
+        "更新すると、返金を申請できる新しい30日間が始まります。例外もあります。ストアの案内：商品は取引日から30日以内にキャンセルした場合のみ返金でき、Hostinger が更新を処理した日が取引日になります。"
+      ],
+      "bullets": [
+        "通常の返金あり：すべてのプランのホスティング（無料トライアルのあとの最初の支払いを除く）と、VPS KVM（アップグレードを除く）。",
+        "返金なし：ドメインの更新、完了したドメイン移管、プライバシー保護、VPS ライセンス、VPS KVM のアップグレード、AI クレジット、有料サポート。",
+        "VPS にはもう1つルールがあります。返金は30日以内に申請し、かつ別の VPS プランの前回の返金申請が180日より前の場合に限られます。過去180日以内に別の VPS の返金を申請した人は、この VPS の返金を受けられません。"
+      ],
+      "postParagraphs": [
+        "時計が動き出すのは期限ではなく請求の日です。期限の14日前に請求される年間プランでは、30日は期限日の2週間ほど後に終わります。請求の日を控えておいてください。30日を過ぎると、申請は無効です。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-reembolso-ja.webp",
+        "alt": "Hostinger の更新後の返金の一覧：ホスティングと VPS KVM は請求日から30日で例外あり、ドメインの更新は返金されない",
+        "caption": "更新後に返金されるものを、サービス別にまとめました。Hostinger の返金ポリシーをもとにした Em Casa com Cecília の図。",
+        "objectFit": "contain",
+        "aspectRatio": 1.0909
+      }
+    },
+    {
+      "heading": "ドメインは対象外",
+      "paragraphs": [
+        "ドメインは更新の返金がなく、SONAR20 も使えないため、別に判断が必要です。更新のスイッチはパネルのドメインの画面に別にあり、期限の27日前に請求されます。短い返金期間があるのは新規登録だけで96時間です。更新にはありません。",
+        "その請求の前に、ドメインを決めてください。料金を確認し、このレジストラに置く必要があるかを確かめてから、更新させます。登録、移管、ドメインを外に置く方法は[Hostinger のドメイン](/ja/reviews/hostinger-domain-ja)にあります。"
+      ]
+    },
+    {
+      "heading": "更新する前に決めること",
+      "paragraphs": [
+        "更新の前に決め手になるのは、最初の購入の料金ではなく、更新料と請求の日付です。Em Casa com Cecília は2024年から Hostinger で動いていて、ホスティング、VPS KVM 2、メール、ドメインのすべてで自動更新をオンにしています。私たちにとって更新は家計の支出で、来る前に金額を知っておくのが一番です。"
+      ],
+      "bullets": [
+        "サブスクリプションで、各サービスの更新料を確認する。",
+        "サービスごとに、自動更新をオンのままにするか決める。",
+        "請求の日を控える。返金期間はその日から数える。",
+        "その日の前後は、支払い方法に残高を入れておく。",
+        "ドメインは別に扱い、料金も判断も個別にする。"
+      ],
+      "postParagraphs": [
+        "迷ったら、使っているものは自動更新をオンのままにして、手放すと決めたものだけをオフにしてください。"
+      ],
+      "emphasis": "更新は、請求が来る前に落ち着いて決めるもので、期限の当日に決めるものではありません。"
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "Hostinger のクーポンは更新で使えますか？ いいえ。SONAR20 は新規購入が20%オフになるコードで、更新は表の料金のままです。コードが使える場所は SONAR20 の章で説明しています。",
+        "Hostinger の自動更新はどうやって止めますか？ 請求、サブスクリプションでサービスのスイッチをオフにします。期限までは有効なままです。手順は止め方の章にあります。",
+        "Hostinger は更新の返金に応じますか？ はい。ホスティングと VPS KVM は請求から30日以内です。ドメインの更新は返金されません。例外は返金の章にあります。",
+        "Hostinger はいつ自動更新を請求しますか？ 年間プランは期限の14日前、月払いは期限の当日です。ドメインには別の期限があり、請求のタイミングの章にあります。",
+        "Hostinger のプランが期限切れになるとどうなりますか？ プランのカードの通知にあるとおり、サイトは表示されなくなります。そうならないよう、期限の前に更新するか、自動更新をオンのままにしてください。"
+      ]
+    }
+  ]
+}
