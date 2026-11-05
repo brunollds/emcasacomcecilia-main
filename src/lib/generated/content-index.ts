@@ -175658,7 +175658,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "A Max Titanium é boa com o cupom MAX10EMCASACOMCECILIA de até 10% OFF? Proteína por dose e preço por 100 g do 100% Whey, Top Whey 3W, Whey Pro e IsoWhey.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-05",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/max-titanium-e-boa-capa.webp",
@@ -175667,7 +175667,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "Tabela nutricional publicada na página de cada whey, com a proteína por dose",
-      "O 100% Whey Refil é o mais barato por grama de proteína entre os wheys da tabela",
+      "O 100% Whey Refil e o Whey Pro estão entre os wheys mais baratos por grama de proteína",
       "Uma linha para cada tipo de proteína: concentrado, isolado e o blend do Top Whey 3W",
       "Cupom de até 10% que soma com as promoções do site e vale em todas as formas de pagamento"
     ],
@@ -175681,7 +175681,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é boa: o whey da Max Titanium entrega a proteína que o nome promete, e o 100% Whey Refil sai mais barato por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. A tabela do capítulo de preço traz os números."
+          "Pelo rótulo, é boa: o whey da Max Titanium entrega a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. Os números de cada whey estão no resumo abaixo."
         ]
       },
       {
@@ -175690,7 +175690,7 @@ export const reviewsData: unknown[] = [
           "A Max Titanium é uma marca brasileira de suplementos, e o whey é a linha que mais gente procura. O resto do catálogo, com o guia de cada um que já existe:"
         ],
         "bullets": [
-          "**Whey:** 100% Whey, Top Whey 3W, Whey Pro e IsoWhey, nos capítulos abaixo.",
+          "**Whey:** 100% Whey, Top Whey 3W, Whey Pro, IsoWhey e Super Whey, no resumo abaixo. O Super Whey é uma mistura com carboidrato, não um whey de dose baixa.",
           "**Creatina:** potes de 100 g a 500 g e a Creapure, de 250 g. A conta de cada pote está em [creatina Max Titanium: qual pote compensa](/reviews/creatina-max-titanium-qual-pote).",
           "**Pré-treino:** Hórus, Égide e o Night Train, sem cafeína, comparados em [Hórus ou Égide](/reviews/pre-treino-max-titanium-horus-ou-egide).",
           "**Glutamina e BCAA:** a glutamina tem guia em [glutamina: qual escolher](/reviews/glutamina-qual-escolher-black-skull-max-probiotica). O BCAA vem em cápsulas e em pó para beber, e ainda não tem guia aqui.",
@@ -175706,104 +175706,18 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Proteína por dose e preço por 100 g de proteína",
+        "heading": "Os wheys da Max, em resumo",
         "paragraphs": [
-          "Conta nossa, com a proteína da tabela nutricional: a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Quanto menor o número da última coluna, mais barata a proteína."
-        ],
-        "comparisonTable": {
-          "caption": "Preço no site, 02/11. Proteína da tabela nutricional de um sabor de cada pote.",
-          "headers": [
-            "Whey",
-            "Tipo de proteína",
-            "Proteína por dose",
-            "Proteína no pote",
-            "Preço no site",
-            "Por 100 g de proteína"
-          ],
-          "rows": [
-            [
-              "[100% Whey Refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
-              "Concentrada",
-              "21 g em 30 g",
-              "630 g",
-              "R$ 196,39",
-              "R$ 31,17"
-            ],
-            [
-              "[100% Whey Pote 900 g](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
-              "Concentrada",
-              "21 g em 30 g",
-              "630 g",
-              "R$ 210,39",
-              "R$ 33,40"
-            ],
-            [
-              "[Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
-              "Concentrada, isolada e hidrolisada",
-              "25 g em 40 g",
-              "562,5 g",
-              "R$ 189,00 (de R$ 273,55)",
-              "R$ 33,60"
-            ],
-            [
-              "[Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
-              "Concentrada, isolada e hidrolisada",
-              "32 g em 40 g",
-              "720 g",
-              "R$ 273,55",
-              "R$ 37,99"
-            ],
-            [
-              "[Top Whey 3W + Natural 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-natural-900g/p)",
-              "Concentrada, isolada e hidrolisada",
-              "26 g em 40 g",
-              "585 g",
-              "R$ 273,55",
-              "R$ 46,76"
-            ],
-            [
-              "[Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
-              "Concentrada",
-              "15 g em 40 g",
-              "375 g",
-              "R$ 126,20",
-              "R$ 33,65"
-            ],
-            [
-              "[IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
-              "Isolada",
-              "26 g em 30 g",
-              "780 g",
-              "R$ 326,18",
-              "R$ 41,82"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "O Top Whey 3W + Sabor está em promoção: no preço de lista, os 100 g de proteína dele sairiam a R$ 48,63. Os demais estão sem desconto no site."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-100-whey-refil.webp",
-            "alt": "Tabela nutricional do 100% Whey Refil 900 g, sabor baunilha: 30 g por dose, 126 kcal e 21 g de proteína",
-            "caption": "Tabela nutricional do 100% Whey Refil 900 g. Imagem: Max Titanium.",
-            "objectFit": "contain",
-            "aspectRatio": 0.6358
-          },
-          {
-            "src": "/images/reviews/max-titanium/max-titanium-ou-growth-tabela-isowhey.webp",
-            "alt": "Tabela nutricional do IsoWhey 900 g, sabor baunilha: 30 g por dose, 118 kcal e 26 g de proteína",
-            "caption": "Tabela nutricional do IsoWhey 900 g. Imagem: Max Titanium.",
-            "objectFit": "contain",
-            "aspectRatio": 0.5649
-          }
-        ]
-      },
-      {
-        "heading": "100% Whey: o mais barato por grama de proteína",
-        "paragraphs": [
-          "O 100% Whey é a proteína de soro concentrada da linha de entrada. O Refil sai mais barato que o pote, com a mesma proteína por dose na tabela. A linha tem sabores de colaboração, como o 100% Whey Dr. Peanut, que contém amendoim: olhe a tabela do sabor antes de comprar.",
-          "Serve para quem quer proteína de soro pelo menor preço e aceita lactose. Não escolha se você tem intolerância à lactose, porque o rótulo diz \"contém lactose\", nem se quer uma dose de proteína maior por copo."
+          "A proteína por dose vale pela tabela nutricional de cada pote, e o preço por 100 g de proteína é o preço dividido pela proteína do pote. No preço de venda, o Whey Pro e o 100% Whey Refil ficam na frente, e o Top Whey 3W + Natural é o mais caro da linha.",
+          "A conta de cada whey, com a tabela de preço do dia, está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
+          "O 100% Whey é concentrado do soro, com 21 g em cada dose de 30 g. O refil de 900 g sai mais barato por grama de proteína que o pote, com a mesma tabela.",
+          "Compensa para quem quer proteína de soro pelo menor preço e aceita lactose.",
+          "O Top Whey 3W junta concentrado, isolado e hidrolisado numa dose de 40 g, com 25 g a 32 g de proteína conforme a versão. A + Natural é a mais cara por grama de proteína da linha.",
+          "Compensa para quem quer uma dose maior por copo e topa pagar mais por grama.",
+          "O Whey Pro é concentrado em pote de 1 kg, com 15 g de proteína e 19 g de carboidrato na dose de 40 g, a menor proteína por dose da linha.",
+          "Compensa para quem quer pote grande e não se importa com o carboidrato extra. Não serve para quem compara proteína por dose.",
+          "O IsoWhey é isolado (WPI): 26 g em 30 g, com 2,3 g de carboidrato e 0,5 g de gordura na dose, os menores números da tabela.",
+          "Compensa para quem quer o mínimo de carboidrato e gordura e aceita pagar por isso; ele também contém lactose."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
@@ -175812,27 +175726,6 @@ export const reviewsData: unknown[] = [
           "objectFit": "contain",
           "aspectRatio": 0.7692
         }
-      },
-      {
-        "heading": "Top Whey 3W: três proteínas e dose maior",
-        "paragraphs": [
-          "O Top Whey 3W junta concentrado, isolado e hidrolisado do soro, numa dose de 40 g. O que muda entre as três versões está na tabela: a + Sabor é a de menor proteína por dose, a + Natural troca a sucralose por estévia e a + Performance é a de maior proteína e traz mix de vitaminas e minerais na lista de ingredientes.",
-          "Serve para quem quer uma dose maior por copo e topa pagar mais por grama de proteína. Não escolha a + Performance ou a + Natural só pelo preço: as duas custam mais por grama de proteína que o 100% Whey."
-        ]
-      },
-      {
-        "heading": "Whey Pro: 15 g de proteína por dose, com mais carboidrato",
-        "paragraphs": [
-          "O Whey Pro é proteína de soro concentrada, em pote de 1 kg, e a loja o descreve como fórmula enriquecida com carboidratos: a dose de 40 g tem 19 g de carboidrato, contra 5,8 g na dose de 30 g do 100% Whey.",
-          "Serve para quem quer um pote maior com preço baixo e não se importa com o carboidrato extra. Não escolha se o critério é proteína: a dose tem menos proteína que a de qualquer outro whey da tabela, e por grama de proteína ele fica acima do 100% Whey Refil."
-        ]
-      },
-      {
-        "heading": "IsoWhey: o isolado, com menos carboidrato e gordura",
-        "paragraphs": [
-          "O IsoWhey é proteína isolada do soro (WPI) e tem 2,3 g de carboidrato e 0,5 g de gordura na dose de 30 g, os menores números da tabela.",
-          "Serve para quem quer o mínimo de carboidrato e gordura por dose e aceita pagar por isso. Não escolha achando que isolado é sem lactose: o rótulo do IsoWhey diz \"contém lactose\"."
-        ]
       },
       {
         "heading": "A Max Titanium tem whey zero lactose?",
@@ -175869,7 +175762,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Para começar pelo whey da Max, o 100% Whey Refil é a escolha mais barata por grama de proteína; o IsoWhey e o Top Whey 3W só compensam se você quer o que o rótulo deles tem a mais.",
+        "emphasis": "Para começar pelo whey da Max, o 100% Whey Refil e o Whey Pro são os mais baratos por grama de proteína; o IsoWhey e o Top Whey 3W só compensam se você quer o que o rótulo deles tem a mais.",
         "bullets": [
           "Vale para quem quer proteína de soro concentrada pelo menor preço por grama e aceita lactose.",
           "Vale o Top Whey 3W para quem quer uma dose maior de proteína por copo, e o IsoWhey para quem quer o mínimo de carboidrato e gordura.",
@@ -175880,9 +175773,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O whey da Max Titanium é bom? É, pelo rótulo: cada whey entrega a proteína por dose que a tabela mostra, e o 100% Whey Refil é o mais barato por grama de proteína.",
-          "Qual whey da Max Titanium compensa mais? Pelo preço por grama de proteína, o 100% Whey Refil; pela dose maior, o Top Whey 3W + Performance; pelo menor carboidrato, o IsoWhey. A tabela do capítulo de preço traz os números.",
-          "100% Whey ou Top Whey 3W? O 100% Whey é concentrado e mais barato por grama de proteína; o Top Whey 3W junta concentrado, isolado e hidrolisado numa dose de 40 g.",
+          "O whey da Max Titanium é bom? É, pelo rótulo: cada whey entrega a proteína por dose que a tabela mostra, e o Whey Pro e o 100% Whey Refil são os mais baratos por grama de proteína.",
+          "Qual whey da Max Titanium compensa mais? Depende do que pesa mais: o guia de cada whey, com a conta por grama de proteína, está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
+          "100% Whey ou Top Whey 3W? O 100% Whey é mais barato por grama de proteína, e o Top Whey 3W tem dose maior; a comparação de cada um está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
           "A Max Titanium tem whey zero lactose? Não: os wheys trazem \"contém lactose\" no rótulo, o isolado também, e o \"Zero Lactose\" do menu é o hipercalórico Mass Titanium 17500.",
           "A creatina da Max Titanium é boa? O pote de 500 g é o mais barato por grama, e o guia da creatina traz a conta de cada pote e o selo Creapure.",
           "O cupom da Max Titanium dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto, somando com as promoções do site."
@@ -190072,6 +189965,277 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "kit-insider-quando-compensa"
+      }
+    ]
+  },
+  {
+    "id": 835,
+    "slug": "whey-max-titanium-qual-escolher",
+    "locale": "pt",
+    "title": "Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey, qual a diferença",
+    "seoTitle": "Whey Max Titanium: 100%, Pro, 3W, Iso ou Super Whey",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Pelo preço de hoje, o Whey Pro e o 100% Whey Refil saem mais baratos por 100 g de proteína; o Top Whey 3W entrega dose maior, e o Super Whey é outro produto, com carboidrato.",
+    "metaDescription": "Com o cupom MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. 100%, Pro, 3W, IsoWhey e Super Whey comparados por dose e preço por 100 g de proteína.",
+    "publishedAt": "5 de novembro de 2026",
+    "publishedAtISO": "2026-11-05",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-capa.webp",
+    "imageAlt": "Os potes do 100% Whey, Top Whey 3W, IsoWhey, Whey Pro e Super Whey da Max Titanium, com o logo da Max e o título Whey Max: qual escolher?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Leve o Whey Pro ou o 100% Whey Refil se você quer o menor preço por grama de proteína.",
+        "Leve o Top Whey 3W + Performance de 1,8 kg se você quer uma dose maior por copo e aceita pagar mais por grama.",
+        "Leve o IsoWhey se você quer o mínimo de carboidrato e gordura por dose."
+      ],
+      "skipIf": [
+        "Passe na Max se você tem intolerância à lactose: nenhum whey da linha é zero lactose.",
+        "Passe no Super Whey se você compara proteína por dose: são 30 g em 120 g, com 79 g de carboidrato por porção."
+      ]
+    },
+    "pros": [
+      "Tabela nutricional publicada na página de cada whey, com a proteína por dose",
+      "O 100% Whey Refil e o Whey Pro estão entre os wheys mais baratos por grama de proteína",
+      "Uma linha para cada tipo de proteína: concentrado, isolado e o blend do Top Whey 3W",
+      "Cupom de até 10% que soma com as promoções do site e vale em todas as formas de pagamento"
+    ],
+    "cons": [
+      "A Max não vende whey zero lactose, e o isolado também contém lactose",
+      "O Whey Pro tem só 15 g de proteína por dose, bem menos que os outros",
+      "O cupom varia por produto e não chega a 10% em todo item"
+    ],
+    "cta": {
+      "text": "Veja os wheys da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA, de até 10% de desconto, no carrinho.",
+      "label": "Ir para a Max Titanium",
+      "url": "https://www.maxtitanium.com.br/",
+      "sponsored": true
+    },
+    "coupon": "MAX10EMCASACOMCECILIA",
+    "affiliate": "max-titanium",
+    "editorialNote": "Podemos receber comissão pelo cupom. Ninguém da equipe provou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "max-titanium-e-boa"
+      },
+      {
+        "slug": "whey-dr-peanut-max-titanium"
+      },
+      {
+        "slug": "creatina-max-titanium-qual-pote"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual whey da Max Titanium comprar",
+        "paragraphs": [
+          "Para pagar menos por grama de proteína, o Whey Pro e o 100% Whey Refil ficam na frente no preço de hoje. Para dose maior, o Top Whey 3W; para isolado, o IsoWhey; o Super Whey é outro produto, com carboidrato. Os preços mudam, e a tabela de preço traz a conta do dia."
+        ]
+      },
+      {
+        "heading": "Cinco nomes, três tipos de proteína",
+        "paragraphs": [
+          "A Max vende cinco wheys com nomes diferentes, e o rótulo diz o que muda entre eles. O 100% Whey e o Whey Pro são concentrados do soro do leite (WPC). O IsoWhey é isolado (WPI), e o Top Whey 3W junta concentrado, isolado e hidrolisado (WPH) numa mesma fórmula.",
+          "Isolado tem menos carboidrato por dose: 2,3 g no IsoWhey, contra 5,8 g no 100% Whey. O Super Whey não entra nessa lista. Ele é uma mistura com carboidrato, colágeno e frutose, e tem capítulo próprio.",
+          "Para os outros produtos da marca, o guia geral está em [Max Titanium é boa?](/reviews/max-titanium-e-boa)."
+        ]
+      },
+      {
+        "heading": "Proteína por dose e preço por 100 g de proteína",
+        "paragraphs": [
+          "Conta nossa: a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Quanto menor o último número, mais barata a proteína. A proteína por dose é a da tabela nutricional de um sabor de cada pote."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda de 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando é outro. Super Whey: porção de 120 g, da tabela da loja.",
+          "headers": [
+            "Produto",
+            "Dose: proteína por dose",
+            "Proteína no pote",
+            "Preço de venda",
+            "R$ por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[100% Whey Refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p)",
+              "30 g: 21 g",
+              "630 g",
+              "R$ 196,39",
+              "R$ 31,17"
+            ],
+            [
+              "[100% Whey Pote 900 g](https://www.maxtitanium.com.br/100-whey-pote-900g/p)",
+              "30 g: 21 g",
+              "630 g",
+              "R$ 210,39",
+              "R$ 33,40"
+            ],
+            [
+              "[Whey Pro 1 kg](https://www.maxtitanium.com.br/whey-pro-1kg/p)",
+              "40 g: 15 g",
+              "375 g",
+              "R$ 109,90 (de R$ 126,20)",
+              "R$ 29,31 (de R$ 33,65)"
+            ],
+            [
+              "[Top Whey 3W + Sabor 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-sabor-900g/p)",
+              "40 g: 25 g",
+              "562,5 g",
+              "R$ 189,00 (de R$ 273,55)",
+              "R$ 33,60 (de R$ 48,63)"
+            ],
+            [
+              "[Top Whey 3W + Natural 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-natural-900g/p)",
+              "40 g: 26 g",
+              "585 g",
+              "R$ 273,55",
+              "R$ 46,76"
+            ],
+            [
+              "[Top Whey 3W + Performance 900 g](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p)",
+              "40 g: 32 g",
+              "720 g",
+              "R$ 273,55",
+              "R$ 37,99"
+            ],
+            [
+              "[Top Whey 3W + Performance 1,8 kg](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-18kg-max-titanium/p)",
+              "40 g: até 32 g",
+              "1.440 g",
+              "R$ 519,86",
+              "R$ 36,10"
+            ],
+            [
+              "[IsoWhey 900 g](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p)",
+              "30 g: 26 g",
+              "780 g",
+              "R$ 326,18",
+              "R$ 41,82"
+            ],
+            [
+              "[Super Whey 900 g](https://www.maxtitanium.com.br/super-whey-900g/p)",
+              "120 g: 30 g",
+              "225 g",
+              "R$ 94,62",
+              "R$ 42,05"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Os números mudam de um dia para o outro, e promoções de novembro podem mexer neles: confira o preço no botão de compra de cada produto. O Whey Pro só fica abaixo do refil porque está em promoção, e a dose dele tem 15 g de proteína, contra 21 g no 100% Whey: para pagar menos por copo com mais proteína, o refil continua sendo a referência.",
+          "O Top Whey 3W + Sabor só chegou perto dos potes porque está em promoção: no preço de lista, sai a R$ 48,63 por 100 g de proteína."
+        ]
+      },
+      {
+        "heading": "100% Whey: pote ou refil",
+        "paragraphs": [
+          "Entre pote e refil, leve o refil: a proteína por dose é a mesma, 21 g em 30 g de concentrado do soro, e a diferença é de R$ 14,00 no pote inteiro.",
+          "Serve para quem quer proteína de soro pelo menor preço e aceita lactose. Não escolha se você tem intolerância à lactose, e não escolha se o copo precisa de mais proteína por dose."
+        ],
+        "image": {
+          "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
+          "alt": "Embalagem do 100% Whey Refil de 900 g da Max Titanium, sabor baunilha.",
+          "caption": "100% Whey Refil 900 g. Imagem: Max Titanium.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7692
+        }
+      },
+      {
+        "heading": "Top Whey 3W: a dose de 40 g e três versões",
+        "paragraphs": [
+          "O Top Whey 3W é a escolha de quem quer mais proteína por copo: a dose é de 40 g, com concentrado, isolado e hidrolisado do soro. As versões mudam a proteína por dose: a + Sabor tem 25 g, a + Natural, 26 g, e a + Performance, de 31 g a 32 g, com 11 vitaminas e 6 minerais, segundo a descrição da loja, que também diz que a + Natural usa edulcorantes naturais, estévia e taumatina.",
+          "Serve para quem quer uma dose maior por copo e topa pagar mais por grama de proteína. Entre as versões Performance, o pote de 1,8 kg sai quase R$ 2 mais barato por 100 g de proteína que o de 900 g: é o tamanho que compensa para quem já sabe que vai continuar. A + Natural é a mais cara da linha por grama de proteína; só vale para quem faz questão do adoçante natural."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-top-whey-3w.webp",
+            "alt": "Pote de 900 g do Top Whey 3W + Sabor da Max Titanium, sabor brigadeiro",
+            "caption": "Top Whey 3W + Sabor 900 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Whey Pro: 15 g por dose, pote de 1 kg",
+        "paragraphs": [
+          "O Whey Pro é o pote barato que entrega pouca proteína por copo: concentrado do soro, 1 kg, com 15 g de proteína e 19 g de carboidrato na dose de 40 g. É o pote mais barato da linha e o menor preço por 100 g de proteína da tabela, mas em promoção: no preço de lista ele passa o refil.",
+          "Serve para quem quer pote grande e preço baixo por grama de proteína, e não se importa com o carboidrato extra. Não serve para quem compara proteína por dose: são 15 g, a menor da linha."
+        ]
+      },
+      {
+        "heading": "IsoWhey: o isolado, com menos carboidrato",
+        "paragraphs": [
+          "O IsoWhey é proteína isolada do soro (WPI): 26 g em 30 g, com 2,3 g de carboidrato e 0,5 g de gordura na dose, os menores números da tabela.",
+          "Serve para quem quer o mínimo de carboidrato e gordura por dose e aceita pagar por isso. Isolado não quer dizer sem lactose: o rótulo diz \"contém lactose\"."
+        ]
+      },
+      {
+        "heading": "Super Whey: não é whey de dose baixa",
+        "paragraphs": [
+          "O Super Whey é para quem quer uma mistura com carboidrato, não para quem compara proteína por dose. A loja informa: porção de 120 g, com 460 kcal, 79 g de carboidrato, 42 g de açúcares totais (3,6 g adicionados), 2,7 g de gordura e 30 g de proteína. O pote de 900 g dá cerca de 7,5 porções.",
+          "Por isso o Super Whey não entra na régua de proteína por dose: são 30 g em 120 g, não 21 g em 30 g, e a maior parte do resto da porção é carboidrato. Por 100 g de proteína, ele fica entre os mais caros da tabela, perto do IsoWhey, mesmo sendo o pote mais barato. Na lista de ingredientes: proteína concentrada do soro, maltodextrina, colágeno hidrolisado, frutose e proteína isolada do soro. Contém lactose e derivados de soja."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey.webp",
+            "alt": "Embalagem do Super Whey 900 g da Max Titanium, sabor baunilha",
+            "caption": "Super Whey 900 g. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          },
+          {
+            "src": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey-tabela.webp",
+            "alt": "Tabela nutricional do Super Whey 900 g sabor baunilha: porção de 120 g com 460 kcal, 79 g de carboidratos e 30 g de proteína",
+            "caption": "Tabela nutricional do Super Whey, sabor baunilha. Imagem: Max Titanium.",
+            "objectFit": "contain",
+            "aspectRatio": 1
+          }
+        ]
+      },
+      {
+        "heading": "Zero lactose: nenhum whey da Max",
+        "paragraphs": [
+          "Não. Todos os wheys da Max declaram \"contém lactose\" no rótulo, e o isolado também. O \"Zero Lactose\" do menu é o hipercalórico Mass Titanium 17500, que não é whey."
+        ]
+      },
+      {
+        "heading": "Cupom MAX10EMCASACOMCECILIA: até 10%, por produto",
+        "paragraphs": [
+          "O cupom MAX10EMCASACOMCECILIA dá até 10%. O percentual varia por produto e aparece no carrinho: nem todo item chega a 10%. No teste de 26/10, o Top Whey 3W + Sabor em promoção saiu com 8,9% de desconto.",
+          "O cupom vale em todas as formas de pagamento e soma com as promoções do site. As regras estão em [cupons da Max Titanium](/cupons/max-titanium)."
+        ]
+      },
+      {
+        "heading": "Qual whey escolher",
+        "emphasis": "Pelos números da tabela, para pagar menos por grama de proteína a escolha é o Whey Pro, a R$ 29,31 por 100 g hoje, com o 100% Whey Refil logo atrás, a R$ 31,17. Para dose maior, leve o Top Whey 3W + Performance de 1,8 kg.",
+        "bullets": [
+          "Quer o menor preço por grama de proteína e não precisa de dose grande: Whey Pro (15 g por dose) ou 100% Whey Refil (21 g).",
+          "Quer uma dose maior por copo e aceita pagar mais por grama: Top Whey 3W + Performance de 1,8 kg, com até 32 g em 40 g.",
+          "Quer o menor carboidrato e gordura por dose e aceita pagar mais: IsoWhey, com 26 g em 30 g.",
+          "Quer uma mistura com carboidrato e não compara por dose: Super Whey, com a tabela de 120 g na frente.",
+          "Tem intolerância à lactose: nenhum whey da Max serve, pelo rótulo. Decida com médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual whey da Max Titanium compensa mais? Por grama de proteína, o Whey Pro e o 100% Whey Refil, no preço de hoje; por dose, o Top Whey 3W + Performance de 1,8 kg. A tabela do capítulo de preço traz os números.",
+          "Super Whey é whey? Pelo rótulo, é uma mistura com 79 g de carboidrato por porção de 120 g, e a conta de proteína por dose não serve para ele.",
+          "A Max Titanium tem whey zero lactose? Não: todos os wheys da linha declaram \"contém lactose\".",
+          "O cupom da Max dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto.",
+          "E o whey Dr. Peanut? A Max também vende o 100% Whey Dr. Peanut, pelo mesmo preço do site da Dr. Peanut; o que muda é o cupom, e a comparação está em [whey Dr. Peanut: Max ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
+        ]
       }
     ]
   }

@@ -11,7 +11,7 @@ anexo_tipo: "Anexo-Suplementos-Alimentos"
 status: "pauta-aprovada"
 responsavel: "Claude"
 proxima_acao: "redacao"
-bloqueado_por: "teste do código no whey (Bruno)"
+bloqueado_por: ""
 score_autoridade: 60
 score_conversao: 70
 score_ponderado_total: 74
@@ -192,6 +192,9 @@ Nada foi editado. Propostas para o Bruno aprovar:
 ## Decisões do Bruno (05/11/2026)
 
 1. O Super Whey entra (título, tabela e o capítulo 8, com a tabela da loja na frente).
+2. Preço: a tabela usa o **preço de venda do dia** (com a promoção), com o de lista entre parênteses quando diferente; a legenda traz a data uma vez. Decisão de 05/11, noite.
+3. Cupom: o texto diz "até 10%", que o percentual varia por produto e aparece no carrinho; cita só o teste do Top Whey 3W (8,9%). Sem novo teste.
+4. A reforma do `max-titanium-e-boa` (seções de whey viram resumo com link para este artigo) vai no mesmo PR.
 
 ---
 
@@ -208,3 +211,10 @@ Nada foi editado. Propostas para o Bruno aprovar:
 - **Perfis:** quem quer o menor preço por proteína (100% Whey, pote ou refil, conforme o que já tem em casa); quem quer uma dose maior por copo e aceita pagar mais por grama (Top Whey 3W); quem quer o isolado com o menor carboidrato (IsoWhey); quem quer uma mistura com carboidrato e não compara por dose (Super Whey, com a tabela na frente).
 - **Conta própria:** pote de 900 g dividido pela dose do rótulo, com o preço do dia, para o leitor refazer.
 - **Armadilha:** comparar o preço de lista com o de venda (a diferença passou de R$ 30 em alguns potes), e tomar o "Zero Lactose" do menu, que é hipercalórico, por um whey.
+
+## Redação e Job 3 (05/11/2026)
+
+- JSON `content/reviews/whey-max-titanium-qual-escolher.json` (id 835). Capa A do Job 6 (os cinco potes e o título), aprovada pelo Bruno. Fotos no corpo: o 100% Whey Refil, o Top Whey 3W + Sabor, o Super Whey e a tabela do Super Whey (imagens da loja, sem `href`).
+- Preço: o 100% Whey Pote voltou a R$ 210,39 em todos os sabores (a promoção de R$ 179,90 acabou); a tabela usa o preço de venda do dia, com o de lista entre parênteses.
+- Job 3 (Fable): aprovado com ajustes de frase, aplicados, salvo três trocas que eu não aceitei (posologia implícita em "uma por dia", "no fim da tabela" falso e uma frase sem fonte sobre o pote).
+- `max-titanium-e-boa`: as seções de whey e a tabela viraram um resumo com um link para este artigo; FAQ com o Pro e o refil como os mais baratos por grama.
