@@ -204,7 +204,7 @@ Nº 1 da série "Insider ou X" ([[insider-ou-x-serie-0211]]), item R4 da rodada 
 
 ## Decisões do Bruno (05/11/2026)
 
-Rodada R4 aprovada na Fila (seção 3, bloco "Rodada de 05/11/2026"). Pergunta 1: as duas Minimal. A Tech Modal (R$ 109,90) contra a Insider Tech (R$ 129), modal com modal, e a Camiseta Minimal (R$ 169,90) contra a Insider Core (R$ 179), as premium. Pergunta 2: o Chrome já leu as quatro páginas (seção "Leitura no Chrome"). Pergunta 3: pendente.
+Rodada R4 aprovada na Fila (seção 3, bloco "Rodada de 05/11/2026"). Pergunta 1: as duas Minimal. A Tech Modal (R$ 109,90) contra a Insider Tech (R$ 129), modal com modal, e a Camiseta Minimal (R$ 169,90) contra a Insider Core (R$ 179), as premium. Pergunta 2: o Chrome já leu as quatro páginas (seção "Leitura no Chrome"). Pergunta 3: sem o Pix na conta (decisão de 20/10 mantida).
 
 ---
 
@@ -232,3 +232,9 @@ Lido no Chrome do Bruno (Shopify das duas lojas):
 - O Pix da Minimal está bem abaixo da base de 12/10: pode ser campanha de Black. Pelo critério do Bruno (preço real, não promocional), a tabela usa o preço de cartão e o texto manda conferir o Pix no dia.
 - **Gramatura:** nenhuma das duas lojas publica o número em g/m² nessas páginas.
 - **Decidido (05/11):** as duas Minimal, em dois pares: Tech Modal × Insider Tech e Camiseta × Insider Core.
+
+## Redação e Job 3 (05/11/2026)
+
+- JSON `content/reviews/insider-ou-minimal-club.json` (id 834). Capa A do Job 6 (três camisetas da Insider e o título), aprovada pelo Bruno. Fotos no corpo: Tech e Core, com o link de criador. Card de estilo só com as peças da Insider.
+- Job 3 (Fable): aprovado com ajustes de frase, todos aplicados (sem "ninguém usou" no corpo, sem a data de início da garantia, tecido sem repetir a tabela, cada par abre pelo que decide, conta do cupom num parágrafo só).
+- Sem g/m² (nenhuma das lojas publica nas páginas) e sem o selo "Não desbota" da Minimal.
