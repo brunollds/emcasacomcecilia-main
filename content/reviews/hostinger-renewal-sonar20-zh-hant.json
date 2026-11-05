@@ -1,0 +1,262 @@
+{
+  "id": 822,
+  "slug": "hostinger-renewal-sonar20-zh-hant",
+  "locale": "zh-hant",
+  "translationKey": "hostinger-renovacao-cupom",
+  "title": "Hostinger 續訂：價格、SONAR20 優惠碼與付款前的退款確認",
+  "seoTitle": "Hostinger 續訂：價格、SONAR20 與退款",
+  "type": "決策指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編輯與分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger 的續訂價比首期更貴。看看各方案的續訂價、何時扣款、如何關閉自動續訂，以及退款最晚可以申請到什麼時候。",
+  "metaDescription": "SONAR20 優惠碼可讓新的 Hostinger 方案享 20% 折扣；續訂則按價目表計價。看看各方案續訂多少錢，以及退款期限。",
+  "publishedAt": "2026年11月5日",
+  "publishedAtISO": "2026-11-05",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp",
+  "imageAlt": "Hostinger 標誌，搭配續訂日曆與收據圖示",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "如果你已經在 Hostinger 有主機或 VPS，想在扣款前決定要不要續訂，這篇適合你。",
+      "如果帳戶裡有好幾項服務，想弄清楚哪些會續訂、哪些要關閉、哪些像網域一樣要另外處理，這篇適合你。"
+    ],
+    "skipIf": [
+      "如果你只想購買第一個方案，可以跳過；優惠碼指南更能回答你的問題。",
+      "如果你只需要續訂網域，可以跳過；網域指南更能回答你的問題。"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "訂購新方案時，在購物車的優惠碼欄位輸入 SONAR20，或從這個連結進入：購買享 20% 折扣。",
+    "label": "用 SONAR20 查看 Hostinger 方案",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "透過優惠碼與連結購買，我們可能獲得佣金。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-referral-code-zh-hant"
+    },
+    {
+      "slug": "hostinger-trust-guide-zh-hant"
+    },
+    {
+      "slug": "hostinger-domain-zh-hant"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "續訂比首期貴，而且自動續訂預設是開啟的。SONAR20 讓新方案享 20% 折扣，但續訂按價目表計價。下面會看到各方案續訂多少錢、何時扣款、如何關閉，以及退款的申請期限。"
+      ]
+    },
+    {
+      "heading": "各方案續訂要多少錢",
+      "paragraphs": [
+        "入門價只在首期有效，之後要算的是續訂價。展示的低價只涵蓋所簽的期限，主機是 48 個月，VPS 是 24 個月。期限結束後，Hostinger 會以相同期限、按最後一欄的價格續訂。"
+      ],
+      "comparisonTable": {
+        "caption": "Hostinger 11 月 4 日的價格，以美元計，未使用優惠碼。",
+        "headers": [
+          "方案",
+          "首期（每月）",
+          "期限",
+          "首期總額",
+          "續訂（每月）"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 1.99",
+            "48 個月",
+            "US$ 95.52",
+            "US$ 10.99"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 2.79",
+            "48 個月",
+            "US$ 133.92",
+            "US$ 16.99"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 7.99",
+            "48 個月",
+            "US$ 383.52",
+            "US$ 25.99"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 6.49",
+            "24 個月",
+            "US$ 155.76",
+            "US$ 11.99"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 8.79",
+            "24 個月",
+            "US$ 210.96",
+            "US$ 14.99"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 12.99",
+            "24 個月",
+            "US$ 311.76",
+            "US$ 28.99"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 25.99",
+            "24 個月",
+            "US$ 623.76",
+            "US$ 49.99"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "我們的計算：按價目表，Premium 再續訂 48 個月要 US$ 527.52，是首期所付 US$ 95.52 的五倍多。",
+        "在兩個方案之間猶豫時，請比較續訂那一欄，而不是首期那一欄：首期過後，預算裡留下的就是這個價格。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hant.webp",
+        "alt": "Hostinger 各方案每月價格的長條圖，比較首期與續訂：主機有 Premium、Unlimited、Cloud Startup，VPS 有 KVM 1、2、4、8；每個方案的續訂價都更高",
+        "caption": "每個方案兩根長條：首期與續訂的每月價格。由 Em Casa com Cecília 依 Hostinger 頁面上的價格製作的表格。",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
+    },
+    {
+      "heading": "SONAR20 與續訂",
+      "paragraphs": [
+        "SONAR20 適用於新購買，享 20% 折扣；續訂按價目表最後一欄的價格計價。Hostinger 推薦計畫的條款說明，20% 折扣只適用於新購買，而網域無論如何都不在優惠碼範圍內。",
+        "所以，續訂的人要算的是沒有折扣的續訂欄。優惠碼用在訂購新方案時，貼在哪裡請看[如何使用 Hostinger 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，**SONAR20** 的規則在[Hostinger 優惠碼](/zh-hant/coupons/hostinger)頁面。"
+      ]
+    },
+    {
+      "heading": "Hostinger 何時扣續訂費用",
+      "paragraphs": [
+        "開啟自動續訂後，會在到期前扣款，提前多久取決於方案。Hostinger 說明中心表示，會在以下時間點向已儲存的付款方式扣款："
+      ],
+      "bullets": [
+        "年繳或更長期限的主機方案：到期前 14 天；",
+        "月繳方案：到期當天；",
+        "網域：到期前 27 天。"
+      ],
+      "postParagraphs": [
+        "日期可能略有出入。若距離續訂只剩一天或更少，該週期不會自動續訂，需要手動續訂。在這些日期前後，請讓付款方式保有餘額。",
+        "想隨時手動續訂，請開啟「帳單」，再進入「訂閱」，點選服務旁的續訂。不含稅的續訂價就顯示在那裡的續訂價格欄。方案快到期時，面板網站區域裡的方案卡片會顯示日期和續訂按鈕。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-cobranca-zh-hant.webp",
+        "alt": "Hostinger 自動續訂時間軸：年繳主機在到期前 14 天扣款，月繳在到期當天，網域在 27 天前；30 天退款申請期從扣款日起算，網域續訂不能退款",
+        "caption": "何時扣款，以及退款最晚可以申請到什麼時候。由 Em Casa com Cecília 依 Hostinger 說明中心與退款政策製作的表格。",
+        "objectFit": "contain",
+        "aspectRatio": 0.9677
+      }
+    },
+    {
+      "heading": "如何關閉自動續訂",
+      "paragraphs": [
+        "自動續訂要逐項服務關閉，方案在到期前仍會正常運作。步驟如下："
+      ],
+      "bullets": [
+        "在 Hostinger 面板開啟個人資料，進入「帳單」。",
+        "開啟「訂閱」。",
+        "找到該服務，關閉旁邊的開關。",
+        "閱讀 Hostinger 針對該產品開啟的提示頁並確認。想重新開啟，再按一次開關即可。"
+      ],
+      "postParagraphs": [
+        "關閉不會改變服務狀態：它在到期前仍然有效，也不會再被扣款。已經扣的款不會因此退回；退款有自己的規則，見下一章。月繳方案若有未付帳單，帳單會被取消，訂閱在週期結束時到期。若帳單只付了一部分、已套用點數，或週期為一年以上，可能需要透過 Hostinger 的 AI 助理聯絡客服。",
+        "有兩個細節會影響決定。要在續訂時更換方案期限，自動續訂必須是開啟的。而且方案一旦到期，方案卡片上的提示說明網站會下線。拿不定主意時，等你決定不續訂了再關閉開關。"
+      ]
+    },
+    {
+      "heading": "續訂後的退款",
+      "paragraphs": [
+        "續訂會開啟新的 30 天退款申請期，但有例外。商家說明：產品必須在交易日起 30 天內取消才能退款，而 Hostinger 處理續訂的日期就算交易日。"
+      ],
+      "bullets": [
+        "可標準退款：所有主機方案（免費試用後的第一筆付款除外），以及 VPS KVM（升級除外）。",
+        "不能退款：網域續訂、已完成的網域轉入、隱私保護、VPS 授權、VPS KVM 升級、AI 點數與付費支援。",
+        "VPS 還多一條規則：必須在 30 天內申請，且上次為其他 VPS 方案申請退款已超過 180 天，才會退款。過去 180 天內退過其他 VPS 的人，這一個就不能退。"
+      ],
+      "postParagraphs": [
+        "計時從扣款日開始，不是從到期日。年繳方案在到期前 14 天扣款，30 天大約在到期日後兩週結束。請記下扣款日：超過 30 天，申請就無效了。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-reembolso-zh-hant.webp",
+        "alt": "Hostinger 續訂後的退款表：主機與 VPS KVM 自扣款日起 30 天內可退，但有例外；網域續訂不能退款",
+        "caption": "續訂後各項服務能否退款。由 Em Casa com Cecília 依 Hostinger 退款政策製作的表格。",
+        "objectFit": "contain",
+        "aspectRatio": 1.0909
+      }
+    },
+    {
+      "heading": "網域不在其中",
+      "paragraphs": [
+        "網域續訂沒有退款，也不適用 SONAR20，所以要另外決定。它的續訂開關在面板的網域區域，於到期前 27 天扣款。只有新註冊才有短暫的退款期，為 96 小時；續訂則完全沒有。",
+        "請在這筆扣款前決定網域：先看價格，確認它是否需要留在這家註冊商，再讓它續訂。註冊、轉入或把網域放在別處的做法，見 [Hostinger 網域](/zh-hant/reviews/hostinger-domain-zh-hant)。"
+      ]
+    },
+    {
+      "heading": "續訂前要決定什麼",
+      "paragraphs": [
+        "續訂前真正決定的是續訂價和扣款日，而不是首次購買的價格。Em Casa com Cecília 從 2024 年起使用 Hostinger 的主機、一台 VPS KVM 2、電子郵件與網域，全部開著自動續訂：對我們來說，續訂就像家裡的帳單，最好在它到來之前就知道金額。"
+      ],
+      "bullets": [
+        "在「訂閱」查看每項服務的續訂價。",
+        "逐項服務決定是否保持自動續訂。",
+        "記下扣款日：退款期限從那天起算。",
+        "在這個日期前後，讓付款方式保有餘額。",
+        "網域單獨處理，有自己的價格與決定。"
+      ],
+      "postParagraphs": [
+        "拿不定主意時，在你還在用的服務上保持自動續訂，只關閉已經決定不要的。"
+      ],
+      "emphasis": "續訂要在扣款到來前從容決定，而不是到期當天才倉促處理。"
+    },
+    {
+      "heading": "常見問題",
+      "bullets": [
+        "Hostinger 優惠碼適用於續訂嗎？不適用：SONAR20 讓新購買享 20% 折扣，續訂按價目表計價。SONAR20 一章說明了優惠碼用在哪裡。",
+        "如何取消 Hostinger 的自動續訂？在「帳單」的「訂閱」中關閉該服務的開關；服務在到期前仍然有效。步驟見關閉自動續訂一章。",
+        "Hostinger 會退還續訂費用嗎？會，主機與 VPS KVM 在扣款日起 30 天內可以；網域續訂不能退款。例外見退款一章。",
+        "Hostinger 何時扣自動續訂的費用？年繳方案在到期前 14 天，月繳在到期當天；網域有自己的時間，見何時扣款一章。",
+        "Hostinger 方案到期會怎樣？網站會下線，方案卡片上有提示。要避免這種情況，請在到期前續訂，或保持自動續訂開啟。"
+      ]
+    }
+  ]
+}

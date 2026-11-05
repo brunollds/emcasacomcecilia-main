@@ -394,7 +394,7 @@ Base: AI Search Queries (Copilot), Keyword Report e Performance Overview do Bing
 
 | Ordem | Pauta | Situação |
 |---|---|---|
-| BG1 | Renovação da Hostinger: preço, o SONAR20 na renovação, renovação automática e reembolso (família de 10 idiomas) | Briefing aprovado: [[hostinger-renovacao-cupom-sonar20]] e [[hostinger-renovacao-cupom-sonar20-fatos-0411]]. Falta o Bruno dizer onde se digita o código na renovação |
+| BG1 | Renovação da Hostinger: preço, o SONAR20 na renovação, renovação automática e reembolso (família de 10 idiomas) | Pronto em 05/11 (PR da branch claude/bg1-hostinger-renovacao), família de 10 idiomas. Pelos termos do programa (rev. 02/09/2026), o SONAR20 vale só em compra nova; o artigo diz que a renovação sai pelo preço da tabela. Ver [[hostinger-renovacao-cupom-sonar20]] |
 | BG2 | Dolce Gusto no Reclame Aqui | Briefing aprovado: [[dolce-gusto-reclame-aqui-nota-reputacao]] |
 | BG3 | Promoção Dolce Lovers (sorteio de 2025; nenhuma edição em 2026 até 04/11) | Briefing aprovado: [[promocao-dolce-lovers-dolce-gusto]]. "Comprou Dobrou" ficou fora: nenhuma fonte oficial traz o nome |
 | BG4 | Promoções da Dolce Gusto: o que se repete toda semana e quando comprar | Briefing aprovado: [[promocoes-dolce-gusto-quando-comprar]] |

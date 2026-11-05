@@ -205,3 +205,21 @@ Ver `hostinger-renovacao-cupom-sonar20-fatos-0411.md`, ao lado.
 
 ## Publicação
 Ainda não publicado. Próximo passo: Job 6 (capa e folha de aprovação) e redação PT; depois a família de 10 idiomas, com `test:review-i18n`.
+
+---
+
+## Decisões do Bruno (05/11/2026)
+
+- Termos do programa de indicação (rev. 02/09/2026, global e /br, seção dos Parceiros de Agência): "O desconto correspondente de 20% aplica-se apenas a novas compras"; renovações dão 10% de comissão ao parceiro, sem desconto ao cliente. O Bruno: "os 20% não servem para renovar". O artigo diz que o SONAR20 vale numa compra nova e que a renovação sai pelo preço da tabela. Título e chamada do cupom mantidos.
+- Os artigos e a FAQ de `/cupons/hostinger` que prometem os 20% na renovação (#549) ficam para depois, por decisão do Bruno.
+- Fatos novos lidos em 05/11 (HTTP): cobrança automática 14 dias antes (hospedagem anual ou mais), no dia (mensal), 27 dias antes (domínio), "a data pode variar"; com 1 dia ou menos, renovar à mão (support 3316237). Desligar: Perfil → Faturamento → Assinaturas → chave → avisos → confirmar; para trocar o ciclo, a renovação automática precisa estar ligada; fatura parcial, créditos ou ciclo ≥ 1 ano: suporte pelo assistente de IA (1583234). Renovar à mão e coluna do preço de renovação sem impostos (1583464). Domínio com chave própria (6940479). Política de reembolso rev. 29/10/2026 igual.
+- O artigo `hostinger-reclame-aqui-nota-reputacao` mostra o caminho antigo de desligar (Faturas → Serviços → três pontinhos): corrigir num PR à parte.
+
+## Capa e imagens (aprovadas pelo Bruno em 05/11/2026)
+
+- Capa: `/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp`, 1600×900, `covers:render` (tiles: ícone da Hostinger, calendário de renovação, recibo; faixa com o logo e ícones), sem texto de idioma e sem o código (os 20% não valem na renovação). `imageFit: contain`. Alt PT: "Logo da Hostinger com os ícones de calendário de renovação e de recibo".
+- Corpo, um arquivo por idioma (`-pt`, `-en`, `-es`, `-fr`, `-de`, `-it`, `-ja`, `-ko`, `-zh-hans`, `-zh-hant`), quadros do Em Casa com Cecília, 1200 px:
+  - `hostinger-renovacao-cupom-sonar20-barras-<l>.webp` (1200×1200), em "Quanto custa renovar cada plano": primeiro período × renovação por mês; PT em R$ (8 planos), outros em US$ da página global (7, sem Single).
+  - `hostinger-renovacao-cupom-sonar20-cobranca-<l>.webp` (1200×1240), em "Quando a Hostinger cobra a renovação": linha do tempo da cobrança e dos 30 dias de reembolso.
+  - `hostinger-renovacao-cupom-sonar20-reembolso-<l>.webp` (1200×1100), em "Reembolso depois da renovação": hospedagem, VPS KVM e domínio.
+- Origem: quadros nossos, pelas páginas de planos, pela central de ajuda e pela política de reembolso da Hostinger (leituras de 04 e 05/11). 31 arquivos no CDN, `verified` no manifesto, mapa de entrega com `--append`.
