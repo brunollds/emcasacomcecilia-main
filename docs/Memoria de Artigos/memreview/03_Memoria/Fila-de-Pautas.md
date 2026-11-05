@@ -11,8 +11,11 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
 | SK48 | **Urgente.** Brindes da Skelt em 48 horas com o cupom (creme para mãos e Body Cream), mais o 301 do brinde-skelt-30-outubro-cupom | Skelt | PT | [[brindes-skelt-black-friday-cupom]] | Redação e deploy junto com o banner skelt-brindes-48h-2026, até 06/11 |
-| BG3 | Promoção Dolce Lovers: o sorteio de 2025 e se há edição em 2026 | Dolce Gusto | PT | [[promocao-dolce-lovers-dolce-gusto]] | **Decisão do Bruno.** Pesquisa de 05/11: não há edição de 2026. As URLs de 2026 dão 404, os regulamentos não têm sorteio e a busca só traz a de 2025. Proposta: escrever como "tem Dolce Lovers em 2026?", com a resposta "não" e como foi a de 2025; ou tirar da Fila |
-| BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Redação. Reler a página de regulamentos no dia |
+| DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | Redação. A primeira da série: DN2, DN3 e DN4 linkam para ela |
+| DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação, depois da DN1 |
+| DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação, depois da DN1 |
+| DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
+| BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
 
 ## 2. Paradas: esperam um fato ou uma decisão
@@ -32,21 +35,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 ### Propostas sem GO
 
-**Dolce Gusto Negócios (CNPJ)**: pesquisa da sessão de artigos em 05/11/2026, lida sem login e sem carrinho. Os fatos estão em `fatos-negocios-0511.md`, no scratchpad daquela sessão, e vêm para o vault com o briefing.
-- O que a linha tem:
-  - conta Business no cadastro: razão social, CNPJ e IE, ou "Sou isento";
-  - Soluções Prontas, em `/negocios-combos`: "10% OFF extra direto no carrinho" para CNPJ, e 10 combos de 20, 30 e 50 caixas, de 25% a 35%, mais a Mini Me 2.0 com 20 caixas;
-  - Soluções Personalizadas: um formulário, e um consultor faz a proposta.
-- O CECI funciona na linha, pelo teste do Bruno. Falta saber se soma com os 10% de CNPJ e com o desconto do combo, porque isso muda a conta do preço por cápsula da DN1.
-- As pautas não concorrem com o `cafeteira-escritorio-qual-escolher-custo-mes` (20/10), que já cobre o escritório e os combos.
-
-| Ordem | Pauta | Busca | Avaliação da sessão de pautas |
-|---|---|---|---|
-| 1 | DN1 Dolce Gusto para CNPJ: conta Business, os 10% extras, os combos, o preço por cápsula com o CECI e quando o site compensa mais que o formulário | "dolce gusto cnpj", "para empresas", "cadastro cnpj", "50 caixas", "cápsulas atacado" | A melhor: tem busca de marca e põe o código no snippet. Depende da resposta sobre o CECI com os 10% |
-| 2 | DN2 Café para consultório e clínica | "café para consultório", "cantinho do café consultório", "cafeteira para clínica" | Boa: tem busca própria e fica fora do artigo de escritório |
-| 3 | DN4 Cafeteira para Airbnb e pousada | "cafeteira para airbnb", "cafeteira para pousada", "cafeteira para quarto de hotel" | Boa: tem busca própria. O custo por hóspede é conta nossa, marcada |
-| 4 | DN3 + DN6 juntas: café para clientes no salão, na loja e na padaria | "cafeteira para salão de beleza", "cantinho do café para clientes", "máquina de café para padaria" | Separadas, as duas repetem o mesmo conselho, o cantinho de cortesia. Juntas, viram um artigo só, com um H2 por tipo de negócio |
-| — | DN5 Comodato ou comprar | "máquina de café comodato", "aluguel máquina de café escritório" | Parada: o site não diz se a Nestlé tem comodato, e só o formulário responderia. Sem essa fonte, não entra |
+**Dolce Gusto Negócios (CNPJ)**: o Bruno aprovou a DN1 a DN4 em 05/11/2026 (briefings na seção 1) e confirmou que o CECI soma com os 10% de CNPJ e com o desconto do combo. Fica no estoque só a DN5 (comodato ou comprar), sem fonte: o site não diz se a Nestlé tem comodato, e só o formulário responderia.
 
 **Hostinger: migração à mão, serviço a serviço** (proposta de 05/11/2026; o Bruno disse "ainda não").
 - Cada artigo cobre as duas origens: outra empresa (HostGator, GoDaddy e outras) ou uma conta antiga da Hostinger.
@@ -109,6 +98,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
+| `cafeteira-escritorio-qual-escolher-custo-mes` | Link para a DN1 na seção "Dolce Gusto Negócios" e para a DN2 na seção de consultório, quando cada uma for ao ar | Pautas DN, 05/11 |
 | `black-friday-dolce-gusto` | A faixa do site já diz "COMEÇOU A BLACK FRIDAY", com cafés intensos a partir de R$ 15,90 e máquinas e combos fora da oferta. Reler a oferta e atualizar o guia | Sessão de artigos, 05/11 |
 | `clube-dolce-gusto-como-funciona` | "Dolce Gusto Club" no título SEO | Bing, 04/11 |
 | `nutren-senior-zero-lactose-ficha-tecnica` | "sem lactose" no título e na FAQ | Bing, 04/11 |
