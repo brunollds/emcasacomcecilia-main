@@ -128955,7 +128955,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar a Fita Up hoje",
         "paragraphs": [
-          "O site oficial é o todaup.com: o endereço antigo, www.fitaup.com, e o blog da Fita Up redirecionam para ele, e a fita segue no catálogo, na categoria Adesivos, ao lado das peças de moda íntima da Toda Up. Fora do site, a própria marca vende no Mercado Livre e na Amazon, e a fita aparece na C&A, na Drogasil e em lojas físicas parceiras. Os vendedores e o que muda em cada canal estão em [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original)."
+          "O site oficial é o todaup.com: o endereço antigo, www.fitaup.com, e o blog da Fita Up redirecionam para ele, e a fita segue no catálogo, na categoria Adesivos, ao lado das peças de moda íntima da Toda Up. Fora do site, a própria marca vende no Mercado Livre e na Amazon, pela Drogasil e em lojas físicas parceiras. Os vendedores e o que muda em cada canal estão em [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original)."
         ],
         "bullets": [
           "Site oficial: todaup.com, com o CNPJ 40.159.443/0001-44 no rodapé.",
@@ -189000,7 +189000,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-05",
     "draft": false,
     "isNew": true,
-    "description": "A Fita Up, da Toda Up, é vendida em mais lugares que o site. Veja quem vende em cada canal, onde sai mais em conta e como conferir se é a original antes de pagar.",
+    "description": "A Fita Up, da Toda Up, é vendida em mais lugares que o site. Veja quem vende em cada canal, onde sai mais em conta com o cupom e como conferir se é a original.",
     "metaDescription": "O código MAUAD dá 10% no site oficial da Toda Up, a antiga Fita Up. Veja onde mais comprar, qual canal sai mais em conta e como conferir.",
     "image": "/images/reviews/toda-up/fita-up-onde-comprar-original-capa.webp",
     "imageAlt": "Rolos da Fita Up nas cores bege e marrom, duas modelos segurando a fita, o logo da Toda Up e o título Fita Up original: onde comprar",
@@ -189010,12 +189010,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer pagar o menor preço e aceita a troca na política de quem vende.",
+        "Você quer o menor preço sem depender de promoção do dia e a troca de 30 dias pelo portal da marca: compre no site com o cupom.",
         "Você quer ver a fita pessoalmente antes de levar e mora perto de uma loja parceira."
       ],
       "skipIf": [
-        "Você ainda não sabe o tamanho e quer a troca de 30 dias pelo portal da marca: fique no site oficial.",
-        "O anúncio que você achou é de um vendedor que não é a Toda Up: confira o vendedor primeiro."
+        "O anúncio que você achou é de um vendedor que não é a Toda Up: confira o vendedor primeiro.",
+        "Você só compra com envio Full ou Prime e aceita a troca na política do marketplace: aí vale conferir o Mercado Livre e a Amazon no dia."
       ]
     },
     "cta": {
@@ -189042,19 +189042,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para ter garantia de troca e cupom, compre no site oficial da Toda Up. Para pagar menos, a loja oficial da marca no Mercado Livre sai mais em conta que o site. Em qualquer canal, o que pesa é quem vende; a tabela mostra cada um, e o veredito está em \"Qual canal escolher\"."
+          "Pelo preço de tabela, o site oficial da Toda Up com o cupom é o lugar mais em conta, e ainda tem a troca pelo portal da marca. A loja oficial no Mercado Livre às vezes fica abaixo, mas só em promoção do dia; o veredito e o que conferir estão em \"Qual canal escolher\"."
         ]
       },
       {
         "heading": "Onde a Fita Up é vendida hoje",
         "paragraphs": [
-          "A Fita Up não é exclusiva do site: a própria Toda Up vende também no Mercado Livre, na Amazon e pela Drogasil e pela Droga Raia, e a C&A vende com estoque dela."
+          "A Fita Up não é exclusiva do site: a própria Toda Up vende também no Mercado Livre, na Amazon e pela Drogasil e pela Droga Raia, e a marca lista lojas físicas parceiras."
         ],
         "comparisonTable": {
           "headers": [
             "Canal",
             "Vendedor",
-            "Preço do dia",
+            "Preço",
             "O que muda"
           ],
           "rows": [
@@ -189067,14 +189067,14 @@ export const reviewsData: unknown[] = [
             [
               "Mercado Livre",
               "Loja oficial Fita Up (selo de loja oficial)",
-              "R$ 84,40",
-              "Três cores e P, M e G, com envio Full. Preço com selo de Black Friday; há também revendedores \"loja parceira\", mais caros"
+              "R$ 179,90 sem promoção",
+              "Três cores e P, M e G, com envio Full. As promoções do dia mudam o preço; há também revendedores \"loja parceira\""
             ],
             [
               "Amazon",
               "Toda Up, enviado pela Amazon",
               "R$ 132,90 (Bege P)",
-              "O mesmo título aparece com vendedor de fora, mais barato: confira quem vende antes de pagar"
+              "O mesmo título aparece com vendedor de fora: confira quem vende antes de pagar"
             ],
             [
               "Drogasil e Droga Raia",
@@ -189083,24 +189083,17 @@ export const reviewsData: unknown[] = [
               "Só a Marrom P, e sem estoque nas duas"
             ],
             [
-              "C&A",
-              "C&A",
-              "R$ 99,99",
-              "Rolo de 5 m por 6 cm (a largura P) e 10 protetores, na cor marrom; a bege está sem estoque"
-            ],
-            [
-              "Lojas parceiras (muitas Renner)",
+              "Lojas parceiras",
               "Cada loja",
               "Varia",
               "Veja o capítulo \"Fita Up perto de mim\""
             ]
           ],
-          "caption": "Preços do dia, 05/11, em plena Black Friday."
+          "caption": "Preços de 05/11, sem as promoções do dia do Mercado Livre."
         },
         "postParagraphs": [
-          "No site da Renner, a marca Toda Up aparece na lista de marcas, mas sem nada à venda. Na Drogasil, a busca por \"fita up\" traz fitas de outras marcas, e só a Marrom P é da Fita UP. No Mercado Livre, [a loja oficial da Fita Up](https://meli.la/2qNDns1) é a que tem as três cores e os três tamanhos com envio Full. Na Amazon, a [loja da Toda Up](https://link.amazon/B0ddRJoJi) vende a fita com envio pela Amazon. Se o seu tamanho é M ou G, ou a cor é a Preta, o site e a loja oficial do Mercado Livre são os canais com a grade toda. A Drogasil, a Droga Raia e a C&A têm só a largura P, e nas farmácias só a Marrom; na Amazon, confira o tamanho no anúncio antes de pôr no carrinho. A largura segue o número do sutiã, pelo guia da loja: P até o 44, M até o 48 e G até o 54, todas em rolo de 5 metros. O rolo da C&A, de 6 cm, é o P.",
-          "No Mercado Livre, a loja oficial tem mais de um anúncio da mesma fita, com preços diferentes no mesmo dia: abra a página da loja e compare antes de pagar. Na Drogasil, sem estoque, não vale esperar: a loja oficial do Mercado Livre entrega com Full, e a loja parceira mais perto pode ter a fita, como o capítulo \"Fita Up perto de mim\" explica.",
-          "Na C&A, a página descreve a fita como de uso único e não reutilizável; a Toda Up não diz isso, e o assunto está no artigo sobre [como usar a fita](/reviews/fita-up-como-usar)."
+          "Se o seu tamanho é M ou G, ou a cor é a Preta, o site e [a loja oficial da Fita Up](https://meli.la/2qNDns1) no Mercado Livre são os canais com a grade toda. Nas farmácias só há a Marrom P, e na Amazon vale conferir o tamanho no anúncio da [loja da Toda Up](https://link.amazon/B0ddRJoJi) antes de pôr no carrinho. A largura segue o número do sutiã, pelo guia da loja: P até o 44, M até o 48 e G até o 54, todas em rolo de 5 metros.",
+          "Na Drogasil, a busca por \"fita up\" traz fitas de outras marcas junto, e sem estoque não vale esperar: o site entrega para todo o Brasil, e a loja parceira mais perto pode ter a fita, como o capítulo \"Fita Up perto de mim\" explica."
         ]
       },
       {
@@ -189122,15 +189115,15 @@ export const reviewsData: unknown[] = [
         "heading": "Troca e garantia fora do site",
         "paragraphs": [
           "Fora do site, quem decide a troca é quem vendeu. A loja informa: a Toda Up aceita troca por modelo, tamanho ou cor, e devolução por arrependimento, em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja.",
-          "Regra prática, sem teste nosso, partindo da premissa de que a política da Toda Up vale para a compra feita no site dela: nos outros canais, vale a política de quem vendeu. Leia a da Amazon, do Mercado Livre, da Drogasil ou da C&A antes de fechar, sobretudo se você ainda não sabe o tamanho. Para ver como funciona a troca no site, o artigo sobre se a Toda Up [é confiável](/reviews/toda-up-e-confiavel) traz o passo a passo."
+          "Regra prática, sem teste nosso, partindo da premissa de que a política da Toda Up vale para a compra feita no site dela: nos outros canais, vale a política de quem vendeu. Leia a da Amazon, do Mercado Livre ou da Drogasil antes de fechar, sobretudo se você ainda não sabe o tamanho. Para ver como funciona a troca no site, o artigo sobre se a Toda Up [é confiável](/reviews/toda-up-e-confiavel) traz o passo a passo."
         ]
       },
       {
         "heading": "Cupom MAUAD: só no site oficial",
         "paragraphs": [
-          "O MAUAD dá 10% e vale só no site oficial; em Mercado Livre, Amazon, Drogasil e C&A, o preço é o que aparece na tela.",
-          "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, a fita do site sai por R$ 105,21, ainda R$ 20,81 acima da loja oficial do Mercado Livre. Os preços mudam de um dia para o outro, principalmente na Black Friday, então confira os dois no dia em que for comprar. Quando o site ficar mais barato ou empatar, a troca pelo portal da marca é um motivo a mais para ficar nele.",
-          "Os dois preços são sem frete. No site, uma fita sozinha fica abaixo da faixa de frete grátis (compras acima de R$ 199), então ponha o CEP no carrinho antes de comparar; no Mercado Livre, o anúncio com Full mostra o frete e o dia da entrega. Para duas fitas, a conta muda: o kit Leve 2 do site aceitou o MAUAD no nosso teste de carrinho. Antes de fechar duas unidades no Mercado Livre, ponha o kit no carrinho do site com o cupom e compare o total.",
+          "O MAUAD dá 10% e vale só no site oficial; no Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela.",
+          "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, a fita do site sai por R$ 105,21, abaixo de todos os outros canais. O Mercado Livre só fica mais barato quando a loja oficial roda promoção, com desconto do produto e cupom da loja somados, e isso muda de um dia para o outro. Antes de fechar no site, abra [a loja oficial da Fita Up](https://meli.la/2qNDns1) e veja se há promoção no momento; sem ela, o site com o cupom ganha.",
+          "Os preços da tabela são sem frete. No site, uma fita sozinha fica abaixo da faixa de frete grátis (compras acima de R$ 199), então ponha o CEP no carrinho antes de comparar; no Mercado Livre, o anúncio com Full mostra o frete e o dia da entrega. Para duas fitas, o kit Leve 2 do site aceitou o MAUAD no nosso teste de carrinho e chega mais perto do frete grátis.",
           "Para comprar no site com o cupom, [use este link da Toda Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao). As regras do cupom estão na [página da Toda Up em Cupons](/cupons/toda-up)."
         ],
         "images": [
@@ -189144,33 +189137,32 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up perto de mim",
         "paragraphs": [
-          "Para ver a fita perto de você, o caminho é o localizador de lojas parceiras da própria marca. A Toda Up publica a [lista de lojas parceiras](https://todaup.com/pages/localizador-lojas-parceiras) com 1.659 pontos, muitos deles lojas Renner, e dá para filtrar as lojas por \"Pronta-entrega\" e por \"Delivery\", para quem quer a fita no mesmo dia sem sair de casa.",
+          "Para ver a fita perto de você, o caminho é o localizador de lojas parceiras da própria marca. A Toda Up publica a [lista de lojas parceiras](https://todaup.com/pages/localizador-lojas-parceiras) com 1.659 pontos, e dá para filtrar as lojas por \"Pronta-entrega\" e por \"Delivery\", para quem quer a fita no mesmo dia sem sair de casa.",
           "Num raio de 15 km, o localizador mostra 13 pontos no Rio, 26 em Belo Horizonte e mais de 50 em São Paulo. Em Florianópolis, perto da sede da marca, são 33 no mesmo raio. A lista traz o WhatsApp de cada loja: chame ou ligue antes de ir, para saber se a cor e o tamanho estão na prateleira."
         ]
       },
       {
         "heading": "Qual canal escolher",
         "paragraphs": [
-          "Quem quer pagar menos leva a loja oficial do Mercado Livre; quem quer a troca pelo portal da marca leva o site."
+          "Pelo preço de tabela, o site com o cupom é a compra mais em conta e a única com a troca pelo portal da marca; o Mercado Livre só passa à frente em dia de promoção."
         ],
         "bullets": [
-          "Menor preço: Mercado Livre, loja oficial. O vendedor é a própria marca e o preço do dia é o mais baixo da tabela.",
-          "Garantia e troca de 30 dias: site oficial, com o MAUAD. É o canal em que a política da marca vale sem ressalva.",
+          "Menor preço sem promoção: site oficial, com o MAUAD. É também o canal em que a política de troca da marca vale sem ressalva.",
+          "Dia de promoção: confira a loja oficial do Mercado Livre pelo link antes de fechar; com desconto do produto e cupom da loja somados, ela pode ficar abaixo do site.",
           "Prefere a Amazon: compre da loja da Toda Up, enviada pela Amazon, e não do vendedor de fora do mesmo anúncio.",
           "Outro marketplace: compre só da loja oficial da marca; de outro vendedor, a troca e a garantia ficam com ele.",
           "Quer ver antes de levar: a loja parceira mais perto, depois de chamar no WhatsApp.",
-          "Drogasil e C&A: só se já estiver lá; a Drogasil tem uma variação, sem estoque, e a C&A tem o rolo só na largura P."
+          "Drogasil e Droga Raia: só se já estiver lá; há uma variação, sem estoque."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up da loja oficial no Mercado Livre, porque é a mais barata do dia e quem vende é a própria marca."
+        "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up do site oficial com o cupom. Vale conferir e comparar o preço no Mercado Livre e na Amazon, mas normalmente é o site que dá o melhor custo-benefício."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Fita Up onde comprar? No site oficial da Toda Up, com o cupom, e também na loja oficial do Mercado Livre, na Amazon, na Drogasil, na C&A e em lojas parceiras. O capítulo \"Onde a Fita Up é vendida hoje\" mostra o vendedor de cada um.",
-          "Fita Up vende na Renner? No site da Renner a marca aparece sem produto à venda, mas muitas lojas Renner estão no localizador da marca. Veja o capítulo \"Fita Up perto de mim\".",
+          "Fita Up onde comprar? No site oficial da Toda Up, com o cupom, e também na loja oficial do Mercado Livre, na Amazon, na Drogasil e em lojas parceiras. O capítulo \"Onde a Fita Up é vendida hoje\" mostra o vendedor de cada um.",
           "Fita Up original no Mercado Livre? Sim, quando o vendedor é a loja oficial Fita Up, com o selo de loja oficial; revendedores de fora são outra coisa. O capítulo \"Fita Up original\" explica o que conferir.",
           "Fita Up tem na Drogasil? Tem uma variação, vendida pela própria Fita UP, mas sem estoque nas duas redes hoje. O capítulo \"Onde a Fita Up é vendida hoje\" traz o resto.",
-          "Fita Up tem loja física? Tem, nas lojas parceiras que a marca lista no localizador, muitas delas Renner. O capítulo \"Fita Up perto de mim\" diz como achar a mais próxima."
+          "Fita Up tem loja física? Tem, nas lojas parceiras que a marca lista no localizador. O capítulo \"Fita Up perto de mim\" diz como achar a mais próxima."
         ]
       }
     ]
