@@ -62,6 +62,24 @@ export const storeBannersData: StoreBanner[] = [
     "verifiedAt": "2026-11-04"
   },
   {
+    "id": "clea-store-black-30-2026",
+    "affiliate": "clea-store",
+    "slot": "top",
+    "href": "https://www.cleastore.com.br/",
+    "art": {
+      "kind": "bag"
+    },
+    "copy": {
+      "pt": {
+        "headline": "Black Friday da Cléa Store: 30% OFF em todo o site",
+        "text": "Campanha da própria Cléa Store, com kits de camiseta a preço fixo. As condições aparecem no site da loja.",
+        "action": "Ver a campanha"
+      }
+    },
+    "source": "Home e /black-friday de cleastore.com.br (\"30% OFF em todo o site\", kits de t-shirts por R$ 199,00), lidas no navegador em 05/11/2026, sem contador nem data de fim",
+    "verifiedAt": "2026-11-05"
+  },
+  {
     "id": "damie-esquenta-black-2026",
     "affiliate": "damie",
     "slot": "top",
