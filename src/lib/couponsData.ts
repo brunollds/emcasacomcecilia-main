@@ -2558,9 +2558,9 @@ const STORE_COUPONS: Coupon[] = [
     metaTitle: 'Cupom Hostinger: 20% OFF em tudo com SONAR20 (nov/2026)',
     metaDescription:
       'Cupom Hostinger testado em 29/10/2026: SONAR20 dá 20% OFF em planos mensais e anuais, para cliente novo ou antigo, inclusive na Black Friday.',
-    eligibleCategories: 'Todos os planos da Hostinger, mensais ou anuais, para clientes novos e antigos',
+    eligibleCategories: 'Compra nova de qualquer plano da Hostinger, mensal ou anual, para clientes novos e antigos; a renovação sai sem desconto',
     validity: 'Cupom ativo enquanto a parceria estiver vigente',
-    reusable: 'Vale para clientes novos e para quem já tem plano na Hostinger',
+    reusable: 'Vale em compra nova, para clientes novos e para quem já tem conta na Hostinger; na renovação, não há desconto',
     shipping: 'Não se aplica',
     combinable:
       'Soma com as promoções da Hostinger: no teste de 29/10/2026, os 20% entraram sobre o preço de Black Friday; a soma com outros cupons não foi testada',
@@ -2572,7 +2572,7 @@ const STORE_COUPONS: Coupon[] = [
       'Copie o código SONAR20 no card acima.',
       'Abra a Hostinger pelo botão desta página, escolha o plano e o período e siga para o carrinho.',
       'No resumo do pedido, clique em "Tem um cupom de desconto?", cole o SONAR20 e clique em Aplicar.',
-      'Confira o desconto e o preço da renovação no carrinho antes de pagar.',
+      'Confira o desconto no carrinho antes de pagar. A renovação, no fim do período, sai pelo preço de tabela que aparece abaixo do plano.',
     ],
     aboutBrand:
       'A Hostinger é uma empresa de hospedagem de sites, com planos de hospedagem, criador de sites, VPS, domínios e e-mail. O Em Casa com Cecília roda na Hostinger desde 2024, como aplicação Node.js. O SONAR20 é o cupom da parceria: dá 20% OFF em todos os planos, para clientes novos e antigos.',
@@ -2584,7 +2584,7 @@ const STORE_COUPONS: Coupon[] = [
       },
       {
         question: 'O SONAR20 vale para quem já é cliente da Hostinger?',
-        answer: 'Sim. O cupom vale para clientes novos e para quem já tem plano na Hostinger.',
+        answer: 'Sim, em compra nova: o cupom vale para quem está chegando e para quem já tem conta na Hostinger e contrata um plano novo. Na renovação de um plano, não há desconto.',
       },
       {
         question: 'Tem cupom de primeira compra na Hostinger?',
@@ -2619,7 +2619,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O desconto vale na renovação?',
         answer:
-          'Sim. O SONAR20 vale também na renovação e no VPS; só não vale no registro de domínio. O carrinho mostra o preço de renovação abaixo do plano; confira esse valor antes de pagar.',
+          'Não. Os 20% do SONAR20 valem só na compra nova: pela regra do programa de indicação da Hostinger, a renovação sai pelo preço de tabela, sem desconto. Na compra nova, ele vale também no VPS; só não vale no registro de domínio. O carrinho mostra o preço de renovação abaixo do plano; confira esse valor antes de pagar.',
       },
       {
         question: 'O Em Casa com Cecília usa a Hostinger?',
@@ -2633,7 +2633,7 @@ const STORE_COUPONS: Coupon[] = [
     ],
     monthlyHighlight: {
       scope: 'em todos os planos',
-      note: 'Vale para clientes novos e antigos, em planos mensais ou anuais',
+      note: 'Vale na compra nova, para clientes novos e antigos, em planos mensais ou anuais; a renovação sai sem desconto',
     },
     status: 'ativo',
     featured: false,

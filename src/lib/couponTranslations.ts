@@ -612,9 +612,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     metaTitle: 'Hostinger Coupon Code 2026: 20% Off Everything with SONAR20',
     metaDescription:
       'Hostinger coupon tested on Oct 29, 2026: SONAR20 takes 20% off monthly and yearly plans, for new and existing customers, Black Friday included.',
-    eligibleCategories: 'Every Hostinger plan, monthly or yearly, for new and existing customers',
+    eligibleCategories: 'New purchases of any Hostinger plan, monthly or yearly, for new and existing customers; renewals are not discounted',
     validity: 'Coupon active while the partnership runs',
-    reusable: 'Works for new customers and for those who already have a Hostinger plan',
+    reusable: 'Works on new purchases, for new customers and for those who already have a Hostinger account; renewals are not discounted',
     shipping: 'Does not apply',
     combinable:
       "Works on top of Hostinger's Black Friday price (in our October 29, 2026 test, the 20% came off the sale price); stacking with other coupons has not been tested",
@@ -630,7 +630,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Does SONAR20 work for existing Hostinger customers?',
         answer:
-          'Yes. The coupon works for new customers and for those who already have a Hostinger plan.',
+          'Yes, on a new purchase: the coupon works for newcomers and for existing Hostinger customers who buy a new plan. Renewing a plan gets no discount.',
       },
       {
         question: 'Is there a first-purchase coupon for Hostinger?',
@@ -665,7 +665,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Does the discount apply to renewals?',
         answer:
-          'Yes. SONAR20 also applies to renewals and to VPS plans; it does not apply to domain registration. The cart shows the renewal price under the plan, so check that amount before paying.',
+          "No. SONAR20's 20% applies only to new purchases: under Hostinger's referral program rules, renewals are charged at the regular price, with no discount. On a new purchase it also applies to VPS plans; it does not apply to domain registration. The cart shows the renewal price under the plan, so check that amount before paying.",
       },
       {
         question: 'Does Em Casa com Cecília use Hostinger?',
@@ -685,11 +685,11 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       'Copy the code SONAR20 from the card above.',
       'Open Hostinger through the button on this page, choose the plan and the term, and go to the cart.',
       'In the order summary, click "Have a coupon code?", paste SONAR20 and click Apply.',
-      'Check the discount and the renewal price in the cart before paying.',
+      'Check the discount in the cart before paying. At the end of the term, the renewal is charged at the regular price shown under the plan.',
     ],
     monthlyHighlight: {
       scope: 'on every plan',
-      note: 'Works for new and existing customers, on monthly or yearly plans',
+      note: 'Works on new purchases, for new and existing customers, on monthly or yearly plans; renewals are not discounted',
     },
   },
   es: {
@@ -701,9 +701,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     metaTitle: 'Cupón Hostinger 2026: 20% en todo con SONAR20',
     metaDescription:
       'Cupón de Hostinger probado el 29 de octubre de 2026: SONAR20 da un 20% en planes mensuales y anuales, para clientes nuevos y actuales, con Black Friday.',
-    eligibleCategories: 'Todos los planes de Hostinger, mensuales o anuales, para clientes nuevos y actuales',
+    eligibleCategories: 'Compras nuevas de cualquier plan de Hostinger, mensual o anual, para clientes nuevos y actuales; la renovación no tiene descuento',
     validity: 'Cupón activo mientras dure la colaboración',
-    reusable: 'Funciona para clientes nuevos y para quienes ya tienen un plan de Hostinger',
+    reusable: 'Funciona en compras nuevas, para clientes nuevos y para quienes ya tienen cuenta en Hostinger; la renovación no tiene descuento',
     shipping: 'No aplica',
     combinable:
       'Funciona sobre el precio de Black Friday de Hostinger (en nuestra prueba del 29 de octubre de 2026, el 20% se aplicó sobre el precio de oferta); no se ha probado combinarlo con otros cupones',
@@ -719,7 +719,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '¿SONAR20 funciona para clientes actuales de Hostinger?',
         answer:
-          'Sí. El cupón funciona para clientes nuevos y para quienes ya tienen un plan de Hostinger.',
+          'Sí, en una compra nueva: el cupón funciona para quien llega y para quien ya tiene cuenta en Hostinger y contrata un plan nuevo. La renovación de un plan no tiene descuento.',
       },
       {
         question: '¿Hay cupón de primera compra en Hostinger?',
@@ -754,7 +754,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '¿El descuento se aplica a las renovaciones?',
         answer:
-          'Sí. El SONAR20 también vale en la renovación y en el VPS; no vale en el registro de dominios. El carrito muestra el precio de renovación debajo del plan, así que revisa ese importe antes de pagar.',
+          'No. El 20% del SONAR20 vale solo en compras nuevas: según las reglas del programa de referidos de Hostinger, la renovación se cobra a precio de lista, sin descuento. En una compra nueva también vale en el VPS; no vale en el registro de dominios. El carrito muestra el precio de renovación debajo del plan, así que revisa ese importe antes de pagar.',
       },
       {
         question: '¿Em Casa com Cecília usa Hostinger?',
@@ -774,11 +774,11 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       'Copia el código SONAR20 de la tarjeta de arriba.',
       'Abre Hostinger con el botón de esta página, elige el plan y el período, y ve al carrito.',
       'En el resumen del pedido, haz clic en "Have a coupon code?", pega SONAR20 y haz clic en Apply.',
-      'Revisa el descuento y el precio de renovación en el carrito antes de pagar.',
+      'Revisa el descuento en el carrito antes de pagar. Al final del periodo, la renovación se cobra al precio de lista que aparece debajo del plan.',
     ],
     monthlyHighlight: {
       scope: 'en todos los planes',
-      note: 'Funciona para clientes nuevos y actuales, en planes mensuales o anuales',
+      note: 'Funciona en compras nuevas, para clientes nuevos y actuales, en planes mensuales o anuales; la renovación no tiene descuento',
     },
   },
   fr: {
@@ -788,9 +788,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     longDescription: `Le code promo SONAR20 accorde 20${NBSP}% de réduction sur toutes les offres Hostinger, mensuelles ou annuelles, que vous soyez nouveau client ou déjà client. Saisissez le code dans le champ de code promo du panier. Testé le 29 octobre 2026 sur l’offre Startup, en plus du prix du Black Friday. Em Casa com Cecília est hébergé chez Hostinger depuis 2024.`,
     metaTitle: `Code promo Hostinger 2026${NBSP}: 20${NBSP}% sur tout avec SONAR20`,
     metaDescription: `Code promo Hostinger testé le 29 octobre 2026${NBSP}: SONAR20 donne 20${NBSP}% sur les offres mensuelles et annuelles, nouveaux et existants, Black Friday inclus.`,
-    eligibleCategories: 'Toutes les offres Hostinger, mensuelles ou annuelles, pour les nouveaux clients et les clients existants',
+    eligibleCategories: `Nouveaux achats de toute offre Hostinger, mensuelle ou annuelle, pour les nouveaux clients et les clients existants${NBSP}; le renouvellement n’est pas remisé`,
     validity: 'Code promo valable pendant toute la durée du partenariat',
-    reusable: 'Valable pour les nouveaux clients et pour ceux qui ont déjà une offre Hostinger',
+    reusable: `Valable sur les nouveaux achats, pour les nouveaux clients et pour ceux qui ont déjà un compte Hostinger${NBSP}; pas de réduction sur le renouvellement`,
     shipping: 'Sans objet',
     combinable: `S’applique en plus du prix Black Friday de Hostinger (lors de notre test du 29 octobre 2026, les 20${NBSP}% ont été appliqués au prix soldé)${NBSP}; le cumul avec d’autres codes promo n’a pas été testé`,
     aboutBrand: `Hostinger est un hébergeur web qui propose des offres d’hébergement, un créateur de site, des VPS, des noms de domaine et des e-mails. Em Casa com Cecília est hébergé chez Hostinger depuis 2024, en tant qu’application Node.js. SONAR20 est le code promo du partenariat${NBSP}: 20${NBSP}% de réduction sur chaque offre, pour les nouveaux clients et les clients existants.`,
@@ -802,7 +802,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `SONAR20 fonctionne-t-il pour les clients existants de Hostinger${NBSP}?`,
-        answer: 'Oui. Le code fonctionne pour les nouveaux clients et pour ceux qui ont déjà une offre Hostinger.',
+        answer: `Oui, sur un nouvel achat${NBSP}: le code fonctionne pour les nouveaux venus et pour les clients Hostinger existants qui prennent une nouvelle offre. Le renouvellement d’une offre ne bénéficie d’aucune réduction.`,
       },
       {
         question: `Existe-t-il un code promo Hostinger pour une première commande${NBSP}?`,
@@ -832,7 +832,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `La réduction s’applique-t-elle aux renouvellements${NBSP}?`,
-        answer: `Oui. SONAR20 s’applique aussi aux renouvellements et aux VPS${NBSP}; il ne s’applique pas à l’enregistrement de noms de domaine. Le panier affiche le prix de renouvellement sous l’offre${NBSP}: vérifiez ce montant avant de payer.`,
+        answer: `Non. Les 20${NBSP}% de SONAR20 ne valent que pour les nouveaux achats${NBSP}: selon les règles du programme de parrainage de Hostinger, le renouvellement est facturé au prix catalogue, sans réduction. Sur un nouvel achat, il s’applique aussi aux VPS${NBSP}; il ne s’applique pas à l’enregistrement de noms de domaine. Le panier affiche le prix de renouvellement sous l’offre${NBSP}: vérifiez ce montant avant de payer.`,
       },
       {
         question: `Em Casa com Cecília utilise-t-il Hostinger${NBSP}?`,
@@ -849,11 +849,11 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       'Copiez le code SONAR20 depuis la carte ci-dessus.',
       'Ouvrez Hostinger avec le bouton de cette page, choisissez l’offre et la période, puis allez au panier.',
       `Dans le récapitulatif de commande, cliquez sur "Have a coupon code${NBSP}?", collez SONAR20 et cliquez sur Apply.`,
-      'Vérifiez dans le panier la réduction et le prix du renouvellement avant de payer.',
+      'Vérifiez la réduction dans le panier avant de payer. À la fin de la période, le renouvellement est facturé au prix catalogue affiché sous l’offre.',
     ],
     monthlyHighlight: {
       scope: 'sur toutes les offres',
-      note: 'Valable pour les nouveaux clients et les clients existants, sur les offres mensuelles ou annuelles',
+      note: `Valable sur les nouveaux achats, pour les nouveaux clients et les clients existants, sur les offres mensuelles ou annuelles${NBSP}; le renouvellement n’est pas remisé`,
     },
   },
   de: {
@@ -863,9 +863,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     longDescription: `SONAR20 gewährt 20${NBSP}% Rabatt auf alle Hostinger-Tarife, monatlich oder jährlich, egal ob Sie neu bei Hostinger sind oder schon Kunde. Fügen Sie den Code im Warenkorb in das Gutscheinfeld ein. Getestet am 29. Oktober 2026 beim Tarif Startup, zusätzlich zum Black-Friday-Preis. Em Casa com Cecília läuft seit 2024 bei Hostinger.`,
     metaTitle: `Hostinger-Gutschein 2026: 20${NBSP}% auf alles mit SONAR20`,
     metaDescription: `Hostinger-Gutschein getestet am 29. Oktober 2026: SONAR20 gibt 20${NBSP}% auf Monats- und Jahrestarife, für Neu- und Bestandskunden, auch zum Black Friday.`,
-    eligibleCategories: 'Alle Hostinger-Tarife, monatlich oder jährlich, für Neu- und Bestandskunden',
+    eligibleCategories: 'Neukäufe aller Hostinger-Tarife, monatlich oder jährlich, für Neu- und Bestandskunden; Verlängerungen ohne Rabatt',
     validity: 'Gutschein gültig, solange die Partnerschaft läuft',
-    reusable: 'Gilt für Neukunden und für alle, die bereits einen Hostinger-Tarif haben',
+    reusable: 'Gilt bei Neukäufen, für Neukunden und für alle, die bereits ein Hostinger-Konto haben; Verlängerungen sind nicht rabattiert',
     shipping: 'Entfällt',
     combinable: `Gilt zusätzlich zum Black-Friday-Preis von Hostinger (beim Test am 29. Oktober 2026 wurden die 20${NBSP}% vom Aktionspreis abgezogen); die Kombination mit anderen Gutscheinen wurde nicht getestet`,
     aboutBrand: `Hostinger ist ein Webhosting-Anbieter mit Hosting-Tarifen, Website-Baukasten, VPS, Domains und E-Mail. Em Casa com Cecília läuft seit 2024 bei Hostinger als Node.js-Anwendung. SONAR20 ist der Partnergutschein: 20${NBSP}% Rabatt auf alle Tarife, für Neu- und Bestandskunden.`,
@@ -877,7 +877,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `Gilt SONAR20 auch für bestehende Hostinger-Kunden?`,
-        answer: 'Ja. Der Gutschein gilt für Neukunden und für alle, die schon einen Hostinger-Tarif haben.',
+        answer: 'Ja, bei einem Neukauf: Der Gutschein gilt für Neukunden und für Bestandskunden von Hostinger, die einen neuen Tarif abschließen. Die Verlängerung eines Tarifs ist nicht rabattiert.',
       },
       {
         question: 'Gibt es einen Hostinger-Gutschein für die erste Bestellung?',
@@ -907,7 +907,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       },
       {
         question: `Gilt der Rabatt auch bei Verlängerungen?`,
-        answer: `Ja. SONAR20 gilt auch bei Verlängerungen und für VPS, nicht aber für die Registrierung von Domains. Der Warenkorb zeigt den Verlängerungspreis unter dem Tarif; prüfen Sie ihn also vor der Zahlung.`,
+        answer: `Nein. Die 20${NBSP}% von SONAR20 gelten nur bei Neukäufen: Nach den Regeln des Hostinger-Empfehlungsprogramms wird die Verlängerung zum Listenpreis berechnet, ohne Rabatt. Bei einem Neukauf gilt er auch für VPS, nicht aber für die Registrierung von Domains. Der Warenkorb zeigt den Verlängerungspreis unter dem Tarif; prüfen Sie ihn also vor der Zahlung.`,
       },
       {
         question: `Nutzt Em Casa com Cecília Hostinger?`,
@@ -924,11 +924,11 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       'Kopieren Sie den Code SONAR20 aus der Karte oben.',
       'Öffnen Sie Hostinger über den Button auf dieser Seite, wählen Sie Tarif und Laufzeit und gehen Sie in den Warenkorb.',
       `Klicken Sie in der Bestellübersicht auf „Have a coupon code?“, fügen Sie SONAR20 ein und klicken Sie auf Apply.`,
-      'Prüfen Sie im Warenkorb den Rabatt und den Verlängerungspreis, bevor Sie bezahlen.',
+      'Prüfen Sie den Rabatt im Warenkorb, bevor Sie bezahlen. Am Ende der Laufzeit wird die Verlängerung zum Listenpreis berechnet, der unter dem Tarif steht.',
     ],
     monthlyHighlight: {
       scope: 'bei allen Tarifen',
-      note: 'Gilt für Neu- und Bestandskunden, bei Monats- oder Jahrestarifen',
+      note: 'Gilt bei Neukäufen für Neu- und Bestandskunden, bei Monats- oder Jahrestarifen; Verlängerungen ohne Rabatt',
     },
   },
   it: {
@@ -940,9 +940,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     metaTitle: 'Coupon Hostinger 2026: 20% su tutto con SONAR20',
     metaDescription:
       'Coupon Hostinger testato il 29 ottobre 2026: SONAR20 dà il 20% su piani mensili e annuali, per clienti nuovi ed esistenti, Black Friday incluso.',
-    eligibleCategories: 'Ogni piano Hostinger, mensile o annuale, per clienti nuovi ed esistenti',
+    eligibleCategories: 'Nuovi acquisti di ogni piano Hostinger, mensile o annuale, per clienti nuovi ed esistenti; il rinnovo non è scontato',
     validity: 'Coupon attivo finché dura la partnership',
-    reusable: 'Vale per i nuovi clienti e per chi ha già un piano Hostinger',
+    reusable: 'Vale sui nuovi acquisti, per i nuovi clienti e per chi ha già un account Hostinger; il rinnovo non è scontato',
     shipping: 'Non applicabile',
     combinable:
       'Vale in aggiunta al prezzo Black Friday di Hostinger (nel nostro test del 29 ottobre 2026 il 20% è stato applicato sul prezzo scontato); la combinazione con altri coupon non è stata testata',
@@ -958,7 +958,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'SONAR20 vale per i clienti Hostinger già esistenti?',
         answer:
-          'Sì. Il coupon vale per i nuovi clienti e per chi ha già un piano Hostinger.',
+          'Sì, su un nuovo acquisto: il coupon vale per chi arriva e per i clienti Hostinger esistenti che attivano un nuovo piano. Il rinnovo di un piano non ha sconto.',
       },
       {
         question: 'Esiste un coupon Hostinger per il primo acquisto?',
@@ -993,7 +993,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'Lo sconto vale anche per i rinnovi?',
         answer:
-          'Sì. SONAR20 vale anche per i rinnovi e per i VPS; non vale per la registrazione dei domini. Il carrello mostra il prezzo di rinnovo sotto il piano, quindi controlla quell’importo prima di pagare.',
+          'No. Il 20% di SONAR20 vale solo sui nuovi acquisti: secondo le regole del programma di referral di Hostinger, il rinnovo si paga a prezzo di listino, senza sconto. Su un nuovo acquisto vale anche per i VPS; non vale per la registrazione dei domini. Il carrello mostra il prezzo di rinnovo sotto il piano, quindi controlla quell’importo prima di pagare.',
       },
       {
         question: 'Em Casa com Cecília usa Hostinger?',
@@ -1013,11 +1013,11 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       'Copia il codice SONAR20 dalla scheda qui sopra.',
       'Apri Hostinger con il pulsante di questa pagina, scegli il piano e la durata e vai al carrello.',
       'Nel riepilogo dell’ordine clicca su "Have a coupon code?", incolla SONAR20 e clicca su Apply.',
-      'Controlla nel carrello lo sconto e il prezzo di rinnovo prima di pagare.',
+      'Controlla lo sconto nel carrello prima di pagare. Alla fine del periodo, il rinnovo si paga al prezzo di listino indicato sotto il piano.',
     ],
     monthlyHighlight: {
       scope: 'su ogni piano',
-      note: 'Vale per clienti nuovi ed esistenti, su piani mensili o annuali',
+      note: 'Vale sui nuovi acquisti, per clienti nuovi ed esistenti, su piani mensili o annuali; il rinnovo non è scontato',
     },
   },
   ko: {
@@ -1029,9 +1029,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     metaTitle: 'Hostinger 쿠폰 2026: SONAR20으로 전체 20% 할인',
     metaDescription:
       'Hostinger 쿠폰 2026년 10월 29일 테스트 완료: SONAR20으로 월간·연간 요금제 20% 할인, 신규 및 기존 고객, 블랙 프라이데이 포함.',
-    eligibleCategories: 'Hostinger의 모든 월간 또는 연간 요금제, 신규 및 기존 고객 대상',
+    eligibleCategories: 'Hostinger 모든 월간·연간 요금제의 신규 구매, 신규 및 기존 고객 대상(갱신은 할인 없음)',
     validity: '파트너십이 진행되는 동안 쿠폰 유효',
-    reusable: '신규 고객과 이미 Hostinger 요금제를 쓰는 고객 모두 사용 가능',
+    reusable: '신규 구매 시 신규 고객과 이미 Hostinger 계정이 있는 고객 모두 사용 가능(갱신은 할인 없음)',
     shipping: '해당 없음',
     combinable:
       'Hostinger의 블랙 프라이데이 가격에 추가로 적용됩니다(2026년 10월 29일 테스트에서 20%는 할인가에 적용됨). 다른 쿠폰과의 중복 사용은 테스트하지 않았습니다',
@@ -1047,7 +1047,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'SONAR20은 기존 Hostinger 고객도 쓸 수 있나요?',
         answer:
-          '네. 이 쿠폰은 신규 고객과 이미 Hostinger 요금제를 쓰는 고객 모두에게 적용됩니다.',
+          '네, 신규 구매라면 가능합니다. 처음 가입하는 고객과 새 요금제를 구매하는 기존 Hostinger 고객 모두에게 적용됩니다. 요금제 갱신에는 할인이 없습니다.',
       },
       {
         question: 'Hostinger 첫 구매 쿠폰이 있나요?',
@@ -1082,7 +1082,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '할인은 갱신에도 적용되나요?',
         answer:
-          '네. SONAR20은 갱신과 VPS에도 적용되지만, 도메인 등록에는 적용되지 않습니다. 장바구니에는 요금제 아래에 갱신 가격이 표시되므로, 결제 전에 그 금액을 확인하세요.',
+          '아니요. SONAR20의 20% 할인은 신규 구매에만 적용됩니다. Hostinger 추천 프로그램 규정에 따라 갱신은 할인 없이 정가로 청구됩니다. 신규 구매라면 VPS에도 적용되지만, 도메인 등록에는 적용되지 않습니다. 장바구니에는 요금제 아래에 갱신 가격이 표시되므로, 결제 전에 그 금액을 확인하세요.',
       },
       {
         question: 'Em Casa com Cecília도 Hostinger를 쓰나요?',
@@ -1102,11 +1102,11 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       '위 카드에서 코드 SONAR20을 복사하세요.',
       '이 페이지의 버튼으로 Hostinger를 열고, 요금제와 기간을 고른 뒤 장바구니로 가세요.',
       '주문 요약에서 "Have a coupon code?"를 클릭하고, SONAR20을 붙여넣은 뒤 Apply를 클릭하세요.',
-      '결제 전에 장바구니에서 할인과 갱신 가격을 확인하세요.',
+      '결제 전에 장바구니에서 할인을 확인하세요. 기간이 끝나면 갱신은 요금제 아래에 표시된 정가로 청구됩니다.',
     ],
     monthlyHighlight: {
       scope: '모든 요금제',
-      note: '신규 및 기존 고객, 월간 또는 연간 요금제에서 사용 가능',
+      note: '신규 구매 시 신규 및 기존 고객, 월간 또는 연간 요금제에서 사용 가능(갱신은 할인 없음)',
     },
   },
   ja: {
@@ -1118,9 +1118,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     metaTitle: 'Hostinger割引コード2026：SONAR20で全プラン20%オフ',
     metaDescription:
       '2026年10月29日にテストしたHostingerクーポン：SONAR20で月額・年額プランが20%オフ。新規・既存の顧客が対象で、ブラックフライデーも含みます。',
-    eligibleCategories: 'Hostingerのすべての月額・年額プラン、新規・既存の顧客が対象',
+    eligibleCategories: 'Hostingerのすべての月額・年額プランの新規購入、新規・既存の顧客が対象（更新は割引なし）',
     validity: 'パートナーシップの期間中有効なクーポン',
-    reusable: '新規のお客様と、すでにHostingerプランをお持ちの方の両方に使えます',
+    reusable: '新規購入なら、新規のお客様にも、すでにHostingerのアカウントをお持ちの方にも使えます（更新は割引なし）',
     shipping: '該当なし',
     combinable:
       'Hostingerのブラックフライデー価格にさらに適用されます（2026年10月29日のテストでは、20%はセール価格から割り引かれました）。他のクーポンとの併用はテストしていません',
@@ -1136,7 +1136,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'SONAR20は既存のHostinger顧客も使えますか？',
         answer:
-          'はい。このクーポンは新規のお客様と、すでにHostingerプランをお持ちの方の両方に使えます。',
+          'はい、新規購入であれば使えます。初めての方にも、新しいプランを購入する既存のHostingerのお客様にも適用されます。プランの更新には割引がありません。',
       },
       {
         question: 'Hostingerに初回購入クーポンはありますか？',
@@ -1171,7 +1171,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '更新時の料金にも割引は適用されますか？',
         answer:
-          'はい。SONAR20は更新とVPSにも適用されますが、ドメイン登録には適用されません。カートにはプランの下に更新料金が表示されるので、支払い前にその金額を確認してください。',
+          'いいえ。SONAR20の20%割引は新規購入のみが対象です。Hostingerの紹介プログラムの規約により、更新は割引なしの通常料金で請求されます。新規購入ならVPSにも適用されますが、ドメイン登録には適用されません。カートにはプランの下に更新料金が表示されるので、支払い前にその金額を確認してください。',
       },
       {
         question: 'Em Casa com CecíliaはHostingerを使っていますか？',
@@ -1191,11 +1191,11 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       '上のカードからコード SONAR20 をコピーします。',
       'このページのボタンからHostingerを開き、プランと期間を選んでカートに進みます。',
       '注文概要で「Have a coupon code?」をクリックし、SONAR20 を貼り付けて Apply をクリックします。',
-      'お支払い前に、カートで割引額と更新料金を確認してください。',
+      'お支払い前に、カートで割引額を確認してください。期間の終了後、更新はプランの下に表示される通常料金で請求されます。',
     ],
     monthlyHighlight: {
       scope: 'すべてのプラン',
-      note: '新規・既存の顧客が、月額または年額プランで利用できます',
+      note: '新規購入なら、新規・既存の顧客が月額または年額プランで利用できます（更新は割引なし）',
     },
   },
   'zh-hant': {
@@ -1207,9 +1207,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     metaTitle: 'Hostinger 優惠碼 2026：SONAR20 全方案享 20% 折扣',
     metaDescription:
       'Hostinger 優惠碼 2026 年 10 月 29 日測試：SONAR20 月繳與年繳方案享 20% 折扣，新客與既有客戶皆適用，含黑色星期五。',
-    eligibleCategories: 'Hostinger 所有月繳或年繳方案，新客與既有客戶皆適用',
+    eligibleCategories: 'Hostinger 所有月繳或年繳方案的新購買，新客與既有客戶皆適用（續約不打折）',
     validity: '合作期間內有效',
-    reusable: '適用於新客，也適用於已有 Hostinger 方案的客戶',
+    reusable: '新購買時，新客與已有 Hostinger 帳戶的客戶皆適用（續約不打折）',
     shipping: '不適用',
     combinable:
       '可疊加在 Hostinger 的黑色星期五價格上（在 2026 年 10 月 29 日的測試中，20% 是在特價上再打折）；與其他優惠碼併用尚未測試',
@@ -1225,7 +1225,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'SONAR20 適用於既有的 Hostinger 客戶嗎？',
         answer:
-          '適用。這個優惠碼適用於新客，也適用於已有 Hostinger 方案的客戶。',
+          '適用，但限新購買：新客，以及購買新方案的既有 Hostinger 客戶都能使用。方案續約沒有折扣。',
       },
       {
         question: 'Hostinger 有首購優惠碼嗎？',
@@ -1260,7 +1260,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '折扣也適用於續約嗎？',
         answer:
-          '是的。SONAR20 也適用於續約和 VPS，但不適用於網域註冊。購物車會在方案下方顯示續約價格，付款前請確認該金額。',
+          '不適用。SONAR20 的 20% 折扣只適用於新購買：依 Hostinger 推薦計畫的規則，續約以原價計費，沒有折扣。新購買時也適用於 VPS，但不適用於網域註冊。購物車會在方案下方顯示續約價格，付款前請確認該金額。',
       },
       {
         question: 'Em Casa com Cecília 也使用 Hostinger 嗎？',
@@ -1280,11 +1280,11 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       '從上方的卡片複製代碼 SONAR20。',
       '點選本頁的按鈕開啟 Hostinger，選擇方案與期限，然後前往購物車。',
       '在訂單摘要中點選「Have a coupon code?」，貼上 SONAR20，再點選 Apply。',
-      '付款前，請在購物車確認折扣與續約價格。',
+      '付款前，請在購物車確認折扣。期滿後，續約會以方案下方顯示的原價計費。',
     ],
     monthlyHighlight: {
       scope: '所有方案',
-      note: '新客與既有客戶皆適用，月繳或年繳方案都可用',
+      note: '新購買時，新客與既有客戶皆適用，月繳或年繳方案都可用（續約不打折）',
     },
   },
   'zh-hans': {
@@ -1296,9 +1296,9 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
     metaTitle: 'Hostinger 优惠码 2026：SONAR20 全套餐享 20% 折扣',
     metaDescription:
       'Hostinger 优惠码 2026 年 10 月 29 日测试：SONAR20 月付与年付套餐享 20% 折扣，新客户和现有客户均可使用，含黑色星期五。',
-    eligibleCategories: 'Hostinger 所有月付或年付套餐，新客户和现有客户均可使用',
+    eligibleCategories: 'Hostinger 所有月付或年付套餐的新购买，新客户和现有客户均可使用（续费不打折）',
     validity: '合作期间有效',
-    reusable: '适用于新客户，也适用于已拥有 Hostinger 套餐的客户',
+    reusable: '新购买时，新客户和已拥有 Hostinger 账户的客户均可使用（续费不打折）',
     shipping: '不适用',
     combinable:
       '可叠加在 Hostinger 的黑色星期五价格上（在 2026 年 10 月 29 日的测试中，20% 是在促销价基础上再打折）；与其他优惠码叠加尚未测试',
@@ -1314,7 +1314,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: 'SONAR20 适用于现有的 Hostinger 客户吗？',
         answer:
-          '适用。该优惠码适用于新客户，也适用于已拥有 Hostinger 套餐的客户。',
+          '适用，但仅限新购买：新客户，以及购买新套餐的现有 Hostinger 客户都可以使用。套餐续费没有折扣。',
       },
       {
         question: 'Hostinger 有首购优惠码吗？',
@@ -1349,7 +1349,7 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       {
         question: '折扣也适用于续费吗？',
         answer:
-          '是的。SONAR20 也适用于续费和 VPS，但不适用于域名注册。购物车会在套餐下方显示续费价格，付款前请确认该金额。',
+          '不适用。SONAR20 的 20% 折扣仅适用于新购买：根据 Hostinger 推荐计划的规则，续费按原价收取，没有折扣。新购买时也适用于 VPS，但不适用于域名注册。购物车会在套餐下方显示续费价格，付款前请确认该金额。',
       },
       {
         question: 'Em Casa com Cecília 也使用 Hostinger 吗？',
@@ -1369,11 +1369,11 @@ const HOSTINGER_TRANSLATIONS: Record<TranslatedLocale, CodeOfferTranslation> = {
       '从上方卡片复制代码 SONAR20。',
       '点击本页按钮打开 Hostinger，选择套餐和期限，然后进入购物车。',
       '在订单摘要中点击「Have a coupon code?」，粘贴 SONAR20，再点击 Apply。',
-      '付款前，请在购物车确认折扣和续费价格。',
+      '付款前，请在购物车确认折扣。到期后，续费会按套餐下方显示的原价收取。',
     ],
     monthlyHighlight: {
       scope: '所有套餐',
-      note: '新客户和现有客户均可使用，月付或年付套餐都适用',
+      note: '新购买时，新客户和现有客户均可使用，月付或年付套餐都适用（续费不打折）',
     },
   },
 };
