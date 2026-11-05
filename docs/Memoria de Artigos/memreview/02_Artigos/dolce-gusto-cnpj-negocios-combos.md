@@ -8,7 +8,7 @@ reviewKind: "guia"
 type: "Guia de compra"
 status: "pauta-aprovada"
 responsavel: "sessão de artigos"
-proxima_acao: "redação; reler /negocios-combos no dia"
+proxima_acao: "deploy"
 bloqueado_por: "-"
 data_criacao: "2026-11-05"
 modo_i18n: "somente-pt"
@@ -79,3 +79,13 @@ A referência é a caixa avulsa pelo preço "De" dos combos: R$ 24,90, ou R$ 2,4
 - Os combos e os preços mudam; a Black Friday começou em 05/11 (com "máquinas e combos não inclusos"). Reler a página no dia.
 - Não inventar a experiência de empresa. Ninguém do site tem conta Business.
 - Os 8 itens não visíveis da página: não citar.
+
+---
+
+## Redação, revisão e mídia (05/11/2026)
+
+- **Job 2 e Job 3 (Fable):** aprovado com 9 ajustes de uma frase, todos aplicados (faixas de equipe 5–7 e 8+, bebida com leite: Mochaccino Canela e Café au Lait usam uma cápsula, sem "Pessoal não vê os 10%", sem teto de 50 caixas, sem caminhos de URL no corpo). Lacunas: Mini Me (CNPJ/CECI a conferir no carrinho; tirando a máquina, as caixas saem a preço de lista), pessoa física (a página não diz), assinatura igual à da loja comum.
+- **Chrome (05/11, à tarde):** 18 itens; os preços da seção 1 batem. O passo a passo da página: "Faça login com sua conta CNPJ; selecione os Combos para Negócios; confira os 10% OFF aplicados no carrinho" (entrou no texto). A foto do combo do Alpino na loja é gerada por IA: não usar.
+- **Links para DN2, DN3 e DN4:** fora até eles irem ao ar (o `validate:content` barra link para artigo inexistente). Quando cada um for publicado, voltar com o link no capítulo "Para qual negócio serve".
+- **Job 6:** capa A aprovada pelo Bruno (Mini Me com as caixas, imagem que já estava no CDN). No corpo, dois prints da página dos combos (20 caixas com o passo a passo; 30, 50 e Mini Me). O CDN da Dolce Gusto deu "Access Denied" para download das fotos dos combos. A arte `mini-me-2-0-combo-maquina.webp` não serve: diz "CECI = -5%".
+- **Id 831.** Botão "Ver os combos para negócios" depois do cartão da Cecília.

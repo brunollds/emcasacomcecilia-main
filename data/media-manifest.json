@@ -53977,6 +53977,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-20-caixas.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-20-caixas.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 73870,
+      "sha256": "7f321fe5f28a2c0dda2dfe5b4df1421cc515307674520f574569f122ff9bfa02",
+      "width": 1441,
+      "height": 571,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-cnpj-combos-20-caixas.webp",
+      "storage_filename": "dolce-gusto-cnpj-combos-20-caixas.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-cnpj-negocios-combos.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-cnpj-negocios-combos.json",
+          "line": 161,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-20-caixas.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 189340,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-20-caixas.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/7f321fe5f28a2c0dda2dfe5b4df1421cc515307674520f574569f122ff9bfa02/dolce-gusto-cnpj-combos-20-caixas.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/7f321fe5f28a2c0dda2dfe5b4df1421cc515307674520f574569f122ff9bfa02/dolce-gusto-cnpj-combos-20-caixas.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T19:24:24.583Z",
+      "verification_etag_or_digest": "7f321fe5f28a2c0dda2dfe5b4df1421cc515307674520f574569f122ff9bfa02",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 68634,
+      "sha256": "95c4a90e25744bb96bfd879fb810cecf0429ced49401d76c97e36aa5cd53f1fa",
+      "width": 1441,
+      "height": 500,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+      "storage_filename": "dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-cnpj-negocios-combos.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-cnpj-negocios-combos.json",
+          "line": 222,
+          "column": 19,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 189401,
+          "column": 21,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/95c4a90e25744bb96bfd879fb810cecf0429ced49401d76c97e36aa5cd53f1fa/dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/95c4a90e25744bb96bfd879fb810cecf0429ced49401d76c97e36aa5cd53f1fa/dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T19:24:24.584Z",
+      "verification_etag_or_digest": "95c4a90e25744bb96bfd879fb810cecf0429ced49401d76c97e36aa5cd53f1fa",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa.webp",
+      "local_url": "/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 94216,
+      "sha256": "c3f159100c74018890ce1718eee29d1e4d4bc330c4ea9f892b9d9edc1f8259a2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "dolce-gusto-cnpj-negocios-combos-capa.webp",
+      "storage_filename": "dolce-gusto-cnpj-negocios-combos-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/dolce-gusto-cnpj-negocios-combos.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/dolce-gusto-cnpj-negocios-combos.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 189202,
+          "column": 15,
+          "literal": "/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c3f159100c74018890ce1718eee29d1e4d4bc330c4ea9f892b9d9edc1f8259a2/dolce-gusto-cnpj-negocios-combos-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c3f159100c74018890ce1718eee29d1e4d4bc330c4ea9f892b9d9edc1f8259a2/dolce-gusto-cnpj-negocios-combos-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T19:24:24.584Z",
+      "verification_etag_or_digest": "c3f159100c74018890ce1718eee29d1e4d4bc330c4ea9f892b9d9edc1f8259a2",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
       "local_url": "/images/reviews/dolcegusto/dolce-gusto-cupons-parceria.webp",
       "media_kind": "image",

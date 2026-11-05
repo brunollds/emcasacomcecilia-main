@@ -16,11 +16,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | R5 | Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey | Max Titanium | PT | [[whey-max-titanium-qual-escolher]] | O Super Whey é hipercalórico: entra? Teste do código no whey |
 | R6 | Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hiper) | Probiótica | PT | [[whey-probiotica-qual-escolher]] | Teste do código no whey; o Iso Protein Blend tem soja e não é whey |
 | R7 | Camiseta Insider encolhe? Como lavar, mancha e odor, com o short da Cecília | Insider | PT | [[camiseta-insider-encolhe-como-lavar]] | As 9 perguntas do briefing sobre o vídeo (peça, mancha, método, cheiro, uso). Encolher não foi testado |
-| HO1 | **Onboarding.** HolyFoods é confiável? CNPJ, site oficial, entrega e garantia | HolyFoods | PT | [[holyfoods-e-confiavel]] | No ar em 05/11 (release `040b1515`), com o vídeo da Cecília |
-| HO2 | **Onboarding.** HolyFoods no Reclame Aqui | HolyFoods | PT | [[holyfoods-reclame-aqui-nota-reputacao]] | No ar em 05/11 (release `040b1515`), com o vídeo da Cecília |
-| HO3 | **Onboarding.** Cupom HolyFoods: como usar o EMCASA | HolyFoods | PT | [[cupom-holyfoods-como-usar]] | No ar em 05/11 (release `040b1515`), com o vídeo da Cecília |
-| HO4 | **Onboarding, urgente.** Black Friday HolyFoods: 30% no site e o EMCASA por cima | HolyFoods | PT | [[black-friday-holyfoods]] | No ar em 05/11 (release `040b1515`), com o vídeo da Cecília |
-| DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | Redação. A primeira da série: DN2, DN3 e DN4 linkam para ela |
+| DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | Escrito, revisado (Job 3, Fable), capa aprovada e mídia no CDN em 05/11; id 831 na main, falta o deploy. Sai daqui quando for ao ar |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação, depois da DN1 |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação, depois da DN1 |
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
