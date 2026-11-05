@@ -206,3 +206,14 @@ antes da virada do mês. Registrado aqui como pendência permanente do artigo.
 - **Fatos só do Brasil** (preços em R$, parcelamento, Pix, empresa contratante, percentuais do banner, a frase "Código de indicação aplicado") ficaram só no PT. Fora do PT, preço é "consulte a página de preços da sua região pelo link", porque só a página brasileira foi lida.
 - **Traduções:** 8 subagentes (um por artigo e grupo de idiomas: en/es/fr/de e it/ko/ja/zh).
 - **Releitura (item 10 do Job 4), 19/10/2026, por outros agentes, um por grupo de idiomas (en+es, fr+de, it+ko, ja, zh-hant+zh-hans):** texto alternativo da capa corrigido onde descrevia outra imagem; saíram os percentuais do banner brasileiro, as frases sobre o que o card da página mostra na região do leitor e os rótulos de menu do hPanel traduzidos (os passos ficaram genéricos); "Ótima" em português trocado pela tradução; o alemão passou a usar "Sie" nas 4 versões; a frase de que a cobrança é a queixa mais citada passou a citar o Reclame Aqui como fonte em todas as versões do guia de confiança.
+
+## Atualização de 29/10/2026: cupom SONAR20
+
+- **Tese nova:** o SONAR20 tira mais 20% do preço da campanha. Título "Black Friday Hostinger 2026: o cupom SONAR20 tira 20% do preço da campanha"; SEO "Black Friday Hostinger 2026: campanha + cupom SONAR20". Saiu a comparação "campanha ou link, qual sai mais barato".
+- **Testes citados:** no PT, os do /br e o global; fora do PT, só o global (Startup de 48 meses US$ 383,52 → US$ 306,82).
+- **Imagens:** a arte `black-friday-hostinger-campanha-x-link` saiu do corpo (dizia "campanha ou link de indicação"); o arquivo segue no CDN, sem uso.
+- **Pendente:** reler os preços da campanha antes da Black Friday.
+- **No ar em 29/10/2026:** PR #353 (squash `1120ec60`), no mesmo deploy do #352 (página da loja), release `7eb13d89`; probe 40904062038 e IndexNow.
+- **O que mudou nas 10 versões:** `coupon: "SONAR20"`; links `?REFERRALCODE=SONAR20` com o caminho mantido (PT em `/br`); saíram "não há código", "só no link", "12 meses ou mais", "só cliente novo" e "não soma"; "com/sem a indicação" virou "com/sem o SONAR20"; a nota de transparência fala em comissão, sem o "crédito na Hostinger".
+- **Renovação:** o SONAR20 não dá desconto na renovação (termos do programa, 05/11; os artigos foram corrigidos no #580). O texto diz "a renovação sai pelo preço da tabela"; os preços de renovação lidos na página seguem nas tabelas como preço de tabela.
+- **Regras daqui em diante:** as do dossiê [[Hostinger]] (seção 3). As instruções de "indicação, sem código" acima ficam só como histórico.
