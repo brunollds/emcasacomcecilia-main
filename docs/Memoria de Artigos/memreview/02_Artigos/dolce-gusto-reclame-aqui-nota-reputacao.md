@@ -8,9 +8,9 @@ coupon: "CECI"
 category: "confianca-reputacao"
 reviewKind: "editorial"
 type: "Análise de Reputação"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
-proxima_acao: "redação (Jobs 3 a 6); reler o Reclame Aqui no dia da redação"
+proxima_acao: "-"
 bloqueado_por: "-"
 data_criacao: "2026-11-04"
 pauta: "Rodada do Bing de 04/11/2026, pauta 3 (BG2), aprovada pelo Bruno em 04/11"
@@ -92,3 +92,10 @@ Perfil `reclameaqui.com.br/empresa/nescafe-dolce-gusto/`, CNPJ 60.409.075/0001-5
   nota é do Reclame Aqui: se usar, com fonte, como nos outros artigos de reputação.
 - `somente-pt`, `isNew: true`, `relatedArticles` com `dolce-gusto-e-confiavel`, `cupom-ceci-nescafe-dolce-gusto-como-usar`,
   `assinatura-dolce-gusto-como-funciona` e `clube-dolce-gusto-como-funciona`.
+
+## Redação (05/11/2026)
+- Reclame Aqui relido em 05/11/2026, com as abas 2024 (Regular, 6,9; 3.403 recebidas; 100% respondidas; 68% resolvidas; 2 dias e 2 horas) e Geral (05/11/2023 a 04/11/2026: Regular, 6,9; 10.456; 99,8%; 68,4%; 1 dia e 8 horas). 6 meses, 12 meses e 2025 iguais aos da pauta.
+- Entrega: sem o "até 30 dias úteis", que não aparece no site; o FAQ diz que o prazo é o da transportadora escolhida no checkout, e o regulamento, que conta de quando o pedido está com ela.
+- Assistência: (11) 2060-9777, o número do bloco geral do FAQ da Dolce Gusto, e o buscador de postos da Arno (arno.com.br/assistencia-tecnica, que cobre Nescafé Dolce Gusto). O FAQ tem outro número numa resposta sobre peça faltando, (11) 2915-4400, que ficou fora.
+- Cupom: o CECI soma com as promoções, salvo no carrinho com resgate de pontos do Club (regulamento). Decisão do Bruno (05/11): omitir as ressalvas de acessórios e de combos.
+- Imagens aprovadas pelo Bruno (05/11): capa B (cinco máquinas + print do perfil no RA) e dois quadros nossos (períodos e principais problemas).

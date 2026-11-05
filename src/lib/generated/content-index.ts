@@ -187742,5 +187742,264 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 824,
+    "slug": "dolce-gusto-reclame-aqui-nota-reputacao",
+    "bodyDatesReason": "reclame-aqui",
+    "title": "Dolce Gusto no Reclame Aqui: nota, reclamações e o que os dados mostram",
+    "seoTitle": "Dolce Gusto no Reclame Aqui: nota e reclamações",
+    "type": "Análise de Reputação",
+    "category": "confianca-reputacao",
+    "reviewKind": "editorial",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Dolce Gusto está na faixa Regular do Reclame Aqui nos últimos 6 e 12 meses, com nota 6,6 e 6,9. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
+    "metaDescription": "O CECI dá 10% OFF na Dolce Gusto a partir de R$ 100. No Reclame Aqui, Regular (nota 6,6 em 6 meses), 100% respondidas: as queixas mais comuns.",
+    "publishedAt": "5 de novembro de 2026",
+    "publishedAtISO": "2026-11-05",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-capa.webp",
+    "imageAlt": "Cinco máquinas Nescafé Dolce Gusto e o topo do perfil Nescafe Dolce Gusto no Reclame Aqui, com a reputação Regular",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Dolce Gusto está na faixa Regular do Reclame Aqui nos últimos 6 e 12 meses, com nota 6,6 e 6,9, e foi Boa em 2025. A loja respondeu 100% das reclamações nos 6 meses, e a queixa mais comum é a entrega. Para o desconto, veja o [cupom Dolce Gusto](/cupons/dolce-gusto)."
+        ]
+      },
+      {
+        "heading": "Os números da Dolce Gusto no Reclame Aqui",
+        "paragraphs": [
+          "Os números abaixo são do perfil Nescafé Dolce Gusto no Reclame Aqui, lidos em 05/11/2026. Leia primeiro a aba de 6 meses, a mais recente: as outras mostram de onde a loja veio."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-periodos.webp",
+            "alt": "Quadro com a reputação da Nescafé Dolce Gusto no Reclame Aqui por período: Regular nos 6 e nos 12 meses, Boa em 2025 e Regular em 2024, com nota, reclamações, respondidas, resolvidas e tempo médio de resposta de cada aba",
+            "caption": "Quadro nosso com os dados do perfil Nescafé Dolce Gusto no Reclame Aqui.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3333
+          }
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Indicador",
+            "6 meses (maio a outubro de 2026)",
+            "12 meses (novembro de 2025 a outubro de 2026)",
+            "2025",
+            "2024",
+            "Geral (últimos 3 anos)"
+          ],
+          "rows": [
+            [
+              "Reputação",
+              "Regular",
+              "Regular",
+              "Boa",
+              "Regular",
+              "Regular"
+            ],
+            [
+              "Nota",
+              "6,6",
+              "6,9",
+              "7,0",
+              "6,9",
+              "6,9"
+            ],
+            [
+              "Reclamações recebidas",
+              "1.833",
+              "3.643",
+              "3.271",
+              "3.403",
+              "10.456"
+            ],
+            [
+              "Respondidas",
+              "100%",
+              "100%",
+              "100%",
+              "100%",
+              "99,8%"
+            ],
+            [
+              "Resolvidas",
+              "63,4%",
+              "67,4%",
+              "70,5%",
+              "68%",
+              "68,4%"
+            ],
+            [
+              "Voltariam a fazer negócio",
+              "57,4%",
+              "61,7%",
+              "62,9%",
+              "61%",
+              "61,5%"
+            ],
+            [
+              "Reclamações avaliadas",
+              "888",
+              "1.845",
+              "1.722",
+              "1.871",
+              "5.480"
+            ],
+            [
+              "Nota média do consumidor",
+              "5,1",
+              "5,47",
+              "5,45",
+              "5,35",
+              "5,38"
+            ],
+            [
+              "Tempo médio de resposta",
+              "20 horas",
+              "20 horas",
+              "23 horas",
+              "2 dias e 2 horas",
+              "1 dia e 8 horas"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na aba geral, 99,8% das reclamações foram respondidas, e 16 ainda aguardavam resposta no dia da leitura. A nota média do consumidor é outra conta: a média que quem reclamou deu ao atendimento, e nos 6 meses ficou em 5,1."
+        ]
+      },
+      {
+        "heading": "Como a reputação mudou",
+        "paragraphs": [
+          "A aba de 6 meses mostra a Dolce Gusto na faixa Boa de maio a agosto, e na Regular em setembro e outubro de 2026. A queda para Regular veio em setembro. Em 2025 a faixa foi Boa, e em 2024, Regular.",
+          "A leitura não traz o motivo da troca de faixa, e este texto não atribui causa."
+        ]
+      },
+      {
+        "heading": "O que mais aparece nas reclamações",
+        "paragraphs": [
+          "Na aba geral, que cobre até 3 anos, a entrega lidera as queixas: produto não recebido e atraso ficam na frente de qualquer outro problema."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-problemas.webp",
+            "alt": "Quadro com os principais problemas da Nescafé Dolce Gusto no Reclame Aqui: produto não recebido, atraso na entrega, propaganda enganosa e produto com defeito, com a quantidade de cada um",
+            "caption": "Quadro nosso com os principais problemas da aba geral do Reclame Aqui.",
+            "objectFit": "contain",
+            "aspectRatio": 1.3333
+          }
+        ],
+        "bullets": [
+          "Problemas: produto não recebido (2.235), atraso na entrega (2.187), propaganda enganosa (1.260), produto com defeito (692), problemas na finalização da compra (434), produto errado (366), promoção (276) e mau atendimento no SAC (205).",
+          "Produtos citados: cápsulas de café (3.842), cafeteiras e chaleiras (2.097) e café e cappuccinos (555).",
+          "Categoria: Matinais, com 28,8% das reclamações."
+        ],
+        "postParagraphs": [
+          "Conta nossa, pelos números da aba geral: não recebido e atraso somam 4.422 queixas, mais que os seis problemas seguintes da lista juntos (3.233). Propaganda enganosa e promoção vêm depois, seguidas de defeito e produto errado."
+        ]
+      },
+      {
+        "heading": "Entrega: o que a loja informa e o que fazer",
+        "paragraphs": [
+          "A loja informa: o prazo depende da transportadora escolhida no checkout, que mostra o valor e o prazo de cada uma antes do pagamento. Esse prazo conta a partir do momento em que o pedido está com a transportadora, não da data da compra. A transportadora não entra em casas nem em condomínios.",
+          "Se o pedido não chegar, o regulamento pede que você formalize em até 90 dias corridos depois da confirmação de entrega registrada pela transportadora. Depois disso, a loja não abre reclamação, então guarde o número do pedido e o código de rastreio desde a compra.",
+          "Se o prazo do checkout passar, comece pelo SAC da Nestlé: 0800 776 2233, pelo formulário de contato ou pelo WhatsApp, com o rastreio na mão. Para o resto da confiança na loja, veja [Dolce Gusto é confiável?](/reviews/dolce-gusto-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Promoção que não aplicou",
+        "paragraphs": [
+          "Pelo regulamento da loja, as promoções podem ser encerradas sem aviso prévio. Pôr um item em promoção no carrinho não garante o desconto caso a promoção seja encerrada.",
+          "O resgate de pontos do Club também muda a conta: o carrinho com resgate fica sem nenhuma promoção, automática ou por cupom."
+        ],
+        "postParagraphs": [
+          "Antes de pagar, confira no resumo do pedido se o desconto ainda está lá, principalmente se o carrinho tem resgate de pontos."
+        ]
+      },
+      {
+        "heading": "Defeito na máquina: a assistência técnica",
+        "paragraphs": [
+          "Pelo regulamento, o vício aparente precisa ser reclamado em até 90 dias depois do recebimento. Confira a máquina ao receber e fotografe o defeito antes de usar.",
+          "As máquinas são atendidas pela assistência técnica da Arno, separada do SAC da Nestlé. A Arno tem uma rede de postos autorizados para Nescafé Dolce Gusto, com busca por estado e cidade em [arno.com.br/assistencia-tecnica](https://www.arno.com.br/assistencia-tecnica). O telefone que a Dolce Gusto indica para a assistência é (11) 2060-9777.",
+          "Cápsulas, pedidos e dúvidas de compra vão ao SAC da Nestlé: 0800 776 2233, formulário de contato e WhatsApp. Na aba geral, a assistência técnica aparece com 19 reclamações, bem atrás da entrega."
+        ]
+      },
+      {
+        "heading": "Parceria e cupom",
+        "paragraphs": [
+          "O Em Casa com Cecília tem parceria com a Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
+          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, com até 3 usos por campanha. Ele soma com as promoções vigentes, salvo no carrinho com resgate de pontos do Club.",
+          "Os detalhes do cupom estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto), e o passo a passo para usar o código, no artigo [Cupom CECI Nescafé Dolce Gusto: como usar](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar)."
+        ]
+      },
+      {
+        "heading": "Dá para confiar na Dolce Gusto?",
+        "paragraphs": [
+          "Com cuidado, sim. A reputação é Regular nos 6 e 12 meses, e a loja responde a todas as reclamações do período. O ponto de atenção é a entrega, com não recebido e atraso à frente das outras queixas."
+        ],
+        "bullets": [
+          "Faixa: Regular nos 6 e 12 meses; Boa em 2025.",
+          "Respondidas: 100% nos 6 meses.",
+          "Resolvidas: 63,4% nos 6 meses, e 57,4% voltariam a fazer negócio.",
+          "Problema mais citado: produto não recebido, com 2.235 queixas na aba geral.",
+          "Cuidado prático: guarde o número do pedido e o rastreio, e confira a máquina ao receber, porque o vício aparente tem 90 dias."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Dolce Gusto é confiável no Reclame Aqui? A reputação é Regular nos últimos 6 e 12 meses, com nota 6,6 e 6,9. Esses números mostram as reclamações registradas, não a qualidade das cápsulas nem das máquinas.",
+          "Qual a nota da Dolce Gusto no Reclame Aqui? Nota 6,6 nos últimos 6 meses, 6,9 nos últimos 12 meses e 6,9 na aba geral. A tabela do artigo traz as cinco abas.",
+          "A Dolce Gusto responde as reclamações? Sim, 100% nos últimos 6 meses. Responder não é o mesmo que resolver: a tabela do artigo mostra a parte resolvida.",
+          "Do que mais reclamam da Dolce Gusto? De produto não recebido e atraso na entrega, que lideram a aba geral. Depois vêm propaganda enganosa, promoção e defeito.",
+          "Onde fica a assistência técnica da Dolce Gusto? A assistência das máquinas é da Arno. Você acha os postos autorizados por estado e cidade no site da Arno, e o telefone indicado pela Dolce Gusto é (11) 2060-9777."
+        ]
+      }
+    ],
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Você compra na loja oficial, guarda o número do pedido e o rastreio, e aceita esperar o prazo que o checkout mostra.",
+        "O que pesa para você é a loja responder todas as reclamações, mesmo com a faixa em Regular."
+      ],
+      "skipIf": [
+        "Um atraso ou um pedido não recebido estraga a compra, porque são as queixas mais comuns da aba geral.",
+        "Você quer a reputação em Boa agora: a faixa caiu em setembro e segue em Regular."
+      ]
+    },
+    "cta": {
+      "text": "Se for comprar, entre no site oficial da Dolce Gusto pelo botão, aplique o CECI no carrinho e guarde o número do pedido.",
+      "label": "Ir para a Dolce Gusto com o CECI",
+      "url": "https://www.nescafe-dolcegusto.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Dados do Reclame Aqui mudam com o tempo. Podemos receber comissão pelo CECI.",
+    "relatedArticles": [
+      {
+        "slug": "dolce-gusto-e-confiavel"
+      },
+      {
+        "slug": "cupom-ceci-nescafe-dolce-gusto-como-usar"
+      },
+      {
+        "slug": "assinatura-dolce-gusto-como-funciona"
+      },
+      {
+        "slug": "clube-dolce-gusto-como-funciona"
+      }
+    ]
   }
 ];
