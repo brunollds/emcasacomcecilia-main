@@ -11,7 +11,7 @@ type: "Comparativo de Compra"
 anexo_tipo: "Anexo-Moda"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "redacao"
 bloqueado_por: "navegador: as páginas de produto da Insider e da Minimal deram 429 em 05/11 (ver Dados do navegador)"
 score_autoridade: 70
 score_conversao: 75
@@ -204,7 +204,7 @@ Nº 1 da série "Insider ou X" ([[insider-ou-x-serie-0211]]), item R4 da rodada 
 
 ## Decisões do Bruno (05/11/2026)
 
-Rodada R4 aprovada na Fila (seção 3, bloco "Rodada de 05/11/2026"). Respostas às perguntas 1 a 3: pendentes.
+Rodada R4 aprovada na Fila (seção 3, bloco "Rodada de 05/11/2026"). Pergunta 1: as duas Minimal. A Tech Modal (R$ 109,90) contra a Insider Tech (R$ 129), modal com modal, e a Camiseta Minimal (R$ 169,90) contra a Insider Core (R$ 179), as premium. Pergunta 2: o Chrome já leu as quatro páginas (seção "Leitura no Chrome"). Pergunta 3: pendente.
 
 ---
 
@@ -231,4 +231,4 @@ Lido no Chrome do Bruno (Shopify das duas lojas):
 - A Minimal tem também "Camiseta Minimal Novas Cores" a R$ 129,90 e uma edição "Lucro Zero" a R$ 89,90 (cores vinho e areia).
 - O Pix da Minimal está bem abaixo da base de 12/10: pode ser campanha de Black. Pelo critério do Bruno (preço real, não promocional), a tabela usa o preço de cartão e o texto manda conferir o Pix no dia.
 - **Gramatura:** nenhuma das duas lojas publica o número em g/m² nessas páginas.
-- **Ainda é do Bruno:** qual Minimal comparar (a Tech Modal, que é o par direto da Tech, a Camiseta de algodão egípcio, ou as duas).
+- **Decidido (05/11):** as duas Minimal, em dois pares: Tech Modal × Insider Tech e Camiseta × Insider Core.
