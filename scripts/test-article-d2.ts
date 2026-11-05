@@ -180,7 +180,7 @@ assert.deepEqual(pickArticleLimitedCodes(limitedStore, limitedBase.code, 'pt', D
   code: 'PRAZOUM',
   startsAt: '2026-01-05T00:00:00-03:00',
   endsAt: '2026-01-08T23:59:59-03:00',
-  label: 'Até 8 de janeiro: 15% OFF com o PRAZOUM',
+  label: 'Até 8 de janeiro: 15%\u00a0OFF com o PRAZOUM',
 });
 // No bloco do artigo, os mesmos do pickArticleLimitedCodes na mesma hora, e sem prazo pendente o campo não existe. As
 // horas vêm dos dados (antes de tudo e o começo de cada prazo), não do relógio.
@@ -188,7 +188,6 @@ const storesWithWindows = getActiveCoupons().flatMap((item) =>
   item.offerMode === 'discount-code' && item.limitedCodes?.length ? [item.limitedCodes] : []
 );
 const blockTimes = [Date.parse('2020-01-01T00:00:00-03:00'), ...storesWithWindows.flat().map((item) => Date.parse(item.startsAt))];
-let limitedBlocks = 0;
 for (const now of blockTimes) {
   for (const review of publishedReviews) {
     const locale = resolveReviewLocale(review.locale) as CouponCopyLocale;
@@ -200,10 +199,25 @@ for (const now of blockTimes) {
       continue;
     }
     assert.deepEqual(block.limitedCodes, expected, `${review.slug}: códigos com prazo do bloco`);
-    limitedBlocks++;
   }
 }
-if (storesWithWindows.length > 0) assert.ok(limitedBlocks > 0, 'loja com código com prazo e nenhum artigo com a faixa');
+// A regra de quem leva a faixa, dita aqui sem o pickArticleLimitedCodes: no começo de cada prazo, todo artigo em PT da
+// loja de código sem faixas que usa o código de sempre leva aquele prazo no bloco, e nenhum outro artigo o leva. Loja com
+// prazo e sem artigo assim não tem o que conferir.
+for (const store of getActiveCoupons()) {
+  if (store.offerMode !== 'discount-code') continue;
+  for (const limited of store.limitedCodes ?? []) {
+    const at = Date.parse(limited.startsAt);
+    for (const review of publishedReviews) {
+      const locale = resolveReviewLocale(review.locale) as CouponCopyLocale;
+      const expected = !store.tiers?.length && review.affiliate === store.slug && locale === 'pt' && review.coupon === store.code;
+      const got = (getArticleStoreBlock(review, locale, at)?.limitedCodes ?? []).some(
+        (item) => item.code === limited.code && item.endsAt === limited.endsAt
+      );
+      assert.equal(got, expected, `${review.slug} (${locale}): o prazo do ${limited.code} até ${limited.endsAt} ${expected ? 'falta no' : 'sobra no'} bloco`);
+    }
+  }
+}
 
 // Textos novos do artigo: nos 10 idiomas, sem campo vazio e, fora do PT, diferentes dos do PT.
 const DAMIE = { slug: 'damie', brand: 'DAMIE' };

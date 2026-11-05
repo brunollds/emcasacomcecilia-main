@@ -1032,11 +1032,11 @@ function drawerStoreLinkProblems(dialog: string): string[] {
 }
 
 // A faixa do código com prazo (o CECIEMCASA15 da I Wanna Sleep) só monta no navegador. O HTML leva só o invólucro, com
-// o data-nosnippet e vazio: um em cada recorte (topo, lateral e fim), entre o "Ir para a loja" e a dica de copiado, e
-// um no card da gaveta, só nos artigos com prazo pendente quando a página foi gerada. O payload do React (os <script>
-// do self.__next_f) leva o campo limitedCodes e o código, que nenhum outro artigo leva. A frase não vai ao texto da
-// página, e o código não vai ao <head> nem ao JSON-LD, de onde sai o snippet: nem pela faixa, nem pelo texto do artigo
-// (o FAQ que cite o código vai ao FAQPage).
+// o data-nosnippet e vazio: um em cada um dos três recortes (topo, lateral e fim), entre o "Ir para a loja" e a dica de
+// copiado, e um no card da gaveta, só nos artigos com prazo pendente quando a página foi gerada. O payload do React (os
+// <script> do self.__next_f) leva o campo limitedCodes e o código, que nenhum outro artigo leva. Fora dele o código não
+// aparece: nem no HTML da página, nem no <head>, nem no JSON-LD, de onde sai o snippet. Nem pela faixa, nem pelo texto
+// do artigo, que é estático e seguiria com o código depois do prazo.
 const flightPayloadOf = (html: string) =>
   [...html.matchAll(/<script>self\.__next_f\.push\(([\s\S]*?)\)<\/script>/g)].map(([, chunk]) => chunk).join('');
 function limitedCodeLineProblems(body: string, html: string, own: readonly ArticleLimitedCode[]): string[] {
@@ -1047,8 +1047,10 @@ function limitedCodeLineProblems(body: string, html: string, own: readonly Artic
   for (const wrapper of wrappers) {
     if (!/^<div\b[^>]*\sdata-nosnippet=""[^>]*><\/div>$/.test(wrapper)) problems.push(`invólucro da faixa com conteúdo ou sem data-nosnippet: ${wrapper.slice(0, 160)}`);
   }
+  const variants: string[] = [];
   let placed = 0;
   for (const match of body.matchAll(/<section\b[^>]*\sdata-recorte="(top|end|sidebar)"/g)) {
+    variants.push(match[1]);
     const cutout = elementAt(body, match.index);
     const found = wrappersIn(cutout).length;
     placed += found;
@@ -1058,7 +1060,12 @@ function limitedCodeLineProblems(body: string, html: string, own: readonly Artic
     if (at < Math.max(cutout.lastIndexOf('<a '), cutout.lastIndexOf(' data-copied='))) problems.push(`recorte ${match[1]}: a faixa antes do "Copiar" ou do link da loja`);
     if (cutout.lastIndexOf('<p aria-hidden="true"') < at) problems.push(`recorte ${match[1]}: a faixa depois da dica de copiado`);
   }
-  const inDrawer = wrappersIn(body.match(/<dialog\b[\s\S]*?<\/dialog>/)?.[0] ?? '').length;
+  if (own.length > 0 && [...variants].sort().join() !== 'end,sidebar,top') {
+    problems.push(`recortes ${variants.join(', ') || 'nenhum'} em vez de top, sidebar e end`);
+  }
+  // Conta toda <dialog>: a gaveta não precisa ser a primeira.
+  let inDrawer = 0;
+  for (const dialog of body.match(/<dialog\b[\s\S]*?<\/dialog>/g) ?? []) inDrawer += wrappersIn(dialog).length;
   placed += inDrawer;
   if (inDrawer !== expected) problems.push(`gaveta: ${inDrawer} invólucros da faixa em vez de ${expected}`);
   if (placed !== wrappers.length) problems.push(`${wrappers.length - placed} invólucros da faixa fora dos recortes e da gaveta`);
@@ -1066,49 +1073,57 @@ function limitedCodeLineProblems(body: string, html: string, own: readonly Artic
   if (payload.includes('limitedCodes') !== own.length > 0) {
     problems.push(own.length > 0 ? 'payload sem o campo limitedCodes' : 'campo limitedCodes no payload de artigo sem código com prazo');
   }
-  const jsonLd = [...html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)].map(([, json]) => json).join('');
-  const text = decodeHtml(body);
-  for (const { code, label } of own) {
-    if (!payload.includes(code)) problems.push(`${code} fora do payload`);
-    if (headOf(html).includes(code)) problems.push(`${code} no <head>`);
+  const head = headOf(html);
+  const jsonLd = JSON.stringify(jsonLdOf(html));
+  // Por código, não por prazo: os dois prazos da I Wanna Sleep são do mesmo CECIEMCASA15.
+  for (const code of new Set(own.map((item) => item.code))) {
+    if (!payload.includes(code)) problems.push(`${code} ausente do payload`);
+    if (body.includes(code)) problems.push(`${code} no HTML da página`);
+    if (head.includes(code)) problems.push(`${code} no <head>`);
     if (jsonLd.includes(code)) problems.push(`${code} no JSON-LD`);
-    if (text.includes(label)) problems.push(`a frase da faixa do ${code} no texto da página`);
   }
   return problems;
 }
-// O guarda acima passa no artigo certo e no artigo sem prazo, e falha com a faixa no HTML, sem o data-nosnippet, com a
-// faixa antes do "Copiar" ou depois da dica, com dois invólucros num recorte e nenhum na gaveta, com o invólucro fora dos
-// recortes, sem o payload, com o campo no payload de outro artigo e com o código no <head>, no JSON-LD ou no texto.
+// O guarda acima passa no artigo certo, no artigo sem prazo e com outra <dialog> antes da gaveta. Cada caso de erro
+// falha só pela conferência que ele mira: faixa no HTML, invólucro sem o data-nosnippet, faixa antes do "Copiar" ou
+// depois da dica, dois invólucros num recorte e nenhum na gaveta, invólucro fora dos recortes, recorte que falta,
+// payload sem o campo ou sem o código, o campo no payload de outro artigo e o código no HTML, no <head> ou no JSON-LD.
 {
+  type Place = 'fim' | 'meio' | 'depois';
   const own: ArticleLimitedCode[] = [
     { code: 'CECIEMCASA15', startsAt: '2026-11-04T00:00:00-03:00', endsAt: '2026-11-08T23:59:59-03:00', label: 'Até 8 de novembro: 15%\u00a0OFF com o CECIEMCASA15' },
   ];
   const wrapper = '<div data-nosnippet="" data-limited-code-lines=""></div>';
-  const cutout = (variant: string, wrap: string, place: 'fim' | 'meio' | 'depois') =>
+  const cutout = (variant: string, wrap: string, place: Place) =>
     `<section data-recorte="${variant}"><code>CECIEMCASA</code>${place === 'meio' ? wrap : ''}<button data-copied="false">Copiar</button>` +
     `<a href="https://loja.example/" rel="sponsored">Ir</a>${place === 'fim' ? wrap : ''}<p aria-hidden="true">Copiado.</p>` +
     `${place === 'depois' ? wrap : ''}</section>`;
-  const page = ({ wrap = wrapper, place = 'fim' as 'fim' | 'meio' | 'depois', drawer = wrap, extra = '' } = {}) =>
-    `<main>${['top', 'end', 'sidebar'].map((variant) => cutout(variant, wrap, place)).join('')}${extra}</main>` +
+  const page = ({ wrap = wrapper, place = 'fim' as Place, drawer = wrap, extra = '', variants = ['top', 'sidebar', 'end'] } = {}) =>
+    `<main>${variants.map((variant) => cutout(variant, wrap, place)).join('')}${extra}</main>` +
     `<dialog><article><code>CECIEMCASA</code>${drawer}</article></dialog>`;
-  const payload = '<script>self.__next_f.push([1,"{\\"limitedCodes\\":[{\\"code\\":\\"CECIEMCASA15\\"}]}"])</script>';
-  const check = (markup: string, { withPayload = true, head = '', codes = own }: { withPayload?: boolean; head?: string; codes?: ArticleLimitedCode[] } = {}) => {
-    const html = `<html><head>${head}</head><body>${markup}${withPayload ? payload : ''}</body></html>`;
+  const flight = (data: string) => `<script>self.__next_f.push([1,${JSON.stringify(data)}])</script>`;
+  const check = (markup: string, { payload = flight('{"limitedCodes":[{"code":"CECIEMCASA15"}]}'), head = '', codes = own } = {}) => {
+    const html = `<html><head>${head}</head><body>${markup}${payload}</body></html>`;
     return limitedCodeLineProblems(bodyOf(html), html, codes);
   };
+  const failsOnlyWith = (problems: string[], pattern: RegExp, name: string) =>
+    assert.ok(problems.length > 0 && problems.every((problem) => pattern.test(problem)), `${name}: ${problems.join('; ') || 'passou'}`);
   assert.deepEqual(check(page()), []);
-  assert.deepEqual(check(page({ wrap: '' }), { withPayload: false, codes: [] }), [], 'artigo sem prazo barrado');
-  assert.notDeepEqual(check(page({ wrap: wrapper.replace('></div>', `><button>${own[0].label}</button></div>`) })), [], 'faixa no HTML passou');
-  assert.notDeepEqual(check(page({ wrap: wrapper.replace(' data-nosnippet=""', '') })), [], 'invólucro sem data-nosnippet passou');
-  assert.notDeepEqual(check(page({ place: 'meio' })), [], 'faixa antes do "Copiar" passou');
-  assert.notDeepEqual(check(page({ place: 'depois' })), [], 'faixa depois da dica passou');
-  assert.notDeepEqual(check(page({ drawer: '' }).replace(wrapper, wrapper + wrapper)), [], 'dois invólucros num recorte e nenhum na gaveta passaram');
-  assert.notDeepEqual(check(page({ drawer: '', extra: wrapper })), [], 'invólucro da gaveta fora dela passou');
-  assert.notDeepEqual(check(page(), { withPayload: false }), [], 'código fora do payload passou');
-  assert.notDeepEqual(check(page({ wrap: '' }), { codes: [] }), [], 'campo limitedCodes no payload de artigo sem prazo passou');
-  assert.notDeepEqual(check(page(), { head: '<meta name="description" content="Use o CECIEMCASA15">' }), [], 'código no <head> passou');
-  assert.notDeepEqual(check(page({ extra: '<script type="application/ld+json">{"description":"CECIEMCASA15"}</script>' })), [], 'código no JSON-LD passou');
-  assert.notDeepEqual(check(page({ extra: `<p>${own[0].label}</p>` })), [], 'frase da faixa no texto passou');
+  assert.deepEqual(check(page({ wrap: '' }), { payload: '', codes: [] }), [], 'artigo sem prazo barrado');
+  assert.deepEqual(check(page({ extra: '<dialog><p>Foto ampliada</p></dialog>' })), [], 'outra <dialog> antes da gaveta barrada');
+  failsOnlyWith(check(page({ wrap: wrapper.replace('></div>', '><span>Copiar</span></div>') })), /^invólucro da faixa com conteúdo/, 'faixa no HTML');
+  failsOnlyWith(check(page({ wrap: wrapper.replace(' data-nosnippet=""', '') })), /^invólucro da faixa com conteúdo ou sem data-nosnippet/, 'invólucro sem data-nosnippet');
+  failsOnlyWith(check(page({ place: 'meio' })), /: a faixa antes do "Copiar"/, 'faixa antes do "Copiar"');
+  failsOnlyWith(check(page({ place: 'depois' })), /: a faixa depois da dica de copiado$/, 'faixa depois da dica');
+  assert.deepEqual(check(page({ drawer: '' }).replace(wrapper, wrapper + wrapper)), ['recorte top: 2 invólucros da faixa em vez de 1', 'gaveta: 0 invólucros da faixa em vez de 1']);
+  assert.deepEqual(check(page({ drawer: '', extra: wrapper })), ['gaveta: 0 invólucros da faixa em vez de 1', '1 invólucros da faixa fora dos recortes e da gaveta']);
+  assert.deepEqual(check(page({ variants: ['sidebar', 'end'] })), ['recortes sidebar, end em vez de top, sidebar e end']);
+  assert.deepEqual(check(page(), { payload: flight('"CECIEMCASA15"') }), ['payload sem o campo limitedCodes']);
+  assert.deepEqual(check(page(), { payload: flight('{"limitedCodes":[{"code":"OUTROCODIGO"}]}') }), ['CECIEMCASA15 ausente do payload']);
+  assert.deepEqual(check(page({ wrap: '' }), { codes: [] }), ['campo limitedCodes no payload de artigo sem código com prazo']);
+  assert.deepEqual(check(page({ extra: '<p>Use o CECIEMCASA15 agora</p>' })), ['CECIEMCASA15 no HTML da página']);
+  assert.deepEqual(check(page(), { head: '<meta name="description" content="Use o CECIEMCASA15">' }), ['CECIEMCASA15 no <head>']);
+  assert.deepEqual(check(page({ extra: '<script type="application/ld+json">{"description":"CECIEMCASA15"}</script>' })), ['CECIEMCASA15 no JSON-LD']);
 }
 
 // O topo do artigo (data-article="topo": trilha, título, dados, idiomas, histórico, recorte e foto) e o corpo
@@ -1906,8 +1921,9 @@ for (const url of articleUrls) {
 const sitemapArticlePaths = new Set(articleUrls.map((url) => new URL(url).pathname));
 for (const review of publishedReviews) {
   const pagePath = getReviewCanonicalPathname(review);
-  const file = sitemapArticlePaths.has(pagePath) ? undefined : builtFile(new URL(pagePath, SITE_URL).href);
-  if (!file) continue;
+  if (sitemapArticlePaths.has(pagePath)) continue;
+  const file = builtFile(new URL(pagePath, SITE_URL).href);
+  assert.ok(file, `${pagePath}: artigo publicado fora do sitemap sem página no build`);
   const html = read(file);
   const locale = LOCALE_KEYS.find((key) => key === pagePath.split('/')[1]) ?? 'pt';
   const own = getArticleStoreBlock(review, locale, fs.statSync(file).mtimeMs)?.limitedCodes ?? [];
