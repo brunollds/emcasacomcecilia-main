@@ -1,0 +1,265 @@
+{
+  "id": 817,
+  "slug": "hostinger-renouvellement-code-sonar20",
+  "locale": "fr",
+  "translationKey": "hostinger-renovacao-cupom",
+  "title": "Renouvellement Hostinger : prix, code SONAR20 et remboursement avant de payer",
+  "seoTitle": "Renouvellement Hostinger : prix, SONAR20, remboursement",
+  "type": "Guide de décision",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Édition et analyse",
+      "initials": "BL"
+    }
+  ],
+  "description": "Le renouvellement Hostinger coûte plus cher que la première période. Prix de chaque forfait, date du prélèvement, désactivation de l'automatique et délai de remboursement.",
+  "metaDescription": "Le code SONAR20 donne 20 % sur un nouveau forfait Hostinger ; le renouvellement est au prix catalogue. Voyez le coût de chaque forfait et le remboursement.",
+  "publishedAt": "5 novembre 2026",
+  "publishedAtISO": "2026-11-05",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp",
+  "imageAlt": "Logo Hostinger avec les icônes d'un calendrier de renouvellement et d'un reçu",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Lisez ce guide si vous avez déjà un hébergement ou un VPS chez Hostinger et voulez trancher sur le renouvellement avant le prélèvement.",
+      "Lisez-le aussi si votre compte compte plusieurs services et que vous voulez savoir ce qui se renouvelle, quoi désactiver et ce qui reste à part, comme le domaine."
+    ],
+    "skipIf": [
+      "Passez votre chemin si vous voulez seulement souscrire votre premier forfait : le guide du code répond mieux.",
+      "Passez votre chemin si vous devez seulement renouveler un domaine : le guide du domaine répond mieux."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "En souscrivant un nouveau forfait, saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % de réduction sur l'achat.",
+    "label": "Voir les forfaits Hostinger avec le SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Nous pouvons toucher une commission sur le code et sur les liens.",
+  "relatedArticles": [
+    {
+      "slug": "code-promo-hostinger-parrainage",
+      "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+    },
+    {
+      "slug": "hostinger-est-il-fiable",
+      "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+    },
+    {
+      "slug": "domaine-hostinger-acheter-ou-transferer",
+      "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Renouvellement et ce qu'il faut vérifier"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Réponse rapide",
+      "paragraphs": [
+        "Renouveler coûte plus cher que la première période, et le renouvellement automatique est activé d'office. Le SONAR20 donne 20 % sur un nouveau forfait, mais le renouvellement est facturé au prix catalogue. Vous verrez ci-dessous ce que coûte chaque renouvellement, quand le prélèvement a lieu, comment le couper et jusqu'à quand demander un remboursement."
+      ]
+    },
+    {
+      "heading": "Ce que coûte le renouvellement de chaque forfait",
+      "paragraphs": [
+        "Le prix d'appel ne vaut que pour la première période ; ensuite, c'est le prix de renouvellement qui compte. Le prix bas affiché couvre la durée souscrite, 48 mois en hébergement et 24 en VPS. À son terme, Hostinger renouvelle pour la même durée, au prix de la dernière colonne."
+      ],
+      "comparisonTable": {
+        "caption": "Prix de Hostinger au 4 novembre, en dollars américains, sans code.",
+        "headers": [
+          "Forfait",
+          "Première période (par mois)",
+          "Durée",
+          "Total de la première période",
+          "Renouvellement (par mois)"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "1,99 US$",
+            "48 mois",
+            "95,52 US$",
+            "10,99 US$"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "2,79 US$",
+            "48 mois",
+            "133,92 US$",
+            "16,99 US$"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "7,99 US$",
+            "48 mois",
+            "383,52 US$",
+            "25,99 US$"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "6,49 US$",
+            "24 mois",
+            "155,76 US$",
+            "11,99 US$"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "8,79 US$",
+            "24 mois",
+            "210,96 US$",
+            "14,99 US$"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "12,99 US$",
+            "24 mois",
+            "311,76 US$",
+            "28,99 US$"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "25,99 US$",
+            "24 mois",
+            "623,76 US$",
+            "49,99 US$"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Notre calcul : d'après les prix du tableau, renouveler Premium pour 48 mois de plus coûte 527,52 US$ (48 × 10,99), soit plus de cinq fois les 95,52 US$ de la première période.",
+        "Si vous hésitez entre deux forfaits, comparez-les par la colonne du renouvellement, pas par celle du prix d'appel : c'est là que se joue votre budget après la première période."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-fr.webp",
+        "alt": "Graphique en barres du prix par mois des forfaits Hostinger sur la première période et au renouvellement : Premium, Unlimited et Cloud Startup en hébergement, et KVM 1, 2, 4 et 8 en VPS ; pour tous, le renouvellement coûte plus cher",
+        "caption": "Chaque forfait en deux barres : le prix par mois sur la première période et au renouvellement. Tableau d'Em Casa com Cecília, d'après les prix de la page de Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
+    },
+    {
+      "heading": "Le SONAR20 et le renouvellement",
+      "paragraphs": [
+        "Le SONAR20 donne 20 % sur un nouvel achat ; le renouvellement est facturé au prix de la dernière colonne du tableau. Les conditions du programme de parrainage de Hostinger précisent que la réduction de 20 % ne vaut que pour les nouveaux achats, et le domaine reste de toute façon hors du code.",
+        "Ainsi, le compte de celui qui renouvelle est celui de la colonne du renouvellement, sans réduction. Le code intervient quand vous souscrivez un nouveau forfait : où le saisir est expliqué dans [comment utiliser le code promo Hostinger](/fr/reviews/code-promo-hostinger-parrainage), et les règles du **SONAR20** sont sur la page du [code promo Hostinger](/fr/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Quand Hostinger prélève le renouvellement",
+      "paragraphs": [
+        "Avec le renouvellement automatique activé, le prélèvement arrive avant l'échéance, plus ou moins tôt selon le forfait. Le centre d'aide de Hostinger indique que le moyen de paiement enregistré est débité :"
+      ],
+      "bullets": [
+        "14 jours avant l'échéance, pour un forfait d'hébergement annuel ou plus long ;",
+        "le jour de l'échéance, pour un forfait mensuel ;",
+        "27 jours avant l'échéance, pour le domaine."
+      ],
+      "postParagraphs": [
+        "La date peut varier un peu. S'il reste un jour ou moins avant le renouvellement, il ne se fait pas tout seul sur ce cycle : il faut renouveler à la main. Gardez du solde sur le moyen de paiement autour de ces dates.",
+        "Pour renouveler à la main à tout moment, ouvrez Facturation, puis Abonnements, et cliquez sur renouveler à côté du service. Le prix du renouvellement, hors taxes, s'affiche là, dans la colonne du prix de renouvellement. Quand le forfait approche de l'échéance, sa carte, dans la zone des sites du panneau, affiche la date et le bouton de renouvellement."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-cobranca-fr.webp",
+        "alt": "Frise du renouvellement automatique de Hostinger : l'hébergement annuel est prélevé 14 jours avant l'échéance, le mensuel le jour de l'échéance et le domaine 27 jours avant ; les 30 jours pour demander un remboursement courent à partir du prélèvement, et le renouvellement de domaine n'est pas remboursable",
+        "caption": "Quand le prélèvement a lieu et jusqu'à quand demander un remboursement. Tableau d'Em Casa com Cecília, d'après le centre d'aide et la politique de remboursement de Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9677
+      }
+    },
+    {
+      "heading": "Comment désactiver le renouvellement automatique",
+      "paragraphs": [
+        "Le renouvellement automatique se désactive service par service, et le forfait reste actif jusqu'à l'échéance. Le chemin :"
+      ],
+      "bullets": [
+        "Dans le panneau Hostinger, ouvrez le profil et allez dans Facturation.",
+        "Ouvrez Abonnements.",
+        "Trouvez le service et désactivez l'interrupteur à côté.",
+        "Lisez la page d'avertissement que Hostinger ouvre pour ce produit et confirmez. Pour le réactiver, il suffit de recliquer sur l'interrupteur."
+      ],
+      "postParagraphs": [
+        "Le désactiver ne change pas l'état du service : il reste actif jusqu'à l'échéance et n'est plus débité. Ce qui a déjà été prélevé ne revient pas par ce chemin ; le remboursement a sa propre règle, dans la section suivante. Sur un forfait mensuel avec une facture en attente, la facture est annulée et l'abonnement prend fin à la fin du cycle. Avec une facture partiellement payée, des crédits appliqués ou un cycle d'un an ou plus, il peut falloir contacter le support, via l'assistant IA de Hostinger.",
+        "Deux détails pèsent dans la décision. Pour changer la durée du forfait au renouvellement, le renouvellement automatique doit être activé. Et si le forfait arrive à échéance, l'avertissement sur sa carte indique que les sites sont mis hors ligne. Dans le doute, ne coupez l'interrupteur que lorsque vous avez décidé de ne pas renouveler."
+      ]
+    },
+    {
+      "heading": "Remboursement après le renouvellement",
+      "paragraphs": [
+        "Le renouvellement ouvre un nouveau délai de 30 jours pour demander un remboursement, avec des exceptions. La boutique indique : les produits ne sont remboursables que s'ils sont annulés dans les 30 jours suivant la date de la transaction, et la date à laquelle Hostinger traite un renouvellement compte comme date de la transaction."
+      ],
+      "bullets": [
+        "Remboursement standard : l'hébergement, sur tous les forfaits, sauf le premier paiement après un essai gratuit ; et le VPS KVM, sauf les mises à niveau.",
+        "Pas de remboursement : le renouvellement de domaine, le transfert de domaine terminé, la protection de la vie privée, la licence de VPS, la mise à niveau de VPS KVM, les crédits IA et le support payant.",
+        "Le VPS a une règle de plus : le remboursement n'est accordé que s'il est demandé dans les 30 jours et si le dernier remboursement d'un autre forfait VPS a été demandé il y a plus de 180 jours. Qui a demandé le remboursement d'un autre VPS dans les 180 derniers jours n'est pas remboursé sur celui-ci."
+      ],
+      "postParagraphs": [
+        "Le compte à rebours commence au prélèvement, pas à l'échéance. Sur le forfait annuel, prélevé 14 jours avant l'échéance, les 30 jours se terminent environ deux semaines après la date d'échéance. Notez le jour du prélèvement : passés les 30 jours, la demande n'est plus recevable."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-reembolso-fr.webp",
+        "alt": "Tableau du remboursement après renouvellement chez Hostinger : l'hébergement et le VPS KVM ont 30 jours à partir du prélèvement, avec des exceptions ; le renouvellement de domaine n'est pas remboursable",
+        "caption": "Ce qui est remboursable après le renouvellement, par service. Tableau d'Em Casa com Cecília, d'après la politique de remboursement de Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 1.0909
+      }
+    },
+    {
+      "heading": "Le domaine reste à part",
+      "paragraphs": [
+        "Le domaine n'est pas remboursable au renouvellement et n'accepte pas non plus le SONAR20, il appelle donc une décision à part. Son renouvellement a son propre interrupteur, dans la zone des domaines du panneau, et il est prélevé 27 jours avant l'échéance. Seul l'enregistrement neuf a un court délai de remboursement, de 96 heures ; le renouvellement n'en a aucun.",
+        "Décidez pour le domaine avant ce prélèvement : regardez le prix, voyez s'il doit rester chez ce registraire et ne le laissez se renouveler qu'ensuite. Les voies pour enregistrer, transférer ou laisser le domaine de côté sont dans [domaine chez Hostinger](/fr/reviews/domaine-hostinger-acheter-ou-transferer)."
+      ]
+    },
+    {
+      "heading": "Avant de renouveler : ce qu'il faut décider",
+      "paragraphs": [
+        "Avant de renouveler, ce qui décide, c'est le prix de renouvellement et la date du prélèvement, pas le prix du premier achat. Em Casa com Cecília tourne chez Hostinger depuis 2024, avec un hébergement, un VPS KVM 2, la messagerie et des domaines, tous avec le renouvellement automatique activé : ici, le renouvellement est une dépense du foyer, et mieux vaut en connaître le montant avant qu'il n'arrive."
+      ],
+      "bullets": [
+        "Regardez le prix de renouvellement de chaque service, dans Abonnements.",
+        "Décidez, service par service, si le renouvellement automatique reste activé.",
+        "Notez le jour du prélèvement : c'est de là que court le délai de remboursement.",
+        "Gardez du solde sur le moyen de paiement autour de cette date.",
+        "Traitez le domaine à part, avec son prix et sa décision."
+      ],
+      "postParagraphs": [
+        "Dans le doute, laissez le renouvellement automatique activé sur ce que vous utilisez et ne le coupez que sur ce que vous avez déjà décidé d'abandonner."
+      ],
+      "emphasis": "Un renouvellement se décide au calme, avant l'arrivée du prélèvement, et non le jour de l'échéance."
+    },
+    {
+      "heading": "Questions fréquentes",
+      "bullets": [
+        "Le code Hostinger vaut-il au renouvellement ? Non : le SONAR20 donne 20 % sur un nouvel achat, et le renouvellement est facturé au prix catalogue. La section du SONAR20 explique où le code intervient.",
+        "Comment annuler le renouvellement automatique de Hostinger ? Dans Facturation, Abonnements, désactivez l'interrupteur du service ; il reste actif jusqu'à l'échéance. Le pas-à-pas est dans la section sur la désactivation.",
+        "Hostinger rembourse-t-il le renouvellement ? Oui, dans les 30 jours suivant le prélèvement, pour l'hébergement et le VPS KVM ; le renouvellement de domaine n'est pas remboursable. Les exceptions sont dans la section du remboursement.",
+        "Quand Hostinger prélève-t-il le renouvellement automatique ? Sur le forfait annuel, 14 jours avant l'échéance ; sur le mensuel, le jour de l'échéance. Le domaine a son propre délai, dans la section sur le moment du prélèvement.",
+        "Que se passe-t-il si mon forfait Hostinger arrive à échéance ? Les sites sont mis hors ligne, comme l'indique la carte du forfait. Pour éviter cela, renouvelez avant l'échéance ou laissez le renouvellement automatique activé."
+      ]
+    }
+  ]
+}

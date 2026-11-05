@@ -1,0 +1,265 @@
+{
+  "id": 823,
+  "slug": "hostinger-renewal-sonar20-zh-hans",
+  "locale": "zh-hans",
+  "translationKey": "hostinger-renovacao-cupom",
+  "title": "Hostinger 续费：价格、SONAR20 优惠码与付款前的退款确认",
+  "seoTitle": "Hostinger 续费：价格、SONAR20 与退款",
+  "type": "决策指南",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "编辑与分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "Hostinger 的续费价比首期更贵。看看各套餐的续费价、什么时候扣款、如何关闭自动续费，以及退款最晚可以申请到什么时候。",
+  "metaDescription": "SONAR20 优惠码可让新的 Hostinger 套餐享 20% 折扣；续费则按价目表计价。看看各套餐续费多少钱，以及退款期限。",
+  "publishedAt": "2026年11月5日",
+  "publishedAtISO": "2026-11-05",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp",
+  "imageAlt": "Hostinger 标志，搭配续费日历与收据图标",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "如果你已经在 Hostinger 有主机或 VPS，想在扣款前决定要不要续费，这篇适合你。",
+      "如果账户里有好几项服务，想弄清楚哪些会续费、哪些要关闭、哪些像域名一样要另外处理，这篇适合你。"
+    ],
+    "skipIf": [
+      "如果你只想购买第一个套餐，可以跳过；优惠码指南更能回答你的问题。",
+      "如果你只需要续费域名，可以跳过；域名指南更能回答你的问题。"
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "订购新套餐时，在购物车的优惠码栏输入 SONAR20，或从这个链接进入：购买享 20% 折扣。",
+    "label": "用 SONAR20 查看 Hostinger 套餐",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "通过优惠码和链接购买，我们可能获得佣金。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-referral-code-zh-hans",
+      "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+    },
+    {
+      "slug": "hostinger-trust-guide-zh-hans",
+      "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+    },
+    {
+      "slug": "hostinger-domain-zh-hans",
+      "title": "Hostinger 域名：在这里买、转入，还是在别处注册？续费与下单前要确认什么"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "快速回答",
+      "paragraphs": [
+        "续费比首期贵，而且自动续费默认是开启的。SONAR20 让新套餐享 20% 折扣，但续费按价目表计价。下面会看到各套餐续费多少钱、什么时候扣款、如何关闭，以及退款的申请期限。"
+      ]
+    },
+    {
+      "heading": "各套餐续费要多少钱",
+      "paragraphs": [
+        "入门价只在首期有效，之后要算的是续费价。展示的低价只涵盖所签的期限，主机是 48 个月，VPS 是 24 个月。期限结束后，Hostinger 会按相同期限、以最后一列的价格续费。"
+      ],
+      "comparisonTable": {
+        "caption": "Hostinger 11 月 4 日的价格，以美元计，未使用优惠码。",
+        "headers": [
+          "套餐",
+          "首期（每月）",
+          "期限",
+          "首期总额",
+          "续费（每月）"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 1.99",
+            "48 个月",
+            "US$ 95.52",
+            "US$ 10.99"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 2.79",
+            "48 个月",
+            "US$ 133.92",
+            "US$ 16.99"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$ 7.99",
+            "48 个月",
+            "US$ 383.52",
+            "US$ 25.99"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 6.49",
+            "24 个月",
+            "US$ 155.76",
+            "US$ 11.99"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 8.79",
+            "24 个月",
+            "US$ 210.96",
+            "US$ 14.99"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 12.99",
+            "24 个月",
+            "US$ 311.76",
+            "US$ 28.99"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "US$ 25.99",
+            "24 个月",
+            "US$ 623.76",
+            "US$ 49.99"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "我们的计算：按价目表，Premium 再续费 48 个月要 US$ 527.52，是首期所付 US$ 95.52 的五倍多。",
+        "在两个套餐之间犹豫时，请比较续费那一列，而不是首期那一列：首期过后，预算里留下的就是这个价格。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-zh-hans.webp",
+        "alt": "Hostinger 各套餐每月价格的柱状图，比较首期与续费：主机有 Premium、Unlimited、Cloud Startup，VPS 有 KVM 1、2、4、8；每个套餐的续费价都更高",
+        "caption": "每个套餐两根柱子：首期与续费的每月价格。由 Em Casa com Cecília 依据 Hostinger 页面上的价格制作的表格。",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
+    },
+    {
+      "heading": "SONAR20 与续费",
+      "paragraphs": [
+        "SONAR20 适用于新购买，享 20% 折扣；续费按价目表最后一列的价格计价。Hostinger 推荐计划的条款说明，20% 折扣只适用于新购买，而域名无论如何都不在优惠码范围内。",
+        "所以，续费的人要算的是没有折扣的续费列。优惠码用在订购新套餐时，粘贴的位置见[如何使用 Hostinger 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，**SONAR20** 的规则在[Hostinger 优惠码](/zh-hans/coupons/hostinger)页面。"
+      ]
+    },
+    {
+      "heading": "Hostinger 什么时候扣续费",
+      "paragraphs": [
+        "开启自动续费后，会在到期前扣款，提前多久取决于套餐。Hostinger 帮助中心表示，会在以下时间点向已保存的付款方式扣款："
+      ],
+      "bullets": [
+        "按年或更长期限的主机套餐：到期前 14 天；",
+        "按月套餐：到期当天；",
+        "域名：到期前 27 天。"
+      ],
+      "postParagraphs": [
+        "日期可能略有出入。若距离续费只剩一天或更少，该周期不会自动续费，需要手动续费。在这些日期前后，请让付款方式保有余额。",
+        "想随时手动续费，请打开“账单”，再进入“订阅”，点击服务旁的续费。不含税的续费价就显示在那里的续费价格列。套餐快到期时，面板网站区域里的套餐卡片会显示日期和续费按钮。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-cobranca-zh-hans.webp",
+        "alt": "Hostinger 自动续费时间线：按年的主机在到期前 14 天扣款，按月的在到期当天，域名在 27 天前；30 天退款申请期从扣款日起算，域名续费不能退款",
+        "caption": "什么时候扣款，以及退款最晚可以申请到什么时候。由 Em Casa com Cecília 依据 Hostinger 帮助中心与退款政策制作的表格。",
+        "objectFit": "contain",
+        "aspectRatio": 0.9677
+      }
+    },
+    {
+      "heading": "如何关闭自动续费",
+      "paragraphs": [
+        "自动续费要逐项服务关闭，套餐在到期前仍会正常运行。步骤如下："
+      ],
+      "bullets": [
+        "在 Hostinger 面板打开个人资料，进入“账单”。",
+        "打开“订阅”。",
+        "找到该服务，关闭旁边的开关。",
+        "阅读 Hostinger 针对该产品打开的提示页并确认。想重新开启，再点一次开关即可。"
+      ],
+      "postParagraphs": [
+        "关闭不会改变服务状态：它在到期前仍然有效，也不会再被扣款。已经扣的款不会因此退回；退款有自己的规则，见下一章。按月套餐若有未付账单，账单会被取消，订阅在周期结束时到期。若账单只付了一部分、已使用余额抵扣，或周期为一年以上，可能需要通过 Hostinger 的 AI 助手联系客服。",
+        "有两个细节会影响决定。要在续费时更换套餐期限，自动续费必须是开启的。而且套餐一旦到期，套餐卡片上的提示说明网站会下线。拿不定主意时，等你决定不续费了再关闭开关。"
+      ]
+    },
+    {
+      "heading": "续费后的退款",
+      "paragraphs": [
+        "续费会开启新的 30 天退款申请期，但有例外。商家说明：产品必须在交易日起 30 天内取消才能退款，而 Hostinger 处理续费的日期就算交易日。"
+      ],
+      "bullets": [
+        "可标准退款：所有主机套餐（免费试用后的第一笔付款除外），以及 VPS KVM（升级除外）。",
+        "不能退款：域名续费、已完成的域名转入、隐私保护、VPS 许可证、VPS KVM 升级、AI 额度和付费支持。",
+        "VPS 还多一条规则：必须在 30 天内申请，且上次为其他 VPS 套餐申请退款已超过 180 天，才会退款。过去 180 天内退过其他 VPS 的人，这一个就不能退。"
+      ],
+      "postParagraphs": [
+        "计时从扣款日开始，不是从到期日。按年套餐在到期前 14 天扣款，30 天大约在到期日后两周结束。请记下扣款日：超过 30 天，申请就无效了。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-reembolso-zh-hans.webp",
+        "alt": "Hostinger 续费后的退款表：主机与 VPS KVM 自扣款日起 30 天内可退，但有例外；域名续费不能退款",
+        "caption": "续费后各项服务能否退款。由 Em Casa com Cecília 依据 Hostinger 退款政策制作的表格。",
+        "objectFit": "contain",
+        "aspectRatio": 1.0909
+      }
+    },
+    {
+      "heading": "域名不在其中",
+      "paragraphs": [
+        "域名续费没有退款，也不适用 SONAR20，所以要另外决定。它的续费开关在面板的域名区域，于到期前 27 天扣款。只有新注册才有短暂的退款期，为 96 小时；续费则完全没有。",
+        "请在这笔扣款前决定域名：先看价格，确认它是否需要留在这家注册商，再让它续费。注册、转入或把域名放在别处的做法，见 [Hostinger 域名](/zh-hans/reviews/hostinger-domain-zh-hans)。"
+      ]
+    },
+    {
+      "heading": "续费前要决定什么",
+      "paragraphs": [
+        "续费前真正决定的是续费价和扣款日，而不是首次购买的价格。Em Casa com Cecília 从 2024 年起使用 Hostinger 的主机、一台 VPS KVM 2、电子邮件和域名，全部开着自动续费：对我们来说，续费就像家里的账单，最好在它到来之前就知道金额。"
+      ],
+      "bullets": [
+        "在“订阅”查看每项服务的续费价。",
+        "逐项服务决定是否保持自动续费。",
+        "记下扣款日：退款期限从那天起算。",
+        "在这个日期前后，让付款方式保有余额。",
+        "域名单独处理，有自己的价格和决定。"
+      ],
+      "postParagraphs": [
+        "拿不定主意时，在你还在用的服务上保持自动续费，只关闭已经决定不要的。"
+      ],
+      "emphasis": "续费要在扣款到来前从容决定，而不是到期当天才仓促处理。"
+    },
+    {
+      "heading": "常见问题",
+      "bullets": [
+        "Hostinger 优惠码适用于续费吗？不适用：SONAR20 让新购买享 20% 折扣，续费按价目表计价。SONAR20 一章说明了优惠码用在哪里。",
+        "如何取消 Hostinger 的自动续费？在“账单”的“订阅”中关闭该服务的开关；服务在到期前仍然有效。步骤见关闭自动续费一章。",
+        "Hostinger 会退还续费费用吗？会，主机与 VPS KVM 在扣款日起 30 天内可以；域名续费不能退款。例外见退款一章。",
+        "Hostinger 什么时候扣自动续费的费用？按年套餐在到期前 14 天，按月在到期当天；域名有自己的时间，见什么时候扣款一章。",
+        "Hostinger 套餐到期会怎样？网站会下线，套餐卡片上有提示。要避免这种情况，请在到期前续费，或保持自动续费开启。"
+      ]
+    }
+  ]
+}

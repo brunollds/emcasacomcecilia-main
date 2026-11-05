@@ -1,0 +1,265 @@
+{
+  "id": 816,
+  "slug": "hostinger-renovacion-cupon-sonar20",
+  "locale": "es",
+  "translationKey": "hostinger-renovacao-cupom",
+  "title": "Renovación de Hostinger: precio, cupón SONAR20 y reembolso antes de pagar",
+  "seoTitle": "Renovación de Hostinger: precio, SONAR20 y reembolso",
+  "type": "Guía de decisión",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edición y análisis",
+      "initials": "BL"
+    }
+  ],
+  "description": "La renovación de Hostinger cuesta más que el primer período. Mira el precio de cada plan, cuándo se cobra, cómo desactivar la renovación automática y hasta cuándo pedir reembolso.",
+  "metaDescription": "El cupón SONAR20 da 20% en un plan nuevo de Hostinger; la renovación sale al precio de lista. Mira cuánto cuesta renovar cada plan y el reembolso.",
+  "publishedAt": "5 de noviembre de 2026",
+  "publishedAtISO": "2026-11-05",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp",
+  "imageAlt": "Logo de Hostinger con los iconos de un calendario de renovación y de un recibo",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "decision": {
+    "takeIf": [
+      "Lee esta guía si ya tienes hosting o un VPS en Hostinger y quieres decidir la renovación antes del cobro.",
+      "Léela también si tienes varios servicios en la cuenta y quieres saber qué se renueva, qué desactivar y qué queda fuera, como el dominio."
+    ],
+    "skipIf": [
+      "Sáltala si solo quieres contratar tu primer plan: la guía del cupón responde mejor.",
+      "Sáltala si solo necesitas renovar un dominio: la guía del dominio responde mejor."
+    ]
+  },
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "Al contratar un plan nuevo, usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% de descuento en la compra.",
+    "label": "Ver los planes de Hostinger con el SONAR20",
+    "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "Podemos recibir una comisión por el código y por los enlaces.",
+  "relatedArticles": [
+    {
+      "slug": "cupon-hostinger-codigo-de-referido",
+      "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+    },
+    {
+      "slug": "hostinger-es-confiable",
+      "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+    },
+    {
+      "slug": "dominio-hostinger-comprar-o-transferir",
+      "title": "Dominio en Hostinger: ¿comprarlo ahí, transferirlo o registrarlo en otro sitio? Renovación y qué revisar"
+    }
+  ],
+  "contentSections": [
+    {
+      "heading": "Respuesta rápida",
+      "paragraphs": [
+        "Renovar cuesta más que el primer período, y la renovación automática viene activada. El SONAR20 da 20% en un plan nuevo, pero la renovación sale al precio de lista. Abajo verás cuánto cuesta renovar cada plan, cuándo se hace el cobro, cómo desactivarlo y hasta cuándo pedir el reembolso."
+      ]
+    },
+    {
+      "heading": "Cuánto cuesta renovar cada plan",
+      "paragraphs": [
+        "El precio de entrada vale solo para el primer período; después, la cuenta que queda es la de la renovación. El precio bajo del escaparate cubre el plazo contratado: 48 meses en hosting y 24 en VPS. Al terminar, Hostinger renueva por el mismo plazo, al precio de la última columna."
+      ],
+      "comparisonTable": {
+        "caption": "Precios de Hostinger al 4 de noviembre, en dólares, sin cupón.",
+        "headers": [
+          "Plan",
+          "Primer período (por mes)",
+          "Plazo",
+          "Total del primer período",
+          "Renovación (por mes)"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "1,99 US$",
+            "48 meses",
+            "95,52 US$",
+            "10,99 US$"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "2,79 US$",
+            "48 meses",
+            "133,92 US$",
+            "16,99 US$"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "7,99 US$",
+            "48 meses",
+            "383,52 US$",
+            "25,99 US$"
+          ],
+          [
+            "[VPS KVM 1](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "6,49 US$",
+            "24 meses",
+            "155,76 US$",
+            "11,99 US$"
+          ],
+          [
+            "[VPS KVM 2](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "8,79 US$",
+            "24 meses",
+            "210,96 US$",
+            "14,99 US$"
+          ],
+          [
+            "[VPS KVM 4](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "12,99 US$",
+            "24 meses",
+            "311,76 US$",
+            "28,99 US$"
+          ],
+          [
+            "[VPS KVM 8](https://www.hostinger.com/vps-hosting?REFERRALCODE=SONAR20)",
+            "25,99 US$",
+            "24 meses",
+            "623,76 US$",
+            "49,99 US$"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "Cuenta nuestra: con los precios de la tabla, renovar el Premium por otros 48 meses cuesta 527,52 US$ (48 × 10,99), más de cinco veces los 95,52 US$ del primer período.",
+        "Si dudas entre dos planes, compáralos por la columna de la renovación, no por la de entrada: ahí queda tu presupuesto después del primer período."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-es.webp",
+        "alt": "Gráfico de barras con el precio por mes de los planes de Hostinger en el primer período y en la renovación: Premium, Unlimited y Cloud Startup en hosting, y KVM 1, 2, 4 y 8 en VPS; en todos, la renovación es más cara",
+        "caption": "Cada plan en dos barras: el precio por mes en el primer período y en la renovación. Cuadro de Em Casa com Cecília, con los precios de la página de Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
+    },
+    {
+      "heading": "El SONAR20 y la renovación",
+      "paragraphs": [
+        "El SONAR20 da 20% en una compra nueva; la renovación sale al precio de la última columna de la tabla. Los términos del programa de referidos de Hostinger dicen que el descuento de 20% vale solo en compras nuevas, y el dominio queda fuera del código en cualquier caso.",
+        "Por eso, la cuenta de quien renueva es la de la columna de la renovación, sin descuento. El código entra cuando contratas un plan nuevo: el paso a paso de dónde pegarlo está en [cómo usar el cupón de Hostinger](/es/reviews/cupon-hostinger-codigo-de-referido), y las reglas del **SONAR20** están en la página del [cupón Hostinger](/es/coupons/hostinger)."
+      ]
+    },
+    {
+      "heading": "Cuándo cobra Hostinger la renovación",
+      "paragraphs": [
+        "Con la renovación automática activada, el cobro llega antes del vencimiento, y cuánto antes depende del plan. El centro de ayuda de Hostinger dice que el método de pago guardado se cobra:"
+      ],
+      "bullets": [
+        "14 días antes del vencimiento, en un plan de hosting anual o más largo;",
+        "el día del vencimiento, en un plan mensual;",
+        "27 días antes del vencimiento, en el dominio."
+      ],
+      "postParagraphs": [
+        "La fecha puede variar un poco. Si falta un día o menos para la renovación, no se hace sola en ese ciclo: hay que renovar a mano. Deja saldo en el método de pago cerca de esas fechas.",
+        "Para renovar a mano en cualquier momento, abre Facturación, luego Suscripciones, y haz clic en renovar junto al servicio. El precio de la renovación, sin impuestos, aparece ahí, en la columna del precio de renovación. Cuando el plan está por vencer, su tarjeta, en el área de sitios del panel, muestra la fecha y el botón de renovar."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-cobranca-es.webp",
+        "alt": "Línea de tiempo de la renovación automática de Hostinger: el hosting anual se cobra 14 días antes del vencimiento, el mensual el día del vencimiento y el dominio 27 días antes; los 30 días para pedir el reembolso cuentan desde el cobro, y la renovación de dominio no tiene reembolso",
+        "caption": "Cuándo se hace el cobro y hasta cuándo se puede pedir el reembolso. Cuadro de Em Casa com Cecília, según el centro de ayuda y la política de reembolso de Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 0.9677
+      }
+    },
+    {
+      "heading": "Cómo desactivar la renovación automática",
+      "paragraphs": [
+        "La renovación automática se desactiva servicio por servicio, y el plan sigue activo hasta el vencimiento. El camino:"
+      ],
+      "bullets": [
+        "En el panel de Hostinger, abre el perfil y entra en Facturación.",
+        "Abre Suscripciones.",
+        "Busca el servicio y desactiva el interruptor que tiene al lado.",
+        "Lee la página de avisos que Hostinger abre para ese producto y confirma. Para reactivarla, basta con volver a hacer clic en el interruptor."
+      ],
+      "postParagraphs": [
+        "Desactivarla no cambia el estado del servicio: sigue activo hasta el vencimiento y no se vuelve a cobrar. Lo que ya se cobró no vuelve por este camino; el reembolso tiene su propia regla, en el apartado siguiente. En el plan mensual con una factura pendiente, la factura se cancela y la suscripción vence al final del ciclo. Con una factura pagada en parte, con créditos aplicados o con un ciclo de un año o más, puede hacer falta hablar con el soporte, a través del asistente de IA de Hostinger.",
+        "Dos detalles pesan en la decisión. Para cambiar el plazo del plan en la renovación, la renovación automática tiene que estar activada. Y, si el plan vence, el aviso en su tarjeta dice que los sitios se caen. Ante la duda, desactiva el interruptor solo cuando ya hayas decidido no renovar."
+      ]
+    },
+    {
+      "heading": "Reembolso después de la renovación",
+      "paragraphs": [
+        "La renovación abre un nuevo plazo de 30 días para pedir el reembolso, con excepciones. La tienda informa: los productos solo pueden reembolsarse si se cancelan dentro de los 30 días de la fecha de la transacción, y la fecha en que Hostinger procesa una renovación cuenta como fecha de la transacción."
+      ],
+      "bullets": [
+        "Tiene reembolso estándar: el hosting, en todos los planes, salvo el primer pago después de una prueba gratis; y el VPS KVM, salvo las mejoras de plan.",
+        "No tiene reembolso: la renovación de dominio, la transferencia de dominio completada, la protección de privacidad, la licencia de VPS, la mejora de plan de VPS KVM, los créditos de IA y el soporte de pago.",
+        "El VPS tiene una regla más: el reembolso solo sale si se pide dentro de los 30 días y si el último reembolso de otro plan VPS se pidió hace más de 180 días. Quien pidió el reembolso de otro VPS en los últimos 180 días se queda sin reembolso en este."
+      ],
+      "postParagraphs": [
+        "El reloj empieza en el cobro, no en el vencimiento. En el plan anual, cobrado 14 días antes del vencimiento, los 30 días terminan unas dos semanas después de la fecha de vencimiento. Anota el día del cobro: pasados los 30 días, la solicitud ya no vale."
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-reembolso-es.webp",
+        "alt": "Cuadro del reembolso después de la renovación en Hostinger: el hosting y el VPS KVM tienen 30 días desde el cobro, con excepciones; la renovación de dominio no tiene reembolso",
+        "caption": "Qué tiene reembolso después de la renovación, por servicio. Cuadro de Em Casa com Cecília, según la política de reembolso de Hostinger.",
+        "objectFit": "contain",
+        "aspectRatio": 1.0909
+      }
+    },
+    {
+      "heading": "El dominio queda fuera",
+      "paragraphs": [
+        "El dominio no tiene reembolso en la renovación y tampoco lleva el SONAR20, así que pide una decisión aparte. Su renovación tiene un interruptor propio, en el área de dominios del panel, y se cobra 27 días antes del vencimiento. Solo el registro nuevo tiene un plazo corto de reembolso, de 96 horas; la renovación no tiene ninguno.",
+        "Decide sobre el dominio antes de ese cobro: mira el precio, mira si tiene que quedarse en ese registrador y solo entonces deja que se renueve. Los caminos de registrar, transferir o dejar el dominio fuera están en [dominio en Hostinger](/es/reviews/dominio-hostinger-comprar-o-transferir)."
+      ]
+    },
+    {
+      "heading": "Antes de renovar: qué decidir",
+      "paragraphs": [
+        "Antes de renovar, lo que decide es el precio de renovación y la fecha del cobro, no el precio de la primera compra. Em Casa com Cecília funciona en Hostinger desde 2024, con hosting, un VPS KVM 2, correo y dominios, todos con la renovación automática activada: aquí, la renovación es cuenta de casa, y conviene saber el valor antes de que llegue."
+      ],
+      "bullets": [
+        "Mira el precio de renovación de cada servicio, en Suscripciones.",
+        "Decide, servicio por servicio, si la renovación automática sigue activada.",
+        "Anota el día del cobro: de ahí cuenta el plazo de reembolso.",
+        "Deja saldo en el método de pago cerca de esa fecha.",
+        "Trata el dominio aparte, con su precio y su decisión."
+      ],
+      "postParagraphs": [
+        "Ante la duda, deja la renovación automática activada en lo que usas y desactívala solo en lo que ya decidiste dejar."
+      ],
+      "emphasis": "La renovación se decide con calma, antes de que llegue el cobro, y no el día del vencimiento."
+    },
+    {
+      "heading": "Preguntas frecuentes",
+      "bullets": [
+        "¿El cupón de Hostinger vale en la renovación? No: el SONAR20 da 20% en una compra nueva, y la renovación sale al precio de lista. El apartado del SONAR20 explica dónde entra el código.",
+        "¿Cómo cancelar la renovación automática de Hostinger? En Facturación, Suscripciones, desactiva el interruptor del servicio; sigue activo hasta el vencimiento. El paso a paso está en el apartado de cómo desactivarla.",
+        "¿Hostinger reembolsa la renovación? Sí, dentro de los 30 días del cobro, en hosting y en VPS KVM; la renovación de dominio no tiene reembolso. Las excepciones están en el apartado del reembolso.",
+        "¿Cuándo cobra Hostinger la renovación automática? En el plan anual, 14 días antes del vencimiento; en el mensual, el día del vencimiento. El dominio tiene su propio plazo, en el apartado de cuándo cobra Hostinger.",
+        "¿Qué pasa si vence mi plan de Hostinger? Los sitios se caen, como avisa la tarjeta del plan. Para no llegar a eso, renueva antes del vencimiento o deja la renovación automática activada."
+      ]
+    }
+  ]
+}
