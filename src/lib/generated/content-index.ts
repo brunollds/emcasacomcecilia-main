@@ -63412,7 +63412,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como comprar com o cupom EMCASACOMCECILIA",
         "paragraphs": [
           "Com o tamanho escolhido, o cupom EMCASACOMCECILIA dá 15% OFF na loja online da Insider. Ele não vale nas lojas físicas, pode não entrar nos primeiros dias de um lançamento e é um cupom por pedido. Itens com desconto máximo, como a Daily, avisam na página que não somam com cupons.",
-          "A página da loja tem o cupom e as regras atualizadas, e o guia do cupom mostra onde aplicar no checkout."
+          "A página do [cupom Insider](/cupons/insider) tem as regras atualizadas, e o guia do cupom mostra onde aplicar no checkout."
         ],
         "links": [
           {
@@ -63565,7 +63565,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa de verdade",
         "paragraphs": [
-          "O cupom EMCASACOMCECILIA dá 15% sobre o preço de cada item na loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento."
+          "O cupom EMCASACOMCECILIA dá 15% sobre o preço de cada item na loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento. As regras do mês ficam na página do [cupom Insider](/cupons/insider)."
         ],
         "comparisonTable": {
           "caption": "Preço no cartão, 02/11. Com o cupom: conta nossa, com os 15% sobre o preço do site, antes do desconto do Pix.",
@@ -74915,7 +74915,7 @@ export const reviewsData: unknown[] = [
     "id": 417,
     "slug": "cupom-probiotica-como-usar",
     "title": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica: até 10% de desconto",
-    "seoTitle": "Como usar o cupom PRO10EMCASACOMCECILIA na Probiótica",
+    "seoTitle": "Onde colar o PRO10EMCASACOMCECILIA no carrinho da Probiótica (passo a passo)",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -74927,7 +74927,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF em todo o site da Probiótica. Veja o passo a passo no carrinho e como o frete grátis muda conforme a região onde você mora.",
-    "metaDescription": "Passo a passo para aplicar o PRO10EMCASACOMCECILIA no carrinho da Probiótica: onde digitar, a linha Descontos (até 10% OFF) e o frete grátis por região.",
+    "metaDescription": "Passo a passo para aplicar o PRO10EMCASACOMCECILIA no carrinho da Probiótica: onde digitar, a linha Descontos e o frete grátis por região.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -78800,7 +78800,7 @@ export const reviewsData: unknown[] = [
     "id": 432,
     "slug": "cupom-max-titanium-como-usar",
     "title": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium: até 10% de desconto",
-    "seoTitle": "Como usar o cupom MAX10EMCASACOMCECILIA na Max Titanium",
+    "seoTitle": "Onde colar o MAX10EMCASACOMCECILIA no carrinho da Max Titanium (passo a passo)",
     "type": "Guia & Cupons",
     "category": "cupons-como-usar",
     "reviewKind": "guia",
@@ -78812,7 +78812,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max Titanium. Veja onde digitar, como ele soma com promoção e Pix e como funciona o frete grátis por região.",
-    "metaDescription": "Passo a passo para aplicar o MAX10EMCASACOMCECILIA no carrinho da Max Titanium: onde digitar, a linha Descontos (até 10% OFF) e o frete grátis por região.",
+    "metaDescription": "Passo a passo para aplicar o MAX10EMCASACOMCECILIA no carrinho da Max Titanium: onde digitar, a linha Descontos e o frete grátis por região.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -82884,7 +82884,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na Max Titanium, o cupom também soma com o desconto de **até 5% no Pix e no boleto**. O desconto do Pix muda por produto nas duas lojas: a home da Max mostrava faixas de 3%, 5% e 6,47% no Pix, e a da Probiótica, 3% nas proteínas e até 5% no Pix e no boleto no resto do site. A página de cada produto mostra o valor. Os códigos e as regras ficam na [página do cupom da Max Titanium](/cupons/max-titanium) e na [página do cupom da Probiótica](/cupons/probiotica).",
+          "Na Max Titanium, o cupom também soma com o desconto de **até 5% no Pix e no boleto**. O desconto do Pix muda por produto nas duas lojas: a home da Max mostrava faixas de 3%, 5% e 6,47% no Pix, e a da Probiótica, 3% nas proteínas e até 5% no Pix e no boleto no resto do site. A página de cada produto mostra o valor. Os códigos e as regras ficam nas páginas do [cupom Max Titanium](/cupons/max-titanium) e do [cupom Probiótica](/cupons/probiotica).",
           "O frete grátis segue a mesma tabela nas duas lojas. A entrega saía sem custo a partir destes valores de pedido: R$ 104 em São Paulo (capital), R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte. São dois sites com carrinhos separados, então cada pedido precisa chegar ao mínimo sozinho."
         ]
       },
@@ -90836,7 +90836,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom vale com todas as formas de pagamento e soma com as promoções do site. No teste do cupom de 14/10, um Top Whey 3W Mais Sabor 900 g, por R$ 189,00 naquele dia, teve R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na [página do cupom da Max Titanium](/cupons/max-titanium).",
+          "O cupom vale com todas as formas de pagamento e soma com as promoções do site. No teste do cupom de 14/10, um Top Whey 3W Mais Sabor 900 g, por R$ 189,00 naquele dia, teve R$ 16,75 de desconto (8,9%). Por isso o texto diz \"até 10%\": o teto é o que a conta com cupom mostra, e o carrinho mostra quanto cada item recebeu. O passo a passo está em [como usar o cupom da Max Titanium](/reviews/cupom-max-titanium-como-usar), e o código fica na página do [cupom Max Titanium](/cupons/max-titanium).",
           "Os valores de frete são os do dia da leitura dos preços. O frete grátis é calculado no carrinho. Preço e estoque mudam: confira no carrinho."
         ]
       },
@@ -91132,7 +91132,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. No teste do cupom de 13/10, um carrinho de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, recebeu R$ 54,75 de desconto (8,3%). Nem todo item recebeu os 10%: a creatina em promoção ficou de fora desse percentual. A regra da loja diz que o cupom vale com todas as formas de pagamento e soma com as promoções vigentes. Por isso, a conta com cupom nas tabelas é o teto, 10% sobre o preço à vista: confira no carrinho se o cupom soma com o Pix, porque o desconto real pode ser menor. O código e o passo a passo estão na [página do cupom Probiótica](/cupons/probiotica).",
+          "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. No teste do cupom de 13/10, um carrinho de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, recebeu R$ 54,75 de desconto (8,3%). Nem todo item recebeu os 10%: a creatina em promoção ficou de fora desse percentual. A regra da loja diz que o cupom vale com todas as formas de pagamento e soma com as promoções vigentes. Por isso, a conta com cupom nas tabelas é o teto, 10% sobre o preço à vista: confira no carrinho se o cupom soma com o Pix, porque o desconto real pode ser menor. O código e o passo a passo estão na página do [cupom Probiótica](/cupons/probiotica).",
           "A página da Probiótica mostra também o parcelamento em 6x sem juros, e o preço do cartão nas tabelas é o dessa condição. O valor parcelado depende do produto. Preço e estoque mudam: confira no carrinho."
         ]
       },
@@ -101894,7 +101894,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Com o cupom EMCASACOMCECILIA, o desconto é de 15% sobre cada item. Ele soma com o Pix e com todas as formas de pagamento. No resumo do checkout, cada item mostra a linha \"Código de desconto EMCASACOMCECILIA\" com o valor descontado. Se ela não aparecer num item, o cupom não vale nele. No teste de 05/10/2026, o desconto também apareceu em kit com preço promocional. Pela nossa conta, com o cupom, cada peça sai por R$ 65,14 no kit 3 e por R$ 63,79 no kit 5.",
-          "A página do produto avulso também dá desconto por quantidade, pelo seletor. As regras do cupom estão na [página do cupom Insider](/cupons/insider)."
+          "A página do produto avulso também dá desconto por quantidade, pelo seletor. As regras do cupom estão na página do [cupom Insider](/cupons/insider)."
         ]
       },
       {
@@ -103518,7 +103518,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Regras lidas junto com os preços. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium). A Dux não tem cupom nosso: o desconto de 5% no Pix é da própria página da Dux."
+          "Regras lidas junto com os preços. O cupom vale com todas as formas de pagamento e soma com as promoções do site, segundo a página da loja. O código e as regras estão na página do [cupom Max Titanium](/cupons/max-titanium). A Dux não tem cupom nosso: o desconto de 5% no Pix é da própria página da Dux."
         ]
       },
       {
@@ -131330,7 +131330,7 @@ export const reviewsData: unknown[] = [
           "**Frete grátis no site:** monte um carrinho acima de R$ 399 depois do desconto."
         ],
         "postParagraphs": [
-          "As condições do mês do cupom estão na [página de cupons da Insider](/cupons/insider)."
+          "As condições do mês estão na página do [cupom Insider](/cupons/insider)."
         ],
         "links": [
           {
@@ -144060,7 +144060,7 @@ export const reviewsData: unknown[] = [
           "O pote do Égide de 300 g custa R$ 21,00 a mais que o do Hórus de 300 g, mas rende 14 doses a mais. Por isso o Égide sai R$ 0,27 mais barato por dose: R$ 2,20 contra R$ 2,47. Quem compara só o preço do pote vê o contrário.",
           "Dentro de cada linha, o pote de 300 g sai mais barato por dose que o de 150 g: R$ 2,47 contra R$ 2,61 no Hórus e R$ 2,20 contra R$ 2,32 no Égide. O Night Train é o mais caro por dose, R$ 3,05, e o único sem preço riscado. Na consulta, parte dos sabores do Hórus de 150 g estava sem estoque.",
           "O Hórus de 300 g também sai no sabor 7Belo, por R$ 93,52.",
-          "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, diz a página da loja. O código e as regras estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
+          "Com o cupom no teto, o Égide de 300 g cai de R$ 109,89 para R$ 98,90, e o Hórus de 300 g, de R$ 88,89 para R$ 80,00. O cupom vale com todas as formas de pagamento e soma com as promoções do site, diz a página da loja. O código e as regras estão na página do [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {

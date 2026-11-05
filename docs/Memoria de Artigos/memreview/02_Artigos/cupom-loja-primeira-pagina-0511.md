@@ -3,7 +3,7 @@ titulo_provisorio: "Cupom <loja> na 1ª página: Max Titanium, Probiótica e Ins
 parceiro: "max-titanium, probiotica, insider"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "sessão de artigos: partes 1 e 2; sessão de cupons: parte 3; remedir ~14/11"
+proxima_acao: "sessão de cupons: parte 3; deploy das partes 1 e 2; remedir ~14/11"
 bloqueado_por: null
 data_criacao: "2026-11-05"
 modo_i18n: "somente-pt"
@@ -55,3 +55,9 @@ Trocar a âncora existente, ou acrescentar o link numa frase natural do corpo (o
 
 ## Medição (~14/11)
 Junto com o levantamento de 31/10: posição de "cupom max titanium", "cupom probiótica" e "cupom insider" e a URL que aparece em cada uma. Na Max, aplicar a regra da decisão 1.
+
+## Feito na sessão de artigos (05/11/2026)
+- **Parte 1:** o `seoTitle` dos dois como usar virou "Onde colar o MAX10EMCASACOMCECILIA no carrinho da Max Titanium (passo a passo)" e "Onde colar o PRO10EMCASACOMCECILIA no carrinho da Probiótica (passo a passo)", e a `metaDescription` perdeu o "(até 10% OFF)". A catraca barrou o snippet sem %: os dois slugs entraram em `SNIPPET_EXCEPTION_SLUGS`, com o motivo.
+- **O `title` ficou como estava.** Ele é o H1 da página (`ArticleHeader` mostra o `review.title`), e a regra de 31/10 (e o pedido do Bruno) mantém o H1: tirar o ": até 10% de desconto" do `title` mudaria o H1. Se a decisão for tirar o % também do H1, é uma troca de uma linha em cada JSON.
+- **Parte 2:** as 9 âncoras, como na tabela. No `pre-treino-max-titanium-horus-ou-egide` só a primeira mudou. No `insider-vale-a-pena`, o link entrou em "Quanto custa de verdade" ("As regras do mês ficam na página do cupom Insider"); no `tabela-de-medidas-insider`, em "Como comprar com o cupom EMCASACOMCECILIA".
+- Gates: `validate:content`, `test:article-d2`, `test:review-i18n` e `typecheck`.

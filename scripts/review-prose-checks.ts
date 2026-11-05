@@ -167,6 +167,10 @@ export const SNIPPET_EXCEPTION_SLUGS: Record<string, string> = {
   'sutia-de-silicone-invisivel-como-usar': 'ficou fora da lista da fase 2b',
   'shein-reclame-aqui-nota-reputacao': 'ficou fora da lista da fase 2b',
   'yesstyle-trustpilot-nota-reclamacoes': 'ficou fora da lista da fase 2b',
+  'cupom-max-titanium-como-usar':
+    'artigo de como usar: a dona do % em "cupom max titanium" é a /cupons/max-titanium (cupom-loja-primeira-pagina-0511)',
+  'cupom-probiotica-como-usar':
+    'artigo de como usar: a dona do % em "cupom probiótica" é a /cupons/probiotica (cupom-loja-primeira-pagina-0511)',
 };
 
 export const SNIPPET_PROBLEMS = {
