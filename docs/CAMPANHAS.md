@@ -77,6 +77,7 @@ Em todas as lojas, olhar:
 | Skelt (`skelt`) | skelt.com.br | não |
 | Bagaggio (`bagaggio`) | bagaggio.com.br | não |
 | Toda Up (`toda-up`) | todaup.com | não |
+| HolyFoods (`holyfoods`) | holyfoods.com.br | não |
 | Hostinger (`hostinger`) | hostinger.com | sim, 10 idiomas |
 
 A lista sai das lojas ativas de `src/lib/couponsData.ts`; loja nova entra aqui no onboarding dela.
