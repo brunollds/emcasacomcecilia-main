@@ -196,7 +196,8 @@
         "Is a VPS faster than shared hosting? We did not measure it. What a VPS guarantees is reserved resources: CPU, memory and disk are yours, while on shared hosting the server is divided. For an ordinary site, that is rarely the bottleneck.",
         "Can I start on shared hosting and move to a VPS later? Yes. They are different products: you sign up for the VPS, install the server and move the site over. Shared hosting cannot be converted into a VPS from inside the panel.",
         "Do I need to know Linux to have a VPS? Yes, the basics of the terminal: installing programs, updating the system and reading a log. On shared hosting, everything goes through the panel and no terminal is required.",
-        "Can a VPS run WordPress? It can, but you install and maintain the web server, PHP and the database. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server."
+        "Can a VPS run WordPress? It can, but you install and maintain the web server, PHP and the database. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
     {
@@ -209,7 +210,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on renewal; check the price in the cart.",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

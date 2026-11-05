@@ -196,7 +196,8 @@
         "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Nous ne l'avons pas mesuré. Ce que le VPS garantit, ce sont des ressources réservées : CPU, mémoire et disque sont à vous, alors que sur le mutualisé le serveur est partagé. Pour un site ordinaire, c'est rarement le goulot d'étranglement.",
         "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et y transférez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
         "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. Sur le mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
-        "Un VPS supporte-t-il WordPress ? Oui, mais vous installez et maintenez le serveur web, PHP et la base de données. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur."
+        "Un VPS supporte-t-il WordPress ? Oui, mais vous installez et maintenez le serveur web, PHP et la base de données. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -209,7 +210,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier.",
+    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

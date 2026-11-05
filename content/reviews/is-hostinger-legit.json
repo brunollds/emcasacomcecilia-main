@@ -117,7 +117,7 @@
       "paragraphs": [
         "Everyone who signs up is enrolled in automatic renewal, because it is the default setting. The charge happens 30 to 0 days before the end of the period, on the card marked as default, at the plan's price on that date. The terms say that price can be higher or lower than the first period's, and that a price change applies at renewal, without advance notice.",
         "Hostinger may send an email before the charge, but the terms say it has no obligation to. Customers on a one-month plan, for example, are not notified. To turn renewal off, log into your account and disable it at any time. If you turn it off and do not renew manually before the period ends, the service ends.",
-        "What happens to the discount at renewal is explained in the [SONAR20 coupon guide](/en/reviews/hostinger-coupon-code-referral)."
+        "Why renewal has no discount is explained in the [SONAR20 coupon guide](/en/reviews/hostinger-coupon-code-referral)."
       ],
       "images": [
         {
@@ -174,7 +174,8 @@
         "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
         "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time; without a manual renewal, the service ends at the end of the period.",
         "Who bills you at Hostinger? It depends on your country. The contracting company follows section 2 of the terms, and other companies in the group may also bill you. Check the name shown at checkout.",
-        "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% also apply on renewal; check the price in the cart."
+        "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
     {
@@ -191,7 +192,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on renewal; check the renewal price in the cart.",
+    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
     "label": "See Hostinger plans",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

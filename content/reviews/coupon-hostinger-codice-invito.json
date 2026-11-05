@@ -45,7 +45,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Sì, c'è un coupon: il codice **SONAR20** dà il 20% di sconto sul primo periodo di qualsiasi piano [Hostinger](/it/coupons/hostinger), mensile o annuale, per cliente nuovo o già esistente. Incolla il codice nel campo coupon del carrello, oppure entra dal link di questo articolo. I 20% valgono anche sul rinnovo."
+        "Sì, c'è un coupon: il codice **SONAR20** dà il 20% di sconto sul primo periodo di qualsiasi piano [Hostinger](/it/coupons/hostinger), mensile o annuale, per cliente nuovo o già esistente. Incolla il codice nel campo coupon del carrello, oppure entra dal link di questo articolo. Il rinnovo non ha sconto: si paga al prezzo di listino."
       ]
     },
     {
@@ -70,13 +70,13 @@
     {
       "heading": "Piano mensile, annuale e chi è già cliente",
       "paragraphs": [
-        "SONAR20 dà il 20% sul primo periodo con piano mensile o annuale, per cliente nuovo o già esistente. Vale sui piani di hosting, sul VPS e sul rinnovo; sul dominio singolo non vale. Per e-mail e agenti IA, controlla nel carrello se lo sconto compare. Chi è già cliente usa il codice su un piano nuovo e sul rinnovo di un piano che ha già; guarda il prezzo nel pannello."
+        "SONAR20 dà il 20% sul primo periodo con piano mensile o annuale, per cliente nuovo o già esistente. Vale sui piani di hosting e sul VPS; sul dominio singolo e sul rinnovo non vale. Per e-mail e agenti IA, controlla nel carrello se lo sconto compare. Chi è già cliente usa il codice su qualsiasi piano o prodotto nuovo: l'abbiamo testato su un account vecchio, e SONAR20 ha tolto il 20% da un prodotto nuovo, sopra lo sconto della campagna. Il rinnovo di un piano che hai già si paga al prezzo di listino."
       ]
     },
     {
       "heading": "Rinnovo: cosa cambia dopo il primo periodo",
       "paragraphs": [
-        "Dopo il primo periodo, il piano si rinnova al prezzo standard, quello che compare sotto la scheda di ogni piano. La pagina dice che puoi cambiare periodo o annullare in qualsiasi momento prima del rinnovo."
+        "Dopo il primo periodo, il piano si rinnova al prezzo standard, quello che compare sotto la scheda di ogni piano, senza lo sconto di SONAR20. La pagina dice che puoi cambiare periodo o annullare in qualsiasi momento prima del rinnovo."
       ]
     },
     {
@@ -93,8 +93,8 @@
       "bullets": [
         "Hostinger ha un coupon? Sì: il codice SONAR20 dà il 20% sul primo periodo di qualsiasi piano, mensile o annuale.",
         "Dove inserisco il coupon Hostinger? Nel carrello, nel campo «Have a coupon code?». Incolla SONAR20 e applica prima di pagare.",
-        "SONAR20 vale per chi è già cliente? Sì, su un piano nuovo, secondo le regole della partnership, e sul rinnovo di un piano che hai già; guarda il prezzo nel pannello.",
-        "Il coupon dà sconto sul rinnovo? Sì, i 20% valgono anche sul rinnovo. Controlla il prezzo di rinnovo nel carrello prima di pagare.",
+        "SONAR20 vale per chi è già cliente? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%.",
+        "Il coupon dà sconto sul rinnovo? No: il rinnovo si paga al prezzo di listino, che il carrello mostra subito sotto il piano. I 20% valgono solo sugli acquisti nuovi.",
         "SONAR20 vale durante il Black Friday? Sì: nel test nel carrello, il 20% è stato tolto dal prezzo della campagna."
       ]
     }
@@ -102,7 +102,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
     "label": "Vedi i piani con SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

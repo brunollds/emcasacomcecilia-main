@@ -117,7 +117,7 @@
       "paragraphs": [
         "Chi acquista entra nel rinnovo automatico, perché è l'impostazione predefinita. L'addebito avviene da 30 a 0 giorni prima della fine del periodo, sulla carta impostata come predefinita, al prezzo del piano in vigore in quella data. I termini dicono che quel prezzo può essere più alto o più basso di quello del primo periodo, e che la variazione di prezzo vale al rinnovo, senza preavviso.",
         "Hostinger può avvisare via email prima dell'addebito, ma i termini dicono che non ne ha l'obbligo. I clienti con piano di un mese, per esempio, non vengono avvisati. Per disattivarlo, entra nell'account e disattiva il rinnovo in qualsiasi momento. Se lo disattivi e non rinnovi a mano prima della fine del periodo, il servizio viene chiuso.",
-        "Cosa succede allo sconto al rinnovo è spiegato nella [guida al coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+        "Perché il rinnovo non ha sconto è spiegato nella [guida al coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
       ],
       "images": [
         {
@@ -174,7 +174,8 @@
         "Hostinger rimborsa? Sì, entro 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo di dominio e i servizi di assistenza a pagamento non vengono rimborsati.",
         "Il rinnovo di Hostinger è automatico? Sì, per impostazione predefinita. Puoi disattivarlo nell'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
         "Chi addebita su Hostinger? Dipende dal paese. L'azienda contraente segue la sezione 2 dei termini, e anche altre società del gruppo possono addebitare. Controlla il nome mostrato al checkout.",
-        "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello."
+        "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
     {
@@ -191,7 +192,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
     "label": "Vedi i piani di Hostinger",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

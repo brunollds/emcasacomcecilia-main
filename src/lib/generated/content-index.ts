@@ -91224,7 +91224,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o que ele não cobre, a renovação automática e o que checar antes de pagar.",
-    "metaDescription": "O cupom SONAR20 dá 20% OFF na Hostinger, também na renovação. A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o preço da renovação.",
+    "metaDescription": "O cupom SONAR20 dá 20% OFF na Hostinger em toda compra nova. A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o preço da renovação.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -91313,7 +91313,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quem contrata entra na renovação automática, porque ela é a configuração padrão. A cobrança sai de 30 a 0 dias antes do fim do período, no cartão marcado como padrão, pelo valor vigente do plano na data. Os termos dizem que esse valor pode ser maior ou menor que o do primeiro período, e que a mudança de preço vale na renovação, sem aviso prévio.",
           "A Hostinger pode avisar por e-mail antes da cobrança, mas os termos dizem que ela não tem essa obrigação. Clientes com plano de um mês, por exemplo, não são avisados. Para desligar, entre na conta e desative a renovação a qualquer momento. Se você desligar e não renovar à mão antes do fim do período, o serviço é encerrado.",
-          "A cobrança é o problema mais citado nas reclamações públicas da empresa no Reclame Aqui, e o caso está no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao). O que acontece com o desconto na renovação está no [guia do cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
+          "A cobrança é o problema mais citado nas reclamações públicas da empresa no Reclame Aqui, e o caso está no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao). Por que a renovação não tem desconto está no [guia do cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
         ],
         "images": [
           {
@@ -91370,7 +91370,8 @@ export const reviewsData: unknown[] = [
           "A Hostinger tem reembolso? Sim, de 30 dias para hospedagem e VPS, com as exceções da tabela. Renovação de domínio e serviços de suporte pagos não voltam.",
           "A renovação da Hostinger é automática? Sim, por padrão. Dá para desligar na conta a qualquer momento; sem renovação manual, o serviço encerra no fim do período.",
           "Quem cobra na Hostinger? Depende do país. Para o Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre, mas a Hostinger Brasil também aparece entre as empresas que podem cobrar. Confira o nome no checkout.",
-          "Tem cupom Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, em plano mensal ou anual. Os 20% também valem na renovação; confira o preço no carrinho."
+          "Tem cupom Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, em plano mensal ou anual. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -91387,7 +91388,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos da Hostinger",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91526,7 +91527,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Everyone who signs up is enrolled in automatic renewal, because it is the default setting. The charge happens 30 to 0 days before the end of the period, on the card marked as default, at the plan's price on that date. The terms say that price can be higher or lower than the first period's, and that a price change applies at renewal, without advance notice.",
           "Hostinger may send an email before the charge, but the terms say it has no obligation to. Customers on a one-month plan, for example, are not notified. To turn renewal off, log into your account and disable it at any time. If you turn it off and do not renew manually before the period ends, the service ends.",
-          "What happens to the discount at renewal is explained in the [SONAR20 coupon guide](/en/reviews/hostinger-coupon-code-referral)."
+          "Why renewal has no discount is explained in the [SONAR20 coupon guide](/en/reviews/hostinger-coupon-code-referral)."
         ],
         "images": [
           {
@@ -91583,7 +91584,8 @@ export const reviewsData: unknown[] = [
           "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
           "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time; without a manual renewal, the service ends at the end of the period.",
           "Who bills you at Hostinger? It depends on your country. The contracting company follows section 2 of the terms, and other companies in the group may also bill you. Check the name shown at checkout.",
-          "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% also apply on renewal; check the price in the cart."
+          "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -91600,7 +91602,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on renewal; check the renewal price in the cart.",
+      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See Hostinger plans",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91739,7 +91741,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quien contrata entra en la renovación automática, porque es la configuración por defecto. El cobro se hace entre 30 y 0 días antes del fin del período, en la tarjeta marcada como predeterminada, al precio vigente del plan en esa fecha. Los términos dicen que ese precio puede ser mayor o menor que el del primer período, y que el cambio de precio rige en la renovación, sin aviso previo.",
           "Hostinger puede avisar por correo antes del cobro, pero los términos dicen que no tiene esa obligación. Los clientes con plan de un mes, por ejemplo, no reciben aviso. Para desactivarla, entra en la cuenta y desactiva la renovación en cualquier momento. Si la desactivas y no renuevas a mano antes del fin del período, el servicio termina.",
-          "Qué pasa con el descuento en la renovación se explica en la [guía del cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
+          "Por qué la renovación no tiene descuento se explica en la [guía del cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ],
         "images": [
           {
@@ -91796,7 +91798,8 @@ export const reviewsData: unknown[] = [
           "¿Hostinger tiene reembolso? Sí, de 30 días para hosting y VPS, con las excepciones de la tabla. La renovación de dominio y los servicios de soporte de pago no se reembolsan.",
           "¿La renovación de Hostinger es automática? Sí, por defecto. Puedes desactivarla en la cuenta en cualquier momento; sin renovación manual, el servicio termina al final del período.",
           "¿Quién cobra en Hostinger? Depende del país. La empresa contratante sigue la sección 2 de los términos, y otras empresas del grupo también pueden cobrar. Revisa el nombre en el checkout.",
-          "¿Hay cupón de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período, en plan mensual o anual. Los 20 % también valen en la renovación; revisa el precio en el carrito."
+          "¿Hay cupón de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período, en plan mensual o anual. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -91813,7 +91816,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes de Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91952,7 +91955,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Toute personne qui souscrit est inscrite au renouvellement automatique, car c'est le réglage par défaut. Le prélèvement a lieu entre 30 et 0 jours avant la fin de la période, sur la carte définie par défaut, au tarif du forfait à cette date. Les conditions précisent que ce tarif peut être supérieur ou inférieur à celui de la première période, et qu'un changement de prix s'applique au renouvellement, sans préavis.",
           "Hostinger peut envoyer un e-mail avant le prélèvement, mais les conditions disent qu'elle n'y est pas tenue. Les clients avec un forfait d'un mois, par exemple, ne sont pas prévenus. Pour désactiver le renouvellement, connectez-vous à votre compte et désactivez-le à tout moment. Si vous le désactivez sans renouveler à la main avant la fin de la période, le service est fermé.",
-          "Ce qui arrive à la réduction au moment du renouvellement est expliqué dans le [guide du code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+          "Pourquoi le renouvellement n'a pas de réduction est expliqué dans le [guide du code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ],
         "images": [
           {
@@ -92009,7 +92012,8 @@ export const reviewsData: unknown[] = [
           "Hostinger rembourse-t-il ? Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
           "Le renouvellement chez Hostinger est-il automatique ? Oui, par défaut. Vous pouvez le désactiver dans le compte à tout moment ; sans renouvellement manuel, le service s'arrête à la fin de la période.",
           "Qui facture chez Hostinger ? Cela dépend du pays. La société contractante suit la section 2 des conditions, et d'autres sociétés du groupe peuvent aussi facturer. Vérifiez le nom affiché au paiement.",
-          "Existe-t-il un code promo Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, en forfait mensuel ou annuel. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier."
+          "Existe-t-il un code promo Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, en forfait mensuel ou annuel. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -92026,7 +92030,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92165,7 +92169,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Wer abschließt, wird in die automatische Verlängerung aufgenommen, denn sie ist die Standardeinstellung. Die Abbuchung erfolgt 30 bis 0 Tage vor Ende des Zeitraums, von der als Standard markierten Karte, zum an diesem Tag gültigen Preis des Tarifs. Laut den Bedingungen kann dieser Preis höher oder niedriger sein als der des ersten Zeitraums, und eine Preisänderung gilt bei der Verlängerung, ohne Vorankündigung.",
           "Hostinger kann vor der Abbuchung eine E-Mail schicken, aber laut den Bedingungen ist es dazu nicht verpflichtet. Kunden mit einem Ein-Monats-Tarif werden zum Beispiel nicht benachrichtigt. Zum Abschalten melden Sie sich im Konto an und deaktivieren die Verlängerung jederzeit. Wenn Sie sie abschalten und vor Ende des Zeitraums nicht von Hand verlängern, wird der Dienst beendet.",
-          "Was bei der Verlängerung mit dem Rabatt passiert, steht im [Leitfaden zum Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
+          "Warum die Verlängerung keinen Rabatt hat, steht im [Leitfaden zum Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ],
         "images": [
           {
@@ -92222,7 +92226,8 @@ export const reviewsData: unknown[] = [
           "Erstattet Hostinger Geld? Ja, innerhalb von 30 Tagen für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Support-Leistungen werden nicht erstattet.",
           "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können das im Konto jederzeit abschalten; ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
           "Wer rechnet bei Hostinger ab? Das hängt vom Land ab. Das Vertragsunternehmen folgt Abschnitt 2 der Bedingungen, und auch andere Unternehmen der Gruppe können abrechnen. Prüfen Sie den Namen beim Checkout.",
-          "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb."
+          "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -92239,7 +92244,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
+      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Hostinger-Tarife ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92378,7 +92383,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Chi acquista entra nel rinnovo automatico, perché è l'impostazione predefinita. L'addebito avviene da 30 a 0 giorni prima della fine del periodo, sulla carta impostata come predefinita, al prezzo del piano in vigore in quella data. I termini dicono che quel prezzo può essere più alto o più basso di quello del primo periodo, e che la variazione di prezzo vale al rinnovo, senza preavviso.",
           "Hostinger può avvisare via email prima dell'addebito, ma i termini dicono che non ne ha l'obbligo. I clienti con piano di un mese, per esempio, non vengono avvisati. Per disattivarlo, entra nell'account e disattiva il rinnovo in qualsiasi momento. Se lo disattivi e non rinnovi a mano prima della fine del periodo, il servizio viene chiuso.",
-          "Cosa succede allo sconto al rinnovo è spiegato nella [guida al coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+          "Perché il rinnovo non ha sconto è spiegato nella [guida al coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ],
         "images": [
           {
@@ -92435,7 +92440,8 @@ export const reviewsData: unknown[] = [
           "Hostinger rimborsa? Sì, entro 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo di dominio e i servizi di assistenza a pagamento non vengono rimborsati.",
           "Il rinnovo di Hostinger è automatico? Sì, per impostazione predefinita. Puoi disattivarlo nell'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
           "Chi addebita su Hostinger? Dipende dal paese. L'azienda contraente segue la sezione 2 dei termini, e anche altre società del gruppo possono addebitare. Controlla il nome mostrato al checkout.",
-          "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello."
+          "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -92452,7 +92458,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani di Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92591,7 +92597,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "가입하면 기본 설정에 따라 자동 갱신에 들어갑니다. 결제는 기간 종료 30일 전부터 0일 전 사이에, 기본으로 지정된 카드에, 그날 플랜의 가격으로 이루어집니다. 약관에는 이 가격이 첫 기간보다 높거나 낮을 수 있고, 가격 변경은 사전 통지 없이 갱신 시점에 적용된다고 되어 있습니다.",
           "호스팅어는 결제 전에 이메일을 보낼 수 있지만, 약관상 그럴 의무는 없습니다. 예를 들어 1개월 요금제 고객에게는 알림이 가지 않습니다. 끄려면 계정에 로그인해 언제든지 갱신을 비활성화하면 됩니다. 끈 뒤 기간이 끝나기 전에 직접 갱신하지 않으면 서비스는 종료됩니다.",
-          "갱신 때 할인이 어떻게 되는지는 [SONAR20 쿠폰 가이드](/ko/reviews/hostinger-referral-code-ko)에 설명되어 있습니다."
+          "갱신에 할인이 없는 이유는 [SONAR20 쿠폰 가이드](/ko/reviews/hostinger-referral-code-ko)에 설명되어 있습니다."
         ],
         "images": [
           {
@@ -92648,7 +92654,8 @@ export const reviewsData: unknown[] = [
           "호스팅어는 환불해 주나요? 네, 호스팅과 VPS는 30일 이내이며 표의 예외가 있습니다. 도메인 갱신과 유료 지원 서비스는 환불되지 않습니다.",
           "호스팅어의 갱신은 자동인가요? 네, 기본값은 자동입니다. 계정에서 언제든 끌 수 있고, 직접 갱신하지 않으면 기간이 끝날 때 서비스가 종료됩니다.",
           "호스팅어에서는 누가 결제를 청구하나요? 국가에 따라 다릅니다. 계약 당사자 회사는 약관 제2조를 따르며, 그룹 내 다른 회사가 청구할 수도 있습니다. 결제 화면에 표시되는 이름을 확인하세요.",
-          "호스팅어 쿠폰이 있나요? 네, 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 월간 요금제든 연간 요금제든 첫 기간이 20% 할인됩니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요."
+          "호스팅어 쿠폰이 있나요? 네, 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 월간 요금제든 연간 요금제든 첫 기간이 20% 할인됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -92665,7 +92672,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "호스팅어 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92804,7 +92811,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "申し込むと、標準設定として自動更新に入ります。請求は期間終了の30日前から0日前の間に、標準として設定されたカードへ、その日のプランの価格で行われます。規約では、この価格は初回期間より高くも低くもなりえ、価格の変更は事前の通知なく更新時に適用されるとされています。",
           "Hostingerは請求の前にメールを送ることがありますが、その義務はないと規約にあります。たとえば1か月プランの利用者には通知されません。自動更新をオフにするには、アカウントにログインしていつでも無効にできます。オフにして期間が終わる前に手動で更新しなければ、サービスは終了します。",
-          "更新時の割引がどうなるかは、[SONAR20クーポンのガイド](/ja/reviews/hostinger-referral-code-ja)で説明しています。"
+          "更新に割引がない理由は、[SONAR20クーポンのガイド](/ja/reviews/hostinger-referral-code-ja)で説明しています。"
         ],
         "images": [
           {
@@ -92861,7 +92868,8 @@ export const reviewsData: unknown[] = [
           "Hostingerは返金してくれますか？ はい。ホスティングとVPSは30日以内で、表の例外があります。ドメインの更新と有料のサポートサービスは返金されません。",
           "Hostingerの更新は自動ですか？ はい、初期設定では自動です。アカウントからいつでもオフにできます。手動で更新しなければ、期間の終わりにサービスは終了します。",
           "Hostingerでは誰が請求しますか？ 国によって異なります。契約する会社は規約の第2条に従い、グループ内の他の会社が請求することもあります。チェックアウト画面に表示される名前を確認してください。",
-          "Hostingerのクーポンはありますか？ はい。カートのクーポン欄に SONAR20 を入れると、月払いでも年払いでも初回期間が20%割引になります。更新時も20%割引が適用されます。カートで価格を確認してください。"
+          "Hostingerのクーポンはありますか？ はい。カートのクーポン欄に SONAR20 を入れると、月払いでも年払いでも初回期間が20%割引になります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -92878,7 +92886,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。更新時も20%割引が適用されます。カートで価格を確認してください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
       "label": "Hostingerのプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93017,7 +93025,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "下單的人都會進入自動續訂，因為這是預設設定。扣款發生在期限結束前 30 天到 0 天之間，從設為預設的信用卡扣除，按當天方案的現行價格收費。條款說明，這個價格可能比首期高，也可能比首期低，價格異動在續訂時生效，不會事先通知。",
           "Hostinger 可能會在扣款前寄電子郵件，但條款說明它沒有這個義務。例如，月繳方案的客戶就不會收到通知。想關閉續訂，登入帳戶後可隨時停用。如果你關閉了續訂，又沒有在期限結束前手動續訂，服務就會終止。",
-          "續訂時折扣會如何，請見 [SONAR20 優惠碼指南](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+          "續訂為什麼沒有折扣，請見 [SONAR20 優惠碼指南](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ],
         "images": [
           {
@@ -93074,7 +93082,8 @@ export const reviewsData: unknown[] = [
           "Hostinger 可以退款嗎？可以，主機與 VPS 在 30 天內，表中列出了例外。網域續訂與付費支援服務不退款。",
           "Hostinger 的續訂是自動的嗎？是，預設如此。你可以隨時在帳戶中關閉；如果不手動續訂，服務會在期限結束時終止。",
           "Hostinger 由誰來扣款？這取決於所在國家。簽約公司依據條款第 2 條決定，集團內的其他公司也可能扣款。請核對結帳頁面上顯示的名稱。",
-          "有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，月繳或年繳方案的首期都可享 20% 折扣。SONAR20 的 20% 折扣也適用於續訂；請在購物車裡確認價格。"
+          "有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，月繳或年繳方案的首期都可享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
@@ -93091,7 +93100,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。SONAR20 的 20% 折扣也適用於續訂；請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
       "label": "查看 Hostinger 方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93230,7 +93239,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "下单的人都会进入自动续费，因为这是默认设置。扣款发生在周期结束前 30 天到 0 天之间，从设为默认的银行卡扣除，按当天套餐的现行价格收费。条款说明，这个价格可能比首期高，也可能比首期低，价格变动在续费时生效，不会提前通知。",
           "Hostinger 可能会在扣款前发邮件，但条款说明它没有这个义务。例如，月付套餐的客户就不会收到通知。想关闭续费，登录账户后可随时停用。如果你关闭了续费，又没有在周期结束前手动续费，服务就会终止。",
-          "续费时折扣会怎样，见 [SONAR20 优惠码指南](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+          "为什么续费没有折扣，见 [SONAR20 优惠码指南](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ],
         "images": [
           {
@@ -93287,7 +93296,8 @@ export const reviewsData: unknown[] = [
           "Hostinger 可以退款吗？可以，主机和 VPS 在 30 天内，表中列出了例外。域名续费和付费支持服务不退款。",
           "Hostinger 的续费是自动的吗？是，默认如此。你可以随时在账户中关闭；如果不手动续费，服务会在周期结束时终止。",
           "Hostinger 由谁来扣款？这取决于所在国家。签约公司依据条款第 2 条确定，集团内的其他公司也可能扣款。请核对结账页面上显示的名称。",
-          "有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，月付或年付套餐的首期都可享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效；请在购物车里确认价格。"
+          "有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，月付或年付套餐的首期都可享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -93304,7 +93314,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "查看 Hostinger 套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93580,13 +93590,14 @@ export const reviewsData: unknown[] = [
           "A Hostinger tem nota boa no Reclame Aqui? No período lido, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
           "Quais são as reclamações mais comuns da Hostinger? No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,72%, o item mais citado.",
           "A Hostinger responde reclamações? Sim. 99,3% das reclamações dos últimos 6 meses foram respondidas, e 10 aguardavam resposta.",
-          "Como desligar a renovação automática da Hostinger? No hPanel, abra Faturas, vá em Serviços, clique nos três pontinhos do produto, escolha Configurações de Renovação e desmarque a opção. O produto segue ativo até o vencimento."
+          "Como desligar a renovação automática da Hostinger? No hPanel, abra Faturas, vá em Serviços, clique nos três pontinhos do produto, escolha Configurações de Renovação e desmarque a opção. O produto segue ativo até o vencimento.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
         "heading": "Se você já decidiu",
         "paragraphs": [
-          "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Os 20% também valem na renovação; confira o preço no carrinho, e veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
+          "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela. Veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
         ]
       }
     ],
@@ -93865,20 +93876,21 @@ export const reviewsData: unknown[] = [
           "Are Hostinger’s Trustpilot reviews reliable? The profile is claimed and managed by the company, which invites customers to review. In our sample, 78 of the 100 most recent five-star reviews were invited, and 92 of the 100 most recent one-star reviews were organic. Trustpilot says it does not check reviews one by one.",
           "What do Hostinger customers complain about on Trustpilot? In the 86 complaints read among the 100 most recent one-star reviews, the main themes were AI support and not reaching a person (about 45), billing and renewal (about 38) and domains (about 27).",
           "Does Hostinger answer negative reviews? Yes. The page says the company responds to 99% of negative reviews, usually within 24 hours, and may use AI in the replies. In our sample, 80 of 86 complaints had a reply.",
-          "How do I turn off Hostinger’s automatic renewal? In your account’s billing area, go to your services, open the three-dot menu next to the product, go to the renewal settings, turn off automatic renewal and save. The product stays active until the expiry date."
+          "How do I turn off Hostinger’s automatic renewal? In your account’s billing area, go to your services, open the three-dot menu next to the product, go to the renewal settings, turn off automatic renewal and save. The product stays active until the expiry date.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
         "heading": "If you have already decided",
         "paragraphs": [
-          "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. The 20% also apply on renewal, so check the price in the cart, and see the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
+          "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. The 20% apply to every new purchase; renewal is charged at the list price. See the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on renewal; check the renewal price in the cart.",
+      "text": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94150,20 +94162,21 @@ export const reviewsData: unknown[] = [
           "¿Son confiables las opiniones de Hostinger en Trustpilot? El perfil está reclamado y lo administra la empresa, que invita a los clientes a opinar. En nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Trustpilot dice que no revisa las opiniones una por una.",
           "¿De qué se quejan los clientes de Hostinger en Trustpilot? En las 86 quejas leídas entre las 100 opiniones de una estrella más recientes, los temas principales fueron la atención por IA y no llegar a una persona (unas 45), los cobros y la renovación (unas 38) y los dominios (unas 27).",
           "¿Hostinger responde a las opiniones negativas? Sí. La página dice que la empresa responde al 99 % de las opiniones negativas, por lo general en 24 horas, y que puede usar IA en las respuestas. En nuestra muestra, 80 de las 86 quejas tenían respuesta.",
-          "¿Cómo desactivo la renovación automática de Hostinger? En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta la fecha de vencimiento."
+          "¿Cómo desactivo la renovación automática de Hostinger? En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta la fecha de vencimiento.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
         "heading": "Si ya decidiste",
         "paragraphs": [
-          "Si decidiste contratar, usa el código SONAR20 en el campo de cupón del carrito: 20 % en el primer período. La [página de Hostinger](/es/coupons/hostinger) muestra los detalles. Los 20 % también valen en la renovación; revisa el precio en el carrito, y mira el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) muestra la cuenta con el código, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
+          "Si decidiste contratar, usa el código SONAR20 en el campo de cupón del carrito: 20 % en el primer período. La [página de Hostinger](/es/coupons/hostinger) muestra los detalles. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista. Mira el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) muestra la cuenta con el código, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes con descuento",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94435,20 +94448,21 @@ export const reviewsData: unknown[] = [
           "Les avis Hostinger sur Trustpilot sont-ils fiables ? Le profil est revendiqué et géré par l’entreprise, qui invite ses clients à noter. Dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Trustpilot dit qu’il ne vérifie pas les avis un par un.",
           "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Dans les 86 plaintes lues parmi les 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
           "Hostinger répond-il aux avis négatifs ? Oui. La page indique que l’entreprise répond à 99 % des avis négatifs, en général dans les 24 heures, et qu’elle peut utiliser l’IA dans ses réponses. Dans notre échantillon, 80 des 86 plaintes avaient une réponse.",
-          "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance."
+          "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
         "heading": "Si vous avez déjà décidé",
         "paragraphs": [
-          "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier, et voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
+          "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier.",
+      "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les offres avec réduction",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94720,20 +94734,21 @@ export const reviewsData: unknown[] = [
           "Sind die Trustpilot-Bewertungen von Hostinger verlässlich? Das Profil ist beansprucht und wird von der Firma verwaltet, die Kunden zur Bewertung einlädt. In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Trustpilot sagt, dass es die Bewertungen nicht einzeln prüft.",
           "Worüber beschweren sich Hostinger-Kunden auf Trustpilot? In den 86 Beschwerden, die wir unter den 100 neuesten Ein-Stern-Bewertungen gelesen haben, waren die wichtigsten Themen KI-Support und keine Verbindung zu einem Menschen (etwa 45), Abrechnung und Verlängerung (etwa 38) und Domains (etwa 27).",
           "Antwortet Hostinger auf negative Bewertungen? Ja. Die Seite sagt, dass das Unternehmen auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden, und dass es für Antworten KI nutzen kann. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort.",
-          "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie beim Produkt das Menü mit den drei Punkten, wählen Sie die Verlängerungseinstellungen, deaktivieren Sie die automatische Verlängerung und speichern Sie. Das Produkt bleibt bis zum Ablaufdatum aktiv."
+          "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie beim Produkt das Menü mit den drei Punkten, wählen Sie die Verlängerungseinstellungen, deaktivieren Sie die automatische Verlängerung und speichern Sie. Das Produkt bleibt bis zum Ablaufdatum aktiv.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
         "heading": "Wenn Sie sich schon entschieden haben",
         "paragraphs": [
-          "Wenn Sie kaufen möchten, geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum. Die [Hostinger-Seite](/de/coupons/hostinger) zeigt die Details. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb und lesen Sie den [Gutschein-Artikel](/de/reviews/hostinger-gutschein-empfehlungscode). Wenn Ihre Frage das Black Friday betrifft, zeigt der [Ratgeber zur Aktion](/de/reviews/hostinger-black-friday-angebote) die Rechnung mit dem Code, und der [Artikel zur Vertrauenswürdigkeit](/de/reviews/ist-hostinger-serioes) behandelt Erstattung und Sicherheit des Unternehmens."
+          "Wenn Sie kaufen möchten, geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum. Die [Hostinger-Seite](/de/coupons/hostinger) zeigt die Details. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Lesen Sie den [Gutschein-Artikel](/de/reviews/hostinger-gutschein-empfehlungscode). Wenn Ihre Frage das Black Friday betrifft, zeigt der [Ratgeber zur Aktion](/de/reviews/hostinger-black-friday-angebote) die Rechnung mit dem Code, und der [Artikel zur Vertrauenswürdigkeit](/de/reviews/ist-hostinger-serioes) behandelt Erstattung und Sicherheit des Unternehmens."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -95005,20 +95020,21 @@ export const reviewsData: unknown[] = [
           "Le recensioni Hostinger su Trustpilot sono affidabili? Il profilo è rivendicato e gestito dall’azienda, che invita i clienti a recensire. Nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. Trustpilot dice che non verifica le recensioni una per una.",
           "Di cosa si lamentano i clienti Hostinger su Trustpilot? Negli 86 reclami letti tra le 100 recensioni a una stella più recenti, i temi principali erano il supporto con l’IA e l’impossibilità di parlare con una persona (circa 45), la fatturazione e il rinnovo (circa 38) e i domini (circa 27).",
           "La Hostinger risponde alle recensioni negative? Sì. La pagina dice che l’azienda risponde al 99% delle recensioni negative, di solito entro 24 ore, e che può usare l’IA nelle risposte. Nel nostro campione, 80 degli 86 reclami avevano una risposta.",
-          "Come disattivo il rinnovo automatico della Hostinger? Nell’area di fatturazione, vai ai servizi, apri il menu a tre puntini del prodotto, entra nelle impostazioni di rinnovo, disattiva il rinnovo automatico e salva. Il prodotto resta attivo fino alla scadenza."
+          "Come disattivo il rinnovo automatico della Hostinger? Nell’area di fatturazione, vai ai servizi, apri il menu a tre puntini del prodotto, entra nelle impostazioni di rinnovo, disattiva il rinnovo automatico e salva. Il prodotto resta attivo fino alla scadenza.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
         "heading": "Se hai già deciso",
         "paragraphs": [
-          "Se hai deciso di acquistare, usa il codice **SONAR20** nel campo coupon del carrello: 20% sul primo periodo. La [pagina Hostinger](/it/coupons/hostinger) mostra i dettagli. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello, e leggi l’[articolo sul coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) mostra il conto con il codice, e l’[articolo sull’affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell’azienda."
+          "Se hai deciso di acquistare, usa il codice **SONAR20** nel campo coupon del carrello: 20% sul primo periodo. La [pagina Hostinger](/it/coupons/hostinger) mostra i dettagli. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino. Leggi l’[articolo sul coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) mostra il conto con il codice, e l’[articolo sull’affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell’azienda."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo.",
+      "text": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani scontati",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -95236,7 +95252,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "자동 갱신이 켜져 있으면 제품은 만료 전에 갱신되고, 등록된 결제 수단으로 청구됩니다. Hostinger 도움말 센터도 그렇게 설명하며, 이 옵션은 언제든 끌 수 있고 만료일까지는 서비스에 영향이 없다고 밝힙니다.",
           "갱신을 끄는 데도 위험이 있습니다. 다른 요금제를 준비하지 않은 상태라면 만료일에 사이트가 오프라인이 될 수 있습니다. 그래서 도움말 센터 자체가 계속 이용할 사람에게는 갱신을 켜 두라고 권합니다.",
-          "갱신 가격과 쿠폰이 적용되는 범위는 [쿠폰 SONAR20 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 여기서는 다른 점, 즉 옵션이 어디에 있고 어떻게 끄는지를 다룹니다."
+          "갱신에 할인이 없는 이유와 쿠폰이 적용되는 범위는 [쿠폰 SONAR20 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 여기서는 다른 점, 즉 옵션이 어디에 있고 어떻게 끄는지를 다룹니다."
         ]
       },
       {
@@ -95284,13 +95300,14 @@ export const reviewsData: unknown[] = [
           "Hostinger는 Trustpilot 평점이 좋은가요? 확인한 시점에 TrustScore는 5점 만점에 4.6이었고, 별 다섯 개가 87.1%, 별 한 개가 6.9%였습니다.",
           "Hostinger의 가장 흔한 불만은 무엇인가요? 최신 별 한 개 리뷰 100건 중 읽은 86건의 불만에서는 AI 지원과 사람에게 닿지 않는 문제(약 45건), 청구와 갱신(약 38건), 도메인(약 27건)이 가장 많았습니다.",
           "Hostinger는 부정적 리뷰에 답하나요? 네. 페이지에 따르면 부정적 리뷰의 99%에 답하며, 보통 24시간 이내입니다. 표본에서는 86건 중 80건의 불만에 답변이 있었습니다.",
-          "Hostinger 자동 갱신은 어떻게 끄나요? 계정의 청구 영역에서 서비스로 가서 제품 옆의 점 세 개 메뉴를 열고, 갱신 설정에서 자동 갱신을 끈 뒤 저장하세요. 제품은 만료일까지 계속 활성 상태입니다."
+          "Hostinger 자동 갱신은 어떻게 끄나요? 계정의 청구 영역에서 서비스로 가서 제품 옆의 점 세 개 메뉴를 열고, 갱신 설정에서 자동 갱신을 끈 뒤 저장하세요. 제품은 만료일까지 계속 활성 상태입니다.",
+          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
         "heading": "이미 결정했다면",
         "paragraphs": [
-          "구매를 결정했다면, 장바구니의 쿠폰 입력란에 SONAR20을 넣으면 첫 기간 20% 할인을 받을 수 있고, [Hostinger](/ko/coupons/hostinger) 페이지에 자세한 내용이 있습니다. 갱신에도 20% 할인이 적용됩니다. 가격은 장바구니에서 확인하세요. 자세한 설명은 [쿠폰 SONAR20 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에서 SONAR20과 캠페인 가격의 관계를 확인하고, [신뢰도 글](/ko/reviews/hostinger-trust-guide-ko)에서 환불과 회사의 안전성을 다룹니다."
+          "구매를 결정했다면, 장바구니의 쿠폰 입력란에 SONAR20을 넣으면 첫 기간 20% 할인을 받을 수 있고, [Hostinger](/ko/coupons/hostinger) 페이지에 자세한 내용이 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 자세한 설명은 [쿠폰 SONAR20 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에서 SONAR20과 캠페인 가격의 관계를 확인하고, [신뢰도 글](/ko/reviews/hostinger-trust-guide-ko)에서 환불과 회사의 안전성을 다룹니다."
         ]
       }
     ],
@@ -95515,7 +95532,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "自動更新が有効だと、製品は期限の前に更新され、登録済みの支払い方法に請求されます。Hostinger のヘルプセンターもそう説明しており、このオプションはいつでも無効にでき、期限日までサービスには影響しないとも書いています。",
           "更新を止めることにもリスクがあります。別のプランを用意しないままだと、期限日にサイトがオフラインになることがあります。そのため、今後も続けるつもりの人には、ヘルプセンター自身が更新を有効にしておくよう勧めています。",
-          "更新の価格とクーポンの対象は、[SONAR20 クーポンの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ここで扱うのは別の点です。オプションがどこにあり、どう止めるかを知ることです。"
+          "更新に割引がない理由は、[SONAR20 クーポンの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ここで扱うのは別の点です。オプションがどこにあり、どう止めるかを知ることです。"
         ]
       },
       {
@@ -95563,13 +95580,14 @@ export const reviewsData: unknown[] = [
           "Hostinger の Trustpilot 評価は高いですか？読み取った時点で、TrustScore は 5 点満点中 4.6 でした。星 5 つが 87.1%、星 1 つが 6.9% です。",
           "Hostinger の主な苦情は何ですか？直近の星 1 つのレビュー 100 件から読んだ 86 件の苦情では、AI サポートと人に繋がらないこと（約 45 件）、請求と更新（約 38 件）、ドメイン（約 27 件）が上位でした。",
           "Hostinger は否定的なレビューに返信しますか？はい。ページによると、否定的なレビューの 99% に返信し、多くは 24 時間以内です。サンプルでは、86 件の苦情のうち 80 件に返信がありました。",
-          "Hostinger の自動更新はどう止めますか？アカウントの請求関連の画面でサービスに進み、製品の横の三つの点のメニューを開いて、更新設定で自動更新をオフにして保存します。製品は期限日まで有効なままです。"
+          "Hostinger の自動更新はどう止めますか？アカウントの請求関連の画面でサービスに進み、製品の横の三つの点のメニューを開いて、更新設定で自動更新をオフにして保存します。製品は期限日まで有効なままです。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
         "heading": "すでに決めているなら",
         "paragraphs": [
-          "契約を決めているなら、カートのクーポン欄に SONAR20 を入れると最初の期間が 20% 割引になります。詳しくは [Hostinger](/ja/coupons/hostinger) のページにあります。更新時も20%割引が適用されるので、価格はカートで確認してください。詳しくは [SONAR20 クーポンの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ブラックフライデーが気になるなら、[キャンペーンガイド](/ja/reviews/hostinger-black-friday-ja) で SONAR20 とキャンペーン価格の関係を確認でき、[信頼性の記事](/ja/reviews/hostinger-trust-guide-ja) で返金と企業の安全性を扱っています。"
+          "契約を決めているなら、カートのクーポン欄に SONAR20 を入れると最初の期間が 20% 割引になります。詳しくは [Hostinger](/ja/coupons/hostinger) のページにあります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。詳しくは [SONAR20 クーポンの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ブラックフライデーが気になるなら、[キャンペーンガイド](/ja/reviews/hostinger-black-friday-ja) で SONAR20 とキャンペーン価格の関係を確認でき、[信頼性の記事](/ja/reviews/hostinger-trust-guide-ja) で返金と企業の安全性を扱っています。"
         ]
       }
     ],
@@ -95842,13 +95860,14 @@ export const reviewsData: unknown[] = [
           "Hostinger 在 Trustpilot 上的評分高嗎？在查閱的時間點，TrustScore 為滿分 5 分中的 4.6，其中五星占 87.1%，一星占 6.9%。",
           "Hostinger 最常見的投訴是什麼？在讀過的最近 100 則一星評價中的 86 則投訴裡，主要主題是 AI 客服和無法找到真人（約 45 則）、帳單和續訂（約 38 則）以及網域（約 27 則）。",
           "Hostinger 會回覆負面評價嗎？會。頁面顯示，公司回覆了 99% 的負面評價，通常在 24 小時內。在我們的樣本中，86 則投訴中有 80 則有回覆。",
-          "如何關閉 Hostinger 的自動續訂？在帳戶的帳單區域進入服務頁面，打開產品旁邊的三點選單，進入續訂設定，關閉自動續訂並儲存。產品會保持有效直到到期日。"
+          "如何關閉 Hostinger 的自動續訂？在帳戶的帳單區域進入服務頁面，打開產品旁邊的三點選單，進入續訂設定，關閉自動續訂並儲存。產品會保持有效直到到期日。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
         "heading": "如果你已經決定",
         "paragraphs": [
-          "如果你決定購買，在購物車的優惠碼欄輸入 SONAR20，首個週期可享 20% 折扣，詳情見 [Hostinger](/zh-hant/coupons/hostinger) 頁面。SONAR20 的 20% 折扣也適用於續訂，請在購物車確認價格，細節見[SONAR20 優惠碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)會說明 SONAR20 如何在活動價上計算，而[可信度文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)則談退款和公司的安全性。"
+          "如果你決定購買，在購物車的優惠碼欄輸入 SONAR20，首個週期可享 20% 折扣，詳情見 [Hostinger](/zh-hant/coupons/hostinger) 頁面。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。細節見[SONAR20 優惠碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)會說明 SONAR20 如何在活動價上計算，而[可信度文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)則談退款和公司的安全性。"
         ]
       }
     ],
@@ -96121,20 +96140,21 @@ export const reviewsData: unknown[] = [
           "Hostinger 在 Trustpilot 上的评分高吗？在查阅的时间点，TrustScore 为满分 5 分中的 4.6，其中五星占 87.1%，一星占 6.9%。",
           "Hostinger 最常见的投诉是什么？在读过的最近 100 条一星评价中的 86 条投诉里，主要主题是 AI 客服和无法找到真人（约 45 条）、账单和续费（约 38 条）以及域名（约 27 条）。",
           "Hostinger 会回复负面评价吗？会。页面显示，公司回复了 99% 的负面评价，通常在 24 小时内。在我们的样本中，86 条投诉中有 80 条有回复。",
-          "如何关闭 Hostinger 的自动续费？在账户的账单区域进入服务页面，打开产品旁边的三点菜单，进入续费设置，关闭自动续费并保存。产品会保持有效直到到期日。"
+          "如何关闭 Hostinger 的自动续费？在账户的账单区域进入服务页面，打开产品旁边的三点菜单，进入续费设置，关闭自动续费并保存。产品会保持有效直到到期日。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
         "heading": "如果你已经决定",
         "paragraphs": [
-          "如果你决定购买，在购物车的优惠码栏输入 SONAR20，首个周期可享 20% 折扣，详情见 [Hostinger](/zh-hans/coupons/hostinger) 页面。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格，细节见[SONAR20 优惠码文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。如果你关心的是黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)会说明 SONAR20 如何在活动价上计算，而[可信度文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)则谈退款和公司的安全性。"
+          "如果你决定购买，在购物车的优惠码栏输入 SONAR20，首个周期可享 20% 折扣，详情见 [Hostinger](/zh-hans/coupons/hostinger) 页面。这 20% 适用于所有新购；续费按标价收费，没有折扣，细节见[SONAR20 优惠码文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。如果你关心的是黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)会说明 SONAR20 如何在活动价上计算，而[可信度文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)则谈退款和公司的安全性。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认续费价格。",
+      "text": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "查看折扣套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96187,7 +96207,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "O cupom Hostinger SONAR20 dá 20% no primeiro período, em plano mensal ou anual, para cliente novo ou antigo. Veja onde colar o código, os preços e o que muda na renovação.",
-    "metaDescription": "O SONAR20 dá 20% OFF na Hostinger, no primeiro período e na renovação, em plano mensal ou anual. Veja onde colar o código no carrinho.",
+    "metaDescription": "O SONAR20 dá 20% OFF na Hostinger em toda compra nova, em plano mensal ou anual, também para quem já é cliente. Veja onde colar o código no carrinho.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -96200,7 +96220,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Tem cupom: o código **SONAR20** dá 20% de desconto no primeiro período de qualquer plano da [Hostinger](/cupons/hostinger), mensal ou anual, para cliente novo ou antigo. Cole o código no campo \"Tem um cupom de desconto?\" do carrinho, ou entre pelo link deste artigo. Os 20% também valem na renovação; veja abaixo a conta."
+          "Tem cupom: o código **SONAR20** dá 20% de desconto no primeiro período de qualquer plano da [Hostinger](/cupons/hostinger), mensal ou anual, para cliente novo ou antigo. Cole o código no campo \"Tem um cupom de desconto?\" do carrinho, ou entre pelo link deste artigo. A renovação não tem desconto: sai pelo preço de tabela."
         ]
       },
       {
@@ -96267,7 +96287,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Single, em 48 meses, o SONAR20 deixa a conta R$ 57,60 mais baixa no total (R$ 229,92 contra R$ 287,52). No Premium, a diferença é de R$ 96,00 (R$ 383,52 contra R$ 479,52). O preço de renovação de cada plano aparece abaixo do card; os 20% também valem na renovação.",
+          "No Single, em 48 meses, o SONAR20 deixa a conta R$ 57,60 mais baixa no total (R$ 229,92 contra R$ 287,52). No Premium, a diferença é de R$ 96,00 (R$ 383,52 contra R$ 479,52). O preço de renovação de cada plano aparece abaixo do card, sem os 20%.",
           "Para a campanha em si, com as datas e a conta com o cupom, veja a [Black Friday da Hostinger](/reviews/black-friday-hostinger)."
         ],
         "images": [
@@ -96283,13 +96303,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Plano mensal, anual e quem já é cliente",
         "paragraphs": [
-          "O SONAR20 dá 20% no primeiro período em plano mensal ou anual, para cliente novo ou antigo. Testamos só o plano Startup de hospedagem. O código vale no VPS e na renovação; no domínio avulso, não vale. No e-mail e nos agentes de IA, confira no carrinho se o desconto aparece. Quem já é cliente usa o código num plano novo e na renovação de um plano que já tem; confira o preço no painel."
+          "O SONAR20 dá 20% no primeiro período em plano mensal ou anual, para cliente novo ou antigo. O código vale no VPS; no domínio avulso e na renovação, não vale. No e-mail e nos agentes de IA, confira no carrinho se o desconto aparece. Quem já é cliente usa o código em qualquer plano ou produto novo: testamos numa conta antiga, e o SONAR20 tirou 20% de um produto novo, por cima do desconto da campanha. A renovação de um plano que você já tem sai pelo preço de tabela."
         ]
       },
       {
         "heading": "Renovação: o que muda depois do primeiro período",
         "paragraphs": [
-          "Depois do primeiro período, o plano é renovado pelo preço padrão, o que aparece abaixo do card de cada plano. A página diz que dá para trocar o período ou cancelar a qualquer momento antes da renovação. Para desligar a renovação automática e o que fazer com uma cobrança que você não reconhece, veja a [Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao)."
+          "Depois do primeiro período, o plano é renovado pelo preço padrão, o que aparece abaixo do card de cada plano, sem o desconto do SONAR20. A página diz que dá para trocar o período ou cancelar a qualquer momento antes da renovação. Para desligar a renovação automática e o que fazer com uma cobrança que você não reconhece, veja a [Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -96306,8 +96326,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger tem cupom? Tem: o código SONAR20 dá 20% no primeiro período de qualquer plano, mensal ou anual.",
           "Onde coloco o cupom da Hostinger? No carrinho, no campo \"Tem um cupom de desconto?\" (\"Have a coupon code?\" no site global). Cole SONAR20 e aplique antes de pagar.",
-          "O SONAR20 vale para quem já é cliente? Sim, num plano novo, pela regra da parceria, e na renovação de um plano que você já tem; confira o preço no painel.",
-          "O cupom dá desconto na renovação? Sim, o código vale na renovação. Confira o preço de renovação no carrinho antes de pagar.",
+          "O SONAR20 vale para quem já é cliente? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%.",
+          "O cupom dá desconto na renovação? Não: a renovação sai pelo preço de tabela, que o carrinho mostra logo abaixo do plano. Os 20% valem só em compra nova.",
           "O SONAR20 vale na Black Friday? Sim: no teste no carrinho, os 20% saíram do preço da campanha."
         ]
       }
@@ -96315,7 +96335,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos com desconto",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96382,7 +96402,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. The 20% also apply on renewal."
+          "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. Renewal has no discount: it is charged at the list price."
         ]
       },
       {
@@ -96407,13 +96427,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Monthly plan, annual plan and existing customers",
         "paragraphs": [
-          "SONAR20 gives 20% off the first period on a monthly or annual plan, for new or existing customers. The code works on VPS and WordPress plans and on renewal, but on a standalone domain it does not work. For email and AI agents, check in the cart whether the discount shows up. Existing customers use the code on a new plan, and it also works on the renewal of a plan you already have; check the price in the dashboard."
+          "SONAR20 gives 20% off the first period on a monthly or annual plan, for new or existing customers. The code works on VPS and WordPress plans; on a standalone domain and on renewal it does not work. For email and AI agents, check in the cart whether the discount shows up. Existing customers can use the code on any new plan or product: we tested it on an old account, and SONAR20 took 20% off a new product, on top of the campaign discount. The renewal of a plan you already have is charged at the list price."
         ]
       },
       {
         "heading": "Renewal: what changes after the first period",
         "paragraphs": [
-          "After the first period, the plan renews at the standard price, shown below each plan's card. The page says you can change the period or cancel at any time before renewal."
+          "After the first period, the plan renews at the standard price, shown below each plan's card, without the SONAR20 discount. The page says you can change the period or cancel at any time before renewal."
         ]
       },
       {
@@ -96430,8 +96450,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Does Hostinger have a coupon? Yes: the code SONAR20 gives 20% off the first period of any plan, monthly or annual.",
           "Where do I enter the Hostinger coupon? In the cart, in the “Have a coupon code?” field. Paste SONAR20 and apply it before paying.",
-          "Does SONAR20 work for existing customers? Yes, on a new plan, under the partnership rules, and on the renewal of a plan you already have; check the price in the dashboard.",
-          "Does the coupon discount the renewal? Yes, the code works on renewal. Check the renewal price in the cart before paying.",
+          "Does SONAR20 work for existing customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%.",
+          "Does the coupon discount the renewal? No: renewal is charged at the list price, which the cart shows right below the plan. The 20% applies only to new purchases.",
           "Does SONAR20 work on Black Friday? Yes: in the cart test, the 20% came off the campaign price."
         ]
       }
@@ -96439,7 +96459,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. The 20% also apply on renewal; check the renewal price in the cart.",
+      "text": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96506,7 +96526,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí hay cupón: el código **SONAR20** da 20% de descuento en el primer período de cualquier plan de [Hostinger](/es/coupons/hostinger), mensual o anual, para cliente nuevo o antiguo. Pega el código en el campo de cupón del carrito, o entra por el enlace de este artículo. Los 20 % también valen en la renovación."
+          "Sí hay cupón: el código **SONAR20** da 20% de descuento en el primer período de cualquier plan de [Hostinger](/es/coupons/hostinger), mensual o anual, para cliente nuevo o antiguo. Pega el código en el campo de cupón del carrito, o entra por el enlace de este artículo. La renovación no tiene descuento: se cobra al precio de lista."
         ]
       },
       {
@@ -96531,13 +96551,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Plan mensual, anual y quien ya es cliente",
         "paragraphs": [
-          "El SONAR20 da 20% en el primer período en plan mensual o anual, para cliente nuevo o antiguo. Probamos solo el plan Startup de hosting; en correo y agentes de IA, revisa en el carrito si aparece el descuento. El código vale en el VPS; en el dominio suelto, no. Quien ya es cliente usa el código en un plan nuevo y en la renovación de un plan que ya tiene; mira el precio en el panel."
+          "El SONAR20 da 20% en el primer período en plan mensual o anual, para cliente nuevo o antiguo. Probamos solo el plan Startup de hosting; en correo y agentes de IA, revisa en el carrito si aparece el descuento. El código vale en el VPS; en el dominio suelto y en la renovación, no. Quien ya es cliente usa el código en cualquier plan o producto nuevo: probamos en una cuenta antigua, y el SONAR20 quitó 20 % de un producto nuevo, además del descuento de la campaña. La renovación de un plan que ya tienes se cobra al precio de lista."
         ]
       },
       {
         "heading": "Renovación: qué cambia después del primer período",
         "paragraphs": [
-          "Después del primer período, el plan se renueva al precio estándar, el que aparece debajo de la tarjeta de cada plan. La página dice que puedes cambiar el período o cancelar en cualquier momento antes de la renovación."
+          "Después del primer período, el plan se renueva al precio estándar, el que aparece debajo de la tarjeta de cada plan, sin el descuento del SONAR20. La página dice que puedes cambiar el período o cancelar en cualquier momento antes de la renovación."
         ]
       },
       {
@@ -96554,8 +96574,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Hostinger tiene cupón? Sí: el código SONAR20 da 20% en el primer período de cualquier plan, mensual o anual.",
           "¿Dónde pongo el cupón de Hostinger? En el carrito, en el campo «Have a coupon code?». Pega SONAR20 y aplícalo antes de pagar.",
-          "¿El SONAR20 vale para quien ya es cliente? Sí, en un plan nuevo, según las reglas de la alianza, y en la renovación de un plan que ya tienes; mira el precio en el panel.",
-          "¿El cupón da descuento en la renovación? Sí, los 20 % valen en la renovación. Comprueba el precio de renovación en el carrito antes de pagar.",
+          "¿El SONAR20 vale para quien ya es cliente? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %.",
+          "¿El cupón da descuento en la renovación? No: la renovación se cobra al precio de lista, que el carrito muestra justo debajo del plan. El 20 % vale solo en compra nueva.",
           "¿El SONAR20 vale en Black Friday? Sí: en la prueba en el carrito, el 20% se descontó del precio de la campaña."
         ]
       }
@@ -96563,7 +96583,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes con descuento",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96630,7 +96650,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, il y a un code : **SONAR20** donne 20 % de réduction sur la première période de n'importe quel forfait [Hostinger](/fr/coupons/hostinger), mensuel ou annuel, pour un client nouveau ou existant. Collez le code dans le champ de coupon du panier, ou passez par le lien de cet article. Les 20 % valent aussi sur le renouvellement."
+          "Oui, il y a un code : **SONAR20** donne 20 % de réduction sur la première période de n'importe quel forfait [Hostinger](/fr/coupons/hostinger), mensuel ou annuel, pour un client nouveau ou existant. Collez le code dans le champ de coupon du panier, ou passez par le lien de cet article. Le renouvellement n'a pas de réduction : il est facturé au prix catalogue."
         ]
       },
       {
@@ -96655,13 +96675,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Forfait mensuel, annuel et clients existants",
         "paragraphs": [
-          "SONAR20 donne 20 % sur la première période en forfait mensuel ou annuel, pour un client nouveau ou existant. Nous l'avons testé sur le forfait Startup d'hébergement ; il vaut aussi sur le VPS, mais pas sur un domaine seul. Pour la messagerie et les agents d'IA, vérifiez dans le panier si la réduction apparaît. Un client existant utilise le code sur un nouveau forfait et sur le renouvellement d'un forfait qu'il a déjà ; consultez le prix dans le tableau de bord."
+          "SONAR20 donne 20 % sur la première période en forfait mensuel ou annuel, pour un client nouveau ou existant. Nous l'avons testé sur le forfait Startup d'hébergement ; il vaut aussi sur le VPS, mais ni sur un domaine seul ni sur le renouvellement. Pour la messagerie et les agents d'IA, vérifiez dans le panier si la réduction apparaît. Un client existant utilise le code sur tout nouveau forfait ou produit : nous l'avons testé sur un ancien compte, et SONAR20 a retiré 20 % d'un nouveau produit, en plus de la réduction de la campagne. Le renouvellement d'un forfait qu'il a déjà est facturé au prix catalogue."
         ]
       },
       {
         "heading": "Renouvellement : ce qui change après la première période",
         "paragraphs": [
-          "Après la première période, le forfait se renouvelle au prix standard, celui affiché sous la fiche de chaque forfait. La page indique qu'on peut changer de période ou résilier à tout moment avant le renouvellement."
+          "Après la première période, le forfait se renouvelle au prix standard, celui affiché sous la fiche de chaque forfait, sans la réduction de SONAR20. La page indique qu'on peut changer de période ou résilier à tout moment avant le renouvellement."
         ]
       },
       {
@@ -96678,8 +96698,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger a-t-il un code promo ? Oui : le code SONAR20 donne 20 % sur la première période de n'importe quel forfait, mensuel ou annuel.",
           "Où mettre le code promo Hostinger ? Dans le panier, dans le champ « Have a coupon code? ». Collez SONAR20 et appliquez-le avant de payer.",
-          "SONAR20 est-il valable pour un client existant ? Oui, sur un nouveau forfait, d'après les règles du partenariat, et sur le renouvellement d'un forfait que vous avez déjà ; consultez le prix dans le tableau de bord.",
-          "Le code donne-t-il une réduction sur le renouvellement ? Oui, les 20 % valent aussi sur le renouvellement. Vérifiez le prix de renouvellement dans le panier avant de payer.",
+          "SONAR20 est-il valable pour un client existant ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %.",
+          "Le code donne-t-il une réduction sur le renouvellement ? Non : le renouvellement est facturé au prix catalogue, que le panier affiche juste sous le forfait. Les 20 % valent seulement sur un nouvel achat.",
           "SONAR20 est-il valable pendant le Black Friday ? Oui : lors du test dans le panier, les 20 % ont été retirés du prix de la campagne."
         ]
       }
@@ -96687,7 +96707,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier.",
+      "text": "Utilisez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits avec la réduction",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96754,7 +96774,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ja, es gibt einen Gutscheincode: **SONAR20** gibt 20 % Rabatt auf den ersten Zeitraum jedes [Hostinger](/de/coupons/hostinger)-Tarifs, ob monatlich oder jährlich, für Neu- und Bestandskunden. Fügen Sie den Code im Gutscheinfeld des Warenkorbs ein oder gehen Sie über den Link in diesem Artikel. Die 20 % gelten auch bei der Verlängerung."
+          "Ja, es gibt einen Gutscheincode: **SONAR20** gibt 20 % Rabatt auf den ersten Zeitraum jedes [Hostinger](/de/coupons/hostinger)-Tarifs, ob monatlich oder jährlich, für Neu- und Bestandskunden. Fügen Sie den Code im Gutscheinfeld des Warenkorbs ein oder gehen Sie über den Link in diesem Artikel. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -96779,13 +96799,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Monatstarif, Jahrestarif und Bestandskunden",
         "paragraphs": [
-          "SONAR20 gibt 20 % auf den ersten Zeitraum bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Beim VPS gilt der Code; bei E-Mail und KI-Agenten prüfen Sie im Warenkorb, ob der Rabatt erscheint. Bei einer einzelnen Domain gilt der Code nicht. Bestandskunden nutzen den Code für einen neuen Tarif und für die Verlängerung eines Tarifs, den sie schon haben; den Preis sehen Sie im Kundenbereich."
+          "SONAR20 gibt 20 % auf den ersten Zeitraum bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Beim VPS gilt der Code; bei E-Mail und KI-Agenten prüfen Sie im Warenkorb, ob der Rabatt erscheint. Bei einer einzelnen Domain gilt der Code nicht. Bestandskunden nutzen den Code für jeden neuen Tarif oder jedes neue Produkt: Wir haben ihn mit einem alten Konto getestet, und SONAR20 zog 20 % von einem neuen Produkt ab, zusätzlich zum Rabatt der Aktion. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet."
         ]
       },
       {
         "heading": "Verlängerung: Was nach dem ersten Zeitraum anders ist",
         "paragraphs": [
-          "Nach dem ersten Zeitraum verlängert sich der Tarif zum Standardpreis, der unter der Karte jedes Tarifs steht; mit dem Code SONAR20 gibt es darauf 20 % weniger. Die Seite sagt, dass Sie den Zeitraum ändern oder vor der Verlängerung jederzeit kündigen können."
+          "Nach dem ersten Zeitraum verlängert sich der Tarif zum Standardpreis, der unter der Karte jedes Tarifs steht, ohne den Rabatt von SONAR20. Die Seite sagt, dass Sie den Zeitraum ändern oder vor der Verlängerung jederzeit kündigen können."
         ]
       },
       {
@@ -96793,7 +96813,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Wählen Sie Tarif und Laufzeit und gehen Sie zum Warenkorb.",
           "Fügen Sie SONAR20 im Gutscheinfeld ein und wenden Sie ihn an.",
-          "Prüfen Sie, ob die 20 % in der Summe des ersten Zeitraums erscheinen und ob die Verlängerung aufgeführt ist.",
+          "Prüfen Sie, ob die 20 % in der Summe des ersten Zeitraums erscheinen und ob die Verlängerung zum Listenpreis aufgeführt ist.",
           "Weicht der Betrag im Warenkorb von den angezeigten Preisen ab, gilt der Betrag im Warenkorb."
         ]
       },
@@ -96802,8 +96822,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Gibt es bei Hostinger einen Gutschein? Ja: Der Code SONAR20 gibt 20 % auf den ersten Zeitraum jedes Tarifs, ob monatlich oder jährlich.",
           "Wo trage ich den Hostinger-Gutschein ein? Im Warenkorb, im Feld „Have a coupon code?“. Fügen Sie SONAR20 ein und wenden Sie ihn an, bevor Sie zahlen.",
-          "Gilt SONAR20 für Bestandskunden? Ja, für einen neuen Tarif, nach den Regeln der Partnerschaft, und für die Verlängerung eines Tarifs, den Sie schon haben; den Preis sehen Sie im Kundenbereich.",
-          "Gibt der Gutschein Rabatt auf die Verlängerung? Ja, die 20 % gelten auch bei der Verlängerung. Prüfen Sie den Verlängerungspreis im Warenkorb, bevor Sie zahlen.",
+          "Gilt SONAR20 für Bestandskunden? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %.",
+          "Gibt der Gutschein Rabatt auf die Verlängerung? Nein: Die Verlängerung wird zum Listenpreis berechnet, den der Warenkorb direkt unter dem Tarif anzeigt. Die 20 % gelten nur bei einem Neukauf.",
           "Gilt SONAR20 am Black Friday? Ja: Im Test im Warenkorb wurden die 20 % vom Preis der Aktion abgezogen."
         ]
       }
@@ -96811,7 +96831,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Tragen Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Tragen Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96878,7 +96898,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, c'è un coupon: il codice **SONAR20** dà il 20% di sconto sul primo periodo di qualsiasi piano [Hostinger](/it/coupons/hostinger), mensile o annuale, per cliente nuovo o già esistente. Incolla il codice nel campo coupon del carrello, oppure entra dal link di questo articolo. I 20% valgono anche sul rinnovo."
+          "Sì, c'è un coupon: il codice **SONAR20** dà il 20% di sconto sul primo periodo di qualsiasi piano [Hostinger](/it/coupons/hostinger), mensile o annuale, per cliente nuovo o già esistente. Incolla il codice nel campo coupon del carrello, oppure entra dal link di questo articolo. Il rinnovo non ha sconto: si paga al prezzo di listino."
         ]
       },
       {
@@ -96903,13 +96923,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Piano mensile, annuale e chi è già cliente",
         "paragraphs": [
-          "SONAR20 dà il 20% sul primo periodo con piano mensile o annuale, per cliente nuovo o già esistente. Vale sui piani di hosting, sul VPS e sul rinnovo; sul dominio singolo non vale. Per e-mail e agenti IA, controlla nel carrello se lo sconto compare. Chi è già cliente usa il codice su un piano nuovo e sul rinnovo di un piano che ha già; guarda il prezzo nel pannello."
+          "SONAR20 dà il 20% sul primo periodo con piano mensile o annuale, per cliente nuovo o già esistente. Vale sui piani di hosting e sul VPS; sul dominio singolo e sul rinnovo non vale. Per e-mail e agenti IA, controlla nel carrello se lo sconto compare. Chi è già cliente usa il codice su qualsiasi piano o prodotto nuovo: l'abbiamo testato su un account vecchio, e SONAR20 ha tolto il 20% da un prodotto nuovo, sopra lo sconto della campagna. Il rinnovo di un piano che hai già si paga al prezzo di listino."
         ]
       },
       {
         "heading": "Rinnovo: cosa cambia dopo il primo periodo",
         "paragraphs": [
-          "Dopo il primo periodo, il piano si rinnova al prezzo standard, quello che compare sotto la scheda di ogni piano. La pagina dice che puoi cambiare periodo o annullare in qualsiasi momento prima del rinnovo."
+          "Dopo il primo periodo, il piano si rinnova al prezzo standard, quello che compare sotto la scheda di ogni piano, senza lo sconto di SONAR20. La pagina dice che puoi cambiare periodo o annullare in qualsiasi momento prima del rinnovo."
         ]
       },
       {
@@ -96926,8 +96946,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger ha un coupon? Sì: il codice SONAR20 dà il 20% sul primo periodo di qualsiasi piano, mensile o annuale.",
           "Dove inserisco il coupon Hostinger? Nel carrello, nel campo «Have a coupon code?». Incolla SONAR20 e applica prima di pagare.",
-          "SONAR20 vale per chi è già cliente? Sì, su un piano nuovo, secondo le regole della partnership, e sul rinnovo di un piano che hai già; guarda il prezzo nel pannello.",
-          "Il coupon dà sconto sul rinnovo? Sì, i 20% valgono anche sul rinnovo. Controlla il prezzo di rinnovo nel carrello prima di pagare.",
+          "SONAR20 vale per chi è già cliente? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%.",
+          "Il coupon dà sconto sul rinnovo? No: il rinnovo si paga al prezzo di listino, che il carrello mostra subito sotto il piano. I 20% valgono solo sugli acquisti nuovi.",
           "SONAR20 vale durante il Black Friday? Sì: nel test nel carrello, il 20% è stato tolto dal prezzo della campagna."
         ]
       }
@@ -96935,7 +96955,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani con SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96988,7 +97008,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger 쿠폰 SONAR20은 월간 플랜이든 연간 플랜이든, 신규 고객이든 기존 고객이든 첫 기간에 20%를 할인해 줍니다. 코드를 넣을 곳과 갱신 때 달라지는 점을 알려드립니다.",
-    "metaDescription": "Hostinger 쿠폰 SONAR20: 월간·연간 플랜 첫 기간 20% 할인. 장바구니에서 코드를 넣을 곳과 갱신 때 달라지는 점을 알려드립니다.",
+    "metaDescription": "Hostinger 쿠폰 SONAR20: 모든 신규 구매 20% 할인, 월간·연간 플랜, 기존 고객도 가능. 장바구니에서 코드를 넣을 곳을 알려드립니다.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -97002,7 +97022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 쿠폰이 있습니다. 코드 **SONAR20**은 모든 [Hostinger](/ko/coupons/hostinger) 플랜의 첫 기간에 20%를 할인하며, 월간과 연간 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 장바구니의 쿠폰 입력란에 코드를 넣거나, 이 글의 링크로 들어가세요. 갱신에도 20% 할인이 적용됩니다."
+          "네, 쿠폰이 있습니다. 코드 **SONAR20**은 모든 [Hostinger](/ko/coupons/hostinger) 플랜의 첫 기간에 20%를 할인하며, 월간과 연간 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 장바구니의 쿠폰 입력란에 코드를 넣거나, 이 글의 링크로 들어가세요. 갱신에는 할인이 없고 정가로 청구됩니다."
         ]
       },
       {
@@ -97027,13 +97047,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "월간 플랜, 연간 플랜, 기존 고객",
         "paragraphs": [
-          "SONAR20은 월간이든 연간이든, 신규 고객이든 기존 고객이든 첫 기간에 20%를 할인해 줍니다. 테스트한 것은 호스팅 Startup 플랜뿐입니다. VPS에도 적용됩니다. 이메일과 AI 에이전트는 장바구니에서 할인이 나타나는지 확인하세요. 도메인 단독 구매에는 코드가 적용되지 않습니다. 기존 고객은 새 플랜에도, 이미 쓰고 있는 플랜의 갱신에도 코드를 쓸 수 있습니다. 가격은 관리 화면에서 확인하세요."
+          "SONAR20은 월간이든 연간이든, 신규 고객이든 기존 고객이든 첫 기간에 20%를 할인해 줍니다. 테스트한 것은 호스팅 Startup 플랜뿐입니다. VPS에도 적용됩니다. 이메일과 AI 에이전트는 장바구니에서 할인이 나타나는지 확인하세요. 도메인 단독 구매와 갱신에는 코드가 적용되지 않습니다. 기존 고객은 모든 신규 플랜과 제품에 코드를 쓸 수 있습니다. 오래된 계정으로 테스트했더니 SONAR20이 새 제품에서 20%를 깎았고, 캠페인 할인에 더해졌습니다. 이미 쓰고 있는 플랜의 갱신은 정가로 청구되며 할인이 없습니다."
         ]
       },
       {
         "heading": "갱신: 첫 기간이 지나면 달라지는 점",
         "paragraphs": [
-          "첫 기간이 지나면 플랜은 표준 가격으로 갱신됩니다. 각 플랜 카드 아래에 표시된 가격입니다. 페이지에는 갱신 전이면 언제든 기간을 바꾸거나 해지할 수 있다고 적혀 있습니다."
+          "첫 기간이 지나면 플랜은 표준 가격으로 갱신됩니다. 각 플랜 카드 아래에 표시된 가격이며, SONAR20의 할인은 붙지 않습니다. 페이지에는 갱신 전이면 언제든 기간을 바꾸거나 해지할 수 있다고 적혀 있습니다."
         ]
       },
       {
@@ -97050,8 +97070,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger에 쿠폰이 있나요? 네. 코드 SONAR20은 모든 플랜의 첫 기간에 20%를 할인해 줍니다. 월간과 연간 모두 해당합니다.",
           "Hostinger 쿠폰은 어디에 넣나요? 장바구니의 “Have a coupon code?” 입력란입니다. SONAR20을 붙여넣고 결제 전에 적용하세요.",
-          "SONAR20은 기존 고객도 쓸 수 있나요? 네. 제휴 규정상 새 플랜에도, 이미 쓰고 있는 플랜의 갱신에도 쓸 수 있습니다. 가격은 관리 화면에서 확인하세요.",
-          "쿠폰으로 갱신도 할인되나요? 네, 갱신에도 20% 할인이 적용됩니다. 결제 전에 장바구니에서 갱신 가격을 확인하세요.",
+          "SONAR20은 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다.",
+          "쿠폰으로 갱신도 할인되나요? 아니요. 갱신은 장바구니가 플랜 바로 아래에 보여 주는 정가로 청구되며, 20%는 신규 구매에만 적용됩니다.",
           "SONAR20은 블랙프라이데이에도 되나요? 네. 장바구니 테스트에서 20%는 캠페인 가격에서 빠졌습니다."
         ]
       }
@@ -97059,7 +97079,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "할인 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97125,7 +97145,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "クーポンはあります。コード **SONAR20** で、[Hostinger](/ja/coupons/hostinger)のどのプランでも最初の期間が20%割引になります。月額でも年額でも、新規のお客様も既存のお客様も対象です。カートのクーポン欄にコードを入れるか、この記事のリンクから入ってください。更新時も20%割引が適用されます。"
+          "クーポンはあります。コード **SONAR20** で、[Hostinger](/ja/coupons/hostinger)のどのプランでも最初の期間が20%割引になります。月額でも年額でも、新規のお客様も既存のお客様も対象です。カートのクーポン欄にコードを入れるか、この記事のリンクから入ってください。更新に割引はありません。通常料金で更新されます。"
         ]
       },
       {
@@ -97150,13 +97170,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "月額プラン、年額プラン、既存のお客様",
         "paragraphs": [
-          "SONAR20は、月額でも年額でも、新規のお客様も既存のお客様も、最初の期間が20%割引になります。検証したのはホスティングのStartupプランだけです。VPSでも使えます。メールとAIエージェントは、カートで割引が出るか確認してください。ドメインには使えません。既存のお客様は、新しいプランにも、すでにお持ちのプランの更新にもコードを使えます。料金は管理画面で確認してください。"
+          "SONAR20は、月額でも年額でも、新規のお客様も既存のお客様も、最初の期間が20%割引になります。検証したのはホスティングのStartupプランだけです。VPSでも使えます。ドメインと更新には使えません。メールとAIエージェントは、カートで割引が出るか確認してください。既存のお客様は、新しいプランや商品にコードを使えます。古いアカウントでテストしたところ、SONAR20はキャンペーン割引の上からさらに、新しい商品を20%引きにしました。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
         "heading": "更新：最初の期間のあとに変わること",
         "paragraphs": [
-          "最初の期間が終わると、プランは通常料金で更新されます。各プランのカードの下に表示されている料金です。ページには、更新の前ならいつでも期間を変更したり解約したりできると書かれています。"
+          "最初の期間が終わると、プランは通常料金で更新されます。各プランのカードの下に表示されている料金で、SONAR20の割引はありません。ページには、更新の前ならいつでも期間を変更したり解約したりできると書かれています。"
         ]
       },
       {
@@ -97173,8 +97193,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostingerにクーポンはありますか？はい。コードSONAR20で、どのプランでも最初の期間が20%割引になります。月額でも年額でも対象です。",
           "Hostingerのクーポンはどこに入れますか？カートの「Have a coupon code?」欄です。SONAR20を貼り付けて、支払う前に適用してください。",
-          "SONAR20は既存のお客様も使えますか？はい。提携のルールでは、新しいプランにも、すでにお持ちのプランの更新にも使えます。料金は管理画面で確認してください。",
-          "クーポンで更新も割引になりますか？はい、このコードは更新にも使えます。支払う前に、カートで更新料金を確認してください。",
+          "SONAR20は既存のお客様も使えますか？はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。",
+          "クーポンで更新も割引になりますか？いいえ。更新は、カートでプランの下に表示される通常料金で、20%割引は新規購入にだけ適用されます。",
           "SONAR20はブラックフライデーでも使えますか？はい。カートでの検証では、20%はキャンペーン価格から引かれました。"
         ]
       }
@@ -97182,7 +97202,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入力するか、このリンクから入ってください。最初の期間が20%割引です。更新時も20%割引が適用されるので、カートで料金を確認してください。",
+      "text": "カートのクーポン欄に SONAR20 を入力するか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97235,8 +97255,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger 優惠碼 SONAR20 在首期享 20% 折扣，月付或年付方案都可以，新客戶或舊客戶都適用。看看優惠碼要輸入在哪裡，以及續訂時有什麼變化。",
-    "metaDescription": "Hostinger 優惠碼 SONAR20：月付或年付方案首期享 20% 折扣。看看在購物車哪裡輸入優惠碼，以及續訂時有什麼變化。",
+    "description": "Hostinger 優惠碼 SONAR20 在首期享 20% 折扣，月付或年付方案都可以，新客戶或舊客戶都適用。看看優惠碼要輸入在哪裡，以及為什麼續訂沒有折扣。",
+    "metaDescription": "Hostinger 優惠碼 SONAR20：月付或年付方案首期享 20% 折扣。看看在購物車哪裡輸入優惠碼，以及為什麼續訂沒有折扣。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "draft": false,
@@ -97250,7 +97270,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "有優惠碼：**SONAR20** 在任何 [Hostinger](/zh-hant/coupons/hostinger) 方案的首期給 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入優惠碼，或從本文連結進入。優惠碼的 20% 折扣也適用於續訂。"
+          "有優惠碼：**SONAR20** 在任何 [Hostinger](/zh-hant/coupons/hostinger) 方案的首期給 20% 折扣，月付或年付都可以，新客戶或舊客戶都適用。在購物車的優惠碼欄位輸入優惠碼，或從本文連結進入。續訂沒有折扣，按定價計算。"
         ]
       },
       {
@@ -97275,13 +97295,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "月付、年付與現有客戶",
         "paragraphs": [
-          "SONAR20 在月付或年付方案的首期享 20% 折扣，新客戶和舊客戶都適用。我們只測試了 Startup 主機方案；VPS 也適用。電郵和 AI 代理請在購物車確認折扣是否出現；網域不適用 SONAR20。現有客戶購買新方案和續訂已有方案都能用優惠碼，價格請到後台查看。"
+          "SONAR20 在月付或年付方案的首期享 20% 折扣，新客戶和舊客戶都適用。我們只測試了 Startup 主機方案；VPS 也適用。電郵和 AI 代理請在購物車確認折扣是否出現；網域單買和續訂不適用 SONAR20。現有客戶購買任何新方案或新產品都能用優惠碼：我們用舊帳號測試過，SONAR20 在新產品上減了 20%，疊加在活動折扣之上。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
         "heading": "續訂：首期之後會有什麼變化",
         "paragraphs": [
-          "首期結束後，方案會依標準價格續訂，也就是每個方案卡片下方顯示的價格。頁面說明，續訂前你隨時可以更改期間或取消。"
+          "首期結束後，方案會依標準價格續訂，也就是每個方案卡片下方顯示的價格，不含 SONAR20 的折扣。頁面說明，續訂前你隨時可以更改期間或取消。"
         ]
       },
       {
@@ -97298,8 +97318,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger 有優惠碼嗎？有：優惠碼 SONAR20 在任何方案的首期享 20% 折扣，月付或年付都可以。",
           "Hostinger 的優惠碼要輸入在哪裡？在購物車的「Have a coupon code?」欄位。付款前貼上 SONAR20 並套用。",
-          "SONAR20 現有客戶能用嗎？能，依合作規則，新方案和已有方案的續訂都能用，價格請到後台查看。",
-          "優惠碼對續訂有折扣嗎？有，優惠碼的 20% 折扣也適用於續訂。付款前請在購物車確認續訂價格。",
+          "SONAR20 現有客戶能用嗎？可以，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。",
+          "優惠碼對續訂有折扣嗎？沒有：續訂按定價計算，購物車會在方案下方顯示價格。20% 只適用於新購買。",
           "SONAR20 在黑色星期五能用嗎？能：購物車測試中，20% 是從活動價扣掉的。"
         ]
       }
@@ -97307,7 +97327,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。優惠碼的 20% 折扣也適用於續訂，續訂價請在購物車確認。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
       "label": "查看享有折扣的方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97374,7 +97394,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "有优惠码：代码 **SONAR20** 可在任何 [Hostinger](/zh-hans/coupons/hostinger) 套餐的首个计费周期享 20% 折扣，月付或年付都可以，新老客户均适用。在购物车的优惠码栏输入代码，或从本文的链接进入。SONAR20 的 20% 折扣在续费时也有效。"
+          "有优惠码：代码 **SONAR20** 可在任何 [Hostinger](/zh-hans/coupons/hostinger) 套餐的首个计费周期享 20% 折扣，月付或年付都可以，新老客户均适用。在购物车的优惠码栏输入代码，或从本文的链接进入。这 20% 适用于所有新购；续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -97399,13 +97419,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "月付、年付和现有客户",
         "paragraphs": [
-          "SONAR20 在月付或年付套餐的首个周期享 20% 折扣，新老客户都适用。我们只测试了 Startup 主机套餐；VPS 也适用，域名不适用，邮箱和 AI 代理请在购物车确认折扣是否出现。现有客户购买新套餐和续费已有套餐都能用代码，价格请在后台查看。"
+          "SONAR20 在月付或年付套餐的首个周期享 20% 折扣，新老客户都适用。VPS 也适用；单买域名和续费不适用。邮箱和 AI 代理请在购物车确认折扣是否出现。现有客户购买任何新套餐或新产品都能用代码：我们在一个老账户上测试过，SONAR20 在一个新产品上减了 20%，叠加在活动折扣之上。已有套餐的续费按标价收费。"
         ]
       },
       {
         "heading": "续费：首个周期之后会有什么变化",
         "paragraphs": [
-          "首个周期结束后，套餐按标准价格续费，也就是每个套餐卡片下方显示的价格。页面说明，续费前你随时可以更改周期或取消。"
+          "首个周期结束后，套餐按标准价格续费，也就是每个套餐卡片下方显示的价格，不含 SONAR20 的折扣。页面说明，续费前你随时可以更改周期或取消。"
         ]
       },
       {
@@ -97422,8 +97442,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hostinger 有优惠码吗？有：优惠码 SONAR20 在任何套餐的首个周期享 20% 折扣，月付或年付都可以。",
           "Hostinger 的优惠码在哪里输入？在购物车的 “Have a coupon code?” 栏。付款前粘贴 SONAR20 并应用。",
-          "SONAR20 现有客户能用吗？能，按合作规则，新套餐和已有套餐的续费都能用，价格请在后台查看。",
-          "优惠码对续费有折扣吗？有，SONAR20 的 20% 折扣在续费时也有效。付款前请在购物车确认续费价格。",
+          "SONAR20 现有客户能用吗？能，新购可用：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。",
+          "优惠码对续费有折扣吗？没有：续费按标价收费，购物车会在套餐下方显示。20% 只适用于新购。",
           "SONAR20 在黑色星期五能用吗？能：购物车测试中，20% 是从活动价上扣的。"
         ]
       }
@@ -97431,7 +97451,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "查看享有折扣的套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -97484,7 +97504,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "A Black Friday da Hostinger já está no ar e o código SONAR20 tira mais 20% do preço da campanha. Veja a conta por plano e o que muda na renovação antes de pagar.",
-    "metaDescription": "Black Friday Hostinger 2026: o cupom SONAR20 tira mais 20% do preço da campanha e vale na renovação. Preços por plano, já com a campanha no ar.",
+    "metaDescription": "Black Friday Hostinger 2026: o cupom SONAR20 tira mais 20% do preço da campanha, em toda compra nova. Preços por plano, já com a campanha no ar.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-03",
@@ -97561,7 +97581,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para o valor da tabela com o SONAR20. Num teste no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,52, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82.",
-          "Onde colar o código e o que acontece com o desconto na renovação está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
+          "Onde colar o código e por que a renovação não tem desconto está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
       {
@@ -97579,7 +97599,7 @@ export const reviewsData: unknown[] = [
           "Abra a [Hostinger na página da loja deste site](/cupons/hostinger) e copie o código SONAR20.",
           "No carrinho, cole o SONAR20 no campo de cupom e veja o desconto de 20% aparecer sobre o preço da campanha.",
           "Compare o total do primeiro período, não só o preço por mês. O total mostra a diferença real.",
-          "Confira o preço da renovação antes de finalizar. A Hostinger o mostra antes do pagamento, e ele não é o da campanha. Os 20% do SONAR20 valem no primeiro período e também na renovação."
+          "Confira o preço da renovação antes de finalizar. A Hostinger o mostra antes do pagamento, e ele não é o da campanha. Os 20% do SONAR20 valem em toda compra nova, também para quem já é cliente; a renovação sai pelo preço de tabela."
         ],
         "postParagraphs": [
           "Antes de pagar, o histórico de reclamações da empresa está em [Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao), e o que a garantia cobre e o que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
@@ -97593,7 +97613,8 @@ export const reviewsData: unknown[] = [
           "Até quando vai a Black Friday da Hostinger? Até meados de dezembro, segundo a FAQ oficial; a data exata está no começo do artigo.",
           "O preço da Black Friday continua na renovação? Não. Ele vale para o período inicial da assinatura. A renovação sai pelo preço normal do plano.",
           "O SONAR20 vale junto com o preço da Black Friday? Sim: no nosso teste, os 20% saíram do preço da campanha. Como o preço muda, confira o total no carrinho.",
-          "A garantia de reembolso vale na Black Friday? A FAQ diz que os planos elegíveis têm garantia de 30 dias, com termos e exclusões. O que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel)."
+          "A garantia de reembolso vale na Black Friday? A FAQ diz que os planos elegíveis têm garantia de 30 dias, com termos e exclusões. O que fica de fora está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel).",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       }
     ],
@@ -97685,7 +97706,7 @@ export const reviewsData: unknown[] = [
         "heading": "What you pay with the campaign and with SONAR20",
         "postParagraphs": [
           "The discount applies on top of the campaign price. On the global site, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”).",
-          "Where to paste the code and what happens to the discount at renewal are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+          "Where to paste the code and why renewal has no discount are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
       {
@@ -97703,7 +97724,7 @@ export const reviewsData: unknown[] = [
           "Open [Hostinger on this site's store page](/en/coupons/hostinger) and copy the code SONAR20.",
           "In the cart, paste SONAR20 into the coupon field and watch the 20% discount appear on top of the campaign price.",
           "Compare the total for the first period, not just the monthly price. The total shows the real difference.",
-          "Check the renewal price before you check out. Hostinger shows it before payment, and it is not the campaign price. The 20% from SONAR20 applies to the first period and on renewal too."
+          "Check the renewal price before you check out. Hostinger shows it before payment, and it is not the campaign price. The 20% from SONAR20 applies to every new purchase, also for existing customers; renewal is charged at the list price."
         ],
         "postParagraphs": [
           "Before paying, what the guarantee covers and what it leaves out is in [Is Hostinger reliable?](/en/reviews/is-hostinger-legit)."
@@ -97717,7 +97738,8 @@ export const reviewsData: unknown[] = [
           "When does Hostinger's Black Friday end? In mid-December, according to the official FAQ; the exact date is at the start of the article.",
           "Does the Black Friday price carry over to renewal? No. It applies to the initial period of the subscription. Renewal is charged at the plan's regular price.",
           "Does SONAR20 work together with the Black Friday price? Yes: in our test, the 20% came off the campaign price. Since the price changes, check the total in the cart.",
-          "Does the refund guarantee apply on Black Friday? The FAQ says eligible plans have a 30-day guarantee, with terms and exclusions. What it leaves out is in [Is Hostinger reliable?](/en/reviews/is-hostinger-legit)."
+          "Does the refund guarantee apply on Black Friday? The FAQ says eligible plans have a 30-day guarantee, with terms and exclusions. What it leaves out is in [Is Hostinger reliable?](/en/reviews/is-hostinger-legit).",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       }
     ],
@@ -97808,7 +97830,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cuánto cuesta con la campaña y con SONAR20",
         "postParagraphs": [
           "El descuento se aplica sobre el precio de la campaña. En el sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»).",
-          "Dónde pegar el código y qué pasa con el descuento en la renovación está en [Cupón Hostinger SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
+          "Dónde pegar el código y por qué la renovación no tiene descuento está en [Cupón Hostinger SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
       {
@@ -97826,7 +97848,7 @@ export const reviewsData: unknown[] = [
           "Abre [Hostinger en la página de tienda de este sitio](/es/coupons/hostinger) y copia el código SONAR20.",
           "En el carrito, pega SONAR20 en el campo de cupón y mira cómo aparece el descuento del 20 % sobre el precio de la campaña.",
           "Compara el total del primer período, no solo el precio mensual. El total muestra la diferencia real.",
-          "Revisa el precio de renovación antes de finalizar. Hostinger lo muestra antes del pago, y no es el de la campaña. El 20 % de SONAR20 vale en el primer período y también en la renovación."
+          "Revisa el precio de renovación antes de finalizar. Hostinger lo muestra antes del pago, y no es el de la campaña. El 20 % de SONAR20 se aplica a toda compra nueva, también para quien ya es cliente; la renovación se cobra al precio de lista."
         ],
         "postParagraphs": [
           "Antes de pagar, lo que cubre la garantía y lo que deja fuera está en [¿Es fiable Hostinger?](/es/reviews/hostinger-es-confiable)."
@@ -97840,7 +97862,8 @@ export const reviewsData: unknown[] = [
           "¿Hasta cuándo dura la Black Friday de Hostinger? Hasta mediados de diciembre, según la FAQ oficial; la fecha exacta está al comienzo del artículo.",
           "¿El precio de la Black Friday se mantiene en la renovación? No. Vale para el período inicial de la suscripción. La renovación se cobra al precio normal del plan.",
           "¿SONAR20 vale junto con el precio de la Black Friday? Sí: en nuestra prueba, el 20 % salió del precio de la campaña. Como el precio cambia, comprueba el total en el carrito.",
-          "¿La garantía de reembolso vale en la Black Friday? La FAQ dice que los planes elegibles tienen garantía de 30 días, con términos y exclusiones. Lo que queda fuera está en [¿Es fiable Hostinger?](/es/reviews/hostinger-es-confiable)."
+          "¿La garantía de reembolso vale en la Black Friday? La FAQ dice que los planes elegibles tienen garantía de 30 días, con términos y exclusiones. Lo que queda fuera está en [¿Es fiable Hostinger?](/es/reviews/hostinger-es-confiable).",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       }
     ],
@@ -97931,7 +97954,7 @@ export const reviewsData: unknown[] = [
         "heading": "Ce que l’on paie avec la campagne et avec SONAR20",
         "postParagraphs": [
           "La réduction s’applique sur le prix de la campagne. Sur le site mondial, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »).",
-          "Où coller le code et ce que devient la réduction au renouvellement : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+          "Où coller le code et pourquoi le renouvellement n’a pas de réduction : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
       {
@@ -97949,7 +97972,7 @@ export const reviewsData: unknown[] = [
           "Ouvrez [Hostinger sur la page boutique de ce site](/fr/coupons/hostinger) et copiez le code SONAR20.",
           "Dans le panier, collez SONAR20 dans le champ de code promo et voyez la réduction de 20 % s’afficher sur le prix de la campagne.",
           "Comparez le total de la première période, pas seulement le prix mensuel. Le total montre la vraie différence.",
-          "Vérifiez le prix de renouvellement avant de valider. Hostinger l’affiche avant le paiement, et ce n’est pas celui de la campagne. Les 20 % de SONAR20 valent pour la première période et aussi pour le renouvellement."
+          "Vérifiez le prix de renouvellement avant de valider. Hostinger l’affiche avant le paiement, et ce n’est pas celui de la campagne. Les 20 % de SONAR20 valent pour tout nouvel achat, aussi pour qui est déjà client ; le renouvellement est facturé au prix catalogue."
         ],
         "postParagraphs": [
           "Avant de payer, ce que la garantie couvre et ce qu’elle exclut se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
@@ -97963,7 +97986,8 @@ export const reviewsData: unknown[] = [
           "Jusqu’à quand dure le Black Friday de Hostinger ? Jusqu’à la mi-décembre, selon la FAQ officielle ; la date exacte figure au début de l’article.",
           "Le prix du Black Friday continue-t-il au renouvellement ? Non. Il vaut pour la période initiale de l’abonnement. Le renouvellement se fait au prix normal de l’offre.",
           "SONAR20 se cumule-t-il avec le prix du Black Friday ? Oui : lors de notre test, les 20 % ont été retirés du prix de la campagne. Comme le prix change, vérifiez le total dans le panier.",
-          "La garantie de remboursement vaut-elle pendant le Black Friday ? La FAQ indique que les offres éligibles bénéficient d’une garantie de 30 jours, avec conditions et exclusions. Ce qu’elle exclut se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
+          "La garantie de remboursement vaut-elle pendant le Black Friday ? La FAQ indique que les offres éligibles bénéficient d’une garantie de 30 jours, avec conditions et exclusions. Ce qu’elle exclut se trouve dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable).",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       }
     ],
@@ -98054,7 +98078,7 @@ export const reviewsData: unknown[] = [
         "heading": "Was Sie mit der Aktion und mit SONAR20 zahlen",
         "postParagraphs": [
           "Der Rabatt wird auf den Aktionspreis angerechnet. Auf der globalen Seite sank der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$.",
-          "Wo Sie den Code einfügen und was bei der Verlängerung mit dem Rabatt passiert, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
+          "Wo Sie den Code einfügen und warum die Verlängerung keinen Rabatt hat, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
       {
@@ -98072,7 +98096,7 @@ export const reviewsData: unknown[] = [
           "Öffnen Sie [Hostinger auf der Shopseite dieser Website](/de/coupons/hostinger) und kopieren Sie den Code SONAR20.",
           "Fügen Sie im Warenkorb SONAR20 in das Gutscheinfeld ein und sehen Sie, wie der Rabatt von 20 % auf den Aktionspreis erscheint.",
           "Vergleichen Sie die Summe für den ersten Zeitraum, nicht nur den Monatspreis. Die Summe zeigt den tatsächlichen Unterschied.",
-          "Prüfen Sie den Verlängerungspreis, bevor Sie abschließen. Hostinger zeigt ihn vor der Zahlung an, und er entspricht nicht dem Aktionspreis. Die 20 % von SONAR20 gelten für den ersten Zeitraum und auch bei der Verlängerung."
+          "Prüfen Sie den Verlängerungspreis, bevor Sie abschließen. Hostinger zeigt ihn vor der Zahlung an, und er entspricht nicht dem Aktionspreis. Die 20 % von SONAR20 gelten für jeden Neukauf, auch für Bestandskunden; die Verlängerung wird zum Listenpreis berechnet."
         ],
         "postParagraphs": [
           "Was die Garantie abdeckt und was sie ausschließt, steht vor dem Bezahlen in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes)."
@@ -98086,7 +98110,8 @@ export const reviewsData: unknown[] = [
           "Bis wann läuft der Black Friday von Hostinger? Laut der offiziellen FAQ bis Mitte Dezember; das genaue Datum steht am Anfang des Artikels.",
           "Gilt der Black-Friday-Preis auch bei der Verlängerung? Nein. Er gilt für den ersten Zeitraum des Abonnements. Die Verlängerung kostet den normalen Preis des Tarifs.",
           "Gilt SONAR20 zusammen mit dem Black-Friday-Preis? Ja: In unserem Test wurden die 20 % vom Aktionspreis abgezogen. Da sich der Preis ändert, prüfen Sie die Summe im Warenkorb.",
-          "Gilt die Geld-zurück-Garantie am Black Friday? Laut FAQ haben berechtigte Tarife eine 30-Tage-Garantie, mit Bedingungen und Ausschlüssen. Was sie ausschließt, steht in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes)."
+          "Gilt die Geld-zurück-Garantie am Black Friday? Laut FAQ haben berechtigte Tarife eine 30-Tage-Garantie, mit Bedingungen und Ausschlüssen. Was sie ausschließt, steht in [Ist Hostinger zuverlässig?](/de/reviews/ist-hostinger-serioes).",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       }
     ],
@@ -98177,7 +98202,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto si paga con la campagna e con SONAR20",
         "postParagraphs": [
           "Lo sconto si applica sul prezzo della campagna. Sul sito globale, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»).",
-          "Dove incollare il codice e cosa succede allo sconto al rinnovo si trova in [Coupon Hostinger SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+          "Dove incollare il codice e perché il rinnovo non ha sconto si trova in [Coupon Hostinger SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
       {
@@ -98195,7 +98220,7 @@ export const reviewsData: unknown[] = [
           "Apri [Hostinger nella pagina negozio di questo sito](/it/coupons/hostinger) e copia il codice SONAR20.",
           "Nel carrello, incolla SONAR20 nel campo coupon e guarda comparire lo sconto del 20% sul prezzo della campagna.",
           "Confronta il totale del primo periodo, non solo il prezzo mensile. Il totale mostra la differenza reale.",
-          "Controlla il prezzo del rinnovo prima di concludere. Hostinger lo mostra prima del pagamento, e non è quello della campagna. Il 20% di SONAR20 vale per il primo periodo e anche sul rinnovo."
+          "Controlla il prezzo del rinnovo prima di concludere. Hostinger lo mostra prima del pagamento, e non è quello della campagna. Il 20% di SONAR20 vale su ogni acquisto nuovo, anche per chi è già cliente; il rinnovo si paga al prezzo di listino."
         ],
         "postParagraphs": [
           "Prima di pagare, cosa copre la garanzia e cosa lascia fuori si trova in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
@@ -98209,7 +98234,8 @@ export const reviewsData: unknown[] = [
           "Fino a quando dura il Black Friday di Hostinger? Fino a metà dicembre, secondo la FAQ ufficiale; la data esatta è all’inizio dell’articolo.",
           "Il prezzo del Black Friday continua al rinnovo? No. Vale per il periodo iniziale dell’abbonamento. Il rinnovo costa il prezzo normale del piano.",
           "SONAR20 vale insieme al prezzo del Black Friday? Sì: nel nostro test, il 20% è stato tolto dal prezzo della campagna. Poiché il prezzo cambia, controlla il totale nel carrello.",
-          "La garanzia di rimborso vale durante il Black Friday? La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori si trova in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
+          "La garanzia di rimborso vale durante il Black Friday? La FAQ dice che i piani idonei hanno una garanzia di 30 giorni, con termini ed esclusioni. Cosa resta fuori si trova in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile).",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       }
     ],
@@ -98300,7 +98326,7 @@ export const reviewsData: unknown[] = [
         "heading": "캠페인과 SONAR20으로 얼마가 되는지",
         "postParagraphs": [
           "할인은 캠페인 가격에 적용됩니다. 글로벌 사이트에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다.",
-          "코드를 붙여 넣을 위치와 갱신 때 할인이 어떻게 되는지는 [Hostinger 쿠폰 SONAR20](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
+          "코드를 붙여 넣을 위치와 갱신에 할인이 없는 이유는 [Hostinger 쿠폰 SONAR20](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
       {
@@ -98318,7 +98344,7 @@ export const reviewsData: unknown[] = [
           "[이 사이트 스토어 페이지의 Hostinger](/ko/coupons/hostinger)를 열고 SONAR20 코드를 복사합니다.",
           "장바구니의 쿠폰 입력란에 SONAR20을 붙여 넣고, 캠페인 가격에 20% 할인이 반영되는지 확인합니다.",
           "월 가격만 보지 말고 첫 번째 기간의 합계를 비교하세요. 합계에 실제 차이가 나타납니다.",
-          "결제를 마치기 전에 갱신 가격을 확인하세요. Hostinger는 결제 전에 갱신 가격을 보여 주며, 이는 캠페인 가격이 아닙니다. SONAR20의 20%는 첫 번째 기간과 갱신에도 적용됩니다."
+          "결제를 마치기 전에 갱신 가격을 확인하세요. Hostinger는 결제 전에 갱신 가격을 보여 주며, 이는 캠페인 가격이 아닙니다. SONAR20의 20%는 모든 신규 구매에 적용되며, 기존 고객도 받을 수 있습니다. 갱신은 정가로 청구됩니다."
         ],
         "postParagraphs": [
           "결제 전에, 보증이 무엇을 포함하고 무엇을 제외하는지는 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다."
@@ -98332,7 +98358,8 @@ export const reviewsData: unknown[] = [
           "Hostinger 블랙프라이데이는 언제까지인가요? 공식 FAQ에 따르면 12월 중순까지이며, 정확한 날짜는 글 맨 앞에 있습니다.",
           "블랙프라이데이 가격이 갱신 때도 이어지나요? 아니요. 구독의 첫 번째 기간에만 적용됩니다. 갱신은 요금제의 정상 가격으로 청구됩니다.",
           "SONAR20을 블랙프라이데이 가격과 함께 쓸 수 있나요? 네. 저희 테스트에서는 20%가 캠페인 가격에서 빠졌습니다. 가격은 바뀌므로 장바구니에서 합계를 확인하세요.",
-          "블랙프라이데이에도 환불 보증이 적용되나요? FAQ에 따르면 대상 요금제에는 30일 보증이 있으며 조건과 제외 사항이 있습니다. 제외 사항은 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다."
+          "블랙프라이데이에도 환불 보증이 적용되나요? FAQ에 따르면 대상 요금제에는 30일 보증이 있으며 조건과 제외 사항이 있습니다. 제외 사항은 [Hostinger는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 있습니다.",
+          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       }
     ],
@@ -98423,7 +98450,7 @@ export const reviewsData: unknown[] = [
         "heading": "キャンペーンとSONAR20でいくらになるか",
         "postParagraphs": [
           "割引はキャンペーン価格に対して適用されます。グローバルサイトでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。",
-          "コードを貼る場所と、更新時に割引がどうなるかは、[Hostingerクーポン SONAR20](/ja/reviews/hostinger-referral-code-ja)にあります。"
+          "コードを貼る場所と、更新に割引がない理由は、[Hostingerクーポン SONAR20](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
       {
@@ -98441,7 +98468,7 @@ export const reviewsData: unknown[] = [
           "[このサイトのストアページにあるHostinger](/ja/coupons/hostinger)を開き、コードSONAR20をコピーします。",
           "カートのクーポン欄にSONAR20を貼り付け、キャンペーン価格に20%の割引が反映されるのを確認します。",
           "月額だけでなく、最初の期間の合計を比べてください。合計を見れば本当の差がわかります。",
-          "購入を確定する前に、更新料金を確認してください。Hostingerは支払い前に表示し、その金額はキャンペーン価格ではありません。SONAR20の20%は最初の期間と更新時に適用されます。"
+          "購入を確定する前に、更新料金を確認してください。Hostingerは支払い前に表示し、その金額はキャンペーン価格ではありません。SONAR20の20%は新規購入すべてに適用され、既存のお客様も対象です。更新は通常料金で、割引はありません。"
         ],
         "postParagraphs": [
           "支払い前に、保証の対象と対象外は[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)で確認できます。"
@@ -98455,7 +98482,8 @@ export const reviewsData: unknown[] = [
           "Hostingerのブラックフライデーはいつまでですか？ 公式FAQによると12月中旬までです。正確な日付は記事の冒頭にあります。",
           "ブラックフライデーの価格は更新時も続きますか？ いいえ。契約の最初の期間にだけ適用されます。更新はプランの通常価格になります。",
           "SONAR20はブラックフライデーの価格と併用できますか？ はい。こちらのテストでは、20%はキャンペーン価格から引かれました。価格は変わるので、カートで合計を確認してください。",
-          "ブラックフライデーでも返金保証は使えますか？ FAQによると、対象プランには30日間の保証があり、条件と対象外があります。対象外は[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)にあります。"
+          "ブラックフライデーでも返金保証は使えますか？ FAQによると、対象プランには30日間の保証があり、条件と対象外があります。対象外は[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)にあります。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       }
     ],
@@ -98546,7 +98574,7 @@ export const reviewsData: unknown[] = [
         "heading": "活動價加 SONAR20 要付多少",
         "postParagraphs": [
           "折扣是在活動價的基礎上計算的。在全球網站上，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。",
-          "代碼貼在哪裡，以及續約時折扣如何處理，請見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+          "代碼貼在哪裡，以及為什麼續約沒有折扣，請見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
       {
@@ -98564,7 +98592,7 @@ export const reviewsData: unknown[] = [
           "打開[本站商店頁面上的 Hostinger](/zh-hant/coupons/hostinger)，複製代碼 SONAR20。",
           "在購物車的優惠碼欄位貼上 SONAR20，看到 20% 的折扣出現在活動價之上。",
           "比較第一個期間的總價，而不只是每月價格。總價才能顯示真正的差別。",
-          "結帳前先看續約價格。Hostinger 會在付款前顯示，而且它不是活動價。SONAR20 的 20% 適用於第一個期間，續約時也適用。"
+          "結帳前先看續約價格。Hostinger 會在付款前顯示，而且它不是活動價。SONAR20 的 20% 適用於每一筆新購買，現有客戶也一樣；續約按定價計算，沒有折扣。"
         ],
         "postParagraphs": [
           "付款前，保障涵蓋什麼、不涵蓋什麼，請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
@@ -98578,7 +98606,8 @@ export const reviewsData: unknown[] = [
           "Hostinger 的黑色星期五到什麼時候？根據官方 FAQ，到 12 月中旬；確切日期在文章開頭。",
           "黑色星期五的價格續約時還有效嗎？沒有。它只適用於訂閱的第一個期間。續約按方案的正常價格收費。",
           "SONAR20 能和黑色星期五價格一起用嗎？可以：在我們的測試中，20% 是從活動價中扣除的。由於價格會變動，請在購物車裡核對總價。",
-          "黑色星期五期間退款保障有效嗎？FAQ 說符合條件的方案有 30 天保障，附帶條款與例外。不涵蓋的內容請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
+          "黑色星期五期間退款保障有效嗎？FAQ 說符合條件的方案有 30 天保障，附帶條款與例外。不涵蓋的內容請見[Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
       }
     ],
@@ -98669,7 +98698,7 @@ export const reviewsData: unknown[] = [
         "heading": "活动价加 SONAR20 要付多少",
         "postParagraphs": [
           "折扣是在活动价的基础上计算的。在全球站点上，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。",
-          "代码贴在哪里，以及续费时折扣如何处理，见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+          "代码贴在哪里，以及为什么续费没有折扣，见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
       {
@@ -98687,7 +98716,7 @@ export const reviewsData: unknown[] = [
           "打开[本站商店页面上的 Hostinger](/zh-hans/coupons/hostinger)，复制代码 SONAR20。",
           "在购物车的优惠码栏粘贴 SONAR20，看到 20% 的折扣出现在活动价之上。",
           "比较第一个周期的总价，而不只是每月价格。总价才能显示真实差别。",
-          "结账前先看续费价格。Hostinger 会在付款前显示，而且它不是活动价。SONAR20 的 20% 适用于第一个周期，续费时也适用。"
+          "结账前先看续费价格。Hostinger 会在付款前显示，而且它不是活动价。SONAR20 的 20% 适用于所有新购，续费按标价收费，没有折扣。"
         ],
         "postParagraphs": [
           "付款前，保障涵盖什么、不涵盖什么，见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
@@ -98701,7 +98730,8 @@ export const reviewsData: unknown[] = [
           "Hostinger 的黑色星期五到什么时候？据官方 FAQ，到 12 月中旬；确切日期在文章开头。",
           "黑色星期五的价格续费时还有效吗？没有。它只适用于订阅的首个周期。续费按方案的正常价格收取。",
           "SONAR20 能和黑色星期五价格一起用吗？可以：在我们的测试中，20% 是从活动价里减的。由于价格会变，请在购物车里核对总价。",
-          "黑色星期五期间退款保障有效吗？FAQ 说符合条件的方案有 30 天保障，附带条款和例外。不涵盖的内容见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
+          "黑色星期五期间退款保障有效吗？FAQ 说符合条件的方案有 30 天保障，附带条款和例外。不涵盖的内容见[Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       }
     ],
@@ -108257,7 +108287,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% também valem na renovação; confira o preço no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao).",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao).",
           "Preços de planos de 24 meses, lidos em 21/10/2026:"
         ],
         "comparisonTable": {
@@ -108310,8 +108340,9 @@ export const reviewsData: unknown[] = [
           "Vale a pena o OpenClaw gerenciado da Hostinger? Vale para quem quer o assistente sem cuidar de servidor: ele sai mais barato que o VPS no primeiro período e renova pelo mesmo preço. Quem quer root e outros programas no servidor fica melhor com o VPS.",
           "Precisa de conta na OpenAI ou na Anthropic? Não. Nas duas opções dá para usar os créditos de IA da Hostinger. A conta no provedor só é preciso se você preferir a sua própria chave.",
           "Tem cupom de desconto da Hostinger para o OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período.",
-          "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. Os 20% do SONAR20 também valem na renovação: sai R$ 47,99/mês no gerenciado e no KVM 1, e R$ 62,39/mês no KVM 2; confira o preço no carrinho.",
-          "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave."
+          "Quanto custa depois do primeiro período? R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2, pelos preços da tabela. A renovação sai sem os 20%: R$ 59,99/mês no gerenciado e no KVM 1, e R$ 77,99/mês no KVM 2.",
+          "O plano gerenciado serve para o Hermes Agent ou o Paperclip? Sim. Os três estão no mesmo plano, \"Apps de automação com IA\", pelo mesmo preço. A página do Paperclip não lista créditos de IA, então leve a sua chave.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -108335,7 +108366,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -108529,7 +108560,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% also apply on renewal; check the price in the cart. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
+          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ],
         "postParagraphs": [
           "Hostinger is running a Black Friday campaign, and prices change. See [Hostinger's Black Friday](/en/reviews/hostinger-black-friday) and check the amount in the cart before you pay."
@@ -108541,7 +108572,8 @@ export const reviewsData: unknown[] = [
           "Is Hostinger's managed OpenClaw worth it? It is for people who want the assistant without looking after a server: it costs less than the VPS in the first period and renews at the same price. Anyone who wants root access and other programs on the server is better off with the VPS.",
           "Do you need an OpenAI or Anthropic account? No. On both options you can use Hostinger's AI credits. You only need an account with a provider if you prefer your own key.",
           "Is there a Hostinger discount coupon for OpenClaw? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period.",
-          "Does the managed plan work for Hermes Agent or Paperclip? Yes. All three are on the same plan, \"AI automation apps\", at the same price. The Paperclip page does not list AI credits, so bring your own key."
+          "Does the managed plan work for Hermes Agent or Paperclip? Yes. All three are on the same plan, \"AI automation apps\", at the same price. The Paperclip page does not list AI credits, so bring your own key.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -108554,7 +108586,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% also apply on renewal; check the renewal price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -108759,7 +108791,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % de descuento en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % también valen en la renovación; revisa el precio en el carrito. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % de descuento en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ],
         "postParagraphs": [
           "Hostinger está en campaña de Black Friday, y los precios cambian. Mira [el Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas) y revisa el importe en el carrito antes de pagar."
@@ -108771,7 +108803,8 @@ export const reviewsData: unknown[] = [
           "¿Vale la pena el OpenClaw gestionado de Hostinger? Vale para quien quiere el asistente sin ocuparse de un servidor: sale más barato que el VPS en el primer período y se renueva al mismo precio. Quien quiera acceso root y otros programas en el servidor estará mejor con el VPS.",
           "¿Necesitas una cuenta en OpenAI o Anthropic? No. En las dos opciones puedes usar los créditos de IA de Hostinger. La cuenta con el proveedor solo hace falta si prefieres tu propia clave.",
           "¿Hay cupón de descuento de Hostinger para OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % de descuento en el primer período.",
-          "¿El plan gestionado sirve para Hermes Agent o Paperclip? Sí. Los tres están en el mismo plan, «Aplicaciones de automatización con IA», al mismo precio. La página de Paperclip no incluye créditos de IA, así que lleva tu propia clave."
+          "¿El plan gestionado sirve para Hermes Agent o Paperclip? Sí. Los tres están en el mismo plan, «Aplicaciones de automatización con IA», al mismo precio. La página de Paperclip no incluye créditos de IA, así que lleva tu propia clave.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -108784,7 +108817,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -108989,7 +109022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code promo SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ],
         "postParagraphs": [
           "Hostinger est en pleine campagne de Black Friday, et les prix changent. Consultez [le Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) et vérifiez le montant dans le panier avant de payer."
@@ -109001,7 +109034,8 @@ export const reviewsData: unknown[] = [
           "L'offre OpenClaw gérée de Hostinger vaut-elle le coup ? Elle s'adresse à ceux qui veulent l'assistant sans s'occuper d'un serveur : elle coûte moins cher que le VPS la première période et se renouvelle au même prix. Qui veut un accès root et d'autres programmes sur le serveur a intérêt à prendre le VPS.",
           "Faut-il un compte OpenAI ou Anthropic ? Non. Dans les deux cas, vous pouvez utiliser les crédits d'IA de Hostinger. Un compte chez le fournisseur n'est nécessaire que si vous préférez votre propre clé.",
           "Existe-t-il un code promo Hostinger pour OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % de réduction sur la première période.",
-          "L'offre gérée convient-elle à Hermes Agent ou à Paperclip ? Oui. Les trois sont dans la même offre, « Applications d'automatisation IA », au même prix. La page de Paperclip ne mentionne pas de crédits d'IA, alors apportez votre propre clé."
+          "L'offre gérée convient-elle à Hermes Agent ou à Paperclip ? Oui. Les trois sont dans la même offre, « Applications d'automatisation IA », au même prix. La page de Paperclip ne mentionne pas de crédits d'IA, alors apportez votre propre clé.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -109014,7 +109048,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109218,7 +109252,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: Das sind **20 % Rabatt auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
+          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: Das sind **20 % Rabatt auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ],
         "postParagraphs": [
           "Hostinger hat gerade eine Black-Friday-Aktion, und die Preise ändern sich. Sehen Sie sich [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote) an und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
@@ -109230,7 +109264,8 @@ export const reviewsData: unknown[] = [
           "Lohnt sich das verwaltete OpenClaw von Hostinger? Ja, wenn Sie den Assistenten ohne Serverpflege wollen: Es ist im ersten Zeitraum günstiger als der VPS, und die Verlängerung kostet gleich viel. Wer Root-Zugriff und andere Programme auf dem Server braucht, ist mit dem VPS besser bedient.",
           "Braucht man ein Konto bei OpenAI oder Anthropic? Nein. Bei beiden Optionen können Sie das KI-Guthaben von Hostinger nutzen. Ein Konto beim Anbieter brauchen Sie nur, wenn Sie lieber Ihren eigenen Schlüssel verwenden.",
           "Gibt es einen Hostinger-Gutschein für OpenClaw? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % Rabatt auf den ersten Zeitraum.",
-          "Passt der verwaltete Tarif auch für Hermes Agent oder Paperclip? Ja. Alle drei sind im selben Tarif, „AI automation apps“, zum gleichen Preis. Die Paperclip-Seite nennt kein KI-Guthaben, bringen Sie also Ihren eigenen Schlüssel mit."
+          "Passt der verwaltete Tarif auch für Hermes Agent oder Paperclip? Ja. Alle drei sind im selben Tarif, „AI automation apps“, zum gleichen Preis. Die Paperclip-Seite nennt kein KI-Guthaben, bringen Sie also Ihren eigenen Schlüssel mit.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -109243,7 +109278,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109448,7 +109483,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, sia con il piano mensile sia con quello annuale, per clienti nuovi o già esistenti. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, sia con il piano mensile sia con quello annuale, per clienti nuovi o già esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ],
         "postParagraphs": [
           "Hostinger è in piena campagna di Black Friday, e i prezzi cambiano. Guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) e controlla l'importo nel carrello prima di pagare."
@@ -109460,7 +109495,8 @@ export const reviewsData: unknown[] = [
           "Vale la pena l'OpenClaw gestito di Hostinger? Sì, per chi vuole l'assistente senza gestire un server: costa meno del VPS nel primo periodo e si rinnova allo stesso prezzo. Chi vuole root e altri programmi sul server si trova meglio con il VPS.",
           "Serve un account su OpenAI o Anthropic? No. In entrambe le opzioni puoi usare i crediti IA di Hostinger. L'account presso il fornitore serve solo se preferisci la tua chiave.",
           "Esiste un coupon di sconto Hostinger per OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% di sconto sul primo periodo.",
-          "Il piano gestito va bene per Hermes Agent o Paperclip? Sì. Tutti e tre sono nello stesso piano, «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave."
+          "Il piano gestito va bene per Hermes Agent o Paperclip? Sì. Tutti e tre sono nello stesso piano, «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -109473,7 +109509,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109678,7 +109714,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요. 코드를 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
+          "장바구니의 쿠폰 입력란에 **SONAR20**을 넣거나, 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두 쓸 수 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 코드를 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ],
         "postParagraphs": [
           "호스팅어는 블랙프라이데이 행사 중이며 가격이 달라집니다. [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)를 보고, 결제하기 전에 장바구니에서 금액을 확인하세요."
@@ -109690,7 +109726,8 @@ export const reviewsData: unknown[] = [
           "호스팅어의 관리형 OpenClaw는 살 만한가요? 서버를 직접 관리하고 싶지 않은 사람에게 가치가 있습니다. 첫 기간에는 VPS보다 저렴하고 갱신가는 같습니다. root와 서버의 다른 프로그램이 필요하다면 VPS가 더 맞습니다.",
           "OpenAI나 Anthropic 계정이 필요한가요? 아니요. 두 방식 모두 호스팅어 AI 크레딧을 쓸 수 있습니다. 제공업체 계정은 직접 가진 API 키를 쓰고 싶을 때만 필요합니다.",
           "OpenClaw용 호스팅어 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간에 20%가 할인됩니다.",
-          "관리형 플랜으로 Hermes Agent나 Paperclip도 쓸 수 있나요? 네. 세 가지 모두 같은 \"AI 자동화 앱\" 플랜에 같은 가격으로 있습니다. Paperclip 페이지에는 AI 크레딧이 나와 있지 않으니 직접 가진 키를 쓰세요."
+          "관리형 플랜으로 Hermes Agent나 Paperclip도 쓸 수 있나요? 네. 세 가지 모두 같은 \"AI 자동화 앱\" 플랜에 같은 가격으로 있습니다. Paperclip 페이지에는 AI 크레딧이 나와 있지 않으니 직접 가진 키를 쓰세요.",
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -109703,7 +109740,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "SONAR20 할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -109909,7 +109946,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。更新時も20%割引が適用されます。カートで価格を確認してください。コードの入れ方は [クーポン SONAR20の使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
+          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月額・年額どちらのプランでも、新規のお客様にも既存のお客様にも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。コードの入れ方は [クーポン SONAR20の使い方](/ja/reviews/hostinger-referral-code-ja) にあります。"
         ],
         "postParagraphs": [
           "Hostinger はブラックフライデーのキャンペーン中で、価格が変わります。[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja) を見て、支払う前にカートで金額を確認してください。"
@@ -109921,7 +109958,8 @@ export const reviewsData: unknown[] = [
           "OpenClaw のマネージドプランは買う価値がありますか？ サーバーを管理したくない人には価値があります。最初の期間は VPS より安く、更新価格も同じです。root や他のプログラムをサーバーで動かしたい人には VPS が向いています。",
           "OpenAI や Anthropic のアカウントは必要ですか？ いいえ。どちらの方法でも Hostinger の AI クレジットを使えます。プロバイダーのアカウントが必要なのは、自分の API キーを使いたい場合だけです。",
           "OpenClaw の Hostinger クーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 割引になります。",
-          "マネージドプランで Hermes Agent や Paperclip も使えますか？ はい。三つとも同じ「AI 自動化アプリ」プランで、料金も同じです。Paperclip のページには AI クレジットが載っていないので、自分のキーを用意してください。"
+          "マネージドプランで Hermes Agent や Paperclip も使えますか？ はい。三つとも同じ「AI 自動化アプリ」プランで、料金も同じです。Paperclip のページには AI クレジットが載っていないので、自分のキーを用意してください。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -109934,7 +109972,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新時も20%割引が適用されるので、カートで価格を確認してください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
       "label": "SONAR20 の割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110139,7 +110177,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**首期享 20% 折扣**，月付或年付都可以，新客戶和舊客戶都適用。SONAR20 的 20% 折扣也適用於續訂，請在購物車確認價格。輸入位置見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**首期享 20% 折扣**，月付或年付都可以，新客戶和舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。輸入位置見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ],
         "postParagraphs": [
           "Hostinger 正在進行黑五活動，價格會變動。請看[Hostinger 黑五](/zh-hant/reviews/hostinger-black-friday-zh-hant)，付款前在購物車確認金額。"
@@ -110151,7 +110189,8 @@ export const reviewsData: unknown[] = [
           "OpenClaw 的託管方案值得買嗎？對於不想管理伺服器的人來說值得：首期比 VPS 便宜，續訂價格相同。需要 root 權限並想在伺服器上跑其他程式的人，VPS 比較適合。",
           "需要 OpenAI 或 Anthropic 帳戶嗎？不需要。兩種方式都能使用 Hostinger 的 AI 額度。只有想用自己的 API 金鑰時，才需要該供應商的帳戶。",
           "OpenClaw 有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，首期享 20% 折扣。",
-          "託管方案能用於 Hermes Agent 或 Paperclip 嗎？可以。三者都在「AI 自動化應用」這同一方案中，價格也相同。Paperclip 的頁面沒有列出 AI 額度，所以請自備金鑰。"
+          "託管方案能用於 Hermes Agent 或 Paperclip 嗎？可以。三者都在「AI 自動化應用」這同一方案中，價格也相同。Paperclip 的頁面沒有列出 AI 額度，所以請自備金鑰。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
@@ -110164,7 +110203,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣也適用於續訂，請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110369,7 +110408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期享 20% 折扣**，月付或年付都可以，新老客户都适用。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。输入位置见[如何使用 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期享 20% 折扣**，月付或年付都可以，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。输入位置见[如何使用 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ],
         "postParagraphs": [
           "Hostinger 正在进行黑五活动，价格会变动。请看[Hostinger 黑五](/zh-hans/reviews/hostinger-black-friday-zh-hans)，付款前在购物车确认金额。"
@@ -110381,7 +110420,8 @@ export const reviewsData: unknown[] = [
           "OpenClaw 的托管套餐值得买吗？对于不想管理服务器的人来说值得：首期比 VPS 便宜，续费价格相同。需要 root 权限并想在服务器上运行其他程序的人，更适合 VPS。",
           "需要 OpenAI 或 Anthropic 账户吗？不需要。两种方式都可以使用 Hostinger 的 AI 额度。只有想用自己的 API 密钥时，才需要该服务商的账户。",
           "OpenClaw 有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首期享 20% 折扣。",
-          "托管套餐能用于 Hermes Agent 或 Paperclip 吗？可以。三者都在“AI 自动化应用”这同一套餐中，价格也相同。Paperclip 的页面没有列出 AI 额度，所以请自备密钥。"
+          "托管套餐能用于 Hermes Agent 或 Paperclip 吗？可以。三者都在“AI 自动化应用”这同一套餐中，价格也相同。Paperclip 的页面没有列出 AI 额度，所以请自备密钥。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -110394,7 +110434,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110576,7 +110616,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8（32 GB）。** より大きなローカルモデルを使う場合にだけ意味があります。大きなレシピがそれぞれどれだけのメモリを必要とするかは、ドキュメントに書かれていません。"
         ],
         "postParagraphs": [
-          "コード SONAR20 は、最初の期間が 20% 割引になります。更新時も20%割引が適用されます。カートで価格を確かめてください。[SONAR20 クーポンの使い方を見る](/ja/reviews/hostinger-referral-code-ja)。支払う前に、カートで金額を確認してください。Hostinger はブラックフライデーのセール中で、価格が変わります：[キャンペーンを見る](/ja/reviews/hostinger-black-friday-ja)。"
+          "コード SONAR20 は、最初の期間が 20% 割引になります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。[SONAR20 クーポンの使い方を見る](/ja/reviews/hostinger-referral-code-ja)。支払う前に、カートで金額を確認してください。Hostinger はブラックフライデーのセール中で、価格が変わります：[キャンペーンを見る](/ja/reviews/hostinger-black-friday-ja)。"
         ]
       },
       {
@@ -110654,7 +110694,7 @@ export const reviewsData: unknown[] = [
         "heading": "クーポン SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。更新時も20%割引が適用されます。カートで価格を確かめてください。ブラックフライデーで価格が変わるため、支払う前にカートで金額を確認してください。[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)と[サイト内の Hostinger のページ](/ja/coupons/hostinger)を見てください。"
+          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。ブラックフライデーで価格が変わるため、支払う前にカートで金額を確認してください。[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)と[サイト内の Hostinger のページ](/ja/coupons/hostinger)を見てください。"
         ]
       },
       {
@@ -110664,7 +110704,8 @@ export const reviewsData: unknown[] = [
           "API キーなしで動かせる？ ローカルモデルなら動かせますが、問題はメモリです。ドキュメントは、最も小さいローカルレシピの下限を 8 GiB（コンテキストは 64K）としたうえで、モデルが収まることも快適に動くことも保証しないと書いています。Hostinger のクレジットを使えば AI プロバイダーのアカウントは要りませんが、使った分の料金がかかります。",
           "Oracle は本当に無料？ アカウントが Always Free の範囲にある間は無料です。Arm A1 で 2 OCPU とメモリ 12 GB、それに Micro インスタンスが使えます。7 日間、CPU、ネットワーク、メモリがすべて 20% 未満のまま使われていないインスタンスは、Oracle に回収されることがあります。",
           "Mac mini と VPS、どちら？ パソコンを 24 時間つけておけるかどうかで決まります。つけておけるなら、自宅で動かせばサーバーの月額がかかりません。つけておけないなら、VPS かマネージドを選んでください。",
-          "OpenClaw の VPS に使える Hostinger の割引コードはある？ あります。カートのクーポン欄にコード SONAR20 を入力すると、最初の期間が 20% 割引になります。更新時も20%割引が適用されます。カートで価格を確かめてください。"
+          "OpenClaw の VPS に使える Hostinger の割引コードはある？ あります。カートのクーポン欄にコード SONAR20 を入力すると、最初の期間が 20% 割引になります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -110677,7 +110718,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。更新時も20%割引が適用されるので、カートで価格を確かめてください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が 20% 割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -110858,7 +110899,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8(32 GB).** 더 큰 로컬 모델을 쓸 때만 의미가 있습니다. 큰 레시피마다 메모리가 얼마나 필요한지는 문서에 없습니다."
         ],
         "postParagraphs": [
-          "SONAR20 코드는 첫 번째 기간에 20%를 할인해 줍니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요. [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko). 결제 전에 장바구니에서 금액을 확인하세요. 호스팅어는 블랙프라이데이 중이라 가격이 바뀝니다: [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)."
+          "SONAR20 코드는 첫 번째 기간에 20%를 할인해 줍니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. [SONAR20 쿠폰 사용법 보기](/ko/reviews/hostinger-referral-code-ko). 결제 전에 장바구니에서 금액을 확인하세요. 호스팅어는 블랙프라이데이 중이라 가격이 바뀝니다: [캠페인 보기](/ko/reviews/hostinger-black-friday-ko)."
         ]
       },
       {
@@ -110936,7 +110977,7 @@ export const reviewsData: unknown[] = [
         "heading": "쿠폰 SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 넣거나, 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두에게 적용됩니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요. 블랙프라이데이로 가격이 바뀌므로 결제 전에 장바구니에서 금액을 확인하세요. [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)과 [사이트 안의 호스팅어 페이지](/ko/coupons/hostinger)를 보세요."
+          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 넣거나, 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규 고객과 기존 고객 모두에게 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 블랙프라이데이로 가격이 바뀌므로 결제 전에 장바구니에서 금액을 확인하세요. [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)과 [사이트 안의 호스팅어 페이지](/ko/coupons/hostinger)를 보세요."
         ]
       },
       {
@@ -110946,7 +110987,8 @@ export const reviewsData: unknown[] = [
           "API 키 없이 돌릴 수 있나요? 로컬 모델로 가능하지만, 그러면 메모리가 문제입니다. 문서는 가장 작은 로컬 레시피의 기준을 64K 컨텍스트에서 8 GiB로 제시하면서, 모델이 들어맞는다는 것도 잘 돈다는 것도 보장하지 않는다고 말합니다. 호스팅어 크레딧을 쓰면 AI 제공업체 계정이 필요 없지만 사용한 만큼 비용을 냅니다.",
           "Oracle은 정말 무료인가요? 계정이 Always Free 범위에 있는 동안은 무료입니다. Arm A1에서 2 OCPU와 12 GB, 그리고 Micro 인스턴스를 쓸 수 있습니다. 7일 동안 CPU, 네트워크, 메모리가 모두 20% 미만인 유휴 인스턴스는 Oracle이 회수할 수 있습니다.",
           "Mac mini와 VPS 중 무엇이 좋을까요? 컴퓨터를 24시간 켜 둘 수 있는지에 달려 있습니다. 켜 둘 수 있다면 집에서 돌려 서버 월 요금을 아낄 수 있고, 그럴 수 없다면 VPS나 관리형을 고르세요.",
-          "OpenClaw VPS에 쓸 수 있는 호스팅어 할인 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 첫 번째 기간에 20%를 할인받습니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요."
+          "OpenClaw VPS에 쓸 수 있는 호스팅어 할인 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 첫 번째 기간에 20%를 할인받습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -110959,7 +111001,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 링크로 들어가세요. 첫 기간 20%입니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요.",
+      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣거나 이 링크로 들어가세요. 첫 기간 20%입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111142,7 +111184,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8（32 GB）。** 只有在用更大的本地模型时才有意义。文档没有说每个大配方需要多少内存。"
         ],
         "postParagraphs": [
-          "代码 SONAR20 在第一个周期可享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效；请在购物车里确认价格。[查看如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，付款前请在购物车里确认金额。Hostinger 正在黑色星期五期间，价格会变动：[查看活动](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
+          "代码 SONAR20 在第一个周期可享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。[查看如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)，付款前请在购物车里确认金额。Hostinger 正在黑色星期五期间，价格会变动：[查看活动](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
         ]
       },
       {
@@ -111220,7 +111262,7 @@ export const reviewsData: unknown[] = [
         "heading": "优惠码 SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。SONAR20 的 20% 折扣在续费时也有效；请在购物车里确认价格。因为黑色星期五会改变价格，付款前请在购物车里确认金额。请看[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)和[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
+          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。因为黑色星期五会改变价格，付款前请在购物车里确认金额。请看[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)和[本站的 Hostinger 页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -111230,7 +111272,8 @@ export const reviewsData: unknown[] = [
           "可以不用 API 密钥运行吗？可以，用本地模型，但这时内存就成了问题：文档把最小本地配方的下限定为 8 GiB（上下文 64K），并提醒这不保证模型放得下，也不保证跑得好。用 Hostinger 额度的话，不需要 AI 供应商的账号，但要按使用量付费。",
           "Oracle 真的免费吗？只要账户保持在 Always Free 范围内，就是免费的：Arm A1 上 2 个 OCPU 和 12 GB，外加 Micro 实例。如果实例闲置 7 天，CPU、网络和内存都低于 20%，Oracle 可能把它收回。",
           "Mac mini 还是 VPS？取决于电脑能不能 24 小时开着。能的话，在家运行可以省掉服务器月费；不能的话，选 VPS 或托管。",
-          "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？有：在购物车的优惠码栏输入代码 SONAR20，第一个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效；请在购物车里确认价格。"
+          "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？有：在购物车的优惠码栏输入代码 SONAR20，第一个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -111243,7 +111286,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111425,7 +111468,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8（32 GB）。** 只有在用更大的本機模型時才有意義。文件沒有說每個大配方需要多少記憶體。"
         ],
         "postParagraphs": [
-          "代碼 SONAR20 在第一個週期享有 20% 折扣。SONAR20 的 20% 折扣也適用於續約；請在購物車裡確認價格。[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，付款前請在購物車裡確認金額。Hostinger 正值黑色星期五，價格會變動：[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
+          "代碼 SONAR20 在第一個週期享有 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。[查看如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)，付款前請在購物車裡確認金額。Hostinger 正值黑色星期五，價格會變動：[查看活動](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
         ]
       },
       {
@@ -111503,7 +111546,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 優惠碼",
         "paragraphs": [],
         "postParagraphs": [
-          "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣也適用於續約；請在購物車裡確認價格。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+          "在購物車的優惠碼欄位輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。因為黑色星期五會改變價格，付款前請在購物車裡確認金額。請看[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)和[本站的 Hostinger 頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -111513,7 +111556,8 @@ export const reviewsData: unknown[] = [
           "可以不用 API 金鑰執行嗎？可以，用本機模型，但這時記憶體就成了問題：文件把最小本機配方的下限定為 8 GiB（上下文 64K），並提醒這不保證模型放得下，也不保證跑得好。用 Hostinger 額度的話，不需要 AI 供應商的帳號，但要按使用量付費。",
           "Oracle 真的免費嗎？只要帳號維持在 Always Free 範圍內，就是免費的：Arm A1 上 2 個 OCPU 和 12 GB，外加 Micro 執行個體。如果執行個體閒置 7 天，CPU、網路和記憶體都低於 20%，Oracle 可能把它回收。",
           "Mac mini 還是 VPS？取決於電腦能不能 24 小時開著。能的話，在家執行可以省掉伺服器月費；不能的話，選 VPS 或託管。",
-          "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。SONAR20 的 20% 折扣也適用於續約；請在購物車裡確認價格。"
+          "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
       },
       {
@@ -111526,7 +111570,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。SONAR20 的 20% 折扣也適用於續約，請在購物車裡確認價格。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首個計費週期享 20%。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111708,7 +111752,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Makes sense only with a larger local model. The documentation does not say how much memory each large recipe needs."
         ],
         "postParagraphs": [
-          "The SONAR20 code gives 20% off the first period. The 20% also apply on renewal; check the price in the cart. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and check the amount in the cart before paying. Hostinger is running Black Friday, and prices change: [see the campaign](/en/reviews/hostinger-black-friday)."
+          "The SONAR20 code gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and check the amount in the cart before paying. Hostinger is running Black Friday, and prices change: [see the campaign](/en/reviews/hostinger-black-friday)."
         ]
       },
       {
@@ -111786,7 +111830,7 @@ export const reviewsData: unknown[] = [
         "heading": "SONAR20 coupon",
         "paragraphs": [],
         "postParagraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% also apply on renewal; check the price in the cart. Check the amount in the cart before paying, because Black Friday changes prices. See [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
+          "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Check the amount in the cart before paying, because Black Friday changes prices. See [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
         ]
       },
       {
@@ -111796,7 +111840,8 @@ export const reviewsData: unknown[] = [
           "Can you run it without an API key? Yes, with a local model, but then memory becomes the problem: the documentation gives 8 GiB as the floor for its smallest local recipe, with a 64K context, and warns that this does not guarantee the model fits or runs well. With Hostinger's credits, you do not need an account with an AI provider, but you pay for usage.",
           "Is Oracle really free? Yes, as long as the account stays within Always Free: 2 OCPUs and 12 GB on the Arm A1, plus the Micro instances. An instance that sits idle for 7 days, with CPU, network and memory below 20%, can be reclaimed by Oracle.",
           "Mac mini or VPS? It depends on whether the computer can stay on 24 hours. If it can, running at home removes the server fee; if it cannot, choose a VPS or the managed option.",
-          "Is there a Hostinger discount coupon for an OpenClaw VPS? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% also apply on renewal; check the price in the cart."
+          "Is there a Hostinger discount coupon for an OpenClaw VPS? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -111809,7 +111854,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% also apply on renewal; check the renewal price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -111990,7 +112035,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Sinnvoll nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
         ],
         "postParagraphs": [
-          "Der Code SONAR20 gibt 20 % auf den ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. [So nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen. Hostinger hat Black Friday, und die Preise ändern sich: [sehen Sie sich die Aktion an](/de/reviews/hostinger-black-friday-angebote)."
+          "Der Code SONAR20 gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. [So nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen. Hostinger hat Black Friday, und die Preise ändern sich: [sehen Sie sich die Aktion an](/de/reviews/hostinger-black-friday-angebote)."
         ]
       },
       {
@@ -112068,7 +112113,7 @@ export const reviewsData: unknown[] = [
         "heading": "Gutschein SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für neue oder bestehende Kunden. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen, denn der Black Friday ändert die Preise. Lesen Sie [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Seite von Hostinger auf der Website](/de/coupons/hostinger)."
+          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für neue oder bestehende Kunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen, denn der Black Friday ändert die Preise. Lesen Sie [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode) und [die Seite von Hostinger auf der Website](/de/coupons/hostinger)."
         ]
       },
       {
@@ -112078,7 +112123,8 @@ export const reviewsData: unknown[] = [
           "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
           "Ist Oracle wirklich kostenlos? Ja, solange das Konto bei Always Free bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang ungenutzt bleibt, mit CPU, Netzwerk und Speicher unter 20 %, kann von Oracle zurückgeholt werden.",
           "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nein, wählen Sie VPS oder den verwalteten Weg.",
-          "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb."
+          "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -112091,7 +112137,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112274,7 +112320,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 Go).** N'a de sens qu'avec un modèle local plus grand. La documentation ne dit pas combien de mémoire demande chaque grande recette."
         ],
         "postParagraphs": [
-          "Le code SONAR20 donne 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. [Voyez comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et vérifiez le montant dans le panier avant de payer. Hostinger est en Black Friday, et les prix changent : [voyez la campagne](/fr/reviews/black-friday-hostinger-offres)."
+          "Le code SONAR20 donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. [Voyez comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et vérifiez le montant dans le panier avant de payer. Hostinger est en Black Friday, et les prix changent : [voyez la campagne](/fr/reviews/black-friday-hostinger-offres)."
         ]
       },
       {
@@ -112352,7 +112398,7 @@ export const reviewsData: unknown[] = [
         "heading": "Code promo SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. Vérifiez le montant dans le panier avant de payer, car le Black Friday change les prix. Voyez [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et [la page d'Hostinger sur le site](/fr/coupons/hostinger)."
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Vérifiez le montant dans le panier avant de payer, car le Black Friday change les prix. Voyez [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage) et [la page d'Hostinger sur le site](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -112362,7 +112408,8 @@ export const reviewsData: unknown[] = [
           "Peut-on s'en passer, sans clé d'API ? Oui, avec un modèle local, mais alors la mémoire devient le problème : la documentation donne 8 GiB comme plancher de sa plus petite recette locale, avec un contexte de 64K, et prévient que cela ne garantit ni que le modèle tienne, ni qu'il tourne bien. Avec les crédits de Hostinger, vous n'avez pas besoin d'un compte chez un fournisseur d'IA, mais vous payez l'usage.",
           "Oracle est-il vraiment gratuit ? Oui, tant que le compte reste dans l'Always Free : 2 OCPU et 12 Go sur les A1 Arm, plus les instances Micro. Une instance inactive pendant 7 jours, avec CPU, réseau et mémoire sous 20 %, peut être récupérée par Oracle.",
           "Mac mini ou VPS ? Cela dépend de la possibilité de laisser l'ordinateur allumé 24 heures sur 24. Si c'est possible, tourner chez soi supprime la mensualité du serveur ; sinon, choisissez un VPS ou l'offre gérée.",
-          "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier."
+          "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -112375,7 +112422,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112557,7 +112604,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Tiene sentido solo con un modelo local más grande. La documentación no dice cuánta memoria pide cada receta grande."
         ],
         "postParagraphs": [
-          "El código SONAR20 da un 20% en el primer período. Los 20 % también valen en la renovación; confirma el precio en el carrito. [Mira cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y confirma el importe en el carrito antes de pagar. Hostinger está en Black Friday y los precios cambian: [mira la campaña](/es/reviews/black-friday-hostinger-ofertas)."
+          "El código SONAR20 da un 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. [Mira cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y confirma el importe en el carrito antes de pagar. Hostinger está en Black Friday y los precios cambian: [mira la campaña](/es/reviews/black-friday-hostinger-ofertas)."
         ]
       },
       {
@@ -112635,7 +112682,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupón SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para clientes nuevos o antiguos. Los 20 % también valen en la renovación; confirma el precio en el carrito. Confirma el importe en el carrito antes de pagar, porque la Black Friday cambia los precios. Mira [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y [la página de Hostinger en el sitio](/es/coupons/hostinger)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para clientes nuevos o antiguos. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Confirma el importe en el carrito antes de pagar, porque la Black Friday cambia los precios. Mira [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido) y [la página de Hostinger en el sitio](/es/coupons/hostinger)."
         ]
       },
       {
@@ -112645,7 +112692,8 @@ export const reviewsData: unknown[] = [
           "¿Se puede usar sin clave de API? Sí, con un modelo local, pero entonces la memoria es el problema: la documentación da 8 GiB como piso de su receta local más pequeña, con un contexto de 64K, y advierte de que eso no garantiza que el modelo quepa ni que funcione bien. Con los créditos de Hostinger no necesitas una cuenta en un proveedor de IA, pero pagas por el uso.",
           "¿Oracle es gratis de verdad? Sí, mientras la cuenta siga en Always Free: 2 OCPU y 12 GB en las A1 Arm, más las instancias Micro. Una instancia inactiva durante 7 días, con CPU, red y memoria por debajo del 20%, puede ser recuperada por Oracle.",
           "¿Mac mini o VPS? Depende de si la computadora puede quedar encendida las 24 horas. Si puede, correrlo en casa elimina la mensualidad del servidor; si no puede, elige VPS o gestionado.",
-          "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da un 20% en el primer período. Los 20 % también valen en la renovación; confirma el precio en el carrito."
+          "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da un 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -112658,7 +112706,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -112854,7 +112902,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Faz sentido só com um modelo local maior. A documentação não diz quanta memória cada receita grande pede."
         ],
         "postParagraphs": [
-          "O código SONAR20 dá 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho. [Veja como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e confira o valor no carrinho antes de pagar. A Hostinger está em Black Friday, e os preços mudam: [veja a campanha](/reviews/black-friday-hostinger)."
+          "O código SONAR20 dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. [Veja como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e confira o valor no carrinho antes de pagar. A Hostinger está em Black Friday, e os preços mudam: [veja a campanha](/reviews/black-friday-hostinger)."
         ]
       },
       {
@@ -112931,10 +112979,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Preços de 21/10/2026, em plano de 24 meses, já com os 20% do SONAR20: gerenciado R$ 19,99/mês; VPS KVM 1 R$ 23,99/mês; VPS KVM 2 R$ 34,39/mês. Na renovação, o gerenciado e o KVM 1 vão a R$ 59,99/mês, e o KVM 2 a R$ 77,99/mês; com o SONAR20, a renovação também sai 20% menor: R$ 47,99 e R$ 62,39."
+          "Preços de 21/10/2026, em plano de 24 meses, já com os 20% do SONAR20: gerenciado R$ 19,99/mês; VPS KVM 1 R$ 23,99/mês; VPS KVM 2 R$ 34,39/mês. Na renovação, o gerenciado e o KVM 1 vão a R$ 59,99/mês, e o KVM 2 a R$ 77,99/mês, sem o desconto do SONAR20."
         ],
         "postParagraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% também valem na renovação; confira o preço no carrinho. Confira o valor no carrinho antes de pagar, porque a Black Friday muda preços. Veja [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e [a página da Hostinger no site](/cupons/hostinger)."
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Confira o valor no carrinho antes de pagar, porque a Black Friday muda preços. Veja [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao) e [a página da Hostinger no site](/cupons/hostinger)."
         ]
       },
       {
@@ -112944,7 +112992,8 @@ export const reviewsData: unknown[] = [
           "Dá para rodar sem chave de API? Dá, com modelo local, mas aí a memória vira o problema: a documentação dá 8 GiB como piso da menor receita local, com contexto de 64K, e avisa que isso não garante que o modelo caiba nem que rode bem. Com os créditos da Hostinger, você não precisa de conta num provedor de IA, mas paga pelo uso.",
           "Oracle é de graça mesmo? É, enquanto a conta seguir o Always Free: 2 OCPUs e 12 GB no Arm A1, mais as instâncias Micro. Uma instância que fica ociosa por 7 dias, com CPU, rede e memória abaixo de 20%, pode ser recuperada pela Oracle.",
           "Mac mini ou VPS? Depende de o computador poder ficar ligado 24 horas. Se pode, rodar em casa tira a mensalidade do servidor; se não pode, escolha VPS ou gerenciado.",
-          "Tem cupom de desconto da Hostinger para VPS do OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho."
+          "Tem cupom de desconto da Hostinger para VPS do OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -112968,7 +113017,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113138,7 +113187,7 @@ export const reviewsData: unknown[] = [
           "**KVM 8 (32 GB).** Ha senso solo con un modello locale più grande. La documentazione non dice quanta memoria richieda ogni ricetta grande."
         ],
         "postParagraphs": [
-          "Il codice SONAR20 dà il 20% sul primo periodo. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello. [Vedi come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e controlla l'importo nel carrello prima di pagare. Hostinger è in Black Friday e i prezzi cambiano: [vedi la campagna](/it/reviews/black-friday-hostinger-offerte)."
+          "Il codice SONAR20 dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. [Vedi come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e controlla l'importo nel carrello prima di pagare. Hostinger è in Black Friday e i prezzi cambiano: [vedi la campagna](/it/reviews/black-friday-hostinger-offerte)."
         ]
       },
       {
@@ -113216,7 +113265,7 @@ export const reviewsData: unknown[] = [
         "heading": "Coupon SONAR20",
         "paragraphs": [],
         "postParagraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello. Controlla l'importo nel carrello prima di pagare, perché il Black Friday cambia i prezzi. Vedi [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Controlla l'importo nel carrello prima di pagare, perché il Black Friday cambia i prezzi. Vedi [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito) e [la pagina di Hostinger sul sito](/it/coupons/hostinger)."
         ]
       },
       {
@@ -113226,7 +113275,8 @@ export const reviewsData: unknown[] = [
           "Si può usare senza chiave API? Sì, con un modello locale, ma allora la memoria diventa il problema: la documentazione indica 8 GiB come minimo per la ricetta locale più piccola, con contesto da 64K, e avverte che non garantisce né che il modello ci stia, né che giri bene. Con i crediti di Hostinger non ti serve un account presso un fornitore di IA, ma paghi in base all'uso.",
           "Oracle è davvero gratis? Sì, finché l'account resta nell'Always Free: 2 OCPU e 12 GB sulle A1 Arm, più le istanze Micro. Un'istanza inattiva per 7 giorni, con CPU, rete e memoria sotto il 20%, può essere recuperata da Oracle.",
           "Mac mini o VPS? Dipende dal fatto che il computer possa restare acceso 24 ore. Se può, farlo girare a casa toglie il canone del server; se non può, scegli VPS o gestito.",
-          "Esiste un coupon sconto di Hostinger per un VPS OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello."
+          "Esiste un coupon sconto di Hostinger per un VPS OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -113239,7 +113289,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113498,7 +113548,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello. Controlla l'importo nel carrello prima di pagare.",
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, nel piano mensile o annuale, per clienti nuovi o già esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Controlla l'importo nel carrello prima di pagare.",
           "Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
@@ -113509,7 +113559,8 @@ export const reviewsData: unknown[] = [
           "Funziona con Telegram? Sì, con entrambi. Crei il bot su BotFather e incolli il token nella configurazione.",
           "Serve saper programmare? Per avviare il gestito no: scegli i canali e incolli il token. Nel VPS serve conoscere le basi dei server, come root, Docker e aggiornamenti. Programmare entra in gioco solo se vuoi mettere mano al codice del progetto.",
           "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona di fiducia, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
-          "Quale scegliere se uso già Claude Code? Claude Code è uno strumento per programmare nel terminale e non sostituisce nessuno dei due. Entrambi accettano la chiave di Anthropic: OpenClaw elenca Anthropic tra i provider, e il README di Hermes Agent riporta la chiave di Anthropic tra i segreti. Se vuoi un agente che impara dall'uso, Hermes Agent si adatta meglio. Se vuoi molti canali e un'app sul telefono, OpenClaw."
+          "Quale scegliere se uso già Claude Code? Claude Code è uno strumento per programmare nel terminale e non sostituisce nessuno dei due. Entrambi accettano la chiave di Anthropic: OpenClaw elenca Anthropic tra i provider, e il README di Hermes Agent riporta la chiave di Anthropic tra i segreti. Se vuoi un agente che impara dall'uso, Hermes Agent si adatta meglio. Se vuoi molti canali e un'app sul telefono, OpenClaw.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -113523,7 +113574,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -113782,7 +113833,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % también valen en la renovación; consulta el precio en el carrito. Comprueba el importe en el carrito antes de pagar.",
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Comprueba el importe en el carrito antes de pagar.",
           "Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
@@ -113793,7 +113844,8 @@ export const reviewsData: unknown[] = [
           "¿Sirve para Telegram? Sí, con los dos. Creas el bot en BotFather y pegas el token en la configuración.",
           "¿Hace falta saber programar? Para poner en marcha el gestionado, no: eliges los canales y pegas el token. En el VPS, hace falta saber lo básico de servidores, como root, Docker y actualizaciones. Programar solo entra si quieres tocar el código del proyecto.",
           "¿Es seguro? Depende de cómo lo uses. Las dos políticas de seguridad piden el mismo cuidado: uso por una persona de confianza, sin exposición directa a internet y con revisión de lo que instalas de terceros.",
-          "¿Cuál elegir si ya uso Claude Code? Claude Code es una herramienta para programar en la terminal y no sustituye a ninguno de los dos. Los dos aceptan clave de Anthropic: OpenClaw incluye a Anthropic entre los proveedores, y el README de Hermes Agent trae la clave de Anthropic entre los secretos. Si quieres un agente que aprende con el uso, Hermes Agent encaja mejor. Si quieres muchos canales y app en el móvil, OpenClaw."
+          "¿Cuál elegir si ya uso Claude Code? Claude Code es una herramienta para programar en la terminal y no sustituye a ninguno de los dos. Los dos aceptan clave de Anthropic: OpenClaw incluye a Anthropic entre los proveedores, y el README de Hermes Agent trae la clave de Anthropic entre los secretos. Si quieres un agente que aprende con el uso, Hermes Agent encaja mejor. Si quieres muchos canales y app en el móvil, OpenClaw.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -113807,7 +113859,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer periodo. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace de este artículo: 20% en el primer periodo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114064,7 +114116,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20",
         "paragraphs": [
-          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen.",
+          "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen.",
           "Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
@@ -114075,7 +114127,8 @@ export const reviewsData: unknown[] = [
           "Funktioniert es mit Telegram? Ja, bei beiden. Sie erstellen den Bot bei BotFather und fügen den Token in die Konfiguration ein.",
           "Muss man programmieren können? Für den verwalteten Tarif nicht: Sie wählen die Kanäle und fügen den Token ein. Beim VPS braucht es Grundwissen über Server, etwa Root, Docker und Aktualisierungen. Programmieren kommt nur ins Spiel, wenn Sie den Code des Projekts anpassen wollen.",
           "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person, keine direkte Erreichbarkeit aus dem Internet und eine Prüfung dessen, was Sie von Dritten installieren.",
-          "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keinen der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README von Hermes Agent führt den Anthropic-Schlüssel unter den Secrets auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, OpenClaw."
+          "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keinen der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README von Hermes Agent führt den Anthropic-Schlüssel unter den Secrets auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, OpenClaw.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -114089,7 +114142,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114348,7 +114401,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code promo SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. Vérifiez le montant dans le panier avant de payer.",
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en forfait mensuel ou annuel, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Vérifiez le montant dans le panier avant de payer.",
           "Où coller le code est expliqué dans [comment utiliser le code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
@@ -114359,7 +114412,8 @@ export const reviewsData: unknown[] = [
           "Ça marche avec Telegram ? Oui, avec les deux. Vous créez le bot avec BotFather et collez le jeton dans la configuration.",
           "Faut-il savoir programmer ? Pour lancer l'offre gérée, non : vous choisissez les canaux et collez le jeton. En VPS, il faut connaître les bases des serveurs, comme root, Docker et les mises à jour. La programmation n'entre en jeu que si vous voulez toucher au code du projet.",
           "Est-ce sûr ? Cela dépend de l'usage. Les deux politiques de sécurité demandent la même précaution : usage par une personne de confiance, sans exposition directe à l'internet et avec un examen de ce que vous installez de tiers.",
-          "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw cite Anthropic parmi ses fournisseurs, et le README de Hermes Agent range la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une appli sur le téléphone, OpenClaw."
+          "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw cite Anthropic parmi ses fournisseurs, et le README de Hermes Agent range la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une appli sur le téléphone, OpenClaw.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -114373,7 +114427,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114648,7 +114702,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% também valem na renovação; confira o preço no carrinho. Confira o valor no carrinho antes de pagar.",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Confira o valor no carrinho antes de pagar.",
           "Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
@@ -114659,7 +114713,8 @@ export const reviewsData: unknown[] = [
           "Serve para Telegram? Sim, nos dois. Você cria o bot no BotFather e cola o token na configuração.",
           "Precisa saber programar? Para subir o gerenciado, não: você escolhe os canais e cola o token. No VPS, é preciso saber o básico de servidor, como root, Docker e atualizações. Programar só entra se você quiser mexer no código do projeto.",
           "É seguro? Depende de como você usa. As duas políticas de segurança pedem o mesmo cuidado: uso por uma pessoa de confiança, sem exposição direta à internet e com revisão do que você instala de terceiros.",
-          "Qual escolher se já uso o Claude Code? O Claude Code é uma ferramenta para programar no terminal e não substitui nenhum dos dois. Os dois aceitam chave da Anthropic: o OpenClaw lista a Anthropic entre os provedores, e o README do Hermes Agent traz a chave da Anthropic entre os segredos. Se você quer um agente que aprende com o uso, o Hermes Agent combina melhor. Se quer muitos canais e app no celular, o OpenClaw."
+          "Qual escolher se já uso o Claude Code? O Claude Code é uma ferramenta para programar no terminal e não substitui nenhum dos dois. Os dois aceitam chave da Anthropic: o OpenClaw lista a Anthropic entre os provedores, e o README do Hermes Agent traz a chave da Anthropic entre os segredos. Se você quer um agente que aprende com o uso, o Hermes Agent combina melhor. Se quer muitos canais e app no celular, o OpenClaw.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -114683,7 +114738,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -114931,7 +114986,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから申し込んでください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。更新時も20%割引が適用されます。カートで価格を確認してください。支払う前に、カートで金額を確認してください。",
+          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから申し込んでください。**最初の期間が 20% 割引**になり、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。支払う前に、カートで金額を確認してください。",
           "コードを貼り付ける場所は、[SONAR20 クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
@@ -114942,7 +114997,8 @@ export const reviewsData: unknown[] = [
           "Telegram で使えますか？はい、どちらでも使えます。BotFather でボットを作り、トークンを設定に貼り付けます。",
           "プログラミングの知識は必要ですか？マネージドを立ち上げるだけなら不要です。チャンネルを選んでトークンを貼り付けます。VPS では、root、Docker、更新といったサーバーの基本が必要です。プログラミングが必要になるのは、プロジェクトのコードを触りたいときだけです。",
           "安全ですか？使い方しだいです。二つのセキュリティポリシーは同じ注意を求めています。信頼できる一人が使い、インターネットに直接さらさず、サードパーティのものをインストールする前に中身を確認することです。",
-          "すでに Claude Code を使っていたら、どちらを選べばいいですか？Claude Code はターミナルで開発するためのツールで、どちらの代わりにもなりません。どちらも Anthropic のキーに対応しています。OpenClaw はプロバイダーの一つに Anthropic を挙げ、Hermes Agent の README は Anthropic のキーをシークレットの一つとして挙げています。使うほど学習するエージェントがほしいなら Hermes Agent が合います。チャンネルが多くスマートフォンのアプリもほしいなら OpenClaw です。"
+          "すでに Claude Code を使っていたら、どちらを選べばいいですか？Claude Code はターミナルで開発するためのツールで、どちらの代わりにもなりません。どちらも Anthropic のキーに対応しています。OpenClaw はプロバイダーの一つに Anthropic を挙げ、Hermes Agent の README は Anthropic のキーをシークレットの一つとして挙げています。使うほど学習するエージェントがほしいなら Hermes Agent が合います。チャンネルが多くスマートフォンのアプリもほしいなら OpenClaw です。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -114956,7 +115012,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時も20%割引が適用されるので、カートで価格を確認してください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115213,7 +115269,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나, 이 글의 링크로 들어가세요. **첫 결제 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두 쓸 수 있습니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요. 결제하기 전에 장바구니에서 금액을 확인하세요.",
+          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나, 이 글의 링크로 들어가세요. **첫 결제 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두 쓸 수 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 결제하기 전에 장바구니에서 금액을 확인하세요.",
           "코드를 붙여 넣는 위치는 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
@@ -115224,7 +115280,8 @@ export const reviewsData: unknown[] = [
           "텔레그램에서 쓸 수 있나요? 네, 둘 다 가능합니다. BotFather에서 봇을 만들고 토큰을 설정에 붙여 넣으면 됩니다.",
           "프로그래밍을 알아야 하나요? 관리형을 띄우는 데는 필요 없습니다. 채널을 고르고 토큰을 붙여 넣으면 됩니다. VPS에서는 root, Docker, 업데이트 같은 서버 기초가 필요합니다. 프로그래밍은 프로젝트 코드를 직접 손보려는 경우에만 필요합니다.",
           "안전한가요? 쓰는 방법에 달려 있습니다. 두 보안 정책이 요구하는 주의는 같습니다. 믿을 수 있는 한 사람이 쓰고, 인터넷에 직접 노출하지 않고, 서드파티를 설치하기 전에 내용을 검토하는 것입니다.",
-          "이미 Claude Code를 쓰는데 무엇을 고를까요? Claude Code는 터미널에서 프로그래밍하는 도구이며 둘 중 어느 것도 대신하지 못합니다. 둘 다 Anthropic 키를 받습니다. OpenClaw는 제공업체 중 하나로 Anthropic을 들고, Hermes Agent의 README는 Anthropic 키를 시크릿의 하나로 듭니다. 쓸수록 배우는 에이전트를 원한다면 Hermes Agent가 더 맞습니다. 채널이 많고 휴대폰 앱도 원한다면 OpenClaw입니다."
+          "이미 Claude Code를 쓰는데 무엇을 고를까요? Claude Code는 터미널에서 프로그래밍하는 도구이며 둘 중 어느 것도 대신하지 못합니다. 둘 다 Anthropic 키를 받습니다. OpenClaw는 제공업체 중 하나로 Anthropic을 들고, Hermes Agent의 README는 Anthropic 키를 시크릿의 하나로 듭니다. 쓸수록 배우는 에이전트를 원한다면 Hermes Agent가 더 맞습니다. 채널이 많고 휴대폰 앱도 원한다면 OpenClaw입니다.",
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -115238,7 +115295,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "할인 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115497,7 +115554,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。SONAR20 的 20% 折扣在续费时也有效，请在购物车里确认价格。付款前，请在购物车里确认金额。",
+          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**第一个周期享 20% 折扣**，月付或年付均可，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。付款前，请在购物车里确认金额。",
           "代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
@@ -115508,7 +115565,8 @@ export const reviewsData: unknown[] = [
           "能用在 Telegram 上吗？可以，两者都行。你在 BotFather 创建机器人，把令牌粘贴到配置里即可。",
           "需要会编程吗？启动托管版不需要：选好渠道，粘贴令牌就行。用 VPS 则需要懂服务器基础，比如 root、Docker 和更新。只有想改项目代码时才需要编程。",
           "安全吗？取决于你怎么用。两个安全政策要求的注意事项是一样的：由一位受信任的人使用，不直接暴露在互联网上，并审查你安装的第三方内容。",
-          "如果我已经在用 Claude Code，该选哪个？Claude Code 是在终端里编程的工具，不能替代这两者中的任何一个。两者都支持 Anthropic 的密钥：OpenClaw 把 Anthropic 列为服务商之一，Hermes Agent 的 README 把 Anthropic 密钥列在密钥项里。想要越用越会学习的智能体，Hermes Agent 更合适；想要很多渠道和手机应用，选 OpenClaw。"
+          "如果我已经在用 Claude Code，该选哪个？Claude Code 是在终端里编程的工具，不能替代这两者中的任何一个。两者都支持 Anthropic 的密钥：OpenClaw 把 Anthropic 列为服务商之一，Hermes Agent 的 README 把 Anthropic 密钥列在密钥项里。想要越用越会学习的智能体，Hermes Agent 更合适；想要很多渠道和手机应用，选 OpenClaw。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -115522,7 +115580,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认续费价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "通过 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -115780,7 +115838,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "優惠碼 SONAR20",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣也適用於續約，請在購物車裡確認價格。付款前，請在購物車裡確認金額。",
+          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。付款前，請在購物車裡確認金額。",
           "代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
@@ -115791,7 +115849,8 @@ export const reviewsData: unknown[] = [
           "能用在 Telegram 上嗎？可以，兩者都行。你在 BotFather 建立機器人，把權杖貼到設定裡即可。",
           "需要會寫程式嗎？啟動託管版不需要：選好管道，貼上權杖就行。用 VPS 則需要懂伺服器基礎，例如 root、Docker 和更新。只有想修改專案程式碼時才需要寫程式。",
           "安全嗎？取決於你怎麼用。兩個安全政策要求的注意事項是一樣的：由一位受信任的人使用，不直接暴露在網際網路上，並審查你安裝的第三方內容。",
-          "如果我已經在用 Claude Code，該選哪個？Claude Code 是在終端機裡寫程式的工具，無法取代這兩者中的任何一個。兩者都支援 Anthropic 的金鑰：OpenClaw 把 Anthropic 列為供應商之一，Hermes Agent 的 README 把 Anthropic 金鑰列在密鑰項目裡。想要越用越會學習的代理，Hermes Agent 比較合適；想要很多管道和手機應用程式，選 OpenClaw。"
+          "如果我已經在用 Claude Code，該選哪個？Claude Code 是在終端機裡寫程式的工具，無法取代這兩者中的任何一個。兩者都支援 Anthropic 的金鑰：OpenClaw 把 Anthropic 列為供應商之一，Hermes Agent 的 README 把 Anthropic 金鑰列在密鑰項目裡。想要越用越會學習的代理，Hermes Agent 比較合適；想要很多管道和手機應用程式，選 OpenClaw。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
       },
       {
@@ -115805,7 +115864,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣也適用於續約，請在購物車裡確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116063,7 +116122,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or enter through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% also apply on renewal; check the price in the cart. Check the amount in the cart before paying.",
+          "Use the code **SONAR20** in the cart's coupon field, or enter through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Check the amount in the cart before paying.",
           "Where to paste the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
@@ -116074,7 +116133,8 @@ export const reviewsData: unknown[] = [
           "Does it work with Telegram? Yes, with both. You create the bot in BotFather and paste the token into the configuration.",
           "Do you need to know how to code? To set up the managed plan, no: you choose the channels and paste the token. On a VPS, you need the basics of servers, such as root, Docker and updates. Coding only comes in if you want to change the project's code.",
           "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person, no direct exposure to the internet, and a review of whatever you install from third parties.",
-          "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw."
+          "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -116088,7 +116148,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% also apply on renewal; check the renewal price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116275,7 +116335,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutscheincode SONAR20",
         "paragraphs": [
-          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Wo Sie den Code einfügen, steht unter [so verwenden Sie den Code SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode). Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
+          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Wo Sie den Code einfügen, steht unter [so verwenden Sie den Code SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode). Prüfen Sie den Betrag im Warenkorb, bevor Sie bezahlen."
         ]
       },
       {
@@ -116299,7 +116359,8 @@ export const reviewsData: unknown[] = [
           "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. In den gelesenen Quellen haben wir kein unabhängiges Audit gefunden.",
           "Braucht man einen API-Schlüssel? Ja. Beim verwalteten Angebot und beim VPS verlangt die Paperclip-Seite, dass man eigene mitbringt. Auf dem Computer akzeptiert die README auch das Abonnement von Claude oder Codex, ohne API-Schlüssel.",
           "Läuft es mit Ollama? Das hängt vom Agenten ab, den Sie verbinden. Die README von Paperclip nennt Ollama nicht, ein Programm, um ein KI-Modell auf dem eigenen Computer auszuführen. OpenClaw dokumentiert zum Beispiel lokale Modelle; bei Paperclip liegt das Modell beim Agenten, den Sie verbinden.",
-          "Gibt es einen Gutscheincode für Paperclip bei Hostinger? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb."
+          "Gibt es einen Gutscheincode für Paperclip bei Hostinger? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -116312,7 +116373,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116500,7 +116561,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Codice SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo codice sconto del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già attivi. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito). Controlla il prezzo nel carrello prima di pagare."
+          "Usa il codice **SONAR20** nel campo codice sconto del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, su piano mensile o annuale, per clienti nuovi o già attivi. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Dove incollare il codice è spiegato in [come usare il codice SONAR20](/it/reviews/coupon-hostinger-codice-invito). Controlla il prezzo nel carrello prima di pagare."
         ]
       },
       {
@@ -116524,7 +116585,8 @@ export const reviewsData: unknown[] = [
           "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
           "Serve una chiave API? Sì. Sul gestito e sul VPS, la pagina di Paperclip chiede di portare le proprie. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
           "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
-          "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello."
+          "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -116537,7 +116599,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116726,7 +116788,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c’est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. Où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Vérifiez le montant dans le panier avant de payer."
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c’est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Vérifiez le montant dans le panier avant de payer."
         ]
       },
       {
@@ -116750,7 +116812,8 @@ export const reviewsData: unknown[] = [
           "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Nous n’avons pas trouvé d’audit indépendant dans les sources lues.",
           "Faut-il une clé d’API ? Oui. Sur le géré et sur le VPS, la page de Paperclip demande d’apporter les vôtres. Sur l’ordinateur, le README accepte aussi l’abonnement Claude ou Codex, sans clé d’API.",
           "Fonctionne-t-il avec Ollama ? Cela dépend de l’agent que vous connectez. Le README de Paperclip ne cite pas Ollama, un programme pour faire tourner un modèle d’IA sur son propre ordinateur. OpenClaw, par exemple, documente des modèles locaux ; dans Paperclip, le modèle reste du côté de l’agent que vous connectez.",
-          "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier."
+          "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -116763,7 +116826,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -116951,7 +117014,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart’s coupon field, or come in through this article’s link: it gives **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% also apply on renewal; check the price in the cart. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral). Check the price in the cart before you pay."
+          "Use the code **SONAR20** in the cart’s coupon field, or come in through this article’s link: it gives **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Where to paste the code is covered in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral). Check the price in the cart before you pay."
         ]
       },
       {
@@ -116975,7 +117038,8 @@ export const reviewsData: unknown[] = [
           "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. We found no independent audit in the sources read.",
           "Does it need an API key? Yes. On managed and on the VPS, the Paperclip page asks you to bring your own. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
           "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
-          "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% also apply on renewal; check the price in the cart."
+          "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -116988,7 +117052,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on renewal; check the price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117176,7 +117240,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも適用されます。更新時も20%割引が適用されます。カートで価格を確認してください。コードを入れる場所は[クーポン SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja)にあります。支払う前に、カートで金額を確認してください。"
+          "カートのクーポン欄にコード **SONAR20** を入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも適用されます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。コードを入れる場所は[クーポン SONAR20 の使い方](/ja/reviews/hostinger-referral-code-ja)にあります。支払う前に、カートで金額を確認してください。"
         ]
       },
       {
@@ -117200,7 +117264,8 @@ export const reviewsData: unknown[] = [
           "Paperclip は信頼できますか？ 結論を出すことはできません。確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を責任者としていること、セキュリティ上の不具合は GitHub の公式窓口で報告されることです。調べた情報源には、独立した監査は見つかりませんでした。",
           "API キーは必要ですか？ はい。マネージドでも VPS でも、Paperclip のページはご自身のキーを持ち込むよう求めています。コンピューターで動かす場合は、README により Claude または Codex のサブスクリプションでも、API キーなしで利用できます。",
           "Ollama で動きますか？ 接続するエージェント次第です。Paperclip の README には、AI モデルを自分のコンピューターで動かすプログラムである Ollama への言及がありません。たとえば OpenClaw はローカルモデルを文書化していますが、Paperclip ではモデルは接続したエージェント側にあります。",
-          "Hostinger で Paperclip に使えるクーポンはありますか？ あります。カートのクーポン欄にコード SONAR20 を入れると、最初の期間が20%引きになります。更新時も20%割引が適用されます。カートで価格を確認してください。"
+          "Hostinger で Paperclip に使えるクーポンはありますか？ あります。カートのクーポン欄にコード SONAR20 を入れると、最初の期間が20%引きになります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -117213,7 +117278,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時も20%割引が適用されます。カートで価格を確認してください。",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
       "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117400,7 +117465,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "쿠폰 SONAR20",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두에게 적용됩니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요. 코드를 붙여 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 결제하기 전에 장바구니에서 금액을 확인하세요."
+          "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이며, 월 결제와 연 결제 모두, 신규와 기존 고객 모두에게 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 코드를 붙여 넣는 위치는 [쿠폰 SONAR20 사용법](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 결제하기 전에 장바구니에서 금액을 확인하세요."
         ]
       },
       {
@@ -117424,7 +117489,8 @@ export const reviewsData: unknown[] = [
           "Paperclip은 믿을 만한가요? 결론을 내릴 수는 없습니다. 확인할 수 있는 것은 코드가 공개되어 있다는 점, 저장소가 Paperclip 팀(저작권 표기로는 Paperclip Labs, Inc.)을 책임자로 밝힌다는 점, 보안 결함은 GitHub의 공식 창구로 신고된다는 점입니다. 살펴본 자료에서 독립적인 감사는 찾지 못했습니다.",
           "API 키가 필요한가요? 네. 관리형과 VPS 모두 Paperclip 페이지는 자신의 키를 가져오라고 안내합니다. 컴퓨터에서는 README에 따라 Claude나 Codex 구독으로도 API 키 없이 쓸 수 있습니다.",
           "Ollama와 함께 작동하나요? 연결하는 에이전트에 따라 다릅니다. Paperclip의 README에는 AI 모델을 컴퓨터에서 직접 실행하는 프로그램인 Ollama가 언급되어 있지 않습니다. 예를 들어 OpenClaw는 로컬 모델을 문서화하고 있지만, Paperclip에서 모델은 연결한 에이전트 쪽에 있습니다.",
-          "Hostinger에서 Paperclip에 쓸 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣으면 첫 번째 기간 20% 할인이 적용됩니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요."
+          "Hostinger에서 Paperclip에 쓸 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣으면 첫 번째 기간 20% 할인이 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -117437,7 +117503,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117626,7 +117692,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**首个周期享 8 折**（即减 20%），月付或年付均可，新老客户都适用。SONAR20 的 20% 折扣在续费时也有效，请在购物车里确认价格。代码填在哪里，见[如何使用优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。付款前请在购物车里确认金额。"
+          "在购物车的优惠码栏输入代码 **SONAR20**，或通过本文的链接进入：**首个周期享 8 折**（即减 20%），月付或年付均可，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。代码填在哪里，见[如何使用优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。付款前请在购物车里确认金额。"
         ]
       },
       {
@@ -117650,7 +117716,8 @@ export const reviewsData: unknown[] = [
           "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。在所查阅的资料中，我们没有找到独立审计。",
           "需要 API 密钥吗？ 需要。无论托管版还是 VPS，Paperclip 的页面都要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
           "能搭配 Ollama 使用吗？ 取决于您连接的智能体。Paperclip 的 README 没有提到 Ollama，这是一个在自己电脑上运行 AI 模型的程序。例如 OpenClaw 记录了本地模型的用法；而在 Paperclip 中，模型取决于您连接的智能体。",
-          "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。SONAR20 的 20% 折扣在续费时也有效，请在购物车里确认价格。"
+          "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -117663,7 +117730,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -117851,7 +117918,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "優惠碼 SONAR20",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**首個週期享 8 折**（即減 20%），月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣也適用於續約，請在購物車裡確認價格。代碼填在哪裡，請見[如何使用優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。付款前請在購物車裡確認金額。"
+          "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**首個週期享 8 折**（即減 20%），月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。代碼填在哪裡，請見[如何使用優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。付款前請在購物車裡確認金額。"
         ]
       },
       {
@@ -117875,7 +117942,8 @@ export const reviewsData: unknown[] = [
           "Paperclip 可靠嗎？ 無法下定論。可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。在所查閱的資料中，我們沒有找到獨立稽核。",
           "需要 API 金鑰嗎？ 需要。無論代管方案還是 VPS，Paperclip 的頁面都要求您自備金鑰。在電腦上執行時，README 也支援 Claude 或 Codex 的訂閱，不需要 API 金鑰。",
           "能搭配 Ollama 使用嗎？ 取決於您連接的代理。Paperclip 的 README 沒有提到 Ollama，這是一個在自己電腦上執行 AI 模型的程式。例如 OpenClaw 記錄了本機模型的用法；而在 Paperclip 中，模型取決於您連接的代理。",
-          "Hostinger 上有適用於 Paperclip 的優惠碼嗎？ 有：在購物車的優惠碼欄輸入代碼 SONAR20，首個週期可減 20%。SONAR20 的 20% 折扣也適用於續約，請在購物車裡確認價格。"
+          "Hostinger 上有適用於 Paperclip 的優惠碼嗎？ 有：在購物車的優惠碼欄輸入代碼 SONAR20，首個週期可減 20%。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
       },
       {
@@ -117888,7 +117956,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣也適用於續約，請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -118119,7 +118187,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% também valem na renovação; confira o preço no carrinho. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Confira o valor no carrinho antes de pagar."
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Confira o valor no carrinho antes de pagar."
         ]
       },
       {
@@ -118143,7 +118211,8 @@ export const reviewsData: unknown[] = [
           "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não encontramos auditoria independente nas fontes lidas.",
           "Precisa de chave de API? Sim. No gerenciado e no VPS, a página do Paperclip pede que você traga as suas. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
           "Roda com Ollama? Depende do agente que você conecta. O README do Paperclip não cita o Ollama, um programa para rodar modelo de IA no próprio computador. O OpenClaw, por exemplo, documenta modelos locais; no Paperclip, o modelo fica com o agente que você conecta.",
-          "Tem cupom para o Paperclip na Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho."
+          "Tem cupom para o Paperclip na Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -118166,7 +118235,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -118344,7 +118413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % también valen en la renovación; confirma el precio en el carrito. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Confirma el valor en el carrito antes de pagar."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Confirma el valor en el carrito antes de pagar."
         ]
       },
       {
@@ -118368,7 +118437,8 @@ export const reviewsData: unknown[] = [
           "¿Paperclip es confiable? No se puede dar un veredicto. Se puede comprobar que el código es público, que el repositorio indica al equipo de Paperclip (Paperclip Labs, Inc. en el aviso de copyright) como responsable, y que las fallas de seguridad se reportan por un canal oficial en GitHub. No encontramos auditoría independiente en las fuentes leídas.",
           "¿Necesita clave de API? Sí. En el gestionado y en el VPS, la página de Paperclip pide que traigas las tuyas. En la computadora, el README también acepta la suscripción de Claude o de Codex, sin clave de API.",
           "¿Funciona con Ollama? Depende del agente que conectes. El README de Paperclip no menciona Ollama, un programa para ejecutar un modelo de IA en la propia computadora. OpenClaw, por ejemplo, documenta modelos locales; en Paperclip, el modelo queda con el agente que conectes.",
-          "¿Hay cupón para Paperclip en Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período. Los 20 % también valen en la renovación; confirma el precio en el carrito."
+          "¿Hay cupón para Paperclip en Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -118381,7 +118451,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -144568,7 +144638,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% também valem na renovação; confira o preço no carrinho. Os preços com os 20% eram os da coluna \"com o SONAR20\" acima. A regra completa e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. Os preços com os 20% eram os da coluna \"com o SONAR20\" acima. A regra completa e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger).",
           "A Hostinger está em campanha de Black Friday, sem data de fim na página, e os preços e os créditos em dobro podem mudar. Confira o valor no carrinho antes de pagar."
         ]
       },
@@ -144589,7 +144659,8 @@ export const reviewsData: unknown[] = [
           "Dá para migrar do Criador com IA para outra hospedagem? A página diz que o código-fonte pode ser exportado e hospedado em outro lugar. O back-end integrado, com banco e login, fica na Hostinger, então um app precisa de reconfiguração fora dela.",
           "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual é item dos planos Unlimited e Cloud Startup. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
           "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. O Premium custava R$ 7,99/mês com o SONAR20 (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
-          "Tem cupom para o Criador com IA da Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho."
+          "Tem cupom para o Criador com IA da Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -144614,7 +144685,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -144831,7 +144902,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon",
         "paragraphs": [
-          "Use the code **SONAR20** in the cart's coupon field, or use this article's link: it's **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% also apply on renewal; check the price in the cart. The full rule and the other products are in [Hostinger coupons](/en/coupons/hostinger).",
+          "Use the code **SONAR20** in the cart's coupon field, or use this article's link: it's **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. The full rule and the other products are in [Hostinger coupons](/en/coupons/hostinger).",
           "Prices and terms change; check the amount in the cart before paying."
         ]
       },
@@ -144851,7 +144922,8 @@ export const reviewsData: unknown[] = [
           "Do you need to know how to code to use the AI Builder? No. The page says it requires no technical knowledge in either mode. For people who do code, AI mode has a code editor.",
           "Can you migrate from the AI Builder to another host? The page says the source code can be exported and hosted elsewhere. The built-in back end, with database and login, stays at Hostinger, so an app needs reconfiguring outside it.",
           "Is the AI Builder good for an online store? For a small store, yes: the online store is a feature of the Unlimited and Cloud Startup plans. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
-          "Is there a coupon for Hostinger's AI Builder? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% also apply on renewal; check the price in the cart."
+          "Is there a coupon for Hostinger's AI Builder? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -144864,7 +144936,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on renewal; check the price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -145093,7 +145165,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % también valen en la renovación; comprueba el precio en el carrito. La regla completa y los demás productos están en [cupones de Hostinger](/es/coupons/hostinger).",
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20 % en el primer periodo**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. La regla completa y los demás productos están en [cupones de Hostinger](/es/coupons/hostinger).",
           "Los precios y las condiciones cambian; comprueba el importe en el carrito antes de pagar."
         ]
       },
@@ -145113,7 +145185,8 @@ export const reviewsData: unknown[] = [
           "¿Hace falta saber programar para usar el creador con IA? No. La página dice que no exige conocimientos técnicos en ninguno de los dos modos. Quien sabe programar tiene un editor de código en el modo con IA.",
           "¿Se puede migrar del creador con IA a otro hosting? La página dice que el código fuente se puede exportar y alojar en otro sitio. El back end integrado, con base de datos e inicio de sesión, se queda en Hostinger, así que una app necesita reconfigurarse fuera de ella.",
           "¿El creador con IA sirve para una tienda online? Para una tienda pequeña, sí: la tienda online es un elemento de los planes Unlimited y Cloud Startup. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
-          "¿Hay cupón para el creador con IA de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer periodo. Los 20 % también valen en la renovación; comprueba el precio en el carrito."
+          "¿Hay cupón para el creador con IA de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer periodo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -145126,7 +145199,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -145355,7 +145428,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code SONAR20",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. La règle complète et les autres produits sont dans [codes promo Hostinger](/fr/coupons/hostinger).",
+          "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. La règle complète et les autres produits sont dans [codes promo Hostinger](/fr/coupons/hostinger).",
           "Les prix et les conditions changent ; vérifiez le montant dans le panier avant de payer."
         ]
       },
@@ -145375,7 +145448,8 @@ export const reviewsData: unknown[] = [
           "Faut-il savoir coder pour utiliser le créateur IA ? Non. La page dit qu'il n'exige aucune connaissance technique dans les deux modes. Pour ceux qui codent, le mode IA propose un éditeur de code.",
           "Peut-on migrer du créateur IA vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une appli demande une reconfiguration en dehors.",
           "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne fait partie des offres Unlimited et Cloud Startup. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
-          "Existe-t-il un code promo pour le créateur IA de Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier."
+          "Existe-t-il un code promo pour le créateur IA de Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -145388,7 +145462,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -145617,7 +145691,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Codice SONAR20",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, con piano mensile o annuale, per i clienti nuovi o esistenti. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello. La regola completa e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger).",
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, con piano mensile o annuale, per i clienti nuovi o esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. La regola completa e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger).",
           "I prezzi e le condizioni cambiano; controlla l'importo nel carrello prima di pagare."
         ]
       },
@@ -145637,7 +145711,8 @@ export const reviewsData: unknown[] = [
           "Serve saper programmare per usare l'AI Builder? No. La pagina dice che non richiede competenze tecniche in nessuna delle due modalità. Chi sa programmare ha un editor di codice nella modalità con IA.",
           "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app richiede una riconfigurazione fuori da lì.",
           "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è una voce dei piani Unlimited e Cloud Startup. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
-          "C'è un coupon per l'AI Builder di Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello."
+          "C'è un coupon per l'AI Builder di Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -145650,7 +145725,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -145879,7 +145954,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutscheincode SONAR20",
         "paragraphs": [
-          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Die vollständigen Bedingungen und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
+          "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Die vollständigen Bedingungen und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
           "Preise und Bedingungen ändern sich; prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
         ]
       },
@@ -145899,7 +145974,8 @@ export const reviewsData: unknown[] = [
           "Braucht man Programmierkenntnisse für den KI-Builder? Nein. Laut Seite sind in beiden Modi keine technischen Kenntnisse nötig. Wer programmieren kann, hat im KI-Modus einen Code-Editor.",
           "Kann man vom KI-Builder zu einem anderen Hoster migrieren? Laut Seite lässt sich der Quellcode exportieren und anderswo hosten. Das integrierte Back-End mit Datenbank und Login bleibt bei Hostinger, eine App muss also außerhalb neu konfiguriert werden.",
           "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop gehört zu den Tarifen Unlimited und Cloud Startup. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
-          "Gibt es einen Gutschein für den KI-Builder von Hostinger? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb."
+          "Gibt es einen Gutschein für den KI-Builder von Hostinger? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -145912,7 +145988,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -146141,7 +146217,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クーポン SONAR20",
         "paragraphs": [
-          "カートのクーポン欄にコード **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 引き**で、月額・年額どちらのプランでも、新規のお客様も既存のお客様も対象です。更新時も20%割引が適用されます。カートで価格を確認してください。すべての規則とほかの製品は [Hostinger のクーポンページ](/ja/coupons/hostinger)にあります。",
+          "カートのクーポン欄にコード **SONAR20** を入れるか、この記事のリンクから入ってください。**最初の期間が 20% 引き**で、月額・年額どちらのプランでも、新規のお客様も既存のお客様も対象です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。すべての規則とほかの製品は [Hostinger のクーポンページ](/ja/coupons/hostinger)にあります。",
           "価格や条件は変わることがあります。支払う前にカートで金額を確認してください。"
         ]
       },
@@ -146161,7 +146237,8 @@ export const reviewsData: unknown[] = [
           "AI Builder を使うのにプログラミングは必要ですか？ いいえ。ページによれば、どちらのモードも専門知識は不要です。プログラミングができる人には、AI を使うモードにコードエディタがあります。",
           "AI Builder から別のホスティングへ移せますか？ ページによれば、ソースコードをエクスポートして別の場所でホストできます。データベースとログインを含む内蔵バックエンドは Hostinger に残るため、アプリは外部で再設定が必要です。",
           "AI Builder はショップに向いていますか？ 小さなショップなら向いています。ショップ機能は Unlimited と Cloud Startup プランの機能です。配送や決済のルールが複雑な大きなショップは、WooCommerce 付きの WordPress のほうが制御しやすくなります。",
-          "Hostinger の AI Builder にクーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 引きになります。更新時も20%割引が適用されます。カートで価格を確認してください。"
+          "Hostinger の AI Builder にクーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 引きになります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -146174,7 +146251,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時も20%割引が適用されます。カートで価格を確認してください。",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
       "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -146402,7 +146479,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월간과 연간 플랜 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요. 전체 규칙과 다른 제품은 [Hostinger 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다.",
+          "장바구니의 쿠폰 입력란에 코드 **SONAR20**을 넣거나 이 글의 링크로 들어가세요. **첫 기간 20% 할인**이며, 월간과 연간 플랜 모두 해당하고 신규 고객과 기존 고객 모두 받을 수 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 전체 규칙과 다른 제품은 [Hostinger 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다.",
           "가격과 조건은 바뀔 수 있습니다. 결제 전에 장바구니에서 금액을 확인하세요."
         ]
       },
@@ -146422,7 +146499,8 @@ export const reviewsData: unknown[] = [
           "AI Builder를 쓰려면 코딩을 알아야 하나요? 아니요. 페이지에 따르면 두 모드 모두 기술 지식이 필요 없습니다. 코딩을 아는 사람에게는 AI 모드에 코드 에디터가 있습니다.",
           "AI Builder에서 다른 호스팅으로 옮길 수 있나요? 페이지에 따르면 소스 코드를 내보내 다른 곳에서 호스팅할 수 있습니다. 데이터베이스와 로그인이 있는 내장 백엔드는 Hostinger에 남기 때문에, 앱은 밖에서 다시 설정해야 합니다.",
           "AI Builder는 온라인 스토어에 맞나요? 작은 스토어라면 맞습니다. 온라인 스토어는 Unlimited와 Cloud Startup 플랜의 기능입니다. 배송과 결제 규칙이 있는 큰 스토어는 WooCommerce를 쓰는 WordPress가 더 세밀하게 제어할 수 있습니다.",
-          "Hostinger의 AI Builder에 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간이 20% 할인됩니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요."
+          "Hostinger의 AI Builder에 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간이 20% 할인됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -146435,7 +146513,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -146664,7 +146742,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "优惠码 SONAR20",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：**首个周期享 20% 折扣**，月付或年付的套餐都可以，新老客户都适用。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入：**首个周期享 20% 折扣**，月付或年付的套餐都可以，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。完整规则和其他产品见[Hostinger 优惠页](/zh-hans/coupons/hostinger)。",
           "价格和条件可能会变，付款前请在购物车里核对金额。"
         ]
       },
@@ -146684,7 +146762,8 @@ export const reviewsData: unknown[] = [
           "用 AI Builder 需要会编程吗？不需要。页面说两种模式都不要求技术知识。会编程的人，在 AI 模式里有代码编辑器。",
           "能从 AI Builder 迁到别的主机吗？页面说源代码可以导出，放到别处托管。带数据库和登录的内置后端留在 Hostinger，所以应用在别处需要重新配置。",
           "AI Builder 适合开网店吗？小店可以：网店是 Unlimited 和 Cloud Startup 套餐的功能。对运费和支付规则复杂的大店，WordPress 加 WooCommerce 控制得更细。",
-          "Hostinger 的 AI Builder 有优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。"
+          "Hostinger 的 AI Builder 有优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -146697,7 +146776,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -146926,7 +147005,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "優惠碼 SONAR20",
         "paragraphs": [
-          "在購物車的優惠碼欄位輸入 **SONAR20**，或從本文連結進入：**首期享 20% 折扣**，月付或年付方案都可以，新客戶和舊客戶都適用。SONAR20 的 20% 折扣也適用於續約，請在購物車確認價格。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
+          "在購物車的優惠碼欄位輸入 **SONAR20**，或從本文連結進入：**首期享 20% 折扣**，月付或年付方案都可以，新客戶和舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。完整規則和其他產品見[Hostinger 優惠頁](/zh-hant/coupons/hostinger)。",
           "價格和條件可能會變，付款前請在購物車裡核對金額。"
         ]
       },
@@ -146946,7 +147025,8 @@ export const reviewsData: unknown[] = [
           "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人，在 AI 模式裡有程式碼編輯器。",
           "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，放到別處託管。含資料庫和登入的內建後端留在 Hostinger，所以應用程式在別處需要重新設定。",
           "AI Builder 適合開網路商店嗎？小店可以：網路商店是 Unlimited 和 Cloud Startup 方案的功能。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
-          "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣。SONAR20 的 20% 折扣也適用於續約，請在購物車確認價格。"
+          "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
       },
       {
@@ -146959,7 +147039,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣也適用於續約，請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147196,7 +147276,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% também valem na renovação; confira o preço no carrinho. No domínio avulso, o código não vale. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**, em plano mensal ou anual, para cliente novo ou antigo. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. No domínio avulso, o código não vale. Onde colar o código está em [como usar o cupom SONAR20](/reviews/cupom-hostinger-indicacao), e os planos, na [página da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -147206,7 +147286,8 @@ export const reviewsData: unknown[] = [
           "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro.",
           "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
           "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
-          "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso."
+          "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -147230,7 +147311,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho. No domínio avulso, o código não vale.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto. No domínio avulso, o código não vale.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147413,7 +147494,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 coupon and price",
         "paragraphs": [
-          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% also apply on the renewal of hosting plans; check the price in the cart. For a domain on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. For a domain on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
         ]
       },
       {
@@ -147421,7 +147502,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Can I change hosting without losing the domain? Yes. The domain is yours and stays in the Hostinger account; you point the DNS to the new hosting or transfer the registration later, once 60 days have passed since registration.",
           "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
-          "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded."
+          "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -147434,7 +147516,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on the renewal of hosting plans; check the price in the cart. On a standalone domain, the code does not work.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. On a standalone domain, the code does not work.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147628,7 +147710,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20 y precio",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % también valen en la renovación; revisa el precio en el carrito. En el dominio suelto, el código no vale. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido), y los planes, en [la página de Hostinger](/es/coupons/hostinger)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**, en plan mensual o anual, para cliente nuevo o antiguo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. En el dominio suelto, el código no vale. Dónde pegar el código está en [cómo usar el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido), y los planes, en [la página de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -147636,7 +147718,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Puedo cambiar de hosting sin perder el dominio? Sí. El dominio es tuyo y queda en la cuenta de Hostinger; apuntas el DNS al nuevo hosting o transfieres el registro después, respetando los 60 días desde el registro.",
           "¿Necesito un dominio para tener correo? Sí. Para una dirección como tu@tuempresa.com, el dominio tiene que existir; el hosting no es obligatorio, y Hostinger dice que se puede usar el dominio solo para correo o para redirigir a otro sitio.",
-          "¿Se puede transferir el dominio de Hostinger a otro registrador? Sí, después de 60 días del registro: desbloqueas el dominio en el panel, obtienes el código de autorización y confirmas por correo en el nuevo registrador. La transferencia que sale bien no tiene reembolso."
+          "¿Se puede transferir el dominio de Hostinger a otro registrador? Sí, después de 60 días del registro: desbloqueas el dominio en el panel, obtienes el código de autorización y confirmas por correo en el nuevo registrador. La transferencia que sale bien no tiene reembolso.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -147649,7 +147732,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito. En el dominio suelto, el código no vale.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento. En el dominio suelto, el código no vale.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -147843,7 +147926,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 et prix",
         "paragraphs": [
-          "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier. Pour un domaine seul, le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
+          "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -147851,7 +147934,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Puis-je changer d'hébergement sans perdre le domaine ? Oui. Le domaine est à vous et reste dans le compte Hostinger ; vous pointez le DNS vers le nouvel hébergement ou vous transférez l'enregistrement plus tard, en respectant les 60 jours depuis l'enregistrement.",
           "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
-          "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours d'enregistrement : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé."
+          "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours d'enregistrement : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -147864,7 +147948,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. Pour un domaine seul, le code ne vaut pas.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148058,7 +148142,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 e prezzo",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello. Sul dominio singolo, il codice non vale. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Sul dominio singolo, il codice non vale. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -148066,7 +148150,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Posso cambiare hosting senza perdere il dominio? Sì. Il dominio è tuo e resta nell'account Hostinger; punti il DNS al nuovo hosting o trasferisci la registrazione dopo, rispettando i 60 giorni dalla registrazione.",
           "Mi serve un dominio per avere l'e-mail? Sì. Per un indirizzo come tu@tuaazienda.com, il dominio deve esistere; l'hosting non è obbligatorio, e Hostinger dice che si può usare il dominio solo per l'e-mail o per reindirizzare a un altro sito.",
-          "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, dopo 60 giorni dalla registrazione: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile."
+          "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, dopo 60 giorni dalla registrazione: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -148079,7 +148164,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello. Sul dominio singolo il codice non vale.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Sul dominio singolo il codice non vale.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148273,7 +148358,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20 und Preis",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb. Bei einer einzelnen Domain gilt der Code nicht. Wo der Code hingehört, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
+          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link dieses Artikels: **20 % im ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Bei einer einzelnen Domain gilt der Code nicht. Wo der Code hingehört, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode), und die Tarife auf [der Hostinger-Seite](/de/coupons/hostinger)."
         ]
       },
       {
@@ -148281,7 +148366,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Kann man das Hosting wechseln, ohne die Domain zu verlieren? Ja. Die Domain gehört Ihnen und bleibt im Hostinger-Konto; Sie lassen das DNS auf das neue Hosting zeigen oder ziehen die Registrierung später um, sobald 60 Tage seit der Registrierung vergangen sind.",
           "Braucht man eine Domain für E-Mail? Ja. Für eine Adresse wie sie@ihrefirma.com muss die Domain existieren; ein Hosting ist nicht nötig, und Hostinger sagt, dass man die Domain nur für E-Mail oder für die Weiterleitung auf eine andere Website nutzen kann.",
-          "Kann man die Domain von Hostinger zu einem anderen Registrar umziehen? Ja, nach 60 Tagen Registrierung: Sie entsperren die Domain im Panel, holen den Autorisierungscode und bestätigen per E-Mail beim neuen Registrar. Ein gelungener Umzug wird nicht erstattet."
+          "Kann man die Domain von Hostinger zu einem anderen Registrar umziehen? Ja, nach 60 Tagen Registrierung: Sie entsperren die Domain im Panel, holen den Autorisierungscode und bestätigen per E-Mail beim neuen Registrar. Ein gelungener Umzug wird nicht erstattet.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -148294,7 +148380,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb. Bei einer einzelnen Domain gilt der Code nicht.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Bei einer einzelnen Domain gilt der Code nicht.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148488,7 +148574,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20クーポンと料金",
         "paragraphs": [
-          "カートのクーポン欄に**SONAR20**と入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。ホスティングプランの更新にも20%割引が適用されます。ドメイン単独の購入では、コードは使えません。コードを入れる場所は[SONAR20クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、プランは[Hostingerのページ](/ja/coupons/hostinger)にあります。"
+          "カートのクーポン欄に**SONAR20**と入力するか、この記事のリンクから入ってください。**最初の期間が20%引き**で、月払いでも年払いでも、新規のお客様にも既存のお客様にも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。ドメイン単独の購入では、コードは使えません。コードを入れる場所は[SONAR20クーポンの使い方](/ja/reviews/hostinger-referral-code-ja)、プランは[Hostingerのページ](/ja/coupons/hostinger)にあります。"
         ]
       },
       {
@@ -148496,7 +148582,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "ホスティングを変えてもドメインを失わずにすみますか？ はい。ドメインはあなたのもので、Hostingerのアカウントに残ります。新しいホスティングにDNSを向けるか、登録から60日がたったあとで登録を移管します。",
           "メールを使うのにドメインは必要ですか？ はい。you@yourcompany.comのようなアドレスには、ドメインが必要です。ホスティングは必須ではなく、Hostingerは、ドメインをメール専用にしたり、別のサイトへの転送だけに使ったりできると書いています。",
-          "Hostingerのドメインをほかのレジストラへ移管できますか？ はい、登録から60日がたてば可能です。管理画面でドメインのロックを解除し、認証コードを取得して、新しいレジストラでメールにより確認します。成立した移管は返金されません。"
+          "Hostingerのドメインをほかのレジストラへ移管できますか？ はい、登録から60日がたてば可能です。管理画面でドメインのロックを解除し、認証コードを取得して、新しいレジストラでメールにより確認します。成立した移管は返金されません。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -148509,7 +148596,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。ホスティングの更新にも20%割引が適用されますが、ドメインには適用されません。カートで価格を確認してください。ドメインの金額も、支払う前にカートで確認してください。",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。ドメイン単独の購入には適用されません。カートで価格を確認してください。ドメインの金額も、支払う前にカートで確認してください。",
       "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148703,7 +148790,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰과 요금",
         "paragraphs": [
-          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이고, 월간 또는 연간 플랜, 신규 또는 기존 고객 모두 해당합니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 요금을 확인하세요. 도메인 단독 구매에는 코드가 적용되지 않습니다. 코드를 붙여 넣는 곳은 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에, 플랜은 [Hostinger 페이지](/ko/coupons/hostinger)에 있습니다."
+          "장바구니의 쿠폰 입력란에 **SONAR20** 코드를 입력하거나 이 글의 링크로 들어가세요. **첫 번째 기간 20% 할인**이고, 월간 또는 연간 플랜, 신규 또는 기존 고객 모두 해당합니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 도메인 단독 구매에는 코드가 적용되지 않습니다. 코드를 붙여 넣는 곳은 [SONAR20 쿠폰 사용법](/ko/reviews/hostinger-referral-code-ko)에, 플랜은 [Hostinger 페이지](/ko/coupons/hostinger)에 있습니다."
         ]
       },
       {
@@ -148711,7 +148798,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "도메인을 잃지 않고 호스팅을 바꿀 수 있나요? 네. 도메인은 본인 것이고 Hostinger 계정에 남습니다. 새 호스팅으로 DNS를 연결하거나, 등록 후 60일이 지난 다음 등록을 이전하면 됩니다.",
           "이메일을 쓰려면 도메인이 필요한가요? 네. you@yourcompany.com 같은 주소에는 도메인이 있어야 합니다. 호스팅은 필수가 아니며, Hostinger는 도메인을 이메일 전용으로 쓰거나 다른 사이트로 연결하는 용도로만 쓸 수 있다고 말합니다.",
-          "Hostinger 도메인을 다른 등록 기관으로 이전할 수 있나요? 네, 등록 후 60일이 지나면 가능합니다. 패널에서 도메인 잠금을 풀고, 인증 코드를 받아, 새 등록 기관에서 이메일로 확인합니다. 성공한 이전은 환불되지 않습니다."
+          "Hostinger 도메인을 다른 등록 기관으로 이전할 수 있나요? 네, 등록 후 60일이 지나면 가능합니다. 패널에서 도메인 잠금을 풀고, 인증 코드를 받아, 새 등록 기관에서 이메일로 확인합니다. 성공한 이전은 환불되지 않습니다.",
+          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -148724,7 +148812,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요. 도메인 단독 구매에는 코드가 적용되지 않습니다.",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 도메인 단독 구매에는 코드가 적용되지 않습니다.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -148918,7 +149006,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 优惠码与价格",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期优惠 20%**，月付或年付套餐都可以，新老客户都适用。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。单买域名时，代码不适用。代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)；套餐见 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或从本文的链接进入：**首期优惠 20%**，月付或年付套餐都可以，新老客户都适用。这 20% 适用于所有新购；续费按标价收费，没有折扣。单买域名时，代码不适用。代码填在哪里，见[如何使用 SONAR20 优惠码](/zh-hans/reviews/hostinger-referral-code-zh-hans)；套餐见 [Hostinger 页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -148926,7 +149014,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "换主机会丢域名吗？不会。域名是你的，留在 Hostinger 账户里；你可以把 DNS 指向新主机，或在注册满 60 天后再转移注册。",
           "用邮箱一定要有域名吗？要。像 you@yourcompany.com 这样的地址，域名必须存在；主机不是必需的，Hostinger 说域名可以只用于邮箱，或只用来跳转到另一个网站。",
-          "可以把 Hostinger 的域名转到别的注册商吗？可以，注册满 60 天后：在面板里解锁域名，取得授权码，再到新注册商用邮件确认。成功的转移不退款。"
+          "可以把 Hostinger 的域名转到别的注册商吗？可以，注册满 60 天后：在面板里解锁域名，取得授权码，再到新注册商用邮件确认。成功的转移不退款。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -148939,7 +149028,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。单独购买域名时，代码不适用。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。单独购买域名时，代码不适用。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149133,7 +149222,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼與價格",
         "paragraphs": [
-          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**第一個週期優惠 20%**，月繳或年繳方案都可以，新舊客戶都適用。20% 折扣續訂也適用，請在購物車確認價格。單買網域，SONAR20 不適用。代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)；方案見 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
+          "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**第一個週期優惠 20%**，月繳或年繳方案都可以，新舊客戶都適用。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。單買網域，SONAR20 不適用。代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)；方案見 [Hostinger 頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -149141,7 +149230,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "換主機會丟網域嗎？不會。網域是你的，留在 Hostinger 帳戶裡；你可以把 DNS 指向新主機，或在註冊滿 60 天後再轉移註冊。",
           "使用電子郵件一定要有網域嗎？要。像 you@yourcompany.com 這樣的位址，網域必須存在；主機不是必需的，Hostinger 說網域可以只用於電子郵件，或只用來轉址到另一個網站。",
-          "可以把 Hostinger 的網域轉到別的註冊商嗎？可以，註冊滿 60 天後：在控制台解鎖網域，取得授權碼，再到新註冊商用電子郵件確認。成功的轉移不退款。"
+          "可以把 Hostinger 的網域轉到別的註冊商嗎？可以，註冊滿 60 天後：在控制台解鎖網域，取得授權碼，再到新註冊商用電子郵件確認。成功的轉移不退款。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
@@ -149154,7 +149244,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣也適用於續約，請在購物車確認價格。單買網域時，SONAR20 不適用；付款前請在購物車核對金額。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。單買網域時，SONAR20 不適用；付款前請在購物車核對金額。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149351,7 +149441,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Para um site comum que precise de VPS, o KVM 1 é o ponto de partida: 4 GB de RAM dão para um WordPress ou um sistema pequeno. O KVM 2 entra quando você vai rodar mais de um programa na mesma máquina. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
-          "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (campanha de Black Friday). Com o SONAR20, os 20% valem **no primeiro período e também na renovação**: a renovação com o cupom sai 20% abaixo da coluna da tabela."
+          "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (campanha de Black Friday). Com o SONAR20, os 20% valem **no primeiro período**: a renovação sai pelo preço da coluna da tabela, sem desconto."
         ]
       },
       {
@@ -149450,7 +149540,8 @@ export const reviewsData: unknown[] = [
           "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
           "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
           "VPS aguenta WordPress? Aguenta, mas você instala e mantém o servidor web, o PHP e o banco. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
-          "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês (R$ 47,99/mês com o cupom na renovação). Sem o cupom, R$ 29,99/mês. Os 20% valem no primeiro período e também na renovação."
+          "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês, sem desconto. Sem o cupom, R$ 29,99/mês.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -149474,7 +149565,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149692,7 +149783,8 @@ export const reviewsData: unknown[] = [
           "Is a VPS faster than shared hosting? We did not measure it. What a VPS guarantees is reserved resources: CPU, memory and disk are yours, while on shared hosting the server is divided. For an ordinary site, that is rarely the bottleneck.",
           "Can I start on shared hosting and move to a VPS later? Yes. They are different products: you sign up for the VPS, install the server and move the site over. Shared hosting cannot be converted into a VPS from inside the panel.",
           "Do I need to know Linux to have a VPS? Yes, the basics of the terminal: installing programs, updating the system and reading a log. On shared hosting, everything goes through the panel and no terminal is required.",
-          "Can a VPS run WordPress? It can, but you install and maintain the web server, PHP and the database. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server."
+          "Can a VPS run WordPress? It can, but you install and maintain the web server, PHP and the database. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -149705,7 +149797,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on renewal; check the price in the cart.",
+      "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149934,7 +150026,8 @@ export const reviewsData: unknown[] = [
           "¿Un VPS es más rápido que el hosting compartido? No lo medimos. Lo que el VPS garantiza son recursos reservados: CPU, memoria y disco son tuyos, mientras que en el compartido el servidor se divide. Para un sitio común, rara vez es el cuello de botella.",
           "¿Puedo empezar en el compartido y pasar a un VPS después? Sí. Son productos distintos: contratas el VPS, instalas el servidor y llevas el sitio. El hosting compartido no se convierte en VPS desde el panel.",
           "¿Necesito saber Linux para tener un VPS? Sí, lo básico de terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no necesitas usar la terminal.",
-          "¿Un VPS aguanta WordPress? Sí, pero tú instalas y mantienes el servidor web, PHP y la base de datos. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor."
+          "¿Un VPS aguanta WordPress? Sí, pero tú instalas y mantienes el servidor web, PHP y la base de datos. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -149947,7 +150040,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes con el SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -150176,7 +150269,8 @@ export const reviewsData: unknown[] = [
           "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Nous ne l'avons pas mesuré. Ce que le VPS garantit, ce sont des ressources réservées : CPU, mémoire et disque sont à vous, alors que sur le mutualisé le serveur est partagé. Pour un site ordinaire, c'est rarement le goulot d'étranglement.",
           "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et y transférez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
           "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. Sur le mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
-          "Un VPS supporte-t-il WordPress ? Oui, mais vous installez et maintenez le serveur web, PHP et la base de données. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur."
+          "Un VPS supporte-t-il WordPress ? Oui, mais vous installez et maintenez le serveur web, PHP et la base de données. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -150189,7 +150283,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier.",
+      "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits avec le SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -150418,7 +150512,8 @@ export const reviewsData: unknown[] = [
           "Il VPS è più veloce dell'hosting condiviso? Non l'abbiamo misurato. Ciò che il VPS garantisce sono risorse riservate: CPU, memoria e disco sono tuoi, mentre sul condiviso il server è diviso. Per un sito comune, raramente è il collo di bottiglia.",
           "Posso iniziare sul condiviso e passare al VPS dopo? Sì. Sono prodotti diversi: sottoscrivi il VPS, installi il server e porti il sito. L'hosting condiviso non si converte in VPS dall'interno del pannello.",
           "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non devi usare il terminale.",
-          "Il VPS regge WordPress? Sì, ma installi e mantieni tu il server web, PHP e il database. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server."
+          "Il VPS regge WordPress? Sì, ma installi e mantieni tu il server web, PHP e il database. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -150431,7 +150526,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani con il SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -150660,7 +150755,8 @@ export const reviewsData: unknown[] = [
           "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatzplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
           "Kann man mit Shared Hosting anfangen und später zum VPS wechseln? Ja. Es sind verschiedene Produkte: Man schließt den VPS ab, installiert den Server und zieht die Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
           "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
-          "Schafft ein VPS WordPress? Ja, aber man installiert und wartet Webserver, PHP und Datenbank selbst. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server."
+          "Schafft ein VPS WordPress? Ja, aber man installiert und wartet Webserver, PHP und Datenbank selbst. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -150673,7 +150769,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -150902,7 +150998,8 @@ export const reviewsData: unknown[] = [
           "VPS は共有ホスティングより速いですか？ 計測していません。VPS が保証するのは専用のリソースです。CPU、メモリ、ディスクが自分のもので、共有ホスティングではサーバーを分け合います。普通のサイトでは、そこがボトルネックになることはまずありません。",
           "まず共有ホスティングで始めて、後から VPS に移れますか？ 移れます。別の商品なので、VPS を契約し、サーバーを構築して、サイトを移します。共有ホスティングをパネルの中から VPS に変換することはできません。",
           "VPS を使うのに Linux は必要ですか？ はい、ターミナルの基本は必要です。プログラムの導入、システムのアップデート、ログの読み方です。共有ホスティングでは全部パネルから行え、ターミナルは必須ではありません。",
-          "VPS で WordPress は動きますか？ 動きますが、ウェブサーバー、PHP、データベースの導入と維持は自分で行います。共有ホスティングでは WordPress がパネルにあらかじめ用意され、サーバーは Hostinger が面倒を見ます。"
+          "VPS で WordPress は動きますか？ 動きますが、ウェブサーバー、PHP、データベースの導入と維持は自分で行います。共有ホスティングでは WordPress がパネルにあらかじめ用意され、サーバーは Hostinger が面倒を見ます。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -150915,7 +151012,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時も20%割引が適用されます。カートで価格を確認してください。",
+      "text": "カートのクーポン欄にコード SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
       "label": "SONAR20 でプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -151144,7 +151241,8 @@ export const reviewsData: unknown[] = [
           "VPS는 공유 호스팅보다 빠른가요? 측정하지 않았습니다. VPS가 보장하는 것은 예약된 자원입니다. CPU, 메모리, 디스크가 이용자 몫이고, 공유 호스팅에서는 서버를 나눠 씁니다. 일반 사이트에서는 이것이 병목이 되는 일이 드뭅니다.",
           "공유 호스팅으로 시작했다가 나중에 VPS로 옮길 수 있나요? 가능합니다. 서로 다른 상품이라서, VPS를 계약하고 서버를 설치한 뒤 사이트를 옮기면 됩니다. 공유 호스팅을 패널 안에서 VPS로 전환할 수는 없습니다.",
           "VPS를 쓰려면 Linux를 알아야 하나요? 네, 터미널 기본은 필요합니다. 프로그램 설치, 시스템 업데이트, 로그 읽기 같은 것들입니다. 공유 호스팅에서는 모든 것이 패널로 이루어져 터미널이 꼭 필요하지 않습니다.",
-          "VPS에서 WordPress가 돌아가나요? 돌아가지만, 웹 서버, PHP, 데이터베이스를 직접 설치하고 관리해야 합니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다."
+          "VPS에서 WordPress가 돌아가나요? 돌아가지만, 웹 서버, PHP, 데이터베이스를 직접 설치하고 관리해야 합니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다.",
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -151157,7 +151255,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 갱신에도 20% 할인이 적용됩니다. 장바구니에서 가격을 확인하세요.",
+      "text": "장바구니의 쿠폰 입력란에 코드 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -151386,7 +151484,8 @@ export const reviewsData: unknown[] = [
           "VPS 比共享主机快吗？我们没有测过。VPS 保证的是独享资源：CPU、内存和硬盘都是你的，而共享主机的服务器是大家分用的。对普通网站来说，这很少是瓶颈。",
           "可以先用共享主机，以后再迁到 VPS 吗？可以。两者是不同的产品：你订购 VPS，搭好服务器，再把网站迁过去。共享主机不能在面板里直接转成 VPS。",
           "用 VPS 需要懂 Linux 吗？需要，至少要会终端的基本操作：安装程序、更新系统、看日志。共享主机则一切通过面板完成，不必使用终端。",
-          "VPS 能跑 WordPress 吗？能，但 Web 服务器、PHP 和数据库要你自己安装和维护。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。"
+          "VPS 能跑 WordPress 吗？能，但 Web 服务器、PHP 和数据库要你自己安装和维护。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -151399,7 +151498,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认价格。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "用 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -151628,7 +151727,8 @@ export const reviewsData: unknown[] = [
           "VPS 比共享主機快嗎？我們沒有測過。VPS 保證的是獨享資源：CPU、記憶體與硬碟都是你的，而共享主機的伺服器是大家分用的。對一般網站來說，這很少是瓶頸。",
           "可以先用共享主機，之後再遷到 VPS 嗎？可以。兩者是不同的產品：你訂購 VPS，架好伺服器，再把網站遷過去。共享主機不能在面板裡直接轉成 VPS。",
           "用 VPS 需要懂 Linux 嗎？需要，至少要會終端機的基本操作：安裝程式、更新系統、看日誌。共享主機則一切透過面板完成，不必使用終端機。",
-          "VPS 能跑 WordPress 嗎？能，但 Web 伺服器、PHP 與資料庫要你自己安裝與維護。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。"
+          "VPS 能跑 WordPress 嗎？能，但 Web 伺服器、PHP 與資料庫要你自己安裝與維護。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
       },
       {
@@ -151641,7 +151741,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣也適用於續約，請在購物車確認價格。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -158072,7 +158172,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 e preço do Reach",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. O Bruno testou no Reach: o carrinho mostrou o Reach 500 (o Grow) de 24 meses a R$ 8,99/mês, R$ 215,76 no total; com o SONAR20, ficou em R$ 172,61, ou R$ 7,19/mês. Na renovação, os 20% também valem: R$ 8,99/mês cai para R$ 7,19/mês.",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. O Bruno testou no Reach: o carrinho mostrou o Reach 500 (o Grow) de 24 meses a R$ 8,99/mês, R$ 215,76 no total; com o SONAR20, ficou em R$ 172,61, ou R$ 7,19/mês. A renovação sai pelo preço de tabela, sem os 20%.",
           "No mesmo dia, a página mostrava o Grow de 24 meses a R$ 6,29/mês, o preço de Black Friday. Confira no carrinho qual preço vale para você e quanto o SONAR20 tira dele. Nos outros planos e períodos do Reach, não testamos; confira no carrinho. A regra completa do código está em [cupons da Hostinger](/cupons/hostinger)."
         ]
       },
@@ -158094,7 +158194,8 @@ export const reviewsData: unknown[] = [
           "O Hostinger Reach tem WhatsApp? Tem, só no plano Pro. A página não mostra o custo por mensagem; confira no painel.",
           "O que é o Reach 500? É o nome do plano Grow no carrinho da Hostinger, pelo limite de 500 destinatários. Ele manda 3.500 e-mails por mês.",
           "Hostinger Reach ou Mailchimp? Para lista de até 1.000 destinatários, o Reach custa menos pelo preço publicado. Para começar sem pagar ou para lista maior, o Mailchimp.",
-          "O código SONAR20 vale no Hostinger Reach? Vale: no teste do Bruno, o Reach 500 de 24 meses foi de R$ 215,76 para R$ 172,61. Nos outros planos e períodos, não testamos; confira no carrinho."
+          "O código SONAR20 vale no Hostinger Reach? Vale: no teste do Bruno, o Reach 500 de 24 meses foi de R$ 215,76 para R$ 172,61. Nos outros planos e períodos, não testamos; confira no carrinho.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -158346,7 +158447,8 @@ export const reviewsData: unknown[] = [
           "Does Hostinger Reach have WhatsApp? Yes, only in the Pro plan. The page does not show the cost per message; check the dashboard.",
           "What is Reach 500? It is the name Grow takes in the Hostinger cart, after its limit of 500 recipients. It sends 3,500 emails a month.",
           "Hostinger Reach or Mailchimp? For a list of up to 1,000 recipients and a Hostinger site, Reach. To start for free, or for a list above 1,000 contacts, Mailchimp or Brevo.",
-          "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods it was not tested; check the cart."
+          "Does the SONAR20 code work on Hostinger Reach? Yes: in Bruno's test, the discount applied to Reach 500 for 24 months. For the other plans and periods it was not tested; check the cart.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -158598,7 +158700,8 @@ export const reviewsData: unknown[] = [
           "¿Hostinger Reach tiene WhatsApp? Sí, solo en el plan Pro. La página no muestra el costo por mensaje; revisa el panel.",
           "¿Qué es Reach 500? Es el nombre que Grow tiene en el carrito de Hostinger, por su límite de 500 destinatarios. Envía 3.500 correos al mes.",
           "¿Hostinger Reach o Mailchimp? Para una lista de hasta 1.000 destinatarios y un sitio en Hostinger, Reach. Para empezar gratis o para una lista de más de 1.000 contactos, Mailchimp o Brevo.",
-          "¿El código SONAR20 vale en Hostinger Reach? Vale: en la prueba de Bruno, el descuento se aplicó al Reach 500 de 24 meses. En los otros planes y períodos no se probó; revisa el carrito."
+          "¿El código SONAR20 vale en Hostinger Reach? Vale: en la prueba de Bruno, el descuento se aplicó al Reach 500 de 24 meses. En los otros planes y períodos no se probó; revisa el carrito.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -158850,7 +158953,8 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach a-t-il WhatsApp ? Oui, seulement dans le forfait Pro. La page n'indique pas le coût par message ; consultez le tableau de bord.",
           "Qu'est-ce que Reach 500 ? C'est le nom que prend Grow dans le panier Hostinger, d'après sa limite de 500 destinataires. Il envoie 3 500 e-mails par mois.",
           "Hostinger Reach ou Mailchimp ? Pour une liste allant jusqu'à 1 000 destinataires et un site chez Hostinger, Reach. Pour démarrer gratuitement ou pour une liste de plus de 1 000 contacts, Mailchimp ou Brevo.",
-          "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Oui : lors du test de Bruno, la réduction s'est appliquée à Reach 500 pour 24 mois. Pour les autres forfaits et périodes, il n'a pas été testé ; vérifiez le panier."
+          "Le code SONAR20 fonctionne-t-il sur Hostinger Reach ? Oui : lors du test de Bruno, la réduction s'est appliquée à Reach 500 pour 24 mois. Pour les autres forfaits et périodes, il n'a pas été testé ; vérifiez le panier.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -159083,7 +159187,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 e il prezzo di Reach",
         "paragraphs": [
-          "Inserisci il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: ottieni il **20% sul primo periodo**. Bruno l'ha testato sul Reach 500 da 24 mesi, e lo sconto è stato applicato nel carrello.",
+          "Inserisci il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: ottieni il **20% sul primo periodo**. Bruno l'ha testato sul Reach 500 da 24 mesi, e lo sconto è stato applicato nel carrello. Il rinnovo si paga al prezzo di listino, senza il 20%.",
           "Il prezzo mostrato dalla pagina e quello del carrello possono differire lo stesso giorno: controlla il carrello per vedere quale prezzo si applica a te e quanto ne toglie il SONAR20. Sugli altri piani e periodi di Reach non è stato testato; controlla nel carrello. Le regole complete del codice sono in [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
@@ -159105,7 +159209,8 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach ha WhatsApp? Sì, solo nel piano Pro. La pagina non indica il costo per messaggio: controllalo nel pannello.",
           "Cos'è il Reach 500? È il nome che il Grow ha nel carrello di Hostinger, per il limite di 500 destinatari. Invia 3.500 email al mese.",
           "Hostinger Reach o Mailchimp? Per una lista fino a 1.000 destinatari e un sito su Hostinger, Reach. Per partire gratis o per una lista oltre i 1.000 contatti, Mailchimp o Brevo.",
-          "Il codice SONAR20 vale per Hostinger Reach? Sì: nel test di Bruno, lo sconto è stato applicato al Reach 500 da 24 mesi. Sugli altri piani e periodi non è stato testato; controlla nel carrello."
+          "Il codice SONAR20 vale per Hostinger Reach? Sì: nel test di Bruno, lo sconto è stato applicato al Reach 500 da 24 mesi. Sugli altri piani e periodi non è stato testato; controlla nel carrello.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -159360,7 +159465,8 @@ export const reviewsData: unknown[] = [
           "Hat Hostinger Reach WhatsApp? Ja, nur im Tarif Pro. Die Seite zeigt nicht die Kosten pro Nachricht; das sehen Sie im Dashboard.",
           "Was ist Reach 500? Das ist der Name des Grow-Tarifs im Hostinger-Warenkorb, nach dem Limit von 500 Empfängern. Er verschickt 3.500 E-Mails im Monat.",
           "Hostinger Reach oder Mailchimp? Für eine Liste bis 1.000 Empfänger und eine Hostinger-Website: Reach. Für einen kostenlosen Start oder eine Liste über 1.000 Kontakte: Mailchimp oder Brevo.",
-          "Gilt der Code SONAR20 bei Hostinger Reach? Ja: In Brunos Test wurde der Rabatt beim Reach 500 über 24 Monate angewendet. Bei den anderen Tarifen und Zeiträumen wurde er nicht getestet; prüfen Sie im Warenkorb."
+          "Gilt der Code SONAR20 bei Hostinger Reach? Ja: In Brunos Test wurde der Rabatt beim Reach 500 über 24 Monate angewendet. Bei den anderen Tarifen und Zeiträumen wurde er nicht getestet; prüfen Sie im Warenkorb.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -159615,7 +159721,8 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach に WhatsApp はある？ あります。Pro だけです。1通ごとの料金はページに書かれていないので、管理画面で確認してください。",
           "Reach 500 とは何？ カートで Grow に付いている名前で、宛先500件の上限を指します。月3,500通送れます。",
           "Hostinger Reach と Mailchimp、どちらが良い？ 宛先が1,000件までなら Reach です。無料で始めたい、またはリストがもっと大きいなら Mailchimp か Brevo です。",
-          "SONAR20 は Hostinger Reach でも使える？ 使えます。Bruno が試した Reach 500 の24か月プランで、割引が反映されました。ほかのプランや期間は試していないので、カートで確認してください。"
+          "SONAR20 は Hostinger Reach でも使える？ 使えます。Bruno が試した Reach 500 の24か月プランで、割引が反映されました。ほかのプランや期間は試していないので、カートで確認してください。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -159847,7 +159954,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20과 Reach 가격",
         "paragraphs": [
-          "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가세요. **첫 기간 20%**가 할인됩니다. Bruno가 Reach 500(Grow) 24개월 플랜으로 테스트했더니 할인이 적용됐습니다.",
+          "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가세요. **첫 기간 20%**가 할인됩니다. Bruno가 Reach 500(Grow) 24개월 플랜으로 테스트했더니 할인이 적용됐습니다. 갱신은 정가로 청구되며 20%는 붙지 않습니다.",
           "페이지의 가격과 장바구니의 가격은 다를 수 있습니다. 장바구니에서 어느 가격이 적용되는지, SONAR20이 거기서 얼마를 깎는지 확인하세요. 다른 플랜과 기간은 테스트하지 않았으니 장바구니에서 확인하세요. 코드의 전체 규칙은 [Hostinger 쿠폰](/ko/coupons/hostinger)에 있습니다."
         ]
       },
@@ -159869,7 +159976,8 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach에 WhatsApp이 있나요? 있습니다. Pro 플랜에만 있습니다. 메시지당 비용은 페이지에 나오지 않으니 관리 화면에서 확인하세요.",
           "Reach 500은 무엇인가요? 장바구니에서 Grow 플랜을 부르는 이름으로, 수신자 500명 한도를 뜻합니다. 월 3,500통을 보냅니다.",
           "Hostinger Reach와 Mailchimp 중 무엇이 나은가요? 수신자가 1,000명 이하라면 Reach입니다. 무료로 시작하고 싶거나 리스트가 더 크다면 Mailchimp나 Brevo입니다.",
-          "SONAR20이 Hostinger Reach에도 적용되나요? 적용됩니다. Bruno가 Reach 500 24개월 플랜으로 테스트했더니 할인이 적용됐습니다. 다른 플랜과 기간은 테스트하지 않았으니 장바구니에서 확인하세요."
+          "SONAR20이 Hostinger Reach에도 적용되나요? 적용됩니다. Bruno가 Reach 500 24개월 플랜으로 테스트했더니 할인이 적용됐습니다. 다른 플랜과 기간은 테스트하지 않았으니 장바구니에서 확인하세요.",
+          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -159882,7 +159990,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요: 첫 기간 20% 할인. Reach 500 24개월은 테스트했고, 다른 플랜은 장바구니에서 확인하세요.",
+      "text": "쿠폰 코드 SONAR20을 장바구니의 쿠폰 칸에 넣거나 이 링크로 들어가세요: 첫 기간 20% 할인. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. Reach 500 24개월은 테스트했고, 다른 플랜은 장바구니에서 확인하세요.",
       "label": "SONAR20로 Reach 플랜 보기",
       "url": "https://www.hostinger.com/reach?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -160102,7 +160210,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 与 Reach 价格",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可享受**首个周期 20%** 的折扣。Bruno 用 Reach 500（Grow）的 24 个月套餐测试过，折扣已生效。",
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可享受**首个周期 20%** 的折扣。Bruno 用 Reach 500（Grow）的 24 个月套餐测试过，折扣已生效。续费按标价收费，没有这 20%。",
           "页面价格与购物车价格可能不同。请在购物车里确认实际适用哪个价格，以及 SONAR20 能从中减多少。其他套餐和周期没有测试，请在购物车确认。优惠码的完整规则见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
         ]
       },
@@ -160124,7 +160232,8 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach 有 WhatsApp 吗？有，只在 Pro 套餐中。页面没有显示每条消息的费用，请在后台确认。",
           "Reach 500 是什么？它是购物车中 Grow 套餐的名称，对应 500 名收件人的上限，每月 3,500 封邮件。",
           "Hostinger Reach 还是 Mailchimp？如果收件人在 1,000 人以内，选 Reach。如果想免费开始，或名单超过 1,000 人，选 Mailchimp 或 Brevo。",
-          "SONAR20 适用于 Hostinger Reach 吗？适用。Bruno 用 Reach 500 的 24 个月套餐测试过，折扣已生效。其他套餐和周期没有测试，请在购物车确认。"
+          "SONAR20 适用于 Hostinger Reach 吗？适用。Bruno 用 Reach 500 的 24 个月套餐测试过，折扣已生效。其他套餐和周期没有测试，请在购物车确认。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -160379,7 +160488,8 @@ export const reviewsData: unknown[] = [
           "Hostinger Reach 有 WhatsApp 嗎？有，只在 Pro 方案裡。頁面沒有顯示每則訊息的費用，請在後台確認。",
           "Reach 500 是什麼？它是購物車中 Grow 方案的名稱，對應 500 位收件人的上限，每月 3,500 封郵件。",
           "Hostinger Reach 還是 Mailchimp？如果收件人在 1,000 人以內，選 Reach。如果想免費開始，或名單超過 1,000 人，選 Mailchimp 或 Brevo。",
-          "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間沒有測試，請在購物車確認。"
+          "SONAR20 適用於 Hostinger Reach 嗎？適用。Bruno 用 Reach 500 的 24 個月方案測試過，折扣已生效。其他方案和期間沒有測試，請在購物車確認。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
@@ -160695,7 +160805,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 na Hostinger",
         "paragraphs": [
-          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, o e-mail profissional e o Reach. O código vale no VPS e na renovação. Nos planos de hospedagem desta tabela, não testamos; confira no carrinho. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
+          "Use o código **SONAR20** no campo de cupom do carrinho, ou entre pelo link deste artigo: são **20% no primeiro período**. Testamos no carrinho em três produtos: o plano Startup de e-commerce, do Criador de lojas, o e-mail profissional e o Reach. O código vale no VPS e em toda compra nova; na renovação, não. Nos planos de hospedagem desta tabela, não testamos; confira no carrinho. A regra completa está em [cupons da Hostinger](/cupons/hostinger).",
           "Não temos código nem link da HostGator. Os preços dela neste artigo são os da página, sem desconto nosso."
         ]
       },
@@ -160716,7 +160826,8 @@ export const reviewsData: unknown[] = [
           "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
           "A Hostinger tem servidor no Brasil? As páginas de planos que lemos não dizem onde fica o servidor. A HostGator declara servidores no Brasil.",
           "O cupom SONAR20 vale no VPS da Hostinger? Vale. Testamos no plano Startup de e-commerce, do Criador de lojas, e o desconto é de 20% no primeiro período.",
-          "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer."
+          "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -160739,7 +160850,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos com o SONAR20",
       "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -160935,7 +161046,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 on Hostinger",
         "paragraphs": [
-          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table, we did not test it; check in the cart. The code also works on the VPS and on renewal. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
+          "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table, we did not test it; check in the cart. The code also works on the VPS and on every new purchase; on renewal, it does not. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
@@ -160955,7 +161066,8 @@ export const reviewsData: unknown[] = [
           "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
           "Does Hostinger say where its servers are? The plan pages do not say where the server is. Ask support before you buy.",
           "Does the SONAR20 code work on the VPS? Yes, it works on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
-          "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires."
+          "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -160968,7 +161080,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% also apply on renewal; check the renewal price in the cart.",
+      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
       "label": "See the hosting plans with SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -161174,7 +161286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 en Hostinger",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: **20% en el primer período**. Lo probamos en el carrito con tres productos: el plan Startup de e-commerce, del creador de tiendas, el correo profesional y el Reach. En los planes de hosting de esta tabla, no lo probamos; confirma en el carrito. El código también vale en el VPS y en la renovación. La regla completa está en [cupones de Hostinger](/es/coupons/hostinger)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: **20% en el primer período**. Lo probamos en el carrito con tres productos: el plan Startup de e-commerce, del creador de tiendas, el correo profesional y el Reach. En los planes de hosting de esta tabla, no lo probamos; confirma en el carrito. El código también vale en el VPS y en toda compra nueva; en la renovación, no. La regla completa está en [cupones de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -161194,7 +161306,8 @@ export const reviewsData: unknown[] = [
           "¿Vale la pena el VPS de Hostinger? Depende de la carga que tenga el sitio. Compara vCPU, memoria y renovación: el KVM 1 renueva a 11,99 US$ al mes en el sitio internacional.",
           "¿Hostinger dice dónde están sus servidores? Las páginas de planes no dicen dónde está el servidor. Pregunta al soporte antes de comprar.",
           "¿El código SONAR20 vale en el VPS? Sí, vale en el VPS. Lo probamos en el plan Startup de e-commerce, del creador de tiendas, y dio 20% en el primer período.",
-          "¿Se puede cambiar de hosting sin perder el sitio? Sí, pasando los archivos y la base de datos al nuevo hosting. Haz el cambio antes de que venza el plan anterior."
+          "¿Se puede cambiar de hosting sin perder el sitio? Sí, pasando los archivos y la base de datos al nuevo hosting. Haz el cambio antes de que venza el plan anterior.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -161207,7 +161320,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes de hosting con el SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -161413,7 +161526,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le code SONAR20 chez Hostinger",
         "paragraphs": [
-          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, l'e-mail professionnel et Reach. Sur les forfaits d'hébergement de ce tableau, nous ne l'avons pas testé : vérifiez dans le panier. Le code vaut sur le VPS. Les 20 % valent aussi sur le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger)."
+          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, l'e-mail professionnel et Reach. Sur les forfaits d'hébergement de ce tableau, nous ne l'avons pas testé : vérifiez dans le panier. Le code vaut sur le VPS et sur tout nouvel achat, mais pas sur le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -161433,7 +161546,8 @@ export const reviewsData: unknown[] = [
           "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
           "Hostinger indique-t-il où se trouvent ses serveurs ? Les pages de forfaits n'indiquent pas où se trouve le serveur. Demandez au support avant d'acheter.",
           "Le code SONAR20 fonctionne-t-il sur le VPS ? Oui, il vaut sur le VPS. Nous l'avons testé sur le forfait Startup e-commerce, du créateur de boutiques, et il a donné 20 % sur la première période.",
-          "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait."
+          "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -161446,7 +161560,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier.",
+      "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits d'hébergement avec le SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -161652,7 +161766,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 con la Hostinger",
         "paragraphs": [
-          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, l'e-mail professionale e il Reach. Sui piani di hosting di questa tabella non l'abbiamo testato; controlla nel carrello. Il codice vale anche sul VPS e sul rinnovo. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
+          "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, l'e-mail professionale e il Reach. Sui piani di hosting di questa tabella non l'abbiamo testato; controlla nel carrello. Il codice vale anche sul VPS e su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -161672,7 +161786,8 @@ export const reviewsData: unknown[] = [
           "Conviene il VPS della Hostinger? Dipende dal carico del sito. Confronta vCPU, memoria e rinnovo: il KVM 1 si rinnova a 11,99 US$ al mese sul sito internazionale.",
           "La Hostinger dice dove si trovano i suoi server? Le pagine dei piani non dicono dove si trova il server. Chiedilo al supporto prima di pagare.",
           "Il codice SONAR20 vale sul VPS? Sì. L'abbiamo provato sul piano Startup di e-commerce, del costruttore di negozi, e ha dato il 20% sul primo periodo.",
-          "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio."
+          "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -161685,7 +161800,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani di hosting con il SONAR20",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -161891,7 +162006,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Gutschein SONAR20 bei Hostinger",
         "paragraphs": [
-          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link in diesem Artikel: Sie erhalten **20 % auf den ersten Zeitraum**. Wir haben den Code im Warenkorb bei drei Produkten getestet: beim Startup-Tarif für E-Commerce aus dem Shop-Ersteller, bei der professionellen E-Mail und bei Reach. Bei den Hosting-Tarifen dieser Tabelle haben wir nicht getestet; prüfen Sie es im Warenkorb. Beim VPS gilt der Code. Die 20 % gelten auch bei der Verlängerung. Alle Regeln stehen auf der Seite der [Hostinger-Gutscheine](/de/coupons/hostinger)."
+          "Geben Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs ein oder öffnen Sie den Link in diesem Artikel: Sie erhalten **20 % auf den ersten Zeitraum**. Wir haben den Code im Warenkorb bei drei Produkten getestet: beim Startup-Tarif für E-Commerce aus dem Shop-Ersteller, bei der professionellen E-Mail und bei Reach. Bei den Hosting-Tarifen dieser Tabelle haben wir nicht getestet; prüfen Sie es im Warenkorb. Beim VPS gilt der Code. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Alle Regeln stehen auf der Seite der [Hostinger-Gutscheine](/de/coupons/hostinger)."
         ]
       },
       {
@@ -161911,7 +162026,8 @@ export const reviewsData: unknown[] = [
           "Lohnt sich der VPS der Hostinger? Das hängt von der Last der Website ab. Vergleichen Sie vCPU, Arbeitsspeicher und Verlängerung: Der KVM 1 verlängert sich zu 11,99 US$ pro Monat auf der internationalen Seite.",
           "Sagt die Hostinger, wo ihre Server stehen? Die Tarifseiten sagen nicht, wo der Server steht. Fragen Sie vor dem Kauf den Support.",
           "Gilt der Code SONAR20 beim VPS? Ja, SONAR20 gilt beim VPS; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce aus dem Shop-Ersteller, und er gab 20 % auf den ersten Zeitraum.",
-          "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft."
+          "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -161924,7 +162040,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung: Prüfen Sie den Preis im Warenkorb.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Hosting-Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162130,7 +162246,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "HostingerのクーポンSONAR20",
         "paragraphs": [
-          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ると、**最初の期間が20%割引**になります。カートで試したのは3つです。ショップ作成ツールのE-commerce向けStartupプラン、プロ仕様のメール、Reachです。この表のホスティングプランは試していません。VPSでも使えます。更新時も20%割引が適用されます。カートで確認してください。ルールの詳細は[Hostingerのクーポン](/ja/coupons/hostinger)にあります。"
+          "カートのクーポン欄に **SONAR20** を入れるか、この記事のリンクから入ると、**最初の期間が20%割引**になります。カートで試したのは3つです。ショップ作成ツールのE-commerce向けStartupプラン、プロ仕様のメール、Reachです。この表のホスティングプランは試していません。VPSでも使えます。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。ルールの詳細は[Hostingerのクーポン](/ja/coupons/hostinger)にあります。"
         ]
       },
       {
@@ -162150,7 +162266,8 @@ export const reviewsData: unknown[] = [
           "VPSはどのプランから見ればいいですか？ 入門のKVM 1（1 vCPU、4 GB、50 GB NVMe）は、24か月契約で割引価格が月額US$6.49、更新後は月額US$11.99です。KVM 2は2 vCPU、8 GBで、割引価格は月額US$8.79です。長い期間で契約する前に、カートで更新料を確認してください。",
           "Hostingerには国内サーバーがありますか？ 確認したプランのページには、サーバーの場所が書かれていませんでした。大事なら、支払う前にサポートに聞いてください。",
           "SONAR20はVPSでも使えますか？ VPSでも使えます。カートで確認してください。試したのはE-commerce向けのStartupプランで、割引は最初の期間の20%です。",
-          "サイトを消さずに別のサーバーへ移せますか？ はい。ファイルとデータベースを新しいサーバーに移せば可能です。新しいサービスが無料の移行に対応しているか確認し、古いプランの期限が切れる前に移してください。"
+          "サイトを消さずに別のサーバーへ移せますか？ はい。ファイルとデータベースを新しいサーバーに移せば可能です。新しいサービスが無料の移行に対応しているか確認し、古いプランの期限が切れる前に移してください。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -162163,7 +162280,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。更新時も20%割引が適用されます。カートで料金を確かめてください。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。最初の期間が20%割引です。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
       "label": "SONAR20で料金プランを見る",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162368,7 +162485,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰",
         "paragraphs": [
-          "카트의 쿠폰 칸에 **SONAR20**을 입력하거나 이 글의 링크로 들어가면 **첫 기간 20% 할인**이 적용됩니다. 카트에서 테스트한 것은 세 가지입니다. 스토어 빌더의 Startup 이커머스 플랜, 전문 이메일, Reach입니다. 이 표의 호스팅 플랜은 테스트하지 않았으니 카트에서 확인하세요. VPS에도 적용됩니다. 갱신에도 20% 할인이 적용됩니다. 규칙 전체는 [호스팅어 쿠폰](/ko/coupons/hostinger)에 있습니다."
+          "카트의 쿠폰 칸에 **SONAR20**을 입력하거나 이 글의 링크로 들어가면 **첫 기간 20% 할인**이 적용됩니다. 카트에서 테스트한 것은 세 가지입니다. 스토어 빌더의 Startup 이커머스 플랜, 전문 이메일, Reach입니다. 이 표의 호스팅 플랜은 테스트하지 않았으니 카트에서 확인하세요. VPS와 모든 신규 구매에 적용되며, 갱신에는 적용되지 않습니다. 규칙 전체는 [호스팅어 쿠폰](/ko/coupons/hostinger)에 있습니다."
         ]
       },
       {
@@ -162388,7 +162505,8 @@ export const reviewsData: unknown[] = [
           "VPS는 어떤 플랜부터 보면 되나요? 입문 플랜인 KVM 1(1 vCPU, 4 GB, 50 GB NVMe)은 24개월 기준 프로모션가가 월 US$ 6.49, 갱신가가 월 US$ 11.99입니다. KVM 2는 2 vCPU, 8 GB이고 프로모션가는 월 US$ 8.79입니다. 긴 기간으로 결제하기 전에 카트에서 갱신가를 확인하세요.",
           "호스팅어 서버는 어느 나라에 있나요? 확인한 플랜 페이지에는 서버 위치가 적혀 있지 않았습니다. 중요하다면 결제 전에 고객 지원에 문의하세요.",
           "SONAR20은 VPS에도 적용되나요? 네, VPS에도 적용됩니다. 테스트한 것은 스토어 빌더의 Startup 이커머스 플랜이고, 할인은 첫 기간 20%입니다.",
-          "사이트를 잃지 않고 호스팅을 옮길 수 있나요? 가능합니다. 파일과 데이터베이스를 새 호스팅으로 옮기면 됩니다. 새 호스팅이 무료 이전을 제공하는지 확인하고, 기존 플랜이 끝나기 전에 옮기세요."
+          "사이트를 잃지 않고 호스팅을 옮길 수 있나요? 가능합니다. 파일과 데이터베이스를 새 호스팅으로 옮기면 됩니다. 새 호스팅이 무료 이전을 제공하는지 확인하고, 기존 플랜이 끝나기 전에 옮기세요.",
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -162401,7 +162519,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "카트의 쿠폰 칸에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 갱신에도 20% 할인이 적용됩니다. 카트에서 가격을 확인하세요.",
+      "text": "카트의 쿠폰 칸에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간에 20%가 할인됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "SONAR20으로 플랜 보기",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162607,7 +162725,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 优惠码",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，**首个周期享 20% 折扣**。我们在购物车里测试了三项产品：商店建站工具的 Startup 电商套餐、专业邮箱和 Reach。这张表里的主机套餐和 VPS 都适用，续费时也适用，请在购物车确认价格。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，**首个周期享 20% 折扣**。我们在购物车里测试了三项产品：商店建站工具的 Startup 电商套餐、专业邮箱和 Reach。这张表里的主机套餐和 VPS 都适用，请在购物车确认价格。这 20% 适用于所有新购；续费按标价收费，没有折扣。完整规则见 [Hostinger 优惠码](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -162627,7 +162745,8 @@ export const reviewsData: unknown[] = [
           "VPS 从哪个套餐看起？入门的 KVM 1（1 vCPU，4 GB，50 GB NVMe）按 24 个月计，促销价每月 US$ 6.49，续费价每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促销价每月 US$ 8.79。购买长周期之前，先在购物车确认续费价。",
           "Hostinger 的服务器在哪个国家？我们查看的套餐页面没有写明服务器位置。如果这对你重要，付款前请问客服。",
           "SONAR20 能用在 VPS 上吗？能，VPS 也适用，请在购物车确认。测试过的是商店建站工具的 Startup 电商套餐，优惠是首个周期 20%。",
-          "能换主机而不丢失网站吗？可以，把文件和数据库迁到新主机即可。确认新主机是否提供免费迁移，并在旧套餐到期前完成。"
+          "能换主机而不丢失网站吗？可以，把文件和数据库迁到新主机即可。确认新主机是否提供免费迁移，并在旧套餐到期前完成。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -162640,7 +162759,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接进入：首个周期享 20% 折扣。SONAR20 的 20% 折扣在续费时也有效，请在购物车确认。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本文链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
       "label": "通过 SONAR20 查看套餐",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -162846,7 +162965,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼",
         "paragraphs": [
-          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，**首期享 20% 折扣**。我們在購物車裡測試了三項產品：商店建站工具的 Startup 電商方案、專業電子郵件和 Reach。這張表裡的主機方案沒有測試，請在購物車確認。VPS 也適用，續訂價同樣適用。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
+          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，**首期享 20% 折扣**。我們在購物車裡測試了三項產品：商店建站工具的 Startup 電商方案、專業電子郵件和 Reach。這張表裡的主機方案沒有測試，請在購物車確認。VPS 也適用。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。完整規則見 [Hostinger 優惠碼](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -162866,7 +162985,8 @@ export const reviewsData: unknown[] = [
           "VPS 從哪個方案看起？入門的 KVM 1（1 vCPU，4 GB，50 GB NVMe）以 24 個月計，促銷價每月 US$ 6.49，續訂價每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促銷價每月 US$ 8.79。購買長週期之前，先在購物車確認續訂價。",
           "Hostinger 的伺服器在哪個國家？我們查看的方案頁面沒有寫明伺服器位置。如果這對你很重要，付款前請問客服。",
           "SONAR20 能用在 VPS 上嗎？能，請在購物車確認。測試過的是商店建站工具的 Startup 電商方案，優惠是首期 20%。",
-          "能換主機而不遺失網站嗎？可以，把檔案和資料庫搬到新主機即可。請確認新主機是否提供免費搬遷，並在舊方案到期前完成。"
+          "能換主機而不遺失網站嗎？可以，把檔案和資料庫搬到新主機即可。請確認新主機是否提供免費搬遷，並在舊方案到期前完成。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
@@ -162879,7 +162999,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。續訂時的 20% 折扣也適用，請在購物車確認。",
+      "text": "在購物車的優惠碼欄位輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
       "label": "用 SONAR20 查看方案",
       "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -163078,7 +163198,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom SONAR20 e preço",
         "paragraphs": [
-          "O código **SONAR20** dá **20% no primeiro período**, no campo de cupom do carrinho ou pelo link deste artigo. O SONAR20 vale nos planos de WordPress; confira o preço no carrinho antes de pagar. Depois do primeiro período, vale a coluna da renovação, e os 20% do SONAR20 também valem sobre ela. A regra do código e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger)."
+          "O código **SONAR20** dá **20% no primeiro período**, no campo de cupom do carrinho ou pelo link deste artigo. O SONAR20 vale nos planos de WordPress; confira o preço no carrinho antes de pagar. Depois do primeiro período, vale a coluna da renovação, sem os 20% do SONAR20. A regra do código e os outros produtos estão em [cupons da Hostinger](/cupons/hostinger)."
         ]
       },
       {
@@ -163097,7 +163217,8 @@ export const reviewsData: unknown[] = [
           "O WordPress vem instalado na Hostinger? A página diz que todos os planos incluem WordPress e cita um instalador de 1 clique no painel. Ela não detalha a instalação por plano.",
           "A Hostinger usa LiteSpeed no WordPress? A página fala em servidores LiteSpeed e cache inteligente na hospedagem WordPress, sem dizer em quais planos.",
           "Qual plano de WordPress da Hostinger para loja virtual? O Unlimited, pelos backups diários e sites ilimitados. Para loja com muito tráfego, o Cloud Startup, com backup sob demanda.",
-          "O cupom SONAR20 vale no plano de WordPress da Hostinger? Vale: nos planos de WordPress, com 20% no primeiro período. Confira no carrinho."
+          "O cupom SONAR20 vale no plano de WordPress da Hostinger? Vale: nos planos de WordPress, com 20% no primeiro período. Confira no carrinho.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -163292,7 +163413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 code and price",
         "paragraphs": [
-          "Enter the code **SONAR20** in the cart's coupon field, or come in through this article's link: it gives **20% off the first period**. SONAR20 works on the WordPress plans; check the price in the cart before paying. After the first period, the renewal column applies, and the 20% from SONAR20 apply to it too. The rules for the code and the other products are in [Hostinger coupons](/en/coupons/hostinger)."
+          "Enter the code **SONAR20** in the cart's coupon field, or come in through this article's link: it gives **20% off the first period**. SONAR20 works on the WordPress plans; check the price in the cart before paying. After the first period, the renewal column applies, without the 20% from SONAR20. The rules for the code and the other products are in [Hostinger coupons](/en/coupons/hostinger)."
         ]
       },
       {
@@ -163310,7 +163431,8 @@ export const reviewsData: unknown[] = [
           "Does WordPress come installed on Hostinger? You install it from the hosting panel, without downloading files by hand. The checklist above covers the steps.",
           "Which WordPress plan suits an online store? Unlimited, for its daily backups and unlimited sites. For a store with heavy traffic, Cloud Startup.",
           "Does the SONAR20 code work on the WordPress plans? Yes; check the price in the cart. It gives 20% off the first period.",
-          "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month."
+          "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -163505,7 +163627,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupón SONAR20 y precio",
         "paragraphs": [
-          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. El SONAR20 vale en los planes de WordPress; confirma el precio en el carrito antes de pagar. Después del primer período, vale la columna de renovación, y el 20 % de SONAR20 también se aplica ahí. Las reglas del código y los otros productos están en [cupones de Hostinger](/es/coupons/hostinger)."
+          "Usa el código **SONAR20** en el campo de cupón del carrito, o entra por el enlace de este artículo: son **20% en el primer período**. El SONAR20 vale en los planes de WordPress; confirma el precio en el carrito antes de pagar. Después del primer período, vale la columna de renovación, sin los 20 % de SONAR20. Las reglas del código y los otros productos están en [cupones de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -163523,7 +163645,8 @@ export const reviewsData: unknown[] = [
           "¿Viene WordPress instalado en Hostinger? Lo instalas desde el panel de hosting, sin descargar archivos a mano. La lista de arriba explica los pasos.",
           "¿Qué plan de WordPress conviene para una tienda online? Unlimited, por sus backups diarios y los sitios ilimitados. Para una tienda con mucho tráfico, Cloud Startup.",
           "¿Funciona el código SONAR20 en los planes de WordPress? Sí; confirma el precio en el carrito. Da 20% en el primer período.",
-          "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, 10,99 US$ al mes."
+          "¿El precio de renovación es igual al promocional? No. Después del primer período de 48 meses vale el precio de renovación: en Premium, 10,99 US$ al mes.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -163718,7 +163841,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Code SONAR20 et prix",
         "paragraphs": [
-          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Le SONAR20 vaut sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique, et les 20 % de SONAR20 s'y appliquent aussi. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger)."
+          "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Le SONAR20 vaut sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique, sans les 20 % de SONAR20. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -163736,7 +163859,8 @@ export const reviewsData: unknown[] = [
           "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
           "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
           "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Oui, il donne 20 % sur la première période ; vérifiez le prix dans le panier.",
-          "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois."
+          "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -163931,7 +164055,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Coupon SONAR20 e prezzo",
         "paragraphs": [
-          "Il codice **SONAR20** dà il **20% sul primo periodo**, nel campo coupon del carrello o dal link di questo articolo. Il SONAR20 vale sui piani WordPress: controlla il prezzo nel carrello prima di pagare. Dopo il primo periodo vale la colonna del rinnovo, e il 20% di SONAR20 si applica anche lì. Le regole del codice e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger)."
+          "Il codice **SONAR20** dà il **20% sul primo periodo**, nel campo coupon del carrello o dal link di questo articolo. Il SONAR20 vale sui piani WordPress: controlla il prezzo nel carrello prima di pagare. Dopo il primo periodo vale la colonna del rinnovo, senza il 20% di SONAR20: il codice vale su ogni acquisto nuovo. Le regole del codice e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -163949,7 +164073,8 @@ export const reviewsData: unknown[] = [
           "WordPress è già installato su Hostinger? Lo installi dal pannello di hosting, senza scaricare i file a mano. La checklist qui sopra spiega i passaggi.",
           "Qual è il piano WordPress di Hostinger per un negozio online? L'Unlimited, per i backup giornalieri e i siti illimitati. Per un negozio con molto traffico, il Cloud Startup.",
           "Il coupon SONAR20 vale sul piano WordPress di Hostinger? Sì, il SONAR20 vale sui piani WordPress: controllalo nel carrello. È il 20% sul primo periodo.",
-          "Il prezzo di rinnovo è uguale a quello promozionale? No. Dopo il primo periodo di 48 mesi vale il prezzo di rinnovo: per il Premium, 10,99 US$ al mese."
+          "Il prezzo di rinnovo è uguale a quello promozionale? No. Dopo il primo periodo di 48 mesi vale il prezzo di rinnovo: per il Premium, 10,99 US$ al mese.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -164144,7 +164269,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20-Gutschein und Preis",
         "paragraphs": [
-          "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung, und die 20 % von SONAR20 gelten dafür ebenfalls. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
+          "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung, ohne die 20 % von SONAR20. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
         ]
       },
       {
@@ -164162,7 +164287,8 @@ export const reviewsData: unknown[] = [
           "Ist WordPress bei Hostinger schon installiert? Sie installieren es im Hosting-Panel, ohne Dateien von Hand herunterzuladen. Die Checkliste oben erklärt die Schritte.",
           "Welcher WordPress-Tarif von Hostinger eignet sich für einen Online-Shop? Der Unlimited, wegen der täglichen Backups und der unbegrenzten Websites. Für einen Shop mit viel Traffic der Cloud Startup.",
           "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? Ja, SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie es im Warenkorb. Wo er gilt, sind es 20 % im ersten Zeitraum.",
-          "Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt der Verlängerungspreis: beim Premium 10,99 US$ im Monat."
+          "Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt der Verlängerungspreis: beim Premium 10,99 US$ im Monat.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -164357,7 +164483,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 クーポンと価格",
         "paragraphs": [
-          "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでも SONAR20 が使えます。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されますが、SONAR20の20%は更新料にも適用されます。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
+          "コード **SONAR20** で、**最初の期間が20%割引**になります。カートのクーポン欄に入力するか、この記事のリンクから入ってください。WordPress プランでも SONAR20 が使えます。支払う前にカートで価格を確認してください。最初の期間の後は更新料が適用されますが、更新料にSONAR20の20%は含まれません。コードのルールと他の商品は、[Hostinger のクーポン](/ja/coupons/hostinger) にあります。"
         ]
       },
       {
@@ -164375,7 +164501,8 @@ export const reviewsData: unknown[] = [
           "Hostinger では WordPress はインストール済みですか？ ホスティングのパネルからインストールします。ファイルを手でダウンロードする必要はありません。手順は上のチェックリストにあります。",
           "オンラインショップ向けの Hostinger の WordPress プランは？ Unlimited です。毎日のバックアップとサイト数無制限が理由です。アクセスの多いショップなら Cloud Startup です。",
           "SONAR20 は Hostinger の WordPress プランで使えますか？ WordPress プランでも使えます。カートで価格を確認してください。最初の期間が20%割引です。",
-          "更新料はプロモーション価格と同じですか？ いいえ。最初の48か月の期間が終わると更新料になります。Premium では月額 US$10.99です。"
+          "更新料はプロモーション価格と同じですか？ いいえ。最初の48か月の期間が終わると更新料になります。Premium では月額 US$10.99です。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -164569,7 +164696,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 쿠폰과 가격",
         "paragraphs": [
-          "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가면 **첫 기간에 20%**가 할인됩니다. SONAR20은 WordPress 플랜에도 적용됩니다. 결제 전에 장바구니에서 가격을 확인하세요. 첫 기간이 끝나면 갱신가가 적용되며, SONAR20의 20%도 갱신가에 적용됩니다. 규칙과 다른 제품은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
+          "쿠폰 코드 **SONAR20**을 장바구니의 쿠폰 칸에 넣거나 이 글의 링크로 들어가면 **첫 기간에 20%**가 할인됩니다. SONAR20은 WordPress 플랜에도 적용됩니다. 결제 전에 장바구니에서 가격을 확인하세요. 첫 기간이 끝나면 갱신가가 적용되며, SONAR20의 20%는 갱신가에 적용되지 않습니다. 규칙과 다른 제품은 [호스팅어 쿠폰 페이지](/ko/coupons/hostinger)에 있습니다."
         ]
       },
       {
@@ -164586,8 +164713,9 @@ export const reviewsData: unknown[] = [
           "WordPress 호스팅어 플랜 중 가장 저렴한 것은 무엇인가요? Premium입니다. 48개월 선결제 월 US$ 2.49, 총액 US$ 119.52이고, 3개 사이트까지 쓸 수 있습니다. 갱신은 월 US$ 10.99입니다.",
           "호스팅어에서 WordPress가 설치되어 나오나요? 호스팅 패널에서 설치합니다. 파일을 직접 내려받을 필요는 없습니다. 단계는 위의 체크리스트에 있습니다.",
           "온라인 스토어에는 어느 WordPress 플랜이 맞나요? Unlimited입니다. 사이트 무제한과 매일 백업이 있습니다. 트래픽이 아주 많은 스토어라면 Cloud Startup을 보세요.",
-          "WordPress 플랜에도 SONAR20을 쓸 수 있나요? 네, 쓸 수 있습니다. 장바구니에서 가격을 확인하세요. 20%는 첫 기간과 갱신에도 적용됩니다.",
-          "갱신가는 프로모션 가격과 같은가요? 아닙니다. 첫 48개월 기간이 끝나면 갱신가가 적용됩니다. Premium은 월 US$ 10.99입니다."
+          "WordPress 플랜에도 SONAR20을 쓸 수 있나요? 네, 쓸 수 있습니다. 장바구니에서 가격을 확인하세요. 20%는 모든 신규 구매에 적용되며, 갱신은 정가로 청구됩니다.",
+          "갱신가는 프로모션 가격과 같은가요? 아닙니다. 첫 48개월 기간이 끝나면 갱신가가 적용됩니다. Premium은 월 US$ 10.99입니다.",
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -164782,7 +164910,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 优惠码与价格",
         "paragraphs": [
-          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。SONAR20 适用于 WordPress 套餐，请在付款前到购物车确认价格。首个周期之后，按续费价计算，SONAR20 的 20% 也适用于续费价。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+          "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。SONAR20 适用于 WordPress 套餐，请在付款前到购物车确认价格。首个周期之后，按续费价计算，没有 SONAR20 的 20% 折扣。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
         ]
       },
       {
@@ -164799,8 +164927,9 @@ export const reviewsData: unknown[] = [
           "Hostinger 上最便宜的 WordPress 套餐是哪个？是 Premium：48 个月预付每月 US$ 2.49，总价 US$ 119.52，最多 3 个网站。续费为每月 US$ 10.99。",
           "Hostinger 会预装 WordPress 吗？在主机面板里安装，不需要手动下载文件。步骤见上面的清单。",
           "网店适合哪个 WordPress 套餐？Unlimited：网站不限，每日备份。流量非常大的网店可以看 Cloud Startup。",
-          "SONAR20 能用于 WordPress 套餐吗？能。请在购物车确认价格。20% 适用于首个周期，续费时也适用。",
-          "续费价和促销价一样吗？不一样。第一个 48 个月周期结束后，按续费价计算：Premium 为每月 US$ 10.99。"
+          "SONAR20 能用于 WordPress 套餐吗？能。请在购物车确认价格。20% 适用于首个周期；续费按标价收费，没有折扣。",
+          "续费价和促销价一样吗？不一样。第一个 48 个月周期结束后，按续费价计算：Premium 为每月 US$ 10.99。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -164995,7 +165124,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 優惠碼與價格",
         "paragraphs": [
-          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享**第一期 20% 折扣**。SONAR20 也適用於 WordPress 方案，付款前請先到購物車確認價格。第一期之後，以續約價計算，SONAR20 的 20% 也適用於續約價。規則與其他產品請見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
+          "在購物車的優惠碼欄位輸入 **SONAR20**，或透過本文連結進入，即可享**第一期 20% 折扣**。SONAR20 也適用於 WordPress 方案，付款前請先到購物車確認價格。SONAR20 的 20% 折扣適用於每一筆新購買；第一期之後以續約價計算，沒有折扣。規則與其他產品請見 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。"
         ]
       },
       {
@@ -165012,8 +165141,9 @@ export const reviewsData: unknown[] = [
           "Hostinger 最便宜的 WordPress 方案是哪一個？是 Premium：48 個月預付每月 US$ 2.49，總價 US$ 119.52，最多 3 個網站。續約價為每月 US$ 10.99。",
           "Hostinger 的 WordPress 是預先安裝好的嗎？要在主機管理面板安裝，不需要手動下載檔案。步驟請見上方的檢查清單。",
           "網路商店適合哪一個 WordPress 方案？Unlimited：網站不限，每日備份。流量非常大的商店可以考慮 Cloud Startup。",
-          "SONAR20 可以用在 WordPress 方案嗎？可以，請在購物車確認價格。20% 適用於第一期，續訂時也適用。",
-          "續約價和優惠價一樣嗎？不一樣。第一個 48 個月的期間結束後，以續約價計算：Premium 為每月 US$ 10.99。"
+          "SONAR20 可以用在 WordPress 方案嗎？可以，請在購物車確認價格。20% 適用於第一期，續訂按定價計算，沒有折扣。",
+          "續約價和優惠價一樣嗎？不一樣。第一個 48 個月的期間結束後，以續約價計算：Premium 為每月 US$ 10.99。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
       },
       {

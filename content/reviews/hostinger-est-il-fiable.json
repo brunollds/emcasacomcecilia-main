@@ -117,7 +117,7 @@
       "paragraphs": [
         "Toute personne qui souscrit est inscrite au renouvellement automatique, car c'est le réglage par défaut. Le prélèvement a lieu entre 30 et 0 jours avant la fin de la période, sur la carte définie par défaut, au tarif du forfait à cette date. Les conditions précisent que ce tarif peut être supérieur ou inférieur à celui de la première période, et qu'un changement de prix s'applique au renouvellement, sans préavis.",
         "Hostinger peut envoyer un e-mail avant le prélèvement, mais les conditions disent qu'elle n'y est pas tenue. Les clients avec un forfait d'un mois, par exemple, ne sont pas prévenus. Pour désactiver le renouvellement, connectez-vous à votre compte et désactivez-le à tout moment. Si vous le désactivez sans renouveler à la main avant la fin de la période, le service est fermé.",
-        "Ce qui arrive à la réduction au moment du renouvellement est expliqué dans le [guide du code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+        "Pourquoi le renouvellement n'a pas de réduction est expliqué dans le [guide du code promo SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
       ],
       "images": [
         {
@@ -174,7 +174,8 @@
         "Hostinger rembourse-t-il ? Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
         "Le renouvellement chez Hostinger est-il automatique ? Oui, par défaut. Vous pouvez le désactiver dans le compte à tout moment ; sans renouvellement manuel, le service s'arrête à la fin de la période.",
         "Qui facture chez Hostinger ? Cela dépend du pays. La société contractante suit la section 2 des conditions, et d'autres sociétés du groupe peuvent aussi facturer. Vérifiez le nom affiché au paiement.",
-        "Existe-t-il un code promo Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, en forfait mensuel ou annuel. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier."
+        "Existe-t-il un code promo Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, en forfait mensuel ou annuel. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -191,7 +192,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier.",
+    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les forfaits Hostinger",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
