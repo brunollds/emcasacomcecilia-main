@@ -10,7 +10,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Decidido 05/11: as duas Minimal (Tech Modal × Tech, Camiseta × Core); Chrome lido. Falta a redação |
+| R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Redigido e no Job 3 em 05/11 (PR R4). Falta o deploy |
 | R5 | Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey | Max Titanium | PT | [[whey-max-titanium-qual-escolher]] | Decidido 05/11: o Super Whey entra. Falta o teste do código no whey |
 | R6 | Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hiper) | Probiótica | PT | [[whey-probiotica-qual-escolher]] | Teste do código no whey; o Iso Protein Blend tem soja e não é whey |
 | R7 | Camiseta Insider encolhe? Como lavar, mancha e odor, com o short da Cecília | Insider | PT | [[camiseta-insider-encolhe-como-lavar]] | As 9 perguntas do briefing sobre o vídeo (peça, mancha, método, cheiro, uso). Encolher não foi testado |
