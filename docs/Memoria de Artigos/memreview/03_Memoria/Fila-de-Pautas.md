@@ -10,10 +10,10 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| HO1 | **Onboarding.** HolyFoods é confiável? CNPJ, site oficial, entrega e garantia | HolyFoods | PT | [[holyfoods-e-confiavel]] | Redação. Depende da página `/cupons/holyfoods` (#590): mesmo deploy ou depois |
-| HO2 | **Onboarding.** HolyFoods no Reclame Aqui | HolyFoods | PT | [[holyfoods-reclame-aqui-nota-reputacao]] | Redação. Ler no Chrome as abas de 12 meses, 2025 e Geral |
-| HO3 | **Onboarding.** Cupom HolyFoods: como usar o EMCASA | HolyFoods | PT | [[cupom-holyfoods-como-usar]] | Redação |
-| HO4 | **Onboarding, urgente.** Black Friday HolyFoods: 30% no site e o EMCASA por cima | HolyFoods | PT | [[black-friday-holyfoods]] | Redação. A Black da loja já está no ar: ler a data de fim no contador (Chrome) |
+| HO1 | **Onboarding.** HolyFoods é confiável? CNPJ, site oficial, entrega e garantia | HolyFoods | PT | [[holyfoods-e-confiavel]] | Escrito em 05/11 (JSON, capa e fotos), sem deploy. Vai no deploy da página `/cupons/holyfoods` (#590) ou depois |
+| HO2 | **Onboarding.** HolyFoods no Reclame Aqui | HolyFoods | PT | [[holyfoods-reclame-aqui-nota-reputacao]] | Escrito em 05/11 (JSON, capa e fotos), sem deploy. Vai no deploy da página `/cupons/holyfoods` (#590) ou depois |
+| HO3 | **Onboarding.** Cupom HolyFoods: como usar o EMCASA | HolyFoods | PT | [[cupom-holyfoods-como-usar]] | Escrito em 05/11 (JSON, capa e fotos), sem deploy. Vai no deploy da página `/cupons/holyfoods` (#590) ou depois |
+| HO4 | **Onboarding, urgente.** Black Friday HolyFoods: 30% no site e o EMCASA por cima | HolyFoods | PT | [[black-friday-holyfoods]] | Escrito em 05/11 (JSON, capa e fotos), sem deploy. Vai no deploy da página `/cupons/holyfoods` (#590) ou depois |
 | DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | Redação. A primeira da série: DN2, DN3 e DN4 linkam para ela |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação, depois da DN1 |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação, depois da DN1 |
