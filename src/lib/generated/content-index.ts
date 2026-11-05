@@ -189154,7 +189154,7 @@ export const reviewsData: unknown[] = [
           "Quer ver antes de levar: a loja parceira mais perto, depois de chamar no WhatsApp.",
           "Drogasil e Droga Raia: só se já estiver lá; há uma variação, sem estoque."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up do site oficial com o cupom, porque sem promoção é a mais barata e a troca fica com a própria marca."
+        "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up do site oficial com o cupom. Vale conferir e comparar o preço no Mercado Livre e na Amazon, mas normalmente é o site que dá o melhor custo-benefício."
       },
       {
         "heading": "Perguntas frequentes",
