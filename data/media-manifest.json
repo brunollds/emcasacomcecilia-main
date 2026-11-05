@@ -103471,6 +103471,152 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/skelt/brindes-skelt-black-friday-cupom-body-cream-mystic-bloom.webp",
+      "local_url": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-body-cream-mystic-bloom.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 10674,
+      "sha256": "ffbee7c00bf5838c9df03c0e12ef241dc137d464d7f663012e0e101feced6547",
+      "width": 712,
+      "height": 712,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brindes-skelt-black-friday-cupom-body-cream-mystic-bloom.webp",
+      "storage_filename": "brindes-skelt-black-friday-cupom-body-cream-mystic-bloom.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brindes-skelt-black-friday-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brindes-skelt-black-friday-cupom.json",
+          "line": 94,
+          "column": 19,
+          "literal": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-body-cream-mystic-bloom.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 187912,
+          "column": 21,
+          "literal": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-body-cream-mystic-bloom.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/ffbee7c00bf5838c9df03c0e12ef241dc137d464d7f663012e0e101feced6547/brindes-skelt-black-friday-cupom-body-cream-mystic-bloom.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/ffbee7c00bf5838c9df03c0e12ef241dc137d464d7f663012e0e101feced6547/brindes-skelt-black-friday-cupom-body-cream-mystic-bloom.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T12:40:37.266Z",
+      "verification_etag_or_digest": "ffbee7c00bf5838c9df03c0e12ef241dc137d464d7f663012e0e101feced6547",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa.webp",
+      "local_url": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37806,
+      "sha256": "8fc0f7cf40461738153fa3e0c90bf60d26d1a3992944959732c136456c7f086e",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brindes-skelt-black-friday-cupom-capa.webp",
+      "storage_filename": "brindes-skelt-black-friday-cupom-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brindes-skelt-black-friday-cupom.json",
+        "docs/Memoria de Artigos/memreview/02_Artigos/brindes-skelt-black-friday-cupom.md",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brindes-skelt-black-friday-cupom.json",
+          "line": 24,
+          "column": 13,
+          "literal": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "docs/Memoria de Artigos/memreview/02_Artigos/brindes-skelt-black-friday-cupom.md",
+          "line": 111,
+          "column": 14,
+          "literal": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 187842,
+          "column": 15,
+          "literal": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8fc0f7cf40461738153fa3e0c90bf60d26d1a3992944959732c136456c7f086e/brindes-skelt-black-friday-cupom-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8fc0f7cf40461738153fa3e0c90bf60d26d1a3992944959732c136456c7f086e/brindes-skelt-black-friday-cupom-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T12:40:37.267Z",
+      "verification_etag_or_digest": "8fc0f7cf40461738153fa3e0c90bf60d26d1a3992944959732c136456c7f086e",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/skelt/brindes-skelt-black-friday-cupom-creme-para-maos-velvet-milano.webp",
+      "local_url": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-creme-para-maos-velvet-milano.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 49094,
+      "sha256": "8dce6430d13ed8299098125ab3662b336e2362fc33e8ae8ed9e345f6b9f96b0e",
+      "width": 900,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "brindes-skelt-black-friday-cupom-creme-para-maos-velvet-milano.webp",
+      "storage_filename": "brindes-skelt-black-friday-cupom-creme-para-maos-velvet-milano.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/brindes-skelt-black-friday-cupom.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/brindes-skelt-black-friday-cupom.json",
+          "line": 87,
+          "column": 19,
+          "literal": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-creme-para-maos-velvet-milano.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 187905,
+          "column": 21,
+          "literal": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-creme-para-maos-velvet-milano.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/8dce6430d13ed8299098125ab3662b336e2362fc33e8ae8ed9e345f6b9f96b0e/brindes-skelt-black-friday-cupom-creme-para-maos-velvet-milano.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/8dce6430d13ed8299098125ab3662b336e2362fc33e8ae8ed9e345f6b9f96b0e/brindes-skelt-black-friday-cupom-creme-para-maos-velvet-milano.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T12:40:37.267Z",
+      "verification_etag_or_digest": "8dce6430d13ed8299098125ab3662b336e2362fc33e8ae8ed9e345f6b9f96b0e",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-capa.webp",
       "local_url": "/images/reviews/skelt/bronzeado-instantaneo-skelt-ou-autobronzeador-capa.webp",
       "media_kind": "image",

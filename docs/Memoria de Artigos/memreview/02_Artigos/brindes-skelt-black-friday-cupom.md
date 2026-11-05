@@ -6,9 +6,9 @@ parceiro: "[[Skelt]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Promoção"
-status: "pauta-aprovada"
+status: "escrito"
 responsavel: "sessão de artigos"
-proxima_acao: "escrever e publicar no mesmo deploy do banner skelt-brindes-48h-2026 (05/11, ou no começo de 06/11); aposentar o brinde-skelt-30-outubro-cupom com 301 para este slug"
+proxima_acao: "deploy com o banner skelt-brindes-48h-2026; depois de 06/11, título e resposta rápida com promoção encerrada"
 bloqueado_por: "-"
 data_criacao: "2026-11-05"
 modo_i18n: "somente-pt"
@@ -101,3 +101,13 @@ O arquivo é `content/campanhas/skelt-brindes-48h-2026.json`:
 - o texto do banner não cita o código.
 
 A regra é a do `docs/CAMPANHAS.md` para campanha que só vale com o nosso código. O mid de hoje está livre: o esquenta usa o top, o November Glow usa o end e a Black Friday (o mid) começa em 27/11.
+
+## Escrito (05/11/2026)
+- Id 825. O Bruno testou no carrinho que o cupom soma com o desconto progressivo. A [Política de Brindes](https://www.skelt.com.br/politica-de-brindes) diz que a faixa conta o valor final, depois de cupom, promoções e Pix.
+- Preços na API da loja em 05/11: creme R$ 32,90, Body Cream R$ 99,90 e Body Splash R$ 99,90 (cheios).
+- Exemplos de pedido: 3 Body Splash + 1 creme para mãos (R$ 227,50 no Pix, leva o 1º brinde) e 3 Body Splash + 1 Body Cream (R$ 273,33, leva os dois).
+
+## Capa e imagens (folha enviada ao Bruno em 05/11/2026)
+- **Capa:** `/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa.webp`, 1600×900, `covers:render`, modelo "Guia ou produto". Topo: fotos oficiais da Skelt (as fichas dos dois produtos, com o fundo clareado). Faixa: logo, "Brindes Skelt com o cupom" e "Creme para mãos e Body Cream, só por 48 horas".
+- **Corpo:** na seção "O que vem em cada brinde", o Creme para Mãos Velvet Milano (foto oficial da ficha) e o Body Cream Mystic Bloom (foto oficial da ficha), as duas com o link do produto.
+- **Capa antiga:** artigo novo, sem capa antiga.

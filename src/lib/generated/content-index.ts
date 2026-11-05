@@ -119316,6 +119316,7 @@ export const reviewsData: unknown[] = [
         "heading": "Brinde e frete",
         "paragraphs": [
           "O brinde da Skelt conta o valor final do pedido, depois dos descontos. No teste de carrinho de outubro, o brinde da campanha era um Body Splash Mystic Bloom. Como o cupom e o Pix diminuem o total, o pedido pode ficar abaixo do mínimo e o brinde sai da sacola.",
+          "Até o fim de 06/11, a Skelt dá dois brindes a quem usa o cupom: veja as faixas em [brindes Skelt com o cupom](/reviews/brindes-skelt-black-friday-cupom).",
           "O frete grátis também conta o valor final do pedido. A política de frete do site dizia:"
         ],
         "bullets": [
@@ -157769,193 +157770,6 @@ export const reviewsData: unknown[] = [
     ]
   },
   {
-    "id": 716,
-    "slug": "brinde-skelt-30-outubro-cupom",
-    "locale": "pt",
-    "title": "Brinde Skelt em 30/10: Trends Set e Body Cream Unexpected Day com o cupom",
-    "seoTitle": "Brinde Skelt 30/10: Trends Set e Body Cream com o cupom",
-    "type": "Promoção",
-    "category": "guias-praticos-utilidade",
-    "reviewKind": "guia",
-    "author": {
-      "name": "Cecília Mauad",
-      "slug": "cecilia-mauad",
-      "role": "Em Casa com Cecília",
-      "initials": "CM",
-      "url": "/sobre"
-    },
-    "description": "Por 24 horas, a Skelt dá o Trends Set e o Body Cream Unexpected Day de brinde, só com o cupom SKEMCASACOMCECILIA. Veja as faixas de valor e como montar o pedido com folga.",
-    "metaDescription": "Brinde Skelt com o cupom SKEMCASACOMCECILIA e 10% OFF: o Trends Set e o Body Cream Unexpected Day só saem com o código. Veja como montar o pedido.",
-    "publishedAt": "30 de outubro de 2026",
-    "publishedAtISO": "2026-10-30",
-    "draft": false,
-    "isNew": true,
-    "image": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-capa.webp",
-    "imageAlt": "Kit Trends Set e Body Cream Unexpected Day da Skelt, com o logo da loja",
-    "imageFit": "contain",
-    "imageAspect": "landscape",
-    "pros": [],
-    "cons": [],
-    "cta": {
-      "text": "Entre no site oficial da Skelt pelo botão, monte o pedido com folga acima da faixa e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola.",
-      "label": "Ir para a Skelt com o cupom",
-      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
-      "sponsored": true
-    },
-    "coupon": "SKEMCASACOMCECILIA",
-    "affiliate": "skelt",
-    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
-    "relatedArticles": [
-      {
-        "slug": "hidratante-corporal-skelt-qual-fragrancia"
-      },
-      {
-        "slug": "body-splash-skelt-qual-escolher"
-      },
-      {
-        "slug": "cupom-skelt-como-usar"
-      }
-    ],
-    "contentSections": [
-      {
-        "heading": "Resposta rápida",
-        "paragraphs": [
-          "Em 30/10/2026, só por 24 horas, quem compra na Skelt com o cupom SKEMCASACOMCECILIA ganha o Trends Set e, em pedidos maiores, também o Body Cream Unexpected Day. Sem o cupom, não há brinde. As duas faixas de valor estão no capítulo seguinte. A Skelt não disse se a faixa conta antes ou depois do desconto: monte com folga, pelas contas abaixo."
-        ]
-      },
-      {
-        "heading": "O que vem em cada brinde",
-        "paragraphs": [
-          "As duas faixas se somam: acima de R$ 219, o Trends Set; acima de R$ 249, também o Body Cream Unexpected Day. Os dois só valem com o cupom SKEMCASACOMCECILIA.",
-          "O Trends Set traz três fragrâncias de 15 ml: Mystic Bloom, Urban Beat e Unexpected Day. A Skelt chama o kit de edição limitada. A loja também vende o mesmo kit, com o nome [Kit Miniaturas Trends Set](https://www.skelt.com.br/kit-miniaturas-trends-set/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), por R$ 99,90. Na página, as três são body splash.",
-          "O [Body Cream Unexpected Day](https://www.skelt.com.br/hidratante-desodorante-corporal-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) é o hidratante corporal de 200 g da fragrância. Avulso, custava R$ 99,90. É a referência do valor desse brinde.",
-          "A Skelt não informou quantos brindes há, e não dá para garantir que eles durem o dia todo. Para conhecer as fragrâncias, veja o [guia dos hidratantes corporais Skelt](/reviews/hidratante-corporal-skelt-qual-fragrancia) e o [guia dos body splash Skelt](/reviews/body-splash-skelt-qual-escolher)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set.webp",
-            "alt": "Caixa roxa do Trends Set da Skelt, com as miniaturas Mystic Bloom, Urban Beat e Unexpected Day",
-            "caption": "Trends Set, com três fragrâncias de 15 ml. Foto oficial da Skelt.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9117
-          },
-          {
-            "src": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-trends-set-miniaturas.webp",
-            "alt": "Caixa do Trends Set da Skelt sobre pedras claras, com miniaturas de body splash fora da caixa",
-            "caption": "As miniaturas do Trends Set fora da caixa. Foto oficial da Skelt.",
-            "objectFit": "contain",
-            "aspectRatio": 1
-          },
-          {
-            "src": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-body-cream-unexpected-day.webp",
-            "alt": "Pote verde-limão do Body Cream Unexpected Day da Skelt",
-            "caption": "Body Cream Unexpected Day, 200 g, o brinde acima de R$ 249. Foto oficial da Skelt.",
-            "objectFit": "contain",
-            "aspectRatio": 0.9187
-          }
-        ]
-      },
-      {
-        "heading": "Como garantir os brindes: monte o pedido com folga",
-        "paragraphs": [
-          "A Skelt não disse se os R$ 219 e os R$ 249 contam antes ou depois do desconto do cupom e do Pix, nem se o frete entra. Para não depender disso, monte o carrinho acima da faixa mesmo depois dos descontos.",
-          "O SKEMCASACOMCECILIA dá 10% em todo o site oficial. No nosso teste no carrinho, ele somou com um produto em promoção, e o Pix tirou mais 5% do total já com o cupom. As condições estão na [página do cupom Skelt](/cupons/skelt).",
-          "As contas da tabela são nossas, sobre o total do carrinho no cartão."
-        ],
-        "comparisonTable": {
-          "headers": [
-            "Para ficar acima de",
-            "Carrinho mínimo só com o cupom (conta nossa)",
-            "Carrinho mínimo com o cupom e o Pix (conta nossa)"
-          ],
-          "rows": [
-            [
-              "R$ 219 (Trends Set)",
-              "R$ 243,34",
-              "R$ 256,15"
-            ],
-            [
-              "R$ 249 (Trends Set e Body Cream)",
-              "R$ 276,67",
-              "R$ 291,23"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Exemplo: três Body Cream avulsos somam R$ 299,70. Com o cupom e o Pix, o total fica em R$ 256,24, ainda acima de R$ 249. Esse pedido passa das duas faixas antes e depois dos descontos.",
-          "Cuidado com kit em promoção. O [Kit Hidratação Corporal Radiante & Perfumada](https://www.skelt.com.br/kit-radiante-perfumada/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz), com três hidratantes, custava R$ 252,20. Passa de R$ 249 no cartão, mas cai para R$ 226,98 com o cupom.",
-          "Antes de pagar, confira no resumo do pedido se o cupom entrou e qual é o total."
-        ]
-      },
-      {
-        "heading": "O que montar com R$ 250 a R$ 300",
-        "paragraphs": [
-          "Três pedidos que passam de R$ 291,23 no cartão, o valor que cobre a faixa de R$ 249 mesmo com o cupom e o Pix. Os preços são os do cartão no site oficial, com todos os produtos à venda."
-        ],
-        "comparisonTable": {
-          "headers": [
-            "Pedido",
-            "O que leva",
-            "Preço no cartão (29/10/2026)"
-          ],
-          "rows": [
-            [
-              "[Mousse Autobronzeador](https://www.skelt.com.br/autobronzeador-em-mousse/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) + [Duo Unexpected Day](https://www.skelt.com.br/duo-unexpected-day/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
-              "Autobronzeador em mousse, perfume mist de 100 ml e hidratante de 200 g Unexpected Day",
-              "R$ 298,01 (R$ 119,90 + R$ 178,11)"
-            ],
-            [
-              "[Duo + Creme para Mãos Hidden Flowers](https://www.skelt.com.br/duo-creme-para-maos-hidden--flowers/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) + [Body Cream Mystic Bloom](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
-              "Body splash de 100 ml, hidratante de 200 g e creme para mãos de 75 g Hidden Flowers, mais o hidratante de 200 g Mystic Bloom",
-              "R$ 294,86 (R$ 194,96 + R$ 99,90)"
-            ],
-            [
-              "[Kit Fragrâncias: Body Splash Solar Muse + Body Splash Hidden Flowers + Body Splash Amalfi Sunset](https://www.skelt.com.br/kit-solarmuse-hiddenflowers-splashamalfi/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
-              "Três body splash de 100 ml",
-              "R$ 297,00"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Com o cupom e o Pix, as nossas contas dão R$ 254,80, R$ 252,11 e R$ 253,94, todos acima de R$ 249.",
-          "O Duo Unexpected Day estava em promoção, de R$ 197,90 por R$ 178,11, e o Duo + Creme para Mãos de R$ 229,37 por R$ 194,96. O primeiro pedido repete a fragrância do Body Cream do brinde. Quem prefere variar fica com o segundo ou o terceiro."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-unexpected-day.webp",
-            "alt": "Frasco amarelo de perfume mist e pote verde-limão de hidratante do Duo Unexpected Day da Skelt",
-            "caption": "Duo Unexpected Day, perfume mist e hidratante. Foto oficial da Skelt.",
-            "objectFit": "contain",
-            "aspectRatio": 0.748
-          },
-          {
-            "src": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-duo-creme-para-maos-hidden-flowers.webp",
-            "alt": "Creme para mãos, body splash e pote de hidratante Hidden Flowers da Skelt, em tons de rosa",
-            "caption": "Duo + Creme para Mãos Hidden Flowers. Foto oficial da Skelt.",
-            "objectFit": "contain",
-            "aspectRatio": 1.0843
-          },
-          {
-            "src": "/images/reviews/skelt/brinde-skelt-30-outubro-cupom-mousse-autobronzeador.webp",
-            "alt": "Frasco branco e dourado do Mousse Autobronzeador da Skelt",
-            "caption": "Mousse Autobronzeador. Foto oficial da Skelt.",
-            "objectFit": "contain",
-            "aspectRatio": 0.75
-          }
-        ]
-      },
-      {
-        "heading": "Perguntas frequentes",
-        "bullets": [
-          "O brinde da Skelt vale sem o cupom? Não. Segundo a Skelt, os brindes dessa promoção só valem com o cupom de creator, e o nosso é o SKEMCASACOMCECILIA.",
-          "Os dois brindes da Skelt acumulam? Sim. Acima de R$ 249, o pedido leva o Trends Set e também o Body Cream Unexpected Day.",
-          "Até quando vale o brinde da Skelt? Só por 24 horas, no dia informado no início do artigo.",
-          "O cupom SKEMCASACOMCECILIA soma com o Pix? Sim. No teste no carrinho, o cupom deu 10% e o Pix tirou mais 5% do total já com o cupom."
-        ]
-      }
-    ]
-  },
-  {
     "id": 717,
     "slug": "hostinger-reach-ou-mailchimp-brevo",
     "locale": "pt",
@@ -187999,6 +187813,188 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "clube-dolce-gusto-como-funciona"
+      }
+    ]
+  },
+  {
+    "id": 825,
+    "slug": "brindes-skelt-black-friday-cupom",
+    "locale": "pt",
+    "title": "Brindes Skelt na Black Friday: creme para mãos e Body Cream com o cupom, só por 48 horas",
+    "seoTitle": "Brindes Skelt na Black Friday: 2 brindes com o cupom",
+    "type": "Promoção",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Por 48 horas, a Skelt dá o Creme para Mãos Velvet Milano e o Body Cream Mystic Bloom a quem usa o cupom SKEMCASACOMCECILIA. Veja as faixas e como montar o pedido.",
+    "metaDescription": "Use o SKEMCASACOMCECILIA (10%) na Skelt e leve dois brindes: creme para mãos e Body Cream, só por 48 horas, somando com o desconto progressivo.",
+    "publishedAt": "5 de novembro de 2026",
+    "publishedAtISO": "2026-11-05",
+    "draft": false,
+    "isNew": true,
+    "bodyDatesReason": "campanha",
+    "image": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-capa.webp",
+    "imageAlt": "Creme para Mãos Velvet Milano e Body Cream Mystic Bloom da Skelt, com o logo da loja e a faixa \"Brindes Skelt com o cupom\"",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Skelt pelo botão, monte o pedido com folga acima da faixa e cole o SKEMCASACOMCECILIA no campo Cupom de desconto da sacola.",
+      "label": "Ir para a Skelt com o cupom",
+      "url": "https://www.skelt.com.br/?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz",
+      "sponsored": true
+    },
+    "coupon": "SKEMCASACOMCECILIA",
+    "affiliate": "skelt",
+    "editorialNote": "Ninguém da equipe usou os produtos. Podemos receber comissão pelo cupom SKEMCASACOMCECILIA.",
+    "relatedArticles": [
+      {
+        "slug": "black-friday-skelt"
+      },
+      {
+        "slug": "cupom-skelt-como-usar"
+      },
+      {
+        "slug": "hidratante-corporal-skelt-qual-fragrancia"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Só por 48 horas, quem usa o cupom SKEMCASACOMCECILIA na Skelt leva de brinde o Creme para Mãos Velvet Milano a partir da primeira faixa, e também o Body Cream Mystic Bloom a partir da segunda. O cupom soma com o desconto progressivo do site, e a faixa conta o valor final do pedido, depois de todos os descontos."
+        ]
+      },
+      {
+        "heading": "O que vem em cada brinde",
+        "paragraphs": [
+          "A promoção vale de 05/11 à 0h até 06/11 às 23h59, no horário de Brasília. Os dois brindes acumulam: o pedido acima da segunda faixa leva os dois."
+        ],
+        "comparisonTable": {
+          "caption": "Preço avulso no site, 05/11. Os brindes só saem com o cupom SKEMCASACOMCECILIA.",
+          "headers": [
+            "Brinde",
+            "Pedido final acima de",
+            "Preço avulso"
+          ],
+          "rows": [
+            [
+              "[Creme para Mãos Velvet Milano, 75 g](https://www.skelt.com.br/creme-para-maos-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 199",
+              "R$ 32,90"
+            ],
+            [
+              "[Body Cream Mystic Bloom, 200 g](https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz)",
+              "R$ 249",
+              "R$ 99,90"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Conta nossa, pelos preços avulsos da tabela: os dois brindes juntos valem R$ 132,80. Para conhecer as fragrâncias dos hidratantes, veja [qual hidratante corporal da Skelt escolher](/reviews/hidratante-corporal-skelt-qual-fragrancia). Os brindes valem enquanto durar o estoque."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-creme-para-maos-velvet-milano.webp",
+            "alt": "Bisnaga do Creme para Mãos Velvet Milano da Skelt entre limões e creme, em foto oficial da loja",
+            "caption": "Creme para Mãos Velvet Milano, o brinde da primeira faixa. Foto oficial da Skelt.",
+            "objectFit": "square",
+            "href": "https://www.skelt.com.br/creme-para-maos-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          },
+          {
+            "src": "/images/reviews/skelt/brindes-skelt-black-friday-cupom-body-cream-mystic-bloom.webp",
+            "alt": "Pote rosa do Body Cream Mystic Bloom da Skelt, em foto oficial da loja",
+            "caption": "Body Cream Mystic Bloom, o brinde da segunda faixa. Foto oficial da Skelt.",
+            "objectFit": "square",
+            "href": "https://www.skelt.com.br/body-cream-mystic-bloom/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz"
+          }
+        ]
+      },
+      {
+        "heading": "O desconto progressivo e o cupom",
+        "paragraphs": [
+          "O site dá desconto pelo número de produtos no carrinho, e o cupom de 10% entra por cima. Ele também soma com os 5% do Pix."
+        ],
+        "comparisonTable": {
+          "caption": "Desconto progressivo informado pela Skelt para a promoção.",
+          "headers": [
+            "Produtos no carrinho",
+            "Desconto progressivo",
+            "Cupom SKEMCASACOMCECILIA"
+          ],
+          "rows": [
+            [
+              "1",
+              "10%",
+              "mais 10%"
+            ],
+            [
+              "2",
+              "15%",
+              "mais 10%"
+            ],
+            [
+              "3 ou mais",
+              "20%",
+              "mais 10%"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Como garantir os brindes: monte o pedido com folga",
+        "paragraphs": [
+          "A loja informa, na Política de Brindes: o mínimo conta o valor final do pedido depois de cupons, promoções e do desconto do Pix. Se os descontos derrubarem o total abaixo da faixa, o brinde sai do carrinho sozinho.",
+          "Por isso a conta é feita sobre o valor com desconto, não sobre os preços da vitrine. Os dois pedidos abaixo usam produtos que estavam à venda e mostram a diferença entre levar um brinde ou os dois."
+        ],
+        "comparisonTable": {
+          "caption": "Conta nossa, com os preços cheios do site: 20% do progressivo, o cupom aplicado sobre o valor com desconto e, na última coluna de valor, os 5% do Pix.",
+          "headers": [
+            "Pedido",
+            "Preço cheio",
+            "Com o progressivo e o cupom",
+            "Também no Pix",
+            "Brindes"
+          ],
+          "rows": [
+            [
+              "3 [Body Splash](https://www.skelt.com.br/body-splash-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) e 1 Creme para Mãos",
+              "R$ 332,60",
+              "R$ 239,47",
+              "R$ 227,50",
+              "Creme para mãos"
+            ],
+            [
+              "3 [Body Splash](https://www.skelt.com.br/body-splash-velvet-milano/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) e 1 Body Cream",
+              "R$ 399,60",
+              "R$ 287,71",
+              "R$ 273,33",
+              "Os dois"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Se a loja somar os descontos em vez de aplicar um sobre o outro, o total fica um pouco menor. Conta nossa, nesse pior caso e pagando no Pix: com 3 produtos ou mais, o carrinho cheio precisa passar de cerca de R$ 307 para a primeira faixa e de R$ 384 para a segunda.",
+          "Antes de pagar, confira o valor final no resumo do pedido e se os brindes estão na sacola. Se o total ficar logo abaixo da faixa, um creme para mãos a mais resolve. O passo a passo do cupom está em [como usar o cupom da Skelt](/reviews/cupom-skelt-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O brinde vale sem o cupom? Não: segundo a Skelt, os dois brindes só saem com o cupom de creator, e o nosso é o SKEMCASACOMCECILIA.",
+          "Os dois brindes acumulam? Sim: o pedido acima da segunda faixa leva o creme para mãos e o Body Cream.",
+          "Até quando vale a promoção? São 48 horas, até o fim de sexta-feira, no horário de Brasília.",
+          "O cupom soma com o desconto progressivo? Sim: os 10% do cupom entram junto com os 10%, 15% ou 20% do progressivo.",
+          "O cupom soma com o Pix? Sim, e o Pix também baixa o valor final que conta para a faixa.",
+          "A faixa conta antes ou depois dos descontos? Depois: a Política de Brindes da Skelt diz que vale o valor final do pedido, com cupom, promoções e Pix."
+        ]
       }
     ]
   }
