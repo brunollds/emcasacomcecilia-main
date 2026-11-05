@@ -1,6 +1,6 @@
 ---
 titulo_provisorio: "Retrofit mecânico dos artigos PT (catraca do #407)"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "sessão de artigos"
 proxima_acao: "redacao: lotes por loja, fora dos 62 do Muse"
 data_criacao: "2026-10-31"

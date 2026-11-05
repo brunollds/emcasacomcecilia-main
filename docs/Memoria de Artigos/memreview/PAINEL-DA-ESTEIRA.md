@@ -41,6 +41,23 @@
 ---
 
 ## 7. Publicados (`status: publicado`)
+- [x] [[hostinger-renovacao-cupom-sonar20]]: Renovação Hostinger: preço, cupom SONAR20 e reembolso antes de pagar (10 idiomas, ids 814–823; BG1; na main em 04/11/2026, PR #579; no ar em 05/11/2026, conferido) 🚀
+- [x] [[black-skull-e-boa-0211]]: Black Skull é boa? O whey, a creatina e o que vale comprar da marca (PT, id 776; linha "é boa", lote 1; na main em 02/11/2026, PR #520) 🚀
+- [x] [[max-titanium-e-boa-0211]]: Max Titanium é boa? O whey, a creatina e o que vale comprar da marca (PT, id 777; linha "é boa", lote 1; na main em 02/11/2026, PR #520) 🚀
+- [x] [[probiotica-e-boa-0211]]: Probiótica é boa? O whey, a creatina e o que vale comprar da marca (PT, id 778; linha "é boa", lote 1; na main em 02/11/2026, PR #520) 🚀
+- [x] [[insider-vale-a-pena-reforma-0211]]: Insider vale a pena? reformado como o artigo da marca, sem concorrente (PT, id 362; na main em 02/11/2026, PR #516) 🚀
+- [x] [[outlet-insider-vale-a-pena-cupom]]: Outlet Insider com o cupom, em dois artigos: `outlet-insider-feminino-vale-a-pena` e `outlet-insider-masculino-vale-a-pena` (PT, ids 771 e 772; I9; na main em 31/10/2026, PR #395) 🚀
+- [x] [[card-estilo-shein-3110]]: SHEIN: card de estilo e foto com link no vestido de festa e no 11.11 (10 idiomas; na main em 31/10/2026, PR #388, vault #387) 🚀
+- [x] [[card-estilo-roupas-lote-3110]]: Card de estilo em 6 artigos de roupa publicados (PT; na main em 31/10/2026, PR #385, vault #383) 🚀
+- [x] [[retrofit-catraca-lista-3110]]: Retrofit mecânico dos artigos PT pela catraca do #407 (PRs #409 a #416, 31/10/2026; a lista da catraca está vazia) 🚀
+- [x] [[voz-muse-3110/README|voz-muse-3110]]: Voz dos 62 artigos de maior impressão, revisão do Muse conferida, aplicada com o retrofit mecânico (PRs #409 a #416, 31/10/2026) 🚀
+- [x] [[camiseta-feminina-insider-qual-escolher]]: Camiseta feminina Insider: qual escolher entre Tech, Gola V, Manga Longa, Daily, NEXTECH e Perfect Top (PT, id 760; na main em 30/10/2026, PR #379) 🚀
+- [x] [[glutamina-qual-escolher-black-skull-max-probiotica]]: Glutamina: Black Skull, Max Titanium ou Probiótica, qual compensa pelo rótulo e pelo preço por 100 g (PT, id 758; na main em 30/10/2026, PR #379) 🚀
+- [x] [[taca-base-esfera-e-tacas-coloridas]]: Taça base esfera: conjunto ou unidade, e qual cor escolher (PT, id 759; na main em 30/10/2026, PR #379) 🚀
+- [x] [[whey-probiotica-concentrado-ou-isolado]]: Whey Probiótica: concentrado ou isolado, como seção do `melhor-whey-qual-escolher-por-objetivo` (PT; na main em 30/10/2026, PR #379) 🚀
+- [x] [[camiseta-insider-qual-escolher]]: Camiseta masculina Insider: qual escolher entre Tech, Heavy, Core, Daily, Polo e Henley (PT, id 755; na main em 30/10/2026, PR #374; piloto "combina com" no #379) 🚀
+- [x] [[kit-insider-quando-compensa]]: Kit Insider: quando compensa mais que comprar peças avulsas (PT, id 757; na main em 30/10/2026, PR #374) 🚀
+- [x] [[sutia-toda-up-qual-escolher]]: Sutiã Toda Up: Comfort Up, Comfort Line ou Comfort Slim, qual escolher (PT, id 756; na main em 30/10/2026, PR #374) 🚀
 - [x] [[shein-vale-a-pena]]: SHEIN vale a pena? Quando compensa comprar e quando passar (10 idiomas, ids 794–803; Fable 5.1 no Job 2; no ar em 04/11/2026, PR #564, release `0863ea63`) 🚀
 - [x] [[tamanho-shein-brasil]]: Tamanho na SHEIN: qual letra pedir e como ler o guia de cada peça (10 idiomas, ids 804–813; Fable 5.1 no Job 2; no ar em 04/11/2026, PR #564, release `0863ea63`) 🚀
 - [x] [[panetone-chocotone-belive-0311]]: Panetone Belive é bom? Chocolate e frutas pelo rótulo, os kits e o código (PT, id 788; B7, Fable 5.1 no Job 2; no ar em 04/11/2026, PR #553, release `ffc044c7`) 🚀
