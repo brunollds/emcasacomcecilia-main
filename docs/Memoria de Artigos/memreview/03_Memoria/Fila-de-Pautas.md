@@ -10,14 +10,12 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| R2 | Whey Max Titanium x Dr. Peanut: sabores e onde sai mais barato | Dr. Peanut e Max | PT | [[whey-dr-peanut-max-titanium]] | Redigido e no Job 3 em 05/11 (PR R2+R3); os dois códigos funcionam no whey. Falta o deploy |
-| R3 | Fita Up ou Blumi (ou Lib)? | Toda Up | PT | [[fita-up-ou-blumi-ou-lib]] | Redigido e no Job 3 em 05/11 (PR R2+R3). Falta o deploy |
-| R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Decidido 05/11: as duas Minimal (Tech Modal × Tech, Camiseta × Core); Chrome lido. Falta a redação |
+| R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Redigido e no Job 3 em 05/11 (PR R4). Falta o deploy |
 | R5 | Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey | Max Titanium | PT | [[whey-max-titanium-qual-escolher]] | Decidido 05/11: o Super Whey entra. Falta o teste do código no whey |
 | R6 | Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hiper) | Probiótica | PT | [[whey-probiotica-qual-escolher]] | Teste do código no whey; o Iso Protein Blend tem soja e não é whey |
 | R7 | Camiseta Insider encolhe? Como lavar, mancha e odor, com o short da Cecília | Insider | PT | [[camiseta-insider-encolhe-como-lavar]] | As 9 perguntas do briefing sobre o vídeo (peça, mancha, método, cheiro, uso). Encolher não foi testado |
 | I9 | Gift card da Insider: onde achar, valores, o cupom na compra e para quem dar (Natal e Black Friday) | Insider | PT | — | Pedido do Bruno em 05/11: o EMCASACOMCECILIA vale na compra do gift card (teste no carrinho: R$ 900 → R$ 765); o pedido pago com o saldo do cartão não aceita cupom. O cartão é difícil de achar no site: o artigo leva ao link de criador do Bruno. Falta o briefing |
-| DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | Escrito, revisado (Job 3, Fable), capa aprovada e mídia no CDN em 05/11; id 831 na main, falta o deploy. Sai daqui quando for ao ar |
+| DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | No ar em 05/11 (release 400c60ff). DN2–DN4 depois |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação, depois da DN1 |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação, depois da DN1 |
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
@@ -86,7 +84,7 @@ Também sem GO:
 
 | Parceiro | Pautas | Observação |
 |---|---|---|
-| Insider | Série "Insider ou X" ([[insider-ou-x-serie-0211]]); I5 feminino: Perfect Top, legging e vestido; I8 regata feminina; Insider Rewards (programa de pontos) | I8 com sinal forte em 30/10 |
+| Insider | Série "Insider ou X" ([[insider-ou-x-serie-0211]]); I5 feminino: Perfect Top, legging e vestido; I8 regata feminina; Insider Rewards (programa de pontos); **I9 gift card com o cupom**: o EMCASACOMCECILIA vale na compra do gift card virtual (teste do Bruno, 05/11: R$ 900 saiu por R$ 765, com frete grátis); a página é difícil de achar no site (link de criador `creators.insiderstore.com.br/SXnbEB8`). Autocompletar (05/11): "cupom gift card insider", "comprar gift card insider", "vale presente insider". Para o Natal e a Black Friday. Antes do briefing: decidir com o Bruno o ângulo do pagamento com o gift card (o cupom não entra no pedido pago com ele, mas o cartão comprado com 15% paga peças que o cupom não cobre, como lançamentos: é dica legítima ou brecha que a parceira não quer ver publicada?). Canibalização: o `presente-de-natal-insider-kits-gift-card` tem a seção "Vale presente na Insider: como funciona o gift card"; ela encurta e linka | I8 com sinal forte em 30/10 |
 | YesStyle | Programa de Estudantes (Membro Prata do Elite Club grátis) | — |
 | Let's Eat It | L4 aparelho de jantar Porto Brasil: 20, 30 ou 42 peças; L6 faqueiro Wolff: 30, 101 ou 130 peças; L11 paleta da mesa posta; L14 amigo secreto até R$ 100 | Para a L4 já existe `porto-brasil-e-boa`. A L14 é de dezembro |
 | Black Skull | B2 e B5 (rodada de 27/10); B6 barra de proteína | B6 só se a linha crescer: em 30/10, havia uma barra só |
@@ -115,6 +113,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
+| `presente-de-natal-insider-kits-gift-card` | Dizer que o cupom vale na compra do gift card (teste do Bruno, 05/11, R$ 900 por R$ 765); hoje o artigo só diz que o pedido pago com o gift card não aceita cupom, e o leitor entende que gift card e cupom não combinam. Vale também para a FAQ "Cupom vale com gift card?" | I9, 05/11 |
 | `fita-up-como-usar` | R8: "plus size" no H2 da largura e uma FAQ, pelo briefing [[fita-up-como-usar-plus-size-otimizacao]] (sem URL nova) | Rodada R8, 05/11 |
 | `dr-peanut-melhor-sabor`, `dr-peanut-e-boa`, `max-titanium-e-boa`, `probiotica-e-boa` e `cupom-dr-peanut-como-usar` | Encurtar as seções de whey e linkar para a R2, a R5 e a R6, quando cada uma for ao ar (lista em cada briefing). No `dr-peanut-melhor-sabor`, a tabela de sabores fica (dossiê) | Rodada R2, R5 e R6, 05/11 |
 | `camiseta-insider-qual-escolher`, `camiseta-feminina-insider-qual-escolher` e `insider-vale-a-pena` | Com a R7 no ar: as seções de lavagem encurtam e linkam para ela, e as notas "Não testamos as peças" e "Ninguém da equipe usou as peças" mudam, porque a Perfect Top foi usada no short. O dossiê da Insider (seção 4) proíbe experiência de uso: registrar a exceção. Conferir também a Core (aviso de 2 cm na página?) e o cupom na Daily, que se contradizem entre os artigos | Rodada R7, 05/11 |
