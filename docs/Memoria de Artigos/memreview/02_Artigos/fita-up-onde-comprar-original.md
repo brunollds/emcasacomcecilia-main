@@ -11,7 +11,7 @@ anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
 proxima_acao: "decisao-do-bruno"
-bloqueado_por: "Decisões do Bruno (seção 12): a tabela muda com o Chrome de 05/11; Shopee sem vendedor confirmado"
+bloqueado_por: "Links convertidos do Mercado Livre (MLB-4879352040) e da Amazon (B0CWS8T5DZ), com o Bruno"
 score_autoridade: 70
 score_conversao: 80
 score_ponderado_total: 84
@@ -247,3 +247,11 @@ Lido no Chrome do Bruno. Preços do dia, em plena Black Friday dos canais.
 4. A Shopee fica de fora até alguém confirmar o vendedor?
 5. O localizador entra no artigo e na resposta de "loja física"?
 6. A correção dos dois artigos no ar ("Só no site oficial, todaup.com") já tem o dado: a Toda Up também vende em Mercado Livre, Amazon, Drogasil, C&A e lojas parceiras.
+
+**Decisões do Bruno (05/11)**
+
+1. Sim: o artigo mostra que o Mercado Livre da loja oficial está mais barato que o site com o MAUAD (reler os dois preços no dia de publicar). Link do ML convertido pelo Bruno.
+2. Sim: a Amazon (loja da Toda Up) entra, com o link convertido pelo Bruno.
+3. Sim: C&A, Drogasil e Droga Raia entram como canal, sem afiliado.
+4. A Shopee fica de fora.
+5. Sim: o localizador entra no artigo e responde "loja física", "perto de mim", "rj" e "bh".
