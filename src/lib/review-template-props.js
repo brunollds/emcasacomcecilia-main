@@ -26,10 +26,10 @@ import { inlineMarkdownToHtml, inlineMarkdownToText } from '@/lib/inlineMarkdown
 export { getYoutubeEmbedUrl };
 
 /**
- * O texto de cada link é o título atual do artigo de destino. O title do item não aparece: ele ficava velho quando o
- * destino mudava de título. Sem destino, o que só acontece no /preview (o validate:content barra nos artigos no ar),
- * o link vai ao endereço previsto e mostra o slug.
- * @param {{ slug: string; locale?: string; relatedArticles?: Array<{ slug: string; title?: string }> }} review
+ * O item é só o slug, e o texto de cada link é o título atual do artigo de destino: um título guardado no item ficava
+ * velho quando o destino mudava de título. Sem destino, o que só acontece no /preview (o validate:content barra nos
+ * artigos no ar), o link vai ao endereço previsto e mostra o slug.
+ * @param {{ slug: string; locale?: string; relatedArticles?: Array<{ slug: string }> }} review
  * @param {Array<{ slug: string; locale?: string; title: string }>} reviewCorpus
  * @returns {Array<{ slug: string; title: string; href: string }>}
  */

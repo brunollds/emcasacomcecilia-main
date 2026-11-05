@@ -261,16 +261,13 @@
   "editorialNote": "使用 SONAR20 優惠碼或透過本文連結購買，可能為 Bruno 帶來佣金，對你沒有額外費用。團隊中沒有人使用 OpenClaw 或 Hermes Agent。",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
-      "title": "OpenClaw 在 Hostinger：託管還是 VPS？各自要做什麼，以及適合誰"
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hant"
     },
     {
-      "slug": "best-vps-for-openclaw-zh-hant",
-      "title": "OpenClaw 最適合的 VPS：需求與該選哪個 KVM 方案"
+      "slug": "best-vps-for-openclaw-zh-hant"
     },
     {
-      "slug": "paperclip-ai-hostinger-zh-hant",
-      "title": "Paperclip AI 是什麼：是否可靠，以及如何在 Hostinger 上託管"
+      "slug": "paperclip-ai-hostinger-zh-hant"
     }
   ],
   "decision": {

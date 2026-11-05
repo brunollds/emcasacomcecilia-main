@@ -239,16 +239,13 @@
   "editorialNote": "我们可能从 YesStyle 获得佣金。Olive Young 的规则取自它自己的页面。",
   "relatedArticles": [
     {
-      "slug": "yesstyle-vs-stylevana-zh-hans",
-      "title": "YesStyle 还是 Stylevana？运送、税费与退货比较"
+      "slug": "yesstyle-vs-stylevana-zh-hans"
     },
     {
-      "slug": "yesstyle-shipping-singapore-malaysia-zh-hans",
-      "title": "YesStyle 寄往新加坡与马来西亚：运送时间、运费与税费"
+      "slug": "yesstyle-shipping-singapore-malaysia-zh-hans"
     },
     {
-      "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-      "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)"
+      "slug": "yesstyle-reward-code-cecilia010-zh-hans"
     }
   ],
   "decision": {

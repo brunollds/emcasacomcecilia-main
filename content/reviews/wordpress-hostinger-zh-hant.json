@@ -189,16 +189,13 @@
   "editorialNote": "使用 SONAR20 優惠碼或透過本文連結購買，Bruno 可能獲得傭金，你不需額外付費。團隊中沒有人在 Hostinger 上用過 WordPress。",
   "relatedArticles": [
     {
-      "slug": "hostinger-ai-builder-zh-hant",
-      "title": "Hostinger AI Builder（原 Horizons）：值得用，還是選 WordPress？"
+      "slug": "hostinger-ai-builder-zh-hant"
     },
     {
-      "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      "slug": "hostinger-referral-code-zh-hant"
     },
     {
-      "slug": "hostinger-domain-zh-hant",
-      "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？續訂與下單前要確認什麼"
+      "slug": "hostinger-domain-zh-hant"
     }
   ],
   "hideFromPortugueseListings": true,

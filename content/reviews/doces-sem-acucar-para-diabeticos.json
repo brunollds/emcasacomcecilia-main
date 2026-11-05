@@ -281,16 +281,13 @@
   "editorialNote": "Rótulos e preços lidos no site oficial da Belive. O texto mostra o que o rótulo informa e não indica quantidade para ninguém. Podemos receber comissão pelo cupom MAUAD.",
   "relatedArticles": [
     {
-      "slug": "brownie-sem-acucar-belive",
-      "title": "Brownie sem açúcar da Belive: sabores, o que diz o rótulo e preço por unidade"
+      "slug": "brownie-sem-acucar-belive"
     },
     {
-      "slug": "bolinho-sem-acucar-belive-ou-suavipan",
-      "title": "Bolinho sem açúcar: Belive ou Suavipan, pelo rótulo de cada um"
+      "slug": "bolinho-sem-acucar-belive-ou-suavipan"
     },
     {
-      "slug": "pao-de-mel-sem-acucar-belive",
-      "title": "Pão de mel sem açúcar da Belive: comum ou proteico, o que diz o rótulo"
+      "slug": "pao-de-mel-sem-acucar-belive"
     }
   ]
 }

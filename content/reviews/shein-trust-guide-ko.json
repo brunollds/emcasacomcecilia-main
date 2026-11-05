@@ -136,16 +136,13 @@
   "editorialNote": "이 글은 에디토리얼입니다. SHEIN 구매 시 수수료를 받을 수 있으며, 구매자에게 추가 비용은 없습니다.",
   "relatedArticles": [
     {
-      "slug": "shein-vs-temu-vs-ali-ko",
-      "title": "SHEIN(쉬인) vs 테무: 어떻게 고를까? 배송비, 반품 기한과 구매 전 확인할 것"
+      "slug": "shein-vs-temu-vs-ali-ko"
     },
     {
-      "slug": "shein-black-friday-ko",
-      "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, 쿠폰 사용 방법"
+      "slug": "shein-black-friday-ko"
     },
     {
-      "slug": "shein-referral-code-ko",
-      "title": "SHEIN 추천 코드: 입력하는 곳과 사용법"
+      "slug": "shein-referral-code-ko"
     }
   ]
 }

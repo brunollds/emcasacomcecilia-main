@@ -223,8 +223,6 @@ export interface Review {
   canonical?: string;
   relatedArticles?: {
     slug: string;
-    title: string;
-    category?: string;
   }[];
   contentSections?: {
     heading?: string;

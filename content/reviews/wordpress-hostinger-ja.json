@@ -190,16 +190,13 @@
   "editorialNote": "SONAR20 のコードまたはリンクからの購入で、Bruno に紹介手数料が入る場合があります。あなたに追加の費用はかかりません。チームの誰も Hostinger の WordPress は使っていません。",
   "relatedArticles": [
     {
-      "slug": "hostinger-ai-builder-ja",
-      "title": "Hostinger の AI Builder（旧 Horizons）：使う価値はある？それとも WordPress？"
+      "slug": "hostinger-ai-builder-ja"
     },
     {
-      "slug": "hostinger-referral-code-ja",
-      "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      "slug": "hostinger-referral-code-ja"
     },
     {
-      "slug": "hostinger-domain-ja",
-      "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 更新料と確認すべきこと"
+      "slug": "hostinger-domain-ja"
     }
   ],
   "decision": {

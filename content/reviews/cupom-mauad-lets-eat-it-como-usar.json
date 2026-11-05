@@ -227,12 +227,10 @@
   "editorialNote": "Cupom testado no checkout. Podemos receber comissão pelas compras com o MAUAD.",
   "relatedArticles": [
     {
-      "slug": "lets-eat-it-e-confiavel",
-      "title": "Let's Eat It é confiável? CNPJ, políticas e o que observar antes de comprar"
+      "slug": "lets-eat-it-e-confiavel"
     },
     {
-      "slug": "lets-eat-it-reclame-aqui-nota-reputacao",
-      "title": "Let's Eat It no Reclame Aqui: nota, reclamações e o que os dados mostram"
+      "slug": "lets-eat-it-reclame-aqui-nota-reputacao"
     }
   ]
 }

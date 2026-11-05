@@ -260,16 +260,13 @@
   "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 여러분에게는 추가 비용이 없습니다. 팀 중 누구도 OpenClaw나 Hermes Agent를 쓰지 않습니다.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-ko",
-      "title": "호스팅어의 OpenClaw: 관리형인가 VPS인가? 방식별 필요한 작업, 맞는 사람"
+      "slug": "openclaw-hostinger-managed-or-vps-ko"
     },
     {
-      "slug": "best-vps-for-openclaw-ko",
-      "title": "OpenClaw에 가장 좋은 VPS: 요구 사항과 골라야 할 KVM 플랜"
+      "slug": "best-vps-for-openclaw-ko"
     },
     {
-      "slug": "paperclip-ai-hostinger-ko",
-      "title": "Paperclip AI란? 믿을 만한지, 호스팅어에서 운영하는 방법"
+      "slug": "paperclip-ai-hostinger-ko"
     }
   ],
   "hideFromPortugueseListings": true,

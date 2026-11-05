@@ -400,15 +400,15 @@ const storeReferralLabel = (locale: Locale) =>
 
   assert.deepEqual(
     resolveRelatedArticleLinks(
-      { slug: 'source-pt', relatedArticles: [{ slug: 'guia', title: 'Black Friday: preços de 22/10' }] },
+      { slug: 'source-pt', relatedArticles: [{ slug: 'guia' }] },
       [{ slug: 'guia', title: 'Black Friday: até 70% OFF' }]
     ),
     [{ slug: 'guia', title: 'Black Friday: até 70% OFF', href: '/reviews/guia' }],
-    'o texto do link é o título atual do destino, não o do item'
+    'o texto do link é o título atual do destino'
   );
   assert.deepEqual(
     resolveRelatedArticleLinks(
-      { slug: 'source-pt', relatedArticles: [{ slug: 'future-review', title: 'Futuro' }] },
+      { slug: 'source-pt', relatedArticles: [{ slug: 'future-review' }] },
       []
     ),
     [{ slug: 'future-review', title: 'future-review', href: '/reviews/future-review' }],
@@ -416,7 +416,7 @@ const storeReferralLabel = (locale: Locale) =>
   );
   assert.deepEqual(
     resolveRelatedArticleLinks(
-      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'existing', title: 'Existente' }] },
+      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'existing' }] },
       [{ slug: 'existing', locale: 'es', title: 'Existente hoy' }]
     ),
     [{ slug: 'existing', title: 'Existente hoy', href: '/es/reviews/existing' }],
@@ -424,7 +424,7 @@ const storeReferralLabel = (locale: Locale) =>
   );
   assert.deepEqual(
     resolveRelatedArticleLinks(
-      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'shared', title: 'Compartilhado' }] },
+      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'shared' }] },
       [{ slug: 'shared', locale: 'es', title: 'Compartido' }, { slug: 'shared', locale: 'en', title: 'Shared' }]
     ),
     [{ slug: 'shared', title: 'Shared', href: '/en/reviews/shared' }],
@@ -432,7 +432,7 @@ const storeReferralLabel = (locale: Locale) =>
   );
   assert.throws(
     () => resolveRelatedArticleLinks(
-      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'ambiguous', title: 'Ambíguo' }] },
+      { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'ambiguous' }] },
       [{ slug: 'ambiguous', locale: 'es', title: 'Ambiguo' }, { slug: 'ambiguous', locale: 'fr', title: 'Ambigu' }]
     ),
     /relatedArticles ambíguo/,

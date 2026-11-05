@@ -239,16 +239,13 @@
   "editorialNote": "YesStyleから報酬（コミッション）を受け取る場合があります。Olive Youngのルールは、同社のページにもとづいています。",
   "relatedArticles": [
     {
-      "slug": "yesstyle-vs-stylevana-ja",
-      "title": "YesStyleとStylevanaを比較：配送・関税・返品"
+      "slug": "yesstyle-vs-stylevana-ja"
     },
     {
-      "slug": "yesstyle-shipping-japan-ja",
-      "title": "YesStyleの日本への配送：日数・送料・関税"
+      "slug": "yesstyle-shipping-japan-ja"
     },
     {
-      "slug": "yesstyle-reward-code-cecilia010-ja",
-      "title": "YesStyle リワードコード CECILIA010：最大5%オフ（初回購入 5% / リピーター 2%）"
+      "slug": "yesstyle-reward-code-cecilia010-ja"
     }
   ],
   "decision": {

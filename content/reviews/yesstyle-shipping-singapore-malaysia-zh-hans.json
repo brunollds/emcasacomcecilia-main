@@ -226,16 +226,13 @@
   "editorialNote": "规则取自 YesStyle 官方页面。我们可能会从购买中获得佣金。",
   "relatedArticles": [
     {
-      "slug": "yesstyle-vs-stylevana-zh-hans",
-      "title": "YesStyle 还是 Stylevana？运送、税费与退货比较"
+      "slug": "yesstyle-vs-stylevana-zh-hans"
     },
     {
-      "slug": "yesstyle-trust-guide-zh-hans",
-      "title": "YesStyle 值得信赖吗？购买前必看安全评价与购物指南"
+      "slug": "yesstyle-trust-guide-zh-hans"
     },
     {
-      "slug": "yesstyle-reward-code-cecilia010-zh-hans",
-      "title": "YesStyle 奖励码 CECILIA010：高达 5% 优惠 (首购 5% / 回购 2%)"
+      "slug": "yesstyle-reward-code-cecilia010-zh-hans"
     }
   ]
 }

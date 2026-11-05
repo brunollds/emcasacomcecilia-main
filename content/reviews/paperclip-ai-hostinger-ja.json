@@ -203,16 +203,13 @@
   "editorialNote": "コード SONAR20 またはリンクからのご購入では、Bruno に手数料が入ることがありますが、お客様の負担は増えません。チームの誰も Paperclip を使っていません。",
   "relatedArticles": [
     {
-      "slug": "openclaw-vs-hermes-agent-ja",
-      "title": "OpenClaw か Hermes Agent か：どちらを選び、Hostinger でそれぞれどう動かすか"
+      "slug": "openclaw-vs-hermes-agent-ja"
     },
     {
-      "slug": "openclaw-hostinger-managed-or-vps-ja",
-      "title": "Hostinger の OpenClaw：マネージドか VPS か？それぞれに必要なことと、向いている人"
+      "slug": "openclaw-hostinger-managed-or-vps-ja"
     },
     {
-      "slug": "hostinger-referral-code-ja",
-      "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      "slug": "hostinger-referral-code-ja"
     }
   ],
   "decision": {

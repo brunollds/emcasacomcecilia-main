@@ -259,16 +259,13 @@
   "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi extra per te. Nessuno del team usa OpenClaw.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-gestito-o-vps",
-      "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi serve"
+      "slug": "openclaw-hostinger-gestito-o-vps"
     },
     {
-      "slug": "openclaw-o-hermes-agent-quale-scegliere",
-      "title": "OpenClaw o Hermes Agent: quale scegliere e come farli girare su Hostinger"
+      "slug": "openclaw-o-hermes-agent-quale-scegliere"
     },
     {
-      "slug": "coupon-hostinger-codice-invito",
-      "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+      "slug": "coupon-hostinger-codice-invito"
     }
   ],
   "hideFromPortugueseListings": true,
