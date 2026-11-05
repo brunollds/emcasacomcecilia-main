@@ -400,32 +400,40 @@ const storeReferralLabel = (locale: Locale) =>
 
   assert.deepEqual(
     resolveRelatedArticleLinks(
+      { slug: 'source-pt', relatedArticles: [{ slug: 'guia', title: 'Black Friday: preços de 22/10' }] },
+      [{ slug: 'guia', title: 'Black Friday: até 70% OFF' }]
+    ),
+    [{ slug: 'guia', title: 'Black Friday: até 70% OFF', href: '/reviews/guia' }],
+    'o texto do link é o título atual do destino, não o do item'
+  );
+  assert.deepEqual(
+    resolveRelatedArticleLinks(
       { slug: 'source-pt', relatedArticles: [{ slug: 'future-review', title: 'Futuro' }] },
       []
     ),
-    [{ slug: 'future-review', title: 'Futuro', href: '/reviews/future-review' }],
-    'referência futura PT preserva pathname previsto'
+    [{ slug: 'future-review', title: 'future-review', href: '/reviews/future-review' }],
+    'sem destino (só no /preview) o link vai ao pathname previsto e mostra o slug'
   );
   assert.deepEqual(
     resolveRelatedArticleLinks(
       { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'existing', title: 'Existente' }] },
-      [{ slug: 'existing', locale: 'es' }]
+      [{ slug: 'existing', locale: 'es', title: 'Existente hoy' }]
     ),
-    [{ slug: 'existing', title: 'Existente', href: '/es/reviews/existing' }],
+    [{ slug: 'existing', title: 'Existente hoy', href: '/es/reviews/existing' }],
     'candidato único usa o pathname canônico real'
   );
   assert.deepEqual(
     resolveRelatedArticleLinks(
       { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'shared', title: 'Compartilhado' }] },
-      [{ slug: 'shared', locale: 'es' }, { slug: 'shared', locale: 'en' }]
+      [{ slug: 'shared', locale: 'es', title: 'Compartido' }, { slug: 'shared', locale: 'en', title: 'Shared' }]
     ),
-    [{ slug: 'shared', title: 'Compartilhado', href: '/en/reviews/shared' }],
+    [{ slug: 'shared', title: 'Shared', href: '/en/reviews/shared' }],
     'múltiplos candidatos preferem o locale de origem'
   );
   assert.throws(
     () => resolveRelatedArticleLinks(
       { slug: 'source-en', locale: 'en', relatedArticles: [{ slug: 'ambiguous', title: 'Ambíguo' }] },
-      [{ slug: 'ambiguous', locale: 'es' }, { slug: 'ambiguous', locale: 'fr' }]
+      [{ slug: 'ambiguous', locale: 'es', title: 'Ambiguo' }, { slug: 'ambiguous', locale: 'fr', title: 'Ambigu' }]
     ),
     /relatedArticles ambíguo/,
     'múltiplos candidatos sem locale de origem falham'

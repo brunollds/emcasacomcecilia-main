@@ -26,30 +26,32 @@ import { inlineMarkdownToHtml, inlineMarkdownToText } from '@/lib/inlineMarkdown
 export { getYoutubeEmbedUrl };
 
 /**
- * @param {{ slug: string; locale?: string; relatedArticles?: Array<{ slug: string; title: string; category?: string }> }} review
- * @param {Array<{ slug: string; locale?: string }>} reviewCorpus
+ * O texto de cada link é o título atual do artigo de destino. O title do item não aparece: ele ficava velho quando o
+ * destino mudava de título. Sem destino, o que só acontece no /preview (o validate:content barra nos artigos no ar),
+ * o link vai ao endereço previsto e mostra o slug.
+ * @param {{ slug: string; locale?: string; relatedArticles?: Array<{ slug: string; title?: string }> }} review
+ * @param {Array<{ slug: string; locale?: string; title: string }>} reviewCorpus
+ * @returns {Array<{ slug: string; title: string; href: string }>}
  */
 export function resolveRelatedArticleLinks(review, reviewCorpus = publishedReviews) {
   const sourceLocale = resolveReviewLocale(review.locale);
-  return (review.relatedArticles || []).map((article) => {
-    const candidates = reviewCorpus.filter((item) => item.slug === article.slug);
+  const toLink = (target) => ({ slug: target.slug, title: target.title, href: getReviewCanonicalPathname(target) });
+  return (review.relatedArticles || []).map(({ slug }) => {
+    const candidates = reviewCorpus.filter((item) => item.slug === slug);
     if (candidates.length === 0) {
-      return {
-        ...article,
-        href: getReviewCanonicalPathname({ slug: article.slug, locale: sourceLocale }),
-      };
+      return { slug, title: slug, href: getReviewCanonicalPathname({ slug, locale: sourceLocale }) };
     }
 
     if (candidates.length === 1) {
-      return { ...article, href: getReviewCanonicalPathname(candidates[0]) };
+      return toLink(candidates[0]);
     }
 
     const sameLocaleCandidates = candidates.filter((item) => resolveReviewLocale(item.locale) === sourceLocale);
     if (sameLocaleCandidates.length !== 1) {
-      throw new Error(`relatedArticles ambíguo para "${article.slug}" em "${review.slug}"`);
+      throw new Error(`relatedArticles ambíguo para "${slug}" em "${review.slug}"`);
     }
 
-    return { ...article, href: getReviewCanonicalPathname(sameLocaleCandidates[0]) };
+    return toLink(sameLocaleCandidates[0]);
   });
 }
 

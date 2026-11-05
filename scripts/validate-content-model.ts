@@ -154,10 +154,12 @@ function getDecisionProblems(decision: unknown, kind: ReviewKind): string[] {
   expectProblems({ leveSe: ['a'], ...ok }, 'guia', 1, 'campo fora do formato');
 }
 
-// Os relacionados da sidebar e da gaveta do celular saem do resolveRelatedArticleLinks. Item sem { slug, title } vira
-// um link para /reviews/undefined, só com a seta, e slug que não é artigo publicado no idioma do artigo dá 404 ou leva
-// a outro idioma. Até 11/2026 os 4 artigos da Belive traziam só os slugs, e o do sofá DAMIE, dois slugs que não existem.
+// Os relacionados da sidebar e da gaveta do celular saem do resolveRelatedArticleLinks, com o título atual do artigo de
+// destino. Item que é só o slug vira um link para /reviews/undefined, só com a seta, e slug que não é artigo publicado
+// no idioma do artigo dá 404 ou leva a outro idioma. Até 11/2026 os 4 artigos da Belive traziam só os slugs, e o do
+// sofá DAMIE, dois slugs que não existem.
 type RelatedArticleSource = { slug: string; locale?: string; relatedArticles?: unknown };
+type RelatedArticleTarget = { slug: string; locale?: string; title: string };
 
 function isArticleRef(item: unknown): item is { slug: string; title: string } {
   if (typeof item !== 'object' || item === null) return false;
@@ -165,7 +167,7 @@ function isArticleRef(item: unknown): item is { slug: string; title: string } {
   return typeof slug === 'string' && slug.trim() !== '' && typeof title === 'string' && title.trim() !== '';
 }
 
-function getRelatedArticleProblems(review: RelatedArticleSource, corpus: Array<{ slug: string; locale?: string }>): string[] {
+function getRelatedArticleProblems(review: RelatedArticleSource, corpus: RelatedArticleTarget[]): string[] {
   const related = review.relatedArticles;
   if (related === undefined) return [];
   if (!Array.isArray(related)) return ['relatedArticles não é uma lista'];
@@ -193,13 +195,13 @@ function getRelatedArticleProblems(review: RelatedArticleSource, corpus: Array<{
 
 {
   const report = (message: string) => reportError({ type: 'review', id: -1, slug: '__related_articles__', message });
-  const corpus = [
-    { slug: 'guia' },
-    { slug: 'guide', locale: 'en' },
-    { slug: 'shared', locale: 'en' },
-    { slug: 'shared', locale: 'es' },
-    { slug: 'ambiguous', locale: 'es' },
-    { slug: 'ambiguous', locale: 'fr' },
+  const corpus: RelatedArticleTarget[] = [
+    { slug: 'guia', title: 'Guia' },
+    { slug: 'guide', locale: 'en', title: 'Guide' },
+    { slug: 'shared', locale: 'en', title: 'Shared' },
+    { slug: 'shared', locale: 'es', title: 'Compartido' },
+    { slug: 'ambiguous', locale: 'es', title: 'Ambiguo' },
+    { slug: 'ambiguous', locale: 'fr', title: 'Ambigu' },
   ];
   const expectProblems = (review: RelatedArticleSource, expected: number, label: string) => {
     const problems = getRelatedArticleProblems(review, corpus);

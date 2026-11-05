@@ -248,6 +248,9 @@ vídeo, primeiras impressões e uso noturno.
   cópia do código vem de `couponCopyLocale.ts`, e o botão de copiar é o `CopyCodeButton` de
   `CouponActions.tsx` nos dois. `npm run test:build-output` confere a sidebar de cada artigo no
   idioma dele.
+- Os relacionados da sidebar e da gaveta (`relatedArticles` do JSON) mostram o título atual do artigo de
+  destino, pelo `resolveRelatedArticleLinks` (`src/lib/review-template-props.js`); o `title` do item não
+  aparece. Sem destino, o que só acontece no `/preview`, o link mostra o slug.
 - O dock e a gaveta ficam direto no `<body>`: dentro do fundo editorial, `.editorial-ambient-bg > *`
   troca o `sticky` por `relative`. `npm run test:build-output` confere isso em todos os artigos.
 - Com a gaveta aberta, o resto da página fica inerte. O que precisa de foco nesse momento vai
