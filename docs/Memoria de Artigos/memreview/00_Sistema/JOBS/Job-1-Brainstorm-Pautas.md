@@ -90,7 +90,7 @@ Ler a seção de alertas e decisões do dossiê do parceiro (`01_Parceiros/<Parc
 2. Um arquivo de instruções comum e um subagente por pauta, em paralelo. O prompt de cada subagente cita o caminho absoluto do worktree e proíbe editar o worktree e o checkout principal: o briefing nasce no scratchpad com `status: "briefing"`.
 3. Claude fecha as pendências de navegador dos briefings e junta as perguntas de todos numa lista só para o Bruno.
 4. As respostas entram no fim de cada briefing, numa seção `## Decisões do Bruno (<data>)`; o status passa a `pauta-aprovada`.
-5. O briefing vai para `02_Artigos/<slug>.md`, com o `PAINEL-DA-ESTEIRA.md` (seção 1) e a `Fila-de-Pautas.md` atualizados, num PR só do vault.
+5. O briefing vai para `02_Artigos/<slug>.md`, com a linha da pauta atualizada na `Fila-de-Pautas.md` (o estoque único; a seção 1 lista os briefings que esperam redação), num PR só do vault.
 6. A redação (Job 2) segue na sessão elaboradora de artigos.
 
 ---
