@@ -87518,6 +87518,182 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 102852,
+      "sha256": "340d1601635a706b4e85cbb007214549b2b166af33939543f700a8fcf37887c2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-max-titanium-qual-escolher-capa.webp",
+      "storage_filename": "whey-max-titanium-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-max-titanium-qual-escolher.json"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-max-titanium-qual-escolher.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-capa.webp",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/image/340d1601635a706b4e85cbb007214549b2b166af33939543f700a8fcf37887c2/whey-max-titanium-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/340d1601635a706b4e85cbb007214549b2b166af33939543f700a8fcf37887c2/whey-max-titanium-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T23:00:07.505Z",
+      "verification_etag_or_digest": "340d1601635a706b4e85cbb007214549b2b166af33939543f700a8fcf37887c2",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey-tabela.webp",
+      "local_url": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 71510,
+      "sha256": "4d4cd25189dcf45a9a24508bdcc74559eb51b6a3edcde43fc6b37addf34be4af",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-max-titanium-qual-escolher-super-whey-tabela.webp",
+      "storage_filename": "whey-max-titanium-qual-escolher-super-whey-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-max-titanium-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-max-titanium-qual-escolher.json",
+          "line": 228,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 190198,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/4d4cd25189dcf45a9a24508bdcc74559eb51b6a3edcde43fc6b37addf34be4af/whey-max-titanium-qual-escolher-super-whey-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/4d4cd25189dcf45a9a24508bdcc74559eb51b6a3edcde43fc6b37addf34be4af/whey-max-titanium-qual-escolher-super-whey-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T23:00:07.506Z",
+      "verification_etag_or_digest": "4d4cd25189dcf45a9a24508bdcc74559eb51b6a3edcde43fc6b37addf34be4af",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey.webp",
+      "local_url": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 43114,
+      "sha256": "2e64075a11c5ed4b31d8f21c4c20ad758a53a87f01e7dd2826fc3089e34a2ac6",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-max-titanium-qual-escolher-super-whey.webp",
+      "storage_filename": "whey-max-titanium-qual-escolher-super-whey.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-max-titanium-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-max-titanium-qual-escolher.json",
+          "line": 221,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 190191,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-super-whey.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/2e64075a11c5ed4b31d8f21c4c20ad758a53a87f01e7dd2826fc3089e34a2ac6/whey-max-titanium-qual-escolher-super-whey.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/2e64075a11c5ed4b31d8f21c4c20ad758a53a87f01e7dd2826fc3089e34a2ac6/whey-max-titanium-qual-escolher-super-whey.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T23:00:07.506Z",
+      "verification_etag_or_digest": "2e64075a11c5ed4b31d8f21c4c20ad758a53a87f01e7dd2826fc3089e34a2ac6",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/max-titanium/whey-max-titanium-qual-escolher-top-whey-3w.webp",
+      "local_url": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-top-whey-3w.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 90338,
+      "sha256": "fd377b61e18ec482f5edee6d9bfb5fd2420194d889c30d8fe65cae6998569c2a",
+      "width": 1000,
+      "height": 1000,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "whey-max-titanium-qual-escolher-top-whey-3w.webp",
+      "storage_filename": "whey-max-titanium-qual-escolher-top-whey-3w.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/whey-max-titanium-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/whey-max-titanium-qual-escolher.json",
+          "line": 191,
+          "column": 19,
+          "literal": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-top-whey-3w.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 190161,
+          "column": 21,
+          "literal": "/images/reviews/max-titanium/whey-max-titanium-qual-escolher-top-whey-3w.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fd377b61e18ec482f5edee6d9bfb5fd2420194d889c30d8fe65cae6998569c2a/whey-max-titanium-qual-escolher-top-whey-3w.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fd377b61e18ec482f5edee6d9bfb5fd2420194d889c30d8fe65cae6998569c2a/whey-max-titanium-qual-escolher-top-whey-3w.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T23:00:07.506Z",
+      "verification_etag_or_digest": "fd377b61e18ec482f5edee6d9bfb5fd2420194d889c30d8fe65cae6998569c2a",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nanlac/nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
       "local_url": "/images/reviews/nanlac/nanlac-comfor-hmo-800g-tabela-ingredientes.webp",
       "media_kind": "image",
