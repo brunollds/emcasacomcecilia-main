@@ -11,7 +11,7 @@ anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
 proxima_acao: "decisao-do-bruno"
-bloqueado_por: "Leitura no Chrome dos canais (seção 'A conferir no Chrome'); todaup.com deu 429 hoje"
+bloqueado_por: "Decisões do Bruno (seção 12): a tabela muda com o Chrome de 05/11; Shopee sem vendedor confirmado"
 score_autoridade: 70
 score_conversao: 80
 score_ponderado_total: 84
@@ -212,3 +212,38 @@ Lidos hoje, sem navegador. O que não abriu fica para o Chrome.
 - **Cupom MAUAD: só no site oficial (título direto):** 10% no site, sem explicar o nome do código. Não vale nos canais de terceiros.
 - **Qual canal escolher (veredito):** por perfil, com o que pesa: garantia e troca (site), preço no dia (canal), vendedor oficial (qualquer canal).
 - **FAQ:** "fita up original" (capítulo de original), "fita up vende na Renner" (capítulo de canais), "fita up tem loja física" e "fita up perto de mim" (capítulo de canais e loja física), "fita up onde comprar" (capítulo 2). Cada item aponta o capítulo que responde.
+
+---
+
+## 12. Leitura no Chrome (05/11/2026, à tarde)
+
+Lido no Chrome do Bruno. Preços do dia, em plena Black Friday dos canais.
+
+**A conclusão muda o artigo:** a Fita Up não é "só no site". A própria Toda Up vende na Amazon e no Mercado Livre (loja oficial), vende pela Drogasil e pela Droga Raia (vendido por Fita UP), a C&A vende com o próprio estoque, e a marca publica um localizador de lojas físicas parceiras com a Renner. No Mercado Livre, a loja oficial está mais barata hoje que o site com o MAUAD.
+
+| Canal | O que achei | Vendedor | Preço do dia | Estoque |
+|---|---|---|---|---|
+| todaup.com (site oficial) | Fita Up, Bege, Marrom e Preto, P, M e G | Toda Up | R$ 116,90 (de 179,90); com o MAUAD, R$ 105,21 | Todas as variações disponíveis |
+| Mercado Livre | "Fita Up® Única Fita Testada E Aprovada Toda Up Loja Oficial" (MLB-4879352040), 3 cores, P/M/G, +1000 vendidos, Full | Loja oficial Fita Up (selo de loja oficial) | R$ 84,40 (de 179,90, selo Black Friday; Bege) | Disponível. Outro anúncio da mesma loja (MLB-3933395314): R$ 95,81. Há revenda "loja parceira" (Cinta se Nova) a R$ 127,12 |
+| Amazon | "Fita Up \| Única Fita Testada E Aprovada Levanta Seios \| Loja Oficial" (B0CWS8T5DZ), Bege P | Toda Up, enviado pela Amazon | R$ 132,90 | Em estoque. Mesmo título vendido por NA BELEZA COSMÉTICOS (B0CWS7PRW9): R$ 119,90, 4 em estoque |
+| Drogasil e Droga Raia | "Fita Up® \| Única Fita Testada E Aprovada Marrom P" (950648); só essa variação | "Vendido por Fita UP e entregue por Drogasil" | R$ 129,90 | Sem estoque (OutOfStock) nas duas |
+| C&A | "sutiã fita up adesiva marrom" (1094052), rolo de 5 m por 6 cm (a largura P) + 10 protetores; marca "Fita up/C&A" | C&A | R$ 99,99 | Disponível. A bege (1090929) está sem estoque |
+| Renner (site) | A marca Toda Up existe no filtro de marcas, mas a lista dela está vazia | — | — | Nada à venda no site |
+| Renner (lojas físicas) e outras | O localizador da marca (todaup.com/pages/localizador-lojas-parceiras, Stockist) lista 1.659 pontos. Num raio de 15 km: 13 no Rio, 26 em BH, 33 em Florianópolis e 50 ou mais em São Paulo, muitos deles Renner (ao menos 255 lojas Renner nas buscas que fiz) | Lojas parceiras | — | Filtros "Pronta-entrega" e "Delivery" |
+| Shopee | Anúncios com "Fita UP": de uma loja em Santa Catarina, R$ 99,69 no Pix; de outra em SP, R$ 78,90 e R$ 113,91 | Não confirmado | — | A Shopee pediu verificação de tráfego e parei, sem contornar |
+
+**Notas da leitura**
+
+- A C&A descreve a fita como "uso único e não reutilizável". O site da Toda Up não diz (seção 6). Não usar a frase da C&A como fato da marca.
+- O localizador não aparece no menu principal. Quem chega pela busca "fita up perto de mim", "fita up rj" ou "fita up bh" acha a resposta lá, e o artigo pode linkar a página.
+- Renner e Drogasil no site: a busca pelo nome não serve. Na Renner a lista da marca está vazia; na Drogasil, a busca por "fita up" mistura fitas de outras marcas ("Fita Boob Up"), e só a 950648 é da Fita UP.
+- Quanto ao "original": a armadilha real é o nome parecido ("Fita Boob Up", "Fita Levanta Seios Push Up") em farmácia e marketplace, não um anúncio falso com o nome "Fita Up".
+
+**Decisões que isto pede ao Bruno**
+
+1. O artigo mostra que o Mercado Livre da loja oficial está mais barato que o site com o MAUAD (R$ 84,40 contra R$ 105,21)? Se sim, o link do ML é o seu, convertido.
+2. A Amazon (loja da Toda Up) entra com o seu link convertido?
+3. C&A, Drogasil e Droga Raia entram como canal, sem afiliado?
+4. A Shopee fica de fora até alguém confirmar o vendedor?
+5. O localizador entra no artigo e na resposta de "loja física"?
+6. A correção dos dois artigos no ar ("Só no site oficial, todaup.com") já tem o dado: a Toda Up também vende em Mercado Livre, Amazon, Drogasil, C&A e lojas parceiras.
