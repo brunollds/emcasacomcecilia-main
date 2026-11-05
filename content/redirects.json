@@ -173,5 +173,10 @@
     "source": "/reviews/yesstyle-kbeauty-guide-zh-hans",
     "destination": "/zh-hans/reviews/yesstyle-kbeauty-guide-zh-hans",
     "permanent": true
+  },
+  {
+    "source": "/reviews/brinde-skelt-30-outubro-cupom",
+    "destination": "/reviews/brindes-skelt-black-friday-cupom",
+    "permanent": true
   }
 ]
