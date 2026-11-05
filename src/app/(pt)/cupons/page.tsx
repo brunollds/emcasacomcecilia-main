@@ -4,6 +4,7 @@ import { CouponFaq, SectionHeading, couponFontVariables } from '@/components/cou
 import { CouponShelfItem, HubCouponCard, SHELF_CARD, couponCardName, layoutShelf } from '@/components/coupons/CouponCards';
 import { RevealSection } from '@/components/ui/RevealSection';
 import { getActiveCoupons, getCouponHubSections } from '@/lib/couponsData';
+import { getOfferMonthDate } from '@/lib/offerMonth';
 import { resolveMediaUrl } from '@/lib/resolve-media.mjs';
 
 const COUPONS_LOGO_URL = new URL(
@@ -144,12 +145,14 @@ function ShelfHeading({ id, children }: { id: string; children: React.ReactNode 
 export default function CuponsPage() {
   const { featured, categories, lastVerified } = getCouponHubSections();
   const jsonLd = getJsonLd();
-  const lastVerifiedLabel = lastVerified
-    ? new Date(`${lastVerified}T12:00:00`).toLocaleDateString('pt-BR', {
-        day: 'numeric',
-        month: 'long',
-        year: 'numeric',
-      })
+  // O mês da oferta, como nas páginas de loja: a data do hub é a da loja testada por último, não a de
+  // todas, e cada loja mostra a data do próprio teste.
+  const offerMonth = lastVerified ? getOfferMonthDate(lastVerified) : null;
+  const offerMonthLabel = offerMonth
+    ? offerMonth.toLocaleDateString('pt-BR', { month: 'long', year: 'numeric' })
+    : null;
+  const offerMonthIso = offerMonth
+    ? `${offerMonth.getFullYear()}-${String(offerMonth.getMonth() + 1).padStart(2, '0')}`
     : null;
 
   return (
@@ -170,11 +173,12 @@ export default function CuponsPage() {
           <p className="mt-3 max-w-[54ch] text-[15px] font-semibold leading-[22px] md:text-[17px] md:leading-[26px]">
             Copie o código aqui e cole no checkout da loja parceira.
           </p>
-          {lastVerified && lastVerifiedLabel && (
+          {offerMonthLabel && offerMonthIso && (
             <p className="mt-3.5 flex items-center gap-2 text-[13px] font-bold leading-[18px] text-verde-escuro">
               <CircleCheck aria-hidden="true" className="h-[18px] w-[18px] shrink-0" />
               <span>
-                Última conferência: <time dateTime={lastVerified}>{lastVerifiedLabel}</time>
+                Cupons válidos em <time dateTime={offerMonthIso}>{offerMonthLabel}</time>. A data do teste
+                está na página de cada loja.
               </span>
             </p>
           )}
