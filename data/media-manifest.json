@@ -107090,6 +107090,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/fita-up-onde-comprar-original-caixa.webp",
+      "local_url": "/images/reviews/toda-up/fita-up-onde-comprar-original-caixa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 37744,
+      "sha256": "536e644b7e7e05908167fa8ab3c5fc5c78250fc8028e318303492db819115e46",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "fita-up-onde-comprar-original-caixa.webp",
+      "storage_filename": "fita-up-onde-comprar-original-caixa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fita-up-onde-comprar-original.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fita-up-onde-comprar-original.json",
+          "line": 132,
+          "column": 19,
+          "literal": "/images/reviews/toda-up/fita-up-onde-comprar-original-caixa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 189114,
+          "column": 21,
+          "literal": "/images/reviews/toda-up/fita-up-onde-comprar-original-caixa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/536e644b7e7e05908167fa8ab3c5fc5c78250fc8028e318303492db819115e46/fita-up-onde-comprar-original-caixa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/536e644b7e7e05908167fa8ab3c5fc5c78250fc8028e318303492db819115e46/fita-up-onde-comprar-original-caixa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T17:50:52.257Z",
+      "verification_etag_or_digest": "536e644b7e7e05908167fa8ab3c5fc5c78250fc8028e318303492db819115e46",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/fita-up-onde-comprar-original-capa.webp",
+      "local_url": "/images/reviews/toda-up/fita-up-onde-comprar-original-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 129716,
+      "sha256": "0906ef7df58cb93b8cb297112116fe5fa9c5ae87112839c0189305459899a383",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "fita-up-onde-comprar-original-capa.webp",
+      "storage_filename": "fita-up-onde-comprar-original-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fita-up-onde-comprar-original.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fita-up-onde-comprar-original.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/fita-up-onde-comprar-original-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 189005,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/fita-up-onde-comprar-original-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/0906ef7df58cb93b8cb297112116fe5fa9c5ae87112839c0189305459899a383/fita-up-onde-comprar-original-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/0906ef7df58cb93b8cb297112116fe5fa9c5ae87112839c0189305459899a383/fita-up-onde-comprar-original-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-05T17:50:52.258Z",
+      "verification_etag_or_digest": "0906ef7df58cb93b8cb297112116fe5fa9c5ae87112839c0189305459899a383",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/fita-up-passo-a-passo-2610.webp",
       "local_url": "/images/reviews/toda-up/fita-up-passo-a-passo-2610.webp",
       "media_kind": "image",
