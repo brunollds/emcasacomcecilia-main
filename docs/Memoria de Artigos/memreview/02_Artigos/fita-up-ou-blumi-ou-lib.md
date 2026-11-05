@@ -10,7 +10,7 @@ type: "Comparativo"
 anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "decisao-do-bruno"
+proxima_acao: "chrome-e-redacao"
 bloqueado_por: "Leitura no Chrome da Blumi e da Lib (seção 'A conferir no Chrome')"
 score_autoridade: 70
 score_conversao: 60
@@ -103,7 +103,7 @@ Rodada de 05/11/2026, item R3 (aprovado pelo Bruno). Artigo novo, comparativo. C
 |---|---|---|---|---|---|---|
 | A Fita Up é da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 18/12/2020, em Biguaçu (SC) | A loja informa: (rodapé) + consulta pública | Fato público | BrasilAPI (CNPJ), e rodapé do site (26/10) | Tabela de empresa | 2026-11-05 | [x] Sim |
 | A Blumi é da BLUMI LTDA, CNPJ 63.243.441/0001-34, ativa desde 17/10/2025, em Biguaçu (SC) | Conta nossa: (consulta pública) | Fato público | BrasilAPI (CNPJ) | Tabela de empresa | 2026-11-05 | [x] Sim, com a data e a frase "consulta pública" |
-| A Blumi e a Fita Up são empresas diferentes | Conta nossa: | Conta sobre o CNPJ | CNPJs acima: nomes e datas de abertura diferentes | Veredito da primeira pergunta | 2026-11-05 | [x] Sim, dizendo que é pelo CNPJ e não pelo produto |
+| A Blumi é uma marca mais nova da Brandness, a mesma dona da Fita Up, com CNPJ próprio | Conta nossa: (consulta pública) | Fato público | BrasilAPI (CNPJ): a Brandness LTDA (CNPJ base 35.815.585) é sócia das duas, com o mesmo administrador e o mesmo endereço | Veredito da primeira pergunta | 2026-11-05 | [x] Sim (decisão do Bruno, 05/11), sem nome de pessoa |
 | A Blumi vende fita adesiva para seios | — | Produto | useblumi.com (home lida em 05/11 não mostra fita adesiva nem o nome da Fita Up; texto sobre medição) | — | — | [ ] Não até o Chrome |
 | A Lib é uma fita de tecido bege para roupas finas, com protetores Lib Pétalas e óleo | A loja informa: (resumo de busca de farmácias, não página aberta) | Produto | Página da Lib no Drogasil ou Panvel, no Chrome | Tabela de produto | — | [ ] Não até o Chrome |
 | A Lib dura cerca de 10 horas | A loja informa: | Fato do fabricante | Página de farmácia, no Chrome | Tabela | — | [ ] Não até o Chrome |
@@ -133,7 +133,7 @@ Rodada de 05/11/2026, item R3 (aprovado pelo Bruno). Artigo novo, comparativo. C
 ## 9. Dados do navegador (05/11/2026)
 
 - **BrasilAPI, CNPJ 40.159.443/0001-44 (FITA UP LTDA):** ativa, início em 18/12/2020, atividade "comércio varejista de artigos do vestuário e acessórios", Biguaçu (SC), CEP 88164275. Lido 05/11.
-- **BrasilAPI, CNPJ 63.243.441/0001-34 (BLUMI LTDA):** ativa, início em 17/10/2025, mesma atividade, Biguaçu (SC). Lido 05/11. Sem o site no cadastro. Sócia de outra empresa do grupo Brandness (não citar os nomes das pessoas).
+- **BrasilAPI, CNPJ 63.243.441/0001-34 (BLUMI LTDA):** ativa, início em 17/10/2025, mesma atividade, Biguaçu (SC). Lido 05/11. Sem o site no cadastro. Quadro de sócios conferido em 05/11: a Brandness LTDA é sócia da Blumi e da Fita Up, com o mesmo administrador nas duas e o mesmo endereço (Rua Edgard Hoffmann, 579). A Blumi tem uma sócia pessoa física a mais. Não citar os nomes das pessoas.
 - **useblumi.com (home, Shopify), lida 05/11:** não traz o nome Fita Up nem Lib. Traz texto de medição de seios e a palavra "fita" só nas instruções de medir. Link para vagas do grupo Brandness. Sem produto de fita adesiva na home. Chrome: a página do produto.
 - **Busca web (resumo, não página aberta), 05/11:**
   - Resultado de empresa para "Blumi fita adesiva" apontou o CNPJ acima como "Blumi Modeladores", com site useblumi.com, mas sem confirmar que vende fita. **Não usar como fato até o Chrome confirmar.**
@@ -160,6 +160,13 @@ Rodada de 05/11/2026, item R3 (aprovado pelo Bruno). Artigo novo, comparativo. C
 
 ---
 
+## Decisões do Bruno (05/11/2026)
+
+1. A Blumi entra como alternativa: outra linha da mesma dona, fora da disputa ponto a ponto com a fita (e fora da tabela de fita, salvo se o Chrome achar fita dela).
+2. O texto diz que as duas têm a mesma dona: a Blumi é uma marca mais nova da Brandness, a empresa por trás da Fita Up, com CNPJ próprio (consulta pública de 05/11). A frase "empresas diferentes" sai. Sem nome de pessoa.
+
+---
+
 ## 10. O que só o site dá
 
 - **Perfis:**
@@ -173,8 +180,8 @@ Rodada de 05/11/2026, item R3 (aprovado pelo Bruno). Artigo novo, comparativo. C
 
 ## 11. Esqueleto do artigo
 
-- **Resposta rápida:** Pelo que lemos, a Fita Up e a Blumi têm empresas diferentes e não dá para tratá-las como a mesma coisa. Escolha pelo formato e pelo vendedor. Frase final: a tabela mostra o que a marca publica de cada uma.
-- **Fita Up e Blumi são a mesma coisa? (pergunta literal do banco):** o CNPJ de cada uma, lado a lado, com a data da consulta. Sem dizer que é a mesma coisa ou que é cópia.
+- **Resposta rápida:** A Blumi é uma marca mais nova da Brandness, a mesma dona da Fita Up, com CNPJ próprio, e não vende uma fita igual à Fita Up. Para fita de seio, a comparação é Fita Up ou Lib. Frase final: a tabela mostra o que cada marca publica.
+- **Fita Up e Blumi são a mesma coisa? (pergunta literal do banco):** o CNPJ de cada uma, lado a lado, com a data da consulta, e a frase de que as duas são da Brandness. A Blumi entra como alternativa (outra linha da mesma dona), sem disputar ponto a ponto com a fita.
 - **Quem fabrica cada uma (título direto):** tabela de empresa, CNPJ e data de abertura. A Lib entra com "não encontramos o fabricante" se o Chrome não achar.
 - **Fita Up ou Lib? (pergunta literal do banco):** formato, tamanho, duração que a marca fala, e onde comprar. Concorrentes sem link.
 - **Tabela: Fita Up, Blumi e Lib lado a lado (título direto):** formato, tamanhos, duração, onde comprar, e a empresa. Os nomes dos concorrentes não têm link.

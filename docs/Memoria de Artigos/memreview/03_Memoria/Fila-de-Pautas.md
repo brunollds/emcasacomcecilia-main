@@ -11,9 +11,9 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
 | R2 | Whey Max Titanium x Dr. Peanut: sabores e onde sai mais barato | Dr. Peanut e Max | PT | [[whey-dr-peanut-max-titanium]] | Teste do Bruno: os dois códigos nesse whey e o Pix. Chrome: a página do whey na Dr. Peanut |
-| R3 | Fita Up ou Blumi (ou Lib)? | Toda Up | PT | [[fita-up-ou-blumi-ou-lib]] | Decisões do Bruno no briefing: a Blumi entra sem produto de fita? "Empresas diferentes" pelo CNPJ? |
-| R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Qual Minimal comparar; Chrome: páginas da Insider e da Minimal (429 no curl) |
-| R5 | Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey | Max Titanium | PT | [[whey-max-titanium-qual-escolher]] | O Super Whey é hipercalórico: entra? Teste do código no whey |
+| R3 | Fita Up ou Blumi (ou Lib)? | Toda Up | PT | [[fita-up-ou-blumi-ou-lib]] | Decidido 05/11: a Blumi entra como alternativa e o texto diz que as duas são da Brandness (QSA). Falta o Chrome da Lib e a redação |
+| R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Decidido 05/11: as duas Minimal (Tech Modal × Tech, Camiseta × Core); Chrome lido. Falta a redação |
+| R5 | Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey | Max Titanium | PT | [[whey-max-titanium-qual-escolher]] | Decidido 05/11: o Super Whey entra. Falta o teste do código no whey |
 | R6 | Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hiper) | Probiótica | PT | [[whey-probiotica-qual-escolher]] | Teste do código no whey; o Iso Protein Blend tem soja e não é whey |
 | R7 | Camiseta Insider encolhe? Como lavar, mancha e odor, com o short da Cecília | Insider | PT | [[camiseta-insider-encolhe-como-lavar]] | As 9 perguntas do briefing sobre o vídeo (peça, mancha, método, cheiro, uso). Encolher não foi testado |
 | DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | Escrito, revisado (Job 3, Fable), capa aprovada e mídia no CDN em 05/11; id 831 na main, falta o deploy. Sai daqui quando for ao ar |

@@ -11,7 +11,7 @@ anexo_tipo: "Anexo-Suplementos-Alimentos"
 status: "pauta-aprovada"
 responsavel: "Claude"
 proxima_acao: "redacao"
-bloqueado_por: "decisao do Bruno sobre o Super Whey no título (ver Perguntas)"
+bloqueado_por: "teste do código no whey (Bruno)"
 score_autoridade: 60
 score_conversao: 70
 score_ponderado_total: 74
@@ -186,6 +186,12 @@ Nada foi editado. Propostas para o Bruno aprovar:
 - Tabela nutricional (imagem) do 100% Whey Pote, do Refil, do Whey Pro, do Top Whey 3W (Sabor, Natural, Performance), do IsoWhey e do Performance de 1,8 kg. Hoje a dose e a proteína vêm da tabela lida em 02/11, e a do 1,8 kg não foi lida.
 - Natural: a loja troca a sucralose por estévia? O artigo de 02/11 diz que sim; a descrição de hoje só diz "ingredientes totalmente naturais".
 - Super Whey: confirmar a embalagem e o sabor da tabela (lida no sabor Baunilha; os outros sabores podem ter tabela diferente).
+
+---
+
+## Decisões do Bruno (05/11/2026)
+
+1. O Super Whey entra (título, tabela e o capítulo 8, com a tabela da loja na frente).
 
 ---
 
