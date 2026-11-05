@@ -189176,5 +189176,276 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 831,
+    "slug": "dolce-gusto-cnpj-negocios-combos",
+    "locale": "pt",
+    "title": "Dolce Gusto para CNPJ: conta Business, 10% extra e os combos de 20 a 50 caixas com o CECI",
+    "seoTitle": "Dolce Gusto para CNPJ: 10% extra, combos e o cupom CECI",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "5 de novembro de 2026",
+    "publishedAtISO": "2026-11-05",
+    "draft": false,
+    "isNew": true,
+    "description": "Com CNPJ, a Dolce Gusto dá 10% extra nos combos de 20 a 50 caixas, e o CECI soma. Veja como abrir a conta Business, quanto custa cada cápsula e qual combo escolher.",
+    "metaDescription": "O CECI dá 10% OFF e soma com os 10% de CNPJ nos combos Dolce Gusto Negócios. Veja a conta Business, os combos de 20 a 50 caixas e o custo por cápsula.",
+    "image": "/images/reviews/dolcegusto/dolce-gusto-cnpj-negocios-combos-capa.webp",
+    "imageAlt": "Máquina Dolce Gusto Mini Me vermelha ao lado de caixas de cápsulas empilhadas, com o logo da Dolce Gusto e o título Dolce Gusto para CNPJ",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "decision": {
+      "takeIf": [
+        "Leve o combo de 20 caixas se a equipe tem até 5 pessoas e você quer começar com menos estoque.",
+        "Leve o combo de 50 caixas se o consumo é regular e o menor preço por cápsula pesa mais que o espaço na prateleira.",
+        "Leve a conta Business se a compra é da empresa: a condição dos 10% extras é para CNPJ."
+      ],
+      "skipIf": [
+        "Passe os combos se o consumo é esporádico: cápsula parada sai mais cara que a caixa avulsa em promoção.",
+        "Passe o combo pronto se o volume passa de 50 caixas ou se você precisa de outra máquina; peça a proposta personalizada."
+      ]
+    },
+    "cta": {
+      "text": "Veja os combos Dolce Gusto Negócios na loja oficial e aplique o cupom CECI no carrinho em compras a partir de R$ 100.",
+      "label": "Ver os combos para negócios",
+      "url": "https://www.nescafe-dolcegusto.com.br/negocios-combos",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "dolce-gusto",
+    "editorialNote": "Podemos receber comissão pelo cupom e pelos links. Ninguém da equipe tem conta Business.",
+    "relatedArticles": [
+      {
+        "slug": "cafeteira-escritorio-qual-escolher-custo-mes"
+      },
+      {
+        "slug": "assinatura-dolce-gusto-vale-a-pena"
+      },
+      {
+        "slug": "quanto-custa-capsula-dolce-gusto"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Com CNPJ, a Dolce Gusto dá 10% extra no carrinho nos combos da linha Negócios, e o cupom CECI soma com esse desconto e com o do combo. Os combos prontos vão de 20 a 50 caixas; volume maior pede proposta. O que decide é o tamanho do combo: a conta está no capítulo de preço."
+        ]
+      },
+      {
+        "heading": "Como abrir a conta Business",
+        "paragraphs": [
+          "Para o escritório, o salão ou a loja com uma máquina só, o caminho é a linha Negócios: a conta certa, o combo certo e o CECI no carrinho.",
+          "Quem compra para a empresa começa pelo cadastro: a loja pergunta se a conta é Pessoal ou Business, e a Business muda o que o site pede. O cadastro da Business pede razão social, CNPJ, celular e inscrição estadual. Quem não tem inscrição estadual marca a opção \"Sou isento\" e segue.",
+          "A condição dos 10% extras é para CNPJ, e o CNPJ entra no cadastro Business. A própria página resume o caminho: entrar com a conta CNPJ, escolher o combo e conferir os 10% aplicados no carrinho."
+        ]
+      },
+      {
+        "heading": "Os combos da linha Negócios",
+        "paragraphs": [
+          "Nos combos, o que muda o preço é o tamanho: cada degrau de 30 e de 50 caixas aumenta o desconto. A página Soluções Prontas da loja reúne todos eles com a condição \"exclusiva para CNPJ: 10% OFF extra direto no carrinho\". O desconto do combo já vem no preço da tabela; os 10% de CNPJ entram depois, no carrinho."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Combo",
+            "Cápsulas",
+            "De",
+            "Por",
+            "Por cápsula"
+          ],
+          "rows": [
+            [
+              "Espresso, 20 caixas (25% OFF)",
+              "200",
+              "R$ 498,00",
+              "R$ 373,50",
+              "R$ 1,87"
+            ],
+            [
+              "Mochaccino Canela, 20 caixas (25% OFF)",
+              "200",
+              "R$ 498,00",
+              "R$ 373,50",
+              "R$ 1,87"
+            ],
+            [
+              "Alpino, 20 caixas (25% OFF)",
+              "200",
+              "R$ 558,00",
+              "R$ 418,50",
+              "R$ 2,09"
+            ],
+            [
+              "Queridinhos, 20 caixas (25% OFF): 7 Espresso, 7 Mochaccino Canela e 6 Café au Lait",
+              "200",
+              "R$ 498,00",
+              "R$ 373,50",
+              "R$ 1,87"
+            ],
+            [
+              "Queridinhos, 30 caixas (30% OFF)",
+              "300",
+              "R$ 747,00",
+              "R$ 522,90",
+              "R$ 1,74"
+            ],
+            [
+              "Amante de Cafés, 30 caixas (30% OFF)",
+              "300",
+              "R$ 747,00",
+              "R$ 522,90",
+              "R$ 1,74"
+            ],
+            [
+              "Amante de Lattes, 30 caixas (30% OFF)",
+              "300",
+              "R$ 747,00",
+              "R$ 522,90",
+              "R$ 1,74"
+            ],
+            [
+              "Queridinhos, 50 caixas (35% OFF)",
+              "500",
+              "R$ 1.245,00",
+              "R$ 809,25",
+              "R$ 1,62"
+            ],
+            [
+              "Mini Me 2.0 (220V ou 110V) + 20 caixas",
+              "200",
+              "não se aplica",
+              "R$ 797,00",
+              "não se aplica"
+            ]
+          ],
+          "caption": "Preços de 05/11, sem os 10% de CNPJ e sem o CECI. \"Por cápsula\" é o preço do combo dividido pelas cápsulas. A página tem 18 combos; a tabela traz os primeiros."
+        },
+        "postParagraphs": [
+          "O combo do Alpino sai mais caro por cápsula porque a caixa dele parte de um preço de lista mais alto. Os outros de 20 caixas empatam, então a escolha entre eles é de sabor, não de preço. Já o tamanho muda a conta: cada degrau, de 20 para 30 e de 30 para 50 caixas, aumenta o desconto em cinco pontos, e é isso que baixa o preço de cada cápsula.",
+          "O combo da Mini Me é outro caso: a máquina entra junto com 20 caixas, e a loja o anuncia como \"Mini Me 2.0 por R$ 299\". Serve a quem ainda não tem máquina e já ia comprar as caixas; para quem já tem, os combos só de cápsulas são o caminho. Pela conta do combo, tirando os R$ 299 da máquina, as 20 caixas saem pelo preço de lista: o desconto está na máquina, não nas cápsulas. Se os 10% de CNPJ e o CECI entram no combo com máquina, a página não diz: ponha no carrinho e confira o total antes de fechar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-20-caixas.webp",
+            "alt": "Página dos combos Dolce Gusto para negócios com o aviso de 10% OFF extra para CNPJ, o passo a passo de login com a conta CNPJ e os combos de 20 caixas com os preços",
+            "caption": "Os combos de 20 caixas e o passo a passo da condição para CNPJ. Print da loja oficial."
+          }
+        ]
+      },
+      {
+        "heading": "Quanto custa cada cápsula com os 10% de CNPJ e o CECI",
+        "paragraphs": [
+          "Com os 10% de CNPJ e o CECI, o combo de 50 caixas deixa a cápsula quase 50% mais barata que na caixa avulsa; sem os dois, a diferença é menor.",
+          "Conta nossa, pelos preços da tabela acima: o preço do combo vezes 0,9 do CNPJ e vezes 0,9 do CECI, um sobre o outro. O carrinho mostra o valor final."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Combo",
+            "Com os 10% de CNPJ e o CECI",
+            "Por cápsula"
+          ],
+          "rows": [
+            [
+              "Combo de 20 caixas",
+              "R$ 302,54",
+              "R$ 1,51"
+            ],
+            [
+              "Combo de 30 caixas",
+              "R$ 423,55",
+              "R$ 1,41"
+            ],
+            [
+              "Combo de 50 caixas",
+              "R$ 655,49",
+              "R$ 1,31"
+            ],
+            [
+              "Caixa avulsa, preço de lista",
+              "R$ 24,90",
+              "R$ 2,49"
+            ]
+          ],
+          "caption": "Combos de cápsula com os dois descontos, pela conta acima. A caixa avulsa está no preço de lista, sem desconto, como referência."
+        },
+        "postParagraphs": [
+          "Cada degrau tira cerca de 10 centavos por cápsula. Passar de 20 para 30 caixas poupa o mesmo que passar de 30 para 50, mas o segundo pede 200 cápsulas a mais na prateleira.",
+          "A armadilha está no \"25% OFF\" e no \"35% OFF\": eles contam sobre o preço de lista, e a loja troca as promoções de caixa quase todo dia. Antes de fechar um combo, olhe quanto a caixa está custando no dia. O combo de 20 caixas dá R$ 18,68 por caixa; se a caixa avulsa estiver abaixo disso, o combo não é a melhor conta."
+        ]
+      },
+      {
+        "heading": "O cupom CECI soma com o CNPJ e com o combo",
+        "paragraphs": [
+          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, e na linha Negócios ele soma com os 10% de CNPJ e com o desconto do combo. O limite é de 3 usos por campanha, e o mesmo código volta na campanha seguinte. As condições vigentes e a data do último teste ficam na [página do cupom CECI](/cupons/dolce-gusto)."
+        ]
+      },
+      {
+        "heading": "Combo pronto ou proposta personalizada",
+        "paragraphs": [
+          "Dentro dos combos de 20 a 50 caixas, o combo pronto resolve: o preço aparece na hora e o desconto vai direto para o carrinho. A proposta personalizada é para quem precisa de mais volume ou de outra máquina.",
+          "Na Soluções Personalizadas, o formulário pergunta o tipo de estabelecimento e quantas pessoas passam por dia, de 1 a 20 até mais de 2.000. Um consultor retorna com uma proposta. O CECI não é prometido nesse canal, então o desconto, nesse caso, é o que a proposta trouxer."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/dolcegusto/dolce-gusto-cnpj-combos-30-50-mini-me.webp",
+            "alt": "Combos Dolce Gusto para negócios de 30 e 50 caixas e o combo da Mini Me 2.0 com 20 caixas, com os preços da loja",
+            "caption": "Os combos de 30 e 50 caixas e o da Mini Me 2.0. Print da loja oficial."
+          }
+        ]
+      },
+      {
+        "heading": "Assinatura para negócios",
+        "paragraphs": [
+          "Para não ficar sem cápsula, a loja tem um banner que leva à assinatura: você monta a caixa e programa a frequência. É o caminho de quem prefere receber todo mês a decidir um combo grande de uma vez. É a mesma assinatura da loja comum; se os 10% de CNPJ entram nela, a página não diz. O que ela dá de desconto está no guia [assinatura da Dolce Gusto: vale a pena?](/reviews/assinatura-dolce-gusto-vale-a-pena)."
+        ]
+      },
+      {
+        "heading": "Para qual negócio serve",
+        "paragraphs": [
+          "A linha Negócios serve a quem tem pouca gente passando por dia e quer variedade na mesma máquina: café, bebida com leite, chocolate e chá. Regra prática, sem teste nosso, com duas bebidas por pessoa por dia em 22 dias úteis, ou 44 cápsulas por pessoa por mês: o combo de 20 caixas atende de 4 a 5 pessoas por mês, o de 30 cerca de 7 e o de 50 cerca de 11. Cappuccino, latte macchiato e chococino usam duas cápsulas; o Mochaccino Canela e o Café au Lait dos combos usam uma. Um lugar que pede muito cappuccino consome mais do que a regra mostra.",
+          "Para o escritório, a conta mês a mês, com a máquina e as cápsulas, está em [cafeteira para escritório: qual escolher e quanto custa por mês](/reviews/cafeteira-escritorio-qual-escolher-custo-mes)."
+        ]
+      },
+      {
+        "heading": "Qual combo escolher",
+        "paragraphs": [
+          "O combo certo é o que cobre o consumo do mês sem sobrar cápsula na prateleira: o degrau seguinte economiza pouco por cápsula e prende o dobro de estoque.",
+          "**Equipe pequena, de 1 a 5 pessoas, ou quem quer testar a máquina:** o combo de 20 caixas. É o menor desconto, mas sobra menos estoque.",
+          "**Equipe de 5 a 7 pessoas:** o combo de 30 caixas, Amante de Cafés ou Amante de Lattes, conforme o que o grupo bebe.",
+          "**Equipe de 8 pessoas ou mais, com consumo regular:** o combo de 50 caixas, que dá o menor preço por cápsula.",
+          "**Quem não tem máquina e já ia comprar as caixas:** o combo da Mini Me, que traz a máquina junto.",
+          "**Volume acima de 50 caixas ou máquina diferente:** a proposta personalizada."
+        ],
+        "emphasis": "Se fosse para o meu negócio, eu levaria o combo de 30 caixas, porque cada degrau acima tira só cerca de 10 centavos por cápsula e o de 30 não prende 500 cápsulas de uma vez.",
+        "links": [
+          {
+            "label": "Ver os combos para negócios",
+            "href": "https://www.nescafe-dolcegusto.com.br/negocios-combos",
+            "sponsored": true
+          }
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Pessoa física compra os combos? A página não diz se o combo fecha sem CNPJ; o que ela diz é que os 10% extras são só para CNPJ. Sem CNPJ, o desconto com código é o CECI, 10% OFF a partir de R$ 100.",
+          "O CECI soma com os 10% de CNPJ? Soma, e também com o desconto do combo; o carrinho mostra o valor final antes de pagar.",
+          "Precisa de inscrição estadual para abrir a conta Business? Não: o cadastro tem a opção \"Sou isento\".",
+          "Dá para comprar máquina junto com o combo? Dá, no combo da Mini Me 2.0 com 20 caixas; os outros combos são só de cápsulas.",
+          "Quantas caixas têm os combos prontos? De 20 a 50, com o preço na hora; para volume maior ou outra máquina, o caminho é a proposta personalizada."
+        ]
+      }
+    ]
   }
 ];

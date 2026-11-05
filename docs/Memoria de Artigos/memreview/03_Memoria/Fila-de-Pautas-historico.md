@@ -444,3 +444,7 @@ Os artigos abaixo já existem e o Bing os põe entre a 4ª e a 9ª posição, ou
 
 - **R1, Fita Up original: onde comprar** ([[fita-up-onde-comprar-original]], id 830): no ar em 05/11 (release f0008e69, PR #610), com os canais lidos no Chrome, a Shopee fora e o localizador de lojas parceiras.
 - **Correção do "só no site oficial":** `toda-up-e-confiavel`, `toda-up-e-boa` (que dizia o mesmo) e `fita-up-como-usar` (link para a R1), no mesmo PR e no mesmo release.
+
+## Onboarding da HolyFoods (Bruno, 05/11/2026)
+
+- **HO1 a HO4** ([[holyfoods-e-confiavel]], [[holyfoods-reclame-aqui-nota-reputacao]], [[cupom-holyfoods-como-usar]], [[black-friday-holyfoods]]): no ar em 05/11 (release `040b1515`), com os vídeos da Cecília. Saíram da seção 1 da Fila em 05/11.
