@@ -2619,7 +2619,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O desconto vale na renovação?',
         answer:
-          'Não. Os 20% do SONAR20 valem só na compra nova: pela regra do programa de indicação da Hostinger, a renovação sai pelo preço de tabela, sem desconto. O carrinho mostra o preço de renovação abaixo do plano; confira esse valor antes de pagar.',
+          'Não. Os 20% do SONAR20 valem só na compra nova: pela regra do programa de indicação da Hostinger, a renovação sai pelo preço de tabela, sem desconto. Na compra nova, ele vale também no VPS; só não vale no registro de domínio. O carrinho mostra o preço de renovação abaixo do plano; confira esse valor antes de pagar.',
       },
       {
         question: 'O Em Casa com Cecília usa a Hostinger?',
