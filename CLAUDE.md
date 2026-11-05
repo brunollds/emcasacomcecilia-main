@@ -271,8 +271,9 @@ vídeo, primeiras impressões e uso noturno.
   topo, a foto). Copiar pela faixa também deixa o recorte verde e mostra a dica de onde colar. O `test:article-d2`
   confere a escolha com datas fixas e, nos dados, que todo artigo em PT da loja com o código de sempre leva o prazo e
   nenhum outro o leva. O `test:build-output`, na hora do build (o mtime do HTML, não o relógio), confere um invólucro
-  vazio em cada um dos três recortes e um na gaveta, antes da dica de copiado, e o código só no payload: nem no HTML,
-  nem no `<head>`, nem no JSON-LD, inclusive nos artigos fora do sitemap. O fim
+  vazio em cada um dos três recortes, depois do link da loja e antes da dica de copiado, e um na gaveta; o código e as
+  datas de cada prazo só no payload (nem no HTML, nem no `<head>`, nem no JSON-LD); e, no artigo sem a faixa, nenhum
+  código com prazo dos dados, vencido ou não. Os artigos fora do sitemap passam pela mesma conferência. O fim
   (`ArticleEnd`, dentro da coluna do artigo) vai nesta ordem: vídeo, galeria, veredito (só produto), bloco da
   loja (`ArticleStoreBlock`, `id="loja"`) ou, sem loja mas com `cta`, `ArticleAffiliateBlock` ("Ver na
   <loja>", sempre com o `cta.url` de afiliado e `rel` sponsored), caixa da Cecília (`ArticleAuthorBox`),
