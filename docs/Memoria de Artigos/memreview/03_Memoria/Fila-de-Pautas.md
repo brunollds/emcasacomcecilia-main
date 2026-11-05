@@ -112,6 +112,9 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
+| `cupom-max-titanium-como-usar` e `cupom-probiotica-como-usar` | seoTitle pelo passo a passo e sem o % no title e na meta (H1 e slug ficam). Ver [[cupom-loja-primeira-pagina-0511]], parte 1 | Cupom <loja> na 1ª página, 05/11 |
+| 9 artigos da Max, Probiótica e Insider | Âncora exata "cupom <loja>" para /cupons/<loja>; `insider-vale-a-pena` e `tabela-de-medidas-insider` nem têm o link. Lista na parte 2 da mesma nota | Cupom <loja> na 1ª página, 05/11 |
+| /cupons da Max, Probiótica e Insider (sessão de cupons) | FAQ "primeira compra", "influencer" e "mercado livre"; confirmar o title sem "(nov/2026)". Parte 3 da mesma nota | Cupom <loja> na 1ª página, 05/11 |
 | `cafeteira-escritorio-qual-escolher-custo-mes` | Link para a DN1 na seção "Dolce Gusto Negócios" e para a DN2 na seção de consultório, quando cada uma for ao ar | Pautas DN, 05/11 |
 | `black-friday-dolce-gusto` | A faixa do site já diz "COMEÇOU A BLACK FRIDAY", com cafés intensos a partir de R$ 15,90 e máquinas e combos fora da oferta. Reler a oferta e atualizar o guia | Sessão de artigos, 05/11 |
 | `clube-dolce-gusto-como-funciona` | "Dolce Gusto Club" no título SEO | Bing, 04/11 |
@@ -135,5 +138,6 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | Até 21/11 | Skelt: refazer o teste do cupom, porque a regra vence em 21/11 |
 | Antes da Black Friday | Reler os preços da Insider (I6), do melhor whey, da Probiótica, da Max e da Hostinger. Na DAMIE, a campanha e os preços |
 | Antes de 27/11 | Famílias da Hostinger (Reach, HostGator e WordPress): reler os preços |
+| ~14/11 | Remedir "cupom max titanium", "cupom probiótica" e "cupom insider" (posição e URL); na Max, decidir a dona ([[cupom-loja-primeira-pagina-0511]]) |
 | 27/11 | Insider: refazer o teste da soma do cupom com a Black Friday |
 | Black Friday | Bagaggio: testar se a promoção "não cumulativa" soma com o CECILIA10 |
