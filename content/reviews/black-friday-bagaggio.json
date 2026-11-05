@@ -231,20 +231,16 @@
   "editorialNote": "Preços conferidos no site da loja. Podemos receber comissão pelo cupom CECILIA10.",
   "relatedArticles": [
     {
-      "slug": "bagaggio-e-confiavel",
-      "title": "Bagaggio é confiável? Empresa, CNPJ, site oficial e garantia"
+      "slug": "bagaggio-e-confiavel"
     },
     {
-      "slug": "bagaggio-reclame-aqui-nota-reputacao",
-      "title": "Bagaggio no Reclame Aqui: nota, reputação e principais reclamações"
+      "slug": "bagaggio-reclame-aqui-nota-reputacao"
     },
     {
-      "slug": "cupom-bagaggio-como-usar",
-      "title": "Cupom Bagaggio: como usar o CECILIA10 e o que ele soma"
+      "slug": "cupom-bagaggio-como-usar"
     },
     {
-      "slug": "bagaggio-garantia-vitalicia",
-      "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      "slug": "bagaggio-garantia-vitalicia"
     }
   ],
   "bodyDatesReason": "campanha"

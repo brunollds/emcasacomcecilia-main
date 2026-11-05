@@ -217,16 +217,13 @@
   "editorialNote": "SONAR20のコードまたはリンクからの購入で、Brunoに紹介手数料が入る場合があります。",
   "relatedArticles": [
     {
-      "slug": "vps-or-shared-hosting-ja",
-      "title": "VPS か共有ホスティングか：Hostinger であなたのサイトに合うのはどちら"
+      "slug": "vps-or-shared-hosting-ja"
     },
     {
-      "slug": "hostinger-trust-guide-ja",
-      "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+      "slug": "hostinger-trust-guide-ja"
     },
     {
-      "slug": "hostinger-referral-code-ja",
-      "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+      "slug": "hostinger-referral-code-ja"
     }
   ],
   "decision": {

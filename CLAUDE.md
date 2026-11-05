@@ -16,7 +16,7 @@ estava desatualizada:
 
 ```bash
 npm run typecheck            # tsc --noEmit — gate mais rápido que o build
-npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (roda no build); chave repetida no mesmo objeto de content/reviews e content/receitas, com o caminho; relacionados (relatedArticles) de todo artigo no ar: { slug, title }, com o slug de um artigo publicado no mesmo idioma (rascunho não tem página)
+npm run validate:content     # modelo de conteúdo e o texto dos artigos em PT (roda no build); chave repetida no mesmo objeto de content/reviews e content/receitas, com o caminho; relacionados (relatedArticles) de todo artigo no ar: só { slug }, sem title, com o slug de um artigo publicado no mesmo idioma (rascunho não tem página)
 npm run validate:video       # metadados e páginas de exibição de vídeo
 npm run test:internal-links  # domínio, normalização e derivação de marca
 npm run test:coupon-offer-modes
@@ -249,8 +249,9 @@ vídeo, primeiras impressões e uso noturno.
   `CouponActions.tsx` nos dois. `npm run test:build-output` confere a sidebar de cada artigo no
   idioma dele.
 - Os relacionados da sidebar e da gaveta (`relatedArticles` do JSON) mostram o título atual do artigo de
-  destino, pelo `resolveRelatedArticleLinks` (`src/lib/review-template-props.js`); o `title` do item não
-  aparece. Sem destino, o que só acontece no `/preview`, o link mostra o slug.
+  destino, pelo `resolveRelatedArticleLinks` (`src/lib/review-template-props.js`): o item é só
+  `{ "slug" }`, e o `validate:content` barra o `title`. Sem destino, o que só acontece no `/preview`, o link
+  mostra o slug.
 - O dock e a gaveta ficam direto no `<body>`: dentro do fundo editorial, `.editorial-ambient-bg > *`
   troca o `sticky` por `relative`. `npm run test:build-output` confere isso em todos os artigos.
 - Com a gaveta aberta, o resto da página fica inerte. O que precisa de foco nesse momento vai

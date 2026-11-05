@@ -158,16 +158,13 @@
   "editorialNote": "이 글은 편집 콘텐츠입니다. SHEIN과 테무 링크로 구매하면 수수료를 받을 수 있습니다.",
   "relatedArticles": [
     {
-      "slug": "shein-trust-guide-ko",
-      "title": "SHEIN(쉬인)은 믿을 만하고 안전한가요? 운영 회사, 어느 나라 회사인지, 반품 기한"
+      "slug": "shein-trust-guide-ko"
     },
     {
-      "slug": "shein-black-friday-ko",
-      "title": "SHEIN 블랙프라이데이(Black Friday) 2026: 시작일과 종료일, 쿠폰 사용 방법"
+      "slug": "shein-black-friday-ko"
     },
     {
-      "slug": "shein-referral-code-ko",
-      "title": "SHEIN 추천 코드: 입력하는 곳과 사용법"
+      "slug": "shein-referral-code-ko"
     }
   ],
   "decision": {

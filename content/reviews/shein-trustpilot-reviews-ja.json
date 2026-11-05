@@ -167,12 +167,10 @@
   "editorialNote": "時間とともに変わる公開データです。SHEIN での購入によって手数料を受け取ることがあります。",
   "relatedArticles": [
     {
-      "slug": "shein-trust-guide-ja",
-      "title": "SHEIN は安全？信頼できる？運営会社、どこの国の会社か、返品期限と関税"
+      "slug": "shein-trust-guide-ja"
     },
     {
-      "slug": "shein-vs-temu-ja",
-      "title": "SHEIN と Temu どちらを選ぶ？送料・返品・関税と、買う前に確認すること"
+      "slug": "shein-vs-temu-ja"
     }
   ]
 }

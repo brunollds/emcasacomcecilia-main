@@ -239,20 +239,16 @@
   "editorialNote": "Feito com as fichas públicas da loja. O cupom não foi testado no carrinho de uma mochila. Podemos receber comissão pelas compras com o CECILIA10.",
   "relatedArticles": [
     {
-      "slug": "mochila-escolar-bagaggio",
-      "title": "Mochila escolar Bagaggio: qual escolher por linha e preço"
+      "slug": "mochila-escolar-bagaggio"
     },
     {
-      "slug": "bagaggio-e-boa-malas-mochilas",
-      "title": "Bagaggio é boa? Malas, mochilas e bolsas pelo que a loja informa"
+      "slug": "bagaggio-e-boa-malas-mochilas"
     },
     {
-      "slug": "bagaggio-garantia-vitalicia",
-      "title": "Garantia vitalícia Bagaggio: o que cobre, o que não cobre e como acionar"
+      "slug": "bagaggio-garantia-vitalicia"
     },
     {
-      "slug": "cupom-bagaggio-como-usar",
-      "title": "Como usar o cupom CECILIA10 na Bagaggio e o que ele soma"
+      "slug": "cupom-bagaggio-como-usar"
     }
   ],
   "decision": {

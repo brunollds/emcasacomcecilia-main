@@ -203,16 +203,13 @@
   "editorialNote": "透過代碼 SONAR20 或連結購買，Bruno 可能獲得傭金，您無需額外付費。團隊裡沒有人使用 Paperclip。",
   "relatedArticles": [
     {
-      "slug": "openclaw-vs-hermes-agent-zh-hant",
-      "title": "OpenClaw 還是 Hermes Agent？怎麼選，以及在 Hostinger 上各自怎麼跑"
+      "slug": "openclaw-vs-hermes-agent-zh-hant"
     },
     {
-      "slug": "openclaw-hostinger-managed-or-vps-zh-hant",
-      "title": "OpenClaw 在 Hostinger：託管還是 VPS？各自要做什麼，以及適合誰"
+      "slug": "openclaw-hostinger-managed-or-vps-zh-hant"
     },
     {
-      "slug": "hostinger-referral-code-zh-hant",
-      "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+      "slug": "hostinger-referral-code-zh-hant"
     }
   ],
   "decision": {

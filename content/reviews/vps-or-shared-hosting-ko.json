@@ -219,16 +219,13 @@
   "editorialNote": "SONAR20 코드나 이 링크로 구매하면 Bruno에게 수수료가 생길 수 있으며, 회원님에게는 추가 비용이 없습니다. VPS에도 적용됩니다.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-managed-or-vps-ko",
-      "title": "호스팅어의 OpenClaw: 관리형인가 VPS인가? 방식별 필요한 작업, 맞는 사람"
+      "slug": "openclaw-hostinger-managed-or-vps-ko"
     },
     {
-      "slug": "hostinger-trust-guide-ko",
-      "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+      "slug": "hostinger-trust-guide-ko"
     },
     {
-      "slug": "hostinger-black-friday-ko",
-      "title": "2026 Hostinger 블랙프라이데이: SONAR20 쿠폰이 캠페인 가격에서 20% 더 할인"
+      "slug": "hostinger-black-friday-ko"
     }
   ],
   "decision": {

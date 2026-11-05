@@ -111,16 +111,13 @@
   "editorialNote": "Hostinger가 이 사이트를 호스팅합니다. SONAR20 코드를 쓰거나 링크를 통해 구매하면 회원님께 추가 비용 없이 Bruno에게 수수료가 발생할 수 있습니다. 결제 전에 장바구니에서 합계를 확인하세요.",
   "relatedArticles": [
     {
-      "slug": "hostinger-trust-guide-ko",
-      "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+      "slug": "hostinger-trust-guide-ko"
     },
     {
-      "slug": "hostinger-trustpilot-reviews-ko",
-      "title": "Hostinger Trustpilot 평점, 불만, 그리고 200건의 리뷰가 보여주는 것"
+      "slug": "hostinger-trustpilot-reviews-ko"
     },
     {
-      "slug": "hostinger-referral-code-ko",
-      "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+      "slug": "hostinger-referral-code-ko"
     }
   ]
 }

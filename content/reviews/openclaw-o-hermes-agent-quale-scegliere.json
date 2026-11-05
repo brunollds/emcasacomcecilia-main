@@ -260,16 +260,13 @@
   "editorialNote": "Gli acquisti con il codice SONAR20 o tramite il link possono generare una commissione per Bruno, senza costi aggiuntivi per te. Nessuno del team usa OpenClaw né Hermes Agent.",
   "relatedArticles": [
     {
-      "slug": "openclaw-hostinger-gestito-o-vps",
-      "title": "OpenClaw su Hostinger: gestito o VPS? Cosa richiede ciascuno e a chi serve"
+      "slug": "openclaw-hostinger-gestito-o-vps"
     },
     {
-      "slug": "miglior-vps-per-openclaw",
-      "title": "Miglior VPS per OpenClaw: requisiti e quale piano KVM scegliere"
+      "slug": "miglior-vps-per-openclaw"
     },
     {
-      "slug": "paperclip-ai-hostinger-guida",
-      "title": "Paperclip AI: cos'è, se è affidabile e come ospitarlo su Hostinger"
+      "slug": "paperclip-ai-hostinger-guida"
     }
   ],
   "hideFromPortugueseListings": true,

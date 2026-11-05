@@ -35,6 +35,7 @@ Converter o texto revisado em Markdown para o arquivo JSON estruturado em `conte
    - Link para a página da loja é relativo e fica no idioma do artigo: `/cupons/<marca>` em português e `/<locale>/coupons/<marca>` nos outros idiomas (ex.: `/en/coupons/yesstyle`). O `npm run test:review-i18n` reprova link de loja em outro idioma.
    - Links externos de loja devem ter `"sponsored": true`.
 4b. **Resposta rápida:** a primeira seção (`Resposta rápida` e equivalentes nos idiomas) leva só `heading` e `paragraphs` com um item de 40 a 60 palavras; sem `bullets`, `postParagraphs`, `comparisonTable`, `couponTiers`, `emphasis`, `image` ou `images` (`REGRAS-GLOBAIS.md`, seção 6).
+4c. **Relacionados (`relatedArticles`):** cada item é só `{ "slug": "<slug>" }`, de um artigo publicado no mesmo idioma (rascunho não tem página). Sem `title`: a sidebar e a gaveta do celular mostram o título atual do artigo de destino. O `validate:content` barra o `title`, qualquer outro campo e o slug que não leva a um artigo publicado no idioma.
 5. **FAQ:** uma seção de `contentSections` com o título de FAQ do idioma e `bullets`, um por pergunta: a pergunta terminando em `?` (`？` em chinês e japonês) e a resposta logo depois, no mesmo item. Pergunta sem negrito: `Pergunta? resposta`, nunca `**Pergunta?** resposta` (o FAQ corta no primeiro `?` e os asteriscos aparecem no acordeão e no `FAQPage`; o `validate:content` barra). É essa seção que vira o `FAQPage` no schema da página.
 
    | Idioma | Título da seção |
@@ -80,7 +81,7 @@ A build confere estas regras; o resumo técnico também está no `CLAUDE.md`, em
 
 5. `slug` no idioma da versão em `en`, `es`, `fr`, `de` e `it`. Em `ko`, `ja`, `zh-hant` e `zh-hans`, slug em ASCII terminado no código do idioma (ex.: `abib-skincare-routine-30-ja`).
 6. Toda versão fora do português leva `hideFromPortugueseListings: true`. A vitrine em português também filtra pelo `locale`, mas a flag é o padrão das traduções e o `validate:content` a exige nas famílias registradas em `clusters/yesstyle.ts`.
-7. `relatedArticles` aponta para artigos do mesmo idioma.
+7. `relatedArticles` aponta para artigos do mesmo idioma, no formato do item 4c da seção 2.
 8. Modelo de família: `yesstyle-skincare-30` (publicada em 28/09/2026), a mais recente e a mais uniforme. As famílias mais antigas têm campos só em alguns idiomas; não copiar essa diferença.
 9. Atualizar a matriz da nota do cluster com a chave, o slug da fonte em português e a data.
 10. **Releitura das traduções, antes do `pronto-para-gates`.** A build confere a estrutura, não o texto. Reler cada uma das 9 versões ao lado do PT aprovado no Job 3, um idioma por vez, de preferência com outro agente (não o que traduziu), e conferir:
