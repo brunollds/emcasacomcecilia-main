@@ -161,7 +161,7 @@
     {
       "heading": "Coupon SONAR20 e prezzo",
       "paragraphs": [
-        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello. Sul dominio singolo, il codice non vale. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
+        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, in piano mensile o annuale, per cliente nuovo o già esistente. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Sul dominio singolo, il codice non vale. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito), e i piani sono nella [pagina di Hostinger](/it/coupons/hostinger)."
       ]
     },
     {
@@ -169,7 +169,8 @@
       "bullets": [
         "Posso cambiare hosting senza perdere il dominio? Sì. Il dominio è tuo e resta nell'account Hostinger; punti il DNS al nuovo hosting o trasferisci la registrazione dopo, rispettando i 60 giorni dalla registrazione.",
         "Mi serve un dominio per avere l'e-mail? Sì. Per un indirizzo come tu@tuaazienda.com, il dominio deve esistere; l'hosting non è obbligatorio, e Hostinger dice che si può usare il dominio solo per l'e-mail o per reindirizzare a un altro sito.",
-        "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, dopo 60 giorni dalla registrazione: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile."
+        "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, dopo 60 giorni dalla registrazione: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile.",
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
     {
@@ -182,7 +183,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello. Sul dominio singolo il codice non vale.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Sul dominio singolo il codice non vale.",
     "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

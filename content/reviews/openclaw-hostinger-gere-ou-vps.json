@@ -172,7 +172,7 @@
     {
       "heading": "Code promo SONAR20",
       "paragraphs": [
-        "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
+        "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % de réduction sur la première période**, en formule mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. L'endroit où coller le code est expliqué dans [comment utiliser le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
       ],
       "postParagraphs": [
         "Hostinger est en pleine campagne de Black Friday, et les prix changent. Consultez [le Black Friday de Hostinger](/fr/reviews/black-friday-hostinger-offres) et vérifiez le montant dans le panier avant de payer."
@@ -184,7 +184,8 @@
         "L'offre OpenClaw gérée de Hostinger vaut-elle le coup ? Elle s'adresse à ceux qui veulent l'assistant sans s'occuper d'un serveur : elle coûte moins cher que le VPS la première période et se renouvelle au même prix. Qui veut un accès root et d'autres programmes sur le serveur a intérêt à prendre le VPS.",
         "Faut-il un compte OpenAI ou Anthropic ? Non. Dans les deux cas, vous pouvez utiliser les crédits d'IA de Hostinger. Un compte chez le fournisseur n'est nécessaire que si vous préférez votre propre clé.",
         "Existe-t-il un code promo Hostinger pour OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % de réduction sur la première période.",
-        "L'offre gérée convient-elle à Hermes Agent ou à Paperclip ? Oui. Les trois sont dans la même offre, « Applications d'automatisation IA », au même prix. La page de Paperclip ne mentionne pas de crédits d'IA, alors apportez votre propre clé."
+        "L'offre gérée convient-elle à Hermes Agent ou à Paperclip ? Oui. Les trois sont dans la même offre, « Applications d'automatisation IA », au même prix. La page de Paperclip ne mentionne pas de crédits d'IA, alors apportez votre propre clé.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -197,7 +198,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier.",
+    "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

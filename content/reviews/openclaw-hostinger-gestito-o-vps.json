@@ -171,7 +171,7 @@
     {
       "heading": "Coupon SONAR20",
       "paragraphs": [
-        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, sia con il piano mensile sia con quello annuale, per clienti nuovi o già esistenti. I 20% valgono anche sul rinnovo; controlla il prezzo nel carrello. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, sia con il piano mensile sia con quello annuale, per clienti nuovi o già esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
       ],
       "postParagraphs": [
         "Hostinger è in piena campagna di Black Friday, e i prezzi cambiano. Guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) e controlla l'importo nel carrello prima di pagare."
@@ -183,7 +183,8 @@
         "Vale la pena l'OpenClaw gestito di Hostinger? Sì, per chi vuole l'assistente senza gestire un server: costa meno del VPS nel primo periodo e si rinnova allo stesso prezzo. Chi vuole root e altri programmi sul server si trova meglio con il VPS.",
         "Serve un account su OpenAI o Anthropic? No. In entrambe le opzioni puoi usare i crediti IA di Hostinger. L'account presso il fornitore serve solo se preferisci la tua chiave.",
         "Esiste un coupon di sconto Hostinger per OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% di sconto sul primo periodo.",
-        "Il piano gestito va bene per Hermes Agent o Paperclip? Sì. Tutti e tre sono nello stesso piano, «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave."
+        "Il piano gestito va bene per Hermes Agent o Paperclip? Sì. Tutti e tre sono nello stesso piano, «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave.",
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
     {
@@ -196,7 +197,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
     "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

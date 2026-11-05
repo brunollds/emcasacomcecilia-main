@@ -174,7 +174,7 @@
     {
       "heading": "Le code SONAR20 chez Hostinger",
       "paragraphs": [
-        "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, l'e-mail professionnel et Reach. Sur les forfaits d'hébergement de ce tableau, nous ne l'avons pas testé : vérifiez dans le panier. Le code vaut sur le VPS. Les 20 % valent aussi sur le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger)."
+        "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**. Nous l'avons testé dans le panier, sur trois produits : le forfait Startup e-commerce, du créateur de boutiques, l'e-mail professionnel et Reach. Sur les forfaits d'hébergement de ce tableau, nous ne l'avons pas testé : vérifiez dans le panier. Le code vaut sur le VPS et sur tout nouvel achat, mais pas sur le renouvellement. La règle complète est sur [les codes promo Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -194,7 +194,8 @@
         "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
         "Hostinger indique-t-il où se trouvent ses serveurs ? Les pages de forfaits n'indiquent pas où se trouve le serveur. Demandez au support avant d'acheter.",
         "Le code SONAR20 fonctionne-t-il sur le VPS ? Oui, il vaut sur le VPS. Nous l'avons testé sur le forfait Startup e-commerce, du créateur de boutiques, et il a donné 20 % sur la première période.",
-        "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait."
+        "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -207,7 +208,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier.",
+    "text": "Collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
     "label": "Voir les forfaits d'hébergement avec le SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true

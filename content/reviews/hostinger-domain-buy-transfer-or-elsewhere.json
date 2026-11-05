@@ -161,7 +161,7 @@
     {
       "heading": "SONAR20 coupon and price",
       "paragraphs": [
-        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% also apply on the renewal of hosting plans; check the price in the cart. For a domain on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
+        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. For a domain on its own, the code does not work. Where to enter the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral), and the plans are on [the Hostinger page](/en/coupons/hostinger)."
       ]
     },
     {
@@ -169,7 +169,8 @@
       "bullets": [
         "Can I change hosting without losing the domain? Yes. The domain is yours and stays in the Hostinger account; you point the DNS to the new hosting or transfer the registration later, once 60 days have passed since registration.",
         "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
-        "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded."
+        "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
     {
@@ -182,7 +183,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% also apply on the renewal of hosting plans; check the price in the cart. On a standalone domain, the code does not work.",
+    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. On a standalone domain, the code does not work.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

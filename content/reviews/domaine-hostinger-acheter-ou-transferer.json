@@ -161,7 +161,7 @@
     {
       "heading": "Coupon SONAR20 et prix",
       "paragraphs": [
-        "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Les 20 % valent aussi sur le renouvellement : confirmez le prix dans le panier. Pour un domaine seul, le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
+        "Utilisez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : **20 % sur la première période**, sur un forfait mensuel ou annuel, pour un client nouveau ou existant. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas. Pour savoir où coller le code, voyez [comment utiliser le coupon SONAR20](/fr/reviews/code-promo-hostinger-parrainage), et pour les forfaits, [la page Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -169,7 +169,8 @@
       "bullets": [
         "Puis-je changer d'hébergement sans perdre le domaine ? Oui. Le domaine est à vous et reste dans le compte Hostinger ; vous pointez le DNS vers le nouvel hébergement ou vous transférez l'enregistrement plus tard, en respectant les 60 jours depuis l'enregistrement.",
         "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
-        "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours d'enregistrement : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé."
+        "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours d'enregistrement : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé.",
+        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
     {
@@ -182,7 +183,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent aussi sur le renouvellement ; vérifiez le prix dans le panier. Pour un domaine seul, le code ne vaut pas.",
+    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

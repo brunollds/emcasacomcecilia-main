@@ -174,7 +174,7 @@
     {
       "heading": "Coupon SONAR20 con la Hostinger",
       "paragraphs": [
-        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, l'e-mail professionale e il Reach. Sui piani di hosting di questa tabella non l'abbiamo testato; controlla nel carrello. Il codice vale anche sul VPS e sul rinnovo. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
+        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**. Lo abbiamo provato nel carrello su tre prodotti: il piano Startup di e-commerce, del costruttore di negozi, l'e-mail professionale e il Reach. Sui piani di hosting di questa tabella non l'abbiamo testato; controlla nel carrello. Il codice vale anche sul VPS e su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. La regola completa è nella pagina dei [coupon Hostinger](/it/coupons/hostinger)."
       ]
     },
     {
@@ -194,7 +194,8 @@
         "Conviene il VPS della Hostinger? Dipende dal carico del sito. Confronta vCPU, memoria e rinnovo: il KVM 1 si rinnova a 11,99 US$ al mese sul sito internazionale.",
         "La Hostinger dice dove si trovano i suoi server? Le pagine dei piani non dicono dove si trova il server. Chiedilo al supporto prima di pagare.",
         "Il codice SONAR20 vale sul VPS? Sì. L'abbiamo provato sul piano Startup di e-commerce, del costruttore di negozi, e ha dato il 20% sul primo periodo.",
-        "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio."
+        "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio.",
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
     {
@@ -207,7 +208,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono anche sul rinnovo: controlla il prezzo nel carrello.",
+    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
     "label": "Vedi i piani di hosting con il SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true

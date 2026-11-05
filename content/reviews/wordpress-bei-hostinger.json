@@ -149,7 +149,7 @@
     {
       "heading": "SONAR20-Gutschein und Preis",
       "paragraphs": [
-        "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung, und die 20 % von SONAR20 gelten dafür ebenfalls. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
+        "Der Code **SONAR20** gibt **20 % im ersten Zeitraum**, im Gutscheinfeld des Warenkorbs oder über den Link dieses Artikels. SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie den Preis im Warenkorb, bevor Sie bezahlen. Nach dem ersten Zeitraum gilt die Spalte der Verlängerung, ohne die 20 % von SONAR20. Die Regeln des Codes und die übrigen Produkte stehen in den [Hostinger-Gutscheinen](/de/coupons/hostinger)."
       ]
     },
     {
@@ -167,7 +167,8 @@
         "Ist WordPress bei Hostinger schon installiert? Sie installieren es im Hosting-Panel, ohne Dateien von Hand herunterzuladen. Die Checkliste oben erklärt die Schritte.",
         "Welcher WordPress-Tarif von Hostinger eignet sich für einen Online-Shop? Der Unlimited, wegen der täglichen Backups und der unbegrenzten Websites. Für einen Shop mit viel Traffic der Cloud Startup.",
         "Gilt der Code SONAR20 beim WordPress-Tarif von Hostinger? Ja, SONAR20 gilt bei den WordPress-Tarifen; prüfen Sie es im Warenkorb. Wo er gilt, sind es 20 % im ersten Zeitraum.",
-        "Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt der Verlängerungspreis: beim Premium 10,99 US$ im Monat."
+        "Ist der Verlängerungspreis derselbe wie der Aktionspreis? Nein. Nach dem ersten Zeitraum von 48 Monaten gilt der Verlängerungspreis: beim Premium 10,99 US$ im Monat.",
+        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },
     {

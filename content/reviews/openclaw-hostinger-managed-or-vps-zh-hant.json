@@ -172,7 +172,7 @@
     {
       "heading": "SONAR20 優惠碼",
       "paragraphs": [
-        "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**首期享 20% 折扣**，月付或年付都可以，新客戶和舊客戶都適用。SONAR20 的 20% 折扣也適用於續訂，請在購物車確認價格。輸入位置見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
+        "在購物車的優惠碼欄輸入 **SONAR20**，或從本文的連結進入：**首期享 20% 折扣**，月付或年付都可以，新客戶和舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。輸入位置見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
       ],
       "postParagraphs": [
         "Hostinger 正在進行黑五活動，價格會變動。請看[Hostinger 黑五](/zh-hant/reviews/hostinger-black-friday-zh-hant)，付款前在購物車確認金額。"
@@ -184,7 +184,8 @@
         "OpenClaw 的託管方案值得買嗎？對於不想管理伺服器的人來說值得：首期比 VPS 便宜，續訂價格相同。需要 root 權限並想在伺服器上跑其他程式的人，VPS 比較適合。",
         "需要 OpenAI 或 Anthropic 帳戶嗎？不需要。兩種方式都能使用 Hostinger 的 AI 額度。只有想用自己的 API 金鑰時，才需要該供應商的帳戶。",
         "OpenClaw 有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，首期享 20% 折扣。",
-        "託管方案能用於 Hermes Agent 或 Paperclip 嗎？可以。三者都在「AI 自動化應用」這同一方案中，價格也相同。Paperclip 的頁面沒有列出 AI 額度，所以請自備金鑰。"
+        "託管方案能用於 Hermes Agent 或 Paperclip 嗎？可以。三者都在「AI 自動化應用」這同一方案中，價格也相同。Paperclip 的頁面沒有列出 AI 額度，所以請自備金鑰。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
       ]
     },
     {
@@ -197,7 +198,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣也適用於續訂，請在購物車確認價格。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

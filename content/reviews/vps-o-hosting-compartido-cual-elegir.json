@@ -196,7 +196,8 @@
         "¿Un VPS es más rápido que el hosting compartido? No lo medimos. Lo que el VPS garantiza son recursos reservados: CPU, memoria y disco son tuyos, mientras que en el compartido el servidor se divide. Para un sitio común, rara vez es el cuello de botella.",
         "¿Puedo empezar en el compartido y pasar a un VPS después? Sí. Son productos distintos: contratas el VPS, instalas el servidor y llevas el sitio. El hosting compartido no se convierte en VPS desde el panel.",
         "¿Necesito saber Linux para tener un VPS? Sí, lo básico de terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no necesitas usar la terminal.",
-        "¿Un VPS aguanta WordPress? Sí, pero tú instalas y mantienes el servidor web, PHP y la base de datos. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor."
+        "¿Un VPS aguanta WordPress? Sí, pero tú instalas y mantienes el servidor web, PHP y la base de datos. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
+        "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
       ]
     },
     {
@@ -209,7 +210,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % también valen en la renovación; revisa el precio en el carrito.",
+    "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
     "label": "Ver los planes con el SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

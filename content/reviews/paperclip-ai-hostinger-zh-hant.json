@@ -156,7 +156,7 @@
     {
       "heading": "優惠碼 SONAR20",
       "paragraphs": [
-        "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**首個週期享 8 折**（即減 20%），月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣也適用於續約，請在購物車裡確認價格。代碼填在哪裡，請見[如何使用優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。付款前請在購物車裡確認金額。"
+        "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**首個週期享 8 折**（即減 20%），月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。代碼填在哪裡，請見[如何使用優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。付款前請在購物車裡確認金額。"
       ]
     },
     {
@@ -180,7 +180,8 @@
         "Paperclip 可靠嗎？ 無法下定論。可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。在所查閱的資料中，我們沒有找到獨立稽核。",
         "需要 API 金鑰嗎？ 需要。無論代管方案還是 VPS，Paperclip 的頁面都要求您自備金鑰。在電腦上執行時，README 也支援 Claude 或 Codex 的訂閱，不需要 API 金鑰。",
         "能搭配 Ollama 使用嗎？ 取決於您連接的代理。Paperclip 的 README 沒有提到 Ollama，這是一個在自己電腦上執行 AI 模型的程式。例如 OpenClaw 記錄了本機模型的用法；而在 Paperclip 中，模型取決於您連接的代理。",
-        "Hostinger 上有適用於 Paperclip 的優惠碼嗎？ 有：在購物車的優惠碼欄輸入代碼 SONAR20，首個週期可減 20%。SONAR20 的 20% 折扣也適用於續約，請在購物車裡確認價格。"
+        "Hostinger 上有適用於 Paperclip 的優惠碼嗎？ 有：在購物車的優惠碼欄輸入代碼 SONAR20，首個週期可減 20%。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
       ]
     },
     {
@@ -193,7 +194,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣也適用於續約，請在購物車確認價格。",
+    "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

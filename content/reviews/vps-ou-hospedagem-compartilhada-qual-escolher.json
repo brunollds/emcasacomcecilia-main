@@ -164,7 +164,7 @@
       },
       "postParagraphs": [
         "Para um site comum que precise de VPS, o KVM 1 é o ponto de partida: 4 GB de RAM dão para um WordPress ou um sistema pequeno. O KVM 2 entra quando você vai rodar mais de um programa na mesma máquina. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
-        "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (campanha de Black Friday). Com o SONAR20, os 20% valem **no primeiro período e também na renovação**: a renovação com o cupom sai 20% abaixo da coluna da tabela."
+        "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (campanha de Black Friday). Com o SONAR20, os 20% valem **no primeiro período**: a renovação sai pelo preço da coluna da tabela, sem desconto."
       ]
     },
     {
@@ -263,7 +263,8 @@
         "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
         "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
         "VPS aguenta WordPress? Aguenta, mas você instala e mantém o servidor web, o PHP e o banco. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
-        "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês (R$ 47,99/mês com o cupom na renovação). Sem o cupom, R$ 29,99/mês. Os 20% valem no primeiro período e também na renovação."
+        "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês, sem desconto. Sem o cupom, R$ 29,99/mês.",
+        "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
     },
     {
@@ -287,7 +288,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% também valem na renovação; confira o preço no carrinho.",
+    "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
     "label": "Ver os planos com o SONAR20",
     "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
     "sponsored": true

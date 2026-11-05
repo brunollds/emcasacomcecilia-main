@@ -196,7 +196,8 @@
         "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatzplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
         "Kann man mit Shared Hosting anfangen und später zum VPS wechseln? Ja. Es sind verschiedene Produkte: Man schließt den VPS ab, installiert den Server und zieht die Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
         "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
-        "Schafft ein VPS WordPress? Ja, aber man installiert und wartet Webserver, PHP und Datenbank selbst. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server."
+        "Schafft ein VPS WordPress? Ja, aber man installiert und wartet Webserver, PHP und Datenbank selbst. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
+        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },
     {
@@ -209,7 +210,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten auch bei der Verlängerung; prüfen Sie den Preis im Warenkorb.",
+    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
     "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
