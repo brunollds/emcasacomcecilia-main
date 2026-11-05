@@ -1,6 +1,6 @@
 ---
 titulo_provisorio: "SHEIN: card de estilo e foto com link no vestido de festa e no 11.11"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
 proxima_acao: "redacao: card e href nas 10 versões das duas famílias; avisar o Redesenho para o deploy junto com o #386"
 bloqueado_por: "-"

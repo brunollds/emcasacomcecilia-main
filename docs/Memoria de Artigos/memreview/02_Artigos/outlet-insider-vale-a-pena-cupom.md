@@ -6,7 +6,7 @@ parceiro: "[[Insider]]"
 category: "cupons-como-usar"
 reviewKind: "guia"
 type: "Guia de compra"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
 proxima_acao: "redacao: resolver as 4 perguntas com o Bruno antes de escrever; reler o Outlet no dia"
 bloqueado_por: null

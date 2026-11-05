@@ -6,7 +6,7 @@ parceiro: "[[Hostinger]]"
 category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Decisão"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
 proxima_acao: "Job 6 (capa) e redação PT; reler preços de renovação antes de 27/11"
 publicado_em: null

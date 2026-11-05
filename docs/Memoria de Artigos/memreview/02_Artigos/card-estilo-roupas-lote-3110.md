@@ -1,6 +1,6 @@
 ---
 titulo_provisorio: "Card de estilo em 6 artigos de roupa publicados (lote 31/10)"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "-"
 proxima_acao: "redacao: aplicar o styling nos 6 artigos"
 bloqueado_por: "-"
