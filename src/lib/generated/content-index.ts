@@ -185052,16 +185052,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelo código e pelos links.",
     "relatedArticles": [
       {
-        "slug": "cupom-hostinger-indicacao",
-        "title": "Cupom Hostinger SONAR20: 20% de desconto, onde colar o código e o que ele cobre"
+        "slug": "cupom-hostinger-indicacao"
       },
       {
-        "slug": "hostinger-e-confiavel",
-        "title": "Hostinger é confiável? Empresa, reembolso, renovação e o que checar antes de contratar"
+        "slug": "hostinger-e-confiavel"
       },
       {
-        "slug": "dominio-hostinger-comprar-transferir-ou-fora",
-        "title": "Domínio na Hostinger: comprar ali, transferir ou registrar em outro lugar? Preço, renovação e o que checar"
+        "slug": "dominio-hostinger-comprar-transferir-ou-fora"
       }
     ],
     "contentSections": [
@@ -185324,16 +185321,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "We may earn a commission from the code and the links.",
     "relatedArticles": [
       {
-        "slug": "hostinger-coupon-code-referral",
-        "title": "Hostinger coupon SONAR20: 20% off, where to enter the code and what it covers"
+        "slug": "hostinger-coupon-code-referral"
       },
       {
-        "slug": "is-hostinger-legit",
-        "title": "Is Hostinger legit? Company, refunds, renewal and what to check before you buy"
+        "slug": "is-hostinger-legit"
       },
       {
-        "slug": "hostinger-domain-buy-transfer-or-elsewhere",
-        "title": "Hostinger domain: buy it there, transfer it or register elsewhere? Renewal and what to check"
+        "slug": "hostinger-domain-buy-transfer-or-elsewhere"
       }
     ],
     "contentSections": [
@@ -185589,16 +185583,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos recibir una comisión por el código y por los enlaces.",
     "relatedArticles": [
       {
-        "slug": "cupon-hostinger-codigo-de-referido",
-        "title": "Cupón Hostinger SONAR20: 20% de descuento, dónde pegar el código y qué cubre"
+        "slug": "cupon-hostinger-codigo-de-referido"
       },
       {
-        "slug": "hostinger-es-confiable",
-        "title": "¿Es confiable Hostinger? Empresa, reembolso, renovación y qué revisar antes de contratar"
+        "slug": "hostinger-es-confiable"
       },
       {
-        "slug": "dominio-hostinger-comprar-o-transferir",
-        "title": "Dominio en Hostinger: ¿comprarlo ahí, transferirlo o registrarlo en otro sitio? Renovación y qué revisar"
+        "slug": "dominio-hostinger-comprar-o-transferir"
       }
     ],
     "contentSections": [
@@ -185854,16 +185845,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Nous pouvons toucher une commission sur le code et sur les liens.",
     "relatedArticles": [
       {
-        "slug": "code-promo-hostinger-parrainage",
-        "title": "Code promo Hostinger SONAR20 : 20 % de réduction, où le saisir et ce qu'il couvre"
+        "slug": "code-promo-hostinger-parrainage"
       },
       {
-        "slug": "hostinger-est-il-fiable",
-        "title": "Hostinger est-il fiable ? Entreprise, remboursement, renouvellement et ce qu'il faut vérifier avant de souscrire"
+        "slug": "hostinger-est-il-fiable"
       },
       {
-        "slug": "domaine-hostinger-acheter-ou-transferer",
-        "title": "Domaine chez Hostinger : l'acheter là, le transférer ou l'enregistrer ailleurs ? Renouvellement et ce qu'il faut vérifier"
+        "slug": "domaine-hostinger-acheter-ou-transferer"
       }
     ],
     "contentSections": [
@@ -186119,16 +186107,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Wir erhalten möglicherweise eine Provision über den Code und die Links.",
     "relatedArticles": [
       {
-        "slug": "hostinger-gutschein-empfehlungscode",
-        "title": "Hostinger-Gutschein SONAR20: 20 % Rabatt, wo der Code hingehört und was er abdeckt"
+        "slug": "hostinger-gutschein-empfehlungscode"
       },
       {
-        "slug": "ist-hostinger-serioes",
-        "title": "Ist Hostinger seriös? Unternehmen, Erstattung, Verlängerung und was Sie vor dem Kauf prüfen sollten"
+        "slug": "ist-hostinger-serioes"
       },
       {
-        "slug": "hostinger-domain-kaufen-oder-umziehen",
-        "title": "Domain bei Hostinger: dort kaufen, umziehen oder woanders registrieren? Verlängerung und was Sie prüfen sollten"
+        "slug": "hostinger-domain-kaufen-oder-umziehen"
       }
     ],
     "contentSections": [
@@ -186384,16 +186369,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Potremmo ricevere una commissione dal codice e dai link.",
     "relatedArticles": [
       {
-        "slug": "coupon-hostinger-codice-invito",
-        "title": "Coupon Hostinger SONAR20: 20% di sconto, dove inserire il codice e cosa copre"
+        "slug": "coupon-hostinger-codice-invito"
       },
       {
-        "slug": "hostinger-e-affidabile",
-        "title": "Hostinger è affidabile? Azienda, rimborso, rinnovo e cosa controllare prima di acquistare"
+        "slug": "hostinger-e-affidabile"
       },
       {
-        "slug": "dominio-hostinger-comprare-o-trasferire",
-        "title": "Dominio su Hostinger: comprarlo lì, trasferirlo o registrarlo altrove? Rinnovo e cosa controllare"
+        "slug": "dominio-hostinger-comprare-o-trasferire"
       }
     ],
     "contentSections": [
@@ -186649,16 +186631,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "코드와 링크를 통해 수수료를 받을 수 있습니다.",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-ko",
-        "title": "Hostinger 쿠폰 SONAR20: 20% 할인, 코드를 넣을 곳과 적용 범위"
+        "slug": "hostinger-referral-code-ko"
       },
       {
-        "slug": "hostinger-trust-guide-ko",
-        "title": "호스팅어는 믿을 만한가요? 회사, 환불, 갱신, 결제 전 확인할 점"
+        "slug": "hostinger-trust-guide-ko"
       },
       {
-        "slug": "hostinger-domain-ko",
-        "title": "Hostinger 도메인: 여기서 살까, 이전할까, 다른 곳에 등록할까? 갱신과 결제 전 확인할 점"
+        "slug": "hostinger-domain-ko"
       }
     ],
     "contentSections": [
@@ -186914,16 +186893,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "このコードとリンクから、手数料を受け取る場合があります。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-ja",
-        "title": "Hostingerクーポン SONAR20：20%割引、入力する場所と対象範囲"
+        "slug": "hostinger-referral-code-ja"
       },
       {
-        "slug": "hostinger-trust-guide-ja",
-        "title": "Hostingerは信頼できる？ 会社、返金、更新、購入前に確認すること"
+        "slug": "hostinger-trust-guide-ja"
       },
       {
-        "slug": "hostinger-domain-ja",
-        "title": "Hostingerのドメイン：そこで買う、移管する、別の場所で登録する？ 更新料と確認すべきこと"
+        "slug": "hostinger-domain-ja"
       }
     ],
     "contentSections": [
@@ -187179,16 +187155,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "透過優惠碼與連結購買，我們可能獲得佣金。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-zh-hant",
-        "title": "Hostinger SONAR20 優惠碼：首期 20% 折扣、貼在哪裡、適用範圍"
+        "slug": "hostinger-referral-code-zh-hant"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hant",
-        "title": "Hostinger 可靠嗎？公司、退款、續訂，以及下單前要確認什麼"
+        "slug": "hostinger-trust-guide-zh-hant"
       },
       {
-        "slug": "hostinger-domain-zh-hant",
-        "title": "Hostinger 網域：在這裡買、轉入，還是在別處註冊？續訂與下單前要確認什麼"
+        "slug": "hostinger-domain-zh-hant"
       }
     ],
     "contentSections": [
@@ -187444,16 +187417,13 @@ export const reviewsData: unknown[] = [
     "editorialNote": "通过优惠码和链接购买，我们可能获得佣金。",
     "relatedArticles": [
       {
-        "slug": "hostinger-referral-code-zh-hans",
-        "title": "Hostinger 优惠码 SONAR20：首期享 20% 折扣，在哪里输入，适用什么"
+        "slug": "hostinger-referral-code-zh-hans"
       },
       {
-        "slug": "hostinger-trust-guide-zh-hans",
-        "title": "Hostinger 靠谱吗？公司、退款、续费，以及下单前要确认什么"
+        "slug": "hostinger-trust-guide-zh-hans"
       },
       {
-        "slug": "hostinger-domain-zh-hans",
-        "title": "Hostinger 域名：在这里买、转入，还是在别处注册？续费与下单前要确认什么"
+        "slug": "hostinger-domain-zh-hans"
       }
     ],
     "contentSections": [
