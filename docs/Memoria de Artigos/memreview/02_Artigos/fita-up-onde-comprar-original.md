@@ -10,8 +10,8 @@ type: "Guia de Compra"
 anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "decisao-do-bruno"
-bloqueado_por: "Links convertidos do Mercado Livre (MLB-4879352040) e da Amazon (B0CWS8T5DZ), com o Bruno"
+proxima_acao: "redacao"
+bloqueado_por: ""
 score_autoridade: 70
 score_conversao: 80
 score_ponderado_total: 84
@@ -120,9 +120,9 @@ Rodada de 05/11/2026, item R1 (aprovado pelo Bruno). Artigo novo. Forma do `insi
 - **Links internos para a página da loja (máx 3):** `/cupons/toda-up` (uma vez, no bloco de compra). Artigos irmãos: `/reviews/toda-up-e-confiavel` e `/reviews/cupom-toda-up-como-usar` (máx 3 no total).
 - **CTA comissionado (`rel="sponsored"`):** `https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao` (vai como veio, do `couponsData.ts`).
 - **Links de canal (todos a converter pelo Bruno quando for o caso):**
-  - Mercado Livre: `[a converter pelo Bruno]`
-  - Amazon: `[a converter pelo Bruno]`
-  - Shopee: `[a converter pelo Bruno]`
+  - Mercado Livre: `https://meli.la/2qNDns1` (loja oficial, MLB-4879352040; convertido pelo Bruno em 05/11)
+  - Amazon: `https://link.amazon/B0ddRJoJi` (loja da Toda Up, B0CWS8T5DZ; convertido pelo Bruno em 05/11)
+  - Shopee: fora do artigo (decisão do Bruno, 05/11)
   - Renner, C&A, Drogasil: sem afiliado; URL da página do produto, a confirmar no Chrome. Só entram se o Chrome mostrar a Fita Up vendida pelo canal.
 
 ### Mudanças a fazer nos artigos no ar (registrar, não editar agora)
