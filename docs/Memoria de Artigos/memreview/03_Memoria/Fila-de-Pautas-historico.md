@@ -439,3 +439,8 @@ Os artigos abaixo já existem e o Bing os põe entre a 4ª e a 9ª posição, ou
 - **Nutren Senior Zero Lactose:** "nutren sem lactose", com 44 citações.
 - **Cupom IWS:** buscas de código e cupom entre a 5ª e a 9ª posição.
 - **Receita de enroladinho de salsicha com massa folhada:** "receita de salsichas em massa folhada" é a busca com mais impressões no Bing (339, posição 8,9).
+
+## Rodada de 05/11/2026: R1 no ar (Bruno)
+
+- **R1, Fita Up original: onde comprar** ([[fita-up-onde-comprar-original]], id 830): no ar em 05/11 (release f0008e69, PR #610), com os canais lidos no Chrome, a Shopee fora e o localizador de lojas parceiras.
+- **Correção do "só no site oficial":** `toda-up-e-confiavel`, `toda-up-e-boa` (que dizia o mesmo) e `fita-up-como-usar` (link para a R1), no mesmo PR e no mesmo release.

@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia de Compra"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy"
+proxima_acao: "reler-precos-depois-da-black"
 bloqueado_por: ""
 score_autoridade: 70
 score_conversao: 80
@@ -266,3 +266,5 @@ Lido no Chrome do Bruno. Preços do dia, em plena Black Friday dos canais.
 - **Job 6:** capa A aprovada pelo Bruno (rolos e duas modelos, fotos oficiais da Toda Up). A foto da caixa (opção B) entrou no capítulo "Fita Up original". As duas estão no CDN e foram verificadas.
 - **Artigos no ar corrigidos no mesmo PR:** `toda-up-e-confiavel` (seção "Onde comprar a Fita Up hoje"), `toda-up-e-boa` (dizia que a marca não tinha revendedor nem marketplace) e `fita-up-como-usar` (link para cá).
 - **Depois do deploy:** status "publicado", a linha sai da Fila, e os preços do site e do ML são relidos quando a Black acabar (a comparação do veredito depende deles).
+
+**Publicado em 05/11/2026:** release f0008e69 (build 01a1ace4), smoke ok (capa e caixa do CDN, links do ML e da Amazon, localizador, sem Shopee), covers:check ok, sitemap e llms.txt com o artigo, IndexNow com 22 URLs.
