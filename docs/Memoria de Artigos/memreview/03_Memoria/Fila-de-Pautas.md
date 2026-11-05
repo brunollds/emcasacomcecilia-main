@@ -10,6 +10,13 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
+| R1 | Fita Up original: onde comprar (site com o MAUAD, Renner, C&A, Drogasil, Shopee, Amazon e Mercado Livre) | Toda Up | PT | [[fita-up-onde-comprar-original]] | Chrome: preço e vendedor em cada canal (os sites bloquearam o curl). Links de ML, Amazon e Shopee: o Bruno converte |
+| R2 | Whey Max Titanium x Dr. Peanut: sabores e onde sai mais barato | Dr. Peanut e Max | PT | [[whey-dr-peanut-max-titanium]] | Teste do Bruno: os dois códigos nesse whey e o Pix. Chrome: a página do whey na Dr. Peanut |
+| R3 | Fita Up ou Blumi (ou Lib)? | Toda Up | PT | [[fita-up-ou-blumi-ou-lib]] | Decisões do Bruno no briefing: a Blumi entra sem produto de fita? "Empresas diferentes" pelo CNPJ? |
+| R4 | Insider ou Minimal Club: camiseta básica masculina (nº 1 da série) | Insider | PT | [[insider-ou-minimal-club]] | Qual Minimal comparar; Chrome: páginas da Insider e da Minimal (429 no curl) |
+| R5 | Whey Max Titanium: 100%, Pro, 3W, IsoWhey ou Super Whey | Max Titanium | PT | [[whey-max-titanium-qual-escolher]] | O Super Whey é hipercalórico: entra? Teste do código no whey |
+| R6 | Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hiper) | Probiótica | PT | [[whey-probiotica-qual-escolher]] | Teste do código no whey; o Iso Protein Blend tem soja e não é whey |
+| R7 | Camiseta Insider encolhe? Como lavar, mancha e odor, com o short da Cecília | Insider | PT | [[camiseta-insider-encolhe-como-lavar]] | As 9 perguntas do briefing sobre o vídeo (peça, mancha, método, cheiro, uso). Encolher não foi testado |
 | HO1 | **Onboarding.** HolyFoods é confiável? CNPJ, site oficial, entrega e garantia | HolyFoods | PT | [[holyfoods-e-confiavel]] | No ar em 05/11 (release `040b1515`), com o vídeo da Cecília |
 | HO2 | **Onboarding.** HolyFoods no Reclame Aqui | HolyFoods | PT | [[holyfoods-reclame-aqui-nota-reputacao]] | No ar em 05/11 (release `040b1515`), com o vídeo da Cecília |
 | HO3 | **Onboarding.** Cupom HolyFoods: como usar o EMCASA | HolyFoods | PT | [[cupom-holyfoods-como-usar]] | No ar em 05/11 (release `040b1515`), com o vídeo da Cecília |
@@ -37,21 +44,6 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 ## 3. Estoque: volta quando o Bruno chamar ou quando o sinal mudar
 
 ### Propostas sem GO
-
-**Rodada de 05/11/2026: Toda Up, Insider, Cléa, Max e Probiótica** (pesquisa de outra sessão, com o Search Console de 3 meses, o autocompletar de A a Z e o resultado real do Google; avaliada pela sessão de pautas contra os artigos no ar). Aguarda o GO do Bruno. Antes de qualquer briefing, conferir no Chrome os fatos de cada pauta.
-
-| Código | Pauta | Busca e concorrência | Avaliação da sessão de pautas |
-|---|---|---|---|
-| R1 | Toda Up: "Fita Up original: onde comprar" (site oficial, Renner, C&A, Drogasil, Shopee, Amazon e Mercado Livre) | Umas 25 sugestões ("onde comprar", "renner", "c&a", "shopee", "loja física", "original", "perto de mim", "rj", "bh"); o Google só mostra páginas de loja | **A melhor.** Nenhum artigo cita esses canais: o `fita-up-como-usar` e o `toda-up-e-confiavel` só têm uma seção curta de onde comprar, que passa a linkar para cá. Antes: confirmar no Chrome que a Fita Up da Toda Up é vendida em cada canal (pode ser outra fita com nome parecido) e os preços. Formato do `insider-mercado-livre-ou-site` |
-| R2 | Max e Dr. Peanut: "Whey Max Titanium x Dr. Peanut é bom? Sabores e onde sai mais barato" | Mais de 15 sugestões (avelã, buenissimo, paçoca, "é bom"); o Google só traz lojas, um YouTube e um Reddit | **Boa, com risco de canibalização.** O `dr-peanut-melhor-sabor` já tem o H2 "Whey Dr. Peanut: qual sabor escolher" e a FAQ "O whey Dr. Peanut é da Max Titanium?", e o `dr-peanut-e-boa` tem "O whey Dr. Peanut é bom?". O artigo novo só se paga pelo ângulo das duas lojas e dos dois códigos; as seções antigas encurtam e linkam para ele. Conferir os sabores à venda e se cada código vale no produto |
-| R3 | Toda Up: "Fita Up ou Blumi (ou Lib)?" | "fita up e blumi são a mesma coisa", "fita up ou lib"; o Google só traz as marcas e o Instagram | Boa. As concorrentes entram sem link, sem cupom e sem foto. O `toda-up-e-confiavel` cita a Lib duas vezes |
-| R4 | Insider ou Minimal | ~210 impressões em 3 meses, posições 6 a 10, sem artigo próprio | Já é a nº 1 da série [[insider-ou-x-serie-0211]] (seção "Por parceiro"). Nada muda na ordem; os números reforçam |
-| R5 | Max: "Whey Max Titanium: 100%, Pro, 3W ou Super Whey, qual a diferença" | "qual a diferença", "pro x 100", "3w"; concorre com o blog da Max e o melhores.com | Boa, no formato do `whey-black-skull-qual-escolher` e do `whey-mais-mu-qual-escolher`. O `max-titanium-e-boa` já tem um H2 por whey: ele encurta e linka. Substitui a reserva "IsoWhey e Top Whey 3W por tamanho". O Super Whey não está em nenhum artigo |
-| R6 | Probiótica: "Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hyper)" | Concorre com o blog da Probiótica e o do Mercado Livre | Boa, mesmo formato da R5; o `probiotica-e-boa` encurta e linka |
-| R7 | Insider: "Camiseta Insider encolhe? Como lavar cada linha" | O Google só traz o Reclame Aqui e o suporte da Insider | **Sobreposição alta:** o `camiseta-insider-qual-escolher` e o `camiseta-feminina-insider-qual-escolher` já falam de encolher e de lavagem. O que muda o jogo é o short da Cecília (`youtube.com/shorts/SfeEn4GjNeA`, 05/11): é experiência real. Mas o título do short é "Como Tirar Manchas da Roupa SEM Esfregar!": confirmar com o Bruno o que ele mostra da Perfect Top. Proposta: artigo próprio só se o short mostrar lavagem e resultado da peça; senão, o short entra na seção de lavagem do guia feminino. Tom: nasce de reclamações |
-| R8 | Toda Up: "Fita Up: qual tamanho (P, M, G, plus size)" | — | **Já coberta:** o `fita-up-como-usar` tem "Qual largura escolher: P, M ou G". Vira otimização (seção 4): "plus size" no H2 e na FAQ |
-
-Fora: Cléa ("onde fica", "loja física", "Jaraguá do Sul" viram FAQ do `clea-store-e-confiavel`, seção 4); "Insider tem loja física" (a marca e a imprensa já respondem; o cupom não vale na loja física); Anvisa e laudo de creatina e whey (muita busca, parado por decisão do Bruno; a demanda fica registrada).
 
 **HolyFoods: depois do onboarding** (05/11/2026). O Bruno aprovou primeiro o onboarding e a Black Friday (HO1 a HO4, seção 1): a HF1 virou o HO1 e o HO2, e a HF5 virou o HO3. As outras ficam aqui até o GO. Os fatos estão em `02_Artigos/holyfoods-fatos-0511.md`.
 - **Cuidado:** o site e os nomes dos kits prometem emagrecimento. Os textos descrevem o produto, o rótulo e o preço, sem promessa de peso ou saúde.
@@ -127,6 +119,10 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
+| `toda-up-e-confiavel` e `fita-up-como-usar` | **Corrigir:** dizem que a Fita Up só se vende no site oficial ("Só no site oficial, todaup.com"), e o Bruno confirmou em 05/11 que a mesma fita está em outros canais. Corrigir junto com a R1 e linkar para ela | Rodada R1, 05/11 |
+| `fita-up-como-usar` | R8: "plus size" no H2 da largura e uma FAQ, pelo briefing [[fita-up-como-usar-plus-size-otimizacao]] (sem URL nova) | Rodada R8, 05/11 |
+| `dr-peanut-melhor-sabor`, `dr-peanut-e-boa`, `max-titanium-e-boa`, `probiotica-e-boa` e `cupom-dr-peanut-como-usar` | Encurtar as seções de whey e linkar para a R2, a R5 e a R6, quando cada uma for ao ar (lista em cada briefing). No `dr-peanut-melhor-sabor`, a tabela de sabores fica (dossiê) | Rodada R2, R5 e R6, 05/11 |
+| `camiseta-insider-qual-escolher`, `camiseta-feminina-insider-qual-escolher` e `insider-vale-a-pena` | Com a R7 no ar: as seções de lavagem encurtam e linkam para ela, e as notas "Não testamos as peças" e "Ninguém da equipe usou as peças" mudam, porque a Perfect Top foi usada no short. O dossiê da Insider (seção 4) proíbe experiência de uso: registrar a exceção. Conferir também a Core (aviso de 2 cm na página?) e o cupom na Daily, que se contradizem entre os artigos | Rodada R7, 05/11 |
 | `fita-up-como-usar` | "plus size" no H2 da largura e uma FAQ, pelo que a loja publica (R8) | Rodada de 05/11 |
 | `clea-store-e-confiavel` | FAQ "Onde fica a Cléa Store? Tem loja física em Jaraguá do Sul?", pelo que a loja publica | Rodada de 05/11 |
 | /cupons da Max, Probiótica e Insider (sessão de cupons) | FAQ "influencer" e "mercado livre"; confirmar o title sem "(nov/2026)". Parte 3 de [[cupom-loja-primeira-pagina-0511]]. As partes 1 e 2 saíram no #600 e a FAQ "primeira compra" (também da Mais Mu e da Bagaggio, comparada com as boas-vindas) no #601, os dois na main | Cupom <loja> na 1ª página, 05/11 |
