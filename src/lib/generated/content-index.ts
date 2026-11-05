@@ -86308,7 +86308,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nanlac Supreme Pro e Comfor HMO são fórmulas da Nestlé de 1 a 3 anos, com leite, lactose e soja. Pelo rótulo, o Supreme Pro declara quatro HMOs; o Comfor, um, mais GOS, FOS e menor preço. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF nas duas; não vale em fórmulas de 0 a 12 meses."
+          "Nanlac Supreme Pro e Comfor HMO são fórmulas da Nestlé de 1 a 3 anos, com leite, lactose e soja. Pelo rótulo, o Supreme Pro declara quatro HMOs; o Comfor, um, mais GOS e FOS. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF nas duas; não vale em fórmulas de 0 a 12 meses."
         ]
       },
       {
