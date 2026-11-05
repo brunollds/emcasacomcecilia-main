@@ -10,7 +10,6 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| SK48 | **Urgente.** Brindes da Skelt em 48 horas com o cupom (creme para mãos e Body Cream), mais o 301 do brinde-skelt-30-outubro-cupom | Skelt | PT | [[brindes-skelt-black-friday-cupom]] | Redação e deploy junto com o banner skelt-brindes-48h-2026, até 06/11 |
 | DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | Redação. A primeira da série: DN2, DN3 e DN4 linkam para ela |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação, depois da DN1 |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação, depois da DN1 |
@@ -34,6 +33,31 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 ## 3. Estoque: volta quando o Bruno chamar ou quando o sinal mudar
 
 ### Propostas sem GO
+
+**HolyFoods: onboarding** (proposta de 05/11/2026, aguardando o GO do Bruno). A parceria entra pelo #590 (`/cupons/holyfoods`, cupom EMCASA com 15% em todo o site, somando com os 30% da Black da loja). Dossiê em `01_Parceiros/HolyFoods.md`.
+- **Catálogo** (`products.json`, 05/11):
+  - sopas (Detox, Low Carb, da Vovó e Canja da Mamãe; o sachê rende 1 litro, quatro porções de 250 g);
+  - risotos (Funghi, Al Mare e de Queijo) e Macs (Queijo, Alfredo, Bolonha e Caipira), com 20 g de proteína por embalagem;
+  - Super Aveia, feijão e mel;
+  - kits, entre eles o Projeto 21 Dias e o "Kit Seca Barriga 30 dias".
+  - Avulsos a R$ 19,90, ou R$ 13,93 com os 30% da Black.
+- **Reclame Aqui** (empresa `holysoup`, lida no Chrome em 05/11, de 01/05 a 31/10/2026):
+  - reputação "Boa", nota 7,5;
+  - 251 reclamações, 100% respondidas e 91,1% resolvidas;
+  - 51,9% voltariam a fazer negócio; nota média do consumidor 5,93;
+  - o problema principal é "Produto não recebido", com 29%;
+  - 9º lugar em Alimentos Diet e Light.
+- O autocompletar mostra só demanda de marca. "comida pronta saudável" e "refeição pronta saudável" não trazem nada útil.
+- **Cuidado:** o site e os nomes dos kits prometem emagrecimento. Os textos descrevem o produto, o rótulo e o preço, sem promessa de peso ou saúde.
+
+| Ordem | Pauta | Busca (autocompletar do Google, 05/11) | Nota |
+|---|---|---|---|
+| 1 | HF1 HolyFoods é bom e é confiável? Reclame Aqui, entrega, garantia de 30 dias e o cupom | "holyfoods é bom", "é confiável", "é saudável", "vale a pena", "holy foods reclame aqui", "sopa holyfoods reclame aqui" | A porta de entrada. O Reclame Aqui entra como seção. Separar o artigo do RA só se a busca crescer |
+| 2 | HF2 Projeto 21 Dias da HolyFoods: o que vem, quanto custa por dia e como preparar | "holyfoods 21 dias", "projeto 21 dias", "kit 21 dias", "kit holyfoods novo hábito 21 dias", "sopa holyfoods 21 dias" | A busca de kit mais forte. Risco alto de promessa de emagrecimento: só o que vem no kit, o rótulo e o preço. Decisão do Bruno |
+| 3 | HF3 Sopas HolyFoods: qual escolher, ingredientes, rendimento e tabela nutricional | "holyfoods sopa", "sopa low carb", "sopa detox", "sopa da vovó", "sopa holyfoods tabela nutricional", "sopa holyfoods como fazer" | A tabela nutricional sai do rótulo, lido na página ou na foto do produto. Não chamar a Detox de detox no nosso texto |
+| 4 | HF4 Risotos e Macs HolyFoods: qual escolher, proteína, calorias e como fazer | "holyfoods risoto", "risoto funghi", "al mare", "risoto holyfoods como fazer", "microondas", "holyfoods mac queijo", "mac queijo calorias", "tabela nutricional" | Os prints do Bruno (risotos, Macs e packs de sopa) servem de pedido-exemplo |
+| 5 | HF5 Cupom HolyFoods: como usar o EMCASA no checkout próprio | "holy foods cupom", "cupom de desconto holyfoods", "cupom primeira compra holyfoods" | Mais curto. O cupom só entra na tela "Finalizar compra" e não no carrinho. Pode virar seção da HF1 se o Bruno preferir |
+| — | HF6 HolyFoods ou Mexidona | "holyfoods ou mexidona", "mexidona ou holyfoods" | Depois. A concorrente entra sem link, sem cupom e sem foto |
 
 **Dolce Gusto Negócios (CNPJ)**: o Bruno aprovou a DN1 a DN4 em 05/11/2026 (briefings na seção 1) e confirmou que o CECI soma com os 10% de CNPJ e com o desconto do combo. Fica no estoque só a DN5 (comodato ou comprar), sem fonte: o site não diz se a Nestlé tem comodato, e só o formulário responderia.
 
