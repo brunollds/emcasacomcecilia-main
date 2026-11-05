@@ -115,6 +115,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | `cupom-max-titanium-como-usar` e `cupom-probiotica-como-usar` | seoTitle pelo passo a passo e sem o % no title e na meta (H1 e slug ficam). Ver [[cupom-loja-primeira-pagina-0511]], parte 1 | Cupom <loja> na 1ª página, 05/11 |
 | 9 artigos da Max, Probiótica e Insider | Âncora exata "cupom <loja>" para /cupons/<loja>; `insider-vale-a-pena` e `tabela-de-medidas-insider` nem têm o link. Lista na parte 2 da mesma nota | Cupom <loja> na 1ª página, 05/11 |
 | /cupons da Max, Probiótica e Insider (sessão de cupons) | FAQ "primeira compra", "influencer" e "mercado livre"; confirmar o title sem "(nov/2026)". Parte 3 da mesma nota | Cupom <loja> na 1ª página, 05/11 |
+| /cupons da Mais Mu, da Bagaggio e da Insider (sessão de cupons) | FAQ que compara o desconto de boas-vindas da loja com o nosso código. Sem série e sem artigo "cupom <loja> primeira compra": a busca é baixa (fora a DAMIE, nenhuma loja passou de 16 impressões em 3 meses) e uma URL nova disputaria com a /cupons/<loja>, a página do cupom desde o #598 | Análise "primeira compra" das 23 lojas, 05/11 |
 | `cafeteira-escritorio-qual-escolher-custo-mes` | Link para a DN1 na seção "Dolce Gusto Negócios" e para a DN2 na seção de consultório, quando cada uma for ao ar | Pautas DN, 05/11 |
 | `black-friday-dolce-gusto` | A faixa do site já diz "COMEÇOU A BLACK FRIDAY", com cafés intensos a partir de R$ 15,90 e máquinas e combos fora da oferta. Reler a oferta e atualizar o guia | Sessão de artigos, 05/11 |
 | `clube-dolce-gusto-como-funciona` | "Dolce Gusto Club" no título SEO | Bing, 04/11 |
@@ -139,5 +140,6 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 | Antes da Black Friday | Reler os preços da Insider (I6), do melhor whey, da Probiótica, da Max e da Hostinger. Na DAMIE, a campanha e os preços |
 | Antes de 27/11 | Famílias da Hostinger (Reach, HostGator e WordPress): reler os preços |
 | ~14/11 | Remedir "cupom max titanium", "cupom probiótica" e "cupom insider" (posição e URL); na Max, decidir a dona ([[cupom-loja-primeira-pagina-0511]]) |
+| ~14/11 | "Primeira compra": a loja que passar de ~50 impressões por mês sem a /cupons/<loja> aparecer ganha um artigo de decisão ("boas-vindas da loja ou nosso cupom?"). A primeira candidata é a Mais Mu, a única com conta de verdade (empate em R$ 150); depois vem a Insider, após ler o valor das boas-vindas. Magalu, SHEIN e Dolce Gusto ficam fora: o resultado é da resposta de IA do Google e dos sites de cupom, e na Magalu o código não vale no app |
 | 27/11 | Insider: refazer o teste da soma do cupom com a Black Friday |
 | Black Friday | Bagaggio: testar se a promoção "não cumulativa" soma com o CECILIA10 |
