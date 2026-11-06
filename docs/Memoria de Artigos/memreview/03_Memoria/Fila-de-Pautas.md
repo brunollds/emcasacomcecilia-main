@@ -16,6 +16,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
+| F11 | Toda Up ou Intimissimi: fita, sutiã adesivo e protetor de mamilo | Toda Up | PT | [[toda-up-ou-intimissimi]] | Pronta para redação: páginas da Intimissimi e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -34,7 +35,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 ### Propostas sem GO
 
-**Rodada Fita Up (06/11/2026)** (pesquisa de outra sessão no autocompletar, contra os 11 artigos da Toda Up no ar; sem o Search Console, que saiu do login; avaliada pela sessão de pautas). Aguarda o GO do Bruno. Antes de cada briefing: o que a página da Fita Up publica sobre o tema (Chrome) e, se possível, as impressões no Search Console. **GO do Bruno em 06/11:** a F3 virou briefing, com a F2 (água) e a F5 (amamentação: a loja não recomenda) dentro; a F1 ficou na R8, porque a loja só publica P, M e G, sem cm nem metros do rolo. **Fechada em 06/11:** a F4 (FAQ "mudou de nome? faliu?") está no ar no `toda-up-e-confiavel` (#647). A F6 foi encerrada: na busca de 06/11, Hope, Lupo e Zee Rucci vendem sutiã adesivo, não fita; a Intimissimi não aparece; a Trifil só aparece num anúncio de vendedor no Mercado Livre ("Kit Fita Adesiva Sustentadora Up Trifil"), sem página da marca. Não sustenta a continuação da R3.
+**Rodada Fita Up (06/11/2026)** (pesquisa de outra sessão no autocompletar, contra os 11 artigos da Toda Up no ar; sem o Search Console, que saiu do login; avaliada pela sessão de pautas). Aguarda o GO do Bruno. Antes de cada briefing: o que a página da Fita Up publica sobre o tema (Chrome) e, se possível, as impressões no Search Console. **GO do Bruno em 06/11:** a F3 virou briefing, com a F2 (água) e a F5 (amamentação: a loja não recomenda) dentro; a F1 ficou na R8, porque a loja só publica P, M e G, sem cm nem metros do rolo. **Fechada em 06/11:** a F4 (FAQ "mudou de nome? faliu?") está no ar no `toda-up-e-confiavel` (#647). A F6 foi encerrada: na busca de 06/11, Hope, Lupo e Zee Rucci vendem sutiã adesivo, não fita; a Intimissimi não apareceu na busca da web (corrigido: ela tem fita, copas de silicone e protetor no site brasileiro, F11); a Trifil só aparece num anúncio de vendedor no Mercado Livre ("Kit Fita Adesiva Sustentadora Up Trifil"), sem página da marca. Não sustenta a continuação da R3.
 
 
 Já cobertos: tomara que caia, decote, protetor de mamilo, kit, Comfort Up e Slim, onde comprar (R1) e Blumi e Lib (R3).
