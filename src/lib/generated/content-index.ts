@@ -32615,6 +32615,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "A história da air fryer: o Whirlwind Oven dos anos 1940, o projeto de Fred van der Weij, o lançamento da Philips em 2010 e como o aparelho funciona.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
+    "updatedAt": "2026-11-06",
     "image": "/images/reviews/airfryer-historia-capa-discover.webp",
     "imageAlt": "Cecília apoiada sobre uma air fryer preta na bancada da cozinha, e o título \"História da air fryer\"",
     "imageFit": "contain",
@@ -32626,20 +32627,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A air fryer cozinha com ar quente em circulação, uma ideia que já aparece nos anos 1940. O holandês Fred van der Weij desenvolveu a versão moderna a partir de 2005, e a Philips a lançou em 2010, em Berlim. O capítulo Como a air fryer funciona explica a crocância."
+          "A air fryer cozinha com ar quente em circulação, ideia que já aparece num forno para aviões de 1945. Em 2006, a Tefal lançou a ActiFry. O holandês Fred van der Weij criou o aparelho que a Philips lançou como Airfryer em 2010, na feira IFA, em Berlim."
         ]
       },
       {
         "heading": "Das primeiras tentativas ao protótipo de Van der Weij",
         "paragraphs": [
-          "Cozinhar com ar quente forçado não nasceu com a air fryer. Na década de 1940, William L. Maxson criou o Whirlwind Oven, que usava ar forçado para cozinhar alimentos rapidamente. Apesar de inovador, ele não chegou ao mercado de massa.",
-          "O conceito moderno veio em 2005, quando o inventor holandês Fred van der Weij começou a desenvolver um aparelho para fazer batatas fritas sem imergi-las em óleo. Depois de três anos de testes, ele apresentou o protótipo à Philips.",
-          "A Philips lançou a primeira air fryer comercial em 2010, durante a Internationale Funkausstellung (IFA), em Berlim."
+          "Cozinhar com ar quente forçado não nasceu com a air fryer. Em 1945, a empresa de William Maxson lançou refeições congeladas para aviões e o Whirlwind Oven, um forno leve que fazia o ar quente circular com ventiladores e aquecia seis refeições na metade do tempo de um forno comum, segundo a [Food Republic](https://www.foodrepublic.com/1427927/strato-plates-first-frozen-meal/). Ele nunca chegou às casas: Maxson morreu em 1947, e a empresa saiu do negócio.",
+          "Em 2006, o Groupe SEB lançou na França a ActiFry, da Tefal, que fazia batata frita com uma colher de óleo. A própria Tefal registra o lançamento na [página das inovações da marca](https://www.tefal.com/about-tefal/our-innovations).",
+          "Na mesma época, o engenheiro holandês Fred van der Weij começou a buscar um jeito de fazer batata frita sem mergulhá-la no óleo; as fontes dão o início em 2005 ou em 2006. Segundo o New York Times, citado pelo [Tasting Table](https://www.tastingtable.com/1149069/the-crispy-conundrum-that-inspired-the-inventor-of-the-air-fryer), o protótipo levou cerca de três anos. Depois, ele levou a invenção à Philips.",
+          "A Philips apresentou a sua Airfryer em 2010, na IFA, a feira de eletrônicos de Berlim, como registrou a [New Atlas](https://newatlas.com/philips-debuts-airfryer/16229/) na cobertura do lançamento."
         ],
         "image": {
           "src": "/images/reviews/airfryer-linha-do-tempo.webp",
           "alt": "Linha do tempo da air fryer: anos 1940, Whirlwind Oven de William L. Maxson; 2005, Fred van der Weij começa o projeto; três anos depois, o protótipo vai à Philips; 2010, lançamento na IFA de Berlim; depois de 2010, Cosori, Ninja e Cuisinart; pandemia, mais gente cozinhando em casa",
-          "caption": "Do Whirlwind Oven dos anos 1940 à air fryer da pandemia, com os fatos deste artigo. Ilustração do Em Casa com Cecília.",
+          "caption": "Do Whirlwind Oven dos anos 1940 à air fryer da pandemia. O início do projeto de Van der Weij aparece como 2005 ou 2006, conforme a fonte. Ilustração do Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -32647,7 +32649,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a air fryer funciona",
         "paragraphs": [
-          "A tecnologia Rapid Air, da Philips: ar quente em alta velocidade pelo cesto, dourando a superfície por igual.",
+          "A air fryer funciona como um forno de convecção compacto: uma resistência aquece o ar, e um ventilador o faz circular rápido em volta do alimento, num cesto vazado. O ar quente seca e doura a superfície, o que dá a crocância.",
+          "Cada marca dá um nome à sua circulação de ar. Na Philips, é a tecnologia patenteada Rapid Air; no lançamento, a marca falava em até 80% menos gordura que a fritura em óleo e em temperatura de até 200 °C. O dourado depende de não lotar o cesto e de sacudir ou virar na metade, porque as peças sobrepostas douram menos.",
           "Por isso o aparelho usa pouco ou nenhum óleo em muitos preparos. O resultado, porém, depende do alimento: batata cortada e seca fica crocante com facilidade, e massas muito úmidas pedem mais tempo e ajuste."
         ],
         "image": {
@@ -32662,7 +32665,7 @@ export const reviewsData: unknown[] = [
         "heading": "Depois de 2010: mais marcas e mais uso em casa",
         "paragraphs": [
           "Desde 2010, outras marcas, como Cosori, Ninja e Cuisinart, lançaram as próprias versões, com telas digitais e várias opções de cozimento.",
-          "Na pandemia de covid-19, o uso cresceu, porque mais gente passou a cozinhar em casa. O aparelho serve para fritar, assar, grelhar e até preparar sobremesas."
+          "Nos Estados Unidos, as vendas cresciam desde 2017 e ganharam impulso no começo da pandemia, quando mais gente passou a cozinhar em casa. Em 2022, os americanos gastaram quase US$ 1 bilhão em air fryers, 51% a mais que em 2019, segundo a NPD, citada pela [CNBC](https://www.cnbc.com/2023/03/05/nestle-tyson-air-fryer-boom.html). O aparelho serve para fritar, assar, grelhar e até preparar sobremesas."
         ],
         "image": {
           "src": "/images/recipes/air-fryer/bolo-de-caneca-na-air-fryer.jpg",
@@ -32677,8 +32680,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Modelos multifuncionais, que combinam funções de forno, grill e até desidratador.",
           "Há tamanhos compactos para pouco espaço e maiores para famílias numerosas.",
-          "Os painéis digitais trazem temporizador automático e programas predefinidos.",
-          "Os cestos e revestimentos ficaram mais duráveis."
+          "Os painéis digitais trazem temporizador automático e programas predefinidos."
         ]
       },
       {
