@@ -80,7 +80,7 @@
     },
     {
       "key": "Dimensões (A x L x P)",
-      "value": "27,2 cm (A) x 11,2 cm (L) x 28,6 cm (P)"
+      "value": "27,2 cm (A) x 11,2 cm (L) x 28,6 cm (P), segundo o comparativo da loja oficial; o esquema da Arno traz 12,1 cm de largura e 28,1 cm de profundidade"
     },
     {
       "key": "Reservatório de água",
@@ -231,21 +231,21 @@
     {
       "heading": "Preço e como comprar",
       "paragraphs": [
-        "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço verificado em 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 10% de desconto em compras a partir de R$ 100; confira no resumo do pedido.",
-        "Como todo cupom promocional, o CECI tem prazo de validade e pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
+        "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço verificado em 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 10% de desconto em compras a partir de R$ 100; confira no resumo do pedido. As condições do código estão na [página de cupons da Dolce Gusto](/cupons/dolce-gusto).",
+        "Como todo cupom promocional, o CECI pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
       ],
       "bullets": []
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual a diferença entre a Genio S Touch e a Genio S Plus? A principal diferença é o painel: a Touch tem touchscreen, enquanto a Plus usa botões físicos tradicionais. Em recursos, as duas oferecem Espresso Boost, níveis de temperatura e Função XL.",
+        "Qual a diferença entre a Genio S Touch e a Genio S Plus? A principal diferença é o painel: a Touch tem touchscreen, enquanto a Plus tem controle tradicional, sem touchscreen, com o nível de água escolhido por um toque no círculo de LED. Em recursos, as duas oferecem Espresso Boost, níveis de temperatura e Função XL.",
         "A Genio S Touch é compatível com cápsulas NEO? Não diretamente: ela usa o sistema ORIGINAL. Para cápsulas NEO de café preto selecionadas, é preciso comprar o Adaptador NEO Start (vendido à parte).",
         "Quantos ml sai em cada nível do painel touch? O painel mostra ícones de tamanho (os mesmos impressos na cápsula), não o valor em ml. Os volumes reais só constam no manual impresso, e a tabela completa está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel).",
         "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro, um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
         "Precisa de tomada especial? Sim, a unidade 127V testada possui plugue de 20A e deve ser ligada diretamente a uma tomada de 20A compatível, sem adaptadores improvisados.",
         "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso: melhora bastante o resultado na xícara.",
-        "O cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver mais ativo, use o link da loja oficial neste artigo para conferir a promoção vigente no momento da sua compra."
+        "O cupom CECI ainda é válido? Cupons promocionais podem mudar. Se o CECI não estiver ativo, confira a [página de cupons da Dolce Gusto](/cupons/dolce-gusto) ou o link da loja oficial neste artigo para ver a promoção vigente."
       ]
     }
   ],
@@ -264,5 +264,6 @@
       "url": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
       "alt": "Esquema de dimensões da NESCAFÉ Dolce Gusto Genio S Touch"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-06"
 }

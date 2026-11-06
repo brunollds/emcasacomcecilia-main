@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Vale a pena participar do Clube Dolce Gusto se você já compra cápsulas com frequência: o cadastro é gratuito e cada caixa da Geração 1 ou extração na NEO rende pontos. O saldo zera após 6 meses sem registrar código nem resgatar prêmio. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+        "Vale a pena participar do Clube Dolce Gusto se você já compra cápsulas com frequência: o cadastro é gratuito, cada código de caixa da Geração 1 rende 100 pontos e cada extração na NEO, 10. Use o saldo antes de 6 meses. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
       ]
     },
     {
@@ -35,7 +35,7 @@
       "paragraphs": [
         "Se você já compra cápsulas todo mês, o Clube transforma caixa vazia em pontos: é o programa de fidelidade oficial da marca. A lógica é simples para quem consome café em cápsulas: ao comprar caixas de cápsulas originais, você acumula pontos cadastrando o código de 12 dígitos impresso no interior das embalagens da Geração 1 ou preparando cápsulas NEO via aplicativo. Depois, esses pontos podem ser trocados por novas cápsulas, acessórios e prêmios na loja do clube.",
         "O cadastro no programa é gratuito para quem possui conta no e-commerce da marca. Em vez de jogar as caixas fora, registre os códigos das compras da rotina. Quem já tem cadastro ou já comprou na loja oficial tem a participação vinculada à mesma conta.",
-        "Os pontos expiram após 6 meses de inatividade na conta. Para mantê-los ativos, registre ao menos um código ou resgate um prêmio nesse período."
+        "Pelo regulamento, cada ponto expira 12 meses depois de cadastrado; o FAQ do site fala em 6 meses sem atividade na conta. Para não perder pontos, use o saldo antes de 6 meses."
       ],
       "bullets": [
         "Quem pode participar: residentes do Brasil com 18 anos ou mais, com limite de uma conta por CPF.",
@@ -52,13 +52,13 @@
     {
       "heading": "Como acumular pontos no Clube",
       "paragraphs": [
-        "A Geração 1 pontua por código da caixa, a NEO pontua sozinha na extração, e o site dá bônus por newsletter, compra e assinatura. Os pontos ficam guardados na conta e podem virar cápsulas, acessórios ou vouchers; quem dá quanto está nos itens abaixo."
+        "A Geração 1 pontua por código da caixa, a NEO pontua na extração, e o site dá bônus por newsletter, compra e assinatura. Os valores abaixo são os do [regulamento do Clube](https://www.nescafe-dolcegusto.com.br/program-rules), que a marca pode atualizar; o que vale é o que aparece no extrato da sua conta."
       ],
       "bullets": [
-        "NESCAFÉ® Dolce Gusto® Geração 1: cada caixa de cápsulas oficial da linha padrão (de 10, 12 ou 16 cápsulas) vem com um código exclusivo de 12 dígitos impresso na parte interna da embalagem. Cada código válido cadastrado confere 100 pontos de fidelidade.",
-        "NESCAFÉ® Dolce Gusto® NEO: o acúmulo é automatizado pelo preparo. A cada cápsula NEO extraída no aplicativo NESCAFÉ® Dolce Gusto® com a máquina pareada, você ganha 10 pontos de fidelidade, totalizando 100 pontos por caixa de 10 unidades.",
-        "Cadastro da newsletter: assinar as novidades do e-commerce rende +100 pontos de boas-vindas.",
-        "Compras online: comprar cápsulas ou acessórios logado no site oficial garante +100 pontos adicionais no saldo da conta.",
+        "NESCAFÉ® Dolce Gusto® Geração 1: cada caixa de cápsulas oficial da linha padrão (de 10, 12 ou 16 cápsulas) vem com um código exclusivo de 12 dígitos impresso na parte interna da embalagem. Cada código cadastrado soma +100 pontos.",
+        "NESCAFÉ® Dolce Gusto® NEO: o acúmulo é automatizado pelo preparo. A cada cápsula NEO extraída no aplicativo NESCAFÉ® Dolce Gusto® com a máquina pareada, você ganha 10 pontos, e o primeiro pareamento da máquina rende +400 pontos.",
+        "Cadastro da newsletter: assinar as novidades do e-commerce rende +200 pontos de boas-vindas.",
+        "Compras online: comprar logado no site oficial rende +100 pontos.",
         "Assinatura de cápsulas: o primeiro pedido de assinatura garante um bônus especial de +1.000 pontos.",
         "Combos especiais DGUSTA: adquirir uma caixa DGUSTA de 50 cápsulas rende +500 pontos, enquanto a DGUSTA de 100 cápsulas confere +1.000 pontos no extrato."
       ],
@@ -72,7 +72,7 @@
         "Dá para usar os pontos de dois jeitos no site: direto no carrinho ou na Loja de Prêmios.",
         "No carrinho, troque os pontos por produtos Dolce Gusto na compra do site.",
         "Na Loja de Prêmios oficial: para trocar por itens e prêmios de marcas parceiras ou acessórios de café, acesse a vitrine dedicada do Clube Dolce Gusto.",
-        "Só não deixe a conta parada: sem registrar código nem resgatar prêmio, o saldo zera após 6 meses."
+        "Antes de resgatar, confira as restrições de cada recompensa, porque nem todo item aceita pontos em qualquer compra. E use o saldo antes de 6 meses, para não perder pontos."
       ],
       "image": "/images/reviews/dolcegusto/clube-dolce-gusto-resgate-pontos.webp",
       "imageAlt": "Tela de resgate de pontos para troca por produtos ou prêmios no site oficial",
@@ -104,7 +104,7 @@
       "heading": "Economize ainda mais usando o cupom CECI",
       "paragraphs": [
         "A melhor tática é combinar o desconto do CECI com os pontos de cada caixa. Na loja oficial da Dolce Gusto, você pode usar o cupom CECI para obter 10% de desconto direto em compras a partir de R$ 100.",
-        "Ao aplicar o cupom CECI no carrinho, você paga menos pelas caixas de cápsulas, ganha os pontos extras da compra online (+100 pontos) e depois ainda cadastra o código interno de cada caixa para receber mais 100 pontos por embalagem da Geração 1 ou por extrações NEO. A economia é contínua e inteligente."
+        "Comprar com o CECI e depois cadastrar os códigos das caixas são duas etapas separadas. Ao aplicar o cupom CECI no carrinho, você paga menos pelas caixas de cápsulas e a compra online pode render pontos de bônus. Quando as caixas chegarem, cadastre o código interno de cada uma para acumular mais pontos. O cupom dá desconto na compra e não mexe nos pontos: usar o CECI não é resgatar pontos no mesmo carrinho."
       ],
       "image": "/images/reviews/dolcegusto/cecilia-consumo-dolce-gusto.webp",
       "imageAlt": "Cecília tomando café em casa, representando a rotina de consumo Dolce Gusto",
@@ -127,7 +127,7 @@
       "heading": "Vale a pena participar do Clube?",
       "paragraphs": [
         "Vale a pena se você já compra cápsulas todo mês; se compra de vez em quando, o saldo pode zerar antes de virar prêmio. O Clube é gratuito e recompensa um hábito que você já tem. Cadastrar o código de 12 dígitos leva poucos segundos e, a médio prazo, acumular esses pontos pode render produtos, acessórios ou vouchers úteis.",
-        "A dica: guarde as caixas numa gaveta e digite os códigos uma vez por mês, para o saldo não expirar por inatividade. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
+        "A dica: guarde as caixas numa gaveta, digite os códigos uma vez por mês e use o saldo antes de 6 meses. Para maximizar o saldo, combine as ações: compre com o cupom CECI, cadastre os códigos das caixas que chegarem e aproveite os bônus quando houver."
       ]
     },
     {
@@ -138,16 +138,16 @@
       "bullets": [
         "Quem pode participar do programa? Residentes do Brasil com 18 anos ou mais que possuam conta no site oficial.",
         "Como usar os pontos da Dolce Gusto? De dois jeitos: no carrinho do site oficial, trocando por produtos NESCAFÉ Dolce Gusto, ou na Loja de Prêmios do Clube, por itens de marcas parceiras e acessórios de café.",
-        "Como ganho pontos com as caixas de cápsulas? Caixas Geração 1 possuem código interno de 12 dígitos (100 pontos por caixa de 10, 12 ou 16 cápsulas). Caixas NEO acumulam 10 pontos por extração no aplicativo oficial.",
-        "Quanto tempo duram os meus pontos? Eles são válidos enquanto você registra códigos ou realiza trocas de prêmios pelo menos uma vez a cada 6 meses. Se a conta ficar inativa por 6 meses, o saldo total expira.",
+        "Como ganho pontos com as caixas de cápsulas? Caixas Geração 1 de 10, 12 ou 16 cápsulas trazem um código interno de 12 dígitos, que rende +100 pontos quando cadastrado na conta do Clube. Caixas NEO acumulam 10 pontos por extração no aplicativo oficial.",
+        "Quanto tempo duram os meus pontos? Pelo [regulamento do Clube](https://www.nescafe-dolcegusto.com.br/program-rules), cada ponto expira 12 meses depois de cadastrado; o FAQ do site fala em 6 meses sem atividade na conta. Para não perder pontos, use o saldo antes de 6 meses.",
         "Não encontro ou não consigo ler o código na embalagem. O que fazer? Se a caixa for Geração 1 e o código estiver ausente ou ilegível, ligue para o SAC no 0800 776 2233 ou envie um formulário de contato com foto da caixa e a nota fiscal da compra para receber um código substituto.",
         "Comprei cápsulas em outro país. Posso cadastrar os códigos? Não. O programa é territorial, e códigos de embalagens adquiridas fora do Brasil não são válidos para resgate de pontos na conta brasileira.",
         "Meu código não é aceito no site. O que fazer? Verifique se não houve erro de digitação, como trocar a letra O pelo número 0, ou se o código já não foi inserido antes. Cada código só pode ser usado uma vez. Se o erro persistir, acione o suporte oficial.",
         "Quanto custa o frete na Loja de Prêmios do Clube? O frete é calculado no checkout conforme o CEP e o peso do pedido, e a Dolce Gusto eventualmente faz campanhas de frete grátis para resgates, divulgadas por e-mail ou no site do clube. Junte pontos para um resgate maior em vez de vários pequenos com frete cheio.",
         "Posso transferir meus pontos para outra pessoa? Não. Os pontos do Clube Dolce Gusto são intransferíveis e vinculados exclusivamente ao CPF da conta que os acumulou. Cada usuário pode ter apenas uma conta por CPF. Se você comprou caixas para presente, quem usar as cápsulas precisará cadastrar os códigos na própria conta.",
-        "Quanto tempo demora para os pontos caírem na conta após cadastrar o código? Em geral, os pontos da Geração 1 são creditados instantaneamente após a validação do código no site. Para as cápsulas NEO, o acúmulo é automático pelo aplicativo, mas pode levar algumas horas até a sincronização completa. Se após 24 horas os pontos não aparecerem, confira o pareamento da NEO ou fale com o SAC, como no item do código ilegível acima.",
-        "Existe limite de pontos que posso acumular por mês? Não há limite máximo explícito de pontos por mês. No entanto, cada código de caixa Geração 1 pode ser cadastrado apenas uma vez, e o sistema identifica tentativas de uso duplicado. O limite prático é o número de caixas que você consome. Para o sistema NEO, os pontos são contabilizados por extração, então o volume de consumo define o acúmulo.",
-        "O que acontece com meus pontos se eu cancelar minha conta? Ao cancelar sua conta, todo o saldo de pontos acumulado é perdido e não pode ser recuperado. Recomenda-se resgatar todos os prêmios ou aplicar os pontos no carrinho antes de solicitar o encerramento. Se você pretende pausar o uso, mantenha a conta ativa cadastrando pelo menos um código a cada 6 meses para evitar a expiração por inatividade.",
+        "Quanto tempo demora para os pontos caírem na conta após cadastrar o código? O regulamento admite até 3 dias úteis para os pontos aparecerem. Se não aparecerem, fale com o SAC em até 7 dias da data do cadastro, que é o prazo do regulamento para reclamar de pontos não creditados.",
+        "Existe limite de pontos que posso acumular por mês? O regulamento limita o cadastro de códigos: 30 por dia, 60 por semana, 90 por mês e 250 nos últimos 12 meses. São limites de códigos cadastrados, não um teto geral de pontos de todas as atividades. Além disso, cada código de caixa Geração 1 só pode ser cadastrado uma vez.",
+        "O que acontece com meus pontos se eu cancelar minha conta? Ao cancelar sua conta, todo o saldo de pontos acumulado é perdido e não pode ser recuperado. Resgate os prêmios ou use os pontos no carrinho antes de pedir o encerramento.",
         "Como usar códigos promocionais na página do Clube Dolce Gusto? Os cupons de desconto (como o cupom CECI) devem ser digitados no carrinho de compras ou no checkout da loja oficial NESCAFÉ Dolce Gusto antes de finalizar o pedido, e não na área do Clube. Na página do Clube Dolce Gusto, você digita apenas os códigos de 12 dígitos impressos nas abas internas das embalagens para acumular pontos de fidelidade."
       ]
     }
@@ -167,5 +167,6 @@
     {
       "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-06"
 }
