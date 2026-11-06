@@ -32170,8 +32170,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Introdução",
         "paragraphs": [
-          "Quando o Ian nasceu, eu achava que o cantinho da amamentação seria o sofá da sala. Colocava uma almofada nas costas, outra no braço, escolhia um lado mais confortável do estofado e ficava ali, às três da manhã, meio dormindo, meio alimentando, o que hoje sei que é arriscado. Funcionou? Até funcionou. Mas depois de algumas semanas começaram as dores: na lombar, no pescoço, no braço que ficava sem apoio. E o pior era quando eu finalmente conseguia colocar o Ian para dormir no peito, mas não conseguia ajustar minha própria posição sem acordar ele.",
-          "Foi aí que a gente começou a pensar seriamente em uma poltrona de amamentação. Não uma cadeira genérica de escritório, não um puff improvisado. Algo que realmente me segurasse durante sessões de 20, 30, 40 minutos, várias vezes ao dia e à noite. Hoje, depois de mais de um ano usando a nossa, consigo dizer o que realmente fez diferença — e o que eu olharia de novo se tivesse que escolher."
+          "Quando o Ian nasceu, eu achava que o cantinho da amamentação seria o sofá da sala. Colocava uma almofada nas costas, outra no braço, escolhia um lado mais confortável do estofado e ficava ali o tempo da mamada. Funcionou? Até funcionou. Mas depois de algumas semanas começaram as dores: na lombar, no pescoço, no braço que ficava sem apoio. E o pior era quando eu finalmente conseguia colocar o Ian para dormir no peito, mas não conseguia ajustar minha própria posição sem acordar ele.",
+          "Foi aí que a gente começou a pensar seriamente em uma poltrona de amamentação. Não uma cadeira genérica de escritório, não um puff improvisado. Algo que realmente me segurasse durante sessões de 20, 30, 40 minutos, várias vezes ao dia. Hoje, depois de mais de um ano usando a nossa, consigo dizer o que realmente fez diferença — e o que eu olharia de novo se tivesse que escolher."
         ]
       },
       {
@@ -32185,7 +32185,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "No começo eu amamentava em qualquer lugar. Cama, sofá, cadeira da cozinha. Cada lugar tinha um problema: na cama eu acabava deitada de um jeito ruim para a coluna, no sofá afundava demais e não tinha apoio de braço, na cadeira da cozinha ficava rígida demais. O corpo foi acumulando cansaço e, sem eu perceber, a amamentação virou uma tarefa desconfortável.",
           "A poltrona reclinável mudou isso porque ela permite ajustar a posição sem eu precisar me movimentar muito. Quando o Ian está mais agitado, deixo o encosto mais ereto; quando ele se acalma, reclino um pouco para aliviar as costas. Quando ele dorme, vai para o berço: a poltrona é para mamar acordada, não para dormir com ele no colo.",
-          "O movimento é silencioso — e isso não é detalhe pequeno, porque qualquer barulho na madruga pode reiniciar tudo do zero. Outra coisa que só descobri usando: o apoio de braços. Não basta ter braços na poltrona. Eles precisam estar na altura certa para que o bebê fique alinhado ao seio sem você ter que curvar os ombros. Quando o braço fica muito baixo, você acaba compensando com a coluna. Quando fica muito alto, fica rígido. A altura ideal é quase sempre algo intermediário."
+          "O movimento é silencioso — e isso não é detalhe pequeno, porque qualquer barulho pode acordar o bebê e reiniciar tudo do zero. Outra coisa que só descobri usando: o apoio de braços. Não basta ter braços na poltrona. Eles precisam estar na altura certa para que o bebê fique alinhado ao seio sem você ter que curvar os ombros. Quando o braço fica muito baixo, você acaba compensando com a coluna. Quando fica muito alto, fica rígido. A altura ideal é quase sempre algo intermediário."
         ],
         "image": "/images/reviews/poltrona-reclinavel-cecilia.webp",
         "imageAlt": "Cecília e o Ian sentados na poltrona reclinável bege da sala de estar.",
