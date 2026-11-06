@@ -42494,7 +42494,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "O que é K-Beauty, por que a beleza coreana virou uma febre global de skincare e onde encontrar marcas como COSRX, Beauty of Joseon e Anua reunidas num só lugar.",
-    "metaDescription": "K-Beauty na YesStyle com o código CECILIA010 e até 5% extra: o que é, por que virou tendência e onde comprar COSRX, Anua e Beauty of Joseon.",
+    "metaDescription": "K-Beauty na YesStyle com o código CECILIA010: 5% na primeira compra e 2% nas seguintes. O que é, por que virou tendência e onde comprar COSRX e Anua.",
     "publishedAt": "25 de agosto de 2026",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -42510,15 +42510,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "K-Beauty é a rotina coreana de skincare em várias camadas, conhecida pelo ritmo de lançamentos. Fora da Coreia, o difícil é comprar: as marcas vendem em sites separados, com frete repetido. A YesStyle reúne várias num carrinho só; veja em \"Onde a YesStyle entra nisso\" como funciona."
+          "K-Beauty é o nome dos cosméticos e das tendências de beleza da Coreia, do skincare à maquiagem. A rotina em camadas é uma das práticas mais conhecidas, mas não é obrigatória: uma rotina simples pode bastar. Fora da Coreia, a oferta muda por marca e por país; a YesStyle reúne várias marcas num carrinho só."
         ]
       },
       {
         "heading": "O que é K-Beauty",
         "paragraphs": [
-          "K-Beauty é a rotina coreana em camadas, com lançamento novo todo mês.",
-          "A raiz dessa filosofia está na ideia de que uma rotina de cuidados com a pele não precisa ser simples e direta. Enquanto em muitos lugares predomina a lógica de \"limpar, tonificar e hidratar\" em três passos, a abordagem coreana trabalha com o conceito de layering: aplicar múltiplas camadas de produtos que se complementam, cada uma com uma função específica. Essa rotina pode incluir dupla limpeza (um demaquilante em óleo seguido de um limpador em gel ou espuma), tônico, essência, sérum, ampola e creme: cada etapa pensada para preparar a pele para próxima.",
-          "Essa filosofia vem de uma ideia cultural: o cuidado com a pele é tratado como autocuidado essencial, não como vaidade. É por isso que a indústria de beleza coreana é um dos motores mais dinâmicos do setor no mundo, com uma quantidade de lançamentos e formulações novas que impressiona quem está acostumado com o ritmo mais lento de outras regiões."
+          "K-Beauty é o termo para os cosméticos e as tendências de beleza coreanos, que vão do skincare à maquiagem e ao styling, como descreve a [cidade de Incheon](https://www.incheon.go.kr/en/EN010701/2042492).",
+          "Uma das práticas mais conhecidas é o layering: aplicar camadas de produtos que se complementam, cada uma com uma função. A rotina pode incluir dupla limpeza (um demaquilante em óleo seguido de um limpador em gel ou espuma), tônico, essência, sérum, ampola e creme. É uma opção, não uma regra: mais camadas não garantem resultado melhor, e uma rotina simples pode bastar. A [Academia Americana de Dermatologia](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) recomenda manter a rotina simples, apresentar um produto novo por vez à pele e usar protetor solar.",
+          "Na cultura coreana, o cuidado com a pele aparece como autocuidado, e a indústria de beleza do país mantém um ritmo alto de lançamentos e de formulações novas."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -42542,20 +42542,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Três fatores empurraram a onda: k-dramas e k-pop, o ritmo de lançamentos e a internet.",
-          "O primeiro é a influência cultural dos k-dramas e do k-pop. Os dois fenômenos conquistaram audiências globais enormes e funcionam como uma vitrine viva da cultura de beleza coreana: quando cenas de novelas mostram personagens em suas rotinas de skincare em casa, ou quando artistas de k-pop aparecem com pele impecável em palco após palco, a pergunta natural que surge é \"como eles fazem isso?\". A resposta quase sempre aponta para os produtos que usam.",
-          "O segundo fator é a própria cultura das marcas coreanas de beleza. Diferente de indústrias que se acomodam num catálogo estável por anos, as marcas coreanas de skincare mantêm um ritmo de lançamento e de inovação de ingredientes que chama atenção internacionalmente: a cada mês aparecem novos séruns, novos ativos, novos formatos de máscara. Combinado a preços geralmente mais competitivos que marcas de luxo ocidentais com propostas parecidas, isso criou a percepção de que a tecnologia de skincare mais nova do mundo está saindo da Coreia.",
+          "O primeiro é a influência cultural dos k-dramas e do k-pop. Os dois fenômenos conquistaram audiências globais enormes e funcionam como uma vitrine viva da cultura de beleza coreana: quando cenas de novelas mostram personagens em suas rotinas de skincare em casa, ou quando artistas de k-pop aparecem com pele impecável em palco após palco, a pergunta natural que surge é \"como eles fazem isso?\".",
+          "O segundo fator é a própria cultura das marcas coreanas de beleza, conhecidas pelo ritmo de lançamento e de inovação de ingredientes: novos séruns, ativos e formatos de máscara aparecem com frequência. Com preços muitas vezes mais baixos que os de marcas de luxo com propostas parecidas, isso criou a percepção de que boa parte da novidade em skincare sai da Coreia.",
           "O terceiro fator é puramente de internet: comunidades de entusiastas de skincare cresceram em plataformas como TikTok, YouTube e Reddit, influenciadores passaram a mostrar unboxings de produtos coreanos com entusiasmo genuíno, resenhas se multiplicaram, e a dinâmica viral transformou K-Beauty de um interesse de nicho em um fenômeno mainstream.",
-          "No fim, a narrativa é simples de entender e por isso se espalhou tão rápido: existe uma indústria inteira, do outro lado do mundo, obcecada por inovação em cuidados com a pele, e hoje é possível ter acesso a isso online."
+          "O [Ministério da Cultura da Coreia](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) também descreve vários fatores por trás do crescimento, entre eles a distribuição internacional por varejistas. Nenhum deles explica a onda sozinho."
         ],
         "bullets": []
       },
       {
-        "heading": "O problema de comprar K-Beauty fora da Coreia",
+        "heading": "Como é comprar K-Beauty fora da Coreia",
         "paragraphs": [
-          "Se K-Beauty é tão relevante, por que não é tão simples encontrar num shopping ou farmácia? A resposta está na distribuição.",
-          "A maioria das marcas coreanas de skincare não tem lojas próprias em boa parte do mundo. Uma marca conhecida internacionalmente pode vender oficialmente só através do e-commerce coreano ou de poucos distribuidores autorizados em mercados específicos. Isso cria um problema real para quem quer montar uma rotina completa: digamos, um limpador, um tônico, um sérum e um creme, cada um de uma marca diferente.",
-          "A alternativa vira vários checkouts, fretes repetidos, entregas em datas diferentes, câmbio e taxas de importação. Confira a regra vigente na sua região antes de comprar.",
-          "Para muita gente, é essa trabalheira — não o preço nem a qualidade — que afasta da ideia de experimentar. Navegar por vários sites em idiomas diferentes, pagar frete internacional repetidas vezes e não ter um único lugar para acompanhar o pedido é cansativo.",
+          "Se K-Beauty é tão relevante, por que nem sempre é simples encontrar num shopping ou farmácia? Parte da resposta está na distribuição, que muda de país para país.",
+          "Muitas marcas coreanas de skincare não têm loja própria em boa parte do mundo, e a oferta muda por marca e por país. Uma marca conhecida internacionalmente pode vender oficialmente só através do e-commerce coreano ou de poucos distribuidores autorizados em mercados específicos. Isso cria um problema real para quem quer montar uma rotina completa: digamos, um limpador, um tônico, um sérum e um creme, cada um de uma marca diferente.",
+          "Quando cada produto vem de um site, a compra pode virar vários checkouts e fretes, entregas em datas diferentes, câmbio e taxas de importação. Confira a regra vigente na sua região antes de comprar.",
           "Além disso, nem toda marca coreana vende direto para fora da Ásia. Algumas vendem só dentro da Coreia, o que levaria à opção de recorrer a revendedores terceiros, nem sempre confiáveis, ou a serviços de reenvio postal internacional, que adicionam custo e tempo extra."
         ],
         "bullets": []
@@ -42563,11 +42562,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde a YesStyle entra nisso",
         "paragraphs": [
-          "É aqui que plataformas como a YesStyle resolvem o problema.",
-          "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só, com um frete e um prazo de entrega únicos. A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
+          "Uma das opções é comprar numa loja multimarcas, como a YesStyle.",
+          "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só. O frete segue a tabela da loja, e o pedido pode sair em mais de um envio, com chegadas em datas diferentes; o prazo estimado soma a disponibilidade dos itens e o envio escolhido, pela [política de entrega da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
           "A plataforma também vai além de skincare: tem moda asiática, maquiagem, acessórios e outras categorias de lifestyle, o que significa que dá para complementar uma compra de sérum com outros itens na mesma transação.",
-          "Para quem quer aproveitar um desconto na primeira compra, existe o código de recompensa CECILIA010, que garante desconto direto no checkout (maior na primeira compra, menor nas seguintes) quando aplicado no campo correto do carrinho. Tem um passo a passo específico sobre como aplicar o código linkado abaixo. Os cupons da loja mudam; a lista do momento está em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
-          "Essa centralização foi o que permitiu que K-Beauty saísse de um interesse de colecionadores dedicados e virasse algo acessível para quem só quer testar se a fama é real."
+          "Para comprar com desconto, o código de recompensa CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo de código de recompensa (Reward Code) do checkout. O passo a passo para aplicar o código está linkado abaixo. Os cupons da loja mudam; a lista do momento está em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
+          "Para quem só quer testar a fama, juntar várias marcas num pedido simplifica a primeira compra."
         ],
         "bullets": [],
         "links": [
@@ -42592,10 +42591,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre K-Beauty",
         "bullets": [
           "K-Beauty é a mesma coisa que J-Beauty (beleza japonesa)? Não, embora os dois termos apareçam juntos com frequência. K-Beauty e J-Beauty compartilham uma ênfase forte em cuidados com a pele, mas as filosofias tendem a ser diferentes: J-Beauty costuma ser associada a um minimalismo mais funcional e à proteção solar como base de tudo, enquanto K-Beauty é mais conhecida pelo layering em várias camadas e pela inovação constante de ingredientes. Na prática, dá para combinar as duas: a própria YesStyle reúne marcas japonesas conhecidas como Hada Labo e Rohto ao lado das marcas coreanas.",
-          "A YesStyle vende produtos originais? A empresa declara em suas informações corporativas ser distribuidora autorizada, comprando diretamente das fabricantes ou de parceiros oficiais, e é subsidiária de uma empresa de capital aberto (YesAsia Holdings), o que traz um nível de transparência corporativa acima de um revendedor avulso. Ainda assim, vale sempre conferir a política de autenticidade e garantia direto no site oficial antes de comprar. Se quiser se aprofundar nesse ponto, temos uma análise completa sobre a confiabilidade da loja linkada abaixo.",
-          "O código CECILIA010 funciona para produtos de K-Beauty também? Sim, é um código de recompensa geral da loja, não restrito a uma categoria específica: vale tanto para skincare coreano quanto para moda e outros itens do catálogo. Ainda assim, é sempre bom conferir no carrinho se o desconto foi aplicado corretamente antes de fechar o pedido.",
-          "Por onde começar se eu nunca usei K-Beauty? Marcas com grande disponibilidade internacional, como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House e Some By Mi, costumam ser bons pontos de entrada. Uma estratégia comum para quem está começando é testar um produto de cada vez (um limpador suave, um tônico, uma essência) em vez de trocar a rotina inteira de uma vez, o que ajuda a perceber como a pele responde a cada novidade.",
-          "Todo ingrediente K-Beauty serve para qualquer tipo de pele? Não necessariamente: isso vale para qualquer produto de skincare, não só K-Beauty. Ingredientes populares como niacinamida e centella asiática costumam ser bem tolerados pela maioria das pessoas, mas \"a maioria\" não é \"todo mundo\". Quem tem pele sensível ou reativa faz bem em ler a lista de ingredientes, evitar o que já sabe que causa reação, testar um produto novo numa área pequena antes de aplicar no rosto inteiro e, se tiver dúvida, consultar um dermatologista antes de começar uma rotina nova."
+          "A YesStyle vende produtos originais? A empresa declara em suas informações corporativas ser distribuidora autorizada, comprando diretamente das fabricantes ou de parceiros oficiais, e é subsidiária de uma empresa de capital aberto (YesAsia Holdings). A listagem da controladora em bolsa mostra quem está por trás da loja, mas não autentica cada unidade vendida: confira a política de autenticidade e garantia direto no site oficial antes de comprar. Se quiser se aprofundar nesse ponto, temos uma análise completa sobre a confiabilidade da loja linkada abaixo.",
+          "O código CECILIA010 funciona para produtos de K-Beauty também? Sim. É um código de recompensa da loja, com 5% na primeira compra e 2% nas seguintes nos itens elegíveis, e não se restringe ao skincare. Confira no carrinho se o desconto foi aplicado antes de fechar o pedido.",
+          "Por onde começar se eu nunca usei K-Beauty? Marcas com grande disponibilidade internacional, como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House e Some By Mi, costumam ser bons pontos de entrada. Uma estratégia comum para quem está começando é testar um produto de cada vez (um limpador suave, um tônico, uma essência) em vez de trocar a rotina inteira de uma vez, o que ajuda a perceber como a pele responde a cada novidade. Uma rotina simples pode bastar.",
+          "Todo ingrediente K-Beauty serve para qualquer tipo de pele? Não necessariamente, e isso vale para qualquer skincare. A reação a ingredientes populares como niacinamida e centella asiática varia de pessoa para pessoa e de fórmula para fórmula. Quem tem pele sensível ou reativa faz bem em ler a lista de ingredientes, evitar o que já sabe que causa reação, [testar o produto numa área pequena](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products) antes de aplicar no rosto inteiro e, se tiver dúvida, consultar um dermatologista."
         ]
       }
     ],
@@ -42619,7 +42618,8 @@ export const reviewsData: unknown[] = [
         "slug": "como-encontrar-cupons-yesstyle-validos"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 266,
@@ -42637,7 +42637,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "What K-Beauty is, why Korean beauty became a global skincare craze, and where to find brands like COSRX, Beauty of Joseon and Anua gathered in one place.",
-    "metaDescription": "Learn what K-Beauty is, why it became a worldwide skincare trend, and where to buy Korean brands like COSRX, Anua and Beauty of Joseon with the code CECILIA010.",
+    "metaDescription": "K-Beauty on YesStyle with the code CECILIA010: 5% on your first order and 2% on later ones. What it is, why it went global, where to buy COSRX and Anua.",
     "publishedAt": "August 25, 2026",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -42654,15 +42654,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "K-Beauty is the Korean multi-layer skincare routine, known for its steady pace of new launches. Outside Korea, the hard part is buying: the brands sell on separate sites, each with its own shipping. YesStyle gathers many of them in a single cart; see “Where YesStyle comes in” for how it works."
+          "K-Beauty is the name for Korean cosmetics and beauty trends, from skincare to makeup. The multi-layer routine is one of its best-known practices, but it is optional: a simple routine can be enough. Outside Korea, availability varies by brand and country; YesStyle gathers many brands in one cart."
         ]
       },
       {
         "heading": "What K-Beauty is",
         "paragraphs": [
-          "K-Beauty is the Korean layered routine, with a new launch every month.",
-          "The root of this philosophy is the idea that a skincare routine doesn't have to be simple and straightforward. While many places stick to a three-step “cleanse, tone and moisturize” logic, the Korean approach works with the concept of layering: applying several products that complement each other, each with a specific job. The routine can include double cleansing (an oil cleanser followed by a gel or foam cleanser), toner, essence, serum, ampoule and cream, with each step meant to prepare the skin for the next.",
-          "This philosophy comes from a cultural idea: skincare is treated as essential self-care, not vanity. That is why the Korean beauty industry is one of the most dynamic in the world, with a number of launches and new formulations that impresses anyone used to the slower pace of other regions."
+          "K-Beauty is the term for Korean cosmetics and beauty trends, from skincare to makeup and styling, as the [city of Incheon](https://www.incheon.go.kr/en/EN010701/2042492) describes it.",
+          "One of its best-known practices is layering: applying several products that complement each other, each with a specific job. The routine can include double cleansing (an oil cleanser followed by a gel or foam cleanser), toner, essence, serum, ampoule and cream. It is an option, not a rule: more layers do not guarantee better results, and a simple routine can be enough. The [American Academy of Dermatology](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) recommends keeping your routine simple, introducing one new product at a time and using sunscreen.",
+          "In Korean culture, skincare is seen as self-care, and the country's beauty industry keeps up a fast pace of launches and new formulations."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -42686,20 +42686,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Three factors drove the wave: K-dramas and K-pop, the pace of launches, and the internet.",
-          "The first is the cultural influence of K-dramas and K-pop. Both phenomena won huge global audiences and work as a living showcase of Korean beauty culture: when TV drama scenes show characters in their skincare routines at home, or when K-pop artists appear with flawless skin on stage after stage, the natural question is “how do they do it?” The answer almost always points to the products they use.",
-          "The second factor is the culture of Korean beauty brands itself. Unlike industries that settle into a stable catalog for years, Korean skincare brands keep up a pace of launches and ingredient innovation that draws international attention: every month brings new serums, new actives, new mask formats. Combined with prices that are generally more competitive than Western luxury brands with similar offerings, this created the perception that the newest skincare technology in the world is coming out of Korea.",
+          "The first is the cultural influence of K-dramas and K-pop. Both phenomena won huge global audiences and work as a living showcase of Korean beauty culture: when TV drama scenes show characters in their skincare routines at home, or when K-pop artists appear with flawless skin on stage after stage, the natural question is “how do they do it?”",
+          "The second factor is the culture of Korean beauty brands itself, known for its pace of launches and ingredient innovation: new serums, new actives and new mask formats appear often. Combined with prices that are often lower than those of luxury brands with similar offerings, this created the perception that much of what is new in skincare comes out of Korea.",
           "The third factor is purely internet: communities of skincare enthusiasts grew on platforms like TikTok, YouTube and Reddit, influencers began showing unboxings of Korean products with genuine enthusiasm, reviews multiplied, and the viral dynamic turned K-Beauty from a niche interest into a mainstream phenomenon.",
-          "In the end, the story is simple to grasp, which is why it spread so fast: there is a whole industry on the other side of the world obsessed with innovation in skincare, and today you can access it online."
+          "The [Korean Ministry of Culture](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) also describes several factors behind the growth, including international distribution by retailers. None of them explains the wave on its own."
         ],
         "bullets": []
       },
       {
-        "heading": "The problem with buying K-Beauty outside Korea",
+        "heading": "What buying K-Beauty outside Korea is like",
         "paragraphs": [
-          "If K-Beauty is so relevant, why isn't it as easy to find in a mall or pharmacy? The answer lies in distribution.",
-          "Most Korean skincare brands have no stores of their own in much of the world. An internationally known brand may officially sell only through Korean e-commerce or a few authorized distributors in specific markets. That creates a real problem for anyone who wants to build a complete routine: say, a cleanser, a toner, a serum and a cream, each from a different brand.",
-          "The alternative becomes multiple checkouts, repeated shipping fees, deliveries on different dates, currency conversion and import duties. Check the rules in force in your region before buying.",
-          "For many people, it is this hassle, not the price or the quality, that puts them off trying. Browsing several sites in different languages, paying international shipping over and over and having no single place to track the order is tiring.",
+          "If K-Beauty is so relevant, why isn't it always easy to find in a mall or pharmacy? Part of the answer lies in distribution, which changes from country to country.",
+          "Many Korean skincare brands have no stores of their own in much of the world, and availability varies by brand and country. An internationally known brand may officially sell only through Korean e-commerce or a few authorized distributors in specific markets. That creates a real problem for anyone who wants to build a complete routine: say, a cleanser, a toner, a serum and a cream, each from a different brand.",
+          "When each product comes from a different site, buying can turn into several checkouts and shipping fees, deliveries on different dates, currency conversion and import duties. Check the rules in force in your region before buying.",
           "On top of that, not every Korean brand sells directly outside Asia. Some sell only within Korea, which leads to relying on third-party resellers, not always trustworthy, or on international mail-forwarding services, which add extra cost and time."
         ],
         "bullets": []
@@ -42707,11 +42706,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Where YesStyle comes in",
         "paragraphs": [
-          "This is where platforms like YesStyle solve the problem.",
-          "YesStyle works as a centralized marketplace: instead of going from brand to brand, you buy many Korean brands, plus Japanese ones and others from across Asia, in a single cart, with one shipment and one delivery time. In its corporate information, the company states that it is an authorized distributor of more than 400 Korean beauty brands, including names like COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige and Isntree: a sample of the kind of brand available, not a closed list, since the catalog changes over time.",
+          "One option is to buy from a multi-brand store such as YesStyle.",
+          "YesStyle works as a centralized marketplace: instead of going from brand to brand, you buy many Korean brands, plus Japanese ones and others from across Asia, in a single cart. Shipping follows the store's rate table, and an order may ship in more than one package, arriving on different dates; the estimated delivery time combines item availability with the shipping method you choose, per the [YesStyle delivery policy](https://www.yesstyle.com/en/help/section.html/hsi.732). In its corporate information, the company states that it is an authorized distributor of more than 400 Korean beauty brands, including names like COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige and Isntree: a sample of the kind of brand available, not a closed list, since the catalog changes over time.",
           "The platform also goes beyond skincare: it has Asian fashion, makeup, accessories and other lifestyle categories, which means you can add other items to a serum purchase in the same transaction.",
-          "For a discount on your first purchase, there is the reward code CECILIA010, which gives a direct discount at checkout (larger on the first purchase, smaller on later ones) when applied in the right field of the cart. There is a specific step-by-step on how to apply the code, linked below. The store's coupons change; the current list is at [YesStyle coupons and reward code](/en/coupons/yesstyle).",
-          "This centralization is what let K-Beauty move from the interest of dedicated collectors to something accessible for anyone who just wants to test whether the hype is real."
+          "For a discount, the reward code CECILIA010 gives 5% off your first purchase and 2% off later ones, entered in the Reward Code field at checkout. There is a specific step-by-step on how to apply the code, linked below. The store's coupons change; the current list is at [YesStyle coupons and reward code](/en/coupons/yesstyle).",
+          "For anyone who just wants to test the hype, combining several brands in one order makes the first purchase simpler."
         ],
         "bullets": [],
         "links": [
@@ -42736,10 +42735,10 @@ export const reviewsData: unknown[] = [
         "heading": "Frequently asked questions about K-Beauty",
         "bullets": [
           "Is K-Beauty the same as J-Beauty (Japanese beauty)? No, although the two terms often appear together. K-Beauty and J-Beauty share a strong emphasis on skincare, but the philosophies tend to differ: J-Beauty is usually associated with a more functional minimalism and with sun protection as the foundation of everything, while K-Beauty is better known for multi-layer layering and constant ingredient innovation. In practice, you can combine the two: YesStyle itself carries well-known Japanese brands like Hada Labo and Rohto alongside the Korean ones.",
-          "Does YesStyle sell authentic products? In its corporate information, the company states that it is an authorized distributor, buying directly from manufacturers or official partners, and it is a subsidiary of a publicly listed company (YesAsia Holdings), which brings a level of corporate transparency above a standalone reseller. Even so, it is always worth checking the authenticity and warranty policy on the official site before buying. If you want to go deeper on this point, we have a full analysis of the store's trustworthiness linked below.",
-          "Does the CECILIA010 code work for K-Beauty products too? Yes, it is a general store reward code, not restricted to one category: it applies to Korean skincare as well as fashion and other items in the catalog. Even so, it is always good to check in the cart that the discount was applied correctly before placing the order.",
-          "Where do I start if I've never used K-Beauty? Brands with wide international availability, such as COSRX, Innisfree, Beauty of Joseon, Anua, Etude House and Some By Mi, tend to be good entry points. A common strategy for beginners is to try one product at a time (a gentle cleanser, a toner, an essence) instead of switching the whole routine at once, which helps you notice how your skin responds to each new addition.",
-          "Is every K-Beauty ingredient suitable for every skin type? Not necessarily: this is true of any skincare product, not just K-Beauty. Popular ingredients like niacinamide and centella asiatica are usually well tolerated by most people, but “most” is not “everyone.” If you have sensitive or reactive skin, it pays to read the ingredient list, avoid what you already know causes a reaction, test a new product on a small area before applying it to your whole face and, if in doubt, consult a dermatologist before starting a new routine."
+          "Does YesStyle sell authentic products? In its corporate information, the company states that it is an authorized distributor, buying directly from manufacturers or official partners, and it is a subsidiary of a publicly listed company (YesAsia Holdings). The stock-exchange listing of its parent company shows who is behind the store, but it does not authenticate each unit sold: check the authenticity and warranty policy on the official site before buying. If you want to go deeper on this point, we have a full analysis of the store's trustworthiness linked below.",
+          "Does the CECILIA010 code work for K-Beauty products too? Yes. It is a store reward code, with 5% off the first purchase and 2% off later ones on eligible items, and it is not limited to skincare. Check in the cart that the discount was applied before placing the order.",
+          "Where do I start if I've never used K-Beauty? Brands with wide international availability, such as COSRX, Innisfree, Beauty of Joseon, Anua, Etude House and Some By Mi, tend to be good entry points. A common strategy for beginners is to try one product at a time (a gentle cleanser, a toner, an essence) instead of switching the whole routine at once, which helps you notice how your skin responds to each new addition. A simple routine can be enough.",
+          "Is every K-Beauty ingredient suitable for every skin type? Not necessarily, and that is true of any skincare. How people react to popular ingredients like niacinamide and centella asiatica varies from person to person and from formula to formula. If you have sensitive or reactive skin, it pays to read the ingredient list, avoid what you already know causes a reaction, [test a new product on a small area](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products) before applying it to your whole face and, if in doubt, consult a dermatologist."
         ]
       }
     ],
@@ -42763,12 +42762,13 @@ export const reviewsData: unknown[] = [
         "slug": "how-to-find-valid-yesstyle-coupon-codes"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 267,
     "slug": "k-beauty-marcas-coreanas-tendencia-mundial",
-    "title": "K-Beauty: Por Qué Se Convirtió en Tendencia Mundial y Dónde Comprar las Marcas Coreanas",
+    "title": "K-Beauty: por qué se convirtió en tendencia mundial y dónde comprar las marcas coreanas",
     "seoTitle": "K-Beauty: marcas coreanas de skincare",
     "type": "Editorial",
     "reviewKind": "editorial",
@@ -42781,7 +42781,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Qué es el K-Beauty, por qué la belleza coreana se volvió una fiebre global del skincare y dónde encontrar marcas como COSRX, Beauty of Joseon y Anua reunidas en un solo lugar.",
-    "metaDescription": "Descubre qué es el K-Beauty, por qué se volvió tendencia mundial de skincare y dónde comprar marcas coreanas como COSRX, Anua y Beauty of Joseon con el código CECILIA010.",
+    "metaDescription": "K-Beauty en YesStyle con el código CECILIA010: 5% en la primera compra y 2% en las siguientes. Qué es, por qué es tendencia y dónde comprar COSRX y Anua.",
     "publishedAt": "25 de agosto de 2026",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -42798,15 +42798,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El K-Beauty es la rutina coreana de skincare en varias capas, conocida por su ritmo de lanzamientos. Fuera de Corea, lo difícil es comprar: las marcas venden en sitios separados, cada uno con su envío. YesStyle reúne muchas en un solo carrito; mira en «Dónde entra YesStyle» cómo funciona."
+          "K-Beauty es el nombre de los cosméticos y las tendencias de belleza de Corea, del skincare al maquillaje. La rutina en capas es una de sus prácticas más conocidas, pero no es obligatoria: una rutina simple puede bastar. Fuera de Corea, la oferta cambia según la marca y el país; YesStyle reúne varias marcas en un solo carrito."
         ]
       },
       {
         "heading": "Qué es el K-Beauty",
         "paragraphs": [
-          "El K-Beauty es la rutina coreana en capas, con un lanzamiento nuevo cada mes.",
-          "La raíz de esta filosofía está en la idea de que una rutina de cuidado de la piel no tiene por qué ser simple y directa. Mientras en muchos lugares predomina la lógica de «limpiar, tonificar e hidratar» en tres pasos, el enfoque coreano trabaja con el concepto de layering: aplicar varias capas de productos que se complementan, cada una con una función específica. Esta rutina puede incluir doble limpieza (un desmaquillante en aceite seguido de un limpiador en gel o espuma), tónico, esencia, sérum, ampolla y crema, con cada paso pensado para preparar la piel para el siguiente.",
-          "Esta filosofía nace de una idea cultural: el cuidado de la piel se trata como autocuidado esencial, no como vanidad. Por eso la industria de la belleza coreana es uno de los motores más dinámicos del sector en el mundo, con una cantidad de lanzamientos y fórmulas nuevas que impresiona a quien está acostumbrado al ritmo más lento de otras regiones."
+          "K-Beauty es el término para los cosméticos y las tendencias de belleza coreanos, que van del skincare al maquillaje y el styling, como describe la [ciudad de Incheon](https://www.incheon.go.kr/en/EN010701/2042492).",
+          "Una de las prácticas más conocidas es el layering: aplicar varias capas de productos que se complementan, cada una con una función específica. La rutina puede incluir doble limpieza (un desmaquillante en aceite seguido de un limpiador en gel o espuma), tónico, esencia, sérum, ampolla y crema. Es una opción, no una regla: más capas no garantizan mejores resultados, y una rutina simple puede bastar. La [Academia Estadounidense de Dermatología](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) recomienda mantener la rutina simple, introducir un producto nuevo a la vez y usar protector solar.",
+          "En la cultura coreana, el cuidado de la piel se ve como autocuidado, y la industria de la belleza del país mantiene un ritmo alto de lanzamientos y de fórmulas nuevas."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -42830,20 +42830,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Tres factores impulsaron la ola: los k-dramas y el k-pop, el ritmo de lanzamientos e internet.",
-          "El primero es la influencia cultural de los k-dramas y el k-pop. Ambos fenómenos conquistaron enormes audiencias globales y funcionan como una vitrina viva de la cultura de belleza coreana: cuando las escenas de las series muestran a los personajes en sus rutinas de skincare en casa, o cuando los artistas de k-pop aparecen con la piel impecable en escenario tras escenario, la pregunta natural es «¿cómo lo hacen?». La respuesta casi siempre apunta a los productos que usan.",
-          "El segundo factor es la propia cultura de las marcas coreanas de belleza. A diferencia de las industrias que se acomodan en un catálogo estable durante años, las marcas coreanas de skincare mantienen un ritmo de lanzamientos y de innovación en ingredientes que llama la atención a nivel internacional: cada mes aparecen nuevos séruns, nuevos activos, nuevos formatos de mascarilla. Combinado con precios generalmente más competitivos que los de las marcas de lujo occidentales con propuestas parecidas, eso creó la percepción de que la tecnología de skincare más nueva del mundo está saliendo de Corea.",
+          "El primero es la influencia cultural de los k-dramas y el k-pop. Ambos fenómenos conquistaron enormes audiencias globales y funcionan como una vitrina viva de la cultura de belleza coreana: cuando las escenas de las series muestran a los personajes en sus rutinas de skincare en casa, o cuando los artistas de k-pop aparecen con la piel impecable en escenario tras escenario, la pregunta natural es «¿cómo lo hacen?».",
+          "El segundo factor es la propia cultura de las marcas coreanas de belleza, conocidas por su ritmo de lanzamientos y de innovación en ingredientes: con frecuencia aparecen nuevos séruns, activos y formatos de mascarilla. Combinado con precios a menudo más bajos que los de marcas de lujo con propuestas parecidas, eso creó la percepción de que buena parte de las novedades del skincare sale de Corea.",
           "El tercer factor es puramente de internet: las comunidades de entusiastas del skincare crecieron en plataformas como TikTok, YouTube y Reddit, los influencers empezaron a mostrar unboxings de productos coreanos con entusiasmo genuino, las reseñas se multiplicaron y la dinámica viral convirtió el K-Beauty de un interés de nicho en un fenómeno masivo.",
-          "Al final, la narrativa es fácil de entender y por eso se difundió tan rápido: existe una industria entera, al otro lado del mundo, obsesionada con la innovación en el cuidado de la piel, y hoy es posible acceder a ella online."
+          "El [Ministerio de Cultura de Corea](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) también describe varios factores detrás del crecimiento, entre ellos la distribución internacional a través de minoristas. Ninguno explica la ola por sí solo."
         ],
         "bullets": []
       },
       {
-        "heading": "El problema de comprar K-Beauty fuera de Corea",
+        "heading": "Cómo es comprar K-Beauty fuera de Corea",
         "paragraphs": [
-          "Si el K-Beauty es tan relevante, ¿por qué no es tan fácil encontrarlo en un centro comercial o una farmacia? La respuesta está en la distribución.",
-          "La mayoría de las marcas coreanas de skincare no tiene tiendas propias en buena parte del mundo. Una marca conocida internacionalmente puede vender oficialmente solo a través del e-commerce coreano o de unos pocos distribuidores autorizados en mercados específicos. Eso crea un problema real para quien quiere armar una rutina completa: digamos, un limpiador, un tónico, un sérum y una crema, cada uno de una marca distinta.",
-          "La alternativa son varios checkouts, envíos repetidos, entregas en fechas distintas, tipo de cambio e impuestos de importación. Consulta la norma vigente en tu región antes de comprar.",
-          "Para mucha gente, es ese trabajo, no el precio ni la calidad, lo que la aleja de la idea de probar. Navegar por varios sitios en idiomas distintos, pagar envío internacional una y otra vez y no tener un único lugar para seguir el pedido es agotador.",
+          "Si el K-Beauty es tan relevante, ¿por qué no siempre es fácil encontrarlo en un centro comercial o una farmacia? Parte de la respuesta está en la distribución, que cambia de un país a otro.",
+          "Muchas marcas coreanas de skincare no tienen tiendas propias en buena parte del mundo, y la oferta cambia según la marca y el país. Una marca conocida internacionalmente puede vender oficialmente solo a través del e-commerce coreano o de unos pocos distribuidores autorizados en mercados específicos. Eso crea un problema real para quien quiere armar una rutina completa: digamos, un limpiador, un tónico, un sérum y una crema, cada uno de una marca distinta.",
+          "Cuando cada producto viene de un sitio distinto, la compra puede convertirse en varios checkouts y envíos, entregas en fechas distintas, tipo de cambio e impuestos de importación. Consulta la norma vigente en tu región antes de comprar.",
           "Además, no toda marca coreana vende directamente fuera de Asia. Algunas venden solo dentro de Corea, lo que lleva a recurrir a revendedores terceros, no siempre confiables, o a servicios de reenvío postal internacional, que suman costo y tiempo extra."
         ],
         "bullets": []
@@ -42851,11 +42850,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dónde entra YesStyle",
         "paragraphs": [
-          "Aquí es donde plataformas como YesStyle resuelven el problema.",
-          "YesStyle funciona como un marketplace centralizado: en vez de ir de marca en marca, compras varias marcas coreanas, y también japonesas y de otras partes de Asia, en un solo carrito, con un envío y un plazo de entrega únicos. La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, entre ellas nombres como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: una muestra del tipo de marca disponible, no una lista cerrada, ya que el catálogo cambia con el tiempo.",
+          "Una de las opciones es comprar en una tienda multimarca, como YesStyle.",
+          "YesStyle funciona como un marketplace centralizado: en vez de ir de marca en marca, compras varias marcas coreanas, y también japonesas y de otras partes de Asia, en un solo carrito. El envío se cobra según la tabla de tarifas de la tienda, y el pedido puede salir en más de un paquete, con llegadas en fechas distintas; el plazo estimado suma la disponibilidad de los artículos y el envío elegido, según la [política de entrega de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, entre ellas nombres como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: una muestra del tipo de marca disponible, no una lista cerrada, ya que el catálogo cambia con el tiempo.",
           "La plataforma también va más allá del skincare: tiene moda asiática, maquillaje, accesorios y otras categorías de lifestyle, lo que significa que puedes complementar la compra de un sérum con otros artículos en la misma transacción.",
-          "Para quien quiere aprovechar un descuento en la primera compra, existe el código de recompensa CECILIA010, que da un descuento directo en el checkout (mayor en la primera compra, menor en las siguientes) cuando se aplica en el campo correcto del carrito. Hay un paso a paso específico sobre cómo aplicar el código enlazado abajo. Los cupones de la tienda cambian; la lista del momento está en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
-          "Esa centralización fue lo que permitió que el K-Beauty pasara de ser el interés de coleccionistas dedicados a algo accesible para quien solo quiere probar si la fama es real."
+          "Para comprar con descuento, el código de recompensa CECILIA010 da 5% en la primera compra y 2% en las siguientes, en el campo de código de recompensa (Reward Code) del checkout. Hay un paso a paso específico sobre cómo aplicar el código enlazado abajo. Los cupones de la tienda cambian; la lista del momento está en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
+          "Para quien solo quiere probar si la fama es real, juntar varias marcas en un pedido simplifica la primera compra."
         ],
         "bullets": [],
         "links": [
@@ -42880,10 +42879,10 @@ export const reviewsData: unknown[] = [
         "heading": "Preguntas frecuentes sobre K-Beauty",
         "bullets": [
           "¿El K-Beauty es lo mismo que el J-Beauty (belleza japonesa)? No, aunque los dos términos aparecen juntos con frecuencia. K-Beauty y J-Beauty comparten un fuerte énfasis en el cuidado de la piel, pero las filosofías tienden a ser distintas: el J-Beauty suele asociarse a un minimalismo más funcional y a la protección solar como base de todo, mientras que el K-Beauty es más conocido por el layering en varias capas y la innovación constante de ingredientes. En la práctica, se pueden combinar: la propia YesStyle reúne marcas japonesas conocidas como Hada Labo y Rohto junto a las coreanas.",
-          "¿YesStyle vende productos originales? La empresa declara en su información corporativa ser distribuidora autorizada, que compra directamente a los fabricantes o a socios oficiales, y es subsidiaria de una empresa que cotiza en bolsa (YesAsia Holdings), lo que aporta un nivel de transparencia corporativa superior al de un revendedor independiente. Aun así, conviene siempre revisar la política de autenticidad y garantía en el sitio oficial antes de comprar. Si quieres profundizar en este punto, tenemos un análisis completo sobre la confiabilidad de la tienda enlazado abajo.",
-          "¿El código CECILIA010 sirve también para productos de K-Beauty? Sí, es un código de recompensa general de la tienda, no restringido a una categoría específica: vale tanto para skincare coreano como para moda y otros artículos del catálogo. Aun así, siempre es buena idea comprobar en el carrito que el descuento se aplicó correctamente antes de cerrar el pedido.",
-          "¿Por dónde empiezo si nunca usé K-Beauty? Las marcas con gran disponibilidad internacional, como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House y Some By Mi, suelen ser buenos puntos de entrada. Una estrategia común para quien empieza es probar un producto a la vez (un limpiador suave, un tónico, una esencia) en lugar de cambiar toda la rutina de golpe, lo que ayuda a notar cómo responde la piel a cada novedad.",
-          "¿Todo ingrediente K-Beauty sirve para cualquier tipo de piel? No necesariamente: eso vale para cualquier producto de skincare, no solo para el K-Beauty. Ingredientes populares como la niacinamida y la centella asiática suelen ser bien tolerados por la mayoría de las personas, pero «la mayoría» no es «todo el mundo». Quien tiene la piel sensible o reactiva hace bien en leer la lista de ingredientes, evitar lo que ya sabe que le causa reacción, probar un producto nuevo en una zona pequeña antes de aplicarlo en todo el rostro y, si tiene dudas, consultar a un dermatólogo antes de empezar una rutina nueva."
+          "¿YesStyle vende productos originales? La empresa declara en su información corporativa ser distribuidora autorizada, que compra directamente a los fabricantes o a socios oficiales, y es subsidiaria de una empresa que cotiza en bolsa (YesAsia Holdings). La cotización en bolsa de la empresa matriz muestra quién está detrás de la tienda, pero no autentica cada unidad vendida: revisa la política de autenticidad y garantía en el sitio oficial antes de comprar. Si quieres profundizar en este punto, tenemos un análisis completo sobre la confiabilidad de la tienda enlazado abajo.",
+          "¿El código CECILIA010 sirve también para productos de K-Beauty? Sí. Es un código de recompensa de la tienda, con 5% en la primera compra y 2% en las siguientes en los artículos elegibles, y no se limita al skincare. Comprueba en el carrito que el descuento se aplicó antes de cerrar el pedido.",
+          "¿Por dónde empiezo si nunca usé K-Beauty? Las marcas con gran disponibilidad internacional, como COSRX, Innisfree, Beauty of Joseon, Anua, Etude House y Some By Mi, suelen ser buenos puntos de entrada. Una estrategia común para quien empieza es probar un producto a la vez (un limpiador suave, un tónico, una esencia) en lugar de cambiar toda la rutina de golpe, lo que ayuda a notar cómo responde la piel a cada novedad. Una rutina simple puede bastar.",
+          "¿Todo ingrediente K-Beauty sirve para cualquier tipo de piel? No necesariamente, y eso vale para cualquier skincare. La reacción a ingredientes populares como la niacinamida y la centella asiática varía de una persona a otra y de una fórmula a otra. Quien tiene la piel sensible o reactiva hace bien en leer la lista de ingredientes, evitar lo que ya sabe que le causa reacción, [probar un producto nuevo en una zona pequeña](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products) antes de aplicarlo en todo el rostro y, si tiene dudas, consultar a un dermatólogo."
         ]
       }
     ],
@@ -42907,12 +42906,13 @@ export const reviewsData: unknown[] = [
         "slug": "como-encontrar-cupones-yesstyle-validos"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 268,
     "slug": "k-beauty-tendance-beaute-coreenne",
-    "title": "K-Beauty : Pourquoi Cette Tendance Beauté Coréenne Conquiert le Monde et Où L'Acheter",
+    "title": "K-Beauty : pourquoi cette tendance beauté coréenne conquiert le monde et où l'acheter",
     "seoTitle": "K-Beauty : Tendance Beauté Coréenne et Où l'Acheter",
     "type": "Éditorial",
     "reviewKind": "editorial",
@@ -42924,8 +42924,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Qu'est-ce que la K-Beauty, pourquoi cette routine coréenne séduit le monde et comment réunir COSRX, Beauty of Joseon et Anua dans un seul panier sur YesStyle.",
-    "metaDescription": "Découvrez ce qu’est la K-Beauty, pourquoi elle est devenue une tendance mondiale du skincare et où acheter des marques coréennes comme COSRX, Anua et Beauty of Joseon avec le code CECILIA010.",
+    "description": "Qu'est-ce que la K-Beauty, pourquoi la beauté coréenne séduit le monde et comment réunir COSRX, Beauty of Joseon et Anua dans un seul panier sur YesStyle.",
+    "metaDescription": "K-Beauty sur YesStyle avec le code CECILIA010 : 5 % à la première commande et 2 % aux suivantes. Ce que c’est, pourquoi c’est tendance, où acheter COSRX.",
     "publishedAt": "25 août 2026",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -42942,15 +42942,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La K-Beauty, c’est la routine coréenne de skincare en plusieurs couches, connue pour son rythme de lancements. Hors de Corée, le plus dur est d’acheter : les marques vendent sur des sites séparés, avec des frais de port répétés. YesStyle en réunit beaucoup dans un seul panier ; voyez « Où YesStyle intervient » pour savoir comment ça marche."
+          "La K-Beauty désigne les cosmétiques et les tendances beauté de la Corée, du skincare au maquillage. La routine en couches est l’une de ses pratiques les plus connues, mais elle n’est pas obligatoire : une routine simple peut suffire. Hors de Corée, l’offre varie selon la marque et le pays ; YesStyle réunit plusieurs marques dans un seul panier."
         ]
       },
       {
         "heading": "Ce qu’est la K-Beauty",
         "paragraphs": [
-          "La K-Beauty, c’est la routine coréenne en couches, avec un nouveau lancement chaque mois.",
-          "La racine de cette philosophie est l’idée qu’une routine de soins de la peau n’a pas à être simple et directe. Alors que, dans beaucoup d’endroits, la logique « nettoyer, tonifier et hydrater » en trois étapes domine, l’approche coréenne travaille avec le concept de layering : appliquer plusieurs couches de produits qui se complètent, chacune avec une fonction précise. Cette routine peut inclure un double nettoyage (un démaquillant en huile suivi d’un nettoyant gel ou mousse), une lotion tonique, une essence, un sérum, une ampoule et une crème, chaque étape étant pensée pour préparer la peau à la suivante.",
-          "Cette philosophie vient d’une idée culturelle : le soin de la peau est traité comme un autosoin essentiel, pas comme de la vanité. C’est pourquoi l’industrie coréenne de la beauté est l’un des secteurs les plus dynamiques au monde, avec un nombre de lancements et de nouvelles formules qui impressionne ceux qui sont habitués au rythme plus lent d’autres régions."
+          "La K-Beauty est le terme qui désigne les cosmétiques et les tendances beauté coréens, du skincare au maquillage et au styling, comme le décrit la [ville d’Incheon](https://www.incheon.go.kr/en/EN010701/2042492).",
+          "Une des pratiques les plus connues est le layering : appliquer plusieurs couches de produits qui se complètent, chacune avec une fonction précise. La routine peut inclure un double nettoyage (un démaquillant en huile suivi d’un nettoyant gel ou mousse), une lotion tonique, une essence, un sérum, une ampoule et une crème. C’est une option, pas une règle : plus de couches ne garantissent pas de meilleurs résultats, et une routine simple peut suffire. L’[Académie américaine de dermatologie](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) recommande de garder une routine simple, d’introduire un nouveau produit à la fois et d’utiliser une protection solaire.",
+          "Dans la culture coréenne, le soin de la peau est vu comme un autosoin, et l’industrie de la beauté du pays maintient un rythme élevé de lancements et de nouvelles formules."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -42974,20 +42974,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Trois facteurs ont porté la vague : les k-dramas et la k-pop, le rythme des lancements et internet.",
-          "Le premier est l’influence culturelle des k-dramas et de la k-pop. Ces deux phénomènes ont conquis d’immenses publics mondiaux et servent de vitrine vivante de la culture beauté coréenne : quand des scènes de séries montrent des personnages dans leur routine skincare à la maison, ou quand des artistes de k-pop apparaissent avec une peau impeccable de scène en scène, la question qui vient naturellement est « comment font-ils ? ». La réponse renvoie presque toujours aux produits qu’ils utilisent.",
-          "Le deuxième facteur est la culture même des marques coréennes de beauté. À la différence des industries qui s’installent pendant des années dans un catalogue stable, les marques coréennes de skincare maintiennent un rythme de lancements et d’innovation sur les ingrédients qui attire l’attention à l’international : chaque mois apparaissent de nouveaux sérums, de nouveaux actifs, de nouveaux formats de masques. Associé à des prix généralement plus compétitifs que ceux des marques de luxe occidentales aux propositions proches, cela a créé l’impression que la technologie de skincare la plus récente du monde sort de Corée.",
+          "Le premier est l’influence culturelle des k-dramas et de la k-pop. Ces deux phénomènes ont conquis d’immenses publics mondiaux et servent de vitrine vivante de la culture beauté coréenne : quand des scènes de séries montrent des personnages dans leur routine skincare à la maison, ou quand des artistes de k-pop apparaissent avec une peau impeccable de scène en scène, la question qui vient naturellement est « comment font-ils ? ».",
+          "Le deuxième facteur est la culture même des marques coréennes de beauté, connues pour leur rythme de lancements et leur innovation sur les ingrédients : de nouveaux sérums, de nouveaux actifs et de nouveaux formats de masques apparaissent souvent. Associé à des prix souvent plus bas que ceux des marques de luxe aux propositions proches, cela a créé l’impression qu’une bonne part des nouveautés du skincare vient de Corée.",
           "Le troisième facteur relève purement d’internet : des communautés de passionnés de skincare ont grandi sur des plateformes comme TikTok, YouTube et Reddit, des influenceurs se sont mis à montrer des unboxings de produits coréens avec un enthousiasme sincère, les avis se sont multipliés, et la dynamique virale a fait de la K-Beauty, d’un intérêt de niche, un phénomène grand public.",
-          "Au fond, le récit est simple à comprendre, et c’est pour cela qu’il s’est répandu si vite : il existe une industrie entière, de l’autre côté du monde, obsédée par l’innovation en matière de soins de la peau, et on peut aujourd’hui y accéder en ligne."
+          "Le [ministère de la Culture de Corée](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) décrit aussi plusieurs facteurs derrière cette croissance, dont la distribution internationale par des détaillants. Aucun n’explique la vague à lui seul."
         ],
         "bullets": []
       },
       {
-        "heading": "Le problème d’acheter de la K-Beauty hors de Corée",
+        "heading": "Comment se passe l’achat de K-Beauty hors de Corée",
         "paragraphs": [
-          "Si la K-Beauty est si importante, pourquoi n’est-elle pas aussi simple à trouver dans un centre commercial ou une pharmacie ? La réponse tient à la distribution.",
-          "La plupart des marques coréennes de skincare n’ont pas de boutiques propres dans une bonne partie du monde. Une marque connue à l’international peut ne vendre officiellement que par l’e-commerce coréen ou par quelques distributeurs agréés sur des marchés précis. Cela pose un vrai problème à qui veut composer une routine complète : disons un nettoyant, une lotion tonique, un sérum et une crème, chacun d’une marque différente.",
-          "L’alternative devient plusieurs commandes, des frais de port répétés, des livraisons à des dates différentes, le change et les taxes d’importation. Vérifiez la règle en vigueur dans votre région avant d’acheter.",
-          "Pour beaucoup de gens, c’est ce tracas, et non le prix ni la qualité, qui décourage d’essayer. Naviguer sur plusieurs sites dans des langues différentes, payer plusieurs fois l’expédition internationale et ne pas avoir un seul endroit pour suivre la commande, c’est fatigant.",
+          "Si la K-Beauty est si importante, pourquoi n’est-elle pas toujours simple à trouver dans un centre commercial ou une pharmacie ? Une partie de la réponse tient à la distribution, qui change d’un pays à l’autre.",
+          "Beaucoup de marques coréennes de skincare n’ont pas de boutiques propres dans une bonne partie du monde, et l’offre varie selon la marque et le pays. Une marque connue à l’international peut ne vendre officiellement que par l’e-commerce coréen ou par quelques distributeurs agréés sur des marchés précis. Cela pose un vrai problème à qui veut composer une routine complète : disons un nettoyant, une lotion tonique, un sérum et une crème, chacun d’une marque différente.",
+          "Quand chaque produit vient d’un site différent, l’achat peut devenir plusieurs commandes et frais de port, des livraisons à des dates différentes, le change et les taxes d’importation. Vérifiez la règle en vigueur dans votre région avant d’acheter.",
           "De plus, toutes les marques coréennes ne vendent pas directement hors d’Asie. Certaines ne vendent qu’en Corée, ce qui pousse à recourir à des revendeurs tiers, pas toujours fiables, ou à des services de réexpédition postale internationale, qui ajoutent du coût et des délais."
         ],
         "bullets": []
@@ -42995,11 +42994,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Où YesStyle intervient",
         "paragraphs": [
-          "C’est là que des plateformes comme YesStyle règlent le problème.",
-          "YesStyle fonctionne comme une place de marché centralisée : au lieu d’aller de marque en marque, vous achetez plusieurs marques coréennes, mais aussi japonaises et d’autres régions d’Asie, dans un seul panier, avec une seule expédition et un seul délai de livraison. L’entreprise déclare dans ses informations corporatives être distributeur agréé de plus de 400 marques de beauté coréenne, parmi lesquelles COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige et Isntree : un échantillon du type de marques disponibles, pas une liste fermée, puisque le catalogue évolue avec le temps.",
+          "Une des options consiste à acheter sur une boutique multimarque, comme YesStyle.",
+          "YesStyle fonctionne comme une place de marché centralisée : au lieu d’aller de marque en marque, vous achetez plusieurs marques coréennes, mais aussi japonaises et d’autres régions d’Asie, dans un seul panier. Les frais de port suivent la grille tarifaire de la boutique, et la commande peut partir en plusieurs envois, avec des arrivées à des dates différentes ; le délai estimé combine la disponibilité des articles et le mode d’envoi choisi, selon la [politique de livraison de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). L’entreprise déclare dans ses informations corporatives être distributeur agréé de plus de 400 marques de beauté coréenne, parmi lesquelles COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige et Isntree : un échantillon du type de marques disponibles, pas une liste fermée, puisque le catalogue évolue avec le temps.",
           "La plateforme va aussi au-delà du skincare : elle propose de la mode asiatique, du maquillage, des accessoires et d’autres catégories lifestyle, ce qui permet de compléter l’achat d’un sérum avec d’autres articles dans la même transaction.",
-          "Pour profiter d’une réduction sur la première commande, il existe le code de récompense CECILIA010, qui donne une réduction directe au paiement (plus importante à la première commande, moindre aux suivantes) lorsqu’il est saisi dans le bon champ du panier. Un pas-à-pas précis explique comment appliquer le code, lié ci-dessous. Les coupons de la boutique changent ; la liste du moment se trouve dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
-          "C’est cette centralisation qui a permis à la K-Beauty de sortir du cercle de collectionneurs passionnés pour devenir accessible à qui veut simplement vérifier si la réputation est méritée."
+          "Pour acheter avec une réduction, le code de récompense CECILIA010 donne 5 % à la première commande et 2 % aux suivantes, dans le champ du code de récompense (Reward Code) au paiement. Un pas-à-pas précis explique comment appliquer le code, lié ci-dessous. Les coupons de la boutique changent ; la liste du moment se trouve dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
+          "Pour qui veut simplement vérifier si la réputation est méritée, réunir plusieurs marques dans une seule commande simplifie le premier achat."
         ],
         "bullets": [],
         "links": [
@@ -43024,10 +43023,10 @@ export const reviewsData: unknown[] = [
         "heading": "Questions fréquentes sur la K-Beauty",
         "bullets": [
           "La K-Beauty est-elle la même chose que la J-Beauty (beauté japonaise) ? Non, même si les deux termes apparaissent souvent ensemble. K-Beauty et J-Beauty partagent un fort accent sur les soins de la peau, mais leurs philosophies tendent à différer : la J-Beauty est généralement associée à un minimalisme plus fonctionnel et à la protection solaire comme base de tout, tandis que la K-Beauty est mieux connue pour le layering en plusieurs couches et l’innovation constante sur les ingrédients. En pratique, on peut combiner les deux : YesStyle réunit elle-même des marques japonaises connues comme Hada Labo et Rohto aux côtés des marques coréennes.",
-          "YesStyle vend-elle des produits authentiques ? L’entreprise déclare dans ses informations corporatives être distributeur agréé, achetant directement auprès des fabricants ou de partenaires officiels, et elle est filiale d’une société cotée en bourse (YesAsia Holdings), ce qui apporte un niveau de transparence d’entreprise supérieur à celui d’un revendeur isolé. Il reste toujours utile de vérifier la politique d’authenticité et de garantie directement sur le site officiel avant d’acheter. Si vous voulez approfondir ce point, nous avons une analyse complète de la fiabilité de la boutique, liée ci-dessous.",
-          "Le code CECILIA010 fonctionne-t-il aussi pour les produits de K-Beauty ? Oui, c’est un code de récompense général de la boutique, non limité à une catégorie précise : il vaut aussi bien pour le skincare coréen que pour la mode et les autres articles du catalogue. Il reste toujours bon de vérifier dans le panier que la réduction a bien été appliquée avant de valider la commande.",
-          "Par où commencer si je n’ai jamais utilisé de K-Beauty ? Les marques très disponibles à l’international, comme COSRX, Innisfree, Beauty of Joseon, Anua, Etude House et Some By Mi, sont en général de bons points d’entrée. Une stratégie courante pour débuter est d’essayer un produit à la fois (un nettoyant doux, une lotion tonique, une essence) plutôt que de changer toute la routine d’un coup, ce qui aide à voir comment la peau réagit à chaque nouveauté.",
-          "Tout ingrédient K-Beauty convient-il à tous les types de peau ? Pas nécessairement : c’est vrai pour tout produit de skincare, pas seulement la K-Beauty. Des ingrédients populaires comme la niacinamide et la centella asiatica sont en général bien tolérés par la plupart des gens, mais « la plupart » ne veut pas dire « tout le monde ». Quiconque a la peau sensible ou réactive fait bien de lire la liste des ingrédients, d’éviter ce qu’il sait déjà provoquer une réaction, de tester un nouveau produit sur une petite zone avant de l’appliquer sur tout le visage et, en cas de doute, de consulter un dermatologue avant de commencer une nouvelle routine."
+          "YesStyle vend-elle des produits authentiques ? L’entreprise déclare dans ses informations corporatives être distributeur agréé, achetant directement auprès des fabricants ou de partenaires officiels, et elle est filiale d’une société cotée en bourse (YesAsia Holdings). La cotation en bourse de la maison mère montre qui est derrière la boutique, mais elle n’authentifie pas chaque unité vendue : vérifiez la politique d’authenticité et de garantie directement sur le site officiel avant d’acheter. Si vous voulez approfondir ce point, nous avons une analyse complète de la fiabilité de la boutique, liée ci-dessous.",
+          "Le code CECILIA010 fonctionne-t-il aussi pour les produits de K-Beauty ? Oui. C’est un code de récompense de la boutique, avec 5 % à la première commande et 2 % aux suivantes sur les articles éligibles, et il ne se limite pas au skincare. Vérifiez dans le panier que la réduction a bien été appliquée avant de valider la commande.",
+          "Par où commencer si je n’ai jamais utilisé de K-Beauty ? Les marques très disponibles à l’international, comme COSRX, Innisfree, Beauty of Joseon, Anua, Etude House et Some By Mi, sont en général de bons points d’entrée. Une stratégie courante pour débuter est d’essayer un produit à la fois (un nettoyant doux, une lotion tonique, une essence) plutôt que de changer toute la routine d’un coup, ce qui aide à voir comment la peau réagit à chaque nouveauté. Une routine simple peut suffire.",
+          "Tout ingrédient K-Beauty convient-il à tous les types de peau ? Pas nécessairement, et c’est vrai pour tout skincare. La réaction à des ingrédients populaires comme la niacinamide et la centella asiatica varie d’une personne à l’autre et d’une formule à l’autre. Quiconque a la peau sensible ou réactive fait bien de lire la liste des ingrédients, d’éviter ce qu’il sait déjà provoquer une réaction, de [tester un nouveau produit sur une petite zone](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products) avant de l’appliquer sur tout le visage et, en cas de doute, de consulter un dermatologue."
         ]
       }
     ],
@@ -43051,12 +43050,13 @@ export const reviewsData: unknown[] = [
         "slug": "comment-trouver-des-codes-promo-yesstyle-valides"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 269,
     "slug": "k-beauty-trend-koreanische-marken-kaufen",
-    "title": "K-Beauty: Das Koreanische Beauty-Geheimnis – Und Wo Sie Authentische Produkte Kaufen",
+    "title": "K-Beauty: Was dahintersteckt, warum sie zum Trend wurde und wo Sie koreanische Marken kaufen",
     "seoTitle": "K-Beauty kaufen: Marken, Trend & YesStyle",
     "type": "Redaktionell",
     "reviewKind": "editorial",
@@ -43069,7 +43069,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Was K-Beauty ist, warum koreanische Beauty zum weltweiten Skincare-Hype wurde und wo man Marken wie COSRX, Beauty of Joseon und Anua an einem Ort findet.",
-    "metaDescription": "Erfahren Sie, was K-Beauty ist, warum es zum weltweiten Skincare-Trend wurde und wo Sie koreanische Marken wie COSRX, Anua und Beauty of Joseon mit dem Code CECILIA010 kaufen können.",
+    "metaDescription": "K-Beauty bei YesStyle mit dem Reward Code CECILIA010: 5 % beim ersten Kauf, 2 % bei den folgenden. Was es ist, warum es Trend wurde, wo man COSRX kauft.",
     "publishedAt": "25. August 2026",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -43086,15 +43086,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "K-Beauty ist die koreanische Skincare-Routine in mehreren Schichten, bekannt für das Tempo der Neuheiten. Außerhalb Koreas ist das Schwierige der Kauf: Die Marken verkaufen auf getrennten Seiten, mit jeweils eigenem Versand. YesStyle bündelt viele davon in einem Warenkorb; wie das funktioniert, steht unter „Wo YesStyle ins Spiel kommt“."
+          "K-Beauty steht für Kosmetik und Beauty-Trends aus Korea, von Skincare bis Make-up. Das Schichten (Layering) ist eine bekannte Praxis, aber keine Pflicht: Eine einfache Routine kann genügen. Außerhalb Koreas unterscheidet sich das Angebot je nach Marke und Land; YesStyle bündelt viele Marken in einem Warenkorb."
         ]
       },
       {
         "heading": "Was K-Beauty ist",
         "paragraphs": [
-          "K-Beauty ist die koreanische Routine in Schichten, mit einer Neuheit jeden Monat.",
-          "Der Kern dieser Philosophie ist die Idee, dass eine Hautpflegeroutine nicht einfach und geradlinig sein muss. Während vielerorts die Logik „reinigen, tonisieren, eincremen“ in drei Schritten vorherrscht, arbeitet der koreanische Ansatz mit dem Konzept des Layering: mehrere Produktschichten auftragen, die sich ergänzen und jeweils eine bestimmte Aufgabe haben. Diese Routine kann eine Doppelreinigung (ein Ölreiniger, gefolgt von einem Gel- oder Schaumreiniger), Toner, Essenz, Serum, Ampulle und Creme umfassen, wobei jeder Schritt die Haut auf den nächsten vorbereiten soll.",
-          "Diese Philosophie geht auf eine kulturelle Idee zurück: Hautpflege gilt als wesentliche Selbstfürsorge, nicht als Eitelkeit. Deshalb ist die koreanische Beauty-Industrie einer der dynamischsten Motoren der Branche weltweit, mit einer Zahl an Neuheiten und neuen Formulierungen, die beeindruckt, wenn man das langsamere Tempo anderer Regionen gewohnt ist."
+          "K-Beauty ist der Begriff für koreanische Kosmetik und Beauty-Trends, von Skincare über Make-up bis zum Styling, wie die [Stadt Incheon](https://www.incheon.go.kr/en/EN010701/2042492) es beschreibt.",
+          "Eine der bekanntesten Praktiken ist das Layering: mehrere Produktschichten auftragen, die sich ergänzen und jeweils eine bestimmte Aufgabe haben. Die Routine kann eine Doppelreinigung (ein Ölreiniger, gefolgt von einem Gel- oder Schaumreiniger), Toner, Essenz, Serum, Ampulle und Creme umfassen. Das ist eine Option, keine Regel: Mehr Schichten garantieren kein besseres Ergebnis, und eine einfache Routine kann genügen. Die [American Academy of Dermatology](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) empfiehlt, die Routine einfach zu halten, jeweils nur ein neues Produkt auf einmal einzuführen und Sonnenschutz zu verwenden.",
+          "In der koreanischen Kultur gilt Hautpflege als Selbstfürsorge, und die Beauty-Industrie des Landes hält ein hohes Tempo bei Neuheiten und neuen Formulierungen."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -43118,20 +43118,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Drei Faktoren haben die Welle getragen: K-Dramas und K-Pop, das Tempo der Neuheiten und das Internet.",
-          "Der erste ist der kulturelle Einfluss von K-Dramas und K-Pop. Beide Phänomene haben riesige globale Publika erobert und sind ein lebendiges Schaufenster der koreanischen Beauty-Kultur: Wenn Serienszenen Figuren bei ihrer Skincare-Routine zu Hause zeigen oder K-Pop-Stars Bühne um Bühne mit makelloser Haut auftreten, lautet die naheliegende Frage „Wie machen die das?“. Die Antwort führt fast immer zu den Produkten, die sie benutzen.",
-          "Der zweite Faktor ist die Kultur der koreanischen Beauty-Marken selbst. Anders als Branchen, die sich jahrelang in einem stabilen Sortiment einrichten, halten koreanische Skincare-Marken ein Tempo bei Neuheiten und Wirkstoffinnovationen, das international auffällt: Jeden Monat erscheinen neue Seren, neue Wirkstoffe, neue Maskenformate. Zusammen mit meist günstigeren Preisen als bei westlichen Luxusmarken mit ähnlichem Angebot entstand so der Eindruck, dass die neueste Skincare-Technologie der Welt aus Korea kommt.",
+          "Der erste ist der kulturelle Einfluss von K-Dramas und K-Pop. Beide Phänomene haben riesige globale Publika erobert und sind ein lebendiges Schaufenster der koreanischen Beauty-Kultur: Wenn Serienszenen Figuren bei ihrer Skincare-Routine zu Hause zeigen oder K-Pop-Stars Bühne um Bühne mit makelloser Haut auftreten, lautet die naheliegende Frage „Wie machen die das?“.",
+          "Der zweite Faktor ist die Kultur der koreanischen Beauty-Marken selbst, bekannt für ihr Tempo bei Neuheiten und Wirkstoffinnovationen: Neue Seren, Wirkstoffe und Maskenformate erscheinen häufig. Zusammen mit meist günstigeren Preisen als bei Luxusmarken mit ähnlichem Angebot entstand so der Eindruck, dass ein großer Teil der Skincare-Neuheiten aus Korea kommt.",
           "Der dritte Faktor ist rein internetbedingt: Communitys von Skincare-Fans wuchsen auf Plattformen wie TikTok, YouTube und Reddit, Influencer zeigten mit echter Begeisterung Unboxings koreanischer Produkte, Rezensionen vervielfachten sich, und die virale Dynamik machte K-Beauty von einem Nischeninteresse zu einem Mainstream-Phänomen.",
-          "Am Ende ist die Geschichte leicht zu verstehen, und deshalb hat sie sich so schnell verbreitet: Auf der anderen Seite der Welt gibt es eine ganze Industrie, die von Innovationen in der Hautpflege besessen ist, und heute kommt man online daran."
+          "Das [koreanische Kulturministerium](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) beschreibt ebenfalls mehrere Faktoren hinter dem Wachstum, darunter den internationalen Vertrieb über Händler. Keiner von ihnen erklärt die Welle allein."
         ],
         "bullets": []
       },
       {
-        "heading": "Das Problem beim Kauf von K-Beauty außerhalb Koreas",
+        "heading": "So ist es, K-Beauty außerhalb Koreas zu kaufen",
         "paragraphs": [
-          "Wenn K-Beauty so relevant ist, warum ist sie dann in der Mall oder der Drogerie nicht so leicht zu finden? Die Antwort liegt im Vertrieb.",
-          "Die meisten koreanischen Skincare-Marken haben in weiten Teilen der Welt keine eigenen Läden. Eine international bekannte Marke verkauft offiziell vielleicht nur über den koreanischen E-Commerce oder über wenige autorisierte Händler in bestimmten Märkten. Das ist ein echtes Problem für alle, die eine komplette Routine zusammenstellen wollen: sagen wir Reiniger, Toner, Serum und Creme, jedes von einer anderen Marke.",
-          "Die Alternative sind mehrere Bestellvorgänge, wiederholte Versandkosten, Lieferungen an verschiedenen Terminen, Währungsumrechnung und Einfuhrabgaben. Prüfen Sie vor dem Kauf die in Ihrer Region geltende Regel.",
-          "Für viele ist es genau dieser Aufwand, nicht der Preis und nicht die Qualität, der vom Ausprobieren abhält. Mehrere Seiten in verschiedenen Sprachen zu durchsuchen, immer wieder internationalen Versand zu zahlen und keinen einzigen Ort zu haben, an dem man die Bestellung verfolgt, ist ermüdend.",
+          "Wenn K-Beauty so relevant ist, warum ist sie dann in der Mall oder der Drogerie nicht immer leicht zu finden? Ein Teil der Antwort liegt im Vertrieb, der sich von Land zu Land unterscheidet.",
+          "Viele koreanische Skincare-Marken haben in weiten Teilen der Welt keine eigenen Läden, und das Angebot unterscheidet sich je nach Marke und Land. Eine international bekannte Marke verkauft offiziell vielleicht nur über den koreanischen E-Commerce oder über wenige autorisierte Händler in bestimmten Märkten. Das ist ein echtes Problem für alle, die eine komplette Routine zusammenstellen wollen: sagen wir Reiniger, Toner, Serum und Creme, jedes von einer anderen Marke.",
+          "Wenn jedes Produkt von einer anderen Seite kommt, kann der Kauf zu mehreren Bestellvorgängen und Versandkosten, Lieferungen an verschiedenen Terminen, Währungsumrechnung und Einfuhrabgaben werden. Prüfen Sie vor dem Kauf die in Ihrer Region geltende Regel.",
           "Außerdem verkauft nicht jede koreanische Marke direkt außerhalb Asiens. Manche verkaufen nur innerhalb Koreas, sodass man auf Drittanbieter, die nicht immer vertrauenswürdig sind, oder auf internationale Paketweiterleitungsdienste zurückgreifen müsste, die zusätzliche Kosten und Zeit bedeuten."
         ],
         "bullets": []
@@ -43139,11 +43138,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wo YesStyle ins Spiel kommt",
         "paragraphs": [
-          "Hier lösen Plattformen wie YesStyle das Problem.",
-          "YesStyle funktioniert als zentraler Marktplatz: Statt von Marke zu Marke zu gehen, kaufen Sie mehrere koreanische Marken, außerdem japanische und aus anderen Teilen Asiens, in einem Warenkorb, mit einem einzigen Versand und einer einzigen Lieferzeit. Das Unternehmen erklärt in seinen Unternehmensinformationen, autorisierter Händler von mehr als 400 koreanischen Beauty-Marken zu sein, darunter COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige und Isntree: ein Beispiel für die Art der verfügbaren Marken, keine abgeschlossene Liste, denn das Sortiment ändert sich mit der Zeit.",
+          "Eine der Möglichkeiten ist der Kauf in einem Multimarken-Shop wie YesStyle.",
+          "YesStyle funktioniert als zentraler Marktplatz: Statt von Marke zu Marke zu gehen, kaufen Sie mehrere koreanische Marken, außerdem japanische und aus anderen Teilen Asiens, in einem Warenkorb. Die Versandkosten richten sich nach der Versandkostentabelle des Shops, und die Bestellung kann in mehr als einer Sendung verschickt werden, die an verschiedenen Terminen ankommen; die geschätzte Lieferzeit setzt sich laut [Lieferrichtlinie von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732) aus der Verfügbarkeit der Artikel und der gewählten Versandart zusammen. Das Unternehmen erklärt in seinen Unternehmensinformationen, autorisierter Händler von mehr als 400 koreanischen Beauty-Marken zu sein, darunter COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige und Isntree: ein Beispiel für die Art der verfügbaren Marken, keine abgeschlossene Liste, denn das Sortiment ändert sich mit der Zeit.",
           "Die Plattform geht auch über Skincare hinaus: Sie hat asiatische Mode, Make-up, Accessoires und andere Lifestyle-Kategorien, sodass Sie den Kauf eines Serums in derselben Bestellung um weitere Artikel ergänzen können.",
-          "Wer beim ersten Kauf sparen möchte, kann den Reward Code CECILIA010 nutzen, der beim Checkout einen direkten Rabatt gibt (höher beim ersten Kauf, niedriger bei den folgenden), wenn er im richtigen Feld des Warenkorbs eingegeben wird. Eine eigene Schritt-für-Schritt-Anleitung zum Einlösen des Codes ist unten verlinkt. Die Gutscheine des Shops ändern sich; die aktuelle Liste steht unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle).",
-          "Diese Bündelung hat es ermöglicht, dass K-Beauty vom Interesse engagierter Sammler zu etwas wurde, das jeder ausprobieren kann, der nur testen will, ob der Ruf stimmt."
+          "Wer beim Kauf sparen möchte, kann den Reward Code CECILIA010 nutzen: 5 % beim ersten Kauf und 2 % bei den folgenden, einzugeben im Feld für den Reward Code beim Checkout. Eine eigene Schritt-für-Schritt-Anleitung zum Einlösen des Codes ist unten verlinkt. Die Gutscheine des Shops ändern sich; die aktuelle Liste steht unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle).",
+          "Wer nur testen will, ob der Ruf stimmt: Mehrere Marken in einer Bestellung zu bündeln, vereinfacht den ersten Kauf."
         ],
         "bullets": [],
         "links": [
@@ -43168,10 +43167,10 @@ export const reviewsData: unknown[] = [
         "heading": "Häufige Fragen zu K-Beauty",
         "bullets": [
           "Ist K-Beauty dasselbe wie J-Beauty (japanische Beauty)? Nein, auch wenn die beiden Begriffe oft zusammen auftauchen. K-Beauty und J-Beauty legen beide großen Wert auf Hautpflege, aber die Philosophien unterscheiden sich meist: J-Beauty wird üblicherweise mit einem funktionaleren Minimalismus und mit Sonnenschutz als Basis von allem verbunden, während K-Beauty eher für das Layering in mehreren Schichten und die ständige Innovation bei Inhaltsstoffen bekannt ist. In der Praxis lassen sich beide kombinieren: YesStyle selbst führt bekannte japanische Marken wie Hada Labo und Rohto neben den koreanischen.",
-          "Verkauft YesStyle Originalprodukte? Das Unternehmen erklärt in seinen Unternehmensinformationen, autorisierter Händler zu sein und direkt bei den Herstellern oder offiziellen Partnern einzukaufen, und es ist Tochter eines börsennotierten Unternehmens (YesAsia Holdings), was ein höheres Maß an unternehmerischer Transparenz bietet als ein einzelner Wiederverkäufer. Trotzdem lohnt es sich immer, die Richtlinie zu Echtheit und Garantie direkt auf der offiziellen Seite zu prüfen, bevor man kauft. Wenn Sie bei diesem Punkt tiefer einsteigen wollen, haben wir eine vollständige Analyse zur Seriosität des Shops, unten verlinkt.",
-          "Funktioniert der Code CECILIA010 auch für K-Beauty-Produkte? Ja, es ist ein allgemeiner Reward Code des Shops, nicht auf eine bestimmte Kategorie beschränkt: Er gilt für koreanische Skincare ebenso wie für Mode und andere Artikel des Sortiments. Trotzdem ist es immer gut, im Warenkorb zu prüfen, ob der Rabatt korrekt angewendet wurde, bevor man die Bestellung abschließt.",
-          "Womit fange ich an, wenn ich noch nie K-Beauty benutzt habe? Marken mit großer internationaler Verfügbarkeit wie COSRX, Innisfree, Beauty of Joseon, Anua, Etude House und Some By Mi sind meist gute Einstiegspunkte. Eine gängige Strategie für Einsteiger ist, ein Produkt nach dem anderen auszuprobieren (einen milden Reiniger, einen Toner, eine Essenz), statt die ganze Routine auf einmal umzustellen, was hilft zu merken, wie die Haut auf jede Neuerung reagiert.",
-          "Eignet sich jeder K-Beauty-Inhaltsstoff für jeden Hauttyp? Nicht unbedingt: Das gilt für jedes Skincare-Produkt, nicht nur für K-Beauty. Beliebte Inhaltsstoffe wie Niacinamid und Centella asiatica werden von den meisten Menschen gut vertragen, aber „die meisten“ heißt nicht „alle“. Wer empfindliche oder reaktive Haut hat, tut gut daran, die Inhaltsstoffliste zu lesen, zu meiden, was bekanntermaßen eine Reaktion auslöst, ein neues Produkt an einer kleinen Stelle zu testen, bevor es im ganzen Gesicht aufgetragen wird, und im Zweifel vor einer neuen Routine eine Hautärztin oder einen Hautarzt zu fragen."
+          "Verkauft YesStyle Originalprodukte? Das Unternehmen erklärt in seinen Unternehmensinformationen, autorisierter Händler zu sein und direkt bei den Herstellern oder offiziellen Partnern einzukaufen, und es ist Tochter eines börsennotierten Unternehmens (YesAsia Holdings). Die Börsennotierung der Muttergesellschaft zeigt, wer hinter dem Shop steht, belegt aber nicht die Echtheit jeder einzelnen verkauften Einheit. Prüfen Sie deshalb die Richtlinie zu Echtheit und Garantie direkt auf der offiziellen Seite, bevor Sie kaufen. Wenn Sie bei diesem Punkt tiefer einsteigen wollen, haben wir eine vollständige Analyse zur Seriosität des Shops, unten verlinkt.",
+          "Funktioniert der Code CECILIA010 auch für K-Beauty-Produkte? Ja. Es ist ein Reward Code des Shops mit 5 % beim ersten Kauf und 2 % bei den folgenden auf berechtigte Artikel, nicht auf Skincare beschränkt. Prüfen Sie im Warenkorb, ob der Rabatt angewendet wurde, bevor Sie die Bestellung abschließen.",
+          "Womit fange ich an, wenn ich noch nie K-Beauty benutzt habe? Marken mit großer internationaler Verfügbarkeit wie COSRX, Innisfree, Beauty of Joseon, Anua, Etude House und Some By Mi sind meist gute Einstiegspunkte. Eine gängige Strategie für Einsteiger ist, ein Produkt nach dem anderen auszuprobieren (einen milden Reiniger, einen Toner, eine Essenz), statt die ganze Routine auf einmal umzustellen, was hilft zu merken, wie die Haut auf jede Neuerung reagiert. Eine einfache Routine kann genügen.",
+          "Eignet sich jeder K-Beauty-Inhaltsstoff für jeden Hauttyp? Nicht unbedingt, und das gilt für jedes Skincare-Produkt. Die Reaktion auf beliebte Inhaltsstoffe wie Niacinamid und Centella asiatica ist von Person zu Person und von Formel zu Formel verschieden. Wer empfindliche oder reaktive Haut hat, tut gut daran, die Inhaltsstoffliste zu lesen, zu meiden, was bekanntermaßen eine Reaktion auslöst, [das Produkt an einer kleinen Stelle zu testen](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products), bevor es im ganzen Gesicht aufgetragen wird, und im Zweifel eine Hautärztin oder einen Hautarzt zu fragen."
         ]
       }
     ],
@@ -43195,7 +43194,8 @@ export const reviewsData: unknown[] = [
         "slug": "gueltige-yesstyle-gutscheincodes-finden"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 270,
@@ -43213,7 +43213,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "K-뷰티가 무엇인지, 한국 뷰티가 왜 세계적인 스킨케어 열풍이 되었는지, COSRX·Beauty of Joseon·Anua 같은 브랜드를 한곳에서 살 수 있는 곳은 어디인지 알아봅니다.",
-    "metaDescription": "K-뷰티가 무엇이고 왜 세계적인 스킨케어 트렌드가 되었는지 알아보고, COSRX·Anua·Beauty of Joseon 같은 한국 브랜드를 CECILIA010 코드로 살 수 있는 곳을 안내합니다.",
+    "metaDescription": "K-뷰티는 YesStyle에서 리워드 코드 CECILIA010으로. 첫 구매 5%, 이후 2%. K-뷰티란 무엇이고 왜 유행인지, COSRX·Anua 구매처까지 안내합니다.",
     "publishedAt": "2026년 8월 25일",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -43230,15 +43230,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "간단히 답하면",
         "paragraphs": [
-          "K-뷰티는 여러 겹을 쌓는 한국식 스킨케어 루틴이며, 신제품이 계속 나오는 속도로도 유명합니다. 한국 밖에서 어려운 건 구매입니다. 브랜드마다 사이트가 따로 있고 배송비도 그때마다 붙습니다. YesStyle은 여러 브랜드를 장바구니 하나에 담을 수 있습니다. 어떻게 가능한지는 'YesStyle은 어떤 역할을 할까'에서 설명합니다."
+          "K-뷰티는 스킨케어부터 메이크업까지 아우르는 한국의 화장품과 뷰티 트렌드를 가리키는 말입니다. 여러 겹을 쌓는 루틴은 널리 알려진 방식 중 하나지만 꼭 따라야 하는 것은 아니며, 간단한 루틴으로 충분할 수도 있습니다. 판매 여부와 방식은 브랜드와 나라에 따라 다릅니다. YesStyle은 여러 브랜드를 장바구니 하나에 담을 수 있습니다."
         ]
       },
       {
         "heading": "K-뷰티란",
         "paragraphs": [
-          "K-뷰티는 여러 겹을 쌓는 한국식 루틴으로, 매달 새 제품이 나옵니다.",
-          "이 철학의 뿌리에는 스킨케어 루틴이 꼭 단순하고 간단할 필요는 없다는 생각이 있습니다. 많은 곳에서 '세안, 토너, 보습'의 3단계가 기본인 것과 달리, 한국식 접근은 레이어링이라는 개념으로 움직입니다. 서로를 보완하는 제품을 여러 겹 바르고, 겹마다 맡은 역할이 따로 있다는 것입니다. 이중 세안(오일 클렌저 다음에 젤이나 폼 클렌저), 토너, 에센스, 세럼, 앰플, 크림이 들어갈 수 있고, 각 단계는 다음 단계를 위해 피부를 준비시키도록 짜여 있습니다.",
-          "이 철학은 문화적인 생각에서 나왔습니다. 피부 관리를 허영이 아니라 꼭 필요한 자기 관리로 여긴다는 것입니다. 그래서 한국 뷰티 산업은 세계에서 가장 역동적인 분야 중 하나이고, 신제품과 새 처방이 쏟아지는 규모는 다른 지역의 느린 속도에 익숙한 사람들을 놀라게 합니다."
+          "K-뷰티는 스킨케어, 메이크업, 스타일링을 아우르는 한국의 화장품과 뷰티 트렌드를 가리키는 말로, [인천시](https://www.incheon.go.kr/en/EN010701/2042492)도 그렇게 설명합니다.",
+          "널리 알려진 방식 중 하나가 레이어링입니다. 서로를 보완하는 제품을 겹쳐 바르고, 겹마다 맡은 역할이 따로 있습니다. 이중 세안(오일 클렌저 다음에 젤이나 폼 클렌저), 토너, 에센스, 세럼, 앰플, 크림이 들어갈 수 있습니다. 다만 이는 선택지이지 규칙이 아닙니다. 겹이 많다고 결과가 더 좋아지는 것은 아니며, 간단한 루틴으로 충분할 수도 있습니다. [미국피부과학회](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month)도 루틴은 단순하게 유지하고, 새 제품은 한 번에 하나씩 피부에 도입하고, 선크림을 쓰라고 권합니다.",
+          "한국 문화에서 피부 관리는 자기 관리의 하나로 여겨지며, 한국 뷰티 업계는 신제품과 새 처방을 내놓는 속도가 빠른 것으로 알려져 있습니다."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -43262,20 +43262,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "이 흐름을 밀어 올린 요인은 세 가지입니다. K-드라마와 K-팝, 신제품이 나오는 속도, 그리고 인터넷입니다.",
-          "첫째는 K-드라마와 K-팝의 문화적 영향력입니다. 둘 다 전 세계에서 엄청난 팬층을 얻었고, 한국 뷰티 문화를 보여 주는 살아 있는 쇼윈도 역할을 합니다. 드라마 속 인물이 집에서 스킨케어를 하는 장면이 나오거나, K-팝 아티스트가 무대마다 흠잡을 데 없는 피부로 등장하면 '어떻게 관리하는 거지?'라는 궁금증이 자연스럽게 생깁니다. 그 답은 대개 그들이 쓰는 제품으로 이어집니다.",
-          "둘째는 한국 뷰티 브랜드 자체의 문화입니다. 몇 년씩 안정적인 카탈로그에 머무는 업계와 달리, 한국 스킨케어 브랜드는 신제품 출시와 성분 혁신의 속도를 유지해 해외에서도 주목받습니다. 매달 새 세럼, 새 활성 성분, 새 마스크 제형이 나옵니다. 비슷한 콘셉트의 서구 럭셔리 브랜드보다 가격이 대체로 합리적이라는 점까지 더해져, 세계에서 가장 새로운 스킨케어 기술이 한국에서 나온다는 인식이 생겼습니다.",
+          "첫째는 K-드라마와 K-팝의 문화적 영향력입니다. 둘 다 전 세계에서 엄청난 팬층을 얻었고, 한국 뷰티 문화를 보여 주는 살아 있는 쇼윈도 역할을 합니다. 드라마 속 인물이 집에서 스킨케어를 하는 장면이 나오거나, K-팝 아티스트가 무대마다 흠잡을 데 없는 피부로 등장하면 '어떻게 관리하는 거지?'라는 궁금증이 자연스럽게 생깁니다.",
+          "둘째는 한국 뷰티 브랜드 자체의 문화입니다. 신제품 출시와 성분 혁신의 속도로 알려져 있고, 새 세럼, 새 활성 성분, 새 마스크 제형이 자주 나옵니다. 비슷한 콘셉트의 럭셔리 브랜드보다 가격이 대체로 합리적이라는 점까지 더해져, 새로운 스킨케어의 상당수가 한국에서 나온다는 인식이 생겼습니다.",
           "셋째는 순전히 인터넷의 힘입니다. 틱톡, 유튜브, 레딧 같은 플랫폼에서 스킨케어 애호가 커뮤니티가 커졌고, 인플루언서들이 한국 제품 언박싱을 진심 어린 열정으로 보여 주기 시작했고, 후기가 늘어났으며, 이 바이럴이 K-뷰티를 소수의 관심사에서 주류 현상으로 바꿔 놓았습니다.",
-          "결국 이야기는 이해하기 쉽고, 그래서 이렇게 빨리 퍼졌습니다. 한국에는 피부 관리 혁신에 푹 빠진 산업이 통째로 있고, 이제는 온라인으로 그것을 접할 수 있다는 이야기입니다."
+          "[문화체육관광부](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)도 성장의 배경으로 소매업체를 통한 해외 유통을 포함한 여러 요인을 설명합니다. 그중 어느 하나만으로 이 흐름을 설명할 수는 없습니다."
         ],
         "bullets": []
       },
       {
-        "heading": "한국 밖에서 K-뷰티를 사기 어려운 이유",
+        "heading": "한국 밖에서 K-뷰티를 사는 경우",
         "paragraphs": [
-          "K-뷰티가 이렇게 화제인데, 왜 쇼핑몰이나 약국에서는 쉽게 찾을 수 없을까요? 답은 유통에 있습니다.",
-          "한국 스킨케어 브랜드 대부분은 세계 여러 곳에 자체 매장이 없습니다. 국제적으로 알려진 브랜드도 공식 판매처가 한국 이커머스나 특정 시장의 소수 공인 유통사뿐일 수 있습니다. 클렌저, 토너, 세럼, 크림을 각각 다른 브랜드로 골라 루틴 한 벌을 갖추려는 사람에게는 이것이 실제 문제입니다.",
-          "대안은 결제를 여러 번 하고, 배송비가 반복되고, 도착 날짜가 제각각이고, 환율과 수입 세금이 붙는 것입니다. 구매 전에 거주 지역에 지금 적용되는 규정을 확인하세요.",
-          "많은 사람에게 시도를 망설이게 하는 건 가격이나 품질이 아니라 이 번거로움입니다. 언어가 다른 여러 사이트를 돌아다니고, 국제 배송비를 여러 번 내고, 주문 상태를 한곳에서 볼 수 없는 것은 피곤한 일입니다.",
+          "K-뷰티가 이렇게 화제인데, 왜 쇼핑몰이나 약국에서 항상 쉽게 찾을 수 있지는 않을까요? 답의 일부는 유통에 있고, 유통은 나라마다 다릅니다.",
+          "한국 스킨케어 브랜드 중에는 해외 여러 곳에 자체 매장이 없는 곳이 많고, 판매 여부와 방식도 브랜드와 나라에 따라 다릅니다. 국제적으로 알려진 브랜드도 공식 판매처가 한국 이커머스나 특정 시장의 소수 공인 유통사뿐일 수 있습니다. 클렌저, 토너, 세럼, 크림을 각각 다른 브랜드로 골라 루틴 한 벌을 갖추려는 사람에게는 이것이 실제 문제가 될 수 있습니다.",
+          "제품마다 다른 사이트에서 사면 결제와 배송비가 여러 번 나뉘고, 도착 날짜가 제각각이고, 환율과 수입 세금이 붙을 수 있습니다. 구매 전에 거주 지역에 지금 적용되는 규정을 확인하세요.",
           "게다가 모든 한국 브랜드가 아시아 밖으로 직접 판매하는 것은 아닙니다. 한국 내에서만 파는 곳도 있어서, 믿을 만하다고 할 수 없는 제3의 재판매업자를 통하거나 추가 비용과 시간이 드는 국제 배송 대행 서비스를 쓰게 됩니다."
         ],
         "bullets": []
@@ -43283,11 +43282,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle은 어떤 역할을 할까",
         "paragraphs": [
-          "바로 이런 문제를 YesStyle 같은 플랫폼이 해결합니다.",
-          "YesStyle은 하나로 모은 마켓플레이스로 작동합니다. 브랜드를 하나씩 찾아다니는 대신, 한국 브랜드는 물론 일본과 아시아 다른 지역의 브랜드까지 장바구니 하나에 담고, 배송비와 배송 기간도 하나로 묶어 구매합니다. 회사는 기업 정보에서 400개가 넘는 한국 뷰티 브랜드의 공인 유통사라고 밝히며, COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige, Isntree 같은 이름이 포함됩니다. 어디까지나 취급 브랜드의 예일 뿐 전체 목록은 아닙니다. 카탈로그는 시기에 따라 바뀌기 때문입니다.",
+          "선택지 중 하나는 YesStyle 같은 멀티브랜드 스토어에서 사는 것입니다.",
+          "YesStyle은 하나로 모은 마켓플레이스로 작동합니다. 브랜드를 하나씩 찾아다니는 대신, 한국 브랜드는 물론 일본과 아시아 다른 지역의 브랜드까지 장바구니 하나에 담아 구매합니다. 배송비는 스토어의 요금표를 따르고, 주문이 여러 번에 나뉘어 발송되어 도착 날짜가 다를 수 있습니다. 예상 배송 기간은 상품 재고 상황과 선택한 배송 방법을 합친 것이며, 자세한 내용은 [YesStyle 배송 정책](https://www.yesstyle.com/en/help/section.html/hsi.732)에서 볼 수 있습니다. 회사는 기업 정보에서 400개가 넘는 한국 뷰티 브랜드의 공인 유통사라고 밝히며, COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige, Isntree 같은 이름이 포함됩니다. 어디까지나 취급 브랜드의 예일 뿐 전체 목록은 아닙니다. 카탈로그는 시기에 따라 바뀌기 때문입니다.",
           "이 플랫폼은 스킨케어에 그치지 않습니다. 아시아 패션, 메이크업, 액세서리와 그 밖의 라이프스타일 카테고리도 있어서, 세럼을 살 때 같은 주문에 다른 상품을 더할 수 있습니다.",
-          "첫 구매 할인을 받고 싶다면 리워드 코드 CECILIA010이 있습니다. 장바구니의 올바른 칸에 입력하면 결제 시 바로 할인됩니다(첫 구매는 할인율이 더 높고, 이후 구매는 더 낮습니다). 이 코드를 입력하는 방법은 아래에 링크한 전용 단계별 안내에서 볼 수 있습니다. 매장 쿠폰은 수시로 바뀌며, 현재 목록은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에서 확인하세요.",
-          "이렇게 한곳으로 모인 덕분에 K-뷰티는 열성 수집가의 관심사에서, 소문이 진짜인지 한번 써 보고 싶을 뿐인 사람도 접할 수 있는 것이 되었습니다."
+          "할인을 받고 싶다면 리워드 코드 CECILIA010이 있습니다. 첫 구매는 5%, 이후 구매는 2% 할인이며, 결제 시 리워드 코드(Reward Code) 칸에 입력합니다. 이 코드를 입력하는 방법은 아래에 링크한 전용 단계별 안내에서 볼 수 있습니다. 매장 쿠폰은 수시로 바뀌며, 현재 목록은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에서 확인하세요.",
+          "K-뷰티를 한번 써 보고 싶을 뿐인 사람에게는, 여러 브랜드를 한 주문에 담을 수 있다는 점이 첫 구매를 간단하게 해 줍니다."
         ],
         "bullets": [],
         "links": [
@@ -43312,10 +43311,10 @@ export const reviewsData: unknown[] = [
         "heading": "K-뷰티 자주 묻는 질문",
         "bullets": [
           "K-뷰티와 J-뷰티(일본 뷰티)는 같은 건가요? 아니요, 두 용어가 자주 함께 나오긴 하지만요. K-뷰티와 J-뷰티는 피부 관리를 중시한다는 점은 같지만 철학은 다른 경향이 있습니다. J-뷰티는 기능적인 미니멀리즘과 선크림을 모든 것의 기본으로 보는 시각과 연결되는 일이 많고, K-뷰티는 여러 겹 쌓는 레이어링과 끊임없는 성분 혁신으로 더 잘 알려져 있습니다. 실제로는 둘을 함께 쓸 수 있으며, YesStyle에는 Hada Labo, Rohto 같은 유명 일본 브랜드도 한국 브랜드와 나란히 있습니다.",
-          "YesStyle은 정품을 판매하나요? 회사는 기업 정보에서 제조사나 공식 파트너에게서 직접 사 오는 공인 유통사라고 밝히고 있고, 상장 기업(YesAsia Holdings)의 자회사이기도 해서 개인 재판매업자보다 기업 투명성이 높습니다. 그래도 구매 전에 공식 사이트에서 정품 정책과 보증을 꼭 확인하세요. 이 부분을 더 알고 싶다면 매장의 신뢰도를 다룬 전체 분석을 아래에 링크해 두었습니다.",
-          "CECILIA010 코드는 K-뷰티 제품에도 쓸 수 있나요? 네, 특정 카테고리에 한정되지 않는 매장 전체의 리워드 코드라서 한국 스킨케어는 물론 패션과 카탈로그의 다른 상품에도 쓸 수 있습니다. 그래도 주문을 마치기 전에 장바구니에서 할인이 제대로 적용됐는지는 꼭 확인하세요.",
-          "K-뷰티를 한 번도 안 써 봤다면 어디서 시작하나요? COSRX, Innisfree, Beauty of Joseon, Anua, Etude House, Some By Mi처럼 해외에서 구하기 쉬운 브랜드가 입문하기 좋은 편입니다. 처음 시작하는 사람이 흔히 쓰는 방법은 루틴 전체를 한 번에 바꾸지 않고 제품을 하나씩(순한 클렌저, 토너, 에센스 등) 써 보는 것으로, 새 제품마다 피부가 어떻게 반응하는지 알아차리는 데 도움이 됩니다.",
-          "K-뷰티 성분은 모든 피부 타입에 맞나요? 꼭 그렇지는 않습니다. 이는 K-뷰티만이 아니라 모든 스킨케어 제품에 해당하는 이야기입니다. 나이아신아마이드나 병풀 같은 인기 성분은 대부분의 사람이 잘 받아들이는 편이지만, '대부분'이 '모든 사람'은 아닙니다. 민감하거나 쉽게 반응하는 피부라면 성분표를 읽고, 이미 반응을 일으킨다고 아는 성분은 피하고, 새 제품은 얼굴 전체에 바르기 전에 좁은 부위에 먼저 테스트하고, 의문이 있으면 새 루틴을 시작하기 전에 피부과 전문의와 상담하는 것이 좋습니다."
+          "YesStyle은 정품을 판매하나요? 회사는 기업 정보에서 제조사나 공식 파트너에게서 직접 사 오는 공인 유통사라고 밝히고 있고, 상장 기업(YesAsia Holdings)의 자회사이기도 합니다. 모회사의 상장 정보로 운영 주체는 알 수 있지만 판매되는 상품 하나하나의 정품 여부까지 증명하지는 않으므로, 구매 전에 공식 사이트에서 정품 정책과 보증을 꼭 확인하세요. 이 부분을 더 알고 싶다면 매장의 신뢰도를 다룬 전체 분석을 아래에 링크해 두었습니다.",
+          "CECILIA010 코드는 K-뷰티 제품에도 쓸 수 있나요? 네. 이 코드는 매장의 리워드 코드로, 첫 구매는 5%, 이후 구매는 2% 할인이며 대상 상품에 쓸 수 있고 스킨케어에 한정되지 않습니다. 주문을 마치기 전에 장바구니에서 할인이 적용됐는지 확인하세요.",
+          "K-뷰티를 한 번도 안 써 봤다면 어디서 시작하나요? COSRX, Innisfree, Beauty of Joseon, Anua, Etude House, Some By Mi처럼 해외에서 구하기 쉬운 브랜드가 입문하기 좋은 편입니다. 처음 시작하는 사람이 흔히 쓰는 방법은 루틴 전체를 한 번에 바꾸지 않고 제품을 하나씩(순한 클렌저, 토너, 에센스 등) 써 보는 것으로, 새 제품마다 피부가 어떻게 반응하는지 알아차리는 데 도움이 됩니다. 간단한 루틴으로 충분할 수도 있습니다.",
+          "K-뷰티 성분은 모든 피부 타입에 맞나요? 꼭 그렇지는 않습니다. 이는 K-뷰티만이 아니라 모든 스킨케어 제품에 해당하는 이야기입니다. 나이아신아마이드나 병풀 같은 인기 성분에 대한 반응은 사람마다, 또 처방마다 다릅니다. 민감하거나 쉽게 반응하는 피부라면 성분표를 읽고, 이미 반응을 일으킨다고 아는 성분은 피하고, [새 제품은 좁은 부위에 먼저 테스트](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products)한 뒤 얼굴 전체에 바르고, 의문이 있으면 피부과 전문의와 상담하는 것이 좋습니다."
         ]
       }
     ],
@@ -43339,7 +43338,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-valid-coupon-guide-ko"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 271,
@@ -43357,7 +43357,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "K-Beautyとは何か、なぜ韓国コスメが世界的なスキンケアブームになったのか、そしてCOSRX、Beauty of Joseon、Anuaなどのブランドをまとめて買える場所を紹介します。",
-    "metaDescription": "K-Beautyとは何か、なぜ世界的なスキンケアのトレンドになったのかを解説。COSRX、Anua、Beauty of Joseonなどの韓国ブランドを、CECILIA010コードで買える場所もご案内します。",
+    "metaDescription": "K-BeautyをYesStyleで買うならリワードコードCECILIA010。初回5%、2回目以降2%。K-Beautyとは何か、流行の理由、COSRXやAnuaの買い方も解説。",
     "publishedAt": "2026年8月25日",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -43374,15 +43374,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡単に答えると",
         "paragraphs": [
-          "K-Beautyは、何層も重ねる韓国式のスキンケアで、新作が次々に出ることでも知られています。韓国の外で難しいのは購入です。ブランドごとにサイトが別々で、送料もそのたびにかかります。YesStyleなら複数のブランドを1つのカートにまとめられます。仕組みは「YesStyleの役割」で説明します。"
+          "K-Beautyは、スキンケアからメイクまで、韓国発のコスメと美容トレンドを指す言葉です。何層も重ねるルーティンはよく知られた方法の一つですが、必須ではなく、シンプルなケアで足りることもあります。韓国の外では、取り扱いはブランドや国によって変わります。YesStyleなら複数のブランドを1つのカートにまとめられます。"
         ]
       },
       {
         "heading": "K-Beautyとは",
         "paragraphs": [
-          "K-Beautyは、何層も重ねる韓国式のスキンケアで、毎月のように新作が出ます。",
-          "この考え方の根底には、スキンケアは必ずしもシンプルで手短である必要はない、という発想があります。多くの国では「洗顔、化粧水、保湿」の3ステップが基本ですが、韓国式にはレイヤリングという考え方があります。互いを補い合う製品を何層にも重ね、それぞれが特定の役割を担うのです。たとえばダブル洗顔（オイルクレンジングのあとにジェルや泡の洗顔料）、トナー、エッセンス、美容液、アンプル、クリームといった具合で、各ステップが次のステップのために肌を整える流れになっています。",
-          "この哲学の背景には文化的な考え方があります。スキンケアは見栄ではなく、欠かせないセルフケアとして捉えられているのです。だから韓国の美容産業は世界でも特に活気のある分野のひとつで、新製品や新処方の多さは、ほかの地域のゆっくりしたペースに慣れた人を驚かせるほどです。"
+          "K-Beautyは、スキンケアからメイク、スタイリングまでを含む韓国のコスメと美容トレンドを指す言葉で、[仁川市](https://www.incheon.go.kr/en/EN010701/2042492)もそのように説明しています。",
+          "よく知られた実践の一つがレイヤリングです。互いを補い合う製品を重ね、それぞれが役割を担います。たとえばダブル洗顔（オイルクレンジングのあとにジェルや泡の洗顔料）、トナー、エッセンス、美容液、アンプル、クリームといった具合です。ただし、これは選択肢であって決まりではありません。重ねる数が多いほど結果が良くなるとは限らず、シンプルなケアで足りることもあります。[米国皮膚科学会](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month)も、ケアはシンプルに保ち、新しい製品は一度に1つずつ肌に取り入れ、日焼け止めを使うよう勧めています。",
+          "韓国の文化では、スキンケアはセルフケアの一つとして捉えられていて、美容産業は新製品や新処方を出すペースが速いことで知られています。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -43406,20 +43406,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "流行を押し上げた要因は3つあります。K-ドラマとK-POP、新作が出るペース、そしてインターネットです。",
-          "1つ目は、K-ドラマとK-POPの文化的な影響力です。どちらも世界中で大勢のファンを獲得し、韓国の美容文化を映すショーケースのような役割を果たしています。ドラマの中で登場人物が自宅でスキンケアをする場面が映ったり、K-POPのアーティストがステージのたびに非の打ちどころのない肌で登場したりすれば、「どうやってるの？」と思うのは自然なことです。その答えは、たいてい彼らが使っている製品に行き着きます。",
-          "2つ目は、韓国の美容ブランドそのものの文化です。何年も変わらないラインナップに安住する業界とは違い、韓国のスキンケアブランドは、新作の発売と成分のイノベーションを絶えず続けていて、海外からも注目されています。毎月のように新しい美容液、新しい有効成分、新しい形のマスクが登場します。似たコンセプトの欧米のラグジュアリーブランドより価格が手頃なことが多い点も重なり、世界最新のスキンケア技術は韓国から生まれている、という印象が定着しました。",
+          "1つ目は、K-ドラマとK-POPの文化的な影響力です。どちらも世界中で大勢のファンを獲得し、韓国の美容文化を映すショーケースのような役割を果たしています。ドラマの中で登場人物が自宅でスキンケアをする場面が映ったり、K-POPのアーティストがステージのたびに非の打ちどころのない肌で登場したりすれば、「どうやってるの？」と思うのは自然なことです。",
+          "2つ目は、韓国の美容ブランドそのものの文化です。新作の発売と成分のイノベーションのペースで知られ、新しい美容液、有効成分、マスクの形が頻繁に登場します。似たコンセプトのラグジュアリーブランドより価格が手頃なことが多い点も重なり、スキンケアの新しい流れの多くは韓国から生まれている、という印象が定着しました。",
           "3つ目は、まったくインターネットならではの要因です。TikTok、YouTube、Redditなどでスキンケア好きのコミュニティが育ち、インフルエンサーが韓国コスメの開封動画を心から楽しそうに紹介するようになり、レビューも増えました。そのバイラルな広がりが、K-Beautyを一部の人の趣味からメインストリームの現象に変えたのです。",
-          "結局のところ、この話は分かりやすく、だからこそ急速に広まりました。韓国には、スキンケアのイノベーションに情熱を注ぐ産業がまるごと存在し、今ではオンラインでそこにアクセスできるのです。"
+          "[韓国文化体育観光部](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)も、成長の背景には小売業者による海外流通を含む複数の要因があると説明しています。どの要因も、単独で流行を説明できるわけではありません。"
         ],
         "bullets": []
       },
       {
-        "heading": "韓国の外でK-Beautyを買うときの問題",
+        "heading": "韓国の外でK-Beautyを買うということ",
         "paragraphs": [
-          "K-Beautyがこれほど注目されているのに、なぜショッピングモールやドラッグストアでは簡単に見つからないのでしょうか。答えは流通にあります。",
-          "韓国のスキンケアブランドの多くは、世界の大半の地域に自社の店舗を持っていません。国際的に知られたブランドでも、正規の販売は韓国のECサイトか、特定の市場にいる少数の正規代理店だけ、ということがあります。クレンザー、トナー、美容液、クリームをそれぞれ別のブランドで揃えて、ひととおりのルーティンを組みたい人にとっては、これが現実的な問題になります。",
-          "代わりの方法では、チェックアウトが何回にも分かれ、送料が繰り返しかかり、届く日もばらばらになり、為替や輸入関税も発生します。購入前に、お住まいの地域で現在適用されているルールをご確認ください。",
-          "多くの人にとって、試すのをためらわせるのは価格や品質ではなく、この手間です。言語の違う複数のサイトを見て回り、国際送料を何度も払い、注文状況を1か所で確認できないのは、疲れるものです。",
+          "K-Beautyがこれほど注目されているのに、なぜショッピングモールやドラッグストアでは必ずしも簡単に見つからないのでしょうか。答えの一部は流通にあり、流通は国によって異なります。",
+          "韓国のスキンケアブランドには、世界の大半の地域に自社の店舗を持たないものが多く、取り扱いもブランドや国によって変わります。国際的に知られたブランドでも、正規の販売は韓国のECサイトか、特定の市場にいる少数の正規代理店だけ、ということがあります。クレンザー、トナー、美容液、クリームをそれぞれ別のブランドで揃えて、ひととおりのルーティンを組みたい人にとっては、これが現実的な問題になります。",
+          "製品ごとに別のサイトで買うと、チェックアウトや送料が何回にも分かれ、届く日もばらばらになり、為替や輸入関税も発生することがあります。購入前に、お住まいの地域で現在適用されているルールをご確認ください。",
           "さらに、韓国のブランドがすべてアジア圏外に直接販売しているわけではありません。韓国国内でしか売っていないブランドもあり、その場合は信頼できるとは限らない第三者の転売業者に頼るか、国際転送サービスを使うことになり、費用も時間も余計にかかります。"
         ],
         "bullets": []
@@ -43427,11 +43426,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyleの役割",
         "paragraphs": [
-          "YesStyleのようなプラットフォームは、まさにこの問題を解決してくれます。",
-          "YesStyleは一元化されたマーケットプレイスとして機能します。ブランドを1つずつ回る代わりに、韓国ブランド、さらに日本やアジア各地のブランドを、1つのカートで、送料も配送期間もひとまとめにして購入できます。同社は企業情報の中で、400を超える韓国美容ブランドの正規代理店であると表明しており、COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige、Isntreeなどが含まれます。これはあくまで取り扱いの一例で、すべてを網羅した一覧ではありません。カタログは時期によって変わるためです。",
+          "選択肢の一つが、YesStyleのような複数ブランドを扱うストアで買う方法です。",
+          "YesStyleは一元化されたマーケットプレイスとして機能します。ブランドを1つずつ回る代わりに、韓国ブランド、さらに日本やアジア各地のブランドを、1つのカートで購入できます。送料はストアの料金表に従い、注文は複数に分けて発送され、届く日が異なることがあります。お届け予定は、商品の在庫状況と選んだ配送方法を合わせたもので、詳しくは[YesStyleの配送ポリシー](https://www.yesstyle.com/en/help/section.html/hsi.732)をご覧ください。同社は企業情報の中で、400を超える韓国美容ブランドの正規代理店であると表明しており、COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige、Isntreeなどが含まれます。これはあくまで取り扱いの一例で、すべてを網羅した一覧ではありません。カタログは時期によって変わるためです。",
           "このプラットフォームはスキンケアだけではありません。アジアのファッション、メイクアップ、アクセサリーなどライフスタイル関連のカテゴリーもあるので、美容液の購入に同じ注文でほかのアイテムを加えることもできます。",
-          "初回購入で割引を受けたい方には、リワードコードCECILIA010があります。カートの正しい欄に入力すると、チェックアウト時に直接割引が適用されます（初回購入のほうが割引率が高く、2回目以降は低くなります）。このコードの入れ方は、下にリンクした専用の手順ガイドで確認できます。ストアのクーポンは入れ替わるので、現時点の一覧は[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)をご覧ください。",
-          "こうして一元化されたことで、K-Beautyは一部の熱心なコレクターの関心事から、本当に評判どおりなのか試してみたいだけの人にも手が届くものになりました。"
+          "割引を受けたい方には、リワードコードCECILIA010があります。初回購入は5%、2回目以降は2%の割引で、チェックアウトのリワードコード（Reward Code）欄に入力します。このコードの入れ方は、下にリンクした専用の手順ガイドで確認できます。ストアのクーポンは入れ替わるので、現時点の一覧は[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)をご覧ください。",
+          "K-Beautyを試してみたいだけの人にとっては、複数のブランドを1回の注文にまとめられることで、最初の購入が簡単になります。"
         ],
         "bullets": [],
         "links": [
@@ -43456,10 +43455,10 @@ export const reviewsData: unknown[] = [
         "heading": "K-Beautyについてよくある質問",
         "bullets": [
           "K-BeautyとJ-Beauty（日本の美容）は同じものですか？ いいえ。ただし、この2つはよく並べて語られます。どちらもスキンケアを重視しますが、考え方には違いがあります。J-Beautyは、機能的なミニマリズムと、日焼け止めをすべての土台とする考え方で語られることが多く、K-Beautyは何層も重ねるレイヤリングと、成分の絶え間ない革新で知られています。実際には両方を組み合わせることもでき、YesStyleにはHada LaboやRohtoといった日本の有名ブランドも、韓国ブランドと並んで揃っています。",
-          "YesStyleは本物の製品を販売していますか？ 同社は企業情報の中で、メーカーまたは公式パートナーから直接仕入れる正規代理店であると表明しています。また上場企業（YesAsia Holdings）の子会社であるため、一般の個人販売業者よりも企業としての透明性は高いといえます。それでも、購入前には公式サイトで正規品の方針と保証を必ず確認してください。この点を詳しく知りたい方のために、ストアの信頼性についての詳しい分析を下にリンクしてあります。",
-          "CECILIA010コードはK-Beauty製品にも使えますか？ はい。このコードは特定のカテゴリーに限らない、ストア全体のリワードコードで、韓国スキンケアにもファッションなどカタログ内のほかの商品にも使えます。それでも、注文を確定する前に、カートで割引が正しく適用されているか必ず確認してください。",
-          "K-Beautyを使ったことがない場合、何から始めればいいですか？ COSRX、Innisfree、Beauty of Joseon、Anua、Etude House、Some By Miなど、海外でも入手しやすいブランドが入りやすい選択肢です。始めたばかりの人によくある方法は、ルーティン全体を一度に変えるのではなく、1つずつ（やさしいクレンザー、トナー、エッセンスなど）試すことです。そうすれば、新しい製品ごとに肌がどう反応するかが分かりやすくなります。",
-          "K-Beautyの成分は、どんな肌質にも合いますか？ 必ずしもそうではありません。これはK-Beautyに限らず、どんなスキンケア製品にも言えることです。ナイアシンアミドやツボクサのような人気の成分は、多くの人に問題なく使えるのが一般的ですが、「多くの人」は「全員」ではありません。敏感肌や刺激を受けやすい肌の方は、成分表を読み、すでに反応が出ると分かっているものを避け、新しい製品は顔全体に塗る前に小さな範囲で試し、迷ったときは新しいルーティンを始める前に皮膚科医に相談するのが賢明です。"
+          "YesStyleは本物の製品を販売していますか？ 同社は企業情報の中で、メーカーまたは公式パートナーから直接仕入れる正規代理店であると表明しています。また上場企業（YesAsia Holdings）の子会社です。親会社の上場情報から運営元は分かりますが、販売される商品1点ごとの真正性を証明するものではないため、購入前には公式サイトで正規品の方針と保証を必ず確認してください。この点を詳しく知りたい方のために、ストアの信頼性についての詳しい分析を下にリンクしてあります。",
+          "CECILIA010コードはK-Beauty製品にも使えますか？ はい。このコードはストアのリワードコードで、初回購入は5%、2回目以降は2%の割引です。対象となる商品に使え、スキンケアに限りません。注文を確定する前に、カートで割引が適用されているか確認してください。",
+          "K-Beautyを使ったことがない場合、何から始めればいいですか？ COSRX、Innisfree、Beauty of Joseon、Anua、Etude House、Some By Miなど、海外でも入手しやすいブランドが入りやすい選択肢です。始めたばかりの人によくある方法は、ルーティン全体を一度に変えるのではなく、1つずつ（やさしいクレンザー、トナー、エッセンスなど）試すことです。そうすれば、新しい製品ごとに肌がどう反応するかが分かりやすくなります。シンプルなケアで足りることもあります。",
+          "K-Beautyの成分は、どんな肌質にも合いますか？ 必ずしもそうではありません。これはK-Beautyに限らず、どんなスキンケア製品にも言えることです。ナイアシンアミドやツボクサのような人気の成分への反応は、人により、また処方によって異なります。敏感肌や刺激を受けやすい肌の方は、成分表を読み、すでに反応が出ると分かっているものを避け、[新しい製品は小さな範囲で試して](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products)から顔全体に塗り、迷ったときは皮膚科医に相談するのが賢明です。"
         ]
       }
     ],
@@ -43483,7 +43482,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-valid-coupon-guide-ja"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 272,
@@ -43501,7 +43501,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "認識什麼是 K-Beauty、韓國美妝為何成為全球保養風潮，以及哪裡能一次買齊 COSRX、Beauty of Joseon、Anua 等品牌。",
-    "metaDescription": "認識什麼是 K-Beauty、為什麼它成為全球保養趨勢，以及哪裡可以用 CECILIA010 代碼購買 COSRX、Anua、Beauty of Joseon 等韓國品牌。",
+    "metaDescription": "用獎勵碼 CECILIA010 在 YesStyle 買 K-Beauty：首購 5%，之後每筆 2%。了解什麼是 K-Beauty、為何走紅，以及哪裡買 COSRX、Anua。",
     "publishedAt": "2026年8月25日",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -43518,15 +43518,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡短回答",
         "paragraphs": [
-          "K-Beauty 是韓國多層疊擦的保養流程，新品推出的速度之快也很有名。在韓國以外，難的是購買：各品牌在各自的網站販售，運費還得重複支付。YesStyle 可以把多個品牌放進同一個購物車；實際怎麼做，請見「YesStyle 在這裡扮演什麼角色」。"
+          "K-Beauty 指韓國的化妝品與美妝潮流，從保養到彩妝。多層疊擦是最廣為人知的做法之一，但並非必須，簡單的流程也許就夠了。在韓國以外，供貨會因品牌和國家而異；YesStyle 可以把多個品牌放進同一個購物車。"
         ]
       },
       {
         "heading": "什麼是 K-Beauty",
         "paragraphs": [
-          "K-Beauty 是韓國多層疊擦的保養流程，每個月都有新品推出。",
-          "這套理念的根源在於：保養流程不一定要簡單直接。在很多地方，「清潔、化妝水、保濕」三步驟是主流，而韓國的做法講究 layering（疊擦）：一層層塗上互相搭配的產品，每一層都有各自的功能。這套流程可以包括雙重清潔（先用卸妝油，再用凝膠或泡沫洗面乳）、化妝水、精華水、精華液、安瓶和面霜，每個步驟都是為了替下一步做好準備。",
-          "這套理念來自一種文化觀念：保養被視為不可或缺的自我照顧，而不是愛慕虛榮。也因此，韓國美妝產業是全球最有活力的產業之一，新品和新配方的數量之多，會讓習慣其他地區較慢步調的人感到驚訝。"
+          "K-Beauty 泛指韓國的化妝品與美妝潮流，涵蓋保養、彩妝和造型，[仁川市](https://www.incheon.go.kr/en/EN010701/2042492)也是這樣介紹的。",
+          "最廣為人知的做法之一是 layering（疊擦）：一層層塗上互相搭配的產品，每一層都有各自的功能。這套流程可以包括雙重清潔（先用卸妝油，再用凝膠或泡沫洗面乳）、化妝水、精華水、精華液、安瓶和面霜。這只是一種選擇，不是規定：層數多不等於效果更好，簡單的流程也許就夠了。[美國皮膚科醫學會](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month)建議保持流程簡單，一次只讓肌膚接觸一樣新產品，並使用防曬。",
+          "在韓國文化中，保養被視為一種自我照顧，而該國美妝產業推出新品和新配方的步調很快。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -43550,20 +43550,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "有三個因素推動了這股浪潮：韓劇與韓國流行音樂、新品推出的速度，以及網路。",
-          "第一個是韓劇與韓國流行音樂的文化影響力。這兩者都贏得了龐大的全球觀眾，也成了韓國美妝文化的活招牌：當劇中角色在家做保養的場景出現，或是韓國流行音樂藝人一場接一場的舞台上都肌膚無瑕，大家自然會問：「他們是怎麼做到的？」答案幾乎總是指向他們用的產品。",
-          "第二個因素是韓國美妝品牌本身的文化。有些產業會在多年不變的產品線中安於現狀，韓國保養品牌卻不同，它們維持著新品推出與成分創新的步調，受到國際關注：每個月都有新的精華液、新的活性成分、新的面膜形式出現。再加上價格通常比定位相近的西方精品品牌更有競爭力，讓人形成這樣的印象：全球最新的保養技術正是來自韓國。",
+          "第一個是韓劇與韓國流行音樂的文化影響力。這兩者都贏得了龐大的全球觀眾，也成了韓國美妝文化的活招牌：當劇中角色在家做保養的場景出現，或是韓國流行音樂藝人一場接一場的舞台上都肌膚無瑕，大家自然會問：「他們是怎麼做到的？」",
+          "第二個因素是韓國美妝品牌本身的文化，它們以新品推出和成分創新的步調聞名：新的精華液、新的活性成分、新的面膜形式層出不窮。再加上價格通常比定位相近的精品品牌更低，讓人形成這樣的印象：保養領域的許多新品都來自韓國。",
           "第三個因素純粹來自網路：TikTok、YouTube 和 Reddit 等平台上，保養愛好者社群不斷壯大，網紅們以真誠的熱情分享韓國產品的開箱，評價越來越多，病毒式傳播讓 K-Beauty 從小眾興趣變成了主流現象。",
-          "說到底，這個故事很容易理解，所以才傳得這麼快：韓國有一整個熱衷於保養創新的產業，而如今，在網路上就能接觸到它。"
+          "[韓國文化體育觀光部](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)也指出，這股成長背後有多個因素，其中包括零售商的國際通路。沒有哪一個因素能單獨解釋這股熱潮。"
         ],
         "bullets": []
       },
       {
-        "heading": "在韓國以外購買 K-Beauty 的難題",
+        "heading": "在韓國以外購買 K-Beauty 是什麼體驗",
         "paragraphs": [
-          "既然 K-Beauty 這麼熱門，為什麼在購物中心或藥妝店卻不那麼容易找到？答案在於通路。",
-          "大多數韓國保養品牌在世界上很多地方都沒有自己的門市。一個國際知名的品牌，可能只透過韓國電商或特定市場的少數授權經銷商正式販售。對想搭配一整套流程的人來說，這是個實實在在的問題：比方說洗面乳、化妝水、精華液和面霜，每樣來自不同的品牌。",
-          "另一種做法意味著多次結帳、重複的運費、不同時間到貨，還有匯率和進口稅費。購買前，請確認你所在地區現行的規定。",
-          "對很多人來說，讓他們打消嘗試念頭的，是這份麻煩，而不是價格或品質。要逛好幾個不同語言的網站，一次又一次支付國際運費，又沒有一個統一的地方追蹤訂單，真的很累人。",
+          "既然 K-Beauty 這麼熱門，為什麼在購物中心或藥妝店卻不一定容易找到？部分答案在於通路，各國的情況並不相同。",
+          "許多韓國保養品牌在世界上很多地方都沒有自己的門市，供貨會因品牌和國家而異。一個國際知名的品牌，可能只透過韓國電商或特定市場的少數授權經銷商正式販售。對想搭配一整套流程的人來說，這是個實實在在的問題：比方說洗面乳、化妝水、精華液和面霜，每樣來自不同的品牌。",
+          "當每樣產品都來自不同的網站，購買可能變成多次結帳和多筆運費、不同時間到貨，還有匯率和進口稅費。購買前，請確認你所在地區現行的規定。",
           "此外，並非每個韓國品牌都直接向亞洲以外販售。有些只在韓國境內販售，這就只能求助於不一定可靠的第三方轉賣商，或是使用國際轉運服務，而這會增加費用和時間。"
         ],
         "bullets": []
@@ -43571,11 +43570,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle 在這裡扮演什麼角色",
         "paragraphs": [
-          "像 YesStyle 這樣的平台，正是解決這個問題的。",
-          "YesStyle 是一個集中式的購物平台：你不用一個品牌一個品牌地找，而是可以把多個韓國品牌，以及日本和亞洲其他地區的品牌，放進同一個購物車，只有一次運費和一個送達時間。該公司在其企業資訊中聲明，自己是 400 多個韓國美妝品牌的授權經銷商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：這只是可買品牌的一個樣本，並非封閉的名單，因為商品目錄會隨時間變動。",
+          "選擇之一是在多品牌商店購買，例如 YesStyle。",
+          "YesStyle 是一個集中式的購物平台：你不用一個品牌一個品牌地找，而是可以把多個韓國品牌，以及日本和亞洲其他地區的品牌，放進同一個購物車。運費依商店的運費表計算，訂單可能分成多個包裹寄出，到貨日期也可能不同；預計送達時間是商品備貨情況加上所選的運送方式，詳見 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。該公司在其企業資訊中聲明，自己是 400 多個韓國美妝品牌的授權經銷商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：這只是可買品牌的一個樣本，並非封閉的名單，因為商品目錄會隨時間變動。",
           "這個平台也不只有保養品：還有亞洲時尚、彩妝、配件和其他生活風格類別，所以買精華液時，可以在同一筆訂單裡再搭配別的商品。",
-          "想在首購享有折扣的話，有獎勵碼 CECILIA010，在購物車的正確欄位輸入後，結帳時直接折抵（首購優惠較高，之後的訂單較低）。關於如何輸入這個代碼，下方連結了專門的逐步教學。商店的優惠券會變動，目前的清單請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。",
-          "正是這種集中，讓 K-Beauty 從狂熱收藏者的興趣，變成了只想試試傳聞是否屬實的人也能輕鬆接觸的東西。"
+          "想享有折扣，可以使用獎勵碼 CECILIA010：首購 5%，之後每筆 2%，在結帳頁的獎勵碼（Reward Code）欄位輸入。關於如何輸入這個代碼，下方連結了專門的逐步教學。商店的優惠券會變動，目前的清單請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。",
+          "如果只是想試試傳聞是否屬實，把多個品牌放進同一筆訂單，會讓第一次購買更簡單。"
         ],
         "bullets": [],
         "links": [
@@ -43600,10 +43599,10 @@ export const reviewsData: unknown[] = [
         "heading": "關於 K-Beauty 的常見問題",
         "bullets": [
           "K-Beauty 和 J-Beauty（日本美妝）是一回事嗎？不是，儘管這兩個詞經常一起出現。K-Beauty 和 J-Beauty 都非常重視保養，但理念往往不同：J-Beauty 通常與更偏功能性的極簡主義，以及把防曬當作一切的基礎連在一起，而 K-Beauty 更出名的是多層疊擦的 layering 和不斷的成分創新。實際上，兩者可以搭配使用：YesStyle 本身就把 Hada Labo、Rohto 等知名日本品牌和韓國品牌放在一起。",
-          "YesStyle 賣的是正品嗎？該公司在其企業資訊中聲明，自己是授權經銷商，直接向製造商或官方合作夥伴進貨，並且是一家上市公司（YesAsia Holdings）的子公司，企業透明度高於個別轉賣商。即便如此，購買前仍應直接在官網查看正品政策與保障。想深入了解這一點，下方連結了一篇關於這家店可靠性的完整分析。",
-          "CECILIA010 代碼也能用在 K-Beauty 產品嗎？可以，它是商店通用的獎勵碼，不限於某個特定類別：韓國保養品、時尚和商品目錄裡的其他商品都適用。儘管如此，下單前最好在購物車裡確認折扣已正確生效。",
-          "我從沒用過 K-Beauty，要從哪裡開始？COSRX、Innisfree、Beauty of Joseon、Anua、Etude House 和 Some By Mi 等在國際上容易買到的品牌，通常是不錯的入門選擇。新手常用的做法是一次只試一樣產品（溫和的洗面乳、化妝水、精華水），而不是一下子換掉整套流程，這樣有助於觀察肌膚對每個新產品的反應。",
-          "所有 K-Beauty 成分都適合任何膚質嗎？不一定：這對任何保養產品都成立，不只是 K-Beauty。菸鹼醯胺和積雪草等熱門成分，大多數人通常耐受良好，但「大多數」不等於「所有人」。敏感或容易起反應的肌膚，最好先看成分表，避開自己已知會引起反應的成分，新產品先在小範圍試用，再塗到整張臉上，如果有疑問，開始新流程之前請諮詢皮膚科醫師。"
+          "YesStyle 賣的是正品嗎？該公司在其企業資訊中聲明，自己是授權經銷商，直接向製造商或官方合作夥伴進貨，並且是一家上市公司（YesAsia Holdings）的子公司。上市母公司的資訊能說明商店背後是誰，但並不能驗證每一件售出的商品：購買前請直接在官網查看正品政策與保障。想深入了解這一點，下方連結了一篇關於這家店可靠性的完整分析。",
+          "CECILIA010 代碼也能用在 K-Beauty 產品嗎？可以，它是商店的獎勵碼，首購 5%，之後每筆 2%，適用於符合條件的商品，不限於保養品。下單前請在購物車裡確認折扣已生效。",
+          "我從沒用過 K-Beauty，要從哪裡開始？COSRX、Innisfree、Beauty of Joseon、Anua、Etude House 和 Some By Mi 等在國際上容易買到的品牌，通常是不錯的入門選擇。新手常用的做法是一次只試一樣產品（溫和的洗面乳、化妝水、精華水），而不是一下子換掉整套流程，這樣有助於觀察肌膚對每個新產品的反應。簡單的流程也許就夠了。",
+          "所有 K-Beauty 成分都適合任何膚質嗎？不一定，這對任何保養產品都成立。對菸鹼醯胺和積雪草等熱門成分的反應因人而異，也因配方而異。敏感或容易起反應的肌膚，最好先看成分表，避開自己已知會引起反應的成分，[先在小範圍試用](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products)，再塗到整張臉上，如果有疑問，請諮詢皮膚科醫師。"
         ]
       }
     ],
@@ -43627,7 +43626,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-valid-coupon-guide-zh-hant"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 273,
@@ -43645,7 +43645,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "了解什么是 K-Beauty、韩国美妆为何成为全球护肤热潮，以及在哪里可以一站式买到 COSRX、Beauty of Joseon、Anua 等品牌。",
-    "metaDescription": "了解什么是 K-Beauty、为什么它成为全球护肤趋势，以及在哪里用 CECILIA010 代码购买 COSRX、Anua、Beauty of Joseon 等韩国品牌。",
+    "metaDescription": "用奖励码 CECILIA010 在 YesStyle 买 K-Beauty：首单 5%，之后每单 2%。了解什么是 K-Beauty、为何走红，以及哪里买 COSRX、Anua。",
     "publishedAt": "2026年8月25日",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -43662,15 +43662,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "K-Beauty 是韩国多层叠加的护肤流程，新品推出的节奏之快也很出名。在韩国以外，难的是购买：各品牌在各自的网站销售，运费还要重复支付。YesStyle 可以把多个品牌放进同一个购物车；具体怎么做，见“YesStyle 在这里扮演什么角色”。"
+          "K-Beauty 指韩国的化妆品和美妆潮流，从护肤到彩妆。多层叠涂是最广为人知的做法之一，但并非必须，简单的流程也许就够了。在韩国以外，供货因品牌和国家而异；YesStyle 可以把多个品牌放进同一个购物车。"
         ]
       },
       {
         "heading": "什么是 K-Beauty",
         "paragraphs": [
-          "K-Beauty 是韩国多层叠加的护肤流程，每个月都有新品推出。",
-          "这套理念的根源在于：护肤流程不一定要简单直接。在很多地方，“清洁、爽肤、保湿”三步是主流，而韩国的做法讲究 layering（叠层）：叠涂多层相互配合的产品，每一层都有各自的功能。这套流程可以包括双重清洁（先用卸妆油，再用凝胶或泡沫洁面）、爽肤水、精华水、精华液、安瓿和面霜，每一步都是为了给下一步做好准备。",
-          "这套理念来自一种文化观念：护肤被视为必不可少的自我关爱，而不是爱慕虚荣。正因如此，韩国美妆产业是全球最有活力的行业之一，新品和新配方的数量之多，会让习惯了其他地区较慢节奏的人感到惊讶。"
+          "K-Beauty 泛指韩国的化妆品和美妆潮流，涵盖护肤、彩妆和造型，[仁川市](https://www.incheon.go.kr/en/EN010701/2042492)也是这样介绍的。",
+          "最广为人知的做法之一是 layering（叠层）：叠涂多层相互配合的产品，每一层都有各自的功能。这套流程可以包括双重清洁（先用卸妆油，再用凝胶或泡沫洁面）、爽肤水、精华水、精华液、安瓿和面霜。这只是一种选择，不是规定：层数多不等于效果更好，简单的流程也许就够了。[美国皮肤科学会](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month)建议保持流程简单，一次只给皮肤引入一样新产品，并使用防晒。",
+          "在韩国文化中，护肤被视为一种自我关爱，而该国美妆产业推出新品和新配方的节奏很快。"
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -43694,20 +43694,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "有三个因素推动了这股浪潮：韩剧和韩国流行音乐、新品推出的节奏，以及互联网。",
-          "第一个是韩剧和韩国流行音乐的文化影响力。这两者都赢得了庞大的全球观众，也成了韩国美妆文化的活橱窗：当剧中人物在家做护肤的场景出现，或者韩国流行音乐艺人一场接一场舞台上都肌肤无瑕，人们自然会问：“他们是怎么做到的？”答案几乎总是指向他们用的产品。",
-          "第二个因素是韩国美妆品牌自身的文化。有些行业会在多年不变的产品线里安于现状，韩国护肤品牌则不同，它们保持着新品推出和成分创新的节奏，受到国际关注：每个月都有新精华液、新活性成分、新面膜形态出现。再加上价格通常比定位相近的西方奢侈品牌更有竞争力，让人形成了这样的印象：全球最新的护肤技术正来自韩国。",
+          "第一个是韩剧和韩国流行音乐的文化影响力。这两者都赢得了庞大的全球观众，也成了韩国美妆文化的活橱窗：当剧中人物在家做护肤的场景出现，或者韩国流行音乐艺人一场接一场舞台上都肌肤无瑕，人们自然会问：“他们是怎么做到的？”",
+          "第二个因素是韩国美妆品牌自身的文化，它们以新品推出和成分创新的节奏著称：新精华液、新活性成分、新面膜形态层出不穷。再加上价格通常比定位相近的奢侈品牌更低，让人形成了这样的印象：护肤领域的许多新品都来自韩国。",
           "第三个因素纯粹来自互联网：TikTok、YouTube 和 Reddit 等平台上，护肤爱好者社群不断壮大，博主们以真诚的热情展示韩国产品的开箱，测评越来越多，病毒式传播让 K-Beauty 从小众兴趣变成了主流现象。",
-          "归根结底，这个故事很容易理解，所以传播得这么快：韩国有一整个对护肤创新着迷的产业，而如今，在线上就能接触到它。"
+          "[韩国文化体育观光部](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)也指出，这股增长背后有多个因素，其中包括零售商的国际分销。没有哪一个因素能单独解释这股热潮。"
         ],
         "bullets": []
       },
       {
-        "heading": "在韩国以外购买 K-Beauty 的难题",
+        "heading": "在韩国以外购买 K-Beauty 是什么体验",
         "paragraphs": [
-          "既然 K-Beauty 这么热门，为什么在商场或药店里却不那么容易找到？答案在于分销。",
-          "大多数韩国护肤品牌在世界上很多地方都没有自己的门店。一个国际知名的品牌，可能只通过韩国电商或特定市场的少数授权经销商正式销售。对想搭配一整套流程的人来说，这是个实实在在的问题：比如洁面、爽肤水、精华液和面霜，每样来自不同的品牌。",
-          "另一种办法意味着多次结账、重复的运费、不同时间到货，还有汇率和进口税费。购买前，请确认你所在地区现行的规定。",
-          "对很多人来说，让他们打消尝试念头的，是这份麻烦，而不是价格或品质。要逛好几个不同语言的网站，一次又一次支付国际运费，还没有一个统一的地方追踪订单，真的很累人。",
+          "既然 K-Beauty 这么热门，为什么在商场或药店里却不一定容易找到？部分答案在于分销，各国的情况并不相同。",
+          "许多韩国护肤品牌在世界上很多地方都没有自己的门店，供货因品牌和国家而异。一个国际知名的品牌，可能只通过韩国电商或特定市场的少数授权经销商正式销售。对想搭配一整套流程的人来说，这是个实实在在的问题：比如洁面、爽肤水、精华液和面霜，每样来自不同的品牌。",
+          "当每样产品都来自不同的网站，购买可能变成多次结账和多笔运费、不同时间到货，还有汇率和进口税费。购买前，请确认你所在地区现行的规定。",
           "此外，并非每个韩国品牌都直接向亚洲以外销售。有些只在韩国境内销售，这就只能求助于不一定可靠的第三方转卖商，或者使用国际转运服务，而这会增加费用和时间。"
         ],
         "bullets": []
@@ -43715,11 +43714,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "YesStyle 在这里扮演什么角色",
         "paragraphs": [
-          "像 YesStyle 这样的平台，正是解决这个问题的。",
-          "YesStyle 是一个集中式的购物平台：你不用一个品牌一个品牌地找，而是可以把多个韩国品牌，以及日本和亚洲其他地区的品牌，放进同一个购物车，只有一次运费和一个送达时间。该公司在其企业信息中声明，自己是 400 多个韩国美妆品牌的授权经销商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：这只是可买品牌的一个样本，不是封闭的名单，因为产品目录会随时间变化。",
+          "选择之一是在多品牌商店购买，比如 YesStyle。",
+          "YesStyle 是一个集中式的购物平台：你不用一个品牌一个品牌地找，而是可以把多个韩国品牌，以及日本和亚洲其他地区的品牌，放进同一个购物车。运费按商店的运费表计算，订单可能分成多个包裹寄出，到货日期也可能不同；预计送达时间是商品备货情况加上所选的配送方式，详见 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。该公司在其企业信息中声明，自己是 400 多个韩国美妆品牌的授权经销商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：这只是可买品牌的一个样本，不是封闭的名单，因为产品目录会随时间变化。",
           "这个平台也不止护肤：还有亚洲时装、彩妆、配饰和其他生活方式类别，所以买精华液时，可以在同一笔订单里再搭配别的商品。",
-          "想在首单享受折扣的话，有奖励码 CECILIA010，在购物车的正确栏位输入后，结账时直接减价（首单优惠更高，之后的订单较低）。关于如何输入这个代码，下面链接了专门的分步教程。店铺的优惠券会变动，当前的列表见 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。",
-          "正是这种集中，让 K-Beauty 从狂热收藏者的兴趣，变成了只想试试传闻是否属实的人也能轻松接触的东西。"
+          "想享受折扣，可以使用奖励码 CECILIA010：首单 5%，之后每单 2%，在结账页的奖励码（Reward Code）一栏输入。关于如何输入这个代码，下面链接了专门的分步教程。店铺的优惠券会变动，当前的列表见 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。",
+          "如果只是想试试传闻是否属实，把多个品牌放进同一笔订单，会让第一次购买更简单。"
         ],
         "bullets": [],
         "links": [
@@ -43744,10 +43743,10 @@ export const reviewsData: unknown[] = [
         "heading": "关于 K-Beauty 的常见问题",
         "bullets": [
           "K-Beauty 和 J-Beauty（日本美妆）是一回事吗？不是，尽管这两个词经常一起出现。K-Beauty 和 J-Beauty 都非常重视护肤，但理念往往不同：J-Beauty 通常与更偏功能性的极简主义，以及把防晒当作一切的基础联系在一起，而 K-Beauty 更出名的是多层叠加的 layering 和不断的成分创新。实际上，两者可以搭配使用：YesStyle 本身就把 Hada Labo、Rohto 等知名日本品牌和韩国品牌放在一起。",
-          "YesStyle 卖的是正品吗？该公司在其企业信息中声明，自己是授权经销商，直接从制造商或官方合作伙伴进货，并且是一家上市公司（YesAsia Holdings）的子公司，企业透明度高于个体转卖商。即便如此，购买前仍应直接在官网查看正品政策和保障。想深入了解这一点，下面链接了一篇关于这家店可靠性的完整分析。",
-          "CECILIA010 代码也能用于 K-Beauty 产品吗？可以，它是店铺通用的奖励码，不限于某个特定类别：韩国护肤品、时装和目录里的其他商品都适用。尽管如此，下单前最好在购物车里确认折扣已正确生效。",
-          "我从没用过 K-Beauty，从哪里开始？COSRX、Innisfree、Beauty of Joseon、Anua、Etude House 和 Some By Mi 等在国际上容易买到的品牌，通常是不错的入门选择。新手常用的做法是一次只试一样产品（温和的洁面、爽肤水、精华水），而不是一下子换掉整套流程，这样有助于观察皮肤对每个新产品的反应。",
-          "所有 K-Beauty 成分都适合任何肤质吗？不一定：这对任何护肤产品都成立，不只是 K-Beauty。烟酰胺和积雪草等热门成分，大多数人通常耐受良好，但“大多数”不等于“所有人”。敏感或易反应的肌肤，最好先看成分表，避开自己已知会引起反应的成分，新产品先在小范围试用，再涂到整张脸上，如果有疑问，开始新流程之前请咨询皮肤科医生。"
+          "YesStyle 卖的是正品吗？该公司在其企业信息中声明，自己是授权经销商，直接从制造商或官方合作伙伴进货，并且是一家上市公司（YesAsia Holdings）的子公司。上市母公司的信息能说明店铺背后是谁，但并不能验证每一件售出的商品：购买前请直接在官网查看正品政策和保障。想深入了解这一点，下面链接了一篇关于这家店可靠性的完整分析。",
+          "CECILIA010 代码也能用于 K-Beauty 产品吗？可以，它是店铺的奖励码，首单 5%，之后每单 2%，适用于符合条件的商品，不限于护肤。下单前请在购物车里确认折扣已生效。",
+          "我从没用过 K-Beauty，从哪里开始？COSRX、Innisfree、Beauty of Joseon、Anua、Etude House 和 Some By Mi 等在国际上容易买到的品牌，通常是不错的入门选择。新手常用的做法是一次只试一样产品（温和的洁面、爽肤水、精华水），而不是一下子换掉整套流程，这样有助于观察皮肤对每个新产品的反应。简单的流程也许就够了。",
+          "所有 K-Beauty 成分都适合任何肤质吗？不一定，这对任何护肤产品都成立。对烟酰胺和积雪草等热门成分的反应因人而异，也因配方而异。敏感或易反应的肌肤，最好先看成分表，避开自己已知会引起反应的成分，[先在小范围试用](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products)，再涂到整张脸上，如果有疑问，请咨询皮肤科医生。"
         ]
       }
     ],
@@ -43771,7 +43770,8 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-valid-coupon-guide-zh-hans"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 274,
@@ -49641,7 +49641,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Cos’è la K-Beauty, perché la bellezza coreana è diventata una mania globale dello skincare e dove trovare marchi come COSRX, Beauty of Joseon e Anua riuniti in un unico posto.",
-    "metaDescription": "Scopri cos’è la K-Beauty, perché è diventata una tendenza mondiale dello skincare e dove comprare marchi coreani come COSRX, Anua e Beauty of Joseon con il codice CECILIA010.",
+    "metaDescription": "K-Beauty su YesStyle con il codice ricompensa CECILIA010: 5% sul primo acquisto e 2% sui successivi. Cos’è, perché è di tendenza e dove comprare COSRX.",
     "publishedAt": "28 settembre 2026",
     "publishedAtISO": "2026-09-28",
     "draft": false,
@@ -49658,15 +49658,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "La K-Beauty è la routine coreana di skincare a più strati, nota per il ritmo delle novità. Fuori dalla Corea, il difficile è comprare: i marchi vendono su siti separati, con spese di spedizione ripetute. YesStyle ne riunisce molti in un unico carrello; vedi «Dove entra in gioco YesStyle» per capire come funziona."
+          "La K-Beauty è il nome dei cosmetici e delle tendenze di bellezza della Corea, dallo skincare al trucco. La routine a strati è una pratica molto nota, ma non è obbligatoria: una routine semplice può bastare. Fuori dalla Corea l’offerta cambia da marchio a marchio e da paese a paese; YesStyle riunisce molti marchi in un unico carrello."
         ]
       },
       {
         "heading": "Cos’è la K-Beauty",
         "paragraphs": [
-          "La K-Beauty è la routine coreana a strati, con una novità ogni mese.",
-          "La radice di questa filosofia sta nell’idea che una routine di cura della pelle non debba essere semplice e diretta. Mentre in molti posti prevale la logica «detergere, tonificare e idratare» in tre passaggi, l’approccio coreano lavora con il concetto di layering: applicare più strati di prodotti che si completano, ciascuno con una funzione specifica. Questa routine può includere la doppia detersione (uno struccante in olio seguito da un detergente in gel o in schiuma), tonico, essenza, siero, fiala e crema, con ogni passaggio pensato per preparare la pelle al successivo.",
-          "Questa filosofia nasce da un’idea culturale: la cura della pelle è trattata come cura di sé essenziale, non come vanità. Per questo l’industria della bellezza coreana è uno dei motori più dinamici del settore nel mondo, con una quantità di novità e di nuove formulazioni che colpisce chi è abituato al ritmo più lento di altre regioni."
+          "La K-Beauty è il termine che indica i cosmetici e le tendenze di bellezza coreani, dallo skincare al trucco e allo styling, come la descrive la [città di Incheon](https://www.incheon.go.kr/en/EN010701/2042492).",
+          "Una delle pratiche più note è il layering: applicare più strati di prodotti che si completano, ciascuno con una funzione specifica. La routine può includere la doppia detersione (uno struccante in olio seguito da un detergente in gel o in schiuma), tonico, essenza, siero, fiala e crema. È un’opzione, non una regola: più strati non garantiscono un risultato migliore, e una routine semplice può bastare. L’[American Academy of Dermatology](https://www.aad.org/public/public-health/awareness-campaigns/national-healthy-skin-month) consiglia di mantenere la routine semplice, di introdurre un solo prodotto nuovo alla volta e di usare la protezione solare.",
+          "Nella cultura coreana la cura della pelle è vista come cura di sé, e l’industria della bellezza del paese mantiene un ritmo elevato di lanci e di nuove formulazioni."
         ],
         "bullets": [],
         "image": "/images/reviews/cupons/k-beauty-expo-korea.webp",
@@ -49690,20 +49690,19 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Tre fattori hanno spinto l’onda: k-drama e k-pop, il ritmo delle novità e internet.",
-          "Il primo è l’influenza culturale di k-drama e k-pop. Entrambi i fenomeni hanno conquistato enormi pubblici globali e funzionano come una vetrina viva della cultura beauty coreana: quando le scene delle serie mostrano i personaggi nelle loro routine di skincare a casa, o quando gli artisti k-pop appaiono con una pelle impeccabile palco dopo palco, la domanda naturale è «come fanno?». La risposta rimanda quasi sempre ai prodotti che usano.",
-          "Il secondo fattore è la cultura stessa dei marchi coreani di bellezza. A differenza dei settori che si adagiano per anni su un catalogo stabile, i marchi coreani di skincare mantengono un ritmo di lanci e di innovazione sugli ingredienti che attira l’attenzione internazionale: ogni mese compaiono nuovi sieri, nuovi attivi, nuovi formati di maschere. Unito a prezzi in genere più competitivi rispetto ai marchi di lusso occidentali con proposte simili, questo ha creato la percezione che la tecnologia di skincare più recente al mondo arrivi dalla Corea.",
+          "Il primo è l’influenza culturale di k-drama e k-pop. Entrambi i fenomeni hanno conquistato enormi pubblici globali e funzionano come una vetrina viva della cultura beauty coreana: quando le scene delle serie mostrano i personaggi nelle loro routine di skincare a casa, o quando gli artisti k-pop appaiono con una pelle impeccabile palco dopo palco, la domanda naturale è «come fanno?».",
+          "Il secondo fattore è la cultura stessa dei marchi coreani di bellezza, noti per il ritmo dei lanci e dell’innovazione sugli ingredienti: nuovi sieri, attivi e formati di maschere compaiono spesso. Con prezzi in genere più competitivi rispetto ai marchi di lusso con proposte simili, questo ha creato la percezione che buona parte delle novità dello skincare arrivi dalla Corea.",
           "Il terzo fattore è puramente di internet: le community di appassionati di skincare sono cresciute su piattaforme come TikTok, YouTube e Reddit, gli influencer hanno iniziato a mostrare unboxing di prodotti coreani con entusiasmo genuino, le recensioni si sono moltiplicate e la dinamica virale ha trasformato la K-Beauty da interesse di nicchia a fenomeno di massa.",
-          "In fondo, la narrazione è semplice da capire e per questo si è diffusa così in fretta: esiste un’intera industria, dall’altra parte del mondo, ossessionata dall’innovazione nella cura della pelle, e oggi è possibile accedervi online."
+          "Anche il [Ministero della Cultura della Corea](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) descrive più fattori dietro la crescita, tra cui la distribuzione internazionale tramite rivenditori. Nessuno di questi spiega l’onda da solo."
         ],
         "bullets": []
       },
       {
-        "heading": "Il problema di comprare K-Beauty fuori dalla Corea",
+        "heading": "Com’è comprare K-Beauty fuori dalla Corea",
         "paragraphs": [
-          "Se la K-Beauty è così rilevante, perché non è altrettanto facile trovarla in un centro commerciale o in farmacia? La risposta sta nella distribuzione.",
-          "La maggior parte dei marchi coreani di skincare non ha negozi propri in buona parte del mondo. Un marchio noto a livello internazionale può vendere ufficialmente solo attraverso l’e-commerce coreano o pochi distributori autorizzati in mercati specifici. Questo crea un problema reale per chi vuole comporre una routine completa: per esempio un detergente, un tonico, un siero e una crema, ciascuno di un marchio diverso.",
-          "L’alternativa diventa più checkout, spedizioni ripetute, consegne in date diverse, cambio valuta e dazi d’importazione. Verifica la regola in vigore nella tua area prima di comprare.",
-          "Per molte persone è questa fatica, non il prezzo né la qualità, a far desistere dal provare. Navigare su più siti in lingue diverse, pagare più volte la spedizione internazionale e non avere un unico posto dove seguire l’ordine è faticoso.",
+          "Se la K-Beauty è così rilevante, perché non è sempre facile trovarla in un centro commerciale o in farmacia? Parte della risposta sta nella distribuzione, che cambia da paese a paese.",
+          "Molti marchi coreani di skincare non hanno negozi propri in buona parte del mondo, e l’offerta cambia da marchio a marchio e da paese a paese. Un marchio noto a livello internazionale può vendere ufficialmente solo attraverso l’e-commerce coreano o pochi distributori autorizzati in mercati specifici. Questo crea un problema reale per chi vuole comporre una routine completa: per esempio un detergente, un tonico, un siero e una crema, ciascuno di un marchio diverso.",
+          "Quando ogni prodotto viene da un sito diverso, l’acquisto può diventare più checkout e spedizioni, consegne in date diverse, cambio valuta e dazi d’importazione. Verifica la regola in vigore nella tua area prima di comprare.",
           "Inoltre, non tutti i marchi coreani vendono direttamente fuori dall’Asia. Alcuni vendono solo in Corea, il che porta a ricorrere a rivenditori terzi, non sempre affidabili, o a servizi di rispedizione postale internazionale, che aggiungono costi e tempi."
         ],
         "bullets": []
@@ -49711,11 +49710,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dove entra in gioco YesStyle",
         "paragraphs": [
-          "È qui che piattaforme come YesStyle risolvono il problema.",
-          "YesStyle funziona come un marketplace centralizzato: invece di andare di marchio in marchio, acquisti più marchi coreani, e anche giapponesi e di altre parti dell’Asia, in un unico carrello, con una sola spedizione e un'unica tempistica di consegna. L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un esempio del tipo di marchio disponibile, non un elenco chiuso, perché il catalogo cambia nel tempo.",
+          "Una delle opzioni è comprare in un negozio multimarca come YesStyle.",
+          "YesStyle funziona come un marketplace centralizzato: invece di andare di marchio in marchio, acquisti più marchi coreani, e anche giapponesi e di altre parti dell’Asia, in un unico carrello. Le spese di spedizione seguono il tariffario del negozio e l’ordine può partire in più invii, con arrivi in date diverse; il tempo stimato somma la disponibilità degli articoli e il metodo di spedizione scelto, secondo la [politica di consegna di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un esempio del tipo di marchio disponibile, non un elenco chiuso, perché il catalogo cambia nel tempo.",
           "La piattaforma va anche oltre lo skincare: ha moda asiatica, trucco, accessori e altre categorie lifestyle, il che significa che puoi completare l’acquisto di un siero con altri articoli nella stessa transazione.",
-          "Per chi vuole approfittare di uno sconto sul primo acquisto esiste il codice ricompensa CECILIA010, che dà uno sconto diretto al checkout (maggiore sul primo acquisto, minore sui successivi) se inserito nel campo giusto del carrello. C’è una guida passo passo specifica su come applicare il codice, linkata qui sotto. I coupon del negozio cambiano; l’elenco del momento è in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
-          "Questa centralizzazione è ciò che ha permesso alla K-Beauty di passare dall’interesse di collezionisti appassionati a qualcosa di accessibile per chi vuole solo provare se la fama è reale."
+          "Per ottenere uno sconto c’è il codice ricompensa CECILIA010: 5% sul primo acquisto e 2% sui successivi, da inserire nel campo del codice ricompensa (Reward Code) al checkout. La guida passo passo per applicare il codice è linkata qui sotto. I coupon del negozio cambiano; l’elenco del momento è in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
+          "Per chi vuole solo provare se la fama è reale, riunire più marchi in un solo ordine semplifica il primo acquisto."
         ],
         "bullets": [],
         "links": [
@@ -49740,10 +49739,10 @@ export const reviewsData: unknown[] = [
         "heading": "Domande frequenti sulla K-Beauty",
         "bullets": [
           "La K-Beauty è la stessa cosa della J-Beauty (bellezza giapponese)? No, anche se i due termini compaiono spesso insieme. K-Beauty e J-Beauty condividono una forte attenzione alla cura della pelle, ma le filosofie tendono a essere diverse: la J-Beauty è di solito associata a un minimalismo più funzionale e alla protezione solare come base di tutto, mentre la K-Beauty è più nota per il layering a più strati e per la costante innovazione sugli ingredienti. In pratica si possono combinare: la stessa YesStyle riunisce marchi giapponesi noti come Hada Labo e Rohto accanto a quelli coreani.",
-          "YesStyle vende prodotti originali? L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato, che acquista direttamente dai produttori o da partner ufficiali, ed è controllata da una società quotata in borsa (YesAsia Holdings), il che porta un livello di trasparenza societaria superiore a quello di un rivenditore isolato. Resta comunque sempre buona norma controllare la politica di autenticità e garanzia direttamente sul sito ufficiale prima di comprare. Se vuoi approfondire questo punto, abbiamo un’analisi completa sull’affidabilità del negozio linkata qui sotto.",
-          "Il codice CECILIA010 funziona anche per i prodotti di K-Beauty? Sì, è un codice ricompensa generale del negozio, non limitato a una categoria specifica: vale sia per lo skincare coreano sia per la moda e gli altri articoli del catalogo. Resta comunque buona idea controllare nel carrello che lo sconto sia stato applicato correttamente prima di chiudere l’ordine.",
-          "Da dove comincio se non ho mai usato K-Beauty? I marchi con grande disponibilità internazionale, come COSRX, Innisfree, Beauty of Joseon, Anua, Etude House e Some By Mi, sono in genere buoni punti di ingresso. Una strategia comune per chi comincia è provare un prodotto alla volta (un detergente delicato, un tonico, un’essenza) invece di cambiare tutta la routine in una volta, il che aiuta a capire come risponde la pelle a ogni novità.",
-          "Ogni ingrediente K-Beauty va bene per qualsiasi tipo di pelle? Non necessariamente: vale per qualsiasi prodotto di skincare, non solo per la K-Beauty. Ingredienti popolari come niacinamide e centella asiatica sono in genere ben tollerati dalla maggior parte delle persone, ma «la maggior parte» non è «tutti». Chi ha la pelle sensibile o reattiva fa bene a leggere l’elenco degli ingredienti, a evitare ciò che sa già causare una reazione, a provare un prodotto nuovo su una piccola area prima di applicarlo su tutto il viso e, in caso di dubbio, a consultare un dermatologo prima di iniziare una nuova routine."
+          "YesStyle vende prodotti originali? L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato, che acquista direttamente dai produttori o da partner ufficiali, ed è controllata da una società quotata in borsa (YesAsia Holdings). La quotazione della controllante mostra chi c’è dietro il negozio, ma non autentica ogni singola unità venduta. Controlla quindi la politica di autenticità e garanzia direttamente sul sito ufficiale prima di comprare. Se vuoi approfondire questo punto, abbiamo un’analisi completa sull’affidabilità del negozio linkata qui sotto.",
+          "Il codice CECILIA010 funziona anche per i prodotti di K-Beauty? Sì. È un codice ricompensa del negozio, con 5% sul primo acquisto e 2% sui successivi sugli articoli idonei, e non si limita allo skincare. Controlla nel carrello che lo sconto sia stato applicato prima di chiudere l’ordine.",
+          "Da dove comincio se non ho mai usato K-Beauty? I marchi con grande disponibilità internazionale, come COSRX, Innisfree, Beauty of Joseon, Anua, Etude House e Some By Mi, sono in genere buoni punti di ingresso. Una strategia comune per chi comincia è provare un prodotto alla volta (un detergente delicato, un tonico, un’essenza) invece di cambiare tutta la routine in una volta, il che aiuta a capire come risponde la pelle a ogni novità. Una routine semplice può bastare.",
+          "Ogni ingrediente K-Beauty va bene per qualsiasi tipo di pelle? Non necessariamente, e vale per qualsiasi prodotto di skincare. La reazione a ingredienti popolari come niacinamide e centella asiatica varia da persona a persona e da formula a formula. Chi ha la pelle sensibile o reattiva fa bene a leggere l’elenco degli ingredienti, a evitare ciò che sa già causare una reazione, a [provare il prodotto su una piccola area](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products) prima di applicarlo su tutto il viso e, in caso di dubbio, a consultare un dermatologo."
         ]
       }
     ],
@@ -49767,7 +49766,8 @@ export const reviewsData: unknown[] = [
         "slug": "come-trovare-codici-sconto-yesstyle-validi"
       }
     ],
-    "translationKey": "yesstyle-kbeauty"
+    "translationKey": "yesstyle-kbeauty",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 313,
