@@ -32408,6 +32408,7 @@ export const reviewsData: unknown[] = [
     "description": "A história, as variações e os detalhes que explicam por que a rabanada virou um clássico afetivo da mesa brasileira.",
     "publishedAt": "20 Abr 2026",
     "publishedAtISO": "2026-04-20",
+    "updatedAt": "2026-11-06",
     "image": "/images/reviews/rabanada/rabanada-capa-discover.webp",
     "imageAlt": "Rabanada recheada de doce de leite aberta nas mãos da Cecília e fatias de pão fritando na panela",
     "imageFit": "contain",
@@ -32425,20 +32426,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A rabanada nasceu do aproveitamento do pão amanhecido, virou doce de Natal em Portugal e chegou ao Brasil com os portugueses. Pão francês amanhecido, imersão sem encharcar e fritura dão o resultado clássico; veja \"Qual pão usar na rabanada\" e \"Variações para testar\"."
+          "A rabanada nasceu do aproveitamento do pão amanhecido, e a origem exata é incerta. Em Portugal, virou doce de Natal e chegou ao Brasil com os portugueses. Pão francês amanhecido, imersão rápida sem encharcar e fritura dão o resultado clássico, como na nossa [rabanada com doce de leite](/receitas/rabanada-com-doce-de-leite)."
         ]
       },
       {
         "heading": "Origem da rabanada",
         "paragraphs": [
-          "A rabanada nasceu do aproveitamento do pão velho, comum em tempos de escassez. Acredita-se que tenha surgido em tradições antigas de reaproveitamento, nas quais o pão envelhecido era mergulhado em leite e ovos antes de ser frito, criando uma forma deliciosa de transformar um alimento simples.",
-          "Na França, essa lógica ficou conhecida como pain perdu, ou pão perdido. Em Portugal, de onde herdamos a tradição, a rabanada se tornou um doce natalino por volta do século XV. Os portugueses acrescentaram elementos próprios à receita, como vinho do Porto e especiarias, criando versões próximas das que conhecemos hoje.",
+          "A origem da rabanada é incerta, e há mais de uma versão. O que as fontes têm em comum é o aproveitamento do pão velho, mergulhado em leite e ovos e depois frito. O jornal português [Observador](https://observador.pt/especiais/doces-salgadas-tradicionais-ou-com-carimbo-michelin-as-rabanadas-estao-na-moda-e-sao-servidas-o-ano-inteiro/) atribui a primeira receita conhecida ao romano Apício; o livro de cozinha francês Le Viandier, de por volta de 1300, já trazia fatias douradas desse tipo; e, para a [Slate](http://www.slate.com/articles/news_and_politics/explainer/2003/09/is_french_toast_really_french.html), os historiadores não concordam que a receita seja só francesa.",
+          "Na França, o preparo ficou conhecido como pain perdu, ou pão perdido. Em Portugal, de onde herdamos o costume, o nome muda com a região, como fatias douradas e fatias paridas, e o doce é presença nas mesas de Natal, muitas vezes com calda de vinho do Porto e especiarias. Não achamos registro seguro da época em que ele virou doce de Natal por lá.",
           "No Brasil, a rabanada chegou com os colonizadores portugueses e se adaptou ao nosso paladar. Aqui, é tradicionalmente servida no Natal, mas também aparece durante todo o ano em padarias, cafés e mesas de família."
         ],
         "image": {
           "src": "/images/reviews/rabanada/rabanada-caminho-ilustracao.webp",
           "alt": "Ilustração em quatro etapas: tradição antiga de reaproveitar o pão velho; França, o pain perdu; Portugal, por volta do século XV, doce de Natal com vinho do Porto e especiarias; Brasil, trazida pelos portugueses e servida no Natal e o ano todo",
-          "caption": "Do pão velho reaproveitado ao doce de Natal brasileiro, com os fatos deste artigo. Ilustração do Em Casa com Cecília.",
+          "caption": "Do pão velho reaproveitado ao doce de Natal brasileiro. O século XV de Portugal na ilustração é aproximado: não há registro seguro dessa data. Ilustração do Em Casa com Cecília.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -32460,7 +32461,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A imersão: leite, ovos e especiarias",
         "paragraphs": [
-          "Leite, ovos e açúcar deixam a rabanada macia; canela e noz-moscada dão o aroma.",
+          "Na nossa [rabanada com doce de leite](/receitas/rabanada-com-doce-de-leite), o pão passa 2 a 3 segundos na mistura de leite com leite condensado e depois vai ao ovo batido, que cobre a fatia e segura a fritura. Em outras receitas, leite, ovos e açúcar são batidos juntos numa mistura só, como nas [rabanadas gourmet com sorvete de canela](/receitas/rabanadas-gourmet-com-sorvete-de-canela). Canela e noz-moscada dão o aroma.",
           "O segredo é mergulhar sem encharcar: absorve bem e o pão não desmancha na fritura."
         ],
         "image": {
@@ -32474,7 +32475,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fritura e finalização",
         "paragraphs": [
-          "Fritar a rabanada é o segredo para deixá-la crocante por fora e macia por dentro. Aqueça óleo ou manteiga em uma frigideira e frite as fatias até que fiquem douradas e crocantes. Depois, escorra o excesso em papel toalha para garantir que a rabanada fique sequinha.",
+          "Fritar a rabanada é o segredo para deixá-la crocante por fora e macia por dentro. Aqueça óleo ou manteiga em uma frigideira (na nossa receita, o óleo vai a cerca de 180 °C) e frite poucas fatias por vez, até que fiquem douradas e crocantes. Depois, escorra o excesso em papel toalha para garantir que a rabanada fique sequinha.",
           "Passe as rabanadas fritas no açúcar com canela para finalizar."
         ],
         "images": [
@@ -32520,6 +32521,20 @@ export const reviewsData: unknown[] = [
           "Pão brioche para uma rabanada mais macia e sofisticada.",
           "Cada região tem sua própria versão: pain perdu na França, eggy bread na Inglaterra e french toast nos Estados Unidos, todas com a mesma base de reaproveitamento do pão."
         ]
+      }
+    ],
+    "relatedArticles": [
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
+      },
+      {
+        "slug": "panetone-belive-e-bom"
+      },
+      {
+        "slug": "presente-natal-quem-gosta-de-cozinhar"
+      },
+      {
+        "slug": "airfryer-uma-breve-historia"
       }
     ]
   },
