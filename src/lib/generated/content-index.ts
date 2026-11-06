@@ -28838,8 +28838,8 @@ export const reviewsData: unknown[] = [
       "Base elétrica com giro de 180° e balanço suave (modelo testado)",
       "Motor independente de cabeça e pescoço que melhora o apoio para ler ou ver TV",
       "Acessórios modulares (luminária touch, suporte de tablet e mesa giratória)",
-      "Revestimento em Courino Importado praticamente impermeável e fácil de limpar",
-      "Estrutura robusta com capacidade informada de até 160 kg",
+      "Revestimento em Courino Importado praticamente impermeável: nos nossos testes, líquidos saíram com pano",
+      "Estrutura em eucalipto e compensado naval, com mecanismo em aço carbono",
       "Sistema de massagem por vibração silencioso no uso diário"
     ],
     "cons": [
@@ -28847,7 +28847,7 @@ export const reviewsData: unknown[] = [
       "Opcionais de tecnologia (motores extras, massagem e indução) encarecem o produto",
       "Exige uma tomada próxima na sala para alimentar os motores elétricos"
     ],
-    "pullQuote": "Parece um abraço ou um colo de mãe. A poltrona Damie 2.0 une o relaxamento da reclinação elétrica silenciosa com a praticidade de uma mesa giratória e revestimento impermeável.",
+    "pullQuote": "Parece um abraço ou um colo de mãe. A poltrona Damie 2.0 une o relaxamento da reclinação elétrica silenciosa com a praticidade de uma mesa giratória e revestimento praticamente impermeável.",
     "verdict": {
       "stars": 5,
       "recommendation": "recomendo",
@@ -28879,8 +28879,8 @@ export const reviewsData: unknown[] = [
         "value": "174 cm na posição quase deitada"
       },
       {
-        "key": "Capacidade Máxima",
-        "value": "160 kg"
+        "key": "Capacidade",
+        "value": "150 kg nas versões elétricas e manuais e 160 kg na versão com elevação, segundo o guia da Damie"
       },
       {
         "key": "Cupom de Desconto",
@@ -28889,14 +28889,14 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Siga para a loja oficial da Damie, monte a sua Poltrona Damie 2.0 e economize 12% com o cupom CECILIA12.",
-      "label": "Seguir para a loja oficial da Damie",
+      "text": "Monte a sua Poltrona Damie 2.0 no site da Damie e economize 12% nos produtos com o cupom CECILIA12.",
+      "label": "Ver a Poltrona Damie 2.0 no nosso guia da Damie",
       "url": "https://damie.emcasacomcecilia.com",
       "sponsored": true
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Baseado no nosso uso. O CECILIA12 é parceria com a Damie e pode render comissão.",
+    "editorialNote": "Poltrona recebida em parceria com a Damie. A compra pelo código CECILIA12 pode gerar comissão, sem custo extra para você.",
     "relatedArticles": [
       {
         "slug": "sofa-damie-modular-vale-a-pena"
@@ -28919,7 +28919,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que é a Poltrona Reclinável Damie 2.0",
         "paragraphs": [
           "Para sala de TV, cinema em casa e amamentação, a Damie 2.0 é a reclinável que você monta sob medida. Ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
-          "É possível escolher o tipo de base (manual ou elétrica com balanço), o revestimento e acessórios como carregador, luminária touch e massageador. Em nossa experiência inicial, a ergonomia se mostrou muito confortável para salas de TV, home cinemas, quartos de bebê e cantos de leitura. Com o cupom Damie CECILIA12, você garante 12% de desconto no valor total do carrinho."
+          "É possível escolher o tipo de base (manual ou elétrica com balanço), o revestimento e acessórios como carregador, luminária touch e massageador. Em nossa experiência inicial, a ergonomia se mostrou muito confortável para salas de TV, home cinemas, quartos de bebê e cantos de leitura. Com o [cupom CECILIA12](/cupons/damie), você garante 12% de desconto nos produtos (o frete fica de fora)."
         ],
         "bullets": [
           "Personalização total: escolha do mecanismo, revestimentos, cores e acessórios tecnológicos.",
@@ -28936,15 +28936,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nossa Experiência Real",
         "paragraphs": [
-          "Recebemos a Poltrona Damie 2.0 há menos de um mês e, desde então, ela vem sendo usada todos os dias por todos aqui de casa e também por nossas visitas. Nossa configuração é elétrica, com giro e balanço, revestida em Courino Importado caramelo.",
+          "Recebemos a Poltrona Damie 2.0 em parceria pouco antes de publicar este review e, desde então, ela vem sendo usada todos os dias por todos aqui de casa e também por nossas visitas. Nossa configuração é elétrica, com giro e balanço, revestida em Courino Importado caramelo.",
           "Nessas primeiras semanas, a poltrona superou nossas expectativas de conforto. O motor elétrico de reclinação opera com ruído quase imperceptível, o que é ótimo para assistir a filmes ou ler à noite. Para nós, a combinação de giro e balanço com o revestimento praticamente impermeável transformou a poltrona em um refúgio depois de um dia corrido.",
           "Usamos a configuração completa, com todos os opcionais do capítulo de acessórios abaixo. Todos foram úteis na rotina, mas a massagem foi a favorita da Cecília.",
-          "Entre a emissão da nota fiscal e a chegada da poltrona passaram aproximadamente 15 dias corridos. A experiência de entrega foi ágil para um móvel produzido de forma personalizada.",
-          "As condições comerciais foram verificadas em 24 de outubro de 2026: o código CECILIA12 oferece 12% de desconto em todo o catálogo e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros, com parcela mínima de R$ 100, e frete grátis para poltronas e sofás no Sul e no Sudeste; nas outras regiões, o frete sai pelo CEP. Essas condições podem ser alteradas pela fabricante."
+          "Entre a emissão da nota fiscal e a chegada da poltrona passaram aproximadamente 15 dias corridos. Esse foi o nosso caso, não um prazo garantido; a entrega foi ágil para um móvel produzido de forma personalizada.",
+          "As condições comerciais foram verificadas em 24 de outubro de 2026: o código CECILIA12 oferece 12% de desconto nos produtos (não no frete) e pode ser acumulado com mais 10% no PIX. A marca também informa parcelamento em até 12 vezes sem juros, com parcela mínima de R$ 100, e frete grátis para poltronas e sofás no Sul e no Sudeste. Norte e Nordeste são atendidos pelo Mercado Livre, onde o CECILIA12 não vale. Essas condições podem ser alteradas pela fabricante."
         ],
         "bullets": [
           "Conforto ergonômico excepcional com sensação de 'abraço' acolhedor.",
-          "12% de desconto no carrinho aplicando o código CECILIA12."
+          "12% de desconto nos produtos aplicando o código CECILIA12 no site da Damie."
         ]
       },
       {
@@ -29050,7 +29050,7 @@ export const reviewsData: unknown[] = [
         "heading": "Estrutura e Construção",
         "paragraphs": [
           "A estrutura combina madeira tratada de eucalipto com compensado naval, que a Damie escolheu pela resistência à umidade e estabilidade.",
-          "A fabricante também informa que o mecanismo de reclinação em aço carbono suporta até 160 kg. Durante nossas primeiras semanas de uso, não percebemos estalos, rangidos ou trepidações nas transições de movimento; a durabilidade de longo prazo ainda será acompanhada."
+          "A Damie informa que o mecanismo de reclinação é em aço carbono. Segundo o guia da marca, a capacidade é de 150 kg nas versões elétricas e manuais e de 160 kg na versão com elevação. Durante nossas primeiras semanas de uso, não percebemos estalos, rangidos ou trepidações nas transições de movimento; a durabilidade de longo prazo ainda será acompanhada."
         ],
         "bullets": [],
         "image": "/images/reviews/damie/poltrona-damie-2-0-estrutura.webp",
@@ -29072,19 +29072,20 @@ export const reviewsData: unknown[] = [
           "Reunimos as principais dúvidas dos leitores sobre a poltrona de relaxamento da Damie:"
         ],
         "bullets": [
-          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout da loja oficial da Damie para garantir 12% de desconto em todo o catálogo, incluindo produtos e opcionais. O código pode ser acumulado com mais 10% no PIX. Condições sujeitas a alteração pela fabricante.",
+          "Como funciona o cupom CECILIA12 na Damie? Digite CECILIA12 no checkout do site da Damie ([veja o cupom CECILIA12](/cupons/damie)) para garantir 12% de desconto nos produtos e opcionais, sem incluir o frete. O código pode ser acumulado com mais 10% no PIX. Condições sujeitas a alteração pela fabricante.",
           "O Em Casa com Cecília possui parceria com a Damie? Sim: o CECILIA12 é da nossa parceria com a Damie e pode gerar comissão, sem custo extra para você.",
           "Qual a poltrona indicada para quem tem mais de 1,85m? A Damie disponibiliza o opcional 'Encosto Fixo Mais Alto', que aumenta a altura do encosto da poltrona para acomodar pessoas mais altas com apoio completo de cabeça.",
           "A poltrona Damie 2.0 elétrica precisa de bateria? Ela funciona ligada diretamente na tomada através de uma fonte bivolt. O ideal é posicioná-la próxima a uma tomada de energia na sala.",
           "Como funciona a garantia do fabricante? A Damie informa 1 ano de garantia contra defeitos de fabricação na estrutura de madeira e nas ferragens metálicas, além de suporte vitalício. Condição sujeita aos termos vigentes da fabricante.",
-          "O tecido de Courino Importado da poltrona esquenta? O material é de alta qualidade e possui toque mais ameno, mas por ser impermeável ele troca menos calor que o linho. É ideal para salas com climatização ou ar condicionado."
+          "O tecido de Courino Importado da poltrona esquenta? O material é de alta qualidade e possui toque mais ameno, mas por ser praticamente impermeável ele troca menos calor que o linho. É ideal para salas com climatização ou ar condicionado."
         ]
       }
     ],
     "video": {
       "mp4": "/videos/reviews/damie/poltrona-reclinavel-damie-2-0-hero-loop.mp4",
       "poster": "/images/reviews/poltrona-reclinavel-2-0-cecilia-sentada.webp"
-    }
+    },
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 25,
@@ -34519,15 +34520,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e devolução em 7 dias prevista no CDC. O ponto de atenção é a assistência das máquinas, que é da Arno e não da Nestlé. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Sim, a NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil, com CNPJ público, SAC e direito de arrependimento de 7 dias previsto no CDC. Em defeito de máquina, os termos indicam a Nestlé (SAC) e a assistência do fabricante, a Arno. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
-          "O ponto de atenção é a assistência: máquinas são da Arno, pedidos e cápsulas da Nestlé.",
           "A NESCAFÉ Dolce Gusto no Brasil é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52, o mesmo registro usado por outras marcas Nestlé no país, incluindo a Nestlé Nutre. Não é uma loja terceirizada: é um canal de venda direta de uma multinacional com décadas de operação no Brasil.",
-          "O atendimento ao consumidor é feito pelo SAC 0800-776-2233, WhatsApp e formulário de contato no site oficial (nescafe-dolcegusto.com.br). Um detalhe pouco conhecido: as máquinas são fabricadas pela Arno (Groupe Seb), que mantém assistência técnica própria pelo telefone (11) 2060-9777, separada do atendimento da Nestlé sobre pedidos e cápsulas."
+          "O atendimento ao consumidor é feito pelo SAC 0800-776-2233, WhatsApp e formulário de contato no site oficial (nescafe-dolcegusto.com.br). As máquinas são fabricadas pela Arno (Groupe Seb), que mantém assistência técnica própria pelo telefone (11) 2060-9777. Os termos da loja indicam os dois caminhos para a máquina: o atendimento da Nestlé e o fabricante."
         ],
         "bullets": []
       },
@@ -34542,8 +34542,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O arrependimento segue o CDC: até 7 dias corridos após o recebimento, com devolução na embalagem original e nota fiscal. Em caso de defeito de fabricação da máquina, o contato correto é com a Nestlé (SAC ou e-mail) ou diretamente com a assistência técnica da Arno: vale saber isso de antemão para não perder tempo no canal errado.",
-          "A entrega tem prazo de até 30 dias úteis, feita por transportadoras parceiras (Correios, Jadlog, Total Express, entre outras) com rastreamento por código enviado por e-mail. O cadastro no site é exclusivo para maiores de 18 anos residentes no Brasil, e a nota fiscal é enviada apenas por chave de acesso eletrônica, sem via impressa."
+          "O arrependimento segue o CDC: até 7 dias corridos após o recebimento. As condições para devolver (embalagem original, nota fiscal e produto sem sinais de uso) são da política da loja, e não exigências literais da lei. Em defeito de fabricação da máquina, você pode falar com a Nestlé (SAC ou e-mail) ou direto com a assistência técnica da Arno, conforme o seu caso.",
+          "Os termos falam em processamento em até 48 horas, contadas da emissão da nota fiscal, e entrega em até 30 dias úteis, contados da confirmação do pedido por e-mail ou da separação. Por isso, vale conferir o prazo informado no seu pedido. A entrega é feita por transportadoras parceiras (Correios, Jadlog, Total Express, entre outras), com rastreamento por código enviado por e-mail. O cadastro no site é exclusivo para maiores de 18 anos residentes no Brasil, e a nota fiscal é enviada apenas por chave de acesso eletrônica, sem via impressa."
         ],
         "bullets": []
       },
@@ -34554,7 +34554,8 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Confirme se está no domínio oficial (nescafe-dolcegusto.com.br) antes de finalizar a compra.",
-          "Para defeito de máquina, o primeiro contato pode ser direto com a assistência técnica da Arno, muitas vezes mais rápido que abrir chamado pela Nestlé.",
+          "Para defeito de máquina, você pode procurar a Nestlé (SAC ou e-mail) ou a assistência técnica da Arno, conforme o caso.",
+          "Confira no pedido o prazo de entrega informado: os termos contam os 30 dias úteis da confirmação por e-mail ou da separação.",
           "Brindes, frete grátis e cupons de outros perfis (Instagram, influenciadores) costumam ser promoções pontuais: sempre confira a vigência no carrinho.",
           "O cupom CECI exige valor mínimo de R$ 100 em produtos elegíveis; confira o subtotal antes de aplicar.",
           "Guarde a chave de acesso da nota fiscal recebida por e-mail: não há via impressa enviada com o pedido."
@@ -34564,8 +34565,8 @@ export const reviewsData: unknown[] = [
         "heading": "Dá para confiar na Dolce Gusto?",
         "paragraphs": [
           "Sim, pelos dados públicos. A NESCAFÉ Dolce Gusto é operada pela Nestlé Brasil Ltda, CNPJ 60.409.075/0001-52, e vende pelo site oficial, não por uma loja terceirizada.",
-          "Confira antes de comprar: SAC 0800-776-2233, devolução em 7 dias e entrega em até 30 dias úteis com rastreio por e-mail.",
-          "O ponto de atenção é a máquina: a assistência técnica é da Arno, pelo telefone (11) 2060-9777, e não da Nestlé. Em caso de defeito, vale começar por ela."
+          "Confira antes de comprar: SAC 0800-776-2233, devolução em 7 dias (direito de arrependimento) e o prazo de entrega informado no pedido, com rastreio por e-mail.",
+          "Para a máquina, há dois caminhos: o atendimento da Nestlé e a assistência técnica da Arno, pelo telefone (11) 2060-9777. Use o que for mais direto para o seu caso."
         ]
       },
       {
@@ -34574,7 +34575,7 @@ export const reviewsData: unknown[] = [
         "imageAlt": "Cupons promocionais NESCAFÉ Dolce Gusto: frete grátis, 10% OFF, meses de streaming, R$100 em delivery e vale-presente, ao lado das cápsulas Starbucks, Nescafé Gold, Copenhagen e da máquina neo",
         "imageFit": "cover",
         "paragraphs": [
-          "O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. Por meio dela, o cupom CECI garante 10% de desconto em compras acima de R$100 no site oficial, válido para cápsulas, máquinas e acessórios. O desconto é concedido pela marca e não representa custo adicional para quem compra."
+          "O Em Casa com Cecília mantém uma parceria comercial com a NESCAFÉ Dolce Gusto. Por meio dela, o cupom CECI garante 10% de desconto em compras a partir de R$ 100 no site oficial, válido para cápsulas, máquinas e acessórios. O desconto é concedido pela marca e não representa custo adicional para quem compra."
         ],
         "bullets": [],
         "links": [
@@ -34588,11 +34589,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Dolce Gusto é da mesma empresa que a Nestlé? Sim, é operada pela Nestlé Brasil Ltda, sob o CNPJ 60.409.075/0001-52, o mesmo usado por outras marcas Nestlé no país.",
-          "Quem fabrica as máquinas Dolce Gusto? As máquinas são fabricadas pela Arno (Groupe Seb), que também presta assistência técnica própria, separada do atendimento da Nestlé.",
-          "Qual o prazo de entrega da Dolce Gusto? Até 30 dias úteis, calculado a partir da separação do pedido, com rastreamento por código enviado por e-mail.",
-          "Como funciona a devolução na Dolce Gusto? Até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, conforme o direito de arrependimento do CDC.",
+          "Quem fabrica as máquinas Dolce Gusto? As máquinas são fabricadas pela Arno (Groupe Seb), que também mantém assistência técnica própria. Para defeito, os termos da loja indicam o atendimento da Nestlé e o fabricante.",
+          "Qual o prazo de entrega da Dolce Gusto? Os termos falam em até 30 dias úteis, contados da confirmação do pedido por e-mail ou da separação; confira o prazo informado no seu pedido. O rastreamento vem por código enviado por e-mail.",
+          "Como funciona a devolução na Dolce Gusto? Você tem 7 dias corridos após o recebimento, conforme o direito de arrependimento do CDC. As condições operacionais, como embalagem original e nota fiscal, seguem a política da loja.",
           "A Dolce Gusto entrega nota fiscal impressa? Não. A nota fiscal é emitida eletronicamente e enviada por e-mail apenas com a chave de acesso, sem via impressa no pacote.",
-          "O cupom CECI muda o preço final do produto? Não. O desconto é concedido pela marca e não representa custo adicional para quem compra."
+          "O cupom CECI tem custo extra para quem compra? Não. O CECI dá 10% de desconto em compras a partir de R$ 100, concedido pela marca, e a parceria não representa custo adicional para quem compra."
         ]
       }
     ],
@@ -34615,7 +34616,8 @@ export const reviewsData: unknown[] = [
         "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
       }
     ],
-    "imageAspect": "square"
+    "imageAspect": "square",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 221,
@@ -34987,7 +34989,7 @@ export const reviewsData: unknown[] = [
           "O site oficial diz que o Cobertor IWS Igloo reúne seis tecnologias próprias da marca:"
         ],
         "bullets": [
-          "ICE-FEEL FIBER SYSTEM: fibras de poliamida no lado frio, que a marca descreve como capazes de dissipar o calor corporal a até 3°C abaixo da temperatura ambiente.",
+          "ICE-FEEL FIBER SYSTEM: fibras de poliamida no lado frio que, segundo a marca, dissipam o calor corporal e deixam o toque 3°C abaixo da temperatura ambiente.",
           "WARM-FEEL FIBER SYSTEM: fibras de poliéster no lado quente, projetadas para reter o calor corporal de forma controlada.",
           "DUAL-FACE TECHNOLOGY: a possibilidade de virar o cobertor para alternar entre a sensação fria e a quente.",
           "SILK-GLIDE SURFACE: acabamento de superfície com textura sedosa nos dois lados.",
@@ -35038,7 +35040,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Preço e estoque mudam com as promoções, então confira a disponibilidade no site antes de fechar o pedido. No checkout, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 noites: se o produto não agradar, é possível solicitar reembolso em crédito na loja."
+          "Em 24/10/2026, no site oficial, o Cobertor IWS Igloo custava R$ 997,00 no tamanho Casal/Queen (preço original de R$ 1.099,00, esgotado naquele dia) e R$ 1.197,00 no King/Super King (de R$ 1.299,00). Preço e estoque mudam com as promoções, então confira a disponibilidade no site antes de fechar o pedido. No checkout, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) CECIEMCASA garante 10% de desconto adicional nos produtos elegíveis. A marca também oferece um teste de 30 dias em casa para compras no site oficial: se o produto não agradar, você recebe um crédito para trocar por outro produto do site."
         ],
         "bullets": [],
         "links": [
@@ -35056,11 +35058,11 @@ export const reviewsData: unknown[] = [
           "O cobertor Igloo tem tamanho casal ou queen? Sim, no tamanho Casal/Queen; há também King/Super King. As medidas e os pesos estão no capítulo Tamanhos disponíveis.",
           "Como lavar o Cobertor IWS Igloo? A no máximo 30°C, à mão ou à máquina, sem alvejante, sem ferro e sem lavagem a seco, com secagem natural, à sombra.",
           "O cupom CECIEMCASA vale para o Igloo? Sim, garante 10% de desconto adicional nos produtos elegíveis no checkout do site oficial.",
-          "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? Sim, o ano todo, graças à tecnologia Dual-Face. No verão ou para quem esquenta, use o lado frio (ICE-FEEL FIBER SYSTEM), que dissipa o calor do corpo, diz a marca. No inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. A proposta é dispensar a troca de cobertor entre as estações, sendo uma solução prática para casais com temperaturas corporais diferentes.",
-          "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Essa é uma das propostas principais do produto. Como o cobertor tem lado frio e lado quente, cada pessoa pode posicionar sua metade do corpo sobre a face que preferir. Além disso, o Balance System distribui o peso de forma uniforme, evitando que o cobertor se acumule de um lado só. Segundo a marca, a tecnologia Air-Flow também reduz a sensação de 'abafamento' comum em cobertores tradicionais.",
-          "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? Não. O peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem causar pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande, o que resulta em uma pressão leve e reconfortante, sem a sensação de esmagamento de cobertores muito pesados.",
-          "Posso usar o Cobertor IWS Igloo com lençol ou é melhor em contato direto com a pele? O fabricante recomenda usar o cobertor sobre o lençol, como cobertor final, para proteger as fibras tecnológicas das duas faces. No entanto, a superfície Silk-Glide é sedosa e confortável, então o uso direto sobre a pele não causa irritação. Para prolongar a vida útil e manter as propriedades térmicas intactas, a melhor prática é usar com lençol e lavar o Igloo apenas quando necessário.",
-          "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece um teste de 30 noites para o Cobertor IWS Igloo. Se você não se adaptar ao produto dentro desse prazo, pode solicitar reembolso em crédito na loja. O cobertor deve estar em boas condições de uso, sem manchas ou danos. É importante ler os termos completos da política de teste no site oficial e guardar a embalagem original durante esse período."
+          "O Cobertor IWS Igloo é bom para usar no inverno ou só no verão? A proposta da marca é que sirva o ano todo: no verão ou para quem esquenta, o lado frio (ICE-FEEL FIBER SYSTEM) dissipa o calor do corpo, diz a marca; no inverno ou para quem sente frio, o lado quente (WARM-FEEL FIBER SYSTEM) retém o calor de forma controlada. A ideia é dispensar a troca de cobertor entre as estações.",
+          "O Cobertor IWS Igloo funciona para casais com temperaturas diferentes? Essa é uma das propostas do produto: o cobertor tem um lado frio e um lado quente, e a ideia é que o casal escolha a face que agrada mais, virando a peça quando a necessidade mudar. Segundo a marca, o Balance System distribui o peso de forma uniforme e a tecnologia Air-Flow reduz a sensação de abafamento comum em cobertores tradicionais.",
+          "O Cobertor IWS Igloo é muito pesado ou aperta durante o sono? A marca diz que o peso é calibrado pelo Balance System para dar sensação de aconchego (efeito casulo) sem pressão excessiva. A versão Casal/Queen pesa aproximadamente 2,06 kg e a King/Super King cerca de 2,4 kg, distribuídos em uma área grande. Se o peso agrada é questão de preferência.",
+          "Posso usar o Cobertor IWS Igloo com lençol ou em contato direto com a pele? A marca descreve a superfície Silk-Glide como sedosa nos dois lados. Como dica nossa, usar lençol por baixo ajuda a manter o cobertor limpo e a lavá-lo só quando for necessário. Quem tem pele sensível deve avaliar o contato direto por conta própria.",
+          "O que acontece se eu não gostar do Cobertor IWS Igloo depois de comprar? A I Wanna Sleep oferece [teste de 30 dias em casa](https://www.iwannasleep.com.br/products/cobertor-iws-igloo) para compras feitas pelo site oficial. Se você não se adaptar, recebe um crédito para troca por outro produto do site, e não a devolução do valor em dinheiro. Leia os termos completos da política de teste na página do produto antes de comprar."
         ]
       }
     ],
@@ -35077,7 +35079,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
       }
-    ]
+    ],
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 223,
@@ -36176,7 +36179,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Passo a passo para usar o cupom Magazine Luiza da Cecília no navegador: códigos de R$ 10 a R$ 100 OFF na loja Magazine Você — e por que não funciona no app.",
     "publishedAt": "17 Jul 2026",
     "publishedAtISO": "2026-07-17",
-    "updatedAt": "2026-10-01",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "image": "/images/reviews/magalu/cupom-magalu-em-casa-com-cecilia-capa-discover.webp",
     "imageAlt": "Cecília abrindo a embalagem da lava e seca Samsung, e a faixa com os 10 cupons de R$ 10 a R$ 100 da loja Magazine Você da Cecília",
@@ -36189,21 +36192,21 @@ export const reviewsData: unknown[] = [
       "label": "Acessar a loja Magazine Você da Cecília",
       "url": "https://www.magazinevoce.com.br/magazineemcasacomcecilia/"
     },
-    "editorialNote": "Este artigo faz parte da parceria entre o blog Em Casa com Cecília e o Magazine Você, o programa oficial de influenciadores do Magalu. Os cupons EMCASACOMCECILIA são criados pela Cecília para a própria loja dentro do programa. Ao utilizar qualquer um deles, o valor do desconto é abatido da comissão que o blog receberia pela venda — o desconto sai da comissão, nunca do seu bolso. Quem vende, cobra, entrega e cuida do pós-venda é o próprio Magalu.",
+    "editorialNote": "Este artigo faz parte da parceria entre o blog Em Casa com Cecília e o Magazine Você, o programa oficial de influenciadores do Magalu. Os cupons EMCASACOMCECILIA são criados pela Cecília para a própria loja. A compra pela loja pode gerar comissão ao blog, sem custo extra para você. Nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e cuida do pós-venda é o próprio Magalu.",
     "relatedArticles": [],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, o [cupom Magalu](/cupons/magalu) da Cecília está ativo, com dez faixas pelo valor do carrinho. Ele vale só no navegador, na loja Magazine Você da Cecília, e para produtos vendidos e entregues pelo Magalu. O pulo do gato é acertar o mínimo da sua faixa: a tabela com os dez códigos está no passo 4."
+          "O [cupom Magalu](/cupons/magalu) da Cecília tem dez faixas pelo valor do carrinho. Exemplo: o 100EMCASACOMCECILIA dá 100 reais de desconto em compras a partir de 4.999,90 reais. Vale só no navegador, na loja Magazine Você da Cecília, em itens vendidos e entregues pelo Magalu."
         ]
       },
       {
         "heading": "O cupom Magalu da Cecília está ativo?",
         "paragraphs": [
-          "Sim. A última verificação foi feita em 1º de outubro de 2026 e as dez faixas do cupom Magalu estavam ativas, de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Os códigos seguem válidos para produtos vendidos e entregues pelo Magalu, com uso exclusivo na loja Magazine Você da Cecília pelo navegador.",
+          "Na última checagem documentada, em 1º de outubro de 2026, as dez faixas do cupom Magalu estavam ativas, de R$ 10 a R$ 100 OFF conforme o valor do carrinho. Os códigos valem para produtos vendidos e entregues pelo Magalu, com uso exclusivo na loja Magazine Você da Cecília pelo navegador.",
           "Prova real: em uma checagem anterior, eu testei o 50EMCASACOMCECILIA em um carrinho de R$ 2.999 e o desconto de R$ 50 apareceu no resumo do pedido — o print está no passo 4 deste guia.",
-          "Eu testo os cupons todo mês. Se algo mudar, a página dedicada ao cupom Magalu aqui do blog é a primeira a ser atualizada.",
+          "Se algo mudar na campanha, a página dedicada ao cupom Magalu aqui do blog é a primeira a ser atualizada.",
           "No aplicativo do Magalu, o cupom não funciona; não é bug, é a regra da campanha. O cupom só existe dentro da minha loja no Magazine Você, acessada pelo navegador."
         ],
         "links": [
@@ -36218,9 +36221,9 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Estes códigos da Cecília funcionam somente pelo navegador, na loja Magazine Você da Cecília, porque foram criados por mim exclusivamente para essa loja dentro do Magazine Você — o programa oficial de influenciadores da Magazine Luiza, no domínio magazinevoce.com.br.",
           "São exclusivos da loja Magazine Você da Cecília: não valem no site nem no app do Magalu.",
-          "E tem um ponto que deixa tudo mais seguro: o magazinevoce.com.br é domínio da própria Magazine Luiza S/A (CNPJ 47.960.950/0001-21), registrado desde 2011. Quem vende, cobra, entrega e faz o pós-venda é o próprio Magalu, o login usa a sua conta Magalu de sempre, e o aviso oficial no rodapé deixa claro que você não compartilha dados com o dono da página.",
-          "Transparência: comprando na minha loja, eu recebo uma comissão sobre a compra — sem nenhum custo extra para você. E quando você usa qualquer um desses cupons, a Magazine Luiza desconta o valor do cupom da minha comissão: se a sua compra geraria R$ 15 de comissão e você aplicou o 10EMCASACOMCECILIA (R$ 10 OFF), ficam R$ 5 líquidos para mim. O desconto sai da comissão, não do seu bolso.",
-          "Resumindo: a loja é minha, mas a operação é 100% Magalu."
+          "E tem um ponto que deixa tudo mais seguro: o magazinevoce.com.br é domínio da própria Magazine Luiza S/A (CNPJ 47.960.950/0001-21), registrado desde 2011. Nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e faz o pós-venda é o próprio Magalu. O login usa a sua conta Magalu de sempre, e o aviso oficial no rodapé deixa claro que você não compartilha dados com o dono da página.",
+          "Transparência: a compra na minha loja pode gerar uma comissão para mim, sem nenhum custo extra para você. Quando você usa um desses cupons, o valor do desconto é abatido dessa comissão: o desconto sai dela, não do seu bolso.",
+          "Resumindo: a loja é minha, mas nos itens vendidos e entregues pelo Magalu a operação é toda dele. A vitrine também pode trazer produtos de lojas parceiras (marketplace), e nesses o código não vale. Confira quem vende e quem entrega na página do produto antes de comprar."
         ],
         "links": [
           {
@@ -36256,14 +36259,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Monte o carrinho com produtos vendidos e entregues pelo Magalu",
         "paragraphs": [
-          "Navegue pela loja e adicione os produtos ao carrinho. O cupom somente vale para itens vendidos e entregues pelo Magalu, sem marketplace.",
-          "Na página do produto, confira se a venda e a entrega são do Magalu. Com itens mistos no carrinho, o desconto pode falhar."
+          "Navegue pela loja e adicione os produtos ao carrinho. O cupom só vale para itens vendidos e entregues pelo Magalu; produtos de lojas parceiras (marketplace) podem aparecer na vitrine, e neles o código não vale.",
+          "Na página do produto, confira quem vende e quem entrega. Com itens mistos no carrinho, o desconto pode falhar."
         ]
       },
       {
         "heading": "4. Aplique o código da sua faixa",
         "paragraphs": [
-          "No carrinho ou no checkout, localize o campo de cupom e digite o código da sua faixa. Comprou R$ 1.200? Use 20EMCASACOMCECILIA e ganhe R$ 20 OFF. Passou de R$ 5.000? 100EMCASACOMCECILIA dá R$ 100 OFF.",
+          "No carrinho ou no checkout, localize o campo de cupom e digite o código da sua faixa. Comprou R$ 1.200? Use 20EMCASACOMCECILIA e ganhe R$ 20 OFF. Carrinho a partir de R$ 4.999,90? 100EMCASACOMCECILIA dá R$ 100 OFF.",
           "Digite sem espaços, com letras maiúsculas, e confirme em aplicar para o sistema recalcular o pedido."
         ],
         "image": "/images/reviews/magalu/magalu-cupom-aplicado.webp",
@@ -36334,7 +36337,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que fazer se o cupom não funcionar?",
         "paragraphs": [
           "Na maioria dos casos, o problema está em um dos pontos abaixo.",
-          "Se nada resolver, me avisa pelos comentários ou pelo grupo de promoções: eu testo o código na hora e atualizo este guia se algo tiver mudado."
+          "Se nada resolver, confira o checkout com calma: o valor final exibido nele é sempre a referência."
         ],
         "bullets": [
           "Tentou no app do Magalu? É esperado não funcionar: estes códigos da Cecília só valem no navegador, na loja Magazine Você da Cecília. Abra a loja pelo navegador e tente de novo.",
@@ -36351,11 +36354,11 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "O desconto destes códigos incide apenas sobre o valor dos produtos, não sobre o frete.",
-          "Em regra, o cupom não é cumulativo com outros cupons de desconto.",
+          "Os códigos somam com as promoções vigentes da loja e com o desconto do Pix; entre cupons, vale um por pedido.",
           "Válido apenas para produtos vendidos e entregues pelo Magalu — marketplace não participa.",
           "Cada faixa tem seu valor mínimo, que está na tabela do passo 4.",
           "Uso exclusivo no navegador, na loja Magazine Você da Cecília — não funciona no app nem em magazineluiza.com.br.",
-          "Os cupons são verificados mensalmente."
+          "O valor final exibido no checkout é sempre a referência."
         ]
       },
       {
@@ -36365,10 +36368,10 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Economia real: R$ 10 a R$ 100 OFF conforme o valor da compra, desconto que aparece na hora, no resumo do pedido.",
-          "Cupom verificado todo mês: eu testo cada faixa antes de atualizar o guia, então você não perde tempo com código expirado.",
-          "Compra 100% Magalu: quem vende, cobra, entrega e faz o pós-venda é o próprio Magalu, com a mesma conta e as mesmas garantias de sempre.",
+          "Dez faixas conferidas: a tabela do passo 4 traz o mínimo exato de cada código.",
+          "Operação Magalu: nos itens vendidos e entregues pelo Magalu, quem cobra, entrega e faz o pós-venda é o próprio Magalu, com a mesma conta e as mesmas garantias de sempre.",
           "Sem cadastro novo: você entra com a sua conta Magalu e não compartilha dado nenhum comigo.",
-          "Você apoia o blog sem pagar nada a mais: a comissão da parceria sai do Magalu, não do seu bolso."
+          "Você apoia o blog sem pagar nada a mais: a compra pode gerar comissão paga pelo Magalu, sem custo extra para você."
         ]
       },
       {
@@ -36383,17 +36386,16 @@ export const reviewsData: unknown[] = [
           "Por que meu cupom não funcionou? As causas mais comuns: uso no app, carrinho abaixo do mínimo da faixa, produto de marketplace ou erro de digitação. Veja o troubleshooting acima.",
           "Qual o valor mínimo de cada faixa? Cada código tem um mínimo próprio: veja a tabela no passo 4 e use a faixa mais alta que o carrinho alcançar.",
           "Posso usar mais de um cupom na mesma compra? Em regra, não. Vale um cupom por pedido, então escolha o código da faixa mais alta que o seu carrinho alcançar.",
-          "O cupom vale para qualquer produto? Vale para produtos vendidos e entregues pelo Magalu. Itens de lojistas parceiros do marketplace não entram no desconto.",
-          "O cupom acumula com ofertas e frete grátis? O desconto não vale sobre o frete e, em regra, não é cumulativo com outros cupons. Ofertas de preço do site costumam valer normalmente.",
-          "Qual a validade dos cupons? Os códigos são verificados mensalmente. Volte sempre a este guia ou à página do cupom antes de comprar.",
-          "Comprar na loja da Cecília é seguro? Sim: o domínio magazinevoce.com.br é do próprio Magalu e quem opera tudo é a Magazine Luiza — veja os detalhes na seção 'Por que o cupom só funciona na loja Magazine Você da Cecília?' aqui deste guia."
+          "O cupom vale para qualquer produto? Vale para produtos vendidos e entregues pelo Magalu. Itens de lojistas parceiros do marketplace não entram no desconto; confira quem vende e quem entrega na página do produto.",
+          "O cupom acumula com ofertas e frete grátis? Soma com as promoções vigentes e com o desconto do Pix. O desconto não vale sobre o frete.",
+          "Qual a validade dos cupons? Os códigos seguem a campanha vigente da loja. Confira o valor final no checkout antes de pagar.",
+          "Comprar na loja da Cecília é seguro? Sim: o domínio magazinevoce.com.br é do próprio Magalu, e nos itens vendidos e entregues por ele a operação é da Magazine Luiza. Veja os detalhes na seção 'Por que o cupom só funciona na loja Magazine Você da Cecília?' aqui deste guia."
         ]
       }
     ],
     "pros": [
       "Dez faixas de desconto, de R$ 10 a R$ 100 OFF, para compras de diferentes tamanhos",
-      "Cupons verificados mensalmente — última checagem em 1º de outubro de 2026",
-      "Operação 100% Magalu: venda, cobrança, entrega e pós-venda pela própria Magazine Luiza",
+      "Itens vendidos e entregues pelo Magalu seguem a operação do próprio Magalu: cobrança, entrega e pós-venda",
       "Login com a mesma conta Magalu, sem cadastro novo e sem compartilhar dados",
       "Desconto aplicado na hora, visível no resumo do pedido antes do pagamento"
     ],
@@ -36401,7 +36403,7 @@ export const reviewsData: unknown[] = [
       "Só funciona no navegador, na loja Magazine Você da Cecília — não funciona no app do Magalu",
       "Cada faixa exige um valor mínimo de compra, de R$ 499,90 a R$ 4.999,90",
       "Válido apenas para produtos vendidos e entregues pelo Magalu",
-      "Em regra, não é cumulativo com outros cupons de desconto"
+      "Em regra, um cupom por pedido; produtos de lojas parceiras (marketplace) ficam fora do desconto"
     ]
   },
   {
@@ -36643,7 +36645,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Dimensões (A x L x P)",
-        "value": "27,2 cm (A) x 11,2 cm (L) x 28,6 cm (P)"
+        "value": "27,2 cm (A) x 11,2 cm (L) x 28,6 cm (P), segundo o comparativo da loja oficial; o esquema da Arno traz 12,1 cm de largura e 28,1 cm de profundidade"
       },
       {
         "key": "Reservatório de água",
@@ -36794,21 +36796,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e como comprar",
         "paragraphs": [
-          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço verificado em 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 10% de desconto em compras a partir de R$ 100; confira no resumo do pedido.",
-          "Como todo cupom promocional, o CECI tem prazo de validade e pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
+          "No site oficial, a Genio S Touch Prata (127V) estava saindo por R$ 799,90, de R$ 979,90 (preço verificado em 13 de outubro de 2026; pode mudar conforme promoções e disponibilidade). No checkout, o cupom CECI pode dar mais 10% de desconto em compras a partir de R$ 100; confira no resumo do pedido. As condições do código estão na [página de cupons da Dolce Gusto](/cupons/dolce-gusto).",
+          "Como todo cupom promocional, o CECI pode ser alterado pela marca. Se ele não estiver mais disponível quando você for comprar, o link abaixo leva direto pra loja oficial, onde você confere o preço e as condições vigentes no momento."
         ],
         "bullets": []
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a diferença entre a Genio S Touch e a Genio S Plus? A principal diferença é o painel: a Touch tem touchscreen, enquanto a Plus usa botões físicos tradicionais. Em recursos, as duas oferecem Espresso Boost, níveis de temperatura e Função XL.",
+          "Qual a diferença entre a Genio S Touch e a Genio S Plus? A principal diferença é o painel: a Touch tem touchscreen, enquanto a Plus tem controle tradicional, sem touchscreen, com o nível de água escolhido por um toque no círculo de LED. Em recursos, as duas oferecem Espresso Boost, níveis de temperatura e Função XL.",
           "A Genio S Touch é compatível com cápsulas NEO? Não diretamente: ela usa o sistema ORIGINAL. Para cápsulas NEO de café preto selecionadas, é preciso comprar o Adaptador NEO Start (vendido à parte).",
           "Quantos ml sai em cada nível do painel touch? O painel mostra ícones de tamanho (os mesmos impressos na cápsula), não o valor em ml. Os volumes reais só constam no manual impresso, e a tabela completa está no guia [Tabela de medidas Dolce Gusto](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel).",
           "A máquina vaza ou pinga água? No nosso uso, não vazou, mas pinga um pouco entre um preparo e outro, um ponto que incomodou e que não notamos em outras máquinas de cápsula que já usamos.",
           "Precisa de tomada especial? Sim, a unidade 127V testada possui plugue de 20A e deve ser ligada diretamente a uma tomada de 20A compatível, sem adaptadores improvisados.",
           "O que é o Espresso Boost? É uma função selecionável no painel touch que intensifica o preparo do espresso. Na nossa experiência, é um adicional que vale a pena principalmente pra quem aprecia espresso: melhora bastante o resultado na xícara.",
-          "O cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver mais ativo, use o link da loja oficial neste artigo para conferir a promoção vigente no momento da sua compra."
+          "O cupom CECI ainda é válido? Cupons promocionais podem mudar. Se o CECI não estiver ativo, confira a [página de cupons da Dolce Gusto](/cupons/dolce-gusto) ou o link da loja oficial neste artigo para ver a promoção vigente."
         ]
       }
     ],
@@ -36827,7 +36829,8 @@ export const reviewsData: unknown[] = [
         "url": "/images/reviews/dolcegusto/genio-s-touch-dimensoes.webp",
         "alt": "Esquema de dimensões da NESCAFÉ Dolce Gusto Genio S Touch"
       }
-    ]
+    ],
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 235,
