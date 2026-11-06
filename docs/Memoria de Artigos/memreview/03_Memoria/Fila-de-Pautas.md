@@ -21,6 +21,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | O que | Parceiro | O que falta | Com quem |
 |---|---|---|---|---|
+| F7 | Sutiã adesivo: Toda Up, Hope, Lupo ou Zee Rucci (e a Trifil, se a fita dela existir) | Toda Up | Ler no Chrome a página de cada concorrente: o Sutiã Invisível Aderente Hope (I0020), o sutiã aderente da Lupo (Loba, 40288), o Sutiã Adesivo Invisível da Zee Rucci e a "Fita Adesiva Sustentadora Up" da Trifil (só vista num anúncio de vendedor no ML). Lado da Toda Up: o Sutiã de Silicone Invisível, com o guia `sutia-de-silicone-invisivel-como-usar` no ar. GO do Bruno em 06/11 ("artigo próprio... se tiverem"): Hope, Lupo e Zee Rucci têm sutiã adesivo, não fita. Concorrentes sem link, cupom e foto | Job 1 (leitura), depois o briefing |
 | M6 | Dr. Peanut: Mercado Livre ou site (briefing pronto em 30/10) | Dr. Peanut | O link do Mercado Livre | Bruno |
 | H7 | Loja virtual na Hostinger ou Nuvemshop/Shopify (Commerce) | Hostinger | Conferir no hPanel o preço em R$, o Pix, os canais e o nome do assistente | Bruno |
 | — | Seção "plano novo e migração" no artigo da renovação (BG1, no ar) | Hostinger | Teste no carrinho, sem comprar: um 2º plano de hospedagem (e um 2º VPS) na mesma conta pega o preço promocional e o SONAR20? | Bruno |
