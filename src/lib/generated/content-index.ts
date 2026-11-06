@@ -41400,7 +41400,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Melatonina Líquida IWS 30 ml com o cupom CECIEMCASA e 10% OFF: 0,21 mg por gota, sabor maracujá, ingredientes e os cuidados do rótulo.",
     "publishedAt": "20 de agosto de 2026",
     "publishedAtISO": "2026-08-20",
-    "updatedAt": "2026-10-24",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "image": "/images/reviews/iwannasleep/melatonina-liquida-iws-capa-discover.webp",
     "imageAlt": "Caixa e frasco da Melatonina Líquida IWS sabor maracujá, 30 ml, em três fotos oficiais",
@@ -41412,7 +41412,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O modo de uso do rótulo é uma gota por via oral antes de dormir. Ingredientes e cuidados estão na Ficha técnica, e os preços, em Preço e kits com o cupom."
+          "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Ingredientes, cuidados e preços estão abaixo."
         ]
       },
       {
@@ -41446,14 +41446,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuidados de rótulo",
         "paragraphs": [
-          "O produto é suplemento, não medicamento. As advertências do rótulo e da página do fabricante são estas:"
+          "O produto é suplemento, não medicamento. Pela [Anvisa](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/uso-de-melatonina-sublingual-nao-e-autorizado-no-brasil), a melatonina em suplemento alimentar é para adultos de 19 anos ou mais, no limite de 0,21 mg por dia. As advertências do rótulo e da página do fabricante são estas:"
         ],
         "bullets": [
-          "**Público:** não consumir na gestação, na amamentação nem na infância. Mantenha fora do alcance de crianças.",
+          "**Público:** adultos de 19 anos ou mais, pela Anvisa; o rótulo veda gestação, amamentação e infância. Mantenha fora do alcance de crianças.",
           "**Atividades de atenção:** não consumir antes de dirigir, operar máquinas ou fazer tarefas que exigem atenção constante.",
           "**Doenças e medicamentos:** quem tem enfermidade ou usa medicamento deve consultar um profissional de saúde antes de consumir.",
           "**Porção:** não exceder a recomendação da embalagem nem associar outros produtos com melatonina.",
           "**Dúvidas:** quantidade e horário são com um médico ou nutricionista."
+        ],
+        "links": [
+          {
+            "label": "Anvisa: orientação sobre melatonina em suplementos",
+            "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/uso-de-melatonina-sublingual-nao-e-autorizado-no-brasil"
+          }
         ]
       },
       {
@@ -41505,7 +41511,7 @@ export const reviewsData: unknown[] = [
           "Como usar a Melatonina Líquida IWS? O modo de uso que consta na página oficial é 1 gota por via oral antes de dormir, ou conforme orientação médica ou nutricional. Dúvidas sobre quantidade e horário são com um profissional de saúde.",
           "Quais são os ingredientes? Água purificada, melatonina, glicerina vegetal, aromatizante natural de maracujá e ácido cítrico.",
           "A Melatonina Líquida IWS tem açúcar, glúten ou lactose? Segundo o fabricante, não. O produto também é vegano. Confira o rótulo da embalagem recebida.",
-          "Quem não deve consumir? Gestantes, lactantes, crianças e pessoas que farão atividades que exigem atenção constante em seguida. Quem tem doença ou usa medicamento deve consultar um profissional de saúde antes.",
+          "Quem não deve consumir? Menores de 19 anos, gestantes, lactantes e pessoas que farão atividades que exigem atenção constante em seguida. Quem tem doença ou usa medicamento deve consultar um profissional de saúde antes.",
           "O cupom CECIEMCASA funciona para a Melatonina Líquida? Sim, pode ser aplicado no checkout do site oficial para buscar 10% de desconto em produtos elegíveis da marca.",
           "Como funciona a garantia de 30 dias? É o programa Sleeptest: 30 dias a partir do recebimento, com uso mínimo de 15 dias antes de pedir a troca, por crédito em outro item do catálogo (não é reembolso). Só vale para compras no site oficial."
         ]
@@ -41519,7 +41525,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Dados do rótulo e do site da marca. O cupom CECIEMCASA vem de parceria comercial.",
+    "editorialNote": "Dados do rótulo e do site da marca. O cupom CECIEMCASA vem de parceria comercial e o link da loja pode gerar comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
@@ -42069,6 +42075,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECI dá 10% OFF em itens elegíveis da Nestlé Nutre. Nutren Just Protein: para que serve, tabela por 15 g, preparo indicado no rótulo e cuidados.",
     "publishedAt": "23 de agosto de 2026",
     "publishedAtISO": "2026-08-23",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "image": "/images/reviews/nutren/nutren-just-protein-capa-discover.webp",
     "imageAlt": "Lata de Nutren Just Protein Sem Sabor de 280 g, proteína 100% whey isolado da Nestlé Health Science",
@@ -42110,7 +42117,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela nutricional da embalagem de 280g",
         "paragraphs": [
-          "A fórmula contém proteína isolada do soro do leite e emulsificante lecitina. O produto não contém glúten nem açúcares adicionados, mas contém lactose e derivados de leite e soja. Confira os valores declarados por porção de 15g (duas colheres de sopa cheias):"
+          "A fórmula contém proteína isolada do soro do leite e emulsificante lecitina. O produto não contém glúten nem açúcares adicionados, mas contém lactose e derivados de leite e soja. Confira os valores declarados por porção de 15g (duas colheres de sopa cheias), conforme a [ficha oficial de 280 g](https://www.nestlenutre.com.br/nutren-just-protein-280g):"
         ],
         "bullets": [
           "Valor Energético: 52 kcal (218 kJ), 3% do valor diário de referência;",
@@ -42123,7 +42130,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como usar o Nutren Just Protein na cozinha e no dia a dia",
         "paragraphs": [
-          "O modo de preparo indicado pela fabricante é adicionar 2 colheres de sopa cheias (15g) em 120ml de água e misturar imediatamente até homogeneizar. O rótulo orienta adultos a consumir uma porção ao dia.",
+          "O modo de preparo indicado pela fabricante é adicionar 2 colheres de sopa cheias (15g) em 120ml de água e misturar imediatamente até homogeneizar, consumindo a porção logo após o preparo. O rótulo orienta adultos a consumir uma porção ao dia e, depois de aberta, a usar o conteúdo da lata em até 30 dias, mantendo-a bem fechada em local fresco e seco.",
           "As combinações abaixo são sugestões editoriais para variar o consumo, não substituem o preparo oficial nem orientação profissional. Ao testar o pó em receitas, adicione aos poucos e observe a consistência, porque sabor, textura e dissolução dependem dos ingredientes e da temperatura.",
           "O rótulo diz que gestantes, lactantes e crianças não devem consumir. Quem tem alergia, intolerância, doença crônica ou necessidade específica de proteína deve falar com um profissional de saúde antes."
         ],
@@ -42147,7 +42154,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Nutren Just Protein: suplemento de proteína isolada do soro do leite, sem sabor, com 13g de proteína por porção e sem vitaminas adicionadas;",
           "Nutren Senior: linha de complementos alimentares voltada ao público adulto, com fórmulas e micronutrientes que variam conforme a versão;",
-          "Whey protein esportivo: categoria com sabores, adoçantes e concentrações variados. Quem quer o shake com sabor compara os rótulos pelo objetivo de uso; quem quer proteína neutra para a comida fica no Just Protein."
+          "Whey protein esportivo: categoria com sabores, adoçantes e concentrações variados. Quem quer o shake com sabor compara os rótulos pelo objetivo de uso; para proteína neutra na comida, o Just Protein é uma opção; compare composição, restrições, porção e forma de uso com outros produtos."
         ]
       },
       {
@@ -42246,6 +42253,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECI dá 10% OFF em produtos elegíveis da loja oficial a partir de R$ 100. Genio S Basic, Plus e Touch: painel, temperaturas e Espresso Boost.",
     "publishedAt": "24 de agosto de 2026",
     "publishedAtISO": "2026-08-24",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-hero.webp",
     "imageAlt": "Cecília segurando uma cápsula ao lado da sua Genio S Touch de verdade, em casa",
@@ -42257,7 +42265,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Genio S Plus é a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem exigir o painel touch. A Basic serve a quem quer o essencial pelo menor preço, e a Touch compensa para quem prefere comandos por toque. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "A Genio S Plus costuma ser a escolha mais equilibrada: traz Espresso Boost e quatro temperaturas sem o painel touch, e compensa quando a diferença de preço para a Touch for relevante. A Basic serve a quem quer o essencial, quando estiver mais barata que a Plus. A Touch é para quem prefere comandos por toque."
         ]
       },
       {
@@ -42298,7 +42306,7 @@ export const reviewsData: unknown[] = [
           "Tipo de painel: Basic e Plus usam seletor físico; a Touch utiliza painel sensível ao toque;",
           "Ajuste de Temperatura: Basic (2 opções: quente ou frio), Plus (4 níveis, do Modo Frio até bem quente) e Touch (4 níveis, do Modo Frio até bem quente);",
           "Tecnologia Espresso Boost: Basic (não possui), Plus (sim, pré-umectação inteligente) e Touch (sim, pré-umectação inteligente);",
-          "Função XL (300 ml): presente em todos os três modelos para dosagem de bebidas grandes;",
+          "Função XL (até 300 ml): presente em todos os três modelos para dosagem de bebidas grandes;",
           "Aviso de limpeza/manutenção: presente nos três modelos por meio de luz indicadora;",
           "Pressão da Bomba e Tanque: 15 bar de pressão e reservatório de 0,8 litro em todas as versões;",
           "Desligamento Automático: Eco Mode de 1 minuto em todos os modelos;",
@@ -42342,8 +42350,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Pressão máxima de 15 bar: informada pela fabricante para os três modelos; o sabor e a temperatura percebidos também dependem da cápsula, da água, do volume e dos ajustes disponíveis;",
           "Reservatório de água: capacidade de 0,8 litro nos três modelos; a quantidade de bebidas por abastecimento varia conforme o volume selecionado;",
-          "Função XL de 300 ml: todas contam com a seleção para bebidas extra-grandes em um toque;",
-          "Sistema de cápsulas: todas utilizam cápsulas NESCAFÉ Dolce Gusto ORIGINAL, inclusive bebidas preparadas em duas etapas. Cápsulas NEO selecionadas exigem o Adaptador NEO Start compatível."
+          "Função XL de até 300 ml: todas contam com a seleção para bebidas extra-grandes em um toque;",
+          "Sistema de cápsulas: todas utilizam cápsulas NESCAFÉ Dolce Gusto ORIGINAL, inclusive bebidas preparadas em duas etapas. Só cafés pretos NEO selecionados, com água quente, exigem o Adaptador NEO Start."
         ]
       },
       {
@@ -42354,8 +42362,8 @@ export const reviewsData: unknown[] = [
         "emphasis": "Se fosse para a minha casa, eu levaria a Plus, porque ela reúne o Boost, as quatro temperaturas e a bandeja de metal sem cobrar o painel touch.",
         "emphasisAfterParagraph": 1,
         "bullets": [
-          "Melhor equilíbrio de recursos (Genio S Plus): reúne Espresso Boost, quatro temperaturas e bandeja de metal sem exigir o painel touch. Vale comparar o preço vigente com o da Touch antes da compra;",
-          "Para priorizar o menor preço (Genio S Basic): indicada para quem busca dosagem automática, modos quente e frio, função XL e os recursos básicos da linha;",
+          "Melhor equilíbrio de recursos (Genio S Plus): reúne Espresso Boost, quatro temperaturas e bandeja de metal sem exigir o painel touch. Compensa mais que a Touch quando a diferença de preço do momento for relevante; compare os dois antes da compra;",
+          "Para priorizar o menor preço (Genio S Basic): uma alternativa quando estiver mais barata que a Plus, indicada para quem busca dosagem automática, modos quente e frio, função XL e os recursos básicos da linha;",
           "Para priorizar interface (Genio S Touch): indicada para quem prefere comandos sensíveis ao toque. É o único modelo deste comparativo que usamos em casa, por isso as fotos e impressões práticas se referem a ele."
         ],
         "images": [
@@ -42407,12 +42415,12 @@ export const reviewsData: unknown[] = [
           "O café sai com sabor diferente na Genio S Touch em relação à Basic? As duas têm pressão máxima informada de 15 bar, mas não é correto prometer resultado idêntico. Cápsula, água, volume e temperatura influenciam a bebida, e a Touch ainda oferece Espresso Boost e quatro temperaturas.",
           "A Genio S Basic desliga sozinha? Sim, todos os modelos desligam sozinhos após 1 minuto sem uso (Eco Mode).",
           "Qual a diferença entre a Genio S Plus e a Genio S Touch? Ambas oferecem Espresso Boost e quatro temperaturas. A diferença está na interface: a Plus usa seletor físico, e a Touch, painel sensível ao toque. As duas têm bandeja de metal.",
-          "As cafeteiras Genio S têm função XL de 300 ml? Sim, os três modelos (Basic, Plus e Touch) contam com a opção XL para preparo de bebidas de 300 ml.",
+          "As cafeteiras Genio S têm função XL? Sim, os três modelos (Basic, Plus e Touch) contam com a opção XL para preparo de bebidas de até 300 ml.",
           "Quem fabrica as máquinas Genio S? A linha Genio S é fabricada pela Arno sob licença NESCAFÉ Dolce Gusto, com garantia oficial de 1 ano.",
           "As três máquinas (Basic, Plus e Touch) têm modo frio? Sim. A Basic tem uma posição 'frio' no anel de duas opções; a Plus e a Touch trazem esse mesmo modo sem aquecimento como o primeiro dos 4 níveis de temperatura, ideal para bebidas geladas como o Nestea.",
           "As máquinas Genio S só fazem café? Não. Elas aceitam cápsulas do sistema NESCAFÉ Dolce Gusto ORIGINAL, incluindo opções de chocolate, cappuccino e chá, conforme disponibilidade do catálogo.",
           "Dá para usar cápsulas de outras marcas, como Nespresso, nas máquinas Genio S? Não. O sistema Dolce Gusto ORIGINAL usa um formato de cápsula e porta-cápsula próprio, fisicamente incompatível com o sistema Nespresso.",
-          "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente: os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos selecionados da linha NEO é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S.",
+          "As cápsulas da linha NEO servem direto nas Genio S? Não diretamente: os três modelos (Basic, Plus e Touch) usam o sistema ORIGINAL. Para preparar cafés pretos NEO selecionados é preciso o [Adaptador NEO Start](/reviews/adaptador-neo-start-o-que-e), vendido à parte e compatível com toda a linha Genio S. Segundo o [manual oficial do NEO Start](https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf), o preparo é só com água quente, sem o modo frio.",
           "As máquinas Genio S vêm em 127V e 220V? Sim, há versões 127V e 220V, conforme modelo e disponibilidade. Verifique a tensão e o padrão da tomada antes da compra, sem usar adaptadores improvisados.",
           "Qual o cupom de desconto para comprar cafeteiras Dolce Gusto? O cupom CECI pode conceder 10% de desconto em produtos elegíveis na loja oficial, em compras a partir de R$ 100. Confirme a aplicação e as condições vigentes no checkout."
         ]
@@ -43780,8 +43788,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O retrátil recolhe o assento; o modular facilita a entrada e permite mudar o layout. Compare espaço, conforto, entrega e rotina antes de escolher.",
-    "metaDescription": "O cupom CECILIA12 dá 12% OFF em itens elegíveis da DAMIE. Modular ou retrátil: o retrátil ocupa menos espaço fechado, e o modular facilita a entrega.",
+    "description": "Compara, em espaço, conforto, entrega e rotina, o modular fixo, que chega em módulos, e o retrátil de assento deslizante. Há modelos que juntam as duas características.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF em itens elegíveis da DAMIE. Modular ou retrátil: o retrátil fechado libera o chão, e o modular tende a facilitar a entrega.",
     "publishedAt": "25 de agosto de 2026",
     "publishedAtISO": "2026-08-25",
     "draft": false,
@@ -43796,15 +43804,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá modular ou retrátil: resposta rápida",
         "paragraphs": [
-          "Escolha o retrátil se a prioridade é abrir o assento para assistir TV e recuperar a circulação quando ele fecha. Escolha o modular se o desafio é passar por portas, corredores ou elevadores, ou se você quer mudar a composição depois. Em sala pequena não há vencedor automático; veja Qual escolher para a sua rotina."
+          "O retrátil, de assento deslizante, libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo, sem trilhos, chega em partes e tende a facilitar a entrada e a mudança de layout. Há modelos que juntam as duas características. Meça a sala e o caminho da entrega antes de decidir."
         ]
       },
       {
         "heading": "Sala pequena ou acesso difícil: são problemas diferentes",
         "paragraphs": [
           "Antes de comparar os modelos, separe duas perguntas: quanto espaço o sofá ocupa dentro da sala e por onde ele precisa passar até chegar ao lugar definitivo. Confundir essas medidas leva a recomendações erradas.",
-          "O retrátil usa trilhos e mecanismos móveis para avançar o assento. Fechado, recupera parte da circulação; aberto, precisa de área livre à frente. Como costuma chegar em uma peça grande, o caminho entre portaria, elevador, corredor e porta também precisa comportar o móvel.",
-          "O modular é formado por assentos, cantos, braços, puffs ou chaises transportados separadamente. Isso tende a simplificar a entrada em apartamentos, mas não elimina a medição: cada caixa tem dimensões próprias. Dentro da sala, o puff ou a chaise continuam ocupando espaço até serem deslocados para outro ponto."
+          "No retrátil, o assento avança por trilhos e mecanismos móveis. Fechado, recupera parte da circulação; aberto, precisa de área livre à frente. Como costuma chegar em uma peça grande, o caminho entre portaria, elevador, corredor e porta também precisa comportar o móvel.",
+          "O modular fixo descrito aqui é formado por assentos, cantos, braços, puffs ou chaises transportados separadamente. Isso tende a simplificar a entrada em apartamentos, mas não elimina a medição: cada caixa tem dimensões próprias. Dentro da sala, o puff ou a chaise continuam ocupando espaço até serem deslocados para outro ponto."
         ],
         "image": "/images/reviews/sofa-modular-itens.webp",
         "imageAlt": "Módulos separados do sofá modular preparados para transporte e montagem",
@@ -43814,14 +43822,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparação rápida: sofá retrátil vs modular",
         "paragraphs": [
-          "No dia a dia, o retrátil fecha para circular; o modular desmonta para entrar."
+          "Aqui, o retrátil fecha para circular e o modular desmonta para entrar. Um modular retrátil reúne as duas características e pede medição à parte."
         ],
         "comparisonTable": {
-          "caption": "Comparação entre sofá retrátil e sofá modular por espaço, conforto, entrega, layout, manutenção e ampliação",
+          "caption": "Comparação entre o sofá retrátil e o sofá modular fixo por espaço, conforto, entrega, layout, manutenção e ampliação",
           "headers": [
             "Critério",
-            "Sofá retrátil",
-            "Sofá modular"
+            "Sofá retrátil (assento deslizante)",
+            "Sofá modular (fixo)"
           ],
           "rows": [
             [
@@ -43837,7 +43845,7 @@ export const reviewsData: unknown[] = [
             [
               "Entrada no imóvel",
               "A peça única pode limitar portas, curvas e elevadores.",
-              "Os módulos são transportados separadamente."
+              "Os módulos costumam ser transportados separadamente."
             ],
             [
               "Mudança de layout",
@@ -43847,7 +43855,7 @@ export const reviewsData: unknown[] = [
             [
               "Limpeza e manutenção",
               "Vãos e mecanismos móveis dificultam o acesso e podem exigir manutenção com o uso.",
-              "Os módulos podem ser afastados para limpar o piso e as frestas; não há trilho retrátil no assento."
+              "Os módulos podem ser afastados para limpar o piso e as frestas; o assento não tem trilho retrátil."
             ],
             [
               "Ampliação futura",
@@ -43861,7 +43869,7 @@ export const reviewsData: unknown[] = [
         "heading": "Limpeza e manutenção: onde o modular leva vantagem",
         "paragraphs": [
           "Na limpeza de rotina, o modular tende a ser mais simples: é possível afastar um módulo por vez para aspirar o piso, alcançar as frestas e limpar a área entre as peças. Isso ajuda especialmente em casas com pets, crianças ou acúmulo frequente de poeira. O tecido e o peso de cada módulo ainda importam, mas a composição separável facilita o acesso.",
-          "No retrátil, trilhos, articulações e vãos sob o assento criam pontos menos acessíveis. Como há componentes móveis, eles também podem precisar de ajuste, lubrificação ou reparo ao longo do tempo. Isso não significa que todo retrátil apresentará defeito: qualidade da estrutura, frequência de uso, carga e manutenção influenciam a durabilidade. A diferença é que o modular não depende do mecanismo retrátil para funcionar."
+          "No retrátil, trilhos, articulações e vãos sob o assento criam pontos menos acessíveis. Como há componentes móveis, eles também podem precisar de ajuste, lubrificação ou reparo ao longo do tempo. Isso não significa que todo retrátil apresentará defeito: qualidade da estrutura, frequência de uso, carga e manutenção influenciam a durabilidade. A diferença é que o modular fixo não depende do mecanismo retrátil para funcionar."
         ]
       },
       {
@@ -43906,7 +43914,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "portrait",
         "postParagraphs": [
           "Puffs: um puff para cada assento cria apoio para as pernas e uma superfície ampla de descanso. Em sala espaçosa ou integrada, os puffs também podem ficar atrás dos módulos e ajudar a formar uma composição em ilha.",
-          "Acessórios opcionais integrados aos braços: carregador USB, luminária, porta-taça, mesa de apoio lateral, suporte para smartphone/tablet com carregamento por indução e um case 3 em 1 — tudo acoplado ao braço do módulo, não são acessórios avulsos que ocupam espaço à parte. Entre os concorrentes modulares comparados, esse conjunto integrado só apareceu na Damie; trate como diferencial da linha, sem exclusividade garantida."
+          "Acessórios opcionais integrados aos braços: carregador USB, luminária, porta-taça, mesa de apoio lateral, suporte para smartphone/tablet com carregamento por indução e um case 3 em 1, tudo acoplado ao braço do módulo; não são acessórios avulsos que ocupam espaço à parte. Esse conjunto integrado faz parte da linha modular da Damie."
         ]
       },
       {
@@ -43914,7 +43922,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "No modular da Damie que acompanhamos em casa, braços e encosto se encaixam por gravidade, enquanto os pés usam fixação por velcro. A montagem não depende de ferramenta, mas o comprador ainda precisa conferir medidas, composição, tecido, entrega e condições de devolução vigentes na página do produto.",
           "Na consulta de 26 de agosto de 2026, a página oficial da coleção informava 1 ano de garantia geral. Depois desse período, a Damie declara suporte vitalício e peças de reposição a preço de custo — um ponto relevante para os opcionais integrados aos braços e para a manutenção de longo prazo. Como condições comerciais podem mudar, confirme os termos vigentes antes da compra.",
-          "Se essa for a sua escolha, o código de parceria CECILIA12 oferece 12% de desconto nos produtos elegíveis. Confirme no carrinho se o desconto foi aplicado antes de finalizar a compra."
+          "Se essa for a sua escolha, o [cupom Damie](/cupons/damie) CECILIA12, código de parceria, oferece 12% de desconto nos produtos elegíveis. Confirme no carrinho se o desconto foi aplicado antes de finalizar a compra."
         ],
         "links": [
           {
@@ -43935,20 +43943,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas Frequentes sobre Sofá Modular e Retrátil",
         "bullets": [
-          "Qual sofá ocupa menos espaço na sala: modular ou retrátil? Depende do que você está medindo. Para entrar em casa (porta, corredor, elevador), o modular ocupa menos espaço, porque chega em módulos separados. Já no dia a dia, dentro da sala, o retrátil fechado costuma ocupar menos chão: ele retrai quando não está em uso, enquanto o puff do modular tem espaço fixo e só sai do caminho se houver outro canto pra colocá-lo.",
+          "Qual sofá ocupa menos espaço na sala: modular ou retrátil? Depende do que você está medindo. Para entrar em casa (porta, corredor, elevador), o modular fixo tende a ocupar menos espaço, porque chega em módulos separados. Já no dia a dia, dentro da sala, o retrátil fechado costuma ocupar menos chão: ele retrai quando não está em uso, enquanto o puff do modular tem espaço fixo e só sai do caminho se houver outro canto pra colocá-lo.",
           "Qual é melhor para apartamento: sofá modular ou retrátil? Se o problema é passar por elevador, corredor ou porta estreita, o modular tende a facilitar a entrega. Se o acesso comporta uma peça grande e a prioridade é liberar circulação quando o sofá não está aberto, um retrátil compacto pode funcionar melhor.",
           "Qual é mais confortável para assistir TV? O retrátil entrega apoio para as pernas sem mover peças e costuma ser a escolha mais direta para uma sala de TV. Um modular com puff ou chaise também pode ser confortável, mas ocupa essa área de forma permanente até a peça ser deslocada.",
           "Um puff substitui o mecanismo retrátil? O puff pode oferecer apoio semelhante para as pernas, mas não retrai nem movimenta o encosto. A sensação e o espaço ocupado dependem da composição escolhida.",
           "Qual sofá é mais fácil de limpar e manter? O modular tende a facilitar a limpeza porque os módulos podem ser afastados separadamente para alcançar o piso e as frestas. O retrátil possui vãos e componentes móveis que podem exigir mais cuidado e, com o uso, ajustes ou reparos. A durabilidade varia conforme a construção, a carga e a manutenção de cada modelo.",
           "O sofá modular sai do lugar ou se separa ao sentar? Depende do sistema de união. No modular da Damie, os módulos usam engates na base para permanecer unidos durante o uso.",
-          "O que significa 'sofá sem caixa'? Na maioria dos casos, é preferência por não montar nada em casa — o sofá retrátil tradicional chega pronto, em peça única, sem caixas. Uma parte da busca também reflete desconfiança da entrega, ligada à reputação de marcas específicas; a execução varia bastante entre elas.",
+          "O que significa 'sofá sem caixa'? O termo aparece nos anúncios para o sofá que chega montado, em peça única. O modular da Damie vem em caixas, mas a montagem dispensa ferramenta: braços e encosto se encaixam por gravidade e os pés usam velcro. Confira na página do produto o prazo e as condições de entrega.",
           "Qual é o cupom da Damie? O código de parceria é CECILIA12 e oferece 12% de desconto em produtos elegíveis. Confira no carrinho se o benefício foi aplicado ao item escolhido."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Você precisa passar por elevador pequeno, escada com curva ou corredor estreito: o modular chega em partes.",
+        "Você precisa passar por elevador pequeno, escada com curva ou corredor estreito: o modular tende a chegar em partes.",
         "Você quer mudar o layout ou aumentar o sofá depois, numa linha que venda módulos separados."
       ],
       "skipIf": [
@@ -43964,7 +43972,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Este comparativo baseia-se em padrões ergonômicos de interiores, especificações técnicas de fabricantes e análise pública de mercado. O site Em Casa com Cecília mantém parceria comercial com a DAMIE por meio do cupom CECILIA12.",
+    "editorialNote": "Este comparativo baseia-se em padrões ergonômicos de interiores, especificações de fabricantes e análise pública de mercado. O Em Casa com Cecília recebeu da DAMIE, em parceria, os produtos citados, inclusive o sofá modular, e divulga o cupom CECILIA12. O link da loja pode gerar comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "sofa-damie-modular-vale-a-pena"
@@ -43985,7 +43993,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/sofa-modular-itens.webp",
         "alt": "Módulos e caixas individuais do sofá modular",
-        "caption": "Módulos individuais: praticidade total no transporte e acesso a apartamentos."
+        "caption": "Módulos individuais: menos volume por peça no transporte e na entrada em apartamentos."
       },
       {
         "image": "/images/reviews/sofa-modular-5-lugares-em-l.webp",
@@ -43997,7 +44005,8 @@ export const reviewsData: unknown[] = [
         "alt": "Sofá modular montado em formato de ilha central para conversação",
         "caption": "Layout em ilha: versatilidade para receber amigos e integrar ambientes."
       }
-    ]
+    ],
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 275,
@@ -44030,7 +44039,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Melatonina Gummy IWS: resposta rápida",
         "paragraphs": [
-          "A Melatonina Gummy IWS é um suplemento alimentar para adultos com mais de 19 anos: cada goma tem 0,21 mg de melatonina, e a orientação é 1 goma por dia, de 1 a 2 horas antes de dormir. Ela não é tratamento para insônia. Os capítulos abaixo trazem as regras do suplemento e os cuidados."
+          "A Melatonina Gummy IWS é um suplemento alimentar para adultos de 19 anos ou mais, com 0,21 mg de melatonina por goma. A IWS orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica. Não é medicamento nem tratamento para insônia."
         ]
       },
       {
@@ -44048,8 +44057,7 @@ export const reviewsData: unknown[] = [
         "heading": "Para que serve a melatonina — e o que o suplemento não pode prometer",
         "paragraphs": [
           "A melatonina é um hormônio produzido naturalmente pelo organismo e associado à regulação do ritmo circadiano, o ciclo biológico de sono e vigília. Já a Melatonina Gummy IWS é enquadrada no Brasil como suplemento alimentar, não como medicamento.",
-          "Essa diferença é importante. Segundo a Anvisa, suplementos de melatonina não têm alegações de benefício aprovadas e não podem ser apresentados como tratamento para insônia, ansiedade, estresse ou outros problemas de saúde.",
-          "Portanto, não espere da gummy o efeito de um remédio para insônia. Na melhor das hipóteses, a pessoa pode perceber uma sensação subjetiva de dormir melhor — algo que também pode acompanhar outros rituais noturnos, como beber um chá de camomila ou erva-doce. Essa percepção individual não prova que o suplemento ou o chá tratem insônia, nem garante o mesmo resultado para outras pessoas."
+          "Essa diferença é importante. Segundo a Anvisa, suplementos de melatonina não têm alegações de benefício aprovadas e não podem ser apresentados como tratamento para insônia, ansiedade, estresse ou outros problemas de saúde. A agência também afirma que não há evidência de que a quantidade autorizada produza efeitos diretos na regulação do sono, e que qualquer alegação exige comprovação científica."
         ],
         "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-goma.webp",
         "imageAlt": "Goma de melatonina IWS segurada entre os dedos",
@@ -44057,12 +44065,16 @@ export const reviewsData: unknown[] = [
         "imageFit": "square",
         "links": [
           {
+            "label": "Ler o alerta da Anvisa sobre melatonina em suplementos",
+            "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/uso-de-melatonina-sublingual-nao-e-autorizado-no-brasil"
+          },
+          {
             "label": "Entender as regras da Anvisa para suplementos de melatonina",
             "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2021/anvisa-autoriza-a-melatonina-na-forma-de-suplemento-alimentar"
           },
           {
             "label": "Ler a orientação do Ministério da Saúde sobre melatonina",
-            "href": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/m/melatonina/melatonina"
+            "href": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/m/melatonina"
           }
         ]
       },
@@ -44074,8 +44086,8 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Quantidade indicada no rótulo: 1 goma ao dia.",
-          "Horário indicado pelo fabricante: de 1 a 2 horas antes de dormir.",
-          "Público autorizado para suplementos com melatonina: adultos com mais de 19 anos.",
+          "Horário indicado pela IWS: de 1 a 2 horas antes de dormir, ou conforme orientação médica.",
+          "Público autorizado para suplementos com melatonina: adultos de 19 anos ou mais.",
           "Não exceda a recomendação diária da embalagem."
         ],
         "image": "/images/reviews/iwannasleep/melatonina-gummy-iws-como-usar.webp",
@@ -44093,8 +44105,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Melatonina vicia?",
         "paragraphs": [
-          "A melatonina não é da classe dos sedativos associados à dependência, mas “não vicia” é absoluto demais para qualquer pessoa e qualquer tempo de uso.",
-          "Na prática, também existe diferença entre dependência farmacológica e hábito de acreditar que só é possível dormir após consumir algo. Se houver receio de interromper o uso ou necessidade crescente de suplementação, converse com um profissional de saúde em vez de aumentar a dose por conta própria."
+          "Este guia não afirma que a melatonina em suplemento cause nem que não cause dependência.",
+          "A orientação é não aumentar a dose nem prolongar o uso por conta própria. Se a dificuldade para dormir continua, ou se você sente necessidade crescente do produto, procure avaliação de um profissional de saúde."
         ]
       },
       {
@@ -44176,7 +44188,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que vem na compra e como funciona o Sleeptest",
         "paragraphs": [
           "A unidade do produto corresponde a 1 pote com 30 gummies sabor maracujá doce. A loja também pode oferecer conjuntos com mais potes, mas preço, estoque e composição dos kits são condições comerciais variáveis; confirme tudo no carrinho.",
-          "No site oficial, a IWS informa Sleeptest de 30 dias: se não se adaptar, a troca é por outro produto do site, não reembolso em dinheiro."
+          "O [Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest) da linha de nutrição vale por 30 dias desde a entrega e exige uso mínimo de 15 dias. Dentro dessas condições, a política prevê crédito de troca, não reembolso, com envio pelos Correios. Confira as condições completas na política da IWS."
         ]
       },
       {
@@ -44199,14 +44211,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre Melatonina Gummy",
         "bullets": [
-          "Para que serve a Melatonina Gummy IWS? Ela é um suplemento alimentar que fornece 0,21 mg de melatonina por goma. A melatonina natural participa do ciclo vigília-sono, mas a Anvisa não aprovou alegações de que suplementos tratem insônia ou melhorem o sono.",
+          "Para que serve a Melatonina Gummy IWS? Ela é um suplemento alimentar que fornece 0,21 mg de melatonina por goma. A Anvisa não aprovou alegações de que suplementos de melatonina tratem insônia ou melhorem o sono.",
           "Como tomar a Melatonina Gummy IWS? O fabricante orienta consumir 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica.",
-          "Qual é o melhor horário para tomar melatonina? Para a Gummy IWS, siga o horário do rótulo: de 1 a 2 horas antes de dormir. Outros produtos podem ter orientações diferentes.",
+          "Qual é o melhor horário para tomar melatonina? Para a Gummy IWS, a orientação da marca é de 1 a 2 horas antes de dormir, ou conforme orientação médica. É a indicação do fabricante, não um horário clínico universal.",
           "Quantas gummies vêm no pote? Cada pote contém 30 unidades.",
           "Quantas calorias tem cada gummy? A página oficial informa 8 kcal por unidade.",
           "A Melatonina Gummy IWS contém açúcar, glúten ou lactose? Segundo a marca, ela é zero açúcar, sem glúten e zero lactose.",
-          "Crianças podem consumir goma de melatonina? Não. No Brasil, suplementos com melatonina são autorizados para adultos com mais de 19 anos e devem trazer advertência contra o consumo por crianças.",
-          "Melatonina vicia? Ela não é da mesma classe dos sedativos hipnóticos associados à dependência, mas “não vicia” é uma resposta absoluta demais para qualquer dose, pessoa e tempo de uso. Não aumente a quantidade nem prolongue o consumo por conta própria.",
+          "Crianças podem consumir goma de melatonina? Não. No Brasil, suplementos com melatonina são autorizados para adultos de 19 anos ou mais, e o rótulo da IWS informa que o produto não deve ser consumido por crianças.",
+          "Melatonina vicia? Este guia não afirma que o suplemento cause nem que não cause dependência. Não aumente a dose nem prolongue o uso por conta própria e procure avaliação de saúde se a dificuldade para dormir continua.",
           "Pode tomar melatonina todos os dias? O rótulo da IWS prevê 1 goma ao dia, mas uso diário não significa uso indefinido indicado para todos. Dificuldade persistente para dormir deve ser avaliada por profissional de saúde.",
           "Qual é a melhor melatonina para dormir? Não existe uma resposta universal, e suplementos de melatonina não têm alegação aprovada para tratar insônia. Compare regularização, dose diária, rótulo, restrições e formato com orientação profissional."
         ]
@@ -44258,7 +44270,8 @@ export const reviewsData: unknown[] = [
         "alt": "Características nutricionais da Melatonina Gummy IWS",
         "caption": "A marca informa sabor maracujá doce, zero açúcar, ausência de glúten e lactose."
       }
-    ]
+    ],
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 276,
