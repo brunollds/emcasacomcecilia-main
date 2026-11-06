@@ -34629,7 +34629,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Análise dos dados públicos da I Wanna Sleep: CNPJ 43.783.630/0001-92, lojas físicas, políticas de entrega, trocas e como consultar cupons no site oficial.",
+    "description": "Dados públicos da I Wanna Sleep: CNPJ, lojas físicas, Sleeptest e regras de troca. O que identifica a empresa e o que só a reputação mostra, antes de comprar.",
     "metaDescription": "A I Wanna Sleep, com o cupom CECIEMCASA e 10% OFF, é confiável? Os dados de CNPJ, as lojas físicas e as políticas de devolução antes de comprar.",
     "publishedAt": "14 de agosto de 2026",
     "draft": false,
@@ -34680,7 +34680,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com a ressalva de que a análise usa só dados públicos e não traz nota do Reclame Aqui. A I Wanna Sleep tem CNPJ ativo, lojas físicas, política de trocas e Sleeptest de até 100 dias para colchões. O que pesa é conferir o domínio e os prazos; veja o capítulo Dá para confiar na I Wanna Sleep? Para comprar com desconto, veja o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "Sim, pelo que os dados públicos mostram: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso identifica a empresa, mas não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -34690,8 +34690,9 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Fachada de uma loja física da I Wanna Sleep.",
         "imageFit": "cover",
         "paragraphs": [
-          "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, na Rua Serra do Rola Moça, 315, em Belo Horizonte (MG). O site oficial a apresenta como \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença em EUA, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca e o mesmo posicionamento internacional; a missão declarada, em todos os mercados, é ajudar as pessoas a dormir melhor.",
-          "A marca possui lojas físicas no Brasil, além do canal de vendas online. O site lista as lojas físicas na seção \"Nossas lojas\". Além do varejo, a empresa investe em conteúdo e comunidade, com blog próprio, programa de influenciadores e o IWS Labs, uma iniciativa voltada à pesquisa e desenvolvimento de soluções para o sono."
+          "A I Wanna Sleep opera no Brasil sob o CNPJ 43.783.630/0001-92, na Rua Serra do Rola Moça, 315, em Belo Horizonte (MG). O site oficial a apresenta como \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença em EUA, Canadá, Brasil e México. No Brasil, quem responde pela operação comercial é a pessoa jurídica local citada acima, sob a mesma marca. A missão declarada pela marca é ajudar as pessoas a dormir melhor.",
+          "A marca possui lojas físicas no Brasil, além do canal de vendas online. O site lista as lojas físicas na seção \"Nossas lojas\". Além do varejo, a marca informa manter blog próprio, programa de influenciadores e o IWS Labs, que ela descreve como iniciativa de pesquisa e desenvolvimento de soluções para o sono.",
+          "CNPJ, endereço e lojas mostram quem é a empresa e que ela existe fisicamente. Não medem a qualidade do pós-venda: para isso, o levantamento de [reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao) olha a loja online, com nota, taxa de resposta e de solução."
         ],
         "bullets": []
       },
@@ -34702,15 +34703,17 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Parte do catálogo de travesseiros no site oficial.",
         "imageFit": "contain",
         "paragraphs": [
-          "O catálogo vai além de travesseiros e colchões: inclui cobertores tecnológicos (IWS Igloo, IWS Huggy), jogos de cama em bamboo, pillow top, acessórios de viagem (Travesseiro de Viagem Snow Mini), itens de maternidade, poltronas Ekornes, sleepwear e linha de nutrição do sono com melatonina, floral de Bach e spray funcional. A variedade sugere uma marca com capacidade de desenvolvimento de produto e parcerias com fornecedores especializados.",
-          "A marca também trabalha com tecnologias próprias, como o travesseiro IWS Snow, o IWS Airgelly 2.0 e o Protex Bamboo, que reforçam o posicionamento de inovação no setor. O fato de manter um braço de pesquisa (IWS Labs) é um indicativo de investimento em credibilidade técnica e diferenciação de mercado."
+          "O catálogo vai além de travesseiros e colchões: inclui cobertores tecnológicos (IWS Igloo, IWS Huggy), jogos de cama em bamboo, pillow top, acessórios de viagem (Travesseiro de Viagem Snow Mini), itens de maternidade, poltronas Ekornes, sleepwear e linha de nutrição do sono com melatonina, floral de Bach e spray funcional. A variedade mostra o tamanho da linha, mas não diz nada sobre a qualidade de cada item nem sobre o atendimento.",
+          "A marca apresenta tecnologias próprias, como o travesseiro IWS Snow, o IWS Airgelly 2.0 e o Protex Bamboo, e se posiciona como inovadora no setor. Esse posicionamento e o IWS Labs são declarados pela própria marca e não servem como prova de credibilidade técnica. Para decidir, leia a ficha de cada produto."
         ],
         "bullets": []
       },
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "Nas políticas, o que conta é troca, rastreio e Sleeptest. O site oficial da I Wanna Sleep disponibiliza informações sobre trocas e devoluções, além de ferramenta para rastreamento de pedidos. A marca também mantém o Sleeptest: segundo a política oficial consultada em agosto de 2026, são até 100 dias para testar colchões e até 30 dias para categorias como travesseiros, pillow tops e nutrição, sempre sujeitos aos critérios específicos de uso, conservação, prazo e canal de compra.",
+          "Nas políticas, o que conta é troca, rastreio e Sleeptest. O site oficial da I Wanna Sleep disponibiliza informações sobre trocas e devoluções, além de ferramenta para rastreamento de pedidos.",
+          "O Sleeptest não é reembolso em dinheiro, e não se confunde com o direito de arrependimento de 7 dias das compras online. Pela política oficial, nos colchões são 100 dias desde a entrega, com uso mínimo de 15 dias, e a troca é por outro colchão, por conforto (não por tamanho). O colchão precisa estar com protetor, sem dano nem sujeira, com etiqueta e embalagem originais; vale uma troca por CPF, com nota fiscal. Há taxa de frete e montagem de R$ 300 para Belo Horizonte e região metropolitana; nas demais regiões, é preciso consultar o pós-venda. Se o novo colchão custa mais, paga-se a diferença; se custa menos, a diferença vira crédito na loja (o crédito online não vale em loja física).",
+          "Travesseiros e pillow tops têm 30 dias após o recebimento, com uso mínimo de 15 dias, e a troca gera crédito, sem custo, com envio pelos Correios, etiqueta e embalagem originais e nota fiscal. Produto comprado no e-commerce troca no e-commerce; o de loja física, na mesma loja.",
           "O pagamento é no Pix ou no cartão, com parcelamento. O site também oferece atendimento ao cliente, com canais para tirar dúvidas sobre produtos, entregas e políticas de troca."
         ],
         "bullets": [],
@@ -34741,13 +34744,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na I Wanna Sleep?",
         "paragraphs": [
-          "Sim, com a ressalva de que esta análise usa só dados públicos do site oficial e não traz nota do Reclame Aqui. Os números que sustentam a resposta:"
+          "Sim, com a ressalva de que este artigo trata só de identificação e de regras de compra, com dados públicos do site oficial e a política do Sleeptest. A qualidade do atendimento está na [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao), que olha a loja online. O que sustenta a resposta:"
         ],
         "bullets": [
           "CNPJ 43.783.630/0001-92, ativo desde 2021, com endereço em Belo Horizonte (MG).",
           "Lojas físicas no Brasil, além do e-commerce.",
           "Troca ou devolução em até 7 dias corridos do recebimento nas compras do e-commerce.",
-          "Sleeptest de até 100 dias para colchões e até 30 dias para travesseiros, pillow tops e nutrição, sujeito às regras da marca.",
+          "Sleeptest de 100 dias para colchões (troca por conforto, não reembolso) e 30 dias para travesseiros e pillow tops (crédito de troca), sujeito às regras da marca.",
           "Pix e cartão de crédito com parcelamento, em domínio oficial com HTTPS."
         ]
       },
@@ -34773,10 +34776,11 @@ export const reviewsData: unknown[] = [
           "O cupom CECIEMCASA muda o preço final do produto? Quando aceito no checkout para um produto elegível, o código reduz o valor conforme as regras vigentes da marca, sem acrescentar cobrança ao pedido.",
           "A I Wanna Sleep entrega para todo o Brasil ou só em capitais? A marca informa que utiliza transportadoras parceiras. A disponibilidade, o prazo e o valor do frete dependem do CEP e devem ser confirmados no carrinho antes da compra.",
           "Os produtos da I Wanna Sleep têm garantia? Os prazos e as condições podem variar conforme a categoria e a garantia informada na ficha do produto, sem afastar a garantia legal aplicável. Consulte a página do item e o atendimento oficial antes da compra; o Sleeptest é uma política comercial separada e possui regras próprias.",
-          "Como funciona a troca ou devolução na I Wanna Sleep? Segundo a política oficial, compras feitas no e-commerce podem ter troca ou devolução solicitada em até 7 dias corridos do recebimento, observadas as condições publicadas pela marca. Depois desse período, o Sleeptest pode ser aplicável a categorias elegíveis conforme regras próprias.",
+          "Como funciona a troca ou devolução na I Wanna Sleep? Segundo a política oficial, compras feitas no e-commerce podem ter troca ou devolução solicitada em até 7 dias corridos do recebimento, observadas as condições publicadas pela marca. O Sleeptest é outra coisa: troca de colchão por conforto em até 100 dias, ou crédito de troca para travesseiros e pillow tops em até 30 dias, nunca reembolso em dinheiro.",
           "O pagamento no site da I Wanna Sleep é seguro? O domínio oficial usa HTTPS e apresenta Pix e cartão de crédito no checkout. Antes de pagar, confirme o endereço iwannasleep.com.br e não transfira valores para contatos que tentem concluir a venda fora do canal oficial.",
-          "A I Wanna Sleep é uma empresa nova ou já tem histórico no mercado? No Brasil, a operação tem CNPJ ativo desde 2021, sediada em Belo Horizonte, MG. A marca se apresenta no site oficial como uma \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença declarada em EUA, Canadá, Brasil e México. Apesar de a pessoa jurídica brasileira ser relativamente jovem, a marca investiu em estrutura omnichannel (lojas físicas + e-commerce), tecnologia própria (IWS Labs) e programa de influenciadores, sinais de operação séria no setor de sleep tech.",
-          "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países: Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca."
+          "A I Wanna Sleep é uma empresa nova ou já tem histórico no mercado? No Brasil, a operação tem CNPJ ativo desde 2021, sediada em Belo Horizonte, MG. A marca se apresenta no site oficial como uma \"global lifestyle sleep brand\", com sede global em Orlando (EUA) e presença declarada em EUA, Canadá, Brasil e México. Lojas físicas e e-commerce mostram uma operação estruturada, mas a qualidade do atendimento se avalia pela reputação no Reclame Aqui, não pelo CNPJ.",
+          "A I Wanna Sleep é uma marca só brasileira ou é internacional? É internacional. Segundo a seção \"Global lifestyle sleep brand\" do site oficial, a empresa tem sede global em Orlando, na Flórida (EUA), e opera em diferentes países: Estados Unidos, Canadá, Brasil e México. No Brasil, a operação comercial é feita pela pessoa jurídica local (CNPJ 43.783.630/0001-92), sob a mesma marca.",
+          "Onde vejo a reputação da I Wanna Sleep? No perfil da loja online no Reclame Aqui, que a [análise de reputação](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao) resume com nota, respostas e solução. A nota muda com o tempo: confira o perfil no dia da compra."
         ]
       }
     ],
@@ -34787,7 +34791,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Análise com dados públicos do site oficial. O cupom CECIEMCASA é parceria e pode render comissão.",
+    "editorialNote": "Análise com dados públicos do site oficial e da política do Sleeptest. O cupom CECIEMCASA é parceria e pode gerar comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
@@ -34797,7 +34801,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "publishedAtISO": "2026-08-14",
-    "updatedAt": "2026-08-14",
+    "updatedAt": "2026-11-06",
     "isNew": false,
     "category": "confianca-reputacao"
   },
@@ -35791,10 +35795,10 @@ export const reviewsData: unknown[] = [
     },
     "description": "O Nutren Senior Zero Lactose vem em lata de 740 g, sem sabor ou baunilha. Veja rendimento, preparo, a diferença entre as versões e as regras do cupom CECI no checkout.",
     "seoTitle": "Nutren Senior Zero Lactose: o que saber antes de comprar",
-    "metaDescription": "Nutren Senior Zero Lactose, com o cupom CECI de 10% OFF na Nestlé Nutre: a lata de 740 g, o preparo de 180 ml e a diferença entre sem sabor e baunilha.",
+    "metaDescription": "Nutren Senior Zero Lactose, com o cupom CECI de 10% OFF na Nestlé Nutre: a lata de 740 g, o preparo com água e a diferença entre sem sabor e baunilha.",
     "publishedAt": "17 de agosto de 2026",
     "publishedAtISO": "2026-08-17",
-    "updatedAt": "2026-08-17",
+    "updatedAt": "2026-11-06",
     "changelog": [
       {
         "date": "2026-08-17",
@@ -35842,7 +35846,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Preparo",
-        "value": "50 ml de água + 130 ml de água, total 180 ml"
+        "value": "Cerca de 50 ml de água para formar a pasta e mais 130 ml para completar"
       },
       {
         "key": "Depois de aberto",
@@ -35874,14 +35878,15 @@ export const reviewsData: unknown[] = [
             "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740",
             "sponsored": true
           }
-        ]
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "Ficha técnica da lata de 740 g",
         "paragraphs": [
-          "A ficha das duas latas de 740 g, sem sabor e baunilha: Lote, tabela nutricional em %VD e alegações do rótulo podem mudar: o que vale na hora da compra é a lata que chega em casa.",
-          "A lista de ingredientes das duas versões inclui leite integral, concentrado proteico de soro de leite, maltodextrina, proteína de soja isolada, polidextrose, caseinato de cálcio, colágeno hidrolisado, enzima lactase, vitaminas e minerais. A baunilha acrescenta aromatizante e o edulcorante sucralose.",
-          "O material oficial da lata marca zero lactose e sem glúten. Mesmo assim, quem depende dessa informação deve conferir o rótulo do lote e, se for o caso, o SAC da Nestlé Nutre (0800 770 2461)."
+          "A ficha das duas latas de 740 g, sem sabor e baunilha. Lote, tabela nutricional em %VD e alegações do rótulo podem mudar: o que vale na hora da compra é a lata que chega em casa.",
+          "A lista de ingredientes das duas versões traz leite e soja: leite integral, concentrado proteico de soro de leite, maltodextrina, proteína de soja isolada, polidextrose, caseinato de cálcio, colágeno hidrolisado, enzima lactase, vitaminas e minerais. A baunilha acrescenta aromatizante e o edulcorante sucralose.",
+          "O material oficial da lata marca zero lactose e sem glúten. Zero lactose não quer dizer sem proteína do leite. Quem tem alergia a leite ou soja deve conferir a declaração de alergênicos na lata de cada versão e, se for o caso, o SAC da Nestlé Nutre (0800 770 2461)."
         ],
         "bullets": [
           "Tipo: composto lácteo em pó, variante Zero Lactose.",
@@ -35889,7 +35894,7 @@ export const reviewsData: unknown[] = [
           "Apresentações desta ficha: lata 740 g sem sabor e lata 740 g baunilha.",
           "Porção: 27,5 g (3 colheres de sopa rasas).",
           "Rendimento: cerca de 27 porções por lata.",
-          "Preparo: 50 ml de água + 130 ml de água, total 180 ml.",
+          "Preparo: cerca de 50 ml de água para formar a pasta e mais 130 ml para completar.",
           "Depois de aberto: até 30 dias; beber logo após o preparo."
         ]
       },
@@ -35901,7 +35906,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Coloque 3 colheres de sopa rasas (27,5 g) em um copo.",
           "Adicione cerca de 50 ml de água em temperatura ambiente e mexa até formar uma pasta cremosa.",
-          "Complete com 130 ml de água e mexa até dissolver. A porção pronta é 180 ml."
+          "Complete com 130 ml de água e mexa até dissolver."
         ],
         "postParagraphs": [
           "A página oficial orienta consumir o produto preferencialmente sob orientação de nutricionista ou médico. Prepare em recipiente limpo e beba na hora. Durante o transporte o pó pode compactar; o peso líquido do rótulo continua valendo."
@@ -35917,15 +35922,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual lata escolher",
         "paragraphs": [
-          "Sem sabor e baunilha se decidem por aromatizante, sucralose e açúcar adicionado:"
+          "Sem sabor e baunilha se decidem por aromatizante e sucralose:"
         ],
         "image": "/images/reviews/nutren/nutren-senior-linha-banner.avif",
         "imageAlt": "Linha Nutren Senior no site oficial: latas de 740 g e 370 g e versões prontas para beber",
         "imageCaption": "A linha Senior na loja: a ficha deste artigo é da variante Zero Lactose em pó, 740 g.",
         "imageFit": "wide",
         "bullets": [
-          "Sem sabor 740 g: mesma base zero lactose, sem aromatizante e sem sucralose na lista oficial. A tabela publicada pela marca informa 3 g de açúcares adicionados por porção de 27,5 g.",
-          "Baunilha 740 g: mesmo preparo e mesma porção, com aromatizante e sucralose. A tabela publicada pela marca informa 0,3 g de açúcares adicionados por porção de 27,5 g; portanto, não é um produto sem açúcar adicionado. Quem controla glicemia deve conferir o rótulo e buscar orientação profissional.",
+          "Sem sabor 740 g: mesma base zero lactose, sem aromatizante e sem sucralose na lista oficial.",
+          "Baunilha 740 g: mesmo preparo e mesma porção, com aromatizante e o edulcorante sucralose. Os açúcares de cada versão estão na tabela nutricional da lata; quem controla glicemia deve conferir o rótulo e buscar orientação profissional.",
           "Pronto para beber: a loja oficial também vende itens da linha Senior em garrafinha, inclusive opções zero lactose, como o Mix de Frutas 200 ml. Cada SKU tem tabela e ingredientes próprios; não use a ficha da lata de 740 g para a garrafinha."
         ],
         "postParagraphs": [
@@ -35950,7 +35955,8 @@ export const reviewsData: unknown[] = [
             "label": "Como aplicar o CECI no checkout, com fotos",
             "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
           }
-        ]
+        ],
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
       },
       {
         "heading": "Como comprar com o cupom CECI",
@@ -35974,13 +35980,13 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Nestlé Nutre? O código de parceria do Em Casa com Cecília é CECI e pode aplicar 10% em produtos elegíveis no checkout da loja oficial.",
           "Qual o cupom do Nutren Senior Zero Lactose? O mesmo CECI. Vale para a lata Zero Lactose e para os demais itens elegíveis da loja; não vale para Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses.",
-          "Como preparar o Nutren Senior Zero Lactose em pó? Coloque 3 colheres de sopa rasas (27,5 g) no copo, misture com cerca de 50 ml de água até virar pasta e complete com 130 ml. A porção pronta é 180 ml.",
-          "O Nutren Senior Zero Lactose tem lactose? A variante é vendida como zero lactose. A lista oficial inclui enzima lactase. Quem tem alergia à proteína do leite ainda precisa ler o rótulo: a base continua láctea.",
+          "Como preparar o Nutren Senior Zero Lactose em pó? Coloque 3 colheres de sopa rasas (27,5 g) no copo, misture com cerca de 50 ml de água até virar pasta, complete com 130 ml de água e mexa até dissolver.",
+          "O Nutren Senior Zero Lactose tem lactose? A variante é vendida como zero lactose, e a lista oficial inclui a enzima lactase. Zero lactose não quer dizer sem proteína do leite: a base é láctea e leva proteína de soja. Quem tem alergia a leite ou soja deve ler a declaração de alergênicos da lata.",
           "Qual a diferença entre a lata sem sabor e a de baunilha? O preparo e a porção são iguais. A baunilha adiciona aromatizante e sucralose; a sem sabor não.",
-          "Nutren Senior Zero Lactose tem açúcar adicionado? Sim. Na tabela oficial, a porção de 27,5 g informa 3 g de açúcares adicionados na versão sem sabor e 0,3 g na versão baunilha. Confira o rótulo do lote recebido.",
+          "Nutren Senior Zero Lactose tem açúcar adicionado? A resposta está na tabela nutricional da lata de cada versão: confira o rótulo do lote recebido. A baunilha também leva sucralose, um edulcorante.",
           "A lata dura quanto tempo depois de aberta? A marca pede consumo em até 30 dias após abrir, com a lata bem fechada em local fresco e seco.",
           "Nutren Senior substitui o café da manhã? Não. É complemento alimentar. Não substitui refeição completa nem conduta prescrita por profissional de saúde.",
-          "Qual o preço do Nutren Senior Zero Lactose? O preço de referência está no capítulo Preço e o que o cupom altera. Confira o valor vigente no checkout.",
+          "Qual o preço do Nutren Senior Zero Lactose? Quando o artigo foi publicado, o preço de referência no site oficial era R$ 211,79. O preço muda: confira o valor vigente no checkout.",
           "O desconto do CECI inclui o frete? Não. O frete é calculado à parte."
         ]
       }
@@ -35993,7 +35999,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Este artigo usa a ficha pública da Nestlé Health Science e menciona o cupom CECI por parceria comercial com a Nestlé Nutre. Não há experiência própria de uso do produto. Confira o rótulo e o desconto no checkout.",
+    "editorialNote": "Feito com a ficha pública da Nestlé Health Science, sem uso próprio do produto. O CECI vem de parceria com a Nestlé Nutre e pode gerar comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar"
@@ -39710,23 +39716,23 @@ export const reviewsData: unknown[] = [
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
     "draft": false,
-    "description": "Entenda o histórico de reclamações da Sofá na Caixa, a fiscalização do Procon-SP e a reputação atualizada da marca no Reclame Aqui.",
+    "description": "Entenda o histórico de reclamações da Sofá na Caixa, o que o Procon-SP e a imprensa registraram e como a empresa aparece hoje no Reclame Aqui.",
     "seoTitle": "O que aconteceu com a Sofá na Caixa?",
-    "metaDescription": "Sofá na Caixa: veja o histórico de reclamações, a checagem no Procon-SP (fora da lista 'Evite Estes Sites') e a nota atual 6.0/10 no Reclame Aqui.",
+    "metaDescription": "Sofá na Caixa: histórico de reclamações, checagem na lista \"Evite Estes Sites\" do Procon-SP e reputação Regular (nota 6,4) no Reclame Aqui.",
     "publishedAt": "10 de agosto de 2026",
     "publishedAtISO": "2026-08-10",
-    "updatedAt": "2026-08-10",
+    "updatedAt": "2026-11-06",
     "image": "/images/reviews/sofa-na-caixa/sofa-modular-entrega-editorial-neutra.png",
     "imageAlt": "Cena editorial neutra de caixas de entrega sem marca em uma sala com sofá modular genérico ao fundo",
     "pros": [
       "Canais públicos e gratuitos para registrar queixas: Procon-SP, Consumidor.gov.br e Reclame Aqui",
-      "100% de taxa de resposta no Reclame Aqui nos últimos 6 meses (tempo médio de resposta de 2 dias e 12 horas)",
+      "99,8% das reclamações respondidas no Reclame Aqui, no recorte de maio a outubro de 2026",
       "Juizado Especial Cível não cobra custas em 1ª instância para causas de até 40 salários mínimos"
     ],
     "cons": [
-      "Selo de reputação 'Regular' no Reclame Aqui com nota média do consumidor de 4,45/10 (nota geral 6.0/10)",
-      "Índice de solução de 55,2% nos últimos 6 meses, com 48,4% dos clientes afirmando que voltariam a fazer negócio",
-      "Histórico de fiscalização e notificações formais por órgãos de defesa do consumidor em 2025"
+      "Selo Regular no Reclame Aqui, nota geral 6,4 e nota do consumidor 5,04, no recorte de maio a outubro de 2026",
+      "59,8% de reclamações resolvidas e 54,4% de clientes que voltariam a fazer negócio nesse recorte",
+      "Histórico de fiscalização e notificações por órgãos de defesa do consumidor, segundo a imprensa"
     ],
     "affiliate": "damie",
     "editorialNote": "Artigo informativo, com fontes públicas. O Em Casa com Cecília mantém parceria de afiliado com a Damie e pode receber comissão em compras, sem custo extra para você.",
@@ -39734,14 +39740,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resumo rápido",
         "paragraphs": [
-          "A Sofá na Caixa viralizou com sofás modulares em caixa, mas desde 2025 acumula reclamações por atraso, produto não recebido e estorno não feito, e o Procon-SP abriu fiscalização. No Reclame Aqui, ela aparece como Regular, e o site não está na lista de sites a evitar. Veja abaixo a linha do tempo e o que fazer."
+          "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso, produto não recebido e estorno não feito. A imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, aparece como Regular, nota 6,4. Ela não consta na lista de sites a evitar, o que não encerra a investigação nem garante a compra."
         ]
       },
       {
         "heading": "Da fama nas redes sociais a um problema real",
         "paragraphs": [
           "Sofás modulares entregues em caixas compactas, para montar em casa, viraram uma das buscas mais fortes do mobiliário online no Brasil entre 2024 e 2025. Entre as marcas que mais se destacaram nesse movimento está a Sofá na Caixa, fundada em 2024 por Rubens Stuque, que ganhou visibilidade rápida com uma campanha de marketing digital agressiva e chegou a ser citada em reportagem da revista Forbes sobre o faturamento expressivo da primeira semana de operação.",
-          "Segundo o Procon-SP e reportagens publicadas em 2025, o crescimento acelerado foi seguido por reclamações de atraso, falta de entrega e dificuldades para obter reembolso. Em entrevista à BBC News Brasil, o fundador reconheceu pedidos em atraso e citou desafios logísticos e custos de insumos entre os fatores enfrentados pela empresa."
+          "Segundo reportagens publicadas em 2025, o crescimento acelerado foi seguido por reclamações de atraso, falta de entrega e dificuldades para obter reembolso. Em entrevista à BBC News Brasil, o fundador reconheceu pedidos em atraso e citou desafios logísticos e custos de insumos entre os fatores enfrentados pela empresa."
         ],
         "image": "/images/reviews/sofa-na-caixa/bbc-news-sofa-na-caixa-manchete.png",
         "imageAlt": "Manchete de reportagem da BBC News Brasil sobre a explosão de reclamações contra a Sofá na Caixa",
@@ -39751,13 +39757,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A linha do tempo da crise",
         "paragraphs": [
-          "Da fundação à fiscalização, quatro marcos entre 2024 e 2025, segundo fontes oficiais e reportagens:"
+          "Da fundação à fiscalização, os marcos entre 2024 e 2025, conforme as reportagens da BBC News Brasil e da Exame:"
         ],
         "bullets": [
           "2024 — A empresa é fundada e expande suas operações de vendas nas redes sociais",
-          "2025 — O Procon-SP abre procedimento de fiscalização e notifica a empresa diante do aumento expressivo de reclamações por atrasos e falta de entrega",
-          "Outubro de 2025 — Reportagem da BBC News Brasil documenta a abertura de investigações por órgãos de defesa do consumidor e reúne relatos de clientes aguardando entregas ou reembolsos",
-          "Segundo semestre de 2025 — Procon-SP inicia o procedimento administrativo para inclusão do site e domínio da empresa na lista pública 'Evite Estes Sites'"
+          "2025 — Segundo a Exame, o Procon-SP abre investigação e notifica a empresa diante do aumento de reclamações por atrasos e falta de entrega",
+          "Outubro de 2025 — Reportagem da BBC News Brasil documenta a abertura de investigações por órgãos de defesa do consumidor e reúne relatos de clientes aguardando entregas ou reembolsos"
         ],
         "links": [
           {
@@ -39773,28 +39778,28 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números no Reclame Aqui: raio-X de atendimento nos últimos 6 meses",
         "paragraphs": [
-          "No Reclame Aqui (painel consultado em agosto de 2026, últimos 6 meses), a Sofá na Caixa responde tudo, mas resolve pouco mais da metade; a Damie, no mesmo período, resolve quase 9 em cada 10. Os detalhes estão nos itens abaixo."
+          "No Reclame Aqui (painel dos últimos seis meses, de maio a outubro de 2026), a Sofá na Caixa responde quase tudo, mas resolve cerca de 6 em cada 10 reclamações; a Damie, no mesmo recorte, resolve mais de 8 em cada 10. Os detalhes estão nos itens abaixo."
         ],
         "bullets": [
-          "Sofá na Caixa — Reclamações no Período: 6.766 recebidas (100% respondidas, 0 aguardando)",
-          "Sofá na Caixa — Reputação e Solução: Selo Regular, nota geral 6.0/10, índice de solução de 55,2%, 48,4% de intenção de voltar a fazer negócio e nota do consumidor 4,45/10",
-          "Damie — Reclamações no Período: 258 recebidas (100% respondidas)",
-          "Damie — Reputação e Solução: Selo de boa reputação, nota do consumidor 8,4/10 e índice de solução de 87,8%"
+          "Sofá na Caixa — Reclamações no período: 7.119 recebidas, 99,8% respondidas",
+          "Sofá na Caixa — Reputação e solução: selo Regular, nota geral 6,4/10, 59,8% de reclamações resolvidas, 54,4% de intenção de voltar a fazer negócio e nota do consumidor 5,04/10",
+          "Damie — Reclamações no período: 192 recebidas, 100% respondidas",
+          "Damie — Reputação e solução: selo Boa, nota geral 7,9/10, 83,1% de solução e 70,2% de intenção de voltar a fazer negócio"
         ],
         "postParagraphs": [
-          "Como todo indicador de Reclame Aqui, esse número muda com o tempo — vale conferir o painel atualizado diretamente no site antes de tirar qualquer conclusão."
+          "Como todo indicador de Reclame Aqui, esse número muda com o tempo: vale conferir o painel atualizado direto no site antes de tirar qualquer conclusão. As capturas de tela abaixo são de uma consulta anterior, com números mais antigos que os do texto (na consulta de agosto, a Sofá na Caixa tinha 6.766 reclamações e a Damie, 258)."
         ],
         "images": [
           {
             "src": "/images/reviews/sofa-na-caixa/reclame-aqui-sofa-na-caixa-painel.webp",
-            "alt": "Painel Reclame Aqui Sofá na Caixa (6.766 queixas, solução 55,2%)",
-            "caption": "Painel de reputação da Sofá na Caixa no Reclame Aqui (últimos 6 meses: 6.766 reclamações, 55,2% de solução e nota 6.0/10).",
+            "alt": "Painel do Reclame Aqui da Sofá na Caixa em uma consulta anterior",
+            "caption": "Painel da Sofá na Caixa no Reclame Aqui numa consulta anterior: os números do texto são os mais recentes.",
             "objectFit": "portrait"
           },
           {
             "src": "/images/reviews/sofa-na-caixa/reclame-aqui-damie-painel.webp",
-            "alt": "Painel Reclame Aqui Damie (258 queixas, solução 87,8%)",
-            "caption": "Painel de reputação da Damie no Reclame Aqui (últimos 6 meses: 258 reclamações, 87,8% de solução e nota do consumidor 8,4/10).",
+            "alt": "Painel do Reclame Aqui da Damie em uma consulta anterior",
+            "caption": "Painel da Damie no Reclame Aqui numa consulta anterior: os números do texto são os mais recentes.",
             "objectFit": "portrait"
           }
         ],
@@ -39808,8 +39813,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Consulta à lista 'Evite Estes Sites' do Procon-SP",
         "paragraphs": [
-          "Em 2025, o Procon-SP abriu procedimento de fiscalização sobre a Sofá na Caixa devido a notificações de atrasos e falta de entrega.",
-          "Na consulta feita diretamente no sistema público da lista 'Evite Estes Sites' do Procon-SP, o domínio oficial da empresa (sofanacaixa.com.br) NÃO consta na lista de e-commerces evitados ou bloqueados."
+          "Em 2025, segundo a Exame, o Procon-SP abriu investigação sobre a Sofá na Caixa devido a notificações de atrasos e falta de entrega.",
+          "Na versão da lista \"Evite Estes Sites\" atualizada em 12/05/2026, o domínio sofanacaixa.com.br e a empresa não aparecem. Isso não encerra a investigação nem garante uma compra sem problemas: a lista é outra consulta, separada das reclamações e da fiscalização."
         ],
         "bullets": [
           "Confira você mesmo a lista Evite Estes Sites e o painel Empresas Reclamadas antes de pagar, porque a situação muda."
@@ -39837,28 +39842,27 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Procon-SP (2026): comparação de registros no painel 'Empresas Reclamadas'",
+        "heading": "Procon-SP: comparação de registros no painel \"Empresas Reclamadas\"",
         "paragraphs": [
-          "Transparência comercial: O Em Casa com Cecília mantém link de afiliado com a fabricante Damie. Ao pesquisar marcas de estofados modulares online em 2026, analisamos os registros públicos do Procon-SP para comparar o volume de demandas abertas no órgão.",
-          "No painel 'Empresas Reclamadas' do Procon-SP, a Sofá na Caixa soma 1.125 queixas contra 6 da Damie.",
-          "A pesquisa 'Empresas Reclamadas' quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista 'Evite Estes Sites', que é uma consulta administrativa separada."
+          "Transparência comercial: o Em Casa com Cecília mantém parceria de afiliado com a Damie e pode receber comissão em compras, sem custo extra para você. A comparação abaixo é só um retrato de volume, não uma prova de qualidade.",
+          "No painel \"Empresas Reclamadas\" do Procon-SP, na consulta anterior feita para este artigo, a Sofá na Caixa somava 1.125 queixas e a Damie, 6. O período e o filtro dessa consulta não foram registrados, e volume absoluto não é taxa de falhas por pedido: uma empresa que vende muito mais tende a receber mais queixas.",
+          "A pesquisa \"Empresas Reclamadas\" quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista \"Evite Estes Sites\", que é uma consulta administrativa separada."
         ],
         "bullets": [
-          "Procon-SP 2026 — Sofá na Caixa: 1.125 reclamações registradas no painel do órgão",
-          "Procon-SP 2026 — Damie: 6 reclamações registradas no mesmo painel de busca",
-          "Proporção no Procon-SP: A Sofá na Caixa registra mais de 180 vezes o volume de queixas abertas da Damie no órgão paulista"
+          "Painel do Procon-SP (consulta anterior) — Sofá na Caixa: 1.125 reclamações registradas",
+          "Painel do Procon-SP (consulta anterior) — Damie: 6 reclamações registradas no mesmo painel de busca"
         ],
         "images": [
           {
             "src": "/images/reviews/sofa-na-caixa/procon-sp-pesquisa-evite-sites.webp",
-            "alt": "Painel Empresas Reclamadas do Procon-SP para Sofá na Caixa, com 1.125 registros em 2026",
-            "caption": "Painel Empresas Reclamadas do Procon-SP: Sofá na Caixa com 1.125 registros em 2026.",
+            "alt": "Painel Empresas Reclamadas do Procon-SP para Sofá na Caixa, com 1.125 registros",
+            "caption": "Painel Empresas Reclamadas do Procon-SP: Sofá na Caixa com 1.125 registros, em consulta anterior.",
             "objectFit": "contain"
           },
           {
             "src": "/images/reviews/sofa-na-caixa/procon-sp-damie-pesquisa.webp",
-            "alt": "Painel Empresas Reclamadas do Procon-SP para Damie, com 6 registros em 2026",
-            "caption": "Painel Empresas Reclamadas do Procon-SP: Damie com 6 registros em 2026.",
+            "alt": "Painel Empresas Reclamadas do Procon-SP para Damie, com 6 registros",
+            "caption": "Painel Empresas Reclamadas do Procon-SP: Damie com 6 registros, em consulta anterior.",
             "objectFit": "contain"
           }
         ],
@@ -39876,19 +39880,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas, mas enfrentou forte pico de atrasos de entrega e reclamações em 2025 devido à alta demanda. No Reclame Aqui, a marca responde 100% das queixas, mas resolve pouco mais da metade; os números estão no capítulo sobre o Reclame Aqui.",
-          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na consulta ao sistema do Procon-SP, o domínio oficial da Sofá na Caixa NÃO consta na lista ativa de sites evitados.",
-          "Qual é a nota da Sofá na Caixa no Reclame Aqui em 2026? A empresa tem selo Regular. A marca responde tudo, mas resolve pouco mais da metade; a nota e os demais números estão no capítulo sobre o Reclame Aqui.",
+          "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas e enfrentou um pico de atrasos de entrega e reclamações em 2025, que o fundador, segundo a BBC News Brasil, atribuiu a desafios logísticos e custos de insumos. No Reclame Aqui, a marca responde quase todas as queixas, mas resolve cerca de 6 em cada 10; os números estão no capítulo sobre o Reclame Aqui.",
+          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na última versão publicada da lista, o domínio oficial não aparece. Isso não encerra a investigação nem garante a compra.",
+          "Qual é a nota da Sofá na Caixa no Reclame Aqui? A empresa tem selo Regular e nota 6,4 no recorte mais recente de seis meses. A marca responde quase tudo, mas resolve cerca de 6 em cada 10; os demais números estão no capítulo sobre o Reclame Aqui.",
           "O que fazer se comprei e não recebi o produto? Guarde todos os comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o direito ao reembolso ou cumprimento da oferta. É possível registrar queixa no Procon-SP ou Consumidor.gov.br e recorrer ao Juizado Especial Cível (sem advogado até 20 salários mínimos; com advogado entre 20 e 40 salários mínimos)."
         ]
       },
       {
         "heading": "Fontes",
         "paragraphs": [
-          "Este artigo se baseia nas seguintes fontes públicas, consultadas:"
+          "Este artigo se baseia nas seguintes fontes públicas:"
         ],
         "bullets": [
-          "Procon-SP — comunicados oficiais sobre fiscalização de e-commerces e lista 'Evite Estes Sites'",
+          "Procon-SP — lista 'Evite Estes Sites' e painel 'Empresas Reclamadas'",
           "BBC News Brasil — 'Como Sofá na Caixa foi de sucesso viral nas redes à explosão de reclamações de clientes' (outubro/2025, republicado via O Povo)",
           "Exame — 'Sofá na Caixa: Procon-SP abre investigação contra empresa após 500 reclamações' (julho/2025)",
           "Reclame Aqui — painel público de reputação de empresas de móveis"
@@ -39897,7 +39901,8 @@ export const reviewsData: unknown[] = [
     ],
     "isNew": false,
     "imageAspect": "landscape",
-    "imageFit": "cover"
+    "imageFit": "cover",
+    "bodyDatesReason": "reclame-aqui"
   },
   {
     "id": 250,
@@ -41523,16 +41528,31 @@ export const reviewsData: unknown[] = [
     "id": 261,
     "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
     "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real",
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
     "type": "Review de Produto",
     "category": "produtos-experiencias",
     "reviewKind": "produto",
     "draft": false,
-    "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
+    "description": "Review da Dolce Gusto Mini Me 2.0 Terracota no teste do Bruno: uso na bancada, Lungo e Matinal, aquecimento, plugue de 20A, pingamento e compatibilidade com cápsulas.",
     "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real",
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Review da Mini Me 2.0 Terracota: controles, Lungo e Matinal e o aquecimento.",
     "publishedAt": "12 de agosto de 2026",
     "publishedAtISO": "2026-08-12",
-    "updatedAt": "2026-08-12",
+    "updatedAt": "2026-11-06",
     "image": "/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-capa-discover.webp",
     "imageAlt": "Bruno com a caixa da cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 e a máquina vermelha com cápsulas, em gravação para o canal Em Casa com Cecília",
     "imageFit": "contain",
@@ -41576,7 +41596,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Sistema de Cápsulas",
-        "value": "Dolce Gusto Original"
+        "value": "Dolce Gusto Original; cápsulas NEO selecionadas só com o Adaptador NEO Start (água quente)"
       }
     ],
     "rating": {
@@ -41603,26 +41623,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada, o que pesa é o plugue de 20A e o pingamento depois do preparo. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, o que pesa é o plugue de 20A e o pingamento depois do preparo. Ela é compatível com cápsulas Original; as NEO exigem o Adaptador NEO Start."
         ]
       },
       {
         "heading": "Design Terracota e controles da Mini Me 2.0",
         "paragraphs": [
-          "Para o cantinho do café de quem trabalha no computador, o que decide é bancada livre e praticidade. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota: um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
+          "Para o cantinho do café de quem trabalha no computador, o que decide é bancada livre e praticidade. No teste do Bruno com a NESCAFÉ Dolce Gusto Mini Me 2.0, a unidade era na cor Terracota, um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
           "Em relação à Mini Me clássica, que usa uma alavanca para alternar entre água quente e fria, a versão 2.0 a substitui por controles superiores. No painel, há dois controles principais: um botão para selecionar a temperatura da bebida e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula, e o reservatório transparente de 0,8 litro fica na parte traseira."
         ]
       },
       {
-        "heading": "Minha experiência: considerações e rotina de uso",
+        "heading": "Experiência de uso no teste do Bruno",
         "paragraphs": [
-          "Para quem quer ir além do café sem complicar o preparo, a 2.0 é a entrada atualizada. Achei o design mais compacto e bonito, e os controles são intuitivos no dia a dia. Ela prepara uma grande variedade de bebidas quentes e frias de forma rápida e descomplicada; para mim, é uma boa escolha para quem quer ir além do café e ter bebidas em cápsula sem abrir mão da praticidade no preparo.",
-          "Na rotina de trabalho, as bebidas que mais preparo na Mini Me 2.0 são o **Lungo** (nível 4 de dosagem, ~120 ml) e o **Café Matinal** (níveis 6 a 7, ~180 a 200 ml). São opções que rendem uma xícara maior para acompanhar períodos mais longos de foco, sem a necessidade de interromper o trabalho para preparar outra bebida tão cedo.",
-          "O funcionamento é simples: você seleciona a temperatura desejada, ajusta o número de barras na escala conforme a indicação da cápsula (ou pela nossa [tabela de medidas em ml por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)) e inicia o preparo. A máquina realiza a extração automática com pressão de 15 bar e interrompe o fluxo ao atingir o volume selecionado."
+          "Para quem quer ir além do café sem complicar o preparo, a 2.0 é a entrada atualizada. O design pareceu mais compacto e bonito, e os controles foram intuitivos no dia a dia. Ela prepara uma grande variedade de bebidas quentes e frias de forma rápida e descomplicada; é uma boa escolha para quem quer ir além do café e ter bebidas em cápsula sem abrir mão da praticidade no preparo.",
+          "Na rotina de trabalho, as bebidas que o Bruno mais prepara na Mini Me 2.0 são o **Lungo** (nível 4 de dosagem, ~120 ml) e o **Café Matinal** (níveis 6 a 7, ~180 a 200 ml). São opções que rendem uma xícara maior para acompanhar períodos mais longos de foco, sem a necessidade de interromper o trabalho para preparar outra bebida tão cedo.",
+          "O funcionamento é simples: você seleciona a temperatura desejada, ajusta o número de barras na escala conforme a indicação da cápsula (ou pela [tabela aproximada de ml por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)) e inicia o preparo. A máquina realiza a extração automática com pressão de 15 bar e interrompe o fluxo ao atingir o volume selecionado."
         ],
         "links": [
           {
-            "label": "Consulte a tabela de medidas em ml por nível confirmada no manual da Mini Me 2.0",
+            "label": "Consulte a tabela aproximada de ml por nível para a Mini Me 2.0",
             "href": "/reviews/tabela-medidas-dolce-gusto-ml-por-nivel"
           }
         ],
@@ -41636,19 +41656,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pontos reais de atenção: o que observar no uso prático",
         "paragraphs": [
-          "O que só aparece no uso contínuo: aquecimento, plugue, pingamento e o Eco de 1 minuto."
+          "O que só aparece no uso contínuo: aquecimento, plugue, pingamento, o Eco de 1 minuto e a compatibilidade com cápsulas."
         ],
         "bullets": [
           "**Dois controles no painel:** Um botão seleciona a temperatura da bebida; o outro inicia o preparo com a dosagem automática definida pelas barras da cápsula.",
           "**Modo Eco (1 minuto sem uso):** desliga sozinha após 1 minuto parada; a economia de até 20% é número da fabricante.",
           "**Tempo de aquecimento inicial (20 a 30 segundos):** Ao ligar a máquina, o LED pisca em vermelho durante o pré-aquecimento do termobloco, levando entre 20 e 30 segundos até ficar verde contínuo.",
-          "**Plugue de 20 Amperes (127V):** Na unidade 127V testada em nossa bancada, o cabo elétrico conta com o plugue de 20A (pinos de 4,8mm mais grossos). É recomendável confirmar a voltagem e o padrão da tomada na sua residência antes da compra.",
-          "**Pingamento pós-preparo:** depois que o fluxo para, a cápsula pode continuar pingando por um tempo. Por isso, mantenha limpa a bandeja removível das xícaras."
+          "**Plugue de 20 Amperes (127V):** Na unidade 127V testada na bancada do Bruno, o cabo elétrico conta com o plugue de 20A (pinos de 4,8mm mais grossos). É recomendável confirmar a voltagem e o padrão da tomada na sua residência antes da compra.",
+          "**Pingamento pós-preparo:** depois que o fluxo para, a cápsula pode continuar pingando por um tempo. Por isso, mantenha limpa a bandeja removível das xícaras.",
+          "**Cápsulas Original e NEO:** a página oficial da Mini Me 2.0 diz que a máquina só é compatível com cápsulas Original e que as NEO pedem o Adaptador NEO Start, que prepara cafés pretos NEO selecionados, apenas com água quente."
         ],
         "links": [
           {
             "label": "Comunicado Oficial da Nestlé Brasil sobre o Lançamento da Mini Me 2.0",
             "href": "https://www.nestle.com.br/media/pressreleases/allpressreleases/nescafe-dolce-gusto-lan%C3%A7a-mini-me-20-para-oferecer-mais-praticidade-no-dia-dia-e-ate-20-de-economia-de-energia"
+          },
+          {
+            "label": "O que é o Adaptador NEO Start e quais cápsulas NEO ele atende",
+            "href": "/reviews/adaptador-neo-start-o-que-e"
           }
         ]
       },
@@ -41687,6 +41712,7 @@ export const reviewsData: unknown[] = [
           "O que é o Modo Eco da Mini Me 2.0? É o sistema de desligamento automático da máquina após 1 minuto de inatividade, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
           "Quanto tempo a Mini Me 2.0 demora para esquentar? O pré-aquecimento do termobloco leva entre 20 e 30 segundos, quando o LED passa de vermelho para verde.",
           "Qual o padrão de tomada da Mini Me 2.0? Na unidade 127V testada, a máquina utiliza o plugue de 20 Amperes (20A) com pinos de 4,8mm. Recomenda-se confirmar a voltagem e o plugue no manual do fabricante antes de instalar.",
+          "A Mini Me 2.0 aceita cápsulas NEO? Só com o Adaptador NEO Start. Segundo a página oficial, a máquina é compatível com cápsulas Original; o adaptador prepara apenas cafés pretos NEO selecionados, só com água quente, então confira a compatibilidade do sabor antes de comprar.",
           "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é compatível com a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto para o sistema Original disponíveis no mercado.",
           "O cupom CECI vale para a Mini Me 2.0? O cupom CECI pode ser testado no checkout da loja oficial da NESCAFÉ Dolce Gusto para verificar a concessão de 10% de desconto em compras a partir de R$ 100."
         ]
@@ -41699,10 +41725,13 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Review com uso próprio da máquina. Podemos receber comissão pelo cupom CECI.",
+    "editorialNote": "Teste feito pelo Bruno, em casa. O cupom CECI pode gerar comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
+      },
+      {
+        "slug": "adaptador-neo-start-o-que-e"
       },
       {
         "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
@@ -41733,7 +41762,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, instalação, como usar na primeira vez, app SmartThings e o primeiro ciclo com secagem.",
     "publishedAt": "17 de agosto de 2026",
     "publishedAtISO": "2026-08-17",
-    "updatedAt": "2026-08-17",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "hideFromListings": false,
     "image": "/images/reviews/samsung/cecilia-amelia-instalada.webp",
@@ -41802,7 +41831,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Funções 3 em 1",
-        "value": "Lava, seca e esteriliza a seco (Air Wash)"
+        "value": "Lava, seca e higieniza a seco (Air Wash, segundo a Samsung)"
       },
       {
         "key": "Tecnologia de Lavagem",
@@ -41835,21 +41864,21 @@ export const reviewsData: unknown[] = [
     ],
     "pros": [
       "Secagem real que entrega roupas e toalhas prontas para uso, um alívio em dias de chuva",
-      "Economia perceptível de sabão e amaciante em comparação com lavadoras convencionais de agitador",
+      "Impressão de usar menos sabão e amaciante do que na lavadora de abertura superior, sem medição",
       "Conectividade SmartThings que permite acompanhar tempo, diagnósticos e consumo de água e energia",
       "Funcionamento silencioso com motor calibrado e lavagem suave que abre as fibras das toalhas"
     ],
     "cons": [
       "Manual impresso resumido a uma folha com QR code, exigindo o celular para consultar detalhes",
-      "Ciclos completos com lavagem a quente e secagem são longos (somam mais de 4h30 no programa toalhas)",
+      "Ciclos completos com lavagem a quente e secagem são longos (as estimativas do visor somaram cerca de 4h50 no programa toalhas)",
       "Exige atenção rigorosa à retirada dos parafusos traseiros de transporte antes da primeira ligação",
-      "Manchas profundas ou mofo antigo de cesto continuam exigindo pré-tratamento específico com percarbonato"
+      "Manchas profundas ou mofo antigo de cesto continuam exigindo pré-tratamento, conforme a etiqueta da peça e as instruções do produto"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Samsung 13 kg foi a nossa primeira lava e seca, e a secagem de quatro toalhas funcionou bem. O que pesa são a porta de 80 cm, o encanamento e a instalação, que pedem planejamento."
+          "A Samsung WD13FG foi a nossa primeira lava e seca. Na estreia, quatro toalhas lavadas a 60 °C e secas no tambor estavam macias e prontas para guardar quando conferi na manhã seguinte. O visor estimou 2h45 de secagem. O que pede planejamento são a porta de 80 cm, o encanamento e a instalação."
         ]
       },
       {
@@ -41890,7 +41919,7 @@ export const reviewsData: unknown[] = [
         "heading": "O sufoco do encanamento e a instalação na lavanderia",
         "paragraphs": [
           "A mangueira de drenagem já vem com uma curva plástica rígida: encaixa na saída da parede ou apoia na borda do tanque. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
-          "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Fica a dica de ouro: verifique a rosca e a tubulação da sua parede antes da instalação.",
+          "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Foi um improviso do nosso caso, não um método recomendado: siga a instalação indicada no manual do modelo ou chame a assistência técnica, e confira antes a tubulação da sua parede.",
           "Com a máquina no lugar e nivelada pelos pezinhos reguláveis, veio a melhor parte de todo o processo: puxar a película adesiva dos plásticos brilhantes da carcaça e do painel digital."
         ],
         "image": "/images/reviews/samsung/amelia-no-lugar.webp",
@@ -41900,10 +41929,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "App SmartThings, calibração do tambor e a gaveta de sabão",
         "paragraphs": [
-          "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina realizou a calibração automática do tambor vazio, ajustando os sensores inteligentes de detecção de peso da carga antes da primeira lavagem.",
+          "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina fez uma calibração do tambor vazio, que entendi como o ajuste dos sensores de peso da carga. Foi o que observei na estreia, não um passo a passo de instalação: o procedimento correto está no manual do modelo. O aplicativo é opcional e não é condição para lavar.",
           "Pelo aplicativo dá para ver o tempo restante, os diagnósticos, o aviso de autolimpeza (a cada 40 ciclos) e o consumo de energia e água.",
           "A gaveta tem três partes: 1 para pré-lavagem, 2 para lavagem principal e a do meio para amaciante. A parte 2 traz pecinha azul para sabão líquido.",
-          "Uma grande surpresa de quem vem de lavadoras de abertura superior: a lava e seca consome muito menos insumo! Como a lavagem frontal funciona por tombamento da roupa (e não enchendo 100 litros de água no tanque), uma única tampinha de sabão líquido foi mais que suficiente. Já o amaciante concentrado pede diluição prévia em um pouco de água para não grudar no dispenser."
+          "Uma surpresa para quem vem de lavadoras de abertura superior: a impressão é de gastar menos sabão. A lavagem frontal funciona por tombamento da roupa, e uma única tampinha de sabão líquido pareceu suficiente nessa carga de quatro toalhas, sem comparação medida. Já o amaciante concentrado pede diluição prévia em um pouco de água para não grudar no dispenser."
         ]
       },
       {
@@ -41911,22 +41940,22 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Para estrear a Dona Amélia, escolhi quatro toalhas de banho de diferentes estados: duas brancas limpas, uma com uso normal e uma toalha bastante encardida que estava no fundo do cesto.",
           "Selecionei no painel o programa **Toalhas**, temperatura ajustada em **60 °C**, nível de enxágue 4 e centrifugação em **800 RPM**. Fiquei nos 800 RPM neste primeiro teste: na rotação máxima, tive a impressão de que o cheiro do amaciante fixa menos nas peças.",
-          "Coloquei as toalhas ocupando cerca de **metade do tambor**. Em ciclo com secagem, mantenha a carga entre metade e três quartos do cesto: a roupa precisa de espaço para tombar e secar por igual.",
-          "A porta travou com trava de segurança, a máquina fez o sensoriamento inteligente de peso (AI sensing) e estimou inicialmente 2h26, recalculando logo depois para **2h04**. O molhamento é gradual e inteligente: a água entra aos poucos em jatos enquanto a máquina gira, molhando o contorno externo antes de ensopar o miolo."
+          "Coloquei as toalhas ocupando cerca de **metade do tambor**. Respeite o limite de carga de cada programa no manual do modelo, lembrando que a capacidade é de 13 kg para lavar e 8 kg para secar.",
+          "A porta travou com trava de segurança, a máquina fez o sensoriamento inteligente de peso (AI sensing) e estimou inicialmente 2h26, recalculando logo depois para **2h04** (estimativas do visor, não tempo cronometrado). O molhamento é gradual e inteligente: a água entra aos poucos em jatos enquanto a máquina gira, molhando o contorno externo antes de ensopar o miolo."
         ],
         "image": "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",
         "imageAlt": "Capa do vídeo Minha primeira lava e seca com Cecília e a Samsung 13 kg",
         "imageCaption": "A capa do nosso vídeo: 3 dias de gravação para mostrar tudo tintim por tintim."
       },
       {
-        "heading": "Centrifugação, secagem de 2h45 e o veredito das toalhas",
+        "heading": "Centrifugação, secagem estimada em 2h45 e o veredito das toalhas",
         "paragraphs": [
           "Quando o ciclo de lavagem e centrifugação terminou, abri a porta para conferir: as toalhas estavam quentinhas da água a 60 °C, cheirosas de amaciante, mas ainda úmidas: a umidade clássica de uma centrifugação a 800 RPM. A toalha mais suja havia clareado bastante, mas ainda mostrava marcas de sujeira profunda.",
           "Decidi ativar o ciclo de **Secagem** na mesma carga. O visor estimou **2h45 minutos** de secagem térmica. O ciclo terminou tarde da noite, então deixei a máquina fechada e só fui abrir no dia seguinte pela manhã para o veredito final.",
           "Ao abrir o tambor pela manhã: toalhas **100% secas, macias, fofas e quentinhas**, prontas para dobrar e guardar ou usar direto no banho! O cheiro característico é de lavanderia profissional. Com a temperatura alta da secagem, o aroma forte do amaciante deu uma leve amenizada, ficando um perfume muito agradável e limpo.",
           "Analisando o resultado de cada toalha na bancada:",
           "1. **As toalhas brancas:** que entraram limpas permaneceram super brancas, macias e impecáveis.",
-          "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum: exige pré-tratamento com tira-manchas ou percarbonato de sódio antes de bater (sempre conferindo as instruções da embalagem e se a etiqueta da peça permite esse tratamento).",
+          "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum: exige pré-tratamento antes de bater: tira-manchas ou percarbonato de sódio, se a etiqueta da peça e as instruções do produto permitirem.",
           "3. **Aspecto amarelado:** notei que duas toalhas pareciam ligeiramente amareladas na dobra, o que me fez pensar em testar receitas de clareamento nos próximos ciclos.",
           "A grande conclusão: em dias de chuva ou tempo úmido, ter uma secadora em casa é uma verdadeira glória. Ela reduz o risco de as roupas ficarem dias no varal, pegarem cheiro de umidade ou mofarem no cesto por falta de sol."
         ]
@@ -41938,10 +41967,10 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Tire os 4 parafusos de transporte da parte traseira com a chave inclusa, antes de ligar a máquina;",
-          "Instale a máquina na água e no esgoto e ligue na tomada;",
-          "Pareie com o aplicativo SmartThings pelo QR code; enquanto isso, a máquina calibra sozinha o tambor vazio;",
+          "Instale a máquina na água e no esgoto seguindo o manual do modelo ou com a assistência técnica, e ligue na tomada;",
+          "Se quiser, pareie com o aplicativo SmartThings pelo QR code; na estreia, enquanto isso, a máquina fez uma calibração do tambor vazio, e o procedimento certo está no manual;",
           "Abasteça a gaveta: compartimento 1 para a pré-lavagem, 2 para a lavagem principal (com a pecinha azul encaixada se o sabão for líquido) e o do meio, com a florzinha, para o amaciante, diluído antes em um pouco de água se for concentrado;",
-          "Coloque a roupa ocupando de metade a, no máximo, três quartos do tambor;",
+          "Coloque a roupa respeitando o limite de carga do programa no manual (13 kg para lavar, 8 kg para secar);",
           "Escolha o programa, a temperatura e a centrifugação no painel (na estreia, Toalhas, 60 °C e 800 RPM) e inicie: a máquina pesa a carga e recalcula o tempo;",
           "Para secar, ative o ciclo de Secagem na mesma carga quando a lavagem terminar; nas nossas quatro toalhas, o visor estimou 2h45."
         ]
@@ -41951,16 +41980,16 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Depois desse primeiro teste completo, resumimos as nossas principais impressões práticas:",
           "**Pontos Fortes Observados:**",
-          "• **Secagem real e eficiente:** no nosso teste com quatro toalhas, as peças saíram 100% secas, macias e prontas para guardar ou usar no mesmo dia.",
+          "• **Secagem real e eficiente:** no nosso teste com quatro toalhas, as peças estavam 100% secas, macias e prontas para guardar quando conferi na manhã seguinte.",
           "• **Grande alívio em dias de chuva:** reduz a dependência de varal e ajuda a evitar que peças peguem cheiro de umidade ou mofem no cesto por falta de sol.",
-          "• **Economia notável de produtos:** a lavagem por tombamento exige muito menos sabão e amaciante que máquinas convencionais.",
+          "• **Impressão de economia de produtos:** nesse uso, pareceu bastar menos sabão e amaciante, sem comparação medida.",
           "• **Conectividade SmartThings:** monitoramento prático pelo celular de tempo de ciclo, água e energia elétrica.",
           "• **Design compacto:** passou com facilidade na porta de 80 cm da lavanderia (máquina tem 60 cm de largura).",
           "**Pontos de Atenção:**",
           "• **Manual impresso mínimo:** manual físico de apenas uma folha com QR code, exigindo o celular para ler detalhes.",
-          "• **Duração dos ciclos combinados:** o programa completo de toalhas com lavagem a 60 °C e secagem térmica soma cerca de 4h50 no total.",
+          "• **Duração dos ciclos combinados:** o programa completo de toalhas com lavagem a 60 °C e secagem térmica soma cerca de 4h50 pelas estimativas do visor.",
           "• **Parafusos traseiros de transporte:** remoção obrigatória antes de ligar para evitar vibrações no tambor.",
-          "• **Manchas severas de mofo:** exigem pré-tratamento com tira-manchas ou percarbonato antes de ir para a máquina.",
+          "• **Manchas severas de mofo:** exigem pré-tratamento antes de ir para a máquina, conforme a etiqueta da peça e as instruções do produto.",
           "Para quem lava sem varal ou em região de chuva, a secagem resolve; para quem precisa de ciclo rápido, o combinado de quase 5 horas pesa.",
           "**Divulgação de Afiliados:** Como associado da Amazon, eu ganho com compras qualificadas. Os links para Amazon e Mercado Livre são links afiliados/comerciais que ajudam a apoiar o canal Em Casa com Cecília sem custo adicional para o comprador."
         ],
@@ -41993,21 +42022,21 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre a Samsung 13 kg",
         "bullets": [
           "Qual é o modelo exato da lava e seca? Samsung WD13FG6B34BEAZ, da linha Lava e Seca Smart WD13FG com AI Control Branca 127V, com capacidade para 13,0 kg de lavagem e 8,0 kg de secagem.",
-          "Como usar a lava e seca Samsung pela primeira vez? Tire os parafusos de transporte, instale, pareie com o SmartThings (a máquina calibra o tambor sozinha), abasteça a gaveta, coloque a roupa até a metade do tambor e escolha programa, temperatura e centrifugação; o passo a passo está na seção acima.",
+          "Como usar a lava e seca Samsung pela primeira vez? Tire os parafusos de transporte, instale, pareie com o SmartThings, se quiser,, abasteça a gaveta, coloque a roupa respeitando o limite de carga do programa no manual e escolha programa, temperatura e centrifugação; o passo a passo está na seção acima.",
           "Quais são as dimensões e o peso da máquina? Estão no quadro do produto, no topo: a máquina tem 60 cm de largura e passou na nossa porta de 80 cm, mas meça o vão livre antes da entrega.",
           "O que é a tecnologia Ecobubble e VRT Plus? O Ecobubble transforma o sabão em bolhas ativas para penetrar mais rápido nas fibras, enquanto o VRT Plus (VRT+) é o sistema de sensores que reduz ruídos e vibrações durante a centrifugação.",
-          "Ela esteriliza a seco? Sim, o modelo é 3 em 1 (lava, seca e esteriliza a seco através da tecnologia Air Wash, que elimina odores e bactérias com ar quente sem usar água).",
+          "Ela higieniza a seco? O modelo é anunciado pela Samsung como 3 em 1 (lava, seca e higieniza a seco com a tecnologia Air Wash, que usa ar quente sem água). Os resultados prometidos são alegações da fabricante; não testamos essa função.",
           "O motor é econômico? Sim, ela conta com motor Digital Inverter da Samsung, que oferece alta eficiência energética, baixo ruído e durabilidade superior.",
           "A lava e seca passa em portas padrão de 80 cm? Sim, no nosso teste passou na porta de 80 cm da lavanderia (a máquina tem 60 cm de largura), mas meça o vão livre e a moldura antes da entrega.",
           "É obrigatório retirar os parafusos de transporte? Sim! São 4 parafusos compridos na parte traseira que travam o tambor durante o frete. Eles devem ser retirados com a chave inclusa antes da primeira ligação.",
-          "Quanto tempo demorou o primeiro ciclo completo? O ciclo de lavagem de toalhas a 60 °C levou 2h04 minutos (recalculado pelo sensor de peso), e a secagem térmica da mesma carga levou 2h45 minutos.",
-          "A secagem realmente entrega a toalha seca? Sim, as toalhas saíram completamente secas, quentinhas e prontas para uso imediato.",
-          "Ela tira mancha pesada e mofo sem pré-lavagem? Não. Manchas profundas de mofo (de toalha guardada úmida no cesto) exigem pré-tratamento com tira-manchas ou percarbonato de sódio, sempre conforme as instruções do produto e a etiqueta da peça, antes de ir para a máquina.",
+          "Quanto tempo demorou o primeiro ciclo completo? O visor estimou 2h04 para a lavagem das toalhas a 60 °C (recalculado pelo sensor de peso) e 2h45 para a secagem da mesma carga. Não cronometramos: o ciclo terminou à noite e conferi as toalhas na manhã seguinte.",
+          "A secagem realmente entrega a toalha seca? Sim, na manhã seguinte as toalhas estavam completamente secas, macias e prontas para uso.",
+          "Ela tira mancha pesada e mofo sem pré-lavagem? Não. Manchas profundas de mofo (de toalha guardada úmida no cesto) exigem pré-tratamento antes de ir para a máquina; use tira-manchas ou percarbonato de sódio só se a etiqueta da peça e as instruções do produto permitirem.",
           "Onde consultar o produto e ofertas? Você pode conferir os preços atualizados e a disponibilidade da Samsung WD13FG de 13 kg na Amazon ou no Mercado Livre através dos links indicados neste artigo."
         ]
       }
     ],
-    "editorialNote": "Primeiras impressões, sem uso de longo prazo. Links da Amazon e do Mercado Livre são de afiliado.",
+    "editorialNote": "Primeiras impressões, sem uso de longo prazo. Os links da Amazon e do Mercado Livre são de afiliado e podem gerar comissão, sem custo extra.",
     "youtubeUrl": "https://youtu.be/xpXX_N002jo",
     "cta": {
       "text": "Confira a Lava e Seca Smart Samsung 13 kg WD13FG e consulte opções de compra",

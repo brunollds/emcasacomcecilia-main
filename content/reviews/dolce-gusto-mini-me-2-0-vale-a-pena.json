@@ -2,16 +2,31 @@
   "id": 261,
   "slug": "dolce-gusto-mini-me-2-0-vale-a-pena",
   "title": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Teste Real",
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "Edição e análise",
+      "initials": "BL"
+    }
+  ],
   "type": "Review de Produto",
   "category": "produtos-experiencias",
   "reviewKind": "produto",
   "draft": false,
-  "description": "Review completo e pessoal da cafeteira Dolce Gusto Mini Me 2.0 na cor Terracota: uso na bancada de trabalho, preparo de Lungo e Matinal, tempo de aquecimento e detalhes práticos.",
+  "description": "Review da Dolce Gusto Mini Me 2.0 Terracota no teste do Bruno: uso na bancada, Lungo e Matinal, aquecimento, plugue de 20A, pingamento e compatibilidade com cápsulas.",
   "seoTitle": "NESCAFÉ Dolce Gusto Mini Me 2.0 é Boa? Review Real",
   "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Review da Mini Me 2.0 Terracota: controles, Lungo e Matinal e o aquecimento.",
   "publishedAt": "12 de agosto de 2026",
   "publishedAtISO": "2026-08-12",
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-11-06",
   "image": "/images/reviews/dolcegusto/dolce-gusto-mini-me-2-0-capa-discover.webp",
   "imageAlt": "Bruno com a caixa da cafeteira NESCAFÉ Dolce Gusto Mini Me 2.0 e a máquina vermelha com cápsulas, em gravação para o canal Em Casa com Cecília",
   "imageFit": "contain",
@@ -55,7 +70,7 @@
     },
     {
       "key": "Sistema de Cápsulas",
-      "value": "Dolce Gusto Original"
+      "value": "Dolce Gusto Original; cápsulas NEO selecionadas só com o Adaptador NEO Start (água quente)"
     }
   ],
   "rating": {
@@ -82,26 +97,26 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada, o que pesa é o plugue de 20A e o pingamento depois do preparo. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+        "A Mini Me 2.0 é uma boa escolha para quem quer uma Dolce Gusto compacta, com controles no painel no lugar da alavanca. Na unidade 127V testada pelo Bruno, o que pesa é o plugue de 20A e o pingamento depois do preparo. Ela é compatível com cápsulas Original; as NEO exigem o Adaptador NEO Start."
       ]
     },
     {
       "heading": "Design Terracota e controles da Mini Me 2.0",
       "paragraphs": [
-        "Para o cantinho do café de quem trabalha no computador, o que decide é bancada livre e praticidade. No nosso teste real com a NESCAFÉ Dolce Gusto Mini Me 2.0, avaliamos o acabamento na cor Terracota: um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
+        "Para o cantinho do café de quem trabalha no computador, o que decide é bancada livre e praticidade. No teste do Bruno com a NESCAFÉ Dolce Gusto Mini Me 2.0, a unidade era na cor Terracota, um tom terroso que foge dos eletrodomésticos pretos convencionais e traz um toque de sofisticação para o ambiente.",
         "Em relação à Mini Me clássica, que usa uma alavanca para alternar entre água quente e fria, a versão 2.0 a substitui por controles superiores. No painel, há dois controles principais: um botão para selecionar a temperatura da bebida e outro para iniciar o preparo. A dosagem automática segue o número de barras indicado na cápsula, e o reservatório transparente de 0,8 litro fica na parte traseira."
       ]
     },
     {
-      "heading": "Minha experiência: considerações e rotina de uso",
+      "heading": "Experiência de uso no teste do Bruno",
       "paragraphs": [
-        "Para quem quer ir além do café sem complicar o preparo, a 2.0 é a entrada atualizada. Achei o design mais compacto e bonito, e os controles são intuitivos no dia a dia. Ela prepara uma grande variedade de bebidas quentes e frias de forma rápida e descomplicada; para mim, é uma boa escolha para quem quer ir além do café e ter bebidas em cápsula sem abrir mão da praticidade no preparo.",
-        "Na rotina de trabalho, as bebidas que mais preparo na Mini Me 2.0 são o **Lungo** (nível 4 de dosagem, ~120 ml) e o **Café Matinal** (níveis 6 a 7, ~180 a 200 ml). São opções que rendem uma xícara maior para acompanhar períodos mais longos de foco, sem a necessidade de interromper o trabalho para preparar outra bebida tão cedo.",
-        "O funcionamento é simples: você seleciona a temperatura desejada, ajusta o número de barras na escala conforme a indicação da cápsula (ou pela nossa [tabela de medidas em ml por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)) e inicia o preparo. A máquina realiza a extração automática com pressão de 15 bar e interrompe o fluxo ao atingir o volume selecionado."
+        "Para quem quer ir além do café sem complicar o preparo, a 2.0 é a entrada atualizada. O design pareceu mais compacto e bonito, e os controles foram intuitivos no dia a dia. Ela prepara uma grande variedade de bebidas quentes e frias de forma rápida e descomplicada; é uma boa escolha para quem quer ir além do café e ter bebidas em cápsula sem abrir mão da praticidade no preparo.",
+        "Na rotina de trabalho, as bebidas que o Bruno mais prepara na Mini Me 2.0 são o **Lungo** (nível 4 de dosagem, ~120 ml) e o **Café Matinal** (níveis 6 a 7, ~180 a 200 ml). São opções que rendem uma xícara maior para acompanhar períodos mais longos de foco, sem a necessidade de interromper o trabalho para preparar outra bebida tão cedo.",
+        "O funcionamento é simples: você seleciona a temperatura desejada, ajusta o número de barras na escala conforme a indicação da cápsula (ou pela [tabela aproximada de ml por nível](/reviews/tabela-medidas-dolce-gusto-ml-por-nivel)) e inicia o preparo. A máquina realiza a extração automática com pressão de 15 bar e interrompe o fluxo ao atingir o volume selecionado."
       ],
       "links": [
         {
-          "label": "Consulte a tabela de medidas em ml por nível confirmada no manual da Mini Me 2.0",
+          "label": "Consulte a tabela aproximada de ml por nível para a Mini Me 2.0",
           "href": "/reviews/tabela-medidas-dolce-gusto-ml-por-nivel"
         }
       ],
@@ -115,19 +130,24 @@
     {
       "heading": "Pontos reais de atenção: o que observar no uso prático",
       "paragraphs": [
-        "O que só aparece no uso contínuo: aquecimento, plugue, pingamento e o Eco de 1 minuto."
+        "O que só aparece no uso contínuo: aquecimento, plugue, pingamento, o Eco de 1 minuto e a compatibilidade com cápsulas."
       ],
       "bullets": [
         "**Dois controles no painel:** Um botão seleciona a temperatura da bebida; o outro inicia o preparo com a dosagem automática definida pelas barras da cápsula.",
         "**Modo Eco (1 minuto sem uso):** desliga sozinha após 1 minuto parada; a economia de até 20% é número da fabricante.",
         "**Tempo de aquecimento inicial (20 a 30 segundos):** Ao ligar a máquina, o LED pisca em vermelho durante o pré-aquecimento do termobloco, levando entre 20 e 30 segundos até ficar verde contínuo.",
-        "**Plugue de 20 Amperes (127V):** Na unidade 127V testada em nossa bancada, o cabo elétrico conta com o plugue de 20A (pinos de 4,8mm mais grossos). É recomendável confirmar a voltagem e o padrão da tomada na sua residência antes da compra.",
-        "**Pingamento pós-preparo:** depois que o fluxo para, a cápsula pode continuar pingando por um tempo. Por isso, mantenha limpa a bandeja removível das xícaras."
+        "**Plugue de 20 Amperes (127V):** Na unidade 127V testada na bancada do Bruno, o cabo elétrico conta com o plugue de 20A (pinos de 4,8mm mais grossos). É recomendável confirmar a voltagem e o padrão da tomada na sua residência antes da compra.",
+        "**Pingamento pós-preparo:** depois que o fluxo para, a cápsula pode continuar pingando por um tempo. Por isso, mantenha limpa a bandeja removível das xícaras.",
+        "**Cápsulas Original e NEO:** a página oficial da Mini Me 2.0 diz que a máquina só é compatível com cápsulas Original e que as NEO pedem o Adaptador NEO Start, que prepara cafés pretos NEO selecionados, apenas com água quente."
       ],
       "links": [
         {
           "label": "Comunicado Oficial da Nestlé Brasil sobre o Lançamento da Mini Me 2.0",
           "href": "https://www.nestle.com.br/media/pressreleases/allpressreleases/nescafe-dolce-gusto-lan%C3%A7a-mini-me-20-para-oferecer-mais-praticidade-no-dia-dia-e-ate-20-de-economia-de-energia"
+        },
+        {
+          "label": "O que é o Adaptador NEO Start e quais cápsulas NEO ele atende",
+          "href": "/reviews/adaptador-neo-start-o-que-e"
         }
       ]
     },
@@ -166,6 +186,7 @@
         "O que é o Modo Eco da Mini Me 2.0? É o sistema de desligamento automático da máquina após 1 minuto de inatividade, que, segundo a fabricante, reduz o consumo de energia em até 20%.",
         "Quanto tempo a Mini Me 2.0 demora para esquentar? O pré-aquecimento do termobloco leva entre 20 e 30 segundos, quando o LED passa de vermelho para verde.",
         "Qual o padrão de tomada da Mini Me 2.0? Na unidade 127V testada, a máquina utiliza o plugue de 20 Amperes (20A) com pinos de 4,8mm. Recomenda-se confirmar a voltagem e o plugue no manual do fabricante antes de instalar.",
+        "A Mini Me 2.0 aceita cápsulas NEO? Só com o Adaptador NEO Start. Segundo a página oficial, a máquina é compatível com cápsulas Original; o adaptador prepara apenas cafés pretos NEO selecionados, só com água quente, então confira a compatibilidade do sabor antes de comprar.",
         "A Mini Me 2.0 aceita cápsulas Starbucks? Sim. Ela é compatível com a linha de cápsulas Starbucks by NESCAFÉ Dolce Gusto para o sistema Original disponíveis no mercado.",
         "O cupom CECI vale para a Mini Me 2.0? O cupom CECI pode ser testado no checkout da loja oficial da NESCAFÉ Dolce Gusto para verificar a concessão de 10% de desconto em compras a partir de R$ 100."
       ]
@@ -178,10 +199,13 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Review com uso próprio da máquina. Podemos receber comissão pelo cupom CECI.",
+  "editorialNote": "Teste feito pelo Bruno, em casa. O cupom CECI pode gerar comissão, sem custo extra.",
   "relatedArticles": [
     {
       "slug": "tabela-medidas-dolce-gusto-ml-por-nivel"
+    },
+    {
+      "slug": "adaptador-neo-start-o-que-e"
     },
     {
       "slug": "promocao-dolce-gusto-caixas-mini-me-gratis"
