@@ -75817,7 +75817,7 @@ export const reviewsData: unknown[] = [
           "O cupom vale em todo o site: Pastas de Amendoim, Snacks, Whey Protein e alfajores."
         ],
         "bullets": [
-          "**Whey:** inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\". O nome das duas marcas aparece porque elas são do mesmo grupo, como explicamos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel)."
+          "**Whey:** inclusive o \"100% Whey Dr. Peanut 900g - Max Titanium\". O nome das duas marcas aparece porque elas são do mesmo grupo, como explicamos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). Se compensa comprar na Dr. Peanut ou na Max, está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
         ],
         "postParagraphs": [
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
@@ -83388,7 +83388,7 @@ export const reviewsData: unknown[] = [
           "A diferença está em duas linhas. Nos açúcares totais, o Avelã tem 8,5 g por porção, e Doce de Leite e Paçoca têm 11 g. No sódio, a Paçoca tem 229 mg, o dobro dos outros quatro, que ficam entre 105 e 113 mg. A Paçoca é o único sabor com 0 g de açúcares adicionados; nos outros, a tabela marca de 0,1 a 0,5 g.",
           "Quatro sabores têm o mesmo nome de uma pasta: Avelã, Bombom Italiano, Bueníssimo e Doce de Leite. A Paçoca só existe no whey.",
           "O rótulo do whey é diferente do das pastas em dois pontos. O whey **contém glúten**, e as pastas não. O whey também contém lactose e leva sucralose como edulcorante.",
-          "**O whey Dr. Peanut é da Max Titanium?** O whey leva as duas marcas: a página do produto o apresenta como Max Titanium em colaboração com a Dr. Peanut. A Dr. Peanut em si não é da Max Titanium. As duas são marcas irmãs, do mesmo grupo, como mostramos em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel)."
+          "**O whey Dr. Peanut é da Max Titanium?** Leva as duas marcas e está à venda nas duas lojas, pelo mesmo preço; qual compensa, e com qual código, está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
         ]
       },
       {
@@ -83478,7 +83478,7 @@ export const reviewsData: unknown[] = [
           "Tem Dr. Peanut zero lactose? Não. Os 12 sabores de pasta dizem \"contém lactose\", e as páginas do whey dizem o mesmo.",
           "Quantas calorias tem uma colher de Dr. Peanut? De 83 a 90 kcal por colher de sopa de 15 g, conforme o sabor. Banoffee e Caramelo Salgado têm menos; Beijinho e Pistache, mais.",
           "Qual o melhor sabor do whey Dr. Peanut? Os 5 sabores têm 20 g de proteína por porção e o mesmo preço. Mudam os açúcares totais (de 8,5 a 11 g) e o sódio, que na Paçoca é o dobro dos outros.",
-          "O whey Dr. Peanut é da Max Titanium? A página do produto o apresenta como Max Titanium em colaboração com a Dr. Peanut. As duas são marcas irmãs, do mesmo grupo."
+          "O whey Dr. Peanut é da Max Titanium? Leva as duas marcas, e o mesmo pote está na Max e na Dr. Peanut; qual loja compensa está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
         ]
       }
     ],
@@ -83515,7 +83515,7 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-dr-peanut"
       }
     ],
-    "updatedAt": "2026-10-27"
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 447,
@@ -177498,9 +177498,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O whey Dr. Peanut é bom?",
         "paragraphs": [
-          "Pelo rótulo, é um whey concentrado (WPC) com 20 g de proteína por dose, e o que decide é o aviso de glúten e lactose, não o sabor: os 5 custam o mesmo e têm a mesma proteína. A loja informa: a porção é de 40 g, dois dosadores, com 20 g de proteína e 4.405 mg de BCAA. A lista de ingredientes traz a proteína concentrada do soro, amendoim torrado e granulado, cacau, lecitina de soja e sucralose; a página diz \"CONTÉM GLÚTEN\", o produto contém lactose, e os alérgicos são amendoim, leite e soja, com \"pode conter\" trigo, centeio, cevada, aveia, castanhas e ovo.",
-          "O [pote de 900 g](https://www.drpeanut.com.br/whey-dr-peanut/p) custa R$ 224,39, e são 22 doses e meia: 450 g de proteína no pote, R$ 49,86 por 100 g de proteína e R$ 9,97 por dose. Os 5 sabores (Avelã, Bombom Italiano, Bueníssimo, Doce de Leite e Paçoca) mudam só em duas linhas, os açúcares totais, de 8,5 g a 11 g por dose, e o sódio da Paçoca, o dobro dos outros. A Paçoca é o único sabor que não existe na pasta.",
-          "Serve para quem quer um whey concentrado com gosto de pasta de amendoim e compra na mesma loja da pasta. Não escolha se você precisa evitar glúten ou lactose, nem se quer um isolado: a Dr. Peanut só tem esse whey."
+          "Pelo rótulo, é um whey concentrado (WPC) com 20 g de proteína por dose de 40 g, nos 5 sabores, e o que decide é o aviso: contém glúten e lactose. O mesmo pote está na Dr. Peanut e na Max Titanium, pelo mesmo preço; o rótulo, a conta por 100 g de proteína e qual código usar estão em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
         ],
         "images": [
           {
@@ -177589,7 +177587,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A pasta de amendoim Dr. Peanut é boa? Pelo rótulo, é uma pasta de amendoim com proteína do soro do leite, sem adição de açúcares e com polióis, que contém lactose e não contém glúten; o capítulo da pasta mostra as faixas por colher e por 100 g.",
           "Qual o melhor sabor da Dr. Peanut? Pelo rótulo, depende do que você procura: Avelã e Leite em Pó têm mais proteína por 100 g, e o Brownie tem menos açúcar com menos poliol; o preço é o mesmo em todos os sabores do mesmo tamanho.",
-          "O whey da Dr. Peanut é bom? Pelo rótulo, é um whey concentrado com 20 g de proteína por dose de 40 g, nos 5 sabores, e contém glúten e lactose; a conta por 100 g de proteína está no capítulo do whey.",
+          "O whey da Dr. Peanut é bom? Pelo rótulo, é um whey concentrado com 20 g de proteína por dose de 40 g, nos 5 sabores, e contém glúten e lactose; a conta por 100 g de proteína está em [Whey Dr. Peanut: Max Titanium ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium).",
           "Dr. Peanut é boa para dieta? O rótulo não responde isso: ele mostra as calorias, os açúcares e a gordura de cada porção, e quem encaixa o produto no seu plano é o nutricionista.",
           "Tem pasta Dr. Peanut zero lactose? Não: os 12 sabores dizem \"contém lactose\", e a loja não vende versão sem lactose."
         ]

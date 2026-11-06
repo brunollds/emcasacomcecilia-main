@@ -111,7 +111,6 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 |---|---|---|
 | `presente-de-natal-insider-kits-gift-card` | Dizer que o cupom vale na compra do gift card (teste do Bruno, 05/11, R$ 900 por R$ 765); hoje o artigo só diz que o pedido pago com o gift card não aceita cupom, e o leitor entende que gift card e cupom não combinam. Vale também para a FAQ "Cupom vale com gift card?" | I9, 05/11 |
 | `fita-up-como-usar` | R8: "plus size" no H2 da largura e uma FAQ, pelo briefing [[fita-up-como-usar-plus-size-otimizacao]] (sem URL nova) | Rodada R8, 05/11 |
-| `dr-peanut-melhor-sabor`, `dr-peanut-e-boa`, `max-titanium-e-boa`, `probiotica-e-boa` e `cupom-dr-peanut-como-usar` | Encurtar as seções de whey e linkar para a R2, a R5 e a R6, quando cada uma for ao ar (lista em cada briefing). No `dr-peanut-melhor-sabor`, a tabela de sabores fica (dossiê) | Rodada R2, R5 e R6, 05/11 |
 | `camiseta-feminina-insider-qual-escolher` e `camiseta-insider-qual-escolher` | Cupom na Daily: o feminino diz "confira no carrinho", o masculino diz que a Daily não aceita cupom. Só mudar com o teste no carrinho (conflito 5 da R7). O resto da linha da R7 (lavagem com link, notas, Core e 2 cm, dossiê) saiu no PR de 06/11 | Rodada R7, 05/11 |
 | `fita-up-como-usar` | "plus size" no H2 da largura e uma FAQ, pelo que a loja publica (R8) | Rodada de 05/11 |
 | `clea-store-e-confiavel` | FAQ "Onde fica a Cléa Store? Tem loja física em Jaraguá do Sul?", pelo que a loja publica | Rodada de 05/11 |
