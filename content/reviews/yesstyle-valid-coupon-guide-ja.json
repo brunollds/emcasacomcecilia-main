@@ -87,10 +87,6 @@
         "よくある理由は次のとおりです。期限が切れている（72〜96時間のキャンペーンもあれば、1か月続くものもあります）、特定の地域限定のキャンペーンである、最低購入額に届いていない、対象外の商品が入っている、アカウントが対象ではない。[YesStyleのクーポン利用規約](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888)で、これらの条件を確認できます。",
         "支払いの直前で慌てないように、2つの割引入力欄の違いを理解して、プロモーションごとの条件を確認しましょう。"
       ],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "プロモクーポンの例を表示したYesStyle公式トップページ。",
-      "imageCaption": "すでに終了したキャンペーンの、公式プロモクーポンの例です。プロモクーポンは頻繁に変わるので、買う前に専用ページを確認してください。",
-      "imageFit": "wide",
       "bullets": [
         "月ごとのプロモクーポン：期限があり、たいてい10%〜15%オフです。",
         "リワードコード（Reward Code）：CECILIA010のようなインフルエンサーのコードで、初回購入は5%、2回目以降は2%の追加オフです。",
@@ -105,7 +101,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "YesStyleの決済画面。Coupon Code欄とReward Code欄が表示されている。",
-      "imageCaption": "決済画面の2つの入力欄：Coupon Code（セールのクーポン用）とReward Code（CECILIA010用）。",
+      "imageCaption": "決済画面の2つの入力欄：Coupon Code（セールのクーポン用）とReward Code（CECILIA010用）。 画面のクーポンは、すでに終了したキャンペーンのものです。",
       "imageFit": "cover",
       "bullets": [
         "1. 「Coupon Code」欄：YesStyleのサイトで配布されるプロモクーポン（セールのクーポンや10%〜15%オフのキャンペーンなど）を入れる場所です。",
@@ -168,7 +164,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "YesStyleの最終注文概要。重ねた割引が表示されている。",
-      "imageCaption": "決済の概要で二本立てを確認：セールのクーポンとリワードコードCECILIA010が、どちらも反映されています。",
+      "imageCaption": "決済の概要で二本立てを確認：セールのクーポンとリワードコードCECILIA010が、どちらも反映されています。 画面のクーポンは、すでに終了したキャンペーンのものです。",
       "imageFit": "cover"
     },
     {

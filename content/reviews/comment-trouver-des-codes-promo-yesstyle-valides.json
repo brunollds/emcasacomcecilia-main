@@ -87,10 +87,6 @@
         "Les cas les plus courants : le coupon est expiré (beaucoup de campagnes durent de 72 à 96 heures, d'autres un mois), la campagne n'est valable que dans certaines régions, la commande n'atteint pas le minimum, le produit n'entre pas dans la promotion ou le compte n'est pas éligible. Les [règles générales des coupons YesStyle](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888) expliquent ces conditions.",
         "Pour ne pas perdre de temps au moment de payer, comprenez les deux champs de réduction et vérifiez les conditions de chaque promotion."
       ],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "Page d'accueil officielle de YesStyle montrant un exemple de coupon promotionnel.",
-      "imageCaption": "Exemple de coupon promotionnel officiel d'une campagne déjà terminée. Les coupons promotionnels changent souvent : consultez notre page dédiée avant d'acheter.",
-      "imageFit": "wide",
       "bullets": [
         "Coupons promotionnels mensuels : ils ont une date d'expiration et donnent en général de 10 % à 15 % de réduction.",
         "Code de récompense (Reward Code) : un code d'influenceuse comme CECILIA010, avec 5 % de plus sur le premier achat et 2 % sur les suivants.",
@@ -105,7 +101,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "Écran de paiement de YesStyle avec les champs Coupon Code et Reward Code.",
-      "imageCaption": "Les deux champs distincts du paiement : Coupon Code (pour les coupons de promotion) et Reward Code (pour CECILIA010).",
+      "imageCaption": "Les deux champs distincts du paiement : Coupon Code (pour les coupons de promotion) et Reward Code (pour CECILIA010). Le coupon de la capture provient d'une campagne déjà terminée.",
       "imageFit": "cover",
       "bullets": [
         "1. Champ « Coupon Code » (code de coupon) : c'est ici que vous saisissez les coupons promotionnels du site YesStyle (comme les coupons de soldes ou les campagnes de 10 % à 15 %).",
@@ -168,7 +164,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "Récapitulatif final de la commande chez YesStyle avec les réductions cumulées.",
-      "imageCaption": "Récapitulatif du paiement confirmant le duo : coupon de promotion + code de récompense CECILIA010 cumulés avec succès.",
+      "imageCaption": "Récapitulatif du paiement confirmant le duo : coupon de promotion + code de récompense CECILIA010 cumulés avec succès. Le coupon de la capture provient d'une campagne déjà terminée.",
       "imageFit": "cover"
     },
     {

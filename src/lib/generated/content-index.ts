@@ -29552,10 +29552,6 @@ export const reviewsData: unknown[] = [
           "Os mais comuns: o cupom venceu (muitas campanhas duram de 72 a 96 horas, outras um mês), a campanha vale só para algumas regiões, a compra não chegou ao mínimo, o produto não entra na promoção ou a conta não é elegível. As [regras gerais de cupons da YesStyle](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888) explicam essas condições.",
           "Para não perder tempo na hora de pagar, entenda os dois campos de desconto e confira as condições de cada promoção."
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "Página inicial oficial da YesStyle mostrando exemplo de cupom promocional.",
-        "imageCaption": "Exemplo de cupom promocional oficial de uma campanha que já terminou. Cupons promocionais mudam com frequência: consulte nossa página dedicada antes de comprar.",
-        "imageFit": "wide",
         "bullets": [
           "Cupons promocionais mensais: possuem prazo de validade e costumam dar de 10% a 15% OFF.",
           "Código de Recompensa (Reward Code): código de influenciadora como o CECILIA010, com 5% extra na primeira compra e 2% nas seguintes.",
@@ -29570,7 +29566,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Tela de checkout da YesStyle exibindo os campos Coupon Code e Reward Code.",
-        "imageCaption": "Os dois campos separados no checkout: Coupon Code (para cupons de promoção) e Reward Code (para o CECILIA010).",
+        "imageCaption": "Os dois campos separados no checkout: Coupon Code (para cupons de promoção) e Reward Code (para o CECILIA010). O cupom do print é de uma campanha que já terminou.",
         "imageFit": "cover",
         "bullets": [
           "1. Campo \"Coupon Code\" (Código de Cupom): É onde você insere os cupons promocionais do site da YesStyle (como cupons de liquidação ou campanhas de 10% a 15% OFF).",
@@ -29633,7 +29629,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Resumo final do pedido na YesStyle com os descontos acumulados.",
-        "imageCaption": "Resumo do checkout confirmando a dobradinha: cupom de promoção + código de recompensa CECILIA010 acumulados com sucesso.",
+        "imageCaption": "Resumo do checkout confirmando a dobradinha: cupom de promoção + código de recompensa CECILIA010 acumulados com sucesso. O cupom do print é de uma campanha que já terminou.",
         "imageFit": "cover"
       },
       {
@@ -36923,10 +36919,6 @@ export const reviewsData: unknown[] = [
           "The most common ones: the coupon expired (many campaigns last 72 to 96 hours, others a month), the campaign is valid only in some regions, the order did not reach the minimum, the product is not part of the promotion, or the account is not eligible. [YesStyle's general coupon rules](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888) explain these conditions.",
           "To avoid wasting time at payment, understand the two discount fields and check the conditions of each promotion."
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "The official YesStyle home page showing an example of a promotional coupon.",
-        "imageCaption": "Example of an official promotional coupon from a campaign that has already ended. Promotional coupons change often: check our dedicated page before you buy.",
-        "imageFit": "wide",
         "bullets": [
           "Monthly promotional coupons: they have an expiry date and usually give 10% to 15% OFF.",
           "Reward Code: an influencer code like CECILIA010, with 5% extra on a first purchase and 2% on later ones.",
@@ -36941,7 +36933,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "The YesStyle checkout showing the Coupon Code and Reward Code fields.",
-        "imageCaption": "The two separate checkout fields: Coupon Code (for promotion coupons) and Reward Code (for CECILIA010).",
+        "imageCaption": "The two separate checkout fields: Coupon Code (for promotion coupons) and Reward Code (for CECILIA010). The coupon in the screenshot is from a campaign that has already ended.",
         "imageFit": "cover",
         "bullets": [
           "1. “Coupon Code” field: this is where you enter the promotional coupons from the YesStyle site (such as sale coupons or 10% to 15% OFF campaigns).",
@@ -37004,7 +36996,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "The final order summary at YesStyle with the combined discounts.",
-        "imageCaption": "Order summary confirming the combination: promotion coupon + CECILIA010 reward code, stacked successfully.",
+        "imageCaption": "Order summary confirming the combination: promotion coupon + CECILIA010 reward code, stacked successfully. The coupon in the screenshot is from a campaign that has already ended.",
         "imageFit": "cover"
       },
       {
@@ -37146,10 +37138,6 @@ export const reviewsData: unknown[] = [
           "Los más comunes: el cupón venció (muchas campañas duran de 72 a 96 horas, otras un mes), la campaña solo vale en algunas regiones, el pedido no llegó al mínimo, el producto no entra en la promoción o la cuenta no es elegible. Las [reglas generales de cupones de YesStyle](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888) explican estas condiciones.",
           "Para no perder tiempo a la hora de pagar, entiende los dos campos de descuento y revisa las condiciones de cada promoción."
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "Página de inicio oficial de YesStyle con un ejemplo de cupón promocional.",
-        "imageCaption": "Ejemplo de cupón promocional oficial de una campaña que ya terminó. Los cupones promocionales cambian con frecuencia: consulta nuestra página dedicada antes de comprar.",
-        "imageFit": "wide",
         "bullets": [
           "Cupones promocionales mensuales: tienen fecha de vencimiento y suelen dar entre un 10% y un 15% de descuento.",
           "Código de recompensa (Reward Code): un código de influencer como CECILIA010, con un 5% extra en la primera compra y un 2% en las siguientes.",
@@ -37164,7 +37152,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Pantalla de checkout de YesStyle con los campos Coupon Code y Reward Code.",
-        "imageCaption": "Los dos campos separados del checkout: Coupon Code (para los cupones de promoción) y Reward Code (para CECILIA010).",
+        "imageCaption": "Los dos campos separados del checkout: Coupon Code (para los cupones de promoción) y Reward Code (para CECILIA010). El cupón de la captura es de una campaña que ya terminó.",
         "imageFit": "cover",
         "bullets": [
           "1. Campo «Coupon Code» (código de cupón): aquí introduces los cupones promocionales del sitio de YesStyle (como los de liquidación o los de campañas del 10% al 15%).",
@@ -37227,7 +37215,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Resumen final del pedido en YesStyle con los descuentos acumulados.",
-        "imageCaption": "Resumen del checkout que confirma la combinación: cupón de promoción + código de recompensa CECILIA010 acumulados con éxito.",
+        "imageCaption": "Resumen del checkout que confirma la combinación: cupón de promoción + código de recompensa CECILIA010 acumulados con éxito. El cupón de la captura es de una campaña que ya terminó.",
         "imageFit": "cover"
       },
       {
@@ -37369,10 +37357,6 @@ export const reviewsData: unknown[] = [
           "Les cas les plus courants : le coupon est expiré (beaucoup de campagnes durent de 72 à 96 heures, d'autres un mois), la campagne n'est valable que dans certaines régions, la commande n'atteint pas le minimum, le produit n'entre pas dans la promotion ou le compte n'est pas éligible. Les [règles générales des coupons YesStyle](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888) expliquent ces conditions.",
           "Pour ne pas perdre de temps au moment de payer, comprenez les deux champs de réduction et vérifiez les conditions de chaque promotion."
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "Page d'accueil officielle de YesStyle montrant un exemple de coupon promotionnel.",
-        "imageCaption": "Exemple de coupon promotionnel officiel d'une campagne déjà terminée. Les coupons promotionnels changent souvent : consultez notre page dédiée avant d'acheter.",
-        "imageFit": "wide",
         "bullets": [
           "Coupons promotionnels mensuels : ils ont une date d'expiration et donnent en général de 10 % à 15 % de réduction.",
           "Code de récompense (Reward Code) : un code d'influenceuse comme CECILIA010, avec 5 % de plus sur le premier achat et 2 % sur les suivants.",
@@ -37387,7 +37371,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Écran de paiement de YesStyle avec les champs Coupon Code et Reward Code.",
-        "imageCaption": "Les deux champs distincts du paiement : Coupon Code (pour les coupons de promotion) et Reward Code (pour CECILIA010).",
+        "imageCaption": "Les deux champs distincts du paiement : Coupon Code (pour les coupons de promotion) et Reward Code (pour CECILIA010). Le coupon de la capture provient d'une campagne déjà terminée.",
         "imageFit": "cover",
         "bullets": [
           "1. Champ « Coupon Code » (code de coupon) : c'est ici que vous saisissez les coupons promotionnels du site YesStyle (comme les coupons de soldes ou les campagnes de 10 % à 15 %).",
@@ -37450,7 +37434,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Récapitulatif final de la commande chez YesStyle avec les réductions cumulées.",
-        "imageCaption": "Récapitulatif du paiement confirmant le duo : coupon de promotion + code de récompense CECILIA010 cumulés avec succès.",
+        "imageCaption": "Récapitulatif du paiement confirmant le duo : coupon de promotion + code de récompense CECILIA010 cumulés avec succès. Le coupon de la capture provient d'une campagne déjà terminée.",
         "imageFit": "cover"
       },
       {
@@ -37592,10 +37576,6 @@ export const reviewsData: unknown[] = [
           "Am häufigsten: Der Gutschein ist abgelaufen (viele Kampagnen dauern 72 bis 96 Stunden, andere einen Monat), die Kampagne gilt nur für bestimmte Regionen, der Mindestbestellwert ist nicht erreicht, das Produkt ist von der Aktion ausgeschlossen oder das Konto ist nicht berechtigt. Die [allgemeinen Gutscheinregeln von YesStyle](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888) erklären diese Bedingungen.",
           "Damit Sie an der Kasse keine Zeit verlieren, sollten Sie die beiden Rabattfelder verstehen und die Bedingungen jeder Aktion prüfen."
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "Offizielle Startseite von YesStyle mit einem Beispiel für einen Aktionsgutschein.",
-        "imageCaption": "Beispiel für einen offiziellen Aktionsgutschein aus einer bereits beendeten Kampagne. Aktionsgutscheine ändern sich oft: Sehen Sie vor dem Kauf auf unserer eigenen Seite nach.",
-        "imageFit": "wide",
         "bullets": [
           "Monatliche Aktionsgutscheine: Sie haben ein Ablaufdatum und geben meist 10 % bis 15 % Rabatt.",
           "Reward Code (Belohnungscode): ein Influencer-Code wie CECILIA010, mit 5 % extra beim ersten Einkauf und 2 % bei den folgenden.",
@@ -37610,7 +37590,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Kasse von YesStyle mit den Feldern Coupon Code und Reward Code.",
-        "imageCaption": "Die zwei getrennten Felder an der Kasse: Coupon Code (für Aktionsgutscheine) und Reward Code (für CECILIA010).",
+        "imageCaption": "Die zwei getrennten Felder an der Kasse: Coupon Code (für Aktionsgutscheine) und Reward Code (für CECILIA010). Der Gutschein im Screenshot stammt aus einer bereits beendeten Aktion.",
         "imageFit": "cover",
         "bullets": [
           "1. Feld „Coupon Code“ (Gutscheincode): Hier geben Sie die Aktionsgutscheine von der YesStyle-Website ein (etwa Sale-Gutscheine oder Kampagnen mit 10 % bis 15 % Rabatt).",
@@ -37673,7 +37653,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Abschließende Bestellübersicht bei YesStyle mit den kombinierten Rabatten.",
-        "imageCaption": "Bestellübersicht an der Kasse, die die Kombination bestätigt: Aktionsgutschein + Reward Code CECILIA010, erfolgreich kombiniert.",
+        "imageCaption": "Bestellübersicht an der Kasse, die die Kombination bestätigt: Aktionsgutschein + Reward Code CECILIA010, erfolgreich kombiniert. Der Gutschein im Screenshot stammt aus einer bereits beendeten Aktion.",
         "imageFit": "cover"
       },
       {
@@ -37815,10 +37795,6 @@ export const reviewsData: unknown[] = [
           "자주 있는 이유는 이렇습니다. 쿠폰이 만료되었거나(72~96시간짜리 캠페인도 있고 한 달 동안 이어지는 캠페인도 있습니다), 일부 지역에서만 쓸 수 있는 캠페인이거나, 최소 구매 금액을 채우지 못했거나, 적용 제외 상품이 들어 있거나, 계정이 대상이 아닌 경우입니다. [YesStyle 쿠폰 일반 규칙](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888)에서 이 조건들을 확인할 수 있습니다.",
           "결제하다가 당황하지 않도록, 할인 입력란 두 개의 차이를 이해하고 프로모션마다 조건을 확인하세요."
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "프로모션 쿠폰 예시가 보이는 YesStyle 공식 메인 페이지.",
-        "imageCaption": "이미 끝난 캠페인의 공식 프로모션 쿠폰 예시입니다. 프로모션 쿠폰은 자주 바뀌니 구매 전에 전용 페이지를 확인하세요.",
-        "imageFit": "wide",
         "bullets": [
           "월별 프로모션 쿠폰: 유효 기간이 있고 보통 10%~15% 할인입니다.",
           "리워드 코드(Reward Code): CECILIA010 같은 인플루언서 코드로, 첫 구매는 5%, 이후 구매는 2%가 추가로 할인됩니다.",
@@ -37833,7 +37809,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Coupon Code와 Reward Code 입력란이 보이는 YesStyle 결제 화면.",
-        "imageCaption": "결제 화면의 두 입력란: Coupon Code(프로모션 쿠폰용)와 Reward Code(CECILIA010용).",
+        "imageCaption": "결제 화면의 두 입력란: Coupon Code(프로모션 쿠폰용)와 Reward Code(CECILIA010용). 화면 속 쿠폰은 이미 끝난 캠페인의 쿠폰입니다.",
         "imageFit": "cover",
         "bullets": [
           "1. \"Coupon Code\" 칸: YesStyle 사이트의 프로모션 쿠폰(세일 쿠폰이나 10%~15% 할인 캠페인 등)을 입력하는 곳입니다.",
@@ -37896,7 +37872,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "합산된 할인이 보이는 YesStyle 최종 주문 요약.",
-        "imageCaption": "결제 요약에서 두 가지 조합을 확인: 프로모션 쿠폰과 리워드 코드 CECILIA010이 모두 적용되었습니다.",
+        "imageCaption": "결제 요약에서 두 가지 조합을 확인: 프로모션 쿠폰과 리워드 코드 CECILIA010이 모두 적용되었습니다. 화면 속 쿠폰은 이미 끝난 캠페인의 쿠폰입니다.",
         "imageFit": "cover"
       },
       {
@@ -38038,10 +38014,6 @@ export const reviewsData: unknown[] = [
           "よくある理由は次のとおりです。期限が切れている（72〜96時間のキャンペーンもあれば、1か月続くものもあります）、特定の地域限定のキャンペーンである、最低購入額に届いていない、対象外の商品が入っている、アカウントが対象ではない。[YesStyleのクーポン利用規約](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888)で、これらの条件を確認できます。",
           "支払いの直前で慌てないように、2つの割引入力欄の違いを理解して、プロモーションごとの条件を確認しましょう。"
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "プロモクーポンの例を表示したYesStyle公式トップページ。",
-        "imageCaption": "すでに終了したキャンペーンの、公式プロモクーポンの例です。プロモクーポンは頻繁に変わるので、買う前に専用ページを確認してください。",
-        "imageFit": "wide",
         "bullets": [
           "月ごとのプロモクーポン：期限があり、たいてい10%〜15%オフです。",
           "リワードコード（Reward Code）：CECILIA010のようなインフルエンサーのコードで、初回購入は5%、2回目以降は2%の追加オフです。",
@@ -38056,7 +38028,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "YesStyleの決済画面。Coupon Code欄とReward Code欄が表示されている。",
-        "imageCaption": "決済画面の2つの入力欄：Coupon Code（セールのクーポン用）とReward Code（CECILIA010用）。",
+        "imageCaption": "決済画面の2つの入力欄：Coupon Code（セールのクーポン用）とReward Code（CECILIA010用）。 画面のクーポンは、すでに終了したキャンペーンのものです。",
         "imageFit": "cover",
         "bullets": [
           "1. 「Coupon Code」欄：YesStyleのサイトで配布されるプロモクーポン（セールのクーポンや10%〜15%オフのキャンペーンなど）を入れる場所です。",
@@ -38119,7 +38091,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyleの最終注文概要。重ねた割引が表示されている。",
-        "imageCaption": "決済の概要で二本立てを確認：セールのクーポンとリワードコードCECILIA010が、どちらも反映されています。",
+        "imageCaption": "決済の概要で二本立てを確認：セールのクーポンとリワードコードCECILIA010が、どちらも反映されています。 画面のクーポンは、すでに終了したキャンペーンのものです。",
         "imageFit": "cover"
       },
       {
@@ -38261,10 +38233,6 @@ export const reviewsData: unknown[] = [
           "常見原因有：優惠碼已過期（有的活動只有 72 到 96 小時，有的持續一個月）、活動只適用於部分地區、訂單沒達到最低消費、商品不在促銷範圍內，或帳戶不符合資格。[YesStyle 優惠碼通用規則](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888)對這些條件有說明。",
           "為了不在付款時手忙腳亂，請先弄懂兩個折扣欄位的差別，並確認每個促銷的條件。"
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "YesStyle 官方首頁，顯示一個促銷優惠碼的範例。",
-        "imageCaption": "一個已經結束的活動的官方促銷優惠碼範例。促銷優惠碼變動頻繁，購買前請查看我們的專屬頁面。",
-        "imageFit": "wide",
         "bullets": [
           "月度促銷優惠碼：有有效期限，通常享 10% 至 15% 折扣。",
           "獎勵碼（Reward Code）：像 CECILIA010 這樣的網紅代碼，首次購買額外享 5% 折扣，之後的購買享 2%。",
@@ -38279,7 +38247,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "YesStyle 結帳頁面，顯示 Coupon Code 和 Reward Code 兩個欄位。",
-        "imageCaption": "結帳頁面的兩個獨立欄位：Coupon Code（用於促銷優惠碼）和 Reward Code（用於 CECILIA010）。",
+        "imageCaption": "結帳頁面的兩個獨立欄位：Coupon Code（用於促銷優惠碼）和 Reward Code（用於 CECILIA010）。 截圖中的優惠碼來自已經結束的活動。",
         "imageFit": "cover",
         "bullets": [
           "1. 「Coupon Code」欄位：填入 YesStyle 網站的促銷優惠碼（如出清優惠碼或 10% 至 15% 折扣的活動）。",
@@ -38342,7 +38310,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyle 最終訂單摘要，顯示疊加後的折扣。",
-        "imageCaption": "結帳摘要確認兩個一起用已成功：促銷優惠碼加上獎勵碼 CECILIA010，都已生效。",
+        "imageCaption": "結帳摘要確認兩個一起用已成功：促銷優惠碼加上獎勵碼 CECILIA010，都已生效。 截圖中的優惠碼來自已經結束的活動。",
         "imageFit": "cover"
       },
       {
@@ -38484,10 +38452,6 @@ export const reviewsData: unknown[] = [
           "常见原因有：优惠码已过期（有的活动只有 72 到 96 小时，有的持续一个月）、活动只适用于部分地区、订单没达到最低消费、商品不在促销范围内，或账户不符合资格。[YesStyle 优惠码通用规则](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888)对这些条件有说明。",
           "为了不在付款时手忙脚乱，请先弄懂两个折扣栏位的区别，并确认每个促销的条件。"
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "YesStyle 官方首页，展示一个促销优惠码的示例。",
-        "imageCaption": "一个已经结束的活动的官方促销优惠码示例。促销优惠码变动频繁，购买前请查看我们的专属页面。",
-        "imageFit": "wide",
         "bullets": [
           "月度促销优惠码：有有效期，通常享 10% 至 15% 折扣。",
           "奖励码（Reward Code）：像 CECILIA010 这样的网红代码，首次购买额外享 5% 折扣，之后的购买享 2%。",
@@ -38502,7 +38466,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "YesStyle 结账页面，显示 Coupon Code 和 Reward Code 两个栏位。",
-        "imageCaption": "结账页面的两个独立栏位：Coupon Code（用于促销优惠码）和 Reward Code（用于 CECILIA010）。",
+        "imageCaption": "结账页面的两个独立栏位：Coupon Code（用于促销优惠码）和 Reward Code（用于 CECILIA010）。 截图中的优惠码来自已经结束的活动。",
         "imageFit": "cover",
         "bullets": [
           "1. “Coupon Code”栏位：填入 YesStyle 网站的促销优惠码（如清仓优惠码或 10% 至 15% 折扣的活动）。",
@@ -38565,7 +38529,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "YesStyle 最终订单摘要，显示叠加后的折扣。",
-        "imageCaption": "结账摘要确认两个一起用已成功：促销优惠码加上奖励码 CECILIA010，都已生效。",
+        "imageCaption": "结账摘要确认两个一起用已成功：促销优惠码加上奖励码 CECILIA010，都已生效。 截图中的优惠码来自已经结束的活动。",
         "imageFit": "cover"
       },
       {
@@ -49306,10 +49270,6 @@ export const reviewsData: unknown[] = [
           "I casi più comuni: il coupon è scaduto (molte campagne durano da 72 a 96 ore, altre un mese), la campagna vale solo per alcune regioni, l'acquisto non raggiunge il minimo, il prodotto non rientra nella promozione o l'account non è idoneo. Le [regole generali dei coupon di YesStyle](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888) spiegano queste condizioni.",
           "Per non perdere tempo al momento di pagare, capisci i due campi sconto e controlla le condizioni di ogni promozione."
         ],
-        "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-        "imageAlt": "Home page ufficiale di YesStyle con un esempio di coupon promozionale.",
-        "imageCaption": "Esempio di coupon promozionale ufficiale di una campagna già conclusa. I coupon promozionali cambiano spesso: consulta la nostra pagina dedicata prima di acquistare.",
-        "imageFit": "wide",
         "bullets": [
           "Coupon promozionali mensili: hanno una scadenza e di solito danno dal 10% al 15% di sconto.",
           "Codice ricompensa (Reward Code): un codice influencer come CECILIA010, con il 5% in più sul primo acquisto e il 2% sui successivi.",
@@ -49324,7 +49284,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
         "imageAlt": "Schermata del checkout di YesStyle con i campi Coupon Code e Reward Code.",
-        "imageCaption": "I due campi separati del checkout: Coupon Code (per i coupon di promozione) e Reward Code (per CECILIA010).",
+        "imageCaption": "I due campi separati del checkout: Coupon Code (per i coupon di promozione) e Reward Code (per CECILIA010). Il coupon nello screenshot è di una campagna già conclusa.",
         "imageFit": "cover",
         "bullets": [
           "1. Campo «Coupon Code» (codice coupon): è qui che inserisci i coupon promozionali del sito YesStyle (come i coupon dei saldi o le campagne dal 10% al 15%).",
@@ -49387,7 +49347,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
         "imageAlt": "Riepilogo finale dell'ordine su YesStyle con gli sconti cumulati.",
-        "imageCaption": "Riepilogo del checkout che conferma la doppietta: coupon di promozione + codice ricompensa CECILIA010 cumulati con successo.",
+        "imageCaption": "Riepilogo del checkout che conferma la doppietta: coupon di promozione + codice ricompensa CECILIA010 cumulati con successo. Il coupon nello screenshot è di una campagna già conclusa.",
         "imageFit": "cover"
       },
       {

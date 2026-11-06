@@ -87,10 +87,6 @@
         "常見原因有：優惠碼已過期（有的活動只有 72 到 96 小時，有的持續一個月）、活動只適用於部分地區、訂單沒達到最低消費、商品不在促銷範圍內，或帳戶不符合資格。[YesStyle 優惠碼通用規則](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888)對這些條件有說明。",
         "為了不在付款時手忙腳亂，請先弄懂兩個折扣欄位的差別，並確認每個促銷的條件。"
       ],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "YesStyle 官方首頁，顯示一個促銷優惠碼的範例。",
-      "imageCaption": "一個已經結束的活動的官方促銷優惠碼範例。促銷優惠碼變動頻繁，購買前請查看我們的專屬頁面。",
-      "imageFit": "wide",
       "bullets": [
         "月度促銷優惠碼：有有效期限，通常享 10% 至 15% 折扣。",
         "獎勵碼（Reward Code）：像 CECILIA010 這樣的網紅代碼，首次購買額外享 5% 折扣，之後的購買享 2%。",
@@ -105,7 +101,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "YesStyle 結帳頁面，顯示 Coupon Code 和 Reward Code 兩個欄位。",
-      "imageCaption": "結帳頁面的兩個獨立欄位：Coupon Code（用於促銷優惠碼）和 Reward Code（用於 CECILIA010）。",
+      "imageCaption": "結帳頁面的兩個獨立欄位：Coupon Code（用於促銷優惠碼）和 Reward Code（用於 CECILIA010）。 截圖中的優惠碼來自已經結束的活動。",
       "imageFit": "cover",
       "bullets": [
         "1. 「Coupon Code」欄位：填入 YesStyle 網站的促銷優惠碼（如出清優惠碼或 10% 至 15% 折扣的活動）。",
@@ -168,7 +164,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "YesStyle 最終訂單摘要，顯示疊加後的折扣。",
-      "imageCaption": "結帳摘要確認兩個一起用已成功：促銷優惠碼加上獎勵碼 CECILIA010，都已生效。",
+      "imageCaption": "結帳摘要確認兩個一起用已成功：促銷優惠碼加上獎勵碼 CECILIA010，都已生效。 截圖中的優惠碼來自已經結束的活動。",
       "imageFit": "cover"
     },
     {

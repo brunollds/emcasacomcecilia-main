@@ -87,10 +87,6 @@
         "Los más comunes: el cupón venció (muchas campañas duran de 72 a 96 horas, otras un mes), la campaña solo vale en algunas regiones, el pedido no llegó al mínimo, el producto no entra en la promoción o la cuenta no es elegible. Las [reglas generales de cupones de YesStyle](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888) explican estas condiciones.",
         "Para no perder tiempo a la hora de pagar, entiende los dos campos de descuento y revisa las condiciones de cada promoción."
       ],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "Página de inicio oficial de YesStyle con un ejemplo de cupón promocional.",
-      "imageCaption": "Ejemplo de cupón promocional oficial de una campaña que ya terminó. Los cupones promocionales cambian con frecuencia: consulta nuestra página dedicada antes de comprar.",
-      "imageFit": "wide",
       "bullets": [
         "Cupones promocionales mensuales: tienen fecha de vencimiento y suelen dar entre un 10% y un 15% de descuento.",
         "Código de recompensa (Reward Code): un código de influencer como CECILIA010, con un 5% extra en la primera compra y un 2% en las siguientes.",
@@ -105,7 +101,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "Pantalla de checkout de YesStyle con los campos Coupon Code y Reward Code.",
-      "imageCaption": "Los dos campos separados del checkout: Coupon Code (para los cupones de promoción) y Reward Code (para CECILIA010).",
+      "imageCaption": "Los dos campos separados del checkout: Coupon Code (para los cupones de promoción) y Reward Code (para CECILIA010). El cupón de la captura es de una campaña que ya terminó.",
       "imageFit": "cover",
       "bullets": [
         "1. Campo «Coupon Code» (código de cupón): aquí introduces los cupones promocionales del sitio de YesStyle (como los de liquidación o los de campañas del 10% al 15%).",
@@ -168,7 +164,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "Resumen final del pedido en YesStyle con los descuentos acumulados.",
-      "imageCaption": "Resumen del checkout que confirma la combinación: cupón de promoción + código de recompensa CECILIA010 acumulados con éxito.",
+      "imageCaption": "Resumen del checkout que confirma la combinación: cupón de promoción + código de recompensa CECILIA010 acumulados con éxito. El cupón de la captura es de una campaña que ya terminó.",
       "imageFit": "cover"
     },
     {

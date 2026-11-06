@@ -88,10 +88,6 @@
         "The most common ones: the coupon expired (many campaigns last 72 to 96 hours, others a month), the campaign is valid only in some regions, the order did not reach the minimum, the product is not part of the promotion, or the account is not eligible. [YesStyle's general coupon rules](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888) explain these conditions.",
         "To avoid wasting time at payment, understand the two discount fields and check the conditions of each promotion."
       ],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "The official YesStyle home page showing an example of a promotional coupon.",
-      "imageCaption": "Example of an official promotional coupon from a campaign that has already ended. Promotional coupons change often: check our dedicated page before you buy.",
-      "imageFit": "wide",
       "bullets": [
         "Monthly promotional coupons: they have an expiry date and usually give 10% to 15% OFF.",
         "Reward Code: an influencer code like CECILIA010, with 5% extra on a first purchase and 2% on later ones.",
@@ -106,7 +102,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "The YesStyle checkout showing the Coupon Code and Reward Code fields.",
-      "imageCaption": "The two separate checkout fields: Coupon Code (for promotion coupons) and Reward Code (for CECILIA010).",
+      "imageCaption": "The two separate checkout fields: Coupon Code (for promotion coupons) and Reward Code (for CECILIA010). The coupon in the screenshot is from a campaign that has already ended.",
       "imageFit": "cover",
       "bullets": [
         "1. “Coupon Code” field: this is where you enter the promotional coupons from the YesStyle site (such as sale coupons or 10% to 15% OFF campaigns).",
@@ -169,7 +165,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "The final order summary at YesStyle with the combined discounts.",
-      "imageCaption": "Order summary confirming the combination: promotion coupon + CECILIA010 reward code, stacked successfully.",
+      "imageCaption": "Order summary confirming the combination: promotion coupon + CECILIA010 reward code, stacked successfully. The coupon in the screenshot is from a campaign that has already ended.",
       "imageFit": "cover"
     },
     {

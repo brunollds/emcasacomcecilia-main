@@ -87,10 +87,6 @@
         "常见原因有：优惠码已过期（有的活动只有 72 到 96 小时，有的持续一个月）、活动只适用于部分地区、订单没达到最低消费、商品不在促销范围内，或账户不符合资格。[YesStyle 优惠码通用规则](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888)对这些条件有说明。",
         "为了不在付款时手忙脚乱，请先弄懂两个折扣栏位的区别，并确认每个促销的条件。"
       ],
-      "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
-      "imageAlt": "YesStyle 官方首页，展示一个促销优惠码的示例。",
-      "imageCaption": "一个已经结束的活动的官方促销优惠码示例。促销优惠码变动频繁，购买前请查看我们的专属页面。",
-      "imageFit": "wide",
       "bullets": [
         "月度促销优惠码：有有效期，通常享 10% 至 15% 折扣。",
         "奖励码（Reward Code）：像 CECILIA010 这样的网红代码，首次购买额外享 5% 折扣，之后的购买享 2%。",
@@ -105,7 +101,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-aplicando-cupom-reward.webp",
       "imageAlt": "YesStyle 结账页面，显示 Coupon Code 和 Reward Code 两个栏位。",
-      "imageCaption": "结账页面的两个独立栏位：Coupon Code（用于促销优惠码）和 Reward Code（用于 CECILIA010）。",
+      "imageCaption": "结账页面的两个独立栏位：Coupon Code（用于促销优惠码）和 Reward Code（用于 CECILIA010）。 截图中的优惠码来自已经结束的活动。",
       "imageFit": "cover",
       "bullets": [
         "1. “Coupon Code”栏位：填入 YesStyle 网站的促销优惠码（如清仓优惠码或 10% 至 15% 折扣的活动）。",
@@ -168,7 +164,7 @@
       ],
       "image": "/images/reviews/cupons/yesstyle-checkout-final-desconto.webp",
       "imageAlt": "YesStyle 最终订单摘要，显示叠加后的折扣。",
-      "imageCaption": "结账摘要确认两个一起用已成功：促销优惠码加上奖励码 CECILIA010，都已生效。",
+      "imageCaption": "结账摘要确认两个一起用已成功：促销优惠码加上奖励码 CECILIA010，都已生效。 截图中的优惠码来自已经结束的活动。",
       "imageFit": "cover"
     },
     {
