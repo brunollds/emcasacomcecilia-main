@@ -150,7 +150,7 @@ export const COUPON_STORE_COPY: Record<Locale, CouponStoreCopy> = {
         `Acesse a loja ${brand} pelo botão indicado.`,
         'Adicione os produtos desejados ao carrinho.',
         'Cole o código no campo de cupom/desconto antes de finalizar.',
-        `Confira se o desconto de ${discount} apareceu no resumo do pedido.`,
+        `Confira se o desconto de ${discount.replace(/^Até /, 'até ')} apareceu no resumo do pedido.`,
       ],
       link: (brand) => [
         `Acesse a oferta da ${brand} pelo botão indicado.`,
