@@ -63357,7 +63357,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Encolhimento: o que a Insider diz e por que pesa na troca",
         "paragraphs": [
-          "Cada linha pode encolher até um limite: o da sua está na tabela abaixo. Nas páginas da Core e da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\". Os dois números são da Insider, e a marca não explica como se relacionam; valem os dois.",
+          "Cada linha pode encolher até um limite: o da sua está na tabela abaixo. Na página da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\"; na da Core, que o tamanho \"já considera 2cm a mais no comprimento\" por esse encolhimento. Os números são da Insider, e a marca não explica como se relacionam com o limite da tabela; valem todos. Como lavar cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "Isso pesa na troca: a troca por tamanho exige peça sem uso e sem sinais de lavagem. Não dá para lavar para ver se encolhe e depois trocar. Escolha o tamanho pela tabela e siga as instruções de lavagem da etiqueta."
         ],
         "comparisonTable": {
@@ -63503,7 +63503,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider. Vale a pena? O que a marca vende, a garantia da Tech T-Shirt, onde comprar e as regras de troca.",
     "publishedAt": "12 de outubro de 2026",
     "publishedAtISO": "2026-10-12",
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/insider/insider-tech-t-shirt-preta-oficial.webp",
@@ -63568,7 +63568,7 @@ export const reviewsData: unknown[] = [
         "heading": "Tech T-Shirt: o que a marca promete e o que garante por escrito",
         "paragraphs": [
           "A loja informa: a Tech T-Shirt é de 92% modal e 8% elastano (a cor Índigo tem 62% modal, 30% viscose e 8% elastano), num tecido que a Insider chama de INTECH, com 185 g/m² na comparação que abre no botão \"Compare entre peças Insider\".",
-          "Por escrito, a garantia é uma só: 2 anos contra desbotamento por lavagem, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\". A etiqueta pede ciclo delicado até 30 °C, sabão neutro, sem deixar de molho, sem torcer, sem alvejante, secagem no varal à sombra, sem secadora e evitando amaciante.",
+          "Por escrito, a garantia é uma só: 2 anos contra desbotamento por lavagem, \"desde que seguidas as instruções da etiqueta, considerando uma lavagem por semana\". O passo a passo de lavagem de cada linha está em [camiseta Insider encolhe? Como lavar](/reviews/camiseta-insider-encolhe-como-lavar).",
           "Antiodor e \"desamassa no corpo\" são promessas da marca, sem garantia por trás, e a Insider não diz por quantas lavagens o antiodor dura.",
           "É a camiseta para quem quer uma lisa para o dia a dia e segue a etiqueta. Quem lava tudo junto, em água quente e com secadora, perde a garantia de cor, que é o que justifica o preço dela."
         ],
@@ -63703,7 +63703,7 @@ export const reviewsData: unknown[] = [
         "Você quer trocar cueca por tamanho: underwear só troca por defeito."
       ]
     },
-    "editorialNote": "Podemos receber comissão pela Insider. Ninguém da equipe usou as peças: os dados são das páginas da marca e do teste do cupom no checkout.",
+    "editorialNote": "Podemos receber comissão pela Insider. A Cecília comprou e usou a Blusa de Alça The Perfect Top; o resto vem das páginas da marca e do teste do cupom no checkout.",
     "relatedArticles": [
       {
         "slug": "camiseta-insider-qual-escolher"
@@ -167021,8 +167021,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Core e Daily: viscose, gramatura e encolhimento",
         "paragraphs": [
-          "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a de maior gramatura, modelagem regular e textura leve.",
-          "A [Daily](https://creators.insiderstore.com.br/bRopqTz) custa R$ 99 (de R$ 139), o menor preço da tabela. A página avisa que ela pode encolher até 2 cm no comprimento depois da primeira lavagem e que já tem o desconto máximo, por isso não aceita cupom."
+          "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a de maior gramatura, modelagem regular e textura leve. A página diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento da primeira lavagem.",
+          "A [Daily](https://creators.insiderstore.com.br/bRopqTz) custa R$ 99 (de R$ 139), o menor preço da tabela, e já tem o desconto máximo, por isso não aceita cupom. Ela pode encolher até 2 cm no comprimento; o limite de cada linha e como lavar estão em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar)."
         ],
         "images": [
           {
@@ -167219,7 +167219,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Tech T-Shirt desbota? A loja diz que não, e a garantia de 2 anos contra desbotamento vale com uma lavagem por semana.",
-          "A Core encolhe? A página da Core não traz aviso de encolhimento. O aviso de até 2 cm é da Daily.",
+          "A Core encolhe? Pode: a página diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento da primeira lavagem. O limite de cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "Qual a diferença entre Tech e Heavy? Pela descrição da loja, a Heavy é 20% mais encorpada que a Tech e tem caimento mais liso. As duas são de 92% modal e 8% elastano.",
           "Dá para usar camiseta com calça social? Dá, num visual de trabalho menos formal: a polo ou uma camiseta lisa de cor neutra.",
           "Qual camiseta usar por baixo do blazer? Lisa, de cor neutra e gola careca. Entre as da Insider, a Heavy é mais encorpada que a Tech e marca menos o corpo.",
@@ -168830,7 +168830,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Daily e NEXTECH: viscose e premium",
         "paragraphs": [
-          "A Camiseta Básica Tech Daily feminina é a mais barata da lista: R$ 99 (de R$ 139), com 94% viscose e 6% elastano, diz a página. A página avisa que ela pode encolher até 2 cm no comprimento depois da primeira lavagem.",
+          "A Camiseta Básica Tech Daily feminina é a mais barata da lista: R$ 99 (de R$ 139), com 94% viscose e 6% elastano, diz a página. Ela pode encolher até 2 cm no comprimento; o limite de cada linha e como lavar estão em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "A [Premium NEXTECH feminina](https://creators.insiderstore.com.br/PiVkjhd) é de 92% liocel e 8% elastano, e sai por R$ 129 (de R$ 215), em P a GG. A loja fala em caimento levemente encorpado, para não marcar o corpo, e traz um dado da marca: até 11 vezes menos bactérias do mau cheiro que o algodão."
         ],
         "images": [
@@ -168889,7 +168889,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "The Perfect Top T-Shirt: baby tee",
         "paragraphs": [
-          "A [The Perfect Top T-Shirt](https://creators.insiderstore.com.br/ZxySZ23) é a baby tee da lista: sem bojo e com gola U, de 87,5% poliamida biodegradável e 12,5% elastano. A loja fala em proteção UV+50, que é da marca. Sai por R$ 129 a R$ 149 (de R$ 149), conforme a cor e o tamanho. A loja marca estoque baixo."
+          "A [The Perfect Top T-Shirt](https://creators.insiderstore.com.br/ZxySZ23) é a baby tee da lista: sem bojo e com gola U, de 87,5% poliamida biodegradável e 12,5% elastano. A loja fala em proteção UV+50, que é da marca. Sai por R$ 129 a R$ 149 (de R$ 149), conforme a cor e o tamanho. A loja marca estoque baixo.",
+          "Da mesma linha, a Cecília comprou e usou a Blusa de Alça The Perfect Top branca: na máquina, sem sabão, saíram o amarelo da axila e o cheiro de suor. O vídeo e os cuidados da linha estão em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar)."
         ],
         "images": [
           {
@@ -169015,7 +169016,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Tech T-Shirt feminina desbota? A marca diz que não, e a garantia de 2 anos contra desbotamento vale com uma lavagem por semana.",
           "Qual a diferença entre Tech e Gola V? A gola. A Gola V tem gola levemente alongada, e a loja diz que o tecido é o mesmo.",
-          "A Daily encolhe? A página diz que pode encolher até 2 cm no comprimento depois da primeira lavagem.",
+          "A Daily encolhe? A página diz que pode encolher até 2 cm no comprimento depois da primeira lavagem. O limite de cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "O cupom vale na Daily feminina? Na Daily masculina, a página diz que o item já tem desconto máximo e não é cumulativo com cupom. Na feminina, confira no carrinho.",
           "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
         ]
@@ -169042,7 +169043,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "EMCASACOMCECILIA",
     "affiliate": "insider",
-    "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. Não testamos as peças: os dados são das páginas da loja.",
+    "editorialNote": "Podemos receber comissão pelos links da Insider e pelo cupom EMCASACOMCECILIA. As camisetas da lista não foram testadas: os dados são das páginas da loja. A Cecília usou a Blusa de Alça The Perfect Top, da mesma linha.",
     "relatedArticles": [
       {
         "slug": "camiseta-insider-qual-escolher"

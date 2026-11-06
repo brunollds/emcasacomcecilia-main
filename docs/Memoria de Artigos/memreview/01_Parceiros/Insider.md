@@ -157,6 +157,14 @@ pela metade.
 Não afirmar experiência de uso das roupas: os artigos são feitos com fontes públicas e com o teste
 do cupom no checkout.
 
+- **Exceção (06/11/2026): a Blusa de Alça The Perfect Top.** A Cecília comprou e usou a peça branca, e o short
+  dela mostra a lavagem sem sabão (o amarelo da axila e o cheiro de suor saíram). Decisão do Bruno na R7
+  ([[camiseta-insider-encolhe-como-lavar]]). Só essa peça: as outras seguem sem experiência de uso, e o
+  encolhimento dela não foi medido. As notas do `camiseta-feminina-insider-qual-escolher` e do
+  `insider-vale-a-pena` citam a peça.
+- **Aviso de 2 cm (06/11/2026):** a página da Daily (masculina e feminina) diz que o tecido "pode apresentar
+  encolhimento de até 2cm no comprimento"; a da Core, que o tamanho "já considera 2cm a mais no comprimento".
+
 - **Troca na Tech T-Shirt:** a página do produto diz "A primeira troca é grátis", enquanto a central
   de ajuda (09/10/2026) diz que toda troca é gratuita. Os textos usam a central de ajuda.
 
