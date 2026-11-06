@@ -17,7 +17,7 @@
   "metaDescription": "Testei minha primeira lava e seca Samsung 13 kg (WD13FG): unboxing, instalação, como usar na primeira vez, app SmartThings e o primeiro ciclo com secagem.",
   "publishedAt": "17 de agosto de 2026",
   "publishedAtISO": "2026-08-17",
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-11-06",
   "draft": false,
   "hideFromListings": false,
   "image": "/images/reviews/samsung/cecilia-amelia-instalada.webp",
@@ -86,7 +86,7 @@
     },
     {
       "key": "Funções 3 em 1",
-      "value": "Lava, seca e esteriliza a seco (Air Wash)"
+      "value": "Lava, seca e higieniza a seco (Air Wash, segundo a Samsung)"
     },
     {
       "key": "Tecnologia de Lavagem",
@@ -119,21 +119,21 @@
   ],
   "pros": [
     "Secagem real que entrega roupas e toalhas prontas para uso, um alívio em dias de chuva",
-    "Economia perceptível de sabão e amaciante em comparação com lavadoras convencionais de agitador",
+    "Impressão de usar menos sabão e amaciante do que na lavadora de abertura superior, sem medição",
     "Conectividade SmartThings que permite acompanhar tempo, diagnósticos e consumo de água e energia",
     "Funcionamento silencioso com motor calibrado e lavagem suave que abre as fibras das toalhas"
   ],
   "cons": [
     "Manual impresso resumido a uma folha com QR code, exigindo o celular para consultar detalhes",
-    "Ciclos completos com lavagem a quente e secagem são longos (somam mais de 4h30 no programa toalhas)",
+    "Ciclos completos com lavagem a quente e secagem são longos (as estimativas do visor somaram cerca de 4h50 no programa toalhas)",
     "Exige atenção rigorosa à retirada dos parafusos traseiros de transporte antes da primeira ligação",
-    "Manchas profundas ou mofo antigo de cesto continuam exigindo pré-tratamento específico com percarbonato"
+    "Manchas profundas ou mofo antigo de cesto continuam exigindo pré-tratamento, conforme a etiqueta da peça e as instruções do produto"
   ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Samsung 13 kg foi a nossa primeira lava e seca, e a secagem de quatro toalhas funcionou bem. O que pesa são a porta de 80 cm, o encanamento e a instalação, que pedem planejamento."
+        "A Samsung WD13FG foi a nossa primeira lava e seca. Na estreia, quatro toalhas lavadas a 60 °C e secas no tambor estavam macias e prontas para guardar quando conferi na manhã seguinte. O visor estimou 2h45 de secagem. O que pede planejamento são a porta de 80 cm, o encanamento e a instalação."
       ]
     },
     {
@@ -174,7 +174,7 @@
       "heading": "O sufoco do encanamento e a instalação na lavanderia",
       "paragraphs": [
         "A mangueira de drenagem já vem com uma curva plástica rígida: encaixa na saída da parede ou apoia na borda do tanque. Na nossa lavanderia nós temos o ponto de esgoto embutido, mas a obra da casa pregou uma peça: o encanador deixou apenas um cano liso cortado rente ao porcelanato onde havia um tampão, sem nenhuma rosca ou joelho fêmea para fixação rosqueada.",
-        "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Fica a dica de ouro: verifique a rosca e a tubulação da sua parede antes da instalação.",
+        "O Bruno precisou forçar o encaixe da mangueira no cano da parede com bastante pressão. Na teoria ficou preso, mas ficamos com aquele medo se o primeiro jato de água da bomba de drenagem iria soltar tudo ou causar vazamento no chão. Foi um improviso do nosso caso, não um método recomendado: siga a instalação indicada no manual do modelo ou chame a assistência técnica, e confira antes a tubulação da sua parede.",
         "Com a máquina no lugar e nivelada pelos pezinhos reguláveis, veio a melhor parte de todo o processo: puxar a película adesiva dos plásticos brilhantes da carcaça e do painel digital."
       ],
       "image": "/images/reviews/samsung/amelia-no-lugar.webp",
@@ -184,10 +184,10 @@
     {
       "heading": "App SmartThings, calibração do tambor e a gaveta de sabão",
       "paragraphs": [
-        "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina realizou a calibração automática do tambor vazio, ajustando os sensores inteligentes de detecção de peso da carga antes da primeira lavagem.",
+        "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina fez uma calibração do tambor vazio, que entendi como o ajuste dos sensores de peso da carga. Foi o que observei na estreia, não um passo a passo de instalação: o procedimento correto está no manual do modelo. O aplicativo é opcional e não é condição para lavar.",
         "Pelo aplicativo dá para ver o tempo restante, os diagnósticos, o aviso de autolimpeza (a cada 40 ciclos) e o consumo de energia e água.",
         "A gaveta tem três partes: 1 para pré-lavagem, 2 para lavagem principal e a do meio para amaciante. A parte 2 traz pecinha azul para sabão líquido.",
-        "Uma grande surpresa de quem vem de lavadoras de abertura superior: a lava e seca consome muito menos insumo! Como a lavagem frontal funciona por tombamento da roupa (e não enchendo 100 litros de água no tanque), uma única tampinha de sabão líquido foi mais que suficiente. Já o amaciante concentrado pede diluição prévia em um pouco de água para não grudar no dispenser."
+        "Uma surpresa para quem vem de lavadoras de abertura superior: a impressão é de gastar menos sabão. A lavagem frontal funciona por tombamento da roupa, e uma única tampinha de sabão líquido pareceu suficiente nessa carga de quatro toalhas, sem comparação medida. Já o amaciante concentrado pede diluição prévia em um pouco de água para não grudar no dispenser."
       ]
     },
     {
@@ -195,22 +195,22 @@
       "paragraphs": [
         "Para estrear a Dona Amélia, escolhi quatro toalhas de banho de diferentes estados: duas brancas limpas, uma com uso normal e uma toalha bastante encardida que estava no fundo do cesto.",
         "Selecionei no painel o programa **Toalhas**, temperatura ajustada em **60 °C**, nível de enxágue 4 e centrifugação em **800 RPM**. Fiquei nos 800 RPM neste primeiro teste: na rotação máxima, tive a impressão de que o cheiro do amaciante fixa menos nas peças.",
-        "Coloquei as toalhas ocupando cerca de **metade do tambor**. Em ciclo com secagem, mantenha a carga entre metade e três quartos do cesto: a roupa precisa de espaço para tombar e secar por igual.",
-        "A porta travou com trava de segurança, a máquina fez o sensoriamento inteligente de peso (AI sensing) e estimou inicialmente 2h26, recalculando logo depois para **2h04**. O molhamento é gradual e inteligente: a água entra aos poucos em jatos enquanto a máquina gira, molhando o contorno externo antes de ensopar o miolo."
+        "Coloquei as toalhas ocupando cerca de **metade do tambor**. Respeite o limite de carga de cada programa no manual do modelo, lembrando que a capacidade é de 13 kg para lavar e 8 kg para secar.",
+        "A porta travou com trava de segurança, a máquina fez o sensoriamento inteligente de peso (AI sensing) e estimou inicialmente 2h26, recalculando logo depois para **2h04** (estimativas do visor, não tempo cronometrado). O molhamento é gradual e inteligente: a água entra aos poucos em jatos enquanto a máquina gira, molhando o contorno externo antes de ensopar o miolo."
       ],
       "image": "/images/reviews/samsung/minha-primeira-lava-e-seca-capa.webp",
       "imageAlt": "Capa do vídeo Minha primeira lava e seca com Cecília e a Samsung 13 kg",
       "imageCaption": "A capa do nosso vídeo: 3 dias de gravação para mostrar tudo tintim por tintim."
     },
     {
-      "heading": "Centrifugação, secagem de 2h45 e o veredito das toalhas",
+      "heading": "Centrifugação, secagem estimada em 2h45 e o veredito das toalhas",
       "paragraphs": [
         "Quando o ciclo de lavagem e centrifugação terminou, abri a porta para conferir: as toalhas estavam quentinhas da água a 60 °C, cheirosas de amaciante, mas ainda úmidas: a umidade clássica de uma centrifugação a 800 RPM. A toalha mais suja havia clareado bastante, mas ainda mostrava marcas de sujeira profunda.",
         "Decidi ativar o ciclo de **Secagem** na mesma carga. O visor estimou **2h45 minutos** de secagem térmica. O ciclo terminou tarde da noite, então deixei a máquina fechada e só fui abrir no dia seguinte pela manhã para o veredito final.",
         "Ao abrir o tambor pela manhã: toalhas **100% secas, macias, fofas e quentinhas**, prontas para dobrar e guardar ou usar direto no banho! O cheiro característico é de lavanderia profissional. Com a temperatura alta da secagem, o aroma forte do amaciante deu uma leve amenizada, ficando um perfume muito agradável e limpo.",
         "Analisando o resultado de cada toalha na bancada:",
         "1. **As toalhas brancas:** que entraram limpas permaneceram super brancas, macias e impecáveis.",
-        "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum: exige pré-tratamento com tira-manchas ou percarbonato de sódio antes de bater (sempre conferindo as instruções da embalagem e se a etiqueta da peça permite esse tratamento).",
+        "2. **A toalha encardida:** ao olhar de perto na luz natural, percebi que ela havia mofado no cesto por ter sido guardada molhada. Mancha de bolor e mofo antigo é profunda e não sai em lavagem comum: exige pré-tratamento antes de bater: tira-manchas ou percarbonato de sódio, se a etiqueta da peça e as instruções do produto permitirem.",
         "3. **Aspecto amarelado:** notei que duas toalhas pareciam ligeiramente amareladas na dobra, o que me fez pensar em testar receitas de clareamento nos próximos ciclos.",
         "A grande conclusão: em dias de chuva ou tempo úmido, ter uma secadora em casa é uma verdadeira glória. Ela reduz o risco de as roupas ficarem dias no varal, pegarem cheiro de umidade ou mofarem no cesto por falta de sol."
       ]
@@ -222,10 +222,10 @@
       ],
       "bullets": [
         "Tire os 4 parafusos de transporte da parte traseira com a chave inclusa, antes de ligar a máquina;",
-        "Instale a máquina na água e no esgoto e ligue na tomada;",
-        "Pareie com o aplicativo SmartThings pelo QR code; enquanto isso, a máquina calibra sozinha o tambor vazio;",
+        "Instale a máquina na água e no esgoto seguindo o manual do modelo ou com a assistência técnica, e ligue na tomada;",
+        "Se quiser, pareie com o aplicativo SmartThings pelo QR code; na estreia, enquanto isso, a máquina fez uma calibração do tambor vazio, e o procedimento certo está no manual;",
         "Abasteça a gaveta: compartimento 1 para a pré-lavagem, 2 para a lavagem principal (com a pecinha azul encaixada se o sabão for líquido) e o do meio, com a florzinha, para o amaciante, diluído antes em um pouco de água se for concentrado;",
-        "Coloque a roupa ocupando de metade a, no máximo, três quartos do tambor;",
+        "Coloque a roupa respeitando o limite de carga do programa no manual (13 kg para lavar, 8 kg para secar);",
         "Escolha o programa, a temperatura e a centrifugação no painel (na estreia, Toalhas, 60 °C e 800 RPM) e inicie: a máquina pesa a carga e recalcula o tempo;",
         "Para secar, ative o ciclo de Secagem na mesma carga quando a lavagem terminar; nas nossas quatro toalhas, o visor estimou 2h45."
       ]
@@ -235,16 +235,16 @@
       "paragraphs": [
         "Depois desse primeiro teste completo, resumimos as nossas principais impressões práticas:",
         "**Pontos Fortes Observados:**",
-        "• **Secagem real e eficiente:** no nosso teste com quatro toalhas, as peças saíram 100% secas, macias e prontas para guardar ou usar no mesmo dia.",
+        "• **Secagem real e eficiente:** no nosso teste com quatro toalhas, as peças estavam 100% secas, macias e prontas para guardar quando conferi na manhã seguinte.",
         "• **Grande alívio em dias de chuva:** reduz a dependência de varal e ajuda a evitar que peças peguem cheiro de umidade ou mofem no cesto por falta de sol.",
-        "• **Economia notável de produtos:** a lavagem por tombamento exige muito menos sabão e amaciante que máquinas convencionais.",
+        "• **Impressão de economia de produtos:** nesse uso, pareceu bastar menos sabão e amaciante, sem comparação medida.",
         "• **Conectividade SmartThings:** monitoramento prático pelo celular de tempo de ciclo, água e energia elétrica.",
         "• **Design compacto:** passou com facilidade na porta de 80 cm da lavanderia (máquina tem 60 cm de largura).",
         "**Pontos de Atenção:**",
         "• **Manual impresso mínimo:** manual físico de apenas uma folha com QR code, exigindo o celular para ler detalhes.",
-        "• **Duração dos ciclos combinados:** o programa completo de toalhas com lavagem a 60 °C e secagem térmica soma cerca de 4h50 no total.",
+        "• **Duração dos ciclos combinados:** o programa completo de toalhas com lavagem a 60 °C e secagem térmica soma cerca de 4h50 pelas estimativas do visor.",
         "• **Parafusos traseiros de transporte:** remoção obrigatória antes de ligar para evitar vibrações no tambor.",
-        "• **Manchas severas de mofo:** exigem pré-tratamento com tira-manchas ou percarbonato antes de ir para a máquina.",
+        "• **Manchas severas de mofo:** exigem pré-tratamento antes de ir para a máquina, conforme a etiqueta da peça e as instruções do produto.",
         "Para quem lava sem varal ou em região de chuva, a secagem resolve; para quem precisa de ciclo rápido, o combinado de quase 5 horas pesa.",
         "**Divulgação de Afiliados:** Como associado da Amazon, eu ganho com compras qualificadas. Os links para Amazon e Mercado Livre são links afiliados/comerciais que ajudam a apoiar o canal Em Casa com Cecília sem custo adicional para o comprador."
       ],
@@ -277,21 +277,21 @@
       "heading": "Perguntas frequentes sobre a Samsung 13 kg",
       "bullets": [
         "Qual é o modelo exato da lava e seca? Samsung WD13FG6B34BEAZ, da linha Lava e Seca Smart WD13FG com AI Control Branca 127V, com capacidade para 13,0 kg de lavagem e 8,0 kg de secagem.",
-        "Como usar a lava e seca Samsung pela primeira vez? Tire os parafusos de transporte, instale, pareie com o SmartThings (a máquina calibra o tambor sozinha), abasteça a gaveta, coloque a roupa até a metade do tambor e escolha programa, temperatura e centrifugação; o passo a passo está na seção acima.",
+        "Como usar a lava e seca Samsung pela primeira vez? Tire os parafusos de transporte, instale, pareie com o SmartThings, se quiser,, abasteça a gaveta, coloque a roupa respeitando o limite de carga do programa no manual e escolha programa, temperatura e centrifugação; o passo a passo está na seção acima.",
         "Quais são as dimensões e o peso da máquina? Estão no quadro do produto, no topo: a máquina tem 60 cm de largura e passou na nossa porta de 80 cm, mas meça o vão livre antes da entrega.",
         "O que é a tecnologia Ecobubble e VRT Plus? O Ecobubble transforma o sabão em bolhas ativas para penetrar mais rápido nas fibras, enquanto o VRT Plus (VRT+) é o sistema de sensores que reduz ruídos e vibrações durante a centrifugação.",
-        "Ela esteriliza a seco? Sim, o modelo é 3 em 1 (lava, seca e esteriliza a seco através da tecnologia Air Wash, que elimina odores e bactérias com ar quente sem usar água).",
+        "Ela higieniza a seco? O modelo é anunciado pela Samsung como 3 em 1 (lava, seca e higieniza a seco com a tecnologia Air Wash, que usa ar quente sem água). Os resultados prometidos são alegações da fabricante; não testamos essa função.",
         "O motor é econômico? Sim, ela conta com motor Digital Inverter da Samsung, que oferece alta eficiência energética, baixo ruído e durabilidade superior.",
         "A lava e seca passa em portas padrão de 80 cm? Sim, no nosso teste passou na porta de 80 cm da lavanderia (a máquina tem 60 cm de largura), mas meça o vão livre e a moldura antes da entrega.",
         "É obrigatório retirar os parafusos de transporte? Sim! São 4 parafusos compridos na parte traseira que travam o tambor durante o frete. Eles devem ser retirados com a chave inclusa antes da primeira ligação.",
-        "Quanto tempo demorou o primeiro ciclo completo? O ciclo de lavagem de toalhas a 60 °C levou 2h04 minutos (recalculado pelo sensor de peso), e a secagem térmica da mesma carga levou 2h45 minutos.",
-        "A secagem realmente entrega a toalha seca? Sim, as toalhas saíram completamente secas, quentinhas e prontas para uso imediato.",
-        "Ela tira mancha pesada e mofo sem pré-lavagem? Não. Manchas profundas de mofo (de toalha guardada úmida no cesto) exigem pré-tratamento com tira-manchas ou percarbonato de sódio, sempre conforme as instruções do produto e a etiqueta da peça, antes de ir para a máquina.",
+        "Quanto tempo demorou o primeiro ciclo completo? O visor estimou 2h04 para a lavagem das toalhas a 60 °C (recalculado pelo sensor de peso) e 2h45 para a secagem da mesma carga. Não cronometramos: o ciclo terminou à noite e conferi as toalhas na manhã seguinte.",
+        "A secagem realmente entrega a toalha seca? Sim, na manhã seguinte as toalhas estavam completamente secas, macias e prontas para uso.",
+        "Ela tira mancha pesada e mofo sem pré-lavagem? Não. Manchas profundas de mofo (de toalha guardada úmida no cesto) exigem pré-tratamento antes de ir para a máquina; use tira-manchas ou percarbonato de sódio só se a etiqueta da peça e as instruções do produto permitirem.",
         "Onde consultar o produto e ofertas? Você pode conferir os preços atualizados e a disponibilidade da Samsung WD13FG de 13 kg na Amazon ou no Mercado Livre através dos links indicados neste artigo."
       ]
     }
   ],
-  "editorialNote": "Primeiras impressões, sem uso de longo prazo. Links da Amazon e do Mercado Livre são de afiliado.",
+  "editorialNote": "Primeiras impressões, sem uso de longo prazo. Os links da Amazon e do Mercado Livre são de afiliado e podem gerar comissão, sem custo extra.",
   "youtubeUrl": "https://youtu.be/xpXX_N002jo",
   "cta": {
     "text": "Confira a Lava e Seca Smart Samsung 13 kg WD13FG e consulte opções de compra",

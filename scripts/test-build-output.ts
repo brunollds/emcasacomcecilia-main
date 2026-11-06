@@ -1525,11 +1525,13 @@ let endProsCons = 0;
 let endFullRelated = 0;
 let endBrunoBoxes = 0;
 // Quem o Bruno assina: todo artigo da Hostinger (a conta do site é dele) e, fora dela, a família do guia de
-// cupons da YesStyle, a Dolce Gusto Genio S Touch e as duas poltronas da Damie. Família nova da Hostinger entra
-// sozinha; artigo que perde a assinatura por engano, ou que ganha uma fora desta regra, para aqui.
+// cupons da YesStyle, a Dolce Gusto Genio S Touch, a Mini Me 2.0 (teste dele) e as duas poltronas da Damie.
+// Família nova da Hostinger entra sozinha; artigo que perde a assinatura por engano, ou que ganha uma fora desta
+// regra, para aqui.
 const BRUNO_OUTSIDE_HOSTINGER = new Set([
   'yesstyle-coupon-guide',
   'dolce-gusto-genio-s-touch-vale-a-pena',
+  'dolce-gusto-mini-me-2-0-vale-a-pena',
   'poltrona-damie-e-boa',
   'poltronas-reclinaveis-damie-vale-o-investimento',
 ]);
