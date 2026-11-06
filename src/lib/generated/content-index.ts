@@ -33719,7 +33719,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: cupom CECI NESCAFÉ Dolce Gusto",
         "paragraphs": [
-          "O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI: dá 10% de desconto em compras a partir de 100 reais em todo o site oficial da NESCAFÉ Dolce Gusto, inclusive na área para CNPJ, e no app, e soma com as promoções da loja. Digite CECI no campo Código do voucher e confira o desconto no resumo antes de pagar."
+          "O [cupom Dolce Gusto](/cupons/dolce-gusto) é o CECI: dá 10% de desconto, com compra mínima, em todo o site oficial da NESCAFÉ Dolce Gusto, inclusive na área para CNPJ, e no app, e soma com as promoções da loja. Digite CECI no campo Código do voucher e confira o desconto no resumo antes de pagar."
         ]
       },
       {
