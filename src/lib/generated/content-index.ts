@@ -180013,7 +180013,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up: a fita que deu nome à marca",
         "paragraphs": [
-          "A Fita Up é para o decote que nenhum sutiã resolve, e a largura se escolhe pelo tamanho da roupa: P até o 44, M até o 48 e G até o 54, pelo guia da página. A loja a descreve como fita adesiva para seios, de poliéster com elastano e cola acrílica à base de água, e a marca fala em até 12 horas no corpo. O uso é cortar um pedaço por vez, colar da base do seio para cima, sem esticar, com o protetor de mamilo por baixo, e tirar devagar com hidratante ou óleo. Se dá para colar de novo, a página não diz: conte um pedaço por uso. Vem em Bege, Marrom e Preto. Se você quer uma peça pronta, pule a fita: o Sutiã de Silicone Invisível é a opção de colar sem cortar, no capítulo seguinte."
+          "A Fita Up é para o decote que nenhum sutiã resolve, e a largura se escolhe pelo tamanho da roupa: P até o 44, M até o 48 e G até o 54, pelo guia da página. A loja a descreve como fita adesiva para seios, de poliéster com elastano e cola acrílica à base de água, e a marca fala em até 12 horas no corpo. O uso é cortar um pedaço por vez, colar da base do seio para cima, sem esticar, com o protetor de mamilo por baixo, e tirar devagar com hidratante ou óleo. Dá para colar de novo, mas a marca não recomenda, porque a fita perde cola a cada uso: conte um pedaço por uso. Por que ela descola, se dá alergia e se pode molhar está em [Fita Up não cola ou descola?](/reviews/fita-up-cuidados-cola-pele-agua). Vem em Bege, Marrom e Preto. Se você quer uma peça pronta, pule a fita: o Sutiã de Silicone Invisível é a opção de colar sem cortar, no capítulo seguinte."
         ],
         "images": [
           {
@@ -190636,6 +190636,170 @@ export const reviewsData: unknown[] = [
       },
       {
         "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
+      }
+    ]
+  },
+  {
+    "id": 838,
+    "slug": "fita-up-cuidados-cola-pele-agua",
+    "locale": "pt",
+    "title": "Fita Up não cola ou descola? Pele, alergia, suor, água e quanto dura",
+    "seoTitle": "Fita Up descola? Alergia, suor, água e quanto dura",
+    "type": "Guia Prático",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "publishedAt": "6 de novembro de 2026",
+    "publishedAtISO": "2026-11-06",
+    "draft": false,
+    "isNew": true,
+    "description": "O que a Toda Up diz sobre a Fita Up que descola: pele, alergia, suor e água, quanto tempo a fita dura no corpo e quem não deve usar, com o que fazer em cada caso.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF no site da Toda Up, a antiga Fita Up. Por que a fita descola, se dá alergia, se pode molhar e quanto tempo dura.",
+    "image": "/images/reviews/toda-up/fita-up-cuidados-cola-pele-agua-capa.webp",
+    "imageAlt": "Fita Up da Toda Up na embalagem, com o logo da Toda Up e o título Fita Up descola?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Entre no site oficial da Toda Up pelo botão e procure a Fita Up na categoria Adesivos.",
+      "label": "Ver na Toda Up",
+      "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
+      "sponsored": true
+    },
+    "coupon": "MAUAD",
+    "affiliate": "toda-up",
+    "editorialNote": "Feito com as informações publicadas pela Toda Up; ninguém do site usou a fita. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
+    "decision": {
+      "takeIf": [
+        "Use a Fita Up se você pode colar em pele limpa e seca e tirar em até 12 horas, ou em até 8 no calor."
+      ],
+      "skipIf": [
+        "Passe se você amamenta, está grávida ou tem a pele irritada: a marca não recomenda o uso.",
+        "Passe se precisa de algo para piscina ou mar: a marca não fala desse uso para a fita."
+      ]
+    },
+    "relatedArticles": [
+      {
+        "slug": "fita-up-como-usar"
+      },
+      {
+        "slug": "fita-up-onde-comprar-original"
+      },
+      {
+        "slug": "cupom-toda-up-como-usar"
+      },
+      {
+        "slug": "protetor-de-silicone-mamilo-como-usar"
+      },
+      {
+        "slug": "toda-up-e-confiavel"
+      },
+      {
+        "slug": "fita-up-ou-blumi-ou-lib"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "A Toda Up diz que a cola da Fita Up é hipoalergênica, resistente à água e ao suor, e dura até 12 horas no corpo, ou até 8 no calor. Ela descola mais na pele úmida ou com creme e quando é reaproveitada. A marca não recomenda o uso na amamentação nem na gestação."
+        ]
+      },
+      {
+        "heading": "Por que a Fita Up descola ou não cola",
+        "paragraphs": [
+          "Pela aba \"Como usar e remover\" da página do produto e pelo FAQ da loja, a fita segura menos nestes casos:"
+        ],
+        "bullets": [
+          "**Pele com creme, óleo ou úmida:** a marca pede a pele limpa e seca antes de colar.",
+          "**Fita puxada demais:** o passo a passo manda colar da base do seio para cima, sem esticar demais.",
+          "**Fita reaproveitada:** dá para colar de novo, mas a marca diz que a fita perde cola e sustentação a cada uso, e não recomenda.",
+          "**Calor acima de 30 graus:** nesses dias, o FAQ fala em até 8 horas de uso, e não nas 12 de sempre.",
+          "**Rolo vencido ou mal guardado:** a validade é de até 1 ano depois de aberto, longe de calor, umidade e luz."
+        ],
+        "postParagraphs": [
+          "O protetor de mamilo vai antes da fita, como manda o passo a passo da marca. O passo a passo inteiro está em [Fita Up: como usar no tomara que caia e no decote](/reviews/fita-up-como-usar)."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
+          "alt": "Modelo segura a caixa da Fita Up, com a fita colada no busto no lugar do sutiã, em foto oficial da Toda Up",
+          "caption": "A Fita Up na embalagem. Imagem: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Fita Up dá alergia? Machuca a pele?",
+        "paragraphs": [
+          "A Toda Up descreve a cola como \"hipoalergênica e dermatologicamente testada\", mas pede um pré-teste com um pedaço pequeno, porque cada pele reage de um jeito. O adesivo é acrílico à base de água, e o tecido, 98,5% poliéster e 1,5% elastano, pelo FAQ da loja.",
+          "Para tirar sem machucar, a Toda Up orienta passar hidratante, óleo corporal ou água morna sobre a fita e puxar devagar, pelas laterais. Com qualquer incômodo na pele, a marca manda suspender o uso e procurar o médico."
+        ]
+      },
+      {
+        "heading": "Fita Up pode molhar? Piscina, praia e suor",
+        "paragraphs": [
+          "A página do produto diz que a fita é \"resistente à água e ao suor\", e o FAQ fala em \"100% à prova de suor\". A marca não fala de piscina nem de mar para a fita, e só usa \"à prova d'água\" para outro produto.",
+          "Esse produto é o protetor de silicone, que vai no mamilo: o FAQ diz que ele é à prova d'água e serve com roupa de banho. Como ele funciona está em [protetor de silicone para mamilo: como usar](/reviews/protetor-de-silicone-mamilo-como-usar)."
+        ],
+        "image": {
+          "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
+          "alt": "Três protetores de silicone da Toda Up nas cores Creme, Caramelo e Avelã, colados no braço de uma modelo",
+          "caption": "O protetor de silicone, o produto que a marca chama de à prova d'água. Imagem: Toda Up.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Quanto tempo a Fita Up dura",
+        "paragraphs": [
+          "A conta é por pedaço, e o calor encurta o tempo no corpo. Os prazos que a Toda Up publica:"
+        ],
+        "bullets": [
+          "**No corpo:** até 12 horas, pela página do produto.",
+          "**No calor acima de 30 graus:** até 8 horas, pelo FAQ.",
+          "**Cada pedaço:** uma vez só, na recomendação da marca.",
+          "**O rolo:** até 1 ano depois de aberto."
+        ]
+      },
+      {
+        "heading": "Quem não deve usar a Fita Up",
+        "paragraphs": [
+          "No FAQ da loja, em \"Quem não pode usar?\", a Toda Up não recomenda a fita:"
+        ],
+        "bullets": [
+          "na amamentação e na gestação;",
+          "para menores de 18 anos;",
+          "em pele hipersensível, intolerante, queimada ou irritada."
+        ],
+        "postParagraphs": [
+          "A página do produto não mostra essa lista. Na dúvida sobre o seu caso, a conversa é com o médico."
+        ]
+      },
+      {
+        "heading": "Onde comprar a original e o cupom",
+        "paragraphs": [
+          "A Fita Up se compra no site oficial da Toda Up, na categoria Adesivos, e também fora dele, nos marketplaces e nas lojas parceiras que a marca lista: veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original). No site, o código MAUAD dá 10% de desconto. O código para copiar está na página do [cupom Toda Up](/cupons/toda-up), e o passo a passo de aplicar, em [como usar o cupom](/reviews/cupom-toda-up-como-usar)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "A Fita Up pode molhar? A Toda Up diz que a fita é resistente à água e ao suor. A marca não diz que ela é à prova d'água: essa expressão é do protetor de silicone.",
+          "Pode usar a Fita Up na piscina? A marca não fala de piscina nem de mar para a fita; diz só que ela é resistente à água e ao suor.",
+          "A Fita Up dá alergia? A Toda Up descreve a cola como hipoalergênica e dermatologicamente testada, mas pede um pré-teste com um pedaço pequeno, porque cada pele reage de um jeito.",
+          "Por que a Fita Up não cola? Os motivos que a marca aponta são pele úmida ou com creme, fita esticada demais, pedaço reaproveitado e calor acima de 30 graus, quando o uso cai para até 8 horas.",
+          "Dá para reutilizar a Fita Up? Dá, mas a Toda Up não recomenda: a fita perde cola e sustentação a cada uso.",
+          "Quanto tempo a Fita Up dura no corpo? Até 12 horas, pela página do produto, e até 8 horas em dias acima de 30 graus, pelo FAQ.",
+          "Pode usar a Fita Up amamentando? A Toda Up não recomenda a fita na amamentação nem na gestação.",
+          "Como tirar a Fita Up sem doer? Passe hidratante, óleo corporal ou água morna sobre a fita e puxe devagar, pelas laterais, como orienta a marca."
+        ]
       }
     ]
   }
