@@ -43,15 +43,15 @@ F7 da série Toda Up × outras marcas (Fila, 06/11/2026). GO do Bruno em 06/11: 
 
 ## 3. O que a Toda Up vende (lido no Chrome, 06/11/2026)
 
-- **Sutiã de Silicone Invisível** (`todaup.com/products/sutia-de-silicone-invisivel`): R$ 149,90 (de R$ 159,90); P (38/40), M (42/44) e G (44/48). Pela loja: adesivo que adere à pele, para vestido de festa e frente única, sem alças e costas nuas; hipoalergênico e com efeito lifting; lavar com água e sabão neutro, secar ao natural. A marca não diz quantas vezes dá para usar (o guia `sutia-de-silicone-invisivel-como-usar` já registra isso).
+- **Sutiã de Silicone Invisível** (`todaup.com/products/sutia-de-silicone-invisivel`): R$ 149,90 (de R$ 159,90); P (38/40), M (42/44) e G (44/48). Pela loja: adesivo que adere à pele, para vestido de festa e frente única, sem alças e costas nuas; hipoalergênico e com efeito lifting; lavar com água e sabão neutro, secar ao natural. Reutilizável até 12 vezes, pela página do produto e pelo FAQ da loja (corrigido em 06/11 pela sessão de artigos; a leitura anterior dizia que a marca não informava).
 - **Fita Up** (`todaup.com/products/fita-up`): R$ 116,90 (de R$ 179,90) na Black November; larguras P, M e G (até 44, 48 e 54 pelo guia; "até o 52 com segurança" no FAQ); cores Bege, Marrom e Preto; cola hipoalergênica e dermatologicamente testada, resistente à água e ao suor, até 12 horas; uso único (reaproveitar perde a cola). A metragem do rolo não é publicada. O briefing [[fita-up-cuidados-cola-pele-agua]] tem o resto.
-- **Protetor de Silicone Ultrafino** (`todaup.com/products/protetor-de-silicone-ultrafino`): R$ 59,90 (de R$ 99,90); P (8 cm), M (10 cm) e G (12 cm); cores Creme, Caramelo e Avelã. Pelo FAQ da loja: à prova d'água, serve com roupa de banho, reutilizável até 20 vezes, validade de 2 anos depois de aberto; não recomendado na gestação e na amamentação.
+- **Protetor de Silicone Ultrafino** (`todaup.com/products/protetor-de-silicone-ultrafino`): R$ 59,90 (de R$ 99,90); P (8 cm), M (10 cm) e G (12 cm); cores Creme, Caramelo e Avelã. Pelo FAQ da loja: à prova d'água, serve com roupa de banho, reutilizável até 30 vezes pela página do produto e até 20 pelo FAQ da loja (as duas fontes divergem; o texto cita as duas), validade de 2 anos depois de aberto; não recomendado na gestação e na amamentação.
 - **Cupom MAUAD:** 10% no site da Toda Up (`/cupons/toda-up`). A página diz que cupom não acumula com o kit, "salvo cupons de influenciadoras": o MAUAD soma com o Leve 2 da Fita Up (o teste no carrinho de outubro já tinha mostrado isso nos kits).
 - **Preço com o cupom (conta nossa, 06/11):** Fita Up R$ 105,21 (1 unidade) ou R$ 84,17 cada no Leve 2 (R$ 168,34 as duas); Sutiã de Silicone Invisível R$ 134,91; Protetor de Silicone Ultrafino R$ 53,91. **Toda comparação de preço do artigo usa estes valores**, contra o preço da página da concorrente (e o à vista dela, quando a página mostra).
 
 ## 4. O que só o site dá
 
-As duas peças lado a lado: preço (R$ 149,90 nas duas páginas, mas R$ 134,91 na Toda Up com o MAUAD), tamanhos (a Hope tem EG; a Toda Up vai até G 44/48), cobertura (tecido na Hope, silicone na Toda Up), quantas vezes dá para usar (a Hope diz 25 a 30; a Toda Up não diz) e lavagem. E a resposta à "fita up hope": a Hope não tem fita para seios; quem quer fita fica com a Fita Up.
+As duas peças lado a lado: preço (R$ 149,90 nas duas páginas, mas R$ 134,91 na Toda Up com o MAUAD), tamanhos (a Hope tem EG; a Toda Up vai até G 44/48), cobertura (tecido na Hope, silicone na Toda Up), quantas vezes dá para usar (a Hope diz 25 a 30; a Toda Up, até 12) e lavagem. E a resposta à "fita up hope": a Hope não tem fita para seios; quem quer fita fica com a Fita Up.
 
 ## 5. Regras
 
