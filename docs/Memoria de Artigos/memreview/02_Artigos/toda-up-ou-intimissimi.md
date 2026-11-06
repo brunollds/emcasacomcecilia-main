@@ -10,7 +10,7 @@ type: "Comparativo"
 anexo_tipo: "nenhum"
 status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy"
+proxima_acao: null
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 60
