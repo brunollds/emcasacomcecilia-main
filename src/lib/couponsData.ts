@@ -232,7 +232,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'A DAMIE tem aplicativo para comprar?',
         answer:
-          'Não. O app da DAMIE serve só para o controle do colchão e não vende. A compra é pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o CECILIA12 vale: digite o código no campo de cupom, antes de pagar.',
+          'Não. A compra é pelo site oficial, que funciona no navegador do celular e tem busca para achar os produtos. É lá que o CECILIA12 vale: digite o código no campo de cupom, antes de pagar.',
       },
       {
         question: 'O cupom inclui frete grátis?',
@@ -242,7 +242,7 @@ const STORE_COUPONS: Coupon[] = [
       {
         question: 'O que fazer se o cupom CECILIA12 não funcionar?',
         answer:
-          'Confira se não há outro cupom no carrinho nem o giftback de 15%: o CECILIA12 não soma com eles. O código vai no campo de cupom do site oficial da DAMIE, sem espaços; ele não vale no app do colchão nem no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
+          'Confira se não há outro cupom no carrinho nem o giftback de 15%: o CECILIA12 não soma com eles. O código vai no campo de cupom do site oficial da DAMIE, sem espaços; ele não vale no Mercado Livre. Se ainda assim não funcionar, avise pelo contato do site para revisarmos a informação.',
       },
       {
         question: 'A Cecília testou produtos da DAMIE?',
