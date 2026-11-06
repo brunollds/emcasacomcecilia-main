@@ -69684,6 +69684,98 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 57092,
+      "sha256": "d86dd70de8a77576e49237c2559945650877ea97bac73d5f689bf7aa2ff669dc",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-encolhe-como-lavar-capa.webp",
+      "storage_filename": "camiseta-insider-encolhe-como-lavar-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-encolhe-como-lavar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-encolhe-como-lavar.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 190388,
+          "column": 15,
+          "literal": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/d86dd70de8a77576e49237c2559945650877ea97bac73d5f689bf7aa2ff669dc/camiseta-insider-encolhe-como-lavar-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/d86dd70de8a77576e49237c2559945650877ea97bac73d5f689bf7aa2ff669dc/camiseta-insider-encolhe-como-lavar-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T00:35:45.824Z",
+      "verification_etag_or_digest": "d86dd70de8a77576e49237c2559945650877ea97bac73d5f689bf7aa2ff669dc",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/insider/camiseta-insider-encolhe-como-lavar-loop-poster.webp",
+      "local_url": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-loop-poster.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 30362,
+      "sha256": "fbb5ca861aa4bfe3736fb980af77b9665b0731cef1158661536de9d292526561",
+      "width": 540,
+      "height": 960,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-encolhe-como-lavar-loop-poster.webp",
+      "storage_filename": "camiseta-insider-encolhe-como-lavar-loop-poster.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-encolhe-como-lavar.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-encolhe-como-lavar.json",
+          "line": 149,
+          "column": 20,
+          "literal": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-loop-poster.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 190514,
+          "column": 22,
+          "literal": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-loop-poster.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/fbb5ca861aa4bfe3736fb980af77b9665b0731cef1158661536de9d292526561/camiseta-insider-encolhe-como-lavar-loop-poster.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/fbb5ca861aa4bfe3736fb980af77b9665b0731cef1158661536de9d292526561/camiseta-insider-encolhe-como-lavar-loop-poster.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T00:35:45.825Z",
+      "verification_etag_or_digest": "fbb5ca861aa4bfe3736fb980af77b9665b0731cef1158661536de9d292526561",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/insider/camiseta-insider-qual-escolher-capa.webp",
       "local_url": "/images/reviews/insider/camiseta-insider-qual-escolher-capa.webp",
       "media_kind": "image",
@@ -115269,6 +115361,60 @@
       "uploaded_at": null,
       "verified_at": "2026-09-06T23:47:43.366Z",
       "verification_etag_or_digest": "505f979c04356818e70d2777a33ec6c32cf240c6f3f3d3dd14d4f7ffa28af384",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/videos/reviews/insider/camiseta-insider-encolhe-como-lavar-loop.mp4",
+      "local_url": "/videos/reviews/insider/camiseta-insider-encolhe-como-lavar-loop.mp4",
+      "media_kind": "video",
+      "mime": "video/mp4",
+      "mime_extension_match": true,
+      "bytes": 1239732,
+      "sha256": "22b5869819d40a3cc731df93b777377f7018dea504817dcf0378382ec19de378",
+      "width": 540,
+      "height": 960,
+      "duration_seconds": 8,
+      "codec": "h264",
+      "metadata_tool": "ffprobe",
+      "metadata_pending": [],
+      "original_filename": "camiseta-insider-encolhe-como-lavar-loop.mp4",
+      "storage_filename": "camiseta-insider-encolhe-como-lavar-loop.mp4",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/camiseta-insider-encolhe-como-lavar.json",
+        "src/lib/generated/content-index.ts",
+        "src/lib/video-metadata.js"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/camiseta-insider-encolhe-como-lavar.json",
+          "line": 148,
+          "column": 17,
+          "literal": "/videos/reviews/insider/camiseta-insider-encolhe-como-lavar-loop.mp4",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 190513,
+          "column": 19,
+          "literal": "/videos/reviews/insider/camiseta-insider-encolhe-como-lavar-loop.mp4",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/video-metadata.js",
+          "line": 168,
+          "column": 4,
+          "literal": "/videos/reviews/insider/camiseta-insider-encolhe-como-lavar-loop.mp4",
+          "authority": "source"
+        }
+      ],
+      "remote_key": "v1/video/22b5869819d40a3cc731df93b777377f7018dea504817dcf0378382ec19de378/camiseta-insider-encolhe-como-lavar-loop.mp4",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/video/22b5869819d40a3cc731df93b777377f7018dea504817dcf0378382ec19de378/camiseta-insider-encolhe-como-lavar-loop.mp4",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T00:35:45.825Z",
+      "verification_etag_or_digest": "22b5869819d40a3cc731df93b777377f7018dea504817dcf0378382ec19de378",
       "verification_status": "verified"
     },
     {
