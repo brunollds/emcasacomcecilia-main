@@ -33520,7 +33520,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Damie vale para quem quer montar um espaço de descanso: relaxar, ver filme ou amamentar com conforto, durabilidade e estilo.",
           "No site da Damie, dá para escolher revestimento, cor e acessórios conforme a rotina da casa. A loja também oferece teste por 30 dias, garantia de 1 ano e atendimento para dúvidas e personalizações.",
-          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre. O prazo conta a partir da confirmação do pagamento.",
+          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
           "Para devolver no teste de 30 dias, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira. A devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal, e a loja agenda a coleta. Por isso, guarde a caixa até o fim do teste.",
           "Nossa experiência foi tão positiva que continuamos recomendando a marca para amigos, familiares e seguidores do Em Casa com Cecília."
         ]
