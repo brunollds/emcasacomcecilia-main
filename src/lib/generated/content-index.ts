@@ -35280,8 +35280,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Análise completa da Nestlé Nutre: CNPJ oficial da Nestlé Brasil, SAC, política de troca/devolução (CDC 7 dias), entregas e o que observar antes de comprar.",
-    "metaDescription": "A Nestlé Nutre, com o cupom CECI e 10% OFF, é a loja oficial da Nestlé Health Science com CNPJ da Nestlé Brasil: SAC, trocas em 7 dias e entregas.",
+    "description": "Análise da Nestlé Nutre: CNPJ da Nestlé Brasil, SAC, direito de arrependimento em 7 dias, frete, entregas e o que observar antes de comprar na loja oficial.",
+    "metaDescription": "A Nestlé Nutre, com o cupom CECI e 10% OFF, é a loja oficial da Nestlé Health Science com CNPJ da Nestlé Brasil: SAC, devolução em 7 dias e entregas.",
     "publishedAt": "5 de agosto de 2026",
     "draft": false,
     "image": "/images/reviews/nutren/nestle-nutre-e-confiavel-capa-discover.webp",
@@ -35300,8 +35300,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dados públicos da empresa",
         "paragraphs": [
-          "A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é loja nova nem intermediário: é a venda direta da Nestlé, o que dá respaldo para troca e reembolso.",
-          "A loja informa: atendimento por telefone (0800 770 2461), WhatsApp (11 97893 1273) e assistente virtual Nina no próprio site. O domínio oficial é nestlenutre.com.br, e o site exibe certificado de segurança SSL."
+          "A Nestlé Nutre é a loja oficial de e-commerce da Nestlé Health Science no Brasil, operada sob o CNPJ 60.409.075/0001-52, o mesmo registrado pela Nestlé Brasil Ltda. Não é loja nova nem intermediário: é a venda direta da Nestlé, e quem responde pela troca e pelo reembolso é a própria empresa.",
+          "A loja informa: atendimento por telefone (0800 770 2461), WhatsApp (11 97893 1273) e assistente virtual Nina no próprio site. O domínio oficial é nestlenutre.com.br, e o site exibe certificado de segurança SSL. O CNPJ e a conexão segura mostram quem vende; o prazo de entrega e o reembolso seguem as regras abaixo."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nestle-nutre-identidade-institucional.webp",
@@ -35332,8 +35332,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Políticas de compra e pós-venda",
         "paragraphs": [
-          "O direito de arrependimento segue o CDC: até 7 dias corridos após o recebimento para devolver o produto, com frete de retorno custeado pela Nestlé, desde que o item esteja na embalagem original acompanhado da nota fiscal. Em compras no cartão, o estorno é feito na fatura seguinte; no boleto, por depósito em conta.",
-          "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. O frete é grátis acima de R$ 400, e o parcelamento chega a 6x sem juros no cartão. Quem compra por lá pela primeira vez ainda encontra o cupom BOASVINDAS10 (10% OFF), que é da própria loja, diferente do CECI, que é a parceria com este blog."
+          "O direito de arrependimento vale por até 7 dias corridos a partir do recebimento. A devolução é pedida pelo SAC da loja, e a Nestlé (ou a marca parceira) paga a coleta ou a postagem. O produto volta na embalagem original ou similar, com a nota fiscal e, quando houver, o manual e os acessórios.",
+          "Quando o produto chega ao centro de distribuição, a loja confere essas condições e devolve o valor total. No cartão, o estorno sai de uma vez, na fatura seguinte ou na posterior, seja qual for o número de parcelas. Produto com defeito ou entregue errado não entra no arrependimento: nesse caso, fale com o SAC e explique o problema.",
+          "As entregas são feitas de segunda a sexta, das 8h às 22h (excepcionalmente também em fins de semana e feriados), com até três tentativas no endereço informado. A home da loja anuncia frete grátis acima de R$ 200, mas esse valor pode mudar com as campanhas: confira o frete e o prazo no carrinho, com o seu CEP. O parcelamento chega a 6x sem juros no cartão."
         ],
         "bullets": []
       },
@@ -35347,13 +35348,13 @@ export const reviewsData: unknown[] = [
           "Itens de nutrição clínica e pediátrica (Alfamino, Alfaré, Isosource, Modulen) devem seguir a indicação do rótulo e, quando aplicável, orientação de um profissional de saúde.",
           "Confira a validade do lote no momento da compra, porque são produtos de consumo contínuo.",
           "Se você compra com frequência, vale avaliar o Programa Nestlé Nutre separadamente do cupom CECI.",
-          "No checkout, teste o cupom CECI e compare com outras promoções ativas: o sistema aplica só o maior desconto disponível."
+          "No checkout, digite o CECI e confira a linha do desconto no resumo: no nosso teste, ele somou com as promoções da loja."
         ]
       },
       {
         "heading": "Parceria e cupom de desconto",
         "paragraphs": [
-          "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Pela parceria, o cupom CECI dá 10% no carrinho em produtos elegíveis, exceto Alfamino e Alfaré. O código também não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais nesses produtos. As condições de desconto, validade e frete dependem das regras vigentes no checkout."
+          "O Em Casa com Cecília possui parceria comercial com a Nestlé Nutre. Pela parceria, o cupom CECI dá 10% no carrinho em produtos elegíveis, exceto Alfamino e Alfaré. O código também não deve ser usado em fórmulas infantis para bebês de 0 a 12 meses, como NAN: o art. 5º do Decreto 9.579/2018 proíbe cupons e descontos promocionais nesses produtos. As condições de desconto e frete dependem das regras vigentes no checkout. O cupom pode gerar comissão para o blog, sem custo extra para você."
         ],
         "bullets": [],
         "links": [
@@ -35366,8 +35367,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Nestlé Nutre?",
         "paragraphs": [
-          "Sim. A loja opera sob o CNPJ 60.409.075/0001-52, o da Nestlé Brasil Ltda, no domínio nestlenutre.com.br e com certificado SSL. O atendimento tem telefone (0800 770 2461), WhatsApp e assistente virtual, e a troca segue o CDC: 7 dias corridos após o recebimento, com o frete de retorno pago pela Nestlé.",
-          "Nas condições de compra, o frete é grátis acima de R$ 400 e o parcelamento vai até 6x sem juros. Confira o domínio antes de pagar, siga o rótulo nos itens de nutrição clínica e pediátrica e, se tiver dúvida de saúde, fale com um profissional."
+          "Sim. A loja opera sob o CNPJ 60.409.075/0001-52, o da Nestlé Brasil Ltda, no domínio nestlenutre.com.br. O atendimento tem telefone (0800 770 2461), WhatsApp e assistente virtual, e o arrependimento segue o CDC: 7 dias corridos após o recebimento, com a coleta paga pela Nestlé.",
+          "O frete grátis tem um valor mínimo, que pode mudar, e o parcelamento vai até 6x sem juros. Confira o domínio antes de pagar, siga o rótulo nos itens de nutrição clínica e pediátrica e, se tiver dúvida de saúde, fale com um profissional."
         ]
       },
       {
@@ -35376,10 +35377,10 @@ export const reviewsData: unknown[] = [
           "A Nestlé Nutre é a mesma empresa da Nestlé? Sim. É o e-commerce oficial da Nestlé Health Science no Brasil, operado sob o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52).",
           "O site da Nestlé Nutre é confiável para comprar Nutren? Sim: o nestlenutre.com.br é o e-commerce oficial da Nestlé Health Science no Brasil, com o CNPJ da Nestlé Brasil Ltda (60.409.075/0001-52) e conexão segura.",
           "Qual o telefone de atendimento da Nestlé Nutre? 0800 770 2461, além de WhatsApp (11 97893 1273) e assistente virtual no próprio site.",
-          "A Nestlé Nutre entrega no meu CEP? Sim, com prazo calculado no checkout; dias e tentativas estão no capítulo Políticas de compra e pós-venda.",
-          "Como funciona a devolução na Nestlé Nutre? Segue o CDC: até 7 dias corridos após o recebimento, com o produto na embalagem original e nota fiscal, e frete de retorno custeado pela empresa.",
+          "A Nestlé Nutre entrega no meu CEP? Digite o CEP no carrinho: o site mostra se entrega, o prazo e o frete antes do pagamento.",
+          "Como funciona a devolução na Nestlé Nutre? Pelo direito de arrependimento, você pede a devolução ao SAC em até 7 dias corridos após o recebimento, com o produto na embalagem original ou similar e a nota fiscal. A Nestlé paga a coleta e, no cartão, o estorno sai na fatura seguinte ou na posterior.",
           "O que é o Programa Nestlé Nutre? É um serviço de apoio ao paciente com conteúdo sobre saúde, atendimento nutricional gratuito e um cupom de 10% renovado mensalmente, separado da parceria do cupom CECI com este blog.",
-          "O cupom CECI garante desconto na Nestlé Nutre? O cupom CECI aplica 10% OFF em produtos elegíveis do site oficial no momento da compra, respeitando as exceções e condições vigentes no checkout."
+          "O cupom CECI soma com as promoções da Nestlé Nutre? No nosso teste, sim: o CECI deu 10% OFF nos produtos elegíveis junto com as promoções da loja. Ele não vale em Alfamino, Alfaré nem fórmulas infantis de 0 a 12 meses; confira a linha do desconto no resumo antes de pagar."
         ]
       }
     ],
@@ -35390,7 +35391,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Parceria comercial com a Nestlé Nutre. Dados do site oficial, sem teste próprio.",
+    "editorialNote": "Parceria comercial com a Nestlé Nutre; o CECI pode gerar comissão, sem custo extra. Dados do site oficial e teste do cupom no carrinho.",
     "relatedArticles": [
       {
         "slug": "cupom-ceci-nestle-nutre-como-usar"
@@ -35401,7 +35402,7 @@ export const reviewsData: unknown[] = [
     ],
     "publishedAtISO": "2026-08-05",
     "isNew": false,
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 224,
@@ -38652,7 +38653,7 @@ export const reviewsData: unknown[] = [
           "5 barras (5 níveis): cerca de 140 ml a 150 ml, exemplos de Café au Lait Desnatado ou chá",
           "6 barras (6 níveis): cerca de 170 ml a 180 ml, exemplos de bebidas médias com leite ou chocolate",
           "7 barras (7 níveis): cerca de 200 ml a 220 ml, exemplos de cafés grandes e bebidas longas",
-          "Função XL: 300 ml nos manuais consultados, tamanho máximo extra grande"
+          "Função XL: 300 ml no manual da Genio S Touch, tamanho máximo extra grande"
         ],
         "image": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-cafes-lattes.webp",
         "imageAlt": "Tabela impressa em uma embalagem Dolce Gusto com volumes de cafés, lattes e bebidas preparadas em duas etapas",
@@ -38671,7 +38672,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona a variação de volume por nível",
         "paragraphs": [
-          "A escala vai de 1 a 7 barras, mais a opção XL. Os volumes sobem a cada barra, do curto ao longo, e o XL é o passo extra só da Genio S Touch; os valores de cada nível estão na tabela acima.",
+          "A escala vai de 1 a 7 barras, mais a opção XL. Os volumes sobem a cada barra, do curto ao longo, e o XL é um passo extra: entre os dois manuais consultados, só o da Genio S Touch traz o XL, porque a Mini Me 2.0 não tem essa função; os valores de cada nível estão na tabela acima.",
           "Cada cápsula traz uma quantidade recomendada impressa na embalagem em forma de barras. Ao selecionar o número correspondente no painel touch, a máquina segue o nível indicado para aquela receita; o volume final deve ser entendido como aproximado e pode variar conforme a bebida e o modelo.",
           "Nas bebidas preparadas em duas etapas, como lattes e cappuccinos, o volume total no copo é a soma das extrações. Na tabela fotografada, o cappuccino combina 200 ml da etapa de leite com 40 ml da etapa de café, totalizando 240 ml. O latte macchiato combina 170 ml de leite e 50 ml de café, totalizando 220 ml."
         ],
@@ -38685,8 +38686,8 @@ export const reviewsData: unknown[] = [
         "heading": "Risco, traço, tracinho ou barra: é tudo o mesmo nível",
         "paragraphs": [
           "Risco, risquinho, traço, tracinho ou barra: são nomes diferentes para a mesma marcação da escala de água. O manual da Genio S Touch fala em barras, e a Nestlé, em tracinhos.",
-          "A própria Nestlé usa 'tracinho' na documentação oficial: a página do Adaptador NEO Start no site da marca recomenda '1 tracinho de água' para espressos e '4 tracinhos' para lungos.",
-          "Isso confirma que a própria marca usa os tracinhos como orientação de preparo e recomenda **4 tracinhos para lungo**. Nos exemplos reunidos no manual, esse nível aparece associado a aproximadamente 110-120 ml, mas não existe uma tabela oficial única que estabeleça essa equivalência para todas as cápsulas e máquinas."
+          "A própria Nestlé usa 'tracinho' na documentação oficial: a página do Adaptador NEO Start recomenda '1 tracinho de água' para espressos e '4 tracinhos' para lungos. Essa orientação é para as cápsulas NEO compatíveis preparadas com o adaptador; nas outras cápsulas, vale o número de tracinhos impresso na embalagem.",
+          "Nos exemplos reunidos no manual, 4 barras aparecem associadas a aproximadamente 110-120 ml, mas não existe uma tabela oficial única que estabeleça essa equivalência para todas as cápsulas e máquinas."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-1.webp",
@@ -38707,10 +38708,10 @@ export const reviewsData: unknown[] = [
         "imageFit": "square"
       },
       {
-        "heading": "XL nos manuais consultados: 300 ml",
+        "heading": "XL no manual da Genio S Touch: 300 ml",
         "paragraphs": [
           "O gráfico do manual da Genio S Touch mostra 300 ml para XL, não 280 ml. O comparativo da loja oficial mostra a Mini Me 2.0 sem XL, e a Nestlé não publica tabela única.",
-          "Se o manual do seu modelo traz outros valores, siga o do seu modelo: o XL de 300 ml vale para a Genio S Touch."
+          "Se o manual do seu modelo traz outros valores, siga o do seu modelo. O XL de 300 ml é o do manual da Genio S Touch, e a página oficial da Genio S Plus fala no mesmo limite, de até 300 ml."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/tabela-manual-dolce-gusto-4.webp",
@@ -38734,13 +38735,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml (só na Genio S Touch: a Mini Me 2.0 não tem XL).",
+          "Quantos ml tem cada risco (tracinho) da Dolce Gusto? A Nestlé não publica uma equivalência única para toda a linha. Nos exemplos dos manuais da Genio S Touch e da Mini Me 2.0, reunimos estas referências aproximadas: 1 barra = 35-40 ml, 2 = 50-60 ml, 3 = 80-90 ml, 4 = 110-120 ml, 5 = 140-150 ml, 6 = 170-180 ml, 7 = 200-220 ml e XL = 300 ml (o XL vem do manual da Genio S Touch; a Mini Me 2.0 não tem XL).",
           "Quantos ml faz uma cápsula Dolce Gusto? Depende da bebida: na tabela da caixa, os cafés pretos vão de 35 ml (Ristretto Ardenza) a 145 ml (Café Caseiro), e o número de riscos certo vem impresso em cada cápsula.",
           "E os níveis intermediários? Nos exemplos do manual, os volumes aumentam progressivamente entre as barras. As faixas deste artigo são uma compilação de diferentes cartões de receita, não uma calibração oficial universal.",
           "O que significam os tracinhos ou barras da Dolce Gusto? Eles indicam o nível de água recomendado para o preparo da cápsula. Mais tracinhos normalmente significam uma bebida de maior volume, mas o resultado deve ser tratado como aproximado.",
-          "Quantos tracinhos para lungo? A Nestlé menciona 4 tracinhos de água para Lungos, e esse dado vem da documentação oficial do Adaptador NEO Start.",
-          "Dolce Gusto XL: realmente 300 ml? No manual da Genio S Touch, sim: o gráfico mostra 300 ml para a função XL. A Mini Me 2.0 não tem XL, segundo o comparativo da loja oficial, e outros modelos podem apresentar informações diferentes.",
-          "Cupom CECI ainda é válido? Cupons promocionais têm prazo de validade e podem mudar. Se o CECI não estiver ativo quando você for comprar, o link da loja oficial neste artigo mostra a promoção vigente no momento."
+          "Quantos tracinhos para lungo? A Nestlé recomenda 4 tracinhos de água para lungos na página do Adaptador NEO Start, para as cápsulas NEO compatíveis com o adaptador. Nas outras cápsulas, siga o número impresso na embalagem.",
+          "Dolce Gusto XL: realmente 300 ml? No manual da Genio S Touch, sim: o gráfico mostra 300 ml para a função XL, e a página oficial da Genio S Plus também fala em até 300 ml. A Mini Me 2.0 não tem XL, segundo o comparativo da loja oficial, e outros modelos podem apresentar informações diferentes.",
+          "O cupom CECI ainda é válido? Sim. Não tem data de fim marcada e dá 10% OFF em compras a partir de R$ 100 na loja oficial; as regras atuais estão na página do [cupom Dolce Gusto](/cupons/dolce-gusto)."
         ]
       }
     ],
@@ -38751,7 +38752,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Compilação editorial dos manuais, sem tabela oficial. O CECI vem de parceria comercial.",
+    "editorialNote": "Compilação editorial dos manuais, sem tabela oficial. O CECI vem de parceria comercial e pode gerar comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena"
@@ -38809,7 +38810,8 @@ export const reviewsData: unknown[] = [
       "poster": "/images/reviews/dolcegusto/tabela-caixa-dolce-gusto-hero.webp",
       "alt": "Demonstração em vídeo da seleção de nível de água no painel da máquina NESCAFÉ Dolce Gusto",
       "aspect": "square"
-    }
+    },
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 244,
@@ -38985,10 +38987,10 @@ export const reviewsData: unknown[] = [
     },
     "description": "Como funciona a Assinatura NESCAFÉ Dolce Gusto: Geração 1 e NEO, pedido mínimo, frequência, 25% de desconto, frete grátis, cartão recusado, como pular uma entrega e como cancelar.",
     "seoTitle": "Assinatura Dolce Gusto: Como Funciona e Como Cancelar",
-    "metaDescription": "Assinatura Dolce Gusto com o cupom CECI e 10% OFF, que somou com os 25% no nosso teste: como assinar Geração 1 ou NEO, mínimo de 3 caixas e como cancelar.",
+    "metaDescription": "Assinatura Dolce Gusto com o cupom CECI (hoje 10% OFF), que somou com os 25% no nosso teste: Geração 1 ou NEO, mínimo de 3 caixas e como cancelar.",
     "publishedAt": "3 de agosto de 2026",
     "publishedAtISO": "2026-08-03",
-    "updatedAt": "2026-10-05",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-como-funciona-capa-discover.webp",
@@ -39001,14 +39003,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como funciona a assinatura",
         "paragraphs": [
-          "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com 25% de desconto e frete grátis em pedidos de 3 caixas ou mais, no cartão de crédito, e cancela sem multa. O cupom CECI dá mais 10% OFF, que somou com os 25% no nosso teste, em pedidos a partir de 100 reais."
+          "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com 25% de desconto e frete grátis em pedidos de 3 caixas ou mais, no cartão, e o plano regular pode ser cancelado sem multa. No nosso teste, o CECI, que dava 5% na época, somou com os 25%. Hoje ele dá 10% a partir de 100 reais."
         ]
       },
       {
         "heading": "O que é a Assinatura Dolce Gusto",
         "paragraphs": [
           "A Assinatura é a compra programada de cápsulas no site oficial da NESCAFÉ Dolce Gusto. Em vez de lembrar de fazer um pedido toda vez que a caixa acaba, você escolhe os sabores uma vez, define de quanto em quanto tempo quer receber e o pedido é cobrado e enviado sozinho na data marcada.",
-          "Em troca dessa recorrência, a marca dá **25% de desconto** sobre o preço cheio das caixas e **frete grátis** em todos os pedidos de assinatura. Não existe fidelidade: o plano pode ser alterado ou cancelado pela conta, sem multa."
+          "Em troca dessa recorrência, a marca dá **25% de desconto** sobre o preço cheio das caixas e **frete grátis** em todos os pedidos de assinatura. No plano regular descrito aqui não existe fidelidade: ele pode ser alterado ou cancelado pela conta, sem multa.",
+          "As regras deste guia são as do plano regular, só de cápsulas. Os planos antigos com máquina, já encerrados, tinham regras próprias."
         ]
       },
       {
@@ -39043,7 +39046,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/dolcegusto/assinatura-dolce-gusto-precos-caixa-oficial.webp",
         "imageAlt": "Banner oficial com as quatro linhas da assinatura: caixas Regulares e Especiais Geração I e pacotes Regulares e Especiais NEO, com o preço de cada uma",
-        "imageCaption": "As quatro linhas da assinatura: caixas Geração I e pacotes NEO, com o preço por caixa já com 25% de desconto.",
+        "imageCaption": "As quatro linhas da assinatura: caixas Geração I e pacotes NEO, com o preço por caixa já com 25% de desconto. Os preços mudam: confira o valor atual no site oficial.",
         "imageFit": "contain",
         "links": [
           {
@@ -39083,8 +39086,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECI na assinatura",
         "paragraphs": [
-          "O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os cupons direcionados a assinantes. O **CECI** não é um cupom do site: é o cupom de parceria do Em Casa com Cecília.",
-          "No nosso teste no carrinho, o checkout aplicou os 25% da assinatura e mais o desconto do **CECI** num pedido de 4 caixas. Hoje o CECI dá 10%. O CECI vale a partir de R$ 100 em produtos, e o pedido mínimo da assinatura, de 3 caixas, pode ficar abaixo disso. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
+          "O item 9.2 do regulamento diz que os cupons de desconto do site não valem na assinatura, só os cupons direcionados a assinantes. O regulamento não diz se o **CECI**, o cupom de parceria do Em Casa com Cecília, entra nessa exceção; o que temos é o resultado do nosso teste.",
+          "No teste de 04/10/2026, num pedido de assinatura de 4 caixas de R$ 29,90 (R$ 119,60), o checkout aplicou os 25% da assinatura e mais 5% do **CECI**, que era o desconto dele na época: o total ficou em R$ 85,22. O teste foi no primeiro pedido; não conferimos se o desconto se repete nas entregas seguintes.",
+          "Hoje o CECI dá 10% a partir de R$ 100 em produtos, e o pedido mínimo da assinatura, de 3 caixas, pode ficar abaixo disso. Antes de concluir, procure a linha do cupom no resumo do pedido. Se ela não aparecer, a assinatura segue com os 25% normalmente."
         ],
         "links": [
           {
@@ -39139,10 +39143,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre a Assinatura Dolce Gusto",
         "bullets": [
           "Como funciona a assinatura Dolce Gusto? Você escolhe pelo menos 3 caixas e a frequência (todo mês, a cada 2 ou a cada 3 meses), e recebe os pedidos com 25% de desconto e frete grátis, pagando no cartão de crédito.",
-          "A assinatura Dolce Gusto tem mensalidade? Não. Não há mensalidade, taxa de adesão ou taxa de cancelamento: você paga só as caixas do pedido.",
+          "A assinatura Dolce Gusto tem mensalidade? Não. No plano regular não há mensalidade, taxa de adesão ou taxa de cancelamento: você paga só as caixas do pedido.",
           "Qual é o pedido mínimo da assinatura Dolce Gusto? São 3 caixas de bebidas por entrega.",
           "Posso misturar cápsulas Geração 1 e NEO na mesma assinatura? Sim. O FAQ oficial diz que as duas linhas podem estar na mesma assinatura.",
-          "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste, sim: o CECI somou com os 25% da assinatura, num pedido de 4 caixas. Hoje ele dá 10% e vale a partir de R$ 100 em produtos.",
+          "O cupom CECI funciona na assinatura Dolce Gusto? No nosso teste, sim: num pedido de 4 caixas, o CECI, que dava 5% na época, somou com os 25% da assinatura. Hoje ele dá 10% a partir de R$ 100 em produtos; confira a linha do cupom no resumo antes de pagar.",
           "Como cancelar a assinatura Dolce Gusto? Pela área Minha Assinatura no site oficial ou pelo e-mail atendimento.dolcegusto@nestle.com.br, até 1 dia antes do próximo pedido.",
           "Se eu cancelar e assinar de novo, ganho os 1.000 pontos outra vez? Não. A nova assinatura tem 25% e frete grátis, mas os 1.000 pontos são uma vez por CPF.",
           "O que acontece se o cartão for recusado? A loja tenta cobrar 3 vezes em 3 dias seguidos, e três erros consecutivos na recorrência cancelam a assinatura.",
@@ -39159,7 +39163,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Feito com o regulamento oficial e um teste de checkout. Podemos receber comissão.",
+    "editorialNote": "Feito com o regulamento oficial e um teste de checkout. O CECI pode gerar comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "assinatura-dolce-gusto-vale-a-pena"
@@ -39190,7 +39194,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Guia do Adaptador NEO Start: compatibilidade com máquinas ORIGINAL, uso seguro e o que conferir antes de comprar.",
+    "description": "Guia do Adaptador NEO Start: as máquinas ORIGINAL e os cafés NEO selecionados que ele aceita, os cuidados de segurança do manual e o que conferir antes de comprar.",
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Adaptador NEO Start: o que é, quais máquinas e cápsulas aceita e como funciona.",
     "publishedAt": "4 de agosto de 2026",
     "draft": false,
@@ -39200,7 +39204,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Adaptador NEO Start deixa uma Dolce Gusto ORIGINAL compatível preparar cápsulas NEO de café preto, só com água quente. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais. Vale para quem já tem um dos oito modelos aceitos; o que decide é o modelo e o consumo."
+          "O Adaptador NEO Start deixa uma Dolce Gusto ORIGINAL compatível preparar cafés pretos NEO selecionados, só com água quente. Vale para quem já tem um dos oito modelos aceitos; confira se a cápsula está na lista antes de comprar. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -39243,7 +39247,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como funciona o Adaptador NEO Start",
         "paragraphs": [
-          "O adaptador entra no lugar do porta-cápsulas da ORIGINAL e libera as NEO de café preto, só com água quente. O manual oficial do produto estabelece quatro recomendações de uso e segurança essenciais para a operação.",
+          "O adaptador entra no lugar do porta-cápsulas da ORIGINAL e prepara os cafés pretos NEO selecionados, só com água quente. Os passos de uso estão abaixo; os cuidados de segurança do manual vêm na seção seguinte.",
           "Como preparar a bebida por tipo de máquina: nas máquinas Flow Stop, selecione o volume em tracinhos normalmente. Nas máquinas manuais, mova a alavanca para a posição de água quente e retorne-a manualmente para a posição central neutra quando atingir o volume desejado na xícara.",
           "Encaixe magnético e cuidados ao fechar: O adaptador é magneticamente atraído para a posição final na cabeça da máquina. Certifique-se de que a tampa do próprio adaptador esteja firmemente pressionada e travada antes de inserir. Se sentir resistência ao fechar a alavanca da máquina, não force: auxilie o fechamento aplicando leve pressão com a palma da mão.",
           "Atenção ao resfriamento: Após a extração, aguarde alguns segundos e retire o adaptador segurando estritamente pela pega/haste de manuseio dedicada, pois o acessório fica muito quente durante a passagem de água."
@@ -39254,7 +39258,7 @@ export const reviewsData: unknown[] = [
           "Máquinas manuais: Mover a alavanca para água quente e retornar ao centro ao atingir o volume desejado.",
           "Encaixe magnético: O acessório é atraído para a posição final; trave a tampa do adaptador antes de inserir e auxilie o fechamento com a palma da mão se necessário.",
           "Retirar o adaptador segurando sempre pela pega dedicada, pois o corpo do acessório atinge altas temperaturas.",
-          "Lavar o suporte com água corrente após o resfriamento."
+          "Depois de esfriar, tire a cápsula usada pelo anel ejetor e lave o adaptador: o manual diz que ele pode ir à lava-louças. Não deixe cápsula usada dentro dele."
         ],
         "links": [
           {
@@ -39272,6 +39276,25 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/dolcegusto/adaptador-neo-start-encaixe.webp",
             "alt": "Adaptador NEO Start aberto com uma cápsula NEO posicionada para o encaixe",
             "objectFit": "contain"
+          }
+        ]
+      },
+      {
+        "heading": "Cuidados de segurança do manual",
+        "paragraphs": [
+          "O manual do adaptador traz estes cuidados, que se somam às instruções de segurança da própria máquina:"
+        ],
+        "bullets": [
+          "O adaptador tem ímãs permanentes: não o deixe perto de marcapasso ou desfibrilador.",
+          "Mantenha os ímãs longe do que eles podem danificar, como cartões de crédito, aparelhos auditivos, relógios mecânicos, alto-falantes e TVs e monitores de tubo.",
+          "Não ponha os dedos dentro do adaptador: ele tem agulhas afiadas que perfuram a cápsula e podem machucar.",
+          "Não é brinquedo: guarde fora do alcance de crianças. Quem nunca usou deve ler o manual antes ou usar com a supervisão de alguém que conheça o produto.",
+          "Não force o encaixe numa máquina que não está na lista de compatíveis."
+        ],
+        "links": [
+          {
+            "label": "Manual oficial do Adaptador NEO Start (PDF)",
+            "href": "https://www.dolce-gusto.pt/media/wysiwyg/NDG_NEO-START_UM_leaflet_325x200_EN_FR_DE_NL_IT_ES_PTG_PTB_2024-10-23.pdf"
           }
         ]
       },
@@ -39294,8 +39317,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cápsulas NEO compatíveis com o adaptador",
         "paragraphs": [
-          "Só café preto passa pelo adaptador: Espresso e Lungo da linha NEO, nada de leite, chá ou receita mista.",
-          "Estes são os cafés pretos citados no FAQ oficial da NESCAFÉ Dolce Gusto:"
+          "Só cafés pretos NEO selecionados passam pelo adaptador, nada de leite, chá ou receita mista. Nem todo Espresso ou Lungo da linha NEO entra na lista.",
+          "Estes cafés aparecem como compatíveis no FAQ oficial ou nas páginas da loja. A lista muda, então confira a ficha da cápsula antes de comprar:"
         ],
         "bullets": [
           "NEO Espresso Sul de Minas Orgânico",
@@ -39304,7 +39327,6 @@ export const reviewsData: unknown[] = [
           "NEO Lungo Cerrado Orgânico",
           "NEO Espresso Serras do Alto Paranaíba",
           "NEO Lungo Chapada Diamantina",
-          "A seleção de cápsulas pode mudar; confirme a compatibilidade na loja oficial antes da compra.",
           "Bebidas com leite e outras linhas mistas NEO não são compatíveis com o adaptador."
         ],
         "links": [
@@ -39356,13 +39378,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quais são os cafés compatíveis com o Adaptador NEO Start? O Adaptador NEO Start® é compatível com uma seleção de cafés pretos de NEO, que a loja lista em cinco: NEO Espresso Sul de Minas Orgânico, NEO Espresso Delicate, NEO Lungo Cerrado Orgânico, NEO Espresso Serras do Alto Paranaíba e NEO Lungo Chapada Diamantina.",
+          "Quais são os cafés compatíveis com o Adaptador NEO Start? Uma seleção de cafés pretos NEO, não a linha toda. O FAQ oficial cita como exemplos NEO Espresso Sul de Minas Orgânico, NEO Starbucks® Espresso Roast, NEO Espresso Delicate e NEO Lungo Cerrado Orgânico; confira a compatibilidade na ficha da cápsula antes de comprar.",
           "Posso escolher o tamanho da minha xícara de café com o Adaptador NEO Start? Sim. Em uma máquina manual, mova a alavanca para a posição quente e retorne-a à posição do meio quando o volume desejado for alcançado. Em máquinas Flow Stop, selecione o volume em tracinhos normalmente.",
           "O Adaptador NEO Start é compatível com todos os modelos de máquinas NESCAFÉ Dolce Gusto? Não. Ele é compatível especificamente com os modelos: MINI ME®, INFINISSIMA®, INFINISSIMA® Touch, GENIO® S, GENIO® S Plus, GENIO® S Touch, PICCOLO® e PICCOLO® XS. Não é compatível com outros modelos.",
           "Não consigo fechar a tampa da máquina após inserir o Adaptador NEO Start, o que devo fazer? O Adaptador NEO Start é magneticamente atraído para a posição final. Se tiver dificuldade para fechar a alavanca da máquina, verifique se: 1) Sua máquina é compatível; 2) A tampa do próprio adaptador está firmemente pressionada e travada; 3) O adaptador está bem inserido na cabeça da máquina e empurrado até a posição final. Auxilie o fechamento aplicando leve pressão com a palma da mão.",
           "O adaptador altera a extração do café em relação à máquina NEO nativa? O adaptador viabiliza o encaixe físico e a passagem de água quente em cápsulas selecionadas de café preto nas máquinas da linha ORIGINAL. Ele não adiciona os recursos próprios de uma máquina NEO dedicada.",
           "O adaptador esquenta durante o uso? Sim. O corpo do acessório fica muito quente durante a passagem de água. Após o preparo, aguarde alguns segundos e remova o adaptador segurando exclusivamente pela pega/haste de manuseio.",
-          "Como usar o cupom CECI na compra do adaptador? O cupom CECI pode ser digitado no carrinho de compras na loja oficial da NESCAFÉ Dolce Gusto para obter desconto direto em produtos elegíveis, sujeito às condições vigentes no checkout."
+          "O Adaptador NEO Start tem cuidados de segurança? Sim. Ele tem ímãs permanentes, que não devem ficar perto de marcapasso ou desfibrilador, e agulhas afiadas por dentro: não ponha os dedos nele e guarde fora do alcance de crianças.",
+          "Como usar o cupom CECI na compra do adaptador? Digite CECI no campo de cupom da loja oficial da NESCAFÉ Dolce Gusto: ele dá 10% OFF em compras a partir de R$ 100. Confira a linha do desconto no resumo antes de pagar."
         ]
       }
     ],
@@ -39373,7 +39396,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Guia com base no site e no manual oficiais. O cupom CECI é parceria e pode render comissão.",
+    "editorialNote": "Guia com base no site e no manual oficiais. O cupom CECI é parceria e pode gerar comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-genio-s-touch-vale-a-pena"
@@ -39389,7 +39412,8 @@ export const reviewsData: unknown[] = [
     "imageAlt": "Adaptador NESCAFÉ Dolce Gusto NEO Start oficial para máquinas da linha ORIGINAL",
     "publishedAtISO": "2026-08-04",
     "isNew": false,
-    "imageFit": "contain"
+    "imageFit": "contain",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 247,
@@ -41114,7 +41138,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso. Não substitui avaliação de saúde; veja o capítulo Vale a pena? Para quem serve."
+          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso. É uma medida de conforto e não substitui avaliação de saúde."
         ]
       },
       {
@@ -41145,11 +41169,12 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A máscara pode ser usada em duas temperaturas, sempre respeitando as instruções da marca e testando a temperatura antes de encostar na pele.",
           "Para uso frio, a marca orienta deixar a máscara no congelador por 1 a 1h30 ou, no máximo, 2 horas na geladeira. Para uso quente, orienta aquecer no micro-ondas por 15 a 30 segundos, sem exceder a temperatura recomendada.",
-          "Não use se a temperatura estiver desconfortável. Em caso de dor de cabeça súbita, intensa, diferente do habitual ou acompanhada de outros sintomas, procure atendimento de saúde."
+          "Não use se a temperatura estiver desconfortável. Dor de cabeça frequente, diferente do habitual ou que vem piorando pede consulta. Procure atendimento de urgência (o SAMU atende pelo 192) se a dor vier de repente e muito forte, ou junto com fraqueza ou dormência num lado do corpo, fala enrolada, confusão, alteração na visão, febre com rigidez na nuca ou depois de uma pancada na cabeça."
         ],
         "bullets": [
           "Uso frio: siga o tempo de resfriamento indicado pela marca.",
           "Uso quente: aqueça por 15 a 30 segundos e teste antes de usar.",
+          "Evite aplicar direto em pele machucada, como pede a marca.",
           "A marca diz que o gel segue maleável depois de resfriado.",
           "Limpe apenas a parte externa com pano úmido; não mergulhe o produto em água."
         ],
@@ -41163,6 +41188,12 @@ export const reviewsData: unknown[] = [
             "src": "/images/reviews/iwannasleep/aliv-head-gel-iws-uso-quente.webp",
             "alt": "Pessoa usando a máscara Aliv Head Gel IWS em uma aplicação térmica quente",
             "objectFit": "square"
+          }
+        ],
+        "links": [
+          {
+            "label": "Quando a dor de cabeça pede atendimento (NHS, em inglês)",
+            "href": "https://www.nhs.uk/conditions/migraine/"
           }
         ]
       },
@@ -41210,6 +41241,8 @@ export const reviewsData: unknown[] = [
           "O gel da máscara fica duro no freezer? A marca informa que o gel permanece flexível quando resfriado. Confira o estado do produto e use apenas se estiver confortável ao toque.",
           "Como aquecer a Aliv Head Gel no micro-ondas? A marca orienta aquecer por 15 a 30 segundos e testar a temperatura antes de encostar na pele. Não superaqueça.",
           "Como lavar a máscara Aliv Head Gel? Limpe a superfície externa com pano levemente umedecido. Não mergulhe o produto em água.",
+          "Posso usar a Aliv Head Gel em pele machucada? A marca orienta evitar a aplicação direta em áreas machucadas da pele e testar a temperatura antes de cada uso.",
+          "Quando a dor de cabeça pede atendimento de urgência? Quando vem de repente e muito forte, ou junto com fraqueza ou dormência num lado do corpo, fala enrolada, confusão, alteração na visão, febre com rigidez na nuca ou depois de uma pancada na cabeça. Nesses casos, procure um pronto-socorro ou ligue para o SAMU, no 192.",
           "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout. As regras estão na página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       }
@@ -41221,7 +41254,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Guia com dados públicos da marca, sem teste próprio. Cupom em parceria; pode render comissão.",
+    "editorialNote": "Guia com dados públicos da marca, sem teste próprio. Cupom em parceria; pode gerar comissão, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
@@ -41230,7 +41263,8 @@ export const reviewsData: unknown[] = [
         "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
       }
     ],
-    "brand": "I Wanna Sleep"
+    "brand": "I Wanna Sleep",
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 259,
