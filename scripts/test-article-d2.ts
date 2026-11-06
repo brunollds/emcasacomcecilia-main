@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import { createElement } from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import { pickRelatedReviews } from '@/lib/relatedReviews';
+import { relatedOrderProblem } from './related-order';
 import { getArticleStoreBlock, pickArticleLimitedCodes, shortenRule } from '@/lib/articleStore';
 import { getActiveCoupons, getCouponBySlug, type Coupon } from '@/lib/couponsData';
 import type { CouponCopyLocale } from '@/components/review/couponCopyLocale';
@@ -36,8 +37,16 @@ const corpus = [cur, mk(2, { affiliate: 'insider' , category: 'produto' }), mk(3
   mk(4, { category: 'produto', type: 'Review' }), mk(5, { locale: 'en', affiliate: 'damie' }), mk(6, { type: 'Review' }), mk(7, {})];
 assert.deepEqual(pickRelatedReviews(cur, corpus).map((r) => r.id), [3, 4, 2, 6, 7]);
 assert.ok(pickRelatedReviews(cur, corpus).every((r) => r.id !== 1 && r.locale !== 'en'));
+// Com relatedArticles: a mesma loja primeiro; depois a lista, na ordem do JSON (slug de outro idioma, inexistente ou o
+// próprio artigo não entram); depois a regra de sempre.
+const listedCur = { ...cur, relatedArticles: [{ slug: 'a7' }, { slug: 'a5' }, { slug: 'nada' }, { slug: 'a1' }, { slug: 'a6' }] };
+assert.deepEqual(pickRelatedReviews(listedCur, corpus).map((r) => r.id), [3, 7, 6, 4, 2]);
+// Sem loja, a lista dá a ordem desde o primeiro cartão.
+const noStore = mk(8, { category: 'guia' });
+const noStoreListed = { ...noStore, relatedArticles: [{ slug: 'a6' }, { slug: 'a2' }] };
+assert.deepEqual(pickRelatedReviews(noStoreListed, [...corpus, noStore]).map((r) => r.id).slice(0, 3), [6, 2, 3]);
 
-// Todo artigo publicado: até 6, mesmo idioma, os da mesma loja primeiro.
+// Todo artigo publicado: até 6, mesmo idioma, os da mesma loja primeiro, depois os do relatedArticles.
 for (const review of publishedReviews) {
   const related = pickRelatedReviews(review, publishedReviews);
   assert.ok(related.length <= 6 && !related.some((r) => r.id === review.id));
@@ -45,8 +54,16 @@ for (const review of publishedReviews) {
     related.every((r) => resolveReviewLocale(r.locale) === resolveReviewLocale(review.locale)),
     `${review.slug}: relacionado de outro idioma`
   );
-  const sameStore = related.map((r) => Boolean(review.affiliate) && r.affiliate === review.affiliate);
-  assert.deepEqual(sameStore, [...sameStore].sort((a, b) => Number(b) - Number(a)), `${review.slug}: mesma loja não veio primeiro`);
+  const problem = relatedOrderProblem(review, related);
+  assert.equal(problem, null, problem ?? '');
+}
+// Artigo sem loja com a lista editorial: os cartões do fim começam por ela.
+{
+  const airFryer = publishedReviews.find((r) => r.slug === '10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia');
+  if (airFryer?.relatedArticles?.length) {
+    const head = pickRelatedReviews(airFryer, publishedReviews).slice(0, airFryer.relatedArticles.length).map((r) => r.slug);
+    assert.deepEqual(head, airFryer.relatedArticles.map(({ slug }) => slug), 'air fryer: relacionados do fim fora da lista editorial');
+  }
 }
 
 // Bloco da loja: Review Focus 1–3.
