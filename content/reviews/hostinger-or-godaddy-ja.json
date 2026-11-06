@@ -1,0 +1,266 @@
+{
+  "id": 851,
+  "slug": "hostinger-or-godaddy-ja",
+  "locale": "ja",
+  "translationKey": "hostinger-ou-godaddy",
+  "title": "HostingerかGoDaddyか：更新料まで数えて得なのはどちら？",
+  "seoTitle": "HostingerかGoDaddyか：更新料込みで安いのはどちら？",
+  "type": "比較ガイド",
+  "category": "guias-praticos-utilidade",
+  "reviewKind": "guia",
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
+  "authors": [
+    {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    {
+      "name": "Bruno Luiz",
+      "slug": "bruno-luiz",
+      "role": "編集・分析",
+      "initials": "BL"
+    }
+  ],
+  "description": "SONAR20を使うと、HostingerのPremiumは最初の1年でも4年間でも安くなります。米ドルでの計算と、各プランに含まれるものを見てください。",
+  "metaDescription": "SONAR20で新規のHostinger購入が20%割引になります。米ドルでのGoDaddyとの4年間の計算、初年度、更新料、各プランの内容を載せています。",
+  "publishedAt": "2026年11月6日",
+  "publishedAtISO": "2026-11-06",
+  "draft": false,
+  "isNew": false,
+  "hideFromPortugueseListings": true,
+  "image": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+  "imageAlt": "Hostingerのロゴ、カレンダー、更新のアイコン。帯にタイトル Hostinger vs GoDaddy",
+  "imageFit": "contain",
+  "imageAspect": "landscape",
+  "contentSections": [
+    {
+      "heading": "クイックアンサー",
+      "paragraphs": [
+        "新規購入なら、SONAR20を使ったHostingerは、最初の1年でも4年間の合計でもGoDaddyより安くなります。GoDaddyのStarterは年間の更新料が安いのですが、プランのリストにドメインもメールもSSLもありません。それぞれの計算を、米ドルで下に載せています。"
+      ]
+    },
+    {
+      "heading": "入門プランを並べて比較",
+      "paragraphs": [
+        "HostingerのPremiumにはドメインとメールが含まれますが、GoDaddyのStarterにはどちらもありません。25 GBのGoDaddy Economyは両方を含むので、サイトに独自のアドレスが必要なときにPremiumと比べるプランです。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "プラン",
+          "サイト数",
+          "容量",
+          "ドメイン",
+          "メール",
+          "SSL"
+        ],
+        "rows": [
+          [
+            "[Hostinger Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "3",
+            "20 GB SSD",
+            "1年間無料",
+            "1年間無料",
+            "記載なし"
+          ],
+          [
+            "GoDaddy Starter",
+            "1",
+            "10 GB NVMe",
+            "記載なし",
+            "記載なし",
+            "記載なし"
+          ],
+          [
+            "GoDaddy Economy",
+            "1",
+            "25 GB NVMe",
+            "無料",
+            "1年間無料",
+            "1年間"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Hostingerの価格とSONAR20",
+      "paragraphs": [
+        "SONAR20はブラックフライデーの価格と重ねて使えます。カートでは、48か月のPremiumがUS$95.52からUS$76.42になりました。このコードは新規購入の20%割引で、更新には適用されません。",
+        "当サイトの計算では、ページ価格の20%引きを、ほかのプランにも同じように適用しています。カートで確認したのはPremiumだけで、ほかは同じ計算に従っています。"
+      ],
+      "comparisonTable": {
+        "caption": "Hostingerの国際サイトの価格（11月6日、米ドル）。SONAR20の列は当サイトの計算です。",
+        "headers": [
+          "プラン",
+          "割引価格（月額、48か月）",
+          "SONAR20適用（月額）",
+          "SONAR20適用（48か月の総額）",
+          "更新料（月額）"
+        ],
+        "rows": [
+          [
+            "[Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$1.99",
+            "US$1.59",
+            "US$76.42",
+            "US$10.99"
+          ],
+          [
+            "[Unlimited](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$2.79",
+            "US$2.23",
+            "US$107.14",
+            "US$16.99"
+          ],
+          [
+            "[Cloud Startup](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)",
+            "US$7.99",
+            "US$6.39",
+            "US$306.82",
+            "US$25.99"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "更新のときは最後の列が適用され、SONAR20は使われません。コードのルールは[Hostingerのクーポンページ](/ja/coupons/hostinger)にあります。"
+      ]
+    },
+    {
+      "heading": "更新料を含めた4年間",
+      "paragraphs": [
+        "Hostingerが勝ちます。48か月分を一括で払えば、4年間に更新は入りません。GoDaddyは1年更新を3回重ねて初めて4年になり、そのたびに定価がかかります。"
+      ],
+      "comparisonTable": {
+        "headers": [
+          "選択肢",
+          "最初の期間",
+          "年ごとの更新料",
+          "4年の合計"
+        ],
+        "rows": [
+          [
+            "[Hostinger Premium](https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20)、48か月、SONAR20適用",
+            "US$76.42、一括",
+            "4年の間に更新なし",
+            "US$76.42"
+          ],
+          [
+            "GoDaddy Starter",
+            "US$71.88",
+            "US$71.88",
+            "US$287.52"
+          ],
+          [
+            "GoDaddy Economy",
+            "US$83.88",
+            "US$143.88",
+            "US$515.52"
+          ]
+        ]
+      },
+      "postParagraphs": [
+        "GoDaddyの計算には、1年目の後のEconomyの追加特典を入れていないので、その合計は下限です。複数サイト向けのDeluxeとUltimateは、更新料をカートで確認していないため外しています。"
+      ],
+      "image": {
+        "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-ja.webp",
+        "alt": "Hostinger のプランの月額を、最初の期間と更新で比べた棒グラフ。ホスティングは Premium、Unlimited、Cloud Startup、VPS は KVM 1、2、4、8で、どのプランも更新のほうが高い",
+        "caption": "各プランを2本の棒で表示：最初の期間と更新の月額。Hostinger のページの料金をもとにした Em Casa com Cecília の図。",
+        "objectFit": "contain",
+        "aspectRatio": 1
+      }
+    },
+    {
+      "heading": "1年目もHostingerが勝つ",
+      "paragraphs": [
+        "12か月のPremiumは、ページ価格でUS$47.88、SONAR20を使うとUS$38.30です。GoDaddyのStarter（US$71.88）よりUS$33.58安く、Economy（US$83.88）よりUS$45.58安くなります。",
+        "1年目の後は順位が変わります。Premiumは年額US$131.88で更新され、Economyは年額US$143.88、Starterは年額US$71.88です。Starterは更新が安いものの、リストにはドメイン、メール、SSLがありません。"
+      ]
+    },
+    {
+      "heading": "返金：両社とも30日",
+      "paragraphs": [
+        "各社の案内では、Hostingerは購入から30日以内の返金請求を受け付けており、GoDaddyの国際ページにも30日間の返金保証が載っています。この点では、どちらも有利ではありません。"
+      ]
+    },
+    {
+      "heading": "入門プランに含まれるもの",
+      "paragraphs": [
+        "Premiumのリストには毎週のバックアップとCDNも含まれます。SSLはページに記載がありません。GoDaddyのStarterでは、容量と一緒にcPanelが付いてきますが、ほかはリストに載っていません。",
+        "Economyは、カートではメールとSSLが1年間無料です。その後、SSLは年額US$119.99で自動更新され、メールは無料ではなくなります。4年の表にはどちらも含めていません。"
+      ]
+    },
+    {
+      "heading": "結論：どれを選ぶか",
+      "paragraphs": [
+        "4年間サイトを続けるならHostingerです。SONAR20付きのPremiumは4年分でUS$76.42で、Starterの US$287.52、Economyの US$515.52より安く、ドメインとメールもリストにあります。",
+        "4年をはるかに超えて使い、ドメインもメールも必要ないならGoDaddy Starterです。更新はUS$71.88/年で、Premiumの更新より US$60 安いですが、最初の期間はより高くなります。",
+        "ドメイン、メール、SSLがリストにあり、年額US$143.88の更新を受け入れられるならGoDaddy Economyです。Premiumの更新料より高くなります。",
+        "どの場合も、支払う前にカートで更新料を確認してください。キャンペーンは変わることがあります。"
+      ]
+    },
+    {
+      "heading": "よくある質問",
+      "bullets": [
+        "HostingerとGoDaddy、どちらがいいですか？ サイトをどのくらい続けるかによります。最初の1年も4年間の合計も、SONAR20付きのHostinger Premiumは両方のGoDaddyプランより安くなります。その後は、GoDaddy Starterの更新が安くなります。その他の判断基準は[レンタルサーバーの選び方](/ja/reviews/choose-web-host-hostinger-ja)にあります。",
+        "GoDaddyは更新も同じ価格ですか？ Economyは違います。カートでは1年プランが、1年目の後に定価に戻り、US$83.88からUS$143.88になります。Starterには初年度割引がなく、同じUS$71.88で更新されます。",
+        "Hostingerのクーポンは更新にも使えますか？ いいえ。SONAR20は新規購入にだけ使えます。更新については[Hostingerの更新ガイド](/ja/reviews/hostinger-renewal-sonar20-ja)をご覧ください。",
+        "GoDaddyのサイトをHostingerに移せますか？ Hostingerのヘルプページによると、無料の移行は、Web、Cloud、Agencyのプランで他社のサイトを移す場合に対応します。古いプランを解約する前に、サポートでご自分のプランを確認してください。"
+      ]
+    },
+    {
+      "heading": "執筆者",
+      "paragraphs": [
+        "Em Casa com Cecíliaは、Hostingerで運営していて、ドメインも2024年からHostingerに登録されています。GoDaddyについては、この文章は国際ページとカートに米ドルで表示された内容を使っています。"
+      ]
+    }
+  ],
+  "pros": [],
+  "cons": [],
+  "cta": {
+    "text": "カートのクーポン欄に SONAR20 を入れるか、このリンクから入ってください。新規購入が20%割引になります。このコードは更新には適用されません。",
+    "label": "SONAR20で料金プランを見る",
+    "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
+    "sponsored": true
+  },
+  "coupon": "SONAR20",
+  "affiliate": "hostinger",
+  "editorialNote": "SONAR20のコードかリンクからの購入で、Brunoに紹介手数料が入る場合があります。チームの誰もGoDaddyを使ったことがありません。",
+  "relatedArticles": [
+    {
+      "slug": "hostinger-renewal-sonar20-ja"
+    },
+    {
+      "slug": "choose-web-host-hostinger-ja"
+    },
+    {
+      "slug": "hostinger-referral-code-ja"
+    },
+    {
+      "slug": "hostinger-trust-guide-ja"
+    },
+    {
+      "slug": "hostinger-domain-ja"
+    },
+    {
+      "slug": "vps-or-shared-hosting-ja"
+    }
+  ],
+  "decision": {
+    "takeIf": [
+      "4年間サイトを続けるなら、Hostingerを選んでください。SONAR20付きのPremiumは、1回の購入で4年分をカバーします。",
+      "ドメインとメールがプランのリストに入っていて、毎週のバックアップも付いたものがほしいなら、Hostingerを選んでください。"
+    ],
+    "skipIf": [
+      "4年をはるかに超えて使うつもりで、ドメインもメールも要らないなら、GoDaddy Starterを選んでください。更新料が安くなります。",
+      "ドメイン、メール、SSLがリストにあり、年額約US$144の更新を受け入れられるなら、GoDaddy Economyを選んでください。"
+    ]
+  }
+}

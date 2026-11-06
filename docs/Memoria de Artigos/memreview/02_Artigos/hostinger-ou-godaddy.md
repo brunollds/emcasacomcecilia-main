@@ -17,7 +17,7 @@ score_conversao: 70
 score_ponderado_total: 76
 data_criacao: "2026-11-06"
 i18n_cluster: null
-translationKey: null
+translationKey: "hostinger-ou-godaddy"
 modo_i18n: "somente-pt"
 idioma_fonte: "pt"
 idiomas_alvo: []
@@ -98,3 +98,37 @@ E o que vem no plano básico de cada um (o Inicial da GoDaddy não lista domíni
 ## 7. Pontuação
 
 Dor 20/25, demanda 14/20, valor além do oficial 17/20, visita 11/15, cluster 8/10, conversão 6/10. Total 76.
+
+## 8. Família de 10 idiomas (06/11/2026)
+
+Regra do Bruno (06/11): artigo da Hostinger, da SHEIN ou da YesStyle nunca sai só em PT. A `translationKey` é `hostinger-ou-godaddy`.
+
+| Idioma | Slug |
+|---|---|
+| en | `hostinger-or-godaddy` |
+| es | `hostinger-o-godaddy` |
+| fr | `hostinger-ou-godaddy-comparatif` |
+| it | `hostinger-o-godaddy-confronto` |
+| de | `hostinger-oder-godaddy` |
+| ja | `hostinger-or-godaddy-ja` |
+| ko | `hostinger-or-godaddy-ko` |
+| zh-hans | `hostinger-or-godaddy-zh-hans` |
+| zh-hant | `hostinger-or-godaddy-zh-hant` |
+
+**Preços fora do PT:** são os do mercado internacional em dólar, lidos no Chrome em 06/11 sem comprar: hostinger.com/web-hosting, godaddy.com/en/hosting/web-hosting e os dois carrinhos. Não há conversão de real.
+- O site internacional da Hostinger não tem o Single, então a comparação usa o Premium.
+- **Premium:** 48 meses saem a US$ 95,52, e com o SONAR20, a US$ 76,42. Os 12 meses saem a US$ 47,88, e com o código, a US$ 38,30. A renovação é de US$ 10,99/mês.
+- **GoDaddy:** o Economy custa US$ 83,88 e renova a US$ 143,88 por ano. O Starter custa US$ 71,88 e renova pelo mesmo valor.
+- **Em dólar, a Hostinger ganha também no 1º ano.** A matriz em inglês segue isso, e não a lógica do PT, em que a GoDaddy Inicial ganhava no 1º ano.
+- **Reembolso:** a página /en da GoDaddy lista 30 dias.
+
+**Capa:** a capa A da família sem texto em português, `hostinger-vs-godaddy-capa.webp` (faixa "Hostinger vs GoDaddy"). Ela vale para as 10 versões e substitui a `hostinger-ou-godaddy-capa.webp`, que tinha texto em PT.
+
+**Tradução e releitura (06/11):** a matriz em inglês foi escrita na sessão de redação. As 8 outras versões foram traduzidas dela por 4 agentes, e cada par foi relido por outro agente:
+- **es:** sem mudança.
+- **it:** "prezzo di listino" virou "prezzo della pagina" no cálculo dos 20%, e o "store" que tinha ficado saiu.
+- **fr:** 4 ajustes de texto. "Tableau" virou "Graphique" na legenda do gráfico, e o link da página de cupons passou a "codes promo".
+- **de:** no FAQ, "fällt" virou "steigt" (o preço sobe na renovação, não cai). Também "Hostingers Premium" e mais 2 ajustes de texto.
+- **ja:** o cabeçalho da coluna virou 割引価格, o FAQ 1 passou a falar de quanto tempo se mantém o site, e entrou o espaço depois do ？.
+- **ko:** o cabeçalho da coluna virou 프로모션가.
+- **zh-hant e zh-hans:** 算法 virou 計算/计算, e entraram "首期" e "兩家的退款說明". A frase da renovação foi reescrita: o `test:review-i18n` lia "不適用於續訂" como "vale na renovação".
