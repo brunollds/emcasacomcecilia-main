@@ -16,10 +16,6 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
-| F7 | Sutiã adesivo Toda Up ou Hope: qual escolher? | Toda Up | PT | [[toda-up-ou-hope-sutia-adesivo]] | Redigida e no Job 3 (Fable 5.1, 10 ajustes aplicados) em 06/11, capa B aprovada pelo Bruno; os 12 usos do sutiã e os 30 usos do protetor (20 no FAQ) vêm das páginas da loja, que corrigem o briefing. PR #662. Falta o deploy |
-| F8 | Sutiã adesivo Toda Up ou Lupo: qual escolher? | Toda Up | PT | [[toda-up-ou-lupo-sutia-adesivo]] | Redigida e no Job 3 (Fable 5.1, 9 ajustes aplicados) em 06/11, capa A aprovada pelo Bruno; os 12 usos do sutiã e os 30 usos do protetor (20 no FAQ) vêm das páginas da loja, que corrigem o briefing. PR #662. Falta o deploy |
-| F9 | Toda Up ou Zee Rucci: fita, sutiã adesivo e protetor de mamilo | Toda Up | PT | [[toda-up-ou-zee-rucci]] | Redigida e no Job 3 (Fable 5.1, 10 ajustes aplicados) em 06/11, capa B aprovada pelo Bruno; os 12 usos do sutiã e os 30 usos do protetor (20 no FAQ) vêm das páginas da loja, que corrigem o briefing. PR #662. Falta o deploy |
-| F10 | Fita Up ou Trifil Up: fita e protetor de mamilo, qual escolher? | Toda Up | PT | [[fita-up-ou-trifil-up]] | Redigida e no Job 3 (Fable 5.1, 10 ajustes aplicados) em 06/11, capa B aprovada pelo Bruno; os 12 usos do sutiã e os 30 usos do protetor (20 no FAQ) vêm das páginas da loja, que corrigem o briefing. PR #662. Falta o deploy |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
