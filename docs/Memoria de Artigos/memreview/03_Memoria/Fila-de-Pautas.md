@@ -113,7 +113,6 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
-| `fita-up-como-usar` | Quando a F3 for ao ar: "Como tirar e os cuidados que a marca publica" e "Dá para reutilizar?" encurtam e linkam para ela. O resto da R8 (H2 de plus size, FAQ, reutilizar corrigido) saiu no PR de 06/11 | Rodada Fita Up, 06/11 |
 | `camiseta-feminina-insider-qual-escolher` e `camiseta-insider-qual-escolher` | Cupom na Daily: o feminino diz "confira no carrinho", o masculino diz que a Daily não aceita cupom. Só mudar com o teste no carrinho (conflito 5 da R7). O resto da linha da R7 (lavagem com link, notas, Core e 2 cm, dossiê) saiu no PR de 06/11 | Rodada R7, 05/11 |
 | `clea-store-e-confiavel` | FAQ "Onde fica a Cléa Store? Tem loja física em Jaraguá do Sul?", pelo que a loja publica | Rodada de 05/11 |
 | /cupons da Max, Probiótica e Insider (sessão de cupons) | FAQ "influencer" e "mercado livre"; confirmar o title sem "(nov/2026)". Parte 3 de [[cupom-loja-primeira-pagina-0511]]. As partes 1 e 2 saíram no #600 e a FAQ "primeira compra" (também da Mais Mu e da Bagaggio, comparada com as boas-vindas) no #601, os dois na main | Cupom <loja> na 1ª página, 05/11 |
