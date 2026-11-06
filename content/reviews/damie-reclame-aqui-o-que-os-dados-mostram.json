@@ -4,22 +4,22 @@
   "title": "Damie no Reclame Aqui: o que os dados mostram antes de você comprar",
   "type": "Análise de Reputação",
   "category": "confianca-reputacao",
-  "description": "Levantamento completo do Reclame Aqui da Damie Móveis: nota atual, taxa de resposta, tipos de reclamação mais comuns e o que considerar antes de comprar.",
+  "description": "O Reclame Aqui da Damie Móveis: nota 7,9 e reputação Boa nos últimos 6 meses, o que mais aparece nas reclamações e o que conferir antes de comprar.",
   "publishedAt": "20 Jun 2026",
   "publishedAtISO": "2026-06-20",
   "image": "/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
-  "imageAlt": "Cecília na poltrona Levita, no sofá na caixa e ao lado da poltrona Moon da Damie, com o quadro de reputação Ótimo e nota 8.0/10 da Damie no Reclame Aqui",
+  "imageAlt": "Cecília na poltrona Levita, no sofá na caixa e ao lado da poltrona Moon da Damie, com o quadro de reputação Ótimo e nota 8.0/10 da Damie no Reclame Aqui, de junho",
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
     "Dados públicos do Reclame Aqui",
     "Resposta de 100% das reclamações",
-    "Índice de solução de 81,7%",
-    "Tempo médio de resposta de 14h"
+    "Índice de solução de 83,1%",
+    "Tempo médio de resposta de 15 horas"
   ],
   "cons": [
-    "Entrega depende de transportadora terceirizada",
-    "Variações pontuais em revestimentos de couro",
+    "Atraso na entrega é o problema mais citado",
+    "Reputação passou de Ótima para Boa no último mês do painel",
     "Nota pode variar por janela móvel de 6 meses"
   ],
   "affiliate": "damie",
@@ -27,13 +27,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Damie tem boa reputação no Reclame Aqui, classificada como Ótimo, e responde todas as reclamações. Olhar essa página antes de comprar ajuda quando entrega e acesso preocupam. O que pode mudar a sua decisão é o índice de solução, com os dados atuais abaixo; para comprar com desconto, use o [cupom Damie](/cupons/damie)."
+        "Na consulta de 06/11/2026, a Damie tinha reputação Boa no Reclame Aqui, com nota 7,9, 100% das reclamações respondidas e 83,1% resolvidas nos últimos 6 meses. O problema mais citado é o atraso na entrega. Para comprar com desconto, o [cupom CECILIA12](/cupons/damie) dá 12% OFF no site da Damie."
       ]
     },
     {
       "heading": "Por que pesquisar o Reclame Aqui antes de comprar móvel pela internet",
       "paragraphs": [
-        "Comprar móvel online é diferente de comprar um eletrodoméstico ou uma roupa. O produto é grande, caro, difícil de devolver — não é o caso da Damie, conto mais abaixo — e a entrega quase sempre depende de uma transportadora terceirizada. Quando algo dá errado — atraso, avaria, dificuldade de acesso no prédio — a frustração é proporcional ao valor investido.",
+        "Comprar móvel online é diferente de comprar um eletrodoméstico ou uma roupa. O produto é grande, caro, difícil de devolver (a Damie tem um teste de 30 dias, com condições, que explico abaixo) e a entrega quase sempre depende de uma transportadora terceirizada. Quando algo dá errado — atraso, avaria, dificuldade de acesso no prédio — a frustração é proporcional ao valor investido.",
         "Por isso, antes de fechar qualquer compra de sofá ou poltrona pela internet, eu paro no Reclame Aqui. Não para achar empresa perfeita — isso não existe — mas para entender o padrão dos problemas e, principalmente, como a empresa responde quando eles aparecem. Uma marca com nota alta e resposta rápida não garante que você não vai ter problema, mas indica que, se tiver, há mais chance de ser atendido."
       ]
     },
@@ -41,16 +41,16 @@
       "heading": "Os dados atuais da Damie no Reclame Aqui",
       "widget": "ReputacaoMetricas",
       "paragraphs": [
-        "O painel do Reclame Aqui de junho de 2026 traz estes indicadores da Damie Móveis:"
+        "Na consulta de 06/11/2026, o [painel do Reclame Aqui](https://www.reclameaqui.com.br/empresa/damie-moveis/) mostrava estes indicadores da Damie Móveis, de 01/05/2026 a 31/10/2026:"
       ],
       "bullets": [
-        "Nota: 8,0/10",
-        "Classificação: Ótimo",
-        "Respostas: 100% das reclamações respondidas",
-        "Índice de solução: 81,7%",
-        "Voltariam a fazer negócio: 70,9%",
-        "Tempo médio de resposta: 14 horas",
-        "Total de casos no período consolidado: 324"
+        "Nota: 7,9/10",
+        "Reputação: Boa. Pelo histórico do painel, ela foi Ótima de maio a setembro e passou a Boa em outubro.",
+        "Reclamações recebidas: 192, com 100% respondidas e nenhuma aguardando resposta",
+        "Índice de solução: 83,1%",
+        "Voltariam a fazer negócio: 70,2%",
+        "Reclamações avaliadas: 124, com nota média do consumidor de 6,79",
+        "Tempo médio de resposta: 15 horas"
       ],
       "links": [
         {
@@ -61,7 +61,7 @@
       "image": {
         "src": "/images/reviews/damie-reclame-aqui-hero.webp",
         "alt": "Painel do Reclame Aqui da Damie Móveis mostrando nota 8.0 e reputação Ótimo.",
-        "caption": "Painel da Damie Móveis no Reclame Aqui.",
+        "caption": "Painel da Damie Móveis no Reclame Aqui em junho, quando a reputação era Ótimo e a nota 8,0. Registro histórico: os números atuais estão no quadro e na lista desta seção.",
         "objectFit": "contain",
         "aspectRatio": 0.8664
       }
@@ -69,46 +69,35 @@
     {
       "heading": "Dados institucionais",
       "paragraphs": [
-        "A Damie opera sob a razão social Dix Indústria de Estofados Ltda, CNPJ 26.315.698/0001-90, sediada em Frederico Westphalen, RS. A marca oferece garantia de 1 ano contra defeitos de fabricação e 30 dias de teste em casa.",
+        "A Damie tem o CNPJ 20.686.873/0001-07, informado no rodapé do site da marca e no Reclame Aqui, e fica em Frederico Westphalen (RS). A marca dá garantia de 1 ano contra defeitos de fabricação e tem um teste de 30 dias em casa, com as condições explicadas nas perguntas frequentes.",
         "A nota é calculada com base em uma janela móvel de 6 meses, então ela pode variar ao longo do tempo. Por isso, confira o Reclame Aqui no dia da compra para confirmar o número."
       ]
     },
     {
       "heading": "O que aparece nas reclamações",
-      "paragraphs": [
-        "Dos 324 casos registrados no período consolidado, dois padrões se repetem com mais frequência:"
-      ],
       "widget": "PadroesReclamacao",
-      "accordionBlock": {
-        "heading": "O que não aparece: devolução e arrependimento",
-        "paragraphs": [
-          "Por se tratar de uma compra que costuma ser difícil de devolver na maioria das lojas online, a Damie mitiga esse receio oferecendo uma política de 30 dias de teste com devolução garantida.",
-          "Devolução por insatisfação quase não aparece; os casos são de logística. Isso indica que a promessa de qualidade e o teste em casa realmente funcionam na prática."
-        ]
-      }
+      "paragraphs": [
+        "Os principais problemas do painel somam até 3 anos de reclamações, e não só os últimos 6 meses. Nessa conta, o problema mais citado é o atraso na entrega, com 50,57% das reclamações. A categoria mais citada é Móveis em Geral (50,14%), e o produto, Sofás e Estofados (26,28%).",
+        "O painel não mostra a parte das reclamações que pede devolução, então não dá para tirar dele quantos compradores ficaram satisfeitos."
+      ]
     },
     {
-      "heading": "Como isso se compara ao mercado",
-      "image": {
-        "src": "/images/reviews/damie-reclame-aqui-reputacao.webp",
-        "alt": "Selo de Reputação Ótima da Damie no Reclame Aqui",
-        "objectFit": "contain"
-      },
+      "heading": "Como ler esses números",
       "paragraphs": [
-        "No setor de móveis online de médio e alto padrão, poucas marcas sustentam nota 8,0 com Ótimo, 100% de resposta e retorno em 14 horas. Não vou nomear concorrentes aqui, mas é possível encontrar marcas do mesmo nicho com notas na faixa de regular ou até insuficiente no Reclame Aqui, com taxas de resposta bem abaixo de 100% e tempo de retorno medido em dias, não horas.",
-        "Isso não significa que toda concorrente seja problemática, nem que a Damie seja isenta de falhas. Significa apenas que, em termos de reputação online medida pelo Reclame Aqui, a Damie está acima da média do setor."
+        "Não comparamos a Damie com o setor inteiro, então não dá para dizer que ela está acima ou abaixo da média. O que o painel mostra é o ranking da categoria Ecommerce - Móveis e Decoração, em que a Damie aparecia em 52º lugar na consulta.",
+        "A comparação com duas marcas que também vendem sofá na caixa, a Inflow e a Sofá na Caixa, está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie), com os dados das três no mesmo período de 6 meses."
       ]
     },
     {
       "heading": "O que fazer antes de comprar",
       "paragraphs": [
-        "Pelos padrões das reclamações, confira isto antes de fechar o pedido:"
+        "Pelo que mais aparece nas reclamações, confira isto antes de fechar o pedido:"
       ],
       "bullets": [
-        "Meça o acesso — elevador, corredor, porta de entrada e escada. É o ponto mais citado em reclamações de entrega.",
-        "Prefira tecido se tiver dúvida — linho, suede ou bouclé têm variação menor reportada do que couro bovino original.",
-        "Registre em foto no recebimento — antes de abrir completamente a embalagem, documente o estado da caixa e do produto.",
-        "Acione o suporte dentro dos 30 dias de teste — se algo não estiver certo, não espere. O prazo de teste em casa existe para isso."
+        "Confira o prazo pelo CEP no carrinho: atraso na entrega é o problema mais citado. Segundo a Damie, a produção leva em média 5 dias úteis, e o prazo de entrega conta a partir da confirmação do pagamento.",
+        "Meça o acesso: elevador, corredor, porta de entrada e escada.",
+        "Registre em foto no recebimento: antes de abrir completamente a embalagem, documente o estado da caixa e do produto.",
+        "Se algo não estiver certo, acione o suporte logo: o teste de 30 dias tem condições, e a caixa original faz parte delas."
       ]
     },
     {
@@ -124,7 +113,7 @@
       },
       "links": [
         {
-          "label": "Damie é confiável? Nossa experiência depois de meses de uso",
+          "label": "Damie é confiável? Nossa experiência depois de mais de um ano de uso",
           "href": "https://damie.emcasacomcecilia.com/damie-e-confiavel"
         }
       ]
@@ -132,26 +121,28 @@
     {
       "heading": "Dá para confiar na Damie?",
       "paragraphs": [
-        "Pelos números do Reclame Aqui, sim: nota 8,0 e classificação Ótimo, 100% das reclamações respondidas, índice de solução de 81,7% e resposta em 14 horas, em 324 casos. O ponto mais fraco é que 70,9% voltariam a fazer negócio, e as reclamações se concentram na entrega e no acesso ao prédio. Antes de fechar o pedido, meça o acesso e registre o recebimento em foto."
+        "Pelos números do Reclame Aqui, a Damie responde todas as reclamações e resolve 83,1% delas, com nota 7,9 e reputação Boa nos últimos 6 meses. A reputação passou de Ótima para Boa no último mês do painel, e 70,2% de quem reclamou voltaria a fazer negócio. O ponto fraco é a entrega. Antes de fechar o pedido, confira o prazo pelo CEP, meça o acesso e registre o recebimento em foto."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual a nota da Damie no Reclame Aqui? A Damie Móveis tem nota 8,0/10 no Reclame Aqui, com classificação Ótimo. A empresa responde 100% das reclamações recebidas e resolve 81,7% delas. A nota é calculada com janela móvel de 6 meses e pode variar.",
-        "O que aparece nas reclamações da Damie? A maioria dos 324 casos registrados envolve logística de transportadoras terceirizadas — atraso ou dificuldade de subir volumes grandes em escadas e elevadores pequenos. Em menor escala, há relatos de variação de odor ou textura em revestimentos de couro bovino original.",
-        "A nota 8,0 da Damie é boa para o setor de móveis online? Sim. No setor de móveis e estofados vendidos pela internet, é comum encontrar marcas com notas na faixa de regular ou insuficiente no Reclame Aqui. A nota 8,0 com classificação Ótimo, resposta de 100% e tempo médio de resposta de 14 horas coloca a Damie acima da média do setor.",
-        "A Damie resolve reclamações? Segundo os dados do Reclame Aqui, a Damie responde 100% das reclamações e resolve 81,7% delas, com 70,9% dos consumidores afirmando que voltariam a fazer negócio com a marca.",
-        "É possível desistir ou cancelar uma compra da Damie? Sim. Além dos 30 dias de teste garantidos por lei e pela própria política da empresa, a taxa de arrependimento, cancelamento ou desistência registrada no Reclame Aqui é praticamente nula. Isso indica que a maioria dos consumidores que compram pelo site ficam satisfeitos e não acionam a devolução.",
-        "A Damie é confiável para comprar sofá pela internet? Sim, com ressalvas de planejamento. A Damie possui nota 8,0/10 no Reclame Aqui, classificação 'Ótimo', responde 100% das reclamações e resolve mais de 80% dos casos. O principal risco não é fraude, mas a logística de entrega: móveis grandes dependem de transportadoras terceirizadas e exigem que o cliente meça corredores e elevadores antes da compra.",
-        "Quanto tempo a Damie demora para entregar? O prazo varia conforme a região e o tipo de produto. Para capitais e regiões metropolitanas, a entrega costuma ocorrer em 7 a 15 dias úteis. Para cidades do interior, pode ultrapassar 20 dias úteis. A Damie trabalha com transportadora especializada e o rastreamento é enviado por e-mail após o despacho.",
-        "O que acontece se o sofá Damie chegar com defeito? A Damie oferece garantia de 1 ano contra defeitos de fabricação. Se o produto chegar avariado, fotografe a embalagem e o produto antes de abrir completamente, acione o suporte em até 7 dias e não descarte as caixas até a resolução. A empresa costuma enviar peça de reposição ou técnico para avaliação.",
-        "A Damie vende no Mercado Livre ou só no site oficial? A Damie opera principalmente pelo site oficial (damie.com.br), onde o cupom CECILIA12 é válido. O catálogo completo, as personalizações de tecido e as condições de garantia estão disponíveis apenas no site oficial. Recomendamos comprar direto pela loja para ter acesso ao suporte completo.",
-        "Como é a experiência de compra da Damie em comparação com outras marcas? A Damie se diferencia pela personalização de tecidos e mecanismos, pelo conceito modular e pela política de 30 dias de teste. Em comparação com marcas genéricas de marketplaces, o investimento é maior, mas o acabamento e a durabilidade tendem a superar produtos de entrada. Em comparação com lojas físicas, oferece mais opções de revestimento e a conveniência de entrega em casa, mas sem a possibilidade de sentir o sofá antes de comprar.",
-        "Cupom Damie 15: existe cupom de 15%? O CECILIA12 garante 12% de desconto sem limitação de data ou evento, enquanto cupons de 15% podem ser sazonais e limitados. Recomendamos sempre testar o CECILIA12 no checkout para comparar qual oferece o maior desconto naquele momento.",
+        "Qual a nota da Damie no Reclame Aqui? Na última consulta, a Damie Móveis tinha nota 7,9/10 e reputação Boa nos últimos 6 meses. A empresa respondeu 100% das reclamações e resolveu 83,1% delas. A nota é calculada numa janela móvel de 6 meses e pode variar; confira o painel no dia da compra.",
+        "O que aparece nas reclamações da Damie? Nos principais problemas do painel, que somam até 3 anos de reclamações, o mais citado é o atraso na entrega, com 50,57% das reclamações. O produto mais citado é Sofás e Estofados.",
+        "A nota da Damie é boa para o setor de móveis online? O Reclame Aqui classifica a nota 7,9 como Boa. Não comparamos a Damie com o setor inteiro; no ranking da categoria Ecommerce - Móveis e Decoração, ela aparecia em 52º lugar. A comparação com a Inflow e a Sofá na Caixa está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie).",
+        "A Damie resolve reclamações? Segundo o painel do Reclame Aqui, a Damie respondeu 100% das reclamações e resolveu 83,1% delas nos últimos 6 meses, e 70,2% de quem reclamou disse que voltaria a fazer negócio com a marca.",
+        "É possível desistir ou cancelar uma compra da Damie? Sim. Na compra pela internet, o [Código de Defesa do Consumidor, no artigo 49](https://consumidor.gov.br/pages/conteudo/publico/102), dá 7 dias de arrependimento, contados da compra ou do recebimento do produto. Os 30 dias são uma política da própria Damie, com condições: segundo a [página do teste](https://www.damie.com.br/pages/teste-por-30-dias), o produto volta completo, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira, e o pedido é feito pelo WhatsApp da Damie, com o nome completo e a nota fiscal.",
+        "A Damie é confiável para comprar sofá pela internet? Pelos dados do Reclame Aqui, a Damie tem nota 7,9 e reputação Boa, responde 100% das reclamações e resolve 83,1% delas. O principal risco é a entrega: atraso é o problema mais citado, e móveis grandes exigem medir corredores e elevadores antes da compra.",
+        "Quanto tempo a Damie demora para entregar? O prazo muda com a região e o produto: confira pelo CEP no carrinho antes de fechar. Segundo a Damie, a produção leva em média 5 dias úteis, e o prazo conta a partir da confirmação do pagamento. O frete de poltronas e sofás é grátis no Sul e no Sudeste, e o Norte e o Nordeste são atendidos pelo Mercado Livre.",
+        "O que acontece se o sofá Damie chegar com defeito? A Damie dá garantia de 1 ano contra defeitos de fabricação. Se o produto chegar avariado, fotografe a embalagem e o produto antes de abrir completamente, acione o suporte da Damie o quanto antes e não descarte as caixas até a resolução.",
+        "A Damie vende no Mercado Livre ou só no site oficial? Nos dois. O site oficial (damie.com.br) tem o catálogo completo e as personalizações, e é onde o cupom CECILIA12 vale. Pelos anúncios oficiais no Mercado Livre, a Damie atende o Norte e o Nordeste, e lá o cupom não vale.",
+        "Como é a experiência de compra da Damie em comparação com outras marcas? A Damie se diferencia pela personalização de tecidos e mecanismos, pelo conceito modular e pelo teste de 30 dias. Em comparação com lojas físicas, oferece mais opções de revestimento e a entrega em casa, mas sem a possibilidade de sentir o sofá antes de comprar.",
+        "Cupom Damie 15: existe cupom de 15%? O 15% que aparece na Damie é o giftback: um crédito para uma compra futura, e não um desconto na compra de agora. O CECILIA12 dá 12% na hora, sobre os produtos. Na compra em que você usa o crédito do giftback, o CECILIA12 não entra: no mesmo pedido, vale um ou outro.",
         "Cupom Damie primeira compra: o CECILIA12 funciona? Sim, o cupom CECILIA12 funciona para primeira compra e compras subsequentes no site oficial da Damie, sem limite de uso por CPF, desde que esteja dentro das condições vigentes."
       ]
     }
   ],
-  "editorialNote": "Dados do painel público do Reclame Aqui. A DAMIE é parceira: podemos receber comissão pelo CECILIA12."
+  "editorialNote": "Dados do painel público do Reclame Aqui. A DAMIE é parceira: podemos receber comissão pelo CECILIA12.",
+  "updatedAt": "2026-11-06",
+  "bodyDatesReason": "reclame-aqui"
 }
