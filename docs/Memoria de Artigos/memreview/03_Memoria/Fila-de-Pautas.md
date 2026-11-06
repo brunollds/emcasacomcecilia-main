@@ -10,7 +10,6 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| I9 | Gift card da Insider: onde achar, valores, o cupom na compra e para quem dar (Natal e Black Friday) | Insider | PT | — | Pedido do Bruno em 05/11: o EMCASACOMCECILIA vale na compra do gift card (teste no carrinho: R$ 900 → R$ 765); o pedido pago com o saldo do cartão não aceita cupom. O cartão é difícil de achar no site: o artigo leva ao link de criador do Bruno. Falta o briefing |
 | DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | No ar em 05/11 (release 400c60ff). DN2–DN4 depois |
 | DN2 | Café para consultório e clínica | Dolce Gusto | PT | [[cafe-para-consultorio-clinica]] | Redação, depois da DN1 |
 | DN4 | Cafeteira para Airbnb e pousada | Dolce Gusto | PT | [[cafeteira-para-airbnb-pousada]] | Redação, depois da DN1 |
@@ -34,6 +33,19 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 ## 3. Estoque: volta quando o Bruno chamar ou quando o sinal mudar
 
 ### Propostas sem GO
+
+**Rodada Fita Up (06/11/2026)** (pesquisa de outra sessão no autocompletar, contra os 11 artigos da Toda Up no ar; sem o Search Console, que saiu do login; avaliada pela sessão de pautas). Aguarda o GO do Bruno. Antes de cada briefing: o que a página da Fita Up publica sobre o tema (Chrome) e, se possível, as impressões no Search Console.
+
+| Código | Pauta | Buscas | Avaliação da sessão de pautas |
+|---|---|---|---|
+| F1 | Fita Up: qual tamanho e qual largura (P, M, G, GG, plus size, medidas, metros do rolo) | "qual tamanho", "tamanhos", "tamanho p/m/g", "gg", "medidas", "plus size", "larga", "extra larga", "grossa", "9 cm", "10 cm", "quantos metros", "rolo" | **Prioridade.** O `fita-up-como-usar` só tem uma tabela de 3 linhas (P até 44, M até 48, G até 54). Artigo próprio só se a loja publicar mais (largura em cm, metros por rolo, GG): sem isso, fica fino e a R8 basta. Se aprovada, substitui a R8 |
+| F2 | Fita Up pode molhar? Piscina, praia, suor e biquíni | "pode molhar", "pode usar na piscina", "na praia", "a prova d'água", "no biquíni" | Nenhum artigo fala de água (os "biquíni" do site são a calcinha da Toda Up). Depende de a loja dizer algo sobre água; sem isso, não há o que escrever. Proposta: juntar com a F3 num artigo só de cuidados, se os fatos de cada um forem poucos |
+| F3 | Fita Up não cola ou descola? Pele, alergia, quanto dura e marca na roupa | "não cola", "perdeu a cola", "descola", "machuca a pele", "queima a pele", "dá alergia", "hipoalergênica", "como limpar", "quanto tempo dura", "marca na roupa" | **Prioridade.** Hoje só uma frase do `fita-up-como-usar` (adesivo acrílico à base de água, até 12 horas, "hipoalergênica" pela marca) e o pré-teste da seção de cuidados. Só o que a loja publica, "na dúvida, teste numa área pequena", sem promessa de saúde. O `fita-up-como-usar` encurta e linka |
+| F4 | Fita Up mudou de nome? Agora é Toda Up | "mudou de nome", "faliu", "fechou", "vai acabar", "golpe", "é um banco", "CNPJ" | **Vira FAQ** no `toda-up-e-confiavel` (seção 4), que já tem "Da Fita UP à Toda Up: o que mudou". Artigo próprio disputaria com ele |
+| F5 | Fita Up na amamentação | "fita up amamentação" | Só se a loja falar disso; senão, fica fora |
+| F6 | Fita Up × Hope, Lupo, Trifil, Zee Rucci e Intimissimi | aparecem no autocompletar | Conferir na SERP se são fitas de outras marcas. Se forem, continuação da R3 (`fita-up-ou-blumi-ou-lib`), com as concorrentes sem link, cupom e foto |
+
+Já cobertos: tomara que caia, decote, protetor de mamilo, kit, Comfort Up e Slim, onde comprar (R1) e Blumi e Lib (R3).
 
 **HolyFoods: depois do onboarding** (05/11/2026). O Bruno aprovou primeiro o onboarding e a Black Friday (HO1 a HO4, seção 1): a HF1 virou o HO1 e o HO2, e a HF5 virou o HO3. As outras ficam aqui até o GO. Os fatos estão em `02_Artigos/holyfoods-fatos-0511.md`.
 - **Cuidado:** o site e os nomes dos kits prometem emagrecimento. Os textos descrevem o produto, o rótulo e o preço, sem promessa de peso ou saúde.
@@ -109,10 +121,10 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 
 | Artigo | Mudança | Origem |
 |---|---|---|
+| `toda-up-e-confiavel` | F4: FAQ "A Fita Up mudou de nome? Faliu?" com as palavras da busca ("mudou de nome", "agora é Toda Up", "faliu", "fechou", "vai acabar", "golpe", "CNPJ"), na seção "Da Fita UP à Toda Up: o que mudou", que já responde. Sem artigo novo | Rodada Fita Up, 06/11 |
 | `presente-de-natal-insider-kits-gift-card` | Dizer que o cupom vale na compra do gift card (teste do Bruno, 05/11, R$ 900 por R$ 765); hoje o artigo só diz que o pedido pago com o gift card não aceita cupom, e o leitor entende que gift card e cupom não combinam. Vale também para a FAQ "Cupom vale com gift card?" | I9, 05/11 |
-| `fita-up-como-usar` | R8: "plus size" no H2 da largura e uma FAQ, pelo briefing [[fita-up-como-usar-plus-size-otimizacao]] (sem URL nova) | Rodada R8, 05/11 |
+| `fita-up-como-usar` | R8: "plus size" no H2 da largura e uma FAQ, pelo briefing [[fita-up-como-usar-plus-size-otimizacao]] (sem URL nova). **Cai se a F1 (propostas sem GO) for aprovada:** aí o H2 encurta e linka para ela | Rodada R8, 05/11 |
 | `camiseta-feminina-insider-qual-escolher` e `camiseta-insider-qual-escolher` | Cupom na Daily: o feminino diz "confira no carrinho", o masculino diz que a Daily não aceita cupom. Só mudar com o teste no carrinho (conflito 5 da R7). O resto da linha da R7 (lavagem com link, notas, Core e 2 cm, dossiê) saiu no PR de 06/11 | Rodada R7, 05/11 |
-| `fita-up-como-usar` | "plus size" no H2 da largura e uma FAQ, pelo que a loja publica (R8) | Rodada de 05/11 |
 | `clea-store-e-confiavel` | FAQ "Onde fica a Cléa Store? Tem loja física em Jaraguá do Sul?", pelo que a loja publica | Rodada de 05/11 |
 | /cupons da Max, Probiótica e Insider (sessão de cupons) | FAQ "influencer" e "mercado livre"; confirmar o title sem "(nov/2026)". Parte 3 de [[cupom-loja-primeira-pagina-0511]]. As partes 1 e 2 saíram no #600 e a FAQ "primeira compra" (também da Mais Mu e da Bagaggio, comparada com as boas-vindas) no #601, os dois na main | Cupom <loja> na 1ª página, 05/11 |
 | `cafeteira-escritorio-qual-escolher-custo-mes` | Link para a DN1 na seção "Dolce Gusto Negócios" e para a DN2 na seção de consultório, quando cada uma for ao ar | Pautas DN, 05/11 |
