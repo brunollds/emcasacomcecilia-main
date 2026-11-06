@@ -194393,5 +194393,230 @@ export const reviewsData: unknown[] = [
         "想要網域、電子郵件和 SSL 都在列表中，並接受每年續訂約 US$144，就選 GoDaddy Economy。"
       ]
     }
+  },
+  {
+    "id": 844,
+    "slug": "colageno-nestle-nutre-qual-escolher",
+    "title": "Colágeno da Nestlé: Nutren Mov Flex, FiberMais Colágeno ou Nutren Protein com Colágeno?",
+    "seoTitle": "Colágeno Nestlé: Mov Flex, FiberMais ou Nutren Protein?",
+    "type": "Guia de Compra",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Mov Flex é cápsula, FiberMais é fibra em pó, só em limão, e o Nutren Protein com Colágeno é bebida pronta. Veja forma, porção e preço com o cupom CECI de cada um.",
+    "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre: Mov Flex, FiberMais Colágeno e Nutren Protein com Colágeno, com forma, porção e custo por dia de cada um.",
+    "publishedAt": "6 de novembro de 2026",
+    "publishedAtISO": "2026-11-06",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa.webp",
+    "imageAlt": "Nutren Mov Flex em cápsulas, lata de FiberMais com Colágeno sabor limão e garrafa de Nutren Protein com Colágeno lado a lado, com o logo da Nestlé Nutre e o título Colágeno da Nestlé na faixa",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "pros": [],
+    "cons": [],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "São três produtos diferentes, e a escolha depende da forma: cápsulas de colágeno tipo II, pó de fibra com peptídeos ou bebida pronta de proteína. O cupom CECI dá 10% nos três. O que decide é o que cada porção traz e quanto custa por dia; veja o quadro do início e o veredito no fim."
+        ]
+      },
+      {
+        "heading": "Os três lado a lado: forma e o que vem junto",
+        "paragraphs": [
+          "Cada um pede um jeito diferente de tomar. A tabela mostra o que cada porção declara no rótulo; como uma porção é cápsula, outra é colher de pó e outra é garrafa, o número de uma linha não se compara direto com o da linha de baixo."
+        ],
+        "comparisonTable": {
+          "caption": "Por porção, pelo que os rótulos e as páginas da Nestlé Nutre declaram. Compare a forma antes do número.",
+          "headers": [
+            "Produto",
+            "Forma e porção",
+            "Colágeno por porção",
+            "Calorias",
+            "O que vem junto"
+          ],
+          "rows": [
+            [
+              "Nutren Mov Flex Colágeno Tipo II, 30 cápsulas",
+              "Cápsula; 1 ao dia (1,45 g)",
+              "40 mg de colágeno de frango, com 1,2 mg de colágeno tipo II não desnaturado",
+              "6 kcal",
+              "Vitamina D (20% VD) e magnésio (31% VD)"
+            ],
+            [
+              "FiberMais Colágeno Limão, lata de 300 g",
+              "Pó para diluir; 2 colheres de sopa (12 g), 25 porções",
+              "3,1 g de peptídeos bioativos de colágeno",
+              "31 kcal",
+              "Fibra de 7,2 g (29% VD) e proteína de 2,9 g"
+            ],
+            [
+              "Nutren Protein com Colágeno, 260 ml",
+              "Bebida pronta; 1 garrafa",
+              "Sem linha de colágeno no rótulo; a loja não informa os gramas",
+              "131 kcal",
+              "Proteína de 15 g e 20 vitaminas e minerais"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Nutren Mov Flex: o que tem e como tomar",
+        "paragraphs": [
+          "O Mov Flex é a escolha de quem quer resolver em uma cápsula por dia, sem preparar nada; quem busca fibra ou proteína junto fica com um dos outros dois.",
+          "A loja informa: \"suplemento alimentar com colágeno tipo II, vitamina D e magnésio\", em cápsula.",
+          "O modo de uso é \"Ingerir 1 cápsula ao dia.\" A página também pede para não exceder a recomendação diária e manter o produto fora do alcance de crianças.",
+          "Uma cápsula tem 6 kcal; o que muda o peso é o total de calorias do dia, não a cápsula. A tabela mostra só a porção.",
+          "Na dúvida, fale com um médico ou nutricionista."
+        ]
+      },
+      {
+        "heading": "FiberMais Colágeno: fibra com colágeno, só no limão",
+        "paragraphs": [
+          "O FiberMais é o pó do trio, e na loja ele existe só no sabor limão. Serve para quem quer fibra numa bebida do dia, não para quem busca cápsula.",
+          "A página o chama de \"suplemento de fibras sabor limão com colágeno Verisol®\", adoçado com Stevia e com aroma natural, e diz que é um \"suplemento alimentar de fibras em pó 100% solúveis\".",
+          "O uso é de 2 colheres de sopa ao dia, misturadas em 195 ml de água e mexidas até dissolver por completo. A lata rende 25 porções: tomando uma por dia, são 25 dias."
+        ],
+        "image": {
+          "src": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
+          "alt": "Lata de 300 g do FiberMais com Colágeno sabor limão, suplemento alimentar de fibras em pó da Nestlé Health Science",
+          "caption": "A lata de 300 g do FiberMais com Colágeno, o único sabor que a loja vende. Foto da loja oficial da Nestlé Nutre.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Nutren Protein com Colágeno: a bebida pronta",
+        "paragraphs": [
+          "O Nutren Protein com Colágeno é a bebida pronta do trio, para quem quer abrir a garrafa e beber, sem pó nem cápsula; a proteína é o que vem na frente, e o colágeno entra sem número. Ele vem em baunilha e chocolate, avulso ou em combos de 6 e de 10 unidades.",
+          "A descrição da loja fala em \"proteínas de alto valor biológico e colágeno\", mas a tabela do rótulo não traz essa linha: é o único dos três sem o número na página. A garrafa comparada ao pó e ao whey está no [guia do Nutren Protein](/reviews/nutren-protein-ou-whey); as outras linhas Nutren, no [guia de qual Nutren escolher](/reviews/nestle-nutre-produtos-para-que-servem)."
+        ],
+        "image": {
+          "src": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-nutren-protein-tabela.webp",
+          "alt": "Tabela de informação nutricional do Nutren Protein com Colágeno, porção de 260 ml: 131 kcal, 15 g de proteínas e 12 g de carboidratos, sem linha de colágeno",
+          "caption": "A tabela do rótulo, porção de 260 ml: 131 kcal e 15 g de proteínas, e nenhuma linha de colágeno. Imagem da loja oficial da Nestlé Nutre.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "Colágeno tipo II e peptídeos: a diferença no rótulo",
+        "paragraphs": [
+          "A diferença está no que cada rótulo declara: a forma e a quantidade por porção. O Mov Flex fala em colágeno tipo II não desnaturado, em miligramas; o FiberMais fala em peptídeos bioativos de colágeno, em gramas.",
+          "Regra prática, sem teste nosso, só pelo nome que cada rótulo dá: peptídeo é colágeno já quebrado em pedaços menores; tipo II é uma das variedades de colágeno, e o Mov Flex a nomeia.",
+          "Os números não se comparam direto: uma porção é cápsula, a outra é colher de pó, e nenhum dos rótulos diz qual forma funciona melhor.",
+          "Quem busca \"colágeno tipo 2\" encontra esse nome no Mov Flex. No FiberMais, o rótulo fala em peptídeos; na garrafa, nem essa linha existe."
+        ]
+      },
+      {
+        "heading": "Preço com o cupom e onde comprar",
+        "paragraphs": [
+          "Conta nossa: o CECI tira 10% do preço de hoje, sem frete. A tabela mostra cada produto com o cupom e o custo por dia.",
+          "Quem assina paga menos que o preço com o cupom na compra avulsa: a loja mostra R$ 51,93 no Mov Flex e R$ 111,22 no FiberMais na assinatura.",
+          "Os três estão na loja oficial da Nestlé Nutre, e o CECI se digita no checkout. As exceções do [cupom Nestlé Nutre](/cupons/nestle-nutre), Alfamino, Alfaré e fórmulas infantis, não alcançam nenhum dos três. O passo a passo está no [guia do cupom CECI](/reviews/cupom-ceci-nestle-nutre-como-usar)."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de hoje lido na loja em 06/11. As duas últimas colunas aplicam os 10% do CECI sobre ele.",
+          "headers": [
+            "Produto",
+            "Preço de hoje",
+            "Com o CECI",
+            "Custo por dia"
+          ],
+          "rows": [
+            [
+              "Nutren Mov Flex, 30 cápsulas",
+              "R$ 59,92",
+              "R$ 53,93",
+              "R$ 1,80 (30 dias)"
+            ],
+            [
+              "FiberMais Colágeno Limão, 300 g",
+              "R$ 127,11",
+              "R$ 114,40",
+              "R$ 4,58 (25 porções)"
+            ],
+            [
+              "Nutren Protein com Colágeno, 260 ml",
+              "R$ 11,90",
+              "R$ 10,71",
+              "R$ 10,71 (uma garrafa)"
+            ],
+            [
+              "Combo de 10 garrafas",
+              "R$ 119,00",
+              "R$ 107,10",
+              "R$ 10,71 cada"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Qual escolher",
+        "paragraphs": [
+          "Pelo custo por dia e pela forma, o Mov Flex é o mais barato dos três e o único em cápsula: R$ 1,80 por dia, contra R$ 4,58 do FiberMais e R$ 10,71 da garrafa.",
+          "Quer fibra numa bebida diária? Fique com o FiberMais, sabendo que a loja só o tem em limão e que cada dia custa mais que o dobro do Mov Flex.",
+          "Quer bebida pronta com proteína? O Nutren Protein com Colágeno é a escolha, mas é o item de maior custo por dia, e o rótulo não diz quanto colágeno ele tem.",
+          "Entre os três, olhe primeiro a forma que cabe na sua rotina e só depois o custo por dia da tabela."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Nutren Mov Flex para que serve? É a cápsula de colágeno tipo II da Nestlé, com vitamina D e magnésio na mesma cápsula, uma por dia. O que cada cápsula traz está na tabela do início, e o modo de uso, no capítulo dele.",
+          "Como tomar o Nutren Mov Flex? Uma cápsula por dia, sem exceder a recomendação da embalagem; o detalhe está no capítulo do Mov Flex.",
+          "Nutren Mov Flex engorda? Cada cápsula tem 6 kcal, e o total de calorias do seu dia é o que conta; a tabela mostra só a porção.",
+          "Qual o colágeno da Nestlé? São três produtos com formas diferentes: cápsula de colágeno tipo II, pó com peptídeos e bebida pronta. O veredito por perfil está no fim do texto.",
+          "O cupom CECI vale no Mov Flex? Vale: o CECI cobre os produtos Nestlé Nutre, e só ficam de fora Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses. Confira o desconto no resumo do pedido antes de pagar."
+        ]
+      }
+    ],
+    "cta": {
+      "text": "Veja o Mov Flex, o FiberMais e o Nutren Protein com Colágeno na loja oficial da Nestlé Nutre e aplique o cupom CECI no carrinho.",
+      "label": "Ir para a Nestlé Nutre",
+      "url": "https://www.nestlenutre.com.br/",
+      "sponsored": true
+    },
+    "coupon": "CECI",
+    "affiliate": "nestle-nutre",
+    "decision": {
+      "takeIf": [
+        "Você quer uma cápsula por dia, com colágeno tipo II, vitamina D e magnésio: o Mov Flex.",
+        "Você quer pó de fibra com peptídeos e gosta de limão: o FiberMais.",
+        "Você quer bebida pronta com proteína e colágeno: o Nutren Protein com Colágeno."
+      ],
+      "skipIf": [
+        "Você quer saber quanto colágeno tem na garrafa: o rótulo não traz essa linha.",
+        "Você quer outro sabor de FiberMais: na loja só existe o limão."
+      ]
+    },
+    "editorialNote": "Podemos receber comissão pela Nestlé Nutre. Ninguém da equipe tomou os produtos; comparamos o que os rótulos e as páginas da loja informam.",
+    "relatedArticles": [
+      {
+        "slug": "cupom-ceci-nestle-nutre-como-usar"
+      },
+      {
+        "slug": "nutren-protein-ou-whey"
+      },
+      {
+        "slug": "nestle-nutre-produtos-para-que-servem"
+      },
+      {
+        "slug": "fibermais-como-usar-em-receitas-e-bebidas"
+      },
+      {
+        "slug": "nutren-just-protein-para-que-serve"
+      },
+      {
+        "slug": "nutren-a-z-multi-para-que-serve"
+      }
+    ]
   }
 ];
