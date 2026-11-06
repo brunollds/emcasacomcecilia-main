@@ -16,6 +16,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
+| N7 | Colágeno da Nestlé: Nutren Mov Flex, FiberMais Colágeno ou Nutren Protein com Colágeno? (pedido do Bruno, 06/11) | Nestlé Nutre | PT | [[colageno-nestle-nutre-qual-escolher]] | Redação. Antes, ler o colágeno por garrafa do Nutren Protein no rótulo e o modo de uso do Mov Flex e do FiberMais |
+| H9 | Hostinger ou GoDaddy: qual compensa, contando a renovação (escolhida pelo Bruno, 06/11) | Hostinger | PT | [[hostinger-ou-godaddy]] | Redação. Antes, no Chrome e sem comprar: a renovação anual da GoDaddy, o plano de 12 meses da Hostinger e se o SONAR20 soma com a Black Friday |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -77,7 +79,7 @@ Fatos lidos em 05/11/2026, para os briefings:
 - **A conferir:** se o OpenClaw e o Hermes gerenciados dão acesso ao terminal para o backup.
 
 Também sem GO:
-- **Hostinger ou GoDaddy: qual compensa.** Comparação 1 a 1, com a renovação como critério. A GoDaddy entra sem link, cupom nem foto. Fica para depois da série de migração.
+- **Hostinger ou GoDaddy: qual compensa.** Virou a H9 em 06/11, a pedido do Bruno, antes da série de migração (seção 1).
 - **"<Marca> é boa?" nos parceiros que faltam:** DAMIE (subdomínio primeiro), YesStyle, Magalu e Hostinger. Depois vem "produto X é bom?".
 
 ### Por parceiro
