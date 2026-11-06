@@ -56277,7 +56277,7 @@ export const reviewsData: unknown[] = [
               "R$ 199"
             ],
             [
-              "Tech T-Shirt Gola Alta Manga Longa Feminina",
+              "[Tech T-Shirt Gola Alta Manga Longa Feminina](https://creators.insiderstore.com.br/VQF6dSQ)",
               "R$ 239",
               "R$ 199"
             ],
