@@ -72,7 +72,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso. Não substitui avaliação de saúde; veja o capítulo Vale a pena? Para quem serve."
+        "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso. É uma medida de conforto e não substitui avaliação de saúde."
       ]
     },
     {
@@ -103,11 +103,12 @@
       "paragraphs": [
         "A máscara pode ser usada em duas temperaturas, sempre respeitando as instruções da marca e testando a temperatura antes de encostar na pele.",
         "Para uso frio, a marca orienta deixar a máscara no congelador por 1 a 1h30 ou, no máximo, 2 horas na geladeira. Para uso quente, orienta aquecer no micro-ondas por 15 a 30 segundos, sem exceder a temperatura recomendada.",
-        "Não use se a temperatura estiver desconfortável. Em caso de dor de cabeça súbita, intensa, diferente do habitual ou acompanhada de outros sintomas, procure atendimento de saúde."
+        "Não use se a temperatura estiver desconfortável. Dor de cabeça frequente, diferente do habitual ou que vem piorando pede consulta. Procure atendimento de urgência (o SAMU atende pelo 192) se a dor vier de repente e muito forte, ou junto com fraqueza ou dormência num lado do corpo, fala enrolada, confusão, alteração na visão, febre com rigidez na nuca ou depois de uma pancada na cabeça."
       ],
       "bullets": [
         "Uso frio: siga o tempo de resfriamento indicado pela marca.",
         "Uso quente: aqueça por 15 a 30 segundos e teste antes de usar.",
+        "Evite aplicar direto em pele machucada, como pede a marca.",
         "A marca diz que o gel segue maleável depois de resfriado.",
         "Limpe apenas a parte externa com pano úmido; não mergulhe o produto em água."
       ],
@@ -121,6 +122,12 @@
           "src": "/images/reviews/iwannasleep/aliv-head-gel-iws-uso-quente.webp",
           "alt": "Pessoa usando a máscara Aliv Head Gel IWS em uma aplicação térmica quente",
           "objectFit": "square"
+        }
+      ],
+      "links": [
+        {
+          "label": "Quando a dor de cabeça pede atendimento (NHS, em inglês)",
+          "href": "https://www.nhs.uk/conditions/migraine/"
         }
       ]
     },
@@ -168,6 +175,8 @@
         "O gel da máscara fica duro no freezer? A marca informa que o gel permanece flexível quando resfriado. Confira o estado do produto e use apenas se estiver confortável ao toque.",
         "Como aquecer a Aliv Head Gel no micro-ondas? A marca orienta aquecer por 15 a 30 segundos e testar a temperatura antes de encostar na pele. Não superaqueça.",
         "Como lavar a máscara Aliv Head Gel? Limpe a superfície externa com pano levemente umedecido. Não mergulhe o produto em água.",
+        "Posso usar a Aliv Head Gel em pele machucada? A marca orienta evitar a aplicação direta em áreas machucadas da pele e testar a temperatura antes de cada uso.",
+        "Quando a dor de cabeça pede atendimento de urgência? Quando vem de repente e muito forte, ou junto com fraqueza ou dormência num lado do corpo, fala enrolada, confusão, alteração na visão, febre com rigidez na nuca ou depois de uma pancada na cabeça. Nesses casos, procure um pronto-socorro ou ligue para o SAMU, no 192.",
         "Como usar o cupom CECIEMCASA? Digite o código no carrinho da loja oficial para verificar a aplicação em produtos elegíveis, conforme as condições vigentes no checkout. As regras estão na página do [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
       ]
     }
@@ -179,7 +188,7 @@
   },
   "coupon": "CECIEMCASA",
   "affiliate": "i-wanna-sleep",
-  "editorialNote": "Guia com dados públicos da marca, sem teste próprio. Cupom em parceria; pode render comissão.",
+  "editorialNote": "Guia com dados públicos da marca, sem teste próprio. Cupom em parceria; pode gerar comissão, sem custo extra.",
   "relatedArticles": [
     {
       "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
@@ -188,5 +197,6 @@
       "slug": "i-wanna-sleep-cobertor-igloo-ficha-tecnica"
     }
   ],
-  "brand": "I Wanna Sleep"
+  "brand": "I Wanna Sleep",
+  "updatedAt": "2026-11-06"
 }
