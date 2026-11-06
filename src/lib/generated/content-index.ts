@@ -130022,13 +130022,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como tirar e os cuidados que a marca publica",
         "paragraphs": [
-          "Para remover, a Toda Up orienta passar hidratante ou óleo corporal sobre a fita e puxar devagar, pelas laterais. A marca também sugere um pré-teste com um pedaço pequeno antes de colar."
+          "Para tirar, a Toda Up orienta passar hidratante ou óleo corporal sobre a fita e puxar devagar, pelas laterais. O pré-teste, a alergia, a água e quanto a fita dura estão em [Fita Up não cola ou descola?](/reviews/fita-up-cuidados-cola-pele-agua)."
         ]
       },
       {
         "heading": "Dá para reutilizar?",
         "paragraphs": [
-          "Dá, mas a Toda Up não recomenda: no FAQ da loja, a marca diz que a fita perde cola e sustentação a cada uso. O uso que ela descreve é cortar um pedaço por vez, colar e remover."
+          "Dá, mas a Toda Up não recomenda: a fita perde cola e sustentação a cada uso. Os outros motivos de a fita descolar estão no [guia de cuidados da Fita Up](/reviews/fita-up-cuidados-cola-pele-agua)."
         ]
       },
       {
