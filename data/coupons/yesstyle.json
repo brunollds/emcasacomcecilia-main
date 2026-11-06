@@ -440,6 +440,23 @@
     "officialSourceUrl": "https://www.yesstyle.com/en/help/section.html/hsi.2899",
     "affiliateUrl": "https://ystyle.co/rQYQv",
     "membersOnly": true,
+    "status": "expired",
+    "regions": ["GLOBAL"]
+  },
+  {
+    "id": "earlybf26-promo",
+    "code": "EARLYBF26",
+    "type": "coupon",
+    "discount": {
+      "kind": "percentage",
+      "value": 15
+    },
+    "startsAt": "2026-11-06",
+    "expiresAt": "2026-11-08",
+    "verifiedAt": "2026-11-06",
+    "officialSourceUrl": "https://www.yesstyle.com/en/terms-conditions-for-the-72-hour-extra-15-off-coupon/help/section.html/hsi.2826",
+    "affiliateUrl": "https://ystyle.co/rQYQv",
+    "membersOnly": true,
     "status": "active",
     "regions": ["GLOBAL"]
   }
