@@ -35878,8 +35878,7 @@ export const reviewsData: unknown[] = [
             "href": "https://www.nestlenutre.com.br/senior-sem-sabor-zero-lactose-lata-740",
             "sponsored": true
           }
-        ],
-        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+        ]
       },
       {
         "heading": "Ficha técnica da lata de 740 g",
@@ -35955,8 +35954,7 @@ export const reviewsData: unknown[] = [
             "label": "Como aplicar o CECI no checkout, com fotos",
             "href": "/reviews/cupom-ceci-nestle-nutre-como-usar"
           }
-        ],
-        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais."
+        ]
       },
       {
         "heading": "Como comprar com o cupom CECI",
