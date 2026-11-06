@@ -83,3 +83,12 @@ Produto equivalente com equivalente e o MAUAD aplicado: fita (R$ 105,21 da Fita 
 ## 7. Pontuação
 
 Dor 18/25, demanda 13/20, valor além do oficial 17/20, visita 10/15, cluster 8/10, conversão 7/10. Total 73.
+
+## Leitura da página de cada produto (06/11/2026, tarde)
+
+- **Fita Adesiva Tapa-Seio, bege:** R$ 89,00 (há duas páginas com o mesmo texto; a versão de R$ 79 e a marrom de R$ 23,70 estão esgotadas). Tamanho único, de tecido. Sem metragem, largura, duração ou número de usos.
+- **Copas de Silicone, bege:** R$ 109,00 em M e G (disponíveis); versão de tamanho único a R$ 69; branca a R$ 219. Lavar à mão a até 40 ºC. Sem tabela de busto e sem número de usos na página.
+- **Protetor de Silicone Opaco:** R$ 109,00, tamanho único ("grande"), acabamento opaco; a loja sugere guardar na embalagem original. Sem número de usos e sem informação sobre água.
+- **Troca, nos três:** por higiene, só sem sinal de uso e com a embalagem intacta; com defeito, a devolução é garantida.
+- **Preços para o texto:** a Toda Up entra com o MAUAD (Fita Up R$ 105,21, ou R$ 84,17 cada no Leve 2; sutiã R$ 134,91; protetor R$ 53,91); a Intimissimi, com o preço da página (não há cupom nosso nela). Com isso: protetor da Toda Up pela metade do preço; copas da Intimissimi R$ 25,91 mais baratas; fita da Intimissimi mais barata na unidade e a Fita Up no Leve 2.
+- **Rascunho:** a sessão de pautas escreveu um JSON por engano (fora do Job 1), na branch `claude/f11-toda-up-ou-intimissimi`, sem capa enviada e sem Job 3. A sessão de artigos pode usar ou descartar.
