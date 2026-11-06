@@ -175839,7 +175839,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Whey, creatina e glutamina pelo rótulo, com o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-05",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/probiotica-e-boa-capa.webp",
@@ -175878,104 +175878,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O whey da Probiótica é bom? A proteína de cada pote",
+        "heading": "O whey da Probiótica é bom? Resumo por pote",
         "paragraphs": [
-          "Pelo rótulo, é: cada pote declara o tipo de proteína e a proteína por dose, e o que separa um do outro é o tipo, o tamanho da dose e o preço por grama de proteína. A tabela reúne os cinco potes de 900 g de whey de soro da marca."
-        ],
-        "comparisonTable": {
-          "caption": "Preço no site, 02/11. O Hiper 100% Whey está em promoção da loja.",
-          "headers": [
-            "Produto",
-            "Tipo de proteína",
-            "Proteína por dose",
-            "Proteína no pote",
-            "Preço no site",
-            "Por 100 g de proteína"
-          ],
-          "rows": [
-            [
-              "[100% Pure Whey pote, baunilha](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "Concentrado (WPC)",
-              "20 g em 30 g",
-              "600 g",
-              "R$ 252,49",
-              "R$ 42,08"
-            ],
-            [
-              "[100% Pure Whey refil, baunilha](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "Concentrado (WPC)",
-              "20 g em 30 g",
-              "600 g",
-              "R$ 235,65",
-              "R$ 39,28"
-            ],
-            [
-              "[100% Pure Whey Zero Lactose, chocolate](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "Concentrado sem lactose (WPC)",
-              "21 g em 30 g",
-              "630 g",
-              "R$ 241,97",
-              "R$ 38,41"
-            ],
-            [
-              "[Hiper 100% Whey, baunilha](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "Concentrado (WPC)",
-              "23 g em 40 g",
-              "517,5 g",
-              "R$ 124,90 (de R$ 210,39)",
-              "R$ 24,14"
-            ],
-            [
-              "[Iso Pro Whey, baunilha](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
-              "Isolado (WPI)",
-              "26 g em 30 g",
-              "780 g",
-              "R$ 346,28",
-              "R$ 44,39"
-            ]
-          ]
-        },
-        "postParagraphs": [
-          "Conta nossa: com a proteína da tabela nutricional de cada pote, a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Sem a promoção, o Hiper deixa de ser o mais barato por grama de proteína, e a loja pode tirá-la sem aviso.",
-          "Os potes da tabela são do sabor indicado; a proteína por dose muda pouco de sabor para sabor, e o certo é conferir a tabela do que você vai comprar. O quadro por objetivo, com a seção da Probiótica, está em [melhor whey: qual escolher por objetivo](/reviews/melhor-whey-qual-escolher-por-objetivo)."
-        ]
-      },
-      {
-        "heading": "100% Pure Whey: pote ou refil",
-        "paragraphs": [
-          "O 100% Pure Whey é o whey de entrada da marca: proteína concentrada do soro (WPC), 20 g de proteína em cada dose de 30 g e 30 doses por embalagem de 900 g. O texto de venda fala em 20 g a 24 g; vale a tabela, que diz 20 g. O aviso de alergênicos cita leite e soja, e o produto contém lactose.",
-          "O refil repete a tabela do pote e custa menos. Para quem já tem o pote em casa, é a mesma proteína por menos.",
-          "Serve para quem quer um whey concentrado comum, sem dose grande e sem ser isolado. Não escolha se você precisa evitar lactose: o rótulo diz que contém."
-        ],
-        "image": {
-          "src": "/images/reviews/probiotica/probiotica-ou-growth-tabela-whey-baunilha.webp",
-          "alt": "Tabela nutricional do 100% Pure Whey 900 g, sabor Baunilha, com 20 g de proteína em 30 g.",
-          "caption": "Tabela da própria Probiótica: 20 g de proteína em cada porção de 30 g, 30 porções. Imagem: Probiótica",
-          "objectFit": "contain",
-          "aspectRatio": 0.6386
-        }
-      },
-      {
-        "heading": "Zero Lactose: o que o rótulo declara",
-        "paragraphs": [
-          "A loja informa: o 100% Pure Whey Zero Lactose é feito com proteína concentrada do soro do leite sem lactose (WPC), e a página traz \"lactose: não contém\". O que o rótulo escreve está na lista de ingredientes e no aviso de alergênicos, e o aviso diz \"contém derivados de leite\" e \"pode conter soja e ovo\". Sem lactose não é sem leite.",
-          "Na tabela do chocolate, a dose rende um grama de proteína a mais que a do pote comum, e o preço por 100 g de proteína fica abaixo do pote e do refil.",
-          "Serve para quem quer um whey que o rótulo declara sem lactose. Não escolha como isolado, porque é concentrado (WPC); quem quer mais proteína por dose e menos carboidrato olha o Iso Pro."
-        ]
-      },
-      {
-        "heading": "Hiper 100% Whey: a dose de 40 g",
-        "paragraphs": [
-          "O Hiper 100% Whey é proteína concentrada do soro (WPC) numa dose maior, de 40 g, e contém lactose. Na tabela da baunilha, a dose traz 23 g de proteína, 11 g de carboidrato e 159 kcal, mais carboidrato que o Pure Whey. É a dose maior, somada à promoção da loja, que derruba o preço por grama de proteína.",
-          "Serve para quem quer pagar menos pela proteína e aceita uma dose de 40 g. Não escolha se o preço de lista é o que você vai pagar, porque sem a promoção ele perde a vantagem; também não serve a quem quer pouco carboidrato (o Iso Pro) ou whey sem lactose (o Zero Lactose)."
-        ]
-      },
-      {
-        "heading": "Iso Pro: o isolado",
-        "paragraphs": [
-          "O Iso Pro Whey é isolado do soro (WPI): 26 g de proteína em 30 g e 1,3 g de carboidrato na tabela da baunilha, com vitaminas e minerais listados. É o pote com mais proteína por dose e o maior preço por grama de proteína. A página diz que contém lactose, e o aviso cita derivados de leite e soja: não é a opção para quem quer o rótulo sem lactose.",
-          "Serve para quem quer a dose mais concentrada em proteína e o menor carboidrato da marca, e aceita pagar mais por grama. Não escolha para economizar nem para evitar lactose.",
-          "O Iso Protein Blend, apesar do \"Iso\" no nome, não é isolado de soro: a lista de ingredientes traz proteína isolada da soja e concentrado do soro. Por isso fica fora da tabela."
+          "Pelo rótulo, é: cada pote declara o tipo de proteína e a proteína por dose, e o que muda entre eles é o tipo, a dose e o preço por grama de proteína. Com a promoção, o Hiper 100% Whey é o mais barato por grama; sem ela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente. O Iso Pro é o isolado, com a maior dose de proteína e o maior preço por grama.",
+          "A tabela com a proteína de cada pote, a conta por 100 g e o veredito por perfil estão em [whey Probiótica: qual escolher](/reviews/whey-probiotica-qual-escolher)."
         ]
       },
       {
@@ -176076,11 +175982,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O whey da Probiótica é bom? Pelo rótulo, sim: cada pote declara o tipo de proteína e a proteína por dose, e o que muda entre eles é o tipo, a dose e o preço por grama de proteína, na tabela do capítulo do whey.",
-          "O 100% Pure Whey é concentrado? É: a lista de ingredientes traz proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
-          "O zero lactose serve para quem tem intolerância? O rótulo declara \"sem lactose\", e o aviso de alergênicos cita derivados de leite; o artigo lê o rótulo, e a escolha para o seu caso é conversa com médico ou nutricionista.",
-          "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja. O whey declarado sem lactose da marca é o 100% Pure Whey Zero Lactose.",
-          "O Hiper 100% Whey é concentrado? É: proteína concentrada do soro (WPC), em dose de 40 g, e contém lactose.",
+          "O whey da Probiótica é bom? Pelo rótulo, sim: cada pote declara o tipo de proteína e a proteína por dose. O que muda entre eles é o preço por grama e a lactose, no [guia do whey](/reviews/whey-probiotica-qual-escolher).",
+          "O 100% Pure Whey é concentrado? É: a descrição da loja e o rótulo dizem proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
+          "O zero lactose serve para quem tem intolerância? O rótulo declara \"lactose: não contém\", e o aviso de alergênicos cita derivados de leite. Quem tem intolerância decide com médico ou nutricionista.",
+          "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja.",
+          "O Hiper 100% Whey é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
           "A creatina Probiótica é boa? Pelo rótulo, a creatina monohidratada traz 5.000 mg por porção de 5 g nos potes e nos sachês, e o pote de 300 g é o mais barato por grama; os números estão em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
           "O cupom da Probiótica dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. Vale para conta nova e antiga e soma com as promoções da loja.",
           "A Probiótica é confiável? É, e os detalhes estão no [guia de confiabilidade da marca](/reviews/probiotica-e-confiavel)."
@@ -190242,6 +190148,224 @@ export const reviewsData: unknown[] = [
           "A Max Titanium tem whey zero lactose? Não: todos os wheys da linha declaram \"contém lactose\".",
           "O cupom da Max dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto.",
           "E o whey Dr. Peanut? A Max também vende o 100% Whey Dr. Peanut, pelo mesmo preço do site da Dr. Peanut; o que muda é o cupom, e a comparação está em [whey Dr. Peanut: Max ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "slug": "whey-probiotica-qual-escolher",
+    "locale": "pt",
+    "title": "Whey Probiótica: qual escolher entre 100% Pure, Zero Lactose, Hiper e Iso Pro",
+    "seoTitle": "Whey Probiótica: qual escolher pelo rótulo e preço",
+    "type": "Guia de Escolha",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "Com a promoção, o Hiper sai mais barato por grama de proteína; o Zero Lactose é o whey que o rótulo declara sem lactose, e o Iso Pro tem a maior dose de proteína.",
+    "metaDescription": "Com o cupom PRO10EMCASACOMCECILIA, até 10% OFF na Probiótica. 100% Pure, Zero Lactose, Hiper e Iso Pro comparados por dose e preço por 100 g de proteína.",
+    "publishedAt": "5 de novembro de 2026",
+    "publishedAtISO": "2026-11-05",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/probiotica/whey-probiotica-qual-escolher-capa.webp",
+    "imageAlt": "Os potes do 100% Pure Whey, Zero Lactose, Hiper e Iso Pro da Probiótica, com o logo da Probiótica e o título Whey Probiótica: qual escolher?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "decision": {
+      "takeIf": [
+        "Leve o Hiper se a promoção estiver no site e a dose de 40 g couber na sua rotina: é o menor preço por grama de proteína hoje.",
+        "Leve o Zero Lactose se você procura um whey com a lactose declarada como ausente no rótulo, lembrando que o aviso cita derivados de leite.",
+        "Leve o Iso Pro se você quer a maior proteína por dose e aceita o maior preço por grama."
+      ],
+      "skipIf": [
+        "Passe no Hiper se a conta é o preço de lista: sem a promoção, ele fica atrás do Zero Lactose e do refil.",
+        "Passe no Iso Pro se você compara só o preço por grama, porque ele é o mais caro da linha."
+      ]
+    },
+    "pros": [
+      "Tabela nutricional de cada pote na página da loja, com a dose e a proteína por porção",
+      "Três potes abaixo de R$ 40 por 100 g de proteína no preço de venda de hoje",
+      "Zero Lactose com a lactose declarada como ausente no rótulo",
+      "Cupom de até 10% que soma com as promoções do site"
+    ],
+    "cons": [
+      "O aviso do Zero Lactose cita derivados de leite",
+      "O Hiper só lidera com a promoção: sem ela, perde a vantagem",
+      "O Iso Pro é o mais caro por grama de proteína da linha"
+    ],
+    "cta": {
+      "text": "Entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% de desconto no site da Probiótica. Confira o desconto de cada item antes de pagar.",
+      "label": "Ir para a Probiótica com o cupom",
+      "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
+      "sponsored": true
+    },
+    "coupon": "PRO10EMCASACOMCECILIA",
+    "affiliate": "probiotica",
+    "editorialNote": "Podemos receber comissão pelo cupom. Ninguém da equipe provou os produtos.",
+    "relatedArticles": [
+      {
+        "slug": "probiotica-e-boa"
+      },
+      {
+        "slug": "whey-max-titanium-qual-escolher"
+      },
+      {
+        "slug": "melhor-whey-qual-escolher-por-objetivo"
+      }
+    ],
+    "contentSections": [
+      {
+        "heading": "Resposta rápida: qual whey da Probiótica comprar",
+        "paragraphs": [
+          "Para pagar menos por grama de proteína, o Hiper, enquanto a promoção durar; para o whey que o rótulo declara sem lactose, o Zero Lactose; para mais proteína por dose, o Iso Pro. A promoção do Hiper pode acabar, e a tabela de preço mostra a conta também com o preço de lista."
+        ]
+      },
+      {
+        "heading": "Cinco potes, dois tipos de proteína",
+        "paragraphs": [
+          "Quatro dos cinco potes são concentrados do soro do leite (WPC): o 100% Pure Whey pote, o refil, o Zero Lactose e o Hiper. O Iso Pro é isolado (WPI). O tipo muda o que vai no copo; o que decide a compra é o preço por grama de proteína e a lactose declarada.",
+          "Para a marca inteira, o guia é [Probiótica é boa?](/reviews/probiotica-e-boa)."
+        ]
+      },
+      {
+        "heading": "Proteína por dose e preço por 100 g de proteína",
+        "paragraphs": [
+          "Conta nossa: a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Quanto menor o último número, mais barata a proteína."
+        ],
+        "comparisonTable": {
+          "caption": "Preço de venda em 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando é outro. Proteína por dose da tabela nutricional de cada pote.",
+          "headers": [
+            "Produto",
+            "Dose: proteína por dose",
+            "Proteína no pote",
+            "Preço de venda",
+            "R$ por 100 g de proteína"
+          ],
+          "rows": [
+            [
+              "[100% Pure Whey pote 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30 g: 20 g",
+              "600 g",
+              "R$ 252,49",
+              "R$ 42,08"
+            ],
+            [
+              "[100% Pure Whey refil 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30 g: 20 g",
+              "600 g",
+              "R$ 235,65",
+              "R$ 39,28"
+            ],
+            [
+              "[100% Pure Whey Zero Lactose 900 g](https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30 g: 21 g",
+              "630 g",
+              "R$ 241,97",
+              "R$ 38,41"
+            ],
+            [
+              "[Hiper 100% Whey 900 g](https://www.probiotica.com.br/hiper-100-whey-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "40 g: 23 g",
+              "517,5 g",
+              "R$ 124,90 (de R$ 210,39)",
+              "R$ 24,14 (de R$ 40,66)"
+            ],
+            [
+              "[Iso Pro Whey 900 g](https://www.probiotica.com.br/iso-pro-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi)",
+              "30 g: 26 g",
+              "780 g",
+              "R$ 346,28",
+              "R$ 44,39"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A promoção é o que põe o Hiper na frente; sem ela, ele sai atrás do Zero Lactose e do refil. Os preços mudam: confira o valor no botão de compra de cada produto.",
+          "O Iso Pro é o mais caro por grama da linha, e não aparece com promoção no site hoje."
+        ]
+      },
+      {
+        "heading": "100% Pure Whey: pote ou refil",
+        "paragraphs": [
+          "Quem já tem o pote em casa leva o refil: é o mesmo concentrado, com a mesma dose, por R$ 16,84 a menos no pacote inteiro.",
+          "A embalagem da foto declara um grama de proteína a mais por dose que a tabela nutricional: confira a embalagem que chegar.",
+          "Serve para quem quer um concentrado comum e aceita a lactose que o rótulo declara."
+        ],
+        "image": {
+          "src": "/images/reviews/probiotica/probiotica-ou-integralmedica-whey-900g.webp",
+          "alt": "Pote de 900 g do 100% Pure Whey da Probiótica, sabor baunilha",
+          "caption": "100% Pure Whey pote 900 g. Imagem: Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 0.595,
+          "href": "https://www.probiotica.com.br/100-pure-whey-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+        }
+      },
+      {
+        "heading": "Zero Lactose: o que o rótulo declara",
+        "paragraphs": [
+          "O que decide o Zero Lactose é a declaração de lactose. A loja informa: \"lactose: não contém\" na página do produto.",
+          "O aviso de alergênicos, porém, cita derivados de leite. Sem lactose não é sem leite, e quem tem intolerância à lactose decide com médico ou nutricionista.",
+          "A tabela nutricional traz 21 g de proteína por dose e a embalagem da foto, 22 g: confira a embalagem que chegar.",
+          "Serve para quem quer um whey com lactose declarada como ausente e aceita o preço de um concentrado. Para a dose com mais proteína, o Iso Pro."
+        ],
+        "image": {
+          "src": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
+          "alt": "Pote do 100% Pure Whey, refil em sachê e pote do 100% Pure Whey Zero Lactose, todos da Probiótica",
+          "caption": "100% Pure Whey pote, refil e Zero Lactose. Imagem: Probiótica.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7778,
+          "href": "https://www.probiotica.com.br/100--pure-whey-zero-lactose-pote-900g/p?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi"
+        }
+      },
+      {
+        "heading": "Hiper 100% Whey: a dose de 40 g e a promoção",
+        "paragraphs": [
+          "O que decide o Hiper é a promoção, sobre uma dose de 40 g, a maior da lista. O rótulo diz que ele contém lactose, e a baunilha está esgotada no site hoje: chocolate, cookies & cream e morango têm estoque.",
+          "Serve para quem aceita a dose de 40 g e encontra a promoção no site. Não serve a quem quer whey sem lactose, nem a quem compara sem a promoção."
+        ]
+      },
+      {
+        "heading": "Iso Pro: o isolado com a maior dose de proteína",
+        "paragraphs": [
+          "O que decide o Iso Pro é a dose: é o whey da linha com mais proteína por porção, e o isolado (WPI) que o rótulo descreve.",
+          "A página diz que contém lactose, e o aviso cita derivados de leite e soja. Não é a opção para quem evita lactose.",
+          "Serve para quem quer a dose mais concentrada e aceita pagar mais por grama de proteína."
+        ]
+      },
+      {
+        "heading": "Cupom PRO10EMCASACOMCECILIA: até 10%, por produto",
+        "paragraphs": [
+          "O cupom PRO10EMCASACOMCECILIA dá até 10% no site da Probiótica, e o percentual varia por produto. O valor de cada item aparece no carrinho, no campo Cupom de Desconto.",
+          "No teste no carrinho, ele funcionou no 100% Pure Whey e no Hiper em promoção, e somou com o Pix. Ele também soma com as promoções da loja. As regras estão em [cupom Probiótica](/cupons/probiotica)."
+        ]
+      },
+      {
+        "heading": "Qual whey escolher",
+        "emphasis": "Pelos números da tabela, para pagar menos por grama de proteína a escolha é o Hiper, enquanto a promoção durar: R$ 24,14 por 100 g, bem abaixo dos outros quatro. Sem a promoção, a escolha passa a ser o Zero Lactose, a R$ 38,41 por 100 g.",
+        "bullets": [
+          "Quer pagar menos por grama de proteína e aceita a dose de 40 g: Hiper, enquanto a promoção durar.",
+          "Quer um whey que o rótulo declara sem lactose: Zero Lactose, com o aviso de derivados de leite.",
+          "Quer a dose com mais proteína e aceita o maior preço por grama: Iso Pro.",
+          "Já tem o pote em casa: o refil do 100% Pure Whey, que faz a mesma conta por menos."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "O whey da Probiótica é bom? Pelo rótulo, sim: cada pote declara o tipo de proteína e a proteína por dose. O que separa os cinco é o preço por grama e a lactose, na tabela deste guia.",
+          "O 100% Pure Whey é concentrado? É: o rótulo e a descrição da loja dizem proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
+          "O Zero Lactose serve para quem tem intolerância? O rótulo declara lactose não contém, e o aviso cita derivados de leite. O capítulo do Zero Lactose mostra o que a embalagem diz.",
+          "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja.",
+          "O Hiper é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
+          "O cupom dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. O carrinho mostra o valor de cada item.",
+          "A Probiótica é confiável? É, e os detalhes estão no [guia de confiabilidade da marca](/reviews/probiotica-e-confiavel)."
         ]
       }
     ]
