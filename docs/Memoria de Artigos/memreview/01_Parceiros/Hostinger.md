@@ -61,6 +61,8 @@ chamar de cupom; 20% só no primeiro período e sem somar com outros cupons.
 - Os mesmos termos dão como elegíveis: hospedagem, VPS, e-mail, Reach, Criador com IA, "aplicativos de automação com IA" e "Agentes da Hostinger", sempre em assinaturas de 12 meses ou mais. O texto nunca promete o desconto em plano mensal.
 
 **Agentes de IA (21/10/2026).** São quatro briefings em 10 idiomas: [[openclaw-hostinger-gerenciado-ou-vps]], [[melhor-vps-para-openclaw]], [[openclaw-ou-hermes-agent]] e [[paperclip-ai-hostinger]].
+
+**Hostinger ou GoDaddy (06/11/2026).** [[hostinger-ou-godaddy]] sai nos 10 idiomas (`translationKey` `hostinger-ou-godaddy`). Fora do PT, os preços são os do mercado internacional em dólar e a comparação usa o Premium, porque o Single não existe no site internacional.
 - Ninguém do site usa OpenClaw, Hermes ou Paperclip.
 - O OpenClaw e o Hermes gerenciados trazem créditos de IA. O Paperclip gerenciado não traz: o cliente usa as próprias chaves.
 

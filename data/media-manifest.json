@@ -61768,6 +61768,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-godaddy-capa.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-godaddy-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29738,
+      "sha256": "9da6c044ddc8b1849433cd5bb19c824d11599ad6b1d1bd154f669f4111ce7ea5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-godaddy-capa.webp",
+      "storage_filename": "hostinger-ou-godaddy-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-ou-godaddy.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-ou-godaddy.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 191931,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-godaddy-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9da6c044ddc8b1849433cd5bb19c824d11599ad6b1d1bd154f669f4111ce7ea5/hostinger-ou-godaddy-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9da6c044ddc8b1849433cd5bb19c824d11599ad6b1d1bd154f669f4111ce7ea5/hostinger-ou-godaddy-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T21:35:25.302Z",
+      "verification_etag_or_digest": "9da6c044ddc8b1849433cd5bb19c824d11599ad6b1d1bd154f669f4111ce7ea5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
       "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
       "media_kind": "image",
@@ -64291,6 +64337,187 @@
       "uploaded_at": null,
       "verified_at": "2026-11-05T01:52:39.588Z",
       "verification_etag_or_digest": "3f933aeaa5b152123d85518bf5aef4ed4174b627c6214f5b0d44ca1fb2a327d1",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 22878,
+      "sha256": "a569e80edcdba74e7a034ea4328a38ed83a6a60bd159c42399b01415ca266c04",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-vs-godaddy-capa.webp",
+      "storage_filename": "hostinger-vs-godaddy-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-o-godaddy-confronto.json",
+        "content/reviews/hostinger-o-godaddy.json",
+        "content/reviews/hostinger-oder-godaddy.json",
+        "content/reviews/hostinger-or-godaddy-ja.json",
+        "content/reviews/hostinger-or-godaddy-ko.json",
+        "content/reviews/hostinger-or-godaddy-zh-hans.json",
+        "content/reviews/hostinger-or-godaddy-zh-hant.json",
+        "content/reviews/hostinger-or-godaddy.json",
+        "content/reviews/hostinger-ou-godaddy-comparatif.json",
+        "content/reviews/hostinger-ou-godaddy.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-o-godaddy-confronto.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-o-godaddy.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-oder-godaddy.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-or-godaddy-ja.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-or-godaddy-ko.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-or-godaddy-zh-hans.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-or-godaddy-zh-hant.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-or-godaddy.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-ou-godaddy-comparatif.json",
+          "line": 40,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "content/reviews/hostinger-ou-godaddy.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 191755,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 192029,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 192295,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 192561,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 192827,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 193093,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 193359,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 193625,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 193891,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 194157,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-vs-godaddy-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/a569e80edcdba74e7a034ea4328a38ed83a6a60bd159c42399b01415ca266c04/hostinger-vs-godaddy-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/a569e80edcdba74e7a034ea4328a38ed83a6a60bd159c42399b01415ca266c04/hostinger-vs-godaddy-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T22:20:20.756Z",
+      "verification_etag_or_digest": "a569e80edcdba74e7a034ea4328a38ed83a6a60bd159c42399b01415ca266c04",
       "verification_status": "verified"
     },
     {
