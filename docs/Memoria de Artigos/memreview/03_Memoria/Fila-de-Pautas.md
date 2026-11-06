@@ -34,12 +34,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 ### Propostas sem GO
 
-**Rodada Fita Up (06/11/2026)** (pesquisa de outra sessão no autocompletar, contra os 11 artigos da Toda Up no ar; sem o Search Console, que saiu do login; avaliada pela sessão de pautas). Aguarda o GO do Bruno. Antes de cada briefing: o que a página da Fita Up publica sobre o tema (Chrome) e, se possível, as impressões no Search Console. **GO do Bruno em 06/11:** a F3 virou briefing, com a F2 (água) e a F5 (amamentação: a loja não recomenda) dentro; a F1 ficou na R8, porque a loja só publica P, M e G, sem cm nem metros do rolo. Seguem aqui:
+**Rodada Fita Up (06/11/2026)** (pesquisa de outra sessão no autocompletar, contra os 11 artigos da Toda Up no ar; sem o Search Console, que saiu do login; avaliada pela sessão de pautas). Aguarda o GO do Bruno. Antes de cada briefing: o que a página da Fita Up publica sobre o tema (Chrome) e, se possível, as impressões no Search Console. **GO do Bruno em 06/11:** a F3 virou briefing, com a F2 (água) e a F5 (amamentação: a loja não recomenda) dentro; a F1 ficou na R8, porque a loja só publica P, M e G, sem cm nem metros do rolo. **Fechada em 06/11:** a F4 (FAQ "mudou de nome? faliu?") está no ar no `toda-up-e-confiavel` (#647). A F6 foi encerrada: na busca de 06/11, Hope, Lupo e Zee Rucci vendem sutiã adesivo, não fita; a Intimissimi não aparece; a Trifil só aparece num anúncio de vendedor no Mercado Livre ("Kit Fita Adesiva Sustentadora Up Trifil"), sem página da marca. Não sustenta a continuação da R3.
 
-| Código | Pauta | Buscas | Avaliação da sessão de pautas |
-|---|---|---|---|
-| F4 | Fita Up mudou de nome? Agora é Toda Up | "mudou de nome", "faliu", "fechou", "vai acabar", "golpe", "é um banco", "CNPJ" | **Vira FAQ** no `toda-up-e-confiavel` (seção 4), que já tem "Da Fita UP à Toda Up: o que mudou". Artigo próprio disputaria com ele |
-| F6 | Fita Up × Hope, Lupo, Trifil, Zee Rucci e Intimissimi | aparecem no autocompletar | Conferir na SERP se são fitas de outras marcas. Se forem, continuação da R3 (`fita-up-ou-blumi-ou-lib`), com as concorrentes sem link, cupom e foto |
 
 Já cobertos: tomara que caia, decote, protetor de mamilo, kit, Comfort Up e Slim, onde comprar (R1) e Blumi e Lib (R3).
 
