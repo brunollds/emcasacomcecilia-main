@@ -52,7 +52,7 @@ F10 da série Toda Up × outras marcas (Fila, 06/11/2026). GO do Bruno em 06/11:
 
 ## 4. O que só o site dá
 
-A resposta à confusão do nome: Fita Up é da Toda Up (antiga Fita UP, de Biguaçu, SC); a "Trifil Up" é a linha da Trifil. Depois, produto equivalente com equivalente e o MAUAD aplicado: a fita (R$ 61,90 na Trifil, com 5 m, 10 protetores e lata, tamanho único até o 48, contra R$ 105,21 da Fita Up, ou R$ 84,17 cada no Leve 2, em três larguras até o 54 e três cores) e o adesivo de mamilo (R$ 89,90 do "sutiã adesivo" da Trifil contra R$ 53,91 do Protetor de Silicone Ultrafino, em 8, 10 e 12 cm, à prova d'água e até 20 usos).
+A resposta à confusão do nome: Fita Up é da Toda Up (antiga Fita UP, de Biguaçu, SC); a "Trifil Up" é a linha da Trifil. Depois, produto equivalente com equivalente e o MAUAD aplicado: a fita (R$ 61,90 na Trifil, com 5 m, 10 protetores e lata, tamanho único até o 48, contra R$ 105,21 da Fita Up, ou R$ 84,17 cada no Leve 2, em três larguras até o 54 e três cores) e o adesivo de mamilo (R$ 89,90 do "sutiã adesivo" da Trifil contra R$ 53,91 do Protetor de Silicone Ultrafino, em 8, 10 e 12 cm, à prova d'água e até 30 usos pela página, 20 pelo FAQ).
 
 ## 5. Regras
 
