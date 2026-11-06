@@ -32080,8 +32080,8 @@ export const reviewsData: unknown[] = [
           "Aqui está o passo mais importante: confira se o desconto foi realmente aplicado antes de finalizar a compra. Os 12% aparecem sobre o subtotal dos produtos, e o valor final é esse subtotal com o desconto, mais o frete. Se o cupom não funcionar, confira nesta ordem:"
         ],
         "bullets": [
-          "Outro cupom ou o giftback de 15% no pedido: o CECILIA12 não soma com eles. Tire o outro e aplique o CECILIA12 de novo.",
-          "Onde está a compra: o código só vale no site oficial da Damie, e não no Mercado Livre nem no app do colchão.",
+          "Outro cupom ou o crédito do giftback no pedido: o CECILIA12 não soma com eles. Tire o outro e aplique o CECILIA12 de novo.",
+          "Onde está a compra: o código só vale no site oficial da Damie, e não no Mercado Livre.",
           "A digitação: é CECILIA12, sem espaços.",
           "Se nada disso resolver, veja as [regras completas do cupom](/cupons/damie) e fale com o suporte da Damie antes de concluir o pagamento."
         ],
@@ -32104,7 +32104,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde a Damie entra nessa história",
         "paragraphs": [
-          "O CECILIA12 é o cupom da nossa parceria com a Damie, e a compra com ele gera comissão para o site, sem custo extra para você. Recebemos da Damie as poltronas reclináveis, a Poltrona Moon e o sofá modular, e usamos tudo em casa há mais de um ano, como contamos nos reviews.",
+          "O CECILIA12 é o cupom da nossa parceria com a Damie, e a compra com ele gera comissão para o site, sem custo extra para você. A primeira a chegar foi a poltrona reclinável 1.0, que recebemos da Damie; o cupom só surgiu um a dois meses depois do primeiro vídeo dela. Depois vieram a Poltrona Moon e o sofá modular, e usamos tudo em casa há mais de um ano, como contamos nos reviews.",
           "Se você está pesquisando poltrona reclinável, sofá modular ou poltrona decorativa, o cupom pode ajudar a reduzir o investimento. Mas o mais importante ainda é escolher o produto certo para a sua casa. No especial Damie da Cecília você encontra dicas de escolha, comparações e cuidados na hora de montar o ambiente."
         ],
         "links": [
@@ -32141,8 +32141,8 @@ export const reviewsData: unknown[] = [
           "O cupom CECILIA12 acumula com outras promoções do site? Sim. O CECILIA12 soma com as promoções e os brindes do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp. Ele não soma com outro cupom nem com o giftback de 15%: no mesmo pedido, vale um código só. Confira o resumo do checkout antes de finalizar.",
           "Posso usar o cupom CECILIA12 mais de uma vez? O cupom CECILIA12 é válido para múltiplas compras no site oficial, desde que esteja dentro das condições vigentes. Não há limite de uso por CPF, mas o desconto se aplica apenas ao valor do produto e não ao frete. Recomendamos confirmar o valor final no checkout antes de pagar.",
           "O cupom CECILIA12 funciona para frete grátis? Não. O cupom CECILIA12 concede 12% de desconto sobre o valor do produto, mas não altera a política de frete. A empresa trabalha com transportadora especializada e o valor do envio é calculado no checkout conforme a região e o volume do pedido. O desconto é aplicado apenas sobre o subtotal dos produtos.",
-          "O que fazer se o cupom CECILIA12 não funcionar no checkout? Primeiro, veja se há outro cupom ou o giftback de 15% no pedido: o CECILIA12 não soma com eles. Depois, confirme que a compra está no site oficial da Damie, e não no Mercado Livre, e que o código está certo: CECILIA12, sem espaços. Se o erro persistir, confira as [regras do cupom](/cupons/damie) e fale com o suporte da Damie antes de concluir o pagamento.",
-          "Cupom Damie 15: existe cupom de 15%? O 15% que aparece na Damie é o giftback, um benefício da própria loja. O CECILIA12 dá 12% na hora, sobre os produtos, e não soma com o giftback de 15%: no mesmo pedido, vale um ou outro. Veja as regras do giftback no site da Damie e compare o valor final no checkout.",
+          "O que fazer se o cupom CECILIA12 não funcionar no checkout? Primeiro, veja se há outro cupom ou o crédito do giftback no pedido: o CECILIA12 não soma com eles. Depois, confirme que a compra está no site oficial da Damie, e não no Mercado Livre, e que o código está certo: CECILIA12, sem espaços. Se o erro persistir, confira as [regras do cupom](/cupons/damie) e fale com o suporte da Damie antes de concluir o pagamento.",
+          "Cupom Damie 15: existe cupom de 15%? O 15% que aparece na Damie é o giftback: um crédito para uma compra futura, e não um desconto na compra de agora. O CECILIA12 dá 12% na hora, sobre os produtos. Na compra em que você usa o crédito do giftback, o CECILIA12 não entra: no mesmo pedido, vale um ou outro.",
           "Cupom Damie primeira compra: o CECILIA12 funciona? Sim, o cupom CECILIA12 funciona para primeira compra e compras subsequentes no site oficial da Damie, sem limite de uso por CPF, desde que esteja dentro das condições vigentes.",
           "Cupom Damie 2026: o CECILIA12 ainda vale? Sim, o cupom CECILIA12 é mantido ativo pela parceria entre o blog Em Casa com Cecília e a Damie. Recomendamos sempre testar no checkout antes de finalizar para confirmar que ainda está vigente."
         ]
