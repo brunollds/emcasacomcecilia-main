@@ -61768,6 +61768,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/hostinger/hostinger-ou-godaddy-capa.webp",
+      "local_url": "/images/reviews/hostinger/hostinger-ou-godaddy-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 29738,
+      "sha256": "9da6c044ddc8b1849433cd5bb19c824d11599ad6b1d1bd154f669f4111ce7ea5",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "hostinger-ou-godaddy-capa.webp",
+      "storage_filename": "hostinger-ou-godaddy-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/hostinger-ou-godaddy.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/hostinger-ou-godaddy.json",
+          "line": 39,
+          "column": 13,
+          "literal": "/images/reviews/hostinger/hostinger-ou-godaddy-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 191931,
+          "column": 15,
+          "literal": "/images/reviews/hostinger/hostinger-ou-godaddy-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/9da6c044ddc8b1849433cd5bb19c824d11599ad6b1d1bd154f669f4111ce7ea5/hostinger-ou-godaddy-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/9da6c044ddc8b1849433cd5bb19c824d11599ad6b1d1bd154f669f4111ce7ea5/hostinger-ou-godaddy-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T21:35:25.302Z",
+      "verification_etag_or_digest": "9da6c044ddc8b1849433cd5bb19c824d11599ad6b1d1bd154f669f4111ce7ea5",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
       "local_url": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
       "media_kind": "image",

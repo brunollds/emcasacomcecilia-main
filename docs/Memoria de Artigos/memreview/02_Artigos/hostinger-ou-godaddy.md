@@ -10,7 +10,7 @@ type: "Comparativo"
 anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 70

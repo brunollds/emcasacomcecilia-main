@@ -191686,5 +191686,278 @@ export const reviewsData: unknown[] = [
         ]
       }
     ]
+  },
+  {
+    "id": 845,
+    "slug": "hostinger-ou-godaddy",
+    "locale": "pt",
+    "translationKey": "hostinger-ou-godaddy",
+    "title": "Hostinger ou GoDaddy: qual hospedagem compensa, contando a renovação?",
+    "seoTitle": "Hostinger ou GoDaddy: qual compensa com a renovação?",
+    "type": "Comparativo",
+    "category": "guias-praticos-utilidade",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "authors": [
+      {
+        "name": "Cecília Mauad",
+        "slug": "cecilia-mauad",
+        "role": "Em Casa com Cecília",
+        "initials": "CM",
+        "url": "/sobre"
+      },
+      {
+        "name": "Bruno Luiz",
+        "slug": "bruno-luiz",
+        "role": "Edição e análise",
+        "initials": "BL"
+      }
+    ],
+    "description": "Hostinger ou GoDaddy: em 4 anos, a Hostinger com o SONAR20 custa menos; no 1º ano, a GoDaddy Inicial sai mais barata. Veja a conta e o que vem no plano.",
+    "metaDescription": "O SONAR20 dá 20% OFF na compra nova da Hostinger. Veja a conta de 4 anos contra a GoDaddy, o 1º ano, a renovação e o que vem em cada plano.",
+    "publishedAt": "6 de novembro de 2026",
+    "publishedAtISO": "2026-11-06",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/hostinger/hostinger-ou-godaddy-capa.webp",
+    "imageAlt": "Logo da Hostinger, um calendário e o ícone de renovação, com o título Hostinger ou GoDaddy? e a linha Quanto custa em 4 anos, com a renovação",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Na compra nova, a Hostinger com o SONAR20 custa menos em 4 anos, mas a GoDaddy Inicial sai mais barata no 1º ano, sem domínio nem e-mail na lista. O que decide é o prazo que você pretende manter o site; veja a conta de cada um abaixo."
+        ]
+      },
+      {
+        "heading": "Os planos de entrada lado a lado",
+        "paragraphs": [
+          "O Single da Hostinger lista domínio e e-mail; o Inicial da GoDaddy não lista nenhum dos dois. A Economy da GoDaddy, com 25 GB, lista os dois, e é o plano para comparar com o Single quando o site precisa de endereço próprio."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Plano",
+            "Sites",
+            "Espaço",
+            "Domínio",
+            "E-mail",
+            "SSL"
+          ],
+          "rows": [
+            [
+              "[Hostinger Single](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+              "1",
+              "10 GB SSD",
+              "Grátis",
+              "Grátis por 1 ano",
+              "Não listado"
+            ],
+            [
+              "GoDaddy Inicial",
+              "1",
+              "10 GB NVMe",
+              "Não listado",
+              "Não listado",
+              "Não listado"
+            ],
+            [
+              "GoDaddy Economy",
+              "1",
+              "25 GB",
+              "Grátis",
+              "Grátis por 1 ano",
+              "Por 1 ano"
+            ]
+          ]
+        }
+      },
+      {
+        "heading": "Hostinger: o preço com o SONAR20",
+        "paragraphs": [
+          "O SONAR20 soma com a Black Friday: no carrinho, o Single de 48 meses caiu de R$ 287,52 para R$ 230,02. O código dá 20% numa compra nova e não vale na renovação.",
+          "Conta nossa: 20% sobre o preço de página, na mesma regra para os outros planos. Só o Single foi conferido no carrinho; os demais saem pela mesma conta."
+        ],
+        "comparisonTable": {
+          "caption": "Preços da Hostinger em 06/11, em reais. A coluna com SONAR20 é a nossa conta.",
+          "headers": [
+            "Plano",
+            "Página, por mês (48 meses)",
+            "Com SONAR20, por mês",
+            "Com SONAR20, total de 48 meses",
+            "Renovação, por mês"
+          ],
+          "rows": [
+            [
+              "[Single](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+              "R$ 5,99",
+              "R$ 4,79",
+              "R$ 230,02",
+              "R$ 23,99"
+            ],
+            [
+              "[Premium](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+              "R$ 9,99",
+              "R$ 7,99",
+              "R$ 383,62",
+              "R$ 38,99"
+            ],
+            [
+              "[Unlimited](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+              "R$ 12,99",
+              "R$ 10,39",
+              "R$ 498,82",
+              "R$ 64,99"
+            ],
+            [
+              "[Cloud Startup](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20)",
+              "R$ 39,99",
+              "R$ 31,99",
+              "R$ 1.535,62",
+              "R$ 129,99"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Na renovação, vale a última coluna, sem o SONAR20. As regras do código estão em [cupom Hostinger](/cupons/hostinger)."
+        ]
+      },
+      {
+        "heading": "Em 4 anos, com a renovação",
+        "paragraphs": [
+          "A Hostinger ganha: 48 meses pagos de uma vez cobrem os quatro anos, sem renovação dentro desse prazo. A GoDaddy só chega a 4 anos com três renovações de um ano, cada uma no preço de lista."
+        ],
+        "comparisonTable": {
+          "headers": [
+            "Opção",
+            "1º período",
+            "Renovação por ano",
+            "Total em 4 anos"
+          ],
+          "rows": [
+            [
+              "Hostinger Single, 48 meses, com SONAR20",
+              "R$ 230,02, de uma vez",
+              "Não entra nos 4 anos",
+              "R$ 230,02"
+            ],
+            [
+              "GoDaddy Inicial",
+              "R$ 95,88",
+              "R$ 275,88",
+              "R$ 923,52"
+            ],
+            [
+              "GoDaddy Economy",
+              "R$ 119,88",
+              "R$ 599,88",
+              "R$ 1.919,52"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "A conta da GoDaddy não soma os extras do Economy depois do primeiro ano, então o total dela é o piso. Os planos Deluxe e Ultimate, para vários sites, ficam de fora: a renovação deles não foi conferida no carrinho."
+        ],
+        "image": {
+          "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-pt.webp",
+          "alt": "Gráfico de barras com o preço por mês dos planos da Hostinger no primeiro período e na renovação: Single, Premium, Unlimited e Cloud Startup na hospedagem, e KVM 1, 2, 4 e 8 no VPS; em todos, a renovação é mais cara",
+          "caption": "Preço por mês de cada plano da Hostinger no primeiro período e na renovação. Quadro do Em Casa com Cecília, pelos preços da página da Hostinger.",
+          "objectFit": "contain",
+          "aspectRatio": 1
+        }
+      },
+      {
+        "heading": "No 1º ano, a GoDaddy Inicial ganha",
+        "paragraphs": [
+          "No primeiro ano, o Inicial custa R$ 19,22 a menos que o Single com o SONAR20: aqui, a GoDaddy ganha. O que falta nele é domínio, e-mail e SSL, que a lista do plano não traz.",
+          "O Single de 12 meses custa R$ 143,88 na página e R$ 115,10 com o SONAR20. A Economy de 12 meses custa R$ 119,88 e já vem com domínio, e-mail e SSL na lista: fica R$ 4,78 acima do Single com o cupom.",
+          "Depois do 1º ano, a GoDaddy segue na frente por pouco: o Inicial renova por R$ 275,88 por ano, e o Single, por R$ 287,88."
+        ]
+      },
+      {
+        "heading": "Reembolso: 30 dias contra 7",
+        "paragraphs": [
+          "A loja informa: a Hostinger aceita pedido de reembolso em até 30 dias da compra, e a GoDaddy, em 7 dias. Para testar o painel e montar o site antes de decidir, os 30 dias da Hostinger dão mais folga."
+        ]
+      },
+      {
+        "heading": "O que vem no plano de entrada",
+        "paragraphs": [
+          "No Single, a lista traz também backup semanal e CDN; a página não lista SSL. No Inicial da GoDaddy, o cPanel vem junto com o espaço, e o resto fica de fora da lista.",
+          "No Economy, o carrinho dá o e-mail e o SSL de graça por um ano. Depois, o SSL renova sozinho por R$ 429,99 por ano, e o e-mail deixa de ser grátis; a conta de 4 anos da tabela não soma nenhum dos dois."
+        ]
+      },
+      {
+        "heading": "Qual escolher: o veredito",
+        "paragraphs": [
+          "Escolha a Hostinger se o site vai ficar no ar 4 anos: o Single com o SONAR20 custa R$ 230,02 para os quatro, contra R$ 923,52 do Inicial e R$ 1.919,52 do Economy, e traz domínio e e-mail na lista.",
+          "Escolha a GoDaddy Inicial se o projeto é de 1 ano e você não precisa de domínio nem de e-mail: é o mais barato no primeiro período, com R$ 19,22 de vantagem sobre o Single com o SONAR20. Depois, o Inicial fica R$ 12 por ano abaixo da renovação do Single.",
+          "Escolha a GoDaddy Economy se quer domínio, e-mail e SSL na lista e aceita renovar por R$ 599,88 por ano, mais que o dobro do Single.",
+          "Nos três casos, confira a renovação no carrinho antes de pagar: as promoções podem mudar."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Qual é melhor, Hostinger ou GoDaddy? Depende do prazo. No 1º ano, a GoDaddy Inicial custa menos; em 4 anos, a Hostinger Single com o SONAR20 custa menos que as duas GoDaddy da conta. A comparação com a HostGator está em [Hostinger ou HostGator](/reviews/hostinger-ou-hostgator).",
+          "A GoDaddy renova pelo mesmo preço? Não. No carrinho, o plano de 1 ano volta ao preço de lista depois do primeiro ano: quase o triplo no Inicial e cinco vezes no Economy. Os valores estão na tabela de 4 anos.",
+          "O cupom da Hostinger vale na renovação? Não: o SONAR20 vale só na compra nova. Para a renovação, veja o [guia de renovação da Hostinger](/reviews/hostinger-renovacao-cupom-sonar20).",
+          "Dá para levar o site da GoDaddy para a Hostinger? A página de ajuda da Hostinger diz que a migração grátis vale para site de outra empresa nos planos Web, Cloud ou Agency; confira o seu plano no suporte antes de cancelar o antigo."
+        ]
+      },
+      {
+        "heading": "Quem escreve",
+        "paragraphs": [
+          "O Em Casa com Cecília roda na Hostinger, e o domínio está registrado lá desde 2024. Sobre a GoDaddy, o texto usa o que a página brasileira e o carrinho mostram."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Hostinger se o site vai ficar no ar 4 anos: o Single com o SONAR20 cobre o período com uma compra só.",
+        "Leve a Hostinger se quer domínio e e-mail na lista do plano de entrada, com backup semanal."
+      ],
+      "skipIf": [
+        "Passe para a GoDaddy Inicial se o projeto é de 1 ano e não precisa de domínio nem de e-mail: é o mais barato nesse período.",
+        "Passe para a GoDaddy Economy se quer domínio, e-mail e SSL na lista e aceita renovar a quase 600 reais por ano."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% em compra nova. Na renovação, o código não vale.",
+      "label": "Ver os planos com o SONAR20",
+      "url": "https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20",
+      "sponsored": true
+    },
+    "coupon": "SONAR20",
+    "affiliate": "hostinger",
+    "editorialNote": "Compras com o código SONAR20 ou pelo link podem gerar comissão para o Bruno. Ninguém da equipe usou a GoDaddy.",
+    "relatedArticles": [
+      {
+        "slug": "hostinger-renovacao-cupom-sonar20"
+      },
+      {
+        "slug": "hostinger-ou-hostgator"
+      },
+      {
+        "slug": "cupom-hostinger-indicacao"
+      },
+      {
+        "slug": "hostinger-e-confiavel"
+      },
+      {
+        "slug": "dominio-hostinger-comprar-transferir-ou-fora"
+      },
+      {
+        "slug": "vps-ou-hospedagem-compartilhada-qual-escolher"
+      }
+    ]
   }
 ];
