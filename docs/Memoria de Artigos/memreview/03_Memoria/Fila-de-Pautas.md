@@ -16,7 +16,6 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
-| F11 | Toda Up ou Intimissimi: fita, sutiã adesivo e protetor de mamilo | Toda Up | PT | [[toda-up-ou-intimissimi]] | Redigida (a partir do rascunho da sessão de pautas) e no Job 3 (Fable 5.1, 6 ajustes aplicados) em 06/11, capa C aprovada pelo Bruno. As fotos da capa A (sutiã fechando na frente e protetor sendo colado) ficam para outra capa. Falta o deploy |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
