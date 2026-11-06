@@ -29579,7 +29579,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 2 de novembro de 2026.",
+      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 6 de novembro de 2026.",
       "label": "Ver cupons ativos da YesStyle",
       "url": "/cupons/yesstyle",
       "sponsored": false
@@ -37133,7 +37133,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "On our page, the YesStyle coupon list was checked on November 2, 2026.",
+      "text": "On our page, the YesStyle coupon list was checked on November 6, 2026.",
       "label": "View Active YesStyle Coupons",
       "url": "/en/coupons/yesstyle",
       "sponsored": false
@@ -37355,7 +37355,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 2 de noviembre de 2026.",
+      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 6 de noviembre de 2026.",
       "label": "Ver cupones activos de YesStyle",
       "url": "/es/coupons/yesstyle",
       "sponsored": false
@@ -37577,7 +37577,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 2 novembre 2026.",
+      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 6 novembre 2026.",
       "label": "Voir les coupons YesStyle actifs",
       "url": "/fr/coupons/yesstyle",
       "sponsored": false
@@ -37799,7 +37799,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 2. November 2026 geprüft.",
+      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 6. November 2026 geprüft.",
       "label": "Aktive YesStyle-Gutscheine ansehen",
       "url": "/de/coupons/yesstyle",
       "sponsored": false
@@ -38021,7 +38021,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 2일에 확인했습니다.",
+      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 6일에 확인했습니다.",
       "label": "사용 가능한 YesStyle 쿠폰 보기",
       "url": "/ko/coupons/yesstyle",
       "sponsored": false
@@ -38243,7 +38243,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "当サイトのYesStyleクーポン一覧は2026年11月2日に確認しました。",
+      "text": "当サイトのYesStyleクーポン一覧は2026年11月6日に確認しました。",
       "label": "利用できるYesStyleクーポンを見る",
       "url": "/ja/coupons/yesstyle",
       "sponsored": false
@@ -38465,7 +38465,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站頁面的 YesStyle 優惠碼列表於2026年11月2日核對。",
+      "text": "本站頁面的 YesStyle 優惠碼列表於2026年11月6日核對。",
       "label": "查看 YesStyle 優惠碼",
       "url": "/zh-hant/coupons/yesstyle",
       "sponsored": false
@@ -38687,7 +38687,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站页面的 YesStyle 优惠码列表于2026年11月2日核对。",
+      "text": "本站页面的 YesStyle 优惠码列表于2026年11月6日核对。",
       "label": "查看 YesStyle 优惠码",
       "url": "/zh-hans/coupons/yesstyle",
       "sponsored": false
@@ -39093,7 +39093,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva: a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo \"Os produtos da YesStyle são originais?\". Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 2 de novembro de 2026."
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva: a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo \"Os produtos da YesStyle são originais?\". Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 6 de novembro de 2026."
         ]
       },
       {
@@ -40172,7 +40172,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle is legitimate: it is a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The caveat: the store itself declares that its products are authentic, with no independent audit, so check the batch number, expiry date and seal when your order arrives. Those checks are in the chapter \"Are YesStyle products authentic? Where is YesStyle from?\". To shop with a discount, see the [YesStyle coupons](/en/coupons/yesstyle), checked on November 2, 2026."
+          "Yes, YesStyle is legitimate: it is a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The caveat: the store itself declares that its products are authentic, with no independent audit, so check the batch number, expiry date and seal when your order arrives. Those checks are in the chapter \"Are YesStyle products authentic? Where is YesStyle from?\". To shop with a discount, see the [YesStyle coupons](/en/coupons/yesstyle), checked on November 6, 2026."
         ]
       },
       {
@@ -40315,7 +40315,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle es legítima: es una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, que cotiza en bolsa. La salvedad: la originalidad de los productos la declara la propia tienda, sin auditoría independiente, así que comprueba el lote, la caducidad y el precinto al recibir el pedido. Las comprobaciones están en el capítulo \"¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?\". Para comprar con descuento, mira los [cupones de YesStyle](/es/coupons/yesstyle), comprobados el 2 de noviembre de 2026."
+          "Sí, YesStyle es legítima: es una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, que cotiza en bolsa. La salvedad: la originalidad de los productos la declara la propia tienda, sin auditoría independiente, así que comprueba el lote, la caducidad y el precinto al recibir el pedido. Las comprobaciones están en el capítulo \"¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?\". Para comprar con descuento, mira los [cupones de YesStyle](/es/coupons/yesstyle), comprobados el 6 de noviembre de 2026."
         ]
       },
       {
@@ -40457,7 +40457,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. La réserve : l'authenticité des produits est déclarée par la boutique elle-même, sans audit indépendant ; vérifiez donc le lot, la date de péremption et le scellé à la réception. Ces vérifications figurent dans le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour acheter avec une réduction, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 2 novembre 2026."
+          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. La réserve : l'authenticité des produits est déclarée par la boutique elle-même, sans audit indépendant ; vérifiez donc le lot, la date de péremption et le scellé à la réception. Ces vérifications figurent dans le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour acheter avec une réduction, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 6 novembre 2026."
         ]
       },
       {
@@ -40599,7 +40599,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Der Vorbehalt: Die Echtheit der Produkte erklärt der Shop selbst, ohne unabhängige Prüfung. Kontrollieren Sie deshalb beim Empfang Charge, Haltbarkeitsdatum und Siegel. Die Kontrollen stehen im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“. Um mit Rabatt zu kaufen, sehen Sie sich die [YesStyle-Gutscheine](/de/coupons/yesstyle) an, geprüft am 2. November 2026."
+          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Der Vorbehalt: Die Echtheit der Produkte erklärt der Shop selbst, ohne unabhängige Prüfung. Kontrollieren Sie deshalb beim Empfang Charge, Haltbarkeitsdatum und Siegel. Die Kontrollen stehen im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“. Um mit Rabatt zu kaufen, sehen Sie sich die [YesStyle-Gutscheine](/de/coupons/yesstyle) an, geprüft am 6. November 2026."
         ]
       },
       {
@@ -40741,7 +40741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "먼저 결론부터",
         "paragraphs": [
-          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년에 설립된 홍콩 기업이며, 상장사인 YesAsia Holdings가 지배하고 있습니다. 다만 제품이 정품이라는 것은 매장의 자체 설명일 뿐 독립적인 감사는 없으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 확인 방법은 \"YesStyle 제품은 정품일까? YesStyle은 어느 나라 회사일까?\" 장에 있습니다. 할인받아 사고 싶다면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 보세요. 확인일은 2026년 11월 2일입니다."
+          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년에 설립된 홍콩 기업이며, 상장사인 YesAsia Holdings가 지배하고 있습니다. 다만 제품이 정품이라는 것은 매장의 자체 설명일 뿐 독립적인 감사는 없으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 확인 방법은 \"YesStyle 제품은 정품일까? YesStyle은 어느 나라 회사일까?\" 장에 있습니다. 할인받아 사고 싶다면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 보세요. 확인일은 2026년 11월 6일입니다."
         ]
       },
       {
@@ -40883,7 +40883,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "はい、YesStyleは実在する正規の会社です。2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営しています。ただし、商品が本物かどうかは店側の自己申告で、第三者の監査はありません。届いたらロット番号、使用期限、封の状態を確認してください。確認方法は「YesStyleの商品は本物？ YesStyleはどこの会社？」の章にあります。割引で買うなら[YesStyleのクーポン](/ja/coupons/yesstyle)をどうぞ。確認日は2026年11月2日です。"
+          "はい、YesStyleは実在する正規の会社です。2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営しています。ただし、商品が本物かどうかは店側の自己申告で、第三者の監査はありません。届いたらロット番号、使用期限、封の状態を確認してください。確認方法は「YesStyleの商品は本物？ YesStyleはどこの会社？」の章にあります。割引で買うなら[YesStyleのクーポン](/ja/coupons/yesstyle)をどうぞ。確認日は2026年11月6日です。"
         ]
       },
       {
@@ -41025,7 +41025,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。要留意的是，商品是否為正品只是店家自己的說法，並沒有獨立機構稽核，所以收到商品時請檢查批號、有效期限與封條。檢查方式見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想用優惠購買，可以看 [YesStyle 優惠券](/zh-hant/coupons/yesstyle)，確認日期為 2026年11月2日。"
+          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。要留意的是，商品是否為正品只是店家自己的說法，並沒有獨立機構稽核，所以收到商品時請檢查批號、有效期限與封條。檢查方式見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想用優惠購買，可以看 [YesStyle 優惠券](/zh-hant/coupons/yesstyle)，確認日期為 2026年11月6日。"
         ]
       },
       {
@@ -41167,7 +41167,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。需要注意的是，商品是否正品只是店家自己的说法，没有独立机构审核，所以收货时请核对批号、有效期和封条。核对方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，可以看 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)，核对日期为 2026年11月2日。"
+          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。需要注意的是，商品是否正品只是店家自己的说法，没有独立机构审核，所以收货时请核对批号、有效期和封条。核对方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，可以看 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)，核对日期为 2026年11月6日。"
         ]
       },
       {
@@ -49542,7 +49542,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 2 novembre 2026.",
+      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 6 novembre 2026.",
       "label": "Vedi i coupon YesStyle attivi",
       "url": "/it/coupons/yesstyle",
       "sponsored": false
@@ -49734,7 +49734,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. La riserva: l'originalità dei prodotti è dichiarata dal negozio stesso, senza audit indipendente, quindi controlla lotto, scadenza e sigillo alla consegna. I controlli sono nel capitolo \"I prodotti YesStyle sono originali? Da dove viene YesStyle?\". Per comprare con lo sconto, guarda i [coupon YesStyle](/it/coupons/yesstyle), verificati il 2 novembre 2026."
+          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. La riserva: l'originalità dei prodotti è dichiarata dal negozio stesso, senza audit indipendente, quindi controlla lotto, scadenza e sigillo alla consegna. I controlli sono nel capitolo \"I prodotti YesStyle sono originali? Da dove viene YesStyle?\". Per comprare con lo sconto, guarda i [coupon YesStyle](/it/coupons/yesstyle), verificati il 6 novembre 2026."
         ]
       },
       {
@@ -190367,6 +190367,240 @@ export const reviewsData: unknown[] = [
           "O cupom dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. O carrinho mostra o valor de cada item.",
           "A Probiótica é confiável? É, e os detalhes estão no [guia de confiabilidade da marca](/reviews/probiotica-e-confiavel)."
         ]
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "slug": "camiseta-insider-encolhe-como-lavar",
+    "locale": "pt",
+    "title": "Camiseta Insider encolhe? Como lavar e tirar a mancha da axila",
+    "seoTitle": "Camiseta Insider encolhe? Como lavar e tirar mancha",
+    "type": "Guia de Cuidados",
+    "category": "produtos-experiencias",
+    "reviewKind": "guia",
+    "author": {
+      "name": "Cecília Mauad",
+      "slug": "cecilia-mauad",
+      "role": "Em Casa com Cecília",
+      "initials": "CM",
+      "url": "/sobre"
+    },
+    "description": "A Insider publica quanto cada linha pode encolher. Aqui, a tabela, como lavar a Tech e a Perfect Top, e o vídeo em que o amarelo e o cheiro de suor saíram sem sabão.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% na Insider. Veja quanto cada linha pode encolher, como lavar e a mancha e o suor que saíram sem sabão no vídeo.",
+    "publishedAt": "6 de novembro de 2026",
+    "publishedAtISO": "2026-11-06",
+    "draft": false,
+    "isNew": true,
+    "image": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-capa.webp",
+    "imageAlt": "Blusa de Alça The Perfect Top e Tech T-Shirt da Insider, com o logo da Insider e o título Camiseta Insider encolhe?",
+    "imageFit": "contain",
+    "imageAspect": "landscape",
+    "contentSections": [
+      {
+        "heading": "Resposta rápida",
+        "paragraphs": [
+          "Pode encolher: a Insider publica um limite por linha, de 3% na Perfect Top a 8% na Tech. Lave pela etiqueta e escolha o tamanho antes, porque a troca não aceita peça lavada. No vídeo, uma Perfect Top saiu da máquina sem o amarelo da axila e sem o cheiro de suor, sem sabão e sem esfregar."
+        ]
+      },
+      {
+        "heading": "Quanto cada linha pode encolher",
+        "paragraphs": [
+          "A Perfect Top é a linha que menos pode encolher; a Tech, a Core e a Oversized são as que mais. A tabela traz o limite de cada linha, com a água e a secadora que a etiqueta pede. É o máximo publicado pela marca, não o que a sua peça vai encolher."
+        ],
+        "comparisonTable": {
+          "caption": "Limite de encolhimento por linha, na central de ajuda da Insider",
+          "headers": [
+            "Linha",
+            "Água",
+            "Secadora",
+            "Pode encolher até"
+          ],
+          "rows": [
+            [
+              "Core T-Shirt",
+              "abaixo de 40 °C",
+              "não",
+              "8%"
+            ],
+            [
+              "Camiseta Básica Tech Daily",
+              "abaixo de 40 °C",
+              "não",
+              "4%"
+            ],
+            [
+              "Tech Heavy e Heavy Slim",
+              "abaixo de 40 °C",
+              "não",
+              "5%"
+            ],
+            [
+              "Oversized T-Shirt",
+              "abaixo de 30 °C",
+              "sim, em baixa temperatura",
+              "8%"
+            ],
+            [
+              "Performance T-Shirt 2.0",
+              "abaixo de 30 °C",
+              "não",
+              "7%"
+            ],
+            [
+              "Tech T-Shirt",
+              "abaixo de 30 °C",
+              "não",
+              "8%"
+            ],
+            [
+              "The Perfect Top",
+              "abaixo de 30 °C",
+              "sim, em baixa temperatura",
+              "3%"
+            ]
+          ]
+        },
+        "postParagraphs": [
+          "Para escolher o tamanho antes de comprar, a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider) mostra as medidas de cada peça."
+        ]
+      },
+      {
+        "heading": "Perfect Top: como lavar",
+        "paragraphs": [
+          "A Perfect Top aceita secadora em baixa temperatura, e é isso que a separa da Tech. O resto do cuidado é o da central de ajuda:"
+        ],
+        "bullets": [
+          "Lavar do avesso, no ciclo delicado, em água abaixo de 30 °C, com sabão neutro.",
+          "Sem alvejante nem amaciante. Não limpar a seco.",
+          "Não deixar de molho, não torcer e não guardar molhada.",
+          "Evitar superfícies abrasivas, que puxam fio ou formam bolinha.",
+          "Secar à sombra, no varal, ou na secadora em baixa temperatura. Não precisa passar."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/insider/selecao-insider-the-perfect-top.webp",
+            "alt": "Blusa de Alça Feminina The Perfect Top, foto oficial da Insider",
+            "caption": "A Blusa de Alça The Perfect Top, a peça do vídeo. Foto: Insider.",
+            "objectFit": "contain",
+            "href": "https://creators.insiderstore.com.br/3tQNigp"
+          }
+        ]
+      },
+      {
+        "heading": "Tech T-Shirt: como lavar e a garantia de cor",
+        "paragraphs": [
+          "A Tech não vai na secadora. A central pede que a peça seque à sombra, de preferência no varal."
+        ],
+        "bullets": [
+          "Lavar do avesso, no ciclo delicado, em água fria abaixo de 30 °C.",
+          "Sem molho, sem torcer e sem guardar molhada.",
+          "Sem alvejante nem amaciante, e sem limpeza a seco.",
+          "Evitar prendedores e cabides enquanto a peça estiver úmida.",
+          "Passar é opcional, até 110 °C, sem vapor."
+        ],
+        "postParagraphs": [
+          "A Tech tem garantia de cor de 2 anos, com a etiqueta seguida e “considerando uma lavagem por semana”. Ela cobre só o desbotamento, não o encolhimento."
+        ]
+      },
+      {
+        "heading": "O que o vídeo mostra",
+        "paragraphs": [
+          "Usei: a Blusa de Alça The Perfect Top branca, que comprei, com a costura embaixo do braço amarelada e com cheiro de suor. A peça foi para a máquina a 30 °C, sem esfregar e sem sabão nenhum, dentro da sacola de lavar em que a Insider entrega o produto: não precisa comprar outra.",
+          "O vídeo mostra o antes e o depois em tela dividida: depois da lavagem, a peça está branca, sem o amarelo. O cheiro de suor também saiu, sem nenhum produto. No fim, fica o aviso: não é toda roupa que faz isso.",
+          "A etiqueta da Perfect Top pede sabão neutro e água abaixo de 30 °C: no dia a dia, siga a etiqueta. O vídeo mostra o que uma lavagem sem sabão fez nessa peça, não um método. Não medi a peça antes e depois, então ele não responde se ela encolheu; o limite da linha está na tabela."
+        ],
+        "links": [
+          {
+            "label": "Como Tirar Manchas da Roupa SEM Esfregar! Antes e Depois de Verdade!",
+            "href": "https://www.youtube.com/shorts/SfeEn4GjNeA"
+          }
+        ],
+        "video": {
+          "mp4": "/videos/reviews/insider/camiseta-insider-encolhe-como-lavar-loop.mp4",
+          "poster": "/images/reviews/insider/camiseta-insider-encolhe-como-lavar-loop-poster.webp",
+          "alt": "Cecília mostra a Blusa de Alça The Perfect Top lavada a 30 °C, sem sabão, e a costura da axila sem o amarelo",
+          "aspect": "portrait"
+        }
+      },
+      {
+        "heading": "Mancha amarela na axila: o que a marca explica",
+        "paragraphs": [
+          "A central de ajuda diz que essa mancha é comum. Ela vem da combinação de suor, oleosidade e resíduos de antitranspirante com alumínio, e a marca diz que não é defeito da peça.",
+          "Para reduzir, a central indica quatro coisas:"
+        ],
+        "bullets": [
+          "Usar menos antitranspirante.",
+          "Esperar o antitranspirante secar antes de vestir a peça.",
+          "Lavar com regularidade.",
+          "Preferir antitranspirante sem alumínio."
+        ]
+      },
+      {
+        "heading": "Odor: o cheiro de suor saiu sem produto",
+        "paragraphs": [
+          "Na Perfect Top do vídeo, o cheiro de suor saiu na lavagem, sem sabão e sem nenhum produto. É o resultado de uma peça, não uma garantia para todas.",
+          "No papel, a marca só promete antiodor na Tech: a loja diz que o modal segura as bactérias do mau cheiro, e não diz por quantas lavagens isso dura. A página da Perfect Top não fala em antiodor."
+        ]
+      },
+      {
+        "heading": "Trocar depois de lavar não dá",
+        "paragraphs": [
+          "Peça lavada não volta: a troca por tamanho ou por insatisfação tem 21 dias corridos, e exige a peça sem uso, com a etiqueta e sem sinal de lavagem. O arrependimento vale por 7 dias úteis.",
+          "Então não dá para lavar, ver se encolhe e trocar. O tamanho se escolhe antes, pela tabela de medidas.",
+          "A central não descreve encolhimento como defeito. Se a peça encolher, pergunte ao atendimento pelo WhatsApp antes de contar com a troca. Para uma peça nova, o [cupom Insider](/cupons/insider) vale na loja online. A política de troca inteira está em [Insider Store é confiável?](/reviews/insider-store-e-confiavel)."
+        ]
+      },
+      {
+        "heading": "Perguntas frequentes",
+        "bullets": [
+          "Camiseta Insider encolhe? Pode. A Insider publica um limite por linha, e a tabela de “Quanto cada linha pode encolher” traz o de cada uma.",
+          "Camiseta Insider encolhe na secadora? A marca só libera a secadora, em baixa temperatura, na Perfect Top e na Oversized; nas outras, a Tech inclusive, ela pede varal à sombra. A tabela do início traz cada linha.",
+          "Como lavar camiseta Insider? Depende da linha: a água vai de abaixo de 30 °C a abaixo de 40 °C, e só a Perfect Top e a Oversized aceitam secadora. A Perfect Top e a Tech pedem ciclo delicado, sem alvejante nem amaciante e sem torcer; o passo a passo está nos capítulos de lavagem.",
+          "Como tirar mancha da camiseta Insider? No vídeo, a costura amarela da axila de uma Perfect Top saiu só na máquina, a 30 °C, sem sabão e sem esfregar, e o cheiro de suor também. O capítulo de mancha traz o que a central indica para reduzir.",
+          "Camiseta Insider mancha de desodorante? Pode amarelar a axila: a marca explica que a mancha vem do suor, da oleosidade e do antitranspirante com alumínio, e não é defeito da peça. As quatro dicas para reduzir estão no capítulo da mancha."
+        ]
+      }
+    ],
+    "decision": {
+      "takeIf": [
+        "Leve a Perfect Top se a secadora faz parte da sua rotina: ela aceita baixa temperatura, e a Tech não.",
+        "Leve a Tech se a garantia de cor por escrito pesa mais que a secadora, e você segue a etiqueta."
+      ],
+      "skipIf": [
+        "Passe na Perfect Top se o plano é a secadora em temperatura alta: a central só aceita baixa.",
+        "Passe na Tech se conta com a garantia para o encolhimento: ela cobre só o desbotamento."
+      ]
+    },
+    "pros": [],
+    "cons": [],
+    "cta": {
+      "text": "Se a Insider faz sentido para você, entre pelo link da parceria: o cupom EMCASACOMCECILIA já vai para o carrinho. Confira o desconto em cada item antes de pagar.",
+      "label": "Ir para a Insider com o cupom",
+      "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
+      "sponsored": true
+    },
+    "coupon": "EMCASACOMCECILIA",
+    "affiliate": "insider",
+    "editorialNote": "Podemos receber comissão pelo cupom e pelos links. A Cecília comprou e usou a Blusa de Alça The Perfect Top do vídeo; as outras peças não foram testadas.",
+    "relatedArticles": [
+      {
+        "slug": "camiseta-insider-qual-escolher"
+      },
+      {
+        "slug": "camiseta-feminina-insider-qual-escolher"
+      },
+      {
+        "slug": "tabela-de-medidas-insider"
+      },
+      {
+        "slug": "insider-store-e-confiavel"
+      },
+      {
+        "slug": "insider-vale-a-pena"
+      },
+      {
+        "slug": "cupom-emcasacomcecilia-insider-store-como-usar"
       }
     ]
   }
