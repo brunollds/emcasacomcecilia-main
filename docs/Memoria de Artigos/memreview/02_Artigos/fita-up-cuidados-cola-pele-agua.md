@@ -8,9 +8,9 @@ category: "guias-praticos-utilidade"
 reviewKind: "guia"
 type: "Guia Prático"
 anexo_tipo: "nenhum"
-status: "pauta-aprovada"
+status: "publicado"
 responsavel: "Claude"
-proxima_acao: "deploy"
+proxima_acao: null
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 55
