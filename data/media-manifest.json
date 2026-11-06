@@ -109834,6 +109834,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/toda-up-ou-intimissimi-capa.webp",
+      "local_url": "/images/reviews/toda-up/toda-up-ou-intimissimi-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 76438,
+      "sha256": "55dd48dd2522ac985e3b1d8871a7484c88530eb98328d6c4878b53caa0f383ec",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "toda-up-ou-intimissimi-capa.webp",
+      "storage_filename": "toda-up-ou-intimissimi-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/toda-up-ou-intimissimi.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/toda-up-ou-intimissimi.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/toda-up-ou-intimissimi-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 191797,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/toda-up-ou-intimissimi-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/55dd48dd2522ac985e3b1d8871a7484c88530eb98328d6c4878b53caa0f383ec/toda-up-ou-intimissimi-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/55dd48dd2522ac985e3b1d8871a7484c88530eb98328d6c4878b53caa0f383ec/toda-up-ou-intimissimi-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T18:11:58.710Z",
+      "verification_etag_or_digest": "55dd48dd2522ac985e3b1d8871a7484c88530eb98328d6c4878b53caa0f383ec",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp",
       "local_url": "/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp",
       "media_kind": "image",
