@@ -129909,7 +129909,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Fita Up é a fita adesiva para seios da Toda Up, a marca que antes se chamava Fita Up. O passo a passo da marca é um só para o tomara que caia e o decote, e a largura, P, M ou G, segue o guia de tamanhos da página. Dá para reutilizar, mas a marca não recomenda: a fita perde cola a cada uso."
+          "A Fita Up é a fita adesiva para seios da Toda Up, a marca que antes se chamava Fita Up. O passo a passo é um só para o tomara que caia e o decote, e a largura, P, M ou G, segue o guia de tamanhos. Dá para reutilizar, mas a marca não recomenda: a fita perde cola."
         ]
       },
       {
