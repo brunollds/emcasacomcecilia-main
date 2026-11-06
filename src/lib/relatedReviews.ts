@@ -10,17 +10,30 @@ export type RelatedCandidate = {
   publishedAtISO?: string;
   draft?: boolean;
   hideFromPortugueseListings?: boolean;
+  relatedArticles?: ReadonlyArray<{ slug: string }>;
 };
 
 // Sem importar '@/lib/data': quem chama passa o corpus.
+// Ordem: mesma loja; depois os do relatedArticles do artigo, na ordem do JSON (o mesmo slug, no mesmo idioma, que o
+// resolveRelatedArticleLinks usa na sidebar); depois categoria, tipo e data.
 export function pickRelatedReviews<T extends RelatedCandidate>(current: T, corpus: readonly T[], limit = 6): T[] {
   const locale = resolveReviewLocale(current.locale);
+  const listed = (current.relatedArticles ?? []).map(({ slug }) => slug);
+  const listedRank = (item: T) => {
+    const index = listed.indexOf(item.slug);
+    return index === -1 ? listed.length : index;
+  };
   const same = (value: string | undefined, other: string | undefined) => Number(Boolean(value) && value === other);
-  const score = (item: T) => [
-    same(current.affiliate, item.affiliate),
-    same(current.category, item.category),
-    same(current.type, item.type),
-  ];
+  // Dentro da mesma loja, a ordem segue a de sempre; a lista só passa à frente da regra fora dela.
+  const score = (item: T) => {
+    const sameStore = same(current.affiliate, item.affiliate);
+    return [
+      sameStore,
+      sameStore ? 0 : listed.length - listedRank(item),
+      same(current.category, item.category),
+      same(current.type, item.type),
+    ];
+  };
 
   return corpus
     .filter((item) => item.id !== current.id && !item.draft && resolveReviewLocale(item.locale) === locale)

@@ -49,6 +49,7 @@ import { SITE_NAME, SITE_SOCIAL_IMAGE, getStoreSocialImage, type SocialImage } f
 import { splitInlineMarkdown } from '../src/lib/inlineMarkdown';
 import { REVIEW_HUB_LOCALES, getInternationalReviewHub, getPublishedReviewsForLocale } from '../src/lib/review-hubs';
 import { pickRelatedReviews } from '../src/lib/relatedReviews';
+import { relatedOrderProblem } from './related-order';
 import { getOthersShelfContent, getReviewsHubContent, getStoreShelfContent } from '../src/lib/reviewsHub';
 import { GRID_PAGE_SIZE } from '../src/lib/reviewsShelf';
 import { getYoutubeEmbedUrl, getYoutubeVideoId } from '../src/lib/video-metadata';
@@ -1274,7 +1275,8 @@ function bodyCitesCode(review: Review, code: string): boolean {
 // - A caixa da Cecília leva à /sobre em português e à home do idioma nos outros.
 // - A caixa do Bruno (só nos artigos em que ele assina) vem logo depois da da Cecília; em português leva só o link do
 //   Sonar de Ofertas, e nos outros idiomas não tem link nenhum.
-// - Os relacionados são os de pickRelatedReviews, na ordem, e o "Ver todos" leva à subpágina da loja ou à lista
+// - Os relacionados são os de pickRelatedReviews, na ordem (mesma loja, depois o relatedArticles do JSON, depois
+//   categoria, tipo e data), e o "Ver todos" leva à subpágina da loja ou à lista
 //   de guias do idioma.
 type ArticleEndExpectation = {
   locale: Locale;
@@ -1674,7 +1676,11 @@ for (const url of articleUrls) {
     !storeBlock && review.cta?.url && review.cta.label
       ? { url: review.cta.url, label: review.cta.label, text: review.cta.text, sponsored: review.cta.sponsored ?? hasCommercialRelationship }
       : null;
-  const related = pickRelatedReviews(review, publishedReviews).map(getReviewCanonicalPathname);
+  const relatedReviews = pickRelatedReviews(review, publishedReviews);
+  // Mesma loja primeiro; logo depois, os do relatedArticles na ordem do JSON (o articleEndProblems confere o HTML nesta ordem).
+  const relatedOrder = relatedOrderProblem(review, relatedReviews);
+  assert.equal(relatedOrder, null, `${pagePath}: ${relatedOrder}`);
+  const related = relatedReviews.map(getReviewCanonicalPathname);
   const hasBrunoBox = Boolean(review.authors?.some((author) => author.slug === 'bruno-luiz'));
   assert.equal(
     hasBrunoBox,
