@@ -16,7 +16,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
-| F3 | Fita Up não cola ou descola? Pele, alergia, suor, água e quanto dura (com a F2 e a F5 dentro) | Toda Up | PT | [[fita-up-cuidados-cola-pele-agua]] | Pronta para redação: fatos lidos no Chrome em 06/11. Na água, só o que a marca diz ("resistente à água e ao suor"); piscina e mar ficam sem conclusão |
+| F3 | Fita Up não cola ou descola? Pele, alergia, suor, água e quanto dura (com a F2 e a F5 dentro) | Toda Up | PT | [[fita-up-cuidados-cola-pele-agua]] | Redigida e no Job 3 (Fable 5.1, 6 ajustes aplicados) em 06/11, capa B aprovada pelo Bruno. Falta o deploy |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 

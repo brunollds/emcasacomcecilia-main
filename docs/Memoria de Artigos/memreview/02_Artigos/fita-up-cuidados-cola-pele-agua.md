@@ -10,7 +10,7 @@ type: "Guia Prático"
 anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
-proxima_acao: "redacao (Job 2)"
+proxima_acao: "deploy"
 bloqueado_por: null
 score_autoridade: 70
 score_conversao: 55
@@ -145,3 +145,12 @@ Total: 76.
 8. **Perguntas frequentes** (sem data): "A Fita Up pode molhar?", "Pode usar a Fita Up na piscina?", "A Fita Up dá alergia?", "Por que a Fita Up não cola?", "Dá para reutilizar a Fita Up?", "Quanto tempo a Fita Up dura no corpo?", "Pode usar a Fita Up amamentando?", "Como tirar a Fita Up sem doer?".
 
 **Catraca:** resposta rápida sem R$; no máximo 2 datas no corpo; nenhuma data em título, legenda ou FAQ; `description` até 180 caracteres; `metaDescription` com "MAUAD" e "10%" na primeira frase e o código terminando até o caractere 100, até 155 caracteres, sem data com dia e sem R$. `editorialNote` curta (até 3 linhas, sem data): as informações são da Toda Up e ninguém do site usou a fita.
+
+---
+
+## Redação, Job 3 e capa (06/11/2026)
+
+- JSON `content/reviews/fita-up-cuidados-cola-pele-agua.json` (id 838). Fotos do corpo da marca, já no CDN: a embalagem (`fita-up-embalagem-modelo.webp`) e as cores do protetor de silicone, no capítulo da água.
+- Job 3 com o Fable 5.1, a pedido do Bruno: aprovado com 6 ajustes, todos aplicados (o porquê do protetor que a marca não dá, a abertura de alergia pelo pré-teste, a frase de entrada em "Quanto tempo dura", a origem repetida em "Quem não deve usar", os canais de venda alinhados ao `fita-up-onde-comprar-original` e uma repetição de palavra).
+- Capa: o MAUAD não vai na capa (o gerador barra), ao contrário do que a seção 5 pedia. A primeira folha usava a foto da modelo com a caixa, a mesma da capa do `fita-up-ou-blumi-ou-lib`; o Bruno apontou e a capa saiu de duas fotos da loja que nenhuma capa nossa usa (a modelo com o rolo e a de camisa aberta com o selo "tamanho G"). Opção B aprovada.
+- Mudanças em artigos no ar: o `fita-up-como-usar` (R8, reutilizar e plus size) e o `toda-up-e-confiavel` (F4) saíram no #647. Quando este for ao ar, os cuidados do `fita-up-como-usar` encurtam e linkam para cá (Fila, seção 4), e o `toda-up-e-boa` ganha a linha com o link (seção 10).
