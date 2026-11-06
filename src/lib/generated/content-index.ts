@@ -32257,7 +32257,7 @@ export const reviewsData: unknown[] = [
     "youtubeUrl": "https://youtu.be/pftnU5mPuGU?si=xxXnKMlf0vDTayVy",
     "pros": [
       "Explica o que deu errado na prática",
-      "Traz alternativas reais para economizar manteiga",
+      "Aponta caminhos para usar menos manteiga",
       "Ajuda a evitar desperdício com hacks virais"
     ],
     "cons": [
@@ -32268,7 +32268,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não funciona. Bater manteiga com leite não rende o dobro: o leite espirra, a mistura separa e o resultado não lembra manteiga. O que ajuda a economizar é a manteiga composta e a troca de parte dela por óleo; veja \"Alternativas que funcionam de verdade\"."
+          "No meu teste, não funcionou: batendo manteiga gelada com leite na batedeira, o leite espirrou, separou da gordura e o volume não dobrou. A manteiga já é uma emulsão de água em gordura, e o leite a mais não se incorporou nessas condições. Para variar o sabor, faço a [manteiga temperada turbinada](/receitas/manteiga-temperada-turbinada-da-cecilia)."
         ]
       },
       {
@@ -32317,11 +32317,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Por que esses hacks não funcionam: a ciência dos alimentos",
+        "heading": "Por que o hack falhou no meu teste: a ciência",
         "paragraphs": [
-          "O hack falha porque a manteiga já é gordura concentrada, fim do processo. A manteiga já é um produto final de um processo de separação: é essencialmente a gordura concentrada do leite, obtida através da batida do creme de leite até que os glóbulos de gordura se separem do leitelho.",
-          "Quando tentamos diluir manteiga pronta com leite, estamos tentando reverter um processo químico já finalizado. O leite integral contém cerca de 3% a 4% de gordura, enquanto a manteiga contém aproximadamente 80% a 82% de gordura. Essa diferença fundamental na composição impede que os dois se integrem de forma estável para multiplicar o volume da manteiga original.",
-          "Outro fator crucial nesse fracasso é a temperatura e a emulsificação. A manteiga gelada, como sugerido nos vídeos, não se integrará adequadamente ao leite. Emulsões estáveis requerem condições específicas e, frequentemente, agentes emulsificantes para manter gorduras e líquidos unidos, condições que simplesmente não são atingidas batendo manteiga gelada com leite frio em uma batedeira doméstica."
+          "A manteiga é o fim de um processo: batendo o creme de leite, os glóbulos de gordura se juntam e o leitelho sai. O que sobra é uma emulsão de água em gordura, com cerca de 16% de água, segundo a [Canadian Dairy Commission](https://cdc-ccl.ca/en/node/804).",
+          "Ou seja, a manteiga já segura um pouco de água; o problema está na quantidade e no jeito. O leite integral tem cerca de 3% a 4% de gordura, e a manteiga, cerca de 80% a 82%. No hack, entra muito líquido de uma vez numa gordura gelada e firme, e, no meu teste, a mistura não segurou o leite: ele separou.",
+          "Temperatura e ritmo também pesam. Manteiga gelada incorpora líquido com dificuldade, e uma emulsão estável costuma pedir o líquido aos poucos e, às vezes, um emulsificante. Não testei outras temperaturas nem outras quantidades, então não dá para dizer que nenhuma versão funcione; a que os vídeos mostram não funcionou na minha cozinha."
         ],
         "image": {
           "src": "/images/reviews/manteiga/manteiga-gordura-leite-ilustracao.webp",
@@ -32332,27 +32332,27 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Alternativas que funcionam de verdade",
+        "heading": "Outros jeitos de usar menos manteiga, sem teste meu",
         "paragraphs": [
-          "Para fazer a manteiga render, valem a manteiga composta e o ghee: sem milagre, com fundamento. Elas não duplicam magicamente a manteiga, mas têm fundamento culinário e funcionam melhor na prática."
+          "Não testei estas alternativas para este artigo. São técnicas conhecidas de cozinha, e nenhuma multiplica a manteiga; o resultado depende da receita."
         ],
         "bullets": [
           "Manteiga composta legítima: use 200 g de manteiga em temperatura ambiente, 2 colheres de azeite de oliva extra virgem e ervas frescas ou temperos a gosto. Bata até incorporar completamente.",
-          "Essa técnica rende mais com a mesma quantidade de manteiga, mantendo textura adequada e agregando sabor. A manteiga em temperatura ambiente permite que o azeite se incorpore melhor, criando uma mistura mais estável.",
+          "O azeite aumenta um pouco o volume e dá sabor; com a manteiga em temperatura ambiente, ele se incorpora com mais facilidade. Uma versão que eu faço é a [manteiga temperada turbinada](/receitas/manteiga-temperada-turbinada-da-cecilia), com alho e cebolinha.",
           "Ghee caseiro: derreta 200 g de manteiga em fogo muito baixo, deixe cozinhar lentamente até formar espuma na superfície, retire essa espuma e separe a parte translúcida dourada.",
-          "O ghee rende menos em volume, mas oferece sabor mais concentrado, dura mais e pode gerar economia a longo prazo porque você usa menor quantidade nos preparos."
+          "O ghee não faz a manteiga render: ele sai com menos volume, porque a água e os sólidos do leite ficam para trás. O que ele oferece é sabor mais concentrado e conservação mais longa, em pote fechado."
         ]
       },
       {
-        "heading": "Queijo fresco caseiro como substituto",
+        "heading": "Queijo fresco caseiro: uma possibilidade, sem teste meu",
         "paragraphs": [
-          "Em muitas receitas, principalmente bolos e massas, um queijo fresco cremoso feito em casa, com leite e vinagre, pode substituir a manteiga em parte da fórmula. Ele não é um cream cheese industrial e não funciona para tudo, mas pode oferecer cremosidade em preparos específicos."
+          "Em algumas receitas de bolo e massa, um queijo fresco cremoso feito em casa, com leite e vinagre, pode entrar no lugar de parte da manteiga. Não testei essa troca: ele não é um cream cheese industrial e não serve para tudo."
         ],
         "bullets": [
           "Use 1 litro de leite integral, 4 colheres de sopa de vinagre branco ou suco de limão e 1 pitada de sal.",
           "Aqueça o leite sem deixar ferver, adicione o vinagre ou limão e deixe descansar até coalhar.",
           "Coe em um pano fino, esprema bem, tempere com sal e bata até ficar cremoso.",
-          "Esse substituto funciona bem em receitas de bolos, cookies e outras massas que pedem cremosidade."
+          "Se for testar, prefira uma receita que já traga o queijo fresco no lugar da manteiga, em vez de trocar por conta própria."
         ]
       },
       {
@@ -32371,21 +32371,22 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Dicas práticas para economizar manteiga",
+        "heading": "Dicas para economizar e guardar a manteiga",
         "bullets": [
           "Para frituras, use metade da quantidade de manteiga indicada e complete com óleo de girassol ou canola.",
           "Essa combinação mantém parte do sabor da manteiga e gasta menos dela.",
-          "Em receitas de bolos e biscoitos, substitua até 30% da manteiga por óleo vegetal, quando a receita permitir, sem comprometer o resultado.",
+          "Em bolos, algumas receitas aceitam óleo vegetal no lugar de parte da manteiga, mas a textura muda: siga uma receita que já traga a troca.",
           "Congele manteiga em porções pequenas, embrulhadas em papel manteiga e depois em papel alumínio.",
           "Mantenha uma porção pequena na geladeira e o restante no congelador.",
-          "Para passar no pão, mantenha uma pequena quantidade em temperatura ambiente em uma manteigueira adequada, como o sistema francês butter keeper."
+          "Fora da geladeira, só a manteiga com sal, em pote tampado ou manteigueira, longe do calor e da luz, por um a dois dias e com o ambiente abaixo de 21 °C, segundo a [Universidade do Maine](https://extension.umaine.edu/food-health/2026/05/21/butter/). Em dias quentes, ela volta para a geladeira.",
+          "Manteiga sem sal fica na geladeira. Misturas com ervas, alho, queijo ou leite, como a manteiga temperada, vão sempre para a geladeira."
         ]
       },
       {
         "heading": "Conclusão: Verdade na Cozinha",
         "paragraphs": [
           "O desastre ensinou a checar a ciência antes de tentar o hack. Minha experiência desastrosa com a manteiga batida me ensinou a valorizar a ciência por trás da culinária e a questionar promessas milagrosas.",
-          "As alternativas reais apresentadas aqui não multiplicarão magicamente sua manteiga, mas oferecem opções viáveis para economia e versatilidade na cozinha. A próxima vez que você se deparar com um hack culinário tentador, lembre-se: na culinária, como na vida, o conhecimento genuíno e as técnicas comprovadas sempre superam os atalhos duvidosos.",
+          "As alternativas acima não multiplicam a manteiga, e não as testei para este artigo: servem de ponto de partida, conforme a receita. Na próxima vez que um hack prometer dobrar um ingrediente, vale procurar antes a explicação de como ele funcionaria.",
           "E se você também tem uma história de “tentei e deu errado”, compartilhe. Afinal, aprendemos tanto com os sucessos quanto com os fracassos."
         ],
         "image": {
@@ -32395,6 +32396,21 @@ export const reviewsData: unknown[] = [
           "objectFit": "portrait",
           "aspectRatio": 0.8
         }
+      }
+    ],
+    "updatedAt": "2026-11-06",
+    "relatedArticles": [
+      {
+        "slug": "conhecendo-mais-rabanada"
+      },
+      {
+        "slug": "10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia"
+      },
+      {
+        "slug": "airfryer-uma-breve-historia"
+      },
+      {
+        "slug": "mesa-posta-natal-o-que-precisa-quanto-custa"
       }
     ]
   },
