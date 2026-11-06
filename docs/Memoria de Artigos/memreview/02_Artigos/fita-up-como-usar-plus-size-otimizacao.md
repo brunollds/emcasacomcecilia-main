@@ -11,7 +11,7 @@ anexo_tipo: "nenhum"
 status: "pauta-aprovada"
 responsavel: "Claude"
 proxima_acao: "Otimização do artigo existente fita-up-como-usar, sem URL nova: trocar o H2 da largura por um com 'plus size' e acrescentar a FAQ 'Fita Up serve para plus size?'. Sessão de artigos (Job 2/3)."
-bloqueado_por: "Leitura no Chrome do guia de tamanhos da página do produto (seção 'A conferir no Chrome')"
+bloqueado_por: null
 score_autoridade: 0
 score_conversao: 0
 score_ponderado_total: 0
@@ -85,3 +85,18 @@ Rodada de 05/11/2026, item R8. Não é artigo novo: o `content/reviews/fita-up-c
 
 - **H2 "Qual largura escolher: P, M, G e plus size":** a mesma tabela; o texto diz que a marca não fala de tamanho acima de 54, se o Chrome confirmar.
 - **FAQ "Fita Up serve para plus size?":** resposta da seção 3, item 2.
+
+## Leitura no Chrome e a F1 (06/11/2026)
+
+A rodada Fita Up de 06/11 propôs a F1, um artigo próprio de tamanho e largura (buscas "qual tamanho", "gg", "medidas", "plus size", "larga", "9 cm", "10 cm", "quantos metros", "rolo"). O GO do Bruno veio com a condição da Fila: artigo próprio só se a loja publicar mais que a tabela. Não publica, então a F1 fica nesta otimização.
+
+- **Página do produto:** larguras P, M e G (sem GG), cores Bege, Marrom e Preto. "Sustenta seios grandes?": "Sim! A Fita UP é a única marca com uma linha completa de tamanhos e cores pensada para abraçar a diversidade de corpos e tons de pele. Nossa fita sustenta de seios pequenos até tamanhos grandes". Guia de tamanhos: P até 44, M até 48, G até 54.
+- **FAQ da loja** ("Vai funcionar comigo?"): "praticamente todos os tamanhos (até o 52 com segurança)". **Diverge** da tabela (G até 54). O texto cita os dois, cada um com a fonte, e diz que acima de 52 a marca fala em segurança só até ali.
+- **Não publicados:** largura em centímetros, metros do rolo, GG ou tamanho maior. Por isso as buscas "9 cm", "10 cm", "quantos metros" e "rolo" ficam sem resposta: o texto não inventa.
+- **"Plus size":** a página não usa a palavra.
+
+Decisões (padrão da sessão de pautas, sem pergunta nova ao Bruno):
+1. H2: "Qual largura e tamanho escolher: P, M, G e plus size".
+2. FAQ "Fita Up serve para plus size?": "A Toda Up diz que a fita sustenta de seios pequenos a grandes. Pelo guia de tamanhos, a largura G sustenta até o tamanho 54; no FAQ da loja, a marca fala em segurança até o 52. A loja não usa o termo plus size nem tem largura maior que a G."
+3. FAQ "Quantos metros tem o rolo da Fita Up?": só se a redação achar o dado na embalagem ou na página; senão, não entra.
+4. Se a Toda Up publicar a largura em cm e os metros do rolo, a F1 volta como artigo próprio.
