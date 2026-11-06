@@ -4,7 +4,7 @@
   "title": "如何找到 YesStyle 優惠碼並與 CECILIA010 疊加使用",
   "type": "指南與優惠碼",
   "reviewKind": "guia",
-  "description": "YesStyle 優惠碼實用指南：分清 Coupon Code 與 Reward Code 的差別，再用 CECILIA010 額外疊加高達 5% 的折扣。",
+  "description": "YesStyle 優惠碼實用指南：分清 Coupon Code 與 Reward Code，並了解 CECILIA010 的用法，首次購買 5%，之後的購買 2%。",
   "metaDescription": "哪裡找得到目前有效的 YesStyle 優惠碼、如何避開過期代碼，以及怎麼疊加獎勵碼 CECILIA010，額外省下高達 5%。",
   "publishedAt": "24 Jul 2026",
   "publishedAtISO": "2026-07-24",
@@ -37,7 +37,7 @@
   "cons": [
     "每月的促銷優惠碼效期很短（通常 72 小時到 30 天）",
     "CECILIA010 的折扣首次購買為 5%，之後的回購為 2%",
-    "最終價格以美元計價，會受匯率波動影響"
+    "結帳總額以你在網站上選擇的幣別顯示，依 YesStyle 的匯率換算，銀行可能收取國際交易手續費"
   ],
   "pullQuote": "在 YesStyle 省最多的關鍵是兩個一起用：把促銷優惠碼填進 Coupon Code 欄，把 CECILIA010 填進 Reward Code 欄，就能再多省高達 5%。",
   "productSpec": [
@@ -77,15 +77,15 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "促銷用的 [YesStyle 優惠碼](/zh-hant/coupons/yesstyle)填在 Coupon Code 欄，很快就會過期。CECILIA010 是獎勵碼，填在 Reward Code 欄，可額外享高達 5% 折扣；比例取決於是否為首次購買，詳見 CECILIA010 一章。"
+        "促銷用的 [YesStyle 優惠碼](/zh-hant/coupons/yesstyle)填在 Coupon Code 欄，效期、最低消費、地區和適用商品各不相同。CECILIA010 是獎勵碼，填在 Reward Code 欄，首次購買享 5% 折扣，之後的購買享 2%。付款前請在訂單摘要中確認兩項折扣。"
       ]
     },
     {
-      "heading": "為什麼網路上大多數 YesStyle 優惠碼都不能用？",
+      "heading": "為什麼 YesStyle 優惠碼在結帳時被拒絕？",
       "paragraphs": [
-        "如果你搜尋過「YesStyle 優惠碼」，複製了一堆代碼，結帳時卻被一個個拒絕，那不是運氣不好：這些代碼大多已經過期。",
-        "主要有三個原因：YesStyle 會推出短期的促銷優惠碼（例如 72 小時或 96 小時的促銷，或月度活動）；自動彙整的網站為了吸引點擊，會把過期代碼掛上好幾年；另外，很多代碼屬於特定地區的專屬活動。",
-        "想不浪費時間、也不在付款時放棄，關鍵是弄懂 YesStyle 的折扣架構，並查看品牌的官方管道。"
+        "如果你複製了 YesStyle 的優惠碼，結帳時卻被拒絕，原因通常出在該促銷的規則上。",
+        "常見原因有：優惠碼已過期（有的活動只有 72 到 96 小時，有的持續一個月）、活動只適用於部分地區、訂單沒達到最低消費、商品不在促銷範圍內，或帳戶不符合資格。[YesStyle 優惠碼通用規則](https://www.yesstyle.com/en/general-terms-and-conditions-for-coupons/help/section.html/hsi.1888)對這些條件有說明。",
+        "為了不在付款時手忙腳亂，請先弄懂兩個折扣欄位的差別，並確認每個促銷的條件。"
       ],
       "image": "/images/reviews/cupons/yesstyle-banner-cupom-btsvip15.webp",
       "imageAlt": "YesStyle 官方首頁，顯示一個促銷優惠碼的範例。",
@@ -93,8 +93,8 @@
       "imageFit": "wide",
       "bullets": [
         "月度促銷優惠碼：有有效期限，通常享 10% 至 15% 折扣。",
-        "獎勵碼（Reward Code）：像 CECILIA010 這樣的網紅代碼，可額外疊加高達 5% 折扣。",
-        "官方管道：查看網站橫幅、商店的電子報，或我們的專屬優惠碼頁面。"
+        "獎勵碼（Reward Code）：像 CECILIA010 這樣的網紅代碼，首次購買額外享 5% 折扣，之後的購買享 2%。",
+        "在哪裡確認：YesStyle 的網站橫幅和電子報（官方管道），以及我們的優惠碼頁面（由部落格整理，附有品牌規則的連結）。"
       ]
     },
     {
@@ -109,13 +109,13 @@
       "imageFit": "cover",
       "bullets": [
         "1. 「Coupon Code」欄位：填入 YesStyle 網站的促銷優惠碼（如出清優惠碼或 10% 至 15% 折扣的活動）。",
-        "2. 「Reward Code」/「Influencer Code」欄位：填入官方網紅代碼 CECILIA010，額外享高達 5% 折扣。"
+        "2. 「Reward Code」/「Influencer Code」欄位：填入官方網紅代碼 CECILIA010，首次購買額外享 5% 折扣，之後的購買享 2%。"
       ]
     },
     {
-      "heading": "CECILIA010 代碼的運作方式：高達 5% 額外折扣",
+      "heading": "CECILIA010 代碼的運作方式：首次購買 5%，之後 2%",
       "paragraphs": [
-        "CECILIA010 是 Cecília 的獎勵碼，合作有效期間都能使用：首次購買 5%，之後的購買 2%。商店的限時促銷優惠碼會定期更換，而 CECILIA010 是合作約定的固定代碼。"
+        "CECILIA010 是 Cecília 的獎勵碼，首次購買 5%，之後的購買 2%。商店的限時促銷優惠碼會定期更換，而 CECILIA010 是合作約定的固定代碼。"
       ],
       "bullets": [
         "首次購買：額外 5% 折扣。",
@@ -123,7 +123,7 @@
         "適用於符合條件的韓國美妝、保養、彩妝、時尚和生活用品。"
       ],
       "postParagraphs": [
-        "所以我們說「高達 5% 額外折扣」：YesStyle 會當場根據你的帳戶紀錄，對符合條件的商品計算比例。"
+        "本指南摘要裡寫「高達 5% 額外折扣」，就是這個原因：YesStyle 會在結帳時根據你的帳戶紀錄，對符合條件的商品計算比例。"
       ]
     },
     {
@@ -174,10 +174,10 @@
     {
       "heading": "哪裡找得到目前有效的 YesStyle 優惠碼",
       "paragraphs": [
-        "想追蹤當月優惠碼又不踩到過期代碼，請使用以下官方管道：",
-        "1. 我們的優惠碼彙整頁：我們有一個專屬頁面，核對並更新 YesStyle 的促銷代碼。",
-        "2. YesStyle 首頁橫幅：商店首頁頂端通常會凸顯目前有效的促銷優惠碼。",
-        "3. 官方電子報：訂閱網站電子報後，你會收到 72 小時或 96 小時限時特賣的通知。"
+        "想追蹤當月優惠碼又不踩到過期代碼，請先看 YesStyle 的官方管道：",
+        "1. YesStyle 首頁橫幅：商店首頁頂端通常會凸顯目前有效的促銷優惠碼。",
+        "2. 官方電子報：訂閱網站電子報後，你會收到 72 小時或 96 小時限時特賣的通知。",
+        "3. 我們的優惠碼頁面：由身為 YesStyle 合作夥伴的本部落格整理，列出目前有效的代碼，並附有品牌規則的連結。"
       ],
       "links": [
         {
@@ -218,5 +218,6 @@
   "locale": "zh-hant",
   "translationKey": "yesstyle-coupon-guide",
   "category": "cupons-como-usar",
-  "isNew": false
+  "isNew": false,
+  "updatedAt": "2026-11-06"
 }
