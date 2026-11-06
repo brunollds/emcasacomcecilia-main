@@ -18,8 +18,8 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
 | F7 | Sutiã adesivo Toda Up ou Hope: qual escolher? | Toda Up | PT | [[toda-up-ou-hope-sutia-adesivo]] | Pronta para redação: páginas da Hope e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
 | F8 | Sutiã adesivo Toda Up ou Lupo: qual escolher? | Toda Up | PT | [[toda-up-ou-lupo-sutia-adesivo]] | Pronta para redação: páginas da Lupo e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
-| F9 | Toda Up ou Zee Rucci: fita e sutiã adesivo, qual escolher? | Toda Up | PT | [[toda-up-ou-zee-rucci-fita-e-sutia-adesivo]] | Pronta para redação: páginas da Zee Rucci e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
-| F10 | Fita Up ou Trifil Up: fita e sutiã adesivo, qual escolher? | Toda Up | PT | [[fita-up-ou-trifil-up]] | Pronta para redação: páginas da Trifil e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
+| F9 | Toda Up ou Zee Rucci: fita, sutiã adesivo e protetor de mamilo | Toda Up | PT | [[toda-up-ou-zee-rucci]] | Pronta para redação: páginas da Zee Rucci e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
+| F10 | Fita Up ou Trifil Up: fita e protetor de mamilo, qual escolher? | Toda Up | PT | [[fita-up-ou-trifil-up]] | Pronta para redação: páginas da Trifil e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
