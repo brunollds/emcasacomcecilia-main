@@ -21,6 +21,10 @@
       "value": "Poltrona Moon, giratória decorativa"
     },
     {
+      "key": "Tempo de uso",
+      "value": "Mais de um ano, na nossa sala"
+    },
+    {
       "key": "Base",
       "value": "Giratória 360°, preto fosco"
     },
@@ -38,7 +42,7 @@
     },
     {
       "key": "Garantia",
-      "value": "1 ano, com 30 dias para testar e devolver"
+      "value": "1 ano; teste de 30 dias na embalagem original"
     },
     {
       "key": "Cupom disponível",
@@ -54,6 +58,7 @@
   "metaDescription": "Poltrona Moon da DAMIE, com o cupom CECILIA12 de 12% OFF: design escultural, base giratória de 360°, tecidos premium e para quem ela é peça de destaque.",
   "publishedAt": "18 Abr 2026",
   "publishedAtISO": "2026-04-18",
+  "updatedAt": "2026-11-05",
   "image": "/images/reviews/damie/poltrona-moon-capa-discover.webp",
   "imageAlt": "Cecília sentada e apoiada na Poltrona Moon em três fotos na sala de casa",
   "imageFit": "contain",
@@ -95,7 +100,7 @@
     "Produto premium exige planejamento de orçamento"
   ],
   "cta": {
-    "text": "Use o cupom CECILIA12 para garantir 12% OFF em compras elegíveis na Damie.",
+    "text": "Use o cupom CECILIA12 para garantir 12% OFF em todos os produtos do site da Damie.",
     "label": "Usar o cupom",
     "url": "https://damie.emcasacomcecilia.com"
   },
@@ -105,7 +110,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Poltrona Moon da Damie vale a pena para quem quer uma peça decorativa giratória, com formato escultural e tecido com textura, e não uma poltrona reclinável. O que decide é a prioridade: estética e presença no ambiente ou relaxar por horas. O capítulo Vale o investimento? detalha cada caso."
+        "A Poltrona Moon da Damie vale a pena para quem quer uma peça decorativa giratória, com formato escultural e tecido com textura, e não uma poltrona reclinável. A nossa está na sala há mais de um ano. No site da Damie, o cupom CECILIA12 dá 12% OFF e soma com as promoções."
       ]
     },
     {
@@ -148,7 +153,9 @@
       "heading": "Montagem, entrega e uso prático",
       "paragraphs": [
         "A montagem é simples: a poltrona chega praticamente montada, é tirar da embalagem e posicionar. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
-        "Em 24/10/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora (nas outras regiões, o frete sai pelo CEP). A página também informa 30 dias para testar e devolver e garantia de 1 ano, além de suporte vitalício.",
+        "A nossa Moon está na sala há mais de um ano, e é nela que a Cecília aparece nas fotos deste review.",
+        "Em 05/11/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+        "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste.",
         "A página oficial informa peso máximo de 130 kg: mesmo decorativa, a Moon é feita para sentar."
       ]
     },
@@ -178,10 +185,14 @@
     {
       "heading": "Cupom CECILIA12",
       "paragraphs": [
-        "Se você está pesquisando por Poltrona Moon Damie, poltrona giratória decorativa ou poltrona Bouclé, vale testar o cupom CECILIA12 antes de finalizar a compra. Em produtos premium, qualquer desconto real faz diferença no valor final.",
+        "O cupom CECILIA12 dá 12% OFF em todos os produtos do site da Damie, com qualquer forma de pagamento. Ele soma com as promoções do site, inclusive os 10% do Pix, mas não com outro cupom nem com o giftback de 15%.",
         "A recomendação é escolher revestimento e cor com calma, medir o ambiente e aplicar o CECILIA12 no checkout para conferir o preço final."
       ],
       "links": [
+        {
+          "label": "Regras do cupom CECILIA12",
+          "href": "/cupons/damie"
+        },
         {
           "label": "Usar cupom CECILIA12",
           "href": "https://damie.emcasacomcecilia.com"
@@ -191,14 +202,8 @@
           "href": "https://damie.com.br/products/poltrona-decorativa-moon-giratoria"
         }
       ]
-    },
-    {
-      "heading": "Transparência",
-      "paragraphs": [
-        "Este review contém promoção afiliada. Ao comprar usando o cupom CECILIA12 ou os links indicados, você apoia o Em Casa com Cecília sem custo adicional."
-      ]
     }
   ],
   "seoTitle": "Poltrona Moon Damie vale a pena? Giratória e decorativa",
-  "editorialNote": "Parceria com a Damie: link com cupom CECILIA12 e comissão, sem custo extra."
+  "editorialNote": "Recebemos a Moon da Damie em parceria. O link é afiliado: comissão sem custo extra para você."
 }
