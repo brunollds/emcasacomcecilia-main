@@ -12,10 +12,10 @@
     "url": "/sobre"
   },
   "description": "整理了 YesStyle 的公开信息：香港公司、亚洲美妆品牌、配送和国际客服。",
-  "metaDescription": "YesStyle 可靠吗？这里有公司公开资料、韩国品牌授权情况、配送政策、税费，以及下单前要核对的事项。",
+  "metaDescription": "奖励码 CECILIA010 可在 YesStyle 首次购物享 5% 优惠，之后每次 2%。YesStyle 可靠吗？公司、税费与客服一览。",
   "publishedAt": "2026年8月2日",
   "publishedAtISO": "2026-08-02",
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-11-06",
   "draft": false,
   "locale": "zh-hans",
   "hideFromPortugueseListings": true,
@@ -29,14 +29,14 @@
     {
       "heading": "快速回答",
       "paragraphs": [
-        "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。需要注意的是，商品是否正品只是店家自己的说法，没有独立机构审核，所以收货时请核对批号、有效期和封条。核对方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，可以看 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)，核对日期为 {yesstyle:verifiedAt}。"
+        "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。商品是否正品是店家自己的说法，收货时请核对批号、有效期和封条。想优惠购买，可以看 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)，核对日期为 {yesstyle:verifiedAt}。"
       ]
     },
     {
       "heading": "公司公开资料",
       "paragraphs": [
-        "YesStyle 来自香港，自 2006 年起运营，隶属于在香港交易所上市的 YesAsia Holdings（2209.HK）。",
-        "YesStyle 服务 150 多个国家和地区的顾客，网站可切换语言，支持多种参考货币。公司设有客服渠道，可咨询商品、配送时间、进口税和退货政策。"
+        "YesStyle 来自香港，自 2006 年起运营，隶属于在香港交易所上市的 YesAsia Holdings（2209.HK），可见[控股公司的业务页面](https://www.yesasiaholdings.com/business.html)和[投资者关系](https://www.yesasiaholdings.com/investor-relations.html)。",
+        "YesStyle 服务 150 多个国家和地区的顾客，网站可切换语言。下单时可在可用币种中选择结算货币，并按 [YesStyle 内部汇率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)换算；发卡银行可能收取境外交易手续费。公司设有客服渠道，可咨询商品、配送时间、进口税和退货政策。"
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-loja-oficial-banner.webp",
@@ -58,7 +58,7 @@
       "heading": "购买政策与售后",
       "paragraphs": [
         "付款方式有国际信用卡、PayPal，部分国家还可使用本地电子钱包。配送时间、运费和税费，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
-        "符合条件且保持原包装的商品退货，可通过官方客服的退货授权表（RMA）申请。联系客服可使用官网的在线聊天和电子邮件。"
+        "符合条件的商品，请在收货后 14 天内向官方客服申请退货授权（RMA），并在 RMA 签发后 30 天内寄回，商品须保持原状和原包装。已拆封的美妆产品和营养补充剂不可退。默认以 YesStyle 店铺余额退款，如有需要可申请退回原付款方式。商品有缺陷或发错时同样走 RMA，并附上照片。具体规则见 [YesStyle 退货政策](https://www.yesstyle.com/en/help/section.html/hsi.736)；你所在国家或地区的消费者权利可能更广。联系客服可使用官网的在线聊天和电子邮件。"
       ],
       "bullets": [],
       "image": "/images/reviews/cupons/yesstyle-produtos-ofertas-grid.webp",
@@ -69,13 +69,13 @@
       "heading": "YesStyle 的商品是正品吗？YesStyle 是哪里的公司？",
       "paragraphs": [
         "YesStyle 来自香港。公司 2006 年在香港创立，隶属于在香港交易所上市的 YesAsia Holdings Limited（代码 2209.HK）。该集团还运营 YesAsia 商店和亚洲美妆批发平台 AsianBeautyWholesale。",
-        "关于是否正品，YesStyle 表示自己是这些品牌的授权经销商，货源来自品牌制造商或其授权的经销商。我们没有找到能证实这一说法的独立审核，所以下面是买家自己就能做的核对（这是我们的建议，不是店家的）："
+        "关于是否正品，YesStyle 表示自己是这些品牌的授权经销商，货源来自品牌制造商或其授权的经销商。我们没有找到能证实这一说法的独立审核，但这并不表示商品是假货：是否正品取决于店家的说明。下面的核对方法有帮助，却不能证明商品为正品（这是我们的建议，不是店家的）："
       ],
       "bullets": [
         "在商品页面，核对品牌和商品名称是否与品牌官网一致；",
         "在包装盒上找到印刷的批号和有效期，拆封前先看有效期；",
         "收货时检查商品和外包装的封条；",
-        "如果发现和宣传不一样，请不要使用，先联系 YesStyle 客服。"
+        "如果发现和宣传不一样，请不要使用，拍下包装照片，并联系 YesStyle 客服。"
       ]
     },
     {
@@ -85,24 +85,24 @@
       ],
       "bullets": [
         "输入付款信息前，确认网址是官方域名（yesstyle.com）。安全的结账页面网址以“https://”开头。",
-        "付款前在结账页面确认运费和配送时间。如果包裹到货时被征税，YesStyle 会对 1000 美元以下的订单退还进口税和清关费用；申请方法见[配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+        "付款前在结账页面确认运费和配送时间。如果包裹到货时被征税，1000 美元以下的订单（优惠券前、不含运费）的进口税和清关费用可能以 YesStyle 店铺余额退还：请保留凭证，并在凭证日期后 30 天内联系客服。按目的地有例外，例如运往欧盟订单的增值税；规则见[关税退款政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，配送细节见[配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
         "仔细阅读商品说明，包括尺寸、材质和使用保养方式：亚洲美妆的标准可能与当地不同（例如包装规格、活性成分浓度）。",
         "保留付款凭证、订单号和物流单号，出问题时用于查件和申诉。",
-        "如果收到时封条已破损，请不要签收。"
+        "如果收到时包装受损或封条已破损，请拍下包裹和商品的照片，保留所有物品，并在使用前联系 YesStyle 客服和物流公司。"
       ]
     },
     {
       "heading": "YesStyle 值得信赖吗？",
       "paragraphs": [
-        "值得信赖，但照常核对。YesStyle 来自香港，2006 年创立，由上市公司 YesAsia Holdings（2209.HK）控股。它自称是 400 多个韩国美妆品牌的授权经销商，但这一说法没有独立审核。如果包裹被征税，对 1000 美元以下的订单，店家会退还进口税和清关费用。",
+        "值得信赖，但照常核对。YesStyle 来自香港，2006 年创立，由上市公司 YesAsia Holdings（2209.HK）控股。它自称是 400 多个韩国美妆品牌的授权经销商。如果包裹被征税，符合条件的 1000 美元以下订单，可能按目的地以店铺余额退还进口税和清关费用。",
         "实际操作：通过 yesstyle.com 下单，在结账页面确认运费和配送时间，保留付款凭证，收货时核对批号、有效期和封条。"
       ]
     },
     {
       "heading": "合作与奖励码",
       "paragraphs": [
-        "Em Casa com Cecília 与 YesStyle 有商业合作。通过这项合作，读者可以在结账时的专用栏位输入奖励码（Reward Code）CECILIA010，首次购买最高额外优惠 5%，回购额外优惠 2%。该奖励码可与网站上有效的适用促销优惠券同时使用，优惠可以叠加。",
-        "CECILIA010 没有有效期，只要与 YesStyle 的合作继续，就一直有效。使用该奖励码不会给读者增加费用：这项优惠由品牌提供，用来支持 Em Casa com Cecília 这个内容项目。"
+        "Em Casa com Cecília 与 YesStyle 有商业合作。通过这项合作，读者可以在结账时的专用栏位输入奖励码（Reward Code）CECILIA010，首次购买额外优惠 5%，之后的购买额外优惠 2%。该奖励码可与网站上有效的适用促销优惠券同时使用。",
+        "CECILIA010 没有设定结束日期，但 YesStyle 可能调整计划的优惠和规则，见[计划条款](https://www.yesstyle.com/en/complete-terms-and-conditions/help/section.html/hsi.2284)；付款前请在订单摘要中确认折扣。链接和奖励码可能为博客带来佣金，不增加你的费用。"
       ],
       "bullets": []
     },
@@ -111,15 +111,15 @@
       "bullets": [
         "YesStyle 可靠吗？还是假网站？ YesStyle 是正规公司。它 2006 年创立，总部在香港，是在香港交易所上市的 YesAsia Holdings Limited（2209.HK）的子公司，自称是所售品牌的授权经销商。",
         "YesStyle 是哪里的公司？ 来自香港：公司 2006 年在香港创立，隶属于在香港交易所上市的 YesAsia Holdings（2209.HK）。",
-        "YesStyle 的商品是正品还是仿冒品？ YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。这一说法没有独立审核；收货时请核对批号、有效期和封条。",
+        "YesStyle 的商品是正品还是仿冒品？ YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。我们没有找到能证实这一点的独立审核；收货时请核对批号、有效期和封条。",
         "YesStyle 配送要多久？ 付款前可在结账页面看到。时间怎么计算，见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
-        "YesStyle 会收进口税吗？ 包裹到货时可能被征收进口税。YesStyle 对 1000 美元以下的订单退还进口税和清关费用，以店铺余额的形式退还。",
-        "CECILIA010 会改变商品的最终价格吗？ 会。CECILIA010 作为合作福利提供最高 5% 的额外优惠（首次购买 5%，回购 2%），不会给读者增加费用。",
-        "YesStyle 怎么退货？ 退货需通过客服的退货授权表（RMA）申请。符合条件且未拆封的商品可以退货，按该商品当时适用的政策，以店铺余额或原路退款的方式退款。",
-        "YesStyle 支持哪些付款方式？ 国际信用卡、PayPal，部分国家还有本地电子钱包。所有订单都以美元（USD）处理。",
+        "YesStyle 会退还进口税吗？ 有可能。1000 美元以下的订单（优惠券前、不含运费），如果被征收进口税和清关费用，可在凭证日期后 30 天内联系客服，以 YesStyle 店铺余额退还。按目的地有例外，例如运往欧盟订单的增值税。",
+        "CECILIA010 会改变商品的最终价格吗？ 会。首次购买可额外优惠 5%，之后的购买额外优惠 2%，不会增加读者的费用；付款前请在订单摘要中确认折扣。",
+        "YesStyle 怎么退货？ 请在收货后 14 天内向客服申请退货授权（RMA），并在 RMA 签发后 30 天内寄回。商品须保持原状和原包装，已拆封的美妆产品不可退。默认以 YesStyle 店铺余额退款。",
+        "YesStyle 支持哪些付款方式？ 国际信用卡、PayPal，部分国家还有本地电子钱包。你可以在可用币种中选择订单币种，YesStyle 按内部汇率换算。",
         "在 YesStyle 输入银行卡信息安全吗？ 安全。网站使用安全的 HTTPS 连接，并通过经国际认证的支付网关处理付款。请不要在官方结账页面之外输入敏感信息。",
         "YesStyle 的官方域名是什么？ 官方域名是 yesstyle.com（网站上可切换语言）。请小心假网站和未经授权的转售商。",
-        "怎样在 YesStyle 使用 CECILIA010？ 结账时，在“奖励码”（Reward Code）栏位输入 CECILIA010。该栏位与优惠券栏位是分开的，两者可以同时使用。"
+        "怎样在 YesStyle 使用 CECILIA010？ 结账时，在“奖励码”（Reward Code）栏位输入 CECILIA010。该栏位与优惠券栏位是分开的，奖励码可与适用的优惠券同时使用。"
       ]
     }
   ],
@@ -130,7 +130,7 @@
   },
   "coupon": "CECILIA010",
   "affiliate": "yesstyle",
-  "editorialNote": "基于公开信息撰写。CECILIA010 来自商业合作。",
+  "editorialNote": "基于公开信息撰写。CECILIA010 来自商业合作，可能产生佣金，不增加你的费用。",
   "relatedArticles": [
     {
       "slug": "yesstyle-reward-code-cecilia010-zh-hans"
