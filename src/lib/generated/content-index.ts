@@ -56242,7 +56242,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Insider feminino",
         "paragraphs": [
-          "A Black Friday da Insider já está no ar, com até 50% OFF em itens selecionados, em janelas curtas até o grande dia, 27 de novembro. Este guia cobre a linha feminina: camisetas, calcinhas, sutiãs e Outlet. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF e, no teste de fim de outubro, entrou por cima da campanha."
+          "A Black Friday da Insider já está no ar, com até 50% OFF em itens selecionados, em janelas curtas até o grande dia, 27 de novembro. Este guia cobre a linha feminina: camisetas, calcinhas, sutiãs e Outlet. O [cupom Insider](/cupons/insider) EMCASACOMCECILIA dá 15% OFF e, no teste de fim de outubro, somou com os descontos da campanha."
         ]
       },
       {
@@ -56274,52 +56274,52 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Tech T-Shirt Feminina",
+              "[Tech T-Shirt Feminina](https://creators.insiderstore.com.br/52ZMYx2)",
               "R$ 169",
               "R$ 129"
             ],
             [
-              "Tech T-Shirt Gola V Feminina",
+              "[Tech T-Shirt Gola V Feminina](https://creators.insiderstore.com.br/hwvgusR)",
               "R$ 169",
               "R$ 129"
             ],
             [
-              "Tech T-Shirt Manga Longa Feminina",
+              "[Tech T-Shirt Manga Longa Feminina](https://creators.insiderstore.com.br/TQxS7si)",
               "R$ 239",
               "R$ 199"
             ],
             [
-              "Tech T-Shirt Gola Alta Manga Longa Feminina",
+              "[Tech T-Shirt Gola Alta Manga Longa Feminina](https://creators.insiderstore.com.br/VQF6dSQ)",
               "R$ 239",
               "R$ 199"
             ],
             [
-              "Camiseta Premium NEXTECH Feminina",
+              "[Camiseta Premium NEXTECH Feminina](https://creators.insiderstore.com.br/PiVkjhd)",
               "R$ 215",
               "R$ 129"
             ],
             [
-              "Camiseta Básica Tech Daily Feminina",
+              "[Camiseta Básica Tech Daily Feminina](https://creators.insiderstore.com.br/tEKRhLY)",
               "R$ 139",
               "R$ 99"
             ],
             [
-              "Blusa Skin Cropped",
+              "[Blusa Skin Cropped](https://creators.insiderstore.com.br/bgkXdGE)",
               "R$ 119",
               "R$ 99"
             ],
             [
-              "Kit 3 Tech T-Shirt Feminina",
+              "[Kit 3 Tech T-Shirt Feminina](https://creators.insiderstore.com.br/s8Q4yaR)",
               "R$ 507",
               "R$ 355,50"
             ],
             [
-              "Kit 5 Tech T-Shirt Feminina",
+              "[Kit 5 Tech T-Shirt Feminina](https://creators.insiderstore.com.br/D5WzCpE)",
               "R$ 845",
               "R$ 544,38"
             ],
             [
-              "Kit 3 Daily Feminina",
+              "[Kit 3 Daily Feminina](https://creators.insiderstore.com.br/3DRoL2P)",
               "R$ 417",
               "R$ 290,76"
             ]
@@ -56352,43 +56352,43 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Kit 3 Calcinhas Biquíni Brief",
+              "[Kit 3 Calcinhas Biquíni Brief](https://creators.insiderstore.com.br/x4Qv8HF)",
               "R$ 207",
               "R$ 118,20",
               "R$ 100,47"
             ],
             [
-              "Kit 5 Calcinhas Biquíni Brief",
+              "[Kit 5 Calcinhas Biquíni Brief](https://creators.insiderstore.com.br/nyBqvep)",
               "R$ 345",
               "R$ 190,19",
               "R$ 161,66"
             ],
             [
-              "Kit 3 Calcinhas Tanga String",
+              "[Kit 3 Calcinhas Tanga String](https://creators.insiderstore.com.br/i3LhqWr)",
               "R$ 195",
               "R$ 111",
               "R$ 94,35"
             ],
             [
-              "Kit 3 Calcinhas Hot Pant Safe",
+              "[Kit 3 Calcinhas Hot Pant Safe](https://creators.insiderstore.com.br/2wmYH52)",
               "R$ 237",
               "R$ 127,98",
               "R$ 108,78"
             ],
             [
-              "Sutiã Comfy, sem bojo",
+              "[Sutiã Comfy, sem bojo](https://creators.insiderstore.com.br/fuoUSQd)",
               "R$ 179",
               "R$ 99",
               "R$ 84,15"
             ],
             [
-              "Sutiã Top Lounge, com bojo removível",
+              "[Sutiã Top Lounge, com bojo removível](https://creators.insiderstore.com.br/wb2XzkL)",
               "R$ 185",
               "R$ 99",
               "R$ 84,15"
             ],
             [
-              "Sutiã Flex, triângulo sem bojo",
+              "[Sutiã Flex, triângulo sem bojo](https://creators.insiderstore.com.br/dZEzC9B)",
               "R$ 155",
               "R$ 99",
               "R$ 84,15"
