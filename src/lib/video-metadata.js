@@ -165,6 +165,11 @@ export const localVideoMetadata = {
     reviewSlug: 'samsung-lava-seca-13kg-primeiro-uso',
     reason: 'Loop mudo de ambientação no corpo do artigo; o vídeo editorial principal será o YouTube.',
   },
+  '/videos/reviews/insider/camiseta-insider-encolhe-como-lavar-loop.mp4': {
+    classification: 'secondary',
+    reviewSlug: 'camiseta-insider-encolhe-como-lavar',
+    reason: 'Trecho de 8 s do short da Cecília (lavagem da Perfect Top sem sabão); o short completo fica no YouTube.',
+  },
 };
 
 export function getPrimaryLocalVideoMeta(reviewSlug) {
