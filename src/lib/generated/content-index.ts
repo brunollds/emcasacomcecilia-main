@@ -29579,7 +29579,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 2 de novembro de 2026.",
+      "text": "Na nossa página, a lista de cupons da YesStyle foi conferida em 6 de novembro de 2026.",
       "label": "Ver cupons ativos da YesStyle",
       "url": "/cupons/yesstyle",
       "sponsored": false
@@ -37126,7 +37126,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "On our page, the YesStyle coupon list was checked on November 2, 2026.",
+      "text": "On our page, the YesStyle coupon list was checked on November 6, 2026.",
       "label": "View Active YesStyle Coupons",
       "url": "/en/coupons/yesstyle",
       "sponsored": false
@@ -37348,7 +37348,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 2 de noviembre de 2026.",
+      "text": "En nuestra página, la lista de cupones de YesStyle se revisó el 6 de noviembre de 2026.",
       "label": "Ver cupones activos de YesStyle",
       "url": "/es/coupons/yesstyle",
       "sponsored": false
@@ -37570,7 +37570,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 2 novembre 2026.",
+      "text": "Sur notre page, la liste des coupons YesStyle a été vérifiée le 6 novembre 2026.",
       "label": "Voir les coupons YesStyle actifs",
       "url": "/fr/coupons/yesstyle",
       "sponsored": false
@@ -37792,7 +37792,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 2. November 2026 geprüft.",
+      "text": "Auf unserer Seite wurde die Liste der YesStyle-Gutscheine am 6. November 2026 geprüft.",
       "label": "Aktive YesStyle-Gutscheine ansehen",
       "url": "/de/coupons/yesstyle",
       "sponsored": false
@@ -38014,7 +38014,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 2일에 확인했습니다.",
+      "text": "저희 페이지의 YesStyle 쿠폰 목록은 2026년 11월 6일에 확인했습니다.",
       "label": "사용 가능한 YesStyle 쿠폰 보기",
       "url": "/ko/coupons/yesstyle",
       "sponsored": false
@@ -38236,7 +38236,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "当サイトのYesStyleクーポン一覧は2026年11月2日に確認しました。",
+      "text": "当サイトのYesStyleクーポン一覧は2026年11月6日に確認しました。",
       "label": "利用できるYesStyleクーポンを見る",
       "url": "/ja/coupons/yesstyle",
       "sponsored": false
@@ -38458,7 +38458,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站頁面的 YesStyle 優惠碼列表於2026年11月2日核對。",
+      "text": "本站頁面的 YesStyle 優惠碼列表於2026年11月6日核對。",
       "label": "查看 YesStyle 優惠碼",
       "url": "/zh-hant/coupons/yesstyle",
       "sponsored": false
@@ -38680,7 +38680,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "本站页面的 YesStyle 优惠码列表于2026年11月2日核对。",
+      "text": "本站页面的 YesStyle 优惠码列表于2026年11月6日核对。",
       "label": "查看 YesStyle 优惠码",
       "url": "/zh-hans/coupons/yesstyle",
       "sponsored": false
@@ -39086,7 +39086,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva: a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo \"Os produtos da YesStyle são originais?\". Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 2 de novembro de 2026."
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A ressalva: a originalidade dos produtos é declarada pela própria loja, sem auditoria independente, então confira lote, validade e lacre ao receber. As conferências estão no capítulo \"Os produtos da YesStyle são originais?\". Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 6 de novembro de 2026."
         ]
       },
       {
@@ -40165,7 +40165,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle is legitimate: it is a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The caveat: the store itself declares that its products are authentic, with no independent audit, so check the batch number, expiry date and seal when your order arrives. Those checks are in the chapter \"Are YesStyle products authentic? Where is YesStyle from?\". To shop with a discount, see the [YesStyle coupons](/en/coupons/yesstyle), checked on November 2, 2026."
+          "Yes, YesStyle is legitimate: it is a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The caveat: the store itself declares that its products are authentic, with no independent audit, so check the batch number, expiry date and seal when your order arrives. Those checks are in the chapter \"Are YesStyle products authentic? Where is YesStyle from?\". To shop with a discount, see the [YesStyle coupons](/en/coupons/yesstyle), checked on November 6, 2026."
         ]
       },
       {
@@ -40308,7 +40308,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle es legítima: es una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, que cotiza en bolsa. La salvedad: la originalidad de los productos la declara la propia tienda, sin auditoría independiente, así que comprueba el lote, la caducidad y el precinto al recibir el pedido. Las comprobaciones están en el capítulo \"¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?\". Para comprar con descuento, mira los [cupones de YesStyle](/es/coupons/yesstyle), comprobados el 2 de noviembre de 2026."
+          "Sí, YesStyle es legítima: es una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, que cotiza en bolsa. La salvedad: la originalidad de los productos la declara la propia tienda, sin auditoría independiente, así que comprueba el lote, la caducidad y el precinto al recibir el pedido. Las comprobaciones están en el capítulo \"¿Los productos de YesStyle son originales? ¿De dónde es YesStyle?\". Para comprar con descuento, mira los [cupones de YesStyle](/es/coupons/yesstyle), comprobados el 6 de noviembre de 2026."
         ]
       },
       {
@@ -40450,7 +40450,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. La réserve : l'authenticité des produits est déclarée par la boutique elle-même, sans audit indépendant ; vérifiez donc le lot, la date de péremption et le scellé à la réception. Ces vérifications figurent dans le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour acheter avec une réduction, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 2 novembre 2026."
+          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. La réserve : l'authenticité des produits est déclarée par la boutique elle-même, sans audit indépendant ; vérifiez donc le lot, la date de péremption et le scellé à la réception. Ces vérifications figurent dans le chapitre « Les produits YesStyle sont-ils authentiques ? D'où vient YesStyle ? ». Pour acheter avec une réduction, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 6 novembre 2026."
         ]
       },
       {
@@ -40592,7 +40592,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Der Vorbehalt: Die Echtheit der Produkte erklärt der Shop selbst, ohne unabhängige Prüfung. Kontrollieren Sie deshalb beim Empfang Charge, Haltbarkeitsdatum und Siegel. Die Kontrollen stehen im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“. Um mit Rabatt zu kaufen, sehen Sie sich die [YesStyle-Gutscheine](/de/coupons/yesstyle) an, geprüft am 2. November 2026."
+          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Der Vorbehalt: Die Echtheit der Produkte erklärt der Shop selbst, ohne unabhängige Prüfung. Kontrollieren Sie deshalb beim Empfang Charge, Haltbarkeitsdatum und Siegel. Die Kontrollen stehen im Kapitel „Sind die Produkte von YesStyle original? Woher kommt YesStyle?“. Um mit Rabatt zu kaufen, sehen Sie sich die [YesStyle-Gutscheine](/de/coupons/yesstyle) an, geprüft am 6. November 2026."
         ]
       },
       {
@@ -40734,7 +40734,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "먼저 결론부터",
         "paragraphs": [
-          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년에 설립된 홍콩 기업이며, 상장사인 YesAsia Holdings가 지배하고 있습니다. 다만 제품이 정품이라는 것은 매장의 자체 설명일 뿐 독립적인 감사는 없으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 확인 방법은 \"YesStyle 제품은 정품일까? YesStyle은 어느 나라 회사일까?\" 장에 있습니다. 할인받아 사고 싶다면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 보세요. 확인일은 2026년 11월 2일입니다."
+          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년에 설립된 홍콩 기업이며, 상장사인 YesAsia Holdings가 지배하고 있습니다. 다만 제품이 정품이라는 것은 매장의 자체 설명일 뿐 독립적인 감사는 없으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 확인 방법은 \"YesStyle 제품은 정품일까? YesStyle은 어느 나라 회사일까?\" 장에 있습니다. 할인받아 사고 싶다면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 보세요. 확인일은 2026년 11월 6일입니다."
         ]
       },
       {
@@ -40876,7 +40876,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "はい、YesStyleは実在する正規の会社です。2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営しています。ただし、商品が本物かどうかは店側の自己申告で、第三者の監査はありません。届いたらロット番号、使用期限、封の状態を確認してください。確認方法は「YesStyleの商品は本物？ YesStyleはどこの会社？」の章にあります。割引で買うなら[YesStyleのクーポン](/ja/coupons/yesstyle)をどうぞ。確認日は2026年11月2日です。"
+          "はい、YesStyleは実在する正規の会社です。2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営しています。ただし、商品が本物かどうかは店側の自己申告で、第三者の監査はありません。届いたらロット番号、使用期限、封の状態を確認してください。確認方法は「YesStyleの商品は本物？ YesStyleはどこの会社？」の章にあります。割引で買うなら[YesStyleのクーポン](/ja/coupons/yesstyle)をどうぞ。確認日は2026年11月6日です。"
         ]
       },
       {
@@ -41018,7 +41018,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。要留意的是，商品是否為正品只是店家自己的說法，並沒有獨立機構稽核，所以收到商品時請檢查批號、有效期限與封條。檢查方式見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想用優惠購買，可以看 [YesStyle 優惠券](/zh-hant/coupons/yesstyle)，確認日期為 2026年11月2日。"
+          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。要留意的是，商品是否為正品只是店家自己的說法，並沒有獨立機構稽核，所以收到商品時請檢查批號、有效期限與封條。檢查方式見「YesStyle 的商品是正品嗎？YesStyle 是哪裡的公司？」一章。想用優惠購買，可以看 [YesStyle 優惠券](/zh-hant/coupons/yesstyle)，確認日期為 2026年11月6日。"
         ]
       },
       {
@@ -41160,7 +41160,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。需要注意的是，商品是否正品只是店家自己的说法，没有独立机构审核，所以收货时请核对批号、有效期和封条。核对方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，可以看 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)，核对日期为 2026年11月2日。"
+          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。需要注意的是，商品是否正品只是店家自己的说法，没有独立机构审核，所以收货时请核对批号、有效期和封条。核对方法见“YesStyle 的商品是正品吗？YesStyle 是哪里的公司？”一章。想优惠购买，可以看 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)，核对日期为 2026年11月6日。"
         ]
       },
       {
@@ -49535,7 +49535,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 2 novembre 2026.",
+      "text": "Sulla nostra pagina, la lista dei coupon YesStyle è stata controllata il 6 novembre 2026.",
       "label": "Vedi i coupon YesStyle attivi",
       "url": "/it/coupons/yesstyle",
       "sponsored": false
@@ -49727,7 +49727,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. La riserva: l'originalità dei prodotti è dichiarata dal negozio stesso, senza audit indipendente, quindi controlla lotto, scadenza e sigillo alla consegna. I controlli sono nel capitolo \"I prodotti YesStyle sono originali? Da dove viene YesStyle?\". Per comprare con lo sconto, guarda i [coupon YesStyle](/it/coupons/yesstyle), verificati il 2 novembre 2026."
+          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. La riserva: l'originalità dei prodotti è dichiarata dal negozio stesso, senza audit indipendente, quindi controlla lotto, scadenza e sigillo alla consegna. I controlli sono nel capitolo \"I prodotti YesStyle sono originali? Da dove viene YesStyle?\". Per comprare con lo sconto, guarda i [coupon YesStyle](/it/coupons/yesstyle), verificati il 6 novembre 2026."
         ]
       },
       {
