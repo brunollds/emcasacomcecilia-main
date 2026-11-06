@@ -17,6 +17,7 @@
   "metaDescription": "Air fryer: 10 fatos sobre o ar quente em circulação, pré-aquecimento, cesto sem excesso, papel-manteiga e limpeza, com receitas para fazer.",
   "publishedAt": "20 Abr 2026",
   "publishedAtISO": "2026-04-20",
+  "updatedAt": "2026-11-06",
   "image": "/images/reviews/airfryer-10-fatos-capa-discover.webp",
   "imageAlt": "Cecília na cozinha ao lado da air fryer, com os utensílios na bancada, e o título \"Air fryer: 10 fatos\"",
   "imageFit": "contain",
@@ -24,11 +25,22 @@
   "pros": [],
   "cons": [],
   "editorialNote": "Texto informativo, sem parceria e sem teste de aparelho.",
+  "relatedArticles": [
+    {
+      "slug": "airfryer-uma-breve-historia"
+    },
+    {
+      "slug": "presente-natal-quem-gosta-de-cozinhar"
+    },
+    {
+      "slug": "dolce-gusto-maquinas-qual-escolher"
+    }
+  ],
   "contentSections": [
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A air fryer cozinha com ar quente em circulação, e a maior parte dos bons resultados vem de poucos hábitos: pré-aquecer, não lotar o cesto e limpar sempre. Os dez fatos abaixo juntam a origem do aparelho e dicas de uso, e as dicas práticas começam no quarto fato."
+        "A air fryer cozinha com ar quente em circulação, e a maior parte dos bons resultados vem de poucos hábitos: pré-aquecer quando o manual indicar, não lotar o cesto e limpar sempre. Os dez fatos abaixo juntam a origem do aparelho e dicas de uso, e as dicas práticas começam no quarto fato."
       ]
     },
     {
@@ -37,14 +49,14 @@
       "imageAlt": "Fred van der Weij, inventor associado ao desenvolvimento da air fryer moderna.",
       "imageCaption": "Fred van der Weij, nome ligado ao desenvolvimento da air fryer moderna pela Philips.",
       "bullets": [
-        "1. A origem é holandesa: a air fryer moderna foi desenvolvida por Fred van der Weij, a partir de 2005, e lançada pela Philips em 2010. A história completa está em [História da air fryer](/reviews/airfryer-uma-breve-historia).",
-        "2. A ideia é mais antiga: nos anos 1940, o Whirlwind Oven, de William L. Maxson, já cozinhava com ar forçado, mas não chegou ao mercado de massa.",
+        "1. A Airfryer da Philips nasceu na Holanda: o engenheiro Fred van der Weij começou o projeto em 2005 ou 2006, conforme a fonte, e a Philips a lançou em 2010. Antes dela, em 2006, a Tefal já vendia na França a ActiFry. As fontes estão na [história da air fryer](/reviews/airfryer-uma-breve-historia).",
+        "2. A ideia é mais antiga: em 1945, o Whirlwind Oven, forno para refeições de avião da empresa de William Maxson, já fazia o ar quente circular com ventiladores, mas nunca chegou às casas.",
         "3. O segredo é a circulação do ar: o ar quente passa em alta velocidade pelo cesto, e é isso que doura a superfície e dá a crocância sem imergir o alimento em óleo.",
         "4. Pré-aquecer ajuda: ligar o aparelho uns minutos antes de colocar a comida costuma dar um dourado mais parecido de um preparo para outro. Confira o que o manual do seu modelo recomenda.",
         "5. Não lotar o cesto: o ar precisa circular entre os pedaços. Cesto cheio demais cozinha de forma desigual, e fazer em duas levas funciona melhor.",
         "6. Seque e chacoalhe: alimento seco por fora doura mais e, em preparos como batata, sacudir o cesto no meio do tempo ajuda a dourar por igual.",
         "7. Pouco óleo, não necessariamente nenhum: muitos preparos ficam bons com pouco ou nenhum óleo, mas o resultado depende do alimento. Um fio de óleo costuma ajudar em legumes e batatas.",
-        "8. Papel-manteiga com cuidado: se usar papel no cesto, deixe o alimento por cima para segurá-lo e não ligue o aparelho com o papel solto, porque o ar em movimento pode levantá-lo até a resistência. Use só papel próprio para forno ou air fryer.",
+        "8. Papel só se o manual permitir: alguns modelos não aceitam. A Philips, por exemplo, [não recomenda papel-manteiga nem papel-alumínio](https://www.centralamerica.philips.com/c-f/XC000003625/puedo-utilizar-papel-para-hornear-o-papel-de-aluminio-en-mi-philips-airfryer) em parte das suas Airfryers, porque cobrir o fundo do cesto reduz o fluxo de ar. Se o manual liberar, use papel próprio para air fryer, sem cobrir todo o fundo e sempre com o alimento por cima: solto, o papel pode ser puxado até a resistência.",
         "9. Dá para fazer mais que fritura: assar, gratinar e preparar sobremesas também funciona. Um exemplo é o [bolo de caneca na air fryer](/receitas/bolo-de-caneca-na-air-fryer).",
         "10. A limpeza é parte do uso: lave o cesto depois de cada uso, com o aparelho frio, e siga o manual para as peças. Gordura acumulada pode fumegar no próximo preparo."
       ]
@@ -65,7 +77,7 @@
     {
       "heading": "Conclusão",
       "paragraphs": [
-        "A air fryer rende mais quando você entende o que ela faz: circular ar quente em volta do alimento. Pré-aquecer, não lotar o cesto e limpar sempre resolvem a maior parte dos problemas.",
+        "A air fryer rende mais quando você entende o que ela faz: circular ar quente em volta do alimento. Pré-aquecer quando o manual indicar, não lotar o cesto e limpar sempre resolvem a maior parte dos problemas.",
         "Quer saber de onde veio o aparelho? Leia a [história da air fryer](/reviews/airfryer-uma-breve-historia)."
       ]
     }
