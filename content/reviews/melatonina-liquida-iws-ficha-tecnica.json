@@ -17,7 +17,7 @@
   "metaDescription": "Melatonina Líquida IWS 30 ml com o cupom CECIEMCASA e 10% OFF: 0,21 mg por gota, sabor maracujá, ingredientes e os cuidados do rótulo.",
   "publishedAt": "20 de agosto de 2026",
   "publishedAtISO": "2026-08-20",
-  "updatedAt": "2026-10-24",
+  "updatedAt": "2026-11-06",
   "draft": false,
   "image": "/images/reviews/iwannasleep/melatonina-liquida-iws-capa-discover.webp",
   "imageAlt": "Caixa e frasco da Melatonina Líquida IWS sabor maracujá, 30 ml, em três fotos oficiais",
@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O modo de uso do rótulo é uma gota por via oral antes de dormir. Ingredientes e cuidados estão na Ficha técnica, e os preços, em Preço e kits com o cupom."
+        "A Melatonina Líquida IWS é um suplemento em gotas, sabor maracujá, com 0,21 mg por gota e cerca de 750 gotas no frasco de 30 ml. O rótulo indica uma gota por via oral antes de dormir; pela Anvisa, o suplemento é só para adultos de 19 anos ou mais. Ingredientes, cuidados e preços estão abaixo."
       ]
     },
     {
@@ -63,14 +63,20 @@
     {
       "heading": "Cuidados de rótulo",
       "paragraphs": [
-        "O produto é suplemento, não medicamento. As advertências do rótulo e da página do fabricante são estas:"
+        "O produto é suplemento, não medicamento. Pela [Anvisa](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/uso-de-melatonina-sublingual-nao-e-autorizado-no-brasil), a melatonina em suplemento alimentar é para adultos de 19 anos ou mais, no limite de 0,21 mg por dia. As advertências do rótulo e da página do fabricante são estas:"
       ],
       "bullets": [
-        "**Público:** não consumir na gestação, na amamentação nem na infância. Mantenha fora do alcance de crianças.",
+        "**Público:** adultos de 19 anos ou mais, pela Anvisa; o rótulo veda gestação, amamentação e infância. Mantenha fora do alcance de crianças.",
         "**Atividades de atenção:** não consumir antes de dirigir, operar máquinas ou fazer tarefas que exigem atenção constante.",
         "**Doenças e medicamentos:** quem tem enfermidade ou usa medicamento deve consultar um profissional de saúde antes de consumir.",
         "**Porção:** não exceder a recomendação da embalagem nem associar outros produtos com melatonina.",
         "**Dúvidas:** quantidade e horário são com um médico ou nutricionista."
+      ],
+      "links": [
+        {
+          "label": "Anvisa: orientação sobre melatonina em suplementos",
+          "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/uso-de-melatonina-sublingual-nao-e-autorizado-no-brasil"
+        }
       ]
     },
     {
@@ -122,7 +128,7 @@
         "Como usar a Melatonina Líquida IWS? O modo de uso que consta na página oficial é 1 gota por via oral antes de dormir, ou conforme orientação médica ou nutricional. Dúvidas sobre quantidade e horário são com um profissional de saúde.",
         "Quais são os ingredientes? Água purificada, melatonina, glicerina vegetal, aromatizante natural de maracujá e ácido cítrico.",
         "A Melatonina Líquida IWS tem açúcar, glúten ou lactose? Segundo o fabricante, não. O produto também é vegano. Confira o rótulo da embalagem recebida.",
-        "Quem não deve consumir? Gestantes, lactantes, crianças e pessoas que farão atividades que exigem atenção constante em seguida. Quem tem doença ou usa medicamento deve consultar um profissional de saúde antes.",
+        "Quem não deve consumir? Menores de 19 anos, gestantes, lactantes e pessoas que farão atividades que exigem atenção constante em seguida. Quem tem doença ou usa medicamento deve consultar um profissional de saúde antes.",
         "O cupom CECIEMCASA funciona para a Melatonina Líquida? Sim, pode ser aplicado no checkout do site oficial para buscar 10% de desconto em produtos elegíveis da marca.",
         "Como funciona a garantia de 30 dias? É o programa Sleeptest: 30 dias a partir do recebimento, com uso mínimo de 15 dias antes de pedir a troca, por crédito em outro item do catálogo (não é reembolso). Só vale para compras no site oficial."
       ]
@@ -136,7 +142,7 @@
   },
   "coupon": "CECIEMCASA",
   "affiliate": "i-wanna-sleep",
-  "editorialNote": "Dados do rótulo e do site da marca. O cupom CECIEMCASA vem de parceria comercial.",
+  "editorialNote": "Dados do rótulo e do site da marca. O cupom CECIEMCASA vem de parceria comercial e o link da loja pode gerar comissão, sem custo extra.",
   "relatedArticles": [
     {
       "slug": "cupom-ceciemcasa-i-wanna-sleep-como-usar"
