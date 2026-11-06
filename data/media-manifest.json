@@ -88473,6 +88473,144 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa.webp",
+      "local_url": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 96048,
+      "sha256": "b9bb055c4f3a124f5c65d1b4c08a2b52a2db9be33372f134b29ba3be258fecac",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colageno-nestle-nutre-qual-escolher-capa.webp",
+      "storage_filename": "colageno-nestle-nutre-qual-escolher-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colageno-nestle-nutre-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colageno-nestle-nutre-qual-escolher.json",
+          "line": 22,
+          "column": 13,
+          "literal": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 194418,
+          "column": 15,
+          "literal": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/b9bb055c4f3a124f5c65d1b4c08a2b52a2db9be33372f134b29ba3be258fecac/colageno-nestle-nutre-qual-escolher-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/b9bb055c4f3a124f5c65d1b4c08a2b52a2db9be33372f134b29ba3be258fecac/colageno-nestle-nutre-qual-escolher-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T22:42:31.771Z",
+      "verification_etag_or_digest": "b9bb055c4f3a124f5c65d1b4c08a2b52a2db9be33372f134b29ba3be258fecac",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
+      "local_url": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 69474,
+      "sha256": "414f990147fa92fd74e83643848159728234778902e9c8d4f7273033dd330100",
+      "width": 1080,
+      "height": 1080,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
+      "storage_filename": "colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colageno-nestle-nutre-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colageno-nestle-nutre-qual-escolher.json",
+          "line": 92,
+          "column": 17,
+          "literal": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 194488,
+          "column": 19,
+          "literal": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/414f990147fa92fd74e83643848159728234778902e9c8d4f7273033dd330100/colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/414f990147fa92fd74e83643848159728234778902e9c8d4f7273033dd330100/colageno-nestle-nutre-qual-escolher-fibermais-lata.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T22:42:32.108Z",
+      "verification_etag_or_digest": "414f990147fa92fd74e83643848159728234778902e9c8d4f7273033dd330100",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-nutren-protein-tabela.webp",
+      "local_url": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-nutren-protein-tabela.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 103736,
+      "sha256": "84f493e0e6ccdad5f8eadef8f0e9c40b23cf47fe23f9737eb89cef0eb9a588a3",
+      "width": 1200,
+      "height": 1200,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "colageno-nestle-nutre-qual-escolher-nutren-protein-tabela.webp",
+      "storage_filename": "colageno-nestle-nutre-qual-escolher-nutren-protein-tabela.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/colageno-nestle-nutre-qual-escolher.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/colageno-nestle-nutre-qual-escolher.json",
+          "line": 106,
+          "column": 17,
+          "literal": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-nutren-protein-tabela.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 194502,
+          "column": 19,
+          "literal": "/images/reviews/nutren/colageno-nestle-nutre-qual-escolher-nutren-protein-tabela.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/84f493e0e6ccdad5f8eadef8f0e9c40b23cf47fe23f9737eb89cef0eb9a588a3/colageno-nestle-nutre-qual-escolher-nutren-protein-tabela.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/84f493e0e6ccdad5f8eadef8f0e9c40b23cf47fe23f9737eb89cef0eb9a588a3/colageno-nestle-nutre-qual-escolher-nutren-protein-tabela.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T22:42:32.408Z",
+      "verification_etag_or_digest": "84f493e0e6ccdad5f8eadef8f0e9c40b23cf47fe23f9737eb89cef0eb9a588a3",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/nutren/cupom-ceci-hero.webp",
       "local_url": "/images/reviews/nutren/cupom-ceci-hero.webp",
       "media_kind": "image",
