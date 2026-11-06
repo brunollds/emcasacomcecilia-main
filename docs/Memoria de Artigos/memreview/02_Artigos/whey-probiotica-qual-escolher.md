@@ -11,7 +11,7 @@ anexo_tipo: "Anexo-Suplementos-Alimentos"
 status: "pauta-aprovada"
 responsavel: "Claude"
 proxima_acao: "redacao"
-bloqueado_por: "teste do Bruno: cupom no whey (não testado) e decisão sobre o Hiper em promoção (ver Perguntas)"
+bloqueado_por: ""
 score_autoridade: 55
 score_conversao: 65
 score_ponderado_total: 66
@@ -187,6 +187,15 @@ Nada foi editado. Propostas para o Bruno aprovar:
 
 ---
 
+## Decisões do Bruno (05/11/2026, noite)
+
+1. Preço: venda do dia, com o de lista entre parênteses, e uma frase dizendo que a promoção do Hiper pode acabar (mesmo critério da R5).
+2. Cupom: o Bruno testa o PRO10EMCASACOMCECILIA no 100% Pure Whey e no Hiper em promoção, e se soma com o Pix. O capítulo do cupom espera esse dado.
+3. O Top Whey 3W de 900 g não entra.
+4. O `probiotica-e-boa` encurta as seções de whey e o FAQ no mesmo PR (modelo da R5 no `max-titanium-e-boa`). O título usa "Hiper", como a loja.
+
+---
+
 ## Perguntas para o Bruno
 
 1. O Hiper entra como o mais barato por grama com o preço de promoção (R$ 124,90), com a data no texto? Ou só com o preço de lista (R$ 210,39)? A promoção pode acabar sem aviso (o próprio `probiotica-e-boa` já diz isso).
@@ -201,3 +210,11 @@ Nada foi editado. Propostas para o Bruno aprovar:
 - **Perfis:** quem quer o menor preço por grama de proteína e não precisa de sem lactose (Hiper, com a promoção, e a dose de 40 g); quem quer whey com a lactose declarada como ausente (Zero Lactose, com a ressalva de leite); quem quer o isolado e aceita pagar mais por grama (Iso Pro); quem tem o pote da marca em casa e compra o refil (100% Pure Whey refil).
 - **Conta própria:** pote de 900 g dividido pela dose do rótulo, com o preço do dia. O leitor compara a proteína total do pote, não o tamanho.
 - **Armadilha:** comparar o Hiper com o preço de lista e concluir que ele é caro, ou com o preço de promoção e concluir que ele é o padrão; e acreditar que "Zero Lactose" é sem leite.
+
+## Redação e Job 3 (05/11/2026)
+
+- JSON `content/reviews/whey-probiotica-qual-escolher.json` (id 836). Capa A do Job 6 (os quatro potes e o título), aprovada pelo Bruno. Fotos no corpo com o link do produto.
+- Teste do Bruno (05/11): o PRO10EMCASACOMCECILIA funcionou no 100% Pure Whey e no Hiper em promoção, e somou com o Pix. Sem o percentual de cada um: o texto segue com "até 10%, por produto".
+- Proteína: a tabela do Pure Whey diz 20 g em 30 g (a embalagem da foto, 21 g); a do Zero Lactose, 21 g (a embalagem, 22 g). O texto segue a tabela e manda conferir a embalagem.
+- Job 3 (Fable): aprovado com 5 ajustes de frase, aplicados.
+- `probiotica-e-boa`: as seções de whey viraram um resumo com link para este artigo.

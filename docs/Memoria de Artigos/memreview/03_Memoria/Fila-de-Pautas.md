@@ -10,7 +10,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 | Código | Pauta | Parceiro | Idiomas | Briefing | O que falta |
 |---|---|---|---|---|---|
-| R6 | Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hiper) | Probiótica | PT | [[whey-probiotica-qual-escolher]] | Teste do código no whey; o Iso Protein Blend tem soja e não é whey |
+| R6 | Whey Probiótica: qual escolher (100% Pure, Iso, Zero Lactose, Hiper) | Probiótica | PT | [[whey-probiotica-qual-escolher]] | Redigido e no Job 3 em 05/11 (PR R6, com a reforma do probiotica-e-boa). Falta o deploy |
 | R7 | Camiseta Insider encolhe? Como lavar, mancha e odor, com o short da Cecília | Insider | PT | [[camiseta-insider-encolhe-como-lavar]] | As 9 perguntas do briefing sobre o vídeo (peça, mancha, método, cheiro, uso). Encolher não foi testado |
 | I9 | Gift card da Insider: onde achar, valores, o cupom na compra e para quem dar (Natal e Black Friday) | Insider | PT | — | Pedido do Bruno em 05/11: o EMCASACOMCECILIA vale na compra do gift card (teste no carrinho: R$ 900 → R$ 765); o pedido pago com o saldo do cartão não aceita cupom. O cartão é difícil de achar no site: o artigo leva ao link de criador do Bruno. Falta o briefing |
 | DN1 | Dolce Gusto para CNPJ: conta Business, 10% extra e os combos com o CECI | Dolce Gusto | PT | [[dolce-gusto-cnpj-negocios-combos]] | No ar em 05/11 (release 400c60ff). DN2–DN4 depois |
