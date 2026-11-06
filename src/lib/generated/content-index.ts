@@ -175845,7 +175845,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Whey, creatina e glutamina pelo rótulo, com o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/probiotica-e-boa-capa.webp",
@@ -175873,7 +175873,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Probiótica vende",
         "paragraphs": [
-          "A Probiótica é uma marca de suplementos com loja própria no site oficial. O catálogo vai do whey e da creatina a hipercalóricos, colágeno, barras de proteína e kits. Este artigo olha o que mais se procura na marca e manda cada assunto para o guia que já tem a conta feita."
+          "A Probiótica é uma marca de suplementos com loja própria no site oficial. O catálogo vai do whey e da creatina a hipercalóricos, colágeno, barras de proteína e kits. Este artigo te guia pelos itens mais procurados da marca e indica o guia que já escrevemos sobre cada um."
         ],
         "bullets": [
           "**Whey:** 100% Pure Whey (pote e refil), Zero Lactose, Hiper 100% Whey e o isolado Iso Pro, no próximo capítulo.",
@@ -175976,7 +175976,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Vale para quem escolhe whey e creatina pela tabela nutricional e pelo preço por grama, e não pelo nome do pote.",
+        "emphasis": "Vale para quem escolhe whey e creatina pela tabela nutricional e pelo preço por grama. A Probiótica está no mercado desde 1986: é uma das marcas nacionais de suplementos mais antigas, e isso tem seu valor.",
         "bullets": [
           "Para pagar menos pela proteína, o Hiper 100% Whey enquanto estiver em promoção; fora dela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente.",
           "Para um whey que o rótulo declara sem lactose, o Zero Lactose, lembrando que o aviso de alergênicos cita derivados de leite.",
