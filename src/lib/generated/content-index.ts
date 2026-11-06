@@ -129102,6 +129102,7 @@ export const reviewsData: unknown[] = [
           "A Toda Up é confiável? É a marca da FITA UP LTDA, empresa registrada no Brasil, com CNPJ ativo e sede em Biguaçu (SC), que publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa.",
           "Qual é o CNPJ da Toda Up? O CNPJ do rodapé do site é 40.159.443/0001-44, da FITA UP LTDA, ativa desde 2020 na consulta pública. Confira o número na consulta pública do CNPJ.",
           "A Toda Up é a Fita UP? Sim. Segundo o FAQ da loja, a Fita UP cresceu e virou Toda Up, com a mesma equipe e a mesma empresa; mudaram o nome, o visual do site, as embalagens e o logo.",
+          "A Fita Up mudou de nome? Faliu? Mudou de nome: não faliu nem fechou. No FAQ da loja, a resposta a \"A Fita UP acabou?\" é \"Não, ela evoluiu!\", e a \"Toda Up é outra empresa?\", \"Nadinha!\". A fita segue à venda no todaup.com, com o mesmo CNPJ no rodapé.",
           "A Fita Up é golpe? Não. A Fita Up é a marca antiga da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 2020, e a Toda Up é a mesma empresa com marca nova. A nota, as reclamações e as respostas da loja estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
           "O site todaup.com é o oficial? É. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública do CNPJ. O domínio antigo, fitaup.com, é da mesma marca.",
           "Posso trocar uma peça da Toda Up em 30 dias? Sim. Troca por modelo, tamanho ou cor e devolução por arrependimento têm até 30 dias corridos depois do recebimento, pelo portal de trocas, com o CPF da titular e o número do pedido.",
@@ -129916,7 +129917,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Fita Up é a fita adesiva para seios da Toda Up, a marca que antes se chamava Fita Up. O passo a passo da marca é um só para o tomara que caia e o decote, e a largura, P, M ou G, segue o guia de tamanhos da página. Se dá para reutilizar, a Toda Up não informa."
+          "A Fita Up é a fita adesiva para seios da Toda Up, a marca que antes se chamava Fita Up. O passo a passo é um só para o tomara que caia e o decote, e a largura, P, M ou G, segue o guia de tamanhos. Dá para reutilizar, mas a marca não recomenda: a fita perde cola."
         ]
       },
       {
@@ -129975,7 +129976,7 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Qual largura escolher: P, M ou G",
+        "heading": "Qual largura e tamanho escolher: P, M, G e plus size",
         "paragraphs": [
           "Pelo guia de tamanhos que a Toda Up publica na página do produto, a largura define até que tamanho de roupa a fita sustenta:"
         ],
@@ -130000,7 +130001,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O guia é da marca e pode mudar. Na dúvida entre duas larguras, a página do produto é a referência."
+          "A Toda Up diz que a fita sustenta de seios pequenos a grandes. No FAQ da loja, porém, a marca fala em segurança até o tamanho 52, abaixo do 54 da tabela. Acima de 54, ela não indica a fita. A loja não usa o termo plus size e não tem largura maior que a G.",
+          "A loja também não publica a largura da fita em centímetros nem os metros do rolo. O guia é da marca e pode mudar; na dúvida entre duas larguras, a página do produto é a referência."
         ]
       },
       {
@@ -130012,7 +130014,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para reutilizar?",
         "paragraphs": [
-          "A página da Fita Up não diz se a fita pode ser colada de novo. O uso que a Toda Up descreve é cortar um pedaço por vez, colar e remover. Sem essa informação da marca, não afirmamos nem que é de uso único nem que dá para reaplicar."
+          "Dá, mas a Toda Up não recomenda: no FAQ da loja, a marca diz que a fita perde cola e sustentação a cada uso. O uso que ela descreve é cortar um pedaço por vez, colar e remover."
         ]
       },
       {
@@ -130032,8 +130034,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Fita Up é reutilizável? A Toda Up não informa. O uso descrito na página é cortar um pedaço por vez e remover com hidratante ou óleo.",
+          "A Fita Up é reutilizável? Dá para colar de novo, mas a Toda Up não recomenda: a fita perde cola e sustentação a cada uso.",
           "Qual largura da Fita Up escolher? Pelo guia da marca, P sustenta até o tamanho 44, M até o 48 e G até o 54.",
+          "Fita Up serve para plus size? A Toda Up diz que a fita sustenta de seios pequenos a grandes. Pelo guia de tamanhos, a largura G sustenta até o tamanho 54; no FAQ da loja, a marca fala em segurança até o 52. A loja não usa o termo plus size nem tem largura maior que a G.",
           "A Fita Up serve para tomara que caia? A Toda Up não cita o tomara que caia pelo nome: descreve a fita como sustentação sem sutiã, ajustável à roupa ou ao decote, com um passo a passo só, resumido acima.",
           "A Fita Up é a Toda Up? Sim. A loja diz que a marca Fita Up virou Toda Up, com o mesmo produto no catálogo.",
           "O cupom vale na Fita Up? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste no carrinho; confira no carrinho.",
