@@ -29235,7 +29235,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código CECILIA010 dá até 5% extra na YesStyle: 5% na primeira compra e 2% nas recorrentes. Veja onde fica o campo Reward Code no checkout.",
     "publishedAt": "21 Jun 2026",
     "publishedAtISO": "2026-06-21",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "Produtos de K-beauty e skincare coreano da YesStyle dispostos sobre uma mesa clara.",
@@ -29258,24 +29258,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O CECILIA010 é um código de recompensa da YesStyle que dá até 5% extra: 5% na primeira compra e 2% nas seguintes. Ele vai no campo Reward Code, separado do campo de cupom, e soma com os cupons elegíveis. O que pesa é usar cada campo certo; veja o capítulo Como usar o código CECILIA010 na YesStyle: passo a passo."
+          "O CECILIA010 é o código de recompensa da Cecília na YesStyle: dá 5% extra na primeira compra e 2% nas seguintes. Ele vai no campo Reward Code, separado do Coupon Code, e soma com os cupons elegíveis do site. Digite cada código no seu campo e confira os dois descontos no resumo antes de pagar."
         ]
       },
       {
         "heading": "Como funciona o código CECILIA010",
         "paragraphs": [
-          "Diferente do CECILIA12 e do CECI, que descontam direto no carrinho, o CECILIA010 é um Reward Code, com campo próprio no checkout.",
-          "A grande sacada é que ele possui um campo exclusivo e separado no checkout. Isso significa que ele é combinável com cupons promocionais elegíveis: você pode usá-lo ao mesmo tempo com cupons promocionais elegíveis no site, somando até 5% extra aos descontos do pedido.",
-          "Se você quer desconto direto no carrinho, os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
-          "O CECILIA010 não anula os cupons mensais da YesStyle: ele soma até 5% extra (5% na 1ª compra, 2% nas seguintes) aos cupons elegíveis. Use sempre os dois campos no checkout."
+          "O CECILIA010 é um Reward Code: vai num campo próprio do checkout da YesStyle, separado do campo de cupom (Coupon Code). Por isso ele soma com os cupons elegíveis do site, com 5% extra na primeira compra e 2% nas seguintes.",
+          "Os cupons do momento estão em [cupons YesStyle e código de recompensa](/cupons/yesstyle)."
         ],
         "bullets": [
           "Código: CECILIA010",
           "Desconto: Até 5% extra (5% 1ª compra / 2% recorrente)",
           "Tipo: Código de Influenciador / Código de Recompensa (Reward Code)",
           "Onde usar: Campo \"Código de Recompensa\" (Reward Code) no checkout da YesStyle",
-          "Como funciona: Garante até 5% extra (5% 1ª compra / 2% recorrente) no carrinho quando aplicado no campo correto",
-          "Cumulativo: SIM! Você pode usar o CECILIA010 + cupons promocionais elegíveis no mesmo pedido",
+          "Combina com: cupons promocionais elegíveis, cada um no seu campo",
           "Validade: Código ativo no programa oficial de influenciadores (verificado regularmente)"
         ],
         "links": [
@@ -29299,8 +29296,7 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA010 é código de influenciador YesStyle?",
         "paragraphs": [
           "Sim. O CECILIA010 é um código de recompensa de influenciador registrado no programa oficial de parceiros da YesStyle. Isso significa que ele foi criado especificamente para leitoras do blog Em Casa com Cecília que compram K-beauty e produtos asiáticos.",
-          "Diferente dos cupons mensais (que mudam e expiram), o código de influenciador se mantém ativo enquanto a parceria durar, e pode ser usado em novas compras. Se houver alguma limitação por conta ou por pedido, o próprio checkout da YesStyle avisa na hora de aplicar o código.",
-          "A vantagem do código de influenciador CECILIA010 é que ele funciona em um campo separado e pode ser combinado com cupons promocionais elegíveis confirmados no checkout. Isso quer dizer que você ganha até 5% extra da influenciadora (5% 1ª compra / 2% recorrente) E ainda aproveita o cupom de desconto do mês. É o melhor dos dois mundos."
+          "Diferente dos cupons mensais (que mudam e expiram), o código de influenciador se mantém ativo enquanto a parceria durar, e pode ser usado em novas compras. Se houver alguma limitação por conta ou por pedido, o próprio checkout da YesStyle avisa na hora de aplicar o código."
         ]
       },
       {
@@ -29318,7 +29314,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "2. Escolha os seus produtos e adicione ao carrinho",
         "paragraphs": [
-          "Navegue pelas diversas categorias de K-Beauty, maquiagem ou moda coreana e adicione os itens desejados ao carrinho de compras. O valor mínimo para frete grátis no Brasil aparece no checkout, depois do CEP."
+          "Navegue pelas diversas categorias de K-Beauty, maquiagem ou moda coreana e adicione os itens desejados ao carrinho de compras. O mínimo para frete grátis aparece no checkout, depois do endereço."
         ],
         "image": "/images/reviews/cupons/yesstyle-carrinho-checkout.webp",
         "imageAlt": "Carrinho da YesStyle com produtos de beleza, frete grátis para o Brasil e campo para inserir código.",
@@ -29344,7 +29340,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "5. Revise os descontos e finalize o pedido",
         "paragraphs": [
-          "Confirme se as duas camadas de desconto (código de recompensa + cupom) foram aplicadas com sucesso no subtotal do pedido. Preencha seus dados de entrega no Brasil, selecione a forma de pagamento (cartão ou PayPal) e confirme a compra.",
+          "Confirme se as duas camadas de desconto (código de recompensa + cupom) foram aplicadas com sucesso no subtotal do pedido. Preencha seus dados de entrega, selecione a forma de pagamento (cartão ou PayPal) e confirme a compra.",
           "Confira se o CECILIA010 e o cupom ativo estão cada um no seu campo: o código de recompensa colocado no campo de cupom dá erro."
         ]
       },
@@ -29369,88 +29365,39 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A YesStyle costuma oferecer cupons que mudam frequentemente. Os tipos mais comuns são: cupom de boas-vindas, cupom de retorno, cupom sazonal, cupom de categoria, cupom de frete grátis e campanhas relâmpago.",
           "Como esses códigos mudam com frequência, o mais seguro é verificar a página de promoções da própria YesStyle antes de finalizar a compra. Depois, aplique o cupom ativo no campo \"Coupon Code\" e mantenha o CECILIA010 no campo \"Reward Code\"."
-        ],
-        "bullets": [
-          "Flash Sales: promoções relâmpago de até 50% OFF por tempo limitado",
-          "Lucky Bundles: pacotes de produtos com desconto especial",
-          "Daily Free: produtos gratuitos em compras acima de certo valor",
-          "Elite Club: programa de fidelidade com descontos progressivos",
-          "Friend Rewards: indique amigos e ganhe pontos",
-          "Student Program: descontos especiais para estudantes"
         ]
       },
       {
         "heading": "O que é a YesStyle?",
         "paragraphs": [
-          "A YesStyle (também escrita como Yes Style) é uma das maiores e mais completas plataformas de e-commerce do mundo dedicadas à moda coreana, K-beauty, J-beauty (beleza japonesa) e produtos asiáticos em geral. Fundada em 2006, com sede em Hong Kong, a empresa se tornou um ponto de referência global para quem busca acessar o universo da beleza coreana e da moda oriental com confiança e autenticidade.",
-          "A YesStyle atende clientes em mais de 150 países e regiões, com versão traduzida em português e conversão de preços para facilitar a navegação no mercado brasileiro. O catálogo é gigantesco: milhares de produtos de skincare coreano, maquiagem de marcas consagradas, moda conceitual, acessórios e suplementos de bem-estar."
+          "A YesStyle é uma loja on-line de Hong Kong, fundada em 2006, que vende K-beauty, J-beauty, moda e acessórios asiáticos para mais de 150 países e regiões, com o site também em português.",
+          "O que observar antes da primeira compra está em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel), e as marcas e os produtos coreanos mais procurados, em [K-beauty: o que é e onde comprar](/reviews/k-beauty-o-que-e-onde-comprar)."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "Página inicial da YesStyle em português com banner de promoção de K-beauty e produtos em destaque.",
         "imageCaption": "A YesStyle reúne campanhas promocionais, produtos de K-beauty e navegação traduzida para português.",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty (Beleza Coreana): séruns de glass skin, essências, tônicos, protetores solares e produtos para a famosa rotina de cuidados asiática",
-          "Moda Coreana e Asiática: roupas, sapatos, bolsas e acessórios inspirados nas tendências urbanas de Seul e Tóquio",
-          "J-Beauty e Bem-Estar: marcas japonesas renomadas (como Hada Labo) e suplementos alimentares"
-        ]
-      },
-      {
-        "heading": "K-Beauty no Brasil: o que as brasileiras buscam",
-        "paragraphs": [
-          "A K-beauty (beleza coreana) se transformou em uma verdadeira febre de consumo no Brasil. O que começou como uma curiosidade de nicho impulsionada por fãs de K-pop e K-dramas se consolidou como uma das tendências mais fortes de cuidados com a pele no mercado brasileiro de cosméticos.",
-          "Comprar na YesStyle é uma das formas mais seguras de adquirir K-beauty original, pois o site compra direto das marcas e tem um portfólio muito maior do que os revendedores locais no Brasil."
-        ],
-        "image": "/images/reviews/cupons/yesstyle-regioes-kbeauty.webp",
-        "imageAlt": "Seção de regiões da YesStyle com categorias de beleza japonesa, beleza chinesa e beleza do sudeste asiático.",
-        "imageCaption": "Além da K-beauty, a YesStyle também organiza produtos por regiões e tendências asiáticas.",
-        "imageFit": "wide",
-        "bullets": [
-          "Glass skin: pele intensamente hidratada, luminosa e uniforme",
-          "Rotina coreana: foco em etapas como double cleansing (limpeza dupla), tônicos hidratantes e essências nutritivas",
-          "Ingredientes consagrados: centella asiática (calmante), snail mucin (baba de caracol para regeneração), propólis e ácido hialurônico"
-        ]
-      },
-      {
-        "heading": "O que comprar na YesStyle: guia por categoria",
-        "paragraphs": [
-          "As principais categorias são:"
-        ],
-        "bullets": [
-          "K-Beauty e Skincare Coreano: COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
-          "Maquiagem Coreana: ETUDE (sombras, blushes), CLIO (bases, delineadores), Peripera (tints, máscaras), Judydoll, fwee, nuse.",
-          "Moda Coreana: estilo minimalista e elegante, cores neutras, cortes oversized, peças versáteis. Roupas casuais, vestidos, blazers, calças wide-leg, sapatos, bolsas.",
-          "J-Beauty (Beleza Japonesa): Hada Labo, DHC, Kose, Shiseido. Foco em prevenção, anti-aging, hidratação em camadas.",
-          "Chinese Beauty (C-Beauty): marcas chinesas em ascensão, preços acessíveis, fórmulas com ingredientes tradicionais chineses.",
-          "Suplementos e Health & Wellness: colágeno, vitaminas, proteínas, produtos para cabelo e unhas.",
-          "Acessórios e Lifestyle: presilhas, tiaras, bolsas, meias estampadas, capinhas, itens para casa e decoração."
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "Frete e entrega para o Brasil",
         "paragraphs": [
-          "A YesStyle tem frete grátis a partir de um mínimo, que muda por país. Para o Brasil, o valor do frete, o mínimo para frete grátis e as opções de envio aparecem no checkout, depois do CEP.",
-          "O prazo é o tempo para o pedido ficar pronto mais o prazo do método de envio, a partir de Hong Kong, e aparece no checkout. A alfândega pode somar alguns dias, e o prazo varia com a região do Brasil e a época do ano."
-        ],
-        "bullets": [
-          "Rastreamento: código de rastreamento fornecido para todos os pedidos, disponível no e-mail e na conta YesStyle",
-          "Entrega final: feita pelos Correios ou transportadora parceira",
-          "Alfândega: é normal o pedido ficar alguns dias em \"Customs clearance\""
+          "Esta parte vale para quem recebe no Brasil. A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada, e as condições de Portugal, estão em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Quando a entrega está disponível, o frete, o mínimo para frete grátis e o prazo aparecem no checkout, depois do endereço. A alfândega pode somar alguns dias."
         ]
       },
       {
         "heading": "Taxas e importação: o que pode ser cobrado",
         "paragraphs": [
-          "Compras internacionais podem passar por análise alfandegária no Brasil e podem gerar impostos, taxas de importação, cobranças administrativas ou outras despesas relacionadas à liberação do pedido. Por isso, além de calcular produto e frete, vale considerar a possibilidade de custo extra antes de comprar.",
-          "A YesStyle diz que pedidos abaixo de US$ 1.000 podem ter reembolso de taxas alfandegárias, se você pagar primeiro, guardar o comprovante e pedir em até 30 dias. Esse reembolso, quando aprovado, é emitido como Crédito da Loja YesStyle.",
-          "Antes de comprar, confira a página oficial de ajuda da YesStyle sobre reembolso de impostos e taxas alfandegárias, porque regras de importação e políticas da loja podem mudar."
+          "Compras internacionais podem passar pela alfândega e gerar impostos de importação e taxas administrativas ou de corretagem. Por isso, além do produto e do frete, conte com a possibilidade de custo extra.",
+          "Pela [política de reembolso de taxas alfandegárias da YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), pedidos abaixo de US$ 1.000 (valor antes do desconto do cupom e sem o frete) podem ter esses custos de volta. Você paga primeiro, guarda o comprovante e faz o pedido ao atendimento em até 30 dias, contados da data do comprovante de pagamento. O reembolso aprovado sai como Crédito da Loja YesStyle.",
+          "A política não cobre taxas do correio ou da transportadora, como armazenagem e pacote não retirado. Em entregas para a União Europeia, Portugal incluído, o IVA também fica de fora; a lista de destinos com exclusões está na página da YesStyle."
         ],
         "bullets": [
-          "Guarde o comprovante de pagamento de qualquer taxa alfandegária paga no Brasil",
-          "Envie a solicitação de reembolso pelo atendimento da YesStyle dentro do prazo de 30 dias",
-          "O reembolso não é automático: depende da análise e das regras da política vigente da YesStyle",
-          "Pedidos de US$ 1.000 ou mais não entram nessa política de reembolso informada pela marca",
-          "O reembolso é feito como Crédito da Loja YesStyle, não necessariamente como dinheiro de volta no cartão"
+          "Guarde o comprovante de pagamento de qualquer taxa alfandegária",
+          "Peça o reembolso ao atendimento da YesStyle em até 30 dias, contados da data do comprovante",
+          "O reembolso não é automático: depende da análise da YesStyle",
+          "Pedidos de US$ 1.000 ou mais (antes do cupom e sem o frete) ficam fora da política",
+          "O reembolso sai como Crédito da Loja YesStyle, não como dinheiro de volta no cartão"
         ]
       },
       {
@@ -29462,7 +29409,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales: promoções relâmpago de até 50% OFF por tempo limitado. Entre no site diariamente e adicione produtos à Wishlist.",
           "Explore os Lucky Bundles: pacotes de produtos com preço reduzido (skincare, maquiagem, kits temáticos como \"Glass Skin Routine\").",
           "Use a Wishlist inteligentemente: receba notificações quando o preço cair, organize compras futuras, planeje para aproveitar o frete grátis.",
-          "Aproveite o Elite Club: programa de fidelidade com pontos acumulados: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "Aproveite o Elite Club: o nível Bronze vem com o primeiro pedido, o Silver com US$ 100 em compras acumuladas e o Gold com US$ 500. Cada nível rende mais YS Points por dólar (2, 3 e 5) e dá cupons de 12% OFF (um, dois e três), e vale até o fim do 12º mês depois de alcançado. As regras estão na [página do Elite Club](https://www.yesstyle.com/en/elite-club.html).",
           "Não ignore os produtos \"Daily Free\": produtos gratuitos em compras acima de certo valor.",
           "Leia as avaliações (reviews): fotos reais, comentários sobre textura, cheiro e resultado, informações sobre validade.",
           "Compare com o preço no Brasil: pesquise em Beleza na Web, Sephora e revendedores de K-beauty antes de comprar.",
@@ -29480,21 +29427,18 @@ export const reviewsData: unknown[] = [
           "Posso somar o CECILIA010 ao cupom da promoção do mês? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma até 5% extra (5% na primeira compra e 2% em compras recorrentes) aos cupons promocionais elegíveis confirmados no checkout.",
           "O CECILIA010 tem validade? Funciona enquanto o programa de influenciadores da YesStyle estiver ativo e o código for verificado regularmente.",
           "Comprar na YesStyle é seguro? Sim. Empresa legítima desde 2006, atende mais de 150 países e regiões, produtos autênticos, criptografia SSL.",
-          "Quanto tempo demora para chegar no Brasil? O prazo estimado aparece no checkout, depois do CEP. O tempo na alfândega pode adicionar dias extras.",
-          "Vou pagar taxa de importação? Pode acontecer. Se houver cobrança alfandegária, verifique a política oficial da YesStyle: a marca informa possibilidade de reembolso de impostos e taxas alfandegárias para pedidos elegíveis abaixo de US$ 1.000, mediante comprovante e solicitação dentro do prazo, em forma de Crédito da Loja.",
+          "Quanto tempo demora para chegar no Brasil? A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada está em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal). Quando a entrega está disponível, o prazo aparece no checkout, e a alfândega pode somar alguns dias.",
+          "Vou pagar taxa de importação? Pode acontecer. Pela [política da YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), pedidos abaixo de US$ 1.000 (antes do cupom e sem o frete) podem ter os impostos e taxas alfandegárias devolvidos em Crédito da Loja: você paga, guarda o comprovante e pede em até 30 dias, contados da data do comprovante de pagamento.",
           "Qual a melhor forma de pagar? Cartão de crédito internacional (Visa, Mastercard, Amex) ou PayPal. A conversão é feita automaticamente pela operadora.",
           "Os produtos são originais? Sim. A YesStyle é distribuidora autorizada das marcas. Compra diretamente dos fabricantes ou distribuidores oficiais.",
           "Posso devolver produtos? A política é limitada para compras internacionais. Produtos com defeito ou envio errado podem ser devolvidos. Produtos de K-beauty (skincare, maquiagem) geralmente não podem ser devolvidos por questões de higiene, a menos que estejam selados.",
-          "O que é o Elite Club? Programa de fidelidade da YesStyle. Quanto mais você gasta, mais pontos acumula: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "O que é o Elite Club? É o programa de fidelidade da YesStyle. O nível Bronze vem com o primeiro pedido, o Silver com US$ 100 em compras acumuladas e o Gold com US$ 500; cada nível rende mais YS Points por dólar e dá cupons de 12% OFF. O CECILIA010 continua no campo Reward Code, em qualquer nível.",
           "O site tem versão em português? Sim! No topo do site você pode selecionar o idioma para português.",
-          "O frete grátis funciona para todo o Brasil? O valor mínimo para frete grátis aparece no checkout, depois do CEP. O prazo pode ser mais longo para regiões distantes.",
           "Como rastrear meu pedido da YesStyle? Após a confirmação de envio, a YesStyle envia um e-mail com o código de rastreamento internacional. Você também pode acessar o histórico de pedidos logado na sua conta. O rastreamento funciona via serviços como 17track ou no próprio site da transportadora. O prazo estimado aparece no checkout e pode variar na alfândega brasileira.",
-          "O que fazer se meu pedido da YesStyle for retido na alfândega? Se o pedido for parado na Receita Federal, você pode ser notificado para pagar o Imposto de Importação. A YesStyle informa que, para pedidos elegíveis abaixo de US$ 1.000, é possível solicitar reembolso de impostos e taxas alfandegárias em forma de Crédito da Loja, mediante comprovante de pagamento e solicitação ao atendimento em até 30 dias.",
-          "As roupas da YesStyle usam tamanhos asiáticos. Como escolher o meu? Sim, a maioria das roupas segue a numeração asiática, que costuma ser menor que a brasileira. Sempre consulte a tabela de medidas disponível na página de cada produto (geralmente em centímetros) e compare com suas medidas corporais. Recomendamos pedir um ou dois tamanhos acima do habitual, especialmente em peças mais justas.",
-          "Quais são as marcas de K-beauty mais vendidas na YesStyle? A YesStyle é distribuidora autorizada de marcas consagradas como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul e Haruharu. O site organiza os produtos por categorias como essências, tônicos, séruns e protetores solares, facilitando a busca por rotina de skincare coreana.",
-          "Posso cancelar ou alterar um pedido na YesStyle depois de confirmado? A YesStyle permite cancelar pedidos que ainda não foram enviados (status 'Processing') diretamente pelo histórico de pedidos na sua conta. Após o envio, não é possível cancelar, mas você pode recusar a entrega quando chegar ao Brasil. Alterações de endereço ou produtos só são possíveis antes do envio, via atendimento ao cliente.",
+          "O que fazer se meu pedido da YesStyle for retido na alfândega? Se a alfândega cobrar impostos, pague, guarde o comprovante e peça o reembolso ao atendimento da YesStyle em até 30 dias, contados da data do comprovante; para pedidos elegíveis abaixo de US$ 1.000, ele sai como Crédito da Loja. Se a alfândega pedir documentos, envie: pela [política de alfândega da YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), pacote recusado por questão alfandegária, como não pagar os impostos ou não enviar documentos pedidos, fica sem reembolso e sem reenvio.",
+          "Posso cancelar ou alterar um pedido na YesStyle depois de confirmado? Dá para cancelar pelo histórico de pedidos enquanto o pedido ainda não foi enviado (status 'Processing'), e endereço ou produtos só mudam antes do envio, pelo atendimento. Depois do envio, fale com o atendimento antes de pensar em recusar a entrega: pela [política de alfândega da YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), pacote recusado por questão alfandegária, como não pagar os impostos ou não enviar documentos pedidos, fica sem reembolso e sem reenvio.",
           "Código YesStyle para primeira compra: como usar o CECILIA010? O código CECILIA010 funciona em qualquer compra, garantindo até 5% extra (5% na primeira compra e 2% em compras recorrentes), combinável com cupons promocionais elegíveis confirmados no checkout.",
-          "Código de influenciador YesStyle: o que é o CECILIA010? O CECILIA010 é um código de recompensa de influenciador registrado na YesStyle. Ele concede até 5% de desconto extra (5% na primeira compra e 2% em compras recorrentes) no checkout e pode ser combinado com cupons promocionais elegíveis, diferente de códigos de primeira compra que geralmente não são cumulativos."
+          "Código de influenciador YesStyle: o que é o CECILIA010? É o código de recompensa da Cecília, registrado no programa de parceiros da YesStyle. Ele dá 5% extra na primeira compra e 2% nas seguintes, no campo Reward Code, e pode ser combinado com cupons promocionais elegíveis no campo Coupon Code."
         ]
       }
     ],
@@ -29747,7 +29691,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "How to use CECILIA010 on YesStyle: the Reward Code field, up to 5% extra (5% on the first order and 2% on repeat orders), combinable with eligible promo coupons as shown at checkout.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
@@ -29771,24 +29715,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "CECILIA010 is a YesStyle Reward Code that gives up to 5% extra: 5% on your first order and 2% on the following ones. It goes in the Reward Code field, separate from the coupon field, and stacks with eligible coupons. What matters is using each field correctly; see the chapter How to use the code CECILIA010 on YesStyle: step by step."
+          "CECILIA010 is Cecília's Reward Code at YesStyle: it gives 5% extra on your first order and 2% on the following ones. It goes in the Reward Code field, separate from the Coupon Code field, and stacks with eligible coupons on the site. Enter each code in its own field and check both discounts in the summary before paying."
         ]
       },
       {
         "heading": "How the code CECILIA010 works",
         "paragraphs": [
-          "Unlike CECILIA12 and CECI, which take the discount straight off the cart, CECILIA010 is a Reward Code with its own field at checkout.",
-          "The big plus is that it has an exclusive, separate field at checkout. That means you can combine it with eligible promo coupons: use it at the same time as the promo coupons on the site and add up to 5% extra to your order's discounts.",
-          "If you want a discount straight in the cart, the current coupons are at [YesStyle coupons and Reward Code](/en/coupons/yesstyle).",
-          "CECILIA010 does not cancel YesStyle's monthly coupons: it adds up to 5% extra (5% on the 1st order, 2% on the following ones) on top of eligible coupons. Always use both fields at checkout."
+          "CECILIA010 is a Reward Code: it goes in its own field at YesStyle checkout, separate from the coupon field (Coupon Code). That is why it stacks with the site's eligible coupons, with 5% extra on the first order and 2% on the following ones.",
+          "The current coupons are at [YesStyle coupons and Reward Code](/en/coupons/yesstyle)."
         ],
         "bullets": [
           "Code: CECILIA010",
           "Discount: Up to 5% extra (5% 1st order / 2% repeat)",
           "Type: Influencer Code / Reward Code",
           "Where to use it: \"Reward Code\" field at YesStyle checkout",
-          "How it works: Gives up to 5% extra (5% 1st order / 2% repeat) on your cart when entered in the right field",
-          "Stackable: YES! You can use CECILIA010 + eligible promo coupons on the same order",
+          "Works with: eligible promo coupons, each in its own field",
           "Validity: Code active in the official influencer program (checked regularly)"
         ],
         "links": [
@@ -29812,8 +29753,7 @@ export const reviewsData: unknown[] = [
         "heading": "Is CECILIA010 a YesStyle influencer code?",
         "paragraphs": [
           "Yes. CECILIA010 is an influencer Reward Code registered in YesStyle's official partner program. It was created specifically for readers of the Em Casa com Cecília blog who buy K-beauty and Asian products.",
-          "Unlike the monthly coupons (which change and expire), the influencer code stays active as long as the partnership lasts, and can be used on new orders. If there is any limit per account or per order, YesStyle's own checkout tells you when you apply the code.",
-          "The advantage of the influencer code CECILIA010 is that it works in a separate field and can be combined with eligible promo coupons confirmed at checkout. That means you get up to 5% extra from the influencer (5% 1st order / 2% repeat) AND still enjoy the month's discount coupon. The best of both worlds."
+          "Unlike the monthly coupons (which change and expire), the influencer code stays active as long as the partnership lasts, and can be used on new orders. If there is any limit per account or per order, YesStyle's own checkout tells you when you apply the code."
         ]
       },
       {
@@ -29882,60 +29822,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle tends to offer coupons that change often. The most common types are: welcome coupon, comeback coupon, seasonal coupon, category coupon, free-shipping coupon and flash campaigns.",
           "Since these codes change often, the safest move is to check YesStyle's own promotions page before you check out. Then apply the active coupon in the \"Coupon Code\" field and keep CECILIA010 in the \"Reward Code\" field."
-        ],
-        "bullets": [
-          "Flash Sales: lightning promotions of up to 50% OFF for a limited time",
-          "Lucky Bundles: product bundles at a special discount",
-          "Daily Free: free products on orders above a certain value",
-          "Elite Club: loyalty program with progressive discounts",
-          "Friend Rewards: refer friends and earn points",
-          "Student Program: special discounts for students"
         ]
       },
       {
         "heading": "What is YesStyle?",
         "paragraphs": [
-          "YesStyle (also written Yes Style) is one of the largest and most complete e-commerce platforms in the world dedicated to Korean fashion, K-beauty, J-beauty (Japanese beauty) and Asian products in general. Founded in 2006 and based in Hong Kong, the company has become a global reference for anyone looking to explore Korean beauty and Eastern fashion with confidence and authenticity.",
-          "YesStyle serves customers in more than 150 countries and regions, with a language selector and price conversion to make browsing easier. The catalog is huge: thousands of Korean skincare products, makeup from established brands, trend-led fashion, accessories and wellness supplements."
+          "YesStyle is an online store based in Hong Kong, founded in 2006, that sells K-beauty, J-beauty, fashion and Asian accessories to more than 150 countries and regions.",
+          "What to check before your first order is in [Is YesStyle Legit and Safe? What to Know Before Shopping](/en/reviews/is-yesstyle-legit-and-safe-review), and the most sought-after Korean brands and products are in [K-Beauty Explained: Why It Became a Global Trend and Where to Shop](/en/reviews/k-beauty-trend-explained-where-to-buy)."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "YesStyle home page with a K-beauty promotion banner and featured products.",
         "imageCaption": "YesStyle brings together promotional campaigns, K-beauty products and translated navigation.",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty (Korean Beauty): glass skin serums, essences, toners, sunscreens and products for the famous Asian skincare routine",
-          "Korean and Asian Fashion: clothes, shoes, bags and accessories inspired by urban trends from Seoul and Tokyo",
-          "J-Beauty and Wellness: renowned Japanese brands (such as Hada Labo) and dietary supplements"
-        ]
-      },
-      {
-        "heading": "What to buy on YesStyle: a guide by category",
-        "paragraphs": [
-          "The main categories are:"
-        ],
-        "bullets": [
-          "K-Beauty and Korean Skincare: COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
-          "Korean Makeup: ETUDE (eyeshadows, blushes), CLIO (foundations, eyeliners), Peripera (tints, mascaras), Judydoll, fwee, nuse.",
-          "Korean Fashion: minimalist, elegant style, neutral colors, oversized cuts, versatile pieces. Casual clothes, dresses, blazers, wide-leg pants, shoes, bags.",
-          "J-Beauty (Japanese Beauty): Hada Labo, DHC, Kose, Shiseido. Focus on prevention, anti-aging, layered hydration.",
-          "Chinese Beauty (C-Beauty): rising Chinese brands, affordable prices, formulas with traditional Chinese ingredients.",
-          "Supplements and Health & Wellness: collagen, vitamins, proteins, hair and nail products.",
-          "Accessories and Lifestyle: hair clips, headbands, bags, printed socks, phone cases, home and decor items."
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "Taxes and import: what can be charged",
         "paragraphs": [
-          "International purchases may go through customs inspection and may incur taxes, import duties, administrative charges or other costs related to releasing the order. So, besides working out the product and shipping, it is worth allowing for the possibility of an extra cost before you buy.",
-          "YesStyle says that orders under US$ 1,000 may get a refund of customs fees, if you pay first, keep the receipt and request it within 30 days. When approved, this refund is issued as YesStyle Store Credit.",
-          "Before buying, check YesStyle's official help page on refunds of taxes and customs fees, because import rules and store policies can change."
+          "International purchases may go through customs inspection and may incur taxes, import duties, administrative charges or other costs related to releasing the order. So, besides working out the product and shipping, it is worth allowing for the possibility of an extra cost before you buy. Shipping, delivery time and rules change with the destination country. For the United States, the United Kingdom, Canada and Australia, see [Does YesStyle ship to the US, UK, Canada and Australia? Delivery times, shipping costs and customs](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "Under [YesStyle's customs tax refund policy](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), orders under US$ 1,000 (amount before the coupon discount and without shipping) may get these costs back. You pay first, keep the receipt and ask customer service within 30 days of the date on the proof of payment. An approved refund is issued as YesStyle Credit.",
+          "The policy does not cover post or carrier fees, such as storage and parcels not collected or returned. Sales tax is also left out, and for deliveries to the United States, the United Kingdom, Australia and New Zealand, and Canada (Saskatchewan only), VAT, GST and PST are left out too; the list of destinations with exclusions is on the YesStyle page."
         ],
         "bullets": [
-          "Keep the proof of payment for any customs fee paid",
-          "Send the refund request through YesStyle's support within the 30-day deadline",
-          "The refund is not automatic: it depends on review and on the rules of YesStyle's current policy",
-          "Orders of US$ 1,000 or more are not covered by this refund policy as stated by the brand",
-          "The refund is issued as YesStyle Store Credit, not necessarily as money back on your card"
+          "Keep the proof of payment for any customs fee you pay",
+          "Ask YesStyle customer service for the refund within 30 days of the date on the proof of payment",
+          "The refund is not automatic: it depends on YesStyle's review",
+          "Orders of US$ 1,000 or more (before the coupon and without shipping) are outside the policy",
+          "The refund is issued as YesStyle Credit, not as money back on your card"
         ]
       },
       {
@@ -29947,7 +29859,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales: lightning promotions of up to 50% OFF for a limited time. Visit the site daily and add products to your Wishlist.",
           "Explore the Lucky Bundles: product packs at a reduced price (skincare, makeup, themed kits such as \"Glass Skin Routine\").",
           "Use the Wishlist smartly: get notified when the price drops, organize future purchases, plan ahead to reach free shipping.",
-          "Take advantage of the Elite Club: loyalty program with accumulated points: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "Take advantage of the Elite Club: Bronze comes with any order of at least US$ 1 after coupons and points, Silver with US$ 100 in accumulated purchases and Gold with US$ 500. Each tier earns more YS Points per US$ 1 (2, 3 and 5) and gives 12% OFF coupons (one, two and three), valid until the end of the 12th month after you reach it. The rules are on the [Elite Club page](https://www.yesstyle.com/en/elite-club.html).",
           "Don't overlook the \"Daily Free\" products: free products on orders above a certain value.",
           "Read the reviews: real photos, comments on texture, scent and results, information on expiry dates.",
           "Watch the seasons: Black Friday (November), 11.11 (Singles' Day), Christmas, Summer Sale (June/July), Back to School (August/September).",
@@ -29964,19 +29876,17 @@ export const reviewsData: unknown[] = [
           "Can I stack CECILIA010 with the month's promo coupon? Yes! It goes in the \"Reward Code\" field, while coupons go in the \"Coupon Code\" field. That way you add up to 5% extra (5% on the first order and 2% on repeat orders) to the eligible promo coupons confirmed at checkout.",
           "Does CECILIA010 expire? It works as long as YesStyle's influencer program is active and the code is checked regularly.",
           "Is it safe to buy on YesStyle? Yes. A legitimate company since 2006, serving more than 150 countries and regions, with authentic products and SSL encryption.",
-          "Will I pay import tax? It can happen. If there is a customs charge, check YesStyle's official policy: the brand states that taxes and customs fees may be refunded for eligible orders under US$ 1,000, with proof of payment and a request made within the deadline, as Store Credit.",
+          "Will I pay import tax? It can happen. Under [YesStyle's policy](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), orders under US$ 1,000 (before the coupon and without shipping) may get customs taxes and fees back as YesStyle Credit: you pay, keep the receipt and ask within 30 days of the date on the proof of payment.",
           "What is the best way to pay? International credit card (Visa, Mastercard, Amex) or PayPal. The currency conversion is done automatically by the card issuer.",
           "Are the products original? Yes. YesStyle is an authorized distributor of the brands. It buys directly from manufacturers or official distributors.",
           "Can I return products? The policy is limited for international purchases. Defective or wrongly shipped products can be returned. K-beauty products (skincare, makeup) generally cannot be returned for hygiene reasons, unless they are sealed.",
-          "What is the Elite Club? YesStyle's loyalty program. The more you spend, the more points you earn: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "What is the Elite Club? It is YesStyle's loyalty program. Bronze comes with any order of at least US$ 1 after coupons and points, Silver with US$ 100 in accumulated purchases and Gold with US$ 500; each tier earns more YS Points per US$ 1 and gives 12% OFF coupons. CECILIA010 stays in the Reward Code field at any tier.",
           "Does the site have other languages? Yes! At the top of the site you can switch the language.",
           "How do I track my YesStyle order? After shipping is confirmed, YesStyle sends an email with the international tracking code. You can also check your order history by logging in to your account. Tracking works through services such as 17track or the carrier's own site. The estimated delivery time appears at checkout and may vary in customs.",
-          "What should I do if my YesStyle order is held in customs? If the order is held in customs, you may be notified to pay the import tax. YesStyle states that, for eligible orders under US$ 1,000, you can request a refund of taxes and customs fees as Store Credit, with proof of payment and a request to support within 30 days.",
-          "YesStyle clothes use Asian sizes. How do I choose mine? Yes, most clothes follow Asian sizing. Always check the measurement chart on each product page (usually in centimeters) and compare it with your body measurements. We recommend ordering one or two sizes up, especially for fitted pieces.",
-          "Which are the best-selling K-beauty brands on YesStyle? YesStyle is an authorized distributor of established brands such as COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul and Haruharu. The site organizes products by categories such as essences, toners, serums and sunscreens, making it easier to build a Korean skincare routine.",
-          "Can I cancel or change an order on YesStyle after it is confirmed? YesStyle lets you cancel orders that have not shipped yet ('Processing' status) directly from the order history in your account. After shipping, it is not possible to cancel, but you can refuse the delivery when it arrives. Changes to the address or products are only possible before shipping, through customer service.",
+          "What should I do if my YesStyle order is held in customs? If customs charges taxes, pay them, keep the receipt and ask YesStyle customer service for the refund within 30 days of the date on the proof of payment; for eligible orders under US$ 1,000 it is issued as YesStyle Credit. If customs asks for documents, send them: under [YesStyle's customs policy](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), a parcel refused over a customs issue, such as not paying the taxes or not sending the requested documents, gets no refund and no reshipment.",
+          "Can I cancel or change an order on YesStyle after it is confirmed? You can cancel from the order history while the order has not shipped yet ('Processing' status), and address or product changes are only possible before shipping, through customer service. After shipping, talk to customer service before thinking about refusing the delivery: under [YesStyle's customs policy](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), a parcel refused over a customs issue, such as not paying the taxes or not sending the requested documents, gets no refund and no reshipment.",
           "YesStyle first-order code: how do I use CECILIA010? The code CECILIA010 works on any order, giving up to 5% extra (5% on the first order and 2% on repeat orders), combinable with eligible promo coupons confirmed at checkout.",
-          "YesStyle influencer code: what is CECILIA010? CECILIA010 is an influencer Reward Code registered at YesStyle. It gives up to 5% extra discount (5% on the first order and 2% on repeat orders) at checkout and can be combined with eligible promo coupons, unlike first-order codes, which are usually not stackable."
+          "YesStyle influencer code: what is CECILIA010? It is Cecília's Reward Code, registered in YesStyle's partner program. It gives 5% extra on the first order and 2% on the following ones, in the Reward Code field, and can be combined with eligible promo coupons in the Coupon Code field."
         ]
       }
     ],
@@ -30010,7 +29920,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Cómo usar CECILIA010 en YesStyle: campo Reward Code, hasta un 5% extra (5% en la primera compra y 2% en las recurrentes), combinable con cupones promocionales elegibles según el checkout.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
@@ -30034,24 +29944,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "CECILIA010 es un código de recompensa (Reward Code) de YesStyle que da hasta un 5% extra: 5% en la primera compra y 2% en las siguientes. Va en el campo Reward Code, aparte del campo de cupón, y se suma a los cupones elegibles. Lo que importa es usar cada campo correctamente; mira el capítulo Cómo usar el código CECILIA010 en YesStyle: paso a paso."
+          "CECILIA010 es el código de recompensa de Cecília en YesStyle: da un 5% extra en la primera compra y un 2% en las siguientes. Va en el campo Reward Code, aparte del Coupon Code, y se suma a los cupones elegibles. Escribe cada código en su campo y revisa los dos descuentos en el resumen antes de pagar."
         ]
       },
       {
         "heading": "Cómo funciona el código CECILIA010",
         "paragraphs": [
-          "A diferencia de CECILIA12 y CECI, que descuentan directamente en el carrito, CECILIA010 es un código de recompensa (Reward Code) con su propio campo en el checkout.",
-          "Lo mejor es que tiene un campo exclusivo y separado en el checkout. Eso significa que se puede combinar con cupones promocionales elegibles: puedes usarlo a la vez que los cupones promocionales del sitio y sumar hasta un 5% extra a los descuentos del pedido.",
-          "Si quieres un descuento directo en el carrito, los cupones del momento están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
-          "CECILIA010 no anula los cupones mensuales de YesStyle: suma hasta un 5% extra (5% en la 1.ª compra, 2% en las siguientes) a los cupones elegibles. Usa siempre los dos campos en el checkout."
+          "CECILIA010 es un código de recompensa (Reward Code): va en un campo propio del checkout de YesStyle, aparte del campo de cupón (Coupon Code). Por eso se suma a los cupones elegibles del sitio, con un 5% extra en la primera compra y un 2% en las siguientes.",
+          "Los cupones del momento están en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle)."
         ],
         "bullets": [
           "Código: CECILIA010",
           "Descuento: hasta un 5% extra (5% 1.ª compra / 2% recurrente)",
           "Tipo: código de influencer / código de recompensa (Reward Code)",
           "Dónde usarlo: campo \"Código de recompensa\" (Reward Code) en el checkout de YesStyle",
-          "Cómo funciona: asegura hasta un 5% extra (5% 1.ª compra / 2% recurrente) en el carrito cuando se aplica en el campo correcto",
-          "Acumulable: ¡SÍ! Puedes usar CECILIA010 + cupones promocionales elegibles en el mismo pedido",
+          "Se combina con: cupones promocionales elegibles, cada uno en su campo",
           "Vigencia: código activo en el programa oficial de influencers (verificado con regularidad)"
         ],
         "links": [
@@ -30075,8 +29982,7 @@ export const reviewsData: unknown[] = [
         "heading": "¿CECILIA010 es un código de influencer de YesStyle?",
         "paragraphs": [
           "Sí. CECILIA010 es un código de recompensa de influencer registrado en el programa oficial de socios de YesStyle. Fue creado específicamente para las lectoras del blog Em Casa com Cecília que compran K-beauty y productos asiáticos.",
-          "A diferencia de los cupones mensuales (que cambian y caducan), el código de influencer sigue activo mientras dure la alianza y se puede usar en nuevas compras. Si hay algún límite por cuenta o por pedido, el propio checkout de YesStyle lo avisa al aplicar el código.",
-          "La ventaja del código de influencer CECILIA010 es que funciona en un campo aparte y se puede combinar con cupones promocionales elegibles confirmados en el checkout. Eso quiere decir que obtienes hasta un 5% extra de la influencer (5% 1.ª compra / 2% recurrente) Y además aprovechas el cupón de descuento del mes. Lo mejor de los dos mundos."
+          "A diferencia de los cupones mensuales (que cambian y caducan), el código de influencer sigue activo mientras dure la alianza y se puede usar en nuevas compras. Si hay algún límite por cuenta o por pedido, el propio checkout de YesStyle lo avisa al aplicar el código."
         ]
       },
       {
@@ -30145,60 +30051,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle suele ofrecer cupones que cambian con frecuencia. Los tipos más comunes son: cupón de bienvenida, cupón de recompra, cupón de temporada, cupón de categoría, cupón de envío gratis y campañas relámpago.",
           "Como estos códigos cambian a menudo, lo más seguro es consultar la página de promociones de la propia YesStyle antes de finalizar la compra. Después, aplica el cupón activo en el campo \"Coupon Code\" y mantén CECILIA010 en el campo \"Reward Code\"."
-        ],
-        "bullets": [
-          "Flash Sales: promociones relámpago de hasta un 50% de descuento por tiempo limitado",
-          "Lucky Bundles: paquetes de productos con descuento especial",
-          "Daily Free: productos gratis en compras superiores a cierto importe",
-          "Elite Club: programa de fidelidad con descuentos progresivos",
-          "Friend Rewards: invita a amigos y gana puntos",
-          "Student Program: descuentos especiales para estudiantes"
         ]
       },
       {
         "heading": "¿Qué es YesStyle?",
         "paragraphs": [
-          "YesStyle (también escrita Yes Style) es una de las plataformas de comercio electrónico más grandes y completas del mundo dedicadas a la moda coreana, la K-beauty, la J-beauty (belleza japonesa) y los productos asiáticos en general. Fundada en 2006 y con sede en Hong Kong, la empresa se ha convertido en un referente global para quien busca acceder al universo de la belleza coreana y la moda oriental con confianza y autenticidad.",
-          "YesStyle atiende a clientes en más de 150 países y regiones, con selector de idioma y conversión de precios para facilitar la navegación. El catálogo es enorme: miles de productos de cuidado de la piel coreano, maquillaje de marcas consagradas, moda conceptual, accesorios y suplementos de bienestar."
+          "YesStyle es una tienda en línea con sede en Hong Kong, fundada en 2006, que vende K-beauty, J-beauty, moda y accesorios asiáticos a más de 150 países y regiones.",
+          "Lo que conviene revisar antes de la primera compra está en [¿YesStyle es confiable y seguro? Quién la opera, de dónde es y envíos](/es/reviews/es-yesstyle-de-fiar-y-seguro), y las marcas y los productos coreanos más buscados, en [K-Beauty: Por Qué Se Convirtió en Tendencia Mundial y Dónde Comprar las Marcas Coreanas](/es/reviews/k-beauty-marcas-coreanas-tendencia-mundial)."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "Página de inicio de YesStyle con un banner de promoción de K-beauty y productos destacados.",
         "imageCaption": "YesStyle reúne campañas promocionales, productos de K-beauty y navegación traducida.",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty (belleza coreana): sérums de glass skin, esencias, tónicos, protectores solares y productos para la famosa rutina de cuidado asiática",
-          "Moda coreana y asiática: ropa, zapatos, bolsos y accesorios inspirados en las tendencias urbanas de Seúl y Tokio",
-          "J-Beauty y bienestar: marcas japonesas de renombre (como Hada Labo) y suplementos alimenticios"
-        ]
-      },
-      {
-        "heading": "Qué comprar en YesStyle: guía por categoría",
-        "paragraphs": [
-          "Las principales categorías son:"
-        ],
-        "bullets": [
-          "K-Beauty y cuidado de la piel coreano: COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
-          "Maquillaje coreano: ETUDE (sombras, coloretes), CLIO (bases, delineadores), Peripera (tintes, máscaras de pestañas), Judydoll, fwee, nuse.",
-          "Moda coreana: estilo minimalista y elegante, colores neutros, cortes oversize, prendas versátiles. Ropa casual, vestidos, blazers, pantalones wide-leg, zapatos, bolsos.",
-          "J-Beauty (belleza japonesa): Hada Labo, DHC, Kose, Shiseido. El foco está en la prevención, el anti-aging y la hidratación por capas.",
-          "Chinese Beauty (C-Beauty): marcas chinas en ascenso, precios asequibles, fórmulas con ingredientes tradicionales chinos.",
-          "Suplementos y Health & Wellness: colágeno, vitaminas, proteínas, productos para el cabello y las uñas.",
-          "Accesorios y lifestyle: pasadores, diademas, bolsos, calcetines estampados, fundas de móvil, artículos para la casa y la decoración."
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "Aranceles e importación: qué se puede cobrar",
         "paragraphs": [
-          "Las compras internacionales pueden pasar por un control aduanero y pueden generar impuestos, tasas de importación, cobros administrativos u otros gastos relacionados con la liberación del pedido. Por eso, además de calcular el producto y el envío, conviene tener en cuenta la posibilidad de un costo extra antes de comprar.",
-          "YesStyle indica que los pedidos de menos de US$ 1.000 pueden tener reembolso de las tasas aduaneras, si pagas primero, guardas el comprobante y lo solicitas en un plazo de 30 días. Ese reembolso, cuando se aprueba, se emite como crédito de tienda de YesStyle.",
-          "Antes de comprar, consulta la página oficial de ayuda de YesStyle sobre el reembolso de impuestos y tasas aduaneras, porque las reglas de importación y las políticas de la tienda pueden cambiar."
+          "Las compras internacionales pueden pasar por un control aduanero y pueden generar impuestos, tasas de importación, cobros administrativos u otros gastos relacionados con la liberación del pedido. Por eso, además de calcular el producto y el envío, conviene tener en cuenta la posibilidad de un costo extra antes de comprar. El envío, el plazo y las reglas cambian según el país de entrega. Para España y América Latina, consulta [¿YesStyle envía a España, México, Chile, Perú, Argentina y Colombia? Plazos, costo de envío e impuestos](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "Según la [política de reembolso de tasas aduaneras de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), los pedidos de menos de US$ 1.000 (importe antes del descuento del cupón y sin el envío) pueden recuperar esos costos. Pagas primero, guardas el comprobante y se lo pides a atención al cliente en un plazo de 30 días, contados desde la fecha del comprobante de pago. El reembolso aprobado se emite como crédito de YesStyle (YesStyle Credit).",
+          "La política no cubre las tarifas del correo o del transportista, como el almacenamiento y los paquetes no recogidos o devueltos. El impuesto sobre las ventas también queda excluido; en los envíos a España (Unión Europea) el IVA no se reembolsa, y en el resto de países depende del destino. La lista de destinos con exclusiones está en la página de YesStyle."
         ],
         "bullets": [
           "Guarda el comprobante de pago de cualquier tasa aduanera pagada",
-          "Envía la solicitud de reembolso a través de la atención al cliente de YesStyle dentro del plazo de 30 días",
-          "El reembolso no es automático: depende del análisis y de las reglas de la política vigente de YesStyle",
-          "Los pedidos de US$ 1.000 o más no entran en esta política de reembolso informada por la marca",
-          "El reembolso se hace como crédito de tienda de YesStyle, no necesariamente como dinero devuelto a la tarjeta"
+          "Pide el reembolso a atención al cliente de YesStyle en un plazo de 30 días, contados desde la fecha del comprobante",
+          "El reembolso no es automático: depende del análisis de YesStyle",
+          "Los pedidos de US$ 1.000 o más (antes del cupón y sin el envío) quedan fuera de la política",
+          "El reembolso se emite como crédito de YesStyle, no como dinero devuelto a la tarjeta"
         ]
       },
       {
@@ -30210,7 +30088,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales: promociones relámpago de hasta un 50% de descuento por tiempo limitado. Entra en el sitio a diario y añade productos a la Wishlist.",
           "Explora los Lucky Bundles: paquetes de productos a precio reducido (cuidado de la piel, maquillaje, kits temáticos como \"Glass Skin Routine\").",
           "Usa la Wishlist con inteligencia: recibe notificaciones cuando baje el precio, organiza compras futuras, planifica para aprovechar el envío gratis.",
-          "Aprovecha el Elite Club: programa de fidelidad con puntos acumulados: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "Aprovecha el Elite Club: el nivel Bronze llega con cualquier pedido de al menos US$ 1 después de cupones y puntos, el Silver con US$ 100 en compras acumuladas y el Gold con US$ 500. Cada nivel da más YS Points por cada US$ 1 (2, 3 y 5) y cupones de 12% OFF (uno, dos y tres), y vale hasta el final del 12.º mes después de alcanzarlo. Las reglas están en la [página del Elite Club](https://www.yesstyle.com/en/elite-club.html).",
           "No ignores los productos \"Daily Free\": productos gratis en compras superiores a cierto importe.",
           "Lee las reseñas (reviews): fotos reales, comentarios sobre textura, olor y resultado, información sobre la fecha de caducidad.",
           "Atento a las temporadas: Black Friday (noviembre), 11.11 (Día de los Solteros), Navidad, Summer Sale (junio/julio), Back to School (agosto/septiembre).",
@@ -30227,19 +30105,17 @@ export const reviewsData: unknown[] = [
           "¿Puedo sumar CECILIA010 al cupón de la promoción del mes? ¡Sí! Va en el campo \"Reward Code\", mientras que los cupones van en el campo \"Coupon Code\". Así sumas hasta un 5% extra (5% en la primera compra y 2% en las compras recurrentes) a los cupones promocionales elegibles confirmados en el checkout.",
           "¿CECILIA010 tiene vigencia? Funciona mientras el programa de influencers de YesStyle esté activo y el código se verifique con regularidad.",
           "¿Es seguro comprar en YesStyle? Sí. Es una empresa legítima desde 2006, atiende a más de 150 países y regiones, vende productos auténticos y usa cifrado SSL.",
-          "¿Pagaré tasa de importación? Puede ocurrir. Si hay un cobro aduanero, consulta la política oficial de YesStyle: la marca informa de la posibilidad de reembolso de impuestos y tasas aduaneras para pedidos elegibles de menos de US$ 1.000, con comprobante de pago y solicitud dentro del plazo, en forma de crédito de tienda.",
+          "¿Pagaré tasa de importación? Puede ocurrir. Según la [política de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), los pedidos de menos de US$ 1.000 (antes del cupón y sin el envío) pueden recuperar los impuestos y tasas aduaneras como crédito de YesStyle: pagas, guardas el comprobante y lo pides en un plazo de 30 días, contados desde la fecha del comprobante de pago.",
           "¿Cuál es la mejor forma de pagar? Tarjeta de crédito internacional (Visa, Mastercard, Amex) o PayPal. La conversión la hace automáticamente el emisor de la tarjeta.",
           "¿Los productos son originales? Sí. YesStyle es distribuidor autorizado de las marcas. Compra directamente a los fabricantes o a distribuidores oficiales.",
           "¿Puedo devolver productos? La política es limitada para las compras internacionales. Los productos defectuosos o enviados por error se pueden devolver. Los productos de K-beauty (cuidado de la piel, maquillaje) generalmente no se pueden devolver por motivos de higiene, salvo que estén sellados.",
-          "¿Qué es el Elite Club? Es el programa de fidelidad de YesStyle. Cuanto más gastas, más puntos acumulas: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "¿Qué es el Elite Club? Es el programa de fidelidad de YesStyle. El nivel Bronze llega con cualquier pedido de al menos US$ 1 después de cupones y puntos, el Silver con US$ 100 en compras acumuladas y el Gold con US$ 500; cada nivel da más YS Points por cada US$ 1 y cupones de 12% OFF. CECILIA010 sigue en el campo Reward Code, en cualquier nivel.",
           "¿El sitio tiene otros idiomas? ¡Sí! En la parte superior del sitio puedes cambiar el idioma.",
           "¿Cómo rastreo mi pedido de YesStyle? Tras la confirmación del envío, YesStyle manda un correo con el código de seguimiento internacional. También puedes consultar el historial de pedidos entrando en tu cuenta. El seguimiento funciona mediante servicios como 17track o en el sitio del propio transportista. El plazo estimado aparece en el checkout y puede variar en la aduana.",
-          "¿Qué hago si mi pedido de YesStyle queda retenido en la aduana? Si el pedido se retiene en la aduana, puede que te avisen de que debes pagar el impuesto de importación. YesStyle informa de que, para pedidos elegibles de menos de US$ 1.000, es posible solicitar el reembolso de impuestos y tasas aduaneras en forma de crédito de tienda, con el comprobante de pago y una solicitud a la atención al cliente en un plazo de 30 días.",
-          "La ropa de YesStyle usa tallas asiáticas. ¿Cómo elijo la mía? Sí, la mayoría de la ropa sigue la numeración asiática. Consulta siempre la tabla de medidas de la página de cada producto (normalmente en centímetros) y compárala con tus medidas corporales. Recomendamos pedir una o dos tallas más de lo habitual, sobre todo en las prendas más ajustadas.",
-          "¿Cuáles son las marcas de K-beauty más vendidas en YesStyle? YesStyle es distribuidor autorizado de marcas consagradas como COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul y Haruharu. El sitio organiza los productos por categorías como esencias, tónicos, sérums y protectores solares, lo que facilita la búsqueda de una rutina de cuidado de la piel coreana.",
-          "¿Puedo cancelar o modificar un pedido en YesStyle una vez confirmado? YesStyle permite cancelar los pedidos que aún no se han enviado (estado 'Processing') directamente desde el historial de pedidos de tu cuenta. Tras el envío no se puede cancelar, pero puedes rechazar la entrega cuando llegue. Los cambios de dirección o de productos solo son posibles antes del envío, a través de atención al cliente.",
+          "¿Qué hago si mi pedido de YesStyle queda retenido en la aduana? Si la aduana cobra impuestos, págalos, guarda el comprobante y pide el reembolso a atención al cliente de YesStyle en un plazo de 30 días, contados desde la fecha del comprobante; en los pedidos elegibles de menos de US$ 1.000 se emite como crédito de YesStyle. Si la aduana pide documentos, envíalos: según la [política de aduanas de YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), un paquete rechazado por un problema aduanero, como no pagar los impuestos o no enviar los documentos pedidos, se queda sin reembolso y sin reenvío.",
+          "¿Puedo cancelar o modificar un pedido en YesStyle una vez confirmado? Puedes cancelarlo desde el historial de pedidos mientras aún no se haya enviado (estado 'Processing'), y los cambios de dirección o de productos solo son posibles antes del envío, a través de atención al cliente. Tras el envío, habla con atención al cliente antes de pensar en rechazar la entrega: según la [política de aduanas de YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), un paquete rechazado por un problema aduanero, como no pagar los impuestos o no enviar los documentos pedidos, se queda sin reembolso y sin reenvío.",
           "Código de YesStyle para la primera compra: ¿cómo usar CECILIA010? El código CECILIA010 funciona en cualquier compra y da hasta un 5% extra (5% en la primera compra y 2% en las compras recurrentes), combinable con cupones promocionales elegibles confirmados en el checkout.",
-          "Código de influencer de YesStyle: ¿qué es CECILIA010? CECILIA010 es un código de recompensa de influencer registrado en YesStyle. Concede hasta un 5% de descuento extra (5% en la primera compra y 2% en las compras recurrentes) en el checkout y se puede combinar con cupones promocionales elegibles, a diferencia de los códigos de primera compra, que normalmente no son acumulables."
+          "Código de influencer de YesStyle: ¿qué es CECILIA010? Es el código de recompensa de Cecília, registrado en el programa de socios de YesStyle. Da un 5% extra en la primera compra y un 2% en las siguientes, en el campo Reward Code, y se puede combinar con cupones promocionales elegibles en el campo Coupon Code."
         ]
       }
     ],
@@ -30273,7 +30149,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Comment utiliser CECILIA010 sur YesStyle : champ Reward Code, jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes), cumulable avec les coupons promotionnels éligibles selon le paiement.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
@@ -30297,24 +30173,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "CECILIA010 est un code de récompense (Reward Code) YesStyle qui donne jusqu'à 5 % en plus : 5 % sur la première commande et 2 % sur les suivantes. Il se saisit dans le champ Reward Code, distinct du champ coupon, et se cumule avec les coupons éligibles. L'essentiel est de bien utiliser chaque champ ; voir le chapitre Comment utiliser le code CECILIA010 sur YesStyle : pas à pas."
+          "CECILIA010 est le code de récompense de Cecília chez YesStyle : il donne 5 % de plus à la première commande et 2 % aux suivantes. Il se saisit dans le champ Reward Code, distinct du Coupon Code, et se cumule avec les coupons éligibles. Saisissez chaque code dans son champ et vérifiez les deux remises au récapitulatif."
         ]
       },
       {
         "heading": "Comment fonctionne le code CECILIA010",
         "paragraphs": [
-          "Contrairement à CECILIA12 et à CECI, qui déduisent la remise directement du panier, CECILIA010 est un code de récompense (Reward Code) avec son propre champ au paiement.",
-          "Le gros avantage, c'est qu'il dispose d'un champ exclusif et séparé au paiement. Cela signifie qu'il est cumulable avec les coupons promotionnels éligibles : vous pouvez l'utiliser en même temps que les coupons promotionnels du site et ajouter jusqu'à 5 % aux remises de la commande.",
-          "Si vous voulez une remise directement dans le panier, les coupons du moment se trouvent dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
-          "CECILIA010 n'annule pas les coupons mensuels de YesStyle : il ajoute jusqu'à 5 % (5 % sur la 1re commande, 2 % sur les suivantes) aux coupons éligibles. Utilisez toujours les deux champs au paiement."
+          "CECILIA010 est un code de récompense (Reward Code) : il se saisit dans un champ à part au paiement YesStyle, distinct du champ coupon (Coupon Code). C'est pourquoi il se cumule avec les coupons éligibles du site, avec 5 % en plus sur la première commande et 2 % sur les suivantes.",
+          "Les coupons du moment se trouvent dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle)."
         ],
         "bullets": [
           "Code : CECILIA010",
           "Remise : jusqu'à 5 % en plus (5 % 1re commande / 2 % suivantes)",
           "Type : code d'influenceuse / code de récompense (Reward Code)",
           "Où l'utiliser : champ « Code de récompense » (Reward Code) au paiement YesStyle",
-          "Fonctionnement : garantit jusqu'à 5 % en plus (5 % 1re commande / 2 % suivantes) sur le panier lorsqu'il est saisi dans le bon champ",
-          "Cumulable : OUI ! Vous pouvez utiliser CECILIA010 + des coupons promotionnels éligibles sur la même commande",
+          "Se combine avec : les coupons promotionnels éligibles, chacun dans son champ",
           "Validité : code actif dans le programme officiel d'influenceurs (vérifié régulièrement)"
         ],
         "links": [
@@ -30338,8 +30211,7 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA010 est-il un code d'influenceuse YesStyle ?",
         "paragraphs": [
           "Oui. CECILIA010 est un code de récompense d'influenceuse enregistré dans le programme officiel de partenaires de YesStyle. Il a été créé spécialement pour les lectrices du blog Em Casa com Cecília qui achètent de la K-beauty et des produits asiatiques.",
-          "Contrairement aux coupons mensuels (qui changent et expirent), le code d'influenceuse reste actif tant que le partenariat dure, et peut être utilisé pour de nouvelles commandes. S'il existe une limite par compte ou par commande, le site YesStyle vous en avertit au moment d'appliquer le code.",
-          "L'avantage du code d'influenceuse CECILIA010, c'est qu'il fonctionne dans un champ séparé et qu'il est cumulable avec les coupons promotionnels éligibles confirmés au paiement. Vous obtenez donc jusqu'à 5 % en plus grâce à l'influenceuse (5 % 1re commande / 2 % suivantes) ET vous profitez en plus du coupon de réduction du mois. Le meilleur des deux mondes."
+          "Contrairement aux coupons mensuels (qui changent et expirent), le code d'influenceuse reste actif tant que le partenariat dure, et peut être utilisé pour de nouvelles commandes. S'il existe une limite par compte ou par commande, le site YesStyle vous en avertit au moment d'appliquer le code."
         ]
       },
       {
@@ -30408,60 +30280,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle propose souvent des coupons qui changent fréquemment. Les types les plus courants sont : coupon de bienvenue, coupon de fidélité, coupon de saison, coupon de catégorie, coupon de livraison gratuite et campagnes flash.",
           "Comme ces codes changent souvent, le plus sûr est de consulter la page de promotions de YesStyle elle-même avant de finaliser l'achat. Appliquez ensuite le coupon actif dans le champ « Coupon Code » et gardez CECILIA010 dans le champ « Reward Code »."
-        ],
-        "bullets": [
-          "Flash Sales : promotions éclair jusqu'à -50 % pour une durée limitée",
-          "Lucky Bundles : lots de produits à prix spécial",
-          "Daily Free : produits offerts pour tout achat au-dessus d'un certain montant",
-          "Elite Club : programme de fidélité avec remises progressives",
-          "Friend Rewards : parrainez des amis et gagnez des points",
-          "Student Program : remises spéciales pour les étudiants"
         ]
       },
       {
         "heading": "Qu'est-ce que YesStyle ?",
         "paragraphs": [
-          "YesStyle (aussi écrit Yes Style) est l'une des plus grandes et des plus complètes plateformes de commerce en ligne au monde dédiées à la mode coréenne, à la K-beauty, à la J-beauty (beauté japonaise) et aux produits asiatiques en général. Fondée en 2006 et basée à Hong Kong, l'entreprise est devenue une référence mondiale pour qui veut découvrir l'univers de la beauté coréenne et de la mode orientale en toute confiance et authenticité.",
-          "YesStyle sert des clients dans plus de 150 pays et régions, avec un sélecteur de langue et une conversion des prix pour faciliter la navigation. Le catalogue est gigantesque : des milliers de produits de soins coréens, du maquillage de marques reconnues, de la mode conceptuelle, des accessoires et des compléments bien-être."
+          "YesStyle est une boutique en ligne basée à Hong Kong, fondée en 2006, qui vend de la K-beauty, de la J-beauty, de la mode et des accessoires asiatiques dans plus de 150 pays et régions.",
+          "Ce qu'il faut vérifier avant une première commande se trouve dans [YesStyle est-il fiable et sûr ? Ce qu'il faut savoir avant d'acheter](/fr/reviews/yesstyle-est-il-fiable-et-sur), et les marques et produits coréens les plus recherchés dans [K-Beauty : Pourquoi Cette Tendance Beauté Coréenne Conquiert le Monde et Où L'Acheter](/fr/reviews/k-beauty-tendance-beaute-coreenne)."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "Page d'accueil de YesStyle avec une bannière de promotion K-beauty et des produits mis en avant.",
         "imageCaption": "YesStyle réunit des campagnes promotionnelles, des produits K-beauty et une navigation traduite.",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty (beauté coréenne) : sérums glass skin, essences, lotions toniques, protections solaires et produits pour la célèbre routine de soins asiatique",
-          "Mode coréenne et asiatique : vêtements, chaussures, sacs et accessoires inspirés des tendances urbaines de Séoul et de Tokyo",
-          "J-Beauty et bien-être : grandes marques japonaises (comme Hada Labo) et compléments alimentaires"
-        ]
-      },
-      {
-        "heading": "Que acheter sur YesStyle : guide par catégorie",
-        "paragraphs": [
-          "Les principales catégories sont :"
-        ],
-        "bullets": [
-          "K-Beauty et soins coréens : COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
-          "Maquillage coréen : ETUDE (fards à paupières, blushs), CLIO (fonds de teint, eye-liners), Peripera (tints, mascaras), Judydoll, fwee, nuse.",
-          "Mode coréenne : style minimaliste et élégant, couleurs neutres, coupes oversize, pièces polyvalentes. Vêtements décontractés, robes, blazers, pantalons larges, chaussures, sacs.",
-          "J-Beauty (beauté japonaise) : Hada Labo, DHC, Kose, Shiseido. Accent sur la prévention, l'anti-âge, l'hydratation en couches.",
-          "Chinese Beauty (C-Beauty) : marques chinoises en plein essor, prix abordables, formules aux ingrédients traditionnels chinois.",
-          "Compléments et Health & Wellness : collagène, vitamines, protéines, produits pour les cheveux et les ongles.",
-          "Accessoires et lifestyle : barrettes, serre-têtes, sacs, chaussettes imprimées, coques de téléphone, articles pour la maison et la décoration."
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "Taxes et importation : ce qui peut être facturé",
         "paragraphs": [
-          "Les achats internationaux peuvent être soumis à un contrôle douanier et entraîner des impôts, des taxes d'importation, des frais administratifs ou d'autres dépenses liées au dédouanement de la commande. C'est pourquoi, en plus de calculer le produit et la livraison, il vaut mieux envisager un éventuel surcoût avant d'acheter.",
-          "YesStyle indique que les commandes de moins de 1 000 US$ peuvent donner lieu à un remboursement des frais de douane, si vous payez d'abord, conservez le justificatif et en faites la demande dans les 30 jours. Ce remboursement, lorsqu'il est approuvé, est émis sous forme de crédit boutique YesStyle.",
-          "Avant d'acheter, consultez la page d'aide officielle de YesStyle sur le remboursement des taxes et frais de douane, car les règles d'importation et les politiques de la boutique peuvent changer."
+          "Les achats internationaux peuvent être soumis à un contrôle douanier et entraîner des impôts, des taxes d'importation, des frais administratifs ou d'autres dépenses liées au dédouanement de la commande. C'est pourquoi, en plus de calculer le produit et la livraison, il vaut mieux envisager un éventuel surcoût avant d'acheter. La livraison, les délais et les règles changent selon le pays de destination. Pour la France, la Belgique et le Canada, consultez [YesStyle livre-t-il en France, en Belgique et au Canada ? Délais, frais de port et taxes](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "Selon la [politique de remboursement des taxes douanières de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), les commandes de moins de 1 000 US$ (montant avant la remise du coupon et hors livraison) peuvent se faire rembourser ces frais. Vous payez d'abord, conservez le justificatif et en faites la demande au service client dans les 30 jours suivant la date du justificatif de paiement. Le remboursement approuvé est émis sous forme de crédit YesStyle (YesStyle Credit).",
+          "La politique ne couvre pas les frais de la poste ou du transporteur, comme le stockage et les colis non retirés ou renvoyés. La taxe sur les ventes est aussi exclue ; pour les livraisons en France et en Belgique (Union européenne), la TVA est exclue ; au Canada, l'exclusion ne vaut que pour la Saskatchewan (PST). La liste des destinations avec exclusions se trouve sur la page de YesStyle."
         ],
         "bullets": [
           "Conservez le justificatif de paiement de toute taxe douanière payée",
-          "Envoyez la demande de remboursement via le service client de YesStyle dans le délai de 30 jours",
-          "Le remboursement n'est pas automatique : il dépend de l'examen et des règles de la politique en vigueur de YesStyle",
-          "Les commandes de 1 000 US$ ou plus ne relèvent pas de cette politique de remboursement indiquée par la marque",
-          "Le remboursement est effectué sous forme de crédit boutique YesStyle, pas forcément en argent remboursé sur la carte"
+          "Demandez le remboursement au service client de YesStyle dans les 30 jours suivant la date du justificatif",
+          "Le remboursement n'est pas automatique : il dépend de l'examen de YesStyle",
+          "Les commandes de 1 000 US$ ou plus (avant le coupon et hors livraison) sont exclues de la politique",
+          "Le remboursement est émis sous forme de crédit YesStyle, pas en argent remboursé sur la carte"
         ]
       },
       {
@@ -30473,7 +30317,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales : promotions éclair jusqu'à -50 % pour une durée limitée. Visitez le site chaque jour et ajoutez des produits à la Wishlist.",
           "Explorez les Lucky Bundles : lots de produits à prix réduit (soins, maquillage, kits thématiques comme « Glass Skin Routine »).",
           "Utilisez la Wishlist intelligemment : recevez des notifications quand le prix baisse, organisez vos futurs achats, planifiez pour profiter de la livraison gratuite.",
-          "Profitez de l'Elite Club : programme de fidélité avec points cumulés : Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
+          "Profitez de l'Elite Club : le niveau Bronze arrive avec toute commande d'au moins 1 US$ après coupons et points, le Silver avec 100 US$ d'achats cumulés et le Gold avec 500 US$. Chaque niveau rapporte plus de YS Points par dollar (2, 3 et 5) et donne des coupons de 12 % OFF (un, deux et trois), valables jusqu'à la fin du 12e mois après l'avoir atteint. Les règles sont sur la [page de l'Elite Club](https://www.yesstyle.com/en/elite-club.html).",
           "N'ignorez pas les produits « Daily Free » : produits offerts pour tout achat au-dessus d'un certain montant.",
           "Lisez les avis (reviews) : photos réelles, commentaires sur la texture, l'odeur et le résultat, informations sur la durée de conservation.",
           "Surveillez les saisons : Black Friday (novembre), 11.11 (Fête des célibataires), Noël, Summer Sale (juin/juillet), Back to School (août/septembre).",
@@ -30490,19 +30334,17 @@ export const reviewsData: unknown[] = [
           "Puis-je cumuler CECILIA010 avec le coupon de la promotion du mois ? Oui ! Il se saisit dans le champ « Reward Code », tandis que les coupons vont dans le champ « Coupon Code ». Vous ajoutez ainsi jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes) aux coupons promotionnels éligibles confirmés au paiement.",
           "CECILIA010 a-t-il une date de validité ? Il fonctionne tant que le programme d'influenceurs de YesStyle est actif et que le code est vérifié régulièrement.",
           "Est-il sûr d'acheter sur YesStyle ? Oui. C'est une entreprise légitime depuis 2006, présente dans plus de 150 pays et régions, avec des produits authentiques et un chiffrement SSL.",
-          "Vais-je payer des taxes d'importation ? Cela peut arriver. En cas de frais de douane, consultez la politique officielle de YesStyle : la marque indique une possibilité de remboursement des taxes et frais de douane pour les commandes éligibles de moins de 1 000 US$, sur présentation d'un justificatif de paiement et d'une demande dans le délai, sous forme de crédit boutique.",
+          "Vais-je payer des taxes d'importation ? Cela peut arriver. Selon la [politique de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), les commandes de moins de 1 000 US$ (avant le coupon et hors livraison) peuvent se faire rembourser les taxes et frais de douane sous forme de crédit YesStyle : vous payez, conservez le justificatif et en faites la demande dans les 30 jours suivant la date du justificatif de paiement.",
           "Quel est le meilleur moyen de paiement ? Carte de crédit internationale (Visa, Mastercard, Amex) ou PayPal. La conversion est faite automatiquement par l'émetteur de la carte.",
           "Les produits sont-ils originaux ? Oui. YesStyle est distributeur agréé des marques. Il achète directement auprès des fabricants ou des distributeurs officiels.",
           "Puis-je retourner des produits ? La politique est limitée pour les achats internationaux. Les produits défectueux ou envoyés par erreur peuvent être retournés. Les produits de K-beauty (soins, maquillage) ne peuvent généralement pas être retournés pour des raisons d'hygiène, sauf s'ils sont scellés.",
-          "Qu'est-ce que l'Elite Club ? C'est le programme de fidélité de YesStyle. Plus vous dépensez, plus vous accumulez de points : Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
+          "Qu'est-ce que l'Elite Club ? C'est le programme de fidélité de YesStyle. Le niveau Bronze arrive avec toute commande d'au moins 1 US$ après coupons et points, le Silver avec 100 US$ d'achats cumulés et le Gold avec 500 US$ ; chaque niveau rapporte plus de YS Points par dollar et donne des coupons de 12 % OFF. CECILIA010 reste dans le champ Reward Code, quel que soit le niveau.",
           "Le site existe-t-il dans d'autres langues ? Oui ! En haut du site, vous pouvez changer la langue.",
           "Comment suivre ma commande YesStyle ? Après la confirmation de l'expédition, YesStyle envoie un e-mail avec le code de suivi international. Vous pouvez aussi consulter l'historique de vos commandes en vous connectant à votre compte. Le suivi fonctionne via des services comme 17track ou sur le site du transporteur. Le délai estimé apparaît au paiement et peut varier à la douane.",
-          "Que faire si ma commande YesStyle est retenue en douane ? Si la commande est retenue en douane, vous pouvez être invité à payer l'impôt d'importation. YesStyle indique que, pour les commandes éligibles de moins de 1 000 US$, il est possible de demander le remboursement des taxes et frais de douane sous forme de crédit boutique, sur présentation du justificatif de paiement et d'une demande au service client dans les 30 jours.",
-          "Les vêtements YesStyle utilisent des tailles asiatiques. Comment choisir la mienne ? Oui, la plupart des vêtements suivent la taille asiatique. Consultez toujours le guide des tailles sur la page de chaque produit (généralement en centimètres) et comparez-le à vos mensurations. Nous recommandons de prendre une ou deux tailles au-dessus de votre taille habituelle, surtout pour les pièces ajustées.",
-          "Quelles sont les marques de K-beauty les plus vendues sur YesStyle ? YesStyle est distributeur agréé de marques reconnues comme COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul et Haruharu. Le site classe les produits par catégories comme les essences, les lotions toniques, les sérums et les protections solaires, ce qui facilite la recherche d'une routine de soins coréenne.",
-          "Puis-je annuler ou modifier une commande YesStyle une fois confirmée ? YesStyle permet d'annuler les commandes qui n'ont pas encore été expédiées (statut « Processing ») directement depuis l'historique des commandes de votre compte. Après l'expédition, il n'est plus possible d'annuler, mais vous pouvez refuser la livraison à son arrivée. Les changements d'adresse ou de produits ne sont possibles qu'avant l'expédition, via le service client.",
+          "Que faire si ma commande YesStyle est retenue en douane ? Si la douane facture des taxes, payez-les, conservez le justificatif et demandez le remboursement au service client de YesStyle dans les 30 jours suivant la date du justificatif ; pour les commandes éligibles de moins de 1 000 US$, il est émis sous forme de crédit YesStyle. Si la douane demande des documents, envoyez-les : selon la [politique douanière de YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), un colis refusé pour une question douanière, comme ne pas payer les taxes ou ne pas envoyer les documents demandés, n'est ni remboursé ni réexpédié.",
+          "Puis-je annuler ou modifier une commande YesStyle une fois confirmée ? Vous pouvez l'annuler depuis l'historique des commandes tant qu'elle n'est pas expédiée (statut « Processing »), et les changements d'adresse ou de produits ne sont possibles qu'avant l'expédition, via le service client. Après l'expédition, parlez d'abord au service client avant d'envisager de refuser la livraison : selon la [politique douanière de YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), un colis refusé pour une question douanière, comme ne pas payer les taxes ou ne pas envoyer les documents demandés, n'est ni remboursé ni réexpédié.",
           "Code YesStyle pour la première commande : comment utiliser CECILIA010 ? Le code CECILIA010 fonctionne sur n'importe quelle commande et donne jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes), cumulable avec les coupons promotionnels éligibles confirmés au paiement.",
-          "Code d'influenceuse YesStyle : qu'est-ce que CECILIA010 ? CECILIA010 est un code de récompense d'influenceuse enregistré chez YesStyle. Il accorde jusqu'à 5 % de remise supplémentaire (5 % sur la première commande et 2 % sur les suivantes) au paiement et peut être combiné avec les coupons promotionnels éligibles, contrairement aux codes de première commande, qui ne sont généralement pas cumulables."
+          "Code d'influenceuse YesStyle : qu'est-ce que CECILIA010 ? C'est le code de récompense de Cecília, enregistré dans le programme de partenaires de YesStyle. Il donne 5 % en plus sur la première commande et 2 % sur les suivantes, dans le champ Reward Code, et peut être combiné avec les coupons promotionnels éligibles dans le champ Coupon Code."
         ]
       }
     ],
@@ -30536,14 +30378,14 @@ export const reviewsData: unknown[] = [
     "metaDescription": "CECILIA010 bei YesStyle nutzen: Feld Reward Code, bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), laut Checkout mit berechtigten Aktionsgutscheinen kombinierbar.",
     "publishedAt": "22 Jun 2026",
     "publishedAtISO": "2026-06-22",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "K-Beauty- und Skincare-Produkte von YesStyle auf einem hellen Tisch angeordnet.",
     "imageFit": "cover",
     "pros": [
-      "Influencer-Code, der bis zu 5 % extra zu den berechtigten Aktionsgutscheinen addiert",
+      "Influencer-Code, der sich mit berechtigten Aktionsgutscheinen kombinieren lässt und bis zu 5 % extra bringt",
       "Lässt sich zusammen mit berechtigten Aktionsgutscheinen auf der Website nutzen",
       "Kostenloser Versand ab einem Mindestbestellwert, der im Checkout angezeigt wird",
       "Großes Sortiment an K-Beauty, koreanischer Mode und J-Beauty",
@@ -30560,24 +30402,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "CECILIA010 ist ein Belohnungscode von YesStyle, der bis zu 5 % extra bringt: 5 % auf die erste Bestellung und 2 % auf die folgenden. Er gehört ins Feld Reward Code, getrennt vom Gutscheinfeld, und wird mit den berechtigten Gutscheinen addiert. Entscheidend ist, jedes Feld richtig zu nutzen; siehe das Kapitel CECILIA010 bei YesStyle eingeben: Schritt für Schritt."
+          "CECILIA010 ist der Belohnungscode von Cecília bei YesStyle: 5 % extra auf die erste Bestellung, 2 % auf die folgenden. Er gehört ins Feld Reward Code, getrennt vom Feld Coupon Code, und lässt sich mit berechtigten Aktionsgutscheinen kombinieren. Geben Sie jeden Code in sein eigenes Feld ein und prüfen Sie vor dem Bezahlen in der Bestellübersicht beide Rabatte."
         ]
       },
       {
         "heading": "So funktioniert der Code CECILIA010",
         "paragraphs": [
-          "Anders als CECILIA12 und CECI, die direkt im Warenkorb Rabatt geben, ist CECILIA010 ein Reward Code mit eigenem Feld im Checkout.",
-          "Das Praktische daran: Er hat ein eigenes, separates Feld im Checkout. Dadurch lässt er sich mit berechtigten Aktionsgutscheinen kombinieren: Sie können ihn gleichzeitig mit berechtigten Aktionsgutscheinen der Website nutzen und so bis zu 5 % extra zu den Rabatten Ihrer Bestellung addieren.",
-          "Wenn Sie direkt im Warenkorb Rabatt wollen, finden Sie die aktuellen Gutscheine unter [YesStyle-Gutscheine und Belohnungscode](/de/coupons/yesstyle).",
-          "CECILIA010 hebt die monatlichen Gutscheine von YesStyle nicht auf: Er addiert bis zu 5 % extra (5 % bei der 1. Bestellung, 2 % bei den folgenden) zu den berechtigten Gutscheinen. Nutzen Sie im Checkout immer beide Felder."
+          "CECILIA010 ist ein Reward Code: Er hat im Checkout von YesStyle ein eigenes Feld, getrennt vom Feld für Gutscheine (Coupon Code). Deshalb lässt er sich mit berechtigten Aktionsgutscheinen der Website kombinieren, mit 5 % extra auf die erste Bestellung und 2 % auf die folgenden.",
+          "Die aktuellen Gutscheine finden Sie unter [YesStyle-Gutscheine und Belohnungscode](/de/coupons/yesstyle)."
         ],
         "bullets": [
           "Code: CECILIA010",
           "Rabatt: bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen)",
           "Typ: Influencer-Code / Belohnungscode (Reward Code)",
           "Wo eingeben: Feld „Belohnungscode“ (Reward Code) im Checkout von YesStyle",
-          "So funktioniert es: sichert bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen) im Warenkorb, wenn er im richtigen Feld eingegeben wird",
-          "Kombinierbar: JA! Sie können CECILIA010 + berechtigte Aktionsgutscheine in derselben Bestellung nutzen",
+          "Kombinierbar mit: berechtigten Aktionsgutscheinen, jeweils im eigenen Feld",
           "Gültigkeit: im offiziellen Influencer-Programm aktiver Code (wird regelmäßig geprüft)"
         ],
         "links": [
@@ -30601,14 +30440,13 @@ export const reviewsData: unknown[] = [
         "heading": "Ist CECILIA010 ein Influencer-Code von YesStyle?",
         "paragraphs": [
           "Ja. CECILIA010 ist ein Influencer-Belohnungscode, der im offiziellen Partnerprogramm von YesStyle registriert ist. Das heißt, er wurde speziell für Leserinnen des Blogs Em Casa com Cecília erstellt, die K-Beauty und asiatische Produkte kaufen.",
-          "Anders als die monatlichen Gutscheine (die wechseln und ablaufen) bleibt der Influencer-Code aktiv, solange die Partnerschaft besteht, und kann bei neuen Bestellungen genutzt werden. Falls es pro Konto oder pro Bestellung eine Einschränkung gibt, weist der YesStyle-Checkout beim Anwenden des Codes selbst darauf hin.",
-          "Der Vorteil des Influencer-Codes CECILIA010 ist, dass er in einem separaten Feld funktioniert und sich mit berechtigten Aktionsgutscheinen kombinieren lässt, die im Checkout bestätigt werden. Sie bekommen also bis zu 5 % extra von der Influencerin (5 % 1. Bestellung / 2 % Folgebestellungen) UND nutzen zusätzlich den Rabattgutschein des Monats. Das Beste aus beiden Welten."
+          "Anders als die monatlichen Gutscheine (die wechseln und ablaufen) bleibt der Influencer-Code aktiv, solange die Partnerschaft besteht, und kann bei neuen Bestellungen genutzt werden. Falls es pro Konto oder pro Bestellung eine Einschränkung gibt, weist der YesStyle-Checkout beim Anwenden des Codes selbst darauf hin."
         ]
       },
       {
         "heading": "CECILIA010 bei YesStyle eingeben: Schritt für Schritt",
         "paragraphs": [
-          "Um beide Rabatte zu addieren, halten Sie CECILIA010 und den aktiven Gutschein der Website bereit:"
+          "Um beide Rabatte zu kombinieren, halten Sie CECILIA010 und den aktiven Gutschein der Website bereit:"
         ]
       },
       {
@@ -30640,7 +30478,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Geben Sie den aktiven Aktionsgutschein des Monats ein",
         "paragraphs": [
-          "Suchen Sie das Feld „Gutscheincode“ (oder „Coupon Code“) und geben Sie die Aktionsgutscheine ein, die auf der Website gerade berechtigt sind. Klicken Sie auf „Anwenden“, um diesen Gutschein zum Extra-Rabatt von bis zu 5 % durch CECILIA010 zu addieren."
+          "Suchen Sie das Feld „Gutscheincode“ (oder „Coupon Code“) und geben Sie die Aktionsgutscheine ein, die auf der Website gerade berechtigt sind. Klicken Sie auf „Anwenden“, um diesen Gutschein mit dem Extra-Rabatt von CECILIA010 zu kombinieren."
         ]
       },
       {
@@ -30671,60 +30509,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle bietet Gutscheine an, die sich häufig ändern. Die gängigsten Arten sind: Willkommensgutschein, Rückkehrgutschein, Saisongutschein, Kategoriegutschein, Gutschein für kostenlosen Versand und Blitzaktionen.",
           "Weil sich diese Codes oft ändern, schauen Sie am sichersten vor dem Abschluss auf der Aktionsseite von YesStyle nach. Danach geben Sie den aktiven Gutschein im Feld „Coupon Code“ ein und lassen CECILIA010 im Feld „Reward Code“."
-        ],
-        "bullets": [
-          "Flash Sales: Blitzaktionen mit bis zu 50 % Rabatt für kurze Zeit",
-          "Lucky Bundles: Produktpakete zum Sonderpreis",
-          "Daily Free: kostenlose Produkte ab einem bestimmten Bestellwert",
-          "Elite Club: Treueprogramm mit gestaffelten Rabatten",
-          "Friend Rewards: Freunde einladen und Punkte sammeln",
-          "Student Program: Sonderrabatte für Studierende"
         ]
       },
       {
         "heading": "Was ist YesStyle?",
         "paragraphs": [
-          "YesStyle (auch Yes Style geschrieben) ist eine der größten und umfassendsten E-Commerce-Plattformen der Welt für koreanische Mode, K-Beauty, J-Beauty (japanische Beauty) und asiatische Produkte im Allgemeinen. Das 2006 gegründete Unternehmen mit Sitz in Hongkong ist zu einer weltweiten Anlaufstelle für alle geworden, die mit Vertrauen und Authentizität in die Welt der koreanischen Beauty und der östlichen Mode eintauchen wollen.",
-          "YesStyle beliefert Kundinnen und Kunden in mehr als 150 Ländern und Regionen, mit Sprachauswahl und Preisumrechnung, damit die Navigation leichter fällt. Das Sortiment ist riesig: Tausende Produkte koreanischer Hautpflege, Make-up etablierter Marken, konzeptionelle Mode, Accessoires und Wellness-Supplements."
+          "YesStyle ist ein Online-Shop aus Hongkong, gegründet 2006, der K-Beauty, J-Beauty, Mode und Accessoires aus Asien in mehr als 150 Länder und Regionen liefert, mit Sprachauswahl auf der Website.",
+          "Worauf Sie vor der ersten Bestellung achten sollten, steht in [Ist YesStyle seriös und sicher?](/de/reviews/ist-yesstyle-serioes-und-sicher), und die gefragtesten koreanischen Marken und Produkte finden Sie in [K-Beauty-Trend: koreanische Marken kaufen](/de/reviews/k-beauty-trend-koreanische-marken-kaufen)."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "YesStyle-Startseite mit K-Beauty-Aktionsbanner und hervorgehobenen Produkten.",
         "imageCaption": "YesStyle bündelt Aktionen, K-Beauty-Produkte und eine übersetzte Navigation.",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty (koreanische Beauty): Glass-Skin-Seren, Essenzen, Toner, Sonnenschutz und Produkte für die berühmte asiatische Pflegeroutine",
-          "Koreanische und asiatische Mode: Kleidung, Schuhe, Taschen und Accessoires, inspiriert von den urbanen Trends in Seoul und Tokio",
-          "J-Beauty und Wellness: renommierte japanische Marken (wie Hada Labo) und Nahrungsergänzungsmittel"
-        ]
-      },
-      {
-        "heading": "Was Sie bei YesStyle kaufen können: Ratgeber nach Kategorie",
-        "paragraphs": [
-          "Die wichtigsten Kategorien sind:"
-        ],
-        "bullets": [
-          "K-Beauty und koreanische Hautpflege: COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
-          "Koreanisches Make-up: ETUDE (Lidschatten, Rouge), CLIO (Foundation, Eyeliner), Peripera (Tints, Mascara), Judydoll, fwee, nuse.",
-          "Koreanische Mode: minimalistischer, eleganter Stil, neutrale Farben, Oversize-Schnitte, vielseitige Teile. Casual-Kleidung, Kleider, Blazer, Wide-Leg-Hosen, Schuhe, Taschen.",
-          "J-Beauty (japanische Beauty): Hada Labo, DHC, Kose, Shiseido. Fokus auf Vorbeugung, Anti-Aging und geschichtete Feuchtigkeitspflege.",
-          "Chinese Beauty (C-Beauty): aufstrebende chinesische Marken, erschwingliche Preise, Formeln mit traditionellen chinesischen Inhaltsstoffen.",
-          "Supplements und Health & Wellness: Kollagen, Vitamine, Proteine, Produkte für Haare und Nägel.",
-          "Accessoires und Lifestyle: Haarspangen, Haarreifen, Taschen, bedruckte Socken, Handyhüllen, Artikel für Haus und Deko."
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "Gebühren und Import: was berechnet werden kann",
         "paragraphs": [
-          "Internationale Käufe können einer Zollprüfung unterliegen und Steuern, Einfuhrabgaben, Bearbeitungsgebühren oder andere Kosten für die Freigabe der Bestellung verursachen. Deshalb sollten Sie vor dem Kauf neben Produkt und Versand auch mögliche Zusatzkosten einkalkulieren.",
-          "YesStyle gibt an, dass bei Bestellungen unter US$ 1.000 Zollgebühren erstattet werden können, wenn Sie zuerst zahlen, den Beleg aufbewahren und die Erstattung innerhalb von 30 Tagen beantragen. Eine bewilligte Erstattung wird als YesStyle-Guthaben (Store Credit) ausgezahlt.",
-          "Lesen Sie vor dem Kauf die offizielle Hilfeseite von YesStyle zur Erstattung von Steuern und Zollgebühren, denn Importregeln und Shop-Richtlinien können sich ändern."
+          "Internationale Käufe können vom Zoll geprüft werden und Einfuhrabgaben sowie Verwaltungs- oder Abfertigungsgebühren verursachen. Neben Produkt und Versand sollten Sie deshalb mit möglichen Zusatzkosten rechnen. Versandkosten, Lieferzeit und Regeln hängen vom Lieferland ab; für Deutschland, Österreich und die Schweiz steht alles im Ratgeber [YesStyle Versand: Deutschland, Österreich, Schweiz](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "Nach der [Erstattungsrichtlinie von YesStyle für Zollgebühren](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212) können bei Bestellungen unter US$ 1.000 (Wert vor Abzug des Gutscheins und ohne Versand) diese Kosten erstattet werden. Sie zahlen zuerst, bewahren den Beleg auf und stellen den Antrag beim Kundenservice innerhalb von 30 Tagen, gerechnet ab dem Datum des Zahlungsbelegs. Eine bewilligte Erstattung wird als YesStyle-Guthaben (Store Credit) ausgezahlt.",
+          "Nicht abgedeckt sind Gebühren der Post oder des Transportunternehmens, etwa Lagergebühren oder nicht abgeholte Pakete. Bei Lieferungen nach Deutschland und Österreich (EU) sowie in die Schweiz bleibt die Mehrwertsteuer bzw. Einfuhrumsatzsteuer außen vor; die Liste der Zielländer mit Ausnahmen steht auf der Seite von YesStyle."
         ],
         "bullets": [
           "Bewahren Sie den Zahlungsbeleg für jede gezahlte Zollgebühr auf",
-          "Senden Sie den Erstattungsantrag innerhalb der 30-Tage-Frist über den YesStyle-Kundenservice",
-          "Die Erstattung erfolgt nicht automatisch: Sie hängt von der Prüfung und den aktuell geltenden Richtlinien von YesStyle ab",
-          "Bestellungen ab US$ 1.000 fallen nicht unter diese vom Unternehmen genannte Erstattungsrichtlinie",
-          "Die Erstattung erfolgt als YesStyle-Guthaben (Store Credit), nicht zwingend als Geld zurück auf die Karte"
+          "Stellen Sie den Erstattungsantrag über den YesStyle-Kundenservice innerhalb von 30 Tagen, gerechnet ab dem Datum des Belegs",
+          "Die Erstattung erfolgt nicht automatisch: Sie hängt von der Prüfung durch YesStyle ab",
+          "Bestellungen ab US$ 1.000 (vor Abzug des Gutscheins und ohne Versand) fallen nicht unter die Richtlinie",
+          "Die Erstattung erfolgt als YesStyle-Guthaben (Store Credit), nicht als Geld zurück auf die Karte"
         ]
       },
       {
@@ -30736,7 +30546,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales: Blitzaktionen mit bis zu 50 % Rabatt für kurze Zeit. Schauen Sie täglich auf der Website vorbei und legen Sie Produkte auf die Wishlist.",
           "Entdecken Sie die Lucky Bundles: Produktpakete zum reduzierten Preis (Skincare, Make-up, Themen-Sets wie „Glass Skin Routine“).",
           "Nutzen Sie die Wishlist klug: Lassen Sie sich benachrichtigen, wenn der Preis fällt, ordnen Sie künftige Käufe und planen Sie so, dass Sie den kostenlosen Versand erreichen.",
-          "Nutzen Sie den Elite Club: Treueprogramm mit gesammelten Punkten: Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
+          "Nutzen Sie den Elite Club: Die Stufe Bronze erreichen Sie mit der ersten Bestellung, Silver mit US$ 100 und Gold mit US$ 500 an kumulierten Einkäufen. Jede Stufe bringt mehr YS Points pro Dollar (2, 3 und 5) und Gutscheine über 12 % Rabatt (einen, zwei und drei) und gilt bis zum Ende des 12. Monats nach Erreichen. Die Regeln stehen auf der [Seite zum Elite Club](https://www.yesstyle.com/de/elite-club.html).",
           "Übersehen Sie die „Daily Free“-Produkte nicht: kostenlose Produkte ab einem bestimmten Bestellwert.",
           "Lesen Sie die Bewertungen (Reviews): echte Fotos, Kommentare zu Textur, Duft und Ergebnis, Hinweise zum Haltbarkeitsdatum.",
           "Behalten Sie die Jahreszeiten im Blick: Black Friday (November), 11.11 (Single's Day), Weihnachten, Summer Sale (Juni/Juli), Back to School (August/September).",
@@ -30750,22 +30560,20 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Ist CECILIA010 ein Gutschein oder ein Belohnungscode? Er funktioniert als Belohnungs-/Influencer-Code von YesStyle und bringt bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen), wenn er im richtigen Feld eingegeben wird. Der Vorteil: Er lässt sich zusammen mit berechtigten Gutscheinen nutzen.",
-          "Kann ich CECILIA010 mit dem Gutschein der Monatsaktion addieren? Ja! Er kommt ins Feld „Reward Code“, die Gutscheine ins Feld „Coupon Code“. So addieren Sie bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) zu den berechtigten Aktionsgutscheinen, die im Checkout bestätigt werden.",
+          "Kann ich CECILIA010 mit dem Gutschein der Monatsaktion kombinieren? Ja! Er kommt ins Feld „Reward Code“, die Gutscheine ins Feld „Coupon Code“. So kommen bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) zu den berechtigten Aktionsgutscheinen hinzu, die im Checkout bestätigt werden.",
           "Hat CECILIA010 ein Ablaufdatum? Er funktioniert, solange das Influencer-Programm von YesStyle aktiv ist und der Code regelmäßig geprüft wird.",
           "Ist der Einkauf bei YesStyle sicher? Ja. Seriöses Unternehmen seit 2006, beliefert mehr als 150 Länder und Regionen, originale Produkte, SSL-Verschlüsselung.",
-          "Muss ich Einfuhrabgaben zahlen? Das kann vorkommen. Wenn Zollgebühren anfallen, prüfen Sie die offizielle Richtlinie von YesStyle: Das Unternehmen nennt die Möglichkeit, Steuern und Zollgebühren für berechtigte Bestellungen unter US$ 1.000 erstattet zu bekommen, gegen Beleg und mit Antrag innerhalb der Frist, in Form von Store Credit.",
+          "Muss ich Einfuhrabgaben zahlen? Das kann vorkommen. Nach der [Richtlinie von YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212) können bei Bestellungen unter US$ 1.000 (vor Abzug des Gutscheins und ohne Versand) Steuern und Zollgebühren als Store Credit erstattet werden: Sie zahlen, bewahren den Beleg auf und stellen den Antrag innerhalb von 30 Tagen, gerechnet ab dem Datum des Zahlungsbelegs.",
           "Wie bezahle ich am besten? Internationale Kreditkarte (Visa, Mastercard, Amex) oder PayPal. Die Umrechnung erfolgt automatisch durch den Zahlungsanbieter.",
           "Sind die Produkte original? Ja. YesStyle ist autorisierter Händler der Marken und kauft direkt bei den Herstellern oder offiziellen Distributoren ein.",
           "Kann ich Produkte zurückgeben? Bei internationalen Käufen ist die Richtlinie eingeschränkt. Defekte oder falsch gelieferte Produkte können zurückgegeben werden. K-Beauty-Produkte (Skincare, Make-up) können aus hygienischen Gründen in der Regel nicht zurückgegeben werden, es sei denn, sie sind versiegelt.",
-          "Was ist der Elite Club? Das Treueprogramm von YesStyle. Je mehr Sie ausgeben, desto mehr Punkte sammeln Sie: Bronze 5 %, Silver 7 %, Gold 10 %, Platinum 12 %, Diamond 15 %.",
+          "Was ist der Elite Club? Das Treueprogramm von YesStyle. Die Stufe Bronze erreichen Sie mit der ersten Bestellung, Silver mit US$ 100 und Gold mit US$ 500 an kumulierten Einkäufen; jede Stufe bringt mehr YS Points pro Dollar und Gutscheine über 12 % Rabatt. CECILIA010 bleibt auf jeder Stufe im Feld Reward Code.",
           "Gibt es die Website in anderen Sprachen? Ja! Oben auf der Seite können Sie die Sprache wechseln.",
           "Wie verfolge ich meine YesStyle-Bestellung? Nach der Versandbestätigung schickt YesStyle eine E-Mail mit der internationalen Tracking-Nummer. Sie können den Bestellverlauf auch in Ihrem Konto einsehen. Die Verfolgung funktioniert über Dienste wie 17track oder auf der Website des Zustellers. Die geschätzte Lieferzeit wird im Checkout angezeigt und kann sich beim Zoll verändern.",
-          "Was tun, wenn meine YesStyle-Bestellung beim Zoll festgehalten wird? Wenn die Bestellung beim Zoll festgehalten wird, werden Sie eventuell aufgefordert, die Einfuhrsteuer zu zahlen. YesStyle gibt an, dass sich bei berechtigten Bestellungen unter US$ 1.000 die Erstattung von Steuern und Zollgebühren als Store Credit beantragen lässt, gegen Zahlungsbeleg und mit Antrag beim Kundenservice innerhalb von 30 Tagen.",
-          "Die Kleidung von YesStyle hat asiatische Größen. Wie wähle ich meine? Ja, die meiste Kleidung folgt der asiatischen Größennummerierung. Sehen Sie sich immer die Maßtabelle auf der Seite jedes Produkts an (meist in Zentimetern) und vergleichen Sie sie mit Ihren Körpermaßen. Wir empfehlen, ein bis zwei Größen größer als üblich zu bestellen, besonders bei enger geschnittenen Teilen.",
-          "Welche K-Beauty-Marken verkaufen sich bei YesStyle am besten? YesStyle ist autorisierter Händler etablierter Marken wie COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul und Haruharu. Die Website ordnet die Produkte in Kategorien wie Essenzen, Toner, Seren und Sonnenschutz, was die Suche nach der koreanischen Skincare-Routine erleichtert.",
-          "Kann ich eine Bestellung bei YesStyle nach der Bestätigung stornieren oder ändern? YesStyle erlaubt es, noch nicht versendete Bestellungen (Status 'Processing') direkt im Bestellverlauf Ihres Kontos zu stornieren. Nach dem Versand ist eine Stornierung nicht mehr möglich, aber Sie können die Annahme verweigern, wenn das Paket ankommt. Änderungen an Adresse oder Produkten sind nur vor dem Versand über den Kundenservice möglich.",
+          "Was tun, wenn meine YesStyle-Bestellung beim Zoll festgehalten wird? Verlangt der Zoll Abgaben, zahlen Sie, bewahren den Beleg auf und beantragen die Erstattung beim YesStyle-Kundenservice innerhalb von 30 Tagen, gerechnet ab dem Datum des Belegs; bei berechtigten Bestellungen unter US$ 1.000 erfolgt sie als Store Credit. Verlangt der Zoll Unterlagen, reichen Sie sie ein: Nach der [Zollrichtlinie von YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022) werden Pakete, deren Annahme wegen des Zolls verweigert wird, etwa weil Abgaben nicht gezahlt oder verlangte Unterlagen nicht eingereicht wurden, weder erstattet noch erneut versendet.",
+          "Kann ich eine Bestellung bei YesStyle nach der Bestätigung stornieren oder ändern? Noch nicht versendete Bestellungen (Status 'Processing') können Sie im Bestellverlauf Ihres Kontos stornieren; Änderungen an Adresse oder Produkten sind nur vor dem Versand über den Kundenservice möglich. Nach dem Versand wenden Sie sich zuerst an den Kundenservice, bevor Sie an eine Annahmeverweigerung denken: Nach der [Zollrichtlinie von YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022) werden Pakete, deren Annahme wegen des Zolls verweigert wird, etwa weil Abgaben nicht gezahlt oder verlangte Unterlagen nicht eingereicht wurden, weder erstattet noch erneut versendet.",
           "YesStyle-Code für die erste Bestellung: wie nutze ich CECILIA010? Der Code CECILIA010 funktioniert bei jedem Einkauf und sichert bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen), kombinierbar mit berechtigten Aktionsgutscheinen, die im Checkout bestätigt werden.",
-          "YesStyle-Influencer-Code: was ist CECILIA010? CECILIA010 ist ein bei YesStyle registrierter Influencer-Belohnungscode. Er gewährt im Checkout bis zu 5 % Extra-Rabatt (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) und lässt sich mit berechtigten Aktionsgutscheinen kombinieren, anders als Codes für die erste Bestellung, die sich meist nicht kombinieren lassen."
+          "YesStyle-Influencer-Code: was ist CECILIA010? CECILIA010 ist der Belohnungscode von Cecília, registriert im Partnerprogramm von YesStyle. Er bringt 5 % extra auf die erste Bestellung und 2 % auf die folgenden, im Feld Reward Code, und lässt sich mit berechtigten Aktionsgutscheinen im Feld Coupon Code kombinieren."
         ]
       }
     ],
@@ -30798,7 +30606,7 @@ export const reviewsData: unknown[] = [
     "description": "YesStyle 인플루언서 코드 CECILIA010을 사용하는 방법을 단계별로 안내합니다. 결제 화면의 어디에 입력하는지(Reward Code 칸), 사용 가능한 쿠폰과 함께 쓰는 방법, K-Beauty 쇼핑 팁을 정리했습니다.",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "밝은 테이블 위에 놓인 YesStyle의 K-beauty·한국 스킨케어 제품.",
@@ -30834,24 +30642,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "CECILIA010은 YesStyle의 리워드 코드로, 최대 5%를 추가로 할인해 줍니다. 첫 구매는 5%, 이후 구매는 2%입니다. 쿠폰 칸과 별개인 Reward Code 칸에 입력하며, 적격 쿠폰과 함께 쓸 수 있습니다. 중요한 건 각 칸에 맞게 입력하는 것입니다. 방법은 'YesStyle에서 CECILIA010 코드 사용하기: 단계별 안내' 챕터를 보세요."
+          "CECILIA010은 YesStyle의 리워드 코드로, 첫 구매는 5%, 이후 구매는 2%가 추가됩니다. 쿠폰 칸(Coupon Code)과 별개인 Reward Code 칸에 입력하며, 적격 쿠폰과 함께 쓸 수 있습니다. 각 칸에 맞게 입력하고, 결제 전에 주문 요약에서 두 할인이 모두 반영됐는지 확인하세요."
         ]
       },
       {
         "heading": "CECILIA010 코드의 작동 방식",
         "paragraphs": [
-          "장바구니에서 바로 할인되는 CECILIA12나 CECI와 달리, CECILIA010은 결제 화면에 전용 칸이 있는 Reward Code입니다.",
-          "가장 큰 장점은 결제 화면에 전용 칸이 따로 있다는 점입니다. 그래서 사이트의 적격 프로모션 쿠폰과 동시에 사용할 수 있고, 주문 할인에 최대 5%가 추가됩니다.",
-          "장바구니에서 바로 할인받고 싶다면, 지금 쓸 수 있는 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에서 확인하세요.",
-          "CECILIA010은 YesStyle의 월간 쿠폰을 없애지 않습니다. 적격 쿠폰에 최대 5%(첫 구매 5%, 이후 2%)를 더해 줍니다. 결제 때는 항상 두 칸을 모두 사용하세요."
+          "CECILIA010은 Reward Code로, YesStyle 결제 화면의 전용 칸에 입력합니다. 쿠폰 코드(Coupon Code) 칸과 별개이므로 사이트의 적격 쿠폰과 함께 쓸 수 있고, 첫 구매는 5%, 이후 구매는 2%가 추가됩니다.",
+          "지금 쓸 수 있는 쿠폰은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에서 확인하세요."
         ],
         "bullets": [
           "코드: CECILIA010",
           "할인: 최대 5% 추가(첫 구매 5% / 재구매 2%)",
           "유형: 인플루언서 코드 / 리워드 코드(Reward Code)",
           "사용 위치: YesStyle 결제 화면의 '리워드 코드'(Reward Code) 칸",
-          "작동 방식: 올바른 칸에 입력하면 장바구니에 최대 5%가 추가됩니다(첫 구매 5% / 재구매 2%)",
-          "중복 사용: 가능합니다! 같은 주문에서 CECILIA010과 적격 프로모션 쿠폰을 함께 쓸 수 있습니다",
+          "병용: 적격 프로모션 쿠폰과 각자의 칸에서 함께 사용 가능",
           "유효 기간: 공식 인플루언서 프로그램에서 유효(정기적으로 확인)"
         ],
         "links": [
@@ -30875,8 +30680,7 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA010은 YesStyle 인플루언서 코드인가요?",
         "paragraphs": [
           "네. CECILIA010은 YesStyle 공식 파트너 프로그램에 등록된 인플루언서 리워드 코드입니다. K-beauty와 아시아 제품을 구매하는 'Em Casa com Cecília' 블로그 독자를 위해 만들어졌습니다.",
-          "매달 바뀌고 만료되는 쿠폰과 달리, 인플루언서 코드는 파트너십이 이어지는 동안 유효하며 새 주문에도 사용할 수 있습니다. 계정별 또는 주문별 제한이 있다면 코드를 적용할 때 YesStyle 결제 화면이 바로 알려 줍니다.",
-          "인플루언서 코드 CECILIA010의 장점은 별도의 칸에 입력하기 때문에 결제 화면에서 확인되는 적격 프로모션 쿠폰과 함께 쓸 수 있다는 점입니다. 인플루언서가 주는 최대 5%(첫 구매 5% / 재구매 2%)에 그달의 쿠폰 할인까지 받을 수 있습니다. 두 가지 혜택을 모두 챙기는 셈입니다."
+          "매달 바뀌고 만료되는 쿠폰과 달리, 인플루언서 코드는 파트너십이 이어지는 동안 유효하며 새 주문에도 사용할 수 있습니다. 계정별 또는 주문별 제한이 있다면 코드를 적용할 때 YesStyle 결제 화면이 바로 알려 줍니다."
         ]
       },
       {
@@ -30945,60 +30749,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle은 쿠폰이 자주 바뀝니다. 가장 흔한 종류는 웰컴 쿠폰, 재방문 쿠폰, 시즌 쿠폰, 카테고리 쿠폰, 무료 배송 쿠폰, 타임세일입니다.",
           "이 코드들은 자주 바뀌므로, 구매를 확정하기 전에 YesStyle 공식 프로모션 페이지를 확인하는 것이 가장 확실합니다. 그런 다음 유효한 쿠폰은 'Coupon Code' 칸에, CECILIA010은 'Reward Code' 칸에 입력하세요."
-        ],
-        "bullets": [
-          "Flash Sales: 한정된 시간 동안 최대 50% OFF 타임세일",
-          "Lucky Bundles: 특별 할인가로 구성된 묶음 상품",
-          "Daily Free: 일정 금액 이상 구매 시 무료로 받는 상품",
-          "Elite Club: 할인이 단계적으로 커지는 멤버십 프로그램",
-          "Friend Rewards: 친구를 추천하고 포인트 받기",
-          "Student Program: 학생을 위한 특별 할인"
         ]
       },
       {
         "heading": "YesStyle은 어떤 곳인가요?",
         "paragraphs": [
-          "YesStyle(Yes Style로도 표기)은 한국 패션, K-beauty, J-beauty(일본 뷰티), 아시아 전반의 제품을 다루는 세계 최대 규모의 종합 이커머스 플랫폼 중 하나입니다. 2006년에 설립되었고 본사는 홍콩에 있으며, 한국 뷰티와 동양 패션을 믿고 정품으로 만나고 싶은 사람들의 세계적인 기준점이 되었습니다.",
-          "YesStyle은 150개가 넘는 국가와 지역의 고객을 대상으로 하며, 언어 선택과 가격 환산 표시가 있어 이용하기 편합니다. 카탈로그는 방대해서 한국 스킨케어, 유명 브랜드 메이크업, 트렌디한 패션, 액세서리, 웰니스 보충제까지 수천 가지 제품이 있습니다."
+          "YesStyle은 2006년에 설립된 홍콩의 온라인 쇼핑몰로, K-beauty, J-beauty, 패션, 아시아 잡화를 150개가 넘는 국가와 지역으로 배송합니다.",
+          "구매 전에 살펴볼 점은 [YesStyle 신뢰할 수 있을까?](/ko/reviews/yesstyle-trust-guide-ko)에서, 인기 있는 한국 화장품과 브랜드는 [K-뷰티와 한국 브랜드 구매처](/ko/reviews/yesstyle-kbeauty-guide-ko)에서 확인하세요."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "K-beauty 프로모션 배너와 주요 제품이 보이는 YesStyle 메인 페이지.",
         "imageCaption": "YesStyle에는 프로모션 캠페인, K-beauty 제품, 번역된 탐색 메뉴가 모여 있습니다.",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty(한국 뷰티): 글라스 스킨 세럼, 에센스, 토너, 선크림, 유명한 아시아식 스킨케어 루틴을 위한 제품",
-          "한국·아시아 패션: 서울과 도쿄의 도시 트렌드에서 영감을 받은 의류, 신발, 가방, 액세서리",
-          "J-Beauty와 웰니스: Hada Labo 같은 유명 일본 브랜드와 건강 보충제"
-        ]
-      },
-      {
-        "heading": "YesStyle에서 무엇을 살까: 카테고리별 가이드",
-        "paragraphs": [
-          "주요 카테고리는 다음과 같습니다."
-        ],
-        "bullets": [
-          "K-Beauty와 한국 스킨케어: COSRX(Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon(Dynasty Cream, Relief Sun), Anua(Heartleaf 77% Soothing Toner), Laneige(Water Sleeping Mask, Lip Sleeping Mask), Isntree(Hyaluronic Acid Watery Sun Gel), TIRTIR(Mask Fit Red Cushion), medicube(Zero Pore Pads), AXIS-Y(Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
-          "한국 메이크업: ETUDE(섀도, 블러셔), CLIO(파운데이션, 아이라이너), Peripera(틴트, 마스카라), Judydoll, fwee, nuse.",
-          "한국 패션: 미니멀하고 우아한 스타일, 뉴트럴 컬러, 오버사이즈 핏, 활용도 높은 아이템. 캐주얼 의류, 원피스, 블레이저, 와이드 팬츠, 신발, 가방.",
-          "J-Beauty(일본 뷰티): Hada Labo, DHC, Kose, Shiseido. 예방, 안티에이징, 레이어링 보습에 중점.",
-          "Chinese Beauty(C-Beauty): 떠오르는 중국 브랜드, 합리적인 가격, 중국 전통 성분을 쓴 제형.",
-          "보충제와 Health & Wellness: 콜라겐, 비타민, 단백질, 헤어·네일 케어 제품.",
-          "액세서리와 라이프스타일: 헤어핀, 머리띠, 가방, 무늬 양말, 휴대폰 케이스, 홈 데코 용품."
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "세금과 수입: 부과될 수 있는 비용",
         "paragraphs": [
-          "해외 구매는 세관 심사를 받을 수 있고, 수입세, 수입 수수료, 행정 비용 등 주문 통관과 관련된 비용이 발생할 수 있습니다. 그래서 제품 가격과 배송비를 계산할 때 추가 비용이 들 수 있다는 점도 구매 전에 고려하는 것이 좋습니다.",
-          "YesStyle에 따르면 US$ 1,000 미만 주문은 먼저 결제하고 영수증을 보관한 뒤 30일 이내에 신청하면 관세를 환급받을 수 있습니다. 승인된 환급은 YesStyle 스토어 크레딧으로 지급됩니다.",
-          "구매하기 전에 YesStyle 공식 도움말의 세금·관세 환급 페이지를 확인하세요. 수입 규정과 쇼핑몰 정책은 바뀔 수 있습니다."
+          "해외 구매는 세관 심사를 받을 수 있고, 수입세, 수입 수수료, 행정 비용 등 주문 통관과 관련된 비용이 발생할 수 있습니다. 그래서 제품 가격과 배송비를 계산할 때 추가 비용이 들 수 있다는 점도 구매 전에 고려하는 것이 좋습니다. 배송비, 배송 기간, 규정은 받는 나라에 따라 달라집니다. 한국으로 받는 경우는 [YesStyle 한국 배송](/ko/reviews/yesstyle-shipping-korea-ko)에 정리해 두었습니다.",
+          "YesStyle의 [관세·세금 환급 정책](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)에 따르면 US$ 1,000 미만 주문(쿠폰 할인 전 금액, 배송비 제외)은 수입세와 행정·통관 수수료를 환급받을 수 있습니다. 먼저 결제하고 영수증을 보관한 뒤, 결제 영수증 날짜부터 30일 이내에 고객센터에 신청하세요. 승인된 환급은 YesStyle 스토어 크레딧으로 지급됩니다.",
+          "판매세와 우체국·운송사 수수료(보관료, 수령되지 않은 소포 등)는 환급 대상이 아닙니다. 또한 배송지에 따라 제외되는 세금이 있으니, 제외 대상 국가 목록은 YesStyle 페이지에서 확인하세요."
         ],
         "bullets": [
-          "낸 관세의 결제 영수증을 보관하세요",
-          "30일 이내에 YesStyle 고객센터로 환급 신청을 보내세요",
+          "낸 관세·세금의 결제 영수증을 보관하세요",
+          "결제 영수증 날짜부터 30일 이내에 YesStyle 고객센터로 환급을 신청하세요",
           "환급은 자동이 아닙니다. 심사와 YesStyle의 현행 정책에 따라 결정됩니다",
-          "US$ 1,000 이상 주문은 브랜드가 안내한 이 환급 정책의 대상이 아닙니다",
-          "환급은 YesStyle 스토어 크레딧으로 이루어지며, 카드로 현금이 돌아오는 것은 아닐 수 있습니다"
+          "US$ 1,000 이상 주문(쿠폰 할인 전, 배송비 제외)은 이 환급 정책의 대상이 아닙니다",
+          "환급은 YesStyle 스토어 크레딧으로 이루어지며, 카드로 현금이 돌아오지 않습니다"
         ]
       },
       {
@@ -31010,7 +30786,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales: 한정된 시간 동안 최대 50% OFF 타임세일. 매일 사이트에 들어가 상품을 Wishlist에 담아 두세요.",
           "Lucky Bundles 살펴보기: 할인된 가격의 묶음 상품(스킨케어, 메이크업, 'Glass Skin Routine' 같은 테마 키트).",
           "Wishlist를 똑똑하게 활용하기: 가격이 내려가면 알림을 받고, 다음 구매를 정리해 무료 배송 조건에 맞춰 계획할 수 있습니다.",
-          "Elite Club 활용하기: 포인트가 쌓이는 멤버십 프로그램으로 Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%입니다.",
+          "Elite Club 활용하기: Bronze는 US$ 1 이상 주문으로, Silver는 누적 US$ 100, Gold는 누적 US$ 500으로 달성합니다. 등급이 오를수록 US$ 1당 YS Point가 늘고(2, 3, 5포인트) 12% OFF 쿠폰도 받습니다(1장, 2장, 3장). Bronze, Silver, Gold는 달성한 달부터 12번째 달 말까지 유효합니다. 자세한 규정은 [Elite Club 페이지](https://www.yesstyle.com/en/elite-club.html)에서 확인하세요.",
           "'Daily Free' 상품도 놓치지 마세요: 일정 금액 이상 구매하면 무료로 받는 상품입니다.",
           "리뷰 읽기: 실제 사진, 텍스처·향·결과에 대한 후기, 유통기한 정보.",
           "시즌을 눈여겨보기: 블랙프라이데이(11월), 11.11(광군제), 크리스마스, Summer Sale(6월/7월), Back to School(8월/9월).",
@@ -31027,19 +30803,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010을 이달의 프로모션 쿠폰과 함께 쓸 수 있나요? 네! CECILIA010은 'Reward Code' 칸에, 쿠폰은 'Coupon Code' 칸에 입력합니다. 이렇게 결제 화면에서 확인되는 적격 프로모션 쿠폰에 최대 5%(첫 구매 5%, 재구매 2%)를 더할 수 있습니다.",
           "CECILIA010에는 유효 기간이 있나요? YesStyle 인플루언서 프로그램이 활성 상태이고 코드가 정기적으로 확인되는 동안 사용할 수 있습니다.",
           "YesStyle에서 구매해도 안전한가요? 네. 2006년부터 운영된 정식 기업이고, 150개가 넘는 국가와 지역에 서비스하며, 정품을 판매하고 SSL 암호화를 사용합니다.",
-          "수입세를 내야 하나요? 그럴 수 있습니다. 관세가 부과되면 YesStyle 공식 정책을 확인하세요. US$ 1,000 미만의 적격 주문은 영수증과 기한 내 신청을 조건으로 세금·관세를 스토어 크레딧으로 환급받을 수 있다고 안내하고 있습니다.",
+          "수입세를 내야 하나요? 그럴 수 있습니다. YesStyle [정책](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)에 따르면 US$ 1,000 미만 주문(쿠폰 할인 전, 배송비 제외)은 수입세 등을 스토어 크레딧으로 환급받을 수 있습니다. 먼저 결제하고 영수증을 보관한 뒤, 결제 영수증 날짜부터 30일 이내에 신청하세요.",
           "가장 좋은 결제 방법은 무엇인가요? 국제 신용카드(Visa, Mastercard, Amex) 또는 PayPal입니다. 환전은 카드사가 자동으로 처리합니다.",
           "제품은 정품인가요? 네. YesStyle은 각 브랜드의 공식 유통사로, 제조사나 공식 유통사에서 직접 매입합니다.",
           "제품을 반품할 수 있나요? 해외 구매는 반품 조건이 제한적입니다. 불량품이나 오배송 제품은 반품할 수 있습니다. K-beauty 제품(스킨케어, 메이크업)은 위생상의 이유로 밀봉된 경우가 아니면 보통 반품할 수 없습니다.",
-          "Elite Club이 무엇인가요? YesStyle의 멤버십 프로그램입니다. 많이 쓸수록 포인트가 쌓입니다: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "Elite Club이 무엇인가요? YesStyle의 멤버십 프로그램입니다. Bronze는 US$ 1 이상 주문, Silver는 누적 US$ 100, Gold는 누적 US$ 500으로 달성하며, 등급이 오를수록 YS Point가 늘고 12% OFF 쿠폰도 받습니다. CECILIA010은 어느 등급에서든 Reward Code 칸에 입력합니다.",
           "사이트에서 다른 언어도 지원하나요? 네! 사이트 상단에서 언어를 바꿀 수 있습니다.",
           "YesStyle 주문은 어떻게 추적하나요? 발송이 확정되면 YesStyle이 국제 추적 번호가 담긴 이메일을 보냅니다. 로그인한 계정의 주문 내역에서도 확인할 수 있습니다. 추적은 17track 같은 서비스나 운송사 사이트에서 가능합니다. 예상 배송 기간은 결제 화면에 표시되며 세관 통과 과정에서 달라질 수 있습니다.",
-          "YesStyle 주문이 세관에 잡혀 있으면 어떻게 하나요? 주문이 세관에서 멈추면 수입세 납부 안내를 받을 수 있습니다. YesStyle에 따르면 US$ 1,000 미만의 적격 주문은 결제 영수증과 함께 30일 이내에 고객센터에 신청하면 세금·관세를 스토어 크레딧으로 환급받을 수 있습니다.",
-          "YesStyle 옷은 아시아 사이즈를 씁니다. 내 사이즈는 어떻게 고르나요? 네, 대부분의 옷은 아시아 사이즈 기준입니다. 각 제품 페이지의 사이즈표(보통 센티미터 단위)를 꼭 확인하고 본인의 신체 치수와 비교하세요. 특히 몸에 붙는 옷은 평소보다 한두 사이즈 큰 것을 주문하길 권합니다.",
-          "YesStyle에서 가장 많이 팔리는 K-beauty 브랜드는 무엇인가요? YesStyle은 COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul, Haruharu 같은 유명 브랜드의 공식 유통사입니다. 사이트는 에센스, 토너, 세럼, 선크림 같은 카테고리로 제품을 정리해 두어 한국식 스킨케어 루틴을 찾기 쉽습니다.",
-          "YesStyle에서 확정한 주문을 취소하거나 변경할 수 있나요? 아직 발송되지 않은 주문(상태 'Processing')은 계정의 주문 내역에서 직접 취소할 수 있습니다. 발송 후에는 취소할 수 없지만 도착했을 때 수령을 거부할 수 있습니다. 주소나 제품 변경은 발송 전에만 가능하며 고객센터를 통해 해야 합니다.",
+          "YesStyle 주문이 세관에 잡혀 있으면 어떻게 하나요? 세관에서 세금 납부를 요구하면 납부하고 영수증을 보관한 뒤, 영수증 날짜부터 30일 이내에 YesStyle 고객센터에 환급을 신청하세요. US$ 1,000 미만의 적격 주문은 스토어 크레딧으로 환급됩니다. 서류를 요청받으면 제출하세요. YesStyle [관세 정책](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022)에 따르면 세금을 내지 않거나 요청받은 서류를 보내지 않는 등 통관상의 이유로 수령이 거부된 소포는 환불도 재발송도 되지 않습니다.",
+          "YesStyle에서 확정한 주문을 취소하거나 변경할 수 있나요? 아직 발송되지 않은 주문(상태 'Processing')은 계정의 주문 내역에서 직접 취소할 수 있습니다. 주소나 제품 변경은 발송 전에만 가능하며 고객센터를 통해 해야 합니다. 발송 후에는 수령을 거부하기 전에 먼저 고객센터에 문의하세요. YesStyle [관세 정책](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022)에 따르면 세금을 내지 않거나 요청받은 서류를 보내지 않는 등 통관상의 이유로 수령이 거부된 소포는 환불도 재발송도 되지 않습니다.",
           "YesStyle 첫 구매 코드: CECILIA010은 어떻게 쓰나요? CECILIA010은 어떤 주문에서든 사용할 수 있고, 최대 5%(첫 구매 5%, 재구매 2%)를 추가로 받으며, 결제 화면에서 확인되는 적격 프로모션 쿠폰과 함께 쓸 수 있습니다.",
-          "YesStyle 인플루언서 코드: CECILIA010은 무엇인가요? CECILIA010은 YesStyle에 등록된 인플루언서 리워드 코드입니다. 결제 시 최대 5%(첫 구매 5%, 재구매 2%)의 추가 할인을 주며 적격 프로모션 쿠폰과 함께 쓸 수 있습니다. 보통은 중복 사용이 안 되는 첫 구매 코드와는 다릅니다."
+          "YesStyle 인플루언서 코드: CECILIA010은 무엇인가요? CECILIA010은 YesStyle 파트너 프로그램에 등록된 Cecília의 리워드 코드입니다. 첫 구매는 5%, 이후 구매는 2%가 추가되며 Reward Code 칸에 입력합니다. 적격 프로모션 쿠폰은 Coupon Code 칸에서 함께 쓸 수 있습니다."
         ]
       }
     ],
@@ -31061,7 +30835,7 @@ export const reviewsData: unknown[] = [
     "description": "YesStyleでインフルエンサーコードCECILIA010を使う手順を、順を追って紹介します。チェックアウトのどこに入力するか(Reward Code欄)、有効なクーポンとの併用方法、K-Beautyの買い方のコツをまとめました。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "YesStyleのK-beautyと韓国スキンケア商品が明るいテーブルに並んでいる様子。",
@@ -31097,24 +30871,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "CECILIA010はYesStyleのリワードコードで、最大5%が追加されます。初回購入は5%、2回目以降は2%です。入力先はクーポン欄とは別のReward Code欄で、対象のクーポンとも併用できます。大事なのは、それぞれの欄に正しく入力すること。手順は「YesStyleでCECILIA010を使う手順」の章をご覧ください。"
+          "CECILIA010はYesStyleのリワードコードで、初回購入は5%、2回目以降は2%が追加されます。入力先はクーポン欄(Coupon Code)とは別のReward Code欄で、対象のクーポンとも併用できます。それぞれの欄に正しく入力し、支払い前に注文概要で両方の割引が反映されているか確認してください。"
         ]
       },
       {
         "heading": "CECILIA010のしくみ",
         "paragraphs": [
-          "CECILIA010は、カートでそのまま割引されるCECILIA12やCECIとは違い、チェックアウトに専用の欄があるReward Codeです。",
-          "最大のポイントは、チェックアウトに専用の別欄があること。そのため、サイトの対象プロモーションクーポンと同時に使え、注文の割引に最大5%が上乗せされます。",
-          "カートでそのまま割引してほしい場合は、今使えるクーポンを[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)でご覧ください。",
-          "CECILIA010は、YesStyleの毎月のクーポンを打ち消しません。対象のクーポンに最大5%(初回購入5%、2回目以降2%)が上乗せされます。チェックアウトでは必ず両方の欄を使ってください。"
+          "CECILIA010はReward Codeで、YesStyleのチェックアウトにある専用の欄に入力します。クーポンコード(Coupon Code)欄とは別なので、サイトの対象クーポンと併用でき、初回購入は5%、2回目以降は2%が追加されます。",
+          "今使えるクーポンは[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)でご覧ください。"
         ],
         "bullets": [
           "コード：CECILIA010",
           "割引：最大5%追加(初回購入5% / リピーター2%)",
           "種類：インフルエンサーコード / リワードコード(Reward Code)",
           "入力場所：YesStyleのチェックアウトにある「リワードコード」(Reward Code)欄",
-          "しくみ：正しい欄に入力すると、カートに最大5%が追加されます(初回購入5% / リピーター2%)",
-          "併用：できます！同じ注文でCECILIA010と対象のプロモーションクーポンを一緒に使えます",
+          "併用：対象のプロモーションクーポンと、それぞれの欄で併用できます",
           "有効期間：公式インフルエンサープログラムで有効(定期的に確認しています)"
         ],
         "links": [
@@ -31138,8 +30909,7 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA010はYesStyleのインフルエンサーコード?",
         "paragraphs": [
           "はい。CECILIA010は、YesStyleの公式パートナープログラムに登録されたインフルエンサー向けのリワードコードです。K-beautyやアジアの商品を買う「Em Casa com Cecília」ブログの読者のために作られました。",
-          "毎月変わって期限が切れるクーポンと違い、インフルエンサーコードはパートナーシップが続くかぎり有効で、新しい注文でも使えます。アカウントや注文ごとに制限がある場合は、コードを適用したときにYesStyleのチェックアウトがその場で知らせてくれます。",
-          "インフルエンサーコードCECILIA010の強みは、別の欄に入力するので、チェックアウトで確認できた対象のプロモーションクーポンと併用できること。インフルエンサーからの最大5%(初回購入5% / リピーター2%)に加えて、その月のクーポンの割引も受けられます。両方のいいとこ取りです。"
+          "毎月変わって期限が切れるクーポンと違い、インフルエンサーコードはパートナーシップが続くかぎり有効で、新しい注文でも使えます。アカウントや注文ごとに制限がある場合は、コードを適用したときにYesStyleのチェックアウトがその場で知らせてくれます。"
         ]
       },
       {
@@ -31208,60 +30978,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyleのクーポンはよく入れ替わります。よくある種類は、ウェルカムクーポン、リピーター向けクーポン、シーズンクーポン、カテゴリークーポン、送料無料クーポン、タイムセールです。",
           "コードは頻繁に変わるので、購入を確定する前にYesStyle公式のプロモーションページを確認するのがいちばん確実です。そのうえで、有効なクーポンを「Coupon Code」欄に、CECILIA010を「Reward Code」欄に入力しましょう。"
-        ],
-        "bullets": [
-          "Flash Sales：期間限定で最大50% OFFになるタイムセール",
-          "Lucky Bundles：特別価格のセット商品",
-          "Daily Free：一定額以上の購入で無料でもらえる商品",
-          "Elite Club：割引が段階的に増えるロイヤルティプログラム",
-          "Friend Rewards：友だちを紹介するとポイントがもらえる",
-          "Student Program：学生向けの特別割引"
         ]
       },
       {
         "heading": "YesStyleとは?",
         "paragraphs": [
-          "YesStyle(Yes Styleと表記されることもあります)は、韓国ファッション、K-beauty、J-beauty(日本の美容)、アジアの商品全般を扱う、世界最大級で品ぞろえの充実したECサイトのひとつです。2006年に創業し、本社は香港。韓国美容やアジアのファッションを、安心して本物で楽しみたい人の世界的な拠点になっています。",
-          "YesStyleは150を超える国と地域のお客様に対応しており、言語切り替えや価格の換算表示もあります。カタログは膨大で、韓国スキンケア、人気ブランドのメイクアップ、トレンドファッション、アクセサリー、ウェルネスのサプリメントが数千点そろっています。"
+          "YesStyleは2006年に創業した香港のオンラインショップで、K-beauty、J-beauty、ファッション、アジアの雑貨を150を超える国と地域に届けています。",
+          "購入前に確認したい点は[YesStyleは安全?信頼性と評判](/ja/reviews/yesstyle-trust-guide-ja)で、人気の韓国コスメやブランドは[K-Beautyの特徴と購入方法](/ja/reviews/yesstyle-kbeauty-guide-ja)でご覧ください。"
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "YesStyleのトップページ。K-beautyのセールバナーとおすすめ商品が表示されている。",
         "imageCaption": "YesStyleには、セール、K-beauty商品、翻訳されたナビゲーションがそろっています。",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty(韓国美容)：グラススキン用の美容液、エッセンス、トナー、日焼け止め、有名なアジア式スキンケアのためのアイテム",
-          "韓国・アジアのファッション：ソウルや東京のストリートトレンドに着想を得た服、靴、バッグ、アクセサリー",
-          "J-Beautyとウェルネス：Hada Laboなどの有名な日本ブランドと、栄養補助食品"
-        ]
-      },
-      {
-        "heading": "YesStyleで何を買う?カテゴリー別ガイド",
-        "paragraphs": [
-          "主なカテゴリーは次のとおりです。"
-        ],
-        "bullets": [
-          "K-Beautyと韓国スキンケア：COSRX(Snail Mucin Essence、Low pH Good Morning Gel Cleanser)、Beauty of Joseon(Dynasty Cream、Relief Sun)、Anua(Heartleaf 77% Soothing Toner)、Laneige(Water Sleeping Mask、Lip Sleeping Mask)、Isntree(Hyaluronic Acid Watery Sun Gel)、TIRTIR(Mask Fit Red Cushion)、medicube(Zero Pore Pads)、AXIS-Y(Dark Spot Correcting Glow Serum)、Dr.Melaxin、House of Hur。",
-          "韓国メイクアップ：ETUDE(アイシャドウ、チーク)、CLIO(ファンデーション、アイライナー)、Peripera(ティント、マスカラ)、Judydoll、fwee、nuse。",
-          "韓国ファッション：ミニマルで上品なスタイル、ニュートラルカラー、オーバーサイズのカット、着回しやすいアイテム。カジュアルウェア、ワンピース、ブレザー、ワイドレッグパンツ、靴、バッグ。",
-          "J-Beauty(日本の美容)：Hada Labo、DHC、Kose、Shiseido。予防、エイジングケア、重ね保湿に重点。",
-          "Chinese Beauty(C-Beauty)：勢いのある中国ブランド、手ごろな価格、中国の伝統的な成分を使った処方。",
-          "サプリメントとHealth & Wellness：コラーゲン、ビタミン、プロテイン、ヘアケア・ネイルケア用品。",
-          "アクセサリーとライフスタイル：ヘアクリップ、カチューシャ、バッグ、柄入りの靴下、スマホケース、インテリア・ホーム雑貨。"
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "関税と輸入：請求される可能性があるもの",
         "paragraphs": [
-          "海外からの購入は、税関の審査を受けることがあり、輸入税、輸入手数料、事務手数料、その他の通関に関わる費用がかかる場合があります。そのため、商品代金と送料の計算に加えて、追加費用がかかる可能性も購入前に考えておきましょう。",
-          "YesStyleによると、1,000米ドル未満の注文は、先に支払って領収書を保管し、30日以内に申請すれば、関税の返金を受けられる場合があります。承認された返金は、YesStyleストアクレジットで支払われます。",
-          "購入前に、YesStyle公式の関税・税金の返金に関するヘルプページを確認してください。輸入のルールやショップのポリシーは変わることがあります。"
+          "海外からの購入は、税関の審査を受けることがあり、輸入税、輸入手数料、事務手数料、その他の通関に関わる費用がかかる場合があります。そのため、商品代金と送料の計算に加えて、追加費用がかかる可能性も購入前に考えておきましょう。送料、お届けまでの日数、ルールは配送先の国によって変わります。日本向けの内容は[YesStyleの日本への配送](/ja/reviews/yesstyle-shipping-japan-ja)にまとめています。",
+          "YesStyleの[関税・税金の返金ポリシー](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)では、1,000米ドル未満の注文(クーポン割引前の金額で、送料を除く)が対象で、輸入税や事務手数料・通関手数料の返金を受けられる場合があります。先に支払って領収書を保管し、領収書の支払日から30日以内にカスタマーサポートへ申請します。承認された返金はYesStyleストアクレジットで支払われます。",
+          "販売税や、郵便会社・配送業者の手数料(保管料、受け取られなかった荷物など)は対象外です。また、配送先によっては除外される税金があります。対象外の配送先の一覧はYesStyleのページで確認してください。"
         ],
         "bullets": [
-          "支払った関税の領収書は保管しておく",
-          "返金の申請は、30日以内にYesStyleのカスタマーサポートへ送る",
+          "支払った関税・税金の領収書は保管しておく",
+          "返金の申請は、領収書の支払日から30日以内にYesStyleのカスタマーサポートへ",
           "返金は自動ではありません。審査とYesStyleのそのときのポリシーによって決まります",
-          "1,000米ドル以上の注文は、ブランドが案内するこの返金ポリシーの対象外です",
-          "返金はYesStyleストアクレジットで行われ、カードへの現金返金とは限りません"
+          "1,000米ドル以上の注文(クーポン割引前、送料を除く)は、この返金ポリシーの対象外です",
+          "返金はYesStyleストアクレジットで行われ、カードへの現金返金ではありません"
         ]
       },
       {
@@ -31273,7 +31015,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales：期間限定で最大50% OFFになるタイムセール。毎日サイトをのぞいて、商品をWishlistに入れておきましょう。",
           "Lucky Bundlesをチェック：割引価格のセット商品(スキンケア、メイクアップ、「Glass Skin Routine」のようなテーマ別キット)。",
           "Wishlistを上手に使う：値下がりの通知を受け取り、次の買い物を整理して、送料無料の条件を満たす計画が立てられます。",
-          "Elite Clubを活用：ポイントがたまるロイヤルティプログラムで、Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%です。",
+          "Elite Clubを活用：Bronzeは1米ドル以上の注文で、Silverは累計100米ドルで、Goldは累計500米ドルで到達します。レベルが上がるほど1米ドルあたりのYS Pointが増え(2、3、5ポイント)、12% OFFクーポンももらえます(1枚、2枚、3枚)。Bronze、Silver、Goldは到達から12か月目の末日まで有効です。詳しくは[Elite Clubのページ](https://www.yesstyle.com/en/elite-club.html)をご覧ください。",
           "「Daily Free」の商品も見逃さない：一定額以上の購入で無料でもらえる商品です。",
           "レビューを読む：実際の写真、テクスチャー、香り、使用感のコメント、使用期限の情報。",
           "季節のセールをチェック：ブラックフライデー(11月)、11.11(独身の日)、クリスマス、Summer Sale(6月/7月)、Back to School(8月/9月)。",
@@ -31290,19 +31032,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010は月のプロモーションクーポンと併用できますか？はい！CECILIA010は「Reward Code」欄、クーポンは「Coupon Code」欄に入力します。こうして、チェックアウトで確認できた対象のプロモーションクーポンに、最大5%(初回購入5%、2回目以降の購入2%)を上乗せできます。",
           "CECILIA010に有効期限はありますか？YesStyleのインフルエンサープログラムが続き、コードが定期的に確認されているかぎり使えます。",
           "YesStyleで買い物しても安全ですか？はい。2006年創業の正規の企業で、150を超える国と地域に対応し、商品は正規品、通信はSSLで暗号化されています。",
-          "輸入税はかかりますか？かかる場合があります。関税が請求されたときは、YesStyle公式のポリシーを確認してください。1,000米ドル未満の対象注文については、領収書の提出と期限内の申請により、関税などの返金がストアクレジットで受けられる可能性があると案内されています。",
+          "輸入税はかかりますか？かかる場合があります。YesStyleの[ポリシー](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)では、1,000米ドル未満の注文(クーポン割引前、送料を除く)は、輸入税などをストアクレジットで返金してもらえる場合があります。先に支払って領収書を保管し、領収書の支払日から30日以内に申請してください。",
           "支払い方法は何がおすすめですか？国際ブランドのクレジットカード(Visa、Mastercard、Amex)またはPayPalです。通貨の換算はカード会社が自動で行います。",
           "商品は正規品ですか？はい。YesStyleは各ブランドの公認ディストリビューターで、メーカーや公式ディストリビューターから直接仕入れています。",
           "返品はできますか？海外からの購入では返品の条件が限られます。不良品や誤配送は返品できます。K-beauty商品(スキンケア、メイクアップ)は、衛生上の理由から、未開封でないかぎり通常は返品できません。",
-          "Elite Clubとは何ですか？YesStyleのロイヤルティプログラムです。利用額が増えるほどポイントがたまります：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
+          "Elite Clubとは何ですか？YesStyleのロイヤルティプログラムです。Bronzeは1米ドル以上の注文、Silverは累計100米ドル、Goldは累計500米ドルで到達し、レベルが上がるほどYS Pointが増えて12% OFFクーポンももらえます。CECILIA010は、どのレベルでもReward Code欄に入力します。",
           "サイトは他の言語にも対応していますか？はい！サイト上部で言語を切り替えられます。",
           "YesStyleの注文を追跡するにはどうしますか？発送が確定すると、YesStyleから国際追跡番号がメールで届きます。ログインしたアカウントの注文履歴からも確認できます。追跡は17trackなどのサービスや、配送業者のサイトでできます。お届け予定はチェックアウトに表示され、税関で変わることがあります。",
-          "YesStyleの注文が税関で止まったらどうすればいいですか？注文が税関で止まると、輸入税の支払いを求められることがあります。YesStyleによると、1,000米ドル未満の対象注文は、支払いの領収書を添えて30日以内にカスタマーサポートへ申請すれば、関税などの返金をストアクレジットで受けられます。",
-          "YesStyleの服はアジアのサイズです。自分のサイズはどう選べばいいですか？はい、ほとんどの服はアジアのサイズ表記です。各商品ページにある(たいていセンチ表記の)サイズ表を必ず確認し、自分の体の寸法と比べてください。特にフィット感のあるアイテムは、普段より1〜2サイズ大きいものをおすすめします。",
-          "YesStyleで人気のK-beautyブランドは何ですか？YesStyleは、COSRX、Beauty of Joseon、Some By Mi、Etude House、Innisfree、Laneige、Pyunkang Yul、Haruharuなどの有名ブランドの公認ディストリビューターです。サイトはエッセンス、トナー、美容液、日焼け止めなどのカテゴリーで整理されていて、韓国式スキンケアのルーティンを探しやすくなっています。",
-          "YesStyleで確定した注文をキャンセルしたり変更したりできますか？まだ発送されていない注文(ステータスが「Processing」)は、アカウントの注文履歴から直接キャンセルできます。発送後はキャンセルできませんが、届いたときに受け取りを拒否できます。住所や商品の変更ができるのは発送前だけで、カスタマーサポートを通して行います。",
+          "YesStyleの注文が税関で止まったらどうすればいいですか？税関から税金の支払いを求められたら、支払って領収書を保管し、領収書の支払日から30日以内にYesStyleのカスタマーサポートへ返金を申請します。1,000米ドル未満の対象注文なら、ストアクレジットで返金されます。書類を求められたら提出してください。YesStyleの[関税ポリシー](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022)では、税金を支払わない、求められた書類を送らないなど、通関上の理由で受け取りが拒否された荷物は、返金も再発送もされません。",
+          "YesStyleで確定した注文をキャンセルしたり変更したりできますか？まだ発送されていない注文(ステータスが「Processing」)は、アカウントの注文履歴から直接キャンセルできます。住所や商品の変更ができるのは発送前だけで、カスタマーサポートを通して行います。発送後は、受け取りを拒否する前にカスタマーサポートへ相談してください。YesStyleの[関税ポリシー](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022)では、税金を支払わない、求められた書類を送らないなど、通関上の理由で受け取りが拒否された荷物は、返金も再発送もされません。",
           "YesStyleの初回購入向けコード：CECILIA010はどう使いますか？CECILIA010はどの注文でも使えて、最大5%(初回購入5%、2回目以降の購入2%)が追加されます。チェックアウトで確認できた対象のプロモーションクーポンと併用できます。",
-          "YesStyleのインフルエンサーコード：CECILIA010とは何ですか？CECILIA010は、YesStyleに登録されたインフルエンサー向けのリワードコードです。チェックアウトで最大5%(初回購入5%、2回目以降の購入2%)の追加割引が受けられ、対象のプロモーションクーポンと併用できます。多くの場合は併用できない初回購入コードとは違います。"
+          "YesStyleのインフルエンサーコード：CECILIA010とは何ですか？CECILIA010は、YesStyleのパートナープログラムに登録されたCecíliaのリワードコードです。初回購入は5%、2回目以降は2%が追加され、Reward Code欄に入力します。対象のプロモーションクーポンとは、Coupon Code欄で併用できます。"
         ]
       }
     ],
@@ -31324,7 +31064,7 @@ export const reviewsData: unknown[] = [
     "description": "這份實用指南教你在 YesStyle 使用網紅代碼 CECILIA010：結帳頁要在哪裡輸入（Reward Code 欄位）、如何與現有優惠券疊加，另附韓系美妝購物小撇步。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "擺在淺色桌面上的 YesStyle 韓系美妝與韓式保養產品。",
@@ -31360,24 +31100,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "CECILIA010 是 YesStyle 的獎勵碼，可額外享高達 5% 優惠：首購 5%，之後的訂單 2%。它要填在 Reward Code 欄位，與優惠券欄位分開，並可與符合資格的優惠券疊加。重點在於兩個欄位各填各的，詳見章節「如何在 YesStyle 使用 CECILIA010 代碼：步驟教學」。"
+          "CECILIA010 是 YesStyle 的獎勵碼，首購額外 5%，之後的訂單額外 2%。它要填在 Reward Code 欄位，與優惠券欄位（Coupon Code）分開，並可與符合資格的優惠券同時使用。兩個欄位各填各的，付款前在訂單摘要中確認兩項折扣都已生效。"
         ]
       },
       {
         "heading": "CECILIA010 代碼如何運作",
         "paragraphs": [
-          "CECILIA010 與 CECILIA12 和 CECI 不同，後兩者是直接在購物車內折抵，而 CECILIA010 是 Reward Code，在結帳頁有專屬欄位。",
-          "它最大的好處是在結帳頁有獨立的專屬欄位，所以可以和符合資格的促銷優惠券同時使用，在訂單原有折扣之外再疊加高達 5% 的優惠。",
-          "如果你想直接在購物車內折抵，目前可用的優惠券請見[YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。",
-          "CECILIA010 不會取代 YesStyle 的每月優惠券：它會在符合資格的優惠券之上再疊加高達 5% 的優惠（首購 5%，之後 2%）。結帳時請兩個欄位都使用。"
+          "CECILIA010 是 Reward Code，填在 YesStyle 結帳頁的專屬欄位，與優惠券欄位（Coupon Code）分開。所以它可以和網站上符合資格的優惠券同時使用，首購額外 5%，之後的訂單額外 2%。",
+          "目前可用的優惠券請見[YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。"
         ],
         "bullets": [
           "代碼：CECILIA010",
           "優惠：額外高達 5%（首購 5% / 回購 2%）",
           "類型：網紅代碼 / 獎勵碼（Reward Code）",
           "使用位置：YesStyle 結帳頁的「獎勵碼」（Reward Code）欄位",
-          "運作方式：填在正確的欄位後，購物車可額外享高達 5% 優惠（首購 5% / 回購 2%）",
-          "可疊加：可以！同一筆訂單可同時使用 CECILIA010 和符合資格的促銷優惠券",
+          "可搭配：符合資格的促銷優惠券，各填各的欄位",
           "有效期限：在官方網紅計畫中持續有效（定期確認）"
         ],
         "links": [
@@ -31401,8 +31138,7 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA010 是 YesStyle 的網紅代碼嗎？",
         "paragraphs": [
           "是的。CECILIA010 是登記在 YesStyle 官方合作夥伴計畫中的網紅獎勵碼，專為 Em Casa com Cecília 部落格中購買韓系美妝和亞洲商品的讀者建立。",
-          "和每月更換、會過期的優惠券不同，網紅代碼在合作期間一直有效，可以用在新的訂單。如果每個帳號或每筆訂單有任何限制，YesStyle 的結帳頁會在你套用代碼時直接提示。",
-          "網紅代碼 CECILIA010 的好處是它在獨立的欄位運作，可以和結帳頁確認符合資格的促銷優惠券疊加。也就是說，你既能拿到網紅提供的額外高達 5%（首購 5% / 回購 2%），還能享有當月的優惠券折扣。兩全其美。"
+          "和每月更換、會過期的優惠券不同，網紅代碼在合作期間一直有效，可以用在新的訂單。如果每個帳號或每筆訂單有任何限制，YesStyle 的結帳頁會在你套用代碼時直接提示。"
         ]
       },
       {
@@ -31471,60 +31207,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle 的優惠券經常變動。最常見的類型有：新客優惠券、回購優惠券、季節性優惠券、分類優惠券、免運費優惠券和限時閃購活動。",
           "由於這些代碼變動頻繁，最穩妥的做法是在下單前查看 YesStyle 官方的促銷頁面。然後把有效優惠券套用在「Coupon Code」欄位，並讓 CECILIA010 留在「Reward Code」欄位。"
-        ],
-        "bullets": [
-          "Flash Sales：限時閃購，最低 5 折",
-          "Lucky Bundles：商品組合包，享特別折扣",
-          "Daily Free：消費滿一定金額即可獲贈免費商品",
-          "Elite Club：會員忠誠計畫，折扣逐級遞增",
-          "Friend Rewards：推薦朋友即可獲得點數",
-          "Student Program：學生專屬特別折扣"
         ]
       },
       {
         "heading": "YesStyle 是什麼？",
         "paragraphs": [
-          "YesStyle（也寫作 Yes Style）是全球規模最大、品項最齊全的電商平台之一，專注於韓國服飾、韓系美妝、日系美妝（J-beauty）及各類亞洲商品。公司成立於 2006 年，總部位於香港，已成為想安心購買正宗韓系美妝和亞洲時尚的消費者的全球首選之一。",
-          "YesStyle 服務 150 多個國家和地區的客戶，提供語言切換，並會換算價格，方便使用者瀏覽。商品庫極為龐大：數以千計的韓式保養品、知名品牌彩妝、潮流服飾、配件和保健補充品。"
+          "YesStyle 是 2006 年成立的香港網路商店，販售韓系美妝、日系美妝、服飾和亞洲生活用品，配送到 150 多個國家和地區。",
+          "下單前想了解的資訊請見[YesStyle 值得信賴嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)，熱門韓系保養品與品牌請見[K-Beauty 韓妝熱潮與購買方式](/zh-hant/reviews/yesstyle-kbeauty-guide-zh-hant)。"
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "YesStyle 首頁：韓系美妝促銷橫幅和精選商品。",
         "imageCaption": "YesStyle 匯集了各類促銷活動、韓系美妝商品，並提供翻譯後的站內導覽。",
-        "imageFit": "wide",
-        "bullets": [
-          "韓系美妝（K-Beauty）：玻璃肌精華、精華液、化妝水、防曬乳，以及亞洲知名保養流程所需的各類產品",
-          "韓國與亞洲服飾：受首爾與東京街頭潮流啟發的衣服、鞋子、包包和配件",
-          "日系美妝與保健：知名日本品牌（如 Hada Labo）和營養補充品"
-        ]
-      },
-      {
-        "heading": "在 YesStyle 買什麼：分類指南",
-        "paragraphs": [
-          "主要分類有："
-        ],
-        "bullets": [
-          "韓系美妝與韓式保養：COSRX（Snail Mucin Essence、Low pH Good Morning Gel Cleanser）、Beauty of Joseon（Dynasty Cream、Relief Sun）、Anua（Heartleaf 77% Soothing Toner）、Laneige（Water Sleeping Mask、Lip Sleeping Mask）、Isntree（Hyaluronic Acid Watery Sun Gel）、TIRTIR（Mask Fit Red Cushion）、medicube（Zero Pore Pads）、AXIS-Y（Dark Spot Correcting Glow Serum）、Dr.Melaxin、House of Hur。",
-          "韓系彩妝：ETUDE（眼影、腮紅）、CLIO（粉底、眼線）、Peripera（唇釉、睫毛膏）、Judydoll、fwee、nuse。",
-          "韓國服飾：簡約優雅的風格，中性色調，寬鬆剪裁，百搭單品。包括休閒服飾、洋裝、西裝外套、寬褲、鞋子和包包。",
-          "日系美妝（J-Beauty）：Hada Labo、DHC、Kose、Shiseido。重視預防、抗老和層層保濕。",
-          "中系美妝（C-Beauty）：快速崛起的中國品牌，價格親民，配方採用中國傳統成分。",
-          "補充品與健康（Health & Wellness）：膠原蛋白、維他命、蛋白質、護髮和護甲產品。",
-          "配件與生活用品：髮夾、髮箍、包包、印花襪子、手機殼、居家和裝飾用品。"
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "關稅與進口：可能被收取哪些費用",
         "paragraphs": [
-          "跨境訂單可能要接受海關檢查，並可能產生稅款、進口關稅、行政費用或其他與訂單放行相關的支出。因此，除了計算商品和運費，下單前也建議把可能的額外費用考慮進去。",
-          "YesStyle 表示，1,000 美元以下的訂單，如果你先付款、保留收據，並在 30 天內申請，可能可以退還關稅。退款一旦核准，會以 YesStyle 商店餘額（Store Credit）形式發放。",
-          "下單前請查看 YesStyle 官方的關稅退款說明頁面，因為進口規定和商店政策可能會變動。"
+          "跨境訂單可能要接受海關檢查，並可能產生稅款、進口關稅、行政費用或其他與訂單放行相關的支出。因此，除了計算商品和運費，下單前也建議把可能的額外費用考慮進去。運費、送達時間和規定會隨收件國家而不同。寄送台灣、香港與澳門的情況請見[YesStyle 寄送台灣、香港與澳門](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+          "依 YesStyle 的[關稅與稅費退款政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的訂單（優惠券折扣前的金額，不含運費）可申請退還進口稅，以及行政或報關代理費用。先付款並保留憑證，自付款憑證日期起 30 天內向客服申請。核准的退款會以 YesStyle 商店餘額（Store Credit）形式發放。",
+          "銷售稅，以及郵局或物流公司收取的費用（如倉儲費、未領取的包裹）不在退款範圍內。部分目的地也有不適用的稅項，名單請查看 YesStyle 頁面。"
         ],
         "bullets": [
-          "保留繳納任何關稅的付款憑證",
-          "在 30 天內透過 YesStyle 客服提出退款申請",
+          "保留繳納任何關稅或稅費的付款憑證",
+          "自付款憑證日期起 30 天內，透過 YesStyle 客服提出退款申請",
           "退款不是自動的：取決於審核結果和 YesStyle 目前的政策規定",
-          "訂單金額達 1,000 美元或以上，不適用該品牌說明的這項退款政策",
-          "退款以 YesStyle 商店點數發放，不一定退回到信用卡"
+          "訂單金額達 1,000 美元或以上（優惠券折扣前，不含運費），不適用這項退款政策",
+          "退款以 YesStyle 商店餘額發放，不會退回到信用卡"
         ]
       },
       {
@@ -31536,7 +31244,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales：限時閃購，最低 5 折。每天上網站看看，並把商品加入願望清單。",
           "逛逛 Lucky Bundles：降價的商品組合包（保養、彩妝，以及「Glass Skin Routine」之類的主題套組）。",
           "善用願望清單：降價時收到通知，整理以後想買的東西，並規劃好湊到免運費門檻。",
-          "用好 Elite Club：點數累積的會員計畫：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
+          "用好 Elite Club：Bronze 只要有一筆至少 1 美元的訂單，Silver 需累計消費 100 美元，Gold 需累計 500 美元。等級越高，每消費 1 美元獲得的 YS Point 越多（2、3、5 點），還能領到 12% OFF 優惠券（1 張、2 張、3 張）。Bronze、Silver 和 Gold 在達成後的第 12 個月底前有效。規則請見 [Elite Club 頁面](https://www.yesstyle.com/en/elite-club.html)。",
           "別錯過「Daily Free」商品：消費滿一定金額即可獲贈免費商品。",
           "多看評價（reviews）：真實照片、對質地、氣味和效果的評論，以及有效期限資訊。",
           "留意促銷季：黑色星期五（11 月）、11.11（單身節）、聖誕節、Summer Sale（6/7 月）、Back to School（8/9 月）。",
@@ -31553,19 +31261,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010 可以和當月的促銷優惠券疊加嗎？可以！它填在「Reward Code」欄位，優惠券填在「Coupon Code」欄位。這樣就能在結帳頁確認符合資格的促銷優惠券之上，再額外享高達 5% 優惠（首購 5%，回購 2%）。",
           "CECILIA010 有有效期限嗎？只要 YesStyle 的網紅計畫仍在進行，並且代碼經過定期確認，它就有效。",
           "在 YesStyle 購物安全嗎？安全。這是一家 2006 年起營運的正規公司，服務 150 多個國家和地區，商品為正品，並採用 SSL 加密。",
-          "我要繳納進口關稅嗎？有可能。如果被收取關稅，請查看 YesStyle 的官方政策：品牌表示，1,000 美元以下的符合資格訂單，憑付款憑證並在期限內申請，可退還稅款和關稅，以商店餘額形式發放。",
+          "我要繳納進口關稅嗎？有可能。依 YesStyle 的[政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的訂單（優惠券折扣前，不含運費）可憑憑證申請退還進口稅等，以商店餘額形式發放。請先付款並保留憑證，自付款憑證日期起 30 天內申請。",
           "最好用什麼方式付款？國際信用卡（Visa、Mastercard、Amex）或 PayPal。匯率由發卡機構自動換算。",
           "商品是正品嗎？是的。YesStyle 是各品牌的授權經銷商，直接向製造商或官方經銷商採購。",
           "可以退貨嗎？跨境訂單的退貨政策有限。有瑕疵或寄錯貨的商品可以退。韓系美妝商品（保養、彩妝）基於衛生考量通常不能退，除非未拆封。",
-          "Elite Club 是什麼？YesStyle 的會員忠誠計畫。消費越多，點數越多：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
+          "Elite Club 是什麼？YesStyle 的會員計畫。Bronze 需有一筆至少 1 美元的訂單，Silver 需累計消費 100 美元，Gold 需累計 500 美元；等級越高，YS Point 越多，還能領到 12% OFF 優惠券。無論哪個等級，CECILIA010 都填在 Reward Code 欄位。",
           "網站有其他語言版本嗎？有！在網站頂端可以切換語言。",
           "如何追蹤我的 YesStyle 訂單？確認出貨後，YesStyle 會寄出附有國際追蹤碼的電子郵件。你也可以登入帳號查看訂單紀錄。追蹤可透過 17track 之類的服務，或在物流公司自己的網站上進行。預計時間會顯示在結帳頁，通過海關時可能有變動。",
-          "如果我的 YesStyle 訂單被海關扣留怎麼辦？如果訂單被海關扣留，你可能會收到繳納進口稅的通知。YesStyle 表示，1,000 美元以下的符合資格訂單，可憑付款憑證，並在 30 天內向客服申請，以商店餘額形式退還稅款和關稅。",
-          "YesStyle 的衣服用亞洲尺寸，我該怎麼選？是的，大多數衣服採用亞洲尺寸。請務必查看每件商品頁面上的尺寸表（通常以公分為單位），並與自己的身體尺寸對照。建議比平常多選一到兩個尺寸，尤其是偏合身的款式。",
-          "YesStyle 上最暢銷的韓系美妝品牌有哪些？YesStyle 是 COSRX、Beauty of Joseon、Some By Mi、Etude House、Innisfree、Laneige、Pyunkang Yul 和 Haruharu 等知名品牌的授權經銷商。網站依精華液、化妝水、精華和防曬乳等分類整理商品，方便尋找韓式保養流程所需的產品。",
-          "訂單確認後還能在 YesStyle 取消或修改嗎？尚未出貨（狀態為「Processing」）的訂單，可以直接在帳號的訂單紀錄中取消。出貨後無法取消，但包裹送達時你可以拒收。地址或商品的修改只能在出貨前透過客服辦理。",
+          "如果我的 YesStyle 訂單被海關扣留怎麼辦？如果海關要求繳稅，請先繳納並保留憑證，自付款憑證日期起 30 天內向 YesStyle 客服申請退款；1,000 美元以下的符合資格訂單會以商店餘額退還。如果海關要求補交文件，請照辦。依 YesStyle 的[海關政策](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022)，因海關原因（如不繳稅或不提交所需文件）被拒收的包裹，不予退款，也不會重新寄送。",
+          "訂單確認後還能在 YesStyle 取消或修改嗎？尚未出貨（狀態為「Processing」）的訂單，可以直接在帳號的訂單紀錄中取消。地址或商品的修改只能在出貨前透過客服辦理。出貨後，請先聯絡客服，再考慮是否拒收。依 YesStyle 的[海關政策](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022)，因海關原因（如不繳稅或不提交所需文件）被拒收的包裹，不予退款，也不會重新寄送。",
           "YesStyle 首購代碼：如何使用 CECILIA010？CECILIA010 適用於任何訂單，可額外享高達 5% 優惠（首購 5%，回購 2%），並可與結帳頁確認符合資格的促銷優惠券疊加。",
-          "YesStyle 網紅代碼：CECILIA010 是什麼？CECILIA010 是登記在 YesStyle 的網紅獎勵碼。它在結帳時提供額外高達 5% 的優惠（首購 5%，回購 2%），並可與符合資格的促銷優惠券疊加，不同於通常不能疊加的首購代碼。"
+          "YesStyle 網紅代碼：CECILIA010 是什麼？CECILIA010 是登記在 YesStyle 合作夥伴計畫中的 Cecília（西西莉亞）的獎勵碼。首購額外 5%，之後的訂單額外 2%，填在 Reward Code 欄位；符合資格的促銷優惠券則填在 Coupon Code 欄位，可同時使用。"
         ]
       }
     ],
@@ -31587,7 +31293,7 @@ export const reviewsData: unknown[] = [
     "description": "通过这份实用指南，学会在 YesStyle 使用达人代码 CECILIA010：在结账页哪里输入（Reward Code 栏位）、如何与现有优惠券叠加，另有韩系美妆购物建议。",
     "publishedAt": "11 Jul 2026",
     "publishedAtISO": "2026-07-11",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
     "imageAlt": "摆在浅色桌面上的 YesStyle 韩系美妆与韩式护肤产品。",
@@ -31623,24 +31329,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "CECILIA010 是 YesStyle 的奖励码，可额外享高达 5% 优惠：首单 5%，之后的订单 2%。它要填在 Reward Code 栏位，与优惠券栏位分开，并可与符合条件的优惠券叠加。关键在于两个栏位各填各的，详见章节“如何在 YesStyle 使用 CECILIA010 代码：分步教程”。"
+          "CECILIA010 是 YesStyle 的奖励码，首单额外 5%，之后的订单额外 2%。它要填在 Reward Code 栏位，与优惠券栏位（Coupon Code）分开，并可与符合条件的优惠券同时使用。两个栏位各填各的，付款前在订单摘要里确认两项折扣都已生效。"
         ]
       },
       {
         "heading": "CECILIA010 代码如何运作",
         "paragraphs": [
-          "CECILIA010 与 CECILIA12 和 CECI 不同，后两者是直接在购物车里折抵，而 CECILIA010 是 Reward Code，在结账页有专属栏位。",
-          "它最大的好处是在结账页有独立的专属栏位，所以可以和符合条件的促销优惠券同时使用，在订单原有折扣之外再叠加高达 5% 的优惠。",
-          "如果你想要直接在购物车里折抵，当前可用的优惠券见[YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)。",
-          "CECILIA010 不会取代 YesStyle 的每月优惠券：它会在符合条件的优惠券之上再叠加高达 5% 的优惠（首单 5%，之后 2%）。结账时请两个栏位都使用。"
+          "CECILIA010 是 Reward Code，填在 YesStyle 结账页的专属栏位，与优惠券栏位（Coupon Code）分开。所以它可以和网站上符合条件的优惠券同时使用，首单额外 5%，之后的订单额外 2%。",
+          "当前可用的优惠券见[YesStyle 优惠券与奖励码](/zh-hans/coupons/yesstyle)。"
         ],
         "bullets": [
           "代码：CECILIA010",
           "优惠：额外高达 5%（首单 5% / 回购 2%）",
           "类型：达人代码 / 奖励码（Reward Code）",
           "使用位置：YesStyle 结账页的“奖励码”（Reward Code）栏位",
-          "运作方式：填在正确的栏位后，购物车可额外享高达 5% 优惠（首单 5% / 回购 2%）",
-          "可叠加：可以！同一订单可同时使用 CECILIA010 和符合条件的促销优惠券",
+          "可搭配：符合条件的促销优惠券，各填各的栏位",
           "有效期：在官方达人计划中保持有效（定期核实）"
         ],
         "links": [
@@ -31664,8 +31367,7 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA010 是 YesStyle 的达人代码吗？",
         "paragraphs": [
           "是的。CECILIA010 是登记在 YesStyle 官方合作伙伴计划里的达人奖励码，专为 Em Casa com Cecília 博客中购买韩系美妆和亚洲商品的读者创建。",
-          "和每月更换、会过期的优惠券不同，达人代码在合作期间一直有效，可以用于新的订单。如果每个账户或每笔订单有任何限制，YesStyle 的结账页会在你应用代码时直接提示。",
-          "达人代码 CECILIA010 的好处是它在独立的栏位运作，可以和结账页确认符合条件的促销优惠券叠加。也就是说，你既能拿到达人提供的额外高达 5%（首单 5% / 回购 2%），还能享受当月的优惠券折扣。两全其美。"
+          "和每月更换、会过期的优惠券不同，达人代码在合作期间一直有效，可以用于新的订单。如果每个账户或每笔订单有任何限制，YesStyle 的结账页会在你应用代码时直接提示。"
         ]
       },
       {
@@ -31734,60 +31436,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle 的优惠券经常变动。最常见的类型有：新客优惠券、回购优惠券、季节性优惠券、分类优惠券、免运费优惠券和限时闪购活动。",
           "由于这些代码变动频繁，最稳妥的做法是在下单前查看 YesStyle 官方的促销页面。然后把有效优惠券应用在“Coupon Code”栏位，并让 CECILIA010 留在“Reward Code”栏位。"
-        ],
-        "bullets": [
-          "Flash Sales：限时闪购，最低 5 折",
-          "Lucky Bundles：商品组合包，享特别折扣",
-          "Daily Free：消费满一定金额即可获赠免费商品",
-          "Elite Club：会员忠诚计划，折扣逐级递增",
-          "Friend Rewards：推荐朋友即可获得积分",
-          "Student Program：学生专属特别折扣"
         ]
       },
       {
         "heading": "YesStyle 是什么？",
         "paragraphs": [
-          "YesStyle（也写作 Yes Style）是全球规模最大、品类最齐全的电商平台之一，专注于韩国时装、韩系美妆、日系美妆（J-beauty）及各类亚洲商品。公司创立于 2006 年，总部位于香港，已成为想放心购买正宗韩系美妆和亚洲时装的消费者的全球首选之一。",
-          "YesStyle 服务 150 多个国家和地区的客户，提供语言切换，并会换算价格，方便用户浏览。商品库极为庞大：数以千计的韩式护肤品、知名品牌彩妆、潮流时装、配饰和保健补充剂。"
+          "YesStyle 是 2006 年成立的香港网络商店，售卖韩系美妆、日系美妆、时装和亚洲生活用品，配送到 150 多个国家和地区。",
+          "下单前想了解的信息见[YesStyle 值得信赖吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)，热门韩系护肤品与品牌见[K-Beauty 全球热潮与购买方式](/zh-hans/reviews/yesstyle-kbeauty-guide-zh-hans)。"
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "YesStyle 首页：韩系美妆促销横幅和精选商品。",
         "imageCaption": "YesStyle 汇集了各类促销活动、韩系美妆商品，并提供翻译后的站内导航。",
-        "imageFit": "wide",
-        "bullets": [
-          "韩系美妆（K-Beauty）：玻璃肌精华、精华液、爽肤水、防晒霜，以及亚洲知名护肤流程所需的各类产品",
-          "韩国与亚洲时装：受首尔和东京街头潮流启发的衣服、鞋子、包包和配饰",
-          "日系美妆与保健：知名日本品牌（如 Hada Labo）和营养补充剂"
-        ]
-      },
-      {
-        "heading": "在 YesStyle 买什么：分类指南",
-        "paragraphs": [
-          "主要分类有："
-        ],
-        "bullets": [
-          "韩系美妆与韩式护肤：COSRX（Snail Mucin Essence、Low pH Good Morning Gel Cleanser）、Beauty of Joseon（Dynasty Cream、Relief Sun）、Anua（Heartleaf 77% Soothing Toner）、Laneige（Water Sleeping Mask、Lip Sleeping Mask）、Isntree（Hyaluronic Acid Watery Sun Gel）、TIRTIR（Mask Fit Red Cushion）、medicube（Zero Pore Pads）、AXIS-Y（Dark Spot Correcting Glow Serum）、Dr.Melaxin、House of Hur。",
-          "韩系彩妆：ETUDE（眼影、腮红）、CLIO（粉底、眼线）、Peripera（唇釉、睫毛膏）、Judydoll、fwee、nuse。",
-          "韩国时装：简约优雅的风格，中性色调，宽松剪裁，百搭单品。包括休闲服饰、连衣裙、西装外套、阔腿裤、鞋子和包包。",
-          "日系美妆（J-Beauty）：Hada Labo、DHC、Kose、Shiseido。重视预防、抗老和层层保湿。",
-          "中系美妆（C-Beauty）：快速崛起的中国品牌，价格亲民，配方采用中国传统成分。",
-          "补充剂与健康（Health & Wellness）：胶原蛋白、维生素、蛋白质、护发和护甲产品。",
-          "配饰与生活用品：发夹、发箍、包包、印花袜子、手机壳、家居和装饰用品。"
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "关税与进口：可能被收取哪些费用",
         "paragraphs": [
-          "跨境订单可能要接受海关检查，并可能产生税款、进口关税、行政费用或其他与订单放行相关的支出。因此，除了计算商品和运费，下单前也建议把可能的额外费用考虑进去。",
-          "YesStyle 表示，1,000 美元以下的订单，如果你先付款、保留收据，并在 30 天内申请，可能可以退还关税。退款一旦获批，会以 YesStyle 商店余额（Store Credit）形式发放。",
-          "下单前请查看 YesStyle 官方的关税退款说明页面，因为进口规则和商店政策可能会变动。"
+          "跨境订单可能要接受海关检查，并可能产生税款、进口关税、行政费用或其他与订单放行相关的支出。因此，除了计算商品和运费，下单前也建议把可能的额外费用考虑进去。运费、送达时间和规则会随收货国家而不同。寄往新加坡与马来西亚的情况见[YesStyle 寄往新加坡与马来西亚](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+          "按 YesStyle 的[关税与税费退款政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的订单（优惠券折扣前的金额，不含运费）可申请退还进口税，以及行政或清关代理费用。先付款并保留凭证，自付款凭证日期起 30 天内向客服申请。获批的退款以 YesStyle 商店余额（Store Credit）形式发放。",
+          "销售税，以及邮局或物流公司收取的费用（如仓储费、未领取的包裹）不在退款范围内。寄往新加坡时，GST 也不在退款范围内；其他不适用的目的地，请查看 YesStyle 页面上的名单。"
         ],
         "bullets": [
-          "保留缴纳任何关税的付款凭证",
-          "在 30 天内通过 YesStyle 客服提交退款申请",
+          "保留缴纳任何关税或税费的付款凭证",
+          "自付款凭证日期起 30 天内，通过 YesStyle 客服提交退款申请",
           "退款不是自动的：取决于审核结果和 YesStyle 当前的政策规则",
-          "订单金额达 1,000 美元或以上，不适用该品牌说明的这项退款政策",
-          "退款以 YesStyle 商店积分发放，不一定退回到银行卡"
+          "订单金额达 1,000 美元或以上（优惠券折扣前，不含运费），不适用这项退款政策",
+          "退款以 YesStyle 商店余额发放，不会退回到银行卡"
         ]
       },
       {
@@ -31799,7 +31473,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales：限时闪购，最低 5 折。每天上网站看看，并把商品加入心愿单。",
           "逛逛 Lucky Bundles：降价的商品组合包（护肤、彩妆，以及“Glass Skin Routine”之类的主题套装）。",
           "善用心愿单：降价时收到通知，整理以后想买的东西，并规划好凑到免运费门槛。",
-          "用好 Elite Club：积分累积的会员计划：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
+          "用好 Elite Club：Bronze 只要有一笔至少 1 美元的订单，Silver 需累计消费 100 美元，Gold 需累计 500 美元。等级越高，每消费 1 美元获得的 YS Point 越多（2、3、5 点），还能领到 12% OFF 优惠券（1 张、2 张、3 张）。Bronze、Silver 和 Gold 在达成后的第 12 个月底前有效。规则见 [Elite Club 页面](https://www.yesstyle.com/en/elite-club.html)。",
           "别错过“Daily Free”商品：消费满一定金额即可获赠免费商品。",
           "多看评价（reviews）：真实照片、对质地、气味和效果的评论，以及有效期信息。",
           "留意促销季：黑色星期五（11 月）、11.11（光棍节）、圣诞节、Summer Sale（6/7 月）、Back to School（8/9 月）。",
@@ -31816,19 +31490,17 @@ export const reviewsData: unknown[] = [
           "CECILIA010 可以和当月的促销优惠券叠加吗？可以！它填在“Reward Code”栏位，优惠券填在“Coupon Code”栏位。这样就能在结账页确认符合条件的促销优惠券之上，再额外享高达 5% 优惠（首单 5%，回购 2%）。",
           "CECILIA010 有有效期吗？只要 YesStyle 的达人计划仍在进行，并且代码经过定期核实，它就有效。",
           "在 YesStyle 购物安全吗？安全。这是一家 2006 年起运营的正规公司，服务 150 多个国家和地区，商品为正品，并采用 SSL 加密。",
-          "我要缴纳进口关税吗？有可能。如果被收取关税，请查看 YesStyle 的官方政策：品牌表示，1,000 美元以下的符合条件订单，凭付款凭证并在期限内申请，可退还税款和关税，以商店积分形式发放。",
+          "我要缴纳进口关税吗？有可能。按 YesStyle 的[政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的订单（优惠券折扣前，不含运费）可凭凭证申请退还进口税等，以商店余额形式发放。请先付款并保留凭证，自付款凭证日期起 30 天内申请。",
           "最好用什么方式付款？国际信用卡（Visa、Mastercard、Amex）或 PayPal。汇率由发卡机构自动换算。",
           "商品是正品吗？是的。YesStyle 是各品牌的授权经销商，直接向制造商或官方经销商采购。",
           "可以退货吗？跨境订单的退货政策有限。有瑕疵或发错货的商品可以退。韩系美妆商品（护肤、彩妆）出于卫生原因通常不能退，除非未拆封。",
-          "Elite Club 是什么？YesStyle 的会员忠诚计划。消费越多，积分越多：Bronze 5%、Silver 7%、Gold 10%、Platinum 12%、Diamond 15%。",
+          "Elite Club 是什么？YesStyle 的会员计划。Bronze 需有一笔至少 1 美元的订单，Silver 需累计消费 100 美元，Gold 需累计 500 美元；等级越高，YS Point 越多，还能领到 12% OFF 优惠券。无论哪个等级，CECILIA010 都填在 Reward Code 栏位。",
           "网站有其他语言版本吗？有！在网站顶部可以切换语言。",
           "如何追踪我的 YesStyle 订单？确认发货后，YesStyle 会发送带有国际追踪码的电子邮件。你也可以登录账户查看订单记录。追踪可通过 17track 之类的服务，或在物流公司自己的网站上进行。预计时间会在结账页显示，在海关可能有变化。",
-          "如果我的 YesStyle 订单被海关扣留怎么办？如果订单被海关扣留，你可能会收到缴纳进口税的通知。YesStyle 表示，1,000 美元以下的符合条件订单，可凭付款凭证，并在 30 天内向客服申请，以商店积分形式退还税款和关税。",
-          "YesStyle 的衣服用亚洲尺码，我该怎么选？是的，大多数衣服采用亚洲尺码。请务必查看每件商品页面上的尺寸表（通常以厘米为单位），并与自己的身体尺寸对照。建议比平时多选一到两个码，尤其是偏修身的款式。",
-          "YesStyle 上最畅销的韩系美妆品牌有哪些？YesStyle 是 COSRX、Beauty of Joseon、Some By Mi、Etude House、Innisfree、Laneige、Pyunkang Yul 和 Haruharu 等知名品牌的授权经销商。网站按精华液、爽肤水、精华和防晒霜等分类整理商品，方便寻找韩式护肤流程所需的产品。",
-          "订单确认后还能在 YesStyle 取消或修改吗？尚未发货（状态为“Processing”）的订单，可以直接在账户的订单记录里取消。发货后无法取消，但包裹送达时你可以拒收。地址或商品的修改只能在发货前通过客服办理。",
+          "如果我的 YesStyle 订单被海关扣留怎么办？如果海关要求缴税，请先缴纳并保留凭证，自付款凭证日期起 30 天内向 YesStyle 客服申请退款；1,000 美元以下的符合条件订单会以商店余额退还。如果海关要求补交文件，请照办。按 YesStyle 的[海关政策](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022)，因海关原因（如不缴税或不提交所需文件）被拒收的包裹，不予退款，也不会重新寄送。",
+          "订单确认后还能在 YesStyle 取消或修改吗？尚未发货（状态为“Processing”）的订单，可以直接在账户的订单记录里取消。地址或商品的修改只能在发货前通过客服办理。发货后，请先联系客服，再考虑是否拒收。按 YesStyle 的[海关政策](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022)，因海关原因（如不缴税或不提交所需文件）被拒收的包裹，不予退款，也不会重新寄送。",
           "YesStyle 首单代码：如何使用 CECILIA010？CECILIA010 适用于任何订单，可额外享高达 5% 优惠（首单 5%，回购 2%），并可与结账页确认符合条件的促销优惠券叠加。",
-          "YesStyle 达人代码：CECILIA010 是什么？CECILIA010 是登记在 YesStyle 的达人奖励码。它在结账时提供额外高达 5% 的优惠（首单 5%，回购 2%），并可与符合条件的促销优惠券叠加，不同于通常不能叠加的首单代码。"
+          "YesStyle 达人代码：CECILIA010 是什么？CECILIA010 是登记在 YesStyle 合作伙伴计划中的 Cecília（西西莉亚）的奖励码。首单额外 5%，之后的订单额外 2%，填在 Reward Code 栏位；符合条件的促销优惠券则填在 Coupon Code 栏位，可同时使用。"
         ]
       }
     ],
@@ -49306,7 +48978,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Come usare CECILIA010 su YesStyle: campo Reward Code, fino al 5% extra (5% sul primo ordine e 2% sui successivi), abbinabile ai coupon promozionali idonei secondo il checkout.",
     "publishedAt": "28 settembre 2026",
     "publishedAtISO": "2026-09-28",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "hideFromPortugueseListings": true,
     "image": "/images/reviews/cupons/yesstyle-kbeauty-hero.webp",
@@ -49330,24 +49002,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "CECILIA010 è un codice ricompensa di YesStyle che aggiunge fino al 5% extra: 5% sul primo ordine e 2% sui successivi. Va nel campo Reward Code, separato dal campo del coupon, e si somma ai coupon idonei. Quello che conta è usare ogni campo nel modo giusto; vedi il capitolo Come usare il codice CECILIA010 su YesStyle: passo dopo passo."
+          "CECILIA010 è il codice ricompensa di Cecília su YesStyle: 5% extra sul primo ordine e 2% sui successivi. Va nel campo Reward Code, separato dal campo Coupon Code, e si abbina ai coupon promozionali idonei. Inserisci ogni codice nel suo campo e, prima di pagare, controlla nel riepilogo dell'ordine che entrambi gli sconti compaiano."
         ]
       },
       {
         "heading": "Come funziona il codice CECILIA010",
         "paragraphs": [
-          "A differenza di CECILIA12 e CECI, che scontano direttamente nel carrello, CECILIA010 è un Reward Code, con un campo tutto suo al checkout.",
-          "Il bello è che ha un campo esclusivo e separato al checkout. Significa che si può abbinare ai coupon promozionali idonei: puoi usarlo insieme ai coupon promozionali idonei del sito, aggiungendo fino al 5% extra agli sconti dell'ordine.",
-          "Se vuoi lo sconto diretto nel carrello, trovi i coupon del momento in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
-          "CECILIA010 non annulla i coupon mensili di YesStyle: aggiunge fino al 5% extra (5% sul 1º ordine, 2% sui successivi) ai coupon idonei. Usa sempre entrambi i campi al checkout."
+          "CECILIA010 è un Reward Code: ha un campo tutto suo al checkout di YesStyle, separato dal campo dei coupon (Coupon Code). Per questo si abbina ai coupon promozionali idonei del sito, con 5% extra sul primo ordine e 2% sui successivi.",
+          "I coupon del momento si trovano in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle)."
         ],
         "bullets": [
           "Codice: CECILIA010",
           "Sconto: fino al 5% extra (5% sul 1º ordine / 2% sui successivi)",
           "Tipo: codice influencer / codice ricompensa (Reward Code)",
           "Dove usarlo: campo “Codice ricompensa” (Reward Code) al checkout di YesStyle",
-          "Come funziona: garantisce fino al 5% extra (5% sul 1º ordine / 2% sui successivi) nel carrello se applicato nel campo giusto",
-          "Cumulabile: SÌ! Puoi usare CECILIA010 + i coupon promozionali idonei nello stesso ordine",
+          "Si abbina a: coupon promozionali idonei, ciascuno nel suo campo",
           "Validità: codice attivo nel programma ufficiale per influencer (verificato regolarmente)"
         ],
         "links": [
@@ -49371,8 +49040,7 @@ export const reviewsData: unknown[] = [
         "heading": "CECILIA010 è un codice influencer di YesStyle?",
         "paragraphs": [
           "Sì. CECILIA010 è un codice ricompensa per influencer registrato nel programma ufficiale di partner di YesStyle. Questo significa che è stato creato apposta per le lettrici del blog Em Casa com Cecília che comprano K-beauty e prodotti asiatici.",
-          "A differenza dei coupon mensili (che cambiano e scadono), il codice influencer resta attivo finché dura la partnership e si può usare in nuovi acquisti. Se c'è qualche limite per account o per ordine, è lo stesso checkout di YesStyle ad avvisarti quando applichi il codice.",
-          "Il vantaggio del codice influencer CECILIA010 è che funziona in un campo separato e si può abbinare ai coupon promozionali idonei confermati al checkout. Quindi ottieni fino al 5% extra dall'influencer (5% sul 1º ordine / 2% sui successivi) E sfrutti anche il coupon sconto del mese. Il meglio di entrambi i mondi."
+          "A differenza dei coupon mensili (che cambiano e scadono), il codice influencer resta attivo finché dura la partnership e si può usare in nuovi acquisti. Se c'è qualche limite per account o per ordine, è lo stesso checkout di YesStyle ad avvisarti quando applichi il codice."
         ]
       },
       {
@@ -49441,60 +49109,32 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "YesStyle offre coupon che cambiano spesso. I tipi più comuni sono: coupon di benvenuto, coupon di bentornato, coupon stagionale, coupon di categoria, coupon per la spedizione gratuita e campagne lampo.",
           "Dato che questi codici cambiano di frequente, la cosa più sicura è controllare la pagina delle promozioni di YesStyle prima di concludere l'acquisto. Poi applica il coupon attivo nel campo “Coupon Code” e lascia CECILIA010 nel campo “Reward Code”."
-        ],
-        "bullets": [
-          "Flash Sales: promozioni lampo fino al 50% di sconto per un periodo limitato",
-          "Lucky Bundles: pacchetti di prodotti a prezzo speciale",
-          "Daily Free: prodotti gratuiti per acquisti sopra un certo importo",
-          "Elite Club: programma fedeltà con sconti progressivi",
-          "Friend Rewards: invita gli amici e ottieni punti",
-          "Student Program: sconti speciali per gli studenti"
         ]
       },
       {
         "heading": "Che cos'è YesStyle?",
         "paragraphs": [
-          "YesStyle (scritto anche Yes Style) è una delle piattaforme di e-commerce più grandi e complete al mondo dedicate alla moda coreana, alla K-beauty, alla J-beauty (bellezza giapponese) e ai prodotti asiatici in generale. Fondata nel 2006 e con sede a Hong Kong, l'azienda è diventata un punto di riferimento globale per chi cerca di entrare nell'universo della bellezza coreana e della moda orientale con fiducia e autenticità.",
-          "YesStyle serve clienti in oltre 150 paesi e regioni, con un selettore della lingua e la conversione dei prezzi per facilitare la navigazione. Il catalogo è enorme: migliaia di prodotti di skincare coreana, make-up di marchi affermati, moda concettuale, accessori e integratori per il benessere."
+          "YesStyle è un negozio online di Hong Kong, fondato nel 2006, che vende K-beauty, J-beauty, moda e accessori asiatici in oltre 150 paesi e regioni, con un selettore della lingua sul sito.",
+          "Cosa controllare prima del primo acquisto lo trovi in [YesStyle è affidabile e sicuro?](/it/reviews/yesstyle-e-affidabile-e-sicuro), mentre i marchi e i prodotti coreani più cercati sono in [K-beauty: la tendenza della bellezza coreana](/it/reviews/k-beauty-tendenza-bellezza-coreana)."
         ],
         "image": "/images/reviews/cupons/yesstyle-home-promocoes.webp",
         "imageAlt": "Home page di YesStyle con banner promozionale di K-beauty e prodotti in evidenza.",
         "imageCaption": "YesStyle riunisce campagne promozionali, prodotti di K-beauty e navigazione tradotta.",
-        "imageFit": "wide",
-        "bullets": [
-          "K-Beauty (bellezza coreana): sieri glass skin, essenze, tonici, protezioni solari e prodotti per la celebre routine di cura asiatica",
-          "Moda coreana e asiatica: abiti, scarpe, borse e accessori ispirati alle tendenze urbane di Seul e Tokyo",
-          "J-Beauty e benessere: marchi giapponesi rinomati (come Hada Labo) e integratori alimentari"
-        ]
-      },
-      {
-        "heading": "Cosa comprare su YesStyle: guida per categoria",
-        "paragraphs": [
-          "Le categorie principali sono:"
-        ],
-        "bullets": [
-          "K-Beauty e skincare coreana: COSRX (Snail Mucin Essence, Low pH Good Morning Gel Cleanser), Beauty of Joseon (Dynasty Cream, Relief Sun), Anua (Heartleaf 77% Soothing Toner), Laneige (Water Sleeping Mask, Lip Sleeping Mask), Isntree (Hyaluronic Acid Watery Sun Gel), TIRTIR (Mask Fit Red Cushion), medicube (Zero Pore Pads), AXIS-Y (Dark Spot Correcting Glow Serum), Dr.Melaxin, House of Hur.",
-          "Make-up coreano: ETUDE (ombretti, blush), CLIO (fondotinta, eyeliner), Peripera (tint, mascara), Judydoll, fwee, nuse.",
-          "Moda coreana: stile minimalista ed elegante, colori neutri, tagli oversize, capi versatili. Abbigliamento casual, abiti, blazer, pantaloni wide-leg, scarpe, borse.",
-          "J-Beauty (bellezza giapponese): Hada Labo, DHC, Kose, Shiseido. L'accento è su prevenzione, anti-aging e idratazione a strati.",
-          "Chinese Beauty (C-Beauty): marchi cinesi in ascesa, prezzi accessibili, formule con ingredienti tradizionali cinesi.",
-          "Integratori e Health & Wellness: collagene, vitamine, proteine, prodotti per capelli e unghie.",
-          "Accessori e lifestyle: mollette, cerchietti, borse, calze stampate, cover, articoli per la casa e l'arredamento."
-        ]
+        "imageFit": "wide"
       },
       {
         "heading": "Tasse e importazione: cosa può essere addebitato",
         "paragraphs": [
-          "Gli acquisti internazionali possono essere sottoposti a controllo doganale e comportare imposte, tasse di importazione, spese amministrative o altri costi legati allo sblocco dell'ordine. Per questo, oltre a calcolare prodotto e spedizione, conviene mettere in conto un possibile costo extra prima di comprare.",
-          "YesStyle dichiara che gli ordini di importo inferiore a 1.000 US$ possono ottenere il rimborso delle tasse doganali, se paghi prima, conservi la ricevuta e fai richiesta entro 30 giorni. Il rimborso, se approvato, viene emesso come Credito del negozio YesStyle.",
-          "Prima di comprare, consulta la pagina di aiuto ufficiale di YesStyle sul rimborso di imposte e tasse doganali, perché le regole di importazione e le politiche del negozio possono cambiare."
+          "Gli acquisti internazionali possono essere sottoposti a controllo doganale e comportare tasse di importazione e spese amministrative o di sdoganamento. Per questo, oltre a prodotto e spedizione, conviene mettere in conto un possibile costo extra. Spedizione, tempi e regole cambiano in base al paese di consegna; per l'Italia trovi tutto nella guida [YesStyle: spedizione in Italia, tempi, costi e dogana](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "Secondo la [politica di rimborso delle tasse doganali di YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), per gli ordini inferiori a 1.000 US$ (importo prima dello sconto del coupon e senza spedizione) questi costi possono essere rimborsati. Paghi prima, conservi la ricevuta e fai richiesta all'assistenza entro 30 giorni, contati dalla data della ricevuta di pagamento. Il rimborso, se approvato, viene emesso come Credito del negozio YesStyle.",
+          "La politica non copre le spese del corriere o delle poste, come giacenza e pacco non ritirato. Per le consegne in Italia (UE) l'IVA resta esclusa; l'elenco delle destinazioni con esclusioni è nella pagina di YesStyle."
         ],
         "bullets": [
           "Conserva la ricevuta di pagamento di qualsiasi tassa doganale pagata",
-          "Invia la richiesta di rimborso tramite l'assistenza di YesStyle entro il termine di 30 giorni",
-          "Il rimborso non è automatico: dipende dalla valutazione e dalle regole della politica in vigore di YesStyle",
-          "Gli ordini da US$ 1.000 in su non rientrano in questa politica di rimborso indicata dal marchio",
-          "Il rimborso viene fatto come Credito del negozio YesStyle, non necessariamente come denaro restituito sulla carta"
+          "Invia la richiesta di rimborso all'assistenza di YesStyle entro 30 giorni, contati dalla data della ricevuta",
+          "Il rimborso non è automatico: dipende dalla valutazione di YesStyle",
+          "Gli ordini da 1.000 US$ in su (prima dello sconto del coupon e senza spedizione) non rientrano nella politica",
+          "Il rimborso viene fatto come Credito del negozio YesStyle, non come denaro restituito sulla carta"
         ]
       },
       {
@@ -49506,7 +49146,7 @@ export const reviewsData: unknown[] = [
           "Flash Sales: promozioni lampo fino al 50% di sconto per un periodo limitato. Entra nel sito ogni giorno e aggiungi i prodotti alla Wishlist.",
           "Esplora i Lucky Bundles: pacchetti di prodotti a prezzo ridotto (skincare, make-up, kit a tema come “Glass Skin Routine”).",
           "Usa bene la Wishlist: ricevi notifiche quando il prezzo scende, organizza gli acquisti futuri, pianifica per sfruttare la spedizione gratuita.",
-          "Approfitta dell'Elite Club: programma fedeltà a punti accumulati: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "Approfitta dell'Elite Club: il livello Bronze arriva con il primo ordine, il Silver con 100 US$ di acquisti accumulati e il Gold con 500 US$. Ogni livello dà più YS Points per dollaro (2, 3 e 5) e coupon da 12% OFF (uno, due e tre), e vale fino alla fine del 12º mese dopo averlo raggiunto. Le regole sono nella [pagina dell'Elite Club](https://www.yesstyle.com/en/elite-club.html).",
           "Non ignorare i prodotti “Daily Free”: prodotti gratuiti per acquisti sopra un certo importo.",
           "Leggi le recensioni (reviews): foto reali, commenti su consistenza, profumo e risultato, informazioni sulla scadenza.",
           "Tieni d'occhio le stagioni: Black Friday (novembre), 11.11 (Giornata dei single), Natale, Summer Sale (giugno/luglio), Back to School (agosto/settembre).",
@@ -49523,19 +49163,17 @@ export const reviewsData: unknown[] = [
           "Posso sommare CECILIA010 al coupon della promozione del mese? Sì! Va nel campo “Reward Code”, mentre i coupon vanno nel campo “Coupon Code”. Così aggiungi fino al 5% extra (5% sul primo ordine e 2% sugli acquisti successivi) ai coupon promozionali idonei confermati al checkout.",
           "CECILIA010 ha una scadenza? Funziona finché il programma per influencer di YesStyle è attivo e il codice viene verificato regolarmente.",
           "Comprare su YesStyle è sicuro? Sì. Azienda legittima dal 2006, serve più di 150 paesi e regioni, prodotti autentici, crittografia SSL.",
-          "Pagherò tasse di importazione? Può succedere. Se c'è un addebito doganale, controlla la politica ufficiale di YesStyle: il marchio indica la possibilità di rimborso di imposte e tasse doganali per gli ordini idonei di importo inferiore a 1.000 US$, con ricevuta e richiesta entro il termine, sotto forma di Credito del negozio.",
+          "Pagherò tasse di importazione? Può succedere. Secondo la [politica di YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), per gli ordini inferiori a 1.000 US$ (prima dello sconto del coupon e senza spedizione) imposte e tasse doganali possono essere rimborsate come Credito del negozio: paghi, conservi la ricevuta e fai richiesta entro 30 giorni, contati dalla data della ricevuta di pagamento.",
           "Qual è il modo migliore per pagare? Carta di credito internazionale (Visa, Mastercard, Amex) o PayPal. La conversione viene fatta automaticamente dall'operatore.",
           "I prodotti sono originali? Sì. YesStyle è distributore autorizzato dei marchi. Compra direttamente dai produttori o dai distributori ufficiali.",
           "Posso restituire i prodotti? La politica è limitata per gli acquisti internazionali. I prodotti difettosi o spediti per errore possono essere restituiti. I prodotti di K-beauty (skincare, make-up) in genere non possono essere restituiti per ragioni igieniche, a meno che non siano sigillati.",
-          "Che cos'è l'Elite Club? Il programma fedeltà di YesStyle. Più spendi, più punti accumuli: Bronze 5%, Silver 7%, Gold 10%, Platinum 12%, Diamond 15%.",
+          "Che cos'è l'Elite Club? Il programma fedeltà di YesStyle. Il livello Bronze arriva con il primo ordine, il Silver con 100 US$ di acquisti accumulati e il Gold con 500 US$; ogni livello dà più YS Points per dollaro e coupon da 12% OFF. CECILIA010 resta nel campo Reward Code a qualsiasi livello.",
           "Il sito ha altre lingue? Sì! In alto nel sito puoi cambiare la lingua.",
           "Come tracciare il mio ordine di YesStyle? Dopo la conferma di spedizione, YesStyle invia un'e-mail con il codice di tracciamento internazionale. Puoi anche consultare lo storico degli ordini accedendo al tuo account. Il tracciamento funziona tramite servizi come 17track o sul sito del corriere. Il tempo stimato compare al checkout e può variare in dogana.",
-          "Che fare se il mio ordine di YesStyle viene trattenuto in dogana? Se l'ordine viene trattenuto in dogana, potresti ricevere la notifica di pagare l'imposta di importazione. YesStyle indica che, per gli ordini idonei di importo inferiore a 1.000 US$, è possibile chiedere il rimborso di imposte e tasse doganali sotto forma di Credito del negozio, con la ricevuta di pagamento e la richiesta all'assistenza entro 30 giorni.",
-          "I vestiti di YesStyle usano taglie asiatiche. Come scelgo la mia? Sì, la maggior parte dei vestiti segue la numerazione asiatica. Consulta sempre la tabella delle misure nella pagina di ogni prodotto (di solito in centimetri) e confrontala con le tue misure. Consigliamo di ordinare una o due taglie in più del solito, soprattutto per i capi più aderenti.",
-          "Quali sono i marchi di K-beauty più venduti su YesStyle? YesStyle è distributore autorizzato di marchi affermati come COSRX, Beauty of Joseon, Some By Mi, Etude House, Innisfree, Laneige, Pyunkang Yul e Haruharu. Il sito organizza i prodotti in categorie come essenze, tonici, sieri e protezioni solari, facilitando la ricerca per la routine di skincare coreana.",
-          "Posso annullare o modificare un ordine su YesStyle dopo la conferma? YesStyle permette di annullare gli ordini non ancora spediti (stato 'Processing') direttamente dallo storico ordini del tuo account. Dopo la spedizione non è più possibile annullare, ma puoi rifiutare la consegna quando arriva. Le modifiche all'indirizzo o ai prodotti sono possibili solo prima della spedizione, tramite l'assistenza clienti.",
+          "Che fare se il mio ordine di YesStyle viene trattenuto in dogana? Se la dogana chiede il pagamento di imposte, paga, conserva la ricevuta e chiedi il rimborso all'assistenza di YesStyle entro 30 giorni, contati dalla data della ricevuta; per gli ordini idonei inferiori a 1.000 US$ avviene come Credito del negozio. Se la dogana chiede documenti, inviali: secondo la [politica doganale di YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), il pacco rifiutato per motivi doganali, ad esempio perché le imposte non sono state pagate o i documenti richiesti non sono stati inviati, non viene rimborsato né rispedito.",
+          "Posso annullare o modificare un ordine su YesStyle dopo la conferma? Gli ordini non ancora spediti (stato 'Processing') si annullano dallo storico ordini del tuo account; le modifiche all'indirizzo o ai prodotti sono possibili solo prima della spedizione, tramite l'assistenza clienti. Dopo la spedizione, contatta prima l'assistenza invece di pensare a rifiutare la consegna: secondo la [politica doganale di YesStyle](https://www.yesstyle.com/en/customs-tax/help/section.html/hsi.1022), il pacco rifiutato per motivi doganali, ad esempio perché le imposte non sono state pagate o i documenti richiesti non sono stati inviati, non viene rimborsato né rispedito.",
           "Codice YesStyle per il primo acquisto: come usare CECILIA010? Il codice CECILIA010 funziona su qualsiasi acquisto, garantendo fino al 5% extra (5% sul primo ordine e 2% sugli acquisti successivi), abbinabile ai coupon promozionali idonei confermati al checkout.",
-          "Codice influencer YesStyle: cos'è CECILIA010? CECILIA010 è un codice ricompensa per influencer registrato su YesStyle. Concede fino al 5% di sconto extra (5% sul primo ordine e 2% sugli acquisti successivi) al checkout e si può abbinare ai coupon promozionali idonei, a differenza dei codici per il primo acquisto, che di solito non sono cumulabili."
+          "Codice influencer YesStyle: cos'è CECILIA010? CECILIA010 è il codice ricompensa di Cecília, registrato nel programma partner di YesStyle. Dà 5% extra sul primo ordine e 2% sui successivi, nel campo Reward Code, e si abbina ai coupon promozionali idonei nel campo Coupon Code."
         ]
       }
     ],
