@@ -107802,6 +107802,52 @@
       "verification_status": "verified"
     },
     {
+      "source_path": "public/images/reviews/toda-up/fita-up-ou-trifil-up-capa.webp",
+      "local_url": "/images/reviews/toda-up/fita-up-ou-trifil-up-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 74382,
+      "sha256": "25356e9e5551ea889eb57168637db00bdc8fb4d95e2071eef3ae552fe26cb67c",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "fita-up-ou-trifil-up-capa.webp",
+      "storage_filename": "fita-up-ou-trifil-up-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/fita-up-ou-trifil-up.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/fita-up-ou-trifil-up.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/fita-up-ou-trifil-up-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 191537,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/fita-up-ou-trifil-up-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/25356e9e5551ea889eb57168637db00bdc8fb4d95e2071eef3ae552fe26cb67c/fita-up-ou-trifil-up-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/25356e9e5551ea889eb57168637db00bdc8fb4d95e2071eef3ae552fe26cb67c/fita-up-ou-trifil-up-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T16:04:33.816Z",
+      "verification_etag_or_digest": "25356e9e5551ea889eb57168637db00bdc8fb4d95e2071eef3ae552fe26cb67c",
+      "verification_status": "verified"
+    },
+    {
       "source_path": "public/images/reviews/toda-up/fita-up-passo-a-passo-2610.webp",
       "local_url": "/images/reviews/toda-up/fita-up-passo-a-passo-2610.webp",
       "media_kind": "image",
@@ -109739,6 +109785,144 @@
       "uploaded_at": null,
       "verified_at": "2026-10-26T22:20:28.695Z",
       "verification_etag_or_digest": "52311b218f9b425c094b312b08e36036800f44d734f4b53a7646582eae533118",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa.webp",
+      "local_url": "/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 112142,
+      "sha256": "c23219725c69dfbb8029aaaef0da29fc2562a1695d335a3c7e67069e2d24b018",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "toda-up-ou-hope-sutia-adesivo-capa.webp",
+      "storage_filename": "toda-up-ou-hope-sutia-adesivo-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/toda-up-ou-hope-sutia-adesivo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/toda-up-ou-hope-sutia-adesivo.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 190855,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/toda-up-ou-hope-sutia-adesivo-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/c23219725c69dfbb8029aaaef0da29fc2562a1695d335a3c7e67069e2d24b018/toda-up-ou-hope-sutia-adesivo-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/c23219725c69dfbb8029aaaef0da29fc2562a1695d335a3c7e67069e2d24b018/toda-up-ou-hope-sutia-adesivo-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T16:04:32.789Z",
+      "verification_etag_or_digest": "c23219725c69dfbb8029aaaef0da29fc2562a1695d335a3c7e67069e2d24b018",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp",
+      "local_url": "/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 85368,
+      "sha256": "90d54a427e97045e91e7202bbbcd4ad5bd6f442a9b6563fc649ca0f96f40ac81",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "toda-up-ou-lupo-sutia-adesivo-capa.webp",
+      "storage_filename": "toda-up-ou-lupo-sutia-adesivo-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/toda-up-ou-lupo-sutia-adesivo.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/toda-up-ou-lupo-sutia-adesivo.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 191035,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/toda-up-ou-lupo-sutia-adesivo-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/90d54a427e97045e91e7202bbbcd4ad5bd6f442a9b6563fc649ca0f96f40ac81/toda-up-ou-lupo-sutia-adesivo-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/90d54a427e97045e91e7202bbbcd4ad5bd6f442a9b6563fc649ca0f96f40ac81/toda-up-ou-lupo-sutia-adesivo-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T16:04:33.120Z",
+      "verification_etag_or_digest": "90d54a427e97045e91e7202bbbcd4ad5bd6f442a9b6563fc649ca0f96f40ac81",
+      "verification_status": "verified"
+    },
+    {
+      "source_path": "public/images/reviews/toda-up/toda-up-ou-zee-rucci-capa.webp",
+      "local_url": "/images/reviews/toda-up/toda-up-ou-zee-rucci-capa.webp",
+      "media_kind": "image",
+      "mime": "image/webp",
+      "mime_extension_match": true,
+      "bytes": 126754,
+      "sha256": "5d84022fb30b43b32a0cabff8be55198119c6787da5ea4d400df3d9531eb26e2",
+      "width": 1600,
+      "height": 900,
+      "duration_seconds": null,
+      "codec": null,
+      "metadata_tool": "sharp",
+      "metadata_pending": [],
+      "original_filename": "toda-up-ou-zee-rucci-capa.webp",
+      "storage_filename": "toda-up-ou-zee-rucci-capa.webp",
+      "status": "candidate",
+      "reference_status": "referenced",
+      "draft_owners": [],
+      "owners": [
+        "content/reviews/toda-up-ou-zee-rucci.json",
+        "src/lib/generated/content-index.ts"
+      ],
+      "references": [
+        {
+          "file": "content/reviews/toda-up-ou-zee-rucci.json",
+          "line": 23,
+          "column": 13,
+          "literal": "/images/reviews/toda-up/toda-up-ou-zee-rucci-capa.webp",
+          "authority": "source"
+        },
+        {
+          "file": "src/lib/generated/content-index.ts",
+          "line": 191287,
+          "column": 15,
+          "literal": "/images/reviews/toda-up/toda-up-ou-zee-rucci-capa.webp",
+          "authority": "generated"
+        }
+      ],
+      "remote_key": "v1/image/5d84022fb30b43b32a0cabff8be55198119c6787da5ea4d400df3d9531eb26e2/toda-up-ou-zee-rucci-capa.webp",
+      "remote_url": "https://cdn.emcasacomcecilia.com/v1/image/5d84022fb30b43b32a0cabff8be55198119c6787da5ea4d400df3d9531eb26e2/toda-up-ou-zee-rucci-capa.webp",
+      "uploaded_at": null,
+      "verified_at": "2026-11-06T16:04:33.465Z",
+      "verification_etag_or_digest": "5d84022fb30b43b32a0cabff8be55198119c6787da5ea4d400df3d9531eb26e2",
       "verification_status": "verified"
     },
     {
