@@ -16,15 +16,15 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
+| F7 | Sutiã adesivo Toda Up ou Hope: qual escolher? | Toda Up | PT | [[toda-up-ou-hope-sutia-adesivo]] | Pronta para redação: páginas da Hope e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
+| F8 | Sutiã adesivo Toda Up ou Lupo: qual escolher? | Toda Up | PT | [[toda-up-ou-lupo-sutia-adesivo]] | Pronta para redação: páginas da Lupo e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
+| F9 | Toda Up ou Zee Rucci: fita e sutiã adesivo, qual escolher? | Toda Up | PT | [[toda-up-ou-zee-rucci-fita-e-sutia-adesivo]] | Pronta para redação: páginas da Zee Rucci e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
+| F10 | Fita Up ou Trifil Up: fita e sutiã adesivo, qual escolher? | Toda Up | PT | [[fita-up-ou-trifil-up]] | Pronta para redação: páginas da Trifil e da Toda Up lidas no Chrome em 06/11. Um artigo por marca |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
 | Código | O que | Parceiro | O que falta | Com quem |
 |---|---|---|---|---|
-| F7 | Sutiã adesivo Toda Up ou Hope (Sutiã Invisível Aderente, I0020) | Toda Up | Ler no Chrome a página da Hope e a do Sutiã de Silicone Invisível da Toda Up. Concorrente sem link, cupom e foto; quadro "Leve se / Passe se" sem nota; linka o `sutia-de-silicone-invisivel-como-usar`. Decisão do Bruno (06/11): um artigo por marca, nunca a Toda Up contra todas | Job 1 (leitura), depois o briefing |
-| F8 | Sutiã adesivo Toda Up ou Lupo (aderente da linha Loba, 40288) | Toda Up | Ler no Chrome a página da Lupo. Concorrente sem link, cupom e foto; quadro "Leve se / Passe se" sem nota; linka o `sutia-de-silicone-invisivel-como-usar`. Decisão do Bruno (06/11): um artigo por marca, nunca a Toda Up contra todas | Job 1 (leitura), depois o briefing |
-| F9 | Sutiã adesivo Toda Up ou Zee Rucci (Sutiã Adesivo Invisível) | Toda Up | Ler no Chrome a página da Zee Rucci. Concorrente sem link, cupom e foto; quadro "Leve se / Passe se" sem nota; linka o `sutia-de-silicone-invisivel-como-usar`. Decisão do Bruno (06/11): um artigo por marca, nunca a Toda Up contra todas | Job 1 (leitura), depois o briefing |
-| F10 | Fita Up ou Trifil (Fita Adesiva Sustentadora Up) | Toda Up | Só se a fita da Trifil existir: até agora, só um anúncio de vendedor no Mercado Livre, sem página da marca. Se não existir, a F10 cai. Concorrente sem link, cupom e foto; quadro "Leve se / Passe se" sem nota; linka o `sutia-de-silicone-invisivel-como-usar`. Decisão do Bruno (06/11): um artigo por marca, nunca a Toda Up contra todas | Job 1 (leitura) |
 | M6 | Dr. Peanut: Mercado Livre ou site (briefing pronto em 30/10) | Dr. Peanut | O link do Mercado Livre | Bruno |
 | H7 | Loja virtual na Hostinger ou Nuvemshop/Shopify (Commerce) | Hostinger | Conferir no hPanel o preço em R$, o Pix, os canais e o nome do assistente | Bruno |
 | — | Seção "plano novo e migração" no artigo da renovação (BG1, no ar) | Hostinger | Teste no carrinho, sem comprar: um 2º plano de hospedagem (e um 2º VPS) na mesma conta pega o preço promocional e o SONAR20? | Bruno |
