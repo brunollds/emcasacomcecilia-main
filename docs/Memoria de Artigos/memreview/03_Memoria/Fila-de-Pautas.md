@@ -16,6 +16,7 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 | DN3 | Café para clientes no salão, na loja e na padaria (DN3 e DN6 juntas) | Dolce Gusto | PT | [[cafe-para-clientes-salao-loja-padaria]] | Redação, depois da DN1 |
 | BG4 | Promoções da Dolce Gusto: o que se repete e quando comprar | Dolce Gusto | PT | [[promocoes-dolce-gusto-quando-comprar]] | Espera: o Bruno vai reorganizar a ordem com a pauta do afiliado novo (05/11). Reler a página de regulamentos no dia |
 | A10 | Look de Natal e de Réveillon 2026 com peças da Cléa, e look de formatura com calça | Cléa Store | PT | [[look-natal-reveillon-2026-clea-store]] | Publicar em novembro. O catálogo precisa ter peças brancas ou off-white |
+| F3 | Fita Up não cola ou descola? Pele, alergia, suor, água e quanto dura (com a F2 e a F5 dentro) | Toda Up | PT | [[fita-up-cuidados-cola-pele-agua]] | Pronta para redação: fatos lidos no Chrome em 06/11. Na água, só o que a marca diz ("resistente à água e ao suor"); piscina e mar ficam sem conclusão |
 
 ## 2. Paradas: esperam um fato ou uma decisão
 
@@ -34,15 +35,11 @@ O estoque único do que ainda não virou artigo: pautas com briefing esperando r
 
 ### Propostas sem GO
 
-**Rodada Fita Up (06/11/2026)** (pesquisa de outra sessão no autocompletar, contra os 11 artigos da Toda Up no ar; sem o Search Console, que saiu do login; avaliada pela sessão de pautas). Aguarda o GO do Bruno. Antes de cada briefing: o que a página da Fita Up publica sobre o tema (Chrome) e, se possível, as impressões no Search Console.
+**Rodada Fita Up (06/11/2026)** (pesquisa de outra sessão no autocompletar, contra os 11 artigos da Toda Up no ar; sem o Search Console, que saiu do login; avaliada pela sessão de pautas). Aguarda o GO do Bruno. Antes de cada briefing: o que a página da Fita Up publica sobre o tema (Chrome) e, se possível, as impressões no Search Console. **GO do Bruno em 06/11:** a F3 virou briefing, com a F2 (água) e a F5 (amamentação: a loja não recomenda) dentro; a F1 ficou na R8, porque a loja só publica P, M e G, sem cm nem metros do rolo. Seguem aqui:
 
 | Código | Pauta | Buscas | Avaliação da sessão de pautas |
 |---|---|---|---|
-| F1 | Fita Up: qual tamanho e qual largura (P, M, G, GG, plus size, medidas, metros do rolo) | "qual tamanho", "tamanhos", "tamanho p/m/g", "gg", "medidas", "plus size", "larga", "extra larga", "grossa", "9 cm", "10 cm", "quantos metros", "rolo" | **Prioridade.** O `fita-up-como-usar` só tem uma tabela de 3 linhas (P até 44, M até 48, G até 54). Artigo próprio só se a loja publicar mais (largura em cm, metros por rolo, GG): sem isso, fica fino e a R8 basta. Se aprovada, substitui a R8 |
-| F2 | Fita Up pode molhar? Piscina, praia, suor e biquíni | "pode molhar", "pode usar na piscina", "na praia", "a prova d'água", "no biquíni" | Nenhum artigo fala de água (os "biquíni" do site são a calcinha da Toda Up). Depende de a loja dizer algo sobre água; sem isso, não há o que escrever. Proposta: juntar com a F3 num artigo só de cuidados, se os fatos de cada um forem poucos |
-| F3 | Fita Up não cola ou descola? Pele, alergia, quanto dura e marca na roupa | "não cola", "perdeu a cola", "descola", "machuca a pele", "queima a pele", "dá alergia", "hipoalergênica", "como limpar", "quanto tempo dura", "marca na roupa" | **Prioridade.** Hoje só uma frase do `fita-up-como-usar` (adesivo acrílico à base de água, até 12 horas, "hipoalergênica" pela marca) e o pré-teste da seção de cuidados. Só o que a loja publica, "na dúvida, teste numa área pequena", sem promessa de saúde. O `fita-up-como-usar` encurta e linka |
 | F4 | Fita Up mudou de nome? Agora é Toda Up | "mudou de nome", "faliu", "fechou", "vai acabar", "golpe", "é um banco", "CNPJ" | **Vira FAQ** no `toda-up-e-confiavel` (seção 4), que já tem "Da Fita UP à Toda Up: o que mudou". Artigo próprio disputaria com ele |
-| F5 | Fita Up na amamentação | "fita up amamentação" | Só se a loja falar disso; senão, fica fora |
 | F6 | Fita Up × Hope, Lupo, Trifil, Zee Rucci e Intimissimi | aparecem no autocompletar | Conferir na SERP se são fitas de outras marcas. Se forem, continuação da R3 (`fita-up-ou-blumi-ou-lib`), com as concorrentes sem link, cupom e foto |
 
 Já cobertos: tomara que caia, decote, protetor de mamilo, kit, Comfort Up e Slim, onde comprar (R1) e Blumi e Lib (R3).
@@ -123,7 +120,7 @@ Senha da mala Bagaggio; creme para mãos Skelt; como tomar a creatina.
 |---|---|---|
 | `toda-up-e-confiavel` | F4: FAQ "A Fita Up mudou de nome? Faliu?" com as palavras da busca ("mudou de nome", "agora é Toda Up", "faliu", "fechou", "vai acabar", "golpe", "CNPJ"), na seção "Da Fita UP à Toda Up: o que mudou", que já responde. Sem artigo novo | Rodada Fita Up, 06/11 |
 | `presente-de-natal-insider-kits-gift-card` | Dizer que o cupom vale na compra do gift card (teste do Bruno, 05/11, R$ 900 por R$ 765); hoje o artigo só diz que o pedido pago com o gift card não aceita cupom, e o leitor entende que gift card e cupom não combinam. Vale também para a FAQ "Cupom vale com gift card?" | I9, 05/11 |
-| `fita-up-como-usar` | R8: "plus size" no H2 da largura e uma FAQ, pelo briefing [[fita-up-como-usar-plus-size-otimizacao]] (sem URL nova). **Cai se a F1 (propostas sem GO) for aprovada:** aí o H2 encurta e linka para ela | Rodada R8, 05/11 |
+| `fita-up-como-usar` | R8 (com a F1): H2 "Qual largura e tamanho escolher: P, M, G e plus size" e a FAQ de plus size, pelo briefing [[fita-up-como-usar-plus-size-otimizacao]] (lido no Chrome em 06/11: a tabela diz G até 54 e o FAQ da loja, "até o 52 com segurança"). **Corrigir também** a seção "Dá para reutilizar?" e a FAQ, que dizem que a Toda Up não informa: o FAQ da loja diz que dá, mas perde a cola, e não recomenda. As seções de cuidados encurtam e linkam para a F3 quando ela for ao ar | Rodada R8 e Fita Up, 05 e 06/11 |
 | `camiseta-feminina-insider-qual-escolher` e `camiseta-insider-qual-escolher` | Cupom na Daily: o feminino diz "confira no carrinho", o masculino diz que a Daily não aceita cupom. Só mudar com o teste no carrinho (conflito 5 da R7). O resto da linha da R7 (lavagem com link, notas, Core e 2 cm, dossiê) saiu no PR de 06/11 | Rodada R7, 05/11 |
 | `clea-store-e-confiavel` | FAQ "Onde fica a Cléa Store? Tem loja física em Jaraguá do Sul?", pelo que a loja publica | Rodada de 05/11 |
 | /cupons da Max, Probiótica e Insider (sessão de cupons) | FAQ "influencer" e "mercado livre"; confirmar o title sem "(nov/2026)". Parte 3 de [[cupom-loja-primeira-pagina-0511]]. As partes 1 e 2 saíram no #600 e a FAQ "primeira compra" (também da Mais Mu e da Bagaggio, comparada com as boas-vindas) no #601, os dois na main | Cupom <loja> na 1ª página, 05/11 |
