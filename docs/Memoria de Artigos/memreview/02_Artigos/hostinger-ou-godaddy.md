@@ -132,3 +132,16 @@ Regra do Bruno (06/11): artigo da Hostinger, da SHEIN ou da YesStyle nunca sai s
 - **ja:** o cabeçalho da coluna virou 割引価格, o FAQ 1 passou a falar de quanto tempo se mantém o site, e entrou o espaço depois do ？.
 - **ko:** o cabeçalho da coluna virou 프로모션가.
 - **zh-hant e zh-hans:** 算法 virou 計算/计算, e entraram "首期" e "兩家的退款說明". A frase da renovação foi reescrita: o `test:review-i18n` lia "不適用於續訂" como "vale na renovação".
+
+## 9. Correção do PT (06/11/2026, à noite)
+
+Bruno achou a versão no ar confusa, e uma crítica externa (ChatGPT) apontou dois fatos. Conferido na loja e no carrinho, sem comprar, o artigo tinha três erros:
+- **O Single da Hostinger não traz domínio nem e-mail.** No cartão do plano, os dois aparecem com traço. A leitura anterior estava errada.
+- **SSL grátis nas duas.** A Hostinger dá em todos os planos. A GoDaddy dá o AutoSSL, incluído, e o "SSL Padrão" do Economy (R$ 429,99/ano) é um certificado pago a mais.
+- **Reembolso da GoDaddy:** o cartão diz 7 dias, mas o aviso "+" diz reembolso integral do plano anual em até 30 dias. O texto não afirma mais "30 contra 7".
+
+Reescrita pelo Fable 5.1 em dois pares, cada um por prazo (1º ano, 4 anos, renovação):
+- Só o site: Single × Inicial.
+- Com domínio e e-mail: Premium × Economy. Premium com o SONAR20 no carrinho: 48 meses R$ 383,62, 12 meses R$ 143,90, renovação R$ 38,99/mês.
+
+Os fatos estão em `fatos-h9.md`, na seção CORREÇÕES. As 9 traduções serão refeitas na mesma estrutura, com os preços em dólar (decisão do Bruno: opção b).
