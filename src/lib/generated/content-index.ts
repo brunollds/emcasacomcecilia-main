@@ -29495,7 +29495,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Ensina a diferenciar Coupon Code de Reward Code para não ter erros no checkout",
       "Explica o empilhamento (stacking) para somar cupom do mês com o CECILIA010",
-      "Mostra como economizar até 5% extra com o código de influenciador oficial",
+      "Mostra como economizar até 5% extra com o código de influenciadora oficial",
       "Lista fontes oficiais de cupons da YesStyle para evitar códigos falsos ou expirados",
       "Direciona para a página atualizada do Em Casa com Cecília com a lista de cupons conferida"
     ],
@@ -29504,7 +29504,7 @@ export const reviewsData: unknown[] = [
       "O desconto do CECILIA010 varia entre 5% na primeira compra e 2% em compras recorrentes",
       "O total sai na moeda escolhida no site, pelo câmbio da YesStyle, e o banco pode cobrar tarifa de compra internacional"
     ],
-    "pullQuote": "A chave para o maior desconto na YesStyle é a dobradinha: aplique o cupom da promoção no campo Coupon Code e o CECILIA010 no campo Reward Code para obter até 5% extra.",
+    "pullQuote": "Use o CECILIA010 no campo Reward Code: 5% na primeira compra e 2% nas seguintes. Se a promoção permitir, aplique também um cupom no campo Coupon Code e confira os dois descontos no resumo do pedido.",
     "productSpec": [
       {
         "key": "Loja",
@@ -29635,7 +29635,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde achar os cupons YesStyle em vigor",
         "paragraphs": [
-          "Para acompanhar os cupons do mês sem cair em código expirado, comece pelas fontes oficiais da YesStyle:",
+          "Você pode consultar o banner e a newsletter da própria YesStyle ou a curadoria de cupons do nosso blog. A lista abaixo distingue essas fontes:",
           "1. Banner principal da YesStyle: a página inicial da loja costuma destacar o cupom promocional ativo no topo.",
           "2. Newsletter oficial: ao assinar a newsletter do site, você recebe avisos de liquidações relâmpago de 72 ou 96 horas.",
           "3. Nossa página de cupons: uma curadoria do blog, parceiro da YesStyle, com os códigos em vigor e o link para as regras da marca."
@@ -36862,7 +36862,7 @@ export const reviewsData: unknown[] = [
       "The CECILIA010 discount varies between 5% on a first purchase and 2% on repeat purchases",
       "The total is charged in the currency you pick on the site, at YesStyle's exchange rate, and your bank may add an international purchase fee"
     ],
-    "pullQuote": "The key to the biggest discount at YesStyle is the combination: apply the promotion's coupon in the Coupon Code field and CECILIA010 in the Reward Code field to get up to 5% extra.",
+    "pullQuote": "Enter CECILIA010 in the Reward Code field: 5% on a first purchase and 2% on later ones. If the promotion allows it, also enter a coupon in the Coupon Code field and check both discounts in the order summary.",
     "productSpec": [
       {
         "key": "Store",
@@ -36993,7 +36993,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Where to find the YesStyle coupons that are live",
         "paragraphs": [
-          "To keep up with the month's coupons without running into an expired code, start with YesStyle's official sources:",
+          "You can check YesStyle's own banner and newsletter or our blog's curated coupon list. The list below distinguishes these sources:",
           "1. YesStyle's main banner: the store's home page usually highlights the active promotional coupon at the top.",
           "2. The official newsletter: when you subscribe to the site's newsletter, you get notices of 72- or 96-hour flash sales.",
           "3. Our coupon page: a curated list from the blog, a YesStyle partner, with the codes that are live and a link to the brand's rules."
@@ -37081,7 +37081,7 @@ export const reviewsData: unknown[] = [
       "El descuento de CECILIA010 varía entre un 5% en la primera compra y un 2% en las compras siguientes",
       "El total se cobra en la moneda que elijas en el sitio, al tipo de cambio de YesStyle, y tu banco puede aplicar una comisión por compra internacional"
     ],
-    "pullQuote": "La clave para el mayor descuento en YesStyle es la combinación: aplica el cupón de la promoción en el campo Coupon Code y CECILIA010 en el campo Reward Code para obtener hasta un 5% extra.",
+    "pullQuote": "Introduce CECILIA010 en el campo Reward Code: 5% en la primera compra y 2% en las siguientes. Si la promoción lo permite, aplica también un cupón en el campo Coupon Code y comprueba ambos descuentos en el resumen del pedido.",
     "productSpec": [
       {
         "key": "Tienda",
@@ -37212,7 +37212,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dónde encontrar los cupones de YesStyle vigentes",
         "paragraphs": [
-          "Para seguir los cupones del mes sin toparte con un código caducado, empieza por las fuentes oficiales de YesStyle:",
+          "Puedes consultar el banner y el boletín de la propia YesStyle o la selección de cupones de nuestro blog. La lista siguiente distingue estas fuentes:",
           "1. Banner principal de YesStyle: la página de inicio de la tienda suele destacar arriba el cupón promocional activo.",
           "2. Boletín oficial: al suscribirte al boletín del sitio, recibes avisos de ofertas relámpago de 72 o 96 horas.",
           "3. Nuestra página de cupones: una selección del blog, colaborador de YesStyle, con los códigos vigentes y el enlace a las reglas de la marca."
@@ -37300,7 +37300,7 @@ export const reviewsData: unknown[] = [
       "La réduction de CECILIA010 varie entre 5 % sur le premier achat et 2 % sur les achats suivants",
       "Le total est débité dans la devise choisie sur le site, au taux de change de YesStyle, et votre banque peut facturer des frais d'achat international"
     ],
-    "pullQuote": "La clé de la plus grosse réduction chez YesStyle, c'est le duo : appliquez le coupon de la promotion dans le champ Coupon Code et CECILIA010 dans le champ Reward Code pour obtenir jusqu'à 5 % de plus.",
+    "pullQuote": "Saisissez CECILIA010 dans le champ Reward Code : 5 % sur le premier achat et 2 % sur les suivants. Si la promotion le permet, ajoutez aussi un coupon dans le champ Coupon Code et vérifiez les deux réductions dans le récapitulatif de la commande.",
     "productSpec": [
       {
         "key": "Boutique",
@@ -37431,7 +37431,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Où trouver les coupons YesStyle en cours",
         "paragraphs": [
-          "Pour suivre les coupons du mois sans tomber sur un code périmé, commencez par les sources officielles de YesStyle :",
+          "Vous pouvez consulter la bannière et la newsletter de YesStyle ou la sélection de coupons de notre blog. La liste ci-dessous distingue ces sources :",
           "1. La bannière principale de YesStyle : la page d'accueil de la boutique met souvent en avant, en haut, le coupon promotionnel actif.",
           "2. La newsletter officielle : en vous abonnant à la newsletter du site, vous recevez les alertes de ventes flash de 72 ou 96 heures.",
           "3. Notre page de coupons : une sélection du blog, partenaire de YesStyle, avec les codes en cours et le lien vers les règles de la marque."
@@ -37519,7 +37519,7 @@ export const reviewsData: unknown[] = [
       "Der Rabatt von CECILIA010 liegt zwischen 5 % beim ersten Einkauf und 2 % bei weiteren Einkäufen",
       "Der Gesamtbetrag wird in der auf der Website gewählten Währung abgerechnet, zum YesStyle-Wechselkurs; die Bank kann eine Gebühr für internationale Käufe berechnen"
     ],
-    "pullQuote": "Der Schlüssel zum größten Rabatt bei YesStyle ist die Kombination: Geben Sie den Gutschein der Aktion im Feld Coupon Code ein und CECILIA010 im Feld Reward Code, um bis zu 5 % extra zu bekommen.",
+    "pullQuote": "Geben Sie CECILIA010 im Feld Reward Code ein: 5 % beim ersten Einkauf und 2 % bei weiteren Einkäufen. Wenn die Aktion es erlaubt, nutzen Sie zusätzlich einen Gutschein im Feld Coupon Code und prüfen Sie beide Rabatte in der Bestellübersicht.",
     "productSpec": [
       {
         "key": "Shop",
@@ -37650,7 +37650,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wo Sie die aktuell gültigen YesStyle-Gutscheine finden",
         "paragraphs": [
-          "Um die Gutscheine des Monats im Blick zu behalten, ohne auf einen abgelaufenen Code zu stoßen, beginnen Sie bei den offiziellen Quellen von YesStyle:",
+          "Sie können das Banner und den Newsletter von YesStyle oder die Gutscheinliste unseres Blogs nutzen. Die folgende Liste unterscheidet diese Quellen:",
           "1. Das Hauptbanner von YesStyle: Die Startseite des Shops hebt den aktiven Aktionsgutschein meist oben hervor.",
           "2. Der offizielle Newsletter: Wenn Sie den Newsletter der Website abonnieren, bekommen Sie Hinweise auf Blitzangebote über 72 oder 96 Stunden.",
           "3. Unsere Gutscheinseite: eine Zusammenstellung des Blogs, Partner von YesStyle, mit den aktuellen Codes und dem Link zu den Regeln der Marke."
@@ -37738,7 +37738,7 @@ export const reviewsData: unknown[] = [
       "CECILIA010 할인율은 첫 구매 5%, 재구매 2%로 다릅니다",
       "결제 총액은 사이트에서 고른 통화로 YesStyle의 환율에 따라 표시되며, 카드사나 은행에서 해외 결제 수수료를 받을 수 있습니다"
     ],
-    "pullQuote": "YesStyle에서 가장 많이 할인받는 열쇠는 두 가지를 함께 쓰는 것입니다. 프로모션 쿠폰은 Coupon Code 칸에, CECILIA010은 Reward Code 칸에 입력하면 최대 5%가 추가로 할인됩니다.",
+    "pullQuote": "Reward Code 칸에 CECILIA010을 입력하세요. 첫 구매는 5%, 이후 구매는 2% 할인입니다. 프로모션에서 허용하면 Coupon Code 칸에 쿠폰도 입력하고, 주문 요약에서 두 할인을 확인하세요.",
     "productSpec": [
       {
         "key": "쇼핑몰",
@@ -37869,7 +37869,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "진행 중인 YesStyle 쿠폰을 찾는 곳",
         "paragraphs": [
-          "만료된 코드에 걸리지 않고 이달의 쿠폰을 확인하려면 먼저 YesStyle의 공식 출처를 보세요.",
+          "YesStyle의 배너와 뉴스레터, 또는 저희 블로그가 정리한 쿠폰 목록을 확인할 수 있습니다. 아래 목록에서 각 출처를 구분해 안내합니다.",
           "1. YesStyle 메인 배너: 쇼핑몰 홈페이지 상단에 진행 중인 프로모션 쿠폰이 크게 나오는 경우가 많습니다.",
           "2. 공식 뉴스레터: 사이트 뉴스레터를 구독하면 72시간·96시간 타임세일 소식을 받아볼 수 있습니다.",
           "3. 저희 쿠폰 페이지: YesStyle의 파트너인 블로그가 정리한 페이지로, 진행 중인 코드와 브랜드 규칙으로 가는 링크가 있습니다."
@@ -37957,7 +37957,7 @@ export const reviewsData: unknown[] = [
       "CECILIA010の割引率は、初回購入が5%、2回目以降が2%",
       "お支払い総額はサイトで選んだ通貨で、YesStyleの為替レートで表示され、カード会社や銀行が海外取引の手数料を請求する場合があります"
     ],
-    "pullQuote": "YesStyleで最も安く買うコツは二本立て。セールのクーポンはCoupon Code欄に、CECILIA010はReward Code欄に入れると、最大5%が追加で引かれます。",
+    "pullQuote": "Reward Code欄にCECILIA010を入力すると、初回購入は5%、2回目以降は2%割引です。キャンペーンが認めている場合はCoupon Code欄にクーポンも入力し、注文の概要で両方の割引を確認してください。",
     "productSpec": [
       {
         "key": "ショップ",
@@ -38088,7 +38088,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "開催中のYesStyleクーポンを見つける方法",
         "paragraphs": [
-          "期限切れのコードを踏まずに今月のクーポンを追うには、まずYesStyleの公式な情報源を見てください。",
+          "YesStyleのバナーやニュースレター、または当サイトがまとめたクーポン一覧を確認できます。以下では、それぞれの情報源を分けて紹介します。",
           "1. YesStyleのトップバナー：ショップのトップページの上部に、実施中のプロモクーポンが大きく出ていることがよくあります。",
           "2. 公式ニュースレター：サイトのニュースレターに登録すると、72時間・96時間のタイムセールのお知らせが届きます。",
           "3. 当サイトのクーポンページ：YesStyleのパートナーであるブログがまとめたページで、実施中のコードと、ブランドの規約へのリンクを載せています。"
@@ -38176,7 +38176,7 @@ export const reviewsData: unknown[] = [
       "CECILIA010 的折扣首次購買為 5%，之後的回購為 2%",
       "結帳總額以你在網站上選擇的幣別顯示，依 YesStyle 的匯率換算，銀行可能收取國際交易手續費"
     ],
-    "pullQuote": "在 YesStyle 省最多的關鍵是兩個一起用：把促銷優惠碼填進 Coupon Code 欄，把 CECILIA010 填進 Reward Code 欄，就能再多省高達 5%。",
+    "pullQuote": "在 Reward Code 欄輸入 CECILIA010：首次購買享 5% 折扣，之後的購買享 2%。活動允許時，也可在 Coupon Code 欄輸入優惠碼，並在訂單摘要中確認兩項折扣。",
     "productSpec": [
       {
         "key": "商店",
@@ -38307,7 +38307,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "哪裡找得到目前有效的 YesStyle 優惠碼",
         "paragraphs": [
-          "想追蹤當月優惠碼又不踩到過期代碼，請先看 YesStyle 的官方管道：",
+          "你可以查看 YesStyle 自己的網站橫幅與電子報，或本部落格整理的優惠碼清單。以下分別介紹這些來源：",
           "1. YesStyle 首頁橫幅：商店首頁頂端通常會凸顯目前有效的促銷優惠碼。",
           "2. 官方電子報：訂閱網站電子報後，你會收到 72 小時或 96 小時限時特賣的通知。",
           "3. 我們的優惠碼頁面：由身為 YesStyle 合作夥伴的本部落格整理，列出目前有效的代碼，並附有品牌規則的連結。"
@@ -38395,7 +38395,7 @@ export const reviewsData: unknown[] = [
       "CECILIA010 的折扣首次购买为 5%，之后的回购为 2%",
       "结账总额以你在网站上选择的货币显示，按 YesStyle 的汇率换算，银行可能收取国际交易手续费"
     ],
-    "pullQuote": "在 YesStyle 省得最多的关键是两个一起用：把促销优惠码填进 Coupon Code 栏，把 CECILIA010 填进 Reward Code 栏，就能再多省高达 5%。",
+    "pullQuote": "在 Reward Code 栏输入 CECILIA010：首次购买享 5% 折扣，之后的购买享 2%。活动允许时，也可在 Coupon Code 栏输入优惠码，并在订单摘要中确认两项折扣。",
     "productSpec": [
       {
         "key": "商店",
@@ -38526,7 +38526,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "去哪里找当前有效的 YesStyle 优惠码",
         "paragraphs": [
-          "想追踪当月优惠码又不踩到过期代码，请先看 YesStyle 的官方渠道：",
+          "你可以查看 YesStyle 自己的网站横幅与电子报，或本博客整理的优惠码列表。以下分别介绍这些来源：",
           "1. YesStyle 首页横幅：商店首页顶部通常会突出显示当前有效的促销优惠码。",
           "2. 官方电子报：订阅网站电子报后，你会收到 72 小时或 96 小时限时特卖的通知。",
           "3. 我们的优惠码页面：由作为 YesStyle 合作伙伴的本博客整理，列出当前有效的代码，并附有品牌规则的链接。"
@@ -49273,7 +49273,7 @@ export const reviewsData: unknown[] = [
       "Lo sconto di CECILIA010 varia tra il 5% sul primo acquisto e il 2% sugli acquisti successivi",
       "Il totale è nella valuta scelta sul sito, al cambio di YesStyle, e la banca può applicare una commissione per gli acquisti internazionali"
     ],
-    "pullQuote": "La chiave per il massimo sconto su YesStyle è la doppietta: applica il coupon della promozione nel campo Coupon Code e CECILIA010 nel campo Reward Code per ottenere fino al 5% in più.",
+    "pullQuote": "Inserisci CECILIA010 nel campo Reward Code: 5% sul primo acquisto e 2% sui successivi. Se la promozione lo consente, applica anche un coupon nel campo Coupon Code e controlla entrambi gli sconti nel riepilogo dell'ordine.",
     "productSpec": [
       {
         "key": "Negozio",
@@ -49404,7 +49404,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dove trovare i coupon YesStyle in corso",
         "paragraphs": [
-          "Per seguire i coupon del mese senza imbatterti in un codice scaduto, parti dalle fonti ufficiali di YesStyle:",
+          "Puoi consultare il banner e la newsletter di YesStyle oppure la selezione di coupon del nostro blog. La lista seguente distingue queste fonti:",
           "1. Il banner principale di YesStyle: la home page del negozio di solito mette in evidenza in alto il coupon promozionale attivo.",
           "2. La newsletter ufficiale: iscrivendoti alla newsletter del sito ricevi gli avvisi delle vendite lampo di 72 o 96 ore.",
           "3. La nostra pagina dei coupon: una raccolta curata dal blog, partner di YesStyle, con i codici in corso e il link alle regole del marchio."
@@ -57029,7 +57029,7 @@ export const reviewsData: unknown[] = [
         "heading": "Depois da Black Friday: o Natal",
         "paragraphs": [
           "Em 2024, o maior cupom do fim de ano não foi o da Black Friday: na semana do Natal, a YesStyle deu 18% sem valor mínimo em tudo. Em 2025, os cupons abertos a todos os membros ficaram nos 15% até o fim do ano.",
-          "Para presente de Natal, a compra da Black Friday é a mais segura. Uma compra internacional demora mais que a de uma loja daqui, e o prazo estimado aparece no checkout antes de pagar."
+          "Para presente de Natal, compare o prazo estimado no checkout com a data em que você precisa receber. Considere também a disponibilidade dos itens: ela faz parte do tempo até a entrega."
         ]
       },
       {
@@ -57305,7 +57305,7 @@ export const reviewsData: unknown[] = [
         "heading": "After Black Friday: Christmas",
         "paragraphs": [
           "In 2024, the biggest end-of-year coupon was not the Black Friday one: in Christmas week, YesStyle gave 18% with no minimum on everything. In 2025, the coupons open to all members stayed at 15% until the end of the year.",
-          "For Christmas gifts, the Black Friday purchase is the safest. An international order takes longer than one from a local store, and the estimated delivery time appears at checkout before you pay."
+          "For Christmas gifts, compare the estimated delivery time at checkout with the date you need the order. Also check product availability: it is part of the total delivery time."
         ]
       },
       {
@@ -57573,7 +57573,7 @@ export const reviewsData: unknown[] = [
         "heading": "Después del Black Friday: la Navidad",
         "paragraphs": [
           "En 2024, el mayor cupón de fin de año no fue el del Black Friday: en la semana de Navidad, YesStyle dio 18% sin compra mínima en todo. En 2025, los cupones abiertos a todos los miembros se quedaron en 15% hasta fin de año.",
-          "Para regalos de Navidad, la compra del Black Friday es la más segura. Una compra internacional tarda más que la de una tienda local, y el plazo estimado aparece en el checkout antes de pagar."
+          "Para regalos de Navidad, compara el plazo estimado en el checkout con la fecha en que necesitas recibir el pedido. Comprueba también la disponibilidad de los productos."
         ]
       },
       {
@@ -57841,7 +57841,7 @@ export const reviewsData: unknown[] = [
         "heading": "Après le Black Friday : Noël",
         "paragraphs": [
           "En 2024, le plus gros coupon de fin d'année n'a pas été celui du Black Friday : la semaine de Noël, YesStyle a offert 18 % sans minimum sur tout. En 2025, les coupons ouverts à tous les membres sont restés à 15 % jusqu'à la fin de l'année.",
-          "Pour un cadeau de Noël, l'achat du Black Friday est le plus sûr. Une commande internationale prend plus de temps que celle d'une boutique locale, et le délai estimé s'affiche à la page de paiement avant de payer."
+          "Pour un cadeau de Noël, comparez le délai estimé au paiement avec la date à laquelle vous devez recevoir la commande. Vérifiez aussi la disponibilité des articles."
         ]
       },
       {
@@ -58109,7 +58109,7 @@ export const reviewsData: unknown[] = [
         "heading": "Nach dem Black Friday: Weihnachten",
         "paragraphs": [
           "2024 war der größte Gutschein zum Jahresende nicht der des Black Friday: In der Weihnachtswoche gab YesStyle 18 % ohne Mindestbestellwert auf alles. 2025 blieben die für alle Mitglieder offenen Gutscheine bis zum Jahresende bei 15 %.",
-          "Für Weihnachtsgeschenke ist der Kauf am Black Friday am sichersten. Eine internationale Bestellung dauert länger als eine bei einem lokalen Shop, und die geschätzte Lieferzeit erscheint im Checkout, bevor Sie bezahlen."
+          "Vergleichen Sie bei Weihnachtsgeschenken die geschätzte Lieferzeit im Checkout mit dem Termin, zu dem Sie die Bestellung benötigen. Prüfen Sie auch die Verfügbarkeit der Artikel."
         ]
       },
       {
@@ -58377,7 +58377,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dopo il Black Friday: il Natale",
         "paragraphs": [
           "Nel 2024, il coupon più alto di fine anno non è stato quello del Black Friday: nella settimana di Natale YesStyle ha dato il 18% senza minimo su tutto. Nel 2025, i coupon aperti a tutti i membri sono rimasti al 15% fino a fine anno.",
-          "Per i regali di Natale, l'acquisto del Black Friday è il più sicuro. Un acquisto internazionale richiede più tempo di uno in un negozio locale, e il tempo di consegna stimato compare nel checkout prima di pagare."
+          "Per i regali di Natale, confronta il tempo di consegna stimato al checkout con la data entro cui ti serve l'ordine. Controlla anche la disponibilità degli articoli."
         ]
       },
       {
@@ -58645,7 +58645,7 @@ export const reviewsData: unknown[] = [
         "heading": "블랙프라이데이 다음은 크리스마스",
         "paragraphs": [
           "2024년에는 연말 최대 쿠폰이 블랙프라이데이 쿠폰이 아니었습니다. 크리스마스 주간에 YesStyle이 전 상품 최소 금액 없이 18%를 줬습니다. 2025년에는 모든 회원에게 열린 쿠폰이 연말까지 15%에 머물렀습니다.",
-          "크리스마스 선물이라면 블랙프라이데이에 사는 것이 가장 안전합니다. 해외 구매는 가까운 쇼핑몰보다 오래 걸리고, 예상 배송 기간은 결제 전에 결제 화면에서 확인할 수 있습니다."
+          "크리스마스 선물이라면 결제 화면의 예상 배송 기간과 받고 싶은 날짜를 비교하세요."
         ]
       },
       {
@@ -58913,7 +58913,7 @@ export const reviewsData: unknown[] = [
         "heading": "ブラックフライデーのあと：クリスマス",
         "paragraphs": [
           "2024年は、年末でいちばん大きなクーポンはブラックフライデーのものではありませんでした。クリスマスの週に、YesStyleは全商品を最低金額なしで18%引きにしました。2025年は、全会員が使えるクーポンは年末まで15%のままでした。",
-          "クリスマスプレゼントなら、ブラックフライデーに買うのがいちばん安全です。海外通販は地元のストアより時間がかかり、配送の目安はお支払い前にチェックアウトで確認できます。"
+          "クリスマスプレゼントなら、チェックアウトに表示される配送の目安と、受け取りたい日を比べてください。"
         ]
       },
       {
@@ -59181,7 +59181,7 @@ export const reviewsData: unknown[] = [
         "heading": "黑色星期五之後：聖誕節",
         "paragraphs": [
           "2024 年，年底最大的優惠券並不是黑色星期五那張：聖誕節那一週，YesStyle 對所有商品給出了無最低消費的 18%。2025 年，開放給所有會員的優惠券到年底都維持在 15%。",
-          "如果是買聖誕禮物，黑色星期五下單最穩妥。跨境購物比在本地商店買要久，預計送達時間會在付款前顯示在結帳頁。"
+          "如果是買聖誕禮物，請把結帳頁的預計送達時間與需要收到訂單的日期比較。"
         ]
       },
       {
@@ -59449,7 +59449,7 @@ export const reviewsData: unknown[] = [
         "heading": "黑色星期五之后：圣诞节",
         "paragraphs": [
           "2024 年，年底最大的优惠券并不是黑色星期五那张：圣诞节那一周，YesStyle 对所有商品给出了无最低消费的 18%。2025 年，向所有会员开放的优惠券到年底都维持在 15%。",
-          "如果是买圣诞礼物，黑色星期五下单最稳妥。跨境购物比在本地商店买要久，预计送达时间会在付款前显示在结账页。"
+          "如果是买圣诞礼物，请把结账页的预计送达时间与需要收到订单的日期比较。"
         ]
       },
       {
@@ -132511,7 +132511,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o app não funcionar",
         "paragraphs": [
-          "Confira estes três pontos:"
+          "Confira estes três pontos. Se o problema persistir, procure a central de ajuda da YesStyle."
         ],
         "bullets": [
           "Baixe só pelos links oficiais da App Store e do Google Play.",
@@ -132706,7 +132706,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "If the app doesn't work",
         "paragraphs": [
-          "Check these three points:"
+          "Check these three points. If the problem persists, use YesStyle’s help center."
         ],
         "bullets": [
           "Download only from the official App Store and Google Play links.",
@@ -132908,7 +132908,7 @@ export const reviewsData: unknown[] = [
           "Inicia sesión antes de añadir artículos a la bolsa. Sin sesión iniciada, la bolsa de la app no se une a la de la web."
         ],
         "postParagraphs": [
-          "Sobre la seguridad de la tienda, responde [¿Es fiable YesStyle?](/es/reviews/es-yesstyle-de-fiar-y-seguro)."
+          "Si el problema persiste, consulta el centro de ayuda de YesStyle. Sobre la seguridad de la tienda, responde [¿Es fiable YesStyle?](/es/reviews/es-yesstyle-de-fiar-y-seguro)."
         ]
       },
       {
@@ -133102,7 +133102,7 @@ export const reviewsData: unknown[] = [
           "Connectez-vous avant d'ajouter des articles au panier. Sans connexion, le panier de l'appli ne se fusionne pas avec celui du site."
         ],
         "postParagraphs": [
-          "Sur la sécurité de la boutique, [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur) répond."
+          "Si le problème persiste, consultez le centre d'aide de YesStyle. Sur la sécurité de la boutique, [YesStyle est-il fiable ?](/fr/reviews/yesstyle-est-il-fiable-et-sur) répond."
         ]
       },
       {
@@ -133296,7 +133296,7 @@ export const reviewsData: unknown[] = [
           "Accedi all'account prima di mettere gli articoli nel carrello. Senza accesso, il carrello dell'app non si unisce a quello del sito."
         ],
         "postParagraphs": [
-          "Sulla sicurezza dello shop risponde [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
+          "Se il problema persiste, consulta il centro assistenza di YesStyle. Sulla sicurezza dello shop risponde [YesStyle è affidabile?](/it/reviews/yesstyle-e-affidabile-e-sicuro)."
         ]
       },
       {
@@ -133490,7 +133490,7 @@ export const reviewsData: unknown[] = [
           "Melden Sie sich an, bevor Sie Artikel in den Warenkorb legen. Ohne Anmeldung wird der Warenkorb der App nicht mit dem der Website zusammengeführt."
         ],
         "postParagraphs": [
-          "Zur Sicherheit des Shops antwortet [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
+          "Besteht das Problem weiter, nutzen Sie das YesStyle-Hilfecenter. Zur Sicherheit des Shops antwortet [Ist YesStyle seriös?](/de/reviews/ist-yesstyle-serioes-und-sicher)."
         ]
       },
       {
@@ -133676,7 +133676,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "アプリが動かないとき",
         "paragraphs": [
-          "次の3点を確認してください。"
+          "次の3点を確認してください。解決しない場合は、YesStyleのヘルプセンターをご利用ください。"
         ],
         "bullets": [
           "ダウンロードは、App StoreとGoogle Playの公式リンクからのみ行ってください。",
@@ -133870,7 +133870,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "앱이 작동하지 않을 때",
         "paragraphs": [
-          "다음 세 가지를 확인하세요."
+          "다음 세 가지를 확인하세요. 해결되지 않으면 YesStyle 고객센터를 이용하세요."
         ],
         "bullets": [
           "App Store와 Google Play의 공식 링크로만 내려받으세요.",
@@ -134064,7 +134064,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如果 App 无法使用",
         "paragraphs": [
-          "请检查这三点："
+          "请检查这三点。仍未解决时，请使用 YesStyle 帮助中心。"
         ],
         "bullets": [
           "只通过 App Store 和 Google Play 的官方链接下载。",
@@ -134258,7 +134258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "如果 App 無法使用",
         "paragraphs": [
-          "請檢查這三點："
+          "請檢查這三點。仍未解決時，請使用 YesStyle 說明中心。"
         ],
         "bullets": [
           "只透過 App Store 和 Google Play 的官方連結下載。",
