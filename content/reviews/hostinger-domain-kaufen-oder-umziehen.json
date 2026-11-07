@@ -170,7 +170,7 @@
       "bullets": [
         "Kann ich das Hosting wechseln, ohne die Domain zu verlieren? Sie können die Registrierung beibehalten und das neue Hosting per DNS verbinden, ohne die Domain umzuziehen. Prüfen Sie Website- und E-Mail-Einträge vor der Änderung.",
         "Braucht man eine Domain für E-Mail? Ja. Für eine Adresse wie sie@ihrefirma.com muss die Domain existieren; ein Hosting ist nicht nötig, und Hostinger sagt, dass man die Domain nur für E-Mail oder für die Weiterleitung auf eine andere Website nutzen kann.",
-        "Kann ich eine Hostinger-Domain zu einem anderen Registrar umziehen? Das hängt von der Endung und den geltenden Sperren ab. Prüfen Sie das Verfahren und entsperren Sie die Domain, holen Sie den Code und bestätigen Sie den Antrag, soweit erforderlich. Ein abgeschlossener Transfer ist von der regulären Erstattung ausgeschlossen.",
+        "Kann ich eine Hostinger-Domain zu einem anderen Registrar umziehen? Ja, sofern die Endung es zulässt und keine Sperre besteht. Prüfen Sie das Verfahren und entsperren Sie die Domain, holen Sie den Code und bestätigen Sie den Antrag, soweit erforderlich. Ein abgeschlossener Transfer ist von der regulären Erstattung ausgeschlossen.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },

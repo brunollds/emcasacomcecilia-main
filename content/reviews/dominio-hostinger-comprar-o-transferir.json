@@ -170,7 +170,7 @@
       "bullets": [
         "¿Puedo cambiar de hosting sin perder el dominio? Puedes mantener el registro donde está y conectar el nuevo hosting mediante DNS, sin transferir el dominio. Comprueba los registros del sitio y del correo antes de cambiarlos.",
         "¿Necesito un dominio para tener correo? Sí. Para una dirección como tu@tuempresa.com, el dominio tiene que existir; el hosting no es obligatorio, y Hostinger dice que se puede usar el dominio solo para correo o para redirigir a otro sitio.",
-        "¿Puedo transferir un dominio de Hostinger a otro registrador? Depende de la elegibilidad de la extensión y de los bloqueos aplicables. Comprueba el procedimiento y, cuando corresponda, desbloquea, obtén el código y confirma la solicitud. Una transferencia completada queda fuera del reembolso estándar.",
+        "¿Puedo transferir un dominio de Hostinger a otro registrador? Sí, siempre que la extensión lo permita y no haya bloqueo. Comprueba el procedimiento y, cuando corresponda, desbloquea, obtén el código y confirma la solicitud. Una transferencia completada queda fuera del reembolso estándar.",
         "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
       ]
     },

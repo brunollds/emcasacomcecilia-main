@@ -170,7 +170,7 @@
       "bullets": [
         "Puis-je changer d’hébergement sans perdre le domaine ? Vous pouvez conserver son enregistrement et connecter le nouvel hébergement par DNS, sans transférer le domaine. Vérifiez les enregistrements du site et de l’e-mail avant de les modifier.",
         "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
-        "Puis-je transférer un domaine Hostinger vers un autre registrar ? Cela dépend de l’éligibilité de l’extension et des verrouillages applicables. Vérifiez la procédure puis, si nécessaire, déverrouillez, obtenez le code et confirmez la demande. Un transfert abouti est exclu du remboursement standard.",
+        "Puis-je transférer un domaine Hostinger vers un autre registrar ? Oui, à condition que l’extension le permette et qu’il n’y ait pas de verrouillage. Vérifiez la procédure puis, si nécessaire, déverrouillez, obtenez le code et confirmez la demande. Un transfert abouti est exclu du remboursement standard.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },

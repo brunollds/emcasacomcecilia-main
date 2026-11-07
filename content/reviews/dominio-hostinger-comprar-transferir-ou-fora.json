@@ -193,7 +193,7 @@
     {
       "heading": "Qual caminho escolher",
       "paragraphs": [
-        "**Eu compraria na Hostinger** se o painel único fosse uma vantagem para a minha rotina e a renovação estivesse dentro do orçamento. Confiro o preço de renovação antes de pagar.",
+        "**Eu compraria na Hostinger** se o painel único fosse uma vantagem para a minha rotina e a renovação estivesse dentro do orçamento. Conferiria o preço de renovação antes de pagar.",
         "**Eu manteria fora e conectaria o DNS** se já tivesse o domínio ou preferisse separar os serviços. Antes de alterar a configuração, conferiria os registros usados pelo site e pelo e-mail.",
         "**Eu transferiria o registro** apenas depois de confirmar elegibilidade da extensão, bloqueios, custo e efeito no prazo de validade. Compare esse conjunto com o preço que paga hoje; incluir um ano não transforma toda transferência em economia.",
         "Se a dúvida é somente onde hospedar o site, comece avaliando a conexão sem transferência. Planeje qualquer alteração de DNS sem presumir que um desses caminhos garanta continuidade."
@@ -213,7 +213,7 @@
         "Posso trocar de hospedagem sem perder o domínio? Você pode manter o registro onde está e conectar a nova hospedagem por DNS, sem transferir o domínio. Confira os registros usados pelo site e pelo e-mail antes da mudança.",
         "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
         "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
-        "Dá para transferir o domínio da Hostinger para outro registrador? Depende da elegibilidade da extensão e dos bloqueios aplicáveis. Confira o procedimento e, quando exigido, desbloqueie, obtenha o código e confirme a solicitação. Uma transferência concluída não recebe reembolso padrão.",
+        "Dá para transferir o domínio da Hostinger para outro registrador? Dá, desde que a extensão permita e não haja bloqueio. Confira o procedimento e, quando exigido, desbloqueie, obtenha o código e confirme a solicitação. Uma transferência concluída não recebe reembolso padrão.",
         "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
     },

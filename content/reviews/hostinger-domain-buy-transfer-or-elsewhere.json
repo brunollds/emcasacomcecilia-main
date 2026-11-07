@@ -46,7 +46,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "The domain is a separate account from the hosting: it can stay at Hostinger or elsewhere, and the site works either way. Choose by the renewal price and by how easy it is to leave, not by the first year. Buy at Hostinger if you want everything in one panel, and transfer only eligible domains (generic extensions: at least 60 days since registration or the last transfer)."
+        "The domain is a separate account: it can stay at Hostinger or elsewhere, and the site works either way. Choose by the renewal price and how easy it is to leave, not by the first year. Buy at Hostinger if you want one panel; transfer only eligible domains (generic extensions: 60 days or more since registration or the last transfer)."
       ]
     },
     {
@@ -170,7 +170,7 @@
       "bullets": [
         "Can I change hosting without losing the domain? You can keep the registration where it is and connect the new hosting through DNS, without transferring the domain. Check the website and email records before changing them.",
         "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
-        "Can I transfer a domain from Hostinger to another registrar? It depends on extension eligibility and applicable locks. Check the procedure and, where required, unlock it, obtain the code and confirm the request. A completed transfer is excluded from standard refunds.",
+        "Can I transfer a domain from Hostinger to another registrar? Yes, as long as the extension allows it and there is no lock. Check the procedure and, where required, unlock it, obtain the code and confirm the request. A completed transfer is excluded from standard refunds.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
