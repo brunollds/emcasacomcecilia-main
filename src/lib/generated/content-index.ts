@@ -34661,7 +34661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelos dados públicos: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento; para isso, veja a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao). Para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "Sim, pelos dados públicos: a I Wanna Sleep tem CNPJ ativo, lojas físicas e Sleeptest de 100 dias para colchões. Isso não mede o atendimento, que a [análise de reputação no Reclame Aqui](/reviews/i-wanna-sleep-reclame-aqui-nota-reputacao) cobre. Para comprar com desconto, o [cupom I Wanna Sleep](/cupons/i-wanna-sleep) traz o CECIEMCASA, 10% OFF no site oficial."
         ]
       },
       {
@@ -41126,7 +41126,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso. É uma medida de conforto e não substitui avaliação de saúde."
+          "A Aliv Head Gel IWS é uma máscara térmica reutilizável, fria ou quente, que cobre testa, têmporas e olhos sem tiras. Serve a quem quer uma compressa para descansar, mas a temperatura e o bloqueio de luz variam com o uso, e ela não substitui avaliação de saúde. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
         ]
       },
       {
@@ -41286,7 +41286,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro, então dá para comprar no site oficial. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil no dia da compra. Para desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "A loja online da I Wanna Sleep está no nível RA1000 do Reclame Aqui, com nota 8,5 entre abril e setembro, então dá para comprar no site oficial. Respondeu todas as 189 reclamações, e a queixa mais comum é atraso na entrega; confira o perfil ao comprar. O CECIEMCASA, 10% OFF no site, está no [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -44070,7 +44070,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Melatonina Gummy IWS: resposta rápida",
         "paragraphs": [
-          "A Melatonina Gummy IWS é um suplemento alimentar para adultos de 19 anos ou mais, com 0,21 mg de melatonina por goma. A IWS orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica. Não é medicamento nem tratamento para insônia."
+          "A Melatonina Gummy IWS é um suplemento alimentar para adultos de 19 anos ou mais, com 0,21 mg de melatonina por goma. A IWS orienta 1 goma ao dia, de 1 a 2 horas antes de dormir, ou conforme orientação médica, e não é medicamento nem tratamento para insônia. O CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
         ]
       },
       {
@@ -45260,7 +45260,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O capítulo Qual linha escolher liga cada perfil à linha certa."
+          "Escolha pela posição em que você dorme e pelo material de que gosta, não pelo nome da linha. Quem dorme de lado precisa de altura que preencha o espaço do ombro, e quem não gosta de afundar prefere látex ou fibra ao viscoelástico. O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep."
         ]
       },
       {
@@ -46097,7 +46097,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha o Igloo se quer um cobertor reversível, com um lado fresco e outro quente, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e o toque que você prefere; o veredito está em Qual escolher: o cobertor certo para cada perfil."
+          "Escolha o Igloo se quer um cobertor reversível, com um lado fresco e outro quente, o Huggy para inverno frio, o Puffer Ultralight para peso leve e o Cozy para o toque fofinho. O que pesa é o clima do quarto e o toque que você prefere. O CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep."
         ]
       },
       {
@@ -50089,7 +50089,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico. Faz sentido como marcador de rotina de sono, não como solução; o capítulo Vale a pena? Nosso veredito mostra para quem compensa."
+          "O SleepSpray Kidz é um spray aromático de camomila, lavanda e laranja doce para travesseiro, sem melatonina, indicado a partir de 2 anos. A IWS diz que não é medicamento e não cita estudo clínico, então faz sentido como marcador de rotina de sono, não como solução. O CECIEMCASA dá 10% OFF no site."
         ]
       },
       {
@@ -52019,7 +52019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: o Pillow Top Magnum vale a pena?",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. O que decide é o estado do colchão, e na dúvida sobre dor nas costas o caminho é o médico."
+          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. Na dúvida sobre dor nas costas, o caminho é o médico; o CECIEMCASA dá 10% OFF no site da I Wanna Sleep."
         ]
       },
       {
@@ -61734,7 +61734,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, que permite tirar enchimento, com os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca; a Emma, 14 noites com reembolso. Os dois modelos da Ortobom citados custam menos, mas as páginas não informam teste em casa."
+          "Para ajustar a altura em casa, compare o Snow da I Wanna Sleep, com enchimento removível, e os modelos de camadas da Emma. A I Wanna Sleep dá 30 dias de teste com crédito para troca e 10% OFF no site com o CECIEMCASA; a Emma, 14 noites com reembolso. Os da Ortobom custam menos, mas sem teste informado."
         ]
       },
       {
@@ -83845,7 +83845,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural e teste com crédito para troca. Compare construção, altura e condições antes de escolher."
+          "Nos preços registrados, a Ortobom tinha opções de entrada mais baratas; isso não vale para todo material ou modelo. A I Wanna Sleep oferecia látex natural, teste com crédito para troca e 10% OFF em todo o site com o CECIEMCASA. Compare construção, altura e condições antes de escolher."
         ]
       },
       {
@@ -179186,7 +179186,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem procura travesseiro: a I Wanna Sleep vende dez modelos e informa altura, material e tamanho, e é por isso que se escolhe. Melatonina e spray entram só pelo rótulo, e colchão não se compra pelo site. O que muda a conta é o kit e o código; veja os capítulos de kits e de compra."
+          "Sim, para quem procura travesseiro: a I Wanna Sleep vende dez modelos e informa altura, material e tamanho, e é por isso que se escolhe. Melatonina e spray entram só pelo rótulo, e colchão não se compra pelo site. O que muda a conta é o kit e o código CECIEMCASA, de 10% OFF em todo o site."
         ]
       },
       {
