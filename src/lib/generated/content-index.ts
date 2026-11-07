@@ -36051,7 +36051,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF a partir de 100 reais, e a aplicação em combos depende da campanha."
+          "Dá para ganhar a Mini Me nos combos com cápsulas ORIGINAL ou levá-la no combo com 20 caixas, e a conta fecha quando você já compraria as caixas. O que pesa é o preço da caixa no carrinho. No site oficial, o cupom CECI dá 10% OFF acima do pedido mínimo, e a aplicação em combos depende da campanha."
         ]
       },
       {
@@ -38970,7 +38970,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como funciona a assinatura",
         "paragraphs": [
-          "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com 25% de desconto e frete grátis em pedidos de 3 caixas ou mais, no cartão, e o plano regular pode ser cancelado sem multa. No nosso teste, o CECI, que dava 5% na época, somou com os 25%. Hoje ele dá 10% a partir de 100 reais."
+          "A Assinatura NESCAFÉ Dolce Gusto entrega cápsulas a cada 1, 2 ou 3 meses, com 25% de desconto e frete grátis em pedidos de 3 caixas ou mais, no cartão, e o plano regular pode ser cancelado sem multa. O cupom CECI dá 10% OFF acima do pedido mínimo e já somou com os 25%; confira no carrinho."
         ]
       },
       {
