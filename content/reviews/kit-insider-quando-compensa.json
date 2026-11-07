@@ -29,13 +29,13 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Kit de camiseta Tech ou Heavy compensa, e mais quanto maior o kit: o de 5 Tech sai bem mais barato por peça que a avulsa, e com o cupom EMCASACOMCECILIA o carrinho baixou ainda mais. Na cueca, só o kit de 2 Comfort economiza de verdade."
+        "Compensa para quem já quer cinco ou dez camisetas Tech: na tabela, o kit de 5 custa menos por peça que a avulsa, e o cupom EMCASACOMCECILIA entrou por cima do kit de 5 no nosso teste. No kit de 3, a economia é pequena."
       ]
     },
     {
       "heading": "Como ler a conta do kit",
       "paragraphs": [
-        "A conta é o preço do kit dividido pelo número de peças, comparado com a peça avulsa. O \"de\" que a loja mostra ao lado do kit usa o preço antigo das peças e não serve de base: o kit de 3 Tech aparece \"de R$ 507\", mas 3 Tech avulsas custam R$ 387.",
+        "Compare o preço do kit dividido pelo número de peças com as mesmas peças avulsas no mesmo dia. O preço riscado do kit não substitui essa conta: um kit de 3 Tech aparecia “de R$ 507”, mas três avulsas de R$ 129 somavam R$ 387.",
         "Os preços são os do cartão da loja em 30/10/2026, e o preço do dia pode ser outro: confira na loja. A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) avulsa custa R$ 129, de PP a XXGG. A loja também tem cadastros com um tamanho só, em geral PP, mais baratos, que ficam fora da conta.",
         "Com a Black Friday, os preços podem mudar. Antes de comprar, veja a [Black Friday Insider 2026](/reviews/black-friday-insider)."
       ],
@@ -52,7 +52,7 @@
     {
       "heading": "Camisetas: a tabela",
       "paragraphs": [
-        "Na tabela, cada linha compara o kit com as avulsas: o de 5 e o de 10 Tech compensam, e o de 3, pouco."
+        "Preços no cartão, sem cupom e antes do frete. Cada linha compara o kit com a referência avulsa indicada; confira as mesmas cores e tamanhos no pedido."
       ],
       "comparisonTable": {
         "headers": [
@@ -123,7 +123,7 @@
         ]
       },
       "postParagraphs": [
-        "A loja tem dois kits de 3 Tech com nomes parecidos. O de R$ 355,50 é o que entra na tabela. O outro, de R$ 456, custa R$ 69 a mais que as três avulsas."
+        "As duas versões de 3 Tech estão na tabela: a de R$ 355,50 ficava abaixo das três avulsas; a de R$ 456 custava R$ 69 a mais. Os nomes parecidos não significam o mesmo preço."
       ]
     },
     {
@@ -203,7 +203,7 @@
     {
       "heading": "Cuecas e undershirt: a tabela",
       "paragraphs": [
-        "Peça avulsa de referência: [Cueca Comfort](https://creators.insiderstore.com.br/ptFyZqS) a R$ 79, [Cueca Performance](https://creators.insiderstore.com.br/nD3bAuj) de R$ 79 a R$ 95, conforme a variante, Cueca Slip a R$ 75 e undershirt Moderado de R$ 145 a R$ 159."
+        "Preços no cartão, sem cupom e antes do frete. Referências avulsas: [Comfort](https://creators.insiderstore.com.br/ptFyZqS) a R$ 79; [Performance](https://creators.insiderstore.com.br/nD3bAuj) de R$ 79 a R$ 95, conforme a variante; Slip a R$ 75; undershirt Moderado de R$ 145 a R$ 159. Compare o kit com a mesma variante que pretende levar."
       ],
       "comparisonTable": {
         "headers": [
@@ -353,7 +353,7 @@
         "Compensa pouco: Tech de 3, Cueca Comfort ou Performance de 3 e de 5, Slip de 5 e undershirt de 3.",
         "Não compensa: Daily de 3 (2%) e o kit de 3 Tech de R$ 456, que custa R$ 69 a mais que as avulsas."
       ],
-      "emphasis": "Pelos números da tabela, para camisetas lisas a escolha é o kit de 5 Tech, porque sai a R$ 108,88 por peça, contra R$ 129 da avulsa."
+      "emphasis": "Se você já quer cinco Tech, a tabela favorecia o kit de 5: R$ 108,88 por peça antes do cupom, contra R$ 129 da avulsa. Para outra quantidade, compare o total que pretende gastar, sem comprar peças extras só pela média menor."
     },
     {
       "heading": "Presente: outro texto",
@@ -376,7 +376,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Leve o kit de 5 ou de 10 Tech se quer várias camisetas lisas: é onde a economia por peça é maior.",
+      "Você já quer cinco ou dez camisetas Tech: compare esses kits com a mesma quantidade de avulsas. A economia da tabela é histórica e não substitui a conta do seu carrinho.",
       "Leve o kit de 2 Comfort se quer cueca: é a maior economia da tabela."
     ],
     "skipIf": [

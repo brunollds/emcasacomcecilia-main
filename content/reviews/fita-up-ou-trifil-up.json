@@ -28,16 +28,16 @@
   "cons": [],
   "decision": {
     "takeIf": [
-      "Você quer escolher a largura da fita pelo número do sutiã, em bege, marrom ou preto: a Fita Up.",
-      "Você quer o adesivo de mamilo mais barato, com tamanhos em centímetros e uso à prova d’água: o Protetor de Silicone Ultrafino da Toda Up."
+      "Leve a Fita Up se quer escolher entre três larguras e as cores bege, marrom e preto. Acima do 48, confirme o tamanho com a Toda Up: o guia vai até o 54, mas o FAQ menciona até o 52.",
+      "Leve o Protetor de Silicone Ultrafino se busca o menor preço entre os dois protetores comparados e tamanhos informados em centímetros. A Toda Up o anuncia como à prova d’água."
     ],
     "skipIf": [
-      "Você quer a fita mais barata e aceita um tamanho só, até o 48: a fita da Trifil, com 5 metros e 10 protetores no combo.",
-      "Você amamenta ou está grávida: o FAQ da Toda Up não recomenda o protetor de silicone nesses casos."
+      "Passe na Fita Up se a prioridade é o menor preço entre as duas fitas e o tamanho único anunciado até o 48 atende você: a Trifil custa menos e inclui 5 metros de fita e 10 protetores.",
+      "Passe no Protetor de Silicone Ultrafino da Toda Up se está grávida ou amamenta: o FAQ da loja não recomenda essa peça nesses casos."
     ]
   },
   "cta": {
-    "text": "Para comprar a Fita Up no site oficial, entre pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+    "text": "Para comprar a Fita Up no site oficial, use o botão com o cupom MAUAD e confira o desconto no carrinho antes de pagar.",
     "label": "Ver na Toda Up",
     "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
     "sponsored": true
@@ -69,7 +69,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Fita Up e Trifil Up são marcas diferentes, e a fita da Trifil custa menos mesmo com o cupom MAUAD, mas tem um tamanho só, até o 48. A Fita Up tem três larguras, e no adesivo de mamilo o protetor da Toda Up é o mais barato. O que pesa em cada caso está em “Qual escolher”."
+        "A Fita Up é da Toda Up; a Trifil tem sua própria linha Up. Nos preços comparados, a fita da Trifil custa menos mesmo com o MAUAD na Toda Up, mas tem tamanho único, anunciado até o 48. A Fita Up oferece três larguras; entre os protetores de mamilo comparados, o da Toda Up custa menos."
       ]
     },
     {
@@ -81,10 +81,10 @@
     {
       "heading": "As duas fitas lado a lado",
       "paragraphs": [
-        "A escolha da fita começa pelo tamanho: a Fita Up se escolhe pela largura, com o número do sutiã, e a fita da Trifil vem num tamanho só. Na cola, as duas páginas prometem o mesmo: hipoalergênica, resistente à água e ao suor, por até 12 horas. O que muda é o tamanho, o que vem na caixa e o preço."
+        "A escolha da fita começa pelo tamanho: a Fita Up oferece três larguras, escolhidas pelo número do sutiã, e a Trifil vem num tamanho só. Nos preços de 6 de novembro de 2026, as duas páginas anunciam características semelhantes: adesivo hipoalergênico, resistência à água e ao suor e uso por até 12 horas. Essas promessas não mostram desempenho igual; a tabela abaixo reúne tamanho, conteúdo da caixa e preço."
       ],
       "comparisonTable": {
-        "caption": "Preços das páginas das lojas, lidos em 6 de novembro de 2026. A Toda Up leva o cupom MAUAD.",
+        "caption": "Preços das páginas das lojas e cálculo com MAUAD na Toda Up, sem frete. O valor por unidade no Leve 2 exige a compra de duas fitas.",
         "headers": [
           "",
           "Fita Up (Toda Up)",
@@ -98,7 +98,7 @@
           ],
           [
             "Preço com o cupom MAUAD",
-            "R$ 105,21; R$ 84,17 cada no Leve 2",
+            "R$ 105,21 por unidade; no Leve 2, R$ 168,34 pelas duas (R$ 84,17 cada)",
             "Não se aplica: o cupom é da Toda Up"
           ],
           [
@@ -139,9 +139,9 @@
         ]
       },
       "postParagraphs": [
-        "Conta nossa, com o MAUAD de 10% sobre o preço da página; a Trifil entra com o preço da página dela, porque o cupom não vale lá. O código está no [cupom Toda Up](/cupons/toda-up).",
-        "Mesmo com o cupom, a fita da Trifil custa menos, e o combo ainda traz 10 protetores e uma lata. A Fita Up mostra a largura, mas não a metragem, e a Trifil faz o contrário. Por isso não dá para comparar preço por metro: a conta fica no preço e no que cada caixa traz.",
-        "Para quem usa numeração alta, a diferença está no tamanho: a Fita Up na G vai até o 54 pelo guia da marca, e a Trifil, até o 48. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+        "Conta nossa: 10% de desconto com MAUAD sobre o preço da unidade ou do kit Leve 2 da Toda Up; no kit, o total é dividido por duas fitas. A Trifil entra pelo preço da página, porque o código não vale lá. Os valores não incluem frete. O código está no [cupom Toda Up](/cupons/toda-up).",
+        "Nos preços da tabela, a fita da Trifil custa menos mesmo com MAUAD na Toda Up, e o combo ainda traz 10 protetores e uma lata. A Fita Up mostra a largura, mas não a metragem, e a Trifil faz o contrário. Por isso não dá para comparar preço por metro: a conta fica no preço e no que cada caixa traz.",
+        "Para quem usa acima do 48, a Fita Up exige uma confirmação antes da compra: o guia indica G até o 54, mas o FAQ menciona até o 52. Consulte a Toda Up sobre a sua numeração. A Trifil anuncia limite de 48. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
       ],
       "image": {
         "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -157,7 +157,7 @@
         "A Trifil vende o “Sutiã Adesivo Trifil Invisível Up” como sutiã, mas a peça é um adesivo de mamilo, como o Protetor de Silicone Ultrafino da Toda Up. Por isso a comparação é com ele, e não com o Sutiã de Silicone Invisível. A página da Trifil diz que a peça tem baixa sustentação e “cola cirúrgica feita para cateter”."
       ],
       "comparisonTable": {
-        "caption": "Preços de página e com o cupom MAUAD, pela mesma conta da tabela de cima.",
+        "caption": "Preços da página, sem frete. O cálculo da Toda Up aplica 10% de desconto com MAUAD a uma unidade; o código não vale na Trifil.",
         "headers": [
           "",
           "Protetor de Silicone Ultrafino (Toda Up)",
@@ -216,8 +216,8 @@
       "heading": "Qual escolher",
       "paragraphs": [
         "**Quer escolher a fita pela largura e ter cor bege, marrom ou preto:** Fita Up. São três larguras, e a Trifil tem um tamanho só, com numeração até o 48.",
-        "**Quer a fita mais barata e serve no 48:** Trifil. Com o cupom MAUAD, a Fita Up de uma unidade custa R$ 105,21, e a Trifil sai por R$ 61,90, sem cupom, com 5 metros e 10 protetores junto.",
-        "**Quer só o adesivo de mamilo:** o Protetor de Silicone Ultrafino da Toda Up, com o cupom, sai por R$ 53,91, contra R$ 89,90 do sutiã adesivo da Trifil. O FAQ da Toda Up não recomenda o protetor na gestação nem na amamentação.",
+        "**Quer pagar menos entre as duas fitas e usa até o 48:** a Trifil é a opção de menor preço na tabela, com 5 metros e 10 protetores. Confira se o tamanho único anunciado pela marca atende você.",
+        "**Quer só o adesivo de mamilo pelo menor preço entre os dois:** o Protetor de Silicone Ultrafino da Toda Up custa menos na tabela, com MAUAD aplicado. O FAQ da Toda Up não recomenda o protetor na gestação nem na amamentação.",
         "Quem quer um sutiã com bojo e fecho, e não só o adesivo de mamilo, encontra o modelo da Toda Up em [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
       ]
     },
@@ -225,9 +225,10 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A Fita Up é da Trifil? Não. A Fita Up é da Toda Up, antiga Fita UP, de Biguaçu (SC). A Trifil tem a própria linha Up, com fita e adesivo de mamilo. Onde comprar a original está em [Fita Up: onde comprar a original](/reviews/fita-up-onde-comprar-original).",
-        "A fita da Trifil é boa? A página diz que ela é hipoalergênica, resistente à água e ao suor e dura até 12 horas, como a Fita Up. O que muda é o tamanho único e o combo com 10 protetores: veja a tabela de “As duas fitas lado a lado”.",
-        "Qual fita serve até o tamanho 54? A Fita Up, na G, pelo guia de tamanhos da marca. O FAQ da Toda Up fala em até o 52 com segurança, então confirme com a marca antes de comprar. A Trifil diz até o 48.",
-        "O sutiã adesivo da Trifil é um sutiã? A Trifil chama a peça assim, mas ela é um adesivo de mamilo. Por isso a comparação é com o Protetor de Silicone Ultrafino."
+        "A fita da Trifil é boa? As páginas anunciam as mesmas características da Fita Up, mas isso não mostra conforto nem aderência. Nos preços comparados, ela custa menos, tem tamanho único anunciado até o 48 e um combo com 10 protetores; veja a tabela de “As duas fitas lado a lado”.",
+        "Qual fita serve até o tamanho 54? O guia da Fita Up indica a G até o 54, mas o FAQ da Toda Up menciona até o 52. Confirme sua numeração com a marca antes de comprar; a Trifil anuncia até o 48.",
+        "O sutiã adesivo da Trifil é um sutiã? A Trifil chama a peça assim, mas ela é um adesivo de mamilo. Por isso a comparação é com o Protetor de Silicone Ultrafino.",
+        "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto na Toda Up; confira as regras e o valor aplicado no carrinho."
       ]
     }
   ]

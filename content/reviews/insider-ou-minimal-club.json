@@ -28,16 +28,16 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Depende do tecido. A Tech T-Shirt da Insider é de modal, com garantia de cor de 2 anos; a Camiseta Minimal é de algodão egípcio com elastano e tem 30 dias para trocar. Com o cupom da Insider, a Tech fica praticamente no preço da Tech Modal da Minimal, e o quadro por perfil diz o resto."
+        "Entre as duas de modal, a Tech T-Shirt da Insider tem garantia de cor e, com cupom, fica quase no preço da Tech Modal da Minimal. Entre Core e Camiseta Minimal, a escolha é viscose ou algodão com elastano. A Minimal Club dá mais prazo para trocar por tamanho."
       ]
     },
     {
-      "heading": "Tecido: modal da Insider ou algodão da Minimal",
+      "heading": "Tecido: modal, viscose e algodão",
       "paragraphs": [
-        "O que separa as quatro camisetas é a fibra, e as duas marcas a publicam na página do produto. No primeiro par, as duas são modal com elastano, em misturas quase iguais: parece a mesma fibra, mas é outra peça. No segundo, a diferença é de fibra: a Core é viscose, a Camiseta Minimal é algodão egípcio, as duas com um pouco de elastano.",
+        "Tech e Tech Modal usam modal com elastano em proporções próximas, com exceção da Tech índigo, que também leva viscose. A semelhança de composição não permite concluir que tenham o mesmo toque, caimento ou durabilidade. No outro par, a fibra principal muda: a Core usa viscose e a Camiseta Minimal usa algodão egípcio, ambas com elastano.",
         "A Insider chama a Core de a mais encorpada da linha, mas nenhuma das duas lojas publica o peso do tecido em g/m², então a comparação fica na descrição.",
         "Na cor índigo, a Tech muda de mistura: a página lista 62% modal, 30% viscose e 8% elastano. Vale conferir a cor antes de comprar.",
-        "Na dúvida entre as duas fibras, decida pela lavagem: o modal da Tech vem com garantia de cor por escrito; a Minimal não publica prazo de cor."
+        "Se a preocupação é desbotamento, a Tech tem uma garantia de cor com prazo e condições publicados. Essa garantia pertence à peça; a composição em modal, sozinha, não assegura conservação da cor."
       ]
     },
     {
@@ -46,40 +46,40 @@
         "São quatro peças, em dois pares: a Tech contra a Tech Modal, e a Core contra a Camiseta Minimal."
       ],
       "comparisonTable": {
-        "caption": "Preço no cartão lido na Insider e na Minimal em 05/11/2026. O Pix muda nas duas lojas e não entra na conta.",
+        "caption": "Preços no cartão em 05/11/2026. Valores com cupom calculados para uma camiseta, sem frete e sem Pix, quando o desconto se aplica ao item.",
         "headers": [
           "Modelo",
           "Tecido",
-          "Preço no cartão",
+          "Preço no cartão e com cupom",
           "Troca",
           "Garantia ou promessa"
         ],
         "rows": [
           [
             "[Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y)",
-            "92% TENCEL modal, 8% elastano",
-            "R$ 129 (de R$ 169)",
+            "92% TENCEL modal, 8% elastano; na cor índigo: 62% modal, 30% viscose e 8% elastano",
+            "R$ 129 (de R$ 169); R$ 109,65 com EMCASACOMCECILIA",
             "21 dias corridos por insatisfação; 180 dias para defeito",
             "Garantia de cor de 2 anos; antiodor (promessa da marca)"
           ],
           [
             "Minimal Tech Modal",
             "91% modal, 9% elastano",
-            "R$ 109,90",
+            "R$ 109,90; cupom da Insider não se aplica",
             "30 dias corridos; 90 dias para defeito",
             "Sem garantia de cor com prazo publicada"
           ],
           [
             "[Core T-Shirt](https://creators.insiderstore.com.br/c5rL74B)",
             "94% viscose, 6% elastano",
-            "R$ 179 (de R$ 189)",
+            "R$ 179 (de R$ 189); R$ 152,15 com EMCASACOMCECILIA",
             "21 dias corridos por insatisfação; 180 dias para defeito",
             "Maior gramatura da linha, segundo a loja; tamanho já leva 2 cm a mais no comprimento"
           ],
           [
             "Minimal Camiseta Minimal",
             "93% algodão egípcio, 7% elastano",
-            "R$ 169,90",
+            "R$ 169,90; cupom da Insider não se aplica",
             "30 dias corridos; 90 dias para defeito",
             "Sem garantia de cor com prazo publicada"
           ]
@@ -92,8 +92,8 @@
     {
       "heading": "Tech contra Tech Modal: modal com modal",
       "paragraphs": [
-        "Entre as duas de modal, a garantia de cor decide: só a Tech a tem por escrito, e com o cupom as duas saem na mesma faixa. O antiodor da Tech é promessa da marca, sem número de lavagens.",
-        "Para quem quer modal com garantia de cor, a Tech é a escolha; as condições estão em Troca e garantia, mais abaixo. Se o cupom não entrar no item, a Tech Modal é a mais barata no cartão."
+        "Entre as duas de modal, a garantia de cor favorece a Tech se esse for seu critério: só ela tem prazo publicado entre as duas peças comparadas. Com o cupom, os preços ficam próximos. O antiodor da Tech é promessa da marca, sem número de lavagens.",
+        "Para quem quer modal com garantia de cor, a Tech é a escolha; as condições estão em Troca e garantia, mais abaixo. Nos preços da tabela, se o cupom não entrar no item, a Tech Modal custa menos entre as duas no cartão."
       ],
       "images": [
         {
@@ -132,7 +132,7 @@
     {
       "heading": "Core contra Camiseta Minimal: as premium",
       "paragraphs": [
-        "Entre as premium, a fibra decide, não o preço: a Core é para quem quer a camiseta mais encorpada da Insider e aceita viscose; quem quer algodão fica na Camiseta Minimal, e aí o cupom não muda a escolha.",
+        "A Core é para quem busca a peça que a Insider descreve como a mais encorpada da linha e aceita viscose. Se você prefere algodão com elastano, escolha a Camiseta Minimal. Se a fibra for indiferente, compare o preço com cupom e o prazo de troca das duas.",
         "A página da Core diz que o tamanho já considera 2 cm a mais no comprimento, por causa do encolhimento. Ao comparar com outra marca, olhe as medidas da peça, não só o número da etiqueta."
       ],
       "images": [
@@ -151,8 +151,8 @@
           {
             "piece": "Core",
             "url": "https://creators.insiderstore.com.br/c5rL74B",
-            "howTo": "Modelagem regular e textura leve: serve como peça única, sem camada por cima.",
-            "occasion": "Casa e passeio em dias quentes.",
+            "howTo": "Use como peça única, sem camada por cima.",
+            "occasion": "Casa, passeio e compromissos informais.",
             "pairsWith": [
               {
                 "label": "Bermuda Future Shorts",
@@ -169,15 +169,21 @@
     {
       "heading": "Preço com o cupom",
       "paragraphs": [
-        "Conta nossa, pelos preços da tabela, com uma camiseta, no cartão, sem frete e sem Pix: a Tech sai por R$ 109,65 com o cupom (15% de R$ 129 são R$ 19,35), R$ 0,25 abaixo da Tech Modal; a Core sai por R$ 152,15, R$ 17,75 abaixo da Camiseta Minimal. No primeiro par a diferença são centavos; no segundo existe, mas o tecido é outro.",
-        "O cupom EMCASACOMCECILIA dá 15% na loja online da Insider, sem valor mínimo e um por pedido. Não vale na loja física nem soma com outro cupom, e a loja exclui lançamentos. A marcação de lançamento no catálogo nem sempre bate com o que o carrinho aplica, então confira se o desconto entrou em cada item.",
-        "O Pix muda nas duas lojas, então confira o preço do dia nos dois sites antes de decidir. A Insider dá frete grátis acima de R$ 399, depois do desconto; a Minimal, acima de R$ 500. Regras e o passo a passo do código estão no [cupom Insider](/cupons/insider)."
+        "Com 15% de desconto sobre os preços da tabela, para uma camiseta no cartão, sem frete e sem Pix, a Tech fica R$ 0,25 abaixo da Tech Modal; a Core, R$ 17,75 abaixo da Camiseta Minimal. A primeira diferença é de centavos; a segunda pode pesar se você aceita tanto viscose quanto algodão.",
+        "O cupom EMCASACOMCECILIA dá 15% na loja online da Insider, sem valor mínimo e um por pedido. Não vale na loja física, não soma com outro cupom e não se aplica a pedido pago com gift card. A regra da loja exclui lançamentos, mas a marcação do catálogo nem sempre coincide com a aplicação no carrinho. Confira a linha do código em cada item antes de pagar.",
+        "Confira o preço no Pix nas duas lojas antes de decidir. Na Insider, o cupom soma com o desconto do Pix, salvo restrição da promoção. A Insider oferece frete grátis acima de R$ 399, depois do desconto; a Minimal, acima de R$ 500. Compare o total com entrega para o seu CEP."
+      ],
+      "links": [
+        {
+          "label": "cupom Insider",
+          "href": "/cupons/insider"
+        }
       ]
     },
     {
       "heading": "Troca e garantia",
       "paragraphs": [
-        "Se a dúvida é o tamanho, a Minimal dá mais prazo; se a dúvida é a cor, só a Insider tem garantia com prazo. A Insider troca de graça. O arrependimento vale por 7 dias úteis; a troca por insatisfação, por 21 dias corridos, com a peça sem uso, com etiqueta e sem lavagem; e o defeito, por 180 dias, com fotos. O pedido sai pelo Portal de Trocas.",
+        "Se a dúvida é o tamanho, a Minimal dá mais prazo para trocar. Para desbotamento, só a Tech tem garantia de cor com prazo publicado. A Insider troca de graça: por insatisfação, são 21 dias corridos, com a peça sem uso, com etiqueta e sem lavagem; o pedido sai pelo Portal de Trocas.",
         "A garantia de cor da Tech é de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida; a página da Tech diz a partir de que compra ela vale.",
         "A Minimal dá 30 dias corridos para arrependimento, troca por tamanho, produto errado ou expectativa não atendida, e 90 dias para defeito. A loja paga o frete da devolução e da primeira troca."
       ]
@@ -185,23 +191,24 @@
     {
       "heading": "Qual escolher por perfil",
       "paragraphs": [
-        "Pelos números da tabela, o tecido decide e o preço quase não decide: no primeiro par, o cupom deixa as duas na mesma faixa."
+        "Entre Tech e Tech Modal, o cupom deixa o preço próximo e a garantia pode decidir. Entre Core e Camiseta Minimal, pese a diferença de preço junto da sua preferência por viscose ou algodão."
       ],
       "bullets": [
         "Quer modal, com garantia de cor por escrito: Tech T-Shirt, com o cupom.",
         "Quer algodão com elastano e mais prazo para trocar por tamanho: Camiseta Minimal.",
         "Quer a peça que a Insider chama de mais encorpada, de viscose: Core, que com o cupom sai R$ 17,75 abaixo da Camiseta Minimal.",
-        "Olha só o preço: Tech Modal da Minimal, a mais barata sem cupom nenhum; com o cupom a Tech empata, e aí a garantia desempata."
+        "Prioriza o menor preço entre as quatro no cartão: Tech Modal sem cupom; com EMCASACOMCECILIA aplicado, a Tech fica R$ 0,25 abaixo, antes do frete."
       ],
-      "emphasis": "O Bruno preferia levar a Tech T-Shirt: com o cupom, ela sai no preço da Tech Modal e traz garantia de cor por escrito, e o modal é um tecido ótimo para o verão e para lugares quentes o ano todo."
+      "emphasis": "O Bruno preferia levar a Tech T-Shirt: nos preços comparados, com o cupom aplicado, ela fica quase no preço da Tech Modal e traz garantia de cor por escrito. A garantia de dois anos depende dos cuidados e das condições descritos acima."
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é melhor, Insider ou Minimal Club? Depende do que pesa: tecido e garantia de cor apontam para a Insider; prazo de troca por tamanho aponta para a Minimal. O quadro por perfil resolve.",
+        "Qual é melhor, Insider ou Minimal Club? Entre as camisetas comparadas, a Tech da Insider tem garantia de cor com prazo; a Minimal Club oferece mais tempo para troca por tamanho e uma opção de algodão com elastano. As duas marcas têm camiseta de modal. Escolha pelo critério que pesa para você.",
         "Minimal Club vale a pena? Vale se o tamanho é a dúvida, porque a troca dela tem mais prazo e o frete da devolução fica por conta da loja. A seção de troca mostra as regras de cada uma.",
         "Camiseta Minimal ou Insider, qual a melhor? Pelo tecido, a Camiseta Minimal é algodão egípcio com elastano; a Insider tem Tech de modal e Core de viscose. Quem quer algodão fica na Minimal; quem quer modal com garantia de cor fica na Insider.",
-        "Camiseta Insider desbota? A Tech tem garantia de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida, para compras feitas a partir da data dos termos da loja. A página da Core não traz essa garantia."
+        "Camiseta Insider desbota? A Tech tem garantia de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida, para compras feitas a partir da data dos termos da loja. A página da Core não traz essa garantia.",
+        "Qual é o cupom da Insider? EMCASACOMCECILIA dá 15% de desconto nos itens elegíveis da loja online; confira as exclusões e a aplicação por item antes de pagar."
       ]
     }
   ],
@@ -209,10 +216,10 @@
     "takeIf": [
       "Leve a Tech T-Shirt se quer modal com garantia de cor por escrito e o preço com o cupom, sem trocar de tecido.",
       "Leve a Camiseta Minimal se prefere algodão com elastano e quer mais prazo para trocar por tamanho.",
-      "Leve a Core se quer a peça que a Insider chama de mais encorpada, de viscose, e ela sai abaixo da Camiseta Minimal com o cupom."
+      "Leve a Core se quer a peça que a Insider chama de mais encorpada e prefere viscose. Nos preços comparados, ela custa menos que a Camiseta Minimal com o cupom aplicado."
     ],
     "skipIf": [
-      "Passe na Tech Modal da Minimal se a garantia de cor pesa: a única garantia de cor com prazo é a da Insider.",
+      "Passe na Tech Modal da Minimal se você exige garantia de cor com prazo publicado: entre as duas de modal, essa condição está documentada para a Tech T-Shirt da Insider.",
       "Passe na Core se o que você quer é algodão: ela é de viscose, com 6% de elastano."
     ]
   },

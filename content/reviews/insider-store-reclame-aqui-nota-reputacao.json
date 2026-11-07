@@ -14,8 +14,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. Veja o que mais gera queixa e os dois alertas recentes.",
-  "metaDescription": "Insider Store no Reclame Aqui, com o cupom EMCASACOMCECILIA de 15% OFF: RA1000, nota 9,0 e 92,6% de solução, as queixas e como a loja responde.",
+  "description": "A Insider tinha RA1000 no recorte de abril a setembro. Veja as queixas mais citadas, os alertas recentes e os limites desses dados para decidir uma compra.",
+  "metaDescription": "EMCASACOMCECILIA dá 15% nos itens elegíveis da Insider. No Reclame Aqui: nota 9,0 e 92,6% de solução entre as avaliadas, de abril a setembro.",
   "publishedAt": "5 de outubro de 2026",
   "publishedAtISO": "2026-10-05",
   "draft": false,
@@ -26,16 +26,16 @@
   "imageAspect": "landscape",
   "pros": [
     "Reputação RA1000 em todos os períodos do perfil: 6 meses, 12 meses, 2025, 2024 e geral",
-    "99,4% das reclamações respondidas nos últimos 6 meses",
-    "92,6% das reclamações avaliadas foram consideradas resolvidas",
-    "Tempo médio de resposta de 2 dias e 3 horas nos últimos 6 meses",
-    "86% de quem avaliou o atendimento voltaria a fazer negócio",
+    "99,4% das reclamações respondidas no recorte de abril a setembro",
+    "92,6% das 994 reclamações avaliadas consideradas resolvidas no recorte de abril a setembro",
+    "Resposta média de 2 dias e 3 horas no recorte de abril a setembro",
+    "86% de quem avaliou no recorte de abril a setembro disseram que voltariam a fazer negócio",
     "9º lugar no ranking de melhores empresas de e-commerce de moda do Reclame Aqui"
   ],
   "cons": [
     "Produto não recebido e atraso na entrega somam mais de 4.600 reclamações em três anos",
     "Má qualidade e defeito aparecem em quase 2.500 reclamações no mesmo período",
-    "O semestre de Black Friday e Natal concentrou mais de dois terços das queixas do último ano",
+    "O semestre de outubro a março concentrou mais de dois terços dos registros do recorte anual; isso não mede risco por pedido",
     "Respostas sobre peças rasgadas citam os 90 dias do CDC, prazo menor que o da política da loja",
     "Pedidos feitos com um cupom vazado em sites de cupons foram cancelados",
     "Fora do Reclame Aqui, o atendimento é só por WhatsApp, em dias úteis"
@@ -44,7 +44,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Sim, a Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. A entrega é o problema que mais se repete, e há alertas recentes de cupom vazado e golpe. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+        "No recorte de abril a setembro, a Insider tinha reputação RA1000 e nota 9,0, com 99,4% das reclamações respondidas e 92,6% resolvidas entre as avaliadas. A entrega é o tema mais citado nas queixas, e o cupom EMCASACOMCECILIA dá 15% nos itens elegíveis no site."
       ]
     },
     {
@@ -77,7 +77,7 @@
           [
             "Reputação",
             "RA1000 — nota 9,0/10",
-            "Combinação dos quatro índices abaixo, com pesos definidos pelo Reclame Aqui"
+            "A nota usa quatro indicadores ponderados; o selo RA1000 tem critérios adicionais definidos pela plataforma"
           ],
           [
             "Reclamações recebidas",
@@ -112,7 +112,7 @@
         ]
       },
       "postParagraphs": [
-        "A nota 9,0 bate com a fórmula pública do Reclame Aqui, que dá peso 2 ao índice de resposta e à intenção de voltar a fazer negócio, e peso 3 ao índice de solução e à nota do consumidor. Ou seja, o que mais pesa é se o problema foi resolvido e como o cliente avaliou o atendimento, não só se a empresa respondeu.",
+        "A nota 9,0 confere com a fórmula pública: peso 2 para resposta e intenção de voltar a fazer negócio, peso 3 para solução e nota do consumidor. O selo RA1000 tem critérios adicionais; a nota isolada não basta para atribuí-lo.",
         "Também vale entender que as porcentagens de solução e de recompra saem só das reclamações avaliadas, que foram 994 das 1.593. Quem não volta ao site para avaliar não entra nessa conta."
       ],
       "links": [
@@ -191,7 +191,7 @@
       },
       "postParagraphs": [
         "A reputação ficou no nível máximo em todos os períodos, mas a tabela mostra duas coisas. A primeira é o volume: as reclamações passaram de 3.826 em 2024 para 5.637 em 2025, sem queda nos índices de solução, que ficaram acima de 94% nos dois anos. O atendimento também ficou mais rápido: o tempo médio de resposta caiu de 4 dias e 10 horas em 2024 para 2 dias e 3 horas no último semestre.",
-        "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, só 1.593 são do semestre mais recente; as outras cerca de 3.400, mais de dois terços, vieram de outubro a março, o período que inclui Black Friday e Natal. Fazendo a conta com os números do perfil, a nota média dada pelos consumidores nesse semestre de pico ficou em torno de 7,7, abaixo dos 8,27 do semestre seguinte. Na prática, quem compra nas grandes datas tem mais chance de enfrentar atraso e uma fila maior no atendimento."
+        "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, 1.593 eram do semestre de abril a setembro. As outras 3.420 são do semestre anterior, que inclui Black Friday e Natal. Isso mostra concentração de registros, não a chance de atraso de quem comprou."
       ]
     },
     {
@@ -222,22 +222,22 @@
     {
       "heading": "Como a Insider responde às reclamações",
       "paragraphs": [
-        "Nas reclamações mais recentes que lemos, as respostas chegaram em menos de dois dias, assinadas por uma pessoa da equipe de atendimento, a Customer Happiness Team, e não por uma mensagem genérica. O padrão é parecido: a empresa diz que analisou o caso, que enviou a solução para o e-mail de cadastro do cliente e pede para conferir também a caixa de spam. Por isso, quem reclama precisa acompanhar o e-mail, não só a página do Reclame Aqui.",
-        "Em um caso de camiseta com a costura aberta, a resposta informou que o cliente não precisaria devolver a peça. Nas reclamações sobre peças rasgadas, porém, a equipe citou o prazo de garantia legal do Código de Defesa do Consumidor, de 90 dias para vícios aparentes. A política de trocas publicada no site da Insider é mais generosa e fala em até 180 dias corridos para defeito. Se o seu problema aparecer depois de 90 dias, vale citar a política da própria loja ao pedir a solução.",
+        "No Reclame Aqui, as respostas chegaram em menos de dois dias, assinadas por uma pessoa da equipe de atendimento, a Customer Happiness Team, e não por uma mensagem genérica. O padrão é parecido: a empresa diz que analisou o caso, que enviou a solução para o e-mail de cadastro do cliente e pede para conferir também a caixa de spam. Por isso, quem reclama precisa acompanhar o e-mail, não só a página do Reclame Aqui.",
+        "Em um dos casos do Reclame Aqui, a empresa informou que o cliente não precisaria devolver a camiseta com costura aberta. Em respostas sobre peças rasgadas, a política comercial publicada prevê até 180 dias para defeito; vale citá-la ao pedir a solução.",
         "A página da empresa no Reclame Aqui informa um tempo de resposta de até 3 dias úteis, em linha com a média de 2 dias e 3 horas registrada nos últimos seis meses."
       ]
     },
     {
       "heading": "Alerta 1: cupons vazados e pedidos cancelados",
       "paragraphs": [
-        "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom pessoal de R$ 250, criado para um grupo específico de clientes e vazado em sites de cupons sem autorização. A empresa diz que todos esses pedidos foram cancelados e os valores, estornados.",
+        "No Reclame Aqui, há relatos de clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom pessoal de R$ 250, criado para um grupo específico de clientes e vazado em sites de cupons sem autorização. A empresa diz que todos esses pedidos foram cancelados e os valores, estornados.",
         "A Insider afirmou ainda que as promoções oficiais são divulgadas nos próprios canais da marca: site, e-mails da Insider e redes sociais verificadas. A lição é simples: desconfie de cupons com desconto alto demais encontrados em sites de cupons, porque o pedido pode ser cancelado depois de pago. O EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado."
       ]
     },
     {
       "heading": "Alerta 2: mensagens de golpe em nome da Insider",
       "paragraphs": [
-        "Também há reclamações recentes de clientes que dizem ter recebido mensagens suspeitas pelo WhatsApp, com dados pessoais, depois de comprar ou tentar comprar na loja. Na resposta, a Insider disse que a segurança dos dados é prioridade, que os comunicados oficiais saem só dos domínios verificados da marca e que a empresa não pede pagamentos inesperados.",
+        "No Reclame Aqui, também há relatos de clientes que dizem ter recebido mensagens suspeitas pelo WhatsApp, com dados pessoais, depois de comprar ou tentar comprar na loja. Na resposta, a Insider disse que a segurança dos dados é prioridade, que os comunicados oficiais saem só dos domínios verificados da marca e que a empresa não pede pagamentos inesperados.",
         "Se receber uma cobrança ou um link em nome da Insider fora do esperado, não pague e não clique. Confira o status do pedido entrando você mesmo em insiderstore.com.br e, em caso de dúvida, fale com o atendimento oficial."
       ]
     },
@@ -248,7 +248,7 @@
       ],
       "bullets": [
         "Fale primeiro com a Insider pelo WhatsApp, o canal oficial de atendimento, de segunda a sexta, das 9h às 18h. Tenha em mãos o número do pedido, no formato IN-XXXXX.",
-        "Para troca ou devolução, use o Portal de Trocas dentro dos prazos: 7 dias úteis para arrependimento, 21 dias corridos para insatisfação e 180 dias para defeito. Underwear e beachwear só têm troca por defeito.",
+        "Para troca ou devolução, consulte o Portal de Trocas. A central de ajuda informava 7 dias úteis para desistência, 21 dias corridos por insatisfação e 180 dias por defeito; underwear e beachwear tinham restrição comercial de troca por defeito. Essas regras não eliminam o direito legal de arrependimento online de 7 dias corridos a partir do recebimento.",
         "Em caso de defeito, fotografe a peça e a etiqueta. O portal pede pelo menos duas imagens.",
         "Se o pedido não chegar, acompanhe o rastreio e acione o atendimento assim que o prazo vencer, sem esperar semanas.",
         "Se o atendimento direto não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro na plataforma. Depois da resposta, avalie a solução: é essa avaliação que alimenta os índices de solução e de recompra."
@@ -279,27 +279,27 @@
     {
       "heading": "Dá para comprar na Insider?",
       "paragraphs": [
-        "Pelos dados do Reclame Aqui, sim. A Insider Store tem reputação RA1000, nota 9,0 nos últimos seis meses, 99,4% das reclamações respondidas, 92,6% resolvidas e 86% de quem avaliou dizendo que voltaria a comprar.",
-        "O ponto de atenção é a entrega, que lidera as reclamações, e os dois alertas recentes: o cupom pessoal vazado, que leva ao cancelamento do pedido, e as mensagens de golpe em nome da marca. Com o pedido acompanhado pelo rastreio e o WhatsApp oficial como primeiro canal, o risco de ficar sem resposta é baixo."
+        "Os indicadores do Reclame Aqui mostram um histórico favorável de atendimento: no recorte de abril a setembro, a Insider tinha RA1000, nota 9,0 e 92,6% de solução entre as 994 reclamações avaliadas. Esses dados sustentam a avaliação do pós-venda, sem garantir entrega ou resposta para um pedido específico.",
+        "A entrega merece atenção porque liderava os motivos de queixa. Os casos de cupom pessoal vazado e mensagens suspeitas aparecem nas reclamações do Reclame Aqui, com a explicação atribuída à empresa. Para uma compra nova, confira prazo, acompanhe o rastreio e use o atendimento oficial."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0 nos últimos seis meses (abril a setembro) e 8,7 nos últimos 12 meses.",
-        "A Insider Store é confiável segundo o Reclame Aqui? Os dados indicam que sim: a empresa respondeu 99,4% das reclamações dos últimos seis meses, resolveu 92,6% das avaliadas e mantém a reputação máxima em todos os períodos do perfil.",
+        "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0/10 no semestre de abril a setembro e 8,7 nos últimos 12 meses.",
+        "A Insider Store é confiável segundo o Reclame Aqui? O recorte de abril a setembro mostrava 99,4% de resposta e 92,6% de solução entre as 994 avaliadas. É um histórico favorável de atendimento, sem garantir o resultado de uma compra.",
         "Qual é a reclamação mais comum contra a Insider? Produto não recebido, com 2.745 reclamações em três anos, seguido de atraso na entrega, com 1.933.",
-        "Quanto tempo a Insider demora para responder no Reclame Aqui? A média dos últimos seis meses foi de 2 dias e 3 horas. A própria empresa informa um prazo de até 3 dias úteis.",
+        "Quanto tempo a Insider demora para responder no Reclame Aqui? No recorte de abril a setembro, a média era de 2 dias e 3 horas. O perfil também informava até 3 dias úteis.",
         "Por que a Insider cancelou meu pedido feito com cupom? No fim de setembro, a Insider cancelou e estornou pedidos feitos com um cupom pessoal de R$ 250 que vazou em sites de cupons. Segundo a empresa, as promoções oficiais saem só nos canais da marca.",
         "A Insider vende roupa que desbota? A categoria \"desbotou\" tem apenas 9 reclamações em três anos no Reclame Aqui. A Tech T-Shirt tem garantia de 2 anos contra desbotamento, desde que a etiqueta de lavagem seja seguida.",
         "Como reclamar da Insider? Comece pelo WhatsApp oficial da loja, em dias úteis, das 9h às 18h. Se não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro, e acompanhe a resposta também pelo e-mail.",
-        "Qual é o prazo de garantia para defeito na Insider? A política de trocas da loja dá até 180 dias corridos após o recebimento para defeito, com envio de fotos. Em algumas respostas, a equipe citou o prazo legal de 90 dias do CDC.",
-        "O cupom EMCASACOMCECILIA pode ser cancelado como os cupons vazados? Não há motivo para isso: o EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado. Ele vale no site, e só um cupom entra por pedido."
+        "Qual é o prazo de garantia para defeito na Insider? A política de trocas da loja dá até 180 dias corridos após o recebimento para defeito, com envio de fotos.",
+        "O EMCASACOMCECILIA é um cupom vazado? Não: é o código divulgado pela nossa parceria de creator com a Insider. Isso não garante aceitação em qualquer produto ou campanha. Confira os itens elegíveis e a linha de desconto no carrinho; vale um cupom por pedido."
       ]
     }
   ],
   "cta": {
-    "text": "Se os números te deram segurança para comprar, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai aplicado no carrinho.",
+    "text": "Entre pelo link da parceria e confira se o EMCASACOMCECILIA aplicou 15% nos itens elegíveis. Veja o desconto e o prazo de entrega antes de pagar.",
     "label": "Ir para a Insider com o cupom",
     "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
     "sponsored": true

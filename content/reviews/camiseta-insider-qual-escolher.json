@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Para mais corpo, a Heavy é 20% mais encorpada que a Tech, e a Core, de viscose, é a mais leve. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+        "Para o dia a dia, a Tech T-Shirt é a básica de 92% modal e 8% elastano. Segundo a Insider, a Heavy é 20% mais encorpada que a Tech; a Core tem viscose, modelagem regular e textura leve. O EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online, exceto em lançamentos."
       ]
     },
     {
@@ -40,7 +40,7 @@
           "Modelo",
           "Tecido, segundo a loja",
           "Preço (de)",
-          "Estoque e tamanhos"
+          "Variantes disponíveis/total e tamanhos"
         ],
         "rows": [
           [
@@ -118,9 +118,9 @@
         ]
       },
       "postParagraphs": [
-        "Estoque é o número de variantes disponíveis sobre o total. Ele muda com as vendas, então confira o tamanho antes de comprar.",
+        "Os números indicam quantas combinações de cor e tamanho estavam disponíveis no cadastro da loja, não quantas peças havia no depósito. Confira a disponibilidade atual do seu tamanho.",
         "A loja às vezes tem cadastros com sobra de PP e preço mais baixo. A tabela usa o cadastro principal de cada peça.",
-        "A Oversized aparece só na tabela, sem link: resta uma peça, em PP.",
+        "A Oversized aparece só na tabela, sem link: havia uma variante disponível, no tamanho PP.",
         "Se a dúvida é a marca em si, com o preço, onde comprar e a troca, veja [Insider vale a pena?](/reviews/insider-vale-a-pena). A Light é vendida no Mercado Livre e está sem estoque no site: veja [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site)."
       ]
     },
@@ -128,7 +128,7 @@
       "heading": "Tech T-Shirt: a base do dia a dia",
       "paragraphs": [
         "A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) é a base do dia a dia: 92% modal e 8% elastano, por R$ 129, e a marca diz que desamassa no corpo e tem efeito antiodor.",
-        "A garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As outras linhas não trazem essa garantia.",
+        "A garantia de 2 anos contra desbotamento da Tech vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As páginas das outras linhas não trazem essa garantia.",
         "Quem leva mais de uma pode olhar o kit: o de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
         "As versões femininas, com a Tech, a Gola V e a manga longa, estão em [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher)."
       ],
@@ -202,7 +202,7 @@
     {
       "heading": "Heavy e Heavy Slim: corpo e caimento",
       "paragraphs": [
-        "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) é 20% mais encorpada que a Tech: não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized. O preço vai de R$ 155 a R$ 199, conforme a cor e o tamanho.",
+        "Segundo a Insider, a [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) é 20% mais encorpada que a Tech, tem caimento mais liso e gramatura entre a Tech e a Oversized. É a opção a comparar se você prefere mais estrutura. Na tabela, o preço vai de R$ 155 a R$ 199, conforme cor e tamanho.",
         "A [Heavy Slim](https://creators.insiderstore.com.br/DVarEMW), também de 92% modal, tem gola fina, mangas um pouco mais curtas e tronco ajustado, diz a página. Sai por R$ 179 (de R$ 199), e a própria página indica a Heavy para quem quer um modelo mais solto."
       ],
       "images": [
@@ -226,7 +226,7 @@
         "items": [
           {
             "piece": "Heavy e Heavy Slim",
-            "howTo": "O tecido mais encorpado marca menos o corpo; a Slim, de gola fina e tronco ajustado, fica mais rente.",
+            "howTo": "A Heavy é a opção mais encorpada segundo a ficha; a Slim, de gola fina e tronco ajustado, fica mais rente.",
             "occasion": "Por baixo de blazer ou jaqueta, em cor neutra.",
             "pairsWith": [
               {
@@ -244,7 +244,7 @@
     {
       "heading": "Core e Daily: viscose, gramatura e encolhimento",
       "paragraphs": [
-        "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a de maior gramatura, modelagem regular e textura leve. A página diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento da primeira lavagem.",
+        "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), que a tabela registra por R$ 179 (de R$ 189), tem modelagem regular e textura leve, segundo a loja. Na página do produto, o comprimento já considerava 2 cm a mais para o encolhimento da primeira lavagem.",
         "A [Daily](https://creators.insiderstore.com.br/bRopqTz) custa R$ 99 (de R$ 139), o menor preço da tabela, e já tem o desconto máximo, por isso não aceita cupom. Ela pode encolher até 2 cm no comprimento; o limite de cada linha e como lavar estão em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar)."
       ],
       "images": [
@@ -428,13 +428,13 @@
       "heading": "Tamanho, garantia e troca",
       "paragraphs": [
         "Os tamanhos de cada linha estão na tabela acima. Para escolher, use a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider).",
-        "Pela central de ajuda, a troca é gratuita. O arrependimento vale por 7 dias úteis. A troca por insatisfação vale por 21 dias corridos, sem uso, com etiqueta e sem lavagem. Para defeito, o prazo é de 180 dias, com fotos. O pedido sai pelo Portal de Trocas."
+        "Segundo a central de ajuda da Insider, a troca é gratuita, a desistência vale em 7 dias úteis e a troca por insatisfação em 21 dias corridos, sem uso, com etiqueta e sem lavagem. Para defeito, o prazo informado é de 180 dias, com fotos. Confira as condições atuais no Portal de Trocas."
       ]
     },
     {
       "heading": "Para escolher uma só, a Tech T-Shirt",
       "paragraphs": [
-        "A Tech é a única linha com garantia de 2 anos contra desbotamento; as outras não trazem essa garantia. Quem quer mais corpo olha a Heavy."
+        "A Tech traz garantia de 2 anos contra desbotamento nas condições informadas pela loja; as páginas das outras linhas não a trazem. Quem quer mais corpo pode comparar a Heavy."
       ],
       "emphasis": "Para escolher uma só, a escolha é a Tech T-Shirt, porque é o ponto de partida do dia a dia, com garantia de 2 anos contra desbotamento."
     },
@@ -445,17 +445,17 @@
         "A Core encolhe? Pode: a página diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento da primeira lavagem. O limite de cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
         "Qual a diferença entre Tech e Heavy? Pela descrição da loja, a Heavy é 20% mais encorpada que a Tech e tem caimento mais liso. As duas são de 92% modal e 8% elastano.",
         "Dá para usar camiseta com calça social? Dá, num visual de trabalho menos formal: a polo ou uma camiseta lisa de cor neutra.",
-        "Qual camiseta usar por baixo do blazer? Lisa, de cor neutra e gola careca. Entre as da Insider, a Heavy é mais encorpada que a Tech e marca menos o corpo.",
+        "Qual camiseta usar por baixo do blazer? Uma lisa, de cor neutra e gola careca. A Heavy é mais encorpada que a Tech segundo a Insider; compare a modelagem e as medidas para escolher o caimento.",
         "O cupom vale na Daily? Não. A página diz que a Daily já tem o desconto máximo.",
         "Kit de camiseta compensa? O kit de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
-        "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
+        "Dá para devolver se não servir? Sim, dentro dos prazos da loja: 7 dias úteis para desistência e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem. Consulte o Portal de Trocas para o seu pedido."
       ]
     }
   ],
   "decision": {
     "takeIf": [
       "Leve a Tech se quer a camiseta do dia a dia, sozinha ou por baixo de camisa aberta, com garantia de 2 anos contra desbotamento.",
-      "Leve a Heavy se não quer a camiseta marcando o corpo ou vai usá-la por baixo do blazer.",
+      "Compare a Heavy se prefere tecido mais encorpado ou uma camiseta para usar por baixo do blazer.",
       "Leve a Performance ou a Sportee se é para treino ao ar livre: as duas trazem proteção UV50+ na descrição."
     ],
     "skipIf": [

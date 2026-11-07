@@ -573,7 +573,7 @@
        "op": "replace",
        "ponteiro": "/contentSections/0/paragraphs/0",
        "antes": "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey, o pouch de 1,8 kg da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA fica abaixo do pouch da Integralmédica se o cupom der os 10% cheios; sem o cupom, a Integralmédica vence.",
-       "depois": "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey de 1,8 kg, o pouch da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica fica abaixo do pouch da Integralmédica só com o cupom no teto de 10%; sem ele, a Integralmédica vence."
+       "depois": "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey de 1,8 kg, o pouch da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA no teto de 10% fica abaixo do pouch da Integralmédica; sem ele, a Integralmédica vence."
       },
       {
        "op": "replace",
@@ -593,6 +593,9 @@
        "antes": "Leve o refil da Probiótica com o cupom se compra whey de 900 g.",
        "depois": "Você compra whey de 900 g e confirma no carrinho que o cupom deixa o refil abaixo do pouch da Integralmédica."
       }
+     ],
+     "ajustes_pos_gate": [
+      "Bruno (07/11): a resposta rápida cita o PRO10EMCASACOMCECILIA e fala em \"teto de 10%\" no lugar de \"só com o cupom no teto\""
      ]
     },
     {

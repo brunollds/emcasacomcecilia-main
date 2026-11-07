@@ -72,11 +72,11 @@
         "O passo a passo do nosso teste, com o brinde no ar:"
       ],
       "bullets": [
-        "Adicione uma peça ao carrinho. Pode ser um kit: um kit de 3 conta como uma peça.",
-        "Na janela de brindes, encontre o cartão \"T-Shirts Oversized Algodão\", com R$ 129,00 riscado e R$ 0,00.",
-        "Escolha a **cor** e o **tamanho** entre as opções que a janela mostra.",
-        "Clique em **\"Selecionar\"**.",
-        "Confira o carrinho: a T-Shirt aparece como item, com R$ 129,00 riscado e R$ 0,00. No nosso teste, ela entrou na cor Preto, tamanho P."
+        "Adicionamos uma peça ao carrinho; no teste, o kit de três contava como uma peça.",
+        "Na janela de brindes aparecia o cartão “T-Shirts Oversized Algodão”, com R$ 129,00 riscado e R$ 0,00.",
+        "A janela oferecia escolha de cor e tamanho entre as opções disponíveis.",
+        "A escolha era confirmada em “Selecionar”.",
+        "No carrinho do teste, a T-Shirt apareceu a R$ 0,00, com R$ 129,00 riscado, na cor Preto e tamanho P."
       ],
       "postParagraphs": [
         "A loja chama a T-Shirt Oversized de best-seller da marca: 100% algodão penteado premium.",
@@ -164,7 +164,7 @@
       "bullets": [
         "**Frete grátis acima de R$ 599.** No nosso teste, com o total de R$ 477,09, a barra do topo dizia \"Faltam R$ 121,91 para frete grátis\". 599,00 − 477,09 = 121,91: a loja conta o total **depois do cupom**, não o preço de tabela nem o subtotal. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" do resumo do pedido. Se o carrinho está perto dos R$ 599, aplique o cupom primeiro e confira a barra depois.",
         "**Cashback de 10% em créditos.** A página de cashback da loja, diz que os créditos são concedidos automaticamente na compra pelo site, ficam disponíveis em até 1 dia útil e valem por 30 dias. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\". O cupom e o cashback valem no mesmo pedido.",
-        "**Devolução grátis.** O prazo é de 30 dias corridos depois do recebimento, e a postagem não é cobrada. Cupom, cashback e frete grátis não são reembolsados na devolução. O passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel)."
+        "**Devolução grátis.** A loja informava prazo de 30 dias corridos após o recebimento e postagem sem custo. Cupom, cashback e frete grátis não são reembolsados na devolução. Veja [Cléa Store é confiável?](/reviews/clea-store-e-confiavel)."
       ]
     },
     {

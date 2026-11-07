@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A camiseta da Cléa Store pela ficha da loja: composição, modelagem oversized, os 6 modelos com cores, o preço da avulsa e do kit, quando o kit compensa e os cuidados.",
-  "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta é boa? Só oversized, 6 modelos e o preço por peça no kit de 3.",
+  "description": "Camiseta Cléa Store pela ficha: composição do corpo e da gola, corte oversized, cores e tamanhos. Compare a avulsa com cinco kits e veja como calcular o preço por peça.",
+  "metaDescription": "CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta oversized, avulsa ou em cinco kits: compare o preço por peça.",
   "publishedAt": "23 de outubro de 2026",
   "publishedAtISO": "2026-10-23",
   "draft": false,
@@ -25,8 +25,8 @@
   "imageAspect": "landscape",
   "decision": {
     "takeIf": [
-      "Leve o kit de três em promoção se você veste oversized e quer o menor preço por peça.",
-      "Leve a avulsa se você quer uma cor só ou completar um kit."
+      "Considere o kit se quer três camisetas e o preço por peça fica menor que o da avulsa no mesmo dia.",
+      "Considere a avulsa se quer apenas uma camiseta. Para três peças, compare também o kit Essenciais, que permite escolher e repetir cores."
     ],
     "skipIf": [
       "Passe nesta camiseta se você procura corte regular ou baby look: o catálogo só tem oversized.",
@@ -65,15 +65,12 @@
     {
       "heading": "Tecido e composição: o que a ficha informa",
       "paragraphs": [
-        "A Cléa Store vende camiseta em um modelo só, o oversized. Os preços deste guia são os de lista do site, sem cupom, lidos em 04/11/2026: R$ 129,00 a peça avulsa e R$ 387,00 o kit de três. Este guia usa a ficha da loja, a composição informada, o preço de lista e a tabela de medidas, e não opina sobre toque, caimento ou durabilidade.",
-        "Na ficha da T-Shirts Oversized Algodão, o corpo da peça é 100% algodão penteado premium. A ribana da gola tem 97% algodão e 3% elastano. Ou seja, o elastano está só na ribana, não no corpo. Os cinco kits trazem a mesma composição.",
-        "\"Algodão penteado premium\" é o nome que a loja dá ao tecido. Este guia usa o termo como a loja usa.",
-        "A loja descreve o tecido como leve, respirável e de toque natural e macio.",
-        "A gramatura da malha, o peso do tecido, não está na ficha."
+        "A ficha informa corpo 100% algodão penteado premium e ribana da gola com 97% algodão e 3% elastano; os cinco kits repetem essa composição. O elastano está só na ribana, não no corpo.",
+        "\"Algodão penteado premium\" é a denominação da loja, que descreve o tecido como leve, respirável e de toque natural e macio. A gramatura da malha não estava publicada."
       ]
     },
     {
-      "heading": "Modelagem: só existe oversized",
+      "heading": "Modelagem: todas as camisetas são oversized",
       "paragraphs": [
         "Nas listagens de camisetas, essenciais, mais vendidos e roupas da loja, todas as camisetas são oversized. A loja chama a oversized de camiseta básica; não há corte regular nem baby look no catálogo lido. A palavra \"oversized\" aparece na descrição de todos os modelos, inclusive no kit Essenciais, e a loja fala em caimento amplo.",
         "Todos vêm em P, M e G. Como o corte é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher)."
@@ -107,9 +104,9 @@
       }
     },
     {
-      "heading": "Os 6 modelos de camiseta lado a lado",
+      "heading": "Avulsa e cinco kits: cores, tamanhos e preço",
       "paragraphs": [
-        "Uma avulsa e cinco kits de três, pelo preço de lista do site, sem cupom. Na lista, o kit custa o mesmo que três avulsas: R$ 129,00 por peça nos dois casos."
+        "Preços de lista do site em 04/11/2026, sem frete ou cupom: uma avulsa e cinco kits de três. Nesses preços, a peça sai por R$ 129,00 tanto na avulsa quanto no kit."
       ],
       "comparisonTable": {
         "headers": [
@@ -180,7 +177,7 @@
     {
       "heading": "Avulsa ou kit: quanto sai cada peça",
       "paragraphs": [
-        "No preço de lista, o kit não economiza: três avulsas custam R$ 387,00, o mesmo que o kit de três, e a peça sai por R$ 129,00 nos dois. O kit compensa quando está em promoção, o que a loja faz com frequência. No dia da compra, divida o preço do kit por três e compare com a avulsa, que também pode estar com desconto.",
+        "No preço de lista, o kit e três avulsas custam o mesmo. No dia da compra, divida o preço do kit por três e compare com a avulsa, que também pode estar com desconto. O kit economiza só se o custo por peça ficar menor e você quiser levar as três.",
         "Com o cupom CSEMCASACOMCECILIA, de 10% sobre o preço do dia, a conta pelo preço de lista fica assim:"
       ],
       "bullets": [
@@ -188,8 +185,8 @@
         "Três avulsas ou um kit de três: R$ 348,30."
       ],
       "postParagraphs": [
-        "O cupom soma com as promoções do site, em todas as formas de pagamento. No teste de checkout, com o kit em promoção a R$ 258,00 naquele dia, o total caiu para R$ 232,20. O valor final aparece no carrinho, e o preço do dia muda com a promoção. Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store).",
-        "A diferença entre os kits é só a combinação de cores. O Classic é off white, preto e marrom, o Colorful é rosa claro, verde oliva e caramelo, o Intense é chumbo, bege e vinho e o Brazil Edition é azul marinho, verde oliva e off white. No Essenciais, você monta as três cores. A avulsa é a opção para uma cor só ou para completar um kit."
+        "O CSEMCASACOMCECILIA dá 10% sobre o preço do dia, também em promoção e em qualquer forma de pagamento. No teste de checkout, o kit promocional de R$ 258,00 naquele dia ficou por R$ 232,20. As condições estão na [página do cupom Cléa Store](/cupons/clea-store).",
+        "Nos kits prontos, as cores vêm combinadas como mostra a tabela. No Essenciais, você escolhe as três e pode repetir. A avulsa atende quem quer apenas uma peça ou completar um kit."
       ],
       "images": [
         {
@@ -237,26 +234,25 @@
     },
     {
       "heading": "Vale a pena? Avulsa ou kit",
-      "emphasis": "Para quem vai levar três camisetas, a escolha é o kit Essenciais em promoção: ele deixa montar as três cores, e é no kit em promoção que a peça sai mais barata.",
+      "emphasis": "Se eu quisesse três camisetas, começaria comparando o kit Essenciais, que permite escolher e repetir as cores. Só o levaria se o preço por peça ficasse menor que o da avulsa no mesmo dia. Para uma única peça, escolheria a avulsa.",
       "emphasisAfterParagraph": 1,
       "paragraphs": [
-        "Pela ficha da loja, a camiseta tem corpo em algodão e um único corte, o oversized. Quem quer outro corte não encontra neste catálogo, e a loja não informa a gramatura. Como ninguém do site comprou nem vestiu as peças, a escolha entre avulsa e kit parte só do preço e da cor."
+        "A composição e o corte ajudam a filtrar a escolha, mas não respondem como a peça veste ou resiste às lavagens. Confira o tamanho no guia de medidas já indicado e compare a combinação de cores e o preço por peça antes de decidir."
       ],
       "bullets": [
-        "Peça avulsa: [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189), R$ 129,00, em 10 cores e nos tamanhos P, M e G.",
-        "Kit de três: R$ 387,00 de lista, R$ 129,00 por peça, o mesmo que a avulsa; em promoção, a peça do kit sai mais barata. São cinco kits, todos em P, M e G.",
-        "Composição, segundo a ficha: corpo 100% algodão penteado premium; a ribana da gola é 97% algodão e 3% elastano.",
-        "Gramatura: a loja não informa."
+        "**Uma camiseta:** compare a cor e o tamanho da [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189).",
+        "**Três camisetas:** escolha entre as combinações prontas ou o Essenciais e refaça a conta por peça com os preços do dia.",
+        "**Antes de decidir:** a composição é a informada pela loja, e a gramatura não estava publicada."
       ],
       "postParagraphs": [
-        "O cupom CSEMCASACOMCECILIA tira mais 10% no site, também sobre o preço de promoção. Pelo preço de lista, a peça avulsa sai por R$ 116,10 e o kit de três por R$ 348,30."
+        "O CSEMCASACOMCECILIA reduz o preço do site em 10%, inclusive nas promoções. Pelo preço de lista, a peça avulsa sai por R$ 116,10 e o kit de três por R$ 348,30."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Camiseta Cléa Store é boa? Este guia responde pela ficha da loja, não por opinião: corpo 100% algodão penteado premium, modelagem oversized e cuidados simples. Ninguém do site comprou nem vestiu a peça.",
-        "Kit camiseta Cléa Store vale a pena? Em promoção, sim: no preço de lista, o kit de três sai a R$ 129,00 por peça, o mesmo que a avulsa, e é a promoção do kit, frequente na loja, que baixa o preço por peça; o cupom soma com ela.",
+        "Camiseta Cléa Store é boa? Pela ficha, dá para comparar: corpo de algodão penteado, gola com elastano e corte oversized. Como a peça veste e resiste às lavagens não está na ficha; a comparação deste guia é de composição, cores, medidas e preço.",
+        "Kit camiseta Cléa Store vale a pena? Compare o preço do kit dividido por três com o preço da avulsa no mesmo dia. Nos valores de lista da tabela, não havia economia. O cupom também vale nas promoções; o kit só compensa pelo preço se o custo por peça ficar menor e você quiser três camisetas.",
         "A Cléa Store tem camiseta básica? Tem, mas a \"básica\" da loja é a própria oversized: no catálogo lido não há corte regular nem baby look.",
         "Como lavar a camiseta Cléa Store? Segundo a loja, até 30 °C, com sabão para roupa delicada, sem alvejante, secando no varal e passando até 150 °C.",
         "Qual a composição da camiseta Cléa Store? Segundo a ficha, o corpo é 100% algodão penteado premium, e a ribana da gola tem 97% algodão e 3% elastano."

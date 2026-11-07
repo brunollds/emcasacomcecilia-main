@@ -34,7 +34,7 @@
     {
       "heading": "Qual nível escolher",
       "paragraphs": [
-        "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume o que a loja publica para cada peça, e os preços e os estoques são de 20/10/2026: confira na loja antes de contar com uma cor ou um tamanho."
+        "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume as indicações e a disponibilidade das páginas em 20/10/2026; as contagens incluem variantes de cor, gola e tamanho, então confira a combinação antes de contar com ela."
       ],
       "comparisonTable": {
         "headers": [
@@ -166,7 +166,7 @@
     {
       "heading": "Preço, kit e cupom",
       "paragraphs": [
-        "Os preços são os da mesma data. A coluna do cupom é conta nossa: 15% sobre o preço da página. O valor final aparece no checkout."
+        "Os preços são os da tabela. Conta nossa, pelos preços das páginas: a coluna do cupom aplica 15%, antes de frete e de outras condições. O valor final depende do item elegível no checkout."
       ],
       "comparisonTable": {
         "headers": [
@@ -198,7 +198,7 @@
         ]
       },
       "postParagraphs": [
-        "Sem cupom, cada peça do kit sai por R$ 137,71 (R$ 413,12 divididos por três). A conta por peça é nossa, feita sobre o preço do próprio kit.",
+        "Sem cupom, o Kit 3 Moderado gola V sai por R$ 137,71 por peça, pela divisão do preço do kit. Compare com três avulsas do mesmo modelo, gola e variantes; se você só precisa de uma, compare também o gasto total do avulso.",
         "O cupom EMCASACOMCECILIA dá 15% na loja online. Ele vale uma vez por pedido e soma com o Pix e com as outras formas de pagamento. O Pix tem desconto próprio, mas o percentual muda no site: confira no checkout.",
         "No teste no checkout, o desconto apareceu num kit de cuecas com preço promocional. Antes de pagar, confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout. Se o pedido junta undershirt e cueca boxer, cada item tem a sua linha.",
         "A página do Moderado também mostra desconto por quantidade no seletor. Os valores mudam; confira no produto.",
@@ -244,7 +244,7 @@
         "Suor leve: Leve. A página não cita camada dupla nem reforço nas axilas, e ela só vem na cor bege, com gola V.",
         "Suor moderado: Moderado. Tem camada dupla na região das axilas e sai em bege, preta e branca, com gola V ou U.",
         "Suor excessivo: Block, com reforço impermeável nas axilas, segundo a marca. Estava esgotado em outubro.",
-        "Nos três casos, acerte o tamanho antes de comprar, porque a undershirt não é trocada por tamanho."
+        "Confira o tamanho antes da compra: a política comercial divulgada para a linha restringe troca e devolução a defeito de fabricação."
       ],
       "emphasis": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
       "emphasisAfterParagraph": 1
@@ -252,7 +252,7 @@
     {
       "heading": "Troca e cuidados",
       "paragraphs": [
-        "A undershirt não é trocada por tamanho. Pela central de ajuda, a linha Underwear só troca ou devolve por defeito de fabricação, e as undershirts seguem essa regra, que é política da loja para a troca voluntária. O prazo de 180 dias corridos, com fotos, é o da troca por defeito. O arrependimento da compra online é outro pedido. Por isso, acerte o tamanho antes de comprar.",
+        "A undershirt não é trocada por tamanho. Na central de ajuda, a linha Underwear só troca ou devolve por defeito de fabricação, e as undershirts seguem essa regra. O prazo de 180 dias corridos, com fotos, vale para a troca por defeito. Por isso, acerte o tamanho antes de comprar.",
         "Segundo a central de ajuda, a undershirt pode encolher até 7%. As instruções de lavagem da peça estão na etiqueta, e este texto não traz outras."
       ]
     },
@@ -268,9 +268,9 @@
       "bullets": [
         "A undershirt Insider funciona? Só pela ficha da loja não dá para dizer. A marca descreve cada nível e a construção, e as avaliações são dela. Ninguém da equipe usou as peças.",
         "Qual undershirt Insider escolher para suor moderado? A [Undershirt Antissuor Moderado](https://www.insiderstore.com.br/products/undershirt-anti-suor), indicada pela marca para transpiração moderada, com camada dupla nas axilas.",
-        "Qual a diferença entre a Leve e o Block? A Leve é para transpiração leve, e a página não declara camada dupla nem reforço. O Block é para transpiração excessiva, com reforço impermeável nas axilas, segundo a marca, e estava esgotado em outubro.",
+        "Qual a diferença entre a Leve e o Block? A Leve é indicada pela marca para transpiração leve; sua ficha não declara camada dupla. O Block é indicado para transpiração excessiva e tem reforço impermeável nas axilas, segundo a marca. Na tabela, ele aparece esgotado.",
         "A undershirt Insider tem versão feminina? Não. A linha da loja é masculina.",
-        "Dá para trocar a undershirt se não servir? Não por tamanho, pela política da loja. A troca por defeito de fabricação vale em até 180 dias corridos, com fotos.",
+        "Dá para trocar a undershirt se não servir? Não por tamanho, pela política da loja. A troca por defeito de fabricação vale em até 180 dias corridos, com fotos; confirme seu caso no atendimento.",
         "A undershirt Insider encolhe? Segundo a central de ajuda, pode encolher até 7%. Siga a etiqueta.",
         "O cupom vale na undershirt? Vale na loja online, uma vez por pedido, e soma com o Pix. Confira a linha do código de cada item no checkout.",
         "A undershirt Insider resolve o suor excessivo? Não. A peça não trata nem elimina o suor. Se o suor é excessivo ou persistente, procure um dermatologista."
@@ -285,7 +285,7 @@
     ],
     "skipIf": [
       "Passe se você espera que a peça trate ou elimine o suor: ela não trata, e o suor excessivo é caso de dermatologista.",
-      "Passe se o tamanho está em dúvida: a undershirt não troca por tamanho."
+      "Passe se você quer poder trocar por tamanho depois da compra: a política da linha não oferece essa troca."
     ]
   },
   "pros": [],

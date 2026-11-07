@@ -67,18 +67,62 @@
       },
       "comparisonTable": {
         "caption": "Camisetas femininas e kits na Insider no fim de outubro: preço riscado na página e preço do dia, antes do cupom e do Pix.",
-        "headers": ["Produto", "Preço riscado", "Preço do dia"],
+        "headers": [
+          "Produto",
+          "Preço riscado",
+          "Preço do dia"
+        ],
         "rows": [
-          ["[Tech T-Shirt Feminina](https://creators.insiderstore.com.br/52ZMYx2)", "R$ 169", "R$ 129"],
-          ["[Tech T-Shirt Gola V Feminina](https://creators.insiderstore.com.br/hwvgusR)", "R$ 169", "R$ 129"],
-          ["[Tech T-Shirt Manga Longa Feminina](https://creators.insiderstore.com.br/TQxS7si)", "R$ 239", "R$ 199"],
-          ["[Tech T-Shirt Gola Alta Manga Longa Feminina](https://creators.insiderstore.com.br/VQF6dSQ)", "R$ 239", "R$ 199"],
-          ["[Camiseta Premium NEXTECH Feminina](https://creators.insiderstore.com.br/PiVkjhd)", "R$ 215", "R$ 129"],
-          ["[Camiseta Básica Tech Daily Feminina](https://creators.insiderstore.com.br/tEKRhLY)", "R$ 139", "R$ 99"],
-          ["[Blusa Skin Cropped](https://creators.insiderstore.com.br/bgkXdGE)", "R$ 119", "R$ 99"],
-          ["[Kit 3 Tech T-Shirt Feminina](https://creators.insiderstore.com.br/s8Q4yaR)", "R$ 507", "R$ 355,50"],
-          ["[Kit 5 Tech T-Shirt Feminina](https://creators.insiderstore.com.br/D5WzCpE)", "R$ 845", "R$ 544,38"],
-          ["[Kit 3 Daily Feminina](https://creators.insiderstore.com.br/3DRoL2P)", "R$ 417", "R$ 290,76"]
+          [
+            "[Tech T-Shirt Feminina](https://creators.insiderstore.com.br/52ZMYx2)",
+            "R$ 169",
+            "R$ 129"
+          ],
+          [
+            "[Tech T-Shirt Gola V Feminina](https://creators.insiderstore.com.br/hwvgusR)",
+            "R$ 169",
+            "R$ 129"
+          ],
+          [
+            "[Tech T-Shirt Manga Longa Feminina](https://creators.insiderstore.com.br/TQxS7si)",
+            "R$ 239",
+            "R$ 199"
+          ],
+          [
+            "[Tech T-Shirt Gola Alta Manga Longa Feminina](https://creators.insiderstore.com.br/VQF6dSQ)",
+            "R$ 239",
+            "R$ 199"
+          ],
+          [
+            "[Camiseta Premium NEXTECH Feminina](https://creators.insiderstore.com.br/PiVkjhd)",
+            "R$ 215",
+            "R$ 129"
+          ],
+          [
+            "[Camiseta Básica Tech Daily Feminina](https://creators.insiderstore.com.br/tEKRhLY)",
+            "R$ 139",
+            "R$ 99"
+          ],
+          [
+            "[Blusa Skin Cropped](https://creators.insiderstore.com.br/bgkXdGE)",
+            "R$ 119",
+            "R$ 99"
+          ],
+          [
+            "[Kit 3 Tech T-Shirt Feminina](https://creators.insiderstore.com.br/s8Q4yaR)",
+            "R$ 507",
+            "R$ 355,50"
+          ],
+          [
+            "[Kit 5 Tech T-Shirt Feminina](https://creators.insiderstore.com.br/D5WzCpE)",
+            "R$ 845",
+            "R$ 544,38"
+          ],
+          [
+            "[Kit 3 Daily Feminina](https://creators.insiderstore.com.br/3DRoL2P)",
+            "R$ 417",
+            "R$ 290,76"
+          ]
         ]
       },
       "postParagraphs": [
@@ -89,7 +133,7 @@
     {
       "heading": "Calcinhas, sutiãs e underwear feminino",
       "paragraphs": [
-        "No underwear feminino, o kit sai mais barato por peça que a avulsa, e o Outlet baixa ainda mais. Em outubro, a Calcinha Biquíni Brief estava a R$ 49, de R$ 69, e o Kit 3 Calcinhas Brief a R$ 139,90, de R$ 207. No fim do mês, o mesmo kit de três apareceu no Outlet a R$ 118,20, e o de cinco a R$ 190,19, de R$ 345."
+        "Nos exemplos de underwear feminino de outubro, os kits de calcinha saíam mais baratos por peça que a avulsa, e os valores do Outlet eram menores. A Calcinha Biquíni Brief estava a R$ 49, de R$ 69, e o Kit 3 Calcinhas Brief a R$ 139,90, de R$ 207. No fim do mês, o mesmo kit de três apareceu no Outlet a R$ 118,20, e o de cinco a R$ 190,19, de R$ 345."
       ],
       "image": {
         "src": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-kit-5-brief.webp",
@@ -100,19 +144,59 @@
       },
       "comparisonTable": {
         "caption": "Calcinhas e sutiãs na Insider, na leitura do Outlet feminino de fim de outubro: preço no Outlet, preço riscado e o valor com os 15% do cupom.",
-        "headers": ["Peça", "Preço riscado", "Preço no Outlet", "Com o cupom"],
+        "headers": [
+          "Peça",
+          "Preço riscado",
+          "Preço no Outlet",
+          "Com o cupom"
+        ],
         "rows": [
-          ["[Kit 3 Calcinhas Biquíni Brief](https://creators.insiderstore.com.br/x4Qv8HF)", "R$ 207", "R$ 118,20", "R$ 100,47"],
-          ["[Kit 5 Calcinhas Biquíni Brief](https://creators.insiderstore.com.br/nyBqvep)", "R$ 345", "R$ 190,19", "R$ 161,66"],
-          ["[Kit 3 Calcinhas Tanga String](https://creators.insiderstore.com.br/i3LhqWr)", "R$ 195", "R$ 111", "R$ 94,35"],
-          ["[Kit 3 Calcinhas Hot Pant Safe](https://creators.insiderstore.com.br/2wmYH52)", "R$ 237", "R$ 127,98", "R$ 108,78"],
-          ["[Sutiã Comfy, sem bojo](https://creators.insiderstore.com.br/fuoUSQd)", "R$ 179", "R$ 99", "R$ 84,15"],
-          ["[Sutiã Top Lounge, com bojo removível](https://creators.insiderstore.com.br/wb2XzkL)", "R$ 185", "R$ 99", "R$ 84,15"],
-          ["[Sutiã Flex, triângulo sem bojo](https://creators.insiderstore.com.br/dZEzC9B)", "R$ 155", "R$ 99", "R$ 84,15"]
+          [
+            "[Kit 3 Calcinhas Biquíni Brief](https://creators.insiderstore.com.br/x4Qv8HF)",
+            "R$ 207",
+            "R$ 118,20",
+            "R$ 100,47"
+          ],
+          [
+            "[Kit 5 Calcinhas Biquíni Brief](https://creators.insiderstore.com.br/nyBqvep)",
+            "R$ 345",
+            "R$ 190,19",
+            "R$ 161,66"
+          ],
+          [
+            "[Kit 3 Calcinhas Tanga String](https://creators.insiderstore.com.br/i3LhqWr)",
+            "R$ 195",
+            "R$ 111",
+            "R$ 94,35"
+          ],
+          [
+            "[Kit 3 Calcinhas Hot Pant Safe](https://creators.insiderstore.com.br/2wmYH52)",
+            "R$ 237",
+            "R$ 127,98",
+            "R$ 108,78"
+          ],
+          [
+            "[Sutiã Comfy, sem bojo](https://creators.insiderstore.com.br/fuoUSQd)",
+            "R$ 179",
+            "R$ 99",
+            "R$ 84,15"
+          ],
+          [
+            "[Sutiã Top Lounge, com bojo removível](https://creators.insiderstore.com.br/wb2XzkL)",
+            "R$ 185",
+            "R$ 99",
+            "R$ 84,15"
+          ],
+          [
+            "[Sutiã Flex, triângulo sem bojo](https://creators.insiderstore.com.br/dZEzC9B)",
+            "R$ 155",
+            "R$ 99",
+            "R$ 84,15"
+          ]
         ]
       },
       "postParagraphs": [
-        "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três sutiãs Nakedfeel (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. Calcinhas e sutiãs só têm troca por defeito, então confira o tamanho antes de fechar."
+        "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três sutiãs Nakedfeel (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. A política da Insider restringe a troca comercial de calcinhas e sutiãs a defeito; confira o tamanho e as condições antes de fechar."
       ]
     },
     {

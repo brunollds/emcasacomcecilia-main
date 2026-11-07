@@ -56,7 +56,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O [cupom Probiótica](/cupons/probiotica) é o PRO10EMCASACOMCECILIA e dá até 10% OFF na loja, e em alguns produtos o desconto é menor. Vale em todo o site, em todas as formas de pagamento, para conta nova e para quem já comprou. O que pesa na conta é o frete grátis, cujo mínimo muda por região; veja a tabela abaixo."
+        "Digite PRO10EMCASACOMCECILIA no campo “Cupom de Desconto” do carrinho e clique em “Adicionar”. O [cupom Probiótica](/cupons/probiotica) dá até 10% OFF, com percentual menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Confira no resumo se o total ainda atinge o mínimo de frete grátis do seu CEP."
       ]
     },
     {
@@ -110,8 +110,8 @@
       "heading": "4. Confira a linha \"Descontos\" antes de pagar",
       "paragraphs": [
         "Depois do clique, o resumo do pedido muda. O código aparece no lugar do campo, com um X ao lado, e surge uma linha nova, \"Descontos\", entre o subtotal e o total, com o valor abatido em reais e com sinal de menos.",
-        "No nosso teste, o desconto foi de R$ 54,75 sobre o subtotal de R$ 659,35. É cerca de 8% do carrinho, abaixo dos 10% do título, porque o cupom não dá 10% em todos os produtos. O carrinho do teste tinha um kit e uma creatina em promoção, e o print mostra só o desconto total, sem separar quanto saiu de cada item. Então não dá para dizer que um produto específico recebe, ou não, os 10%.",
-        "Por isso, a regra prática é: **confira a linha \"Descontos\" e o total antes de pagar**. Se o valor for menor do que você esperava, é porque o desconto daquele carrinho é menor do que 10%."
+        "No teste, a linha \"Descontos\" mostrou R$ 54,75 sobre um subtotal de R$ 659,35, cerca de 8% do carrinho. O cupom oferece até 10%, com variação por produto. Por isso, não dá para afirmar que um produto específico recebe os 10%.",
+        "Confira a linha \"Descontos\" e o total antes de pagar. Compare o valor abatido com o subtotal para conhecer o percentual efetivo do seu carrinho."
       ],
       "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
       "imageAlt": "Resumo do pedido da Probiótica depois do cupom, com o código no lugar do campo e a linha Descontos com sinal de menos entre o subtotal e o total",
@@ -197,7 +197,7 @@
         "Troca na Probiótica: 7 dias para arrepender, 30 para defeito:"
       ],
       "bullets": [
-        "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+        "**Arrependimento:** 7 dias corridos a partir do recebimento. A política da loja pede embalagem original e lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
         "**Defeito:** 30 dias corridos para comunicar. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica."
       ],
       "postParagraphs": [

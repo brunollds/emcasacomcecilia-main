@@ -52873,7 +52873,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Sim, a Insider Store é confiável: CNPJ ativo, loja física, trocas sem custo e a melhor reputação do Reclame Aqui. O ponto de atenção é a entrega, onde estão as queixas.",
+    "description": "A Insider Store tem CNPJ ativo desde 2016, loja física, trocas sem custo e reputação RA1000 no Reclame Aqui de abril a setembro. O ponto de atenção é a entrega.",
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF no site da Insider. A loja é confiável? CNPJ, loja física em São Paulo, trocas, garantia, frete e Reclame Aqui.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
@@ -52885,7 +52885,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "CNPJ ativo desde novembro de 2016, o mesmo informado no rodapé do site e no Reclame Aqui",
-      "Reputação RA1000 e selo de empresa verificada no Reclame Aqui",
+      "Reputação RA1000 no recorte abril a setembro e selo de empresa verificada",
       "Troca e devolução gratuitas, com 21 dias para troca por insatisfação",
       "180 dias para acionar defeito e garantia de 2 anos contra desbotamento da Tech T-Shirt",
       "Políticas de troca, frete e pagamento publicadas e atualizadas no site",
@@ -52893,8 +52893,8 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "Atendimento só por WhatsApp, de segunda a sexta, das 9h às 18h",
-      "Produto não recebido é o problema mais citado no Reclame Aqui",
-      "Underwear e beachwear só têm troca em caso de defeito",
+      "No histórico de até 3 anos do Reclame Aqui, produto não recebido é o problema mais citado",
+      "Pela política da loja, underwear e beachwear só têm troca aceita em caso de defeito",
       "A troca direta é só pelo mesmo modelo, mudando cor ou tamanho",
       "Cupons e cashback valem só no site, não na loja física",
       "Preço acima do de camisetas básicas de algodão"
@@ -52903,7 +52903,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Insider Store é confiável: tem CNPJ ativo, trocas e devoluções sem custo e a reputação mais alta do Reclame Aqui. O ponto de atenção é a entrega, onde está a maioria das reclamações. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Sim, com atenção à entrega: a Insider tem CNPJ ativo desde 2016, trocas e devoluções sem custo e reputação RA1000 no Reclame Aqui de abril a setembro. A entrega concentra a maioria das queixas. No site oficial, o cupom [EMCASACOMCECILIA](/cupons/insider) dá 15% em itens elegíveis, exceto lançamentos."
         ]
       },
       {
@@ -52952,7 +52952,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A própria marca diz que opera desde 2017, passou de 800 mil clientes e cita Shark Tank, Y Combinator e Forbes no histórico. A Insider também afirma que as peças são criadas e desenvolvidas em São Paulo e que entrega em todo o Brasil e no exterior. São informações institucionais da empresa; o que conferimos de forma independente foram os dados do CNPJ acima.",
+          "A marca diz que opera desde 2017, passou de 800 mil clientes e cita Y Combinator e Forbes no histórico. Também afirma que as peças são criadas em São Paulo e que entrega em todo o Brasil e no exterior. São informações da própria empresa. O CNPJ acima é registro público.",
           "Além da loja para o consumidor, a marca tem a Insider Business, uma frente de vendas para empresas, com uniformes, kits de boas-vindas para funcionários e brindes corporativos."
         ]
       },
@@ -52967,7 +52967,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Insider vende",
         "paragraphs": [
-          "O produto mais conhecido é a **Tech T-Shirt**, a original desde 2019 na versão da marca, em modelo masculino e feminino. O tecido promete tratamento antiodor e desamassar com o calor do corpo. No dia da nossa checagem, a peça avulsa custava R$ 129 no site, e várias camisetas também são vendidas em kits de 2, 3 ou 5 unidades.",
+          "O produto mais conhecido é a Tech T-Shirt, apresentada pela marca como a original desde 2019, em modelos masculino e feminino. A Insider promete tratamento antiodor e que o tecido desamassa com o calor do corpo. No dia da nossa checagem, a avulsa custava R$ 129 no site. Há também kits de 2, 3 ou 5 camisetas; confira o preço e a composição atuais antes de comparar.",
           "A loja vai além das camisetas. Há a **Undershirt Antissuor**, feita para usar por baixo da camisa social, nas versões Leve, Moderado e Block (para quem sua mais), cuecas das linhas Comfort e Performance, roupas esportivas, como a Performance T-Shirt 2.0, com a tecnologia Outlast de regulação térmica, e uma linha feminina com tops, leggings e saias.",
           "Na página de sustentabilidade, a marca afirma produção 100% nacional e Tech T-Shirt carbono negativa."
         ],
@@ -52979,13 +52979,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e garantia",
         "paragraphs": [
-          "Este é o ponto em que a Insider se sai melhor do que o mínimo exigido por lei. Pela política de troca e devolução e pela central de ajuda, os prazos dependem do motivo:"
+          "A política de trocas e a central de ajuda da Insider publicam prazos diferentes por motivo:"
         ],
         "bullets": [
           "Arrependimento: até 7 dias úteis após o recebimento, com o produto sem uso e etiqueta intacta.",
           "Insatisfação com tamanho, cor ou modelo: até 21 dias corridos após o recebimento, sem uso, com etiqueta e sem sinais de lavagem.",
           "Defeito: até 180 dias corridos após o recebimento, com fotos que mostrem o problema.",
-          "Underwear e beachwear: troca ou devolução só em caso de defeito de fabricação, por questão de higiene.",
+          "Underwear e beachwear: a política da Insider restringe trocas e devoluções dessas linhas a defeito de fabricação, por questão de higiene. Se a loja recusar um arrependimento da compra online, peça a justificativa por escrito.",
           "Brindes: não são trocados nem devolvidos separadamente, e voltam junto se o pedido inteiro for devolvido."
         ],
         "postParagraphs": [
@@ -52997,7 +52997,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete, prazos e formas de pagamento",
         "paragraphs": [
-          "Pela política de frete do site, a entrega é grátis em compras acima de R$ 399, valor conferido depois dos descontos. Conta nossa, sem desconto nenhum: 3 Tech T-Shirts avulsas (3 x R$ 129 = R$ 387) ficam R$ 12 abaixo do frete grátis; confira no carrinho se o kit ou uma quarta peça compensam mais que o frete.",
+          "Na política e no carrinho, o frete grátis era oferecido acima de R$ 399, após descontos. Com a Tech T-Shirt a R$ 129, três avulsas somavam R$ 387, R$ 12 abaixo dessa faixa. Para comprar hoje, compare o total das peças que você precisa com o frete e os descontos; uma peça extra só para atingir a faixa pode custar mais que a entrega.",
           "Os termos de uso listam como formas de pagamento o Pix à vista, o Pix parcelado em até 4 vezes sem juros (pela Pagaleve), o cartão de crédito em até 3 vezes sem juros ou de 4 a 10 vezes com juros, e o boleto à vista. Alguns produtos aparecem como compra antecipada, com envio a partir de uma data futura indicada no carrinho; nesse caso, o prazo de entrega é maior que o normal."
         ]
       },
@@ -53005,15 +53005,15 @@ export const reviewsData: unknown[] = [
         "heading": "A Insider tem loja física?",
         "paragraphs": [
           "Tem. A loja fica no **MorumbiShopping**, em São Paulo (Av. Roque Petroni Júnior, 1089, lojas 108/109-S, piso superior). A provisória que funcionava ali encerrou, diz a central de ajuda, e a nova Concept Store abre de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
-          "É uma boa opção para quem quer provar antes de comprar, principalmente as peças de underwear, que não têm troca por tamanho. A loja aceita Pix, dinheiro e cartão de débito ou crédito, com parcelamento em até 3 vezes sem juros, e emite nota fiscal na hora.",
+          "A loja física permite provar as peças antes de comprar, o que pode ajudar na escolha do tamanho. A central informa que aceita Pix, dinheiro e cartão de débito ou crédito, com parcelamento em até 3 vezes sem juros, e emite nota fiscal na hora.",
           "Alguns detalhes funcionam de outro jeito na loja física. Os cupons de desconto e o cashback são exclusivos do site, então o EMCASACOMCECILIA não vale lá; as compras presenciais acumulam pontos no programa de fidelidade da marca, mas o resgate é feito pelo site. Não dá para retirar na loja um pedido feito online, e a troca precisa ser feita no mesmo canal da compra. Para quem compra na loja, a central informa 7 dias para devolução por arrependimento e 30 dias para troca por insatisfação."
         ]
       },
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Na página da Insider Store no Reclame Aqui, a empresa tem a reputação **RA1000**, a mais alta da plataforma, e o selo de empresa verificada. Nos seis meses de 1º de abril a 30 de setembro de 2026, foram 1.593 reclamações, com 99,4% respondidas e 92,6% resolvidas, e tempo médio de resposta de 2 dias e 3 horas. A nota geral da empresa no período é 9,0; a nota média dada pelos consumidores que avaliaram o atendimento ficou em 8,27, e 86% deles disseram que voltariam a fazer negócio com a loja.",
-          "Os números não significam ausência de problemas. Nos registros dos últimos três anos, **produto não recebido** é o problema mais citado, e camisetas são o produto com mais reclamações. Entre as queixas mais recentes há relatos de peças que rasgaram nas primeiras lavagens e de pedidos cancelados depois da compra, todas já respondidas pela empresa. O que a reputação mostra é que, quando algo dá errado, a Insider costuma responder e resolver."
+          "Em 05/10/2026, no Reclame Aqui, a Insider tinha reputação RA1000, a classificação mais alta da plataforma, e selo de empresa verificada. No recorte de abril a setembro, foram 1.593 reclamações, 99,4% respondidas e tempo médio de resposta de 2 dias e 3 horas. Entre as 994 avaliadas, 92,6% foram marcadas como resolvidas e 86% dos consumidores disseram que voltariam a fazer negócio. A nota geral era 9,0 e a nota média dos avaliadores, 8,27.",
+          "Os números não significam ausência de problemas. No histórico de até três anos, produto não recebido era o problema mais citado, e camisetas eram o produto com mais reclamações. Entre os relatos recentes havia peças que rasgaram nas primeiras lavagens e pedidos cancelados após a compra, com resposta da empresa. Esse recorte ajuda a avaliar o pós-venda; não garante a solução de todo pedido novo."
         ],
         "links": [
           {
@@ -53026,7 +53026,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que eu observaria antes de comprar",
         "bullets": [
           "Confira se está em insiderstore.com.br antes de digitar qualquer dado de pagamento.",
-          "Se estiver em dúvida entre dois tamanhos, confira o Guia de medidas da página do produto antes de pedir, principalmente em cuecas, calcinhas e moda praia, que só trocam por defeito.",
+          "Se estiver em dúvida entre tamanhos, confira o guia de medidas do produto. Isso é especialmente importante nas linhas underwear e beachwear, para as quais a política restringe trocas.",
           "Experimente a peça sem tirar a etiqueta. Sem ela, a troca por insatisfação não é aceita.",
           "Acompanhe o rastreio e, se o pedido atrasar, chame o atendimento pelo WhatsApp logo, sem esperar o prazo de troca acabar.",
           "Na Tech T-Shirt, siga a etiqueta de lavagem: é a condição da garantia de 2 anos contra desbotamento.",
@@ -53041,6 +53041,10 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
+            "label": "Ver regras e validade do cupom Insider EMCASACOMCECILIA",
+            "href": "/cupons/insider"
+          },
+          {
             "label": "Abrir a Insider com o cupom aplicado",
             "href": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
             "sponsored": true
@@ -53054,21 +53058,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar na Insider Store?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim. A empresa existe há quase dez anos com o mesmo CNPJ, publica suas regras com clareza, faz troca e devolução sem custo e mantém a reputação máxima no Reclame Aqui, respondendo a praticamente todas as reclamações. Agora, com a loja no MorumbiShopping, também dá para ver e provar as peças antes de decidir.",
-          "Os cuidados ficam por conta da entrega, que concentra boa parte das reclamações, e das regras de higiene, que impedem a troca de underwear por tamanho. Também vale ter em mente que a proposta da marca é pagar mais por peças básicas que durem e exijam menos cuidado; se o que você procura é a camiseta mais barata possível, a Insider não é a loja para isso."
+          "Sim. A empresa tem CNPJ ativo desde 2016, políticas publicadas, troca e devolução sem custo segundo a loja e reputação RA1000 no Reclame Aqui de abril a setembro. A Concept Store no MorumbiShopping também permite ver e provar as peças antes de decidir. Confira o perfil e as regras atualizadas no dia da compra.",
+          "Os cuidados estão no prazo de entrega, nos relatos recentes e nas condições de troca da peça escolhida. Compare o preço final com o que você procura e confira a etiqueta e o guia de medidas."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Insider Store é confiável? Sim. A empresa tem CNPJ ativo desde 2016, publica suas políticas no site, oferece troca e devolução gratuitas e tem reputação RA1000 no Reclame Aqui, a mais alta da plataforma.",
+          "A Insider Store é confiável? Sim. A empresa tem CNPJ ativo desde 2016, políticas publicadas e troca e devolução gratuitas, com condições por produto e motivo; de abril a setembro, tinha reputação RA1000 no Reclame Aqui.",
           "Qual é o CNPJ da Insider Store? É 26.520.188/0001-92, da Insider Comércio e Confecção de Peças do Vestuário Ltda., com sede em São Paulo.",
           "Qual é o site oficial da Insider? É insiderstore.com.br. A central de ajuda fica em suporte.insiderstore.com.br.",
           "A Insider tem loja física? Sim, no MorumbiShopping, em São Paulo. A nova Concept Store abre ao público de segunda a sábado, das 10h às 22h, e aos domingos e feriados, das 14h às 20h.",
           "Como falar com a Insider? Pelo WhatsApp, que é o canal oficial de atendimento, de segunda a sexta, das 9h às 18h. O link fica na central de ajuda do site.",
           "A troca na Insider é grátis? Sim. Segundo a central de ajuda, a troca e a devolução são gratuitas, com código de postagem nos Correios, armário inteligente ou coleta em casa.",
           "Quanto tempo tenho para trocar na Insider? São 7 dias úteis para arrependimento, 21 dias corridos para insatisfação com tamanho, cor ou modelo, e 180 dias para defeito, sempre contados a partir do recebimento.",
-          "Posso trocar cueca ou calcinha da Insider? Só em caso de defeito de fabricação. Por higiene, underwear e beachwear não têm troca por tamanho ou arrependimento.",
+          "Posso trocar cueca ou calcinha da Insider? Pela política da loja, underwear e beachwear só são trocados em caso de defeito de fabricação, por higiene.",
           "Como lavar a Tech T-Shirt? No ciclo delicado em até 30 °C, com sabão neutro, sem alvejante nem amaciante, secando à sombra e sem secadora. Seguir a etiqueta é condição da garantia de 2 anos contra desbotamento.",
           "A Insider tem vagas de emprego? Sim. A marca divulga as vagas abertas na plataforma InHire (insiderstore.inhire.app) e no LinkedIn, e conta como é trabalhar na empresa em jobs.insiderstore.com.br.",
           "O que é a Insider Business? É a frente de vendas da Insider para empresas, com uniformes, kits para funcionários e brindes corporativos. O contato é feito por um formulário no site.",
@@ -53110,8 +53114,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. Veja o que mais gera queixa e os dois alertas recentes.",
-    "metaDescription": "Insider Store no Reclame Aqui, com o cupom EMCASACOMCECILIA de 15% OFF: RA1000, nota 9,0 e 92,6% de solução, as queixas e como a loja responde.",
+    "description": "A Insider tinha RA1000 no recorte de abril a setembro. Veja as queixas mais citadas, os alertas recentes e os limites desses dados para decidir uma compra.",
+    "metaDescription": "EMCASACOMCECILIA dá 15% nos itens elegíveis da Insider. No Reclame Aqui: nota 9,0 e 92,6% de solução entre as avaliadas, de abril a setembro.",
     "publishedAt": "5 de outubro de 2026",
     "publishedAtISO": "2026-10-05",
     "draft": false,
@@ -53122,16 +53126,16 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "Reputação RA1000 em todos os períodos do perfil: 6 meses, 12 meses, 2025, 2024 e geral",
-      "99,4% das reclamações respondidas nos últimos 6 meses",
-      "92,6% das reclamações avaliadas foram consideradas resolvidas",
-      "Tempo médio de resposta de 2 dias e 3 horas nos últimos 6 meses",
-      "86% de quem avaliou o atendimento voltaria a fazer negócio",
+      "99,4% das reclamações respondidas no recorte de abril a setembro",
+      "92,6% das 994 reclamações avaliadas consideradas resolvidas no recorte de abril a setembro",
+      "Resposta média de 2 dias e 3 horas no recorte de abril a setembro",
+      "86% de quem avaliou no recorte de abril a setembro disseram que voltariam a fazer negócio",
       "9º lugar no ranking de melhores empresas de e-commerce de moda do Reclame Aqui"
     ],
     "cons": [
       "Produto não recebido e atraso na entrega somam mais de 4.600 reclamações em três anos",
       "Má qualidade e defeito aparecem em quase 2.500 reclamações no mesmo período",
-      "O semestre de Black Friday e Natal concentrou mais de dois terços das queixas do último ano",
+      "O semestre de outubro a março concentrou mais de dois terços dos registros do recorte anual; isso não mede risco por pedido",
       "Respostas sobre peças rasgadas citam os 90 dias do CDC, prazo menor que o da política da loja",
       "Pedidos feitos com um cupom vazado em sites de cupons foram cancelados",
       "Fora do Reclame Aqui, o atendimento é só por WhatsApp, em dias úteis"
@@ -53140,7 +53144,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Insider Store tem a reputação mais alta do Reclame Aqui, a RA1000, e resolve a grande maioria das reclamações. A entrega é o problema que mais se repete, e há alertas recentes de cupom vazado e golpe. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "No recorte de abril a setembro, a Insider tinha reputação RA1000 e nota 9,0, com 99,4% das reclamações respondidas e 92,6% resolvidas entre as avaliadas. A entrega é o tema mais citado nas queixas, e o cupom EMCASACOMCECILIA dá 15% nos itens elegíveis no site."
         ]
       },
       {
@@ -53173,7 +53177,7 @@ export const reviewsData: unknown[] = [
             [
               "Reputação",
               "RA1000 — nota 9,0/10",
-              "Combinação dos quatro índices abaixo, com pesos definidos pelo Reclame Aqui"
+              "A nota usa quatro indicadores ponderados; o selo RA1000 tem critérios adicionais definidos pela plataforma"
             ],
             [
               "Reclamações recebidas",
@@ -53208,7 +53212,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A nota 9,0 bate com a fórmula pública do Reclame Aqui, que dá peso 2 ao índice de resposta e à intenção de voltar a fazer negócio, e peso 3 ao índice de solução e à nota do consumidor. Ou seja, o que mais pesa é se o problema foi resolvido e como o cliente avaliou o atendimento, não só se a empresa respondeu.",
+          "A nota 9,0 confere com a fórmula pública: peso 2 para resposta e intenção de voltar a fazer negócio, peso 3 para solução e nota do consumidor. O selo RA1000 tem critérios adicionais; a nota isolada não basta para atribuí-lo.",
           "Também vale entender que as porcentagens de solução e de recompra saem só das reclamações avaliadas, que foram 994 das 1.593. Quem não volta ao site para avaliar não entra nessa conta."
         ],
         "links": [
@@ -53287,7 +53291,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A reputação ficou no nível máximo em todos os períodos, mas a tabela mostra duas coisas. A primeira é o volume: as reclamações passaram de 3.826 em 2024 para 5.637 em 2025, sem queda nos índices de solução, que ficaram acima de 94% nos dois anos. O atendimento também ficou mais rápido: o tempo médio de resposta caiu de 4 dias e 10 horas em 2024 para 2 dias e 3 horas no último semestre.",
-          "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, só 1.593 são do semestre mais recente; as outras cerca de 3.400, mais de dois terços, vieram de outubro a março, o período que inclui Black Friday e Natal. Fazendo a conta com os números do perfil, a nota média dada pelos consumidores nesse semestre de pico ficou em torno de 7,7, abaixo dos 8,27 do semestre seguinte. Na prática, quem compra nas grandes datas tem mais chance de enfrentar atraso e uma fila maior no atendimento."
+          "A segunda é a sazonalidade. Das 5.013 reclamações dos últimos 12 meses, 1.593 eram do semestre de abril a setembro. As outras 3.420 são do semestre anterior, que inclui Black Friday e Natal. Isso mostra concentração de registros, não a chance de atraso de quem comprou."
         ]
       },
       {
@@ -53318,22 +53322,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Insider responde às reclamações",
         "paragraphs": [
-          "Nas reclamações mais recentes que lemos, as respostas chegaram em menos de dois dias, assinadas por uma pessoa da equipe de atendimento, a Customer Happiness Team, e não por uma mensagem genérica. O padrão é parecido: a empresa diz que analisou o caso, que enviou a solução para o e-mail de cadastro do cliente e pede para conferir também a caixa de spam. Por isso, quem reclama precisa acompanhar o e-mail, não só a página do Reclame Aqui.",
-          "Em um caso de camiseta com a costura aberta, a resposta informou que o cliente não precisaria devolver a peça. Nas reclamações sobre peças rasgadas, porém, a equipe citou o prazo de garantia legal do Código de Defesa do Consumidor, de 90 dias para vícios aparentes. A política de trocas publicada no site da Insider é mais generosa e fala em até 180 dias corridos para defeito. Se o seu problema aparecer depois de 90 dias, vale citar a política da própria loja ao pedir a solução.",
+          "No Reclame Aqui, as respostas chegaram em menos de dois dias, assinadas por uma pessoa da equipe de atendimento, a Customer Happiness Team, e não por uma mensagem genérica. O padrão é parecido: a empresa diz que analisou o caso, que enviou a solução para o e-mail de cadastro do cliente e pede para conferir também a caixa de spam. Por isso, quem reclama precisa acompanhar o e-mail, não só a página do Reclame Aqui.",
+          "Em um dos casos do Reclame Aqui, a empresa informou que o cliente não precisaria devolver a camiseta com costura aberta. Em respostas sobre peças rasgadas, a política comercial publicada prevê até 180 dias para defeito; vale citá-la ao pedir a solução.",
           "A página da empresa no Reclame Aqui informa um tempo de resposta de até 3 dias úteis, em linha com a média de 2 dias e 3 horas registrada nos últimos seis meses."
         ]
       },
       {
         "heading": "Alerta 1: cupons vazados e pedidos cancelados",
         "paragraphs": [
-          "Entre as reclamações mais recentes há clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom pessoal de R$ 250, criado para um grupo específico de clientes e vazado em sites de cupons sem autorização. A empresa diz que todos esses pedidos foram cancelados e os valores, estornados.",
+          "No Reclame Aqui, há relatos de clientes que fizeram pedidos em setembro e tiveram a compra cancelada dias depois. Na resposta pública, a Insider explicou que esses pedidos usaram um cupom pessoal de R$ 250, criado para um grupo específico de clientes e vazado em sites de cupons sem autorização. A empresa diz que todos esses pedidos foram cancelados e os valores, estornados.",
           "A Insider afirmou ainda que as promoções oficiais são divulgadas nos próprios canais da marca: site, e-mails da Insider e redes sociais verificadas. A lição é simples: desconfie de cupons com desconto alto demais encontrados em sites de cupons, porque o pedido pode ser cancelado depois de pago. O EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado."
         ]
       },
       {
         "heading": "Alerta 2: mensagens de golpe em nome da Insider",
         "paragraphs": [
-          "Também há reclamações recentes de clientes que dizem ter recebido mensagens suspeitas pelo WhatsApp, com dados pessoais, depois de comprar ou tentar comprar na loja. Na resposta, a Insider disse que a segurança dos dados é prioridade, que os comunicados oficiais saem só dos domínios verificados da marca e que a empresa não pede pagamentos inesperados.",
+          "No Reclame Aqui, também há relatos de clientes que dizem ter recebido mensagens suspeitas pelo WhatsApp, com dados pessoais, depois de comprar ou tentar comprar na loja. Na resposta, a Insider disse que a segurança dos dados é prioridade, que os comunicados oficiais saem só dos domínios verificados da marca e que a empresa não pede pagamentos inesperados.",
           "Se receber uma cobrança ou um link em nome da Insider fora do esperado, não pague e não clique. Confira o status do pedido entrando você mesmo em insiderstore.com.br e, em caso de dúvida, fale com o atendimento oficial."
         ]
       },
@@ -53344,7 +53348,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Fale primeiro com a Insider pelo WhatsApp, o canal oficial de atendimento, de segunda a sexta, das 9h às 18h. Tenha em mãos o número do pedido, no formato IN-XXXXX.",
-          "Para troca ou devolução, use o Portal de Trocas dentro dos prazos: 7 dias úteis para arrependimento, 21 dias corridos para insatisfação e 180 dias para defeito. Underwear e beachwear só têm troca por defeito.",
+          "Para troca ou devolução, consulte o Portal de Trocas. A central de ajuda informava 7 dias úteis para desistência, 21 dias corridos por insatisfação e 180 dias por defeito; underwear e beachwear tinham restrição comercial de troca por defeito. Essas regras não eliminam o direito legal de arrependimento online de 7 dias corridos a partir do recebimento.",
           "Em caso de defeito, fotografe a peça e a etiqueta. O portal pede pelo menos duas imagens.",
           "Se o pedido não chegar, acompanhe o rastreio e acione o atendimento assim que o prazo vencer, sem esperar semanas.",
           "Se o atendimento direto não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro na plataforma. Depois da resposta, avalie a solução: é essa avaliação que alimenta os índices de solução e de recompra."
@@ -53375,27 +53379,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para comprar na Insider?",
         "paragraphs": [
-          "Pelos dados do Reclame Aqui, sim. A Insider Store tem reputação RA1000, nota 9,0 nos últimos seis meses, 99,4% das reclamações respondidas, 92,6% resolvidas e 86% de quem avaliou dizendo que voltaria a comprar.",
-          "O ponto de atenção é a entrega, que lidera as reclamações, e os dois alertas recentes: o cupom pessoal vazado, que leva ao cancelamento do pedido, e as mensagens de golpe em nome da marca. Com o pedido acompanhado pelo rastreio e o WhatsApp oficial como primeiro canal, o risco de ficar sem resposta é baixo."
+          "Os indicadores do Reclame Aqui mostram um histórico favorável de atendimento: no recorte de abril a setembro, a Insider tinha RA1000, nota 9,0 e 92,6% de solução entre as 994 reclamações avaliadas. Esses dados sustentam a avaliação do pós-venda, sem garantir entrega ou resposta para um pedido específico.",
+          "A entrega merece atenção porque liderava os motivos de queixa. Os casos de cupom pessoal vazado e mensagens suspeitas aparecem nas reclamações do Reclame Aqui, com a explicação atribuída à empresa. Para uma compra nova, confira prazo, acompanhe o rastreio e use o atendimento oficial."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0 nos últimos seis meses (abril a setembro) e 8,7 nos últimos 12 meses.",
-          "A Insider Store é confiável segundo o Reclame Aqui? Os dados indicam que sim: a empresa respondeu 99,4% das reclamações dos últimos seis meses, resolveu 92,6% das avaliadas e mantém a reputação máxima em todos os períodos do perfil.",
+          "Qual é a nota da Insider Store no Reclame Aqui? A Insider Store tem reputação RA1000, com nota 9,0/10 no semestre de abril a setembro e 8,7 nos últimos 12 meses.",
+          "A Insider Store é confiável segundo o Reclame Aqui? O recorte de abril a setembro mostrava 99,4% de resposta e 92,6% de solução entre as 994 avaliadas. É um histórico favorável de atendimento, sem garantir o resultado de uma compra.",
           "Qual é a reclamação mais comum contra a Insider? Produto não recebido, com 2.745 reclamações em três anos, seguido de atraso na entrega, com 1.933.",
-          "Quanto tempo a Insider demora para responder no Reclame Aqui? A média dos últimos seis meses foi de 2 dias e 3 horas. A própria empresa informa um prazo de até 3 dias úteis.",
+          "Quanto tempo a Insider demora para responder no Reclame Aqui? No recorte de abril a setembro, a média era de 2 dias e 3 horas. O perfil também informava até 3 dias úteis.",
           "Por que a Insider cancelou meu pedido feito com cupom? No fim de setembro, a Insider cancelou e estornou pedidos feitos com um cupom pessoal de R$ 250 que vazou em sites de cupons. Segundo a empresa, as promoções oficiais saem só nos canais da marca.",
           "A Insider vende roupa que desbota? A categoria \"desbotou\" tem apenas 9 reclamações em três anos no Reclame Aqui. A Tech T-Shirt tem garantia de 2 anos contra desbotamento, desde que a etiqueta de lavagem seja seguida.",
           "Como reclamar da Insider? Comece pelo WhatsApp oficial da loja, em dias úteis, das 9h às 18h. Se não resolver, abra uma reclamação no Reclame Aqui, que exige cadastro, e acompanhe a resposta também pelo e-mail.",
-          "Qual é o prazo de garantia para defeito na Insider? A política de trocas da loja dá até 180 dias corridos após o recebimento para defeito, com envio de fotos. Em algumas respostas, a equipe citou o prazo legal de 90 dias do CDC.",
-          "O cupom EMCASACOMCECILIA pode ser cancelado como os cupons vazados? Não há motivo para isso: o EMCASACOMCECILIA é um cupom de criador do programa oficial de parceria da Insider, feito para ser divulgado. Ele vale no site, e só um cupom entra por pedido."
+          "Qual é o prazo de garantia para defeito na Insider? A política de trocas da loja dá até 180 dias corridos após o recebimento para defeito, com envio de fotos.",
+          "O EMCASACOMCECILIA é um cupom vazado? Não: é o código divulgado pela nossa parceria de creator com a Insider. Isso não garante aceitação em qualquer produto ou campanha. Confira os itens elegíveis e a linha de desconto no carrinho; vale um cupom por pedido."
         ]
       }
     ],
     "cta": {
-      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria: o cupom EMCASACOMCECILIA, de 15% OFF, já vai aplicado no carrinho.",
+      "text": "Entre pelo link da parceria e confira se o EMCASACOMCECILIA aplicou 15% nos itens elegíveis. Veja o desconto e o prazo de entrega antes de pagar.",
       "label": "Ir para a Insider com o cupom",
       "url": "https://www.insiderstore.com.br/discount/EMCASACOMCECILIA?redirect=/collections/outlet/?utm_source=influmkt&utm_medium=3c994aaa&utm_campaign=EMCASACOMCECILIA&cupom=EMCASACOMCECILIA",
       "sponsored": true
@@ -53448,7 +53452,7 @@ export const reviewsData: unknown[] = [
       "Pode não entrar nos primeiros dias de um lançamento e não vale nas lojas físicas",
       "A loja aceita um cupom por pedido",
       "O frete grátis depende do valor do pedido depois do desconto",
-      "Underwear e beachwear só têm troca em caso de defeito"
+      "A política comercial restringe trocas de underwear e beachwear a defeito; confira medidas e a orientação de arrependimento abaixo"
     ],
     "contentSections": [
       {
@@ -53460,10 +53464,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que é o cupom EMCASACOMCECILIA",
         "paragraphs": [
-          "A Insider é uma marca brasileira de roupas com tecnologia têxtil, conhecida pela Tech T-Shirt, a camiseta de modal que a própria marca chama de \"a original desde 2019\". Ela vende camisetas, underwear, roupas esportivas, peças femininas e acessórios principalmente pelo site, o insiderstore.com.br.",
-          "O **EMCASACOMCECILIA** é o cupom de creator do Em Casa com Cecília dentro do Insider Creators Club, o programa de parcerias da marca, administrado pela plataforma Inbazz. Na prática, é um código exclusivo, ligado ao nosso perfil: quando você compra com ele, a Insider identifica que a venda veio daqui e o blog recebe uma comissão, sem nenhum custo extra para você.",
-          "O desconto é de **15% OFF** sobre o preço de cada produto elegível, sem valor mínimo de pedido. No nosso teste, uma Core T-Shirt de R$ 189,00 saiu por R$ 160,65, uma economia de R$ 28,35. O checkout da Insider mostra a conta com clareza: cada produto ganha uma linha **Código de desconto** com o valor abatido em reais, e o rodapé do resumo mostra a **economia total** do pedido.",
-          "Conferir o carrinho também ajuda a separar o cupom verdadeiro dos que aparecem em sites agregadores. Quem pesquisa \"cupom insider\" encontra códigos com números no nome e promessas de desconto que nem sempre funcionam. O EMCASACOMCECILIA é o código entregue pela própria Insider para esta parceria, e o teste mais simples é o do carrinho: se ele for aceito, a linha do desconto aparece em cada item."
+          "O EMCASACOMCECILIA é o código de creator do Em Casa com Cecília e pode gerar comissão para o blog. Ele dá 15% OFF nos itens elegíveis da loja online. Você pode digitá-lo no checkout ou usar o link da parceria; nos dois casos, confira a linha do código em cada item antes de pagar."
         ],
         "links": [
           {
@@ -53476,7 +53477,7 @@ export const reviewsData: unknown[] = [
         "heading": "1. Entre na loja pelo link da parceria",
         "paragraphs": [
           "O caminho mais fácil começa pelo link da parceria, nos botões deste artigo. Ele abre a loja da Insider já com o EMCASACOMCECILIA carregado no carrinho e cai direto na seção de Outlet, onde ficam as peças com preço remarcado.",
-          "Você não precisa ficar no Outlet: dá para navegar por todas as categorias, como camisetas, underwear, roupas esportivas e a linha feminina, e o cupom continua na sessão. Use sempre o link completo, como ele está aqui: a Insider pede que o link da parceria não seja editado nem encurtado, porque é ele que identifica a origem da compra."
+          "Depois de abrir o Outlet, você pode navegar pelas outras categorias e montar o pedido. O código deve continuar na sessão, mas confirme a etiqueta EMCASACOMCECILIA e os valores no checkout."
         ],
         "links": [
           {
@@ -53490,7 +53491,7 @@ export const reviewsData: unknown[] = [
         "heading": "2. Escolha as peças e confira o tamanho",
         "paragraphs": [
           "Monte o carrinho com calma. Nas páginas de produto, a Insider tem um **Guia de medidas** para comparar as medidas do corpo com a tabela de cada modelo, o que ajuda bastante quando é a primeira compra na marca. A Tech T-Shirt, por exemplo, tem versão masculina e feminina, com modelagens diferentes, e várias peças são vendidas também em kits de 2, 3 ou 5 unidades.",
-          "Vale prestar atenção ao tipo de peça antes de fechar o pedido. Pela política de trocas da Insider, peças das linhas underwear e beachwear só podem ser trocadas ou devolvidas em caso de defeito comprovado, por questão de higiene. Então, se você está em dúvida entre dois tamanhos de cueca ou calcinha, confira o guia de medidas antes de comprar.",
+          "Confira o tamanho antes de comprar. A política da Insider limita trocas de underwear e beachwear a defeito, por questão de higiene; a seção de troca abaixo traz os prazos gerais.",
           "Com o carrinho pronto, siga para o checkout. Ele é dividido em quatro etapas (Carrinho, Informações, Frete e Pagamento) e, no computador, o resumo do pedido fica à direita, com os produtos, as variações escolhidas e o campo do cupom logo abaixo da lista."
         ],
         "image": "/images/reviews/insider/insider-passo-2-checkout.webp",
@@ -53515,8 +53516,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confira o desconto em cada item antes de pagar",
         "paragraphs": [
-          "Quando o cupom é aceito, aparece a mensagem **Melhor desconto ativado**, avisando que o cupom está ativo e com o melhor desconto disponível. O código fica numa etiqueta logo abaixo do campo; o **×** ao lado dela remove o cupom, caso você queira usar outro no lugar, já que a Insider aceita só um por pedido.",
-          "Em seguida, cada produto do resumo mostra a linha **Código de desconto — EMCASACOMCECILIA**, com o valor abatido, o preço original e o preço com desconto, 15% menor. Na Core T-Shirt do nosso teste, o preço passou de R$ 189,00 para R$ 160,65, com R$ 28,35 de desconto. No fim do resumo aparece a **economia total** do pedido. Se algum item ficar sem essa linha, é porque ele não entra no cupom, como pode acontecer nos primeiros dias de um lançamento.",
+          "Quando o código é aceito, o checkout pode exibir “Melhor desconto ativado”. Confira também a etiqueta EMCASACOMCECILIA abaixo do campo e a linha de desconto de cada item. O × ao lado da etiqueta remove o código; a loja aceita um cupom por pedido.",
+          "No teste de outubro, cada item elegível mostrou a linha “Código de desconto” com EMCASACOMCECILIA e o valor abatido. A Core T-Shirt passou de R$ 189,00 para R$ 160,65, economia de R$ 28,35. Se algum produto não mostrar a linha do código, não conte com o desconto nele: confira as condições daquele item e a mensagem do checkout.",
           "Depois disso, é só preencher os dados de entrega e escolher o pagamento. Pelos termos de uso da loja, as opções são Pix à vista, Pix parcelado em até 4 vezes sem juros, cartão de crédito em até 3 vezes sem juros (ou de 4 a 10 vezes com juros) e boleto à vista."
         ],
         "image": "/images/reviews/insider/insider-passo-4-desconto-ativado.webp",
@@ -53530,13 +53531,14 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "As regras oficiais do programa são curtas: o cupom vale nas compras da loja online, pode não entrar nos primeiros dias de um **lançamento**, não vale nas **lojas físicas** da Insider e não é cumulativo com outro cupom, porque a loja aceita só um por pedido.",
           "Para saber como isso funciona no dia a dia, testamos o cupom no checkout oficial em 5 de outubro de 2026, sem finalizar a compra. O desconto entrou numa Tech T-Shirt, numa Undershirt Antissuor, num kit com três Tech T-Shirts femininas que já estava com preço promocional e numa peça do Outlet. Também testamos uma meia de R$ 25 sozinha no carrinho, e o desconto entrou: não encontramos valor mínimo de pedido para usar o cupom. Em todos esses itens o desconto foi de 15% do preço, o que voltamos a conferir no checkout dias depois.",
-          "Num vestido marcado como lançamento, o cupom não deu desconto. Já peças com a mesma etiqueta, como a Tech T-Shirt e os sutiãs Nakedfeel do Outlet, receberam o desconto normalmente: em geral, o lançamento fica fora do cupom só nos primeiros dias. O jeito seguro de saber é o resumo do pedido, que mostra item por item o que entrou no cupom."
+          "No teste, um vestido com etiqueta de lançamento ficou sem desconto, enquanto Tech T-Shirt e sutiãs Nakedfeel do Outlet receberam o cupom apesar da mesma etiqueta. Portanto, a etiqueta sozinha não decide: confira a linha do código de cada item."
         ],
         "bullets": [
           "**Vale:** loja online da Insider, inclusive Outlet, kits e peças com preço promocional.",
           "**Não vale:** compras nas lojas físicas. Em lançamento, pode não entrar nos primeiros dias.",
           "**Não soma:** com outro cupom no mesmo pedido.",
-          "**Marketplaces:** o EMCASACOMCECILIA é usado no checkout do site da Insider; em outras lojas e marketplaces o código não se aplica."
+          "**Marketplaces:** o EMCASACOMCECILIA é usado no checkout do site da Insider; em outras lojas e marketplaces o código não se aplica.",
+          "**Gift card:** a página oficial informa que pedidos pagos com saldo do gift card não aceitam cupom. Isso é diferente de comprar o próprio cartão."
         ]
       },
       {
@@ -53551,7 +53553,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que comprar com o cupom",
         "paragraphs": [
-          "Como o cupom entra em quase todo o catálogo online, a escolha depende mais da necessidade da casa do que da regra. Estas são as linhas mais procuradas da marca, com o que a própria Insider informa sobre cada uma:"
+          "Escolha as peças de que você precisa e confira os tamanhos. Alguns exemplos de linhas da Insider e o que a marca informa:"
         ],
         "comparisonTable": {
           "caption": "Linhas da Insider e o que a marca informa (site oficial)",
@@ -53566,7 +53568,7 @@ export const reviewsData: unknown[] = [
               "Tech T-Shirt (masculina e feminina)",
               "Camiseta básica do dia a dia, trabalho e viagem",
               "Tecido de modal com tecnologia antiodor, desamassa no corpo e tem garantia de 2 anos contra desbotamento",
-              "A garantia exige seguir a etiqueta: ciclo delicado, sem amaciante e secagem à sombra"
+              "A garantia antidesbotamento tem condições de compra e lavagem: confira os detalhes abaixo e a etiqueta"
             ],
             [
               "Kits de Tech T-Shirt",
@@ -53577,14 +53579,14 @@ export const reviewsData: unknown[] = [
             [
               "Undershirt Antissuor",
               "Usar por baixo de camisa social",
-              "Camada dupla nas axilas, em versões Leve, Moderado e Block, conforme o nível de transpiração",
-              "Escolha a versão pelo quanto você transpira"
+              "Leve, Moderado e Block têm propostas diferentes: o Moderado declara camada dupla nas axilas, o Block reforço impermeável e o Leve não declara esse reforço",
+              "Compare o reforço e as medidas do modelo; não presuma a mesma proteção nas três versões"
             ],
             [
               "Underwear (cuecas e calcinhas)",
               "Peças do dia a dia",
               "Modelos Comfort e Performance, vendidos avulsos ou em kits",
-              "Só tem troca em caso de defeito: confira o guia de medidas"
+              "Na política comercial da loja, a troca é restrita a defeito; confira medidas e a seção de arrependimento"
             ],
             [
               "Linha feminina",
@@ -53595,18 +53597,18 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Tech T-Shirt é o produto mais conhecido, e a garantia contra desbotamento é o argumento mais concreto: 2 anos, pelos termos da loja, se a lavagem seguir a etiqueta — ciclo delicado até 30 °C, sem molho, sem alvejante, sem amaciante e secagem à sombra.",
-          "Os kits costumam ser a forma mais econômica de comprar várias peças, porque o preço por unidade já é menor. Com o cupom por cima e o pedido acima de R$ 399, o frete também sai grátis."
+          "A Tech T-Shirt tem garantia anunciada de 2 anos contra desbotamento para peças compradas a partir de 06/09/2024, desde que seguidas as instruções da etiqueta e considerando uma lavagem por semana, segundo a página oficial.",
+          "Kit não é automaticamente mais barato que as peças avulsas. Compare o mesmo modelo, a quantidade, as cores e os tamanhos; depois confira o cupom e o frete do pedido."
         ],
         "image": "/images/reviews/insider/insider-kit-cuecas-oficial.webp",
         "imageAlt": "Foto oficial da Insider do kit com três cuecas boxer Comfort em azul-marinho e preto",
-        "imageCaption": "Kit de cuecas Boxer Comfort. Peças de underwear só têm troca em caso de defeito.",
+        "imageCaption": "Kit de cuecas Boxer Comfort. Confira medidas e as condições comerciais de troca antes de comprar.",
         "imageFit": "square"
       },
       {
         "heading": "Se precisar trocar uma peça comprada com cupom",
         "paragraphs": [
-          "Comprar com cupom não muda os seus direitos de troca. A política da Insider prevê troca por arrependimento em até 7 dias úteis, troca por insatisfação em até 21 dias corridos e troca por defeito em até 180 dias corridos, sempre contados do recebimento. Nas duas primeiras, a peça precisa estar nova, sem marcas de uso e com a etiqueta. A solicitação é feita pelo titular da compra, no portal de trocas da loja.",
+          "O cupom não altera os direitos de troca e devolução. A central da Insider informa 7 dias úteis para arrependimento, 21 dias corridos para insatisfação e 180 dias corridos para defeito, contados do recebimento. Nas duas primeiras, a peça precisa estar nova, sem marcas de uso e com a etiqueta. A solicitação é feita pelo titular da compra, no portal de trocas da loja.",
           "Na devolução, a Insider pode oferecer um cupom no lugar do estorno. Se você aceitar essa opção, ela não pode ser desfeita depois: o cupom vale por 6 meses, é de uso único e não se soma a outros descontos. Se preferir o dinheiro de volta, escolha o estorno no fluxo da devolução."
         ],
         "links": [
@@ -53641,8 +53643,8 @@ export const reviewsData: unknown[] = [
           "Quanto de desconto dá o cupom EMCASACOMCECILIA? 15% OFF nos produtos elegíveis da loja online, sem valor mínimo. Uma Core T-Shirt de R$ 189,00, por exemplo, sai por R$ 160,65. O desconto aparece em cada item do resumo do pedido assim que o cupom é aceito.",
           "Onde digito o cupom na Insider? No campo Cupom de desconto ou Gift Card do checkout, clicando em Aplicar. Pelo link da parceria, o cupom já vem aplicado.",
           "O cupom Insider vale no Outlet? Sim. No nosso teste, o desconto entrou em peça do Outlet e em kit com preço promocional.",
-          "O cupom vale para lançamentos? Nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, o desconto entra mesmo com a etiqueta de lançamento, e o resumo do pedido mostra quais itens o receberam.",
-          "O cupom Insider é cumulativo? Não. A loja aceita um cupom por pedido, e descontos de cupons diferentes não se somam.",
+          "O cupom vale para lançamentos? Pode ficar fora de alguns itens, especialmente no início de um lançamento. A etiqueta não decide sozinha: produtos com essa marcação receberam desconto no teste e outros não. Confira a linha do código por item.",
+          "O cupom Insider é cumulativo? Ele pode somar com preços promocionais elegíveis e com o Pix, conforme as condições da ação. O que não soma é outro cupom no mesmo pedido; a loja aceita apenas um código.",
           "Tem cupom Insider para primeira compra? Sim. O EMCASACOMCECILIA vale também na primeira compra, e a própria Insider envia um cupom de boas-vindas a quem cadastra o e-mail no pop-up do site. Quem foi indicado por um cliente pode ter ainda um cupom de R$ 150 em compras acima de R$ 399. Só um cupom entra no pedido, então compare os valores no carrinho.",
           "O cupom tem valor mínimo? Não. No nosso teste, os 15% entraram até numa meia de R$ 25 sozinha no carrinho.",
           "O cupom da Insider dá frete grátis? Não. O frete é grátis em compras acima de R$ 399, calculadas depois do desconto do cupom.",
@@ -55603,8 +55605,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da Insider já está no ar, com até 50% OFF em itens selecionados. Guia da linha masculina: preços para comparar, o cupom EMCASACOMCECILIA e o prazo de Natal.",
-    "metaDescription": "Black Friday Insider 2026 masculino: o cupom EMCASACOMCECILIA dá 15% OFF e soma com até 50% OFF em itens selecionados. Tech T-Shirt, kits e cuecas.",
+    "description": "A Insider anunciou até 50% OFF em itens selecionados na Black Friday 2026. Compare preços históricos da linha masculina, o cupom EMCASACOMCECILIA e cuidados com o prazo de Natal.",
+    "metaDescription": "Black Friday Insider 2026: EMCASACOMCECILIA dá 15% OFF em itens elegíveis. Veja preços masculinos para comparar e as exceções do cupom.",
     "publishedAt": "10 de outubro de 2026",
     "publishedAtISO": "2026-10-10",
     "updatedAt": "2026-11-07",
@@ -55705,7 +55707,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Compare o kit com a peça avulsa: no preço de outubro, três Tech T-Shirts avulsas saíam por R$ 387, menos que o kit de três, a R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas, e a Tech T-Shirt Gola V saía a R$ 119 na promoção do dia; a conta de cada kit está no [guia do kit Insider](/reviews/kit-insider-quando-compensa). Na Core T-Shirt foi o contrário: no kit de cinco, cada camiseta saía por R$ 161,10, abaixo do preço da avulsa.",
-          "Um selo de desconto em novembro só é vantagem se o preço do dia ficar abaixo desta tabela. Os preços mudam ao longo da campanha: confira no site no dia."
+          "Use a tabela como referência histórica e compare a mesma peça, cor, tamanho e quantidade. Depois, confira o total com os descontos aplicáveis e o frete, porque o selo de promoção, sozinho, não mostra se a compra ficou mais barata. Os preços mudam ao longo da campanha: confira no site no dia."
         ]
       },
       {
@@ -55757,7 +55759,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e frete grátis: o que soma",
         "bullets": [
           "**Cupom:** o EMCASACOMCECILIA dá 15% OFF na loja online, sem valor mínimo, com todas as formas de pagamento, e soma com os preços da Black Friday, salvo quando a promoção disser o contrário. A loja aceita um cupom por pedido.",
-          "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido e também oferece cupons da própria campanha: compare os 15% com o cupom da campanha da própria Insider antes de fechar o pedido.",
+          "**Esquenta (teste no carrinho):** o cupom entrou por cima dos preços da campanha. A Tech T-Shirt, de R$ 169 por R$ 129 no site, saiu por R$ 109,65, e no Outlet o desconto também entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare o resultado dos 15% com as condições da campanha da própria Insider antes de pagar.",
           "**Promoção com regra própria:** quando a página do produto avisa que o desconto não acumula com cupons, como na promoção de R$ 100 OFF, o cupom não entra naquele item, mas continua valendo nos outros do carrinho.",
           "**Lançamentos:** nos primeiros dias, o lançamento pode ficar fora do cupom. Depois, mesmo com a etiqueta de lançamento, o desconto entra: no nosso teste, a Tech T-Shirt recebeu os 15%. O resumo do pedido mostra a linha do cupom em cada item que entrou nele.",
           "**Pix:** em outubro, a loja anunciava desconto no Pix, também na coleção da Black Friday, mas o percentual mudava entre a barra do site e os banners; confira o percentual no checkout. Os termos de uso trazem ainda o Pix parcelado em até 4 vezes sem juros; o checkout mostra se o desconto vale nessa opção. O desconto do Pix não vale na compra de gift card.",
@@ -55813,11 +55815,11 @@ export const reviewsData: unknown[] = [
         "heading": "Entrega e prazo para o Natal",
         "paragraphs": [
           "A Insider não publica prazos por região: o carrinho mostra as opções de entrega depois do CEP, e o prazo começa a contar quando o pagamento é aprovado. A central de ajuda avisa que os prazos podem mudar em períodos de alta demanda, como a Black Friday.",
-          "Vale levar o aviso a sério: no Reclame Aqui, mais de dois terços das reclamações dos últimos 12 meses contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado.",
+          "Vale levar o aviso a sério: no Reclame Aqui, nos últimos 12 meses, mais de dois terços das reclamações contra a Insider vieram do semestre que inclui a Black Friday e o Natal, e a entrega é o problema mais citado. Isso serve de contexto para planejar a compra com folga, não como previsão do prazo do seu pedido.",
           "Simulamos no carrinho o frete de quatro Tech T-Shirts (R$ 516, acima do frete grátis) com o CEP do centro de 12 capitais. Somando um dia útil de folga ao prazo do frete grátis, fizemos a conta de até quando pagar para o pedido chegar até 24 de dezembro, uma quinta-feira."
         ],
         "comparisonTable": {
-          "caption": "Prazo do frete grátis no carrinho da Insider, com o CEP do centro de cada capital, e a nossa estimativa de data limite. Em novembro e dezembro, refaça a simulação com o seu CEP.",
+          "caption": "Simulação com quatro Tech T-Shirts e o CEP do centro de cada capital. As datas-limite são estimativas nossas, não garantia de entrega. Refaça a simulação com seu CEP e considere o prazo de aprovação do pagamento.",
           "headers": [
             "Capital",
             "Frete grátis no carrinho",
@@ -55886,8 +55888,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Insider? Já começou, com até 50% OFF em itens selecionados, em janelas curtas que mudam ao longo de novembro, até a última sexta-feira do mês, dia 27, e a Cyber Monday, na segunda seguinte. A loja não publicou data de fim.",
           "O cupom EMCASACOMCECILIA vale na Black Friday? Vale. Ele dá 15% OFF na loja online, com todas as formas de pagamento, e soma com os preços da Black Friday e com o desconto do Pix, salvo quando a promoção disser o contrário. Não vale na loja física, pode não entrar nos primeiros dias de um lançamento, e a loja aceita um cupom por pedido.",
-          "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e no Outlet o desconto entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare os 15% com o cupom da campanha da própria Insider.",
-          "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. Com o cupom EMCASACOMCECILIA, sai por R$ 109,65. Se em novembro o preço do dia ficar abaixo de R$ 129, o desconto é maior que o de outubro.",
+          "O cupom soma com o esquenta da Black Friday da Insider? Soma. No teste de fim de outubro, a Tech T-Shirt, a R$ 129 no site, saiu por R$ 109,65 com o cupom, e no Outlet o desconto entrou por cima do preço riscado. A loja aceita um cupom por pedido: compare o total com as condições da campanha antes de pagar.",
+          "Quanto custa a Tech T-Shirt na Black Friday? No preço de outubro, ela estava a R$ 129, contra R$ 169 do preço riscado. No teste do fim de outubro, com o cupom EMCASACOMCECILIA, saiu por R$ 109,65. Esses valores são históricos: confira a peça e o desconto no carrinho de hoje.",
           "O kit de Tech T-Shirt compensa? Depende do dia e do kit. No preço de outubro, não: três Tech T-Shirts avulsas saíam por R$ 387, e o kit de três, por R$ 456. No fim de outubro, o kit de três mais barato estava a R$ 356, abaixo das três avulsas. Nos kits de cueca e de Core T-Shirt, o preço por peça era menor que o da avulsa.",
           "A Insider tem desconto no Pix? Tem: em outubro, a loja anunciava desconto no Pix, que soma com o cupom EMCASACOMCECILIA. O percentual mudava entre a barra do site e os banners, então confira no checkout.",
           "A Insider tem frete grátis? Tem, a partir de R$ 399, valor conferido depois do desconto do cupom. Em algumas janelas da campanha, como a de fim de outubro, o frete foi grátis em qualquer pedido.",
@@ -56056,7 +56058,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calcinhas, sutiãs e underwear feminino",
         "paragraphs": [
-          "No underwear feminino, o kit sai mais barato por peça que a avulsa, e o Outlet baixa ainda mais. Em outubro, a Calcinha Biquíni Brief estava a R$ 49, de R$ 69, e o Kit 3 Calcinhas Brief a R$ 139,90, de R$ 207. No fim do mês, o mesmo kit de três apareceu no Outlet a R$ 118,20, e o de cinco a R$ 190,19, de R$ 345."
+          "Nos exemplos de underwear feminino de outubro, os kits de calcinha saíam mais baratos por peça que a avulsa, e os valores do Outlet eram menores. A Calcinha Biquíni Brief estava a R$ 49, de R$ 69, e o Kit 3 Calcinhas Brief a R$ 139,90, de R$ 207. No fim do mês, o mesmo kit de três apareceu no Outlet a R$ 118,20, e o de cinco a R$ 190,19, de R$ 345."
         ],
         "image": {
           "src": "/images/reviews/insider/outlet-insider-feminino-vale-a-pena-kit-5-brief.webp",
@@ -56119,7 +56121,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três sutiãs Nakedfeel (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. Calcinhas e sutiãs só têm troca por defeito, então confira o tamanho antes de fechar."
+          "Os kits de calcinha do Outlet são fechados: o de cinco deixa escolher até duas cores, e os de três não deixam escolher cor nem tamanho. Os três sutiãs Nakedfeel (Decote V, Top e com alças removíveis) estavam no preço cheio, de R$ 189 a R$ 199, e neles só o cupom baixa. A política da Insider restringe a troca comercial de calcinhas e sutiãs a defeito; confira o tamanho e as condições antes de fechar."
         ]
       },
       {
@@ -62240,7 +62242,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Insider mede a peça deitada, não o corpo, então o mais seguro é comparar uma camiseta sua que veste bem com a tabela da peça. Cueca e calcinha só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "A Insider mede a peça deitada, não o corpo, então o mais seguro é comparar uma camiseta sua que veste bem com a tabela da peça. Pela política de trocas da Insider, cuecas e calcinhas só têm troca por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
@@ -62905,13 +62907,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Cueca não tem troca por tamanho. A central de ajuda da Insider diz que, \"por motivos de higiene e segurança\", as linhas Underwear e Beachwear só são trocadas ou devolvidas em caso de defeito de fabricação. As páginas das cuecas não repetem esse aviso, então vale medir antes de comprar um kit."
+          "Cueca não tem troca por tamanho. A central de ajuda da Insider diz que, \"por motivos de higiene e segurança\", as linhas Underwear e Beachwear só são trocadas ou devolvidas em caso de defeito de fabricação. Meça antes de comprar um kit."
         ]
       },
       {
         "heading": "Cueca Slip e calcinha Brief",
         "paragraphs": [
-          "A Slip mede a cintura e a lateral, da cintura até o início da barra (13 cm em todos os tamanhos). A calcinha Biquíni Brief mede a cintura e a altura, da cintura até o fundo da peça. Na loja, a Slip vai do P ao XGG, embora a tabela traga também PP e XXGG, e a Brief vai do PP ao XGG. As duas seguem a regra de troca das cuecas: só por defeito."
+          "A Slip mede a cintura e a lateral, da cintura até o início da barra (13 cm em todos os tamanhos). A calcinha Biquíni Brief mede cintura e altura, da cintura até o fundo da peça. Na loja, a Slip vai do P ao XGG, embora a tabela traga PP e XXGG; a Brief vai do PP ao XGG. A política comercial de underwear exclui troca por tamanho."
         ],
         "comparisonTable": {
           "caption": "Tabelas oficiais da Cueca Slip e da Calcinha Biquíni Brief, em cm, com a peça deitada. Travessão: a tabela não traz o tamanho.",
@@ -63120,7 +63122,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Encolhimento: o que a Insider diz e por que pesa na troca",
         "paragraphs": [
-          "Cada linha pode encolher até um limite: o da sua está na tabela abaixo. Na página da Daily, a marca escreve também que \"o tecido pode apresentar encolhimento de até 2cm no comprimento após a primeira lavagem\"; na da Core, que o tamanho \"já considera 2cm a mais no comprimento\" por esse encolhimento. Os números são da Insider, e a marca não explica como se relacionam com o limite da tabela; valem todos. Como lavar cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
+          "A central de ajuda publica os limites de encolhimento da tabela abaixo. Na página da Daily, a marca cita até 2 cm no comprimento após a primeira lavagem; na Core, informa que o tamanho considera 2 cm extras no comprimento. São informações diferentes, sem equivalência explicada pela Insider: não some centímetros e percentuais para escolher o tamanho. Os cuidados de cada linha estão em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "Isso pesa na troca: a troca por tamanho exige peça sem uso e sem sinais de lavagem. Não dá para lavar para ver se encolhe e depois trocar. Escolha o tamanho pela tabela e siga as instruções de lavagem da etiqueta."
         ],
         "comparisonTable": {
@@ -63172,7 +63174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Errei o tamanho: o que a Insider permite",
         "paragraphs": [
-          "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem. A troca é gratuita e vale para o mesmo modelo, em outra cor ou tamanho, se houver estoque. Cueca, calcinha e beachwear só trocam por defeito de fabricação.",
+          "Camiseta que não serviu pode ser trocada em até 21 dias corridos depois do recebimento, sem uso, com etiqueta e sem sinais de lavagem, conforme a política comercial da Insider. A troca vale para o mesmo modelo, em outra cor ou tamanho, se houver estoque, e é gratuita. A mesma política exclui underwear e beachwear da troca por tamanho.",
           "Os prazos de arrependimento e de defeito e o passo a passo da troca estão no nosso guia sobre a Insider."
         ],
         "links": [
@@ -63220,7 +63222,7 @@ export const reviewsData: unknown[] = [
           "A Tech T-Shirt veste justa? A Insider descreve a masculina como de \"caimento ajustado ao corpo sem apertar\" e a feminina como de \"caimento levemente ajustado, sem comprimir\"; a Core tem modelagem regular, segundo a marca.",
           "A Insider tem tamanhos grandes? A Tech, a Gola V, a Manga Longa, a Core e a Heavy Slim masculinas e as cuecas Comfort e Performance vão até o XXGG, e as tabelas femininas até o XGG; confira a cor e o tamanho na página do produto.",
           "A roupa da Insider encolhe? Segundo a central de ajuda, a Tech T-Shirt e a Core podem encolher até 8%, a Daily até 4% e a cueca Comfort até 7%.",
-          "Posso trocar a cueca da Insider se errar o tamanho? Não: cuecas, calcinhas e outras peças das linhas Underwear e Beachwear só têm troca ou devolução por defeito de fabricação.",
+          "Posso trocar a cueca da Insider se errar o tamanho? A política comercial da loja não oferece troca por tamanho de underwear e beachwear. Sobre arrependimento de compra online, consulte o atendimento.",
           "Quanto tempo tenho para trocar uma camiseta que não serviu? Até 21 dias corridos depois do recebimento, com a peça sem uso, com etiqueta e sem sinais de lavagem, e a troca é gratuita.",
           "O Provador Virtual da Insider acerta o tamanho? A própria marca diz que cada corpo é único e recomenda conferir a tabela de medidas da peça."
         ]
@@ -63281,7 +63283,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "O cupom não vale na loja física nem no Mercado Livre",
-      "Cueca, calcinha e undershirt só trocam por defeito",
+      "A política comercial restringe a troca por insatisfação de underwear e moda praia",
       "A marca não diz por quantas lavagens o antiodor dura"
     ],
     "contentSections": [
@@ -63346,7 +63348,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa de verdade",
         "paragraphs": [
-          "O cupom EMCASACOMCECILIA dá 15% sobre o preço de cada item na loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento. As regras do mês ficam na página do [cupom Insider](/cupons/insider)."
+          "O cupom EMCASACOMCECILIA dá 15% em itens elegíveis da loja online, soma com o desconto do Pix e vale com todas as formas de pagamento. É um cupom por pedido e pode não entrar nos primeiros dias de um lançamento. Na tabela abaixo, a Daily não aceitou o código no teste. As regras do mês ficam na página do [cupom Insider](/cupons/insider)."
         ],
         "comparisonTable": {
           "caption": "Preço no cartão, 02/11. Com o cupom: conta nossa, com os 15% sobre o preço do site, antes do desconto do Pix.",
@@ -63397,7 +63399,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar: site, loja física ou Mercado Livre",
         "paragraphs": [
           "O site é o único lugar onde o cupom vale, e é onde a troca é mais simples. Para quem quer ver a peça antes, a Concept Store fica no MorumbiShopping, em São Paulo. Lá o cupom e o cashback não valem, a compra acumula pontos de fidelidade para resgatar no site, e a troca é feita no mesmo canal da compra.",
-          "No Mercado Livre, a Insider tem [loja oficial](https://meli.la/12dWwH8), e vale o preço do anúncio, sem o cupom. Com o cupom, o site sai mais barato na maioria das peças; onde o Mercado Livre ganha está em [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site).",
+          "No Mercado Livre, a Insider tem [loja oficial](https://meli.la/12dWwH8), com o preço do anúncio e sem o cupom. Compare o total com frete nos dois canais; o guia [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site) mostra os critérios dessa escolha.",
           "O Outlet tem peças com desconto e grade curta: veja o [Outlet masculino](/reviews/outlet-insider-masculino-vale-a-pena) e o [Outlet feminino](/reviews/outlet-insider-feminino-vale-a-pena)."
         ]
       },
@@ -63405,7 +63407,7 @@ export const reviewsData: unknown[] = [
         "heading": "Troca, devolução e garantia",
         "paragraphs": [
           "Na compra online, a Insider aceita o arrependimento em até 7 dias úteis e a troca por insatisfação em até 21 dias corridos, pelo mesmo modelo em outra cor ou tamanho (se houver estoque) ou com estorno, com a peça sem uso, com etiqueta e sem sinais de lavagem. Defeito tem 180 dias, com fotos. Toda troca e devolução é gratuita.",
-          "Cueca, calcinha, undershirt e moda praia só trocam por defeito de fabricação. Nessas peças, acerte o tamanho antes, pela tabela de medidas."
+          "Na política comercial da Insider, underwear e moda praia têm troca só por defeito de fabricação. Antes de escolher o tamanho, compare as medidas da peça."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-troca-devolucao-prazos.webp",
@@ -63428,7 +63430,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Vale para quem quer camiseta de modal com garantia de cor por escrito e troca sem custo, e topa pagar mais por isso.",
           "Não vale para quem quer gastar pouco por peça: mesmo com o cupom, a Tech passa de R$ 100.",
-          "Na cueca, escolha pelo uso, Comfort para o dia a dia e Performance para treino, e meça antes: underwear não troca por tamanho.",
+          "Na cueca, escolha pelo uso, Comfort para o dia a dia e Performance para treino, e compare as medidas antes de comprar: a troca por tamanho é restringida pela política comercial de underwear.",
           "Se você vai comprar na loja física ou no Mercado Livre, conte com o preço da etiqueta ou do anúncio, sem o cupom."
         ]
       },
@@ -63443,7 +63445,7 @@ export const reviewsData: unknown[] = [
           "Tech, Daily ou Core: qual é a diferença? A Tech é de modal; a Daily e a Core são de viscose, e a Core é mais encorpada, segundo a marca. O guia das camisetas compara as linhas.",
           "O cupom da Insider vale na loja física ou no Mercado Livre? Não: o EMCASACOMCECILIA vale só na loja online, um por pedido.",
           "A Insider tem frete grátis? Tem, a partir de R$ 399, calculado depois do desconto do cupom.",
-          "Dá para trocar cueca da Insider? Só em caso de defeito de fabricação, como calcinha, undershirt e moda praia.",
+          "Dá para trocar cueca da Insider? A política comercial restringe a troca de underwear e moda praia aos casos de defeito. O arrependimento em compras online é distinto da troca comercial; consulte também as regras aplicáveis à compra.",
           "A Insider tem loja física? Tem a Concept Store no MorumbiShopping, em São Paulo, onde o cupom não vale."
         ]
       }
@@ -63463,7 +63465,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você escolhe camiseta pelo menor preço: o que se paga a mais na Tech é a garantia de cor.",
-        "Você quer trocar cueca por tamanho: underwear só troca por defeito."
+        "Você depende de trocar cueca por tamanho: confira a restrição da política comercial de underwear antes de comprar."
       ]
     },
     "editorialNote": "Podemos receber comissão pela Insider. A Cecília comprou e usou a Blusa de Alça The Perfect Top; o resto vem das páginas da marca e do teste do cupom no checkout.",
@@ -74244,7 +74246,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Sim, a Probiótica é confiável: operada pela Supley, com CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Veja frete, prazos e o ponto de atenção.",
+    "description": "Sim, a Probiótica é confiável: a loja oficial é operada pela Supley, com CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Veja frete e prazos.",
     "metaDescription": "Com o PRO10EMCASACOMCECILIA, até 10% OFF na Probiótica: quem opera a loja, o CNPJ, o site oficial, as trocas e o frete.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -74257,7 +74259,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "CNPJ ativo nos dados da Receita Federal em 14/10/2026, o mesmo do rodapé do site",
       "Loja operada pela Supley, do mesmo grupo da Max Titanium e da Dr. Peanut",
-      "7 dias corridos para desistir da compra e 30 dias corridos para comunicar defeito, com coleta e reenvio por conta da Probiótica",
+      "Política publicada: 7 dias corridos para arrependimento e 30 dias corridos para comunicar defeito, com coleta e reenvio por conta da Probiótica",
       "Reputação Boa no Reclame Aqui, com 99% das reclamações dos últimos seis meses respondidas",
       "Parcelamento em até 6 vezes sem juros e até 5% de desconto no Pix e no boleto, em 14/10/2026"
     ],
@@ -74265,7 +74267,7 @@ export const reviewsData: unknown[] = [
       "O frete grátis depende da região: de R$ 104 na capital paulista a R$ 599 no Norte",
       "O frete grátis não vale para entrega por Sedex",
       "Atraso na entrega é o problema mais citado no Reclame Aqui",
-      "79,3% das reclamações dos últimos 6 meses foram resolvidas",
+      "Índice de solução de 79,3% entre reclamações finalizadas e avaliadas nos últimos 6 meses",
       "A ligação com a Supley não aparece no Quem Somos da Probiótica"
     ],
     "cta": {
@@ -74289,7 +74291,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Probiótica é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. Ela não é a Max Titanium, e sim uma marca irmã do mesmo grupo. O que pesa é o frete grátis, que varia por região, e o atraso na entrega; veja os capítulos abaixo. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
+          "Sim, a Probiótica é confiável: a loja oficial é operada pela Supley, grupo que também reúne a Max Titanium, publica identificação e política de trocas e tem reputação Boa no Reclame Aqui. Os pontos de atenção são o frete por região e o atraso na entrega; o cupom PRO10EMCASACOMCECILIA dá até 10% OFF."
         ]
       },
       {
@@ -74365,7 +74367,7 @@ export const reviewsData: unknown[] = [
               "Reembolso integral, com o frete pago na compra"
             ],
             [
-              "Defeito",
+              "Defeito (prazo da política)",
               "30 dias corridos para comunicar",
               "Comunicar o defeito; a loja analisa o caso",
               "Coleta e reenvio por conta da Probiótica"
@@ -74374,7 +74376,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na troca por defeito, depois da análise, você escolhe entre a troca do produto, o dinheiro de volta ou um cupom. O pedido de arrependimento vai para o e-mail do SAC, sac@supley.com.br, o mesmo do rodapé. Quando o pagamento foi no cartão, o estorno vem numa vez só, na fatura seguinte ou na outra.",
-          "Para não perder o prazo, guarde a nota fiscal e abra o pedido assim que perceber o problema: os 7 dias correm do recebimento, e não da data da compra."
+          "Guarde a nota fiscal e comunique o problema assim que perceber. No arrependimento online, os 7 dias contam do recebimento. A loja pede embalagem original e lacre intacto."
         ]
       },
       {
@@ -74424,7 +74426,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação da Probiótica no Reclame Aqui?",
         "paragraphs": [
-          "A página da Probiótica Laboratórios no Reclame Aqui mostrava reputação **Boa**, com nota 7,2 nos últimos seis meses (de abril a setembro), 99% das reclamações respondidas e 79,3% resolvidas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no artigo abaixo."
+          "A página da Probiótica Laboratórios no Reclame Aqui mostrava reputação **Boa**, com nota 7,2 nos últimos seis meses (de abril a setembro), 99% das reclamações respondidas e índice de solução de 79,3% entre as finalizadas e avaliadas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no artigo abaixo."
         ],
         "links": [
           {
@@ -74458,19 +74460,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Probiótica?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim. A loja é operada pela Supley, com CNPJ ativo, razão social e endereço no rodapé, política de trocas publicada (7 dias de arrependimento e 30 para defeito) e reputação Boa no Reclame Aqui, com 99% das reclamações respondidas nos últimos seis meses.",
-          "Há dois pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. E 79,3% das reclamações dos últimos 6 meses foram resolvidas; atraso na entrega é o problema mais citado no Reclame Aqui, então acompanhe o rastreio do pedido."
+          "Do ponto de vista da confiança, sim. A operação pela Supley, a identificação no rodapé e a política publicada mostram quem vende e quais canais usar. A reputação Boa do Reclame Aqui reflete reclamações já registradas e não garante o resultado de um novo pedido.",
+          "Há dois pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. E o índice de solução é de 79,3% entre as reclamações finalizadas e avaliadas; atraso na entrega é o problema mais citado no Reclame Aqui, então acompanhe o rastreio do pedido."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Probiótica é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo, trocas publicadas no site e reputação Boa no Reclame Aqui, com 99% das reclamações dos últimos seis meses respondidas.",
+          "A Probiótica é confiável? Sim. A loja oficial é operada pela Supley e publica identificação e política de trocas; a reputação no Reclame Aqui é Boa, com 99% das reclamações respondidas nos últimos seis meses.",
           "A Probiótica é da Supley? Sim. A própria Supley lista a Probiótica entre as marcas do grupo, ao lado de Max Titanium, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
           "A Probiótica é da Max Titanium? Não. As duas são marcas irmãs do mesmo grupo, a Supley, mas a Probiótica não pertence à Max Titanium.",
           "O site da Probiótica é seguro? O endereço oficial é probiotica.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
           "Qual é o CNPJ da Probiótica? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Laboratório de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos.",
-          "Quanto tempo tenho para trocar um produto da Probiótica? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto, e 30 dias corridos para comunicar defeito. No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "Quanto tempo tenho para trocar um produto da Probiótica? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto. Para defeito, a loja informa 30 dias corridos. No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
           "A Probiótica tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte. Não vale para Sedex.",
           "Tem cupom de primeira compra na Probiótica? Nosso cupom é o PRO10EMCASACOMCECILIA: dá até 10% OFF, com desconto menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho."
         ]
@@ -74494,7 +74496,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses. Veja qual perfil olhar, já que a loja é operada pela Supley, e o que fazer se o pedido falhar.",
-    "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. No Reclame Aqui, a reputação é Boa, com nota 7,2 em 6 meses e 79,3% das reclamações resolvidas.",
+    "metaDescription": "PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. No Reclame Aqui, nota 7,2 nos últimos 6 meses e 79,3% de solução entre as reclamações avaliadas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "draft": false,
@@ -74506,7 +74508,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Reputação Boa no Reclame Aqui, com nota 7,2 nos últimos 6 meses e 7,1 nos últimos 12",
       "99% das reclamações respondidas nos últimos 6 meses e 99,6% nos últimos 12",
-      "79,3% das reclamações dos últimos 6 meses resolvidas, cerca de 4 em cada 5",
+      "79,3% de solução entre as 58 reclamações avaliadas nos últimos 6 meses",
       "Avaliações de compra de 4,7 em 5 no topo do perfil"
     ],
     "cons": [
@@ -74517,7 +74519,7 @@ export const reviewsData: unknown[] = [
       "Reclamações de pedidos feitos no site podem estar no perfil da Supley, e não no da Probiótica"
     ],
     "cta": {
-      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% OFF.",
+      "text": "Se você decidiu comprar na Probiótica, entre pelo link da parceria e use PRO10EMCASACOMCECILIA. O desconto é de até 10% e varia por produto; confira o valor aplicado antes de pagar.",
       "label": "Ir para a Probiótica com o cupom",
       "url": "https://www.probiotica.com.br?utm_source=creators&utm_medium=PRO10EMCASACOMCECILIA&utm_campaign=probi",
       "sponsored": true
@@ -74537,14 +74539,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses. A loja responde quase tudo, mas quase metade de quem avaliou não voltaria a comprar. A loja do site é operada pela Supley, que tem perfil próprio; veja abaixo qual perfil olhar e o que fazer se o pedido der problema. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
+          "A Probiótica tem reputação Boa no Reclame Aqui, com nota 7,2 nos últimos seis meses, e 55,2% de quem avaliou disseram que voltariam a comprar. A Supley opera a loja e tem perfil próprio; veja abaixo qual perfil olhar. Para comprar com desconto, use o [cupom Probiótica](/cupons/probiotica)."
         ]
       },
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Probiótica",
         "paragraphs": [
           "Quem compra pela primeira vez quer saber se o pedido chega no prazo e o que acontece se der problema.",
-          "Toda loja que vende pela internet recebe reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. Os números mudam todos os dias, então tratamos os números lidos como uma fotografia, e não como uma garantia. Vale abrir o perfil de novo no dia da sua compra.",
+          "O Reclame Aqui reúne reclamações e avaliações sobre o atendimento. Os índices mostram respostas, solução informada por quem avaliou e intenção de voltar a fazer negócio. A tabela é uma fotografia dos períodos indicados; abra os perfis de novo antes de decidir.",
           "Este artigo não avalia produto. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista. O que dá para ler nos dados públicos é como a empresa lida com as reclamações que recebe."
         ]
       },
@@ -74653,7 +74655,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Probiótica responde às reclamações",
         "paragraphs": [
-          "Responde quase todas: 99% estavam respondidas, com uma aguardando, e o tempo médio de resposta ficava em cerca de uma semana. Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 79,3% das reclamações (cerca de 4 em cada 5), e quase metade de quem avaliou não voltaria a fazer negócio.",
+          "Nos últimos 6 meses, 99% das reclamações estavam respondidas, com uma aguardando, e a resposta levava em média 7 dias. Entre as 58 reclamações avaliadas, 79,3% foram consideradas resolvidas e 55,2% marcaram que voltariam a fazer negócio. Resposta e solução são indicadores diferentes.",
           "Só 58 das 105 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor falam de uma parte delas. Esses números mostram como a Probiótica foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
         ],
         "image": {
@@ -74690,8 +74692,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Probiótica?",
         "paragraphs": [
-          "A nota era 7,2 e a reputação Boa nos últimos 6 meses, com 99% das reclamações respondidas e 79,3% resolvidas. O ponto fraco é o \"voltariam\": só 55,2% de quem avaliou disse que voltaria a fazer negócio.",
-          "Quem compra pode confiar no atendimento básico, mas deve acompanhar o rastreio, guardar o número do pedido e olhar também o perfil da Supley, que opera a loja. Sobre quem está por trás da marca e as trocas, veja [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel)."
+          "Nos últimos 6 meses, a reputação foi Boa, nota 7,2, com 99% das reclamações respondidas. Entre as 58 avaliadas, 79,3% registraram solução e 55,2% disseram que voltariam a fazer negócio.",
+          "Antes de decidir, confira o perfil da Probiótica Laboratórios e também o da Supley, que opera a loja. Os índices resumem quem usou o Reclame Aqui; não antecipam o resultado de um pedido. Para conhecer a empresa e os procedimentos de atendimento, veja [Probiótica é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/probiotica-e-confiavel)."
         ]
       },
       {
@@ -74765,7 +74767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Probiótica](/cupons/probiotica) é o PRO10EMCASACOMCECILIA e dá até 10% OFF na loja, e em alguns produtos o desconto é menor. Vale em todo o site, em todas as formas de pagamento, para conta nova e para quem já comprou. O que pesa na conta é o frete grátis, cujo mínimo muda por região; veja a tabela abaixo."
+          "Digite PRO10EMCASACOMCECILIA no campo “Cupom de Desconto” do carrinho e clique em “Adicionar”. O [cupom Probiótica](/cupons/probiotica) dá até 10% OFF, com percentual menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Confira no resumo se o total ainda atinge o mínimo de frete grátis do seu CEP."
         ]
       },
       {
@@ -74819,8 +74821,8 @@ export const reviewsData: unknown[] = [
         "heading": "4. Confira a linha \"Descontos\" antes de pagar",
         "paragraphs": [
           "Depois do clique, o resumo do pedido muda. O código aparece no lugar do campo, com um X ao lado, e surge uma linha nova, \"Descontos\", entre o subtotal e o total, com o valor abatido em reais e com sinal de menos.",
-          "No nosso teste, o desconto foi de R$ 54,75 sobre o subtotal de R$ 659,35. É cerca de 8% do carrinho, abaixo dos 10% do título, porque o cupom não dá 10% em todos os produtos. O carrinho do teste tinha um kit e uma creatina em promoção, e o print mostra só o desconto total, sem separar quanto saiu de cada item. Então não dá para dizer que um produto específico recebe, ou não, os 10%.",
-          "Por isso, a regra prática é: **confira a linha \"Descontos\" e o total antes de pagar**. Se o valor for menor do que você esperava, é porque o desconto daquele carrinho é menor do que 10%."
+          "No teste, a linha \"Descontos\" mostrou R$ 54,75 sobre um subtotal de R$ 659,35, cerca de 8% do carrinho. O cupom oferece até 10%, com variação por produto. Por isso, não dá para afirmar que um produto específico recebe os 10%.",
+          "Confira a linha \"Descontos\" e o total antes de pagar. Compare o valor abatido com o subtotal para conhecer o percentual efetivo do seu carrinho."
         ],
         "image": "/images/reviews/probiotica/probiotica-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Resumo do pedido da Probiótica depois do cupom, com o código no lugar do campo e a linha Descontos com sinal de menos entre o subtotal e o total",
@@ -74906,7 +74908,7 @@ export const reviewsData: unknown[] = [
           "Troca na Probiótica: 7 dias para arrepender, 30 para defeito:"
         ],
         "bullets": [
-          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "**Arrependimento:** 7 dias corridos a partir do recebimento. A política da loja pede embalagem original e lacre intactos. O pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
           "**Defeito:** 30 dias corridos para comunicar. A loja analisa o caso, e a coleta e o reenvio ficam por conta da Probiótica."
         ],
         "postParagraphs": [
@@ -78144,7 +78146,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Max Titanium é confiável: loja operada pela Supley, CNPJ ativo, site oficial e reputação Boa no Reclame Aqui. Veja os prazos de troca, o frete grátis e como conferir o site.",
+    "description": "A Max Titanium é operada pela Supley, com CNPJ ativo e reputação Boa no Reclame Aqui de abril a setembro de 2026. Veja os prazos de troca, o frete e como conferir o site oficial.",
     "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial. A Max Titanium é confiável? Quem opera a loja, CNPJ, trocas, frete e Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -78159,14 +78161,14 @@ export const reviewsData: unknown[] = [
       "CNPJ ativo nos dados públicos em 14/10/2026, o mesmo do rodapé do site",
       "Loja operada pela Supley, do mesmo grupo da Probiótica, da Dr. Peanut e da Znack That",
       "7 dias corridos para desistir da compra, com devolução sem custo, e 30 dias para comunicar defeito em suplemento, com coleta e reenvio por conta da loja",
-      "Reputação Boa no Reclame Aqui, com 97,5% das reclamações dos últimos seis meses respondidas",
+      "Reputação Boa e 97,5% de respostas no recorte do Reclame Aqui de abril a setembro de 2026",
       "Até 5% de desconto no Pix, no boleto e no cartão em 1x, em 14/10/2026"
     ],
     "cons": [
       "O frete grátis depende da região: de R$ 104 na capital paulista a R$ 599 no Norte",
       "O frete grátis não vale para entrega por Sedex",
       "Atraso na entrega é o problema mais citado no Reclame Aqui",
-      "Tempo médio de resposta de 7 dias e 9 horas no Reclame Aqui nos últimos seis meses",
+      "Tempo médio de resposta de 7 dias e 9 horas no recorte de abril a setembro de 2026 do Reclame Aqui",
       "O site não tem página Quem Somos que ligue a marca à Supley"
     ],
     "cta": {
@@ -78190,7 +78192,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui. O que mais pesa é o frete grátis, que depende da região, e o atraso na entrega, o problema mais citado. Veja abaixo os prazos de troca, o frete e como conferir o site oficial; para comprar com desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
+          "Sim, a Max Titanium é confiável: a loja é operada pela Supley, tem CNPJ ativo, política de trocas publicada e reputação Boa no Reclame Aqui de abril a setembro. O que mais pesa é o frete grátis, que depende da região, e o atraso na entrega. Para comprar com desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
@@ -78242,7 +78244,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito",
         "paragraphs": [
-          "As regras ficam nas páginas de Termos e Condições e de Troca e Devolução do site. O que valia na nossa consulta está no quadro:"
+          "As regras ficam nas páginas de Termos e Condições e de Troca e Devolução do site. No arrependimento de compra online, a exigência de embalagem original e lacre intacto é da política da loja, não do prazo legal de 7 dias. As regras estão no quadro:"
         ],
         "comparisonTable": {
           "caption": "Prazos de arrependimento e de defeito da Max Titanium, segundo as páginas de Termos e Condições e de Troca e Devolução do site",
@@ -78274,7 +78276,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No arrependimento, a Max Titanium dá os meios para devolver o produto sem custo. O pedido vai para o e-mail do SAC, sac@supley.com.br, o mesmo do rodapé. Na troca por defeito, depois da análise, você escolhe entre a troca por um produto igual, o dinheiro de volta ou um cupom.",
+          "No arrependimento em até 7 dias, a Max Titanium dá os meios para devolver o produto sem custo. O pedido vai para o e-mail do SAC, sac@supley.com.br, o mesmo do rodapé. Na troca por defeito, depois da análise, você escolhe entre a troca por um produto igual, o dinheiro de volta ou um cupom.",
           "O reembolso é integral e inclui o frete pago na compra, na mesma forma de pagamento usada. A análise leva até 30 dias corridos a partir do recebimento do produto no Centro de Distribuição. Quando o pagamento foi no cartão, o estorno vem na fatura seguinte ou na outra, no prazo da administradora.",
           "Para não perder o prazo, guarde a nota fiscal e abra o pedido assim que perceber o problema: os 7 dias correm do recebimento, e não da data da compra. Os Termos e Condições falam em 90 dias só para produtos duráveis; é a página de Troca e Devolução que separa os 30 dias dos suplementos dos 90 dias dos duráveis."
         ]
@@ -78326,7 +78328,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação da Max Titanium no Reclame Aqui?",
         "paragraphs": [
-          "Na nossa consulta, o perfil \"Max Titanium Suplementos\" no Reclame Aqui mostrava reputação **Boa**, com nota 7,6 nos últimos seis meses, 97,5% das reclamações respondidas e 82,6% resolvidas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao)."
+          "O perfil \"Max Titanium Suplementos\" no Reclame Aqui mostrava, de abril a setembro, reputação **Boa** e nota 7,6, com 97,5% das reclamações respondidas. O índice de solução era de 82,6% entre as reclamações finalizadas e avaliadas. Os números de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Max Titanium no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/max-titanium-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -78348,14 +78350,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Max Titanium?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim. A loja tem identificação completa no rodapé, política de trocas publicada e reputação Boa no Reclame Aqui.",
-          "Há três pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. O tempo médio de resposta no Reclame Aqui foi de 7 dias e 9 horas nos últimos seis meses, e 62,3% dos consumidores que avaliaram dizem que voltariam a fazer negócio. E atraso na entrega é o problema mais citado, então acompanhe o rastreio do pedido e abra chamado cedo se ele parar."
+          "Do ponto de vista da confiança, sim. A identificação da loja pode ser conferida pelo domínio e pelo CNPJ do rodapé, e a política de trocas está publicada. A reputação Boa vale para o recorte de abril a setembro e não garante o resultado de um novo pedido.",
+          "Há três pontos de atenção. O frete grátis depende da região: começa em R$ 104 na capital paulista e chega a R$ 599 no Norte. No recorte de abril a setembro, o tempo médio de resposta no Reclame Aqui era de 7 dias e 9 horas, e 62,3% dos consumidores que avaliaram dizem que voltariam a fazer negócio. Atraso na entrega é o problema mais citado; acompanhe o rastreio do pedido e abra chamado cedo se ele parar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Max Titanium é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo, trocas publicadas no site e reputação Boa no Reclame Aqui, com 97,5% das reclamações dos últimos seis meses respondidas.",
+          "A Max Titanium é confiável? Sim. A loja é operada pela Supley, com CNPJ ativo e trocas publicadas no site. No recorte de abril a setembro, a reputação no Reclame Aqui era Boa, com 97,5% das reclamações respondidas.",
           "A Max Titanium é da Supley? Sim. A própria Supley lista a Max Titanium entre as marcas do grupo, ao lado de Probiótica, Dr. Peanut e Znack That, e o rodapé da loja traz a razão social da Supley.",
           "Quem é o dono da Max Titanium? A marca pertence ao grupo Supley, que é a empresa que aparece no rodapé do site, com o CNPJ 07.578.713/0004-29. O site da Supley diz que a trajetória do grupo começou em 2006.",
           "O site da Max Titanium é seguro? O endereço oficial é maxtitanium.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
@@ -78384,7 +78386,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. Veja o que mais gera queixa e o que fazer se o seu pedido atrasar ou der problema.",
-    "metaDescription": "Max Titanium no Reclame Aqui, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: reputação Boa, nota 7,6, 82,6% resolvidas e o que fazer.",
+    "metaDescription": "Max Titanium no Reclame Aqui, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: reputação Boa, nota 7,6, índice de solução de 82,6% e o que fazer.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "updatedAt": "2026-11-07",
@@ -78397,8 +78399,8 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Reputação Boa no Reclame Aqui nas três janelas: nota 7,6 em 6 meses, 7,2 em 12 meses e 7,6 em 2025",
       "97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12",
-      "82,6% das reclamações dos últimos 6 meses resolvidas, mais de 8 em cada 10",
-      "Tempo médio de resposta caiu de 12 dias e 23 horas em 2025 para 7 dias e 9 horas nos últimos 6 meses"
+      "Índice de solução de 82,6% nos últimos 6 meses, entre reclamações finalizadas e avaliadas: mais de 8 em cada 10",
+      "Tempo médio de resposta de 7 dias e 9 horas nos últimos 6 meses, contra 12 dias e 23 horas em 2025"
     ],
     "cons": [
       "Só 62,3% dos consumidores que avaliaram voltariam a fazer negócio nos últimos 6 meses",
@@ -78427,14 +78429,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos seis meses. A loja responde quase todas as reclamações e resolve a maioria, mas demora para responder e uma parte de quem avaliou não voltaria a comprar. Veja abaixo os números de cada janela e o que fazer se o pedido atrasar; para comprar com desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
+          "A Max Titanium tem reputação Boa no Reclame Aqui, com nota 7,6 nos últimos 6 meses. O índice de solução é de 82,6% entre reclamações finalizadas e avaliadas, e a resposta média leva 7 dias e 9 horas. Veja as janelas abaixo e o que fazer se o pedido atrasar; para desconto, use o [cupom Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar na Max Titanium",
         "paragraphs": [
-          "Quem compra suplemento pela internet tem duas dúvidas: o pedido chega no prazo, e o que acontece se der problema? O Reclame Aqui responde às duas com números. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
-          "Toda loja que vende pela internet recebe reclamações. O que o Reclame Aqui ajuda a medir é outra coisa: se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. Os números abaixo são de 14/10/2026 e mudam todo dia: vale abrir o perfil de novo no dia da compra."
+          "Antes de comprar, vale olhar quais problemas chegaram ao atendimento e como a empresa respondeu. O Reclame Aqui ajuda nessa pesquisa. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
+          "O perfil reúne reclamações de quem procurou a plataforma. Os índices mostram resposta, solução segundo os avaliadores e disposição de voltar a comprar. Os dados abaixo são de 14/10/2026 e mudam todo dia; abra o perfil novamente para ver a situação no dia da sua compra."
         ]
       },
       {
@@ -78470,7 +78472,7 @@ export const reviewsData: unknown[] = [
               "99,8% (0 aguardando)"
             ],
             [
-              "Resolvidas",
+              "Índice de solução entre reclamações finalizadas e avaliadas",
               "82,6%",
               "81,7%",
               "85,1%"
@@ -78502,7 +78504,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A leitura mais direta: a Max Titanium responde quase tudo e resolve mais de 8 em cada 10 reclamações nas três janelas. A janela de 12 meses é a mais fraca (nota 7,2, \"voltariam\" em 55,2%), e a de 6 meses melhora em relação a ela. O tempo de resposta também caiu, de 12 dias e 23 horas em 2025 para 7 dias e 9 horas nos últimos 6 meses, mas ainda se mede em dias, não em horas."
+          "O perfil tinha mais de 97% das reclamações respondidas nas três janelas. Os índices de solução superavam 80%, considerando as reclamações finalizadas e avaliadas. A janela de 12 meses tinha a menor nota geral (7,2) e o menor percentual de avaliadores que voltariam (55,2%). O prazo médio de resposta era de 7 dias e 9 horas na janela de 6 meses, contra 12 dias e 23 horas em 2025. Esses recortes se sobrepõem e não demonstram, sozinhos, uma melhora contínua."
         ],
         "images": [
           {
@@ -78551,9 +78553,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Max Titanium responde às reclamações",
         "paragraphs": [
-          "Responde quase todas: 97,5% estavam respondidas nos últimos 6 meses e 99% nos últimos 12, com 11 aguardando em cada janela. O tempo médio de resposta ficou em 7 dias e 9 horas nos 6 meses e em 8 dias e 8 horas nos 12 meses.",
-          "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, a loja resolveu 82,6% das reclamações, e 62,3% de quem avaliou voltaria a fazer negócio. Em outras palavras, perto de 4 em cada 10 consumidores que avaliaram não voltariam.",
-          "Só 207 das 446 reclamações dos últimos 6 meses foram avaliadas, então o \"voltariam\" e a nota do consumidor (6,32) falam de uma parte delas. Esses números mostram como a Max Titanium foi vista por quem usou o Reclame Aqui, não como é a experiência de todos os compradores."
+          "97,5% das reclamações estavam respondidas na janela de 6 meses e 99% na de 12, com 11 aguardando em cada uma. As médias de resposta eram de 7 dias e 9 horas e de 8 dias e 8 horas, respectivamente.",
+          "Responder, porém, não é o mesmo que resolver. Nos últimos 6 meses, o índice de solução era de 82,6%, considerando reclamações finalizadas e avaliadas. Entre os avaliadores, 62,3% voltariam a fazer negócio; perto de 4 em cada 10 disseram que não voltariam.",
+          "Naquela janela, 207 das 446 reclamações tinham sido avaliadas. O índice de solução, o percentual que voltaria e a nota do consumidor dependem dessas avaliações. Eles descrevem quem reclamou e avaliou no Reclame Aqui, sem representar todos os compradores."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa.webp",
@@ -78571,7 +78573,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Pedido atrasado:** acompanhe o rastreio e guarde o número do pedido. Quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\", no portal de atendimento, ou fale com o SAC pelos telefones e pelo e-mail.",
           "**Recusa na entrega:** se a embalagem chegar violada, o produto for diferente do pedido ou faltar item, recuse o recebimento e anote o motivo no verso da nota.",
-          "**Arrependimento:** são 7 dias corridos. A política da loja pede o produto na embalagem original, com o lacre intacto, então confira essa regra antes de abrir. O reembolso é integral, com o frete pago na compra, na mesma forma de pagamento.",
+          "**Arrependimento:** são 7 dias corridos, com reembolso integral e frete pago na compra. A loja pede embalagem original com lacre intacto, mas órgãos de defesa do consumidor orientam que o arrependimento não depende disso.",
           "**Defeito:** são 30 dias corridos para suplementos e 90 para produtos duráveis. A coleta e o reenvio ficam por conta da Max Titanium, e a análise leva até 30 dias do recebimento no centro de distribuição.",
           "**Erro de endereço:** se o pedido voltar por endereço errado, o frete do reenvio pode ser cobrado de você.",
           "**Se o atendimento direto não resolver:** abra uma reclamação no Reclame Aqui e, depois da resposta, avalie se o problema foi resolvido."
@@ -78587,18 +78589,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Max Titanium?",
         "paragraphs": [
-          "Os números sustentam a compra, com atenção ao prazo de entrega. Os pontos de atenção são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
-          "Quem compra pode confiar no básico, mas deve acompanhar o rastreio e abrir chamado cedo se o pedido atrasar, que é o problema mais citado. Sobre quem opera a loja e as trocas, veja [Max Titanium é confiável? Quem fabrica, site oficial, trocas e reputação](/reviews/max-titanium-e-confiavel)."
+          "A reputação Boa vinha acompanhada de resposta média de 7 dias e 9 horas e 62,3% dos avaliadores dispostos a voltar. Use esses dados para conhecer o atendimento e planejar o prazo.",
+          "Acompanhe o rastreio e procure o atendimento se a data prometida vencer. Veja também [quem opera a loja, o site oficial e as trocas da Max Titanium](/reviews/max-titanium-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Max Titanium é confiável segundo o Reclame Aqui? Na consulta, o perfil Max Titanium Suplementos mostrava reputação Boa, com nota 7,6 nos últimos 6 meses e 82,6% das reclamações resolvidas. Os pontos fracos são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
-          "Qual a nota da Max Titanium no Reclame Aqui? Nota 7,6 nos últimos 6 meses, 7,2 nos últimos 12 meses e 7,6 em 2025, todas na faixa Boa. A nota do consumidor, dada por quem avaliou o atendimento, era 6,32, 5,68 e 6,01.",
-          "A Max Titanium responde às reclamações? Sim. Na consulta, o perfil mostrava 97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12, com resposta em cerca de uma semana ou mais (7 dias e 9 horas nos 6 meses).",
+          "A Max Titanium é confiável segundo o Reclame Aqui? O perfil tinha reputação Boa, com nota 7,6 nos últimos 6 meses e índice de solução de 82,6% entre reclamações finalizadas e avaliadas. Os pontos fracos são o tempo médio de resposta, de 7 dias e 9 horas, e o \"voltariam\", de 62,3%.",
+          "Qual a nota da Max Titanium no Reclame Aqui? Nota 7,6 na janela de 6 meses, 7,2 na de 12 meses e 7,6 em 2025, todas na faixa Boa. A nota do consumidor, dada por quem avaliou o atendimento, era 6,32, 5,68 e 6,01.",
+          "A Max Titanium responde às reclamações? Sim. O perfil mostrava 97,5% das reclamações respondidas na janela de 6 meses e 99% na de 12, com resposta em média de 7 dias e 9 horas na primeira janela.",
           "O que fazer se o pedido da Max Titanium atrasar? Acompanhe o rastreio e, quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\" no portal de atendimento ou fale com o SAC pelo 4004-2696 ou por sac@supley.com.br. Se não resolver, abra uma reclamação no Reclame Aqui.",
-          "Como pedir troca ou reembolso na Max Titanium? No arrependimento, são 7 dias corridos, e a política da loja pede embalagem original e lacre intacto; o reembolso é integral, com o frete pago na compra. Em caso de defeito, são 30 dias corridos para suplementos e 90 para duráveis, com coleta e reenvio por conta da Max Titanium."
+          "Como pedir troca ou reembolso na Max Titanium? Procure o atendimento da loja e informe o motivo. No arrependimento, são 7 dias corridos, com reembolso integral e frete pago na compra; a loja pede embalagem original com lacre intacto. Em caso de defeito, são 30 dias corridos para suplementos e 90 para duráveis, com coleta e reenvio por conta da Max Titanium."
         ]
       }
     ]
@@ -78661,7 +78663,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Max Titanium](/cupons/max-titanium) é o MAX10EMCASACOMCECILIA e dá até 10% OFF na loja. Vale em todas as formas de pagamento, para conta nova e para quem já comprou, e soma com as promoções e com o Pix. O que muda a conta é o frete grátis, cujo mínimo varia por região; veja a tabela abaixo."
+          "Digite MAX10EMCASACOMCECILIA no campo “Cupom de Desconto” do carrinho e clique em “Adicionar”. O [cupom Max Titanium](/cupons/max-titanium) dá até 10% OFF, com percentual menor em alguns produtos, e vale em todas as formas de pagamento, na primeira compra e nas seguintes, somando com as promoções e com o Pix. Confira a linha “Descontos” e o frete pelo CEP."
         ]
       },
       {
@@ -78710,7 +78712,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Depois do clique, o resumo ganha a linha \"Descontos\", com o valor abatido em reais. O código aparece no resumo e como etiqueta no item.",
           "No nosso teste, a linha mostrou **R$ -16,75**, o preço do item foi para R$ 172,25 e o total ficou em R$ 172,25. Isso é cerca de 9% sobre os R$ 189,00 do whey, abaixo dos 10% do título. É por isso que o texto diz \"até 10%\": o percentual varia por produto, e não dá para tratar esse número como regra.",
-          "A regra prática é: **confira a linha \"Descontos\" e o total antes de pagar**. Se o valor for menor do que você esperava, é porque o desconto daquele carrinho é menor do que 10%."
+          "Confira a linha \"Descontos\" e o total antes de pagar. O percentual pode oscilar por produto: compare o abatimento com o preço promocional dos itens, como no teste abaixo. Se o resultado estiver abaixo do esperado, confira as condições do código e o resumo do seu carrinho antes de concluir."
         ],
         "image": "/images/reviews/max-titanium/max-titanium-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Carrinho da Max Titanium depois do cupom, com o código no resumo e no item, a linha Descontos de menos R$ 16,75 e o total de R$ 172,25",
@@ -79011,7 +79013,7 @@ export const reviewsData: unknown[] = [
           "no **Pix**, o valor cai na mesma conta em até 6 dias úteis depois que a central recebe o pacote (os termos de uso falam em até 7 dias no arrependimento);",
           "no **cartão**, o estorno leva de 30 a 60 dias;",
           "o **crédito** é liberado no sábado seguinte ao recebimento e é usado no campo \"Utilizar meu crédito\";",
-          "o frete pago na compra só volta se **todos os produtos do pedido** forem devolvidos;",
+          "o frete pago na compra só volta se **todos os produtos do pedido** forem devolvidos; em devolução parcial, confirme o tratamento do frete com a loja antes de enviar;",
           "cashback, cupons e frete grátis não são reembolsados."
         ],
         "postParagraphs": [
@@ -79148,7 +79150,7 @@ export const reviewsData: unknown[] = [
       "O tempo médio de resposta é de 2 dias e 18 horas nos 6 meses até outubro, contra 2 dias e 2 horas nos 12"
     ],
     "cta": {
-      "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom CSEMCASACOMCECILIA, de 10% OFF em todo o site.",
+      "text": "Se decidiu comprar na Cléa Store, use CSEMCASACOMCECILIA para ter 10% OFF em todo o site. Confira a aplicação do desconto no carrinho.",
       "label": "Ir para a Cléa Store com o cupom",
       "url": "https://www.cleastore.com.br/",
       "sponsored": true
@@ -79237,7 +79239,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na janela de 6 meses a nota cai e a resposta demora mais, e as taxas ficam em patamares parecidos nas duas. A leitura mais direta é que a Cléa Store responde a tudo, resolve a maior parte dos casos, e mesmo assim cerca de 4 em cada 10 consumidores que avaliaram não voltariam a fazer negócio."
+          "O recorte de 6 meses tem nota menor e tempo médio de resposta maior que o de 12. As taxas de resolução das reclamações avaliadas são próximas, mas a intenção de voltar a comprar fica abaixo de 60% nos dois. Responder e resolver, portanto, não significou recuperar a confiança de todos os que avaliaram."
         ],
         "images": [
           {
@@ -79314,11 +79316,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se o seu pedido der problema: o que fazer",
         "paragraphs": [
-          "Se o pedido der problema, fale no botão \"Fale com Atendente\" do site. Se é a primeira compra, acompanhe o rastreio desde o início; se tem pressa, fale com a loja assim que o prazo vencer. As regras de devolução, defeito e arrependimento estão nas páginas de política da loja. Em resumo, o caminho é este:"
+          "Tenha o número do pedido e os registros da compra em mãos. O caminho depende do problema:"
         ],
         "bullets": [
           "**Pedido atrasado ou não recebido:** guarde o número do pedido e acompanhe o rastreio no seu perfil do site. O prazo de entrega aparece no checkout. Quando ele vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\", com o número do pedido.",
-          "**Devolução e defeito:** são 30 dias corridos para devolução e 90 dias corridos para defeito de fabricação, a partir do recebimento. Os prazos completos e o passo a passo estão em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel).",
+          "**Devolução e defeito:** a política da loja prevê 30 dias corridos para devolução e 90 para defeito de fabricação, a partir do recebimento. Os prazos e o passo a passo estão em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel).",
           "**Se o atendimento direto não resolver:** abra uma reclamação no Reclame Aqui. A empresa responde dentro da própria plataforma, e depois da resposta você pode avaliar se o problema foi resolvido."
         ]
       },
@@ -79343,7 +79345,7 @@ export const reviewsData: unknown[] = [
           "Qual a nota da Cléa Store no Reclame Aqui? Nota 6,9 nos 6 meses até outubro (Regular) e 7,1 nos 12 meses até outubro (Boa); a nota do consumidor está na tabela. As avaliações de compra, de 4,8 em 5, são outra métrica.",
           "A Cléa Store responde às reclamações? Sim. A tabela mostra todas as reclamações respondidas nos últimos 6 e nos últimos 12 meses, com resposta em poucos dias, em média.",
           "O que fazer se o pedido da Cléa Store atrasar? Acompanhe o rastreio e, quando o prazo mostrado no checkout vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\" do site, com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
-          "Como pedir devolução ou troca na Cléa Store? A devolução tem 30 dias corridos a partir do recebimento, pelo formulário cleastore.troquefacil.com.br, e a postagem é grátis. Em caso de defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição."
+          "Como pedir devolução ou troca na Cléa Store? A política da loja prevê devolução em até 30 dias corridos do recebimento, pelo formulário cleastore.troquefacil.com.br, com postagem grátis. Para defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição. Confira as condições atuais no site antes de pedir."
         ]
       }
     ]
@@ -79363,7 +79365,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Veja o passo a passo para aplicar no carrinho e como ele soma com a promoção e com o cashback.",
+    "description": "O CSEMCASACOMCECILIA dá 10% OFF na Cléa Store. Veja como aplicar no carrinho e a diferença entre o desconto imediato e o cashback previsto para outra compra.",
     "metaDescription": "O CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store, testado no carrinho. Veja como aplicar, o cashback e o frete grátis.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -79376,14 +79378,14 @@ export const reviewsData: unknown[] = [
     "pros": [
       "10% OFF em todo o site, em todas as formas de pagamento",
       "Soma com as promoções: no teste, valeu num kit já em promoção",
-      "Soma com o cashback de 10%: no teste, calculado sobre o valor com desconto",
+      "No teste, o pedido com cupom continuou mostrando cashback previsto de até 10% do total com desconto",
       "Vale para conta nova e para quem já comprou na loja"
     ],
     "cons": [
       "Não soma com outro cupom: um voucher por pedido",
       "Não dá frete grátis: o frete grátis da loja começa acima de R$ 599",
       "O cashback previsto cai junto com o desconto: de R$ 25,80 para R$ 23,22 no teste",
-      "Cupom, cashback e frete grátis não são reembolsados em caso de devolução"
+      "Pela política da loja, cupom, cashback e frete grátis não são reembolsados na devolução"
     ],
     "cta": {
       "text": "Entre na Cléa Store pelo link da parceria e digite o CSEMCASACOMCECILIA no resumo do pedido. Confira a linha Desconto antes de pagar.",
@@ -79396,7 +79398,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você já ia comprar na Cléa Store e quer 10% OFF em todo o site",
-        "Você compra item em promoção e quer o desconto por cima, com o cashback junto"
+        "Você quer conferir o desconto em item promocional e o cashback previsto para uma compra futura"
       ],
       "skipIf": [
         "Você espera frete grátis só com o cupom",
@@ -79483,7 +79485,7 @@ export const reviewsData: unknown[] = [
         "heading": "5. Confira o cashback",
         "paragraphs": [
           "Antes do cupom, a tela mostrava \"Receba até R$ 25,80 de cashback\". Depois, passou a mostrar \"Receba até R$ 23,22 de cashback\". O resumo seguiu com o aviso \"Seu pedido vai gerar cashback!\".",
-          "No teste, R$ 23,22 é 10% de R$ 232,20: o cashback saiu sobre o valor já com o cupom, e por isso o número caiu de R$ 25,80 para R$ 23,22.",
+          "No teste, a previsão de até R$ 23,22 correspondia a 10% de R$ 232,20. Esse crédito é para uma compra futura e não reduziu o total do pedido.",
           "A página de cashback da loja diz como ele funciona:"
         ],
         "bullets": [
@@ -79500,7 +79502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom, promoção e cashback: como somam",
         "paragraphs": [
-          "No nosso teste, os três valeram no mesmo pedido, nesta ordem:"
+          "No teste, a promoção reduziu o preço do kit e o cupom deu mais 10% de desconto. O checkout também mostrou a previsão de cashback para outra compra:"
         ],
         "comparisonTable": {
           "caption": "Teste do cupom CSEMCASACOMCECILIA no carrinho da Cléa Store",
@@ -79549,25 +79551,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisar devolver um produto comprado com cupom",
         "paragraphs": [
-          "A Cléa Store tem devolução grátis. Em caso de devolução, a política da loja não reembolsa cupom, cashback nem frete grátis.",
+          "A Cléa Store tem devolução grátis. Pela política da loja, cupom, cashback e frete grátis não são reembolsados; na dúvida sobre o valor, confirme com o atendimento antes de enviar.",
           "O quadro completo de prazos e do passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel). Os números da loja no Reclame Aqui estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
-          "Se você já ia comprar na Cléa Store, sim. O CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, soma com as promoções e com o cashback, como no nosso teste. A única restrição é de um cupom por pedido.",
+          "Se você já ia comprar na Cléa Store, confira o CSEMCASACOMCECILIA no carrinho. Ele dá 10% OFF em todo o site e em todas as formas de pagamento. No teste, o desconto entrou no item promocional e o pedido mostrou uma previsão de cashback para outra compra. A loja aceita um cupom por pedido.",
           "Antes de pagar, confira a linha \"Desconto\" e o total. As condições atualizadas do código ficam na [página do cupom da Cléa Store](/cupons/clea-store)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o cupom da Cléa Store? O cupom da nossa parceria é o CSEMCASACOMCECILIA, que dá 10% OFF em todo o site oficial, o cleastore.com.br. Digite o código no campo \"Cupom de desconto\" do resumo do pedido e clique em \"Adicionar\".",
+          "Qual é o cupom da Cléa Store? É o CSEMCASACOMCECILIA, com 10% OFF em todo o site oficial, cleastore.com.br. No resumo do pedido, clique em “Adicionar” ao lado de “Cupom de desconto”, digite o código e confirme a aplicação.",
           "Tem cupom de primeira compra na Cléa Store? Sim. O CSEMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para conta nova quanto para quem já comprou na loja.",
           "O cupom vale em todas as formas de pagamento? Sim. O código vale em todas as formas de pagamento da loja.",
           "O cupom da Cléa Store soma com as promoções? Sim. No nosso teste, o 10% valeu sobre o preço promocional.",
-          "O cupom da Cléa Store soma com o cashback? Sim. No nosso teste, o resumo do pedido continuou mostrando cashback, de até R$ 23,22.",
+          "O cupom da Cléa Store soma com o cashback? O pedido com cupom mostrou cashback previsto de até R$ 23,22 para outra compra, sem abater o total de R$ 232,20 no teste.",
           "Posso usar dois cupons no mesmo pedido? Não. Os termos da loja dizem que cada cliente pode usar apenas um voucher por pedido.",
           "O cupom dá frete grátis? Não. O frete grátis é uma regra da loja, que anunciava frete grátis acima de R$ 599. O frete é calculado pelo CEP, no carrinho."
         ]
@@ -79858,8 +79860,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Max November da Max Titanium vai o mês inteiro, com cashback de até 16%, roupas com 50% OFF e Pix com até 5%. Veja como o cupom MAX10EMCASACOMCECILIA soma com as promoções.",
-    "metaDescription": "Black Friday Max Titanium 2026: o cupom MAX10EMCASACOMCECILIA dá até 10% OFF. Cashback de até 16%, roupas com 50% OFF e até 5% no Pix.",
+    "description": "O Max November vai o mês inteiro, com cashback de até 16%, roupas com 50% OFF e Pix com até 5%. O MAX10EMCASACOMCECILIA dá até 10% OFF; compare o preço final com outubro.",
+    "metaDescription": "Black Friday Max Titanium 2026: MAX10EMCASACOMCECILIA dá até 10% OFF. Compare o Max November com outubro e confira Pix de até 5%, cashback e brindes.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-07",
@@ -79906,14 +79908,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Max Titanium 2026",
         "paragraphs": [
-          "O Max November da Max Titanium já começou e vai o mês inteiro: cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa e Pix e boleto com até 5%. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções e com o Pix; confira a linha de descontos no carrinho."
+          "O Max November já começou e vai o mês inteiro: cashback de até 16%, roupas e acessórios com 50% OFF, brindes por faixa e Pix e boleto com até 5%. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF e soma com as promoções e o Pix. O Pix pode render menos de 5% por item; confira o total no carrinho."
         ]
       },
       {
         "heading": "Quando é e o que está no ar no Max November",
         "paragraphs": [
           "O **Max November** de 2026 vai de 1º a 30 de novembro, o mês inteiro, e a home da Max Titanium já traz o banner de Black Friday. A sexta-feira do calendário é 27 de novembro, e a Cyber Monday, 30 de novembro; na loja, a campanha é o mês todo, não só a sexta.",
-          "O que a home anuncia: cashback de até 16%; roupas e acessórios com 50% OFF; o \"Comprou ganhou\", com brindes Znack That por faixa de valor do pedido, até 3 brindes; e Pix e boleto com até 5% OFF.",
+          "A home anuncia cashback de até 16%, roupas e acessórios com 50% OFF e “Comprou ganhou”, com brindes Znack That por faixa de pedido, até três brindes. O Pix e o boleto são anunciados com desconto de até 5%; o valor efetivo depende do item e deve ser conferido no carrinho.",
           "Os banners da home trazem duas regras: o cashback de até 16% vale em compras acima de R$ 150, em dobro para todos os níveis do Elite Member, e quem compra acima de R$ 199,90 ganha um par de meias exclusivo, por tempo limitado. A loja não publicou as faixas do cashback abaixo dos 16% nem o valor de pedido de cada brinde Znack That. Confira a página da campanha antes de fechar o carrinho, e compare o preço do dia com a tabela de outubro, abaixo."
         ],
         "image": {
@@ -80003,9 +80005,9 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os preços de lista só aparecem nos itens que a loja já vendia com desconto. Pela nossa conta, o Whey Blend estava 35% abaixo do preço de lista, o Top Whey 3W + Sabor, 31%, a Creatina 500g, 24%, e a Creatina 300 g, 20%. O Top Whey 3W + Sabor e o Top Whey 3W + Performance têm o mesmo preço de lista, R$ 273,55, mas em outubro o primeiro custava R$ 84,55 a menos.",
-          "Na creatina, o pote maior saía mais barato por grama: R$ 17,51 por 100 g na de 500g, contra R$ 19,97 na de 300 g. Na linha de whey, a diferença entre o mais barato e o mais caro, por 100 g, passava de quatro vezes.",
+          "Na creatina de outubro, o pote de 500 g tinha menor preço por peso: R$ 17,51 por 100 g, contra R$ 19,97 no de 300 g. No whey, o preço por 100 g de pó não mede o custo por proteína, porque fórmulas e teores diferem; não use essa coluna sozinha para escolher.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
-          "Um preço do Max November só é vantagem se ficar abaixo desta tabela. O preço do site muda sem aviso, então confira no dia."
+          "Para comparar com outubro, use o mesmo produto, sabor e tamanho: a tabela registra preços de venda antes de cupom e Pix. Para decidir a compra de hoje, confira também cupom, pagamento e frete no total. Um benefício adicional pode ter valor para você, mesmo sem redução do preço do produto."
         ]
       },
       {
@@ -80051,7 +80053,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**O cupom abateu cerca de 9% sobre a promoção.** No whey do teste, feito em outubro, o percentual ficou abaixo dos 10%.",
           "**O Pix é de até 5%.** A home anuncia até 5% OFF no Pix e no boleto, e o percentual varia por produto: confira no carrinho.",
-          "**O cashback é da loja.** Não testamos o cupom num produto com preço do Max November nem o crédito do cashback junto com o código; a linha \"Descontos\" do carrinho mostra o que o cupom abateu antes de pagar."
+          "**Cashback é crédito da loja.** A linha “Descontos” do carrinho mostra só o abatimento do cupom, não o cashback recebido. Confira elegibilidade, prazo e condições do crédito antes de contar com ele."
         ],
         "postParagraphs": [
           "Para o passo a passo do carrinho, veja [Cupom Max Titanium MAX10EMCASACOMCECILIA: como usar o desconto de 10%](/reviews/cupom-max-titanium-como-usar). As condições atualizadas ficam na [página do cupom da Max Titanium](/cupons/max-titanium)."
@@ -80107,11 +80109,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16% acima de R$ 150, um par de meias de brinde acima de R$ 199,90, roupas e acessórios com 50% OFF, brindes por faixa de valor e Pix e boleto com até 5%.",
+          "Quando começa e quanto dura a Black Friday da Max Titanium? O Max November já está no ar e vai o mês inteiro, até o último dia de novembro, com a Black Friday do calendário na última sexta-feira. A home anuncia cashback de até 16% acima de R$ 150, um par de meias de brinde acima de R$ 199,90, roupas e acessórios com 50% OFF, brindes por faixa de valor e Pix e boleto anunciados com até 5%, conforme o item.",
           "O cupom da Max Titanium vale na Black Friday? O MAX10EMCASACOMCECILIA é o mesmo código do resto do ano: vale em todas as formas de pagamento e soma com as promoções do site e com o Pix. Num produto com preço do Max November ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
           "O cupom vale com produto em promoção? Sim. No teste no carrinho, o cupom abateu R$ 16,75 de um Top Whey 3W que já estava com preço promocional. Se o Max November tiver regra própria para o cupom, o carrinho mostra antes de pagar.",
-          "O cupom soma com o cashback do Max November? Não testamos. O cashback é da loja, com as regras na página da campanha; o cupom entra no campo do carrinho, e a linha Descontos mostra o que ele abateu.",
-          "O cupom soma com o desconto do Pix? Sim. O cupom soma com o desconto de até 5% do Pix e do boleto que a loja anuncia no Max November.",
+          "O cupom soma com o cashback do Max November? Não dá para afirmar pelo carrinho: o cupom abate o preço na hora, e o cashback é um crédito da loja com regras próprias. Confira na campanha os produtos e clientes elegíveis, o prazo e como o saldo poderá ser usado.",
+          "O cupom soma com o desconto do Pix? Sim. O desconto de pagamento anunciado para Pix e boleto pode ser menor que 5% por item. Confira no carrinho o valor dos produtos, o cupom, o pagamento e o frete antes de pagar.",
           "Quanto é o frete grátis da Max Titanium? Depende da região do CEP: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte, segundo a política do site na consulta de outubro. O valor do frete não conta para o mínimo, e Sedex fica de fora.",
           "O cupom pode tirar o frete grátis? Pode. Se o total depois do cupom ficar abaixo do mínimo da sua região, o frete pode ser cobrado. Confira o total no carrinho antes de pagar.",
           "Posso usar o cupom na primeira compra? Pode. O código vale para conta nova e para quem já comprou, e depois o resumo do pedido mostra a linha \"Descontos\"."
@@ -80330,14 +80332,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Probiótica 2026",
         "paragraphs": [
-          "O Novembro PRO da Probiótica já começou, por tempo limitado, com Pix e boleto de até 5% OFF; a loja não publicou data de fim nem percentual geral, e as ofertas podem sair do ar quando o estoque acaba. O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional."
+          "O Novembro PRO está no ar, por tempo limitado, com Pix e boleto de até 5% OFF; a loja não publicou data de fim nem percentual geral, e as ofertas podem sair do ar quando o estoque acaba. O PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional, conforme o produto."
         ]
       },
       {
         "heading": "Quando é e o que está no ar no Novembro PRO",
         "paragraphs": [
           "A campanha de novembro da Probiótica é o Novembro PRO, e ele já começou: a home diz \"Já começou o Novembro PRO, por tempo limitado\", com Pix e boleto de até 5% OFF. A loja não publicou data de fim nem um percentual geral de desconto: o preço de campanha aparece produto a produto, com o preço riscado ao lado.",
-          "A Black Friday do calendário cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30. Os termos de uso dizem que as ofertas \"podem ser lançadas a qualquer momento, sem aviso prévio\", e uma oferta que você viu pode sair do site quando o estoque acaba: se o preço do dia já está abaixo da tabela de outubro, não espere a sexta."
+          "Em 2026, a Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Os termos da loja permitem lançar ofertas sem aviso prévio, e o estoque pode mudar. A tabela de outubro ajuda a comparar, mas não prevê os preços dessas datas nem decide, sozinha, se vale comprar agora."
         ],
         "image": {
           "src": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
@@ -80350,7 +80352,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de outubro para comparar",
         "paragraphs": [
-          "A régua é o catálogo público do site em outubro, antes do cupom, do Pix e do Novembro PRO. O preço da loja muda, então use a tabela como régua: se o preço do dia ficar abaixo dela, o produto está mais barato que em outubro."
+          "A tabela registra preços do catálogo público de 14/10/2026, antes de cupom, Pix e Novembro PRO. Compare o mesmo produto, sabor, embalagem e quantidade. Depois, confira o total com os descontos e o frete: um preço abaixo da tabela é menor que o registrado em outubro, sem garantir a melhor oferta futura."
         ],
         "comparisonTable": {
           "caption": "Preços da Probiótica em 14 de outubro de 2026: preço do dia e preço riscado, antes do cupom e do Pix.",
@@ -80454,7 +80456,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kits e trocas: o que a loja diz nos termos",
         "paragraphs": [
-          "Kit não recebe promoção. Os termos da loja dizem que as promoções não valem para kits, porque eles já têm desconto. Se um kit estiver com preço de campanha, a regra não impede que ele esteja barato, mas ele não ganha uma segunda promoção por cima. Antes de comprar, compare o preço do kit com o das peças avulsas, que podem estar na promoção do dia.",
+          "Os termos da loja dizem que promoções não valem para kits, porque eles já têm desconto. Isso não diz qual benefício entra em cada kit do Novembro PRO. Compare o preço do kit com os mesmos itens avulsos e confira no carrinho os descontos que aparecem.",
           "Os prazos de troca e devolução:"
         ],
         "bullets": [
@@ -80469,7 +80471,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já começou, por tempo limitado, sem data de fim publicada; a Black Friday do calendário é a última sexta-feira de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba.",
+          "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já está no ar, por tempo limitado, sem data de fim publicada. A Black Friday do calendário é a última sexta de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba; confirme as disponíveis no dia da compra.",
           "O cupom PRO10EMCASACOMCECILIA vale no Novembro PRO? Ele vale no site oficial, em todas as formas de pagamento, dá até 10% OFF, com percentual menor em alguns produtos, e soma com o preço promocional. Num produto com preço do Novembro PRO ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
           "O cupom soma com produto em promoção? Soma com o preço promocional: no nosso teste, a creatina estava em promoção e o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
           "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto, e o checkout mostra o valor final.",
@@ -80499,7 +80501,8 @@ export const reviewsData: unknown[] = [
       {
         "slug": "probiotica-reclame-aqui-nota-reputacao"
       }
-    ]
+    ],
+    "bodyDatesReason": "campanha"
   },
   {
     "bodyDatesReason": "campanha",
@@ -80630,7 +80633,7 @@ export const reviewsData: unknown[] = [
           "No nosso teste, o carrinho tinha só o Kit 3 T-Shirts Oversized Classic. O cupom de 10% incidiu sobre o preço promocional, não sobre os R$ 387,00."
         ],
         "comparisonTable": {
-          "caption": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic.",
+          "caption": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic, feito antes da campanha Black Friday.",
           "headers": [
             "Etapa",
             "O que a loja mostrou"
@@ -80687,7 +80690,7 @@ export const reviewsData: unknown[] = [
           "**Cashback de 10% em créditos.** A página de cashback da loja diz que o benefício equivale a 10% em créditos, concedidos automaticamente ao comprar no site. Os créditos ficam disponíveis em até 1 dia útil, valem por 30 dias e são acumulativos. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\", na etapa de pagamento. A página não cita valor mínimo nem exclusões."
         ],
         "postParagraphs": [
-          "O cupom e o cashback valem no mesmo pedido. No nosso teste, o checkout mostrava um cashback previsto de até R$ 25,80 antes do cupom e de até R$ 23,22 depois. Os R$ 23,22 são 10% dos R$ 232,20: a previsão é sobre o valor já com o cupom."
+          "O cupom e o cashback valem no mesmo pedido, mas o cashback é crédito para uma compra futura. No nosso teste, o checkout previa até R$ 25,80 antes do cupom e até R$ 23,22 depois, que são 10% dos R$ 232,20 já com o cupom. Esses créditos não abatem o valor pago naquele pedido."
         ]
       },
       {
@@ -80695,7 +80698,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Cléa Store na Black Friday? O cupom da nossa parceria é o CSEMCASACOMCECILIA, com 10% OFF em todo o site, em todas as formas de pagamento.",
           "O cupom vale em kit em promoção? No teste de outubro, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, e não testamos o cupom sobre os preços da Black Friday: confira a linha Desconto antes de pagar.",
-          "O cupom soma com o cashback? Sim. No nosso teste, o checkout mostrou cashback previsto de até R$ 23,22, calculado sobre o valor com o cupom.",
+          "O cupom soma com o cashback? Sim, mas o cashback é crédito futuro: no nosso teste, o checkout mostrou até R$ 23,22 de créditos previstos sobre o valor depois do cupom. Esse benefício não reduz o valor pago no pedido. Confira a previsão antes de pagar.",
           "Posso usar dois cupons no mesmo pedido? Não. Pelos termos da loja, cada cliente usa um voucher por pedido.",
           "O cupom dá frete grátis? Não. O frete grátis é regra da loja e valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",
           "A Cléa Store tem devolução grátis? Sim, sempre: a postagem não é cobrada. O prazo é de 30 dias corridos depois do recebimento, com a peça sem uso e com a nota fiscal.",
@@ -81042,11 +81045,11 @@ export const reviewsData: unknown[] = [
           "O passo a passo do nosso teste, com o brinde no ar:"
         ],
         "bullets": [
-          "Adicione uma peça ao carrinho. Pode ser um kit: um kit de 3 conta como uma peça.",
-          "Na janela de brindes, encontre o cartão \"T-Shirts Oversized Algodão\", com R$ 129,00 riscado e R$ 0,00.",
-          "Escolha a **cor** e o **tamanho** entre as opções que a janela mostra.",
-          "Clique em **\"Selecionar\"**.",
-          "Confira o carrinho: a T-Shirt aparece como item, com R$ 129,00 riscado e R$ 0,00. No nosso teste, ela entrou na cor Preto, tamanho P."
+          "Adicionamos uma peça ao carrinho; no teste, o kit de três contava como uma peça.",
+          "Na janela de brindes aparecia o cartão “T-Shirts Oversized Algodão”, com R$ 129,00 riscado e R$ 0,00.",
+          "A janela oferecia escolha de cor e tamanho entre as opções disponíveis.",
+          "A escolha era confirmada em “Selecionar”.",
+          "No carrinho do teste, a T-Shirt apareceu a R$ 0,00, com R$ 129,00 riscado, na cor Preto e tamanho P."
         ],
         "postParagraphs": [
           "A loja chama a T-Shirt Oversized de best-seller da marca: 100% algodão penteado premium.",
@@ -81134,7 +81137,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Frete grátis acima de R$ 599.** No nosso teste, com o total de R$ 477,09, a barra do topo dizia \"Faltam R$ 121,91 para frete grátis\". 599,00 − 477,09 = 121,91: a loja conta o total **depois do cupom**, não o preço de tabela nem o subtotal. Abaixo de R$ 599, o frete é calculado pelo CEP, no link \"Calcular\" do resumo do pedido. Se o carrinho está perto dos R$ 599, aplique o cupom primeiro e confira a barra depois.",
           "**Cashback de 10% em créditos.** A página de cashback da loja, diz que os créditos são concedidos automaticamente na compra pelo site, ficam disponíveis em até 1 dia útil e valem por 30 dias. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\". O cupom e o cashback valem no mesmo pedido.",
-          "**Devolução grátis.** O prazo é de 30 dias corridos depois do recebimento, e a postagem não é cobrada. Cupom, cashback e frete grátis não são reembolsados na devolução. O passo a passo está em [Cléa Store é confiável? Quem vende, site oficial, trocas e reputação](/reviews/clea-store-e-confiavel)."
+          "**Devolução grátis.** A loja informava prazo de 30 dias corridos após o recebimento e postagem sem custo. Cupom, cashback e frete grátis não são reembolsados na devolução. Veja [Cléa Store é confiável?](/reviews/clea-store-e-confiavel)."
         ]
       },
       {
@@ -81167,7 +81170,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "As 20 peças da seleção da Cecília na Insider, com os preços de outubro e o preço final com o cupom EMCASACOMCECILIA, que dá 15% OFF sem valor mínimo e vale um por pedido.",
-    "metaDescription": "Promoção Insider: 20 peças da seleção da Cecília com o cupom EMCASACOMCECILIA e 15% OFF. Preço com o cupom, cores e tamanhos de cada peça.",
+    "metaDescription": "Seleção Insider de outubro de 2026: 20 peças com o cupom EMCASACOMCECILIA e 15% OFF. As promoções de outubro já terminaram; confira o preço do dia.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-07",
@@ -81808,7 +81811,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de pagar",
         "bullets": [
-          "**Pelos botões desta seleção:** a página do produto já abre com o cupom aplicado, e o preço aparece com a indicação \"com cupom EMCASACOMCECILIA\".",
+          "**Pelos botões desta seleção:** na conferência da seleção, a página do produto abria com o cupom aplicado e mostrava a indicação “com cupom EMCASACOMCECILIA”. Antes de pagar, confira se o código entrou e qual desconto foi aplicado.",
           "**Um cupom por pedido:** o EMCASACOMCECILIA não soma com outro código.",
           "**Fora do cupom:** compras na loja física e, nos primeiros dias, alguns lançamentos.",
           "**Black Friday:** em novembro, o cupom soma com os preços da campanha, de até 50% OFF em itens selecionados, salvo quando a página do produto avisar que o desconto não acumula com cupom.",
@@ -82330,7 +82333,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "São marcas do mesmo grupo Supley, mas não vendem os mesmos potes. A Max tem mais proteína a cada 100 g de pó no concentrado e no 3W (80 g contra 75 g, no 3W). A Probiótica tem mais sabores e versão zero lactose, e a creatina de 300 g empata. Veja o veredito em Qual escolher."
+          "Max Titanium e Probiótica são do mesmo grupo, mas as fórmulas variam por linha e sabor. A Max teve menor custo por 100 g de proteína no concentrado e no 3W desta comparação, e a Probiótica trouxe mais sabores e uma versão zero lactose. Na creatina de 300 g, composição declarada e preço empataram; veja o veredito em Qual escolher."
         ]
       },
       {
@@ -82712,7 +82715,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Pelos números da tabela, para quem decide por proteína a cada 100 g de pó a escolha é a Max: o concentrado (70 g contra 67 g) e o 3W (80 g contra 75 g) dela têm mais proteína. Para mais sabores, zero lactose ou sachês e cápsulas de creatina, a escolha é a Probiótica.",
+        "emphasis": "Pelos números da tabela, para quem decide por custo e proteína por 100 g, a escolha é a Max no concentrado e no 3W: ela tem menor custo por 100 g de proteína e mais proteína por 100 g de pó (70 g contra 67 g; 80 g contra 75 g). Para mais sabores, versão zero lactose ou creatina em sachês e cápsulas, a escolha é a Probiótica.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "O veredito por tipo de produto, com os números de cada capítulo acima."
@@ -82721,7 +82724,7 @@ export const reviewsData: unknown[] = [
           "**Creatina:** o pote de 300 g tem a mesma porção (5 g) e o mesmo preço nas duas lojas, R$ 59,90. A escolha fica no tamanho e no formato: a Max tem o pote de 500 g, com a dose mais barata das duas lojas; a Probiótica tem sachês e cápsulas.",
           "**Whey concentrado:** o 100% Whey da Max tem 21 g de proteína em 30 g e custa R$ 210,39. O 100% Pure Whey da Probiótica tem 20 g em 30 g e custa R$ 252,49, com 13 sabores contra 7 e uma versão zero lactose.",
           "**Whey isolado:** os dois têm 26 g em 30 g. O da Probiótica traz vitaminas e minerais na tabela e custa R$ 20,10 a mais.",
-          "**3W:** pelo mesmo preço cheio, o da Max tem 32 g de proteína em 40 g, e o da Probiótica, 24 g em 32 g; a cada 100 g de pó, são 80 g contra 75 g.",
+          "**3W:** pelo mesmo preço cheio (R$ 273,55), o Top Whey 3W + Performance da Max tem 32 g de proteína em 40 g e 720 g no pote; o 3 Whey Protein da Probiótica tem 24 g em 32 g e 675 g no pote. A cada 100 g de pó, são 80 g contra 75 g.",
           "**Blend e entrada:** os dois blends custam R$ 79,00 e têm tabelas quase iguais. Entre os wheys de entrada, a Hiper da Probiótica tem 23 g em 40 g, e o Whey Pro da Max, 15 g em 40 g."
         ]
       },
@@ -82743,13 +82746,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Transparência",
         "paragraphs": [
-          "A Max Titanium e a Probiótica são parceiras comissionadas do site, e as duas são do mesmo grupo. Comprar pelos links ou com os códigos não muda o preço para você."
+          "A Max Titanium e a Probiótica são parceiras comissionadas do site e fazem parte do mesmo grupo. Podemos receber comissão pelas compras, sem custo adicional para você. O desconto aplicado é o que aparece no carrinho."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Você quer o concentrado ou o 3W com mais proteína por porção."
+        "Você compara o concentrado Baunilha ou os 3W pelo custo por 100 g de proteína."
       ],
       "skipIf": [
         "Você quer mais sabores, versão zero lactose ou creatina em sachês e cápsulas: aí é a Probiótica.",
@@ -90423,7 +90426,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Pix, a ordem não muda: a Growth segue à frente e o 3W segue como o mais caro por 100 g de proteína (R$ 36,85 contra R$ 26,34), mesmo com o cupom da Max no teto (R$ 33,17).",
+          "No Pix, a Growth continua com menor custo que o 3W nos preços comparados: R$ 26,34 contra R$ 36,85 por 100 g de proteína. Com o cupom da Max no teto, a conta do 3W cai para R$ 33,17, ainda acima da Growth.",
           "A dose muda de uma loja para a outra, por isso a conta certa é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg. No 3W, a conta usa 22,5 doses (900 g ÷ 40 g), que dão 720 g de proteína; a tabela arredonda para \"cerca de 23\".",
           "O Top Whey 3W + Performance mistura WPC, isolado e hidrolisado e entrega mais proteína por dose, mas sai mais caro por 100 g de proteína. A comparação da Max com a Probiótica está em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
         ],
@@ -90722,7 +90725,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe no Top Whey 3W se o preço por grama de proteína decide: ele é o mais caro da tabela.",
-        "Passe na Growth se você vai pagar no cartão: o cartão sai mais caro que o Pix.",
+        "Passe na Growth no cartão se a sua compra for de whey isolado ou hipercalórico: nessas categorias a Max no cartão tem custo menor por proteína ou caloria.",
         "Passe na Creapure da Max se o preço por grama decide: é a mais cara das creatinas."
       ]
     },
@@ -90764,7 +90767,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Probiótica ou Growth? O whey e a creatina das duas lojas pela mesma régua: proteína por dose, preço por 100 g e o cupom PRO10EMCASACOMCECILIA no teto.",
+    "description": "Probiótica ou Growth? Compare whey por 100 g de proteína e creatina por 100 g, com preços de referência e o cenário máximo do PRO10EMCASACOMCECILIA.",
     "metaDescription": "Probiótica ou Growth, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina e o frete.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
@@ -90779,7 +90782,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço de tabela, a Growth sai mais barata que a Probiótica no whey, e a Probiótica de 300 g sai mais barata que a Growth na creatina. O cupom PRO10EMCASACOMCECILIA reforça a Probiótica na creatina e não inverte o whey. Ela entra também pela linha Zero Lactose e pelos sabores. Preço muda: confira as duas lojas antes de comprar."
+          "No cartão, a Growth tem o menor custo por 100 g de proteína no whey, e a Probiótica de 300 g fica na frente na creatina. No Pix, o refil de 500 g da Growth sai mais barato por grama de creatina. O cupom PRO10EMCASACOMCECILIA não inverte o whey, e a Probiótica entra pela linha Zero Lactose."
         ]
       },
       {
@@ -90791,8 +90794,8 @@ export const reviewsData: unknown[] = [
         ],
         "image": {
           "src": "/images/reviews/probiotica/probiotica-ou-growth-capa.webp",
-          "alt": "Quadro com o preço no Pix por 100 g em 18/10/2026: whey, Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e Probiótica 100% Pure Whey R$ 40,82; creatina, Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
+          "alt": "Quadro de preços no Pix por 100 g de proteína no whey: Growth Concentrado R$ 26,34, Probiótica Zero Lactose R$ 35,56 e 100% Pure Whey R$ 40,82; por 100 g de creatina: Growth refil R$ 14,98, Growth 250 g R$ 17,96 e Probiótica 300 g R$ 18,97",
+          "caption": "Comparação por 100 g de proteína no whey e por 100 g de creatina, com preços no Pix das lojas oficiais, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -90809,7 +90812,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: preço por 100 g de proteína",
         "paragraphs": [
-          "Preços de 18/10/2026 no cartão, sem o cupom."
+          "A tabela compara preços no cartão, antes do cupom, pela quantidade de proteína declarada em cada porção."
         ],
         "comparisonTable": {
           "headers": [
@@ -90848,7 +90851,8 @@ export const reviewsData: unknown[] = [
               "R$ 222,11",
               "R$ 29,26"
             ]
-          ]
+          ],
+          "caption": "Preços dos sites oficiais em 18/10/2026, no cartão, sem frete e sem cupom. Probiótica: tabela do sabor Baunilha; Growth: 23 g por porção conforme a página, cerca de 33 porções."
         },
         "postParagraphs": [
           "No Pix, a conta por 100 g de proteína fica em R$ 40,82 no pote, R$ 38,10 no refil e R$ 35,56 no Zero Lactose da Probiótica, e em R$ 26,34 na Growth. Com o cupom no teto, sobre o Pix, os três potes da Probiótica ficam entre R$ 32,01 e R$ 36,74.",
@@ -90867,9 +90871,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: a proteína de cada pote",
         "paragraphs": [
-          "A proteína da Probiótica muda conforme a página e o sabor. A página do pote dá uma faixa de 20 a 24 g por porção e traz dois banners com números diferentes (\"até 24 g\" e \"até 21 g\"). A conta usa a tabela nutricional do sabor Baunilha: 20 g em 30 g, com 124 kcal e 6,3 g de carboidrato. Se você vai levar outro sabor, refaça a conta pela tabela dele, porque a proteína por dose muda.",
-          "O refil de 900 g tem a mesma tabela de 20 g em 30 g, mas a página dele e a frente da embalagem falam em 21 g. A conta usa a tabela. O Zero Lactose de 900 g, também Baunilha, tem 22 g de proteína em 30 g, com 124 kcal e 4 g de carboidrato na tabela.",
-          "A Growth declara 23 g em 30 g nos sabores e 24 g no Natural, com cerca de 33 porções no pote de 1 kg. Ela não tem uma tabela por sabor nesta conta: o número usado é o de 23 g."
+          "No 100% Pure Whey Baunilha da Probiótica, a conta usa a tabela: 20 g de proteína em 30 g, com 124 kcal e 6,3 g de carboidratos. A página anuncia faixas diferentes conforme o sabor; para outra versão, compare a tabela correspondente.",
+          "O refil também traz tabela com 20 g em 30 g, mas a página e a frente da embalagem dizem 21 g. No Zero Lactose Baunilha, a tabela declara 22 g em 30 g, com 124 kcal e 4 g de carboidratos.",
+          "A página da Growth declara 23 g em 30 g para os sabores e 24 g no Natural; a conta usa os 23 g e cerca de 33 porções."
         ],
         "images": [
           {
@@ -90980,27 +90984,27 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. No teste do cupom de 13/10, um carrinho de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, recebeu R$ 54,75 de desconto (8,3%). Nem todo item recebeu os 10%: a creatina em promoção ficou de fora desse percentual. A regra da loja diz que o cupom vale com todas as formas de pagamento e soma com as promoções vigentes. Por isso, a conta com cupom nas tabelas é o teto, 10% sobre o preço à vista: confira no carrinho se o cupom soma com o Pix, porque o desconto real pode ser menor. O código e o passo a passo estão na página do [cupom Probiótica](/cupons/probiotica).",
+          "O cupom PRO10EMCASACOMCECILIA dá até 10%, com percentual variável por produto. Em um teste com carrinho misto de R$ 659,35, com colágeno, creatina em promoção, camiseta e barra de proteína, o desconto foi de R$ 54,75, cerca de 8,3% do total. Vale em todas as formas de pagamento e soma com as promoções vigentes, mas as contas com cupom nas tabelas são o teto de 10%: confira o valor no carrinho. Regras e instruções estão na página do [cupom Probiótica](/cupons/probiotica).",
           "A página da Probiótica mostra também o parcelamento em 6x sem juros, e o preço do cartão nas tabelas é o dessa condição. O valor parcelado depende do produto. Preço e estoque mudam: confira no carrinho."
         ]
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos preços de tabela desta cotação, a escolha é a Growth no whey e a Probiótica de 300 g na creatina, porque cada uma ganha sem cupom. Compare as duas lojas antes de decidir.",
+        "emphasis": "Pelo preço no cartão, a escolha é a Growth no whey e a Probiótica de 300 g na creatina. No Pix, o refil de 500 g da Growth ganha na creatina. Compare as duas lojas antes de decidir.",
         "bullets": [
           "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 26,34 no Pix.",
-          "**Quer a linha Zero Lactose:** a Probiótica é a única das duas com essa linha nesta conta. Leia o alergênico de leite no rótulo antes de comprar.",
-          "**Quer o menor preço por grama de creatina:** Probiótica Creatina de 300 g, com R$ 19,97 por 100 g no preço de tabela.",
+          "**Quer a linha Zero Lactose:** a Probiótica é a única das opções desta comparação com essa linha. Zero lactose não exclui o alergênico de leite: confira o rótulo.",
+          "**Quer o menor preço por grama de creatina no cartão:** Probiótica Creatina de 300 g, com R$ 19,97 por 100 g. No Pix, o refil de 500 g da Growth sai mais barato.",
           "**Quer um pote pequeno de creatina:** a Probiótica de 300 g sai abaixo da Growth de 250 g, já sem cupom (R$ 19,97 contra R$ 25,32 por 100 g, no preço de tabela).",
-          "**Quer Creapure:** a Probiótica declara o selo no produto de 150 g, por R$ 64,59 por 100 g no Pix."
+          "**Quer Creapure:** a Probiótica declara o selo no produto de 150 g, por R$ 64,59 por 100 g no Pix. A página da Growth não declara o selo."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Probiótica ou Growth: qual é melhor? Pelo preço de tabela, a Growth vence no whey por 100 g de proteína e a Probiótica vence na creatina por 100 g, com o pote de 300 g abaixo dos três tamanhos da Growth. A escolha pesa também a linha Zero Lactose e os sabores.",
-          "O cupom da Probiótica vale na creatina? A loja aceita o cupom nos produtos do site, com o percentual de cada item. No teste do cupom, a creatina em promoção não recebeu os 10%.",
-          "A Growth tem cupom nosso? Não. A Growth não é parceira do site, e não há cupom nosso para ela; se a Growth tem promoção própria, a informação está no site dela. Os links e o passo a passo do cupom da Probiótica estão no [artigo sobre como usar o cupom](/reviews/cupom-probiotica-como-usar).",
+          "Probiótica ou Growth: qual é melhor? No cartão, a Growth vence no whey por 100 g de proteína e a Probiótica de 300 g vence na creatina. No Pix, o refil de 500 g da Growth passa à frente na creatina. A escolha pesa também a linha Zero Lactose e os sabores.",
+          "O cupom da Probiótica vale na creatina? Vale nos produtos do site, com desconto de até 10% e percentual que varia por item. Confira a linha de descontos no seu carrinho.",
+          "A Growth tem cupom? Não temos cupom nem parceria com a Growth; as promoções dela ficam no site da marca. As instruções do PRO10EMCASACOMCECILIA estão no [guia do cupom da Probiótica](/reviews/cupom-probiotica-como-usar).",
           "A Probiótica é confiável? Quem é a marca, o site oficial e as trocas estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel), e a comparação com a Max Titanium, em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
         ]
       }
@@ -100343,7 +100347,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "As três peças somam R$ 1.275,20. Com o cupom de 10%, o total fica em R$ 1.147,68.",
-          "A Calça Vermelha tinha só o tamanho P disponível. Se o seu tamanho não for P, este look não fecha com ela, e não havia outra calça de alfaiataria vermelha com estoque no catálogo para trocar.",
+          "Em outubro, a Calça Vermelha aparecia só no tamanho P, e não havia outra calça de alfaiataria vermelha em estoque para trocar. Confira a grade atual antes de escolher a peça.",
           "A descrição da loja dá ao colete modelagem trespassada e caimento reto. A calça tem \"modelagem sofisticada, cintura alta e caimento estruturado\". O body é descrito como de modelagem ajustada, estilo second skin, e a loja diz que ele combina com alfaiataria. O body tem 4,7 de 5 em 169 avaliações públicas, com 92% de recomendação, na avaliação da Trustvox mostrada na página."
         ],
         "images": [
@@ -100390,7 +100394,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada look, com e sem cupom",
         "paragraphs": [
-          "O cupom CSEMCASACOMCECILIA dá 10% sobre o preço de venda, e a economia é o que ele tira. Só o look 3 traz uma calça da loja; nos outros, a calça de alfaiataria que você já tem fica fora da conta."
+          "A tabela calcula 10% sobre os preços de venda, sem frete. Só o look 3 inclui calça da loja; nos looks 1 e 2, acrescente o custo da calça caso ainda precise comprá-la."
         ],
         "comparisonTable": {
           "headers": [
@@ -100636,7 +100640,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As faixas se sobrepõem: busto de 88 a 90 cm cabe no P e no M. Entre M e G há um vão de 2 cm, porque o M vai até 96 cm de busto e o G começa em 98 cm. Quando as suas medidas caem entre dois tamanhos, considere a modelagem justa. Como o body acompanha o corpo, a folga de um tamanho maior aparece mais do que numa t-shirt oversized. Para medir e comparar com o provador passo a passo, o [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica cada medida."
+          "O busto de 88 a 90 cm aparece nas faixas de P e M, mas a escolha também depende da cintura e do quadril. Entre o busto máximo do M (96 cm) e o mínimo do G (98 cm) há um intervalo. Se as três medidas apontarem tamanhos diferentes ou caírem nesse intervalo, use o provador de medidas da página do produto e confirme a indicação com a loja. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) mostra como medir."
         ],
         "images": [
           {
@@ -100778,8 +100782,8 @@ export const reviewsData: unknown[] = [
           "Com o que combina o Body Ombro Único? A loja indica com jeans, saias ou calças de alfaiataria. Tem um ombro só, decote assimétrico e abertura nas costas.",
           "Qual a diferença entre o Duplo e o Gola Alta? O Gola Alta é de manga longa, e a loja o chama de \"upgrade do body clássico de frio\". O Duplo é regata, e a loja diz que ele combina com jeans, saias, shorts e alfaiataria.",
           "O body esquenta ou protege do frio? A loja não diz que ele aquece. Ela descreve o Gola Alta como um upgrade do body de frio, e a ficha não traz nenhum dado de aquecimento que permita dizer mais que isso.",
-          "Qual tamanho escolher? Pela tabela de medidas do corpo da loja, o P serve para busto de 82 a 90 cm, o M de 88 a 96 cm e o G de 98 a 106 cm. Entre dois tamanhos, vale olhar a modelagem da peça, que no body é justa.",
-          "A devolução é grátis? Sim, a devolução é grátis. Este texto não confirma troca direta de tamanho nem reembolso de uma compra feita com o cupom, então confira a regra no site antes de comprar."
+          "Qual tamanho escolher? Compare busto, cintura e quadril com a tabela de medidas do corpo na página do produto. O busto vai de 82 a 90 cm no P, de 88 a 96 cm no M e de 98 a 106 cm no G; só essa medida não decide o tamanho. Se houver sobreposição ou intervalo, consulte o provador de medidas da página do produto e a loja.",
+          "A devolução é grátis? Sim. Antes de comprar, confira no site como solicitar a devolução e como funciona a troca de tamanho."
         ]
       }
     ],
@@ -100792,7 +100796,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe nos bodies de decote se você não quer decote na frente ou nas costas: fique no Gola Alta ou no Duplo, de gola alta.",
         "Passe se você veste fora do P, M e G: os seis modelos só vêm nesses tamanhos.",
-        "Passe se você quer o kit de três peças em outro modelo: nos modelos conferidos, só o Gola Alta e o Duplo têm."
+        "Passe se você quer o kit de três peças em outro modelo: nos modelos conferidos, só o Gola Alta e o Duplo têm o seletor de 3 unidades."
       ]
     },
     "pros": [],
@@ -100834,7 +100838,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Como escolher o tamanho na tabela de medidas da Cléa Store: onde achar, como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos.",
-    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Tabela de medidas: como medir busto, cintura e quadril e escolher entre P, M, G ou 36 a 42.",
+    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Veja como medir busto, cintura e quadril e consultar a tabela da peça.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "updatedAt": "2026-11-07",
@@ -100854,8 +100858,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Cléa mostra a tabela",
         "paragraphs": [
-          "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. Nas peças de cima, ela traz busto, cintura e quadril; na t-shirt e no blazer, só busto e cintura. Na calça, a tabela traz cintura e quadril, com a numeração 36 a 42.",
-          "Nas peças de cima que lemos (t-shirt oversized, bodies e blazer oversized bordô), a tabela é a mesma. O P, o M e o G têm a mesma faixa de medidas em todas elas.",
+          "A Cléa não tem uma tabela de medidas única para o site. Cada página de produto tem o botão \"Tabela de Medidas\", que abre o provador da Sizebay com a tabela por tamanho. A t-shirt e o blazer trazem busto e cintura; o body acrescenta o quadril. A calça traz cintura e quadril, com a numeração 36 a 42.",
+          "A t-shirt oversized e o body têm as mesmas faixas de busto e cintura em P, M e G, e o blazer bordô coincide em P e G.",
           "O mesmo botão abre o \"Provador Virtual\", também da Sizebay. A loja não diz que ele acerta o caimento, então use como apoio, não como medida."
         ]
       },
@@ -100884,7 +100888,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela das peças de cima",
         "paragraphs": [
-          "Nas peças de cima, o P, o M e o G vestem o mesmo corpo em todas elas. Vale para a t-shirt, os bodies e o blazer oversized bordô; as medidas são do corpo, em centímetros."
+          "Na t-shirt oversized e no body, P, M e G vestem o mesmo corpo. No blazer bordô, confira o M na página da peça. As medidas são do corpo, em centímetros."
         ],
         "comparisonTable": {
           "headers": [
@@ -100915,17 +100919,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e usar o provador da página. Comparar com uma roupa sua só vale se você tiver as medidas das duas peças, tiradas do mesmo jeito.",
+          "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e perguntar à loja. Comparar com uma roupa sua só vale se você tiver as medidas das duas peças, tiradas do mesmo jeito.",
           "Segundo a loja, a t-shirt tem modelagem oversized, de caimento amplo, e o body tem modelagem ajustada, com efeito segunda pele. Por isso, no body a medida pede mais atenção. Para comparar os modelos de body, veja o [guia de escolha do body](/reviews/body-clea-store-second-skin-qual-escolher)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/clea-store/clea-store-tabela-de-medidas.webp",
-            "alt": "Quadro com a tabela de medidas da Cléa Store: peças de cima em P, M e G e calça de 36 a 42, com busto, cintura e quadril em centímetros",
-            "caption": "Tabela de medidas lida no site. Quadro do Em Casa com Cecília.",
-            "objectFit": "contain",
-            "aspectRatio": 2.1053
-          }
         ]
       },
       {
@@ -100969,7 +100964,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que muda no oversized",
         "paragraphs": [
-          "A tabela de medidas da Cléa Store não tem uma régua separada para o oversized. Na T-Shirt Oversized Algodão e no Blazer Oversized Alfaiataria Bordô, a tabela mostra busto e cintura com os mesmos números das peças justas, os da tabela acima. Essas são medidas do seu corpo, não da peça. A letra sai de onde o seu corpo cai na tabela, e não de quanto você quer de folga.",
+          "A tabela de medidas da Cléa Store não tem uma régua separada para o oversized. Na T-Shirt Oversized Algodão, a tabela de busto e cintura usa os mesmos números das peças justas, os da tabela acima; no Blazer Oversized Alfaiataria Bordô, P e G coincidem e o M deve ser conferido na página da peça. São medidas do seu corpo, não da peça. A letra sai de onde o seu corpo cai na tabela, e não de quanto você quer de folga.",
           "A diferença está no corte, e é isso que a loja anuncia. A página da T-Shirt Oversized Algodão diz que \"a modelagem oversized oferece caimento amplo e soltinho\". Na do Blazer Oversized Alfaiataria Bordô, a descrição fala em \"modelagem oversized, caimento sofisticado e acabamento premium\". Ou seja: a folga já vem no desenho da peça, e a tabela continua medindo o corpo."
         ],
         "images": [
@@ -100986,7 +100981,7 @@ export const reviewsData: unknown[] = [
         "heading": "Entre dois tamanhos",
         "paragraphs": [
           "Quando a sua medida cai numa faixa de uma letra e também na seguinte, a tabela não decide sozinha. Um busto de 89 cm, por exemplo, cabe nas faixas de P (82 a 90 cm) e de M (88 a 96 cm). Entre M (até 96 cm) e G (a partir de 98 cm) sobra um vão de 2 cm, e nessa medida o provador da página é a próxima consulta, sem garantia de acerto.",
-          "O que pesa é a modelagem da peça. No body justo, a tabela traz também o quadril: no Body Regata Second Skin Duplo, o G vai de 106 a 114 cm, e a descrição da loja fala em \"modelagem ajustada\" e \"efeito segunda pele\". Nele, a medida vale quase sem folga. No justo, a medida manda; no oversized, a folga já vem do corte.",
+          "A modelagem também pesa na escolha. No Body Regata Second Skin Duplo, a tabela traz quadril e o G vai de 106 a 114 cm; a loja descreve a modelagem como ajustada, com efeito segunda pele. Confira todas as medidas corporais e pergunte à loja se elas apontarem tamanhos diferentes; o corte, sozinho, não garante o caimento.",
           "Se a compra for pelo site, o cupom CSEMCASACOMCECILIA dá 10% no site oficial, em todas as formas de pagamento; confira no carrinho, porque ele não vale no Mercado Livre ([cupom da Cléa Store](/cupons/clea-store))."
         ]
       },
@@ -101008,7 +101003,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Cléa Store tem tabela de medidas? Sim, cada peça tem a sua, no bloco de tamanho da própria página, com as medidas do corpo em centímetros.",
-          "O oversized é maior? Na medida do corpo, não: a tabela da t-shirt e do blazer oversized usa os mesmos números das peças justas. A folga vem do corte, que a loja descreve como caimento amplo.",
+          "O oversized é maior? Na medida do corpo, não: a t-shirt oversized usa as mesmas faixas de busto e cintura do body, e o blazer coincide em P e G. A folga vem do corte, que a loja descreve como caimento amplo.",
           "Posso devolver se não servir? Sim, a devolução é grátis e tem prazo de 30 dias corridos após o recebimento, pela página de troca da loja. A troca direta por outro tamanho não está confirmada.",
           "O provador acerta o tamanho? A loja não diz que sim e não garante o caimento; use a tabela como base e confira a descrição da peça."
         ]
@@ -101071,60 +101066,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Os 7 anúncios do Mercado Livre e as 41 peças do site",
-        "paragraphs": [
-          "O essencial sai mais barato no Mercado Livre; a variedade está só no site, com o cupom CSEMCASACOMCECILIA. A loja oficial no Mercado Livre tem só 7 anúncios, os kits de t-shirt e os bodies mais vendidos; nas categorias que lemos, o site tem 41 peças, com toda a alfaiataria. A conclusão está em Como escolher, no fim do texto.",
-          "Na loja oficial da Cléa no Mercado Livre (vendedor Clea Oficial, reputação 4,9), estes eram os anúncios em 20/10/2026:"
-        ],
-        "bullets": [
-          "T-Shirt Oversized Algodão (avulsa)",
-          "Kit 3 T-Shirts Oversized Intense",
-          "Kit 3 T-Shirts Oversized Colorful",
-          "Kit 3 T-Shirts Oversized Classic",
-          "Body Gola Alta Manga Longa, em 5 cores",
-          "Body Regata Second Skin Duplo",
-          "Body Tule Gola Alta Second Skin"
-        ],
-        "postParagraphs": [
-          "São as peças de base da marca. O resto fica só no site: mais bodies, mais kits, mais cores e a alfaiataria inteira."
-        ]
-      },
-      {
-        "heading": "O que só o site tem",
-        "paragraphs": [
-          "O site tem 41 peças nas categorias lidas, e só 7 estão no Mercado Livre. O que está só no site:"
-        ],
-        "bullets": [
-          "Alfaiataria: blazers, entre eles o [Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282) e os oversized [Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305) e [Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307), coletes, bermuda e calças de alfaiataria.",
-          "Bodies: seis modelos Second Skin no site, contra dois deles no Mercado Livre (fora o de tule). Só no site estão o [Frente Única](https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128), o [Decote Reversível](https://www.cleastore.com.br/produto/body-decote-reversivel-second-skin-design-especial-4194), o [Regata Cavado](https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185) e o [Ombro Único](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230). O [Gola Alta](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047) tem 7 cores no site e 5 no anúncio do Mercado Livre.",
-          "Kits de t-shirt: além do Intense, do Colorful e do Classic, o site tem o [Brazil Edition](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-brazil-edition-4333) e o [Monte Seu Kit](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229). Na leitura, os dois estavam em promoção por R$ 258,00, ou R$ 232,20 com o cupom; o preço de lista é R$ 387,00.",
-          "Outras peças: camisas e batas de tricoline, calças jeans, cargo e balloon, trench coat e conjunto de crochê.",
-          "Compra com cupom, cashback, tabela de medidas e provador virtual na página de cada peça, e devolução grátis."
-        ],
-        "postParagraphs": [
-          "Para montar uma produção com a alfaiataria, veja [o look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store). Para escolher entre os seis bodies, veja [qual body Second Skin escolher](/reviews/body-clea-store-second-skin-qual-escolher)."
-        ],
-        "images": [
-          {
-            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
-            "alt": "Modelo com o blazer oversized de alfaiataria bordô e calça bordô",
-            "caption": "Blazer Oversized Alfaiataria Bordô, só no site. Imagem: Cléa Store.",
-            "objectFit": "contain",
-            "aspectRatio": 0.6669
-          },
-          {
-            "src": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
-            "alt": "Modelo com o body frente única preto, de decote profundo e franzido, e calça jeans",
-            "caption": "Body Frente Única Decote Second Skin, só no site. Imagem: Cléa Store.",
-            "objectFit": "contain",
-            "aspectRatio": 0.6669
-          }
-        ]
-      },
-      {
         "heading": "O essencial: preço no Mercado Livre e no site",
         "paragraphs": [
-          "A comparação vale só para as peças que estão nos dois lados. No Mercado Livre, o primeiro número é o menor preço do anúncio, que em alguns casos pede pagamento com saldo no Mercado Pago. No site, é o preço de venda menos os 10% do cupom."
+          "Seis peças estavam à venda nos dois canais em outubro, e a tabela põe os preços lado a lado. No Mercado Livre, vale o menor preço do anúncio, em alguns casos condicionado a saldo no Mercado Pago; no site, o preço de venda menos os 10% do cupom. Compare a mesma cor e tamanho, na forma de pagamento que você vai usar. O frete do site não entra nesta conta."
         ],
         "comparisonTable": {
           "headers": [
@@ -101190,10 +101134,61 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
+        "heading": "Os 7 anúncios do Mercado Livre e as 41 peças do site",
+        "paragraphs": [
+          "A loja oficial da Cléa no Mercado Livre tinha 7 anúncios, e as categorias do site reuniam 41 peças. O Mercado Livre custava menos em cinco dos seis itens comparados; o site, com o CSEMCASACOMCECILIA, ganhava no Kit Classic e tinha mais variedade.",
+          "Na loja oficial da Cléa no Mercado Livre (vendedor Clea Oficial, reputação 4,9), estes eram os anúncios em 20/10/2026:"
+        ],
+        "bullets": [
+          "T-Shirt Oversized Algodão (avulsa)",
+          "Kit 3 T-Shirts Oversized Intense",
+          "Kit 3 T-Shirts Oversized Colorful",
+          "Kit 3 T-Shirts Oversized Classic",
+          "Body Gola Alta Manga Longa, em 5 cores",
+          "Body Regata Second Skin Duplo",
+          "Body Tule Gola Alta Second Skin"
+        ],
+        "postParagraphs": [
+          "O restante do catálogo estava só no site: mais bodies, kits, cores e a alfaiataria. A oferta de cada canal pode mudar."
+        ]
+      },
+      {
+        "heading": "O que só o site tem",
+        "paragraphs": [
+          "Nas categorias do site havia 41 peças, e só 7 estavam no Mercado Livre. O que estava só no site:"
+        ],
+        "bullets": [
+          "Alfaiataria: blazers, entre eles o [Risca de Giz Cinza](https://www.cleastore.com.br/produto/blazer-alfaiataria-risca-de-giz-cinza-4282) e os oversized [Bordô](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-bordo-4305) e [Mescla](https://www.cleastore.com.br/produto/blazer-oversized-alfaiataria-mescla-4307), coletes, bermuda e calças de alfaiataria.",
+          "Bodies: seis modelos Second Skin no site, contra dois deles no Mercado Livre (fora o de tule). Só no site estão o [Frente Única](https://www.cleastore.com.br/produto/body-frente-unica-decote-second-skin-design-especial-4128), o [Decote Reversível](https://www.cleastore.com.br/produto/body-decote-reversivel-second-skin-design-especial-4194), o [Regata Cavado](https://www.cleastore.com.br/produto/body-regata-cavado-second-skin-4185) e o [Ombro Único](https://www.cleastore.com.br/produto/body-ombro-unico-com-detalhe-nas-costas-4230). O [Gola Alta](https://www.cleastore.com.br/produto/body-gola-alta-manga-longa-second-skin-4047) tem 7 cores no site e 5 no anúncio do Mercado Livre.",
+          "Kits de t-shirt: além do Intense, do Colorful e do Classic, o site tem o [Brazil Edition](https://www.cleastore.com.br/produto/kit-3-t-shirts-oversized-brazil-edition-4333) e o [Monte Seu Kit](https://www.cleastore.com.br/produto/kit-3-t-shirts-essenciais-monte-seu-kit-4229). Na leitura, os dois estavam em promoção por R$ 258,00, ou R$ 232,20 com o cupom; o preço de lista é R$ 387,00.",
+          "Outras peças: camisas e batas de tricoline, calças jeans, cargo e balloon, trench coat e conjunto de crochê.",
+          "Compra com cupom, cashback, tabela de medidas e provador virtual na página de cada peça, e devolução grátis."
+        ],
+        "postParagraphs": [
+          "Para montar uma produção com a alfaiataria, veja [o look de trabalho com alfaiataria](/reviews/look-trabalho-alfaiataria-feminina-clea-store). Para escolher entre os seis bodies, veja [qual body Second Skin escolher](/reviews/body-clea-store-second-skin-qual-escolher)."
+        ],
+        "images": [
+          {
+            "src": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
+            "alt": "Modelo com o blazer oversized de alfaiataria bordô e calça bordô",
+            "caption": "Blazer Oversized Alfaiataria Bordô, só no site. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          },
+          {
+            "src": "/images/reviews/clea-store/clea-store-body-frente-unica.webp",
+            "alt": "Modelo com o body frente única preto, de decote profundo e franzido, e calça jeans",
+            "caption": "Body Frente Única Decote Second Skin, só no site. Imagem: Cléa Store.",
+            "objectFit": "contain",
+            "aspectRatio": 0.6669
+          }
+        ]
+      },
+      {
         "heading": "Cupom e cashback no site",
         "paragraphs": [
-          "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback da loja. Ele não vale no Mercado Livre. A equipe testou o cupom: o Kit 3 T-Shirts Oversized Classic, em promoção por R$ 258,00, saiu por R$ 232,20, e o pedido gerou R$ 23,22 de cashback, calculado sobre o valor já com o cupom.",
-          "O cashback só conta quando a loja credita. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas estão na página do [cupom Cléa Store](/cupons/clea-store)."
+          "O CSEMCASACOMCECILIA dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com promoções e geração de cashback. Ele não vale no Mercado Livre. No teste de carrinho, o Kit Classic, em promoção por R$ 258, saiu por R$ 232,20, e a tela mostrou cashback previsto de até R$ 23,22 para uma compra futura.",
+          "O cashback não abate o total deste pedido. Não desconte o crédito futuro ao comparar o total a pagar hoje. O passo a passo está em [como usar o cupom da Cléa Store](/reviews/cupom-clea-store-como-usar), e as condições atualizadas, na página do [cupom Cléa Store](/cupons/clea-store)."
         ],
         "images": [
           {
@@ -101217,13 +101212,13 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quer só a t-shirt avulsa, o Kit Intense, o Kit Colorful, o Body Duplo ou o Body Gola Alta: compare com o Mercado Livre, que na leitura saía mais barato que o site com o cupom.",
           "Quer o Kit Classic: o site saía R$ 154,80 mais barato.",
-          "Quer outro modelo de body, outra cor, o Kit Brazil Edition, o Monte Seu Kit ou qualquer peça de alfaiataria: site, porque essas peças não estão no Mercado Livre.",
+          "Quer outro modelo de body, o Kit Brazil Edition, o Monte Seu Kit ou alfaiataria: essas opções estão só no site. Confira o catálogo atual.",
           "Quer cupom, cashback e devolução grátis no mesmo pedido: site."
         ],
         "postParagraphs": [
-          "O cupom CSEMCASACOMCECILIA tira 10% no site e o cashback da loja soma com ele. O preço do Mercado Livre muda rápido: o que hoje sai mais barato lá pode ficar igual ou mais caro que o site com o cupom em poucos dias, então confira os dois antes de comprar."
+          "O CSEMCASACOMCECILIA tira 10% no site. No teste, o carrinho continuou mostrando cashback previsto para outra compra; esse crédito futuro não reduz o que você paga agora. Confira os dois canais, porque preço, frete e disponibilidade mudam."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o essencial no Mercado Livre e a alfaiataria no site, porque cada lado ganha no seu preço do dia."
+        "emphasis": "Eu começaria pela peça que quero comprar: o Mercado Livre ganhava em cinco dos seis itens, mas o Kit Classic ficava mais barato no site. Para alfaiataria, só o site tem."
       },
       {
         "heading": "Perguntas frequentes",
@@ -101232,14 +101227,14 @@ export const reviewsData: unknown[] = [
           "Quais peças da Cléa Store estão no Mercado Livre? Na leitura eram 7: a t-shirt avulsa, os kits Intense, Colorful e Classic e os bodies Gola Alta, Duplo e Tule. Alfaiataria, os outros bodies e os outros kits estão só no site.",
           "O Mercado Livre é sempre mais barato? Não. Na leitura, a t-shirt, dois kits e dois bodies saíam mais baratos lá, e o Kit Classic saía mais barato no site. O preço do Mercado Livre muda em poucos dias, então confira os dois antes de comprar.",
           "A Cléa Store tem frete grátis? No site, acima de R$ 599, segundo o valor lido. Os anúncios do Mercado Livre lidos tinham frete grátis.",
-          "O cashback soma com o cupom? Sim. No teste, o cashback saiu sobre o valor já com o desconto do cupom."
+          "O cashback soma com o cupom? No teste, o pedido com cupom continuou mostrando cashback previsto de até R$ 23,22. Era crédito para outra compra, não desconto adicional no total de R$ 232,20."
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "Leve no Mercado Livre se você quer t-shirt avulsa, Kit Intense, Kit Colorful, Body Duplo ou Gola Alta: compare o anúncio do dia.",
-        "Leve no site se você quer o Kit Classic, alfaiataria ou outro modelo de body."
+        "Compare o site com cupom para o Kit Classic, que saía mais barato que no Mercado Livre, e para a alfaiataria e mais modelos de body."
       ],
       "skipIf": [
         "Passe no Mercado Livre se você quer usar o cupom: ele só vale no site.",
@@ -101628,7 +101623,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para treino, a Performance; para o dia a dia, a Comfort. A escolha sai do tecido e do uso que a própria marca indica, e só cor e tamanho mexem no preço. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Para treino, a Performance; para o dia a dia, a Comfort, pelo uso que a Insider indica. Compare o preço da variante escolhida: cor e tamanho podem mudar o valor. Na loja online, o cupom EMCASACOMCECILIA dá 15% em itens elegíveis, exceto em lançamentos."
         ]
       },
       {
@@ -101801,7 +101796,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Se a dúvida é a boxer, a resposta curta é: Performance para treino e esporte, Comfort para o dia a dia. Escolha pelo uso, confira o preço da variante na hora da compra, porque o preço muda por cor e tamanho, não por modelo, e acerte o tamanho antes, porque cueca não tem troca por tamanho. A Seamless Touch e a Slip são construções diferentes, não a versão premium da boxer. Se a dúvida é a Insider em si, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
+          "Se a dúvida é a boxer, a Performance é a opção de treino e esporte; a Comfort, a de dia a dia, segundo a marca. Compare o preço da variante: cor e tamanho podem mudar o valor.",
+          "A Seamless Touch e a Slip têm construções diferentes da boxer. Confira as medidas antes de comprar, porque a política comercial de underwear exclui troca por tamanho. Para conhecer a marca, veja [Insider vale a pena?](/reviews/insider-vale-a-pena)."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a Comfort para o dia a dia, porque é a boxer de modal para uso diário.",
         "emphasisAfterParagraph": 1
@@ -101816,7 +101812,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca e tamanho",
         "paragraphs": [
-          "A central de ajuda da loja diz que underwear só tem troca ou devolução por defeito de fabricação, por motivos de higiene e segurança. Por isso, cueca não entra em troca por tamanho. Isso é política da loja para a troca voluntária; o arrependimento da compra online é outro pedido. Acerte o tamanho antes de comprar.",
+          "A política de trocas da Insider não inclui cuecas para troca por tamanho: underwear só é trocado por defeito de fabricação, por motivos de higiene. O arrependimento da compra online é outro pedido. Meça com atenção antes de fechar o pedido.",
           "Os tamanhos por modelo são:"
         ],
         "bullets": [
@@ -101834,7 +101830,7 @@ export const reviewsData: unknown[] = [
           "A cueca Insider é boa? A marca diz que a Performance absorve e evapora rápido o suor, e que a Comfort é ultramacia. Na página da loja, a Performance tem nota 4,9 em 5 com 5.633 avaliações, e a Comfort, 4,9 em 5 com 5.854. São avaliações da loja, não uma prova independente.",
           "A cueca Insider é igual à de algodão? Não. A Comfort é de TENCEL Modal e elastano. A Performance tem a parte de fora em poliamida e a de dentro em modal, com elastano nas duas partes.",
           "Qual cueca Insider para treino? A Performance. A página indica esporte, como corrida, musculação e ciclismo.",
-          "Dá para trocar cueca Insider por tamanho? Não. Pela política da loja, underwear só tem troca ou devolução por defeito de fabricação, segundo a central de ajuda. O arrependimento da compra online é outro pedido: confirme com a loja.",
+          "Dá para trocar cueca Insider por tamanho? Pela política comercial da loja, não: underwear só é trocado por defeito de fabricação, por higiene.",
           "Cupom vale em kit? Em teste nosso, o desconto apareceu em kit com preço promocional. Confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout antes de pagar."
         ]
       }
@@ -101846,7 +101842,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe nas boxers se você quer construção sem costura: olhe a Seamless Touch.",
-        "Passe se você não sabe o tamanho: cueca só troca por defeito, não por tamanho."
+        "Passe se você não sabe o tamanho: a política comercial de underwear exclui troca por tamanho, então confira a tabela antes de decidir."
       ]
     },
     "pros": [],
@@ -101908,7 +101904,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual nível escolher",
         "paragraphs": [
-          "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume o que a loja publica para cada peça, e os preços e os estoques são de 20/10/2026: confira na loja antes de contar com uma cor ou um tamanho."
+          "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume as indicações e a disponibilidade das páginas em 20/10/2026; as contagens incluem variantes de cor, gola e tamanho, então confira a combinação antes de contar com ela."
         ],
         "comparisonTable": {
           "headers": [
@@ -102040,7 +102036,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, kit e cupom",
         "paragraphs": [
-          "Os preços são os da mesma data. A coluna do cupom é conta nossa: 15% sobre o preço da página. O valor final aparece no checkout."
+          "Os preços são os da tabela. Conta nossa, pelos preços das páginas: a coluna do cupom aplica 15%, antes de frete e de outras condições. O valor final depende do item elegível no checkout."
         ],
         "comparisonTable": {
           "headers": [
@@ -102072,7 +102068,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Sem cupom, cada peça do kit sai por R$ 137,71 (R$ 413,12 divididos por três). A conta por peça é nossa, feita sobre o preço do próprio kit.",
+          "Sem cupom, o Kit 3 Moderado gola V sai por R$ 137,71 por peça, pela divisão do preço do kit. Compare com três avulsas do mesmo modelo, gola e variantes; se você só precisa de uma, compare também o gasto total do avulso.",
           "O cupom EMCASACOMCECILIA dá 15% na loja online. Ele vale uma vez por pedido e soma com o Pix e com as outras formas de pagamento. O Pix tem desconto próprio, mas o percentual muda no site: confira no checkout.",
           "No teste no checkout, o desconto apareceu num kit de cuecas com preço promocional. Antes de pagar, confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout. Se o pedido junta undershirt e cueca boxer, cada item tem a sua linha.",
           "A página do Moderado também mostra desconto por quantidade no seletor. Os valores mudam; confira no produto.",
@@ -102118,7 +102114,7 @@ export const reviewsData: unknown[] = [
           "Suor leve: Leve. A página não cita camada dupla nem reforço nas axilas, e ela só vem na cor bege, com gola V.",
           "Suor moderado: Moderado. Tem camada dupla na região das axilas e sai em bege, preta e branca, com gola V ou U.",
           "Suor excessivo: Block, com reforço impermeável nas axilas, segundo a marca. Estava esgotado em outubro.",
-          "Nos três casos, acerte o tamanho antes de comprar, porque a undershirt não é trocada por tamanho."
+          "Confira o tamanho antes da compra: a política comercial divulgada para a linha restringe troca e devolução a defeito de fabricação."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
         "emphasisAfterParagraph": 1
@@ -102126,7 +102122,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca e cuidados",
         "paragraphs": [
-          "A undershirt não é trocada por tamanho. Pela central de ajuda, a linha Underwear só troca ou devolve por defeito de fabricação, e as undershirts seguem essa regra, que é política da loja para a troca voluntária. O prazo de 180 dias corridos, com fotos, é o da troca por defeito. O arrependimento da compra online é outro pedido. Por isso, acerte o tamanho antes de comprar.",
+          "A undershirt não é trocada por tamanho. Na central de ajuda, a linha Underwear só troca ou devolve por defeito de fabricação, e as undershirts seguem essa regra. O prazo de 180 dias corridos, com fotos, vale para a troca por defeito. Por isso, acerte o tamanho antes de comprar.",
           "Segundo a central de ajuda, a undershirt pode encolher até 7%. As instruções de lavagem da peça estão na etiqueta, e este texto não traz outras."
         ]
       },
@@ -102142,9 +102138,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A undershirt Insider funciona? Só pela ficha da loja não dá para dizer. A marca descreve cada nível e a construção, e as avaliações são dela. Ninguém da equipe usou as peças.",
           "Qual undershirt Insider escolher para suor moderado? A [Undershirt Antissuor Moderado](https://www.insiderstore.com.br/products/undershirt-anti-suor), indicada pela marca para transpiração moderada, com camada dupla nas axilas.",
-          "Qual a diferença entre a Leve e o Block? A Leve é para transpiração leve, e a página não declara camada dupla nem reforço. O Block é para transpiração excessiva, com reforço impermeável nas axilas, segundo a marca, e estava esgotado em outubro.",
+          "Qual a diferença entre a Leve e o Block? A Leve é indicada pela marca para transpiração leve; sua ficha não declara camada dupla. O Block é indicado para transpiração excessiva e tem reforço impermeável nas axilas, segundo a marca. Na tabela, ele aparece esgotado.",
           "A undershirt Insider tem versão feminina? Não. A linha da loja é masculina.",
-          "Dá para trocar a undershirt se não servir? Não por tamanho, pela política da loja. A troca por defeito de fabricação vale em até 180 dias corridos, com fotos.",
+          "Dá para trocar a undershirt se não servir? Não por tamanho, pela política da loja. A troca por defeito de fabricação vale em até 180 dias corridos, com fotos; confirme seu caso no atendimento.",
           "A undershirt Insider encolhe? Segundo a central de ajuda, pode encolher até 7%. Siga a etiqueta.",
           "O cupom vale na undershirt? Vale na loja online, uma vez por pedido, e soma com o Pix. Confira a linha do código de cada item no checkout.",
           "A undershirt Insider resolve o suor excessivo? Não. A peça não trata nem elimina o suor. Se o suor é excessivo ou persistente, procure um dermatologista."
@@ -102159,7 +102155,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe se você espera que a peça trate ou elimine o suor: ela não trata, e o suor excessivo é caso de dermatologista.",
-        "Passe se o tamanho está em dúvida: a undershirt não troca por tamanho."
+        "Passe se você quer poder trocar por tamanho depois da compra: a política da linha não oferece essa troca."
       ]
     },
     "pros": [],
@@ -102215,19 +102211,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para presentear com a Insider neste Natal, o kit de presente serve a quem quer entregar algo pronto, e o gift card virtual, a quem não sabe o tamanho. Na loja, cueca, calcinha e sutiã só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, também na compra do gift card, exceto em lançamentos."
+          "Para presentear com a Insider, escolha um kit se souber os tamanhos ou o gift card se a escolha ficar com a pessoa. Na loja, cuecas, calcinhas e sutiãs só trocam por defeito; confira as medidas antes de comprar. O cupom EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online, mas não entra em pedido pago com gift card."
         ]
       },
       {
         "heading": "Vale presente na Insider: como funciona o gift card",
         "paragraphs": [
-          "Há três caminhos para presentear com a Insider neste Natal: um kit de presente, um gift card virtual ou o kit mais uma sacola ou envelope. Os preços e as regras deste guia foram lidos nas páginas da loja em 20/10/2026, e os prazos vêm da simulação de frete do carrinho. Começamos pelo gift card.",
+          "Há três caminhos para presentear: um kit, um gift card virtual ou um kit com sacola ou envelope. Os preços deste guia são de 20/10/2026, e os prazos vêm de uma simulação de frete do carrinho; confira o frete do seu CEP antes de pagar.",
           "O [gift card da Insider](https://www.insiderstore.com.br/products/cartao-presente-insider) é virtual. A página do produto lista 12 valores: R$ 50, R$ 80, R$ 100, R$ 150, R$ 200, R$ 350, R$ 500, R$ 600, R$ 700, R$ 800, R$ 900 e R$ 1.000.",
           "As regras, pela própria página do cartão:"
         ],
         "bullets": [
           "O cartão só pode ser comprado em pedido individual, sem outros produtos no carrinho.",
-          "O gift card é enviado para o e-mail cadastrado na compra. O envio sai depois da confirmação do pagamento.",
+          "A descrição orienta receber o cartão no e-mail de quem compra e encaminhá-lo à pessoa presenteada. A página também oferece “Quero enviar como presente”, com e-mail do destinatário e data de envio. Confirme esses dados na compra; o envio sai depois da confirmação do pagamento.",
           "Vale por 12 meses a partir do recebimento por e-mail. Não é reembolsável e não pode ser revendido.",
           "A página limita quantos cartões cada conta pode comprar por dia.",
           "O cartão fica fora da campanha de brindes."
@@ -102530,7 +102526,7 @@ export const reviewsData: unknown[] = [
           "[Embalagem de Presente Prateada](https://www.insiderstore.com.br/products/envelope-com-fundo): envelope de papel cartão e poliéster, de 25 × 5 × 35 cm, por R$ 13,90."
         ],
         "postParagraphs": [
-          "A loja marca as duas como estoque baixo, então vale checar a disponibilidade antes de contar com elas. Se você comprar a sacola ou o envelope junto com um kit, a etiqueta de lançamento não decide o cupom: confira a linha do código no checkout."
+          "Em outubro, a loja marcava a sacola e o envelope como estoque baixo; confira a disponibilidade atual. Ao comprá-los com um kit, a etiqueta de lançamento sozinha não decide o cupom: veja a linha do código por item no checkout."
         ],
         "images": [
           {
@@ -102556,16 +102552,16 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Até quando pedir para chegar antes do Natal",
+        "heading": "Prazo para o Natal: estimativa pelo frete simulado",
         "paragraphs": [
-          "A loja diz que os prazos podem mudar em alta demanda, como Black Friday ou lançamentos. Ela não garante entrega até o Natal. A tabela abaixo é a nossa conta, a partir da simulação de frete grátis do carrinho, com o CEP do centro de cada capital.",
+          "A loja avisa que os prazos podem mudar em alta demanda, como Black Friday ou lançamentos. A tabela é uma estimativa nossa para o Natal de 2026, com o frete grátis simulado para o CEP do centro de cada capital, e não garante entrega até o Natal.",
           "A conta parte de dias úteis contados a partir da aprovação do pagamento, com chegada na quarta-feira, dia 23, sem contar feriados locais. Assim, sobra um dia antes da véspera de Natal."
         ],
         "comparisonTable": {
           "headers": [
             "Cidade",
             "Frete grátis (dias úteis na simulação)",
-            "Pedido aprovado até (dia de dezembro)"
+            "Aprovação até (estimativa)"
           ],
           "rows": [
             [
@@ -102648,21 +102644,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual caminho escolher",
         "paragraphs": [
-          "O kit de presente serve a quem quer entregar algo pronto: são 24 kits \"Kit Presente\", de R$ 208,80 a R$ 583,62 no preço do dia, e dois deles têm cueca boxer. O gift card virtual, de R$ 50 a R$ 1.000, serve a quem não sabe o tamanho, porque cueca, calcinha e sutiã só trocam por defeito, mas o cupom EMCASACOMCECILIA não entra em pedido pago com gift card.",
-          "Para chegar antes do Natal, a data limite do pedido depende da cidade: a tabela da seção \"Até quando pedir\" traz o dia de cada capital."
+          "Os 24 kits listados neste guia custam de R$ 208,80 a R$ 583,62 no preço do dia. Escolha um kit se souber o tamanho de cada peça; nos íntimos, não conte com a troca comercial por tamanho. Se não souber, o gift card deixa a escolha com a pessoa presenteada. O cupom funciona na compra do cartão, mas não no pedido pago com o saldo dele.",
+          "Para o prazo do Natal, use a tabela como referência e refaça o cálculo com o CEP de entrega, o prazo atual e a data de aprovação do pagamento."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o gift card quando não sei o tamanho, porque cueca e íntimo só trocam por defeito.",
+        "emphasis": "Se eu não soubesse o tamanho, escolheria o gift card para deixar essa decisão com quem vai receber.",
         "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Insider vale presente? Vale: a loja vende gift card virtual de R$ 50 a R$ 1.000, enviado para o e-mail cadastrado na compra, com validade de 12 meses a partir do recebimento.",
-          "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, mas a troca sai em vale-troca para usar no site. Pela política da loja, cueca, calcinha e sutiã só trocam por defeito.",
+          "A Insider tem vale-presente? Sim: o gift card virtual vai de R$ 50 a R$ 1.000, com validade de 12 meses após o recebimento por e-mail. A página também oferece envio como presente, com e-mail e data; confira o destinatário antes de pagar.",
+          "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, em vale-troca para usar no site. Cueca, calcinha, sutiã e undershirts só trocam por defeito. O arrependimento de compra online é outro pedido, feito por quem comprou.",
           "Cupom vale no gift card? Vale na compra do cartão: no nosso teste, o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
-          "Chega a tempo do Natal? Depende da cidade e da data da aprovação do pagamento. A tabela da seção \"Até quando pedir\" traz a data limite de cada capital, e a loja diz que os prazos podem mudar em alta demanda.",
+          "Chega a tempo do Natal? Consulte o prazo atual do seu CEP e considere quando o pagamento será aprovado. A tabela deste guia é uma estimativa para 2026, com base na simulação de frete do carrinho; a loja avisa que alta demanda pode alterar os prazos.",
           "A Insider tem kit de presente com cueca? Tem: o Kit Presente Performance Masculino e o Kit Presente Básico Masculino levam cueca, e há outros três kits com cueca fora do rótulo Kit Presente.",
-          "A Insider vende sacola de presente? Vende a Insider Gift Bag, de R$ 9,00, e uma embalagem prateada em envelope, de R$ 13,90."
+          "A Insider vende sacola de presente? Vende a Insider Gift Bag, de R$ 9,00, e uma embalagem prateada em envelope, de R$ 13,90. Confira o estoque antes de comprar."
         ]
       }
     ],
@@ -102673,7 +102669,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe no gift card se você quer usar o cupom com o saldo: pedido pago com gift card não aceita cupom.",
-        "Passe na cueca, calcinha ou sutiã de presente se não tem certeza do tamanho: só trocam por defeito."
+        "Passe na cueca, calcinha ou sutiã de presente se não tem certeza do tamanho: a troca comercial de presente não corrige o tamanho desses itens."
       ]
     },
     "pros": [],
@@ -103131,7 +103127,7 @@ export const reviewsData: unknown[] = [
             [
               "[Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) (WPC, WPI e WPH), 900 g",
               "40 g, 32 g de proteína",
-              "cerca de 23",
+              "22,5 (cerca de 23)",
               "R$ 273,55",
               "R$ 37,99"
             ],
@@ -103190,7 +103186,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey com três proteínas: Top Whey 3W ou FreshWhey",
         "paragraphs": [
-          "O [Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) mistura WPC, WPI e WPH, e a dose de 40 g dá 32 g de proteína. Pelo Pix, sai a R$ 36,85 por 100 g. O FreshWhey da Dux tem as mesmas três proteínas, com 20 g em 30 g, e sai a R$ 72,19 por 100 g no Pix, ou R$ 75,98 no cartão. A diferença é de 49% no Pix.",
+          "O [Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) mistura WPC, WPI e WPH, e a dose de 40 g dá 32 g de proteína (720 g de proteína no pote de 900 g). Pelo Pix, sai a R$ 36,85 por 100 g de proteína. O FreshWhey da Dux tem as mesmas três proteínas, com 20 g em 30 g, e sai a R$ 72,19 por 100 g no Pix, ou R$ 75,98 no cartão. A diferença é de 49% no Pix.",
           "A troca que muda a escolha é o adoçante. O 3W usa sucralose e lecitina de soja. O FreshWhey é adoçado com glicosídeos de esteviol (stévia) e taumatina, e a lista de ingredientes dele não traz sucralose nem lecitina. Para quem evita sucralose, o FreshWhey é a opção desta comparação. Por grama de proteína, ele custa cerca do dobro do 3W."
         ]
       },
@@ -103363,7 +103359,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Preços no cartão. O sabor Uva do Shook está disponível no site; o Manga e Pêssego estava sem estoque no dia.",
-          "No Pix, o Shook sai a R$ 2,81 por dose (R$ 2,52 com o cupom no teto), o Pre Workout Original, a R$ 6,41, e o Stim Free, a R$ 5,68. Quem evita cafeína deve olhar o rótulo: a Stim Free é a única linha desta comparação sem cafeína na tabela e na lista de ingredientes."
+          "No Pix, o Shook sai a R$ 2,81 por dose (R$ 2,52 com o cupom no teto), o Pre Workout Original, a R$ 6,41, e o Stim Free, a R$ 5,68. A tabela e a lista de ingredientes do Stim Free não informam cafeína; quem precisa evitá-la deve confirmar no rótulo e com o fabricante antes da escolha."
         ],
         "images": [
           {
@@ -103426,7 +103422,7 @@ export const reviewsData: unknown[] = [
           "**A Dux ganha no multivitamínico por dia.** São R$ 0,84 contra R$ 1,85 no Pix. Uma cápsula da Dux traz 100% do valor diário de várias vitaminas, e a Max pede três. A tabela da Max traz mais minerais.",
           "**A Dux ganha no adoçante do FreshWhey.** O FreshWhey usa stévia e taumatina no lugar da sucralose do 3W, e a lista dele não traz lecitina de soja. Para quem evita sucralose, a Dux tem a linha.",
           "**A Dux ganha em sabores.** O concentrado tem 14 sabores na tabela da página, e tem um Neutro, só com WPC. O Refil da Max tem quatro sabores, e o IsoWhey, três.",
-          "**A Dux ganha no pré-treino sem cafeína.** A Stim Free não traz linha de cafeína. A Max tem o Night Train, sem cafeína na ficha, que não entrou nesta comparação."
+          "**A Dux tem a Stim Free nesta comparação.** A tabela não informa cafeína na Stim Free. A Max também tem o Night Train, sem cafeína na ficha, que ficou fora deste recorte; para evitar cafeína, confirme o rótulo de cada produto."
         ]
       },
       {
@@ -103442,7 +103438,7 @@ export const reviewsData: unknown[] = [
           "Quer isolado: o [IsoWhey 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) sai a R$ 40,56 por 100 g no Pix, contra R$ 74,01 do isolado da Dux.",
           "Quer a creatina mais barata por grama: o [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 16,98 por 100 g no Pix. Quer creatina com o selo Creapure: a [Creatina Creapure 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 54,28 por 100 g no Pix, contra R$ 87,05 da Dux.",
           "Quer multivitamínico pelo menor custo por dia: o da Dux, com uma cápsula, a R$ 0,84 no Pix. Quer mais minerais na tabela: o [Multimax Complex 90 cápsulas da Max](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p), a R$ 1,85 por dia.",
-          "Quer pré-treino pelo menor custo por dose: o [Shook Uva da Max](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p), a R$ 2,81 por dose no Pix, com 200 mg de cafeína. Quer sem cafeína: a Stim Free da Dux, a R$ 5,68 por dose."
+          "Quer comparar pré-treino por custo da dose: o [Shook Uva da Max](https://www.maxtitanium.com.br/pre-treino-shook-rafael-brandao-300g/p) sai a R$ 2,81 no Pix, com 200 mg de cafeína por dose. O Stim Free da Dux sai a R$ 5,68. Se o critério é evitar cafeína, confirme a informação no rótulo e com o fabricante; o preço não resolve essa escolha."
         ],
         "postParagraphs": [
           "Se o preço mudar, a conta muda. Refaça as contas com o preço do dia antes de comprar."
@@ -103465,7 +103461,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a Max se você escolhe whey, creatina ou pré-treino pelo menor preço por grama ou por dose.",
-        "Leve a Dux se você quer multivitamínico pelo menor custo por dia ou pré-treino sem cafeína."
+        "Leve a Dux se você quer multivitamínico pelo menor custo por dia. Para pré-treino sem cafeína, confirme no rótulo, porque a tabela da Stim Free não informa cafeína."
       ],
       "skipIf": [
         "Passe na Max se você evita sucralose no whey: o FreshWhey da Dux usa stévia e taumatina.",
@@ -103475,7 +103471,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
+      "text": "Veja os wheys, as creatinas, o multivitamínico e o pré-treino da Max Titanium comparados aqui e aplique o cupom MAX10EMCASACOMCECILIA no carrinho. Confira o percentual aplicado a cada item.",
       "label": "Ir para a Max Titanium",
       "url": "https://www.maxtitanium.com.br/",
       "sponsored": true
@@ -103525,7 +103521,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Probiótica sai mais barata que a Dux no whey, na creatina e na Creapure pelos preços publicados, e tem o cupom PRO10EMCASACOMCECILIA. A Dux ganha no desconto do Pix e em ingredientes mais enxutos. O que muda a escolha é o que pesa mais para você; veja Onde cada uma ganha e Quem escolhe o quê."
+          "A Probiótica sai mais barata que a Dux por 100 g de proteína no whey e por 100 g de creatina, incluindo a Creapure, pelos preços publicados. A Probiótica tem o cupom PRO10EMCASACOMCECILIA; a Dux dá 5% no Pix e tem lista de ingredientes mais enxuta em algumas versões. Veja Onde cada uma ganha e Quem escolhe o quê."
         ]
       },
       {
@@ -103737,12 +103733,12 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela, para o menor preço por grama no whey, na creatina e na Creapure a escolha é a Probiótica, porque ela sai mais barata nas três; para a lista de ingredientes mais enxuta, a escolha é a Dux.",
+        "emphasis": "Pelos números da tabela, para o menor preço por grama no whey, na creatina e na Creapure a escolha é a Probiótica; para a lista de ingredientes mais enxuta nas versões indicadas, a escolha é a Dux.",
         "emphasisAfterParagraph": 1,
         "bullets": [
           "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
           "Prefere o pote rígido de 900 g: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
-          "Quer whey concentrado da Dux, incluindo o Neutro sem sabor: o pote de 900 g da Dux, a R$ 58,41 por 100 g de proteína no Pix. Fica acima da Probiótica nessa conta.",
+          "Quer whey concentrado da Dux: o pote de 900 g Baunilha sai a R$ 58,41 por 100 g de proteína no Pix. Fica acima da Probiótica nessa conta.",
           "Quer a creatina mais barata por grama: [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p), a R$ 18,97 no Pix, ou R$ 17,07 com o cupom no teto.",
           "Quer a creatina com a lista de um ingrediente só: a monohidratada de 300 g da Dux, a R$ 20,55 por 100 g no Pix, sem antiumectante.",
           "Quer Creapure: [Creatina Creapure de 150 g](https://www.probiotica.com.br/creatina-creapure--150g/p), a R$ 64,59 por 100 g no Pix. Se a declaração de Creapure da Dux pesa mais, o pote de 300 g da Dux sai a R$ 87,05 por 100 g no Pix."
@@ -103755,12 +103751,12 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Probiótica ou Dux: qual é melhor? Depende da linha. No whey de 900 g, a Probiótica sai mais barata por 100 g de proteína. Na creatina de 300 g, também. A Dux tem a creatina com a lista mais curta. As duas vendem uma linha Creapure, e a da Probiótica sai mais barata por grama.",
-          "Qual o melhor whey, Probiótica ou Dux? Pelo preço por 100 g de proteína, o refil de 900 g da Probiótica, a R$ 38,10 no Pix (R$ 40,82 no pote). O concentrado de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
+          "Qual o melhor whey, Probiótica ou Dux? Pelo preço por 100 g de proteína, o refil de 900 g da Probiótica, a R$ 38,10 no Pix (R$ 40,82 no pote). O concentrado Baunilha de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
           "Qual a melhor creatina, Probiótica ou Dux? Por grama, a monohidratada de 300 g da Probiótica, a R$ 18,97 no Pix. A da Dux sai a R$ 20,55 no Pix.",
           "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz que a proteína do concentrado é só do soro do leite, sem blend, e declara Creapure na linha de 300 g. A creatina monohidratada dela lista só creatina. O concentrado de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
           "A Dux tem cupom nosso? Não. A Dux não é parceira do site, e o PRO10EMCASACOMCECILIA vale só na Probiótica; se a Dux tem promoção própria, a informação está no site dela.",
           "O cupom soma com o Pix? A regra do cupom diz que ele vale com todas as formas de pagamento. O desconto muda por item, e o resumo do pedido mostra quanto cada um recebeu.",
-          "Os preços valem hoje? Eles são os da leitura da comparação e mudam com as promoções. Confira nos dois sites antes de comprar."
+          "Os preços valem hoje? Eles mudam com as promoções. Confira nos dois sites antes de comprar."
         ]
       }
     ],
@@ -123230,8 +123226,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A camiseta da Cléa Store pela ficha da loja: composição, modelagem oversized, os 6 modelos com cores, o preço da avulsa e do kit, quando o kit compensa e os cuidados.",
-    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta é boa? Só oversized, 6 modelos e o preço por peça no kit de 3.",
+    "description": "Camiseta Cléa Store pela ficha: composição do corpo e da gola, corte oversized, cores e tamanhos. Compare a avulsa com cinco kits e veja como calcular o preço por peça.",
+    "metaDescription": "CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Camiseta oversized, avulsa ou em cinco kits: compare o preço por peça.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
     "draft": false,
@@ -123242,8 +123238,8 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Leve o kit de três em promoção se você veste oversized e quer o menor preço por peça.",
-        "Leve a avulsa se você quer uma cor só ou completar um kit."
+        "Considere o kit se quer três camisetas e o preço por peça fica menor que o da avulsa no mesmo dia.",
+        "Considere a avulsa se quer apenas uma camiseta. Para três peças, compare também o kit Essenciais, que permite escolher e repetir cores."
       ],
       "skipIf": [
         "Passe nesta camiseta se você procura corte regular ou baby look: o catálogo só tem oversized.",
@@ -123282,15 +123278,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tecido e composição: o que a ficha informa",
         "paragraphs": [
-          "A Cléa Store vende camiseta em um modelo só, o oversized. Os preços deste guia são os de lista do site, sem cupom, lidos em 04/11/2026: R$ 129,00 a peça avulsa e R$ 387,00 o kit de três. Este guia usa a ficha da loja, a composição informada, o preço de lista e a tabela de medidas, e não opina sobre toque, caimento ou durabilidade.",
-          "Na ficha da T-Shirts Oversized Algodão, o corpo da peça é 100% algodão penteado premium. A ribana da gola tem 97% algodão e 3% elastano. Ou seja, o elastano está só na ribana, não no corpo. Os cinco kits trazem a mesma composição.",
-          "\"Algodão penteado premium\" é o nome que a loja dá ao tecido. Este guia usa o termo como a loja usa.",
-          "A loja descreve o tecido como leve, respirável e de toque natural e macio.",
-          "A gramatura da malha, o peso do tecido, não está na ficha."
+          "A ficha informa corpo 100% algodão penteado premium e ribana da gola com 97% algodão e 3% elastano; os cinco kits repetem essa composição. O elastano está só na ribana, não no corpo.",
+          "\"Algodão penteado premium\" é a denominação da loja, que descreve o tecido como leve, respirável e de toque natural e macio. A gramatura da malha não estava publicada."
         ]
       },
       {
-        "heading": "Modelagem: só existe oversized",
+        "heading": "Modelagem: todas as camisetas são oversized",
         "paragraphs": [
           "Nas listagens de camisetas, essenciais, mais vendidos e roupas da loja, todas as camisetas são oversized. A loja chama a oversized de camiseta básica; não há corte regular nem baby look no catálogo lido. A palavra \"oversized\" aparece na descrição de todos os modelos, inclusive no kit Essenciais, e a loja fala em caimento amplo.",
           "Todos vêm em P, M e G. Como o corte é amplo, a escolha do tamanho pede medida. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir busto, cintura e quadril e comparar com o provador da página. Para a modelagem justa dos bodies, que é outra conversa, há o [guia de escolha do body Second Skin](/reviews/body-clea-store-second-skin-qual-escolher)."
@@ -123324,9 +123317,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Os 6 modelos de camiseta lado a lado",
+        "heading": "Avulsa e cinco kits: cores, tamanhos e preço",
         "paragraphs": [
-          "Uma avulsa e cinco kits de três, pelo preço de lista do site, sem cupom. Na lista, o kit custa o mesmo que três avulsas: R$ 129,00 por peça nos dois casos."
+          "Preços de lista do site em 04/11/2026, sem frete ou cupom: uma avulsa e cinco kits de três. Nesses preços, a peça sai por R$ 129,00 tanto na avulsa quanto no kit."
         ],
         "comparisonTable": {
           "headers": [
@@ -123397,7 +123390,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Avulsa ou kit: quanto sai cada peça",
         "paragraphs": [
-          "No preço de lista, o kit não economiza: três avulsas custam R$ 387,00, o mesmo que o kit de três, e a peça sai por R$ 129,00 nos dois. O kit compensa quando está em promoção, o que a loja faz com frequência. No dia da compra, divida o preço do kit por três e compare com a avulsa, que também pode estar com desconto.",
+          "No preço de lista, o kit e três avulsas custam o mesmo. No dia da compra, divida o preço do kit por três e compare com a avulsa, que também pode estar com desconto. O kit economiza só se o custo por peça ficar menor e você quiser levar as três.",
           "Com o cupom CSEMCASACOMCECILIA, de 10% sobre o preço do dia, a conta pelo preço de lista fica assim:"
         ],
         "bullets": [
@@ -123405,8 +123398,8 @@ export const reviewsData: unknown[] = [
           "Três avulsas ou um kit de três: R$ 348,30."
         ],
         "postParagraphs": [
-          "O cupom soma com as promoções do site, em todas as formas de pagamento. No teste de checkout, com o kit em promoção a R$ 258,00 naquele dia, o total caiu para R$ 232,20. O valor final aparece no carrinho, e o preço do dia muda com a promoção. Veja as regras na [página de cupons da Cléa Store](/cupons/clea-store).",
-          "A diferença entre os kits é só a combinação de cores. O Classic é off white, preto e marrom, o Colorful é rosa claro, verde oliva e caramelo, o Intense é chumbo, bege e vinho e o Brazil Edition é azul marinho, verde oliva e off white. No Essenciais, você monta as três cores. A avulsa é a opção para uma cor só ou para completar um kit."
+          "O CSEMCASACOMCECILIA dá 10% sobre o preço do dia, também em promoção e em qualquer forma de pagamento. No teste de checkout, o kit promocional de R$ 258,00 naquele dia ficou por R$ 232,20. As condições estão na [página do cupom Cléa Store](/cupons/clea-store).",
+          "Nos kits prontos, as cores vêm combinadas como mostra a tabela. No Essenciais, você escolhe as três e pode repetir. A avulsa atende quem quer apenas uma peça ou completar um kit."
         ],
         "images": [
           {
@@ -123454,26 +123447,25 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Vale a pena? Avulsa ou kit",
-        "emphasis": "Para quem vai levar três camisetas, a escolha é o kit Essenciais em promoção: ele deixa montar as três cores, e é no kit em promoção que a peça sai mais barata.",
+        "emphasis": "Se eu quisesse três camisetas, começaria comparando o kit Essenciais, que permite escolher e repetir as cores. Só o levaria se o preço por peça ficasse menor que o da avulsa no mesmo dia. Para uma única peça, escolheria a avulsa.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "Pela ficha da loja, a camiseta tem corpo em algodão e um único corte, o oversized. Quem quer outro corte não encontra neste catálogo, e a loja não informa a gramatura. Como ninguém do site comprou nem vestiu as peças, a escolha entre avulsa e kit parte só do preço e da cor."
+          "A composição e o corte ajudam a filtrar a escolha, mas não respondem como a peça veste ou resiste às lavagens. Confira o tamanho no guia de medidas já indicado e compare a combinação de cores e o preço por peça antes de decidir."
         ],
         "bullets": [
-          "Peça avulsa: [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189), R$ 129,00, em 10 cores e nos tamanhos P, M e G.",
-          "Kit de três: R$ 387,00 de lista, R$ 129,00 por peça, o mesmo que a avulsa; em promoção, a peça do kit sai mais barata. São cinco kits, todos em P, M e G.",
-          "Composição, segundo a ficha: corpo 100% algodão penteado premium; a ribana da gola é 97% algodão e 3% elastano.",
-          "Gramatura: a loja não informa."
+          "**Uma camiseta:** compare a cor e o tamanho da [T-Shirts Oversized Algodão](https://www.cleastore.com.br/produto/t-shirts-oversized-algodao-4189).",
+          "**Três camisetas:** escolha entre as combinações prontas ou o Essenciais e refaça a conta por peça com os preços do dia.",
+          "**Antes de decidir:** a composição é a informada pela loja, e a gramatura não estava publicada."
         ],
         "postParagraphs": [
-          "O cupom CSEMCASACOMCECILIA tira mais 10% no site, também sobre o preço de promoção. Pelo preço de lista, a peça avulsa sai por R$ 116,10 e o kit de três por R$ 348,30."
+          "O CSEMCASACOMCECILIA reduz o preço do site em 10%, inclusive nas promoções. Pelo preço de lista, a peça avulsa sai por R$ 116,10 e o kit de três por R$ 348,30."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Camiseta Cléa Store é boa? Este guia responde pela ficha da loja, não por opinião: corpo 100% algodão penteado premium, modelagem oversized e cuidados simples. Ninguém do site comprou nem vestiu a peça.",
-          "Kit camiseta Cléa Store vale a pena? Em promoção, sim: no preço de lista, o kit de três sai a R$ 129,00 por peça, o mesmo que a avulsa, e é a promoção do kit, frequente na loja, que baixa o preço por peça; o cupom soma com ela.",
+          "Camiseta Cléa Store é boa? Pela ficha, dá para comparar: corpo de algodão penteado, gola com elastano e corte oversized. Como a peça veste e resiste às lavagens não está na ficha; a comparação deste guia é de composição, cores, medidas e preço.",
+          "Kit camiseta Cléa Store vale a pena? Compare o preço do kit dividido por três com o preço da avulsa no mesmo dia. Nos valores de lista da tabela, não havia economia. O cupom também vale nas promoções; o kit só compensa pelo preço se o custo por peça ficar menor e você quiser três camisetas.",
           "A Cléa Store tem camiseta básica? Tem, mas a \"básica\" da loja é a própria oversized: no catálogo lido não há corte regular nem baby look.",
           "Como lavar a camiseta Cléa Store? Segundo a loja, até 30 °C, com sabão para roupa delicada, sem alvejante, secando no varal e passando até 150 °C.",
           "Qual a composição da camiseta Cléa Store? Segundo a ficha, o corpo é 100% algodão penteado premium, e a ribana da gola tem 97% algodão e 3% elastano."
@@ -125052,7 +125044,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 605,
     "slug": "alfaiataria-verao-clea-store",
-    "title": "Alfaiataria de verão na Cléa Store: dá para montar conjunto, mas a loja não vende pronto",
+    "title": "Alfaiataria de verão na Cléa Store: dá para montar conjunto com peças avulsas",
     "seoTitle": "Alfaiataria de verão Cléa Store: peças e montagens",
     "type": "Guia de Escolha",
     "category": "guias-praticos-utilidade",
@@ -125083,7 +125075,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "A loja não vende conjunto de alfaiataria",
+        "heading": "Conjuntos prontos e peças avulsas",
         "paragraphs": [
           "A Cléa Store vende peças avulsas. No catálogo de outubro, o único conjunto à venda era o de crochê, por R$ 1.490. A loja tem uma página de [conjunto de alfaiataria amarelo, com calça e colete](https://www.cleastore.com.br/produto/conjunto-alfaiataria-amarelo-calca-e-colete-3877) que não aparecia na grade de outubro: confira a disponibilidade no site. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
           "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor, em linho ou em linho com algodão. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
@@ -125100,7 +125092,7 @@ export const reviewsData: unknown[] = [
             "Peça",
             "Composição, segundo a ficha",
             "Forro",
-            "Preço em 24/10",
+            "Preço no site",
             "Grade",
             "Situação"
           ],
@@ -125180,7 +125172,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os preços são do site em 24/10/2026, sem cupom."
+          "Os preços são do site, sem cupom."
         ],
         "images": [
           {
@@ -125273,7 +125265,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Colete Frente Única Linho Bege",
               "url": "https://www.cleastore.com.br/produto/colete-frente-unica-linho-bege-4221",
-              "howTo": "Em conjunto com a calça de linho caqui, no mesmo tom neutro.",
+              "howTo": "Com a calça caqui, no mesmo tom neutro.",
               "occasion": "Looks sofisticados e leves, segundo a loja.",
               "pairsWith": [
                 {
@@ -125286,7 +125278,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Colete Alfaiataria Trespasse Vermelho",
               "url": "https://www.cleastore.com.br/produto/colete-alfaiataria-trespasse-vermelho-4393",
-              "howTo": "Em conjunto com a calça de linho vermelha, na mesma cor.",
+              "howTo": "Com a Calça Linho Vermelha, na mesma cor.",
               "occasion": "Dia a dia e ocasiões especiais, segundo a loja.",
               "pairsWith": [
                 {
@@ -125302,7 +125294,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Montar um conjunto (monte o seu)",
         "paragraphs": [
-          "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e todas de linho, salvo as calças caqui e vermelha, que são 70% linho e 30% algodão. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia.",
+          "São montagens de peças avulsas. Na rosa, blazer e shorts são 100% linho; na bege, o colete é 100% linho e a calça caqui é 70% linho e 30% algodão. Na vermelha, colete e bermuda são 100% linho; a alternativa com calça mistura 70% linho e 30% algodão. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia.",
           "**Rosa linho.** Blazer Rosa Linho (4404), R$ 899,00, M e G, mais Shorts Rosa Linho (4402), R$ 579,00, com 36, 38 e 40. Tudo em linho. Total de R$ 1.478,00, ou R$ 1.330,20 com o cupom. O blazer não tem P.",
           "**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça aparece como pré-venda, mas dá para comprar; confira o prazo de entrega na página.",
           "**Vermelho linho.** Colete Vermelho (4393), R$ 799,00, com P e G, mais Bermuda Vermelha (4395), R$ 599,00, só no 40. Total de R$ 1.398,00, ou R$ 1.258,20 com o cupom. A bermuda é 100% linho, segundo a ficha. Se preferir calça, a Calça Linho Vermelha (4414), R$ 559,00, com 36 e 38, leva o total a R$ 1.358,00, ou R$ 1.222,20 com o cupom. Ela também aparece como pré-venda, nas mesmas condições da caqui, e a ficha sugere usá-la com o colete.",
@@ -125455,7 +125447,7 @@ export const reviewsData: unknown[] = [
         "Quem veste PP ou P e quer colete com calça pelo menor total: a montagem bege."
       ],
       "skipIf": [
-        "Quem procura conjunto pronto: a loja não vende, só peças avulsas para montar."
+        "Quem quer um conjunto pronto em uma única página: estas montagens usam peças avulsas. Confira no site se o conjunto amarelo ainda está disponível."
       ]
     },
     "pros": [],
@@ -128852,7 +128844,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Toda Up é o nome novo da Fita Up: a FITA UP LTDA, empresa brasileira com CNPJ ativo desde 2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa."
+          "Sim, a Toda Up é o nome novo da Fita Up, segundo a loja: a FITA UP LTDA, empresa brasileira com CNPJ ativo desde 2020 e sede em Biguaçu (SC). O rodapé traz esse CNPJ, e a loja publica regras de troca, reembolso e frete. O ponto de atenção é o prazo de reembolso, que a política não fixa."
         ]
       },
       {
@@ -128914,7 +128906,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O endereço oficial é todaup.com. Antes de digitar qualquer dado, confira o endereço na barra do navegador, principalmente se o link chegou por anúncio ou mensagem.",
           "Depois, role até o rodapé. Ele traz o CNPJ 40.159.443/0001-44 e o endereço em Biguaçu/SC. Compare o número com a consulta pública do CNPJ: deve aparecer a FITA UP LTDA, ativa.",
-          "Faça a compra dentro do site. O domínio antigo, fitaup.com, é da mesma marca e aparece linkado na home. Endereço parecido, com outra terminação, não é nenhum dos dois domínios da marca: confira o CNPJ no rodapé antes de comprar."
+          "Faça a compra dentro do site. O domínio antigo, fitaup.com, é da mesma marca e aparece linkado na home. Se um endereço tiver outra terminação ou parecer diferente, volte a todaup.com digitando o endereço na barra e confirme o canal com a loja antes de fornecer dados."
         ]
       },
       {
@@ -129024,7 +129016,7 @@ export const reviewsData: unknown[] = [
           "Qual é o CNPJ da Toda Up? O CNPJ do rodapé do site é 40.159.443/0001-44, da FITA UP LTDA, ativa desde 2020 na consulta pública. Confira o número na consulta pública do CNPJ.",
           "A Toda Up é a Fita UP? Sim. Segundo o FAQ da loja, a Fita UP cresceu e virou Toda Up, com a mesma equipe e a mesma empresa; mudaram o nome, o visual do site, as embalagens e o logo.",
           "A Fita Up mudou de nome? Faliu? Mudou de nome: não faliu nem fechou. No FAQ da loja, a resposta a \"A Fita UP acabou?\" é \"Não, ela evoluiu!\", e a \"Toda Up é outra empresa?\", \"Nadinha!\". A fita segue à venda no todaup.com, com o mesmo CNPJ no rodapé.",
-          "A Fita Up é golpe? Não. A Fita Up é a marca antiga da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 2020, e a Toda Up é a mesma empresa com marca nova. A nota, as reclamações e as respostas da loja estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
+          "A Fita Up é golpe? Não. A Fita Up é a marca antiga da FITA UP LTDA, CNPJ 40.159.443/0001-44, ativa desde 2020, e a Toda Up é a mesma empresa com marca nova, segundo a loja. Confira o endereço antes de comprar; a nota, as reclamações e as respostas estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao).",
           "O site todaup.com é o oficial? É. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública do CNPJ. O domínio antigo, fitaup.com, é da mesma marca.",
           "Posso trocar uma peça da Toda Up em 30 dias? Sim. Troca por modelo, tamanho ou cor e devolução por arrependimento têm até 30 dias corridos depois do recebimento, pelo portal de trocas, com o CPF da titular e o número do pedido.",
           "Quando o reembolso cai? A política não diz. No cartão, o estorno é feito pela administradora; nas outras formas, pelo procedimento financeiro da loja.",
@@ -129094,7 +129086,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar",
         "paragraphs": [
-          "O site da Toda Up não cita o Reclame Aqui, nem nota de reputação nem selo. O Reclame Aqui mostra o que a loja não mostra: quantas reclamações recebeu, quantas respondeu, quantas resolveu e quanta gente voltaria a comprar.",
+          "O Reclame Aqui reúne reclamações, respostas e avaliações do atendimento. O índice de resposta considera as reclamações registradas; solução, nota do consumidor e voltaria a fazer negócio vêm de quem finalizou e avaliou a reclamação. Esses grupos não representam todos os compradores.",
           "Os números abaixo são de uma leitura só e mudam com o tempo. Confira de novo no dia da compra."
         ]
       },
@@ -129157,13 +129149,13 @@ export const reviewsData: unknown[] = [
               "9"
             ],
             [
-              "Resolvidas",
+              "Índice de solução entre reclamações finalizadas e avaliadas",
               "89,9%",
               "91,5%",
               "92,1%"
             ],
             [
-              "Voltariam a fazer negócio",
+              "Voltariam a fazer negócio, entre quem finalizou e avaliou",
               "71%",
               "72,9%",
               "74,9%"
@@ -129236,13 +129228,13 @@ export const reviewsData: unknown[] = [
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Toda Up e pode receber comissão pelas compras feitas com o cupom MAUAD, o cupom da Toda Up. Os números acima vêm do perfil público no Reclame Aqui.",
-          "O cupom dá 10% OFF em todo o site da Toda Up. Os detalhes estão na [página da Toda Up](/cupons/toda-up), e o passo a passo e o teste no carrinho, em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
+          "O cupom dá 10% OFF em todo o site da Toda Up. As regras de validade e aplicação estão na [página do cupom da Toda Up](/cupons/toda-up), e o passo a passo para aplicar no carrinho consta em [Cupom Toda Up: como usar](/reviews/cupom-toda-up-como-usar)."
         ]
       },
       {
         "heading": "Dá para confiar na Toda Up?",
         "paragraphs": [
-          "Pelo Reclame Aqui, dá. O perfil estava com reputação Ótima nos últimos 6 meses, com nota 8,2, e RA1000 nos 12 meses, e os indicadores da aba geral ficam perto dos recentes. O que o leitor confere antes de pagar: o perfil é o empresa/toda-up, com o CNPJ 40.159.443/0001-44 no topo, e os números do dia."
+          "Pelos dados do Reclame Aqui, sim. O perfil tinha reputação Ótima nos últimos 6 meses, com nota 8,2, e RA1000 nos 12 meses, e os indicadores da aba geral ficam perto dos recentes. Antes de fechar a compra, confira se o perfil segue em empresa/toda-up sob o CNPJ 40.159.443/0001-44 e veja os números atualizados."
         ],
         "bullets": [
           "Reputação: Ótima nos 6 meses, com nota 8,2, e RA1000 nos 12 meses, com nota 8,3.",
@@ -129253,7 +129245,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Toda Up é confiável segundo o Reclame Aqui? O perfil estava com reputação Ótima nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas, e RA1000 nos 12 meses. Esses números vêm das reclamações registradas e não medem a qualidade das peças.",
+          "A Toda Up é confiável segundo o Reclame Aqui? O perfil tinha reputação Ótima nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas, e RA1000 nos 12 meses. Esses números decorrem do atendimento pós-venda registrado e não avaliam a modelagem nem o tecido dos sutiãs.",
           "Qual perfil da Toda Up é o da loja? O perfil Toda Up, na página empresa/toda-up, com o CNPJ 40.159.443/0001-44, o mesmo do rodapé do site todaup.com.",
           "A Toda Up é a mesma empresa da Fita UP? Sim. O CNPJ do perfil e do site é o da FITA UP LTDA, e o FAQ da loja diz que a Fita UP virou Toda Up, com a mesma equipe. Não apareceu perfil separado da Fita UP no Reclame Aqui.",
           "A Toda Up responde às reclamações? Nos últimos 6 meses, respondeu a 100%, em 1 dia e 7 horas em média. Na aba geral, respondeu a 99%, em 6 dias e 3 horas.",
@@ -129315,7 +129307,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 10% OFF em todo o site oficial, inclusive em produto que já está em promoção. No carrinho de teste, ele somou também com a progressiva da Black Antecipada. Essa soma foi testada só nessa campanha: em outra, leia as regras dela antes de contar com ela."
+          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 10% OFF em todo o site oficial, inclusive em produto já em promoção. No teste da Black Antecipada, a progressiva entrou primeiro e o cupom tirou 10% do que sobrou. Em outra campanha, confira a ordem das linhas de desconto no resumo antes de pagar."
         ]
       },
       {
@@ -129361,7 +129353,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confira o total antes de pagar",
         "paragraphs": [
-          "Confira três valores: o subtotal, as linhas de desconto e o total. No teste abaixo, com um Comfort Up, subtotal, desconto e total bateram entre si. Se os seus números não baterem, refaça a colagem do código antes de seguir."
+          "Confira o subtotal, as linhas de desconto e o total. Se o valor for diferente do esperado, revise produtos, quantidades, frete e campanha, além da aplicação do MAUAD. Use o resumo do seu pedido como referência antes de pagar."
         ]
       },
       {
@@ -129450,7 +129442,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Toda Up? O cupom é MAUAD, com 10% OFF em todo o site oficial da Toda Up.",
           "O cupom Toda Up vale em produto em promoção? Sim. No teste do carrinho, os 10% entraram sobre o preço promocional; os valores estão na tabela do teste.",
-          "O cupom soma com a promoção da Black Antecipada? Sim. A progressiva entra primeiro e o cupom tira 10% do que sobra; os dois carrinhos estão na tabela do teste. Em outra campanha, confira no resumo do pedido.",
+          "O cupom soma com a promoção da Black Antecipada? No teste, sim: a progressiva entrou primeiro e o cupom tirou 10% do que sobrou. Os dois carrinhos estão na tabela do teste. Em outra campanha, confira as regras e as linhas do seu pedido.",
           "Onde coloco o cupom na Toda Up? Pelo botão desta página, o site já abre com o cupom aplicado. Se a linha não aparecer no resumo, cole o código no campo de cupom ou desconto, no checkout, e aplique.",
           "Dá para usar mais de um cupom? A loja não publica o limite. Confira no carrinho.",
           "Posso trocar a compra? Sim. Troca de modelo, tamanho ou cor e arrependimento em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
@@ -129623,7 +129615,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços para comparar",
         "paragraphs": [
-          "Estes são os preços de outubro: os preços de venda das coleções públicas do menu da Toda Up (Sutiãs, Calcinhas, Adesivos e Conjuntos), lidos em 26/10/2026, antes da progressiva e do cupom. Quando o produto mostrava o preço \"de\", a tabela traz os dois. Na Black November, só é desconto novo o que ficar abaixo do preço de venda desta tabela."
+          "Estes são os preços de venda das coleções públicas em 26/10/2026, antes da progressiva e do cupom. Use-os como referência: compare a mesma peça e tamanho e confira desconto e frete no total atual."
         ],
         "comparisonTable": {
           "headers": [
@@ -129782,7 +129774,7 @@ export const reviewsData: unknown[] = [
         "heading": "Comprar agora ou esperar a sexta",
         "paragraphs": [
           "A loja não publica quanto tempo a Black November dura, nem anunciou outra regra para 27/11. O desconto da campanha já está no preço de cada peça, e a tabela de outubro deste guia é a régua para comparar.",
-          "Quem já sabe o que quer compra com o desconto da peça e o cupom, conferindo o total no carrinho. Quem pode esperar compara o preço do site na semana de 23/11 e em 27/11 com a tabela acima. As condições atuais do cupom ficam na [página da Toda Up](/cupons/toda-up)."
+          "Se você já escolheu, confira desconto, cupom e frete no carrinho. Se preferir esperar, compare a mesma peça e tamanho com a referência de outubro e com as condições do dia. As regras atuais do cupom ficam na [página da Toda Up](/cupons/toda-up)."
         ]
       },
       {
@@ -129851,7 +129843,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Fita Up é a fita adesiva para seios da Toda Up, a marca que antes se chamava Fita Up. O passo a passo é um só para o tomara que caia e o decote, e a largura, P, M ou G, segue o guia de tamanhos. Dá para reutilizar, mas a marca não recomenda: a fita perde cola."
+          "A Fita Up é a fita adesiva para seios da Toda Up, marca que antes se chamava Fita Up. A loja publica um passo a passo só, para tomara que caia e decote, e as larguras são P, M e G. A Toda Up não recomenda reutilizar, porque a fita perde cola."
         ]
       },
       {
@@ -129936,7 +129928,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A Toda Up diz que a fita sustenta de seios pequenos a grandes. No FAQ da loja, porém, a marca fala em segurança até o tamanho 52, abaixo do 54 da tabela. Acima de 54, ela não indica a fita. A loja não usa o termo plus size e não tem largura maior que a G.",
-          "A loja também não publica a largura da fita em centímetros nem os metros do rolo. O guia é da marca e pode mudar; na dúvida entre duas larguras, a página do produto é a referência."
+          "A loja também não publica a largura da fita em centímetros nem os metros do rolo. Se a diferença entre 52 e 54 afetar sua escolha, confirme a indicação com a Toda Up antes de comprar."
         ]
       },
       {
@@ -129948,15 +129940,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para reutilizar?",
         "paragraphs": [
-          "Dá, mas a Toda Up não recomenda: a fita perde cola e sustentação a cada uso. Os outros motivos de a fita descolar estão no [guia de cuidados da Fita Up](/reviews/fita-up-cuidados-cola-pele-agua)."
+          "A Toda Up não recomenda reutilizar a fita: segundo a marca, ela perde cola e sustentação a cada uso. Os outros motivos de descolar estão no [guia de cuidados da Fita Up](/reviews/fita-up-cuidados-cola-pele-agua)."
         ]
       },
       {
-        "heading": "Quando escolher outro",
+        "heading": "Fita, protetor e sutiã de silicone: funções diferentes",
         "paragraphs": [
-          "A escolha entre os três adesivos é de formato: fita que se corta, peça pronta ou só protetor.",
-          "O [Protetor de Silicone Ultrafino](/reviews/protetor-de-silicone-mamilo-como-usar) (R$ 69,90, de R$ 99,90) é o protetor de silicone da mesma categoria Adesivos. Ele não substitui a fita: o passo a passo da Toda Up começa por um protetor de mamilo.",
-          "O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) (R$ 149,90, de R$ 159,90) é o outro adesivo da categoria: uma peça de silicone pronta, no lugar da fita que se corta."
+          "A fita é cortada e posicionada conforme a roupa. O sutiã de silicone é uma peça pronta; o protetor de mamilo tem outra função e aparece como complemento no passo a passo da fita.",
+          "O [Protetor de Silicone Ultrafino](/reviews/protetor-de-silicone-mamilo-como-usar) custava R$ 69,90, de R$ 99,90. Ele não substitui a fita: a Toda Up manda aplicar um protetor de mamilo antes da fita.",
+          "O [Sutiã de Silicone Invisível](/reviews/sutia-de-silicone-invisivel-como-usar) custava R$ 149,90, de R$ 159,90. É uma peça de silicone pronta, no lugar da fita que se corta. O guia específico explica o uso."
         ]
       },
       {
@@ -129968,8 +129960,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Fita Up é reutilizável? Dá para colar de novo, mas a Toda Up não recomenda: a fita perde cola e sustentação a cada uso.",
-          "Qual largura da Fita Up escolher? Pelo guia da marca, P sustenta até o tamanho 44, M até o 48 e G até o 54.",
+          "A Fita Up é reutilizável? A Toda Up não recomenda reutilizar, porque informa perda de cola e sustentação a cada uso.",
+          "Qual largura da Fita Up escolher? O guia da Toda Up indica P até 44, M até 48 e G até 54. Se a roupa ficar perto desse limite, confira a indicação com a marca antes de comprar.",
           "Fita Up serve para plus size? A Toda Up diz que a fita sustenta de seios pequenos a grandes. Pelo guia de tamanhos, a largura G sustenta até o tamanho 54; no FAQ da loja, a marca fala em segurança até o 52. A loja não usa o termo plus size nem tem largura maior que a G.",
           "A Fita Up serve para tomara que caia? A Toda Up não cita o tomara que caia pelo nome: descreve a fita como sustentação sem sutiã, ajustável à roupa ou ao decote, com um passo a passo só, resumido acima.",
           "A Fita Up é a Toda Up? Sim. A loja diz que a marca Fita Up virou Toda Up, com o mesmo produto no catálogo.",
@@ -130062,7 +130054,7 @@ export const reviewsData: unknown[] = [
           "Para tirar, remova devagar, de cima para baixo."
         ],
         "postParagraphs": [
-          "A Toda Up diz que o sutiã é hipoalergênico e, mesmo assim, pede um pré-teste antes da primeira aplicação."
+          "A Toda Up pede pré-teste antes da primeira aplicação, mesmo descrevendo o produto como hipoalergênico. A página também informa que o sutiã não é indicado para gestantes e lactantes."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-passo-a-passo-2710.webp",
@@ -130098,7 +130090,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O 44 aparece em duas faixas. Se o seu sutiã é 44, confira a circunferência do busto no guia de medidas da página."
+          "O número 44 aparece em M e G. Se for o seu caso, confirme com a Toda Up qual tamanho ela indica antes de comprar."
         ]
       },
       {
@@ -130187,7 +130179,8 @@ export const reviewsData: unknown[] = [
               "Leve 2 com 16% OFF + brinde: R$ 269,90",
               "Leve 3: R$ 139,80"
             ]
-          ]
+          ],
+          "caption": "Preços e kits podem mudar; confira a oferta atual na página do produto."
         },
         "postParagraphs": [
           "A fita sustenta e se ajusta ao decote, o protetor evita que o seio marque no tecido, e o sutiã é a peça pronta, com fecho e tamanho pelo busto. O protetor tem guia próprio em [protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar). Preços e kits mudam com as campanhas da loja."
@@ -130196,17 +130189,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e preço",
         "paragraphs": [
-          "O sutiã se compra no site oficial da Toda Up, na categoria Adesivos, pelo botão desta página. O [cupom Toda Up](/cupons/toda-up) dá 10% e somou com os kits Leve 2 e Leve 3 no carrinho."
+          "O sutiã se compra no site oficial da Toda Up, na categoria Adesivos, pelo botão desta página. O [cupom Toda Up](/cupons/toda-up) dá 10% e somou com os kits Leve 2 e Leve 3 da loja; se o sutiã entra no desconto, confirme no carrinho antes de pagar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O sutiã de silicone invisível pode ser usado mais de uma vez? Sim, até 12 vezes, pela Toda Up. Lavar e guardar como indica a embalagem ajuda a conservar a cola.",
-          "Qual tamanho escolher? P para sutiã 38 a 40, M de 42 a 44 e G de 44 a 48, pela tabela da marca.",
+          "Qual tamanho escolher? Pela marca, P para sutiã 38 a 40, M de 42 a 44 e G de 44 a 48. Como o 44 aparece em duas faixas, confirme a indicação com a loja.",
           "Para qual roupa serve? Vestido de festa e frente única, sem alças e com as costas nuas. Para tomara que caia, a Toda Up indica a Fita Up.",
           "O sutiã de silicone invisível é hipoalergênico? A Toda Up diz que sim e pede um pré-teste antes da aplicação.",
-          "O cupom vale no sutiã? Vale: o cupom da Toda Up dá 10% e somou com os kits Leve 2 e Leve 3 no carrinho.",
+          "O cupom vale no sutiã? O cupom da Toda Up dá 10%. Ele somou com kits Leve 2 e Leve 3 da loja; se o sutiã entra no desconto, confirme no carrinho antes de pagar.",
           "É a mesma coisa que a Fita Up? Não. A Fita Up é a fita que se corta, e o sutiã é a peça pronta, com fecho.",
           "Como lavar o sutiã de silicone? Com água e sabão neutro, secando ao natural, pela orientação da Toda Up."
         ]
@@ -130265,7 +130258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Protetor de Silicone da Toda Up é o adesivo para roupa, não o protetor de amamentação. O tamanho vai pelo número do sutiã: 8 cm até o 46, 10 cm até o 50, 12 cm até o 54. A Toda Up diz que dá para reutilizar até 30 vezes, com a lavagem que ela descreve, resumida abaixo."
+          "O Protetor de Silicone da Toda Up é o adesivo para roupa, não o de amamentação. O tamanho vai pelo número do sutiã: 8 cm até o 46, 10 cm até o 50, 12 cm até o 54; 46 e 50 aparecem em duas faixas. A Toda Up diz que dá para reutilizar até 30 vezes, com a lavagem abaixo."
         ]
       },
       {
@@ -130312,12 +130305,12 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O guia é da Toda Up e pode mudar. Os números 46 e 50 aparecem em duas faixas; na dúvida entre dois tamanhos, confira o seu número exato no guia."
+          "O guia é da Toda Up e pode mudar. Como os números 46 e 50 aparecem em duas faixas, consulte a marca sobre qual tamanho escolher para você antes de comprar."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-tamanhos-2710.webp",
-          "alt": "Quadro com o tamanho do protetor de silicone da Toda Up pelo número do sutiã: 34 a 46 pede P de 8 cm, 46 a 50 pede M de 10 cm e 50 a 54 pede G de 12 cm",
-          "caption": "O tamanho pelo número do sutiã, no guia da Toda Up. Quadro nosso.",
+          "alt": "Quadro da Toda Up: sutiã 34 a 46 corresponde a P de 8 cm, 46 a 50 a M de 10 cm e 50 a 54 a G de 12 cm; 46 e 50 aparecem em duas faixas.",
+          "caption": "Faixas do guia da Toda Up: 46 e 50 aparecem em dois tamanhos. Na dúvida, consulte a marca. Quadro nosso.",
           "objectFit": "contain",
           "aspectRatio": 2.5052
         }
@@ -130357,7 +130350,7 @@ export const reviewsData: unknown[] = [
         "heading": "Onde comprar e preço",
         "paragraphs": [
           "O protetor se compra no site oficial da Toda Up, a marca nova da mesma empresa da Fita Up, como explica [Toda Up é confiável?](/reviews/toda-up-e-confiavel). O preço está na seção \"O que é o protetor de silicone\" e pode mudar. Na mesma leitura, a página oferecia o kit \"Leve 3\" por R$ 139,80 (de R$ 299,70) e, em \"Leve junto\", sugeria o Case Protetor de Silicone, a R$ 49,90 (de R$ 79,90).",
-          "O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de carrinho, sem finalizar a compra; confira no carrinho. O botão desta página abre o site da Toda Up."
+          "O [cupom Toda Up](/cupons/toda-up) somou com os kits Leve 2 e Leve 3 no teste de carrinho, sem finalizar a compra. O protetor avulso não foi testado nesse carrinho; confira o desconto antes de pagar. O botão desta página abre o site da Toda Up."
         ]
       },
       {
@@ -130367,7 +130360,7 @@ export const reviewsData: unknown[] = [
           "Qual tamanho do protetor pedir? Pelo FAQ da Toda Up, sutiã 34 a 46 pede o de 8 cm (P), 46 a 50 o de 10 cm (M) e 50 a 54 o de 12 cm (G).",
           "Quantas vezes dá para usar o protetor? A Toda Up diz até 30 vezes, com a lavagem à mão que a página descreve.",
           "Como lavar o protetor de silicone? À mão, logo depois do uso, com água fria ou morna e sabão neutro; secar à sombra com o adesivo para cima e guardar na película original.",
-          "O cupom vale no protetor? O cupom da Toda Up somou com os kits Leve 2 e Leve 3 no teste no carrinho; confira no carrinho.",
+          "O cupom vale no protetor? No teste de carrinho, o cupom somou com os kits Leve 2 e Leve 3, sem concluir a compra. O protetor avulso não foi testado; confira o desconto no carrinho.",
           "Como colocar o protetor? A página do protetor não traz passo a passo. No passo a passo da Fita Up, a Toda Up põe o protetor na pele antes da fita."
         ]
       }
@@ -131048,7 +131041,7 @@ export const reviewsData: unknown[] = [
     "draft": false,
     "isNew": true,
     "description": "Insider no Mercado Livre ou no site: 17 produtos comparados em 27/10/2026, com o cupom EMCASACOMCECILIA do site e o preço da loja oficial no Mercado Livre, peça a peça.",
-    "metaDescription": "Insider no Mercado Livre ou no site: com o cupom EMCASACOMCECILIA e 15% OFF, o site ganha em 13 de 17 produtos. Veja onde cada um ganha.",
+    "metaDescription": "O site da Insider com EMCASACOMCECILIA, de 15% OFF, ficou abaixo do Mercado Livre em 13 de 17 produtos, antes do frete. Compare cada peça.",
     "image": "/images/reviews/insider/insider-mercado-livre-ou-site-capa.webp",
     "imageAlt": "Homem com a Tech T-Shirt preta da Insider, com o título Mercado Livre ou site",
     "imageFit": "contain",
@@ -131079,7 +131072,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom EMCASACOMCECILIA, o site ganha em 13 de 17 peças. No Mercado Livre o cupom não vale, e a Daily sai mais barata por lá. O que muda a conta são a Daily e a regra de frete grátis do site, veja abaixo."
+          "Antes do frete, o site com EMCASACOMCECILIA, de 15% OFF, ficou mais barato em 13 de 17 produtos. No Mercado Livre o código não vale, mas as três opções Daily custavam menos. Cor, tamanho e frete podem mudar a escolha: compare a mesma variante e o total entregue."
         ]
       },
       {
@@ -131181,7 +131174,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/insider/insider-mercado-livre-ou-site-masculino-2810.webp",
           "alt": "Quadro com o preço de 13 peças masculinas e unissex da Insider no site e no Mercado Livre, e onde cada uma sai mais barata com o cupom",
-          "caption": "Quadro nosso com os preços lidos; a última coluna considera o EMCASACOMCECILIA no site.",
+          "caption": "Comparação sem frete; a última coluna considera EMCASACOMCECILIA no site.",
           "objectFit": "contain",
           "aspectRatio": 1.2725
         },
@@ -131243,7 +131236,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/insider/insider-mercado-livre-ou-site-feminino-2810.webp",
           "alt": "Quadro com o preço de 4 peças femininas da Insider no site e no Mercado Livre, e onde cada uma sai mais barata com o cupom",
-          "caption": "Quadro nosso com os preços lidos; a última coluna considera o EMCASACOMCECILIA no site.",
+          "caption": "Comparação sem frete; a última coluna considera EMCASACOMCECILIA no site.",
           "objectFit": "contain",
           "aspectRatio": 2.3904
         }
@@ -131277,7 +131270,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Daily sai mais barata no Mercado Livre porque no site ela não aceita o cupom. A página do produto mostra \"desconto máximo aplicado\", e o teste no site confirmou isso.",
           "A Camiseta Tech Daily masculina sai por R$ 99 no site e por R$ 69 a R$ 79 no Mercado Livre. A Daily feminina sai por R$ 99 no site e por R$ 56,05 a R$ 79 no Mercado Livre. O Kit 3 Daily feminina sai por R$ 290,76 no site e por R$ 179,69 no Mercado Livre.",
-          "A Light só aparece no Mercado Livre: não achamos no site nenhum produto com esse nome, então ela fica fora da tabela."
+          "A Light aparece no Mercado Livre e não tem produto com o mesmo nome no site; por isso ficou fora da tabela."
         ],
         "image": {
           "src": "/images/reviews/insider/insider-daily-t-shirt-feminina-oficial.webp",
@@ -131290,7 +131283,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e trocas no site",
         "paragraphs": [
-          "O site dá frete grátis em compras acima de R$ 399, contadas depois do desconto. Uma peça sozinha paga frete, então a regra pesa mais quando o pedido é pequeno.",
+          "O site informa frete grátis acima de R$ 399, depois do desconto. Nenhum dos preços individuais desta seleção com cupom alcançava esse limite. Simule o frete para o seu CEP e compare o total entregue nos dois canais.",
           "As trocas seguem estes prazos, sem custo: arrependimento em 7 dias úteis, troca por insatisfação em 21 dias corridos e troca por defeito em 180 dias corridos. Cueca, calcinha e undershirt só são trocadas por defeito. As regras completas estão em [se a Insider Store é confiável](/reviews/insider-store-e-confiavel)."
         ]
       },
@@ -131304,12 +131297,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher",
         "bullets": [
-          "**Daily e Light:** Mercado Livre. A Daily sai mais barata lá, e a Light só existe lá.",
+          "**Daily e Light:** as três opções Daily custavam menos no Mercado Livre. A Light foi localizada lá, mas não teve um produto com o mesmo nome confirmado no site.",
           "**Cuecas, kits de cueca e undershirt:** site com o cupom. Para escolher entre a Comfort e a Performance, veja [a comparação de cuecas Insider](/reviews/cueca-insider-comfort-ou-performance).",
           "**Tech, Core, Heavy, Perfect Top, Polo e Sportee:** site com o cupom.",
           "**Sutiã Comfy:** site, mesmo sem cupom (R$ 99 contra R$ 132,05 no Mercado Livre).",
-          "**Meia Spectrum Mid:** empate. Compare os dois preços no dia da compra.",
-          "**Frete grátis no site:** monte um carrinho acima de R$ 399 depois do desconto."
+          "**Meia Spectrum Mid:** quase empatada, com R$ 29,75 no site após o cupom e R$ 29,45 no Mercado Livre. A diferença era de R$ 0,30 antes do frete.",
+          "**Frete:** compare o total entregue nos dois canais. No site, a regra é frete grátis acima de R$ 399 depois do desconto; não acrescente uma peça de que não precisa só para alcançar o limite."
         ],
         "postParagraphs": [
           "As condições do mês estão na página do [cupom Insider](/cupons/insider)."
@@ -131326,15 +131319,15 @@ export const reviewsData: unknown[] = [
             "sponsored": true
           }
         ],
-        "emphasis": "Pelos números da tabela, para a maioria das peças a escolha é o site com o cupom, porque ele fica mais barato em 13 das 17 peças."
+        "emphasis": "Nesta seleção, o site com EMCASACOMCECILIA teve o menor preço em 13 das 17 linhas. A escolha final depende do preço da mesma cor e tamanho e do frete para o seu CEP."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O cupom EMCASACOMCECILIA vale no Mercado Livre? Não. Ele só vale no site da Insider; no Mercado Livre vale o preço do anúncio.",
-          "A Insider é mais barata no Mercado Livre ou no site? Depende do produto. Com o cupom, o site ganhou em 13 dos 17 produtos; as três Daily ficam mais baratas no Mercado Livre.",
+          "A Insider é mais barata no Mercado Livre ou no site? Antes do frete, o site com EMCASACOMCECILIA ficou mais barato em 13 de 17 linhas. As três Daily e a Meia Spectrum Mid custavam menos no Mercado Livre; confira a mesma variante e o total entregue.",
           "A Daily aceita o cupom no site? Não. A página mostra \"desconto máximo aplicado\", e o teste no site confirmou isso.",
-          "O site da Insider tem frete grátis? Sim, em compras acima de R$ 399, contadas depois do desconto. Uma peça sozinha paga frete.",
+          "O site da Insider tem frete grátis? Sim, acima de R$ 399 depois do desconto, segundo o site. Uma peça desta seleção não alcançava esse limite sozinha; simule o frete para o seu CEP.",
           "A loja do Mercado Livre é oficial? O botão deste texto leva à loja oficial da Insider no Mercado Livre. Confira o nome do vendedor no anúncio antes de pagar."
         ]
       }
@@ -131345,9 +131338,9 @@ export const reviewsData: unknown[] = [
         "Quem leva o Sutiã Comfy: o site, mesmo sem cupom."
       ],
       "skipIf": [
-        "Quem leva a Daily ou a Light: o Mercado Livre, porque a Daily não aceita o cupom no site e a Light só existe lá.",
-        "Quem leva a Meia Spectrum Mid: os preços empatam, compare os dois no dia da compra.",
-        "Quem leva uma peça só: ela paga frete no site, que só dá frete grátis em compras maiores."
+        "Quem procura Daily: as três opções comparadas custavam menos no Mercado Livre. Para Light, não houve par com o mesmo nome confirmado no site.",
+        "Quem leva a Meia Spectrum Mid: a vantagem do Mercado Livre era de centavos antes do frete; compare o total no dia da compra.",
+        "Se o pedido, já com o desconto, não chega ao frete grátis do site, compare o total com frete nos dois canais antes de decidir."
       ]
     }
   },
@@ -143004,7 +142997,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey, o pouch de 1,8 kg da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA fica abaixo do pouch da Integralmédica se o cupom der os 10% cheios; sem o cupom, a Integralmédica vence."
+          "Na creatina, a Integralmédica sai mais barata nos tamanhos comparados. No whey de 1,8 kg, o pouch da Integralmédica tem o menor preço por proteína. No par de 900 g, o refil da Probiótica com o PRO10EMCASACOMCECILIA no teto de 10% fica abaixo do pouch da Integralmédica; sem ele, a Integralmédica vence."
         ]
       },
       {
@@ -143079,7 +143072,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o cupom PRO10EMCASACOMCECILIA, que dá até 10% e pode ser menor em alguns produtos, a Probiótica de 300 g sai por R$ 17,97 por 100 g no teto do desconto, e a de 100 g, por R$ 30,50. Mesmo assim, as duas ficam acima da Integralmédica de 300 g, a R$ 16,67, e do pouch de 1 kg, a R$ 12,50. O cupom é da Probiótica; este texto não traz cupom da Integralmédica.",
+          "No teto de 10% do PRO10EMCASACOMCECILIA, a Probiótica de 300 g ficaria em R$ 17,97 por 100 g, e a de 100 g, em R$ 30,50. Nos preços da tabela, as duas seguem acima das opções da Integralmédica indicadas. O código vale só na Probiótica.",
           "Por dose de 5 g, nas linhas com a tabela nutricional lida, a Probiótica de 300 g fica em R$ 1,00 no cartão (60 porções) e em R$ 0,90 com o cupom no teto; o pouch de 1 kg da Integralmédica fica em R$ 0,63."
         ]
       },
@@ -143144,7 +143137,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Com o PRO10EMCASACOMCECILIA no teto de 10%, o pote da Probiótica sai por R$ 37,87 por 100 g de proteína, e o refil e o kit, por R$ 35,35. No tamanho de 900 g, o refil com o cupom fica abaixo do pouch de 900 g da Integralmédica, a R$ 36,03. No tamanho de 1,8 kg, o pouch da Integralmédica segue o mais barato da tabela, a R$ 32,06, com ou sem o cupom da Probiótica. Este texto não traz cupom da Integralmédica.",
+          "Simulação no teto de 10%, sem frete: o pote da Probiótica ficaria em R$ 37,87 por 100 g de proteína, e o refil e o kit, em R$ 35,35. No par de 900 g, o refil fica abaixo do pouch da Integralmédica, de R$ 36,03. Em 1,8 kg, a Integralmédica segue abaixo, a R$ 32,06. O desconto pode ser menor conforme o item; confirme o valor no carrinho.",
           "Por porção de 30 g, no cartão, o pote da Probiótica fica em R$ 8,42 e o refil em R$ 7,86; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg). A Integralmédica também vende o pote de 900 g, a R$ 240,00; a tabela usa o pouch, que tem o rótulo lido."
         ]
       },
@@ -143179,7 +143172,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Pelos números da tabela, para o perfil menor preço por grama a escolha é a Integralmédica, porque sai mais barata nas duas contas, no whey de 1,8 kg e no pouch de creatina de 1 kg; no whey de 900 g com o cupom no teto, o refil da Probiótica passa à frente.",
+        "emphasis": "Compare primeiro a quantidade que você precisa. A Integralmédica tem o menor custo por peso nas opções maiores da tabela; no whey de 900 g, o refil da Probiótica pode compensar com o cupom no teto. Confira no carrinho o desconto que de fato aparece.",
         "paragraphs": [
           "**Creatina: a Integralmédica, pelo preço.** O pouch de 1 kg sai por R$ 12,50 por 100 g no cartão, e a de 300 g, por R$ 16,67. A Probiótica de 300 g fica em R$ 19,97 no cartão e em R$ 17,97 com o PRO10EMCASACOMCECILIA no teto: acima da Integralmédica nos dois tamanhos.",
           "**Whey: depende do tamanho e do cupom.**"
@@ -143190,7 +143183,7 @@ export const reviewsData: unknown[] = [
           "O pote de 900 g da Probiótica é o maior valor da tabela: R$ 42,08 por 100 g de proteína no cartão, ou R$ 37,87 com o cupom."
         ],
         "postParagraphs": [
-          "Quem compra pelo preço por grama vai de Integralmédica na creatina e no whey de 1,8 kg. Quem compra na Probiótica paga menos com o refil e o cupom nos 10% cheios, abaixo do pouch de 900 g da Integralmédica; se o desconto no produto for menor que 10%, a Integralmédica volta a ganhar. Preço e estoque mudam: confira nos dois sites antes de comprar."
+          "Quem compra pelo preço por grama vai de Integralmédica na creatina e no whey de 1,8 kg. Na Probiótica, o refil de 900 g com o cupom no teto fica abaixo do pouch de 900 g da Integralmédica; se o desconto no item for menor que 10%, a Integralmédica volta a ganhar. Confira preço, desconto aplicado e frete antes de comprar."
         ]
       },
       {
@@ -143217,8 +143210,8 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Podemos receber comissão pelas compras feitas com o cupom PRO10EMCASACOMCECILIA. A Integralmédica não é parceira.",
     "decision": {
       "takeIf": [
-        "Leve a Integralmédica se quer o menor preço por 100 g de creatina ou de proteína.",
-        "Leve o refil da Probiótica com o cupom se compra whey de 900 g."
+        "Leve a Integralmédica se quer o menor custo por 100 g de creatina ou de proteína nos tamanhos da tabela.",
+        "Leve o refil da Probiótica se compra whey de 900 g e o cupom, no carrinho, o deixa abaixo do pouch da Integralmédica."
       ],
       "skipIf": [
         "Passe o pote de 900 g da Probiótica se o preço por grama pesa mais: é o maior valor da tabela.",
@@ -143274,7 +143267,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote de 300 g é a creatina da Probiótica que mais compensa pela conta por grama e por dose. O de 100 g custa 70% a mais por grama; a Creapure, mais que o triplo. O que muda a escolha está em \"Qual creatina da Probiótica escolher\"."
+          "O pote de 300 g tem o menor custo por grama entre as versões comparadas. O de 100 g é a compra menor e custa mais por grama; a Creapure tem o selo de origem; a monodose entrega a porção em sachê. Compare formato e custo antes de escolher."
         ]
       },
       {
@@ -143453,7 +143446,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Quem tem objetivo de saúde, usa medicamento ou tem restrição alimentar fala com um nutricionista ou médico antes de escolher. Para comparar a creatina da Probiótica com a de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher) e o [guia da creatina Black Skull](/reviews/creatina-black-skull-qual-escolher), que usa a mesma conta por grama."
         ],
-        "emphasis": "Pelos números da tabela, para o menor preço por dose a escolha é o pote de 300 g, porque sai a R$ 1,00 por dose, contra R$ 1,69 do pote de 100 g."
+        "emphasis": "O pote de 300 g tem o menor custo por grama: cerca de R$ 1 por porção de 5 g, contra R$ 1,69 no de 100 g."
       },
       {
         "heading": "Perguntas frequentes",
@@ -143461,7 +143454,7 @@ export const reviewsData: unknown[] = [
           "Creatina Probiótica é boa? Pelo rótulo, os potes de 300 g e de 100 g, a Creapure e os sachês, todos com porção de 5 g, trazem creatina monohidratada com 5.000 mg por porção; a Pure Creatina Monster tem porção de 3 g, com 3.000 mg. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço. Quem fabrica e como a loja responde está em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
           "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela (3.000 mg em 3 g na Pure Creatina Monster). A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
           "Creatina Probiótica é Creapure? Só as versões com o selo no rótulo: a Creatina Creapure Monohidratada de 150 g e a Pure Creatina de 150 g da linha Monster, as duas a R$ 99,89. Os potes de 300 g e de 100 g e a monodose não trazem o selo.",
-          "Qual tamanho da creatina Probiótica compensa? O pote de 300 g: R$ 19,97 por 100 g, contra R$ 33,89 do pote de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure.",
+          "Qual tamanho custa menos por grama? O pote de 300 g, a R$ 19,97 por 100 g, contra R$ 33,89 do de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure. Confira os preços atuais antes de comprar.",
           "A creatina da Probiótica tem sabor? Não encontramos creatina com sabor no catálogo da Probiótica. As versões lidas são sem sabor; para potes com sabor de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
         ]
       }
@@ -143519,13 +143512,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote ganha: a Monodose, em sachês de 5 g, sai a mais do dobro do preço por dose da Creatina Pura de 300 g. O que muda a escolha está em \"Quando a monodose compensa\"."
+          "Pelo preço por dose, o pote de 300 g ganha: cada porção de 5 g sai por menos da metade do preço do sachê. A monodose só compensa se a dose já separada valer essa diferença de preço para você; o guia mostra quando."
         ]
       },
       {
         "heading": "Como a conta é feita",
         "paragraphs": [
-          "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. Por isso a comparação aqui é só de preço: por 100 g de produto e por dose, com os preços do dia no site da Probiótica, sem cupom.",
+          "O sachê e o pote têm o mesmo pó: creatina monohidratada da Probiótica, sem sabor. O que muda é a embalagem e o preço. A comparação usa os preços do site da Probiótica, sem cupom, por 100 g de produto e por porção do rótulo.",
           "A porção e o número de doses vêm da tabela nutricional na imagem de cada produto. Nos três produtos, a tabela diz porção de 5 g com 5.000 mg de creatina. Nenhum texto de benefício da loja entra neste guia."
         ],
         "images": [
@@ -143615,7 +143608,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto a monodose custa a mais",
         "paragraphs": [
           "As mesmas 30 doses do pote de 300 g custam R$ 29,95, metade do pote, contra R$ 69,89 da caixa de sachês. A diferença é de R$ 39,94 por caixa, ou R$ 1,33 por dose.",
-          "Dois potes de 100 g (40 doses) custam R$ 67,78, menos que a caixa de 30 sachês. Ou seja: pelo preço do dia, nenhum dos dois potes de creatina pura sai mais caro por grama que a monodose, nem o pequeno.",
+          "Dois potes de 100 g, com 40 porções ao todo, custam R$ 67,78, menos que a caixa de 30 sachês. Por grama, nenhum dos dois potes de creatina pura sai mais caro que a monodose, nem o pequeno.",
           "O que o sachê entrega a mais é a dose já separada. A loja descreve o produto como praticidade em doses individuais; o que dá para medir é o preço, e ele diz que a separação custa R$ 1,33 por dose."
         ],
         "images": [
@@ -143650,7 +143643,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Creatina monodose da Probiótica vale a pena? Pelo preço do dia, não pelo bolso: R$ 46,59 por 100 g e R$ 2,33 por dose, contra R$ 19,97 e R$ 1,00 no pote de 300 g. Vale só para quem quer a dose em sachê e aceita pagar R$ 1,33 a mais por dose.",
+          "Creatina monodose da Probiótica vale a pena? Pelo preço da tabela acima, o sachê sai a R$ 2,33 por porção de 5 g, contra cerca de R$ 1 no pote de 300 g. A diferença é de R$ 1,33 por porção; escolha o sachê se a conveniência justificar esse custo para você.",
           "A creatina monodose tem a mesma dose do pote? Pelo rótulo, sim: a tabela do sachê diz porção de 5 g com 5.000 mg de creatina, a mesma dos potes de 300 g e de 100 g.",
           "Quantos sachês vêm na creatina monodose da Probiótica? São 30 sachês de 5 g, 150 g no total, por R$ 69,89.",
           "Qual é o cupom da Probiótica para a creatina? O PRO10EMCASACOMCECILIA, de até 10%, com o percentual variando por produto. Soma com as promoções do site e vale em todas as formas de pagamento.",
@@ -143711,7 +143704,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O pote de 500 g é o mais barato por grama e por dose. O selo Creapure só existe no pote de 250 g, que custa mais de 3 vezes isso por grama. A conta de cada pote está em \"Qual pote compensa\"."
+          "Pelos preços da tabela, o pote de 500 g tem o menor custo por grama e por porção de 5 g. A Creapure de 250 g, a única com esse selo, custa 3,2 vezes o valor por grama do pote de 500 g. O que muda a escolha é o desembolso inicial, a quantidade que você vai usar e a preferência pelo selo."
         ]
       },
       {
@@ -143766,14 +143759,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A conta é simples: preço dividido pelos gramas do pote, vezes 100. Por 100 g, o pote de 500 g custa 12% menos que o de 300 g e quase metade do de 100 g. O de 100 g é o mais caro por grama entre os sem sabor: cada dose sai a R$ 1,69, contra R$ 0,88 no de 500 g. A Creapure de 250 g custa R$ 55,96 por 100 g, 3,2 vezes o pote de 500 g e 2,8 vezes o de 300 g.",
+          "A conta por 100 g é preço dividido pelos gramas do pote, vezes 100. O de 500 g fica cerca de 12% abaixo do de 300 g por grama, e o de 100 g é o mais caro entre os sem o selo Creapure. A Creapure de 250 g custa R$ 55,96 por 100 g, 3,2 vezes o de 500 g e 2,8 vezes o de 300 g.",
           "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto no site da Max, e o percentual varia por produto: o carrinho mostra quanto cada item recebeu. Ele soma com as promoções do site e vale em todas as formas de pagamento. As regras estão na [página do cupom Max Titanium](/cupons/max-titanium)."
         ],
         "images": [
           {
             "src": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creatina-500g.webp",
             "alt": "Pote de 500 g da Creatine da Max Titanium, suplemento alimentar de creatina em pó",
-            "caption": "O pote de 500 g, o mais barato por grama. Imagem: Max Titanium.",
+            "caption": "Pote de 500 g: menor preço por grama entre os quatro comparados. Imagem: Max Titanium.",
             "objectFit": "contain",
             "aspectRatio": 0.6721
           }
@@ -143790,7 +143783,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/max-titanium/creatina-max-titanium-qual-pote-creapure-250g.webp",
             "alt": "Pote de 250 g da Creatina Creapure da Max Titanium, com o selo Creapure na embalagem",
-            "caption": "A Creatina Creapure de 250 g, o único pote da Max com o selo. Imagem: Max Titanium.",
+            "caption": "Creatina Creapure 250 g: a única com o selo entre os quatro potes comparados. Imagem: Max Titanium.",
             "objectFit": "contain",
             "aspectRatio": 0.8815
           }
@@ -143835,20 +143828,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Menor preço por grama:** o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 17,51 por 100 g e R$ 0,88 por dose. Rende 100 porções, pouco mais de três meses com uma dose por dia. É a escolha para quem já sabe que vai tomar todo dia.",
           "**Primeiro pote ou pouco espaço:** o [pote de 100 g](https://www.maxtitanium.com.br/creatina-pote-100g/p), a R$ 33,89. Custa quase o dobro por grama do de 500 g, mas é o menor valor para começar e rende 20 porções.",
-          "**Meio-termo:** o [pote de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p), a R$ 59,90 e R$ 1,00 por dose. Dois meses de uso por 12% a mais por grama que o de 500 g.",
+          "**Meio-termo:** o [pote de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p) sai a R$ 59,90, ou R$ 1,00 por porção de 5 g. Por grama, fica cerca de 14% acima do de 500 g; o desembolso pelo pote é menor.",
           "**Quer o selo Creapure:** só a [Creatina Creapure de 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 139,89 e R$ 2,80 por dose. É o único pote da Max com o selo, e custa 3,2 vezes o de 500 g por grama, com a mesma dose de 5.000 mg na tabela."
         ],
         "postParagraphs": [
           "Em qualquer um dos quatro, o cupom MAX10EMCASACOMCECILIA dá até 10%, com o percentual variando por produto. Para ver a creatina da Max ao lado da de outras marcas, com a mesma conta por grama, há o [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e o [Max Titanium ou Growth](/reviews/max-titanium-ou-growth)."
         ],
-        "emphasis": "Pelos números da tabela, para o menor preço por dose a escolha é o pote de 500 g, porque sai a R$ 0,88 por dose, contra R$ 1,00 do de 300 g."
+        "emphasis": "O pote de 500 g tem o menor custo por porção de 5 g: R$ 0,88, contra R$ 1,00 no de 300 g."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A creatina da Max Titanium é boa? Pelo rótulo, os quatro potes são creatina monohidratada com 5.000 mg por porção de 5 g, e os sem sabor levam só o antiumectante dióxido de silício além da creatina. Ninguém do site usou o produto, e as fichas não comprovam efeito: o que dá para comparar é o rótulo e o preço por grama.",
+          "A creatina da Max Titanium é boa? Os quatro potes declaram 5.000 mg de creatina por porção de 5 g. Os de 100 g, 300 g e 500 g listam creatina monohidratada e dióxido de silício; a Creapure de 250 g lista só creatina monohidratada. O rótulo, sozinho, não mostra efeito nem qualidade de lote.",
           "A creatina da Max Titanium é Creapure? Só a Creatina Creapure de 250 g, que traz o selo na embalagem e na página e, segundo a ficha, é produzida na Alemanha pela Alzchem. Os potes de 100 g, 300 g e 500 g não declaram o selo nas páginas lidas.",
-          "A creatina da Max Titanium é pura? As fichas dizem creatina monohidratada; os potes sem sabor têm dióxido de silício como antiumectante, e a Creapure traz só creatina monohidratada na lista. \"Pura\" como garantia de qualidade não é algo que a ficha comprove, e este texto não afirma.",
+          "A creatina da Max Titanium é pura? Os potes de 100 g, 300 g e 500 g incluem dióxido de silício como antiumectante; a Creapure de 250 g lista só creatina monohidratada. Lista de ingredientes não é laudo de pureza.",
           "Qual pote de creatina da Max rende mais? O de 500 g: 100 porções de 5 g, a R$ 0,88 por dose. O de 300 g rende 60 porções, a Creapure de 250 g rende 50 e o de 100 g rende 20.",
           "A creatina de 300 g e a de 500 g da Max são iguais? Pela ficha, sim: os mesmos ingredientes, a mesma porção de 5 g com 5.000 mg de creatina e nenhum dos dois declara Creapure. Muda o número de porções (60 e 100) e o preço por grama, mais baixo no de 500 g."
         ]
@@ -143908,7 +143901,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Hórus ou Égide",
         "paragraphs": [
-          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g é o mais barato por dose, porque rende 50 doses de 6 g. Quem não quer cafeína tem o Night Train, e os números e o fechamento estão abaixo."
+          "Pela tabela do rótulo, o Hórus tem 150 mg de cafeína por dose e o Égide, 200 mg. O Égide de 300 g sai mais barato por dose, porque rende 50 doses de 6 g, contra cerca de 36 no Hórus. Quem não quer cafeína tem o Night Train."
         ]
       },
       {
@@ -143982,10 +143975,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hórus ou Égide: o que muda no rótulo",
         "paragraphs": [
-          "Cafeína: 150 mg no Hórus e 200 mg no Égide. A diferença é de 50 mg por dose, e o Égide chega a esse número numa dose menor.",
-          "Dose: 8,4 g no Hórus e 6 g no Égide. É essa diferença que muda o número de doses do pote de 300 g: cerca de 36 no Hórus e 50 no Égide.",
-          "Beta-alanina e arginina: iguais, 2.000 mg e 1.000 mg por dose nos dois. Taurina: 1.000 mg no Hórus e 1.200 mg no Égide. Tirosina: só o Égide tem, 263 mg por dose.",
-          "Carboidrato: 3,3 g no Hórus, com 1,8 g de açúcares adicionados, e 0,8 g no Égide, sem açúcares em quantidade significativa. Para quem olha o açúcar do rótulo, o Égide é a linha com menos."
+          "O Égide reúne mais cafeína em uma porção menor que a do Hórus. A diferença no tamanho da porção muda o rendimento: no pote de 300 g, são 50 porções no Égide e cerca de 36 no Hórus.",
+          "Beta-alanina e arginina têm as mesmas quantidades declaradas por porção; taurina e tirosina diferem, como mostra o quadro."
         ],
         "images": [
           {
@@ -144101,7 +144092,7 @@ export const reviewsData: unknown[] = [
           "Menos cafeína por dose: Hórus, com 150 mg. O Égide tem 200 mg.",
           "Menor preço por dose: Égide de 300 g, a R$ 2,20 (R$ 1,98 com o cupom no teto). O Hórus de 300 g sai a R$ 2,47 (R$ 2,22 com o cupom).",
           "Menor preço do pote: Hórus de 300 g, R$ 88,89, ou Hórus de 150 g, R$ 46,89, para começar com um pote pequeno.",
-          "Menos carboidrato e sem açúcar adicionado no rótulo: Égide, com 0,8 g de carboidrato por dose. O Hórus tem 3,3 g, com 1,8 g de açúcares adicionados.",
+          "Menos carboidrato por dose no rótulo: Égide, com 0,8 g, e açúcares em quantidade não significativa. O Hórus tem 3,3 g de carboidrato, com 1,8 g de açúcares adicionados.",
           "Sem cafeína: Night Train, a R$ 3,05 por dose.",
           "Cupom MAX10EMCASACOMCECILIA: até 10% na Max Titanium, com o percentual variando por produto. As condições estão na [página do cupom da Max Titanium](/cupons/max-titanium)."
         ],
@@ -144126,7 +144117,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Veja o whey, a creatina e o hipercalórico da Max Titanium e aplique o cupom MAX10EMCASACOMCECILIA no carrinho.",
+      "text": "Compare Hórus, Égide e Night Train na loja oficial da Max Titanium e aplique MAX10EMCASACOMCECILIA no carrinho. O desconto é de até 10% e pode variar por produto.",
       "label": "Ir para a Max Titanium",
       "url": "https://www.maxtitanium.com.br/",
       "sponsored": true
@@ -144163,7 +144154,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "No whey, a Max Titanium sai mais barata por 100 g de proteína, e na creatina a Integralmédica fica abaixo no cartão. Veja a comparação pelo rótulo e o veredito por perfil.",
-    "metaDescription": "Max Titanium ou Integralmédica, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: no whey, a Max sai mais barata por proteína; na creatina, não.",
+    "metaDescription": "MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max ou Integralmédica: no whey, a Max sai mais barata por proteína; na creatina, a Integralmédica, no cartão.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
     "updatedAt": "2026-11-07",
@@ -144177,14 +144168,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "No whey, a Max sai mais barata por 100 g de proteína, no 100% Whey Refil, contra o pouch de 900 g da Integralmédica. Na creatina, a Integralmédica fica abaixo no cartão em todos os tamanhos. O cupom da Max muda parte dessa conta, e o veredito por perfil está em Qual escolher."
+          "No whey, a Max sai mais barata por 100 g de proteína, no 100% Whey Refil, contra o pouch de 900 g da Integralmédica. Na creatina, a Integralmédica fica abaixo no cartão em todos os tamanhos. O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max, e o veredito por perfil está em Qual escolher."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
           "Este guia compara whey e creatina da Max Titanium, parceira do site, com os da Integralmédica, que não é parceira. A base é o que as duas lojas publicam: a tabela nutricional do rótulo, a lista de ingredientes e o preço do site em 28/10/2026, no cartão, sem frete e sem desconto de Pix. Entram os tamanhos que mais se parecem: whey de 900 g contra 900 g, com o pouch de 1,8 kg da Integralmédica e o Whey Pro de 1 kg da Max como linhas extras, e creatina de 300 g, 500 g e 1 kg. Os isolados e as Creapure ficam numa frase cada.",
-          "As contas são duas. No whey, o preço dividido pela proteína total da embalagem, que é a proteína de cada dose vezes o número de porções do rótulo. Na creatina, o preço dividido pelos gramas do pote. Dose, porções e proteína por dose só entram quando a tabela do rótulo foi lida; sem a tabela, o produto entra só pelo preço por 100 g de produto.",
+          "No whey, calculamos a proteína total da embalagem como peso líquido ÷ tamanho da porção × proteína por porção, e dividimos o preço por esse total. No pouch de 1,8 kg, isso dá 60 porções de 30 g. Na creatina, dividimos o preço pelo peso líquido e multiplicamos por 100.",
           "Sabor, dissolução e digestão ficam de fora desta comparação. Quem tem alguma condição de saúde ou dúvida sobre usar suplemento deve falar antes com o médico ou o nutricionista.",
           "A série compara a Max com uma marca por vez: [Max Titanium ou Growth](/reviews/max-titanium-ou-growth), [Max Titanium ou Dux](/reviews/max-titanium-ou-dux) e [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica) seguem o mesmo método. A Integralmédica já apareceu em [Black Skull ou Integralmédica](/reviews/black-skull-ou-integralmedica)."
         ]
@@ -144247,7 +144238,8 @@ export const reviewsData: unknown[] = [
               "R$ 404,00",
               "R$ 32,06"
             ]
-          ]
+          ],
+          "caption": "Baunilha, preços no cartão, sem frete nem cupom."
         },
         "postParagraphs": [
           "Com o MAX10EMCASACOMCECILIA no teto de 10%, o Refil sai por R$ 28,06 por 100 g de proteína, o Pote por R$ 30,06 e o Whey Pro por R$ 30,29. O cupom é da Max e o desconto varia por produto; este texto não traz cupom da Integralmédica. Por dose, no cartão, o Refil fica em R$ 6,55, o Pote em R$ 7,01 e o Whey Pro em R$ 5,05, porque a dose dele tem menos proteína; os pouches da Integralmédica ficam em R$ 7,57 (900 g) e R$ 6,73 (1,8 kg).",
@@ -144323,10 +144315,11 @@ export const reviewsData: unknown[] = [
               "R$ 125,00 (de R$ 156,00)",
               "R$ 12,50"
             ]
-          ]
+          ],
+          "caption": "Preços no cartão, sem frete nem cupom; comparação por 100 g de produto."
         },
         "postParagraphs": [
-          "No cartão, a Integralmédica fica abaixo da Max em todos os tamanhos, e o pouch de 1 kg é o mais barato da tabela por grama. Com o MAX10EMCASACOMCECILIA no teto de 10%, o pote de 500 g da Max cai para R$ 15,76 por 100 g, abaixo do Hardcore de 500 g, e o de 300 g, para R$ 17,97, ainda acima do pote de 300 g da Integralmédica. Nenhum cupom da Max alcança os R$ 12,50 do pouch de 1 kg. Por dose de 5 g, no cartão, a Max fica em R$ 1,00 (300 g) e R$ 0,88 (500 g), e o pouch de 1 kg da Integralmédica em R$ 0,63.",
+          "A Integralmédica custava menos nos tamanhos de 300 g e 500 g comparados sem cupom; o pouch de 1 kg tinha o menor custo por grama da tabela. No teto simulado de 10% do MAX10EMCASACOMCECILIA, a Max de 500 g ficava em R$ 15,76 por 100 g, abaixo do Hardcore de 500 g; a Max de 300 g, em R$ 17,97, continuava acima da Integralmédica de 300 g. Mesmo no teto, nenhum desses dois potes Max alcançava os R$ 12,50 por 100 g do pouch de 1 kg. Por dose declarada de 5 g, eram R$ 1,00 na Max de 300 g, R$ 0,88 na Max de 500 g e R$ 0,63 no pouch de 1 kg da Integralmédica.",
           "Nas Creapure, a [Creatina Creapure de 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custava R$ 139,89, R$ 55,96 por 100 g, com dose de 5 g e 50 porções; a ficha diz que a creatina é produzida na Alemanha pela Alzchem. A Creatina Creapure de 300 g da Integralmédica custava R$ 184,00, R$ 61,33 por 100 g. As duas marcas declaram o selo, e não fizemos checagem independente dele."
         ]
       },
@@ -144339,13 +144332,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom e onde comprar",
         "paragraphs": [
-          "Cupom: MAX10EMCASACOMCECILIA, o cupom da Max Titanium. Vale até 10%, e o percentual varia por produto, por isso as contas com cupom deste texto usam 10% como teto. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/max-titanium). A loja oficial é a [Max Titanium](https://www.maxtitanium.com.br/), e o código pode gerar comissão para o site, sem custo extra para você."
+          "Cupom: MAX10EMCASACOMCECILIA, o cupom da Max Titanium. Vale até 10%, e o percentual varia por produto; as contas com cupom deste texto usam 10% como teto. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/max-titanium). A loja oficial é a [Max Titanium](https://www.maxtitanium.com.br/), e o código pode gerar comissão para o site, sem custo extra para você."
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "**Whey: a Max.** O 100% Whey Refil de 900 g sai por R$ 31,17 por 100 g de proteína no cartão, ou R$ 28,06 com o cupom no teto. O pouch de 900 g da Integralmédica fica em R$ 36,03, e o de 1,8 kg, em R$ 32,06, acima do Refil nas duas contas. O Whey Pro de 1 kg é o pote de menor preço, mas rende menos proteína por dose.",
+          "**Whey: a Max.** Na baunilha, o 100% Whey Refil de 900 g sai por R$ 31,17 por 100 g de proteína no cartão, ou R$ 28,06 no teto simulado do cupom. Os pouches da Integralmédica custam R$ 36,03 no de 900 g e R$ 32,06 no de 1,8 kg, acima do Refil nas duas contas. O Whey Pro de 1 kg é o pote de menor preço, mas rende menos proteína por dose.",
           "**Creatina: depende do cupom e do tamanho.**"
         ],
         "bullets": [
@@ -144356,13 +144349,13 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Se o preço mudar, a conta muda; refaça as contas com o preço do dia."
         ],
-        "emphasis": "Pelos números da tabela, para whey concentrado a escolha é o 100% Whey Refil da Max, porque sai a R$ 31,17 por 100 g de proteína. Na creatina, para o menor preço no cartão a escolha é o pouch de 1 kg da Integralmédica, porque sai a R$ 12,50 por 100 g."
+        "emphasis": "Pelos números desta tabela, para whey concentrado a escolha é o 100% Whey Refil da Max, pelo custo de proteína. Na creatina, para o menor preço no cartão a escolha é o pouch de 1 kg da Integralmédica; a Max de 500 g só passa o Hardcore de 500 g com o cupom no teto."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o 100% Whey Refil da Max: R$ 31,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. Com o cupom no teto, o Refil cai para R$ 28,06. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
-          "Creatina Max Titanium ou Integralmédica, qual é melhor? Pelo preço por 100 g de produto no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 e o Hardcore de 500 g por R$ 16,60, contra R$ 17,51 do pote de 500 g da Max. Com o cupom da Max no teto, o pote de 500 g cai para R$ 15,76, abaixo do Hardcore e acima do pouch de 1 kg. Os dois rótulos lidos declaram creatina monohidratada e dose de 5 g.",
+          "Max Titanium ou Integralmédica, qual whey compensa? Pelo preço por 100 g de proteína, o 100% Whey Refil da Max: R$ 31,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. No teto simulado de 10% do cupom, o Refil fica em R$ 28,06. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
+          "Creatina Max Titanium ou Integralmédica, qual é melhor? Pelo preço por 100 g de produto no cartão, a Integralmédica: o pouch de 1 kg sai por R$ 12,50 e o Hardcore de 500 g por R$ 16,60, contra R$ 17,51 do pote de 500 g da Max. Com o cupom da Max no teto, o pote de 500 g cai para R$ 15,76, abaixo do Hardcore. Isso compara custo de produto, não eficácia.",
           "O whey da Integralmédica tem sucralose? Sim. A lista de ingredientes do pouch de 900 g, sabor baunilha, traz edulcorante sucralose. Os wheys concentrados da Max desta comparação também listam sucralose.",
           "Quantas gramas de proteína tem o whey da Max e o da Integralmédica? O 100% Whey da Max, no Refil e no Pote de 900 g, traz 21 g em cada porção de 30 g, e o Whey Pro de 1 kg, 15 g em 40 g. O pouch da Integralmédica, no sabor baunilha, traz 21 g em 30 g; no chocolate e no cookies and cream, 20 g.",
           "A Integralmédica tem cupom? Não neste site. A Integralmédica não é parceira, e o MAX10EMCASACOMCECILIA vale só na Max Titanium."
@@ -166872,7 +166865,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt é o ponto de partida, de 92% modal e 8% elastano. Para mais corpo, a Heavy é 20% mais encorpada que a Tech, e a Core, de viscose, é a mais leve. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Para o dia a dia, a Tech T-Shirt é a básica de 92% modal e 8% elastano. Segundo a Insider, a Heavy é 20% mais encorpada que a Tech; a Core tem viscose, modelagem regular e textura leve. O EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online, exceto em lançamentos."
         ]
       },
       {
@@ -166885,7 +166878,7 @@ export const reviewsData: unknown[] = [
             "Modelo",
             "Tecido, segundo a loja",
             "Preço (de)",
-            "Estoque e tamanhos"
+            "Variantes disponíveis/total e tamanhos"
           ],
           "rows": [
             [
@@ -166963,9 +166956,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Estoque é o número de variantes disponíveis sobre o total. Ele muda com as vendas, então confira o tamanho antes de comprar.",
+          "Os números indicam quantas combinações de cor e tamanho estavam disponíveis no cadastro da loja, não quantas peças havia no depósito. Confira a disponibilidade atual do seu tamanho.",
           "A loja às vezes tem cadastros com sobra de PP e preço mais baixo. A tabela usa o cadastro principal de cada peça.",
-          "A Oversized aparece só na tabela, sem link: resta uma peça, em PP.",
+          "A Oversized aparece só na tabela, sem link: havia uma variante disponível, no tamanho PP.",
           "Se a dúvida é a marca em si, com o preço, onde comprar e a troca, veja [Insider vale a pena?](/reviews/insider-vale-a-pena). A Light é vendida no Mercado Livre e está sem estoque no site: veja [Insider no Mercado Livre ou no site](/reviews/insider-mercado-livre-ou-site)."
         ]
       },
@@ -166973,7 +166966,7 @@ export const reviewsData: unknown[] = [
         "heading": "Tech T-Shirt: a base do dia a dia",
         "paragraphs": [
           "A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) é a base do dia a dia: 92% modal e 8% elastano, por R$ 129, e a marca diz que desamassa no corpo e tem efeito antiodor.",
-          "A garantia de 2 anos contra desbotamento vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As outras linhas não trazem essa garantia.",
+          "A garantia de 2 anos contra desbotamento da Tech vale para peças compradas desde 06/09/2024, considerando uma lavagem por semana. As páginas das outras linhas não trazem essa garantia.",
           "Quem leva mais de uma pode olhar o kit: o de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
           "As versões femininas, com a Tech, a Gola V e a manga longa, estão em [Camiseta feminina Insider: qual escolher](/reviews/camiseta-feminina-insider-qual-escolher)."
         ],
@@ -167047,7 +167040,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Heavy e Heavy Slim: corpo e caimento",
         "paragraphs": [
-          "A [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) é 20% mais encorpada que a Tech: não marca o corpo e tem caimento mais liso. A gramatura fica entre a Tech e a Oversized. O preço vai de R$ 155 a R$ 199, conforme a cor e o tamanho.",
+          "Segundo a Insider, a [Heavy](https://creators.insiderstore.com.br/Gxr7Hwp) é 20% mais encorpada que a Tech, tem caimento mais liso e gramatura entre a Tech e a Oversized. É a opção a comparar se você prefere mais estrutura. Na tabela, o preço vai de R$ 155 a R$ 199, conforme cor e tamanho.",
           "A [Heavy Slim](https://creators.insiderstore.com.br/DVarEMW), também de 92% modal, tem gola fina, mangas um pouco mais curtas e tronco ajustado, diz a página. Sai por R$ 179 (de R$ 199), e a própria página indica a Heavy para quem quer um modelo mais solto."
         ],
         "images": [
@@ -167071,7 +167064,7 @@ export const reviewsData: unknown[] = [
           "items": [
             {
               "piece": "Heavy e Heavy Slim",
-              "howTo": "O tecido mais encorpado marca menos o corpo; a Slim, de gola fina e tronco ajustado, fica mais rente.",
+              "howTo": "A Heavy é a opção mais encorpada segundo a ficha; a Slim, de gola fina e tronco ajustado, fica mais rente.",
               "occasion": "Por baixo de blazer ou jaqueta, em cor neutra.",
               "pairsWith": [
                 {
@@ -167089,7 +167082,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Core e Daily: viscose, gramatura e encolhimento",
         "paragraphs": [
-          "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), por R$ 179 (de R$ 189), é a de maior gramatura, modelagem regular e textura leve. A página diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento da primeira lavagem.",
+          "Core e Daily são de 94% viscose e 6% elastano. A [Core](https://creators.insiderstore.com.br/c5rL74B), que a tabela registra por R$ 179 (de R$ 189), tem modelagem regular e textura leve, segundo a loja. Na página do produto, o comprimento já considerava 2 cm a mais para o encolhimento da primeira lavagem.",
           "A [Daily](https://creators.insiderstore.com.br/bRopqTz) custa R$ 99 (de R$ 139), o menor preço da tabela, e já tem o desconto máximo, por isso não aceita cupom. Ela pode encolher até 2 cm no comprimento; o limite de cada linha e como lavar estão em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar)."
         ],
         "images": [
@@ -167273,13 +167266,13 @@ export const reviewsData: unknown[] = [
         "heading": "Tamanho, garantia e troca",
         "paragraphs": [
           "Os tamanhos de cada linha estão na tabela acima. Para escolher, use a [tabela de medidas Insider](/reviews/tabela-de-medidas-insider).",
-          "Pela central de ajuda, a troca é gratuita. O arrependimento vale por 7 dias úteis. A troca por insatisfação vale por 21 dias corridos, sem uso, com etiqueta e sem lavagem. Para defeito, o prazo é de 180 dias, com fotos. O pedido sai pelo Portal de Trocas."
+          "Segundo a central de ajuda da Insider, a troca é gratuita, a desistência vale em 7 dias úteis e a troca por insatisfação em 21 dias corridos, sem uso, com etiqueta e sem lavagem. Para defeito, o prazo informado é de 180 dias, com fotos. Confira as condições atuais no Portal de Trocas."
         ]
       },
       {
         "heading": "Para escolher uma só, a Tech T-Shirt",
         "paragraphs": [
-          "A Tech é a única linha com garantia de 2 anos contra desbotamento; as outras não trazem essa garantia. Quem quer mais corpo olha a Heavy."
+          "A Tech traz garantia de 2 anos contra desbotamento nas condições informadas pela loja; as páginas das outras linhas não a trazem. Quem quer mais corpo pode comparar a Heavy."
         ],
         "emphasis": "Para escolher uma só, a escolha é a Tech T-Shirt, porque é o ponto de partida do dia a dia, com garantia de 2 anos contra desbotamento."
       },
@@ -167290,17 +167283,17 @@ export const reviewsData: unknown[] = [
           "A Core encolhe? Pode: a página diz que o tamanho já considera 2 cm a mais no comprimento, pelo encolhimento da primeira lavagem. O limite de cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "Qual a diferença entre Tech e Heavy? Pela descrição da loja, a Heavy é 20% mais encorpada que a Tech e tem caimento mais liso. As duas são de 92% modal e 8% elastano.",
           "Dá para usar camiseta com calça social? Dá, num visual de trabalho menos formal: a polo ou uma camiseta lisa de cor neutra.",
-          "Qual camiseta usar por baixo do blazer? Lisa, de cor neutra e gola careca. Entre as da Insider, a Heavy é mais encorpada que a Tech e marca menos o corpo.",
+          "Qual camiseta usar por baixo do blazer? Uma lisa, de cor neutra e gola careca. A Heavy é mais encorpada que a Tech segundo a Insider; compare a modelagem e as medidas para escolher o caimento.",
           "O cupom vale na Daily? Não. A página diz que a Daily já tem o desconto máximo.",
           "Kit de camiseta compensa? O kit de 5 Tech sai a R$ 108,88 por peça, e o cupom entra por cima. A conta está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
-          "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
+          "Dá para devolver se não servir? Sim, dentro dos prazos da loja: 7 dias úteis para desistência e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem. Consulte o Portal de Trocas para o seu pedido."
         ]
       }
     ],
     "decision": {
       "takeIf": [
         "Leve a Tech se quer a camiseta do dia a dia, sozinha ou por baixo de camisa aberta, com garantia de 2 anos contra desbotamento.",
-        "Leve a Heavy se não quer a camiseta marcando o corpo ou vai usá-la por baixo do blazer.",
+        "Compare a Heavy se prefere tecido mais encorpado ou uma camiseta para usar por baixo do blazer.",
         "Leve a Performance ou a Sportee se é para treino ao ar livre: as duas trazem proteção UV50+ na descrição."
       ],
       "skipIf": [
@@ -167485,7 +167478,7 @@ export const reviewsData: unknown[] = [
         "heading": "Comfort Slim: o minimalista, do PP ao GG",
         "paragraphs": [
           "O Slim é o minimalista: esconde sob a roupa ou aparece sob transparência. Vai do PP (34-36) ao GG (44-46).",
-          "PP e M estavam com o estoque mais curto, 3 de 5 variantes cada. Se a sua faixa for uma delas, confira antes de decidir."
+          "PP e M tinham menos combinações de cor disponíveis: 3 de 5 em cada um. Se a sua faixa for uma delas, confira antes de decidir."
         ],
         "images": [
           {
@@ -167619,7 +167612,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quer a maior faixa de tamanho, até o G3: [Comfort Up](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
           "Quer usar em tomara que caia ou com as alças combinadas, a partir do P: [Comfort Line](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-line&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
-          "Quer o modelo mais minimalista, do PP ao GG: [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), com menos peças em PP e M."
+          "Quer o modelo mais minimalista, do PP ao GG: [Comfort Slim](https://todaup.com/discount/MAUAD?redirect=/products/sutia-comfort-slim&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), com menos combinações de cor em PP e M."
         ],
         "styling": {
           "layout": "tags",
@@ -167687,7 +167680,7 @@ export const reviewsData: unknown[] = [
           "O Comfort Line serve em tomara que caia? Segundo a página, dá para usar assim ou combinar as alças. Antes de escolher, confira o busto na tabela.",
           "O cupom da Toda Up vale nos três modelos? Vale, porque o cupom é do site inteiro e dá 10% no carrinho. A campanha da loja pode entrar antes, então confira o total.",
           "De que é feito o tecido? Segundo o FAQ da loja, 76,6% é poliamida e 23,5% é elastano.",
-          "O Comfort Slim tem PP e M? Tem, mas com estoque mais curto na tabela: 3 de 5 variantes em cada um."
+          "O Comfort Slim tem PP e M? Tem, mas com menos combinações de cor disponíveis: 3 de 5 em cada um. Confira a variante no dia da compra."
         ]
       }
     ],
@@ -167734,13 +167727,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Kit de camiseta Tech ou Heavy compensa, e mais quanto maior o kit: o de 5 Tech sai bem mais barato por peça que a avulsa, e com o cupom EMCASACOMCECILIA o carrinho baixou ainda mais. Na cueca, só o kit de 2 Comfort economiza de verdade."
+          "Compensa para quem já quer cinco ou dez camisetas Tech: na tabela, o kit de 5 custa menos por peça que a avulsa, e o cupom EMCASACOMCECILIA entrou por cima do kit de 5 no nosso teste. No kit de 3, a economia é pequena."
         ]
       },
       {
         "heading": "Como ler a conta do kit",
         "paragraphs": [
-          "A conta é o preço do kit dividido pelo número de peças, comparado com a peça avulsa. O \"de\" que a loja mostra ao lado do kit usa o preço antigo das peças e não serve de base: o kit de 3 Tech aparece \"de R$ 507\", mas 3 Tech avulsas custam R$ 387.",
+          "Compare o preço do kit dividido pelo número de peças com as mesmas peças avulsas no mesmo dia. O preço riscado do kit não substitui essa conta: um kit de 3 Tech aparecia “de R$ 507”, mas três avulsas de R$ 129 somavam R$ 387.",
           "Os preços são os do cartão da loja em 30/10/2026, e o preço do dia pode ser outro: confira na loja. A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) avulsa custa R$ 129, de PP a XXGG. A loja também tem cadastros com um tamanho só, em geral PP, mais baratos, que ficam fora da conta.",
           "Com a Black Friday, os preços podem mudar. Antes de comprar, veja a [Black Friday Insider 2026](/reviews/black-friday-insider)."
         ],
@@ -167757,7 +167750,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisetas: a tabela",
         "paragraphs": [
-          "Na tabela, cada linha compara o kit com as avulsas: o de 5 e o de 10 Tech compensam, e o de 3, pouco."
+          "Preços no cartão, sem cupom e antes do frete. Cada linha compara o kit com a referência avulsa indicada; confira as mesmas cores e tamanhos no pedido."
         ],
         "comparisonTable": {
           "headers": [
@@ -167828,7 +167821,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A loja tem dois kits de 3 Tech com nomes parecidos. O de R$ 355,50 é o que entra na tabela. O outro, de R$ 456, custa R$ 69 a mais que as três avulsas."
+          "As duas versões de 3 Tech estão na tabela: a de R$ 355,50 ficava abaixo das três avulsas; a de R$ 456 custava R$ 69 a mais. Os nomes parecidos não significam o mesmo preço."
         ]
       },
       {
@@ -167908,7 +167901,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuecas e undershirt: a tabela",
         "paragraphs": [
-          "Peça avulsa de referência: [Cueca Comfort](https://creators.insiderstore.com.br/ptFyZqS) a R$ 79, [Cueca Performance](https://creators.insiderstore.com.br/nD3bAuj) de R$ 79 a R$ 95, conforme a variante, Cueca Slip a R$ 75 e undershirt Moderado de R$ 145 a R$ 159."
+          "Preços no cartão, sem cupom e antes do frete. Referências avulsas: [Comfort](https://creators.insiderstore.com.br/ptFyZqS) a R$ 79; [Performance](https://creators.insiderstore.com.br/nD3bAuj) de R$ 79 a R$ 95, conforme a variante; Slip a R$ 75; undershirt Moderado de R$ 145 a R$ 159. Compare o kit com a mesma variante que pretende levar."
         ],
         "comparisonTable": {
           "headers": [
@@ -168058,7 +168051,7 @@ export const reviewsData: unknown[] = [
           "Compensa pouco: Tech de 3, Cueca Comfort ou Performance de 3 e de 5, Slip de 5 e undershirt de 3.",
           "Não compensa: Daily de 3 (2%) e o kit de 3 Tech de R$ 456, que custa R$ 69 a mais que as avulsas."
         ],
-        "emphasis": "Pelos números da tabela, para camisetas lisas a escolha é o kit de 5 Tech, porque sai a R$ 108,88 por peça, contra R$ 129 da avulsa."
+        "emphasis": "Se você já quer cinco Tech, a tabela favorecia o kit de 5: R$ 108,88 por peça antes do cupom, contra R$ 129 da avulsa. Para outra quantidade, compare o total que pretende gastar, sem comprar peças extras só pela média menor."
       },
       {
         "heading": "Presente: outro texto",
@@ -168081,7 +168074,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Leve o kit de 5 ou de 10 Tech se quer várias camisetas lisas: é onde a economia por peça é maior.",
+        "Você já quer cinco ou dez camisetas Tech: compare esses kits com a mesma quantidade de avulsas. A economia da tabela é histórica e não substitui a conta do seu carrinho.",
         "Leve o kit de 2 Comfort se quer cueca: é a maior economia da tabela."
       ],
       "skipIf": [
@@ -168694,7 +168687,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida, em PP a XGG. A Gola V tem gola levemente alongada, e a Tech de manga longa é a opção para o frio. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Para o dia a dia, a Tech T-Shirt feminina é o ponto de partida, em PP a XGG. A Gola V muda o decote, e a Tech de manga longa é a opção para o frio. O cupom EMCASACOMCECILIA dá 15% OFF nos itens elegíveis da loja online; confira a aplicação em cada peça."
         ]
       },
       {
@@ -168707,7 +168700,7 @@ export const reviewsData: unknown[] = [
             "Modelo",
             "Tecido, segundo a loja",
             "Preço (de)",
-            "Estoque e tamanhos"
+            "Combinações disponíveis / total; tamanhos"
           ],
           "rows": [
             [
@@ -168718,7 +168711,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "[Tech T-Shirt Gola V feminina](https://creators.insiderstore.com.br/hwvgusR)",
-              "92% modal, 8% elastano",
+              "92% modal, 8% elastano; índigo: 62% modal, 30% viscose, 8% elastano",
               "R$ 129 (de R$ 169)",
               "26 de 50; PP a GG"
             ],
@@ -168761,7 +168754,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Estoque é o número de tamanhos disponíveis sobre o total. Ele muda com as vendas, então confira o tamanho antes de comprar.",
+          "Os números mostram as combinações de cor e tamanho disponíveis sobre o total da grade, não unidades em estoque. Confira a sua combinação antes de comprar.",
           "Os modelos sem alça de cada linha estão aqui. Regatas e tops de alça têm outro guia."
         ]
       },
@@ -168816,9 +168809,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Gola V: a mesma linha, com outra gola",
+        "heading": "Gola V: outro decote e composição diferente na índigo",
         "paragraphs": [
-          "A [Gola V](https://creators.insiderstore.com.br/hwvgusR) é a mesma Tech com o decote em V, no mesmo preço, de 92% modal e 8% elastano. Para o trabalho com gola fechada, fique na Tech redonda."
+          "A [Gola V](https://creators.insiderstore.com.br/hwvgusR) tem decote em V e aparecia pelo mesmo preço da Tech redonda. A loja declara 92% modal e 8% elastano nas cores, exceto índigo: nela são 62% modal, 30% viscose e 8% elastano. Para usar gola fechada no trabalho, a opção é a Tech redonda."
         ],
         "images": [
           {
@@ -169064,7 +169057,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% na loja online, sem valor mínimo, um por pedido. Vale em todas as formas de pagamento e soma com o desconto do Pix. Não vale na loja física e pode não entrar nos primeiros dias de um lançamento.",
           "A Insider lista como lançamento a Tech T-Shirt feminina, a NEXTECH, a The Perfect Top T-Shirt e as duas Skin Cropped. Nos primeiros dias de lançamento, o cupom pode não entrar nelas: confira no carrinho.",
-          "Sem essa tag, a Gola V, de R$ 129, sai por R$ 109,65 com o cupom, e a Manga Longa, de R$ 199, por R$ 169,15.",
+          "Fora dessa lista, a conta de 15% sobre o preço de lista deixa a Gola V, de R$ 129, em R$ 109,65, e a Manga Longa, de R$ 199, em R$ 169,15.",
           "Regras e código estão em [cupom Insider: EMCASACOMCECILIA](/cupons/insider)."
         ]
       },
@@ -169086,7 +169079,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Tech T-Shirt feminina desbota? A marca diz que não, e a garantia de 2 anos contra desbotamento vale com uma lavagem por semana.",
-          "Qual a diferença entre Tech e Gola V? A gola. A Gola V tem gola levemente alongada, e a loja diz que o tecido é o mesmo.",
+          "Qual a diferença entre Tech e Gola V? O decote é a diferença mais visível. A composição da Gola V varia na índigo; a Tech redonda é descrita como INTECH, sem percentuais informados.",
           "A Daily encolhe? A página diz que pode encolher até 2 cm no comprimento depois da primeira lavagem. O limite de cada linha está em [camiseta Insider encolhe?](/reviews/camiseta-insider-encolhe-como-lavar).",
           "O cupom vale na Daily feminina? Na Daily masculina, a página diz que o item já tem desconto máximo e não é cumulativo com cupom. Na feminina, confira no carrinho.",
           "Dá para devolver se não servir? Sim, dentro dos prazos: 7 dias úteis para desistir da compra e 21 dias corridos por insatisfação, sem uso, com etiqueta e sem lavagem."
@@ -169096,7 +169089,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a Tech feminina se quer a base do dia a dia, em PP a XGG, sozinha ou por baixo de camisa aberta e blazer.",
-        "Leve a Gola V se quer a mesma Tech com o decote em V, no mesmo preço.",
+        "Leve a Gola V se prefere decote em V; confira a composição da cor índigo, que difere das demais.",
         "Leve a Tech de manga longa se precisa de uma opção para o frio e a meia estação."
       ],
       "skipIf": [
@@ -172819,7 +172812,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que tem no Outlet feminino",
         "paragraphs": [
-          "O Outlet da Insider é a seção de últimas unidades da loja: peças e cores que saíram de linha, anunciadas como “até 50% OFF” e sem reposição. Quando um tamanho acaba, acabou, e a grade de cada peça só encolhe. É por isso que a coluna de cores e tamanhos pesa tanto quanto a de preço.",
+          "O Outlet da Insider é a seção de últimas unidades da loja: peças e cores que saíram de linha, anunciadas como “até 50% OFF” e sem reposição. A disponibilidade pode mudar; confirme a cor e o tamanho na ficha antes de comprar. É por isso que a coluna de cores e tamanhos pesa tanto quanto a de preço.",
           "A página feminina reúne 41 peças, 39 à venda. O desconto vai de 32% (Blusa Boxy Cropped) a 50% (Camiseta Boxy InLounge), e a maioria está em 40%. Os três sutiãs Nakedfeel entraram no Outlet com etiqueta de lançamento e preço cheio: neles, a única economia é o cupom. O cupom EMCASACOMCECILIA tira 15% por cima do preço do Outlet, e a conta já está feita na coluna “Com o cupom” de cada tabela. Preços de 31/10/2026, no cartão.",
           "As peças vêm separadas por tipo: sutiãs; calcinhas, body e kits; moda praia; camisetas e regatas Tech; blusas InLounge, Boxy e Perfect Body; vestidos e saia; calças, legging e shorts. Para as peças masculinas, veja [Outlet Insider masculino: o que vale a pena e quanto sai com o cupom](/reviews/outlet-insider-masculino-vale-a-pena). Para o kit de camisetas e cuecas, que tem conta própria, veja [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa)."
         ]
@@ -173657,16 +173650,16 @@ export const reviewsData: unknown[] = [
           "Vale mais para quem veste PP ou XGG: são os tamanhos que mais sobraram nas peças mais disputadas (Tech T-Shirt, Camiseta Boxy, Maiô, Top Wavy). Quem veste M ou G encontra grade cheia nos shorts Motion e Serotonin, na Tech Gola Alta Manga Longa, nas regatas, nos vestidos e na Saia Kyoto.",
           "Pelo preço, as entradas mais baratas são a Regata Intech (R$ 70,55 com o cupom), a Regata Comfy InLounge (R$ 68,85) e as calcinhas em kit, a partir de R$ 31,45 por peça. O maior desconto é o da Camiseta Boxy InLounge, 50%, se o PP servir. Os sutiãs Nakedfeel só compensam para quem já os queria: o preço é o cheio, e o cupom é a mesma economia de fora do Outlet."
         ],
-        "emphasis": "Se fosse para mim, eu levaria a Regata Comfy InLounge, porque é a blusa mais barata do Outlet e o preto vai do PP ao M."
+        "emphasis": "Se fosse para mim, eu olharia a Regata Comfy InLounge, a blusa mais barata do Outlet: o preto vai do PP ao M, e confira a grade atual antes de decidir."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O Outlet feminino da Insider vale a pena? Vale para quem acha a sua cor e o seu tamanho na grade: o desconto vai de 32% a 50%, e o cupom EMCASACOMCECILIA soma 15% por cima.",
           "O cupom EMCASACOMCECILIA funciona no Outlet? Sim: no teste no carrinho, deu 15% sobre o preço do Outlet, inclusive em peças com etiqueta de lançamento, como os sutiãs Nakedfeel. Vale um cupom por pedido.",
-          "Os sutiãs Nakedfeel têm desconto no Outlet? Não: os três estão no preço cheio, de R$ 189 a R$ 199, e só o cupom baixa, para R$ 160,65 e R$ 169,15.",
+          "Os sutiãs Nakedfeel têm desconto no Outlet? Não: os três estão no preço cheio, de R$ 189 a R$ 199, e só o cupom baixa, para R$ 160,65 e R$ 169,15. Confira o preço no carrinho.",
           "Dá para trocar uma peça do Outlet? Roupas trocam em 21 dias corridos, novas e com etiqueta; sutiãs, calcinhas e moda praia só trocam por defeito.",
-          "Alguma peça feminina do Outlet já esgotou? Sim: a Camiseta Oversized Comfy InLounge e o Perfect Body Decote U aparecem na página, mas sem tamanho à venda."
+          "Alguma peça feminina do Outlet já esgotou? Sim: a Camiseta Oversized Comfy InLounge e o Perfect Body Decote U apareciam sem tamanho à venda; confira a grade atual."
         ]
       }
     ],
@@ -173725,7 +173718,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O Outlet masculino da Insider vale a pena? As cinco peças com 40% ou mais de desconto, o preço com o cupom EMCASACOMCECILIA, o que sobrou de cor e tamanho e quando o kit compensa.",
+    "description": "Cinco peças masculinas do Outlet Insider com 40% ou mais de desconto, o preço de cada uma com o cupom EMCASACOMCECILIA e a conta de quando o kit de Tech T-Shirt compensa.",
     "metaDescription": "Outlet Insider masculino com o EMCASACOMCECILIA e 15% OFF: o preço de cada Tech T-Shirt, regata e short, o que sobrou na grade e a conta do kit.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
@@ -173747,7 +173740,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que tem no Outlet masculino",
         "paragraphs": [
           "O Outlet da Insider é a página em que a loja junta as peças em fim de linha: cores e modelos que saíram do catálogo, com “até 50% OFF” nas últimas unidades e sem reposição, diz a página. Quando uma cor acaba num tamanho, aquela combinação some da página e não volta.",
-          "No filtro masculino aparecem seis produtos, e um deles, a Camiseta Oversized Comfy InLounge, já está esgotado. Sobram cinco à venda, em dois grupos: três camisetas Tech T-Shirt (gola redonda, gola V e manga longa) e duas peças de treino, a Regata InTech e o Short Esportivo Endorphine. Todas estão com 40% ou 41% de desconto sobre o preço riscado, e o cupom EMCASACOMCECILIA tira mais 15% por cima.",
+          "No filtro masculino apareciam seis produtos, e um deles, a Camiseta Oversized Comfy InLounge, estava esgotado. Eram cinco à venda, em dois grupos: três camisetas Tech T-Shirt (gola redonda, gola V e manga longa) e duas peças de treino, a Regata InTech e o Short Esportivo Endorphine. Todas tinham 40% ou 41% de desconto sobre o preço riscado, e o cupom EMCASACOMCECILIA tirava mais 15% por cima.",
           "Os dois grupos vêm a seguir, cada um com o preço no Outlet, o preço com o cupom e as cores e os tamanhos que sobraram. Preços de 31/10/2026, no cartão."
         ],
         "images": [
@@ -173764,7 +173757,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Camisetas Tech T-Shirt: gola redonda, gola V e manga longa",
         "paragraphs": [
-          "A Tech T-Shirt é a camiseta principal da Insider, e aqui a escolha é de gola e manga: as três do Outlet são a mesma peça em gola redonda, gola V e manga longa. O tecido é 92% modal e 8% elastano (na cor Indigo, 62% modal, 30% viscose e 8% elastano), diz a página: não desbota, desamassa no corpo e é antiodor, com garantia de 2 anos contra desbotamento.",
+          "A Tech T-Shirt aparece nas versões de gola redonda, gola V e manga longa. Segundo a página, o tecido tem 92% modal e 8% elastano; na cor Indigo, 62% modal, 30% viscose e 8% elastano. A marca diz que não desbota, desamassa no corpo, é antiodor e tem garantia de 2 anos contra desbotamento.",
           "A gola redonda é a que tem mais cores e tamanhos. A gola V custa o mesmo, mas ficou só com Flame Red e Beetroot. A manga longa, de inverno e meia-estação, é a mais cara do grupo e a de grade mais curta. As duas de manga curta são o menor preço por camiseta de todo o Outlet masculino."
         ],
         "comparisonTable": {
@@ -173877,7 +173870,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para o treino: Regata InTech e Short Esportivo Endorphine",
         "paragraphs": [
-          "A Regata InTech é a Tech T-Shirt sem mangas, no mesmo tecido de modal, e é a peça mais barata de todo o Outlet masculino, com a grade mais cheia da página: Preto e Nori Green vão do PP ao XXGG. O Short Esportivo Endorphine é a peça mais cara e a única com etiqueta de lançamento.",
+          "A Regata InTech era a peça mais barata entre as cinco, e Preto e Nori Green apareciam do PP ao XXGG. O Short Esportivo Endorphine era a peça mais cara e tinha etiqueta de lançamento. Confira composição e grade de cada peça na página antes de escolher.",
           "O Endorphine é um short leve de comprimento médio, diz a página, com bolsos laterais e cordão interno na cintura, em poliamida com elastano, de toque gelado e secagem rápida. Regata e short juntos fazem um conjunto de treino inteiro saído do Outlet."
         ],
         "comparisonTable": {
@@ -173977,7 +173970,7 @@ export const reviewsData: unknown[] = [
         "heading": "Outlet ou kit?",
         "paragraphs": [
           "Quem quer só Tech T-Shirt de manga curta tem duas saídas: a do Outlet, a R$ 99, ou o kit de 5, em que cada camiseta sai a R$ 108,88 sem cupom. Com o cupom, a do Outlet fica em R$ 84,15 e a do kit em R$ 92,55; a conta inteira está em [Kit Insider: quando compensa](/reviews/kit-insider-quando-compensa).",
-          "O Outlet ganha no preço e o kit ganha na escolha: no kit você monta cor e tamanho, e no Outlet só leva as combinações que sobraram na tabela. Se o seu tamanho está lá, o Outlet é a compra mais barata; se não está, o kit resolve."
+          "A Tech avulsa do Outlet custava menos por peça que a média do kit de cinco. O kit exige comprar cinco peças; antes de escolher, confira as cores, os tamanhos, o preço final e o frete dos dois caminhos."
         ],
         "images": [
           {
@@ -174002,7 +173995,7 @@ export const reviewsData: unknown[] = [
           "Para o treino: a Regata InTech é a peça mais barata de todas, a R$ 70,55 com o cupom, com grade quase completa em Preto e Nori Green. O Short Endorphine, a R$ 141,95, é a compra mais cara da página: vale para quem já queria o short, não como achado de outlet."
         ],
         "postParagraphs": [
-          "Se nada disso está no seu tamanho, o kit de Tech T-Shirt resolve com escolha total de cor e tamanho, por um pouco mais por camiseta."
+          "Se a combinação desejada não estiver no Outlet, confira as opções e o custo total do kit de Tech T-Shirt antes de decidir."
         ],
         "emphasis": "No Outlet masculino, a escolha é a Tech T-Shirt de gola redonda, porque é a mais barata das camisetas e a de grade mais cheia."
       },
@@ -174019,8 +174012,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O Outlet da Insider vale a pena? Vale quando a sua cor e o seu tamanho ainda estão na página: são peças do catálogo com 40% ou mais de desconto, e o cupom EMCASACOMCECILIA entra por cima.",
           "O cupom EMCASACOMCECILIA funciona no Outlet da Insider? Sim. No teste no carrinho, ele deu 15% sobre o preço do Outlet nas cinco peças masculinas, inclusive no Short Esportivo Endorphine.",
-          "Tem peça masculina sem desconto no Outlet? Não. As cinco à venda têm entre 40% e 41% de desconto sobre o preço riscado.",
-          "A Camiseta Oversized Comfy InLounge masculina ainda está à venda? Não, está esgotada no Outlet.",
+          "Tem peça masculina sem desconto no Outlet? Não: as cinco que estavam à venda tinham entre 40% e 41% sobre o preço riscado. Confira a seleção e o preço atuais na loja.",
+          "A Camiseta Oversized Comfy InLounge masculina ainda está à venda? Ela aparecia esgotada no Outlet. Confira a disponibilidade atual na loja.",
           "Dá para trocar peça do Outlet? Sim. Segundo a política da Insider, a roupa troca por tamanho ou insatisfação em 21 dias corridos, com a peça nova e com a etiqueta."
         ]
       }
@@ -174061,7 +174054,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Quem não acha o seu tamanho na cor que quer: o Outlet não repõe.",
         "Quem veste M ou G e quer a manga longa: a grade dela é a mais curta, com PP, P e XGG na maioria das cores.",
-        "Quem quer escolher cor e tamanho livremente: o kit de Tech T-Shirt resolve."
+        "Quem precisa de uma cor e um tamanho que o Outlet já não tem: nesse caso, o kit de Tech T-Shirt resolve."
       ]
     }
   },
@@ -174414,13 +174407,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A SkinUp é a linha de segunda pele da Toda Up: corte a laser, sem costura, feita para sumir sob roupa justa. A Cotton Up é a linha de algodão, mais barata, com dois tops e uma calcinha. O que muda a escolha é a roupa por cima e a faixa de tamanho de cada linha, na tabela abaixo."
+          "A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, para aparecer menos sob roupa justa. A Cotton Up é a linha de algodão, mais barata, com dois tops e uma calcinha. O que muda a escolha é a roupa por cima e a faixa de tamanho, na tabela abaixo."
         ]
       },
       {
         "heading": "O que é cada linha",
         "paragraphs": [
-          "SkinUp some na roupa; Cotton Up é algodão: as duas dividem o site, sem se comparar. A SkinUp é a linha de segunda pele: a loja descreve as peças com corte a laser, acabamento ultrafino e sem costura, para a peça desaparecer na roupa. Hoje ela tem o Top Segunda Pele, o Sutiã Top Alça Fina, o Sutiã Clássico e quatro calcinhas: biquíni, cós alto, fio dental e fio dental cós alto. As cores são tons de pele (Creme ou Baunilha, Caramelo, Avelã e Rose) e preto.",
+          "A proposta da SkinUp é a segunda pele; a da Cotton Up, o básico de algodão. A SkinUp tem corte a laser, acabamento ultrafino e sem costura, descritos pela loja para uma peça discreta sob roupa justa. A linha tem o Top Segunda Pele, o Sutiã Top Alça Fina, o Sutiã Clássico e quatro calcinhas: biquíni, cós alto, fio dental e fio dental cós alto. As cores são tons de pele (Creme ou Baunilha, Caramelo, Avelã e Rose) e preto.",
           "A Cotton Up é a linha de algodão, com o Top Faixa, o Top Triangular e a Calcinha Biquíni, em preto, branco e cinza. As páginas falam em algodão premium, toque suave e sustentação leve. Não há corte a laser nem a proposta de sumir sob a roupa: é o básico de algodão para o dia a dia.",
           "Para o sutiã com copo da linha Comfort, veja [o guia dos sutiãs Comfort](/reviews/sutia-toda-up-qual-escolher); para a peça adesiva, [o sutiã de silicone](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
@@ -174441,10 +174434,10 @@ export const reviewsData: unknown[] = [
           "A decisão começa pela roupa que vai por cima e termina na faixa de tamanho, porque as duas linhas não vestem igual."
         ],
         "bullets": [
-          "Blusa de alça fina, regata ou roupa justa, e a peça tem de sumir: SkinUp. O [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do PP ao GG e tem as alças mais finas; o [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do P ao G1 e tem alça larga, sem regulagem.",
+          "Para reduzir marcas sob roupa justa ou usar com alça fina, compare a proposta SkinUp da loja. O [Sutiã Top Alça Fina](https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do PP ao GG e tem as alças mais finas; o [Top Segunda Pele](https://todaup.com/discount/MAUAD?redirect=/products/top-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) vai do P ao G1 e tem alça larga, sem regulagem.",
           "Quer efeito push-up sem aro: o [Sutiã Clássico SkinUp](https://todaup.com/discount/MAUAD?redirect=/products/classico-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), do P ao G1. É a única peça das duas linhas com bojo fixo.",
           "Quer algodão, sustentação leve e o preço menor: Cotton Up, com o [Top Faixa](https://todaup.com/discount/MAUAD?redirect=/products/top-faixa-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao) ou o [Top Triangular](https://todaup.com/discount/MAUAD?redirect=/products/top-triangular-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), do P ao G1, os dois com alças e bojo removível.",
-          "Calcinha que não marca sob legging ou vestido de malha: as quatro calcinhas SkinUp, sem costura. Calcinha de algodão para o dia a dia: a [Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
+          "Para reduzir marcas sob legging ou vestido de malha, compare as quatro calcinhas SkinUp sem costura. Calcinha de algodão para o dia a dia: a [Biquíni Cotton Up](https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao).",
           "Veste PP: só o Sutiã Top Alça Fina tem PP (34-36). O Top Segunda Pele, o Clássico e as peças Cotton Up começam no P, e o P de cada linha é um número diferente (38-40 na SkinUp, 36-38 na Cotton Up)."
         ]
       },
@@ -174802,7 +174795,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Calcinha Cós Alto SkinUp",
               "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-cos-alto-segunda-pele-skin-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-              "howTo": "Com a cintura alta por baixo de calça de cós alto ou vestido, sem a linha da calcinha aparecer.",
+              "howTo": "Por baixo de calça de cós alto ou vestido, com a cintura da peça alinhada à roupa.",
               "occasion": "Calça de cós alto, saia e vestido.",
               "pairsWith": [
                 {
@@ -174821,7 +174814,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Calcinha Biquíni Cotton Up",
               "url": "https://todaup.com/discount/MAUAD?redirect=/products/calcinha-biquini-cotton-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
-              "howTo": "Como calcinha de algodão do dia a dia; sem o corte a laser, não é a peça para roupa colada.",
+              "howTo": "Como calcinha de algodão do dia a dia. Sem o acabamento a laser da SkinUp, não é a peça pensada para roupa colada.",
               "occasion": "Casa, pijama e roupa larga.",
               "pairsWith": [
                 {
@@ -174948,8 +174941,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: o veredito por perfil",
         "paragraphs": [
-          "Se a roupa por cima é justa, de alça fina ou clara, e a peça precisa sumir, a SkinUp é a linha: o Sutiã Top Alça Fina para regata e alcinha (e para quem veste PP), o Top Segunda Pele para o mínimo de estrutura, o Clássico para quem quer push-up sem aro. As calcinhas SkinUp seguem a mesma lógica, sem costura, do P ao G1.",
-          "Se a prioridade é algodão e preço, a Cotton Up resolve: dois tops de sustentação leve a R$ 132,90 e uma calcinha a R$ 39,90, em preto, branco e cinza, do P ao G1. É a escolha para casa, pijama e roupa larga, não para a blusa colada.",
+          "Se a prioridade é reduzir marcas sob roupa justa, a SkinUp é a proposta da loja: Alça Fina para regata e alcinha e para quem precisa de PP; Top Segunda Pele para estrutura mais simples; Clássico para quem quer push-up sem aro. As calcinhas seguem a proposta sem costura, do P ao G1.",
+          "Se a prioridade é algodão e preço, a Cotton Up é a opção: os dois tops de sustentação leve custam R$ 132,90 e a calcinha, R$ 39,90, em preto, branco e cinza, do P ao G1. É a escolha para casa, pijama e roupa larga; sob blusa colada, o resultado depende da peça por cima.",
           "Nos dois casos, a faixa de tamanho decide o resto: meça e compare com a coluna da peça na tabela acima, porque a mesma letra muda de medida entre os tops da própria SkinUp e muda de número entre as duas linhas."
         ],
         "images": [
@@ -174978,7 +174971,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Quem usa roupa por cima justa, clara ou de alça fina e quer que a peça suma: a SkinUp, sem costura.",
+        "Quem quer reduzir marcas sob roupa justa ou procura um top de alça fina: compare a SkinUp, conferindo cor, formato e medidas.",
         "Quem veste PP e quer um top sem costura: só o Sutiã Top Alça Fina tem PP.",
         "Quem quer algodão e preço menor para casa e roupa larga: a Cotton Up."
       ],
@@ -175018,7 +175011,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Entre no site oficial da Toda Up pelo botão. O cupom já vem aplicado: confira a linha de desconto no resumo do pedido.",
+      "text": "Entre no site oficial da Toda Up pelo botão. Confira se MAUAD aparece na linha de desconto e veja o total no resumo do pedido.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -175048,17 +175041,17 @@ export const reviewsData: unknown[] = [
         "heading": "Como a conta é feita",
         "paragraphs": [
           "A Toda Up vende as peças avulsas e também em kit: top com calcinha, sutiã com protetor de silicone e combinações de sutiãs. A página de cada kit mostra o preço do kit e um preço riscado, mas não compara com as mesmas peças compradas separadas. É essa conta que fizemos aqui.",
-          "Preços lidos em 31/10/2026, no site da loja. A economia é a soma das peças avulsas de hoje menos o preço do kit de hoje, e a porcentagem é sobre essa soma, não sobre o preço riscado. O cupom fica fora da conta, porque nenhum destes kits passou pelo carrinho com ele; a seção do cupom explica. Alguns kits aparecem mais de uma vez no site, com preços diferentes: usamos a página que estava à venda.",
+          "Preços de 31/10/2026, no site da loja. A economia é a soma das peças avulsas daquele dia menos o preço do kit no mesmo dia, e a porcentagem é sobre essa soma, não sobre o preço riscado. O cupom fica fora da conta, porque nenhum destes kits passou pelo carrinho com ele; a seção do cupom explica. Alguns kits aparecem mais de uma vez no site, com preços diferentes: usamos a página que estava à venda.",
           "A régua de leitura: economia até R$ 20 é “quase não economiza”; de R$ 20 a R$ 50, “economiza pouco”; acima de R$ 50 e de 20%, “compensa”."
         ]
       },
       {
         "heading": "Os kits lado a lado",
         "paragraphs": [
-          "A tabela traz cada kit à venda, o que vem nele, o preço do kit, a soma das mesmas peças avulsas e a diferença. O nome do kit leva à loja."
+          "A tabela reúne os kits comparados, com as peças, o preço do kit, a soma das mesmas peças avulsas e a diferença. O nome do kit leva à loja."
         ],
         "comparisonTable": {
-          "caption": "Preços da loja, sem cupom.",
+          "caption": "Preços da loja, sem cupom; compare os valores atuais no carrinho.",
           "headers": [
             "Kit",
             "Peças",
@@ -175331,7 +175324,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Kit da Toda Up é mais barato que comprar separado? Depende do kit. Os de 3 conjuntos, os de sutiã com protetor, o Kit Invisible Up e o Kit Comfort Up saem de 22% a 30% abaixo das peças avulsas; os kits de 1 conjunto economizam menos de R$ 20.",
+          "Kit da Toda Up é mais barato que comprar separado? Depende do kit e das peças que você usaria. Os de 3 conjuntos, os de sutiã com protetor, o Kit Invisible Up e o Kit Comfort Up saem de 22% a 30% abaixo das peças avulsas; os kits de 1 conjunto economizam menos de R$ 20.",
           "Quanto custa cada conjunto no kit de 3? R$ 124,39 no Cotton Up e R$ 166,63 no SkinUp, contra R$ 172,80 e R$ 214,81 comprando as peças avulsas.",
           "O Kit Invisible Up vem com a case? Vem. A página diz que acompanha a Case Protetor de Silicone tamanho P (8 cm), além do sutiã de silicone e do par de protetores.",
           "Quantos sutiãs tem o Kit Comfort Up? Três: Comfort Up, Comfort Slim e Comfort Line, na mesma cor, Preto ou Rose.",
@@ -175806,7 +175799,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os wheys da Max, em resumo",
         "paragraphs": [
-          "A proteína por dose vale pela tabela nutricional de cada pote, e o preço por 100 g de proteína é o preço dividido pela proteína do pote. No preço de venda, o Whey Pro e o 100% Whey Refil ficam na frente, e o Top Whey 3W + Natural é o mais caro da linha.",
+          "A proteína por dose vem da tabela nutricional de cada produto, e o preço por 100 g de proteína é o preço dividido pela proteína do pote. Na comparação de preços, o Whey Pro e o 100% Whey Refil ficam entre os mais baratos, e o Top Whey 3W + Natural é o mais caro por grama de proteína da linha.",
           "A conta de cada whey, com a tabela de preço do dia, está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
           "O 100% Whey é concentrado do soro, com 21 g em cada dose de 30 g. O refil de 900 g sai mais barato por grama de proteína que o pote, com a mesma tabela.",
           "Compensa para quem quer proteína de soro pelo menor preço e aceita lactose.",
@@ -175842,7 +175835,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
-          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto, e o percentual varia por produto: nem todo item chega a 10%. No teste do cupom no checkout, com o Top Whey 3W + Sabor em promoção (R$ 189,00 naquele dia), o cupom tirou R$ 16,75, menos de 9% do preço. Ele soma com as promoções do site e vale em todas as formas de pagamento, então confira a linha Descontos do carrinho antes de pagar.",
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto, e o percentual varia por produto: nem todo item chega a 10%. No teste de 14 de outubro de 2026, com o Top Whey 3W + Sabor em promoção, o cupom tirou R$ 16,75, menos de 9% do preço. Ele soma com as promoções do site e vale em todas as formas de pagamento; confira a linha Descontos do carrinho antes de pagar.",
           "A compra é no site oficial, o maxtitanium.com.br. O preço de campanha não entra nas contas por grama deste guia (o valor promocional do teste acima só mostra o desconto do cupom); a Black Friday da marca está em [Black Friday Max Titanium](/reviews/black-friday-max-titanium), e o passo a passo do código, em [como usar o cupom na Max Titanium](/reviews/cupom-max-titanium-como-usar)."
         ],
         "links": [
@@ -175855,7 +175848,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Max Titanium é confiável?",
         "paragraphs": [
-          "A parte da loja (quem vende, o site oficial, trocas e frete) está em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel), e a reputação, em [Max Titanium no Reclame Aqui](/reviews/max-titanium-reclame-aqui-nota-reputacao). Aqui o assunto é o produto, e o whey passa no teste do rótulo."
+          "A parte da loja (quem vende, o site oficial, trocas e frete) está em [Max Titanium é confiável?](/reviews/max-titanium-e-confiavel), e a reputação, em [Max Titanium no Reclame Aqui](/reviews/max-titanium-reclame-aqui-nota-reputacao). Aqui, comparamos as informações declaradas nos rótulos."
         ]
       },
       {
@@ -175926,7 +175919,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Probiótica é boa? Sim, pelo rótulo: veja o que o whey, a creatina e o hipercalórico dizem no rótulo, quanto custam com o cupom PRO10EMCASACOMCECILIA e para quem a marca compensa.",
+    "description": "Os rótulos de whey e creatina da Probiótica declaram proteína por dose e composição. Veja como comparar as versões e use o cupom PRO10EMCASACOMCECILIA de até 10%.",
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Whey, creatina e glutamina pelo rótulo, com o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
@@ -175946,13 +175939,13 @@ export const reviewsData: unknown[] = [
     "cons": [
       "O aviso do Zero Lactose cita derivados de leite",
       "O cupom varia por produto e não chega a 10% em todos",
-      "O Iso Pro, o isolado, cobra mais por grama de proteína e contém lactose"
+      "O Iso Pro cobra mais por grama de proteína, e a página do produto declara lactose"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelo rótulo. O 100% Pure Whey declara o tipo e a quantidade de proteína por dose, o Zero Lactose declara \"sem lactose\" e a creatina, 5 g por porção. O que muda a escolha é o tipo de whey e o tamanho do pote de creatina; os capítulos abaixo mostram qual serve para quem."
+          "O 100% Pure Whey declara o tipo de proteína e a proteína por dose; o Zero Lactose declara \"sem lactose\", e a creatina traz 5 g por porção. Para escolher, compare a composição, o aviso de alergênicos e o preço de cada versão."
         ]
       },
       {
@@ -175971,7 +175964,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O whey da Probiótica é bom? Resumo por pote",
         "paragraphs": [
-          "Pelo rótulo, é: cada pote declara o tipo de proteína e a proteína por dose, e o que muda entre eles é o tipo, a dose e o preço por grama de proteína. Com a promoção, o Hiper 100% Whey é o mais barato por grama; sem ela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente. O Iso Pro é o isolado, com a maior dose de proteína e o maior preço por grama.",
+          "Cada pote declara o tipo de proteína e a proteína por dose. O Hiper 100% Whey é o mais barato por grama enquanto a promoção durar; sem ela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente. O Iso Pro tem a maior dose de proteína e o maior preço por grama.",
           "A tabela com a proteína de cada pote, a conta por 100 g e o veredito por perfil estão em [whey Probiótica: qual escolher](/reviews/whey-probiotica-qual-escolher)."
         ]
       },
@@ -176016,7 +176009,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O pote de 300 g está em promoção da loja; sem ela, ainda seria o mais barato por grama. Serve para quem usa uma porção por dia por semanas. O de 100 g só vale para experimentar, e a Creapure e a monodose cobram o selo de origem e a embalagem individual: a composição por porção na tabela é a mesma do pote comum."
+          "O pote de 300 g está em promoção da loja; sem ela, ainda seria o mais barato por grama. Serve para quem usa uma porção por dia por semanas. O de 100 g só vale para experimentar. Creapure e monodose custam mais pelo selo de origem e pela embalagem individual; a composição por porção na tabela é a mesma do pote comum."
         ],
         "image": {
           "src": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-pote-300g.webp",
@@ -176061,7 +176054,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Vale para quem escolhe whey e creatina pela tabela nutricional e pelo preço por grama. A Probiótica está no mercado desde 1986: é uma das marcas nacionais de suplementos mais antigas, e isso tem seu valor.",
+        "emphasis": "Vale para quem compara whey e creatina pela tabela nutricional, pelos avisos de alergênicos e pelo preço por grama. A Probiótica diz atuar desde 1986.",
         "bullets": [
           "Para pagar menos pela proteína, o Hiper 100% Whey enquanto estiver em promoção; fora dela, o Zero Lactose e o refil do 100% Pure Whey ficam à frente.",
           "Para um whey que o rótulo declara sem lactose, o Zero Lactose, lembrando que o aviso de alergênicos cita derivados de leite.",
@@ -176073,10 +176066,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O whey da Probiótica é bom? Pelo rótulo, sim: cada pote declara o tipo de proteína e a proteína por dose. O que muda entre eles é o preço por grama e a lactose, no [guia do whey](/reviews/whey-probiotica-qual-escolher).",
+          "O whey da Probiótica é bom? O rótulo declara o tipo de proteína e a proteína por dose. O que muda entre as versões é o preço por grama e a lactose, no [guia do whey](/reviews/whey-probiotica-qual-escolher).",
           "O 100% Pure Whey é concentrado? É: a descrição da loja e o rótulo dizem proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
           "O zero lactose serve para quem tem intolerância? O rótulo declara \"lactose: não contém\", e o aviso de alergênicos cita derivados de leite. Quem tem intolerância decide com médico ou nutricionista.",
-          "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja.",
+          "O Iso Pro é zero lactose? Não: a página do produto declara lactose, e o aviso cita derivados de leite e soja. Confira o rótulo do sabor e da embalagem que você vai comprar.",
           "O Hiper 100% Whey é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
           "A creatina Probiótica é boa? Pelo rótulo, a creatina monohidratada traz 5.000 mg por porção de 5 g nos potes e nos sachês, e o pote de 300 g é o mais barato por grama; os números estão em [creatina Probiótica: qual versão compensa](/reviews/creatina-probiotica-qual-compensa).",
           "O cupom da Probiótica dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. Vale para conta nova e antiga e soma com as promoções da loja.",
@@ -179598,7 +179591,7 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista no site, 03/11. A loja põe os kits em promoção com frequência: o preço riscado é o de lista, e o cupom entra sobre o preço do dia."
         },
         "postParagraphs": [
-          "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, porque é no kit em promoção que a camiseta fica mais barata por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa)."
+          "Os kits Colorful, Intense e Brazil Edition custam o mesmo que o Classic e só trocam a combinação de cores. O kit é a conta que decide: divida o preço dele por três e compare com a avulsa antes de levar, pois a promoção do kit nem sempre garante o menor preço por peça. A avulsa serve a quem quer uma cor só, ou quer conhecer o P, o M ou o G antes de fechar três. Composição completa, os seis modelos lado a lado, os cuidados e a conta por peça estão em [a camiseta da Cléa Store é boa?](/reviews/camiseta-clea-store-e-boa)."
         ],
         "images": [
           {
@@ -179765,14 +179758,14 @@ export const reviewsData: unknown[] = [
         "heading": "Tamanho: P, M e G, e a tabela de cada peça",
         "paragraphs": [
           "O tamanho na Cléa se decide na página da peça, não numa tabela geral do site. Cada produto tem o botão \"Tabela de Medidas\", que abre as faixas de busto, cintura e quadril em centímetros; nas peças de cima a tabela é a mesma para camiseta, body e blazer, e na calça ela traz cintura e quadril com a numeração de 36 a 42. O mesmo botão abre um provador virtual, que a loja não garante: use como apoio, não como medida.",
-          "A conta que evita a troca é medir antes. Regra prática, sem teste nosso: pela modelagem que a loja descreve, na peça justa, como o body, a medida manda e a folga não existe; na oversized, a folga já vem do corte, e quem cai entre dois tamanhos tem mais margem. Como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos estão no guia da tabela de medidas, listado no fim."
+          "Medir antes ajuda a escolher, sem garantir o caimento. Pela modelagem que a loja descreve, o body é justo e a camiseta oversized tem corte solto; confira as medidas da peça e suas preferências antes de decidir. Como medir busto, cintura e quadril, as faixas de P, M e G e o que fazer entre dois tamanhos estão no guia da tabela de medidas, listado no fim."
         ]
       },
       {
         "heading": "Quanto custa com o cupom, e onde comprar",
         "paragraphs": [
           "O [cupom Cléa Store](/cupons/clea-store) é o CSEMCASACOMCECILIA: 10% em todo o site, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções da loja e com o cashback, que devolve 10% da compra em créditos para usar no site. Conta nossa: pelo preço de lista da tabela, a camiseta avulsa sai por R$ 116,10 com o cupom, e no kit em promoção os 10% entram sobre o preço já baixado, com o cashback calculado depois do desconto. O código vai no resumo do pedido, no carrinho; confira a linha Desconto antes de pagar.",
-          "O que muda a conta é o frete. A faixa do site anuncia frete grátis acima de R$ 599; abaixo disso, o frete aparece no carrinho, e uma camiseta avulsa ou um body sozinho paga frete. É aí que o kit de três ou o pedido com duas peças faz sentido. A Cléa também vende no Mercado Livre, onde o cupom não vale e a camiseta e os bodies costumam sair mais baratos; a comparação, anúncio a anúncio, está em [Mercado Livre ou site da Cléa Store](/reviews/clea-store-mercado-livre-ou-site). Para a alfaiataria e para qualquer cor fora dos kits, só o site tem."
+          "O que muda a conta é o frete. A faixa do site anuncia frete grátis acima de R$ 599; abaixo disso, o frete aparece no carrinho, e uma camiseta avulsa ou um body sozinho paga frete. Compare o valor final, incluindo frete, com o de um kit ou pedido com mais peças que você já queira levar. A Cléa também vende no Mercado Livre, onde o cupom não vale e a camiseta e os bodies costumam sair mais baratos; a comparação, anúncio a anúncio, está em [Mercado Livre ou site da Cléa Store](/reviews/clea-store-mercado-livre-ou-site). Para a alfaiataria e para qualquer cor fora dos kits, só o site tem."
         ]
       },
       {
@@ -179791,7 +179784,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem vale e para quem não vale",
         "bullets": [
-          "Para a camiseta larga de algodão em cor lisa, a T-Shirt Oversized: avulsa para uma cor, kit de três em promoção para o menor preço por peça.",
+          "Para a camiseta larga de algodão em cor lisa, a T-Shirt Oversized: avulsa para uma cor, kit de três se a conta por peça compensar em relação à avulsa.",
           "Para o body que vai por baixo do blazer e segura o frio, o Gola Alta Manga Longa; para o dia a dia com jeans, o Duplo ou o Cavado.",
           "Para a alfaiataria de linho montada peça a peça, o blazer ou o colete com a calça ou o shorts da mesma cor, enquanto a grade do seu tamanho estiver aberta.",
           "Não vale para quem precisa saber a gramatura ou o toque antes de comprar: a página não traz, e isso só se decide com a peça na mão.",
@@ -179805,7 +179798,7 @@ export const reviewsData: unknown[] = [
           "A Cléa Store é boa? Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10%; o que pesa é o tamanho e o preço por peça do kit, nos capítulos da camiseta e do cupom.",
           "A camiseta da Cléa é boa? Pelo que a loja publica, é uma camiseta oversized de corpo 100% algodão, em dez cores e nos tamanhos P, M e G, sem a gramatura na página; o capítulo da camiseta resume e aponta o guia completo da peça.",
           "A Cléa Store tem cupom? Tem: o CSEMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback; o capítulo do cupom mostra onde digitar.",
-          "A Cléa Store é confiável? Sim: CNPJ ativo, dados publicados no site, devolução grátis e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui, com todas as reclamações respondidas, como mostra o capítulo de confiança.",
+          "A Cléa Store é confiável? Sim, com ressalva: CNPJ ativo, dados publicados no site, devolução grátis e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui, com todas as reclamações respondidas, como mostra o capítulo de confiança.",
           "A Cléa Store tem tabela de medidas? Tem, na página de cada peça, no botão \"Tabela de Medidas\", com busto, cintura e quadril em centímetros; o capítulo de tamanho explica como usar."
         ]
       }
@@ -179879,7 +179872,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Toda Up é boa? Sim, para quem mede o busto antes de comprar: o que a loja diz dos sutiãs Comfort, da SkinUp, da Cotton Up e da Fita Up, quanto custa com o código e onde comprar.",
+    "description": "Sutiãs, segunda pele e adesivos Toda Up: como comparar formatos e medidas pelas páginas da loja, quais kits avaliar e como usar o código de desconto.",
     "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up. Sutiãs Comfort, SkinUp, Cotton Up e Fita Up pela página da loja, os kits que compensam e onde comprar.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
@@ -179894,7 +179887,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem quer sutiã de todo dia ou segunda pele e mede o busto antes de comprar: a Toda Up vende três sutiãs Comfort, as linhas SkinUp e Cotton Up, a Fita Up e os adesivos, no site oficial. O que decide é a sua medida na tabela de cada peça; veja os capítulos abaixo."
+          "Na Toda Up, comece pelo formato da peça e pela tabela de medidas do modelo. Os três Comfort têm o mesmo tecido e preço de lista, mas tamanhos e alças diferentes; só o Comfort Up chega ao G3. SkinUp serve para roupa justa ou de alça fina, e Cotton Up para algodão e roupa larga."
         ]
       },
       {
@@ -179957,7 +179950,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SkinUp e Cotton Up: segunda pele ou algodão",
         "paragraphs": [
-          "A escolha entre as duas linhas é pela roupa que vai por cima: a SkinUp é para sumir sob roupa justa, clara ou de alça fina, e a Cotton Up é o básico de algodão para casa e roupa larga. A loja descreve a SkinUp com corte a laser e acabamento ultrafino, sem costura, e tem três tops nela. O Top Segunda Pele é o top fixo de alça larga, sem fecho e sem regulagem, para quem quer o mínimo de estrutura. O Sutiã Top Alça Fina tem alças finas reguláveis e fecho de quatro níveis, e é o único top da loja com PP, e a loja diz que a alça some sob a alça da regata. O Sutiã Clássico é o de bojo fixo, sem aro, com o efeito push-up que a página promete, e o mais caro das duas linhas. Na Cotton Up, o Top Faixa é reto e o Top Triangular tem o decote em V; os dois vêm com bojo removível, em algodão com 5% de elastano no Faixa, e a própria loja classifica a sustentação como leve."
+          "A SkinUp é descrita pela loja como segunda pele de corte a laser e acabamento ultrafino, sem costura. O Top Segunda Pele tem alça larga, sem fecho ou regulagem; o Sutiã Top Alça Fina tem alças reguláveis e fecho de quatro níveis. Entre os cinco tops da SkinUp e da Cotton Up, o Alça Fina é o único com PP. O Sutiã Clássico tem bojo fixo, sem aro, e efeito push-up anunciado pela marca.",
+          "Na Cotton Up, o Top Faixa tem corte reto e o Top Triangular, decote em V. Ambos têm bojo removível; o Faixa é descrito como algodão com 5% de elastano, e a loja classifica a sustentação como leve.",
+          "Compare a peça com a roupa que vai por cima e com as suas medidas. O acabamento divulgado pela marca ajuda a escolher o formato, mas não garante invisibilidade em toda roupa."
         ],
         "comparisonTable": {
           "headers": [
@@ -180001,13 +179996,13 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista do site, sem o código; os cinco tops estavam com desconto de promoção no dia."
         },
         "postParagraphs": [
-          "O número não passa de uma linha para a outra: o P da Cotton Up é 36-38 e o da SkinUp, 38-40. Para blusa colada, não escolha a Cotton Up: ela não tem o corte a laser que faz a SkinUp sumir na roupa. Para quem veste PP, só o Alça Fina. As medidas em centímetros de cada top e das calcinhas, e as sugestões de combinação de cada peça, estão no [guia SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
+          "A numeração muda entre as linhas: P é 36–38 na Cotton Up e 38–40 na SkinUp. Confira a tabela do modelo, sem converter o tamanho automaticamente. As medidas em centímetros e as combinações sugeridas estão no [guia SkinUp ou Cotton Up](/reviews/skinup-ou-cotton-up-toda-up)."
         ],
         "images": [
           {
             "src": "/images/reviews/toda-up/skinup-ou-cotton-up-toda-up-top-alca-fina.webp",
             "alt": "Sutiã Top Alça Fina SkinUp preto, com alças finas e decote em V, em foto oficial da loja",
-            "caption": "O Sutiã Top Alça Fina: o único top da loja com PP. Imagem: Toda Up.",
+            "caption": "Sutiã Top Alça Fina, o único com PP entre os tops da SkinUp e da Cotton Up. Imagem: Toda Up.",
             "objectFit": "wide",
             "href": "https://todaup.com/discount/MAUAD?redirect=/products/top-alca-fina-segunda-pele-skinup&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
           }
@@ -180078,7 +180073,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up: a fita que deu nome à marca",
         "paragraphs": [
-          "A Fita Up é para o decote que nenhum sutiã resolve, e a largura se escolhe pelo tamanho da roupa: P até o 44, M até o 48 e G até o 54, pelo guia da página. A loja a descreve como fita adesiva para seios, de poliéster com elastano e cola acrílica à base de água, e a marca fala em até 12 horas no corpo. O uso é cortar um pedaço por vez, colar da base do seio para cima, sem esticar, com o protetor de mamilo por baixo, e tirar devagar com hidratante ou óleo. Dá para colar de novo, mas a marca não recomenda, porque a fita perde cola a cada uso: conte um pedaço por uso. Por que ela descola, se dá alergia e se pode molhar está em [Fita Up não cola ou descola?](/reviews/fita-up-cuidados-cola-pele-agua). Vem em Bege, Marrom e Preto. Se você quer uma peça pronta, pule a fita: o Sutiã de Silicone Invisível é a opção de colar sem cortar, no capítulo seguinte."
+          "A Fita Up é a opção adesiva cortada para o decote, disponível em Bege, Marrom e Preto. O guia da marca indica P até o 44, M até o 48 e G até o 54; o FAQ fala em até 52 com segurança. Se essa diferença afetar sua escolha, confirme a indicação com a Toda Up antes de comprar. O [passo a passo da Fita Up](/reviews/fita-up-como-usar) reúne aplicação, remoção e precauções; para problemas de cola, veja [os cuidados com pele e água](/reviews/fita-up-cuidados-cola-pele-agua). Conte um pedaço por uso. Se prefere uma peça pronta de colar, compare o Sutiã de Silicone Invisível no capítulo de adesivos."
         ],
         "images": [
           {
@@ -180173,8 +180168,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o código e onde comprar",
         "paragraphs": [
-          "O código da Toda Up tira 10% de todo o site, inclusive da peça que já está em promoção, e a compra é só no site oficial. No teste do carrinho, os 10% saíram do preço promocional do Comfort Up; num carrinho maior, a promoção progressiva da loja entrou primeiro, sozinha, e o código tirou mais 10% do que sobrou. É assim que a conta funciona em campanha: a linha da loja vem antes, a do código depois, e o total do carrinho é o que vale. Pelo botão desta página, o site já abre com o código aplicado; se a linha não aparecer no resumo do pedido, cole MAUAD no campo de cupom do checkout. O passo a passo e as regras estão na página do [cupom Toda Up](/cupons/toda-up).",
-          "A loja libera frete grátis em campanhas; fora delas, o frete sai pelo CEP no checkout, por Sedex, Loggi ou Jadlog. A campanha de fim de ano da loja tem guia próprio, listado no fim; nenhum preço de campanha entra aqui, porque ele muda sem aviso."
+          "O código da Toda Up tira 10% no site oficial, inclusive sobre peça em promoção. No teste com o Comfort Up, o desconto saiu do preço promocional; em um carrinho maior, a promoção progressiva entrou antes e o código aplicou 10% sobre o valor restante. Confira as linhas no resumo do pedido.",
+          "Pelo botão deste artigo, a loja abre com o código aplicado. Se a linha não aparecer, cole MAUAD no campo de cupom. O passo a passo e as condições estão na página do [cupom Toda Up](/cupons/toda-up). A marca também vende em outros canais; este desconto é do site oficial.",
+          "O frete é informado pelo CEP no checkout. Confira se há campanha de frete grátis para o pedido escolhido."
         ]
       },
       {
@@ -180193,19 +180189,19 @@ export const reviewsData: unknown[] = [
         "heading": "Para quem vale e para quem não vale",
         "bullets": [
           "Para o sutiã de todo dia com a maior faixa de tamanho, o Comfort Up; para tomara que caia, o Comfort Line, a partir do P.",
-          "Para a peça que some sob regata e roupa justa, a SkinUp; o Sutiã Top Alça Fina é o único top da loja com PP.",
+          "Para comparar segunda pele sob regata ou roupa justa, veja a SkinUp; entre os cinco tops da SkinUp e da Cotton Up, o Alça Fina é o único com PP.",
           "Para algodão e preço menor, em casa e sob roupa larga, a Cotton Up.",
           "Para o decote sem sutiã, a Fita Up, cortada por uso, ou o Sutiã de Silicone Invisível, pronto.",
           "Para três conjuntos ou os três sutiãs de uma vez, os kits de três conjuntos ou o Kit Comfort Up; o de um conjunto quase não economiza.",
           "Não vale para quem veste PP e quer o Comfort Line, o Top Segunda Pele ou um kit de top e calcinha: todos começam no P.",
           "Não vale para quem precisa saber o prazo do reembolso antes de comprar: a política não fixa."
         ],
-        "emphasis": "Se fosse para mim, eu começaria pelo Comfort Up: é o sutiã de todo dia que eu indicaria a quem ainda não sabe a própria medida."
+        "emphasis": "Antes de escolher um Comfort, confira a medida na coluna daquele modelo. A mesma letra não tem a mesma medida nos três."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Toda Up é boa? Para quem quer sutiã de todo dia ou segunda pele com a tabela de medidas na página, sim: três sutiãs Comfort, as linhas SkinUp e Cotton Up e os adesivos, só no site oficial; o que decide é a sua medida na coluna da peça, como mostram os capítulos das linhas.",
+          "A Toda Up é boa? Depende da peça: cada linha tem um uso definido, e a tabela de medidas de cada modelo mostra o tamanho certo. O cupom deste artigo vale só no site oficial.",
           "Toda Up tem cupom? Tem: o código da Toda Up, MAUAD, dá 10% em todo o site, inclusive em peça já em promoção, e soma com a promoção da loja; o capítulo do preço mostra como ele entra no carrinho.",
           "A Toda Up é confiável? É: empresa registrada em Biguaçu (SC), com o CNPJ no rodapé, troca em 30 dias e reputação Ótima no Reclame Aqui; os números estão no capítulo de confiança.",
           "Sutiã da Toda Up é bom? Pela página da loja, os três sutiãs Comfort têm o mesmo tecido e o mesmo preço, e o que muda é a faixa de tamanho e as alças; o capítulo dos sutiãs resume, e o guia dos Comfort, listado no fim, traz a tabela de busto.",
@@ -188956,7 +188952,7 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer o menor preço sem depender de promoção do dia e a troca de 30 dias pelo portal da marca: compre no site com o cupom.",
+        "Você comparou o total com frete e prefere comprar no site com MAUAD e troca pelo portal da marca.",
         "Você quer ver a fita pessoalmente antes de levar e mora perto de uma loja parceira."
       ],
       "skipIf": [
@@ -188988,11 +188984,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço de tabela, o site oficial da Toda Up com o cupom é o lugar mais em conta, e ainda tem a troca pelo portal da marca. A loja oficial no Mercado Livre às vezes fica abaixo, mas só em promoção do dia; o veredito e o que conferir estão em \"Qual canal escolher\"."
+          "Nos preços comparados, o site oficial da Toda Up com MAUAD tem o menor preço do produto antes do frete, além da troca pelo portal da marca. Uma promoção no Mercado Livre pode mudar essa ordem. Compare o total para o seu CEP; o capítulo “Qual canal escolher” mostra o que conferir."
         ]
       },
       {
-        "heading": "Onde a Fita Up é vendida hoje",
+        "heading": "Onde a Fita Up é vendida",
         "paragraphs": [
           "A Fita Up não é exclusiva do site: a própria Toda Up vende também no Mercado Livre, na Amazon e pela Drogasil e pela Droga Raia, e a marca lista lojas físicas parceiras."
         ],
@@ -189068,7 +189064,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom MAUAD: só no site oficial",
         "paragraphs": [
           "O MAUAD dá 10% e vale só no site oficial; no Mercado Livre, na Amazon e na Drogasil, o preço é o que aparece na tela.",
-          "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, a fita do site fica abaixo de todos os outros canais. O Mercado Livre só fica mais barato quando a loja oficial roda promoção, com desconto do produto e cupom da loja somados, e isso muda de um dia para o outro. Antes de fechar no site, abra [a loja oficial da Fita Up](https://meli.la/2qNDns1) e veja se há promoção no momento; sem ela, o site com o cupom ganha.",
+          "Conta nossa, pelos preços da tabela: com os 10% do MAUAD, o produto no site fica abaixo dos demais canais comparados, antes do frete. Promoções do Mercado Livre podem mudar a ordem. Confira a oferta atual [na loja oficial da Fita Up](https://meli.la/2qNDns1) e compare o total para o seu CEP.",
           "Os preços da tabela são sem frete. No site, uma fita sozinha fica abaixo da faixa de frete grátis (compras acima de R$ 199), então ponha o CEP no carrinho antes de comparar; no Mercado Livre, o anúncio com Full mostra o frete e o dia da entrega. Para duas fitas, o kit Leve 2 do site aceitou o MAUAD no nosso teste de carrinho e chega mais perto do frete grátis.",
           "Para comprar no site com o cupom, [use este link da Toda Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao). As regras do cupom estão na [página da Toda Up em Cupons](/cupons/toda-up)."
         ],
@@ -189083,22 +189079,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up perto de mim",
         "paragraphs": [
-          "Para ver a fita perto de você, o caminho é o localizador de lojas parceiras da própria marca. A Toda Up publica a [lista de lojas parceiras](https://todaup.com/pages/localizador-lojas-parceiras) com 1.659 pontos, e dá para filtrar as lojas por \"Pronta-entrega\" e por \"Delivery\", para quem quer a fita no mesmo dia sem sair de casa.",
-          "Num raio de 15 km, o localizador mostra 13 pontos no Rio, 26 em Belo Horizonte e mais de 50 em São Paulo. Em Florianópolis, perto da sede da marca, são 33 no mesmo raio. A lista traz o WhatsApp de cada loja: chame ou ligue antes de ir, para saber se a cor e o tamanho estão na prateleira."
+          "Para encontrar a fita perto de você, consulte a [lista de lojas parceiras](https://todaup.com/pages/localizador-lojas-parceiras). Ela tem 1.659 pontos e filtros de “Pronta-entrega” e “Delivery”. Confirme estoque e prazo com a loja; o filtro não garante entrega no mesmo dia.",
+          "Num raio de 15 km, o localizador mostrava 13 pontos no Rio, 26 em Belo Horizonte e mais de 50 em São Paulo. Em Florianópolis, perto da sede da marca, eram 33 no mesmo raio. A lista traz o WhatsApp de cada loja: chame ou ligue antes de ir, para saber se a cor e o tamanho estão na prateleira."
         ]
       },
       {
         "heading": "Qual canal escolher",
         "paragraphs": [
-          "Pelo preço de tabela, o site com o cupom é a compra mais em conta e a única com a troca pelo portal da marca; o Mercado Livre só passa à frente em dia de promoção.",
-          "**Menor preço sem promoção:** site oficial, com o MAUAD. É também o canal em que a política de troca da marca vale sem ressalva.",
+          "Nos preços comparados, o site com MAUAD tem o menor preço do produto antes do frete e a troca pelo portal da marca. Para decidir o canal, confira promoção, entrega e total no dia da compra.",
+          "**Menor preço de produto na tabela, antes do frete:** site oficial com MAUAD. A troca dessa compra segue o portal da marca.",
           "**Dia de promoção:** confira a loja oficial do Mercado Livre pelo botão abaixo antes de fechar; com desconto do produto e cupom da loja somados, ela pode ficar abaixo do site.",
           "**Prefere a Amazon:** compre da loja da Toda Up, enviada pela Amazon, e não do vendedor de fora do mesmo anúncio.",
           "**Outro marketplace:** compre só da loja oficial da marca; de outro vendedor, a troca e a garantia ficam com ele.",
           "**Quer ver antes de levar:** a loja parceira mais perto, depois de chamar no WhatsApp.",
           "**Drogasil e Droga Raia:** só se já estiver lá; há uma variação, sem estoque."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria a Fita Up do site oficial com o cupom. Vale conferir e comparar o preço no Mercado Livre e na Amazon, mas normalmente é o site que dá o melhor custo-benefício.",
+        "emphasis": "Se fosse para a minha casa, eu começaria pelo site oficial com MAUAD. Antes de fechar, compararia o total com frete e a previsão de entrega com a loja oficial no Mercado Livre e a Toda Up na Amazon.",
         "links": [
           {
             "label": "Ver no Mercado Livre",
@@ -189115,9 +189111,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Fita Up onde comprar? No site oficial da Toda Up, com o cupom, e também na loja oficial do Mercado Livre, na Amazon, na Drogasil e em lojas parceiras. O capítulo \"Onde a Fita Up é vendida hoje\" mostra o vendedor de cada um.",
+          "Fita Up onde comprar? No site oficial da Toda Up, com o cupom, e também na loja oficial do Mercado Livre, na Amazon, na Drogasil e em lojas parceiras. O capítulo \"Onde a Fita Up é vendida\" mostra o vendedor de cada um.",
           "Fita Up original no Mercado Livre? Sim, quando o vendedor é a loja oficial Fita Up, com o selo de loja oficial; revendedores de fora são outra coisa. O capítulo \"Fita Up original\" explica o que conferir.",
-          "Fita Up tem na Drogasil? Tem uma variação, vendida pela própria Fita UP, mas sem estoque nas duas redes hoje. O capítulo \"Onde a Fita Up é vendida hoje\" traz o resto.",
+          "Fita Up tem na Drogasil? Havia uma variação vendida pela própria Fita UP, sem estoque na Drogasil e na Droga Raia. Confira a disponibilidade atual no anúncio.",
           "Fita Up tem loja física? Tem, nas lojas parceiras que a marca lista no localizador. O capítulo \"Fita Up perto de mim\" diz como achar a mais próxima."
         ]
       }
@@ -189675,7 +189671,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up ou Lib: formato e tamanho",
         "paragraphs": [
-          "O que separa as duas é como você acerta o tamanho. A Fita Up vem em três larguras, escolhidas pelo número do sutiã: P até o 44, M até o 48 e G até o 54. A Lib é um rolo de 9 cm x 5 m que você corta na medida do decote; a página da Drogasil não diz para quais tamanhos de busto ele serve. O passo a passo de colar e tirar a Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+          "O que separa as duas é como você acerta o tamanho. A Fita Up vem em três larguras, escolhidas pelo número do sutiã: P até o 44, M até o 48 e G até o 54. O FAQ da marca menciona até o 52, então confirme sua numeração com a loja antes de comprar. A Lib é um rolo de 9 cm x 5 m que você corta na medida do decote; a página da Drogasil não diz para quais tamanhos de busto ele serve. O passo a passo de colar e tirar a Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -189686,7 +189682,7 @@ export const reviewsData: unknown[] = [
           "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         },
         "postParagraphs": [
-          "A Lib pede mais atenção ao relógio: a página da Drogasil manda tirar a fita antes do limite, porque passar dele pode irritar a pele, e não indica o uso em gestantes, lactantes ou peles sensíveis. Os protetores de mamilo já vêm na caixa da Lib; na Fita Up, o passo a passo pede o protetor antes de colar. Em qualquer uma das duas, teste a fita antes numa área pequena da pele."
+          "A Lib pede mais atenção ao relógio: a página da Drogasil manda tirar a fita antes do limite de dez horas, porque passar dele pode irritar a pele, e desaconselha o uso em gestantes, lactantes ou peles sensíveis. Os protetores de mamilo já vêm na caixa da Lib; na Fita Up, o passo a passo pede o protetor antes de colar. Em qualquer uma das duas, teste a fita antes numa área pequena da pele."
         ],
         "comparisonTable": {
           "caption": "Preços de 05/11. O da Lib é o da Drogasil, sem promoção.",
@@ -189804,16 +189800,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do tecido. A Tech T-Shirt da Insider é de modal, com garantia de cor de 2 anos; a Camiseta Minimal é de algodão egípcio com elastano e tem 30 dias para trocar. Com o cupom da Insider, a Tech fica praticamente no preço da Tech Modal da Minimal, e o quadro por perfil diz o resto."
+          "Entre as duas de modal, a Tech T-Shirt da Insider tem garantia de cor e, com cupom, fica quase no preço da Tech Modal da Minimal. Entre Core e Camiseta Minimal, a escolha é viscose ou algodão com elastano. A Minimal Club dá mais prazo para trocar por tamanho."
         ]
       },
       {
-        "heading": "Tecido: modal da Insider ou algodão da Minimal",
+        "heading": "Tecido: modal, viscose e algodão",
         "paragraphs": [
-          "O que separa as quatro camisetas é a fibra, e as duas marcas a publicam na página do produto. No primeiro par, as duas são modal com elastano, em misturas quase iguais: parece a mesma fibra, mas é outra peça. No segundo, a diferença é de fibra: a Core é viscose, a Camiseta Minimal é algodão egípcio, as duas com um pouco de elastano.",
+          "Tech e Tech Modal usam modal com elastano em proporções próximas, com exceção da Tech índigo, que também leva viscose. A semelhança de composição não permite concluir que tenham o mesmo toque, caimento ou durabilidade. No outro par, a fibra principal muda: a Core usa viscose e a Camiseta Minimal usa algodão egípcio, ambas com elastano.",
           "A Insider chama a Core de a mais encorpada da linha, mas nenhuma das duas lojas publica o peso do tecido em g/m², então a comparação fica na descrição.",
           "Na cor índigo, a Tech muda de mistura: a página lista 62% modal, 30% viscose e 8% elastano. Vale conferir a cor antes de comprar.",
-          "Na dúvida entre as duas fibras, decida pela lavagem: o modal da Tech vem com garantia de cor por escrito; a Minimal não publica prazo de cor."
+          "Se a preocupação é desbotamento, a Tech tem uma garantia de cor com prazo e condições publicados. Essa garantia pertence à peça; a composição em modal, sozinha, não assegura conservação da cor."
         ]
       },
       {
@@ -189822,40 +189818,40 @@ export const reviewsData: unknown[] = [
           "São quatro peças, em dois pares: a Tech contra a Tech Modal, e a Core contra a Camiseta Minimal."
         ],
         "comparisonTable": {
-          "caption": "Preço no cartão lido na Insider e na Minimal em 05/11/2026. O Pix muda nas duas lojas e não entra na conta.",
+          "caption": "Preços no cartão em 05/11/2026. Valores com cupom calculados para uma camiseta, sem frete e sem Pix, quando o desconto se aplica ao item.",
           "headers": [
             "Modelo",
             "Tecido",
-            "Preço no cartão",
+            "Preço no cartão e com cupom",
             "Troca",
             "Garantia ou promessa"
           ],
           "rows": [
             [
               "[Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y)",
-              "92% TENCEL modal, 8% elastano",
-              "R$ 129 (de R$ 169)",
+              "92% TENCEL modal, 8% elastano; na cor índigo: 62% modal, 30% viscose e 8% elastano",
+              "R$ 129 (de R$ 169); R$ 109,65 com EMCASACOMCECILIA",
               "21 dias corridos por insatisfação; 180 dias para defeito",
               "Garantia de cor de 2 anos; antiodor (promessa da marca)"
             ],
             [
               "Minimal Tech Modal",
               "91% modal, 9% elastano",
-              "R$ 109,90",
+              "R$ 109,90; cupom da Insider não se aplica",
               "30 dias corridos; 90 dias para defeito",
               "Sem garantia de cor com prazo publicada"
             ],
             [
               "[Core T-Shirt](https://creators.insiderstore.com.br/c5rL74B)",
               "94% viscose, 6% elastano",
-              "R$ 179 (de R$ 189)",
+              "R$ 179 (de R$ 189); R$ 152,15 com EMCASACOMCECILIA",
               "21 dias corridos por insatisfação; 180 dias para defeito",
               "Maior gramatura da linha, segundo a loja; tamanho já leva 2 cm a mais no comprimento"
             ],
             [
               "Minimal Camiseta Minimal",
               "93% algodão egípcio, 7% elastano",
-              "R$ 169,90",
+              "R$ 169,90; cupom da Insider não se aplica",
               "30 dias corridos; 90 dias para defeito",
               "Sem garantia de cor com prazo publicada"
             ]
@@ -189868,8 +189864,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tech contra Tech Modal: modal com modal",
         "paragraphs": [
-          "Entre as duas de modal, a garantia de cor decide: só a Tech a tem por escrito, e com o cupom as duas saem na mesma faixa. O antiodor da Tech é promessa da marca, sem número de lavagens.",
-          "Para quem quer modal com garantia de cor, a Tech é a escolha; as condições estão em Troca e garantia, mais abaixo. Se o cupom não entrar no item, a Tech Modal é a mais barata no cartão."
+          "Entre as duas de modal, a garantia de cor favorece a Tech se esse for seu critério: só ela tem prazo publicado entre as duas peças comparadas. Com o cupom, os preços ficam próximos. O antiodor da Tech é promessa da marca, sem número de lavagens.",
+          "Para quem quer modal com garantia de cor, a Tech é a escolha; as condições estão em Troca e garantia, mais abaixo. Nos preços da tabela, se o cupom não entrar no item, a Tech Modal custa menos entre as duas no cartão."
         ],
         "images": [
           {
@@ -189908,7 +189904,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Core contra Camiseta Minimal: as premium",
         "paragraphs": [
-          "Entre as premium, a fibra decide, não o preço: a Core é para quem quer a camiseta mais encorpada da Insider e aceita viscose; quem quer algodão fica na Camiseta Minimal, e aí o cupom não muda a escolha.",
+          "A Core é para quem busca a peça que a Insider descreve como a mais encorpada da linha e aceita viscose. Se você prefere algodão com elastano, escolha a Camiseta Minimal. Se a fibra for indiferente, compare o preço com cupom e o prazo de troca das duas.",
           "A página da Core diz que o tamanho já considera 2 cm a mais no comprimento, por causa do encolhimento. Ao comparar com outra marca, olhe as medidas da peça, não só o número da etiqueta."
         ],
         "images": [
@@ -189927,8 +189923,8 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Core",
               "url": "https://creators.insiderstore.com.br/c5rL74B",
-              "howTo": "Modelagem regular e textura leve: serve como peça única, sem camada por cima.",
-              "occasion": "Casa e passeio em dias quentes.",
+              "howTo": "Use como peça única, sem camada por cima.",
+              "occasion": "Casa, passeio e compromissos informais.",
               "pairsWith": [
                 {
                   "label": "Bermuda Future Shorts",
@@ -189945,15 +189941,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço com o cupom",
         "paragraphs": [
-          "Conta nossa, pelos preços da tabela, com uma camiseta, no cartão, sem frete e sem Pix: a Tech sai por R$ 109,65 com o cupom (15% de R$ 129 são R$ 19,35), R$ 0,25 abaixo da Tech Modal; a Core sai por R$ 152,15, R$ 17,75 abaixo da Camiseta Minimal. No primeiro par a diferença são centavos; no segundo existe, mas o tecido é outro.",
-          "O cupom EMCASACOMCECILIA dá 15% na loja online da Insider, sem valor mínimo e um por pedido. Não vale na loja física nem soma com outro cupom, e a loja exclui lançamentos. A marcação de lançamento no catálogo nem sempre bate com o que o carrinho aplica, então confira se o desconto entrou em cada item.",
-          "O Pix muda nas duas lojas, então confira o preço do dia nos dois sites antes de decidir. A Insider dá frete grátis acima de R$ 399, depois do desconto; a Minimal, acima de R$ 500. Regras e o passo a passo do código estão no [cupom Insider](/cupons/insider)."
+          "Com 15% de desconto sobre os preços da tabela, para uma camiseta no cartão, sem frete e sem Pix, a Tech fica R$ 0,25 abaixo da Tech Modal; a Core, R$ 17,75 abaixo da Camiseta Minimal. A primeira diferença é de centavos; a segunda pode pesar se você aceita tanto viscose quanto algodão.",
+          "O cupom EMCASACOMCECILIA dá 15% na loja online da Insider, sem valor mínimo e um por pedido. Não vale na loja física, não soma com outro cupom e não se aplica a pedido pago com gift card. A regra da loja exclui lançamentos, mas a marcação do catálogo nem sempre coincide com a aplicação no carrinho. Confira a linha do código em cada item antes de pagar.",
+          "Confira o preço no Pix nas duas lojas antes de decidir. Na Insider, o cupom soma com o desconto do Pix, salvo restrição da promoção. A Insider oferece frete grátis acima de R$ 399, depois do desconto; a Minimal, acima de R$ 500. Compare o total com entrega para o seu CEP."
+        ],
+        "links": [
+          {
+            "label": "cupom Insider",
+            "href": "/cupons/insider"
+          }
         ]
       },
       {
         "heading": "Troca e garantia",
         "paragraphs": [
-          "Se a dúvida é o tamanho, a Minimal dá mais prazo; se a dúvida é a cor, só a Insider tem garantia com prazo. A Insider troca de graça. O arrependimento vale por 7 dias úteis; a troca por insatisfação, por 21 dias corridos, com a peça sem uso, com etiqueta e sem lavagem; e o defeito, por 180 dias, com fotos. O pedido sai pelo Portal de Trocas.",
+          "Se a dúvida é o tamanho, a Minimal dá mais prazo para trocar. Para desbotamento, só a Tech tem garantia de cor com prazo publicado. A Insider troca de graça: por insatisfação, são 21 dias corridos, com a peça sem uso, com etiqueta e sem lavagem; o pedido sai pelo Portal de Trocas.",
           "A garantia de cor da Tech é de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida; a página da Tech diz a partir de que compra ela vale.",
           "A Minimal dá 30 dias corridos para arrependimento, troca por tamanho, produto errado ou expectativa não atendida, e 90 dias para defeito. A loja paga o frete da devolução e da primeira troca."
         ]
@@ -189961,23 +189963,24 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher por perfil",
         "paragraphs": [
-          "Pelos números da tabela, o tecido decide e o preço quase não decide: no primeiro par, o cupom deixa as duas na mesma faixa."
+          "Entre Tech e Tech Modal, o cupom deixa o preço próximo e a garantia pode decidir. Entre Core e Camiseta Minimal, pese a diferença de preço junto da sua preferência por viscose ou algodão."
         ],
         "bullets": [
           "Quer modal, com garantia de cor por escrito: Tech T-Shirt, com o cupom.",
           "Quer algodão com elastano e mais prazo para trocar por tamanho: Camiseta Minimal.",
           "Quer a peça que a Insider chama de mais encorpada, de viscose: Core, que com o cupom sai R$ 17,75 abaixo da Camiseta Minimal.",
-          "Olha só o preço: Tech Modal da Minimal, a mais barata sem cupom nenhum; com o cupom a Tech empata, e aí a garantia desempata."
+          "Prioriza o menor preço entre as quatro no cartão: Tech Modal sem cupom; com EMCASACOMCECILIA aplicado, a Tech fica R$ 0,25 abaixo, antes do frete."
         ],
-        "emphasis": "O Bruno preferia levar a Tech T-Shirt: com o cupom, ela sai no preço da Tech Modal e traz garantia de cor por escrito, e o modal é um tecido ótimo para o verão e para lugares quentes o ano todo."
+        "emphasis": "O Bruno preferia levar a Tech T-Shirt: nos preços comparados, com o cupom aplicado, ela fica quase no preço da Tech Modal e traz garantia de cor por escrito. A garantia de dois anos depende dos cuidados e das condições descritos acima."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é melhor, Insider ou Minimal Club? Depende do que pesa: tecido e garantia de cor apontam para a Insider; prazo de troca por tamanho aponta para a Minimal. O quadro por perfil resolve.",
+          "Qual é melhor, Insider ou Minimal Club? Entre as camisetas comparadas, a Tech da Insider tem garantia de cor com prazo; a Minimal Club oferece mais tempo para troca por tamanho e uma opção de algodão com elastano. As duas marcas têm camiseta de modal. Escolha pelo critério que pesa para você.",
           "Minimal Club vale a pena? Vale se o tamanho é a dúvida, porque a troca dela tem mais prazo e o frete da devolução fica por conta da loja. A seção de troca mostra as regras de cada uma.",
           "Camiseta Minimal ou Insider, qual a melhor? Pelo tecido, a Camiseta Minimal é algodão egípcio com elastano; a Insider tem Tech de modal e Core de viscose. Quem quer algodão fica na Minimal; quem quer modal com garantia de cor fica na Insider.",
-          "Camiseta Insider desbota? A Tech tem garantia de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida, para compras feitas a partir da data dos termos da loja. A página da Core não traz essa garantia."
+          "Camiseta Insider desbota? A Tech tem garantia de 2 anos contra desbotamento, com uma lavagem por semana e a etiqueta seguida, para compras feitas a partir da data dos termos da loja. A página da Core não traz essa garantia.",
+          "Qual é o cupom da Insider? EMCASACOMCECILIA dá 15% de desconto nos itens elegíveis da loja online; confira as exclusões e a aplicação por item antes de pagar."
         ]
       }
     ],
@@ -189985,10 +189988,10 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Leve a Tech T-Shirt se quer modal com garantia de cor por escrito e o preço com o cupom, sem trocar de tecido.",
         "Leve a Camiseta Minimal se prefere algodão com elastano e quer mais prazo para trocar por tamanho.",
-        "Leve a Core se quer a peça que a Insider chama de mais encorpada, de viscose, e ela sai abaixo da Camiseta Minimal com o cupom."
+        "Leve a Core se quer a peça que a Insider chama de mais encorpada e prefere viscose. Nos preços comparados, ela custa menos que a Camiseta Minimal com o cupom aplicado."
       ],
       "skipIf": [
-        "Passe na Tech Modal da Minimal se a garantia de cor pesa: a única garantia de cor com prazo é a da Insider.",
+        "Passe na Tech Modal da Minimal se você exige garantia de cor com prazo publicado: entre as duas de modal, essa condição está documentada para a Tech T-Shirt da Insider.",
         "Passe na Core se o que você quer é algodão: ela é de viscose, com 6% de elastano."
       ]
     },
@@ -190034,7 +190037,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Pelo preço de hoje, o Whey Pro e o 100% Whey Refil saem mais baratos por 100 g de proteína; o Top Whey 3W entrega dose maior, e o Super Whey é outro produto, com carboidrato.",
+    "description": "Whey Pro e 100% Whey Refil lideram o custo por proteína no quadro comparado. Veja como Top Whey 3W, IsoWhey e Super Whey diferem em porção, composição e preço.",
     "metaDescription": "Com o cupom MAX10EMCASACOMCECILIA, até 10% OFF na Max Titanium. 100%, Pro, 3W, IsoWhey e Super Whey comparados por dose e preço por 100 g de proteína.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
@@ -190046,24 +190049,24 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Leve o Whey Pro ou o 100% Whey Refil se você quer o menor preço por grama de proteína.",
-        "Leve o Top Whey 3W + Performance de 1,8 kg se você quer uma dose maior por copo e aceita pagar mais por grama.",
-        "Leve o IsoWhey se você quer o mínimo de carboidrato e gordura por dose."
+        "Compare Whey Pro e 100% Whey Refil se você prioriza custo por proteína: eles têm os menores valores no quadro. Confira o preço atual antes de escolher.",
+        "Compare o Top Whey 3W + Performance se quer mais proteína na mesma porção de pó que as versões + Sabor e + Natural. Entre 900 g e 1,8 kg, confira o rótulo do sabor e o custo por proteína.",
+        "Compare o IsoWhey se você procura proteína isolada e menos carboidrato que o 100% Whey na mesma porção de pó, aceitando pagar mais por proteína."
       ],
       "skipIf": [
-        "Passe na Max se você tem intolerância à lactose: nenhum whey da linha é zero lactose.",
-        "Passe no Super Whey se você compara proteína por dose: são 30 g em 120 g, com 79 g de carboidrato por porção."
+        "Passe nos produtos comparados se você procura zero lactose: os rótulos declaram lactose.",
+        "Passe no Super Whey se você prioriza maior proporção de proteína no pó: ele tem a menor proporção entre as opções do quadro e mais carboidrato que proteína."
       ]
     },
     "pros": [
       "Tabela nutricional publicada na página de cada whey, com a proteína por dose",
-      "O 100% Whey Refil e o Whey Pro estão entre os wheys mais baratos por grama de proteína",
+      "Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada entre as opções do quadro",
       "Uma linha para cada tipo de proteína: concentrado, isolado e o blend do Top Whey 3W",
       "Cupom de até 10% que soma com as promoções do site e vale em todas as formas de pagamento"
     ],
     "cons": [
-      "A Max não vende whey zero lactose, e o isolado também contém lactose",
-      "O Whey Pro tem só 15 g de proteína por dose, bem menos que os outros",
+      "Os wheys comparados declaram lactose, inclusive o IsoWhey",
+      "O Whey Pro tem menor proporção de proteína no pó que o 100% Whey, o Top Whey 3W e o IsoWhey comparados",
       "O cupom varia por produto e não chega a 10% em todo item"
     ],
     "cta": {
@@ -190090,30 +190093,30 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Max Titanium comprar",
         "paragraphs": [
-          "Para pagar menos por grama de proteína, o Whey Pro e o 100% Whey Refil ficam na frente no preço de hoje. Para dose maior, o Top Whey 3W; para isolado, o IsoWhey; o Super Whey é outro produto, com carboidrato. Os preços mudam, e a tabela de preço traz a conta do dia."
+          "No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Top Whey 3W reúne três tipos de proteína do soro, IsoWhey é isolado e Super Whey combina proteínas e carboidrato. A escolha depende da composição e do preço; compare as porções em uma mesma quantidade de pó."
         ]
       },
       {
         "heading": "Cinco nomes, três tipos de proteína",
         "paragraphs": [
-          "A Max vende cinco wheys com nomes diferentes, e o rótulo diz o que muda entre eles. O 100% Whey e o Whey Pro são concentrados do soro do leite (WPC). O IsoWhey é isolado (WPI), e o Top Whey 3W junta concentrado, isolado e hidrolisado (WPH) numa mesma fórmula.",
-          "Isolado tem menos carboidrato por dose: 2,3 g no IsoWhey, contra 5,8 g no 100% Whey. O Super Whey não entra nessa lista. Ele é uma mistura com carboidrato, colágeno e frutose, e tem capítulo próprio.",
+          "O guia compara cinco linhas da Max. O 100% Whey e o Whey Pro são concentrados do soro do leite (WPC). O IsoWhey é isolado (WPI), e o Top Whey 3W reúne concentrado, isolado e hidrolisado (WPH). As apresentações e porções não são iguais.",
+          "O IsoWhey tem menos carboidrato que o 100% Whey nas porções de mesmo peso comparadas aqui. O Super Whey combina proteínas do soro, colágeno, maltodextrina e frutose; sua porção maior pede atenção ao comparar a composição.",
           "Para os outros produtos da marca, o guia geral está em [Max Titanium é boa?](/reviews/max-titanium-e-boa)."
         ]
       },
       {
         "heading": "Proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Conta nossa: a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Quanto menor o último número, mais barata a proteína. A proteína por dose é a da tabela nutricional de um sabor de cada pote."
+          "Conta nossa: a proteína estimada na embalagem é o peso líquido ÷ o peso da porção × a proteína por porção. O preço por 100 g de proteína é o preço ÷ essa quantidade estimada × 100. Quanto menor o resultado, menor o custo por proteína declarada; as bases e a hipótese estão na legenda."
         ],
         "comparisonTable": {
-          "caption": "Preço de venda de 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando é outro. Super Whey: porção de 120 g, da tabela da loja.",
+          "caption": "Preços de venda de 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porções e proteínas das tabelas nutricionais de cada sabor; Super Whey: baunilha, porção de 120 g. No Performance de 1,8 kg, a conta usa a porção do rótulo de 900 g (32 g de proteína em 40 g): confira a tabela nutricional do sabor. O custo considera a proteína total declarada, inclusive as diferentes fontes do Super Whey.",
           "headers": [
             "Produto",
             "Dose: proteína por dose",
             "Proteína no pote",
             "Preço de venda",
-            "R$ por 100 g de proteína"
+            "R$ por 100 g de proteína declarada"
           ],
           "rows": [
             [
@@ -190161,7 +190164,7 @@ export const reviewsData: unknown[] = [
             [
               "[Top Whey 3W + Performance 1,8 kg](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-18kg-max-titanium/p)",
               "40 g: até 32 g",
-              "1.440 g",
+              "1.440 g (pela porção de 900 g)",
               "R$ 519,86",
               "R$ 36,10"
             ],
@@ -190182,15 +190185,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os números mudam de um dia para o outro, e promoções de novembro podem mexer neles: confira o preço no botão de compra de cada produto. O Whey Pro só fica abaixo do refil porque está em promoção, e a dose dele tem 15 g de proteína, contra 21 g no 100% Whey: para pagar menos por copo com mais proteína, o refil continua sendo a referência.",
-          "O Top Whey 3W + Sabor só chegou perto dos potes porque está em promoção: no preço de lista, sai a R$ 48,63 por 100 g de proteína."
+          "Nos valores do quadro, a porção do Whey Pro custa menos que a do refil, mas também entrega menos proteína e usa mais pó. Para comparar o custo da mesma quantidade de proteína declarada, use a última coluna. Esse cálculo não mede a qualidade das fórmulas.",
+          "A promoção registrada também aproximou o Top Whey 3W + Sabor do 100% Whey Pote em custo por proteína. Se o preço mudar, a ordem pode mudar junto."
         ]
       },
       {
         "heading": "100% Whey: pote ou refil",
         "paragraphs": [
-          "Entre pote e refil, leve o refil: a proteína por dose é a mesma, 21 g em 30 g de concentrado do soro, e a diferença é de R$ 14,00 no pote inteiro.",
-          "Serve para quem quer proteína de soro pelo menor preço e aceita lactose. Não escolha se você tem intolerância à lactose, e não escolha se o copo precisa de mais proteína por dose."
+          "Nos valores da tabela, o refil custa R$ 14,00 menos que o pote, com a mesma quantidade de proteína na porção comparada. Para essas duas embalagens, o refil é a escolha de menor custo; confira se o preço e o rótulo do sabor escolhido mantêm essa vantagem.",
+          "O refil combina menor custo que o pote com maior proporção de proteína no pó que o Whey Pro comparado. Seu rótulo declara lactose, por isso ele não atende à busca por uma opção declarada zero lactose."
         ],
         "image": {
           "src": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-whey-refil.webp",
@@ -190203,8 +190206,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Top Whey 3W: a dose de 40 g e três versões",
         "paragraphs": [
-          "O Top Whey 3W é a escolha de quem quer mais proteína por copo: a dose é de 40 g, com concentrado, isolado e hidrolisado do soro. As versões mudam a proteína por dose: a + Sabor tem 25 g, a + Natural, 26 g, e a + Performance, de 31 g a 32 g, com 11 vitaminas e 6 minerais, segundo a descrição da loja, que também diz que a + Natural usa edulcorantes naturais, estévia e taumatina.",
-          "Serve para quem quer uma dose maior por copo e topa pagar mais por grama de proteína. Entre as versões Performance, o pote de 1,8 kg sai quase R$ 2 mais barato por 100 g de proteína que o de 900 g: é o tamanho que compensa para quem já sabe que vai continuar. A + Natural é a mais cara da linha por grama de proteína; só vale para quem faz questão do adoçante natural."
+          "As versões do Top Whey 3W combinam concentrado, isolado e hidrolisado do soro, mas têm proporções de proteína diferentes. Nas porções comparadas, a + Performance tem mais proteína que a + Sabor e a + Natural. Segundo a descrição da loja, a + Performance traz 11 vitaminas e 6 minerais, e a + Natural usa estévia e taumatina. Esses ingredientes ajudam a distinguir as fórmulas; não comprovam qualidade superior.",
+          "Para quem já escolheu a + Performance, o pote de 1,8 kg exige maior desembolso. Compare os tamanhos pelo preço e pelo rótulo do mesmo sabor: nos valores da tabela, o de 1,8 kg sai quase R$ 2 mais barato por 100 g de proteína. A + Natural entra pela preferência por estévia e taumatina; no preço registrado, não é a opção de menor custo por proteína."
         ],
         "images": [
           {
@@ -190219,22 +190222,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey Pro: 15 g por dose, pote de 1 kg",
         "paragraphs": [
-          "O Whey Pro é o pote barato que entrega pouca proteína por copo: concentrado do soro, 1 kg, com 15 g de proteína e 19 g de carboidrato na dose de 40 g. É o pote mais barato da linha e o menor preço por 100 g de proteína da tabela, mas em promoção: no preço de lista ele passa o refil.",
-          "Serve para quem quer pote grande e preço baixo por grama de proteína, e não se importa com o carboidrato extra. Não serve para quem compara proteína por dose: são 15 g, a menor da linha."
+          "O Whey Pro combina embalagem de 1 kg e o menor custo por proteína na promoção registrada. Sua porção tem mais carboidrato que proteína: são 19 g de carboidrato em 40 g de pó. No preço de lista do quadro, o custo por proteína fica acima do refil.",
+          "O Pro entra na escolha de quem prioriza custo por proteína e aceita essa proporção de carboidrato. Para obter mais proteína na mesma quantidade de pó, as outras opções do quadro, exceto o Super Whey, têm proporção maior."
         ]
       },
       {
         "heading": "IsoWhey: o isolado, com menos carboidrato",
         "paragraphs": [
-          "O IsoWhey é proteína isolada do soro (WPI): 26 g em 30 g, com 2,3 g de carboidrato e 0,5 g de gordura na dose, os menores números da tabela.",
-          "Serve para quem quer o mínimo de carboidrato e gordura por dose e aceita pagar por isso. Isolado não quer dizer sem lactose: o rótulo diz \"contém lactose\"."
+          "O IsoWhey é proteína isolada do soro (WPI). Na porção de 30 g comparada, o rótulo declara 2,3 g de carboidrato e 0,5 g de gordura. Ele tem menos carboidrato que o 100% Whey na mesma quantidade de pó.",
+          "É uma opção para quem procura proteína isolada e menos carboidrato que o 100% Whey, aceitando o custo maior por proteína do quadro. Isolado não quer dizer sem lactose: o rótulo diz \"contém lactose\"."
         ]
       },
       {
-        "heading": "Super Whey: não é whey de dose baixa",
+        "heading": "Super Whey: porção de 120 g e mistura com carboidrato",
         "paragraphs": [
-          "O Super Whey é para quem quer uma mistura com carboidrato, não para quem compara proteína por dose. A loja informa: porção de 120 g, com 460 kcal, 79 g de carboidrato, 42 g de açúcares totais (3,6 g adicionados), 2,7 g de gordura e 30 g de proteína. O pote de 900 g dá cerca de 7,5 porções.",
-          "Por isso o Super Whey não entra na régua de proteína por dose: são 30 g em 120 g, não 21 g em 30 g, e a maior parte do resto da porção é carboidrato. Por 100 g de proteína, ele fica entre os mais caros da tabela, perto do IsoWhey, mesmo sendo o pote mais barato. Na lista de ingredientes: proteína concentrada do soro, maltodextrina, colágeno hidrolisado, frutose e proteína isolada do soro. Contém lactose e derivados de soja."
+          "O Super Whey entra na escolha de quem procura uma mistura com mais carboidrato que proteína. A loja informa: a porção de 120 g tem 460 kcal, 79 g de carboidrato, 42 g de açúcares totais (3,6 g adicionados), 2,7 g de gordura e 30 g de proteína. Essa composição é a do sabor baunilha; confira a embalagem do sabor escolhido.",
+          "Para compará-lo, use a mesma quantidade de pó ou o custo por proteína declarada. Ele tem a menor proporção de proteína no pó entre as opções do quadro, embora seja a embalagem de menor preço. Os ingredientes incluem proteína concentrada do soro, maltodextrina, colágeno hidrolisado, frutose e proteína isolada do soro. Assim, a proteína total declarada não corresponde apenas à proteína do soro. Contém lactose e derivados de soja."
         ],
         "images": [
           {
@@ -190254,37 +190257,37 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Zero lactose: nenhum whey da Max",
+        "heading": "Os wheys comparados declaram lactose",
         "paragraphs": [
-          "Não. Todos os wheys da Max declaram \"contém lactose\" no rótulo, e o isolado também. O \"Zero Lactose\" do menu é o hipercalórico Mass Titanium 17500, que não é whey."
+          "Todos os wheys do quadro declaram “contém lactose”, inclusive o IsoWhey. A opção “Zero Lactose” do menu é o hipercalórico Mass Titanium 17500, não um dos wheys comparados. Confirme o catálogo e o rótulo atuais antes de comprar."
         ]
       },
       {
         "heading": "Cupom MAX10EMCASACOMCECILIA: até 10%, por produto",
         "paragraphs": [
-          "O cupom MAX10EMCASACOMCECILIA dá até 10%. O percentual varia por produto e aparece no carrinho: nem todo item chega a 10%. No teste de 26/10, o Top Whey 3W + Sabor em promoção saiu com 8,9% de desconto.",
+          "O cupom MAX10EMCASACOMCECILIA dá até 10%. O percentual varia por produto e aparece no carrinho: nem todo item chega a 10%. Com o Top Whey 3W + Sabor em promoção, o desconto chegou a 8,9%.",
           "O cupom vale em todas as formas de pagamento e soma com as promoções do site. As regras estão em [cupons da Max Titanium](/cupons/max-titanium)."
         ]
       },
       {
         "heading": "Qual whey escolher",
-        "emphasis": "Pelos números da tabela, para pagar menos por grama de proteína a escolha é o Whey Pro, a R$ 29,31 por 100 g hoje, com o 100% Whey Refil logo atrás, a R$ 31,17. Para dose maior, leve o Top Whey 3W + Performance de 1,8 kg.",
+        "emphasis": "Pelos valores do quadro, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre as versões Top Whey 3W comparadas, a + Performance tem maior proporção de proteína no pó; o pote de 1,8 kg sai mais barato por proteína na tabela. O cupom MAX10EMCASACOMCECILIA dá até 10%, com percentual variável por produto no carrinho.",
         "bullets": [
-          "Quer o menor preço por grama de proteína e não precisa de dose grande: Whey Pro (15 g por dose) ou 100% Whey Refil (21 g).",
-          "Quer uma dose maior por copo e aceita pagar mais por grama: Top Whey 3W + Performance de 1,8 kg, com até 32 g em 40 g.",
-          "Quer o menor carboidrato e gordura por dose e aceita pagar mais: IsoWhey, com 26 g em 30 g.",
-          "Quer uma mistura com carboidrato e não compara por dose: Super Whey, com a tabela de 120 g na frente.",
-          "Tem intolerância à lactose: nenhum whey da Max serve, pelo rótulo. Decida com médico ou nutricionista."
+          "Prioriza custo por proteína: Whey Pro lidera no preço promocional registrado, seguido do 100% Whey Refil. Confira se essa ordem se mantém no carrinho.",
+          "Já escolheu o Top Whey 3W + Performance: o de 1,8 kg sai mais barato por proteína na tabela, com desembolso maior; confira o rótulo do sabor.",
+          "Procura isolado e menos carboidrato que o 100% Whey: IsoWhey, com custo maior por proteína no quadro e declaração de lactose no rótulo.",
+          "Procura uma mistura com mais carboidrato que proteína: considere o Super Whey pela composição. Seu menor preço por embalagem não representa menor custo por proteína.",
+          "Precisa evitar lactose: os rótulos declaram lactose. Decisões sobre intolerância, quantidade de consumo e outras questões de saúde devem ser feitas com médico ou nutricionista."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual whey da Max Titanium compensa mais? Por grama de proteína, o Whey Pro e o 100% Whey Refil, no preço de hoje; por dose, o Top Whey 3W + Performance de 1,8 kg. A tabela do capítulo de preço traz os números.",
-          "Super Whey é whey? Pelo rótulo, é uma mistura com 79 g de carboidrato por porção de 120 g, e a conta de proteína por dose não serve para ele.",
-          "A Max Titanium tem whey zero lactose? Não: todos os wheys da linha declaram \"contém lactose\".",
+          "Qual whey da Max Titanium compensa mais? No quadro comparado, Whey Pro e 100% Whey Refil têm os menores custos por proteína declarada. Entre os tamanhos do Top Whey 3W + Performance, o de 1,8 kg sai mais barato por proteína na tabela; confira o rótulo do sabor.",
+          "Super Whey é whey? Ele contém proteínas do soro, junto com colágeno, maltodextrina e frutose. Compare a composição na mesma quantidade de pó e o custo por proteína declarada; a porção maior não significa maior proporção de proteína.",
+          "A Max Titanium tem whey zero lactose? Os wheys do quadro declaram “contém lactose”. Confirme o catálogo atual e o rótulo da versão que pretende comprar.",
           "O cupom da Max dá 10% em tudo? Não: o MAX10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto.",
-          "E o whey Dr. Peanut? A Max também vende o 100% Whey Dr. Peanut, pelo mesmo preço do site da Dr. Peanut; o que muda é o cupom, e a comparação está em [whey Dr. Peanut: Max ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium)."
+          "E o whey Dr. Peanut? Para comparar os canais de compra do 100% Whey Dr. Peanut, veja [whey Dr. Peanut: Max ou Dr. Peanut](/reviews/whey-dr-peanut-max-titanium) e confira o preço final com o cupom em cada loja."
         ]
       }
     ]
@@ -190305,7 +190308,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Com a promoção, o Hiper sai mais barato por grama de proteína; o Zero Lactose é o whey que o rótulo declara sem lactose, e o Iso Pro tem a maior dose de proteína.",
+    "description": "Nos preços da tabela, o Hiper lidera em custo por proteína com a promoção. Compare porção e lactose do Pure, Zero Lactose e Iso Pro e confira os valores antes de comprar.",
     "metaDescription": "Com o cupom PRO10EMCASACOMCECILIA, até 10% OFF na Probiótica. 100% Pure, Zero Lactose, Hiper e Iso Pro comparados por dose e preço por 100 g de proteína.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
@@ -190317,25 +190320,25 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Leve o Hiper se a promoção estiver no site e a dose de 40 g couber na sua rotina: é o menor preço por grama de proteína hoje.",
+        "Considere o Hiper se o preço atual mantiver a vantagem por proteína da tabela e a porção de 40 g atender ao que você procura.",
         "Leve o Zero Lactose se você procura um whey com a lactose declarada como ausente no rótulo, lembrando que o aviso cita derivados de leite.",
-        "Leve o Iso Pro se você quer a maior proteína por dose e aceita o maior preço por grama."
+        "Considere o Iso Pro se você procura mais proteína por porção entre os cinco itens comparados e aceita seu custo, o maior por grama nos preços da tabela."
       ],
       "skipIf": [
-        "Passe no Hiper se a conta é o preço de lista: sem a promoção, ele fica atrás do Zero Lactose e do refil.",
-        "Passe no Iso Pro se você compara só o preço por grama, porque ele é o mais caro da linha."
+        "Passe no Hiper se ele estiver no preço de lista: nesse caso, o Zero Lactose e o refil custam menos por proteína.",
+        "Passe no Iso Pro se sua prioridade for o menor custo por proteína e os preços seguirem os da tabela: ele custa mais por grama entre os cinco itens."
       ]
     },
     "pros": [
       "Tabela nutricional de cada pote na página da loja, com a dose e a proteína por porção",
-      "Três potes abaixo de R$ 40 por 100 g de proteína no preço de venda de hoje",
+      "Três opções ficaram abaixo de R$ 40 por 100 g de proteína nos preços de venda da tabela",
       "Zero Lactose com a lactose declarada como ausente no rótulo",
       "Cupom de até 10% que soma com as promoções do site"
     ],
     "cons": [
       "O aviso do Zero Lactose cita derivados de leite",
-      "O Hiper só lidera com a promoção: sem ela, perde a vantagem",
-      "O Iso Pro é o mais caro por grama de proteína da linha"
+      "Na tabela, o Hiper perde a liderança de custo por proteína quando se usa seu preço de lista",
+      "O Iso Pro tem o maior custo por proteína entre as cinco opções comparadas"
     ],
     "cta": {
       "text": "Entre pelo link da parceria e use o cupom PRO10EMCASACOMCECILIA, de até 10% de desconto no site da Probiótica. Confira o desconto de cada item antes de pagar.",
@@ -190361,27 +190364,27 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Probiótica comprar",
         "paragraphs": [
-          "Para pagar menos por grama de proteína, o Hiper, enquanto a promoção durar; para o whey que o rótulo declara sem lactose, o Zero Lactose; para mais proteína por dose, o Iso Pro. A promoção do Hiper pode acabar, e a tabela de preço mostra a conta também com o preço de lista."
+          "Nos preços da tabela, o Hiper tem o menor custo por proteína com a promoção registrada. Zero Lactose declara ausência de lactose; Iso Pro tem mais proteína por porção entre os cinco itens comparados. Confira os preços antes de comprar: a tabela mostra como o preço de lista do Hiper muda a escolha."
         ]
       },
       {
-        "heading": "Cinco potes, dois tipos de proteína",
+        "heading": "Cinco opções, dois tipos de proteína",
         "paragraphs": [
-          "Quatro dos cinco potes são concentrados do soro do leite (WPC): o 100% Pure Whey pote, o refil, o Zero Lactose e o Hiper. O Iso Pro é isolado (WPI). O tipo muda o que vai no copo; o que decide a compra é o preço por grama de proteína e a lactose declarada.",
+          "São cinco opções de compra: pote e refil do 100% Pure Whey, Zero Lactose, Hiper e Iso Pro. As quatro primeiras usam concentrado do soro do leite (WPC); o Iso Pro usa isolado (WPI). Compare a porção, a lactose declarada e o custo por proteína da tabela.",
           "Para a marca inteira, o guia é [Probiótica é boa?](/reviews/probiotica-e-boa)."
         ]
       },
       {
         "heading": "Proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "Conta nossa: a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100. Quanto menor o último número, mais barata a proteína."
+          "Conta nossa: proteína estimada na embalagem = peso ÷ porção × proteína declarada por porção. O preço por 100 g de proteína = preço ÷ proteína estimada na embalagem × 100. Quanto menor o resultado, menor o custo por proteína declarada."
         ],
         "comparisonTable": {
-          "caption": "Preço de venda em 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando é outro. Proteína por dose da tabela nutricional de cada pote.",
+          "caption": "Preços de venda em 5 de novembro de 2026, sem cupom e sem Pix. Entre parênteses, o preço de lista quando diferente. Porção e proteína declarada vêm das tabelas nutricionais: a conta usa 20 g para Pure pote e refil e 21 g para Zero Lactose, por porção de 30 g. O total de proteína por embalagem é estimado.",
           "headers": [
             "Produto",
-            "Dose: proteína por dose",
-            "Proteína no pote",
+            "Porção: proteína declarada",
+            "Proteína estimada na embalagem",
             "Preço de venda",
             "R$ por 100 g de proteína"
           ],
@@ -190424,15 +190427,15 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A promoção é o que põe o Hiper na frente; sem ela, ele sai atrás do Zero Lactose e do refil. Os preços mudam: confira o valor no botão de compra de cada produto.",
-          "O Iso Pro é o mais caro por grama da linha, e não aparece com promoção no site hoje."
+          "A promoção do Hiper pode acabar sem uma data anunciada. Confira os preços antes de comprar e refaça a comparação por 100 g de proteína se os valores mudarem.",
+          "O Iso Pro não aparecia com promoção nos preços da tabela."
         ]
       },
       {
         "heading": "100% Pure Whey: pote ou refil",
         "paragraphs": [
-          "Quem já tem o pote em casa leva o refil: é o mesmo concentrado, com a mesma dose, por R$ 16,84 a menos no pacote inteiro.",
-          "A embalagem da foto declara um grama de proteína a mais por dose que a tabela nutricional: confira a embalagem que chegar.",
+          "Pote e refil do Pure têm a mesma proteína declarada por porção na tabela. O refil custa R$ 16,84 menos por embalagem de 900 g; compare o mesmo sabor e o preço atual antes de escolher.",
+          "A embalagem fotografada declara 21 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 20 g: confira a embalagem que chegar.",
           "Serve para quem quer um concentrado comum e aceita a lactose que o rótulo declara."
         ],
         "image": {
@@ -190449,8 +190452,8 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O que decide o Zero Lactose é a declaração de lactose. A loja informa: \"lactose: não contém\" na página do produto.",
           "O aviso de alergênicos, porém, cita derivados de leite. Sem lactose não é sem leite, e quem tem intolerância à lactose decide com médico ou nutricionista.",
-          "A tabela nutricional traz 21 g de proteína por dose e a embalagem da foto, 22 g: confira a embalagem que chegar.",
-          "Serve para quem quer um whey com lactose declarada como ausente e aceita o preço de um concentrado. Para a dose com mais proteína, o Iso Pro."
+          "A embalagem fotografada declara 22 g de proteína por porção, enquanto a tabela nutricional usada na conta declara 21 g: confira a embalagem que chegar.",
+          "Serve para quem procura um whey com ausência de lactose declarada. Entre os cinco itens da tabela, o Iso Pro tem mais proteína por porção, mas declara lactose."
         ],
         "image": {
           "src": "/images/reviews/probiotica/probiotica-ou-growth-embalagens-whey.webp",
@@ -190464,16 +190467,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hiper 100% Whey: a dose de 40 g e a promoção",
         "paragraphs": [
-          "O que decide o Hiper é a promoção, sobre uma dose de 40 g, a maior da lista. O rótulo diz que ele contém lactose, e a baunilha está esgotada no site hoje: chocolate, cookies & cream e morango têm estoque.",
-          "Serve para quem aceita a dose de 40 g e encontra a promoção no site. Não serve a quem quer whey sem lactose, nem a quem compara sem a promoção."
+          "A porção do Hiper é a maior da tabela, e o rótulo declara lactose. Havia baunilha esgotada; chocolate, cookies & cream e morango tinham estoque. Confira o sabor disponível antes de comprar.",
+          "O Hiper pode ser a escolha pelo custo se a oferta atual mantiver a vantagem por proteína da tabela. Com o preço de lista registrado, ele perde essa vantagem para o Zero Lactose e o refil."
         ]
       },
       {
-        "heading": "Iso Pro: o isolado com a maior dose de proteína",
+        "heading": "Iso Pro: proteína por porção entre as opções comparadas",
         "paragraphs": [
-          "O que decide o Iso Pro é a dose: é o whey da linha com mais proteína por porção, e o isolado (WPI) que o rótulo descreve.",
+          "O Iso Pro usa proteína isolada do soro do leite (WPI). Entre os cinco itens da tabela, tem mais proteína declarada por porção, mesmo com uma porção menor que a do Hiper.",
           "A página diz que contém lactose, e o aviso cita derivados de leite e soja. Não é a opção para quem evita lactose.",
-          "Serve para quem quer a dose mais concentrada e aceita pagar mais por grama de proteína."
+          "Serve para quem procura mais proteína em uma porção de 30 g e aceita o custo por grama, o maior entre os cinco itens nos preços comparados."
         ]
       },
       {
@@ -190485,24 +190488,24 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual whey escolher",
-        "emphasis": "Pelos números da tabela, para pagar menos por grama de proteína a escolha é o Hiper, enquanto a promoção durar: R$ 24,14 por 100 g, bem abaixo dos outros quatro. Sem a promoção, a escolha passa a ser o Zero Lactose, a R$ 38,41 por 100 g.",
+        "emphasis": "Pelos preços da tabela, o Hiper é a escolha para pagar menos por proteína enquanto a promoção durar: R$ 24,14 por 100 g com a promoção. Com o preço de lista dele e os demais preços iguais, o Zero Lactose lidera, a R$ 38,41 por 100 g. Confira os valores antes de comprar.",
         "bullets": [
-          "Quer pagar menos por grama de proteína e aceita a dose de 40 g: Hiper, enquanto a promoção durar.",
+          "Quer pagar menos por proteína: considere o Hiper se o preço atual mantiver a vantagem da tabela e sua porção atender ao que você procura.",
           "Quer um whey que o rótulo declara sem lactose: Zero Lactose, com o aviso de derivados de leite.",
-          "Quer a dose com mais proteína e aceita o maior preço por grama: Iso Pro.",
-          "Já tem o pote em casa: o refil do 100% Pure Whey, que faz a mesma conta por menos."
+          "Quer mais proteína por porção entre os cinco itens comparados: Iso Pro, conferindo se o custo por grama cabe no seu orçamento.",
+          "Já tem o pote em casa: compare o refil do 100% Pure Whey, que custa menos com a mesma proteína declarada por porção na tabela."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O whey da Probiótica é bom? Pelo rótulo, sim: cada pote declara o tipo de proteína e a proteína por dose. O que separa os cinco é o preço por grama e a lactose, na tabela deste guia.",
+          "O whey da Probiótica é bom? O rótulo sozinho não comprova qualidade. Para escolher entre estes cinco itens, compare a proteína declarada por porção, a lactose e o custo por proteína na tabela.",
           "O 100% Pure Whey é concentrado? É: o rótulo e a descrição da loja dizem proteína concentrada do soro do leite (WPC), e o produto contém lactose.",
           "O Zero Lactose serve para quem tem intolerância? O rótulo declara lactose não contém, e o aviso cita derivados de leite. O capítulo do Zero Lactose mostra o que a embalagem diz.",
           "O Iso Pro é zero lactose? Não: a página diz que contém lactose, e o aviso cita derivados de leite e soja.",
           "O Hiper é concentrado? É: proteína concentrada do soro do leite, em dose de 40 g, e o rótulo diz que contém lactose.",
           "O cupom dá 10% em tudo? Não: o PRO10EMCASACOMCECILIA dá até 10%, e o percentual varia por produto. O carrinho mostra o valor de cada item.",
-          "A Probiótica é confiável? É, e os detalhes estão no [guia de confiabilidade da marca](/reviews/probiotica-e-confiavel)."
+          "A Probiótica é confiável? Sim: loja operada pela Supley, CNPJ ativo e reputação Boa no Reclame Aqui. Os detalhes estão no [guia de confiabilidade da Probiótica](/reviews/probiotica-e-confiavel)."
         ]
       }
     ]
@@ -190523,8 +190526,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Insider publica quanto cada linha pode encolher. Aqui, a tabela, como lavar a Tech e a Perfect Top, e o vídeo em que o amarelo e o cheiro de suor saíram sem sabão.",
-    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% na Insider. Veja quanto cada linha pode encolher, como lavar e a mancha e o suor que saíram sem sabão no vídeo.",
+    "description": "Veja os limites de encolhimento da Insider e como lavar. O vídeo mostra a Perfect Top sem o amarelo da axila; percebi que o cheiro também saiu, sem sabão.",
+    "metaDescription": "O cupom EMCASACOMCECILIA dá 15% na Insider. Veja quanto cada linha pode encolher, como lavar e o que percebi ao lavar a Perfect Top sem sabão.",
     "publishedAt": "6 de novembro de 2026",
     "publishedAtISO": "2026-11-06",
     "draft": false,
@@ -190537,13 +190540,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pode encolher: a Insider publica um limite por linha, de 3% na Perfect Top a 8% na Tech. Lave pela etiqueta e escolha o tamanho antes, porque a troca não aceita peça lavada. No vídeo, uma Perfect Top saiu da máquina sem o amarelo da axila e sem o cheiro de suor, sem sabão e sem esfregar."
+          "Pode encolher: a Insider publica limites de 3% na Perfect Top a 8% na Tech. Escolha o tamanho antes de lavar e siga a etiqueta. No vídeo, a Perfect Top aparece sem o amarelo da axila após uma lavagem sem sabão; ao tirar da máquina, percebi que o cheiro de suor também tinha saído."
         ]
       },
       {
         "heading": "Quanto cada linha pode encolher",
         "paragraphs": [
-          "A Perfect Top é a linha que menos pode encolher; a Tech, a Core e a Oversized são as que mais. A tabela traz o limite de cada linha, com a água e a secadora que a etiqueta pede. É o máximo publicado pela marca, não o que a sua peça vai encolher."
+          "Entre as linhas desta tabela, a Perfect Top tem o menor limite publicado; Tech, Core e Oversized têm o maior. São os máximos informados pela Insider, não uma previsão de quanto a sua peça vai encolher. Confira também a água e a secadora permitidas para cada linha."
         ],
         "comparisonTable": {
           "caption": "Limite de encolhimento por linha, na central de ajuda da Insider",
@@ -190644,7 +190647,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que o vídeo mostra",
         "paragraphs": [
           "Usei: a Blusa de Alça The Perfect Top branca, que comprei, com a costura embaixo do braço amarelada e com cheiro de suor. A peça foi para a máquina a 30 °C, sem esfregar e sem sabão nenhum, dentro da sacola de lavar em que a Insider entrega o produto: não precisa comprar outra.",
-          "O vídeo mostra o antes e o depois em tela dividida: depois da lavagem, a peça está branca, sem o amarelo. O cheiro de suor também saiu, sem nenhum produto. No fim, fica o aviso: não é toda roupa que faz isso.",
+          "O vídeo mostra o antes e o depois em tela dividida: depois da lavagem, a peça está branca, sem o amarelo. Depois de lavar, também percebi que o cheiro de suor tinha saído. Não usei nenhum produto. No fim do vídeo, fica o aviso: não é toda roupa que faz isso.",
           "A etiqueta da Perfect Top pede sabão neutro e água abaixo de 30 °C: no dia a dia, siga a etiqueta. O vídeo mostra o que uma lavagem sem sabão fez nessa peça, não um método. Não medi a peça antes e depois, então ele não responde se ela encolheu; o limite da linha está na tabela."
         ],
         "links": [
@@ -190676,16 +190679,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Odor: o cheiro de suor saiu sem produto",
         "paragraphs": [
-          "Na Perfect Top do vídeo, o cheiro de suor saiu na lavagem, sem sabão e sem nenhum produto. É o resultado de uma peça, não uma garantia para todas.",
+          "Na Perfect Top que lavei, também percebi que o cheiro de suor saiu, sem sabão e sem nenhum produto. Essa percepção se refere àquela peça e àquela lavagem; o resultado pode variar.",
           "No papel, a marca só promete antiodor na Tech: a loja diz que o modal segura as bactérias do mau cheiro, e não diz por quantas lavagens isso dura. A página da Perfect Top não fala em antiodor."
         ]
       },
       {
-        "heading": "Trocar depois de lavar não dá",
+        "heading": "Troca por tamanho: prove antes de lavar",
         "paragraphs": [
-          "Peça lavada não volta: a troca por tamanho ou por insatisfação tem 21 dias corridos, e exige a peça sem uso, com a etiqueta e sem sinal de lavagem. O arrependimento vale por 7 dias úteis.",
-          "Então não dá para lavar, ver se encolhe e trocar. O tamanho se escolhe antes, pela tabela de medidas.",
-          "A central não descreve encolhimento como defeito. Se a peça encolher, pergunte ao atendimento pelo WhatsApp antes de contar com a troca. Para uma peça nova, o [cupom Insider](/cupons/insider) vale na loja online. A política de troca inteira está em [Insider Store é confiável?](/reviews/insider-store-e-confiavel)."
+          "Para a troca por tamanho ou insatisfação, a central informa 21 dias corridos e exige a peça sem uso, com etiqueta e sem sinal de lavagem.",
+          "Prove a peça e confira a tabela de medidas antes de lavar. Não conte com a troca por tamanho para testar quanto ela encolhe.",
+          "Se a peça encolher, consulte o atendimento pelo WhatsApp para avaliar o caso. A exigência de peça sem lavagem se refere à troca por tamanho ou insatisfação. A política completa está em [Insider Store é confiável?](/reviews/insider-store-e-confiavel). Se decidir por uma nova peça, veja as condições do [cupom Insider](/cupons/insider) para a loja online."
         ]
       },
       {
@@ -190694,7 +190697,7 @@ export const reviewsData: unknown[] = [
           "Camiseta Insider encolhe? Pode. A Insider publica um limite por linha, e a tabela de “Quanto cada linha pode encolher” traz o de cada uma.",
           "Camiseta Insider encolhe na secadora? A marca só libera a secadora, em baixa temperatura, na Perfect Top e na Oversized; nas outras, a Tech inclusive, ela pede varal à sombra. A tabela do início traz cada linha.",
           "Como lavar camiseta Insider? Depende da linha: a água vai de abaixo de 30 °C a abaixo de 40 °C, e só a Perfect Top e a Oversized aceitam secadora. A Perfect Top e a Tech pedem ciclo delicado, sem alvejante nem amaciante e sem torcer; o passo a passo está nos capítulos de lavagem.",
-          "Como tirar mancha da camiseta Insider? No vídeo, a costura amarela da axila de uma Perfect Top saiu só na máquina, a 30 °C, sem sabão e sem esfregar, e o cheiro de suor também. O capítulo de mancha traz o que a central indica para reduzir.",
+          "Como tirar mancha da camiseta Insider? No vídeo, a costura amarela da axila de uma Perfect Top aparece limpa após a lavagem a 30 °C, sem sabão e sem esfregar. Percebi que o cheiro também saiu. Para o cuidado diário, siga a etiqueta; o capítulo de mancha reúne as orientações da central.",
           "Camiseta Insider mancha de desodorante? Pode amarelar a axila: a marca explica que a mancha vem do suor, da oleosidade e do antitranspirante com alumínio, e não é defeito da peça. As quatro dicas para reduzir estão no capítulo da mancha."
         ]
       }
@@ -190780,10 +190783,10 @@ export const reviewsData: unknown[] = [
     "editorialNote": "Feito com as informações publicadas pela Toda Up; ninguém do site usou a fita. A Toda Up é parceira: podemos receber comissão pelas compras no site.",
     "decision": {
       "takeIf": [
-        "Use a Fita Up se você pode colar em pele limpa e seca e tirar em até 12 horas, ou em até 8 no calor."
+        "Considere a Fita Up se as restrições da marca não se aplicam a você e se você consegue seguir o pré-teste, a aplicação em pele limpa e seca e os limites de até 12 horas, ou até 8 acima de 30 °C."
       ],
       "skipIf": [
-        "Passe se você amamenta, está grávida ou tem a pele irritada: a marca não recomenda o uso.",
+        "Passe se você amamenta, está grávida, tem menos de 18 anos ou tem pele hipersensível, intolerante, queimada ou irritada: a marca não recomenda o uso.",
         "Passe se precisa de algo para piscina ou mar: a marca não fala desse uso para a fita."
       ]
     },
@@ -190811,19 +190814,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Toda Up diz que a cola da Fita Up é hipoalergênica, resistente à água e ao suor, e dura até 12 horas no corpo, ou até 8 no calor. Ela descola mais na pele úmida ou com creme e quando é reaproveitada. A marca não recomenda o uso na amamentação nem na gestação."
+          "Se a Fita Up não cola, confira os cuidados da Toda Up: pele limpa e seca, sem creme ou óleo, e um pedaço novo. A marca pede pré-teste e informa até 12 horas de uso, ou até 8 acima de 30 °C. Não recomenda a fita na gestação nem na amamentação; as demais restrições estão abaixo."
         ]
       },
       {
         "heading": "Por que a Fita Up descola ou não cola",
         "paragraphs": [
-          "Pela aba \"Como usar e remover\" da página do produto e pelo FAQ da loja, a fita segura menos nestes casos:"
+          "Se a fita não cola ou começa a soltar, confira as orientações de aplicação, tempo de uso e armazenamento publicadas pela Toda Up:"
         ],
         "bullets": [
           "**Pele com creme, óleo ou úmida:** a marca pede a pele limpa e seca antes de colar.",
           "**Fita puxada demais:** o passo a passo manda colar da base do seio para cima, sem esticar demais.",
-          "**Fita reaproveitada:** dá para colar de novo, mas a marca diz que a fita perde cola e sustentação a cada uso, e não recomenda.",
-          "**Calor acima de 30 graus:** nesses dias, o FAQ fala em até 8 horas de uso, e não nas 12 de sempre.",
+          "**Fita reaproveitada:** a Toda Up não recomenda reutilizar. É possível recolocar, mas a fita perde cola e sustentação a cada uso.",
+          "**Calor acima de 30 °C:** o FAQ limita o uso a até 8 horas; a página do produto informa até 12 horas nas demais condições.",
           "**Rolo vencido ou mal guardado:** a validade é de até 1 ano depois de aberto, longe de calor, umidade e luz."
         ],
         "postParagraphs": [
@@ -190841,7 +190844,7 @@ export const reviewsData: unknown[] = [
         "heading": "Fita Up dá alergia? Machuca a pele?",
         "paragraphs": [
           "A Toda Up descreve a cola como \"hipoalergênica e dermatologicamente testada\", mas pede um pré-teste com um pedaço pequeno, porque cada pele reage de um jeito. O adesivo é acrílico à base de água, e o tecido, 98,5% poliéster e 1,5% elastano, pelo FAQ da loja.",
-          "Para tirar sem machucar, a Toda Up orienta passar hidratante, óleo corporal ou água morna sobre a fita e puxar devagar, pelas laterais. Com qualquer incômodo na pele, a marca manda suspender o uso e procurar o médico."
+          "Para remover a fita, a Toda Up orienta passar hidratante, óleo corporal ou água morna sobre ela e puxar devagar, pelas laterais. Com qualquer incômodo na pele, a marca manda suspender o uso e procurar o médico."
         ]
       },
       {
@@ -190896,11 +190899,11 @@ export const reviewsData: unknown[] = [
           "A Fita Up pode molhar? A Toda Up diz que a fita é resistente à água e ao suor. A marca não diz que ela é à prova d'água: essa expressão é do protetor de silicone.",
           "Pode usar a Fita Up na piscina? A marca não fala de piscina nem de mar para a fita; diz só que ela é resistente à água e ao suor.",
           "A Fita Up dá alergia? A Toda Up descreve a cola como hipoalergênica e dermatologicamente testada, mas pede um pré-teste com um pedaço pequeno, porque cada pele reage de um jeito.",
-          "Por que a Fita Up não cola? Os motivos que a marca aponta são pele úmida ou com creme, fita esticada demais, pedaço reaproveitado e calor acima de 30 graus, quando o uso cai para até 8 horas.",
-          "Dá para reutilizar a Fita Up? Dá, mas a Toda Up não recomenda: a fita perde cola e sustentação a cada uso.",
+          "Por que a Fita Up não cola? Confira se a pele está limpa e seca, sem creme ou óleo, se o pedaço é novo e se a fita foi aplicada sem esticar demais. Esses são cuidados publicados pela Toda Up. Acima de 30 °C, o FAQ limita o uso a até 8 horas.",
+          "Dá para reutilizar a Fita Up? A Toda Up não recomenda. É possível recolocar, mas a fita perde cola e sustentação a cada uso.",
           "Quanto tempo a Fita Up dura no corpo? Até 12 horas, pela página do produto, e até 8 horas em dias acima de 30 graus, pelo FAQ.",
           "Pode usar a Fita Up amamentando? A Toda Up não recomenda a fita na amamentação nem na gestação.",
-          "Como tirar a Fita Up sem doer? Passe hidratante, óleo corporal ou água morna sobre a fita e puxe devagar, pelas laterais, como orienta a marca."
+          "Como tirar a Fita Up sem doer? A orientação da Toda Up é passar hidratante, óleo corporal ou água morna sobre a fita e puxar devagar, pelas laterais. Esse procedimento não garante uma retirada sem dor."
         ]
       }
     ]
@@ -190935,16 +190938,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer o sutiã de silicone mais barato com o cupom, para vestido de festa ou costas nuas: a Toda Up, pelo site oficial.",
-        "Você veste EG ou quer o sutiã que a loja diz durar mais usos: a Hope, com 25 a 30 contra 12 da Toda Up."
+        "Você prefere cobertura de silicone e o menor preço entre as duas peças: a Toda Up com o cupom MAUAD.",
+        "Você procura tamanho EG ou prioriza a maior quantidade de usos declarada pela marca: a Hope. Confira a tabela de medidas antes de comprar."
       ],
       "skipIf": [
-        "Você procura fita para seios: a Hope não tem, e a fita é a Fita Up.",
-        "Você quer silicone e veste EG: a Toda Up para no G (44/48), e a Hope, que tem EG, é de tecido."
+        "Você procura fita para seios: veja a Fita Up. A Fashion Tape da Hope é para prender roupa.",
+        "Você procura cobertura de silicone em EG: a Toda Up vai até G (44/48), e a Hope tem cobertura de tecido, com adesivo de silicone por dentro."
       ]
     },
     "cta": {
-      "text": "Para comprar o sutiã no site oficial, entre pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+      "text": "Abra o site oficial da Toda Up pelo botão e confira se o desconto de 10% do MAUAD aparece no carrinho antes de pagar.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -190976,16 +190979,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom MAUAD, o sutiã da Toda Up sai mais barato que o da Hope, que custa o mesmo na página. A Hope diz até 30 usos, contra 12 da Toda Up, e tem tamanho EG. Se você procura fita para seios, a Hope não tem, e o capítulo sobre a fita mostra o que muda."
+          "Com MAUAD, o sutiã da Toda Up fica abaixo do preço da Hope na página. A Hope tem EG e declara de 25 a 30 usos; a Toda Up, até 12. Para fita de seios, há a Fita Up; a Fashion Tape da Hope é para prender roupa."
         ]
       },
       {
         "heading": "As duas lado a lado",
         "paragraphs": [
-          "Na página, as duas custam o mesmo. O que separa é o cupom, que só a Toda Up tem, o material (silicone numa, tecido na outra) e o tamanho, que na Hope chega ao EG. O passo a passo de colar e tirar a peça da Toda Up está em [Sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
+          "Preços e catálogo vêm das páginas das lojas, em 6 de novembro de 2026: Toda Up com MAUAD e Hope pelo preço de página. A cobertura é de silicone na Toda Up e de tecido na Hope; as duas aderem à pele. O passo a passo de colar e tirar a peça da Toda Up está em [Sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Páginas das lojas, lidas em 6 de novembro de 2026. Preço da Toda Up com o cupom MAUAD.",
+          "caption": "Informações das páginas das lojas. Toda Up com MAUAD; Hope pelo preço de página. Usos declarados pelas marcas.",
           "headers": [
             "",
             "Sutiã de Silicone Invisível (Toda Up)",
@@ -191018,7 +191021,7 @@ export const reviewsData: unknown[] = [
               "Decote profundo nas costas"
             ],
             [
-              "Usos",
+              "Usos declarados pelas marcas",
               "Até 12 vezes",
               "De 25 a 30 vezes"
             ],
@@ -191040,47 +191043,54 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho: a Hope tem EG",
         "paragraphs": [
-          "A Toda Up vai até o G (44/48). Se você veste EG, só a Hope tem esse tamanho.",
+          "Entre as duas peças comparadas, a Hope oferece EG; a Toda Up vai até G (44/48). As letras dos tamanhos não garantem a mesma medida nas duas marcas.",
           "Cada marca tem a própria tabela: meça o busto e confira a da loja escolhida antes de pagar."
         ]
       },
       {
         "heading": "Quantas vezes dá para usar e como lavar",
         "paragraphs": [
-          "A Hope diz na página do produto que o sutiã “pode ser usado de 25 à 30 vezes”. A Toda Up diz até 12 vezes, na página do produto e no FAQ: menos da metade do número da Hope.",
+          "A Hope declara de 25 a 30 usos; a Toda Up, até 12. Essas quantidades ajudam a comparar a expectativa de reutilização, mas não comprovam qual peça durará mais no seu uso.",
           "Na lavagem, as duas pedem água e sabão neutro e secagem ao natural. A Hope pede lavagem à mão; a Toda Up só fala em água e sabão neutro."
         ]
       },
       {
         "heading": "A Hope tem fita para seios?",
         "paragraphs": [
-          "Não. A Hope vende a Fashion Tape, 36 fitas dupla face descartáveis numa caixinha, para prender roupa. Quem quer fita para o busto fica com a Fita Up, da Toda Up: o jeito de colar, tirar e até quando ela segura está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+          "A Hope não tem fita para seios. A Fashion Tape traz 36 fitas dupla face descartáveis para prender roupa. Para o busto, há a Fita Up, da Toda Up: veja as instruções de aplicação, retirada e tempo de uso em [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ]
       },
       {
         "heading": "Preço com o cupom e onde comprar",
         "paragraphs": [
-          "Conta nossa, pelos preços de página: as duas custam o mesmo na loja, e só a Toda Up tem desconto. O [cupom Toda Up](/cupons/toda-up) dá 10% no site oficial e tira R$ 14,99 do sutiã; a Hope fica no preço de página.",
+          "Conta nossa: os 10% do MAUAD reduzem o sutiã da Toda Up de R$ 149,90 para R$ 134,91. A diferença é de R$ 14,99 em relação ao preço da Hope na página, que não tem desconto aplicado.",
           "Na fita, a Fita Up custa R$ 116,90 na página e, com o cupom, R$ 105,21; no Leve 2, cada uma sai por R$ 84,17 com o cupom, R$ 168,34 as duas.",
           "O sutiã se compra no site oficial da Toda Up, pelo botão deste artigo; a fita, no site e nas lojas listadas em [Fita Up original: onde comprar](/reviews/fita-up-onde-comprar-original). A Hope vende na loja oficial da marca."
+        ],
+        "links": [
+          {
+            "label": "cupom Toda Up",
+            "href": "/cupons/toda-up"
+          }
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "**Quer o sutiã mais barato com cupom, de silicone e para vestido de festa ou costas nuas:** Toda Up, com o MAUAD, R$ 14,99 abaixo da Hope na página.",
-          "**Veste EG, ou quer mais usos do mesmo sutiã:** Hope, que diz de 25 a 30 vezes, contra 12 da Toda Up.",
-          "**Quer fita para seios:** a Fita Up, já que a Hope não tem fita para o busto.",
+          "**Prefere cobertura de silicone e menor preço entre as duas peças:** Toda Up com MAUAD, considerando os valores da tabela.",
+          "**Procura EG ou prioriza a quantidade de usos declarada:** Hope, após conferir as medidas.",
+          "**Quer fita para seios:** a Fita Up. A Fashion Tape da Hope é para prender roupa.",
           "Antes de pagar, meça o busto e confira a tabela da loja escolhida."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O sutiã adesivo da Hope é bom? A página descreve cobertura de tecido, silicone por dentro, fecho central, até 30 usos e tamanho EG. Ela não diz como o sutiã se comporta no uso; isso fica com quem já comprou.",
+          "O sutiã adesivo da Hope é bom? A página descreve cobertura de tecido, adesivo interno de silicone, fecho central, tamanho EG e de 25 a 30 usos. Essas informações ajudam a escolher, mas não bastam para avaliar conforto, aderência ou durabilidade.",
           "Como lavar o sutiã adesivo da Hope? À mão, com sabão neutro, secando naturalmente.",
-          "A Hope tem fita para seios? Não. A Fashion Tape é fita dupla face para prender roupa; a fita para seios é a [Fita Up](/reviews/fita-up-como-usar), da Toda Up.",
-          "Qual sai mais barato com cupom? O sutiã da Toda Up, com o MAUAD; os valores estão na tabela do início."
+          "A Hope tem fita para seios? Não. A Fashion Tape é fita dupla face para prender roupa; para o busto, há a [Fita Up](/reviews/fita-up-como-usar), da Toda Up.",
+          "Qual sai mais barato com cupom? Entre as duas peças e pelos valores da tabela, o sutiã da Toda Up com MAUAD fica abaixo do preço de página da Hope.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira as condições na página do cupom Toda Up."
         ]
       }
     ]
@@ -191115,18 +191125,18 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer o sutiã com bojo, precisa de GG ou só aceita preto, e a roupa tem decote, transparência ou alça fina: a Lupo.",
-        "Você quer silicone que cola na pele para vestido de festa ou frente única, com tamanho até o G: o Sutiã de Silicone Invisível, com o cupom.",
-        "Você só quer cobrir o mamilo: o Protetor de Silicone Ultrafino da Toda Up, que não é sutiã."
+        "Você procura bojo de tecido em preto: considere o Sutiã Aderente da Lupo e confira a numeração na tabela.",
+        "Você procura um sutiã de silicone para vestido de festa ou frente única: a Toda Up indica o Sutiã de Silicone Invisível para essas roupas, na grade de 38/40 a 44/48.",
+        "Você só quer cobrir o mamilo: considere o Protetor de Silicone Ultrafino da Toda Up, que não é sutiã."
       ],
       "skipIf": [
-        "Você usa GG e a Toda Up não serve: ela para no G.",
-        "Você precisa saber como lavar e quantas vezes usar o da Lupo: a página não traz isso.",
-        "Você procura fita para seios na Lupo: a loja oficial não tem; a fita é a da Toda Up."
+        "Passe o sutiã da Toda Up se você usa 36 ou 50: esses números aparecem só na grade da Lupo. Para o 48, confira também o G 44/48 da Toda Up.",
+        "Adie a escolha da Lupo se você precisa confirmar os cuidados: a página não informa lavagem nem quantidade de usos; peça essas orientações à marca.",
+        "Passe os dois sutiãs se você procura fita para seios: a Lupo não tem, e a fita é a Fita Up, da Toda Up."
       ]
     },
     "cta": {
-      "text": "Para comprar o Sutiã de Silicone Invisível no site oficial, entre pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+      "text": "O botão leva ao site oficial da Toda Up pelo link com MAUAD. Confira a aplicação do desconto e o total do Sutiã de Silicone Invisível no carrinho.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -191158,16 +191168,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom MAUAD, o sutiã de silicone da Toda Up sai um pouco mais barato que o aderente da Lupo. A Lupo tem bojo de tecido e vai ao GG, só em preto; a Toda Up é de silicone e vai até o G. Seu número e a roupa decidem, e a tabela de tamanho mostra cada uma."
+          "Nos preços comparados, o sutiã da Toda Up fica um pouco mais barato com MAUAD. A Lupo tem bojo de tecido em preto, do 36 ao 50; a Toda Up tem sutiã de silicone, do 38/40 ao 44/48. Confira a numeração e as indicações de roupa de cada loja: as letras dos tamanhos não são equivalentes."
         ]
       },
       {
         "heading": "As duas lado a lado",
         "paragraphs": [
-          "O que separa as duas é o material. A Lupo vende um sutiã aderente de tecido, com bojo leve e macio e silicone por dentro; a Toda Up vende um adesivo de silicone, que cola na pele e serve para vestido de festa e frente única."
+          "A Lupo descreve uma peça de tecido com bojo leve e macio e silicone aderente por dentro. A Toda Up apresenta um sutiã adesivo de silicone para vestido de festa e frente única. Compare a construção e o formato de cada peça com o recorte da roupa que você pretende usar."
         ],
         "comparisonTable": {
-          "caption": "Lido nas páginas das lojas. O preço da Toda Up leva o cupom MAUAD.",
+          "caption": "Características e indicações informadas pelas lojas. O valor com MAUAD é um cálculo de 10% sobre o preço publicado pela Toda Up.",
           "headers": [
             "",
             "Sutiã Aderente da Lupo",
@@ -191197,7 +191207,7 @@ export const reviewsData: unknown[] = [
             [
               "Quantas vezes usar",
               "A página não informa",
-              "Até 12 vezes"
+              "Até 12 vezes, segundo a Toda Up"
             ],
             [
               "Preço na página",
@@ -191248,14 +191258,14 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Quem usa 36 ou 50 só acha o tamanho na Lupo: a Toda Up vai do 38/40 ao 44/48."
+          "Entre as duas grades, os números 36 e 50 aparecem apenas na Lupo. Já o 48 aparece no GG da Lupo e no G 44/48 da Toda Up: compare a numeração, não só a letra. A grade não garante estoque; confira o tamanho na loja."
         ]
       },
       {
         "heading": "Bojo, cor e roupa",
         "paragraphs": [
-          "A Lupo diz que o bojo é leve e macio, que sustenta, cobre o busto, aproxima e desenha o colo. Na descrição da loja, o bojo interno é aderente de silicone de \"uso clínico\". A peça só aparece na cor preta.",
-          "Para roupa com decote, transparência ou alça fina, a Lupo; para vestido de festa ou frente única, sem alça e de costas nuas, a Toda Up. Quando o tamanho serve nas duas, é a roupa que decide."
+          "Na página da Lupo, o Sutiã Aderente aparece em preto, com composição principal de 100% poliéster e silicone aderente na parte interna do bojo. É uma opção para quem procura bojo de tecido nessa cor.",
+          "A Lupo indica a peça para decote, transparência e alça fina, com costas livres; a Toda Up indica a sua para vestido de festa e frente única, sem alças e com costas nuas. As indicações podem se sobrepor. Compare o formato da peça com o recorte da roupa, além da numeração."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
@@ -191275,18 +191285,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Lupo tem fita para seios?",
         "paragraphs": [
-          "Não na loja oficial.",
+          "A Lupo não tem fita para seios na loja oficial.",
           "Quem procura fita encontra a Fita Up, da Toda Up, em P, M e G; a Toda Up diz que a cola dura até 12 horas. Veja [Fita Up: como usar](/reviews/fita-up-como-usar) e [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original)."
         ]
       },
       {
         "heading": "Preço com o cupom e onde comprar",
         "paragraphs": [
-          "Conta nossa, pelos preços de página: o sutiã da Toda Up cai para R$ 134,91 com o MAUAD, R$ 4,99 abaixo dos R$ 139,90 da Lupo. O da Toda Up se compra no site oficial, pelo botão desta página; o da Lupo, na loja da marca, pelo preço de página.",
-          "O MAUAD dá 10% no site da Toda Up. A página da marca diz que cupom não acumula com kit, \"salvo cupons de influenciadoras\": o MAUAD soma com o Leve 2 da Fita Up, e duas unidades saem por R$ 168,34, ou R$ 84,17 cada. As regras estão no [cupom Toda Up](/cupons/toda-up)."
+          "Os preços das páginas das lojas são de 06/11/2026. Conta nossa: aplicar os 10% do MAUAD ao preço publicado do sutiã da Toda Up resulta em R$ 134,91, R$ 4,99 abaixo dos R$ 139,90 da Lupo, antes do frete. Confira o preço e o total no carrinho antes de comprar.",
+          "O MAUAD também soma com o Leve 2 da Fita Up: duas unidades saem por R$ 168,34, ou R$ 84,17 cada. Consulte as condições do cupom Toda Up no link abaixo."
         ],
         "comparisonTable": {
-          "caption": "Preços de 06/11 nas páginas das lojas; a coluna do cupom aplica os 10% do MAUAD.",
+          "caption": "Preços publicados pelas lojas, antes do frete. A coluna com MAUAD aplica 10% de desconto aos valores da Toda Up.",
           "headers": [
             "",
             "Preço na página",
@@ -191314,25 +191324,38 @@ export const reviewsData: unknown[] = [
               "R$ 105,21"
             ]
           ]
-        }
+        },
+        "links": [
+          {
+            "label": "cupom Toda Up",
+            "href": "/cupons/toda-up"
+          }
+        ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Quer GG, bojo de tecido e roupa com decote ou alça fina: o Sutiã Aderente da Lupo, que só vem em preto.",
-          "Quer silicone que cola na pele, para vestido de festa ou frente única, até o G: o Sutiã de Silicone Invisível da Toda Up, que sai por R$ 134,91 com o cupom. Antes de colar, leia o [guia de uso do sutiã](/reviews/sutia-de-silicone-invisivel-como-usar).",
-          "Quer cobrir só o mamilo: o Protetor de Silicone Ultrafino da Toda Up, que não é sutiã. O preço com o cupom está na tabela acima.",
-          "Pelo preço, a Toda Up fica um pouco abaixo. Pelo tamanho, quem usa 50 fica com a Lupo."
+          "Quer bojo de tecido em preto: considere o Sutiã Aderente da Lupo. Se usa 36 ou 50, a grade publicada também favorece essa opção; confirme o estoque do tamanho.",
+          "Quer um sutiã de silicone para vestido de festa ou frente única: considere o Sutiã de Silicone Invisível da Toda Up, indicado pela marca para essas roupas. Confira a grade de 38/40 a 44/48 e leia o [guia de uso do sutiã](/reviews/sutia-de-silicone-invisivel-como-usar).",
+          "Quer cobrir só o mamilo: considere o Protetor de Silicone Ultrafino da Toda Up. Ele tem outra função e não substitui o sutiã.",
+          "Quer o menor preço entre os dois sutiãs: a Toda Up com MAUAD fica um pouco abaixo da Lupo. Confira o total com frete antes de comprar."
+        ],
+        "links": [
+          {
+            "label": "Comparar também os sutiãs da Toda Up e da Zee Rucci",
+            "href": "/reviews/toda-up-ou-zee-rucci"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O sutiã adesivo da Lupo é bom? A página da Lupo informa tamanho, bojo e roupa indicada, mas não diz como lavar nem quantas vezes usar; a Toda Up diz até 12 vezes. Sem esses dois dados, a escolha fica pelo tamanho e pela roupa.",
-          "Como lavar o sutiã aderente da Lupo? A página não informa. A Toda Up pede água e sabão neutro, com secagem ao natural.",
+          "O sutiã adesivo da Lupo é bom? As informações da página permitem comparar tamanho, construção e roupa indicada, mas não comprovam conforto, aderência ou sustentação no uso.",
+          "Como lavar o sutiã aderente da Lupo? A página não informa. Peça as instruções à Lupo antes de lavar.",
           "A Lupo tem fita para seios? Não na loja oficial. A fita da Toda Up é a Fita Up, em P, M e G.",
-          "Qual tamanho escolher? Use a tabela de tamanho: a Lupo vai do 36 ao 50, e a Toda Up do 38/40 ao 44/48.",
-          "Qual sai mais barato? Com o cupom MAUAD, a Toda Up; a conta está no capítulo de preço."
+          "Qual tamanho escolher? Compare a numeração das marcas: a Lupo vai do 36 ao 50, e a Toda Up do 38/40 ao 44/48. O 48 aparece no GG da Lupo e no G da Toda Up; as letras não são equivalentes.",
+          "Qual sai mais barato? O sutiã da Toda Up com MAUAD fica abaixo do preço publicado pela Lupo, antes do frete.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira as condições na página do cupom."
         ]
       }
     ]
@@ -191357,7 +191380,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-06",
     "draft": false,
     "isNew": true,
-    "description": "A Toda Up tem a fita e o protetor de silicone mais baratos com o cupom MAUAD; a Zee Rucci tem o sutiã adesivo mais barato. Veja tamanhos, preço e o que cada marca diz.",
+    "description": "Nos preços comparados, a Toda Up com MAUAD custa menos na fita por embalagem e no protetor; a Zee Rucci, no sutiã. Compare tamanhos e limites de reutilização.",
     "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Fita, sutiã adesivo e protetor de mamilo da Toda Up ou da Zee Rucci: preço com cupom e tamanhos.",
     "image": "/images/reviews/toda-up/toda-up-ou-zee-rucci-capa.webp",
     "imageAlt": "Fita Up colada no busto, o Sutiã de Silicone Invisível e protetores de silicone no braço, todos da Toda Up, com o logo da Toda Up e o título Toda Up ou Zee Rucci?",
@@ -191367,16 +191390,18 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer protetor de mamilo em 10 ou 12 cm, ou fita escolhida pela largura do sutiã: fique com a Toda Up, com o cupom MAUAD.",
-        "Você quer o sutiã adesivo mais barato e usa tamanho de 40 a 46: a Zee Rucci tem o menor preço desta comparação."
+        "Você procura protetor de mamilo de 10 ou 12 cm: esses diâmetros aparecem na Toda Up entre as opções comparadas.",
+        "Você quer escolher entre três larguras de fita: a Fita Up tem P, M e G. Confira o guia da marca antes de escolher.",
+        "Você quer o sutiã adesivo de menor preço e sua numeração está entre 40 e 46: a Zee Rucci custa menos nos valores comparados."
       ],
       "skipIf": [
-        "Você quer o sutiã adesivo que a loja diz durar mais usos: a Zee Rucci diz até 30, e a Toda Up, até 12.",
-        "Você quer fita e protetores na mesma caixa: a Zee Rucci diz que a dela traz 5 pares."
+        "Adie a compra da Fita Up se você precisa conhecer a metragem: a marca não a publica.",
+        "Prefira a fita da Zee Rucci se você quer 5 pares de protetores na mesma caixa: esse conteúdo está informado na página dela.",
+        "Adie a escolha entre os sutiãs se você exige uma quantidade garantida de reutilizações: os limites anunciados não comprovam quantos usos você conseguirá."
       ]
     },
     "cta": {
-      "text": "Para comprar na Toda Up a fita, o sutiã ou o protetor, entre pelo botão: o cupom MAUAD já vem aplicado no carrinho.",
+      "text": "O botão leva ao site oficial da Toda Up pelo link com MAUAD. Escolha a fita, o sutiã ou o protetor e confira o desconto e o total no carrinho.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -191408,13 +191433,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom MAUAD, a fita e o protetor de silicone da Toda Up saem mais baratos que os da Zee Rucci. O sutiã adesivo da Zee Rucci custa menos e diz até 30 usos. O que muda a escolha da fita é a largura e os protetores na caixa: a tabela da fita mostra os dois lado a lado."
+          "Nos preços comparados, a fita e o protetor da Toda Up com MAUAD exigem menor desembolso; o sutiã da Zee Rucci custa menos. Na fita, compare também o conteúdo da embalagem: a Toda Up não publica a metragem do rolo. Nos sutiãs, até 30 usos da Zee Rucci e até 12 da Toda Up são limites anunciados pelas marcas."
         ]
       },
       {
         "heading": "Fita Up ou fita da Zee Rucci",
         "paragraphs": [
-          "Na unidade e no Leve 2, a Fita Up com o cupom sai mais barata que a Fita Adesiva Push Up da Zee Rucci. Conta nossa, com o preço de página e os 10% do [cupom Toda Up](/cupons/toda-up) (MAUAD): a Fita Up sai por R$ 105,21 na unidade e por R$ 84,17 cada no Leve 2, enquanto a fita da Zee Rucci custa R$ 112,90 na página (R$ 107,26 à vista)."
+          "Os preços abaixo são de 06/11/2026. Conta nossa: com os 10% do MAUAD, a Fita Up fica em R$ 105,21 por embalagem ou R$ 168,34 no Leve 2, equivalente a R$ 84,17 cada. Por embalagem, o desembolso é menor que o da Zee Rucci, inclusive no preço à vista. Os valores não incluem frete; confira as condições do cupom Toda Up no link abaixo e o total no carrinho."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -191424,11 +191449,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "A Zee Rucci traz mais coisa na caixa: 5 metros e 5 pares de protetores de mamilo. A página dela diz que a fita é 95% algodão e 5% elastano, e que é descartável. A Toda Up diz a largura de cada tamanho e não publica a metragem do rolo, enquanto a Zee Rucci diz a metragem e não a largura. Por isso não dá para comparar as duas por metro.",
-          "Quem quer os protetores na mesma caixa leva a da Zee Rucci, que tem tamanho único. Quem escolhe pela largura do sutiã fica com a Fita Up, que vem em P, M e G. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+          "A Zee Rucci informa 5 metros de fita e 5 pares de protetores de mamilo na caixa. A fita tem composição declarada de 95% algodão e 5% elastano e é descartável. A Toda Up oferece três larguras, mas não publica a metragem; a Zee Rucci publica a metragem, mas não a largura. O menor preço por embalagem da Fita Up não permite concluir qual rende mais ou custa menos por aplicação.",
+          "Quer os protetores na mesma caixa e a metragem informada: considere a Zee Rucci. Quer escolher entre larguras P, M e G: considere a Fita Up e confira o guia da marca. No maior tamanho, há divergência entre o guia, que indica até 54, e o FAQ, que menciona até 52; confirme com a Toda Up se essa diferença afetar sua escolha. Veja [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas, lidos em 06/11.",
+          "caption": "Preços por embalagem, antes do frete. Os valores da Toda Up com MAUAD incluem o desconto de 10%; o Leve 2 exige a compra de duas unidades.",
           "headers": [
             "",
             "Fita Up (Toda Up)",
@@ -191436,13 +191461,13 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "Preço",
+              "Preço por embalagem",
               "R$ 116,90 na página; R$ 105,21 com o cupom MAUAD; R$ 84,17 cada com o cupom no Leve 2",
               "R$ 112,90 na página; R$ 107,26 à vista"
             ],
             [
               "Tamanho",
-              "P, M e G, pela largura do sutiã",
+              "Três larguras: P, M e G; conferir o guia de numeração da marca",
               "Tamanho único"
             ],
             [
@@ -191452,7 +191477,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Duração",
-              "Até 12 horas no corpo",
+              "Até 12 horas no corpo, segundo a Toda Up",
               "Sem prazo informado"
             ],
             [
@@ -191466,12 +191491,18 @@ export const reviewsData: unknown[] = [
               "Bege, bege claro e areia"
             ]
           ]
-        }
+        },
+        "links": [
+          {
+            "label": "cupom Toda Up",
+            "href": "/cupons/toda-up"
+          }
+        ]
       },
       {
         "heading": "Sutiã adesivo: o da Zee Rucci custa menos",
         "paragraphs": [
-          "No sutiã adesivo, a Zee Rucci ganha no preço: o Sutiã Adesivo Costas Nuas custa R$ 99,90 na página (R$ 94,91 à vista), e o Sutiã de Silicone Invisível da Toda Up, equivalente dele, sai por R$ 134,91 com o MAUAD. A diferença é de R$ 35,01 a favor da Zee Rucci."
+          "No sutiã adesivo, a Zee Rucci tem o menor preço da comparação. Frente ao valor da Toda Up com MAUAD, a diferença é de R$ 35,01 pelo preço de página da Zee Rucci ou de R$ 40,00 pelo preço à vista, antes do frete. A tabela mostra a base dessas contas."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
@@ -191481,11 +191512,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "A Zee Rucci diz que o sutiã não é descartável e aguenta até 30 vezes; a Toda Up diz até 12. Na conta por uso, a vantagem da Zee Rucci cresce. A Toda Up diz que o sutiã serve a vestido de festa e frente única, sem alças e costas nuas.",
-          "A Zee Rucci vai de 40 a 46; a Toda Up vai de 38/40 a 44/48. Quem usa 38 ou 48 só encontra o tamanho na Toda Up. Como usar o sutiã da Toda Up está em [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
+          "As marcas anunciam até 30 usos para o sutiã da Zee Rucci e até 12 para o da Toda Up. Esses limites não demonstram a durabilidade em condições iguais nem permitem concluir qual terá menor custo por uso. A indicação da Toda Up inclui vestido de festa e frente única, sem alças e com costas nuas.",
+          "Para quem usa de 40 a 46 e prioriza o preço, a Zee Rucci é a opção de menor desembolso nesta comparação. Os tamanhos 38 e 48 aparecem só na grade da Toda Up. Confira a tabela da marca antes de escolher; a numeração, sozinha, não garante o ajuste. Veja [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas.",
+          "caption": "Preços e características publicados pelas lojas. Valores antes do frete; MAUAD aplicado por cálculo. Quantidades de usos são limites anunciados pelas marcas.",
           "headers": [
             "",
             "Sutiã de Silicone Invisível (Toda Up)",
@@ -191504,13 +191535,13 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Colagem",
-              "Adesivo que adere à pele; \"hipoalergênico\" e \"com efeito lifting\", nas palavras da loja; sem alças e costas nuas",
-              "Cola que adere ao seio; sem fecho nas costas, com fecho frontal regulador que aproxima os seios"
+              "Adesivo de silicone que adere à pele; sem alças e com costas nuas, conforme a descrição da Toda Up",
+              "Cola que adere ao seio; sem fecho nas costas, com fecho frontal regulador para aproximar os seios, conforme a descrição da Zee Rucci"
             ],
             [
               "Usos",
               "Até 12 vezes, pela página do produto e pelo FAQ",
-              "Até 30 vezes; não é descartável"
+              "Até 30 vezes, segundo a Zee Rucci; não é descartável"
             ],
             [
               "Lavagem",
@@ -191523,7 +191554,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Protetor de mamilo: a Toda Up tem três tamanhos",
         "paragraphs": [
-          "No protetor de mamilo, a Toda Up ganha no preço: com o MAUAD, o Protetor de Silicone Ultrafino sai por R$ 53,91, e o equivalente da Zee Rucci, o Protetor de Mamilos Silicone Ultrafino, custa R$ 72,90 na página (R$ 69,26 à vista). A diferença é de R$ 18,99 a favor da Toda Up."
+          "No protetor de mamilo, a Toda Up com MAUAD tem o menor preço da comparação. A diferença calculada é de R$ 18,99 frente ao preço de página da Zee Rucci ou R$ 15,35 frente ao preço à vista, antes do frete. Compare também o diâmetro: o menor valor só ajuda se o tamanho atender ao que você procura."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
@@ -191537,7 +191568,7 @@ export const reviewsData: unknown[] = [
           "Pela loja da Zee Rucci, o protetor é reutilizável, tem cola hipoalergênica e impede o bico de marcar a roupa. A Toda Up não recomenda o protetor na gestação nem na amamentação. Como ele funciona está em [protetor de silicone para mamilo: como usar](/reviews/protetor-de-silicone-mamilo-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas.",
+          "caption": "Preços e características publicados pelas lojas. Valores antes do frete; MAUAD aplicado por cálculo. A Toda Up publica limites diferentes de reutilização na página do produto e no FAQ.",
           "headers": [
             "",
             "Protetor de Silicone Ultrafino (Toda Up)",
@@ -191570,19 +191601,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Quer protetor em mais de um tamanho pelo menor preço: a Toda Up, com o cupom MAUAD, em P, M ou G.",
-          "Quer fita pela largura do sutiã: a Fita Up com o cupom MAUAD, que sai mais barata que a da Zee Rucci na unidade. Para comprar a original, veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original). Quer fita com protetores na caixa e 5 metros: a da Zee Rucci.",
-          "Quer o sutiã adesivo mais barato e usa de 40 a 46: a Zee Rucci. Ela diz até 30 usos, contra 12 da Toda Up.",
-          "Em resumo, a Toda Up leva a conta na fita e no protetor, e a Zee Rucci leva no sutiã adesivo."
+          "Quer protetor de 10 ou 12 cm: considere a Toda Up, que oferece esses diâmetros e tem o menor preço entre os protetores comparados com MAUAD. Confira os cuidados no [guia do protetor de silicone](/reviews/protetor-de-silicone-mamilo-como-usar).",
+          "Quer escolher entre três larguras de fita: considere a Fita Up. O preço por embalagem com MAUAD é menor, mas a metragem não informada impede comparar o rendimento. Veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original).",
+          "Quer fita com metragem declarada e protetores na mesma caixa: a Zee Rucci informa 5 metros e 5 pares. A largura não aparece na página dela; confirme esse dado se ele for decisivo.",
+          "Quer o sutiã adesivo de menor preço e usa de 40 a 46: considere a Zee Rucci. Para 38 ou 48, confira a grade da Toda Up. Os limites de reutilização anunciados não garantem o custo por uso."
+        ],
+        "links": [
+          {
+            "label": "Comparar também os sutiãs da Toda Up e da Lupo",
+            "href": "/reviews/toda-up-ou-lupo-sutia-adesivo"
+          }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A fita da Zee Rucci é boa? Sem uso, o que dá para dizer é o que a página dela publica: 5 metros, 5 pares de protetores, 95% algodão e descartável. A tabela da fita põe isso ao lado da Fita Up, que tem três larguras e sai mais barata com o cupom.",
+          "A fita da Zee Rucci é boa? A composição e o conteúdo da caixa não comprovam aderência, conforto ou sustentação no uso. A página informa 5 metros e 5 pares de protetores, mas não a largura. A Fita Up custa menos por embalagem com MAUAD nos preços comparados; faltam dados para comparar rendimento.",
           "A fita da Zee Rucci é a Fita Up? Não. A Fita Up é da Toda Up, e a fita da Zee Rucci é a Fita Adesiva Push Up, de outra marca.",
-          "O sutiã adesivo da Zee Rucci é bom? Ele custa menos que o sutiã da Toda Up com o cupom e diz até 30 usos; a tabela do sutiã mostra o resto.",
-          "Qual protetor de mamilo é mais barato? O da Toda Up, com o cupom MAUAD; a tabela do protetor mostra os dois preços."
+          "O sutiã adesivo da Zee Rucci é bom? Ele tem o menor preço entre os dois sutiãs comparados, mas preço e limite anunciado de até 30 usos não comprovam qualidade ou ajuste.",
+          "Qual protetor de mamilo é mais barato? Nos valores comparados, o da Toda Up com MAUAD custa menos, inclusive frente ao preço à vista da Zee Rucci. Confira o total com frete no carrinho.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site da marca; as regras estão na [página do cupom Toda Up](/cupons/toda-up)."
         ]
       }
     ]
@@ -191617,16 +191655,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer escolher a largura da fita pelo número do sutiã, em bege, marrom ou preto: a Fita Up.",
-        "Você quer o adesivo de mamilo mais barato, com tamanhos em centímetros e uso à prova d’água: o Protetor de Silicone Ultrafino da Toda Up."
+        "Leve a Fita Up se quer escolher entre três larguras e as cores bege, marrom e preto. Acima do 48, confirme o tamanho com a Toda Up: o guia vai até o 54, mas o FAQ menciona até o 52.",
+        "Leve o Protetor de Silicone Ultrafino se busca o menor preço entre os dois protetores comparados e tamanhos informados em centímetros. A Toda Up o anuncia como à prova d’água."
       ],
       "skipIf": [
-        "Você quer a fita mais barata e aceita um tamanho só, até o 48: a fita da Trifil, com 5 metros e 10 protetores no combo.",
-        "Você amamenta ou está grávida: o FAQ da Toda Up não recomenda o protetor de silicone nesses casos."
+        "Passe na Fita Up se a prioridade é o menor preço entre as duas fitas e o tamanho único anunciado até o 48 atende você: a Trifil custa menos e inclui 5 metros de fita e 10 protetores.",
+        "Passe no Protetor de Silicone Ultrafino da Toda Up se está grávida ou amamenta: o FAQ da loja não recomenda essa peça nesses casos."
       ]
     },
     "cta": {
-      "text": "Para comprar a Fita Up no site oficial, entre pelo botão: o cupom da Toda Up já vem aplicado no carrinho.",
+      "text": "Para comprar a Fita Up no site oficial, use o botão com o cupom MAUAD e confira o desconto no carrinho antes de pagar.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -191658,7 +191696,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Fita Up e Trifil Up são marcas diferentes, e a fita da Trifil custa menos mesmo com o cupom MAUAD, mas tem um tamanho só, até o 48. A Fita Up tem três larguras, e no adesivo de mamilo o protetor da Toda Up é o mais barato. O que pesa em cada caso está em “Qual escolher”."
+          "A Fita Up é da Toda Up; a Trifil tem sua própria linha Up. Nos preços comparados, a fita da Trifil custa menos mesmo com o MAUAD na Toda Up, mas tem tamanho único, anunciado até o 48. A Fita Up oferece três larguras; entre os protetores de mamilo comparados, o da Toda Up custa menos."
         ]
       },
       {
@@ -191670,10 +191708,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As duas fitas lado a lado",
         "paragraphs": [
-          "A escolha da fita começa pelo tamanho: a Fita Up se escolhe pela largura, com o número do sutiã, e a fita da Trifil vem num tamanho só. Na cola, as duas páginas prometem o mesmo: hipoalergênica, resistente à água e ao suor, por até 12 horas. O que muda é o tamanho, o que vem na caixa e o preço."
+          "A escolha da fita começa pelo tamanho: a Fita Up oferece três larguras, escolhidas pelo número do sutiã, e a Trifil vem num tamanho só. Nos preços de 6 de novembro de 2026, as duas páginas anunciam características semelhantes: adesivo hipoalergênico, resistência à água e ao suor e uso por até 12 horas. Essas promessas não mostram desempenho igual; a tabela abaixo reúne tamanho, conteúdo da caixa e preço."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas, lidos em 6 de novembro de 2026. A Toda Up leva o cupom MAUAD.",
+          "caption": "Preços das páginas das lojas e cálculo com MAUAD na Toda Up, sem frete. O valor por unidade no Leve 2 exige a compra de duas fitas.",
           "headers": [
             "",
             "Fita Up (Toda Up)",
@@ -191687,7 +191725,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Preço com o cupom MAUAD",
-              "R$ 105,21; R$ 84,17 cada no Leve 2",
+              "R$ 105,21 por unidade; no Leve 2, R$ 168,34 pelas duas (R$ 84,17 cada)",
               "Não se aplica: o cupom é da Toda Up"
             ],
             [
@@ -191728,9 +191766,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Conta nossa, com o MAUAD de 10% sobre o preço da página; a Trifil entra com o preço da página dela, porque o cupom não vale lá. O código está no [cupom Toda Up](/cupons/toda-up).",
-          "Mesmo com o cupom, a fita da Trifil custa menos, e o combo ainda traz 10 protetores e uma lata. A Fita Up mostra a largura, mas não a metragem, e a Trifil faz o contrário. Por isso não dá para comparar preço por metro: a conta fica no preço e no que cada caixa traz.",
-          "Para quem usa numeração alta, a diferença está no tamanho: a Fita Up na G vai até o 54 pelo guia da marca, e a Trifil, até o 48. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+          "Conta nossa: 10% de desconto com MAUAD sobre o preço da unidade ou do kit Leve 2 da Toda Up; no kit, o total é dividido por duas fitas. A Trifil entra pelo preço da página, porque o código não vale lá. Os valores não incluem frete. O código está no [cupom Toda Up](/cupons/toda-up).",
+          "Nos preços da tabela, a fita da Trifil custa menos mesmo com MAUAD na Toda Up, e o combo ainda traz 10 protetores e uma lata. A Fita Up mostra a largura, mas não a metragem, e a Trifil faz o contrário. Por isso não dá para comparar preço por metro: a conta fica no preço e no que cada caixa traz.",
+          "Para quem usa acima do 48, a Fita Up exige uma confirmação antes da compra: o guia indica G até o 54, mas o FAQ menciona até o 52. Consulte a Toda Up sobre a sua numeração. A Trifil anuncia limite de 48. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -191746,7 +191784,7 @@ export const reviewsData: unknown[] = [
           "A Trifil vende o “Sutiã Adesivo Trifil Invisível Up” como sutiã, mas a peça é um adesivo de mamilo, como o Protetor de Silicone Ultrafino da Toda Up. Por isso a comparação é com ele, e não com o Sutiã de Silicone Invisível. A página da Trifil diz que a peça tem baixa sustentação e “cola cirúrgica feita para cateter”."
         ],
         "comparisonTable": {
-          "caption": "Preços de página e com o cupom MAUAD, pela mesma conta da tabela de cima.",
+          "caption": "Preços da página, sem frete. O cálculo da Toda Up aplica 10% de desconto com MAUAD a uma unidade; o código não vale na Trifil.",
           "headers": [
             "",
             "Protetor de Silicone Ultrafino (Toda Up)",
@@ -191805,8 +191843,8 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher",
         "paragraphs": [
           "**Quer escolher a fita pela largura e ter cor bege, marrom ou preto:** Fita Up. São três larguras, e a Trifil tem um tamanho só, com numeração até o 48.",
-          "**Quer a fita mais barata e serve no 48:** Trifil. Com o cupom MAUAD, a Fita Up de uma unidade custa R$ 105,21, e a Trifil sai por R$ 61,90, sem cupom, com 5 metros e 10 protetores junto.",
-          "**Quer só o adesivo de mamilo:** o Protetor de Silicone Ultrafino da Toda Up, com o cupom, sai por R$ 53,91, contra R$ 89,90 do sutiã adesivo da Trifil. O FAQ da Toda Up não recomenda o protetor na gestação nem na amamentação.",
+          "**Quer pagar menos entre as duas fitas e usa até o 48:** a Trifil é a opção de menor preço na tabela, com 5 metros e 10 protetores. Confira se o tamanho único anunciado pela marca atende você.",
+          "**Quer só o adesivo de mamilo pelo menor preço entre os dois:** o Protetor de Silicone Ultrafino da Toda Up custa menos na tabela, com MAUAD aplicado. O FAQ da Toda Up não recomenda o protetor na gestação nem na amamentação.",
           "Quem quer um sutiã com bojo e fecho, e não só o adesivo de mamilo, encontra o modelo da Toda Up em [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ]
       },
@@ -191814,9 +191852,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Fita Up é da Trifil? Não. A Fita Up é da Toda Up, antiga Fita UP, de Biguaçu (SC). A Trifil tem a própria linha Up, com fita e adesivo de mamilo. Onde comprar a original está em [Fita Up: onde comprar a original](/reviews/fita-up-onde-comprar-original).",
-          "A fita da Trifil é boa? A página diz que ela é hipoalergênica, resistente à água e ao suor e dura até 12 horas, como a Fita Up. O que muda é o tamanho único e o combo com 10 protetores: veja a tabela de “As duas fitas lado a lado”.",
-          "Qual fita serve até o tamanho 54? A Fita Up, na G, pelo guia de tamanhos da marca. O FAQ da Toda Up fala em até o 52 com segurança, então confirme com a marca antes de comprar. A Trifil diz até o 48.",
-          "O sutiã adesivo da Trifil é um sutiã? A Trifil chama a peça assim, mas ela é um adesivo de mamilo. Por isso a comparação é com o Protetor de Silicone Ultrafino."
+          "A fita da Trifil é boa? As páginas anunciam as mesmas características da Fita Up, mas isso não mostra conforto nem aderência. Nos preços comparados, ela custa menos, tem tamanho único anunciado até o 48 e um combo com 10 protetores; veja a tabela de “As duas fitas lado a lado”.",
+          "Qual fita serve até o tamanho 54? O guia da Fita Up indica a G até o 54, mas o FAQ da Toda Up menciona até o 52. Confirme sua numeração com a marca antes de comprar; a Trifil anuncia até o 48.",
+          "O sutiã adesivo da Trifil é um sutiã? A Trifil chama a peça assim, mas ela é um adesivo de mamilo. Por isso a comparação é com o Protetor de Silicone Ultrafino.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto na Toda Up; confira as regras e o valor aplicado no carrinho."
         ]
       }
     ]
@@ -191841,7 +191880,7 @@ export const reviewsData: unknown[] = [
     "publishedAtISO": "2026-11-06",
     "draft": false,
     "isNew": true,
-    "description": "Com o cupom MAUAD, o protetor de silicone da Toda Up custa metade do da Intimissimi; as copas de silicone da Intimissimi saem mais baratas. A fita depende do kit.",
+    "description": "Com MAUAD, o protetor da Toda Up custa cerca de metade do da Intimissimi. Compare também as copas bege M/G e o preço das fitas por unidade ou no kit.",
     "metaDescription": "O cupom MAUAD dá 10% OFF na Toda Up. Fita, sutiã adesivo e protetor de mamilo da Toda Up ou da Intimissimi: preço com cupom e tamanhos.",
     "image": "/images/reviews/toda-up/toda-up-ou-intimissimi-capa.webp",
     "imageAlt": "Mão segurando o Sutiã de Silicone Invisível e três modelos com as embalagens da Toda Up, com o logo da Toda Up e o título Toda Up ou Intimissimi?",
@@ -191851,16 +191890,16 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer protetor de mamilo pelo menor preço ou em 10 ou 12 cm: fique com a Toda Up, com o cupom MAUAD.",
-        "Você quer fita escolhida pela largura do sutiã, ou leva duas: a Fita Up no Leve 2 com o cupom sai mais barata por unidade."
+        "Você quer o protetor de menor preço entre os comparados ou procura diâmetro de 10 ou 12 cm: considere a Toda Up com MAUAD, pelos valores da tabela.",
+        "Você vai comprar duas unidades de fita e prioriza o preço por unidade: o Leve 2 da Fita Up com MAUAD fica abaixo da fita bege da Intimissimi. Isso não indica maior rendimento."
       ],
       "skipIf": [
-        "Você quer o sutiã adesivo mais barato: as Copas de Silicone da Intimissimi custam menos que o sutiã da Toda Up com o cupom.",
-        "Você quer uma fita só, pelo menor preço da unidade: a fita de tecido da Intimissimi custa menos que uma Fita Up com o cupom."
+        "Você prioriza o menor preço entre os sutiãs comparados: as Copas de Silicone bege em M e G da Intimissimi custam menos que o sutiã da Toda Up com MAUAD.",
+        "Você quer uma fita só, pelo menor desembolso: a fita bege da Intimissimi custa menos que uma Fita Up com MAUAD, pelos valores da tabela."
       ]
     },
     "cta": {
-      "text": "Para comprar na Toda Up a fita, o sutiã ou o protetor, entre pelo botão: o cupom MAUAD já vem aplicado no carrinho.",
+      "text": "Abra o site oficial da Toda Up pelo botão e confira se o desconto de 10% do MAUAD aparece no carrinho da fita, do sutiã ou do protetor antes de pagar.",
       "label": "Ver na Toda Up",
       "url": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao",
       "sponsored": true
@@ -191892,13 +191931,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o cupom MAUAD, o protetor de silicone da Toda Up custa metade do da Intimissimi, e em três tamanhos. As copas de silicone da Intimissimi saem mais baratas que o sutiã adesivo da Toda Up. Na fita, decide a quantidade: uma sai mais barata na Intimissimi, duas no Leve 2 da Fita Up; a conta está na primeira tabela."
+          "Nos valores comparados, o protetor da Toda Up com MAUAD custa cerca de metade do da Intimissimi. As copas bege M/G da Intimissimi custam menos que o sutiã da Toda Up com cupom. A fita avulsa custa menos na Intimissimi; a Fita Up no Leve 2 fica abaixo por unidade."
         ]
       },
       {
         "heading": "Fita Up ou fita da Intimissimi",
         "paragraphs": [
-          "Numa unidade, a Fita Adesiva Tapa-Seio da Intimissimi custa menos: R$ 89,00 na página, contra R$ 105,21 da Fita Up com o [cupom Toda Up](/cupons/toda-up) (MAUAD). No Leve 2, a conta vira: com o cupom, a Fita Up sai por R$ 84,17 cada. Conta nossa, com o preço de página da Toda Up e os 10% do cupom, que a loja deixa somar com o kit."
+          "Os preços e as informações das três comparações vêm das páginas das lojas, em 6 de novembro de 2026. Entre as fitas comparadas, a Intimissimi custa menos na compra avulsa; a Fita Up no Leve 2 fica abaixo por unidade. Conta nossa: com os 10% do MAUAD, o kit sai por R$ 168,34, ou R$ 84,17 cada. Sem a metragem das fitas, essa diferença não demonstra menor custo por aplicação."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -191908,11 +191947,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "As páginas informam coisas diferentes. A Toda Up diz a largura de cada tamanho, a composição (98,5% poliéster e 1,5% elastano) e a duração de até 12 horas no corpo, mas não publica a metragem do rolo. A Intimissimi diz só que a fita é de tecido, de tamanho único, para cobrir ou dar suporte ao seio em vestido muito decotado na frente ou nas costas, sem metragem, largura nem duração.",
-          "Por higiene, a Intimissimi só aceita devolver a fita sem sinal de uso e com a embalagem intacta; com defeito, a devolução é garantida. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar), e os cuidados com a pele e a cola, em [Fita Up não cola ou descola?](/reviews/fita-up-cuidados-cola-pele-agua)."
+          "A Fita Up oferece escolha entre P, M e G. O guia da Toda Up associa esses tamanhos aos sutiãs até 44, 48 e 54, mas o FAQ fala em até 52 com segurança. Se você veste 54, confirme a indicação com a marca antes de comprar. A Intimissimi apresenta a fita de tamanho único para cobrir ou dar suporte ao seio em roupas decotadas, sem medidas publicadas que permitam comparar o ajuste.",
+          "A política informada pela Intimissimi exige fita sem sinais de uso e embalagem intacta para devolução por higiene; para defeitos, a loja informa garantia de devolução. O passo a passo da Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar), e os cuidados com a pele e a cola, em [Fita Up não cola ou descola?](/reviews/fita-up-cuidados-cola-pele-agua)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas, lidos em 06/11.",
+          "caption": "Preços por unidade e no kit: Toda Up com MAUAD e Intimissimi na versão bege.",
           "headers": [
             "",
             "Fita Up (Toda Up)",
@@ -191921,12 +191960,12 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Preço",
-              "R$ 116,90 na página; R$ 105,21 com o cupom MAUAD; R$ 84,17 cada com o cupom no Leve 2",
+              "R$ 116,90 na página; R$ 105,21 com MAUAD; no Leve 2 com MAUAD, R$ 168,34 pelas duas, ou R$ 84,17 cada",
               "R$ 89,00 na página"
             ],
             [
               "Tamanho",
-              "P, M e G (até o sutiã 44, 48 e 54, pelo guia da loja)",
+              "P, M e G: até 44, 48 e 54 no guia; o FAQ informa até 52 com segurança",
               "Tamanho único"
             ],
             [
@@ -191936,12 +191975,12 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Metragem e largura",
-              "Largura por tamanho; metragem não publicada",
+              "Largura varia por tamanho; confira a medida escolhida. Metragem não publicada",
               "Nenhuma das duas publicada"
             ],
             [
-              "Duração",
-              "Até 12 horas no corpo",
+              "Tempo de uso informado pela loja",
+              "Até 12 horas no corpo; um pedaço por uso",
               "Sem prazo informado"
             ],
             [
@@ -191950,12 +191989,18 @@ export const reviewsData: unknown[] = [
               "Bege"
             ]
           ]
-        }
+        },
+        "links": [
+          {
+            "label": "cupom Toda Up",
+            "href": "/cupons/toda-up"
+          }
+        ]
       },
       {
         "heading": "Sutiã adesivo: as copas da Intimissimi custam menos",
         "paragraphs": [
-          "No sutiã adesivo, a Intimissimi custa menos: as Copas de Silicone, equivalente do Sutiã de Silicone Invisível, saem por R$ 109,00 na página, em M e G, e o sutiã da Toda Up, por R$ 134,91 com o MAUAD. A diferença é de R$ 25,91 a favor da Intimissimi. A loja descreve as copas como \"um verdadeiro sutiã sem alças e sem a parte de trás\"."
+          "Para deixar as costas livres, as Copas de Silicone bege em M e G da Intimissimi custam R$ 25,91 menos que o sutiã da Toda Up com MAUAD. A Toda Up também oferece P. Confira as medidas antes de escolher pelo preço: as letras dos tamanhos não garantem ajuste equivalente."
         ],
         "image": {
           "src": "/images/reviews/toda-up/sutia-de-silicone-invisivel-fecho.webp",
@@ -191965,11 +192010,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "As duas peças grudam por um adesivo interno e se fecham na frente: a Intimissimi diz que o gancho central reforça o efeito push-up. A Toda Up diz que o sutiã dela dura até 12 usos; a Intimissimi não informa quantos. Na lavagem, a Toda Up pede água e sabão neutro, e a Intimissimi, lavar à mão a até 40 ºC.",
-          "Nos tamanhos, a Toda Up vende P (38/40), M (42/44) e G (44/48); a Intimissimi, M e G, sem tabela de busto na página. A Intimissimi também tem uma versão de tamanho único, mais barata, e uma branca, mais cara: o preço muda com a versão. Como usar o sutiã da Toda Up está em [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
+          "As duas peças aderem à pele e têm fecho na frente. A Toda Up declara até 12 usos; a Intimissimi não informa uma quantidade. Isso não permite concluir qual dura mais. Siga as instruções de lavagem de cada peça, resumidas na tabela.",
+          "A Intimissimi também tem uma versão de tamanho único mais barata e uma branca mais cara; o preço da tabela se refere à bege em M e G. Para aplicar e retirar a peça da Toda Up, veja [sutiã de silicone invisível: como usar](/reviews/sutia-de-silicone-invisivel-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas.",
+          "caption": "Toda Up com MAUAD e Copas de Silicone bege M/G da Intimissimi. Especificações e usos informados pelas lojas.",
           "headers": [
             "",
             "Sutiã de Silicone Invisível (Toda Up)",
@@ -191989,7 +192034,7 @@ export const reviewsData: unknown[] = [
             [
               "Fecho",
               "Fecho na frente, unido depois de colar os dois lados",
-              "Gancho central, que reforça o push-up"
+              "Gancho central"
             ],
             [
               "Usos",
@@ -192005,9 +192050,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "Protetor de mamilo: o da Toda Up custa metade",
+        "heading": "Protetor de mamilo: o da Toda Up custa cerca de metade",
         "paragraphs": [
-          "No protetor de mamilo, a diferença é grande: com o MAUAD, o Protetor de Silicone Ultrafino da Toda Up sai por R$ 53,91, e o Protetor de Silicone Opaco da Intimissimi custa R$ 109,00 na página. A Toda Up fica R$ 55,09 mais barata."
+          "Para cobrir o mamilo, a Toda Up permite escolher o diâmetro e, com MAUAD, custa R$ 55,09 menos que o protetor da Intimissimi. Se você procura uma peça com fecho, veja o capítulo de sutiã adesivo. O tamanho chamado de grande pela Intimissimi não permite concluir que ele equivale ao G da Toda Up."
         ],
         "image": {
           "src": "/images/reviews/toda-up/protetor-de-silicone-cores.webp",
@@ -192017,11 +192062,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "A Toda Up vende P (8 cm), M (10 cm) e G (12 cm), em três cores; a Intimissimi, um tamanho só, que ela chama de grande, com acabamento opaco. A Toda Up diz que o protetor dura até 30 usos na página do produto (o FAQ da loja fala em 20), tem validade de 2 anos depois de aberto e é à prova d'água, com uso em roupa de banho.",
+          "A Toda Up informa quantidades diferentes de reutilização: até 30 usos na página do produto e até 20 no FAQ. Validade e uso com água são declarações da marca.",
           "A Intimissimi não diz quantos usos e sugere guardar os protetores na embalagem original. A Toda Up não recomenda o protetor na gestação nem na amamentação. Como ele funciona está em [protetor de silicone para mamilo: como usar](/reviews/protetor-de-silicone-mamilo-como-usar)."
         ],
         "comparisonTable": {
-          "caption": "Preços das páginas das lojas.",
+          "caption": "Toda Up com MAUAD e Intimissimi pelo preço de página. Usos, validade e resistência à água são informações das lojas.",
           "headers": [
             "",
             "Protetor de Silicone Ultrafino (Toda Up)",
@@ -192059,25 +192104,25 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que só a Intimissimi vende",
         "paragraphs": [
-          "A Intimissimi tem peças adesivas sem equivalente na Toda Up: copas adesivas de tecido, em M e G, e sutiãs com copa adesiva e aro, como um tomara que caia e um bandeau, nos tamanhos 42 a 46. Quem quer um sutiã adesivo com aro encontra isso lá, não na Toda Up."
+          "A Intimissimi tem copas adesivas de tecido em M e G e sutiãs com copa adesiva e aro, como um tomara que caia e um bandeau, nos tamanhos 42 a 46. São opções para quem procura tecido ou aro, sem equivalente na Toda Up."
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Quer protetor de mamilo pelo menor preço, ou em 10 ou 12 cm: a Toda Up, com o cupom MAUAD.",
-          "Quer fita pela largura do sutiã, ou vai levar duas: a Fita Up no Leve 2 com o cupom. Para comprar a original, veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original). Quer só uma fita, pelo menor preço: a da Intimissimi.",
-          "Quer o sutiã adesivo mais barato: as Copas de Silicone da Intimissimi. Quer o tamanho P ou o número de usos dito pela loja: o sutiã da Toda Up.",
-          "Em resumo, a Toda Up leva a conta no protetor e na fita em kit; a Intimissimi, no sutiã adesivo e na fita avulsa."
+          "Quer o protetor de menor preço entre os comparados ou procura diâmetro de 10 ou 12 cm: considere a Toda Up com MAUAD, pelos valores da tabela.",
+          "Vai levar duas unidades de fita e prioriza o preço por unidade: Fita Up no Leve 2 com MAUAD. Quer uma unidade com o menor desembolso: a fita bege da Intimissimi. Veja [onde comprar a Fita Up original](/reviews/fita-up-onde-comprar-original).",
+          "Prioriza preço no sutiã adesivo: as Copas de Silicone bege em M e G da Intimissimi custam menos que o sutiã da Toda Up. Procura tamanho P: considere a Toda Up e confira as medidas antes de comprar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Intimissimi tem fita para seios? Tem: a Fita Adesiva Tapa-Seio, de tecido e tamanho único. A página não informa metragem, largura nem duração.",
-          "As copas de silicone da Intimissimi são boas? Sem uso, o que dá para dizer é o que a página publica: adesivo interno, gancho central, M e G, lavagem à mão. Elas custam menos que o sutiã da Toda Up com o cupom, mas a Intimissimi não diz quantos usos aguentam.",
-          "Qual protetor de mamilo é mais barato? O da Toda Up, com o cupom MAUAD: custa metade do Protetor de Silicone Opaco da Intimissimi.",
-          "Posso devolver a fita ou as copas da Intimissimi? Só sem sinal de uso e com a embalagem intacta, por higiene; com defeito, a loja garante a devolução."
+          "As copas de silicone da Intimissimi são boas? Adesivo interno, gancho central e instruções de lavagem descrevem a peça, mas não comprovam conforto ou durabilidade. A versão bege em M e G custa menos que o sutiã da Toda Up com MAUAD; a Intimissimi não informa uma quantidade de usos.",
+          "Qual protetor de mamilo é mais barato? Pelos valores da tabela, o da Toda Up com MAUAD custa cerca de metade do Protetor de Silicone Opaco da Intimissimi.",
+          "Posso devolver a fita ou as copas da Intimissimi? A política informada pela loja exige peças sem sinais de uso e embalagem intacta por higiene; para defeitos, a Intimissimi informa garantia de devolução.",
+          "Qual é o cupom da Toda Up? MAUAD dá 10% de desconto no site oficial; confira as condições na página do cupom Toda Up."
         ]
       }
     ]

@@ -43,14 +43,14 @@
     {
       "heading": "Resposta rápida: Black Friday Probiótica 2026",
       "paragraphs": [
-        "O Novembro PRO da Probiótica já começou, por tempo limitado, com Pix e boleto de até 5% OFF; a loja não publicou data de fim nem percentual geral, e as ofertas podem sair do ar quando o estoque acaba. O cupom PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional."
+        "O Novembro PRO está no ar, por tempo limitado, com Pix e boleto de até 5% OFF; a loja não publicou data de fim nem percentual geral, e as ofertas podem sair do ar quando o estoque acaba. O PRO10EMCASACOMCECILIA dá até 10% OFF, vale em todas as formas de pagamento e soma com o preço promocional, conforme o produto."
       ]
     },
     {
       "heading": "Quando é e o que está no ar no Novembro PRO",
       "paragraphs": [
         "A campanha de novembro da Probiótica é o Novembro PRO, e ele já começou: a home diz \"Já começou o Novembro PRO, por tempo limitado\", com Pix e boleto de até 5% OFF. A loja não publicou data de fim nem um percentual geral de desconto: o preço de campanha aparece produto a produto, com o preço riscado ao lado.",
-        "A Black Friday do calendário cai na última sexta de novembro, dia 27, e a Cyber Monday na segunda seguinte, dia 30. Os termos de uso dizem que as ofertas \"podem ser lançadas a qualquer momento, sem aviso prévio\", e uma oferta que você viu pode sair do site quando o estoque acaba: se o preço do dia já está abaixo da tabela de outubro, não espere a sexta."
+        "Em 2026, a Black Friday cai em 27 de novembro, e a Cyber Monday, em 30 de novembro. Os termos da loja permitem lançar ofertas sem aviso prévio, e o estoque pode mudar. A tabela de outubro ajuda a comparar, mas não prevê os preços dessas datas nem decide, sozinha, se vale comprar agora."
       ],
       "image": {
         "src": "/images/reviews/probiotica/black-friday-probiotica-home.webp",
@@ -63,7 +63,7 @@
     {
       "heading": "Preços de outubro para comparar",
       "paragraphs": [
-        "A régua é o catálogo público do site em outubro, antes do cupom, do Pix e do Novembro PRO. O preço da loja muda, então use a tabela como régua: se o preço do dia ficar abaixo dela, o produto está mais barato que em outubro."
+        "A tabela registra preços do catálogo público de 14/10/2026, antes de cupom, Pix e Novembro PRO. Compare o mesmo produto, sabor, embalagem e quantidade. Depois, confira o total com os descontos e o frete: um preço abaixo da tabela é menor que o registrado em outubro, sem garantir a melhor oferta futura."
       ],
       "comparisonTable": {
         "caption": "Preços da Probiótica em 14 de outubro de 2026: preço do dia e preço riscado, antes do cupom e do Pix.",
@@ -167,7 +167,7 @@
     {
       "heading": "Kits e trocas: o que a loja diz nos termos",
       "paragraphs": [
-        "Kit não recebe promoção. Os termos da loja dizem que as promoções não valem para kits, porque eles já têm desconto. Se um kit estiver com preço de campanha, a regra não impede que ele esteja barato, mas ele não ganha uma segunda promoção por cima. Antes de comprar, compare o preço do kit com o das peças avulsas, que podem estar na promoção do dia.",
+        "Os termos da loja dizem que promoções não valem para kits, porque eles já têm desconto. Isso não diz qual benefício entra em cada kit do Novembro PRO. Compare o preço do kit com os mesmos itens avulsos e confira no carrinho os descontos que aparecem.",
         "Os prazos de troca e devolução:"
       ],
       "bullets": [
@@ -182,7 +182,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já começou, por tempo limitado, sem data de fim publicada; a Black Friday do calendário é a última sexta-feira de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba.",
+        "Quando começa e quanto dura a Black Friday da Probiótica? O Novembro PRO já está no ar, por tempo limitado, sem data de fim publicada. A Black Friday do calendário é a última sexta de novembro. As ofertas podem sair do site sem aviso quando o estoque acaba; confirme as disponíveis no dia da compra.",
         "O cupom PRO10EMCASACOMCECILIA vale no Novembro PRO? Ele vale no site oficial, em todas as formas de pagamento, dá até 10% OFF, com percentual menor em alguns produtos, e soma com o preço promocional. Num produto com preço do Novembro PRO ainda não testamos; a linha Descontos do carrinho mostra o valor antes de pagar.",
         "O cupom soma com produto em promoção? Soma com o preço promocional: no nosso teste, a creatina estava em promoção e o carrinho aceitou o cupom. Kit é outra regra, porque a loja não aplica promoções aos kits.",
         "O cupom vale no Pix? Vale, em todas as formas de pagamento. O desconto do Pix é da loja: ela anunciava até 5% OFF no Pix e no boleto, e o checkout mostra o valor final.",
@@ -212,5 +212,6 @@
     {
       "slug": "probiotica-reclame-aqui-nota-reputacao"
     }
-  ]
+  ],
+  "bodyDatesReason": "campanha"
 }

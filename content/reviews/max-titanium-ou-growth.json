@@ -94,7 +94,7 @@
         ]
       },
       "postParagraphs": [
-        "No Pix, a ordem não muda: a Growth segue à frente e o 3W segue como o mais caro por 100 g de proteína (R$ 36,85 contra R$ 26,34), mesmo com o cupom da Max no teto (R$ 33,17).",
+        "No Pix, a Growth continua com menor custo que o 3W nos preços comparados: R$ 26,34 contra R$ 36,85 por 100 g de proteína. Com o cupom da Max no teto, a conta do 3W cai para R$ 33,17, ainda acima da Growth.",
         "A dose muda de uma loja para a outra, por isso a conta certa é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg. No 3W, a conta usa 22,5 doses (900 g ÷ 40 g), que dão 720 g de proteína; a tabela arredonda para \"cerca de 23\".",
         "O Top Whey 3W + Performance mistura WPC, isolado e hidrolisado e entrega mais proteína por dose, mas sai mais caro por 100 g de proteína. A comparação da Max com a Probiótica está em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
       ],
@@ -393,7 +393,7 @@
     ],
     "skipIf": [
       "Passe no Top Whey 3W se o preço por grama de proteína decide: ele é o mais caro da tabela.",
-      "Passe na Growth se você vai pagar no cartão: o cartão sai mais caro que o Pix.",
+      "Passe na Growth no cartão se a sua compra for de whey isolado ou hipercalórico: nessas categorias a Max no cartão tem custo menor por proteína ou caloria.",
       "Passe na Creapure da Max se o preço por grama decide: é a mais cara das creatinas."
     ]
   },

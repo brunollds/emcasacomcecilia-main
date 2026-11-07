@@ -136,7 +136,7 @@
         ]
       },
       "postParagraphs": [
-        "As faixas se sobrepõem: busto de 88 a 90 cm cabe no P e no M. Entre M e G há um vão de 2 cm, porque o M vai até 96 cm de busto e o G começa em 98 cm. Quando as suas medidas caem entre dois tamanhos, considere a modelagem justa. Como o body acompanha o corpo, a folga de um tamanho maior aparece mais do que numa t-shirt oversized. Para medir e comparar com o provador passo a passo, o [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica cada medida."
+        "O busto de 88 a 90 cm aparece nas faixas de P e M, mas a escolha também depende da cintura e do quadril. Entre o busto máximo do M (96 cm) e o mínimo do G (98 cm) há um intervalo. Se as três medidas apontarem tamanhos diferentes ou caírem nesse intervalo, use o provador de medidas da página do produto e confirme a indicação com a loja. O [guia de tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) mostra como medir."
       ],
       "images": [
         {
@@ -278,8 +278,8 @@
         "Com o que combina o Body Ombro Único? A loja indica com jeans, saias ou calças de alfaiataria. Tem um ombro só, decote assimétrico e abertura nas costas.",
         "Qual a diferença entre o Duplo e o Gola Alta? O Gola Alta é de manga longa, e a loja o chama de \"upgrade do body clássico de frio\". O Duplo é regata, e a loja diz que ele combina com jeans, saias, shorts e alfaiataria.",
         "O body esquenta ou protege do frio? A loja não diz que ele aquece. Ela descreve o Gola Alta como um upgrade do body de frio, e a ficha não traz nenhum dado de aquecimento que permita dizer mais que isso.",
-        "Qual tamanho escolher? Pela tabela de medidas do corpo da loja, o P serve para busto de 82 a 90 cm, o M de 88 a 96 cm e o G de 98 a 106 cm. Entre dois tamanhos, vale olhar a modelagem da peça, que no body é justa.",
-        "A devolução é grátis? Sim, a devolução é grátis. Este texto não confirma troca direta de tamanho nem reembolso de uma compra feita com o cupom, então confira a regra no site antes de comprar."
+        "Qual tamanho escolher? Compare busto, cintura e quadril com a tabela de medidas do corpo na página do produto. O busto vai de 82 a 90 cm no P, de 88 a 96 cm no M e de 98 a 106 cm no G; só essa medida não decide o tamanho. Se houver sobreposição ou intervalo, consulte o provador de medidas da página do produto e a loja.",
+        "A devolução é grátis? Sim. Antes de comprar, confira no site como solicitar a devolução e como funciona a troca de tamanho."
       ]
     }
   ],
@@ -292,7 +292,7 @@
     "skipIf": [
       "Passe nos bodies de decote se você não quer decote na frente ou nas costas: fique no Gola Alta ou no Duplo, de gola alta.",
       "Passe se você veste fora do P, M e G: os seis modelos só vêm nesses tamanhos.",
-      "Passe se você quer o kit de três peças em outro modelo: nos modelos conferidos, só o Gola Alta e o Duplo têm."
+      "Passe se você quer o kit de três peças em outro modelo: nos modelos conferidos, só o Gola Alta e o Duplo têm o seletor de 3 unidades."
     ]
   },
   "pros": [],

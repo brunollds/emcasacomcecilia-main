@@ -88,12 +88,32 @@
       },
       "comparisonTable": {
         "caption": "Preços na Cléa Store: preço de tabela e preço mostrado no site, sem cupom e sem campanha de Black Friday.",
-        "headers": ["Produto", "Preço de tabela", "Preço no site"],
+        "headers": [
+          "Produto",
+          "Preço de tabela",
+          "Preço no site"
+        ],
         "rows": [
-          ["Kit 3 T-Shirts Oversized Classic", "R$ 387,00", "R$ 258,00 (promoção \"leve 3 pague 2\", aplicada no carrinho)"],
-          ["Body Gola Alta Manga Longa Second Skin", "R$ 169,00", "R$ 135,20"],
-          ["Body Regata Second Skin Duplo", "R$ 159,00", "R$ 127,20"],
-          ["Body Tule Gola Alta Second Skin", "R$ 159,00", "R$ 127,20"]
+          [
+            "Kit 3 T-Shirts Oversized Classic",
+            "R$ 387,00",
+            "R$ 258,00 (promoção \"leve 3 pague 2\", aplicada no carrinho)"
+          ],
+          [
+            "Body Gola Alta Manga Longa Second Skin",
+            "R$ 169,00",
+            "R$ 135,20"
+          ],
+          [
+            "Body Regata Second Skin Duplo",
+            "R$ 159,00",
+            "R$ 127,20"
+          ],
+          [
+            "Body Tule Gola Alta Second Skin",
+            "R$ 159,00",
+            "R$ 127,20"
+          ]
         ]
       },
       "postParagraphs": [
@@ -107,13 +127,28 @@
         "No nosso teste, o carrinho tinha só o Kit 3 T-Shirts Oversized Classic. O cupom de 10% incidiu sobre o preço promocional, não sobre os R$ 387,00."
       ],
       "comparisonTable": {
-        "caption": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic.",
-        "headers": ["Etapa", "O que a loja mostrou"],
+        "caption": "Teste do cupom CSEMCASACOMCECILIA no Kit 3 T-Shirts Oversized Classic, feito antes da campanha Black Friday.",
+        "headers": [
+          "Etapa",
+          "O que a loja mostrou"
+        ],
         "rows": [
-          ["Preço do kit", "R$ 387,00"],
-          ["Preço do kit em promoção (leve 3, pague 2)", "R$ 258,00"],
-          ["Cupom CSEMCASACOMCECILIA (10%)", "-R$ 25,80"],
-          ["Total do pedido", "R$ 232,20"]
+          [
+            "Preço do kit",
+            "R$ 387,00"
+          ],
+          [
+            "Preço do kit em promoção (leve 3, pague 2)",
+            "R$ 258,00"
+          ],
+          [
+            "Cupom CSEMCASACOMCECILIA (10%)",
+            "-R$ 25,80"
+          ],
+          [
+            "Total do pedido",
+            "R$ 232,20"
+          ]
         ]
       },
       "postParagraphs": [
@@ -149,7 +184,7 @@
         "**Cashback de 10% em créditos.** A página de cashback da loja diz que o benefício equivale a 10% em créditos, concedidos automaticamente ao comprar no site. Os créditos ficam disponíveis em até 1 dia útil, valem por 30 dias e são acumulativos. O saldo é usado no checkout, no campo \"Utilize seu saldo de créditos\", na etapa de pagamento. A página não cita valor mínimo nem exclusões."
       ],
       "postParagraphs": [
-        "O cupom e o cashback valem no mesmo pedido. No nosso teste, o checkout mostrava um cashback previsto de até R$ 25,80 antes do cupom e de até R$ 23,22 depois. Os R$ 23,22 são 10% dos R$ 232,20: a previsão é sobre o valor já com o cupom."
+        "O cupom e o cashback valem no mesmo pedido, mas o cashback é crédito para uma compra futura. No nosso teste, o checkout previa até R$ 25,80 antes do cupom e até R$ 23,22 depois, que são 10% dos R$ 232,20 já com o cupom. Esses créditos não abatem o valor pago naquele pedido."
       ]
     },
     {
@@ -157,7 +192,7 @@
       "bullets": [
         "Qual é o cupom da Cléa Store na Black Friday? O cupom da nossa parceria é o CSEMCASACOMCECILIA, com 10% OFF em todo o site, em todas as formas de pagamento.",
         "O cupom vale em kit em promoção? No teste de outubro, sim: o 10% incidiu sobre os R$ 258,00 do Kit 3 T-Shirts em promoção e o total ficou em R$ 232,20. Os termos da loja preveem exceções, e não testamos o cupom sobre os preços da Black Friday: confira a linha Desconto antes de pagar.",
-        "O cupom soma com o cashback? Sim. No nosso teste, o checkout mostrou cashback previsto de até R$ 23,22, calculado sobre o valor com o cupom.",
+        "O cupom soma com o cashback? Sim, mas o cashback é crédito futuro: no nosso teste, o checkout mostrou até R$ 23,22 de créditos previstos sobre o valor depois do cupom. Esse benefício não reduz o valor pago no pedido. Confira a previsão antes de pagar.",
         "Posso usar dois cupons no mesmo pedido? Não. Pelos termos da loja, cada cliente usa um voucher por pedido.",
         "O cupom dá frete grátis? Não. O frete grátis é regra da loja e valia acima de R$ 599. Abaixo disso, o frete é calculado pelo CEP no carrinho.",
         "A Cléa Store tem devolução grátis? Sim, sempre: a postagem não é cobrada. O prazo é de 30 dias corridos depois do recebimento, com a peça sem uso e com a nota fiscal.",
