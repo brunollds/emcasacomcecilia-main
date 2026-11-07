@@ -176164,7 +176164,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim. A Simple Organic é a marca da Simple Organic Beauty S.A., empresa ativa de Florianópolis com o CNPJ no rodapé do site e, pela própria marca, parte da Hypera Pharma desde 2020. O que pesa é o prazo de troca, só 7 dias com o lacre inviolado; veja abaixo se ele cabe na sua compra."
+          "Sim: a Simple Organic é a marca da Simple Organic Beauty S.A., empresa ativa de Florianópolis com o CNPJ no rodapé do site e, pela própria marca, parte da Hypera Pharma desde 2020. O que pesa é o prazo de troca, só 7 dias com o lacre inviolado. No site oficial, o S-EMCASACOMCECILIA dá 5% OFF em tudo."
         ]
       },
       {
