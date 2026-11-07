@@ -38820,7 +38820,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A originalidade dos produtos é declarada pela própria loja; ao receber, confira lote, validade e lacre. Para comprar com desconto, veja os [cupons YesStyle](/cupons/yesstyle), conferidos em 6 de novembro de 2026."
+          "Sim, a YesStyle é legítima: é uma empresa de Hong Kong, fundada em 2006 e controlada pela YesAsia Holdings, listada em bolsa. A originalidade dos produtos é declarada pela própria loja; ao receber, confira lote, validade e lacre. Para comprar com desconto, use o código de recompensa CECILIA010 (5% extra na primeira compra), que soma com os [cupons YesStyle](/cupons/yesstyle)."
         ]
       },
       {
@@ -39924,7 +39924,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, YesStyle is legitimate: it is a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The store itself declares that its products are authentic; when your order arrives, check the batch number, expiry date and seal. To shop with a discount, see the [YesStyle coupons](/en/coupons/yesstyle), checked on November 6, 2026."
+          "Yes, YesStyle is legitimate: a Hong Kong company, founded in 2006 and controlled by YesAsia Holdings, which is publicly listed. The store itself declares that its products are authentic; on arrival, check batch number, expiry date and seal. To save, use the Reward Code CECILIA010 (5% extra off your first purchase), which stacks with the [YesStyle coupons](/en/coupons/yesstyle)."
         ]
       },
       {
@@ -40070,7 +40070,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, YesStyle es legítima: es una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, que cotiza en bolsa. La originalidad de los productos la declara la propia tienda; al recibir el pedido, comprueba el lote, la caducidad y el precinto. Para comprar con descuento, mira los [cupones de YesStyle](/es/coupons/yesstyle), comprobados el 6 de noviembre de 2026."
+          "Sí, YesStyle es legítima: una empresa de Hong Kong, fundada en 2006 y controlada por YesAsia Holdings, cotizada en bolsa. La originalidad la declara la propia tienda; al recibir el pedido, comprueba lote, caducidad y precinto. Para ahorrar, usa el código de recompensa CECILIA010 (5 % extra en la primera compra), que se suma a los [cupones de YesStyle](/es/coupons/yesstyle)."
         ]
       },
       {
@@ -40215,7 +40215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, YesStyle est légitime : c'est une entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. L'authenticité des produits est déclarée par la boutique elle-même ; à la réception, vérifiez le lot, la date de péremption et le scellé. Pour acheter avec une réduction, consultez les [coupons YesStyle](/fr/coupons/yesstyle), vérifiés le 6 novembre 2026."
+          "Oui, YesStyle est légitime : entreprise de Hong Kong, fondée en 2006 et contrôlée par YesAsia Holdings, cotée en bourse. L'authenticité des produits est déclarée par la boutique elle-même ; à la réception, vérifiez lot, péremption et scellé. Pour économiser, utilisez le code de récompense CECILIA010 (5 % de plus sur la première commande), cumulable avec les [coupons YesStyle](/fr/coupons/yesstyle)."
         ]
       },
       {
@@ -40360,7 +40360,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Die Echtheit der Produkte erklärt der Shop selbst; kontrollieren Sie beim Empfang Charge, Haltbarkeitsdatum und Siegel. Um mit Rabatt zu kaufen, sehen Sie sich die [YesStyle-Gutscheine](/de/coupons/yesstyle) an, geprüft am 6. November 2026."
+          "Ja, YesStyle ist seriös: ein Unternehmen aus Hongkong, 2006 gegründet und von der börsennotierten YesAsia Holdings kontrolliert. Die Echtheit der Produkte erklärt der Shop selbst; kontrollieren Sie beim Empfang Charge, Haltbarkeitsdatum und Siegel. Um mit Rabatt zu kaufen, nutzen Sie den Reward Code CECILIA010 (5 % extra beim ersten Einkauf), der sich mit den Angeboten auf [YesStyle-Gutscheine](/de/coupons/yesstyle) kombinieren lässt."
         ]
       },
       {
@@ -40505,7 +40505,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "먼저 결론부터",
         "paragraphs": [
-          "네, YesStyle은 실제로 운영되는 정상적인 회사입니다. 2006년에 설립된 홍콩 기업이며, 상장사인 YesAsia Holdings가 지배하고 있습니다. 제품이 정품이라는 것은 매장의 자체 설명이니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 할인받아 사고 싶다면 [YesStyle 쿠폰](/ko/coupons/yesstyle)을 보세요. 확인일은 2026년 11월 6일입니다."
+          "네, YesStyle은 2006년에 설립된 홍콩 기업으로, 상장사인 YesAsia Holdings가 지배하는 정상적인 회사입니다. 제품이 정품이라는 것은 매장의 자체 설명이니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요. 리워드 코드 CECILIA010으로 첫 구매 5%를 추가 할인받을 수 있고, [YesStyle 쿠폰](/ko/coupons/yesstyle)과 함께 쓸 수 있습니다."
         ]
       },
       {
@@ -40650,7 +40650,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論から",
         "paragraphs": [
-          "はい、YesStyleは実在する正規の会社です。2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営しています。商品が本物かどうかは店側の自己申告なので、届いたらロット番号、使用期限、封の状態を確認してください。割引で買うなら[YesStyleのクーポン](/ja/coupons/yesstyle)をどうぞ。確認日は2026年11月6日です。"
+          "はい、YesStyleは2006年創業の香港企業で、上場企業のYesAsia Holdingsが運営する正規の会社です。商品が本物かどうかは店側の自己申告なので、届いたらロット番号、使用期限、封の状態を確認してください。割引で買うなら、リワードコードCECILIA010で初回購入が5%追加割引になり、[YesStyleのクーポン](/ja/coupons/yesstyle)と併用できます。"
         ]
       },
       {
@@ -40795,7 +40795,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。商品是否為正品是店家自己的說法，收到商品時請檢查批號、有效期限與封條。想用優惠購買，可以看 [YesStyle 優惠券](/zh-hant/coupons/yesstyle)，確認日期為 2026年11月6日。"
+          "是的，YesStyle 是合法經營的公司：總部在香港，2006 年成立，由上市公司 YesAsia Holdings 控股。商品是否為正品是店家自己的說法，收到商品時請檢查批號、有效期限與封條。想用優惠購買，可以使用獎勵碼 CECILIA010（首次購買額外優惠 5%），它可與 [YesStyle 優惠券](/zh-hant/coupons/yesstyle) 疊加。"
         ]
       },
       {
@@ -40939,7 +40939,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。商品是否正品是店家自己的说法，收货时请核对批号、有效期和封条。想优惠购买，可以看 [YesStyle 优惠券](/zh-hans/coupons/yesstyle)，核对日期为 2026年11月6日。"
+          "是的，YesStyle 是正规公司：总部在香港，2006 年创立，由上市公司 YesAsia Holdings 控股。商品是否正品是店家自己的说法，收货时请核对批号、有效期和封条。想优惠购买，可以使用奖励码 CECILIA010（首次购买额外优惠 5%），它可与 [YesStyle 优惠券](/zh-hans/coupons/yesstyle) 叠加。"
         ]
       },
       {
@@ -49509,7 +49509,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. L'originalità dei prodotti è dichiarata dal negozio stesso; alla consegna controlla lotto, scadenza e sigillo. Per comprare con lo sconto, guarda i [coupon YesStyle](/it/coupons/yesstyle), verificati il 6 novembre 2026."
+          "Sì, YesStyle è legittima: è un'azienda di Hong Kong, fondata nel 2006 e controllata da YesAsia Holdings, quotata in borsa. L'originalità dei prodotti è dichiarata dal negozio stesso; alla consegna controlla lotto, scadenza e sigillo. Per comprare con lo sconto, usa il codice ricompensa CECILIA010 (5% in più sul primo acquisto), che si somma ai [coupon YesStyle](/it/coupons/yesstyle)."
         ]
       },
       {
