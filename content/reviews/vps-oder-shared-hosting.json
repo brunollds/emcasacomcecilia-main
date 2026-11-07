@@ -46,14 +46,14 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Für eine gewöhnliche Website, einen Blog, ein Portfolio oder einen kleinen Shop genügt Shared Hosting und kostet weniger. Ein VPS lohnt sich nur, wenn die Website ein außerhalb des Panels installiertes System, reservierte CPU und reservierten Arbeitsspeicher oder Root-Zugriff braucht. Das Urteil steht weiter unten."
+        "Für einen Blog, ein Portfolio oder einen kleinen Shop vergleichen Sie zuerst Shared-Hosting-Tarife, die Ihre Anwendung unterstützen. Ein VPS kommt infrage, wenn Sie Einstellungen, Software oder Root-Zugriff brauchen, die diese Tarife nicht bieten, und jemanden haben, der den Server betreut. Wählen Sie nicht nur nach dem Tarifnamen; die Tabelle nach Szenario hilft beim Vergleich."
       ]
     },
     {
       "heading": "Was beides ist",
       "paragraphs": [
         "**Shared Hosting** ist ein Server, der unter mehreren Kunden aufgeteilt wird. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Single, Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
-        "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatzplatz. Hostinger übergibt die Maschine mit dem Betriebssystem und dem Root-Zugriff, dem Benutzer, der alles darf. Von da an sind Installation von Webserver, Datenbank und Zertifikat sowie Updates und Sicherheit Ihre Aufgaben. Bei Hostinger sind das die Tarife KVM 1, 2, 4 und 8.",
+        "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz sowie Root-Zugriff, dem Administratorkonto des Systems. Konfiguration, Updates und Sicherheit liegen bei Ihnen. Eine Vorlage kann WordPress vorinstalliert mitbringen und den Einstieg erleichtern; die spätere Administration bleibt bei Ihnen. Verglichen werden KVM 1, 2, 4 und 8.",
         "Der Unterschied ist nicht „besser oder schlechter“. Es geht darum, wer den Server betreut und wie viele Ressourcen für Sie reserviert sind."
       ]
     },
@@ -62,7 +62,7 @@
       "paragraphs": [
         "Beantworten Sie vor dem Blick auf den Preis drei Fragen. Lautet die Antwort dreimal „nein“, reicht Shared Hosting."
       ],
-      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
       "imageAlt": "Übersicht mit drei Fragen: Muss ein System außerhalb des Panels installiert werden, braucht man reservierte CPU und reservierten Arbeitsspeicher, braucht man Root-Zugriff; jedes Ja führt zum VPS, dreimal Nein führt zum Shared Hosting",
       "imageCaption": "Die drei Fragen, die zwischen Shared Hosting und VPS entscheiden. Eigene Übersicht, auf Grundlage der Hostinger-Seiten.",
       "imageFit": "contain",
@@ -87,7 +87,7 @@
           [
             "Node.js-Website",
             "Ja, mit Unlimited oder Cloud Startup, die Hostinger für Node.js nennt. Premium steht nicht auf dieser Liste",
-            "Nicht nötig"
+            "Nicht nötig, es sei denn, Sie benötigen die volle Kontrolle über die Laufzeitumgebung."
           ],
           [
             "Mehrere Websites oder professionelle E-Mail-Adressen",
@@ -155,7 +155,7 @@
         ]
       },
       "postParagraphs": [
-        "Für eine gewöhnliche Website, die einen VPS braucht, ist KVM 1 der Ausgangspunkt: 4 GB RAM reichen für ein WordPress oder ein kleines System. KVM 2 kommt ins Spiel, wenn Sie mehr als ein Programm auf derselben Maschine betreiben. KVM 4 und 8 sind für ein größeres System, eine große Datenbank oder mehrere Anwendungen."
+        "Vergleichen Sie CPU, Arbeitsspeicher und Speicherplatz mit den Anforderungen Ihrer Anwendung. KVM 1 ist der kleinste aufgeführte Tarif, und die Last Ihrer Website entscheidet, ob er genügt. KVM 4 und 8 sind für ein größeres System, eine große Datenbank oder mehrere Anwendungen."
       ]
     },
     {
@@ -165,10 +165,10 @@
         "Beim VPS sagt Hostinger auf der eigenen Seite, dass mit Root-Zugriff Konfiguration, Updates und Sicherheit des Servers bei dem liegen, der den Tarif abschließt. Hostinger bietet Templates mit bereits installiertem System, etwa für WordPress, und standardmäßig ein automatisches wöchentliches Backup, die Wartung bleibt aber bei Ihnen. In der Praxis wird daraus eine Liste für Sie:"
       ],
       "bullets": [
-        "**Installieren und konfigurieren**: Webserver, Datenbank und SSL-Zertifikat, oder von einem fertigen Template ausgehen.",
+        "**Umgebung einrichten**: Prüfen Sie, was das Template vorinstalliert, und passen Sie Webserver, Datenbank und Zertifikat an die Anwendung an.",
         "**Aktualisieren**: Betriebssystem und Programme, von Zeit zu Zeit.",
         "**Absichern**: Firewall, offene Ports, Passwörter und Zugangsschlüssel.",
-        "**Backups anlegen** (das automatische wöchentliche ist standardmäßig aktiv) und wissen, wie man sie zurückspielt.",
+        "**Backups prüfen und Wiederherstellung beherrschen**: Das automatische wöchentliche Backup ist standardmäßig aktiv, aber die Kopie zu prüfen und zurückzuspielen bleibt Ihre Aufgabe.",
         "**Eingreifen**, wenn die Website außerhalb der Geschäftszeiten ausfällt."
       ],
       "postParagraphs": [
@@ -186,16 +186,16 @@
       "emphasis": "Wäre es für eine gewöhnliche Website, würde ich Premium nehmen, weil es weniger kostet und Hostinger den Server betreut.",
       "emphasisAfterParagraph": 3,
       "paragraphs": [
-        "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; für eine Node.js-Website oder wenn die Website wächst, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken.",
-        "**VPS** für ein eigenes System, ein Programm oder eine Datenbank außerhalb des Panels, einen Bot oder ein Panel, das den ganzen Tag läuft, oder wenn Sie Root brauchen. Beginnen Sie mit KVM 1 und steigen Sie auf, wenn der Arbeitsspeicher knapp wird. Rechnen Sie die Zeit für die Wartung des Servers ein oder die Kosten für jemanden, der sie übernimmt.",
-        "**Im Zweifel Shared Hosting.** Ein VPS wird später nicht zum Shared Hosting, aber umgekehrt ist es nur ein neuer Vertrag, wenn der Bedarf entsteht."
+        "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; für eine Node.js-Website oder wenn die Website wächst, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken. Node.js allein verlangt keinen VPS.",
+        "**VPS** kommt in den Vergleich, wenn Sie die Kontrolle und die Einstellungen aus der Tabelle brauchen. Wählen Sie den KVM nach den Anforderungen der Anwendung und rechnen Sie den Verwaltungsaufwand in die Kosten ein.",
+        "**Im Zweifel Shared Hosting.** Wenn der Bedarf an einem VPS später auftaucht, ist das ein neuer Vertrag, mit Einrichtung und Umzug der Website."
       ]
     },
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatzplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
-        "Kann man mit Shared Hosting anfangen und später zum VPS wechseln? Ja. Es sind verschiedene Produkte: Man schließt den VPS ab, installiert den Server und zieht die Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
+        "Ist ein VPS schneller als Shared Hosting? Nicht unbedingt. Reservierte Ressourcen und Root-Zugriff ändern die Kontrolle über die Umgebung, bestimmen aber allein nicht die Antwortzeit Ihrer Website. Vergleichen Sie die Anforderungen der Anwendung und die Tarifgrenzen.",
+        "Kann ich mit Shared Hosting beginnen und später zum VPS wechseln? Ja, sofern die Anwendung mit der neuen Umgebung kompatibel ist. Es ist ein neuer Vertrag, mit Serverinstallation und Umzug der Website; Shared Hosting lässt sich im Panel nicht in einen VPS umwandeln.",
         "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
         "Schafft ein VPS WordPress? Ja. Man kann vom WordPress-Template des VPS ausgehen, das schon installiert ist, aber Aktualisieren, Absichern und Zurückspielen von Backups bleibt bei Ihnen. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
@@ -237,7 +237,7 @@
       "Nehmen Sie ihn, wenn Sie ein Panel, einen Bot oder eine Automatisierung (n8n, Docker) haben, die den ganzen Tag läuft, und jemanden, der den Server wartet."
     ],
     "skipIf": [
-      "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite oder einen kleinen Shop geht: Shared Hosting genügt, und Hostinger betreut den Server.",
+      "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite, einen kleinen Shop oder eine Node.js-Website geht (auf einem passenden Tarif wie Unlimited oder Cloud Startup): Shared Hosting genügt, und Hostinger betreut den Server.",
       "Lassen Sie ihn, wenn Sie noch nie ein Terminal geöffnet haben: Installieren, Aktualisieren, Absichern und Backups liegen dann bei Ihnen."
     ]
   }

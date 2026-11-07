@@ -45,14 +45,14 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Para um site comum, blog, portfólio ou loja pequena, a hospedagem compartilhada atende e custa menos. O VPS só compensa quando o site precisa de um sistema instalado fora do painel, de CPU e memória reservadas ou de acesso root. A conta de renovação muda a escolha; veja o preço e o veredito abaixo."
+        "Para blog, portfólio ou loja pequena, comece comparando os planos de hospedagem compartilhada que atendem à sua aplicação. Considere VPS se precisa de configurações, programas ou acesso root indisponíveis nesses planos e tem quem mantenha o servidor. Não escolha só pelo nome do plano: o quadro por cenário e a conta de renovação ajudam a comparar."
       ]
     },
     {
       "heading": "O que é cada um",
       "paragraphs": [
         "**Hospedagem compartilhada** é um servidor dividido entre vários clientes. A Hostinger cuida do sistema, do servidor web e das atualizações; você entra no painel, instala o WordPress ou sobe os arquivos do site e pronto. Na Hostinger, são os planos Single, Premium e Ilimitado, e o Cloud Startup, que é a mesma ideia com mais recurso.",
-        "**VPS** (servidor virtual privado) é uma máquina virtual só sua, com processador, memória e disco reservados. A Hostinger entrega a máquina com o sistema operacional e o acesso root, o usuário que pode tudo. Daí em diante, instalar o servidor web, o banco, o certificado, as atualizações e a segurança são tarefas suas. Na Hostinger, são os planos KVM 1, 2, 4 e 8.",
+        "**VPS** (servidor virtual privado) é uma máquina virtual só sua, com processador, memória e disco reservados e acesso root, a conta de administração do sistema. Você assume configuração, atualizações e segurança. Os planos comparados são KVM 1, 2, 4 e 8.",
         "A diferença não é \"melhor ou pior\". É quem cuida do servidor e o quanto de recurso fica reservado para você."
       ]
     },
@@ -86,7 +86,7 @@
           [
             "Site em Node.js",
             "Sim, no Ilimitado ou no Cloud Startup, que a Hostinger lista para Node.js. O Premium não consta nessa lista",
-            "Não precisa"
+            "Não precisa, a menos que exija controle total do runtime."
           ],
           [
             "Vários sites ou e-mails profissionais",
@@ -164,7 +164,7 @@
         ]
       },
       "postParagraphs": [
-        "Para um site comum que precise de VPS, o KVM 1 é o ponto de partida: 4 GB de RAM dão para um WordPress ou um sistema pequeno. O KVM 2 entra quando você vai rodar mais de um programa na mesma máquina. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
+        "Use a tabela para comparar CPU, RAM e disco com os requisitos da sua aplicação. KVM 1 é o menor plano listado, e a carga do seu site decide se ele basta. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
         "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (campanha de Black Friday). Com o SONAR20, os 20% valem **no primeiro período**: a renovação sai pelo preço da coluna da tabela, sem desconto."
       ]
     },
@@ -175,10 +175,10 @@
         "No VPS, a Hostinger diz na própria página que, com acesso root, a configuração, as atualizações e a segurança do servidor ficam com quem contratou. A Hostinger oferece templates com o sistema já instalado, como o de WordPress, e backup semanal automático por padrão, mas a manutenção continua sendo sua. Na prática, vira uma lista sua:"
       ],
       "bullets": [
-        "**Instalar e configurar** o servidor web, o banco de dados e o certificado SSL, ou partir de um template pronto.",
+        "**Configurar o ambiente**: verificar o que o template já instala e ajustar servidor web, banco e certificado para a aplicação.",
         "**Atualizar** o sistema operacional e os programas, de tempos em tempos.",
         "**Proteger**: firewall, portas abertas, senhas e chaves de acesso.",
-        "**Fazer backup** (o semanal automático vem ligado) e saber restaurar.",
+        "**Conferir backups e saber restaurar**: o semanal automático vem ligado por padrão, mas verificar a cópia e restaurar continua sendo sua tarefa.",
         "**Resolver** quando o site cair fora do horário comercial."
       ],
       "postParagraphs": [
@@ -252,18 +252,18 @@
       "emphasis": "Se fosse para um site comum, eu levaria o Premium, porque custa menos e a Hostinger cuida do servidor.",
       "emphasisAfterParagraph": 3,
       "paragraphs": [
-        "**Hospedagem compartilhada** para blog, portfólio, site de empresa ou loja pequena. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; para site em Node.js ou se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
-        "**VPS** para sistema próprio, programa ou banco fora do painel, bot ou painel rodando o dia todo, ou quando você precisa de root. Comece pelo KVM 1 e suba se faltar memória. Entre na conta o tempo de manter o servidor, ou o custo de quem faça isso.",
-        "**Na dúvida, compartilhada.** O VPS não vira compartilhada depois, mas o contrário é só um contrato novo quando a necessidade aparecer."
+        "**Hospedagem compartilhada** para blog, portfólio, site de empresa ou loja pequena. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; para site em Node.js ou se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS. Node.js, sozinho, não exige VPS.",
+        "**VPS** entra na comparação quando você precisa do controle e das configurações descritos no quadro. Escolha o KVM pelos requisitos da aplicação e conte o trabalho de administração no custo.",
+        "**Na dúvida, compartilhada.** Se a necessidade de VPS aparecer depois, é uma nova contratação, com configuração e transferência do site."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "VPS é mais rápido que hospedagem compartilhada? Não medimos. O que o VPS garante é recurso reservado: CPU, memória e disco são seus, enquanto na compartilhada o servidor é dividido. Para um site comum, isso raramente é o gargalo.",
-        "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
+        "VPS é mais rápido que hospedagem compartilhada? Não necessariamente. Recursos reservados e acesso root mudam o controle do ambiente, mas não bastam para prever o tempo de resposta do seu site. Compare os requisitos da aplicação e os limites do plano.",
+        "Posso começar na compartilhada e migrar para VPS depois? Pode, se a aplicação for compatível com o novo ambiente. É uma nova contratação, com instalação do servidor e transferência do site; a hospedagem compartilhada não se converte em VPS por dentro do painel.",
         "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
-        "VPS aguenta WordPress? Aguenta. Dá para partir do template de WordPress do VPS, que já vem instalado, mas atualizar, proteger e restaurar backup continua com você. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
+        "VPS aguenta WordPress? Pode, inclusive com template pré-instalado. Você continua responsável por configurar e manter o ambiente, e a capacidade depende da aplicação. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
         "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês, sem desconto. Sem o cupom, R$ 29,99/mês.",
         "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
@@ -282,7 +282,7 @@
       "Leve se tem um painel, bot ou automação (n8n, Docker) rodando o dia todo e alguém para manter o servidor."
     ],
     "skipIf": [
-      "Passe se é blog, portfólio, site de empresa ou loja pequena: a compartilhada atende e a Hostinger cuida do servidor.",
+      "Passe se é blog, portfólio, site de empresa, loja pequena ou site em Node.js (em plano com suporte, como Ilimitado ou Cloud Startup): a compartilhada atende e a Hostinger cuida do servidor.",
       "Passe se nunca abriu um terminal: instalar, atualizar, proteger e fazer backup passam a ser com você."
     ]
   },

@@ -58,7 +58,7 @@
     {
       "heading": "Refund: 30 days, with exceptions",
       "paragraphs": [
-        "Hostinger's refund policy (version of October 15, 2026) gives you 30 days to ask for your money back, counted from the transaction date. Under the policy itself, a renewal is also a transaction: each charge restarts the clock. The table shows what it lists:"
+        "The refund policy gives eligible products a 30-day window from the transaction date; a renewal can also count as a transaction. This does not make excluded products refundable. The table summarizes the rules, including special conditions for VPS plans and domains:"
       ],
       "comparisonTable": {
         "headers": [
@@ -72,7 +72,7 @@
           ],
           [
             "VPS (KVM)",
-            "Yes, within 30 days, and only if the last VPS refund was requested more than 180 days ago"
+            "Within 30 days of the transaction, subject to the 180-day interval between VPS refunds."
           ],
           [
             "Hostinger email, SSL certificate, daily backups",
@@ -140,7 +140,7 @@
     {
       "heading": "Complaints and reviews",
       "paragraphs": [
-        "On Trustpilot the score is 4.6, but with invitations from the company."
+        "When we last checked, Hostinger's Trustpilot score was 4.6, but the reviews included invitations from the company. That is a snapshot, not a measure of every customer's experience."
       ]
     },
     {
@@ -153,13 +153,13 @@
       "heading": "Our experience",
       "paragraphs": [
         "Em Casa com Cecília runs on Hostinger. Bruno, who also signs this text, has been a customer since 2024, with more than 24 months of contracts: Business hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. He has never seen the service go down, and every time he had a problem, support solved it, mainly the AI agent.",
-        "This is one experience, not a guarantee. It does not say what will happen with your plan, or with a plan at another price or for another period."
+        "This is Bruno's account, not uptime monitoring or a prediction for every plan."
       ]
     },
     {
       "heading": "When Hostinger fits, and when it does not",
       "paragraphs": [
-        "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules and 30 days to try it. If the site cannot go offline, know what the 99.9% on the pricing page is worth: the hosting agreement promises that minimum each month and, when it fails, a credit of 5% of the monthly fee, claimed within 30 days; it does not cover what you failed to sell. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
+        "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules; the 30-day refund depends on product eligibility and is not a free trial for every product. If the site cannot go offline, know what the 99.9% on the pricing page is worth: the hosting agreement promises that minimum each month and, when it fails, a credit of 5% of the monthly fee, claimed within 30 days; it does not cover what you failed to sell. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
       ]
     },
     {
@@ -171,11 +171,11 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Is Hostinger legit? It is a large company with public refund and renewal policies. What deserves attention is automatic renewal and its price, not the company's legitimacy.",
+        "Is Hostinger legit? Our experience with its hosting and support has been positive. Before buying, check refund eligibility, the renewal price and the company named at checkout; company size and public policies do not replace those checks.",
         "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
         "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time; without a manual renewal, the service ends at the end of the period.",
         "Who bills you at Hostinger? It depends on your country. The contracting company follows section 2 of the terms, and other companies in the group may also bill you. Check the name shown at checkout.",
-        "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% applies to a new plan purchase (domain registration is excluded); renewals are charged at the list price, with no discount.",
+        "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% applies to a new plan purchase (domain registration is excluded); renewals are charged at the list price, with no discount.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or service (not a domain registration), you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
@@ -193,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to a new plan purchase (domain registration is excluded); renewals are charged at the list price, with no discount.",
+    "text": "Enter SONAR20 in the cart or use the link for 20% off the first term of an eligible new purchase. Domain registrations and renewals are excluded from the discount; check the total before paying.",
     "label": "See Hostinger plans",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

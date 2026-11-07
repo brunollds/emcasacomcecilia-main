@@ -91073,7 +91073,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reembolso: 30 dias, com exceções",
         "paragraphs": [
-          "A política de reembolso da Hostinger (versão de 15/10/2026) dá 30 dias para pedir o dinheiro de volta, contados da data da transação. Pela própria política, a renovação também é uma transação: cada cobrança recomeça o prazo. A tabela mostra o que ela lista:"
+          "A política de reembolso prevê 30 dias a partir da transação para produtos elegíveis; uma renovação também pode contar como transação. Isso não estende o prazo a produtos excluídos. A tabela resume as regras, com condições especiais para VPS e domínios:"
         ],
         "comparisonTable": {
           "headers": [
@@ -91087,7 +91087,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS (KVM)",
-              "Sim, em 30 dias, e só se o último reembolso de VPS tiver sido pedido há mais de 180 dias"
+              "Em até 30 dias da transação, sujeito ao intervalo de 180 dias entre reembolsos de VPS."
             ],
             [
               "E-mail Hostinger, certificado SSL, backups diários",
@@ -91159,7 +91159,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reclamações e avaliações",
         "paragraphs": [
-          "No Reclame Aqui, a nota é 8,4 em 12 meses. No Trustpilot é 4,6, mas com convites da empresa; os detalhes estão no [artigo sobre a Hostinger no Reclame Aqui](/reviews/hostinger-reclame-aqui-nota-reputacao)."
+          "Na última consulta, a Hostinger tinha nota 8,4 no recorte de 12 meses do Reclame Aqui e 4,6 no Trustpilot, onde havia avaliações a convite da empresa. Os recortes e os detalhes estão no [artigo de reputação da Hostinger](/reviews/hostinger-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -91172,13 +91172,13 @@ export const reviewsData: unknown[] = [
         "heading": "Nossa experiência",
         "paragraphs": [
           "O Em Casa com Cecília roda na Hostinger. O Bruno, que também assina este texto, é cliente desde 2024, com mais de 24 meses de contratos: hospedagem Business, um VPS KVM 2, e-mail Business e domínios, todos com renovação automática. Ele nunca viu o serviço cair, e toda vez que teve um problema, o suporte resolveu, principalmente o agente de IA.",
-          "Isso é uma experiência, não uma garantia. Ela não diz o que vai acontecer com o seu plano, nem com um plano de outro preço ou outro período."
+          "É o relato do Bruno, não um monitoramento de disponibilidade nem uma previsão para todos os planos."
         ]
       },
       {
         "heading": "Quando a Hostinger serve, e quando não",
         "paragraphs": [
-          "Para um blog, um site pessoal ou uma loja pequena, a Hostinger entrega o serviço com regras claras e um prazo de 30 dias para testar. Se o site não pode ficar fora do ar, saiba o que o 99,9% da página de preços vale: o contrato de hospedagem promete esse mínimo por mês e, quando falha, um crédito de 5% da mensalidade, pedido em até 30 dias; ele não cobre o que você deixou de vender. Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) tem as datas e as regras de cada oferta."
+          "Para um blog, um site pessoal ou uma loja pequena, a Hostinger entrega o serviço com regras claras; o reembolso de 30 dias depende da elegibilidade do produto e não vale como teste grátis para todos os produtos. Se o site não pode ficar fora do ar, saiba o que o 99,9% da página de preços vale: o contrato de hospedagem promete esse mínimo por mês e, quando falha, um crédito de 5% da mensalidade, pedido em até 30 dias; ele não cobre o que você deixou de vender. Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) tem as datas e as regras de cada oferta."
         ]
       },
       {
@@ -91190,7 +91190,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Hostinger é confiável? É uma empresa grande, com política de reembolso e de renovação públicas. O que pede atenção é a renovação automática e o preço dela, não a idoneidade da empresa.",
+          "A Hostinger é confiável? Nossa experiência com hospedagem e suporte foi positiva. Antes de contratar, confira o produto coberto pelo reembolso, o preço da renovação e a empresa que aparece no checkout; porte e política pública não substituem essas verificações.",
           "A Hostinger tem reembolso? Sim, de 30 dias para hospedagem e VPS, com as exceções da tabela. Renovação de domínio e serviços de suporte pagos não voltam.",
           "A renovação da Hostinger é automática? Sim, por padrão. Dá para desligar na conta a qualquer momento; sem renovação manual, o serviço encerra no fim do período.",
           "Quem cobra na Hostinger? Depende do país. Para o Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre, mas a Hostinger Brasil também aparece entre as empresas que podem cobrar. Confira o nome no checkout.",
@@ -91212,7 +91212,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em compra nova de plano (registro de domínio fica de fora); a renovação sai pelo preço de tabela, sem desconto.",
+      "text": "Digite SONAR20 no carrinho ou entre pelo link: 20% no primeiro período de uma compra nova elegível. Registro de domínio e renovação ficam fora do desconto; confira o total antes de pagar.",
       "label": "Ver os planos da Hostinger",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91292,7 +91292,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Refund: 30 days, with exceptions",
         "paragraphs": [
-          "Hostinger's refund policy (version of October 15, 2026) gives you 30 days to ask for your money back, counted from the transaction date. Under the policy itself, a renewal is also a transaction: each charge restarts the clock. The table shows what it lists:"
+          "The refund policy gives eligible products a 30-day window from the transaction date; a renewal can also count as a transaction. This does not make excluded products refundable. The table summarizes the rules, including special conditions for VPS plans and domains:"
         ],
         "comparisonTable": {
           "headers": [
@@ -91306,7 +91306,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS (KVM)",
-              "Yes, within 30 days, and only if the last VPS refund was requested more than 180 days ago"
+              "Within 30 days of the transaction, subject to the 180-day interval between VPS refunds."
             ],
             [
               "Hostinger email, SSL certificate, daily backups",
@@ -91374,7 +91374,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Complaints and reviews",
         "paragraphs": [
-          "On Trustpilot the score is 4.6, but with invitations from the company."
+          "When we last checked, Hostinger's Trustpilot score was 4.6, but the reviews included invitations from the company. That is a snapshot, not a measure of every customer's experience."
         ]
       },
       {
@@ -91387,13 +91387,13 @@ export const reviewsData: unknown[] = [
         "heading": "Our experience",
         "paragraphs": [
           "Em Casa com Cecília runs on Hostinger. Bruno, who also signs this text, has been a customer since 2024, with more than 24 months of contracts: Business hosting, a KVM 2 VPS, Business email and domains, all with automatic renewal. He has never seen the service go down, and every time he had a problem, support solved it, mainly the AI agent.",
-          "This is one experience, not a guarantee. It does not say what will happen with your plan, or with a plan at another price or for another period."
+          "This is Bruno's account, not uptime monitoring or a prediction for every plan."
         ]
       },
       {
         "heading": "When Hostinger fits, and when it does not",
         "paragraphs": [
-          "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules and 30 days to try it. If the site cannot go offline, know what the 99.9% on the pricing page is worth: the hosting agreement promises that minimum each month and, when it fails, a credit of 5% of the monthly fee, claimed within 30 days; it does not cover what you failed to sell. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
+          "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules; the 30-day refund depends on product eligibility and is not a free trial for every product. If the site cannot go offline, know what the 99.9% on the pricing page is worth: the hosting agreement promises that minimum each month and, when it fails, a credit of 5% of the monthly fee, claimed within 30 days; it does not cover what you failed to sell. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
         ]
       },
       {
@@ -91405,7 +91405,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Is Hostinger legit? It is a large company with public refund and renewal policies. What deserves attention is automatic renewal and its price, not the company's legitimacy.",
+          "Is Hostinger legit? Our experience with its hosting and support has been positive. Before buying, check refund eligibility, the renewal price and the company named at checkout; company size and public policies do not replace those checks.",
           "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
           "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time; without a manual renewal, the service ends at the end of the period.",
           "Who bills you at Hostinger? It depends on your country. The contracting company follows section 2 of the terms, and other companies in the group may also bill you. Check the name shown at checkout.",
@@ -91427,7 +91427,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to a new plan purchase (domain registration is excluded); renewals are charged at the list price, with no discount.",
+      "text": "Enter SONAR20 in the cart or use the link for 20% off the first term of an eligible new purchase. Domain registrations and renewals are excluded from the discount; check the total before paying.",
       "label": "See Hostinger plans",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91507,7 +91507,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reembolso: 30 días, con excepciones",
         "paragraphs": [
-          "La política de reembolso de Hostinger (versión del 15/10/2026) da 30 días para pedir el dinero de vuelta, contados desde la fecha de la transacción. Según la propia política, la renovación también es una transacción: cada cobro reinicia el plazo. La tabla muestra lo que lista:"
+          "La política prevé 30 días desde la transacción para productos elegibles; una renovación también puede contar como transacción. Esto no vuelve reembolsables los productos excluidos. La tabla resume las reglas y las condiciones especiales de VPS y dominios:"
         ],
         "comparisonTable": {
           "headers": [
@@ -91521,7 +91521,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS (KVM)",
-              "Sí, dentro de 30 días, y solo si el último reembolso de VPS se pidió hace más de 180 días"
+              "Dentro de 30 días desde la transacción, sujeto al intervalo de 180 días entre reembolsos de VPS."
             ],
             [
               "Correo de Hostinger, certificado SSL, copias de seguridad diarias",
@@ -91529,7 +91529,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Registro de dominio nuevo",
-              "Solo dentro de 96 horas, y algunas extensiones no admiten reembolso"
+              "Solo dentro de 96 horas, y solo si han pasado más de 24 horas desde un reembolso de dominio previo; algunas extensiones no admiten reembolso"
             ],
             [
               "Renovación de dominio",
@@ -91589,7 +91589,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quejas y reseñas",
         "paragraphs": [
-          "En Trustpilot la nota es 4,6, pero con invitaciones de la empresa."
+          "En la última consulta, Hostinger tenía un 4,6 en Trustpilot. Entre las reseñas había invitaciones de la empresa; es una referencia de ese momento, no la experiencia de todos los clientes."
         ]
       },
       {
@@ -91602,13 +91602,13 @@ export const reviewsData: unknown[] = [
         "heading": "Nuestra experiencia",
         "paragraphs": [
           "Em Casa com Cecília funciona en Hostinger. Bruno, que también firma este texto, es cliente desde 2024, con más de 24 meses de contratos: hosting Business, un VPS KVM 2, correo Business y dominios, todos con renovación automática. Nunca vio caer el servicio y, cada vez que tuvo un problema, el soporte lo resolvió, sobre todo el agente de IA.",
-          "Es una experiencia, no una garantía. No dice qué pasará con tu plan, ni con un plan de otro precio o de otro período."
+          "Es el relato de Bruno, no un seguimiento de disponibilidad ni una previsión para todos los planes."
         ]
       },
       {
         "heading": "Cuándo sirve Hostinger y cuándo no",
         "paragraphs": [
-          "Para un blog, un sitio personal o una tienda pequeña, Hostinger presta el servicio con reglas claras y un plazo de 30 días para probar. Si el sitio no puede caerse, ten claro lo que vale el 99,9 % de la página de precios: el contrato de hosting promete ese mínimo cada mes y, cuando falla, un crédito del 5 % de la mensualidad, que se pide en un plazo de 30 días; no cubre lo que dejaste de vender. Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) tiene las fechas y las reglas de cada oferta."
+          "Para un blog, un sitio personal o una tienda pequeña, Hostinger presta el servicio con reglas claras; el reembolso de 30 días depende del producto y no es una prueba gratuita para todos los productos. Si el sitio no puede caerse, ten claro lo que vale el 99,9 % de la página de precios: el contrato de hosting promete ese mínimo cada mes y, cuando falla, un crédito del 5 % de la mensualidad, que se pide en un plazo de 30 días; no cubre lo que dejaste de vender. Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) tiene las fechas y las reglas de cada oferta."
         ]
       },
       {
@@ -91620,7 +91620,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Es confiable Hostinger? Es una empresa grande, con políticas públicas de reembolso y de renovación. Lo que merece atención es la renovación automática y su precio, no la idoneidad de la empresa.",
+          "¿Es confiable Hostinger? Nuestra experiencia con el hosting y el soporte ha sido positiva. Antes de contratar, revisa la cobertura del reembolso, el precio de renovación y la empresa que aparece en el pago; el tamaño de la empresa y sus políticas públicas no sustituyen esas comprobaciones.",
           "¿Hostinger tiene reembolso? Sí, de 30 días para hosting y VPS, con las excepciones de la tabla. La renovación de dominio y los servicios de soporte de pago no se reembolsan.",
           "¿La renovación de Hostinger es automática? Sí, por defecto. Puedes desactivarla en la cuenta en cualquier momento; sin renovación manual, el servicio termina al final del período.",
           "¿Quién cobra en Hostinger? Depende del país. La empresa contratante sigue la sección 2 de los términos, y otras empresas del grupo también pueden cobrar. Revisa el nombre en el checkout.",
@@ -91642,7 +91642,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a la compra nueva de un plan (el registro de dominio queda fuera); la renovación se cobra al precio de lista, sin descuento.",
+      "text": "Introduce SONAR20 en el carrito o entra por el enlace: 20 % en el primer período de una compra nueva elegible. El registro de dominios y la renovación quedan fuera del descuento; revisa el total antes de pagar.",
       "label": "Ver los planes de Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91722,7 +91722,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Remboursement : 30 jours, avec exceptions",
         "paragraphs": [
-          "La politique de remboursement de Hostinger (version du 15/10/2026) donne 30 jours pour demander le remboursement, à compter de la date de la transaction. Selon la politique elle-même, un renouvellement est aussi une transaction : chaque prélèvement relance le délai. Le tableau montre ce qu'elle liste :"
+          "La politique prévoit 30 jours après la transaction pour les produits éligibles ; un renouvellement peut aussi constituer une transaction. Cela ne rend pas remboursables les produits exclus. Le tableau résume les règles et les conditions particulières des VPS et des domaines :"
         ],
         "comparisonTable": {
           "headers": [
@@ -91736,7 +91736,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS (KVM)",
-              "Oui, sous 30 jours, et seulement si le dernier remboursement de VPS a été demandé il y a plus de 180 jours"
+              "Sous 30 jours après la transaction, avec un intervalle de 180 jours entre remboursements VPS."
             ],
             [
               "E-mail Hostinger, certificat SSL, sauvegardes quotidiennes",
@@ -91744,7 +91744,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nouvel enregistrement de domaine",
-              "Seulement sous 96 heures, et certaines extensions ne sont pas remboursables"
+              "Seulement sous 96 heures, et uniquement si plus de 24 heures se sont écoulées depuis un précédent remboursement de domaine ; certaines extensions ne sont pas remboursables"
             ],
             [
               "Renouvellement de domaine",
@@ -91804,7 +91804,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Plaintes et avis",
         "paragraphs": [
-          "Sur Trustpilot, la note est de 4,6, mais avec des invitations de l'entreprise."
+          "Lors de la dernière consultation, Hostinger avait une note de 4,6 sur Trustpilot. Les avis comprenaient des invitations de l'entreprise : c'est une référence de ce moment, pas l'expérience de tous les clients."
         ]
       },
       {
@@ -91817,13 +91817,13 @@ export const reviewsData: unknown[] = [
         "heading": "Notre expérience",
         "paragraphs": [
           "Em Casa com Cecília fonctionne sur Hostinger. Bruno, qui signe aussi ce texte, est client depuis 2024, avec plus de 24 mois de contrats : hébergement Business, un VPS KVM 2, e-mail Business et domaines, tous avec renouvellement automatique. Il n'a jamais vu le service tomber et, chaque fois qu'il a eu un problème, le support l'a résolu, surtout l'agent IA.",
-          "C'est une expérience, pas une garantie. Elle ne dit pas ce qui arrivera avec votre forfait, ni avec un forfait à un autre prix ou pour une autre période."
+          "Il s'agit du témoignage de Bruno, pas d'un suivi de disponibilité ni d'une prévision pour tous les forfaits."
         ]
       },
       {
         "heading": "Quand Hostinger convient, et quand non",
         "paragraphs": [
-          "Pour un blog, un site personnel ou une petite boutique, Hostinger fournit le service avec des règles claires et 30 jours pour essayer. Si le site ne peut pas tomber, sachez ce que vaut le 99,9 % de la page des tarifs : le contrat d'hébergement promet ce minimum chaque mois et, en cas de manquement, un crédit de 5 % de la mensualité, à demander sous 30 jours ; il ne couvre pas ce que vous n'avez pas pu vendre. Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) donne les dates et les règles de chaque offre."
+          "Pour un blog, un site personnel ou une petite boutique, Hostinger fournit le service avec des règles claires ; le remboursement sous 30 jours dépend du produit et n'est pas un essai gratuit pour tous les produits. Si le site ne peut pas tomber, sachez ce que vaut le 99,9 % de la page des tarifs : le contrat d'hébergement promet ce minimum chaque mois et, en cas de manquement, un crédit de 5 % de la mensualité, à demander sous 30 jours ; il ne couvre pas ce que vous n'avez pas pu vendre. Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) donne les dates et les règles de chaque offre."
         ]
       },
       {
@@ -91835,7 +91835,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Hostinger est-il fiable ? C'est une grande entreprise, avec des politiques publiques de remboursement et de renouvellement. Ce qui demande de l'attention, c'est le renouvellement automatique et son prix, pas le sérieux de l'entreprise.",
+          "Hostinger est-il fiable ? Notre expérience de l'hébergement et du support a été positive. Avant de souscrire, vérifiez les produits remboursables, le tarif de renouvellement et la société indiquée au paiement ; la taille de l'entreprise et ses politiques publiques ne remplacent pas ces vérifications.",
           "Hostinger rembourse-t-il ? Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
           "Le renouvellement chez Hostinger est-il automatique ? Oui, par défaut. Vous pouvez le désactiver dans le compte à tout moment ; sans renouvellement manuel, le service s'arrête à la fin de la période.",
           "Qui facture chez Hostinger ? Cela dépend du pays. La société contractante suit la section 2 des conditions, et d'autres sociétés du groupe peuvent aussi facturer. Vérifiez le nom affiché au paiement.",
@@ -91857,7 +91857,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour le nouvel achat d'un forfait (l'enregistrement de domaine est exclu) ; le renouvellement est facturé au prix catalogue, sans réduction.",
+      "text": "Saisissez SONAR20 dans le panier ou passez par le lien : 20 % sur la première période d'un nouvel achat éligible. Les enregistrements de domaines et les renouvellements sont exclus de la réduction ; vérifiez le total avant de payer.",
       "label": "Voir les forfaits Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91937,7 +91937,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Erstattung: 30 Tage, mit Ausnahmen",
         "paragraphs": [
-          "Die Erstattungsrichtlinie von Hostinger (Stand 15.10.2026) gibt Ihnen 30 Tage, um das Geld zurückzufordern, gerechnet ab dem Datum der Transaktion. Nach der Richtlinie selbst ist auch eine Verlängerung eine Transaktion: Jede Abbuchung startet die Frist neu. Die Tabelle zeigt, was sie aufführt:"
+          "Die Richtlinie sieht für erstattungsfähige Produkte 30 Tage ab der Transaktion vor; auch eine Verlängerung kann als Transaktion zählen. Ausgeschlossene Produkte werden dadurch nicht erstattungsfähig. Die Tabelle fasst die Regeln und Sonderbedingungen für VPS und Domains zusammen:"
         ],
         "comparisonTable": {
           "headers": [
@@ -91951,7 +91951,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS (KVM)",
-              "Ja, innerhalb von 30 Tagen, und nur wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde"
+              "Innerhalb von 30 Tagen nach der Transaktion, vorbehaltlich des 180-Tage-Abstands zwischen VPS-Erstattungen."
             ],
             [
               "Hostinger-E-Mail, SSL-Zertifikat, tägliche Backups",
@@ -91959,7 +91959,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Neue Domainregistrierung",
-              "Nur innerhalb von 96 Stunden, einige Endungen sind nicht erstattungsfähig"
+              "Nur innerhalb von 96 Stunden, und nur wenn seit einer vorherigen Domain-Erstattung mehr als 24 Stunden vergangen sind; einige Endungen sind nicht erstattungsfähig"
             ],
             [
               "Domainverlängerung",
@@ -92019,7 +92019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Beschwerden und Bewertungen",
         "paragraphs": [
-          "Auf Trustpilot liegt die Bewertung bei 4,6, allerdings mit Einladungen durch das Unternehmen."
+          "Bei der letzten Prüfung lag Hostingers Trustpilot-Bewertung bei 4,6. Darunter waren vom Unternehmen eingeladene Bewertungen; der Wert ist eine Momentaufnahme und beschreibt nicht die Erfahrung aller Kunden."
         ]
       },
       {
@@ -92032,13 +92032,13 @@ export const reviewsData: unknown[] = [
         "heading": "Unsere Erfahrung",
         "paragraphs": [
           "Em Casa com Cecília läuft auf Hostinger. Bruno, der auch diesen Text unterschreibt, ist seit 2024 Kunde, mit mehr als 24 Monaten Vertragslaufzeit: Business-Hosting, ein VPS KVM 2, Business-E-Mail und Domains, alle mit automatischer Verlängerung. Er hat nie erlebt, dass der Dienst ausgefallen ist, und jedes Mal, wenn er ein Problem hatte, hat der Support es gelöst, vor allem der KI-Agent.",
-          "Das ist eine Erfahrung, keine Garantie. Sie sagt nicht, was mit Ihrem Tarif passiert, auch nicht mit einem Tarif zu einem anderen Preis oder für einen anderen Zeitraum."
+          "Das ist Brunos Erfahrungsbericht, keine Verfügbarkeitsmessung und keine Vorhersage für alle Tarife."
         ]
       },
       {
         "heading": "Wann Hostinger passt und wann nicht",
         "paragraphs": [
-          "Für einen Blog, eine private Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln und 30 Tagen zum Ausprobieren. Wenn die Website nicht offline gehen darf, sollten Sie wissen, was die 99,9 % auf der Preisseite wert sind: Der Hosting-Vertrag verspricht dieses Minimum pro Monat und, wenn es verfehlt wird, eine Gutschrift von 5 % der Monatsgebühr, die innerhalb von 30 Tagen zu beantragen ist; er deckt nicht ab, was Sie nicht verkaufen konnten. Wenn Sie wegen des Black Friday fragen: Der [Leitfaden zur Aktion](/de/reviews/hostinger-black-friday-angebote) nennt die Daten und die Regeln jedes Angebots."
+          "Für einen Blog, eine private Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln; die Erstattung innerhalb von 30 Tagen hängt vom Produkt ab und ist keine allgemeine kostenlose Testphase. Wenn die Website nicht offline gehen darf, sollten Sie wissen, was die 99,9 % auf der Preisseite wert sind: Der Hosting-Vertrag verspricht dieses Minimum pro Monat und, wenn es verfehlt wird, eine Gutschrift von 5 % der Monatsgebühr, die innerhalb von 30 Tagen zu beantragen ist; er deckt nicht ab, was Sie nicht verkaufen konnten. Wenn Sie wegen des Black Friday fragen: Der [Leitfaden zur Aktion](/de/reviews/hostinger-black-friday-angebote) nennt die Daten und die Regeln jedes Angebots."
         ]
       },
       {
@@ -92050,7 +92050,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Ist Hostinger seriös? Es ist ein großes Unternehmen mit öffentlichen Richtlinien zu Erstattung und Verlängerung. Aufmerksamkeit verdient die automatische Verlängerung samt Preis, nicht die Seriosität des Unternehmens.",
+          "Ist Hostinger seriös? Unsere Erfahrung mit Hosting und Support war positiv. Prüfen Sie vor dem Kauf die Erstattungsfähigkeit, den Verlängerungspreis und das beim Bezahlen genannte Unternehmen; Größe und öffentliche Richtlinien ersetzen diese Prüfung nicht.",
           "Erstattet Hostinger Geld? Ja, innerhalb von 30 Tagen für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Support-Leistungen werden nicht erstattet.",
           "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können das im Konto jederzeit abschalten; ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
           "Wer rechnet bei Hostinger ab? Das hängt vom Land ab. Das Vertragsunternehmen folgt Abschnitt 2 der Bedingungen, und auch andere Unternehmen der Gruppe können abrechnen. Prüfen Sie den Namen beim Checkout.",
@@ -92072,7 +92072,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für den Neukauf eines Tarifs (Domainregistrierung ausgenommen); die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+      "text": "Geben Sie SONAR20 im Warenkorb ein oder nutzen Sie den Link: 20 % auf den ersten Zeitraum eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind vom Rabatt ausgeschlossen; prüfen Sie den Gesamtbetrag vor dem Bezahlen.",
       "label": "Hostinger-Tarife ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92152,7 +92152,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Rimborso: 30 giorni, con eccezioni",
         "paragraphs": [
-          "La politica di rimborso di Hostinger (versione del 15/10/2026) concede 30 giorni per chiedere il rimborso, contati dalla data della transazione. Secondo la politica stessa, anche il rinnovo è una transazione: ogni addebito fa ripartire il termine. La tabella mostra cosa elenca:"
+          "La politica prevede 30 giorni dalla transazione per i prodotti idonei; anche un rinnovo può contare come transazione. Questo non rende rimborsabili i prodotti esclusi. La tabella riassume le regole e le condizioni particolari per VPS e domini:"
         ],
         "comparisonTable": {
           "headers": [
@@ -92166,7 +92166,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS (KVM)",
-              "Sì, entro 30 giorni, e solo se l'ultimo rimborso di un VPS è stato richiesto più di 180 giorni fa"
+              "Entro 30 giorni dalla transazione, con l'intervallo di 180 giorni tra rimborsi VPS."
             ],
             [
               "Email Hostinger, certificato SSL, backup giornalieri",
@@ -92174,7 +92174,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nuova registrazione di dominio",
-              "Solo entro 96 ore, e alcune estensioni non sono rimborsabili"
+              "Solo entro 96 ore, e solo se sono trascorse più di 24 ore da un precedente rimborso di un dominio; alcune estensioni non sono rimborsabili"
             ],
             [
               "Rinnovo di dominio",
@@ -92234,7 +92234,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Reclami e recensioni",
         "paragraphs": [
-          "Su Trustpilot il punteggio è 4,6, ma con inviti da parte dell'azienda."
+          "All'ultima verifica, Hostinger aveva un punteggio di 4,6 su Trustpilot. Le recensioni includevano inviti dell'azienda: è un riferimento di quel momento, non l'esperienza di tutti i clienti."
         ]
       },
       {
@@ -92247,13 +92247,13 @@ export const reviewsData: unknown[] = [
         "heading": "La nostra esperienza",
         "paragraphs": [
           "Em Casa com Cecília gira su Hostinger. Bruno, che firma anche questo testo, è cliente dal 2024, con più di 24 mesi di contratti: hosting Business, un VPS KVM 2, email Business e domini, tutti con rinnovo automatico. Non ha mai visto il servizio andare giù e, ogni volta che ha avuto un problema, l'assistenza lo ha risolto, soprattutto l'agente IA.",
-          "È un'esperienza, non una garanzia. Non dice cosa succederà con il tuo piano, né con un piano a un altro prezzo o per un altro periodo."
+          "È il racconto di Bruno, non un monitoraggio della disponibilità né una previsione per tutti i piani."
         ]
       },
       {
         "heading": "Quando Hostinger va bene, e quando no",
         "paragraphs": [
-          "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare e 30 giorni per provare. Se il sito non può andare offline, sappi quanto vale il 99,9% della pagina dei prezzi: il contratto di hosting promette questo minimo ogni mese e, quando non lo rispetta, un credito del 5% del canone mensile, da richiedere entro 30 giorni; non copre ciò che hai smesso di vendere. Se il tuo dubbio è il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) ha le date e le regole di ogni offerta."
+          "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare; il rimborso di 30 giorni dipende dall'idoneità del prodotto e non vale come prova gratuita per tutti i prodotti. Se il sito non può andare offline, sappi quanto vale il 99,9% della pagina dei prezzi: il contratto di hosting promette questo minimo ogni mese e, quando non lo rispetta, un credito del 5% del canone mensile, da richiedere entro 30 giorni; non copre ciò che hai smesso di vendere. Se il tuo dubbio è il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) ha le date e le regole di ogni offerta."
         ]
       },
       {
@@ -92265,7 +92265,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Hostinger è affidabile? È un'azienda grande, con politiche pubbliche di rimborso e di rinnovo. Ciò che merita attenzione è il rinnovo automatico e il suo prezzo, non l'affidabilità dell'azienda.",
+          "Hostinger è affidabile? La nostra esperienza con hosting e assistenza è stata positiva. Prima di acquistare, controlla l'idoneità al rimborso, il prezzo del rinnovo e l'azienda indicata al pagamento; dimensioni e politiche pubbliche non sostituiscono queste verifiche.",
           "Hostinger rimborsa? Sì, entro 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo di dominio e i servizi di assistenza a pagamento non vengono rimborsati.",
           "Il rinnovo di Hostinger è automatico? Sì, per impostazione predefinita. Puoi disattivarlo nell'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
           "Chi addebita su Hostinger? Dipende dal paese. L'azienda contraente segue la sezione 2 dei termini, e anche altre società del gruppo possono addebitare. Controlla il nome mostrato al checkout.",
@@ -92287,7 +92287,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono sull'acquisto nuovo di un piano (la registrazione di domini è esclusa); il rinnovo si paga al prezzo di listino, senza sconto.",
+      "text": "Inserisci SONAR20 nel carrello o usa il link: 20% sul primo periodo di un nuovo acquisto idoneo. La registrazione di domini e il rinnovo sono esclusi dallo sconto; controlla il totale prima di pagare.",
       "label": "Vedi i piani di Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92367,7 +92367,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "환불: 30일, 예외 있음",
         "paragraphs": [
-          "호스팅어의 환불 정책(2026년 10월 15일 버전)은 거래일로부터 30일 안에 환불을 요청할 수 있다고 정합니다. 정책에 따르면 갱신도 하나의 거래이므로, 청구가 있을 때마다 기간이 다시 시작됩니다. 아래 표는 정책에 나와 있는 내용입니다."
+          "환불 정책은 대상 상품에 대해 거래일로부터 30일의 신청 기간을 정하며, 갱신도 거래에 포함될 수 있습니다. 그렇다고 환불 제외 상품까지 대상이 되는 것은 아닙니다. 아래 표는 VPS와 도메인의 특별 조건을 포함한 주요 규정을 정리한 것입니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -92381,7 +92381,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS (KVM)",
-              "예, 30일 이내. 단, 마지막 VPS 환불을 요청한 지 180일이 넘은 경우에만"
+              "거래일로부터 30일 이내이며, VPS 환불 사이에는 180일 간격 조건이 적용됩니다."
             ],
             [
               "호스팅어 이메일, SSL 인증서, 일일 백업",
@@ -92389,7 +92389,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "신규 도메인 등록",
-              "96시간 이내에만, 환불이 안 되는 확장자도 있음"
+              "96시간 이내에만(이전 도메인 환불 신청 후 24시간 이상 지난 경우), 환불이 안 되는 확장자도 있음"
             ],
             [
               "도메인 갱신",
@@ -92449,7 +92449,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "불만과 후기",
         "paragraphs": [
-          "Trustpilot 평점은 4.6이지만, 회사의 후기 요청이 반영된 점수입니다."
+          "최근 확인 당시 호스팅어의 Trustpilot 평점은 4.6이었습니다. 회사의 요청을 받아 작성된 후기도 포함됩니다. 이 수치는 당시의 기록이며 모든 고객의 경험을 나타내지는 않습니다."
         ]
       },
       {
@@ -92461,14 +92461,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "저희 경험",
         "paragraphs": [
-          "Em Casa com Cecília는 호스팅어에서 운영됩니다. 이 글에 서명한 브루노는 2024년부터 고객이었으며, 24개월 이상의 계약을 유지하고 있습니다. 비즈니스 호스팅, KVM 2 VPS, 비즈니스 이메일과 도메인이 있고, 모두 자동 갱신입니다. 서비스가 중단된 적은 없었고, 문제가 생길 때마다 지원이, 주로 AI 상담원이 해결해 주었습니다.",
-          "이것은 하나의 경험일 뿐 보장이 아닙니다. 회원님의 요금제나, 가격 또는 기간이 다른 요금제에 어떤 일이 생길지는 알려 주지 않습니다."
+          "Em Casa com Cecília는 호스팅어에서 운영됩니다. 이 글에 서명한 브루노는 2024년부터 고객이었으며, 24개월 이상의 계약을 유지하고 있습니다. 비즈니스 호스팅, KVM 2 VPS, 비즈니스 이메일과 도메인이 있고, 모두 자동 갱신입니다. 브루노는 서비스 중단을 직접 겪지 않았으며, 문제가 생길 때마다 지원이, 주로 AI 상담원이 해결해 주었습니다.",
+          "브루노 개인의 이용 기록이지, 가용성 모니터링이나 모든 요금제에 대한 예측은 아닙니다."
         ]
       },
       {
         "heading": "호스팅어가 맞을 때와 맞지 않을 때",
         "paragraphs": [
-          "블로그, 개인 사이트, 작은 쇼핑몰이라면 호스팅어는 분명한 규정과 써 볼 수 있는 30일을 제공합니다. 사이트가 중단되면 안 된다면 요금 페이지의 99.9%가 어떤 의미인지 알아 두세요. 호스팅 계약은 매월 이 최소 수준을 약속하며, 지키지 못하면 월 요금의 5%를 크레딧으로 주고, 30일 이내에 신청해야 합니다. 놓친 매출은 보상하지 않습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에 일정과 각 혜택의 규정이 있습니다."
+          "블로그, 개인 사이트, 작은 쇼핑몰이라면 호스팅어는 분명한 규정을 제공합니다. 30일 환불은 대상 상품에만 적용되며, 모든 상품을 무료로 써 볼 수 있는 것은 아닙니다. 사이트가 중단되면 안 된다면 요금 페이지의 99.9%가 어떤 의미인지 알아 두세요. 호스팅 계약은 매월 이 최소 수준을 약속하며, 지키지 못하면 월 요금의 5%를 크레딧으로 주고, 30일 이내에 신청해야 합니다. 놓친 매출은 보상하지 않습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에 일정과 각 혜택의 규정이 있습니다."
         ]
       },
       {
@@ -92480,7 +92480,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "호스팅어는 믿을 만한가요? 환불과 갱신 정책을 공개한 대형 업체입니다. 눈여겨볼 것은 회사의 신뢰성이 아니라 자동 갱신과 그 가격입니다.",
+          "호스팅어는 믿을 만한가요? 저희의 호스팅과 지원 이용 경험은 긍정적이었습니다. 계약 전에는 환불 대상, 갱신 가격, 결제 화면에 표시된 회사를 확인하세요. 회사 규모와 공개된 정책만으로 이 확인을 대신할 수는 없습니다.",
           "호스팅어는 환불해 주나요? 네, 호스팅과 VPS는 30일 이내이며 표의 예외가 있습니다. 도메인 갱신과 유료 지원 서비스는 환불되지 않습니다.",
           "호스팅어의 갱신은 자동인가요? 네, 기본값은 자동입니다. 계정에서 언제든 끌 수 있고, 직접 갱신하지 않으면 기간이 끝날 때 서비스가 종료됩니다.",
           "호스팅어에서는 누가 결제를 청구하나요? 국가에 따라 다릅니다. 계약 당사자 회사는 약관 제2조를 따르며, 그룹 내 다른 회사가 청구할 수도 있습니다. 결제 화면에 표시되는 이름을 확인하세요.",
@@ -92502,7 +92502,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 20% 할인은 요금제 신규 구매에 적용되며(도메인 등록은 제외), 갱신은 할인 없이 정가로 청구됩니다.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 대상 신규 구매의 첫 결제 기간에 20% 할인이 적용됩니다. 도메인 등록과 갱신은 제외되니, 결제 전에 최종 금액을 확인하세요.",
       "label": "호스팅어 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92582,7 +92582,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "返金：30日間、例外あり",
         "paragraphs": [
-          "Hostingerの返金ポリシー（2026年10月15日版）では、取引日から30日以内に返金を求めることができます。ポリシー上、更新も一つの取引にあたるため、請求のたびに期間が新たに始まります。次の表はポリシーに記載されている内容です。"
+          "返金ポリシーでは、対象商品について取引日から30日以内の申請を認めており、更新も取引に含まれる場合があります。対象外の商品まで返金可能になるわけではありません。表では、VPSとドメインの特別条件を含む主なルールをまとめています。"
         ],
         "comparisonTable": {
           "headers": [
@@ -92596,7 +92596,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS（KVM）",
-              "はい、30日以内。ただし前回のVPS返金申請から180日を超えて経過している場合に限る"
+              "取引日から30日以内。VPSの返金は前回の申請から180日の間隔が必要です。"
             ],
             [
               "Hostingerメール、SSL証明書、毎日のバックアップ",
@@ -92604,7 +92604,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "新規ドメイン登録",
-              "96時間以内に限る（対象外の拡張子もあります）"
+              "96時間以内に限る（対象外の拡張子もあります。前回のドメイン返金から24時間以上経過している場合のみ）"
             ],
             [
               "ドメインの更新",
@@ -92664,7 +92664,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "苦情とレビュー",
         "paragraphs": [
-          "Trustpilotの評価は4.6ですが、会社からの招待によるレビューを含みます。"
+          "最後に確認した時点で、HostingerのTrustpilot評価は4.6でした。会社からの招待によるレビューも含まれます。この時点の記録であり、すべての顧客の経験を示すものではありません。"
         ]
       },
       {
@@ -92676,14 +92676,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "私たちの経験",
         "paragraphs": [
-          "Em Casa com CecíliaはHostinger上で動いています。この文章の署名者でもあるBrunoは2024年からの顧客で、24か月を超える契約があります。ビジネスホスティング、KVM 2 VPS、ビジネスメールとドメインを、すべて自動更新で利用しています。サービスが停止したことはなく、問題が起きるたびにサポート、主にAIエージェントが解決してくれました。",
-          "これは一つの経験であり、保証ではありません。あなたのプランや、価格や期間の異なるプランで何が起きるかを示すものではありません。"
+          "Em Casa com CecíliaはHostinger上で動いています。この文章の署名者でもあるBrunoは2024年からの顧客で、24か月を超える契約があります。ビジネスホスティング、KVM 2 VPS、ビジネスメールとドメインを、すべて自動更新で利用しています。Bruno自身はサービスの停止を経験しておらず、問題が起きるたびにサポート、主にAIエージェントが解決してくれました。",
+          "これはBruno個人の利用記録であり、稼働率の監視結果や全プランの予測ではありません。"
         ]
       },
       {
         "heading": "Hostingerが向いている場合、向いていない場合",
         "paragraphs": [
-          "ブログ、個人サイト、小さなショップであれば、Hostingerは明確なルールと、試すための30日間でサービスを提供します。サイトを止められない場合は、料金ページの99.9%がどれほどの価値かを知っておいてください。ホスティング契約は毎月この最低水準を約束しており、守られなかったときは月額料金の5%がクレジットされ、30日以内の申請が必要です。ただし、売り損ねた分は補償されません。ブラックフライデーについて知りたい場合は、[キャンペーンのガイド](/ja/reviews/hostinger-black-friday-ja)に日程と各オファーのルールがあります。"
+          "ブログ、個人サイト、小規模なショップなら、Hostingerは明確なルールのもとでサービスを提供します。30日間の返金は対象商品に限られ、すべての商品を無料で試せる制度ではありません。サイトを止められない場合は、料金ページの99.9%がどれほどの価値かを知っておいてください。ホスティング契約は毎月この最低水準を約束しており、守られなかったときは月額料金の5%がクレジットされ、30日以内の申請が必要です。ただし、売り損ねた分は補償されません。ブラックフライデーについて知りたい場合は、[キャンペーンのガイド](/ja/reviews/hostinger-black-friday-ja)に日程と各オファーのルールがあります。"
         ]
       },
       {
@@ -92695,7 +92695,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "Hostingerは信頼できますか？ 返金と更新のポリシーを公開している大手企業です。注目すべきは会社の信頼性ではなく、自動更新とその価格です。",
+          "Hostingerは信頼できますか？ 私たちのホスティングとサポートの利用経験は良好でした。契約前には返金対象、更新価格、支払い画面に出る会社を確認してください。会社の規模や公開ポリシーだけで、その確認を省くことはできません。",
           "Hostingerは返金してくれますか？ はい。ホスティングとVPSは30日以内で、表の例外があります。ドメインの更新と有料のサポートサービスは返金されません。",
           "Hostingerの更新は自動ですか？ はい、初期設定では自動です。アカウントからいつでもオフにできます。手動で更新しなければ、期間の終わりにサービスは終了します。",
           "Hostingerでは誰が請求しますか？ 国によって異なります。契約する会社は規約の第2条に従い、グループ内の他の会社が請求することもあります。チェックアウト画面に表示される名前を確認してください。",
@@ -92717,7 +92717,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。20%割引はプランの新規購入に適用され（ドメイン登録は対象外）、更新は通常料金で、割引はありません。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、対象となる新規購入の初回期間が20%割引になります。ドメイン登録と更新は対象外です。支払い前に合計を確認してください。",
       "label": "Hostingerのプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92797,7 +92797,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "退款：30 天，有例外",
         "paragraphs": [
-          "Hostinger 的退款政策（2026 年 10 月 15 日版本）給予 30 天的申請期，從交易日起算。依政策本身的說法，續訂也算一筆交易：每次扣款都會重新計算期限。下表列出政策中的內容："
+          "退款政策給予符合資格的產品自交易日起30天的申請期，續訂也可能算一筆交易。這不代表原本不退款的產品也變成可退款。下表整理主要規則，VPS與網域另有特殊條件："
         ],
         "comparisonTable": {
           "headers": [
@@ -92811,7 +92811,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS（KVM）",
-              "可以，30 天內，且僅限上一次 VPS 退款是在 180 天以前申請的"
+              "交易日起30天內，並須符合VPS退款之間的180天間隔。"
             ],
             [
               "Hostinger 電子郵件、SSL 憑證、每日備份",
@@ -92819,7 +92819,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "新網域註冊",
-              "只限 96 小時內，部分網域後綴不支援退款"
+              "只限 96 小時內（且距上一次網域退款申請須超過 24 小時），部分網域後綴不支援退款"
             ],
             [
               "網域續訂",
@@ -92879,7 +92879,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "投訴與評價",
         "paragraphs": [
-          "在 Trustpilot 上評分為 4.6，但其中有公司發出邀請而來的評價。"
+          "最近一次查詢時，Trustpilot 上的評分為 4.6，其中包含公司發出邀請而來的評價。這是當時的紀錄，不代表所有客戶的體驗。"
         ]
       },
       {
@@ -92892,13 +92892,13 @@ export const reviewsData: unknown[] = [
         "heading": "我們的經驗",
         "paragraphs": [
           "Em Casa com Cecília 的網站運行於 Hostinger。同時署名本文的 Bruno 自 2024 年起就是客戶，已有超過 24 個月的合約：商務主機、KVM 2 VPS、商務電郵與網域，全部設定自動續訂。他從未遇過停機，每次遇到問題，客服都解決了，主要是 AI 客服代理。",
-          "這只是一次個人經驗，不是保證。它說明不了你的方案會怎樣，也說明不了價格或期限不同的方案會怎樣。"
+          "這是Bruno個人的使用紀錄，不是可用性監測結果，也不能預測每個方案的表現。"
         ]
       },
       {
         "heading": "Hostinger 適合誰，不適合誰",
         "paragraphs": [
-          "如果是部落格、個人網站或小型網店，Hostinger 提供規則清楚的服務，並有 30 天可以試用。如果網站不能停機，請了解價格頁面上的 99.9% 究竟代表什麼：主機代管合約承諾每月達到這個最低水準，未達到時給予月費 5% 的抵免額度，須在 30 天內申請；它不補償你因此少賣的損失。如果你想了解黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)裡有各項優惠的日期與規則。"
+          "如果是部落格、個人網站或小型網店，Hostinger 提供規則清楚的服務。30 天退款僅適用符合資格的產品，並非所有產品都能免費試用。如果網站不能停機，請了解價格頁面上的 99.9% 究竟代表什麼：主機代管合約承諾每月達到這個最低水準，未達到時給予月費 5% 的抵免額度，須在 30 天內申請；它不補償你因此少賣的損失。如果你想了解黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)裡有各項優惠的日期與規則。"
         ]
       },
       {
@@ -92910,7 +92910,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "Hostinger 可靠嗎？這是一家大公司，退款與續訂政策都是公開的。值得留意的是自動續訂及其價格，而不是公司本身是否正規。",
+          "Hostinger 可靠嗎？我們使用主機與客服的經驗是正面的。購買前仍應核對退款資格、續訂價格及結帳頁面顯示的公司；公司規模與公開政策不能取代這些確認。",
           "Hostinger 可以退款嗎？可以，主機與 VPS 在 30 天內，表中列出了例外。網域續訂與付費支援服務不退款。",
           "Hostinger 的續訂是自動的嗎？是，預設如此。你可以隨時在帳戶中關閉；如果不手動續訂，服務會在期限結束時終止。",
           "Hostinger 由誰來扣款？這取決於所在國家。簽約公司依據條款第 2 條決定，集團內的其他公司也可能扣款。請核對結帳頁面上顯示的名稱。",
@@ -92932,7 +92932,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。SONAR20 的 20% 折扣適用於方案的新購買（網域註冊除外）；續訂按定價計算，沒有折扣。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：符合資格的新購首期享 20% 折扣。網域註冊與續訂不適用，付款前請確認總額。",
       "label": "查看 Hostinger 方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93012,7 +93012,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "退款：30 天，有例外",
         "paragraphs": [
-          "Hostinger 的退款政策（2026 年 10 月 15 日版本）给出 30 天的申请期，从交易日起算。按政策本身的说法，续费也算一笔交易：每次扣款都会重新开始计算。下表列出了政策中的内容："
+          "退款政策为符合条件的产品提供自交易日起30天的申请期，续费也可能算一笔交易。这不代表原本不退款的产品也变成可以退款。下表整理主要规则，VPS和域名另有特殊条件："
         ],
         "comparisonTable": {
           "headers": [
@@ -93026,7 +93026,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "VPS（KVM）",
-              "可以，30 天内，且仅限上一次 VPS 退款是在 180 天以前申请的"
+              "交易日起30天内，并须符合VPS退款之间的180天间隔。"
             ],
             [
               "Hostinger 邮箱、SSL 证书、每日备份",
@@ -93034,7 +93034,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "新域名注册",
-              "仅限 96 小时内，部分后缀不支持退款"
+              "仅限 96 小时内（且距上一次域名退款申请须超过 24 小时），部分后缀不支持退款"
             ],
             [
               "域名续费",
@@ -93094,7 +93094,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "投诉与评价",
         "paragraphs": [
-          "在 Trustpilot 上评分为 4.6，但其中有公司发出邀请而来的评价。"
+          "最近一次查询时，Trustpilot 上的评分为 4.6，其中包含公司发出邀请而来的评价。这是当时的记录，不代表所有客户的体验。"
         ]
       },
       {
@@ -93107,13 +93107,13 @@ export const reviewsData: unknown[] = [
         "heading": "我们的经验",
         "paragraphs": [
           "Em Casa com Cecília 的网站运行在 Hostinger 上。同时署名本文的 Bruno 自 2024 年起就是客户，已有超过 24 个月的合同：商务主机、KVM 2 VPS、商务邮箱和域名，全部设置了自动续费。他从未遇到过宕机，每次遇到问题，客服都解决了，主要是 AI 客服代理。",
-          "这只是一次个人经验，不是保证。它说明不了你的套餐会怎样，也说明不了价格或周期不同的套餐会怎样。"
+          "这是Bruno个人的使用记录，不是可用性监测结果，也不能预测每个套餐的表现。"
         ]
       },
       {
         "heading": "Hostinger 适合谁，不适合谁",
         "paragraphs": [
-          "如果是博客、个人网站或小型网店，Hostinger 提供规则清晰的服务，并有 30 天可以试用。如果网站不能宕机，请了解价格页面上的 99.9% 到底意味着什么：托管协议承诺每月达到这一最低水平，未达到时给予月费 5% 的抵扣额度，需在 30 天内申请；它不赔偿你因此少卖的损失。如果你想了解黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)里有各项优惠的日期和规则。"
+          "如果是博客、个人网站或小型网店，Hostinger 提供规则清晰的服务。30 天退款只适用于符合条件的产品，并非所有产品都能免费试用。如果网站不能宕机，请了解价格页面上的 99.9% 到底意味着什么：托管协议承诺每月达到这一最低水平，未达到时给予月费 5% 的抵扣额度，需在 30 天内申请；它不赔偿你因此少卖的损失。如果你想了解黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)里有各项优惠的日期和规则。"
         ]
       },
       {
@@ -93125,7 +93125,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "Hostinger 靠谱吗？这是一家大公司，退款和续费政策都是公开的。值得留意的是自动续费及其价格，而不是公司本身是否正规。",
+          "Hostinger 靠谱吗？我们使用主机和客服的体验是积极的。购买前仍应核对退款资格、续费价格以及结账页面显示的公司；公司规模和公开政策不能代替这些确认。",
           "Hostinger 可以退款吗？可以，主机和 VPS 在 30 天内，表中列出了例外。域名续费和付费支持服务不退款。",
           "Hostinger 的续费是自动的吗？是，默认如此。你可以随时在账户中关闭；如果不手动续费，服务会在周期结束时终止。",
           "Hostinger 由谁来扣款？这取决于所在国家。签约公司依据条款第 2 条确定，集团内的其他公司也可能扣款。请核对结账页面上显示的名称。",
@@ -93147,7 +93147,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。这 20% 适用于套餐的新购（域名注册除外）；续费按标价收费，没有折扣。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：符合条件的新购首期享 20% 折扣。域名注册和续费不适用，付款前请确认总额。",
       "label": "查看 Hostinger 套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93215,7 +93215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com uma ressalva. No período lido, a Hostinger tinha reputação Ótima no Reclame Aqui, respondia quase todas as reclamações e marcava a maior parte como resolvida. O problema mais citado é a cobrança indevida, que na hospedagem pede atenção com a renovação automática. Veja abaixo como desligá-la; os 20% do primeiro período vêm do [cupom SONAR20 da Hostinger](/cupons/hostinger)."
+          "Sim, com uma ressalva. Nos seis meses até setembro, a Hostinger tinha reputação Ótima no Reclame Aqui, mas a cobrança indevida lidera o ranking de problemas dos últimos três anos, e na hospedagem a renovação automática pede atenção. Veja abaixo como desligá-la; para compra nova elegível, o [cupom SONAR20 da Hostinger](/cupons/hostinger) dá 20% no primeiro período."
         ]
       },
       {
@@ -93413,7 +93413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Hostinger?",
         "paragraphs": [
-          "Pelo Reclame Aqui, sim. No período lido, a reputação era Ótima (nota 8,6 em 6 meses e 8,4 em 12 meses). A empresa respondeu 99,3% das 1.352 reclamações dos 6 meses e marcou 88,6% como resolvidas, e 80,3% de quem avaliou voltaria a fazer negócio.",
+          "Pelo Reclame Aqui, sim. Nos seis meses até setembro, a reputação era Ótima (nota 8,6; em 12 meses, 8,4). A empresa respondeu 99,3% das 1.352 reclamações dos 6 meses e marcou 88,6% como resolvidas, e 80,3% de quem avaliou voltaria a fazer negócio.",
           "A ressalva é o tipo de queixa. A cobrança indevida lidera o ranking de problemas, com 21,72%, e a resposta leva em média 8 dias e 1 hora. Na hospedagem, a renovação automática cobra sozinha antes do vencimento, e a ligação entre as duas coisas é uma leitura nossa.",
           "Na prática: confira a data de renovação, desligue a renovação automática se não quiser continuar e abra o perfil no Reclame Aqui antes de contratar, porque os números mudam todo mês."
         ]
@@ -93431,14 +93431,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se você já decidiu",
         "paragraphs": [
-          "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Os 20% valem na compra nova de planos e produtos, menos no registro de domínio; a renovação sai pelo preço de tabela. Veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
+          "Se decidiu contratar, use SONAR20 no campo de cupom do carrinho: 20% no primeiro período de uma compra nova elegível, inclusive para quem já tem conta. O desconto não vale para registro de domínio, e a renovação sai pelo preço de tabela. Veja a [página da Hostinger](/cupons/hostinger) e o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Se você já decidiu, use o código SONAR20 no carrinho, ou entre pelo link: 20% no primeiro período.",
+      "text": "Para uma compra nova elegível, use SONAR20 no carrinho: 20% no primeiro período. Registro de domínio e renovação não recebem esse desconto.",
       "label": "Ver os planos com desconto",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93718,14 +93718,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "If you have already decided",
         "paragraphs": [
-          "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. The 20% applies to new purchases of plans and products, not to domain registration; renewal is charged at the list price. See the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
+          "If you decide to buy, enter SONAR20 in the cart for 20% off the first period of an eligible new purchase, including for existing account holders. The discount does not apply to domain registration, and renewal is charged at the list price. The [Hostinger page](/en/coupons/hostinger) has the details. See the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to new purchases of plans and products, not to domain registration; renewals are charged at the list price, with no discount.",
+      "text": "Use SONAR20 for 20% off the first period of an eligible new purchase. Domain registration and renewal are excluded.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93777,7 +93777,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger tiene un TrustScore de 4,6 en Trustpilot con más de 73.000 opiniones. Mira las quejas más citadas y cómo desactivar la renovación automática.",
+    "description": "Hostinger en Trustpilot en noviembre de 2026: TrustScore 4,6 y 73.830 opiniones. Revisa las opiniones invitadas de la muestra, los temas de las quejas y la renovación automática.",
     "metaDescription": "Hostinger en Trustpilot (noviembre de 2026): TrustScore 4,6 con 73.830 opiniones, 99 % de las negativas respondidas y cobros y renovación entre las quejas principales. Mira cómo desactivar la renovación.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
@@ -93793,7 +93793,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, con una salvedad. En noviembre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.830 opiniones en Trustpilot y respondió al 99 % de las negativas. La empresa invita a los clientes a opinar, lo que puede subir el promedio, y las quejas más citadas son la atención por IA, los cobros y la renovación. En el hosting, los cobros piden atención a la renovación automática; abajo ves cómo desactivarla. El 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
+          "Sí, con una salvedad: en noviembre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.830 opiniones en Trustpilot. En nuestra muestra, las quejas más citadas son la atención por IA, cobros y renovación; en hosting, revisa la renovación automática. Para una compra nueva elegible, el [cupón SONAR20 de Hostinger](/es/coupons/hostinger) da un 20 % en el primer período."
         ]
       },
       {
@@ -94012,7 +94012,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. Los 20 % se aplican a la compra nueva de planes y productos, sin incluir el registro de dominios; la renovación se cobra al precio de lista, sin descuento.",
+      "text": "Usa SONAR20: 20 % en el primer período de una compra nueva elegible. No se aplica al registro de dominios ni a la renovación.",
       "label": "Ver los planes con descuento",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94064,7 +94064,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger a un TrustScore de 4,6 sur Trustpilot pour plus de 73 000 avis. Voyez les plaintes les plus citées et comment désactiver le renouvellement automatique.",
+    "description": "Hostinger sur Trustpilot en novembre 2026 : TrustScore 4,6 et 73 830 avis. Le guide examine les invitations dans l’échantillon, les plaintes et le renouvellement automatique.",
     "metaDescription": "Hostinger sur Trustpilot (novembre 2026) : TrustScore 4,6 pour 73 830 avis, 99 % des avis négatifs traités, facturation et renouvellement parmi les plaintes principales. Voyez comment désactiver le renouvellement.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
@@ -94080,7 +94080,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, avec une réserve. En novembre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 830 avis sur Trustpilot et avait répondu à 99 % des avis négatifs. L’entreprise invite ses clients à noter, ce qui peut gonfler la moyenne, et les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement. Pour l’hébergement, la facturation demande de surveiller le renouvellement automatique ; voyez plus bas comment le désactiver. Les 20 % de la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
+          "Oui, avec une réserve : en novembre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 830 avis. Dans notre échantillon, les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement ; surveillez le renouvellement automatique. Pour un nouvel achat éligible, le [code SONAR20 de Hostinger](/fr/coupons/hostinger) offre 20 % sur la première période."
         ]
       },
       {
@@ -94299,7 +94299,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour un nouvel achat de forfait ou de produit, hors enregistrement de domaine ; le renouvellement est facturé au prix catalogue, sans réduction.",
+      "text": "Utilisez SONAR20 : 20 % sur la première période d’un nouvel achat éligible, hors enregistrement de domaines et renouvellement.",
       "label": "Voir les offres avec réduction",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94351,7 +94351,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger hat auf Trustpilot einen TrustScore von 4,6 bei über 73.000 Bewertungen. Sie sehen die häufigsten Beschwerden und wie Sie die automatische Verlängerung abschalten.",
+    "description": "Hostinger auf Trustpilot im November 2026: TrustScore 4,6 und 73.830 Bewertungen. Der Artikel prüft Einladungen in der Stichprobe, Beschwerdethemen und automatische Verlängerung.",
     "metaDescription": "Hostinger auf Trustpilot (November 2026): TrustScore 4,6 aus 73.830 Bewertungen, 99 % der negativen beantwortet, Abrechnung und Verlängerung unter den häufigsten Beschwerden. So schalten Sie die Verlängerung ab.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
@@ -94367,7 +94367,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ja, mit einem Vorbehalt. Im November 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.830 Bewertungen und hatte 99 % der negativen beantwortet. Die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treiben kann, und die meistgenannten Beschwerden betreffen KI-Support, Abrechnung und Verlängerung. Beim Hosting verlangt die Abrechnung einen Blick auf die automatische Verlängerung; unten steht, wie Sie sie abschalten. Die 20 % im ersten Zeitraum kommen vom [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger)."
+          "Ja, mit einem Vorbehalt: Im November 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.830 Bewertungen. In unserer Stichprobe betreffen die meistgenannten Beschwerden KI-Support, Abrechnung und Verlängerung; beim Hosting lohnt ein Blick auf die automatische Verlängerung. Bei einem berechtigten Neukauf gibt der [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger) 20 % Rabatt im ersten Zeitraum."
         ]
       },
       {
@@ -94586,7 +94586,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für den Neukauf von Tarifen und Produkten, nicht für die Domainregistrierung; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+      "text": "Nutzen Sie SONAR20 für 20 % im ersten Zeitraum eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind ausgeschlossen.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94638,7 +94638,7 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger su Trustpilot: TrustScore 4,6 su 73.830 recensioni a novembre 2026, come influiscono gli inviti, di cosa si lamentano i clienti e come disattivare il rinnovo automatico.",
+    "description": "Hostinger su Trustpilot a novembre 2026: TrustScore 4,6 e 73.830 recensioni. L’articolo esamina inviti nel campione, temi dei reclami e rinnovo automatico.",
     "metaDescription": "Hostinger su Trustpilot (novembre 2026): TrustScore 4,6 su 73.830 recensioni, 99% delle negative con risposta, fatturazione e rinnovo tra i reclami principali. Scopri come disattivare il rinnovo.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
@@ -94654,7 +94654,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, con riserva. A novembre 2026 la Hostinger aveva un TrustScore di 4,6 su 73.830 recensioni su Trustpilot e aveva risposto al 99% di quelle negative. L’azienda invita i clienti a recensire, e così può alzare la media, e i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo. Sull’hosting la fatturazione chiede attenzione al rinnovo automatico; più sotto trovi come disattivarlo. Il 20% sul primo periodo arriva dal [coupon SONAR20 della Hostinger](/it/coupons/hostinger)."
+          "Sì, con riserva: a novembre 2026 Hostinger aveva un TrustScore di 4,6 su 73.830 recensioni su Trustpilot. Nel nostro campione i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo; sull’hosting, controlla il rinnovo automatico. Per un acquisto nuovo idoneo, il [coupon SONAR20 della Hostinger](/it/coupons/hostinger) dà il 20% sul primo periodo."
         ]
       },
       {
@@ -94873,7 +94873,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono sull’acquisto nuovo di piani e prodotti, esclusa la registrazione di domini; il rinnovo si paga al prezzo di listino, senza sconto.",
+      "text": "Usa SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Registrazione di domini e rinnovo sono esclusi.",
       "label": "Vedi i piani scontati",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94941,7 +94941,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,830건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갔을 수 있고, 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 첫 기간 20% 할인은 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 받을 수 있습니다."
+          "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,830건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갔을 수 있고, 우리가 읽은 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 신규 구매라면 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 첫 기간 20% 할인을 받을 수 있습니다."
         ]
       },
       {
@@ -94984,8 +94984,8 @@ export const reviewsData: unknown[] = [
               "7%"
             ],
             [
-              "프로필 인증",
-              "예, 2017년 5월부터. 회사가 페이지를 관리"
+              "기업이 관리하는 프로필(Claimed)",
+              "예, 2017년 5월부터 회사가 페이지를 관리"
             ],
             [
               "Trustpilot 유료 구독",
@@ -95015,7 +95015,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot에 있는 Hostinger 프로필 상단. 평점 4.6, 인증된 프로필, 유료 구독, 회사가 고객에게 리뷰를 권한다는 안내",
+            "alt": "Trustpilot의 Hostinger 기업 프로필 상단. 평점 4.6, 회사가 관리하는 프로필, 유료 구독과 고객 리뷰 요청 안내",
             "caption": "Trustpilot의 Hostinger 프로필. 이미지: Bruno가 찍은 화면.",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -95066,7 +95066,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "첫째, 별 다섯 개 리뷰는 훨씬 빨리 쌓이고, 거의 모두 초대로 옵니다. 100건이 약 5일 만에 모였고, 그중 78건이 초대였습니다. 별 한 개 리뷰는 100건을 채우는 데 약 18일이 걸렸고, 92건이 자발적이었습니다. 두 표본은 기간이 달라서 초대가 전체 점수를 얼마나 움직이는지는 재지 못합니다. 별 다섯 개는 초대받은 고객이 대부분이고 별 한 개는 스스로 쓴 고객이 대부분이라는 점만 보여 줍니다.",
           "둘째, 별 한 개 리뷰는 거의 4배 깁니다. 날짜, 제품, 금액이 들어간 구체적인 문제를 설명합니다. 별 다섯 개 리뷰는 대개 한 문장입니다.",
-          "셋째, 별 한 개 리뷰 일곱 중 하나는 잘못된 평점이 붙은 칭찬입니다. 표본 100건 중 14건은 “Great hosting”이나 “easy to use” 같은 긍정적인 글인데 별 한 개가 달려 있었습니다. 그래도 73,830건의 7%는 약 5,000명이 매우 불만족했다는 뜻입니다. 비율은 작지만 사람 수는 작지 않습니다."
+          "셋째, 별 한 개 리뷰 표본 100건 중 14건은 “Great hosting”이나 “easy to use” 같은 긍정적인 글인데 별 한 개가 달려 있었습니다. 별점과 글이 어긋나서, 이것이 잘못된 평점인지는 이 표본만으로 확인할 수 없습니다. 그래도 73,830건의 7%는 약 5,000명이 별 한 개를 준 것입니다. 비율은 작지만 사람 수는 작지 않습니다."
         ]
       },
       {
@@ -95154,7 +95154,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "이미 결정했다면 장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 첫 기간 20% 할인입니다.",
+      "text": "이미 결정했다면 장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 링크로 들어가세요. 적용 대상인 신규 구매의 첫 기간 20% 할인입니다. 도메인 등록과 갱신은 제외됩니다.",
       "label": "할인 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -95222,7 +95222,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "はい、ただし注意点があります。読み取った時点で、Hostinger の Trustpilot の TrustScore は 4.6、レビューは 73,830 件で、企業は否定的なレビューのほぼすべてに返信していました。ただし、企業が顧客にレビューを呼びかけているため平均が押し上げられている可能性があり、苦情の中心は AI サポート、請求と更新、ドメインです。ホスティングでは、請求の苦情は自動更新に注意が必要という話につながります。止め方は下で説明します。初回期間の 20% 割引は [Hostinger の SONAR20 クーポン](/ja/coupons/hostinger) で受けられます。"
+          "はい、ただし注意点があります。読み取った時点で、Hostinger の Trustpilot の TrustScore は 4.6、レビューは 73,830 件で、企業は否定的なレビューのほぼすべてに返信していました。ただし、企業が顧客にレビューを呼びかけているため平均が押し上げられている可能性があり、サンプルの苦情では AI サポート、請求と更新、ドメインが中心です。ホスティングでは、請求の苦情は自動更新に注意が必要という話につながります。止め方は下で説明します。新規購入なら、[Hostinger の SONAR20 クーポン](/ja/coupons/hostinger) で初回期間が 20% 割引になります。"
         ]
       },
       {
@@ -95265,8 +95265,8 @@ export const reviewsData: unknown[] = [
               "7%"
             ],
             [
-              "プロフィールの認証",
-              "済み。2017年5月から、企業がページを管理"
+              "企業が管理するプロフィール（Claimed）",
+              "あり。2017年5月から企業がページを管理"
             ],
             [
               "Trustpilot の有料契約",
@@ -95296,7 +95296,7 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot の Hostinger プロフィール上部。評価 4.6、請求済みプロフィール、有料契約、企業が顧客にレビューを呼びかける表示",
+            "alt": "Trustpilot の Hostinger 企業プロフィール上部。評価 4.6、企業が管理するプロフィール、有料契約、顧客へのレビュー依頼の表示",
             "caption": "Trustpilot の Hostinger プロフィール。画像：Bruno のスクリーンショット。",
             "objectFit": "contain",
             "aspectRatio": 3.7969
@@ -95347,7 +95347,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "一つ目。星 5 つのレビューは、ずっと速く届き、しかもほとんどが招待によるものです。100 件は約 5 日で集まり、そのうち 78 件が招待でした。星 1 つは 100 件を集めるのに約 18 日かかり、92 件が自発的でした。二つのサンプルは期間が異なるため、招待が全体の評価をどれだけ動かしているかは測れません。星 5 つは招待された顧客が中心で、星 1 つは自発的に書いた顧客が中心だ、という点だけが分かります。",
           "二つ目。星 1 つのレビューは、ほぼ 4 倍の長さです。日付、製品、金額を挙げた具体的な問題が書かれています。星 5 つのレビューは、たいてい一文です。",
-          "三つ目。星 1 つのレビューの七件に一件は、誤った評価で付けられた称賛です。100 件中 14 件は、「Great hosting」や「easy to use」のような好意的な文章なのに星 1 つでした。それでも、73,830 件の 7% は約 5,000 人が非常に不満だったということです。割合は小さくても、人数は小さくありません。"
+          "三つ目。星 1 つのレビュー 100 件中 14 件は、「Great hosting」や「easy to use」のような好意的な文章なのに星 1 つでした。星と文章が食い違うため、これが誤った評価かどうかは、このサンプルだけでは確かめられません。それでも、73,830 件の 7% は約 5,000 人が星 1 つを付けたということです。割合は小さくても、人数は小さくありません。"
         ]
       },
       {
@@ -95435,7 +95435,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "すでに決めているなら、カートのクーポン欄に SONAR20 を入れるか、リンクから入ってください。最初の期間が20%割引です。",
+      "text": "すでに決めているなら、カートのクーポン欄に SONAR20 を入れるか、リンクから入ってください。対象の新規購入なら、最初の期間が20%割引です。ドメイン登録と更新は対象外です。",
       "label": "割引プランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -95503,13 +95503,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,830 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分可能因此被拉高，投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得。"
+          "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,830 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分可能因此被拉高，我們讀到的投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。符合資格的新購買可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得首期 20% 折扣。"
         ]
       },
       {
         "heading": "4.6 說明了什麼，沒有說明什麼",
         "paragraphs": [
-          "4.6 只是一個起點。這個分數包含很多資訊，而個人檔案本身就說明了分數是怎樣形成的。下表彙整了 2026 年 11 月頁面上顯示的內容。"
+          "4.6 只是一個起點。這個分數包含很多資訊，而企業檔案本身就說明了分數是怎樣形成的。下表彙整了 2026 年 11 月頁面上顯示的內容。"
         ],
         "comparisonTable": {
           "headers": [
@@ -95577,8 +95577,8 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot 上 Hostinger 個人檔案的頂部，顯示 4.6 分、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
-            "caption": "Trustpilot 上的 Hostinger 個人檔案。圖片：Bruno 截取的畫面。",
+            "alt": "Trustpilot 上 Hostinger 企業檔案的頂部，顯示 4.6 分、已認領的檔案、付費訂閱，以及公司邀請客戶評價的提示",
+            "caption": "Trustpilot 上的 Hostinger 企業檔案。圖片：Bruno 截取的畫面。",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
@@ -95628,7 +95628,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "第一，五星評價來得快得多，而且幾乎都是受邀的。100 則在約 5 天內就湊齊了，其中 78 則是受邀的。一星評價用了約 18 天才湊夠 100 則，其中 92 則是自發的。兩組樣本的時間跨度不同，無法衡量邀請把總分拉高了多少。它只說明五星評價主要來自受邀客戶，一星評價主要來自主動留言的客戶。",
           "第二，一星評價的篇幅幾乎是五星的四倍。它們描述的是具體問題，包括日期、產品和金額。五星評價通常只有一句話。",
-          "第三，樣本中每七則一星評價裡就有一則是給錯了星的好評：100 則中有 14 則文字是正面的，比如「Great hosting」或「easy to use」，卻只給了一星。即便如此，73,830 則的 7% 仍然約有 5,000 人非常不滿。比例很小，人數卻不小。"
+          "第三，樣本中 100 則一星評價裡有 14 則文字是正面的，比如「Great hosting」或「easy to use」，卻只給了一星。星等與文字不一致，這些是否屬於錯評，僅憑這個樣本無法確定。即便如此，73,830 則的 7% 仍然約有 5,000 人給了一星。比例很小，人數卻不小。"
         ]
       },
       {
@@ -95716,7 +95716,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "如果你已經決定，在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。",
+      "text": "如果你已經決定，在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：符合資格的新購買首期享 20% 折扣，網域註冊及續訂不適用。",
       "label": "查看折扣方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -95784,13 +95784,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,830 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分可能因此被拉高，投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得。"
+          "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,830 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分可能因此被拉高，我们读到的投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。符合条件的新购可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得首期 20% 折扣。"
         ]
       },
       {
         "heading": "4.6 说明了什么，没有说明什么",
         "paragraphs": [
-          "4.6 只是一个起点。这个分数包含很多信息，而个人主页本身就说明了分数是怎样形成的。下表汇总了 2026 年 11 月页面上显示的内容。"
+          "4.6 只是一个起点。这个分数包含很多信息，而企业主页本身就说明了分数是怎样形成的。下表汇总了 2026 年 11 月页面上显示的内容。"
         ],
         "comparisonTable": {
           "headers": [
@@ -95858,8 +95858,8 @@ export const reviewsData: unknown[] = [
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-trustpilot.webp",
-            "alt": "Trustpilot 上 Hostinger 个人主页的顶部，显示 4.6 分、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
-            "caption": "Trustpilot 上的 Hostinger 个人主页。图片：Bruno 的截图。",
+            "alt": "Trustpilot 上 Hostinger 企业主页的顶部，显示 4.6 分、已认领的主页、付费订阅，以及公司邀请客户评价的提示",
+            "caption": "Trustpilot 上的 Hostinger 企业主页。图片：Bruno 的截图。",
             "objectFit": "contain",
             "aspectRatio": 3.7969
           },
@@ -95909,7 +95909,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "第一，五星评价来得快得多，而且几乎都是受邀的。100 条在约 5 天内就凑齐了，其中 78 条是受邀的。一星评价用了约 18 天才凑够 100 条，其中 92 条是自发的。两组样本的时间跨度不同，无法衡量邀请把总分拉高了多少。它只说明五星评价主要来自受邀客户，一星评价主要来自主动留言的客户。",
           "第二，一星评价的篇幅几乎是五星的四倍。它们描述的是具体问题，包括日期、产品和金额。五星评价通常只有一句话。",
-          "第三，样本中每七条一星评价里就有一条是给错了星的好评：100 条中有 14 条文字是正面的，比如“Great hosting”或“easy to use”，却只给了一星。即便如此，73,830 条的 7% 仍然约有 5,000 人非常不满。比例很小，人数却不小。"
+          "第三，样本中 100 条一星评价里有 14 条文字是正面的，比如“Great hosting”或“easy to use”，却只给了一星。星级与文字不一致，这些是否属于错评，仅凭这个样本无法确定。即便如此，73,830 条的 7% 仍然约有 5,000 人给了一星。比例很小，人数却不小。"
         ]
       },
       {
@@ -95997,7 +95997,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于套餐和产品的新购，不含域名注册；续费按标价收费，没有折扣。",
+      "text": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：符合条件的新购首个周期享 20% 折扣。这 20% 适用于套餐和产品的新购，不含域名注册；续费按标价收费，没有折扣。",
       "label": "查看折扣套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -149323,14 +149323,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para um site comum, blog, portfólio ou loja pequena, a hospedagem compartilhada atende e custa menos. O VPS só compensa quando o site precisa de um sistema instalado fora do painel, de CPU e memória reservadas ou de acesso root. A conta de renovação muda a escolha; veja o preço e o veredito abaixo."
+          "Para blog, portfólio ou loja pequena, comece comparando os planos de hospedagem compartilhada que atendem à sua aplicação. Considere VPS se precisa de configurações, programas ou acesso root indisponíveis nesses planos e tem quem mantenha o servidor. Não escolha só pelo nome do plano: o quadro por cenário e a conta de renovação ajudam a comparar."
         ]
       },
       {
         "heading": "O que é cada um",
         "paragraphs": [
           "**Hospedagem compartilhada** é um servidor dividido entre vários clientes. A Hostinger cuida do sistema, do servidor web e das atualizações; você entra no painel, instala o WordPress ou sobe os arquivos do site e pronto. Na Hostinger, são os planos Single, Premium e Ilimitado, e o Cloud Startup, que é a mesma ideia com mais recurso.",
-          "**VPS** (servidor virtual privado) é uma máquina virtual só sua, com processador, memória e disco reservados. A Hostinger entrega a máquina com o sistema operacional e o acesso root, o usuário que pode tudo. Daí em diante, instalar o servidor web, o banco, o certificado, as atualizações e a segurança são tarefas suas. Na Hostinger, são os planos KVM 1, 2, 4 e 8.",
+          "**VPS** (servidor virtual privado) é uma máquina virtual só sua, com processador, memória e disco reservados e acesso root, a conta de administração do sistema. Você assume configuração, atualizações e segurança. Os planos comparados são KVM 1, 2, 4 e 8.",
           "A diferença não é \"melhor ou pior\". É quem cuida do servidor e o quanto de recurso fica reservado para você."
         ]
       },
@@ -149364,7 +149364,7 @@ export const reviewsData: unknown[] = [
             [
               "Site em Node.js",
               "Sim, no Ilimitado ou no Cloud Startup, que a Hostinger lista para Node.js. O Premium não consta nessa lista",
-              "Não precisa"
+              "Não precisa, a menos que exija controle total do runtime."
             ],
             [
               "Vários sites ou e-mails profissionais",
@@ -149442,7 +149442,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Para um site comum que precise de VPS, o KVM 1 é o ponto de partida: 4 GB de RAM dão para um WordPress ou um sistema pequeno. O KVM 2 entra quando você vai rodar mais de um programa na mesma máquina. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
+          "Use a tabela para comparar CPU, RAM e disco com os requisitos da sua aplicação. KVM 1 é o menor plano listado, e a carga do seu site decide se ele basta. KVM 4 e 8 são para sistema maior, banco grande ou várias aplicações.",
           "Sem o cupom, os mesmos planos saem a R$ 29,99, R$ 42,99, R$ 59,99 e R$ 119,99 por mês (campanha de Black Friday). Com o SONAR20, os 20% valem **no primeiro período**: a renovação sai pelo preço da coluna da tabela, sem desconto."
         ]
       },
@@ -149453,10 +149453,10 @@ export const reviewsData: unknown[] = [
           "No VPS, a Hostinger diz na própria página que, com acesso root, a configuração, as atualizações e a segurança do servidor ficam com quem contratou. A Hostinger oferece templates com o sistema já instalado, como o de WordPress, e backup semanal automático por padrão, mas a manutenção continua sendo sua. Na prática, vira uma lista sua:"
         ],
         "bullets": [
-          "**Instalar e configurar** o servidor web, o banco de dados e o certificado SSL, ou partir de um template pronto.",
+          "**Configurar o ambiente**: verificar o que o template já instala e ajustar servidor web, banco e certificado para a aplicação.",
           "**Atualizar** o sistema operacional e os programas, de tempos em tempos.",
           "**Proteger**: firewall, portas abertas, senhas e chaves de acesso.",
-          "**Fazer backup** (o semanal automático vem ligado) e saber restaurar.",
+          "**Conferir backups e saber restaurar**: o semanal automático vem ligado por padrão, mas verificar a cópia e restaurar continua sendo sua tarefa.",
           "**Resolver** quando o site cair fora do horário comercial."
         ],
         "postParagraphs": [
@@ -149530,18 +149530,18 @@ export const reviewsData: unknown[] = [
         "emphasis": "Se fosse para um site comum, eu levaria o Premium, porque custa menos e a Hostinger cuida do servidor.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Hospedagem compartilhada** para blog, portfólio, site de empresa ou loja pequena. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; para site em Node.js ou se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
-          "**VPS** para sistema próprio, programa ou banco fora do painel, bot ou painel rodando o dia todo, ou quando você precisa de root. Comece pelo KVM 1 e suba se faltar memória. Entre na conta o tempo de manter o servidor, ou o custo de quem faça isso.",
-          "**Na dúvida, compartilhada.** O VPS não vira compartilhada depois, mas o contrário é só um contrato novo quando a necessidade aparecer."
+          "**Hospedagem compartilhada** para blog, portfólio, site de empresa ou loja pequena. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; para site em Node.js ou se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS. Node.js, sozinho, não exige VPS.",
+          "**VPS** entra na comparação quando você precisa do controle e das configurações descritos no quadro. Escolha o KVM pelos requisitos da aplicação e conte o trabalho de administração no custo.",
+          "**Na dúvida, compartilhada.** Se a necessidade de VPS aparecer depois, é uma nova contratação, com configuração e transferência do site."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "VPS é mais rápido que hospedagem compartilhada? Não medimos. O que o VPS garante é recurso reservado: CPU, memória e disco são seus, enquanto na compartilhada o servidor é dividido. Para um site comum, isso raramente é o gargalo.",
-          "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
+          "VPS é mais rápido que hospedagem compartilhada? Não necessariamente. Recursos reservados e acesso root mudam o controle do ambiente, mas não bastam para prever o tempo de resposta do seu site. Compare os requisitos da aplicação e os limites do plano.",
+          "Posso começar na compartilhada e migrar para VPS depois? Pode, se a aplicação for compatível com o novo ambiente. É uma nova contratação, com instalação do servidor e transferência do site; a hospedagem compartilhada não se converte em VPS por dentro do painel.",
           "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
-          "VPS aguenta WordPress? Aguenta. Dá para partir do template de WordPress do VPS, que já vem instalado, mas atualizar, proteger e restaurar backup continua com você. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
+          "VPS aguenta WordPress? Pode, inclusive com template pré-instalado. Você continua responsável por configurar e manter o ambiente, e a capacidade depende da aplicação. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
           "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês, sem desconto. Sem o cupom, R$ 29,99/mês.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
@@ -149560,7 +149560,7 @@ export const reviewsData: unknown[] = [
         "Leve se tem um painel, bot ou automação (n8n, Docker) rodando o dia todo e alguém para manter o servidor."
       ],
       "skipIf": [
-        "Passe se é blog, portfólio, site de empresa ou loja pequena: a compartilhada atende e a Hostinger cuida do servidor.",
+        "Passe se é blog, portfólio, site de empresa, loja pequena ou site em Node.js (em plano com suporte, como Ilimitado ou Cloud Startup): a compartilhada atende e a Hostinger cuida do servidor.",
         "Passe se nunca abriu um terminal: instalar, atualizar, proteger e fazer backup passam a ser com você."
       ]
     },
@@ -149635,14 +149635,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "For an ordinary site, a blog, a portfolio or a small shop, shared hosting does the job and costs less. A VPS only pays off when the site needs a system installed outside the control panel, reserved CPU and memory, or root access. See the verdict below."
+          "For a blog, portfolio or small shop, start by comparing shared plans that support your application. Consider a VPS when you need software, configuration or root access those plans do not provide, and someone to maintain the server. Choose by requirements, not by the plan name; the scenario table helps you compare."
         ]
       },
       {
         "heading": "What each one is",
         "paragraphs": [
           "**Shared hosting** is one server split between several customers. Hostinger looks after the operating system, the web server and the updates; you log in to the control panel, install WordPress or upload your site's files, and that is it. At Hostinger, these are the Single, Premium and Unlimited plans, plus Cloud Startup, which is the same idea with more resources.",
-          "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk. Hostinger hands you the machine with the operating system and root access, the user that can do anything. From there on, installing the web server, the database and the certificate, plus updates and security, are your jobs. At Hostinger, these are the KVM 1, 2, 4 and 8 plans.",
+          "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk, plus root access, the system administrator account. You take responsibility for configuration, updates and security. The plans compared here are KVM 1, 2, 4 and 8.",
           "The difference is not “better or worse”. It is who looks after the server and how much of its resources are reserved for you."
         ]
       },
@@ -149651,7 +149651,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Before you look at prices, answer three questions. If the answer is “no” to all three, shared hosting will do."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
         "imageAlt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
         "imageCaption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages.",
         "imageFit": "contain",
@@ -149676,7 +149676,7 @@ export const reviewsData: unknown[] = [
             [
               "Node.js site",
               "Yes, on Unlimited or Cloud Startup, which Hostinger lists for Node.js. Premium is not on that list",
-              "Not needed"
+              "Not needed, unless you need full control of the runtime"
             ],
             [
               "Several sites or professional email",
@@ -149744,7 +149744,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "For an ordinary site that needs a VPS, KVM 1 is the starting point: 4 GB of RAM is enough for a WordPress site or a small system. KVM 2 comes in when you will run more than one program on the same machine. KVM 4 and 8 are for a larger system, a big database or several applications."
+          "Use the table to compare CPU, RAM and storage with your application's requirements. KVM 1 is the smallest listed plan, and your site's load decides whether it is enough. KVM 4 and 8 are for a larger system, a big database or several applications."
         ]
       },
       {
@@ -149754,10 +149754,10 @@ export const reviewsData: unknown[] = [
           "On a VPS, Hostinger says on its own page that, with root access, the server's configuration, updates and security are up to whoever signed up. Hostinger offers templates with the system already installed, such as WordPress, and an automatic weekly backup by default, but maintenance stays with you. In practice, it becomes a list of yours:"
         ],
         "bullets": [
-          "**Install and configure** the web server, the database and the SSL certificate, or start from a ready-made template.",
+          "**Configure the environment**: check what the template installs, then adjust the web server, database and certificate for the application.",
           "**Update** the operating system and the programs, from time to time.",
           "**Secure it**: firewall, open ports, passwords and access keys.",
-          "**Back up** (the automatic weekly one is on by default) and know how to restore.",
+          "**Check backups and know how to restore**: the automatic weekly backup is on by default, but verifying the copy and restoring it stay your job.",
           "**Fix it** when the site goes down outside business hours."
         ],
         "postParagraphs": [
@@ -149775,18 +149775,18 @@ export const reviewsData: unknown[] = [
         "emphasis": "If it were for an ordinary site, I would take Premium, because it costs less and Hostinger looks after the server.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Shared hosting** for a blog, portfolio, company site or small shop. Server maintenance is Hostinger's job. Among the plans, Premium is the starting point; for a Node.js site or if the site grows, Unlimited or Cloud Startup, before you think of a VPS.",
-          "**VPS** for your own system, a program or database outside the panel, a bot or dashboard running all day, or when you need root. Start with KVM 1 and move up if memory runs short. Count in the time it takes to maintain the server, or the cost of someone who does it.",
-          "**When in doubt, shared hosting.** A VPS does not turn into shared hosting later, but going the other way is just a new contract when the need appears."
+          "**Shared hosting** for a blog, portfolio, company site or small shop. Server maintenance is Hostinger's job. Among the plans, Premium is the starting point; for a Node.js site or if the site grows, Unlimited or Cloud Startup, before you think of a VPS. Node.js alone does not require a VPS.",
+          "**VPS** is worth comparing when you need the control and configuration described in the scenario table. Choose the KVM plan by application requirements and count the administration work in the cost.",
+          "**When in doubt, shared hosting.** If the need for a VPS shows up later, it means a new contract, with setup and a site transfer."
         ]
       },
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Is a VPS faster than shared hosting? We did not measure it. What a VPS guarantees is reserved resources: CPU, memory and disk are yours, while on shared hosting the server is divided. For an ordinary site, that is rarely the bottleneck.",
-          "Can I start on shared hosting and move to a VPS later? Yes. They are different products: you sign up for the VPS, install the server and move the site over. Shared hosting cannot be converted into a VPS from inside the panel.",
+          "Is a VPS faster than shared hosting? Not necessarily. Reserved resources and root access change how you control the environment, but they do not by themselves predict how quickly your site responds. Compare the application's requirements and the plan limits.",
+          "Can I start on shared hosting and move to a VPS later? Yes, if the application supports the new environment. It is a new contract, with server setup and a site transfer; shared hosting cannot be converted into a VPS from inside the panel.",
           "Do I need to know Linux to have a VPS? Yes, the basics of the terminal: installing programs, updating the system and reading a log. On shared hosting, everything goes through the panel and no terminal is required.",
-          "Can a VPS run WordPress? It can. You can start from the VPS WordPress template, which comes pre-installed, but updating, securing and restoring backups stay with you. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
+          "Can a VPS run WordPress? Yes, including with a pre-installed template. You remain responsible for configuring and maintaining the environment, and capacity depends on the application. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
@@ -149826,7 +149826,7 @@ export const reviewsData: unknown[] = [
         "Take it if you have a dashboard, bot or automation (n8n, Docker) running all day and someone to maintain the server."
       ],
       "skipIf": [
-        "Skip it if it is a blog, portfolio, company site or small shop: shared hosting does the job and Hostinger looks after the server.",
+        "Skip it if it is a blog, portfolio, company site, small shop or Node.js site on a plan that supports it, such as Unlimited or Cloud Startup: shared hosting does the job and Hostinger looks after the server.",
         "Skip it if you have never opened a terminal: installing, updating, securing and backing up become your job."
       ]
     }
@@ -149879,14 +149879,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Para un sitio común, un blog, un portafolio o una tienda pequeña, el hosting compartido cumple y cuesta menos. El VPS solo compensa cuando el sitio necesita un sistema instalado fuera del panel, CPU y memoria reservadas o acceso root. Mira el veredicto más abajo."
+          "Para un blog, un portafolio o una tienda pequeña, empieza comparando los planes de hosting compartido que admiten tu aplicación. Considera un VPS si necesitas configuraciones, programas o acceso root que esos planes no ofrecen y tienes a alguien que mantenga el servidor. No elijas solo por el nombre del plan: el cuadro por escenario ayuda a comparar."
         ]
       },
       {
         "heading": "Qué es cada uno",
         "paragraphs": [
           "El **hosting compartido** es un servidor dividido entre varios clientes. Hostinger se encarga del sistema, del servidor web y de las actualizaciones; tú entras al panel, instalas WordPress o subes los archivos del sitio y listo. En Hostinger son los planes Single, Premium y Unlimited, y el Cloud Startup, que es la misma idea con más recursos.",
-          "Un **VPS** (servidor privado virtual) es una máquina virtual solo tuya, con procesador, memoria y disco reservados. Hostinger te entrega la máquina con el sistema operativo y el acceso root, el usuario que puede todo. A partir de ahí, instalar el servidor web, la base de datos y el certificado, además de las actualizaciones y la seguridad, son tareas tuyas. En Hostinger son los planes KVM 1, 2, 4 y 8.",
+          "Un **VPS** (servidor privado virtual) es una máquina virtual solo tuya, con procesador, memoria y disco reservados y acceso root, la cuenta de administración del sistema. Tú asumes la configuración, las actualizaciones y la seguridad. Una plantilla puede traer WordPress preinstalado y facilitar el inicio; la administración posterior sigue siendo tuya. Los planes comparados son KVM 1, 2, 4 y 8.",
           "La diferencia no es «mejor o peor». Es quién cuida el servidor y cuántos recursos quedan reservados para ti."
         ]
       },
@@ -149895,7 +149895,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Antes de mirar el precio, responde tres preguntas. Si la respuesta es «no» en las tres, el hosting compartido lo resuelve."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-es.webp",
         "imageAlt": "Cuadro con tres preguntas: ¿necesitas instalar un sistema fuera del panel?, ¿necesitas CPU y memoria reservadas?, ¿necesitas acceso root?; cada sí apunta a VPS y tres no apuntan a hosting compartido",
         "imageCaption": "Las tres preguntas que deciden entre hosting compartido y VPS. Cuadro propio, a partir de las páginas de Hostinger.",
         "imageFit": "contain",
@@ -149920,7 +149920,7 @@ export const reviewsData: unknown[] = [
             [
               "Sitio en Node.js",
               "Sí, en Unlimited o Cloud Startup, que Hostinger lista para Node.js. Premium no figura en esa lista",
-              "No hace falta"
+              "No hace falta, a menos que necesites control total del entorno de ejecución."
             ],
             [
               "Varios sitios o correos profesionales",
@@ -149988,7 +149988,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Para un sitio común que necesite VPS, el KVM 1 es el punto de partida: 4 GB de RAM alcanzan para un WordPress o un sistema pequeño. El KVM 2 entra cuando vas a ejecutar más de un programa en la misma máquina. KVM 4 y 8 son para un sistema mayor, una base de datos grande o varias aplicaciones."
+          "Compara CPU, RAM y disco con los requisitos de tu aplicación. KVM 1 es el plan más pequeño de la tabla, y la carga de tu sitio decide si basta. KVM 4 y 8 son para un sistema mayor, una base de datos grande o varias aplicaciones."
         ]
       },
       {
@@ -149998,10 +149998,10 @@ export const reviewsData: unknown[] = [
           "En el VPS, Hostinger dice en su propia página que, con acceso root, la configuración, las actualizaciones y la seguridad del servidor quedan con quien contrata. Hostinger ofrece plantillas con el sistema ya instalado, como la de WordPress, y copia de seguridad semanal automática por defecto, pero el mantenimiento sigue siendo tuyo. En la práctica, se convierte en una lista tuya:"
         ],
         "bullets": [
-          "**Instalar y configurar** el servidor web, la base de datos y el certificado SSL, o partir de una plantilla lista.",
+          "**Configurar el entorno**: revisa lo que instala la plantilla y ajusta el servidor web, la base de datos y el certificado a la aplicación.",
           "**Actualizar** el sistema operativo y los programas, de vez en cuando.",
           "**Proteger**: firewall, puertos abiertos, contraseñas y claves de acceso.",
-          "**Hacer copias de seguridad** (la semanal automática viene activada) y saber restaurarlas.",
+          "**Revisar las copias y saber restaurarlas**: la copia semanal automática viene activada por defecto, pero comprobar la copia disponible y restaurarla sigue siendo tarea tuya.",
           "**Resolver** cuando el sitio se caiga fuera del horario laboral."
         ],
         "postParagraphs": [
@@ -150019,16 +150019,16 @@ export const reviewsData: unknown[] = [
         "emphasis": "Si fuera para un sitio común, me quedaría con el Premium, porque cuesta menos y Hostinger se encarga del servidor.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Hosting compartido** para blog, portafolio, sitio de empresa o tienda pequeña. El mantenimiento del servidor es de Hostinger. Entre los planes, Premium es el punto de partida; para un sitio en Node.js o si el sitio crece, Unlimited o Cloud Startup, antes de pensar en VPS.",
-          "**VPS** para un sistema propio, un programa o base de datos fuera del panel, un bot o panel funcionando todo el día, o cuando necesitas root. Empieza por el KVM 1 y sube si falta memoria. Suma a la cuenta el tiempo de mantener el servidor, o el costo de quien lo haga.",
-          "**En la duda, compartido.** El VPS no se convierte después en compartido, pero lo contrario es solo un contrato nuevo cuando aparezca la necesidad."
+          "**Hosting compartido** para blog, portafolio, sitio de empresa o tienda pequeña. El mantenimiento del servidor es de Hostinger. Entre los planes, Premium es el punto de partida; para un sitio en Node.js o si el sitio crece, Unlimited o Cloud Startup, antes de pensar en VPS. Node.js, por sí solo, no exige VPS.",
+          "**VPS** entra en la comparación cuando necesitas el control y las configuraciones descritos en el cuadro. Elige el KVM según los requisitos de la aplicación y cuenta el trabajo de administración en el costo.",
+          "**En la duda, compartido.** Si la necesidad de VPS aparece después, es una contratación nueva, con configuración y traslado del sitio."
         ]
       },
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Un VPS es más rápido que el hosting compartido? No lo medimos. Lo que el VPS garantiza son recursos reservados: CPU, memoria y disco son tuyos, mientras que en el compartido el servidor se divide. Para un sitio común, rara vez es el cuello de botella.",
-          "¿Puedo empezar en el compartido y pasar a un VPS después? Sí. Son productos distintos: contratas el VPS, instalas el servidor y llevas el sitio. El hosting compartido no se convierte en VPS desde el panel.",
+          "¿Un VPS es más rápido que el hosting compartido? No necesariamente. Los recursos reservados y el acceso root cambian el control del entorno, pero no bastan para predecir el tiempo de respuesta de tu sitio. Compara los requisitos de la aplicación y los límites del plan.",
+          "¿Puedo empezar en el compartido y pasar a un VPS después? Sí, si la aplicación es compatible con el nuevo entorno. Es una contratación nueva, con instalación del servidor y traslado del sitio; el hosting compartido no se convierte en VPS desde el panel.",
           "¿Necesito saber Linux para tener un VPS? Sí, lo básico de terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no necesitas usar la terminal.",
           "¿Un VPS aguanta WordPress? Sí. Puedes partir de la plantilla de WordPress del VPS, que ya viene instalada, pero actualizar, proteger y restaurar copias sigue siendo cosa tuya. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
@@ -150070,7 +150070,7 @@ export const reviewsData: unknown[] = [
         "Elígelo si tienes un panel, bot o automatización (n8n, Docker) funcionando todo el día y alguien que mantenga el servidor."
       ],
       "skipIf": [
-        "Déjalo si es un blog, portafolio, sitio de empresa o tienda pequeña: el compartido cumple y Hostinger cuida el servidor.",
+        "Déjalo si es un blog, portafolio, sitio de empresa, tienda pequeña o sitio en Node.js (en un plan compatible, como Unlimited o Cloud Startup): el compartido cumple y Hostinger cuida el servidor.",
         "Déjalo si nunca has abierto una terminal: instalar, actualizar, proteger y hacer copias pasan a ser cosa tuya."
       ]
     }
@@ -150123,14 +150123,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Pour un site ordinaire, un blog, un portfolio ou une petite boutique, l'hébergement mutualisé fait l'affaire et coûte moins cher. Le VPS ne vaut le coup que si le site a besoin d'un système installé hors du panneau, de CPU et de mémoire réservés ou de l'accès root. Voyez le verdict plus bas."
+          "Pour un blog, un portfolio ou une petite boutique, commencez par comparer les forfaits mutualisés qui prennent en charge votre application. Envisagez un VPS si vous avez besoin de réglages, de logiciels ou d'un accès root absents de ces forfaits, et de quelqu'un pour administrer le serveur. Ne choisissez pas seulement d'après le nom du forfait : le tableau par scénario aide à comparer."
         ]
       },
       {
         "heading": "Ce qu'est chacun",
         "paragraphs": [
           "L'**hébergement mutualisé** est un serveur partagé entre plusieurs clients. Hostinger s'occupe du système, du serveur web et des mises à jour ; vous entrez dans le panneau, installez WordPress ou envoyez les fichiers du site, et c'est tout. Chez Hostinger, ce sont les forfaits Single, Premium et Unlimited, et le Cloud Startup, qui suit la même idée avec plus de ressources.",
-          "Un **VPS** (serveur privé virtuel) est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés. Hostinger livre la machine avec le système d'exploitation et l'accès root, l'utilisateur qui peut tout faire. À partir de là, installer le serveur web, la base de données et le certificat, ainsi que les mises à jour et la sécurité, relève de vous. Chez Hostinger, ce sont les forfaits KVM 1, 2, 4 et 8.",
+          "Un **VPS** est une machine virtuelle rien qu'à vous, avec processeur, mémoire et disque réservés et accès root, le compte d'administration du système. La configuration, les mises à jour et la sécurité restent à votre charge. Un modèle peut inclure WordPress préinstallé et faciliter le démarrage ; l'administration par la suite vous revient. Les offres comparées sont KVM 1, 2, 4 et 8.",
           "La différence n'est pas « meilleur ou moins bon ». C'est qui s'occupe du serveur et quelle part des ressources vous est réservée."
         ]
       },
@@ -150139,7 +150139,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Avant de regarder le prix, répondez à trois questions. Si la réponse est « non » aux trois, l'hébergement mutualisé suffit."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-fr.webp",
         "imageAlt": "Tableau avec trois questions : faut-il installer un système hors du panneau, faut-il du CPU et de la mémoire réservés, faut-il l'accès root ; chaque oui mène au VPS, et trois non mènent à l'hébergement mutualisé",
         "imageCaption": "Les trois questions qui tranchent entre mutualisé et VPS. Tableau maison, à partir des pages de Hostinger.",
         "imageFit": "contain",
@@ -150164,7 +150164,7 @@ export const reviewsData: unknown[] = [
             [
               "Site en Node.js",
               "Oui, avec Unlimited ou Cloud Startup, que Hostinger liste pour Node.js. Premium ne figure pas dans cette liste",
-              "Pas besoin"
+              "Pas besoin, sauf si vous exigez un contrôle total de l'environnement d'exécution."
             ],
             [
               "Plusieurs sites ou des e-mails professionnels",
@@ -150232,7 +150232,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pour un site ordinaire qui a besoin d'un VPS, le KVM 1 est le point de départ : 4 Go de RAM suffisent pour un WordPress ou un petit système. Le KVM 2 entre en jeu quand vous ferez tourner plus d'un programme sur la même machine. Les KVM 4 et 8 sont pour un système plus gros, une grosse base de données ou plusieurs applications."
+          "Comparez CPU, mémoire et stockage avec les besoins de votre application. KVM 1 est la plus petite offre du tableau, et la charge de votre site décide si elle suffit. KVM 4 et 8 sont pour un système plus gros, une grosse base de données ou plusieurs applications."
         ]
       },
       {
@@ -150242,10 +150242,10 @@ export const reviewsData: unknown[] = [
           "Sur un VPS, Hostinger indique sur sa propre page qu'avec l'accès root, la configuration, les mises à jour et la sécurité du serveur incombent à celui qui souscrit. Hostinger propose des modèles avec le système déjà installé, comme celui de WordPress, et une sauvegarde hebdomadaire automatique par défaut, mais la maintenance reste à votre charge. En pratique, cela devient une liste qui est la vôtre :"
         ],
         "bullets": [
-          "**Installer et configurer** le serveur web, la base de données et le certificat SSL, ou partir d'un modèle prêt.",
+          "**Configurer l'environnement** : vérifiez ce que le modèle installe, puis adaptez le serveur web, la base de données et le certificat à l'application.",
           "**Mettre à jour** le système d'exploitation et les programmes, de temps en temps.",
           "**Protéger** : pare-feu, ports ouverts, mots de passe et clés d'accès.",
-          "**Sauvegarder** (la sauvegarde hebdomadaire automatique est activée par défaut) et savoir restaurer.",
+          "**Vérifier les sauvegardes et savoir restaurer** : la sauvegarde hebdomadaire automatique est activée par défaut, mais contrôler la copie disponible et la restaurer reste à votre charge.",
           "**Réagir** quand le site tombe en dehors des heures de bureau."
         ],
         "postParagraphs": [
@@ -150263,16 +150263,16 @@ export const reviewsData: unknown[] = [
         "emphasis": "Si c'était pour un site ordinaire, je prendrais le Premium, parce qu'il coûte moins cher et que Hostinger s'occupe du serveur.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise ou une petite boutique. La maintenance du serveur revient à Hostinger. Parmi les forfaits, Premium est le point de départ ; pour un site en Node.js ou si le site grandit, Unlimited ou Cloud Startup, avant de penser au VPS.",
-          "**VPS** pour un système propre, un programme ou une base hors du panneau, un bot ou un tableau de bord tournant toute la journée, ou quand vous avez besoin de root. Commencez par le KVM 1 et montez si la mémoire manque. Mettez dans le calcul le temps de maintenir le serveur, ou le coût de quelqu'un qui le fasse.",
-          "**Dans le doute, mutualisé.** Le VPS ne redevient pas mutualisé ensuite, mais l'inverse n'est qu'un nouveau contrat le jour où le besoin apparaît."
+          "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise ou une petite boutique. La maintenance du serveur revient à Hostinger. Parmi les forfaits, Premium est le point de départ ; pour un site en Node.js ou si le site grandit, Unlimited ou Cloud Startup, avant de penser au VPS. Node.js n'impose pas à lui seul un VPS.",
+          "**VPS** entre dans la comparaison si vous avez besoin du contrôle et des réglages décrits dans le tableau. Choisissez le KVM selon l'application et comptez le travail d'administration dans le coût.",
+          "**Dans le doute, mutualisé.** Si le besoin de VPS apparaît plus tard, c'est un nouveau contrat, avec installation et transfert du site."
         ]
       },
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Nous ne l'avons pas mesuré. Ce que le VPS garantit, ce sont des ressources réservées : CPU, mémoire et disque sont à vous, alors que sur le mutualisé le serveur est partagé. Pour un site ordinaire, c'est rarement le goulot d'étranglement.",
-          "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et y transférez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
+          "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Pas forcément. Les ressources réservées et l'accès root changent le contrôle de l'environnement, mais ne permettent pas à eux seuls de prévoir le temps de réponse du site. Comparez les besoins de l'application et les limites du forfait.",
+          "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui, si l'application est compatible avec le nouvel environnement. C'est un nouveau contrat, avec installation du serveur et transfert du site ; l'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
           "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. Sur le mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
           "Un VPS supporte-t-il WordPress ? Oui. Vous pouvez partir du modèle WordPress du VPS, déjà installé, mais mettre à jour, protéger et restaurer les sauvegardes reste à votre charge. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
@@ -150314,7 +150314,7 @@ export const reviewsData: unknown[] = [
         "Prenez-le si vous avez un tableau de bord, un bot ou une automatisation (n8n, Docker) qui tourne toute la journée et quelqu'un pour maintenir le serveur."
       ],
       "skipIf": [
-        "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise ou une petite boutique : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
+        "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js (sur une offre compatible, comme Unlimited ou Cloud Startup) : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
         "Laissez tomber si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
       ]
     }
@@ -150367,14 +150367,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Per un sito comune, un blog, un portfolio o un piccolo negozio, l'hosting condiviso basta e costa meno. Il VPS conviene solo quando il sito ha bisogno di un sistema installato fuori dal pannello, di CPU e memoria riservate o dell'accesso root. Vedi il verdetto più sotto."
+          "Per un blog, un portfolio o un piccolo negozio, parti confrontando i piani di hosting condiviso che supportano la tua applicazione. Valuta un VPS se ti servono configurazioni, programmi o accesso root che questi piani non offrono e hai qualcuno che mantenga il server. Non scegliere solo dal nome del piano: il quadro per scenario aiuta a confrontare."
         ]
       },
       {
         "heading": "Cos'è ciascuno",
         "paragraphs": [
           "L'**hosting condiviso** è un server diviso tra più clienti. Hostinger si occupa del sistema, del server web e degli aggiornamenti; tu entri nel pannello, installi WordPress o carichi i file del sito, e basta. Su Hostinger sono i piani Single, Premium e Unlimited, più il Cloud Startup, che è la stessa idea con più risorse.",
-          "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati. Hostinger consegna la macchina con il sistema operativo e l'accesso root, l'utente che può tutto. Da lì in poi, installare il server web, il database e il certificato, oltre ad aggiornamenti e sicurezza, sono compiti tuoi. Su Hostinger sono i piani KVM 1, 2, 4 e 8.",
+          "Un **VPS** (server privato virtuale) è una macchina virtuale solo tua, con processore, memoria e disco riservati e accesso root, l'account di amministrazione del sistema. Configurazione, aggiornamenti e sicurezza restano a tuo carico. Un template può includere WordPress preinstallato e facilitare l'avvio; l'amministrazione successiva resta tua. I piani confrontati sono KVM 1, 2, 4 e 8.",
           "La differenza non è «meglio o peggio». È chi si occupa del server e quante risorse restano riservate a te."
         ]
       },
@@ -150383,7 +150383,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Prima di guardare il prezzo, rispondi a tre domande. Se la risposta è «no» a tutte e tre, l'hosting condiviso risolve."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-it.webp",
         "imageAlt": "Quadro con tre domande: serve installare un sistema fuori dal pannello, servono CPU e memoria riservate, serve l'accesso root; ogni sì porta al VPS e tre no portano all'hosting condiviso",
         "imageCaption": "Le tre domande che decidono tra hosting condiviso e VPS. Quadro nostro, a partire dalle pagine di Hostinger.",
         "imageFit": "contain",
@@ -150408,7 +150408,7 @@ export const reviewsData: unknown[] = [
             [
               "Sito in Node.js",
               "Sì, su Unlimited o Cloud Startup, che Hostinger elenca per Node.js. Premium non è in quell'elenco",
-              "Non serve"
+              "Non serve, a meno che non ti serva il controllo totale sull'ambiente di runtime."
             ],
             [
               "Più siti o e-mail professionali",
@@ -150476,7 +150476,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Per un sito comune che abbia bisogno di un VPS, il KVM 1 è il punto di partenza: 4 GB di RAM bastano per un WordPress o un piccolo sistema. Il KVM 2 entra quando farai girare più di un programma sulla stessa macchina. KVM 4 e 8 sono per un sistema più grande, un database grosso o più applicazioni."
+          "Confronta CPU, RAM e spazio con i requisiti dell'applicazione. KVM 1 è il piano più piccolo della tabella, e il carico del tuo sito decide se basta. KVM 4 e 8 sono per un sistema più grande, un database grosso o più applicazioni."
         ]
       },
       {
@@ -150486,10 +150486,10 @@ export const reviewsData: unknown[] = [
           "Sul VPS, Hostinger dice nella propria pagina che, con l'accesso root, la configurazione, gli aggiornamenti e la sicurezza del server restano a chi sottoscrive. Hostinger offre template con il sistema già installato, come quello di WordPress, e un backup settimanale automatico di default, ma la manutenzione resta tua. Nella pratica diventa una lista tua:"
         ],
         "bullets": [
-          "**Installare e configurare** il server web, il database e il certificato SSL, oppure partire da un template pronto.",
+          "**Configurare l'ambiente**: controlla cosa installa il template e adatta server web, database e certificato all'applicazione.",
           "**Aggiornare** il sistema operativo e i programmi, ogni tanto.",
           "**Proteggere**: firewall, porte aperte, password e chiavi di accesso.",
-          "**Fare il backup** (quello settimanale automatico è attivo di default) e saper ripristinare.",
+          "**Controllare i backup e saper ripristinare**: il backup settimanale automatico è attivo di default, ma verificare la copia disponibile e ripristinarla resta compito tuo.",
           "**Intervenire** quando il sito va giù fuori dall'orario di lavoro."
         ],
         "postParagraphs": [
@@ -150507,16 +150507,16 @@ export const reviewsData: unknown[] = [
         "emphasis": "Se fosse per un sito comune, prenderei il Premium, perché costa meno e Hostinger si occupa del server.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Hosting condiviso** per blog, portfolio, sito aziendale, piccolo negozio. La manutenzione del server è di Hostinger. Tra i piani, Premium è il punto di partenza; per un sito in Node.js o se il sito cresce, Unlimited o Cloud Startup, prima di pensare al VPS.",
-          "**VPS** per un sistema proprio, un programma o database fuori dal pannello, un bot o un pannello attivi tutto il giorno, o quando ti serve root. Parti dal KVM 1 e sali se manca memoria. Metti in conto il tempo per mantenere il server, o il costo di chi lo fa.",
-          "**Nel dubbio, condiviso.** Il VPS non torna condiviso in seguito, ma il contrario è solo un nuovo contratto quando il bisogno si presenta."
+          "**Hosting condiviso** per blog, portfolio, sito aziendale, piccolo negozio. La manutenzione del server è di Hostinger. Tra i piani, Premium è il punto di partenza; per un sito in Node.js o se il sito cresce, Unlimited o Cloud Startup, prima di pensare al VPS. Node.js, da solo, non richiede un VPS.",
+          "**VPS** entra nel confronto se ti servono il controllo e le configurazioni descritti nella tabella. Scegli il KVM in base all'applicazione e metti in conto il lavoro di amministrazione.",
+          "**Nel dubbio, condiviso.** Se il bisogno di un VPS si presenta dopo, è un nuovo contratto, con configurazione e trasferimento del sito."
         ]
       },
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Il VPS è più veloce dell'hosting condiviso? Non l'abbiamo misurato. Ciò che il VPS garantisce sono risorse riservate: CPU, memoria e disco sono tuoi, mentre sul condiviso il server è diviso. Per un sito comune, raramente è il collo di bottiglia.",
-          "Posso iniziare sul condiviso e passare al VPS dopo? Sì. Sono prodotti diversi: sottoscrivi il VPS, installi il server e porti il sito. L'hosting condiviso non si converte in VPS dall'interno del pannello.",
+          "Il VPS è più veloce dell'hosting condiviso? Non necessariamente. Le risorse riservate e l'accesso root cambiano il controllo dell'ambiente, ma da soli non permettono di prevedere i tempi di risposta del sito. Confronta i requisiti dell'applicazione e i limiti del piano.",
+          "Posso iniziare sul condiviso e passare al VPS dopo? Sì, se l'applicazione è compatibile con il nuovo ambiente. È un nuovo contratto, con installazione del server e trasferimento del sito; l'hosting condiviso non si converte in VPS dal pannello.",
           "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non devi usare il terminale.",
           "Il VPS regge WordPress? Sì. Puoi partire dal template WordPress del VPS, già installato, ma aggiornare, proteggere e ripristinare i backup resta compito tuo. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
@@ -150558,7 +150558,7 @@ export const reviewsData: unknown[] = [
         "Prendilo se hai un pannello, un bot o un'automazione (n8n, Docker) attivi tutto il giorno e qualcuno che mantenga il server."
       ],
       "skipIf": [
-        "Lascia stare se è un blog, un portfolio, un sito aziendale o un piccolo negozio: il condiviso basta e Hostinger si occupa del server.",
+        "Lascia stare se è un blog, un portfolio, un sito aziendale, un piccolo negozio o un sito in Node.js (su un piano compatibile, come Unlimited o Cloud Startup): il condiviso basta e Hostinger si occupa del server.",
         "Lascia stare se non hai mai aperto un terminale: installare, aggiornare, proteggere e fare backup diventano compiti tuoi."
       ]
     }
@@ -150611,14 +150611,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Für eine gewöhnliche Website, einen Blog, ein Portfolio oder einen kleinen Shop genügt Shared Hosting und kostet weniger. Ein VPS lohnt sich nur, wenn die Website ein außerhalb des Panels installiertes System, reservierte CPU und reservierten Arbeitsspeicher oder Root-Zugriff braucht. Das Urteil steht weiter unten."
+          "Für einen Blog, ein Portfolio oder einen kleinen Shop vergleichen Sie zuerst Shared-Hosting-Tarife, die Ihre Anwendung unterstützen. Ein VPS kommt infrage, wenn Sie Einstellungen, Software oder Root-Zugriff brauchen, die diese Tarife nicht bieten, und jemanden haben, der den Server betreut. Wählen Sie nicht nur nach dem Tarifnamen; die Tabelle nach Szenario hilft beim Vergleich."
         ]
       },
       {
         "heading": "Was beides ist",
         "paragraphs": [
           "**Shared Hosting** ist ein Server, der unter mehreren Kunden aufgeteilt wird. Hostinger kümmert sich um das System, den Webserver und die Updates; Sie gehen ins Panel, installieren WordPress oder laden die Dateien Ihrer Website hoch, fertig. Bei Hostinger sind das die Tarife Single, Premium und Unlimited sowie Cloud Startup, dieselbe Idee mit mehr Ressourcen.",
-          "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatzplatz. Hostinger übergibt die Maschine mit dem Betriebssystem und dem Root-Zugriff, dem Benutzer, der alles darf. Von da an sind Installation von Webserver, Datenbank und Zertifikat sowie Updates und Sicherheit Ihre Aufgaben. Bei Hostinger sind das die Tarife KVM 1, 2, 4 und 8.",
+          "Ein **VPS** (virtueller privater Server) ist eine eigene virtuelle Maschine mit reserviertem Prozessor, Arbeitsspeicher und Speicherplatz sowie Root-Zugriff, dem Administratorkonto des Systems. Konfiguration, Updates und Sicherheit liegen bei Ihnen. Eine Vorlage kann WordPress vorinstalliert mitbringen und den Einstieg erleichtern; die spätere Administration bleibt bei Ihnen. Verglichen werden KVM 1, 2, 4 und 8.",
           "Der Unterschied ist nicht „besser oder schlechter“. Es geht darum, wer den Server betreut und wie viele Ressourcen für Sie reserviert sind."
         ]
       },
@@ -150627,7 +150627,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Beantworten Sie vor dem Blick auf den Preis drei Fragen. Lautet die Antwort dreimal „nein“, reicht Shared Hosting."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-de.webp",
         "imageAlt": "Übersicht mit drei Fragen: Muss ein System außerhalb des Panels installiert werden, braucht man reservierte CPU und reservierten Arbeitsspeicher, braucht man Root-Zugriff; jedes Ja führt zum VPS, dreimal Nein führt zum Shared Hosting",
         "imageCaption": "Die drei Fragen, die zwischen Shared Hosting und VPS entscheiden. Eigene Übersicht, auf Grundlage der Hostinger-Seiten.",
         "imageFit": "contain",
@@ -150652,7 +150652,7 @@ export const reviewsData: unknown[] = [
             [
               "Node.js-Website",
               "Ja, mit Unlimited oder Cloud Startup, die Hostinger für Node.js nennt. Premium steht nicht auf dieser Liste",
-              "Nicht nötig"
+              "Nicht nötig, es sei denn, Sie benötigen die volle Kontrolle über die Laufzeitumgebung."
             ],
             [
               "Mehrere Websites oder professionelle E-Mail-Adressen",
@@ -150720,7 +150720,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Für eine gewöhnliche Website, die einen VPS braucht, ist KVM 1 der Ausgangspunkt: 4 GB RAM reichen für ein WordPress oder ein kleines System. KVM 2 kommt ins Spiel, wenn Sie mehr als ein Programm auf derselben Maschine betreiben. KVM 4 und 8 sind für ein größeres System, eine große Datenbank oder mehrere Anwendungen."
+          "Vergleichen Sie CPU, Arbeitsspeicher und Speicherplatz mit den Anforderungen Ihrer Anwendung. KVM 1 ist der kleinste aufgeführte Tarif, und die Last Ihrer Website entscheidet, ob er genügt. KVM 4 und 8 sind für ein größeres System, eine große Datenbank oder mehrere Anwendungen."
         ]
       },
       {
@@ -150730,10 +150730,10 @@ export const reviewsData: unknown[] = [
           "Beim VPS sagt Hostinger auf der eigenen Seite, dass mit Root-Zugriff Konfiguration, Updates und Sicherheit des Servers bei dem liegen, der den Tarif abschließt. Hostinger bietet Templates mit bereits installiertem System, etwa für WordPress, und standardmäßig ein automatisches wöchentliches Backup, die Wartung bleibt aber bei Ihnen. In der Praxis wird daraus eine Liste für Sie:"
         ],
         "bullets": [
-          "**Installieren und konfigurieren**: Webserver, Datenbank und SSL-Zertifikat, oder von einem fertigen Template ausgehen.",
+          "**Umgebung einrichten**: Prüfen Sie, was das Template vorinstalliert, und passen Sie Webserver, Datenbank und Zertifikat an die Anwendung an.",
           "**Aktualisieren**: Betriebssystem und Programme, von Zeit zu Zeit.",
           "**Absichern**: Firewall, offene Ports, Passwörter und Zugangsschlüssel.",
-          "**Backups anlegen** (das automatische wöchentliche ist standardmäßig aktiv) und wissen, wie man sie zurückspielt.",
+          "**Backups prüfen und Wiederherstellung beherrschen**: Das automatische wöchentliche Backup ist standardmäßig aktiv, aber die Kopie zu prüfen und zurückzuspielen bleibt Ihre Aufgabe.",
           "**Eingreifen**, wenn die Website außerhalb der Geschäftszeiten ausfällt."
         ],
         "postParagraphs": [
@@ -150751,16 +150751,16 @@ export const reviewsData: unknown[] = [
         "emphasis": "Wäre es für eine gewöhnliche Website, würde ich Premium nehmen, weil es weniger kostet und Hostinger den Server betreut.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; für eine Node.js-Website oder wenn die Website wächst, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken.",
-          "**VPS** für ein eigenes System, ein Programm oder eine Datenbank außerhalb des Panels, einen Bot oder ein Panel, das den ganzen Tag läuft, oder wenn Sie Root brauchen. Beginnen Sie mit KVM 1 und steigen Sie auf, wenn der Arbeitsspeicher knapp wird. Rechnen Sie die Zeit für die Wartung des Servers ein oder die Kosten für jemanden, der sie übernimmt.",
-          "**Im Zweifel Shared Hosting.** Ein VPS wird später nicht zum Shared Hosting, aber umgekehrt ist es nur ein neuer Vertrag, wenn der Bedarf entsteht."
+          "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; für eine Node.js-Website oder wenn die Website wächst, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken. Node.js allein verlangt keinen VPS.",
+          "**VPS** kommt in den Vergleich, wenn Sie die Kontrolle und die Einstellungen aus der Tabelle brauchen. Wählen Sie den KVM nach den Anforderungen der Anwendung und rechnen Sie den Verwaltungsaufwand in die Kosten ein.",
+          "**Im Zweifel Shared Hosting.** Wenn der Bedarf an einem VPS später auftaucht, ist das ein neuer Vertrag, mit Einrichtung und Umzug der Website."
         ]
       },
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatzplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
-          "Kann man mit Shared Hosting anfangen und später zum VPS wechseln? Ja. Es sind verschiedene Produkte: Man schließt den VPS ab, installiert den Server und zieht die Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
+          "Ist ein VPS schneller als Shared Hosting? Nicht unbedingt. Reservierte Ressourcen und Root-Zugriff ändern die Kontrolle über die Umgebung, bestimmen aber allein nicht die Antwortzeit Ihrer Website. Vergleichen Sie die Anforderungen der Anwendung und die Tarifgrenzen.",
+          "Kann ich mit Shared Hosting beginnen und später zum VPS wechseln? Ja, sofern die Anwendung mit der neuen Umgebung kompatibel ist. Es ist ein neuer Vertrag, mit Serverinstallation und Umzug der Website; Shared Hosting lässt sich im Panel nicht in einen VPS umwandeln.",
           "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
           "Schafft ein VPS WordPress? Ja. Man kann vom WordPress-Template des VPS ausgehen, das schon installiert ist, aber Aktualisieren, Absichern und Zurückspielen von Backups bleibt bei Ihnen. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
@@ -150802,7 +150802,7 @@ export const reviewsData: unknown[] = [
         "Nehmen Sie ihn, wenn Sie ein Panel, einen Bot oder eine Automatisierung (n8n, Docker) haben, die den ganzen Tag läuft, und jemanden, der den Server wartet."
       ],
       "skipIf": [
-        "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite oder einen kleinen Shop geht: Shared Hosting genügt, und Hostinger betreut den Server.",
+        "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite, einen kleinen Shop oder eine Node.js-Website geht (auf einem passenden Tarif wie Unlimited oder Cloud Startup): Shared Hosting genügt, und Hostinger betreut den Server.",
         "Lassen Sie ihn, wenn Sie noch nie ein Terminal geöffnet haben: Installieren, Aktualisieren, Absichern und Backups liegen dann bei Ihnen."
       ]
     }
@@ -150855,14 +150855,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "ブログ、ポートフォリオ、小さなショップなど普通のサイトなら、共有ホスティングで足り、費用も安くすみます。VPS が割に合うのは、コントロールパネルの外にシステムを入れる必要があるとき、CPU とメモリを専用で確保したいとき、root 権限が要るときだけです。結論は下を見てください。"
+          "ブログ、ポートフォリオ、小さなショップなら、まずアプリケーションに対応した共有ホスティングのプランを比較してください。そのプランでは提供されないソフトウェア、設定、root 権限が必要で、管理を担う人もいるなら VPS を検討します。プラン名だけで決めず、下の表で必要な機能を比べましょう。"
         ]
       },
       {
         "heading": "それぞれの仕組み",
         "paragraphs": [
           "**共有ホスティング**は、一台のサーバーを複数の顧客で分け合う方式です。システム、ウェブサーバー、アップデートは Hostinger が面倒を見ます。あなたはパネルに入って WordPress を入れるか、サイトのファイルをアップロードするだけです。Hostinger では Single、Premium、Unlimited のプラン、そして同じ考え方でリソースを増やした Cloud Startup がこれにあたります。",
-          "**VPS**（仮想専用サーバー）は、プロセッサー、メモリ、ディスクが専用に確保された、あなただけの仮想マシンです。Hostinger は OS と root 権限（何でもできるユーザー）付きでマシンを渡します。そこから先、ウェブサーバー、データベース、証明書の導入、アップデート、セキュリティはあなたの仕事です。Hostinger では KVM 1、2、4、8 のプランです。",
+          "**VPS**（仮想専用サーバー）は、プランで決まったリソースと root 権限を持つ仮想マシンです。root はシステムの管理者アカウントで、設定、更新、セキュリティはあなたが担います。WordPress が導入済みのテンプレートを使えば初期設定は減らせますが、その後の運用まで Hostinger が引き受けるわけではありません。比較するのは KVM 1、2、4、8 です。",
           "違いは「どちらが優れているか」ではありません。誰がサーバーを管理するか、どれだけのリソースが専用に確保されるか、です。"
         ]
       },
@@ -150871,7 +150871,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "価格を見る前に、三つの問いに答えてください。三つとも「いいえ」なら、共有ホスティングで足ります。"
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ja.webp",
         "imageAlt": "三つの問いを並べた図：パネルの外にシステムを入れる必要があるか、CPU とメモリの専用確保が要るか、root 権限が要るか。一つでも「はい」なら VPS、三つとも「いいえ」なら共有ホスティング",
         "imageCaption": "共有ホスティングと VPS を分ける三つの問い。Hostinger のページをもとにした当サイトの図です。",
         "imageFit": "contain",
@@ -150896,7 +150896,7 @@ export const reviewsData: unknown[] = [
             [
               "Node.js のサイト",
               "はい。Hostinger が Node.js 対応として載せている Unlimited か Cloud Startup で。Premium はその一覧にありません",
-              "不要です"
+              "ランタイムを完全に制御する必要がなければ不要です"
             ],
             [
               "複数のサイトや業務用メール",
@@ -150964,7 +150964,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "普通のサイトで VPS が要る場合、出発点は KVM 1 です。RAM 4 GB あれば、WordPress や小さなシステムは動かせます。同じマシンで複数のプログラムを動かすなら KVM 2。KVM 4 と 8 は、大きめのシステム、大きなデータベース、複数のアプリケーション向けです。"
+          "表の CPU、RAM、ディスクを、アプリケーションの要件と比較してください。KVM 1 は表に載っている中で最小のプランで、サイトの負荷によって足りるかどうかが決まります。KVM 4 と 8 は、大きめのシステム、大きなデータベース、複数のアプリケーション向けです。"
         ]
       },
       {
@@ -150974,10 +150974,10 @@ export const reviewsData: unknown[] = [
           "VPS について Hostinger は自社のページで、root 権限があるとサーバーの設定、アップデート、セキュリティは契約した側の責任になる、と説明しています。Hostinger には WordPress のようにシステム導入済みのテンプレートがあり、週次の自動バックアップも標準でありますが、管理の責任はあなたに残ります。実際には、次のような自分のリストになります。"
         ],
         "bullets": [
-          "**インストールと設定**：ウェブサーバー、データベース、SSL 証明書（用意されたテンプレートから始める方法もあります）。",
+          "**環境の設定**：テンプレートで何が導入されるかを確認し、ウェブサーバー、データベース、証明書を用途に合わせます。",
           "**アップデート**：OS とプログラムを、折に触れて。",
           "**保護**：ファイアウォール、開いているポート、パスワード、アクセス用の鍵。",
-          "**バックアップ**（週次の自動バックアップは標準で有効）を取り、復元のしかたを知っておく。",
+          "**バックアップを確認し、復元方法を把握する**：週次の自動バックアップは標準で有効です。ただし、コピーの状態を確認し、障害時に復元できるかはあなたの責任です。",
           "**対応**：営業時間外にサイトが落ちたとき。"
         ],
         "postParagraphs": [
@@ -150995,18 +150995,18 @@ export const reviewsData: unknown[] = [
         "emphasis": "普通のサイトなら、Premium を選びます。費用が抑えられ、サーバーは Hostinger が面倒を見てくれるからです。",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**共有ホスティング**は、ブログ、ポートフォリオ、会社サイト、小さなショップに。サーバーの運用は Hostinger が担います。プランは Premium が出発点。Node.js のサイトや、サイトが成長したときは、VPS を考える前に Unlimited か Cloud Startup です。",
-          "**VPS** は、独自のシステム、パネルにないプログラムやデータベース、一日中動くボットやパネル、root 権限が必要なときに。KVM 1 から始めて、メモリが足りなければ上げてください。サーバーを維持する時間か、代わりにやってくれる人の費用を計算に入れること。",
-          "**迷ったら共有ホスティング。** VPS は後から共有ホスティングにはなりませんが、その逆は必要になったときに新しく契約するだけです。"
+          "**共有ホスティング**は、ブログ、ポートフォリオ、会社サイト、小さなショップに。サーバーの運用は Hostinger が担います。プランは Premium が出発点。Node.js のサイトや、サイトが成長したときは、VPS を考える前に Unlimited か Cloud Startup です。Node.js を使うだけでは VPS は必要ありません。",
+          "**VPS** は、表に示したような管理権限や設定が必要な場合に比較対象になります。KVM はアプリケーションの要件で選び、管理にかかる時間や費用も含めてください。KVM 1 で足りると決めつけず、メモリだけが限界だとも考えないでください。",
+          "**迷ったら共有ホスティング。** VPS が必要になったら、新たに契約し、環境を整えて、サイトを移すことになります。"
         ]
       },
       {
         "heading": "よくある質問",
         "bullets": [
-          "VPS は共有ホスティングより速いですか？ 計測していません。VPS が保証するのは専用のリソースです。CPU、メモリ、ディスクが自分のもので、共有ホスティングではサーバーを分け合います。普通のサイトでは、そこがボトルネックになることはまずありません。",
-          "まず共有ホスティングで始めて、後から VPS に移れますか？ 移れます。別の商品なので、VPS を契約し、サーバーを構築して、サイトを移します。共有ホスティングをパネルの中から VPS に変換することはできません。",
+          "VPS は共有ホスティングより速いですか？ 必ずしもそうとは限りません。確保されたリソースや root 権限は環境の管理方法を変えますが、それだけではサイトの応答速度は予測できません。アプリケーションの要件とプランの制限を比較してください。",
+          "まず共有ホスティングで始めて、後から VPS に移れますか？ 新しい環境にアプリケーションが対応していれば可能です。VPS の契約、サーバーの構築、サイトの移行が必要で、パネルから自動的に VPS へ変わるわけではありません。",
           "VPS を使うのに Linux は必要ですか？ はい、ターミナルの基本は必要です。プログラムの導入、システムのアップデート、ログの読み方です。共有ホスティングでは全部パネルから行え、ターミナルは必須ではありません。",
-          "VPS で WordPress は動きますか？ 動きます。VPS の WordPress テンプレートなら導入済みの状態から始められますが、アップデート、セキュリティ、バックアップの復元は自分で行います。共有ホスティングでは WordPress がパネルにあらかじめ用意され、サーバーは Hostinger が面倒を見ます。",
+          "VPS で WordPress は動きますか？ 動きます。導入済みのテンプレートも使えます。ただし環境の設定と維持、OS のセキュリティ更新はあなたの責任です。共有ホスティングでは WordPress がパネルにあらかじめ用意され、サーバーは Hostinger が面倒を見ます。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
@@ -151046,7 +151046,7 @@ export const reviewsData: unknown[] = [
         "一日中動くパネル、ボット、自動化（n8n、Docker）があり、サーバーを維持する人もいるなら VPS を。"
       ],
       "skipIf": [
-        "ブログ、ポートフォリオ、会社サイト、小さなショップなら見送りを。共有ホスティングで足り、サーバーは Hostinger が面倒を見ます。",
+        "ブログ、ポートフォリオ、会社サイト、小さなショップ、Node.js サイト（Unlimited や Cloud Startup などの対応プラン）なら見送りを。共有ホスティングで足り、サーバーは Hostinger が面倒を見ます。",
         "ターミナルを開いたことがないなら見送りを。インストール、アップデート、セキュリティ、バックアップが自分の仕事になります。"
       ]
     }
@@ -151099,14 +151099,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "블로그, 포트폴리오, 작은 쇼핑몰 같은 일반 사이트라면 공유 호스팅으로 충분하고 비용도 덜 듭니다. VPS는 패널 밖에 시스템을 설치해야 하거나, CPU와 메모리를 예약해 두어야 하거나, root 접근이 필요할 때만 값을 합니다. 결론은 아래를 보세요."
+          "블로그, 포트폴리오, 작은 쇼핑몰이라면 먼저 애플리케이션을 지원하는 공유 호스팅 플랜을 비교하세요. 해당 플랜에서 제공하지 않는 프로그램, 설정 또는 root 권한이 필요하고 서버를 관리할 사람도 있다면 VPS를 검토할 수 있습니다. 플랜 이름보다 요구 사항을 기준으로 아래 표를 살펴보세요."
         ]
       },
       {
         "heading": "둘은 무엇이 다른가",
         "paragraphs": [
           "**공유 호스팅**은 한 서버를 여러 고객이 나눠 쓰는 방식입니다. 시스템, 웹 서버, 업데이트는 호스팅어가 맡고, 이용자는 패널에 들어가 WordPress를 설치하거나 사이트 파일을 올리면 끝입니다. 호스팅어에서는 Single, Premium, Unlimited 플랜과, 같은 방식에 자원을 더한 Cloud Startup이 여기에 해당합니다.",
-          "**VPS**(가상 사설 서버)는 프로세서, 메모리, 디스크가 예약된 이용자만의 가상 머신입니다. 호스팅어는 운영체제와 root 접근(모든 것을 할 수 있는 사용자)을 갖춘 머신을 넘겨주고, 그다음부터 웹 서버, 데이터베이스, 인증서, 업데이트, 보안은 이용자의 일이 됩니다. 호스팅어에서는 KVM 1, 2, 4, 8 플랜입니다.",
+          "**VPS**(가상 사설 서버)는 플랜에 정해진 자원과 root 접근을 제공하는 가상 머신입니다. root는 시스템 관리자 계정이며, 설정, 업데이트와 보안은 이용자가 맡습니다. WordPress가 미리 설치된 템플릿으로 시작할 수는 있지만, 이후 서버 관리까지 호스팅어가 맡는 것은 아닙니다. 비교 대상은 KVM 1, 2, 4, 8입니다.",
           "차이는 “어느 쪽이 더 좋으냐”가 아닙니다. 누가 서버를 돌보는지, 그리고 얼마만큼의 자원이 예약되는지의 차이입니다."
         ]
       },
@@ -151115,7 +151115,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "가격을 보기 전에 세 가지 질문에 먼저 답해 보세요. 세 가지 모두 “아니오”라면 공유 호스팅으로 충분합니다."
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-ko.webp",
         "imageAlt": "세 가지 질문을 담은 표: 패널 밖에 시스템을 설치해야 하는가, CPU와 메모리 예약이 필요한가, root 접근이 필요한가. 하나라도 “예”면 VPS, 셋 다 “아니오”면 공유 호스팅",
         "imageCaption": "공유 호스팅과 VPS를 가르는 세 가지 질문. 호스팅어 페이지를 바탕으로 우리가 만든 표입니다.",
         "imageFit": "contain",
@@ -151140,7 +151140,7 @@ export const reviewsData: unknown[] = [
             [
               "Node.js 사이트",
               "예. 호스팅어가 Node.js 지원으로 명시한 Unlimited나 Cloud Startup에서 가능합니다. Premium은 그 목록에 없습니다",
-              "필요 없습니다"
+              "런타임을 완전히 제어해야 하는 경우가 아니라면 필요 없습니다"
             ],
             [
               "여러 사이트 또는 업무용 이메일",
@@ -151208,7 +151208,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "일반 사이트인데 VPS가 필요하다면 KVM 1이 출발점입니다. RAM 4GB면 WordPress나 작은 시스템을 돌릴 수 있습니다. 한 머신에서 프로그램을 여러 개 돌릴 때는 KVM 2가 맞습니다. KVM 4와 8은 더 큰 시스템, 큰 데이터베이스, 여러 애플리케이션을 위한 플랜입니다."
+          "표의 CPU, RAM, 저장 공간을 애플리케이션 요구 사항과 비교하세요. KVM 1은 표에서 가장 작은 플랜이고, 사이트의 부하에 따라 충분한지가 갈립니다. KVM 4와 8은 더 큰 시스템, 큰 데이터베이스, 여러 애플리케이션을 위한 플랜입니다."
         ]
       },
       {
@@ -151218,10 +151218,10 @@ export const reviewsData: unknown[] = [
           "VPS에 대해 호스팅어는 자사 페이지에서, root 접근을 쓰면 서버 설정, 업데이트, 보안은 계약한 사람 몫이라고 밝힙니다. 호스팅어는 WordPress처럼 시스템이 미리 설치된 템플릿과 기본 주간 자동 백업을 제공하지만, 관리 책임은 계속 이용자에게 있습니다. 실제로는 다음과 같은 직접 할 일 목록이 됩니다."
         ],
         "bullets": [
-          "**설치와 설정**: 웹 서버, 데이터베이스, SSL 인증서(준비된 템플릿으로 시작할 수도 있습니다).",
+          "**환경 설정**: 템플릿이 미리 설치한 항목을 확인하고 웹 서버, 데이터베이스, 인증서를 용도에 맞게 조정하기.",
           "**업데이트**: 운영체제와 프로그램을 주기적으로.",
           "**보안**: 방화벽, 열린 포트, 비밀번호, 접속 키.",
-          "**백업**(주간 자동 백업은 기본으로 켜져 있음)을 하고, 복원하는 방법을 알아 두기.",
+          "**백업 확인과 복원**: 주간 자동 백업은 기본으로 켜져 있지만, 백업본을 점검하고 실제로 복원하는 일은 이용자의 몫입니다.",
           "**대응**: 업무 시간 밖에 사이트가 다운됐을 때."
         ],
         "postParagraphs": [
@@ -151239,18 +151239,18 @@ export const reviewsData: unknown[] = [
         "emphasis": "일반적인 사이트라면 Premium을 택하세요. 비용이 덜 들고 서버는 호스팅어가 맡아 주기 때문입니다.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**공유 호스팅**은 블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰에 맞습니다. 서버 유지는 호스팅어의 몫입니다. 플랜 중에서는 Premium이 출발점이고, Node.js 사이트이거나 사이트가 커지면 VPS를 생각하기 전에 Unlimited나 Cloud Startup으로 올라가세요.",
-          "**VPS**는 자체 시스템, 패널에 없는 프로그램이나 데이터베이스, 하루 종일 돌아가는 봇이나 패널, 또는 root가 필요할 때 맞습니다. KVM 1에서 시작해 메모리가 모자라면 올리세요. 서버를 관리하는 시간이나 대신 해 줄 사람의 비용도 계산에 넣어야 합니다.",
-          "**망설여진다면 공유 호스팅입니다.** VPS는 나중에 공유 호스팅으로 바뀌지 않지만, 반대 방향은 필요가 생겼을 때 새 계약 하나면 됩니다."
+          "**공유 호스팅**은 블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰에 맞습니다. 서버 유지는 호스팅어의 몫입니다. 플랜 중에서는 Premium이 출발점이고, Node.js 사이트이거나 사이트가 커지면 VPS를 생각하기 전에 Unlimited나 Cloud Startup으로 올라가세요. Node.js만으로는 VPS가 필요하지 않습니다.",
+          "**VPS**는 표에 나온 관리 권한과 설정이 필요할 때 비교 대상이 됩니다. KVM은 애플리케이션 요구 사항으로 고르고, 관리 시간과 비용도 함께 계산하세요. KVM 1이 항상 충분하다고 보지 말고, RAM만 한계라고 여기지도 마세요.",
+          "**망설여진다면 공유 호스팅입니다.** VPS가 나중에 필요해지면 새로 계약하고 환경을 설정한 뒤 사이트를 옮기면 됩니다."
         ]
       },
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "VPS는 공유 호스팅보다 빠른가요? 측정하지 않았습니다. VPS가 보장하는 것은 예약된 자원입니다. CPU, 메모리, 디스크가 이용자 몫이고, 공유 호스팅에서는 서버를 나눠 씁니다. 일반 사이트에서는 이것이 병목이 되는 일이 드뭅니다.",
-          "공유 호스팅으로 시작했다가 나중에 VPS로 옮길 수 있나요? 가능합니다. 서로 다른 상품이라서, VPS를 계약하고 서버를 설치한 뒤 사이트를 옮기면 됩니다. 공유 호스팅을 패널 안에서 VPS로 전환할 수는 없습니다.",
+          "VPS는 공유 호스팅보다 빠른가요? 꼭 그렇지는 않습니다. 예약된 자원과 root 접근은 환경을 관리하는 방식을 바꾸지만, 그것만으로 사이트의 응답 속도를 예측할 수는 없습니다. 애플리케이션 요구 사항과 플랜의 한도를 비교하세요.",
+          "공유 호스팅으로 시작했다가 나중에 VPS로 옮길 수 있나요? 애플리케이션이 새 환경과 호환된다면 가능합니다. 서비스 계약, 환경 설정과 사이트 이전이 필요하며 패널에서 자동으로 VPS로 전환되는 것은 아닙니다.",
           "VPS를 쓰려면 Linux를 알아야 하나요? 네, 터미널 기본은 필요합니다. 프로그램 설치, 시스템 업데이트, 로그 읽기 같은 것들입니다. 공유 호스팅에서는 모든 것이 패널로 이루어져 터미널이 꼭 필요하지 않습니다.",
-          "VPS에서 WordPress가 돌아가나요? 돌아갑니다. VPS의 WordPress 템플릿으로 설치된 상태에서 시작할 수 있지만, 업데이트, 보안, 백업 복원은 직접 해야 합니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다.",
+          "VPS에서 WordPress가 돌아가나요? 돌아갑니다. 미리 설치된 템플릿으로 시작할 수도 있지만, 환경 설정, OS 보안 패치와 유지 관리는 이용자의 책임입니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다.",
           "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
@@ -151290,7 +151290,7 @@ export const reviewsData: unknown[] = [
         "하루 종일 돌아가는 패널, 봇, 자동화(n8n, Docker)가 있고 서버를 관리할 사람도 있다면 고르세요."
       ],
       "skipIf": [
-        "블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰이라면 건너뛰세요. 공유 호스팅으로 충분하고 서버는 호스팅어가 돌봅니다.",
+        "블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰, Node.js 사이트(Unlimited나 Cloud Startup 같은 지원 플랜)라면 건너뛰세요. 공유 호스팅으로 충분하고 서버는 호스팅어가 돌봅니다.",
         "터미널을 한 번도 열어 본 적이 없다면 건너뛰세요. 설치, 업데이트, 보안, 백업을 직접 해야 합니다."
       ]
     }
@@ -151343,14 +151343,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "博客、作品集或小型网店这类普通网站，共享主机就够用，也更便宜。只有当网站需要在面板之外安装系统、需要独享的 CPU 和内存，或需要 root 权限时，VPS 才划算。结论见下文。"
+          "博客、作品集或小型网店，可以先比较兼容应用的共享主机套餐。如果需要这些套餐不提供的软件、配置或 root 权限，并且有人能维护服务器，再考虑 VPS。不要只按套餐名称决定；下表按使用场景比较需求。"
         ]
       },
       {
         "heading": "两者各是什么",
         "paragraphs": [
           "**共享主机**是一台服务器由多位客户分用。系统、Web 服务器和更新由 Hostinger 负责；你进入面板，安装 WordPress 或上传网站文件，就完成了。在 Hostinger，这是 Single、Premium 和 Unlimited 套餐，还有 Cloud Startup，思路相同，资源更多。",
-          "**VPS**（虚拟专用服务器）是一台只属于你的虚拟机，处理器、内存和硬盘都是预留的。Hostinger 交付的是带操作系统和 root 权限（什么都能做的用户）的机器。从那以后，安装 Web 服务器、数据库、证书，做更新和安全，都是你的事。在 Hostinger，这是 KVM 1、2、4 和 8 套餐。",
+          "**VPS**（虚拟专用服务器）是一台提供套餐资源和 root 权限的虚拟机。root 是系统管理员账户；配置、更新和安全由你负责。预装 WordPress 的模板可以简化起步，但之后的服务器管理不会因此转交给 Hostinger。本文比较 KVM 1、2、4 和 8。",
           "区别不在于“谁更好”，而在于谁来照看服务器，以及有多少资源是专门留给你的。"
         ]
       },
@@ -151359,7 +151359,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "看价格之前，先回答三个问题。三个都是“不”，共享主机就够了。"
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hans.webp",
         "imageAlt": "列出三个问题的图表：是否需要在面板之外安装系统，是否需要独享 CPU 和内存，是否需要 root 权限；任一回答“是”就指向 VPS，三个都是“不”则指向共享主机",
         "imageCaption": "区分共享主机与 VPS 的三个问题。本站根据 Hostinger 页面制作的图表。",
         "imageFit": "contain",
@@ -151384,7 +151384,7 @@ export const reviewsData: unknown[] = [
             [
               "Node.js 网站",
               "可以：选 Hostinger 列出支持 Node.js 的 Unlimited 或 Cloud Startup。Premium 不在该列表中",
-              "不需要"
+              "不需要，除非你需要完全掌控运行环境"
             ],
             [
               "多个网站或企业邮箱",
@@ -151452,7 +151452,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "对于确实需要 VPS 的普通网站，KVM 1 是起点：4 GB 内存可以跑一个 WordPress 或小型系统。要在同一台机器上运行多个程序时，再上 KVM 2。KVM 4 和 8 面向较大的系统、大型数据库或多个应用。"
+          "把表中的 CPU、内存和硬盘与应用要求比较。KVM 1 是表中最小的套餐，能否满足需求取决于网站负载。KVM 4 和 8 面向较大的系统、大型数据库或多个应用。"
         ]
       },
       {
@@ -151462,10 +151462,10 @@ export const reviewsData: unknown[] = [
           "关于 VPS，Hostinger 在自己的页面上说明：有了 root 权限，服务器的配置、更新和安全就由订购者负责。Hostinger 提供像 WordPress 这样预装好系统的模板，也默认开启每周自动备份，但维护责任仍在你。实际上就成了你自己的一份清单："
         ],
         "bullets": [
-          "**安装和配置** Web 服务器、数据库和 SSL 证书，或从现成模板开始。",
+          "**配置环境**：核对模板已安装的内容，再按应用调整 Web 服务器、数据库和证书。",
           "**更新**操作系统和程序，隔一段时间做一次。",
           "**防护**：防火墙、开放的端口、密码和访问密钥。",
-          "**做备份**（每周自动备份默认开启），并且知道怎么恢复。",
+          "**检查备份并掌握恢复方法**：每周自动备份默认开启，但核对备份副本、在故障时实际恢复仍由你负责。",
           "**处理**：非工作时间网站宕机的时候。"
         ],
         "postParagraphs": [
@@ -151483,18 +151483,18 @@ export const reviewsData: unknown[] = [
         "emphasis": "如果是普通网站，我会选 Premium：它更便宜，服务器也由 Hostinger 负责。",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**共享主机**适合博客、作品集、公司网站、小型网店，服务器维护由 Hostinger 负责。套餐里 Premium 是起点；Node.js 网站或网站长大了，先升到 Unlimited 或 Cloud Startup，再考虑 VPS。",
-          "**VPS** 适合自有系统、面板里没有的程序或数据库、整天运行的机器人或面板，或者你需要 root 的时候。从 KVM 1 开始，内存不够再升。把维护服务器的时间，或者请人代劳的费用，也算进账里。",
-          "**拿不准，就选共享主机。** VPS 以后不能变成共享主机，反过来则只是在需要时再签一份新合同。"
+          "**共享主机**适合博客、作品集、公司网站、小型网店，服务器维护由 Hostinger 负责。套餐里 Premium 是起点；Node.js 网站或网站长大了，先升到 Unlimited 或 Cloud Startup，再考虑 VPS。Node.js 本身不需要 VPS。",
+          "**VPS** 适合在需要场景表所述控制权和配置时比较。按应用要求选择 KVM，并计入管理时间或费用。不要假定 KVM 1 总是够用，也不要把内存看成唯一限制。",
+          "**拿不准，就选共享主机。** 如果之后需要 VPS，那就是一份新合同，还要配置环境并迁移网站。"
         ]
       },
       {
         "heading": "常见问题",
         "bullets": [
-          "VPS 比共享主机快吗？我们没有测过。VPS 保证的是独享资源：CPU、内存和硬盘都是你的，而共享主机的服务器是大家分用的。对普通网站来说，这很少是瓶颈。",
-          "可以先用共享主机，以后再迁到 VPS 吗？可以。两者是不同的产品：你订购 VPS，搭好服务器，再把网站迁过去。共享主机不能在面板里直接转成 VPS。",
+          "VPS 比共享主机快吗？不一定。分配的资源和 root 权限改变了环境的管理方式，但仅凭这些无法预测网站的响应速度。需要比较应用要求与套餐限制。",
+          "可以先用共享主机，以后再迁到 VPS 吗？如果应用兼容新环境，可以迁移。你需要购买服务、配置环境并转移网站；共享主机不能在面板中直接转成 VPS。",
           "用 VPS 需要懂 Linux 吗？需要，至少要会终端的基本操作：安装程序、更新系统、看日志。共享主机则一切通过面板完成，不必使用终端。",
-          "VPS 能跑 WordPress 吗？能。可以从 VPS 的 WordPress 模板起步，它已预装好，但更新、防护和恢复备份仍要你自己来。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。",
+          "VPS 能跑 WordPress 吗？能，也可以用预装模板起步。但操作系统的安全补丁、环境配置和维护仍由你负责。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
@@ -151534,7 +151534,7 @@ export const reviewsData: unknown[] = [
         "如果有整天运行的面板、机器人或自动化（n8n、Docker），并且有人维护服务器，就选。"
       ],
       "skipIf": [
-        "如果是博客、作品集、公司网站、小型网店，就别选：共享主机够用，服务器由 Hostinger 负责。",
+        "如果是博客、作品集、公司网站、小型网店或 Node.js 网站（套餐需支持，如 Unlimited 或 Cloud Startup），就别选：共享主机够用，服务器由 Hostinger 负责。",
         "如果从没打开过终端，就别选：安装、更新、防护和备份都会变成你的事。"
       ]
     }
@@ -151587,14 +151587,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "部落格、作品集或小型網路商店這類一般網站，共享主機就夠用，也比較便宜。只有當網站需要在面板之外安裝系統、需要獨享的 CPU 與記憶體，或需要 root 權限時，VPS 才划算。結論見下文。"
+          "部落格、作品集或小型網路商店，可以先比較支援應用的共享主機方案。如果需要這些方案沒有提供的軟體、設定或 root 權限，並且有人能維護伺服器，再考慮 VPS。別只看方案名稱；下表依使用情境比較需求。"
         ]
       },
       {
         "heading": "兩者各是什麼",
         "paragraphs": [
           "**共享主機**是一台伺服器由多位客戶分用。系統、Web 伺服器與更新由 Hostinger 負責；你進入面板，安裝 WordPress 或上傳網站檔案，就完成了。在 Hostinger，這是 Single、Premium 與 Unlimited 方案，還有 Cloud Startup，想法相同，資源更多。",
-          "**VPS**（虛擬專屬伺服器）是一台只屬於你的虛擬機器，處理器、記憶體與硬碟都是預留的。Hostinger 交付的是帶作業系統與 root 權限（什麼都能做的使用者）的機器。從那之後，安裝 Web 伺服器、資料庫、憑證，做更新與安全，都是你的事。在 Hostinger，這是 KVM 1、2、4 與 8 方案。",
+          "**VPS**（虛擬專屬伺服器）是一台提供方案資源與 root 權限的虛擬機器。root 是系統管理帳號；設定、更新與安全由你負責。預裝 WordPress 的範本可以簡化起步，但之後的伺服器管理不會因此交給 Hostinger。本文比較 KVM 1、2、4 與 8。",
           "差別不在於「誰比較好」，而在於誰來照顧伺服器，以及有多少資源是專門留給你的。"
         ]
       },
@@ -151603,7 +151603,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "看價格之前，先回答三個問題。三個都是「不」，共享主機就夠了。"
         ],
-        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+        "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-zh-hant.webp",
         "imageAlt": "列出三個問題的圖表：是否需要在面板之外安裝系統，是否需要獨享 CPU 與記憶體，是否需要 root 權限；任一回答「是」就指向 VPS，三個都是「不」則指向共享主機",
         "imageCaption": "區分共享主機與 VPS 的三個問題。本站根據 Hostinger 頁面製作的圖表。",
         "imageFit": "contain",
@@ -151628,7 +151628,7 @@ export const reviewsData: unknown[] = [
             [
               "Node.js 網站",
               "可以：選 Hostinger 列出支援 Node.js 的 Unlimited 或 Cloud Startup。Premium 不在該列表中",
-              "不需要"
+              "不需要，除非你需要完全掌控執行環境"
             ],
             [
               "多個網站或企業信箱",
@@ -151696,7 +151696,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "對於確實需要 VPS 的一般網站，KVM 1 是起點：4 GB 記憶體可以跑一個 WordPress 或小型系統。要在同一台機器上執行多個程式時，再上 KVM 2。KVM 4 與 8 面向較大的系統、大型資料庫或多個應用。"
+          "把表中的 CPU、記憶體與硬碟和應用需求比較。KVM 1 是表中最小的方案，能否滿足需求取決於網站負載。KVM 4 與 8 面向較大的系統、大型資料庫或多個應用。"
         ]
       },
       {
@@ -151706,10 +151706,10 @@ export const reviewsData: unknown[] = [
           "關於 VPS，Hostinger 在自己的頁面上說明：有了 root 權限，伺服器的設定、更新與安全就由訂購者負責。Hostinger 提供像 WordPress 這樣預先裝好系統的範本，也預設開啟每週自動備份，但維護責任仍在你。實際上就成了你自己的一份清單："
         ],
         "bullets": [
-          "**安裝與設定** Web 伺服器、資料庫與 SSL 憑證，或從現成範本開始。",
+          "**設定環境**：核對範本已安裝的項目，再依應用調整 Web 伺服器、資料庫與憑證。",
           "**更新**作業系統與程式，隔一段時間做一次。",
           "**防護**：防火牆、開放的連接埠、密碼與存取金鑰。",
-          "**做備份**（每週自動備份預設開啟），並且知道怎麼還原。",
+          "**檢查備份並掌握還原方法**：每週自動備份預設開啟，但核對備份副本、在故障時實際還原仍由你負責。",
           "**處理**：非上班時間網站當機的時候。"
         ],
         "postParagraphs": [
@@ -151727,18 +151727,18 @@ export const reviewsData: unknown[] = [
         "emphasis": "如果是普通網站，我會選 Premium：它比較便宜，伺服器也由 Hostinger 負責。",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**共享主機**適合部落格、作品集、公司網站、小型網路商店，伺服器維護由 Hostinger 負責。方案裡 Premium 是起點；Node.js 網站或網站長大了，先升到 Unlimited 或 Cloud Startup，再考慮 VPS。",
-          "**VPS** 適合自有系統、面板裡沒有的程式或資料庫、整天運作的機器人或面板，或者你需要 root 的時候。從 KVM 1 開始，記憶體不夠再升。把維護伺服器的時間，或者請人代勞的費用，也算進帳裡。",
-          "**拿不定主意，就選共享主機。** VPS 之後不能變成共享主機，反過來則只是在需要時再簽一份新合約。"
+          "**共享主機**適合部落格、作品集、公司網站、小型網路商店，伺服器維護由 Hostinger 負責。方案裡 Premium 是起點；Node.js 網站或網站長大了，先升到 Unlimited 或 Cloud Startup，再考慮 VPS。Node.js 本身不需要 VPS。",
+          "**VPS** 適合在需要情境表所述控制權與設定時比較。依應用需求選擇 KVM，並計入管理時間或費用。不要假設 KVM 1 總是足夠，也別把記憶體視為唯一限制。",
+          "**拿不定主意，就選共享主機。** 如果之後需要 VPS，那是一份新合約，還要設定環境並遷移網站。"
         ]
       },
       {
         "heading": "常見問題",
         "bullets": [
-          "VPS 比共享主機快嗎？我們沒有測過。VPS 保證的是獨享資源：CPU、記憶體與硬碟都是你的，而共享主機的伺服器是大家分用的。對一般網站來說，這很少是瓶頸。",
-          "可以先用共享主機，之後再遷到 VPS 嗎？可以。兩者是不同的產品：你訂購 VPS，架好伺服器，再把網站遷過去。共享主機不能在面板裡直接轉成 VPS。",
+          "VPS 比共享主機快嗎？不一定。分配的資源與 root 權限改變了環境的管理方式，但僅憑這些無法預測網站的回應速度。需要比較應用需求與方案限制。",
+          "可以先用共享主機，之後再遷到 VPS 嗎？如果應用相容於新環境，就可以遷移。你需要購買服務、設定環境並轉移網站；共享主機不能在面板裡直接轉成 VPS。",
           "用 VPS 需要懂 Linux 嗎？需要，至少要會終端機的基本操作：安裝程式、更新系統、看日誌。共享主機則一切透過面板完成，不必使用終端機。",
-          "VPS 能跑 WordPress 嗎？能。可以從 VPS 的 WordPress 範本起步，它已預先裝好，但更新、防護與還原備份仍要你自己來。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。",
+          "VPS 能跑 WordPress 嗎？能，也可以用預裝範本起步。但作業系統的安全修補與伺服器設定仍由你負責。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
       },
@@ -151778,7 +151778,7 @@ export const reviewsData: unknown[] = [
         "如果有整天運作的面板、機器人或自動化（n8n、Docker），並且有人維護伺服器，就選。"
       ],
       "skipIf": [
-        "如果是部落格、作品集、公司網站、小型網路商店，就別選：共享主機夠用，伺服器由 Hostinger 負責。",
+        "如果是部落格、作品集、公司網站、小型網路商店或 Node.js 網站（方案需支援，如 Unlimited 或 Cloud Startup），就別選：共享主機夠用，伺服器由 Hostinger 負責。",
         "如果從沒開啟過終端機，就別選：安裝、更新、防護與備份都會變成你的事。"
       ]
     }
