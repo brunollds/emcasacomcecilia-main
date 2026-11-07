@@ -51522,7 +51522,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, com uma ressalva: a Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. Para o desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
+          "Sim, com uma ressalva: a Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. No site, o código MAUAD dá 5%; o [cupom Let's Eat It](/cupons/letseatit) traz as regras."
         ]
       },
       {
@@ -61518,7 +61518,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Algumas fichas de stoneware liberam forno e freezer, outras trazem restrições, e os modelos com ouro têm mais exceções em micro-ondas e lava-louças. Antes de comprar, confira a ficha da peça."
+          "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Os modelos com ouro têm mais exceções em micro-ondas e lava-louças, então confira a ficha da peça. Na Let's Eat It, o código MAUAD dá 5% no site."
         ]
       },
       {
@@ -62005,7 +62005,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Le Creuset vale a pena?",
         "paragraphs": [
-          "Vale para quem vai usar uma panela de ferro fundido no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. Confira o limite de forno da panela, tampa e puxador do modelo."
+          "Vale para quem vai usar uma panela de ferro fundido no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. No site da Let's Eat It, o código MAUAD dá 5%."
         ]
       },
       {
@@ -99597,7 +99597,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha uma faixa que caiba no seu orçamento e uma peça que o casal queira. Na Let's Eat It, havia opções nas quatro faixas abaixo. Se a casa já tem o básico, prefira completar uma linha que o casal usa; para montar a mesa do zero, confira o aparelho de jantar."
+          "Escolha uma faixa que caiba no orçamento e uma peça que o casal queira; na Let's Eat It, havia opções nas quatro faixas. Se a casa já tem o básico, prefira completar uma linha que o casal usa; para montar a mesa do zero, confira o aparelho de jantar. O código MAUAD dá 5% no site."
         ]
       },
       {
@@ -128389,7 +128389,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para receita de até 2 L, a 20 cm (2,4 L) basta se a receita não encostar na borda; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa, medido abaixo, decide; para servir à mesa, vale o buffet."
+          "Para receita de até 2 L, a 20 cm (2,4 L) basta se a receita não encostar na borda; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa decide; para servir à mesa, vale o buffet. No site da Let's Eat It, o código MAUAD dá 5%."
         ]
       },
       {
@@ -128674,7 +128674,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo para autenticar a peça. Em caso de dúvida sobre uma peça, o SAC da marca é o caminho."
+          "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. As páginas brasileiras da marca não trazem guia de número de série, gravação ou selo para autenticar a peça; na dúvida, o SAC da marca ajuda. No site da Let's Eat It, o código MAUAD dá 5%."
         ]
       },
       {
@@ -156861,7 +156861,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo; o de dezoito acrescenta a colher; o de trinta acrescenta garfo e colher de sobremesa. Escolha pelos talheres que você precisa; depois compare cor, preço e estoque. O Branco era o mais barato entre os de trinta."
+          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo, o de dezoito acrescenta a colher e o de trinta, garfo e colher de sobremesa. Escolha pelos talheres de que precisa; o Branco era o mais barato entre os de trinta. No site, o código MAUAD dá 5% e soma com o Pix."
         ]
       },
       {
@@ -157092,7 +157092,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido: um jogo americano e um guardanapo por pessoa, que já mudam a mesa com os pratos e talheres de casa. Depois vêm os talheres, a maior compra de uma vez, e por último os pratos. As duas faixas de preço estão nas tabelas abaixo."
+          "Para montar a mesa posta do dia a dia aos poucos, comece pelo tecido: um jogo americano e um guardanapo por pessoa, que já mudam a mesa. Depois vêm os talheres, a maior compra de uma vez, e por último os pratos. No site da Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
         ]
       },
       {
@@ -157386,7 +157386,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Entre as medidas das fichas, nossa sugestão é o de 45 x 45 cm para almoço e jantar, e o de 40 x 40 cm para café e lanche."
+          "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Entre as medidas das fichas, nossa sugestão é o de 45 x 45 cm para almoço e jantar, e o de 40 x 40 cm para café e lanche. No site da Let's Eat It, o código MAUAD dá 5%."
         ]
       },
       {
@@ -157620,7 +157620,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Comece medindo o prato e o espaço disponível por pessoa. Nos modelos comparados, o redondo deixa uma borda em volta do prato, e o retangular dá mais largura nas laterais para os talheres; use as contas abaixo e escolha a cor depois."
+          "Comece medindo o prato e o espaço disponível por pessoa. Nos modelos comparados, o redondo deixa uma borda em volta do prato, e o retangular dá mais largura nas laterais para os talheres; a cor fica para depois. No site da Let's Eat It, o código MAUAD dá 5% e soma com o Pix."
         ]
       },
       {
@@ -168444,7 +168444,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A taça base esfera da Let's Eat It vem em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. Há o conjunto de 450 ml e o de champanhe, de 250 ml; os preços estão na tabela abaixo. Antes de escolher, conte quantas pessoas vão à mesa."
+          "A taça base esfera da Let's Eat It vem em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. Há o conjunto de 450 ml e o de champanhe, de 250 ml. Antes de escolher, conte quantas pessoas vão à mesa; no site, o código MAUAD dá 5%."
         ]
       },
       {
@@ -180308,7 +180308,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial da marca. O que pesa contra é o prazo de entrega e a peça frágil; veja os capítulos de frete e de louça."
+          "Sim: a Let's Eat It é loja multimarca de casa e presentes, com empresa ativa, troca em 30 dias e reputação Boa no Reclame Aqui, e a Le Creuset dela está no localizador oficial. O que pesa contra é o prazo de entrega e a peça frágil. No site, o código MAUAD dá 5% e soma com o Pix."
         ]
       },
       {
