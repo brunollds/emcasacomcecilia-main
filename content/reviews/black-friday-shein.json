@@ -3,7 +3,7 @@
   "slug": "black-friday-shein",
   "locale": "pt",
   "translationKey": "shein-black-friday",
-  "title": "Black Friday SHEIN 2026: quando começa, o que já está no ar (11.11) e o imposto zero até US$ 50",
+  "title": "Black Friday SHEIN 2026: quando começa, o que já está no ar (11.11) e imposto de importação zero até US$ 50",
   "seoTitle": "Black Friday SHEIN 2026: quando começa e o que já está no ar",
   "type": "Guia de Black Friday",
   "category": "cupons-como-usar",
@@ -16,7 +16,7 @@
     "url": "/sobre"
   },
   "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Calendário, imposto de importação zero até US$ 50 e código de indicação 4CW5Y.",
-  "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases do histórico e imposto de importação zero até US$ 50.",
+  "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases de desconto e imposto de importação zero até US$ 50.",
   "publishedAt": "11 de outubro de 2026",
   "publishedAtISO": "2026-10-11",
   "updatedAt": "2026-11-07",
@@ -27,7 +27,7 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
-    "Desde 12 de maio de 2026, pedidos de até US$ 50 não pagam imposto de importação",
+    "Desde 12 de maio de 2026, pedidos de até US$ 50 têm alíquota zero de imposto de importação federal (ICMS estadual continua cobrado)",
     "Nos três últimos anos, as ofertas começaram antes da Black Friday e continuaram depois dela",
     "Produtos de Envio Nacional não pagam imposto de importação",
     "Devolução em até 20 dias, com a primeira devolução de cada pedido grátis"
@@ -42,7 +42,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou data nem página da Black Friday; pelo histórico, as ofertas dela entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa no app, sem promessa de desconto."
+        "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou página da Black Friday; pelo histórico, as ofertas principais entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa na busca do app, sem promessa de desconto fixo."
       ]
     },
     {
@@ -52,7 +52,11 @@
       ],
       "comparisonTable": {
         "caption": "Fases e descontos máximos anunciados pela SHEIN, pela imprensa que publicou os comunicados e pelos perfis da marca. O \"até\" vale para alguns itens.",
-        "headers": ["Ano", "Começo e fim", "Desconto máximo anunciado"],
+        "headers": [
+          "Ano",
+          "Começo e fim",
+          "Desconto máximo anunciado"
+        ],
         "rows": [
           [
             "2023",
@@ -114,7 +118,12 @@
           "Exemplo da SHEIN, sem o subsídio"
         ],
         "rows": [
-          ["Até US$ 50", "0%", "17% a 20%, conforme o estado", "US$ 50 viram US$ 60,24 com ICMS de 17%"],
+          [
+            "Até US$ 50",
+            "0%",
+            "17% a 20%, conforme o estado",
+            "US$ 50 viram US$ 60,24 com ICMS de 17%"
+          ],
           [
             "Acima de US$ 50",
             "60%, menos US$ 30 no valor do imposto",
@@ -217,7 +226,7 @@
     }
   ],
   "cta": {
-    "text": "Monte o carrinho na SHEIN e confira o imposto no resumo do pedido antes de pagar",
+    "text": "Pesquise 4CW5Y no app da SHEIN e confira as condições para a sua conta antes de comprar",
     "label": "Ir para a SHEIN",
     "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
     "sponsored": true

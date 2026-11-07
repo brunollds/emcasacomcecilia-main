@@ -59534,7 +59534,7 @@ export const reviewsData: unknown[] = [
     "slug": "black-friday-shein",
     "locale": "pt",
     "translationKey": "shein-black-friday",
-    "title": "Black Friday SHEIN 2026: quando começa, o que já está no ar (11.11) e o imposto zero até US$ 50",
+    "title": "Black Friday SHEIN 2026: quando começa, o que já está no ar (11.11) e imposto de importação zero até US$ 50",
     "seoTitle": "Black Friday SHEIN 2026: quando começa e o que já está no ar",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -59547,7 +59547,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A SHEIN está no 11.11 e ainda não anunciou a Black Friday; pelo histórico, as ofertas entram depois. Calendário, imposto de importação zero até US$ 50 e código de indicação 4CW5Y.",
-    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases do histórico e imposto de importação zero até US$ 50.",
+    "metaDescription": "Pesquise 4CW5Y no app da SHEIN, código de indicação. Black Friday SHEIN: calendário, fases de desconto e imposto de importação zero até US$ 50.",
     "publishedAt": "11 de outubro de 2026",
     "publishedAtISO": "2026-10-11",
     "updatedAt": "2026-11-07",
@@ -59558,7 +59558,7 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Desde 12 de maio de 2026, pedidos de até US$ 50 não pagam imposto de importação",
+      "Desde 12 de maio de 2026, pedidos de até US$ 50 têm alíquota zero de imposto de importação federal (ICMS estadual continua cobrado)",
       "Nos três últimos anos, as ofertas começaram antes da Black Friday e continuaram depois dela",
       "Produtos de Envio Nacional não pagam imposto de importação",
       "Devolução em até 20 dias, com a primeira devolução de cada pedido grátis"
@@ -59573,7 +59573,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou data nem página da Black Friday; pelo histórico, as ofertas dela entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa no app, sem promessa de desconto."
+          "A Black Friday de 2026 cai em 27 de novembro. Hoje a SHEIN está no 11.11 e ainda não publicou página da Black Friday; pelo histórico, as ofertas principais entram depois do 11.11 e vão até o fim do mês. O 4CW5Y é código de indicação: você o pesquisa na busca do app, sem promessa de desconto fixo."
         ]
       },
       {
@@ -59757,7 +59757,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Monte o carrinho na SHEIN e confira o imposto no resumo do pedido antes de pagar",
+      "text": "Pesquise 4CW5Y no app da SHEIN e confira as condições para a sua conta antes de comprar",
       "label": "Ir para a SHEIN",
       "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
       "sponsored": true
@@ -59813,7 +59813,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Black Friday 2026 falls on November 27. SHEIN is in its 11.11 sale right now and has not published Black Friday dates or a page yet; going by past years, its Black Friday deals come after 11.11 and run to the end of the month. 4CW5Y is a referral code: you search for it in the app, with no discount promised."
+          "Black Friday 2026 falls on November 27. In early November, SHEIN focuses promotions on its 11.11 sale before rolling out official Black Friday campaign pages; historically, major Black Friday deals launch after 11.11 and run through month-end. 4CW5Y is a referral code: you search for it in the search bar of the SHEIN app, with no fixed discount promised."
         ]
       },
       {
@@ -59916,7 +59916,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Build your cart on SHEIN and check the taxes in the order summary before you pay",
+      "text": "Search for 4CW5Y in the SHEIN app and check the conditions for your account before buying",
       "label": "Go to SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -59971,7 +59971,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El Black Friday de 2026 cae el 27 de noviembre. Hoy SHEIN está en el 11.11 y todavía no publicó fechas ni página del Black Friday; según el historial, sus ofertas entran después del 11.11 y duran hasta fin de mes. El 4CW5Y es un código de referido: se busca en la app, sin promesa de descuento."
+          "El Black Friday de 2026 cae el 27 de noviembre. A comienzos de noviembre, SHEIN está en el 11.11 y aún no publicó la página del Black Friday; según el historial, las ofertas principales entran tras el 11.11 y duran hasta fin de mes. El 4CW5Y es un código de referido: se busca en la app, sin promesa de descuento."
         ]
       },
       {
@@ -60074,7 +60074,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Arma tu carrito en SHEIN y revisa el impuesto en el resumen del pedido antes de pagar",
+      "text": "Busca 4CW5Y en la app de SHEIN y revisa las condiciones para tu cuenta antes de comprar",
       "label": "Ir a SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60129,7 +60129,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le Black Friday 2026 tombe le 27 novembre. SHEIN est aujourd'hui au 11.11 et n'a publié ni dates ni page pour le Black Friday ; d'après l'historique, ses offres arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y est un code de parrainage : on le cherche dans l'appli, sans promesse de remise."
+          "Le Black Friday 2026 tombe le 27 novembre. Début novembre, SHEIN est en pleine promo 11.11 et n'a pas encore publié la page du Black Friday; d'après l'historique, les offres principales arrivent après le 11.11 et durent jusqu'à la fin du mois. Le 4CW5Y est un code de parrainage : on le cherche dans l'appli, sans promesse de remise."
         ]
       },
       {
@@ -60232,7 +60232,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Composez votre panier sur SHEIN et vérifiez les taxes dans le récapitulatif avant de payer",
+      "text": "Recherchez 4CW5Y dans l'appli SHEIN et consultez les conditions de votre compte avant d'acheter",
       "label": "Aller sur SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60287,7 +60287,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Der Black Friday 2026 fällt auf den 27. November. SHEIN ist derzeit beim 11.11 und hat weder Termine noch eine Seite zum Black Friday veröffentlicht; nach den Vorjahren kommen die Black-Friday-Angebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y ist ein Empfehlungscode: Sie suchen ihn in der App, ohne Rabattversprechen."
+          "Der Black Friday 2026 fällt auf den 27. November. Anfang November konzentriert SHEIN seine Aktionen auf den 11.11, bevor offizielle Black-Friday-Seiten freigeschaltet werden; nach den Vorjahren starten die Hauptangebote nach dem 11.11 und laufen bis Monatsende. Der 4CW5Y ist ein Empfehlungscode: Sie geben ihn in die Suchleiste der SHEIN-App ein, ohne festes Rabattversprechen."
         ]
       },
       {
@@ -60390,7 +60390,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Stellen Sie den Warenkorb bei SHEIN zusammen und prüfen Sie die Steuer in der Bestellübersicht, bevor Sie bezahlen",
+      "text": "Suchen Sie 4CW5Y in der SHEIN-App und prüfen Sie vor dem Kauf die Bedingungen für Ihr Konto",
       "label": "Zu SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60445,7 +60445,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il Black Friday 2026 cade il 27 novembre. Oggi SHEIN è nell'11.11 e non ha ancora pubblicato date né una pagina del Black Friday; dallo storico, le sue offerte arrivano dopo l'11.11 e vanno fino a fine mese. Il 4CW5Y è un codice di invito: si cerca nell'app, senza promessa di sconto."
+          "Il Black Friday 2026 cade il 27 novembre. A inizio novembre SHEIN concentra le promozioni sull'11.11 e non ha ancora pubblicato la pagina del Black Friday; dallo storico, le offerte principali partono dopo l'11.11 e proseguono fino a fine mese. Il 4CW5Y è un codice di invito: si cerca nella barra di ricerca dell'app, senza promessa di sconto fisso."
         ]
       },
       {
@@ -60548,7 +60548,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Prepara il carrello su SHEIN e controlla l'imposta nel riepilogo dell'ordine prima di pagare",
+      "text": "Cerca 4CW5Y nell'app SHEIN e controlla le condizioni del tuo account prima di comprare",
       "label": "Vai su SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60603,7 +60603,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "2026년 블랙프라이데이는 11월 27일입니다. SHEIN은 지금 11.11 세일 중이며 블랙프라이데이 날짜와 페이지는 아직 공개하지 않았습니다. 지난 기록을 보면 블랙프라이데이 할인은 11.11 이후에 시작해 월말까지 이어집니다. 4CW5Y는 추천 코드로, 앱에서 검색해 쓰며 할인을 약속하지 않습니다."
+          "2026년 블랙프라이데이는 11월 27일입니다. 11월 초 현재 SHEIN은 11.11 프로모션에 집중하고 있으며 공식 블랙프라이데이 페이지는 아직 공개하지 않았습니다. 지난 기록상 주요 할인은 11.11 이후 본격화되어 월말까지 이어집니다. 4CW5Y는 추천 코드로, SHEIN 앱 검색창에 직접 입력해 검색하며 고정 할인율을 약속하지 않습니다."
         ]
       },
       {
@@ -60706,7 +60706,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "SHEIN에서 장바구니를 채우고, 결제 전에 주문 요약에서 세금을 확인하세요",
+      "text": "SHEIN 앱에서 4CW5Y를 검색하고 구매 전에 계정에 표시되는 조건을 확인하세요",
       "label": "SHEIN으로 이동",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60761,7 +60761,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "2026年のブラックフライデーは11月27日です。SHEINは現在11.11セールの最中で、ブラックフライデーの日程やページはまだ公開していません。過去の実績では、ブラックフライデーのセールは11.11の後に始まり、月末まで続きます。4CW5Yは紹介コードで、SHEINのアプリで検索して使い、割引は約束されません。"
+          "2026年のブラックフライデーは11月27日です。11月初旬の現在、SHEINは11.11セールに注力しており、公式なブラックフライデー特集ページは未公開です。過去の実績では、主要なセールは11.11以降に本格化し月末まで続きます。4CW5Yは紹介コードで、SHEINアプリの検索バーに入力して使用し、固定の割引率は約束されません。"
         ]
       },
       {
@@ -60864,7 +60864,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "SHEIN でカートを作り、支払う前に注文の概要で税金を確認しましょう",
+      "text": "SHEINのアプリで4CW5Yを検索し、購入前にアカウントに表示される条件を確認しましょう",
       "label": "SHEIN へ進む",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -60919,7 +60919,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日。SHEIN 目前正在辦 11.11 促銷，還沒有公布黑色星期五的日期和頁面；從往年來看，黑色星期五的優惠在 11.11 之後到來，持續到月底。4CW5Y 是推薦碼，要在 App 裡搜尋，不承諾任何折扣。"
+          "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正集中推廣 11.11 活動，尚未開放正式的黑色星期五活動頁面；依往年經驗，主力折扣在 11.11 後陸續登場並持續至月底。4CW5Y 是推薦碼，請在 SHEIN App 搜尋欄輸入查詢，不承諾固定折扣比率。"
         ]
       },
       {
@@ -61022,7 +61022,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "在 SHEIN 組好購物車，付款前先在訂單摘要確認稅金",
+      "text": "在 SHEIN App 中搜尋 4CW5Y，購買前先查看帳號顯示的條件",
       "label": "前往 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -61077,7 +61077,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速解答",
         "paragraphs": [
-          "2026 年黑色星期五是 11 月 27 日。SHEIN 目前正在办 11.11 促销，还没有公布黑色星期五的日期和页面；从往年来看，黑色星期五的优惠在 11.11 之后到来，持续到月底。4CW5Y 是推荐码，要在 App 里搜索，不承诺任何折扣。"
+          "2026 年黑色星期五是 11 月 27 日。11 月初目前 SHEIN 正重点开展 11.11 促销活动，尚未开放正式的黑色星期五页面；从往年规律看，主要优惠在 11.11 之后陆续上线并延续至月底。4CW5Y 是推荐码，需在 SHEIN App 搜索栏中输入检索，不承诺固定折扣比例。"
         ]
       },
       {
@@ -61180,7 +61180,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "在 SHEIN 挑选商品加入购物车，付款前先在订单摘要确认税金",
+      "text": "在 SHEIN App 中搜索 4CW5Y，购买前先查看账户显示的条件",
       "label": "前往 SHEIN",
       "url": "https://onelink.shein.com/55/6463grgxf6ru",
       "sponsored": true
@@ -64262,7 +64262,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Para a compra contar para quem divulgou o código, a SHEIN diz que o pedido precisa ser finalizado em até 24 horas depois da busca ou do clique, e vale o último código ou link usado. A comissão não aumenta o que você paga."
+          "Compras feitas pelo link ou pelo código podem gerar comissão para quem o divulga, sem custo extra para você."
         ]
       },
       {
@@ -64284,7 +64284,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Onde colocar o código de indicação da SHEIN? Na barra de busca do aplicativo ou do site da SHEIN no celular, não no campo de cupom.",
           "Como usar o código de indicação da SHEIN? Abra a busca, digite o código, toque na lupa e monte o carrinho a partir da página que abrir.",
-          "Como funciona o código de indicação da SHEIN? Segundo a SHEIN, ele abre a página de quem divulgou o código. Se você finalizar a compra em até 24 horas, essa pessoa recebe a comissão, sem custo extra para você.",
+          "Como funciona o código de indicação SHEIN? Ele abre a página ligada ao código. Compras feitas por esse caminho podem gerar comissão para quem o compartilhou, sem custo extra para você.",
           "O código de indicação da SHEIN dá desconto? Não há um desconto fixo: você pode receber as ofertas que a SHEIN mostrar na página que o código abre.",
           "O código de indicação é a mesma coisa que cupom? Não. Segundo a SHEIN, o código vai na caixa de busca, e não como cupom.",
           "Como saber meu código de indicação da SHEIN? O código de indicação sai do programa de afiliados da SHEIN. Depois do cadastro, feito pela busca \"afiliado\" no aplicativo, ele aparece na página inicial de afiliado.",
@@ -64400,13 +64400,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "For the purchase to count for the person who shared the code, SHEIN says the order must be completed within 24 hours of the search or click, and the last code or link used applies. The commission doesn't raise what you pay."
+          "Purchases made through the link or code may earn the person who shared it a commission, at no extra cost to you."
         ]
       },
       {
         "heading": "Why the old guides, with the old program's coupon, no longer apply",
         "paragraphs": [
-          "Many guides and videos still describe the affiliate program that SHEIN ended on August 29, 2024. Under it, anyone using an affiliate's code got a discount coupon. SHEIN deactivated those codes, and the coupon ended with them.",
+          "Many guides and videos still describe older referral programs (such as the legacy program retired in August 2024). Under those earlier setups, anyone using an affiliate's code received a fixed discount coupon. SHEIN deactivated those codes, and that coupon structure is no longer active.",
           "In the current program, there is no longer a link between the person who refers and the person who uses the code. The code only leads to the affiliate's page, and the perks are those of the campaigns shown there."
         ]
       },
@@ -64422,7 +64422,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Where do I enter the SHEIN referral code? In the search bar of the SHEIN app or website on your phone, not in the coupon field.",
           "How do I use the SHEIN referral code? Open the search, type the code, tap the magnifying glass and fill your cart from the page that opens.",
-          "How does the SHEIN referral code work? According to SHEIN, it opens the page of the person who shared the code. If you complete the purchase within 24 hours, that person earns the commission, at no extra cost to you.",
+          "How does the SHEIN referral code work? It opens the page linked to the code. Purchases made through that route may earn the person who shared it a commission, at no extra cost to you.",
           "Does the SHEIN referral code give a discount? There is no fixed discount: you may get the offers SHEIN shows on the page the code opens.",
           "Is the referral code the same as a coupon? No. According to SHEIN, the code goes in the search box, not as a coupon.",
           "How do I find my SHEIN referral code? The referral code comes from SHEIN's affiliate program. After you sign up, using the search for the affiliate program in the app, it appears on the affiliate home page.",
@@ -64538,13 +64538,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Para que la compra cuente para quien compartió el código, SHEIN indica que el pedido debe finalizarse dentro de las 24 horas posteriores a la búsqueda o al clic, y vale el último código o enlace usado. La comisión no aumenta lo que pagas."
+          "Las compras realizadas a través del enlace o del código pueden generar una comisión para quien lo compartió, sin costo extra para ti."
         ]
       },
       {
         "heading": "Por qué las guías antiguas, con el cupón del programa antiguo, ya no valen",
         "paragraphs": [
-          "Muchas guías y vídeos todavía describen el programa de afiliados que SHEIN cerró el 29 de agosto de 2024. En él, quien usaba el código de un afiliado recibía un cupón de descuento. SHEIN desactivó esos códigos y el cupón desapareció con ellos.",
+          "Muchas guías y vídeos todavía describen programas de afiliados anteriores (como el esquema cerrado en agosto de 2024). En ellos, quien usaba el código de un afiliado recibía un cupón de descuento fijo. SHEIN desactivó esos códigos antiguos y ese beneficio ya no está vigente.",
           "En el programa actual ya no existe vínculo entre quien recomienda y quien usa el código. El código solo lleva a la página del afiliado, y las ventajas son las de las campañas que aparecen allí."
         ]
       },
@@ -64560,7 +64560,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Dónde se pone el código de referido de SHEIN? En la barra de búsqueda de la app o del sitio de SHEIN en el móvil, no en el campo de cupón.",
           "¿Cómo se usa el código de referido de SHEIN? Abre el buscador, escribe el código, toca la lupa y arma el carrito desde la página que se abra.",
-          "¿Cómo funciona el código de referido de SHEIN? Según SHEIN, abre la página de quien compartió el código. Si finalizas la compra dentro de 24 horas, esa persona recibe la comisión, sin costo extra para ti.",
+          "¿Cómo funciona el código de referido de SHEIN? Abre la página vinculada al código. Las compras realizadas por esa vía pueden generar una comisión para quien lo compartió, sin costo extra para ti.",
           "¿El código de referido de SHEIN da descuento? No hay un descuento fijo: puedes recibir las ofertas que SHEIN muestre en la página que abre el código.",
           "¿El código de referido es lo mismo que un cupón? No. Según SHEIN, el código va en el cuadro de búsqueda y no como cupón.",
           "¿Cómo saber cuál es mi código de referido de SHEIN? El código de referido sale del programa de afiliados de SHEIN. Después del registro, hecho con la búsqueda \"afiliado\" en la app, aparece en la página de inicio de afiliado.",
@@ -64676,13 +64676,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Pour que l'achat compte pour la personne qui a partagé le code, SHEIN indique que la commande doit être finalisée dans les 24 heures suivant la recherche ou le clic, et c'est le dernier code ou lien utilisé qui vaut. La commission n'augmente pas ce que vous payez."
+          "Les achats effectués via le lien ou le code peuvent rapporter une commission à la personne qui l'a partagé, sans frais supplémentaires pour vous."
         ]
       },
       {
         "heading": "Pourquoi les anciens guides, avec le code promo de l'ancien programme, ne valent plus",
         "paragraphs": [
-          "De nombreux guides et vidéos décrivent encore le programme d'affiliation que SHEIN a arrêté le 29 août 2024. Dans ce programme, qui utilisait le code d'un affilié recevait un code promo. SHEIN a désactivé ces codes, et le code promo a disparu avec eux.",
+          "De nombreux guides et vidéos décrivent encore d'anciens programmes de parrainage (comme le dispositif arrêté en août 2024). Dans ces anciens formats, utiliser le code d'un affilié donnait droit à un code promo de réduction fixe. SHEIN a désactivé ces anciens codes et cet avantage n'est plus en vigueur.",
           "Dans le programme actuel, il n'y a plus de lien entre la personne qui parraine et celle qui utilise le code. Le code mène seulement à la page de l'affilié, et les avantages sont ceux des campagnes affichées sur cette page."
         ]
       },
@@ -64698,7 +64698,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Où saisir le code de parrainage SHEIN ? Dans la barre de recherche de l'application ou du site SHEIN sur téléphone, pas dans le champ du code promo.",
           "Comment utiliser le code de parrainage SHEIN ? Ouvrez la recherche, saisissez le code, touchez la loupe et remplissez le panier depuis la page qui s'ouvre.",
-          "Comment fonctionne le code de parrainage SHEIN ? Selon SHEIN, il ouvre la page de la personne qui a partagé le code. Si vous finalisez l'achat dans les 24 heures, cette personne touche la commission, sans frais supplémentaires pour vous.",
+          "Comment fonctionne le code de parrainage SHEIN ? Il ouvre la page associée au code. Les achats effectués par ce biais peuvent rapporter une commission à la personne qui l'a partagé, sans frais supplémentaires pour vous.",
           "Le code de parrainage SHEIN donne-t-il une réduction ? Il n'y a pas de réduction fixe : vous pouvez bénéficier des offres que SHEIN affiche sur la page ouverte par le code.",
           "Le code de parrainage est-il la même chose qu'un code promo ? Non. Selon SHEIN, le code se saisit dans la zone de recherche, et non comme un code promo.",
           "Comment connaître mon code de parrainage SHEIN ? Le code de parrainage vient du programme d'affiliation de SHEIN. Après l'inscription, faite par la recherche du programme d'affiliation dans l'application, il apparaît sur la page d'accueil de l'affilié.",
@@ -64814,13 +64814,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Damit der Kauf für die Person zählt, die den Code weitergegeben hat, muss die Bestellung laut SHEIN innerhalb von 24 Stunden nach der Suche oder dem Klick abgeschlossen werden, und es gilt der zuletzt verwendete Code oder Link. Die Provision erhöht nicht, was Sie zahlen."
+          "Käufe über den Link oder Code können der Person, die ihn geteilt hat, eine Provision einbringen, ohne Mehrkosten für Sie."
         ]
       },
       {
         "heading": "Warum die alten Anleitungen mit dem Gutschein des alten Programms nicht mehr gelten",
         "paragraphs": [
-          "Viele Anleitungen und Videos beschreiben noch das Affiliate-Programm, das SHEIN am 29. August 2024 beendet hat. Wer darin den Code eines Affiliates nutzte, bekam einen Rabattgutschein. SHEIN hat diese Codes deaktiviert, und der Gutschein ist mit ihnen weggefallen.",
+          "Viele Anleitungen und Videos beschreiben noch frühere Empfehlungsprogramme (wie das im August 2024 eingestellte Modell). Wer darin den Code eines Affiliates nutzte, bekam einen festen Rabattgutschein. SHEIN hat diese alten Codes deaktiviert, und dieser Gutschein existiert nicht mehr.",
           "Im aktuellen Programm gibt es keine Verbindung mehr zwischen der Person, die empfiehlt, und der Person, die den Code nutzt. Der Code führt nur zur Seite des Affiliates, und die Vorteile sind die der dort gezeigten Kampagnen."
         ]
       },
@@ -64836,7 +64836,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Wo gebe ich den SHEIN-Empfehlungscode ein? In der Suchleiste der SHEIN-App oder der Website im Smartphone-Browser, nicht im Gutscheinfeld.",
           "Wie nutze ich den SHEIN-Empfehlungscode? Öffnen Sie die Suche, geben Sie den Code ein, tippen Sie auf die Lupe und füllen Sie den Warenkorb von der Seite aus, die aufgeht.",
-          "Wie funktioniert der SHEIN-Empfehlungscode? Laut SHEIN öffnet er die Seite der Person, die den Code weitergegeben hat. Schließen Sie den Kauf innerhalb von 24 Stunden ab, erhält diese Person die Provision, ohne Mehrkosten für Sie.",
+          "Wie funktioniert der SHEIN-Empfehlungscode? Er öffnet die mit dem Code verknüpfte Seite. Käufe über diesen Weg können der Person, die ihn geteilt hat, eine Provision einbringen, ohne Mehrkosten für Sie.",
           "Gibt der SHEIN-Empfehlungscode Rabatt? Es gibt keinen festen Rabatt: Sie können die Angebote erhalten, die SHEIN auf der Seite zeigt, die der Code öffnet.",
           "Ist der Empfehlungscode dasselbe wie ein Gutschein? Nein. Laut SHEIN gehört der Code ins Suchfeld und nicht als Gutschein.",
           "Wie finde ich meinen SHEIN-Empfehlungscode? Der Empfehlungscode stammt aus dem Affiliate-Programm von SHEIN. Nach der Anmeldung, die über die Suche nach dem Affiliate-Programm in der App erfolgt, erscheint er auf der Startseite für Affiliates.",
@@ -64952,13 +64952,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Perché l'acquisto conti per chi ha condiviso il codice, SHEIN dice che l'ordine va completato entro 24 ore dalla ricerca o dal clic, e vale l'ultimo codice o link usato. La commissione non aumenta quello che paghi."
+          "Gli acquisti effettuati tramite il link o il codice possono generare una commissione per chi lo ha condiviso, senza costi aggiuntivi per te."
         ]
       },
       {
         "heading": "Perché le vecchie guide, con il coupon del vecchio programma, non valgono più",
         "paragraphs": [
-          "Molte guide e video descrivono ancora il programma di affiliazione che SHEIN ha chiuso il 29 agosto 2024. In quel programma, chi usava il codice di un affiliato riceveva un coupon sconto. SHEIN ha disattivato quei codici, e il coupon è finito con loro.",
+          "Molte guide e video descrivono ancora programmi di affiliazione precedenti (come il modello chiuso ad agosto 2024). In quel formato, chi usava il codice di un affiliato riceveva un coupon sconto fisso. SHEIN ha disattivato quei vecchi codici e quel coupon non è più attivo.",
           "Nel programma attuale non esiste più un legame tra chi invita e chi usa il codice. Il codice porta solo alla pagina dell'affiliato, e i vantaggi sono quelli delle campagne che compaiono lì."
         ]
       },
@@ -64974,7 +64974,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Dove si inserisce il codice invito SHEIN? Nella barra di ricerca dell'app o del sito SHEIN da smartphone, non nel campo del coupon.",
           "Come si usa il codice invito SHEIN? Apri la ricerca, digita il codice, tocca la lente e riempi il carrello dalla pagina che si apre.",
-          "Come funziona il codice invito SHEIN? Secondo SHEIN, apre la pagina di chi ha condiviso il codice. Se completi l'acquisto entro 24 ore, quella persona riceve la commissione, senza costi extra per te.",
+          "Come funziona il codice invito SHEIN? Apre la pagina collegata al codice. Gli acquisti effettuati da lì possono generare una commissione per chi lo ha condiviso, senza costi aggiuntivi per te.",
           "Il codice invito SHEIN dà uno sconto? Non c'è uno sconto fisso: puoi ricevere le offerte che SHEIN mostra nella pagina aperta dal codice.",
           "Il codice invito è la stessa cosa di un coupon? No. Secondo SHEIN, il codice va nella casella di ricerca, non come coupon.",
           "Come trovo il mio codice invito SHEIN? Il codice invito si ottiene tramite il programma di affiliazione di SHEIN. Dopo la registrazione, fatta cercando il programma di affiliazione nell'app, compare nella home dell'affiliato.",
@@ -65090,13 +65090,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "구매가 코드를 공유한 사람의 실적으로 잡히려면 검색이나 클릭 후 24시간 안에 주문을 마쳐야 한다고 SHEIN은 설명합니다. 마지막으로 사용한 코드나 링크가 적용됩니다. 수수료 때문에 결제 금액이 늘어나지는 않습니다."
+          "링크나 코드를 통해 구매하면 코드를 공유한 사람에게 수수료가 지급될 수 있으며, 구매자에게 추가 비용은 없습니다."
         ]
       },
       {
         "heading": "이전 프로그램의 쿠폰을 안내하는 옛날 가이드가 더 이상 맞지 않는 이유",
         "paragraphs": [
-          "많은 가이드와 영상이 SHEIN이 2024년 8월 29일에 종료한 제휴 프로그램을 아직도 설명합니다. 그 프로그램에서는 제휴 파트너의 코드를 쓰면 할인 쿠폰을 받았습니다. SHEIN은 그 코드를 비활성화했고, 쿠폰도 함께 사라졌습니다.",
+          "많은 가이드와 영상이 이전의 추천 프로그램(예: 2024년 8월에 종료된 기존 방식)을 아직도 설명합니다. 그 프로그램에서는 제휴 파트너의 코드를 쓰면 고정 할인 쿠폰을 받았습니다. SHEIN은 기존 코드를 비활성화했고 해당 쿠폰 혜택도 더 이상 제공되지 않습니다.",
           "현재 프로그램에서는 추천한 사람과 코드를 쓰는 사람 사이의 연결이 없습니다. 코드는 제휴 파트너의 페이지로 이동시킬 뿐이고, 혜택은 그곳에 나오는 캠페인의 혜택입니다."
         ]
       },
@@ -65112,7 +65112,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 추천 코드는 어디에 입력하나요? SHEIN 앱이나 스마트폰 사이트의 검색창에 입력합니다. 쿠폰 칸이 아닙니다.",
           "SHEIN 추천 코드는 어떻게 사용하나요? 검색을 열어 코드를 입력하고 돋보기를 누른 뒤, 열린 페이지에서 장바구니에 담으세요.",
-          "SHEIN 추천 코드는 어떻게 작동하나요? SHEIN에 따르면 코드를 공유한 사람의 페이지가 열립니다. 24시간 안에 구매를 마치면 그 사람이 수수료를 받으며, 회원님에게 추가 비용은 없습니다.",
+          "SHEIN 추천 코드는 어떻게 작동하나요? 코드에 연결된 페이지가 열립니다. 이 경로로 구매하면 코드를 공유한 사람에게 수수료가 지급될 수 있으며, 구매자에게 추가 비용은 없습니다.",
           "SHEIN 추천 코드로 할인을 받나요? 고정 할인은 없습니다. 코드가 여는 페이지에 SHEIN이 보여 주는 혜택을 받을 수 있습니다.",
           "추천 코드는 쿠폰과 같은 건가요? 아니요. SHEIN에 따르면 코드는 쿠폰이 아니라 검색창에 입력합니다.",
           "내 SHEIN 추천 코드는 어떻게 알 수 있나요? 추천 코드는 SHEIN의 제휴 프로그램에서 발급됩니다. 앱에서 제휴 프로그램을 검색해 가입하면 제휴 파트너 홈 페이지에 나타납니다.",
@@ -65228,13 +65228,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "購入がコードを紹介した人の成果になるには、検索またはクリックから24時間以内に注文を完了する必要がある、とSHEINは説明しています。有効なのは最後に使ったコードまたはリンクです。手数料で支払い額が増えることはありません。"
+          "リンクやコードを経由した購入により、コードを紹介した人が手数料を受け取る場合があります。購入者の負担は増えません。"
         ]
       },
       {
         "heading": "旧プログラムのクーポンつきの古いガイドが使えなくなった理由",
         "paragraphs": [
-          "多くのガイドや動画が、SHEINが2024年8月29日に終了したアフィリエイトプログラムをいまも紹介しています。そのプログラムでは、アフィリエイターのコードを使うと割引クーポンがもらえました。SHEINはそれらのコードを無効にし、クーポンもなくなりました。",
+          "多くのガイドや動画が、過去の紹介プログラム（2024年8月に終了した旧制度など）をいまも紹介しています。そのプログラムでは、アフィリエイターのコードを使うと固定の割引クーポンがもらえました。SHEINはそれらの旧コードを無効にし、そのクーポン特典も現在は終了しています。",
           "現在のプログラムでは、紹介した人とコードを使う人のあいだに紐づけはありません。コードはアフィリエイターのページに案内するだけで、特典はそのページに表示されるキャンペーンのものです。"
         ]
       },
@@ -65250,7 +65250,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEINの紹介コードはどこに入力しますか？ SHEINアプリまたはスマートフォンのサイトの検索バーに入力します。クーポン欄ではありません。",
           "SHEINの紹介コードはどう使いますか？ 検索を開いてコードを入力し、虫眼鏡をタップして、開いたページからカートに入れます。",
-          "SHEINの紹介コードはどういう仕組みですか？ SHEINによると、コードを紹介した人のページが開きます。24時間以内に購入を完了すると、その人に手数料が入り、あなたの負担は増えません。",
+          "SHEINの紹介コードはどういう仕組みですか？ コードに紐づくページが開きます。この経路での購入により、コードを紹介した人が手数料を受け取る場合があります。購入者の負担は増えません。",
           "SHEINの紹介コードで割引はありますか？ 固定の割引はありません。コードで開くページにSHEINが表示するオファーを受けられる場合があります。",
           "紹介コードはクーポンと同じですか？ いいえ。SHEINによると、コードはクーポンではなく検索ボックスに入力します。",
           "自分のSHEIN紹介コードはどうやって知りますか？ 紹介コードはSHEINのアフィリエイトプログラムで発行されます。アプリでアフィリエイトプログラムを検索して登録すると、アフィリエイターのホームページに表示されます。",
@@ -65366,13 +65366,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "要讓這筆訂單算作分享推薦碼的人的業績，SHEIN 表示訂單必須在搜尋或點擊後 24 小時內完成，並以最後一次使用的推薦碼或連結為準。傭金不會增加你支付的金額。"
+          "透過連結或推薦碼購物，分享推薦碼的人可能獲得傭金，你無須額外付費。"
         ]
       },
       {
         "heading": "為什麼附有舊計畫優惠券的舊攻略已經不適用",
         "paragraphs": [
-          "很多攻略和影片仍在介紹 SHEIN 於 2024 年 8 月 29 日結束的聯盟計畫。在那個計畫裡，使用聯盟推廣者推薦碼的人可以獲得一張折扣優惠券。SHEIN 停用了這些推薦碼，優惠券也隨之取消。",
+          "很多攻略和影片仍在介紹早期的聯盟計畫（例如 2024 年 8 月結束的舊模式）。在那個計畫裡，使用聯盟推廣者推薦碼的人可以獲得一張固定折扣優惠券。SHEIN 停用了這些舊推薦碼，該優惠券機制也已結束。",
           "在現行計畫中，推薦人與使用推薦碼的人之間不再有綁定關係。推薦碼只會帶你進入聯盟推廣者的頁面，優惠就是那裡顯示的活動優惠。"
         ]
       },
@@ -65388,7 +65388,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 推薦碼填在哪裡？填在 SHEIN App 或手機網站的搜尋欄裡，不要填進優惠券欄。",
           "SHEIN 推薦碼怎麼用？開啟搜尋，輸入推薦碼，點一下放大鏡，然後從開啟的頁面把商品加入購物車。",
-          "SHEIN 推薦碼是怎麼運作的？據 SHEIN 說明，它會開啟分享推薦碼的人的頁面。如果你在 24 小時內完成購買，那個人會獲得傭金，你無須額外付費。",
+          "SHEIN 推薦碼是怎麼運作的？它會開啟與推薦碼連結的頁面。透過這個途徑購物，分享推薦碼的人可能獲得傭金，你無須額外付費。",
           "SHEIN 推薦碼有折扣嗎？沒有固定折扣：你可能獲得 SHEIN 在推薦碼所開啟頁面上顯示的優惠。",
           "推薦碼和優惠券是一回事嗎？不是。據 SHEIN 說明，推薦碼要填在搜尋框裡，而不是當作優惠券使用。",
           "怎麼知道我自己的 SHEIN 推薦碼？推薦碼來自 SHEIN 的聯盟計畫。在 App 中搜尋聯盟計畫完成註冊後，它會顯示在聯盟推廣者的首頁。",
@@ -65504,13 +65504,13 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "要让这笔订单算作分享推荐码的人的业绩，SHEIN 表示订单必须在搜索或点击后 24 小时内完成，并以最后一次使用的推荐码或链接为准。佣金不会增加你支付的金额。"
+          "通过链接或推荐码购物，分享推荐码的人可能获得佣金，你无需额外付费。"
         ]
       },
       {
         "heading": "为什么带有旧计划优惠券的旧攻略已经不适用",
         "paragraphs": [
-          "很多攻略和视频仍在介绍 SHEIN 于 2024 年 8 月 29 日结束的联盟计划。在那个计划里，使用联盟推广者推荐码的人可以获得一张折扣优惠券。SHEIN 停用了这些推荐码，优惠券也随之取消。",
+          "很多攻略和视频仍在介绍早期的联盟计划（例如 2024 年 8 月结束的旧模式）。在那个计划里，使用联盟推广者推荐码的人可以获得一张固定折扣优惠券。SHEIN 停用了这些旧推荐码，该优惠券机制也已结束。",
           "在现行计划中，推荐人与使用推荐码的人之间不再有绑定关系。推荐码只会带你进入联盟推广者的页面，优惠就是那里展示的活动优惠。"
         ]
       },
@@ -65526,7 +65526,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "SHEIN 推荐码填在哪里？填在 SHEIN 应用或手机网站的搜索栏里，不要填进优惠券栏。",
           "SHEIN 推荐码怎么用？打开搜索，输入推荐码，点按放大镜，然后从打开的页面把商品加入购物车。",
-          "SHEIN 推荐码是怎么运作的？据 SHEIN 说明，它会打开分享推荐码的人的页面。如果你在 24 小时内完成购买，那个人会获得佣金，你无需额外付费。",
+          "SHEIN 推荐码是怎么运作的？它会打开与推荐码关联的页面。通过这个途径购物，分享推荐码的人可能获得佣金，你无需额外付费。",
           "SHEIN 推荐码有折扣吗？没有固定折扣：你可能获得 SHEIN 在推荐码所打开页面上展示的优惠。",
           "推荐码和优惠券是一回事吗？不是。据 SHEIN 说明，推荐码要填在搜索框里，而不是当作优惠券使用。",
           "怎么知道我自己的 SHEIN 推荐码？推荐码来自 SHEIN 的联盟计划。在应用中搜索联盟计划完成注册后，它会显示在联盟推广者的首页。",
@@ -134824,7 +134824,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,31 na loja, com 48 comentários."
         ],
         "paragraphs": [
-          "É uma calça jeans pantalona Flexra, de cintura elástica, que a loja descreve como confortável e de perna larga. Serve para quem quer uma calça de perna larga e cintura elástica. É a peça mais cara da seleção, e a página mostrava frete grátis."
+          "Calça jeans pantalona Flexra com cintura elástica e perna larga, descrita pela loja como confortável. É a peça mais cara da seleção."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -135693,7 +135693,7 @@ export const reviewsData: unknown[] = [
           "Rating 4.31 in the store, with 48 reviews."
         ],
         "paragraphs": [
-          "Flexra wide-leg jeans with an elastic waist, which the store describes as comfortable with a wide leg. They suit anyone who wants wide-leg pants with an elastic waist."
+          "Flexra wide-leg jeans with an elastic waist, described by the store as comfortable."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -136557,7 +136557,7 @@ export const reviewsData: unknown[] = [
           "Nota 4,31 en la tienda, con 48 comentarios."
         ],
         "paragraphs": [
-          "Es un vaquero ancho Flexra, de cintura elástica, que la tienda describe como cómodo y de pierna ancha. Sirve para quien quiere un pantalón de pierna ancha y cintura elástica."
+          "Vaqueros Flexra de pierna ancha y cintura elástica, que la tienda describe como cómodos."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -137421,7 +137421,7 @@ export const reviewsData: unknown[] = [
           "Note 4,31 sur la boutique, avec 48 avis."
         ],
         "paragraphs": [
-          "C'est un jean large Flexra, à taille élastique, que la boutique décrit comme confortable et à jambe large. Il convient à qui veut un pantalon à jambe large et taille élastique."
+          "Jean Flexra à jambe large et taille élastique, décrit comme confortable par la boutique."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -137612,7 +137612,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "T-shirt Henley bleu marine effet lin",
               "url": "https://onelink.shein.com/58/66i85v1m2kug?ismg_ol=6oqITg90G4Z_01_KOC-C",
-              "howTo": "Porté sorti, avec un jean ou une bermuda, pour un style décontracté plus soigné.",
+              "howTo": "Porté sorti, avec un jean ou un bermuda, pour un style décontracté plus soigné.",
               "occasion": "Quotidien et week-end.",
               "pairsWith": [
                 {
@@ -137731,7 +137731,7 @@ export const reviewsData: unknown[] = [
             {
               "piece": "Débardeur noir délavé de coupe ample",
               "url": "https://onelink.shein.com/58/66i89j8p5x72?ismg_ol=F9dLFWoHApf_01_KOC-C",
-              "howTo": "Avec une bermuda ou un short en molleton, pour un look de rue.",
+              "howTo": "Avec un bermuda ou un short en molleton, pour un look de rue.",
               "occasion": "Été et rue ; ce n'est pas une pièce d'entraînement.",
               "pairsWith": [
                 {
@@ -138285,7 +138285,7 @@ export const reviewsData: unknown[] = [
           "Valutazione 4,31 su SHEIN, con 48 recensioni."
         ],
         "paragraphs": [
-          "È un jeans palazzo Flexra con vita elastica, che il negozio descrive come comodo e a gamba larga. Va bene per chi vuole un pantalone a gamba larga con vita elastica."
+          "Jeans Flexra a gamba larga con vita elastica, descritti dal negozio come comodi."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -139149,7 +139149,7 @@ export const reviewsData: unknown[] = [
           "Bewertung 4,31 bei SHEIN, mit 48 Rezensionen."
         ],
         "paragraphs": [
-          "Es ist eine weite Jeans von Flexra mit elastischem Bund, die der Shop als bequem und mit weitem Bein beschreibt. Sie passt für alle, die eine Hose mit weitem Bein und elastischem Bund möchten."
+          "Weite Jeans von Flexra mit elastischem Bund, vom Shop als bequem beschrieben."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -139937,7 +139937,7 @@ export const reviewsData: unknown[] = [
           "ショップの評価は4.78、レビューは1,000件以上。"
         ],
         "paragraphs": [
-          "DAZY の長袖でスリムなスポーティーカーディガンで、ショップは薄手の合い間の季節のジャケットと説明しています。エアコンの効いた室内や夕方に羽織る軽い一枚を探している人向けです。"
+          "DAZY の長袖でスリムなスポーティーカーディガンで、ショップは季節の変わり目に着る薄手のジャケットと説明しています。エアコンの効いた室内や夕方に羽織る軽い一枚を探している人向けです。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-10-cardiga-esportivo.webp",
@@ -139953,7 +139953,7 @@ export const reviewsData: unknown[] = [
               "piece": "DAZY スポーティースリムカーディガン",
               "url": "https://onelink.shein.com/58/66i7w7s6sl8m?ismg_ol=7RRIrXmdyG8_01_KOC-C",
               "howTo": "タンクトップやTシャツの上に、薄手の上着として。",
-              "occasion": "合い間の季節、エアコンの効いた室内、夕方。",
+              "occasion": "季節の変わり目、エアコンの効いた室内、夕方。",
               "pairsWith": [
                 {
                   "label": "青ストライプのタンクトップ＆ワイドパンツのセット",
@@ -140013,7 +140013,7 @@ export const reviewsData: unknown[] = [
           "ショップの評価は4.31、レビューは48件。"
         ],
         "paragraphs": [
-          "Flexra のウエストゴムのワイドデニムパンツで、ショップは楽でゆったりしたシルエットと説明しています。ウエストがゴムで脚まわりが広いパンツを探している人向けです。"
+          "Flexra のウエストゴムのワイドデニムパンツで、ショップは楽でゆったりしたシルエットと説明しています。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -140877,7 +140877,7 @@ export const reviewsData: unknown[] = [
           "평점 4.31, 리뷰 48개."
         ],
         "paragraphs": [
-          "Flexra의 허리 밴딩 와이드 데님 팬츠로, 스토어는 편안하고 통이 넓은 핏으로 설명합니다. 허리가 밴딩이고 통이 넓은 바지를 찾는 분께 맞습니다."
+          "Flexra의 허리 밴딩 와이드 데님 팬츠로, 스토어는 편안하고 통이 넓은 핏으로 설명합니다."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -141741,7 +141741,7 @@ export const reviewsData: unknown[] = [
           "商品页评分 4.31，评价 48 条"
         ],
         "paragraphs": [
-          "这是 Flexra 的松紧腰阔腿牛仔裤，店家形容为舒适、裤腿宽松。适合想要一条裤腿宽、腰部有松紧的裤子的人。"
+          "这是 Flexra 的松紧腰阔腿牛仔裤，店家形容为舒适、裤腿宽松。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
@@ -142605,7 +142605,7 @@ export const reviewsData: unknown[] = [
           "商品頁評分 4.31，評價 48 則"
         ],
         "paragraphs": [
-          "這是 Flexra 的鬆緊腰寬褲牛仔褲，店家形容為舒適、褲管寬鬆。適合想要一條褲管寬、腰部有鬆緊的褲子的人。"
+          "這是 Flexra 的鬆緊腰寬褲牛仔褲，店家形容為舒適、褲管寬鬆。"
         ],
         "image": {
           "src": "/images/reviews/shein/shein-1111-12-calca-jeans-pantalona.webp",
