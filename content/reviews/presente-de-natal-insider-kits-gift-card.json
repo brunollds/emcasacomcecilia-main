@@ -40,7 +40,7 @@
       ],
       "bullets": [
         "O cartão só pode ser comprado em pedido individual, sem outros produtos no carrinho.",
-        "Ele vai para o e-mail de quem compra, que encaminha à pessoa presenteada. A página também mostra a opção \"Quero enviar como presente\", com e-mail e data para o presenteado, mas não explica se o cartão chega direto a essa pessoa: confira o fluxo no checkout antes de contar com isso. O envio sai depois da confirmação do pagamento.",
+        "O gift card é enviado para o e-mail cadastrado na compra. O envio sai depois da confirmação do pagamento.",
         "Vale por 12 meses a partir do recebimento por e-mail. Não é reembolsável e não pode ser revendido.",
         "A página limita quantos cartões cada conta pode comprar por dia.",
         "O cartão fica fora da campanha de brindes."
@@ -470,7 +470,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Insider vale presente? Vale: a loja vende gift card virtual de R$ 50 a R$ 1.000, enviado por e-mail a quem comprou, com validade de 12 meses a partir do recebimento.",
+        "Insider vale presente? Vale: a loja vende gift card virtual de R$ 50 a R$ 1.000, enviado para o e-mail cadastrado na compra, com validade de 12 meses a partir do recebimento.",
         "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, mas a troca sai em vale-troca para usar no site. Pela política da loja, cueca, calcinha e sutiã só trocam por defeito.",
         "Cupom vale no gift card? Vale na compra do cartão: no nosso teste, o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
         "Chega a tempo do Natal? Depende da cidade e da data da aprovação do pagamento. A tabela da seção \"Até quando pedir\" traz a data limite de cada capital, e a loja diz que os prazos podem mudar em alta demanda.",

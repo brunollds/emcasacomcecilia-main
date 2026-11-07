@@ -30,31 +30,39 @@ Resolvidos por leitura no navegador, por testes de carrinho autorizados pelo Bru
   - Belive e Dr. Peanut: o mínimo do frete grátis conta o valor antes do cupom;
   - Skelt: frete grátis sem mínimo no Sul, no Sudeste e no Centro-Oeste, e R$ 199 só para o Norte e o Nordeste.
 - **Fichas:**
-  - Bagaggio: a Joá comporta notebook de 16"; a Detroit mede 55 cm com as rodas; a Downtown PP é Travelcross e fica fora da garantia vitalícia;
+  - Bagaggio: a Joá comporta notebook de 16"; a Detroit mede 55 cm com as rodas; a Downtown PP é Travelcross (a garantia vale para ela, por decisão do Bruno; ver abaixo);
   - Dr. Peanut: caixa de 12 alfajores; Chocolate Branco com 0,8 g de açúcares por porção e 5,1 g por 100 g;
   - Belive: o kit de cookies tem 10 pacotes de um só sabor;
   - Nestlé: o Ninho Fases 1+ segue à venda na loja Nutre, e a Zero Lactose sai a R$ 169,43 na assinatura;
   - Let's Eat It: o prazo conta da confirmação do pagamento.
 - **Growth:** preços de tabela de novembro. Com eles, a creatina da Probiótica e a da Max ficam abaixo da Growth. O whey continua com a Growth.
 
-### O que fica com o Bruno
+### Respostas do Bruno em 07/11/2026 (PR `fix/pendencias-respostas`)
+
+- **Aplicado:**
+  - SHEIN: saiu o FAQ "O 4CW5Y funciona fora do Brasil?". Não interessa ao leitor, e só o PT tinha o item.
+  - YesStyle: a entrega ao Brasil está suspensa no site e no app, nas 6 famílias do PT.
+  - Skelt: a live da BF só é citada, sem detalhes.
+  - Cléa: o reembolso de cupom, cashback e frete fica; o frete na devolução parcial cita a regra da loja; o kit de três peças fica limitado aos modelos conferidos.
+  - Bagaggio: a Detroit mede 55 cm com as rodas, e a Joá entra. As 3 horas são a espera pela liberação do pedido. A garantia vitalícia vale para todo o conjunto, inclusive a Downtown PP.
+  - Dr. Peanut: o arredondamento do rótulo do Chocolate Branco fica; o whey com o cupom saiu com frete grátis no teste do Bruno.
+  - Mais Mu: o cupom vale em todas as formas de pagamento, inclusive no Pix.
+  - Let's Eat It: o prazo segue a política padrão, de 5 a 10 dias úteis depois do despacho, nos 4 artigos, com a data-limite da BF refeita.
+  - Toda Up: o cupom vale só no site oficial; as notas do Reclame Aqui seguem datadas.
+  - Insider: o gift card é enviado para o e-mail cadastrado na compra.
+- **Confirmado, sem mudança no texto:** a cobrança mensal da Hostinger no dia do vencimento, o frete da Belive antes do cupom, o Cliente Ouro da Magalu e "colchão e box só em loja física" da IWS.
+- **Probes:** os cinco foram aceitos.
+
+### O que ainda fica com o Bruno
 
 1. **Perguntar à parceria:**
-   - Hostinger: o dia da cobrança mensal; os 180 dias do VPS; os termos do link (12 meses e cliente novo); o crédito do Google Ads; o reembolso do plano gerenciado; os links KVM por mercado.
+   - Hostinger: os 180 dias do VPS; os termos do link (12 meses e cliente novo); o crédito do Google Ads; o reembolso do plano gerenciado; os links KVM por mercado.
    - YesStyle: o CECILIA010 no Guest Checkout.
    - SHEIN: as 24 horas e o último código do 4CW5Y.
-   - Skelt: a live da BF; o modo de uso do removedor.
-   - Cléa: o reembolso de cupom, cashback e frete; o frete na devolução parcial.
-   - Bagaggio: o produto personalizado; as 3 horas da retirada.
+   - Skelt: o modo de uso do removedor.
+   - Bagaggio: o produto personalizado.
    - Let's Eat It: o frete grátis acima de R$ 1.000 (a página traz "acima de R$ 300" num dado oculto).
-   - IWS: "colchão e box só em loja física".
-   - Toda Up: os canais de venda.
-2. **No app ou logado:**
-   - YesStyle: a entrega no Brasil.
-   - Hostinger: os rótulos do hPanel em cada idioma.
-   - SHEIN: o 4CW5Y em outras regiões.
-   - Insider: o envio do gift card.
-   - Mais Mu: o cupom somado ao Pix, que só aparece no checkout.
+2. **No app ou logado:** os rótulos do hPanel em cada idioma.
 3. **Decidir:**
    - O critério da Growth: preço de tabela ou Pix. Hoje o Pix dela está bem abaixo da tabela.
    - O Starter do Reach. As páginas da Hostinger se contradizem, e o navegador tinha um código de indicação aplicado.
