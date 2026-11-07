@@ -125,7 +125,7 @@
         ]
       },
       "postParagraphs": [
-        "La tabla no incluye Japón, México, Chile, Perú, Argentina ni Colombia."
+        "La tabla no incluye Japón, México, Chile, Perú, Argentina ni Colombia. Para Singapur y Malasia, las tablas de la tienda no coinciden: una indica US$ 50 y otra US$ 70, y la fila de arriba usa US$ 70. Confirma el valor en el checkout."
       ]
     },
     {
@@ -229,5 +229,5 @@
       "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
     }
   ],
-  "updatedAt": "2026-10-21"
+  "updatedAt": "2026-11-07"
 }

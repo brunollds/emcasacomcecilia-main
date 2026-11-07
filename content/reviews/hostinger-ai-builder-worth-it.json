@@ -89,7 +89,7 @@
           [
             "Small store with a few products",
             "AI Builder (Unlimited plan) or WordPress with WooCommerce",
-            "The AI Builder has a built-in online store; WooCommerce gives more control over shipping and payment, but needs setup."
+            "The AI Builder offers an online store as a paid add-on; WooCommerce gives more control over shipping and payment, but needs setup."
           ],
           [
             "Blog that depends on plugins (SEO, forms, members area)",
@@ -158,7 +158,7 @@
           ],
           [
             "Online store",
-            "Built in on the Unlimited and Cloud Startup plans",
+            "Paid add-on, available on the Unlimited and Cloud Startup plans",
             "WooCommerce, free, with paid extensions"
           ],
           [
@@ -186,7 +186,7 @@
         "**The credits.** AI mode uses credits on every request, and the plan's balance doesn't renew every month. Even swapping a text or an image with Select & edit uses a few; only the no-AI mode edits for free.",
         "**What happens if you don't renew.** The page warns: a plan that expires without renewal takes the project offline and deletes the data. Export the code before letting it expire.",
         "**30-day refund**, as long as you have used fewer than 30 AI credits.",
-        "**The online store** is a feature of the Unlimited and Cloud Startup plans; on Unlimited, the page says it is free for 3 months. Check at checkout what it costs afterwards.",
+        "**The online store** is a paid add-on, available on the Unlimited and Cloud Startup plans and billed separately from the plan. Check its price at checkout.",
         "**There is no native app.** What the AI Builder makes is a responsive web app, which opens in the phone's browser. For the App Store and Google Play, it's a different path."
       ],
       "postParagraphs": [
@@ -215,7 +215,7 @@
         "Does Hostinger's AI Builder build the site on its own? It builds the first version from your description, according to the page. The content, the photos and the business decisions are still yours, and every request in AI mode uses credits.",
         "Do you need to know how to code to use the AI Builder? No. The page says it requires no technical knowledge in either mode. For people who do code, AI mode has a code editor.",
         "Can you migrate from the AI Builder to another host? The page says the source code can be exported and hosted elsewhere. The built-in back end, with database and login, stays at Hostinger, so an app needs reconfiguring outside it.",
-        "Is the AI Builder good for an online store? For a small store, yes: the online store is a feature of the Unlimited and Cloud Startup plans. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
+        "Is the AI Builder good for an online store? For a small store, yes: the online store is available on the Unlimited and Cloud Startup plans as a paid add-on. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
         "Is there a coupon for Hostinger's AI Builder? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]

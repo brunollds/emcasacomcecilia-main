@@ -46306,7 +46306,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada linha, com o cupom CECIEMCASA aplicado",
         "paragraphs": [
-          "Os valores abaixo são preços de referência do site oficial da I Wanna Sleep; o preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. A coluna final mostra o valor aproximado com os 10% do cupom CECIEMCASA descontados por cima do preço já promocional; vale confirmar no carrinho se o cupom acumula com a promoção ativa daquele momento."
+          "Os valores abaixo são preços de referência do site oficial da I Wanna Sleep; o preço do dia e o estoque de cada tamanho mudam, então confira no carrinho. O valor com o cupom, na coluna final, é cálculo nosso, não simulação da loja: os 10% do CECIEMCASA por cima do preço já promocional. Confirme no carrinho se o cupom acumula com a promoção ativa daquele momento."
         ],
         "bullets": [],
         "comparisonTable": {
@@ -72045,7 +72045,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A tabela não lista o Brasil, o Japão, o México, o Chile, o Peru, a Argentina nem a Colômbia. Para o Brasil, o aviso do topo do site diz que o visitante vê os itens que podem ser enviados ao país, sem frete nem prazo publicados."
+          "A tabela não lista o Brasil, o Japão, o México, o Chile, o Peru, a Argentina nem a Colômbia. Para o Brasil, o aviso do topo do site diz que o visitante vê os itens que podem ser enviados ao país, sem frete nem prazo publicados. Para Singapura e Malásia, as tabelas da loja divergem: uma traz US$ 50 e outra US$ 70, e a linha acima usa US$ 70. Confira o valor no checkout."
         ]
       },
       {
@@ -72165,7 +72165,7 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-cecilia010-yesstyle-como-usar"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 406,
@@ -72294,7 +72294,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "The table does not list Japan, Mexico, Chile, Peru, Argentina or Colombia."
+          "The table does not list Japan, Mexico, Chile, Peru, Argentina or Colombia. For Singapore and Malaysia, the store's tables disagree: one says US$ 50 and the other US$ 70, and the row above uses US$ 70. Check the value at checkout."
         ]
       },
       {
@@ -72398,7 +72398,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-coupon-cecilia010"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 407,
@@ -72527,7 +72527,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "La tabla no incluye Japón, México, Chile, Perú, Argentina ni Colombia."
+          "La tabla no incluye Japón, México, Chile, Perú, Argentina ni Colombia. Para Singapur y Malasia, las tablas de la tienda no coinciden: una indica US$ 50 y otra US$ 70, y la fila de arriba usa US$ 70. Confirma el valor en el checkout."
         ]
       },
       {
@@ -72631,7 +72631,7 @@ export const reviewsData: unknown[] = [
         "slug": "codigo-de-recompensa-yesstyle-cupon-cecilia010"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 408,
@@ -72760,7 +72760,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Le tableau ne liste ni le Japon, ni le Mexique, ni le Chili, ni le Pérou, ni l'Argentine, ni la Colombie."
+          "Le tableau ne liste ni le Japon, ni le Mexique, ni le Chili, ni le Pérou, ni l'Argentine, ni la Colombie. Pour Singapour et la Malaisie, les tableaux de la boutique divergent : l'un indique US$ 50 et l'autre US$ 70, et la ligne ci-dessus retient US$ 70. Vérifiez la valeur au paiement."
         ]
       },
       {
@@ -72864,7 +72864,7 @@ export const reviewsData: unknown[] = [
         "slug": "code-recompense-yesstyle-cecilia010"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 409,
@@ -72993,7 +72993,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Die Tabelle nennt weder Japan noch Mexiko, Chile, Peru, Argentinien oder Kolumbien."
+          "Die Tabelle nennt weder Japan noch Mexiko, Chile, Peru, Argentinien oder Kolumbien. Für Singapur und Malaysia widersprechen sich die Tabellen des Shops: Die eine nennt US$ 50, die andere US$ 70, und die Zeile oben nutzt US$ 70. Prüfen Sie den Wert an der Kasse."
         ]
       },
       {
@@ -73097,7 +73097,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-rabatt-cecilia010"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 410,
@@ -73226,7 +73226,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "La tabella non elenca il Giappone, il Messico, il Cile, il Perù, l'Argentina né la Colombia."
+          "La tabella non elenca il Giappone, il Messico, il Cile, il Perù, l'Argentina né la Colombia. Per Singapore e Malesia, le tabelle del negozio non coincidono: una indica US$ 50 e l'altra US$ 70, e la riga sopra usa US$ 70. Controlla il valore al checkout."
         ]
       },
       {
@@ -73330,7 +73330,7 @@ export const reviewsData: unknown[] = [
         "slug": "codice-ricompensa-yesstyle-cecilia010"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 411,
@@ -73459,7 +73459,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "이 표에는 일본, 멕시코, 칠레, 페루, 아르헨티나, 콜롬비아가 없습니다."
+          "이 표에는 일본, 멕시코, 칠레, 페루, 아르헨티나, 콜롬비아가 없습니다. 싱가포르와 말레이시아는 상점의 두 표가 서로 다릅니다. 한쪽은 US$ 50, 다른 쪽은 US$ 70이며, 위 행은 US$ 70을 따랐습니다. 결제 단계에서 확인하세요."
         ]
       },
       {
@@ -73563,7 +73563,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ko"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 412,
@@ -73692,7 +73692,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "この表には、日本、メキシコ、チリ、ペルー、アルゼンチン、コロンビアは載っていません。"
+          "この表には、日本、メキシコ、チリ、ペルー、アルゼンチン、コロンビアは載っていません。シンガポールとマレーシアについては、店の2つの表で金額が食い違っています。一方はUS$50、もう一方はUS$70で、上の行はUS$70を使っています。チェックアウトで確認してください。"
         ]
       },
       {
@@ -73796,7 +73796,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-ja"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 413,
@@ -73925,7 +73925,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "這張表沒有列出日本、墨西哥、智利、秘魯、阿根廷和哥倫比亞。"
+          "這張表沒有列出日本、墨西哥、智利、秘魯、阿根廷和哥倫比亞。新加坡和馬來西亞這兩處，商店的兩張表不一致：一張寫 US$50，另一張寫 US$70，上面這一行採用 US$70。請在結帳時確認。"
         ]
       },
       {
@@ -74029,7 +74029,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-zh-hant"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 414,
@@ -74158,7 +74158,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "这张表没有列出日本、墨西哥、智利、秘鲁、阿根廷和哥伦比亚。"
+          "这张表没有列出日本、墨西哥、智利、秘鲁、阿根廷和哥伦比亚。新加坡和马来西亚这两处，商店的两张表不一致：一张写 US$50，另一张写 US$70，上面这一行采用 US$70。请在结账时确认。"
         ]
       },
       {
@@ -74262,7 +74262,7 @@ export const reviewsData: unknown[] = [
         "slug": "yesstyle-reward-code-cecilia010-zh-hans"
       }
     ],
-    "updatedAt": "2026-10-21"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 415,
@@ -74988,6 +74988,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. A marca é confiável? Veja o CNPJ, de quem ela é, as regras de troca, o frete e o Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/dr-peanut-confiavel-capa-discover.webp",
@@ -75003,7 +75004,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "Na troca por outro produto, o frete de ida e o de volta são seus",
-      "O frete grátis depende do mínimo da região e é conferido depois do cupom",
+      "O frete grátis depende do mínimo da região e é conferido antes do cupom",
       "Reputação Boa (nota 7,4) nos últimos 6 meses, abaixo da de 12 meses",
       "A política de trocas não informa prazo para a troca por outro produto"
     ],
@@ -75139,7 +75140,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O frete grátis vale na opção de entrega mais barata. Para quem usa cupom, o detalhe que conta é este: o mínimo é conferido sobre o total já com o desconto. Se o seu carrinho tem R$ 155 e o cupom tira 10%, o total cai para R$ 139,50 e o frete deixa de ser grátis no Sudeste. O aviso do carrinho mostra se você chegou lá, então olhe essa linha depois de aplicar o cupom.",
+          "O frete grátis vale na opção de entrega mais barata. Para quem usa cupom, o detalhe que conta é este: o mínimo é conferido sobre o valor do carrinho antes do desconto, como testamos em novembro. Se o seu carrinho tem R$ 155 e o cupom tira 10%, o total cai para R$ 139,50 e o frete segue grátis no Sudeste. O aviso do carrinho mostra se você chegou lá.",
           "Para pagar, o rodapé do site lista cartões (Visa, Mastercard, Diners, American Express, Elo e Hipercard), boleto, débito online pelos bancos (Itaú, Bradesco e Banco do Brasil) e Pix."
         ]
       },
@@ -75172,7 +75173,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale a pena comprar no site da Dr. Peanut?",
         "paragraphs": [
           "Do ponto de vista da confiança, sim. O CNPJ está ativo desde 2017, a empresa é uma fábrica brasileira, está ligada à Supley e mostra no rodapé o CNPJ e o endereço. As regras de troca e de frete estão escritas com número e prazo, e o arrependimento sai sem custo para você.",
-          "Os cuidados são pontuais. A troca por outro produto tem o frete por sua conta, então vale conferir o sabor ou o item antes de fechar o carrinho. O frete grátis depende do mínimo da sua região, contado depois do cupom. E, no Reclame Aqui, a reputação dos últimos 6 meses (Boa, 7,4) ficou abaixo da de 12 meses (Ótima, 8,1). Se você já pretendia comprar, vale usar o cupom e conferir o carrinho antes de pagar."
+          "Os cuidados são pontuais. A troca por outro produto tem o frete por sua conta, então vale conferir o sabor ou o item antes de fechar o carrinho. O frete grátis depende do mínimo da sua região, contado antes do cupom. E, no Reclame Aqui, a reputação dos últimos 6 meses (Boa, 7,4) ficou abaixo da de 12 meses (Ótima, 8,1). Se você já pretendia comprar, vale usar o cupom e conferir o carrinho antes de pagar."
         ]
       },
       {
@@ -75185,7 +75186,7 @@ export const reviewsData: unknown[] = [
           "O site da Dr. Peanut é seguro? O site oficial, drpeanut.com.br, mostra o selo \"Site Seguro SSL\", roda na plataforma VTEX e traz CNPJ e endereço no rodapé. Confira sempre o endereço antes de pagar.",
           "Qual é o CNPJ da Dr. Peanut? É 28.324.667/0001-69, da Body Food Fabricantes de Alimentos Saudáveis Ltda., com sede na Rua Martha Gembaroski Tuleski, 320, no bairro CIC, em Curitiba (PR).",
           "Posso trocar um produto da Dr. Peanut? Pode. Por arrependimento, são 7 dias corridos do recebimento, com a embalagem original e o lacre intactos, e a loja paga a devolução. Por defeito, são 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras. Na troca por outro produto, o frete de ida e de volta é seu.",
-          "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom.",
+          "A Dr. Peanut tem frete grátis? Tem. O mínimo é R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor antes do cupom.",
           "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA dá 10% OFF em todo o site e vale na primeira compra e nas seguintes, em todas as formas de pagamento e somando com as promoções. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições atuais."
         ]
       }
@@ -75519,7 +75520,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "O cupom não dá frete grátis: o frete tem regra e mínimo à parte",
-      "O mínimo do frete grátis é conferido sobre o total já com o cupom",
+      "O frete grátis vale só na opção de entrega mais barata",
       "Na troca por outro produto, o frete de ida e de volta é seu",
       "A regra de arrependimento descrita aqui é a do site oficial da Dr. Peanut"
     ],
@@ -75554,7 +75555,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Escolha os produtos normalmente e vá para o carrinho. Nele aparecem a lista de itens, com quantidade e preço, e, à direita, o resumo com o **Subtotal**, o **Total** e o campo **\"Código\"**, sob o texto \"Insira o seu cupom abaixo\", com o botão **\"Adicionar\"**.",
           "No nosso teste de 13/10/2026, o carrinho tinha três itens, entre eles uma pasta de amendoim em promoção (de R$ 64,90 por R$ 59,89). O subtotal, antes do cupom, era de R$ 440,16.",
-          "No topo do carrinho há uma faixa laranja sobre o frete grátis: o valor total da compra, já com o cupom aplicado, precisa ser igual ou superior a R$ 149,90 (valor que o carrinho mostrava no teste). O mínimo de cada região está na seção de frete, mais abaixo."
+          "No topo do carrinho há uma faixa laranja sobre o frete grátis, com o mínimo de R$ 149,90 (valor que o carrinho mostrava no teste). O mínimo de cada região está na seção de frete, mais abaixo."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com três itens, Subtotal e Total de R$ 440,16, o campo do cupom e a faixa do frete grátis no topo",
@@ -75584,7 +75585,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**O código ao lado de \"Cupom de desconto\":** deve estar escrito DREMCASACOMCECILIA, sem letra faltando.",
           "**A linha \"Descontos\":** é ela que mostra o valor abatido. Se não aparecer, o desconto não foi aplicado.",
-          "**O Total:** é ele que vale para a faixa do frete grátis, porque a loja confere o mínimo depois do desconto."
+          "**O Total:** é o valor que você paga. O frete grátis não depende dele, porque a loja confere o mínimo antes do desconto."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-03-desconto-aplicado.webp",
         "imageAlt": "Resumo do carrinho da Dr. Peanut depois do cupom: código DREMCASACOMCECILIA aceito, Subtotal de R$ 440,16, Descontos de R$ 44,02 e Total de R$ 396,14",
@@ -75621,8 +75622,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O frete grátis vale na opção de entrega mais barata. O mínimo é conferido sobre o valor total da compra **já com o cupom aplicado**. Um carrinho que passa do mínimo antes do desconto pode ficar abaixo dele depois dos 10%, e aí o frete volta a ser cobrado.",
-          "Exemplo (conta ilustrativa, não é do nosso teste): um carrinho de R$ 155,00 passa de R$ 149,90, mas com os 10% do cupom fica em R$ 139,50, abaixo do mínimo de quem mora em São Paulo capital, no Sudeste ou no Sul.",
+          "O frete grátis vale na opção de entrega mais barata. O mínimo é conferido sobre o valor da compra **antes do cupom**. Testamos em novembro: um carrinho de R$ 163,45 liberou o frete grátis, e ele seguiu grátis com o total em R$ 147,10 depois dos 10%.",
+          "Exemplo (conta ilustrativa, não é do nosso teste): um carrinho de R$ 155,00 passa de R$ 149,90 e segue com frete grátis em São Paulo capital, no Sudeste e no Sul, mesmo com os 10% do cupom levando o total a R$ 139,50.",
           "Depois de aplicar o cupom, confira o Total antes de pagar."
         ]
       },
@@ -75659,7 +75660,7 @@ export const reviewsData: unknown[] = [
           "Tem cupom de primeira compra na Dr. Peanut? Sim: o DREMCASACOMCECILIA vale na primeira compra e nas seguintes, tanto para quem cria a conta agora quanto para quem já comprou.",
           "O cupom da Dr. Peanut vale em produto em promoção? Sim. No nosso teste, o cupom tirou 10% do subtotal, que já incluía uma pasta de amendoim em promoção.",
           "O cupom vale em todas as formas de pagamento? Sim. O DREMCASACOMCECILIA vale em todas as formas de pagamento da loja e soma com as promoções do site.",
-          "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o total já com o cupom.",
+          "O cupom da Dr. Peanut dá frete grátis? Não por si só: o cupom dá 10% de desconto, e o frete grátis é uma regra à parte da loja. Começa em R$ 149,90 em São Paulo capital, Sudeste e Sul e em R$ 199,90 no Centro-Oeste, Nordeste e Norte, contado sobre o valor antes do cupom.",
           "Tem cupom para pasta de amendoim Dr. Peanut? Sim. O DREMCASACOMCECILIA vale em todo o site, então vale nas pastas de amendoim, inclusive nas que estão em promoção. As condições atuais ficam na [página do cupom da Dr. Peanut](/cupons/dr-peanut).",
           "Onde o cupom vale? No site oficial da Dr. Peanut, o drpeanut.com.br, onde o código é digitado no carrinho."
         ]
@@ -75718,7 +75719,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "A troca comum tem a postagem e o reenvio por conta do cliente",
-      "Reputação Regular no Reclame Aqui de abril a setembro, com índice de solução de 61,5%",
+      "Reputação Ruim no Reclame Aqui de maio a outubro, com índice de solução de 52,6%",
       "O mínimo do frete grátis muda conforme a região e conta o valor já com desconto",
       "Alguns links do rodapé não abriam a página certa em 14/10/2026",
       "O WhatsApp da página de contato é de revenda, não de atendimento ao cliente"
@@ -75879,7 +75880,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Em 14/10/2026, a Black Skull aparecia no Reclame Aqui com reputação Regular no recorte de abril a setembro, nota 6,8, e Boa nos 12 meses até setembro, nota 7,1. O artigo de reputação explica o que está por trás de cada selo, a taxa de solução e o que fazer se o pedido der problema."
+          "Em novembro, a Black Skull aparecia no Reclame Aqui com reputação Ruim no recorte de maio a outubro, nota 5,9, e Regular nos 12 meses até outubro, nota 6,8. O artigo de reputação explica o que está por trás de cada selo, a taxa de solução e o que fazer se o pedido der problema."
         ],
         "links": [
           {
@@ -75922,7 +75923,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Veja as faixas de frete grátis da sua região e confira o carrinho depois de aplicar o cupom, porque o mínimo conta o valor já com desconto.",
           "Lembre que a troca comum (por gosto ou por escolher o item errado) tem a postagem e o reenvio por sua conta. Só arrependimento e defeito saem sem custo de postagem para você.",
-          "Reputação no Reclame Aqui: no recorte de abril a setembro, a loja respondeu a 100% das reclamações, e o índice de solução ficou em 61,5%, o que deixa o selo em Regular. Guarde número do pedido, e-mails e protocolos do SAC."
+          "Reputação no Reclame Aqui: no recorte de maio a outubro, a loja respondeu a 95,5% das reclamações, e o índice de solução ficou em 52,6%, o que deixa o selo em Ruim. Guarde número do pedido, e-mails e protocolos do SAC."
         ],
         "postParagraphs": [
           "Se você já decidiu comprar, use o código CECILIA10 no carrinho e confira o desconto item por item antes de pagar."
@@ -75931,7 +75932,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Skull é confiável? Sim, do ponto de vista da empresa e das regras de compra. A GDS, dona da loja, tem CNPJ ativo desde 2014, e o site publica as políticas de entrega, pagamento, trocas e atendimento. No Reclame Aqui, o recorte de abril a setembro mostrava reputação Regular (nota 6,8), e os 12 meses até setembro, Boa (nota 7,1).",
+          "A Black Skull é confiável? Sim, do ponto de vista da empresa e das regras de compra. A GDS, dona da loja, tem CNPJ ativo desde 2014, e o site publica as políticas de entrega, pagamento, trocas e atendimento. No Reclame Aqui, o recorte de maio a outubro mostrava reputação Ruim (nota 5,9), e os 12 meses até outubro, Regular (nota 6,8).",
           "A Black Skull é brasileira? Segundo a própria marca, sim: ela se descreve como uma marca brasileira, inaugurada no Brasil em 2015, com sede em Embu das Artes (SP). O \"Sobre nós\" cita a Grow Dietary Supplements Labs USA (GDS), mas não explica a sigla do nome.",
           "A Black Skull é da Integralmédica? O CNPJ e o site apontam a GDS, e nenhuma fonte oficial liga a marca à Integralmédica.",
           "O site da Black Skull é seguro? O endereço oficial é blackskullusa.com.br, e o antigo blackskull.com.br redireciona para ele. Confira o domínio na barra do navegador e o CNPJ no rodapé antes de pagar, e lembre que a loja não cobra nenhuma taxa depois que o pedido é feito.",
@@ -75976,8 +75977,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Na consulta de outubro, a Black Skull tinha reputação Regular (6,8) de abril a setembro e Boa (7,1) em 12 meses no Reclame Aqui, com índice de solução de 61,5%.",
-    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. No Reclame Aqui, a reputação era Regular de abril a setembro (nota 6,8), com solução de 61,5%.",
+    "description": "Na consulta de novembro, a Black Skull tinha reputação Ruim (5,9) de maio a outubro e Regular (6,8) em 12 meses no Reclame Aqui, com índice de solução de 52,6%.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. No Reclame Aqui, a reputação era Ruim de maio a outubro (nota 5,9), com solução de 52,6%.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "updatedAt": "2026-11-07",
@@ -75988,24 +75989,24 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "100% das reclamações respondidas de abril a setembro, sem nenhuma aguardando resposta",
-      "Reputação Boa, nota 7,1, na aba de 12 meses",
-      "Índice de solução de 74,3% na aba de 12 meses",
+      "95,5% das reclamações respondidas de maio a outubro, com só 4 aguardando resposta",
+      "97,8% das reclamações respondidas na aba de 12 meses",
+      "Índice de solução de 70,8% na aba de 12 meses",
       "Perfil de empresa verificada no Reclame Aqui",
       "Em caso de extravio, a loja reenvia o pedido sem custo"
     ],
     "cons": [
-      "Reputação Regular, nota 6,8, de abril a setembro",
-      "Índice de solução de só 61,5% de abril a setembro",
-      "Tempo médio de resposta de 6 dias e 11 horas de abril a setembro",
+      "Reputação Ruim, nota 5,9, de maio a outubro",
+      "Índice de solução de só 52,6% de maio a outubro",
+      "Tempo médio de resposta de 5 dias e 12 horas de maio a outubro",
       "Produto não recebido é o problema mais citado, com 19,39%",
-      "Só 56,4% dos que avaliaram voltariam a fazer negócio de abril a setembro"
+      "Só 44,7% dos que avaliaram voltariam a fazer negócio de maio a outubro"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta de outubro, a Black Skull tinha reputação Regular no Reclame Aqui de abril a setembro (nota 6,8) e Boa em 12 meses (nota 7,1). Respondeu a todas as reclamações, mas o índice de solução foi de 61,5%, calculado sobre as reclamações finalizadas e avaliadas, não sobre as 98 recebidas. Para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
+          "Na consulta de novembro, a Black Skull tinha reputação Ruim no Reclame Aqui de maio a outubro (nota 5,9) e Regular em 12 meses (nota 6,8). Respondeu a 95,5% das reclamações, mas o índice de solução foi de 52,6%, calculado sobre as reclamações finalizadas e avaliadas, não sobre as 88 recebidas. Para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
         ]
       },
       {
@@ -76019,7 +76020,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Black Skull no Reclame Aqui",
         "paragraphs": [
-          "Leia os três quadros juntos: a tabela reúne as abas lidas em 14/10/2026. Cada uma cobre só o próprio período, informado embaixo do quadro. A aba de 6 meses vai de abril a setembro; a de 12 meses, de outubro do ano anterior a setembro; a de 2025 cobre o ano inteiro."
+          "Leia os três quadros juntos: a tabela reúne as abas de 6 e 12 meses lidas em 07/11/2026 e a de 2025, da leitura de outubro. Cada uma cobre só o próprio período, informado embaixo do quadro. A aba de 6 meses vai de maio a outubro; a de 12 meses, de novembro do ano anterior a outubro; a de 2025 cobre o ano inteiro."
         ],
         "comparisonTable": {
           "caption": "Perfil da Black Skull no Reclame Aqui, abas de 6 meses, 12 meses e 2025",
@@ -76032,56 +76033,56 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Reputação",
+              "Ruim, nota 5,9",
               "Regular, nota 6,8",
-              "Boa, nota 7,1",
               "Regular, nota 6,6"
             ],
             [
               "Reclamações recebidas",
-              "98",
-              "238",
+              "88",
+              "226",
               "293"
             ],
             [
               "Reclamações respondidas",
-              "100%",
-              "99,6%",
+              "95,5%",
+              "97,8%",
               "100%"
             ],
             [
               "Aguardando resposta",
-              "0",
-              "0",
+              "4",
+              "4",
               "0"
             ],
             [
               "Reclamações resolvidas",
-              "61,5%",
-              "74,3%",
+              "52,6%",
+              "70,8%",
               "64,4%"
             ],
             [
               "Voltariam a fazer negócio",
-              "56,4%",
-              "57,4%",
+              "44,7%",
+              "53,1%",
               "55,7%"
             ],
             [
               "Reclamações avaliadas",
-              "42",
-              "119",
+              "40",
+              "113",
               "155"
             ],
             [
               "Nota média do consumidor",
-              "6,08",
-              "5,79",
+              "5,05",
+              "5,64",
               "5,1"
             ],
             [
               "Tempo médio de resposta",
-              "6 dias e 11 horas",
-              "6 dias e 19 horas",
+              "5 dias e 12 horas",
+              "7 dias e 5 horas",
               "4 dias e 10 horas"
             ]
           ]
@@ -76110,18 +76111,18 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Três leituras saem da tabela. A primeira é a resposta: nas três abas a loja responde a praticamente todas as reclamações e não deixa nenhuma aguardando.",
-          "A segunda é a solução, que varia mais entre as abas. Nas abas de 6 meses e de 2025, o índice de solução fica abaixo de dois terços, e ele é calculado sobre as reclamações finalizadas e avaliadas, não sobre as recebidas. Já a vontade de voltar a comprar é parecida nos três períodos.",
-          "A terceira é o tamanho da amostra: 98 reclamações em 6 meses, 42 avaliadas. Com tão poucos casos, os índices mexem com pouco. Por isso vale olhar as três abas juntas, e não só o selo do topo."
+          "Três leituras saem da tabela. A primeira é a resposta: nas três abas a loja responde a quase todas as reclamações, com poucas aguardando resposta (4 nas abas de 6 e de 12 meses).",
+          "A segunda é a solução, que varia mais entre as abas. Nas abas de 6 meses e de 2025, o índice de solução fica abaixo de dois terços, e ele é calculado sobre as reclamações finalizadas e avaliadas, não sobre as recebidas. Já a vontade de voltar a comprar caiu na aba de 6 meses: 44,7%, contra 53,1% em 12 meses e 55,7% em 2025.",
+          "A terceira é o tamanho da amostra: 88 reclamações em 6 meses, 40 avaliadas. Com tão poucos casos, os índices mexem com pouco. Por isso vale olhar as três abas juntas, e não só o selo do topo."
         ]
       },
       {
-        "heading": "O que separa o Regular do Boa: a solução, não a resposta",
+        "heading": "O que pesa no selo: a solução, não a resposta",
         "paragraphs": [
-          "No quadro de 6 meses, a Black Skull respondeu a tudo, mas o índice de solução ficou em 61,5%, calculado pelo Reclame Aqui sobre as reclamações finalizadas e avaliadas, e não sobre as 98 recebidas. Além disso, 56,4% voltariam a fazer negócio e a nota média do consumidor é 6,08.",
-          "A diferença mais clara entre as abas é o índice de solução: 61,5% nos 6 meses e 64,4% em 2025, ambas Regular, contra 74,3% na aba de 12 meses, que é Boa.",
-          "Responder rápido é outra coisa. O tempo médio de resposta passou de 4 dias e 10 horas em 2025 para 6 dias e 11 horas no recorte de abril a setembro. Responder a todas não significa resolver todas.",
-          "O que isso quer dizer para você: Regular, sozinho, não diz que a loja deixa de entregar. Mostra que uma parte das reclamações registradas não aparece como resolvida. A taxa de solução baixa é um motivo para guardar o número do pedido, os e-mails e os protocolos do atendimento desde a compra."
+          "No quadro de 6 meses, a Black Skull respondeu a 95,5%, mas o índice de solução ficou em 52,6%, calculado pelo Reclame Aqui sobre as reclamações finalizadas e avaliadas, e não sobre as 88 recebidas. Além disso, 44,7% voltariam a fazer negócio e a nota média do consumidor é 5,05.",
+          "A diferença mais clara entre as abas é o índice de solução: 52,6% nos 6 meses, que é Ruim, e 64,4% em 2025, que é Regular, contra 70,8% na aba de 12 meses, também Regular.",
+          "Responder rápido é outra coisa. O tempo médio de resposta passou de 4 dias e 10 horas em 2025 para 5 dias e 12 horas no recorte de maio a outubro. Responder à maioria não significa resolver todas.",
+          "O que isso quer dizer para você: Ruim, sozinho, não diz que a loja deixa de entregar. Mostra que uma parte das reclamações registradas não aparece como resolvida. A taxa de solução baixa é um motivo para guardar o número do pedido, os e-mails e os protocolos do atendimento desde a compra."
         ],
         "image": {
           "src": "/images/reviews/black-skull/black-skull-reclame-aqui-capa.webp",
@@ -76167,7 +76168,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 1.2261,
         "postParagraphs": [
-          "O problema mais citado é produto não recebido. É um tipo de reclamação sobre entrega, não sobre o produto. Como o quadro cobre até 3 anos, ele não diz quanto disso aconteceu no recorte de abril a setembro, e a participação do problema mais citado não é a da maioria das reclamações.",
+          "O problema mais citado é produto não recebido. É um tipo de reclamação sobre entrega, não sobre o produto. Como o quadro cobre até 3 anos, ele não diz quanto disso aconteceu no recorte de maio a outubro, e a participação do problema mais citado não é a da maioria das reclamações.",
           "O Whey Protein é o produto mais citado, o que não diz que ele seja pior do que os outros itens. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
           "Nenhum desses números vira prova de golpe nem de que está tudo certo. O que o quadro ajuda a fazer é saber onde prestar atenção no seu pedido: o prazo de entrega e o rastreio."
         ]
@@ -76220,13 +76221,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Black Skull?",
         "paragraphs": [
-          "Dá, com cuidado. Na consulta de outubro, a reputação era Regular de abril a setembro e Boa nos 12 meses. A loja respondeu a tudo, mas uma parte das reclamações não aparece como resolvida."
+          "Dá, com cuidado redobrado. Na consulta de novembro, a reputação era Ruim de maio a outubro e Regular nos 12 meses. A loja respondeu à maioria, mas quase metade das reclamações não aparece como resolvida."
         ],
         "bullets": [
-          "Nota: 6,8 no recorte de abril a setembro (Regular) e 7,1 nos 12 meses (Boa).",
-          "Respondidas: 100% de abril a setembro. Índice de solução, sobre as reclamações finalizadas e avaliadas: 61,5% de abril a setembro e 74,3% nos 12 meses.",
-          "Voltariam a fazer negócio: 56,4% de abril a setembro.",
-          "Tempo médio de resposta: 6 dias e 11 horas nos 6 meses.",
+          "Nota: 5,9 no recorte de maio a outubro (Ruim) e 6,8 nos 12 meses (Regular).",
+          "Respondidas: 95,5% de maio a outubro. Índice de solução, sobre as reclamações finalizadas e avaliadas: 52,6% de maio a outubro e 70,8% nos 12 meses.",
+          "Voltariam a fazer negócio: 44,7% de maio a outubro.",
+          "Tempo médio de resposta: 5 dias e 12 horas nos 6 meses.",
           "Problema mais citado na aba geral: produto não recebido, com 19,39%.",
           "Cuidado prático: guarde o número do pedido, os e-mails e os protocolos do atendimento, e acompanhe o prazo e o rastreio."
         ]
@@ -76234,9 +76235,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Skull é confiável segundo o Reclame Aqui? A resposta é mista. Na consulta de outubro, o perfil mostrava reputação Regular de abril a setembro (nota 6,8) e Boa nos 12 meses até setembro (nota 7,1). A loja respondeu a 100% das reclamações do período, e o índice de solução foi de 61,5%, calculado sobre as reclamações finalizadas e avaliadas.",
-          "Qual a nota da Black Skull no Reclame Aqui? Na consulta de outubro, a nota era 6,8 no recorte de abril a setembro (Regular), 7,1 nos 12 meses até setembro (Boa) e 6,6 em 2025 (Regular). A nota média do consumidor era 6,08 no recorte de abril a setembro.",
-          "A Black Skull responde às reclamações? Sim. De abril a setembro, 100% foram respondidas e nenhuma estava aguardando resposta. O tempo médio de resposta era de 6 dias e 11 horas.",
+          "A Black Skull é confiável segundo o Reclame Aqui? A resposta é mista. Na consulta de novembro, o perfil mostrava reputação Ruim de maio a outubro (nota 5,9) e Regular nos 12 meses até outubro (nota 6,8). A loja respondeu a 95,5% das reclamações do período, e o índice de solução foi de 52,6%, calculado sobre as reclamações finalizadas e avaliadas.",
+          "Qual a nota da Black Skull no Reclame Aqui? Na consulta de novembro, a nota era 5,9 no recorte de maio a outubro (Ruim), 6,8 nos 12 meses até outubro (Regular) e 6,6 em 2025 (Regular). A nota média do consumidor era 5,05 no recorte de maio a outubro.",
+          "A Black Skull responde às reclamações? Quase todas. De maio a outubro, 95,5% foram respondidas e 4 estavam aguardando resposta. O tempo médio de resposta era de 5 dias e 12 horas.",
           "O que fazer se o pedido da Black Skull não chegar? Guarde o número do pedido, fale com o SAC (0800-770 4260) ou pelo e-mail sac@blackskullusa.com e peça o protocolo. Em caso de extravio, a loja reenvia o pedido sem custo, e uma entrega que você não reconhece deve ser contestada em até 10 dias.",
           "Qual o SAC da Black Skull? O SAC é 0800-770 4260 e (11) 4189-7000, de segunda a sexta, das 8h às 18h, e o e-mail é sac@blackskullusa.com."
         ]
@@ -78891,7 +78892,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Cléa Store tem CNPJ ativo, site oficial, devolução grátis, cashback de 10% e reputação Boa no Reclame Aqui em outubro. Veja se ela é confiável e o que pesa na compra.",
+    "description": "A Cléa Store tem CNPJ ativo, site oficial, devolução grátis, cashback de 10% e reputação Regular a Boa no Reclame Aqui em novembro. Veja se ela é confiável e o que pesa na compra.",
     "metaDescription": "Cléa Store, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: CNPJ, devolução grátis, cashback e reputação no Reclame Aqui antes de comprar.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -78906,13 +78907,13 @@ export const reviewsData: unknown[] = [
       "CNPJ ativo nos dados públicos em 14/10/2026, o mesmo do rodapé do site",
       "Devolução grátis em 30 dias corridos e 90 dias para defeito de fabricação",
       "Cashback de 10% em créditos a cada compra",
-      "Reputação Boa e selo de Empresa Verificada no Reclame Aqui em outubro, com 100% das reclamações respondidas nos seis meses até setembro",
+      "Selo de Empresa Verificada e reputação Boa nos 12 meses no Reclame Aqui, com 100% das reclamações respondidas nos seis meses até outubro",
       "Página de perfis oficiais e aviso de que o pagamento é feito só no site"
     ],
     "cons": [
       "Frete grátis só acima de R$ 599",
       "O cashback vence em 30 dias",
-      "Só 55,6% de quem avaliou no Reclame Aqui voltaria a fazer negócio, nos seis meses até setembro"
+      "Só 56,5% de quem avaliou no Reclame Aqui voltaria a fazer negócio, nos seis meses até outubro"
     ],
     "cta": {
       "text": "Se a Cléa Store faz sentido para você, entre pelo link da parceria e use o cupom CSEMCASACOMCECILIA, de 10% OFF em todo o site.",
@@ -78935,7 +78936,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Cléa Store é confiável: CNPJ ativo, site oficial com dados publicados, devolução sem custo e reputação Boa no Reclame Aqui em outubro. O que mais pesa é o frete, grátis só acima de um valor mínimo. Para comprar com desconto, use o [cupom Cléa Store](/cupons/clea-store)."
+          "Sim, a Cléa Store é confiável: CNPJ ativo, site oficial com dados publicados, devolução sem custo e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui em novembro. O que mais pesa é o frete, grátis só acima de um valor mínimo. Para comprar com desconto, use o [cupom Cléa Store](/cupons/clea-store)."
         ]
       },
       {
@@ -79109,7 +79110,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação da Cléa Store no Reclame Aqui?",
         "paragraphs": [
-          "Em consulta de 14/10/2026, a Cléa Store tinha reputação **Boa** no Reclame Aqui, com selo de **Empresa Verificada** e todas as reclamações respondidas. A tabela de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
+          "Em consulta de novembro, a Cléa Store tinha reputação **Regular** nos 6 meses e **Boa** nos 12 no Reclame Aqui, com selo de **Empresa Verificada** e todas as reclamações respondidas. A tabela de 6 e 12 meses, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão em [Cléa Store no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/clea-store-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -79123,14 +79124,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Cléa Store?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim: CNPJ ativo, devolução grátis em 30 dias e reputação Boa no Reclame Aqui em outubro.",
-          "Há dois pontos que mudam a conta. O frete grátis só começa acima de R$ 599, então pedidos menores pagam o frete. E o \"voltariam a fazer negócio\" no Reclame Aqui ficou em 55,6% nos seis meses até setembro, o ponto mais fraco do perfil; os detalhes estão no artigo de reputação."
+          "Do ponto de vista da confiança, sim: CNPJ ativo, devolução grátis em 30 dias e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui em novembro.",
+          "Há dois pontos que mudam a conta. O frete grátis só começa acima de R$ 599, então pedidos menores pagam o frete. E o \"voltariam a fazer negócio\" no Reclame Aqui ficou em 56,5% nos seis meses até outubro, o ponto mais fraco do perfil; os detalhes estão no artigo de reputação."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Cléa Store é confiável? Sim. A loja tem CNPJ ativo, razão social e endereço publicados, política de devolução no site e reputação Boa no Reclame Aqui em outubro, com todas as reclamações respondidas.",
+          "A Cléa Store é confiável? Sim. A loja tem CNPJ ativo, razão social e endereço publicados, política de devolução no site e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui em novembro, com todas as reclamações respondidas.",
           "O site da Cléa Store é seguro? O endereço oficial é cleastore.com.br, e o pagamento é feito somente no site. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio ou mensagem.",
           "De onde é a Cléa Store? A empresa fica em Jaraguá do Sul (SC), segundo os dados públicos de CNPJ. A Clea Store Ltda. está no endereço Rua Erwino Menegotti, 1589, bairro Água Verde.",
           "Qual é o CNPJ da Cléa Store? O CNPJ é 27.310.985/0001-08, da Clea Store Ltda., que consta como ativo nos dados públicos. Ele aparece no rodapé do site e na política de privacidade.",
@@ -79157,8 +79158,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Cléa Store tinha reputação Boa e selo de Empresa Verificada no Reclame Aqui em outubro e respondia as reclamações. Veja os pontos fracos e o que fazer se o pedido der problema.",
-    "metaDescription": "Cléa Store no Reclame Aqui, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: reputação Boa em outubro, nota 7,1 e reclamações respondidas.",
+    "description": "Em novembro, a Cléa Store tinha reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui e respondia as reclamações. Veja os pontos fracos e o que fazer se o pedido der problema.",
+    "metaDescription": "Cléa Store no Reclame Aqui, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: reputação Regular em 6 meses (nota 6,9) e reclamações respondidas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
     "updatedAt": "2026-11-07",
@@ -79169,17 +79170,17 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Reputação Boa em outubro, com nota 7,1 nos 6 meses até setembro e 7,5 nos 12",
+      "Reputação Boa nos 12 meses até outubro, com nota 7,1",
       "Selo de Empresa Verificada no Reclame Aqui",
-      "100% das reclamações respondidas e nenhuma aguardando resposta, nos 6 meses até setembro",
-      "83,3% das reclamações dos 6 meses até setembro resolvidas",
+      "100% das reclamações respondidas e nenhuma aguardando resposta, nos 6 meses até outubro",
+      "78,3% das reclamações dos 6 meses até outubro resolvidas",
       "Avaliações de compra de 4,8 em 5 no topo do perfil"
     ],
     "cons": [
-      "Só 55,6% dos consumidores que avaliaram voltariam a fazer negócio nos 6 meses até setembro",
-      "Nota média do consumidor de 5,06 nos 6 meses até setembro",
+      "Só 56,5% dos consumidores que avaliaram voltariam a fazer negócio nos 6 meses até outubro",
+      "Nota média do consumidor de 4,89 nos 6 meses até outubro",
       "Produto não recebido é o problema mais citado, com 27,33%",
-      "O tempo médio de resposta é de 3 dias e 5 horas nos 6 meses até setembro, contra 2 dias e 4 horas nos 12"
+      "O tempo médio de resposta é de 2 dias e 18 horas nos 6 meses até outubro, contra 2 dias e 2 horas nos 12"
     ],
     "cta": {
       "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom CSEMCASACOMCECILIA, de 10% OFF em todo o site.",
@@ -79202,7 +79203,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Em outubro, a reputação da Cléa Store no Reclame Aqui era Boa, e a loja tinha o selo de Empresa Verificada. Ela respondia a tudo e resolvia a maior parte. O ponto fraco: pouco mais da metade de quem avaliou voltaria a comprar. Para comprar com desconto, veja o [cupom Cléa Store](/cupons/clea-store)."
+          "Em novembro, a reputação da Cléa Store no Reclame Aqui era Regular nos 6 meses e Boa nos 12, e a loja tinha o selo de Empresa Verificada. Ela respondia a tudo e resolvia a maior parte. O ponto fraco: pouco mais da metade de quem avaliou voltaria a comprar. Para comprar com desconto, veja o [cupom Cléa Store](/cupons/clea-store)."
         ]
       },
       {
@@ -79210,15 +79211,15 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Quem compra pela primeira vez costuma ter duas dúvidas: a peça chega, e o que acontece se vier algo errado ou se for preciso devolver?",
           "O Reclame Aqui ajuda a medir se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. O próprio site da loja liga ao perfil: o item \"Reviews\" do rodapé abre a página de avaliações da Cléa Store no Reclame Aqui.",
-          "Os números abaixo são de 14/10/2026 e mudam todo dia: vale abrir o perfil de novo no dia da compra."
+          "Os números da tabela são de 07/11/2026 e mudam todo dia: vale abrir o perfil de novo no dia da compra."
         ]
       },
       {
         "heading": "Os números da Cléa Store no Reclame Aqui",
         "paragraphs": [
-          "O perfil, na categoria Moda e e-commerce, tinha reputação **Boa**, selo de **Empresa Verificada** e 4,8 em 5 nas avaliações de compra.",
+          "O perfil, na categoria Moda e e-commerce, tinha reputação **Regular** nos 6 meses e **Boa** nos 12, selo de **Empresa Verificada** e 4,8 em 5 nas avaliações de compra.",
           "O selo de Empresa Verificada, nas palavras do Reclame Aqui, é dado a \"empresas aprovadas na nossa verificação mensal, que assegura que a empresa existe e é mais confiável\". O selo não avalia as peças.",
-          "A tabela põe lado a lado as abas de 6 e de 12 meses, as duas até 30/09/2026:"
+          "A tabela põe lado a lado as abas de 6 e de 12 meses, as duas até 31/10/2026:"
         ],
         "comparisonTable": {
           "caption": "Perfil da Cléa Store no Reclame Aqui, abas de 6 e de 12 meses",
@@ -79230,13 +79231,13 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Reputação",
-              "Boa, nota 7,1",
-              "Boa, nota 7,5"
+              "Regular, nota 6,9",
+              "Boa, nota 7,1"
             ],
             [
               "Reclamações recebidas",
-              "65",
-              "137"
+              "97",
+              "172"
             ],
             [
               "Respondidas",
@@ -79245,28 +79246,28 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Resolvidas",
-              "83,3%",
-              "83,6%"
+              "78,3%",
+              "77,1%"
             ],
             [
               "Voltariam a fazer negócio",
-              "55,6%",
-              "58,9%"
+              "56,5%",
+              "56,6%"
             ],
             [
               "Reclamações avaliadas",
-              "36",
-              "73"
+              "46",
+              "83"
             ],
             [
               "Nota média do consumidor",
-              "5,06",
-              "5,89"
+              "4,89",
+              "5,55"
             ],
             [
               "Tempo médio de resposta",
-              "3 dias e 5 horas",
-              "2 dias e 4 horas"
+              "2 dias e 18 horas",
+              "2 dias e 2 horas"
             ]
           ]
         },
@@ -79310,11 +79311,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "bullets": [
-          "**Nota de reputação (7,1 e 7,5):** a nota do Reclame Aqui para o atendimento das reclamações de cada período.",
+          "**Nota de reputação (6,9 e 7,1):** a nota do Reclame Aqui para o atendimento das reclamações de cada período.",
           "**Avaliações de compra (4,8 em 5):** avaliação de quem comprou, mostrada no topo do perfil."
         ],
         "postParagraphs": [
-          "Por isso um 4,8 ao lado de um 7,1 não é contradição: um mede a compra, o outro, como a empresa lidou com as reclamações."
+          "Por isso um 4,8 ao lado de um 6,9 não é contradição: um mede a compra, o outro, como a empresa lidou com as reclamações."
         ]
       },
       {
@@ -79341,8 +79342,8 @@ export const reviewsData: unknown[] = [
         "heading": "Como a Cléa Store responde",
         "paragraphs": [
           "A loja responde a tudo nas duas janelas, como mostra a tabela; o gargalo não é responder, é resolver e fidelizar.",
-          "Resolver é outra conta: nas duas janelas, cerca de 5 em cada 6 reclamações foram resolvidas.",
-          "Só pouco mais da metade das reclamações foi avaliada, e o \"voltariam\" e a nota do consumidor, no quadro, falam só dessa parte. Esses números mostram como a Cléa Store foi vista por quem avaliou no Reclame Aqui, não como é a experiência de todas as compradoras."
+          "Resolver é outra conta: nas duas janelas, cerca de 4 em cada 5 reclamações foram resolvidas.",
+          "Só cerca de metade das reclamações foi avaliada, e o \"voltariam\" e a nota do consumidor, no quadro, falam só dessa parte. Esses números mostram como a Cléa Store foi vista por quem avaliou no Reclame Aqui, não como é a experiência de todas as compradoras."
         ]
       },
       {
@@ -79366,15 +79367,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Cléa Store?",
         "paragraphs": [
-          "Pelo Reclame Aqui, sim, com uma ressalva. Em outubro, a reputação era Boa, com selo de Empresa Verificada; a loja respondia a tudo e resolvia a maior parte, como mostra a tabela.",
-          "A ressalva é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio, e o problema mais citado é o produto não recebido (mais de um quarto das reclamações de até 3 anos). Quem compra deve guardar o comprovante e acionar a loja pelos canais oficiais se o pedido atrasar."
+          "Pelo Reclame Aqui, sim, com uma ressalva. Em novembro, a reputação era Regular nos 6 meses e Boa nos 12, com selo de Empresa Verificada; a loja respondia a tudo e resolvia a maior parte, como mostra a tabela.",
+          "A ressalva é que só 56,5% dos consumidores que avaliaram voltariam a fazer negócio, e o problema mais citado é o produto não recebido (mais de um quarto das reclamações de até 3 anos). Quem compra deve guardar o comprovante e acionar a loja pelos canais oficiais se o pedido atrasar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Cléa Store é confiável segundo o Reclame Aqui? Sim: em outubro, o perfil mostrava reputação Boa e o selo de Empresa Verificada. O ponto fraco é o percentual de quem voltaria a fazer negócio, que está na tabela de 6 e 12 meses.",
-          "Qual a nota da Cléa Store no Reclame Aqui? Nota 7,1 nos 6 meses até setembro e 7,5 nos 12 meses até setembro, ambas na faixa Boa; a nota do consumidor está na tabela. As avaliações de compra, de 4,8 em 5, são outra métrica.",
+          "A Cléa Store é confiável segundo o Reclame Aqui? Sim, com ressalvas: em novembro, o perfil mostrava reputação Regular nos 6 meses e Boa nos 12, e o selo de Empresa Verificada. O ponto fraco é o percentual de quem voltaria a fazer negócio, que está na tabela de 6 e 12 meses.",
+          "Qual a nota da Cléa Store no Reclame Aqui? Nota 6,9 nos 6 meses até outubro (Regular) e 7,1 nos 12 meses até outubro (Boa); a nota do consumidor está na tabela. As avaliações de compra, de 4,8 em 5, são outra métrica.",
           "A Cléa Store responde às reclamações? Sim. A tabela mostra todas as reclamações respondidas nos últimos 6 e nos últimos 12 meses, com resposta em poucos dias, em média.",
           "O que fazer se o pedido da Cléa Store atrasar? Acompanhe o rastreio e, quando o prazo mostrado no checkout vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\" do site, com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
           "Como pedir devolução ou troca na Cléa Store? A devolução tem 30 dias corridos a partir do recebimento, pelo formulário cleastore.troquefacil.com.br, e a postagem é grátis. Em caso de defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição."
@@ -80187,7 +80188,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "A loja entrou em novembro sem datas, produtos nem preços de Black Friday no site",
-      "O mínimo do frete grátis é conferido sobre o total já com o cupom",
+      "O frete grátis vale só na opção de entrega mais barata",
       "No Centro-Oeste, Nordeste e Norte, o frete grátis só começa em R$ 199,90",
       "Na troca por outro produto, o frete de ida e de volta é seu"
     ],
@@ -80256,37 +80257,34 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.0423
       },
       {
-        "heading": "Frete grátis por região: a conta com o cupom",
+        "heading": "Frete grátis por região: o mínimo conta antes do cupom",
         "paragraphs": [
-          "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o **total já com o cupom**. O frete grátis vale na opção de entrega mais barata: Como o DREMCASACOMCECILIA tira 10%, o carrinho precisa passar do mínimo antes do desconto. A coluna da direita é a nossa conta: o valor mínimo dividido por 0,9, arredondado para cima."
+          "O frete grátis da Dr. Peanut depende de onde você mora, e a loja confere o mínimo sobre o valor do carrinho **antes do cupom**. Testamos em novembro: um carrinho de R$ 163,45 liberou o frete grátis em São Paulo, e ele seguiu grátis depois do cupom, com o total em R$ 147,10, abaixo do mínimo. O frete grátis vale na opção de entrega mais barata."
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, com o cupom já aplicado, e o subtotal mínimo antes do cupom pela nossa conta.",
+          "caption": "Frete grátis da Dr. Peanut por região: mínimo da loja, conferido sobre o valor antes do cupom.",
           "headers": [
             "Região",
-            "Frete grátis a partir de (total com o cupom)",
-            "Subtotal mínimo antes do cupom (nossa conta)"
+            "Frete grátis a partir de (valor antes do cupom)"
           ],
           "rows": [
             [
               "São Paulo capital, Sudeste e Sul",
-              "R$ 149,90",
-              "R$ 166,56"
+              "R$ 149,90"
             ],
             [
               "Centro-Oeste, Nordeste e Norte",
-              "R$ 199,90",
-              "R$ 222,12"
+              "R$ 199,90"
             ]
           ]
         },
         "postParagraphs": [
-          "Um carrinho de R$ 155,00, por exemplo, passa de R$ 149,90, mas com os 10% fica em R$ 139,50 e o frete volta a ser cobrado em São Paulo capital, no Sudeste e no Sul. Se faltar pouco, confira o Total depois de aplicar o código e compare o custo do frete com o de um item extra.",
+          "Um carrinho de R$ 155,00, por exemplo, passa de R$ 149,90 e segue com frete grátis em São Paulo capital, no Sudeste e no Sul, mesmo com os 10% levando o total a R$ 139,50. Se faltar pouco para o mínimo, compare o custo do frete com o de um item extra.",
           "Os mínimos eram os mesmos em outubro e no início de novembro. Mesmo assim, reconfira o aviso do carrinho: ele mostra o mínimo da sua região no momento da compra."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-cupom-01-carrinho-sem-cupom.webp",
         "imageAlt": "Carrinho da Dr. Peanut antes do cupom, com a faixa do frete grátis no topo, três itens e Total de R$ 440,16",
-        "imageCaption": "Carrinho da Dr. Peanut antes do cupom: a faixa laranja no topo diz que o frete grátis conta o total já com o cupom, a partir de R$ 149,90. O marca-texto amarelo é nosso.",
+        "imageCaption": "Carrinho da Dr. Peanut antes do cupom: a faixa laranja no topo mostra o frete grátis a partir de R$ 149,90. O marca-texto amarelo é nosso.",
         "imageFit": "contain",
         "imageAspectRatio": 1.6075
       },
@@ -80298,7 +80296,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Código aceito:** o DREMCASACOMCECILIA aparece ao lado de \"Cupom de desconto\", sem letra faltando, e a linha \"Descontos\" mostra o valor abatido em reais. Sem essa linha, o desconto não entrou. A [página do cupom da Dr. Peanut](/cupons/dr-peanut) traz as condições e a data do último teste.",
           "**Preço da promoção:** o subtotal já traz o preço promocional do item. O cupom incide sobre ele.",
-          "**Frete:** olhe a faixa do frete grátis no topo do carrinho com o cupom já aplicado e compare com o mínimo da sua região.",
+          "**Frete:** a faixa do frete grátis no topo do carrinho conta o valor antes do cupom: compare o subtotal, sem o desconto, com o mínimo da sua região.",
           "**Peso e quantidade:** confira o peso do pote e quantos potes o combo traz. Compare o preço por quilo entre o pote avulso e o combo, em vez de olhar só o preço final. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
           "**Validade e lote:** veja a validade e o lote do produto no rótulo quando o pedido chegar. Se houver avaria, embalagem violada ou item errado, você pode recusar a encomenda na entrega e escrever o motivo no verso da nota fiscal.",
           "**Troca:** arrependimento são 7 dias corridos do recebimento, e a loja paga a devolução. A política da loja pede a embalagem original e o lacre intactos; o direito de arrependimento em 7 dias vale de qualquer jeito. A troca por outro produto tem o frete de ida e de volta por sua conta, então confira o sabor antes de fechar. Os prazos completos (inclusive o de defeito) estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel).",
@@ -80313,8 +80311,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não anunciou campanha: em novembro, o site segue sem datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
           "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste.",
-          "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido sobre o total já com o cupom: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
-          "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? Pela nossa conta, R$ 166,56 em São Paulo capital, Sudeste e Sul e R$ 222,12 no Centro-Oeste, Nordeste e Norte. O aviso do carrinho confirma depois de aplicar o código.",
+          "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido antes do cupom, como testamos em novembro: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
+          "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? O mínimo da sua região: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. O cupom não entra nessa conta.",
           "A Dr. Peanut tem desconto no Pix? Tem: a ficha do produto mostra 3%. O cupom vale em todas as formas de pagamento, inclusive no Pix.",
           "Dá para trocar um produto da Dr. Peanut? Dá. Por arrependimento, são 7 dias corridos do recebimento, e a loja paga a devolução (a política da loja pede a embalagem original e o lacre intactos). Na troca por outro produto, o frete de ida e de volta é seu. Por defeito, são 30 dias para alimentos.",
           "Vale esperar a Black Friday para comprar? Se o pedido não é urgente, compare o total do carrinho na semana da Black Friday com o de hoje, já com o cupom. A loja não publicou preço de campanha, então nenhum desconto está garantido."
@@ -83109,7 +83107,7 @@ export const reviewsData: unknown[] = [
           "caption": "Tabelas publicadas pela loja: 40 porções por embalagem, salvo o Caramelo Salgado, com cerca de 17."
         },
         "postParagraphs": [
-          "Para comparar proteína, use a coluna por 100 g. Na colher, o Chocolate Branco aparece com 3 g e o Avelã com 2,9 g, mas por 100 g são 17 g contra 20 g. A diferença na colher vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano, Caramelo Salgado, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
+          "Para comparar proteína, use a coluna por 100 g. Na colher, o Leite em Pó aparece com 3 g e o Avelã com 2,9 g, mas os dois têm 20 g por 100 g. A diferença na colher vem do arredondamento do rótulo. Por 100 g, a proteína vai de **17 g** (Banoffee, Bombom Italiano, Caramelo Salgado, Chocolate Branco e Cookies & Cream) a **20 g** (Avelã e Leite em Pó).",
           "Na gordura saturada, Bombom Italiano e Cookies & Cream têm a menor, com 1,1 g por colher, e Beijinho a maior, com 2 g. O sódio vai de 19 mg (Brownie) a 49 mg (Caramelo Salgado) por colher; sem o Caramelo, nenhum sabor passa de 29 mg (Doce de Leite e Leite em Pó). As imagens trazem também fibras, de 0 g (Caramelo Salgado) a 1 g por colher, e gorduras totais, de 6,5 a 7,3 g."
         ]
       },
@@ -83254,7 +83252,7 @@ export const reviewsData: unknown[] = [
         "heading": "Preço e cupom da Dr. Peanut",
         "paragraphs": [
           "O cupom **DREMCASACOMCECILIA** dá 10% de desconto em todo o site da Dr. Peanut. Vale em todas as formas de pagamento e soma com as promoções do site. No nosso teste, os 10% valeram num combo de três pastas que já estava em promoção: de R$ 68,35, o total caiu para R$ 61,51. Nas condições de pagamento da página do produto, o Pix tinha 3% de desconto adicional.",
-          "O frete grátis conta o total já com o cupom. Pela faixa do site, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. Com os preços com cupom do quadro de preços, alguns carrinhos ficam abaixo do mínimo:"
+          "O frete grátis conta o valor antes do cupom, como testamos em novembro. Pela faixa do site, ele vale no Sul e no Sudeste em compras acima de R$ 149,90 e, nas demais regiões, acima de R$ 199,90. Pelo preço de tabela dos potes, o quadro mostra quais compras chegam ao mínimo:"
         ],
         "comparisonTable": {
           "headers": [
@@ -83285,13 +83283,13 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Combo Best Sellers (3 × 600 g)",
-              "Não",
+              "Sim",
               "Não"
             ],
             [
               "Combo de 4 potes de 600 g",
               "Sim",
-              "Não"
+              "Sim"
             ],
             [
               "Combo Royale (5 × 600 g)",
@@ -83306,7 +83304,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O Combo Best Sellers é o caso que pega: o preço cheio passa de R$ 149,90, mas com o cupom fica R$ 7,60 abaixo. O mesmo vale para qualquer trio de 600 g. O combo de cinco potes de 250 g, a R$ 98,21 com o cupom, também não chega. Confira o carrinho antes de pagar.",
+          "O cupom não tira o frete grátis de quem já passou do mínimo: o Combo Best Sellers passa de R$ 149,90 pelo preço de tabela e segue com frete grátis no Sul e no Sudeste mesmo com os 10%. O combo de cinco potes de 250 g, a R$ 109,12 pelo preço de tabela, não chega ao mínimo. Confira o carrinho antes de pagar.",
           "Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de ida e o de volta ficam por sua conta. O passo a passo do código no carrinho está no [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Se você pode esperar novembro, veja o que a loja já anunciou em [Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis](/reviews/black-friday-dr-peanut)."
         ]
       },
@@ -83356,7 +83354,7 @@ export const reviewsData: unknown[] = [
         "slug": "black-friday-dr-peanut"
       }
     ],
-    "updatedAt": "2026-11-06"
+    "updatedAt": "2026-11-07"
   },
   {
     "id": 447,
@@ -90379,7 +90377,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Nos preços de outubro, a Growth sai mais barata no whey concentrado e na creatina, e a Max no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
+    "description": "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max na creatina, no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
     "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína e por 1.000 kcal.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
@@ -90394,14 +90392,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, no cartão, a Growth sai mais barata no whey concentrado e na creatina, e a Max, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas, e o capítulo Para quem cada um faz sentido mostra o veredito por perfil."
+          "Pelo preço de tabela, a Growth sai mais barata no whey concentrado, e a Max, na creatina, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas, e o capítulo Para quem cada um faz sentido mostra o veredito por perfil."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "A régua é o preço por 100 g de proteína, por grama de creatina e por 1.000 kcal. Esta comparação cobre whey (concentrado e isolado), creatina e hipercalórico da Max Titanium, parceira do site, e da Growth, que não é parceira. Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No cartão, usamos o total que cada página mostra: o parcelamento não muda esse total.",
-          "Conta nossa, pelos preços do cartão e pelas tabelas das lojas, arredondada no centavo:"
+          "A régua é o preço por 100 g de proteína, por grama de creatina e por 1.000 kcal. Esta comparação cobre whey (concentrado e isolado), creatina e hipercalórico da Max Titanium, parceira do site, e da Growth, que não é parceira. Usamos o que as duas lojas publicam: a tabela nutricional de cada produto (porção, proteína ou creatina por porção, porções), a lista de ingredientes e o preço do site oficial, sem frete. As tabelas usam o preço de tabela do site, o valor antes do Pix e das promoções do dia, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
+          "Conta nossa, pelos preços de tabela e pelas tabelas nutricionais das lojas, arredondada no centavo:"
         ],
         "image": {
           "src": "/images/reviews/max-titanium/max-titanium-ou-growth-capa.webp",
@@ -90536,7 +90534,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por grama nas duas lojas",
         "paragraphs": [
-          "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços no cartão, sem o cupom."
+          "As creatinas desta tabela são creatina monohidratada, com 5 g por dose, e a Max confirma a dose de 5 g e as 100 porções do pote de 500 g na tabela nutricional. Preços de tabela, sem o cupom; os da Growth são de novembro, e os da Max, de outubro."
         ],
         "comparisonTable": {
           "headers": [
@@ -90567,26 +90565,26 @@ export const reviewsData: unknown[] = [
             [
               "Growth Creatina 250 g",
               "250 g, 50 doses",
-              "R$ 49,88",
-              "R$ 19,95"
+              "R$ 63,30",
+              "R$ 25,32"
             ],
             [
               "Growth Creatina 500 g (pote)",
               "500 g, 100 doses",
-              "R$ 94,33",
-              "R$ 18,87"
+              "R$ 110,88",
+              "R$ 22,18"
             ],
             [
               "Growth Creatina 500 g (refil pouch)",
               "500 g, 100 doses",
-              "R$ 83,22",
-              "R$ 16,64"
+              "R$ 104,60",
+              "R$ 20,92"
             ]
           ]
         },
         "postParagraphs": [
-          "Nos preços de outubro e sem cupom, a Growth refil de 500 g era a menor conta por grama (R$ 14,98 no Pix). Preços e ofertas mudam, e a Max pode estar mais barata hoje: compare as duas no carrinho antes de comprar. O pote de 500 g da Max empata com o pote da Growth no Pix (R$ 16,98) e, com o cupom, cai para R$ 15,28. A Max de 300 g com o cupom (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96), que tem a mesma dose de 5 g.",
-          "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix). A diferença é de preço, não de dose."
+          "Pelo preço de tabela e sem cupom, o pote de 500 g da Max, a R$ 17,51 por 100 g, é a menor conta por grama, e a Max de 300 g (R$ 19,97) também fica abaixo do refil da Growth (R$ 20,92). No Pix de outubro, a conta era outra: o refil da Growth saía a R$ 14,98 e o pote de 500 g da Max empatava com o pote da Growth (R$ 16,98). O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no carrinho antes de comprar. Com o cupom, o pote de 500 g da Max cai para R$ 15,28, e a Max de 300 g (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96 no Pix de outubro), que tem a mesma dose de 5 g.",
+          "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix de outubro). A diferença é de preço, não de dose."
         ],
         "images": [
           {
@@ -90710,7 +90708,7 @@ export const reviewsData: unknown[] = [
             [
               "Pagamento",
               "Pix e cartão; o parcelamento depende do produto",
-              "Pix e boleto cerca de 10% abaixo do cartão"
+              "Pix e boleto abaixo do preço de tabela, em valor que varia com as promoções da loja"
             ],
             [
               "Frete grátis a partir de",
@@ -90726,12 +90724,12 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem cada um faz sentido",
-        "emphasis": "Pelos números da tabela de outubro, para quem compra concentrado e creatina a escolha é a Growth, porque ganha por 100 g sem cupom.",
+        "emphasis": "Pelos preços de tabela, para quem compra whey concentrado a escolha é a Growth, e na creatina a Max ganha por 100 g sem cupom.",
         "bullets": [
           "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. A Max chega perto com o cupom (R$ 27,21), mas não passa a Growth.",
           "**Quer o whey de soro do leite que é o par direto da Growth:** o 100% Whey Refil da Max, que com o cupom fica a R$ 27,21 por 100 g de proteína, contra R$ 26,34 da Growth sem cupom.",
           "**Quer isolado e vai usar o cupom:** o IsoWhey 900 g da Max, a R$ 36,51 por 100 g de proteína com o cupom, contra R$ 39,27 da Growth no Pix.",
-          "**Quer a menor conta por grama de creatina:** a Growth refil de 500 g, a R$ 14,98 por 100 g no Pix, nos preços de outubro. Com o cupom, o pote de 500 g da Max (R$ 15,28) fica perto.",
+          "**Quer a menor conta por grama de creatina:** o pote de 500 g da Max, a R$ 17,51 por 100 g no preço de tabela. No Pix de outubro, o refil da Growth saía a R$ 14,98, e com o cupom o pote da Max (R$ 15,28) ficava perto.",
           "**Quer creatina com o selo Creapure declarado pela loja:** a Creatina Creapure 250 g da Max, a R$ 54,28 por 100 g no Pix. É a mais cara das creatinas desta comparação.",
           "**Quer hipercalórico pelo preço por caloria:** o Mass Titanium 17500 Refil 3 kg, a R$ 9,81 por 1.000 kcal no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
           "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 11% mais caro que o Pix. Na Max, a diferença é menor, de cerca de 3%."
@@ -90743,7 +90741,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Max Titanium ou Growth: qual é melhor? Depende do produto. Nos preços de outubro e sem cupom, a Growth tem o whey concentrado e a creatina refil de 500 g mais baratos por grama; a Max leva o hipercalórico nos dois tamanhos e, com o cupom, também o isolado.",
+          "Max Titanium ou Growth: qual é melhor? Depende do produto. Pelo preço de tabela e sem cupom, a Growth tem o whey concentrado mais barato por grama de proteína; a Max leva a creatina, o isolado e o hipercalórico nos dois tamanhos.",
           "O cupom da Max vale na creatina? Vale. O cupom dá até 10% em produtos do site oficial, e o percentual varia por item. A conta com cupom deste texto é o teto.",
           "A Growth tem cupom? Não oferecemos cupom da Growth: ela não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
           "A Max tem creatina Creapure? Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth não declara o selo.",
@@ -90816,14 +90814,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na cotação das tabelas, a Growth sai mais barata que a Probiótica no whey e na creatina, e o cupom PRO10EMCASACOMCECILIA não inverte isso no whey nem no refil de creatina. A Probiótica entra pela linha Zero Lactose, pelos sabores e pelo cupom. Preço muda: confira as duas lojas antes de comprar."
+          "Pelo preço de tabela, a Growth sai mais barata que a Probiótica no whey, e a Probiótica de 300 g sai mais barata que a Growth na creatina. O cupom PRO10EMCASACOMCECILIA reforça a Probiótica na creatina e não inverte o whey. Ela entra também pela linha Zero Lactose e pelos sabores. Preço muda: confira as duas lojas antes de comprar."
         ]
       },
       {
         "heading": "Como comparamos",
         "paragraphs": [
           "Este texto compara whey e creatina da Probiótica, parceira do site, com o cupom PRO10EMCASACOMCECILIA, e da Growth, que não é parceira.",
-          "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes e os alergênicos vêm das páginas. O preço é o do site oficial, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
+          "Usamos só o que as duas lojas publicam. A porção, a proteína por porção e o número de porções vêm da tabela nutricional de cada produto. Os ingredientes e os alergênicos vêm das páginas. O preço é o de tabela do site oficial, o valor antes do Pix e das promoções do dia, sem frete. É a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela.",
           "As contas são nossas, arredondadas no centavo:"
         ],
         "image": {
@@ -90931,7 +90929,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g",
         "paragraphs": [
-          "Na creatina, o refil de 500 g da Growth tem a menor conta, e a Probiótica de 300 g só encosta com o cupom no teto. A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A creatina de 100 g da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix."
+          "Na creatina, a Probiótica de 300 g tem a menor conta no preço de tabela, e a Growth fica acima em todos os tamanhos. A creatina da Probiótica de 300 g tem 60 porções de 5 g pela tabela, e a Growth tem 250 g, com 50 porções, e dois tamanhos de 500 g, com 100 porções cada, todos com 5 g por dose. A creatina de 100 g da Probiótica ficou fora da conta: é a mais cara por grama, com R$ 32,87 por 100 g no Pix. Os preços da creatina da Growth são de novembro, e os demais, de outubro."
         ],
         "comparisonTable": {
           "headers": [
@@ -90950,26 +90948,26 @@ export const reviewsData: unknown[] = [
             [
               "Growth Creatina Monohidratada 250 g",
               "50",
-              "R$ 49,88",
-              "R$ 19,95"
+              "R$ 63,30",
+              "R$ 25,32"
             ],
             [
               "Growth Creatina Monohidratada 500 g, pote",
               "100",
-              "R$ 94,33",
-              "R$ 18,87"
+              "R$ 110,88",
+              "R$ 22,18"
             ],
             [
               "Growth Creatina Monohidratada 500 g, refil pouch",
               "100",
-              "R$ 83,22",
-              "R$ 16,64"
+              "R$ 104,60",
+              "R$ 20,92"
             ]
           ]
         },
         "postParagraphs": [
-          "Preços no cartão. No Pix, a Probiótica de 300 g sai a R$ 18,97 por 100 g (R$ 17,07 com o cupom no teto), e a Growth, a R$ 17,96 no pote de 250 g, R$ 16,98 no de 500 g e R$ 14,98 no refil.",
-          "Por dose, no Pix: R$ 0,95 na Probiótica de 300 g, R$ 0,90 na Growth de 250 g e R$ 0,75 no refil de 500 g. O cupom muda a conta só no teto, e por isso a comparação com a Growth de 250 g depende dele.",
+          "Preços de tabela, sem cupom. No Pix de outubro, a Probiótica de 300 g saía a R$ 18,97 por 100 g (R$ 17,07 com o cupom no teto), e a Growth, a R$ 17,96 no pote de 250 g, R$ 16,98 no de 500 g e R$ 14,98 no refil. O Pix da Growth muda com as promoções da loja, então compare o Pix das duas no dia.",
+          "Por dose, no Pix de outubro: R$ 0,95 na Probiótica de 300 g, R$ 0,90 na Growth de 250 g e R$ 0,75 no refil de 500 g. No preço de tabela, a Probiótica de 300 g já fica abaixo da Growth de 250 g sem precisar do cupom.",
           "A Creapure de 150 g da Probiótica, com R$ 96,89 no Pix, sai por R$ 64,59 por 100 g, com 5.000 mg de creatina em cada dose de 5 g e 30 porções. A Probiótica declara Creapure no nome do produto; a página da Growth não declara o selo.",
           "A tabela da creatina de 300 g declara 5.000 mg de creatina por porção de 5 g e 60 porções, os números que a conta usa."
         ],
@@ -91007,7 +91005,7 @@ export const reviewsData: unknown[] = [
             [
               "Desconto no Pix",
               "3% no whey e 5% na creatina de 300 g, pelo preço da página",
-              "Pix cerca de 10% abaixo do cartão"
+              "Pix abaixo do preço de tabela, em valor que varia com as promoções da loja"
             ],
             [
               "Frete grátis a partir de",
@@ -91023,19 +91021,19 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela desta cotação, para quem compra pelo menor preço por grama a escolha é a Growth no whey e na creatina, porque ganha sem cupom. Compare as duas lojas antes de decidir.",
+        "emphasis": "Pelos preços de tabela desta cotação, a escolha é a Growth no whey e a Probiótica de 300 g na creatina, porque cada uma ganha sem cupom. Compare as duas lojas antes de decidir.",
         "bullets": [
           "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 26,34 no Pix.",
           "**Quer a linha Zero Lactose:** a Probiótica é a única das duas com essa linha nesta conta. Leia o alergênico de leite no rótulo antes de comprar.",
-          "**Quer o menor preço por grama de creatina:** Growth Creatina de 500 g em refil, com R$ 14,98 por 100 g no Pix.",
-          "**Quer a creatina em pote de 300 g:** a Probiótica entra abaixo da Growth de 250 g só com o cupom no teto (R$ 17,07 contra R$ 17,96 no Pix). Sem o cupom, a Growth de 250 g fica na frente.",
+          "**Quer o menor preço por grama de creatina:** Probiótica Creatina de 300 g, com R$ 19,97 por 100 g no preço de tabela.",
+          "**Quer um pote pequeno de creatina:** a Probiótica de 300 g sai abaixo da Growth de 250 g, já sem cupom (R$ 19,97 contra R$ 25,32 por 100 g, no preço de tabela).",
           "**Quer Creapure:** a Probiótica declara o selo no produto de 150 g, por R$ 64,59 por 100 g no Pix."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Probiótica ou Growth: qual é melhor? Pela cotação das tabelas, a Growth vence no whey por 100 g e na creatina de 500 g. A Probiótica só se aproxima na creatina de 300 g, com o cupom no teto. A escolha pesa também a linha Zero Lactose e os sabores.",
+          "Probiótica ou Growth: qual é melhor? Pelo preço de tabela, a Growth vence no whey por 100 g de proteína e a Probiótica vence na creatina por 100 g, com o pote de 300 g abaixo dos três tamanhos da Growth. A escolha pesa também a linha Zero Lactose e os sabores.",
           "O cupom da Probiótica vale na creatina? A loja aceita o cupom nos produtos do site, com o percentual de cada item. No teste do cupom, a creatina em promoção não recebeu os 10%.",
           "A Growth tem cupom nosso? Não. A Growth não é parceira do site, e não há cupom nosso para ela; se a Growth tem promoção própria, a informação está no site dela. Os links e o passo a passo do cupom da Probiótica estão no [artigo sobre como usar o cupom](/reviews/cupom-probiotica-como-usar).",
           "A Probiótica é confiável? Quem é a marca, o site oficial e as trocas estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel), e a comparação com a Max Titanium, em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
@@ -93428,7 +93426,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: a nota de quem avalia",
         "paragraphs": [
-          "No Trustpilot, a Hostinger tinha 4,6 em 73.411 avaliações, mas a página mostra convites da empresa. Cinco estrelas somam 87,1%; uma estrela, 6,9%, cerca de 5,1 mil avaliações.",
+          "Em novembro, no Trustpilot, a Hostinger tinha 4,6 em 73.830 avaliações, mas a página mostra convites da empresa. Cinco estrelas somam 87%; uma estrela, 7%, cerca de 5,2 mil avaliações.",
           "Antes de usar esse número, veja o que a própria página mostra:"
         ],
         "bullets": [
@@ -93552,8 +93550,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger on Trustpilot: a TrustScore of 4.6 from 73,411 reviews in October 2026, how invited reviews shape it, what the complaints say and how to turn off automatic renewal.",
-    "metaDescription": "Hostinger on Trustpilot (October 24, 2026): TrustScore 4.6 from 73,411 reviews, 99% of negative ones answered, and billing and renewal among the top complaints. See how to turn off renewal.",
+    "description": "Hostinger on Trustpilot: a TrustScore of 4.6 from 73,830 reviews in November 2026, how invited reviews shape it, what the complaints say and how to turn off automatic renewal.",
+    "metaDescription": "Hostinger on Trustpilot (November 2026): TrustScore 4.6 from 73,830 reviews, 99% of negative ones answered, and billing and renewal among the top complaints. See how to turn off renewal.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-07",
@@ -93568,13 +93566,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, with a caveat. On October 24, 2026, Hostinger had a TrustScore of 4.6 from 73,411 Trustpilot reviews and answered 99% of the negative ones. The company invites customers to review, which can raise the average, and the most cited complaints are AI support, billing and renewal. On hosting, billing calls for attention to automatic renewal; see below how to turn it off. The 20% off the first period comes from the [SONAR20 Hostinger coupon](/en/coupons/hostinger)."
+          "Yes, with a caveat. In November 2026, Hostinger had a TrustScore of 4.6 from 73,830 Trustpilot reviews and answered 99% of the negative ones. The company invites customers to review, which can raise the average, and the most cited complaints are AI support, billing and renewal. On hosting, billing calls for attention to automatic renewal; see below how to turn it off. The 20% off the first period comes from the [SONAR20 Hostinger coupon](/en/coupons/hostinger)."
         ]
       },
       {
         "heading": "What the score says and what it does not",
         "paragraphs": [
-          "The 4.6 is the starting point, but it sums up a lot, and the profile page itself shows how it was built. The table gathers what the page showed on October 24, 2026."
+          "The 4.6 is the starting point, but it sums up a lot, and the profile page itself shows how it was built. The table gathers what the page showed in November 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -93588,27 +93586,27 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Reviews",
-              "73,411"
+              "73,830"
             ],
             [
               "Five stars",
-              "63,962 (87.1%)"
+              "87%"
             ],
             [
               "Four stars",
-              "3,143 (4.3%)"
+              "4%"
             ],
             [
               "Three stars",
-              "650 (0.9%)"
+              "under 1%"
             ],
             [
               "Two stars",
-              "558 (0.8%)"
+              "under 1%"
             ],
             [
               "One star",
-              "5,098 (6.9%)"
+              "7%"
             ],
             [
               "Profile claimed",
@@ -93653,7 +93651,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "The screenshots are from October 19, 2026, and the table from October 24: the score was the same, the response rate to negative reviews went from 98% to 99%, and the percentages per star did not move.",
+          "The screenshots are from October 19, 2026, and the table was refreshed in November: the score stayed at 4.6 and the percentages per star, now rounded, did not move.",
           "The sample covered reviews in several languages, so the score is global, not the opinion of one market.",
           "What the table does not show is who gets invited and who writes on their own. That is where the next chapter starts."
         ]
@@ -93695,7 +93693,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "First, five-star reviews arrive much faster and almost all of them by invitation: 100 in about five days, 78 of them invited. One-star reviews take about 18 days to reach 100, and 92 are organic. The two samples cover different periods, so they do not measure how much invitations move the overall score. They only show that the five-star group leans on invited customers and the one-star group on customers who wrote on their own.",
           "Second, one-star reviews are almost four times longer. They describe a concrete problem, with dates, products and amounts. Five-star reviews are usually one sentence.",
-          "Third, one in seven one-star reviews in our sample is praise given with the wrong rating: 14 of the 100 have positive text, such as “Great hosting” or “easy to use”, under one star. Even so, 6.9% of 73,411 is still about 5,100 people who were very unhappy. The share is small; the number of people is not."
+          "Third, one in seven one-star reviews in our sample is praise given with the wrong rating: 14 of the 100 have positive text, such as “Great hosting” or “easy to use”, under one star. Even so, 7% of 73,830 is still about 5,000 people who were very unhappy. The share is small; the number of people is not."
         ]
       },
       {
@@ -93761,7 +93759,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Can you trust Hostinger?",
         "paragraphs": [
-          "Going by Trustpilot, yes. The score was 4.6 from 73,411 reviews, 87.1% of them five stars. The profile says the company answers 99% of the negative ones; in our sample, 80 of the 86 complaints had a reply, about 93%.",
+          "Going by Trustpilot, yes. The score was 4.6 from 73,830 reviews, 87% of them five stars. The profile says the company answers 99% of the negative ones; in our sample, 80 of the 86 complaints had a reply, about 93%.",
           "The caveat is how the score is built and what the complaints say. The profile is managed by the company, which invites customers to review: in our sample, 78 of the 100 most recent five-star reviews were invited and 92 of the 100 most recent one-star reviews were organic. The complaints center on AI support with no way to reach a person, on billing and renewal, and on domains.",
           "In practice: check the renewal date, turn off automatic renewal if you do not want to continue, and read a few one-star reviews and the replies on the profile before buying, because the numbers change every month."
         ]
@@ -93769,7 +93767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "What is Hostinger’s Trustpilot score? A TrustScore of 4.6 out of 5, from 73,411 reviews, with 87.1% five stars and 6.9% one star.",
+          "What is Hostinger’s Trustpilot score? A TrustScore of 4.6 out of 5, from 73,830 reviews, with 87% five stars and 7% one star.",
           "Are Hostinger’s Trustpilot reviews reliable? The profile is claimed and managed by the company, which invites customers to review. In our sample, 78 of the 100 most recent five-star reviews were invited, and 92 of the 100 most recent one-star reviews were organic. Trustpilot says it does not check reviews one by one.",
           "What do Hostinger customers complain about on Trustpilot? In the 86 complaints read among the 100 most recent one-star reviews, the main themes were AI support and not reaching a person (about 45), billing and renewal (about 38) and domains (about 27).",
           "Does Hostinger answer negative reviews? Yes. The page says the company responds to 99% of negative reviews, usually within 24 hours, and may use AI in the replies. In our sample, 80 of 86 complaints had a reply.",
@@ -93840,7 +93838,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger tiene un TrustScore de 4,6 en Trustpilot con más de 73.000 opiniones. Mira las quejas más citadas y cómo desactivar la renovación automática.",
-    "metaDescription": "Hostinger en Trustpilot (24 de octubre de 2026): TrustScore 4,6 con 73.411 opiniones, 99 % de las negativas respondidas y cobros y renovación entre las quejas principales. Mira cómo desactivar la renovación.",
+    "metaDescription": "Hostinger en Trustpilot (noviembre de 2026): TrustScore 4,6 con 73.830 opiniones, 99 % de las negativas respondidas y cobros y renovación entre las quejas principales. Mira cómo desactivar la renovación.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-07",
@@ -93855,13 +93853,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.411 opiniones en Trustpilot y respondió al 99 % de las negativas. La empresa invita a los clientes a opinar, lo que puede subir el promedio, y las quejas más citadas son la atención por IA, los cobros y la renovación. En el hosting, los cobros piden atención a la renovación automática; abajo ves cómo desactivarla. El 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
+          "Sí, con una salvedad. En noviembre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.830 opiniones en Trustpilot y respondió al 99 % de las negativas. La empresa invita a los clientes a opinar, lo que puede subir el promedio, y las quejas más citadas son la atención por IA, los cobros y la renovación. En el hosting, los cobros piden atención a la renovación automática; abajo ves cómo desactivarla. El 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
         "heading": "Lo que dice la calificación y lo que no dice",
         "paragraphs": [
-          "El 4,6 es el punto de partida, pero resume mucho, y la página del perfil muestra cómo se armó. La tabla reúne lo que la página mostraba el 24 de octubre de 2026."
+          "El 4,6 es el punto de partida, pero resume mucho, y la página del perfil muestra cómo se armó. La tabla reúne lo que la página mostraba en noviembre de 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -93875,27 +93873,27 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Opiniones",
-              "73.411"
+              "73.830"
             ],
             [
               "Cinco estrellas",
-              "63.962 (87,1 %)"
+              "87 %"
             ],
             [
               "Cuatro estrellas",
-              "3.143 (4,3 %)"
+              "4 %"
             ],
             [
               "Tres estrellas",
-              "650 (0,9 %)"
+              "menos del 1 %"
             ],
             [
               "Dos estrellas",
-              "558 (0,8 %)"
+              "menos del 1 %"
             ],
             [
               "Una estrella",
-              "5.098 (6,9 %)"
+              "7 %"
             ],
             [
               "Perfil reclamado",
@@ -93940,7 +93938,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Las capturas son del 19 de octubre de 2026, y la tabla, del 24 de octubre: la calificación era la misma, la tasa de respuesta a las negativas pasó del 98 % al 99 % y los porcentajes por estrella no se movieron.",
+          "Las capturas son del 19 de octubre de 2026, y la tabla se actualizó en noviembre: la calificación se mantuvo en 4,6 y los porcentajes por estrella, ahora redondeados, no se movieron.",
           "La muestra cubrió opiniones en varios idiomas, así que la calificación es global, no la opinión de un solo mercado.",
           "Lo que la tabla no muestra es quién recibe la invitación y quién escribe por su cuenta. Ahí empieza el próximo capítulo."
         ]
@@ -93982,7 +93980,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Primero, las de cinco estrellas llegan mucho más rápido y casi todas por invitación: 100 en unos cinco días, 78 de ellas invitadas. Las de una estrella tardan unos 18 días en sumar 100, y 92 son espontáneas. Las dos muestras cubren períodos distintos, así que no miden cuánto suben las invitaciones la calificación global. Solo muestran que las de cinco estrellas vienen sobre todo de clientes invitados y las de una estrella, de clientes que escribieron por su cuenta.",
           "Segundo, las opiniones de una estrella son casi cuatro veces más largas. Describen un problema concreto, con fechas, productos y montos. Las de cinco estrellas suelen ser una frase.",
-          "Tercero, una de cada siete opiniones de una estrella de la muestra es un elogio con la nota equivocada: 14 de las 100 tienen texto positivo, como «Great hosting» o «easy to use», con una estrella. Aun así, el 6,9 % de 73.411 son unas 5.100 personas muy insatisfechas. La proporción es pequeña; el número de personas no lo es."
+          "Tercero, una de cada siete opiniones de una estrella de la muestra es un elogio con la nota equivocada: 14 de las 100 tienen texto positivo, como «Great hosting» o «easy to use», con una estrella. Aun así, el 7 % de 73.830 son unas 5.000 personas muy insatisfechas. La proporción es pequeña; el número de personas no lo es."
         ]
       },
       {
@@ -94048,7 +94046,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "¿Se puede confiar en Hostinger?",
         "paragraphs": [
-          "Según Trustpilot, sí. La calificación era 4,6 con 73.411 opiniones, el 87,1 % de cinco estrellas. El perfil indica que la empresa responde al 99 % de las negativas; en nuestra muestra, 80 de las 86 quejas tenían respuesta, cerca del 93 %.",
+          "Según Trustpilot, sí. La calificación era 4,6 con 73.830 opiniones, el 87 % de cinco estrellas. El perfil indica que la empresa responde al 99 % de las negativas; en nuestra muestra, 80 de las 86 quejas tenían respuesta, cerca del 93 %.",
           "La salvedad está en cómo se arma la calificación y en lo que dicen las quejas. El perfil lo administra la empresa, que invita a los clientes a opinar: en nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Las quejas se concentran en la atención por IA sin forma de llegar a una persona, en cobros y renovación, y en dominios.",
           "En la práctica: revisa la fecha de renovación, desactiva la renovación automática si no quieres seguir y lee algunas opiniones de una estrella y las respuestas del perfil antes de comprar, porque los números cambian cada mes."
         ]
@@ -94056,7 +94054,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuál es la calificación de Hostinger en Trustpilot? Un TrustScore de 4,6 sobre 5, con 73.411 opiniones, el 87,1 % de cinco estrellas y el 6,9 % de una estrella.",
+          "¿Cuál es la calificación de Hostinger en Trustpilot? Un TrustScore de 4,6 sobre 5, con 73.830 opiniones, el 87 % de cinco estrellas y el 7 % de una estrella.",
           "¿Son confiables las opiniones de Hostinger en Trustpilot? El perfil está reclamado y lo administra la empresa, que invita a los clientes a opinar. En nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Trustpilot dice que no revisa las opiniones una por una.",
           "¿De qué se quejan los clientes de Hostinger en Trustpilot? En las 86 quejas leídas entre las 100 opiniones de una estrella más recientes, los temas principales fueron la atención por IA y no llegar a una persona (unas 45), los cobros y la renovación (unas 38) y los dominios (unas 27).",
           "¿Hostinger responde a las opiniones negativas? Sí. La página dice que la empresa responde al 99 % de las opiniones negativas, por lo general en 24 horas, y que puede usar IA en las respuestas. En nuestra muestra, 80 de las 86 quejas tenían respuesta.",
@@ -94127,7 +94125,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger a un TrustScore de 4,6 sur Trustpilot pour plus de 73 000 avis. Voyez les plaintes les plus citées et comment désactiver le renouvellement automatique.",
-    "metaDescription": "Hostinger sur Trustpilot (24 octobre 2026) : TrustScore 4,6 pour 73 411 avis, 99 % des avis négatifs traités, facturation et renouvellement parmi les plaintes principales. Voyez comment désactiver le renouvellement.",
+    "metaDescription": "Hostinger sur Trustpilot (novembre 2026) : TrustScore 4,6 pour 73 830 avis, 99 % des avis négatifs traités, facturation et renouvellement parmi les plaintes principales. Voyez comment désactiver le renouvellement.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-07",
@@ -94142,13 +94140,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 411 avis sur Trustpilot et avait répondu à 99 % des avis négatifs. L’entreprise invite ses clients à noter, ce qui peut gonfler la moyenne, et les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement. Pour l’hébergement, la facturation demande de surveiller le renouvellement automatique ; voyez plus bas comment le désactiver. Les 20 % de la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
+          "Oui, avec une réserve. En novembre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 830 avis sur Trustpilot et avait répondu à 99 % des avis négatifs. L’entreprise invite ses clients à noter, ce qui peut gonfler la moyenne, et les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement. Pour l’hébergement, la facturation demande de surveiller le renouvellement automatique ; voyez plus bas comment le désactiver. Les 20 % de la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
         "heading": "Ce que dit la note et ce qu’elle ne dit pas",
         "paragraphs": [
-          "Le 4,6 est le point de départ, mais il résume beaucoup de choses, et la page du profil montre elle-même comment il a été construit. Le tableau réunit ce que la page affichait le 24 octobre 2026."
+          "Le 4,6 est le point de départ, mais il résume beaucoup de choses, et la page du profil montre elle-même comment il a été construit. Le tableau réunit ce que la page affichait en novembre 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -94162,27 +94160,27 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Avis",
-              "73 411"
+              "73 830"
             ],
             [
               "Cinq étoiles",
-              "63 962 (87,1 %)"
+              "87 %"
             ],
             [
               "Quatre étoiles",
-              "3 143 (4,3 %)"
+              "4 %"
             ],
             [
               "Trois étoiles",
-              "650 (0,9 %)"
+              "moins de 1 %"
             ],
             [
               "Deux étoiles",
-              "558 (0,8 %)"
+              "moins de 1 %"
             ],
             [
               "Une étoile",
-              "5 098 (6,9 %)"
+              "7 %"
             ],
             [
               "Profil revendiqué",
@@ -94227,7 +94225,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Les captures datent du 19 octobre 2026 et le tableau du 24 octobre : la note était la même, le taux de réponse aux avis négatifs est passé de 98 % à 99 % et les pourcentages par étoile n’ont pas bougé.",
+          "Les captures datent du 19 octobre 2026 et le tableau a été actualisé en novembre : la note est restée à 4,6 et les pourcentages par étoile, désormais arrondis, n’ont pas bougé.",
           "L’échantillon couvrait des avis en plusieurs langues : la note est donc mondiale, et non l’opinion d’un seul marché.",
           "Ce que le tableau ne montre pas, c’est qui reçoit l’invitation et qui écrit de sa propre initiative. C’est là que commence le chapitre suivant."
         ]
@@ -94269,7 +94267,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "D’abord, les avis à cinq étoiles arrivent beaucoup plus vite, et presque tous par invitation : 100 en environ cinq jours, dont 78 invités. Les avis à une étoile mettent environ 18 jours à atteindre 100, et 92 sont spontanés. Les deux échantillons couvrent des périodes différentes : ils ne mesurent pas de combien les invitations font monter la note globale. Ils montrent seulement que les avis à cinq étoiles viennent surtout de clients invités, et ceux à une étoile de clients venus d’eux-mêmes.",
           "Ensuite, les avis à une étoile sont presque quatre fois plus longs. Ils décrivent un problème concret, avec des dates, des produits et des montants. Les avis à cinq étoiles tiennent en général en une phrase.",
-          "Enfin, un avis à une étoile sur sept de notre échantillon est un éloge donné avec la mauvaise note : 14 des 100 ont un texte positif, comme « Great hosting » ou « easy to use », sous une étoile. Malgré cela, 6,9 % de 73 411, cela fait encore environ 5 100 personnes très mécontentes. La part est petite ; le nombre de personnes ne l’est pas."
+          "Enfin, un avis à une étoile sur sept de notre échantillon est un éloge donné avec la mauvaise note : 14 des 100 ont un texte positif, comme « Great hosting » ou « easy to use », sous une étoile. Malgré cela, 7 % de 73 830, cela fait encore environ 5 000 personnes très mécontentes. La part est petite ; le nombre de personnes ne l’est pas."
         ]
       },
       {
@@ -94335,7 +94333,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Peut-on faire confiance à Hostinger ?",
         "paragraphs": [
-          "Selon Trustpilot, oui. La note était de 4,6 pour 73 411 avis, avec 87,1 % de cinq étoiles. Le profil indique que l’entreprise répond à 99 % des avis négatifs ; dans notre échantillon, 80 des 86 plaintes avaient une réponse, soit environ 93 %.",
+          "Selon Trustpilot, oui. La note était de 4,6 pour 73 830 avis, avec 87 % de cinq étoiles. Le profil indique que l’entreprise répond à 99 % des avis négatifs ; dans notre échantillon, 80 des 86 plaintes avaient une réponse, soit environ 93 %.",
           "La réserve porte sur la façon dont la note est construite et sur ce que disent les plaintes. Le profil est géré par l’entreprise, qui invite ses clients à noter : dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Les plaintes se concentrent sur le support par IA sans moyen de joindre une personne, sur la facturation et le renouvellement, et sur les domaines.",
           "En pratique : vérifiez la date de renouvellement, désactivez le renouvellement automatique si vous ne voulez pas continuer, et lisez quelques avis à une étoile ainsi que les réponses du profil avant d’acheter, car les chiffres changent chaque mois."
         ]
@@ -94343,7 +94341,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quelle est la note de Hostinger sur Trustpilot ? Un TrustScore de 4,6 sur 5, pour 73 411 avis, avec 87,1 % de cinq étoiles et 6,9 % d’une étoile.",
+          "Quelle est la note de Hostinger sur Trustpilot ? Un TrustScore de 4,6 sur 5, pour 73 830 avis, avec 87 % de cinq étoiles et 7 % d’une étoile.",
           "Les avis Hostinger sur Trustpilot sont-ils fiables ? Le profil est revendiqué et géré par l’entreprise, qui invite ses clients à noter. Dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Trustpilot dit qu’il ne vérifie pas les avis un par un.",
           "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Dans les 86 plaintes lues parmi les 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
           "Hostinger répond-il aux avis négatifs ? Oui. La page indique que l’entreprise répond à 99 % des avis négatifs, en général dans les 24 heures, et qu’elle peut utiliser l’IA dans ses réponses. Dans notre échantillon, 80 des 86 plaintes avaient une réponse.",
@@ -94414,7 +94412,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "Hostinger hat auf Trustpilot einen TrustScore von 4,6 bei über 73.000 Bewertungen. Sie sehen die häufigsten Beschwerden und wie Sie die automatische Verlängerung abschalten.",
-    "metaDescription": "Hostinger auf Trustpilot (24. Oktober 2026): TrustScore 4,6 aus 73.411 Bewertungen, 99 % der negativen beantwortet, Abrechnung und Verlängerung unter den häufigsten Beschwerden. So schalten Sie die Verlängerung ab.",
+    "metaDescription": "Hostinger auf Trustpilot (November 2026): TrustScore 4,6 aus 73.830 Bewertungen, 99 % der negativen beantwortet, Abrechnung und Verlängerung unter den häufigsten Beschwerden. So schalten Sie die Verlängerung ab.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-07",
@@ -94429,13 +94427,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ja, mit einem Vorbehalt. Am 24. Oktober 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.411 Bewertungen und hatte 99 % der negativen beantwortet. Die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treiben kann, und die meistgenannten Beschwerden betreffen KI-Support, Abrechnung und Verlängerung. Beim Hosting verlangt die Abrechnung einen Blick auf die automatische Verlängerung; unten steht, wie Sie sie abschalten. Die 20 % im ersten Zeitraum kommen vom [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger)."
+          "Ja, mit einem Vorbehalt. Im November 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.830 Bewertungen und hatte 99 % der negativen beantwortet. Die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treiben kann, und die meistgenannten Beschwerden betreffen KI-Support, Abrechnung und Verlängerung. Beim Hosting verlangt die Abrechnung einen Blick auf die automatische Verlängerung; unten steht, wie Sie sie abschalten. Die 20 % im ersten Zeitraum kommen vom [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger)."
         ]
       },
       {
         "heading": "Was die Bewertung sagt und was nicht",
         "paragraphs": [
-          "Die 4,6 ist der Ausgangspunkt, doch sie fasst viel zusammen, und die Profilseite selbst zeigt, wie sie entstanden ist. Die Tabelle fasst zusammen, was die Seite am 24. Oktober 2026 anzeigte."
+          "Die 4,6 ist der Ausgangspunkt, doch sie fasst viel zusammen, und die Profilseite selbst zeigt, wie sie entstanden ist. Die Tabelle fasst zusammen, was die Seite im November 2026 anzeigte."
         ],
         "comparisonTable": {
           "headers": [
@@ -94449,27 +94447,27 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Bewertungen",
-              "73.411"
+              "73.830"
             ],
             [
               "Fünf Sterne",
-              "63.962 (87,1 %)"
+              "87 %"
             ],
             [
               "Vier Sterne",
-              "3.143 (4,3 %)"
+              "4 %"
             ],
             [
               "Drei Sterne",
-              "650 (0,9 %)"
+              "unter 1 %"
             ],
             [
               "Zwei Sterne",
-              "558 (0,8 %)"
+              "unter 1 %"
             ],
             [
               "Ein Stern",
-              "5.098 (6,9 %)"
+              "7 %"
             ],
             [
               "Profil beansprucht",
@@ -94514,7 +94512,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Die Screenshots sind vom 19. Oktober 2026, die Tabelle vom 24. Oktober: Die Bewertung war gleich, die Antwortquote auf negative Bewertungen stieg von 98 % auf 99 %, und die Prozentwerte pro Stern haben sich nicht bewegt.",
+          "Die Screenshots sind vom 19. Oktober 2026, die Tabelle wurde im November aktualisiert: Die Bewertung blieb bei 4,6, und die Prozentwerte pro Stern, jetzt gerundet, haben sich nicht bewegt.",
           "Die Stichprobe umfasste Bewertungen in mehreren Sprachen: Die Bewertung ist also global, nicht die Meinung eines einzelnen Marktes.",
           "Was die Tabelle nicht zeigt, ist, wer eine Einladung bekommt und wer von sich aus schreibt. Dort beginnt das nächste Kapitel."
         ]
@@ -94556,7 +94554,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Erstens kommen Fünf-Sterne-Bewertungen viel schneller und fast alle auf Einladung: 100 in etwa fünf Tagen, davon 78 eingeladen. Ein-Stern-Bewertungen brauchen rund 18 Tage bis 100, und 92 davon sind spontan. Die beiden Stichproben decken unterschiedliche Zeiträume ab und messen daher nicht, wie stark Einladungen die Gesamtnote verschieben. Sie zeigen nur, dass die Fünf-Sterne-Bewertungen überwiegend von eingeladenen Kunden stammen und die Ein-Stern-Bewertungen von Kunden, die von sich aus geschrieben haben.",
           "Zweitens sind Ein-Stern-Bewertungen fast viermal so lang. Sie beschreiben ein konkretes Problem, mit Daten, Produkten und Beträgen. Fünf-Sterne-Bewertungen bestehen meist aus einem Satz.",
-          "Drittens ist eine von sieben Ein-Stern-Bewertungen in unserer Stichprobe ein Lob mit der falschen Note: 14 der 100 haben positiven Text, etwa „Great hosting“ oder „easy to use“, aber nur einen Stern. Trotzdem sind 6,9 % von 73.411 immer noch etwa 5.100 Menschen, die sehr unzufrieden waren. Der Anteil ist klein; die Zahl der Menschen nicht."
+          "Drittens ist eine von sieben Ein-Stern-Bewertungen in unserer Stichprobe ein Lob mit der falschen Note: 14 der 100 haben positiven Text, etwa „Great hosting“ oder „easy to use“, aber nur einen Stern. Trotzdem sind 7 % von 73.830 immer noch etwa 5.000 Menschen, die sehr unzufrieden waren. Der Anteil ist klein; die Zahl der Menschen nicht."
         ]
       },
       {
@@ -94622,7 +94620,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kann man Hostinger vertrauen?",
         "paragraphs": [
-          "Nach Trustpilot ja. Die Bewertung lag bei 4,6 aus 73.411 Bewertungen, 87,1 % davon mit fünf Sternen. Laut Profil antwortet das Unternehmen auf 99 % der negativen; in unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort, rund 93 %.",
+          "Nach Trustpilot ja. Die Bewertung lag bei 4,6 aus 73.830 Bewertungen, 87 % davon mit fünf Sternen. Laut Profil antwortet das Unternehmen auf 99 % der negativen; in unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort, rund 93 %.",
           "Der Vorbehalt betrifft, wie die Bewertung entsteht und was die Beschwerden sagen. Das Profil verwaltet das Unternehmen, das Kunden zu Bewertungen einlädt: In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Die Beschwerden drehen sich um KI-Support ohne Weg zu einer Person, um Abrechnung und Verlängerung sowie um Domains.",
           "In der Praxis: Prüfen Sie das Verlängerungsdatum, schalten Sie die automatische Verlängerung ab, wenn Sie nicht weitermachen wollen, und lesen Sie vor dem Kauf einige Ein-Stern-Bewertungen und die Antworten im Profil, denn die Zahlen ändern sich jeden Monat."
         ]
@@ -94630,7 +94628,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Wie hoch ist die Trustpilot-Bewertung von Hostinger? Der TrustScore liegt bei 4,6 von 5, aus 73.411 Bewertungen, mit 87,1 % Fünf-Sterne- und 6,9 % Ein-Stern-Bewertungen.",
+          "Wie hoch ist die Trustpilot-Bewertung von Hostinger? Der TrustScore liegt bei 4,6 von 5, aus 73.830 Bewertungen, mit 87 % Fünf-Sterne- und 7 % Ein-Stern-Bewertungen.",
           "Sind die Trustpilot-Bewertungen von Hostinger verlässlich? Das Profil ist beansprucht und wird von der Firma verwaltet, die Kunden zur Bewertung einlädt. In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Trustpilot sagt, dass es die Bewertungen nicht einzeln prüft.",
           "Worüber beschweren sich Hostinger-Kunden auf Trustpilot? In den 86 Beschwerden, die wir unter den 100 neuesten Ein-Stern-Bewertungen gelesen haben, waren die wichtigsten Themen KI-Support und keine Verbindung zu einem Menschen (etwa 45), Abrechnung und Verlängerung (etwa 38) und Domains (etwa 27).",
           "Antwortet Hostinger auf negative Bewertungen? Ja. Die Seite sagt, dass das Unternehmen auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden, und dass es für Antworten KI nutzen kann. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort.",
@@ -94700,8 +94698,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger su Trustpilot: TrustScore 4,6 su 73.411 recensioni a ottobre 2026, come influiscono gli inviti, di cosa si lamentano i clienti e come disattivare il rinnovo automatico.",
-    "metaDescription": "Hostinger su Trustpilot (24 ottobre 2026): TrustScore 4,6 su 73.411 recensioni, 99% delle negative con risposta, fatturazione e rinnovo tra i reclami principali. Scopri come disattivare il rinnovo.",
+    "description": "Hostinger su Trustpilot: TrustScore 4,6 su 73.830 recensioni a novembre 2026, come influiscono gli inviti, di cosa si lamentano i clienti e come disattivare il rinnovo automatico.",
+    "metaDescription": "Hostinger su Trustpilot (novembre 2026): TrustScore 4,6 su 73.830 recensioni, 99% delle negative con risposta, fatturazione e rinnovo tra i reclami principali. Scopri come disattivare il rinnovo.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-07",
@@ -94716,13 +94714,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, con riserva. Il 24 ottobre 2026 la Hostinger aveva un TrustScore di 4,6 su 73.411 recensioni su Trustpilot e aveva risposto al 99% di quelle negative. L’azienda invita i clienti a recensire, e così può alzare la media, e i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo. Sull’hosting la fatturazione chiede attenzione al rinnovo automatico; più sotto trovi come disattivarlo. Il 20% sul primo periodo arriva dal [coupon SONAR20 della Hostinger](/it/coupons/hostinger)."
+          "Sì, con riserva. A novembre 2026 la Hostinger aveva un TrustScore di 4,6 su 73.830 recensioni su Trustpilot e aveva risposto al 99% di quelle negative. L’azienda invita i clienti a recensire, e così può alzare la media, e i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo. Sull’hosting la fatturazione chiede attenzione al rinnovo automatico; più sotto trovi come disattivarlo. Il 20% sul primo periodo arriva dal [coupon SONAR20 della Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
         "heading": "Cosa dice il punteggio e cosa non dice",
         "paragraphs": [
-          "Il 4,6 è il punto di partenza, ma riassume molto, e la pagina del profilo stessa mostra come è stato costruito. La tabella raccoglie quello che la pagina mostrava il 24 ottobre 2026."
+          "Il 4,6 è il punto di partenza, ma riassume molto, e la pagina del profilo stessa mostra come è stato costruito. La tabella raccoglie quello che la pagina mostrava a novembre 2026."
         ],
         "comparisonTable": {
           "headers": [
@@ -94736,27 +94734,27 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Recensioni",
-              "73.411"
+              "73.830"
             ],
             [
               "Cinque stelle",
-              "63.962 (87,1%)"
+              "87%"
             ],
             [
               "Quattro stelle",
-              "3.143 (4,3%)"
+              "4%"
             ],
             [
               "Tre stelle",
-              "650 (0,9%)"
+              "meno dell’1%"
             ],
             [
               "Due stelle",
-              "558 (0,8%)"
+              "meno dell’1%"
             ],
             [
               "Una stella",
-              "5.098 (6,9%)"
+              "7%"
             ],
             [
               "Profilo rivendicato",
@@ -94801,7 +94799,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Gli screenshot sono del 19 ottobre 2026 e la tabella del 24 ottobre: il punteggio era lo stesso, la quota di risposte alle recensioni negative è passata dal 98% al 99% e le percentuali per stella non si sono mosse.",
+          "Gli screenshot sono del 19 ottobre 2026 e la tabella è stata aggiornata a novembre: il punteggio è rimasto 4,6 e le percentuali per stella, ora arrotondate, non si sono mosse.",
           "Il campione copriva recensioni in più lingue: il punteggio è quindi globale, non l’opinione di un solo mercato.",
           "Quello che la tabella non mostra è chi riceve l’invito e chi scrive di sua iniziativa. Da lì comincia il capitolo successivo."
         ]
@@ -94843,7 +94841,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Primo, le recensioni a cinque stelle arrivano molto più in fretta, e quasi tutte per invito: 100 in circa cinque giorni, 78 delle quali invitate. Quelle a una stella impiegano circa 18 giorni a raggiungere 100, e 92 sono spontanee. I due campioni coprono periodi diversi, quindi non misurano quanto gli inviti spostino il punteggio complessivo. Mostrano solo che le recensioni a cinque stelle vengono soprattutto da clienti invitati e quelle a una stella da clienti che hanno scritto di propria iniziativa.",
           "Secondo, le recensioni a una stella sono quasi quattro volte più lunghe. Descrivono un problema concreto, con date, prodotti e importi. Quelle a cinque stelle sono di solito una frase.",
-          "Terzo, una recensione a una stella su sette del nostro campione è un elogio con il voto sbagliato: 14 delle 100 hanno un testo positivo, come «Great hosting» o «easy to use», sotto una stella. Anche così, il 6,9% di 73.411 sono circa 5.100 persone molto insoddisfatte. La quota è piccola; il numero di persone no."
+          "Terzo, una recensione a una stella su sette del nostro campione è un elogio con il voto sbagliato: 14 delle 100 hanno un testo positivo, come «Great hosting» o «easy to use», sotto una stella. Anche così, il 7% di 73.830 sono circa 5.000 persone molto insoddisfatte. La quota è piccola; il numero di persone no."
         ]
       },
       {
@@ -94909,7 +94907,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ci si può fidare della Hostinger?",
         "paragraphs": [
-          "Secondo Trustpilot, sì. Il punteggio era 4,6 su 73.411 recensioni, con l’87,1% di cinque stelle. Il profilo indica che l’azienda risponde al 99% delle negative; nel nostro campione, 80 degli 86 reclami avevano una risposta, circa il 93%.",
+          "Secondo Trustpilot, sì. Il punteggio era 4,6 su 73.830 recensioni, con l’87% di cinque stelle. Il profilo indica che l’azienda risponde al 99% delle negative; nel nostro campione, 80 degli 86 reclami avevano una risposta, circa il 93%.",
           "La riserva riguarda il modo in cui il punteggio è costruito e che cosa dicono i reclami. Il profilo è gestito dall’azienda, che invita i clienti a recensire: nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. I reclami si concentrano sul supporto con l’IA senza modo di parlare con una persona, su fatturazione e rinnovo, e sui domini.",
           "In pratica: controlla la data di rinnovo, disattiva il rinnovo automatico se non vuoi continuare e leggi alcune recensioni a una stella e le risposte sul profilo prima di comprare, perché i numeri cambiano ogni mese."
         ]
@@ -94917,7 +94915,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Qual è il punteggio della Hostinger su Trustpilot? Un TrustScore di 4,6 su 5, da 73.411 recensioni, con l’87,1% di cinque stelle e il 6,9% di una stella.",
+          "Qual è il punteggio della Hostinger su Trustpilot? Un TrustScore di 4,6 su 5, da 73.830 recensioni, con l’87% di cinque stelle e il 7% di una stella.",
           "Le recensioni Hostinger su Trustpilot sono affidabili? Il profilo è rivendicato e gestito dall’azienda, che invita i clienti a recensire. Nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. Trustpilot dice che non verifica le recensioni una per una.",
           "Di cosa si lamentano i clienti Hostinger su Trustpilot? Negli 86 reclami letti tra le 100 recensioni a una stella più recenti, i temi principali erano il supporto con l’IA e l’impossibilità di parlare con una persona (circa 45), la fatturazione e il rinnovo (circa 38) e i domini (circa 27).",
           "La Hostinger risponde alle recensioni negative? Sì. La pagina dice che l’azienda risponde al 99% delle recensioni negative, di solito entro 24 ore, e che può usare l’IA nelle risposte. Nel nostro campione, 80 degli 86 reclami avevano una risposta.",
@@ -94987,8 +94985,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "2026년 10월 24일 기준 Hostinger의 Trustpilot 평점입니다. TrustScore 4.6, 초대 리뷰가 점수를 끌어올리는 방식, 불만의 중심인 청구와 갱신, 자동 갱신을 끄는 방법을 담았습니다.",
-    "metaDescription": "2026년 10월 24일 기준 Hostinger Trustpilot: TrustScore 4.6, 리뷰 73,411건. 불만은 AI 지원, 청구와 갱신, 도메인에 집중됩니다. 자동 갱신을 끄는 방법도 안내합니다.",
+    "description": "2026년 11월 기준 Hostinger의 Trustpilot 평점입니다. TrustScore 4.6, 초대 리뷰가 점수를 끌어올리는 방식, 불만의 중심인 청구와 갱신, 자동 갱신을 끄는 방법을 담았습니다.",
+    "metaDescription": "2026년 11월 기준 Hostinger Trustpilot: TrustScore 4.6, 리뷰 73,830건. 불만은 AI 지원, 청구와 갱신, 도메인에 집중됩니다. 자동 갱신을 끄는 방법도 안내합니다.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-07",
@@ -95003,13 +95001,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,411건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갔을 수 있고, 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 첫 기간 20% 할인은 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 받을 수 있습니다."
+          "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,830건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갔을 수 있고, 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 첫 기간 20% 할인은 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 받을 수 있습니다."
         ]
       },
       {
         "heading": "4.6이 말하는 것과 말하지 않는 것",
         "paragraphs": [
-          "4.6은 출발점일 뿐입니다. 이 점수에는 많은 것이 담겨 있고, 프로필 페이지 자체가 점수가 어떻게 만들어졌는지 알려 줍니다. 아래 표는 2026년 10월 24일 페이지에 나온 내용입니다."
+          "4.6은 출발점일 뿐입니다. 이 점수에는 많은 것이 담겨 있고, 프로필 페이지 자체가 점수가 어떻게 만들어졌는지 알려 줍니다. 아래 표는 2026년 11월 페이지에 나온 내용입니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -95023,27 +95021,27 @@ export const reviewsData: unknown[] = [
             ],
             [
               "리뷰",
-              "73,411"
+              "73,830"
             ],
             [
               "별 다섯 개",
-              "63,962 (87.1%)"
+              "87%"
             ],
             [
               "별 네 개",
-              "3,143 (4.3%)"
+              "4%"
             ],
             [
               "별 세 개",
-              "650 (0.9%)"
+              "1% 미만"
             ],
             [
               "별 두 개",
-              "558 (0.8%)"
+              "1% 미만"
             ],
             [
               "별 한 개",
-              "5,098 (6.9%)"
+              "7%"
             ],
             [
               "프로필 인증",
@@ -95072,7 +95070,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "페이지는 회사가 관리하고, 고객에게 리뷰를 권하며, Trustpilot도 리뷰를 하나하나 확인하지 않습니다. 스크린샷은 2026년 10월 19일, 표는 10월 24일 기준입니다. 평점은 같았고, 부정적 리뷰 답변율은 98%에서 99%가 되었으며, 별점별 비율은 그대로였습니다. 별 다섯 개가 87.1%여도, 그중 누가 초대를 받았는지는 표에서 알 수 없습니다. 다음 장에서 살펴봅니다."
+          "페이지는 회사가 관리하고, 고객에게 리뷰를 권하며, Trustpilot도 리뷰를 하나하나 확인하지 않습니다. 스크린샷은 2026년 10월 19일, 표는 11월에 갱신한 것입니다. 평점은 4.6으로 같았고, 별점별 비율은 반올림한 값 기준으로 그대로였습니다. 별 다섯 개가 87%여도, 그중 누가 초대를 받았는지는 표에서 알 수 없습니다. 다음 장에서 살펴봅니다."
         ],
         "images": [
           {
@@ -95128,7 +95126,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "첫째, 별 다섯 개 리뷰는 훨씬 빨리 쌓이고, 거의 모두 초대로 옵니다. 100건이 약 5일 만에 모였고, 그중 78건이 초대였습니다. 별 한 개 리뷰는 100건을 채우는 데 약 18일이 걸렸고, 92건이 자발적이었습니다. 두 표본은 기간이 달라서 초대가 전체 점수를 얼마나 움직이는지는 재지 못합니다. 별 다섯 개는 초대받은 고객이 대부분이고 별 한 개는 스스로 쓴 고객이 대부분이라는 점만 보여 줍니다.",
           "둘째, 별 한 개 리뷰는 거의 4배 깁니다. 날짜, 제품, 금액이 들어간 구체적인 문제를 설명합니다. 별 다섯 개 리뷰는 대개 한 문장입니다.",
-          "셋째, 별 한 개 리뷰 일곱 중 하나는 잘못된 평점이 붙은 칭찬입니다. 표본 100건 중 14건은 “Great hosting”이나 “easy to use” 같은 긍정적인 글인데 별 한 개가 달려 있었습니다. 그래도 73,411건의 6.9%는 약 5,100명이 매우 불만족했다는 뜻입니다. 비율은 작지만 사람 수는 작지 않습니다."
+          "셋째, 별 한 개 리뷰 일곱 중 하나는 잘못된 평점이 붙은 칭찬입니다. 표본 100건 중 14건은 “Great hosting”이나 “easy to use” 같은 긍정적인 글인데 별 한 개가 달려 있었습니다. 그래도 73,830건의 7%는 약 5,000명이 매우 불만족했다는 뜻입니다. 비율은 작지만 사람 수는 작지 않습니다."
         ]
       },
       {
@@ -95191,7 +95189,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger를 믿어도 될까요?",
         "paragraphs": [
-          "Trustpilot 기준으로는 그렇습니다. 확인한 시점에 점수는 리뷰 73,411건에 4.6이었고, 그중 87.1%가 별 다섯 개였습니다. 프로필에 따르면 회사는 부정적 리뷰의 99%에 답합니다. 우리 표본에서는 86건 불만 중 80건(약 93%)에 답변이 있었습니다.",
+          "Trustpilot 기준으로는 그렇습니다. 확인한 시점에 점수는 리뷰 73,830건에 4.6이었고, 그중 87%가 별 다섯 개였습니다. 프로필에 따르면 회사는 부정적 리뷰의 99%에 답합니다. 우리 표본에서는 86건 불만 중 80건(약 93%)에 답변이 있었습니다.",
           "단서는 점수가 어떻게 만들어졌는지, 그리고 불만의 내용입니다. 프로필은 회사가 관리합니다. 표본에서 최신 별 다섯 개 100건 중 78건은 초대받은 리뷰였고, 최신 별 한 개 100건 중 92건은 자발적이었습니다. 불만은 사람에게 닿지 않는 AI 지원, 청구와 갱신, 도메인에 집중됩니다. 호스팅에서는 자동 갱신이 만료 전에 알아서 청구하므로, 청구와의 연결은 우리의 해석입니다.",
           "실제로는 이렇게 하세요. 갱신일을 확인하고, 계속 쓰지 않을 생각이면 자동 갱신을 끄고, 구매 전에 프로필에서 별 한 개 리뷰를 읽어 보세요. 숫자는 매달 바뀌기 때문입니다."
         ]
@@ -95199,7 +95197,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "Hostinger는 Trustpilot 평점이 좋은가요? 확인한 시점에 TrustScore는 5점 만점에 4.6이었고, 별 다섯 개가 87.1%, 별 한 개가 6.9%였습니다.",
+          "Hostinger는 Trustpilot 평점이 좋은가요? 확인한 시점에 TrustScore는 5점 만점에 4.6이었고, 별 다섯 개가 87%, 별 한 개가 7%였습니다.",
           "Hostinger의 가장 흔한 불만은 무엇인가요? 최신 별 한 개 리뷰 100건 중 읽은 86건의 불만에서는 AI 지원과 사람에게 닿지 않는 문제(약 45건), 청구와 갱신(약 38건), 도메인(약 27건)이 가장 많았습니다.",
           "Hostinger는 부정적 리뷰에 답하나요? 네. 페이지에 따르면 부정적 리뷰의 99%에 답하며, 보통 24시간 이내입니다. 표본에서는 86건 중 80건의 불만에 답변이 있었습니다.",
           "Hostinger 자동 갱신은 어떻게 끄나요? hPanel에서 프로필의 청구, 구독 순으로 열고 서비스 옆의 토글 스위치를 누른 뒤, 주의 사항을 확인하고 확정하세요. 제품은 만료일까지 계속 활성 상태입니다.",
@@ -95268,8 +95266,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger の Trustpilot 評価（2026年10月24日時点）。TrustScore 4.6、招待レビューによる押し上げ、苦情の中心が請求と更新である点、自動更新の止め方をまとめました。",
-    "metaDescription": "Hostinger の Trustpilot は 2026年10月24日時点で TrustScore 4.6、レビュー 73,411 件。苦情の中心は AI サポート、請求と更新、ドメイン。自動更新の止め方も紹介します。",
+    "description": "Hostinger の Trustpilot 評価（2026年11月時点）。TrustScore 4.6、招待レビューによる押し上げ、苦情の中心が請求と更新である点、自動更新の止め方をまとめました。",
+    "metaDescription": "Hostinger の Trustpilot は 2026年11月時点で TrustScore 4.6、レビュー 73,830 件。苦情の中心は AI サポート、請求と更新、ドメイン。自動更新の止め方も紹介します。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-07",
@@ -95284,13 +95282,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "はい、ただし注意点があります。読み取った時点で、Hostinger の Trustpilot の TrustScore は 4.6、レビューは 73,411 件で、企業は否定的なレビューのほぼすべてに返信していました。ただし、企業が顧客にレビューを呼びかけているため平均が押し上げられている可能性があり、苦情の中心は AI サポート、請求と更新、ドメインです。ホスティングでは、請求の苦情は自動更新に注意が必要という話につながります。止め方は下で説明します。初回期間の 20% 割引は [Hostinger の SONAR20 クーポン](/ja/coupons/hostinger) で受けられます。"
+          "はい、ただし注意点があります。読み取った時点で、Hostinger の Trustpilot の TrustScore は 4.6、レビューは 73,830 件で、企業は否定的なレビューのほぼすべてに返信していました。ただし、企業が顧客にレビューを呼びかけているため平均が押し上げられている可能性があり、苦情の中心は AI サポート、請求と更新、ドメインです。ホスティングでは、請求の苦情は自動更新に注意が必要という話につながります。止め方は下で説明します。初回期間の 20% 割引は [Hostinger の SONAR20 クーポン](/ja/coupons/hostinger) で受けられます。"
         ]
       },
       {
         "heading": "4.6 が示すことと示さないこと",
         "paragraphs": [
-          "4.6 は出発点にすぎません。この数字には多くのことが詰まっていて、プロフィールのページ自体が数字の作られ方を説明しています。下の表は 2026年10月24日にページに表示されていた内容です。"
+          "4.6 は出発点にすぎません。この数字には多くのことが詰まっていて、プロフィールのページ自体が数字の作られ方を説明しています。下の表は 2026年11月にページに表示されていた内容です。"
         ],
         "comparisonTable": {
           "headers": [
@@ -95304,27 +95302,27 @@ export const reviewsData: unknown[] = [
             ],
             [
               "レビュー数",
-              "73,411"
+              "73,830"
             ],
             [
               "星 5 つ",
-              "63,962（87.1%）"
+              "87%"
             ],
             [
               "星 4 つ",
-              "3,143（4.3%）"
+              "4%"
             ],
             [
               "星 3 つ",
-              "650（0.9%）"
+              "1% 未満"
             ],
             [
               "星 2 つ",
-              "558（0.8%）"
+              "1% 未満"
             ],
             [
               "星 1 つ",
-              "5,098（6.9%）"
+              "7%"
             ],
             [
               "プロフィールの認証",
@@ -95353,7 +95351,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "企業が管理するページで、顧客への呼びかけがあり、Trustpilot も一件ずつは確認していません。スクリーンショットは 2026年10月19日、表は10月24日のもので、評価は同じ、否定的なレビューへの返信率は 98% から 99% になり、星ごとの割合は変わっていません。星 5 つが 87.1% でも、そのうち誰が招待されたのかは表からは分かりません。次の章で見ます。"
+          "企業が管理するページで、顧客への呼びかけがあり、Trustpilot も一件ずつは確認していません。スクリーンショットは 2026年10月19日、表は11月に更新したもので、評価は 4.6 のまま、星ごとの割合は丸めた値で変わっていません。星 5 つが 87% でも、そのうち誰が招待されたのかは表からは分かりません。次の章で見ます。"
         ],
         "images": [
           {
@@ -95409,7 +95407,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "一つ目。星 5 つのレビューは、ずっと速く届き、しかもほとんどが招待によるものです。100 件は約 5 日で集まり、そのうち 78 件が招待でした。星 1 つは 100 件を集めるのに約 18 日かかり、92 件が自発的でした。二つのサンプルは期間が異なるため、招待が全体の評価をどれだけ動かしているかは測れません。星 5 つは招待された顧客が中心で、星 1 つは自発的に書いた顧客が中心だ、という点だけが分かります。",
           "二つ目。星 1 つのレビューは、ほぼ 4 倍の長さです。日付、製品、金額を挙げた具体的な問題が書かれています。星 5 つのレビューは、たいてい一文です。",
-          "三つ目。星 1 つのレビューの七件に一件は、誤った評価で付けられた称賛です。100 件中 14 件は、「Great hosting」や「easy to use」のような好意的な文章なのに星 1 つでした。それでも、73,411 件の 6.9% は約 5,100 人が非常に不満だったということです。割合は小さくても、人数は小さくありません。"
+          "三つ目。星 1 つのレビューの七件に一件は、誤った評価で付けられた称賛です。100 件中 14 件は、「Great hosting」や「easy to use」のような好意的な文章なのに星 1 つでした。それでも、73,830 件の 7% は約 5,000 人が非常に不満だったということです。割合は小さくても、人数は小さくありません。"
         ]
       },
       {
@@ -95472,7 +95470,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger は信頼できますか？",
         "paragraphs": [
-          "Trustpilot で見るなら、はいです。読み取った時点で、スコアは 73,411 件のレビューで 4.6、そのうち 87.1% が星 5 つでした。ページによると、企業は否定的なレビューの 99% に返信しています。私たちのサンプルでは 86 件の苦情のうち 80 件（約 93%）に返信がありました。",
+          "Trustpilot で見るなら、はいです。読み取った時点で、スコアは 73,830 件のレビューで 4.6、そのうち 87% が星 5 つでした。ページによると、企業は否定的なレビューの 99% に返信しています。私たちのサンプルでは 86 件の苦情のうち 80 件（約 93%）に返信がありました。",
           "注意点は、スコアの作られ方と苦情の中身です。プロフィールは企業が管理し、サンプルでは直近の星 5 つの 100 件のうち 78 件が招待によるもので、直近の星 1 つの 100 件のうち 92 件は自発的でした。苦情は、人に繋がらない AI サポート、請求と更新、ドメインに集中しています。ホスティングでは自動更新が期限の前に自動で請求するため、請求との結びつきは私たちの読みです。",
           "実際には、更新日を確認し、続けるつもりがなければ自動更新をオフにして、購入の前にプロフィールの星 1 つのレビューを読んでください。数字は毎月変わるからです。"
         ]
@@ -95480,7 +95478,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "Hostinger の Trustpilot 評価は高いですか？読み取った時点で、TrustScore は 5 点満点中 4.6 でした。星 5 つが 87.1%、星 1 つが 6.9% です。",
+          "Hostinger の Trustpilot 評価は高いですか？読み取った時点で、TrustScore は 5 点満点中 4.6 でした。星 5 つが 87%、星 1 つが 7% です。",
           "Hostinger の主な苦情は何ですか？直近の星 1 つのレビュー 100 件から読んだ 86 件の苦情では、AI サポートと人に繋がらないこと（約 45 件）、請求と更新（約 38 件）、ドメイン（約 27 件）が上位でした。",
           "Hostinger は否定的なレビューに返信しますか？はい。ページによると、否定的なレビューの 99% に返信し、多くは 24 時間以内です。サンプルでは、86 件の苦情のうち 80 件に返信がありました。",
           "Hostinger の自動更新はどう止めますか？ hPanel でプロフィールから「請求」「サブスクリプション」の順に開き、サービスの横のトグルスイッチをクリックして、注意事項を確認し確定します。製品は期限日まで有効なままです。",
@@ -95549,8 +95547,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger 在 Trustpilot 的評分（2026 年 10 月 24 日）：TrustScore 4.6、邀請評價如何拉高分數、投訴集中在帳單與續訂，以及如何關閉自動續訂。",
-    "metaDescription": "2026 年 10 月 24 日 Hostinger 在 Trustpilot：TrustScore 4.6，共 73,411 則評價。投訴集中在 AI 客服、帳單與續訂、網域，並附關閉自動續訂的方法。",
+    "description": "Hostinger 在 Trustpilot 的評分（2026 年 11 月）：TrustScore 4.6、邀請評價如何拉高分數、投訴集中在帳單與續訂，以及如何關閉自動續訂。",
+    "metaDescription": "2026 年 11 月 Hostinger 在 Trustpilot：TrustScore 4.6，共 73,830 則評價。投訴集中在 AI 客服、帳單與續訂、網域，並附關閉自動續訂的方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-07",
@@ -95565,13 +95563,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,411 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分可能因此被拉高，投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得。"
+          "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,830 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分可能因此被拉高，投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得。"
         ]
       },
       {
         "heading": "4.6 說明了什麼，沒有說明什麼",
         "paragraphs": [
-          "4.6 只是一個起點。這個分數包含很多資訊，而個人檔案本身就說明了分數是怎樣形成的。下表彙整了 2026 年 10 月 24 日頁面上顯示的內容。"
+          "4.6 只是一個起點。這個分數包含很多資訊，而個人檔案本身就說明了分數是怎樣形成的。下表彙整了 2026 年 11 月頁面上顯示的內容。"
         ],
         "comparisonTable": {
           "headers": [
@@ -95585,27 +95583,27 @@ export const reviewsData: unknown[] = [
             ],
             [
               "評價數",
-              "73,411"
+              "73,830"
             ],
             [
               "五星",
-              "63,962（87.1%）"
+              "87%"
             ],
             [
               "四星",
-              "3,143（4.3%）"
+              "4%"
             ],
             [
               "三星",
-              "650（0.9%）"
+              "不到 1%"
             ],
             [
               "二星",
-              "558（0.8%）"
+              "不到 1%"
             ],
             [
               "一星",
-              "5,098（6.9%）"
+              "7%"
             ],
             [
               "檔案已認領",
@@ -95634,7 +95632,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "檔案由公司管理，公司會邀請客戶評價，Trustpilot 也不會逐則核實。截圖是 2026 年 10 月 19 日的，表格是 10 月 24 日的：分數不變，負面評價回覆率從 98% 升到 99%，各星占比沒有變化。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就從這裡開始。"
+          "檔案由公司管理，公司會邀請客戶評價，Trustpilot 也不會逐則核實。截圖是 2026 年 10 月 19 日的，表格是 11 月更新的：分數仍是 4.6，各星占比四捨五入後沒有變化。五星占 87%，但表格看不出其中有多少是受邀的。下一章就從這裡開始。"
         ],
         "images": [
           {
@@ -95690,7 +95688,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "第一，五星評價來得快得多，而且幾乎都是受邀的。100 則在約 5 天內就湊齊了，其中 78 則是受邀的。一星評價用了約 18 天才湊夠 100 則，其中 92 則是自發的。兩組樣本的時間跨度不同，無法衡量邀請把總分拉高了多少。它只說明五星評價主要來自受邀客戶，一星評價主要來自主動留言的客戶。",
           "第二，一星評價的篇幅幾乎是五星的四倍。它們描述的是具體問題，包括日期、產品和金額。五星評價通常只有一句話。",
-          "第三，樣本中每七則一星評價裡就有一則是給錯了星的好評：100 則中有 14 則文字是正面的，比如「Great hosting」或「easy to use」，卻只給了一星。即便如此，73,411 則的 6.9% 仍然約有 5,100 人非常不滿。比例很小，人數卻不小。"
+          "第三，樣本中每七則一星評價裡就有一則是給錯了星的好評：100 則中有 14 則文字是正面的，比如「Great hosting」或「easy to use」，卻只給了一星。即便如此，73,830 則的 7% 仍然約有 5,000 人非常不滿。比例很小，人數卻不小。"
         ]
       },
       {
@@ -95753,7 +95751,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "可以信任 Hostinger 嗎？",
         "paragraphs": [
-          "從 Trustpilot 來看，可以。在查閱的時間點，分數為 4.6，共 73,411 則評價，其中 87.1% 是五星。檔案顯示公司回覆了 99% 的負面評價；在我們的樣本中，86 則投訴裡有 80 則（約 93%）得到了回覆。",
+          "從 Trustpilot 來看，可以。在查閱的時間點，分數為 4.6，共 73,830 則評價，其中 87% 是五星。檔案顯示公司回覆了 99% 的負面評價；在我們的樣本中，86 則投訴裡有 80 則（約 93%）得到了回覆。",
           "需要留意的是分數是怎麼形成的，以及投訴說了什麼。檔案由公司管理。在樣本中，最近 100 則五星評價裡有 78 則是受邀的，最近 100 則一星評價裡有 92 則是自發的。投訴集中在無法找到真人的 AI 客服、帳單與續訂，以及網域。在主機服務上，自動續訂會在到期前自動扣款，它與帳單投訴的關聯是我們的看法。",
           "實際操作：確認續訂日期，不打算繼續的話就關閉自動續訂；購買前打開檔案讀幾則一星評價，因為這些數字每個月都會變。"
         ]
@@ -95761,7 +95759,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "Hostinger 在 Trustpilot 上的評分高嗎？在查閱的時間點，TrustScore 為滿分 5 分中的 4.6，其中五星占 87.1%，一星占 6.9%。",
+          "Hostinger 在 Trustpilot 上的評分高嗎？在查閱的時間點，TrustScore 為滿分 5 分中的 4.6，其中五星占 87%，一星占 7%。",
           "Hostinger 最常見的投訴是什麼？在讀過的最近 100 則一星評價中的 86 則投訴裡，主要主題是 AI 客服和無法找到真人（約 45 則）、帳單和續訂（約 38 則）以及網域（約 27 則）。",
           "Hostinger 會回覆負面評價嗎？會。頁面顯示，公司回覆了 99% 的負面評價，通常在 24 小時內。在我們的樣本中，86 則投訴中有 80 則有回覆。",
           "如何關閉 Hostinger 的自動續訂？在 hPanel 中打開個人檔案，依序進入帳單和訂閱，找到服務並點擊旁邊的開關，閱讀提示後確認。產品會保持有效直到到期日。",
@@ -95830,8 +95828,8 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "Hostinger 在 Trustpilot 的评分（2026 年 10 月 24 日）：TrustScore 4.6、邀请评价如何拉高分数、投诉集中在账单与续费，以及如何关闭自动续费。",
-    "metaDescription": "2026 年 10 月 24 日 Hostinger 在 Trustpilot：TrustScore 4.6，共 73,411 条评价。投诉集中在 AI 客服、账单与续费、域名，并附关闭自动续费的方法。",
+    "description": "Hostinger 在 Trustpilot 的评分（2026 年 11 月）：TrustScore 4.6、邀请评价如何拉高分数、投诉集中在账单与续费，以及如何关闭自动续费。",
+    "metaDescription": "2026 年 11 月 Hostinger 在 Trustpilot：TrustScore 4.6，共 73,830 条评价。投诉集中在 AI 客服、账单与续费、域名，并附关闭自动续费的方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
     "updatedAt": "2026-11-07",
@@ -95846,13 +95844,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,411 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分可能因此被拉高，投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得。"
+          "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,830 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分可能因此被拉高，投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得。"
         ]
       },
       {
         "heading": "4.6 说明了什么，没有说明什么",
         "paragraphs": [
-          "4.6 只是一个起点。这个分数包含很多信息，而个人主页本身就说明了分数是怎样形成的。下表汇总了 2026 年 10 月 24 日页面上显示的内容。"
+          "4.6 只是一个起点。这个分数包含很多信息，而个人主页本身就说明了分数是怎样形成的。下表汇总了 2026 年 11 月页面上显示的内容。"
         ],
         "comparisonTable": {
           "headers": [
@@ -95866,27 +95864,27 @@ export const reviewsData: unknown[] = [
             ],
             [
               "评价数",
-              "73,411"
+              "73,830"
             ],
             [
               "五星",
-              "63,962（87.1%）"
+              "87%"
             ],
             [
               "四星",
-              "3,143（4.3%）"
+              "4%"
             ],
             [
               "三星",
-              "650（0.9%）"
+              "不到 1%"
             ],
             [
               "二星",
-              "558（0.8%）"
+              "不到 1%"
             ],
             [
               "一星",
-              "5,098（6.9%）"
+              "7%"
             ],
             [
               "主页已认领",
@@ -95915,7 +95913,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "主页由公司管理，公司会邀请客户评价，Trustpilot 也不会逐条核实。截图是 2026 年 10 月 19 日的，表格是 10 月 24 日的：分数不变，负面评价回复率从 98% 升到 99%，各星占比没有变化。五星占 87.1%，但表格看不出其中有多少是受邀的。下一章就从这里开始。"
+          "主页由公司管理，公司会邀请客户评价，Trustpilot 也不会逐条核实。截图是 2026 年 10 月 19 日的，表格是 11 月更新的：分数仍是 4.6，各星占比按四舍五入后没有变化。五星占 87%，但表格看不出其中有多少是受邀的。下一章就从这里开始。"
         ],
         "images": [
           {
@@ -95971,7 +95969,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "第一，五星评价来得快得多，而且几乎都是受邀的。100 条在约 5 天内就凑齐了，其中 78 条是受邀的。一星评价用了约 18 天才凑够 100 条，其中 92 条是自发的。两组样本的时间跨度不同，无法衡量邀请把总分拉高了多少。它只说明五星评价主要来自受邀客户，一星评价主要来自主动留言的客户。",
           "第二，一星评价的篇幅几乎是五星的四倍。它们描述的是具体问题，包括日期、产品和金额。五星评价通常只有一句话。",
-          "第三，样本中每七条一星评价里就有一条是给错了星的好评：100 条中有 14 条文字是正面的，比如“Great hosting”或“easy to use”，却只给了一星。即便如此，73,411 条的 6.9% 仍然约有 5,100 人非常不满。比例很小，人数却不小。"
+          "第三，样本中每七条一星评价里就有一条是给错了星的好评：100 条中有 14 条文字是正面的，比如“Great hosting”或“easy to use”，却只给了一星。即便如此，73,830 条的 7% 仍然约有 5,000 人非常不满。比例很小，人数却不小。"
         ]
       },
       {
@@ -96034,7 +96032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "可以信任 Hostinger 吗？",
         "paragraphs": [
-          "从 Trustpilot 来看，可以。在查阅的时间点，分数为 4.6，共 73,411 条评价，其中 87.1% 是五星。主页显示公司回复了 99% 的负面评价；在我们的样本中，86 条投诉里有 80 条（约 93%）得到了回复。",
+          "从 Trustpilot 来看，可以。在查阅的时间点，分数为 4.6，共 73,830 条评价，其中 87% 是五星。主页显示公司回复了 99% 的负面评价；在我们的样本中，86 条投诉里有 80 条（约 93%）得到了回复。",
           "需要留意的是分数是怎么形成的，以及投诉说了什么。主页由公司管理。在样本中，最近 100 条五星评价里有 78 条是受邀的，最近 100 条一星评价里有 92 条是自发的。投诉集中在无法找到真人的 AI 客服、账单与续费，以及域名。在主机服务上，自动续费会在到期前自动扣款，它与账单投诉的联系是我们的看法。",
           "实际操作：确认续费日期，不打算继续的话就关闭自动续费；购买前打开主页读几条一星评价，因为这些数字每个月都会变。"
         ]
@@ -96042,7 +96040,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "Hostinger 在 Trustpilot 上的评分高吗？在查阅的时间点，TrustScore 为满分 5 分中的 4.6，其中五星占 87.1%，一星占 6.9%。",
+          "Hostinger 在 Trustpilot 上的评分高吗？在查阅的时间点，TrustScore 为满分 5 分中的 4.6，其中五星占 87%，一星占 7%。",
           "Hostinger 最常见的投诉是什么？在读过的最近 100 条一星评价中的 86 条投诉里，主要主题是 AI 客服和无法找到真人（约 45 条）、账单和续费（约 38 条）以及域名（约 27 条）。",
           "Hostinger 会回复负面评价吗？会。页面显示，公司回复了 99% 的负面评价，通常在 24 小时内。在我们的样本中，86 条投诉中有 80 条有回复。",
           "如何关闭 Hostinger 的自动续费？在 hPanel 中打开个人资料，依次进入账单和订阅，找到服务并点击旁边的开关，阅读提示后确认。产品会保持有效直到到期日。",
@@ -100209,7 +100207,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prazo para chegar antes do Natal",
         "paragraphs": [
-          "A Let's Eat It não tem entrega expressa. O prazo segue a política de frete da loja e conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, com prazos intermediários para as outras regiões. A política padrão da loja conta de 5 a 10 dias úteis depois do despacho, e o prazo do seu CEP aparece no carrinho. O frete é calculado à parte, pelo CEP, e dá para simular na página do produto.",
+          "A Let's Eat It não tem entrega expressa. O prazo segue a política de frete da loja e conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, com prazos intermediários para as outras regiões. O valor e o prazo do frete do seu CEP aparecem só no checkout, depois de preencher o endereço.",
           "Para um presente com data, a conta é de trás para frente: partindo do dia do Natal, desconte os dias úteis da sua região e faça o pedido antes disso. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
         ]
       },
@@ -101324,6 +101322,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: o rótulo da pasta ao whey, com açúcar, adoçantes, lactose e calorias.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa-discover.webp",
@@ -101589,7 +101588,7 @@ export const reviewsData: unknown[] = [
           "Whey: R$ 224,39 o pote de 900 g."
         ],
         "postParagraphs": [
-          "O cupom DREMCASACOMCECILIA dá 10% de desconto em todo o site, em todas as formas de pagamento, e soma com as promoções. O frete grátis conta o total já com o cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. O passo a passo está em [como usar o cupom da Dr. Peanut](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Para saber quem fabrica e como funcionam as trocas, veja [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel)."
+          "O cupom DREMCASACOMCECILIA dá 10% de desconto em todo o site, em todas as formas de pagamento, e soma com as promoções. O frete grátis conta o valor antes do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. O passo a passo está em [como usar o cupom da Dr. Peanut](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Para saber quem fabrica e como funcionam as trocas, veja [se a Dr. Peanut é confiável](/reviews/dr-peanut-e-confiavel)."
         ]
       },
       {
@@ -103847,7 +103846,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Mais Mu é uma empresa registrada, com CNPJ ativo e site oficial, mas em outubro a reputação no Reclame Aqui estava Regular. Veja trocas, reembolso e o que pesa na compra.",
+    "description": "A Mais Mu é uma empresa registrada, com CNPJ ativo e site oficial, e em novembro a reputação no Reclame Aqui estava Boa. Veja trocas, reembolso e o que pesa na compra.",
     "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. A marca é confiável? Veja a empresa, o CNPJ, as regras de troca e a reputação no Reclame Aqui.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -103862,7 +103861,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Mais Mu é uma empresa registrada, com CNPJ ativo e sede em São Paulo. A reputação pede atenção: em outubro, no Reclame Aqui, a loja estava como Regular, com a entrega como principal queixa. Os capítulos abaixo mostram o que pesa na compra; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
+          "Sim, a Mais Mu é uma empresa registrada, com CNPJ ativo e sede em São Paulo. A reputação melhorou: em novembro, no Reclame Aqui, a loja estava como Boa, com a entrega como principal queixa. Os capítulos abaixo mostram o que pesa na compra; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
         ]
       },
       {
@@ -103983,8 +103982,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Em outubro, a Mais Mu estava como Regular no Reclame Aqui nos últimos 6 meses, com nota 6,4 em 10. Nesse período, 95,5% das 112 reclamações foram respondidas, 67,9% foram resolvidas e 47,2% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos últimos 12 meses, a reputação era Boa, com nota 7,2 e 98,3% das reclamações respondidas. A queda veio no meio dos últimos 6 meses.",
-          "Na aba geral, as queixas mais citadas são produto não recebido e atraso na entrega, seguidas de produto com defeito. A loja é real e tem CNPJ ativo desde 2014. O que mudou foi a reputação recente, e a entrega é onde ela pesa. O perfil muda com o tempo, então confira de novo no dia da compra.",
+          "Em novembro, a Mais Mu estava como Boa no Reclame Aqui nos últimos 6 meses, com nota 7,1 em 10. Nesse período, 92,7% das 109 reclamações foram respondidas, 76,5% foram resolvidas e 58,8% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos 12 meses, a reputação era Boa na leitura de outubro, com nota 7,2 e 98,3% das reclamações respondidas. Em outubro, a aba de 6 meses ainda estava Regular.",
+          "Na aba geral, as queixas mais citadas são produto não recebido e atraso na entrega, seguidas de produto com defeito. A loja é real e tem CNPJ ativo desde 2014. O que mudou foi a reputação recente, que voltou a Boa, e a entrega é onde ela ainda pesa. O perfil muda com o tempo, então confira de novo no dia da compra.",
           "Na prática, acompanhe o rastreio desde a postagem e guarde o número do pedido. Se o prazo estourar, é com esses dados que você abre o chamado. Os números completos, aba por aba, estão em [Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/mais-mu-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -104002,14 +104001,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Mais Mu?",
         "paragraphs": [
-          "Do lado da empresa, a Mais Mu tem os dados que um comprador procura: razão social, CNPJ ativo, sede, site oficial identificado e regras de troca e reembolso publicadas. O ponto de atenção é a reputação no Reclame Aqui: em outubro, nos últimos 6 meses, a loja estava como Regular, com a entrega como queixa principal.",
+          "Do lado da empresa, a Mais Mu tem os dados que um comprador procura: razão social, CNPJ ativo, sede, site oficial identificado e regras de troca e reembolso publicadas. O ponto de atenção é a reputação no Reclame Aqui: em novembro, nos últimos 6 meses, a loja estava como Boa, depois de uma fase Regular, e a entrega segue como queixa principal.",
           "Se você for comprar, confira o endereço e o CNPJ no rodapé, acompanhe o rastreio do pedido e guarde o número. Use o cupom pelo checkout do site oficial."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Mais Mu é confiável? A loja é operada por empresa registrada, com CNPJ ativo desde 2014 e trocas publicadas no site. Em outubro, a reputação no Reclame Aqui era Regular nos últimos 6 meses, com nota 6,4, e a entrega era a principal queixa.",
+          "A Mais Mu é confiável? A loja é operada por empresa registrada, com CNPJ ativo desde 2014 e trocas publicadas no site. Em novembro, a reputação no Reclame Aqui era Boa nos últimos 6 meses, com nota 7,1, e a entrega era a principal queixa.",
           "De qual empresa é a Mais Mu? A loja é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., nome que aparece na política de privacidade do site.",
           "Qual é o CNPJ da Mais Mu? O CNPJ é 21.526.148/0001-34. Na consulta pública, ele aparece como ativo desde 2014.",
           "O site da Mais Mu é o oficial e como conferir? O endereço oficial é lojamaismu.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública.",
@@ -104060,8 +104059,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Em outubro, a Mais Mu tinha reputação Regular no Reclame Aqui nos últimos seis meses (nota 6,4). Veja as queixas mais comuns e o que fazer se o pedido der problema.",
-    "metaDescription": "Com o MMEMCASACOMCECILIA, 10% OFF na Mais Mu: reputação Regular (6,4) no Reclame Aqui em outubro, 67,9% resolvidas e queixas de entrega.",
+    "description": "Em novembro, a Mais Mu tinha reputação Boa no Reclame Aqui nos últimos seis meses (nota 7,1). Veja as queixas mais comuns e o que fazer se o pedido der problema.",
+    "metaDescription": "Com o MMEMCASACOMCECILIA, 10% OFF na Mais Mu: reputação Boa (7,1) no Reclame Aqui em novembro, 76,5% resolvidas e queixas de entrega.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
     "updatedAt": "2026-11-07",
@@ -104075,7 +104074,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Em outubro, a reputação da Mais Mu no Reclame Aqui era Regular nos últimos seis meses, com nota 6,4, e Boa em 12 meses. A loja responde quase todas, mas nem todas ficam resolvidas. Abaixo estão os números, as queixas e o que fazer se o pedido der problema; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
+          "Em novembro, a reputação da Mais Mu no Reclame Aqui era Boa nos últimos seis meses, com nota 7,1, e também Boa em 12 meses. A loja responde quase todas, mas nem todas ficam resolvidas. Abaixo estão os números, as queixas e o que fazer se o pedido der problema; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
         ]
       },
       {
@@ -104088,7 +104087,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Mais Mu no Reclame Aqui",
         "paragraphs": [
-          "O perfil é o Mais Mu, em Suplementos Alimentares e Fórmulas. Na leitura de 20/10/2026, a aba de 6 meses é a mais fraca das três:"
+          "O perfil é o Mais Mu, em Suplementos Alimentares e Fórmulas. A aba de 6 meses é da leitura de 07/11/2026, e as de 12 meses e geral, da leitura de outubro. A de 6 meses continua a mais fraca das três:"
         ],
         "images": [
           {
@@ -104102,83 +104101,83 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Indicador",
-            "6 meses (01/04/2026 a 30/09/2026)",
+            "6 meses (01/05/2026 a 31/10/2026)",
             "12 meses (01/10/2025 a 30/09/2026)",
             "Geral (21/10/2023 a 20/10/2026)"
           ],
           "rows": [
             [
               "Reputação",
-              "Regular",
+              "Boa",
               "Boa",
               "Boa"
             ],
             [
               "Nota",
-              "6,4",
+              "7,1",
               "7,2",
               "7,7"
             ],
             [
               "Reclamações recebidas",
-              "112",
+              "109",
               "290",
               "770"
             ],
             [
               "Respondidas",
-              "95,5%",
+              "92,7%",
               "98,3%",
               "98,8%"
             ],
             [
               "Aguardando resposta",
-              "0",
+              "3",
               "0",
               "1"
             ],
             [
               "Resolvidas",
-              "67,9%",
+              "76,5%",
               "76,3%",
               "81,7%"
             ],
             [
               "Voltariam a fazer negócio",
-              "47,2%",
+              "58,8%",
               "59,3%",
               "65,9%"
             ],
             [
               "Reclamações avaliadas",
-              "53",
+              "51",
               "135",
               "374"
             ],
             [
               "Nota média do consumidor",
-              "5,19",
+              "5,76",
               "5,91",
               "6,42"
             ],
             [
               "Tempo médio de resposta",
-              "24 dias e 13 horas",
+              "26 dias e 7 horas",
               "12 dias e 4 horas",
               "12 dias e 13 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "A aba de 6 meses é a mais fraca das três. Tem a menor nota (6,4), a menor taxa de resolução (67,9%), a menor taxa de respostas (95,5%) e o maior tempo médio de resposta, de 24 dias e 13 horas.",
+          "A aba de 6 meses é a mais fraca das três. Tem a menor nota (7,1), a menor taxa de respostas (92,7%) e o maior tempo médio de resposta, de 26 dias e 7 horas. A taxa de resolução, 76,5%, ficou perto da dos 12 meses.",
           "O Reclame Aqui também mostra uma nota de compra separada da reputação: 4,7 de 5, a partir de 620 avaliações verificadas dos últimos 6 meses. Ela mede a experiência de quem comprou, não o atendimento a reclamações."
         ]
       },
       {
         "heading": "Como a reputação mudou",
         "paragraphs": [
-          "Na mesma leitura, o gráfico de histórico dos últimos 6 meses tinha os dois primeiros pontos em Boa e os quatro seguintes em Regular. A reputação saiu de Boa para Regular no meio desse período.",
-          "A aba de 12 meses segue em Boa, com nota 7,2, porque inclui os seis meses anteriores a esses. O gráfico não mostra as causas da mudança. Ele mostra só quando a faixa mudou."
+          "Na leitura de outubro, o gráfico de histórico dos últimos 6 meses tinha os dois primeiros pontos em Boa e os quatro seguintes em Regular. Em novembro, a aba de 6 meses estava de volta a Boa, com nota 7,1.",
+          "A aba de 12 meses estava em Boa na leitura de outubro, com nota 7,2, porque inclui os seis meses anteriores a esses. O gráfico não mostra as causas da mudança. Ele mostra só quando a faixa mudou."
         ],
         "images": [
           {
@@ -104215,9 +104214,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Mais Mu responde às reclamações",
         "paragraphs": [
-          "A loja responde quase todas: 95,5% nos últimos 6 meses, 98,3% nos 12 meses e 98,8% na aba geral. Nos 6 meses, nenhuma reclamação estava aguardando resposta.",
-          "Responder não é o mesmo que resolver. Nos 6 meses, 67,9% das reclamações foram resolvidas. Entre os consumidores que avaliaram, 47,2% disseram que voltariam a comprar.",
-          "A nota média do consumidor nos 6 meses foi 5,19, e só 53 das 112 reclamações foram avaliadas. Essa nota vem de uma parte dos casos, não de todos os compradores."
+          "A loja responde quase todas: 92,7% nos últimos 6 meses, 98,3% nos 12 meses e 98,8% na aba geral. Nos 6 meses, 3 reclamações estavam aguardando resposta.",
+          "Responder não é o mesmo que resolver. Nos 6 meses, 76,5% das reclamações foram resolvidas. Entre os consumidores que avaliaram, 58,8% disseram que voltariam a comprar.",
+          "A nota média do consumidor nos 6 meses foi 5,76, e só 51 das 109 reclamações foram avaliadas. Essa nota vem de uma parte dos casos, não de todos os compradores."
         ],
         "image": {
           "src": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa.webp",
@@ -104257,16 +104256,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Mais Mu?",
         "paragraphs": [
-          "Em outubro, a reputação recente da Mais Mu no Reclame Aqui era Regular, com nota 6,4, enquanto a janela de 12 meses seguia Boa, com nota 7,2. A loja responde quase todas as reclamações (95,5% nos últimos 6 meses), mas resolveu 67,9% delas, e 47,2% de quem avaliou disse que voltaria a comprar.",
+          "Em novembro, a reputação recente da Mais Mu no Reclame Aqui era Boa, com nota 7,1, e a janela de 12 meses também era Boa, com nota 7,2 na leitura de outubro. A loja responde quase todas as reclamações (92,7% nos últimos 6 meses), resolveu 76,5% delas, e 58,8% de quem avaliou disse que voltaria a comprar.",
           "Dá para comprar com atenção: guarde o número do pedido, acompanhe o rastreio e, se algo atrasar, escreva para o canal de atendimento da loja. Para a visão geral da empresa, veja [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Mais Mu é confiável segundo o Reclame Aqui? O perfil mostrava reputação Regular nos últimos 6 meses, com nota 6,4, e Boa nos 12 meses, com nota 7,2. Veja a análise completa em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
-          "Qual a nota da Mais Mu no Reclame Aqui? Em outubro, nota 6,4 nos últimos 6 meses, 7,2 nos últimos 12 meses e 7,7 na aba geral.",
-          "A Mais Mu responde às reclamações? Sim, na maior parte. Em outubro, nos últimos 6 meses, 95,5% das reclamações foram respondidas, e 67,9% foram resolvidas.",
+          "A Mais Mu é confiável segundo o Reclame Aqui? O perfil mostrava reputação Boa nos últimos 6 meses, com nota 7,1, e também Boa nos 12 meses, com nota 7,2. Veja a análise completa em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
+          "Qual a nota da Mais Mu no Reclame Aqui? Em novembro, nota 7,1 nos últimos 6 meses; na leitura de outubro, 7,2 nos 12 meses e 7,7 na aba geral.",
+          "A Mais Mu responde às reclamações? Sim, na maior parte. Em novembro, nos últimos 6 meses, 92,7% das reclamações foram respondidas, e 76,5% foram resolvidas.",
           "O que fazer se o pedido da Mais Mu atrasar? Acompanhe o rastreio no rastreae.com.br e escreva para fala.ai@maismu.com.br com o número do pedido.",
           "Como pedir troca ou reembolso na Mais Mu? Escreva para fala.ai@maismu.com.br com o número do pedido. Pela política da loja, o produto precisa estar na embalagem original, fechada e sem sinais de uso; essa condição é da troca, não do arrependimento. O reembolso sai na mesma forma de pagamento."
         ]
@@ -118589,7 +118588,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e brindes",
         "paragraphs": [
-          "O frete grátis depende da cidade e do valor final do pedido. A política de frete do site divide o grátis por região e avisa que pode mudar sem aviso:"
+          "O frete grátis depende da região. A política de frete do site divide o grátis por região e avisa que pode mudar sem aviso:"
         ],
         "comparisonTable": {
           "headers": [
@@ -118598,21 +118597,17 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "12 cidades (lista abaixo)",
+              "Sul, Sudeste e Centro-Oeste",
               "Sem valor mínimo"
             ],
             [
-              "Sul, Sudeste e Centro-Oeste",
-              "A partir de R$ 199"
-            ],
-            [
               "Norte e Nordeste",
-              "A partir de R$ 299"
+              "A partir de R$ 199"
             ]
           ]
         },
         "postParagraphs": [
-          "As 12 cidades sem valor mínimo são São Paulo, Belo Horizonte, Santo André, Goiânia, Niterói, Barueri, São Caetano do Sul, Taboão da Serra, São José dos Pinhais, Curitiba, Vitória e Balneário Camboriú.",
+          "No Sul, no Sudeste e no Centro-Oeste, o frete grátis vale sem valor mínimo, inclusive em São Paulo, Belo Horizonte, Curitiba e Goiânia. No Norte e no Nordeste, o mínimo vale sobre o valor final do pedido.",
           "Os brindes têm regra própria. O valor mínimo da campanha conta o pedido depois dos descontos. Por isso, um cupom ou o Pix que baixe o total abaixo do mínimo tira o brinde do carrinho. Num exemplo do próprio site, a campanha começava em R$ 249."
         ]
       },
@@ -118659,7 +118654,7 @@ export const reviewsData: unknown[] = [
           "A Skelt tem telefone de atendimento? Tem WhatsApp, no número (41) 3042-4721, e o e-mail contato@skelt.com.br. O site diz que responde em até 48 horas úteis.",
           "Quanto tempo tenho para trocar ou devolver um produto da Skelt? Sem defeito, 20 dias a partir da entrega; com defeito, 45 dias. A troca é só por produto de mesmo valor e em estoque. Para desistir, a loja pede o produto na embalagem original e sem sinais de uso. Pela lei, a compra online tem 7 dias de arrependimento (CDC, art. 49), independentemente dessa exigência.",
           "Quando o reembolso cai? Em até 7 dias úteis, contados do recebimento do produto e depois de conferido na central. A política não separa esse prazo por forma de pagamento.",
-          "A Skelt tem frete grátis? Tem frete grátis sem valor mínimo em 12 cidades, como São Paulo, Belo Horizonte e Curitiba. Também há frete grátis a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e a partir de R$ 299 no Norte e Nordeste, sobre o valor final do pedido.",
+          "A Skelt tem frete grátis? Tem. No Sul, no Sudeste e no Centro-Oeste, inclusive em São Paulo, Belo Horizonte e Curitiba, o frete é grátis sem valor mínimo. No Norte e no Nordeste, é grátis a partir de R$ 199, sobre o valor final do pedido.",
           "Tem cupom na Skelt? Tem, o SKEMCASACOMCECILIA, com 10% OFF em todo o site, somando com as promoções e com os 5% do Pix. A loja aceita um cupom por pedido.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio. O [link de compra da marca no Mercado Livre](https://meli.la/2unTb7k) abre antes a página da Cecília no Mercado Livre, como todo link meli.la."
         ]
@@ -118702,8 +118697,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A reputação da Skelt no Reclame Aqui é boa: Ótima em 6 meses, nota 8,3 e 92,2% das reclamações resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
-    "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF na Skelt. No Reclame Aqui, Ótima em 6 meses (nota 8,3) e 92,2% resolvidas: as queixas sobre defeito e entrega.",
+    "description": "A reputação da Skelt no Reclame Aqui é boa: RA1000 em 6 meses, nota 8,4 e 91,4% das reclamações resolvidas. Veja as queixas mais comuns e o que fazer se o pedido der problema.",
+    "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF na Skelt. No Reclame Aqui, RA1000 em 6 meses (nota 8,4) e 91,4% resolvidas: as queixas sobre defeito e entrega.",
     "publishedAt": "21 de outubro de 2026",
     "updatedAt": "2026-11-07",
     "publishedAtISO": "2026-10-21",
@@ -118717,14 +118712,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a reputação da Skelt no Reclame Aqui é boa: Ótima nos últimos 6 meses, com nota 8,3, e a loja respondeu a todas as reclamações do período. A faixa saiu da RA1000 em maio. O que pesa são as queixas de produto com defeito e atraso. Para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
+          "Sim, a reputação da Skelt no Reclame Aqui é boa: RA1000, a faixa máxima, nos últimos 6 meses, com nota 8,4, e a loja respondeu a 99,7% das reclamações do período. O que pesa são as queixas de produto com defeito e atraso. Para comprar com desconto, veja o [cupom Skelt](/cupons/skelt)."
         ]
       },
       {
         "heading": "Por que olhar o Reclame Aqui antes de comprar",
         "paragraphs": [
           "O site da Skelt não mostra nota nem reclamações. O Reclame Aqui mostra quantas reclamações a loja recebeu, quantas respondeu, quantas resolveu e quanta gente voltaria a comprar. Os números abaixo mudam todos os dias: confira de novo no dia da compra.",
-          "O perfil Skelt Cosméticos aparece como empresa verificada e está no Reclame Aqui há 8 anos. No topo do perfil, as avaliações de compra somam 4,6 de 5, a partir de 1.286 avaliações verificadas. Essa nota vem de avaliações de compra. Não é a mesma conta das reclamações avaliadas (360 nos 6 meses)."
+          "O perfil Skelt Cosméticos aparece como empresa verificada e está no Reclame Aqui há 8 anos. No topo do perfil, as avaliações de compra somam 4,6 de 5, a partir de 1.286 avaliações verificadas. Essa nota vem de avaliações de compra. Não é a mesma conta das reclamações avaliadas (340 nos 6 meses)."
         ]
       },
       {
@@ -118737,7 +118732,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Skelt no Reclame Aqui",
         "paragraphs": [
-          "Leia pela aba de 6 meses, a mais recente: o quadro traz cada mês e as outras abas, lidos em 21/10/2026."
+          "Leia pela aba de 6 meses, a mais recente: o quadro traz as abas de 6 e 12 meses lidas em 07/11/2026 e as demais, da leitura de outubro."
         ],
         "images": [
           {
@@ -118751,8 +118746,8 @@ export const reviewsData: unknown[] = [
         "comparisonTable": {
           "headers": [
             "Indicador",
-            "6 meses (01/04/2026 a 30/09/2026)",
-            "12 meses (01/10/2025 a 30/09/2026)",
+            "6 meses (01/05/2026 a 31/10/2026)",
+            "12 meses (01/11/2025 a 31/10/2026)",
             "2025",
             "2024",
             "Geral (todo o período do perfil)"
@@ -118760,7 +118755,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Reputação",
-              "Ótima",
+              "RA1000",
               "RA1000",
               "RA1000",
               "RA1000",
@@ -118768,7 +118763,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nota",
-              "8,3",
+              "8,4",
               "8,4",
               "8,4",
               "8,6",
@@ -118776,48 +118771,48 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Reclamações recebidas",
-              "665",
-              "1.179",
+              "608",
+              "1.133",
               "1.205",
               "608",
               "2.815"
             ],
             [
               "Respondidas",
-              "100%",
-              "100%",
+              "99,7%",
+              "99,8%",
               "99,4%",
               "99,2%",
               "99,5%"
             ],
             [
               "Resolvidas",
-              "92,2%",
-              "92,0%",
+              "91,4%",
+              "91,4%",
               "90,9%",
               "91,0%",
               "91,4%"
             ],
             [
               "Voltariam a fazer negócio",
-              "73,7%",
-              "75,1%",
+              "75,5%",
+              "74,8%",
               "76,5%",
               "77,3%",
               "76,3%"
             ],
             [
               "Reclamações avaliadas",
-              "360",
-              "625",
+              "340",
+              "606",
               "585",
               "345",
               "1.487"
             ],
             [
               "Tempo médio de resposta",
-              "10 dias e 4 horas",
-              "7 dias e 5 horas",
+              "8 dias e 1 hora",
+              "7 dias e 11 horas",
               "18 dias e 22 horas",
               "10 dias e 13 horas",
               "13 dias e 7 horas"
@@ -118825,19 +118820,19 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nos 6 meses, a loja respondeu 100% das reclamações, em tempo médio de 10 dias e 4 horas. A nota média do consumidor foi 6,94; nos 12 meses, 7,15. É uma medida à parte da nota de reputação, que é 8,3 nos 6 meses."
+          "Nos 6 meses, a loja respondeu 99,7% das reclamações, em tempo médio de 8 dias e 1 hora. A nota média do consumidor foi 7,14; nos 12 meses, 7,1. É uma medida à parte da nota de reputação, que é 8,4 nos 6 meses."
         ]
       },
       {
         "heading": "Como a reputação mudou",
         "paragraphs": [
-          "O histórico dos últimos 6 meses mostra a Skelt na RA1000 em abril e na Ótima de maio a setembro. A troca de faixa aconteceu com a nota quase igual: 8,4 na aba de 12 meses (RA1000) e 8,3 na de 6 meses (Ótima).",
-          "A aba de 12 meses continua em RA1000 e cobre também outubro a março, período que esta leitura não detalha mês a mês. A leitura não traz o motivo da troca de faixa."
+          "Na leitura de novembro, a Skelt estava na RA1000 também na aba de 6 meses, com nota 8,4, a mesma da aba de 12 meses. Na leitura de outubro, a aba de 6 meses marcava Ótima, com nota 8,3.",
+          "A aba de 12 meses continua em RA1000, com nota 8,4. A leitura não detalha a faixa mês a mês e não traz o motivo da mudança."
         ],
         "image": {
           "src": "/images/reviews/skelt/skelt-reclame-aqui-capa.webp",
           "alt": "Reputação da Skelt no Reclame Aqui em 21/10/2026: Ótima nos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4, com reclamações, respostas, resoluções e quem voltaria a comprar",
-          "caption": "A reputação da Skelt no Reclame Aqui: Ótima nos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4.",
+          "caption": "A reputação da Skelt no Reclame Aqui no print de outubro: Ótima nos 6 meses e RA1000 nos 12. Em novembro, as duas abas estavam na RA1000, com nota 8,4.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         }
@@ -118859,8 +118854,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a Skelt responde às reclamações",
         "paragraphs": [
-          "A Skelt respondeu a 100% das reclamações nos 6 meses e nos 12 meses. Responder não é o mesmo que resolver: nos 6 meses, 92,2% foram resolvidas, e 73,7% de quem avaliou disse que voltaria a comprar.",
-          "O tempo médio de resposta muda de um período para outro: 10 dias e 4 horas nos 6 meses, 7 dias e 5 horas nos 12 meses e 18 dias e 22 horas em 2025. A tabela traz todos os períodos."
+          "A Skelt respondeu a 99,7% das reclamações nos 6 meses e a 99,8% nos 12 meses. Responder não é o mesmo que resolver: nos 6 meses, 91,4% foram resolvidas, e 75,5% de quem avaliou disse que voltaria a comprar.",
+          "O tempo médio de resposta muda de um período para outro: 8 dias e 1 hora nos 6 meses, 7 dias e 11 horas nos 12 meses e 18 dias e 22 horas em 2025. A tabela traz todos os períodos."
         ]
       },
       {
@@ -118892,13 +118887,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Skelt?",
         "paragraphs": [
-          "Sim. Na leitura do perfil, a reputação era Ótima nos últimos 6 meses, e a loja respondeu a todas as reclamações e resolveu a maioria. O ponto de atenção são as queixas de produto com defeito e atraso."
+          "Sim. Na leitura do perfil, a reputação era RA1000 nos últimos 6 meses, e a loja respondeu a quase todas as reclamações e resolveu a maioria. O ponto de atenção são as queixas de produto com defeito e atraso."
         ],
         "bullets": [
-          "Nota: 8,3 nos 6 meses (Ótima) e 8,4 nos 12 meses (RA1000).",
-          "Respondidas: 100% nos 6 meses. Resolvidas: 92,2%.",
-          "Voltariam a fazer negócio: 73,7% nos 6 meses.",
-          "Tempo médio de resposta: 10 dias e 4 horas nos 6 meses.",
+          "Nota: 8,4 nos 6 meses e nos 12 meses (RA1000 nas duas abas).",
+          "Respondidas: 99,7% nos 6 meses. Resolvidas: 91,4%.",
+          "Voltariam a fazer negócio: 75,5% nos 6 meses.",
+          "Tempo médio de resposta: 8 dias e 1 hora nos 6 meses.",
           "Problema mais citado na aba geral: produto com defeito, com 27,05%.",
           "Cuidado prático: confira o produto ao receber e abra o chamado cedo se o pedido atrasar."
         ]
@@ -118906,12 +118901,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Skelt é confiável segundo o Reclame Aqui? No perfil, a leitura mostrava reputação Ótima nos últimos 6 meses, com nota 8,3, e RA1000 nos 12 meses, com nota 8,4. Esses números vêm só das reclamações registradas no Reclame Aqui e não avaliam a qualidade dos produtos.",
-          "Qual a nota da Skelt no Reclame Aqui? Nota 8,3 nos últimos 6 meses, 8,4 nos últimos 12 meses e 8,4 na aba geral, segundo a leitura do perfil.",
-          "A Skelt responde às reclamações? Sim. Nos últimos 6 meses, 100% das reclamações foram respondidas, e 92,2% foram resolvidas.",
-          "Por que a Skelt saiu da RA1000? A faixa mudou para Ótima em maio. A nota foi de 8,4 (12 meses, RA1000) para 8,3 (6 meses, Ótima). A leitura não traz o motivo, e este texto não atribui causa.",
+          "A Skelt é confiável segundo o Reclame Aqui? No perfil, a leitura mostrava reputação RA1000 nos últimos 6 meses e nos 12 meses, com nota 8,4 nas duas abas. Esses números vêm só das reclamações registradas no Reclame Aqui e não avaliam a qualidade dos produtos.",
+          "Qual a nota da Skelt no Reclame Aqui? Nota 8,4 nos últimos 6 meses e nos últimos 12 meses; na aba geral, era 8,4 na leitura de outubro.",
+          "A Skelt responde às reclamações? Sim. Nos últimos 6 meses, 99,7% das reclamações foram respondidas, e 91,4% foram resolvidas.",
+          "A Skelt saiu da RA1000? Na leitura de novembro, não: a aba de 6 meses estava na RA1000, com nota 8,4. Na de outubro, ela marcava Ótima, com nota 8,3. A leitura não traz o motivo, e este texto não atribui causa.",
           "O que fazer se o pedido da Skelt tiver defeito ou não chegar? Escreva para contato@skelt.com.br ou chame no WhatsApp (41) 3042-4721, com o número do pedido e o CPF. Se for defeito, envie fotos e vídeos do produto e do lote.",
-          "Quanto tempo a Skelt leva para responder no Reclame Aqui? O tempo médio de resposta era de 10 dias e 4 horas nos últimos 6 meses e de 7 dias e 5 horas nos 12 meses."
+          "Quanto tempo a Skelt leva para responder no Reclame Aqui? O tempo médio de resposta era de 8 dias e 1 hora nos últimos 6 meses e de 7 dias e 11 horas nos 12 meses."
         ]
       }
     ],
@@ -118957,6 +118952,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Onde colar o SKEMCASACOMCECILIA na sacola da Skelt e o que conferir no resumo: 10% OFF em todo o site, que soma com a promoção e com os 5% do Pix.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/cupom-skelt-capa-discover.webp",
@@ -119099,21 +119095,17 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "12 cidades, como São Paulo, Belo Horizonte, Curitiba e Goiânia",
+              "Sul, Sudeste e Centro-Oeste (inclui São Paulo, Belo Horizonte, Curitiba e Goiânia)",
               "Sem valor mínimo"
             ],
             [
-              "Sul, Sudeste e Centro-Oeste",
-              "A partir de R$ 199"
-            ],
-            [
               "Norte e Nordeste",
-              "A partir de R$ 299"
+              "A partir de R$ 199"
             ]
           ]
         },
         "postParagraphs": [
-          "Como o mínimo vale sobre o valor final, um desconto pode deixar o pedido abaixo da faixa da sua região. Se o pedido está perto do mínimo da sua região, confira o frete no resumo depois de aplicar o cupom."
+          "No Sul, no Sudeste e no Centro-Oeste não há valor mínimo, então o cupom não tira o frete grátis. No Norte e no Nordeste, o mínimo vale sobre o valor final, e um desconto pode deixar o pedido abaixo de R$ 199. Se o pedido está perto do mínimo, confira o frete no resumo depois de aplicar o cupom."
         ]
       },
       {
@@ -119139,7 +119131,7 @@ export const reviewsData: unknown[] = [
           "O cupom soma com o PRIMEIRA10? Não. A Skelt aceita um cupom por pedido: no nosso teste, aplicar o PRIMEIRA10 trocou o SKEMCASACOMCECILIA.",
           "O cupom tira o brinde? Pode tirar. O valor mínimo dos brindes conta o pedido depois dos descontos, então o cupom e o Pix podem deixar o total abaixo da faixa.",
           "O cupom vale no Mercado Livre? Não. O cupom é usado só no site oficial da Skelt. No Mercado Livre, vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link de compra da marca](https://meli.la/2unTb7k), que abre antes a página da Cecília no Mercado Livre, como todo link meli.la.",
-          "O cupom dá frete grátis? Depende da região e do valor final do pedido, já com o cupom: veja a tabela de frete acima antes de pagar.",
+          "O cupom dá frete grátis? Depende da região: no Sul, no Sudeste e no Centro-Oeste o frete é grátis sem valor mínimo, e no Norte e no Nordeste a partir de R$ 199, sobre o valor final com o cupom. Veja a tabela de frete acima antes de pagar.",
           "Onde coloco o cupom na Skelt? Na sacola, no campo \"Cupom de desconto\", abaixo do CEP, e depois clique em OK, antes de escolher a forma de pagamento.",
           "O cupom vale para quem já tem conta? Não testamos. Confira no checkout, depois de aplicar o código."
         ]
@@ -119304,7 +119296,7 @@ export const reviewsData: unknown[] = [
           "O frete grátis também conta o valor final do pedido. A política de frete do site dizia:"
         ],
         "bullets": [
-          "Grátis sem valor mínimo em 12 cidades, entre elas São Paulo, Belo Horizonte, Curitiba e Goiânia.",
+          "Grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste; no Norte e no Nordeste, a partir de R$ 199.",
           "Sul, Sudeste e Centro-Oeste: grátis a partir de R$ 199.",
           "Norte e Nordeste: grátis a partir de R$ 299."
         ],
@@ -119356,7 +119348,7 @@ export const reviewsData: unknown[] = [
       "Datas definidas: esquenta a partir de 5 de novembro e Black Friday em 27 de novembro",
       "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site, com as promoções da loja",
       "Com o Pix, o total cai mais 5%, sobre o valor que já está com o cupom",
-      "Frete grátis em 12 cidades, sem valor mínimo"
+      "Frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste"
     ],
     "cons": [
       "A loja ainda não publicou o percentual do esquenta nem o da sexta",
@@ -119668,8 +119660,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Bagaggio teve reputação Boa no Reclame Aqui de abril a setembro, mas Ruim nos 12 meses até setembro. Veja qual perfil olhar e o que fazer se o seu pedido der problema.",
-    "metaDescription": "Bagaggio no Reclame Aqui, com o cupom CECILIA10 de 10% OFF: Boa de abril a setembro (nota 7,7), Ruim em 12 meses (5,8) e qual perfil olhar.",
+    "description": "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, mas Ruim nos 12 meses até outubro. Veja qual perfil olhar e o que fazer se o seu pedido der problema.",
+    "metaDescription": "Bagaggio no Reclame Aqui, com o cupom CECILIA10 de 10% OFF: Boa de maio a outubro (nota 7,9), Ruim em 12 meses (5,8) e qual perfil olhar.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
     "updatedAt": "2026-11-07",
@@ -119683,7 +119675,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio teve reputação Boa no Reclame Aqui de abril a setembro, com nota 7,7, mas Ruim nos 12 meses até setembro, com nota 5,8. No semestre, respondeu a 100% e resolveu 90,4%. O que muda a leitura é o perfil: o capítulo Qual perfil olhar mostra qual vale para o site. Para comprar com desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
+          "A Bagaggio teve reputação Boa no Reclame Aqui de maio a outubro, com nota 7,9, mas Ruim nos 12 meses até outubro, com nota 5,8. No semestre, respondeu a 100% e resolveu 92,5%. O que muda a leitura é o perfil: o capítulo Qual perfil olhar mostra qual vale para o site. Para comprar com desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
         ]
       },
       {
@@ -119704,13 +119696,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Loja Virtual",
         "paragraphs": [
-          "Leia pela aba de 6 meses, a mais recente: cada coluna é uma aba do perfil, com dados de 22/10/2026."
+          "Leia pela aba de 6 meses, a mais recente: cada coluna é uma aba do perfil, com as abas de 6 e 12 meses lidas em 07/11/2026 e as demais, na leitura de outubro."
         ],
         "comparisonTable": {
           "headers": [
             "Indicador",
-            "6 meses (01/04/2026 a 30/09/2026)",
-            "12 meses (01/10/2025 a 30/09/2026)",
+            "6 meses (01/05/2026 a 31/10/2026)",
+            "12 meses (01/11/2025 a 31/10/2026)",
             "2025",
             "2024",
             "Geral (últimos 3 anos)"
@@ -119726,7 +119718,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nota",
-              "7,7",
+              "7,9",
               "5,8",
               "6,5",
               "6,7",
@@ -119734,8 +119726,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Reclamações recebidas",
-              "1.137",
-              "5.757",
+              "1.112",
+              "5.533",
               "4.408",
               "1.903",
               "10.681"
@@ -119743,39 +119735,39 @@ export const reviewsData: unknown[] = [
             [
               "Respondidas",
               "100%",
-              "91,3%",
+              "91,1%",
               "95,7%",
               "98,4%",
               "94,8%"
             ],
             [
               "Resolvidas",
-              "90,4%",
-              "72,8%",
+              "92,5%",
+              "72,2%",
               "80,9%",
               "79,6%",
               "78,1%"
             ],
             [
               "Voltariam a fazer negócio",
-              "58,4%",
-              "33,9%",
+              "61,1%",
+              "33,4%",
               "42,9%",
               "46,0%",
               "40,2%"
             ],
             [
               "Nota média do consumidor",
-              "6,2",
-              "3,67",
+              "6,48",
+              "3,65",
               "4,43",
               "4,89",
               "4,31"
             ],
             [
               "Tempo médio de resposta",
-              "9 dias e 10 horas",
-              "34 dias e 23 horas",
+              "7 dias e 4 horas",
+              "34 dias e 18 horas",
               "29 dias e 13 horas",
               "18 dias e 16 horas",
               "26 dias e 13 horas"
@@ -119783,7 +119775,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Nos últimos 6 meses, a reputação é Boa. Nos últimos 12 meses, ela ainda está Ruim, porque essa aba inclui os seis meses anteriores, de outubro a março."
+          "Nos últimos 6 meses, a reputação é Boa. Nos últimos 12 meses, ela ainda está Ruim, porque essa aba inclui os seis meses anteriores, de novembro a abril."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-reclame-aqui-6-e-12-meses.webp",
@@ -119796,7 +119788,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a reputação mudou",
         "paragraphs": [
-          "O histórico dos últimos 6 meses mostra a reputação mês a mês: Ruim em abril, maio e junho; Regular em julho; Boa em agosto e setembro.",
+          "O histórico de reputação, lido em outubro, mostra mês a mês: Ruim em abril, maio e junho; Regular em julho; Boa em agosto e setembro. Em novembro, a aba de 6 meses seguia Boa, com nota 7,9.",
           "O Reclame Aqui não mostra quantas reclamações entraram em cada mês. Mostra só a faixa de reputação. Por isso, o histórico confirma a melhora recente, mas não diz o que a causou."
         ],
         "image": {
@@ -119810,7 +119802,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a conta de reclamações mostra",
         "paragraphs": [
-          "A conta entre as abas mostra a queda: 5.757 reclamações em 12 meses contra 1.137 nos últimos 6. A diferença, 4.620, corresponde aos seis meses de outubro a março: cerca de 770 por mês. De abril a setembro, a média caiu para cerca de 190 por mês. A conta é nossa, feita com as duas abas do Reclame Aqui.",
+          "A conta entre as abas mostra a queda: 5.533 reclamações em 12 meses contra 1.112 nos últimos 6. A diferença, 4.421, corresponde aos seis meses de novembro a abril: cerca de 740 por mês. De maio a outubro, a média caiu para cerca de 185 por mês. A conta é nossa, feita com as duas abas do Reclame Aqui.",
           "O Reclame Aqui não explica por que esse período teve mais reclamações. Uma hipótese é a Black Friday de 2025 e o Natal, que caem nele. Não temos a contagem mês a mês para confirmar isso. Se a campanha pesa nessa conta, o [calendário da Black Friday da Bagaggio](/reviews/black-friday-bagaggio) está lá."
         ]
       },
@@ -119878,13 +119870,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Bagaggio?",
         "paragraphs": [
-          "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de abril a setembro, mas a janela de 12 meses até setembro ainda estava Ruim, então a melhora é recente."
+          "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de maio a outubro, mas a janela de 12 meses até outubro ainda estava Ruim, então a melhora é recente."
         ],
         "bullets": [
-          "Nota: 7,7 de abril a setembro (Boa) e 5,8 nos 12 meses até setembro (Ruim).",
-          "Respondidas: 100% de abril a setembro. Resolvidas: 90,4%.",
-          "Voltariam a fazer negócio: 58,4% de abril a setembro e 33,9% nos 12 meses até setembro.",
-          "Tempo médio de resposta: 9 dias e 10 horas de abril a setembro.",
+          "Nota: 7,9 de maio a outubro (Boa) e 5,8 nos 12 meses até outubro (Ruim).",
+          "Respondidas: 100% de maio a outubro. Resolvidas: 92,5%.",
+          "Voltariam a fazer negócio: 61,1% de maio a outubro e 33,4% nos 12 meses até outubro.",
+          "Tempo médio de resposta: 7 dias e 4 horas de maio a outubro.",
           "Problema mais citado na aba geral: atraso na entrega, com 29,95%.",
           "Cuidado prático: acompanhe o rastreio, guarde o número do pedido e abra o chamado cedo se a entrega atrasar."
         ]
@@ -119892,11 +119884,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Bagaggio é confiável segundo o Reclame Aqui? O perfil Loja Virtual mostrava reputação Boa de abril a setembro, com nota 7,7, e Ruim nos 12 meses até setembro, com nota 5,8. Esses números vêm das reclamações registradas no Reclame Aqui e não medem a qualidade das malas.",
+          "A Bagaggio é confiável segundo o Reclame Aqui? O perfil Loja Virtual mostrava reputação Boa de maio a outubro, com nota 7,9, e Ruim nos 12 meses até outubro, com nota 5,8. Esses números vêm das reclamações registradas no Reclame Aqui e não medem a qualidade das malas.",
           "Qual perfil da Bagaggio é o da loja? O Bagaggio - Loja Virtual, com o CNPJ 08.956.394/0001-68, que é o mesmo do rodapé do site bagaggio.com.br.",
           "O que fazer se o pedido da Bagaggio atrasar? Guarde o número do pedido e o CPF, registre a data em que o prazo venceu e fale pelo chat do site, de segunda a sexta, das 9h às 18h.",
           "A garantia vitalícia vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas depois do início do programa. Mochilas, bolsas e outras marcas vendidas pela loja ficam de fora.",
-          "A Bagaggio responde às reclamações? De abril a setembro, o perfil Loja Virtual respondeu a 100% das reclamações, em 9 dias e 10 horas, em média. Nos 12 meses até setembro, respondeu a 91,3%."
+          "A Bagaggio responde às reclamações? De maio a outubro, o perfil Loja Virtual respondeu a 100% das reclamações, em 7 dias e 4 horas, em média. Nos 12 meses até outubro, respondeu a 91,1%."
         ]
       }
     ],
@@ -120336,8 +120328,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "No Reclame Aqui, o sinal é misto: nota Boa em 6 meses (7,7, com 1.137 reclamações) e Ruim em 12 (5,8, com 5.757).",
-          "Pela conta entre os dois períodos, são cerca de 4.620 reclamações entre outubro e março, período que inclui a Black Friday e o Natal de 2025. Os motivos mais citados na base do perfil são atraso na entrega (29,95%) e produto não recebido (18,87%).",
+          "No Reclame Aqui, o sinal é misto: nota Boa em 6 meses (7,9, com 1.112 reclamações) e Ruim em 12 (5,8, com 5.533).",
+          "Pela conta entre os dois períodos, são cerca de 4.420 reclamações entre novembro e abril, período que inclui a Black Friday e o Natal de 2025. Os motivos mais citados na base do perfil são atraso na entrega (29,95%) e produto não recebido (18,87%).",
           "Ao procurar a loja no Reclame Aqui, confira se o perfil tem o CNPJ 08.956.394/0001-68, que é o do site."
         ],
         "postParagraphs": [
@@ -122238,6 +122230,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Skelt ou Best Bronze, com o cupom SKEMCASACOMCECILIA de 10% OFF na Skelt: mousse escuro, transparente e kit com luva por preço por 100 ml e duração.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/skelt-ou-best-bronze-capa.webp",
@@ -122481,7 +122474,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "postParagraphs": [
-          "**Frete.** A Skelt dá frete grátis a partir de R$ 199 no Sul, Sudeste e Centro-Oeste e de R$ 299 no Norte e Nordeste, e em 12 cidades não tem mínimo. A faixa do site da Best Bronze informa frete grátis acima de R$ 210. Confira o valor final do pedido no carrinho das duas.",
+          "**Frete.** A Skelt dá frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste, e a partir de R$ 199 no Norte e no Nordeste. A faixa do site da Best Bronze informa frete grátis acima de R$ 210. Confira o valor final do pedido no carrinho das duas.",
           "Sobre a loja da Skelt, veja [Skelt é confiável?](/reviews/skelt-e-confiavel).",
           "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt. As condições estão na [página do cupom Skelt](/cupons/skelt)."
         ]
@@ -124825,6 +124818,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Pote de 250 g, 600 g ou kit: qual tamanho compensa, pelo preço por 100 g e o frete por região.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-capa-discover.webp",
@@ -124976,8 +124970,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis: onde o kit compensa",
         "paragraphs": [
-          "O frete é grátis quando o total, já com o cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
-          "Com o cupom, o kit de 3 × 600 g (R$ 142,30) fica R$ 7,60 abaixo do limite do Sudeste e do Sul. O kit de 4 × 600 g (R$ 183,27) passa esse limite, mas não o das outras regiões. O kit de 5 × 600 g (R$ 227,18) passa o limite em todas as regiões."
+          "O frete é grátis quando o valor do carrinho, antes do cupom, chega a R$ 149,90 em São Paulo (capital), no Sudeste e no Sul, e a R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Vale para a entrega mais barata. Abaixo desse valor, a loja cobra o frete.",
+          "O mínimo conta o preço antes do cupom, então o cupom não tira o frete grátis de quem já passou dele. O kit de 3 × 600 g (R$ 158,11) passa o limite do Sudeste e do Sul, mas não o das outras regiões. Os kits de 4 × 600 g (R$ 203,63) e de 5 × 600 g (R$ 252,42) passam o limite em todas as regiões."
         ]
       },
       {
@@ -125022,7 +125016,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom em todas as quantidades: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo.",
-          "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. Com o cupom, isso dá 8 pastas (R$ 155,34) no Sul e no Sudeste e 11 pastas (R$ 213,59) nas outras regiões."
+          "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom. Na assinatura, o aviso do carrinho mostra quando o pedido chega lá."
         ]
       },
       {
@@ -126689,7 +126683,7 @@ export const reviewsData: unknown[] = [
         "heading": "Lembrança de beleza: o Kit Miniaturas da Skelt",
         "paragraphs": [
           "O Kit Miniaturas é o único item da Skelt neste guia e não tem vínculo com treino: é presente de beleza, com três miniaturas de 15 ml de fragrância, em três conjuntos (Exotic, Sellers e Trends). Sai por R$ 99,90. Com o cupom SKEMCASACOMCECILIA e os 5% do Pix sobre o total, cai para cerca de R$ 85,41 (conta deste guia: 10% e depois 5%).",
-          "Sozinho, o kit não chega ao mínimo do frete grátis fora das 12 cidades em que a Skelt entrega sem valor mínimo, como São Paulo, Belo Horizonte e Curitiba. Nas outras, o frete grátis começa em R$ 199 no Sul, Sudeste e Centro-Oeste e em R$ 299 no Norte e Nordeste. Para escolher a fragrância, veja [body splash da Skelt: qual escolher](/reviews/body-splash-skelt-qual-escolher)."
+          "A Skelt tem frete grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste. No Norte e no Nordeste, o frete grátis começa em R$ 199. Para escolher a fragrância, veja [body splash da Skelt: qual escolher](/reviews/body-splash-skelt-qual-escolher)."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-kit-miniaturas-skelt.webp",
@@ -126724,7 +126718,7 @@ export const reviewsData: unknown[] = [
           "Black Skull. Cupom CECILIA10, 10% em todo o site. Frete grátis: Sul e Sudeste acima de R$ 199,90; Centro-Oeste acima de R$ 249,90; demais regiões acima de R$ 299,90.",
           "Max Titanium. Cupom MAX10EMCASACOMCECILIA, até 10%. Frete grátis a partir de R$ 104 em São Paulo capital, R$ 134 no Sudeste, R$ 204 no Centro-Oeste, R$ 249 no Sul, R$ 299 no Nordeste e R$ 599 no Norte; Sedex é sempre pago.",
           "Probiótica. Cupom PRO10EMCASACOMCECILIA, até 10%. Frete: o valor aparece no carrinho com o CEP.",
-          "Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul, e de R$ 199,90 nas demais regiões, contado sobre o total já com o cupom.",
+          "Dr. Peanut. Cupom DREMCASACOMCECILIA, 10% em todo o site. Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul, e de R$ 199,90 nas demais regiões, contado antes do cupom.",
           "Skelt. Cupom SKEMCASACOMCECILIA, 10% em todo o site, mais 5% no Pix sobre o total com cupom. Frete na seção Lembrança de beleza."
         ],
         "links": [
@@ -128856,6 +128850,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Quem opera a Toda Up, a ligação com a Fita UP, como conferir o site oficial e o que a loja diz sobre trocas, reembolso e frete, com dados de 26/10/2026.",
@@ -129037,7 +129032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A reputação no Reclame Aqui",
         "paragraphs": [
-          "O perfil da Toda Up no Reclame Aqui está no CNPJ da FITA UP LTDA, com o selo \"Empresa Verificada\", o selo RA1000 e nota 8,5 nos 6 meses até o fim de setembro; os números de reclamações, respostas e o perfil completo estão no [artigo sobre a Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
+          "O perfil da Toda Up no Reclame Aqui está no CNPJ da FITA UP LTDA, com o selo \"Empresa Verificada\", reputação Ótima e nota 8,2 nos 6 meses até o fim de outubro, e RA1000 nos 12 meses; os números de reclamações, respostas e o perfil completo estão no [artigo sobre a Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -129091,10 +129086,11 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "description": "Os números da Toda Up no Reclame Aqui em 26/10/2026: RA1000 nos últimos 6 meses, nota 8,5, 100% respondidas e 93,1% resolvidas, e o que muda na aba geral.",
-    "metaDescription": "Toda Up no Reclame Aqui com o cupom MAUAD de 10% OFF: RA1000, nota 8,5, 100% respondidas e 93,1% resolvidas, e o que fazer se der problema.",
+    "description": "Os números da Toda Up no Reclame Aqui em novembro: Ótima nos últimos 6 meses, nota 8,2, 100% respondidas e 89,9% resolvidas, e RA1000 em 12 meses, nota 8,3.",
+    "metaDescription": "Toda Up no Reclame Aqui com o cupom MAUAD de 10% OFF: Ótima, nota 8,2, 100% respondidas e 89,9% resolvidas, e o que fazer se der problema.",
     "image": "/images/reviews/toda-up/toda-up-reclame-aqui-capa-discover.webp",
     "imageAlt": "Modelo com o Sutiã Comfort Line da Toda Up e o topo do perfil Toda Up no Reclame Aqui em 26/10/2026, com a reputação RA1000 e o selo Empresa Verificada",
     "imageFit": "contain",
@@ -129125,7 +129121,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Toda Up estava na RA1000 do Reclame Aqui nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA. O que muda entre as abas é o volume e o tempo de resposta; veja a tabela e [Toda Up é confiável?](/reviews/toda-up-e-confiavel)."
+          "Sim: a Toda Up estava com reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas. O perfil é um só, com o CNPJ da FITA UP LTDA. O que muda entre as abas é o volume e o tempo de resposta; veja a tabela e [Toda Up é confiável?](/reviews/toda-up-e-confiavel)."
         ]
       },
       {
@@ -129153,69 +129149,80 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Toda Up",
         "paragraphs": [
-          "Cada coluna da tabela é uma aba do perfil, com o período dela. A leitura é de 26/10/2026. A aba de 6 meses mostra a faixa e a nota; a aba geral, na leitura feita, mostrou só os indicadores de reclamação."
+          "Cada coluna da tabela é uma aba do perfil, com o período dela. A leitura das abas de 6 e 12 meses é de 07/11/2026; a aba geral é da leitura de outubro. As abas de 6 e 12 meses mostram a faixa e a nota; a aba geral, na leitura feita, mostrou só os indicadores de reclamação."
         ],
         "comparisonTable": {
           "headers": [
             "Indicador",
-            "6 meses (01/04/2026 a 30/09/2026)",
+            "6 meses (01/05/2026 a 31/10/2026)",
+            "12 meses (01/11/2025 a 31/10/2026)",
             "Geral (27/10/2023 a 26/10/2026)"
           ],
           "rows": [
             [
               "Reputação",
+              "Ótima",
               "RA1000",
               "não consta nesta leitura"
             ],
             [
               "Nota",
-              "8,5",
+              "8,2",
+              "8,3",
               "não consta nesta leitura"
             ],
             [
               "Reclamações recebidas",
-              "357",
+              "383",
+              "950",
               "1.398"
             ],
             [
               "Respondidas",
+              "100%",
               "100%",
               "99%"
             ],
             [
               "Aguardando resposta",
               "0",
+              "0",
               "9"
             ],
             [
               "Resolvidas",
-              "93,1%",
+              "89,9%",
+              "91,5%",
               "92,1%"
             ],
             [
               "Voltariam a fazer negócio",
-              "76,1%",
+              "71%",
+              "72,9%",
               "74,9%"
             ],
             [
               "Reclamações avaliadas",
-              "218",
+              "217",
+              "527",
               "794"
             ],
             [
               "Nota média do consumidor",
-              "7,38",
+              "7,07",
+              "7,13",
               "7,48"
             ],
             [
               "Tempo médio de resposta",
-              "21 horas",
+              "1 dia e 7 horas",
+              "1 dia e 3 horas",
               "6 dias e 3 horas"
             ]
           ]
         },
         "postParagraphs": [
-          "A nota 8,5 é a nota de reputação, a que define a faixa; a nota média do consumidor (7,38 nos 6 meses) é a média dada por quem avaliou a resposta da loja."
+          "A nota 8,2 é a nota de reputação, a que define a faixa; a nota média do consumidor (7,07 nos 6 meses) é a média dada por quem avaliou a resposta da loja."
         ],
         "image": {
           "src": "/images/reviews/toda-up/toda-up-reclame-aqui-numeros-2610.webp",
@@ -129228,21 +129235,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a conta entre as abas mostra",
         "paragraphs": [
-          "A aba geral soma 1.398 reclamações no período do cabeçalho da tabela, e a de 6 meses soma 357. A diferença, 1.041, cobre o resto do período: de 27/10/2023 a 31/03/2026 e os dias de outubro. Dividida por esses cerca de 30 meses, dá perto de 35 reclamações por mês. Nos 6 meses da aba recente, a média foi de cerca de 60 por mês. A conta é nossa, feita com as duas abas, e vale como ordem de grandeza.",
-          "O Reclame Aqui não mostrou quantas reclamações entraram em cada mês, então não dá para saber o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo e resolveu mais do que na média geral.",
+          "A aba geral soma 1.398 reclamações no período do cabeçalho da tabela, e a de 12 meses soma 950. A diferença, 448, cobre o período anterior à aba de 12 meses, cerca de 24 meses. Dividida por esse período, dá perto de 19 reclamações por mês. Nos 12 meses da aba recente, a média foi de cerca de 79 por mês, e nos 6 meses, de cerca de 64. A conta é nossa, feita com as abas, e vale como ordem de grandeza.",
+          "O Reclame Aqui não mostrou quantas reclamações entraram em cada mês, então não dá para saber o que explica a diferença. O que as abas mostram é que o volume recente é maior e que, nesse mesmo período, a loja respondeu a tudo, mas resolveu um pouco menos do que na média geral.",
           "A aba geral começa em 2023. O domínio todaup.com é de 2025, pelo registro público do domínio, então a janela geral alcança um tempo anterior ao site atual. O perfil é o mesmo, pelo mesmo CNPJ, e o Reclame Aqui não separa as reclamações por nome da marca."
         ]
       },
       {
         "heading": "Como a Toda Up responde às reclamações",
         "paragraphs": [
-          "O tempo de resposta é o indicador que mais muda entre as abas: 21 horas nos 6 meses contra 6 dias e 3 horas na geral. Responder não é resolver: a aba recente também resolve mais (93,1% contra 92,1%) e tem mais gente que voltaria (76,1% contra 74,9%). Os percentuais são os que o Reclame Aqui exibe, sem recálculo."
+          "O tempo de resposta é o indicador que mais muda entre as abas: 1 dia e 7 horas nos 6 meses contra 6 dias e 3 horas na geral. Responder não é resolver: a aba de 6 meses resolve um pouco menos (89,9% contra 92,1%) e tem menos gente que voltaria (71% contra 74,9%). Os percentuais são os que o Reclame Aqui exibe, sem recálculo."
         ]
       },
       {
         "heading": "O que esta leitura não traz",
         "paragraphs": [
-          "A leitura ficou com a aba de 6 meses e a aba geral. Três partes do perfil ficaram de fora e não entram neste texto: a aba de 12 meses, o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. O problema mais citado está na lista de principais problemas, no próprio perfil."
+          "A leitura ficou com as abas de 6 meses, 12 meses e geral. Duas partes do perfil ficaram de fora e não entram neste texto: o histórico de reputação mês a mês e a lista de principais problemas, que o Reclame Aqui monta com as categorias das reclamações. O problema mais citado está na lista de principais problemas, no próprio perfil."
         ]
       },
       {
@@ -129268,21 +129275,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Toda Up?",
         "paragraphs": [
-          "Pelo Reclame Aqui, dá. O perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, e os indicadores da aba geral ficam perto dos recentes. O que o leitor confere antes de pagar: o perfil é o empresa/toda-up, com o CNPJ 40.159.443/0001-44 no topo, e os números do dia."
+          "Pelo Reclame Aqui, dá. O perfil estava com reputação Ótima nos últimos 6 meses, com nota 8,2, e RA1000 nos 12 meses, e os indicadores da aba geral ficam perto dos recentes. O que o leitor confere antes de pagar: o perfil é o empresa/toda-up, com o CNPJ 40.159.443/0001-44 no topo, e os números do dia."
         ],
         "bullets": [
-          "Reputação: RA1000 nos 6 meses, com nota 8,5.",
-          "Respondidas e resolvidas: 100% e 93,1% nos 6 meses; 99% e 92,1% na aba geral.",
-          "Fora desta leitura: a aba de 12 meses, o histórico mês a mês e os principais problemas."
+          "Reputação: Ótima nos 6 meses, com nota 8,2, e RA1000 nos 12 meses, com nota 8,3.",
+          "Respondidas e resolvidas: 100% e 89,9% nos 6 meses; 100% e 91,5% nos 12 meses; 99% e 92,1% na aba geral.",
+          "Fora desta leitura: o histórico mês a mês e os principais problemas."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Toda Up é confiável segundo o Reclame Aqui? O perfil estava na RA1000 nos últimos 6 meses, com nota 8,5, 100% das reclamações respondidas e 93,1% resolvidas. Esses números vêm das reclamações registradas e não medem a qualidade das peças.",
+          "A Toda Up é confiável segundo o Reclame Aqui? O perfil estava com reputação Ótima nos últimos 6 meses, com nota 8,2, 100% das reclamações respondidas e 89,9% resolvidas, e RA1000 nos 12 meses. Esses números vêm das reclamações registradas e não medem a qualidade das peças.",
           "Qual perfil da Toda Up é o da loja? O perfil Toda Up, na página empresa/toda-up, com o CNPJ 40.159.443/0001-44, o mesmo do rodapé do site todaup.com.",
           "A Toda Up é a mesma empresa da Fita UP? Sim. O CNPJ do perfil e do site é o da FITA UP LTDA, e o FAQ da loja diz que a Fita UP virou Toda Up, com a mesma equipe. Não apareceu perfil separado da Fita UP no Reclame Aqui.",
-          "A Toda Up responde às reclamações? Nos últimos 6 meses, respondeu a 100%, em 21 horas em média. Na aba geral, respondeu a 99%, em 6 dias e 3 horas.",
+          "A Toda Up responde às reclamações? Nos últimos 6 meses, respondeu a 100%, em 1 dia e 7 horas em média. Na aba geral, respondeu a 99%, em 6 dias e 3 horas.",
           "O que fazer se o pedido da Toda Up atrasar? Guarde o número do pedido e o CPF, registre a data em que o prazo venceu e fale com a loja pelo WhatsApp do site ou pelo e-mail suporte@todaup.com. Se não resolver, registre no Reclame Aqui."
         ]
       }
@@ -129801,7 +129808,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o Reclame Aqui mostra",
         "paragraphs": [
-          "Para decidir pela confiança: o perfil \"Toda Up\" no Reclame Aqui, com o mesmo CNPJ do rodapé do site, tinha selo RA1000 e nota 8,5. Os números por período estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
+          "Para decidir pela confiança: o perfil \"Toda Up\" no Reclame Aqui, com o mesmo CNPJ do rodapé do site, tinha reputação Ótima e nota 8,2 nos últimos 6 meses. Os números por período estão em [Toda Up no Reclame Aqui](/reviews/toda-up-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -131619,6 +131626,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Cookies sem açúcar da Belive comparados por 100 g, com o rótulo, os adoçantes, os alérgenos e o cupom MAUAD, a partir da loja oficial em 28/10/2026.",
@@ -131735,7 +131743,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto sai cada um",
         "paragraphs": [
-          "Cada pacote custa R$ 8,97 nos quatro sabores, no cartão, em 28/10/2026. O kit de 10 de cada sabor custa R$ 83,42 no cartão: a ficha mostra R$ 89,70 riscado, e no Pix o kit fica em R$ 79,25. A página do kit não informa quantos pacotes vêm; confira antes de comprar.",
+          "Cada pacote custa R$ 8,97 nos quatro sabores, no cartão, em 28/10/2026. O kit traz 10 pacotes de um só sabor, com 4 cookies cada, e custa R$ 83,42 no cartão (de R$ 89,70), ou R$ 79,25 no Pix. Dá cerca de R$ 8,34 por pacote, contra R$ 8,97 do pacote avulso.",
           "O cupom MAUAD tira mais 10% do pacote e do kit. O site anuncia Black November com \"até 30%\". Os preços podem mudar; confira o total no carrinho."
         ]
       },
@@ -144510,7 +144518,7 @@ export const reviewsData: unknown[] = [
             [
               "Loja pequena, com poucos produtos",
               "Criador com IA (plano Unlimited) ou WordPress com WooCommerce",
-              "O Criador tem loja virtual integrada; o WooCommerce dá mais controle de frete e pagamento, mas pede configuração."
+              "O Criador tem loja virtual como complemento pago à parte; o WooCommerce dá mais controle de frete e pagamento, mas pede configuração."
             ],
             [
               "Blog que depende de plugins (SEO, formulários, área de membros)",
@@ -144579,7 +144587,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Loja virtual",
-              "Integrada nos planos Unlimited e Cloud Startup",
+              "Complemento pago à parte, nos planos Unlimited e Cloud Startup",
               "WooCommerce, grátis, com extensões pagas"
             ],
             [
@@ -144604,7 +144612,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e renovação",
         "paragraphs": [
-          "O Criador com IA não tem plano próprio: ele vem nos planos de hospedagem de sites, de 48 meses, pagos de uma vez ou em até 12 parcelas. Os preços abaixo são da página brasileira, lidos em 28/10/2026, na campanha de Black Friday. A coluna \"com o SONAR20\" é o preço com os 20% do cupom:"
+          "O Criador com IA não tem plano próprio: ele vem nos planos de hospedagem de sites, de 48 meses, pagos de uma vez ou em até 12 parcelas. Os preços abaixo são da página brasileira, lidos em novembro, na campanha de Black Friday. A coluna \"com o SONAR20\" é o preço com os 20% do cupom:"
         ],
         "comparisonTable": {
           "headers": [
@@ -144623,7 +144631,7 @@ export const reviewsData: unknown[] = [
               "250 (500 na Black Friday)"
             ],
             [
-              "[Unlimited (sites ilimitados, com loja virtual)](https://www.hostinger.com/br/ai-builder?REFERRALCODE=SONAR20)",
+              "[Unlimited (sites ilimitados, loja virtual disponível)](https://www.hostinger.com/br/ai-builder?REFERRALCODE=SONAR20)",
               "R$ 12,99/mês",
               "R$ 10,39/mês",
               "R$ 64,99/mês",
@@ -144655,7 +144663,7 @@ export const reviewsData: unknown[] = [
           "**O que acontece se você não renovar.** A página avisa: plano vencido e não renovado tira o projeto do ar e apaga os dados. Exporte o código antes de deixar vencer.",
           "**Domínio e e-mail grátis só no primeiro ano.** Depois, o domínio renova pelo preço de tabela da Hostinger: .com.br R$ 64,99 por ano e .com R$ 94,99 por ano.",
           "**Reembolso em 30 dias**, desde que você tenha consumido menos de 30 créditos de IA.",
-          "**Loja virtual** é item dos planos Unlimited e Cloud Startup; no Unlimited, a página diz grátis por 3 meses. Confira no checkout o que custa depois.",
+          "**Loja virtual** é um complemento cobrado à parte, disponível nos planos Unlimited e Cloud Startup: a página traz R$ 5 por 3 meses e, depois, R$ 34,99/mês. Confira no checkout.",
           "**App nativo não existe.** O que o Criador faz é um app web responsivo, que abre no navegador do celular. Para a App Store e o Google Play, é outro caminho."
         ],
         "postParagraphs": [
@@ -144684,7 +144692,7 @@ export const reviewsData: unknown[] = [
           "O Criador com IA da Hostinger faz o site sozinho? Ele monta a primeira versão a partir da sua descrição, segundo a página. O conteúdo, as fotos e as decisões de negócio continuam sendo seus, e cada pedido no modo com IA consome créditos.",
           "Precisa saber programar para usar o Criador com IA? Não. A página diz que não exige conhecimento técnico nos dois modos. Quem sabe programar tem um editor de código no modo com IA.",
           "Dá para migrar do Criador com IA para outra hospedagem? A página diz que o código-fonte pode ser exportado e hospedado em outro lugar. O back-end integrado, com banco e login, fica na Hostinger, então um app precisa de reconfiguração fora dela.",
-          "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual é item dos planos Unlimited e Cloud Startup. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
+          "O Criador com IA vale para loja virtual? Para loja pequena, sim: a loja virtual está disponível nos planos Unlimited e Cloud Startup, como complemento cobrado à parte. Para loja grande, com regras de frete e pagamento, o WordPress com WooCommerce dá mais controle.",
           "Quanto custa o Horizons da Hostinger em 2026? O Criador com IA vem nos planos de hospedagem. O Premium custava R$ 7,99/mês com o SONAR20 (R$ 9,99 sem) em 48 meses e renova a R$ 38,99/mês; o Unlimited, R$ 10,39/mês (R$ 12,99 sem) e renova a R$ 64,99/mês.",
           "Tem cupom para o Criador com IA da Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
@@ -144823,7 +144831,7 @@ export const reviewsData: unknown[] = [
             [
               "Small store with a few products",
               "AI Builder (Unlimited plan) or WordPress with WooCommerce",
-              "The AI Builder has a built-in online store; WooCommerce gives more control over shipping and payment, but needs setup."
+              "The AI Builder offers an online store as a paid add-on; WooCommerce gives more control over shipping and payment, but needs setup."
             ],
             [
               "Blog that depends on plugins (SEO, forms, members area)",
@@ -144892,7 +144900,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Online store",
-              "Built in on the Unlimited and Cloud Startup plans",
+              "Paid add-on, available on the Unlimited and Cloud Startup plans",
               "WooCommerce, free, with paid extensions"
             ],
             [
@@ -144920,7 +144928,7 @@ export const reviewsData: unknown[] = [
           "**The credits.** AI mode uses credits on every request, and the plan's balance doesn't renew every month. Even swapping a text or an image with Select & edit uses a few; only the no-AI mode edits for free.",
           "**What happens if you don't renew.** The page warns: a plan that expires without renewal takes the project offline and deletes the data. Export the code before letting it expire.",
           "**30-day refund**, as long as you have used fewer than 30 AI credits.",
-          "**The online store** is a feature of the Unlimited and Cloud Startup plans; on Unlimited, the page says it is free for 3 months. Check at checkout what it costs afterwards.",
+          "**The online store** is a paid add-on, available on the Unlimited and Cloud Startup plans and billed separately from the plan. Check its price at checkout.",
           "**There is no native app.** What the AI Builder makes is a responsive web app, which opens in the phone's browser. For the App Store and Google Play, it's a different path."
         ],
         "postParagraphs": [
@@ -144949,7 +144957,7 @@ export const reviewsData: unknown[] = [
           "Does Hostinger's AI Builder build the site on its own? It builds the first version from your description, according to the page. The content, the photos and the business decisions are still yours, and every request in AI mode uses credits.",
           "Do you need to know how to code to use the AI Builder? No. The page says it requires no technical knowledge in either mode. For people who do code, AI mode has a code editor.",
           "Can you migrate from the AI Builder to another host? The page says the source code can be exported and hosted elsewhere. The built-in back end, with database and login, stays at Hostinger, so an app needs reconfiguring outside it.",
-          "Is the AI Builder good for an online store? For a small store, yes: the online store is a feature of the Unlimited and Cloud Startup plans. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
+          "Is the AI Builder good for an online store? For a small store, yes: the online store is available on the Unlimited and Cloud Startup plans as a paid add-on. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
           "Is there a coupon for Hostinger's AI Builder? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
@@ -145087,7 +145095,7 @@ export const reviewsData: unknown[] = [
             [
               "Tienda pequeña, con pocos productos",
               "Creador con IA (plan Unlimited) o WordPress con WooCommerce",
-              "El creador tiene tienda online integrada; WooCommerce da más control sobre envío y pago, pero pide configuración."
+              "El creador ofrece una tienda online como complemento de pago; WooCommerce da más control sobre envío y pago, pero pide configuración."
             ],
             [
               "Blog que depende de plugins (SEO, formularios, área de miembros)",
@@ -145156,7 +145164,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Tienda online",
-              "Integrada en los planes Unlimited y Cloud Startup",
+              "Complemento de pago, disponible en los planes Unlimited y Cloud Startup",
               "WooCommerce, gratis, con extensiones de pago"
             ],
             [
@@ -145184,7 +145192,7 @@ export const reviewsData: unknown[] = [
           "**Los créditos.** El modo con IA gasta créditos en cada petición, y el saldo del plan no se renueva cada mes. Hasta cambiar un texto o una imagen con Select & edit consume un poco; solo el modo sin IA edita sin gastar.",
           "**Qué pasa si no renuevas.** La página avisa: un plan vencido y sin renovar deja el proyecto fuera de línea y borra los datos. Exporta el código antes de dejarlo vencer.",
           "**Reembolso en 30 días**, siempre que hayas consumido menos de 30 créditos de IA.",
-          "**La tienda online** está incluida en los planes Unlimited y Cloud Startup; en el Unlimited, la página dice que es gratis durante 3 meses. Comprueba al pagar cuánto cuesta después.",
+          "**La tienda online** es un complemento de pago, disponible en los planes Unlimited y Cloud Startup y facturado aparte del plan. Comprueba su precio al pagar.",
           "**No existe app nativa.** Lo que hace el creador es una app web adaptable, que se abre en el navegador del móvil. Para la App Store y Google Play, es otro camino."
         ],
         "postParagraphs": [
@@ -145213,7 +145221,7 @@ export const reviewsData: unknown[] = [
           "¿El creador con IA de Hostinger hace la web solo? Monta la primera versión a partir de tu descripción, según la página. El contenido, las fotos y las decisiones de negocio siguen siendo tuyos, y cada petición en el modo con IA consume créditos.",
           "¿Hace falta saber programar para usar el creador con IA? No. La página dice que no exige conocimientos técnicos en ninguno de los dos modos. Quien sabe programar tiene un editor de código en el modo con IA.",
           "¿Se puede migrar del creador con IA a otro hosting? La página dice que el código fuente se puede exportar y alojar en otro sitio. El back end integrado, con base de datos e inicio de sesión, se queda en Hostinger, así que una app necesita reconfigurarse fuera de ella.",
-          "¿El creador con IA sirve para una tienda online? Para una tienda pequeña, sí: la tienda online es un elemento de los planes Unlimited y Cloud Startup. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
+          "¿El creador con IA sirve para una tienda online? Para una tienda pequeña, sí: la tienda online está disponible en los planes Unlimited y Cloud Startup como complemento de pago. Para una tienda grande, con reglas de envío y pago, WordPress con WooCommerce da más control.",
           "¿Hay cupón para el creador con IA de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer periodo. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
@@ -145351,7 +145359,7 @@ export const reviewsData: unknown[] = [
             [
               "Petite boutique, avec peu de produits",
               "Créateur IA (offre Unlimited) ou WordPress avec WooCommerce",
-              "Le créateur intègre une boutique en ligne ; WooCommerce donne plus de contrôle sur la livraison et le paiement, mais demande de la configuration."
+              "Le créateur propose une boutique en ligne en option payante ; WooCommerce donne plus de contrôle sur la livraison et le paiement, mais demande de la configuration."
             ],
             [
               "Blog qui dépend de plugins (SEO, formulaires, espace membres)",
@@ -145420,7 +145428,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Boutique en ligne",
-              "Intégrée aux offres Unlimited et Cloud Startup",
+              "Option payante, disponible sur les offres Unlimited et Cloud Startup",
               "WooCommerce, gratuit, avec des extensions payantes"
             ],
             [
@@ -145448,7 +145456,7 @@ export const reviewsData: unknown[] = [
           "**Les crédits.** Le mode avec IA consomme des crédits à chaque demande, et le solde de l'offre ne se renouvelle pas chaque mois. Même remplacer un texte ou une image avec Select & edit en consomme un peu ; seul le mode sans IA édite sans en dépenser.",
           "**Ce qui se passe si vous ne renouvelez pas.** La page prévient : une offre expirée et non renouvelée met le projet hors ligne et supprime les données. Exportez le code avant de la laisser expirer.",
           "**Remboursement sous 30 jours**, à condition d'avoir consommé moins de 30 crédits d'IA.",
-          "**La boutique en ligne** fait partie des offres Unlimited et Cloud Startup ; sur Unlimited, la page indique qu'elle est gratuite pendant 3 mois. Vérifiez au paiement ce qu'elle coûte ensuite.",
+          "**La boutique en ligne** est une option payante, disponible sur les offres Unlimited et Cloud Startup et facturée à part de l'offre. Vérifiez son prix au paiement.",
           "**Il n'y a pas d'appli native.** Ce que fait le créateur est une appli web adaptative, qui s'ouvre dans le navigateur du téléphone. Pour l'App Store et Google Play, c'est une autre voie."
         ],
         "postParagraphs": [
@@ -145477,7 +145485,7 @@ export const reviewsData: unknown[] = [
           "Le créateur IA de Hostinger fait-il le site tout seul ? Il monte la première version à partir de votre description, selon la page. Le contenu, les photos et les décisions commerciales restent les vôtres, et chaque demande en mode IA consomme des crédits.",
           "Faut-il savoir coder pour utiliser le créateur IA ? Non. La page dit qu'il n'exige aucune connaissance technique dans les deux modes. Pour ceux qui codent, le mode IA propose un éditeur de code.",
           "Peut-on migrer du créateur IA vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une appli demande une reconfiguration en dehors.",
-          "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne fait partie des offres Unlimited et Cloud Startup. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
+          "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne est disponible sur les offres Unlimited et Cloud Startup, en option payante. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
           "Existe-t-il un code promo pour le créateur IA de Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
@@ -145615,7 +145623,7 @@ export const reviewsData: unknown[] = [
             [
               "Piccolo negozio, con pochi prodotti",
               "AI Builder (piano Unlimited) o WordPress con WooCommerce",
-              "L'AI Builder ha il negozio online integrato; WooCommerce dà più controllo su spedizione e pagamento, ma richiede configurazione."
+              "L'AI Builder offre il negozio online come componente a pagamento; WooCommerce dà più controllo su spedizione e pagamento, ma richiede configurazione."
             ],
             [
               "Blog che dipende da plugin (SEO, moduli, area riservata)",
@@ -145684,7 +145692,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Negozio online",
-              "Integrato nei piani Unlimited e Cloud Startup",
+              "Componente a pagamento, disponibile nei piani Unlimited e Cloud Startup",
               "WooCommerce, gratuito, con estensioni a pagamento"
             ],
             [
@@ -145712,7 +145720,7 @@ export const reviewsData: unknown[] = [
           "**I crediti.** La modalità con IA consuma crediti a ogni richiesta, e il saldo del piano non si rinnova ogni mese. Anche cambiare un testo o un'immagine con Select & edit ne consuma un po'; solo la modalità senza IA modifica senza consumare.",
           "**Che cosa succede se non rinnovi.** La pagina avvisa: un piano scaduto e non rinnovato mette il progetto offline e cancella i dati. Esporta il codice prima di lasciarlo scadere.",
           "**Rimborso entro 30 giorni**, purché tu abbia consumato meno di 30 crediti IA.",
-          "**Il negozio online** è una voce dei piani Unlimited e Cloud Startup; nell'Unlimited, la pagina dice che è gratuito per 3 mesi. Controlla al checkout quanto costa dopo.",
+          "**Il negozio online** è un componente a pagamento, disponibile nei piani Unlimited e Cloud Startup e fatturato a parte rispetto al piano. Controlla il prezzo al checkout.",
           "**Non esiste un'app nativa.** Quello che fa l'AI Builder è un'app web responsive, che si apre nel browser del telefono. Per l'App Store e Google Play è un'altra strada."
         ],
         "postParagraphs": [
@@ -145741,7 +145749,7 @@ export const reviewsData: unknown[] = [
           "L'AI Builder di Hostinger fa il sito da solo? Monta la prima versione a partire dalla tua descrizione, secondo la pagina. I contenuti, le foto e le decisioni di business restano tuoi, e ogni richiesta in modalità IA consuma crediti.",
           "Serve saper programmare per usare l'AI Builder? No. La pagina dice che non richiede competenze tecniche in nessuna delle due modalità. Chi sa programmare ha un editor di codice nella modalità con IA.",
           "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app richiede una riconfigurazione fuori da lì.",
-          "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è una voce dei piani Unlimited e Cloud Startup. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
+          "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è disponibile nei piani Unlimited e Cloud Startup come componente a pagamento. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
           "C'è un coupon per l'AI Builder di Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
@@ -145879,7 +145887,7 @@ export const reviewsData: unknown[] = [
             [
               "Kleiner Shop mit wenigen Produkten",
               "KI-Builder (Tarif Unlimited) oder WordPress mit WooCommerce",
-              "Der KI-Builder hat einen integrierten Onlineshop; WooCommerce bietet mehr Kontrolle über Versand und Zahlung, verlangt aber Einrichtung."
+              "Der KI-Builder bietet einen Onlineshop als kostenpflichtige Ergänzung; WooCommerce bietet mehr Kontrolle über Versand und Zahlung, verlangt aber Einrichtung."
             ],
             [
               "Blog, der von Plugins abhängt (SEO, Formulare, Mitgliederbereich)",
@@ -145948,7 +145956,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Onlineshop",
-              "Integriert in den Tarifen Unlimited und Cloud Startup",
+              "Kostenpflichtige Ergänzung, verfügbar in den Tarifen Unlimited und Cloud Startup",
               "WooCommerce, kostenlos, mit kostenpflichtigen Erweiterungen"
             ],
             [
@@ -145976,7 +145984,7 @@ export const reviewsData: unknown[] = [
           "**Das Guthaben.** Der KI-Modus verbraucht bei jeder Anfrage Guthaben, und das Guthaben des Tarifs erneuert sich nicht jeden Monat. Schon der Austausch eines Textes oder Bildes mit Select & edit verbraucht etwas; nur der Modus ohne KI bearbeitet kostenlos.",
           "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor der Tarif ausläuft.",
           "**Rückerstattung innerhalb von 30 Tagen**, sofern Sie weniger als 30 KI-Guthaben verbraucht haben.",
-          "**Der Onlineshop** gehört zu den Tarifen Unlimited und Cloud Startup; bei Unlimited ist er laut Seite 3 Monate kostenlos. Prüfen Sie an der Kasse, was er danach kostet.",
+          "**Der Onlineshop** ist eine kostenpflichtige Ergänzung, verfügbar in den Tarifen Unlimited und Cloud Startup und getrennt vom Tarif berechnet. Prüfen Sie den Preis an der Kasse.",
           "**Eine native App gibt es nicht.** Was der KI-Builder macht, ist eine responsive Web-App, die im Browser des Handys läuft. Für den App Store und Google Play ist es ein anderer Weg."
         ],
         "postParagraphs": [
@@ -146005,7 +146013,7 @@ export const reviewsData: unknown[] = [
           "Baut der KI-Builder von Hostinger die Website von allein? Laut Seite baut er die erste Version aus Ihrer Beschreibung. Inhalt, Fotos und unternehmerische Entscheidungen bleiben Ihre, und jede Anfrage im KI-Modus verbraucht Guthaben.",
           "Braucht man Programmierkenntnisse für den KI-Builder? Nein. Laut Seite sind in beiden Modi keine technischen Kenntnisse nötig. Wer programmieren kann, hat im KI-Modus einen Code-Editor.",
           "Kann man vom KI-Builder zu einem anderen Hoster migrieren? Laut Seite lässt sich der Quellcode exportieren und anderswo hosten. Das integrierte Back-End mit Datenbank und Login bleibt bei Hostinger, eine App muss also außerhalb neu konfiguriert werden.",
-          "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop gehört zu den Tarifen Unlimited und Cloud Startup. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
+          "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop ist in den Tarifen Unlimited und Cloud Startup als kostenpflichtige Ergänzung verfügbar. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
           "Gibt es einen Gutschein für den KI-Builder von Hostinger? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
@@ -146143,7 +146151,7 @@ export const reviewsData: unknown[] = [
             [
               "商品数の少ない小さなショップ",
               "AI Builder（Unlimited プラン）か WordPress + WooCommerce",
-              "AI Builder にはショップ機能が内蔵されています。WooCommerce は配送と決済をより細かく制御できますが、設定が必要です。"
+              "AI Builder ではショップ機能を有料のオプションとして追加できます。WooCommerce は配送と決済をより細かく制御できますが、設定が必要です。"
             ],
             [
               "プラグイン頼みのブログ（SEO、フォーム、会員エリア）",
@@ -146212,7 +146220,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "ショップ",
-              "Unlimited と Cloud Startup プランに内蔵",
+              "有料オプション（Unlimited と Cloud Startup プランで利用可）",
               "WooCommerce。無料で、有料の拡張あり"
             ],
             [
@@ -146240,7 +146248,7 @@ export const reviewsData: unknown[] = [
           "**クレジット。**AI を使うモードは依頼のたびにクレジットを消費し、プランの残高は毎月は戻りません。Select & edit でテキストや画像を差し替えるだけでも少し消費します。消費せずに編集できるのは AI を使わないモードだけです。",
           "**更新しないとどうなるか。**ページに注意書きがあります。期限が切れて更新されないプランはプロジェクトが公開停止になり、データも削除されます。期限が切れる前にコードをエクスポートしてください。",
           "**返金は 30 日以内**で、使った AI クレジットが 30 未満の場合に限ります。",
-          "**ショップ機能**は Unlimited と Cloud Startup プランの機能です。Unlimited では、ページによると 3 か月間無料です。そのあとの費用はチェックアウトで確認してください。",
+          "**ショップ機能**は有料のオプションです。Unlimited と Cloud Startup プランで利用でき、プランとは別に請求されます。料金はチェックアウトで確認してください。",
           "**ネイティブアプリは作れません。**AI Builder が作るのは、スマートフォンのブラウザで開くレスポンシブな Web アプリです。App Store や Google Play 向けには別の方法が必要です。"
         ],
         "postParagraphs": [
@@ -146269,7 +146277,7 @@ export const reviewsData: unknown[] = [
           "Hostinger の AI Builder はサイトを自動で作ってくれますか？ ページによれば、説明をもとに最初のバージョンを組み立てます。内容、写真、ビジネス上の判断は自分で行い、AI を使うモードでは依頼のたびにクレジットを消費します。",
           "AI Builder を使うのにプログラミングは必要ですか？ いいえ。ページによれば、どちらのモードも専門知識は不要です。プログラミングができる人には、AI を使うモードにコードエディタがあります。",
           "AI Builder から別のホスティングへ移せますか？ ページによれば、ソースコードをエクスポートして別の場所でホストできます。データベースとログインを含む内蔵バックエンドは Hostinger に残るため、アプリは外部で再設定が必要です。",
-          "AI Builder はショップに向いていますか？ 小さなショップなら向いています。ショップ機能は Unlimited と Cloud Startup プランの機能です。配送や決済のルールが複雑な大きなショップは、WooCommerce 付きの WordPress のほうが制御しやすくなります。",
+          "AI Builder はショップに向いていますか？ 小さなショップなら向いています。ショップ機能は Unlimited と Cloud Startup プランで有料のオプションとして利用できます。配送や決済のルールが複雑な大きなショップは、WooCommerce 付きの WordPress のほうが制御しやすくなります。",
           "Hostinger の AI Builder にクーポンはありますか？ あります。コード SONAR20 をカートのクーポン欄に入れると、最初の期間が 20% 引きになります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
@@ -146406,7 +146414,7 @@ export const reviewsData: unknown[] = [
             [
               "상품이 적은 작은 온라인 스토어",
               "AI Builder(Unlimited 플랜) 또는 WordPress + WooCommerce",
-              "AI Builder에는 온라인 스토어가 내장되어 있고, WooCommerce는 배송과 결제를 더 세밀하게 제어하지만 설정이 필요합니다."
+              "AI Builder는 온라인 스토어를 유료 옵션으로 제공하고, WooCommerce는 배송과 결제를 더 세밀하게 제어하지만 설정이 필요합니다."
             ],
             [
               "플러그인에 의존하는 블로그(SEO, 폼, 회원 전용 영역)",
@@ -146475,7 +146483,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "온라인 스토어",
-              "Unlimited와 Cloud Startup 플랜에 내장",
+              "유료 옵션, Unlimited와 Cloud Startup 플랜에서 이용 가능",
               "WooCommerce. 무료이며 유료 확장 프로그램이 있음"
             ],
             [
@@ -146503,7 +146511,7 @@ export const reviewsData: unknown[] = [
           "**크레딧.** AI 모드는 요청할 때마다 크레딧을 쓰고, 플랜의 잔액은 매달 새로 채워지지 않습니다. Select & edit로 텍스트나 이미지를 바꾸는 것만으로도 조금 듭니다. 크레딧 없이 편집할 수 있는 것은 AI를 쓰지 않는 모드뿐입니다.",
           "**갱신하지 않으면 어떻게 되는가.** 페이지가 이렇게 경고합니다. 만료되어 갱신하지 않은 플랜은 프로젝트가 내려가고 데이터가 삭제됩니다. 만료되기 전에 코드를 내보내 두세요.",
           "**30일 환불**은 AI 크레딧을 30 미만으로 쓴 경우에 한합니다.",
-          "**온라인 스토어**는 Unlimited와 Cloud Startup 플랜의 기능이고, Unlimited에서는 페이지에 따르면 3개월 동안 무료입니다. 그 뒤의 비용은 결제 화면에서 확인하세요.",
+          "**온라인 스토어**는 유료 옵션이며 Unlimited와 Cloud Startup 플랜에서 이용할 수 있고, 플랜과 별도로 청구됩니다. 가격은 결제 화면에서 확인하세요.",
           "**네이티브 앱은 없습니다.** AI Builder가 만드는 것은 휴대폰 브라우저에서 열리는 반응형 웹 앱입니다. App Store와 Google Play용은 다른 방법이 필요합니다."
         ],
         "postParagraphs": [
@@ -146532,7 +146540,7 @@ export const reviewsData: unknown[] = [
           "Hostinger의 AI Builder는 사이트를 알아서 만들어 주나요? 페이지에 따르면 설명을 바탕으로 첫 버전을 만들어 줍니다. 콘텐츠, 사진, 사업상의 결정은 계속 사용자의 몫이고, AI 모드에서는 요청마다 크레딧이 듭니다.",
           "AI Builder를 쓰려면 코딩을 알아야 하나요? 아니요. 페이지에 따르면 두 모드 모두 기술 지식이 필요 없습니다. 코딩을 아는 사람에게는 AI 모드에 코드 에디터가 있습니다.",
           "AI Builder에서 다른 호스팅으로 옮길 수 있나요? 페이지에 따르면 소스 코드를 내보내 다른 곳에서 호스팅할 수 있습니다. 데이터베이스와 로그인이 있는 내장 백엔드는 Hostinger에 남기 때문에, 앱은 밖에서 다시 설정해야 합니다.",
-          "AI Builder는 온라인 스토어에 맞나요? 작은 스토어라면 맞습니다. 온라인 스토어는 Unlimited와 Cloud Startup 플랜의 기능입니다. 배송과 결제 규칙이 있는 큰 스토어는 WooCommerce를 쓰는 WordPress가 더 세밀하게 제어할 수 있습니다.",
+          "AI Builder는 온라인 스토어에 맞나요? 작은 스토어라면 맞습니다. 온라인 스토어는 Unlimited와 Cloud Startup 플랜에서 유료 옵션으로 이용할 수 있습니다. 배송과 결제 규칙이 있는 큰 스토어는 WooCommerce를 쓰는 WordPress가 더 세밀하게 제어할 수 있습니다.",
           "Hostinger의 AI Builder에 쿠폰이 있나요? 있습니다. 코드 SONAR20을 장바구니의 쿠폰 입력란에 넣으면 첫 기간이 20% 할인됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
@@ -146670,7 +146678,7 @@ export const reviewsData: unknown[] = [
             [
               "商品不多的小店",
               "AI Builder（Unlimited 套餐）或 WordPress 加 WooCommerce",
-              "AI Builder 内置网店；WooCommerce 对运费和支付的控制更细，但要自己配置。"
+              "AI Builder 以付费附加项提供网店；WooCommerce 对运费和支付的控制更细，但要自己配置。"
             ],
             [
               "依赖插件的博客（SEO、表单、会员区）",
@@ -146739,7 +146747,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "网店",
-              "Unlimited 和 Cloud Startup 套餐内置",
+              "付费附加项，Unlimited 和 Cloud Startup 套餐可用",
               "WooCommerce，免费，扩展要付费"
             ],
             [
@@ -146767,7 +146775,7 @@ export const reviewsData: unknown[] = [
           "**额度。**AI 模式每次请求都消耗额度，套餐里的余额不会每月重置。哪怕用 Select & edit 换一段文字或一张图片，也会消耗少量额度；只有不用 AI 的模式可以免费编辑。",
           "**不续费会怎样。**页面有提醒：套餐到期未续费，项目会下线，数据会被删除。别等到期，先导出代码。",
           "**30 天内可退款**，前提是你使用的 AI 额度少于 30 个。",
-          "**网店**是 Unlimited 和 Cloud Startup 套餐的功能；按页面所说，Unlimited 有 3 个月免费。之后要花多少钱，请在结账页确认。",
+          "**网店**是付费附加项，Unlimited 和 Cloud Startup 套餐可用，与套餐分开收费。具体价格，请在结账页确认。",
           "**没有原生应用。**AI Builder 做出来的是在手机浏览器里打开的自适应 Web 应用。要上架 App Store 或 Google Play，得走别的路。"
         ],
         "postParagraphs": [
@@ -146796,7 +146804,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 的 AI Builder 能自己把网站做出来吗？按页面所说，它会根据你的描述搭出第一版。内容、照片和业务决策仍然是你的，AI 模式下每次请求都消耗额度。",
           "用 AI Builder 需要会编程吗？不需要。页面说两种模式都不要求技术知识。会编程的人，在 AI 模式里有代码编辑器。",
           "能从 AI Builder 迁到别的主机吗？页面说源代码可以导出，放到别处托管。带数据库和登录的内置后端留在 Hostinger，所以应用在别处需要重新配置。",
-          "AI Builder 适合开网店吗？小店可以：网店是 Unlimited 和 Cloud Startup 套餐的功能。对运费和支付规则复杂的大店，WordPress 加 WooCommerce 控制得更细。",
+          "AI Builder 适合开网店吗？小店可以：网店在 Unlimited 和 Cloud Startup 套餐中以付费附加项提供。对运费和支付规则复杂的大店，WordPress 加 WooCommerce 控制得更细。",
           "Hostinger 的 AI Builder 有优惠码吗？有：在购物车的优惠码栏输入 SONAR20，首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
@@ -146934,7 +146942,7 @@ export const reviewsData: unknown[] = [
             [
               "商品不多的小店",
               "AI Builder（Unlimited 方案）或 WordPress 加 WooCommerce",
-              "AI Builder 內建網路商店；WooCommerce 對運費和付款的控制更細，但要自己設定。"
+              "AI Builder 以付費附加項提供網路商店；WooCommerce 對運費和付款的控制更細，但要自己設定。"
             ],
             [
               "依賴外掛的部落格（SEO、表單、會員區）",
@@ -147003,7 +147011,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "網路商店",
-              "Unlimited 和 Cloud Startup 方案內建",
+              "付費附加項，Unlimited 和 Cloud Startup 方案可用",
               "WooCommerce，免費，擴充功能要付費"
             ],
             [
@@ -147031,7 +147039,7 @@ export const reviewsData: unknown[] = [
           "**額度。**AI 模式每次請求都消耗額度，方案裡的餘額不會每月重置。就算用 Select & edit 換一段文字或一張圖片，也會消耗少量額度；只有不用 AI 的模式可以免費編輯。",
           "**不續約會怎樣。**頁面有提醒：方案到期未續約，專案會下線，資料會被刪除。別等到期，先匯出程式碼。",
           "**30 天內可退款**，前提是你使用的 AI 額度少於 30 個。",
-          "**網路商店**是 Unlimited 和 Cloud Startup 方案的功能；依頁面所說，Unlimited 有 3 個月免費。之後要花多少錢，請在結帳頁確認。",
+          "**網路商店**是付費附加項，Unlimited 和 Cloud Startup 方案可用，與方案分開收費。具體價格，請在結帳頁確認。",
           "**沒有原生 App。**AI Builder 做出來的是在手機瀏覽器裡開啟的響應式 Web 應用程式。要上架 App Store 或 Google Play，得走別的路。"
         ],
         "postParagraphs": [
@@ -147060,7 +147068,7 @@ export const reviewsData: unknown[] = [
           "Hostinger 的 AI Builder 能自己把網站做出來嗎？依頁面所說，它會根據你的描述搭出第一版。內容、照片和業務決策仍然是你的，AI 模式下每次請求都消耗額度。",
           "用 AI Builder 需要會寫程式嗎？不需要。頁面說兩種模式都不要求技術知識。會寫程式的人，在 AI 模式裡有程式碼編輯器。",
           "能從 AI Builder 搬到別的主機嗎？頁面說原始碼可以匯出，放到別處託管。含資料庫和登入的內建後端留在 Hostinger，所以應用程式在別處需要重新設定。",
-          "AI Builder 適合開網路商店嗎？小店可以：網路商店是 Unlimited 和 Cloud Startup 方案的功能。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
+          "AI Builder 適合開網路商店嗎？小店可以：網路商店在 Unlimited 和 Cloud Startup 方案中以付費附加項提供。對運費和付款規則複雜的大店，WordPress 加 WooCommerce 控制得更細。",
           "Hostinger 的 AI Builder 有優惠碼嗎？有：在購物車的優惠碼欄位輸入 SONAR20，首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
@@ -147155,7 +147163,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com mais de 60 dias; os preços estão abaixo."
+          "O domínio é uma conta separada da hospedagem: pode ficar na Hostinger ou em outro registrador, e o site funciona dos dois jeitos. Escolha pelo preço de renovação e pela facilidade de sair, não pelo primeiro ano. Compre na Hostinger se quer tudo num painel, e transfira só domínio com 60 dias desde o registro ou a última transferência."
         ]
       },
       {
@@ -147416,7 +147424,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The domain is a separate account from the hosting: it can stay at Hostinger or at another registrar, and the site works either way. Choose by the renewal price and by how easy it is to leave, not by the first year. Buy at Hostinger if you want everything in one panel, and transfer only a domain that is more than 60 days old."
+          "The domain is a separate account from the hosting: it can stay at Hostinger or at another registrar, and the site works either way. Choose by the renewal price and by how easy it is to leave, not by the first year. Buy at Hostinger if you want everything in one panel, and transfer only a domain registered or transferred at least 60 days ago."
         ]
       },
       {
@@ -147633,7 +147641,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "El dominio es una cuenta aparte del hosting: puede estar en Hostinger o en otro registrador, y el sitio funciona de las dos maneras. Elige por el precio de renovación y por lo fácil que sea salir, no por el primer año. Compra en Hostinger si quieres todo en un panel, y transfiere solo un dominio con más de 60 días."
+          "El dominio es una cuenta aparte del hosting: puede estar en Hostinger o en otro registrador, y el sitio funciona de las dos maneras. Elige por el precio de renovación y por lo fácil que sea salir, no por el primer año. Compra en Hostinger si quieres todo en un panel, y transfiere solo un dominio registrado o transferido hace 60 días o más."
         ]
       },
       {
@@ -147850,7 +147858,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Le domaine est un compte distinct de l'hébergement : il peut rester chez Hostinger ou chez un autre registrar, et le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité à partir, pas selon la première année. Achetez chez Hostinger si vous voulez tout dans un seul panneau, et ne transférez qu'un domaine de plus de 60 jours."
+          "Le domaine est un compte distinct de l'hébergement : il peut rester chez Hostinger ou chez un autre registrar, et le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité à partir, pas selon la première année. Achetez chez Hostinger si vous voulez tout dans un seul panneau, et ne transférez qu'un domaine enregistré ou transféré depuis 60 jours au moins."
         ]
       },
       {
@@ -148067,7 +148075,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il dominio è un account separato dall'hosting: può stare su Hostinger o presso un altro registrar, e il sito funziona in entrambi i casi. Scegli in base al prezzo di rinnovo e alla facilità di uscita, non al primo anno. Compra su Hostinger se vuoi tutto in un solo pannello, e trasferisci solo un dominio con più di 60 giorni."
+          "Il dominio è un account separato dall'hosting: può stare su Hostinger o presso un altro registrar, e il sito funziona in entrambi i casi. Scegli in base al prezzo di rinnovo e alla facilità di uscita, non al primo anno. Compra su Hostinger se vuoi tutto in un solo pannello, e trasferisci solo un dominio registrato o trasferito da almeno 60 giorni."
         ]
       },
       {
@@ -148284,7 +148292,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Die Domain ist ein eigenes Konto, getrennt vom Hosting: Sie kann bei Hostinger oder bei einem anderen Registrar liegen, und die Website funktioniert in beiden Fällen. Entscheiden Sie nach dem Verlängerungspreis und danach, wie leicht Sie wieder wegkommen, nicht nach dem ersten Jahr. Kaufen Sie bei Hostinger, wenn Sie alles in einem Panel wollen, und ziehen Sie nur eine Domain um, die älter als 60 Tage ist."
+          "Die Domain ist ein eigenes Konto, getrennt vom Hosting: Sie kann bei Hostinger oder bei einem anderen Registrar liegen, und die Website funktioniert in beiden Fällen. Entscheiden Sie nach dem Verlängerungspreis und danach, wie leicht Sie wieder wegkommen, nicht nach dem ersten Jahr. Kaufen Sie bei Hostinger, wenn Sie alles in einem Panel wollen, und ziehen Sie nur eine Domain um, die seit mindestens 60 Tagen registriert oder umgezogen ist."
         ]
       },
       {
@@ -148501,7 +148509,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "ドメインはホスティングとは別の契約です。Hostingerに置いても別のレジストラに置いても、サイトはどちらでも動きます。選ぶ基準は初年度の安さではなく、更新料と出ていきやすさです。すべてを1つの管理画面で済ませたいならHostingerで買い、移管するのは登録から60日以上たったドメインだけにしてください。"
+          "ドメインはホスティングとは別の契約です。Hostingerに置いても別のレジストラに置いても、サイトはどちらでも動きます。選ぶ基準は初年度の安さではなく、更新料と出ていきやすさです。すべてを1つの管理画面で済ませたいならHostingerで買い、移管するのは、登録または前回の移管から60日以上たったドメインだけにしてください。"
         ]
       },
       {
@@ -148718,7 +148726,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "한눈에 보기",
         "paragraphs": [
-          "도메인은 호스팅과 별개의 계정입니다. Hostinger에 두어도, 다른 등록 기관에 두어도 사이트는 두 방식 모두 작동합니다. 첫해 가격이 아니라 갱신 요금과 떠나기 쉬운 정도로 고르세요. 모든 것을 한 패널에서 관리하고 싶다면 Hostinger에서 구매하고, 이전은 등록한 지 60일이 넘은 도메인만 하세요."
+          "도메인은 호스팅과 별개의 계정입니다. Hostinger에 두어도, 다른 등록 기관에 두어도 사이트는 두 방식 모두 작동합니다. 첫해 가격이 아니라 갱신 요금과 떠나기 쉬운 정도로 고르세요. 모든 것을 한 패널에서 관리하고 싶다면 Hostinger에서 구매하고, 이전은 등록 또는 마지막 이전 후 60일 이상 지난 도메인만 하세요."
         ]
       },
       {
@@ -148935,7 +148943,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "域名是和主机分开的账户：可以放在 Hostinger，也可以放在别的注册商，网站两种方式都能运行。选的时候看续费价和好不好迁出，不要看第一年。想把一切放在一个面板里，就在 Hostinger 买；转入只限注册满 60 天的域名。"
+          "域名是和主机分开的账户：可以放在 Hostinger，也可以放在别的注册商，网站两种方式都能运行。选的时候看续费价和好不好迁出，不要看第一年。想把一切放在一个面板里，就在 Hostinger 买；转入只限注册或上次转移满 60 天的域名。"
         ]
       },
       {
@@ -149152,7 +149160,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "網域是和主機分開的帳戶：可以放在 Hostinger，也可以放在別的註冊商，網站兩種方式都能運作。選的時候看續訂價和好不好遷出，不要看第一年。想把一切放在同一個控制台裡，就在 Hostinger 買；轉入只限註冊滿 60 天的網域。"
+          "網域是和主機分開的帳戶：可以放在 Hostinger，也可以放在別的註冊商，網站兩種方式都能運作。選的時候看續訂價和好不好遷出，不要看第一年。想把一切放在同一個控制台裡，就在 Hostinger 買；轉入只限註冊或上次轉移滿 60 天的網域。"
         ]
       },
       {
@@ -151846,7 +151854,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "A YesStyle tem nota 4,4 na Trustpilot, com mais de 104 mil avaliações e 71% de cinco estrelas. Veja as queixas de entrega e por que a nota global não diz nada sobre o seu país.",
-    "metaDescription": "YesStyle na Trustpilot em 28/10/2026: nota 4,4 em 104 mil avaliações, 71% de cinco estrelas, queixas de entrega e rastreio. Veja o que a nota não mostra.",
+    "metaDescription": "YesStyle na Trustpilot em novembro: nota 4,4 em 104 mil avaliações, 71% de cinco estrelas, queixas de entrega e rastreio. Veja o que a nota não mostra.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -151862,13 +151870,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em 28/10/2026, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas negativas que lemos, as queixas eram de entrega internacional e rastreio. A nota é global e não separa países."
+          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em novembro, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas negativas que lemos, as queixas eram de entrega internacional e rastreio. A nota é global e não separa países."
         ]
       },
       {
         "heading": "O que a nota mede",
         "paragraphs": [
-          "O TrustScore é a nota do perfil na Trustpilot. A YesStyle tinha 4,4, com o rótulo \"Excellent\", em 104.552 avaliações; 11.757 delas foram publicadas nos últimos 12 meses. O perfil é reivindicado pela empresa e tem assinatura paga da Trustpilot, como a própria página informa.",
+          "O TrustScore é a nota do perfil na Trustpilot. A YesStyle tinha 4,4, com o rótulo \"Excellent\", em 104.909 avaliações; 11.757 delas foram publicadas nos últimos 12 meses. O perfil é reivindicado pela empresa e tem assinatura paga da Trustpilot, como a própria página informa.",
           "A distribuição por estrela, na mesma leitura: 71% de cinco estrelas, 18% de quatro, 3% de três, 1% de duas e 7% de uma. Cinco e quatro estrelas somam a maior parte; a nota de uma estrela, com 7%, pesa mais do que as de duas e três juntas, e é nela que as queixas aparecem."
         ],
         "image": {
@@ -151952,7 +151960,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nossa checagem",
         "paragraphs": [
-          "Em 28/10/2026, lemos o perfil público da YesStyle na Trustpilot, sem login: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. No mesmo dia, lemos a página da YesStyle no Reclame Aqui, para conferir se a loja atende lá.",
+          "Em 28/10/2026, lemos o perfil público da YesStyle na Trustpilot, sem login: a nota, o número de avaliações, a distribuição por estrela, o índice de respostas e as avaliações visíveis, de onde saíram os temas. No mesmo dia, lemos a página da YesStyle no Reclame Aqui, para conferir se a loja atende lá. Em novembro, a nota, o número de avaliações e a distribuição por estrela foram conferidos de novo.",
           "No app da loja, num teste nosso sem compra, conferimos o checkout: ele tem o campo do código de recompensa, e a YesStyle não oferecia entrega para o Brasil.",
           "Os números da Trustpilot mudam todo mês; confira o perfil no dia da compra."
         ],
@@ -151973,7 +151981,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na YesStyle pela Trustpilot?",
         "paragraphs": [
-          "Pela Trustpilot, a leitura é boa: TrustScore 4,4, \"Excellent\", em 104.552 avaliações, 71% delas de cinco estrelas e 7% de uma, com 98% das negativas respondidas, em geral em até 24 horas.",
+          "Pela Trustpilot, a leitura é boa: TrustScore 4,4, \"Excellent\", em 104.909 avaliações, 71% delas de cinco estrelas e 7% de uma, com 98% das negativas respondidas, em geral em até 24 horas.",
           "A ressalva é de escopo, não de nota. O perfil é global, não separa países, e as queixas que lemos são de entrega internacional: atraso, rastreio e extravio. A Trustpilot mostra como a loja se comporta no conjunto; o frete e o prazo do seu endereço estão no checkout."
         ]
       },
@@ -151988,7 +151996,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A YesStyle tem boa nota na Trustpilot? O TrustScore era 4,4, com o rótulo \"Excellent\", em 104.552 avaliações; 71% davam cinco estrelas e 7%, uma.",
+          "A YesStyle tem boa nota na Trustpilot? O TrustScore era 4,4, com o rótulo \"Excellent\", em 104.909 avaliações; 71% davam cinco estrelas e 7%, uma.",
           "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas que lemos, os temas eram de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
           "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, a loja respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a resposta pode usar inteligência artificial.",
           "A YesStyle entrega no Brasil? Não: a loja não oferecia entrega para o Brasil, num teste nosso no app. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
@@ -152034,7 +152042,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "YesStyle scores 4.4 on Trustpilot, with over 104,000 reviews and 71% five-star. See the delivery complaints and why a global score says nothing about your own country.",
-    "metaDescription": "YesStyle on Trustpilot on October 28, 2026: 4.4 from 104,000 reviews, 71% five-star, delivery and tracking complaints. See what the score doesn't show.",
+    "metaDescription": "YesStyle on Trustpilot in November 2026: 4.4 from 104,000 reviews, 71% five-star, delivery and tracking complaints. See what the score doesn't show.",
     "publishedAt": "October 29, 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -152051,13 +152059,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle has a good Trustpilot score, with one caveat. On October 28, 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. In the negative reviews we read, the complaints were about international delivery and tracking. The score is global and doesn't separate countries."
+          "YesStyle has a good Trustpilot score, with one caveat. In November 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. In the negative reviews we read, the complaints were about international delivery and tracking. The score is global and doesn't separate countries."
         ]
       },
       {
         "heading": "What the score measures",
         "paragraphs": [
-          "The TrustScore is the profile's Trustpilot score. YesStyle had 4.4, labeled “Excellent”, across 104,552 reviews; 11,757 of them were published in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
+          "The TrustScore is the profile's Trustpilot score. YesStyle had 4.4, labeled “Excellent”, across 104,909 reviews; 11,757 of them were published in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
           "The breakdown by star, from the same reading: 71% five-star, 18% four-star, 3% three-star, 1% two-star and 7% one-star. Five and four stars make up most of the total; the one-star share, at 7%, weighs more than two and three stars combined, and that is where the complaints show up."
         ],
         "image": {
@@ -152141,7 +152149,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Our check",
         "paragraphs": [
-          "On October 28, 2026, we read YesStyle's public Trustpilot profile, without logging in: the score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from.",
+          "On October 28, 2026, we read YesStyle's public Trustpilot profile, without logging in: the score, the number of reviews, the breakdown by star, the reply rate and the visible reviews, which is where the themes came from. In November, the score, the number of reviews and the breakdown by star were checked again.",
           "In the store's app, in a test of ours without a purchase, we checked the checkout: it has the Reward Code field.",
           "Trustpilot's numbers change every month; check the profile on the day you buy."
         ],
@@ -152162,7 +152170,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Can you trust YesStyle going by Trustpilot?",
         "paragraphs": [
-          "By Trustpilot, the reading is good: TrustScore 4.4, “Excellent”, across 104,552 reviews, 71% of them five-star and 7% one-star, with 98% of negative reviews answered, usually within 24 hours.",
+          "By Trustpilot, the reading is good: TrustScore 4.4, “Excellent”, across 104,909 reviews, 71% of them five-star and 7% one-star, with 98% of negative reviews answered, usually within 24 hours.",
           "The caveat is about scope, not score. The profile is global, doesn't separate countries, and the complaints we read are about international delivery: delays, tracking and lost packages. Trustpilot shows how the store behaves overall; the shipping cost and delivery time for your address are in the checkout."
         ]
       },
@@ -152177,7 +152185,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Does YesStyle have a good Trustpilot score? The TrustScore was 4.4, labeled “Excellent”, across 104,552 reviews; 71% gave five stars and 7% gave one.",
+          "Does YesStyle have a good Trustpilot score? The TrustScore was 4.4, labeled “Excellent”, across 104,909 reviews; 71% gave five stars and 7% gave one.",
           "What are the most common complaints about YesStyle? In the negative reviews we read, the themes are about international delivery: delays and long waits, stalled tracking, lost packages, damaged items and orders held in processing.",
           "Does YesStyle reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use artificial intelligence."
         ]
@@ -152222,7 +152230,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "YesStyle tiene un 4,4 en Trustpilot, con más de 104 mil opiniones y 71 % de cinco estrellas. Mira las quejas de envío y por qué la nota global no dice nada sobre tu país.",
-    "metaDescription": "YesStyle en Trustpilot el 28 de octubre de 2026: 4,4 con 104 mil opiniones, 71 % de cinco estrellas, quejas de envío y seguimiento. Mira lo que la nota no muestra.",
+    "metaDescription": "YesStyle en Trustpilot en noviembre de 2026: 4,4 con 104 mil opiniones, 71 % de cinco estrellas, quejas de envío y seguimiento. Mira lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -152239,13 +152247,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle tiene buena calificación en Trustpilot, con una salvedad. El 28 de octubre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. En las opiniones negativas que leímos, las quejas eran sobre el envío internacional y el seguimiento. La nota es global y no separa países."
+          "YesStyle tiene buena calificación en Trustpilot, con una salvedad. En noviembre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. En las opiniones negativas que leímos, las quejas eran sobre el envío internacional y el seguimiento. La nota es global y no separa países."
         ]
       },
       {
         "heading": "Qué mide la nota",
         "paragraphs": [
-          "El TrustScore es la calificación del perfil en Trustpilot. YesStyle tenía 4,4, con la etiqueta «Excellent», en 104.552 opiniones; 11.757 de ellas se publicaron en los últimos 12 meses. La empresa ha reclamado el perfil y tiene suscripción de pago de Trustpilot, como informa la propia página.",
+          "El TrustScore es la calificación del perfil en Trustpilot. YesStyle tenía 4,4, con la etiqueta «Excellent», en 104.909 opiniones; 11.757 de ellas se publicaron en los últimos 12 meses. La empresa ha reclamado el perfil y tiene suscripción de pago de Trustpilot, como informa la propia página.",
           "La distribución por estrellas, en la misma lectura: 71 % de cinco estrellas, 18 % de cuatro, 3 % de tres, 1 % de dos y 7 % de una. Cinco y cuatro estrellas suman la mayor parte; la nota de una estrella, con 7 %, pesa más que las de dos y tres juntas, y es ahí donde aparecen las quejas."
         ],
         "image": {
@@ -152329,7 +152337,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Nuestra comprobación",
         "paragraphs": [
-          "El 28 de octubre de 2026 se leyó el perfil público de YesStyle en Trustpilot, sin iniciar sesión: la nota, el número de opiniones, la distribución por estrellas, el índice de respuesta y las opiniones visibles, de donde salieron los temas.",
+          "El 28 de octubre de 2026 se leyó el perfil público de YesStyle en Trustpilot, sin iniciar sesión: la nota, el número de opiniones, la distribución por estrellas, el índice de respuesta y las opiniones visibles, de donde salieron los temas. En noviembre se volvieron a revisar la nota, el número de opiniones y la distribución por estrellas.",
           "En la app de la tienda, en una prueba nuestra sin compra, comprobamos el checkout: tiene el campo del código de recompensa.",
           "Los números de Trustpilot cambian cada mes; revisa el perfil el día de la compra."
         ],
@@ -152350,7 +152358,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "¿Se puede confiar en YesStyle según Trustpilot?",
         "paragraphs": [
-          "Según Trustpilot, la lectura es buena: TrustScore 4,4, «Excellent», en 104.552 opiniones, 71 % de ellas de cinco estrellas y 7 % de una, con 98 % de las negativas respondidas, por lo general en menos de 24 horas.",
+          "Según Trustpilot, la lectura es buena: TrustScore 4,4, «Excellent», en 104.909 opiniones, 71 % de ellas de cinco estrellas y 7 % de una, con 98 % de las negativas respondidas, por lo general en menos de 24 horas.",
           "La salvedad es de alcance, no de nota. El perfil es global, no separa países, y las quejas que leímos son de envío internacional: retraso, seguimiento y extravío. Trustpilot muestra cómo se comporta la tienda en conjunto; el envío y el plazo de tu dirección están en el checkout."
         ]
       },
@@ -152365,7 +152373,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Tiene YesStyle buena calificación en Trustpilot? El TrustScore era 4,4, con la etiqueta «Excellent», en 104.552 opiniones; 71 % daban cinco estrellas y 7 %, una.",
+          "¿Tiene YesStyle buena calificación en Trustpilot? El TrustScore era 4,4, con la etiqueta «Excellent», en 104.909 opiniones; 71 % daban cinco estrellas y 7 %, una.",
           "¿Cuáles son las quejas más comunes sobre YesStyle? En las opiniones negativas que leímos, los temas son de envío internacional: retraso y espera larga, seguimiento detenido, paquete extraviado, artículo dañado y pedido retenido en procesamiento.",
           "¿Responde YesStyle a las opiniones negativas? Según el perfil en Trustpilot, la tienda respondió al 98 % de las opiniones negativas, por lo general en menos de 24 horas, y la respuesta puede usar inteligencia artificial."
         ]
@@ -152410,7 +152418,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "YesStyle a une note de 4,4 sur Trustpilot, avec plus de 104 000 avis et 71 % de cinq étoiles. Voyez les plaintes de livraison et pourquoi la note ne dit rien sur votre pays.",
-    "metaDescription": "YesStyle sur Trustpilot le 28 octobre 2026 : note de 4,4 sur 104 000 avis, 71 % de cinq étoiles, plaintes de livraison et de suivi. Voyez ce que la note ne montre pas.",
+    "metaDescription": "YesStyle sur Trustpilot en novembre 2026 : note de 4,4 sur 104 000 avis, 71 % de cinq étoiles, plaintes de livraison et de suivi. Voyez ce que la note ne montre pas.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -152427,13 +152435,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle a une bonne note sur Trustpilot, avec une réserve. Le 28 octobre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Dans les avis négatifs que nous avons lus, les plaintes portaient sur la livraison internationale et le suivi. La note est globale et ne distingue pas les pays."
+          "YesStyle a une bonne note sur Trustpilot, avec une réserve. En novembre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Dans les avis négatifs que nous avons lus, les plaintes portaient sur la livraison internationale et le suivi. La note est globale et ne distingue pas les pays."
         ]
       },
       {
         "heading": "Ce que mesure la note",
         "paragraphs": [
-          "Le TrustScore est la note du profil sur Trustpilot. YesStyle avait 4,4, avec la mention « Excellent », sur 104 552 avis ; 11 757 d’entre eux ont été publiés ces 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme l’indique la page elle-même.",
+          "Le TrustScore est la note du profil sur Trustpilot. YesStyle avait 4,4, avec la mention « Excellent », sur 104 909 avis ; 11 757 d’entre eux ont été publiés ces 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme l’indique la page elle-même.",
           "La répartition par étoile, sur la même lecture : 71 % de cinq étoiles, 18 % de quatre, 3 % de trois, 1 % de deux et 7 % d’une. Cinq et quatre étoiles forment l’essentiel ; la note d’une étoile, avec 7 %, pèse plus que celles de deux et trois étoiles réunies, et c’est là qu’apparaissent les plaintes."
         ],
         "image": {
@@ -152517,7 +152525,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Notre vérification",
         "paragraphs": [
-          "Le 28 octobre 2026, le profil public de YesStyle sur Trustpilot a été lu, sans connexion : la note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où sont sortis les thèmes.",
+          "Le 28 octobre 2026, le profil public de YesStyle sur Trustpilot a été lu, sans connexion : la note, le nombre d’avis, la répartition par étoile, le taux de réponse et les avis visibles, d’où sont sortis les thèmes. En novembre, la note, le nombre d’avis et la répartition par étoile ont été revérifiés.",
           "Dans l’appli de la boutique, lors d’un test de notre part sans achat, nous avons vérifié le paiement : il comporte le champ du code récompense.",
           "Les chiffres de Trustpilot changent chaque mois ; consultez le profil le jour de l’achat."
         ],
@@ -152538,7 +152546,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Peut-on faire confiance à YesStyle d’après Trustpilot ?",
         "paragraphs": [
-          "D’après Trustpilot, la lecture est bonne : TrustScore de 4,4, « Excellent », sur 104 552 avis, dont 71 % de cinq étoiles et 7 % d’une, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
+          "D’après Trustpilot, la lecture est bonne : TrustScore de 4,4, « Excellent », sur 104 909 avis, dont 71 % de cinq étoiles et 7 % d’une, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
           "La réserve porte sur le périmètre, pas sur la note. Le profil est global, ne sépare pas les pays, et les plaintes lues concernent la livraison internationale : retard, suivi et colis égaré. Trustpilot montre comment la boutique se comporte dans l’ensemble ; les frais de port et le délai pour votre adresse figurent au paiement."
         ]
       },
@@ -152553,7 +152561,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "YesStyle a-t-il une bonne note sur Trustpilot ? Le TrustScore était de 4,4, avec la mention « Excellent », sur 104 552 avis ; 71 % donnaient cinq étoiles et 7 %, une.",
+          "YesStyle a-t-il une bonne note sur Trustpilot ? Le TrustScore était de 4,4, avec la mention « Excellent », sur 104 909 avis ; 71 % donnaient cinq étoiles et 7 %, une.",
           "Quelles sont les plaintes les plus courantes sur YesStyle ? Dans les avis négatifs lus, les thèmes concernent la livraison internationale : retard et longue attente, suivi à l’arrêt, colis égaré, article endommagé et commande bloquée en traitement.",
           "YesStyle répond-il aux avis négatifs ? Selon le profil sur Trustpilot, la boutique a répondu à 98 % des avis négatifs, en général sous 24 heures, et la réponse peut utiliser l’intelligence artificielle."
         ]
@@ -152598,7 +152606,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i reclami sulla consegna e perché il punteggio non dice nulla sul tuo paese.",
-    "metaDescription": "YesStyle su Trustpilot al 28 ottobre 2026: punteggio 4,4 su 104 mila recensioni, 71% di cinque stelle, reclami su consegna e tracking. Scopri cosa il punteggio non mostra.",
+    "metaDescription": "YesStyle su Trustpilot a novembre 2026: punteggio 4,4 su 104 mila recensioni, 71% di cinque stelle, reclami su consegna e tracking. Scopri cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -152615,13 +152623,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. Il 28 ottobre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Nelle recensioni negative che abbiamo letto, i reclami riguardavano la consegna internazionale e il tracking. Il punteggio è globale e non distingue i paesi."
+          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. A novembre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Nelle recensioni negative che abbiamo letto, i reclami riguardavano la consegna internazionale e il tracking. Il punteggio è globale e non distingue i paesi."
         ]
       },
       {
         "heading": "Cosa misura il punteggio",
         "paragraphs": [
-          "Il TrustScore è il punteggio del profilo su Trustpilot. YesStyle aveva 4,4, con l’etichetta «Excellent», su 104.552 recensioni; 11.757 sono state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
+          "Il TrustScore è il punteggio del profilo su Trustpilot. YesStyle aveva 4,4, con l’etichetta «Excellent», su 104.909 recensioni; 11.757 sono state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
           "La distribuzione per stelle, nella stessa lettura: 71% di cinque stelle, 18% di quattro, 3% di tre, 1% di due e 7% di una. Cinque e quattro stelle sommano la maggior parte; la quota di una stella, con il 7%, pesa più di quelle di due e tre stelle insieme, ed è lì che compaiono i reclami."
         ],
         "image": {
@@ -152705,7 +152713,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "La nostra verifica",
         "paragraphs": [
-          "Il 28 ottobre 2026 è stato letto il profilo pubblico di YesStyle su Trustpilot, senza login: il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi.",
+          "Il 28 ottobre 2026 è stato letto il profilo pubblico di YesStyle su Trustpilot, senza login: il punteggio, il numero di recensioni, la distribuzione per stelle, la quota di risposte e le recensioni visibili, da cui sono usciti i temi. A novembre sono stati ricontrollati il punteggio, il numero di recensioni e la distribuzione per stelle.",
           "Nell’app del negozio, in un nostro test senza acquisto, abbiamo controllato il checkout: ha il campo per il codice ricompensa.",
           "I numeri di Trustpilot cambiano ogni mese; controlla il profilo il giorno dell’acquisto."
         ],
@@ -152726,7 +152734,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ci si può fidare di YesStyle in base a Trustpilot?",
         "paragraphs": [
-          "In base a Trustpilot, la lettura è buona: TrustScore 4,4, «Excellent», su 104.552 recensioni, il 71% di cinque stelle e il 7% di una, con il 98% delle negative con risposta, di solito entro 24 ore.",
+          "In base a Trustpilot, la lettura è buona: TrustScore 4,4, «Excellent», su 104.909 recensioni, il 71% di cinque stelle e il 7% di una, con il 98% delle negative con risposta, di solito entro 24 ore.",
           "La riserva riguarda l’ambito, non il punteggio. Il profilo è globale, non separa i paesi, e i reclami letti riguardano la consegna internazionale: ritardo, tracking e smarrimento. Trustpilot mostra come si comporta il negozio nel complesso; spedizione e tempi per il tuo indirizzo sono nel checkout."
         ]
       },
@@ -152741,7 +152749,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "YesStyle ha un buon punteggio su Trustpilot? Il TrustScore era 4,4, con l’etichetta «Excellent», su 104.552 recensioni; il 71% dava cinque stelle e il 7% una.",
+          "YesStyle ha un buon punteggio su Trustpilot? Il TrustScore era 4,4, con l’etichetta «Excellent», su 104.909 recensioni; il 71% dava cinque stelle e il 7% una.",
           "Quali sono i reclami più comuni su YesStyle? Nelle recensioni negative lette, i temi riguardano la consegna internazionale: ritardo e lunga attesa, tracking fermo, pacco smarrito, articolo danneggiato e ordine bloccato in elaborazione.",
           "YesStyle risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale."
         ]
@@ -152786,7 +152794,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "YesStyle hat auf Trustpilot eine Note von 4,4 bei über 104.000 Bewertungen und 71 % Fünf-Sterne. Hier die Beschwerden zur Lieferung und warum die Note nichts über Ihr Land aussagt.",
-    "metaDescription": "YesStyle auf Trustpilot am 28. Oktober 2026: Note 4,4 bei 104.000 Bewertungen, 71 % Fünf-Sterne, Beschwerden zu Lieferung und Sendungsverfolgung. Was die Note nicht zeigt.",
+    "metaDescription": "YesStyle auf Trustpilot im November 2026: Note 4,4 bei 104.000 Bewertungen, 71 % Fünf-Sterne, Beschwerden zu Lieferung und Sendungsverfolgung. Was die Note nicht zeigt.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -152803,13 +152811,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Am 28. Oktober 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den negativen Bewertungen, die wir gelesen haben, ging es in den Beschwerden um die internationale Lieferung und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern."
+          "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Im November 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den negativen Bewertungen, die wir gelesen haben, ging es in den Beschwerden um die internationale Lieferung und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern."
         ]
       },
       {
         "heading": "Was die Note misst",
         "paragraphs": [
-          "Der TrustScore ist die Note des Profils auf Trustpilot. YesStyle hatte 4,4, mit dem Label „Excellent“, bei 104.552 Bewertungen; 11.757 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil wird vom Unternehmen beansprucht und hat ein bezahltes Trustpilot-Abo, wie die Seite selbst angibt.",
+          "Der TrustScore ist die Note des Profils auf Trustpilot. YesStyle hatte 4,4, mit dem Label „Excellent“, bei 104.909 Bewertungen; 11.757 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil wird vom Unternehmen beansprucht und hat ein bezahltes Trustpilot-Abo, wie die Seite selbst angibt.",
           "Die Verteilung nach Sternen, in derselben Auswertung: 71 % Fünf-Sterne, 18 % Vier-Sterne, 3 % Drei-Sterne, 1 % Zwei-Sterne und 7 % Ein-Stern. Fünf und vier Sterne machen den größten Teil aus; die Ein-Stern-Bewertungen mit 7 % wiegen mehr als die mit zwei und drei Sternen zusammen, und dort zeigen sich die Beschwerden."
         ],
         "image": {
@@ -152893,7 +152901,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Unsere Prüfung",
         "paragraphs": [
-          "Am 28. Oktober 2026 wurde das öffentliche Profil von YesStyle auf Trustpilot gelesen, ohne Login: die Note, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen.",
+          "Am 28. Oktober 2026 wurde das öffentliche Profil von YesStyle auf Trustpilot gelesen, ohne Login: die Note, die Zahl der Bewertungen, die Verteilung nach Sternen, die Antwortquote und die sichtbaren Bewertungen, aus denen die Themen stammen. Im November wurden die Note, die Zahl der Bewertungen und die Verteilung nach Sternen erneut geprüft.",
           "In der App des Shops haben wir in einem eigenen Test ohne Kauf den Checkout geprüft: Er hat das Feld für den Reward Code.",
           "Die Zahlen auf Trustpilot ändern sich jeden Monat; prüfen Sie das Profil am Tag des Kaufs."
         ],
@@ -152914,7 +152922,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kann man YesStyle nach Trustpilot vertrauen?",
         "paragraphs": [
-          "Nach Trustpilot ist die Lesart gut: TrustScore 4,4, „Excellent“, bei 104.552 Bewertungen, davon 71 % Fünf-Sterne und 7 % Ein-Stern, mit 98 % beantworteten negativen Bewertungen, in der Regel innerhalb von 24 Stunden.",
+          "Nach Trustpilot ist die Lesart gut: TrustScore 4,4, „Excellent“, bei 104.909 Bewertungen, davon 71 % Fünf-Sterne und 7 % Ein-Stern, mit 98 % beantworteten negativen Bewertungen, in der Regel innerhalb von 24 Stunden.",
           "Der Vorbehalt betrifft den Geltungsbereich, nicht die Note. Das Profil ist global, trennt keine Länder, und die gelesenen Beschwerden betreffen die internationale Lieferung: Verspätung, Tracking und Verlust. Trustpilot zeigt, wie sich der Shop insgesamt verhält; Versand und Lieferzeit für Ihre Adresse stehen im Checkout."
         ]
       },
@@ -152929,7 +152937,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Hat YesStyle eine gute Note auf Trustpilot? Der TrustScore lag bei 4,4, mit dem Label „Excellent“, bei 104.552 Bewertungen; 71 % gaben fünf Sterne und 7 % einen.",
+          "Hat YesStyle eine gute Note auf Trustpilot? Der TrustScore lag bei 4,4, mit dem Label „Excellent“, bei 104.909 Bewertungen; 71 % gaben fünf Sterne und 7 % einen.",
           "Was sind die häufigsten Beschwerden über YesStyle? In den gelesenen negativen Bewertungen betreffen die Themen die internationale Lieferung: Verspätung und lange Wartezeit, stehendes Tracking, verlorenes Paket, beschädigter Artikel und in der Bearbeitung hängende Bestellung.",
           "Antwortet YesStyle auf negative Bewertungen? Laut Trustpilot-Profil hat der Shop 98 % der negativen Bewertungen beantwortet, in der Regel innerhalb von 24 Stunden, und die Antwort kann künstliche Intelligenz nutzen."
         ]
@@ -152973,8 +152981,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年10月28日時点のYesStyleのTrustpilot評価：104,552件のレビューでTrustScoreは4.4、71%が星5つ。読んだ低評価レビューの苦情は国際配送が中心で、この評価はあなたの国のことを何も示しません。",
-    "metaDescription": "2026年10月28日のYesStyleのTrustpilot：10万4千件のレビューで評価4.4、星5つは71%。読んだ低評価レビューの苦情は配送と追跡が中心。評価が示さないことを確認しましょう。",
+    "description": "2026年11月時点のYesStyleのTrustpilot評価：104,909件のレビューでTrustScoreは4.4、71%が星5つ。読んだ低評価レビューの苦情は国際配送が中心で、この評価はあなたの国のことを何も示しません。",
+    "metaDescription": "2026年11月のYesStyleのTrustpilot：10万4千件のレビューで評価4.4、星5つは71%。読んだ低評価レビューの苦情は配送と追跡が中心。評価が示さないことを確認しましょう。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -152991,13 +152999,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年10月28日時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。私たちが読んだ低評価レビューでは、苦情は国際配送と追跡に関するものでした。この評価は世界全体のもので、国別には分かれていません。"
+          "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年11月時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。私たちが読んだ低評価レビューでは、苦情は国際配送と追跡に関するものでした。この評価は世界全体のもので、国別には分かれていません。"
         ]
       },
       {
         "heading": "評価が測っているもの",
         "paragraphs": [
-          "TrustScoreは、Trustpilot上のプロフィールの評価です。YesStyleは104,552件のレビューで4.4、ラベルは「Excellent」でした。そのうち11,757件は過去12か月に投稿されたものです。ページに書かれているとおり、このプロフィールは企業が管理しており、Trustpilotの有料プランに加入しています。",
+          "TrustScoreは、Trustpilot上のプロフィールの評価です。YesStyleは104,909件のレビューで4.4、ラベルは「Excellent」でした。そのうち11,757件は過去12か月に投稿されたものです。ページに書かれているとおり、このプロフィールは企業が管理しており、Trustpilotの有料プランに加入しています。",
           "同じ時点の星ごとの内訳は、星5つが71%、星4つが18%、星3つが3%、星2つが1%、星1つが7%です。星5つと星4つで大半を占めます。星1つの7%は星2つと星3つを合わせたより多く、苦情が出てくるのはここです。"
         ],
         "image": {
@@ -153081,7 +153089,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "当サイトの確認",
         "paragraphs": [
-          "2026年10月28日に、ログインせずにYesStyleのTrustpilot公開プロフィールを読みました。評価、レビュー数、星ごとの内訳、返信率、表示されているレビューです。テーマはそこから書き出しました。",
+          "2026年10月28日に、ログインせずにYesStyleのTrustpilot公開プロフィールを読みました。評価、レビュー数、星ごとの内訳、返信率、表示されているレビューです。テーマはそこから書き出しました。11月に、評価、レビュー数、星ごとの内訳をもう一度確認しました。",
           "ショップのアプリで、購入はせずにチェックアウトをテストして確認しました。リワードコードの入力欄があります。",
           "Trustpilotの数字は毎月変わります。購入する日にプロフィールを確認してください。"
         ],
@@ -153102,7 +153110,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "TrustpilotでYesStyleを信頼できるか",
         "paragraphs": [
-          "Trustpilotで見るかぎり、評価は良好です。TrustScoreは4.4で「Excellent」、104,552件のレビューのうち71%が星5つ、7%が星1つ。低評価の98%に返信があり、多くは24時間以内です。",
+          "Trustpilotで見るかぎり、評価は良好です。TrustScoreは4.4で「Excellent」、104,909件のレビューのうち71%が星5つ、7%が星1つ。低評価の98%に返信があり、多くは24時間以内です。",
           "注意点は評価ではなく、対象範囲です。プロフィールは世界共通で国別に分かれておらず、読んだ苦情は国際配送のもの、つまり遅延、追跡、紛失でした。Trustpilotが示すのはショップ全体の傾向で、あなたの住所への送料と配送日数はチェックアウトで確認できます。"
         ]
       },
@@ -153117,7 +153125,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "YesStyleのTrustpilot評価は高い？TrustScoreは4.4で、ラベルは「Excellent」、104,552件のレビューのうち71%が星5つ、7%が星1つでした。",
+          "YesStyleのTrustpilot評価は高い？TrustScoreは4.4で、ラベルは「Excellent」、104,909件のレビューのうち71%が星5つ、7%が星1つでした。",
           "YesStyleで多い苦情は？読んだ低評価レビューのテーマは国際配送で、遅延と長い待ち時間、追跡の停止、荷物の紛失、商品の破損、処理中のまま止まった注文でした。",
           "YesStyleは低評価レビューに返信している？Trustpilotのプロフィールによると、低評価レビューの98%に返信しており、多くは24時間以内です。返信にはAIが使われることがあります。"
         ]
@@ -153161,8 +153169,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026년 10월 28일 기준 YesStyle의 Trustpilot 평점: 리뷰 104,552건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 읽은 부정적 리뷰의 불만은 해외 배송에 관한 것이고, 이 평점은 회원님이 사는 나라에 대해서는 아무것도 알려 주지 않습니다.",
-    "metaDescription": "2026년 10월 28일 YesStyle의 Trustpilot: 리뷰 10만 4천 건에 평점 4.4, 별 다섯 개 71%. 읽은 부정적 리뷰의 불만은 배송과 배송 추적이 중심입니다. 평점이 보여 주지 않는 부분을 확인해 보세요.",
+    "description": "2026년 11월 기준 YesStyle의 Trustpilot 평점: 리뷰 104,909건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 읽은 부정적 리뷰의 불만은 해외 배송에 관한 것이고, 이 평점은 회원님이 사는 나라에 대해서는 아무것도 알려 주지 않습니다.",
+    "metaDescription": "2026년 11월 YesStyle의 Trustpilot: 리뷰 10만 4천 건에 평점 4.4, 별 다섯 개 71%. 읽은 부정적 리뷰의 불만은 배송과 배송 추적이 중심입니다. 평점이 보여 주지 않는 부분을 확인해 보세요.",
     "publishedAt": "2026년 10월 29일",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -153179,13 +153187,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 10월 28일 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 저희가 읽은 부정적 리뷰에서 불만은 해외 배송과 배송 추적에 관한 것이었습니다. 이 평점은 전 세계를 합친 것이며 국가별로 나뉘어 있지 않습니다."
+          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 11월 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 저희가 읽은 부정적 리뷰에서 불만은 해외 배송과 배송 추적에 관한 것이었습니다. 이 평점은 전 세계를 합친 것이며 국가별로 나뉘어 있지 않습니다."
         ]
       },
       {
         "heading": "평점이 측정하는 것",
         "paragraphs": [
-          "TrustScore는 Trustpilot에서 프로필이 받은 평점입니다. YesStyle은 리뷰 104,552건에 4.4점, 등급 표시는 \"Excellent\"였습니다. 그중 11,757건이 최근 12개월 안에 올라온 리뷰입니다. 페이지에 나와 있듯이 이 프로필은 기업이 소유권을 주장한 것이며 Trustpilot 유료 구독 중입니다.",
+          "TrustScore는 Trustpilot에서 프로필이 받은 평점입니다. YesStyle은 리뷰 104,909건에 4.4점, 등급 표시는 \"Excellent\"였습니다. 그중 11,757건이 최근 12개월 안에 올라온 리뷰입니다. 페이지에 나와 있듯이 이 프로필은 기업이 소유권을 주장한 것이며 Trustpilot 유료 구독 중입니다.",
           "같은 시점의 별점 분포는 별 다섯 개 71%, 네 개 18%, 세 개 3%, 두 개 1%, 한 개 7%입니다. 다섯 개와 네 개가 대부분을 차지합니다. 별 한 개 7%는 두 개와 세 개를 합친 것보다 많고, 불만이 나오는 곳이 바로 여기입니다."
         ],
         "image": {
@@ -153269,7 +153277,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "저희의 확인",
         "paragraphs": [
-          "2026년 10월 28일에 로그인 없이 Trustpilot의 YesStyle 공개 프로필을 읽었습니다. 평점, 리뷰 수, 별점 분포, 답변율, 그리고 보이는 리뷰이며, 주제는 이 리뷰에서 나왔습니다.",
+          "2026년 10월 28일에 로그인 없이 Trustpilot의 YesStyle 공개 프로필을 읽었습니다. 평점, 리뷰 수, 별점 분포, 답변율, 그리고 보이는 리뷰이며, 주제는 이 리뷰에서 나왔습니다. 11월에 평점, 리뷰 수, 별점 분포를 다시 확인했습니다.",
           "쇼핑몰 앱에서는 구매 없이 결제 화면을 직접 테스트해 확인했습니다. 결제 화면에는 리워드 코드를 넣는 칸이 있습니다.",
           "Trustpilot 수치는 매달 바뀝니다. 구매하는 날 프로필을 확인하세요."
         ],
@@ -153290,7 +153298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot로 보면 YesStyle을 믿어도 될까?",
         "paragraphs": [
-          "Trustpilot로 보면 평가는 좋습니다. TrustScore 4.4, \"Excellent\", 리뷰 104,552건 중 71%가 별 다섯 개, 7%가 별 한 개이고, 부정적 리뷰의 98%에 답변했으며 대개 24시간 안에 달렸습니다.",
+          "Trustpilot로 보면 평가는 좋습니다. TrustScore 4.4, \"Excellent\", 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개이고, 부정적 리뷰의 98%에 답변했으며 대개 24시간 안에 달렸습니다.",
           "단서는 점수가 아니라 범위입니다. 프로필은 전 세계 공통이라 국가를 나누지 않고, 읽은 불만은 해외 배송 문제, 즉 지연, 배송 추적, 분실입니다. Trustpilot은 쇼핑몰이 전체적으로 어떻게 움직이는지를 보여 주고, 회원님 주소의 배송비와 배송 기간은 결제 화면에서 확인할 수 있습니다."
         ]
       },
@@ -153305,7 +153313,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "YesStyle의 Trustpilot 평점은 좋은가요? TrustScore는 4.4, 등급 표시는 \"Excellent\"였고, 리뷰 104,552건 중 71%가 별 다섯 개, 7%가 별 한 개였습니다.",
+          "YesStyle의 Trustpilot 평점은 좋은가요? TrustScore는 4.4, 등급 표시는 \"Excellent\"였고, 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개였습니다.",
           "YesStyle에 대한 가장 흔한 불만은 무엇인가요? 읽은 부정적 리뷰의 주제는 해외 배송이었고, 지연과 긴 대기, 멈춘 배송 추적, 분실된 소포, 파손된 상품, 처리 단계에 묶인 주문이었습니다.",
           "YesStyle은 부정적 리뷰에 답하나요? Trustpilot 프로필에 따르면 부정적 리뷰의 98%에 답했고, 대개 24시간 안에 답했으며 답변에는 인공지능이 쓰일 수 있습니다."
         ]
@@ -153349,8 +153357,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 在 Trustpilot 上 2026年10月28日的评分：104,552 条评价，TrustScore 4.4，71% 为五星。我们读过的差评涉及国际配送，而这个评分并不能说明你所在国家的情况。",
-    "metaDescription": "YesStyle 在 Trustpilot 2026年10月28日：10.4 万条评价，评分 4.4，五星占 71%。读过的差评涉及配送和物流追踪。看看评分没有告诉你的部分。",
+    "description": "YesStyle 在 Trustpilot 上 2026年11月的评分：104,909 条评价，TrustScore 4.4，71% 为五星。我们读过的差评涉及国际配送，而这个评分并不能说明你所在国家的情况。",
+    "metaDescription": "YesStyle 在 Trustpilot 2026年11月：10.4 万条评价，评分 4.4，五星占 71%。读过的差评涉及配送和物流追踪。看看评分没有告诉你的部分。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -153367,13 +153375,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 上的评分不错，但有一个前提。2026年10月28日，TrustScore 为 4.4，评价超过 10.4 万条，71% 是五星；在我们读过的差评中，投诉涉及国际配送和物流追踪。这个评分是全球合并的，没有按国家区分。"
+          "YesStyle 在 Trustpilot 上的评分不错，但有一个前提。2026年11月，TrustScore 为 4.4，评价超过 10.4 万条，71% 是五星；在我们读过的差评中，投诉涉及国际配送和物流追踪。这个评分是全球合并的，没有按国家区分。"
         ]
       },
       {
         "heading": "评分衡量的是什么",
         "paragraphs": [
-          "TrustScore 是商家主页在 Trustpilot 上的评分。YesStyle 的评分为 4.4，标签是“Excellent”，共 104,552 条评价，其中 11,757 条发布于最近 12 个月。如页面所示，这个主页由公司认领，并订阅了 Trustpilot 的付费服务。",
+          "TrustScore 是商家主页在 Trustpilot 上的评分。YesStyle 的评分为 4.4，标签是“Excellent”，共 104,909 条评价，其中 11,757 条发布于最近 12 个月。如页面所示，这个主页由公司认领，并订阅了 Trustpilot 的付费服务。",
           "同一次读取中的星级分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起来还多，投诉就出现在这里。"
         ],
         "image": {
@@ -153457,7 +153465,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "我们的检查",
         "paragraphs": [
-          "2026年10月28日，我们在未登录的情况下读取了 YesStyle 在 Trustpilot 的公开主页：评分、评价数量、星级分布、回复率和可见的评价，主题就来自这些评价。",
+          "2026年10月28日，我们在未登录的情况下读取了 YesStyle 在 Trustpilot 的公开主页：评分、评价数量、星级分布、回复率和可见的评价，主题就来自这些评价。11 月又核对了评分、评价数量和星级分布。",
           "在商店的 App 里，我们做了一次不下单的测试，查看了结账页面：那里有填写奖励码的栏位。",
           "Trustpilot 的数字每月都会变化；购买当天请查看主页。"
         ],
@@ -153478,7 +153486,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "能通过 Trustpilot 信任 YesStyle 吗？",
         "paragraphs": [
-          "从 Trustpilot 看，结论是好的：TrustScore 4.4，“Excellent”，104,552 条评价中 71% 为五星、7% 为一星，98% 的负面评价得到回复，通常在 24 小时内。",
+          "从 Trustpilot 看，结论是好的：TrustScore 4.4，“Excellent”，104,909 条评价中 71% 为五星、7% 为一星，98% 的负面评价得到回复，通常在 24 小时内。",
           "前提在于范围，而不在评分。主页是全球通用的，不区分国家，我们读到的投诉都是国际配送问题：延误、物流追踪和包裹遗失。Trustpilot 显示的是商店整体的表现；你所在地址的运费和送达时间，请看结账页面。"
         ]
       },
@@ -153493,7 +153501,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "YesStyle 在 Trustpilot 的评分高吗？TrustScore 为 4.4，标签是“Excellent”，104,552 条评价中 71% 为五星、7% 为一星。",
+          "YesStyle 在 Trustpilot 的评分高吗？TrustScore 为 4.4，标签是“Excellent”，104,909 条评价中 71% 为五星、7% 为一星。",
           "关于 YesStyle 最常见的投诉是什么？我们读到的负面评价，主题都是国际配送：延误和长时间等待、物流追踪停滞、包裹遗失、商品损坏，以及订单卡在处理中。",
           "YesStyle 会回复负面评价吗？根据 Trustpilot 主页，商店回复了 98% 的负面评价，通常在 24 小时内，回复可能使用人工智能。"
         ]
@@ -153537,8 +153545,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 在 Trustpilot 上 2026年10月28日的評分：104,552 則評價，TrustScore 4.4，71% 為五星。我們讀過的差評涉及國際運送，而這個評分並不能說明你所在國家的情況。",
-    "metaDescription": "YesStyle 在 Trustpilot 2026年10月28日：10.4 萬則評價，評分 4.4，五星占 71%。讀過的差評涉及運送和物流追蹤。看看評分沒有告訴你的部分。",
+    "description": "YesStyle 在 Trustpilot 上 2026年11月的評分：104,909 則評價，TrustScore 4.4，71% 為五星。我們讀過的差評涉及國際運送，而這個評分並不能說明你所在國家的情況。",
+    "metaDescription": "YesStyle 在 Trustpilot 2026年11月：10.4 萬則評價，評分 4.4，五星占 71%。讀過的差評涉及運送和物流追蹤。看看評分沒有告訴你的部分。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -153555,13 +153563,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 上的評分不錯，但有一個前提。2026年10月28日，TrustScore 為 4.4，評價超過 10.4 萬則，71% 是五星；在我們讀過的差評中，投訴涉及國際運送和物流追蹤。這個評分是全球合併的，沒有按國家區分。"
+          "YesStyle 在 Trustpilot 上的評分不錯，但有一個前提。2026年11月，TrustScore 為 4.4，評價超過 10.4 萬則，71% 是五星；在我們讀過的差評中，投訴涉及國際運送和物流追蹤。這個評分是全球合併的，沒有按國家區分。"
         ]
       },
       {
         "heading": "評分衡量的是什麼",
         "paragraphs": [
-          "TrustScore 是商家檔案在 Trustpilot 上的評分。YesStyle 的評分為 4.4，標籤是「Excellent」，共 104,552 則評價，其中 11,757 則發布於最近 12 個月。如頁面所示，這個檔案由公司認領，並訂閱了 Trustpilot 的付費服務。",
+          "TrustScore 是商家檔案在 Trustpilot 上的評分。YesStyle 的評分為 4.4，標籤是「Excellent」，共 104,909 則評價，其中 11,757 則發布於最近 12 個月。如頁面所示，這個檔案由公司認領，並訂閱了 Trustpilot 的付費服務。",
           "同一次讀取中的星級分布：五星 71%，四星 18%，三星 3%，二星 1%，一星 7%。五星和四星占了大部分；一星的 7% 比二星和三星加起來還多，投訴就出現在這裡。"
         ],
         "image": {
@@ -153645,7 +153653,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "我們的檢查",
         "paragraphs": [
-          "2026年10月28日，我們在未登入的情況下讀取了 YesStyle 在 Trustpilot 的公開檔案：評分、評價數量、星級分布、回覆率和可見的評價，主題就來自這些評價。",
+          "2026年10月28日，我們在未登入的情況下讀取了 YesStyle 在 Trustpilot 的公開檔案：評分、評價數量、星級分布、回覆率和可見的評價，主題就來自這些評價。11 月又核對了評分、評價數量和星級分布。",
           "在商店的 App 裡，我們做了一次不下單的測試，查看了結帳頁面：那裡有填寫獎勵碼的欄位。",
           "Trustpilot 的數字每個月都會變化；購買當天請查看檔案。"
         ],
@@ -153666,7 +153674,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "能透過 Trustpilot 信任 YesStyle 嗎？",
         "paragraphs": [
-          "從 Trustpilot 看，結論是好的：TrustScore 4.4，「Excellent」，104,552 則評價中 71% 為五星、7% 為一星，98% 的負評得到回覆，通常在 24 小時內。",
+          "從 Trustpilot 看，結論是好的：TrustScore 4.4，「Excellent」，104,909 則評價中 71% 為五星、7% 為一星，98% 的負評得到回覆，通常在 24 小時內。",
           "前提在於範圍，而不在評分。檔案是全球通用的，不區分國家，我們讀到的投訴都是國際運送問題：延誤、物流追蹤和包裹遺失。Trustpilot 顯示的是商店整體的表現；你所在地址的運費和送達時間，請看結帳頁面。"
         ]
       },
@@ -153681,7 +153689,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "YesStyle 在 Trustpilot 的評分高嗎？TrustScore 為 4.4，標籤是「Excellent」，104,552 則評價中 71% 為五星、7% 為一星。",
+          "YesStyle 在 Trustpilot 的評分高嗎？TrustScore 為 4.4，標籤是「Excellent」，104,909 則評價中 71% 為五星、7% 為一星。",
           "關於 YesStyle 最常見的投訴是什麼？我們讀到的負評，主題都是國際運送：延誤和長時間等待、物流追蹤停滯、包裹遺失、商品損壞，以及訂單卡在處理中。",
           "YesStyle 會回覆負評嗎？根據 Trustpilot 檔案，商店回覆了 98% 的負評，通常在 24 小時內，回覆可能使用人工智慧。"
         ]
@@ -153731,8 +153739,8 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "description": "O que a nota 7,5 da SHEIN no Reclame Aqui mede em 28/10/2026, por que produto não recebido lidera as queixas dos últimos três anos e o que a Trustpilot acrescenta.",
-    "metaDescription": "SHEIN no Reclame Aqui (abril a setembro): reputação Boa, nota 7,5, 95,3% respondidas. Produto não recebido lidera as queixas dos últimos 3 anos.",
+    "description": "O que a nota 7,5 da SHEIN no Reclame Aqui mede em novembro, por que produto não recebido lidera as queixas dos últimos três anos e o que a Trustpilot acrescenta.",
+    "metaDescription": "SHEIN no Reclame Aqui (maio a outubro): reputação Boa, nota 7,5, 92,2% respondidas. Produto não recebido lidera as queixas dos últimos 3 anos.",
     "image": "/images/reviews/shein/shein-reclame-aqui-nota-reputacao-capa.webp",
     "imageAlt": "Logo da SHEIN e a nota 3,8 da Trustpilot em cinco estrelas, preenchidas até a nota, na leitura de 28/10/2026",
     "imageFit": "contain",
@@ -153763,16 +153771,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A reputação é Boa, com ressalvas. Nos seis meses de abril a setembro, a SHEIN tinha nota 7,5 no Reclame Aqui, com 95,3% das reclamações respondidas e 77,8% resolvidas entre as avaliadas. Produto não recebido é a queixa mais citada nos últimos três anos, e quase três em cada dez avaliadores não voltariam a comprar."
+          "A reputação é Boa, com ressalvas. Nos seis meses de maio a outubro, a SHEIN tinha nota 7,5 no Reclame Aqui, com 92,2% das reclamações respondidas e 78% resolvidas entre as avaliadas. Produto não recebido é a queixa mais citada nos últimos três anos, e quase três em cada dez avaliadores não voltariam a comprar."
         ]
       },
       {
         "heading": "O que a nota do Reclame Aqui mede",
         "paragraphs": [
           "A nota do Reclame Aqui mede como a loja atende quem reclama. Ela não mede a qualidade das peças nem a experiência de quem comprou e não reclamou. Entram na conta quatro indicadores do período: a parte das reclamações respondidas, a parte dada como resolvida, a parte de quem voltaria a fazer negócio e a nota que o consumidor dá ao atendimento.",
-          "Na aba de 6 meses, de 01/04/2026 a 30/09/2026, lida em 28/10/2026, a SHEIN tinha reputação Boa e nota 7,5. Foram 32.431 reclamações, 95,3% respondidas e 77,8% resolvidas; 70,6% de quem avaliou disseram que voltariam a fazer negócio, e a nota média do consumidor era 6,3.",
-          "Resolvidas, voltariam e a nota do consumidor saem só das reclamações avaliadas: 13.858 das 32.431. Quem não voltou ao site para avaliar a resposta não entra nessa parte da conta.",
-          "Na leitura anterior, a nota era 7,6; na atual, 7,5."
+          "Na aba de 6 meses, de 01/05/2026 a 31/10/2026, lida em novembro, a SHEIN tinha reputação Boa e nota 7,5. Foram 33.331 reclamações, 92,2% respondidas e 78% resolvidas; 71,3% de quem avaliou disseram que voltariam a fazer negócio, e a nota média do consumidor era 6,36.",
+          "Resolvidas, voltariam e a nota do consumidor saem só das reclamações avaliadas: 13.457 das 33.331. Quem não voltou ao site para avaliar a resposta não entra nessa parte da conta.",
+          "Na leitura de outubro, a nota também era 7,5; numa anterior, 7,6."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-reclame-aqui-numeros-2810.webp",
@@ -153785,9 +153793,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Três leituras que mudam a conta",
         "paragraphs": [
-          "Primeiro, quase três em cada dez não voltariam. Entre os 13.858 que avaliaram, 70,6% disseram que voltariam a fazer negócio com a SHEIN. O resto não voltaria.",
-          "Segundo, responder não é resolver. A SHEIN respondeu a 95,3% das reclamações, mas, entre quem avaliou, 77,8% deram o problema como resolvido. A resposta é o primeiro passo; a solução é o que o consumidor confirma depois.",
-          "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 3 dias e 5 horas, e 1.343 reclamações aguardavam resposta na leitura. Quem está com um pedido que não chegou conta esses dias."
+          "Primeiro, quase três em cada dez não voltariam. Entre os 13.457 que avaliaram, 71,3% disseram que voltariam a fazer negócio com a SHEIN. O resto não voltaria.",
+          "Segundo, responder não é resolver. A SHEIN respondeu a 92,2% das reclamações, mas, entre quem avaliou, 78% deram o problema como resolvido. A resposta é o primeiro passo; a solução é o que o consumidor confirma depois.",
+          "Terceiro, a resposta demora. O tempo médio nos 6 meses foi de 3 dias e 9 horas, e 2.406 reclamações aguardavam resposta na leitura. Quem está com um pedido que não chegou conta esses dias."
         ]
       },
       {
@@ -153795,7 +153803,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Produto não recebido é o problema mais citado, com 36,47%: mais de uma em cada três reclamações de até 3 anos.",
           "Moda Feminina era a categoria mais citada, com 19,62%. Blusas vinha em seguida na lista, com 9,83%.",
-          "O rótulo não diz o motivo nem o desfecho de cada caso. E o Reclame Aqui não mostra quantos pedidos a SHEIN entrega no Brasil: 32.431 reclamações em seis meses dizem quanto a loja recebe de queixas, não a chance de o seu pedido dar problema."
+          "O rótulo não diz o motivo nem o desfecho de cada caso. E o Reclame Aqui não mostra quantos pedidos a SHEIN entrega no Brasil: 33.331 reclamações em seis meses dizem quanto a loja recebe de queixas, não a chance de o seu pedido dar problema."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-rastreio-reembolso-tela-2910.webp",
@@ -153808,7 +153816,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot: a nota de quem avalia",
         "paragraphs": [
-          "A Trustpilot é internacional: a SHEIN tinha ali 3,8 em 5, em 353.435 avaliações de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento no Brasil."
+          "A Trustpilot é internacional: a SHEIN tinha ali 3,8 em 5, em 353.527 avaliações de vários países. O perfil é global e não separa o Brasil: a nota fala dos clientes de todos os países, não do atendimento no Brasil."
         ],
         "image": {
           "src": "/images/reviews/shein/shein-trustpilot-perfil-2910.webp",
@@ -153824,7 +153832,7 @@ export const reviewsData: unknown[] = [
           "Os números vêm de leitura pública, feita sem login, em dois perfis:"
         ],
         "bullets": [
-          "Reclame Aqui: a aba de 6 meses (de abril a setembro) e o recorte de 3 anos dos principais problemas.",
+          "Reclame Aqui: a aba de 6 meses (de maio a outubro) e o recorte de 3 anos dos principais problemas.",
           "Trustpilot: a nota, o número de avaliações e o escopo do perfil, que é global."
         ],
         "image": {
@@ -153849,8 +153857,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na SHEIN pelo Reclame Aqui?",
         "paragraphs": [
-          "Pelo Reclame Aqui, a SHEIN responde e resolve a maior parte. A reputação era Boa, com nota 7,5 nos últimos seis meses, 95,3% das 32.431 reclamações respondidas e 77,8% dadas como resolvidas entre as 13.858 avaliadas.",
-          "As ressalvas são três: produto não recebido lidera as queixas do recorte de 3 anos, com 36,47%; a resposta leva em média 3 dias e 5 horas, com 1.343 reclamações na fila; e quase três em cada dez de quem avaliou não voltariam a fazer negócio."
+          "Pelo Reclame Aqui, a SHEIN responde e resolve a maior parte. A reputação era Boa, com nota 7,5 nos últimos seis meses, 92,2% das 33.331 reclamações respondidas e 78% dadas como resolvidas entre as 13.457 avaliadas.",
+          "As ressalvas são três: produto não recebido lidera as queixas do recorte de 3 anos, com 36,47%; a resposta leva em média 3 dias e 9 horas, com 2.406 reclamações na fila; e quase três em cada dez de quem avaliou não voltariam a fazer negócio."
         ]
       },
       {
@@ -153865,10 +153873,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A SHEIN tem boa nota no Reclame Aqui? A reputação era Boa, com nota 7,5 nos últimos seis meses. Numa leitura anterior, era 7,6.",
+          "A SHEIN tem boa nota no Reclame Aqui? A reputação era Boa, com nota 7,5 nos últimos seis meses, a mesma da leitura de outubro.",
           "Quais são as reclamações mais comuns sobre a SHEIN? No recorte de 3 anos do Reclame Aqui, o problema mais citado era produto não recebido, com 36,47%, e a categoria mais citada era Moda Feminina, com 19,62%.",
-          "A SHEIN responde às reclamações? Nos últimos seis meses, respondeu a 95,3%, em 3 dias e 5 horas em média, e 1.343 aguardavam resposta na leitura. Entre quem avaliou, 77,8% deram o problema como resolvido.",
-          "A SHEIN tem boa nota na Trustpilot? A nota era 3,8 em 5, com 353.435 avaliações de clientes de vários países. O perfil é global e não separa o Brasil."
+          "A SHEIN responde às reclamações? Nos últimos seis meses, respondeu a 92,2%, em 3 dias e 9 horas em média, e 2.406 aguardavam resposta na leitura. Entre quem avaliou, 78% deram o problema como resolvido.",
+          "A SHEIN tem boa nota na Trustpilot? A nota era 3,8 em 5, com 353.527 avaliações de clientes de vários países. O perfil é global e não separa o Brasil."
         ]
       }
     ]
@@ -153891,7 +153899,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. See what over 350,000 reviews show, the complaints about packages and refunds, and why the score is global.",
-    "metaDescription": "SHEIN on Trustpilot on October 28, 2026: TrustScore 3.8 from 353,435 reviews, 59% five stars and 18% one star, complaints about delivery and refunds. See what the score does not show.",
+    "metaDescription": "SHEIN on Trustpilot in November 2026: TrustScore 3.8 from 353,527 reviews, 59% five stars and 18% one star, complaints about delivery and refunds. See what the score does not show.",
     "publishedAt": "October 29, 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -153908,13 +153916,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. That score came from 353,435 reviews by customers in many countries, and the themes in the negative reviews we read are packages that never arrived and refunds that were late or denied. The profile is global and does not separate countries."
+          "SHEIN scores 3.8 out of 5 on Trustpilot, with reservations. That score came from 353,527 reviews by customers in many countries, and the themes in the negative reviews we read are packages that never arrived and refunds that were late or denied. The profile is global and does not separate countries."
         ]
       },
       {
         "heading": "What the score measures",
         "paragraphs": [
-          "The TrustScore is the profile's rating on Trustpilot. It adds up the whole purchase, not only the quality of the items. On October 28, 2026, SHEIN had 3.8, with the label \"Great\", from 353,435 reviews; 22,625 of them were posted in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
+          "The TrustScore is the profile's rating on Trustpilot. It adds up the whole purchase, not only the quality of the items. In November 2026, SHEIN had 3.8, with the label \"Great\", from 353,527 reviews; 22,625 of them were posted in the last 12 months. The profile is claimed by the company and has a paid Trustpilot subscription, as the page itself states.",
           "The breakdown by star, in the same reading: 59% five stars, 12% four, 6% three, 5% two and 18% one. Five and four stars make up most of the reviews."
         ],
         "image": {
@@ -154009,7 +154017,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Can you trust SHEIN based on Trustpilot?",
         "paragraphs": [
-          "Going by Trustpilot, the numbers are these: a TrustScore of 3.8, \"Great\", from 353,435 reviews, 59% of them five stars and 18% one star, with 98% of negative reviews answered, usually within 24 hours.",
+          "Going by Trustpilot, the numbers are these: a TrustScore of 3.8, \"Great\", from 353,527 reviews, 59% of them five stars and 18% one star, with 98% of negative reviews answered, usually within 24 hours.",
           "The caveats are about scope and theme. The profile is global and does not separate countries, so it says how the store behaves overall, not how an order to your address will go. And the negative reviews we read are about packages that never arrived and about refunds that were late or denied: the score alone does not tell you how often that happens."
         ]
       },
@@ -154026,7 +154034,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Does SHEIN have a good score on Trustpilot? The TrustScore was 3.8, with the label \"Great\", from 353,435 reviews; 59% gave five stars and 18% gave one.",
+          "Does SHEIN have a good score on Trustpilot? The TrustScore was 3.8, with the label \"Great\", from 353,527 reviews; 59% gave five stars and 18% gave one.",
           "What are the most common complaints about SHEIN? In the negative reviews read, the themes were packages that were lost, stolen or never arrived, sometimes with a disputed delivery photo; refunds that were late or denied, including returns the store said it never received; slow or templated customer service; and product problems such as size, quality, the wrong item or a missing item. The themes were noted, not counted.",
           "Does SHEIN reply to negative reviews? According to the Trustpilot profile, the store replied to 98% of negative reviews, usually within 24 hours, and the reply may use AI. The text of the replies was not read.",
           "Does the Trustpilot score apply to my country? Not on its own. The profile is global and does not split reviews by country, and the United Kingdom regional site showed the same profile. The score describes the store overall; delivery times and return rules for your country are on SHEIN's official site or app."
@@ -154069,7 +154077,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Mira qué muestran más de 350.000 opiniones, las quejas por paquetes y reembolsos, y por qué la calificación es global.",
-    "metaDescription": "SHEIN en Trustpilot el 28 de octubre de 2026: calificación 3,8 con 353.435 opiniones, 59 % de cinco estrellas y 18 % de una, quejas por entregas y reembolsos. Lo que la nota no muestra.",
+    "metaDescription": "SHEIN en Trustpilot en noviembre de 2026: calificación 3,8 con 353.527 opiniones, 59 % de cinco estrellas y 18 % de una, quejas por entregas y reembolsos. Lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -154086,13 +154094,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Esa calificación sale de 353.435 opiniones de clientes de varios países, y los temas de las opiniones negativas leídas son paquetes que no llegaron y reembolsos tardíos o negados. El perfil es global y no separa países."
+          "SHEIN tiene 3,8 sobre 5 en Trustpilot, con reservas. Esa calificación sale de 353.527 opiniones de clientes de varios países, y los temas de las opiniones negativas leídas son paquetes que no llegaron y reembolsos tardíos o negados. El perfil es global y no separa países."
         ]
       },
       {
         "heading": "Qué mide la calificación",
         "paragraphs": [
-          "El TrustScore es la calificación del perfil en Trustpilot. Suma la compra entera, no solo la calidad de los artículos. El 28 de octubre de 2026, SHEIN tenía 3,8, con la etiqueta \"Great\" en la versión en inglés del sitio, con 353.435 opiniones; 22.625 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene una suscripción de pago, como informa la propia página.",
+          "El TrustScore es la calificación del perfil en Trustpilot. Suma la compra entera, no solo la calidad de los artículos. En noviembre de 2026, SHEIN tenía 3,8, con la etiqueta \"Great\" en la versión en inglés del sitio, con 353.527 opiniones; 22.625 de ellas se publicaron en los últimos 12 meses. El perfil está reclamado por la empresa y tiene una suscripción de pago, como informa la propia página.",
           "La distribución por estrellas, en la misma lectura: 59 % de cinco estrellas, 12 % de cuatro, 6 % de tres, 5 % de dos y 18 % de una. Cinco y cuatro estrellas suman la mayor parte."
         ],
         "image": {
@@ -154187,7 +154195,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "¿Se puede confiar en SHEIN por Trustpilot?",
         "paragraphs": [
-          "Por Trustpilot, los números son estos: TrustScore 3,8, \"Great\", con 353.435 opiniones, 59 % de cinco estrellas y 18 % de una, y el 98 % de las negativas respondidas, en general en menos de 24 horas.",
+          "Por Trustpilot, los números son estos: TrustScore 3,8, \"Great\", con 353.527 opiniones, 59 % de cinco estrellas y 18 % de una, y el 98 % de las negativas respondidas, en general en menos de 24 horas.",
           "Las salvedades son de alcance y de tema. El perfil es global y no separa países, así que dice cómo se comporta la tienda en conjunto, no cómo irá un pedido a tu dirección. Y las opiniones negativas leídas tratan de paquetes que no llegaron y de reembolsos tardíos o negados: la calificación sola no dice con qué frecuencia pasa."
         ]
       },
@@ -154204,7 +154212,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿SHEIN tiene buena calificación en Trustpilot? El TrustScore era 3,8, con la etiqueta \"Great\", con 353.435 opiniones; el 59 % daba cinco estrellas y el 18 %, una.",
+          "¿SHEIN tiene buena calificación en Trustpilot? El TrustScore era 3,8, con la etiqueta \"Great\", con 353.527 opiniones; el 59 % daba cinco estrellas y el 18 %, una.",
           "¿Cuáles son las quejas más comunes sobre SHEIN? En las opiniones negativas leídas, los temas eran paquetes perdidos, robados o que nunca llegaron, a veces con una foto de entrega discutida; reembolsos tardíos o negados, incluidas devoluciones que la tienda dijo no haber recibido; atención lenta o estandarizada; y problemas de producto como talla, calidad, artículo equivocado o faltante. Se anotaron temas, sin contarlos.",
           "¿SHEIN responde a las opiniones negativas? Según el perfil de Trustpilot, la tienda respondió al 98 % de las opiniones negativas, en general en menos de 24 horas, y la respuesta puede usar inteligencia artificial. El texto de las respuestas no se leyó.",
           "¿La calificación de Trustpilot vale para mi país? No por sí sola. El perfil es global y no separa las opiniones por país, y el sitio regional del Reino Unido mostraba el mismo perfil. La calificación describe a la tienda en conjunto; el plazo de entrega y las reglas de devolución de tu país están en el sitio o la app oficial de SHEIN."
@@ -154247,7 +154255,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Voyez ce que montrent plus de 350 000 avis, les plaintes sur colis et remboursements, et pourquoi la note est mondiale.",
-    "metaDescription": "SHEIN sur Trustpilot le 28 octobre 2026 : TrustScore de 3,8 pour 353 435 avis, 59 % de cinq étoiles et 18 % d’une, plaintes sur la livraison et les remboursements. Ce que la note ne montre pas.",
+    "metaDescription": "SHEIN sur Trustpilot en novembre 2026 : TrustScore de 3,8 pour 353 527 avis, 59 % de cinq étoiles et 18 % d’une, plaintes sur la livraison et les remboursements. Ce que la note ne montre pas.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -154264,13 +154272,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Cette note vient de 353 435 avis de clients de nombreux pays, et les thèmes des avis négatifs lus sont des colis jamais reçus et des remboursements tardifs ou refusés. Le profil est mondial et ne distingue pas les pays."
+          "SHEIN affiche 3,8 sur 5 sur Trustpilot, avec des réserves. Cette note vient de 353 527 avis de clients de nombreux pays, et les thèmes des avis négatifs lus sont des colis jamais reçus et des remboursements tardifs ou refusés. Le profil est mondial et ne distingue pas les pays."
         ]
       },
       {
         "heading": "Ce que mesure la note",
         "paragraphs": [
-          "Le TrustScore est la note du profil sur Trustpilot. Elle additionne l’achat tout entier, pas seulement la qualité des articles. Le 28 octobre 2026, SHEIN avait 3,8, avec la mention « Great » sur la version anglaise du site, pour 353 435 avis ; 22 625 d’entre eux ont été publiés au cours des 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme la page elle-même l’indique.",
+          "Le TrustScore est la note du profil sur Trustpilot. Elle additionne l’achat tout entier, pas seulement la qualité des articles. En novembre 2026, SHEIN avait 3,8, avec la mention « Great » sur la version anglaise du site, pour 353 527 avis ; 22 625 d’entre eux ont été publiés au cours des 12 derniers mois. Le profil est revendiqué par l’entreprise et dispose d’un abonnement payant à Trustpilot, comme la page elle-même l’indique.",
           "La répartition par étoile, dans la même lecture : 59 % de cinq étoiles, 12 % de quatre, 6 % de trois, 5 % de deux et 18 % d’une. Cinq et quatre étoiles représentent la plus grande part."
         ],
         "image": {
@@ -154365,7 +154373,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Peut-on faire confiance à SHEIN d’après Trustpilot ?",
         "paragraphs": [
-          "D’après Trustpilot, les chiffres sont ceux-ci : un TrustScore de 3,8, « Great », pour 353 435 avis, dont 59 % à cinq étoiles et 18 % à une étoile, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
+          "D’après Trustpilot, les chiffres sont ceux-ci : un TrustScore de 3,8, « Great », pour 353 527 avis, dont 59 % à cinq étoiles et 18 % à une étoile, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
           "Les réserves portent sur le périmètre et sur le thème. Le profil est mondial et ne distingue pas les pays : il dit comment la boutique se comporte dans l’ensemble, pas comment se passera une commande à votre adresse. Et les avis négatifs lus parlent de colis jamais reçus et de remboursements tardifs ou refusés : la note seule ne dit pas à quelle fréquence cela arrive."
         ]
       },
@@ -154382,7 +154390,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "La note de SHEIN sur Trustpilot est-elle bonne ? Le TrustScore était de 3,8, avec la mention « Great », pour 353 435 avis ; 59 % donnaient cinq étoiles et 18 %, une seule.",
+          "La note de SHEIN sur Trustpilot est-elle bonne ? Le TrustScore était de 3,8, avec la mention « Great », pour 353 527 avis ; 59 % donnaient cinq étoiles et 18 %, une seule.",
           "Quelles sont les plaintes les plus fréquentes sur SHEIN ? Dans les avis négatifs lus, les thèmes étaient des colis perdus, volés ou jamais reçus, parfois avec une photo de livraison contestée ; des remboursements tardifs ou refusés, y compris des retours que la boutique dit ne pas avoir reçus ; un service client lent ou standardisé ; et des problèmes de produit comme la taille, la qualité, un mauvais article ou un article manquant. Les thèmes ont été notés, sans être comptés.",
           "SHEIN répond-il aux avis négatifs ? Selon le profil Trustpilot, la boutique a répondu à 98 % des avis négatifs, en général sous 24 heures, et la réponse peut faire appel à l’intelligence artificielle. Le texte des réponses n’a pas été lu.",
           "La note Trustpilot vaut-elle pour mon pays ? Pas à elle seule. Le profil est mondial et ne sépare pas les avis par pays, et le site régional du Royaume-Uni affichait le même profil. La note décrit la boutique dans l’ensemble ; le délai de livraison et les règles de retour de votre pays sont sur le site ou l’application officielle de SHEIN."
@@ -154425,7 +154433,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Guarda cosa mostrano oltre 350.000 recensioni, i reclami su pacchi e rimborsi e perché il punteggio è globale.",
-    "metaDescription": "SHEIN su Trustpilot al 28 ottobre 2026: 3,8 su 353.435 recensioni, 59% di cinque stelle, 18% di una. Reclami su consegne e rimborsi, e cosa il punteggio non mostra.",
+    "metaDescription": "SHEIN su Trustpilot a novembre 2026: 3,8 su 353.527 recensioni, 59% di cinque stelle, 18% di una. Reclami su consegne e rimborsi, e cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -154442,13 +154450,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Il punteggio viene da 353.435 recensioni di clienti di molti paesi, e i temi delle recensioni negative lette sono i pacchi non consegnati e i rimborsi in ritardo o negati. Il profilo è globale e non separa i paesi."
+          "SHEIN ha 3,8 su 5 su Trustpilot, con delle riserve. Il punteggio viene da 353.527 recensioni di clienti di molti paesi, e i temi delle recensioni negative lette sono i pacchi non consegnati e i rimborsi in ritardo o negati. Il profilo è globale e non separa i paesi."
         ]
       },
       {
         "heading": "Cosa misura il punteggio",
         "paragraphs": [
-          "Il TrustScore è il punteggio del profilo su Trustpilot. Somma l’acquisto intero, non solo la qualità degli articoli. Il 28 ottobre 2026 SHEIN aveva 3,8, con l’etichetta «Great», su 353.435 recensioni; 22.625 di queste erano state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
+          "Il TrustScore è il punteggio del profilo su Trustpilot. Somma l’acquisto intero, non solo la qualità degli articoli. A novembre 2026 SHEIN aveva 3,8, con l’etichetta «Great», su 353.527 recensioni; 22.625 di queste erano state pubblicate negli ultimi 12 mesi. Il profilo è rivendicato dall’azienda e ha un abbonamento a pagamento a Trustpilot, come indica la pagina stessa.",
           "La distribuzione per stelle, nella stessa lettura: 59% di cinque stelle, 12% di quattro, 6% di tre, 5% di due e 18% di una. Cinque e quattro stelle insieme fanno la maggior parte."
         ],
         "image": {
@@ -154543,7 +154551,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ci si può fidare di SHEIN guardando Trustpilot?",
         "paragraphs": [
-          "Da Trustpilot, i numeri sono questi: TrustScore 3,8, «Great», su 353.435 recensioni, il 59% di cinque stelle e il 18% di una, con risposta al 98% delle negative, di solito entro 24 ore.",
+          "Da Trustpilot, i numeri sono questi: TrustScore 3,8, «Great», su 353.527 recensioni, il 59% di cinque stelle e il 18% di una, con risposta al 98% delle negative, di solito entro 24 ore.",
           "Le riserve sono di ambito e di tema. Il profilo è globale e non separa i paesi, quindi dice come si comporta il negozio nell’insieme, non come andrà un ordine al tuo indirizzo. E le recensioni negative lette parlano di pacchi non consegnati e di rimborsi in ritardo o negati: il punteggio da solo non dice quanto spesso succeda."
         ]
       },
@@ -154560,7 +154568,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "SHEIN ha un buon punteggio su Trustpilot? Il TrustScore era 3,8, con l’etichetta «Great», su 353.435 recensioni; il 59% dava cinque stelle e il 18% una.",
+          "SHEIN ha un buon punteggio su Trustpilot? Il TrustScore era 3,8, con l’etichetta «Great», su 353.527 recensioni; il 59% dava cinque stelle e il 18% una.",
           "Quali sono i reclami più comuni su SHEIN? Nelle recensioni negative lette, i temi erano pacchi persi, rubati o mai arrivati, a volte con una foto di consegna contestata; rimborsi in ritardo o negati, compresi resi che il negozio dice di non aver ricevuto; assistenza lenta o con risposte standard; e problemi con il prodotto, come taglia, qualità, articolo sbagliato o mancante. I temi sono stati annotati, non contati.",
           "SHEIN risponde alle recensioni negative? Secondo il profilo su Trustpilot, il negozio ha risposto al 98% delle recensioni negative, di solito entro 24 ore, e la risposta può usare l’intelligenza artificiale. Il testo delle risposte non è stato letto.",
           "Il punteggio di Trustpilot vale per il mio paese? Non da solo. Il profilo è globale e non separa le recensioni per paese, e il sito regionale del Regno Unito mostrava lo stesso profilo. Il punteggio descrive il negozio nell’insieme; i tempi di consegna e le regole di reso per il tuo paese sono sul sito o nell’app ufficiale di SHEIN."
@@ -154603,7 +154611,7 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Sehen Sie, was über 350.000 Bewertungen zeigen, die Beschwerden über Pakete und Erstattungen und warum die Zahl global ist.",
-    "metaDescription": "SHEIN auf Trustpilot am 28. Oktober 2026: 3,8 aus 353.435 Bewertungen, 59 % fünf Sterne, 18 % ein Stern. Beschwerden über Zustellung und Erstattungen und was die Zahl nicht zeigt.",
+    "metaDescription": "SHEIN auf Trustpilot im November 2026: 3,8 aus 353.527 Bewertungen, 59 % fünf Sterne, 18 % ein Stern. Beschwerden über Zustellung und Erstattungen und was die Zahl nicht zeigt.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -154620,13 +154628,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Die Zahl stammt aus 353.435 Bewertungen von Kunden aus vielen Ländern, und die Themen der gelesenen negativen Bewertungen sind nicht zugestellte Pakete sowie verspätete oder abgelehnte Erstattungen. Das Profil ist global und trennt nicht nach Ländern."
+          "SHEIN hat auf Trustpilot 3,8 von 5, mit Vorbehalten. Die Zahl stammt aus 353.527 Bewertungen von Kunden aus vielen Ländern, und die Themen der gelesenen negativen Bewertungen sind nicht zugestellte Pakete sowie verspätete oder abgelehnte Erstattungen. Das Profil ist global und trennt nicht nach Ländern."
         ]
       },
       {
         "heading": "Was die Bewertung misst",
         "paragraphs": [
-          "Der TrustScore ist die Bewertung des Profils auf Trustpilot. Sie fasst den ganzen Kauf zusammen, nicht nur die Qualität der Artikel. Am 28. Oktober 2026 hatte SHEIN 3,8 mit dem Etikett „Great“, aus 353.435 Bewertungen; 22.625 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil ist vom Unternehmen beansprucht und hat ein kostenpflichtiges Trustpilot-Abo, wie die Seite selbst angibt.",
+          "Der TrustScore ist die Bewertung des Profils auf Trustpilot. Sie fasst den ganzen Kauf zusammen, nicht nur die Qualität der Artikel. Im November 2026 hatte SHEIN 3,8 mit dem Etikett „Great“, aus 353.527 Bewertungen; 22.625 davon wurden in den letzten 12 Monaten veröffentlicht. Das Profil ist vom Unternehmen beansprucht und hat ein kostenpflichtiges Trustpilot-Abo, wie die Seite selbst angibt.",
           "Die Verteilung nach Sternen, in derselben Ablesung: 59 % fünf Sterne, 12 % vier, 6 % drei, 5 % zwei und 18 % ein Stern. Fünf und vier Sterne machen zusammen den größten Teil aus."
         ],
         "image": {
@@ -154721,7 +154729,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kann man SHEIN nach Trustpilot vertrauen?",
         "paragraphs": [
-          "Nach Trustpilot sind die Zahlen diese: ein TrustScore von 3,8, „Great“, aus 353.435 Bewertungen, 59 % mit fünf Sternen und 18 % mit einem Stern, und 98 % der negativen Bewertungen mit einer Antwort, meist innerhalb von 24 Stunden.",
+          "Nach Trustpilot sind die Zahlen diese: ein TrustScore von 3,8, „Great“, aus 353.527 Bewertungen, 59 % mit fünf Sternen und 18 % mit einem Stern, und 98 % der negativen Bewertungen mit einer Antwort, meist innerhalb von 24 Stunden.",
           "Die Vorbehalte betreffen den Rahmen und das Thema. Das Profil ist global und trennt nicht nach Ländern, es sagt also, wie sich der Shop insgesamt verhält, nicht, wie eine Bestellung an Ihre Adresse läuft. Und die gelesenen negativen Bewertungen handeln von nicht zugestellten Paketen und von verspäteten oder abgelehnten Erstattungen: Die Zahl allein sagt nicht, wie oft das passiert."
         ]
       },
@@ -154738,7 +154746,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Hat SHEIN eine gute Bewertung auf Trustpilot? Der TrustScore lag bei 3,8 mit dem Etikett „Great“, aus 353.435 Bewertungen; 59 % gaben fünf Sterne und 18 % einen.",
+          "Hat SHEIN eine gute Bewertung auf Trustpilot? Der TrustScore lag bei 3,8 mit dem Etikett „Great“, aus 353.527 Bewertungen; 59 % gaben fünf Sterne und 18 % einen.",
           "Was sind die häufigsten Beschwerden über SHEIN? In den gelesenen negativen Bewertungen waren die Themen verlorene, gestohlene oder nie angekommene Pakete, manchmal mit einem angezweifelten Zustellfoto; verspätete oder abgelehnte Erstattungen, auch bei Rücksendungen, die der Shop nach eigenen Angaben nicht erhalten hat; langsamer Kundenservice oder Standardantworten; und Produktprobleme wie Größe, Qualität, falscher oder fehlender Artikel. Die Themen wurden notiert, nicht gezählt.",
           "Antwortet SHEIN auf negative Bewertungen? Laut dem Trustpilot-Profil hat der Shop auf 98 % der negativen Bewertungen geantwortet, meist innerhalb von 24 Stunden, und die Antwort kann KI nutzen. Der Text der Antworten wurde nicht gelesen.",
           "Gilt die Trustpilot-Bewertung für mein Land? Nicht für sich allein. Das Profil ist global und trennt die Bewertungen nicht nach Land, und die britische Regionalseite zeigte dasselbe Profil. Die Bewertung beschreibt den Shop insgesamt; Lieferzeiten und Rückgaberegeln für Ihr Land stehen auf der offiziellen Website oder in der App von SHEIN."
@@ -154780,8 +154788,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年10月28日時点の SHEIN の Trustpilot 評価です。TrustScore 3.8（レビュー 353,435 件）、星 1 つが 18%、否定的なレビューのテーマは届かない荷物と返金。数字が示すことと示さないことをまとめました。",
-    "metaDescription": "SHEIN の Trustpilot（2026年10月28日）：TrustScore 3.8、レビュー 353,435 件、星 5 つ 59%、星 1 つ 18%。否定的なレビューのテーマは届かない荷物と返金です。支払う前にすることも紹介します。",
+    "description": "2026年11月時点の SHEIN の Trustpilot 評価です。TrustScore 3.8（レビュー 353,527 件）、星 1 つが 18%、否定的なレビューのテーマは届かない荷物と返金。数字が示すことと示さないことをまとめました。",
+    "metaDescription": "SHEIN の Trustpilot（2026年11月）：TrustScore 3.8、レビュー 353,527 件、星 5 つ 59%、星 1 つ 18%。否定的なレビューのテーマは届かない荷物と返金です。支払う前にすることも紹介します。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -154798,13 +154806,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "評価は良好ですが、注意が要ります。SHEIN の Trustpilot の TrustScore は 5 点満点で 3.8、ラベルは「Great」で、各国の顧客による 353,435 件のレビューに基づいています。読んだ否定的なレビューのテーマは届かない荷物と返金で、星 1 つは 18% です。"
+          "評価は良好ですが、注意が要ります。SHEIN の Trustpilot の TrustScore は 5 点満点で 3.8、ラベルは「Great」で、各国の顧客による 353,527 件のレビューに基づいています。読んだ否定的なレビューのテーマは届かない荷物と返金で、星 1 つは 18% です。"
         ]
       },
       {
         "heading": "この評価が測っているもの",
         "paragraphs": [
-          "TrustScore は、Trustpilot 上のプロフィールの評価です。2026年10月28日に確認した時点で、SHEIN は 3.8、レビューは 353,435 件で、そのうち 22,625 件は直近 12 か月のものでした。プロフィールは企業が請求済みで、ページに書かれているとおり Trustpilot の有料契約があります。",
+          "TrustScore は、Trustpilot 上のプロフィールの評価です。2026年11月に確認した時点で、SHEIN は 3.8、レビューは 353,527 件で、そのうち 22,625 件は直近 12 か月のものでした。プロフィールは企業が請求済みで、ページに書かれているとおり Trustpilot の有料契約があります。",
           "同じ日の星ごとの分布は、星 5 つが 59%、星 4 つが 12%、星 3 つが 6%、星 2 つが 5%、星 1 つが 18% でした。星 5 つと星 4 つで大半を占めています。",
           "この評価は、商品の質ではなく、レビューを書いた人の受け止め方をまとめたものです。商品、配送、対応がひとつの星にまとまっています。"
         ],
@@ -154899,7 +154907,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot を見て SHEIN は信頼できる？",
         "paragraphs": [
-          "Trustpilot で見ると、SHEIN は評価が良く、返信もしています。2026年10月28日時点で TrustScore 3.8、レビュー 353,435 件のうち 59% が星 5 つで、否定的なレビューの 98% に返信がありました。",
+          "Trustpilot で見ると、SHEIN は評価が良く、返信もしています。2026年11月時点で TrustScore 3.8、レビュー 353,527 件のうち 59% が星 5 つで、否定的なレビューの 98% に返信がありました。",
           "注意点は三つです。読んだ否定的なレビューのテーマが届かない荷物と返金で、星 1 つが 18% あること。返信率は高くても、問題が解決したことまでは示さないこと。そして、プロフィールは世界共通で、お住まいの国の配送を示すものではないことです。"
         ]
       },
@@ -154915,7 +154923,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "SHEIN の Trustpilot の評価は良いですか？TrustScore は 5 点満点で 3.8、ラベルは「Great」で、レビューは 353,435 件、そのうち星 5 つが 59%、星 1 つが 18% でした。",
+          "SHEIN の Trustpilot の評価は良いですか？TrustScore は 5 点満点で 3.8、ラベルは「Great」で、レビューは 353,527 件、そのうち星 5 つが 59%、星 1 つが 18% でした。",
           "SHEIN についてよくある苦情は何ですか？否定的なレビューのテーマは、荷物の紛失や未着、返金の遅れや拒否、遅いか定型文の対応、そしてサイズ、品質、違う商品といった商品の問題でした。",
           "SHEIN は否定的なレビューに返信していますか？否定的なレビューの 98% に、多くは 24 時間以内に返信しており、返信に AI を使うことがあります。返信の本文は読んでいません。",
           "Trustpilot の評価は国別ですか？いいえ。SHEIN のプロフィールは世界共通で、レビューを国別に分けていません。"
@@ -154957,8 +154965,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026년 10월 28일 기준 SHEIN의 Trustpilot 평점입니다. 리뷰 353,435건에 TrustScore 3.8, 별 한 개 18%, 받지 못한 소포와 환불이라는 부정적 리뷰의 주제, 그리고 숫자가 보여 주는 것과 보여 주지 않는 것을 담았습니다.",
-    "metaDescription": "SHEIN Trustpilot(2026년 10월 28일): TrustScore 3.8, 리뷰 353,435건, 별 다섯 개 59%, 별 한 개 18%. 부정적 리뷰의 주제는 소포와 환불입니다. 결제 전에 할 일도 정리했습니다.",
+    "description": "2026년 11월 기준 SHEIN의 Trustpilot 평점입니다. 리뷰 353,527건에 TrustScore 3.8, 별 한 개 18%, 받지 못한 소포와 환불이라는 부정적 리뷰의 주제, 그리고 숫자가 보여 주는 것과 보여 주지 않는 것을 담았습니다.",
+    "metaDescription": "SHEIN Trustpilot(2026년 11월): TrustScore 3.8, 리뷰 353,527건, 별 다섯 개 59%, 별 한 개 18%. 부정적 리뷰의 주제는 소포와 환불입니다. 결제 전에 할 일도 정리했습니다.",
     "publishedAt": "2026년 10월 29일",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -154975,13 +154983,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "핵심 답변",
         "paragraphs": [
-          "평점은 괜찮은 편이지만 단서가 있습니다. SHEIN의 Trustpilot TrustScore는 5점 만점에 3.8이고 표시는 \"Great\"이며, 여러 나라 고객이 남긴 리뷰 353,435건을 바탕으로 합니다. 읽은 부정적 리뷰의 주제는 받지 못한 소포와 환불이고, 별 한 개는 18%입니다."
+          "평점은 괜찮은 편이지만 단서가 있습니다. SHEIN의 Trustpilot TrustScore는 5점 만점에 3.8이고 표시는 \"Great\"이며, 여러 나라 고객이 남긴 리뷰 353,527건을 바탕으로 합니다. 읽은 부정적 리뷰의 주제는 받지 못한 소포와 환불이고, 별 한 개는 18%입니다."
         ]
       },
       {
         "heading": "평점이 측정하는 것",
         "paragraphs": [
-          "TrustScore는 Trustpilot 프로필의 평점입니다. 2026년 10월 28일에 확인한 SHEIN의 TrustScore는 3.8이고, 리뷰는 353,435건이며, 그중 22,625건이 최근 12개월 안에 올라왔습니다. 프로필은 회사가 인증해 관리하며, 페이지에 적힌 대로 Trustpilot 유료 구독을 이용합니다.",
+          "TrustScore는 Trustpilot 프로필의 평점입니다. 2026년 11월에 확인한 SHEIN의 TrustScore는 3.8이고, 리뷰는 353,527건이며, 그중 22,625건이 최근 12개월 안에 올라왔습니다. 프로필은 회사가 인증해 관리하며, 페이지에 적힌 대로 Trustpilot 유료 구독을 이용합니다.",
           "같은 날의 별점 분포는 별 다섯 개 59%, 네 개 12%, 세 개 6%, 두 개 5%, 한 개 18%입니다. 다섯 개와 네 개가 대부분을 차지합니다.",
           "이 평점은 상품의 품질이 아니라 리뷰를 쓴 사람들의 평가를 모은 것입니다. 상품, 배송, 고객 지원이 별점 하나에 함께 들어갑니다."
         ],
@@ -155076,7 +155084,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot으로 SHEIN을 믿을 수 있을까요?",
         "paragraphs": [
-          "Trustpilot으로 보면 SHEIN은 평점이 좋은 편이고 답변도 합니다. 2026년 10월 28일 기준 TrustScore 3.8, 리뷰 353,435건 중 59%가 별 다섯 개였고, 부정적 리뷰의 98%에 답변이 달렸습니다.",
+          "Trustpilot으로 보면 SHEIN은 평점이 좋은 편이고 답변도 합니다. 2026년 11월 기준 TrustScore 3.8, 리뷰 353,527건 중 59%가 별 다섯 개였고, 부정적 리뷰의 98%에 답변이 달렸습니다.",
           "단서는 세 가지입니다. 읽은 부정적 리뷰의 주제가 받지 못한 소포와 환불이고 별 한 개가 18%라는 점, 답변율이 높아도 문제가 해결되었다는 뜻은 아니라는 점, 그리고 프로필이 글로벌이어서 회원님이 계신 나라의 배송을 보여 주지 않는다는 점입니다."
         ]
       },
@@ -155092,7 +155100,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "SHEIN의 Trustpilot 평점은 좋은가요? TrustScore는 5점 만점에 3.8, 표시는 \"Great\"였고, 리뷰 353,435건 중 59%가 별 다섯 개, 18%가 별 한 개였습니다.",
+          "SHEIN의 Trustpilot 평점은 좋은가요? TrustScore는 5점 만점에 3.8, 표시는 \"Great\"였고, 리뷰 353,527건 중 59%가 별 다섯 개, 18%가 별 한 개였습니다.",
           "SHEIN에 대한 가장 흔한 불만은 무엇인가요? 부정적 리뷰의 주제는 분실·도난·미배송 소포, 늦거나 거절된 환불, 느리거나 정형화된 고객 지원, 그리고 사이즈·품질·오배송·누락 같은 상품 문제였습니다.",
           "SHEIN은 부정적 리뷰에 답하나요? 부정적 리뷰의 98%에 보통 24시간 이내로 답했고, 답변에 AI를 쓸 수 있습니다. 답변의 본문은 읽지 않았습니다.",
           "Trustpilot 평점은 나라별인가요? 아닙니다. SHEIN의 프로필은 글로벌이고 리뷰를 나라별로 나누지 않습니다."
@@ -155134,8 +155142,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年10月28日 SHEIN 在 Trustpilot 的评分：TrustScore 3.8，共 353,435 条评价，18% 为一星；负面评价的主题是包裹未送达和退款。看看数据说明了什么，又没有说明什么。",
-    "metaDescription": "SHEIN 在 Trustpilot（2026年10月28日）：评分 3.8，共 353,435 条评价，59% 五星、18% 一星。负面评价的主题是包裹未送达和退款。付款之前该做什么，这里也有。",
+    "description": "2026年11月 SHEIN 在 Trustpilot 的评分：TrustScore 3.8，共 353,527 条评价，18% 为一星；负面评价的主题是包裹未送达和退款。看看数据说明了什么，又没有说明什么。",
+    "metaDescription": "SHEIN 在 Trustpilot（2026年11月）：评分 3.8，共 353,527 条评价，59% 五星、18% 一星。负面评价的主题是包裹未送达和退款。付款之前该做什么，这里也有。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -155152,13 +155160,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "简要回答",
         "paragraphs": [
-          "口碑不错，但有保留。SHEIN 在 Trustpilot 的 TrustScore 为 3.8（满分 5 分），网站标注为“Great”，基于多个国家顾客留下的 353,435 条评价。读到的负面评价，主题是包裹未送达和退款，一星评价占 18%。"
+          "口碑不错，但有保留。SHEIN 在 Trustpilot 的 TrustScore 为 3.8（满分 5 分），网站标注为“Great”，基于多个国家顾客留下的 353,527 条评价。读到的负面评价，主题是包裹未送达和退款，一星评价占 18%。"
         ]
       },
       {
         "heading": "分数衡量的是什么",
         "paragraphs": [
-          "TrustScore 是主页在 Trustpilot 上的评分。2026年10月28日读取时，SHEIN 为 3.8，共 353,435 条评价，其中 22,625 条发布于最近 12 个月。主页由公司认领并管理，并且如页面所写，使用 Trustpilot 的付费订阅。",
+          "TrustScore 是主页在 Trustpilot 上的评分。2026年11月读取时，SHEIN 为 3.8，共 353,527 条评价，其中 22,625 条发布于最近 12 个月。主页由公司认领并管理，并且如页面所写，使用 Trustpilot 的付费订阅。",
           "同一天的星级分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起来占了大部分。",
           "这个分数汇总的是写评价的人的感受，不是商品的质量。商品、配送和客服被合在同一颗星里。"
         ],
@@ -155253,7 +155261,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "凭 Trustpilot 可以信任 SHEIN 吗？",
         "paragraphs": [
-          "从 Trustpilot 来看，SHEIN 的评分不错，也会回复。2026年10月28日，TrustScore 为 3.8，353,435 条评价中 59% 是五星，98% 的负面评价得到了回复。",
+          "从 Trustpilot 来看，SHEIN 的评分不错，也会回复。2026年11月，TrustScore 为 3.8，353,527 条评价中 59% 是五星，98% 的负面评价得到了回复。",
           "保留之处有三点：读到的负面评价主题是包裹未送达和退款，一星占 18%；回复率再高，也不说明问题已经解决；主页是全球性的，看不出你所在国家的配送情况。"
         ]
       },
@@ -155269,7 +155277,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "SHEIN 在 Trustpilot 上的评分好吗？TrustScore 为 3.8（满分 5 分），网站标注为“Great”，共 353,435 条评价，59% 是五星，18% 是一星。",
+          "SHEIN 在 Trustpilot 上的评分好吗？TrustScore 为 3.8（满分 5 分），网站标注为“Great”，共 353,527 条评价，59% 是五星，18% 是一星。",
           "关于 SHEIN 最常见的投诉是什么？负面评价的主题是包裹丢失、被盗或未送达，退款延迟或被拒，客服回应慢或模板化，以及尺码、质量、发错货或少件等产品问题。",
           "SHEIN 会回复负面评价吗？回复了 98% 的负面评价，通常在 24 小时内，回复可能使用 AI。回复的文字没有读。",
           "Trustpilot 的分数是按国家区分的吗？不是。SHEIN 的主页是全球性的，评价不按国家区分。"
@@ -155311,8 +155319,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年10月28日 SHEIN 在 Trustpilot 的評分：TrustScore 3.8，共 353,435 則評價，18% 為一星；負面評價的主題是包裹未送達和退款。看看數據說明了什麼，又沒有說明什麼。",
-    "metaDescription": "SHEIN 在 Trustpilot（2026年10月28日）：評分 3.8，共 353,435 則評價，59% 五星、18% 一星。負面評價的主題是包裹未送達和退款。付款之前該做什麼，這裡也有。",
+    "description": "2026年11月 SHEIN 在 Trustpilot 的評分：TrustScore 3.8，共 353,527 則評價，18% 為一星；負面評價的主題是包裹未送達和退款。看看數據說明了什麼，又沒有說明什麼。",
+    "metaDescription": "SHEIN 在 Trustpilot（2026年11月）：評分 3.8，共 353,527 則評價，59% 五星、18% 一星。負面評價的主題是包裹未送達和退款。付款之前該做什麼，這裡也有。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
     "updatedAt": "2026-11-07",
@@ -155329,13 +155337,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "簡要回答",
         "paragraphs": [
-          "口碑不錯，但有保留。SHEIN 在 Trustpilot 的 TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，依據多個國家顧客留下的 353,435 則評價。讀到的負面評價，主題是包裹未送達和退款，一星評價佔 18%。"
+          "口碑不錯，但有保留。SHEIN 在 Trustpilot 的 TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，依據多個國家顧客留下的 353,527 則評價。讀到的負面評價，主題是包裹未送達和退款，一星評價佔 18%。"
         ]
       },
       {
         "heading": "分數衡量的是什麼",
         "paragraphs": [
-          "TrustScore 是檔案在 Trustpilot 上的評分。2026年10月28日讀取時，SHEIN 為 3.8，共 353,435 則評價，其中 22,625 則發布於最近 12 個月。檔案由公司認領並管理，而且如頁面所寫，使用 Trustpilot 的付費訂閱。",
+          "TrustScore 是檔案在 Trustpilot 上的評分。2026年11月讀取時，SHEIN 為 3.8，共 353,527 則評價，其中 22,625 則發布於最近 12 個月。檔案由公司認領並管理，而且如頁面所寫，使用 Trustpilot 的付費訂閱。",
           "同一天的星級分布：五星 59%，四星 12%，三星 6%，二星 5%，一星 18%。五星和四星合起來佔了大部分。",
           "這個分數彙整的是寫評價的人的感受，不是商品的品質。商品、配送和客服被合在同一顆星裡。"
         ],
@@ -155430,7 +155438,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "憑 Trustpilot 可以信任 SHEIN 嗎？",
         "paragraphs": [
-          "從 Trustpilot 來看，SHEIN 的評分不錯，也會回覆。2026年10月28日，TrustScore 為 3.8，353,435 則評價中 59% 是五星，98% 的負面評價得到了回覆。",
+          "從 Trustpilot 來看，SHEIN 的評分不錯，也會回覆。2026年11月，TrustScore 為 3.8，353,527 則評價中 59% 是五星，98% 的負面評價得到了回覆。",
           "保留之處有三點：讀到的負面評價主題是包裹未送達和退款，一星佔 18%；回覆率再高，也不說明問題已經解決；檔案是全球性的，看不出你所在地的配送情況。"
         ]
       },
@@ -155446,7 +155454,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "SHEIN 在 Trustpilot 上的評分好嗎？TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，共 353,435 則評價，59% 是五星，18% 是一星。",
+          "SHEIN 在 Trustpilot 上的評分好嗎？TrustScore 為 3.8（滿分 5 分），網站標示為「Great」，共 353,527 則評價，59% 是五星，18% 是一星。",
           "關於 SHEIN 最常見的投訴是什麼？負面評價的主題是包裹遺失、被竊或未送達，退款延遲或被拒，客服回應慢或罐頭式回覆，以及尺碼、品質、寄錯貨或少件等商品問題。",
           "SHEIN 會回覆負面評價嗎？回覆了 98% 的負面評價，通常在 24 小時內，回覆可能使用 AI。回覆的文字沒有讀。",
           "Trustpilot 的分數是按國家或地區區分的嗎？不是。SHEIN 的檔案是全球性的，評價不按國家或地區區分。"
@@ -155959,6 +155967,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o CECILIA10, 10% OFF nos conjuntos de malas Bagaggio: dos 32 conferidos, 24 custam a soma das peças avulsas. Veja os 6 com desconto real.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/conjunto-de-malas-bagaggio-compensa-capa.webp",
@@ -156133,7 +156142,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a garantia?",
         "paragraphs": [
-          "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, e as fichas dos conjuntos trazem \"Garantia Vitalícia *confira regulamento\". O que cobre e como acionar estão no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia)."
+          "A garantia vitalícia vale para as malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, e as fichas dos conjuntos trazem \"Garantia Vitalícia *confira regulamento\". O que cobre e como acionar estão no [guia da garantia vitalícia](/reviews/bagaggio-garantia-vitalicia). A Downtown PP, do conjunto Downtown PP e Detroit G Preta, é da linha Travelcross, que a página da garantia vitalícia deixa de fora: nesse conjunto, a vitalícia vale para a Detroit G, não para a Downtown PP."
         ]
       },
       {
@@ -165128,6 +165137,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Mala de bordo: preço, medida, peso e litros de 7 malas, o selo BORDO e a regra da ANAC, LATAM, GOL e Azul.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/mala-de-bordo-bagaggio-qual-compensa-capa.webp",
@@ -165288,7 +165298,7 @@ export const reviewsData: unknown[] = [
           "Azul, [página de bagagens](https://www.voeazul.com.br/br/pt/sua-viagem/planeje/bagagens): bagagem de mão de 55 × 35 × 25 cm, até 10 kg. Item menor: 45 × 35 × 20 cm."
         ],
         "postParagraphs": [
-          "As três companhias citam 55 × 35 × 25 cm. O peso muda: 12 kg na LATAM e na GOL, 10 kg na Azul. A Detroit Preta (55 × 35 × 23 cm) e a Route Preta (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena (57,5 × 38 × 23,5 cm) passa dela. A página da Detroit não diz se a medida inclui as rodas; as da Route e da Cartagena dizem que sim. As companhias contam as rodas."
+          "As três companhias citam 55 × 35 × 25 cm. O peso muda: 12 kg na LATAM e na GOL, 10 kg na Azul. A Detroit Preta (55 × 35 × 23 cm) e a Route Preta (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena (57,5 × 38 × 23,5 cm) passa dela. Na Detroit, os 55 cm incluem as rodas: sem elas, a mala tem 51 × 35 × 23 cm. As páginas da Route e da Cartagena também dão a medida com rodas. As companhias contam as rodas."
         ]
       },
       {
@@ -165410,7 +165420,7 @@ export const reviewsData: unknown[] = [
               "55 × 35 × 23 cm",
               "44,2",
               "10 kg (P no conjunto)",
-              "Pela ficha, sim (a página não diz se a medida inclui as rodas)"
+              "Pela ficha, sim (os 55 cm incluem as rodas)"
             ],
             [
               "[Mala de Bordo 10 kg Polipropileno 4 Rodas Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -165548,7 +165558,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual mala de 10 kg cabe na bagagem de mão",
         "paragraphs": [
           "LATAM, GOL e Azul citam 55 × 35 × 25 cm para a mala de mão. A ANAC deixa o limite de medida para cada companhia. O detalhe das regras, com as fontes, está no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa).",
-          "Pelas fichas, a Detroit Preta (55 × 35 × 23 cm, sem dizer se inclui as rodas) e a Route Preta de 10 kg (55 × 35 × 22,5 cm, com rodas) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
+          "Pelas fichas, a Detroit Preta (55 × 35 × 23 cm, com as rodas) e a Route Preta de 10 kg (55 × 35 × 22,5 cm, com rodas) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
           "Cada companhia confere a medida e o peso no balcão, e as regras mudam. Confirme na sua antes de viajar."
         ]
       },
@@ -165583,7 +165593,7 @@ export const reviewsData: unknown[] = [
           "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? A faixa de peso define o tamanho: a de 10 kg é a de bordo, e as de 23 kg e 32 kg são as malas maiores, com mais litros. Nem toda mala de 10 kg cabe na mão: a Cartagena P passa da medida.",
           "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
           "Qual tamanho de mala comprar para viagem de uma semana? Para uma semana, a de 23 kg dá mais espaço, com 71 a 91 litros. Se for só levar na mão, a de 10 kg, com 44 a 51 litros, é a opção.",
-          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pelas fichas, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, mas a ficha da Detroit não diz se a medida inclui as rodas, e a Cartagena P passa. Cada companhia decide, então confira antes de viajar.",
+          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pelas fichas, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, e a medida da Detroit já inclui as rodas, enquanto a Cartagena P passa. Cada companhia decide, então confira antes de viajar.",
           "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
         ]
       }
@@ -165645,6 +165655,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mochila para notebook Bagaggio com o CECILIA10 e 10% OFF: 12 modelos com preço de cartão, medida, material e garantia informados pela loja.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/mochila-notebook-bagaggio-qual-escolher-capa.webp",
@@ -165779,7 +165790,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como escolher pelo uso",
         "bullets": [
-          "Dia a dia, com orçamento curto: BG Net Branco, Horizonte Slim e BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a única em que o cadastro traz a medida do notebook.",
+          "Dia a dia, com orçamento curto: BG Net Branco, Horizonte Slim e BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a única das três em que o cadastro traz a medida do notebook.",
           "Trabalho, modelo executivo: Texas, Nurack e City Safe, de poliéster e com etiqueta Grande, entre R$ 179,90 e R$ 199,90.",
           "Feminina e executiva: a Donna, de R$ 299,90, é média, com poliéster e PVC, e tem 90 dias de garantia, diz a página.",
           "Couro: Arpoador, a R$ 399,90, ou Joá Café, a R$ 699,90, ambas com etiqueta Pequena. O material está na tabela; qual dura mais, a página não diz."
@@ -165804,7 +165815,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tamanho de notebook: o que a página mostra",
         "paragraphs": [
-          "Só a Horizonte Slim traz a medida do notebook que cabe: até 15,6 polegadas, na descrição da marca. Nas outras páginas que lemos, a medida do notebook não aparece, e o texto não chuta polegadas.",
+          "Só a Horizonte Slim e a Joá Café trazem a medida do notebook que cabe: até 15,6 polegadas na Horizonte e 16 polegadas na Joá, nas descrições da marca. Nas outras páginas que lemos, a medida do notebook não aparece, e o texto não chuta polegadas.",
           "A etiqueta de tamanho da loja também não resolve. As marcadas como Grande têm a primeira medida entre 44 e 52,5 cm, e a Média Donna tem 44,5 cm. Antes de comprar, meça o seu notebook e compare com as medidas do produto."
         ]
       },
@@ -165848,7 +165859,7 @@ export const reviewsData: unknown[] = [
           "Qual é a mochila para notebook mais barata da Bagaggio? Pelo cartão, a Horizonte Slim, a BG Net Branco e a BG Quiz Marinho custam R$ 79,90 cada uma. A Horizonte Slim é a que a marca anuncia para notebook de até 15,6 polegadas.",
           "Mochila para notebook da Bagaggio tem garantia vitalícia? Não. A vitalícia do guia da garantia é para as malas da marca Bagaggio. A mochila segue a garantia que a loja indica, de 3 meses, 90 dias ou 3 anos, conforme o modelo.",
           "Couro ou poliéster: qual mochila compensa? Depende do preço e do uso. O couro começa em R$ 399,90, e o poliéster, em R$ 79,90. Não usamos nenhuma delas, então não dizemos qual dura mais.",
-          "Qual mochila cabe notebook de 15,6 polegadas? A Horizonte Slim, pela descrição oficial. Nas outras páginas que lemos, a medida do notebook não aparece.",
+          "Qual mochila cabe notebook de 15,6 polegadas? A Horizonte Slim, pela descrição oficial, e a Joá Café, que informa compartimento para notebook de 16 polegadas. Nas outras páginas que lemos, a medida do notebook não aparece.",
           "Tem cupom na Bagaggio? Sim. O CECILIA10 dá 10% em todo o site oficial, com um cupom por pedido. Confira o desconto no resumo do pedido antes de pagar."
         ]
       }
@@ -169532,7 +169543,7 @@ export const reviewsData: unknown[] = [
         "Leve se a descrição traz composição, forro e comprimento em centímetros, e a medida da peça bate com a sua."
       ],
       "skipIf": [
-        "Passe se o processamento somado à entrega passa da data da festa.",
+        "Passe se a previsão de entrega na página do pedido passa da data da festa.",
         "Passe se a peça não tem forro e a transparência incomoda, ou se só lava a seco e você não quer lavanderia."
       ]
     }
@@ -169895,7 +169906,7 @@ export const reviewsData: unknown[] = [
         "Take it if the description lists composition, lining and length in centimeters, and the garment's measurements match yours."
       ],
       "skipIf": [
-        "Skip it if processing plus delivery runs past the party date.",
+        "Skip it if the delivery estimate on the order page runs past the party date.",
         "Skip it if the piece has no lining and the sheerness bothers you, or if it is dry-clean only and you do not want a dry cleaner."
       ]
     }
@@ -170258,7 +170269,7 @@ export const reviewsData: unknown[] = [
         "Llévelo si la descripción trae composición, forro y largo en centímetros, y la medida de la prenda coincide con la suya."
       ],
       "skipIf": [
-        "Pase si el procesamiento sumado a la entrega pasa de la fecha de la fiesta.",
+        "Pase si la entrega prevista en la página del pedido pasa de la fecha de la fiesta.",
         "Pase si la prenda no tiene forro y la transparencia le molesta, o si solo se lava en seco y no quiere ir a la tintorería."
       ]
     }
@@ -170621,7 +170632,7 @@ export const reviewsData: unknown[] = [
         "À prendre si la description indique la composition, la doublure et la longueur en centimètres, et que les mesures de la pièce correspondent aux vôtres."
       ],
       "skipIf": [
-        "À éviter si le traitement ajouté à la livraison dépasse la date de la fête.",
+        "À éviter si la livraison prévue sur la page de la commande dépasse la date de la fête.",
         "À éviter si la pièce n'a pas de doublure et que la transparence vous gêne, ou si elle se nettoie uniquement à sec et que vous ne voulez pas de pressing."
       ]
     }
@@ -170984,7 +170995,7 @@ export const reviewsData: unknown[] = [
         "Kaufen Sie es, wenn die Beschreibung Zusammensetzung, Futter und Länge in Zentimetern nennt und das Maß des Teils zu Ihrem passt."
       ],
       "skipIf": [
-        "Lassen Sie es, wenn Bearbeitung plus Lieferung nach dem Termin der Feier enden.",
+        "Lassen Sie es, wenn der voraussichtliche Liefertermin auf der Bestellseite nach dem Termin der Feier liegt.",
         "Lassen Sie es, wenn das Teil kein Futter hat und die Transparenz stört, oder wenn es nur chemisch gereinigt werden kann und Sie das nicht möchten."
       ]
     }
@@ -171347,7 +171358,7 @@ export const reviewsData: unknown[] = [
         "Da prendere se la descrizione riporta composizione, fodera e lunghezza in centimetri, e la misura del capo corrisponde alla vostra."
       ],
       "skipIf": [
-        "Da lasciare se l'elaborazione sommata alla consegna supera la data della festa.",
+        "Da lasciare se la consegna prevista nella pagina dell'ordine supera la data della festa.",
         "Da lasciare se il capo non ha fodera e la trasparenza dà fastidio, o se si lava solo a secco e non volete la lavanderia."
       ]
     }
@@ -171710,7 +171721,7 @@ export const reviewsData: unknown[] = [
         "설명에 혼용률, 안감, 센티미터 단위 길이가 있고 상품 치수가 자신의 치수와 맞는다면 고르세요."
       ],
       "skipIf": [
-        "처리 일수와 배송 기간을 더하면 파티 날짜를 넘긴다면 건너뛰세요.",
+        "주문 페이지의 배송 예정일이 파티 날짜를 넘긴다면 건너뛰세요.",
         "안감이 없어 비침이 신경 쓰이거나, 드라이클리닝 전용인데 세탁소를 이용하고 싶지 않다면 건너뛰세요."
       ]
     }
@@ -172073,7 +172084,7 @@ export const reviewsData: unknown[] = [
         "説明に組成、裏地、センチ表記の丈があり、商品の寸法が自分の寸法に合うなら選びましょう。"
       ],
       "skipIf": [
-        "処理日数と配達日を足すとパーティーの日を過ぎるなら、見送りましょう。",
+        "注文ページの配達予定日が、パーティーの日を過ぎるなら、見送りましょう。",
         "裏地がなく透けが気になる場合や、ドライクリーニングのみでクリーニング店に出したくない場合は見送りましょう。"
       ]
     }
@@ -172436,7 +172447,7 @@ export const reviewsData: unknown[] = [
         "如果說明寫明成分、內裡與以公分標示的長度，而且商品尺寸與你的相符，可以買。"
       ],
       "skipIf": [
-        "如果處理天數加上送達時間超過聚會日期，就別買。",
+        "如果訂單頁面的預計送達日期晚於聚會日期，就別買。",
         "如果洋裝沒有內裡而你介意透視，或只能乾洗而你不想送洗衣店，就別買。"
       ]
     }
@@ -172799,7 +172810,7 @@ export const reviewsData: unknown[] = [
         "如果描述写明成分、里衬和以厘米标注的长度，而且商品尺寸与你的相符，可以买。"
       ],
       "skipIf": [
-        "如果处理天数加上送达时间超过聚会日期，就别买。",
+        "如果订单页的预计送达日期晚于聚会日期，就别买。",
         "如果裙子没有里衬而你介意透光，或者只能干洗而你不想送洗衣店，就别买。"
       ]
     }
@@ -177118,6 +177129,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Whey, Exquenta e barras da Mais Mu pelo rótulo, com o cupom MMEMCASACOMCECILIA de 10% OFF: para quem a marca compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/mais-mu-e-boa-capa.webp",
@@ -177448,7 +177460,7 @@ export const reviewsData: unknown[] = [
         "heading": "A Mais Mu é confiável?",
         "paragraphs": [
           "Dá para confiar na empresa, com atenção à entrega. A Mais Mu é uma sociedade anônima com CNPJ ativo desde 2014 e sede em São Paulo, o site oficial é lojamaismu.com.br, e as regras de troca estão publicadas: produto fechado, pedido por e-mail e recolhimento pago pela loja.",
-          "No Reclame Aqui, a reputação dos últimos 6 meses caiu para Regular, com nota 6,4, enquanto a janela de 12 meses segue Boa, com 7,2. A queixa principal é a entrega: produto não recebido e atraso. Esses números mudam todo dia, e os do dia estão em [Mais Mu no Reclame Aqui](/reviews/mais-mu-reclame-aqui-nota-reputacao). Na prática, guarde o número do pedido e acompanhe o rastreio desde a postagem."
+          "No Reclame Aqui, a reputação dos últimos 6 meses estava Boa, com nota 7,1, depois de uma fase Regular, e a janela de 12 meses também era Boa, com 7,2. A queixa principal é a entrega: produto não recebido e atraso. Esses números mudam todo dia, e os do dia estão em [Mais Mu no Reclame Aqui](/reviews/mais-mu-reclame-aqui-nota-reputacao). Na prática, guarde o número do pedido e acompanhe o rastreio desde a postagem."
         ]
       },
       {
@@ -177672,7 +177684,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
           "O DREMCASACOMCECILIA tira 10% de todo o site da Dr. Peanut, em todas as formas de pagamento, e soma com as promoções: no teste do checkout, o desconto entrou até no item que já estava com preço promocional. Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 15% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Para quem compra pasta de 250 g todo mês, é o menor preço por 100 g dos potes pequenos.",
-          "O frete grátis conta o total já com o cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Um pote de 600 g sozinho não chega; o pote de whey chega em qualquer região. A compra é no site oficial, drpeanut.com.br, e o código para copiar fica na página do [cupom Dr. Peanut](/cupons/dr-peanut)."
+          "O frete grátis conta o valor antes do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Um pote de 600 g sozinho não chega; o pote de whey chega em qualquer região. A compra é no site oficial, drpeanut.com.br, e o código para copiar fica na página do [cupom Dr. Peanut](/cupons/dr-peanut)."
         ]
       },
       {
@@ -177758,6 +177770,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Doces, snacks e pães sem glúten pelo rótulo, preço e frete por região: para quem compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/belive-e-boa-capa.webp",
@@ -178033,7 +178046,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O combo de 4 custa, em lista, o mesmo que 4 pacotes avulsos; o desconto do combo é o da promoção do dia, e o Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. A página de cada pão traz a tabela nutricional, como imagem, e a lista de ingredientes, nas abas da página; o multigrãos leva castanha-do-pará, que é alérgeno, e quem evita castanhas fica no tradicional ou no de batata-doce. O pão de forma serve a quem quer pão de todo dia com validade longa para não faltar; o pãozinho e a bisnaguinha, à lancheira e ao café. Quem compra um pacote só paga frete sobre ele: o pão é o item que mais pede o combo ou o carrinho cheio, como mostra o próximo capítulo."
+          "O combo de 4 custa, em lista, o mesmo que 4 pacotes avulsos; o desconto do combo é o da promoção do dia, e o Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. A página de cada pão traz a tabela nutricional, como imagem, e a lista de ingredientes, nas abas da página; o multigrãos leva castanha-do-pará, que é alérgeno; confira o aviso de alergênicos na embalagem de cada pão. O pão de forma serve a quem quer pão de todo dia com validade longa para não faltar; o pãozinho e a bisnaguinha, à lancheira e ao café. Quem compra um pacote só paga frete sobre ele: o pão é o item que mais pede o combo ou o carrinho cheio, como mostra o próximo capítulo."
         ],
         "images": [
           {
@@ -178731,6 +178744,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF em todo o site da Skelt. Autobronzeador, body splash e hidratante pelo rótulo, preço e frete: para quem compensa.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/skelt-e-boa-capa.webp",
@@ -179070,14 +179084,14 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, frete e onde comprar",
         "paragraphs": [
           "O cupom SKEMCASACOMCECILIA tira 10% de todo o site oficial, inclusive do produto que já está em promoção e dos kits, em todas as formas de pagamento, e o Pix tira mais 5% sobre o total já com o cupom. No teste do cupom, um body splash e um mousse, de R$ 219,80 de lista, foram a R$ 178,04 com a promoção da loja e o cupom, e a R$ 169,13 no Pix. É um cupom por pedido: outro código da loja na sacola troca o nosso. O código vai no campo \"Cupom de desconto\" da sacola, abaixo do CEP, e a página do [cupom Skelt](/cupons/skelt) traz o passo a passo e as regras.",
-          "O que muda a conta é o frete. Ele é grátis sem mínimo em 12 cidades: São Paulo, Belo Horizonte, Santo André, Goiânia, Niterói, Barueri, São Caetano do Sul, Taboão da Serra, São José dos Pinhais, Curitiba, Vitória e Balneário Camboriú. Fora delas, o pedido precisa passar de R$ 199 no Sul, Sudeste e Centro-Oeste e de R$ 299 no Norte e Nordeste, contados sobre o valor final, depois do cupom e do Pix.  Dá para pagar no cartão, com parcelas sem juros que mudam por produto, no Pix, no Apple Pay e no Pagaleve.",
+          "O que muda a conta é o frete. Ele é grátis sem valor mínimo no Sul, no Sudeste e no Centro-Oeste. No Norte e no Nordeste, o pedido precisa passar de R$ 199.  Dá para pagar no cartão, com parcelas sem juros que mudam por produto, no Pix, no Apple Pay e no Pagaleve.",
           "A Skelt também vende no [Mercado Livre](https://meli.la/2unTb7k), onde o cupom não vale e o preço é o do anúncio. Antes de fechar, compare o preço do anúncio com o site oficial, que é onde o cupom e o Pix entram."
         ]
       },
       {
         "heading": "Dá para confiar na Skelt",
         "paragraphs": [
-          "Dá. A loja é de uma S/A registrada, a SKELT BEAUTY BRANDS, com sede em Curitiba, e publica as regras de troca, reembolso e frete: 20 dias para trocar sem defeito e 45 com defeito, contados da entrega, com a primeira devolução grátis. No Reclame Aqui, a loja respondeu a todas as reclamações dos últimos 6 meses e resolveu mais de 90%. As queixas mais comuns são produto com defeito e atraso, então confira o produto ao receber e abra o chamado cedo se o pedido atrasar. O ponto de atenção é que o perfil do Reclame Aqui está em nome de outro CNPJ ligado à marca, e o site não explica a ligação. CNPJ, site oficial e trocas estão em \"Skelt é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
+          "Dá. A loja é de uma S/A registrada, a SKELT BEAUTY BRANDS, com sede em Curitiba, e publica as regras de troca, reembolso e frete: 20 dias para trocar sem defeito e 45 com defeito, contados da entrega, com a primeira devolução grátis. No Reclame Aqui, a loja respondeu a quase todas as reclamações dos últimos 6 meses e resolveu mais de 90%. As queixas mais comuns são produto com defeito e atraso, então confira o produto ao receber e abra o chamado cedo se o pedido atrasar. O ponto de atenção é que o perfil do Reclame Aqui está em nome de outro CNPJ ligado à marca, e o site não explica a ligação. CNPJ, site oficial e trocas estão em \"Skelt é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
         ]
       },
       {
@@ -179089,7 +179103,7 @@ export const reviewsData: unknown[] = [
           "Para cheiro, o body splash pelo perfil das notas; o Solar Muse é o mais vendido, e os kits de miniaturas servem para provar antes.",
           "Para a mesma fragrância em creme, só seis das dez têm body cream, e três têm creme para mãos.",
           "Não vale ir ao Dark na primeira vez: o rótulo o marca como expert.",
-          "Não vale o pedido pequeno fora das 12 cidades: o frete grátis pede o mínimo da região, contado depois do cupom e do Pix.",
+          "Não vale o pedido pequeno no Norte e no Nordeste: o frete grátis pede R$ 199.",
           "Pele sensível, alergia ou gestação: na dúvida, o dermatologista, antes de qualquer autobronzeador ou fragrância."
         ],
         "emphasis": "Pelos números da tabela, para quem está começando a escolha é o Kit Iniciante: o mousse com cor-guia e a luva por menos que as duas peças avulsas."
@@ -179114,7 +179128,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você quer o bronze intenso logo na primeira vez: as versões Dark dizem \"intensa\" e nível expert no rótulo, e pedem quem já sabe aplicar.",
-        "Você compra pouco e mora fora das 12 cidades com frete grátis: o pedido precisa passar do mínimo da sua região, contado depois do cupom e do Pix."
+        "Você compra pouco e mora no Norte ou no Nordeste: lá o frete grátis pede valor mínimo."
       ]
     },
     "cta": {
@@ -179556,6 +179570,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF em todo o site da Cléa Store. Camiseta oversized, bodies e alfaiataria pelo que a loja publica: para quem compensa.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/clea-store-e-boa-capa.webp",
@@ -179803,7 +179818,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Cléa Store",
         "paragraphs": [
-          "Dá. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No Reclame Aqui, a reputação é Boa, com o selo de Empresa Verificada, nota 7,1 nos seis meses e todas as reclamações respondidas, com mais de 80% resolvidas; o ponto fraco é que pouco mais da metade de quem avaliou a loja voltaria a comprar. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados. CNPJ, trocas e frete estão em \"Cléa Store é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
+          "Dá. A loja é da Clea Store Ltda., empresa com CNPJ ativo, endereço e razão social publicados no site, em Jaraguá do Sul (SC). No Reclame Aqui, a reputação é Regular nos seis meses (nota 6,9) e Boa nos 12, com o selo de Empresa Verificada, todas as reclamações respondidas e perto de 80% resolvidas; o ponto fraco é que pouco mais da metade de quem avaliou a loja voltaria a comprar. Para comprar tranquila: site oficial, cupom no carrinho, comprovante e rastreio guardados. CNPJ, trocas e frete estão em \"Cléa Store é confiável?\", e a leitura das reclamações, no guia da marca no Reclame Aqui, os dois listados no fim."
         ]
       },
       {
@@ -179823,7 +179838,7 @@ export const reviewsData: unknown[] = [
           "A Cléa Store é boa? Sim, para quem quer camiseta oversized de algodão, body justo ou alfaiataria de linho numa loja só, com devolução grátis e cupom de 10%; o que pesa é o tamanho e o preço por peça do kit, nos capítulos da camiseta e do cupom.",
           "A camiseta da Cléa é boa? Pelo que a loja publica, é uma camiseta oversized de corpo 100% algodão, em dez cores e nos tamanhos P, M e G, sem a gramatura na página; o capítulo da camiseta resume e aponta o guia completo da peça.",
           "A Cléa Store tem cupom? Tem: o CSEMCASACOMCECILIA dá 10% em todo o site, em todas as formas de pagamento, e soma com as promoções e com o cashback; o capítulo do cupom mostra onde digitar.",
-          "A Cléa Store é confiável? Sim: CNPJ ativo, dados publicados no site, devolução grátis e reputação Boa no Reclame Aqui, com todas as reclamações respondidas, como mostra o capítulo de confiança.",
+          "A Cléa Store é confiável? Sim: CNPJ ativo, dados publicados no site, devolução grátis e reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui, com todas as reclamações respondidas, como mostra o capítulo de confiança.",
           "A Cléa Store tem tabela de medidas? Tem, na página de cada peça, no botão \"Tabela de Medidas\", com busto, cintura e quadril em centímetros; o capítulo de tamanho explica como usar."
         ]
       }
@@ -179901,6 +179916,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up. Sutiãs Comfort, SkinUp, Cotton Up e Fita Up pela página da loja, os kits que compensam e onde comprar.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/toda-up/toda-up-e-boa-capa.webp",
@@ -180203,7 +180219,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Toda Up",
         "paragraphs": [
-          "Dá. A loja é da mesma empresa de Biguaçu (SC) que abriu como Fita UP, com CNPJ ativo no rodapé do site, o mesmo da consulta pública e do perfil no Reclame Aqui, e regras de troca, reembolso e frete publicadas. No Reclame Aqui, o perfil estava na RA1000, com nota 8,5 nos seis meses até o fim de setembro, todas as reclamações respondidas e 93,1% resolvidas. Os dois pontos de atenção: a política não fixa o prazo de reembolso, e o que a loja diz da qualidade das peças é a marca falando de si. O CNPJ, a mudança de nome e as reclamações estão nos dois guias de confiança, listados no fim."
+          "Dá. A loja é da mesma empresa de Biguaçu (SC) que abriu como Fita UP, com CNPJ ativo no rodapé do site, o mesmo da consulta pública e do perfil no Reclame Aqui, e regras de troca, reembolso e frete publicadas. No Reclame Aqui, o perfil estava com reputação Ótima, com nota 8,2 nos seis meses até o fim de outubro, todas as reclamações respondidas e 89,9% resolvidas. Os dois pontos de atenção: a política não fixa o prazo de reembolso, e o que a loja diz da qualidade das peças é a marca falando de si. O CNPJ, a mudança de nome e as reclamações estão nos dois guias de confiança, listados no fim."
         ]
       },
       {
@@ -180224,7 +180240,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Toda Up é boa? Para quem quer sutiã de todo dia ou segunda pele com a tabela de medidas na página, sim: três sutiãs Comfort, as linhas SkinUp e Cotton Up e os adesivos, só no site oficial; o que decide é a sua medida na coluna da peça, como mostram os capítulos das linhas.",
           "Toda Up tem cupom? Tem: o código da Toda Up, MAUAD, dá 10% em todo o site, inclusive em peça já em promoção, e soma com a promoção da loja; o capítulo do preço mostra como ele entra no carrinho.",
-          "A Toda Up é confiável? É: empresa registrada em Biguaçu (SC), com o CNPJ no rodapé, troca em 30 dias e RA1000 no Reclame Aqui; os números estão no capítulo de confiança.",
+          "A Toda Up é confiável? É: empresa registrada em Biguaçu (SC), com o CNPJ no rodapé, troca em 30 dias e reputação Ótima no Reclame Aqui; os números estão no capítulo de confiança.",
           "Sutiã da Toda Up é bom? Pela página da loja, os três sutiãs Comfort têm o mesmo tecido e o mesmo preço, e o que muda é a faixa de tamanho e as alças; o capítulo dos sutiãs resume, e o guia dos Comfort, listado no fim, traz a tabela de busto.",
           "A Toda Up é a mesma Fita Up? É: a Fita UP cresceu e virou Toda Up, a mesma empresa e a mesma equipe; a fita segue à venda."
         ]
@@ -189432,6 +189448,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no whey Dr. Peanut, que a Max Titanium também vende. Veja sabores e preço por 100 g nas duas lojas.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/whey-dr-peanut-max-titanium-capa.webp",
@@ -189518,9 +189535,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Frete: o cupom entra na conta",
+        "heading": "Frete: o mínimo conta antes do cupom",
         "paragraphs": [
-          "A Dr. Peanut dá frete grátis acima de R$ 149,90 no Sul e no Sudeste, e acima de R$ 199,90 nas demais regiões, contando o total já com o cupom. Um pote com 10% fica em R$ 201,95, acima dos dois mínimos; nas demais regiões, a folga é de R$ 2,05. Se o preço do dia cair, o total pode ficar abaixo de R$ 199,90 e o frete deixa de ser grátis fora do Sul e do Sudeste. A Max tem a regra de frete dela: veja o total no carrinho antes de comparar."
+          "A Dr. Peanut dá frete grátis acima de R$ 149,90 no Sul e no Sudeste, e acima de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom, como testamos em novembro, então o cupom não tira o frete grátis de quem já passou dele. O pote de R$ 224,39 passa dos dois mínimos sozinho. A Max tem a regra de frete dela: veja o total no carrinho antes de comparar."
         ]
       },
       {

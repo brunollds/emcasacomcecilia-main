@@ -375,7 +375,7 @@
       "Leve se a descrição traz composição, forro e comprimento em centímetros, e a medida da peça bate com a sua."
     ],
     "skipIf": [
-      "Passe se o processamento somado à entrega passa da data da festa.",
+      "Passe se a previsão de entrega na página do pedido passa da data da festa.",
       "Passe se a peça não tem forro e a transparência incomoda, ou se só lava a seco e você não quer lavanderia."
     ]
   }

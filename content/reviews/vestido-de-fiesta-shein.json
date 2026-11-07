@@ -356,7 +356,7 @@
       "Llévelo si la descripción trae composición, forro y largo en centímetros, y la medida de la prenda coincide con la suya."
     ],
     "skipIf": [
-      "Pase si el procesamiento sumado a la entrega pasa de la fecha de la fiesta.",
+      "Pase si la entrega prevista en la página del pedido pasa de la fecha de la fiesta.",
       "Pase si la prenda no tiene forro y la transparencia le molesta, o si solo se lava en seco y no quiere ir a la tintorería."
     ]
   }

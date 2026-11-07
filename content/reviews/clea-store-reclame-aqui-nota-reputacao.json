@@ -13,8 +13,8 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "A Cléa Store tinha reputação Boa e selo de Empresa Verificada no Reclame Aqui em outubro e respondia as reclamações. Veja os pontos fracos e o que fazer se o pedido der problema.",
-  "metaDescription": "Cléa Store no Reclame Aqui, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: reputação Boa em outubro, nota 7,1 e reclamações respondidas.",
+  "description": "Em novembro, a Cléa Store tinha reputação Regular nos 6 meses e Boa nos 12 no Reclame Aqui e respondia as reclamações. Veja os pontos fracos e o que fazer se o pedido der problema.",
+  "metaDescription": "Cléa Store no Reclame Aqui, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: reputação Regular em 6 meses (nota 6,9) e reclamações respondidas.",
   "publishedAt": "14 de outubro de 2026",
   "publishedAtISO": "2026-10-14",
   "updatedAt": "2026-11-07",
@@ -25,17 +25,17 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
-    "Reputação Boa em outubro, com nota 7,1 nos 6 meses até setembro e 7,5 nos 12",
+    "Reputação Boa nos 12 meses até outubro, com nota 7,1",
     "Selo de Empresa Verificada no Reclame Aqui",
-    "100% das reclamações respondidas e nenhuma aguardando resposta, nos 6 meses até setembro",
-    "83,3% das reclamações dos 6 meses até setembro resolvidas",
+    "100% das reclamações respondidas e nenhuma aguardando resposta, nos 6 meses até outubro",
+    "78,3% das reclamações dos 6 meses até outubro resolvidas",
     "Avaliações de compra de 4,8 em 5 no topo do perfil"
   ],
   "cons": [
-    "Só 55,6% dos consumidores que avaliaram voltariam a fazer negócio nos 6 meses até setembro",
-    "Nota média do consumidor de 5,06 nos 6 meses até setembro",
+    "Só 56,5% dos consumidores que avaliaram voltariam a fazer negócio nos 6 meses até outubro",
+    "Nota média do consumidor de 4,89 nos 6 meses até outubro",
     "Produto não recebido é o problema mais citado, com 27,33%",
-    "O tempo médio de resposta é de 3 dias e 5 horas nos 6 meses até setembro, contra 2 dias e 4 horas nos 12"
+    "O tempo médio de resposta é de 2 dias e 18 horas nos 6 meses até outubro, contra 2 dias e 2 horas nos 12"
   ],
   "cta": {
     "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom CSEMCASACOMCECILIA, de 10% OFF em todo o site.",
@@ -58,7 +58,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Em outubro, a reputação da Cléa Store no Reclame Aqui era Boa, e a loja tinha o selo de Empresa Verificada. Ela respondia a tudo e resolvia a maior parte. O ponto fraco: pouco mais da metade de quem avaliou voltaria a comprar. Para comprar com desconto, veja o [cupom Cléa Store](/cupons/clea-store)."
+        "Em novembro, a reputação da Cléa Store no Reclame Aqui era Regular nos 6 meses e Boa nos 12, e a loja tinha o selo de Empresa Verificada. Ela respondia a tudo e resolvia a maior parte. O ponto fraco: pouco mais da metade de quem avaliou voltaria a comprar. Para comprar com desconto, veja o [cupom Cléa Store](/cupons/clea-store)."
       ]
     },
     {
@@ -66,15 +66,15 @@
       "paragraphs": [
         "Quem compra pela primeira vez costuma ter duas dúvidas: a peça chega, e o que acontece se vier algo errado ou se for preciso devolver?",
         "O Reclame Aqui ajuda a medir se a empresa responde, quantas reclamações ela resolve, quanto tempo leva e se quem reclamou voltaria a comprar. O próprio site da loja liga ao perfil: o item \"Reviews\" do rodapé abre a página de avaliações da Cléa Store no Reclame Aqui.",
-        "Os números abaixo são de 14/10/2026 e mudam todo dia: vale abrir o perfil de novo no dia da compra."
+        "Os números da tabela são de 07/11/2026 e mudam todo dia: vale abrir o perfil de novo no dia da compra."
       ]
     },
     {
       "heading": "Os números da Cléa Store no Reclame Aqui",
       "paragraphs": [
-        "O perfil, na categoria Moda e e-commerce, tinha reputação **Boa**, selo de **Empresa Verificada** e 4,8 em 5 nas avaliações de compra.",
+        "O perfil, na categoria Moda e e-commerce, tinha reputação **Regular** nos 6 meses e **Boa** nos 12, selo de **Empresa Verificada** e 4,8 em 5 nas avaliações de compra.",
         "O selo de Empresa Verificada, nas palavras do Reclame Aqui, é dado a \"empresas aprovadas na nossa verificação mensal, que assegura que a empresa existe e é mais confiável\". O selo não avalia as peças.",
-        "A tabela põe lado a lado as abas de 6 e de 12 meses, as duas até 30/09/2026:"
+        "A tabela põe lado a lado as abas de 6 e de 12 meses, as duas até 31/10/2026:"
       ],
       "comparisonTable": {
         "caption": "Perfil da Cléa Store no Reclame Aqui, abas de 6 e de 12 meses",
@@ -86,13 +86,13 @@
         "rows": [
           [
             "Reputação",
-            "Boa, nota 7,1",
-            "Boa, nota 7,5"
+            "Regular, nota 6,9",
+            "Boa, nota 7,1"
           ],
           [
             "Reclamações recebidas",
-            "65",
-            "137"
+            "97",
+            "172"
           ],
           [
             "Respondidas",
@@ -101,28 +101,28 @@
           ],
           [
             "Resolvidas",
-            "83,3%",
-            "83,6%"
+            "78,3%",
+            "77,1%"
           ],
           [
             "Voltariam a fazer negócio",
-            "55,6%",
-            "58,9%"
+            "56,5%",
+            "56,6%"
           ],
           [
             "Reclamações avaliadas",
-            "36",
-            "73"
+            "46",
+            "83"
           ],
           [
             "Nota média do consumidor",
-            "5,06",
-            "5,89"
+            "4,89",
+            "5,55"
           ],
           [
             "Tempo médio de resposta",
-            "3 dias e 5 horas",
-            "2 dias e 4 horas"
+            "2 dias e 18 horas",
+            "2 dias e 2 horas"
           ]
         ]
       },
@@ -166,11 +166,11 @@
         "aspectRatio": 1.7778
       },
       "bullets": [
-        "**Nota de reputação (7,1 e 7,5):** a nota do Reclame Aqui para o atendimento das reclamações de cada período.",
+        "**Nota de reputação (6,9 e 7,1):** a nota do Reclame Aqui para o atendimento das reclamações de cada período.",
         "**Avaliações de compra (4,8 em 5):** avaliação de quem comprou, mostrada no topo do perfil."
       ],
       "postParagraphs": [
-        "Por isso um 4,8 ao lado de um 7,1 não é contradição: um mede a compra, o outro, como a empresa lidou com as reclamações."
+        "Por isso um 4,8 ao lado de um 6,9 não é contradição: um mede a compra, o outro, como a empresa lidou com as reclamações."
       ]
     },
     {
@@ -197,8 +197,8 @@
       "heading": "Como a Cléa Store responde",
       "paragraphs": [
         "A loja responde a tudo nas duas janelas, como mostra a tabela; o gargalo não é responder, é resolver e fidelizar.",
-        "Resolver é outra conta: nas duas janelas, cerca de 5 em cada 6 reclamações foram resolvidas.",
-        "Só pouco mais da metade das reclamações foi avaliada, e o \"voltariam\" e a nota do consumidor, no quadro, falam só dessa parte. Esses números mostram como a Cléa Store foi vista por quem avaliou no Reclame Aqui, não como é a experiência de todas as compradoras."
+        "Resolver é outra conta: nas duas janelas, cerca de 4 em cada 5 reclamações foram resolvidas.",
+        "Só cerca de metade das reclamações foi avaliada, e o \"voltariam\" e a nota do consumidor, no quadro, falam só dessa parte. Esses números mostram como a Cléa Store foi vista por quem avaliou no Reclame Aqui, não como é a experiência de todas as compradoras."
       ]
     },
     {
@@ -222,15 +222,15 @@
     {
       "heading": "Dá para confiar na Cléa Store?",
       "paragraphs": [
-        "Pelo Reclame Aqui, sim, com uma ressalva. Em outubro, a reputação era Boa, com selo de Empresa Verificada; a loja respondia a tudo e resolvia a maior parte, como mostra a tabela.",
-        "A ressalva é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio, e o problema mais citado é o produto não recebido (mais de um quarto das reclamações de até 3 anos). Quem compra deve guardar o comprovante e acionar a loja pelos canais oficiais se o pedido atrasar."
+        "Pelo Reclame Aqui, sim, com uma ressalva. Em novembro, a reputação era Regular nos 6 meses e Boa nos 12, com selo de Empresa Verificada; a loja respondia a tudo e resolvia a maior parte, como mostra a tabela.",
+        "A ressalva é que só 56,5% dos consumidores que avaliaram voltariam a fazer negócio, e o problema mais citado é o produto não recebido (mais de um quarto das reclamações de até 3 anos). Quem compra deve guardar o comprovante e acionar a loja pelos canais oficiais se o pedido atrasar."
       ]
     },
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A Cléa Store é confiável segundo o Reclame Aqui? Sim: em outubro, o perfil mostrava reputação Boa e o selo de Empresa Verificada. O ponto fraco é o percentual de quem voltaria a fazer negócio, que está na tabela de 6 e 12 meses.",
-        "Qual a nota da Cléa Store no Reclame Aqui? Nota 7,1 nos 6 meses até setembro e 7,5 nos 12 meses até setembro, ambas na faixa Boa; a nota do consumidor está na tabela. As avaliações de compra, de 4,8 em 5, são outra métrica.",
+        "A Cléa Store é confiável segundo o Reclame Aqui? Sim, com ressalvas: em novembro, o perfil mostrava reputação Regular nos 6 meses e Boa nos 12, e o selo de Empresa Verificada. O ponto fraco é o percentual de quem voltaria a fazer negócio, que está na tabela de 6 e 12 meses.",
+        "Qual a nota da Cléa Store no Reclame Aqui? Nota 6,9 nos 6 meses até outubro (Regular) e 7,1 nos 12 meses até outubro (Boa); a nota do consumidor está na tabela. As avaliações de compra, de 4,8 em 5, são outra métrica.",
         "A Cléa Store responde às reclamações? Sim. A tabela mostra todas as reclamações respondidas nos últimos 6 e nos últimos 12 meses, com resposta em poucos dias, em média.",
         "O que fazer se o pedido da Cléa Store atrasar? Acompanhe o rastreio e, quando o prazo mostrado no checkout vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\" do site, com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
         "Como pedir devolução ou troca na Cléa Store? A devolução tem 30 dias corridos a partir do recebimento, pelo formulário cleastore.troquefacil.com.br, e a postagem é grátis. Em caso de defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição."

@@ -356,7 +356,7 @@
       "Kaufen Sie es, wenn die Beschreibung Zusammensetzung, Futter und Länge in Zentimetern nennt und das Maß des Teils zu Ihrem passt."
     ],
     "skipIf": [
-      "Lassen Sie es, wenn Bearbeitung plus Lieferung nach dem Termin der Feier enden.",
+      "Lassen Sie es, wenn der voraussichtliche Liefertermin auf der Bestellseite nach dem Termin der Feier liegt.",
       "Lassen Sie es, wenn das Teil kein Futter hat und die Transparenz stört, oder wenn es nur chemisch gereinigt werden kann und Sie das nicht möchten."
     ]
   }

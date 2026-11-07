@@ -125,7 +125,7 @@
         ]
       },
       "postParagraphs": [
-        "Le tableau ne liste ni le Japon, ni le Mexique, ni le Chili, ni le Pérou, ni l'Argentine, ni la Colombie."
+        "Le tableau ne liste ni le Japon, ni le Mexique, ni le Chili, ni le Pérou, ni l'Argentine, ni la Colombie. Pour Singapour et la Malaisie, les tableaux de la boutique divergent : l'un indique US$ 50 et l'autre US$ 70, et la ligne ci-dessus retient US$ 70. Vérifiez la valeur au paiement."
       ]
     },
     {
@@ -229,5 +229,5 @@
       "slug": "code-recompense-yesstyle-cecilia010"
     }
   ],
-  "updatedAt": "2026-10-21"
+  "updatedAt": "2026-11-07"
 }

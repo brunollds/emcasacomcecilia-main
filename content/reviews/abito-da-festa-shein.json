@@ -356,7 +356,7 @@
       "Da prendere se la descrizione riporta composizione, fodera e lunghezza in centimetri, e la misura del capo corrisponde alla vostra."
     ],
     "skipIf": [
-      "Da lasciare se l'elaborazione sommata alla consegna supera la data della festa.",
+      "Da lasciare se la consegna prevista nella pagina dell'ordine supera la data della festa.",
       "Da lasciare se il capo non ha fodera e la trasparenza dà fastidio, o se si lava solo a secco e non volete la lavanderia."
     ]
   }
