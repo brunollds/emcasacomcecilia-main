@@ -162,13 +162,13 @@
       "postParagraphs": [
         "O que conta é o valor total final do carrinho, já com os descontos, inclusive o do cupom da parceria: se o carrinho só passa do mínimo antes do desconto, confira se o frete grátis continua depois de aplicar o código. A faixa do topo do site diz \"Frete grátis para todo Brasil - consulte as regras\", e as regras são as faixas acima.",
         "Depois que o pedido é feito, a loja não cobra nenhuma taxa. Se alguém pedir pagamento extra por Pix, link ou boleto para \"liberar\" ou \"reenviar\" a entrega, desconfie: é o tipo de mensagem usada em golpes.",
-        "Como a parcela mínima é de R$ 50, um pedido pequeno não chega às 8 vezes: o número de parcelas sem juros que aparece no checkout depende do total do carrinho."
+        ""
       ],
       "bullets": [
         "**Extravio ou roubo no transporte:** pela política, a loja reenvia o pedido sem custo.",
         "**Entrega não reconhecida:** a política pede contestação em até dez dias.",
         "**Item errado:** avise a loja em até sete dias, conforme a política.",
-        "**Cartão:** Amex, Visa, Mastercard, Hipercard, Elo e Diners; até oito parcelas sem juros, com mínimo de R$ 50 por parcela.",
+        "**Cartão:** Amex, Visa, Mastercard, Hipercard, Elo e Diners; até oito parcelas sem juros, com mínimo de R$ 50 por parcela. Em pedido pequeno, o número de parcelas sem juros que aparece no checkout depende do total do carrinho.",
         "**Outros meios publicados:** Pix, Pix parcelado em quatro vezes sem juros e boleto à vista."
       ]
     },

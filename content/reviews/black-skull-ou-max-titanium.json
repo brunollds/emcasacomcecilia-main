@@ -426,7 +426,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Você escolhe pelos menores custos por proteína ou creatina da tabela: os produtos Black Skull lideravam nesse recorte, antes dos descontos."
+      "Você escolhe pelos menores custos por proteína ou creatina da tabela: os produtos Black Skull tinham os menores custos, antes dos descontos."
     ],
     "skipIf": [
       "Você quer mais proteína por dose e aceita pagar mais por ela: aí é a Max Titanium.",
