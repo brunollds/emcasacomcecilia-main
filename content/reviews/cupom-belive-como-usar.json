@@ -36,7 +36,7 @@
     "O teste de checkout foi com quatro itens em oferta: o valor exato é o do resumo do pedido"
   ],
   "cta": {
-    "text": "Entre na Belive pelo link da parceria e digite o MAUAD no campo \"Código do cupom\" do carrinho. Confira o desconto no resumo antes de pagar.",
+    "text": "Abra o site oficial da Belive e digite MAUAD em \"Código do cupom\", no carrinho. Clique em \"Aplicar cupom\" e confira os 10% no resumo antes de pagar.",
     "label": "Ir para a Belive com o cupom",
     "url": "https://belivebefree.com.br/",
     "sponsored": true
@@ -59,7 +59,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "O [cupom Belive](/cupons/belive) é o MAUAD e dá 10% de desconto em todo o site oficial, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções do site e com o Pix, mas não vale no Mercado Livre. O frete grátis conta o valor antes do cupom, como mostram os capítulos abaixo."
+        "No carrinho do site oficial, digite MAUAD em \"Código do cupom\" e clique em \"Aplicar cupom\". O [cupom Belive](/cupons/belive) dá 10% em todo o site, em qualquer forma de pagamento, na primeira compra e nas seguintes, e soma com as promoções e com o desconto do Pix. No Mercado Livre, o código não vale."
       ]
     },
     {
@@ -85,7 +85,7 @@
     {
       "heading": "3. Digite MAUAD em \"Código do cupom\" e clique em \"Aplicar cupom\"",
       "paragraphs": [
-        "No carrinho, o campo se chama \"Código do cupom\", com o botão \"Aplicar cupom\". Digite MAUAD. Copiar o código pelo botão desta página evita erro de digitação."
+        "No carrinho, procure o campo \"Código do cupom\", digite MAUAD e clique em \"Aplicar cupom\". Você também pode usar o botão de copiar desta página, se preferir."
       ],
       "image": "/images/reviews/belive/cupom-belive-campo-mauad.webp",
       "imageAlt": "Carrinho da Belive com o campo Código do cupom preenchido com MAUAD e o botão Aplicar cupom, ambos marcados em amarelo",
@@ -145,7 +145,7 @@
             "R$ 519,14"
           ],
           [
-            "Total com o cupom e o Pix (5% a mais)",
+            "Total com MAUAD e 5% de desconto no Pix sobre o valor restante",
             "R$ 493,18"
           ]
         ]
@@ -162,9 +162,9 @@
       }
     },
     {
-      "heading": "O 5% do Pix soma com o cupom",
+      "heading": "O Pix dá mais 5% sobre o total já com cupom",
       "paragraphs": [
-        "Os dois descontos somam: o Pix entrou sobre o valor que já tinha os 10% do cupom. O total final ficou R$ 83,64 abaixo do subtotal, como mostra a tabela acima (conta nossa)."
+        "No teste, o desconto de 5% do Pix entrou depois dos 10% do MAUAD, sobre o valor restante. Por isso a redução sobre o subtotal é de 14,5%, e não de 15%, como daria a soma simples. O total observado está na tabela acima."
       ]
     },
     {
@@ -208,7 +208,7 @@
           "Caso",
           "Subtotal",
           "Com MAUAD (10%)",
-          "Com MAUAD e Pix (+5%)",
+          "Com MAUAD e depois 5% no Pix",
           "Frete grátis?"
         ],
         "rows": [
@@ -256,7 +256,7 @@
     {
       "heading": "Vale a pena usar o cupom?",
       "paragraphs": [
-        "Se você já ia comprar na Belive, sim. São 10% em todo o site, em todas as formas de pagamento, e o Pix soma por cima. Antes de pagar, confira o desconto no resumo e o frete com o seu CEP. A nota da loja no Reclame Aqui está em [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao), e as condições do cupom ficam na [página do cupom da Belive](/cupons/belive)."
+        "Se você já ia comprar na Belive, vale aplicar o MAUAD: são 10% em todo o site, em qualquer forma de pagamento. No Pix, os 5% adicionais incidem sobre o valor já descontado. Confira o total e o frete pelo CEP antes de pagar. Para avaliar a loja, veja [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao); as condições do código estão na [página do cupom Belive](/cupons/belive)."
       ]
     },
     {
@@ -264,7 +264,7 @@
       "bullets": [
         "Qual é o cupom da Belive? É o MAUAD, digitado no campo \"Código do cupom\" do carrinho do site oficial. Ele dá 10% OFF em todo o site.",
         "O cupom Belive vale na primeira compra? Sim. Vale na primeira compra e também para quem já comprou.",
-        "O MAUAD soma com o Pix? Sim. O 5% do Pix entrou sobre o valor já com os 10%, como mostra a conta do teste.",
+        "O MAUAD soma com o Pix? Sim. No teste, primeiro entraram os 10% do MAUAD; depois, o desconto de 5% do Pix foi calculado sobre o valor restante. A redução combinada foi de 14,5% sobre o subtotal.",
         "O MAUAD soma com produto em promoção? Sim. No teste, entrou em quatro combos e kits que já estavam em oferta. O valor exato aparece no resumo do pedido.",
         "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio.",
         "A Belive tem frete grátis? Sim: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom."

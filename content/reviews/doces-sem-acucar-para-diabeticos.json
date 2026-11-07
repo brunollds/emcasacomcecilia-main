@@ -27,7 +27,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "\"Sem açúcar\" na embalagem quer dizer no máximo 0,5 g de açúcares por porção, não pouco carboidrato: os seis doces sem açúcar da Belive que lemos têm 0 g de açúcares e de 16 g a 24 g de carboidratos por porção. Por isso vale olhar seis pontos do rótulo, listados abaixo."
+        "“Sem açúcar” não significa sem carboidrato. Os seis doces da Belive consultados declaram 0 g de açúcares e 16 g a 24 g de carboidratos nas porções indicadas. Para ler a diferença, comece pela porção, confira as linhas de açúcares e carboidratos e só então veja ingredientes e avisos da embalagem."
       ]
     },
     {
@@ -43,9 +43,9 @@
         "aspectRatio": 0.9479
       },
       "bullets": [
-        "**Porção.** Todos os números da tabela valem para ela. Ela aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Dois doces só se comparam pela mesma porção ou pela coluna de 100 g.",
+        "**Porção.** Veja a qual coluna cada número pertence: porção ou 100 g. A medida aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Para comparar dois doces, use a mesma porção ou a coluna de 100 g.",
         "**Açúcares totais e açúcares adicionados.** Num doce sem açúcar, as duas linhas mostram 0 g. Os adicionados são os que entraram na receita, e os totais somam também os açúcares próprios dos ingredientes.",
-        "**Carboidratos.** É a linha que mostra quanto carboidrato a porção tem, com ou sem açúcar. Num doce sem açúcar, ela continua alta.",
+        "**Carboidratos.** Veja quantos gramas a porção contém. O número não se torna zero porque a embalagem diz “sem açúcar”; nos seis exemplos abaixo, ele vai de 16 g a 24 g por porção.",
         "**Fibras alimentares.** Vêm em gramas por porção, numa linha à parte.",
         "**Lista de ingredientes.** É onde aparecem os adoçantes, com o nome técnico, como maltitol, sorbitol, glicosídeos de esteviol e sucralose. A frente da embalagem às vezes cita só um deles.",
         "**A lupa na frente da embalagem.** Ela avisa quando o alimento é alto em açúcar adicionado, gordura saturada ou sódio. Um doce sem açúcar pode ter a lupa por outro motivo: nas fotos da loja, as embalagens do bolinho, do pão de mel e do bolo da Belive trazem \"alto em gordura saturada\". A do brownie de chocolate não traz lupa."
@@ -65,7 +65,7 @@
         "rows": [
           [
             "Zero açúcar, sem açúcar, não contém açúcares",
-            "No máximo 0,5 g de açúcares por porção e por 100 g, e nenhum açúcar declarado acima de zero na tabela",
+            "Máximo de 0,5 g de açúcares por porção de referência, por 100 g ou 100 ml e por embalagem individual, quando aplicável; nenhum açúcar declarado acima de zero na tabela",
             "Açúcares totais 0 g. Se o doce não for baixo em calorias, a frase \"Este não é um alimento baixo ou reduzido em valor energético\" junto da alegação"
           ],
           [
@@ -233,7 +233,7 @@
         ]
       },
       "postParagraphs": [
-        "A oferta relâmpago do bolinho tinha contagem regressiva na página e pode acabar a qualquer hora. Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+        "A oferta relâmpago do bolinho, de R$ 4,58, tinha contagem regressiva na página e não confirma um preço atual. Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
       ]
     },
     {
@@ -260,7 +260,7 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "Doce sem açúcar tem carboidrato? Tem. Os seis doces sem açúcar da Belive deste guia têm de 16 g a 24 g de carboidratos por porção, com 0 g de açúcares.",
-        "Zero açúcar e sem açúcar são a mesma coisa? Sim. A regra de rotulagem trata \"zero\", \"sem\" e \"não contém açúcares\" como a mesma alegação: no máximo 0,5 g de açúcares por porção e por 100 g.",
+        "Zero açúcar e sem açúcar são a mesma alegação? Sim. A regra de rotulagem inclui \"zero\", \"sem\" e \"não contém\" nesse grupo, com o mesmo limite: 0,5 g de açúcares por porção de referência, por 100 g ou 100 ml e por embalagem individual, quando aplicável.",
         "Sem adição de açúcar é o mesmo que zero açúcar? Não. \"Sem adição\" quer dizer que não entrou açúcar na receita, mas o doce pode ter os açúcares dos próprios ingredientes. Nesse caso, o rótulo traz a frase \"contém açúcares próprios dos ingredientes\".",
         "Diet quer dizer sem açúcar? Não necessariamente. Diet é o alimento feito para uma dieta com restrição de algum nutriente, que pode ser o açúcar, a gordura ou o sódio.",
         "Doce sem açúcar tem menos calorias? Nem sempre. Compare as calorias da tabela pela mesma porção. O brownie de chocolate da Belive tem 124 kcal em 40 g.",

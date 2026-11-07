@@ -84162,7 +84162,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Belive é vendida pela NHD Foods, tem site oficial com CNPJ ativo e tinha reputação Ótima no Reclame Aqui em 16/10/2026. Veja trocas, arrependimento e frete grátis por região.",
+    "description": "Na consulta de 16/10/2026, a Belive era operada pela NHD Foods, com CNPJ ativo e reputação Ótima no Reclame Aqui. Veja o que conferimos sobre CNPJ, devolução e frete.",
     "metaDescription": "Quem vende a Belive, o CNPJ, as trocas e o frete, com o cupom MAUAD de 10% OFF no site oficial.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
@@ -84174,9 +84174,9 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "CNPJ ativo nos dados públicos em 16/10/2026, o mesmo do rodapé do site, com matriz e filial em Uberaba (MG)",
+      "CNPJ ativo nos dados públicos, o mesmo do rodapé do site, com matriz e filial em Uberaba (MG)",
       "7 dias corridos para desistir da compra, com o frete de devolução por conta da Belive",
-      "Reputação Ótima no Reclame Aqui, com nota 8,1, em consulta de 16/10/2026",
+      "Reputação Ótima no Reclame Aqui, com nota 8,1, em consulta de outubro",
       "Frete grátis a partir de R$ 170 em SP, MG, RJ, DF e GO, contado sem o cupom",
       "Pix com 5% de desconto, que soma com o cupom MAUAD"
     ],
@@ -84211,16 +84211,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Belive é vendida por uma empresa registrada e ativa, e o site oficial publica razão social, CNPJ, trocas e frete. Em 16/10/2026, a reputação no Reclame Aqui era Ótima. O que muda a conta é o frete grátis fora de SP, MG, RJ, DF, GO e do Sul; para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+          "Na consulta de 16/10/2026, a loja Belive estava identificada como NHD Foods, com CNPJ ativo, e tinha reputação Ótima no Reclame Aqui. Isso ajuda a avaliar a operação, sem garantir uma compra. Antes de pagar, confira as faixas de frete da sua região e as condições de devolução; o [cupom Belive](/cupons/belive) reúne o desconto da parceria."
         ]
       },
       {
         "heading": "De quem é a Belive?",
         "paragraphs": [
-          "Sim: empresa registrada e ativa, com o CNPJ ativo nos dados públicos.",
-          "O rodapé do site e o cadastro público de CNPJ apontam a NHD Foods Indústria, Comércio, Importação e Exportação Ltda. como operadora da loja.",
-          "O rodapé traz o CNPJ da filial, 21.541.988/0002-57, ativa desde 2015. A matriz é o CNPJ 21.541.988/0001-76, ativa desde 2014, o mesmo citado na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro público.",
-          "A marca existe **desde 2015**, diz o site."
+          "Na consulta de outubro, a empresa aparecia como registrada e ativa, com CNPJ ativo nos dados públicos. A loja Belive é operada pela NHD Foods Indústria, Comércio, Importação e Exportação Ltda., segundo o rodapé e o cadastro público.",
+          "O rodapé informava o CNPJ 21.541.988/0002-57, da filial ativa desde 2015. A matriz, 21.541.988/0001-76, ativa desde 2014, aparecia na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro.",
+          "A marca afirma no site que existe desde 2015."
         ]
       },
       {
@@ -84259,7 +84258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas, devoluções e defeito",
         "paragraphs": [
-          "As regras de troca e devolução, para decidir antes de pagar:"
+          "As regras de troca e devolução que a FAQ descreve, para decidir antes de pagar:"
         ],
         "comparisonTable": {
           "caption": "Regras de arrependimento e de defeito da Belive, segundo a FAQ do site",
@@ -84273,7 +84272,7 @@ export const reviewsData: unknown[] = [
             [
               "Arrependimento",
               "7 dias corridos a partir do recebimento",
-              "Pedido formal ao SAC dentro do prazo, com nota fiscal. A FAQ da loja pede o produto na embalagem original, sem uso nem violação",
+              "Pedido formal ao SAC dentro do prazo, com nota fiscal. Exigência da FAQ da loja: produto na embalagem original, sem uso nem violação",
               "Frete de volta por conta da Belive. O valor volta depois da análise interna"
             ],
             [
@@ -84285,7 +84284,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O site não publica prazo para o reembolso e não diz em quantos dias comunicar um defeito. Por isso, abra o pedido logo que perceber o problema e guarde a nota. Se a caixa chegar violada, o site orienta recusar a entrega no ato. A embalagem original é exigência da FAQ da loja: se o produto já foi aberto, escreva ao SAC e guarde a resposta por escrito."
+          "O site não publica prazo para o reembolso nem para comunicar defeito. Por isso, abra o pedido no SAC logo que perceber o problema e guarde a nota. Se a caixa chegar violada, o site orienta recusar a entrega no ato. A embalagem original é exigência da FAQ da loja: se o produto já foi aberto, escreva ao SAC e guarde a resposta por escrito. Se houver recusa do pedido por causa da embalagem, procure orientação do órgão de defesa do consumidor."
         ]
       },
       {
@@ -84322,7 +84321,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "No Reclame Aqui, o perfil \"Belive Be Free\" tinha selo **Ótima** nos últimos seis meses e nota **8,1**, na consulta de 16/10/2026. Os números completos estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, o perfil “Belive Be Free” tinha selo **Ótima** e nota **8,1** nos últimos seis meses, na consulta de outubro. Os números detalhados de reclamações respondidas e índice de solução estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -84343,18 +84342,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Belive?",
         "paragraphs": [
-          "Do ponto de vista de confiança, sim. A empresa está ativa, o site publica razão social, CNPJ, trocas e frete, e a reputação no Reclame Aqui é Ótima.",
+          "Do ponto de vista de confiança, sim. A consulta identificou a empresa responsável, CNPJ ativo e regras públicas de compra; a reputação era Ótima no recorte de abril a setembro. Use esses dados junto com o preço, o frete e as condições de atendimento; eles não garantem a entrega nem a sua satisfação.",
           "Três pontos mudam a conta. Se você mora fora de SP, MG, RJ, DF, GO e do Sul, o pedido precisa passar de R$ 300 para ter frete grátis. O site não publica prazo para defeito, então guarde nota e fotos desde a entrega. E o reembolso não tem prazo publicado."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável? Sim, do ponto de vista cadastral: a loja tem CNPJ ativo, razão social no rodapé, trocas publicadas e reputação Ótima no Reclame Aqui em outubro.",
+          "A Belive é confiável? Do ponto de vista cadastral, sim: a consulta de outubro identificou a NHD Foods, CNPJ ativo, políticas públicas e reputação Ótima no recorte de abril a setembro. Isso avalia a loja, mas não garante o resultado de toda compra.",
           "A Belive é uma empresa de verdade? Sim. A NHD Foods Indústria, Comércio, Importação e Exportação Ltda. tem matriz e filial ativas nos dados públicos de CNPJ.",
           "Qual é o CNPJ da Belive? O do rodapé do site é 21.541.988/0002-57, da filial. A matriz é 21.541.988/0001-76.",
           "O site da Belive é seguro? O endereço oficial é belivebefree.com.br e usa conexão segura. Ainda assim, confira o domínio antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
-          "Quanto tempo tenho para devolver um produto da Belive? São 7 dias corridos a partir do recebimento, com nota fiscal. A FAQ da loja pede o produto na embalagem original e sem uso. Para defeito, o site não publica prazo.",
+          "Quanto tempo tenho para pedir devolução na Belive? São 7 dias corridos a partir do recebimento, com nota fiscal. A FAQ pede embalagem original e sem uso. Para defeito, o site não publica prazo; guarde fotos e nota e fale com o SAC logo.",
           "A Belive tem frete grátis? Tem: a partir de R$ 170 em SP, MG, RJ, DF e GO, R$ 250 no Sul e R$ 300 nos demais estados, sem contar o cupom.",
           "Tem cupom de primeira compra na Belive? Tem o MAUAD: 10% OFF no carrinho, em todas as formas de pagamento, válido na primeira compra. Não vale no Mercado Livre."
         ]
@@ -84377,7 +84376,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui: nota 8,1 nos 6 meses e 80% das reclamações resolvidas. Veja o que gera queixa e o que fazer se der problema.",
+    "description": "Em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui: nota 8,1 em 6 meses e 80% de resolução entre as avaliadas. Veja o que gera queixa e o que fazer.",
     "metaDescription": "O cupom MAUAD dá 10% OFF no site da Belive. No Reclame Aqui, a reputação era Ótima em outubro de 2026, com nota 8,1 em 6 meses.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
@@ -84389,9 +84388,9 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1",
+      "Reputação Ótima, nota 8,1, na janela de abril a setembro de 2026",
       "100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025",
-      "80% das reclamações resolvidas nos últimos 6 e 12 meses",
+      "80% de resolução entre as reclamações avaliadas nas abas de 6 e 12 meses",
       "Tempo médio de resposta de 1 dia e 2 horas nos últimos 6 meses"
     ],
     "cons": [
@@ -84424,7 +84423,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta de 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondia a todas as reclamações, mas resolvia entre 75% e 80%: responder não é resolver. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+          "Na consulta de 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondeu a todas as reclamações, mas resolveu entre 75% e 80% das avaliadas. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
         ]
       },
       {
@@ -84472,7 +84471,7 @@ export const reviewsData: unknown[] = [
               "0"
             ],
             [
-              "Resolvidas",
+              "Resolvidas entre as avaliadas",
               "80%",
               "80%",
               "75%"
@@ -84505,7 +84504,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os 6 meses são a janela mais forte. Nos 12 meses, a nota cai para 7,8 e o \"voltariam\" para 70%. Em 2025, ficaram em 7,5 e 68,8%.",
-          "Esses números têm um limite. Só 15 das 39 reclamações dos últimos 6 meses foram avaliadas, e a nota do consumidor e o \"voltariam\" falam só dessa parte. Eles mostram como a Belive foi avaliada por quem usou o Reclame Aqui, não a experiência de todos os compradores."
+          "Na aba de 6 meses, 15 das 39 reclamações recebidas tinham avaliação. É entre essas avaliadas que se calculam a resolução, a nota do consumidor e a intenção de voltar a comprar. Esses índices descrevem quem reclamou e avaliou no Reclame Aqui; não representam todos os clientes da Belive."
         ],
         "image": "/images/reviews/belive/belive-reclame-aqui-6-e-12-meses.webp",
         "imageAlt": "Abas de 6 e 12 meses do perfil Belive Be Free no Reclame Aqui: 6 meses com reputação Ótima e nota 8,1, 12 meses com reputação Boa e nota 7,8, com os números marcados em amarelo",
@@ -84551,11 +84550,11 @@ export const reviewsData: unknown[] = [
           "Se o pedido der problema, estes são os caminhos:"
         ],
         "bullets": [
-          "**Caixa violada, aberta, rasgada ou muito amassada:** recuse o recebimento na entrega. Com a caixa recusada, a troca sai mais rápido.",
-          "**Produto com defeito:** fotografe os produtos, o lote e a validade, e escreva para sac@nhdfoods.com.br. A troca não sai se houver indício de má manipulação ou mau uso, ou se a ocorrência não puder ser identificada.",
+          "**Caixa violada, aberta, rasgada ou muito amassada:** a Belive orienta recusar o recebimento para facilitar a troca. Se você já recebeu a caixa, fotografe o estado dela e registre o problema no atendimento.",
+          "**Produto com defeito:** fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br. A FAQ informa que a loja analisa a ocorrência e pode negar a troca se identificar mau uso ou não conseguir verificar o problema; guarde o protocolo e as fotos.",
           "**Item faltando ou trocado, rastreio ou endereço, erro ao finalizar ou cancelamento:** use o formulário e escolha o assunto entre Pedidos do site, Produtos e qualidade ou Outros. O formulário pede nome, e-mail, CPF cadastrado e número do pedido. Em caso de qualidade, pede também nome e sabor, lote e validade, e fotos de todos os itens recebidos com as caixas abertas.",
           "**Se o formulário não servir:** escreva para sac@nhdfoods.com.br ou ligue para (34) 3317-6487.",
-          "**Arrependimento:** são 7 dias corridos a partir do recebimento. A FAQ da loja pede o produto na embalagem original, sem sinal de uso ou violação, com nota fiscal; se ele já foi aberto, escreva ao SAC e guarde a resposta por escrito. Faça o pedido formal a sac@nhdfoods.com.br dentro do prazo. O frete da devolução fica por conta da Belive, e o valor é devolvido depois da análise interna. A loja não publica prazo para o reembolso."
+          "**Arrependimento:** são 7 dias corridos a partir do recebimento, com nota fiscal, por pedido formal ao SAC. A FAQ pede o produto na embalagem original, sem sinal de uso ou violação; se ele já foi aberto, escreva ao SAC e guarde a resposta por escrito. O frete da devolução fica por conta da Belive, e o valor volta depois da análise interna. Se houver recusa por causa da embalagem, procure orientação do órgão de defesa do consumidor. A loja não publica prazo para o reembolso."
         ]
       },
       {
@@ -84565,26 +84564,23 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Dá para confiar na Belive?",
+        "heading": "Como usar esses números antes de comprar",
         "paragraphs": [
-          "Sim, com a leitura certa. A reputação era Ótima nos últimos 6 meses e a loja responde a tudo. O limite é a amostra pequena e a resolução, que fica em 80%."
+          "O melhor resultado da consulta está na aba de 6 meses, com nota 8,1. Para decidir, olhe também a resolução e o tamanho da amostra: uma nota Ótima não garante o resultado do seu pedido."
         ],
         "bullets": [
-          "Nota: 8,1 nos 6 meses (Ótima) e 7,8 nos 12 meses (Boa).",
-          "Respondidas: 100%. Resolvidas: 80% nos 6 e nos 12 meses.",
-          "Voltariam a fazer negócio: 80% nos 6 meses e 70% nos 12 meses.",
-          "Tempo médio de resposta: 1 dia e 2 horas nos 6 meses.",
-          "Amostra: 39 reclamações nos 6 meses, 15 avaliadas.",
-          "Problema mais citado: atraso na entrega, com 4,29%.",
-          "Cuidado prático: peça pelo formulário de atendimento, guarde o protocolo e acompanhe a entrega."
+          "Compare os períodos: nos 12 meses, a nota era 7,8 e 70% de quem avaliou disse que voltaria a comprar.",
+          "Abra o perfil antes de pagar para conferir se os índices mudaram desde esta consulta.",
+          "Se já houve problema com o pedido, use os canais acima e guarde o protocolo.",
+          "Para saber quem vende e conhecer as regras da loja, continue em [Belive é confiável?](/reviews/belive-e-confiavel)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável segundo o Reclame Aqui? Em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.",
+          "A Belive é confiável segundo o Reclame Aqui? Em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. Nos 6 meses, só 15 das 39 reclamações recebidas tinham avaliação.",
           "Qual a nota da Belive no Reclame Aqui? Em outubro, a nota era 8,1 nos últimos 6 meses, 7,8 nos últimos 12 meses e 7,5 em 2025.",
-          "A Belive responde às reclamações? Sim, segundo o perfil: 100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025. Responder não é o mesmo que resolver, e as resolvidas ficaram entre 75% e 80%.",
+          "A Belive responde às reclamações? Na consulta de outubro, as três abas mostravam 100% respondidas. A resolução, calculada entre as avaliadas, ficou em 80% nas abas de 6 e 12 meses e 75% em 2025.",
           "O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.",
           "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a nota fiscal, por pedido formal ao SAC; a loja pede o produto na embalagem original. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
           "O pedido da Belive pode ser cancelado? Pode, quando o pagamento não é autorizado ou não é identificado no prazo, nos casos de boleto ou Pix. Nesse caso, peça a revisão ao SAC."
@@ -84630,7 +84626,7 @@ export const reviewsData: unknown[] = [
       "O teste de checkout foi com quatro itens em oferta: o valor exato é o do resumo do pedido"
     ],
     "cta": {
-      "text": "Entre na Belive pelo link da parceria e digite o MAUAD no campo \"Código do cupom\" do carrinho. Confira o desconto no resumo antes de pagar.",
+      "text": "Abra o site oficial da Belive e digite MAUAD em \"Código do cupom\", no carrinho. Clique em \"Aplicar cupom\" e confira os 10% no resumo antes de pagar.",
       "label": "Ir para a Belive com o cupom",
       "url": "https://belivebefree.com.br/",
       "sponsored": true
@@ -84653,7 +84649,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Belive](/cupons/belive) é o MAUAD e dá 10% de desconto em todo o site oficial, em todas as formas de pagamento, na primeira compra e nas seguintes. Ele soma com as promoções do site e com o Pix, mas não vale no Mercado Livre. O frete grátis conta o valor antes do cupom, como mostram os capítulos abaixo."
+          "No carrinho do site oficial, digite MAUAD em \"Código do cupom\" e clique em \"Aplicar cupom\". O [cupom Belive](/cupons/belive) dá 10% em todo o site, em qualquer forma de pagamento, na primeira compra e nas seguintes, e soma com as promoções e com o desconto do Pix. No Mercado Livre, o código não vale."
         ]
       },
       {
@@ -84679,7 +84675,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "3. Digite MAUAD em \"Código do cupom\" e clique em \"Aplicar cupom\"",
         "paragraphs": [
-          "No carrinho, o campo se chama \"Código do cupom\", com o botão \"Aplicar cupom\". Digite MAUAD. Copiar o código pelo botão desta página evita erro de digitação."
+          "No carrinho, procure o campo \"Código do cupom\", digite MAUAD e clique em \"Aplicar cupom\". Você também pode usar o botão de copiar desta página, se preferir."
         ],
         "image": "/images/reviews/belive/cupom-belive-campo-mauad.webp",
         "imageAlt": "Carrinho da Belive com o campo Código do cupom preenchido com MAUAD e o botão Aplicar cupom, ambos marcados em amarelo",
@@ -84739,7 +84735,7 @@ export const reviewsData: unknown[] = [
               "R$ 519,14"
             ],
             [
-              "Total com o cupom e o Pix (5% a mais)",
+              "Total com MAUAD e 5% de desconto no Pix sobre o valor restante",
               "R$ 493,18"
             ]
           ]
@@ -84756,9 +84752,9 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "O 5% do Pix soma com o cupom",
+        "heading": "O Pix dá mais 5% sobre o total já com cupom",
         "paragraphs": [
-          "Os dois descontos somam: o Pix entrou sobre o valor que já tinha os 10% do cupom. O total final ficou R$ 83,64 abaixo do subtotal, como mostra a tabela acima (conta nossa)."
+          "No teste, o desconto de 5% do Pix entrou depois dos 10% do MAUAD, sobre o valor restante. Por isso a redução sobre o subtotal é de 14,5%, e não de 15%, como daria a soma simples. O total observado está na tabela acima."
         ]
       },
       {
@@ -84802,7 +84798,7 @@ export const reviewsData: unknown[] = [
             "Caso",
             "Subtotal",
             "Com MAUAD (10%)",
-            "Com MAUAD e Pix (+5%)",
+            "Com MAUAD e depois 5% no Pix",
             "Frete grátis?"
           ],
           "rows": [
@@ -84850,7 +84846,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena usar o cupom?",
         "paragraphs": [
-          "Se você já ia comprar na Belive, sim. São 10% em todo o site, em todas as formas de pagamento, e o Pix soma por cima. Antes de pagar, confira o desconto no resumo e o frete com o seu CEP. A nota da loja no Reclame Aqui está em [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao), e as condições do cupom ficam na [página do cupom da Belive](/cupons/belive)."
+          "Se você já ia comprar na Belive, vale aplicar o MAUAD: são 10% em todo o site, em qualquer forma de pagamento. No Pix, os 5% adicionais incidem sobre o valor já descontado. Confira o total e o frete pelo CEP antes de pagar. Para avaliar a loja, veja [Belive no Reclame Aqui: nota e reputação](/reviews/belive-reclame-aqui-nota-reputacao); as condições do código estão na [página do cupom Belive](/cupons/belive)."
         ]
       },
       {
@@ -84858,7 +84854,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Belive? É o MAUAD, digitado no campo \"Código do cupom\" do carrinho do site oficial. Ele dá 10% OFF em todo o site.",
           "O cupom Belive vale na primeira compra? Sim. Vale na primeira compra e também para quem já comprou.",
-          "O MAUAD soma com o Pix? Sim. O 5% do Pix entrou sobre o valor já com os 10%, como mostra a conta do teste.",
+          "O MAUAD soma com o Pix? Sim. No teste, primeiro entraram os 10% do MAUAD; depois, o desconto de 5% do Pix foi calculado sobre o valor restante. A redução combinada foi de 14,5% sobre o subtotal.",
           "O MAUAD soma com produto em promoção? Sim. No teste, entrou em quatro combos e kits que já estavam em oferta. O valor exato aparece no resumo do pedido.",
           "O cupom vale no Mercado Livre? Não. Lá vale o preço do anúncio.",
           "A Belive tem frete grátis? Sim: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; e acima de R$ 300 nos demais estados. O limite conta o valor antes do cupom."
@@ -84952,7 +84948,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preços de referência",
         "paragraphs": [
-          "Use estes preços de página, lidos em outubro, como régua: o maior desconto nas oito páginas foi de 20%. Quando a página mostra um preço riscado, ele aparece entre parênteses. A coluna Pix é 5% sobre o preço da página. A coluna MAUAD é 10% sobre o preço da página. A última soma os dois, como no teste de checkout."
+          "A tabela registra preços de página lidos em outubro, com o preço riscado entre parênteses quando havia. A coluna Pix aplica 5%; a coluna MAUAD aplica 10%; a última aplica primeiro o cupom e depois o Pix, como no teste de checkout."
         ],
         "image": {
           "src": "/images/reviews/belive/doces-sem-acucar-para-diabeticos-capa.webp",
@@ -84968,7 +84964,7 @@ export const reviewsData: unknown[] = [
             "Preço de página",
             "No Pix",
             "Com MAUAD",
-            "MAUAD + Pix"
+            "MAUAD e Pix sucessivos"
           ],
           "rows": [
             [
@@ -85030,7 +85026,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Uma oferta da Black November só vale a pena se o preço do dia ficar abaixo desta tabela. Os preços da página mudam sem aviso.",
+          "Use a tabela de outubro como referência para o mesmo produto e a mesma quantidade. Compare o total depois de cupom, forma de pagamento e frete. Um percentual maior sobre o preço riscado não garante uma compra mais barata.",
           "Os nomes dos produtos declaram sem glúten, sem leite, sem lactose e sem açúcar, na página de cada um. Quem tem intolerância, doença celíaca ou segue dieta deve falar com um nutricionista ou médico antes de comprar."
         ]
       },
@@ -85108,7 +85104,7 @@ export const reviewsData: unknown[] = [
           "Escolha o Pix por último, para ver o total final."
         ],
         "postParagraphs": [
-          "Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). A loja pede o produto na embalagem original, sem uso e sem violação, com a nota fiscal; o direito de arrependimento em 7 dias vale de qualquer jeito. O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo. O valor é devolvido depois da análise interna, e nesse caso o frete é por conta da Belive.",
+          "Você tem 7 dias corridos, a partir do recebimento, para desistir da compra (direito previsto no Código de Defesa do Consumidor). A loja pede o produto na embalagem original, sem uso e sem violação, com a nota fiscal; essa exigência é da política da loja. O pedido vai por escrito para sac@nhdfoods.com.br dentro desse prazo. O valor é devolvido depois da análise interna, e nesse caso o frete é por conta da Belive.",
           "Em caso de defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. Não há troca quando há indício de má manipulação ou mau uso, ou quando não dá para identificar a ocorrência. A loja não publica prazo de reembolso.",
           "Vendedora: NHD Foods Indústria, Comércio, Importação e Exportação Ltda. Contato: sac@nhdfoods.com.br e (34) 3317-6487. CNPJ, trocas e reputação estão em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
         ]
@@ -88790,7 +88786,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "\"Sem açúcar\" na embalagem quer dizer no máximo 0,5 g de açúcares por porção, não pouco carboidrato: os seis doces sem açúcar da Belive que lemos têm 0 g de açúcares e de 16 g a 24 g de carboidratos por porção. Por isso vale olhar seis pontos do rótulo, listados abaixo."
+          "“Sem açúcar” não significa sem carboidrato. Os seis doces da Belive consultados declaram 0 g de açúcares e 16 g a 24 g de carboidratos nas porções indicadas. Para ler a diferença, comece pela porção, confira as linhas de açúcares e carboidratos e só então veja ingredientes e avisos da embalagem."
         ]
       },
       {
@@ -88806,9 +88802,9 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 0.9479
         },
         "bullets": [
-          "**Porção.** Todos os números da tabela valem para ela. Ela aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Dois doces só se comparam pela mesma porção ou pela coluna de 100 g.",
+          "**Porção.** Veja a qual coluna cada número pertence: porção ou 100 g. A medida aparece em gramas e em unidades, como \"40 g (1 unidade)\" ou \"30 g (1 + 4/5 unidades)\". Para comparar dois doces, use a mesma porção ou a coluna de 100 g.",
           "**Açúcares totais e açúcares adicionados.** Num doce sem açúcar, as duas linhas mostram 0 g. Os adicionados são os que entraram na receita, e os totais somam também os açúcares próprios dos ingredientes.",
-          "**Carboidratos.** É a linha que mostra quanto carboidrato a porção tem, com ou sem açúcar. Num doce sem açúcar, ela continua alta.",
+          "**Carboidratos.** Veja quantos gramas a porção contém. O número não se torna zero porque a embalagem diz “sem açúcar”; nos seis exemplos abaixo, ele vai de 16 g a 24 g por porção.",
           "**Fibras alimentares.** Vêm em gramas por porção, numa linha à parte.",
           "**Lista de ingredientes.** É onde aparecem os adoçantes, com o nome técnico, como maltitol, sorbitol, glicosídeos de esteviol e sucralose. A frente da embalagem às vezes cita só um deles.",
           "**A lupa na frente da embalagem.** Ela avisa quando o alimento é alto em açúcar adicionado, gordura saturada ou sódio. Um doce sem açúcar pode ter a lupa por outro motivo: nas fotos da loja, as embalagens do bolinho, do pão de mel e do bolo da Belive trazem \"alto em gordura saturada\". A do brownie de chocolate não traz lupa."
@@ -88828,7 +88824,7 @@ export const reviewsData: unknown[] = [
           "rows": [
             [
               "Zero açúcar, sem açúcar, não contém açúcares",
-              "No máximo 0,5 g de açúcares por porção e por 100 g, e nenhum açúcar declarado acima de zero na tabela",
+              "Máximo de 0,5 g de açúcares por porção de referência, por 100 g ou 100 ml e por embalagem individual, quando aplicável; nenhum açúcar declarado acima de zero na tabela",
               "Açúcares totais 0 g. Se o doce não for baixo em calorias, a frase \"Este não é um alimento baixo ou reduzido em valor energético\" junto da alegação"
             ],
             [
@@ -88996,7 +88992,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A oferta relâmpago do bolinho tinha contagem regressiva na página e pode acabar a qualquer hora. Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
+          "A oferta relâmpago do bolinho, de R$ 4,58, tinha contagem regressiva na página e não confirma um preço atual. Os detalhes de cada linha estão nos guias do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive), do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive) e do [bolinho sem açúcar, Belive ou Suavipan](/reviews/bolinho-sem-acucar-belive-ou-suavipan)."
         ]
       },
       {
@@ -89023,7 +89019,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Doce sem açúcar tem carboidrato? Tem. Os seis doces sem açúcar da Belive deste guia têm de 16 g a 24 g de carboidratos por porção, com 0 g de açúcares.",
-          "Zero açúcar e sem açúcar são a mesma coisa? Sim. A regra de rotulagem trata \"zero\", \"sem\" e \"não contém açúcares\" como a mesma alegação: no máximo 0,5 g de açúcares por porção e por 100 g.",
+          "Zero açúcar e sem açúcar são a mesma alegação? Sim. A regra de rotulagem inclui \"zero\", \"sem\" e \"não contém\" nesse grupo, com o mesmo limite: 0,5 g de açúcares por porção de referência, por 100 g ou 100 ml e por embalagem individual, quando aplicável.",
           "Sem adição de açúcar é o mesmo que zero açúcar? Não. \"Sem adição\" quer dizer que não entrou açúcar na receita, mas o doce pode ter os açúcares dos próprios ingredientes. Nesse caso, o rótulo traz a frase \"contém açúcares próprios dos ingredientes\".",
           "Diet quer dizer sem açúcar? Não necessariamente. Diet é o alimento feito para uma dieta com restrição de algum nutriente, que pode ser o açúcar, a gordura ou o sódio.",
           "Doce sem açúcar tem menos calorias? Nem sempre. Compare as calorias da tabela pela mesma porção. O brownie de chocolate da Belive tem 124 kcal em 40 g.",
@@ -89084,7 +89080,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Belive vende oito brownies sem açúcar, quatro comuns e quatro proteicos, todos de 40 g e adoçados com maltitol e esteviol, sem açúcar adicionado no rótulo. Um brownie de nome parecido, o Proteico Double Chocolate Sem Glúten Sem Lactose, não é sem açúcar. Preço por unidade e no kit de 10 estão nos capítulos abaixo."
+          "Sim: a Belive vende oito brownies com 0 g de açúcares adicionados no rótulo, quatro comuns e quatro proteicos, todos de 40 g. Sete declaram 0 g de açúcares totais; o Caramelo Salgado, 0,1 g. Não confunda com o Double Chocolate Sem Glúten Sem Lactose, que contém açúcar."
         ]
       },
       {
@@ -89339,11 +89335,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quais brownies da Belive são sem açúcar? Oito: Chocolate, Fit Chocolate com Coco, Chocolate com Nozes, Doce de Leite e os proteicos Double Chocolate, Chocolate com Avelã, Cappuccino e Caramelo Salgado.",
+          "Quais brownies da Belive são sem açúcar? Oito: Chocolate, Fit Chocolate com Coco, Chocolate com Nozes, Doce de Leite e os proteicos Double Chocolate, Chocolate com Avelã, Cappuccino e Caramelo Salgado. Nos totais, sete declaram 0 g de açúcares; o Caramelo Salgado declara 0,1 g.",
           "Quantas calorias tem o brownie sem açúcar da Belive? De 121 kcal a 144 kcal por unidade de 40 g, conforme o sabor. O de chocolate tem 124 kcal.",
-          "Quanto custa o brownie sem açúcar da Belive? De R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix.",
+          "Quanto custa o brownie sem açúcar da Belive? Na tabela deste guia, de R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix. Os preços mudam; confira no site.",
           "Quanta proteína tem o brownie proteico da Belive? De 5 g a 6 g por unidade de 40 g. Os comuns têm de 1,6 g a 2 g.",
-          "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo mostra 0 g de açúcares adicionados nos oito (e 0 g de açúcares totais em sete; o Caramelo Salgado mostra 0,1 g) e de 13 g a 22 g de carboidratos por unidade. A quantidade, quem tem diabetes combina com o médico ou o nutricionista.",
+          "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo não define a quantidade para cada pessoa. Os oito declaram 0 g de açúcares adicionados e de 13 g a 22 g de carboidratos por unidade; nos totais, o Caramelo Salgado declara 0,1 g e os outros sete, 0 g. Leve o rótulo ao médico ou ao nutricionista que acompanha você.",
           "Qual adoçante o brownie da Belive usa? Maltitol e glicosídeos de esteviol, nos oito sabores sem açúcar. Os proteicos também levam sorbitol."
         ]
       }
@@ -89412,7 +89408,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata em 17/10/2026."
+          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata."
         ]
       },
       {
@@ -89601,7 +89597,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade",
         "paragraphs": [
-          "Na unidade, a Suavipan saiu mais barata na farmácia; no kit, a Belive levou. Preços de 17/10/2026. Conta nossa: o preço por unidade dos kits."
+          "Em 17/10/2026, a unidade Suavipan na Drogasil custava menos que a Belive no site oficial. Entre os kits, a Belive tinha o menor preço por unidade. A conta dos kits é nossa."
         ],
         "comparisonTable": {
           "headers": [
@@ -89619,7 +89615,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Belive, site oficial",
-              "Unidade, com MAUAD e Pix",
+              "Unidade — simulação com MAUAD e Pix",
               "R$ 3,92",
               "R$ 3,92"
             ],
@@ -89631,7 +89627,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Belive, site oficial",
-              "Kit de 10, com MAUAD e Pix",
+              "Kit de 10 — simulação com MAUAD e Pix",
               "R$ 42,86",
               "R$ 4,29"
             ],
@@ -89650,7 +89646,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399.",
+          "A oferta relâmpago da Belive tinha contagem regressiva na página e pode acabar a qualquer hora. Sem ela, a unidade volta a R$ 5,39. Na Drogasil, a disponibilidade e o preço dependem do CEP. A Suavipan dá 5% no Pix no site oficial e frete grátis a partir de R$ 399. A simulação de R$ 3,92 usa o cupom e o Pix sobre os R$ 4,58; compare o total com frete no carrinho.",
           "Na Belive, o cupom **MAUAD** dá 10% OFF em todo o site, em todas as formas de pagamento, e soma com as ofertas e com os 5% do Pix. As condições estão na [página do cupom da Belive](/cupons/belive). O frete é grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. A Suavipan não tem cupom nosso."
         ]
       },
@@ -89693,7 +89689,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a Belive se você quer conferir açúcares, calorias e carboidratos antes de comprar: a tabela dela traz 0 g de açúcares totais e adicionados.",
-        "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na Drogasil, ela saiu mais barata."
+        "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na Drogasil ela saiu mais barata, e o preço depende do CEP."
       ],
       "skipIf": [
         "Passe na Suavipan se você evita glúten ou leite: ela leva farinha de trigo e leite em pó.",
@@ -89844,7 +89840,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O proteico tem 4 g a mais de proteína e 7 g a menos de carboidratos por unidade. As calorias quase não mudam, porque a gordura sobe um pouco."
+          "O proteico tem 4 g a mais de proteína e 7 g a menos de carboidratos por unidade. As calorias ficam próximas: 162 kcal no proteico e 163 kcal no comum; as gorduras totais são 10 g e 9,2 g."
         ]
       },
       {
@@ -89941,10 +89937,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: comum ou proteico",
-        "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é o proteico, porque entrega 6 g contra 2 g com as mesmas calorias.",
+        "emphasis": "Pelos rótulos, o proteico entrega 4 g a mais de proteína por unidade, com calorias quase iguais às do comum.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "O proteico tem 16 g de carboidratos por unidade, contra 23 g do comum. Nas calorias a diferença some, com 162 kcal no proteico e 163 kcal no comum. O comum serve a quem não precisa dessa proteína e paga um pouco menos pelo kit.",
+          "O proteico tem 16 g de carboidratos por unidade, contra 23 g do comum, e 6 g de proteína, contra 2 g. Se esses 4 g adicionais de proteína não forem seu critério de escolha, o comum custava menos no kit de 10.",
           "O kit de 10 custava R$ 78,96 no proteico e R$ 74,12 no comum, ou R$ 7,90 e R$ 7,41 por unidade. Nos dois, o rótulo mostra 0 g de açúcares, mas não diz se o doce cabe na sua dieta: essa conta é com o nutricionista ou o médico."
         ]
       },
@@ -89954,7 +89950,7 @@ export const reviewsData: unknown[] = [
           "Quantas calorias tem o pão de mel sem açúcar da Belive? O comum tem 163 kcal e o proteico, 162 kcal, por unidade de 45 g.",
           "Qual a diferença entre o pão de mel comum e o proteico da Belive? O proteico tem 6 g de proteína e 16 g de carboidratos por unidade. O comum tem 2 g de proteína e 23 g de carboidratos.",
           "O pão de mel da Belive tem açúcar? O rótulo mostra 0 g de açúcares totais e adicionados nas duas versões. Os adoçantes são maltitol e glicosídeos de esteviol.",
-          "Quanto custa o kit de pão de mel da Belive? R$ 74,12 o comum e R$ 78,96 o proteico, com 10 unidades. Com o MAUAD e o Pix, R$ 6,34 e R$ 6,75 por unidade.",
+          "Quanto custa o kit de pão de mel da Belive? O kit de 10 sai por R$ 74,12 no comum e R$ 78,96 no proteico, sem o cupom. Nossa conta com MAUAD e Pix dá R$ 6,34 e R$ 6,75 por unidade; confira os preços no pedido.",
           "O pão de mel da Belive tem glúten ou leite? A lista diz que não contém glúten, e a loja declara as duas versões sem leite e sem lactose. As duas contêm derivados de soja e ovo."
         ]
       }
@@ -131597,7 +131593,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Abra a página do cupom Belive, coloque MAUAD no campo do carrinho e confira o total antes de pagar: 10% no site, em todas as formas de pagamento.",
+      "text": "Entre no site oficial da Belive pelo botão, digite MAUAD no campo “Código do cupom” do carrinho e confira o desconto antes de pagar: 10% no site, em todas as formas de pagamento.",
       "label": "Ir para a Belive com o cupom",
       "url": "https://belivebefree.com.br/",
       "sponsored": true
@@ -131820,7 +131816,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar com o cupom",
         "paragraphs": [
-          "A compra é no site oficial da Belive. Na [página do cupom Belive](/cupons/belive), coloque MAUAD no campo \"Código do cupom\" do carrinho e clique em \"Aplicar cupom\".",
+          "A compra é no site oficial da Belive. Digite MAUAD no campo “Código do cupom” do carrinho e clique em “Aplicar cupom”. Consulte as condições na [página do cupom Belive](/cupons/belive).",
           "O frete grátis depende da região e do valor do carrinho: acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; acima de R$ 300 nos demais estados.",
           "O passo a passo do cupom está em [cupom da Belive: como usar](/reviews/cupom-belive-como-usar)."
         ]
@@ -131909,7 +131905,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O snack proteico da Belive custa mais por pacote que o de arroz, mas traz 10 g de proteína contra 3 g, e por grama de proteína sai bem mais barato. Se proteína não é o que você busca, o de arroz tem, em média, menos sódio."
+          "O snack proteico da Belive custa mais por pacote que o de arroz, mas declara 10 g de proteína contra 2,9 a 3 g e sai mais barato por grama de proteína. Os de arroz têm, em média, menos sódio; compare o sabor na tabela."
         ]
       },
       {
@@ -132026,7 +132022,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Por grama de proteína, o de arroz custa cerca de 2,2 vezes mais que o proteico.",
-          "A diferença de preço por pacote é de R$ 2,78, e a de proteína, de 7 g. Por isso a proteína decide a conta. O cupom e o Pix baixam os dois na mesma proporção, e a ordem não muda."
+          "Pelos preços da tabela, o proteico custa R$ 2,78 a mais por pacote e tem de 7 a 7,1 g de proteína a mais, conforme o sabor de arroz. Se os mesmos descontos valerem para os dois, a ordem por grama não muda; confira o total no carrinho."
         ]
       },
       {
@@ -132057,7 +132053,7 @@ export const reviewsData: unknown[] = [
           "Os snacks de arroz partem de um mix de farinha de arroz, lentilha e quinoa (no queijo), com óleo vegetal de palma e soja e extrato de levedura. O queijo leva sal light, aromatizante e corante natural de urucum. A pizza segue a mesma base do queijo; o churrasco é igual, sem o sal light. O Cebola e Salsa soma cebola tostada e salsa à base.",
           "A tabela de alergênicos da loja marca derivados de soja nos oito. A loja informa que todos são sem glúten.",
           "Sobre leite e lactose, a loja declara que os snacks proteicos são sem leite e sem lactose, e a lista de ingredientes não traz leite. No arroz, a loja diz sem leite e sem lactose também.",
-          "Na tabela de alergênicos, só a soja aparece marcada. As demais colunas, como ovo, amendoim e castanhas, ficaram em branco, e nenhum snack traz a marcação de \"pode conter\"."
+          "Na tabela de alergênicos da loja, só a soja aparece marcada; as demais colunas, como ovo, amendoim e castanhas, ficaram em branco, e nenhum snack traz a marcação de \"pode conter\". Se você evita algum desses alérgenos, confira o rótulo da embalagem."
         ]
       },
       {
@@ -132067,7 +132063,7 @@ export const reviewsData: unknown[] = [
           "Combo de 20 de arroz (4 sabores): R$ 95,90 no cartão e R$ 91,11 no Pix. Dá R$ 4,80 por unidade, 7,6% abaixo do avulso, e entre R$ 1,60 e R$ 1,65 por grama de proteína. O preço anterior riscado é R$ 103,80."
         ],
         "postParagraphs": [
-          "O combo economiza pouco. A ordem por grama de proteína continua a mesma: o proteico segue com menos da metade do custo do arroz.",
+          "O combo reduz o preço unitário em cerca de 6% a 8%. Por grama de proteína, o proteico continua com menos da metade do custo do arroz; compare quantidade, preços atuais e frete para decidir.",
           "O frete muda por região. A loja informa frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO; acima de R$ 250 no Sul; e acima de R$ 300 nos demais estados. Confira o valor no carrinho antes de pagar. O cupom MAUAD também vale nos combos e soma com a promoção."
         ]
       },
@@ -132085,7 +132081,7 @@ export const reviewsData: unknown[] = [
           "Qual snack da Belive tem mais proteína? O proteico, com 10 g por pacote de 35 g. O de arroz tem entre 2,9 g e 3 g.",
           "O snack de arroz da Belive tem açúcar? Os quatro sabores declaram 0 g de açúcares totais na tabela da loja.",
           "O snack proteico é sem leite? A loja declara que é sem leite e sem lactose, e a lista de ingredientes não traz leite. Não é um teste nosso.",
-          "O combo compensa? Economiza entre 6% e 8% sobre o pacote avulso, e a conta por grama de proteína quase não muda."
+          "O combo compensa? Economiza entre 6% e 8% sobre o pacote avulso. Compare o preço atual, a quantidade e o frete antes de escolher."
         ]
       }
     ]
@@ -132336,7 +132332,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O bolinho kids da Belive tem açúcar? Tem 0,5 g de açúcares totais por unidade de 45 g e nenhum açúcar adicionado, segundo a tabela do rótulo.",
-          "Quanto custa cada bolinho kids? Na ficha, a unidade de 45 g sai a R$ 6,97 no cartão e R$ 6,62 no Pix; no kit de 10, cada unidade sai a R$ 6,48 no cartão.",
+          "Quanto custa cada bolinho kids? Na ficha, a unidade de 45 g sai a R$ 6,97 no cartão e R$ 6,62 no Pix; no kit de 10, cada unidade sai a R$ 6,48 no cartão. Confira o preço atual na ficha antes de comprar.",
           "O Kit Lanche Escolar de 25 tem bolinho kids? Não. Os 25 são bolinhos adultos de 40 g, nos sabores chocolate, laranja, baunilha, coco e banana.",
           "O adoçante é só stévia? Não. A lista de ingredientes traz maltitol e glicosídeos de esteviol como edulcorantes, e sorbitol como umectante.",
           "O bolinho kids tem leite? Pela lista de ingredientes e pela tabela de alergênicos da loja, não. A linha marca ovo e soja."
@@ -177740,7 +177736,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha e publica a tabela nutricional de doces e snacks. Os doces são sem açúcar pelo rótulo, não pobres em carboidrato. O que muda a escolha é o preço por unidade e o frete por região; veja os capítulos de preço e compra."
+          "Sim, para quem precisa tirar glúten, leite e lactose: a Belive declara os três em toda a linha, com rótulos publicados para comparar. Nos doces, confira a versão, porque nomes parecidos têm fórmulas diferentes. O preço por unidade e o frete por região pesam na decisão."
         ]
       },
       {
@@ -177763,7 +177759,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Brownie, pão de mel, bolinho e cookie: o que o rótulo mostra",
         "paragraphs": [
-          "Pelo rótulo, os doces da Belive são sem açúcar, não \"light\": 0 g de açúcares adicionados em todos, e de 13 g a 23 g de carboidratos por unidade. O adoçante é a dupla maltitol e glicosídeos de esteviol em toda a linha; a descrição da loja fala em stévia, e o maltitol vem antes dela na lista de ingredientes. Os proteicos trocam parte da farinha por proteína isolada de soja, arroz e ervilha: o brownie proteico tem 5 g ou 6 g de proteína por unidade de 40 g, contra 1,6 g a 2 g do comum, com as calorias quase iguais, de 121 kcal a 144 kcal nos oito sabores. O pão de mel repete a lógica, 6 g no proteico contra 2 g no comum. Os oito brownies, sabor a sabor, estão no guia do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive)."
+          "Nos oito brownies sem açúcar comparados no guia e nos dois pães de mel desta seleção, o rótulo informa zero de açúcares adicionados. Isso não elimina os carboidratos: são de 13 g a 23 g por unidade nesses produtos. Maltitol e glicosídeos de esteviol aparecem nas listas; a descrição da loja fala em stévia. O brownie proteico tem 5 g ou 6 g de proteína por unidade de 40 g, contra 1,6 g a 2 g do comum. As calorias variam de 121 kcal a 144 kcal nos oito sabores. O pão de mel traz 6 g no proteico e 2 g no comum. Veja a comparação sabor a sabor no guia do [brownie sem açúcar da Belive](/reviews/brownie-sem-acucar-belive)."
         ],
         "comparisonTable": {
           "headers": [
@@ -177839,7 +177835,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/belive/belive-e-boa-kit-misto-brownies.webp",
             "alt": "Caixa do Kit Misto 10 Brownies da Belive, sem glúten e sem leite, com os brownies em embalagem individual",
-            "caption": "O kit de 10 brownies: em lista, custa o mesmo que 10 unidades; o desconto é o da promoção. Imagem: Belive.",
+            "caption": "Kit Misto 10 Brownies, com embalagens individuais. Não é o kit de sabor único da tabela; confira o preço do kit escolhido. Imagem: Belive.",
             "objectFit": "square",
             "href": "https://belivebefree.com.br/produto/kit-misto-10-brownies-sem-gluten-sem-leite-zero-lactose-belive/"
           }
@@ -177848,7 +177844,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Panetone e chocotone sem glúten",
         "paragraphs": [
-          "O panetone da Belive existe, é de época e vem em dois sabores: o de chocolate, com recheio de brownie, gotas de chocolate 42% cacau e cobertura de chocolate, e o de frutas cristalizadas, com uvas-passas e amêndoas laminadas. Os dois são declarados sem glúten, zero açúcar (adoçados com stévia) e sem leite e lactose, e a página do de frutas repete o \"zero risco de contaminação cruzada\" da fábrica. Os kits de 3 trazem só chocotones, só panetones de frutas ou um de frutas com dois chocotones."
+          "O panetone da Belive é de época e vem em dois sabores: chocolate, com recheio de brownie, gotas de chocolate 42% cacau e cobertura sabor chocolate; e frutas cristalizadas, com uva-passa e amêndoas laminadas. Os dois são declarados sem glúten, sem leite e sem lactose, com zero de açúcares adicionados e adoçados com maltitol e glicosídeos de esteviol. O de frutas tem 1,5 g de açúcares totais por 100 g. A frase “zero risco de contaminação cruzada” é uma declaração da fabricante na página desse sabor. Há kits de três unidades, iguais ou mistos. A comparação completa está em [panetone Belive é bom?](/reviews/panetone-belive-e-bom)."
         ],
         "comparisonTable": {
           "headers": [
@@ -178005,7 +178001,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O combo de 4 custa, em lista, o mesmo que 4 pacotes avulsos; o desconto do combo é o da promoção do dia, e o Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. A página de cada pão traz a tabela nutricional, como imagem, e a lista de ingredientes, nas abas da página; o multigrãos leva castanha-do-pará, que é alérgeno; confira o aviso de alergênicos na embalagem de cada pão. O pão de forma serve a quem quer pão de todo dia com validade longa para não faltar; o pãozinho e a bisnaguinha, à lancheira e ao café. Quem compra um pacote só paga frete sobre ele: o pão é o item que mais pede o combo ou o carrinho cheio, como mostra o próximo capítulo."
+          "O combo de quatro custa, em lista, o mesmo que quatro pacotes avulsos; compare a oferta do dia e a quantidade que você quer. O Kit Pães Completão, com 11 pacotes variados, sai por R$ 207,50 de lista. Cada pão tem tabela nutricional em imagem e ingredientes nas abas da página. O multigrãos leva castanha-do-pará; quem evita castanhas deve ler o aviso de alérgenos do produto escolhido antes de comprar. O pão de forma atende ao uso diário; pãozinho e bisnaguinha são opções para lancheira e café. Compare o total com frete antes de aumentar a quantidade."
         ],
         "images": [
           {
@@ -178021,25 +178017,25 @@ export const reviewsData: unknown[] = [
         "heading": "Quanto custa com o código, e onde comprar",
         "paragraphs": [
           "Com o código da Belive, todo o site sai 10% mais barato, em todas as formas de pagamento, na primeira compra e nas seguintes, e o desconto soma com as promoções da loja e com os 5% do Pix. No teste do cupom, um carrinho com quatro combos em oferta, de R$ 576,82, caiu para R$ 519,14 com o código e para R$ 493,18 no Pix. O código vai no campo \"Código do cupom\" do carrinho, com o botão \"Aplicar cupom\"; a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
-          "O que muda a conta é o frete, e ele muda por região: frete grátis acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout, e o valor do frete grátis conta o carrinho antes do código. A faixa do site mostra só o valor de São Paulo: quem mora fora dos cinco estados precisa do carrinho maior para zerar o frete, e é aí que os combos de 4 pães e as caixas de 10 fazem sentido.",
-          "A Belive também vende no [Mercado Livre](https://meli.la/2xDjP2k), onde o código não vale e o preço é o do anúncio. Vale olhar lá quando o pedido é pequeno e o frete do site pesa; para o carrinho cheio, o site oficial com o código e o Pix leva."
+          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Abaixo disso, o frete é calculado no checkout. Conta o subtotal antes do código. Compare o custo do frete com o de acrescentar produtos que você realmente vai consumir.",
+          "A Belive também vende no [Mercado Livre](https://meli.la/2xDjP2k), onde o código não vale e o preço é o do anúncio. Compare a mesma quantidade e os mesmos produtos, incluindo frete. No site oficial, aplique o código e a condição de pagamento escolhida antes de comparar o total."
         ]
       },
       {
         "heading": "Dá para confiar na Belive",
         "paragraphs": [
-          "Dá. A loja é da NHD Foods Indústria, Comércio, Importação e Exportação Ltda., empresa registrada e ativa nos dados públicos, com CNPJ, razão social, trocas e frete publicados no site, e as duas unidades em Uberaba (MG). No Reclame Aqui, a reputação era Ótima, com nota 8,1 nos últimos 6 meses, e a loja responde a todas as reclamações, resolvendo entre 75% e 80% delas. CNPJ, como reconhecer o site oficial, trocas e frete estão em [Belive é confiável?](/reviews/belive-e-confiavel), e a leitura das reclamações, no guia da marca no Reclame Aqui, listado no fim."
+          "Dá. A loja é da NHD Foods Indústria, Comércio, Importação e Exportação Ltda., com CNPJ, razão social, trocas e frete publicados no site e unidades em Uberaba (MG). No Reclame Aqui, o perfil tinha nota 8,1, Ótima, na janela de abril a setembro. Foram 39 reclamações recebidas e 15 avaliadas nessa aba; o índice de resolução era 80% entre as avaliadas. CNPJ, reconhecimento do site oficial, trocas e frete estão em [Belive é confiável?](/reviews/belive-e-confiavel); os períodos e a amostra do Reclame Aqui estão no guia listado ao fim."
         ]
       },
       {
         "heading": "Para quem vale e para quem não vale",
         "bullets": [
-          "Para o doce pronto sem açúcar e sem glúten, o brownie e o bolinho, pelo rótulo publicado; o proteico só para quem quer os 5 g a 6 g de proteína, porque as calorias são as mesmas.",
+          "Para doce pronto sem açúcar adicionado e sem glúten, compare o rótulo da versão escolhida. Nos brownies, o proteico traz 5 g a 6 g de proteína por unidade; as calorias variam de 121 kcal a 144 kcal entre os oito sabores.",
           "Para o lanche com proteína sem whey, o snack proteico; para o lanche pequeno da lancheira, o salgadinho de milho de 25 g ou o GoodSoy.",
           "Para o pão de todo dia com validade longa, o pão de forma de 400 g; para a lancheira, a bisnaguinha e o pãozinho de batata.",
           "Para o panetone sem glúten e sem açúcar de Natal, os dois sabores existem, com a tabela nutricional na página de cada um.",
           "Não vale escolher pelo \"sem açúcar\" quem controla carboidrato: o rótulo mostra de 13 g a 23 g por unidade nos doces, e a conta é com o nutricionista.",
-          "Não vale o pedido pequeno fora de SP, MG, RJ, DF, GO e do Sul: o frete grátis pede o carrinho mais alto, e o Mercado Livre pode sair melhor nesse caso."
+          "Para pedidos pequenos, simule o frete do site e compare o total com o mesmo produto no Mercado Livre. A região e o CEP mudam a conta."
         ],
         "emphasis": "Para quem precisa tirar glúten e leite da mesa, a Belive resolve a padaria inteira numa loja só; o preço por unidade é o preço dessa conveniência."
       },
@@ -178048,7 +178044,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O brownie da Belive é bom? Pelo rótulo, é um brownie de 40 g sem açúcar adicionado, adoçado com maltitol e esteviol, e os quatro proteicos trazem de 5 g a 6 g de proteína; os oito sabores estão no capítulo dos doces e no guia do brownie.",
           "Os produtos da Belive são saudáveis? O rótulo não responde isso: ele mostra calorias, carboidratos, açúcares e proteína de cada item, e a conta para o seu caso é com o nutricionista ou o médico.",
-          "A Belive tem panetone sem açúcar? Tem, de chocolate e de frutas cristalizadas, declarados sem glúten e sem lactose, mais os kits de 3; a tabela nutricional fica na aba \"Tabela Nutricional\" da página, como mostra o capítulo do panetone.",
+          "A Belive tem panetone sem açúcar? Os sabores de chocolate e de frutas têm zero de açúcares adicionados; o de frutas declara 1,5 g de açúcares totais por 100 g. Ambos são declarados sem glúten, sem leite e sem lactose, e têm tabela nutricional publicada.",
           "Os produtos da Belive são sem glúten? A loja declara toda a linha sem glúten, sem leite e sem lactose, e a marca diz que a fábrica não tem contaminação cruzada; a tabela de alérgenos de cada página marca ovo, soja e castanhas em vários itens.",
           "Onde comprar Belive? No site oficial, com o código da Belive de 10%, ou no Mercado Livre, onde o código não vale; o frete grátis muda por região, como mostra o capítulo de compra."
         ]
@@ -178062,7 +178058,7 @@ export const reviewsData: unknown[] = [
         "Você escolhe o doce pelo rótulo: açúcares, carboidratos e proteína estão na página de cada brownie, bolinho e cookie."
       ],
       "skipIf": [
-        "Você compra pouco e mora fora de SP, MG, RJ, DF, GO e do Sul: o frete grátis pede o carrinho mais alto da loja."
+        "O total com frete ultrapassa o seu orçamento; compare o mesmo pedido nos canais disponíveis antes de decidir."
       ]
     },
     "cta": {
@@ -178493,7 +178489,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Panetone de chocolate, pelo rótulo",
         "paragraphs": [
-          "O de chocolate é o panetone de quem quer sobremesa, não só pão de Natal: recheio de brownie, gotas e cobertura, e é isso que puxa a gordura dele para cima. A massa é o mix sem glúten da Belive (amido modificado, farinha de arroz, fécula de mandioca, farinha de amêndoas, polvilho azedo, proteína isolada de soja e farinha de soja). Dentro, o recheio de brownie sabor chocolate, as gotas de chocolate 42% cacau e a cobertura sabor chocolate; depois óleo vegetal de palma e soja, ovo em pó, polidextrose, fibra de tapioca, leite de coco em pó, sal light, psyllium, umectantes, fermento e conservantes.",
+          "O de chocolate reúne recheio de brownie, gotas e cobertura, e tem mais gordura saturada que o de frutas. A massa é o mix sem glúten da Belive (amido modificado, farinha de arroz, fécula de mandioca, farinha de amêndoas, polvilho azedo, proteína isolada de soja e farinha de soja). Dentro, o recheio de brownie sabor chocolate, as gotas de chocolate 42% cacau e a cobertura sabor chocolate; depois óleo vegetal de palma e soja, ovo em pó, polidextrose, fibra de tapioca, leite de coco em pó, sal light, psyllium, umectantes, fermento e conservantes.",
           "O \"zero açúcar\" é zero açúcar adicionado. Quem adoça são o maltitol e os glicosídeos de esteviol, e na lista o maltitol vem antes; a descrição da loja fala em stévia. O rótulo de alérgenos diz: \"contém derivados de amêndoas, derivados de ovo e derivados de soja. Não contém glúten.\" Leite de vaca não aparece na lista, e a página o declara sem leite e sem lactose, mas tem leite de coco em pó: quem evita coco lê isso antes de pagar.",
           "A loja informa: a porção é de 80 g, duas fatias, e a caixa de 420 g rende cerca de 5 porções. Por porção, são 248 kcal e 34 g de carboidrato. Serve para quem quer o panetone recheado da mesa de Natal sem glúten e sem leite de vaca. Não escolha este se o que você olha é gordura saturada: ele tem bem mais gordura saturada que o de frutas, como mostra a tabela abaixo, e a caixa dele traz o selo \"alto em gordura saturada\"."
         ],
@@ -178512,7 +178508,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O de frutas é o panetone clássico, e dos dois é o que tem menos calorias e menos gordura. A massa é a mesma do de chocolate. O que muda é o recheio: frutas cristalizadas sem adição de açúcares e uva-passa, com amêndoas laminadas por cima. O resto da lista é quase o mesmo, com maltitol, glicosídeos de esteviol e leite de coco em pó.",
           "Aqui o rótulo mostra 1,5 g de açúcares totais por 100 g, e zero de açúcar adicionado: esse açúcar é o da fruta e da uva-passa, não de açúcar posto na massa. Os alérgenos são os mesmos do de chocolate, com uma diferença de peso: aqui a amêndoa é inteira, laminada por cima, e não só derivado na farinha. O rótulo diz: \"contém amêndoas, derivados de ovo e derivados de soja. Não contém glúten.\"",
-          "A página deste sabor traz uma frase que a do chocolate não traz: a marca diz que ele é sem glúten e sem leite, com \"zero risco de contaminação cruzada\". É declaração da marca. Serve para quem quer o panetone de frutas de sempre sem glúten e sem leite de vaca, e para quem prefere o sabor menos doce. Não escolha este se a sua casa torce o nariz para fruta cristalizada: aí o de chocolate ganha."
+          "A página deste sabor traz uma frase que a do chocolate não traz: a marca diz que ele é sem glúten e sem leite, com \"zero risco de contaminação cruzada\". É declaração da marca. Serve para quem quer o panetone de frutas de sempre sem glúten e sem leite de vaca, e para quem prefere frutas cristalizadas, uva-passa e amêndoas ao recheio de brownie. Não escolha este se a sua casa torce o nariz para fruta cristalizada: aí o de chocolate ganha."
         ],
         "images": [
           {
@@ -178527,7 +178523,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Chocolate ou frutas: a tabela, lado a lado",
         "paragraphs": [
-          "A diferença entre os dois está na gordura, não no açúcar nem no carboidrato. Os números abaixo são os da tabela nutricional de cada página, por 100 g."
+          "Os dois têm zero de açúcar adicionado e quase a mesma quantidade de carboidrato: 42 g e 43 g por 100 g. A diferença maior está na gordura saturada, como mostra a tabela abaixo."
         ],
         "comparisonTable": {
           "headers": [
@@ -178565,13 +178561,13 @@ export const reviewsData: unknown[] = [
           "caption": "Tabela nutricional publicada pela loja na página de cada panetone, por 100 g. Gordura trans: zero nos dois. Açúcares totais: só no de frutas, e são os da fruta."
         },
         "postParagraphs": [
-          "O que a tabela não diz: o carboidrato dos dois é quase igual, e nos dois ele inclui o maltitol, que o rótulo não separa. Quem olha só o \"zero açúcar\" e esquece essa linha compra errado. Quem come duas fatias do de chocolate leva 36% da gordura saturada do dia pela tabela da loja; no de frutas, 21%. A fibra é alta nos dois pelo psyllium e pela fibra de tapioca, e o sódio é baixo nos dois."
+          "Na porção de 80 g, a tabela da loja informa 36% do valor diário de gordura saturada no de chocolate e 21% no de frutas. Por 100 g, as fibras são 7,7 g e 6,5 g, e o sódio, 76 mg e 92 mg. Para comparar, mantenha a mesma porção nos dois sabores; o destaque “zero açúcar” não substitui a linha de carboidratos."
         ]
       },
       {
         "heading": "Os kits: quanto custa cada panetone",
         "paragraphs": [
-          "O kit não dá desconto: ele custa, em lista, o mesmo que três panetones avulsos. Vale por ajudar no frete e por juntar os dois sabores numa caixa só, como mostra o próximo capítulo."
+          "O kit não dá desconto: pelos preços de lista da tabela, ele custa o mesmo que três panetones avulsos. Ele reúne três unidades; o misto traz os dois sabores. A vantagem de frete depende do subtotal e da região."
         ],
         "comparisonTable": {
           "headers": [
@@ -178609,28 +178605,28 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista do site em 03/11, sem o código. No dia, a loja vendia os cinco com desconto de promoção, e o preço riscado da página é o desta tabela."
         },
         "postParagraphs": [
-          "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o kit sai igual ao avulso, em lista e na oferta. O que o kit faz é aproximar o carrinho do frete grátis, desde que o subtotal efetivo, com a promoção do dia, passe do limite da sua região, e trazer os dois sabores na mesma caixa, no kit misto. Para um panetone só, compre o avulso."
+          "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o valor é igual nos dois casos. Para um panetone só, compre o avulso; o kit faz sentido para quem quer três unidades."
         ]
       },
       {
         "heading": "Quanto custa com o código, e o frete",
         "paragraphs": [
           "Com o código da Belive, o panetone sai 10% mais barato, em todas as formas de pagamento, e o desconto soma com a promoção do dia e com os 5% do Pix. O código vai no campo \"Código do cupom\" do carrinho, e a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
-          "O frete é o que decide entre o avulso e o kit. O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o valor que conta é o do carrinho antes do código. Um panetone avulso não zera o frete em lugar nenhum. Pelo preço de lista, o kit passa da faixa dos cinco estados; ele zera o frete neles se o subtotal do carrinho, com a promoção do dia e antes do código, ficar acima de R$ 170. No Sul e no resto do país, ele pede mais itens no carrinho. Para completar, os doces, os pães e os salgadinhos da marca estão no guia [Belive é boa?](/reviews/belive-e-boa), e quem compra pela primeira vez na loja confere CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
+          "O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados. Conta o subtotal antes do código. O kit, nos preços de lista, ultrapassa a faixa de R$ 170 dos cinco estados; confirme o valor atual no carrinho. No Sul e no resto do país, ele pede mais itens no carrinho. Compare o frete com o custo de itens extras antes de aumentar o pedido. Os doces, os pães e os salgadinhos estão no guia [Belive é boa?](/reviews/belive-e-boa), e CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
         ]
       },
       {
         "heading": "Sem glúten e sem leite: o que a marca declara e o que o rótulo mostra",
         "paragraphs": [
-          "Para celíaco, o que vale é a frase escrita, e ela está em um sabor só. Os dois rótulos dizem \"não contém glúten\", e a marca declara os dois sem leite e sem lactose. A marca diz \"zero risco de contaminação cruzada\" só na página do panetone de frutas; a do chocolate não traz a frase. Quem é celíaco, ou tem alergia a leite de vaca, decide com o médico, com o rótulo da caixa que chegar na mão. E o \"sem leite\" é sem leite de vaca: os dois levam leite de coco em pó, e os dois trazem amêndoas, ovo e soja na lista de alérgenos."
+          "Os dois rótulos dizem “não contém glúten”, e a marca declara os dois sabores sem leite e sem lactose. A frase “zero risco de contaminação cruzada” aparece na página do de frutas e é uma declaração da fabricante; a página do chocolate não traz essa frase. Ela não substitui a leitura do rótulo e dos avisos de alérgenos de cada produto. Os dois levam leite de coco em pó e trazem amêndoas, ovo e soja na lista de alérgenos. Para doença celíaca ou alergia ao leite, converse com seu médico sobre o rótulo da embalagem que você tem em mãos."
         ]
       },
       {
         "heading": "Qual levar: chocolate ou frutas",
         "paragraphs": [
-          "Pelos números da tabela, quem escolhe pela gordura saturada fica no de frutas, porque ele tem pouco mais da metade da do de chocolate com quase a mesma quantidade de carboidrato; quem escolhe pela sobremesa fica no de chocolate, porque é o recheado. Para quem conta carboidrato, nenhum dos dois é a resposta sozinho: são 42 g a 43 g por 100 g, e a conta é com o nutricionista. Na dúvida entre os dois, o kit misto resolve."
+          "Pelos números da tabela, quem escolhe pela gordura saturada fica no de frutas, porque ele tem pouco mais da metade da do de chocolate com quase a mesma quantidade de carboidrato; quem escolhe pela sobremesa fica no de chocolate, porque é o recheado. Para quem conta carboidrato, nenhum dos dois é a resposta sozinho: são 42 g a 43 g por 100 g, e a conta é com o nutricionista. Se você quer três unidades e os dois sabores, há o kit misto."
         ],
-        "emphasis": "Na dúvida entre os dois sabores, o kit com um de frutas e dois de chocolate resolve a mesa sem escolher: os dois sabores vão no mesmo pedido, pelo mesmo preço por panetone do avulso."
+        "emphasis": "Para quem quer três panetones, o kit com um de frutas e dois de chocolate reúne os dois sabores. Nos preços de lista, custava o mesmo por unidade que os avulsos."
       },
       {
         "heading": "Perguntas frequentes",
