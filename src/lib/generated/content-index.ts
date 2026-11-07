@@ -75786,17 +75786,15 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O que conta é o valor total final do carrinho, já com os descontos, inclusive o do cupom da parceria: se o carrinho só passa do mínimo antes do desconto, confira se o frete grátis continua depois de aplicar o código. A faixa do topo do site diz \"Frete grátis para todo Brasil - consulte as regras\", e as regras são as faixas acima.",
-          "A mesma política cobre o que acontece quando a entrega dá problema:",
-          "Extravio ou roubo no transporte: a loja reenvia o pedido sem custo para você.",
-          "Entrega que você não reconhece: conteste em até 10 dias.",
-          "Item errado no pacote: avise a loja em até 7 dias.",
           "Depois que o pedido é feito, a loja não cobra nenhuma taxa. Se alguém pedir pagamento extra por Pix, link ou boleto para \"liberar\" ou \"reenviar\" a entrega, desconfie: é o tipo de mensagem usada em golpes.",
-          "Na política de pagamento, a loja aceita:",
-          "Cartão de crédito (Amex, Visa, Mastercard, Hipercard, Elo e Diners), em até 8 vezes sem juros, com parcela mínima de R$ 50.",
-          "Pix.",
-          "Pix parcelado em 4 vezes sem juros.",
-          "Boleto, só à vista.",
           "Como a parcela mínima é de R$ 50, um pedido pequeno não chega às 8 vezes: o número de parcelas sem juros que aparece no checkout depende do total do carrinho."
+        ],
+        "bullets": [
+          "**Extravio ou roubo no transporte:** pela política, a loja reenvia o pedido sem custo.",
+          "**Entrega não reconhecida:** a política pede contestação em até dez dias.",
+          "**Item errado:** avise a loja em até sete dias, conforme a política.",
+          "**Cartão:** Amex, Visa, Mastercard, Hipercard, Elo e Diners; até oito parcelas sem juros, com mínimo de R$ 50 por parcela.",
+          "**Outros meios publicados:** Pix, Pix parcelado em quatro vezes sem juros e boleto à vista."
         ]
       },
       {
@@ -75995,7 +75993,7 @@ export const reviewsData: unknown[] = [
               "0"
             ],
             [
-              "Reclamações resolvidas",
+              "Índice de solução (finalizadas e avaliadas)",
               "52,6%",
               "70,8%",
               "64,4%"
@@ -79564,8 +79562,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black November da Black Skull já está no ar, com desconto progressivo de 15% a 25% e frete grátis. Veja os preços de outubro de whey e creatina e como o CECILIA10 entra.",
-    "metaDescription": "Black Friday Black Skull 2026: o cupom CECILIA10 dá 10% em todo o site. Progressivo de 15% a 25% e frete grátis, com a campanha já no ar.",
+    "description": "A Black November da Black Skull está no ar, com progressivo de 15% a 25% e frete grátis conforme a região. Veja preços de outubro de whey e creatina e como o CECILIA10 entra.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. Black November 2026: preços de outubro, frete por região e progressivo anunciado pela loja.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-07",
@@ -79618,11 +79616,11 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Preços da Black Skull: preço de lista e preço do dia, antes do cupom CECILIA10.",
+          "caption": "Preços da Black Skull: preço de lista e preço de outubro, antes do cupom CECILIA10. Não é cotação atual.",
           "headers": [
             "Produto",
             "Preço de lista",
-            "Preço do dia"
+            "Preço em outubro"
           ],
           "rows": [
             [
@@ -79689,7 +79687,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "O kit com 2 Whey Turbo 907 g saía por R$ 132,81, contra R$ 139,80 de lista. Na creatina, o refil de 500 g do Creator saía por R$ 39,90 (cerca de R$ 0,08 por grama), e o Creator de 300 g, por R$ 29,90 (cerca de R$ 0,10 por grama).",
-          "Uma oferta da Black November só é vantagem se o preço do dia, já com o progressivo, ficar abaixo desta tabela. Compare com o preço do dia de outubro, não com o preço de lista.",
+          "Compare o mesmo produto, sabor, peso e quantidade, com a mesma forma de pagamento, cupom e frete. Uma oferta só é vantagem se, para o mesmo item, ficar abaixo do preço da tabela de outubro; selo de desconto sozinho não basta.",
           "Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista."
         ]
       },
@@ -79698,8 +79696,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Vale. O **CECILIA10** dá 10% de desconto em todo o site da Black Skull, vale com todas as formas de pagamento e soma com as promoções vigentes. O desconto vem em cima do preço já reduzido, sem substituí-lo.",
           "No nosso teste na sacola, havia uma regata, um kit de whey, creatina e pré-treino e uma glutamina. Dois itens já apareciam com o preço antigo riscado: a regata, de R$ 129,90 por R$ 51,96, e o kit, de R$ 284,70 por R$ 232,47. O subtotal era de R$ 364,33. O cupom tirou R$ 36,44, e o total ficou em **R$ 327,89**.",
-          "Esse teste foi feito em outubro, em itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes; ainda não testamos o CECILIA10 numa sacola com o desconto progressivo. Aplique o código na sacola e confira a linha \"Descontos\": se ela mostrar os 10%, o cupom entrou.",
-          "A conta pode ser feita no próprio carrinho, na linha \"Descontos\", antes de finalizar.",
+          "Esse teste foi feito em outubro, em itens em promoção, antes da Black November. A regra do cupom é somar com as promoções vigentes, e a combinação com o desconto progressivo ainda não foi verificada. Aplique o código na sacola e confira o valor abatido: a linha \"Descontos\" pode reunir mais de um desconto.",
           "O passo a passo do campo do cupom está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar). As condições do dia ficam na [página do cupom da Black Skull](/cupons/black-skull)."
         ],
         "image": "/images/reviews/black-skull/black-skull-cupom-03-desconto-aplicado.webp",
@@ -79711,11 +79708,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete grátis, Pix e parcelamento",
         "paragraphs": [
-          "Na Black November, a página da campanha anuncia frete grátis para todo o Brasil, com \"consulte as regras\". Fora da campanha, o frete grátis depende da região de entrega e do valor final do carrinho, e a loja conta o total já com os descontos, inclusive o do cupom. A tabela traz a política de entrega; confira o frete do seu CEP na sacola.",
+          "A campanha anuncia frete grátis para todo o Brasil, com consulta às regras. A política de entrega fixa mínimos por região, aplicados ao total depois dos descontos, então o frete grátis não vale para todo pedido: confira o do seu CEP na sacola.",
           "Os mínimos abaixo valem para o total já com o CECILIA10. Pela nossa conta, o whey 100% HD 1,8 kg baunilha, que estava a R$ 279,90, sai por R$ 251,91 com o CECILIA10. Esse valor passa do mínimo do Sul, do Sudeste e do Centro-Oeste, mas fica abaixo dos R$ 299,90 das demais regiões. Em pedido que passa do mínimo por pouco, confira o total com o cupom aplicado antes de pagar."
         ],
         "comparisonTable": {
-          "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega.",
+          "caption": "Frete grátis da Black Skull por região de entrega, conforme a política de entrega, com o mínimo calculado sobre o total após descontos.",
           "headers": [
             "Região de entrega",
             "Frete grátis em compras acima de"
@@ -79761,7 +79758,7 @@ export const reviewsData: unknown[] = [
             [
               "Arrependimento",
               "7 dias corridos depois do recebimento",
-              "A loja. Só vale para o pedido inteiro"
+              "A loja paga o envio; a devolução vale só para o pedido inteiro"
             ],
             [
               "Troca comum (outro sabor, por exemplo)",
@@ -79776,7 +79773,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os prazos contam do recebimento, não do Natal. Um pedido entregue no começo de dezembro tem arrependimento até uma semana depois e pedido de troca comum até o fim do mês.",
+          "Os prazos contam do recebimento, não do Natal. Um pedido entregue no começo de dezembro tem arrependimento de 7 dias corridos, que acaba antes do Natal, e pedido de troca comum em até 30 dias corridos da entrega.",
           "O ponto que mais pesa para quem dá presente é o sabor errado: a troca comum não é gratuita, e o frete de ida e de volta sai do bolso de quem comprou. Se o presente for suplemento, escolher o sabor com a pessoa antes evita essa conta. O pedido de troca vai para o e-mail da loja, e os detalhes, junto com CNPJ e site oficial, estão em [Black Skull é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/black-skull-e-confiavel)."
         ]
       },
@@ -79785,13 +79782,13 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Quando começa e quanto dura a Black Friday da Black Skull? A Black November já começou, com desconto progressivo de 15% a 25% nos produtos da página da campanha. A página da loja diz que as ofertas ficam disponíveis durante todo o mês e que a Black Friday acontece na última sexta-feira de novembro; a loja não informa data de fim.",
           "Qual é o cupom da Black Skull na Black Friday? O CECILIA10, 10% em todo o site, em todas as formas de pagamento. É o mesmo código do resto do ano, e as condições do dia ficam na página do cupom da Black Skull.",
-          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste na sacola, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Numa sacola com o desconto progressivo ainda não testamos; a linha Descontos da sacola mostra.",
+          "O cupom CECILIA10 vale em produto em promoção? Vale. Ele dá 10% em todo o site e soma com as promoções vigentes: no teste de outubro, o cupom tirou R$ 36,44 de um subtotal de R$ 364,33 que já tinha itens com preço riscado. Com o desconto progressivo, a combinação ainda não foi verificada; a linha Descontos da sacola mostra o valor abatido.",
           "O CECILIA10 vale em qualquer forma de pagamento? Vale em todas as formas de pagamento da loja: cartão em até 8 vezes sem juros (parcela mínima de R$ 50), Pix, Pix parcelado em 4 vezes sem juros e boleto à vista.",
           "O frete da Black Skull é grátis? Depende da região. O frete grátis valia acima de R$ 199,90 no Sul e no Sudeste, R$ 249,90 no Centro-Oeste e R$ 299,90 nas demais regiões, contado sobre o total já com o desconto do cupom.",
           "A Black Skull tem desconto no Pix? A loja não anuncia desconto próprio no Pix. O Pix e o Pix parcelado em 4 vezes sem juros são formas de pagamento, e o CECILIA10 vale nelas.",
           "Dá para trocar um produto comprado na Black Friday? Dá. O arrependimento vale 7 dias corridos depois do recebimento, com a loja pagando a postagem. A troca comum pode ser pedida em até 30 dias corridos da entrega, com frete pago por você e produto lacrado. Defeito fica por conta da loja.",
           "Compro na Black Friday e dou de Natal: o prazo de troca dá? Conta da entrega: um pedido recebido no começo de dezembro pode ter troca comum pedida até o fim do mês. O arrependimento, de 7 dias, é de quem comprou.",
-          "Vale a pena esperar a sexta-feira para comprar? O desconto progressivo já está no ar e o CECILIA10 vale hoje, então esperar só compensa se o preço do dia ainda estiver acima da tabela de outubro deste guia. Compare antes de decidir."
+          "Vale a pena esperar a sexta-feira para comprar? Não dá para prever o preço da sexta-feira. Compare a oferta atual com a tabela de outubro para o mesmo produto, incluindo frete e desconto. Considere também estoque e prazo de entrega: estar abaixo da tabela hoje não impede uma oferta melhor depois."
         ]
       }
     ],
@@ -82211,7 +82208,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela, para o perfil de menor preço a escolha é a Black Skull, porque o Whey 80% HD e o Creator têm o menor preço por proteína e por dose. Para mais proteína por dose, a Max Titanium leva.",
+        "emphasis": "Nos produtos e preços comparados, o Whey 80% HD e o Creator da Black Skull tinham menor custo por proteína e por dose. Para maior quantidade de proteína na porção de 40 g, o Top Whey 3W + Performance da Max Titanium tinha 32 g, contra 31 g do 3W Core.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "A escolha aqui é por critério de compra, com os números do rótulo e os preços:"
@@ -82229,9 +82226,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Black Skull ou Max Titanium: qual é melhor? Nos preços de catálogo de outubro, o Whey 80% HD e o Creator da Black Skull saem mais baratos por grama de proteína e por dose de creatina, e a Max Titanium tem mais whey 3W com sabor e a creatina Creapure.",
+          "Black Skull ou Max Titanium: qual é melhor? Nos preços de catálogo de outubro, o Whey 80% HD e o Creator da Black Skull tinham menor custo por grama de proteína e por dose de creatina. Fórmula, sabor escolhido e preço final atual podem mudar a escolha.",
           "Qual whey é melhor, Black Skull ou Max Titanium? Depende do critério. Mais proteína por dose é o Top Whey 3W + Performance (32 g) ou o Whey 3W Core (31 g); menor preço por 100 g de proteína é o Whey 80% HD da Black Skull.",
-          "Black Skull é boa? É uma marca boa? O que dá para comparar sem prova é rótulo e preço por dose; a origem da marca está na seção sobre as duas marcas, acima.",
+          "Black Skull é boa marca? A comparação cobre só rótulo e preço, sem avaliar sabor, dissolução ou qualidade geral. A origem da empresa está na seção sobre as duas marcas, acima.",
           "Black Skull é brasileira? É da Integralmédica? É brasileira, da GDS Grow Dietary Supplements do Brasil, em Embu das Artes (SP). Nenhuma fonte oficial liga a marca à Integralmédica.",
           "Max Titanium é brasileira? Sim. A marca é do Grupo Supley, o mesmo da Probiótica e da Dr. Peanut.",
           "Whey Max Titanium vale a pena? O 100% Whey dá 21 g de proteína em 30 g, a R$ 7,01 por dose no pote e R$ 6,55 no refil. Com o cupom de até 10% e o desconto de até 5% no Pix, a dose fica mais barata; se compensa depende do critério que pesa para você.",
@@ -82244,7 +82241,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Você decide pelo menor preço por 100 g de proteína no whey ou pelo menor preço por dose de creatina."
+        "Você escolhe pelos menores custos por proteína ou creatina da tabela: os produtos Black Skull lideravam nesse recorte, antes dos descontos."
       ],
       "skipIf": [
         "Você quer mais proteína por dose e aceita pagar mais por ela: aí é a Max Titanium.",
@@ -89993,7 +89990,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, a Black Skull sai mais barata que a Growth no whey e na creatina, pelo preço no cartão. A Growth só encosta no Pix, onde o whey dela quase empata com o 100% HD da Black Skull. O que muda a decisão é a forma de pagamento, e os preços podem mudar."
+          "Nos preços de outubro, sem frete, a Black Skull tinha menor custo por 100 g de proteína e de creatina pelo preço no cartão. No Pix, o whey da Growth ficava perto do 100% HD sem cupom; o CECILIA10, de 10%, baixava o custo da Black Skull. Confira fórmula, pagamento e frete antes de decidir."
         ]
       },
       {
@@ -90005,7 +90002,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/black-skull-ou-growth-capa.webp",
           "alt": "Quadro com o preço por 100 g em 18/10/2026: whey Black Skull 80% HD R$ 23,17, 100% HD R$ 26,66 e Growth Concentrado R$ 26,34 no Pix; creatina Black Skull Creator refil R$ 7,98, Creator 300 g R$ 9,97 e Growth refil R$ 14,98 no Pix",
-          "caption": "O preço por 100 g de whey e de creatina nas duas lojas, nos sites oficiais, sem frete.",
+          "caption": "Custos por 100 g de proteína nos wheys e por 100 g de creatina, calculados a partir dos preços das lojas oficiais em outubro, sem frete.",
           "objectFit": "contain",
           "aspectRatio": 1.7778
         },
@@ -90022,7 +90019,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey: proteína por dose e preço por 100 g de proteína",
         "paragraphs": [
-          "No cartão, o 80% HD é o mais barato por 100 g de proteína; o 100% HD e a Growth empatam no Pix. Preços de 18/10/2026 no cartão, sem o cupom; na Black Skull, o preço vale para qualquer forma de pagamento."
+          "Na cotação de 18/10/2026, o 80% HD tinha o menor custo por 100 g de proteína entre os wheys comparados. O 100% HD sem cupom e a Growth no Pix tinham valores próximos. A tabela usa cartão, sem cupom e sem frete; na Black Skull, o preço consultado era igual nas formas de pagamento."
         ],
         "comparisonTable": {
           "headers": [
@@ -90071,9 +90068,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey 100% HD ou Whey Concentrado da Growth",
         "paragraphs": [
-          "Sem cupom, eles empatam: R$ 26,66 por 100 g de proteína na Black Skull e R$ 26,34 na Growth, no Pix. São os dois mais procurados quando a busca é \"black skull ou growth whey\". No cartão, a Growth sobe para R$ 29,26.",
-          "Com o **CECILIA10**, o pote de 1,8 kg sai por R$ 251,91, ou **R$ 23,99 por 100 g de proteína** e R$ 5,04 por dose. A Black Skull passa na frente da Growth no Pix e no cartão.",
-          "A fórmula é diferente. O whey da Growth leva só proteína concentrada do soro do leite. O Whey 100% HD mistura proteína do soro (concentrada, isolada e hidrolisada), proteína concentrada de leite e peptídeos hidrolisados. A página da Black Skull chama esses peptídeos de colágeno hidrolisado; a lista de ingredientes diz só \"peptídeos hidrolisados\". Ou seja: nem toda a proteína do pote da Black Skull vem do soro do leite. Para quem quer só soro, prefira o 80% HD ou o da Growth; o 100% HD é para quem aceita o blend pelo menor preço com cupom."
+          "Nos preços de outubro, sem frete, os custos por 100 g de proteína eram próximos: R$ 26,66 no 100% HD da Black Skull, de 1,8 kg, sem cupom, e R$ 26,34 na Growth pelo Pix. No cartão, a Growth custava R$ 29,26 por 100 g.",
+          "Aplicando os 10% do **CECILIA10** ao preço de outubro, o pote Black Skull de 1,8 kg ficava em R$ 251,91: **R$ 23,99 por 100 g de proteína** e R$ 5,04 por dose. Nesse recorte, o custo ficava abaixo da Growth no Pix e no cartão, sem incluir frete.",
+          "A Growth usa proteína concentrada do soro do leite. O 100% HD combina proteínas do soro (concentrada, isolada e hidrolisada), proteína concentrada de leite e peptídeos hidrolisados. A página da Black Skull chama esses peptídeos de colágeno hidrolisado; a lista de ingredientes diz apenas “peptídeos hidrolisados”. Se você quer proteína só do soro, compare o 80% HD com a Growth; o 100% HD é um blend, e os preços dele estão na tabela acima."
         ],
         "images": [
           {
@@ -90089,7 +90086,7 @@ export const reviewsData: unknown[] = [
         "heading": "Whey 80% HD: o concentrado da Black Skull",
         "paragraphs": [
           "Quem quer o mesmo tipo de whey da Growth, só concentrado, tem na Black Skull o **Whey 80% HD**. A dose é igual à da Growth: 30 g de pó com 23 g de proteína. A lista de ingredientes traz proteína concentrada do soro do leite, aromatizante, goma xantana e sucralose.",
-          "O refil de 900 g sai mais barato que a Growth no Pix mesmo sem cupom, como mostra a tabela acima. Com o CECILIA10, cai para R$ 20,86 por 100 g de proteína, e o sabor banana fica ainda mais barato.",
+          "Nos preços de outubro, sem frete, o refil de 900 g tinha custo menor por 100 g de proteína que a Growth no Pix, mesmo sem cupom. Com o CECILIA10, o 80% HD de R$ 159,90 ficava em R$ 20,86 por 100 g de proteína; o sabor banana tinha preço menor, como mostra a tabela.",
           "O 80% HD só é vendido em refil de 900 g, e tinha três sabores em estoque na consulta: morango, banana e cookies. O chocolate e a baunilha estavam esgotados."
         ],
         "image": {
@@ -90103,7 +90100,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g nas duas lojas",
         "paragraphs": [
-          "As creatinas desta tabela têm 5 g de creatina por dose e um ingrediente só, creatina monohidratada. Preços no cartão, sem o cupom."
+          "As creatinas desta tabela declaram 5 g de creatina por dose e um único ingrediente, creatina monohidratada. Os preços são de outubro, no cartão, sem cupom e sem frete."
         ],
         "images": [
           {
@@ -90171,8 +90168,8 @@ export const reviewsData: unknown[] = [
           "Em parte. Os dois Creators estavam em promoção; como a loja não diz até quando, confira o preço no carrinho antes de decidir. Conta nossa, pelo preço de lista:"
         ],
         "bullets": [
-          "o **Creator refil de 500 g**, a R$ 59,90, continua mais barato que qualquer creatina da Growth;",
-          "o **Creator de 300 g**, a R$ 49,90, ganha dos potes da Growth no Pix, mas perde para o refil de 500 g da Growth."
+          "Pelo preço de lista de outubro, o **Creator refil de 500 g**, a R$ 59,90, tinha custo por 100 g inferior ao das creatinas Growth desta tabela, sem frete.",
+          "Nos mesmos preços, o **Creator de 300 g**, a R$ 49,90 de lista, tinha custo por 100 g abaixo dos potes Growth no Pix, mas acima do refil Growth de 500 g no Pix."
         ],
         "postParagraphs": [
           "A Black Skull vende ainda a Creatine Turbo, outra linha, com maltodextrina na dose: ela não entra nesta comparação."
@@ -90237,20 +90234,26 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "O **CECILIA10** tira 10% de qualquer item, inclusive dos que já estão em promoção. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e o código fica na [página do cupom da Black Skull](/cupons/black-skull).",
           "Na Black Skull, o mínimo do frete grátis é conferido depois dos descontos. Se o cupom deixar o carrinho abaixo do valor da sua região, o frete volta a ser cobrado. Preço e estoque mudam: confira no carrinho."
+        ],
+        "links": [
+          {
+            "label": "Ver regras e validade do cupom CECILIA10",
+            "href": "/cupons/black-skull"
+          }
         ]
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela de outubro, para quem paga no cartão a escolha é a Black Skull no whey e na creatina, porque ganha por 100 g nas duas.",
+        "emphasis": "Nos preços de outubro, sem frete, a Black Skull tinha o menor custo por 100 g de proteína e de creatina entre os produtos comparados pelo preço no cartão.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
         ],
         "bullets": [
-          "**Quer o menor preço por grama de proteína:** Whey 80% HD da Black Skull, a R$ 23,17 por 100 g sem cupom e R$ 20,86 com o CECILIA10.",
+          "**Menor custo por grama de proteína, em outubro:** Whey 80% HD da Black Skull, R$ 23,17 por 100 g sem cupom ou R$ 20,86 com CECILIA10, sem frete.",
           "**Quer whey só de soro do leite:** Whey 80% HD da Black Skull ou Whey Concentrado da Growth, com a mesma dose de 30 g e 23 g de proteína.",
-          "**Quer o Whey 100% HD:** com o cupom, ele sai mais barato que a Growth por grama de proteína; sem cupom, empata com a Growth no Pix.",
-          "**Quer a creatina mais barata:** Creator refil de 500 g da Black Skull, a R$ 0,40 por dose. O refil não vem com dosador.",
+          "**Quer o Whey 100% HD:** com o CECILIA10, ele sai por menos grama de proteína que a Growth, no Pix ou no cartão; sem cupom, fica perto da Growth no Pix.",
+          "**Menor custo de creatina em outubro:** Creator refil de 500 g da Black Skull, R$ 0,40 por dose antes do cupom, sem frete. O refil não vem com dosador.",
           "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 10% mais caro que o Pix. Na Black Skull, o preço não muda."
         ],
         "postParagraphs": [
@@ -90260,9 +90263,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Black Skull ou Growth: qual é melhor? Pelo rótulo e pelos preços de outubro, a Black Skull sai mais barata na creatina e, com o cupom CECILIA10, também no whey. Sem cupom, o Whey 100% HD e o whey da Growth no Pix empatam por grama de proteína.",
-          "Qual o melhor whey, Black Skull ou Growth? Pelo preço por 100 g de proteína em outubro, o Whey 80% HD da Black Skull. O Whey 100% HD e o Whey Concentrado da Growth vêm logo atrás, como mostram as tabelas de whey.",
-          "Qual a melhor creatina, Black Skull ou Growth? As duas vendem creatina monohidratada com 5 g por dose. Nos preços de outubro, a Black Skull leva, como mostra a tabela de creatina.",
+          "Black Skull ou Growth: qual é melhor? Nos preços de outubro, sem frete, a Black Skull tinha menor custo na creatina e, com CECILIA10, também no whey. Sem cupom, o 100% HD e a Growth no Pix tinham custos próximos por grama de proteína. Fórmula e frete também pesam na escolha.",
+          "Qual whey tinha menor custo, Black Skull ou Growth? Nos preços de outubro, o 80% HD da Black Skull tinha o menor preço por 100 g de proteína, sem frete. Isso não compara sabor, digestão nem resultado de uso.",
+          "Qual creatina tinha menor custo, Black Skull ou Growth? Nos preços de outubro, sem frete, o Creator refil de 500 g tinha o menor custo entre os produtos da tabela. Todos os comparados declaram creatina monohidratada e 5 g por dose.",
           "Black Skull é boa? Esta comparação responde só por rótulo e preço. Quem é a marca, o site oficial e as trocas estão em [Black Skull é confiável?](/reviews/black-skull-e-confiavel).",
           "A Growth tem cupom? Não temos cupom da Growth, porque ela não é parceira do site. Na loja dela, o Pix sai cerca de 10% mais barato que o cartão.",
           "Vale esperar a Black Friday? O CECILIA10 soma com as promoções do site. Os preços deste guia são de antes de novembro; a Black Friday da Black Skull tem guia próprio: [Black Friday Black Skull](/reviews/black-friday-black-skull)."
@@ -102697,7 +102700,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Nos preços de outubro, a Black Skull sai mais barata que a Dux no whey e na creatina, pelo preço no cartão. Só a Dux declara o selo Creapure e vende isolado. O que muda a decisão é o tipo de whey e de creatina que você quer, e os preços podem mudar."
+          "Nos preços de outubro, a Black Skull sai mais barata que a Dux no custo por 100 g de whey e de creatina no cartão. Só a Dux declara o selo Creapure e vende whey isolado nesta comparação. A decisão depende da prioridade: menor preço por grama ou isolado e Creapure declarado."
         ]
       },
       {
@@ -102802,7 +102805,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey 100% HD ou Whey Concentrado de 1,8 kg",
         "paragraphs": [
-          "Entre os potes de 1,8 kg, o 100% HD sai mais barato por 100 g de proteína, mas leva blend. Os dois potes têm 1,8 kg. O [Whey 100% HD de 1,8 kg da Black Skull](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p) sai a R$ 279,90, com 50 doses de 35 g e 21 g de proteína por dose: R$ 26,66 por 100 g de proteína, ou R$ 23,99 com o CECILIA10. A Dux Concentrado de 1,8 kg sai a R$ 647,90 no cartão e R$ 615,51 no Pix, com 60 doses de 30 g: R$ 53,99 e R$ 51,29 por 100 g de proteína. Entre os potes da Dux, o de 1,8 kg é o mais barato por grama de proteína.",
+          "Nos potes de 1,8 kg comparados, o Whey 100% HD da Black Skull teve menor custo por 100 g de proteína. A diferença de fórmula importa: ele é um blend, enquanto a Dux declara concentrado sem blend. Entre os concentrados da Dux da tabela, o pote de 1,8 kg teve o menor custo por grama de proteína.",
           "A fórmula é diferente. O 100% HD mistura WPC, WPI e WPH, além de peptídeos hidrolisados e proteína concentrada de leite. No texto de venda, a Black Skull chama os peptídeos de colágeno hidrolisado; a lista de ingredientes diz só peptídeos hidrolisados. Ou seja: nem toda a proteína desse pote vem do soro do leite. A página da Dux diz que o concentrado não tem blend."
         ]
       },
@@ -102944,7 +102947,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela, para quem compra pelo menor preço por grama a escolha é a Black Skull, porque ela sai mais barata no whey e na creatina; para quem quer isolado ou Creapure declarado, a escolha é a Dux.",
+        "emphasis": "Pelos números da tabela, para quem prioriza o menor preço por 100 g de proteína e de creatina, com economia ampliada pelo cupom CECILIA10, a escolha é a Black Skull; para quem busca whey isolado ou creatina com o selo Creapure declarado, a escolha é a Dux.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços de outubro:"
@@ -122485,7 +122488,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Se você quer o menor preço por grama, o Creator refil de 500 g é a escolha na Black Skull. Veja as creatinas lado a lado e qual pote compensa pelo preço por dose.",
+    "description": "Creator, Creatine ou Turbo? Compare o custo por 100 g de creatina e a composição de cada pote. Entre os avulsos, o Creator refil de 500 g tinha o menor custo.",
     "metaDescription": "Creatina Black Skull com o CECILIA10 e 10% OFF: Creator, Creatine ou Turbo, com o preço por 100 g de creatina e por dose, e qual pote compensa.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
@@ -122499,7 +122502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual creatina da Black Skull comprar",
         "paragraphs": [
-          "Se você quer só creatina pelo menor preço por grama, o Creator refil de 500 g é a escolha na Black Skull. A Creatine traz os mesmos ingredientes no rótulo por quase o dobro do preço, e a Creatine Turbo leva maltodextrina. O que pesa é o tamanho do pote e querer carboidrato junto; veja abaixo."
+          "Se você quer só creatina, o Creator refil de 500 g tinha o menor preço por grama entre as avulsas da Black Skull. Creator e Creatine sem sabor listam creatina monohidratada; o Turbo acrescenta maltodextrina. Para 1 kg, compare os kits à parte, pois o volume de compra muda a conta."
         ]
       },
       {
@@ -122513,7 +122516,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As creatinas da Black Skull lado a lado: preço por 100 g de creatina",
         "paragraphs": [
-          "Na conta por 100 g de creatina, o Creator refil de 500 g é o mais barato e a Caps, a mais cara. A ordem é a de mais vendidos do site da Black Skull em 23/10/2026, na busca por \"creatina\", só as creatinas avulsas, sem kits nem os outros aminoácidos. O preço por 100 g de creatina é o preço de venda dividido pela creatina que o pote tem, e o preço por dose é o preço dividido pelas doses do rótulo. Conta nossa, sobre os dados da página de cada produto."
+          "Na conta por 100 g de creatina, o Creator refil de 500 g é o mais barato e a Caps, a mais cara. A ordem é a de mais vendidos da busca por “creatina” no site da Black Skull em 23/10/2026, só creatinas avulsas, sem kits nem outros aminoácidos. O custo por 100 g usa a creatina declarada no pote; o custo por dose usa o preço dividido pelas doses do rótulo."
         ],
         "comparisonTable": {
           "headers": [
@@ -122587,17 +122590,18 @@ export const reviewsData: unknown[] = [
               "R$ 26,60",
               "R$ 1,33"
             ]
-          ]
+          ],
+          "caption": "Preços de venda, sem frete e sem cupom. Custos calculados pela creatina declarada no pote, não pelo peso total de pó. Turbo 150 g: conta pela ficha de 10 g, com divergência de rótulo explicada abaixo."
         },
         "postParagraphs": [
-          "Com o CECILIA10 (10% sobre o preço de venda), o preço por 100 g de creatina fica: Creator refil 500 g, R$ 7,18; Creator 300 g, R$ 8,97; Creatine 300 g, R$ 12,57; Creatine refil 500 g, R$ 14,20; Turbo refil 500 g, R$ 17,96; Turbo 150 g, R$ 21,53; Turbo 300 g e Creatine 150 g, R$ 23,94 cada; Caps, R$ 59,90. Por dose, o Creator refil cai de R$ 0,40 para R$ 0,36.",
-          "Em promoção: Creator refil 500 g, de R$ 59,90 por R$ 39,90; Creator 300 g, de R$ 49,90 por R$ 29,90; Creatine 300 g, de R$ 49,90 por R$ 41,90; Turbo 150 g sem sabor, de R$ 29,90 por R$ 17,94. Os preços mudam com as promoções da loja.",
+          "Aplicar os 10% de CECILIA10 aos preços da tabela reduz cada custo na mesma proporção: o Creator refil 500 g cai para R$ 7,18 por 100 g de creatina, e o Turbo refil 500 g, para R$ 17,96. Por dose, o Creator refil passa de R$ 0,40 para R$ 0,36.",
+          "Alguns preços da tabela estavam em promoção; o preço riscado mostra a referência, e os valores mudam com as promoções da loja. Confira o preço no carrinho antes de comprar.",
           "Os sabores laranja e limão do Creatine 300 g estavam ao mesmo preço do sem sabor, mas o pote com sabor rende 50 doses, contra 60 do sem sabor. Do Turbo, estavam à venda os sabores laranja e uva no pote de 300 g e só o sem sabor no pote de 150 g."
         ],
         "images": [
           {
             "src": "/images/reviews/black-skull/creatina-black-skull-preco-por-100g.webp",
-            "alt": "Quadro com o preço por 100 g de creatina de cada produto da Black Skull em 23/10/2026, do Creator refil de 500 g, R$ 7,98, à Creatine Caps, R$ 66,56",
+            "alt": "Quadro com o preço por 100 g de creatina de cada produto da Black Skull, do Creator refil de 500 g, R$ 7,98, à Creatine Caps, R$ 66,56",
             "caption": "Quadro: Em Casa com Cecília, com os preços do site.",
             "objectFit": "wide",
             "aspectRatio": 1.7778
@@ -122607,9 +122611,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creator ou Creatine: a página não explica a diferença",
         "paragraphs": [
-          "As duas linhas aparecem com a mesma lista de ingredientes (\"creatina monohidratada\"), a mesma porção (1 dosador de 5 g) e o mesmo número de notificação nas páginas lidas. O preço não é o mesmo: o [refil de 500 g da Creatine](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-refil500g/p) custa R$ 78,90 e o do Creator, R$ 39,90, quase o dobro. A página da loja não explica o motivo, e não dá para dizer pelo rótulo que um produto é melhor que o outro.",
+          "Creator e Creatine sem sabor têm a mesma lista de ingredientes (creatina monohidratada), a mesma porção de 5 g e o mesmo número de notificação. O [refil de 500 g da Creatine](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-refil500g/p) custa R$ 78,90 e o do Creator, R$ 39,90, quase o dobro. A página não explica a diferença, e o rótulo não permite dizer qual tem melhor qualidade.",
           "Pela conta do rótulo, o Creator refil de 500 g é a opção mais barata por grama de creatina da marca. O Creator de 300 g também sai na frente do [Creatine de 300 g](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p): R$ 9,97 contra R$ 13,97 por 100 g. Quem quer só creatina monohidratada e decide pelo preço fica com o Creator.",
-          "Modo de consumo: a página manda 1 dosador (5 g) em água, uma vez ao dia, ou o que um nutricionista ou outro profissional da saúde orientar. No refil de 500 g do Creator, a ficha avisa que o refil não acompanha o dosador. Na linha Creator, a página avisa que o produto pode conter amendoim e derivados de soja, leite, ovo e trigo, e que não contém lactose nem glúten."
+          "Na página, o modo de consumo indica 1 dosador de 5 g em água, uma vez ao dia, ou o que um nutricionista ou outro profissional da saúde orientar. O refil Creator 500 g avisa que não acompanha dosador. Na linha Creator, o aviso diz que pode conter amendoim e derivados de soja, leite, ovo e trigo, e que não contém lactose nem glúten. Confira as instruções e os avisos da embalagem que você vai comprar."
         ],
         "images": [
           {
@@ -122625,9 +122629,11 @@ export const reviewsData: unknown[] = [
         "heading": "Creatine Turbo: o que muda com a maltodextrina",
         "paragraphs": [
           "O Turbo é a única linha com carboidrato na lista de ingredientes. Pela tabela nutricional dos potes de 300 g e do refil de 500 g, a porção é de 10 g (2 dosadores): 5 g de creatina, 5 g de carboidratos e 20 kcal. A ficha manda diluir os 2 dosadores em 300 ml de água, uma vez ao dia.",
-          "Na conta, isso pesa. Você paga o pote inteiro, mas a creatina é metade de cada dose. O Turbo de 300 g sai a R$ 26,60 por 100 g de creatina e o refil de 500 g, a R$ 19,96. O Creator refil de 500 g sai a R$ 7,98: o Turbo de 500 g custa 2,5 vezes mais por grama de creatina, e o de 300 g, 3,3 vezes. Quem quer só creatina paga mais por grama no Turbo. Quem já escolheu o pó da linha Turbo fica mais bem servido, pelo preço, com o refil de 500 g.",
-          "**Turbo de 150 g: a ficha e a tabela não batem.** O [Turbo de 150 g](https://www.blackskullusa.com.br/creatine-turbo--150g/p) tem duas leituras. A ficha da página diz para diluir 2 dosadores (10 g), e a tabela acima usa essa ficha: 15 doses, 5 g de creatina por dose, 75 g de creatina no pote. A tabela nutricional que aparece como imagem na mesma página traz outra versão: porção de 6 g (1 dosador), 25 doses e 3 g de creatina. A própria página explica: a recomendação de consumo diário passou de 3 g para 5 g de creatina, e por isso os rótulos foram atualizados com o novo número de doses. O preço por 100 g de creatina é o mesmo nas duas contas, R$ 23,92. Muda o número de doses e o preço por dose: R$ 1,20 pela ficha e R$ 0,72 pela tabela com 6 g.",
-          "**Ingredientes dos sabores, como a loja lista.** Turbo com sabor: creatina monohidratada, maltodextrina, acidulante ácido cítrico, aromatizante, corante (urucum no laranja, clorofila no limão, vermelho ponceau e azul indigotina no uva) e edulcorante sucralose. O refil de 500 g do Turbo pode conter leite, ovo, amendoim, soja, trigo e derivados. Creatine com sabor, no pote de 300 g: creatina monohidratada, acidulante ácido málico, antiumectante dióxido de silício, aromatizante, corante (urucum e norbixina no laranja, clorofila e sais de cobre no limão) e edulcorante sucralose. Os potes sem sabor listam só a creatina, ou a creatina e a maltodextrina no Turbo. A dose do Creatine com sabor é de 6 g, com os mesmos 5 g de creatina, e o pote rende 50 doses: R$ 16,76 por 100 g de creatina e R$ 0,84 por dose, contra R$ 13,97 e R$ 0,70 do sem sabor. As contas da tabela são do sem sabor."
+          "No Turbo, a creatina é metade do pó declarado em cada porção. Por isso, compare o custo pela creatina, não pelos 300 g ou 500 g totais da embalagem. Nos preços de referência, o refil Turbo 500 g tinha o menor custo da linha, mas ainda ficava mais caro por grama de creatina que o Creator refil.",
+          "**Turbo de 150 g: a ficha e a tabela não batem.** O [Turbo de 150 g](https://www.blackskullusa.com.br/creatine-turbo--150g/p) tem duas leituras. A ficha da página diz para diluir 2 dosadores (10 g), e a tabela acima usa essa ficha: 15 doses, 5 g de creatina por dose, 75 g de creatina no pote. A tabela nutricional da página traz outra versão: porção de 6 g (1 dosador), 25 doses e 3 g de creatina. A própria página explica: a recomendação de consumo diário passou de 3 g para 5 g de creatina, e por isso os rótulos foram atualizados com o novo número de doses. O preço por 100 g de creatina é o mesmo nas duas contas, R$ 23,92. Muda o número de doses e o preço por dose: R$ 1,20 pela ficha e R$ 0,72 pela tabela com 6 g.",
+          "**Ingredientes dos sabores Turbo, como listados pela loja:** creatina monohidratada, maltodextrina, acidulante ácido cítrico, aromatizante, corante e sucralose. Os corantes variavam: urucum no laranja, clorofila no limão, vermelho ponceau e azul indigotina no uva. O refil de 500 g do Turbo pode conter leite, ovo, amendoim, soja, trigo e derivados.",
+          "**Creatine com sabor, pote 300 g:** creatina monohidratada, ácido málico, dióxido de silício, aromatizante, corante e sucralose. Laranja listava urucum e norbixina; limão, clorofila e sais de cobre. As versões sem sabor listavam creatina, ou creatina e maltodextrina no Turbo.",
+          "A Creatine com sabor declarava porção de 6 g com 5 g de creatina e 50 porções, enquanto o sem sabor declarava 60 porções de 5 g. Nos preços de referência, as duas tinham o mesmo valor de pote: a versão com sabor rendia menos creatina total."
         ],
         "images": [
           {
@@ -122642,11 +122648,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual tamanho compensa, por linha",
         "paragraphs": [
-          "**Creator: o refil de 500 g.** O [refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) sai a R$ 7,98 por 100 g de creatina, contra R$ 9,97 no [pote de 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p), 20% menos por grama. São 100 doses de 5 g, ou 100 dias no uso de uma dose ao dia da ficha. O pote de 300 g só ganha no preço de entrada: R$ 29,90 contra R$ 39,90.",
-          "**Creatine: o pote de 300 g.** Aqui a conta inverte. O pote de 300 g sai a R$ 13,97 por 100 g de creatina e o refil de 500 g, a R$ 15,78. O [de 150 g](https://www.blackskullusa.com.br/creatine--creatina-monohidratada--150g/p), a R$ 26,60, é o mais caro por grama das três gramagens.",
-          "**Turbo: o refil de 500 g.** O [Creatine Turbo refil de 500 g](https://www.blackskullusa.com.br/creatine-turbo-refil--500g/p) sai a R$ 19,96 por 100 g de creatina, contra R$ 26,60 do pote de 300 g e R$ 23,92 do de 150 g sem sabor, que estava em promoção.",
-          "**Caps: a mais cara por grama.** A Creatine Caps tem 90 cápsulas, e a ficha indica 3 cápsulas (3,5 g) por dia, com 3 g de creatina por porção e 30 porções. Sai a R$ 66,56 por 100 g de creatina, mais de oito vezes o Creator refil. A página não explica os 0,5 g a mais por porção em relação à creatina.",
-          "**E 1 kg?** O kit mais próximo é o [Combo Creatina Creator com 2 refis de 500 g](https://www.blackskullusa.com.br/2-creatina-monohidratada-refil-500g/p), R$ 75,81 (em promoção, de R$ 119,80 por R$ 75,81). Dá 1.000 g de creatina a R$ 7,58 por 100 g, ou R$ 6,82 com o CECILIA10. Dois refis avulsos custam R$ 79,80, então o kit sai R$ 3,99 mais barato. O [kit de 2 refis com coqueteleira](https://www.blackskullusa.com.br/kit-2-unidades-creatina-monohidratada-500g/p), R$ 94,72 (em promoção, de R$ 139,70 por R$ 94,72), leva a coqueteleira no preço e sai a R$ 9,47 por 100 g. O [kit com 3 potes de Creatine de 150 g](https://www.blackskullusa.com.br/kit-3-unidades-creatina-150g/p), R$ 113,72 (em promoção, de R$ 119,70 por R$ 113,72), sai a R$ 25,27 por 100 g pela tabela nutricional, que traz 5 g por porção; a descrição curta do kit diz 3.000 mg por dose, e a conta usa a tabela."
+          "**Creator: refil de 500 g ou pote de 300 g.** O [refil de 500 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--500g--refil/p) sai a R$ 7,98 por 100 g de creatina, contra R$ 9,97 no [pote de 300 g](https://www.blackskullusa.com.br/creator--creatina-monohidratada--300g/p), 20% menos por grama. São 100 doses de 5 g, e o refil não acompanha dosador. O pote de 300 g só ganha no preço de entrada: R$ 29,90 contra R$ 39,90.",
+          "**Creatine: pote de 300 g.** O pote de 300 g sai a R$ 13,97 por 100 g de creatina, e o refil de 500 g, a R$ 15,78. O [de 150 g](https://www.blackskullusa.com.br/creatine--creatina-monohidratada--150g/p), a R$ 26,60, é o mais caro por grama das três gramagens.",
+          "**Turbo: refil de 500 g.** O [Creatine Turbo refil de 500 g](https://www.blackskullusa.com.br/creatine-turbo-refil--500g/p) sai a R$ 19,96 por 100 g de creatina, contra R$ 26,60 do pote de 300 g e R$ 23,92 do de 150 g sem sabor, que estava em promoção.",
+          "**Caps: a mais cara por grama.** A Creatine Caps tem 90 cápsulas; a ficha indica 3 cápsulas (3,5 g) por dia, com 3 g de creatina por porção e 30 porções. Sai a R$ 66,56 por 100 g de creatina, mais de oito vezes o Creator refil.",
+          "**E 1 kg?** O kit mais próximo é o [Combo Creatina Creator com 2 refis de 500 g](https://www.blackskullusa.com.br/2-creatina-monohidratada-refil-500g/p), a R$ 75,81 (de R$ 119,80, em promoção). Dá 1.000 g de creatina a R$ 7,58 por 100 g, ou R$ 6,82 com o CECILIA10. Dois refis avulsos custam R$ 79,80, então o kit sai R$ 3,99 mais barato.",
+          "O [kit de 2 refis com coqueteleira](https://www.blackskullusa.com.br/kit-2-unidades-creatina-monohidratada-500g/p), R$ 94,72 (de R$ 139,70, em promoção), leva a coqueteleira no preço e sai a R$ 9,47 por 100 g.",
+          "O [kit com 3 potes de Creatine de 150 g](https://www.blackskullusa.com.br/kit-3-unidades-creatina-150g/p), R$ 113,72 (de R$ 119,70, em promoção), sai a R$ 25,27 por 100 g, com 5 g de creatina por porção pela tabela nutricional. A descrição curta do kit fala em 3.000 mg por dose, o que diverge da tabela."
         ]
       },
       {
@@ -122665,25 +122673,25 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual creatina escolher",
-        "emphasis": "Pelos números da tabela, para quem quer só creatina pelo menor preço a escolha é o Creator refil de 500 g, porque sai a R$ 7,98 por 100 g de creatina, o menor número da linha.",
+        "emphasis": "Entre os avulsos, o Creator refil 500 g tem o menor custo: R$ 7,98 por 100 g de creatina. Para 1 kg, compare o kit simples, que é outro volume de compra.",
         "bullets": [
-          "Só creatina, pelo menor preço: Creator refil de 500 g, R$ 7,98 por 100 g de creatina e R$ 0,40 por dose.",
-          "Pote menor: Creator de 300 g, R$ 29,90, a R$ 9,97 por 100 g e R$ 0,50 por dose.",
-          "Creatina com carboidrato na mesma dose: Creatine Turbo refil de 500 g, R$ 19,96 por 100 g de creatina, com 5 g de creatina e 5 g de carboidrato em cada dose de 10 g.",
-          "Creatine em vez de Creator: só se você preferir o produto, porque a página não explica a diferença e o preço por grama é maior.",
-          "Selo Creapure: a página não declara."
+          "**Somente creatina, em compra avulsa:** Creator refil 500 g, R$ 7,98 por 100 g de creatina e R$ 0,40 por dose.",
+          "**Menor desembolso dentro de Creator:** pote de 300 g, R$ 29,90, a R$ 9,97 por 100 g e R$ 0,50 por dose. Custa menos para comprar, embora mais por grama.",
+          "**Creatina e carboidrato no mesmo pó:** Creatine Turbo refil de 500 g, R$ 19,96 por 100 g de creatina, com 5 g de creatina e 5 g de carboidrato em cada dose de 10 g.",
+          "**Creatine em vez de Creator:** o preço por grama é maior, e a página não explica a diferença de produto.",
+          "**Selo Creapure:** a página não declara; confirme com a marca se esse selo é requisito para você."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a diferença entre a creatina Creator e a Creatine da Black Skull? As páginas trazem os mesmos ingredientes e a mesma porção de 5 g, e o refil de 500 g da Creatine custa quase o dobro do Creator (R$ 78,90 contra R$ 39,90). A página da loja não explica a diferença.",
+          "Qual a diferença entre Creator e Creatine da Black Skull? As duas listam creatina monohidratada e a mesma porção de 5 g. O preço é diferente, e a página não explica o motivo; o rótulo, sozinho, não diz qual tem melhor qualidade.",
           "Creatina Black Skull Turbo ou monohidratada: qual escolher? Quem quer só creatina fica com a monohidratada (Creator ou Creatine); o Turbo traz 5 g de creatina e 5 g de carboidrato em cada dose de 10 g e sai bem mais caro por grama de creatina.",
           "A creatina Black Skull Turbo é pura? Não é só creatina: a lista de ingredientes diz \"creatina monohidratada e maltodextrina\", e a tabela mostra 5 g de creatina e 5 g de carboidratos por porção de 10 g.",
-          "A creatina Black Skull Turbo engorda? A página não faz essa afirmação, e a tabela mostra 20 kcal e 5 g de carboidratos por porção de 10 g. Se você tem meta de peso ou de dieta, fale com um nutricionista.",
+          "A creatina Black Skull Turbo engorda? O rótulo informa 20 kcal e 5 g de carboidratos por porção de 10 g. Esses números, sozinhos, não mostram o efeito na sua dieta; se você tem meta de peso, fale com um nutricionista.",
           "A creatina da Black Skull tem selo Creapure? A página não declara o selo, e a busca por \"creapure\" no site da loja não devolve produto.",
-          "A creatina de 1 kg da Black Skull compensa? O kit com 2 refis de 500 g do Creator sai a R$ 75,81, R$ 7,58 por 100 g de creatina, R$ 3,99 menos do que dois refis avulsos.",
-          "Qual a creatina da Black Skull mais barata? Pela conta do rótulo e do preço, o Creator refil de 500 g, a R$ 7,98 por 100 g de creatina, ou R$ 7,18 com o CECILIA10.",
+          "A creatina de 1 kg da Black Skull compensa? O kit com 2 refis de 500 g do Creator sai a R$ 75,81, R$ 7,58 por 100 g de creatina, R$ 3,99 menos que dois refis avulsos. Confira o total e o frete antes de comprar.",
+          "Qual creatina da Black Skull é a mais barata? Entre as avulsas, o Creator refil de 500 g, a R$ 7,98 por 100 g de creatina, ou R$ 7,18 com o CECILIA10. O kit simples de dois refis sai ainda mais barato por grama, mas exige comprar 1 kg.",
           "Quantas doses tem o pote de 300 g da creatina Black Skull? 60 doses de 5 g no Creator e no Creatine sem sabor, e 30 doses de 10 g no Turbo, segundo as fichas.",
           "Como usar o cupom CECILIA10 na Black Skull? Cole o código na sacola do site oficial. O passo a passo, com os prints do carrinho, está em [Cupom Black Skull: como usar](/reviews/cupom-black-skull-como-usar)."
         ]
@@ -122709,7 +122717,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA10",
     "affiliate": "black-skull",
-    "editorialNote": "Não usamos os produtos. Podemos receber comissão pelo cupom CECILIA10.",
+    "editorialNote": "Não usamos os produtos; porções e preparo são informações de rótulo. Para adequação à sua dieta, consulte nutricionista ou médico. Podemos receber comissão pelo CECILIA10.",
     "relatedArticles": [
       {
         "slug": "black-skull-ou-max-titanium"
@@ -123478,7 +123486,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os pré-treinos da Black Skull pelo rótulo",
         "paragraphs": [
-          "A categoria Pré-treino da Black Skull tinha seis itens: o [Bone Crusher de 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula--150g/p), o [BOPE de 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bope-150g/p), o [kit de três BOPE de 150 g](https://www.blackskullusa.com.br/combo-pre-treino-bope-c-3-unid/p) e o [Legacy](https://www.blackskullusa.com.br/pre-treino-legacy/p). A diferença entre BOPE e Bone Crusher está principalmente em três números do rótulo: beta-alanina, arginina e carboidrato.",
+          "A comparação reúne o [Bone Crusher de 300 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bone-crusher-nova-formula--150g/p), o [BOPE de 300 g](https://www.blackskullusa.com.br/pre-treino-bope-300g/p) e o [de 150 g](https://www.blackskullusa.com.br/pre-treino-bope-150g/p), o [kit de três BOPE de 150 g](https://www.blackskullusa.com.br/combo-pre-treino-bope-c-3-unid/p) e o [Legacy](https://www.blackskullusa.com.br/pre-treino-legacy/p). A composição usa o Bone Crusher 150 g, exceto Uva.",
           "A tabela traz os valores por dose, como estão na tabela nutricional da página de cada produto. A creatina é de 3000 mg por dose no BOPE e no Bone Crusher 150 g, e de 2000 mg no Legacy. O carboidrato é de 2,2 a 2,3 g por dose no BOPE (a lista de ingredientes inclui maltodextrina), 0,9 g no Bone Crusher 150 g e 1,5 g no Legacy."
         ],
         "comparisonTable": {
@@ -123498,7 +123506,7 @@ export const reviewsData: unknown[] = [
               "350 mg"
             ],
             [
-              "Bone Crusher 150 g (7,5 g)",
+              "Bone Crusher 150 g, exceto Uva (7,5 g)",
               "140 mg",
               "2 g",
               "500 mg",
@@ -123514,7 +123522,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O BOPE de 300 g e o de 150 g têm a mesma tabela, e o Bone Crusher de 150 g tem a mesma tabela nos quatro sabores. No Bone Crusher 300 g, a página mostra a tabela nutricional só como imagem. Por isso, o texto usa dele apenas o que a página traz escrito: dose de 7,5 g, 40 doses por pote e a lista de ingredientes, que inclui beta-alanina, creatina, arginina, taurina e cafeína anidra.",
+          "O BOPE de 300 g e o de 150 g têm a mesma tabela, e o Bone Crusher de 150 g, exceto Uva, também. O Bone Crusher 300 g traz a tabela só como imagem; por isso, dele entram apenas 7,5 g, 40 doses e a lista de ingredientes, que inclui beta-alanina, creatina, arginina, taurina e cafeína anidra.",
           "Sabores à venda: o BOPE, em frutas amarelas, limão e frutas vermelhas; o Bone Crusher 300 g, em frutas vermelhas, limão, frutas amarelas e laranja com pimenta; o Legacy, em tropical mango."
         ],
         "images": [
@@ -123538,11 +123546,11 @@ export const reviewsData: unknown[] = [
         "heading": "BOPE ou Bone Crusher: o que muda no rótulo",
         "paragraphs": [
           "No rótulo, três números separam os dois: beta-alanina, arginina e carboidrato. Os do Bone Crusher são do rótulo do 150 g; o 300 g só tem a tabela em imagem, ainda não confirmada.",
-          "Dose e creatina: iguais. Os dois pedem uma dose de 7,5 g em 150 ml de água, uma vez ao dia, e declaram 3000 mg de creatina por dose.",
+          "Dose e creatina: iguais. BOPE e Bone Crusher 150 g, exceto Uva, declaram 7,5 g e 3000 mg de creatina por dose.",
           "Cafeína: 135 mg no BOPE e 140 mg no Bone Crusher (rótulo do 150 g). A diferença é de 5 mg por dose.",
           "Beta-alanina: 750 mg no BOPE e 2 g no Bone Crusher, a maior diferença da tabela. Arginina: 150 mg no BOPE e 500 mg no Bone Crusher. Taurina: 350 mg e 370 mg.",
           "Carboidrato: 2,2 a 2,3 g por dose no BOPE e 0,9 g no Bone Crusher. A lista de ingredientes do BOPE traz maltodextrina; a do Bone Crusher, não. O Bone Crusher declara açúcar zero.",
-          "Número de doses: os dois vêm em 300 g, com 40 doses, e em 150 g, com 20. É no preço por dose que eles se separam, como mostra o próximo capítulo.",
+          "Número de doses: os potes de 300 g têm 40 doses de 7,5 g e os de 150 g, 20. O Bone Crusher Uva 150 g é a exceção: a imagem do rótulo indica 30 doses de 5 g, e a página, 20 de 7,5 g. É no preço por dose que eles se separam, como mostra o próximo capítulo.",
           "Se a ideia é montar a rotina com a creatina à parte, o artigo irmão deste, [creatina Black Skull: qual escolher](/reviews/creatina-black-skull-qual-escolher), compara os potes por dose. O BOPE e o Bone Crusher 150 g já trazem 3000 mg de creatina por dose no rótulo."
         ],
         "images": [
@@ -123598,7 +123606,7 @@ export const reviewsData: unknown[] = [
               "R$ 1,57"
             ],
             [
-              "Bone Crusher 150 g",
+              "Bone Crusher 150 g, exceto Uva",
               "7,5 g, 20 doses",
               "R$ 44,90",
               "R$ 2,25",
@@ -123623,7 +123631,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pré-treino da Black Skull sem cafeína existe?",
         "paragraphs": [
-          "Não, no catálogo lido em outubro. A Black Skull não vendia nenhum pré-treino sem cafeína: a busca do site por \"sem cafeina\" volta \"não encontrado\", e os seis itens da categoria Pré-treino têm cafeína no rótulo. As buscas por \"caffeine free\" ou por um Bone Crusher sem cafeína não correspondem a produto à venda.",
+          "Não, no catálogo de outubro. A Black Skull não vendia nenhum pré-treino sem cafeína: a busca do site por \"sem cafeina\" volta \"não encontrado\", e os seis itens da categoria Pré-treino têm cafeína no rótulo. As buscas por \"caffeine free\" ou por um Bone Crusher sem cafeína não correspondem a produto à venda.",
           "Para conferir qualquer pré-treino, veja a tabela nutricional e a lista de ingredientes da página do produto. Nos da Black Skull, a cafeína aparece na lista como cafeína anidra ou apenas cafeína, e a quantidade por dose está na tabela."
         ]
       },
@@ -123645,13 +123653,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Aviso e modo de uso da loja",
         "paragraphs": [
-          "As páginas do BOPE, do Bone Crusher e do Legacy trazem a recomendação para adultos acima de 19 anos. O modo de uso do BOPE e do Bone Crusher é uma dose de 7,5 g em 150 ml de água, uma vez ao dia, e o do Legacy, dois dosadores (10 g) em 150 ml. As páginas do BOPE e do Bone Crusher pedem para consumir logo após o preparo; a do Bone Crusher 300 g, para não exceder a dose da embalagem; todas, para seguir a orientação de um profissional.",
+          "As páginas do BOPE, do Bone Crusher e do Legacy trazem a recomendação para adultos acima de 19 anos. O BOPE e o Bone Crusher pedem 7,5 g em 150 ml de água uma vez ao dia, e o Legacy, dois dosadores (10 g) em 150 ml. As páginas do BOPE e do Bone Crusher pedem consumo logo após o preparo; a do Bone Crusher 300 g, para não exceder a dose da embalagem; todas, para seguir a orientação de um profissional.",
           "As páginas do BOPE e do Bone Crusher dizem que o consumo deve estar associado a uma alimentação equilibrada e à prática de exercícios. Quem tem alguma condição de saúde deve conversar com um médico ou nutricionista antes de comprar."
         ]
       },
       {
         "heading": "Qual escolher: BOPE ou Bone Crusher",
-        "emphasis": "Pelos números da tabela, para quem compra um pote só e quer o menor preço por dose a escolha é o BOPE 300 g, porque sai a R$ 1,62 por dose contra R$ 1,75 do Bone Crusher de 300 g.",
+        "emphasis": "Entre os potes avulsos comparados, o BOPE 300 g tem o menor preço por dose: R$ 1,62, contra R$ 1,75 do Bone Crusher 300 g. É comparação de preço, não de efeito.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "A escolha segue o que pesa para você no rótulo e no preço por dose."
@@ -123668,11 +123676,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "BOPE ou Bone Crusher: qual é melhor? Pelo rótulo do 150 g e pelo preço, o BOPE custa menos por dose e o Bone Crusher traz mais beta-alanina, mais arginina e menos carboidrato. Qual pesa mais é uma conta sua.",
-          "Bone Crusher é bom? O rótulo do 150 g declara 140 mg de cafeína, 2 g de beta-alanina e 3000 mg de creatina por dose de 7,5 g, com açúcar zero.",
-          "BOPE da Black Skull é bom? Ninguém do site usou o produto. O rótulo declara 135 mg de cafeína, 750 mg de beta-alanina e 3000 mg de creatina por dose de 7,5 g, a R$ 1,62 por dose no pote de 300 g.",
+          "Bone Crusher é bom? A tabela do 150 g, exceto Uva, declara 140 mg de cafeína, 2 g de beta-alanina e 3000 mg de creatina por dose de 7,5 g, com açúcar zero. Esses números não mostram o efeito para você.",
+          "BOPE da Black Skull é bom? A tabela declara 135 mg de cafeína, 750 mg de beta-alanina e 3000 mg de creatina por dose de 7,5 g; o pote de 300 g sai a R$ 1,62 por dose no site. Esses números não mostram o efeito para você.",
           "A Black Skull tem pré-treino sem cafeína? No catálogo de outubro, não. Nenhum item da categoria Pré-treino era sem cafeína, e a busca do site por \"sem cafeina\" não achava produto.",
           "Qual pré-treino da Black Skull tem menos cafeína? Pelo rótulo, o BOPE, com 135 mg por dose de 7,5 g, contra 140 mg do Bone Crusher 150 g e 200 mg do Legacy, de 10 g.",
-          "Quantas doses tem cada pote? O BOPE e o Bone Crusher têm 40 doses no pote de 300 g e 20 no de 150 g, e o Legacy de 300 g tem 30 doses.",
+          "Quantas doses tem cada pote? BOPE e Bone Crusher têm 40 doses no pote de 300 g e 20 no de 150 g, e o Legacy de 300 g tem 30 doses. O Bone Crusher Uva 150 g é a exceção: a imagem do rótulo indica 30 doses de 5 g; confirme no pote.",
           "Qual o cupom da Black Skull? É o CECILIA10, de 10% em todo o site, inclusive em itens em promoção. Veja as condições na [página do cupom](/cupons/black-skull)."
         ]
       }
@@ -123724,7 +123732,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Para pagar menos pela proteína, o Whey 80% HD Refil 900 g é o mais barato da Black Skull; para uso diário, vale o 100% HD. Veja a comparação por dose e preço por 100 g.",
+    "description": "Compare 80% HD, 100% HD, 3W Core, Gourmet e Turbo por composição, proteína declarada e custo de referência. O guia distingue versões e tamanhos.",
     "metaDescription": "O cupom CECILIA10 dá 10% OFF em todo o site da Black Skull. Whey Black Skull: qual escolher entre 80% HD, 100% HD, 3W Core, Gourmet e Turbo.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
@@ -123736,26 +123744,26 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "decision": {
       "takeIf": [
-        "Leve o 80% HD Refil 900 g se você quer pagar menos por proteína.",
-        "Leve o 100% HD, de preferência o de 1,8 kg, se você quer uma mistura de proteínas para o uso diário.",
-        "Leve o 3W Core se você quer uma dose com muita proteína: são 31 g por dose."
+        "Compare o 80% HD Refil 900 g se a prioridade é o custo por proteína declarada; ele tem o menor custo entre as versões comparadas.",
+        "Se prefere a composição do 100% HD, compare as gramagens: a embalagem de 1,8 kg tem menor custo por proteína nessa linha, mas exige maior compra.",
+        "Compare o 3W Core se procura a porção declarada de 31 g de proteína em 40 g de produto."
       ],
       "skipIf": [
-        "Passe na Black Skull se você procura whey isolado ou sem lactose: todos os wheys declaram \"Contém lactose\".",
+        "Passe na Black Skull se você procura whey isolado ou sem lactose: os wheys da linha declaram \"Contém lactose\".",
         "Passe no Gourmet e no Turbo se você escolhe pelo nome do pote: eles têm outra dose e outra conta."
       ]
     },
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Veja os wheys da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+      "text": "Compare a versão e o preço no site da Black Skull e aplique CECILIA10 no carrinho: 10% em qualquer forma de pagamento, também nas promoções. Confira o desconto e o total com frete antes de pagar.",
       "label": "Ir para a Black Skull",
       "url": "https://www.blackskullusa.com.br/",
       "sponsored": true
     },
     "coupon": "CECILIA10",
     "affiliate": "black-skull",
-    "editorialNote": "Não tomamos os wheys. Podemos receber comissão pelo cupom CECILIA10.",
+    "editorialNote": "Não tomamos os wheys; a comparação usa rótulos e preços da loja, sem laudo de proteína. Para adequação à sua dieta, consulte nutricionista ou médico. Podemos receber comissão pelo CECILIA10.",
     "relatedArticles": [
       {
         "slug": "melhor-whey-qual-escolher-por-objetivo"
@@ -123771,15 +123779,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey da Black Skull comprar",
         "paragraphs": [
-          "Para pagar menos pela proteína, o Whey 80% HD Refil 900 g é o mais barato da linha. Para uso diário, com mistura de proteínas, vale o 100% HD, de preferência o de 1,8 kg. O que muda a decisão é a proteína por dose; o capítulo de veredito, perto do fim, traz o whey de cada objetivo."
+          "O 80% HD Refil 900 g tem o menor custo por proteína entre as versões comparadas. Para uma mistura de proteínas, o 100% HD e o 3W Core pedem outra conta, porque dose, composição e volume da compra mudam. Os capítulos abaixo mostram cada escolha."
         ]
       },
       {
         "heading": "Como lemos a linha: preço por 100 g de proteína",
         "paragraphs": [
-          "A Black Skull vende 11 wheys e um kit de Turbo, e a diferença entre eles está em quatro coisas: quanto de proteína vem em cada dose, quanto custa a proteína (não o pote), o que a lista de ingredientes diz e o sabor, que só você escolhe.",
+          "A Black Skull vende 11 wheys e um kit de Turbo. A comparação considera proteína declarada por porção, custo dessa proteína, ingredientes e sabores cadastrados. O preço do pote sozinho não resume essas diferenças.",
           "O preço do pote engana porque dois potes de 900 g não têm a mesma quantidade de proteína dentro. A régua deste artigo é o preço por 100 g de proteína: preço ÷ (porções × proteína por porção) × 100, com a tabela nutricional do rótulo e o preço de venda de 23/10/2026. Exemplo com o 80% HD: o refil de 900 g tem 30 porções de 23 g de proteína, ou seja, 690 g de proteína. R$ 159,90 ÷ 690 × 100 = R$ 23,17 por 100 g de proteína.",
-          "Todos os wheys da linha declaram \"Contém lactose\": a Black Skull não tem whey isolado nem sem lactose no site."
+          "Todos os wheys da linha declaram \"Contém lactose\" no catálogo do site. Algumas fórmulas listam proteína isolada na mistura, o que não equivale a um whey vendido como isolado."
         ]
       },
       {
@@ -123829,7 +123837,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O pote de 900 g custava R$ 10,00 a mais que o refil, com a mesma tabela. O 1,8 kg é o menor preço por proteína da linha 100% HD, com R$ 26,66, mas pede R$ 279,90 de uma vez. Quem compra o refil de 900 g paga R$ 30,46.",
+          "Na linha 100% HD, o pote de 900 g custa mais que o refil com a mesma tabela nutricional. A embalagem de 1,8 kg tem o menor custo por proteína, mas exige maior desembolso. A tabela acima permite comparar as duas decisões: quanto você paga de uma vez e quanto paga pela proteína.",
           "Para ver o 100% HD ao lado de outra marca, leia [Black Skull ou Growth](/reviews/black-skull-ou-growth). O que a loja diz sobre o colágeno do 100% HD está no capítulo \"Atenção ao nome\"."
         ],
         "image": {
@@ -123841,14 +123849,14 @@ export const reviewsData: unknown[] = [
         }
       },
       {
-        "heading": "80% HD: o mais barato por proteína da linha",
+        "heading": "80% HD: o menor custo por proteína, com preço que varia por sabor",
         "paragraphs": [
-          "O [Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) custava R$ 159,90, com 23 g de proteína em cada dose de 30 g (77%) e 30 porções. A conta dá R$ 23,17 por 100 g de proteína, o menor número da linha. A lista de ingredientes traz só WPC (proteína concentrada do soro do leite), e o produto contém lactose.",
-          "É o único whey da linha com preço diferente por sabor: o Banana saía a R$ 139,90, ou R$ 20,28 por 100 g de proteína. Morango e Cookies saíam a R$ 159,90. Chocolate e Baunilha estavam sem estoque.",
+          "O [Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p) declara 23 g de proteína em porção de 30 g, cerca de 77% do pó, com 30 porções. A lista traz WPC, proteína concentrada do soro do leite, e o produto contém lactose. A conta de referência usa o preço de Morango e Cookies; o sabor Banana custa menos, como explicado abaixo.",
+          "É o único whey da linha com preço diferente por sabor: Banana sai a R$ 139,90, ou R$ 20,28 por 100 g de proteína. Morango e Cookies custam R$ 159,90. Chocolate e Baunilha estavam sem estoque.",
           "O \"80\" do nome também não é o teor exato do pó: a tabela mostra 23 g em 30 g, cerca de 77%, e é essa conta que vale."
         ],
         "postParagraphs": [
-          "Contra o 100% HD Refil, que custa os mesmos R$ 159,90, a diferença é de R$ 7,29 por 100 g de proteína a favor do 80% HD (R$ 23,17 contra R$ 30,46). Em troca, a lista do 80% HD é mais simples: só WPC, sem isolado, hidrolisado nem peptídeos."
+          "Com o 100% HD Refil ao mesmo preço, o 80% HD tem menor custo pela proteína declarada. A composição também é diferente: o 80% HD lista só WPC, sem isolado, hidrolisado ou peptídeos. Isso descreve a fórmula, não comprova qualidade superior."
         ]
       },
       {
@@ -123857,7 +123865,7 @@ export const reviewsData: unknown[] = [
           "O 3W Core tem 31 g de proteína em 40 g; o 100% HD, 21 g em 35 g. Os dois misturam WPC, WPI e WPH, mas o rótulo é outro.",
           "O [3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p) pede dois dosadores por dose (77,5% de proteína no pó), tem 22 porções e custava R$ 279,90. A lista traz WPC, WPI e WPH, sem peptídeos. A conta dá R$ 41,04 por 100 g de proteína.",
           "O 100% HD Refil 900 g (60% de proteína no pó) tem 25 porções e custava R$ 159,90, com peptídeos hidrolisados e proteína concentrada de leite na lista. A conta dá R$ 30,46 por 100 g de proteína, R$ 10,58 a menos que o 3W Core.",
-          "Na prática, o 3W Core entrega mais proteína por dose (31 g contra 21 g) e custa mais por proteína. Se você quer uma dose com muita proteína, o 3W Core é o da linha. Se o que importa é o preço da proteína, o 100% HD sai mais barato."
+          "O 3W Core declara mais proteína por porção, mas também uma porção maior: 31 g em 40 g, contra 21 g em 35 g do 100% HD. Ele tem maior concentração de proteína no pó e custo maior por proteína. Compare esses critérios separadamente."
         ],
         "postParagraphs": [
           "A Max Titanium também vende um 3W, com outra conta de preço e de dose. A comparação está em [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium)."
@@ -123873,11 +123881,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sabor: o que a loja mostra e o que não mostra",
         "paragraphs": [
-          "A Black Skull não publica venda por sabor. O que o site mostra é a lista de sabores de cada whey, quais têm estoque e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. Por isso o sabor fica com você: escolha o que gosta, entre os que têm estoque na tabela.",
-          "Na ordem de produtos do site, considerando só wheys e o kit de Turbo, o 80% HD Refil 900 g vinha em primeiro, o 100% HD Refil 900 g em segundo e o 100% HD pote de 900 g em terceiro."
+          "A Black Skull não publica venda por sabor. O site mostra a lista de sabores de cada whey e quais têm estoque, e uma ordem de produtos mais vendidos, que ordena produtos e não sabores. O estoque da tabela pode mudar; antes de comprar, confira a versão que você quer e escolha o sabor que gosta.",
+          "Na ordem de produtos do site, considerando só wheys e o kit de Turbo, o 80% HD Refil 900 g aparece em primeiro, o 100% HD Refil 900 g em segundo e o 100% HD pote de 900 g em terceiro. É a posição na página, não uma contagem de vendas."
         ],
         "comparisonTable": {
-          "caption": "Sabores com estoque no site oficial. A ordem dos sabores é a do cadastro da loja.",
+          "caption": "Disponibilidade do site oficial; não representa estoque atual. A ordem dos sabores é a do cadastro da loja.",
           "headers": [
             "Produto",
             "Sabores com estoque",
@@ -123955,17 +123963,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quadro da linha: os 11 wheys e o kit de Turbo do site",
         "paragraphs": [
-          "Na mesma régua, o 80% HD Refil é o menor preço por proteína e o Gourmet 450 g, o maior. Todos declaram \"Contém lactose\". O número mais baixo não decide a compra sozinho: a dose, o tipo de proteína e o sabor mudam de produto para produto."
+          "O quadro compara o custo pela proteína declarada, não pelo peso total do pó. Na linha do 80% HD, o preço é o de Morango e Cookies; Banana tem preço menor. Composição, tamanho da porção e quantidade comprada continuam relevantes para decidir."
         ],
         "image": {
           "src": "/images/reviews/black-skull/whey-black-skull-preco-por-proteina.webp",
           "alt": "Quadro desenhado com o preço por 100 g de proteína dos wheys da Black Skull em 23/10/2026, do 80% HD Refil (R$ 23,17) ao Gourmet 450 g (R$ 47,17)",
-          "caption": "Quadro: Em Casa com Cecília, com os preços do site.",
+          "caption": "Quadro: Em Casa com Cecília. No 80% HD, o valor é o de Morango/Cookies; Banana tem valor menor, detalhado no texto.",
           "objectFit": "wide",
           "aspectRatio": 1.7778
         },
         "comparisonTable": {
-          "caption": "Preços de venda do site oficial, antes do cupom. R$ por 100 g de proteína: preço ÷ (porções × proteína por dose) × 100, com a tabela nutricional. O Turbo é hipercalórico: a conta é só de referência.",
+          "caption": "Preços de referência, sem frete ou cupom. Custo por 100 g de proteína = preço ÷ (porções × proteína declarada por porção) × 100. 80% HD: preço de Morango/Cookies; Banana é o caso separado. Turbo é hipercalórico, com conta apenas de referência.",
           "headers": [
             "Produto",
             "Dose e proteína por dose",
@@ -123975,7 +123983,7 @@ export const reviewsData: unknown[] = [
           ],
           "rows": [
             [
-              "80% HD Refil 900 g",
+              "80% HD Refil 900 g — preço de Morango/Cookies",
               "30 g, 23 g de proteína",
               "30",
               "R$ 159,90",
@@ -124063,55 +124071,38 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual whey da Black Skull para cada objetivo",
-        "emphasis": "Pelos números da tabela, para pagar menos pela proteína a escolha é o 80% HD Refil 900 g, porque sai a R$ 23,17 por 100 g de proteína, o menor número da linha.",
+        "emphasis": "O 80% HD Refil 900 g tem o menor custo por proteína da linha: R$ 23,17 por 100 g em Morango/Cookies e R$ 20,28 em Banana. O sabor muda o preço; refaça a conta com a oferta da versão que pretende comprar.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "Cada objetivo de compra leva um whey diferente. O R$ por 100 g de proteína é a conta que usamos no artigo inteiro, e a última coluna mostra o mesmo número com o cupom CECILIA10."
+          "Depois de comparar os rótulos, escolha o que quer priorizar: custo por proteína, composição, tamanho da embalagem ou quantidade de proteína declarada por porção. O resumo abaixo aponta para essas diferenças; os valores completos ficam no quadro da linha."
         ],
         "comparisonTable": {
-          "caption": "Preços de venda do site oficial, antes do cupom. R$ por 100 g de proteína: conta nossa, com a proteína por dose e as porções da tabela nutricional de cada rótulo. Com CECILIA10: preço menos 10%.",
+          "caption": "Resumo de critérios. Porções conforme o rótulo de cada produto.",
           "headers": [
-            "Se você quer…",
-            "Leve…",
-            "Preço",
-            "R$ por 100 g de proteína",
-            "Com CECILIA10"
+            "Prioridade de compra",
+            "Opção para comparar",
+            "O que conferir"
           ],
           "rows": [
             [
-              "Pagar menos pela proteína",
+              "Custo por proteína",
               "[Whey 80% HD Refil 900 g](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p)",
-              "R$ 159,90",
-              "R$ 23,17",
-              "R$ 20,86"
+              "Preço do sabor escolhido e rótulo atual"
             ],
             [
-              "Um whey de uso diário, com mistura de proteínas e 11 sabores",
-              "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
-              "R$ 159,90",
-              "R$ 30,46",
-              "R$ 27,41"
+              "Mistura do 100% HD",
+              "[Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p) ou [Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
+              "Composição, quantidade que quer comprar e custo por proteína"
             ],
             [
-              "O menor preço por proteína da linha 100% HD",
-              "[Whey 100% HD 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p)",
-              "R$ 279,90",
-              "R$ 26,66",
-              "R$ 23,99"
-            ],
-            [
-              "Mais proteína por dose",
+              "Porção declarada de 31 g de proteína",
               "[Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p) (31 g em 40 g)",
-              "R$ 279,90",
-              "R$ 41,04",
-              "R$ 36,94"
+              "São 40 g de produto por porção; compare também a concentração e o custo"
             ],
             [
-              "Um pote pequeno",
+              "Embalagem pequena",
               "[Whey 100% HD Gourmet 450 g](https://www.blackskullusa.com.br/whey-100-gourmet-450/p), só se a dose de 12 g servir",
-              "R$ 84,90",
-              "R$ 47,17",
-              "R$ 42,45"
+              "Fórmula diferente, com 12 g de proteína em 30 g de produto; não é só o 100% HD menor"
             ]
           ]
         },
@@ -124123,17 +124114,17 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom CECILIA10",
         "paragraphs": [
           "O CECILIA10 é um cupom de 10% de desconto em todo o site da Black Skull, com todas as formas de pagamento, e soma com as promoções vigentes. No teste de checkout, o desconto valeu em todos os itens do carrinho, inclusive nos que já estavam em promoção. Vale para conta nova e antiga. O frete é calculado pela loja e fica fora do cupom. O código não vale no Mercado Livre: lá vale o preço do anúncio.",
-          "Na prática, o cupom tira R$ 15,99 do refil de 900 g (R$ 159,90 viram R$ 143,91) e R$ 27,99 do 1,8 kg e do 3W Core (R$ 279,90 viram R$ 251,91). No 80% HD sabor Banana, que saía a R$ 139,90, a conta com o cupom dá R$ 125,91, ou R$ 18,25 por 100 g de proteína. O passo a passo do código está em [Cupom Black Skull CECILIA10: como usar os 10% em todo o site](/reviews/cupom-black-skull-como-usar), e as regras ficam na página do [cupom Black Skull](/cupons/black-skull)."
+          "Aplicado aos preços de referência, o CECILIA10 reduz o custo calculado em 10%; o valor final depende do sabor, da embalagem e da oferta do dia. Veja [como usar o código na Black Skull](/reviews/cupom-black-skull-como-usar) e as condições na página do [cupom Black Skull](/cupons/black-skull)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual whey da Black Skull é o mais barato por proteína? O Whey 80% HD Refil 900 g: R$ 23,17 por 100 g de proteína, ou R$ 20,28 no sabor Banana. Entre os 100% HD, o de 1,8 kg, com R$ 26,66.",
-          "A Black Skull tem whey isolado ou sem lactose? Não: todos os wheys da linha declaram \"Contém lactose\", e a busca por \"isolado\" no site voltou sem resultado.",
+          "Qual whey da Black Skull é o mais barato por proteína? O Whey 80% HD Refil 900 g: R$ 23,17 por 100 g de proteína em Morango/Cookies, ou R$ 20,28 no sabor Banana. Entre os 100% HD, o de 1,8 kg, com R$ 26,66.",
+          "A Black Skull tem whey isolado ou sem lactose? No catálogo do site, os wheys declaram \"Contém lactose\". Confirme o rótulo da versão que você quer.",
           "O 100% HD tem colágeno? O texto de venda da loja fala em \"peptídeos hidrolisados de colágeno\", e a lista de ingredientes diz só \"peptídeos hidrolisados\". A quantidade não é publicada.",
-          "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor, então o guia não escolhe sabor. A lista dos sabores com estoque está no capítulo de sabor.",
-          "Whey ajuda a emagrecer ou a ganhar massa? Este artigo compara rótulo, tabela e preço, e não trata desse objetivo. Quem tem objetivo de saúde ou de dieta deve falar com nutricionista."
+          "Qual sabor da Black Skull é o melhor? A loja não publica venda por sabor, então a comparação não escolhe sabor. A tabela mostra as opções e o estoque informado pelo site; confirme o estoque atual da versão que prefere.",
+          "Whey ajuda a emagrecer ou a ganhar massa? Esse efeito não é medido aqui: a comparação é de rótulo, composição e custo. Para objetivo de saúde ou dieta, fale com nutricionista."
         ]
       }
     ]
@@ -124169,7 +124160,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço do site, a Black Skull sai mais barata que a Dark Lab na creatina em todos os tamanhos. No whey, as duas quase empatam por 100 g de proteína, e a Black Skull 80% HD passa à frente com o cupom CECILIA10. O que pesa é a dose e a proteína de cada rótulo; veja em Qual escolher."
+          "Pelo preço do site, sem Pix e sem cupom, a creatina Black Skull custa menos por 100 g que a Dark Lab em todos os tamanhos. No whey, a 80% HD tem o menor custo por proteína da tabela, e com o CECILIA10 a vantagem cresce; a 100% HD fica acima do refil Dark Lab."
         ]
       },
       {
@@ -124321,7 +124312,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código e onde comprar",
         "paragraphs": [
-          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Um teste de checkout aplicou o cupom num kit de whey já em promoção e num whey a preço cheio, e os 10% valeram nos dois. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/); a comissão vem pelo código CECILIA10, sem custo extra para você."
+          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Um teste de checkout aplicou o cupom num kit de whey já em promoção e num whey a preço cheio, e os 10% valeram nos dois. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), e podemos receber comissão pelo uso do código."
         ]
       },
       {
@@ -125476,7 +125467,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda o peso da porção, o carboidrato e o preço por grama. Com sabor, a Black Skull de 300 g sai mais barata por grama. A Max 7Belo declara carboidrato zero na tabela, que no rótulo pode ser quantidade não significativa, não ausência total."
+          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda o peso da porção, o carboidrato e o preço por grama. Entre as opções com sabor, a Creatine Black Skull de 300 g tem o menor custo por grama de creatina; a Max 7Belo declara carboidrato em quantidade não significativa."
         ]
       },
       {
@@ -125572,17 +125563,17 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Tem o mesmo efeito? O que o rótulo diz",
+        "heading": "Com e sem sabor: quantidade declarada por porção",
         "paragraphs": [
           "Pelo rótulo, a creatina por dose é a mesma com e sem sabor na mesma marca: 5.000 mg. O que muda é o peso da porção. Na Black Skull de 300 g, a versão com sabor tem porção de 6 g e a sem sabor, de 5 g. Na Max, a 7Belo com sabor tem porção de 6 g e a 300 g sem sabor, de 5 g. Nenhuma das duas páginas explica o grama a mais; a lista de ingredientes da versão com sabor traz aromatizante, ácido málico, sucralose e corantes; a tabela da Black Skull com sabor traz 0,4 g de carboidrato por dose.",
-          "O que sobra de diferença, então, é a porção, o preço por grama de creatina e a lista de ingredientes. Nenhuma página lida diz que o sabor muda o que a creatina faz; este texto também não diz."
+          "Esses rótulos permitem comparar quantidade declarada, peso da porção e ingredientes. Eles não dizem, sozinhos, se os produtos têm efeito igual ou diferente."
         ]
       },
       {
         "heading": "Black Skull: o sabor no pote de 300 g e a Turbo com carboidrato",
         "paragraphs": [
-          "O Creatine de 300 g vem em laranja ou limão, ao mesmo preço do sem sabor: R$ 41,90. Pela tabela, cada dose de 6 g (um dosador) tem 5.000 mg de creatina, 0,4 g de carboidrato e 2 kcal, e o pote rende 50 doses. A lista traz ácido málico, aromatizante, sucralose e corantes (urucum e norbixina no laranja; clorofila e sais de cobre no limão). É a creatina com sabor mais barata por grama entre as lidas: R$ 16,76 por 100 g de creatina, ou R$ 0,84 por dose. Ainda assim, o sabor custa a mais: o sem sabor, com 60 doses de 5 g pelo mesmo preço, sai a R$ 13,97.",
-          "A Creatine Turbo de 300 g vem em laranja, limão ou uva, a R$ 39,90. A porção é de 10 g (2 dosadores), com 5 g de creatina, 5 g de carboidrato e 20 kcal, segundo a tabela. A lista traz maltodextrina, ácido cítrico, aromatizante, sucralose e corantes (urucum no laranja; vermelho ponceau e azul indigotina no uva). Por 100 g de creatina, sai a R$ 26,60.",
+          "A Creatine 300 g laranja ou limão declara porção de 6 g, um dosador, com 5 g de creatina, 0,4 g de carboidrato e 2 kcal, em 50 porções. A lista traz ácido málico, aromatizante, sucralose e corantes: urucum e norbixina no laranja; clorofila e sais de cobre no limão. Nos preços de referência, o pote com sabor custava o mesmo que o sem sabor e rendia menos creatina.",
+          "A Creatine Turbo 300 g aparece em laranja, limão e uva. A tabela indica 10 g, dois dosadores, com 5 g de creatina, 5 g de carboidrato e 20 kcal. A lista traz maltodextrina, ácido cítrico, aromatizante, sucralose e corantes, com urucum no laranja e vermelho ponceau e azul indigotina no uva. Por 100 g de creatina, sai a R$ 26,60. É outra composição, não só outro sabor da Creatine.",
           "Pelo rótulo, a Turbo não é só creatina: cada dose traz carboidrato. Se você não quer carboidrato na dose, esta linha não serve. Para o quadro completo das creatinas da Black Skull, com as nove linhas, veja o [artigo de creatina Black Skull](/reviews/creatina-black-skull-qual-escolher)."
         ],
         "images": [
@@ -125598,18 +125589,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Max Titanium: o sabor custa mais por grama",
         "paragraphs": [
-          "A Max Creatina 7Belo de 300 g veio só em framboesa na página lida. A lista traz creatina monohidratada, aromatizante, ácido málico, sucralose e corantes (vermelho allura AC, amaranto e azul brilhante FCF). A tabela diz porção de 6 g (um dosador e meio), com 5.000 mg de creatina e carboidrato declarado como zero, o que no rótulo cobre também a quantidade não significativa. São 50 porções, e o pote sai a R$ 26,47 por 100 g de creatina.",
-          "A página da 7Belo não traz modo de preparo nem marcação do dosador. A porção de 6 g vem só da tabela, e a página não explica o grama a mais em relação aos 5 g do pote sem sabor da mesma marca."
+          "A Max Creatina 7Belo 300 g aparece só em framboesa. A lista traz creatina monohidratada, aromatizante, ácido málico, sucralose e corantes (vermelho allura AC, amaranto e azul brilhante FCF). A tabela indica porção de 6 g, um dosador e meio, com 5 g de creatina e 50 porções. O carboidrato aparece como quantidade não significativa, o que não equivale a zero absoluto. O pote sai a R$ 26,47 por 100 g de creatina.",
+          "A tabela nutricional indica um dosador e meio para 6 g. Na ficha, não há modo de preparo nem marcação do dosador: siga a embalagem que você vai comprar."
         ]
       },
       {
         "heading": "Probiótica: sem sabor no catálogo",
         "paragraphs": [
-          "Não encontramos creatina com sabor no catálogo da Probiótica: a busca por creatina, creatine e monohidratada não traz nenhum produto com aromatizante. Por isso a Probiótica entra só na linha sem sabor, com dois potes de 300 g:"
+          "Nesta comparação, a Probiótica entra só na linha sem sabor, com dois potes de 300 g:"
         ],
         "bullets": [
           "**Creatina Monohidratada Pura, 300 g:** R$ 59,90 (de R$ 75,10), 5 g por dose, 60 porções e 5.000 mg por porção. Sai a R$ 19,97 por 100 g de creatina.",
-          "**Mix Pro, 300 g:** R$ 40,94. A página traz creatina e maltodextrina, sem aromatizante. A tabela traz porção de 6 g com 3.000 mg de creatina e 11 kcal: 50 porções e R$ 27,29 por 100 g de creatina. A página traz 5 g por dose; a conta usa a tabela."
+          "**Mix Pro, 300 g:** R$ 40,94. Tem creatina e maltodextrina, sem aromatizante. A tabela traz porção de 6 g com 3.000 mg de creatina e 11 kcal: 50 porções e R$ 27,29 por 100 g de creatina. A descrição da página fala em 5 g por dose, o que diverge da tabela."
         ],
         "images": [
           {
@@ -125625,7 +125616,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Mix Pro:** a página diz 5 g por dose; a tabela diz 6 g de porção com 3.000 mg de creatina. A conta usa a tabela, e a diferença fica registrada aqui.",
           "**Max Creatina 300 g:** a página manda encher o dosador até a marcação de 3 g; a tabela traz porção de 5 g com 5.000 mg. A conta usa a tabela. Confira a marcação na embalagem antes de preparar.",
-          "**Max Creatina 7Belo:** a porção de 6 g vem só da tabela, e a página não traz modo de preparo nem marcação de dosador.",
+          "**Max Creatina 7Belo:** a tabela indica 6 g, um dosador e meio. A ficha não traz modo de preparo nem marcação de dosador.",
           "**Creatine Turbo de 150 g:** fica fora desta tabela. A página diz 2 dosadores (10 g) e a tabela traz 6 g de porção. Os sabores laranja, limão e uva estavam sem estoque, e só o sem sabor aparecia, a R$ 17,94."
         ]
       },
@@ -125640,10 +125631,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual creatina com sabor escolher",
         "bullets": [
-          "**Menor custo com sabor:** [Creatine 300 g da Black Skull](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p), laranja ou limão. R$ 16,76 por 100 g de creatina, em 50 doses de 6 g. A tabela traz 0,4 g de carboidrato e 2 kcal por dose; a lista traz sucralose e corantes.",
-          "**Com sabor e sem carboidrato declarado:** [Max Creatina 7Belo de 300 g](https://www.maxtitanium.com.br/creatina-7belo/p), framboesa. R$ 26,47 por 100 g de creatina, 50 porções de 6 g e carboidrato zero na tabela. É o único sabor da linha lida, e o único pote com sabor que declara zero.",
-          "**Com sabor e carboidrato:** [Creatine Turbo de 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p), laranja, limão ou uva. R$ 26,60 por 100 g de creatina, com 5 g de carboidrato em cada dose de 10 g. Serve se você quer o carboidrato na dose.",
-          "**Sem sabor:** [Max Creatina de 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p) ou Creatina Monohidratada Pura da Probiótica, 300 g. R$ 19,97 por 100 g de creatina. Sem sabor, a Creatine de 300 g da Black Skull sai a R$ 13,97, e a Mix Pro, com maltodextrina, a R$ 27,29."
+          "**Menor custo com sabor:** [Creatine 300 g da Black Skull](https://www.blackskullusa.com.br/creatine-creatina-monohidratada-300g/p), laranja ou limão, com R$ 16,76 por 100 g de creatina. Confira também a declaração de carboidrato, sucralose e corantes.",
+          "**Com sabor e carboidrato em quantidade não significativa, segundo o rótulo:** [Max Creatina 7Belo 300 g](https://www.maxtitanium.com.br/creatina-7belo/p), framboesa, a R$ 26,47 por 100 g de creatina. Confira a diferença de composição antes de decidir.",
+          "**Com sabor e maltodextrina:** [Creatine Turbo 300 g](https://www.blackskullusa.com.br/creatine-turbo--300g/p), laranja, limão ou uva, a R$ 26,60 por 100 g de creatina. A porção de 10 g traz 5 g de carboidrato; não é a mesma fórmula da Creatine sem maltodextrina.",
+          "**Se aceita sem sabor:** compare [Max Creatina 300 g](https://www.maxtitanium.com.br/creatina-pote-300g/p), a Creatina Monohidratada Pura da Probiótica e a Creatine sem sabor. A Mix Pro tem maltodextrina, então é outra fórmula."
         ],
         "postParagraphs": [
           "Quem tem objetivo de saúde ou restrição de carboidrato fala com um nutricionista ou médico antes de escolher. O texto lê o rótulo e não indica dose."
@@ -125652,8 +125643,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Creatina com sabor tem o mesmo efeito? Pelo rótulo, a creatina por dose é a mesma com e sem sabor na mesma marca. Nenhuma ficha lida diz que o sabor muda o que a creatina faz, e este texto também não diz.",
-          "Creatina com sabor engorda? O rótulo mostra calorias e carboidrato por porção, e são esses números que servem para ler. A Turbo traz 20 kcal e 5 g de carboidrato por dose de 10 g. A Creatine de 300 g da Black Skull com sabor traz 2 kcal e 0,4 g por dose de 6 g. A Max 7Belo declara carboidrato zero na tabela. Quem tem meta de peso fala com um nutricionista.",
+          "Creatina com sabor tem o mesmo efeito? Nos pares da Black Skull e da Max comparados, o rótulo declara a mesma quantidade de creatina por porção, com pesos de pó diferentes. Essa informação diz sobre a composição declarada, não sobre o efeito de cada produto.",
+          "Creatina com sabor engorda? O rótulo mostra calorias e carboidrato por porção, e esses números, sozinhos, não dizem como o produto se encaixa na sua dieta. A Turbo traz 20 kcal e 5 g de carboidrato por dose de 10 g; a Creatine de 300 g da Black Skull com sabor traz 2 kcal e 0,4 g por dose de 6 g. A Max 7Belo declara carboidrato em quantidade não significativa. Quem tem meta de peso fala com um nutricionista.",
           "Creatina com sabor é pura? \"Pura\" não é uma qualidade que as fichas comprovem. O que vale é a lista de ingredientes: a Turbo tem maltodextrina, e a 7Belo e a Creatine com sabor da Black Skull têm aromatizante, ácido málico, sucralose e corantes.",
           "A creatina com sabor tem Creapure? A Black Skull e a Max 7Belo não declaram o selo Creapure nas fichas lidas. A busca por \"creapure\" no site da Black Skull não traz nenhum produto. Quem precisa do selo confirma com a loja antes de comprar."
         ]
@@ -125661,7 +125652,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Quem quer sabor e carboidrato zero na tabela: a Max 7Belo, em framboesa.",
+        "Quem quer sabor com carboidrato em quantidade não significativa na tabela: a Max 7Belo, em framboesa.",
         "Quem quer o carboidrato na dose: a Creatine Turbo da Black Skull."
       ],
       "skipIf": [
@@ -125673,14 +125664,14 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Veja as creatinas com sabor da Black Skull e aplique o cupom CECILIA10 no carrinho.",
+      "text": "Veja o preço atual da versão que escolheu na Black Skull e aplique CECILIA10: 10% em qualquer forma de pagamento, também nas promoções. Confira o desconto e o total com frete antes de pagar.",
       "label": "Ir para a Black Skull",
       "url": "https://www.blackskullusa.com.br/",
       "sponsored": true
     },
     "coupon": "CECILIA10",
     "affiliate": "black-skull",
-    "editorialNote": "Não usamos as creatinas. Podemos receber comissão pelos cupons das marcas citadas.",
+    "editorialNote": "Não usamos as creatinas; porções são dados dos rótulos, não indicação de consumo. Para adequação à dieta, consulte nutricionista ou médico. Podemos receber comissão pelos cupons citados.",
     "relatedArticles": [
       {
         "slug": "creatina-black-skull-qual-escolher"
@@ -125865,7 +125856,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código e onde comprar",
         "paragraphs": [
-          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções vigentes. Este texto não traz cupom da Integralmédica. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/); a comissão vem pelo código CECILIA10, sem custo extra para você."
+          "Código: CECILIA10, o cupom da Black Skull. Dá 10% OFF em todo o site, em todas as formas de pagamento, para clientes novos e antigos, e soma com as promoções vigentes. Não temos cupom da Integralmédica. As regras ficam na [página do cupom da Black Skull](/cupons/black-skull). A compra é feita na [loja oficial Black Skull](https://www.blackskullusa.com.br/), e podemos receber comissão pelo uso do código."
         ]
       },
       {
@@ -125890,8 +125881,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Black Skull é da Integralmédica? Nas fontes oficiais, são empresas diferentes. O site da Integralmédica lista as marcas do grupo dela, e a Black Skull não está entre elas. A Black Skull diz que é uma marca brasileira, desenvolvida através da GDS.",
-          "Creatina Black Skull ou Integralmédica, qual compensa? Pelo preço por 100 g de produto, a Black Skull. O kit de 1 kg da Black Skull sai por R$ 7,58, e o pouch de 1 kg da Integralmédica, por R$ 15,60. Com o CECILIA10, a diferença fica maior.",
-          "Whey Integralmédica ou Black Skull, qual melhor? Pelo preço por 100 g de proteína, a Black Skull 80% HD: R$ 23,17 no cartão, contra R$ 36,03 do pouch de 900 g da Integralmédica. O sabor fica de fora, porque ninguém da equipe provou os produtos.",
+          "Creatina Black Skull ou Integralmédica, qual compensa? Nos produtos e preços da tabela, a Black Skull ficou abaixo por 100 g de produto. O kit de dois refis teve o menor custo dessa comparação, e o CECILIA10 reduz o preço na Black Skull. Confira a cotação atual antes de decidir.",
+          "Whey Integralmédica ou Black Skull, qual é melhor? Pelo custo por 100 g de proteína entre os produtos comparados, a Black Skull 80% HD ficou abaixo. Isso não é um ranking de sabor ou de qualidade geral; o quadro de preços e o capítulo Qual escolher mostram a comparação.",
           "Black Skull é brasileira? A própria marca diz que sim: sede em Embu das Artes (SP) e presença no Brasil desde 2015. O CNPJ da GDS Grow Dietary Supplements do Brasil S/A, 19.897.687/0001-38, está ativo desde 2014, segundo a BrasilAPI."
         ]
       }
@@ -130388,13 +130379,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual hipercalórico da Black Skull comprar",
         "paragraphs": [
-          "Pelo rótulo e pelo preço, o Masstodon Refil 3 kg é o que custa menos por 100 g de proteína, e o cupom CECILIA10 tira 10% dos dois. O Monstrous 2,7 kg tem mais proteína e menos carboidrato por 100 g do pó, e é isso que muda a escolha: as contas estão no quadro abaixo."
+          "Pelo rótulo e pelo preço, o Masstodon Refil 3 kg custa menos por 100 g de proteína, e o Monstrous 2,7 kg tem mais proteína e menos carboidrato por 100 g do pó, o que muda a escolha. O CECILIA10 tira 10% dos dois no site; confira a aplicação no carrinho."
         ]
       },
       {
         "heading": "Como lemos o rótulo: porção, kcal e preço por 100 g de proteína",
         "paragraphs": [
-          "Este guia compara dois hipercalóricos da Black Skull: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem, e a loja não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
+          "Este guia compara o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. As duas fichas trazem tabela nutricional em imagem. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
           "O preço do pote engana, porque a porção e a proteína de cada um são diferentes: 160 g no Masstodon, 260 g no Monstrous. Por isso a régua do artigo é por 100 g do pó, por 100 g de proteína e por 1.000 kcal."
         ],
         "bullets": [
@@ -130511,7 +130502,7 @@ export const reviewsData: unknown[] = [
           "Sabores com estoque: baunilha, morango, chocolate e banana."
         ],
         "postParagraphs": [
-          "Na conta do artigo, o Masstodon sai a R$ 4,33 por 100 g do pó, R$ 57,73 por 100 g de proteína e R$ 11,21 por 1.000 kcal. Em proteína, o pote inteiro tem 225 g."
+          "Na conta do artigo, o Masstodon sai a R$ 4,33 por 100 g do pó, R$ 57,73 por 100 g de proteína e R$ 11,21 por 1.000 kcal. Extrapolando os 12 g de proteína por 160 g ao peso de 3 kg, a estimativa é de 225 g de proteína na embalagem."
         ]
       },
       {
@@ -130528,7 +130519,7 @@ export const reviewsData: unknown[] = [
           "Sabores com estoque: chocolate e baunilha. Morango esgotado."
         ],
         "postParagraphs": [
-          "Na conta do artigo, o Monstrous sai a R$ 12,96 por 100 g do pó, R$ 66,07 por 100 g de proteína e R$ 34,35 por 1.000 kcal. Em proteína, o pote inteiro tem 529 g, 2,4 vezes o do Masstodon, por 2,7 vezes o preço."
+          "Na conta do artigo, o Monstrous sai a R$ 12,96 por 100 g do pó, R$ 66,07 por 100 g de proteína e R$ 34,35 por 1.000 kcal. Extrapolando 51 g por 260 g ao peso de 2,7 kg do nome, a estimativa é de cerca de 530 g de proteína; o rótulo informa 10 porções de 260 g, que somam 2,6 kg."
         ]
       },
       {
@@ -130603,7 +130594,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom CECILIA10 nos dois",
         "paragraphs": [
-          "O CECILIA10 é um cupom de 10% em todo o site da Black Skull, em toda forma de pagamento, e soma com as promoções vigentes: no teste de checkout, o desconto valeu em todos os itens do carrinho. O frete é calculado pela loja e fica fora do cupom. A loja não mostra preço de Pix nem desconto no Pix, então a conta é uma só, seja qual for o pagamento. As regras completas estão na [página do cupom](/cupons/black-skull), e o passo a passo em [Cupom Black Skull CECILIA10: como usar](/reviews/cupom-black-skull-como-usar)."
+          "O CECILIA10 é um cupom de 10% no site da Black Skull, em todas as formas de pagamento, e soma com promoções vigentes. No teste de checkout, o desconto valeu em todos os itens do carrinho; os valores da tabela com cupom são simulação de 10%. O frete é calculado pela loja e fica fora do cupom. A loja não mostra preço de Pix nem desconto no Pix, então a conta é uma só, seja qual for o pagamento. As regras completas estão na [página do cupom](/cupons/black-skull), e o passo a passo em [Cupom Black Skull CECILIA10: como usar](/reviews/cupom-black-skull-como-usar)."
         ],
         "comparisonTable": {
           "headers": [
@@ -130631,7 +130622,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O cupom tira R$ 12,99 do Masstodon e R$ 34,99 do Monstrous. Ele não muda a ordem: por 100 g de proteína, o Masstodon continua cerca de 13% mais barato, com ou sem o código."
+          "Com 10% sobre os preços da tabela, o cupom tira R$ 12,99 do Masstodon e R$ 34,99 do Monstrous. Ele não muda a ordem: por 100 g de proteína, o Masstodon continua cerca de 13% mais barato, com ou sem o código. Confira o desconto em cada item no carrinho."
         ]
       },
       {
@@ -130679,7 +130670,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O Whey Turbo também é hipercalórico, com outra porção e outra conta (479 kcal e 75 g de carboidrato em 120 g), e fica fora desta comparação: ele está no [guia de whey da Black Skull](/reviews/whey-black-skull-qual-escolher). Com o CECILIA10, os dois saem 10% mais baratos no site da Black Skull: R$ 116,91 o Masstodon e R$ 314,91 o Monstrous. O código e as regras estão na [página do cupom](/cupons/black-skull)."
+          "O Whey Turbo também é hipercalórico, com outra porção e outra conta (479 kcal e 75 g de carboidrato em 120 g), e fica fora desta comparação: ele está no [guia de whey da Black Skull](/reviews/whey-black-skull-qual-escolher). Com 10% sobre os preços da tabela, o Masstodon sairia por R$ 116,91 e o Monstrous por R$ 314,91; confira o desconto em cada item no carrinho. O código e as regras estão na [página do cupom](/cupons/black-skull)."
         ],
         "image": {
           "src": "/images/reviews/black-skull/hipercalorico-black-skull-quadro-2710.webp",
@@ -130695,7 +130686,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual hipercalórico da Black Skull tem menos carboidrato por grama de proteína? Entre os dois comparados, o Monstrous 2,7 kg: 3,8 g de carboidrato por grama de proteína (195 g e 51 g por porção de 260 g). O Masstodon Refil 3 kg tem 11,5 g (138 g e 12 g por porção de 160 g).",
-          "Qual hipercalórico da Black Skull é o mais barato por proteína? Entre os dois comparados, o Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com o CECILIA10. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom.",
+          "Qual hipercalórico da Black Skull é o mais barato por proteína? Entre os dois comparados, o Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com 10% de cupom. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom. Confira o desconto no carrinho.",
           "A Black Skull tem hipercalórico de 4 kg ou em balde? Não apareceu no catálogo de outubro. Os tamanhos comparados são o Masstodon Refil 3 kg e o Monstrous 2,7 kg.",
           "A Black Skull tem hipercalórico sem lactose? Nos dois comparados, não: o Masstodon e o Monstrous declaram \"Contém lactose\" no rótulo. Os dois declaram \"Não contém glúten\".",
           "Quais sabores do Monstrous estão à venda? O seletor da ficha mostra chocolate, morango e baunilha; o morango estava esgotado. O Masstodon tem baunilha, morango, chocolate e banana, todos com estoque na mesma data."
@@ -130766,7 +130757,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na maioria dos produtos, o site da Black Skull com o cupom CECILIA10 sai mais barato que o Mercado Livre: o site ganhou em 13 de 15 comparações. O Mercado Livre só venceu no Whey 100% HD de 900 g e no Refil de 900 g. O que muda a conta é o produto e, no whey de 900 g, o sabor: a tabela abaixo mostra peça a peça."
+          "Na maioria dos produtos, o site com o cupom CECILIA10 sai mais barato que o Mercado Livre, antes do frete: ganhou em 13 de 15 comparações. O Mercado Livre ficou abaixo só no Whey 100% HD de 900 g e no Refil de 900 g, em que o sabor e o anúncio pesam na escolha."
         ]
       },
       {
@@ -130897,7 +130888,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/black-skull/black-skull-mercado-livre-ou-site-quadro-2710.webp",
           "alt": "Quadro com o preço de 15 produtos da Black Skull no site com o CECILIA10 e no Mercado Livre",
-          "caption": "Quadro nosso com os preços lidos; em amarelo, onde cada produto sai mais barato.",
+          "caption": "Quadro nosso com os preços lidos; em amarelo, o menor preço de cada produto, antes do frete.",
           "objectFit": "contain",
           "aspectRatio": 1.1152
         },
@@ -130943,34 +130934,34 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e frete no site",
         "paragraphs": [
           "O CECILIA10 tira 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Vale para conta nova e antiga. No nosso teste, o desconto entrou num kit de whey em promoção e num whey a preço cheio. Nas páginas que lemos, o site não mostra desconto próprio no Pix: o que baixa o preço é o cupom, no Pix ou no cartão. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar), e as condições do mês estão na página do [cupom Black Skull](/cupons/black-skull).",
-          "O frete do site é grátis acima de R$ 199,90 no Sul e no Sudeste. A regra olha o total do carrinho depois do desconto: um whey de 900 g sozinho, a R$ 152,91 com o cupom, fica abaixo do limite e paga frete. Para chegar aos R$ 199,90, o pedido precisa de mais um item que, com o cupom, some pelo menos R$ 46,99: um pré-treino de 300 g serve (o whey com o B.O.P.E 300 g, os dois com o cupom, dá R$ 211,32); uma creatina sozinha não chega (com a Creatine Turbo 300 g, R$ 188,82)."
+          "O frete do site é grátis acima de R$ 199,90 no Sul e no Sudeste, depois dos descontos. Um whey de 900 g sozinho, a R$ 152,91 com o cupom, fica abaixo desse limite e paga frete. Simule o frete nos dois canais; só vale aumentar o carrinho se você já pretende comprar os outros itens, pelo gasto total."
         ]
       },
       {
         "heading": "Antes de comprar no Mercado Livre",
         "paragraphs": [
           "Confira se o vendedor é a loja oficial, \"Black Skull_\", com o selo de loja oficial. O botão do Mercado Livre deste texto leva direto a ela, e o botão do whey leva ao anúncio de 900 g.",
-          "No Mercado Livre não entra cupom, e o frete, a troca e a devolução seguem as regras da plataforma e do anúncio; não lemos essas condições, então não prometemos frete grátis. No site, a loja aceita arrependimento em 7 dias corridos e troca em até 30 dias, com o envio por conta de quem compra. As regras completas estão em [se a Black Skull é confiável](/reviews/black-skull-e-confiavel)."
+          "No Mercado Livre, o CECILIA10 não vale; frete, troca e devolução seguem as regras da plataforma e do anúncio, e não prometemos frete grátis lá. No site, a loja aceita arrependimento em 7 dias corridos, com postagem paga pela Black Skull; a troca comum, em até 30 dias, tem o envio por conta de quem compra. As regras completas estão em [se a Black Skull é confiável](/reviews/black-skull-e-confiavel)."
         ]
       },
       {
         "heading": "Como escolher",
         "bullets": [
-          "Quer só o Whey 100% HD de 900 g ou o Refil de 900 g: Mercado Livre, que saía de R$ 3,01 a R$ 31,01 mais barato que o site com o cupom, conforme o sabor.",
-          "Quer o whey de 1,8 kg, a linha Gourmet, as creatinas, os pré-treinos, o Thermo Flame ou o Kit 2 Whey Turbo: site com o CECILIA10, de R$ 3,49 a R$ 40,27 mais barato por produto.",
-          "Quer frete grátis no site: monte um carrinho acima de R$ 199,90 depois do cupom (Sul e Sudeste).",
+          "Quer só o Whey 100% HD de 900 g ou o Refil de 900 g: o Mercado Livre teve o menor preço de produto, conforme o sabor e o anúncio; confira o frete.",
+          "Quer o whey de 1,8 kg, a linha Gourmet, as creatinas, os pré-treinos, o Thermo Flame ou o Kit 2 Whey Turbo: o site com o CECILIA10 teve o menor preço de produto; confira a mesma variante e o frete.",
+          "Quer comparar o frete: no site, o grátis vale acima de R$ 199,90 no Sul e no Sudeste, depois dos descontos. Inclua o envio na comparação; aumentar o carrinho só pelo frete pode custar mais.",
           "Quer a política de troca da própria loja: site."
         ],
         "postParagraphs": [
-          "O preço do Mercado Livre muda por sabor e por anúncio, e de um dia para o outro. O do site muda menos, e o cupom tira 10% de qualquer preço. Confira os dois antes de pagar."
+          "Os preços dos dois canais podem mudar. Compare o mesmo produto, embalagem e sabor e, no site, confira a aplicação dos 10% do CECILIA10. A decisão final é pelo total entregue ao seu CEP."
         ],
-        "emphasis": "Pelos números da tabela, para a maioria dos produtos a escolha é o site com o cupom, porque ele ficou abaixo do Mercado Livre em 13 das 15 comparações."
+        "emphasis": "Para a maioria dos produtos, o site com CECILIA10 ficou abaixo do Mercado Livre em 13 de 15 linhas. Antes de escolher, compare a mesma variante com o frete de cada canal."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O cupom CECILIA10 vale no Mercado Livre? Não. Ele só vale no site oficial da Black Skull; no Mercado Livre vale o preço do anúncio. O passo a passo está em [como usar o cupom da Black Skull](/reviews/cupom-black-skull-como-usar).",
-          "A Black Skull é mais barata no Mercado Livre ou no site? Depende do produto. O site com o cupom ganhou em 13 de 15 comparações, e o Mercado Livre só no Whey 100% HD de 900 g e no Refil de 900 g.",
+          "A Black Skull é mais barata no Mercado Livre ou no site? Depende do produto. O site com o cupom ficou abaixo em 13 de 15 linhas da tabela; o Mercado Livre teve o menor preço no Whey 100% HD de 900 g e no Refil de 900 g.",
           "O site da Black Skull tem frete grátis? No Sul e no Sudeste, sim, acima de R$ 199,90, contado depois do desconto.",
           "O Pix tem desconto no site da Black Skull? Nas páginas que lemos, não há desconto próprio no Pix. O CECILIA10 tira 10% em qualquer forma de pagamento.",
           "Quanto custa o whey da Black Skull no Mercado Livre? O Whey 100% HD de 900 g ia de R$ 121,90 a R$ 149,90 na loja oficial, conforme o sabor. No site, R$ 169,90, ou R$ 152,91 com o cupom."
@@ -130979,11 +130970,11 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Quem leva whey de 1,8 kg, linha Gourmet, creatina, pré-treino, Thermo Flame ou Kit 2 Whey Turbo: o site com o cupom, que saiu mais barato nesses produtos.",
+        "Quem leva whey de 1,8 kg, linha Gourmet, creatina, pré-treino, Thermo Flame ou Kit 2 Whey Turbo: o site com o cupom teve o menor preço de produto nesses itens; confira a variante e o frete.",
         "Quem quer a política de troca da própria loja: o site."
       ],
       "skipIf": [
-        "Quem quer só o Whey 100% HD de 900 g ou o Refil de 900 g: o Mercado Livre saía mais barato que o site com o cupom.",
+        "Quem quer só o Whey 100% HD de 900 g ou o Refil de 900 g: o Mercado Livre teve o menor preço de produto; confira sabor, anúncio e frete.",
         "Quem leva um item só: ele pode ficar abaixo do limite de frete grátis do site e pagar frete."
       ]
     }
@@ -175345,7 +175336,7 @@ export const reviewsData: unknown[] = [
       "Cupom CECILIA10 de 10% no site todo, que soma com as promoções do site e vale em todas as formas de pagamento"
     ],
     "cons": [
-      "Nenhum whey isolado nem sem lactose: todos os wheys declaram \"Contém lactose\"",
+      "Os wheys comparados declaram \"Contém lactose\", e a loja informa que não vende isolado nem zero lactose",
       "O nome do whey confunde: o \"100%\" do 100% HD não é a porcentagem de proteína",
       "O cupom não vale no Mercado Livre"
     ],
@@ -175353,7 +175344,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelo rótulo: o whey 80% HD tem mais proteína por dose que o 100% HD, e a creatina Creator traz só creatina monohidratada. O que muda a compra é o whey escolhido, porque o \"100%\" do nome não é a porcentagem de proteína; a conta está no capítulo do whey."
+          "Pelo rótulo, sim: o whey 80% HD declara 23 g de proteína em cada 30 g de dose e teve o menor custo por proteína entre os cinco wheys comparados. O nome \"100%\" do 100% HD não indica a porcentagem de proteína do pó, e a Creator traz só creatina monohidratada."
         ]
       },
       {
@@ -175374,15 +175365,15 @@ export const reviewsData: unknown[] = [
         "heading": "O whey da Black Skull é bom?",
         "paragraphs": [
           "É bom no sentido do rótulo: a tabela nutricional diz quanto de proteína vem em cada dose, e o preço por proteína cabe numa conta. O que atrapalha é o nome do pote.",
-          "O ponto que decide é o 80% HD: ele tem mais proteína por dose que o 100% HD, numa dose menor. O \"100%\" do 100% HD não é a porcentagem de proteína, já que o pó dele tem 60% de proteína, contra 77% do 80% HD, que também é o de menor preço por proteína da linha.",
+          "O ponto que decide é o 80% HD: ele tem mais proteína por dose que o 100% HD, numa dose menor. O \"100%\" do 100% HD não é a porcentagem de proteína, já que o pó dele tem 60% de proteína, contra 77% do 80% HD, que também tem o menor preço por proteína entre os cinco produtos comparados.",
           "Conta nossa: com a tabela nutricional de cada rótulo e o preço do site, que está no capítulo do cupom, a proteína do pote é o peso ÷ a dose × a proteína por dose, e o preço por 100 g de proteína é o preço ÷ a proteína do pote × 100."
         ],
         "comparisonTable": {
-          "caption": "Proteína por dose do rótulo. R$ por 100 g de proteína: conta nossa, com o preço do site antes do cupom.",
+          "caption": "Proteína declarada por porção nos rótulos consultados. Quantidade no pote e custo por 100 g de proteína são estimativas próprias, com o preço do site antes do cupom.",
           "headers": [
             "Whey",
             "Proteína por dose",
-            "Proteína no pote",
+            "Proteína estimada no pote",
             "R$ por 100 g de proteína"
           ],
           "rows": [
@@ -175419,7 +175410,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A loja informa: todos esses wheys declaram \"Contém lactose\", e a Black Skull não vende whey isolado nem zero lactose. O 80% HD leva só proteína concentrada (WPC); o 100% HD e o 3W Core misturam concentrado, isolado e hidrolisado. O único com \"WPI\" no nome, o Whey Protein (WPI, WPC, WPH), tem 11 g em 25 g de dose e também contém lactose.",
+          "A loja informa que todos esses wheys declaram \"Contém lactose\" e que não vende whey isolado nem zero lactose. O 80% HD leva só proteína concentrada (WPC); o 100% HD e o 3W Core misturam concentrado, isolado e hidrolisado, então não são isolados. O único com \"WPI\" no nome, o Whey Protein (WPI, WPC, WPH), tem 11 g em 25 g de dose e também contém lactose.",
           "**80% HD:** serve a quem quer pagar menos pela proteína e aceita uma lista simples. Não é o whey para quem procura isolado ou mistura de proteínas.",
           "**100% HD:** serve a quem quer uma mistura de proteínas para o dia a dia, em muitos sabores; o de 1,8 kg compensa quando se compra o pote grande de uma vez. Não escolha se o critério é preço por proteína: sai mais caro que o 80% HD pelo mesmo preço do refil.",
           "**3W Core:** serve a quem quer a dose mais proteica da linha. Não escolha pelo preço, porque é o mais caro por proteína entre os cinco da tabela.",
@@ -175456,7 +175447,7 @@ export const reviewsData: unknown[] = [
           "A Creatine Turbo lista creatina monohidratada e maltodextrina, com 5 g de creatina e 5 g de carboidrato em cada dose de 10 g. Por isso ela não é só creatina, e o preço por grama de creatina é mais de três vezes o do Creator."
         ],
         "comparisonTable": {
-          "caption": "Doses e creatina por dose do rótulo. R$ por 100 g de creatina: conta nossa, preço do site ÷ creatina do pote × 100.",
+          "caption": "Porções e creatina declaradas nos rótulos. Custo por 100 g de creatina é estimativa própria, com o preço do site antes do cupom.",
           "headers": [
             "Creatina",
             "Doses",
@@ -175647,22 +175638,22 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Se você escolhe whey pelo rótulo, comece pelo 80% HD: traz mais proteína por dose que o 100% HD e é o de menor preço por proteína da linha.",
+        "emphasis": "Se você escolhe whey pelo rótulo, comece pelo 80% HD: traz mais proteína por dose que o 100% HD e tem o menor preço por proteína entre os cinco wheys comparados.",
         "bullets": [
           "Vale para quem compra suplemento pela tabela nutricional e pelo preço por proteína, e não pelo nome do pote.",
           "Vale para quem quer creatina só monohidratada pelo menor preço por grama: o Creator refil de 500 g.",
-          "Não vale para quem procura whey isolado ou sem lactose: a Black Skull não vende nenhum.",
+          "Não vale para quem procura whey isolado ou sem lactose: a loja informa que não vende nenhum.",
           "Não vale para quem quer usar o cupom no Mercado Livre: o CECILIA10 vale só no site."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O whey da Black Skull é bom? Pelo rótulo, sim: a tabela nutricional traz a proteína por dose, e o 80% HD tem mais proteína por dose que o 100% HD. A conta está no capítulo do whey.",
+          "O whey da Black Skull é bom? Pelo rótulo, sim: o 80% HD declara mais proteína por dose que o 100% HD e teve o menor custo por proteína entre os cinco wheys comparados.",
           "Qual whey da Black Skull compensa mais? Para pagar menos por proteína, o 80% HD Refil 900 g; para uma mistura de proteínas em muitos sabores, o 100% HD; para a dose mais proteica, o 3W Core.",
           "80% ou 100% HD: qual escolher? O 80% HD tem mais proteína por dose e sai mais barato por proteína. O \"100%\" do nome do outro não é a porcentagem de proteína do pó.",
           "A creatina da Black Skull é boa? Pelo rótulo, o Creator traz só creatina monohidratada e sai mais barato por grama que o Creatine, que tem a mesma lista de ingredientes.",
-          "A Black Skull tem whey zero lactose ou isolado? Não: todos os wheys da loja declaram que contêm lactose.",
+          "A Black Skull tem whey zero lactose ou isolado? Não, segundo a loja: os wheys comparados declaram \"Contém lactose\". Confira o rótulo da versão que você vai comprar.",
           "O cupom CECILIA10 vale no Mercado Livre? Não: ele vale só no site da Black Skull, onde dá 10% e soma com as promoções do site.",
           "A Black Skull é confiável? Os dados da empresa e a reputação estão em dois guias próprios, linkados no capítulo de confiabilidade."
         ]
@@ -175682,7 +175673,7 @@ export const reviewsData: unknown[] = [
         "Você quer creatina só monohidratada pelo menor preço por grama."
       ],
       "skipIf": [
-        "Você precisa de whey isolado ou sem lactose: todos os da loja declaram lactose.",
+        "Você precisa de whey isolado ou sem lactose: a loja informa que não vende esses tipos.",
         "Você quer usar o cupom no Mercado Livre: o CECILIA10 vale só no site."
       ]
     },
