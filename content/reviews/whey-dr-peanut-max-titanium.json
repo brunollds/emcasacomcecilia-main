@@ -41,7 +41,7 @@
     {
       "heading": "O que o rótulo diz",
       "paragraphs": [
-        "O que decide aqui é o aviso de glúten e lactose, não a proteína. As duas lojas declaram leite, e a da Dr. Peanut diz que pode conter trigo, cevada e aveia. Quem tem intolerância a um dos dois decide com médico ou nutricionista.",
+        "O que decide aqui é o aviso de glúten e lactose, não a proteína: o pote contém os dois, e quem precisa evitar um deles não compra em loja nenhuma. Quem tem intolerância a um dos dois decide com médico ou nutricionista.",
         "A loja informa: a porção é de 40 g, dois dosadores, com 20 g de proteína, 162 kcal, 8,5 g de açúcares totais (0,1 g adicionados), 3,1 g de gordura e 112 mg de sódio. A proteína é concentrada do soro do leite (WPC), com amendoim torrado e granulado, cacau, sal, lecitina de soja, gomas, corante caramelo IV e sucralose.",
         "É nos alérgenos que as páginas divergem. As duas dizem que contém amendoim e leite. A da Dr. Peanut diz que contém soja também, e que pode conter trigo, centeio, cevada, aveia, castanhas, nozes e ovo; a da Max diz que a soja e o ovo só podem estar. Confira a embalagem que chegar."
       ]
@@ -119,7 +119,7 @@
         "Quer o cupom da Dr. Peanut somado ao Pix: Dr. Peanut, conferindo o total com frete no carrinho.",
         "Já compra na Max ou quer levar outro produto dela no mesmo pedido: Max, com o cupom dela, comparando o total dos dois carrinhos.",
         "Já compra pasta de amendoim na Dr. Peanut: o whey entra no mesmo pedido e ajuda a passar do frete grátis.",
-        "Precisa evitar glúten ou lactose: as duas lojas declaram leite, e a Dr. Peanut diz que pode conter trigo, cevada e aveia. Confira a embalagem do sabor escolhido."
+        "Precisa evitar glúten ou lactose: nenhuma das duas serve, pelo rótulo."
       ],
       "emphasis": "Com o pote e o preço iguais, o cupom decide: o da Dr. Peanut dá 10% e soma com o Pix; o da Max depende do percentual do carrinho."
     },
@@ -130,7 +130,7 @@
         "Quais sabores tem o whey Dr. Peanut? Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, nas duas lojas e pelo mesmo preço. Confira sabores e valores atuais na loja.",
         "O cupom DREMCASACOMCECILIA soma com o Pix? Sim: no checkout do whey, o cupom funcionou e somou com o desconto no Pix da Dr. Peanut.",
         "O cupom da Max vale no whey Dr. Peanut? Vale: o MAX10EMCASACOMCECILIA funciona neste pote, com até 10%. O capítulo do cupom diz como comparar os dois carrinhos.",
-        "O whey Dr. Peanut tem glúten ou lactose? Tem lactose: as duas lojas declaram leite entre os alérgenos. Sobre glúten, a Dr. Peanut diz que pode conter trigo, cevada e aveia; confira a embalagem do sabor escolhido."
+        "O whey Dr. Peanut tem glúten ou lactose? Sim, pelo rótulo: o pote contém glúten e lactose, e nenhuma das lojas vende versão sem um deles."
       ]
     }
   ],
@@ -142,7 +142,7 @@
       "Você já compra na Max: o cupom dela funciona no pote, e o que decide é o total do carrinho."
     ],
     "skipIf": [
-      "Você precisa evitar glúten ou lactose: as duas lojas declaram leite, e a Dr. Peanut diz que pode conter trigo, cevada e aveia. Confira a embalagem do sabor escolhido.",
+      "Você precisa evitar glúten ou lactose: o rótulo diz que o pote contém os dois.",
       "Você compara só o preço da vitrine: ele aparece igual nas duas lojas, e o que decide é o total do carrinho com o cupom e o frete."
     ]
   },
