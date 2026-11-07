@@ -17,6 +17,7 @@
   "metaDescription": "O código MAUAD dá 5% OFF no site da Let's Eat It. A loja é boa? Le Creuset no localizador oficial, Porto Brasil, troca em 30 dias e Reclame Aqui.",
   "publishedAt": "4 de novembro de 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/letseatit/lets-eat-it-e-boa-capa.webp",
@@ -74,7 +75,7 @@
       "heading": "Cupom, Pix e frete",
       "paragraphs": [
         "O código da Let's Eat It é o MAUAD e dá 5% em todo o site, em todas as formas de pagamento, somando com as promoções, a pré-venda e o desconto do Pix, que sai em muitos produtos. Ele vai no campo \"Código de desconto\" do checkout, e a linha \"Desconto no pedido\" aparece no resumo antes do pagamento; o frete entra na etapa seguinte. Conta nossa: se o Pix incide sobre o preço que já saiu com o código, os dois juntos tiram 9,75% do preço de lista, não 10%. A loja não publica cupom de primeira compra. O MAUAD dá 5% no site, e a loja não publica regra de uso por CPF. O passo a passo e as regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
-        "O frete é o que mais muda a conta, e ele não zera: a loja não publica faixa de frete grátis, e o valor sai por CEP e peso, simulado na página do produto. A loja informa: o pedido é separado no mesmo dia ou no dia útil seguinte, e a entrega leva de 3 a 5 dias úteis em São Paulo capital, de 4 a 7 no interior e na Grande São Paulo, de 5 a 8 no Sul e no Sudeste, de 6 a 9 no Centro-Oeste e de 7 a 12 no Norte e no Nordeste, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo do seu CEP mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
+        "O frete é o que mais muda a conta: o valor sai por CEP e peso, simulado na página do produto, e a política padrão da loja cita frete grátis só para Le Creuset e Zwilling acima de R$ 1.000; confirme no carrinho. A loja informa: o pedido é separado no mesmo dia ou no dia útil seguinte, e a entrega leva de 3 a 5 dias úteis em São Paulo capital, de 4 a 7 no interior e na Grande São Paulo, de 5 a 8 no Sul e no Sudeste, de 6 a 9 no Centro-Oeste e de 7 a 12 no Norte e no Nordeste, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo do seu CEP mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
       ]
     },
     {
@@ -135,7 +136,7 @@
         "Para a louça do dia a dia e o aparelho de jantar completo, a Porto Brasil, que é onde a promoção da loja está.",
         "Para presente de casamento ou de quem cozinha, a loja tem as faixas numa vitrine só, com troca em 30 dias da entrega.",
         "Não vale para quem precisa da peça em poucos dias fora de São Paulo: o prazo chega a 12 dias úteis, e sobe em promoção.",
-        "Não vale para quem quer frete grátis: ele não existe na compra, só na devolução.",
+        "Não vale para quem quer frete grátis em qualquer pedido: na compra, a política padrão só cita Le Creuset e Zwilling acima de R$ 1.000.",
         "Pense duas vezes no cristal se o pedido vai longe: taças são o que mais quebra no caminho, e a reposição depende das fotos no dia da chegada."
       ],
       "emphasis": "Se fosse para a minha casa, eu levaria a Le Creuset e a louça pela Let's Eat It; o cristal, eu pediria com tempo de sobra."
@@ -160,7 +161,7 @@
     ],
     "skipIf": [
       "Você precisa da peça em poucos dias fora de São Paulo: o prazo chega a 12 dias úteis no Norte e no Nordeste.",
-      "Você quer frete grátis: a loja não publica faixa, e o frete sai por CEP e peso.",
+      "Você quer frete grátis em qualquer pedido: ele só vale nos pedidos maiores de Le Creuset e Zwilling, e o resto paga frete por CEP e peso.",
       "A peça é de cristal e você não quer o risco do transporte: taças estão entre os problemas mais citados no Reclame Aqui."
     ]
   },

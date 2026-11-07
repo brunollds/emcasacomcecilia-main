@@ -41264,10 +41264,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, nota 8,5 e 90,6% das reclamações resolvidas. Veja as queixas mais comuns antes de comprar.",
-    "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF nos elegíveis do site: reputação RA1000, nota 8,5 e 90,6% das reclamações resolvidas.",
+    "description": "No Reclame Aqui, de abril a setembro, a loja online da I Wanna Sleep teve RA1000, nota 8,5 e 90,6% das reclamações resolvidas. Veja as queixas mais comuns antes de comprar.",
+    "metaDescription": "I Wanna Sleep no Reclame Aqui, com o cupom CECIEMCASA de 10% OFF nos elegíveis: RA1000, nota 8,5 e 90,6% resolvidas de abril a setembro.",
     "publishedAt": "24 de outubro de 2026",
     "publishedAtISO": "2026-10-24",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/iwannasleep/i-wanna-sleep-reclame-aqui-capa-discover.webp",
@@ -41280,7 +41281,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, a mais alta do site, com nota 8,5 nos últimos seis meses. Respondeu 100% das 189 reclamações e resolveu 90,6%; a queixa mais comum é atraso na entrega. Dá para confiar; para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
+          "A loja online da I Wanna Sleep tem reputação RA1000 no Reclame Aqui, a mais alta do site, com nota 8,5 na janela de abril a setembro. Respondeu 100% das 189 reclamações e resolveu 90,6%; a queixa mais comum é atraso na entrega. Dá para confiar; para comprar com desconto, use o [cupom I Wanna Sleep](/cupons/i-wanna-sleep)."
         ]
       },
       {
@@ -41336,7 +41337,7 @@ export const reviewsData: unknown[] = [
           "Compre pelo site oficial (iwannasleep.com.br), que é o canal avaliado neste artigo e onde o cupom vale.",
           "Leia a página do produto com atenção — materiais, medidas e tecnologias — para o que chegar não frustrar a expectativa.",
           "Guarde comprovante de pagamento e número do pedido para rastreamento e eventual contato com o suporte.",
-          "Se o produto chegar com problema, acione o suporte dentro do prazo de arrependimento (7 dias) ou de defeito (30 dias) e não descarte a embalagem original antes da resolução.",
+          "Se o produto chegar com problema, acione o suporte logo: o arrependimento vale por 7 dias na compra pela internet, e o prazo legal para reclamar de defeito aparente é de 30 dias em produto não durável e de 90 dias em durável, como um móvel; a garantia da marca é outra proteção, à parte. Não descarte a embalagem original antes da resolução.",
           "Consulte o perfil atualizado no Reclame Aqui no dia da sua compra — a nota muda com o tempo."
         ]
       },
@@ -41359,8 +41360,8 @@ export const reviewsData: unknown[] = [
           "Qual a nota da I Wanna Sleep no Reclame Aqui? A loja online tem reputação RA1000 e nota 8,5/10 nos últimos seis meses (abril a setembro), com 90,6% das reclamações resolvidas e 74,8% dos consumidores dizendo que voltariam a fazer negócio.",
           "O que é o selo RA1000? É a reputação mais alta do Reclame Aqui, dada às empresas com os melhores índices de resposta, solução e avaliação dos consumidores no período. A loja online da I Wanna Sleep chegou a ele em setembro.",
           "O que mais aparece nas reclamações da I Wanna Sleep? Atraso na entrega é o problema mais citado no painel do Reclame Aqui (25,19% das reclamações dos últimos três anos), e travesseiros são o produto mais citado.",
-          "A I Wanna Sleep resolve as reclamações? Sim: segundo o Reclame Aqui, a loja online respondeu 100% das reclamações dos últimos seis meses e resolveu 90,6%, com tempo médio de resposta de 1 dia e 1 hora.",
-          "O cupom CECIEMCASA muda o preço final do produto? Não. O desconto de 10% é concedido pela marca por meio da parceria com o Em Casa com Cecília, sem custo adicional para quem compra."
+          "A I Wanna Sleep resolve as reclamações? Sim: segundo o Reclame Aqui, a loja online respondeu 100% das reclamações de abril a setembro e resolveu 90,6%, com tempo médio de resposta de 1 dia e 1 hora.",
+          "O cupom CECIEMCASA muda o preço final do produto? Muda, nos produtos elegíveis do site oficial: o código dá 10% de desconto, concedido pela marca por meio da parceria com o Em Casa com Cecília. O código e os links podem gerar comissão, sem custo extra para você."
         ]
       }
     ],
@@ -52014,6 +52015,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Pillow Top Magnum IWS com o cupom CECIEMCASA e 10% OFF: 10 cm de AirFiber, elásticos, tamanhos, cuidados e quando ajuda no colchão duro.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/iwannasleep/pillow-top-magnum-iws-capa-discover.webp",
@@ -52031,13 +52033,13 @@ export const reviewsData: unknown[] = [
       "Não corrige colchão afundado ou com molas danificadas",
       "Não é impermeável: pede capa protetora por cima",
       "Lavagem só a seco ou profissional",
-      "Preço alto: a partir de R$ 1.347 no tamanho solteiro"
+      "Preço alto para uma peça que não troca o colchão (valores por tamanho na tabela)"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida: o Pillow Top Magnum vale a pena?",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. O que decide é o estado do colchão; veja Veredito: para quem o Magnum vale a pena."
+          "O Pillow Top Magnum vale a pena se o seu colchão está em bom estado, mas firme demais. Ele não resolve colchão afundado nem trata dor nas costas: só muda a superfície, e a base continua a mesma. O que decide é o estado do colchão, e na dúvida sobre dor nas costas o caminho é o médico."
         ]
       },
       {
@@ -52069,7 +52071,7 @@ export const reviewsData: unknown[] = [
         "heading": "AirFiber e capa 100% algodão: o que muda no toque",
         "paragraphs": [
           "O toque promete parecer pluma de ganso, sem pena de animal, com selo **Animal Friendly**: AirFiber é a fibra acrílica exclusiva da marca no Brasil.",
-          "Por fora, a capa é de tecido 100% algodão, e a marca informa certificação OEKO-TEX®. Sobre calor, a I Wanna Sleep afirma que a combinação de AirFiber com algodão melhora a ventilação e evita que o pillow top esquente. Quem dorme com muito calor tira a dúvida na própria cama, com os 30 dias de Sleeptest."
+          "Por fora, a capa é de tecido 100% algodão, e a marca informa certificação OEKO-TEX®. Sobre calor, a I Wanna Sleep apresenta a combinação de AirFiber com algodão como uma proposta de ventilação, e o conforto térmico varia de pessoa para pessoa. Quem dorme com muito calor tira a dúvida na própria cama, com os 30 dias de Sleeptest."
         ],
         "image": "/images/reviews/iwannasleep/pillow-top-magnum-oficial-tecido.webp",
         "imageAlt": "Foto oficial da I Wanna Sleep: detalhe do tecido do Pillow Top Magnum com gomos costurados e acabamento dourado",
@@ -52190,7 +52192,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito: para quem o Magnum vale a pena",
         "paragraphs": [
-          "O Pillow Top Magnum vale a pena para um caso bem específico: **colchão em bom estado que ficou firme demais**. Nessa situação, ele custa uma fração de um colchão novo, adiciona 10 cm de conforto e ainda tem 30 dias de Sleeptest para tirar a dúvida na prática. Na página do produto, a nota exibida era 4,9 de 5, com 238 avaliações.",
+          "O Pillow Top Magnum vale a pena para um caso bem específico: **colchão em bom estado que ficou firme demais**. Nessa situação, ele custa uma fração de um colchão novo, adiciona 10 cm de conforto e ainda tem 30 dias de Sleeptest para tirar a dúvida na prática. Na página do produto, na mesma data dos preços da tabela, a nota exibida era 4,9 de 5, com 238 avaliações.",
           "Se o colchão já está gasto, ou se a dor nas costas é antiga e persistente, o melhor investimento é outro: um colchão novo ou uma consulta. Pillow top é conforto, não tratamento."
         ],
         "links": [
@@ -52211,7 +52213,7 @@ export const reviewsData: unknown[] = [
           "Pillow top ajuda na dor nas costas? Pode deixar a cama mais confortável para quem acorda incomodado em colchão muito duro, mas não trata problema de coluna. Dor persistente precisa de avaliação médica.",
           "Como prender o pillow top no colchão? O Pillow Top Magnum tem elásticos nas laterais. Estique a peça alinhada à cabeceira e passe os elásticos por baixo do colchão, um canto de cada vez.",
           "Qual lençol usar com pillow top? Um lençol de elástico com altura igual à do colchão mais 10 cm, para cobrir o conjunto sem apertar os gomos.",
-          "O Pillow Top Magnum esquenta? Segundo a I Wanna Sleep, a combinação de AirFiber com capa 100% algodão melhora a ventilação e evita que ele esquente. Quem sente muito calor pode testar pelo Sleeptest.",
+          "O Pillow Top Magnum esquenta? A I Wanna Sleep propõe a combinação de AirFiber com capa 100% algodão para ventilar, mas o conforto térmico varia de pessoa para pessoa. Quem sente muito calor pode testar pelo Sleeptest.",
           "Pode lavar pillow top na máquina? O Magnum deve ser lavado a seco ou em lavanderia profissional, segundo a marca. Use capa protetora por cima para lavar só ela no dia a dia.",
           "Quanto tempo o pillow top leva para encher? A marca orienta afofar gomo a gomo e deixar descansar por 6 horas antes do primeiro uso.",
           "Tem cupom para o Pillow Top Magnum? Sim: o CECIEMCASA dá 10% no site oficial da I Wanna Sleep, com o valor final no checkout."
@@ -77208,7 +77210,7 @@ export const reviewsData: unknown[] = [
           "**Basic:** casais que querem começar sem pagar ou esperam poucos presentes. Se você espera muitos presentes ou mais de 2 saques, compare com o Premium na tabela de planos acima.",
           "**Premium:** casais que esperam um volume maior de presentes ou fariam mais de 2 saques (preço, taxa e itens inclusos na tabela de planos acima).",
           "**Pro:** casais com convidados de vários países ou que querem todos os recursos (detalhes na tabela de planos acima).",
-          "Na dúvida, comece no Basic: com o Premium a R$ 99,90, o preço de outubro, ele se paga a partir de R$ 16.650 em presentes. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
+          "Na dúvida, comece no Basic: pela nossa conta, com o Premium a R$ 99,90 (o preço de outubro), a diferença de 0,60 ponto na taxa e o casal pagando a taxa, ele se paga a partir de R$ 16.650 em presentes. A oferta de novembro, com preços próprios para os planos, está em [Black Friday Lejour 2026](/reviews/black-friday-lejour)."
         ],
         "postParagraphs": [
           "Para saber a partir de quanto a taxa menor paga o preço do plano, a conta é simples: o preço do plano dividido pela diferença entre as taxas. É uma conta nossa, feita com os números acima, e serve como orientação, não como promessa de economia:",
@@ -77512,6 +77514,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Inflow e Sofá na Caixa são empresas diferentes. Compare as duas com a DAMIE em teste em casa, garantia, preço no Pix e Reclame Aqui para escolher o sofá certo.",
@@ -77546,7 +77549,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá na Caixa, Inflow ou DAMIE: resposta rápida",
         "paragraphs": [
-          "Não, Inflow e Sofá na Caixa são empresas diferentes. A maior diferença entre as três está no teste em casa e na garantia, onde a DAMIE oferece mais; no preço do Pix, a Sofá na Caixa sai mais barata. Preço do modelo e reputação no Reclame Aqui também pesam; veja as seções abaixo."
+          "Não, Inflow e Sofá na Caixa são empresas diferentes. A DAMIE oferece mais teste em casa e garantia. Entre os modelos de 3 lugares comparados, a Sofá na Caixa tem o menor preço no Pix, com frete e configuração a conferir. A reputação no Reclame Aqui também pesa na escolha."
         ]
       },
       {
@@ -77611,7 +77614,7 @@ export const reviewsData: unknown[] = [
             [
               "Devolução",
               "Reembolso integral nos 30 dias, com coleta",
-              "Só com o produto lacrado; frete de volta por conta do cliente",
+              "Pela política da loja, só com o produto lacrado; frete de volta por conta do cliente",
               "Na embalagem original, sem indícios de uso; frete de volta pago pela loja nos 10 dias"
             ],
             [
@@ -77678,17 +77681,17 @@ export const reviewsData: unknown[] = [
           "**Inflow:** nenhum período além dos 7 dias de arrependimento que o CDC garante em compra pela internet."
         ],
         "postParagraphs": [
-          "**A regra da Inflow para devolver.** Pela política de trocas da Inflow, o arrependimento só vale com o produto lacrado, sem sinais de abertura, e o frete de volta é do cliente. Depois de aberto, o sofá não se troca por motivo pessoal: só pela garantia, em caso de defeito. Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, quem quer a chance de devolver precisa decidir antes de abrir a caixa.",
+          "**A regra da Inflow para devolver.** Pela política de trocas da Inflow, a devolução por arrependimento é aceita com o produto lacrado, sem sinais de abertura, e o frete de volta é do cliente. Depois de aberto, a política da loja só prevê troca por defeito, pela garantia. O CDC garante 7 dias de arrependimento na compra pela internet, e o lacre e o frete são exigências da loja: na dúvida, confirme com a Inflow antes de abrir. Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, o mais seguro, pela regra da loja, é decidir antes de abrir a caixa.",
           "**A garantia.** A DAMIE dá 1 ano e, depois, suporte vitalício com peças a preço de custo. A Sofá na Caixa dá 3 meses e a Inflow, 3 meses na ficha do produto (a política dela fala em 90 dias para relatar defeito). O CDC já dá 90 dias para reclamar de defeito em produto durável, como sofá. As garantias da Sofá na Caixa e da Inflow têm esse mesmo prazo; a da DAMIE (1 ano) é a única que passa dele."
         ]
       },
       {
         "heading": "Quanto custa um sofá de 3 lugares em cada uma?",
         "paragraphs": [
-          "Preços dos sites. Os modelos não são idênticos (a DAMIE vende o 3 lugares com puff; a Inflow e a Sofá na Caixa, com apoio de pé), e o preço muda com o revestimento e com o número de lugares, então a comparação é de ordem de grandeza, não de centavos."
+          "Preços dos sites em 14/10/2026. Os modelos não são idênticos (a DAMIE vende o 3 lugares com puff; a Inflow e a Sofá na Caixa, com apoio de pé), e o preço muda com o revestimento e com o número de lugares, então a comparação é de ordem de grandeza, não de centavos."
         ],
         "comparisonTable": {
-          "caption": "Preço de um sofá de 3 lugares em 14/10/2026",
+          "caption": "Preço de um sofá de 3 lugares",
           "headers": [
             "Marca",
             "Modelo",
@@ -77742,8 +77745,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As três dão 10% no Pix e informam o valor; compare sempre Pix com Pix ou parcela com parcela. No Pix, a Sofá na Caixa (R$ 3.482,19) é o menor, a DAMIE vem em R$ 4.590 e a Inflow, a partir de R$ 5.031.",
-          "A Sofá na Caixa tem o menor preço listado, com 10 dias de teste e garantia de 3 meses. A DAMIE custa mais na vitrine e, nos tecidos, fica abaixo da Inflow no Pix, com 30 dias de teste e 1 ano de garantia."
+          "As três dão 10% no Pix e informam o valor; compare sempre Pix com Pix ou parcela com parcela. No Pix, entre os modelos da tabela, a Sofá na Caixa (R$ 3.482,19) é o menor, a DAMIE vem em R$ 4.590 e a Inflow, a partir de R$ 5.031.",
+          "Entre os modelos comparados, a Sofá na Caixa tem o menor preço listado, com 10 dias de teste e garantia de 3 meses. A DAMIE custa mais na vitrine e, nos tecidos, fica abaixo da Inflow no Pix, com 30 dias de teste e 1 ano de garantia. Frete e configuração mudam o total: confira na loja."
         ]
       },
       {
@@ -77860,7 +77863,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral.",
-          "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado, inclusive no Pix. Pese contra os 10 dias de teste, os 3 meses de garantia e o selo Regular.",
+          "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado entre os modelos comparados, inclusive no Pix. Pese contra os 10 dias de teste, os 3 meses de garantia e o selo Regular.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano.",
           "**Quem quer o melhor atendimento segundo o Reclame Aqui:** Inflow, com RA1000 e 94% de reclamações resolvidas, lembrando que o histórico dela é curto.",
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
@@ -77896,10 +77899,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Inflow e Sofá na Caixa são a mesma empresa? Não. A Inflow é da Fast Living Comércio e Distribuição Ltda. (CNPJ 44.947.739/0001-80, Itapeva, MG, ativa desde 2022) e a Sofá na Caixa é da Sofá na Caixa Ltda. (CNPJ 53.546.707/0001-64, Rafard, SP, ativa desde 2024). Cada uma tem site e regras próprios.",
-          "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem selo RA1000 no Reclame Aqui e a Sofá na Caixa, Regular. A Sofá na Caixa tem o menor preço listado e 10 dias de teste em casa; a Inflow não dá teste além dos 7 dias do CDC.",
+          "Qual é melhor, Sofá na Caixa ou Inflow? Depende do que pesa mais. A Inflow tem selo RA1000 no Reclame Aqui e a Sofá na Caixa, Regular. A Sofá na Caixa tem o menor preço listado entre os modelos comparados e 10 dias de teste em casa; a Inflow não dá teste além dos 7 dias do CDC.",
           "Existe outra marca parecida com a Sofá na Caixa e a Inflow? A DAMIE também entrega o sofá modular em caixas, mas com módulos pré-estruturados em madeira, ligados por encaixe, e não com espuma compactada. Tem 30 dias de teste em casa e 1 ano de garantia.",
           "Qual tem a maior garantia? A DAMIE: 1 ano e, depois, suporte vitalício com peças a preço de custo. A Inflow dá 3 meses na ficha do produto (90 dias na política) e a Sofá na Caixa, 3 meses.",
-          "Posso devolver o sofá da Inflow depois de abrir? Por arrependimento, não. A política da Inflow só aceita a devolução com o produto lacrado, e o frete de volta é do cliente. Depois de aberto, só pela garantia de 3 meses (90 dias), em caso de defeito.",
+          "Posso devolver o sofá da Inflow depois de abrir? Pela política da Inflow, a devolução por arrependimento só é aceita com o produto lacrado, e o frete de volta é do cliente. O CDC garante 7 dias de arrependimento na compra online, e o lacre é exigência da loja: na dúvida, confirme com a Inflow antes de abrir. Depois de aberto, a loja prevê só a garantia de 3 meses (90 dias), em caso de defeito.",
           "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto.",
           "Qual entrega no Norte e no Nordeste? A DAMIE atende Norte e Nordeste pelo Mercado Livre, e o frete grátis dela vale no Sul e no Sudeste. A Inflow publica frete grátis só no Sul e no Sudeste. Confira o frete com o seu CEP no carrinho antes de fechar."
         ]
@@ -77912,7 +77915,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "O menor preço decide sozinho, mesmo com 10 dias de teste e 3 meses de garantia.",
-        "Você prefere o atendimento melhor avaliado no Reclame Aqui e topa decidir antes de abrir a caixa."
+        "Você prefere o atendimento melhor avaliado no Reclame Aqui e aceita, pela política da loja, decidir antes de abrir a caixa."
       ]
     }
   },
@@ -77933,6 +77936,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Sofá na caixa pode durar tanto quanto o montado, porque a caixa é só o jeito de entregar. Veja o que decide a durabilidade, o checklist da ficha técnica e a garantia de cada marca.",
@@ -78021,7 +78025,7 @@ export const reviewsData: unknown[] = [
           "**DAMIE:** 1 ano e, depois, suporte vitalício com peças a preço de custo."
         ],
         "postParagraphs": [
-          "Existe um mínimo que vale para qualquer loja: o Código de Defesa do Consumidor (art. 26, II) dá 90 dias para reclamar de defeito em produto durável. Uma garantia de 90 dias equivale ao prazo que a lei já dá. O que passa disso é o que a marca oferece por conta própria, e é isso que merece peso na comparação. Leia também o que a garantia cobre: um ano só para a estrutura e três meses para tudo são promessas diferentes.",
+          "Existe um mínimo que vale para qualquer loja: o Código de Defesa do Consumidor (art. 26, II) dá 90 dias para reclamar de defeito em produto durável, a chamada garantia legal. A garantia da marca é outra proteção, contratual e complementar (art. 50), dada por termo escrito. Na comparação, pesam a duração e o que cada termo cobre, não uma conta de 90 dias a mais ou a menos. Leia também o que a garantia cobre: um ano só para a estrutura e três meses para tudo são promessas diferentes.",
           "Outra pergunta que ajuda: a ABNT tem uma norma para sofás, a **NBR 15164**, com requisitos e métodos de ensaio de resistência, durabilidade e estabilidade, em edição nova de 02/2026. Vale perguntar à loja se o sofá foi ensaiado por ela e pedir o relatório ou a declaração. Uma resposta vaga também diz alguma coisa."
         ]
       },
@@ -78072,7 +78076,7 @@ export const reviewsData: unknown[] = [
             [
               "Teste em casa",
               "30 dias, com coleta e reembolso integral",
-              "Nenhum além dos 7 dias do CDC, só com a caixa lacrada",
+              "Nenhum além dos 7 dias do CDC; a política da Inflow exige a caixa lacrada",
               "10 dias"
             ]
           ]
@@ -78145,7 +78149,7 @@ export const reviewsData: unknown[] = [
           "Sofá na caixa ou sofá montado: qual dura mais? A embalagem não responde. Um sofá na caixa com boa estrutura e boa espuma pode durar tanto quanto um montado, e um montado com materiais fracos dura menos. Compare as fichas, não o formato.",
           "O sofá na caixa vem montado ou desmontado? Depende do tipo. O modular pré-estruturado vem em módulos para encaixar (na DAMIE, em menos de 10 minutos, segundo a ficha). O de espuma compactada vem inteiro e ganha forma quando a caixa é aberta.",
           "O que olhar na ficha técnica de um sofá? Estrutura (material e espessura), molas ou percintas, espuma (tipo e densidade), tecido e peso suportado por módulo ou lugar. Confira também a garantia e o teste em casa.",
-          "Qual a garantia de um sofá na caixa? Depende da marca. A DAMIE dá 1 ano e suporte vitalício com peças a preço de custo, a Sofá na Caixa dá 3 meses e a Inflow, 90 dias. Pelo Código de Defesa do Consumidor, o mínimo para reclamar de defeito em produto durável é 90 dias."
+          "Qual a garantia de um sofá na caixa? Depende da marca. A DAMIE dá 1 ano e suporte vitalício com peças a preço de custo, a Sofá na Caixa dá 3 meses e a Inflow, 90 dias. Pelo Código de Defesa do Consumidor, o mínimo para reclamar de defeito em produto durável é 90 dias, e a garantia da marca é uma proteção complementar, descrita no termo de cada loja."
         ]
       }
     ],
@@ -78887,10 +78891,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Conferimos a Cléa Store: CNPJ ativo, site oficial, devolução grátis, cashback de 10% e reputação Boa no Reclame Aqui. Veja se ela é confiável e o que pesa na compra.",
+    "description": "A Cléa Store tem CNPJ ativo, site oficial, devolução grátis, cashback de 10% e reputação Boa no Reclame Aqui em outubro. Veja se ela é confiável e o que pesa na compra.",
     "metaDescription": "Cléa Store, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: CNPJ, devolução grátis, cashback e reputação no Reclame Aqui antes de comprar.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/clea-store-confiavel-capa-discover.webp",
@@ -78901,13 +78906,13 @@ export const reviewsData: unknown[] = [
       "CNPJ ativo nos dados públicos em 14/10/2026, o mesmo do rodapé do site",
       "Devolução grátis em 30 dias corridos e 90 dias para defeito de fabricação",
       "Cashback de 10% em créditos a cada compra",
-      "Reputação Boa e selo de Empresa Verificada no Reclame Aqui, com 100% das reclamações respondidas nos últimos seis meses",
+      "Reputação Boa e selo de Empresa Verificada no Reclame Aqui em outubro, com 100% das reclamações respondidas nos seis meses até setembro",
       "Página de perfis oficiais e aviso de que o pagamento é feito só no site"
     ],
     "cons": [
       "Frete grátis só acima de R$ 599",
       "O cashback vence em 30 dias",
-      "Só 55,6% de quem avaliou no Reclame Aqui voltaria a fazer negócio, nos últimos seis meses"
+      "Só 55,6% de quem avaliou no Reclame Aqui voltaria a fazer negócio, nos seis meses até setembro"
     ],
     "cta": {
       "text": "Se a Cléa Store faz sentido para você, entre pelo link da parceria e use o cupom CSEMCASACOMCECILIA, de 10% OFF em todo o site.",
@@ -78930,7 +78935,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Cléa Store é confiável. A empresa tem CNPJ ativo, site oficial com os dados publicados, devolução sem custo e reputação Boa no Reclame Aqui. O que mais pesa na compra é o frete, que só sai de graça acima de um valor mínimo; as regras estão no capítulo de frete e no de vale a pena. Para comprar com desconto, use o [cupom Cléa Store](/cupons/clea-store)."
+          "Sim, a Cléa Store é confiável: CNPJ ativo, site oficial com dados publicados, devolução sem custo e reputação Boa no Reclame Aqui em outubro. O que mais pesa é o frete, grátis só acima de um valor mínimo. Para comprar com desconto, use o [cupom Cléa Store](/cupons/clea-store)."
         ]
       },
       {
@@ -79118,14 +79123,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Cléa Store?",
         "paragraphs": [
-          "Do ponto de vista da confiança, sim: CNPJ ativo, devolução grátis em 30 dias e reputação Boa no Reclame Aqui.",
-          "Há dois pontos que mudam a conta. O frete grátis só começa acima de R$ 599, então pedidos menores pagam o frete. E o \"voltariam a fazer negócio\" no Reclame Aqui ficou em 55,6% nos últimos seis meses, o ponto mais fraco do perfil; os detalhes estão no artigo de reputação."
+          "Do ponto de vista da confiança, sim: CNPJ ativo, devolução grátis em 30 dias e reputação Boa no Reclame Aqui em outubro.",
+          "Há dois pontos que mudam a conta. O frete grátis só começa acima de R$ 599, então pedidos menores pagam o frete. E o \"voltariam a fazer negócio\" no Reclame Aqui ficou em 55,6% nos seis meses até setembro, o ponto mais fraco do perfil; os detalhes estão no artigo de reputação."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Cléa Store é confiável? Sim. A loja tem CNPJ ativo, razão social e endereço publicados, política de devolução no site e reputação Boa no Reclame Aqui, com todas as reclamações respondidas.",
+          "A Cléa Store é confiável? Sim. A loja tem CNPJ ativo, razão social e endereço publicados, política de devolução no site e reputação Boa no Reclame Aqui em outubro, com todas as reclamações respondidas.",
           "O site da Cléa Store é seguro? O endereço oficial é cleastore.com.br, e o pagamento é feito somente no site. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio ou mensagem.",
           "De onde é a Cléa Store? A empresa fica em Jaraguá do Sul (SC), segundo os dados públicos de CNPJ. A Clea Store Ltda. está no endereço Rua Erwino Menegotti, 1589, bairro Água Verde.",
           "Qual é o CNPJ da Cléa Store? O CNPJ é 27.310.985/0001-08, da Clea Store Ltda., que consta como ativo nos dados públicos. Ele aparece no rodapé do site e na política de privacidade.",
@@ -79152,10 +79157,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Cléa Store tem reputação Boa e selo de Empresa Verificada no Reclame Aqui, e responde todas as reclamações. Veja os pontos fracos e o que fazer se o pedido der problema.",
-    "metaDescription": "Cléa Store no Reclame Aqui, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: reputação Boa, nota 7,1 e 100% das reclamações respondidas.",
+    "description": "A Cléa Store tinha reputação Boa e selo de Empresa Verificada no Reclame Aqui em outubro e respondia as reclamações. Veja os pontos fracos e o que fazer se o pedido der problema.",
+    "metaDescription": "Cléa Store no Reclame Aqui, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: reputação Boa em outubro, nota 7,1 e reclamações respondidas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/clea-store-reclame-aqui-capa-discover.webp",
@@ -79163,17 +79169,17 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Reputação Boa, com nota 7,1 nos últimos 6 meses e 7,5 nos últimos 12",
+      "Reputação Boa em outubro, com nota 7,1 nos 6 meses até setembro e 7,5 nos 12",
       "Selo de Empresa Verificada no Reclame Aqui",
-      "100% das reclamações respondidas e nenhuma aguardando resposta",
-      "83,3% das reclamações dos últimos 6 meses resolvidas",
+      "100% das reclamações respondidas e nenhuma aguardando resposta, nos 6 meses até setembro",
+      "83,3% das reclamações dos 6 meses até setembro resolvidas",
       "Avaliações de compra de 4,8 em 5 no topo do perfil"
     ],
     "cons": [
-      "Só 55,6% dos consumidores que avaliaram voltariam a fazer negócio nos últimos 6 meses",
-      "Nota média do consumidor de 5,06 nos últimos 6 meses",
+      "Só 55,6% dos consumidores que avaliaram voltariam a fazer negócio nos 6 meses até setembro",
+      "Nota média do consumidor de 5,06 nos 6 meses até setembro",
       "Produto não recebido é o problema mais citado, com 27,33%",
-      "O tempo médio de resposta é de 3 dias e 5 horas nos últimos 6 meses, contra 2 dias e 4 horas nos últimos 12"
+      "O tempo médio de resposta é de 3 dias e 5 horas nos 6 meses até setembro, contra 2 dias e 4 horas nos 12"
     ],
     "cta": {
       "text": "Se os números te deram segurança para comprar, entre pelo link da parceria e use o cupom CSEMCASACOMCECILIA, de 10% OFF em todo o site.",
@@ -79196,7 +79202,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A reputação da Cléa Store no Reclame Aqui é Boa, e a loja tem o selo de Empresa Verificada. Ela responde todas as reclamações e resolve a maior parte delas. O ponto fraco é que pouco mais da metade de quem avaliou a reclamação voltaria a comprar. Os números estão nos capítulos abaixo; para comprar com desconto, veja o [cupom Cléa Store](/cupons/clea-store)."
+          "Em outubro, a reputação da Cléa Store no Reclame Aqui era Boa, e a loja tinha o selo de Empresa Verificada. Ela respondia a tudo e resolvia a maior parte. O ponto fraco: pouco mais da metade de quem avaliou voltaria a comprar. Para comprar com desconto, veja o [cupom Cléa Store](/cupons/clea-store)."
         ]
       },
       {
@@ -79360,15 +79366,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Cléa Store?",
         "paragraphs": [
-          "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, com selo de Empresa Verificada; a loja responde a tudo e resolve a maior parte, como mostra a tabela.",
+          "Pelo Reclame Aqui, sim, com uma ressalva. Em outubro, a reputação era Boa, com selo de Empresa Verificada; a loja respondia a tudo e resolvia a maior parte, como mostra a tabela.",
           "A ressalva é que só 55,6% dos consumidores que avaliaram voltariam a fazer negócio, e o problema mais citado é o produto não recebido (mais de um quarto das reclamações de até 3 anos). Quem compra deve guardar o comprovante e acionar a loja pelos canais oficiais se o pedido atrasar."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Cléa Store é confiável segundo o Reclame Aqui? Sim: o perfil mostra reputação Boa e o selo de Empresa Verificada. O ponto fraco é o percentual de quem voltaria a fazer negócio, que está na tabela de 6 e 12 meses.",
-          "Qual a nota da Cléa Store no Reclame Aqui? Nota 7,1 nos últimos 6 meses e 7,5 nos últimos 12 meses, ambas na faixa Boa; a nota do consumidor está na tabela. As avaliações de compra, de 4,8 em 5, são outra métrica.",
+          "A Cléa Store é confiável segundo o Reclame Aqui? Sim: em outubro, o perfil mostrava reputação Boa e o selo de Empresa Verificada. O ponto fraco é o percentual de quem voltaria a fazer negócio, que está na tabela de 6 e 12 meses.",
+          "Qual a nota da Cléa Store no Reclame Aqui? Nota 7,1 nos 6 meses até setembro e 7,5 nos 12 meses até setembro, ambas na faixa Boa; a nota do consumidor está na tabela. As avaliações de compra, de 4,8 em 5, são outra métrica.",
           "A Cléa Store responde às reclamações? Sim. A tabela mostra todas as reclamações respondidas nos últimos 6 e nos últimos 12 meses, com resposta em poucos dias, em média.",
           "O que fazer se o pedido da Cléa Store atrasar? Acompanhe o rastreio e, quando o prazo mostrado no checkout vencer, escreva para o atendimento da loja, pelo botão \"Fale com Atendente\" do site, com o número do pedido. Se não resolver, abra uma reclamação no Reclame Aqui.",
           "Como pedir devolução ou troca na Cléa Store? A devolução tem 30 dias corridos a partir do recebimento, pelo formulário cleastore.troquefacil.com.br, e a postagem é grátis. Em caso de defeito de fabricação, o prazo é de 90 dias corridos, com foto e descrição."
@@ -81197,10 +81203,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "As 20 peças da seleção da Cecília na Insider, com o preço do site e o preço final com o cupom EMCASACOMCECILIA, que dá 15% OFF sem valor mínimo e vale um por pedido.",
+    "description": "As 20 peças da seleção da Cecília na Insider, com os preços de outubro e o preço final com o cupom EMCASACOMCECILIA, que dá 15% OFF sem valor mínimo e vale um por pedido.",
     "metaDescription": "Promoção Insider: 20 peças da seleção da Cecília com o cupom EMCASACOMCECILIA e 15% OFF. Preço com o cupom, cores e tamanhos de cada peça.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/selecao-insider-capa.webp",
@@ -81208,14 +81215,14 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "Cinco peças ficam 49% abaixo da tabela com o cupom",
+      "Em outubro, cinco peças ficaram 49% abaixo da tabela com o cupom",
       "O cupom de 15% sai sobre o preço que o site já mostra",
       "Os botões abrem o produto com o cupom aplicado",
-      "Peças para o dia a dia, o treino e o trabalho, de R$ 35,19 a R$ 407,15 com o cupom"
+      "Peças para o dia a dia, o treino e o trabalho, de R$ 35,19 a R$ 407,15 com o cupom, nos preços de outubro"
     ],
     "cons": [
-      "As promoções do site valem até 31/10/2026",
-      "Algumas cores já tinham tamanhos esgotados em 15/10",
+      "As promoções de outubro do site já terminaram: confira o preço do dia",
+      "Algumas cores já tinham tamanhos esgotados em outubro",
       "Em várias peças o preço muda com a cor e o tamanho",
       "Um cupom por pedido, e ele não vale na loja física nem nos primeiros dias de alguns lançamentos"
     ],
@@ -81232,18 +81239,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: promoção Insider com o cupom",
         "paragraphs": [
-          "O cupom EMCASACOMCECILIA dá 15% OFF sobre o preço que o site da Insider já mostra, sem valor mínimo, nas 20 peças da seleção da Cecília. As promoções do site valem até o fim de outubro, e a loja aceita um cupom por pedido. O quadro abaixo traz o preço de cada peça com o cupom."
+          "O cupom EMCASACOMCECILIA dá 15% OFF sobre o preço que o site da Insider já mostra, sem valor mínimo, nas 20 peças da seleção da Cecília, e a loja aceita um cupom por pedido. O quadro traz os preços de outubro já com o cupom. Em novembro a loja está na Black Friday: confira o preço do dia."
         ]
       },
       {
         "heading": "Como ler os preços desta seleção",
         "paragraphs": [
-          "A seleção reúne 20 peças escolhidas pela Cecília na Insider: 4 roupas íntimas, 9 camisas e camisetas e 7 bermudas, vestidos e outras peças. Todas aceitam o cupom EMCASACOMCECILIA, de 15% OFF sobre o preço do site, e as promoções do site valem até 31/10/2026.",
-          "Os preços foram conferidos em 15/10/2026. Em algumas peças, o preço muda conforme a cor, e a seção de cada uma diz em quais cores vale o menor. Cores e tamanhos em estoque são da mesma data. Para acertar o tamanho, veja a [Tabela de medidas Insider: como escolher o tamanho](/reviews/tabela-de-medidas-insider)."
+          "A seleção reúne 20 peças escolhidas pela Cecília na Insider: 4 roupas íntimas, 9 camisas e camisetas e 7 bermudas, vestidos e outras peças. Todas aceitam o cupom EMCASACOMCECILIA, de 15% OFF sobre o preço do site.",
+          "Os preços e os estoques abaixo são de 15/10/2026, de promoções de outubro que já terminaram: o preço do dia pode ser outro, e a Black Friday da loja já está no ar. Em algumas peças, o preço muda conforme a cor, e a seção de cada uma diz em quais cores vale o menor. Cores e tamanhos em estoque são da mesma data: confira na loja antes de escolher. Para acertar o tamanho, veja a [Tabela de medidas Insider: como escolher o tamanho](/reviews/tabela-de-medidas-insider)."
         ],
         "bullets": [
           "**Preço de tabela:** o preço riscado na página do produto.",
-          "**No site:** o preço que a loja mostra, já com a promoção.",
+          "**No site:** o preço que a loja mostrava, já com a promoção.",
           "**Com o cupom:** o preço do site menos os 15% do EMCASACOMCECILIA.",
           "**Abaixo da tabela:** quanto o preço com o cupom fica abaixo do preço riscado."
         ]
@@ -81251,7 +81258,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "As 20 peças num quadro só",
         "comparisonTable": {
-          "caption": "As 20 peças da seleção: preço no site, com o cupom e quanto fica abaixo da tabela",
+          "caption": "As 20 peças da seleção em outubro: preço no site, com o cupom e quanto fica abaixo da tabela",
           "headers": [
             "Peça",
             "No site",
@@ -81841,6 +81848,7 @@ export const reviewsData: unknown[] = [
           "**Pelos botões desta seleção:** a página do produto já abre com o cupom aplicado, e o preço aparece com a indicação \"com cupom EMCASACOMCECILIA\".",
           "**Um cupom por pedido:** o EMCASACOMCECILIA não soma com outro código.",
           "**Fora do cupom:** compras na loja física e, nos primeiros dias, alguns lançamentos.",
+          "**Black Friday:** em novembro, o cupom soma com os preços da campanha, de até 50% OFF em itens selecionados, salvo quando a página do produto avisar que o desconto não acumula com cupom.",
           "**Kits \"Compre 1, ganhe 1\":** a página do kit diz que essa promoção da loja não soma com cupom.",
           "**Tamanho:** algumas peças têm modelagem justa. Confira a [tabela de medidas da Insider](/reviews/tabela-de-medidas-insider) antes de escolher.",
           "**Onde digitar o código:** veja [Como usar o cupom EMCASACOMCECILIA na Insider](/reviews/cupom-emcasacomcecilia-insider-store-como-usar)."
@@ -81849,12 +81857,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Até quando valem esses preços? As promoções do site valem até o fim de outubro. Quem prefere esperar novembro encontra os preços de outubro para comparar no guia da [Black Friday Insider](/reviews/black-friday-insider).",
+          "Esses preços ainda valem? Não necessariamente: são os de outubro, de promoções que já terminaram. Em novembro a loja está na Black Friday, com até 50% OFF em itens selecionados; veja o preço do dia na loja e compare com o quadro. Para a campanha, veja o guia da [Black Friday Insider](/reviews/black-friday-insider).",
           "O cupom EMCASACOMCECILIA vale nas 20 peças da seleção? Sim. As 20 peças aceitam o cupom de 15% OFF, sem valor mínimo e com todas as formas de pagamento.",
-          "O cupom soma com o preço promocional do site? Sim. Os 15% saem sobre o preço que o site já mostra, e não sobre o preço de tabela.",
+          "O cupom soma com o preço promocional do site? Sim. Os 15% saem sobre o preço que o site já mostra, e não sobre o preço de tabela. Se a página do produto avisar que o desconto não acumula com cupom, ele não entra naquele item.",
           "Posso usar dois cupons no mesmo pedido? Não. A Insider aceita um cupom por pedido. As regras e a data do último teste estão na [página do cupom Insider](/cupons/insider).",
           "Qual é a peça mais barata da seleção? A Calcinha Biquíni Brief: R$ 41,40 no site e R$ 35,19 com o cupom, 49% abaixo da tabela.",
-          "A lista muda? Sim. A seleção é atualizada a cada mês, neste mesmo endereço."
+          "A lista muda? Esta seleção é a de outubro e não se atualiza sozinha: peças, cores e tamanhos podem ter mudado, então confira na loja."
         ]
       }
     ],
@@ -83601,7 +83609,7 @@ export const reviewsData: unknown[] = [
           "Simulação nossa, com as taxas e os preços de outubro da tabela anterior.",
           "Nessa lista, quem fica com mais é o Premium da Lejour, e quem fica com menos é o Black do iCasei de 12 meses. A diferença é de R$ 196,40, perto de 1% da lista.",
           "Os planos pagos do iCasei deixam menos que o Basic grátis: a taxa menor não cobre o preço do plano numa lista desse tamanho.",
-          "O Pro da Lejour só deixa mais que o Premium quando a lista passa de R$ 33.333, pela nossa conta: são R$ 100 a mais de plano para 0,30 ponto a menos de taxa. A partir de quanto o Premium compensa sobre o Basic está em [O que é a Lejour e como funciona](/reviews/lejour-como-funciona).",
+          "O Pro da Lejour só deixa mais que o Premium quando a lista passa de R$ 33.333, pela nossa conta com os preços de outubro: são R$ 100 a mais de plano para 0,30 ponto a menos de taxa. A partir de quanto o Premium compensa sobre o Basic está em [O que é a Lejour e como funciona](/reviews/lejour-como-funciona).",
           "Se o casal repassa a taxa ao convidado, recebe os R$ 20.000 nas três plataformas. Aí a diferença de taxa sai do bolso de quem dá o presente, e o plano pago continua por conta do casal."
         ]
       },
@@ -83787,7 +83795,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Casamento a mais de 6 meses:** o Basic do iCasei vence antes da festa. Comparem um plano pago do iCasei de 9 ou 12 meses com o pagamento único da Lejour ou com o Casar.com, que é grátis até 30 dias depois do casamento.",
           "**Lista pequena, sem plano pago:** os três grátis cobram 3,89%. No Basic da Lejour, só 2 saques são grátis (depois, R$ 5 cada); no iCasei e no Casar.com, os saques são ilimitados. Quem prefere sacar aos poucos paga menos fora do Basic da Lejour.",
-          "**Lista grande:** o plano pago com taxa menor começa a compensar. Dentro da Lejour, o Premium deixa mais que o Basic numa lista de R$ 20.000, e o Pro só passa o Premium acima de R$ 33.333.",
+          "**Lista grande:** o plano pago com taxa menor começa a compensar. Dentro da Lejour, o Premium deixa mais que o Basic numa lista de R$ 20.000, e o Pro só passa o Premium acima de R$ 33.333, pelos preços de outubro.",
           "**Quer produtos, não só dinheiro:** Fast Shop na Lejour ou seis lojas no Shopping Casar.com, as duas com cashback. No iCasei, os produtos ficam numa lista à parte, em outra loja.",
           "**Quer o site no ar depois da festa:** a Lejour deixa o site aberto por 90 dias após o casamento, o Casar.com por 30 dias, e o iCasei pelo período do plano.",
           "**Muitos convidados vão parcelar:** a Lejour vai até 12x; o iCasei e o Casar.com, até 6x, e o iCasei com juros menores ao mês.",
@@ -83866,6 +83874,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECIEMCASA dá 10% OFF em todo o site da I Wanna Sleep. Travesseiro I Wanna Sleep ou Ortobom: material, altura, lavagem, teste em casa e garantia.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/iwannasleep/i-wanna-sleep-ou-ortobom-capa.webp",
@@ -83876,7 +83885,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Depende do que pesa mais para você: para gastar menos, a Ortobom tem os travesseiros mais baratos; para testar em casa e ter látex natural, a I Wanna Sleep. Altura e firmeza também mudam a escolha, então veja nos capítulos abaixo o que cada marca declara e, no fim, o capítulo Qual escolher."
+          "Depende do que pesa mais para você. Entre os modelos comparados, a Ortobom tem os travesseiros mais baratos, mas os materiais nem sempre se equivalem; para testar em casa e ter látex natural, a I Wanna Sleep. Altura e firmeza declaradas por cada marca também mudam a escolha."
         ]
       },
       {
@@ -83892,7 +83901,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Par a par por material",
         "paragraphs": [
-          "A Ortobom ganha no preço; a I Wanna Sleep, no ajuste e no látex natural. Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido."
+          "Nos modelos da tabela, a Ortobom tem os preços menores, mas nem sempre o material é o mesmo (a Pluma de Ganso da Ortobom é 100% pluma de ganso; o Pena e Pluma da I Wanna Sleep tem 20% de pluma e 80% de pena). A I Wanna Sleep ganha no ajuste e no látex natural. Cada linha põe o modelo da I Wanna Sleep ao lado do modelo da Ortobom de material parecido."
         ],
         "comparisonTable": {
           "caption": "Dados dos sites oficiais em 16/10/2026, sem códigos de desconto. Preços da Ortobom com São Paulo (capital) como cidade.",
@@ -84122,7 +84131,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher",
         "emphasis": "Se fosse para a minha casa, eu levaria o Snow, porque a altura ajustável até 18 cm resolve para quem não sabe a altura.",
         "bullets": [
-          "**Para gastar menos:** Ortobom. Viscopur a R$ 169; Royal Pillow e Conforto Regulável a R$ 159. Todos com 90 dias de garantia e sem teste em casa informado.",
+          "**Para gastar menos nos modelos comparados:** Ortobom. Viscopur a R$ 169; Royal Pillow e Conforto Regulável a R$ 159. Todos com 90 dias de garantia e sem teste em casa informado.",
           "**Para testar em casa:** I Wanna Sleep, com 30 dias de teste e crédito para troca.",
           "**Para látex natural:** o Original Látex da I Wanna Sleep. O Pró Látex da Ortobom tem enchimento de espuma de alta resiliência 100% poliuretano, diz a página.",
           "**Para acertar a altura:** o Snow da I Wanna Sleep, ajustável até 18 cm, ou um dos reguláveis da Ortobom, com duas alturas.",
@@ -84132,7 +84141,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "I Wanna Sleep ou Ortobom: qual escolher? Para gastar menos, a Ortobom; para testar em casa e ter látex natural, a I Wanna Sleep.",
+          "I Wanna Sleep ou Ortobom: qual escolher? Entre os modelos comparados, para gastar menos, a Ortobom; para testar em casa e ter látex natural, a I Wanna Sleep.",
           "Travesseiro Ortobom é bom? A marca informa a firmeza de cada modelo e 90 dias de garantia, sem teste em casa nas páginas.",
           "Travesseiro I Wanna Sleep é bom? A marca dá 30 dias de teste, com crédito para troca se você não se adaptar.",
           "O Pró Látex da Ortobom é de látex? A ficha descreve espuma de alta resiliência 100% poliuretano, com \"Material: Látex\" no campo de material.",
@@ -84159,7 +84168,7 @@ export const reviewsData: unknown[] = [
         "Você quer látex natural."
       ],
       "skipIf": [
-        "Você quer gastar menos: a Ortobom tem os travesseiros mais baratos, com 90 dias de garantia e sem teste em casa informado.",
+        "Você quer gastar menos: entre os modelos comparados, a Ortobom tem os mais baratos, com 90 dias de garantia e sem teste em casa informado.",
         "Você procura um modelo que a marca indique para quem dorme de costas ou de bruços: o Viscopur, da Ortobom.",
         "Você procura Nápoles, Amore ou Soneca: não estão no catálogo online da Ortobom."
       ]
@@ -100278,10 +100287,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Três looks de trabalho com alfaiataria montados só com peças da Cléa Store, do neutro ao colete vermelho. Veja quanto custa cada um, com e sem o cupom de 10%.",
+    "description": "Três looks de trabalho em alfaiataria com peças da Cléa Store, do neutro ao colete vermelho; nos dois primeiros, a calça é sua. Veja o custo com e sem o cupom de 10%.",
     "metaDescription": "Look de trabalho com alfaiataria da Cléa Store, com o cupom CSEMCASACOMCECILIA de 10% OFF no site: três combinações e quanto custa cada uma.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/clea-store-look-blazer-risca-de-giz-camisa.webp",
@@ -100292,7 +100302,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para montar três looks de trabalho com alfaiataria só com peças da Cléa Store: um neutro com blazer e camisa, um com body por baixo do blazer e um com colete e calça vermelhos. A loja não vende o look pronto; o capítulo de custo mostra o total de cada um e o que o estoque muda."
+          "Dá para montar três looks de trabalho com alfaiataria e peças da Cléa Store: um neutro com blazer e camisa, um com body por baixo do blazer e um com colete e calça vermelhos. Nos dois primeiros, a calça de alfaiataria é sua e fica fora da conta. A loja não vende o look pronto."
         ]
       },
       {
@@ -100470,7 +100480,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a Cléa não vende como conjunto",
         "paragraphs": [
-          "A Cléa não vende blazer com calça de alfaiataria como conjunto. O único conjunto do catálogo é o Conjunto Crochê Preto, de fio de poliamida, por R$ 1.490,00, e ele não é alfaiataria. Blazer, colete e calça aparecem separados, cada um com a sua ficha, por isso os looks deste artigo são montagens com peças vendidas separadamente."
+          "Na grade de outubro, a Cléa não tinha blazer com calça de alfaiataria como conjunto. O Conjunto Crochê Preto, de fio de poliamida, por R$ 1.490,00, não é alfaiataria. A loja tem uma página de [conjunto de alfaiataria amarelo, com calça e colete](https://www.cleastore.com.br/produto/conjunto-alfaiataria-amarelo-calca-e-colete-3877), que não entrou nesta conta: confira a disponibilidade no site. Blazer, colete e calça aparecem separados, cada um com a sua ficha, por isso os looks deste artigo são montagens com peças vendidas separadamente."
         ]
       },
       {
@@ -100487,7 +100497,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Dá para usar calça de alfaiataria com camiseta oversized? Dá. A T-Shirt Oversized tem modelagem ampla, segundo a ficha, e uma calça de caimento reto ou wide leg equilibra esse volume.",
           "Dá para usar body por baixo do blazer? Dá. O Body Gola Alta Manga Longa tem gola alta, então não aparece decote por baixo do blazer. Pela ficha, ele é 90% poliamida e 10% elastano, e custa R$ 135,20.",
-          "A Cléa vende conjunto de blazer e calça? Não. O único conjunto do catálogo é o Conjunto Crochê Preto, que não é de alfaiataria. Blazer e calça aparecem separados.",
+          "A Cléa vende conjunto de blazer e calça? Na grade de outubro, não: o Conjunto Crochê Preto não é de alfaiataria, e blazer e calça aparecem separados. Há uma página de conjunto amarelo de calça e colete: confira a disponibilidade no site.",
           "O cupom vale nas peças de alfaiataria? Vale. O CSEMCASACOMCECILIA dá 10% em todo o site oficial, e as peças de alfaiataria estão lá. Ele não vale no Mercado Livre, onde a alfaiataria não aparece."
         ]
       }
@@ -100863,6 +100873,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Tabela de medidas: como medir busto, cintura e quadril e escolher entre P, M, G ou 36 a 42.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/clea-store-blazer-oversized-bordo.webp",
@@ -100940,7 +100951,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e comparar com uma peça sua de medida parecida.",
+          "Na t-shirt e no blazer, a tabela traz só busto e cintura. Entre M e G há um intervalo: o M vai até 96 cm de busto e o G começa em 98 cm. Quem cai nesse meio deve olhar a descrição da peça e usar o provador da página. Comparar com uma roupa sua só vale se você tiver as medidas das duas peças, tiradas do mesmo jeito.",
           "Segundo a loja, a t-shirt tem modelagem oversized, de caimento amplo, e o body tem modelagem ajustada, com efeito segunda pele. Por isso, no body a medida pede mais atenção. Para comparar os modelos de body, veja o [guia de escolha do body](/reviews/body-clea-store-second-skin-qual-escolher)."
         ],
         "images": [
@@ -100956,7 +100967,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Tabela da calça",
         "paragraphs": [
-          "A calça vai de 36 a 42 pela cintura e pelo quadril, sem busto. Os números são da página da Calça New Baggy Areia, lida na mesma leitura."
+          "A calça vai de 36 a 42 pela cintura e pelo quadril, sem busto. Os números são da página da Calça New Baggy Areia."
         ],
         "comparisonTable": {
           "headers": [
@@ -100988,7 +100999,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "De um número para o outro, a cintura sobe de 4 a 10 cm e o quadril sobe 8 cm. Se a cintura e o quadril caem em números diferentes, compare com uma calça sua que serve: a tabela não diz qual medida pesa mais."
+          "De um número para o outro, a cintura sobe de 4 a 10 cm e o quadril sobe 8 cm. Se a cintura e o quadril caem em números diferentes, use o provador da página, e se a dúvida continuar a devolução é grátis: a tabela não diz qual medida pesa mais."
         ]
       },
       {
@@ -101077,10 +101088,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "No essencial, como t-shirts e bodies, o Mercado Livre da Cléa Store sai mais barato; o site vence em variedade, alfaiataria, cupom de 10% e cashback. Veja a comparação.",
-    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Mercado Livre ou site: no Mercado Livre o essencial sai mais barato; a variedade fica no site.",
+    "description": "Nos preços de outubro, o Mercado Livre da Cléa Store saía mais barato no essencial (t-shirts e bodies); o site vence em variedade, alfaiataria, cupom de 10% e cashback.",
+    "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Mercado Livre ou site: em outubro, o essencial saía mais barato no ML; a variedade, no site.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/clea-store-kit-3-t-shirts-intense.webp",
@@ -101091,7 +101103,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quase todo o essencial (t-shirts e bodies), o Mercado Livre sai mais barato que o site com o cupom; para variedade, cupom e cashback, o site é melhor. Os preços do Mercado Livre mudam rápido, então confira os dois; a tabela abaixo mostra a comparação do dia."
+          "Na comparação de outubro, para quase todo o essencial (t-shirts e bodies), o Mercado Livre saía mais barato que o site com o cupom; para variedade, cupom e cashback, o site é melhor. Os preços do Mercado Livre mudam rápido, então confira os dois antes de comprar."
         ]
       },
       {
@@ -101640,6 +101652,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Cueca Insider Comfort ou Performance, com o cupom EMCASACOMCECILIA de 15% OFF: tecido, uso, Anti Suor, Seamless e Slip, preço por peça nos kits e a troca.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/insider-cueca-performance-azul-comfort-verde-capa.webp",
@@ -101838,7 +101851,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca e tamanho",
         "paragraphs": [
-          "A central de ajuda da loja diz que underwear só tem troca ou devolução por defeito de fabricação, por motivos de higiene e segurança. Por isso, cueca não entra em troca por tamanho. Acerte o tamanho antes de comprar.",
+          "A central de ajuda da loja diz que underwear só tem troca ou devolução por defeito de fabricação, por motivos de higiene e segurança. Por isso, cueca não entra em troca por tamanho. Isso é política da loja para a troca voluntária; o arrependimento da compra online é outro pedido. Acerte o tamanho antes de comprar.",
           "Os tamanhos por modelo são:"
         ],
         "bullets": [
@@ -101856,7 +101869,7 @@ export const reviewsData: unknown[] = [
           "A cueca Insider é boa? A marca diz que a Performance absorve e evapora rápido o suor, e que a Comfort é ultramacia. Na página da loja, a Performance tem nota 4,9 em 5 com 5.633 avaliações, e a Comfort, 4,9 em 5 com 5.854. São avaliações da loja, não uma prova independente.",
           "A cueca Insider é igual à de algodão? Não. A Comfort é de TENCEL Modal e elastano. A Performance tem a parte de fora em poliamida e a de dentro em modal, com elastano nas duas partes.",
           "Qual cueca Insider para treino? A Performance. A página indica esporte, como corrida, musculação e ciclismo.",
-          "Dá para trocar cueca Insider por tamanho? Não. Underwear só tem troca ou devolução por defeito de fabricação, segundo a central de ajuda da loja.",
+          "Dá para trocar cueca Insider por tamanho? Não. Pela política da loja, underwear só tem troca ou devolução por defeito de fabricação, segundo a central de ajuda. O arrependimento da compra online é outro pedido: confirme com a loja.",
           "Cupom vale em kit? Em teste nosso, o desconto apareceu em kit com preço promocional. Confira a linha \"Código de desconto EMCASACOMCECILIA\" de cada item no checkout antes de pagar."
         ]
       }
@@ -101913,6 +101926,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF na Insider. Undershirt Leve, Moderado ou Block: nível de suor, construção nas axilas, cores, tamanho e troca.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/insider-undershirt-tres-niveis-capa.webp",
@@ -101923,13 +101937,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha pelo nível de transpiração, como a Insider indica: Leve para suor leve, Moderado para moderado e Block para excessivo. Nenhuma das três trata ou elimina o suor, e o Block estava esgotado. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
+          "Escolha pelo nível de transpiração, como a Insider indica: Leve para suor leve, Moderado para moderado e Block para excessivo. Nenhuma das três trata ou elimina o suor, e o Block estava esgotado em outubro. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, exceto em lançamentos."
         ]
       },
       {
         "heading": "Qual nível escolher",
         "paragraphs": [
-          "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume o que a loja publica para cada peça, e os estoques são do dia da leitura."
+          "A escolha é pelo nível de transpiração: leve, moderado ou excessivo. A tabela resume o que a loja publica para cada peça, e os preços e os estoques são de 20/10/2026: confira na loja antes de contar com uma cor ou um tamanho."
         ],
         "comparisonTable": {
           "headers": [
@@ -102061,7 +102075,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, kit e cupom",
         "paragraphs": [
-          "A coluna do cupom é conta nossa: 15% sobre o preço da página. O valor final aparece no checkout."
+          "Os preços são os da mesma data. A coluna do cupom é conta nossa: 15% sobre o preço da página. O valor final aparece no checkout."
         ],
         "comparisonTable": {
           "headers": [
@@ -102138,7 +102152,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Suor leve: Leve. A página não cita camada dupla nem reforço nas axilas, e ela só vem na cor bege, com gola V.",
           "Suor moderado: Moderado. Tem camada dupla na região das axilas e sai em bege, preta e branca, com gola V ou U.",
-          "Suor excessivo: Block, com reforço impermeável nas axilas, segundo a marca. Na leitura, estava esgotado.",
+          "Suor excessivo: Block, com reforço impermeável nas axilas, segundo a marca. Estava esgotado em outubro.",
           "Nos três casos, acerte o tamanho antes de comprar, porque a undershirt não é trocada por tamanho."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria o Moderado, porque tem camada dupla nas axilas e sai em três cores.",
@@ -102147,7 +102161,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca e cuidados",
         "paragraphs": [
-          "A undershirt não é trocada por tamanho. Pela central de ajuda, a linha Underwear só troca ou devolve por defeito de fabricação, e as undershirts seguem essa regra. O prazo para pedir a troca por defeito é de 180 dias corridos, com fotos. Por isso, acerte o tamanho antes de comprar.",
+          "A undershirt não é trocada por tamanho. Pela central de ajuda, a linha Underwear só troca ou devolve por defeito de fabricação, e as undershirts seguem essa regra, que é política da loja para a troca voluntária. O prazo de 180 dias corridos, com fotos, é o da troca por defeito. O arrependimento da compra online é outro pedido. Por isso, acerte o tamanho antes de comprar.",
           "Segundo a central de ajuda, a undershirt pode encolher até 7%. As instruções de lavagem da peça estão na etiqueta, e este texto não traz outras."
         ]
       },
@@ -102163,9 +102177,9 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A undershirt Insider funciona? Só pela ficha da loja não dá para dizer. A marca descreve cada nível e a construção, e as avaliações são dela. Ninguém da equipe usou as peças.",
           "Qual undershirt Insider escolher para suor moderado? A [Undershirt Antissuor Moderado](https://www.insiderstore.com.br/products/undershirt-anti-suor), indicada pela marca para transpiração moderada, com camada dupla nas axilas.",
-          "Qual a diferença entre a Leve e o Block? A Leve é para transpiração leve, e a página não declara camada dupla nem reforço. O Block é para transpiração excessiva, com reforço impermeável nas axilas, segundo a marca, e estava esgotado no dia da leitura.",
+          "Qual a diferença entre a Leve e o Block? A Leve é para transpiração leve, e a página não declara camada dupla nem reforço. O Block é para transpiração excessiva, com reforço impermeável nas axilas, segundo a marca, e estava esgotado em outubro.",
           "A undershirt Insider tem versão feminina? Não. A linha da loja é masculina.",
-          "Dá para trocar a undershirt se não servir? Não por tamanho. A troca só vale por defeito de fabricação, em até 180 dias corridos, com fotos.",
+          "Dá para trocar a undershirt se não servir? Não por tamanho, pela política da loja. A troca por defeito de fabricação vale em até 180 dias corridos, com fotos.",
           "A undershirt Insider encolhe? Segundo a central de ajuda, pode encolher até 7%. Siga a etiqueta.",
           "O cupom vale na undershirt? Vale na loja online, uma vez por pedido, e soma com o Pix. Confira a linha do código de cada item no checkout.",
           "A undershirt Insider resolve o suor excessivo? Não. A peça não trata nem elimina o suor. Se o suor é excessivo ou persistente, procure um dermatologista."
@@ -102225,6 +102239,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom EMCASACOMCECILIA dá 15% OFF nos kits da Insider. Presente de Natal: kits por preço, kits com cueca, gift card, sacola, troca e prazo de entrega.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/insider/insider-kit-presente-performance-masculino.webp",
@@ -102235,7 +102250,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para presentear com a Insider neste Natal, o kit de presente serve a quem quer entregar algo pronto, e o gift card virtual, a quem não sabe o tamanho. Cueca, calcinha e sutiã só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, também na compra do gift card, exceto em lançamentos."
+          "Para presentear com a Insider neste Natal, o kit de presente serve a quem quer entregar algo pronto, e o gift card virtual, a quem não sabe o tamanho. Na loja, cueca, calcinha e sutiã só trocam por defeito. Na loja online da Insider, o cupom EMCASACOMCECILIA dá 15% OFF, também na compra do gift card, exceto em lançamentos."
         ]
       },
       {
@@ -102247,7 +102262,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "O cartão só pode ser comprado em pedido individual, sem outros produtos no carrinho.",
-          "Ele vai para o e-mail de quem compra, que encaminha à pessoa presenteada. O envio sai depois da confirmação do pagamento.",
+          "Ele vai para o e-mail de quem compra, que encaminha à pessoa presenteada. A página também mostra a opção \"Quero enviar como presente\", com e-mail e data para o presenteado, mas não explica se o cartão chega direto a essa pessoa: confira o fluxo no checkout antes de contar com isso. O envio sai depois da confirmação do pagamento.",
           "Vale por 12 meses a partir do recebimento por e-mail. Não é reembolsável e não pode ser revendido.",
           "A página limita quantos cartões cada conta pode comprar por dia.",
           "O cartão fica fora da campanha de brindes."
@@ -102571,7 +102586,7 @@ export const reviewsData: unknown[] = [
         "heading": "Troca de presente: o que vale e o que não vale",
         "paragraphs": [
           "A troca de presente segue a central de ajuda da loja. Quem ganhou o presente pode pedir a troca sem nota fiscal e sem a embalagem original. A troca sai em vale-troca, no valor da peça, para usar no site. O prazo é de 21 dias corridos depois da entrega, com a peça com etiqueta, sem uso e sem sinal de lavagem. Os 21 dias contam da entrega, não da compra.",
-          "Cueca, calcinha e sutiã só trocam ou devolvem por defeito de fabricação. As undershirts seguem a mesma regra, e a troca de presente também. Ou seja, a troca de presente não serve para corrigir o tamanho de uma cueca: o caminho é acertar o tamanho antes de comprar, com o [guia de medidas da Insider](/reviews/tabela-de-medidas-insider).",
+          "Pela política da loja, cueca, calcinha e sutiã só trocam ou devolvem por defeito de fabricação. As undershirts seguem a mesma regra, e a troca de presente também. Ou seja, a troca de presente não serve para corrigir o tamanho de uma cueca: o caminho é acertar o tamanho antes de comprar, com o [guia de medidas da Insider](/reviews/tabela-de-medidas-insider). O arrependimento da compra online é outro pedido, feito por quem comprou.",
           "Para ver a troca com a simulação completa de prazo, veja o [guia de Black Friday da Insider](/reviews/black-friday-insider)."
         ]
       },
@@ -102678,7 +102693,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Insider vale presente? Vale: a loja vende gift card virtual de R$ 50 a R$ 1.000, enviado por e-mail a quem comprou, com validade de 12 meses a partir do recebimento.",
-          "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, mas a troca sai em vale-troca para usar no site. Cueca, calcinha e sutiã só trocam por defeito.",
+          "Dá para trocar presente na Insider? Dá, em até 21 dias corridos depois da entrega, mas a troca sai em vale-troca para usar no site. Pela política da loja, cueca, calcinha e sutiã só trocam por defeito.",
           "Cupom vale no gift card? Vale na compra do cartão: no nosso teste, o EMCASACOMCECILIA tirou 15% de um gift card de R$ 900. Já o pedido pago com o saldo do gift card não aceita cupom, segundo a página do cartão.",
           "Chega a tempo do Natal? Depende da cidade e da data da aprovação do pagamento. A tabela da seção \"Até quando pedir\" traz a data limite de cada capital, e a loja diz que os prazos podem mudar em alta demanda.",
           "A Insider tem kit de presente com cueca? Tem: o Kit Presente Performance Masculino e o Kit Presente Básico Masculino levam cueca, e há outros três kits com cueca fora do rótulo Kit Presente.",
@@ -119388,6 +119403,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA10 dá 10% OFF no site oficial da Bagaggio. A loja é confiável? A empresa por trás do site, o CNPJ, a garantia vitalícia e as trocas.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/bagaggio-e-confiavel-capa.webp",
@@ -119503,13 +119519,13 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Produto personalizado",
-              "Não aceita troca, devolução nem cancelamento"
+              "Segundo a política da loja, não aceita troca, devolução nem cancelamento"
             ]
           ]
         },
         "postParagraphs": [
           "Na desistência, a loja devolve por vale-troca ou restituição do valor pago. Essa regra só vale para compra pelo site: em loja física, não é possível desistir. Na troca online, a loja emite um vale-compras no valor da mercadoria, para um novo pedido no site.",
-          "O produto precisa estar com a etiqueta, na embalagem original sem danos, sem uso, odor ou manchas, e com a Danfe. Malas e mochilas com rodinhas não podem ter nenhuma ranhura. O envio é feito por coleta de transportadora, paga pela Bagaggio, e o frete só é isento na primeira troca."
+          "A loja pede o produto com a etiqueta, na embalagem original sem danos, sem uso, odor ou manchas, e com a Danfe. São condições da política da loja para a troca; o arrependimento da compra online é outro direito. Malas e mochilas com rodinhas não podem ter nenhuma ranhura. O envio é feito por coleta de transportadora, paga pela Bagaggio, e o frete só é isento na primeira troca."
         ]
       },
       {
@@ -119542,7 +119558,7 @@ export const reviewsData: unknown[] = [
         "heading": "Frete e retirada em loja",
         "paragraphs": [
           "O frete é calculado pelo CEP no carrinho, e a marca diz que entrega em todo o país. O site não publica uma política de frete grátis.",
-          "Na retirada em loja, você tem até 3 horas para buscar o pedido na loja escolhida. A retirada só é feita pelo titular da compra, com documento original com foto."
+          "Na retirada em loja, a página Retire em Loja diz que o pedido fica pronto 3 horas depois da aprovação, e a política de trocas fala em até 3 horas para retirar. Como não fica claro se as 3 horas são para o pedido ficar pronto ou para você buscar, espere o aviso de que ele está pronto e confirme o prazo com a loja. A retirada só é feita pelo titular da compra, com documento original com foto."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-cartagena-preta.webp",
@@ -119652,10 +119668,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Bagaggio tem reputação Boa no Reclame Aqui nos últimos 6 meses, mas Ruim nos últimos 12. Veja qual perfil olhar e o que fazer se o seu pedido der problema.",
-    "metaDescription": "Bagaggio no Reclame Aqui, com o cupom CECILIA10 de 10% OFF: Boa em 6 meses (nota 7,7), Ruim em 12 (5,8), qual perfil olhar e o que fazer se atrasar.",
+    "description": "A Bagaggio teve reputação Boa no Reclame Aqui de abril a setembro, mas Ruim nos 12 meses até setembro. Veja qual perfil olhar e o que fazer se o seu pedido der problema.",
+    "metaDescription": "Bagaggio no Reclame Aqui, com o cupom CECILIA10 de 10% OFF: Boa de abril a setembro (nota 7,7), Ruim em 12 meses (5,8) e qual perfil olhar.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/bagaggio-reclame-aqui-nota-reputacao-capa.webp",
@@ -119666,7 +119683,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Bagaggio tem reputação Boa no Reclame Aqui nos últimos 6 meses, com nota 7,7, mas Ruim nos últimos 12, com nota 5,8. Nos 6 meses, respondeu a 100% das reclamações e resolveu 90,4%. O que muda a leitura é o perfil: o capítulo Qual perfil olhar mostra qual vale para compras no site; para comprar com desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
+          "A Bagaggio teve reputação Boa no Reclame Aqui de abril a setembro, com nota 7,7, mas Ruim nos 12 meses até setembro, com nota 5,8. No semestre, respondeu a 100% e resolveu 90,4%. O que muda a leitura é o perfil: o capítulo Qual perfil olhar mostra qual vale para o site. Para comprar com desconto, veja o [cupom Bagaggio](/cupons/bagaggio)."
         ]
       },
       {
@@ -119680,7 +119697,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual perfil olhar",
         "paragraphs": [
           "Para compras no site, o perfil que vale é o Bagaggio - Loja Virtual. Há mais de um perfil com o nome Bagaggio no Reclame Aqui. Ele tem o CNPJ 08.956.394/0001-68, o mesmo do rodapé do site, e está no Reclame Aqui há 18 anos.",
-          "O perfil tem o selo Empresa Verificada. O selo indica que a empresa passou pela verificação mensal do Reclame Aqui, que confere se ela existe e é a dona do perfil; ele não mede a reputação. No ranking Melhor empresa, na categoria Bolsas, Malas e Mochilas, o perfil estava em 19º lugar na nossa leitura.",
+          "O perfil tem o selo Empresa Verificada. O selo indica que a empresa passou pela verificação mensal do Reclame Aqui, que confere se ela existe e é a dona do perfil; ele não mede a reputação. No ranking Melhor empresa, na categoria Bolsas, Malas e Mochilas, o perfil estava em 19º lugar.",
           "O selo RA1000 dos últimos 6 meses, com nota 8,6, é do perfil Bagaggio - Loja Física, e não deste. Antes de ler os números, confira o nome e o CNPJ no topo do perfil. Para a confiança geral na loja, veja [Bagaggio é confiável?](/reviews/bagaggio-e-confiavel)."
         ]
       },
@@ -119861,13 +119878,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Bagaggio?",
         "paragraphs": [
-          "Dá para comprar, com atenção. Na nossa leitura, a Loja Virtual tinha reputação Boa nos últimos 6 meses, mas a janela de 12 meses ainda está Ruim, então a melhora é recente."
+          "Dá para comprar, com atenção. A Loja Virtual tinha reputação Boa de abril a setembro, mas a janela de 12 meses até setembro ainda estava Ruim, então a melhora é recente."
         ],
         "bullets": [
-          "Nota: 7,7 nos 6 meses (Boa) e 5,8 nos 12 meses (Ruim).",
-          "Respondidas: 100% nos 6 meses. Resolvidas: 90,4%.",
-          "Voltariam a fazer negócio: 58,4% nos 6 meses e 33,9% nos 12 meses.",
-          "Tempo médio de resposta: 9 dias e 10 horas nos 6 meses.",
+          "Nota: 7,7 de abril a setembro (Boa) e 5,8 nos 12 meses até setembro (Ruim).",
+          "Respondidas: 100% de abril a setembro. Resolvidas: 90,4%.",
+          "Voltariam a fazer negócio: 58,4% de abril a setembro e 33,9% nos 12 meses até setembro.",
+          "Tempo médio de resposta: 9 dias e 10 horas de abril a setembro.",
           "Problema mais citado na aba geral: atraso na entrega, com 29,95%.",
           "Cuidado prático: acompanhe o rastreio, guarde o número do pedido e abra o chamado cedo se a entrega atrasar."
         ]
@@ -119875,11 +119892,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Bagaggio é confiável segundo o Reclame Aqui? O perfil Loja Virtual mostrava reputação Boa nos últimos 6 meses, com nota 7,7, e Ruim nos últimos 12 meses, com nota 5,8. Esses números vêm das reclamações registradas no Reclame Aqui e não medem a qualidade das malas.",
+          "A Bagaggio é confiável segundo o Reclame Aqui? O perfil Loja Virtual mostrava reputação Boa de abril a setembro, com nota 7,7, e Ruim nos 12 meses até setembro, com nota 5,8. Esses números vêm das reclamações registradas no Reclame Aqui e não medem a qualidade das malas.",
           "Qual perfil da Bagaggio é o da loja? O Bagaggio - Loja Virtual, com o CNPJ 08.956.394/0001-68, que é o mesmo do rodapé do site bagaggio.com.br.",
           "O que fazer se o pedido da Bagaggio atrasar? Guarde o número do pedido e o CPF, registre a data em que o prazo venceu e fale pelo chat do site, de segunda a sexta, das 9h às 18h.",
           "A garantia vitalícia vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas depois do início do programa. Mochilas, bolsas e outras marcas vendidas pela loja ficam de fora.",
-          "A Bagaggio responde às reclamações? Nos últimos 6 meses, o perfil Loja Virtual respondeu a 100% das reclamações, em 9 dias e 10 horas, em média. Nos últimos 12 meses, respondeu a 91,3%."
+          "A Bagaggio responde às reclamações? De abril a setembro, o perfil Loja Virtual respondeu a 100% das reclamações, em 9 dias e 10 horas, em média. Nos 12 meses até setembro, respondeu a 91,3%."
         ]
       }
     ],
@@ -119929,6 +119946,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Onde colar o CECILIA10 na sacola da Bagaggio e o que ele soma com o Pix de 5%: 10% OFF em todo o site, inclusive no Outlet.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/cupom-bagaggio-como-usar-capa.webp",
@@ -119939,7 +119957,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Bagaggio](/cupons/bagaggio) é o CECILIA10 e dá 10% de desconto em todo o site oficial, inclusive no Outlet e em produto em promoção, e a loja aceita um cupom por pedido. Ele não vale no Mercado Livre. O passo a passo para aplicar e o que acontece com o Pix e com a segunda peça estão abaixo."
+          "O [cupom Bagaggio](/cupons/bagaggio) é o CECILIA10 e dá 10% de desconto em todo o site oficial, inclusive no Outlet e em produto em promoção, e a loja aceita um cupom por pedido. Ele não vale no Mercado Livre. O passo a passo, o Pix e a promoção de segunda peça de outubro estão abaixo."
         ]
       },
       {
@@ -120069,11 +120087,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Quando a 2ª peça rende mais que o 10%",
+        "heading": "A promoção de 2ª peça e o CECILIA10",
         "paragraphs": [
-          "A promoção de 50% na segunda peça tem cupom próprio e não soma com outro cupom, então o CECILIA10 não entra junto com ela.",
-          "Este é um exemplo ilustrativo, não um teste. Suponha duas malas de R$ 100. O CECILIA10 nas duas dá R$ 20 de desconto, que é 10% de R$ 200. A promoção de 50% na segunda dá R$ 50, que é metade de R$ 100. Com uma mala só, fica o 10%, que dá R$ 10.",
-          "Conta nossa, pelo exemplo acima e valendo só em preço cheio: com 1 mala, fique no CECILIA10; com 2, a promoção de 2ª peça rende mais. Se a peça é do Outlet ou já tem desconto, confira no carrinho se a promoção entra."
+          "Em outubro, a loja teve uma promoção de 50% na segunda peça, com cupom próprio e sem soma com outro cupom, então o CECILIA10 não entrava junto com ela. O regulamento dessa promoção tinha prazo e já terminou. Se a loja voltar com ela, confira o regulamento antes de escolher.",
+          "O desconto de 50% vai no item de menor valor. Exemplo ilustrativo, não um teste: com duas malas de R$ 100, o CECILIA10 nas duas dá R$ 20, que é 10% de R$ 200, e a promoção dá R$ 50, metade de R$ 100. Com uma mala só, fica o 10%, que dá R$ 10.",
+          "No exemplo, a promoção rende mais com duas peças de preço parecido e perde força quando a segunda peça é bem mais barata. Se a peça é do Outlet ou já tem desconto, confira no carrinho se a promoção entra."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-route-vinho-ambiente.webp",
@@ -120108,7 +120126,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Bagaggio? O cupom é CECILIA10, com 10% de desconto em todo o site oficial, inclusive no Outlet.",
           "O cupom Bagaggio soma com o Pix? Sim. O Pix de 5% entra sobre o total que já tem o cupom.",
-          "O cupom soma com a promoção de 2ª peça? Não. A promoção de 50% na segunda peça tem cupom próprio e não soma com outro cupom.",
+          "O cupom soma com a promoção de 2ª peça? Não. A promoção de 50% na segunda peça, de outubro, tinha cupom próprio e não somava com outro cupom. Ela já terminou; se voltar, confira o regulamento na loja.",
           "Tem cupom de primeira compra na Bagaggio? A loja anuncia 5% na primeira compra; o CECILIA10 dá 10%.",
           "O cupom vale no Mercado Livre? Não. O cupom não vale lá, e vale o preço do anúncio. Para ver a marca no Mercado Livre, use o [link do Mercado Livre](https://meli.la/2KeydkG)."
         ]
@@ -120290,7 +120308,7 @@ export const reviewsData: unknown[] = [
         "heading": "Garantia: malas e mochilas são diferentes",
         "paragraphs": [
           "Malas da marca Bagaggio compradas a partir de 29/04/2024 têm garantia vitalícia contra vício de fabricação, sem custo. Vale só para o comprador original e só no Brasil. Mochila, bolsa e as marcas de terceiros vendidas pela loja ficam de fora.",
-          "A mochila tem a garantia da etiqueta. Quando a etiqueta não traz prazo, vale a garantia legal de 90 dias, pelo Código de Defesa do Consumidor. Veja o que a garantia vitalícia cobre e o que não cobre em [garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia)."
+          "A mochila tem a garantia da etiqueta, e a garantia legal vale à parte. Veja o que a garantia vitalícia cobre e o que não cobre em [garantia vitalícia Bagaggio](/reviews/bagaggio-garantia-vitalicia)."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bf-mochila-floral-camelia.webp",
@@ -120406,6 +120424,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. A garantia vitalícia vale só para malas da marca: o que cobre, o que não cobre, o passo a passo e o dano no voo.",
     "publishedAt": "22 de outubro de 2026",
     "publishedAtISO": "2026-10-22",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/bagaggio-garantia-vitalicia-capa.webp",
@@ -120415,14 +120434,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta ou os 90 dias do Código de Defesa do Consumidor. Veja abaixo quem tem direito e como acionar."
+          "A garantia vitalícia da Bagaggio vale só para malas da marca Bagaggio compradas a partir de 29/04/2024, contra vício de fabricação, sem prazo de validade. Mochila, bolsa e carteira ficam de fora e seguem a garantia da etiqueta, além da garantia legal do Código de Defesa do Consumidor. Veja abaixo quem tem direito e como acionar."
         ]
       },
       {
         "heading": "Mochila tem garantia vitalícia?",
         "paragraphs": [
           "A resposta é não. A página oficial diz que a garantia vitalícia se aplica exclusivamente às malas da marca Bagaggio. As outras marcas que a página cita, como Travelcross e Swiss One, ficam de fora e seguem a garantia própria de cada fabricante.",
-          "Mochilas, bolsas e carteiras não entram na vitalícia, mesmo quando são da marca. Elas seguem a garantia da etiqueta ou, sem prazo na etiqueta, a garantia legal de 90 dias, contada a partir da compra ou da entrega."
+          "Mochilas, bolsas e carteiras não entram na vitalícia, mesmo quando são da marca. Elas seguem a garantia da etiqueta, que é a garantia da loja, e a garantia legal do Código de Defesa do Consumidor, que existe mesmo sem prazo na etiqueta: para produto durável, são 90 dias, contados da entrega, para reclamar de defeito aparente."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bf-mochila-floral-camelia.webp",
@@ -120541,7 +120560,7 @@ export const reviewsData: unknown[] = [
             [
               "Prazo",
               "Não expira",
-              "Prazo da etiqueta; sem prazo na etiqueta, 90 dias"
+              "Prazo da etiqueta, além da garantia legal do CDC"
             ],
             [
               "O que cobre",
@@ -120583,13 +120602,13 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Antes de despachar, fotografe a mala no estado em que ela está.",
-          "Ao desembarcar, inspecione a mala ainda no aeroporto, antes de sair da área de bagagens.",
-          "Se encontrar dano, faça a reclamação formal no balcão da companhia aérea, ainda no aeroporto. O registro, geralmente o RIB ou PIR, é o documento que garante o seu direito.",
+          "Ao desembarcar, inspecione a mala ainda no aeroporto, de preferência antes de sair da área de bagagens.",
+          "Se encontrar dano, faça a reclamação formal no balcão da companhia aérea, ainda no aeroporto. O registro, geralmente o RIB ou PIR, é o documento que comprova o problema.",
           "Guarde o comprovante de despacho, o cartão de embarque e as fotos."
         ],
         "postParagraphs": [
-          "A página cita três normas: a Resolução ANAC 400/2016, cujo art. 32 trata da bagagem avariada; a Convenção de Montreal, que a página diz valer para voos internacionais; e o Código de Defesa do Consumidor. Os prazos estão nas normas: confirme-os no site da [ANAC](https://www.gov.br/anac) antes de reclamar.",
-          "Esta seção é informativa e não substitui orientação jurídica."
+          "A página cita três normas: a Resolução ANAC 400/2016, cujo art. 32 trata da bagagem avariada; a Convenção de Montreal, que a página diz valer para voos internacionais; e o Código de Defesa do Consumidor. Os prazos estão nas normas e no site da [ANAC](https://www.gov.br/anac); o que vale para o dano percebido depois está abaixo.",
+          "Se só perceber o dano depois de sair do aeroporto, ainda dá para reclamar: comunique a companhia por escrito em até sete dias depois de receber a bagagem. O registro não garante indenização automática."
         ],
         "image": {
           "src": "/images/reviews/bagaggio/bagaggio-route-preta-ambiente.webp",
@@ -120647,9 +120666,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A mochila Bagaggio tem garantia vitalícia? Não, pelo texto da loja. A garantia vitalícia vale só para malas da marca Bagaggio. Mochila e bolsa seguem a garantia da etiqueta ou, sem prazo, 90 dias.",
+          "A mochila Bagaggio tem garantia vitalícia? Não, pelo texto da loja. A garantia vitalícia vale só para malas da marca Bagaggio. Mochila e bolsa seguem a garantia da etiqueta, além da garantia legal do Código de Defesa do Consumidor.",
           "A garantia vitalícia Bagaggio vale para todas as malas? Não. Vale para as malas da marca Bagaggio compradas depois do início do programa. Travelcross e Swiss One seguem a garantia do fabricante.",
-          "A garantia cobre dano causado pela companhia aérea? Não. A página diz que o dano no voo é responsabilidade da companhia, e orienta a registrar a reclamação no balcão, com o RIB ou PIR.",
+          "A garantia cobre dano causado pela companhia aérea? Não. A página diz que o dano no voo é responsabilidade da companhia, e orienta a registrar a reclamação no balcão, com o RIB ou PIR. Se o dano só aparecer depois, comunique a companhia por escrito em até sete dias após receber a bagagem.",
           "Como acionar a garantia da Bagaggio? Na compra online, pelo Troque Fácil, com o número do pedido e o CPF. Na compra em loja física, na loja da compra ou pelo e-mail atendimento@bagaggio.com.br.",
           "A garantia vale se eu estiver fora do Brasil? Não. Ela é restrita ao território brasileiro, e o acionamento só começa depois do retorno ao país.",
           "Posso passar a garantia para outra pessoa? Não. A garantia vale só para o comprador original e não é transferível.",
@@ -120704,6 +120723,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Presente de Natal para a casa com o CECILIA12 e 12% OFF na DAMIE: sofá, poltrona reclinável, cinema em casa e piscina, com faixa de preço e prazo.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/damie/presente-de-natal-para-casa-moveis-capa.webp",
@@ -120714,7 +120734,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A escolha de móvel para presente costuma ficar entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável é a que mais faz sentido; para a sala, o sofá modular. O que pesa é o espaço, a porta e quem vai usar; veja abaixo cada móvel e quando comprar."
+          "A escolha de móvel para presente costuma ficar entre sofá, poltrona reclinável, poltrona de cinema e o canto da piscina. Para os pais, a reclinável é a que mais faz sentido; para a sala, o sofá modular. O que pesa é o espaço, a porta e quem vai usar; a hora de comprar depende do prazo do seu CEP."
         ]
       },
       {
@@ -121008,7 +121028,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Black Friday ou Natal: quando comprar",
         "paragraphs": [
-          "Para móvel de presente, compre na Black Friday (27 de novembro): sobra quase um mês até o Natal (25 de dezembro) para a entrega do móvel grande ou sob encomenda. Comprar em cima do Natal é arriscar.",
+          "Para móvel de presente, a Black Friday (27 de novembro) deixa quase um mês até o Natal (25 de dezembro), e isso só serve se o prazo de entrega do seu CEP couber nele: móvel grande ou sob encomenda pode levar boa parte desse mês. Simule o frete antes de decidir esperar; se o prazo já está apertado, não adie. Comprar em cima do Natal é arriscar.",
           "O prazo de entrega aparece no cálculo do frete, pelo CEP, antes de pagar, e conta da confirmação do pagamento. Na página do produto, ele também aparece ao escolher o estado. O Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. O logo bordado, opcional nas reclináveis, soma 7 dias. Por isso, não existe uma data de corte igual para todo mundo: ela depende do CEP, do produto e do dia em que o pagamento for confirmado. Por isso, este guia não dá data de chegada.",
           "Também não precisa esperar o dia 27: a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostrava as condições da campanha, válidas até o dia da Black Friday. Entram brindes na compra de uma poltrona, R$ 1.000 de desconto já aplicado nas poltronas, desconto por quantidade nas reclináveis e na Poltrona Cinema, acessórios com preço de campanha e frete grátis no Sul e no Sudeste, aplicado no checkout. Confira no carrinho se o CECILIA12 soma com cada um. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
         ],
@@ -121060,7 +121080,7 @@ export const reviewsData: unknown[] = [
           "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso. Na DAMIE, a reclinável vai de R$ 2.969 a R$ 6.149, conforme a base e o revestimento.",
           "**Para a sala:** o sofá modular. Ele chega em caixas, passa por escada e elevador pequeno, e o 3 lugares da DAMIE custa de R$ 5.100 a R$ 8.100, com apoio de pé grátis.",
           "**Para o cinema em casa e para a piscina:** a Poltrona Cinema, de 2 a 9 lugares, e a linha Garden, com espreguiçadeira e puffs redondos de 120 cm de diâmetro. Cada uma tem a sua seção mais abaixo.",
-          "**Quando comprar:** a Black Friday vem antes do Natal, com quase um mês de folga. O prazo de entrega aparece no cálculo do frete, pelo CEP, e conta da confirmação do pagamento. Confira antes de pagar.",
+          "**Quando comprar:** a Black Friday vem antes do Natal, com quase um mês de folga, que só vale se o prazo do seu CEP couber nele. O prazo de entrega aparece no cálculo do frete, pelo CEP, e conta da confirmação do pagamento. Confira antes de pagar.",
           "**Cupom:** na DAMIE, o CECILIA12 dá 12% OFF em todo o site e hoje soma com as promoções e com os 10% do Pix. As regras e a data do último teste estão na [página da DAMIE](/cupons/damie)."
         ]
       },
@@ -121128,6 +121148,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SKEMCASACOMCECILIA dá 10% OFF na Skelt. Qual autobronzeador comprar: mousse, água, Dark, gel e bifásico por cor-guia, intensidade e preço por ml.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/skelt/autobronzeador-skelt-qual-escolher-capa.webp",
@@ -121428,7 +121449,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual Skelt bronzeia mais? Segundo a Skelt, o Mousse Autobronzeador Dark e a [Água Autobronzeadora Dark](https://www.skelt.com.br/agua-autobronzeadora-dark/p?utm_source=creators&utm_medium=SKEMCASACOMCECILIA&utm_campaign=inbazz) (R$ 129,90 cada) têm o tom 2x mais intenso que as versões tradicionais.",
-          "Qual Skelt não mancha a roupa? Os incolores: Água, Água Dark e Gel. Na página da Água, a Skelt diz que a falta de cor-guia diminui a chance de manchar a roupa; os três pedem mais experiência na aplicação. Em qualquer um, espere secar antes de se vestir.",
+          "Qual Skelt não mancha a roupa? Nenhum garante que não mancha. Água, Água Dark e Gel são incolores, sem cor-guia; na página da Água, a Skelt diz que isso diminui a chance de manchar a roupa, e os três pedem mais experiência na aplicação. Em qualquer produto, espere secar antes de se vestir.",
           "Quanto tempo o autobronzeador Skelt leva para fazer efeito? Depende do produto: no Mousse, 3 a 5 horas dão bronze médio e 6 a 8 horas, bronze forte; no Gel, 4 e 8 horas; no Bifásico, 8 horas. Depois do banho, a marca diz que a cor leva 24 horas para se desenvolver por completo.",
           "Quanto tempo dura o bronzeado? Segundo a Skelt, de 7 a 12 dias nos autobronzeadores de corpo.",
           "Posso passar no rosto? Os autobronzeadores de corpo são indicados para o corpo. Para o rosto a Skelt tem o Autobronzeador Facial, de 30 ml, que estava esgotado na leitura dos preços.",
@@ -125087,6 +125108,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CSEMCASACOMCECILIA dá 10% OFF no site da Cléa Store. Alfaiataria de verão: blazer, colete e calça, grade do dia e três montagens de conjunto.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/clea-store/alfaiataria-verao-clea-store-capa-discover.webp",
@@ -125097,14 +125119,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Cléa Store não vende conjunto de alfaiataria, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom. O que decide é o tamanho: veja a grade de cada peça em Grade do dia."
+          "Na grade de outubro, a Cléa Store não tinha conjunto de alfaiataria pronto, mas dá para montar o seu com blazer ou colete e calça ou short da mesma cor, em linho. A montagem rosa é a mais simples e a bege, a mais barata com o cupom. O que decide é o tamanho: veja a Grade do dia."
         ]
       },
       {
         "heading": "A loja não vende conjunto de alfaiataria",
         "paragraphs": [
-          "A Cléa Store vende peças avulsas. No catálogo lido, não há conjunto de alfaiataria. O único \"conjunto\" da loja é de crochê, por R$ 1.490. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
-          "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor e do mesmo tecido. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
+          "A Cléa Store vende peças avulsas. No catálogo de outubro, o único conjunto à venda era o de crochê, por R$ 1.490. A loja tem uma página de [conjunto de alfaiataria amarelo, com calça e colete](https://www.cleastore.com.br/produto/conjunto-alfaiataria-amarelo-calca-e-colete-3877) que não aparecia na grade de outubro: confira a disponibilidade no site. Também não há pantalona de alfaiataria fora de duas calças, que aparecem mais abaixo.",
+          "Para ter um conjunto de alfaiataria de verão, a saída é juntar um blazer ou colete com uma calça ou short da mesma cor, em linho ou em linho com algodão. O capítulo Montar um conjunto mostra três combinações desse tipo, com a conta e o cupom.",
           "Não compramos nem testamos nenhuma destas peças. O que está aqui vem das páginas da loja."
         ]
       },
@@ -125320,7 +125342,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Montar um conjunto (monte o seu)",
         "paragraphs": [
-          "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e do mesmo tecido. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia.",
+          "A loja não vende estes conjuntos prontos. As três combinações abaixo usam peças da mesma cor e todas de linho, salvo as calças caqui e vermelha, que são 70% linho e 30% algodão. Os preços são os da tabela acima, e o cupom de 10% sai sobre o preço do dia.",
           "**Rosa linho.** Blazer Rosa Linho (4404), R$ 899,00, M e G, mais Shorts Rosa Linho (4402), R$ 579,00, com 36, 38 e 40. Tudo em linho. Total de R$ 1.478,00, ou R$ 1.330,20 com o cupom. O blazer não tem P.",
           "**Bege linho.** Colete Bege Linho (4221), R$ 299,40, com PP e P, mais Calça Caqui Linho (4416), R$ 559,00, com 36 e 38. Total de R$ 858,40, ou R$ 772,56 com o cupom. A calça aparece como pré-venda, mas dá para comprar; confira o prazo de entrega na página.",
           "**Vermelho linho.** Colete Vermelho (4393), R$ 799,00, com P e G, mais Bermuda Vermelha (4395), R$ 599,00, só no 40. Total de R$ 1.398,00, ou R$ 1.258,20 com o cupom. A bermuda é 100% linho, segundo a ficha. Se preferir calça, a Calça Linho Vermelha (4414), R$ 559,00, com 36 e 38, leva o total a R$ 1.358,00, ou R$ 1.222,20 com o cupom. Ela também aparece como pré-venda, nas mesmas condições da caqui, e a ficha sugere usá-la com o colete.",
@@ -125459,7 +125481,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Cléa Store vende conjunto de alfaiataria? Não. No catálogo lido, o único conjunto é de crochê, por R$ 1.490.",
+          "A Cléa Store vende conjunto de alfaiataria? Na grade de outubro, não havia conjunto de alfaiataria à venda: o único era o de crochê, por R$ 1.490. A loja tem uma página de conjunto amarelo de calça e colete, então confira o site.",
           "A calça é wide leg? Sim, segundo a ficha, nas duas: a Calça Caqui Linho (4416) e a Calça Linho Vermelha (4414).",
           "O blazer tem forro? Só o Blazer Oversized Mescla (4307) e o Bordô (4305) declaram forro, de 97% poliéster e 3% elastano. Nos outros, a ficha não informa.",
           "Qual tamanho escolher? Use o botão Tabela de Medidas da página de cada peça. A loja também tem um Provador Virtual na mesma página, e o [guia da tabela de medidas da Cléa Store](/reviews/clea-store-tabela-de-medidas-como-escolher-tamanho) explica como medir.",
@@ -127961,6 +127983,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Valley Modular e Inflow vendem sofá de espuma a vácuo, e a DAMIE manda módulos de madeira. Compare garantia, teste em casa, devolução, prazo e preço para escolher.",
@@ -127995,7 +128018,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, contra 6 meses na Valley Modular e 3 meses na Inflow. Devolução e prazo decidem; veja Teste em casa, devolução e prazo."
+          "Valley Modular e Inflow vendem sofá de espuma compactada a vácuo; a DAMIE manda módulos com estrutura de madeira, para encaixar. A DAMIE dá mais garantia e teste em casa: 1 ano e 30 dias com coleta, contra 6 meses na Valley Modular e 3 meses na Inflow. A devolução e o prazo também pesam na escolha."
         ]
       },
       {
@@ -128089,8 +128112,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Devolução por arrependimento",
-              "7 dias, na embalagem original, sem sinais de mau uso; a política não trata do sofá já expandido",
-              "Só com o produto lacrado; frete de volta do cliente",
+              "7 dias, pela política da loja: embalagem original, sem sinais de mau uso; ela não trata do sofá já expandido",
+              "Pela política da loja, só com o produto lacrado; frete de volta do cliente",
               "Reembolso integral nos 30 dias, com coleta agendada pela marca"
             ],
             [
@@ -128196,7 +128219,7 @@ export const reviewsData: unknown[] = [
           "É aqui que as três mais se separam, e as regras ficam em letra miúda.",
           "**DAMIE: 30 dias de teste.** Se você não gostar do sofá, a DAMIE agenda a coleta e devolve o valor pago. A condição é guardar a embalagem: a página do produto diz \"Sem a embalagem preservada, não coletamos\". Depois dos 30 dias, vale a garantia de 1 ano e, em seguida, o suporte vitalício com peças a preço de custo.",
           "**Valley Modular: 7 dias, na embalagem original.** A política de devoluções da marca repete o prazo de 7 dias do artigo 49 do CDC: o produto volta na embalagem original, sem sinais de mau uso, e os motivos aceitos são defeito, modelo errado ou medida errada. A marca não aceita devolução por variação de tom nem por cor pedida errada. A página não diz se o sofá já expandido entra na devolução nem quem paga o frete de volta, e não há teste em casa além do prazo legal. A garantia de 6 meses aparece na ficha do produto e no FAQ da loja; a página de políticas não fala de garantia. A entrega não é agendada, sai em horário comercial, e a página avisa que a transportadora não sobe escada.",
-          "**Inflow: só lacrado.** O arrependimento vale com o produto lacrado, sem sinais de abertura, e o frete de volta é do cliente. Depois de aberto, o sofá só se troca por defeito, dentro da garantia: a ficha do produto diz 3 meses e a política, 90 dias para relatar o defeito, que é o mesmo prazo."
+          "**Inflow: só lacrado, pela política da loja.** A política da Inflow aceita o arrependimento com o produto lacrado, sem sinais de abertura, e deixa o frete de volta com o cliente. O CDC garante 7 dias de arrependimento na compra pela internet, e o lacre e o frete são exigências da loja: na dúvida, confirme com a Inflow antes de abrir. Depois de aberto, a política só prevê troca por defeito, dentro da garantia: a ficha do produto diz 3 meses e a política, 90 dias para relatar o defeito, que é o mesmo prazo."
         ],
         "image": "/images/reviews/damie/valley-inflow-ou-damie-garantia-teste-devolucao-prazo.webp",
         "imageAlt": "Quadro com garantia, teste em casa, devolução por arrependimento e prazo da Valley Modular, da Inflow e da DAMIE, lidos em 25/10/2026.",
@@ -128205,7 +128228,7 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.3311,
         "postParagraphs": [
           "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu, na leitura, marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de Sofá na Caixa, Inflow ou DAMIE. A Valley Modular tem poucos registros para avaliar.",
-          "Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, quem quer a chance de devolver por não gostar tem de decidir antes de abrir a caixa, na Valley Modular e na Inflow. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
+          "Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, o mais seguro, pelas políticas publicadas da Valley Modular e da Inflow, é decidir antes de abrir a caixa se você quer a chance de devolver por não gostar. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
         ]
       },
       {
@@ -128300,7 +128323,7 @@ export const reviewsData: unknown[] = [
           "Cada perfil de compra aponta para uma marca:"
         ],
         "bullets": [
-          "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso, desde que guarde a embalagem. Valley Modular e Inflow só dão os 7 dias do CDC, e a Inflow exige o produto lacrado.",
+          "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso, desde que guarde a embalagem. Valley Modular e Inflow só dão os 7 dias do CDC, e a política da Inflow exige o produto lacrado.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano. A Valley Modular dá 6 meses e a Inflow, 3 meses.",
           "**Quem quer o menor preço no cartão do 3 lugares com apoio:** Inflow, em bouclê, por R$ 4.790. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
           "**Quem quer o menor preço no cartão do 2 lugares com apoio:** Inflow, em bouclê bege, por R$ 3.790; a DAMIE vem em R$ 3.850, com o puff, e a Valley Modular em R$ 4.175. Se o apoio não importa, o Modu 2 lugares com 2 cantos da Valley Modular sai por R$ 3.189, num sofá de 190 cm.",
@@ -128308,7 +128331,7 @@ export const reviewsData: unknown[] = [
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste; a Valley Modular calcula o frete pelo CEP, sem regra de frete grátis publicada. Em qualquer uma, confira o frete no carrinho antes de fechar."
         ],
         "postParagraphs": [
-          "Em resumo: quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço do 3 lugares pode olhar a Inflow, sabendo que a devolução só vale lacrada. A Valley Modular tem a garantia intermediária e o 2 lugares sem apoio mais barato da tabela, com prazo de produção sob encomenda e poucos registros no Reclame Aqui para avaliar o atendimento."
+          "Em resumo: quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço do 3 lugares pode olhar a Inflow, sabendo que a política dela só aceita a devolução com o produto lacrado. A Valley Modular tem a garantia intermediária e o 2 lugares sem apoio mais barato da tabela, com prazo de produção sob encomenda e poucos registros no Reclame Aqui para avaliar o atendimento."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a DAMIE, pelos 30 dias de teste e 1 ano de garantia.",
         "emphasisAfterParagraph": 1
@@ -128319,7 +128342,7 @@ export const reviewsData: unknown[] = [
           "Valley Modular é a mesma empresa que a Inflow ou a Sofá na Caixa? Não. A Valley Modular é o nome fantasia da Valley Art LTDA. (CNPJ 30.105.567/0001-93, Hortolândia, SP, ativa desde 2018). A Inflow é da Fast Living Comércio e Distribuição Ltda. (Itapeva, MG, desde 2022) e a Sofá na Caixa é outra empresa, de Rafard (SP). Cada uma tem site e regras próprios.",
           "Valley Modular é confiável? A empresa tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, ela estava sem reputação definida, com 2 reclamações, 1 respondida e tempo de resposta de 24 dias: são poucos registros para avaliar o atendimento, nem para bem nem para mal. A garantia é de 6 meses, informada na ficha do produto e no FAQ da loja.",
           "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa com coleta e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, a DAMIE com puff ficava abaixo da Valley Modular com apoio nas duas linhas: R$ 3.850 contra R$ 4.175 no 2 lugares e R$ 5.100 contra R$ 5.986 no 3 lugares.",
-          "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular, com 6 meses na ficha do produto. A Inflow informa 3 meses na ficha e 90 dias para relatar defeito na política, o mesmo prazo. Nas duas, a devolução por arrependimento segue os 7 dias do CDC, e a Inflow só aceita o produto lacrado.",
+          "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular, com 6 meses na ficha do produto. A Inflow informa 3 meses na ficha e 90 dias para relatar defeito na política, o mesmo prazo. Nas duas, a devolução por arrependimento segue os 7 dias do CDC, e a política da Inflow só aceita o produto lacrado.",
           "Posso devolver o sofá da Valley Modular depois de abrir? A política publicada fala em 7 dias, na embalagem original e sem sinais de mau uso, por defeito, modelo errado ou medida errada; ela não trata do sofá já expandido nem diz quem paga o frete de volta. Antes de abrir a caixa, confirme com a loja como fica a devolução do sofá expandido.",
           "Quanto tempo leva para chegar um sofá da Valley Modular? A marca produz sob encomenda e informa de 20 a 30 dias úteis de produção antes do envio. O transporte entra depois, com o prazo calculado pelo CEP no carrinho.",
           "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto. O teste de 30 dias vale com a embalagem guardada."
@@ -128329,11 +128352,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Para quem quer testar o sofá em casa por 30 dias, com coleta e reembolso, e 1 ano de garantia: a DAMIE.",
-        "Para quem prioriza o menor preço do 3 lugares com apoio e aceita devolver só lacrado: a Inflow."
+        "Para quem prioriza o menor preço do 3 lugares com apoio e aceita a política dela de devolução só com o produto lacrado: a Inflow."
       ],
       "skipIf": [
         "Quando o prazo precisa ser previsível: a Valley Modular produz sob encomenda e soma de 20 a 30 dias úteis ao frete, enquanto na Inflow e na DAMIE o prazo sai no cálculo do frete.",
-        "Quando a decisão fica para depois de abrir a caixa: na Inflow a devolução só vale com o produto lacrado e na Valley Modular valem os 7 dias do CDC, e só a DAMIE dá os 30 dias em casa."
+        "Quando a decisão fica para depois de abrir a caixa: pela política da Inflow a devolução só vale com o produto lacrado e na Valley Modular valem os 7 dias do CDC, e só a DAMIE dá os 30 dias em casa."
       ]
     }
   },
@@ -129283,6 +129306,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "O cupom MAUAD dá 10% OFF em todo o site da Toda Up, inclusive em produto em promoção. Veja o passo a passo no carrinho e o que ele somou com a Black Antecipada no teste.",
@@ -129317,14 +129341,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 10% OFF em todo o site oficial, inclusive em produto que já está em promoção. No carrinho de teste, ele somou também com a progressiva da Black Antecipada. A conta muda com o valor do carrinho: nos maiores, a progressiva da campanha entra antes do cupom."
+          "O [cupom Toda Up](/cupons/toda-up) é o MAUAD e dá 10% OFF em todo o site oficial, inclusive em produto que já está em promoção. No carrinho de teste, ele somou também com a progressiva da Black Antecipada. Essa soma foi testada só nessa campanha: em outra, leia as regras dela antes de contar com ela."
         ]
       },
       {
         "heading": "O que é o cupom da Toda Up",
         "paragraphs": [
           "MAUAD é o cupom da parceria do Em Casa com Cecília com a Toda Up, marca de moda íntima feminina de Biguaçu (SC): sutiãs Comfort, tops e calcinhas SkinUp e Cotton Up, sutiã de silicone, Fita Up e protetores. A loja se chamava Fita Up: o site é o mesmo, agora com o nome Toda Up, e o cupom vale nele. O mesmo código existe em outras lojas; aqui vale só o da Toda Up, só no site oficial, todaup.com.",
-          "O desconto é de 10% sobre o preço que aparece no carrinho. Se o produto já está com desconto, os 10% saem do preço promocional, não do preço de tabela. Quando a loja tem uma promoção progressiva no ar, ela entra primeiro, e os 10% saem do que sobra."
+          "O desconto é de 10% sobre o preço que aparece no carrinho. Se o produto já está com desconto, os 10% saem do preço promocional, não do preço de tabela. No teste com a promoção progressiva da Black Antecipada, ela entrou primeiro, e os 10% saíram do que sobrou."
         ],
         "image": {
           "src": "/images/reviews/toda-up/cupom-toda-up-catalogo.webp",
@@ -129411,7 +129435,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom e a Black Antecipada",
         "paragraphs": [
-          "No dia do teste, a Toda Up estava com a Black Antecipada no ar, com desconto progressivo por valor do carrinho: 12% acima de R$ 299, com mais duas faixas acima. A progressiva entra primeiro, automática, e o cupom tira 10% do que sobra. As faixas, as datas e os preços da campanha ficam no [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). A loja libera frete grátis em campanhas, como na Black Antecipada."
+          "No dia do teste, a Toda Up estava com a Black Antecipada no ar, com desconto progressivo por valor do carrinho: 12% acima de R$ 299, com mais duas faixas acima. A progressiva entra primeiro, automática, e o cupom tira 10% do que sobra. As faixas, as datas e os preços da campanha ficam no [guia de Black Friday da Toda Up](/reviews/black-friday-toda-up). A Black Antecipada teve frete grátis; confira o frete da campanha em vigor no carrinho."
         ]
       },
       {
@@ -129443,7 +129467,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando o cupom vale a pena",
         "paragraphs": [
-          "Se você já ia comprar na Toda Up, o cupom vale em qualquer carrinho; acima de R$ 299, a progressiva da campanha faz mais, e o cupom ainda tira 10% do que sobra.",
+          "Se você já ia comprar na Toda Up, o cupom vale em qualquer carrinho; no teste da Black Antecipada, acima de R$ 299 a progressiva fez mais, e o cupom ainda tirou 10% do que sobrou. Em outra campanha, confira as regras dela no carrinho.",
           "Antes de comprar, leia [Toda Up é confiável?](/reviews/toda-up-e-confiavel) e [o que os números do Reclame Aqui mostram](/reviews/toda-up-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -129452,7 +129476,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Qual é o cupom da Toda Up? O cupom é MAUAD, com 10% OFF em todo o site oficial da Toda Up.",
           "O cupom Toda Up vale em produto em promoção? Sim. No teste do carrinho, os 10% entraram sobre o preço promocional; os valores estão na tabela do teste.",
-          "O cupom soma com a promoção da Black Antecipada? Sim. A progressiva entra primeiro e o cupom tira 10% do que sobra; os dois carrinhos estão na tabela do teste.",
+          "O cupom soma com a promoção da Black Antecipada? Sim. A progressiva entra primeiro e o cupom tira 10% do que sobra; os dois carrinhos estão na tabela do teste. Em outra campanha, confira no resumo do pedido.",
           "Onde coloco o cupom na Toda Up? Pelo botão desta página, o site já abre com o cupom aplicado. Se a linha não aparecer no resumo, cole o código no campo de cupom ou desconto, no checkout, e aplique.",
           "Dá para usar mais de um cupom? A loja não publica o limite. Confira no carrinho.",
           "Posso trocar a compra? Sim. Troca de modelo, tamanho ou cor e arrependimento em até 30 dias corridos depois do recebimento, pelo portal de trocas da loja."
@@ -155464,9 +155488,10 @@ export const reviewsData: unknown[] = [
       "url": "/sobre"
     },
     "description": "Mala de bordo de 10 kg em ABS, polipropileno e policarbonato na Bagaggio: preço, litros e peso de cada ficha em 29/10/2026, com a conta de reais por litro e por kg.",
-    "metaDescription": "Mala de policarbonato ou ABS na Bagaggio, com o cupom CECILIA10 de 10% OFF: na medida de 10 kg, a de policarbonato custa de 3,6 a 6 vezes a de ABS.",
+    "metaDescription": "Mala de policarbonato ou ABS na Bagaggio, com o cupom CECILIA10 de 10% OFF: o policarbonato custa de 3,6 a 6 vezes a Detroit de ABS.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/mala-policarbonato-ou-abs-bagaggio-capa.webp",
@@ -155477,13 +155502,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na mesma mala de bordo de 10 kg, a de policarbonato custou de 3,6 a 6 vezes a de ABS na Bagaggio, sem ganhar litros e pesando mais. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros. A conta por litro e por kg está na tabela."
+          "Entre as malas de bordo de 10 kg da tabela, as três de policarbonato custaram de 3,6 a 6 vezes a Detroit de ABS, sem ganhar litros e pesando mais. As fichas não comparam a resistência dos materiais, então a decisão fica no preço, no peso e nos litros. A conta por litro e por kg está na tabela."
         ]
       },
       {
         "heading": "ABS, polipropileno e policarbonato: os preços",
         "paragraphs": [
-          "A mala de bordo de 10 kg sai em três materiais, e o preço muda muito mais que os litros. Cada ficha traz o material, a medida, os litros e o peso, mas nenhuma compara um material com o outro. A tabela junta as fichas lidas em 29/10/2026, do preço mais baixo ao mais alto."
+          "A mala de bordo de 10 kg sai em três materiais, e o preço muda muito mais que os litros. Cada ficha traz o material, a medida, os litros e o peso, mas nenhuma compara um material com o outro. A tabela junta as fichas de 29/10/2026, do preço mais baixo ao mais alto."
         ],
         "comparisonTable": {
           "headers": [
@@ -155590,7 +155615,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "O policarbonato pesa mais sem ganhar litro",
+        "heading": "Nos modelos da tabela, o policarbonato pesa mais sem ganhar litro",
         "paragraphs": [
           "A Bahamas Branca pesa 3,4 kg para 43,3 L; a Detroit de ABS pesa 2,61 kg para 44,2 L. A Kyoto II Preta tem os mesmos 44,2 L da Detroit e pesa 3,52 kg.",
           "Nas três malas de policarbonato da tabela, o peso vai de 3,28 kg a 3,52 kg. Nas de ABS e polipropileno, vai de 2,43 kg a 2,61 kg. Em litros, as de policarbonato ficam entre 43,3 L e 44,2 L, no meio da faixa das outras.",
@@ -155617,7 +155642,7 @@ export const reviewsData: unknown[] = [
         "heading": "Vale pagar mais pelo policarbonato?",
         "emphasis": "Se fosse para a minha casa, eu levaria a Detroit Preta, porque ela sai a R$ 5,65 por litro, a conta mais baixa da tabela.",
         "paragraphs": [
-          "Pelos números das fichas, o policarbonato não traz mais litros nem menos peso. O que muda é o material e o preço. Três perguntas apontam uma linha da tabela:"
+          "Pelos números das três fichas de policarbonato da tabela, ele não traz mais litros nem menos peso que a Detroit de ABS. O que muda é o material e o preço. Três perguntas apontam uma linha da tabela:"
         ],
         "bullets": [
           "Quer o menor preço por litro? A [Detroit Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz), de ABS, saiu a R$ 5,65 por litro.",
@@ -155645,11 +155670,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Mala de policarbonato é melhor que ABS? As fichas da Bagaggio não comparam a resistência dos materiais. Na mesma medida de 10 kg, a de policarbonato custou mais e pesou mais, com litros parecidos.",
+          "Mala de policarbonato é melhor que ABS? As fichas da Bagaggio não comparam a resistência dos materiais. Entre as fichas da tabela, as três de policarbonato custaram mais e pesaram mais que a Detroit de ABS, com litros parecidos.",
           "Qual a diferença de preço entre ABS, polipropileno e policarbonato na Bagaggio? Entre as malas de bordo de 10 kg deste texto, a de ABS custava R$ 249,90, as de polipropileno de R$ 299,90 a R$ 549,90 e as de policarbonato de R$ 899,90 a R$ 1.499,90.",
-          "Mala de policarbonato pesa mais que a de ABS? Na Bagaggio, sim. Segundo as fichas, as de policarbonato de 10 kg pesam de 3,28 kg a 3,52 kg, e a Detroit de ABS pesa 2,61 kg.",
+          "Mala de policarbonato pesa mais que a de ABS? Nas fichas da tabela, sim. As três de policarbonato de 10 kg pesam de 3,28 kg a 3,52 kg, e a Detroit de ABS pesa 2,61 kg. Isso vale para esses modelos, não para toda mala da marca.",
           "Por que a mesma mala Malta custa preços diferentes por cor? A ficha não explica. A Malta de 10 kg custava R$ 349,90 na Rosa Escuro, R$ 499,90 na Preta e R$ 549,90 na Branca e Marrom, com a mesma medida e o mesmo peso.",
-          "Vale pagar mais pela mala de policarbonato? Só se o material importa para você. Pelos números das fichas, ela não traz mais litros nem menos peso que a de ABS.",
+          "Vale pagar mais pela mala de policarbonato? Só se o material importa para você. Pelas três fichas de policarbonato da tabela, ela não traz mais litros nem menos peso que a Detroit de ABS.",
           "Tem cupom para a mala de policarbonato Bagaggio? Tem o CECILIA10, com 10% OFF em todo o site, inclusive em produto com desconto. A Bahamas Branca saiu por R$ 809,91 com o cupom. Condições na [página do cupom Bagaggio](/cupons/bagaggio)."
         ]
       }
@@ -165348,6 +165373,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mala de 10, 23 ou 32 kg na Bagaggio, com o cupom CECILIA10 de 10% OFF: medidas e litros da loja, a ligação entre P, M e G e a mala de mão das companhias.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/tamanho-mala-bagaggio-p-m-g-capa.webp",
@@ -165384,7 +165410,7 @@ export const reviewsData: unknown[] = [
               "55 × 35 × 23 cm",
               "44,2",
               "10 kg (P no conjunto)",
-              "Sim (a página não diz se inclui as rodas)"
+              "Pela ficha, sim (a página não diz se a medida inclui as rodas)"
             ],
             [
               "[Mala de Bordo 10 kg Polipropileno 4 Rodas Route Preta](https://www.bagaggio.com.br/mala-de-bordo-10-kg-polipropileno-4-rodas-route-preta/p?utm_source=creators&utm_medium=emcasacomcecilia&utm_campaign=inbazz)",
@@ -165476,7 +165502,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como ler as faixas de 10, 23 e 32 kg",
         "paragraphs": [
-          "A mala de 10 kg é a de bordo, em nome e em medida. As faixas de 23 kg e 32 kg são o nome que a loja dá às malas maiores, e a medida muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
+          "A mala de 10 kg é a de bordo pelo nome que a loja dá, mas a medida varia: a Cartagena P, por exemplo, passa dos 55 × 35 cm. As faixas de 23 kg e 32 kg são o nome das malas maiores, e a medida também muda de linha para linha. A Detroit de 23 kg aparece em duas medidas: a Detroit II, com 66 × 41,5 × 26 cm, e a de 26 polegadas, com 70,5 × 44,5 × 29 cm. Mesma faixa, medidas diferentes.",
           "Os litros acompanham a medida. Nos 23 kg, as páginas lidas vão de 71 a 91 litros, e nos 32 kg, de 104 a 131. Litros são a capacidade que a loja declara, não um número de peças de roupa, porque isso depende de cada peça."
         ],
         "images": [
@@ -165522,7 +165548,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual mala de 10 kg cabe na bagagem de mão",
         "paragraphs": [
           "LATAM, GOL e Azul citam 55 × 35 × 25 cm para a mala de mão. A ANAC deixa o limite de medida para cada companhia. O detalhe das regras, com as fontes, está no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa).",
-          "A Detroit Preta (55 × 35 × 23 cm) e a Route Preta de 10 kg (55 × 35 × 22,5 cm) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
+          "Pelas fichas, a Detroit Preta (55 × 35 × 23 cm, sem dizer se inclui as rodas) e a Route Preta de 10 kg (55 × 35 × 22,5 cm, com rodas) ficam dentro dessa medida. A Cartagena P, com 57,5 × 38 × 23,5 cm, passa dela. As de 23 kg e 32 kg passam da medida em todas as linhas da tabela, então não entram como mala de mão pela regra das companhias.",
           "Cada companhia confere a medida e o peso no balcão, e as regras mudam. Confirme na sua antes de viajar."
         ]
       },
@@ -165536,12 +165562,12 @@ export const reviewsData: unknown[] = [
           "Quantas peças você leva? Os litros são a capacidade declarada pela loja, não um número de peças. Compare com o que você costuma levar.",
           "Vai despachar ou levar na mão? Se for levar na mão, veja a medida da mala de 10 kg e as regras das companhias no [guia da mala de bordo Bagaggio](/reviews/mala-de-bordo-bagaggio-qual-compensa)."
         ],
-        "emphasis": "Para levar na mão, só a de 10 kg serve; para uma semana despachando, a de 23 kg dá mais espaço."
+        "emphasis": "Para levar na mão, só a de 10 kg pode servir, e nem todas, porque a Cartagena P passa da medida; para uma semana despachando, a de 23 kg dá mais espaço."
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça.",
+          "O CECILIA10 dá 10% em todo o site oficial da Bagaggio, diz a [página do cupom](/cupons/bagaggio). Ele soma com as promoções e com o Pix de 5%, e não soma com outro cupom, como a promoção de 50% na 2ª peça de outubro.",
           "Outros preços da loja estão no [guia da Black Friday Bagaggio](/reviews/black-friday-bagaggio)."
         ]
       },
@@ -165554,17 +165580,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? A faixa de peso define o tamanho: a de 10 kg é a de bordo, e as de 23 kg e 32 kg são as malas maiores, com mais litros.",
+          "Qual é a diferença entre mala de 10 kg, 23 kg e 32 kg? A faixa de peso define o tamanho: a de 10 kg é a de bordo, e as de 23 kg e 32 kg são as malas maiores, com mais litros. Nem toda mala de 10 kg cabe na mão: a Cartagena P passa da medida.",
           "P, M e G são o mesmo que 10, 23 e 32 kg? Nos conjuntos, sim, pela medida: P é a de 10 kg, M a de 23 kg e G a de 32 kg. Essa ligação é nossa, não da loja.",
           "Qual tamanho de mala comprar para viagem de uma semana? Para uma semana, a de 23 kg dá mais espaço, com 71 a 91 litros. Se for só levar na mão, a de 10 kg, com 44 a 51 litros, é a opção.",
-          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pela medida, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam. Cada companhia decide, então confira antes de viajar.",
+          "A mala de 10 kg da Bagaggio cabe na bagagem de mão? Pelas fichas, a Detroit Preta e a Route Preta ficam dentro de 55 × 35 × 25 cm, que LATAM, GOL e Azul citam, mas a ficha da Detroit não diz se a medida inclui as rodas, e a Cartagena P passa. Cada companhia decide, então confira antes de viajar.",
           "Tem cupom para a mala Bagaggio? Sim, o CECILIA10 dá 10% em todo o site, segundo a regra da loja. Não conferimos o valor final no carrinho nesta rodada."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "A viagem é curta e a mala vai na mão: a de 10 kg, com 44 a 51 litros.",
+        "A viagem é curta e a mala vai na mão: a de 10 kg, com 44 a 51 litros, conferindo a medida total com a companhia.",
         "A viagem é de uma semana e você despacha: a de 23 kg, com 71 a 91 litros.",
         "Quer a maior capacidade: a de 32 kg, com 104 a 131 litros."
       ],
@@ -166151,6 +166177,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA10 dá 10% OFF nas mochilas escolares Bagaggio: 10 modelos por linha, com preço de cartão, medida, garantia e as licenciadas.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/mochila-escolar-bagaggio-capa.webp",
@@ -166161,7 +166188,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, só três informam garantia, de 90 dias. Se a criança quer um personagem, veja a seção de licenciadas."
+          "Na linha escolar da Bagaggio, medida e garantia mudam de um modelo para outro, e quem informa é a loja. Nos 10 modelos que reunimos aqui, só três trazem garantia na ficha, de 90 dias; nos demais, vale a garantia legal. Se a criança quer um personagem, veja a seção de licenciadas."
         ]
       },
       {
@@ -166295,20 +166322,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Garantia da linha escolar",
         "paragraphs": [
-          "A garantia é a que a Bagaggio anuncia: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos, a página não traz garantia: confira na página do produto antes de comprar."
+          "A garantia é a que a Bagaggio anuncia: 90 dias na Star Candy, na Homem Aranha e na High Shape III. Nos outros modelos, a página não traz prazo de garantia: confira na página do produto antes de comprar. Ficha sem garantia não quer dizer produto sem proteção: pelo Código de Defesa do Consumidor, o defeito aparente em bem durável pode ser reclamado em até 90 dias, contados da entrega."
         ]
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto, com um cupom por pedido. A promoção de 50% na 2ª peça é outro cupom e não soma com o CECILIA10. No Pix, a loja tira mais 5%.",
+          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive no Outlet e em produto com desconto, com um cupom por pedido. A promoção de 50% na 2ª peça, de outubro, usava outro cupom e não somava com o CECILIA10. No Pix, a loja tira mais 5%.",
           "Confira o desconto no resumo do pedido antes de pagar. A regra está na [página do cupom Bagaggio](/cupons/bagaggio)."
         ]
       },
       {
         "heading": "Qual escolher",
         "paragraphs": [
-          "Escolha pela linha que a criança usa e pela medida que o site oficial informa. Se a garantia pesa, fique com as três em que a descrição oficial traz 90 dias: Star Candy, Homem Aranha e High Shape III."
+          "Escolha pela linha que a criança usa e pela medida que o site oficial informa. Se você quer o prazo de garantia escrito na ficha, são três com 90 dias na descrição oficial: Star Candy, Homem Aranha e High Shape III. Nos outros, vale a garantia legal."
         ],
         "bullets": [
           "Quer gastar menos: Listras, a R$ 49,90, ou Grid, a R$ 99,90, ambas 43 × 32 × 14 cm e sem garantia informada pela loja.",
@@ -166325,7 +166352,7 @@ export const reviewsData: unknown[] = [
           "A Bagaggio tem mochila escolar com rodinha? Sim. Na tabela, quatro modelos têm rodinha, de R$ 199,90 a R$ 329,90.",
           "A Bagaggio tem linha KidGo de mochila escolar? Não. Na busca, a KidGo aparece só numa mala de bordo.",
           "Mochila escolar da Disney ou da Marvel é da Bagaggio? A loja vende, com a marca do personagem informada por ela. Não é linha própria da Bagaggio.",
-          "Qual a garantia da mochila escolar Bagaggio? Depende do modelo: a Bagaggio anuncia 90 dias em três modelos e não traz garantia nos outros.",
+          "Qual a garantia da mochila escolar Bagaggio? Depende do modelo: a Bagaggio anuncia 90 dias em três modelos e não traz prazo na ficha dos outros, onde vale a garantia legal do Código de Defesa do Consumidor.",
           "Tem cupom para a mochila escolar? Sim. O CECILIA10 dá 10% em todo o site oficial, com um cupom por pedido. Confira o desconto no resumo do pedido antes de pagar."
         ]
       }
@@ -166357,13 +166384,13 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "A garantia pesa na compra: Star Candy, Homem Aranha e High Shape III trazem 90 dias informados pela loja.",
+        "Você quer o prazo de garantia escrito na ficha: Star Candy, Homem Aranha e High Shape III trazem 90 dias informados pela loja.",
         "A criança quer personagem: as licenciadas Disney e Marvel da tabela.",
         "O notebook vai junto: a loja indica a High Shape III para notebook."
       ],
       "skipIf": [
         "Você escolhe pela idade: a loja não traz faixa etária, então a escolha é pela medida da tabela.",
-        "Você quer personagem e garantia ao mesmo tempo: entre as licenciadas, só o Homem Aranha informa 90 dias."
+        "Você quer personagem e prazo de garantia escrito na ficha: entre as licenciadas, só o Homem Aranha informa 90 dias."
       ]
     }
   },
@@ -167347,6 +167374,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Comfort Up, Comfort Line ou Comfort Slim, da Toda Up: os tamanhos de cada um, a tabela de busto da loja, o que a página diz de cada modelo e o preço.",
@@ -167387,7 +167415,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os três lado a lado",
         "paragraphs": [
-          "Os três custam o mesmo e a diferença é a faixa de tamanho, com estoque, cores e preço na tabela. O nome do modelo leva à página dele."
+          "Os três custam o mesmo e a diferença é a faixa de tamanho, com estoque, cores e preço na tabela, de 30/10/2026. O nome do modelo leva à página dele. Estoque e preço mudam: confira na loja."
         ],
         "comparisonTable": {
           "headers": [
@@ -167597,7 +167625,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço, cupom e frete",
         "paragraphs": [
-          "Os três custam R$ 189,90 no cartão, de R$ 199,90.",
+          "Os três custavam R$ 189,90 no cartão, de R$ 199,90; o preço muda com a campanha, então confira na página de cada um.",
           "O cupom MAUAD dá 10% em todo o site da Toda Up, inclusive em produto que já está com desconto. A campanha da loja pode entrar antes do cupom, então o total do carrinho é a conta que vale. Para ver todos os cupons da loja, veja [o cupom da Toda Up](/cupons/toda-up).",
           "O frete é calculado pelo CEP, por Sedex, Loggi ou Jadlog, e o pedido sai em até 3 dias úteis depois da confirmação do pagamento, segundo a política de envio. Troca de modelo, tamanho ou cor e arrependimento valem por 30 dias corridos depois do recebimento, pelo portal de trocas."
         ]
@@ -167681,7 +167709,7 @@ export const reviewsData: unknown[] = [
           "O Comfort Line serve em tomara que caia? Segundo a página, dá para usar assim ou combinar as alças. Antes de escolher, confira o busto na tabela.",
           "O cupom da Toda Up vale nos três modelos? Vale, porque o cupom é do site inteiro e dá 10% no carrinho. A campanha da loja pode entrar antes, então confira o total.",
           "De que é feito o tecido? Segundo o FAQ da loja, 76,6% é poliamida e 23,5% é elastano.",
-          "O Comfort Slim tem PP e M? Tem, mas com estoque mais curto: 3 de 5 variantes em cada um."
+          "O Comfort Slim tem PP e M? Tem, mas com estoque mais curto na tabela: 3 de 5 variantes em cada um."
         ]
       }
     ],
@@ -167716,6 +167744,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Kit Insider com o cupom EMCASACOMCECILIA de 15% OFF, testado no carrinho: a conta por peça de Tech, Heavy, Daily, cueca e undershirt contra o avulso.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "locale": "pt",
@@ -167734,7 +167763,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como ler a conta do kit",
         "paragraphs": [
           "A conta é o preço do kit dividido pelo número de peças, comparado com a peça avulsa. O \"de\" que a loja mostra ao lado do kit usa o preço antigo das peças e não serve de base: o kit de 3 Tech aparece \"de R$ 507\", mas 3 Tech avulsas custam R$ 387.",
-          "Os preços são do cartão. A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) avulsa custa R$ 129, de PP a XXGG. A loja também tem cadastros com um tamanho só, em geral PP, mais baratos, que ficam fora da conta.",
+          "Os preços são os do cartão da loja em 30/10/2026, e o preço do dia pode ser outro: confira na loja. A [Tech T-Shirt](https://creators.insiderstore.com.br/axB7p3y) avulsa custa R$ 129, de PP a XXGG. A loja também tem cadastros com um tamanho só, em geral PP, mais baratos, que ficam fora da conta.",
           "Com a Black Friday, os preços podem mudar. Antes de comprar, veja a [Black Friday Insider 2026](/reviews/black-friday-insider)."
         ],
         "images": [
@@ -168026,7 +168055,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom no kit: testado no carrinho",
         "paragraphs": [
           "O cupom EMCASACOMCECILIA dá 15% na loja online, um por pedido, e não vale na loja física. Nos primeiros dias de um lançamento, pode não entrar; depois, entra mesmo com a etiqueta de lançamento. A regra publicada não exclui kit.",
-          "Testamos com o kit de 5 Tech. No carrinho, o kit vira cinco camisetas com o desconto do kit em cada uma, e o cupom entra por cima. O total ficou em R$ 462,75, ou R$ 92,55 por camiseta, com frete grátis.",
+          "Testamos com o kit de 5 Tech. No carrinho, o kit vira cinco camisetas com o desconto do kit em cada uma, e o cupom entra por cima. O total ficou em R$ 462,75, ou R$ 92,55 por camiseta, com frete grátis. Em outro kit, confira a linha do código em cada peça antes de pagar.",
           "A Daily não aceita o cupom: a página avisa que o desconto dela já é o máximo.",
           "O Pix tem desconto próprio, que aparece no checkout e soma com o cupom."
         ],
@@ -168065,7 +168094,7 @@ export const reviewsData: unknown[] = [
           "Kit Insider compensa? Compensa em camiseta Tech de 5 ou 10 peças, Heavy de 3 ou 5 e Slip de 10. Na cueca, o kit de 2 Comfort é o que mais economiza.",
           "Kit de cueca vale a pena? O de 2 Comfort sai a R$ 49,01 por peça. Os de 3 e 5 Comfort ou Performance economizam de 3% a 5%, e o de 5 Slip, 10%.",
           "Kit de camiseta tem desconto? A Tech tem: o kit de 5 economiza 16%. A Daily quase não tem: 2% no kit de 3.",
-          "O cupom vale no kit? Vale. No teste com o kit de 5 Tech, o cupom EMCASACOMCECILIA entrou por cima do desconto do kit, e o total ficou em R$ 462,75.",
+          "O cupom vale no kit? No teste com o kit de 5 Tech, o cupom EMCASACOMCECILIA entrou por cima do desconto do kit, e o total ficou em R$ 462,75. Cada peça precisa ser elegível (a Daily, por exemplo, não aceita o cupom): confira a linha do código de cada item no resumo do pedido.",
           "Kit tem frete grátis? Acima de R$ 399, depois do desconto. O kit de 5 Tech com o cupom ficou com frete grátis.",
           "Dá para escolher cor e tamanho no kit? Dá. Cada peça do kit tem cor e tamanho próprios.",
           "Dá para trocar o tamanho do kit? A camiseta troca por tamanho em 21 dias. Cueca e undershirt só trocam por defeito."
@@ -168125,6 +168154,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Glutamina: Black Skull, Max ou Probiótica? Rótulo, preço por 100 g e por dose, e o cupom de cada loja.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-capa.webp",
@@ -168268,7 +168298,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom de cada loja",
         "paragraphs": [
-          "Os três cupons valem em todas as formas de pagamento: CECILIA10 dá 10% em todo o site da Black Skull, e MAX10EMCASACOMCECILIA e PRO10EMCASACOMCECILIA dão até 10%, com o percentual variando por item."
+          "Os três cupons valem em todas as formas de pagamento: CECILIA10 dá 10% em todo o site da [Black Skull](/cupons/black-skull), e MAX10EMCASACOMCECILIA, da [Max Titanium](/cupons/max-titanium), e PRO10EMCASACOMCECILIA, da [Probiótica](/cupons/probiotica), dão até 10%, com o percentual variando por item. Confira o desconto no carrinho antes de pagar."
         ]
       },
       {
@@ -172793,6 +172823,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Outlet Insider feminino com o EMCASACOMCECILIA e 15% OFF: as 39 peças por tipo (sutiãs, praia, Tech T-Shirt, vestidos) e o que sobrou na grade.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "locale": "pt",
@@ -173507,7 +173538,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Calças, legging e shorts: do treino à casa",
         "paragraphs": [
-          "Os três shorts Motion são a mesma bermuda ciclista com bolso lateral para celular, em três comprimentos: segundo a loja, o Curto é 7,5 cm mais curto e o Longo 6 cm mais longo que o Médio. O Médio é o que mais sobrou (Deep Purple de P a XGG, Azul de PP a GG) e custa R$ 149, R$ 126,65 com o cupom. O Short Serotonin é o fitness de short interno integrado, a peça mais cara do Outlet feminino: R$ 215 e R$ 182,75 com o cupom, com quase toda a grade em preto, Deep Blue e Earth Brown.",
+          "Os três shorts Motion são a mesma bermuda ciclista com bolso lateral para celular, em três comprimentos: segundo a loja, o Curto é 7,5 cm mais curto e o Longo 6 cm mais longo que o Médio. O Médio é o que mais sobrou (Deep Purple de P a XGG, Azul de PP a GG) e custa R$ 149, R$ 126,65 com o cupom. O Short Serotonin é o fitness de short interno integrado, o mais caro dos shorts: R$ 215 e R$ 182,75 com o cupom, com quase toda a grade em preto, Deep Blue e Earth Brown.",
           "A Calça Pantalona InLounge, de cintura alta e caimento fluido, é a peça de casa do grupo: R$ 179 no Outlet, R$ 152,15 com o cupom, só em Off White nos tamanhos GG e XGG; na foto da loja ela aparece em azul-marinho, cor que não está à venda. A Calça Reta Ajustável FutureForm, com reguladores na cintura e nos tornozelos, é a mais cara do grupo, R$ 239 (R$ 203,15 com o cupom), em New Khaki P e M e Marinho XGG. A Legging Easy, de cintura alta, ficou em duas cores claras, Coffee Latte e Apricot."
         ],
         "comparisonTable": {
@@ -174076,6 +174107,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA10 dá 10% OFF na Bagaggio. Explore, Voyage, Vacuum Airtrack, Donna Grande e Royale: medida, litros e qual vai como item pessoal no avião.",
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/bagaggio/mochila-de-viagem-bagaggio-qual-escolher-capa.webp",
@@ -174267,7 +174299,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive em produto com preço riscado, como a Explore e a Voyage. Vale um cupom por pedido, e a promoção de 50% na 2ª peça é outro cupom, que não soma com ele. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste no carrinho, numa mala avulsa.",
+          "O CECILIA10 dá 10% de desconto em todo o site oficial da Bagaggio, inclusive em produto com preço riscado, como a Explore e a Voyage. Vale um cupom por pedido, e a promoção de 50% na 2ª peça de outubro usava outro cupom, que não somava com ele. No Pix, a loja tira mais 5% sobre o total com cupom: foi o que aconteceu no nosso teste no carrinho, numa mala avulsa.",
           "Não testamos o cupom no carrinho de uma mochila, por isso não publicamos o valor final de nenhuma delas. Confira o desconto no resumo do pedido antes de pagar. A regra está na página do [cupom Bagaggio](/cupons/bagaggio), e o passo a passo, em [como usar o CECILIA10](/reviews/cupom-bagaggio-como-usar)."
         ]
       },
@@ -174278,7 +174310,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Só com a mochila, sem pagar bagagem: Explore fechada (33 litros, R$ 299,90) ou Vacuum Airtrack (28,1 litros, R$ 499,90). A Explore leva mais e custa menos; a Airtrack comprime a roupa, mas só com a bomba, que sobe o gasto para R$ 574,85 no kit.",
-          "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90, e fechada ainda cabe no compartimento de cima.",
+          "Viagem mais longa, com a mala pequena incluída: Voyage, que chega a 54 litros expandida por R$ 449,90. Expandida, ela passa dos 25 cm de profundidade da mala pequena; meça carregada e confira a companhia e a tarifa. Fechada, cabe no compartimento de cima.",
           "Trabalho e viagem curta, com notebook de até 15,6 polegadas: Donna Grande, R$ 299,90, lembrando que ela só entra como mala pequena.",
           "Quer a nécessaire junto: kit Royale, R$ 449,80, com 20 litros na mochila e medida de item pessoal."
         ],
@@ -174342,7 +174374,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Quem quer voar só com a mochila, sem pagar bagagem: a Explore fechada ou a Vacuum Airtrack, na medida do item pessoal.",
-        "Quem faz viagem mais longa com a mala pequena incluída: a Voyage, que chega a 54 litros expandida.",
+        "Quem faz viagem mais longa com a mala pequena incluída: a Voyage, que chega a 54 litros expandida, mas, nessa configuração, passa dos 25 cm de profundidade da mala pequena. Meça carregada e confira a companhia e a tarifa.",
         "Quem precisa de trabalho e viagem curta com notebook de até 15,6 polegadas: a Donna Grande."
       ],
       "skipIf": [
@@ -174369,6 +174401,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "SkinUp (segunda pele, sem costura) ou Cotton Up (algodão), da Toda Up: as dez peças das duas linhas, para qual roupa cada uma serve, as faixas de tamanho, as cores e o preço.",
@@ -174957,7 +174990,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a diferença entre SkinUp e Cotton Up? A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura, em poliamida e elastano; a Cotton Up é a linha de algodão, sem corte a laser, mais barata e em preto, branco e cinza.",
+          "Qual a diferença entre SkinUp e Cotton Up? A SkinUp é a linha de segunda pele da Toda Up, com corte a laser e sem costura; segundo a loja, os tops são de poliamida e elastano e as calcinhas variam por modelo (celulose regenerada e elastano na Biquíni e na Cós Alto; tecido e forro nas Fio Dental). A Cotton Up é a linha de algodão, sem corte a laser, mais barata e em preto, branco e cinza.",
           "Tem SkinUp em PP? Só o Sutiã Top Alça Fina, no PP (34-36). O Top Segunda Pele, o Clássico e as calcinhas começam no P.",
           "O top Cotton Up tem sustentação? Segundo as páginas do Top Faixa e do Top Triangular, a sustentação é leve, com bojo removível; a própria loja diz que não é alta sustentação.",
           "SkinUp é segunda pele de verdade? É como a loja descreve a linha: corte a laser, acabamento ultrafino e sem costura, para sumir na roupa.",
@@ -174995,6 +175028,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "31 de outubro de 2026",
     "publishedAtISO": "2026-10-31",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Kits da Toda Up: o que cada um traz, o preço por conjunto ou por sutiã e a conta contra as peças avulsas, para saber quando o kit compensa.",
@@ -175312,7 +175346,7 @@ export const reviewsData: unknown[] = [
           "Quer renovar a gaveta de sutiãs de uma vez: [Kit Comfort Up](https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao), três sutiãs por R$ 398,79, R$ 132,93 cada, do P ao GG."
         ],
         "postParagraphs": [
-          "Em todos, o cupom entra depois, no resumo do pedido, e o total do carrinho é a conta que vale."
+          "O MAUAD é de todo o site, mas nenhum destes kits foi testado com ele: aplique no carrinho, confira a linha de desconto no resumo do pedido e deixe o total decidir."
         ],
         "emphasis": "Se fosse para mim, eu levaria o Kit Cotton Up de 3 conjuntos, porque tem a maior porcentagem de economia entre os kits de conjunto."
       },
@@ -176122,6 +176156,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Simple Organic é confiável, com o cupom S-EMCASACOMCECILIA de 5% OFF na loja online: CNPJ, trocas, frete, lojas próprias e site oficial.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/simple-organic-e-confiavel-capa.webp",
@@ -176237,7 +176272,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas e devolução",
         "paragraphs": [
-          "O prazo é curto, e é a regra que mais pesa aqui: 7 dias corridos depois do recebimento, para troca ou desistência, com o produto na embalagem original, sem uso e com o lacre inviolado. Na prática, o lacre decide: produto aberto não volta.",
+          "O prazo é curto, e é a regra que mais pesa aqui: 7 dias corridos depois do recebimento, para troca ou desistência, com o produto na embalagem original, sem uso e com o lacre inviolado. Na prática, o lacre decide a troca voluntária e a desistência (produto aberto não volta por essa regra); defeito é outro caso, e abrir o produto para usá-lo não impede de reclamar do vício.",
           "O pedido vai por e-mail ao atendimento, com o número do pedido. Guarde esse número e a embalagem até ter certeza de que fica com o produto.",
           "Quem comprou na loja física tem outro caminho: o FAQ do site separa \"problema com um pedido feito na loja física\" de \"pedido na loja online\". Se o seu caso é da loja, fale com a loja; o e-mail e o WhatsApp de cada uma estão na página Onde encontrar."
         ]
@@ -176320,7 +176355,7 @@ export const reviewsData: unknown[] = [
         "heading": "Simple Organic é confiável? O que pesa",
         "paragraphs": [
           "Dá para confiar, com uma condição: compre pelo site oficial e decida em uma semana. Do lado da empresa, a Simple Organic mostra o que quem compra procura: CNPJ ativo no rodapé, o mesmo da consulta pública e do Reclame Aqui, um grupo conhecido por trás (a Hypera Pharma, pela própria marca), lojas próprias em nove cidades, regras de troca, frete e pagamento publicadas e atendimento que responde a todas as reclamações.",
-          "Os pontos de atenção são dois. O prazo de troca é de 7 dias com o lacre inviolado; produto aberto não volta. E \"vegana\", \"orgânica\" e \"carbono neutralizado\" são frases da marca sobre selos de terceiros, não uma conferência nossa. Isso vale para a loja; se o produto é bom para a sua pele, é outra pergunta, e este texto não a responde.",
+          "Os pontos de atenção são dois. O prazo de troca e desistência é de 7 dias com o lacre inviolado, e por essa regra produto aberto não volta; o defeito segue outro caminho. E \"vegana\", \"orgânica\" e \"carbono neutralizado\" são frases da marca sobre selos de terceiros, não uma conferência nossa. Isso vale para a loja; se o produto é bom para a sua pele, é outra pergunta, e este texto não a responde.",
           "Se for comprar, confira o endereço e o CNPJ no rodapé, guarde o número do pedido e a embalagem, e aplique o código no carrinho do site oficial."
         ],
         "emphasis": "Loja com dono conhecido, CNPJ à vista e atendimento que responde passa no teste de confiança. O que eu olharia antes é o prazo de troca, porque sete dias passam rápido.",
@@ -176391,6 +176426,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic no Reclame Aqui: RA1000, nota 8,6, 90,2% resolvidas e as queixas mais comuns.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/simple-organic-reclame-aqui-capa.webp",
@@ -176519,7 +176555,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Atraso na entrega é a queixa mais comum: lidera a lista de principais problemas do perfil, com um pouco mais de um quinto das reclamações. O resto se espalha; nas categorias, a maior fatia é Produtos Naturais, e nos produtos, Cosméticos naturais, que é o que a loja vende.",
           "As reclamações mais recentes do perfil contam o resto da história. Entre as últimas oito, apareceram: conta-gotas de sérum que chegou quebrado ou torto (duas vezes), produto reformulado com embalagem e quantidade novas, pedido de devolução feito no dia do recebimento, pedido que não deu para cancelar junto com tampa de creme que quebra, pedido não recebido e o mesmo produto pela metade do preço logo depois da compra. Todas tinham resposta da loja.",
-          "Quem busca \"niacinamida Simple Organic reclame aqui\" ou \"retinol like Simple Organic reclame aqui\" quer saber do produto, não só do correio, e as queixas recentes confirmam: parte é sobre frasco, tampa e fórmula, não sobre entrega. Regra prática, sem teste nosso, com um frasco de conta-gotas viajando pelo correio: confira o conta-gotas assim que a caixa chegar e fotografe antes de usar, porque a troca pede o produto sem uso.",
+          "Quem busca \"niacinamida Simple Organic reclame aqui\" ou \"retinol like Simple Organic reclame aqui\" quer saber do produto, não só do correio, e as queixas recentes confirmam: parte é sobre frasco, tampa e fórmula, não sobre entrega. Regra prática, sem teste nosso, com um frasco de conta-gotas viajando pelo correio: confira o conta-gotas assim que a caixa chegar e fotografe antes de usar, porque a foto do estado em que chegou sustenta o pedido.",
           "Uma das reclamações de conta-gotas veio de compra na loja oficial da Simple na Shopee. O perfil do Reclame Aqui junta pedidos de todos os canais, então a nota não é só do site. Guarde onde comprou: o pedido da Shopee se resolve primeiro na Shopee, e o do site, no atendimento do site."
         ],
         "images": [
@@ -176544,14 +176580,14 @@ export const reviewsData: unknown[] = [
         "heading": "Se o pedido der problema",
         "paragraphs": [
           "Comece pela loja, com o número do pedido na mão, e só depois vá ao Reclame Aqui. O FAQ do perfil já responde ao que mais aparece: prazo de envio, pedido errado ou com defeito, problema com pedido da loja física, pedido \"não finalizado\" no site e cancelamento. Leia o item do seu caso antes de abrir reclamação; às vezes a resposta já está lá.",
-          "A loja informa: o pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento, por PAC, Sedex ou JadLog, e em ações grandes como a Clean Friday esse prazo pode crescer. A troca ou a desistência tem 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado, pedida por e-mail ao atendimento com o número do pedido. O prazo conta do recebimento, não da compra: pedido que ainda não chegou não entra nessa regra, e por isso o cancelamento antes do envio é uma conversa à parte, pelo FAQ.",
+          "A loja informa: o pedido sai em 3 a 5 dias úteis depois da confirmação do pagamento, por PAC, Sedex ou JadLog, e em ações grandes como a Clean Friday esse prazo pode crescer. A troca voluntária ou a desistência tem 7 dias corridos depois do recebimento, com o produto na embalagem original, sem uso e com o lacre inviolado, pedida por e-mail ao atendimento com o número do pedido; produto com defeito é outro caso, e se pede ao atendimento com as fotos. O prazo conta do recebimento, não da compra: pedido que ainda não chegou não entra nessa regra, e por isso o cancelamento antes do envio é uma conversa à parte, pelo FAQ.",
           "Pedido da loja física ou da farmácia tem caminho próprio no FAQ da loja, separado do pedido online. Se nada disso resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil. Guarde o número do pedido, o CPF da compra, a foto do produto como chegou e a data em que o prazo venceu: é o que serve em qualquer canal."
         ],
         "images": [
           {
             "src": "/images/reviews/simple-organic/gel-de-limpeza-suave.webp",
             "alt": "Frasco do Gel de Limpeza Suave da Simple Organic, em foto oficial do produto no site da marca",
-            "caption": "Frasco, tampa e conta-gotas: confira ao receber, porque a troca pede o produto sem uso. Foto: Simple Organic.",
+            "caption": "Frasco, tampa e conta-gotas: confira ao receber e fotografe o estado em que chegou. Foto: Simple Organic.",
             "objectFit": "square",
             "href": "https://simpleorganic.com.br/products/gel-de-limpeza-suave"
           }
@@ -176593,7 +176629,7 @@ export const reviewsData: unknown[] = [
           "Qual a nota da Simple Organic no Reclame Aqui? Nota 8,6 nos últimos 6 meses, 8,5 nos 12 meses e 8,2 na aba geral; a tabela do capítulo \"Os números da Simple Organic\" traz as cinco abas.",
           "Do que as pessoas reclamam da Simple Organic? Atraso na entrega é o problema mais citado; nas reclamações recentes aparecem também conta-gotas quebrado, produto reformulado, devolução sem retorno e pedido que não deu para cancelar.",
           "A Simple Organic responde às reclamações no Reclame Aqui? Sim, a todas, em pouco mais de dois dias em média nos últimos 6 meses. Resolveu nove em cada dez no mesmo período.",
-          "O que fazer se o pedido da Simple Organic atrasar ou chegar com defeito? Fale com o atendimento da loja com o número do pedido e a foto do produto; a troca tem 7 dias corridos depois do recebimento, com o lacre inviolado. Se não resolver, registre no Reclame Aqui."
+          "O que fazer se o pedido da Simple Organic atrasar ou chegar com defeito? Fale com o atendimento da loja com o número do pedido e a foto do produto; a troca voluntária ou a desistência tem 7 dias corridos depois do recebimento, com o lacre inviolado, e o defeito se descreve no mesmo atendimento. Se não resolver, registre no Reclame Aqui."
         ]
       }
     ],
@@ -178100,6 +178136,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic é boa? Niacinamida a 10%, duas vitaminas C, retinol a 0,3% e bakuchiol, pelo rótulo.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/simple-organic/simple-organic-e-boa-capa.webp",
@@ -178381,7 +178418,7 @@ export const reviewsData: unknown[] = [
         "heading": "A Simple Organic é confiável?",
         "paragraphs": [
           "Dá para confiar na loja; o que este guia não responde é se o produto serve à sua pele. A empresa, as lojas físicas, o frete e o pagamento estão em [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel), e as notas por período e as reclamações recentes, inclusive as de frasco e conta-gotas, em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao).",
-          "O que pesa, da loja, é o prazo de troca: 7 dias corridos depois de receber, com o lacre inviolado. Sérum aberto não volta, e por isso o rótulo se lê antes de comprar, não depois; é o que este guia tenta adiantar."
+          "O que pesa, da loja, é o prazo de troca: 7 dias corridos depois de receber, com o lacre inviolado. Na troca voluntária e na desistência, sérum aberto não volta por essa regra (defeito é outro caso, e abrir o produto não impede de reclamar do vício), e por isso o rótulo se lê antes de comprar, não depois; é o que este guia tenta adiantar."
         ]
       },
       {
@@ -180260,6 +180297,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código MAUAD dá 5% OFF no site da Let's Eat It. A loja é boa? Le Creuset no localizador oficial, Porto Brasil, troca em 30 dias e Reclame Aqui.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/lets-eat-it-e-boa-capa.webp",
@@ -180317,7 +180355,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom, Pix e frete",
         "paragraphs": [
           "O código da Let's Eat It é o MAUAD e dá 5% em todo o site, em todas as formas de pagamento, somando com as promoções, a pré-venda e o desconto do Pix, que sai em muitos produtos. Ele vai no campo \"Código de desconto\" do checkout, e a linha \"Desconto no pedido\" aparece no resumo antes do pagamento; o frete entra na etapa seguinte. Conta nossa: se o Pix incide sobre o preço que já saiu com o código, os dois juntos tiram 9,75% do preço de lista, não 10%. A loja não publica cupom de primeira compra. O MAUAD dá 5% no site, e a loja não publica regra de uso por CPF. O passo a passo e as regras estão na página do [cupom Let's Eat It](/cupons/letseatit).",
-          "O frete é o que mais muda a conta, e ele não zera: a loja não publica faixa de frete grátis, e o valor sai por CEP e peso, simulado na página do produto. A loja informa: o pedido é separado no mesmo dia ou no dia útil seguinte, e a entrega leva de 3 a 5 dias úteis em São Paulo capital, de 4 a 7 no interior e na Grande São Paulo, de 5 a 8 no Sul e no Sudeste, de 6 a 9 no Centro-Oeste e de 7 a 12 no Norte e no Nordeste, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo do seu CEP mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
+          "O frete é o que mais muda a conta: o valor sai por CEP e peso, simulado na página do produto, e a política padrão da loja cita frete grátis só para Le Creuset e Zwilling acima de R$ 1.000; confirme no carrinho. A loja informa: o pedido é separado no mesmo dia ou no dia útil seguinte, e a entrega leva de 3 a 5 dias úteis em São Paulo capital, de 4 a 7 no interior e na Grande São Paulo, de 5 a 8 no Sul e no Sudeste, de 6 a 9 no Centro-Oeste e de 7 a 12 no Norte e no Nordeste, com prazo maior em período promocional. Presente com data pede a conta de trás para a frente: o prazo do seu CEP mais a separação. A compra é no [site da Let's Eat It](https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)."
         ]
       },
       {
@@ -180378,7 +180416,7 @@ export const reviewsData: unknown[] = [
           "Para a louça do dia a dia e o aparelho de jantar completo, a Porto Brasil, que é onde a promoção da loja está.",
           "Para presente de casamento ou de quem cozinha, a loja tem as faixas numa vitrine só, com troca em 30 dias da entrega.",
           "Não vale para quem precisa da peça em poucos dias fora de São Paulo: o prazo chega a 12 dias úteis, e sobe em promoção.",
-          "Não vale para quem quer frete grátis: ele não existe na compra, só na devolução.",
+          "Não vale para quem quer frete grátis em qualquer pedido: na compra, a política padrão só cita Le Creuset e Zwilling acima de R$ 1.000.",
           "Pense duas vezes no cristal se o pedido vai longe: taças são o que mais quebra no caminho, e a reposição depende das fotos no dia da chegada."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a Le Creuset e a louça pela Let's Eat It; o cristal, eu pediria com tempo de sobra."
@@ -180403,7 +180441,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Você precisa da peça em poucos dias fora de São Paulo: o prazo chega a 12 dias úteis no Norte e no Nordeste.",
-        "Você quer frete grátis: a loja não publica faixa, e o frete sai por CEP e peso.",
+        "Você quer frete grátis em qualquer pedido: ele só vale nos pedidos maiores de Le Creuset e Zwilling, e o resto paga frete por CEP e peso.",
         "A peça é de cristal e você não quer o risco do transporte: taças estão entre os problemas mais citados no Reclame Aqui."
       ]
     },
@@ -189560,6 +189598,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "A Blumi não vende fita: é outra linha da mesma dona da Fita Up, com CNPJ próprio. Compare empresa, formato e tamanho da Fita Up com a Lib e veja onde comprar cada uma.",
@@ -189652,7 +189691,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Fita Up ou Lib: formato e tamanho",
         "paragraphs": [
-          "O que separa as duas é como você acerta o tamanho. A Fita Up vem em três larguras, escolhidas pelo número do sutiã: P até o 44, M até o 48 e G até o 54. A Lib é um rolo só, que você corta na medida do decote, e serve a qualquer tamanho. O passo a passo de colar e tirar a Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
+          "O que separa as duas é como você acerta o tamanho. A Fita Up vem em três larguras, escolhidas pelo número do sutiã: P até o 44, M até o 48 e G até o 54. A Lib é um rolo de 9 cm x 5 m que você corta na medida do decote; a página da Drogasil não diz para quais tamanhos de busto ele serve. O passo a passo de colar e tirar a Fita Up está em [Fita Up: como usar](/reviews/fita-up-como-usar)."
         ],
         "image": {
           "src": "/images/reviews/toda-up/fita-up-embalagem-modelo.webp",
@@ -189663,7 +189702,7 @@ export const reviewsData: unknown[] = [
           "href": "https://todaup.com/discount/MAUAD?redirect=/collections/squad-toda-up&utm_campaign=fluxoinfluenciadoras&utm_content=mensagem1&utm_medium=influs&utm_source=influs&utm_term=comissao"
         },
         "postParagraphs": [
-          "A Lib pede mais atenção ao relógio: a página da Drogasil manda tirar a fita antes do limite, porque passar dele pode irritar a pele, e não indica o uso em gestantes, lactantes ou peles sensíveis. Os protetores de mamilo já vêm na caixa da Lib; na Fita Up, o passo a passo pede o protetor antes de colar."
+          "A Lib pede mais atenção ao relógio: a página da Drogasil manda tirar a fita antes do limite, porque passar dele pode irritar a pele, e não indica o uso em gestantes, lactantes ou peles sensíveis. Os protetores de mamilo já vêm na caixa da Lib; na Fita Up, o passo a passo pede o protetor antes de colar. Em qualquer uma das duas, teste a fita antes numa área pequena da pele."
         ],
         "comparisonTable": {
           "caption": "Preços de 05/11. O da Lib é o da Drogasil, sem promoção.",
