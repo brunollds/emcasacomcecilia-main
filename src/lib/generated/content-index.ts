@@ -74923,7 +74923,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Sim, a Dr. Peanut é confiável: marca de Curitiba com CNPJ ativo e site oficial, ligada ao grupo Supley. Veja as regras de frete grátis por região e a reputação.",
+    "description": "Veja quem opera a Dr. Peanut, o CNPJ, a ligação com a Supley e as regras publicadas de compra, frete e atendimento antes de decidir.",
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. A marca é confiável? Veja o CNPJ, de quem ela é, as regras de troca, o frete e o Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
@@ -74951,7 +74951,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Dr. Peanut é confiável. É uma marca brasileira de Curitiba, com CNPJ ativo e site oficial, ligada ao grupo Supley, o mesmo da Max Titanium. O ponto que pede atenção é o frete grátis, que depende do mínimo da sua região; veja abaixo as regras de frete e a reputação no Reclame Aqui. Para comprar com desconto, use o [cupom Dr. Peanut](/cupons/dr-peanut)."
+          "A Dr. Peanut é uma marca brasileira de Curitiba, com CNPJ ativo e ligação à Supley, o mesmo grupo da Max Titanium. O Reclame Aqui mostra reputação Boa nos últimos 6 meses e Ótima nos últimos 12. Frete grátis e troca têm regras próprias, então confira antes de comprar, e use o [cupom Dr. Peanut](/cupons/dr-peanut) no carrinho."
         ]
       },
       {
@@ -75049,7 +75049,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O arrependimento vale só para compras feitas no site oficial, com a embalagem original e o lacre intacto. Para pedir, você escreve para sac@supley.com.br com o número do pedido e a nota fiscal.",
+          "O arrependimento vale só para compras feitas no site oficial, com a embalagem original e o lacre intacto. Para pedir, você escreve para sac@supley.com.br com o número do pedido e a nota fiscal. Se a recusa vier por causa do lacre, peça o motivo por escrito.",
           "A troca por outro produto é a linha que costuma pegar de surpresa. Se você comprou um sabor e quer outro, o frete de ida e o de volta são seus. Se você só desistiu da compra, o arrependimento sai sem custo, desde que esteja dentro dos 7 dias.",
           "No defeito, a loja faz uma análise técnica e você escolhe entre a troca, o dinheiro de volta ou um cupom.",
           "Na entrega, confira o pacote antes de aceitar. Se houver avaria, embalagem violada ou item errado, você pode recusar a encomenda e escrever o motivo no verso da nota fiscal. Isso evita abrir o processo de devolução depois.",
@@ -75086,7 +75086,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "No Reclame Aqui, a Dr. Peanut aparece com reputação **Boa** nos últimos 6 meses (nota 7,4) e **Ótima** nos últimos 12 meses (nota 8,1). Os números, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no nosso artigo sobre o assunto."
+          "No Reclame Aqui, a Dr. Peanut tem reputação **Boa** nos últimos 6 meses (nota 7,4) e **Ótima** nos últimos 12 meses (nota 8,1). Os números, o que mais aparece nas reclamações e o que fazer se o pedido der problema estão no nosso artigo sobre o assunto. Uma nota alta não garante que o seu pedido dê certo."
         ],
         "links": [
           {
@@ -75118,7 +75118,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Dr. Peanut é confiável? Sim. É uma fábrica de alimentos de Curitiba com CNPJ ativo desde 2017, a Supley é sócia da empresa, as políticas de troca e de frete têm prazos e valores escritos, e o Reclame Aqui mostra reputação Boa em 6 meses e Ótima em 12 meses.",
+          "A Dr. Peanut é confiável? A empresa tem CNPJ ativo, fábrica em Curitiba e a Supley como sócia, com políticas de compra publicadas. No Reclame Aqui, a reputação é Boa nos últimos 6 meses e Ótima nos últimos 12; confira períodos e condições antes de comprar.",
           "A Dr. Peanut é brasileira? Sim. A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., com matriz em Curitiba (PR) e atividade de fabricação de produtos alimentícios no CNPJ.",
           "A Dr. Peanut é da Max Titanium? Não: as duas são marcas irmãs, ligadas à mesma empresa, a Supley. O site da Dr. Peanut chega a vender um whey que leva o nome das duas.",
           "De quem é a Dr. Peanut? A empresa é a Body Food Fabricantes de Alimentos Saudáveis Ltda., e a Supley Laboratório de Alimentos e Suplementos Nutricionais aparece como sócia no CNPJ. A Supley reúne também Max Titanium, Probiótica e Znack That.",
@@ -75193,7 +75193,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Dá para confiar, com cautela. A Dr. Peanut tem reputação Boa no Reclame Aqui nos últimos 6 meses e Ótima nos últimos 12, responde quase todas as reclamações e resolve a maior parte. O ponto fraco é a recompra, e as queixas se concentram na entrega. Veja os números abaixo e o que fazer se o pedido atrasar; para comprar com desconto, use o [cupom Dr. Peanut](/cupons/dr-peanut)."
+          "Dá para comprar com cautela: a reputação no Reclame Aqui foi Boa nos últimos 6 meses (nota 7,4) e Ótima nos 12 meses (nota 8,1). O ponto de atenção é a recompra: 52,6% das 38 reclamações avaliadas nos últimos 6 meses disseram que voltariam a fazer negócio. Para o desconto, use o [cupom Dr. Peanut](/cupons/dr-peanut)."
         ]
       },
       {
@@ -75275,7 +75275,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As porcentagens de solução e de recompra saem só das reclamações avaliadas. Nos últimos 6 meses, foram 38 das 68. Com uma base tão pequena, poucas avaliações mexem muito nos percentuais: 52,6% de 38 avaliações equivalem a cerca de 20 avaliações."
+          "As porcentagens de solução e de recompra saem só das reclamações avaliadas: nos últimos 6 meses, foram 38 das 68. Com uma base tão pequena, poucas avaliações mexem muito nos percentuais: 52,6% de 38 equivalem a cerca de 20 avaliações. Isso mede quem avaliou, não as compras repetidas de toda a clientela."
         ],
         "images": [
           {
@@ -75392,7 +75392,7 @@ export const reviewsData: unknown[] = [
         "heading": "Dá para confiar na Dr. Peanut?",
         "paragraphs": [
           "Dá para comprar com cautela. O Reclame Aqui mostra uma empresa que responde quase tudo (95,6% nos últimos 6 meses) e resolve a maior parte entre as reclamações avaliadas (84,2%), com reputação Boa em 6 meses (nota 7,4) e Ótima em 12 meses (nota 8,1). As avaliações de compra do perfil estavam em 4,6 de 5.",
-          "A tendência ajuda: foram 510 reclamações em 2025, 189 nos 12 meses até setembro e 68 nos últimos 6 meses, e a resposta ficou mais rápida (7 dias e 7 horas).",
+          "Foram 68 reclamações nos 6 meses mais recentes, contra 121 nos seis anteriores (189 na janela de 12 meses). A contagem caiu, mas sem o volume de vendas não dá para saber se a taxa por pedido caiu. O tempo médio de resposta do recorte recente foi 7 dias e 7 horas.",
           "Os pontos de atenção são dois. Só 52,6% de quem avaliou nos últimos 6 meses voltaria a fazer negócio, e o que mais aparece nas queixas é pedido não recebido e entrega. Por isso, acompanhe o rastreio, guarde o número do pedido e abra o perfil no Reclame Aqui no dia da compra."
         ]
       },
@@ -75408,7 +75408,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Se os números te deram segurança para comprar, use o cupom DREMCASACOMCECILIA, de 10% OFF em todo o site, no carrinho.",
+      "text": "Se você decidiu comprar na Dr. Peanut, o cupom DREMCASACOMCECILIA dá 10% OFF em todo o site. Confira o desconto no carrinho antes de pagar.",
       "label": "Ir para a Dr. Peanut",
       "url": "https://www.drpeanut.com.br/",
       "sponsored": true
@@ -75467,7 +75467,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: como usar o cupom da Dr. Peanut",
         "paragraphs": [
-          "O [cupom Dr. Peanut](/cupons/dr-peanut) é o DREMCASACOMCECILIA e dá 10% de desconto em todo o site, em qualquer forma de pagamento, e se soma às promoções do site. Você o digita no carrinho e clica em Adicionar. O frete grátis depende de um mínimo que muda por região; veja o capítulo sobre frete."
+          "O [cupom Dr. Peanut](/cupons/dr-peanut) é DREMCASACOMCECILIA: dá 10% no site e soma com as promoções. No carrinho, digite o código no campo “Código”, clique em “Adicionar” e confira a linha “Descontos” antes de pagar. O mínimo do frete grátis varia por região e é calculado antes do cupom."
         ]
       },
       {
@@ -80093,7 +80093,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 438,
     "slug": "black-friday-dr-peanut",
-    "title": "Black Friday Dr. Peanut 2026: a loja segue sem campanha, o cupom DREMCASACOMCECILIA e o frete grátis",
+    "title": "Black Friday Dr. Peanut 2026: cupom DREMCASACOMCECILIA, ofertas e frete grátis",
     "seoTitle": "Black Friday Dr. Peanut 2026: cupom de 10% e frete grátis",
     "type": "Guia de Black Friday",
     "category": "cupons-como-usar",
@@ -80105,8 +80105,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Dr. Peanut entrou em novembro sem campanha de Black Friday. Veja como o cupom DREMCASACOMCECILIA soma com as promoções, o frete grátis por região e o que conferir antes de pagar.",
-    "metaDescription": "Black Friday Dr. Peanut 2026: a loja segue sem campanha. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com promoção; frete grátis por região.",
+    "description": "Guia de Black Friday da Dr. Peanut: como conferir ofertas, aplicar DREMCASACOMCECILIA e comparar o total com o frete grátis por região.",
+    "metaDescription": "DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Black Friday 2026: confira ofertas, desconto aplicado e mínimo de frete do seu pedido.",
     "publishedAt": "15 de outubro de 2026",
     "publishedAtISO": "2026-10-15",
     "updatedAt": "2026-11-07",
@@ -80123,7 +80123,7 @@ export const reviewsData: unknown[] = [
       "Frete grátis a partir de R$ 149,90 em São Paulo capital, Sudeste e Sul"
     ],
     "cons": [
-      "A loja entrou em novembro sem datas, produtos nem preços de Black Friday no site",
+      "Em novembro, o site não tinha datas, produtos nem preços de Black Friday identificados",
       "O frete grátis vale só na opção de entrega mais barata",
       "No Centro-Oeste, Nordeste e Norte, o frete grátis só começa em R$ 199,90",
       "Na troca por outro produto, o frete de ida e de volta é seu"
@@ -80153,13 +80153,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday Dr. Peanut 2026",
         "paragraphs": [
-          "A Dr. Peanut entrou em novembro sem campanha de Black Friday: a home traz só o frete grátis e os combos, e o grande dia é 27 de novembro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções no ar; confira no carrinho se o desconto do Pix soma também."
+          "Em novembro, a home da Dr. Peanut trazia frete grátis e combos, sem campanha de Black Friday identificada, e o grande dia é 27 de novembro. O cupom DREMCASACOMCECILIA dá 10% OFF em todo o site e soma com as promoções no ar; confira no carrinho se o desconto do Pix soma também."
         ]
       },
       {
         "heading": "A Dr. Peanut faz Black Friday?",
         "paragraphs": [
-          "Por enquanto, a loja não publicou nada para 2026. Em novembro, a home segue como em outubro: o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Não há datas de início e fim nem lista de produtos da campanha.",
+          "Em novembro, a home mostrava o aviso de frete grátis por região e banners de combos (Flavor Fusion, Favoritos da Galera e a assinatura Pro), sem preço no texto e sem menção à Black Friday. Confira os banners e as condições da loja no dia da compra.",
           "O que a marca já disse sobre a data é de 2024. Em matéria da ABCCOM, o diretor de marketing da Dr. Peanut afirmou que a marca foi a primeira mais buscada no Google na categoria de snack saudável durante a Black Friday de 2024, com share de 62,85% nas buscas por pasta de amendoim. É um dado de interesse de busca, dito pela própria marca: a matéria não traz percentuais de desconto, preços nem datas da campanha.",
           "Da Black Friday de 2025, não encontramos anúncio oficial da Dr. Peanut. Por isso este guia não usa ofertas de anos anteriores como régua de preço."
         ],
@@ -80245,7 +80245,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da Dr. Peanut? A loja não anunciou campanha: em novembro, o site segue sem datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, dia 27, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
+          "Quando começa e quanto dura a Black Friday da Dr. Peanut? Não identificamos anúncio de campanha: em novembro, o site não tinha datas, produtos nem preços de Black Friday. O grande dia é a última sexta-feira de novembro, e a Cyber Monday, a segunda seguinte. Se a campanha sair, o cupom DREMCASACOMCECILIA segue com 10% OFF em todo o site, e o carrinho mostra se ele soma com a oferta.",
           "O cupom DREMCASACOMCECILIA soma com promoção? Soma. Ele dá 10% OFF em todo o site, em todas as formas de pagamento, e valeu também sobre a pasta de amendoim que já estava em promoção no nosso teste.",
           "A Dr. Peanut tem frete grátis? Tem, e o mínimo é conferido antes do cupom, como testamos em novembro: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte.",
           "Quanto o carrinho precisa ter antes do cupom para ter frete grátis? O mínimo da sua região: R$ 149,90 em São Paulo capital, Sudeste e Sul e R$ 199,90 no Centro-Oeste, Nordeste e Norte. O cupom não entra nessa conta.",
@@ -82781,7 +82781,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo e pelo preço por 100 g, o melhor sabor depende do que você procura: Avelã e Leite em Pó têm mais proteína, Cookies & Cream e Brownie têm menos açúcar, e o Brownie tem menos sódio. Para começar sem pensar, o trio que a loja destaca no Combo Best Sellers é Avelã, Bueníssimo e Cookies & Cream. O capítulo de perfil detalha cada critério."
+          "Pelo rótulo, o melhor sabor depende do critério. Avelã e Leite em Pó têm mais proteína por 100 g; Brownie e Cookies & Cream têm menos açúcar, e o Brownie, menos sódio. O Combo Best Sellers da loja junta Avelã, Bueníssimo e Cookies & Cream, mas o gosto é você quem decide."
         ]
       },
       {
@@ -82880,10 +82880,11 @@ export const reviewsData: unknown[] = [
               "R$ 98,21",
               "R$ 8,73"
             ]
-          ]
+          ],
+          "caption": "Preços exibidos na loja, sem frete. Coluna com cupom: estimativa de 10%, sem outros descontos de pagamento."
         },
         "postParagraphs": [
-          "O preço é o mesmo em todos os sabores do mesmo tamanho. Então o sabor não muda a conta: o que muda é o tamanho e o combo. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g. Nos combos, o preço depende só do número de potes e do tamanho, qualquer que seja a mistura de sabores. Na página de combos, todo par de 600 g custava R$ 110,20, todo trio R$ 158,11, todo quarteto R$ 203,63 e todo combo de cinco R$ 252,42. Os combos de 250 g seguem a mesma lógica, de R$ 47,64 pelo par a R$ 109,12 pelos cinco. Pela nossa conta, até um par de 250 g em combo (R$ 9,53 por 100 g) sai mais barato por 100 g que um pote de 600 g avulso (R$ 9,98). A loja tinha ainda combos \"Comprou, Ganhou\", uma pasta pelo preço normal com alfajor ou wafer de brinde. Os combos mudam com frequência: confira a página no dia da compra."
+          "Na tabela, o sabor não muda o preço dentro do mesmo tamanho: o que muda é o tamanho e o combo. O pote de 600 g sai cerca de 4% mais barato por 100 g que o de 250 g, e os combos reduzem mais esse custo: até o par de 250 g fica abaixo do pote avulso de 600 g por 100 g. Os combos e os brindes mudam; confira o valor no dia da compra."
         ],
         "image": {
           "src": "/images/reviews/dr-peanut/dr-peanut-12-sabores-potes-2710.webp",
@@ -83172,7 +83173,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Pelos números da tabela, para quem quer menos açúcar com menos poliol a escolha é o Brownie, porque é o único com menos de 5 g de açúcares e menos de 7 g de polióis por 100 g.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "Pelo rótulo por 100 g, comece pelo trio do Combo Best Sellers e ajuste por proteína, açúcar ou sódio nos itens abaixo. Na colher, o arredondamento do rótulo embaralha a ordem."
+          "Compare os sabores pelo critério que importa para você: açúcar, proteína, sódio ou preço por peso. A posição na vitrine e o nome Best Sellers são informações da loja, não uma prova de qual sabor você vai preferir."
         ],
         "bullets": [
           "**Quer o sabor que a loja mais destaca:** Avelã, Bueníssimo e Cookies & Cream, os três do Combo Best Sellers. A vitrine \"Mais Vendidos\" da home abria com Bombom Italiano, Bueníssimo e Avelã, nessa ordem, e a listagem de pastas, na ordem padrão \"Mais vendidos\", começava do mesmo jeito. É a ordem que a loja mostra, sem número de vendas.",
@@ -83238,11 +83239,18 @@ export const reviewsData: unknown[] = [
               "Sim",
               "Sim"
             ]
-          ]
+          ],
+          "caption": "Simulação com cupom de 10% e sem desconto adicional de pagamento. O frete depende do CEP: confirme no carrinho."
         },
         "postParagraphs": [
           "O cupom não tira o frete grátis de quem já passou do mínimo: o Combo Best Sellers passa de R$ 149,90 pelo preço de tabela e segue com frete grátis no Sul e no Sudeste mesmo com os 10%. O combo de cinco potes de 250 g, a R$ 109,12 pelo preço de tabela, não chega ao mínimo. Confira o carrinho antes de pagar.",
           "Escolha o sabor antes de fechar o pedido. Na troca por outro produto, o frete de ida e o de volta ficam por sua conta. O passo a passo do código no carrinho está no [Cupom Dr. Peanut DREMCASACOMCECILIA: como usar os 10% em todo o site](/reviews/cupom-dr-peanut-como-usar), e o código para copiar fica na [página do cupom da Dr. Peanut](/cupons/dr-peanut). Se você pode esperar novembro, veja o que a loja já anunciou em [Black Friday Dr. Peanut 2026: o que a loja já anunciou, o cupom DREMCASACOMCECILIA e o frete grátis](/reviews/black-friday-dr-peanut)."
+        ],
+        "links": [
+          {
+            "label": "Ver regras e validade do cupom DREMCASACOMCECILIA",
+            "href": "/cupons/dr-peanut"
+          }
         ]
       },
       {
@@ -101286,7 +101294,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que cada produto traz no rótulo",
         "paragraphs": [
-          "A porção muda tudo: de 83 kcal na colher de pasta a 261 kcal na Doctor Bar, cada uma como a loja a define. Na Doctor Bar e na Doctor Wafer, só o sabor Avelã; nas pastas, no alfajor e no whey, a faixa junta todos os sabores."
+          "As porções publicadas são diferentes: a tabela compara uma colher de pasta, um alfajor, uma barra, um wafer e dois dosadores de whey. Doctor Bar e Doctor Wafer representam só o sabor Avelã; as faixas das outras linhas reúnem todos os sabores. Use esses números por porção, não como um ranking de alimentos equivalentes."
         ],
         "image": {
           "src": "/images/reviews/dr-peanut/dr-peanut-e-saudavel-capa.webp",
@@ -101461,7 +101469,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Doctor Bar e Doctor Wafer",
         "paragraphs": [
-          "A Doctor Bar é a mais calórica por porção: 261 kcal na barra de 62 g, no sabor Avelã. Ela tem 21 g de proteína, 21 g de carboidratos, 12 g de gorduras totais e 6,2 g de gordura saturada, que a tabela marca como 31% do valor diário. São 9,6 g de polióis e 80 mg de sódio.",
+          "Entre as porções selecionadas, a Doctor Bar Avelã tem o maior valor energético: 261 kcal na barra de 62 g. Ela tem 21 g de proteína, 21 g de carboidratos, 12 g de gorduras totais e 6,2 g de gordura saturada, que a tabela marca como 31% do valor diário. São 9,6 g de polióis e 80 mg de sódio.",
           "Na lista de ingredientes da Doctor Bar Avelã estão leite em pó, soro de leite e caseinato de cálcio. A página diz \"CONTÉM GLÚTEN\" e \"CONTÉM LACTOSE\", e os alérgicos são amendoim, leite e soja.",
           "A Doctor Wafer é vendida avulsa, em unidade de 25 g, ou em caixa com 12. No sabor Avelã, cada unidade tem 127 kcal, 5 g de proteína, 9 g de carboidratos, 1 g de açúcares totais, 0 g de açúcares adicionados e 4,8 g de gordura saturada (24% do valor diário). O wafer é de farinha de trigo, e a página diz \"CONTÉM GLÚTEN. CONTÉM LACTOSE.\""
         ],
@@ -101495,10 +101503,10 @@ export const reviewsData: unknown[] = [
           "O rótulo não responde a essa pergunta. Ele lista o que a pessoa com restrição precisa conferir:"
         ],
         "bullets": [
-          "Lactose: pasta, Doctor Bar, Doctor Wafer e whey contêm.",
-          "Glúten: Doctor Bar, Doctor Wafer e whey contêm; a pasta não contém.",
-          "Edulcorantes: estão em todos os produtos com lista publicada. Pasta, Doctor Bar e Doctor Wafer levam também polióis.",
-          "Alérgicos: a Doctor Bar traz amendoim, leite e soja. A pasta traz amendoim e derivados de leite em todos os sabores, e alguns levam também avelã, castanha-de-caju, pistache, ovo ou soja. A Doctor Wafer tem amendoim na lista de ingredientes.",
+          "Lactose: presente nas pastas, no whey, na Doctor Bar Avelã e na Doctor Wafer Avelã.",
+          "Glúten: presente no whey e nos sabores Avelã da Doctor Bar e da Doctor Wafer; as pastas declaram ausência.",
+          "Edulcorantes: constam nos produtos com lista publicada; nas pastas, na Doctor Bar Avelã e na Doctor Wafer Avelã, também aparecem polióis.",
+          "Alérgenos: a Doctor Bar Avelã informa amendoim, leite e soja. As pastas trazem amendoim e derivados de leite em todos os sabores; alguns também levam avelã, castanha-de-caju, pistache, ovo ou soja. A Doctor Wafer Avelã tem amendoim na lista de ingredientes. Confira o aviso do sabor escolhido.",
           "Alfajor: sem lista de ingredientes nem de alérgicos publicada."
         ],
         "postParagraphs": [
@@ -101508,13 +101516,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando procurar nutricionista ou médico",
         "paragraphs": [
-          "Procure um nutricionista ou um médico antes de usar a pasta, a barra ou o whey com frequência se você tem intolerância à lactose, doença celíaca, alergia alimentar, diabetes ou outra restrição. Vale também para quem quer emagrecer, ganhar peso ou montar uma dieta. Este texto mostra o rótulo e não substitui essa conversa."
+          "Para usar a tabela, confira primeiro o produto e o sabor, depois a porção e os avisos de alérgenos. Em caso de restrição alimentar ou de dúvida sobre o plano alimentar, leve o rótulo ao nutricionista ou médico."
         ]
       },
       {
         "heading": "Preço e cupom",
         "paragraphs": [
-          "Os preços no site da Dr. Peanut eram estes:"
+          "Compare os preços abaixo pela apresentação e pela quantidade da caixa, e confira a oferta atual antes de decidir."
         ],
         "bullets": [
           "Pasta de amendoim: R$ 25,89 no pote de 250 g (de R$ 28,90) e R$ 59,89 no de 600 g (de R$ 64,90).",
@@ -101538,7 +101546,7 @@ export const reviewsData: unknown[] = [
           "Dr. Peanut é bom para emagrecer? O rótulo não fala em emagrecimento, e este texto também não. Quem quer emagrecer deve montar o plano com um nutricionista.",
           "Dr. Peanut faz mal? O rótulo não diz isso. Ele lista lactose, glúten em alguns produtos, polióis, edulcorantes e alérgicos, que quem tem restrição precisa conferir com um médico ou nutricionista.",
           "Dr. Peanut tem açúcar? Tem. As pastas não têm açúcar adicionado, mas trazem de 4,6 a 10 g de açúcares totais por 100 g. O whey tem de 8,5 a 11 g por porção de 40 g.",
-          "Dr. Peanut tem adoçante? Tem. A pasta leva maltitol, xilitol, sucralose e acessulfame de potássio; a Doctor Bar, maltitol, glicosídeos de esteviol e sucralose; a Doctor Wafer, maltitol; e o whey, sucralose.",
+          "Dr. Peanut tem adoçante? Tem. A pasta leva maltitol, xilitol, sucralose e acessulfame de potássio, e o Brownie e o Banoffee também levam glicosídeos de esteviol; a Doctor Bar Avelã, maltitol, glicosídeos de esteviol e sucralose; a Doctor Wafer Avelã, maltitol; e o whey, sucralose.",
           "Quais são os ingredientes da Dr. Peanut? A pasta leva amendoim, proteína concentrada do soro do leite, polióis e edulcorantes. A lista de cada produto está na página dele no site, menos a do alfajor, que a loja não publica.",
           "Whey Dr. Peanut tem açúcar? Tem. São de 8,5 a 11 g de açúcares totais por porção de 40 g, conforme o sabor.",
           "Whey Dr. Peanut tem lactose? Tem. O rótulo diz \"CONTÉM LACTOSE\" e também \"CONTÉM GLÚTEN\"."
@@ -124404,7 +124412,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. O wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade. O que pesa é a proteína que você quer em cada unidade; veja em Qual escolher."
+          "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade. O que pesa é a proteína que você quer; veja em Qual escolher."
         ]
       },
       {
@@ -124608,13 +124616,13 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 3,25. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, a barra entrega mais proteína que os outros dois formatos."
+          "A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 3,25. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, as quatro barras com tabela disponível têm mais proteína que os outros dois formatos comparados."
         ]
       },
       {
         "heading": "Açúcar: o que a tabela mostra",
         "paragraphs": [
-          "Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. No alfajor e no wafer, a tabela marca 0 g de adicionados. Na barra, são de 0,1 a 0,4 g. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.",
+          "Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. Nos sabores de alfajor e wafer comparados, a tabela marca 0 g de adicionados. Nas quatro barras com tabela publicada, são de 0,1 a 0,4 g; o Speculoos não tem tabela publicada pela loja. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.",
           "Os polióis aparecem só na tabela da barra: 9,6 g por unidade na Doctor Bar Avelã e 10 g na Cookies & Cream. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis: a lista de ingredientes da Doctor Wafer Avelã, publicada pela loja, traz maltitol, que é um poliol. A lista de adoçantes de cada produto está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
         ]
       },
@@ -124661,7 +124669,7 @@ export const reviewsData: unknown[] = [
           "Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:"
         ],
         "bullets": [
-          "**Mais proteína por unidade:** a Doctor Bar, com 21 g. A unidade sai a R$ 15,25, e a loja só vende em display de 8.",
+          "**Mais proteína por unidade:** a Doctor Bar, com 21 g. Na conta do display de 8, a unidade sai a R$ 15,25; confira formato e preço atuais.",
           "**Menos calorias por unidade:** a Doctor Wafer, com 118 a 127 kcal, e também o menor preço por unidade, R$ 11,46.",
           "**Menos açúcar total:** o alfajor Avelã ou o Cookies & Cream, com 0,8 g por unidade.",
           "**Menor preço por grama de proteína:** a Doctor Bar, com R$ 0,73 pela conta nossa.",
@@ -124747,7 +124755,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Por 100 g, o kit de 5 potes de 600 g é o mais barato; para uma compra só, o pote de 600 g. O de 250 g é o mais caro por grama e serve para provar. O frete grátis muda a conta: veja em \"Frete grátis: onde o kit compensa\"."
+          "O kit de 5 potes de 600 g tem o menor custo por 100 g entre os formatos comparados, mas leva 3 kg. Para um pote só, o de 600 g custa menos por grama que o de 250 g. Compare a quantidade que você consome, a validade e o frete antes de escolher."
         ]
       },
       {
@@ -124848,14 +124856,15 @@ export const reviewsData: unknown[] = [
               "R$ 227,18",
               "R$ 7,57"
             ]
-          ]
+          ],
+          "caption": "Formatos comparados, custo por 100 g e simulação com o cupom de 10%, sem desconto do Pix."
         },
         "postParagraphs": [
           "O pote de 250 g estava de R$ 28,90 por R$ 25,89, e o de 600 g, de R$ 64,90 por R$ 59,89. Os preços são do site, sem desconto de Pix."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-tabela-por-100g.webp",
         "imageAlt": "Tabela com o preço por 100 g de cada formato da Dr. Peanut, sem cupom e com o cupom de 10%, e da assinatura com cupom.",
-        "imageCaption": "Preços do site oficial. Com o cupom, a conta é o preço menos 10%.",
+        "imageCaption": "Preços do site oficial. Com o cupom, a simulação aplica 10% ao preço de página.",
         "imageFit": "contain",
         "imageAspectRatio": 0.933
       },
@@ -124863,7 +124872,7 @@ export const reviewsData: unknown[] = [
         "heading": "250 g ou 600 g: a diferença por 100 g",
         "paragraphs": [
           "O pote de 600 g sai por R$ 9,98 por 100 g, e o de 250 g, por R$ 10,36. A diferença é de cerca de 4%, ou R$ 0,38 a cada 100 g. Com cupom, a ordem não muda: R$ 8,98 contra R$ 9,32.",
-          "Pelo sabor, o tamanho também limita a escolha: o Doce de Leite só sai em 250 g, e o Banoffee e o Beijinho só em 600 g. Os sabores e a tabela nutricional de cada um estão no [artigo sobre o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
+          "Pelo sabor, o tamanho também pode limitar a escolha: Banoffee e Beijinho apareciam só no pote de 600 g, e Caramelo Salgado só no de 250 g. Antes de escolher, confira se o sabor aparece no formato que você quer; o [guia de sabores da Dr. Peanut](/reviews/dr-peanut-melhor-sabor) reúne sabores e dados nutricionais."
         ],
         "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-600g.webp",
         "imageAlt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
@@ -124882,7 +124891,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "800 g e 1 kg: o que a loja vende",
         "paragraphs": [
-          "Não há pote de 800 g nem de 1 kg na loja. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Na assinatura, 4 pastas de 250 g com o cupom saem por R$ 77,67, R$ 7,77 por 100 g (ver o capítulo da assinatura). Os kits de 600 g somam 1,2 kg, 1,8 kg, 2,4 kg e 3 kg."
+          "Na loja, não havia pote de 800 g nem de 1 kg. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Na assinatura, 4 pastas de 250 g com o cupom saem por R$ 77,67, R$ 7,77 por 100 g (ver o capítulo da assinatura). Os kits de 600 g somam 1,2 kg, 1,8 kg, 2,4 kg e 3 kg."
         ]
       },
       {
@@ -124896,7 +124905,7 @@ export const reviewsData: unknown[] = [
         "heading": "Assinatura: com o cupom, o menor preço nos potes de 250 g",
         "paragraphs": [
           "A assinatura (\"Monte sua assinatura\") só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3, e 15% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2, R$ 68,35 com 3 e R$ 88,03 com 4, os mesmos valores dos kits de 250 g.",
-          "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. Testamos no carrinho: os 10% do cupom saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
+          "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. No carrinho de teste, os 10% saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
         ],
         "comparisonTable": {
           "headers": [
@@ -124930,10 +124939,11 @@ export const reviewsData: unknown[] = [
               "R$ 77,67 com 4 (R$ 19,42 por pasta)",
               "R$ 7,77"
             ]
-          ]
+          ],
+          "caption": "Simulações da assinatura com cupom de 10%, sobre o subtotal e com o desconto progressivo de cada quantidade."
         },
         "postParagraphs": [
-          "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom em todas as quantidades: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo.",
+          "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom nas quantidades comparadas: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo. Confira na contratação o valor e as condições das próximas cobranças.",
           "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom. Na assinatura, o aviso do carrinho mostra quando o pedido chega lá."
         ]
       },
@@ -124947,11 +124957,11 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual tamanho compensa",
-        "emphasis": "Pelos números da tabela, para quem come pasta todo dia a escolha é o kit de 5 × 600 g com cupom, porque ele tem o menor preço por 100 g e frete grátis em todas as regiões.",
+        "emphasis": "Pelos preços da tabela, o kit de 5 × 600 g tem o menor custo por 100 g. Confira se os 3 kg cabem no consumo e na validade das embalagens; depois compare o total com frete.",
         "emphasisAfterParagraph": 5,
         "paragraphs": [
-          "Para quem come pasta todo dia e tem espaço para guardar, o kit de 5 × 600 g tem o menor preço por grama: R$ 8,41 sem cupom e R$ 7,57 com cupom, com frete grátis em todas as regiões.",
-          "Para uma compra só, sem kit, o pote de 600 g: R$ 9,98 por 100 g, ou R$ 8,98 com cupom.",
+          "Na tabela, o kit de 5 × 600 g sai a R$ 8,41 por 100 g sem cupom e R$ 7,57 com o código, e, com o código, o total passa do mínimo de frete grátis em todas as regiões. Esse resultado favorece o kit se você pretende consumir os 3 kg dentro da validade das embalagens.",
+          "Para levar um único pote, o de 600 g custa menos por 100 g que o de 250 g: R$ 9,98 sem cupom ou R$ 8,98 com o código, antes do frete.",
           "Para testar a pasta, leve 2 × 250 g em vez do pote avulso de 250 g: sai R$ 9,53 por 100 g, 8% abaixo do avulso. O pote de 250 g sozinho só faz sentido se você quer um pote só.",
           "Para quem busca 1 kg, ou quer potes de 250 g todo mês, a assinatura com o cupom: 4 pastas saem por R$ 77,67, R$ 7,77 por 100 g, abaixo do kit de 4 × 250 g com cupom (R$ 79,23). Sem assinatura, o kit de 4 × 250 g.",
           "O que pesa na escolha é a conta por 100 g e o frete. O sabor de cada tamanho está no artigo sobre o melhor sabor."
@@ -124962,20 +124972,20 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site, e o teste no carrinho mostrou o desconto em todos os itens do carrinho, inclusive nos que já estavam em promoção.",
           "O Pix entra na conta? Não há soma confirmada com o Pix, e os preços deste artigo não incluem desconto de Pix.",
-          "A Dr. Peanut tem pote de 1 kg? Não há pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura.",
-          "O cupom entra na assinatura? Sim. No teste no carrinho, o DREMCASACOMCECILIA somou com o desconto progressivo da assinatura, com os 10% calculados sobre o subtotal."
+          "A Dr. Peanut tem pote de 1 kg? Na loja, não havia pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura; confira o catálogo antes de escolher.",
+          "O cupom entra na assinatura? Sim. No teste no carrinho com 3 pastas, o DREMCASACOMCECILIA somou com o desconto progressivo, com os 10% calculados sobre o subtotal. Confira na contratação as condições do código e das renovações."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o kit de 5 × 600 g com cupom se você come pasta todo dia: tem o menor preço por 100 g e frete grátis em todas as regiões.",
+        "Considere o kit de 5 × 600 g se pretende consumir os 3 kg dentro da validade e o total com frete compensar: ele tem o menor preço por 100 g entre os formatos comparados.",
         "Leve a assinatura com cupom se você quer potes de 250 g todo mês: ela sai abaixo do kit de 250 g com cupom.",
-        "Leve o pote de 600 g se você vai fazer uma compra só, sem kit."
+        "Considere o pote de 600 g se quer um único pote e pretende consumir essa quantidade; confira o total com frete."
       ],
       "skipIf": [
         "Passe no pote avulso de 250 g se você quer mais de um pote: é o mais caro por grama.",
-        "Passe na loja se você busca pote de 800 g ou de 1 kg: não há, e o equivalente é o kit de 4 × 250 g ou a assinatura."
+        "Você precisa de uma única embalagem de 800 g ou 1 kg: a loja não tinha, e o equivalente é o kit de potes menores ou a assinatura."
       ]
     },
     "pros": [],
@@ -125954,7 +125964,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há vencedora geral. Pasta só de amendoim, vegana ou sem lactose existe apenas na La Ganexa, e o pote de 1 kg dela costuma sair mais barato por 100 g; a Dr. Peanut ganha no pote pequeno com sabor de sobremesa, com o cupom de 10%. O que decide é o seu perfil; veja em Onde cada uma ganha."
+          "Não há vencedora geral: a La Ganexa tem pasta só de amendoim, vegana ou sem lactose, e o pote de 1 kg dela costuma ter menor custo por 100 g. A Dr. Peanut custa menos nos potes pequenos com sabor de sobremesa, com o cupom de 10%. O que decide é o seu perfil; veja em Onde cada uma ganha."
         ]
       },
       {
@@ -126005,6 +126015,9 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na Dr. Peanut, Banoffee e Beijinho saem só no pote de 600 g, e o Doce de Leite só no de 250 g. Na La Ganexa, Mousse de Brigadeiro, Pistache e Caramelo e Flor de Sal existem só em 450 g. A página da La Ganexa não mostrava a tabela do Cookies, só os ingredientes, então ele fica fora da tabela por sabor."
+        ],
+        "paragraphs": [
+          "As contas usam 100 g para igualar porções e tamanhos diferentes."
         ]
       },
       {
@@ -126167,7 +126180,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
         ],
-        "emphasis": "Pelos números da tabela, para quem compra o pote grande a escolha é a La Ganexa de 1 kg, porque sai mais barata por 100 g na maioria dos sabores, mesmo contra a Dr. Peanut com cupom.",
+        "emphasis": "Para quem compra o pote grande, a La Ganexa de 1 kg sai mais barata por 100 g na maioria dos sabores, mesmo contra a Dr. Peanut com cupom. Nos potes pequenos com sabor de sobremesa, a Dr. Peanut leva vantagem.",
         "emphasisAfterParagraph": 1,
         "bullets": [
           "Quer pasta só de amendoim, vegana ou sem lactose: La Ganexa, com a Natural, a Crocante e a Avelã Vegana. Nenhuma pasta da Dr. Peanut é sem lactose.",
@@ -126175,7 +126188,7 @@ export const reviewsData: unknown[] = [
           "Quer o pote grande mais barato: a La Ganexa de 1 kg, na maioria dos sabores, mesmo contra a Dr. Peanut com cupom.",
           "Quer pote pequeno com sabor de sobremesa pelo menor preço: a Dr. Peanut de 250 g, a R$ 10,36 por 100 g e a R$ 9,32 com o cupom, com o mesmo preço em todos os sabores. Os potes de 450 g com sabor da La Ganexa partem de R$ 11,11 por 100 g.",
           "Quer menos sódio: a La Ganexa Natural, a Crocante e a Avelã Vegana, com 5,9 a 6 mg por 100 g. Nas de sobremesa, a La Ganexa vai de 80 a 324 mg, e a Dr. Peanut fica entre 127 e 193 mg.",
-          "Quer menos açúcares totais em sabor doce: há empate na faixa. A Dr. Peanut vai de 4,6 a 10 g; a La Ganexa, de 4,8 a 14 g, com Leitinho e Leitinho Black no topo."
+          "Quer comparar açúcares totais: as faixas se sobrepõem, então compare sabor a sabor. Por 100 g, a Dr. Peanut vai de 4,6 a 10 g e a La Ganexa, de 4,8 a 14 g; Leitinho e Leitinho Black têm os maiores valores da La Ganexa."
         ],
         "postParagraphs": [
           "Não há vencedora geral. Os números são de 25/10/2026, data em que as duas lojas estavam em promoção: refaça a conta com o preço do dia antes de comprar. Sabor e textura ficam de fora: o texto compara rótulo e preço, sem degustação."
@@ -126187,7 +126200,7 @@ export const reviewsData: unknown[] = [
           "Dr. Peanut ou La Ganexa, qual é melhor? Depende do perfil. A La Ganexa leva vantagem em pasta só de amendoim, em pasta sem lactose e no pote de 1 kg; a Dr. Peanut, no pote de 250 g com sabor de sobremesa e com o cupom.",
           "Qual tem mais proteína por 100 g? A La Ganexa tem de 16 a 24 g, e a Dr. Peanut, de 17 a 20 g. A Natural, a Crocante e a Avelã Vegana da La Ganexa têm 24 g.",
           "Qual pasta de amendoim não tem lactose? Entre as duas marcas, só a La Ganexa tem: a Natural, a Crocante e a Avelã Vegana, que dizem \"NÃO CONTÉM LACTOSE\". As dez pastas da Dr. Peanut contêm lactose.",
-          "Qual sai mais barata por 100 g? No pote grande, a La Ganexa de 1 kg, na maioria dos sabores, mesmo contra a Dr. Peanut com o cupom. No pote pequeno com sabor de sobremesa, a Dr. Peanut de 250 g, a R$ 9,32 por 100 g com o cupom.",
+          "Qual sai mais barata por 100 g? No pote grande, a La Ganexa de 1 kg, na maioria dos sabores, mesmo contra a Dr. Peanut com o cupom. No pote pequeno com sabor de sobremesa, a Dr. Peanut de 250 g, a R$ 9,32 por 100 g com o cupom. Confira o preço atual antes de decidir.",
           "A La Ganexa tem cupom do site? Não. A La Ganexa não é parceira do site, e este texto não traz cupom dela. O cupom DREMCASACOMCECILIA é da Dr. Peanut."
         ]
       }
@@ -177603,14 +177616,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
-          "O DREMCASACOMCECILIA tira 10% de todo o site da Dr. Peanut, em todas as formas de pagamento, e soma com as promoções: no teste do checkout, o desconto entrou até no item que já estava com preço promocional. Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 15% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Para quem compra pasta de 250 g todo mês, é o menor preço por 100 g dos potes pequenos.",
+          "O DREMCASACOMCECILIA tira 10% de todo o site, em todas as formas de pagamento, e soma com as promoções: no teste do checkout, entrou até no item que já estava com preço promocional. Entra também na assinatura, que só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral e desconto progressivo de 4% com uma pasta a 15% com quatro ou mais; o cupom soma com esse desconto, com os 10% sobre o subtotal. Na comparação de preço, a assinatura com cupom ficou abaixo do kit de 250 g com a mesma quantidade, antes do frete.",
           "O frete grátis conta o valor antes do cupom: a partir de R$ 149,90 em São Paulo capital, no Sudeste e no Sul, e de R$ 199,90 no Centro-Oeste, no Nordeste e no Norte. Um pote de 600 g sozinho não chega; o pote de whey chega em qualquer região. A compra é no site oficial, drpeanut.com.br, e o código para copiar fica na página do [cupom Dr. Peanut](/cupons/dr-peanut)."
         ]
       },
       {
         "heading": "Confiança: quem fabrica e como a loja responde",
         "paragraphs": [
-          "Dá para confiar: a Dr. Peanut é uma fábrica de Curitiba com CNPJ ativo, a Body Food, que tem a Supley como sócia e mostra o CNPJ e o endereço no rodapé do site. No Reclame Aqui, a reputação é Boa nos últimos 6 meses e Ótima nos últimos 12, com quase todas as reclamações respondidas e a maior parte resolvida. As queixas se concentram na entrega: guarde o rastreio e chame o atendimento assim que o prazo vencer.",
+          "A Body Food, de Curitiba, fabrica a Dr. Peanut, e a Supley aparece como sócia; o CNPJ e o endereço ficam no rodapé do site. No Reclame Aqui, a reputação é Boa nos últimos 6 meses e Ótima nos últimos 12, e as queixas se concentram na entrega: guarde o rastreio e acione o atendimento assim que o prazo vencer. Os períodos e o que aparece nas reclamações estão no [guia de reputação da Dr. Peanut](/reviews/dr-peanut-reclame-aqui-nota-reputacao).",
           "Na troca, o arrependimento em 7 dias sai sem custo para você, e a troca por outro produto tem o frete por sua conta. Escolha o sabor antes de fechar o carrinho."
         ]
       },
@@ -177642,7 +177655,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Você escolhe pasta de amendoim pelo rótulo: sem adição de açúcares, com a proteína e os polióis declarados por 100 g.",
         "Você já compra a pasta e quer o whey na mesma loja, com um cupom que vale em todo o site e soma com as promoções.",
-        "Você compra pasta de 250 g todo mês: a assinatura com o cupom é o menor preço por 100 g dos potes pequenos."
+        "Você compra pastas de 250 g com recorrência: compare a assinatura com os kits e o avulso. O código soma com o desconto progressivo; confira o total do ciclo e o frete."
       ],
       "skipIf": [
         "Você precisa evitar lactose: as pastas, o whey, a Doctor Bar Avelã e o wafer Avelã declaram que contêm, e a loja não tem versão sem lactose; no alfajor, confira a embalagem.",
@@ -189367,7 +189380,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O mesmo pote de whey Dr. Peanut custa igual na Max Titanium e na Dr. Peanut, nos mesmos cinco sabores. Veja o preço por 100 g de proteína, o cupom de cada loja e o frete.",
+    "description": "O mesmo whey Dr. Peanut aparece com o mesmo preço na Max Titanium e na Dr. Peanut, nos mesmos cinco sabores. Veja o preço por 100 g de proteína, o cupom de cada loja e o frete.",
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no whey Dr. Peanut, que a Max Titanium também vende. Veja sabores e preço por 100 g nas duas lojas.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
@@ -189394,7 +189407,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o rótulo diz",
         "paragraphs": [
-          "O que decide aqui é o aviso de glúten e lactose, não a proteína: o pote contém os dois, e quem precisa evitar um deles não compra em loja nenhuma. Quem tem intolerância a um dos dois decide com médico ou nutricionista.",
+          "O que decide aqui é o aviso de glúten e lactose, não a proteína. As duas lojas declaram leite, e a da Dr. Peanut diz que pode conter trigo, cevada e aveia. Quem tem intolerância a um dos dois decide com médico ou nutricionista.",
           "A loja informa: a porção é de 40 g, dois dosadores, com 20 g de proteína, 162 kcal, 8,5 g de açúcares totais (0,1 g adicionados), 3,1 g de gordura e 112 mg de sódio. A proteína é concentrada do soro do leite (WPC), com amendoim torrado e granulado, cacau, sal, lecitina de soja, gomas, corante caramelo IV e sucralose.",
           "É nos alérgenos que as páginas divergem. As duas dizem que contém amendoim e leite. A da Dr. Peanut diz que contém soja também, e que pode conter trigo, centeio, cevada, aveia, castanhas, nozes e ovo; a da Max diz que a soja e o ovo só podem estar. Confira a embalagem que chegar."
         ]
@@ -189402,7 +189415,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os cinco sabores",
         "paragraphs": [
-          "As duas lojas vendem os cinco sabores, Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos pelo mesmo preço. No rótulo, eles mudam pouco: os açúcares totais ficam entre 8,5 g e 11 g por dose, e a Paçoca, que não existe na pasta, tem o dobro de sódio dos outros. A comparação de sabores da pasta está em [Dr. Peanut: qual o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
+          "As duas lojas tinham os cinco sabores, Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, todos pelo mesmo preço. No rótulo, eles mudam pouco: os açúcares totais ficam entre 8,5 g e 11 g por dose, e a Paçoca, que não existe na pasta, tem o dobro de sódio dos outros. A comparação de sabores da pasta está em [Dr. Peanut: qual o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
         ],
         "images": [
           {
@@ -189453,7 +189466,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cupom e Pix em cada loja",
         "paragraphs": [
           "Na Dr. Peanut, o cupom DREMCASACOMCECILIA dá 10% em todo o site, e no checkout deste whey ele funcionou e somou com o Pix. A linha do desconto aparece no carrinho antes de pagar.",
-          "Na Max Titanium, o cupom MAX10EMCASACOMCECILIA também funciona neste pote. Ele dá até 10%, e o percentual muda de produto para produto, então o valor certo aparece no carrinho. Se a Max der os 10% cheios, os dois carrinhos empatam no cupom e a diferença fica no Pix e no frete de cada loja; se der menos, a Dr. Peanut sai mais barata. Antes de fechar, ponha o pote nos dois carrinhos com o cupom de cada uma e compare o total.",
+          "Na Max Titanium, o cupom MAX10EMCASACOMCECILIA também funciona neste pote. Ele dá até 10%, e o percentual muda de produto para produto, então o valor certo aparece no carrinho. Mesmo com percentuais diferentes, Pix e frete podem mudar o total de cada pedido. Antes de fechar, ponha o pote nos dois carrinhos com o cupom de cada uma e compare o total.",
           "O Pix é desconto da própria loja, e cada uma tem o seu. O valor de cada um aparece na tela de pagamento. As regras dos códigos estão em [cupom Dr. Peanut](/cupons/dr-peanut) e [cupons da Max Titanium](/cupons/max-titanium)."
         ]
       },
@@ -189469,21 +189482,21 @@ export const reviewsData: unknown[] = [
           "Com o mesmo pote, os mesmos sabores e o mesmo preço, a loja sai do carrinho, não do produto: o cupom de cada uma, o Pix e o frete."
         ],
         "bullets": [
-          "Quer o desconto certo antes de abrir o carrinho: Dr. Peanut, com os 10% do cupom somados ao Pix.",
+          "Quer o cupom da Dr. Peanut somado ao Pix: Dr. Peanut, conferindo o total com frete no carrinho.",
           "Já compra na Max ou quer levar outro produto dela no mesmo pedido: Max, com o cupom dela, comparando o total dos dois carrinhos.",
           "Já compra pasta de amendoim na Dr. Peanut: o whey entra no mesmo pedido e ajuda a passar do frete grátis.",
-          "Precisa evitar glúten ou lactose: nenhuma das duas serve, pelo rótulo."
+          "Precisa evitar glúten ou lactose: as duas lojas declaram leite, e a Dr. Peanut diz que pode conter trigo, cevada e aveia. Confira a embalagem do sabor escolhido."
         ],
-        "emphasis": "Pelos números da tabela, com o pote e o preço iguais, a escolha é a Dr. Peanut com o cupom, porque os 10% estão confirmados e somam com o Pix; a Max só empata se der os 10% cheios no carrinho."
+        "emphasis": "Com o pote e o preço iguais, o cupom decide: o da Dr. Peanut dá 10%, já conferido no checkout, e soma com o Pix; o da Max depende do percentual do carrinho."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "O whey Dr. Peanut é da Max Titanium? O pote leva as duas marcas: a página do produto o apresenta como criação da Max Titanium em parceria com a Dr. Peanut, e as duas marcas são do mesmo grupo.",
-          "Quais sabores tem o whey Dr. Peanut? Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, nas duas lojas e pelo mesmo preço.",
+          "Quais sabores tem o whey Dr. Peanut? Avelã, Bueníssimo, Paçoca, Bombom Italiano e Doce de Leite, nas duas lojas e pelo mesmo preço. Confira sabores e valores atuais na loja.",
           "O cupom DREMCASACOMCECILIA soma com o Pix? Sim: no checkout do whey, o cupom funcionou e somou com o desconto no Pix da Dr. Peanut.",
           "O cupom da Max vale no whey Dr. Peanut? Vale: o MAX10EMCASACOMCECILIA funciona neste pote, com até 10%. O capítulo do cupom diz como comparar os dois carrinhos.",
-          "O whey Dr. Peanut tem glúten ou lactose? Sim, pelo rótulo: o pote contém glúten e lactose, e nenhuma das lojas vende versão sem um deles."
+          "O whey Dr. Peanut tem glúten ou lactose? Tem lactose: as duas lojas declaram leite entre os alérgenos. Sobre glúten, a Dr. Peanut diz que pode conter trigo, cevada e aveia; confira a embalagem do sabor escolhido."
         ]
       }
     ],
@@ -189491,12 +189504,12 @@ export const reviewsData: unknown[] = [
     "cons": [],
     "decision": {
       "takeIf": [
-        "Você quer o desconto confirmado de 10%, somado ao Pix: compre na Dr. Peanut com o cupom.",
+        "Você quer o cupom da Dr. Peanut, que soma com o Pix: compre na Dr. Peanut e confira o total no carrinho.",
         "Você já compra na Max: o cupom dela funciona no pote, e o que decide é o total do carrinho."
       ],
       "skipIf": [
-        "Você precisa evitar glúten ou lactose: o rótulo diz que o pote contém os dois.",
-        "Você compara só o preço da vitrine: ele é igual nas duas lojas, e o que decide é o total do carrinho com o cupom e o frete."
+        "Você precisa evitar glúten ou lactose: as duas lojas declaram leite, e a Dr. Peanut diz que pode conter trigo, cevada e aveia. Confira a embalagem do sabor escolhido.",
+        "Você compara só o preço da vitrine: ele aparece igual nas duas lojas, e o que decide é o total do carrinho com o cupom e o frete."
       ]
     },
     "cta": {

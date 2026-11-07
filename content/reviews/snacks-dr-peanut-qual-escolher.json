@@ -28,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. O wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade. O que pesa é a proteína que você quer em cada unidade; veja em Qual escolher."
+        "Por unidade, a Doctor Bar tem a maior proteína, 21 g, contra 4 a 4,7 g do alfajor e 5 a 6 g do wafer. Nos sabores com tabela publicada, o wafer tem menos calorias, de 118 a 127 kcal, e o menor preço por unidade. O que pesa é a proteína que você quer; veja em Qual escolher."
       ]
     },
     {
@@ -48,19 +48,136 @@
           "Preço da unidade"
         ],
         "rows": [
-          ["Doctor Bar Avelã", "62 g", "261", "21 g", "1,8 g", "0,2 g", "6,2 g", "R$ 15,25"],
-          ["Doctor Bar Cookies & Cream", "62 g", "263", "21 g", "2,9 g", "0,1 g", "6,1 g", "R$ 15,25"],
-          ["Doctor Bar Doce de Leite", "62 g", "268", "21 g", "1,2 g", "0,3 g", "5,7 g", "R$ 15,25"],
-          ["Doctor Bar Chocolate com Coco", "62 g", "260", "21 g", "1,2 g", "0,4 g", "7,2 g", "R$ 15,25"],
-          ["Doctor Bar Speculoos", "62 g", "não publicada", "21 g (embalagem)", "não publicada", "não publicada", "não publicada", "R$ 15,25"],
-          ["Alfajor Avelã", "35 g", "158", "4,6 g", "0,8 g", "0 g", "3,7 g", "R$ 12,99"],
-          ["Alfajor Cookies & Cream", "35 g", "183", "4 g", "0,8 g", "0 g", "3,8 g", "R$ 12,99"],
-          ["Alfajor Doce de Leite", "35 g", "158", "4,7 g", "1,3 g", "0 g", "3,6 g", "R$ 12,99"],
-          ["Alfajor Leite em Pó", "35 g", "164", "4,4 g", "1,3 g", "0 g", "3,4 g", "R$ 12,99"],
-          ["Alfajor Pistache", "35 g", "163", "4 g", "1 g", "0 g", "3 g", "R$ 12,99"],
-          ["Doctor Wafer Avelã", "25 g", "127", "5 g", "1 g", "0 g", "4,8 g", "R$ 11,46"],
-          ["Doctor Wafer Cookies & Cream", "25 g", "121", "5 g", "1 g", "0 g", "4,3 g", "R$ 11,46"],
-          ["Doctor Wafer Doce de Leite", "25 g", "118", "6 g", "2 g", "0 g", "3 g", "R$ 11,46"]
+          [
+            "Doctor Bar Avelã",
+            "62 g",
+            "261",
+            "21 g",
+            "1,8 g",
+            "0,2 g",
+            "6,2 g",
+            "R$ 15,25"
+          ],
+          [
+            "Doctor Bar Cookies & Cream",
+            "62 g",
+            "263",
+            "21 g",
+            "2,9 g",
+            "0,1 g",
+            "6,1 g",
+            "R$ 15,25"
+          ],
+          [
+            "Doctor Bar Doce de Leite",
+            "62 g",
+            "268",
+            "21 g",
+            "1,2 g",
+            "0,3 g",
+            "5,7 g",
+            "R$ 15,25"
+          ],
+          [
+            "Doctor Bar Chocolate com Coco",
+            "62 g",
+            "260",
+            "21 g",
+            "1,2 g",
+            "0,4 g",
+            "7,2 g",
+            "R$ 15,25"
+          ],
+          [
+            "Doctor Bar Speculoos",
+            "62 g",
+            "não publicada",
+            "21 g (embalagem)",
+            "não publicada",
+            "não publicada",
+            "não publicada",
+            "R$ 15,25"
+          ],
+          [
+            "Alfajor Avelã",
+            "35 g",
+            "158",
+            "4,6 g",
+            "0,8 g",
+            "0 g",
+            "3,7 g",
+            "R$ 12,99"
+          ],
+          [
+            "Alfajor Cookies & Cream",
+            "35 g",
+            "183",
+            "4 g",
+            "0,8 g",
+            "0 g",
+            "3,8 g",
+            "R$ 12,99"
+          ],
+          [
+            "Alfajor Doce de Leite",
+            "35 g",
+            "158",
+            "4,7 g",
+            "1,3 g",
+            "0 g",
+            "3,6 g",
+            "R$ 12,99"
+          ],
+          [
+            "Alfajor Leite em Pó",
+            "35 g",
+            "164",
+            "4,4 g",
+            "1,3 g",
+            "0 g",
+            "3,4 g",
+            "R$ 12,99"
+          ],
+          [
+            "Alfajor Pistache",
+            "35 g",
+            "163",
+            "4 g",
+            "1 g",
+            "0 g",
+            "3 g",
+            "R$ 12,99"
+          ],
+          [
+            "Doctor Wafer Avelã",
+            "25 g",
+            "127",
+            "5 g",
+            "1 g",
+            "0 g",
+            "4,8 g",
+            "R$ 11,46"
+          ],
+          [
+            "Doctor Wafer Cookies & Cream",
+            "25 g",
+            "121",
+            "5 g",
+            "1 g",
+            "0 g",
+            "4,3 g",
+            "R$ 11,46"
+          ],
+          [
+            "Doctor Wafer Doce de Leite",
+            "25 g",
+            "118",
+            "6 g",
+            "2 g",
+            "0 g",
+            "3 g",
+            "R$ 11,46"
+          ]
         ],
         "caption": "Tabelas publicadas pela loja."
       },
@@ -91,19 +208,37 @@
           "Conta nossa: g de proteína por 100 kcal"
         ],
         "rows": [
-          ["Doctor Bar", "21 g", "R$ 15,25", "R$ 0,73", "7,8 a 8,1"],
-          ["Alfajor", "4 a 4,7 g", "R$ 12,99", "R$ 2,76 a R$ 3,25", "2,2 a 3,0"],
-          ["Doctor Wafer", "5 a 6 g", "R$ 11,46", "R$ 1,91 a R$ 2,29", "3,9 a 5,1"]
+          [
+            "Doctor Bar",
+            "21 g",
+            "R$ 15,25",
+            "R$ 0,73",
+            "7,8 a 8,1"
+          ],
+          [
+            "Alfajor",
+            "4 a 4,7 g",
+            "R$ 12,99",
+            "R$ 2,76 a R$ 3,25",
+            "2,2 a 3,0"
+          ],
+          [
+            "Doctor Wafer",
+            "5 a 6 g",
+            "R$ 11,46",
+            "R$ 1,91 a R$ 2,29",
+            "3,9 a 5,1"
+          ]
         ]
       },
       "postParagraphs": [
-        "A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 3,25. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, a barra entrega mais proteína que os outros dois formatos."
+        "A barra tem a maior proteína por unidade e também o menor preço por grama de proteína. No alfajor, cada grama de proteína sai entre R$ 2,76 e R$ 3,25. No wafer, entre R$ 1,91 e R$ 2,29. Por 100 kcal, as quatro barras com tabela disponível têm mais proteína que os outros dois formatos comparados."
       ]
     },
     {
       "heading": "Açúcar: o que a tabela mostra",
       "paragraphs": [
-        "Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. No alfajor e no wafer, a tabela marca 0 g de adicionados. Na barra, são de 0,1 a 0,4 g. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.",
+        "Açúcares totais contam todo o açúcar do produto. Os adicionados contam só o açúcar acrescentado na fabricação. Nos sabores de alfajor e wafer comparados, a tabela marca 0 g de adicionados. Nas quatro barras com tabela publicada, são de 0,1 a 0,4 g; o Speculoos não tem tabela publicada pela loja. O açúcar total da barra vai de 1,2 a 2,9 g por unidade; no alfajor, de 0,8 a 1,3 g; e no wafer, de 1 a 2 g. O menor número do alfajor está no Avelã e no Cookies & Cream, com 0,8 g cada.",
         "Os polióis aparecem só na tabela da barra: 9,6 g por unidade na Doctor Bar Avelã e 10 g na Cookies & Cream. Alfajor e wafer não trazem essa linha, e isso não quer dizer que não tenham polióis: a lista de ingredientes da Doctor Wafer Avelã, publicada pela loja, traz maltitol, que é um poliol. A lista de adoçantes de cada produto está no [guia de ingredientes da Dr. Peanut](/reviews/dr-peanut-e-saudavel)."
       ]
     },
@@ -150,7 +285,7 @@
         "Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:"
       ],
       "bullets": [
-        "**Mais proteína por unidade:** a Doctor Bar, com 21 g. A unidade sai a R$ 15,25, e a loja só vende em display de 8.",
+        "**Mais proteína por unidade:** a Doctor Bar, com 21 g. Na conta do display de 8, a unidade sai a R$ 15,25; confira formato e preço atuais.",
         "**Menos calorias por unidade:** a Doctor Wafer, com 118 a 127 kcal, e também o menor preço por unidade, R$ 11,46.",
         "**Menos açúcar total:** o alfajor Avelã ou o Cookies & Cream, com 0,8 g por unidade.",
         "**Menor preço por grama de proteína:** a Doctor Bar, com R$ 0,73 pela conta nossa.",

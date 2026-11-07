@@ -29,7 +29,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Por 100 g, o kit de 5 potes de 600 g é o mais barato; para uma compra só, o pote de 600 g. O de 250 g é o mais caro por grama e serve para provar. O frete grátis muda a conta: veja em \"Frete grátis: onde o kit compensa\"."
+        "O kit de 5 potes de 600 g tem o menor custo por 100 g entre os formatos comparados, mas leva 3 kg. Para um pote só, o de 600 g custa menos por grama que o de 250 g. Compare a quantidade que você consome, a validade e o frete antes de escolher."
       ]
     },
     {
@@ -58,23 +58,87 @@
           "Por 100 g com cupom"
         ],
         "rows": [
-          ["Pote 250 g", "250 g", "R$ 25,89", "R$ 10,36", "R$ 23,30", "R$ 9,32"],
-          ["Pote 600 g", "600 g", "R$ 59,89", "R$ 9,98", "R$ 53,90", "R$ 8,98"],
-          ["Kit 2 × 250 g", "500 g", "R$ 47,64", "R$ 9,53", "R$ 42,88", "R$ 8,58"],
-          ["Kit 3 × 250 g", "750 g", "R$ 68,35", "R$ 9,11", "R$ 61,52", "R$ 8,20"],
-          ["Kit 4 × 250 g", "1 kg", "R$ 88,03", "R$ 8,80", "R$ 79,23", "R$ 7,92"],
-          ["Kit 2 × 600 g", "1,2 kg", "R$ 110,20", "R$ 9,18", "R$ 99,18", "R$ 8,27"],
-          ["Kit 3 × 600 g", "1,8 kg", "R$ 158,11", "R$ 8,78", "R$ 142,30", "R$ 7,91"],
-          ["Kit 4 × 600 g", "2,4 kg", "R$ 203,63", "R$ 8,48", "R$ 183,27", "R$ 7,64"],
-          ["Kit 5 × 600 g", "3 kg", "R$ 252,42", "R$ 8,41", "R$ 227,18", "R$ 7,57"]
-        ]
+          [
+            "Pote 250 g",
+            "250 g",
+            "R$ 25,89",
+            "R$ 10,36",
+            "R$ 23,30",
+            "R$ 9,32"
+          ],
+          [
+            "Pote 600 g",
+            "600 g",
+            "R$ 59,89",
+            "R$ 9,98",
+            "R$ 53,90",
+            "R$ 8,98"
+          ],
+          [
+            "Kit 2 × 250 g",
+            "500 g",
+            "R$ 47,64",
+            "R$ 9,53",
+            "R$ 42,88",
+            "R$ 8,58"
+          ],
+          [
+            "Kit 3 × 250 g",
+            "750 g",
+            "R$ 68,35",
+            "R$ 9,11",
+            "R$ 61,52",
+            "R$ 8,20"
+          ],
+          [
+            "Kit 4 × 250 g",
+            "1 kg",
+            "R$ 88,03",
+            "R$ 8,80",
+            "R$ 79,23",
+            "R$ 7,92"
+          ],
+          [
+            "Kit 2 × 600 g",
+            "1,2 kg",
+            "R$ 110,20",
+            "R$ 9,18",
+            "R$ 99,18",
+            "R$ 8,27"
+          ],
+          [
+            "Kit 3 × 600 g",
+            "1,8 kg",
+            "R$ 158,11",
+            "R$ 8,78",
+            "R$ 142,30",
+            "R$ 7,91"
+          ],
+          [
+            "Kit 4 × 600 g",
+            "2,4 kg",
+            "R$ 203,63",
+            "R$ 8,48",
+            "R$ 183,27",
+            "R$ 7,64"
+          ],
+          [
+            "Kit 5 × 600 g",
+            "3 kg",
+            "R$ 252,42",
+            "R$ 8,41",
+            "R$ 227,18",
+            "R$ 7,57"
+          ]
+        ],
+        "caption": "Formatos comparados, custo por 100 g e simulação com o cupom de 10%, sem desconto do Pix."
       },
       "postParagraphs": [
         "O pote de 250 g estava de R$ 28,90 por R$ 25,89, e o de 600 g, de R$ 64,90 por R$ 59,89. Os preços são do site, sem desconto de Pix."
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-tabela-por-100g.webp",
       "imageAlt": "Tabela com o preço por 100 g de cada formato da Dr. Peanut, sem cupom e com o cupom de 10%, e da assinatura com cupom.",
-      "imageCaption": "Preços do site oficial. Com o cupom, a conta é o preço menos 10%.",
+      "imageCaption": "Preços do site oficial. Com o cupom, a simulação aplica 10% ao preço de página.",
       "imageFit": "contain",
       "imageAspectRatio": 0.933
     },
@@ -82,7 +146,7 @@
       "heading": "250 g ou 600 g: a diferença por 100 g",
       "paragraphs": [
         "O pote de 600 g sai por R$ 9,98 por 100 g, e o de 250 g, por R$ 10,36. A diferença é de cerca de 4%, ou R$ 0,38 a cada 100 g. Com cupom, a ordem não muda: R$ 8,98 contra R$ 9,32.",
-        "Pelo sabor, o tamanho também limita a escolha: o Doce de Leite só sai em 250 g, e o Banoffee e o Beijinho só em 600 g. Os sabores e a tabela nutricional de cada um estão no [artigo sobre o melhor sabor](/reviews/dr-peanut-melhor-sabor)."
+        "Pelo sabor, o tamanho também pode limitar a escolha: Banoffee e Beijinho apareciam só no pote de 600 g, e Caramelo Salgado só no de 250 g. Antes de escolher, confira se o sabor aparece no formato que você quer; o [guia de sabores da Dr. Peanut](/reviews/dr-peanut-melhor-sabor) reúne sabores e dados nutricionais."
       ],
       "image": "/images/reviews/dr-peanut/dr-peanut-qual-tamanho-compensa-pote-600g.webp",
       "imageAlt": "Pote de 600 g de pasta de amendoim Dr. Peanut sabor Avelã, frente da embalagem",
@@ -101,7 +165,7 @@
     {
       "heading": "800 g e 1 kg: o que a loja vende",
       "paragraphs": [
-        "Não há pote de 800 g nem de 1 kg na loja. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Na assinatura, 4 pastas de 250 g com o cupom saem por R$ 77,67, R$ 7,77 por 100 g (ver o capítulo da assinatura). Os kits de 600 g somam 1,2 kg, 1,8 kg, 2,4 kg e 3 kg."
+        "Na loja, não havia pote de 800 g nem de 1 kg. Quem busca 1 kg encontra o kit de 4 × 250 g, que soma 1 kg, sai por R$ 88,03 (R$ 79,23 com cupom) e fica em R$ 8,80 por 100 g. Na assinatura, 4 pastas de 250 g com o cupom saem por R$ 77,67, R$ 7,77 por 100 g (ver o capítulo da assinatura). Os kits de 600 g somam 1,2 kg, 1,8 kg, 2,4 kg e 3 kg."
       ]
     },
     {
@@ -115,7 +179,7 @@
       "heading": "Assinatura: com o cupom, o menor preço nos potes de 250 g",
       "paragraphs": [
         "A assinatura (\"Monte sua assinatura\") só tem pastas de 250 g, com entrega mensal, bimestral ou trimestral. O desconto sobe com a quantidade: 4% com 1 pasta, 8% com 2, 12% com 3, e 15% com 4 ou mais. Sem cupom, o total é R$ 24,85 com 1 pasta, R$ 47,64 com 2, R$ 68,35 com 3 e R$ 88,03 com 4, os mesmos valores dos kits de 250 g.",
-        "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. Testamos no carrinho: os 10% do cupom saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
+        "O cupom DREMCASACOMCECILIA entra na assinatura e soma com o desconto progressivo. No carrinho de teste, os 10% saem sobre o subtotal, não sobre o valor já descontado. Com 3 pastas a R$ 25,89, o subtotal é R$ 77,67, o desconto de 12% tira R$ 9,32, o cupom tira R$ 7,77 e o total fica em R$ 60,58, ou R$ 20,19 por pasta e R$ 8,08 por 100 g."
       ],
       "comparisonTable": {
         "headers": [
@@ -125,14 +189,35 @@
           "Por 100 g"
         ],
         "rows": [
-          ["1", "250 g", "R$ 22,26", "R$ 8,90"],
-          ["2", "500 g", "R$ 42,46", "R$ 8,49"],
-          ["3", "750 g", "R$ 60,58", "R$ 8,08"],
-          ["4 ou mais", "1 kg ou mais", "R$ 77,67 com 4 (R$ 19,42 por pasta)", "R$ 7,77"]
-        ]
+          [
+            "1",
+            "250 g",
+            "R$ 22,26",
+            "R$ 8,90"
+          ],
+          [
+            "2",
+            "500 g",
+            "R$ 42,46",
+            "R$ 8,49"
+          ],
+          [
+            "3",
+            "750 g",
+            "R$ 60,58",
+            "R$ 8,08"
+          ],
+          [
+            "4 ou mais",
+            "1 kg ou mais",
+            "R$ 77,67 com 4 (R$ 19,42 por pasta)",
+            "R$ 7,77"
+          ]
+        ],
+        "caption": "Simulações da assinatura com cupom de 10%, sobre o subtotal e com o desconto progressivo de cada quantidade."
       },
       "postParagraphs": [
-        "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom em todas as quantidades: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo.",
+        "Por isso a assinatura com cupom sai abaixo do kit de 250 g com cupom nas quantidades comparadas: R$ 42,46 contra R$ 42,88 com 2, R$ 60,58 contra R$ 61,52 com 3 e R$ 77,67 contra R$ 79,23 com 4, ou seja, R$ 0,42, R$ 0,94 e R$ 1,56 a menos por ciclo. A partir de 4 pastas, R$ 7,77 por 100 g: só os kits de 4 × 600 g (R$ 7,64) e de 5 × 600 g (R$ 7,57) com cupom ficam abaixo. Confira na contratação o valor e as condições das próximas cobranças.",
         "O frete da assinatura é grátis a partir de R$ 149,90 no Sul e no Sudeste e de R$ 199,90 nas demais regiões. O mínimo conta o valor antes do cupom. Na assinatura, o aviso do carrinho mostra quando o pedido chega lá."
       ]
     },
@@ -146,11 +231,11 @@
     },
     {
       "heading": "Qual tamanho compensa",
-      "emphasis": "Pelos números da tabela, para quem come pasta todo dia a escolha é o kit de 5 × 600 g com cupom, porque ele tem o menor preço por 100 g e frete grátis em todas as regiões.",
+      "emphasis": "Pelos preços da tabela, o kit de 5 × 600 g tem o menor custo por 100 g. Confira se os 3 kg cabem no consumo e na validade das embalagens; depois compare o total com frete.",
       "emphasisAfterParagraph": 5,
       "paragraphs": [
-        "Para quem come pasta todo dia e tem espaço para guardar, o kit de 5 × 600 g tem o menor preço por grama: R$ 8,41 sem cupom e R$ 7,57 com cupom, com frete grátis em todas as regiões.",
-        "Para uma compra só, sem kit, o pote de 600 g: R$ 9,98 por 100 g, ou R$ 8,98 com cupom.",
+        "Na tabela, o kit de 5 × 600 g sai a R$ 8,41 por 100 g sem cupom e R$ 7,57 com o código, e, com o código, o total passa do mínimo de frete grátis em todas as regiões. Esse resultado favorece o kit se você pretende consumir os 3 kg dentro da validade das embalagens.",
+        "Para levar um único pote, o de 600 g custa menos por 100 g que o de 250 g: R$ 9,98 sem cupom ou R$ 8,98 com o código, antes do frete.",
         "Para testar a pasta, leve 2 × 250 g em vez do pote avulso de 250 g: sai R$ 9,53 por 100 g, 8% abaixo do avulso. O pote de 250 g sozinho só faz sentido se você quer um pote só.",
         "Para quem busca 1 kg, ou quer potes de 250 g todo mês, a assinatura com o cupom: 4 pastas saem por R$ 77,67, R$ 7,77 por 100 g, abaixo do kit de 4 × 250 g com cupom (R$ 79,23). Sem assinatura, o kit de 4 × 250 g.",
         "O que pesa na escolha é a conta por 100 g e o frete. O sabor de cada tamanho está no artigo sobre o melhor sabor."
@@ -161,20 +246,20 @@
       "bullets": [
         "O cupom vale no pote avulso? Sim. O cupom dá 10% em todo o site, e o teste no carrinho mostrou o desconto em todos os itens do carrinho, inclusive nos que já estavam em promoção.",
         "O Pix entra na conta? Não há soma confirmada com o Pix, e os preços deste artigo não incluem desconto de Pix.",
-        "A Dr. Peanut tem pote de 1 kg? Não há pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura.",
-        "O cupom entra na assinatura? Sim. No teste no carrinho, o DREMCASACOMCECILIA somou com o desconto progressivo da assinatura, com os 10% calculados sobre o subtotal."
+        "A Dr. Peanut tem pote de 1 kg? Na loja, não havia pote de 800 g nem de 1 kg. O equivalente é o kit de 4 × 250 g, que soma 1 kg, ou 4 pastas de 250 g na assinatura; confira o catálogo antes de escolher.",
+        "O cupom entra na assinatura? Sim. No teste no carrinho com 3 pastas, o DREMCASACOMCECILIA somou com o desconto progressivo, com os 10% calculados sobre o subtotal. Confira na contratação as condições do código e das renovações."
       ]
     }
   ],
   "decision": {
     "takeIf": [
-      "Leve o kit de 5 × 600 g com cupom se você come pasta todo dia: tem o menor preço por 100 g e frete grátis em todas as regiões.",
+      "Considere o kit de 5 × 600 g se pretende consumir os 3 kg dentro da validade e o total com frete compensar: ele tem o menor preço por 100 g entre os formatos comparados.",
       "Leve a assinatura com cupom se você quer potes de 250 g todo mês: ela sai abaixo do kit de 250 g com cupom.",
-      "Leve o pote de 600 g se você vai fazer uma compra só, sem kit."
+      "Considere o pote de 600 g se quer um único pote e pretende consumir essa quantidade; confira o total com frete."
     ],
     "skipIf": [
       "Passe no pote avulso de 250 g se você quer mais de um pote: é o mais caro por grama.",
-      "Passe na loja se você busca pote de 800 g ou de 1 kg: não há, e o equivalente é o kit de 4 × 250 g ou a assinatura."
+      "Você precisa de uma única embalagem de 800 g ou 1 kg: a loja não tinha, e o equivalente é o kit de potes menores ou a assinatura."
     ]
   },
   "pros": [],
