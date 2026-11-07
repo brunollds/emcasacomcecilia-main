@@ -31957,7 +31957,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Minha experiência começou com otimismo e terminou em frustração completa. Segui as instruções à risca: coloquei a manteiga gelada em colheradas na batedeira, conforme orientado pela especialista do vídeo. Tudo parecia correr bem nos primeiros segundos, até que adicionei o leite conforme recomendado.",
           "Foi quando o caos se instalou na cozinha. O leite começou a espirrar por todos os lados, atingindo paredes, armários e até mesmo o teto. A batedeira transformou-se em uma máquina de respingos enquanto a suposta especialista garantia na tela: “Parece que vai dar errado, mas vai dar certo”.",
-          "Spoiler: não deu certo. Após cinco minutos de batalha, transferi a mistura para o processador numa última tentativa desesperada. O resultado foi uma substância de textura estranha, com o leite completamente separado da gordura, nada remotamente parecido com manteiga aerada, cremosa ou pronta para passar no pão."
+          "Spoiler: não deu certo. Após cinco minutos de batalha, transferi a mistura para o processador numa última tentativa desesperada. A gordura ficou aerada no processador, mas o leite permaneceu separado. A mistura não virou a manteiga cremosa que o vídeo prometia."
         ],
         "images": [
           {
@@ -31995,7 +31995,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A manteiga é o fim de um processo: batendo o creme de leite, os glóbulos de gordura se juntam e o leitelho sai. O que sobra é uma emulsão de água em gordura, com cerca de 16% de água, segundo a [Canadian Dairy Commission](https://cdc-ccl.ca/en/node/804).",
           "Ou seja, a manteiga já segura um pouco de água; o problema está na quantidade e no jeito. O leite integral tem cerca de 3% a 4% de gordura, e a manteiga, cerca de 80% a 82%. No hack, entra muito líquido de uma vez numa gordura gelada e firme, e, no meu teste, a mistura não segurou o leite: ele separou.",
-          "Temperatura e ritmo também pesam. Manteiga gelada incorpora líquido com dificuldade, e uma emulsão estável costuma pedir o líquido aos poucos e, às vezes, um emulsificante. Não testei outras temperaturas nem outras quantidades, então não dá para dizer que nenhuma versão funcione; a que os vídeos mostram não funcionou na minha cozinha."
+          "Temperatura e ritmo também pesam. Manteiga gelada incorpora líquido com dificuldade, e uma emulsão estável costuma pedir o líquido aos poucos e, às vezes, um emulsificante. Não testei outras temperaturas nem outras quantidades, então não dá para dizer que nenhuma versão funcione; esta tentativa não funcionou na minha cozinha."
         ],
         "image": {
           "src": "/images/reviews/manteiga/manteiga-gordura-leite-ilustracao.webp",
@@ -32014,7 +32014,7 @@ export const reviewsData: unknown[] = [
           "Manteiga composta legítima: use 200 g de manteiga em temperatura ambiente, 2 colheres de azeite de oliva extra virgem e ervas frescas ou temperos a gosto. Bata até incorporar completamente.",
           "O azeite aumenta um pouco o volume e dá sabor; com a manteiga em temperatura ambiente, ele se incorpora com mais facilidade. Uma versão que eu faço é a [manteiga temperada turbinada](/receitas/manteiga-temperada-turbinada-da-cecilia), com alho e cebolinha.",
           "Ghee caseiro: derreta 200 g de manteiga em fogo muito baixo, deixe cozinhar lentamente até formar espuma na superfície, retire essa espuma e separe a parte translúcida dourada.",
-          "O ghee não faz a manteiga render: ele sai com menos volume, porque a água e os sólidos do leite ficam para trás. O que ele oferece é sabor mais concentrado e conservação mais longa, em pote fechado."
+          "O ghee não faz a manteiga render: ele sai com menos volume, porque a água e os sólidos do leite ficam para trás. O sabor pode ficar mais concentrado."
         ]
       },
       {
@@ -32032,7 +32032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Lições aprendidas da maneira difícil",
         "paragraphs": [
-          "A primeira e mais valiosa lição é simples: se uma técnica promete resultados milagrosos com mínimo esforço, desconfie. No mundo culinário, como na vida, não existem atalhos mágicos. A única forma genuína de fazer manteiga caseira é batendo creme de leite fresco, nunca batendo manteiga pronta com leite.",
+          "A primeira e mais valiosa lição é simples: se uma técnica promete resultados milagrosos com mínimo esforço, desconfie. No mundo culinário, como na vida, não existem atalhos mágicos. Neste teste, bater manteiga pronta com leite não fez a mistura incorporar nem dobrar. Fazer manteiga a partir de creme de leite é outro processo.",
           "“Parece que vai dar errado, mas vai dar certo” é frequentemente um sinal de alerta em vídeos culinários. Quando um processo parece estar dando errado, com ingredientes se separando, texturas estranhas ou sujeira excessiva, geralmente ele realmente está dando errado.",
           "Tutoriais confiáveis explicam os processos químicos e físicos envolvidos e alertam sobre possíveis dificuldades. Antes de tentar qualquer hack culinário, pesquise em fontes confiáveis: sites especializados em gastronomia, chefs profissionais ou publicações técnicas sobre alimentos tendem a ser melhores referências que influenciadores focados apenas em views e engajamento."
         ],
@@ -32116,23 +32116,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A rabanada nasceu do aproveitamento do pão amanhecido, e a origem exata é incerta. Em Portugal, virou doce de Natal e chegou ao Brasil com os portugueses. Pão francês amanhecido, imersão rápida sem encharcar e fritura dão o resultado clássico, como na nossa [rabanada com doce de leite](/receitas/rabanada-com-doce-de-leite)."
+          "A origem exata da rabanada é incerta; o aproveitamento de pão amanhecido aparece em diferentes tradições. Em Portugal, o doce ganhou lugar no Natal e chegou ao Brasil com os portugueses. Pão francês amanhecido e imersão rápida são escolhas da nossa [rabanada com doce de leite](/receitas/rabanada-com-doce-de-leite)."
         ]
       },
       {
         "heading": "Origem da rabanada",
         "paragraphs": [
           "A origem da rabanada é incerta, e há mais de uma versão. O que as fontes têm em comum é o aproveitamento do pão velho, mergulhado em leite e ovos e depois frito. O jornal português [Observador](https://observador.pt/especiais/doces-salgadas-tradicionais-ou-com-carimbo-michelin-as-rabanadas-estao-na-moda-e-sao-servidas-o-ano-inteiro/) atribui a primeira receita conhecida ao romano Apício; o livro de cozinha francês Le Viandier, de por volta de 1300, já trazia fatias douradas desse tipo; e, para a [Slate](http://www.slate.com/articles/news_and_politics/explainer/2003/09/is_french_toast_really_french.html), os historiadores não concordam que a receita seja só francesa.",
-          "Na França, o preparo ficou conhecido como pain perdu, ou pão perdido. Em Portugal, de onde herdamos o costume, o nome muda com a região, como fatias douradas e fatias paridas, e o doce é presença nas mesas de Natal, muitas vezes com calda de vinho do Porto e especiarias. Não achamos registro seguro da época em que ele virou doce de Natal por lá.",
+          "Na França, o preparo ficou conhecido como pain perdu, ou pão perdido. Em Portugal, de onde herdamos o costume, o nome muda com a região, como fatias douradas e fatias paridas, e o doce aparece nas mesas de Natal, muitas vezes com calda de vinho do Porto e especiarias.",
           "No Brasil, a rabanada chegou com os colonizadores portugueses e se adaptou ao nosso paladar. Aqui, é tradicionalmente servida no Natal, mas também aparece durante todo o ano em padarias, cafés e mesas de família."
-        ],
-        "image": {
-          "src": "/images/reviews/rabanada/rabanada-caminho-ilustracao.webp",
-          "alt": "Ilustração em quatro etapas: tradição antiga de reaproveitar o pão velho; França, o pain perdu; Portugal, por volta do século XV, doce de Natal com vinho do Porto e especiarias; Brasil, trazida pelos portugueses e servida no Natal e o ano todo",
-          "caption": "Do pão velho reaproveitado ao doce de Natal brasileiro. O século XV de Portugal na ilustração é aproximado: não há registro seguro dessa data. Ilustração do Em Casa com Cecília.",
-          "objectFit": "contain",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "Qual pão usar na rabanada",
@@ -32258,19 +32251,13 @@ export const reviewsData: unknown[] = [
     "relatedArticles": [
       {
         "slug": "airfryer-uma-breve-historia"
-      },
-      {
-        "slug": "presente-natal-quem-gosta-de-cozinhar"
-      },
-      {
-        "slug": "dolce-gusto-maquinas-qual-escolher"
       }
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A air fryer cozinha com ar quente em circulação, e a maior parte dos bons resultados vem de poucos hábitos: pré-aquecer quando o manual indicar, não lotar o cesto e limpar sempre. Os dez fatos abaixo juntam a origem do aparelho e dicas de uso, e as dicas práticas começam no quarto fato."
+          "A air fryer cozinha com ar quente em rápida circulação, e a maior parte dos bons resultados depende de poucos hábitos: respeitar o pré-aquecimento quando o manual indicar, não lotar o cesto e limpar o aparelho após cada preparo. Os fatos abaixo vão da origem do aparelho às técnicas para acertar o dourado e a crocância."
         ]
       },
       {
@@ -32282,10 +32269,10 @@ export const reviewsData: unknown[] = [
           "1. A Airfryer da Philips nasceu na Holanda: o engenheiro Fred van der Weij começou o projeto em 2005 ou 2006, conforme a fonte, e a Philips a lançou em 2010. Antes dela, em 2006, a Tefal já vendia na França a ActiFry. As fontes estão na [história da air fryer](/reviews/airfryer-uma-breve-historia).",
           "2. A ideia é mais antiga: em 1945, o Whirlwind Oven, forno para refeições de avião da empresa de William Maxson, já fazia o ar quente circular com ventiladores, mas nunca chegou às casas.",
           "3. O segredo é a circulação do ar: o ar quente passa em alta velocidade pelo cesto, e é isso que doura a superfície e dá a crocância sem imergir o alimento em óleo.",
-          "4. Pré-aquecer ajuda: ligar o aparelho uns minutos antes de colocar a comida costuma dar um dourado mais parecido de um preparo para outro. Confira o que o manual do seu modelo recomenda.",
+          "4. Pré-aquecer depende do modelo e da receita: em preparos que pedem choque térmico inicial, ligar o aparelho antes ajuda o dourado. Confira a indicação do fabricante e da receita.",
           "5. Não lotar o cesto: o ar precisa circular entre os pedaços. Cesto cheio demais cozinha de forma desigual, e fazer em duas levas funciona melhor.",
           "6. Seque e chacoalhe: alimento seco por fora doura mais e, em preparos como batata, sacudir o cesto no meio do tempo ajuda a dourar por igual.",
-          "7. Pouco óleo, não necessariamente nenhum: muitos preparos ficam bons com pouco ou nenhum óleo, mas o resultado depende do alimento. Um fio de óleo costuma ajudar em legumes e batatas.",
+          "7. Pouco óleo, não necessariamente nenhum: alimentos com gordura própria, como frango com pele ou hambúrguer, não precisam de adição. Já legumes frescos, batatas e empanados caseiros costumam dourar melhor com um fio de azeite ou pincelada de óleo.",
           "8. Papel só se o manual permitir: alguns modelos não aceitam. A Philips, por exemplo, [não recomenda papel-manteiga nem papel-alumínio](https://www.centralamerica.philips.com/c-f/XC000003625/puedo-utilizar-papel-para-hornear-o-papel-de-aluminio-en-mi-philips-airfryer) em parte das suas Airfryers, porque cobrir o fundo do cesto reduz o fluxo de ar. Se o manual liberar, use papel próprio para air fryer, sem cobrir todo o fundo e sempre com o alimento por cima: solto, o papel pode ser puxado até a resistência.",
           "9. Dá para fazer mais que fritura: assar, gratinar e preparar sobremesas também funciona. Um exemplo é o [bolo de caneca na air fryer](/receitas/bolo-de-caneca-na-air-fryer).",
           "10. A limpeza é parte do uso: lave o cesto depois de cada uso, com o aparelho frio, e siga o manual para as peças. Gordura acumulada pode fumegar no próximo preparo."
@@ -32403,8 +32390,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Conclusão",
         "paragraphs": [
-          "A air fryer é a versão moderna de uma ideia antiga: ar quente em circulação cozinhando o alimento por fora. O que mudou foi o tamanho, o preço e a praticidade do aparelho.",
-          "Quer usar melhor o seu? Leia [Air fryer: 10 fatos sobre como funciona e como usar melhor](/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia) ou faça a [batata rústica crocante](/receitas/batatas-rusticas-crocantes-na-air-fryer)."
+          "A air fryer levou para a bancada de casa o ar quente em circulação já usado em fornos. Sua história passa por aparelhos de formatos e recursos diferentes, até o modelo compacto lançado pela Philips em 2010.",
+          "Quer usar melhor a sua? Leia [Air fryer: 10 fatos sobre como funciona e como usar melhor](/reviews/10-fatos-surpreendentes-sobre-a-air-fryer-que-voce-nao-sabia) ou faça a [batata rústica crocante](/receitas/batatas-rusticas-crocantes-na-air-fryer)."
         ],
         "image": {
           "src": "/images/recipes/air-fryer/chips-de-batata-doce-na-air-fryer.jpg",
@@ -41861,7 +41848,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Motor",
-        "value": "Digital Inverter da Samsung (alta durabilidade e economia)"
+        "value": "Digital Inverter da Samsung"
       },
       {
         "key": "Conectividade",
@@ -41881,10 +41868,10 @@ export const reviewsData: unknown[] = [
       }
     ],
     "pros": [
-      "Secagem real que entrega roupas e toalhas prontas para uso, um alívio em dias de chuva",
+      "Na estreia com quatro toalhas, as peças estavam secas e prontas para guardar quando conferi na manhã seguinte",
       "Impressão de usar menos sabão e amaciante do que na lavadora de abertura superior, sem medição",
       "Conectividade SmartThings que permite acompanhar tempo, diagnósticos e consumo de água e energia",
-      "Funcionamento silencioso com motor calibrado e lavagem suave que abre as fibras das toalhas"
+      "Funcionamento silencioso percebido na estreia, com as toalhas macias ao final"
     ],
     "cons": [
       "Manual impresso resumido a uma folha com QR code, exigindo o celular para consultar detalhes",
@@ -41945,9 +41932,9 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Dona Amélia instalada no canto. Ao lado, a antiga Dona Consuelo de testemunha."
       },
       {
-        "heading": "App SmartThings, calibração do tambor e a gaveta de sabão",
+        "heading": "App SmartThings, giro do tambor e a gaveta de sabão",
         "paragraphs": [
-          "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina fez uma calibração do tambor vazio, que entendi como o ajuste dos sensores de peso da carga. Foi o que observei na estreia, não um passo a passo de instalação: o procedimento correto está no manual do modelo. O aplicativo é opcional e não é condição para lavar.",
+          "Ligamos a máquina na tomada e fizemos o pareamento pelo QR code com o aplicativo **Samsung SmartThings** no smartphone. Enquanto o aplicativo conectava, a máquina girou o tambor vazio, o que entendi como ajuste dos sensores de peso da carga. Foi o que observei na estreia, não um passo a passo de instalação: o procedimento correto está no manual do modelo. O aplicativo é opcional e não é condição para lavar.",
           "Pelo aplicativo dá para ver o tempo restante, os diagnósticos, o aviso de autolimpeza (a cada 40 ciclos) e o consumo de energia e água.",
           "A gaveta tem três partes: 1 para pré-lavagem, 2 para lavagem principal e a do meio para amaciante. A parte 2 traz pecinha azul para sabão líquido.",
           "Uma surpresa para quem vem de lavadoras de abertura superior: a impressão é de gastar menos sabão. A lavagem frontal funciona por tombamento da roupa, e uma única tampinha de sabão líquido pareceu suficiente nessa carga de quatro toalhas, sem comparação medida. Já o amaciante concentrado pede diluição prévia em um pouco de água para não grudar no dispenser."
@@ -42040,11 +42027,11 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes sobre a Samsung 13 kg",
         "bullets": [
           "Qual é o modelo exato da lava e seca? Samsung WD13FG6B34BEAZ, da linha Lava e Seca Smart WD13FG com AI Control Branca 127V, com capacidade para 13,0 kg de lavagem e 8,0 kg de secagem.",
-          "Como usar a lava e seca Samsung pela primeira vez? Tire os parafusos de transporte, instale, pareie com o SmartThings, se quiser,, abasteça a gaveta, coloque a roupa respeitando o limite de carga do programa no manual e escolha programa, temperatura e centrifugação; o passo a passo está na seção acima.",
+          "Como usar a lava e seca Samsung pela primeira vez? Retire os quatro parafusos de transporte na traseira, faça a instalação hidráulica e elétrica conforme o manual, abasteça a gaveta de sabão e amaciante, respeite a carga do programa escolhido (até 13 kg para lavar ou 8 kg para secar) e selecione o ciclo no painel. O pareamento com o SmartThings é opcional; o passo a passo completo está na seção acima.",
           "Quais são as dimensões e o peso da máquina? Estão no quadro do produto, no topo: a máquina tem 60 cm de largura e passou na nossa porta de 80 cm, mas meça o vão livre antes da entrega.",
           "O que é a tecnologia Ecobubble e VRT Plus? O Ecobubble transforma o sabão em bolhas ativas para penetrar mais rápido nas fibras, enquanto o VRT Plus (VRT+) é o sistema de sensores que reduz ruídos e vibrações durante a centrifugação.",
           "Ela higieniza a seco? O modelo é anunciado pela Samsung como 3 em 1 (lava, seca e higieniza a seco com a tecnologia Air Wash, que usa ar quente sem água). Os resultados prometidos são alegações da fabricante; não testamos essa função.",
-          "O motor é econômico? Sim, ela conta com motor Digital Inverter da Samsung, que oferece alta eficiência energética, baixo ruído e durabilidade superior.",
+          "O motor é econômico? O modelo tem motor Digital Inverter da Samsung. Para saber o consumo, consulte os dados de eficiência do modelo e considere o programa e a carga que você usa.",
           "A lava e seca passa em portas padrão de 80 cm? Sim, no nosso teste passou na porta de 80 cm da lavanderia (a máquina tem 60 cm de largura), mas meça o vão livre e a moldura antes da entrega.",
           "É obrigatório retirar os parafusos de transporte? Sim! São 4 parafusos compridos na parte traseira que travam o tambor durante o frete. Eles devem ser retirados com a chave inclusa antes da primeira ligação.",
           "Quanto tempo demorou o primeiro ciclo completo? O visor estimou 2h04 para a lavagem das toalhas a 60 °C (recalculado pelo sensor de peso) e 2h45 para a secagem da mesma carga. Não cronometramos: o ciclo terminou à noite e conferi as toalhas na manhã seguinte.",
@@ -121468,7 +121455,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: qual whey comprar",
         "paragraphs": [
-          "A resposta depende do objetivo da compra. Para pagar menos pela proteína, o caminho é o Whey 80% HD da Black Skull; para whey sem lactose, só um da Probiótica declara isso no rótulo. Isolado, 3W, sabor e pote pequeno têm cada um o seu; os sete perfis estão no capítulo de veredito."
+          "A resposta depende do objetivo da compra. Para pagar menos por grama de proteína, o caminho é o Whey 80% HD da Black Skull; para whey sem lactose, só o 100% Pure Whey Zero Lactose da Probiótica declara isso no rótulo. Isolado, 3W, sabor de sobremesa e pote pequeno têm cada um o seu vencedor no quadro abaixo."
         ]
       },
       {
@@ -121594,7 +121581,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Whey concentrado para todo dia",
+        "heading": "Whey para o dia a dia: mistura de proteínas ou concentrado",
         "paragraphs": [
           "Para quem quer um whey de uso diário em muitos sabores, o que mais compensa é o [Whey 100% HD Refil 900 g da Black Skull](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p). Custava R$ 159,90, com 21 g de proteína em cada dose de 35 g e 25 doses na tabela: R$ 159,90 ÷ 525 g de proteína × 100 = R$ 30,46 por 100 g de proteína. São 11 sabores.",
           "A mesma tabela vale para os outros tamanhos. O [pote de 900 g](https://www.blackskullusa.com.br/whey-100-hd-black-skull-900g-wpc-wpi-e-wph/p) custava R$ 169,90 (R$ 32,36 por 100 g de proteína), R$ 10,00 a mais que o refil. O [pote de 1,8 kg](https://www.blackskullusa.com.br/whey-100-hd-black-skull--1-8kg-wpc-wpi-e-wph/p) custava R$ 279,90, com 50 doses: R$ 26,66 por 100 g de proteína, o menor número da linha 100% HD.",
@@ -122022,7 +122009,7 @@ export const reviewsData: unknown[] = [
               "[Black Skull Whey 3W Core 900 g](https://www.blackskullusa.com.br/whey-3w-core-black-skull-900g-wpc-wpi-e-wph/p), R$ 41,04"
             ],
             [
-              "Whey concentrado para todo dia",
+              "Whey para o dia a dia, de mistura ou concentrado",
               "[Black Skull Whey 100% HD Refil 900 g](https://www.blackskullusa.com.br/whey-100-hd-refil-black-skull-900g-wpc-wpi-e-wph/p)",
               "R$ 30,46",
               "[Max Titanium 100% Whey Refil 900 g](https://www.maxtitanium.com.br/100-whey-refil-900g/p), R$ 31,17"
@@ -122043,14 +122030,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Na tabela estão só as recomendações por perfil. Todos os wheys lidos ficam no quadro-mestre, acima, e os códigos de desconto de cada loja, na seção sobre cupons. Preço e estoque mudam toda semana, principalmente em promoção: confira o valor no dia da compra."
-        ],
-        "image": {
-          "src": "/images/reviews/whey/melhor-whey-resposta-rapida.webp",
-          "alt": "Quadro desenhado com os sete perfis de compra de whey (menor preço por proteína, sem lactose, isolado, 3W, concentrado para todo dia, sabor de sobremesa e pote pequeno ou sachê), o whey indicado para cada um e o preço por 100 g de proteína",
-          "caption": "Quadro: Em Casa com Cecília, com os preços das cinco lojas.",
-          "objectFit": "wide",
-          "aspectRatio": 1.7778
-        }
+        ]
       },
       {
         "heading": "Cupom de cada loja",
@@ -126268,7 +126248,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para quem já usa creatina ou whey, um kit é o caminho mais direto. Para quem não sabe o que a pessoa toma, coqueteleira ou camiseta é a aposta mais simples. O tamanho da camiseta e o estoque anunciado pesam na escolha: veja em Qual presente escolher."
+          "Para quem já usa suplemento, comece pelo nome e pela fórmula do produto que a pessoa costuma comprar. Os kits abaixo reúnem opções diferentes, que não são substitutas automáticas. Se você não sabe o que ela usa, coqueteleira ou camiseta evita essa escolha; confira o tamanho da camiseta."
         ]
       },
       {
@@ -126290,7 +126270,7 @@ export const reviewsData: unknown[] = [
         "heading": "Quem já usa creatina ou whey",
         "paragraphs": [
           "Para creatina, o kit com dois potes de 300 g da Probiótica sai por R$ 119,78, de R$ 150,20 na tabela da loja. Para whey, atenção: o kit com dois potes de Whey Turbo de 907 g da Black Skull sai por R$ 132,81, de R$ 139,80, mas a loja o lista entre os hipercalóricos, não como whey concentrado; é presente para quem já usa esse tipo. A Max Titanium vende a creatina de 300 g sozinha por R$ 59,90, e o kit dela com o Whey Pro de 1 kg sai por R$ 158,90. Quem quer creatina e whey numa caixa só da Probiótica tem o kit com a creatina de 300 g e o Iso Protein Blend de 900 g, por R$ 138,89. O Iso Protein Blend mistura proteína isolada de soja e concentrada do soro e leva leite, soja e lactose entre os alergênicos; o rótulo muda por sabor.",
-          "Quem já sabe o que a pessoa usa acerta a proteína com o [guia de whey](/reviews/melhor-whey-qual-escolher-por-objetivo) e a creatina com o [guia de creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher)."
+          "Os guias de [whey](/reviews/melhor-whey-qual-escolher-por-objetivo) e de [creatina da Black Skull](/reviews/creatina-black-skull-qual-escolher) ajudam a comparar os produtos. Para presentear, confirme com a pessoa qual ela usa."
         ],
         "image": {
           "src": "/images/reviews/presentes/presente-natal-quem-treina-kit-creatina-probiotica.webp",
@@ -126627,20 +126607,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prazo para o Natal",
         "paragraphs": [
-          "Nenhuma das cinco lojas publica prazo fixo de entrega nem data limite de pedido para o Natal: o prazo sai no carrinho, pelo CEP, durante a compra. Por isso este guia não dá data. Para um presente com dia marcado, veja o prazo do seu CEP no carrinho e compre com antecedência."
+          "Nenhuma das cinco lojas publica prazo fixo de entrega nem data limite de pedido para o Natal. A previsão sai no carrinho, pelo CEP, durante a compra. Para um presente com dia marcado, confira essa previsão antes de pagar e escolha uma opção que chegue a tempo."
         ]
       },
       {
         "heading": "Qual presente escolher",
         "bullets": [
-          "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81, que é hipercalórico e só serve para quem já usa esse tipo.",
+          "Quem já usa creatina ou whey: um kit de R$ 100 a R$ 200. Os mais diretos são o kit de creatina da Probiótica, por R$ 119,78, e o kit de Whey Turbo da Black Skull, por R$ 132,81, que a loja lista como hipercalórico, para quem já usa esse tipo. Confirme o nome e a fórmula do produto antes de escolher.",
           "Quem não sabe o que a pessoa usa: a coqueteleira da Black Skull, por R$ 19,90, ou a camiseta, por R$ 69,90 na Probiótica ou R$ 78,90 na Black Skull.",
           "Fitness feminino: a Camiseta Feminina Oversized Redemption da Max Titanium, por R$ 119,00, é a peça com tamanhos; o Femini Whey, por R$ 130,00, é o suplemento da lista.",
           "Quem gosta de doce: o kit de 10 alfajores da Dr. Peanut, por R$ 129,90, ou o de 12 wafers, por R$ 130,68, com o rótulo de cada um.",
           "Lembrança de beleza: o Kit Miniaturas da Skelt, por R$ 99,90."
         ],
         "postParagraphs": [
-          "Sem saber o que a pessoa usa, coqueteleira e camiseta são a escolha com menos risco de não servir."
+          "Sem saber qual suplemento a pessoa usa, a coqueteleira dispensa essa informação. A camiseta também pode ser uma opção, desde que você confirme as medidas."
         ]
       },
       {
@@ -126686,17 +126666,17 @@ export const reviewsData: unknown[] = [
           "Dá para dar suplemento de presente? Este guia não trata de saúde e não diz se um suplemento é indicado para alguém. Quem tem objetivo de saúde fala com nutricionista ou médico antes de comprar para outra pessoa.",
           "Como escolher o tamanho da camiseta? Use a tabela de medidas da página do produto e confira o tamanho no carrinho.",
           "Os preços mudam? Sim. Os preços são os lidos para o guia, e o carrinho mostra o valor final.",
-          "Quando pedir para chegar antes do Natal? Nenhuma das cinco lojas publica data limite. O prazo aparece para o seu CEP durante a compra, e o melhor é comprar com antecedência."
+          "Quando pedir para chegar antes do Natal? Consulte a previsão para o seu CEP durante a compra. As cinco lojas não publicam data limite de pedido para o Natal."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Quem já sabe o que a pessoa usa: um kit de creatina ou de whey.",
+        "Você já confirmou o nome e a fórmula do suplemento usado pela pessoa e encontrou esse produto na lista.",
         "Quem não sabe o que a pessoa toma: coqueteleira ou camiseta."
       ],
       "skipIf": [
-        "Quem precisa do presente em data marcada: nenhuma das cinco lojas publica prazo para o Natal, e o prazo sai no carrinho, pelo CEP.",
+        "A previsão de entrega para o seu CEP não atende à data do presente.",
         "Quem vai de camiseta sem conferir a tabela de medidas da loja."
       ]
     },
@@ -168112,7 +168092,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para pagar menos por grama de glutamina, o pote de 300 g da Max Titanium ou o da Probiótica sai mais barato que o da Black Skull. Os potes de 120 g e 150 g custam cerca de 40% mais por grama. A Turbo, da Black Skull, leva maltodextrina na fórmula e estava sem estoque no dia da publicação."
+          "Os de 300 g da Max Titanium e da Probiótica custam menos por grama de glutamina que o da Black Skull. Os de 120 g e 150 g saem cerca de 40% mais caros por grama que os de 300 g da mesma marca. A Turbo, da Black Skull, leva maltodextrina e estava sem estoque na publicação."
         ]
       },
       {
@@ -168132,7 +168112,7 @@ export const reviewsData: unknown[] = [
           "Preços de 30/10/2026, no cartão. Peso, doses e glutamina são do rótulo; as contas por 100 g e por dose são nossas."
         ],
         "comparisonTable": {
-          "caption": "Seis potes de glutamina, do maior para o menor, com preço no cartão e a conta por grama.",
+          "caption": "Seis potes comparados pelo preço no cartão: por 100 g de produto e por dose. Na Turbo, a célula também mostra o custo por 100 g de glutamina.",
           "headers": [
             "Produto",
             "Peso",
@@ -168209,7 +168189,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Turbo não é só glutamina",
         "paragraphs": [
-          "A Turbo declara 2.500 mg de glutamina e 2,5 g de maltodextrina em cada dose de 5 g. Metade da porção é carboidrato. Por isso a conta por 100 g de glutamina é a que compara com os potes puros: R$ 33,27, contra R$ 23,30 do pote de 300 g da Max ou da Probiótica."
+          "A Turbo declara 2.500 mg de glutamina e 2,5 g de maltodextrina em cada dose de 5 g. Metade da porção é maltodextrina. Por isso a conta por 100 g de glutamina é a que compara com os potes puros: R$ 33,27 na Turbo, contra R$ 23,30 nos potes de 300 g da Max ou da Probiótica, cuja lista de ingredientes traz apenas L-glutamina."
         ],
         "image": {
           "src": "/images/reviews/black-skull/glutamina-qual-escolher-black-skull-max-probiotica-bs-turbo-tabela.webp",
@@ -168240,7 +168220,7 @@ export const reviewsData: unknown[] = [
           "**Marca da Black Skull:** o pote de 300 g, R$ 26,63 por 100 g.",
           "**Quer testar antes de comprar o pote grande:** o de 120 g da Probiótica ou o de 150 g da Max, com o preço por grama mais alto."
         ],
-        "emphasis": "Pelos números da tabela, para quem quer pagar menos por grama de glutamina pura a escolha é o pote de 300 g da Max ou da Probiótica, porque sai a R$ 23,30 por 100 g, abaixo dos R$ 26,63 da Black Skull."
+        "emphasis": "Entre os potes com L-glutamina como único ingrediente, a escolha para pagar menos por grama é o pote de 300 g da Max ou da Probiótica: R$ 23,30 por 100 g, abaixo dos R$ 26,63 da Black Skull."
       },
       {
         "heading": "Cupom de cada loja",
