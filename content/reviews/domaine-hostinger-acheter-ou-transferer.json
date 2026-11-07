@@ -31,7 +31,7 @@
     }
   ],
   "description": "Domaine chez Hostinger : les trois voies (l'acheter là, l'acheter ailleurs et le pointer, ou le transférer) et ce qu'il faut vérifier avant de payer.",
-  "metaDescription": "Acheter le domaine chez Hostinger, l'enregistrer ailleurs et le pointer, ou le transférer ? La règle des 60 jours, qui en est propriétaire et la liste de vérifications avant de payer.",
+  "metaDescription": "Acheter un domaine chez Hostinger, l’enregistrer ailleurs et le connecter, ou le transférer ? Comparez renouvellement, contrôle, éligibilité et verrouillages avant de payer.",
   "publishedAt": "28 octobre 2026",
   "publishedAtISO": "2026-10-28",
   "updatedAt": "2026-11-07",
@@ -46,20 +46,20 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Le domaine est un compte distinct de l'hébergement : il peut rester chez Hostinger ou chez un autre registrar, et le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité à partir, pas selon la première année. Achetez chez Hostinger si vous voulez tout dans un seul panneau, et ne transférez qu'un domaine enregistré ou transféré depuis 60 jours au moins."
+        "Le domaine est un compte à part : il peut rester chez Hostinger ou ailleurs, le site fonctionne dans les deux cas. Choisissez selon le prix de renouvellement et la facilité de partir, pas la première année. Achetez chez Hostinger pour tout avoir dans un panneau ; ne transférez qu’un domaine éligible (génériques : 60 jours depuis l’enregistrement ou le dernier transfert)."
       ]
     },
     {
-      "heading": "Domaine et hébergement sont deux comptes",
+      "heading": "Domaine et hébergement sont des services distincts",
       "paragraphs": [
-        "Domaine et hébergement sont deux comptes : l'adresse (le nom que les gens tapent) d'un côté, l'ordinateur où vit le site de l'autre. Vous payez les deux séparément, et ils n'ont pas à être chez la même entreprise : un domaine enregistré chez une entreprise peut pointer vers l'hébergement d'une autre. La page de Hostinger elle-même dit qu'un domaine enregistré chez elle peut être pointé vers un autre hébergeur.",
+        "Le domaine est l’adresse saisie ; l’hébergement est le service où fonctionne le site. Vous pouvez les acheter auprès d’une même entreprise ou de fournisseurs différents. Enregistrer le domaine à un endroit n’impose pas d’y héberger le site : le DNS peut le connecter à un autre service.",
         "La décision n'est donc pas « Hostinger ou non ». C'est l'endroit où se trouve l'enregistrement du domaine, ce que coûte son renouvellement chaque année et ce qui se passe si vous changez un jour d'hébergement. La première année bon marché est ce qui compte le moins : le domaine se renouvelle tant que le site existe."
       ]
     },
     {
       "heading": "Les trois voies",
       "paragraphs": [
-        "Il y a trois voies pour le domaine, d'après les pages de Hostinger, et ce qui change de l'une à l'autre, c'est qui facture le renouvellement."
+        "Le tableau compare trois organisations : acheter chez Hostinger, enregistrer ailleurs et connecter, ou transférer un domaine existant. Le fournisseur qui facture le renouvellement est une différence ; le panneau, la procédure et les conditions de transfert comptent aussi."
       ],
       "image": {
         "src": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-caminhos-pt.webp",
@@ -93,7 +93,7 @@
           ],
           [
             "Transférer vers Hostinger",
-            "Vous avez le domaine depuis plus de 60 jours et voulez tout au même endroit",
+            "Vous possédez déjà le domaine, souhaitez centraliser sa gestion et avez confirmé l’éligibilité au transfert de son extension",
             "Prix de renouvellement de Hostinger à partir de l'année suivante",
             "Même règle que la première voie",
             "Vous ; les données de propriété ne changent pas lors du transfert"
@@ -111,20 +111,20 @@
       ]
     },
     {
-      "heading": "Transférer : la règle des 60 jours et la marche à suivre",
+      "heading": "Transférer : éligibilité, verrouillages et étapes",
       "paragraphs": [
         "Transférer, c'est changer l'enregistrement du domaine d'une entreprise à une autre. La page de transfert de Hostinger dit qu'il ne déplace que l'enregistrement : le site et la messagerie restent chez le prestataire actuel et continuent de fonctionner si vous gardez les serveurs de noms actuels. Si vous choisissez ceux de Hostinger, ce qui dépend du DNS chez d'autres prestataires peut s'arrêter jusqu'à la mise à jour des enregistrements. Les données de propriété ne changent pas. Ce qui change, c'est qui facture le renouvellement et où vous modifiez le DNS.",
         "Les règles, d'après la page de Hostinger :"
       ],
       "bullets": [
-        "**Ancienneté de l'enregistrement :** dans la plupart des cas, le domaine doit être enregistré depuis au moins 60 jours. Un domaine nouvellement enregistré chez Hostinger est lui aussi verrouillé 60 jours avant de pouvoir partir. Le délai court depuis l'enregistrement ou le dernier transfert, et certaines extensions ont leurs propres règles.",
+        "**Éligibilité :** vérifiez les règles de l’extension, la date d’enregistrement ou du dernier transfert et les verrouillages. Un domaine nouvellement enregistré chez Hostinger reste aussi bloqué 60 jours avant de pouvoir partir ; dépasser ce délai ne suffit pas à garantir le transfert.",
         "**Déverrouillage et code :** vous déverrouillez le domaine dans le panneau du registrar actuel et récupérez le code d'autorisation (EPP, ou code de transfert).",
         "**Confirmation :** après avoir saisi le code chez Hostinger, un e-mail du registrar arrive pour confirmer. Sans confirmation, le transfert n'avance pas.",
         "**Délai :** jusqu'à sept jours ; plus rapide si le registrar actuel le libère vite et que vous confirmez l'e-mail tout de suite.",
         "**Prix :** ce n'est en général pas gratuit (cela peut l'être avec une offre d'hébergement éligible). Si vous ajoutez 1 an de renouvellement au paiement, il s'ajoute à la durée que vous aviez, mais seulement sur certaines extensions ; sur certaines extensions nationales, l'échéance ne change pas."
       ],
       "postParagraphs": [
-        "Transférer hors de Hostinger suit la même logique à l'envers : 60 jours d'enregistrement, déverrouillage dans le panneau de Hostinger, récupération du code et confirmation par e-mail. Un transfert abouti n'est pas remboursé ; voyez [les règles de remboursement et de renouvellement de Hostinger](/fr/reviews/hostinger-est-il-fiable)."
+        "Pour transférer vers un autre registrar, vérifiez les règles de l’extension et les verrouillages actuels ; obtenez déverrouillage, code et confirmation lorsque la procédure les exige. Un transfert abouti est exclu du remboursement standard. Voir [les règles de remboursement et de renouvellement de Hostinger](/fr/reviews/hostinger-est-il-fiable)."
       ]
     },
     {
@@ -134,7 +134,7 @@
         "Trois précautions vous permettent de garder le domaine :"
       ],
       "bullets": [
-        "**Le compte :** le domaine appartient au compte Hostinger où il a été acheté. Utilisez un e-mail que vous contrôlez, pas celui d'un freelance ou d'une agence. Qui enregistre au nom d'une autre personne dépend d'elle pour le transférer ensuite.",
+        "**Titularité et accès :** vérifiez au nom de qui le domaine sera enregistré et qui contrôle le compte de gestion. Utilisez une adresse de récupération que vous contrôlez. Si une personne ou une agence s’en charge, convenez de l’enregistrement et des accès avant l’achat ; ce sont deux choses distinctes.",
         "**Le renouvellement :** Hostinger recommande de laisser le renouvellement automatique activé. Un domaine expiré met le site et la messagerie hors service. Le renouvellement d'un domaine n'est pas remboursable, la carte du compte doit donc être à jour.",
         "**Le remboursement de l'enregistrement :** un nouvel enregistrement ne peut être remboursé que dans les 96 heures, et seulement sur les extensions remboursables (beaucoup d'extensions nationales ne le sont pas). Passé ce délai, le domaine est à vous jusqu'à la fin de la durée payée, sans remboursement."
       ]
@@ -143,7 +143,7 @@
       "heading": "Liste de vérifications avant de payer",
       "bullets": [
         "Regardez la colonne du renouvellement, pas seulement la première année. Le domaine se renouvelle chaque année tant que le site existe.",
-        "Si vous transférez, vérifiez la date d'enregistrement et celle du dernier transfert : moins de 60 jours, le transfert ne démarre pas.",
+        "Avant de transférer, vérifiez l’extension, les dates, les verrouillages et les procédures des deux registrars ; l’ancienneté n’est pas la seule condition.",
         "Achetez sur le compte qui sera le vôtre, avec votre propre e-mail et le renouvellement automatique activé.",
         "Si le domaine est venu avec le forfait d'hébergement, notez le prix de renouvellement de la deuxième année : il s'affiche avant l'achat.",
         "SONAR20 donne 20 % sur le forfait d'hébergement ; pour un domaine seul, le code ne vaut pas."
@@ -152,12 +152,12 @@
     {
       "heading": "Quelle voie choisir",
       "paragraphs": [
-        "**Achetez chez Hostinger** si le site sera hébergé chez elle et que vous voulez domaine, DNS et renouvellement dans le même panneau ; vérifiez le renouvellement avant de payer.",
-        "**Achetez ailleurs et pointez** si vous avez déjà un domaine chez un autre registrar, si vous préférez séparer les comptes, ou si le prix de renouvellement de là-bas est plus bas. Pointer le DNS est un réglage dans le panneau, et le site fonctionne de la même façon.",
-        "**Transférez** seulement un domaine de plus de 60 jours d'enregistrement, et seulement si le renouvellement chez Hostinger compense ce que vous payez aujourd'hui. Sur les extensions où le transfert ajoute une année d'enregistrement, ce n'est pas de l'argent perdu.",
-        "Dans le doute, ne transférez pas : pointez le domaine et laissez l'enregistrement où il est. On peut transférer plus tard, et le site ne s'arrête pas."
+        "**J’achèterais chez Hostinger** si un panneau unique simplifiait ma gestion et si le renouvellement convenait au budget. Je comparerais le tarif applicable avant de payer.",
+        "**Je garderais le domaine ailleurs et connecterais le DNS** si je l’avais déjà ou préférais séparer les services. Avant de modifier la configuration, je vérifierais les enregistrements du site et de la messagerie.",
+        "**Je transférerais l’enregistrement** après vérification de l’éligibilité, des blocages, du coût et de l’effet sur l’expiration. Comparez l’ensemble avec ce que vous payez aujourd’hui ; une année incluse ne garantit pas une économie.",
+        "Si la question porte seulement sur l’hébergement du site, comparez d’abord la connexion sans transfert. Planifiez les changements DNS sans supposer qu’une voie garantit la continuité."
       ],
-      "emphasis": "Si c'était pour mon site, je garderais l'enregistrement avec l'hébergement, car domaine et renouvellement restent dans le même panneau."
+      "emphasis": "Pour mon organisation, je préférerais domaine et hébergement dans un même panneau si renouvellement et contrôle me convenaient. C’est un choix de gestion, pas une garantie de prix inférieur."
     },
     {
       "heading": "Coupon SONAR20 et prix",
@@ -168,9 +168,9 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Puis-je changer d'hébergement sans perdre le domaine ? Oui. Le domaine est à vous et reste dans le compte Hostinger ; vous pointez le DNS vers le nouvel hébergement ou vous transférez l'enregistrement plus tard, en respectant les 60 jours depuis l'enregistrement ou le dernier transfert.",
+        "Puis-je changer d’hébergement sans perdre le domaine ? Vous pouvez conserver son enregistrement et connecter le nouvel hébergement par DNS, sans transférer le domaine. Vérifiez les enregistrements du site et de l’e-mail avant de les modifier.",
         "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
-        "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours depuis l'enregistrement ou le dernier transfert : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé.",
+        "Puis-je transférer un domaine Hostinger vers un autre registrar ? Oui, à condition que l’extension le permette et qu’il n’y ait pas de verrouillage. Vérifiez la procédure puis, si nécessaire, déverrouillez, obtenez le code et confirmez la demande. Un transfert abouti est exclu du remboursement standard.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
@@ -184,7 +184,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Pour un domaine seul, le code ne vaut pas.",
+    "text": "Si vous cherchez aussi un hébergement, comparez les offres et utilisez SONAR20 : 20 % sur la première période éligible d’un nouvel achat, sans réduction au renouvellement. Le code ne s’applique pas au domaine seul ; comparez enregistrement et renouvellement séparément.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -206,11 +206,11 @@
   "decision": {
     "takeIf": [
       "Prenez le domaine chez Hostinger si le site sera hébergé chez elle et que vous voulez domaine, DNS et renouvellement dans le même panneau.",
-      "Ne prenez le transfert que si le domaine a plus de 60 jours d'enregistrement ou depuis le dernier transfert et que le renouvellement chez Hostinger compense ce que vous payez aujourd'hui."
+      "Ne transférez que si le domaine remplit les conditions de l’extension (en générique, 60 jours ou plus depuis l’enregistrement ou le dernier transfert, sans verrouillage) et si le renouvellement chez Hostinger compense ce que vous payez aujourd’hui."
     ],
     "skipIf": [
       "Passez votre chemin si vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou si le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",
-      "Évitez le transfert si l'enregistrement ou le dernier transfert a moins de 60 jours : il ne démarre pas.",
+      "Évitez le transfert si l’extension ou un verrouillage actuel l’empêche, ou si l’éligibilité n’est pas confirmée.",
       "Passez votre chemin si le domaine serait au nom ou sur le compte d'un freelance ou d'une agence : utilisez un e-mail que vous contrôlez."
     ]
   }

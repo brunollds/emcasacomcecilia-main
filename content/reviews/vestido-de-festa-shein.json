@@ -33,7 +33,7 @@
     "Devolução em 20 dias, com a primeira de cada pedido grátis"
   ],
   "cons": [
-    "Pedido internacional acima de US$ 50 volta a pagar imposto de importação",
+    "Pedido internacional acima de US$ 50 paga imposto de importação; o ICMS vale em toda compra internacional.",
     "A entrega precisa caber na data da festa",
     "O preço de promoção muda"
   ],
@@ -55,7 +55,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Vestido de festa na SHEIN se escolhe por três coisas: a ocasião, o tecido e a data de chegada. Para Natal e Réveillon, o prazo pesa mais que o modelo. Para formatura e convidada de casamento, a dúvida é de cor, comprimento e tom. Abaixo, três vestidos da loja com preço, envio e tecido."
+        "Comece pelo traje pedido no convite e pela data da festa. Entre os exemplos, a Firerie tem um ombro e tule; a ADYCE, lantejoulas e fenda; a Via Vilarinho exige conferir a medida porque o anúncio diverge entre curto e midi. Depois compare tamanho, forro e lavagem."
       ]
     },
     {
@@ -113,7 +113,7 @@
           },
           {
             "piece": "Convidada de casamento",
-            "howTo": "De dia, tecido leve com sapato fechado ou sandália baixa; à noite, longo com salto. O branco fica para a noiva.",
+            "howTo": "Use o traje indicado no convite como referência. Tecido, comprimento, sapato e cor devem acompanhar a cerimônia e o que os anfitriões pediram; as combinações abaixo são sugestões de estilo.",
             "occasion": "Cerimônia na igreja ou no salão, de dia ou à noite.",
             "pairsWith": [
               {
@@ -191,7 +191,7 @@
         ]
       },
       "postParagraphs": [
-        "Nos dois vestidos internacionais, o limite de US$ 50 soma produto, frete e, se houver, seguro. O de lantejoulas é o mais caro dos três, e o resumo do pedido mostra o imposto antes de pagar.",
+        "Nos dois vestidos internacionais, o limite de US$ 50 soma produto, frete e, se houver, seguro. O preço em reais da tabela, sozinho, não comprova se o vestido ultrapassa esse valor, e o resumo do pedido mostra o imposto antes de pagar.",
         "O curto da Via Vilarinho é de Envio Nacional, e a regra de importação não entra na conta dele."
       ],
       "images": [
@@ -280,11 +280,11 @@
     {
       "heading": "Tamanho: use a medida da peça",
       "paragraphs": [
-        "Não existe tabela única de PP a GG: use a do vestido que você escolheu. A SHEIN publica o guia de cada peça, em centímetros e em polegadas, com o jeito de medir.",
+        "Use a tabela do vestido escolhido e veja se apresenta medidas do corpo ou da peça. Siga o modo de medir dessa tabela; não trate os dois tipos como iguais nem escolha só pela letra da etiqueta.",
         "Os três vão de PP a GG. A Firerie se descreve como slim fit, o que pede medida mais precisa no busto e na cintura."
       ],
       "postParagraphs": [
-        "Para plus size, o método é o mesmo: compare a medida da peça com a sua, não o número da etiqueta."
+        "Para plus size, confira primeiro se a tabela traz medidas do corpo ou da peça. Compare corpo com tabela corporal; para medidas da peça, use uma roupa que veste bem e considere tecido, modelagem e a folga desejada. A etiqueta sozinha não resolve."
       ],
       "images": [
         {
@@ -306,9 +306,9 @@
       ]
     },
     {
-      "heading": "Prazo: compare com a data da festa",
+      "heading": "Prazo: compare a previsão final com a data da festa",
       "paragraphs": [
-        "O pedido internacional é processado em 3 a 5 dias antes do envio. Compare a previsão de entrega que a página do pedido mostra com a data da festa e deixe folga. Se a previsão chegar perto da festa ou passar dela, esse vestido não é a compra certa para aquela data.",
+        "Compare a previsão final de chegada do pedido com a data da festa e reserve margem para provar a peça. Não some os dias de processamento à previsão final, salvo se a loja disser que ela não inclui o processamento. Se não estiver claro, confirme antes de comprar.",
         "Cada vendedor de Envio Nacional tem prazo próprio. A página do produto mostra o seu."
       ],
       "images": [
@@ -341,7 +341,7 @@
       "bullets": [
         "O nome do pedido precisa ser igual ao do CPF.",
         "A previsão de entrega aparece na página do pedido. Confira antes de pagar.",
-        "Se o total passar de US$ 50 no pedido internacional, o imposto aparece no resumo.",
+        "Em pedido internacional, confira os tributos e o total no resumo antes de pagar.",
         "Guarde a confirmação do pedido."
       ],
       "postParagraphs": [
@@ -362,7 +362,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Vestido de festa da SHEIN chega a tempo para o Natal? Depende da data do pedido. Compare a previsão de entrega da página com a data da festa e deixe folga.",
+        "Vestido de festa da SHEIN chega a tempo para o Natal? Depende da data do pedido e não há garantia. Compare a previsão final do pedido com a data da festa e deixe margem para provar. Uma estimativa não é promessa de chegada.",
         "Como saber se o vestido é longo ou midi? Pelo comprimento que a descrição declara e pela medida em centímetros no guia de tamanho da peça.",
         "A SHEIN cobra imposto no vestido? Imposto de importação, não, em pedido internacional de até US$ 50 com o frete, para pessoa física em site certificado. Acima disso, ele volta, e o ICMS é cobrado em toda compra internacional.",
         "Dá para usar o 4CW5Y para ganhar desconto? Não. É código de indicação: não dá desconto e não é cupom."
@@ -371,8 +371,8 @@
   ],
   "decision": {
     "takeIf": [
-      "Leve se a previsão de entrega na página do pedido chega antes da data da festa.",
-      "Leve se a descrição traz composição, forro e comprimento em centímetros, e a medida da peça bate com a sua."
+      "Considere se a previsão final do pedido deixa margem antes da festa para receber e provar, sem tratar a estimativa como garantia.",
+      "Leve se a descrição informa composição, forro e comprimento, e a tabela do modelo permite escolher o caimento desejado, distinguindo medidas corporais das medidas da peça."
     ],
     "skipIf": [
       "Passe se a previsão de entrega na página do pedido passa da data da festa.",

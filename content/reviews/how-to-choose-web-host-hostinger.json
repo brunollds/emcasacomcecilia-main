@@ -46,7 +46,7 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. The promotions run for 48 months, so the fair comparison is per month, with the renewal next to it, in the table below."
+        "By renewal price, Hostinger's Premium is the cheapest plan, and Unlimited is the one for many sites, with no site limit. Start with your application's requirements, not just site count, then compare the monthly price with the renewal next to it, in the table below."
       ]
     },
     {
@@ -175,13 +175,13 @@
     {
       "heading": "SONAR20 on Hostinger",
       "paragraphs": [
-        "Use the code **SONAR20** in the coupon field of the cart, or use this article's link: **20% off the first period**. We tested it in the cart on three products: the e-commerce Startup plan, from the store builder, the professional email and Reach. On the hosting plans in this table, we did not test it; check in the cart. The code also works on the VPS and on every new purchase; on renewal, it does not. The full rule is on [Hostinger coupons](/en/coupons/hostinger)."
+        "Enter **SONAR20** in the cart for 20% off the first term of an eligible new purchase, including with an existing account. We tested it on e-commerce Startup, professional email and Reach. For the hosting or VPS plan you choose, check its application in the cart. Domain registration and renewal are excluded. See [Hostinger coupons](/en/coupons/hostinger)."
       ]
     },
     {
       "heading": "Which to choose: the verdict",
       "paragraphs": [
-        "**Choose Premium** for one site, such as a blog, a portfolio or a company page, or for up to three sites: it costs less in the promotion and at renewal, and the promotion lasts 48 months.",
+        "**Choose Premium** for one site, such as a blog, a portfolio or a company page, or for up to three sites, if storage and backup meet your needs: it costs less in the promotion and at renewal, and the promotion lasts 48 months.",
         "**Choose Unlimited** for many sites, with no site limit, daily backups and 50 GB of NVMe. Cloud Startup, which renews at more than US$25 a month, only pays off if you need the extra storage.",
         "**In both cases**, read the renewal column before you pay and confirm the amount in the cart. Hostinger is running a campaign, and prices can change.",
         "If it were for my site, I would take Premium for one site, because it costs less in the promotion and at renewal."
@@ -190,13 +190,13 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Which web host is better? It depends on how many sites you have and on whether the promotion or the renewal matters more to you. Compare the renewal, the cycle, the server's country and the VPS, as above.",
+        "Which web host is better? It depends on what the application needs, on storage and backup, and on whether the promotion or the renewal matters more to you. Site count alone does not decide it.",
         "Which Hostinger plan renews for the least? Premium, at US$10.99 a month on the international site, after a 48-month promotion at US$2.49.",
         "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
         "Does Hostinger say where its servers are? Yes. Its official list names data centers in Europe, Asia, North America and South America for web, cloud and VPS plans, subject to availability. Email is stored separately, in France and Germany.",
-        "Does the SONAR20 code work on the VPS? Yes, it works on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
-        "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires.",
-        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+        "Does SONAR20 work on a Hostinger VPS? Yes, on an eligible new VPS purchase: 20% off the first term. Check your plan's discount in the cart.",
+        "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on an eligible new purchase with the same account. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
     {
@@ -209,7 +209,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+    "text": "SONAR20: 20% off the first period of an eligible new purchase. Domain registration and renewal are excluded.",
     "label": "See the hosting plans with SONAR20",
     "url": "https://www.hostinger.com/web-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -230,7 +230,7 @@
   ],
   "decision": {
     "takeIf": [
-      "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three: it costs less in the promotion and at renewal.",
+      "Take Premium if it is one site, such as a blog, a portfolio or a company page, or up to three, and its storage and backup meet your needs: it costs less in the promotion and at renewal.",
       "Take a VPS if the site needs guaranteed processor and memory: KVM 1 already has 4 GB."
     ],
     "skipIf": [

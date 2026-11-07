@@ -46,13 +46,14 @@
     {
       "heading": "快速解答",
       "paragraphs": [
-        "Paperclip 會把一組 AI 代理組織起來，為每個代理設定職位、目標和支出上限，但它本身不執行 AI，金鑰要由您自己準備。在 Hostinger 上，它可以跑在代管方案或 VPS 上。決定選擇的是伺服器由誰來管理，差異請見下方比較。"
+        "Paperclip 管理 AI 代理團隊的角色、目標、預算和核准。您用自己的帳號並透過 API 或相容訂閱為代理連接模型。在 Hostinger，主要選擇是讓 Hostinger 管理伺服器的代管方案，還是由自己管理的 VPS。"
       ]
     },
     {
       "heading": "Paperclip 是什麼，用白話說",
       "paragraphs": [
-        "Paperclip 是一個用來組織 AI 代理團隊的程式：您不是只用一個助理，而是為每個代理設定職位、目標和支出上限，組成一支團隊。可以把它想成一家小公司，有老闆、主管和員工，各有各的職責。Paperclip 用 AI 代理來做這件事：每個代理都有職位、職務說明和上級。上級分派任務，下級向上級回報。官方文件中，這個專案有五個核心概念。"
+        "可以把它想成一家小公司：每個代理都有角色、職務說明和上級。協調方分派任務，其他代理執行並回報進度。",
+        "Paperclip 管理這套組織結構，彙集目標、預算、核准和紀錄。下列五個概念對應官方文件中的說明。"
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -73,7 +74,7 @@
     {
       "heading": "可靠嗎？哪些可以查證",
       "paragraphs": [
-        "「可靠」是個很大的詞。可以把能查證的和不能查證的分開來看。",
+        "評估專案時，請核對程式碼來源、授權、執行位置，以及來源如何說明資料與安全問題。",
         "**由誰維護。** 官方儲存庫 github.com/paperclipai/paperclip 寫明專案由 Paperclip 團隊維護，著作權聲明為「MIT © 2026 Paperclip Labs, Inc.」。專案網站 paperclip.ing 指向同一個儲存庫。不要把它與搜尋中出現的分支（fork）和程式碼副本混為一談。",
         "**授權。** MIT。意思是程式碼公開，任何人都可以閱讀、稽核和使用。也意味著沒有人有義務持續維護您安裝的那個版本。",
         "**在哪裡執行。** 由您選擇。可以在自己的電腦上、自己的伺服器上，或 Hostinger 的代管方案上執行。專案網站說明，自行架設的版本不需要 Paperclip 帳號。",
@@ -90,8 +91,8 @@
       "bullets": [
         "**要協調的代理。** Paperclip 不執行 AI 模型：它協調透過其他程式運作的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
         "**Postgres。** Paperclip 用它保存代理、任務和紀錄的資料庫。本機安裝時它是內建的，會自動啟動。正式環境中，專案本身建議指向您自己的 Postgres。代管方案包含資料庫。VPS 上，資料庫由您自己負責。",
-        "**您自己的 AI 金鑰。** API 金鑰是程式向供應商（如 Anthropic 的 Claude、OpenAI 等）要求回覆時使用的密碼。供應商依用量直接向您收費。代管方案需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱，Hostinger 並沒有列出附帶的 AI 額度。沒有這類連接，團隊就不會回應。",
-        "**每個代理的月預算。** 啟動團隊之前先訂好上限。每天都在做事的五個代理，花費可能遠高於偶爾聊幾句的助理。沒有上限的話，花費就是月底供應商開出的帳單。",
+        "**連接模型。** API 金鑰是程式向供應商（如 Anthropic 的 Claude、OpenAI 等）要求回覆時使用的密碼。使用金鑰時，供應商依用量直接向您收費。代管方案需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱，Hostinger 並沒有列出附帶的 AI 額度。沒有這類連接，團隊就不會回應。",
+        "**預算與計費。** 啟動團隊前，請設定預算和暫停政策。每天都在做事的五個代理，花費可能遠高於偶爾聊幾句的助理。另外查看模型供應商的用量與限制。",
         "**如果用 VPS，需要懂伺服器。** 用 VPS 時，您得知道什麼是 Docker（一種讓每個應用程式在獨立容器中執行的程式），並接受自己更新和保護系統。如果這不適合您，代管方案可以解決。"
       ],
       "postParagraphs": [
@@ -131,21 +132,21 @@
             "由您負責"
           ],
           [
-            "AI 金鑰",
-            "您自己的；頁面沒有列出 Hostinger 提供的額度",
+            "AI 連接",
+            "依設定使用 API 金鑰或有效 ChatGPT 訂閱；頁面未列出包含的 AI 額度",
             "您自己的；頁面寫的是自備 API 金鑰"
           ],
           [
             "退款",
             "30 天",
-            "僅當上一次 VPS 退款完成已超過 180 天時，才有 30 天"
+            "依政策提供 30 天；VPS 退款之間有 180 天間隔"
           ]
         ]
       },
       "postParagraphs": [
         "**代管方案適合您，如果** 您想不安裝任何東西就讓 Paperclip 跑起來，不知道什麼是 root 和 Docker，並且希望由 Hostinger 負責資料庫、更新和備份。",
         "**VPS 適合您，如果** 您想在同一台伺服器上執行其他程式，例如網站或 n8n（自動化工具），會操作伺服器或想學，並且希望資料庫和設定都在自己掌控之中。",
-        "關於退款，VPS 的 180 天規則與[關於 Hostinger 是否可靠的文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)相同，那篇文章解讀了該公司的政策。180 天從上一次 VPS 退款完成之日算起：如果您在最近 180 天內收到過 VPS 退款，新的 VPS 就沒有 30 天保障。"
+        "關於退款，VPS 的 180 天規則與[關於 Hostinger 是否可靠的文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)相同，那篇文章解讀了該公司的政策。先前的 VPS 退款適用 180 天的間隔；購買前請在[退款政策](https://www.hostinger.com/legal/refund-policy)中確認條件與例外。"
       ]
     },
     {
@@ -161,7 +162,7 @@
       ]
     },
     {
-      "heading": "依序開始",
+      "heading": "三種開始方式：選擇一種",
       "bullets": [
         "**在自己的電腦上執行。** 官方 README 要求 Node.js 24.11 或更新版本。在終端機中用 node -v 指令確認版本，然後執行 npx paperclipai@latest onboard --yes。介面會在 http://localhost:3100 開啟，Postgres 資料庫會自動建立。沒有伺服器費用，但 Paperclip 只在電腦開機時執行。如果您訂閱了 Claude 或 Codex，README 也支援用訂閱登入而不需要 API 金鑰，前提是裝有 Python 3 和供應商的程式。",
         "**購買代管方案。** 選擇「AI 自動化應用」方案的 24 個月，並在購物車裡填入代碼 SONAR20。訂閱之後，Hostinger 會準備好實例和資料庫。您進入面板，連接自己的代理，再貼上 AI 金鑰（也可以使用 ChatGPT 訂閱）。",
@@ -177,7 +178,7 @@
     {
       "heading": "常見問題",
       "bullets": [
-        "Paperclip 免費嗎？ 這個程式是開源的，採用 MIT 授權，可以裝在自己的電腦上而不需向 Hostinger 付費。AI 模型的使用費由供應商收取，代管方案和 VPS 是付費方案。",
+        "Paperclip 免費嗎？ 程式採用 MIT 開源授權，可以不購買 Hostinger 而安裝在自己的電腦上。代管方案與 VPS 需付費；模型使用您自己的 API 帳號或相容訂閱，受供應商的費用和限制約束。",
         "Paperclip 可靠嗎？ 無法下定論。可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。在所查閱的資料中，我們沒有找到獨立稽核。",
         "需要 API 金鑰嗎？ 大多數情況下需要。代管方案可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱；VPS 則要求您自備金鑰。在電腦上執行時，README 也支援 Claude 或 Codex 的訂閱，不需要 API 金鑰。",
         "能搭配 Ollama 使用嗎？ 取決於您連接的代理。Paperclip 的 README 沒有提到 Ollama，這是一個在自己電腦上執行 AI 模型的程式。例如 OpenClaw 記錄了本機模型的用法；而在 Paperclip 中，模型取決於您連接的代理。",

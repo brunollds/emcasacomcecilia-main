@@ -196,7 +196,7 @@
     {
       "heading": "SONAR20 coupon",
       "paragraphs": [
-        "Use the code **SONAR20** in the cart's coupon field, or use this article's link: it's **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. The full rule and the other products are in [Hostinger coupons](/en/coupons/hostinger).",
+        "Enter **SONAR20** in the cart for 20% off the first term of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded. Check the product and total before paying. Conditions at [Hostinger coupons](/en/coupons/hostinger).",
         "Prices and terms change; check the amount in the cart before paying."
       ]
     },
@@ -216,8 +216,8 @@
         "Do you need to know how to code to use the AI Builder? No. The page says it requires no technical knowledge in either mode. For people who do code, AI mode has a code editor.",
         "Can you migrate from the AI Builder to another host? The page says the source code can be exported and hosted elsewhere. The built-in back end, with database and login, stays at Hostinger, so an app needs reconfiguring outside it.",
         "Is the AI Builder good for an online store? For a small store, yes: the online store is available on the Unlimited and Cloud Startup plans as a paid add-on. For a large store, with shipping and payment rules, WordPress with WooCommerce gives more control.",
-        "Is there a coupon for Hostinger's AI Builder? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
-        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+        "Is there a coupon for Hostinger's AI Builder? Use SONAR20 for 20% off the first term of an eligible new purchase. Check the subscription and included services in the cart; domain registration and renewal are excluded.",
+        "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account, not on renewal of the current service. It gives 20% off the first term; domain registration is also excluded. Check the cart total."
       ]
     },
     {
@@ -230,7 +230,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+    "text": "Enter SONAR20 in the cart for 20% off the first term of an eligible new purchase. Domain registration and renewal are excluded; check the product and total before paying.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

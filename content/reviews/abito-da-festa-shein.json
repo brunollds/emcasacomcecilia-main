@@ -53,7 +53,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Un abito da festa su SHEIN si sceglie in base a tre cose: l'occasione, il tessuto e la data di arrivo. Per Natale e Capodanno, i tempi contano più del modello. Per la laurea e per l'invitata a un matrimonio, il dubbio riguarda colore, lunghezza e tono. Qui sotto, tre abiti del negozio con tessuto, fodera e valutazione."
+        "Partite dall’abbigliamento richiesto nell’invito e dalla data. Tra questi esempi, Firerie ha un modello monospalla in tulle; ADYCE, paillettes e spacco; Via Vilarinho richiede di verificare la lunghezza, perché il titolo dice corto e la descrizione midi. Poi confrontate taglia, fodera e lavaggio."
       ]
     },
     {
@@ -111,7 +111,7 @@
           },
           {
             "piece": "Invitata a un matrimonio",
-            "howTo": "Di giorno, tessuto leggero con scarpe chiuse o sandali bassi; di sera, lungo con il tacco. Il bianco resta alla sposa.",
+            "howTo": "Usate come riferimento l’abbigliamento richiesto nell’invito. Tessuto, lunghezza, scarpe e colore devono accompagnare la cerimonia e le indicazioni di chi la organizza; gli abbinamenti sono suggerimenti di stile.",
             "occasion": "Cerimonia in chiesa o in sala, di giorno o di sera.",
             "pairsWith": [
               {
@@ -267,11 +267,11 @@
     {
       "heading": "Taglia: usate la misura del capo",
       "paragraphs": [
-        "Non esiste una tabella taglie unica: usate quella dell'abito che avete scelto. SHEIN pubblica la guida di ogni capo, in centimetri e in pollici, con il modo di misurarsi.",
+        "Usate la tabella dell’abito scelto e verificate se indica misure del corpo o del capo. Seguite il suo metodo; non considerate identici i due tipi di misura e non scegliete solo dall’etichetta.",
         "Il Firerie si descrive come slim fit, il che richiede misure più precise per il seno e la vita."
       ],
       "postParagraphs": [
-        "Per le taglie forti il metodo è lo stesso: confrontate la misura del capo con la vostra, non il numero dell'etichetta."
+        "Anche per le taglie forti, verificate se la tabella indica misure del corpo o del capo. Confrontate il corpo con una tabella corporea; per le misure del capo usatene uno che veste bene, considerando tessuto, taglio e agio desiderato. L’etichetta da sola non basta."
       ],
       "images": [
         {
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "heading": "Tempi: confrontate con la data della festa",
+      "heading": "Tempi: confrontate la stima finale di arrivo con la data della festa",
       "paragraphs": [
         "L'ordine passa per l'elaborazione prima della spedizione. Confrontate la consegna prevista nella pagina dell'ordine con la data della festa, lasciando un margine. Se la previsione cade vicino alla festa o dopo, quell'abito non è l'acquisto giusto per quella data."
       ],
@@ -344,7 +344,7 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell'ordine. Confrontate la consegna prevista della pagina con la data della festa, lasciando un margine.",
+        "Un abito da festa SHEIN arriva in tempo per Natale? Dipende dalla data dell’ordine e non è garantito. Confrontate la stima finale della pagina con la data della festa e lasciate margine per provarlo. Una stima non è una promessa di consegna.",
         "Come capire se l'abito è lungo o midi? Dalla lunghezza dichiarata nella descrizione e dalla misura in centimetri nella guida alle taglie del capo.",
         "Si può usare il 4CW5Y per avere uno sconto? No. È un codice di invito: non dà sconto e non è un coupon."
       ]
@@ -352,8 +352,8 @@
   ],
   "decision": {
     "takeIf": [
-      "Da prendere se la consegna prevista nella pagina dell'ordine arriva prima della data della festa.",
-      "Da prendere se la descrizione riporta composizione, fodera e lunghezza in centimetri, e la misura del capo corrisponde alla vostra."
+      "Da considerare se la stima finale lascia tempo prima della festa per ricevere e provare l’abito, senza trattarla come garanzia.",
+      "Da prendere se la descrizione indica composizione, fodera e lunghezza e la tabella del modello permette di scegliere la vestibilità desiderata, distinguendo misure del corpo e del capo."
     ],
     "skipIf": [
       "Da lasciare se la consegna prevista nella pagina dell'ordine supera la data della festa.",

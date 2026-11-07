@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw or Hermes Agent: channels, memory, learning, license and the real cost on Hostinger, with server plans read on 21 October 2026.",
-  "metaDescription": "OpenClaw or Hermes Agent on Hostinger: which to choose, channels, memory, AI models and the SONAR20 code, read on 21 October 2026.",
+  "description": "OpenClaw vs Hermes Agent: compare interfaces, channels, memory and the cost categories for running each one on Hostinger, from VPS or managed hosting to AI model charges.",
+  "metaDescription": "OpenClaw vs Hermes Agent: interfaces, memory, AI costs and managed or VPS hosting. SONAR20 gives 20% off the first period of an eligible new purchase.",
   "publishedAt": "October 21, 2026",
   "publishedAtISO": "2026-10-21",
   "updatedAt": "2026-11-07",
@@ -130,9 +130,9 @@
         "The software costs nothing in either case. The real spending comes from three places:"
       ],
       "bullets": [
-        "**Server.** It can be your own computer, switched on all the time, or a VPS, a rented virtual server. A VPS gives you root access, full control of the machine, but you are the one who updates and secures the system. The more RAM, the more programs run at once without stalling.",
-        "**Managed plan.** Hostinger installs, updates and maintains the assistant. OpenClaw and Hermes Agent are on the same plan, “AI automation apps”.",
-        "**AI model.** The assistant asks a model, such as Claude, GPT or Gemini, for its replies, and the model charges for use. There are two ways to pay: your own API key, where the provider bills you directly, or AI credits bought from Hostinger. The managed OpenClaw and Hermes Agent plans come with starting credit; top-ups do not appear on a public page, so check the dashboard. For Nous Portal, the price is not stated on the project page."
+        "**Server or managed plan.** You can run the agent on your own computer, rent a VPS and manage it yourself, or hire managed installation and maintenance. Compare resources and operating responsibility: RAM alone does not guarantee that a workload runs without stalling.",
+        "**On Hostinger.** OpenClaw and Hermes Agent appear in the same AI automation apps plan. Plan options are in the table below.",
+        "**AI model.** The assistant uses an external model to reply. The cost depends on the model you choose and on how many conversations you have, and the ways to pay are under Before you install. On Nous Portal, the price is not stated on the project page."
       ],
       "postParagraphs": [
         "The monthly cost of model use is not stated in the sources: it depends on the model you pick and the number of conversations. That is why this guide gives no estimate of a monthly total."
@@ -144,7 +144,7 @@
         "Before you start, confirm three things. They apply to both agents."
       ],
       "bullets": [
-        "**AI model.** The agent does not answer on its own: it asks a model from another company for its replies. On Hostinger, you use the plan's AI credits or your own API key, which the program uses to talk to the provider. The provider charges for use, directly to you.",
+        "**AI model.** Choose the access and billing method. With your own API key, the provider bills you directly; with Hostinger credits, check the platform's balance and terms. Do not treat both routes as direct provider billing.",
         "**A messaging channel.** Telegram is the simplest route. You create the bot in BotFather, Telegram's official bot for making bots, and keep the token. WhatsApp joins as a linked device, by scanning a QR code.",
         "**Who looks after the server.** On the managed plan, Hostinger handles updates and security. On a VPS, updating is up to you, with the Update button in Docker Manager, and so is the server's security. Docker is the program that runs each application isolated in a container."
       ],
@@ -219,15 +219,15 @@
         ]
       },
       "postParagraphs": [
-        "On the managed plan, the plan includes starting AI credit, and anything beyond it is billed by consumption. On a VPS, Hostinger installs the assistant with Docker, and updating and securing the server are up to you.",
-        "The managed plan has a 30-day refund window. On a VPS, after a completed VPS refund, a 180-day cooldown applies before the next one. VPS upgrades and cryptocurrency payments are not refundable.",
+        "For managed hosting, check the offer and the dashboard for any included AI credits, the balance and what happens when it runs out; do not assume the service continues or that billing starts automatically. On a VPS, Hostinger installs the assistant with Docker, and updating and securing the server are up to you.",
+        "The managed plan has a 30-day refund window, under the product's conditions; repeat VPS refunds follow their own rules. VPS upgrades and cryptocurrency payments are not refundable.",
         "If you want the requirements worked out before choosing a plan, read the [best VPS for OpenClaw](/en/reviews/best-vps-for-openclaw). For the campaign, see [Hostinger's Black Friday](/en/reviews/hostinger-black-friday)."
       ]
     },
     {
       "heading": "SONAR20 coupon",
       "paragraphs": [
-        "Use the code **SONAR20** in the cart's coupon field, or enter through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Check the amount in the cart before paying.",
+        "Enter **SONAR20** in the cart: 20% off the first period of an eligible new purchase, monthly or annual, including with an existing account. Domain registration and renewal are excluded. See the [Hostinger coupon page](/en/coupons/hostinger) for conditions.",
         "Where to paste the code is in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
       ]
     },
@@ -238,8 +238,8 @@
         "Does it work with Telegram? Yes, with both. You create the bot in BotFather and paste the token into the configuration.",
         "Do you need to know how to code? To set up the managed plan, no: you choose the channels and paste the token. On a VPS, you need the basics of servers, such as root, Docker and updates. Coding only comes in if you want to change the project's code.",
         "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person or a team that trusts each other, no direct exposure to the internet, and a review of whatever you install from third parties.",
-        "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
-        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+        "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
+        "Can existing Hostinger customers use SONAR20? Yes, on an eligible new purchase with the same account; renewal of the current service is excluded. It gives 20% off the first term, and domain registration is also excluded. Check the cart total."
       ]
     },
     {
@@ -253,7 +253,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+    "text": "SONAR20: 20% off the first period of an eligible new purchase. Domain registration and renewal are excluded.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

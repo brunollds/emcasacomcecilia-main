@@ -33,7 +33,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A YesStyle entrega em Portugal, com prazo e frete publicados. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa no site e no app. Veja abaixo a tabela e o capítulo do imposto."
+        "A YesStyle entrega em Portugal, com prazo e frete publicados, e o IVA já vem no preço. Para o Brasil, um pedido nosso saiu em setembro, mas a entrega está suspensa no site e no app. Veja abaixo a tabela e o capítulo do imposto."
       ]
     },
     {
@@ -77,7 +77,7 @@
       "heading": "O que a loja mostra sobre o Brasil",
       "paragraphs": [
         "A tabela de frete e a lista de países atendidos não trazem o Brasil, e o seletor de endereço de entrega do site em português também não. O aviso de 3 de julho, que pausou os novos pedidos ao Brasil por atrasos na alfândega, segue na central de avisos sem um aviso de retomada.",
-        "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express. Isso mostra que esse pedido saiu, não que os envios voltaram: a entrega ao Brasil está suspensa no site e no app. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
+        "Mesmo assim, o nosso pedido de setembro foi enviado dois dias depois pela Anjun Express, e a entrega ao Brasil segue suspensa no site e no app. Se a entrega voltar sem a linha do Brasil na tabela, confira o frete e o prazo no checkout, antes de pagar."
       ]
     },
     {
@@ -159,7 +159,7 @@
         "aspectRatio": 3.5907
       },
       "bullets": [
-        "**Pague a cobrança** quando o pacote chegar: a YesStyle diz que não se responsabiliza por reembolso nem reenvio de pacote recusado por questões alfandegárias.",
+        "**Antes de recusar o pacote por uma cobrança alfandegária, fale com o atendimento.** Pela [política da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.735), a loja não se responsabiliza por reembolso nem reenvio nesse caso.",
         "**Guarde o comprovante** do pagamento, com a data.",
         "**Mande o comprovante por e-mail** ao atendimento da YesStyle em até 30 dias da data dele. Sem comprovante, ou depois de 30 dias, a loja não analisa o pedido."
       ],
@@ -215,13 +215,13 @@
       "heading": "Perguntas frequentes",
       "bullets": [
         "A YesStyle entrega no Brasil e em Portugal? Em Portugal, sim, pela tabela de frete da loja; para o Brasil, não: um pedido nosso saiu em setembro, mas a entrega está suspensa no site e no app.",
-        "A YesStyle voltou a entregar no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Um pedido nosso feito em setembro saiu dois dias depois, mas isso não quer dizer que os envios voltaram.",
+        "A YesStyle voltou a entregar no Brasil? Não: a entrega ao Brasil está suspensa no site e no app. Um pedido nosso feito em setembro saiu dois dias depois.",
         "Quanto tempo demora a entrega da YesStyle? Em Portugal, de 11 a 18 dias úteis para um pedido só com itens em estoque: 1 a 3 para sair de Hong Kong e 10 a 15 de envio; para o Brasil, a loja não publica prazo.",
         "A partir de quanto o frete da YesStyle é grátis? Em Portugal, a partir de US$ 60, sem contar a embalagem de presente, com frete de US$ 5 abaixo disso; para o Brasil, a loja não publica o valor.",
         "A YesStyle tem taxa ou imposto? Em Portugal, o IVA já vem no preço; no Brasil, o pacote paga Imposto de Importação mais ICMS depois que chega, veja o exemplo no capítulo do imposto.",
-        "A YesStyle reembolsa a taxa da alfândega? Sim, em crédito na loja, em pedidos abaixo de US$ 1.000, com o comprovante mandado ao atendimento em até 30 dias; no Brasil, a política não cita o ICMS.",
+        "A YesStyle reembolsa a taxa da alfândega? Sim, para taxas elegíveis em pedidos abaixo de US$ 1.000, em crédito na loja, com o comprovante mandado ao atendimento em até 30 dias; no Brasil, a política cobre o Imposto de Importação e as taxas da alfândega, mas não cita o ICMS.",
         "Como pagar na YesStyle? Com cartão Visa, Mastercard, American Express ou JCB, PayPal, Apple Pay ou Google Pay; na compra em dólar, o banco pode cobrar taxa de transação internacional.",
-        "Como devolver um produto da YesStyle? Peça o número de RMA em até 14 dias do recebimento e despache o pacote em até 30 dias; produto de beleza aberto e suplemento não voltam, e reação na pele não dá reembolso.",
+        "Como devolver um produto da YesStyle? Peça o número de RMA em até 14 dias do recebimento e despache o pacote em até 30 dias da emissão do RMA. Produto de beleza aberto e suplemento não voltam, e reação na pele não dá reembolso.",
         "Por que o prazo muda de um pedido para outro? Porque ele soma a disponibilidade dos itens, que pode levar até 30 dias úteis, ao prazo do envio, e o pedido pode sair em mais de um envio; se sair tudo junto, só quando o último item fica disponível.",
         "Onde ficam os cupons e o código de recompensa da YesStyle? Na página da YesStyle aqui do site, com os cupons do momento e o CECILIA010, que vai no campo Reward Code."
       ]

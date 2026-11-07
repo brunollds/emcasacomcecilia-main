@@ -55,7 +55,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "En souscrivant un nouveau forfait, saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % de réduction sur l'achat.",
+    "text": "Pour un nouveau forfait éligible, saisissez SONAR20 dans le panier pour obtenir 20 % de réduction sur l'achat. Le code ne s'applique ni aux renouvellements ni aux domaines ; vérifiez le total avant de payer.",
     "label": "Voir les forfaits Hostinger avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -149,7 +149,7 @@
       },
       "postParagraphs": [
         "Notre calcul : d'après les prix du tableau, renouveler Premium pour 48 mois de plus coûte 527,52 US$ (48 × 10,99), soit plus de cinq fois les 95,52 US$ de la première période.",
-        "Si vous hésitez entre deux forfaits, comparez-les par la colonne du renouvellement, pas par celle du prix d'appel : c'est là que se joue votre budget après la première période."
+        "Comparez le coût total de la première période et celui du renouvellement pour la durée souhaitée, ainsi que les fonctions nécessaires. Le tableau montre l'écart possible dans le budget ; vérifiez le montant et les moyens de paiement du renouvellement dans votre compte avant de choisir."
       ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-fr.webp",
@@ -201,7 +201,7 @@
       ],
       "postParagraphs": [
         "Le désactiver ne change pas l'état du service : il reste actif jusqu'à l'échéance et n'est plus débité. Ce qui a déjà été prélevé ne revient pas par ce chemin ; le remboursement a sa propre règle, dans la section suivante. Sur un forfait mensuel avec une facture en attente, la facture est annulée et l'abonnement prend fin à la fin du cycle. Avec une facture partiellement payée, des crédits appliqués ou un cycle d'un an ou plus, il peut falloir contacter le support, via l'assistant IA de Hostinger.",
-        "Deux détails pèsent dans la décision. Pour changer la durée du forfait au renouvellement, le renouvellement automatique doit être activé. Et si le forfait arrive à échéance, l'avertissement sur sa carte indique que les sites sont mis hors ligne. Dans le doute, ne coupez l'interrupteur que lorsque vous avez décidé de ne pas renouveler."
+        "Le renouvellement automatique doit être actif pour modifier la durée du forfait au renouvellement. À l'expiration, les sites peuvent devenir indisponibles, comme l'indique la fiche du forfait. Choisissez le prélèvement automatique ou le renouvellement manuel selon le prix et la date. Si vous désactivez l'option mais souhaitez conserver le service, programmez son renouvellement avant l'échéance."
       ]
     },
     {
@@ -228,7 +228,7 @@
     {
       "heading": "Le domaine reste à part",
       "paragraphs": [
-        "Le domaine n'est pas remboursable au renouvellement et n'accepte pas non plus le SONAR20, il appelle donc une décision à part. Son renouvellement a son propre interrupteur, dans la zone des domaines du panneau, et il est prélevé 27 jours avant l'échéance. Seul l'enregistrement neuf a un court délai de remboursement, de 96 heures en général, selon l'extension ; le renouvellement n'en a aucun.",
+        "Le domaine appelle une décision distincte : son renouvellement est exclu de SONAR20 et du remboursement standard. Il dispose de son propre interrupteur dans la zone des domaines du panneau, avec un prélèvement prévu 27 jours avant l'échéance. Pour un nouvel enregistrement, le délai de remboursement dépend de l'extension (96 heures en général) et des conditions de la politique : ne l'appliquez pas à tous les domaines.",
         "Décidez pour le domaine avant ce prélèvement : regardez le prix, voyez s'il doit rester chez ce registraire et ne le laissez se renouveler qu'ensuite. Les voies pour enregistrer, transférer ou laisser le domaine de côté sont dans [domaine chez Hostinger](/fr/reviews/domaine-hostinger-acheter-ou-transferer)."
       ]
     },
@@ -245,7 +245,7 @@
         "Traitez le domaine à part, avec son prix et sa décision."
       ],
       "postParagraphs": [
-        "Dans le doute, laissez le renouvellement automatique activé sur ce que vous utilisez et ne le coupez que sur ce que vous avez déjà décidé d'abandonner."
+        "Gardez le renouvellement automatique pour les services que vous souhaitez continuer à payer au prix indiqué. Si vous préférez décider avant chaque prélèvement, désactivez-le et notez la date limite pour renouveler manuellement. Vérifiez chaque service séparément, domaines compris."
       ],
       "emphasis": "Un renouvellement se décide au calme, avant l'arrivée du prélèvement, et non le jour de l'échéance."
     },
@@ -254,7 +254,7 @@
       "bullets": [
         "Le code Hostinger vaut-il au renouvellement ? Non : le SONAR20 donne 20 % sur un nouvel achat, et le renouvellement est facturé au prix catalogue. La section du SONAR20 explique où le code intervient.",
         "Comment annuler le renouvellement automatique de Hostinger ? Dans Facturation, Abonnements, désactivez l'interrupteur du service ; il reste actif jusqu'à l'échéance. Le pas-à-pas est dans la section sur la désactivation.",
-        "Hostinger rembourse-t-il le renouvellement ? Oui, dans les 30 jours suivant le prélèvement, pour l'hébergement et le VPS KVM ; le renouvellement de domaine n'est pas remboursable. Les exceptions sont dans la section du remboursement.",
+        "Hostinger rembourse-t-il le renouvellement ? Oui, dans les 30 jours suivant le prélèvement, pour l'hébergement et le VPS KVM éligibles ; le renouvellement de domaine n'est pas remboursable. Les exceptions sont dans la section du remboursement.",
         "Quand Hostinger prélève-t-il le renouvellement automatique ? Sur le forfait annuel, 14 jours avant l'échéance ; sur le mensuel, le jour de l'échéance. Le domaine a son propre délai, dans la section sur le moment du prélèvement.",
         "Que se passe-t-il si mon forfait Hostinger arrive à échéance ? Les sites sont mis hors ligne, comme l'indique la carte du forfait. Pour éviter cela, renouvelez avant l'échéance ou laissez le renouvellement automatique activé."
       ]

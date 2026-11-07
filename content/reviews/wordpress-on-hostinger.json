@@ -114,7 +114,7 @@
       "postParagraphs": [
         "The page gives no end date for the campaign, and prices can change."
       ],
-      "emphasis": "Renewal costs about 3 to 5 times the promotional price. Choose the plan by the renewal column, not only by the entry price."
+      "emphasis": "Compare the total commitment, equivalent monthly cost and renewal. Neither entry price nor renewal alone chooses a plan."
     },
     {
       "heading": "What comes with the plans",
@@ -130,7 +130,7 @@
     {
       "heading": "How to start: the checklist",
       "bullets": [
-        "**1. Count your sites.** One, up to three or more. In most cases, that already picks the plan.",
+        "**1. List the requirements.** Count sites and check storage, application, expected workload and recovery needs before choosing.",
         "**2. Sort out the domain.** Check whether your plan includes one, or point a domain you already have. Note when it renews.",
         "**3. Install WordPress from the hosting panel.** You do not need to download the files by hand.",
         "**4. Choose the theme before the content.** Switching themes on a full site means rework. Prefer a simple theme that is updated often.",
@@ -144,13 +144,13 @@
     {
       "heading": "If you do not want WordPress",
       "paragraphs": [
-        "If you do not want to install a theme or a plugin, or update anything, the same plans come with Hostinger's AI website builder, formerly Horizons. The comparison by type of project is in [Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?](/en/reviews/hostinger-ai-builder-worth-it). If what you need already has a plugin name, stay with WordPress."
+        "If you want less theme and plugin maintenance, compare the AI Builder with WordPress. Choose by required functions, integrations and site maintenance; knowing a plugin name does not decide it. See the project comparison in [Hostinger AI Builder (formerly Horizons): is it worth it, or WordPress?](/en/reviews/hostinger-ai-builder-worth-it)."
       ]
     },
     {
       "heading": "SONAR20 code and price",
       "paragraphs": [
-        "Enter the code **SONAR20** in the cart's coupon field, or come in through this article's link: it gives **20% off the first period**. SONAR20 works on the WordPress plans; check the price in the cart before paying. After the first period, the renewal column applies, without the 20% from SONAR20. The rules for the code and the other products are in [Hostinger coupons](/en/coupons/hostinger)."
+        "Use **SONAR20** for 20% off the first period of an eligible new purchase, including with an existing account. Check that it applies to your WordPress plan and confirm the cart total; domain registration and renewals are excluded. Conditions at [Hostinger coupons](/en/coupons/hostinger)."
       ]
     },
     {
@@ -167,9 +167,9 @@
         "Which is the cheapest WordPress plan on Hostinger? Premium, at US$ 2.49 a month over 48 months (US$ 119.52 in total), for up to 3 sites. It renews at US$ 10.99 a month.",
         "Does WordPress come installed on Hostinger? You install it from the hosting panel, without downloading files by hand. The checklist above covers the steps.",
         "Which WordPress plan suits an online store? Unlimited, for its daily backups and unlimited sites. For a store with heavy traffic, Cloud Startup.",
-        "Does the SONAR20 code work on the WordPress plans? Yes; check the price in the cart. It gives 20% off the first period.",
-        "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month.",
-        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+        "Does the SONAR20 code work on the WordPress plans? SONAR20: 20% off the first period of an eligible new purchase. Check your WordPress plan at checkout; domain registration and renewal are excluded.",
+        "Is the renewal price the same as the promotional price? No. After the first 48-month period, the renewal price applies: for Premium, US$ 10.99 a month.",
+        "Can existing customers use SONAR20? It can apply to an eligible new purchase with the same account, not renewal of the current service. Domain registration is also excluded. Enter the code and check the cart total."
       ]
     },
     {
@@ -182,7 +182,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. It works on the WordPress plans; check the price in the cart.",
+    "text": "SONAR20: 20% off the first period of an eligible new purchase. Check your WordPress plan at checkout; domain registration and renewal are excluded.",
     "label": "See WordPress plans with SONAR20",
     "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -209,7 +209,7 @@
     ],
     "skipIf": [
       "Skip Cloud Startup if Unlimited is still enough: it is the most expensive plan, on renewal too.",
-      "Skip WordPress if you do not want to install a theme or a plugin, or update anything: the same plans come with the AI website builder."
+      "Compare another tool if you do not want to manage themes and plugins; check functions, integrations and costs before replacing WordPress with the AI Builder."
     ]
   }
 }

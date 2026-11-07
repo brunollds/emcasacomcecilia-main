@@ -45,13 +45,14 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Paperclip organizza una squadra di agenti IA, con ruoli, obiettivi e un limite di spesa per ciascuno, ma non fa girare l’IA: le chiavi sono tue. Su Hostinger, gira sul piano gestito o su un VPS. Ciò che cambia la decisione è chi si occupa del server; vedi il confronto qui sotto."
+        "Paperclip organizza squadre di agenti IA con ruoli, obiettivi, budget e approvazioni. Colleghi gli agenti ai modelli con i tuoi account, tramite API o abbonamento compatibile. Su Hostinger la scelta principale riguarda chi gestisce il server: Hostinger nel piano gestito o tu sul VPS."
       ]
     },
     {
       "heading": "Che cos’è Paperclip, in parole semplici",
       "paragraphs": [
-        "Paperclip è un programma per organizzare una squadra di agenti IA: invece di un solo assistente, metti insieme la squadra con ruoli, obiettivi e un limite di spesa per ogni agente. Pensa a una piccola azienda. C’è un titolare, ci sono dei responsabili e dei dipendenti, ciascuno con la sua funzione. Paperclip fa questo con gli agenti IA: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi sta sopra delega i compiti, e chi sta sotto risponde a lui. Nella documentazione, nel progetto compaiono cinque idee."
+        "Pensa a una piccola azienda: ogni agente ha un ruolo, una descrizione del lavoro e un superiore. Chi coordina assegna i compiti; gli altri li eseguono e riferiscono sull’avanzamento.",
+        "Paperclip organizza questa struttura e riunisce obiettivi, budget, approvazioni e registri. I cinque concetti seguenti mostrano come lo descrive la documentazione."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -72,7 +73,7 @@
     {
       "heading": "È affidabile? Cosa si può verificare",
       "paragraphs": [
-        "“Affidabile” è una parola grossa. Si può separare ciò che è verificabile da ciò che non lo è.",
+        "Per valutare il progetto, controlla origine e licenza del codice, dove viene eseguito e cosa dicono le fonti su dati e sicurezza.",
         "**Chi lo mantiene.** Il repository ufficiale, github.com/paperclipai/paperclip, dice che il progetto è mantenuto dal team Paperclip, e l’avviso di copyright riporta “MIT © 2026 Paperclip Labs, Inc.”. Il sito del progetto, paperclip.ing, rimanda allo stesso repository. Non confonderlo con i fork e le copie del codice che compaiono nella ricerca.",
         "**Licenza.** MIT. Vuol dire che il codice è aperto: chiunque può leggerlo, controllarlo e usarlo. Vuol dire anche che nessuno è obbligato a mantenere la versione che hai installato.",
         "**Dove gira.** Scegli tu. Può girare sul tuo computer, su un server tuo o sul piano gestito di Hostinger. Il sito del progetto dice che la versione self-hosted non richiede un account Paperclip.",
@@ -89,8 +90,8 @@
       "bullets": [
         "**Agenti da coordinare.** Paperclip non fa girare un modello IA: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
         "**Postgres.** È il database in cui Paperclip conserva agenti, compiti e registri. Nell’installazione locale è integrato e parte da solo. In produzione, il progetto stesso consiglia di puntare a un Postgres tuo. Sul gestito, il database è incluso. Sul VPS, il database è a tuo carico.",
-        "**Chiavi IA tue.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Il fornitore fa pagare l’uso, direttamente a te. Sul gestito, Hostinger chiede una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo, e non elenca crediti IA inclusi. Senza una di queste connessioni, il team non risponde.",
-        "**Budget mensile per agente.** Fissa il tetto prima di accendere la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Senza tetto, la spesa è quella che il fornitore addebita a fine mese.",
+        "**Collegamento all’IA.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Con la chiave, il fornitore fa pagare l’uso, direttamente a te. Sul gestito, Hostinger chiede una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo, e non elenca crediti IA inclusi. Senza una di queste connessioni, il team non risponde.",
+        "**Budget e fatturazione.** Configura le politiche di budget e pausa prima di avviare la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Controlla anche consumo e limiti del fornitore del modello.",
         "**Conoscenze di server, se è un VPS.** Sul VPS, devi sapere cos’è Docker, un programma che fa girare ogni applicazione isolata in un container, e accettare di aggiornare e proteggere il sistema. Se non fa per te, il gestito risolve."
       ],
       "postParagraphs": [
@@ -130,21 +131,21 @@
             "A tuo carico"
           ],
           [
-            "Chiavi IA",
-            "Tue; la pagina non elenca crediti di Hostinger",
+            "Collegamento all’IA",
+            "Chiave API o abbonamento ChatGPT attivo secondo la configurazione; la pagina non elenca crediti IA inclusi",
             "Tue; la pagina parla di portare le proprie chiavi API"
           ],
           [
             "Rimborso",
             "30 giorni",
-            "30 giorni solo se l’ultimo rimborso VPS è stato completato più di 180 giorni fa"
+            "30 giorni secondo la politica; tra un rimborso VPS e l’altro vale un intervallo di 180 giorni"
           ]
         ]
       },
       "postParagraphs": [
         "**Il gestito fa per te se** vuoi Paperclip funzionante senza installare nulla, non sai cosa sono root e Docker, e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup.",
         "**Il VPS fa per te se** vuoi far girare altri programmi sullo stesso server, come un sito o un n8n (strumento di automazione), sai mettere le mani su un server o vuoi imparare, e vuoi avere database e configurazione sotto il tuo controllo.",
-        "Per il rimborso, la regola dei 180 giorni per il VPS è la stessa dell’[articolo sull’affidabilità di Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell’azienda. I 180 giorni contano dal completamento dell’ultimo rimborso VPS: se ne hai ricevuto uno negli ultimi 180 giorni, il nuovo VPS non ha la garanzia di 30 giorni."
+        "Per il rimborso, la regola dei 180 giorni per il VPS è la stessa dell’[articolo sull’affidabilità di Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell’azienda. Per i rimborsi VPS precedenti vale un intervallo di 180 giorni; controlla condizioni ed esclusioni nella [politica di rimborso](https://www.hostinger.com/legal/refund-policy) prima di acquistare."
       ]
     },
     {
@@ -160,7 +161,7 @@
       ]
     },
     {
-      "heading": "Come iniziare, in ordine",
+      "heading": "Tre modi per iniziare: scegline uno",
       "bullets": [
         "**Farlo girare sul tuo computer.** Il README ufficiale richiede Node.js 24.11 o più recente. Controlla la versione con il comando node -v nel terminale e poi esegui npx paperclipai@latest onboard --yes. L’interfaccia si apre su http://localhost:3100, e il database Postgres viene creato da solo. Non ci sono costi di server, ma Paperclip gira solo finché il computer è acceso. Se hai un abbonamento a Claude o a Codex, il README accetta anche l’accesso tramite abbonamento, senza chiave API, con Python 3 e il programma del fornitore installati.",
         "**Attivare il gestito.** Sottoscrivi il piano “App di automazione IA” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l’acquisto, Hostinger prepara l’istanza e il database. Entra nel pannello, collega i tuoi agenti e inserisci una chiave IA (o usa l’abbonamento ChatGPT).",
@@ -176,7 +177,7 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Paperclip è gratis? Il programma è open source, con licenza MIT, e si può installare sul tuo computer senza pagare Hostinger. L’uso dei modelli IA è addebitato dal fornitore, e il gestito e il VPS sono piani a pagamento.",
+        "Paperclip è gratis? Il programma è open source con licenza MIT e si può installare sul computer senza sottoscrivere Hostinger. Hosting gestito e VPS sono a pagamento; i modelli usano i tuoi account tramite API o abbonamento compatibile, con costi e limiti del fornitore.",
         "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
         "Serve una chiave API? Nella maggior parte dei casi, sì. Sul gestito, Hostinger accetta una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo. Sul VPS, la pagina chiede di portare le proprie chiavi. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
         "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",

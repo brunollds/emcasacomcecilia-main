@@ -196,7 +196,7 @@
     {
       "heading": "Gutscheincode SONAR20",
       "paragraphs": [
-        "Verwenden Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder kommen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, bei Monats- oder Jahrestarif, für Neu- oder Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Die vollständigen Bedingungen und die anderen Produkte stehen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
+        "Geben Sie **SONAR20** im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs, auch mit bestehendem Konto. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Prüfen Sie Produkt und Gesamtbetrag vor der Zahlung. Bedingungen unter [Hostinger-Gutscheine](/de/coupons/hostinger).",
         "Preise und Bedingungen ändern sich; prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen."
       ]
     },
@@ -216,8 +216,8 @@
         "Braucht man Programmierkenntnisse für den KI-Builder? Nein. Laut Seite sind in beiden Modi keine technischen Kenntnisse nötig. Wer programmieren kann, hat im KI-Modus einen Code-Editor.",
         "Kann man vom KI-Builder zu einem anderen Hoster migrieren? Laut Seite lässt sich der Quellcode exportieren und anderswo hosten. Das integrierte Back-End mit Datenbank und Login bleibt bei Hostinger, eine App muss also außerhalb neu konfiguriert werden.",
         "Eignet sich der KI-Builder für einen Onlineshop? Für einen kleinen Shop ja: Der Onlineshop ist in den Tarifen Unlimited und Cloud Startup als kostenpflichtige Ergänzung verfügbar. Für einen großen Shop mit Versand- und Zahlungsregeln bietet WordPress mit WooCommerce mehr Kontrolle.",
-        "Gibt es einen Gutschein für den KI-Builder von Hostinger? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
-        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+        "Gibt es einen Gutschein für Hostingers KI-Builder? Nutzen Sie SONAR20 für 20 % auf die erste Laufzeit eines berechtigten Neukaufs. Prüfen Sie Abonnement und enthaltene Dienste im Warenkorb; Domainregistrierungen und Verlängerungen sind ausgeschlossen.",
+        "Können Hostinger-Bestandskunden SONAR20 nutzen? Ja, bei einem berechtigten Neukauf mit demselben Konto, nicht bei der Verlängerung des bestehenden Dienstes. Er gibt 20 % auf die erste Laufzeit; Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
       ]
     },
     {
@@ -230,7 +230,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+    "text": "Geben Sie SONAR20 im Warenkorb ein: 20 % auf die erste Laufzeit eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind ausgeschlossen. Prüfen Sie Produkt und Gesamtbetrag vor der Zahlung.",
     "label": "Die Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

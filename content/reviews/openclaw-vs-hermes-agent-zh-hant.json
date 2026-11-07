@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "比較 OpenClaw 與 Hermes Agent：管道、記憶、學習、授權，以及在 Hostinger 上的實際花費，伺服器方案以 2026 年 10 月 21 日查到的資料為準。",
-  "metaDescription": "在 Hostinger 上該選 OpenClaw 還是 Hermes Agent？管道、記憶、AI 模型，以及 SONAR20 代碼，資料截至 2026年10月21日。",
+  "description": "比較 OpenClaw 與 Hermes Agent 的介面、管道、記憶，以及在 Hostinger 上執行各自的費用項目。",
+  "metaDescription": "OpenClaw 與 Hermes Agent：介面、記憶、AI 費用、託管或 VPS。SONAR20 為符合資格的新購買提供首期 20% 折扣。",
   "publishedAt": "2026年10月21日",
   "publishedAtISO": "2026-10-21",
   "updatedAt": "2026-11-07",
@@ -130,9 +130,9 @@
         "兩者的軟體都不收費。真正的開銷來自三個地方："
       ],
       "bullets": [
-        "**伺服器。** 可以用你自己一直開著的電腦，也可以租用 VPS，也就是虛擬伺服器。VPS 能取得 root 權限，也就是對整台機器的完全控制，但系統的更新與防護要由你自己負責。記憶體（RAM）越大，同時執行的程式越多也越不容易卡住。",
-        "**託管方案。** 由 Hostinger 安裝、更新並維護助理。OpenClaw 與 Hermes Agent 在同一個方案裡，名為「AI 自動化應用程式」。",
-        "**AI 模型。** 助理要向 Claude、GPT 或 Gemini 這類模型取得回答，模型依用量收費。付費方式有兩種：使用你自己的 API 金鑰，由供應商直接向你收費；或是在 Hostinger 購買 AI 額度。OpenClaw 的託管與 Hermes Agent 的託管都附有初始餘額；儲值價格沒有公開頁面可查，請到管理面板確認。Nous Portal 的價格，專案頁面沒有標示。"
+        "**伺服器或託管方案。** 你可以在自己的電腦上執行助理，租用 VPS 自行管理，或是選擇託管的安裝與維護。比較資源與營運責任：光靠記憶體（RAM）不能保證負載執行時不卡住。",
+        "**在 Hostinger 上。** OpenClaw 與 Hermes Agent 在同一個方案裡，名為「AI 自動化應用程式」。方案選項見下方表格。",
+        "**AI 模型。** 助理使用外部模型回答。費用取決於你選的模型與對話數量，付款方式見「安裝之前」。Nous Portal 的價格，專案頁面上沒有標示。"
       ],
       "postParagraphs": [
         "模型每月的使用費用，來源中沒有標示：取決於你選的模型與對話數量。所以本指南不提供每月總額的估算。"
@@ -144,7 +144,7 @@
         "開始前，請先確認三件事。兩個代理都適用。"
       ],
       "bullets": [
-        "**AI 模型。** 代理自己無法作答，它要向另一家公司的模型取得回答。在 Hostinger 上，你可以使用方案中的 AI 額度，或是自己的 API 金鑰（程式用來與供應商通訊的金鑰）。使用費由供應商直接向你收取。",
+        "**AI 模型。** 先選存取與付費方式。使用自己的 API 金鑰，由供應商直接計費；使用 Hostinger 額度，則確認平台餘額與條件。不要把兩種方式都視為供應商直接收費。",
         "**一個訊息管道。** Telegram 是最簡單的路徑。你在 BotFather（Telegram 官方用來建立機器人的機器人）裡建立機器人，並保存好權杖。WhatsApp 則以已連結裝置的方式接入，需要掃描 QR code。",
         "**誰來管伺服器。** 託管的話，由 Hostinger 負責更新與安全。VPS 的話，更新要由你自己透過 Docker Manager 的 Update 按鈕完成，伺服器安全也是你的事。Docker 是把每個應用程式隔離在容器中執行的程式。"
       ],
@@ -219,15 +219,15 @@
         ]
       },
       "postParagraphs": [
-        "託管方案附有初始的 AI 額度餘額，超出的部分依用量收費。VPS 上，Hostinger 用 Docker 安裝助理，更新與伺服器安全由你自己負責。",
-        "託管有 30 天可申請退款。VPS 在一次 VPS 退款完成後，要再過 180 天才能申請下一次退款。VPS 升級和加密貨幣付款不可退款。",
+        "託管方案請在商品說明與管理面板確認是否包含 AI 額度、餘額及用完後的處理方式，不要預設服務會繼續或自動產生費用。VPS 由 Hostinger 透過 Docker 安裝助理，更新與伺服器安全由你負責。",
+        "託管方案有 30 天可申請退款，依產品條件辦理。VPS 重複退款有各自的規則。VPS 升級和加密貨幣付款不可退款。",
         "如果想在選方案之前先算出所需配置，請讀 [OpenClaw 最適合的 VPS](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)。活動方面，請看 [Hostinger 的黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
       ]
     },
     {
       "heading": "優惠碼 SONAR20",
       "paragraphs": [
-        "在購物車的優惠碼欄輸入代碼 **SONAR20**，或透過本文的連結進入：**第一個週期享 20% 折扣**，月繳或年繳皆可，新舊客戶都適用。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。付款前，請在購物車裡確認金額。",
+        "在購物車輸入 **SONAR20**：符合資格的新購買首期享 20% 折扣，月付、年付及既有帳號均可。網域註冊及續訂不適用；續訂按定價計算。條件請看 [Hostinger 優惠碼頁面](/zh-hant/coupons/hostinger)。",
         "代碼填在哪裡，見[如何使用 SONAR20 優惠碼](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
       ]
     },
@@ -239,7 +239,7 @@
         "需要會寫程式嗎？啟動託管版不需要：選好管道，貼上權杖就行。用 VPS 則需要懂伺服器基礎，例如 root、Docker 和更新。只有想修改專案程式碼時才需要寫程式。",
         "安全嗎？取決於你怎麼用。兩個安全政策要求的注意事項是一樣的：由一位受信任的人或互相信任的團隊使用，不直接暴露在網際網路上，並審查你安裝的第三方內容。",
         "如果我已經在用 Claude Code，該選哪個？Claude Code 是在終端機裡寫程式的工具，無法取代這兩者中的任何一個。兩者都支援 Anthropic 的金鑰：OpenClaw 把 Anthropic 列為供應商之一，Hermes Agent 的 README 把 Anthropic 金鑰列在密鑰項目裡。想要越用越會學習的代理，Hermes Agent 比較合適；想要很多管道和手機應用程式，選 OpenClaw。",
-        "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
+        "既有客戶也能用 SONAR20 嗎？同一帳號符合資格的新購買可以適用，但目前服務的續約不適用。首個合約期間享 20% 折扣，網域註冊也除外。請確認購物車總額。"
       ]
     },
     {
@@ -253,7 +253,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在購物車的優惠碼欄輸入 SONAR20，或從本文連結進入：首期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
+    "text": "SONAR20：符合資格的新購買首期享 20% 折扣，網域註冊及續訂不適用。",
     "label": "用 SONAR20 查看方案",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

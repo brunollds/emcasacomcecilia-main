@@ -196,7 +196,7 @@
     {
       "heading": "Codice SONAR20",
       "paragraphs": [
-        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: sono **20% sul primo periodo**, con piano mensile o annuale, per i clienti nuovi o esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. La regola completa e gli altri prodotti sono nei [coupon Hostinger](/it/coupons/hostinger).",
+        "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, anche con account esistente. Registrazione di dominio e rinnovo sono esclusi. Controlla prodotto e totale prima di pagare. Condizioni in [coupon Hostinger](/it/coupons/hostinger).",
         "I prezzi e le condizioni cambiano; controlla l'importo nel carrello prima di pagare."
       ]
     },
@@ -216,8 +216,8 @@
         "Serve saper programmare per usare l'AI Builder? No. La pagina dice che non richiede competenze tecniche in nessuna delle due modalità. Chi sa programmare ha un editor di codice nella modalità con IA.",
         "Si può migrare dall'AI Builder a un altro hosting? La pagina dice che il codice sorgente si può esportare e ospitare altrove. Il back-end integrato, con database e login, resta su Hostinger, quindi un'app richiede una riconfigurazione fuori da lì.",
         "L'AI Builder va bene per un negozio online? Per un piccolo negozio, sì: il negozio online è disponibile nei piani Unlimited e Cloud Startup come componente a pagamento. Per un negozio grande, con regole di spedizione e pagamento, WordPress con WooCommerce dà più controllo.",
-        "C'è un coupon per l'AI Builder di Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
-        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+        "C'è un coupon per il builder IA Hostinger? Usa SONAR20 per il 20% sul primo periodo di un nuovo acquisto idoneo. Controlla abbonamento e servizi inclusi nel carrello; registrazione di dominio e rinnovo sono esclusi.",
+        "Un cliente Hostinger esistente può usare SONAR20? Sì, su un nuovo acquisto idoneo con lo stesso account, non sul rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
       ]
     },
     {
@@ -230,7 +230,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+    "text": "Inserisci SONAR20 nel carrello per il 20% sul primo periodo di un nuovo acquisto idoneo. Registrazione di dominio e rinnovo sono esclusi; controlla prodotto e totale prima di pagare.",
     "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

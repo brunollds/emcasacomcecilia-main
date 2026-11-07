@@ -118,7 +118,7 @@
       "bullets": [],
       "postParagraphs": [
         "Il piano non è tutto: l'uso dell'IA è a parte. Con i crediti di Hostinger il gestito include un saldo iniziale, e ciò che lo supera è addebitato in base al consumo. Il prezzo delle ricariche non compare in nessuna pagina pubblica, quindi controllalo nel pannello prima di contarci. Con la tua chiave, il fornitore (OpenAI, Anthropic o un altro) ti addebita direttamente l'uso, in base al modello e al volume di conversazioni.",
-        "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, i 30 giorni valgono solo quando sono passati 180 giorni dal completamento dell'ultimo rimborso VPS, se ce n'è stato uno; controlla le eccezioni nella politica di rimborso di Hostinger. Un VPS di 12 mesi o più include un dominio .cloud o .tech gratis per il primo anno."
+        "Il gestito ha 30 giorni per chiedere il rimborso, con condizioni che variano per prodotto: leggi la policy di rimborso di Hostinger prima di acquistare. Un VPS di almeno 12 mesi include un dominio .cloud o .tech gratuito per il primo anno; verifica l'offerta attuale prima di acquistare."
       ]
     },
     {
@@ -172,7 +172,7 @@
     {
       "heading": "Coupon SONAR20",
       "paragraphs": [
-        "Usa il codice **SONAR20** nel campo coupon del carrello, oppure entra dal link di questo articolo: è il **20% di sconto sul primo periodo**, sia con il piano mensile sia con quello annuale, per clienti nuovi o già esistenti. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto. Dove incollare il codice è spiegato in [come usare il coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
+        "Inserisci **SONAR20** nel carrello: 20% sul primo periodo di un nuovo acquisto idoneo, mensile o annuale, anche con account esistente. Registrazione di domini e rinnovo sono esclusi; il rinnovo si paga al prezzo di listino. Consulta la [guida SONAR20](/it/reviews/coupon-hostinger-codice-invito) e la [pagina Hostinger](/it/coupons/hostinger)."
       ],
       "postParagraphs": [
         "Hostinger è in piena campagna di Black Friday, e i prezzi cambiano. Guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte) e controlla l'importo nel carrello prima di pagare."
@@ -185,7 +185,7 @@
         "Serve un account su OpenAI o Anthropic? No. In entrambe le opzioni puoi usare i crediti IA di Hostinger. L'account presso il fornitore serve solo se preferisci la tua chiave.",
         "Esiste un coupon di sconto Hostinger per OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% di sconto sul primo periodo.",
         "Il piano gestito va bene per Hermes Agent o Paperclip? Sì. Tutti e tre sono nello stesso piano, «Apps di automazione IA», allo stesso prezzo. La pagina di Paperclip non elenca crediti IA, quindi porta la tua chiave.",
-        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+        "Un cliente Hostinger esistente può usare SONAR20? Può applicarsi a un nuovo acquisto idoneo con lo stesso account, non al rinnovo del servizio attuale. Offre il 20% sul primo periodo; anche la registrazione di dominio è esclusa. Controlla il totale nel carrello."
       ]
     },
     {
@@ -198,7 +198,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+    "text": "Usa SONAR20: 20% sul primo periodo di un nuovo acquisto idoneo. Registrazione di domini e rinnovo sono esclusi.",
     "label": "Vedi i piani con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -225,7 +225,7 @@
     "skipIf": [
       "Lascia perdere il VPS se non sai cos'è root né Docker: aggiornare e proteggere il sistema resta a te.",
       "Lascia perdere il gestito se ti serve l'accesso root o più memoria e spazio.",
-      "Lascia perdere entrambi se lo stesso assistente deve servire persone che non si fidano tra loro: il progetto chiede un server separato per ciascuna."
+      "Lascia perdere entrambi se lo stesso assistente deve servire persone che non si fidano tra loro: non devono condividere lo stesso gateway. Un team che si fida reciprocamente richiede una valutazione diversa; non esiste una regola universale di un server per persona."
     ]
   },
   "hideFromPortugueseListings": true

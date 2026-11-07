@@ -46,14 +46,14 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "For an ordinary site, a blog, a portfolio or a small shop, shared hosting does the job and costs less. A VPS only pays off when the site needs a system installed outside the control panel, reserved CPU and memory, or root access. See the verdict below."
+        "For a blog, portfolio or small shop, start by comparing shared plans that support your application. Consider a VPS when you need software, configuration or root access those plans do not provide, and someone to maintain the server. Choose by requirements, not by the plan name; the scenario table helps you compare."
       ]
     },
     {
       "heading": "What each one is",
       "paragraphs": [
         "**Shared hosting** is one server split between several customers. Hostinger looks after the operating system, the web server and the updates; you log in to the control panel, install WordPress or upload your site's files, and that is it. At Hostinger, these are the Single, Premium and Unlimited plans, plus Cloud Startup, which is the same idea with more resources.",
-        "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk. Hostinger hands you the machine with the operating system and root access, the user that can do anything. From there on, installing the web server, the database and the certificate, plus updates and security, are your jobs. At Hostinger, these are the KVM 1, 2, 4 and 8 plans.",
+        "A **VPS** (virtual private server) is a virtual machine of your own, with reserved processor, memory and disk, plus root access, the system administrator account. You take responsibility for configuration, updates and security. The plans compared here are KVM 1, 2, 4 and 8.",
         "The difference is not “better or worse”. It is who looks after the server and how much of its resources are reserved for you."
       ]
     },
@@ -62,7 +62,7 @@
       "paragraphs": [
         "Before you look at prices, answer three questions. If the answer is “no” to all three, shared hosting will do."
       ],
-      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-pt.webp",
+      "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-tres-perguntas-en.webp",
       "imageAlt": "Chart with three questions: do you need to install a system outside the control panel, do you need reserved CPU and memory, do you need root access; each yes points to VPS, and three noes point to shared hosting",
       "imageCaption": "The three questions that decide between shared hosting and VPS. Our own chart, based on Hostinger's pages.",
       "imageFit": "contain",
@@ -87,7 +87,7 @@
           [
             "Node.js site",
             "Yes, on Unlimited or Cloud Startup, which Hostinger lists for Node.js. Premium is not on that list",
-            "Not needed"
+            "Not needed, unless you need full control of the runtime"
           ],
           [
             "Several sites or professional email",
@@ -155,7 +155,7 @@
         ]
       },
       "postParagraphs": [
-        "For an ordinary site that needs a VPS, KVM 1 is the starting point: 4 GB of RAM is enough for a WordPress site or a small system. KVM 2 comes in when you will run more than one program on the same machine. KVM 4 and 8 are for a larger system, a big database or several applications."
+        "Use the table to compare CPU, RAM and storage with your application's requirements. KVM 1 is the smallest listed plan, and your site's load decides whether it is enough. KVM 4 and 8 are for a larger system, a big database or several applications."
       ]
     },
     {
@@ -165,10 +165,10 @@
         "On a VPS, Hostinger says on its own page that, with root access, the server's configuration, updates and security are up to whoever signed up. Hostinger offers templates with the system already installed, such as WordPress, and an automatic weekly backup by default, but maintenance stays with you. In practice, it becomes a list of yours:"
       ],
       "bullets": [
-        "**Install and configure** the web server, the database and the SSL certificate, or start from a ready-made template.",
+        "**Configure the environment**: check what the template installs, then adjust the web server, database and certificate for the application.",
         "**Update** the operating system and the programs, from time to time.",
         "**Secure it**: firewall, open ports, passwords and access keys.",
-        "**Back up** (the automatic weekly one is on by default) and know how to restore.",
+        "**Check backups and know how to restore**: the automatic weekly backup is on by default, but verifying the copy and restoring it stay your job.",
         "**Fix it** when the site goes down outside business hours."
       ],
       "postParagraphs": [
@@ -186,18 +186,18 @@
       "emphasis": "If it were for an ordinary site, I would take Premium, because it costs less and Hostinger looks after the server.",
       "emphasisAfterParagraph": 3,
       "paragraphs": [
-        "**Shared hosting** for a blog, portfolio, company site or small shop. Server maintenance is Hostinger's job. Among the plans, Premium is the starting point; for a Node.js site or if the site grows, Unlimited or Cloud Startup, before you think of a VPS.",
-        "**VPS** for your own system, a program or database outside the panel, a bot or dashboard running all day, or when you need root. Start with KVM 1 and move up if memory runs short. Count in the time it takes to maintain the server, or the cost of someone who does it.",
-        "**When in doubt, shared hosting.** A VPS does not turn into shared hosting later, but going the other way is just a new contract when the need appears."
+        "**Shared hosting** for a blog, portfolio, company site or small shop. Server maintenance is Hostinger's job. Among the plans, Premium is the starting point; for a Node.js site or if the site grows, Unlimited or Cloud Startup, before you think of a VPS. Node.js alone does not require a VPS.",
+        "**VPS** is worth comparing when you need the control and configuration described in the scenario table. Choose the KVM plan by application requirements and count the administration work in the cost.",
+        "**When in doubt, shared hosting.** If the need for a VPS shows up later, it means a new contract, with setup and a site transfer."
       ]
     },
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Is a VPS faster than shared hosting? We did not measure it. What a VPS guarantees is reserved resources: CPU, memory and disk are yours, while on shared hosting the server is divided. For an ordinary site, that is rarely the bottleneck.",
-        "Can I start on shared hosting and move to a VPS later? Yes. They are different products: you sign up for the VPS, install the server and move the site over. Shared hosting cannot be converted into a VPS from inside the panel.",
+        "Is a VPS faster than shared hosting? Not necessarily. Reserved resources and root access change how you control the environment, but they do not by themselves predict how quickly your site responds. Compare the application's requirements and the plan limits.",
+        "Can I start on shared hosting and move to a VPS later? Yes, if the application supports the new environment. It is a new contract, with server setup and a site transfer; shared hosting cannot be converted into a VPS from inside the panel.",
         "Do I need to know Linux to have a VPS? Yes, the basics of the terminal: installing programs, updating the system and reading a log. On shared hosting, everything goes through the panel and no terminal is required.",
-        "Can a VPS run WordPress? It can. You can start from the VPS WordPress template, which comes pre-installed, but updating, securing and restoring backups stay with you. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
+        "Can a VPS run WordPress? Yes, including with a pre-installed template. You remain responsible for configuring and maintaining the environment, and capacity depends on the application. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
@@ -237,7 +237,7 @@
       "Take it if you have a dashboard, bot or automation (n8n, Docker) running all day and someone to maintain the server."
     ],
     "skipIf": [
-      "Skip it if it is a blog, portfolio, company site or small shop: shared hosting does the job and Hostinger looks after the server.",
+      "Skip it if it is a blog, portfolio, company site, small shop or Node.js site on a plan that supports it, such as Unlimited or Cloud Startup: shared hosting does the job and Hostinger looks after the server.",
       "Skip it if you have never opened a terminal: installing, updating, securing and backing up become your job."
     ]
   }

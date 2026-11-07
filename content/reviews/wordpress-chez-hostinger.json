@@ -114,7 +114,7 @@
       "postParagraphs": [
         "La page n'indique pas de date de fin pour la campagne, et les prix peuvent changer."
       ],
-      "emphasis": "Le renouvellement coûte environ 3 à 5 fois le prix promotionnel. Choisissez le forfait selon la colonne du renouvellement, pas seulement selon le prix d'entrée."
+      "emphasis": "Comparez engagement total, coût mensuel équivalent et renouvellement. Ni le prix d'entrée ni le renouvellement ne décident seuls."
     },
     {
       "heading": "Ce qui est inclus dans les forfaits",
@@ -130,7 +130,7 @@
     {
       "heading": "Comment commencer : la liste",
       "bullets": [
-        "**1. Comptez vos sites.** Un, jusqu'à trois ou plus. Dans la plupart des cas, cela suffit à choisir le forfait.",
+        "**1. Listez les besoins.** Comptez les sites et vérifiez espace, application, charge prévue et récupération avant de choisir.",
         "**2. Réglez le domaine.** Vérifiez si votre forfait en inclut un, ou pointez un domaine que vous avez déjà. Notez quand il se renouvelle.",
         "**3. Installez WordPress depuis le panneau d'hébergement.** Inutile de télécharger les fichiers à la main.",
         "**4. Choisissez le thème avant le contenu.** Changer de thème avec un site rempli demande du travail. Préférez un thème simple et mis à jour souvent.",
@@ -144,13 +144,13 @@
     {
       "heading": "Si vous ne voulez pas de WordPress",
       "paragraphs": [
-        "Si vous ne voulez ni installer de thème ni d'extension, ni rien mettre à jour, les mêmes forfaits incluent le créateur de sites avec IA de Hostinger, l'ancien Horizons. La comparaison par type de projet se trouve dans [Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?](/fr/reviews/createur-ia-hostinger-avis). Si ce dont vous avez besoin a déjà un nom d'extension, restez sur WordPress."
+        "Pour réduire l'entretien des thèmes et extensions, comparez le créateur IA à WordPress. Choisissez selon fonctions, intégrations et maintenance ; connaître une extension ne suffit pas. Voir le comparatif par projet dans [Hostinger AI Builder (le créateur IA, ex-Horizons) : vaut-il le coup, ou WordPress ?](/fr/reviews/createur-ia-hostinger-avis)."
       ]
     },
     {
       "heading": "Code SONAR20 et prix",
       "paragraphs": [
-        "Saisissez le code **SONAR20** dans le champ de coupon du panier, ou passez par le lien de cet article : cela donne **20 % sur la première période**. Le SONAR20 vaut sur les forfaits WordPress ; vérifiez le prix dans le panier avant de payer. Après la première période, c'est la colonne du renouvellement qui s'applique, sans les 20 % de SONAR20. Les règles du code et les autres produits se trouvent dans [les codes promo Hostinger](/fr/coupons/hostinger)."
+        "Utilisez **SONAR20** pour 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Vérifiez son application au forfait WordPress et le total du panier ; enregistrement de domaine et renouvellement sont exclus. Conditions sur [les codes promo Hostinger](/fr/coupons/hostinger)."
       ]
     },
     {
@@ -167,9 +167,9 @@
         "Quel est le forfait WordPress le moins cher de Hostinger ? Le Premium, à 2,49 US$ par mois sur 48 mois (119,52 US$ au total), pour jusqu'à 3 sites. Il se renouvelle à 10,99 US$ par mois.",
         "WordPress est-il installé chez Hostinger ? Vous l'installez depuis le panneau d'hébergement, sans télécharger de fichiers à la main. La liste ci-dessus détaille les étapes.",
         "Quel forfait WordPress pour une boutique en ligne ? Unlimited, pour ses sauvegardes quotidiennes et ses sites illimités. Pour une boutique très fréquentée, Cloud Startup.",
-        "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? Oui, il donne 20 % sur la première période ; vérifiez le prix dans le panier.",
+        "Le code SONAR20 fonctionne-t-il sur les forfaits WordPress ? SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Vérifiez le forfait WordPress au panier ; enregistrement de domaine et renouvellement sont exclus.",
         "Le prix du renouvellement est-il le même que le prix promotionnel ? Non. Après la première période de 48 mois, c'est le prix du renouvellement qui s'applique : pour Premium, 10,99 US$ par mois.",
-        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+        "Un client existant peut-il utiliser SONAR20 ? Le code peut s'appliquer à un nouvel achat éligible avec le même compte, mais pas au renouvellement du service actuel. L'enregistrement de domaine est également exclu. Saisissez le code et vérifiez le total du panier."
       ]
     },
     {
@@ -182,7 +182,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Saisissez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Il vaut sur les forfaits WordPress ; vérifiez le prix dans le panier.",
+    "text": "SONAR20 : 20 % sur la première période d'un nouvel achat éligible. Vérifiez le forfait WordPress au panier ; enregistrement de domaine et renouvellement sont exclus.",
     "label": "Voir les forfaits WordPress avec le SONAR20",
     "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -209,7 +209,7 @@
     ],
     "skipIf": [
       "Laissez de côté Cloud Startup si Unlimited suffit encore : c'est le forfait le plus cher, au renouvellement aussi.",
-      "Laissez de côté WordPress si vous ne voulez ni installer de thème ni d'extension, ni rien mettre à jour : les mêmes forfaits incluent le créateur de sites avec IA."
+      "Comparez un autre outil si vous ne voulez pas gérer thèmes et extensions ; vérifiez fonctions, intégrations et coûts avant de remplacer WordPress par le créateur IA."
     ]
   }
 }

@@ -30,8 +30,8 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw oder Hermes Agent: Kanäle, Gedächtnis, Lernen, Lizenz und die tatsächlichen Kosten bei Hostinger, mit am 21. Oktober 2026 abgelesenen Serverplänen.",
-  "metaDescription": "OpenClaw oder Hermes Agent bei Hostinger: welcher passt, Kanäle, Gedächtnis, KI-Modelle und der Code SONAR20, abgelesen am 21. Oktober 2026.",
+  "description": "OpenClaw oder Hermes Agent: Oberflächen, Kanäle, Gedächtnis und Kostenarten für den Betrieb bei Hostinger im Vergleich, mit VPS, verwaltetem Tarif und KI-Modell.",
+  "metaDescription": "OpenClaw oder Hermes Agent: Oberfläche, Gedächtnis, KI-Kosten, verwaltet oder VPS. SONAR20 gibt 20 % im ersten Zeitraum eines berechtigten Neukaufs.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
   "updatedAt": "2026-11-07",
@@ -129,9 +129,9 @@
         "Die Software kostet in beiden Fällen nichts. Die tatsächlichen Ausgaben entstehen an drei Stellen:"
       ],
       "bullets": [
-        "**Server.** Das kann Ihr Computer sein, der ständig eingeschaltet bleibt, oder ein VPS, ein gemieteter virtueller Server. Der VPS gibt Root-Zugriff, die volle Kontrolle über die Maschine, aber Sie sind es, der das System aktualisiert und schützt. Je mehr RAM, desto mehr Programme laufen gleichzeitig, ohne zu haken.",
-        "**Verwalteter Tarif.** Hostinger installiert, aktualisiert und betreut den Assistenten. OpenClaw und Hermes Agent sind im selben Tarif, „AI automation apps“.",
-        "**KI-Modell.** Der Assistent lässt seine Antworten von einem Modell wie Claude, GPT oder Gemini erzeugen, das die Nutzung berechnet. Es gibt zwei Wege zu zahlen: einen eigenen API-Schlüssel, bei dem der Anbieter direkt mit Ihnen abrechnet, oder bei Hostinger gekaufte KI-Guthaben. Der verwaltete Tarif von OpenClaw und der von Hermes Agent enthalten ein Startguthaben; das Aufladen steht auf keiner öffentlichen Seite, prüfen Sie es also im Dashboard. Bei Nous Portal ist der Preis auf der Projektseite nicht angegeben."
+        "**Server oder verwalteter Tarif.** Sie können den Agenten auf Ihrem eigenen Computer ausführen, einen VPS mieten und selbst verwalten oder die verwaltete Installation und Wartung buchen. Vergleichen Sie Ressourcen und Betriebsverantwortung: RAM allein garantiert nicht, dass eine Last ohne Hänger läuft.",
+        "**Bei Hostinger.** OpenClaw und Hermes Agent erscheinen im selben Tarif, „AI automation apps“. Die Tarifoptionen stehen in der Tabelle weiter unten.",
+        "**KI-Modell.** Der Assistent nutzt ein externes Modell für Antworten. Die Kosten hängen vom gewählten Modell und von der Zahl der Gespräche ab, und die Zahlungswege stehen unter „Bevor Sie installieren“. Bei Nous Portal ist der Preis auf der Projektseite nicht angegeben."
       ],
       "postParagraphs": [
         "Die monatlichen Kosten der Modellnutzung sind in den Quellen nicht angegeben: Sie hängen vom gewählten Modell und von der Zahl der Gespräche ab. Deshalb enthält dieser Leitfaden keine Schätzung der monatlichen Gesamtsumme."
@@ -143,7 +143,7 @@
         "Bevor Sie anfangen, klären Sie drei Dinge. Sie gelten für beide Agenten."
       ],
       "bullets": [
-        "**KI-Modell.** Der Agent antwortet nicht von allein: Er lässt seine Antworten von einem Modell eines anderen Unternehmens erzeugen. Bei Hostinger nutzen Sie die KI-Guthaben des Tarifs oder Ihren API-Schlüssel, mit dem das Programm mit dem Anbieter spricht. Die Nutzung berechnet der Anbieter, direkt Ihnen.",
+        "**KI-Modell.** Wählen Sie Zugang und Abrechnung: Mit eigenem API-Schlüssel rechnet der Anbieter direkt mit Ihnen ab; bei Hostinger-Guthaben prüfen Sie Saldo und Plattformbedingungen. Behandeln Sie nicht beide Wege als direkte Anbieterabrechnung.",
         "**Ein Nachrichtenkanal.** Telegram ist der einfachste Weg. Sie erstellen den Bot bei BotFather, dem offiziellen Telegram-Bot zum Erstellen von Bots, und bewahren den Token auf. WhatsApp kommt als verknüpftes Gerät hinzu, per QR-Code-Scan.",
         "**Wer sich um den Server kümmert.** Beim verwalteten Tarif aktualisiert und schützt Hostinger. Beim VPS liegt die Aktualisierung bei Ihnen, über die Schaltfläche Update im Docker Manager, und die Sicherheit des Servers ebenfalls. Docker ist das Programm, das jede Anwendung isoliert in einem Container ausführt."
       ],
@@ -218,15 +218,15 @@
         ]
       },
       "postParagraphs": [
-        "Der verwaltete Tarif enthält ein Startguthaben an KI-Credits, und was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung und Sicherheit des Servers liegen bei Ihnen.",
-        "Beim verwalteten Tarif haben Sie 30 Tage, um eine Erstattung zu beantragen. Beim VPS gilt nach einer abgeschlossenen VPS-Erstattung eine Sperrfrist von 180 Tagen bis zur nächsten. Upgrades für den VPS und Zahlungen in Kryptowährung sind nicht erstattungsfähig.",
+        "Prüfen Sie beim verwalteten Angebot und im Dashboard, ob KI-Credits enthalten sind, wie hoch das Guthaben ist und was bei dessen Verbrauch geschieht. Gehen Sie weder von fortgesetztem Betrieb noch von automatischer Abrechnung aus. Beim VPS installiert Hostinger den Assistenten mit Docker; Aktualisierung und Sicherheit des Servers liegen bei Ihnen.",
+        "Der verwaltete Tarif hat 30 Tage für eine Erstattungsanfrage gemäß den Produktbedingungen; beim VPS prüfen Sie vor dem Kauf die anwendbare Richtlinie. Upgrades für den VPS und Zahlungen in Kryptowährung sind nicht erstattungsfähig.",
         "Wenn Sie die Anforderungen durchrechnen wollen, bevor Sie den Tarif wählen, lesen Sie den [besten VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw). Zur Aktion sehen Sie [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote)."
       ]
     },
     {
       "heading": "Gutschein SONAR20",
       "paragraphs": [
-        "Nutzen Sie den Code **SONAR20** im Gutscheinfeld des Warenkorbs oder gehen Sie über den Link dieses Artikels: Das sind **20 % auf den ersten Zeitraum**, im Monats- oder Jahrestarif, für Neu- und Bestandskunden. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Prüfen Sie den Betrag im Warenkorb, bevor Sie zahlen.",
+        "Geben Sie **SONAR20** im Warenkorb ein: 20 % im ersten Zeitraum eines berechtigten Neukaufs, monatlich oder jährlich, auch mit bestehendem Konto. Domainregistrierung und Verlängerung sind ausgeschlossen; die Verlängerung wird zum Listenpreis berechnet. Bedingungen stehen auf der [Hostinger-Seite](/de/coupons/hostinger).",
         "Wo Sie den Code einfügen, steht in [so nutzen Sie den Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
       ]
     },
@@ -238,7 +238,7 @@
         "Muss man programmieren können? Für den verwalteten Tarif nicht: Sie wählen die Kanäle und fügen den Token ein. Beim VPS braucht es Grundwissen über Server, etwa Root, Docker und Aktualisierungen. Programmieren kommt nur ins Spiel, wenn Sie den Code des Projekts anpassen wollen.",
         "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person oder ein Team mit gegenseitigem Vertrauen, keine direkte Erreichbarkeit aus dem Internet und eine Prüfung dessen, was Sie von Dritten installieren.",
         "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keinen der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README von Hermes Agent führt den Anthropic-Schlüssel unter den Secrets auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, OpenClaw.",
-        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+        "Können Hostinger-Bestandskunden SONAR20 nutzen? Ja, bei einem berechtigten Neukauf mit demselben Konto; die Verlängerung des bestehenden Dienstes ist ausgeschlossen. Er gibt 20 % auf die erste Laufzeit, und Domainregistrierungen sind ebenfalls ausgeschlossen. Prüfen Sie den Gesamtbetrag."
       ]
     },
     {
@@ -252,7 +252,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+    "text": "SONAR20 gibt 20 % im ersten Zeitraum eines berechtigten Neukaufs. Domainregistrierungen und Verlängerungen sind ausgeschlossen.",
     "label": "Tarife mit SONAR20 ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

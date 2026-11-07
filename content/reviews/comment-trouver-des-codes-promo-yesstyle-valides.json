@@ -31,7 +31,7 @@
     "Apprend à distinguer le Coupon Code du Reward Code pour éviter les erreurs au paiement",
     "Explique le cumul : ajouter le coupon du mois à CECILIA010",
     "Montre comment économiser jusqu'à 5 % de plus avec le code officiel d'influenceuse",
-    "Liste les sources officielles de coupons YesStyle pour éviter les codes faux ou périmés",
+    "Indique où trouver les coupons YesStyle en cours pour éviter les codes faux ou périmés",
     "Renvoie à la page à jour d'Em Casa com Cecília, avec la liste de coupons vérifiée"
   ],
   "cons": [
@@ -39,7 +39,7 @@
     "La réduction de CECILIA010 varie entre 5 % sur le premier achat et 2 % sur les achats suivants",
     "Le total est débité dans la devise choisie sur le site, au taux de change de YesStyle, et votre banque peut facturer des frais d'achat international"
   ],
-  "pullQuote": "La clé de la plus grosse réduction chez YesStyle, c'est le duo : appliquez le coupon de la promotion dans le champ Coupon Code et CECILIA010 dans le champ Reward Code pour obtenir jusqu'à 5 % de plus.",
+  "pullQuote": "Saisissez CECILIA010 dans le champ Reward Code : 5 % sur le premier achat et 2 % sur les suivants. Si la promotion le permet, ajoutez aussi un coupon dans le champ Coupon Code et vérifiez les deux réductions dans le récapitulatif de la commande.",
   "productSpec": [
     {
       "key": "Boutique",
@@ -170,7 +170,7 @@
     {
       "heading": "Où trouver les coupons YesStyle en cours",
       "paragraphs": [
-        "Pour suivre les coupons du mois sans tomber sur un code périmé, commencez par les sources officielles de YesStyle :",
+        "Vous pouvez consulter la bannière et la newsletter de YesStyle ou la sélection de coupons de notre blog. La liste ci-dessous distingue ces sources :",
         "1. La bannière principale de YesStyle : la page d'accueil de la boutique met souvent en avant, en haut, le coupon promotionnel actif.",
         "2. La newsletter officielle : en vous abonnant à la newsletter du site, vous recevez les alertes de ventes flash de 72 ou 96 heures.",
         "3. Notre page de coupons : une sélection du blog, partenaire de YesStyle, avec les codes en cours et le lien vers les règles de la marque."

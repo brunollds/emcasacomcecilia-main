@@ -150,7 +150,7 @@
         "**KVM 8 (32 GB).** Makes sense only with a larger local model. The documentation does not say how much memory each large recipe needs."
       ],
       "postParagraphs": [
-        "The SONAR20 code gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and check the amount in the cart before paying. Hostinger is running Black Friday, and prices change: [see the campaign](/en/reviews/hostinger-black-friday)."
+        "SONAR20: 20% off the first period of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout. [See how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [see the campaign](/en/reviews/hostinger-black-friday)."
       ]
     },
     {
@@ -228,7 +228,7 @@
       "heading": "SONAR20 coupon",
       "paragraphs": [],
       "postParagraphs": [
-        "Use the code **SONAR20** in the cart's coupon field, or come in through this article's link: it is **20% off the first period**, on a monthly or annual plan, for new or existing customers. The 20% applies to every new purchase; renewals are charged at the list price, with no discount. Check the amount in the cart before paying, because Black Friday changes prices. See [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and [Hostinger's page on the site](/en/coupons/hostinger)."
+        "**SONAR20**: **20% off the first period** of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout. See the steps in [how to use the SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral) and the conditions at [Hostinger's page on the site](/en/coupons/hostinger)."
       ]
     },
     {
@@ -236,10 +236,10 @@
       "bullets": [
         "What is the minimum server for OpenClaw? The official documentation publishes no minimum RAM, CPU or disk; the stable release requires Node 24.22.1 or newer (or 26.12.1). With an API key or credits, KVM 1 is the starting point. With a local model, the 8 GiB floor applies to the smallest recipe only, and KVM 4 is the first with room to spare for it.",
         "Can you run it without an API key? Yes, with a local model, but then memory becomes the problem: the documentation gives 8 GiB as the floor for its smallest local recipe, with a 64K context, and warns that this does not guarantee the model fits or runs well. With Hostinger's credits, you do not need an account with an AI provider, but you pay for usage.",
-        "Is Oracle really free? Yes, as long as the account stays within Always Free: 2 OCPUs and 12 GB on the Arm A1, plus the Micro instances. An instance that sits idle for 7 days, with CPU (95th percentile) and network below 20% and, on the A1, memory too, can be reclaimed by Oracle.",
+        "Is Oracle really free? It can be, within the Always Free limits and regional availability. Oracle may reclaim an idle instance based on the CPU, network and, on A1, memory usage criteria it publishes. See the resources and conditions above.",
         "Mac mini or VPS? It depends on whether the computer can stay on 24 hours. If it can, running at home removes the server fee; if it cannot, choose a VPS or the managed option.",
-        "Is there a Hostinger discount coupon for an OpenClaw VPS? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
-        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+        "Is there a Hostinger discount coupon for an OpenClaw VPS? SONAR20: 20% off the first period of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout.",
+        "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%, except domain registration. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
     {
@@ -252,7 +252,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Use the code SONAR20 in the cart's coupon field, or come in through this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+    "text": "SONAR20: 20% off the first period of an eligible new purchase, including with an existing account. Domain registration and renewal are excluded; check your plan at checkout.",
     "label": "See the plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

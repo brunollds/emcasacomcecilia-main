@@ -196,7 +196,7 @@
     {
       "heading": "Code SONAR20",
       "paragraphs": [
-        "Utilisez le code **SONAR20** dans le champ de code promo du panier, ou passez par le lien de cet article : c'est **20 % sur la première période**, en offre mensuelle ou annuelle, pour un client nouveau ou ancien. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. La règle complète et les autres produits sont dans [codes promo Hostinger](/fr/coupons/hostinger).",
+        "Saisissez **SONAR20** au panier : 20 % sur la première période d'un nouvel achat éligible, même avec un compte existant. Enregistrement de domaine et renouvellement sont exclus. Vérifiez le produit et le total avant de payer. Conditions sur [codes promo Hostinger](/fr/coupons/hostinger).",
         "Les prix et les conditions changent ; vérifiez le montant dans le panier avant de payer."
       ]
     },
@@ -216,8 +216,8 @@
         "Faut-il savoir coder pour utiliser le créateur IA ? Non. La page dit qu'il n'exige aucune connaissance technique dans les deux modes. Pour ceux qui codent, le mode IA propose un éditeur de code.",
         "Peut-on migrer du créateur IA vers un autre hébergeur ? La page dit que le code source peut être exporté et hébergé ailleurs. Le back-end intégré, avec base de données et connexion, reste chez Hostinger, donc une appli demande une reconfiguration en dehors.",
         "Le créateur IA convient-il à une boutique en ligne ? Pour une petite boutique, oui : la boutique en ligne est disponible sur les offres Unlimited et Cloud Startup, en option payante. Pour une grande boutique, avec des règles de livraison et de paiement, WordPress avec WooCommerce donne plus de contrôle.",
-        "Existe-t-il un code promo pour le créateur IA de Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
-        "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+        "Existe-t-il un code pour le créateur IA Hostinger ? Utilisez SONAR20 pour 20 % sur la première période d'un nouvel achat éligible. Vérifiez l'abonnement et les services inclus au panier ; enregistrement de domaine et renouvellement sont exclus.",
+        "Un client Hostinger existant peut-il utiliser SONAR20 ? Oui, sur un nouvel achat éligible avec le même compte, pas sur le renouvellement du service actuel. La réduction est de 20 % sur la première période ; l'enregistrement de domaine est également exclu. Vérifiez le total du panier."
       ]
     },
     {
@@ -230,7 +230,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Utilisez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+    "text": "Saisissez SONAR20 au panier pour 20 % sur la première période d'un nouvel achat éligible. Enregistrement de domaine et renouvellement sont exclus ; vérifiez le produit et le total avant de payer.",
     "label": "Voir les forfaits avec le SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

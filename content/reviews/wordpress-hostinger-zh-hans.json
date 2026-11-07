@@ -113,7 +113,7 @@
       "postParagraphs": [
         "页面上没有显示活动的结束日期，价格可能变化。"
       ],
-      "emphasis": "选套餐请看续费那一列，不要只看入门价。"
+      "emphasis": "比较合同总额、折算月费与续费。入门价或续费价单独都不能决定选择。"
     },
     {
       "heading": "套餐已包含的内容",
@@ -129,7 +129,7 @@
     {
       "heading": "开始使用：清单",
       "bullets": [
-        "**1. 数一数网站。** 一个、三个，还是更多。大多数情况下，这一点就决定了套餐。",
+        "**1. 列出需求。** 选择前确认网站数量、空间、应用、预期负载和恢复需求。",
         "**2. 确定域名。** 先确认套餐是否含免费域名，或用你已有的域名。记下它的续费日期。",
         "**3. 在面板里安装 WordPress。**不需要手动下载文件。",
         "**4. 先选主题，再写内容。** 网站内容装满后再换主题很费事。选简单、更新频繁的主题。",
@@ -143,13 +143,13 @@
     {
       "heading": "如果你不想用 WordPress",
       "paragraphs": [
-        "如果你不想安装主题和插件，也不想更新任何东西，同样的套餐里还有 Hostinger 的 AI 建站工具。按项目类型的比较见 [Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？](/zh-hans/reviews/hostinger-ai-builder-zh-hans)。如果你需要的功能已经有了插件名字，就留在 WordPress。"
+        "若想减少主题与插件维护，请比较AI建站与WordPress。按功能、集成和维护方式选择，不要只凭插件名字决定。按项目比较见[Hostinger AI Builder（原 Horizons）：值得用，还是选 WordPress？](/zh-hans/reviews/hostinger-ai-builder-zh-hans)。"
       ]
     },
     {
       "heading": "SONAR20 优惠码与价格",
       "paragraphs": [
-        "在购物车的优惠码栏输入 **SONAR20**，或通过本文链接进入，即可**首个周期享 20% 折扣**。SONAR20 适用于 WordPress 套餐，请在付款前到购物车确认价格。首个周期之后，按续费价计算，没有 SONAR20 的 20% 折扣。规则和其他产品见 [Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
+        "**SONAR20**适用于符合资格的新购首个合同期间，可享20%折扣，已有账户也可适用。请确认WordPress套餐是否适用及购物车总额；域名注册与续费除外。条件见[Hostinger 优惠码页面](/zh-hans/coupons/hostinger)。"
       ]
     },
     {
@@ -166,9 +166,9 @@
         "Hostinger 上最便宜的 WordPress 套餐是哪个？是 Premium：48 个月预付每月 US$ 2.49，总价 US$ 119.52，最多 3 个网站。续费为每月 US$ 10.99。",
         "Hostinger 会预装 WordPress 吗？在主机面板里安装，不需要手动下载文件。步骤见上面的清单。",
         "网店适合哪个 WordPress 套餐？Unlimited：网站不限，每日备份。流量非常大的网店可以看 Cloud Startup。",
-        "SONAR20 能用于 WordPress 套餐吗？能。请在购物车确认价格。20% 适用于首个周期；续费按标价收费，没有折扣。",
+        "SONAR20 能用于 WordPress 套餐吗？ SONAR20：符合条件的新购首个周期优惠20%。请在购物车确认WordPress套餐；域名注册与续费除外。",
         "续费价和促销价一样吗？不一样。第一个 48 个月周期结束后，按续费价计算：Premium 为每月 US$ 10.99。",
-        "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+        "已有客户也能用SONAR20吗？同一账户符合资格的新购可适用，但当前服务的续费不适用，域名注册也除外。输入代码后请确认购物车总额。"
       ]
     },
     {
@@ -181,7 +181,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。WordPress 套餐也适用，请在购物车确认价格。",
+    "text": "SONAR20：符合条件的新购首个周期优惠20%。请在购物车确认WordPress套餐；域名注册与续费除外。",
     "label": "通过 SONAR20 查看 WordPress 套餐",
     "url": "https://www.hostinger.com/wordpress-hosting?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -209,7 +209,7 @@
     ],
     "skipIf": [
       "如果 Unlimited 已经够用，就别选 Cloud Startup：它最贵，续费也最高。",
-      "如果不想装主题、装插件、做任何更新，就别用 WordPress：同样的套餐里还有 AI 建站工具。"
+      "若不想管理主题与插件，也可比较其他工具；改用AI建站前请确认功能、集成与费用。"
     ]
   }
 }

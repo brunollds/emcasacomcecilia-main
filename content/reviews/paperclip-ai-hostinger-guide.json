@@ -46,13 +46,14 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Paperclip organizes a team of AI agents, with roles, goals and a spending cap for each one, but it does not run the AI: the keys are yours. On Hostinger, it runs on the managed plan or on a VPS. What changes the decision is who looks after the server; see the comparison below."
+        "Paperclip organizes teams of AI agents with roles, goals, budgets and approvals. You connect the agents to models through your own accounts, by API or compatible subscription. On Hostinger, the main choice is who manages the server: Hostinger on managed hosting, or you on a VPS."
       ]
     },
     {
       "heading": "What Paperclip is, in plain language",
       "paragraphs": [
-        "Paperclip is a program for organizing a team of AI agents: instead of a single assistant, you build the team with roles, goals and a spending cap for each agent. Think of a small company. There is an owner, managers and employees, each with their own job. Paperclip does the same with AI agents: each agent has a role, a job description and a boss. Whoever is above delegates tasks, and whoever is below answers to them. In the documentation, five ideas show up in the project."
+        "Think of a small company: each agent has a role, a job description and a boss. Whoever coordinates hands out the tasks; the others carry them out and report progress.",
+        "Paperclip organizes this structure and brings together goals, budgets, approvals and records. The five concepts below show how the documentation describes it."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -73,7 +74,7 @@
     {
       "heading": "Is it reliable? What you can verify",
       "paragraphs": [
-        "“Reliable” is a big word. You can separate what is verifiable from what is not.",
+        "To assess the project, check where the code comes from, the license, where it runs and what the sources say about data and security.",
         "**Who maintains it.** The official repository, github.com/paperclipai/paperclip, says the project is maintained by the Paperclip team, and the copyright notice reads “MIT © 2026 Paperclip Labs, Inc.”. The project’s website, paperclip.ing, points to the same repository. Do not confuse it with the forks and copies of the code that show up in search.",
         "**License.** MIT. It means the code is open: anyone can read it, audit it and use it. It also means nobody is obliged to keep maintaining the version you installed.",
         "**Where it runs.** You choose. It can run on your computer, on a server of your own or on Hostinger’s managed plan. The project’s website says the self-hosted version does not require a Paperclip account.",
@@ -90,8 +91,8 @@
       "bullets": [
         "**Agents to coordinate.** Paperclip does not run an AI model: it coordinates agents that work through other programs, such as Claude Code, Codex, Cursor, Gemini CLI and OpenClaw.",
         "**Postgres.** This is the database where Paperclip stores agents, tasks and records. In the local install, it comes built in and starts on its own. In production, the project itself recommends pointing to a Postgres of your own. On managed, the database is included. On the VPS, the database is up to you.",
-        "**Your own AI keys.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. The provider charges for usage, directly to you. On managed, Hostinger asks for an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription, and it does not list included AI credits. Without one of these connections, the team does not answer.",
-        "**A monthly budget per agent.** Set the cap before you turn the team on. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Without a cap, the spending is whatever the provider charges at the end of the month.",
+        "**AI connection.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. With a key, the provider bills you directly for usage. On managed, Hostinger asks for an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription, and it does not list included AI credits. Without one of these connections, the team does not answer.",
+        "**Budget and billing.** Configure the budget and pause policy before starting the team. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Also monitor usage and limits in the model provider’s dashboard.",
         "**Server knowledge, if you go with a VPS.** On a VPS, you need to know what Docker is, a program that runs each application isolated in a container, and accept updating and securing the system. If that is not for you, managed solves it."
       ],
       "postParagraphs": [
@@ -131,21 +132,21 @@
             "Up to you"
           ],
           [
-            "AI keys",
-            "Yours; the page does not list Hostinger credits",
+            "AI connection",
+            "API key or active ChatGPT subscription, depending on setup; the page does not list included AI credits",
             "Yours; the page talks about bringing your own API keys"
           ],
           [
             "Refund",
             "30 days",
-            "30 days, only if your last VPS refund was completed more than 180 days ago"
+            "30 days under the policy; a 180-day interval applies between VPS refunds"
           ]
         ]
       },
       "postParagraphs": [
         "**Managed is for you if** you want Paperclip running without installing anything, you do not know what root or Docker is, and you prefer Hostinger to look after the database, the updates and the backups.",
         "**The VPS is for you if** you want to run other programs on the same server, such as a website or n8n (an automation tool), you know your way around a server or want to learn, and you want the database and the configuration under your control.",
-        "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. The 180 days count from the completion of your last VPS refund: if you received one in the last 180 days, the new VPS does not have the 30-day guarantee."
+        "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. A 180-day interval applies to previous VPS refunds; check the conditions and exclusions in the [refund policy](https://www.hostinger.com/legal/refund-policy) before buying."
       ]
     },
     {
@@ -161,7 +162,7 @@
       ]
     },
     {
-      "heading": "How to get started, in order",
+      "heading": "Three ways to get started: choose one",
       "bullets": [
         "**Run it on your computer.** The official README requires Node.js 24.11 or newer. Check the version with the command node -v in the terminal, then run npx paperclipai@latest onboard --yes. The interface opens at http://localhost:3100, and the Postgres database is created on its own. There is no server cost, but Paperclip only runs while your computer is on. If you subscribe to Claude or Codex, the README also lets you sign in through the subscription, without an API key, with Python 3 and the provider’s program installed.",
         "**Subscribe to managed.** Sign up for the “AI automation apps” plan for 24 months, with the code SONAR20 in the cart. After the subscription, Hostinger prepares the instance and the database. You log into the panel, connect your agents and paste in an AI key (or use the ChatGPT subscription).",
@@ -177,11 +178,11 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Is Paperclip free? The program is open source, under the MIT license, and you can install it on your computer without paying Hostinger. The use of AI models is charged by the provider, and managed and the VPS are paid plans.",
+        "Is Paperclip free? The program is open source under the MIT license and can be installed on your computer without buying Hostinger hosting. Managed hosting and VPS plans are paid. Model access uses your own accounts through an API or supported subscription, under the provider’s costs and limits.",
         "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. We found no independent audit in the sources read.",
         "Does it need an API key? In most cases, yes. On managed, Hostinger accepts an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription. On the VPS, the page asks you to bring your own keys. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
         "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
-        "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+        "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },

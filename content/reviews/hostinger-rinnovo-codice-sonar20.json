@@ -55,7 +55,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Quando sottoscrivi un piano nuovo, inserisci il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% di sconto sull'acquisto.",
+    "text": "Per un nuovo piano idoneo, inserisci SONAR20 nel carrello per il 20% di sconto sull'acquisto. Il codice non vale per rinnovi o domini: verifica il totale prima di pagare.",
     "label": "Vedi i piani Hostinger con il SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true
@@ -88,7 +88,7 @@
       ],
       "postParagraphs": [
         "Il nostro calcolo, sui prezzi della tabella: rinnovare il Premium per altri 48 mesi costa 527,52 US$, più di cinque volte i 95,52 US$ pagati nel primo periodo.",
-        "Se sei indeciso tra due piani, confrontali dalla colonna del rinnovo, non da quella d'ingresso: è lì che si ferma il budget dopo il primo periodo."
+        "Confronta il costo totale del primo periodo con quello del rinnovo per la durata che vuoi mantenere, oltre alle funzioni necessarie. La tabella mostra quanto può cambiare il budget; prima di decidere, verifica nel tuo account l'importo e i metodi di pagamento del rinnovo."
       ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-barras-it.webp",
@@ -201,7 +201,7 @@
       ],
       "postParagraphs": [
         "Spegnerlo non cambia lo stato del servizio: resta attivo fino alla scadenza e non viene addebitato di nuovo. Quello che è già stato addebitato non torna indietro per questa strada; il rimborso ha una regola propria, nel capitolo seguente. Nel piano mensile con fattura in sospeso, la fattura viene annullata e l'abbonamento scade a fine ciclo. Con fattura pagata in parte, con crediti applicati o con ciclo di un anno o più, può servire parlare con l'assistenza, tramite l'assistente IA di Hostinger.",
-        "Due dettagli pesano sulla decisione. Per cambiare la durata del piano al rinnovo, il rinnovo automatico deve essere attivo. E se il piano scade, l'avviso sulla sua scheda dice che i siti vanno offline. Nel dubbio, spegni l'interruttore solo quando hai già deciso di non rinnovare."
+        "Per cambiare la durata del piano al rinnovo, il rinnovo automatico deve essere attivo. Se il piano scade, i siti possono andare offline, come avverte la scheda del servizio. Scegli tra addebito automatico e rinnovo manuale considerando prezzo e data. Se lo disattivi ma vuoi mantenere il servizio, programma il rinnovo prima della scadenza."
       ]
     },
     {
@@ -228,7 +228,7 @@
     {
       "heading": "Il dominio resta fuori",
       "paragraphs": [
-        "Il dominio non ha rimborso sul rinnovo e non prende nemmeno il SONAR20, quindi chiede una decisione a parte. Il suo rinnovo ha un interruttore proprio, nell'area domini del pannello, e viene addebitato 27 giorni prima della scadenza. Solo la registrazione nuova ha un breve termine di rimborso, di 96 ore in genere, a seconda dell'estensione; il rinnovo non ne ha nessuno.",
+        "Il dominio richiede una decisione separata: il rinnovo è escluso da SONAR20 e dal rimborso standard. Ha un interruttore proprio nella sezione domini del pannello, con addebito previsto 27 giorni prima della scadenza. Per una nuova registrazione, il termine di rimborso dipende dall'estensione (96 ore in genere) e dalle condizioni della politica: le 96 ore non valgono per tutti i domini.",
         "Decidi il dominio prima di quell'addebito: guarda il prezzo, verifica se deve restare in questo registrar e solo allora lascialo rinnovare. I percorsi per registrare, trasferire o lasciare fuori il dominio sono in [dominio su Hostinger](/it/reviews/dominio-hostinger-comprare-o-trasferire)."
       ]
     },
@@ -245,7 +245,7 @@
         "Tratta il dominio a parte, con prezzo e decisione propri."
       ],
       "postParagraphs": [
-        "Nel dubbio, lascia attivo il rinnovo automatico su ciò che usi e spegnilo solo su ciò che hai già deciso di lasciare."
+        "Lascia attivo il rinnovo automatico per i servizi che vuoi continuare a pagare al prezzo indicato. Se preferisci decidere prima di ogni addebito, disattivalo e annota il termine per rinnovare manualmente. Controlla separatamente ogni servizio, domini compresi."
       ],
       "emphasis": "Il rinnovo si decide con calma, prima che arrivi l'addebito, e non il giorno della scadenza."
     },
@@ -254,7 +254,7 @@
       "bullets": [
         "Il coupon di Hostinger vale sul rinnovo? No: il SONAR20 dà il 20% su un acquisto nuovo, e il rinnovo costa il prezzo di listino. Il capitolo sul SONAR20 spiega dove entra il codice.",
         "Come annullare il rinnovo automatico di Hostinger? In Fatturazione, Abbonamenti, spegni l'interruttore del servizio; resta attivo fino alla scadenza. Il passo per passo è nel capitolo su come spegnerlo.",
-        "Hostinger rimborsa il rinnovo? Sì, entro 30 giorni dall'addebito, per l'hosting e il VPS KVM; il rinnovo del dominio non è rimborsabile. Le eccezioni sono nel capitolo sul rimborso.",
+        "Hostinger rimborsa il rinnovo? Sì, entro 30 giorni dall'addebito, per l'hosting e il VPS KVM idonei; il rinnovo del dominio non è rimborsabile. Le eccezioni sono nel capitolo sul rimborso.",
         "Quando Hostinger addebita il rinnovo automatico? Nel piano annuale, 14 giorni prima della scadenza; nel mensile, il giorno della scadenza. Il dominio ha un termine proprio, nel capitolo su quando Hostinger addebita.",
         "Cosa succede se il piano di Hostinger scade? I siti vanno offline, come avverte la scheda del piano. Per non arrivarci, rinnova prima della scadenza o lascia attivo il rinnovo automatico."
       ]

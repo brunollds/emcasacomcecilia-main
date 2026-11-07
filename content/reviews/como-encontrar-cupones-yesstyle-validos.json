@@ -31,7 +31,7 @@
     "Enseña a distinguir el Coupon Code del Reward Code para evitar errores en el checkout",
     "Explica cómo acumular el cupón del mes con CECILIA010",
     "Muestra cómo ahorrar hasta un 5% extra con el código oficial de influencer",
-    "Enumera las fuentes oficiales de cupones de YesStyle para evitar códigos falsos o caducados",
+    "Muestra dónde encontrar los cupones vigentes de YesStyle para evitar códigos falsos o caducados",
     "Te lleva a la página actualizada de Em Casa com Cecília con la lista de cupones comprobada"
   ],
   "cons": [
@@ -39,7 +39,7 @@
     "El descuento de CECILIA010 varía entre un 5% en la primera compra y un 2% en las compras siguientes",
     "El total se cobra en la moneda que elijas en el sitio, al tipo de cambio de YesStyle, y tu banco puede aplicar una comisión por compra internacional"
   ],
-  "pullQuote": "La clave para el mayor descuento en YesStyle es la combinación: aplica el cupón de la promoción en el campo Coupon Code y CECILIA010 en el campo Reward Code para obtener hasta un 5% extra.",
+  "pullQuote": "Introduce CECILIA010 en el campo Reward Code: 5% en la primera compra y 2% en las siguientes. Si la promoción lo permite, aplica también un cupón en el campo Coupon Code y comprueba ambos descuentos en el resumen del pedido.",
   "productSpec": [
     {
       "key": "Tienda",
@@ -170,7 +170,7 @@
     {
       "heading": "Dónde encontrar los cupones de YesStyle vigentes",
       "paragraphs": [
-        "Para seguir los cupones del mes sin toparte con un código caducado, empieza por las fuentes oficiales de YesStyle:",
+        "Puedes consultar el banner y el boletín de la propia YesStyle o la selección de cupones de nuestro blog. La lista siguiente distingue estas fuentes:",
         "1. Banner principal de YesStyle: la página de inicio de la tienda suele destacar arriba el cupón promocional activo.",
         "2. Boletín oficial: al suscribirte al boletín del sitio, recibes avisos de ofertas relámpago de 72 o 96 horas.",
         "3. Nuestra página de cupones: una selección del blog, colaborador de YesStyle, con los códigos vigentes y el enlace a las reglas de la marca."

@@ -45,13 +45,14 @@
     {
       "heading": "Kurze Antwort",
       "paragraphs": [
-        "Paperclip organisiert ein Team aus KI-Agenten, mit Rollen, Zielen und einer Ausgabengrenze für jeden, führt aber die KI nicht aus: Die Schlüssel sind Ihre. Bei Hostinger läuft es im verwalteten Tarif oder auf einem VPS. Entscheidend ist, wer sich um den Server kümmert; sehen Sie den Vergleich unten."
+        "Paperclip organisiert Teams aus KI-Agenten mit Rollen, Zielen, Budgets und Freigaben. Sie verbinden die Agenten über Ihre eigenen Konten mit den Modellen, per API oder unterstütztem Abonnement. Bei Hostinger entscheidet vor allem die Serververwaltung: Hostinger im verwalteten Tarif oder Sie selbst beim VPS."
       ]
     },
     {
       "heading": "Was Paperclip ist, in einfachen Worten",
       "paragraphs": [
-        "Paperclip ist ein Programm, um ein Team aus KI-Agenten zu organisieren: Statt eines einzelnen Assistenten stellen Sie das Team mit Rollen, Zielen und einer Ausgabengrenze für jeden Agenten zusammen. Denken Sie an ein kleines Unternehmen. Es gibt eine Inhaberin oder einen Inhaber, Führungskräfte und Mitarbeitende, jeweils mit eigener Aufgabe. Paperclip macht das mit KI-Agenten: Jeder Agent hat eine Rolle, eine Stellenbeschreibung und einen Vorgesetzten. Wer weiter oben steht, delegiert Aufgaben, und wer weiter unten steht, berichtet ihm. In der Dokumentation tauchen im Projekt fünf Ideen auf."
+        "Stellen Sie sich ein kleines Unternehmen vor: Jeder Agent hat eine Rolle, eine Aufgabenbeschreibung und einen Vorgesetzten. Die Koordination verteilt Aufgaben; die anderen führen sie aus und berichten über den Fortschritt.",
+        "Paperclip organisiert diese Struktur und bündelt Ziele, Budgets, Freigaben und Protokolle. Die folgenden fünf Begriffe zeigen, wie die Dokumentation das beschreibt."
       ],
       "image": {
         "src": "/images/reviews/hostinger/paperclip-ai-hostinger-organograma-pt.webp",
@@ -72,7 +73,7 @@
     {
       "heading": "Ist es vertrauenswürdig? Was sich überprüfen lässt",
       "paragraphs": [
-        "„Vertrauenswürdig“ ist ein großes Wort. Man kann trennen, was überprüfbar ist und was nicht.",
+        "Um das Projekt einzuschätzen, prüfen Sie Herkunft und Lizenz des Codes, den Betriebsort sowie die Angaben der Quellen zu Daten und Sicherheit.",
         "**Wer es pflegt.** Das offizielle Repository, github.com/paperclipai/paperclip, nennt das Paperclip-Team als Betreuer des Projekts, und der Copyright-Hinweis lautet „MIT © 2026 Paperclip Labs, Inc.“. Die Website des Projekts, paperclip.ing, verweist auf dasselbe Repository. Verwechseln Sie es nicht mit Forks und Kopien des Codes, die in der Suche auftauchen.",
         "**Lizenz.** MIT. Das heißt, der Code ist offen: Jeder darf ihn lesen, prüfen und nutzen. Es heißt auch, dass niemand verpflichtet ist, die von Ihnen installierte Version weiter zu pflegen.",
         "**Wo es läuft.** Das entscheiden Sie. Es kann auf Ihrem Computer, auf einem eigenen Server oder im verwalteten Tarif von Hostinger laufen. Die Website des Projekts sagt, dass die selbst gehostete Version kein Paperclip-Konto verlangt.",
@@ -89,8 +90,8 @@
       "bullets": [
         "**Agenten zum Koordinieren.** Paperclip führt kein KI-Modell aus: Es koordiniert Agenten, die über andere Programme laufen, etwa Claude Code, Codex, Cursor, Gemini CLI und OpenClaw.",
         "**Postgres.** Das ist die Datenbank, in der Paperclip Agenten, Aufgaben und Protokolle speichert. Bei der lokalen Installation ist sie eingebaut und startet von selbst. In der Produktion empfiehlt das Projekt selbst, auf ein eigenes Postgres zu zeigen. Beim verwalteten Angebot ist die Datenbank inklusive. Beim VPS liegt die Datenbank bei Ihnen.",
-        "**Eigene KI-Schlüssel.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Der Anbieter berechnet die Nutzung direkt Ihnen. Beim verwalteten Angebot verlangt Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement und listet keine enthaltenen KI-Guthaben auf. Ohne eine dieser Verbindungen antwortet das Team nicht.",
-        "**Monatliches Budget pro Agent.** Legen Sie die Obergrenze fest, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Ohne Obergrenze sind die Ausgaben das, was der Anbieter am Monatsende berechnet.",
+        "**KI-Anbindung.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Mit dem Schlüssel berechnet der Anbieter die Nutzung direkt Ihnen. Beim verwalteten Angebot verlangt Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement und listet keine enthaltenen KI-Guthaben auf. Ohne eine dieser Verbindungen antwortet das Team nicht.",
+        "**Budget und Abrechnung.** Richten Sie Budget- und Pausenrichtlinien ein, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Überwachen Sie auch Verbrauch und Grenzen beim Modellanbieter.",
         "**Serverkenntnisse, wenn es ein VPS ist.** Beim VPS müssen Sie wissen, was Docker ist, ein Programm, das jede Anwendung isoliert in einem Container ausführt, und bereit sein, das System zu aktualisieren und abzusichern. Wenn das nichts für Sie ist, löst das verwaltete Angebot es."
       ],
       "postParagraphs": [
@@ -130,21 +131,21 @@
             "Bei Ihnen"
           ],
           [
-            "KI-Schlüssel",
-            "Ihre; die Seite listet keine Guthaben von Hostinger",
+            "KI-Anbindung",
+            "API-Schlüssel oder aktives ChatGPT-Abonnement je nach Einrichtung; die Seite nennt kein enthaltenes KI-Guthaben",
             "Ihre; die Seite spricht davon, eigene API-Schlüssel mitzubringen"
           ],
           [
             "Erstattung",
             "30 Tage",
-            "30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen abgeschlossen wurde"
+            "30 Tage laut Richtlinie; zwischen VPS-Erstattungen gilt ein Abstand von 180 Tagen"
           ]
         ]
       },
       "postParagraphs": [
         "**Das verwaltete Angebot passt zu Ihnen, wenn** Sie Paperclip laufen haben wollen, ohne etwas zu installieren, nicht wissen, was Root oder Docker ist, und es vorziehen, dass Hostinger sich um Datenbank, Updates und Backups kümmert.",
         "**Der VPS passt zu Ihnen, wenn** Sie andere Programme auf demselben Server betreiben wollen, etwa eine Website oder n8n (ein Automatisierungswerkzeug), sich mit Servern auskennen oder es lernen wollen und Datenbank und Konfiguration unter Ihrer Kontrolle haben möchten.",
-        "Zur Erstattung: Die 180-Tage-Regel für VPS ist dieselbe wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie des Unternehmens liest. Die 180 Tage zählen ab dem Abschluss Ihrer letzten VPS-Erstattung: Wenn Sie in den letzten 180 Tagen eine erhalten haben, gilt für den neuen VPS die 30-Tage-Garantie nicht."
+        "Zur Erstattung: Die 180-Tage-Regel für VPS ist dieselbe wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie des Unternehmens liest. Für frühere VPS-Erstattungen gilt ein Intervall von 180 Tagen; prüfen Sie Bedingungen und Ausschlüsse in der [Erstattungsrichtlinie](https://www.hostinger.com/legal/refund-policy) vor dem Kauf."
       ]
     },
     {
@@ -160,7 +161,7 @@
       ]
     },
     {
-      "heading": "So fangen Sie an, der Reihe nach",
+      "heading": "Drei Möglichkeiten zum Start: Wählen Sie eine aus",
       "bullets": [
         "**Auf Ihrem Computer betreiben.** Die offizielle README verlangt Node.js 24.11 oder neuer. Prüfen Sie die Version mit dem Befehl node -v im Terminal und führen Sie dann npx paperclipai@latest onboard --yes aus. Die Oberfläche öffnet sich unter http://localhost:3100, und die Postgres-Datenbank wird von selbst angelegt. Es entstehen keine Serverkosten, aber Paperclip läuft nur, solange der Computer eingeschaltet ist. Wenn Sie Claude oder Codex abonniert haben, erlaubt die README auch die Anmeldung über das Abonnement, ohne API-Schlüssel, mit installiertem Python 3 und dem Programm des Anbieters.",
         "**Das verwaltete Angebot buchen.** Bestellen Sie den Plan „KI-Automatisierungs-Apps“ mit 24 Monaten und dem Code SONAR20 im Warenkorb. Nach der Bestellung bereitet Hostinger die Instanz und die Datenbank vor. Sie melden sich im Panel an, verbinden Ihre Agenten und tragen einen KI-Schlüssel ein (oder nutzen das ChatGPT-Abonnement).",
@@ -176,7 +177,7 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Ist Paperclip kostenlos? Das Programm ist Open Source, unter MIT-Lizenz, und lässt sich auf Ihrem Computer installieren, ohne Hostinger zu bezahlen. Die Nutzung der KI-Modelle berechnet der Anbieter, und das verwaltete Angebot und der VPS sind kostenpflichtige Tarife.",
+        "Ist Paperclip kostenlos? Das Programm ist Open Source unter MIT-Lizenz und lässt sich ohne Hostinger-Vertrag auf Ihrem Computer installieren. Verwaltetes Hosting und VPS sind kostenpflichtig. Der Modellzugang erfolgt über Ihre eigenen Konten per API oder unterstütztem Abonnement, mit den Kosten und Grenzen des Anbieters.",
         "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. In den gelesenen Quellen haben wir kein unabhängiges Audit gefunden.",
         "Braucht man einen API-Schlüssel? In den meisten Fällen ja. Beim verwalteten Angebot akzeptiert Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement. Beim VPS verlangt die Seite, dass man eigene Schlüssel mitbringt. Auf dem Computer akzeptiert die README auch das Abonnement von Claude oder Codex, ohne API-Schlüssel.",
         "Läuft es mit Ollama? Das hängt vom Agenten ab, den Sie verbinden. Die README von Paperclip nennt Ollama nicht, ein Programm, um ein KI-Modell auf dem eigenen Computer auszuführen. OpenClaw dokumentiert zum Beispiel lokale Modelle; bei Paperclip liegt das Modell beim Agenten, den Sie verbinden.",

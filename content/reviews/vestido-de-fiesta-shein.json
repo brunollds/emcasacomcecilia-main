@@ -53,7 +53,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Un vestido de fiesta en SHEIN se elige por tres cosas: la ocasión, la tela y la fecha de llegada. Para Navidad y Nochevieja, el plazo pesa más que el modelo. Para graduación e invitada de boda, la duda es de color, largo y tono. Abajo, tres vestidos de la tienda con tela, forro y valoración."
+        "Empiece por el atuendo indicado en la invitación y la fecha. Entre estos ejemplos, Firerie tiene un modelo de un hombro en tul; ADYCE, con lentejuelas y abertura; Via Vilarinho exige comprobar el largo porque el título dice corto y la descripción dice midi. Después compare talla, forro y lavado."
       ]
     },
     {
@@ -111,7 +111,7 @@
           },
           {
             "piece": "Invitada de boda",
-            "howTo": "De día, tela ligera con zapato cerrado o sandalia baja; de noche, largo con tacón. El blanco queda para la novia.",
+            "howTo": "Tome como referencia el atuendo de la invitación. Tela, largo, calzado y color deben acompañar la ceremonia y lo que pidan los anfitriones; las combinaciones son sugerencias de estilo.",
             "occasion": "Ceremonia en iglesia o en salón, de día o de noche.",
             "pairsWith": [
               {
@@ -267,11 +267,11 @@
     {
       "heading": "Talla: use la medida de la prenda",
       "paragraphs": [
-        "No existe una tabla única de tallas: use la del vestido que eligió. SHEIN publica la guía de cada prenda, en centímetros y en pulgadas, con la forma de medir.",
+        "Use la tabla del vestido elegido y compruebe si indica medidas del cuerpo o de la prenda. Siga su método; no trate ambas medidas como iguales ni elija solo por la etiqueta.",
         "El Firerie se describe como slim fit, lo que pide una medida más precisa en el busto y la cintura."
       ],
       "postParagraphs": [
-        "Para tallas grandes, el método es el mismo: compare la medida de la prenda con la suya, no el número de la etiqueta."
+        "Para tallas grandes, compruebe primero si la tabla da medidas del cuerpo o de la prenda. Compare el cuerpo con una tabla corporal; para medidas de la prenda, use una prenda que le quede bien y considere tejido, corte y holgura deseada. La etiqueta sola no basta."
       ],
       "images": [
         {
@@ -293,7 +293,7 @@
       ]
     },
     {
-      "heading": "Plazo: compare con la fecha de la fiesta",
+      "heading": "Plazo: compare la previsión final con la fecha de la fiesta",
       "paragraphs": [
         "El pedido pasa por el procesamiento antes del envío. Compare la entrega prevista que muestra la página del pedido con la fecha de la fiesta y deje margen. Si la previsión queda cerca de la fiesta o la pasa, ese vestido no es la compra adecuada para esa fecha."
       ],
@@ -344,7 +344,7 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido. Compare la entrega prevista de la página con la fecha de la fiesta y deje margen.",
+        "¿Llega a tiempo para Navidad un vestido de fiesta de SHEIN? Depende de la fecha del pedido y no hay garantía. Compare la previsión final de la página con la fecha de la fiesta y deje margen para probárselo. Una estimación no es una promesa de llegada.",
         "¿Cómo saber si el vestido es largo o midi? Por el largo que declara la descripción y por la medida en centímetros de la guía de tallas de la prenda.",
         "¿Se puede usar el 4CW5Y para conseguir descuento? No. Es un código de invitación: no da descuento y no es un cupón."
       ]
@@ -352,8 +352,8 @@
   ],
   "decision": {
     "takeIf": [
-      "Llévelo si la entrega prevista en la página del pedido llega antes de la fecha de la fiesta.",
-      "Llévelo si la descripción trae composición, forro y largo en centímetros, y la medida de la prenda coincide con la suya."
+      "Considérelo si la previsión final deja margen antes de la fiesta para recibirlo y probárselo, sin tratar la estimación como garantía.",
+      "Llévelo si la descripción indica composición, forro y largo, y la tabla del modelo permite elegir el ajuste deseado, distinguiendo medidas corporales y de la prenda."
     ],
     "skipIf": [
       "Pase si la entrega prevista en la página del pedido pasa de la fecha de la fiesta.",

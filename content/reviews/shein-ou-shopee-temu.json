@@ -32,7 +32,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Não existe uma loja melhor para todo mundo: a escolha depende do que você vai comprar e de quanto pesa poder devolver, e a Temu publica o maior prazo, 90 dias contados da compra, enquanto a SHEIN conta do recebimento. Não medimos preço nem testamos entregas. O capítulo Qual escolher, conforme a compra, mostra o que conferir em cada caso."
+        "Não existe uma loja melhor para todo mundo: para roupa, a escolha depende do prazo de devolução que você precisa. A Temu publica 90 dias contados da compra, e a SHEIN, 20 dias contados do recebimento. Confira a condição da sua peça e o prazo de entrega antes de pagar."
       ]
     },
     {
@@ -191,7 +191,7 @@
       "heading": "Qual escolher, conforme a compra",
       "emphasis": "Para roupa que você não pode provar, compare de onde cada prazo começa a contar: a Temu conta os 90 dias da compra, a SHEIN conta os 20 dias do recebimento, e em cada loja alguns itens têm condição própria. Veja a condição da sua peça antes de decidir.",
       "bullets": [
-        "**Quer poder devolver com folga:** Temu, com 90 dias da compra, ou SHEIN, com 20 dias do recebimento; Shopee e AliExpress dão 7 dias.",
+        "**Quer tempo para decidir:** a tabela registra Temu com 90 dias da compra e SHEIN com 20 dias do recebimento; Shopee e AliExpress dão 7 dias. Confira a data-limite, se a peça pode ser devolvida e o custo.",
         "**Precisa receber até uma data:** confira o prazo na página do produto ou do pedido. Na Shopee, ele muda de vendedor para vendedor; no AliExpress, a página da peça traz a data estimada e o reembolso se o pedido não chegar em 50 dias.",
         "**Vai comprar do exterior:** veja no checkout o valor do ICMS e, acima de US$ 50, do imposto de importação.",
         "**Prefere vendedor do Brasil:** procure o Envio Nacional na SHEIN, que não paga imposto de importação, ou os vendedores brasileiros na Shopee.",
@@ -236,7 +236,7 @@
         "SHEIN ou Shopee: qual escolher? Depende do que você vai comprar e de quanto pesa poder devolver: a SHEIN dá 20 dias para devolução e a Shopee 7, e o prazo de entrega da Shopee muda de vendedor para vendedor.",
         "Qual é mais barato, SHEIN ou Shopee? Este artigo não mede preço. Compare o preço final de cada peça, com frete e imposto, na hora de pagar em cada loja.",
         "Qual chega mais rápido, SHEIN ou Shopee? A SHEIN publica, no Envio Global, de 3 a 5 dias para processar o pedido e uma estimativa de entrega; na Shopee, o prazo depende do vendedor e aparece na página do produto.",
-        "SHEIN ou Temu: qual a diferença? A Temu publica o prazo de devolução mais longo (90 dias, contados da compra) e a SHEIN tem nota melhor no Reclame Aqui; frete e prazos estão na tabela acima.",
+        "SHEIN ou Temu: qual a diferença? A tabela registra 90 dias da compra para a Temu e 20 dias do recebimento para a SHEIN. Compare a data-limite e as condições da sua peça; o número sozinho não define a escolha. Frete e entrega estão na tabela acima.",
         "SHEIN ou AliExpress? A SHEIN dá 20 dias para devolução, e o AliExpress, 7 para desistir, mas as peças que abrimos nele mostravam devolução grátis até 15 dias. As duas publicam a mesma regra de imposto. No Reclame Aqui, que mede o atendimento e não a qualidade do produto, a SHEIN tem nota 7,6 e o AliExpress 6,0 nos seis meses da tabela.",
         "SHEIN ou Shopee para roupas? Para roupa, pese a devolução e a condição da sua peça: a SHEIN dá 20 dias e a Shopee 7, e na Shopee cada peça vem de um vendedor.",
         "SHEIN, Shopee e Temu pagam imposto? Nas compras do exterior, a SHEIN, a Shopee e o AliExpress publicam a mesma regra: ICMS de 17% a 20% e imposto de importação zero até US$ 50. A Temu não publica a alíquota nas páginas de envio e de devolução, e o imposto de importação não volta no reembolso.",
@@ -255,7 +255,7 @@
     ]
   },
   "cta": {
-    "text": "Compare o preço final, com frete e imposto, na hora de pagar",
+    "text": "Se escolher a SHEIN, pesquise 4CW5Y na busca do app. Antes de pagar, confira o total com frete e imposto.",
     "label": "Ir para a SHEIN",
     "url": "https://br.shein.com/ark/5231?test=5051&url_from=affiliate_koc_6177013015&scene=1&ad_type=KOC&language=pt-br&siteuid=br&version_bid=101804616,101804641&version_eid=100693341&landing_page_id=5231&ad_test_id=49940&campaign=picklist&koc_id=6177013015&requestId=903986f526dd9d1c&search_redir=1&src_module=search&ici=s1%60EditSearch%604CW5Y%60_fb%60d1%60PageOthers&src_identifier=st%3D2%60sc%3D4CW5Y%60sr%3D0%60ps%3D1&tv_b=2&src_tab_page_id=page_home1786396601153&search_words=4CW5Y&campaign_id=20",
     "sponsored": true

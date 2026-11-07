@@ -252,7 +252,7 @@
   "decision": {
     "takeIf": [
       "Prenez YesStyle si vous voulez pouvoir changer d'avis sur l'achat ou échanger une taille, avec la demande de retour faite sous 14 jours.",
-      "Prenez Olive Young Global si vous ne comptez retourner que pour un défaut ou un article erroné et voulez 30 jours pour demander."
+      "Envisagez Olive Young Global si vous préférez qu’un retour approuvé soit remboursé sur le moyen de paiement d’origine. La demande se fait sous 30 jours après réception, uniquement pour un défaut ou un article erroné envoyé par la boutique."
     ],
     "skipIf": [
       "Passez votre tour pour Olive Young Global si vous risquez de devoir changer d'avis sur l'achat : elle n'accepte que le défaut ou l'article erroné.",

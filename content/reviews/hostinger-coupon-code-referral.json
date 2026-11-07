@@ -30,7 +30,7 @@
       "initials": "BL"
     }
   ],
-  "description": "The Hostinger coupon SONAR20 gives 20% off the first period, on a monthly or annual plan, for new or existing customers. See where to paste the code and what changes at renewal.",
+  "description": "The Hostinger coupon SONAR20 gives 20% off the first period of an eligible new purchase, on a monthly or annual plan. See where to paste the code and what changes at renewal.",
   "metaDescription": "Hostinger coupon SONAR20: 20% off the first period, on a monthly or annual plan. See where to paste the code in the cart and what changes at renewal.",
   "publishedAt": "October 19, 2026",
   "publishedAtISO": "2026-10-19",
@@ -46,14 +46,14 @@
     {
       "heading": "Quick answer",
       "paragraphs": [
-        "Yes, there is a coupon: the code **SONAR20** gives 20% off the first period of any [Hostinger](/en/coupons/hostinger) plan, monthly or annual, for new or existing customers. Paste the code in the coupon field of the cart, or follow the link in this article. Renewal has no discount: it is charged at the list price."
+        "Use **SONAR20** for 20% off the first period of an eligible new purchase at [Hostinger](/en/coupons/hostinger), on a monthly or annual plan, including a new product bought by an existing customer. Enter the code in the cart and check the discount before paying. Renewals are charged at the list price, without this discount."
       ]
     },
     {
       "heading": "What SONAR20 covers",
       "paragraphs": [
-        "Under the partnership rules, SONAR20 is valid on all plans, monthly and annual, and also for people who are already Hostinger customers. On October 29, 2026, we tested it in the cart: with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. In the test, the 20% came off the Black Friday price, and the code worked on its own, without the link.",
-        "This article's link still works, with its own rules: plans of 12 months or more, for new customers. In other cases, use the code. We do not mention codes from other sites."
+        "SONAR20 is valid on all plans, monthly and annual, on a new purchase, including for people who are already Hostinger customers. On October 29, 2026, we tested it in the cart: with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. In the test, the 20% came off the Black Friday price, and the code worked on its own, without the link. Those are that test's prices, not a current quote.",
+        "You can also visit Hostinger through the link in this article. In the cart, check the discount, the subscription period and the total before paying. If SONAR20 has not been applied, enter it in the coupon field."
       ]
     },
     {
@@ -71,7 +71,9 @@
     {
       "heading": "Monthly plan, annual plan and existing customers",
       "paragraphs": [
-        "SONAR20 gives 20% off the first period on a monthly or annual plan, for new or existing customers. The code works on VPS and WordPress plans; on a standalone domain and on renewal it does not work. For email and AI agents, check in the cart whether the discount shows up. Existing customers can use the code on any new plan or product: we tested it on an old account, and SONAR20 took 20% off a new product, on top of the campaign discount. The renewal of a plan you already have is charged at the list price."
+        "SONAR20 gives 20% off the first period of an eligible new purchase on a monthly or annual plan. Existing customers can also qualify when buying a new product.",
+        "The code applies to all plans. Standalone domains and renewals are excluded. For email and AI agents, check whether the discount appears in your cart.",
+        "A new purchase is different from renewing a plan you already have: renewal is charged at the list price, without the 20% discount."
       ]
     },
     {
@@ -92,18 +94,18 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Does Hostinger have a coupon? Yes: the code SONAR20 gives 20% off the first period of any plan, monthly or annual.",
+        "Does Hostinger have a coupon? Yes: SONAR20 gives 20% off the first period of an eligible new purchase, on a monthly or annual plan. Standalone domains and renewals are excluded.",
         "Where do I enter the Hostinger coupon? In the cart, in the “Have a coupon code?” field. Paste SONAR20 and apply it before paying.",
-        "Does SONAR20 work for existing customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%.",
+        "Can existing customers use SONAR20? Yes, when buying an eligible new plan or product, rather than renewing one they already have. Apply the code and check the discount in the order summary before paying.",
         "Does the coupon discount the renewal? No: renewal is charged at the list price, which the cart shows right below the plan. The 20% applies only to new purchases.",
-        "Does SONAR20 work on Black Friday? Yes: in the cart test, the 20% came off the campaign price."
+        "Does SONAR20 work on Black Friday? Yes: in the cart test, the 20% came off the campaign price. For a purchase today, apply SONAR20 and check your total before paying."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Enter the code SONAR20 in the cart's coupon field, or follow this link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+    "text": "Enter SONAR20 in the coupon field and check the 20% discount on the first period of your eligible new purchase before paying. You can also visit Hostinger through our link. Renewals are charged at the list price, without the code discount.",
     "label": "See plans with SONAR20",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

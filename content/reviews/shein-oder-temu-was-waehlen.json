@@ -15,7 +15,7 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben und wie Sie je nach Einkauf wählen. Temu nennt die längste Rückgabefrist ab Kauf.",
+  "description": "SHEIN oder Temu? Was beide Shops zu Versand, Lieferzeit und Rückgabe für Deutschland angeben, wie Sie je nach Einkauf wählen und was Sie vor dem Bezahlen prüfen.",
   "metaDescription": "SHEIN oder Temu? Versand, Lieferzeit und Rückgabe für Deutschland, EU-Zoll von 3 € und was Sie vor dem Kauf prüfen sollten.",
   "publishedAt": "13. Oktober 2026",
   "publishedAtISO": "2026-10-13",
@@ -33,7 +33,7 @@
     {
       "heading": "Die Antwort in Kürze",
       "paragraphs": [
-        "Kein Shop ist für alle der beste: Die Wahl hängt davon ab, was Sie kaufen und wie wichtig die Rückgabe ist. Temu veröffentlicht die längste Frist, 90 Tage ab Kauf, während SHEIN ab Erhalt zählt. Preise messen und Lieferungen testen wir nicht. Das Kapitel „Was zu welchem Einkauf passt“ weiter unten zeigt, was Sie im jeweiligen Fall prüfen sollten."
+        "Kein Shop ist für alle der beste: Bei Kleidung kommt es auf die Rückgabefrist an, die Sie brauchen. Temu gibt 90 Tage ab Kauf, SHEIN bei den meisten Artikeln bis zu 30 Tage nach Erhalt. Prüfen Sie vor dem Bezahlen die Bedingungen Ihres Artikels und den Liefertermin."
       ]
     },
     {
@@ -110,7 +110,7 @@
       "heading": "Was zu welchem Einkauf passt",
       "emphasis": "Bei Kleidung, die Sie nicht anprobieren können, vergleichen Sie, wo die Frist beginnt: Temu zählt seine 90 Tage ab Kauf, SHEIN ab Erhalt, und in beiden Shops haben manche Artikel eigene Bedingungen. Prüfen Sie die Bedingungen Ihres Artikels, bevor Sie sich entscheiden.",
       "bullets": [
-        "**Sie möchten viel Zeit zum Zurückschicken haben:** Temu mit 90 Tagen ab Kauf oder SHEIN mit den meisten Artikeln bis zu 30 Tage nach Erhalt.",
+        "**Sie möchten nach Erhalt Zeit zum Entscheiden:** Die Tabelle nennt für Temu 90 Tage ab Kauf und für die meisten SHEIN-Artikel bis zu 30 Tage nach Erhalt. Prüfen Sie das konkrete Rückgabedatum, ob der Artikel zurückgegeben werden kann und welche Kosten entstehen.",
         "**Die Ware muss bis zu einem bestimmten Datum da sein:** Prüfen Sie die Lieferzeit auf der Produktseite oder in der Bestellung.",
         "**Die Ware kommt aus dem Ausland:** Prüfen Sie an der Kasse den Gesamtbetrag mit Steuern.",
         "**Sie zahlen mit Karte, per Wallet oder in Raten:** Die Zahlungsarten sehen Sie an der Kasse des jeweiligen Shops."
@@ -145,7 +145,7 @@
         "Was ist günstiger, SHEIN oder Temu? Preise vergleichen wir in diesem Artikel nicht. Vergleichen Sie an der Kasse den Endpreis jedes Artikels mit Versand und Steuern.",
         "Wer liefert schneller, SHEIN oder Temu? Lieferungen testen wir nicht. SHEIN zeigt bei Standard das Ankunftsdatum an; Temu zeigt die Zeit auf der Produktseite (Bearbeitung in 1 bis 3 Tagen). Prüfen Sie das Datum auf der Produktseite und in Ihrer Bestellung.",
         "SHEIN oder Temu: Was ist der Unterschied? Temu nennt die längere Frist, 90 Tage ab Kauf, während SHEIN die meisten Artikel bis zu 30 Tage nach Erhalt zurücknimmt, die beiden Fristen beginnen also zu unterschiedlichen Zeitpunkten; Versand und Lieferzeiten stehen in der Tabelle oben.",
-        "SHEIN oder Temu für Kleidung? Bei Kleidung zählen die Rückgabe und die Bedingungen Ihres Artikels: Temu gibt 90 Tage ab Kauf und SHEIN bis zu 30 Tage nach Erhalt, beide bei den meisten Artikeln; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
+        "SHEIN oder Temu für Kleidung? Prüfen Sie, ob der Artikel zurückgegeben werden kann, bis wann und zu welchen Kosten. Temu gibt 90 Tage ab Kauf und SHEIN bis zu 30 Tage nach Erhalt, bei den meisten Artikeln; Dessous, Unterwäsche und Modeschmuck von SHEIN lassen sich nur innerhalb der 14 Tage zurückgeben.",
         "Zahlen SHEIN und Temu Zoll? Die EU erhebt 3 € pro Warenkategorie auf Sendungen im Wert von unter 150 €, die von außerhalb der EU direkt an Verbraucher gehen (Verordnung (EU) 2026/382). Das gilt für jeden Shop, der so liefert. Deshalb entscheidet der Zoll nicht zwischen SHEIN und Temu.",
         "Sind SHEIN und Temu dasselbe Unternehmen? Nein. Es sind verschiedene Shops, jeder mit eigenen Regeln für Versand, Lieferzeit und Rückgabe.",
         "Ist 4CW5Y ein Gutschein? Nein. Es ist Cecílias Empfehlungscode bei SHEIN, den Sie in der Suche des Shops suchen."
@@ -153,7 +153,7 @@
     }
   ],
   "cta": {
-    "text": "Vergleichen Sie an der Kasse den Endpreis mit Versand und Steuern",
+    "text": "Wenn Sie SHEIN wählen, suchen Sie in der App nach 4CW5Y. Prüfen Sie vor dem Bezahlen den Gesamtbetrag mit Versand und Steuern.",
     "label": "Zu SHEIN",
     "url": "https://onelink.shein.com/55/6463grgxf6ru",
     "sponsored": true
