@@ -6,7 +6,13 @@
   "type": "Guia de Design",
   "category": "produtos-experiencias",
   "reviewKind": "guia",
-  "author": { "name": "Cecília Mauad", "slug": "cecilia-mauad", "role": "Em Casa com Cecília", "initials": "CM", "url": "/sobre" },
+  "author": {
+    "name": "Cecília Mauad",
+    "slug": "cecilia-mauad",
+    "role": "Em Casa com Cecília",
+    "initials": "CM",
+    "url": "/sobre"
+  },
   "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento, com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
   "metaDescription": "Aurora manual ou Levita elétrica da DAMIE, com o cupom CECILIA12 de 12% em itens elegíveis: como escolher, com o ícone Eames como referência de design.",
   "publishedAt": "2 de setembro de 2026",
@@ -28,11 +34,11 @@
       ]
     },
     {
-      "heading": "Uma poltrona decorativa muda a maneira de viver a sala",
+      "heading": "Comece pelo uso e pelo espaço da sala",
       "paragraphs": [
-        "É fácil entender por que uma poltrona marcante vira o ponto de partida da sala: ela convida à leitura, à conversa demorada e ao descanso diante da TV. Para que a escolha seja bonita também depois da compra, vale imaginar a cena inteira: quem vai sentar, por quanto tempo e como esse canto entra na rotina da casa.",
-        "Antes de se apaixonar por um modelo, desenhe no ambiente a área ocupada pelo assento e pela abertura do apoio de pés. Deixe uma passagem prática para quem cruza a sala, considere mesas laterais e luminárias e teste se o giro ou a reclinação não colidem com sofá, parede ou painel. Uma peça bonita que interrompe a circulação costuma virar incômodo diário.",
-        "Também vale escolher o revestimento a partir da rotina. Couro pode facilitar a limpeza de pequenos acidentes; linho acrescenta textura e uma leitura mais leve ao ambiente, mas pede os cuidados adequados ao tecido. Sol direto, crianças, pets, uso com manta e frequência de limpeza são dados mais úteis do que uma regra universal sobre qual acabamento é melhor."
+        "Pense no uso principal da poltrona: ler, conversar ou ver TV. Isso ajuda a escolher o apoio para os braços, a posição dos pés e o lugar da luminária.",
+        "Marque no chão a área da poltrona com o puff ou o apoio de pés aberto. Confira a passagem e a distância para sofá, parede e painel; considere também o giro e a tomada, quando o modelo for elétrico.",
+        "Para escolher o revestimento, leia os cuidados da versão que pretende comprar. Sol direto, crianças, pets e frequência de limpeza ajudam a decidir entre couro e tecido."
       ],
       "bullets": [
         "Para leitura: priorize apoio de braços, lugar para luminária e uma posição confortável que possa ser mantida por algum tempo.",
@@ -61,12 +67,33 @@
       "imageCaption": "Conchas de madeira aparente, almofadas escuras e base giratória compõem a silhueta da Cadeira Eames Lounge.",
       "imageFit": "square",
       "images": [
-        { "src": "/images/reviews/eames-lounge-chair-janela-vintage.jpg", "alt": "Cadeira Eames Lounge diante de uma janela em fotografia histórica", "caption": "Registro histórico da Cadeira Eames Lounge com otomana.", "objectFit": "contain", "aspectRatio": 1.2690355329949239 },
-        { "src": "/images/reviews/eames-lounge-chair-leitura-vintage.png", "alt": "Pessoa lendo na Cadeira Eames Lounge com os pés na otomana", "caption": "A composição clássica associa a poltrona a uma otomana independente.", "objectFit": "contain", "aspectRatio": 1.7777777777777777 },
-        { "src": "/images/reviews/eames-lounge-chair-produto-oficial.webp", "alt": "Anúncio de época mostrando uma pessoa com bebê sentada em uma Cadeira Eames Lounge", "caption": "Anúncio de época: pessoa com bebê na Cadeira Eames Lounge.", "objectFit": "contain", "aspectRatio": 0.7446504992867332 }
+        {
+          "src": "/images/reviews/eames-lounge-chair-janela-vintage.jpg",
+          "alt": "Cadeira Eames Lounge diante de uma janela em fotografia histórica",
+          "caption": "Registro histórico da Cadeira Eames Lounge com otomana.",
+          "objectFit": "contain",
+          "aspectRatio": 1.2690355329949239
+        },
+        {
+          "src": "/images/reviews/eames-lounge-chair-leitura-vintage.png",
+          "alt": "Pessoa lendo na Cadeira Eames Lounge com os pés na otomana",
+          "caption": "A composição clássica associa a poltrona a uma otomana independente.",
+          "objectFit": "contain",
+          "aspectRatio": 1.7777777777777777
+        },
+        {
+          "src": "/images/reviews/eames-lounge-chair-produto-oficial.webp",
+          "alt": "Anúncio de época mostrando uma pessoa com bebê sentada em uma Cadeira Eames Lounge",
+          "caption": "Anúncio de época: pessoa com bebê na Cadeira Eames Lounge.",
+          "objectFit": "contain",
+          "aspectRatio": 0.7446504992867332
+        }
       ],
       "links": [
-        { "label": "Consultar o registro dos Eames no acervo do MoMA", "href": "https://www.moma.org/collection/works/3325" }
+        {
+          "label": "Consultar o registro dos Eames no acervo do MoMA",
+          "href": "https://www.moma.org/collection/works/3325"
+        }
       ]
     },
     {
@@ -95,8 +122,16 @@
       "imageCaption": "Vista lateral da Aurora em posição reclinada; o acionamento manual é informado na página do produto.",
       "imageFit": "square",
       "links": [
-        { "label": "Ler o guia da Poltrona Aurora no espaço DAMIE", "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_campaign=charles-eames-hub", "sponsored": true },
-        { "label": "Consultar a página da Aurora na DAMIE", "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora", "sponsored": true }
+        {
+          "label": "Ler o guia da Poltrona Aurora no espaço DAMIE",
+          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_campaign=charles-eames-hub",
+          "sponsored": true
+        },
+        {
+          "label": "Consultar a página da Aurora na DAMIE",
+          "href": "https://www.damie.com.br/products/poltrona-reclinavel-aurora",
+          "sponsored": true
+        }
       ]
     },
     {
@@ -112,7 +147,12 @@
       "imageCaption": "Eu na Levita, em casa: é com este modelo que tenho experiência de uso.",
       "imageFit": "portrait",
       "imageAspectRatio": 0.8158827700307256,
-      "links": [ { "label": "Ler minha experiência completa com a Poltrona Levita", "href": "/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto" } ]
+      "links": [
+        {
+          "label": "Ler minha experiência completa com a Poltrona Levita",
+          "href": "/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto"
+        }
+      ]
     },
     {
       "heading": "Qual escolher: Aurora manual ou Levita elétrica",
@@ -122,16 +162,40 @@
       ],
       "comparisonTable": {
         "caption": "Aurora e Levita: diferenças práticas de mecanismo, espaço e infraestrutura",
-        "headers": ["Critério", "Aurora", "Levita"],
+        "headers": [
+          "Critério",
+          "Aurora",
+          "Levita"
+        ],
         "rows": [
-          ["Movimento", "Reclinação manual por alavanca", "Dois motores para encosto e apoio de pés independentes"],
-          ["Apoio para os pés", "Puff separado incluso", "Apoio integrado ao mecanismo"],
-          ["Giro informado", "360° na página oficial", "280° (conferido na nossa)"],
-          ["Infraestrutura", "Sem planejamento de tomada", "Bivolt; pede tomada próxima"],
-          ["Revestimentos informados", "Couro bovino ou linho", "Couro ou linho"]
+          [
+            "Movimento",
+            "Reclinação manual por alavanca",
+            "Dois motores para encosto e apoio de pés independentes"
+          ],
+          [
+            "Apoio para os pés",
+            "Puff separado incluso",
+            "Apoio integrado ao mecanismo"
+          ],
+          [
+            "Giro informado",
+            "360° na página oficial",
+            "280° (conferido na nossa)"
+          ],
+          [
+            "Infraestrutura",
+            "Sem planejamento de tomada",
+            "Bivolt; pede tomada próxima"
+          ],
+          [
+            "Revestimentos informados",
+            "Couro bovino ou linho",
+            "Couro ou linho"
+          ]
         ]
       },
-      "emphasis": "Se fosse para a minha casa, eu levaria a Levita, porque o ajuste elétrico de encosto e apoio resolve leitura e TV sem levantar.",
+      "emphasis": "Na minha Levita, uso os ajustes independentes de encosto e apoio de pés para encontrar a posição de leitura ou de TV. Esse é o recurso que mais pesa na minha escolha.",
       "emphasisAfterParagraph": 2
     },
     {
@@ -142,8 +206,15 @@
       ],
       "bullets": [],
       "links": [
-        { "label": "Ver a Aurora no guia DAMIE e conferir o código CECILIA12", "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_campaign=charles-eames-hub", "sponsored": true },
-        { "label": "Conhecer a resenha da Levita antes de escolher a versão elétrica", "href": "/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto" }
+        {
+          "label": "Ver a Aurora no guia DAMIE e conferir o código CECILIA12",
+          "href": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_campaign=charles-eames-hub",
+          "sponsored": true
+        },
+        {
+          "label": "Conhecer a resenha da Levita antes de escolher a versão elétrica",
+          "href": "/reviews/poltrona-levita-o-topo-da-tecnologia-e-conforto"
+        }
       ]
     },
     {
@@ -163,26 +234,79 @@
       ]
     }
   ],
-  "cta": { "text": "Conheça o guia da Aurora no espaço DAMIE e teste o código CECILIA12 no checkout para itens elegíveis.", "label": "Ler o guia da Aurora no espaço DAMIE", "url": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_campaign=charles-eames-hub", "sponsored": true },
+  "cta": {
+    "text": "Conheça o guia da Aurora no espaço DAMIE e teste o código CECILIA12 no checkout para itens elegíveis.",
+    "label": "Ler o guia da Aurora no espaço DAMIE",
+    "url": "https://damie.emcasacomcecilia.com/guias/poltrona-reclinavel-aurora-damie?utm_source=site-principal&utm_medium=blog&utm_campaign=charles-eames-hub",
+    "sponsored": true
+  },
   "coupon": "CECILIA12",
   "affiliate": "damie",
   "editorialNote": "Parceria comercial com a DAMIE: os links podem gerar comissão, sem custo extra para você. Levita testada por nós; Aurora, não.",
   "relatedArticles": [
-    { "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto" },
-    { "slug": "poltrona-damie-e-boa" },
-    { "slug": "sofa-modular-ou-retratil-qual-escolher" },
-    { "slug": "poltronas-reclinaveis-damie-vale-o-investimento" }
+    {
+      "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
+    },
+    {
+      "slug": "poltrona-damie-e-boa"
+    },
+    {
+      "slug": "sofa-modular-ou-retratil-qual-escolher"
+    },
+    {
+      "slug": "poltronas-reclinaveis-damie-vale-o-investimento"
+    }
   ],
   "gallery": [
-    { "image": "/images/reviews/damie/poltrona-aurora-castanho-ambientada.webp", "alt": "Poltrona Aurora em couro castanho com puff em sala de estar", "caption": "Aurora em couro castanho: poltrona e puff como elementos separados da composição." },
-    { "image": "/images/reviews/damie/poltrona-aurora-areia-ambientada.webp", "alt": "Poltrona Aurora em linho areia com puff em sala de estar", "caption": "Aurora em linho areia em ambiente integrado." },
-    { "image": "/images/reviews/damie/poltrona-aurora-castanho-frontal.webp", "alt": "Poltrona Aurora em couro castanho, vista frontal em estúdio", "caption": "Vista frontal da Aurora." },
-    { "image": "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp", "alt": "Poltrona Aurora reclinada, vista lateral em estúdio", "caption": "Vista lateral da Aurora em posição reclinada; o acionamento manual é informado na página do produto." },
-    { "image": "/images/reviews/damie/poltrona-aurora-castanho-pufe-perspectiva.webp", "alt": "Poltrona Aurora em couro castanho e puff independente", "caption": "O puff independente permite reorganizar o apoio para os pés na sala." },
-    { "image": "/images/reviews/eames-lounge-chair-janela-vintage.jpg", "alt": "Cadeira Eames Lounge diante de uma janela em fotografia histórica", "caption": "Registro histórico da Cadeira Eames Lounge com otomana." },
-    { "image": "/images/reviews/eames-lounge-chair-leitura-vintage.png", "alt": "Pessoa lendo na Cadeira Eames Lounge com os pés na otomana", "caption": "A composição clássica associa a poltrona a uma otomana independente." },
-    { "image": "/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp", "alt": "Foto de produto em fundo branco mostrando uma Cadeira Eames Lounge", "caption": "Conchas de madeira aparente, almofadas escuras e base giratória compõem a silhueta da Cadeira Eames Lounge." },
-    { "image": "/images/reviews/eames-lounge-chair-produto-oficial.webp", "alt": "Anúncio de época mostrando uma pessoa com bebê sentada em uma Cadeira Eames Lounge", "caption": "Anúncio de época: pessoa com bebê na Cadeira Eames Lounge." },
-    { "image": "/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg", "alt": "Cecília Mauad sentada na Poltrona Levita em foto própria", "caption": "Foto própria da minha experiência com a Levita elétrica." }
+    {
+      "image": "/images/reviews/damie/poltrona-aurora-castanho-ambientada.webp",
+      "alt": "Poltrona Aurora em couro castanho com puff em sala de estar",
+      "caption": "Aurora em couro castanho: poltrona e puff como elementos separados da composição."
+    },
+    {
+      "image": "/images/reviews/damie/poltrona-aurora-areia-ambientada.webp",
+      "alt": "Poltrona Aurora em linho areia com puff em sala de estar",
+      "caption": "Aurora em linho areia em ambiente integrado."
+    },
+    {
+      "image": "/images/reviews/damie/poltrona-aurora-castanho-frontal.webp",
+      "alt": "Poltrona Aurora em couro castanho, vista frontal em estúdio",
+      "caption": "Vista frontal da Aurora."
+    },
+    {
+      "image": "/images/reviews/damie/poltrona-aurora-castanho-lateral-deitada.webp",
+      "alt": "Poltrona Aurora reclinada, vista lateral em estúdio",
+      "caption": "Vista lateral da Aurora em posição reclinada; o acionamento manual é informado na página do produto."
+    },
+    {
+      "image": "/images/reviews/damie/poltrona-aurora-castanho-pufe-perspectiva.webp",
+      "alt": "Poltrona Aurora em couro castanho e puff independente",
+      "caption": "O puff independente permite reorganizar o apoio para os pés na sala."
+    },
+    {
+      "image": "/images/reviews/eames-lounge-chair-janela-vintage.jpg",
+      "alt": "Cadeira Eames Lounge diante de uma janela em fotografia histórica",
+      "caption": "Registro histórico da Cadeira Eames Lounge com otomana."
+    },
+    {
+      "image": "/images/reviews/eames-lounge-chair-leitura-vintage.png",
+      "alt": "Pessoa lendo na Cadeira Eames Lounge com os pés na otomana",
+      "caption": "A composição clássica associa a poltrona a uma otomana independente."
+    },
+    {
+      "image": "/images/reviews/eames-lounge-chair-anuncio-herman-miller-vintage.webp",
+      "alt": "Foto de produto em fundo branco mostrando uma Cadeira Eames Lounge",
+      "caption": "Conchas de madeira aparente, almofadas escuras e base giratória compõem a silhueta da Cadeira Eames Lounge."
+    },
+    {
+      "image": "/images/reviews/eames-lounge-chair-produto-oficial.webp",
+      "alt": "Anúncio de época mostrando uma pessoa com bebê sentada em uma Cadeira Eames Lounge",
+      "caption": "Anúncio de época: pessoa com bebê na Cadeira Eames Lounge."
+    },
+    {
+      "image": "/images/reviews/damie/poltrona-levita-cecilia-selfie.jpg",
+      "alt": "Cecília Mauad sentada na Poltrona Levita em foto própria",
+      "caption": "Foto própria da minha experiência com a Levita elétrica."
+    }
   ]
 }

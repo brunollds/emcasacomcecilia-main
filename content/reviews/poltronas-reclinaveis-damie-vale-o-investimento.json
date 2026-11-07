@@ -41,7 +41,7 @@
   ],
   "cons": [
     "Produto de alto padrão (investimento maior)",
-    "Modelos com massageador têm custo adicional",
+    "Opcionais como o massageador podem ter custo extra, conforme o modelo e a campanha",
     "Requer tomada próxima para o sistema elétrico"
   ],
   "pullQuote": "Não é uma compra de impulso; é um investimento para quem realmente quer montar um espaço de descanso com qualidade.",
@@ -97,7 +97,7 @@
       "paragraphs": [
         "Durante a construção da nossa casa nova, meu marido e eu estávamos planejando cada detalhe do nosso lar. Foi quando ele descobriu as poltronas reclináveis da Damie pelo canal do YouTube Meu Mundo Tech, especializado em cinema em casa e tecnologia. Ele ficou encantado na hora.",
         "Os vídeos destacavam o conforto, a funcionalidade e o design moderno das poltronas. Mesmo com a casa ainda em obras, começamos a planejar onde elas ficariam. Decidimos quantas poltronas teríamos, duas para compor nossa sala de TV, e como integraríamos tudo ao projeto.",
-        "A possibilidade de personalizar revestimentos e acessórios nos deixou ainda mais animados. A visão de criar um ambiente de relaxamento e sofisticação com as poltronas da Damie nos motivou desde o início."
+        "A escolha dos revestimentos e acessórios entrou no planejamento do ambiente."
       ],
       "image": {
         "src": "/images/reviews/damie-reclame-aqui-local.webp",
@@ -139,15 +139,16 @@
       "links": [
         {
           "label": "Acessar site oficial da Damie",
-          "href": "https://damie.com.br"
+          "href": "https://damie.com.br",
+          "sponsored": true
         }
       ]
     },
     {
-      "heading": "Conforto e Funcionalidades: Um Sonho Realizado",
+      "heading": "Conforto depois de mais de um ano",
       "paragraphs": [
         "Ajuste com um toque: encosto e apoio dos pés se movem para filme, leitura ou descanso. O sistema elétrico de reclinação é silencioso e prático, ideal para o uso diário.",
-        "A espuma tem a densidade ideal, oferecendo conforto duradouro mesmo após horas de uso. O assento é amplo, acomodando diferentes tamanhos com facilidade. O porta-copos também virou um detalhe muito útil para café, suco ou até uma pipoca durante nossas sessões de cinema em casa.",
+        "Para nós, a espuma continuou confortável no uso diário, e o assento é espaçoso. O porta-copos virou apoio para café e suco nas sessões de cinema em casa.",
         "A estrutura segue firme, até aqui sem sinais de desgaste."
       ],
       "image": {
@@ -158,10 +159,10 @@
         "aspectRatio": 1
       },
       "bullets": [
-        "Sistema elétrico de reclinação silencioso e prático.",
-        "Espuma confortável e assento espaçoso.",
-        "Porta-copos perfeito para cinema em casa.",
-        "Estrutura robusta, com sensação de segurança e durabilidade."
+        "Reclinação elétrica silenciosa no nosso uso.",
+        "Assento espaçoso e espuma que continuam confortáveis para nós.",
+        "Porta-copos que usamos nas sessões de cinema.",
+        "Até aqui, nossa estrutura segue firme, sem sinais de desgaste."
       ]
     },
     {
@@ -195,17 +196,17 @@
     {
       "heading": "Prós e Contras da Poltrona Reclinável Damie",
       "paragraphs": [
-        "Depois de mais de um ano de uso, o que fez diferença foi o conforto diário; o que pesa é preço, massageador e tomada."
+        "Depois de mais de um ano, o que fez diferença foi o conforto diário e a praticidade do motor. Antes de escolher, eu olharia o preço da configuração e onde ficará a tomada."
       ],
       "bullets": [
-        "Prós: conforto excepcional com espuma de alta densidade.",
+        "Prós: espuma que continuou confortável no nosso uso diário.",
         "Prós: sistema elétrico de reclinação silencioso e prático.",
         "Prós: diversidade de revestimentos e acessórios personalizáveis.",
         "Prós: montagem fácil e rápida, com instruções claras.",
         "Prós: embalagem reforçada, e a nossa entrega chegou rápido.",
         "Prós: versatilidade para usos como amamentação e cinema em casa.",
         "Contras: preço pode ser elevado para alguns orçamentos, embora o cupom CECILIA12 ajude a economizar.",
-        "Contras: modelos com massageador têm custo adicional.",
+        "Contras: o custo dos opcionais muda conforme o modelo e a campanha.",
         "Contras: requer tomada próxima para o sistema elétrico."
       ]
     },
@@ -214,7 +215,7 @@
       "paragraphs": [
         "A Damie vale para quem quer montar um espaço de descanso: relaxar, ver filme ou amamentar com conforto, durabilidade e estilo.",
         "No site da Damie, dá para escolher revestimento, cor e acessórios conforme a rotina da casa. A loja também oferece teste por 30 dias, garantia de 1 ano e atendimento para dúvidas e personalizações.",
-        "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+        "O frete de poltronas e sofás é grátis no Sul e no Sudeste. Para o Centro-Oeste, confira frete e prazo pelo CEP no carrinho. No Norte e no Nordeste, a marca atende pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta da confirmação do pagamento.",
         "Para devolver no teste de 30 dias, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira. A devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal, e a loja agenda a coleta. Por isso, guarde a caixa até o fim do teste.",
         "Nossa experiência foi tão positiva que continuamos recomendando a marca para amigos, familiares e seguidores do Em Casa com Cecília."
       ]
@@ -251,7 +252,8 @@
         },
         {
           "label": "Comprar no site da Damie",
-          "href": "https://damie.com.br"
+          "href": "https://damie.com.br",
+          "sponsored": true
         }
       ]
     }

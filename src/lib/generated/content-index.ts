@@ -28912,21 +28912,21 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Poltrona Damie 2.0 vale a pena para quem prioriza conforto e personalização e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O que pesa é quanto dos opcionais você vai usar; veja \"A Poltrona Damie 2.0 é boa? Nosso veredito\"."
+          "Sim, a Poltrona Damie 2.0 vale a pena para quem prioriza conforto e personalização sob medida e aceita investir mais por isso. Nas primeiras semanas, os motores foram silenciosos e a massagem foi a favorita da Cecília. O código [CECILIA12](/cupons/damie) dá 12% de desconto nos produtos; os opcionais encarecem a poltrona, como mostra o veredito abaixo."
         ]
       },
       {
         "heading": "O que é a Poltrona Reclinável Damie 2.0",
         "paragraphs": [
-          "Para sala de TV, cinema em casa e amamentação, a Damie 2.0 é a reclinável que você monta sob medida. Ela vai além da reclinação: é uma estação de conforto que você monta e personaliza de acordo com o seu orçamento e gosto.",
-          "É possível escolher o tipo de base (manual ou elétrica com balanço), o revestimento e acessórios como carregador, luminária touch e massageador. Em nossa experiência inicial, a ergonomia se mostrou muito confortável para salas de TV, home cinemas, quartos de bebê e cantos de leitura. Com o [cupom CECILIA12](/cupons/damie), você garante 12% de desconto nos produtos (o frete fica de fora)."
+          "A Damie 2.0 é uma poltrona reclinável com opções de base manual ou elétrica, revestimentos e acessórios. Na encomenda, você escolhe a configuração conforme o uso e o orçamento.",
+          "Na nossa casa, usamos a elétrica com giro e balanço, em Courino Importado caramelo. Abaixo mostramos como foram as primeiras semanas e quais opcionais usamos. Com o [cupom CECILIA12](/cupons/damie), são 12% de desconto nos produtos; o frete fica de fora."
         ],
         "bullets": [
           "Personalização total: escolha do mecanismo, revestimentos, cores e acessórios tecnológicos.",
           "Mecanismo elétrico: ajuste milimétrico e motor silencioso que reclina suavemente.",
           "Revestimento prático: opção de Courino Importado (praticamente impermeável), ideal para casas com pets e crianças."
         ],
-        "emphasis": "A sensação ao sentar e reclinar na poltrona Damie 2.0 não é apenas de um abraço confortável, mas sim de um verdadeiro 'colo de mãe'. Em nossas primeiras semanas de uso, os motores elétricos se mostraram muito silenciosos e o ajuste, preciso.",
+        "emphasis": "Ao sentar e reclinar, a sensação foi de um 'colo de mãe'. Nas primeiras semanas, os motores elétricos foram silenciosos e o ajuste foi preciso.",
         "emphasisAfterParagraph": 1,
         "image": "/images/reviews/damie/poltrona-damie-2-0-dimensoes.webp",
         "imageAlt": "Medidas da Poltrona Damie 2.0 fechada e quase totalmente reclinada",
@@ -29005,9 +29005,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Acessórios Opcionais: Monte sua Estação Tecnológica",
+        "heading": "Opcionais que usamos na nossa poltrona",
         "paragraphs": [
-          "A 2.0 vira estação tecnológica pelos acessórios. Nossa configuração reúne massagem, motor independente de cabeça e pescoço, case fosco 3 em 1, porta-copos, luminária, mesa de apoio e suporte com carregador para dispositivos móveis. Todos foram usados e se mostraram úteis nessas primeiras semanas:"
+          "Na nossa configuração, usamos massagem, motor independente de cabeça e pescoço, case fosco 3 em 1, porta-copos, luminária, mesa de apoio e suporte com carregador para dispositivos móveis. Todos foram úteis nessas primeiras semanas:"
         ],
         "bullets": [
           "Sistema de Massagem por Vibração: O massageador tem controle remoto e funcionou de maneira silenciosa em nosso uso. Foi o opcional favorito da Cecília.",
@@ -29022,7 +29022,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Montagem Simples e Conexões Internas",
         "paragraphs": [
-          "A montagem da Poltrona Damie 2.0 segue o padrão prático da marca. O produto chega em duas partes principais: o assento (base) e o encosto. Para montar, basta deslizar os trilhos metálicos do encosto nas guias do assento até ouvir o clique de travamento.",
+          "A montagem da Poltrona Damie 2.0 segue o padrão prático da marca. O produto chega em duas partes principais: o assento (base) e o encosto. Montada, a poltrona tem 95 cm de largura. Para montar, basta deslizar os trilhos metálicos do encosto nas guias do assento até ouvir o clique de travamento.",
           "Na parte traseira do assento, ficam organizados os fios e conectores rápidos dos motores. Com um sistema de encaixe simples do tipo macho-fêmea, você conecta o cabo de energia principal da fonte bivolt, o cabo de sinal do motor de ajuste de cabeça independente e a fiação do sistema de massagem. Nas fotos abaixo, mostramos a poltrona sem o encosto acoplado e o detalhe das conexões elétricas:"
         ],
         "bullets": [],
@@ -29061,7 +29061,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A Poltrona Damie 2.0 é boa? Nosso veredito",
         "paragraphs": [
-          "Para nós, sim: a Poltrona Damie 2.0 vale a pena para quem prioriza conforto, personalização e recursos elétricos e aceita investir mais por isso. Na nossa configuração (elétrica, com giro, balanço e massagem), os motores foram silenciosos e a massagem foi a favorita da Cecília.",
+          "O nosso veredito é que a Damie 2.0 entrega conforto ergonômico e recursos elétricos sob medida na categoria de alto padrão. Em nosso uso diário, a mecânica elétrica com giro e balanço operou de forma discreta e suave, e a massagem foi a favorita da Cecília.",
           "Pode não compensar para quem procura uma poltrona simples, tem pouco espaço ou não pretende usar os opcionais tecnológicos. Eles encarecem o produto, e a poltrona precisa de uma tomada por perto.",
           "O uso até aqui é de poucas semanas: a durabilidade de longo prazo ainda será acompanhada."
         ]
@@ -29115,7 +29115,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "key": "Teste em casa",
-        "value": "30 dias de teste em casa, com condições"
+        "value": "30 dias de teste em casa; condições na página da Damie"
       },
       {
         "key": "Cupom disponível",
@@ -29149,8 +29149,8 @@ export const reviewsData: unknown[] = [
         "heading": "Por que escolhemos o modular",
         "paragraphs": [
           "Demoramos a decidir o sofá, porque ele parece uma decisão mais definitiva do que a poltrona. O que virou a chave foi a pergunta de como ele entraria na casa, que tem corredor, curva e uma porta de quarto que estreita o caminho. Um sofá convencional de três lugares já seria trabalho, depois do que passamos com as poltronas.",
-          "O modular resolve isso de um jeito que parece óbvio depois que você entende: cada módulo chega na própria caixa. Não tem um bloco enorme que precisa dobrar em ângulo impossível. Você traz as caixas uma a uma, monta dentro do ambiente. Simples assim, desde que você siga a ordem de montagem certa, que a Damie explica direitinho.",
-          "A montagem em si foi uma experiência. A gente abriu as caixas no meio da sala, separou as peças, e foi encaixando. Tem um momento específico, quando o último módulo encaixa no lugar, que você olha pro sofá pronto e pensa: \"nossa, a gente montou isso aqui.\" Não precisa de marceneiro, não precisa de encanador de móveis. É você, as caixas, e paciência."
+          "Cada módulo chegou na própria caixa. A gente levou as caixas para o ambiente e montou o sofá ali, seguindo a ordem de encaixe explicada pela Damie. Isso facilitou o caminho dentro da nossa casa.",
+          "Abrimos as caixas no meio da sala, separamos as peças e fomos encaixando. Quando o último módulo entrou, veio aquela satisfação de ver o sofá que a gente mesmo montou."
         ],
         "image": "/images/reviews/sofa-damie-modular-puff.webp",
         "imageAlt": "Puff modular Damie posicionado de forma independente na sala de estar.",
@@ -29167,16 +29167,16 @@ export const reviewsData: unknown[] = [
         "heading": "O que eu observaria de novo antes de comprar",
         "paragraphs": [
           "Primeiro: medir o acesso completo antes de fechar. Porta, corredor, elevador. Os módulos chegam em caixas, mas as caixas também têm tamanho: não assuma que \"na caixa cabe em qualquer lugar\" sem checar. Meça também o espaço de montagem: o sofá pronto tem 260 x 86 x 92 cm, pelo esquema técnico da Damie. A gente teve sorte porque as caixas passaram, mas se o elevador fosse dois centímetros mais estreito, a história seria outra.",
-          "Segundo: escolher o tecido pela rotina da casa, não pela foto. O Azul Denim nas imagens da Damie é lindo. Mas se você tem pet, criança ou mora em região quente, linho ou courino vão ser escolhas mais honestas com o dia a dia. Eu aprendi isso na prática: o tecido que mais brilha na foto não é sempre o que mais funciona no dia a dia.",
-          "Terceiro: aproveitar os 30 dias de teste. A Damie descreve o teste como 30 dias de uso em casa: o produto precisa voltar completo, na embalagem original e sem sinais de uso severo, e o pedido é feito pelo WhatsApp com nome completo e nota fiscal. Guarde a caixa até o fim do prazo. Eu não precisei devolver, mas saber disso deixou a decisão mais leve.",
-          "Quarto: pense no futuro. Modular não é só pra entrar na casa: é pra acompanhar a sua vida. Hoje você mora num apartamento, daqui dois anos pode mudar pra uma casa maior. O sofá modular acompanha: você compra mais módulos, rearranja, cria configurações novas. É um sofá que cresce com você, e isso raramente é verdade em móveis."
+          "Segundo: escolher o revestimento pela rotina da casa. Azul Denim é a cor; confira qual material acompanha a versão escolhida e os cuidados que ele pede. Criança, pet, calor e frequência de limpeza entram nessa decisão. Se puder, compare amostras antes de fechar pela foto.",
+          "Terceiro: confirmar as condições do teste em casa para o sofá que você vai comprar. A Damie descreve o teste como 30 dias de uso em casa: o produto precisa voltar completo, na embalagem original e sem sinais de uso severo, e o pedido é feito pelo WhatsApp com nome completo e nota fiscal. Guarde a caixa até o fim do prazo; antes de descartá-la, confirme por escrito com a marca o procedimento do seu modelo. Eu não precisei devolver, mas saber disso deixou a decisão mais leve.",
+          "Quarto: pensar em mudanças futuras. Reorganizar os módulos que você já tem pode acompanhar outra disposição da sala. Se quiser ampliar o sofá depois, confirme com a Damie a compatibilidade e a disponibilidade de módulos para esta versão antes de contar com essa compra."
         ]
       },
       {
         "heading": "Vale a pena?",
         "paragraphs": [
           "Pra nós, valeu. O sofá chegou dentro do prazo, os módulos encaixaram bem, e o puff virou peça fixa da rotina de TV. Recebi o produto em parceria e uso há mais de um ano. Não é a compra mais barata de móvel: é um investimento, e precisa ser tratado assim. Mas dentro do que a Damie promete, entregou.",
-          "O que me surpreendeu no dia a dia foi a flexibilidade. A gente já mudou a configuração da sala duas vezes desde que o sofá chegou: uma vez pra abrir espaço pra uma reunião de família, outra vez porque a gente quis experimentar um novo ângulo em relação à TV. Com um sofá fixo, isso seria impossível. Com o modular, são dois minutos de arrastar módulos.",
+          "A flexibilidade me surpreendeu no dia a dia. Já mudamos a configuração da sala duas vezes: uma para abrir espaço numa reunião de família, outra para experimentar outro ângulo da TV. Poder arrastar os módulos separadamente facilitou essas mudanças.",
           "E tem uma coisa que eu não esperava: a limpeza. Como os módulos separam, dá pra limpar por baixo, limpar entre os encaixes, acessar cantos que com um sofá fixo seriam eternamente esquecidos. Pra quem tem pet, isso é ouro. A gente tem um cachorro que solta pelo, e conseguir limpar debaixo do sofá sem ter que levantar um móvel pesado é um alívio real."
         ],
         "image": "/images/reviews/sofa-damie-modular-vale-a-pena-sq.webp",
@@ -29205,7 +29205,7 @@ export const reviewsData: unknown[] = [
       }
     ],
     "cta": {
-      "text": "Aproveite o cupom de afiliado oficial para obter desconto.",
+      "text": "Confira as condições do CECILIA12 para 12% de desconto no site da Damie antes de pagar.",
       "label": "Ver cupom CECILIA12 no site da Damie",
       "url": "/cupons/damie"
     },
@@ -31518,7 +31518,7 @@ export const reviewsData: unknown[] = [
     "title": "Damie no Reclame Aqui: o que os dados mostram antes de você comprar",
     "type": "Análise de Reputação",
     "category": "confianca-reputacao",
-    "description": "O Reclame Aqui da Damie Móveis: nota 7,9 e reputação Boa nos últimos 6 meses, o que mais aparece nas reclamações e o que conferir antes de comprar.",
+    "description": "Damie Móveis no Reclame Aqui: nota 7,9 e reputação Boa nos últimos seis meses do painel. Veja os índices e o que conferir antes de comprar.",
     "publishedAt": "20 Jun 2026",
     "publishedAtISO": "2026-06-20",
     "image": "/images/reviews/damie/damie-reclame-aqui-capa-discover.webp",
@@ -31541,7 +31541,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na consulta de 06/11/2026, a Damie tinha reputação Boa no Reclame Aqui, com nota 7,9, 100% das reclamações respondidas e 83,1% resolvidas nos últimos 6 meses. O problema mais citado é o atraso na entrega. Para comprar com desconto, o [cupom CECILIA12](/cupons/damie) dá 12% OFF no site da Damie."
+          "Na consulta de 06/11/2026, nos últimos seis meses do painel, a Damie tinha nota 7,9 e reputação Boa no Reclame Aqui, com 100% das reclamações respondidas e índice de solução de 83,1% entre as finalizadas e avaliadas. O problema mais citado é o atraso na entrega. Para comprar com desconto, o [cupom CECILIA12](/cupons/damie) dá 12% OFF no site da Damie."
         ]
       },
       {
@@ -31561,8 +31561,8 @@ export const reviewsData: unknown[] = [
           "Nota: 7,9/10",
           "Reputação: Boa. Pelo histórico do painel, ela foi Ótima de maio a setembro e passou a Boa em outubro.",
           "Reclamações recebidas: 192, com 100% respondidas e nenhuma aguardando resposta",
-          "Índice de solução: 83,1%",
-          "Voltariam a fazer negócio: 70,2%",
+          "Índice de solução: 83,1% das reclamações finalizadas e avaliadas foram consideradas resolvidas pelo consumidor",
+          "Voltariam a fazer negócio: 70,2% dos consumidores que finalizaram e avaliaram a reclamação",
           "Reclamações avaliadas: 124, com nota média do consumidor de 6,79",
           "Tempo médio de resposta: 15 horas"
         ],
@@ -31635,18 +31635,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Damie?",
         "paragraphs": [
-          "Pelos números do Reclame Aqui, a Damie responde todas as reclamações e resolve 83,1% delas, com nota 7,9 e reputação Boa nos últimos 6 meses. A reputação passou de Ótima para Boa no último mês do painel, e 70,2% de quem reclamou voltaria a fazer negócio. O ponto fraco é a entrega. Antes de fechar o pedido, confira o prazo pelo CEP, meça o acesso e registre o recebimento em foto."
+          "Pelos números do Reclame Aqui, nos últimos seis meses, a Damie responde todas as reclamações e resolve 83,1% das finalizadas e avaliadas, com nota 7,9 e reputação Boa. A reputação passou de Ótima para Boa no último mês do painel, e 70,2% dos consumidores que avaliaram voltariam a fazer negócio. O ponto fraco é a entrega. Antes de fechar o pedido, confira o prazo pelo CEP, meça o acesso e registre o recebimento em foto."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a nota da Damie no Reclame Aqui? Na última consulta, a Damie Móveis tinha nota 7,9/10 e reputação Boa nos últimos 6 meses. A empresa respondeu 100% das reclamações e resolveu 83,1% delas. A nota é calculada numa janela móvel de 6 meses e pode variar; confira o painel no dia da compra.",
+          "Qual a nota da Damie no Reclame Aqui? Nos últimos seis meses do painel, a Damie Móveis tinha nota 7,9/10 e reputação Boa. A nota é calculada numa janela móvel e pode variar; confira o painel no dia da compra.",
           "O que aparece nas reclamações da Damie? Nos principais problemas do painel, que somam até 3 anos de reclamações, o mais citado é o atraso na entrega, com 50,57% das reclamações. O produto mais citado é Sofás e Estofados.",
           "A nota da Damie é boa para o setor de móveis online? O Reclame Aqui classifica a nota 7,9 como Boa. Não comparamos a Damie com o setor inteiro; no ranking da categoria Ecommerce - Móveis e Decoração, ela aparecia em 52º lugar. A comparação com a Inflow e a Sofá na Caixa está em [Sofá na Caixa, Inflow ou DAMIE](/reviews/sofa-na-caixa-inflow-ou-damie).",
-          "A Damie resolve reclamações? Segundo o painel do Reclame Aqui, a Damie respondeu 100% das reclamações e resolveu 83,1% delas nos últimos 6 meses, e 70,2% de quem reclamou disse que voltaria a fazer negócio com a marca.",
+          "A Damie resolve reclamações? Nos últimos seis meses do painel, a Damie respondeu 100% das reclamações. Entre as finalizadas e avaliadas pelo consumidor, o índice de solução era 83,1%, e 70,2% disseram que voltariam a fazer negócio.",
           "É possível desistir ou cancelar uma compra da Damie? Sim. Na compra pela internet, o [Código de Defesa do Consumidor, no artigo 49](https://consumidor.gov.br/pages/conteudo/publico/102), dá 7 dias de arrependimento, contados da compra ou do recebimento do produto. Os 30 dias são uma política da própria Damie, com condições: segundo a [página do teste](https://www.damie.com.br/pages/teste-por-30-dias), o produto volta completo, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira, e o pedido é feito pelo WhatsApp da Damie, com o nome completo e a nota fiscal.",
-          "A Damie é confiável para comprar sofá pela internet? Pelos dados do Reclame Aqui, a Damie tem nota 7,9 e reputação Boa, responde 100% das reclamações e resolve 83,1% delas. O principal risco é a entrega: atraso é o problema mais citado, e móveis grandes exigem medir corredores e elevadores antes da compra.",
+          "A Damie é confiável para comprar sofá pela internet? Nos últimos seis meses do painel, a Damie tinha nota 7,9 e reputação Boa, com 100% de respostas e índice de solução de 83,1% entre as reclamações finalizadas e avaliadas. O principal risco é a entrega: no painel de até três anos, o atraso é o problema mais citado, e móveis grandes exigem medir corredores e elevadores antes da compra.",
           "Quanto tempo a Damie demora para entregar? O prazo muda com a região e o produto: confira pelo CEP no carrinho antes de fechar. Segundo a Damie, a produção leva em média 5 dias úteis, e o prazo conta a partir da confirmação do pagamento. O frete de poltronas e sofás é grátis no Sul e no Sudeste, e o Norte e o Nordeste são atendidos pelo Mercado Livre.",
           "O que acontece se o sofá Damie chegar com defeito? A Damie dá garantia de 1 ano contra defeitos de fabricação. Se o produto chegar avariado, fotografe a embalagem e o produto antes de abrir completamente, acione o suporte da Damie o quanto antes e não descarte as caixas até a resolução.",
           "A Damie vende no Mercado Livre ou só no site oficial? Nos dois. O site oficial (damie.com.br) tem o catálogo completo e as personalizações, e é onde o cupom CECILIA12 vale. Pelos anúncios oficiais no Mercado Livre, a Damie atende o Norte e o Nordeste, e lá o cupom não vale.",
@@ -31687,20 +31687,20 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Introdução",
         "paragraphs": [
-          "Toda vez que mostro nossa poltrona reclinável nas redes, aparece alguém perguntando: \"Cecília, o cupom ainda funciona?\" ou \"Onde eu coloco o CECILIA12?\". Às vezes a pessoa já está no site da Damie, com o produto no carrinho, e não sabe exatamente onde aplicar o código. Outras vezes, tem medo de o desconto não ter sido aplicado e acabar pagando o valor cheio sem perceber.",
-          "Já passei por isso em outras compras. Cupom que não funciona, código que dá erro, desconto que some no checkout. Por isso resolvi escrever este passo a passo com tudo o que você precisa saber para usar o cupom CECILIA12 sem surpresa. É simples; confira cada etapa antes de finalizar."
+          "Quando mostro nossa poltrona, sempre aparece a dúvida: onde coloco o CECILIA12 e como sei se o desconto entrou? A resposta está no campo do checkout e no resumo do pedido.",
+          "Escolha modelo, tecido e cor antes de aplicar o código. Depois, confirme o desconto antes de pagar."
         ]
       },
       {
         "heading": "Resposta rápida: como usar o cupom CECILIA12",
         "paragraphs": [
-          "O [cupom Damie](/cupons/damie) é o CECILIA12 e dá 12% de desconto nos produtos do site oficial, com qualquer forma de pagamento. Ele soma com as promoções e os 10% do Pix, mas não com outro cupom nem com o giftback de 15%, e não vale no Mercado Livre. Confira o desconto no subtotal antes de pagar."
+          "No checkout do site oficial da DAMIE, encontre o campo de cupom ou código promocional, digite CECILIA12 e aplique. Confira os 12% sobre o subtotal dos produtos. O [cupom DAMIE](/cupons/damie) soma com as promoções e com os 10% do Pix; não soma com outro código nem com giftback e não vale no Mercado Livre."
         ]
       },
       {
         "heading": "1. Escolha o produto no site oficial",
         "paragraphs": [
-          "O cupom CECILIA12 é válido para compras feitas diretamente no site da Damie; nos anúncios da Damie no Mercado Livre, ele não vale. Funciona para tudo no site: Poltronas, Sofás, Camas, Área externa e Acessórios, pelas regras vigentes. Escolha modelo, revestimento e cor com calma antes de ir para o carrinho. Trocar depois de aplicar o cupom pode resetar o checkout e você teria que digitar o código de novo."
+          "O CECILIA12 vale no site oficial da DAMIE, inclusive para poltronas, sofás, camas, área externa e acessórios, pelas condições vigentes; não vale nos anúncios do Mercado Livre. Escolha modelo, revestimento e cor antes de ir ao carrinho. Se alterar a seleção depois, revise o pedido e confira se o código continua aplicado."
         ],
         "image": "/images/reviews/cupom-cecilia12/1-escolha-produto.png",
         "imageAlt": "Tela do site da Damie mostrando a escolha do produto.",
@@ -31739,7 +31739,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "4. Confirme o desconto antes de pagar",
         "paragraphs": [
-          "Aqui está o passo mais importante: confira se o desconto foi realmente aplicado antes de finalizar a compra. Os 12% aparecem sobre o subtotal dos produtos, e o valor final é esse subtotal com o desconto, mais o frete. Se o cupom não funcionar, confira nesta ordem:"
+          "Antes de pagar, confira a linha do CECILIA12 sobre o subtotal dos produtos. Se escolher Pix, confira também o desconto dessa forma de pagamento. O total final deve refletir os descontos e o frete do seu pedido; o frete não recebe os 12% do código. Se o cupom não entrar, confira nesta ordem:"
         ],
         "bullets": [
           "Outro cupom ou o crédito do giftback no pedido: o CECILIA12 não soma com eles. Tire o outro e aplique o CECILIA12 de novo.",
@@ -31798,7 +31798,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O cupom CECILIA12 funciona em qual produto da Damie? Funciona em poltronas, sofás, camas, área externa e acessórios, conforme as condições ativas no momento da compra.",
           "Onde eu aplico o cupom CECILIA12? No checkout do site oficial da Damie, no campo de cupom ou código promocional, antes de finalizar o pagamento.",
-          "Posso trocar o produto depois de aplicar o cupom? Trocar o modelo, tecido ou cor depois de aplicar o código pode resetar o checkout, exigindo digitar o cupom novamente.",
+          "Posso mudar modelo, tecido ou cor depois de aplicar? Pode revisar a seleção antes de pagar. Depois da alteração, confira novamente o produto, o total e a linha do CECILIA12 no resumo; se o código não estiver aplicado, digite-o de novo.",
           "Quanto tempo tenho para trocar ou devolver? São 30 dias, contados do recebimento. As [políticas da Damie](https://www.damie.com.br/pages/politicas) pedem o item como foi recebido, na embalagem original e com o comprovante, e excluem itens em promoção; leia as condições completas antes da compra.",
           "O cupom CECILIA12 acumula com outras promoções do site? Sim. O CECILIA12 soma com as promoções e os brindes do site, inclusive os 10% do Pix e o desconto por quantidade dos consultores no WhatsApp. Ele não soma com outro cupom nem com o giftback de 15%: no mesmo pedido, vale um código só. Confira o resumo do checkout antes de finalizar.",
           "Posso usar o cupom CECILIA12 mais de uma vez? O cupom CECILIA12 é válido para múltiplas compras no site oficial, desde que esteja dentro das condições vigentes. Não há limite de uso por CPF, mas o desconto se aplica apenas ao valor do produto e não ao frete. Recomendamos confirmar o valor final no checkout antes de pagar.",
@@ -31841,7 +31841,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: o que funciona de verdade",
         "paragraphs": [
-          "O que mais pesa numa poltrona de amamentação é a reclinação ajustável, o apoio de braço na altura certa, o tecido respirável e o movimento silencioso. A nossa é a DAMIE 1.0 em linho bege, usada há mais de um ano. No site da Damie, o cupom CECILIA12 dá 12% OFF e soma com as promoções."
+          "Na nossa DAMIE 1.0 em linho, recebida em parceria e usada há mais de um ano, a reclinação elétrica e o apoio de braço fizeram diferença. Para o sono, o bebê volta ao berço, porque a poltrona é para mamar acordada. O [cupom CECILIA12](/cupons/damie) dá 12% no site da Damie e soma com as promoções."
         ]
       },
       {
@@ -31859,8 +31859,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sono seguro: a poltrona é para mamar acordada",
         "paragraphs": [
-          "Um cuidado pesa mais que qualquer conforto: não adormeça com o bebê no colo na poltrona. O [caderno de puericultura da Secretaria de Saúde de Londrina](https://saude.londrina.pr.gov.br/images/DAPS/LINHA_GUIA/Caderno_de_Puericultura_Compartilhada_COMPLETO_FINAL_1.pdf), que segue as recomendações da Academia Americana de Pediatria e da Sociedade Brasileira de Pediatria, diz que sofás e poltronas são extremamente perigosos para o sono do bebê, com risco até 67 vezes maior de morte súbita.",
-          "Quando o bebê dormir, coloque-o de barriga para cima no berço, com colchão firme, plano e do tamanho do berço, sem travesseiros, almofadas, rolinhos ou ninhos. Se o sono bater nas mamadas da madrugada, a mesma orientação recomenda amamentar na cama e devolver o bebê ao berço ao terminar. Na dúvida, fale com o pediatra."
+          "Um cuidado pesa mais que qualquer conforto: não adormeça com o bebê no colo na poltrona. A [Academia Americana de Pediatria](https://www.healthychildren.org/English/ages-stages/baby/sleep/pages/a-parents-guide-to-safe-sleep.aspx) alerta que dormir com um bebê em sofá, poltrona macia ou almofada está associado a risco até 67 vezes maior de morte relacionada ao sono.",
+          "Para dormir, coloque o bebê de barriga para cima em berço ou moisés próprio, com superfície firme e plana, sem travesseiros, almofadas, rolinhos ou objetos soltos. Se houver chance de você adormecer durante a mamada, evite sofá e poltrona e peça ajuda para permanecer acordada. Se adormecer, devolva o bebê ao espaço de sono dele assim que acordar. Na dúvida, fale com o pediatra."
         ]
       },
       {
@@ -32428,7 +32428,7 @@ export const reviewsData: unknown[] = [
     "verdict": {
       "stars": 5,
       "recommendation": "recomendo",
-      "summary": "O topo da linha da Damie: dois motores independentes, ajuste de pescoço e conforto premium que justificam o investimento."
+      "summary": "Para o nosso uso diário, os dois motores fizeram diferença: dá para elevar os pés sem reclinar o encosto. É esse ajuste, junto do apoio de cabeça, que justifica a Levita para nós."
     },
     "productSpec": [
       {
@@ -32531,10 +32531,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem é a Poltrona Levita",
         "paragraphs": [
-          "A Levita é para quem quer relaxamento completo, não só uma poltrona confortável: ela ajusta pés e encosto separados. Ela fica acima de uma reclinável convencional porque entrega ajustes independentes, acabamento premium e uma proposta de uso mais sofisticada.",
-          "É o tipo de poltrona que faz sentido para sala de TV, quarto, escritório, canto de leitura, momento de jogar ou ambiente de descanso onde conforto é prioridade real. Também conversa com quem passa muito tempo sentado e quer controlar melhor a posição do corpo.",
-          "Aqui em casa, o Bruno testou a Levita em sessões longas de videogame. Em jogo de tiro ou partida online, que pedem atenção, ele joga com o encosto em pé e o braço apoiado; em RPG ou jogo single player, mais relaxado, reclina e fica deitado por horas.",
-          "Diferente da Moon, que é mais decorativa, a Levita é uma poltrona de função. Ela foi pensada para relaxar, assistir TV, ler, descansar e encontrar uma posição mais ergonômica com facilidade."
+          "A diferença da Levita está em ajustar os pés e o encosto separadamente. Ela faz mais sentido para quem vai usar essas posições com frequência, para ver TV, ler ou jogar.",
+          "Aqui em casa, o Bruno usa a Levita em sessões longas de videogame. Em jogo de tiro ou partida online, joga com o encosto em pé e o braço apoiado; em RPG ou jogo single player, reclina e fica deitado por horas. Esse é o uso que nos faz valorizar os dois motores."
         ]
       },
       {
@@ -32544,7 +32542,7 @@ export const reviewsData: unknown[] = [
         "imageCaption": "A Levita no ambiente da sala, pronta para momentos de descanso.",
         "imageFit": "portrait",
         "paragraphs": [
-          "O que põe a Levita acima da reclinável comum são os dois motores independentes: pés e encosto ajustam separados. São três botões, um para o encosto, um para os pés e um que volta os dois de uma vez. Antes, as nossas reclináveis eram manuais.",
+          "Os dois motores deixam ajustar os pés e o encosto separadamente. São três botões: um para o encosto, um para os pés e um que volta os dois de uma vez. Antes, as nossas reclináveis eram manuais.",
           "No nosso uso, as posições que mais fazem sentido são duas: só os pés para cima, com a coluna reta, e pés e encosto juntos, até a posição de gravidade zero, a da cadeira do dentista, com o peso do corpo distribuído. Baixar só o encosto deixa as pernas penduradas. O motor faz um ruído baixo, bem menor que o de um ventilador.",
           "O apoio de cabeça tem ajuste manual e pede um pouco de força para posicionar. É isso que o deixa firme: quando a cabeça encosta, ele não volta. Deitada, dá para erguer a cabeça e ler ou ver uma tela sem forçar o pescoço."
         ]
@@ -32560,7 +32558,7 @@ export const reviewsData: unknown[] = [
           "Outro ponto importante é que os componentes eletrônicos são bivolt. Para um produto elétrico desse porte, isso reduz preocupação na instalação e facilita o uso em diferentes casas.",
           "A nossa chegou montada, numa peça só, dentro de uma caixa grande com estrutura de madeira. Na caixa, ela não passa por uma porta de 80 cm; fora dela, passou sem arranhar. Quem mora sozinho vai precisar de ajuda para levar a caixa para dentro; depois, dá para arrastar a poltrona sozinho. O resto é ligar o fio na tomada.",
           "Totalmente aberta, ela ocupou o comprimento de três porcelanatos de 60 cm na nossa sala. O desenho é fino, e o aspirador passa por baixo dela.",
-          "Com duas crianças em casa, testamos a estabilidade: o Bruno, com 1,80 m e 80 kg, forçou os lados e o encosto com a poltrona na posição deitada. Ela balança, mas não vira; no máximo, arrasta."
+          "No nosso uso, o Bruno, com 1,80 m e 80 kg, pressionou os lados e o encosto com a poltrona deitada. Ela balançou e chegou a arrastar, mas não virou. Com crianças em casa, siga as instruções de uso e de estabilidade da marca."
         ]
       },
       {
@@ -32573,12 +32571,10 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Conforto premium: por que ela custa mais",
+        "heading": "Quando os dois motores fazem diferença",
         "paragraphs": [
-          "A Levita é produto premium: entenda isso antes de olhar o preço. O valor não está apenas na aparência, mas na soma de mecanismo elétrico, motores independentes, revestimento, estrutura, ergonomia e acabamento.",
-          "Para decoração bonita, vá de Moon. Para descanso diário com ajustes precisos, a Levita justifica o investimento.",
-          "É o tipo de produto em que a pergunta não deve ser só “é caro?”, mas “vou usar de verdade?”. Se a resposta for sim, principalmente para TV, leitura, jogos, descanso ou rotina de relaxamento, ela entrega uma experiência bem acima do básico.",
-          "A Levita é uma poltrona para quem quer conforto como prioridade máxima. O investimento alto faz mais sentido quando ela vira parte real da rotina: assistir, jogar, ler, descansar, recuperar energia e transformar um canto da casa em espaço de relaxamento premium."
+          "No nosso uso, o que justifica pagar pela Levita é poder levantar os pés sem deitar o encosto e mudar de posição nos jogos. O apoio de cabeça manual complementa esse ajuste.",
+          "Se você vai usar a poltrona principalmente como decoração, esses recursos podem ter pouco valor na rotina. Antes de escolher, confira o espaço dela aberta, a tomada e se você quer mesmo os ajustes independentes."
         ]
       },
       {
@@ -32591,7 +32587,7 @@ export const reviewsData: unknown[] = [
         "heading": "Entrega, garantia e teste em casa",
         "paragraphs": [
           "A nossa levou 11 dias, contados da emissão da nota, até o interior de Minas Gerais, e chegou bem embalada.",
-          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP. Para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
           "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste.",
           "Suporta até 130 kg, a venda é online e há showroom em Frederico Westphalen (RS), diz a Damie. Comprando sem experimentar, o teste de 30 dias em casa pesa a favor.",
           "Como todo produto premium e elétrico, o ideal é conferir medidas, espaço de abertura, tomada próxima, revestimento e cor antes de finalizar a compra."
@@ -32621,7 +32617,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito",
         "paragraphs": [
-          "A Poltrona Levita é o topo da linha para quem busca conforto, tecnologia e acabamento premium. O grande diferencial está nos dois motores independentes, no ajuste de pescoço e na possibilidade de encontrar posições mais personalizadas para relaxar.",
+          "A Levita faz sentido para quem usa a reclinação no dia a dia. Na nossa casa, os ajustes separados de pés e encosto e o apoio de cabeça foram mais úteis que a ideia genérica de uma poltrona “premium”.",
           "Ela não é a escolha mais barata. Aqui, com duas crianças e duas pessoas trabalhando em casa, a Levita passou pelo uso diário, pela limpeza e pelos jogos longos do Bruno, e seguimos gostando muito dela. Para quem vai usar esse conforto todo dia, vale o investimento."
         ],
         "emphasis": "A Levita vale o investimento para quem vai usar o conforto todo dia; para quem quer só uma poltrona bonita pelo menor preço, ela não é a escolha."
@@ -32750,8 +32746,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem é o Sofá Damie na Caixa",
         "paragraphs": [
-          "Para quem precisa passar o sofá por escada, elevador pequeno ou corredor estreito, o modular de 3 lugares com puff facilita: os módulos chegam em caixas e montam dentro do ambiente. Antes de comprar, compare as medidas com a porta, o elevador e as curvas do caminho.",
-          "A grande proposta é simples: em vez de um sofá grande e difícil de transportar, os módulos chegam separados em caixas. Isso facilita a entrega, a entrada no imóvel e a montagem dentro do próprio ambiente. O puff também muda a experiência, porque aproxima o uso de um sofá retrátil sem prender a sala a uma estrutura única."
+          "Para quem precisa passar o sofá por escada, elevador pequeno ou corredor estreito, o modular de 3 lugares com puff facilita: os módulos chegam em caixas e montam dentro do ambiente. Antes de comprar, compare as medidas com a porta, o elevador e as curvas do caminho."
         ],
         "links": [
           {
@@ -32769,7 +32764,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A liberdade de configuração: dá para começar com 2 lugares, ficar nos 3 com puff ou montar 4 a 6 lugares.",
           "O número de lugares acompanha seu espaço e seu orçamento. No modelo de 3 lugares com puff, dá para montar uma sala confortável para lazer em família e ainda reposicionar o apoio de pé conforme o momento.",
-          "Isso é especialmente útil para apartamentos, casas em reforma ou famílias que ainda estão definindo a disposição final da sala. Um sofá tradicional exige acertar tudo de primeira; o modular se adapta e facilita a limpeza, módulo por módulo."
+          "A modularidade permite reorganizar a composição e separar os módulos para a limpeza. Isso é diferente de garantir que qualquer tamanho ou configuração vá caber na sala; confira as medidas antes de escolher."
         ]
       },
       {
@@ -32799,8 +32794,7 @@ export const reviewsData: unknown[] = [
           "Boa opção para sala de TV, sala integrada ou apartamento.",
           "Modelo de 3 lugares com puff, útil para descanso e sessões de filme.",
           "Permite mudar a composição conforme o ambiente.",
-          "Facilita transporte em locais onde um sofá tradicional seria complicado.",
-          "Visual mais atual que muitos sofás fixos convencionais."
+          "Facilita transporte em locais onde um sofá tradicional seria complicado."
         ]
       },
       {
@@ -32815,9 +32809,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito: vale o investimento?",
         "paragraphs": [
-          "Para nós, valeu: depois de mais de um ano, é um dos móveis mais usados da casa. Não é o sofá mais barato, e faz sentido para quem valoriza modularidade, entrega facilitada e adaptação do ambiente.",
-          "Para quem mora em apartamento, tem acesso difícil ou quer um sofá que acompanhe mudanças de layout, o investimento pode ser mais justificável. O preço inclui logística, flexibilidade, acabamento e teste em casa.",
-          "Em resumo, é uma solução inteligente para quem quer conforto e estética sem enfrentar o drama logístico de um sofá grande convencional. Não é uma compra pequena, então precisa ser planejada: meça bem a sala e compare módulos e tecido. Para quem valoriza modularidade, entrega facilitada e acabamento premium, ele pode valer o investimento."
+          "Para nós, valeu: depois de mais de um ano, o sofá é um dos móveis mais usados da casa. O puff serve para esticar as pernas na TV e vira assento extra nas visitas; tomada com USB e carregamento por indução foram opcionais escolhidos por nós.",
+          "Para decidir, compare acesso, medidas da sala, quantidade de módulos, tecido e preço da configuração completa. Se a entrada for estreita, peça as medidas das caixas à Damie. A passagem observada na nossa casa não garante a passagem na sua."
         ]
       },
       {
@@ -32901,8 +32894,8 @@ export const reviewsData: unknown[] = [
         "value": "Site oficial Damie"
       }
     ],
-    "description": "Minha análise da Poltrona Moon da Damie: design escultural, base giratória 360°, tecidos premium e por que ela funciona como peça de destaque na decoração.",
-    "metaDescription": "Poltrona Moon da DAMIE, com o cupom CECILIA12 de 12% OFF: design escultural, base giratória de 360°, tecidos premium e para quem ela é peça de destaque.",
+    "description": "A Moon da Damie está na nossa sala há mais de um ano. Veja a diferença entre a poltrona decorativa giratória e uma reclinável e o que conferir antes de escolher.",
+    "metaDescription": "O cupom CECILIA12 dá 12% OFF na Damie. Poltrona Moon: base giratória, tecidos e limites de uma decorativa, com a peça usada na nossa sala.",
     "publishedAt": "18 Abr 2026",
     "publishedAtISO": "2026-04-18",
     "updatedAt": "2026-11-05",
@@ -32937,7 +32930,7 @@ export const reviewsData: unknown[] = [
     "pros": [
       "Base giratória 360°",
       "Design marcante",
-      "Bouclé e linho premium",
+      "Opções de revestimento em bouclé e linho",
       "Estrutura de madeira e compensado naval",
       "Cupom CECILIA12 disponível"
     ],
@@ -32967,9 +32960,8 @@ export const reviewsData: unknown[] = [
         "imageCaption": "A Moon funciona como peça de destaque para sala, quarto, leitura ou canto de descanso.",
         "imageFit": "portrait",
         "paragraphs": [
-          "A Poltrona Moon é para quem procura uma peça de design, não apenas um assento extra. Ela tem aquele tipo de presença visual que muda o ambiente: entra na sala e vira ponto focal, especialmente em espaços com decoração mais contemporânea, minimalista ou aconchegante.",
-          "Diferente de uma poltrona reclinável, a proposta aqui não é cinema em casa com apoio para os pés e sistema elétrico. A Moon é uma poltrona decorativa giratória, pensada para compor sala de estar, quarto, closet, recepção, consultório, varanda coberta ou um canto de leitura mais sofisticado.",
-          "É uma escolha interessante para quem quer deixar o ambiente com aparência mais planejada, mas sem colocar um móvel exagerado. Ela traz volume, textura e personalidade, principalmente nas versões em Bouclé."
+          "A Moon é uma poltrona decorativa com base giratória. Escolha esse tipo de peça se você quer um assento para conversar, ler ou compor a sala e prefere o formato arredondado e o tecido com textura.",
+          "Ela não reclina, não tem apoio elétrico para os pés e não substitui uma reclinável para quem procura essas funções. A nossa está na sala há mais de um ano; é a peça que aparece nas fotos com a Cecília."
         ]
       },
       {
@@ -32979,9 +32971,8 @@ export const reviewsData: unknown[] = [
         "imageCaption": "Base giratória 360° e formato arredondado são os principais diferenciais da Moon.",
         "imageFit": "portrait",
         "paragraphs": [
-          "O que decide pela Moon é a combinação de forma arredondada, tecido com textura e base giratória 360°. A base gira 360° e tem acabamento em preto fosco, o que deixa a peça funcional sem roubar a atenção do desenho principal.",
-          "Essa rotação faz diferença no uso real. Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel. É um detalhe simples, mas que muda a relação da peça com o espaço.",
-          "A Damie apresenta a Moon como “muito mais que conforto, uma obra de arte”, e essa frase faz sentido para o posicionamento dela. A poltrona não tenta competir com uma reclinável em funções; ela entrega design, textura e presença."
+          "O conjunto da Moon é formato arredondado, revestimento com textura e base giratória de 360° em preto fosco. O giro permite mudar a direção do assento sem reposicionar a poltrona no chão.",
+          "Essa rotação faz diferença no uso real. Em uma sala integrada, por exemplo, você pode virar a poltrona para conversar, assistir TV, olhar para a cozinha ou aproveitar uma janela sem precisar arrastar o móvel. É um detalhe simples, mas que muda a relação da peça com o espaço."
         ]
       },
       {
@@ -32991,8 +32982,8 @@ export const reviewsData: unknown[] = [
         "imageCaption": "A página oficial destaca espuma D33, estrutura interna e opções de revestimento.",
         "imageFit": "portrait",
         "paragraphs": [
-          "A página oficial lista espuma D33, buscando equilíbrio entre conforto e firmeza. Esse é um ponto importante: ela não é uma poltrona molenga para afundar, mas sim uma peça com estrutura e sustentação.",
-          "A página oficial diz: estrutura de madeira e compensado naval, que mantém forma e estabilidade com o tempo.",
+          "A página oficial lista espuma D33, que indica a densidade da espuma.",
+          "A marca declara estrutura de madeira e compensado naval.",
           "Nos revestimentos, a Moon aparece em Tecido Bouclé e Tecido Linho. O Bouclé está disponível em Terracota, Off White, Cinza, Verde Sálvia e Grafite. O Linho aparece em Off White, Terracota e Grafite. São cores pensadas para decoração: algumas mais neutras, outras mais marcantes."
         ]
       },
@@ -33001,9 +32992,9 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A montagem é simples: a poltrona chega praticamente montada, é tirar da embalagem e posicionar. Para quem não quer lidar com montagem complexa, isso pesa a favor.",
           "A nossa Moon está na sala há mais de um ano, e é nela que a Cecília aparece nas fotos deste review.",
-          "Em 05/11/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste, por transportadora. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+          "Em 05/11/2026, a Damie informava frete grátis para poltronas e sofás no Sul e no Sudeste. No Centro-Oeste, frete e prazo são calculados pelo CEP; para Norte e Nordeste, a página de entregas direciona aos anúncios oficiais no Mercado Livre, onde o CECILIA12 não vale. O prazo do site conta da confirmação do pagamento.",
           "A loja dá garantia de 1 ano, suporte vitalício e 30 dias para testar. Para devolver no teste, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira; a devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal. Por isso, guarde a caixa até o fim do teste.",
-          "A página oficial informa peso máximo de 130 kg: mesmo decorativa, a Moon é feita para sentar."
+          "A página oficial declara capacidade de até 130 kg. Confira também as medidas da peça e do caminho de entrada na sua casa."
         ]
       },
       {
@@ -33015,17 +33006,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale o investimento?",
         "paragraphs": [
-          "A Poltrona Moon vale mais para quem enxerga decoração como parte da experiência da casa. Ela não é a escolha para quem procura uma poltrona reclinável cheia de funções, mas para quem quer uma peça bonita, giratória, confortável e capaz de transformar visualmente um canto do ambiente.",
-          "O investimento se justifica quando você compara a Moon com móveis decorativos de alto impacto. Ela entrega acabamento, textura, base giratória, estrutura interna e uma estética que parece mais próxima de projeto de interiores do que de móvel genérico.",
-          "Se a prioridade é relaxar por horas vendo filme, vá de reclinável. Se a prioridade é criar um ambiente elegante, com uma peça confortável e visualmente forte, a Moon entra muito bem.",
-          "A Moon não é só visual: espuma D33 e estrutura de madeira com compensado naval buscam equilíbrio entre conforto e firmeza, para usar no dia a dia, não só admirar."
+          "Antes de escolher a Moon, confirme três pontos: se você quer uma decorativa em vez de uma reclinável, se as medidas cabem no ambiente e qual revestimento combina com a sua rotina.",
+          "A decisão pelo desenho e pela textura é pessoal. O giro acrescenta uma função prática; já os pés elevados e a reclinação pedem outro tipo de poltrona."
         ]
       },
       {
         "heading": "Veredito",
         "paragraphs": [
-          "A Poltrona Moon é uma escolha forte para quem quer elevar o visual da casa com uma peça de design. Ela une formato escultural, base giratória 360°, tecidos nobres e uma proposta clara: ser confortável, mas também ser protagonista na decoração.",
-          "Não é uma poltrona para quem busca reclinação, massagem ou funções elétricas. É uma poltrona decorativa premium. Dentro dessa proposta, faz sentido para salas, quartos, cantos de leitura e ambientes onde estética e conforto precisam andar juntos."
+          "Gostamos da proposta da Moon como decorativa giratória, e ela está na nossa sala há mais de um ano. Para quem quer esse desenho e não precisa de reclinação, é uma opção a considerar.",
+          "Se você procura apoio para os pés ou ajustes elétricos para passar horas vendo filme, compare com uma reclinável. Antes da compra, confira medidas, tecido, prazo e as condições do teste em casa."
         ],
         "emphasis": "A Moon é para quem quer uma peça de design que também sirva para sentar, na sala, no quarto ou no canto de leitura; para relaxar por horas vendo filme, a escolha é uma reclinável."
       },
@@ -33097,7 +33086,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "Produto de alto padrão (investimento maior)",
-      "Modelos com massageador têm custo adicional",
+      "Opcionais como o massageador podem ter custo extra, conforme o modelo e a campanha",
       "Requer tomada próxima para o sistema elétrico"
     ],
     "pullQuote": "Não é uma compra de impulso; é um investimento para quem realmente quer montar um espaço de descanso com qualidade.",
@@ -33153,7 +33142,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Durante a construção da nossa casa nova, meu marido e eu estávamos planejando cada detalhe do nosso lar. Foi quando ele descobriu as poltronas reclináveis da Damie pelo canal do YouTube Meu Mundo Tech, especializado em cinema em casa e tecnologia. Ele ficou encantado na hora.",
           "Os vídeos destacavam o conforto, a funcionalidade e o design moderno das poltronas. Mesmo com a casa ainda em obras, começamos a planejar onde elas ficariam. Decidimos quantas poltronas teríamos, duas para compor nossa sala de TV, e como integraríamos tudo ao projeto.",
-          "A possibilidade de personalizar revestimentos e acessórios nos deixou ainda mais animados. A visão de criar um ambiente de relaxamento e sofisticação com as poltronas da Damie nos motivou desde o início."
+          "A escolha dos revestimentos e acessórios entrou no planejamento do ambiente."
         ],
         "image": {
           "src": "/images/reviews/damie-reclame-aqui-local.webp",
@@ -33195,15 +33184,16 @@ export const reviewsData: unknown[] = [
         "links": [
           {
             "label": "Acessar site oficial da Damie",
-            "href": "https://damie.com.br"
+            "href": "https://damie.com.br",
+            "sponsored": true
           }
         ]
       },
       {
-        "heading": "Conforto e Funcionalidades: Um Sonho Realizado",
+        "heading": "Conforto depois de mais de um ano",
         "paragraphs": [
           "Ajuste com um toque: encosto e apoio dos pés se movem para filme, leitura ou descanso. O sistema elétrico de reclinação é silencioso e prático, ideal para o uso diário.",
-          "A espuma tem a densidade ideal, oferecendo conforto duradouro mesmo após horas de uso. O assento é amplo, acomodando diferentes tamanhos com facilidade. O porta-copos também virou um detalhe muito útil para café, suco ou até uma pipoca durante nossas sessões de cinema em casa.",
+          "Para nós, a espuma continuou confortável no uso diário, e o assento é espaçoso. O porta-copos virou apoio para café e suco nas sessões de cinema em casa.",
           "A estrutura segue firme, até aqui sem sinais de desgaste."
         ],
         "image": {
@@ -33214,10 +33204,10 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1
         },
         "bullets": [
-          "Sistema elétrico de reclinação silencioso e prático.",
-          "Espuma confortável e assento espaçoso.",
-          "Porta-copos perfeito para cinema em casa.",
-          "Estrutura robusta, com sensação de segurança e durabilidade."
+          "Reclinação elétrica silenciosa no nosso uso.",
+          "Assento espaçoso e espuma que continuam confortáveis para nós.",
+          "Porta-copos que usamos nas sessões de cinema.",
+          "Até aqui, nossa estrutura segue firme, sem sinais de desgaste."
         ]
       },
       {
@@ -33251,17 +33241,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prós e Contras da Poltrona Reclinável Damie",
         "paragraphs": [
-          "Depois de mais de um ano de uso, o que fez diferença foi o conforto diário; o que pesa é preço, massageador e tomada."
+          "Depois de mais de um ano, o que fez diferença foi o conforto diário e a praticidade do motor. Antes de escolher, eu olharia o preço da configuração e onde ficará a tomada."
         ],
         "bullets": [
-          "Prós: conforto excepcional com espuma de alta densidade.",
+          "Prós: espuma que continuou confortável no nosso uso diário.",
           "Prós: sistema elétrico de reclinação silencioso e prático.",
           "Prós: diversidade de revestimentos e acessórios personalizáveis.",
           "Prós: montagem fácil e rápida, com instruções claras.",
           "Prós: embalagem reforçada, e a nossa entrega chegou rápido.",
           "Prós: versatilidade para usos como amamentação e cinema em casa.",
           "Contras: preço pode ser elevado para alguns orçamentos, embora o cupom CECILIA12 ajude a economizar.",
-          "Contras: modelos com massageador têm custo adicional.",
+          "Contras: o custo dos opcionais muda conforme o modelo e a campanha.",
           "Contras: requer tomada próxima para o sistema elétrico."
         ]
       },
@@ -33270,7 +33260,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "A Damie vale para quem quer montar um espaço de descanso: relaxar, ver filme ou amamentar com conforto, durabilidade e estilo.",
           "No site da Damie, dá para escolher revestimento, cor e acessórios conforme a rotina da casa. A loja também oferece teste por 30 dias, garantia de 1 ano e atendimento para dúvidas e personalizações.",
-          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. No Centro-Oeste e nas capitais, o frete e o prazo saem pelo CEP no carrinho; no Norte e no Nordeste, a venda é pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta a partir da confirmação do pagamento.",
+          "O frete de poltronas e sofás é grátis no Sul e no Sudeste. Para o Centro-Oeste, confira frete e prazo pelo CEP no carrinho. No Norte e no Nordeste, a marca atende pelos anúncios oficiais da Damie no Mercado Livre, onde o CECILIA12 não vale. O prazo conta da confirmação do pagamento.",
           "Para devolver no teste de 30 dias, a poltrona precisa voltar completa, com os acessórios, na embalagem original e sem sinais de uso severo ou sujeira. A devolução é pedida pelo WhatsApp da Damie, com o nome completo e o número da nota fiscal, e a loja agenda a coleta. Por isso, guarde a caixa até o fim do teste.",
           "Nossa experiência foi tão positiva que continuamos recomendando a marca para amigos, familiares e seguidores do Em Casa com Cecília."
         ]
@@ -33307,7 +33297,8 @@ export const reviewsData: unknown[] = [
           },
           {
             "label": "Comprar no site da Damie",
-            "href": "https://damie.com.br"
+            "href": "https://damie.com.br",
+            "sponsored": true
           }
         ]
       }
@@ -39715,9 +39706,9 @@ export const reviewsData: unknown[] = [
     "category": "confianca-reputacao",
     "reviewKind": "editorial",
     "draft": false,
-    "description": "Entenda o histórico de reclamações da Sofá na Caixa, o que o Procon-SP e a imprensa registraram e como a empresa aparece hoje no Reclame Aqui.",
+    "description": "Histórico de reclamações da Sofá na Caixa: o que a imprensa registrou sobre o Procon-SP, o painel de maio a outubro de 2026 no Reclame Aqui e os canais para reclamar.",
     "seoTitle": "O que aconteceu com a Sofá na Caixa?",
-    "metaDescription": "Sofá na Caixa: histórico de reclamações, checagem na lista \"Evite Estes Sites\" do Procon-SP e reputação Regular (nota 6,4) no Reclame Aqui.",
+    "metaDescription": "Sofá na Caixa: histórico de reclamações, lista do Procon-SP atualizada em 12/05/2026 e nota 6,4 no Reclame Aqui, no recorte de maio a outubro de 2026.",
     "publishedAt": "10 de agosto de 2026",
     "publishedAtISO": "2026-08-10",
     "updatedAt": "2026-11-06",
@@ -39739,7 +39730,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resumo rápido",
         "paragraphs": [
-          "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso, produto não recebido e estorno não feito. A imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, aparece como Regular, nota 6,4. Ela não consta na lista de sites a evitar, o que não encerra a investigação nem garante a compra."
+          "A Sofá na Caixa viralizou com sofás modulares em caixa e acumulou reclamações por atraso e estorno pendente; a imprensa registrou fiscalização do Procon-SP. No Reclame Aqui, de maio a outubro de 2026, aparece como Regular, nota 6,4. Ela não consta na lista de sites a evitar do Procon-SP, o que não encerra a investigação nem garante a compra."
         ]
       },
       {
@@ -39812,8 +39803,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Consulta à lista 'Evite Estes Sites' do Procon-SP",
         "paragraphs": [
-          "Em 2025, segundo a Exame, o Procon-SP abriu investigação sobre a Sofá na Caixa devido a notificações de atrasos e falta de entrega.",
-          "Na versão da lista \"Evite Estes Sites\" atualizada em 12/05/2026, o domínio sofanacaixa.com.br e a empresa não aparecem. Isso não encerra a investigação nem garante uma compra sem problemas: a lista é outra consulta, separada das reclamações e da fiscalização."
+          "Em 2025, segundo apuração da revista Exame, o Procon-SP abriu procedimento de investigação contra a Sofá na Caixa motivado pelo aumento de notificações por atrasos e pedidos não entregues.",
+          "Na versão pública da lista \"Evite Estes Sites\" consultada (atualizada em 12/05/2026), o domínio sofanacaixa.com.br e a empresa não constam. Isso não encerra as investigações nem garante uma compra sem problemas: a lista é outra consulta, separada das reclamações e da fiscalização."
         ],
         "bullets": [
           "Confira você mesmo a lista Evite Estes Sites e o painel Empresas Reclamadas antes de pagar, porque a situação muda."
@@ -39828,28 +39819,26 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que fazer se você comprou da Sofá na Caixa e está com problema",
         "paragraphs": [
-          "Comprou e está com atraso ou sem estorno? Os órgãos de defesa recomendam guardar comprovantes, notas fiscais e conversas.",
+          "Comprou e está com atraso ou sem estorno? Guarde comprovantes, notas fiscais e conversas, e registre a reclamação por escrito antes de qualquer ação.",
           "O Código de Defesa do Consumidor (CDC) permite exigir a entrega forçada, produto equivalente ou a rescisão com restituição dos valores.",
-          "Se decidir ir ao Juizado Especial Cível da sua cidade, leve os comprovantes e peça orientação sobre os documentos.",
-          "Se o valor for alto, fale com um advogado antes de ir ao Juizado."
+          "Se a mediação não resolver, o Juizado Especial Cível da sua cidade é o próximo passo; leve os comprovantes."
         ],
         "bullets": [
           "Registre todos os contatos com a empresa por escrito, guardando protocolos e comprovantes",
-          "O Código de Defesa do Consumidor permite exigir o cumprimento da oferta, reembolso integral ou rescisão do contrato",
           "Registre queixa formal no Procon do seu estado e no Consumidor.gov.br",
-          "No Juizado Especial Cível (JEC), ações de até 20 salários mínimos podem ser ajuizadas sem necessidade de advogado; para valores entre 20 e 40 salários mínimos, a legislação exige a representação por advogado."
+          "No Juizado Especial Cível (JEC), ações de até 20 salários mínimos podem ser ajuizadas sem advogado."
         ]
       },
       {
         "heading": "Procon-SP: comparação de registros no painel \"Empresas Reclamadas\"",
         "paragraphs": [
-          "Transparência comercial: o Em Casa com Cecília mantém parceria de afiliado com a Damie e pode receber comissão em compras, sem custo extra para você. A comparação abaixo é só um retrato de volume, não uma prova de qualidade.",
+          "Transparência comercial: o Em Casa com Cecília mantém parceria de afiliado com a marca Damie e pode receber comissão em compras originadas pelo site, sem custo extra para o leitor. A comparação abaixo é só um retrato de volume, não uma prova de qualidade.",
           "No painel \"Empresas Reclamadas\" do Procon-SP, na consulta anterior feita para este artigo, a Sofá na Caixa somava 1.125 queixas e a Damie, 6. O período e o filtro dessa consulta não foram registrados, e volume absoluto não é taxa de falhas por pedido: uma empresa que vende muito mais tende a receber mais queixas.",
           "A pesquisa \"Empresas Reclamadas\" quantifica os atendimentos abertos no Procon-SP. Ela não se confunde com a lista \"Evite Estes Sites\", que é uma consulta administrativa separada."
         ],
         "bullets": [
-          "Painel do Procon-SP (consulta anterior) — Sofá na Caixa: 1.125 reclamações registradas",
-          "Painel do Procon-SP (consulta anterior) — Damie: 6 reclamações registradas no mesmo painel de busca"
+          "Sofá na Caixa: 1.125 queixas registradas no painel do Procon-SP no momento da consulta histórica",
+          "Damie: 6 queixas registradas no mesmo painel do órgão paulista"
         ],
         "images": [
           {
@@ -39880,8 +39869,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O que aconteceu com a Sofá na Caixa? A empresa viralizou vendendo sofás modulares compactos em caixas e enfrentou um pico de atrasos de entrega e reclamações em 2025, que o fundador, segundo a BBC News Brasil, atribuiu a desafios logísticos e custos de insumos. No Reclame Aqui, a marca responde quase todas as queixas, mas resolve cerca de 6 em cada 10; os números estão no capítulo sobre o Reclame Aqui.",
-          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na última versão publicada da lista, o domínio oficial não aparece. Isso não encerra a investigação nem garante a compra.",
-          "Qual é a nota da Sofá na Caixa no Reclame Aqui? A empresa tem selo Regular e nota 6,4 no recorte mais recente de seis meses. A marca responde quase tudo, mas resolve cerca de 6 em cada 10; os demais números estão no capítulo sobre o Reclame Aqui.",
+          "A Sofá na Caixa está na lista Evite Estes Sites do Procon-SP? Na última versão publicada da lista, o domínio oficial não aparece. A ausência nessa lista não informa o resultado de uma investigação nem garante a compra.",
+          "Qual é a nota da Sofá na Caixa no Reclame Aqui? No recorte mais recente de seis meses, a marca tem selo Regular e nota 6,4. Ela responde quase todas as queixas (99,8%), mas resolve cerca de 6 em cada 10; os demais números estão no capítulo sobre o Reclame Aqui.",
           "O que fazer se comprei e não recebi o produto? Guarde todos os comprovantes, notas fiscais e conversas. O Código de Defesa do Consumidor garante o direito ao reembolso ou cumprimento da oferta. É possível registrar queixa no Procon-SP ou Consumidor.gov.br e recorrer ao Juizado Especial Cível (sem advogado até 20 salários mínimos; com advogado entre 20 e 40 salários mínimos)."
         ]
       },
@@ -43805,7 +43794,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá modular ou retrátil: resposta rápida",
         "paragraphs": [
-          "O retrátil, de assento deslizante, libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo, sem trilhos, chega em partes e tende a facilitar a entrada e a mudança de layout. Há modelos que juntam as duas características. Meça a sala e o caminho da entrega antes de decidir."
+          "O retrátil libera circulação quando fechado e dá apoio às pernas sem mover peças. O modular fixo chega em partes e tende a facilitar a entrada e a mudança de layout. Meça a sala e o caminho da entrega antes de decidir."
         ]
       },
       {
@@ -43869,8 +43858,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Limpeza e manutenção: onde o modular leva vantagem",
         "paragraphs": [
-          "Na limpeza de rotina, o modular tende a ser mais simples: é possível afastar um módulo por vez para aspirar o piso, alcançar as frestas e limpar a área entre as peças. Isso ajuda especialmente em casas com pets, crianças ou acúmulo frequente de poeira. O tecido e o peso de cada módulo ainda importam, mas a composição separável facilita o acesso.",
-          "No retrátil, trilhos, articulações e vãos sob o assento criam pontos menos acessíveis. Como há componentes móveis, eles também podem precisar de ajuste, lubrificação ou reparo ao longo do tempo. Isso não significa que todo retrátil apresentará defeito: qualidade da estrutura, frequência de uso, carga e manutenção influenciam a durabilidade. A diferença é que o modular fixo não depende do mecanismo retrátil para funcionar."
+          "Na rotina de limpeza, o sofá modular fixo oferece uma facilidade evidente: por ser formado por blocos independentes, você pode afastar um assento por vez para aspirar o piso e higienizar as frestas entre os tecidos. Em lares com crianças ou animais de estimação, essa mobilidade simplifica a higienização frequente.",
+          "No retrátil, trilhos, articulações e vãos sob o assento criam pontos menos acessíveis. Além disso, por ter peças móveis, o mecanismo pode precisar de ajuste, lubrificação ou reparo ao longo do tempo. Isso não significa que todo retrátil apresente defeito: qualidade da estrutura, frequência de uso, carga e manutenção influenciam a durabilidade."
         ]
       },
       {
@@ -43906,16 +43895,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Caso real: como puffs, baú e acessórios mudam o modular",
         "paragraphs": [
-          "Na prática, a flexibilidade do modular não vem apenas de separar os assentos. Puffs, baús e acessórios mudam a função da composição sem exigir a troca do sofá inteiro.",
-          "Opcionais — baú de apoio central: diferente de um módulo fixo, o baú se reposiciona na composição a cada ocasião."
+          "Na prática, a grande flexibilidade de um sofá modular não decorre apenas de transportar assentos separados na hora da entrega. A possibilidade de incorporar puffs, baús e módulos funcionais transforma a dinâmica da sala conforme a necessidade de cada momento.",
+          "Um exemplo prático é o baú de apoio central: por ser uma peça independente, ele pode ser reposicionado a cada ocasião dentro da composição."
         ],
         "image": "/images/reviews/sofa-damie-na-caixa-cecilia-conceito.webp",
         "imageAlt": "Cecília demonstra o baú de apoio central azul ao lado do sofá modular Damie",
         "imageCaption": "O baú de apoio central é uma peça independente e pode ser reposicionado dentro da composição do sofá modular.",
         "imageFit": "portrait",
         "postParagraphs": [
-          "Puffs: um puff para cada assento cria apoio para as pernas e uma superfície ampla de descanso. Em sala espaçosa ou integrada, os puffs também podem ficar atrás dos módulos e ajudar a formar uma composição em ilha.",
-          "Acessórios opcionais integrados aos braços: carregador USB, luminária, porta-taça, mesa de apoio lateral, suporte para smartphone/tablet com carregamento por indução e um case 3 em 1, tudo acoplado ao braço do módulo; não são acessórios avulsos que ocupam espaço à parte. Esse conjunto integrado faz parte da linha modular da Damie."
+          "Puffs avulsos: adicionar um puff em frente a cada módulo cria a mesma superfície contínua de descanso para as pernas de um retrátil, com a vantagem de poder reposicionar essa peça contra a parede ou atrás dos encostos para formar uma composição de ilha em salas integradas.",
+          "Acessórios acoplados aos braços: carregador USB, luminária, porta-taça, mesa de apoio e suporte com carregamento por indução podem ficar integrados à estrutura lateral. Na linha modular da Damie, esses itens são acoplados aos braços dos módulos e não ocupam espaço à parte."
         ]
       },
       {
@@ -43973,7 +43962,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Este comparativo baseia-se em padrões ergonômicos de interiores, especificações de fabricantes e análise pública de mercado. O Em Casa com Cecília recebeu da DAMIE, em parceria, os produtos citados, inclusive o sofá modular, e divulga o cupom CECILIA12. O link da loja pode gerar comissão, sem custo extra.",
+    "editorialNote": "Comparamos as características dos modelos descritos e a nossa experiência com o sofá modular DAMIE, recebido em parceria. O cupom CECILIA12 e os links da loja podem gerar comissão, sem custo extra para você.",
     "relatedArticles": [
       {
         "slug": "sofa-damie-modular-vale-a-pena"
@@ -44923,11 +44912,11 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Uma poltrona decorativa muda a maneira de viver a sala",
+        "heading": "Comece pelo uso e pelo espaço da sala",
         "paragraphs": [
-          "É fácil entender por que uma poltrona marcante vira o ponto de partida da sala: ela convida à leitura, à conversa demorada e ao descanso diante da TV. Para que a escolha seja bonita também depois da compra, vale imaginar a cena inteira: quem vai sentar, por quanto tempo e como esse canto entra na rotina da casa.",
-          "Antes de se apaixonar por um modelo, desenhe no ambiente a área ocupada pelo assento e pela abertura do apoio de pés. Deixe uma passagem prática para quem cruza a sala, considere mesas laterais e luminárias e teste se o giro ou a reclinação não colidem com sofá, parede ou painel. Uma peça bonita que interrompe a circulação costuma virar incômodo diário.",
-          "Também vale escolher o revestimento a partir da rotina. Couro pode facilitar a limpeza de pequenos acidentes; linho acrescenta textura e uma leitura mais leve ao ambiente, mas pede os cuidados adequados ao tecido. Sol direto, crianças, pets, uso com manta e frequência de limpeza são dados mais úteis do que uma regra universal sobre qual acabamento é melhor."
+          "Pense no uso principal da poltrona: ler, conversar ou ver TV. Isso ajuda a escolher o apoio para os braços, a posição dos pés e o lugar da luminária.",
+          "Marque no chão a área da poltrona com o puff ou o apoio de pés aberto. Confira a passagem e a distância para sofá, parede e painel; considere também o giro e a tomada, quando o modelo for elétrico.",
+          "Para escolher o revestimento, leia os cuidados da versão que pretende comprar. Sol direto, crianças, pets e frequência de limpeza ajudam a decidir entre couro e tecido."
         ],
         "bullets": [
           "Para leitura: priorize apoio de braços, lugar para luminária e uma posição confortável que possa ser mantida por algum tempo.",
@@ -45084,7 +45073,7 @@ export const reviewsData: unknown[] = [
             ]
           ]
         },
-        "emphasis": "Se fosse para a minha casa, eu levaria a Levita, porque o ajuste elétrico de encosto e apoio resolve leitura e TV sem levantar.",
+        "emphasis": "Na minha Levita, uso os ajustes independentes de encosto e apoio de pés para encontrar a posição de leitura ou de TV. Esse é o recurso que mais pesa na minha escolha.",
         "emphasisAfterParagraph": 2
       },
       {
@@ -53744,7 +53733,7 @@ export const reviewsData: unknown[] = [
           "O balanço é o recurso mais procurado e faz sentido: o embalo suave ajuda muitos bebês a relaxar e poupa você de ninar em pé pela casa. Mas ele não é obrigatório. Uma poltrona fixa, firme e na altura certa resolve a mamada; o balanço é um conforto a mais, não o critério principal.",
           "Se escolher balanço, preste atenção em duas coisas. A primeira é o barulho: estalos e rangidos são justamente o que você não quer às três da manhã, então vale ler avaliações de compradores procurando por essas palavras. A segunda é a estabilidade: o movimento precisa ser curto e firme, sem dar a sensação de que a poltrona vai tombar para trás quando você se apoia para levantar.",
           "O giro é outro recurso que parece detalhe e não é. Girando, você alcança a água, a fralda ou o celular na mesinha sem torcer o tronco com o bebê no colo. Na nossa DAMIE 2.0, que tem base com giro e balanço, o giro foi justamente o recurso que eu mais subestimei antes de usar. E o balanço tem me surpreendido: ajuda a acalmar as crianças com aquele embalo de colo.",
-          "Nas poltronas com puff dos marketplaces, o balanço costuma vir de uma base de madeira curva e não há giro. Nas reclináveis elétricas, giro e balanço ficam na base. Na DAMIE, o giro é de 180°, e não de 360° como às vezes aparece por aí."
+          "Nas poltronas com puff dos marketplaces, o balanço costuma vir de uma base de madeira curva. Nas DAMIE elétricas 1.0 e 2.0 com base de giro e balanço descritas aqui, o giro informado é de 180°. A Aurora, apresentada abaixo, é outro modelo: manual, com puff e giro de 360°."
         ],
         "links": [
           {
@@ -53789,7 +53778,7 @@ export const reviewsData: unknown[] = [
           "A poltrona de amamentação se divide em três grupos, e nenhum é certo para todo mundo: depende do orçamento, do espaço e do uso depois da amamentação. Os preços abaixo mudam com frequência.",
           "Poltrona fixa com puff. É a porta de entrada. Um exemplo é a poltrona com puff da Dreamy House vendida na Amazon: estrutura de eucalipto, revestimento em suede, puff com pés de rosca, sem balanço, por R$ 469 (R$ 445,55 no Pix). Atende quem precisa gastar pouco, mas a garantia do fabricante é de 3 meses, e há avaliações de compradores relatando assento que deforma rápido. Leia as avaliações antes de decidir.",
           "Poltrona com balanço e puff. É a mais procurada nos marketplaces. No Mercado Livre, a maioria dos modelos com balanço e puff estava entre R$ 550 e R$ 1.000. A Áquila, com balanço e puff, é um dos modelos mais conhecidos e custava R$ 862 na versão bege. Antes de comprar, compare medidas, revestimento, prazo de garantia e as avaliações sobre barulho no balanço.",
-          "Reclinável elétrica com giro e balanço. É o grupo da DAMIE, que vende a reclinável elétrica com base de giro e balanço nas versões 1.0 e 2.0, de R$ 4.299 a R$ 5.699 conforme o revestimento. Você reclina o encosto e levanta o apoio de pés por botão, sem fazer força, até 145°, e ainda tem giro de 180° e balanço. A marca dá 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. Custa bem mais, e a lógica é outra. A poltrona de amamentação tradicional costuma ser usada por um ou dois anos e depois fica no quarto da criança como decoração. A reclinável continua na sala depois da amamentação e, com opcionais como mesa de apoio, luminária e carregador de celular, vira canto de trabalho, leitura ou cinema."
+          "Reclinável elétrica com giro e balanço. É o grupo da DAMIE, que vende a reclinável elétrica com base de giro e balanço nas versões 1.0 e 2.0, de R$ 4.299 a R$ 5.699 conforme o revestimento. Você reclina o encosto e levanta o apoio de pés por botão, sem fazer força, até 145°, e ainda tem giro de 180° e balanço. A marca dá 1 ano de garantia, 30 dias para experimentar em casa e frete grátis para Sul e Sudeste. Custa bem mais, e a lógica é outra. Depois da amamentação, tanto uma fixa com puff quanto uma reclinável podem servir para leitura ou descanso. Na reclinável, os ajustes por botão e opcionais como mesa, luminária e carregador permitem outros usos; avalie se você quer esses recursos na sala."
         ],
         "comparisonTable": {
           "caption": "Comparação das três faixas de preço, com preços consultados em 6 de outubro de 2026.",
@@ -53832,8 +53821,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Depois da amamentação",
-              "Costuma virar decoração no quarto da criança",
-              "Costuma virar decoração no quarto da criança",
+              "Leitura ou descanso; o puff continua separado",
+              "Leitura ou descanso, com balanço e puff separado",
               "Sala, leitura, trabalho ou cinema, com opcionais"
             ]
           ]
@@ -53913,7 +53902,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A poltrona que usamos aqui em casa",
         "paragraphs": [
-          "A nossa história com a poltrona reclinável começou antes do Ian. Ela já fazia parte da sala, em linho bege, e ganhou uma função nova quando ele nasceu. Ajustar a inclinação pelo botão, sem fazer força, foi o que mais fez diferença nas mamadas da madrugada: quando ele estava agitado, eu deixava o encosto mais reto; quando dormia, reclinava devagar e aproveitava para descansar também.",
+          "A nossa história com a poltrona reclinável começou antes do Ian. Ela já fazia parte da sala, em linho bege, e ganhou uma função nova quando ele nasceu. Ajustar a inclinação pelo botão, sem fazer força, foi o que mais fez diferença nas mamadas da madrugada: quando ele estava agitado, eu deixava o encosto mais reto; quando dormia, reclinava devagar e aproveitava para descansar também. Para o sono do bebê, a orientação da [Academia Americana de Pediatria](https://www.healthychildren.org/english/ages-stages/baby/sleep/pages/Preventing-SIDS.aspx) é colocá-lo de barriga para cima, em superfície firme e plana própria para dormir, e não adormecer com ele no colo na poltrona.",
           "Hoje temos também a DAMIE 2.0 elétrica com giro e balanço, em corino caramelo. Em relação à primeira versão, a 2.0 trouxe almofada de cabeça regulável, bolsos laterais maiores, apoio de braço contínuo e mais espuma no apoio de pés. Os bolsos parecem bobagem, mas guardam paninho, fralda e garrafa de água ao alcance da mão.",
           "Isso não quer dizer que uma reclinável elétrica seja a única escolha certa. Ela foi a nossa porque a poltrona ia continuar na sala depois da amamentação e porque o ajuste sem esforço fazia diferença para mim. Se o orçamento ou o espaço apertam, uma boa poltrona com puff e braço firme resolve a fase de amamentação."
         ],
@@ -53933,7 +53922,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se o orçamento está apertado e o uso vai ser só na fase de amamentação, uma poltrona fixa ou com balanço e puff cumpre o papel. Priorize braço firme, assento que não afunde e boas avaliações sobre durabilidade, mesmo que isso signifique pagar um pouco mais dentro dessa faixa.",
           "Se o quarto é pequeno, prefira um modelo compacto e pense onde o puff vai ficar, ou considere uma reclinável cujo apoio de pés recolhe, desde que caiba aberta.",
-          "Se você quer uma poltrona para continuar usando depois, na sala, para ler, trabalhar ou ver filme, ou se reclinar sem esforço é importante para você, a reclinável elétrica com giro e balanço é a escolha que vai durar mais na casa.",
+          "Se você quer uma poltrona para continuar usando na sala, compare o espaço, os apoios e os recursos que pretende usar para ler, trabalhar ou ver filme. A reclinável elétrica permite ajustar a posição por botão; uma poltrona com puff também pode continuar útil depois da amamentação.",
           "Antes de fechar a compra, passe por este checklist:"
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a reclinável elétrica com giro e balanço, porque ela vira poltrona de sala depois da amamentação.",
@@ -53970,7 +53959,7 @@ export const reviewsData: unknown[] = [
           "Qual o melhor tecido para poltrona de amamentação? O mais fácil de limpar é o corino, que sai com pano úmido. Em cidade quente, o linho é mais fresco, mas mancha com mais facilidade. O ideal é escolher pelo clima e manter um paninho no braço da poltrona.",
           "Tem poltrona de amamentação para quarto pequeno? Tem. Procure modelos compactos e meça o espaço com a poltrona aberta. Com puff, conte o espaço do puff no chão; na reclinável, conte o comprimento reclinada e a folga para girar.",
           "Vale a pena comprar poltrona de amamentação usada? Pode valer, desde que você teste ao vivo: balanço ou reclinação sem barulho, espuma firme, tecido sem manchas e, se for elétrica, motor funcionando nas duas direções.",
-          "A poltrona DAMIE gira 360°? Não. A reclinável DAMIE com base de giro e balanço gira 180°, reclina até 145° e tem balanço suave, segundo a marca.",
+          "A poltrona DAMIE gira 360°? Depende do modelo. As elétricas 1.0 e 2.0 com base de giro e balanço descritas aqui giram 180° e reclinam até 145°, segundo a marca. A Aurora tem giro de 360°, reclinação manual e puff separado.",
           "O cupom CECILIA12 vale para a poltrona de amamentação da DAMIE? Vale. O CECILIA12 dá 12% OFF em todo o site da DAMIE, inclusive nas reclináveis com giro e balanço, e soma com as promoções e brindes ativos, mas não com outro cupom."
         ]
       }
@@ -54043,7 +54032,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual a diferença entre poltrona de amamentação e poltrona reclinável",
         "paragraphs": [
-          "A poltrona de amamentação é a dos primeiros meses do bebê; a reclinável, a do descanso de anos. O assento tem altura média, os braços são largos para apoiar o antebraço e o encosto fica numa inclinação fixa, mais reta. Muitos modelos têm base de balanço e vêm com um puff separado para os pés. É o móvel que costuma aparecer no quarto do bebê nas listas de enxoval.",
+          "A poltrona de amamentação tradicional costuma ter encosto mais reto, braços para apoiar o antebraço e, em muitos modelos, base de balanço e puff separado. Ela pode servir na fase do bebê e continuar útil depois, dependendo da casa.",
           "A poltrona reclinável foi feita para descansar. O encosto deita e o apoio de pés sobe da própria estrutura, por alavanca ou por motor. Existem reclináveis de base fixa, que só reclinam, e reclináveis com base de giro e balanço, que juntam as duas coisas. Elas costumam ficar na sala, mas muita gente leva uma para o quarto do bebê ou amamenta na da sala, como foi o nosso caso.",
           "No meio do caminho existem poltronas de amamentação reclináveis, vendidas nos marketplaces com encosto de algumas posições e puff. São mais baratas que as reclináveis de sala, mas a reclinação costuma ser manual. Antes de comprar uma delas, leia as avaliações procurando por barulho, trava e firmeza do encosto."
         ]
@@ -54052,7 +54041,7 @@ export const reviewsData: unknown[] = [
         "heading": "O que cada uma faz melhor na rotina de amamentação",
         "paragraphs": [
           "Na mamada em si, o que importa é o mesmo nas duas: braço firme na altura certa para apoiar o bebê, costas encostadas e pés apoiados. Uma poltrona de amamentação bem escolhida e uma reclinável com o encosto mais reto fazem esse papel.",
-          "A diferença aparece depois. Quando o bebê dorme no peito e você não quer mexer nele, a reclinável deixa você deitar o encosto e subir as pernas para descansar junto. Com o Ian, era isso que eu fazia de madrugada: encosto mais reto enquanto ele mamava agitado, e reclinava devagar quando ele dormia. Numa poltrona de encosto fixo, esse descanso fica limitado à inclinação que ela tem.",
+          "Com o Ian, eu mantinha o encosto mais reto para amamentar e ajustava a inclinação pelo botão. O descanso do adulto precisa ficar separado do sono do bebê: a [AAP](https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/Preventing-SIDS.aspx) orienta não adormecer na poltrona ou no sofá com o bebê no colo. Para dormir, coloque o bebê de barriga para cima em uma superfície firme e plana, própria para sono, como o berço.",
           "Na hora de levantar, a poltrona de amamentação costuma ser mais simples: assento firme, pés no chão, você levanta e leva o bebê para o berço. Na reclinável, é preciso primeiro fechar o apoio de pés e voltar o encosto, o que pede um movimento a mais. Na elétrica, isso é feito pelo botão, sem tranco; na manual, depende de empurrar o apoio com as pernas.",
           "O balanço para ninar pode existir nas duas. Muitas poltronas de amamentação têm base de balanço, e as reclináveis com base de giro e balanço também embalam. Já uma reclinável de base fixa não balança."
         ],
@@ -54070,7 +54059,7 @@ export const reviewsData: unknown[] = [
               "Funciona bem com o encosto mais reto"
             ],
             [
-              "Descanso entre mamadas",
+              "Descanso do adulto, com o bebê no berço",
               "Limitado à inclinação fixa do encosto",
               "Deita o encosto e sobe as pernas pelo botão"
             ],
@@ -54101,7 +54090,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Depois da amamentação",
-              "Costuma ficar no quarto da criança como decoração",
+              "Pode seguir em uso para leitura e descanso ou ser vendida ou doada",
               "Vira poltrona de sala, leitura, trabalho ou cinema"
             ]
           ]
@@ -54238,8 +54227,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Depois da amamentação: o que acontece com cada poltrona",
         "paragraphs": [
-          "Esse é o ponto que mais pesa na conta e que pouca gente considera na hora do enxoval. A poltrona de amamentação tradicional costuma ter um tempo de uso curto dentro de casa: um ou dois anos. Quando a amamentação acaba, ela continua inteira, mas perde a função. Na maioria das casas, fica no quarto da criança como peça de decoração até chegar a hora de trocar os móveis do quarto.",
-          "A reclinável segue outro caminho. Ela nunca foi um móvel de bebê: é uma poltrona de sala que serviu para amamentar. Quando essa fase passa, ela continua sendo usada todos os dias, para descansar depois do trabalho, ler, ver filme ou simplesmente tirar um cochilo com as pernas para cima. Isso vale para qualquer base da DAMIE, da manual à com giro e balanço.",
+          "Antes de comprar, pense no destino da poltrona depois da amamentação. Um modelo tradicional também pode continuar em uso para leitura e descanso, ser vendido ou doado. Se você pretende usá-lo só no quarto do bebê, considere esse período na conta.",
+          "A reclinável também pode continuar na sala para leitura, filmes ou descanso. Aqui em casa, foi esse o caminho da poltrona que usamos na amamentação do Ian.",
           "Os opcionais da DAMIE ajudam nessa mudança de uso. No configurador da marca, mesmo na versão mais simples, dá para incluir:"
         ],
         "bullets": [
@@ -54257,8 +54246,8 @@ export const reviewsData: unknown[] = [
         "heading": "Poltrona de amamentação vale a pena? A conta do tempo de uso",
         "paragraphs": [
           "A pergunta de quanto vale cada uma depende menos do preço e mais de quanto tempo a poltrona vai ser usada. A fase mais intensa de amamentação dura meses; uma poltrona de sala pode ficar na casa por anos.",
-          "Com os preços consultados, a conta fica assim: a Áquila de R$ 862 usada por um ano sai por cerca de R$ 72 por mês. A reclinável DAMIE com giro e balanço, a partir de R$ 4.299, chega aos mesmos R$ 72 por mês se for usada por cinco anos. Com o cupom CECILIA12, o preço de partida cai para R$ 3.783,12, e o mês de uso em cinco anos fica perto de R$ 63.",
-          "Ou seja: a reclinável só compensa a diferença se continuar útil depois da amamentação, e é exatamente isso que acontece quando ela fica na sala e ganha outros usos. Se a ideia é usar a poltrona só no quarto do bebê e depois passar adiante, a poltrona de amamentação tradicional é a escolha mais econômica.",
+          "Como exemplo, com os preços consultados: a Áquila de R$ 862 usada por um ano representa cerca de R$ 72 por mês. A DAMIE com giro e balanço, a partir de R$ 4.299, chega a cerca de R$ 72 por mês se for usada por cinco anos; com o CECILIA12, a R$ 3.783,12, seriam cerca de R$ 63 por mês. São períodos hipotéticos, sem incluir frete, manutenção ou eventual revenda.",
+          "A reclinável dilui o preço de compra se continuar útil por mais tempo, mas uma poltrona tradicional também pode ganhar outros usos. Compare o preço que cabe agora no orçamento com o uso que você prevê.",
           "E se a dúvida for comprar ou não um móvel para amamentar? Dá para começar no sofá ou na cama, com almofadas. Foi o que eu fiz nas primeiras semanas com o Ian, até a lombar, o pescoço e o braço sem apoio começarem a reclamar. Se as mamadas longas estão pesando no corpo, uma poltrona com braço firme faz diferença."
         ],
         "links": [
@@ -54286,17 +54275,22 @@ export const reviewsData: unknown[] = [
         ],
         "links": [
           {
+            "label": "Ver regras e validade do cupom CECILIA12",
+            "href": "/cupons/damie"
+          },
+          {
             "label": "Como usar o CECILIA12 na DAMIE",
-            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=amamentacao-vs-reclinavel-cupom"
+            "href": "https://damie.emcasacomcecilia.com/cupom-cecilia12?utm_source=site-principal&utm_medium=blog&utm_campaign=cecilia12&utm_content=amamentacao-vs-reclinavel-cupom",
+            "sponsored": true
           }
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Posso usar uma poltrona reclinável para amamentar? Pode. Com o encosto mais reto, ela funciona na mamada, desde que o braço seja firme e fique na altura certa. A vantagem é poder reclinar para descansar quando o bebê dorme. Se ela for de base fixa, só não vai ter balanço para ninar.",
+          "Posso usar uma poltrona reclinável para amamentar? Com o encosto mais reto, braço firme e apoio na altura certa, ela pode ser usada para a mamada enquanto você está acordada. Não adormeça com o bebê no colo na poltrona ou no sofá. O sono do bebê deve ser de barriga para cima, em superfície firme e plana, como o berço.",
           "Poltrona de amamentação vale a pena? Vale se as mamadas longas estão pesando no corpo e você não tem um lugar confortável com braço firme. Se a poltrona vai ser usada só nessa fase, um modelo com balanço e puff é a opção mais econômica.",
-          "O que fazer com a poltrona de amamentação depois que o bebê cresce? Na maioria das casas, ela fica no quarto da criança como decoração até a próxima troca de móveis, ou é vendida e doada. Por isso o tempo de uso costuma ser de um ou dois anos. Uma reclinável, ao contrário, continua sendo usada na sala para descanso, leitura, trabalho ou cinema.",
+          "O que fazer com a poltrona de amamentação depois que o bebê cresce? Ela pode continuar em uso para leitura e descanso, ser vendida ou doada. Na nossa casa, a reclinável que acompanhou a amamentação continuou na sala.",
           "Qual a diferença entre poltrona de amamentação e reclinável? A de amamentação tem encosto fixo, braços largos e, muitas vezes, balanço e puff. A reclinável deita o encosto e sobe o apoio de pés, e pode ter base fixa ou de giro e balanço.",
           "Reclinável manual ou elétrica para amamentar? Elétrica. Com o bebê no colo, reclinar e fechar o apoio de pés pelo botão é mais fácil e mais suave do que usar uma alavanca e empurrar o apoio com as pernas.",
           "Existe poltrona de amamentação reclinável? Existe. Os marketplaces vendem poltronas de amamentação com encosto de algumas posições e puff, geralmente de reclinação manual. Elas ficam no meio do caminho, em preço e em recursos.",
@@ -54325,7 +54319,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Comparação com a nossa poltrona e lojas consultadas. Podemos receber comissão pelos links.",
+    "editorialNote": "Comparação com a nossa poltrona e informações das lojas. A DAMIE nos enviou a 2.0 citada em parceria. Podemos receber comissão pelo CECILIA12 e pelos links, sem custo extra.",
     "relatedArticles": [
       {
         "slug": "poltrona-de-amamentacao-como-escolher"
@@ -54625,8 +54619,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Friday da DAMIE já está no ar, com poltrona reclinável, três presentes e frete grátis no Sul e Sudeste. Veja os preços de outubro e como o CECILIA12 soma com as promoções.",
-    "metaDescription": "Black Friday DAMIE 2026: o cupom CECILIA12 dá 12% OFF e soma com o Pix. Poltrona com 3 presentes, frete grátis no Sul e Sudeste e preços.",
+    "description": "A campanha da DAMIE anuncia poltrona com três presentes e frete grátis no Sul e Sudeste. Compare os preços de outubro e o desconto do CECILIA12.",
+    "metaDescription": "CECILIA12 dá 12% OFF na DAMIE e soma com o Pix. Na campanha, poltrona com três presentes e frete grátis no Sul e Sudeste; confira seu CEP.",
     "publishedAt": "9 de outubro de 2026",
     "publishedAtISO": "2026-10-09",
     "updatedAt": "2026-11-07",
@@ -54652,7 +54646,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Black Friday DAMIE 2026",
         "paragraphs": [
-          "A Black Friday da DAMIE já começou: o Esquenta Black dá três presentes na compra de poltrona e frete grátis no Sul e Sudeste, até 27 de novembro, enquanto durarem os estoques. O CECILIA12 dá 12% OFF e soma com as promoções e o Pix. O que pesa é comparar com o preço de outubro: parte do desconto já existia."
+          "O Esquenta Black da DAMIE anuncia três presentes na compra de poltrona e frete grátis no Sul e Sudeste, até 27 de novembro, enquanto durarem os estoques; confirme o frete pelo CEP. O CECILIA12 dá 12% OFF e soma com as promoções e o Pix; compare o total com os preços de outubro, porque parte do desconto já existia."
         ]
       },
       {
@@ -54667,7 +54661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a DAMIE anunciou para a Black Friday 2026",
         "paragraphs": [
-          "A campanha vale até o dia da Black Friday, enquanto durarem os estoques: o site abre com as faixas \"A Black Friday chegou antes\" e \"Esquenta Black\", que promete a poltrona com três presentes e frete grátis (no Sul e no Sudeste; nas outras regiões, o frete se confirma pelo CEP no carrinho), e a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) lista as condições. A Cyber Monday fica depois desse prazo.",
+          "A campanha vale até o dia da Black Friday, enquanto durarem os estoques. As faixas \"A Black Friday chegou antes\" e \"Esquenta Black\" apresentam a poltrona com três presentes; o frete grátis é para o Sul e o Sudeste, e nas outras regiões se confirma pelo CEP no carrinho. A [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) lista as condições. A Cyber Monday fica depois desse prazo.",
           "Os preços de venda das poltronas, do sofá e da Poltrona Cinema eram os mesmos de antes da campanha. Por isso, o desconto de R$ 1.000 nas poltronas não é novo: é o que já vinha no preço em outubro. O que mudou foi o brinde, que agora inclui a massagem."
         ],
         "bullets": [
@@ -54919,7 +54913,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quando começa e quanto dura a Black Friday da DAMIE? Já começou: o Esquenta Black, com a poltrona com três presentes e frete grátis no Sul e no Sudeste, vale até a última sexta-feira de novembro, que é a Black Friday, enquanto durarem os estoques. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
+          "Quando começa e quanto dura a Black Friday da DAMIE? O Esquenta Black já está no ar e vale até a última sexta-feira de novembro, que é a Black Friday, enquanto durarem os estoques, com a poltrona com três presentes e frete grátis no Sul e no Sudeste. A Cyber Monday, na segunda-feira seguinte, fica fora desse prazo.",
           "A DAMIE tem Black Friday? Tem em 2026: a página de ofertas da loja traz brindes na compra de poltrona, R$ 1.000 de desconto nas poltronas e desconto por quantidade, até a Black Friday.",
           "Poltrona reclinável fica mais barata na Black Friday? Compare antes de comprar. Antes da campanha, a reclinável elétrica com giro e balanço da DAMIE saía por R$ 4.299, ou R$ 3.869,10 no Pix, contra R$ 5.299 do preço cheio.",
           "Qual o preço da poltrona DAMIE? Antes da campanha, a reclinável ia de R$ 2.969 (manual, em suede, bouclé ou linho) a R$ 6.149 (elétrica com elevação, em couro), com 10% de desconto no Pix à vista.",
@@ -77576,13 +77570,13 @@ export const reviewsData: unknown[] = [
             [
               "Teste em casa",
               "30 dias, com coleta e reembolso integral",
-              "Nenhum além dos 7 dias do CDC",
+              "Nenhum prazo comercial além dos 7 dias do CDC",
               "10 dias"
             ],
             [
               "Devolução",
               "Reembolso integral nos 30 dias, com coleta",
-              "Pela política da loja, só com o produto lacrado; frete de volta por conta do cliente",
+              "Exigência da loja: apenas lacrado (frete por conta do cliente; consulte regras)",
               "Na embalagem original, sem indícios de uso; frete de volta pago pela loja nos 10 dias"
             ],
             [
@@ -77646,11 +77640,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**DAMIE:** 30 dias. Se você não gostar, a DAMIE coleta o sofá e devolve o valor integral.",
           "**Sofá na Caixa:** 10 dias. A própria marca explica que o prazo legal é de 7 dias e que os 10 dias são um benefício dela. A devolução vale com o sofá na embalagem original, sem indícios de uso, com nota fiscal e acessórios, e o frete de volta nesse prazo é pago pela loja.",
-          "**Inflow:** nenhum período além dos 7 dias de arrependimento que o CDC garante em compra pela internet."
+          "**Inflow:** nenhum prazo comercial além dos 7 dias de arrependimento que o CDC garante em compra pela internet."
         ],
         "postParagraphs": [
           "**A regra da Inflow para devolver.** Pela política de trocas da Inflow, a devolução por arrependimento é aceita com o produto lacrado, sem sinais de abertura, e o frete de volta é do cliente. Depois de aberto, a política da loja só prevê troca por defeito, pela garantia. O CDC garante 7 dias de arrependimento na compra pela internet, e o lacre e o frete são exigências da loja: na dúvida, confirme com a Inflow antes de abrir. Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, o mais seguro, pela regra da loja, é decidir antes de abrir a caixa.",
-          "**A garantia.** A DAMIE dá 1 ano e, depois, suporte vitalício com peças a preço de custo. A Sofá na Caixa dá 3 meses e a Inflow, 3 meses na ficha do produto (a política dela fala em 90 dias para relatar defeito). O CDC já dá 90 dias para reclamar de defeito em produto durável, como sofá. As garantias da Sofá na Caixa e da Inflow têm esse mesmo prazo; a da DAMIE (1 ano) é a única que passa dele."
+          "**A garantia.** A DAMIE dá 1 ano e, depois, suporte vitalício com peças a preço de custo. A Sofá na Caixa dá 3 meses e a Inflow, 3 meses na ficha (a política dela fala em 90 dias para relatar defeito). O CDC já dá 90 dias para reclamar de defeito em produto durável, como sofá; só a garantia da DAMIE passa desse prazo, com 1 ano."
         ]
       },
       {
@@ -77721,7 +77715,7 @@ export const reviewsData: unknown[] = [
         "heading": "E a reputação das três no Reclame Aqui?",
         "paragraphs": [
           "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026), conferidos no mês de outubro. A nota da Inflow foi relida depois: 8,5 (o print abaixo mostra 8,6).",
-          "Hoje **a Inflow tem o melhor selo** (RA1000) e a maior taxa de solução, 94%. A DAMIE tem selo Ótima e a resposta mais rápida, 13 horas. A Sofá na Caixa tem selo Regular e quase 50 vezes mais reclamações que a Inflow no período."
+          "Nesse recorte, a Inflow tinha o selo mais alto entre as três e 94% de solução entre as reclamações avaliadas; a DAMIE tinha selo Ótima e a menor média de resposta, 13 horas. A Sofá na Caixa tem selo Regular e quase 50 vezes mais reclamações que a Inflow no período."
         ],
         "image": "/images/reviews/sofa-na-caixa/reclame-aqui-6-meses-damie-inflow-sofa-na-caixa.webp",
         "imageAlt": "Painéis do Reclame Aqui dos últimos 6 meses: DAMIE com reputação Ótima e nota 8,3, Inflow com RA1000 e nota 8,6, Sofá na Caixa com reputação Regular e nota 6,1",
@@ -77762,13 +77756,13 @@ export const reviewsData: unknown[] = [
               "100%"
             ],
             [
-              "Resolvidas",
+              "Resolvidas entre as avaliadas",
               "86,7%",
               "94%",
               "56,1%"
             ],
             [
-              "Voltariam a fazer negócio",
+              "Voltariam a comprar, entre avaliadores",
               "76%",
               "75%",
               "49,8%"
@@ -77833,7 +77827,7 @@ export const reviewsData: unknown[] = [
           "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso integral.",
           "**Quem quer o menor preço:** Sofá na Caixa, com o menor valor listado entre os modelos comparados, inclusive no Pix. Pese contra os 10 dias de teste, os 3 meses de garantia e o selo Regular.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano.",
-          "**Quem quer o melhor atendimento segundo o Reclame Aqui:** Inflow, com RA1000 e 94% de reclamações resolvidas, lembrando que o histórico dela é curto.",
+          "**Quem valoriza o histórico de atendimento:** a Inflow, com RA1000 e 94% de reclamações resolvidas no recorte do Reclame Aqui, lembrando que o histórico dela é curto.",
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste. Em qualquer uma, confira o frete no carrinho com o seu CEP.",
           "**Quem também está olhando a Valley Modular:** a comparação com ela está em [Valley Modular, Inflow ou DAMIE](/reviews/valley-inflow-ou-damie)."
         ],
@@ -77860,7 +77854,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resumo: quem escolhe o quê",
         "paragraphs": [
-          "Quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço pode olhar a Sofá na Caixa, sabendo que o teste é curto e a garantia é de 3 meses. A Inflow tem a melhor reputação recente no Reclame Aqui, mas sem teste além do prazo legal de 7 dias."
+          "Quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço pode olhar a Sofá na Caixa, sabendo que o teste é curto e a garantia é de 3 meses. A Inflow tem selo RA1000 no Reclame Aqui, mas sem teste além do prazo legal de 7 dias."
         ]
       },
       {
@@ -77939,7 +77933,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sofá na caixa dura tanto quanto um montado? Resposta rápida",
         "paragraphs": [
-          "Um sofá na caixa pode durar tanto quanto um montado, porque a caixa é só o jeito de entregar. O que decide é a estrutura, as molas ou percintas, a espuma, o tecido e a garantia. Uso o modular da DAMIE há meses, ainda sem anos de uso; a ficha técnica abaixo ajuda a comparar."
+          "Um sofá na caixa pode durar tanto quanto um montado: a caixa é uma forma de entrega. A construção, a espuma, o tecido e o uso entram na comparação; a garantia informa a cobertura, não a vida útil. Uso o modular da DAMIE há meses, ainda sem anos de uso; a ficha técnica abaixo ajuda a comparar."
         ]
       },
       {
@@ -77955,8 +77949,8 @@ export const reviewsData: unknown[] = [
         "heading": "O que faz um sofá durar",
         "paragraphs": [
           "São quatro partes. Vale avaliar cada uma separada, porque uma ficha boa numa delas não compensa um buraco nas outras.",
-          "**Estrutura.** É o esqueleto que segura o peso e o movimento de sentar e levantar. Pergunte de que material ela é feita e qual a espessura. A DAMIE, por exemplo, informa eucalipto grandis maciço tratado em estufa e compensado naval de 15 e 22 mm. A Inflow não publica a estrutura. Quando a ficha não diz, pergunte à loja.",
-          "**Molas ou percintas.** É o que sustenta o assento e o encosto por baixo da espuma. Sofás usam molas, percintas (faixas elásticas) ou as duas, e a ficha precisa dizer qual. A DAMIE informa molas nosag de aço no assento e percintas de 6 cm no encosto. Se a ficha só fala em \"assento macio\" e não cita o que está embaixo, falta informação.",
+          "**Construção de suporte.** Pergunte como o sofá sustenta o peso. Nos modelos com armação, confira material e espessura: a DAMIE informa eucalipto grandis e compensado naval de 15 e 22 mm. Nos modelos de espuma compactada, procure a descrição da espuma e do suporte; não presuma madeira ou metal quando a construção é outra.",
+          "**Molas ou percintas, quando houver.** Em sofás estruturados, pergunte o que sustenta assento e encosto. A DAMIE informa molas nosag de aço no assento e percintas de 6 cm no encosto. Sofás de espuma compactada têm outra construção; a ausência de molas, sozinha, não permite concluir que durarão menos.",
           "**Espuma.** É o que dá o conforto e mantém a aparência de novo. A densidade da espuma é medida em kg/m³, pela norma ABNT NBR 8537, e vale pedir esse número. Ele sozinho não é regra: não dá para concluir \"densidade maior, sofá que dura mais\", porque a espuma trabalha junto com a estrutura e com o que está embaixo dela. A NBR 16031, que trata de ensaios de assento, também avisa que eles não medem a durabilidade da espuma. A DAMIE cita espumas HS e Soft D40S e uma manta de 400 g/m²; a Inflow cita a espuma FlowTech, sem informar a densidade.",
           "**Tecido.** É a parte que você toca e a que mais sofre com uso, sol, bichos e criança. Peça a composição e veja se a limpeza e a retirada do revestimento estão explicadas."
         ],
@@ -77971,8 +77965,8 @@ export const reviewsData: unknown[] = [
           "Vale para qualquer sofá, na caixa ou montado. Se a loja não responde a um item, você está comprando sem saber aquilo."
         ],
         "bullets": [
-          "Material e espessura da **estrutura**, e se a madeira tem tratamento.",
-          "O que sustenta o assento e o encosto: **molas, percintas** ou as duas, e de que tipo.",
+          "Como o sofá sustenta o peso; se tem armação, material, espessura e tratamento declarado.",
+          "Se a construção usa molas ou percintas, quais tipos e onde ficam. Em modelo sem armação, peça a descrição do suporte e da espuma.",
           "**Espuma** do assento e do encosto: tipo e **densidade em kg/m³**.",
           "**Peso suportado** por módulo ou por assento.",
           "**Revestimento**: composição do tecido e como limpar.",
@@ -77985,7 +77979,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A garantia diz muito",
         "paragraphs": [
-          "A garantia é o único número de durabilidade que a loja assina. Entre as três marcas de sofá na caixa deste guia, ela vai de 90 dias a 1 ano:"
+          "A garantia informa por quanto tempo e em quais condições a marca oferece cobertura. Ela não mede a vida útil do sofá. Entre as marcas consultadas, os prazos divulgados vão de 90 dias a 1 ano:"
         ],
         "bullets": [
           "**Inflow:** 90 dias.",
@@ -77993,7 +77987,7 @@ export const reviewsData: unknown[] = [
           "**DAMIE:** 1 ano e, depois, suporte vitalício com peças a preço de custo."
         ],
         "postParagraphs": [
-          "Existe um mínimo que vale para qualquer loja: o Código de Defesa do Consumidor (art. 26, II) dá 90 dias para reclamar de defeito em produto durável, a chamada garantia legal. A garantia da marca é outra proteção, contratual e complementar (art. 50), dada por termo escrito. Na comparação, pesam a duração e o que cada termo cobre, não uma conta de 90 dias a mais ou a menos. Leia também o que a garantia cobre: um ano só para a estrutura e três meses para tudo são promessas diferentes.",
+          "Existe um mínimo que vale para qualquer loja: o CDC dá 90 dias para reclamar de defeito em produto durável. Na comparação, pesam a duração e o que cada termo cobre, não uma conta de 90 dias a mais ou a menos. Leia também o que a garantia cobre: um ano só para a estrutura e três meses para tudo são promessas diferentes.",
           "Outra pergunta que ajuda: a ABNT tem uma norma para sofás, a **NBR 15164**, com requisitos e métodos de ensaio de resistência, durabilidade e estabilidade, em edição nova de 02/2026. Vale perguntar à loja se o sofá foi ensaiado por ela e pedir o relatório ou a declaração. Uma resposta vaga também diz alguma coisa."
         ]
       },
@@ -78044,7 +78038,7 @@ export const reviewsData: unknown[] = [
             [
               "Teste em casa",
               "30 dias, com coleta e reembolso integral",
-              "Nenhum além dos 7 dias do CDC; a política da Inflow exige a caixa lacrada",
+              "Sem teste comercial adicional declarado; a política da Inflow exige a caixa lacrada",
               "10 dias"
             ]
           ]
@@ -78055,7 +78049,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O sofá montado tem duas vantagens claras. Chega pronto: ninguém encaixa módulo nem espera a espuma tomar forma. E, em muitos casos, dá para ir a uma loja física, sentar, deitar e ver o tecido de perto antes de pagar, o que vale muito para quem tem dúvida sobre a firmeza do assento ou a altura do encosto.",
           "O problema aparece na entrega. Um sofá montado é um móvel grande e inteiro, que precisa passar pela portaria, pelo elevador ou pela escada e pela porta do apartamento. Se alguma dessas passagens for estreita, ele pode não entrar.",
-          "É esse ponto que o sofá na caixa resolve: ele entra como uma caixa, não como um sofá inteiro. A vantagem é de logística e não diz nada sobre quanto o sofá dura, que é assunto da ficha técnica."
+          "A entrega em caixas menores pode facilitar esse acesso. Peça as medidas de cada volume embalado e compare com porta, elevador e curvas do caminho. Isso resolve uma questão de logística; não demonstra quanto o sofá dura."
         ]
       },
       {
@@ -78090,7 +78084,7 @@ export const reviewsData: unknown[] = [
           "A escolha depende mais do seu caso do que da embalagem:"
         ],
         "bullets": [
-          "**Apartamento com porta ou elevador estreito:** o sofá na caixa tem vantagem real, porque o que precisa passar é uma caixa, não o sofá inteiro.",
+          "**Porta, elevador ou escada estreitos:** compare as medidas dos volumes embalados com todo o caminho da entrega. A caixa menor pode ajudar, mas também precisa passar.",
           "**Quem quer sentar antes de comprar:** o sofá montado de loja física leva vantagem. Entre os sofás na caixa, o teste em casa faz esse papel, e a DAMIE dá 30 dias.",
           "**Quem muda de casa ou de layout:** o sofá modular facilita, porque os módulos se separam e se reorganizam. Se a dúvida é o formato, veja [Sofá Modular ou Retrátil: Qual Escolher em 2026? Comparativo Real de Espaço e Conforto](/reviews/sofa-modular-ou-retratil-qual-escolher)."
         ],
@@ -78105,18 +78099,18 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resumo: sofá na caixa dura?",
         "paragraphs": [
-          "Sofá na caixa pode durar tanto quanto um montado, desde que a ficha técnica e a garantia sustentem. Para apartamento com acesso estreito ou mudanças frequentes, ele leva vantagem; para quem quer sentar antes de comprar, o montado de loja física ou o teste em casa fazem esse papel."
+          "Sofá na caixa pode durar tanto quanto um montado, conforme a construção e o uso; a ficha técnica ajuda a comparar, e a garantia informa a cobertura. Para acesso estreito, confira as medidas de cada volume; para quem quer sentar antes de comprar, a loja física ou o teste em casa ajudam."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Sofá na caixa dura quanto tempo? Não existe um número confiável de anos. A duração depende do que vai dentro: estrutura, molas, espuma e tecido. Use a ficha técnica e a garantia como sinal.",
-          "Sofá na caixa é bom ou ruim? Nem uma coisa nem outra só pela embalagem. \"Na caixa\" é um jeito de entregar, não de fabricar. O sofá é bom quando a ficha mostra boa estrutura, molas e espuma, e a garantia acompanha.",
+          "Sofá na caixa é bom ou ruim? Não dá para decidir só pela embalagem. Compare a construção, os materiais e as informações da ficha para o tipo de sofá, além da cobertura da garantia.",
           "Sofá na caixa tem qualidade? Pode ter. A qualidade vem dos materiais e da construção, que a ficha técnica descreve. A DAMIE, por exemplo, publica eucalipto grandis maciço, molas nosag de aço no assento e espumas HS e Soft D40S. Marca que não publica esses dados deixa você sem como comparar.",
           "Sofá na caixa ou sofá montado: qual dura mais? A embalagem não responde. Um sofá na caixa com boa estrutura e boa espuma pode durar tanto quanto um montado, e um montado com materiais fracos dura menos. Compare as fichas, não o formato.",
           "O sofá na caixa vem montado ou desmontado? Depende do tipo. O modular pré-estruturado vem em módulos para encaixar (na DAMIE, em menos de 10 minutos, segundo a ficha). O de espuma compactada vem inteiro e ganha forma quando a caixa é aberta.",
-          "O que olhar na ficha técnica de um sofá? Estrutura (material e espessura), molas ou percintas, espuma (tipo e densidade), tecido e peso suportado por módulo ou lugar. Confira também a garantia e o teste em casa.",
+          "O que olhar na ficha técnica de um sofá? Como ele sustenta o peso; em modelos com armação, material e espessura e, quando houver, molas ou percintas. Confira espuma, tecido, peso suportado, garantia e teste em casa.",
           "Qual a garantia de um sofá na caixa? Depende da marca. A DAMIE dá 1 ano e suporte vitalício com peças a preço de custo, a Sofá na Caixa dá 3 meses e a Inflow, 90 dias. Pelo Código de Defesa do Consumidor, o mínimo para reclamar de defeito em produto durável é 90 dias, e a garantia da marca é uma proteção complementar, descrita no termo de cada loja."
         ]
       }
@@ -120694,11 +120688,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Antes de escolher: o que vale para todos os móveis",
         "paragraphs": [
-          "O presente certo começa pelo espaço, pela porta e por quem vai usar, não pelo preço. Os preços da DAMIE foram lidos no site da loja, e os das outras marcas, no varejo, na mesma semana.",
+          "Comece por espaço, acesso e por quem vai usar o móvel. Os preços da DAMIE deste guia foram registrados em 23/10/2026, e os das outras marcas, no varejo, na mesma semana. Consulte preço, prazo e campanha atuais antes de comprar.",
           "Cinco conferências valem para qualquer móvel deste guia, da DAMIE ou de outra marca. Faça antes de olhar o preço."
         ],
         "bullets": [
-          "**Espaço e porta:** meça onde o móvel vai ficar e por onde ele precisa passar. Os móveis da DAMIE chegam em caixa. O sofá modular vem em módulos, o que ajuda em escada, elevador pequeno e corredor estreito. A reclinável passa em porta a partir de 65 cm: com porta menor que 80 cm, entra primeiro o encosto e depois a base.",
+          "**Espaço e porta:** meça o local e todo o percurso da entrega. Os móveis da DAMIE chegam em caixa, e o sofá modular vem em módulos, o que pode ajudar em escada e elevador pequeno. A reclinável apresentada neste guia passa em porta a partir de 65 cm; com porta menor que 80 cm, entra primeiro o encosto e depois a base. Confirme as medidas da configuração escolhida com a DAMIE, incluindo as caixas e as curvas do percurso.",
           "**Quem vai usar:** altura, peso e facilidade para sentar e levantar mudam o modelo certo. Em presente para os pais, isso pesa mais que o visual.",
           "**Tecido:** em casa com criança ou pet, o corino importado é o mais prático contra manchas, pelos de animais e líquidos. No nosso uso da reclinável, o que cai na superfície sai com pano úmido. Suede, bouclé e linho têm toque de tecido e respiram mais. O corino troca menos calor que o linho, então combina com sala de clima ameno ou com ar-condicionado. A DAMIE também oferece couro bovino.",
           "**Entrega e montagem:** na DAMIE, a montagem é feita pelo cliente, por encaixe, e a entrega vai até o hall em prédio. O frete é grátis em poltronas e sofás no Sul e no Sudeste. No Centro-Oeste, o valor sai pelo CEP. No Norte e no Nordeste, a compra é só pelos anúncios da DAMIE no Mercado Livre. O prazo aparece no cálculo do frete.",
@@ -120715,7 +120709,7 @@ export const reviewsData: unknown[] = [
           "Para decidir entre eles, leia [sofá na caixa ou sofá montado: qual dura mais](/reviews/sofa-na-caixa-ou-sofa-montado-qual-dura-mais) e [sofá modular ou retrátil: qual escolher](/reviews/sofa-modular-ou-retratil-qual-escolher). Na DAMIE, as duas coisas se juntam: o Sofá Damie na Caixa Modular é modular e chega em caixas. Quem tem escada, elevador pequeno ou planeja mudar a sala de lugar tem aqui um bom motivo para olhar o modular."
         ],
         "comparisonTable": {
-          "caption": "Sofá modular de 3 lugares nas marcas que vendem na caixa. Preços lidos nos sites das marcas. A faixa muda com o revestimento e a configuração, e o preço da Inflow está no Pix.",
+          "caption": "Sofás modulares de 3 lugares vendidos na caixa. A faixa muda com o revestimento e a configuração; o preço da Inflow está no Pix.",
           "headers": [
             "Marca",
             "3 lugares",
@@ -120756,7 +120750,7 @@ export const reviewsData: unknown[] = [
           "O sofá da DAMIE sai em cinco revestimentos: suede, bouclé, linho, corino importado e couro bovino. Todas as configurações levam o apoio de pé (puff) de graça. Cada uma tem uma faixa de preço, porque o valor muda com o revestimento e a cor: o menor preço é o dos tecidos mais em conta, e o maior, o do couro bovino. A garantia é de 1 ano e, depois dela, a marca mantém suporte vitalício, com peças de reposição a preço de custo."
         ],
         "comparisonTable": {
-          "caption": "Sofá modular DAMIE no site oficial em 23/10/2026, com apoio de pé grátis. Os preços mudam sem aviso e variam com o revestimento.",
+          "caption": "Sofá modular DAMIE no site oficial, com apoio de pé grátis. Os preços mudam sem aviso e variam com o revestimento.",
           "headers": [
             "Configuração",
             "Preço"
@@ -120982,7 +120976,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Black Friday ou Natal: quando comprar",
         "paragraphs": [
-          "Para móvel de presente, a Black Friday (27 de novembro) deixa quase um mês até o Natal (25 de dezembro), e isso só serve se o prazo de entrega do seu CEP couber nele: móvel grande ou sob encomenda pode levar boa parte desse mês. Simule o frete antes de decidir esperar; se o prazo já está apertado, não adie. Comprar em cima do Natal é arriscar.",
+          "Para presentear com um móvel no Natal, confira primeiro o prazo do produto para o CEP de entrega. Espere a Black Friday de 27 de novembro só se a previsão de fabricação e transporte couber até 25 de dezembro; em móvel sob encomenda, o intervalo entre as datas não garante a chegada.",
           "O prazo de entrega aparece no cálculo do frete, pelo CEP, antes de pagar, e conta da confirmação do pagamento. Na página do produto, ele também aparece ao escolher o estado. O Pix libera o pedido mais rápido, e o boleto leva até 2 dias úteis para compensar. O logo bordado, opcional nas reclináveis, soma 7 dias. Por isso, não existe uma data de corte igual para todo mundo: ela depende do CEP, do produto e do dia em que o pagamento for confirmado. Por isso, este guia não dá data de chegada.",
           "Também não precisa esperar o dia 27: a [página de ofertas da DAMIE](https://www.damie.com.br/pages/cupons) já mostrava as condições da campanha, válidas até o dia da Black Friday. Entram brindes na compra de uma poltrona, R$ 1.000 de desconto já aplicado nas poltronas, desconto por quantidade nas reclináveis e na Poltrona Cinema, acessórios com preço de campanha e frete grátis no Sul e no Sudeste, aplicado no checkout. Confira no carrinho se o CECILIA12 soma com cada um. A tabela de preços para comparar na campanha está em [Black Friday DAMIE 2026](/reviews/black-friday-damie)."
         ],
@@ -121029,12 +121023,12 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual móvel escolher",
-        "emphasis": "Se fosse para a minha casa, eu levaria a elétrica com elevação, porque ela ajuda a levantar e a marca a indica para idosos.",
+        "emphasis": "Para presentear alguém com dificuldade de levantar, considere a base com elevação indicada pela DAMIE. Confirme com a pessoa a altura do assento, o peso suportado e o uso do controle antes de escolher.",
         "bullets": [
           "**Para os pais:** a poltrona reclinável, a chamada poltrona do papai. Quem tem dificuldade de levantar pode olhar a versão com elevação, que a marca indica para esse uso. Na DAMIE, a reclinável vai de R$ 2.969 a R$ 6.149, conforme a base e o revestimento.",
           "**Para a sala:** o sofá modular. Ele chega em caixas, passa por escada e elevador pequeno, e o 3 lugares da DAMIE custa de R$ 5.100 a R$ 8.100, com apoio de pé grátis.",
-          "**Para o cinema em casa e para a piscina:** a Poltrona Cinema, de 2 a 9 lugares, e a linha Garden, com espreguiçadeira e puffs redondos de 120 cm de diâmetro. Cada uma tem a sua seção mais abaixo.",
-          "**Quando comprar:** a Black Friday vem antes do Natal, com quase um mês de folga, que só vale se o prazo do seu CEP couber nele. O prazo de entrega aparece no cálculo do frete, pelo CEP, e conta da confirmação do pagamento. Confira antes de pagar.",
+          "**Para cinema em casa ou piscina:** veja as seções anteriores sobre a Poltrona Cinema, de 2 a 9 lugares, e a Garden, com espreguiçadeira e puffs de 120 cm. Confira espaço, prazo e configuração de cada peça.",
+          "**Quando comprar:** decida pelo prazo do produto para o CEP, incluindo fabricação quando houver. Espere a Black Friday só se a previsão couber até o Natal; confirme antes de pagar.",
           "**Cupom:** na DAMIE, o CECILIA12 dá 12% OFF em todo o site e hoje soma com as promoções e com os 10% do Pix. As regras e a data do último teste estão na [página da DAMIE](/cupons/damie)."
         ]
       },
@@ -121053,10 +121047,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve a reclinável com elevação se o presente é para pais ou avós com dificuldade de levantar.",
-        "Leve o sofá modular se a entrada tem escada ou elevador pequeno."
+        "Leve o sofá modular se o acesso é estreito, desde que cada módulo e sua caixa passem pelo percurso."
       ],
       "skipIf": [
-        "Passe a reclinável se a porta tem menos de 65 cm: ela passa a partir dessa medida.",
+        "Passe se a configuração escolhida não couber nas portas, curvas, escada ou elevador do percurso. Confirme as medidas das partes e das caixas antes de comprar.",
         "Passe a linha Garden se você compra perto do Natal: ela é feita sob encomenda e leva tempo."
       ]
     },
@@ -128163,7 +128157,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, a Valley Modular dá 5% e a Inflow e a DAMIE dão 10%; o parcelamento vai até 10x na Valley Modular e na Inflow e até 12x na DAMIE. Na DAMIE, o cupom CECILIA12 tira mais 12% e soma com o desconto do Pix. O sofá-cama Mood, da Valley Modular, saía por R$ 3.150 no 2 lugares e R$ 4.190 no 3 lugares, mas é outro tipo de sofá e não entra na conta.",
-          "No 3 lugares com apoio, a Inflow tem o menor preço no cartão (R$ 4.790, em bouclê) e a Valley Modular, o maior (R$ 5.986). No 2 lugares com apoio, a ordem é a mesma: Inflow (R$ 3.790), DAMIE (R$ 3.850, com o puff) e Valley Modular (R$ 4.175). O menor número da tabela é o Modu 2 lugares com 2 cantos sem apoio, R$ 3.189, que é um sofá menor, de 190 cm. Compare sempre cartão com cartão ou Pix com Pix, e some o frete: a Valley Modular não publica regra de frete grátis, e as outras duas só dão no Sul e no Sudeste."
+          "Antes de código e frete, no 3 lugares com apoio, a Inflow tem o menor preço no cartão (R$ 4.790, em bouclê) e a Valley Modular, o maior (R$ 5.986). No 2 lugares com apoio, a ordem é a mesma: Inflow (R$ 3.790), DAMIE (R$ 3.850, com o puff) e Valley Modular (R$ 4.175). O menor número da tabela é o Modu 2 lugares com 2 cantos sem apoio, R$ 3.189, que é um sofá menor, de 190 cm. Compare configurações equivalentes, com o mesmo meio de pagamento, descontos aplicáveis e frete: a Valley Modular não publica regra de frete grátis, e as outras duas só dão no Sul e no Sudeste."
         ]
       },
       {
@@ -128172,7 +128166,7 @@ export const reviewsData: unknown[] = [
           "É aqui que as três mais se separam, e as regras ficam em letra miúda.",
           "**DAMIE: 30 dias de teste.** Se você não gostar do sofá, a DAMIE agenda a coleta e devolve o valor pago. A condição é guardar a embalagem: a página do produto diz \"Sem a embalagem preservada, não coletamos\". Depois dos 30 dias, vale a garantia de 1 ano e, em seguida, o suporte vitalício com peças a preço de custo.",
           "**Valley Modular: 7 dias, na embalagem original.** A política de devoluções da marca repete o prazo de 7 dias do artigo 49 do CDC: o produto volta na embalagem original, sem sinais de mau uso, e os motivos aceitos são defeito, modelo errado ou medida errada. A marca não aceita devolução por variação de tom nem por cor pedida errada. A página não diz se o sofá já expandido entra na devolução nem quem paga o frete de volta, e não há teste em casa além do prazo legal. A garantia de 6 meses aparece na ficha do produto e no FAQ da loja; a página de políticas não fala de garantia. A entrega não é agendada, sai em horário comercial, e a página avisa que a transportadora não sobe escada.",
-          "**Inflow: só lacrado, pela política da loja.** A política da Inflow aceita o arrependimento com o produto lacrado, sem sinais de abertura, e deixa o frete de volta com o cliente. O CDC garante 7 dias de arrependimento na compra pela internet, e o lacre e o frete são exigências da loja: na dúvida, confirme com a Inflow antes de abrir. Depois de aberto, a política só prevê troca por defeito, dentro da garantia: a ficha do produto diz 3 meses e a política, 90 dias para relatar o defeito, que é o mesmo prazo."
+          "**Inflow: a política exige lacre.** A política da loja condiciona o arrependimento à embalagem fechada e atribui o frete de retorno ao cliente. Depois de aberto, o sofá só se troca por defeito, dentro da garantia: a ficha do produto diz 3 meses e a política, 90 dias para relatar o defeito, que é o mesmo prazo."
         ],
         "image": "/images/reviews/damie/valley-inflow-ou-damie-garantia-teste-devolucao-prazo.webp",
         "imageAlt": "Quadro com garantia, teste em casa, devolução por arrependimento e prazo da Valley Modular, da Inflow e da DAMIE, lidos em 25/10/2026.",
@@ -128181,13 +128175,13 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 1.3311,
         "postParagraphs": [
           "**O prazo da Valley Modular.** A marca produz sob encomenda (\"produzimos para pessoas, não para estoque\") e informa de 20 a 30 dias úteis de produção antes do envio, conforme a cor; o Modu, na leitura, marcava 30 dias úteis. O transporte entra depois, pelo CEP. Na Inflow e na DAMIE, o prazo aparece no cálculo do frete; na DAMIE, ele conta da confirmação do pagamento. Na Inflow e na DAMIE, atraso na entrega é a queixa mais comum no Reclame Aqui, como mostra o guia de Sofá na Caixa, Inflow ou DAMIE. A Valley Modular tem poucos registros para avaliar.",
-          "Como o sofá de espuma compactada só mostra tamanho e firmeza depois de aberto, o mais seguro, pelas políticas publicadas da Valley Modular e da Inflow, é decidir antes de abrir a caixa se você quer a chance de devolver por não gostar. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
+          "Para comparar teste em casa, separe o prazo comercial adicional da DAMIE das regras de arrependimento. A Valley Modular não esclarece o retorno do sofá expandido, e a Inflow exige o produto lacrado para devolver. Na DAMIE, a decisão pode esperar os 30 dias, com a embalagem guardada."
         ]
       },
       {
         "heading": "E a reputação das três no Reclame Aqui?",
         "paragraphs": [
-          "Dados do Reclame Aqui dos últimos 6 meses (01/04 a 30/09/2026)."
+          "Dados do Reclame Aqui de abril a setembro de 2026. Esses dados descrevem o período, não o atendimento de compras futuras."
         ],
         "comparisonTable": {
           "caption": "Reclame Aqui, últimos 6 meses",
@@ -128223,13 +128217,13 @@ export const reviewsData: unknown[] = [
               "100%"
             ],
             [
-              "Resolvidas",
+              "Resolvidas entre as avaliadas",
               "Não há",
               "94,2%",
               "86,8%"
             ],
             [
-              "Voltariam a fazer negócio",
+              "Voltariam a fazer negócio, entre as avaliadas",
               "Não há",
               "73,3%",
               "76,2%"
@@ -128250,7 +128244,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "A Valley Modular está sem reputação definida porque tem menos de 10 avaliações no período: foram 2 reclamações, 1 respondida e 1 aguardando resposta. No histórico geral da página, são 9 reclamações, 88,9% respondidas e 1 avaliada. A página traz o selo de empresa verificada, que confirma a existência da empresa e não é uma nota. Com tão poucos registros, o Reclame Aqui não diz muito sobre a Valley Modular, nem para bem nem para mal.",
-          "Entre as outras duas, a Inflow tem o melhor selo (RA1000) e a maior taxa de solução, 94,2%; a DAMIE tem selo Ótima e a resposta mais rápida, 13 horas. O selo mede atendimento e solução, não volume de vendas, e nenhuma das três publica quantos sofás vende."
+          "A Inflow tem selo RA1000 e índice de solução de 94,2% entre as avaliadas; a DAMIE tem reputação Ótima e média de resposta de 13 horas. São indicadores de atendimento no perfil e no período, não prazo garantido nem taxa de sucesso de todos os pedidos."
         ]
       },
       {
@@ -128276,15 +128270,15 @@ export const reviewsData: unknown[] = [
           "Cada perfil de compra aponta para uma marca:"
         ],
         "bullets": [
-          "**Quem quer testar antes de decidir:** DAMIE, com 30 dias em casa, coleta e reembolso, desde que guarde a embalagem. Valley Modular e Inflow só dão os 7 dias do CDC, e a política da Inflow exige o produto lacrado.",
+          "**Quem quer prazo comercial de teste em casa:** a DAMIE divulga trinta dias, com coleta e reembolso desde que a embalagem seja guardada. A Valley Modular e a Inflow não divulgam teste comercial em casa.",
           "**Quem quer a garantia mais longa:** DAMIE, com 1 ano. A Valley Modular dá 6 meses e a Inflow, 3 meses.",
-          "**Quem quer o menor preço no cartão do 3 lugares com apoio:** Inflow, em bouclê, por R$ 4.790. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
-          "**Quem quer o menor preço no cartão do 2 lugares com apoio:** Inflow, em bouclê bege, por R$ 3.790; a DAMIE vem em R$ 3.850, com o puff, e a Valley Modular em R$ 4.175. Se o apoio não importa, o Modu 2 lugares com 2 cantos da Valley Modular sai por R$ 3.189, num sofá de 190 cm.",
+          "**Menor preço de catálogo no cartão do 3 lugares com apoio, antes de código e frete:** Inflow, em bouclê, por R$ 4.790. A DAMIE vem em R$ 5.100, com o puff incluído, e a Valley Modular é a mais cara nessa linha, R$ 5.986.",
+          "**Menor preço de catálogo no cartão do 2 lugares com apoio, antes de código e frete:** Inflow, em bouclê bege, por R$ 3.790; a DAMIE vem em R$ 3.850, com o puff, e a Valley Modular em R$ 4.175. Se o apoio não importa, o Modu 2 lugares com 2 cantos da Valley Modular sai por R$ 3.189, num sofá de 190 cm.",
           "**Quem precisa de prazo previsível:** na Valley Modular, some de 20 a 30 dias úteis de produção ao frete antes de contar com a entrega. Na Inflow e na DAMIE, o prazo sai no cálculo do frete.",
           "**Quem mora fora do Sul e do Sudeste:** a DAMIE atende Norte e Nordeste pelo Mercado Livre; a Inflow publica frete grátis só no Sul e no Sudeste; a Valley Modular calcula o frete pelo CEP, sem regra de frete grátis publicada. Em qualquer uma, confira o frete no carrinho antes de fechar."
         ],
         "postParagraphs": [
-          "Em resumo: quem quer testar antes e ter a garantia mais longa fica melhor com a DAMIE. Quem prioriza o menor preço do 3 lugares pode olhar a Inflow, sabendo que a política dela só aceita a devolução com o produto lacrado. A Valley Modular tem a garantia intermediária e o 2 lugares sem apoio mais barato da tabela, com prazo de produção sob encomenda e poucos registros no Reclame Aqui para avaliar o atendimento."
+          "A DAMIE divulga o prazo comercial de teste mais longo e um ano de garantia. A Inflow tem o menor preço de catálogo das configurações com apoio, antes de código e frete. A Valley Modular fica entre as outras em garantia e tem o menor dois lugares sem apoio da tabela. Confira prazo de produção e procedimento de devolução antes de escolher."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a DAMIE, pelos 30 dias de teste e 1 ano de garantia.",
         "emphasisAfterParagraph": 1
@@ -128293,9 +128287,9 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Valley Modular é a mesma empresa que a Inflow ou a Sofá na Caixa? Não. A Valley Modular é o nome fantasia da Valley Art LTDA. (CNPJ 30.105.567/0001-93, Hortolândia, SP, ativa desde 2018). A Inflow é da Fast Living Comércio e Distribuição Ltda. (Itapeva, MG, desde 2022) e a Sofá na Caixa é outra empresa, de Rafard (SP). Cada uma tem site e regras próprios.",
-          "Valley Modular é confiável? A empresa tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, ela estava sem reputação definida, com 2 reclamações, 1 respondida e tempo de resposta de 24 dias: são poucos registros para avaliar o atendimento, nem para bem nem para mal. A garantia é de 6 meses, informada na ficha do produto e no FAQ da loja.",
+          "Valley Modular é confiável? A empresa tem CNPJ ativo desde 2018 e política de devolução publicada. No Reclame Aqui, nos últimos 6 meses, o perfil está sem reputação definida, com duas reclamações, uma respondida. São poucos registros para avaliar o atendimento; a ficha e o FAQ divulgam seis meses de garantia.",
           "Valley Modular ou DAMIE: qual vale mais a pena? Depende do que pesa. A DAMIE dá 30 dias de teste em casa com coleta e 1 ano de garantia; a Valley Modular dá os 7 dias do CDC e 6 meses de garantia. No cartão, a DAMIE com puff ficava abaixo da Valley Modular com apoio nas duas linhas: R$ 3.850 contra R$ 4.175 no 2 lugares e R$ 5.100 contra R$ 5.986 no 3 lugares.",
-          "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular, com 6 meses na ficha do produto. A Inflow informa 3 meses na ficha e 90 dias para relatar defeito na política, o mesmo prazo. Nas duas, a devolução por arrependimento segue os 7 dias do CDC, e a política da Inflow só aceita o produto lacrado.",
+          "Valley Modular ou Inflow: qual tem a garantia maior? A Valley Modular divulga seis meses; a Inflow, três meses e noventa dias para relatar defeito na política. Na devolução por arrependimento, a Inflow exige o produto lacrado; confirme o procedimento antes de comprar.",
           "Posso devolver o sofá da Valley Modular depois de abrir? A política publicada fala em 7 dias, na embalagem original e sem sinais de mau uso, por defeito, modelo errado ou medida errada; ela não trata do sofá já expandido nem diz quem paga o frete de volta. Antes de abrir a caixa, confirme com a loja como fica a devolução do sofá expandido.",
           "Quanto tempo leva para chegar um sofá da Valley Modular? A marca produz sob encomenda e informa de 20 a 30 dias úteis de produção antes do envio. O transporte entra depois, com o prazo calculado pelo CEP no carrinho.",
           "A DAMIE também é sofá na caixa? Chega em caixas reforçadas, mas não com espuma compactada: são módulos com estrutura de madeira que se ligam por encaixe, em menos de 10 minutos, segundo a página do produto. O teste de 30 dias vale com a embalagem guardada."
@@ -128305,11 +128299,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Para quem quer testar o sofá em casa por 30 dias, com coleta e reembolso, e 1 ano de garantia: a DAMIE.",
-        "Para quem prioriza o menor preço do 3 lugares com apoio e aceita a política dela de devolução só com o produto lacrado: a Inflow."
+        "Para quem prioriza o menor preço de catálogo do 3 lugares com apoio, antes de código e frete, e aceita a política de devolução só com o produto lacrado: a Inflow."
       ],
       "skipIf": [
         "Quando o prazo precisa ser previsível: a Valley Modular produz sob encomenda e soma de 20 a 30 dias úteis ao frete, enquanto na Inflow e na DAMIE o prazo sai no cálculo do frete.",
-        "Quando a decisão fica para depois de abrir a caixa: pela política da Inflow a devolução só vale com o produto lacrado e na Valley Modular valem os 7 dias do CDC, e só a DAMIE dá os 30 dias em casa."
+        "Você depende de experimentar e devolver, mas ainda não confirmou o procedimento de devolução de cada loja: confirme antes de comprar."
       ]
     }
   },
