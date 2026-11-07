@@ -176142,7 +176142,7 @@ export const reviewsData: unknown[] = [
               "Praça Getulio Vargas, 268, Centro, Florianópolis (SC)"
             ]
           ],
-          "caption": "Rodapé do site, consulta pública do CNPJ e registro do domínio, lidos em 03/11."
+          "caption": "Rodapé do site, consulta pública do CNPJ e registro do domínio."
         },
         "postParagraphs": [
           "O nome na embalagem e no logo é só \"SIMPLE\"; o site e o domínio são Simple Organic. É a mesma marca, com o nome curto na frente e o nome completo no endereço."
@@ -176258,14 +176258,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Simple Organic no Reclame Aqui",
         "paragraphs": [
-          "Dá para confiar no atendimento: nos 6 meses, a Simple Organic tem o selo RA1000, responde a todas as reclamações e resolve nove em cada dez. O maior problema é atraso na entrega, perto de um quinto das queixas, o que combina com o aviso da loja sobre prazo em campanha. As notas de cada período, as reclamações mais recentes e o que elas mostram estão em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao)."
+          "O perfil da Simple Organic no Reclame Aqui tinha selo RA1000 no recorte de seis meses, com todas as reclamações respondidas. Entre as finalizadas e avaliadas, cerca de nove em cada dez foram resolvidas, e o atraso na entrega era perto de um quinto das queixas. As notas de cada período e as reclamações mais recentes estão em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao)."
         ]
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O código S-EMCASACOMCECILIA dá 5% em todo o site, na loja online, e o desconto aparece no carrinho antes de pagar. O Em Casa com Cecília tem parceria com a Simple Organic e pode receber comissão pelas compras com esse código; o código e as condições vigentes estão na página do [cupom Simple Organic](/cupons/simple-organic).",
-          "Aqui vale uma atenção. A política de cupons da loja diz que cupom não soma com preço promocional e não vale em kit nem em duo. No teste do nosso código, feito no checkout e no carrinho, o desconto entrou em kit, em duo e em produto com preço de promoção. Como a regra escrita diz uma coisa e o carrinho mostrou outra, a orientação é simples: aplique o código, veja os 5% no resumo do pedido e só então pague. Se o desconto não aparecer, não conte com ele.",
+          "A política de cupons da loja diz que cupom não soma com preço promocional e não vale em kit nem em duo. No teste de 03/11/2026, o nosso código entrou no carrinho e no checkout com kit, duo e produto em promoção. Como a regra escrita diz uma coisa e aquele teste mostrou outra, aplique o código e confira os 5% no resumo do pedido antes de pagar; se não aparecerem, não conte com o desconto.",
           "Para aplicar, cole o código no campo \"Desconto\" do carrinho ou no checkout. O botão deste artigo abre a home com o código já aplicado; link de produto não leva o código, então copie e cole. O passo a passo com a conta do teste está em [como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar)."
         ],
         "images": [
@@ -176349,8 +176349,8 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Simple Organic no Reclame Aqui: RA1000 nos últimos 6 meses, nota 8,6, 100% respondidas e 90,2% resolvidas. Do que as pessoas reclamam e o que fazer se o pedido der problema.",
-    "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic no Reclame Aqui: RA1000, nota 8,6, 90,2% resolvidas e as queixas mais comuns.",
+    "description": "Simple Organic no Reclame Aqui: RA1000 na aba de 6 meses, nota 8,6 e 90,2% de solução entre as finalizadas e avaliadas. Veja as queixas e o que fazer se o pedido der problema.",
+    "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic no Reclame Aqui: RA1000, nota 8,6, 90,2% de solução e as queixas mais comuns.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
     "updatedAt": "2026-11-07",
@@ -176364,7 +176364,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim: a Simple Organic estava na RA1000 do Reclame Aqui nos últimos 6 meses, com nota 8,6, todas as reclamações respondidas e nove em cada dez resolvidas, num perfil verificado com o CNPJ da loja. O que pesa é o atraso na entrega, a queixa mais comum; veja abaixo as reclamações e o que fazer se o pedido der problema."
+          "Sim, pelo recorte de 6 meses: a Simple Organic tinha RA1000 e nota 8,6 no Reclame Aqui, com todas as reclamações respondidas. O que pesa é o atraso na entrega, a queixa mais comum. Veja as reclamações e o que fazer se o pedido der problema."
         ]
       },
       {
@@ -176378,7 +176378,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os números da Simple Organic",
         "paragraphs": [
-          "Olhe primeiro a aba de 6 meses, a mais recente: é a única em RA1000 e a que diz como a loja está atendendo agora. As outras abas mostram de onde ela veio."
+          "Em 03/11/2026, a aba de 6 meses tinha a maior nota e o maior índice de solução entre os recortes da tabela. Ela descreve aquela janela, sem garantir o atendimento de um chamado novo."
         ],
         "comparisonTable": {
           "headers": [
@@ -176423,7 +176423,7 @@ export const reviewsData: unknown[] = [
               "99,9%"
             ],
             [
-              "Resolvidas",
+              "Índice de solução — finalizadas e avaliadas",
               "90,2%",
               "88,2%",
               "84,4%",
@@ -176463,7 +176463,7 @@ export const reviewsData: unknown[] = [
               "3 dias e 2 h"
             ]
           ],
-          "caption": "Abas do perfil Simple Organic no Reclame Aqui, lidas em 03/11/2026. A aba Geral cobre os 3 anos até a leitura."
+          "caption": "Abas do perfil Simple Organic no Reclame Aqui. A aba Geral cobre os últimos 3 anos."
         },
         "postParagraphs": [
           "A nota de reputação é a que define a faixa. A nota média do consumidor é outra conta: a média que quem reclamou deu ao atendimento, e aqui ela fica abaixo da nota de reputação em todas as abas."
@@ -176472,9 +176472,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que a conta entre as abas mostra",
         "paragraphs": [
-          "A Simple Organic está melhorando, não piorando: a aba mais recente é a melhor do perfil em faixa, nota, resolução e vontade de voltar a comprar. O histórico de reputação dos 6 meses mostra RA1000 em maio, Ótima de junho a setembro e RA1000 de novo em outubro, então a faixa de cima não é um mês de sorte.",
-          "Conta nossa, com os números da tabela: de 2024 para 2025, as reclamações caíram perto de um terço, e dentro dos 12 meses os 6 mais recentes carregam menos da metade do total. Menos reclamação entrando e mais reclamação resolvida ao mesmo tempo é o melhor sinal que uma aba de Reclame Aqui dá.",
-          "O ano de 2025 foi o pior da série: a nota mais baixa, a menor fatia de gente que voltaria e a nota do consumidor mais baixa. O que a tabela não explica é o porquê. Se você vai comprar hoje, o que vale é a aba recente; o ano passado serve para saber que a loja já teve fase pior e saiu dela."
+          "O percentual que voltaria a comprar era de 76,8% na aba de 6 meses, abaixo dos 77,7% da aba de 12 meses. O histórico mostrava RA1000 em maio, Ótima de junho a setembro e RA1000 em outubro.",
+          "Pelos totais da tabela, as reclamações recebidas caíram de 766 em 2024 para 516 em 2025, cerca de um terço. Os 153 registros da aba de 6 meses são menos da metade dos 385 da aba de 12 meses.",
+          "O recorte de 2025 tinha a menor nota de reputação, a menor disposição de voltar e a menor nota do consumidor da tabela. Confira o perfil no dia da compra."
         ]
       },
       {
@@ -176482,7 +176482,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Atraso na entrega é a queixa mais comum: lidera a lista de principais problemas do perfil, com um pouco mais de um quinto das reclamações. O resto se espalha; nas categorias, a maior fatia é Produtos Naturais, e nos produtos, Cosméticos naturais, que é o que a loja vende.",
           "As reclamações mais recentes do perfil contam o resto da história. Entre as últimas oito, apareceram: conta-gotas de sérum que chegou quebrado ou torto (duas vezes), produto reformulado com embalagem e quantidade novas, pedido de devolução feito no dia do recebimento, pedido que não deu para cancelar junto com tampa de creme que quebra, pedido não recebido e o mesmo produto pela metade do preço logo depois da compra. Todas tinham resposta da loja.",
-          "Quem busca \"niacinamida Simple Organic reclame aqui\" ou \"retinol like Simple Organic reclame aqui\" quer saber do produto, não só do correio, e as queixas recentes confirmam: parte é sobre frasco, tampa e fórmula, não sobre entrega. Regra prática, sem teste nosso, com um frasco de conta-gotas viajando pelo correio: confira o conta-gotas assim que a caixa chegar e fotografe antes de usar, porque a foto do estado em que chegou sustenta o pedido.",
+          "Entre as reclamações recentes, parte trata de frasco, tampa e reformulação, não só de entrega. Ao receber um sérum, confira o conta-gotas e fotografe o estado em que chegou antes de usar. Se houver defeito, registre o problema com o canal da compra e guarde os comprovantes.",
           "Uma das reclamações de conta-gotas veio de compra na loja oficial da Simple na Shopee. O perfil do Reclame Aqui junta pedidos de todos os canais, então a nota não é só do site. Guarde onde comprou: o pedido da Shopee se resolve primeiro na Shopee, e o do site, no atendimento do site."
         ],
         "images": [
@@ -176499,8 +176499,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a loja responde",
         "paragraphs": [
-          "Responde a tudo, e em poucos dias: a loja não deixou reclamação sem resposta em nenhuma aba de ano, e o tempo médio nos 6 meses fica abaixo de três dias. Em 2024 era mais rápido, pouco mais de um dia; ficou mais lento, mas continua em poucos dias.",
-          "Responder não é resolver. Nos 6 meses, a resolução é a mais alta da série, e três em cada quatro pessoas que avaliaram disseram que voltariam a comprar. O que fica aquém é a nota do consumidor, que avalia a resposta recebida: fica abaixo de 8 em todas as abas. Resumindo: a loja resolve, mas nem sempre do jeito que a pessoa queria."
+          "Na aba de 6 meses, todas as reclamações tinham resposta, em média 2 dias e 11 horas, contra 1 dia e 8 horas em 2024. As abas de 12 meses, 2025 e 2024 também chegam a 100%; a Geral, a 99,9%.",
+          "Na aba de 6 meses, 82 das 153 reclamações tinham avaliação. O índice de solução, entre as finalizadas e avaliadas, era de 90,2%; 76,8% dos avaliadores voltariam a comprar. A nota do consumidor, que avalia a resposta recebida, era 7,82, abaixo de 8 em todas as abas."
         ]
       },
       {
@@ -176540,23 +176540,23 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Simple Organic: o veredito",
         "paragraphs": [
-          "Dá, com o comprovante guardado. O perfil estava na RA1000 nos últimos 6 meses, com nota 8,6, respondeu a todas as reclamações e resolveu a grande maioria, e a aba recente é a melhor do histórico. O ponto de atenção é o atraso na entrega, a queixa mais comum, e os frascos que chegam quebrados; os dois se resolvem com o número do pedido e uma foto na hora de receber."
+          "Dá, com o comprovante guardado. O perfil tinha RA1000 e nota 8,6 na aba de 6 meses, com todas as reclamações respondidas. Entre as finalizadas e avaliadas, o índice de solução era de 90,2%. Antes de comprar, confira o prazo de entrega; ao receber, fotografe qualquer dano no frasco e guarde o número do pedido para o atendimento."
         ],
         "bullets": [
           "O que conferir no dia: o perfil empresa/simple-organic, o CNPJ 24.692.452/0001-40 no topo e a aba de 6 meses.",
           "O que guardar: número do pedido, CPF da compra, onde comprou (site, Shopee ou loja física) e a foto do produto ao receber.",
           "Quando o Reclame Aqui entra: depois do atendimento da loja, com o prazo vencido anotado."
         ],
-        "emphasis": "Loja que responde em poucos dias e resolve a maioria das reclamações passa no teste. O cuidado que fica é com a entrega."
+        "emphasis": "Confira o prazo da compra e guarde o comprovante. Os índices de atendimento ajudam a avaliar o histórico; uma foto e o número do pedido ajudam a documentar um problema."
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Simple Organic é confiável? Pelo Reclame Aqui, sim: RA1000 nos últimos 6 meses, com todas as reclamações respondidas e a maioria resolvida. Esses números vêm das reclamações registradas e não avaliam a qualidade dos produtos.",
-          "Qual a nota da Simple Organic no Reclame Aqui? Nota 8,6 nos últimos 6 meses, 8,5 nos 12 meses e 8,2 na aba geral; a tabela do capítulo \"Os números da Simple Organic\" traz as cinco abas.",
+          "A Simple Organic é confiável? Pelo Reclame Aqui, sim: RA1000 na aba de 6 meses, com todas as reclamações respondidas. Esses índices tratam das reclamações registradas, não da qualidade dos produtos.",
+          "Qual a nota da Simple Organic no Reclame Aqui? Nota 8,6 na aba de 6 meses, 8,5 na de 12 meses e 8,2 na Geral; a tabela do capítulo \"Os números da Simple Organic\" traz as cinco abas.",
           "Do que as pessoas reclamam da Simple Organic? Atraso na entrega é o problema mais citado; nas reclamações recentes aparecem também conta-gotas quebrado, produto reformulado, devolução sem retorno e pedido que não deu para cancelar.",
-          "A Simple Organic responde às reclamações no Reclame Aqui? Sim, a todas, em pouco mais de dois dias em média nos últimos 6 meses. Resolveu nove em cada dez no mesmo período.",
-          "O que fazer se o pedido da Simple Organic atrasar ou chegar com defeito? Fale com o atendimento da loja com o número do pedido e a foto do produto; a troca voluntária ou a desistência tem 7 dias corridos depois do recebimento, com o lacre inviolado, e o defeito se descreve no mesmo atendimento. Se não resolver, registre no Reclame Aqui."
+          "A Simple Organic responde às reclamações no Reclame Aqui? Sim: todas as da aba de 6 meses tinham resposta, em média 2 dias e 11 horas. O índice de solução era de 90,2% entre as finalizadas e avaliadas.",
+          "O que fazer se o pedido da Simple Organic atrasar ou chegar com defeito? Fale com o atendimento da loja com o número do pedido e a foto do produto. A troca voluntária ou a desistência tem 7 dias corridos depois do recebimento, com o lacre inviolado; defeito tem prazo próprio e não depende do lacre. Se não resolver, registre no Reclame Aqui."
         ]
       }
     ],
@@ -176565,11 +176565,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Você compra na loja online, guarda o número do pedido e aceita esperar alguns dias úteis até o despacho.",
-        "O que pesa para você é a reputação recente: os últimos meses são os melhores do perfil."
+        "Você olha a reputação recente do perfil e confere os indicadores atuais antes de comprar."
       ],
       "skipIf": [
         "Um atraso de entrega estraga a compra, porque é a queixa mais comum do perfil.",
-        "Você pode mudar de ideia logo depois de pagar: há reclamação de pedido que não deu para cancelar, e a desistência só corre depois do recebimento."
+        "Você precisa contar com cancelamento imediato antes do envio e ainda não confirmou o procedimento com a loja."
       ]
     },
     "cta": {
@@ -176630,7 +176630,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Se a compra é no site oficial da Simple Organic, o [cupom Simple Organic](/cupons/simple-organic) da parceria é o S-EMCASACOMCECILIA: 5% OFF em todo o site, de sérum e hidratante a limpeza facial, maquiagem e body splash. A Simple Organic se apresenta como marca de beleza limpa e vegana, de Florianópolis, parte da Hypera Pharma desde 2020; o cupom é o benefício para quem acompanha o Em Casa com Cecília.",
           "Ele é o código da loja online, simpleorganic.com.br. Para a primeira compra, o código é este mesmo: a parceria não tem um código separado. O que ela dá são os 5%, e é isso que o resumo do pedido vai mostrar.",
-          "O desconto sai do preço que está no carrinho. Se o produto já está em promoção, os 5% saem do preço promocional, não do preço riscado. Não é muito, e por isso ele é o extra de quem já ia comprar, não o motivo da compra."
+          "O desconto sai do preço que está no carrinho. Nos testes, os 5% entraram sobre o preço promocional. Confira a linha do código e o total do seu pedido antes de pagar."
         ],
         "images": [
           {
@@ -176653,7 +176653,7 @@ export const reviewsData: unknown[] = [
         "heading": "2. Monte o carrinho",
         "paragraphs": [
           "O cupom não entra na página do produto: ele aparece no carrinho. Escolha o que você quer e abra o carrinho; o preço da página já traz o desconto da promoção do site, quando há, e é sobre ele que os 5% vão entrar.",
-          "Na dúvida entre um item avulso e um kit, ponha os dois no carrinho e compare o total com o cupom aplicado. A comparação se faz no carrinho, não na página do produto."
+          "Para comparar avulsos e kit, use os mesmos produtos e quantidades, uma opção de cada vez no carrinho. Aplique o código e anote o total com frete; depois compare com a outra opção."
         ]
       },
       {
@@ -176667,7 +176667,7 @@ export const reviewsData: unknown[] = [
         "heading": "4. Confira o desconto antes de pagar",
         "paragraphs": [
           "Confira três coisas no resumo do pedido: a linha do cupom, o valor de cada item e o total. Quando o código entra, cada item cai 5% e o total acompanha. Se a linha do cupom não aparece, o preço é o da promoção, sem os 5%: volte ao passo 3 antes de seguir.",
-          "Na hora de pagar, a loja aceita cartão em até 5 vezes sem juros, com parcela mínima de R$ 30, e Pix por QR Code, que vale 2 horas. A página de pagamento não anuncia desconto extra no Pix: o desconto da compra é o do cupom."
+          "Na hora de pagar, a loja aceita cartão em até 5 vezes sem juros, com parcela mínima de R$ 30, e Pix por QR Code, que vale 2 horas. A página de pagamento não anuncia desconto extra no Pix: não conte com um abatimento adicional no Pix sem ele aparecer no resumo."
         ]
       },
       {
@@ -176761,7 +176761,7 @@ export const reviewsData: unknown[] = [
           "Se a compra já ia ser no site da Simple Organic, o cupom vale: 5% a mais sobre o preço que já está lá, sem passo extra além de colar o código. Durante a Clean Friday, até 30/11, o desconto grande é o da campanha, com boa parte do catálogo pela metade; o cupom é o acréscimo, e só se o resumo mostrar. Os preços da campanha estão no [guia de Black Friday da Simple Organic](/reviews/black-friday-simple-organic).",
           "Passe do cupom quando a compra é na loja física, quando você espera frete grátis só por ele ou quando o resumo não mostra a linha do desconto. Antes de comprar pela primeira vez, leia [Simple Organic é confiável?](/reviews/simple-organic-e-confiavel), com a empresa, o CNPJ e as regras de troca."
         ],
-        "emphasis": "Cupom de 5% não decide compra nenhuma: ele é o troco de quem já ia comprar. Escolha pelo preço da promoção e deixe o cupom ser o extra.",
+        "emphasis": "No carrinho de R$ 182 do teste, o código descontou R$ 9,10. Confira quanto os 5% reduzem no seu pedido e compare o total com frete.",
         "images": [
           {
             "src": "/images/reviews/simple-organic/body-splash-blossom-kiss.webp",
@@ -176853,7 +176853,7 @@ export const reviewsData: unknown[] = [
         "heading": "A Clean Friday: o que é e até quando vale",
         "paragraphs": [
           "A Clean Friday é a Black Friday da Simple Organic, e ela já está no ar: não precisa esperar a última sexta de novembro para ver o preço baixo. O banner da home anuncia \"tudo com até 50% OFF\", e o desconto já está no preço de cada produto, sem código nenhum.",
-          "A loja informa: a ação vale desde o fim de outubro até 30/11, enquanto durarem os estoques, e ofertas, preços e condições podem mudar no meio do caminho. Ou seja, o desconto é o do mês inteiro; o que acaba antes é o produto, não a promoção.",
+          "A loja informou que a ação vai do fim de outubro até 30/11, enquanto durarem os estoques. Ofertas, preços e condições podem mudar; confira o valor do produto antes de fechar o pedido.",
           "O \"até\" pesa. Não é tudo pela metade: cada produto tem o próprio corte na página, e a tabela do próximo capítulo mostra onde ele é de 50% e onde fica em 40%. Serve para quem já conhece a linha e quer fechar a rotina num pedido só, e também para quem só quer provar um sérum; nesse caso, o que pesa é o frete, e o capítulo do frete mostra a conta."
         ]
       },
@@ -176919,7 +176919,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Conta nossa, pelos preços \"de\" e \"por\" da tabela: os dois Ultra Sérum e o Primer Blur Effect saem com 40%, o Duo Limpeza + Regeneração com 43%, e os outros cinco com 50%. O \"até 50%\" do banner é o teto, não a regra. Se o item que você quer está em 40%, a diferença para o de 50% não muda a escolha do produto; muda só a conta do frete, mais abaixo.",
-          "O preço do site muda sem aviso, e a campanha diz isso na letra miúda. Use a tabela como régua: na semana da Black Friday, só é desconto novo o que ficar abaixo do \"por\" daqui."
+          "O preço pode mudar. Compare o valor do produto que você quer com a tabela deste guia e com o preço mostrado na loja no dia da compra."
         ],
         "images": [
           {
@@ -176935,8 +176935,8 @@ export const reviewsData: unknown[] = [
         "heading": "O cupom na Clean Friday: o que o teste mostrou",
         "paragraphs": [
           "O cupom entrou no carrinho com a Clean Friday no ar, mas a regra escrita da loja diz o contrário; o que vale é a linha de desconto que o seu carrinho mostra antes de pagar. O código é o S-EMCASACOMCECILIA, 5% na loja online da Simple Organic.",
-          "No teste, feito com a campanha no ar, o código entrou num kit, num duo e em produtos já com o preço de campanha, e tirou 5% do carrinho inteiro: no carrinho de R$ 182,00, com o kit Rotina Pele Sensível, o Hidratante Facial Super Glow e um lip combo a preço cheio, foram R$ 9,10 a menos.",
-          "Então a ordem é esta: coloque os produtos no carrinho, cole o código no campo \"Desconto\" e olhe se a linha do cupom apareceu. Se apareceu, não perca a oportunidade e compre. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar), e as condições do dia, na página do [cupom Simple Organic](/cupons/simple-organic).",
+          "Num carrinho de R$ 182,00, com o kit Rotina Pele Sensível, o Hidratante Facial Super Glow e um lip combo a preço cheio, o código tirou R$ 9,10, 5% do total. Ele entrou num kit, num duo e em produtos com preço de campanha.",
+          "Coloque os produtos no carrinho, cole o código no campo \"Desconto\" e confira a linha do cupom antes de decidir. O link da parceria aplica o código na home; quem entra direto na página de um produto precisa colar o código. O passo a passo está em [Como usar o cupom da Simple Organic](/reviews/cupom-simple-organic-como-usar), e as condições do dia, na página do [cupom Simple Organic](/cupons/simple-organic).",
           "Nas Lojas Simple e nas farmácias, não conte com o código: ele é da loja online."
         ],
         "images": [
@@ -176953,8 +176953,8 @@ export const reviewsData: unknown[] = [
         "heading": "Frete e prazo na campanha",
         "paragraphs": [
           "Na Clean Friday, o que muda não é o frete, é o prazo: a política de frete da loja avisa que, em ação grande, o despacho pode passar dos 3 a 5 dias úteis de sempre. O frete grátis segue a partir de R$ 99,00 em produtos, pela faixa do topo do site; abaixo disso, ele é calculado pelo CEP, por PAC, Sedex ou JadLog.",
-          "Com os preços da campanha, um sérum, o hidratante ou mesmo o kit Pele Sensível sozinhos ficam abaixo dos 99. O trio de body splashes e o duo passam, e dois séruns com o hidratante também. Vale montar o pedido para cruzar essa linha em vez de pagar frete num item de 41.",
-          "Regra prática, sem teste nosso: com o despacho de até 5 dias úteis mais a viagem até o seu CEP, e com a fila da campanha por cima, presente comprado na última semana de novembro pode chegar depois da data; quem precisa do produto num dia certo compra na primeira quinzena.",
+          "Na comparação dos preços da tabela, um sérum, o hidratante ou o kit Pele Sensível sozinhos ficavam abaixo de R$ 99. O trio de body splashes e o duo passavam, assim como dois séruns com o hidratante. Compare o total com o frete e escolha apenas os itens que você precisa.",
+          "Para presente com data certa, confira no checkout o prazo para seu CEP e considere margem para eventuais atrasos de despacho ou transporte. Comprar antes dá mais tempo, sem garantir entrega numa data.",
           "Pagamento: cartão em até 5x sem juros, com parcela mínima de R$ 30, ou Pix com QR Code que vale 2 horas. Troca ou desistência: 7 dias corridos depois de receber, com o produto sem uso e o lacre inviolado, por e-mail ao atendimento com o número do pedido. Na campanha isso pesa: a loja pede o lacre intacto para troca e desistência, e produto com defeito pode ser reclamado em até 30 dias, pelo Código de Defesa do Consumidor."
         ],
         "images": [
@@ -176970,7 +176970,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comprar agora ou esperar a sexta",
         "paragraphs": [
-          "Esperar a última sexta de novembro não ganha nada que a loja tenha anunciado: o desconto é o mesmo o mês inteiro, e o que acaba é o estoque. A campanha diz \"enquanto durarem os estoques\" e avisa que preços e condições podem mudar; nada publicado promete corte maior na sexta.",
+          "A campanha informa duração até o fim de novembro, sujeita a estoque e mudanças de preço e condições. Não há promessa de corte maior na última sexta; compare o preço do produto desejado quando for comprar.",
           "Quem já sabe o produto compra quando ele aparece disponível com a etiqueta de 50%. Quem está entre dois usa a tabela como régua e confere o preço do dia. Para confiar na compra: o rodapé do site traz o CNPJ da Simple Organic Beauty S.A., e o perfil da loja no Reclame Aqui tem selo RA1000 nos últimos 6 meses, com todas as reclamações respondidas; os números por período estão em [Simple Organic no Reclame Aqui](/reviews/simple-organic-reclame-aqui-nota-reputacao). A queixa mais comum lá é atraso na entrega, o que reforça o aviso do prazo.",
           "Antes de pagar:"
         ],
@@ -176978,9 +176978,9 @@ export const reviewsData: unknown[] = [
           "Compare o \"por\" da página com a tabela deste guia.",
           "Cole o código e veja se a linha do cupom apareceu; se não, o preço da campanha é o desconto.",
           "Veja se o pedido cruzou o mínimo do frete grátis e qual é o prazo para o seu CEP.",
-          "Guarde o número do pedido: a troca pede ele e o lacre intacto."
+          "Guarde o número do pedido e consulte a política da loja antes de solicitar troca ou desistência; se houver defeito, registre o problema e procure atendimento."
         ],
-        "emphasis": "Promoção de um mês inteiro não premia quem espera: o que acaba antes é o estoque, não o desconto.",
+        "emphasis": "Compare o preço e o frete no dia da compra: a campanha pode mudar de condições e os estoques são limitados.",
         "emphasisAfterParagraph": 1
       },
       {
@@ -176999,7 +176999,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "O produto que você quer está com a etiqueta de 50% na página e o pedido passa do mínimo do frete grátis.",
-        "É presente: a campanha vai até o fim de novembro, mas o despacho pode demorar mais que o normal, e a primeira quinzena é mais segura."
+        "É presente com data certa: você conferiu o prazo para seu CEP e deixou margem para possíveis atrasos."
       ],
       "skipIf": [
         "Você quer usar o código numa Loja Simple ou numa farmácia: ele é da loja online."
@@ -178061,7 +178061,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Simple Organic é boa? Pelo rótulo, sim: o que os séruns de niacinamida, vitamina C e retinol declaram, as soluções, os hidratantes, o cupom de 5% e para quem a marca compensa.",
+    "description": "Simple Organic: o que os rótulos de niacinamida, vitamina C, retinol e hidratantes permitem comparar antes da compra, com o cupom de 5% na loja online.",
     "metaDescription": "O cupom S-EMCASACOMCECILIA dá 5% OFF na loja online. Simple Organic é boa? Niacinamida a 10%, duas vitaminas C, retinol a 0,3% e bakuchiol, pelo rótulo.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
@@ -178076,7 +178076,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é: os séruns da Simple Organic trazem o ativo e a concentração, na página ou no frasco, e a marca se apresenta como vegana e de beleza limpa. O que muda a escolha é o par certo de cada ativo, como as duas vitaminas C que não são o mesmo produto; os capítulos abaixo mostram produto por produto."
+          "Pelo rótulo, dá para comparar os séruns da Simple Organic: niacinamida e retinol trazem concentração escrita, e as duas vitaminas C usam derivados diferentes. Confira a fórmula de cada produto antes de escolher. O cupom S-EMCASACOMCECILIA dá 5% na loja online."
         ]
       },
       {
@@ -178098,7 +178098,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ultra Sérum ou Solução: o que muda de uma linha para a outra",
         "paragraphs": [
-          "Quem busca \"solução niacinamida\" compra o Ultra Sérum Niacinamida sem perder nada: a página diz que ele é a mesma fórmula da Solução Niacinamida, numa embalagem nova. Mas o nome da linha não garante o par. A Solução Vitamina C e o Ultra Sérum Vitamina C são fórmulas diferentes, com derivados diferentes, e a Solução custa mais. A regra que funciona é ir pelo ativo escrito, não pelo nome da linha."
+          "Segundo a marca, o Ultra Sérum Niacinamida mantém a fórmula da antiga Solução Niacinamida e muda a embalagem. Isso não vale para todos os pares: Ultra Sérum Vitamina C e Solução Vitamina C usam derivados diferentes. Compare o rótulo do produto específico."
         ],
         "comparisonTable": {
           "headers": [
@@ -178173,7 +178173,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Conta nossa, pelos preços de lista e pelos volumes da tabela: o Ultra Sérum de 30 mL sai a R$ 2,30 por mL e a Solução Retinol-Like, a R$ 3,30. Nas páginas que não trazem o volume (as duas vitaminas C, o ácido hialurônico e o PDRN), a conta por mL não fecha, e a comparação fica pelo ativo e pela concentração.",
-          "Na dúvida entre as duas linhas, o Ultra Sérum é a entrada da marca, com o mesmo preço em todos os ativos; a Solução é a linha de cima, com os ativos que a marca vende como diferenciais e um preço acima. O que decide não é a linha, é o rótulo de cada frasco, e os três capítulos seguintes leem os que mais se procuram."
+          "Na tabela de preços de lista, os Ultra Séruns custam o mesmo e as Soluções custam mais. Use os próximos capítulos para comparar o ativo declarado, a concentração quando publicada e a composição."
         ],
         "images": [
           {
@@ -178188,10 +178188,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A niacinamida da Simple Organic é boa? O que o rótulo diz",
         "paragraphs": [
-          "Pelo rótulo, ela entrega o que quem busca o ativo quer ver escrito: niacinamida a 10%, 30 mL e a lista de ingredientes inteira na página. É o sérum mais procurado da marca e o que sai pelo menor preço por mL do catálogo, pela conta do capítulo anterior.",
+          "O Ultra Sérum Niacinamida declara niacinamida a 10%, 30 mL e lista completa de ingredientes na página. Pelos preços de lista e volumes da tabela, custa R$ 2,30 por mL, empatado com os outros Ultra Séruns de 30 mL comparados.",
           "A loja informa: o Ultra Sérum Niacinamida é \"a mesma fórmula da Solução Niacinamida, agora em uma nova embalagem\", e a composição leva Parfum. O que a página promete para a pele é frase da marca, e este texto não repete.",
           "Regra prática, sem teste nosso, para quem evita perfume em produto de rosto: leia a lista de ingredientes antes de fechar, porque este sérum leva Parfum e a página mostra a lista inteira. Gestante, lactante e quem tem alguma condição de pele: a própria página manda ao médico ou ao dermatologista, e na dúvida é ele quem responde, não o rótulo.",
-          "Serve para quem quer o ativo mais procurado da marca com a concentração escrita e o menor preço por mL. Passe se perfume na fórmula é o que você evita; aí o rótulo já respondeu."
+          "É uma opção para quem procura niacinamida com concentração e volume declarados. Se você evita perfume em produto de rosto, considere que a composição leva Parfum."
         ]
       },
       {
@@ -178199,7 +178199,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Depende de qual: a marca vende duas vitaminas C que não são o mesmo produto com embalagem nova, e é o rótulo que separa as duas. O Ultra Sérum Vitamina C traz, impresso no frasco, 10% de vitamina C na forma de ascorbil fosfato de sódio e 0,5% de ácido ferúlico. A Solução Vitamina C declara na página 15% de ascorbyl glucoside, outro derivado, e custa mais, pela tabela do capítulo das linhas.",
           "Os dois são derivados da vitamina C, não o ácido ascórbico puro, e os dois dizem isso no rótulo. O número maior da Solução é de outro derivado, então 15% e 10% não se comparam direto, e o resultado na pele é promessa da página, não resposta deste texto. Nenhum dos dois traz o volume na página, e por isso a conta por mL não fecha aqui: a diferença de preço da tabela é a única conta que existe.",
-          "O Ultra Sérum é para quem quer a vitamina C com o ácido ferúlico junto, pelo preço de entrada da marca. A Solução é para quem quer a concentração maior escrita e aceita pagar mais pela linha de cima. Gestante e lactante: a página da vitamina C manda ao médico, e a regra vale para as duas."
+          "O Ultra Sérum combina o derivado ascorbil fosfato de sódio, a 10%, com ácido ferúlico; a Solução usa ascorbyl glucoside, a 15%. Não escolha só pelo percentual, porque os derivados são diferentes. Gestantes e lactantes devem conversar com médico ou dermatologista antes de escolher, conforme orientação da página."
         ]
       },
       {
@@ -178340,7 +178340,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Os preços das tabelas são de lista, e em campanha a loja põe o preço do dia abaixo dele, como na Clean Friday que está no ar. Por cima do preço que estiver no carrinho entra o S-EMCASACOMCECILIA: 5% na loja online, o [cupom Simple Organic](/cupons/simple-organic) da parceria.",
           "Nos testes, o código entrou em kit, em duo e em produto com preço de promoção, e os 5% saíram do preço que já estava no carrinho, não do preço riscado. O que confirma é a linha do desconto no resumo do pedido: confira antes de pagar. O link da parceria abre a home da loja com o código aplicado; o link de produto, como os das tabelas, vai sem ele, então copie o código e cole no campo \"Desconto\" do carrinho. O código é da loja online.",
-          "Conta de casa para o pedido pequeno: um Ultra Sérum sozinho não cruza o mínimo do frete grátis da loja, a partir de R$ 99 em produtos; dois cruzam. Num pedido de um sérum só, o frete pesa mais que os 5% do cupom, e por isso vale fechar o par, ou o sérum com o hidratante, num pedido só."
+          "Para um pedido pequeno, compare o total com frete depois de aplicar o código. O mínimo de frete grátis e o valor dos produtos precisam ser confirmados no carrinho. Se você já pretende comprar outro item, simule os dois juntos e compare com o total de uma compra só."
         ]
       },
       {
@@ -178353,8 +178353,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem vale e para quem não vale",
         "bullets": [
-          "Para começar pela marca, o Ultra Sérum Niacinamida: ativo, concentração e volume escritos, e o menor preço por mL da tabela.",
-          "Para vitamina C, escolha pelo derivado e pelo que vem junto: o Ultra Sérum traz o ácido ferúlico pelo preço de entrada; a Solução, a concentração maior de outro derivado, pelo preço da linha de cima.",
+          "Para comparar niacinamida pelo rótulo: o Ultra Sérum declara ativo, concentração e volume. Seu preço por mL empata com o dos outros Ultra Séruns de 30 mL da tabela.",
+          "Para comparar as vitaminas C, observe o derivado e a fórmula: o Ultra Sérum traz ácido ferúlico; a Solução usa outro derivado. Não escolha só pelo percentual.",
           "Para retinol, o Ultra Sérum Retinol, com a dose impressa no frasco; para evitar retinol, o Retinol-Like, de bakuchiol.",
           "No hidratante, um dos três de 40 g para quem quer niacinamida também ali; o Multifuncional para quem quer o pote maior, com manteigas e óleos.",
           "Não vale esperar comparar tudo por mL: metade das páginas não traz o volume."
@@ -178368,7 +178368,7 @@ export const reviewsData: unknown[] = [
           "O Ultra Sérum é a mesma coisa que a Solução? Depende do par: a página do Ultra Sérum Niacinamida diz que é a mesma fórmula da Solução Niacinamida em embalagem nova, mas a Solução Vitamina C e o Ultra Sérum Vitamina C usam derivados e concentrações diferentes.",
           "O Retinol-Like tem retinol? Não: o ativo é o bakuchiol, a 1%, que a marca chama de alternativa vegetal ao retinol. O sérum com retinol é o Ultra Sérum Retinol, com 0,3% impressos no frasco.",
           "A Simple Organic é vegana? Pela própria marca, sim: ela diz que os produtos são veganos e cruelty-free e aponta selos de terceiros, como o PETA Vegan Approved. Se o selo decide a compra, confira o nome da marca na certificadora.",
-          "Qual sérum da Simple escolher? Pelo rótulo: o Ultra Sérum Niacinamida é o que declara ativo, concentração e volume pelo menor preço por mL, e o capítulo \"Para quem vale\" separa os outros por ativo. A escolha para a sua pele é com o dermatologista."
+          "Qual sérum da Simple escolher? Compare o ativo, a concentração quando declarada e a fórmula completa. O Ultra Sérum Niacinamida tem 30 mL e Parfum na composição; outros produtos e diferenças estão nos capítulos acima. A escolha adequada à sua pele pode ser discutida com o dermatologista."
         ]
       }
     ],
