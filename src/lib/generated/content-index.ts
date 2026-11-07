@@ -44292,6 +44292,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Creatina Nutren, com o cupom CECI de 10% OFF na Nestlé Nutre: rótulo, preparo e preço por 100 g frente a Growth, FTW e Lavitan.",
     "publishedAt": "26 de agosto de 2026",
     "publishedAtISO": "2026-08-26",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/nutren/nutren-creatina-e-boa-capa-discover-v2.webp",
@@ -44361,7 +44362,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comparativo auditável: Nutren, Growth, FTW e Lavitan",
         "paragraphs": [
-          "Na tabela, as quatro marcas lado a lado pelo custo por 100 g, com a Nutren com o CECI e a Growth no Pix praticamente empatadas.",
+          "Na tabela, as quatro marcas lado a lado pelo custo por 100 g, com a Nutren com o CECI e a Growth no Pix praticamente empatadas. Os preços vêm dos sites oficiais, consultados em agosto de 2026 (Nutren, FTW e Lavitan) e atualizados em outubro de 2026 (Growth e Nutren). O R$ 53,91 da Nutren é o cálculo de 10% sobre R$ 59,90, não um teste de carrinho. As porções diferem (Growth 5 g, Nutren 3 g), então a base comum é o custo por 100 g, não o número de porções.",
           "Não atribuímos superioridade de pureza, eficácia ou controle de qualidade sem laudo comparável dos mesmos lotes. A expressão “100% monohidratada” descreve a composição declarada; não substitui ensaio laboratorial independente."
         ],
         "comparisonTable": {
@@ -44393,25 +44394,25 @@ export const reviewsData: unknown[] = [
               "3 g em 200 ml de água",
               "5 g em líquido de preferência",
               "3 g em 200 ml de água ou outra bebida",
-              "3 g em 200 ml de água"
+              "Scoop de 3 g, segundo a página da marca"
             ],
             [
               "Rendimento declarado",
-              "100 porções",
-              "50 porções",
+              "100 porções de 3 g",
+              "50 porções de 5 g",
               "Cerca de 100 porções",
-              "Cerca de 100 porções pelo peso e pela porção"
+              "Não confirmado no rótulo"
             ],
             [
               "Preço oficial consultado",
-              "R$ 53,91 com o CECI de 10%, sobre R$ 59,90",
+              "R$ 59,90; R$ 53,91 é o cálculo do CECI de 10% sobre esse valor",
               "R$ 44,90 no Pix ou boleto; R$ 49,88 no cartão",
               "R$ 59,90; R$ 56,91 à vista",
               "Sem preço; produto esgotado"
             ],
             [
               "Custo por 100 g",
-              "R$ 17,97 com o CECI de 10%",
+              "R$ 17,97 no cálculo com o CECI de 10%",
               "R$ 17,96 no Pix/boleto; R$ 19,95 no cartão",
               "R$ 19,97 no preço cheio; R$ 18,97 à vista",
               "Não calculado"
@@ -44440,12 +44441,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual delas faz mais sentido para você?",
         "paragraphs": [
-          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Pela tabela, a Nutren com o CECI e a Growth no Pix empatam no custo por 100 g, a R$ 17,97 e R$ 17,96, e a FTW à vista fica R$ 1 acima, a R$ 18,97; confirme frete e desconto no checkout antes de fechar.",
-          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth usa porção de 5 g e embalagem de 250 g, então rende menos doses; vale para quem já compra na loja dela. A FTW oferece pote de 300 g e fica R$ 1 por 100 g acima da Nutren com o CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
+          "Com os dados que conseguimos confirmar, não existe uma campeã universal. Pela tabela, a Nutren com o CECI e a Growth no Pix ficam praticamente empatadas na amostra, a R$ 17,97 e R$ 17,96 por 100 g (diferença de R$ 0,01), e a FTW à vista fica R$ 1 acima, a R$ 18,97; confirme frete e desconto no checkout antes de fechar.",
+          "A Nutren faz sentido para quem quer o sachê de 300 g e já compra na loja Nestlé Nutre. A Growth usa porção de 5 g e embalagem de 250 g, então o número de porções não se compara direto com o da Nutren; vale para quem já compra na loja dela. A FTW oferece pote de 300 g e fica R$ 1 por 100 g acima da Nutren com o CECI. A Lavitan pode ser conveniente para quem a encontra em farmácias, mas estava esgotada e sem preço oficial na consulta.",
           "Em qualquer marca, confirme no rótulo o ingrediente, a porção, o lacre, o lote, a validade e as advertências. Compare o preço final depois de frete e desconto, não apenas o número em destaque na vitrine."
         ],
         "bullets": [],
-        "emphasis": "Pelos números da tabela, para quem já compra na Nestlé Nutre a escolha é a Nutren, porque ela fica no menor custo por 100 g com o CECI, empatada com a Growth no Pix.",
+        "emphasis": "Para quem já compra na Nestlé Nutre, levar a Nutren é questão de conveniência, não de vitória no preço: com o CECI, ela empata com a Growth no Pix.",
         "emphasisAfterParagraph": 2
       },
       {
@@ -44469,8 +44470,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço oficial e cupom CECI",
         "paragraphs": [
-          "Na consulta, o catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90. A imagem abaixo registra esse momento; preço, estoque e condições podem mudar.",
-          "O CECI dá 10%: sobre R$ 59,90, o valor cai para R$ 53,91, ou R$ 17,97 por 100 g. Como a elegibilidade é confirmada no checkout, verifique se o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) foi aceito e compare o total com frete antes de pagar."
+          "O catálogo oficial Nestlé Nutre mostrava a embalagem de 300 g por R$ 59,90 na consulta da imagem abaixo, e o mesmo valor foi conferido de novo depois. Preço, estoque e condições podem mudar.",
+          "O CECI dá 10%. Sobre R$ 59,90, a conta dá R$ 53,91, ou R$ 17,97 por 100 g; a imagem mostra só o preço cheio da consulta. Como a elegibilidade é confirmada no checkout, verifique se o [cupom Nestlé Nutre](/cupons/nestle-nutre) (código CECI) foi aceito e compare o total com frete antes de pagar."
         ],
         "bullets": [],
         "image": "/images/reviews/nutren/nutren-creatina-preco-2026-08-27.png",
@@ -44502,7 +44503,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "A Nutren Creatina é 100% creatina monohidratada? A frente usa a expressão “100% monohidratada” e a lista de ingredientes declara somente creatina monohidratada. Isso descreve o rótulo; não fizemos teste laboratorial independente do lote.",
           "Quantas porções vêm na embalagem? O sachê de 300 g declara 100 porções de 3 g.",
-          "Qual foi a mais barata no comparativo? Nutren com o CECI e Growth no Pix ficaram empatadas no custo por 100 g, a R$ 17,97 e R$ 17,96, com a FTW à vista logo acima, a R$ 18,97; os valores estão na tabela do capítulo Comparativo auditável. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
+          "Qual foi a mais barata no comparativo? Nutren com o CECI e Growth no Pix ficaram praticamente empatadas na amostra, a R$ 17,97 e R$ 17,96 por 100 g (diferença de R$ 0,01), com a FTW à vista logo acima, a R$ 18,97; os valores estão na tabela do capítulo Comparativo auditável. Frete, estoque e aceitação do desconto no checkout podem mudar o resultado.",
           "Qual é o melhor horário para tomar creatina? Os rótulos consultados orientam uma porção diária, mas não condicionam o uso a pré ou pós-treino. Escolha um horário que ajude a seguir a recomendação do seu produto e peça orientação individual se necessário.",
           "Idosos podem usar? O produto é destinado a adultos, mas a decisão para uma pessoa idosa deve considerar saúde, alimentação e medicamentos com orientação profissional.",
           "É preciso fazer fase de saturação? O rótulo da Nutren orienta uma porção de 3 g ao dia e não pede fase de saturação. Não exceda a recomendação da embalagem sem orientação profissional.",
@@ -44528,7 +44529,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "nestle-nutre",
-    "editorialNote": "Este guia usa o rótulo fotografado da Nutren Creatina, páginas oficiais das marcas e a alegação funcional autorizada pela Anvisa. O Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI.",
+    "editorialNote": "Este guia usa o rótulo fotografado da Nutren Creatina, páginas oficiais das marcas e a alegação funcional autorizada pela Anvisa. O Em Casa com Cecília mantém parceria comercial com a Nestlé Nutre por meio do cupom CECI, e os links deste guia podem gerar comissão, sem custo extra para você.",
     "relatedArticles": [
       {
         "slug": "nutren-just-protein-para-que-serve"
@@ -44582,7 +44583,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Dolce Gusto a partir de R$ 100. Dolce Gusto, Nespresso ou 3 Corações: custo por 100 ml e qual escolher.",
     "publishedAt": "1º de setembro de 2026",
     "publishedAtISO": "2026-09-01",
-    "updatedAt": "2026-10-01",
+    "updatedAt": "2026-11-06",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg",
@@ -44595,7 +44596,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não há vencedora única: a Dolce Gusto serve a quem quer variedade de bebidas e custo menor por cápsula, a Nespresso a quem quer café premium e a TRES a quem toma café filtrado. As cápsulas não se misturam entre os sistemas. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Não há vencedora única: a Dolce Gusto serve a quem quer variedade de bebidas e cápsula entre as mais baratas, a Nespresso a quem quer café premium e a TRES a quem toma café filtrado. As cápsulas não se misturam entre os sistemas. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
@@ -44603,7 +44604,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Comprar uma cafeteira de cápsulas é escolher onde você vai comprar cápsula pelos próximos anos, não só um aparelho para a bancada.",
           "No Brasil, três marcas concentram a preferência do público: NESCAFÉ Dolce Gusto, Nespresso e 3 Corações (sistema TRES). Cada uma mira um paladar e um hábito; entender a diferença evita deixar a máquina parada.",
-          "Antes do design, o que trava é a incompatibilidade: as cápsulas dos três sistemas não se misturam. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira, Original e Vertuo na segunda, e esses pares também não se cruzam."
+          "Antes do design, o que trava é a incompatibilidade: as cápsulas dos três sistemas não se misturam. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira, Original e Vertuo na segunda, e esses pares também não se cruzam, com uma exceção: o adaptador oficial NEO Start permite usar cafés NEO selecionados em máquinas selecionadas da linha clássica (as \"Originais\", no nome da marca), conforme a [lista oficial](https://www.nescafe-dolcegusto.com.br/compativeis-neo-start/adaptador-neo-start). Não vale para qualquer máquina nem no sentido inverso."
         ],
         "bullets": [],
         "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
@@ -44660,7 +44661,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Cápsulas",
-              "Clássica e NEO têm formatos próprios e não se cruzam",
+              "Clássica e NEO têm formatos próprios; exceção: adaptador oficial NEO Start (cafés NEO selecionados em máquinas selecionadas)",
               "Original e Vertuo têm formatos próprios e não se cruzam",
               "Um formato em toda a linha TRES"
             ],
@@ -44717,7 +44718,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Nespresso: Original e Vertuo são sistemas diferentes. A Original usa cápsulas pequenas e reúne muitas compatíveis, como L'OR, Pilão e Starbucks; a Vertuo lê o código de barras, prepara de 25 a 535 ml e aceita apenas cápsulas da própria linha.",
           "NESCAFÉ Farmers Origins merece uma distinção: não é uma linha da Nespresso. É uma alternativa oficial da NESCAFÉ (marca que também pertence ao grupo Nestlé), produzida para máquinas Nespresso Original. Brasil, Índia, Colômbia, México e Andes ampliam a escolha e costumam custar menos que as cápsulas Nespresso. Não servem na Vertuo.",
-          "Dolce Gusto: a linha clássica é multibebidas e usa o formato das máquinas Genio S. A NEO tem cápsula própria, compostável e reconhecida automaticamente; é voltada a café e ainda oferece menos blends puros que a Nespresso.",
+          "Dolce Gusto: a linha clássica é multibebidas e usa o formato das máquinas Genio S. A NEO tem cápsula própria, compostável e reconhecida automaticamente; é voltada a café e, no catálogo consultado na amostra, tinha menos blends puros que a Nespresso. As duas não se cruzam, salvo no [adaptador oficial NEO Start](https://www.nescafe-dolcegusto.com.br/compativeis-neo-start/adaptador-neo-start), que cobre só alguns cafés NEO em algumas máquinas da linha clássica.",
           "3 Corações (TRES): mantém um único formato de cápsula entre suas máquinas. O sistema alterna a extração para espresso, filtrado e chá, além de preparar bebidas cremosas em cápsula única."
         ],
         "links": [
@@ -44742,7 +44743,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada xícara?",
         "paragraphs": [
-          "Comparar apenas o preço da cápsula engana, porque os volumes variam muito. Todos os preços deste capítulo são dessa mesma amostra. Para deixar a conta auditável, separamos o espresso e calculamos também a média simples dos produtos com preço e volume identificáveis na amostra: uma média influenciada pelo mix de espressos, lungos, filtrados e cafés longos, não um preço universal da marca."
+          "Comparar apenas o preço da cápsula engana, porque os volumes variam muito. Todos os preços deste capítulo são da mesma amostra, coletada no fim de agosto de 2026, com o preço do Farmers Origins conferido em consulta posterior. Para deixar a conta auditável, separamos o espresso e calculamos também a média simples dos produtos com preço e volume identificáveis na amostra: uma média influenciada pelo mix de espressos, lungos, filtrados e cafés longos, não um preço universal da marca."
         ],
         "bullets": [
           "Dolce Gusto clássica: o espresso sai bem mais caro por 100 ml que a média da linha, porque as bebidas longas puxam a conta para baixo; os números estão na tabela acima.",
@@ -44805,7 +44806,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: veredito por perfil e os números",
-        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica, porque a cápsula custa menos e a máquina serve a família toda.",
+        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica, porque a cápsula custa menos que a da Nespresso e a máquina serve a família toda.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Os números abaixo são da amostra e mudam com promoção e estoque. Veja qual perfil é o seu:"
@@ -44814,7 +44815,7 @@ export const reviewsData: unknown[] = [
           "Nespresso Original, se você bebe só café preto, quer a maior variedade de compatíveis e aceita usar espumador externo (Aeroccino) para bebidas com leite. A cápsula oficial custou de R$ 3,70 a R$ 4,20; a Farmers Origins compatível, cerca de R$ 1,70.",
           "Nespresso Vertuo, se você quer canecas maiores (150 a 535 ml) sem perder qualidade de extração. O custo por 100 ml só compensa nos formatos grandes (Gran Lungo, Coffee, Carafe), perto de R$ 3,47 e R$ 2,74; no espresso de 40 ml fica em R$ 9,75 a R$ 10.",
           "Dolce Gusto (linha clássica), se a máquina será compartilhada pela família toda: chás quentes e gelados, chocolates, bebidas licenciadas (Kit Kat, Kopenhagen, Nesquik) e cappuccinos prontos em segundos. A cápsula custou de R$ 1,69 a R$ 2,10, e a média ficou em cerca de R$ 2,64 por 100 ml.",
-          "Dolce Gusto NEO, se você bebe só café e quer iniciar o preparo, ajustar temperatura e alterar o volume pelo app. Essas seleções ficam no aplicativo; na máquina, o comando físico é simplificado. O catálogo 100% café da NEO ainda é mais enxuto que o da Nespresso, e a cápsula custou de R$ 2,19 a R$ 3,09.",
+          "Dolce Gusto NEO, se você bebe só café e quer iniciar o preparo, ajustar temperatura e alterar o volume pelo app. Essas seleções ficam no aplicativo; na máquina, o comando físico é simplificado. No catálogo consultado na amostra, a NEO tem menos cafés puros que a Nespresso, e a cápsula custou de R$ 2,19 a R$ 3,09.",
           "3 Corações (TRES), se café filtrado longo faz parte da rotina, você prefere comprar cápsula na padaria ou mercadinho de bairro e valoriza um único formato de cápsula na linha. A cápsula custou de R$ 1,64 a R$ 2,38, e a média ficou em cerca de R$ 3,08 por 100 ml."
         ]
       },
@@ -44839,7 +44840,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "A máquina vai servir a família toda, com chá, chocolate e cappuccino além do café.",
-        "Você quer o menor custo por cápsula entre os três sistemas."
+        "A cápsula oficial precisa estar entre as mais baratas da comparação."
       ],
       "skipIf": [
         "Você quer café premium e edições sazonais: aí a Nespresso atende melhor.",
@@ -44855,7 +44856,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECI",
     "affiliate": "dolce-gusto",
-    "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da Amazon, sem custo extra.",
+    "editorialNote": "O cupom CECI e os links da Amazon podem gerar comissão, sem custo extra para você.",
     "relatedArticles": [
       {
         "slug": "dolce-gusto-maquinas-qual-escolher"
@@ -44903,6 +44904,7 @@ export const reviewsData: unknown[] = [
     "description": "Um guia para escolher poltrona decorativa pelo uso, espaço e revestimento, com a história da Cadeira Eames Lounge e caminhos entre a Aurora manual e a Levita elétrica.",
     "metaDescription": "Aurora manual ou Levita elétrica da DAMIE, com o cupom CECILIA12 de 12% em itens elegíveis: como escolher, com o ícone Eames como referência de design.",
     "publishedAt": "2 de setembro de 2026",
+    "updatedAt": "2026-11-06",
     "publishedAtISO": "2026-09-02",
     "draft": false,
     "isNew": false,
@@ -45023,7 +45025,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Levita: minha experiência com a poltrona em casa",
         "paragraphs": [
-          "A Levita compartilha com a Aurora uma presença envolvente e a proposta de ser uma poltrona de destaque na sala, mas segue por outra rota de uso. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e base giratória (360° na página oficial, até 280° na FAQ).",
+          "A Levita compartilha com a Aurora uma presença envolvente e a proposta de ser uma poltrona de destaque na sala, mas segue por outra rota de uso. Na minha experiência com a poltrona em casa, o ponto mais relevante é poder ajustar encosto e apoio para os pés de modo independente. A página oficial informa dois motores independentes, ajuste manual de pescoço, funcionamento bivolt, revestimentos em couro ou linho e base giratória. A nossa gira 280°, o mesmo ângulo da FAQ da marca; a página do produto fala em 360°.",
           "Poder fazer esses pequenos ajustes me ajuda a encontrar a posição para leitura, televisão ou descanso. A troca é prática: a Levita precisa de uma tomada próxima e de área de abertura; a Aurora remove a tomada da equação, mas usa uma alavanca e um puff deslocável. São características para comparar com a planta da casa e a rotina, não um ranking de conforto.",
           "A foto abaixo me mostra usando a Levita em casa."
         ],
@@ -45067,7 +45069,7 @@ export const reviewsData: unknown[] = [
             [
               "Giro informado",
               "360° na página oficial",
-              "Até 280° na FAQ oficial"
+              "280° (conferido na nossa)"
             ],
             [
               "Infraestrutura",
@@ -45087,7 +45089,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom e transparência da parceria DAMIE",
         "paragraphs": [
-          "Este guia tem parceria comercial com a DAMIE. Teste o CECILIA12 no checkout para 12% nos elegíveis; confirme elegibilidade, condições e disponibilidade no carrinho antes de fechar.",
+          "Este guia tem parceria comercial com a DAMIE. Teste o CECILIA12 no checkout para 12% nos elegíveis; confirme elegibilidade, condições e disponibilidade no carrinho antes de fechar. As [regras do cupom CECILIA12](/cupons/damie) estão na nossa página da DAMIE.",
           "Os links para a Aurora e para a DAMIE podem gerar comissão para o Em Casa com Cecília, sem custo adicional ao leitor. A parceria não substitui a conferência de medidas, revestimento, prazo e política aplicável à sua compra."
         ],
         "bullets": [],
@@ -45115,7 +45117,7 @@ export const reviewsData: unknown[] = [
           "Poltrona com puff vale a pena em uma sala pequena? Pode funcionar se o puff puder ser reposicionado quando não estiver em uso, mas ele não reduz a área ocupada pelo conjunto. Meça o espaço com a poltrona e o puff na posição de descanso e mantenha as passagens livres.",
           "A Aurora ou a Levita é melhor? Depende do uso: Aurora privilegia reclinação manual e puff separado; Levita oferece ajustes elétricos independentes e requer tomada próxima.",
           "A Aurora da DAMIE tem puff? Sim. A página oficial informa que a Aurora acompanha puff independente no conjunto.",
-          "A Levita gira 360°? A FAQ oficial da Levita informa giro de até 280°.",
+          "A Levita gira 360°? Não. A nossa gira 280°, o mesmo ângulo da FAQ da DAMIE, embora a página do produto fale em 360°.",
           "Qual é o cupom da DAMIE? O código é CECILIA12; teste-o no checkout para 12% em itens elegíveis e confirme as condições antes de finalizar."
         ]
       }
@@ -45128,7 +45130,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECILIA12",
     "affiliate": "damie",
-    "editorialNote": "Parceria comercial com a DAMIE, com links de comissão. Levita testada por nós; Aurora, não.",
+    "editorialNote": "Parceria comercial com a DAMIE: os links podem gerar comissão, sem custo extra para você. Levita testada por nós; Aurora, não.",
     "relatedArticles": [
       {
         "slug": "poltrona-levita-o-topo-da-tecnologia-e-conforto"
@@ -45253,8 +45255,8 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Cervical Coluna Relax®: modelo de destaque com formato côncavo central e curvas onduladas projetadas para apoiar a curvatura cervical de quem dorme de costas ou de lado;",
-          "Cervical Original Neck Plus Gel™: une o contorno anatômico a partículas de gel. A fabricante divulga uma sensação térmica até 5°C mais fresca, voltada a quem muda de posição e sente calor durante a noite;",
-          "Neck Plus Charcoal™: mantém o contorno anatômico e incorpora carvão ativado à espuma. Segundo a fabricante, a estrutura microporosa foi desenvolvida para capturar alérgenos e ácaros e reduzir odores; é a opção da linha voltada também a pessoas sensíveis a agentes alergênicos."
+          "Cervical Original Neck Plus Gel™: une o contorno anatômico a partículas de gel. Segundo a I Wanna Sleep, a sensação térmica é até 5°C mais fresca, voltada a quem muda de posição e sente calor durante a noite;",
+          "Neck Plus Charcoal™: mantém o contorno anatômico e incorpora carvão ativado à espuma. Segundo a I Wanna Sleep, a estrutura microporosa foi desenvolvida para capturar alérgenos e ácaros e reduzir odores. Para quem é sensível a alérgenos, o argumento aqui é o material e a higiene, com capa lavável, e não um benefício clínico comprovado."
         ],
         "links": [
           {
@@ -45282,23 +45284,17 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O termo popular travesseiro da NASA refere-se à espuma viscoelástica (Memory Foam), originalmente desenvolvida na década de 1960 para absorver o impacto da aceleração nos astronautas.",
           "No sono, o viscoelástico molda-se ao contorno da cabeça e distribui a pressão pelos pontos de contato.",
-          "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto; a IWS tem quatro:"
+          "Quem pesquisa por travesseiro viscoelástico ou qual o melhor travesseiro nasa está, na prática, comparando variações de densidade e capa térmica dentro dessa mesma família de produto; a IWS destaca três:"
         ],
         "bullets": [
           "Snow®: viscoelástico de alta densidade com capa de toque frio que ajuda na troca térmica, uma alternativa para quem dorme de lado ou de costas e sente calor à noite;",
-          "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. O formato pode reduzir pontos de pressão em até 60% e foi pensado para quem sente calor durante a noite;",
-          "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. Ajudam no conforto térmico, no controle de odores e no apoio em diferentes posições de sono;",
-          "Skin®: para quem se incomoda com as marcas de sono no rosto (\"sleep lines\"), com capa Airgelly® que reduz o atrito. Não é a escolha por apoio cervical ou altura."
+          "Ergoblu™: perfil baixo com capa FrostyCover e núcleo TitanPro Gel. Segundo a I Wanna Sleep, o formato reduz pontos de pressão em até 60%, e o modelo foi pensado para quem sente calor durante a noite;",
+          "Bubble Gel®: reúne bolhas de gel na superfície, carvão ativado no núcleo e cavidade ergonômica central. Ajudam no conforto térmico, no controle de odores e no apoio em diferentes posições de sono;"
         ],
         "links": [
           {
             "label": "Ver a coleção Memory Foam da I Wanna Sleep",
             "href": "https://www.iwannasleep.com.br/collections/travesseiros-de-memory-foam",
-            "sponsored": true
-          },
-          {
-            "label": "Conhecer a coleção de travesseiros Anti-rugas da I Wanna Sleep",
-            "href": "https://www.iwannasleep.com.br/collections/anti-rugas",
             "sponsored": true
           }
         ],
@@ -45323,8 +45319,8 @@ export const reviewsData: unknown[] = [
           "Travesseiros acumulam suor, poeira e resíduos com o uso, e a lavagem muda com o material. A linha antialérgica facilita a higiene com modelos que a marca indica para pessoas sensíveis a agentes alergênicos."
         ],
         "bullets": [
-          "Airgelly® 2.0: o único travesseiro 100% lavável do catálogo, com material hipoalergênico e 30 dias de teste em casa (alegações da fabricante);",
-          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico ao carvão ativado, que a marca alega contra odores."
+          "Airgelly® 2.0: segundo a fabricante, o único travesseiro 100% lavável do catálogo, com material hipoalergênico. A lavagem é só à mão: a capa em água fria, sem máquina nem alvejante, secando em local fresco e ventilado, e a estrutura em água corrente. Ele acompanha um pad removível de Memory Foam de 1 cm para baixar a altura, e a ficha não traz instruções de lavagem para o pad. Vem com 30 dias de [Sleeptest](https://suporte.iwannasleep.com.br/hc/pt-br/articles/21289275214099-Politica-Sleeptest): troca por crédito, não devolução com reembolso, com uso mínimo de 15 dias e pedido em até 30 dias do recebimento, conforme o canal de compra;",
+          "Neck Plus Charcoal™: para quem também busca apoio cervical, combina o contorno anatômico ao carvão ativado, que, segundo a marca, atua contra odores e ácaros; a capa lava, a espuma não."
         ],
         "links": [
           {
@@ -45335,13 +45331,13 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/iwannasleep/travesseiro-airgelly-render-3d.webp",
         "imageAlt": "Render 3D do travesseiro Airgelly 2.0 da I Wanna Sleep, mostrando a estrutura vazada",
-        "imageCaption": "Airgelly® 2.0: estrutura vazada que, segundo a fabricante, permite lavar o travesseiro inteiro.",
+        "imageCaption": "Airgelly® 2.0: estrutura vazada que, segundo a fabricante, é lavável à mão em água corrente.",
         "imageFit": "square",
         "images": [
           {
             "src": "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
             "alt": "Travesseiro Airgelly 2.0 da I Wanna Sleep, foto oficial destacando a estrutura lavável",
-            "caption": "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo IWS.",
+            "caption": "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável (à mão) do catálogo IWS.",
             "objectFit": "square"
           }
         ]
@@ -45354,7 +45350,7 @@ export const reviewsData: unknown[] = [
           "A procura por travesseiro para dormir de lado costuma envolver justamente essa dúvida de altura. A solução nem sempre é comprar um modelo mais alto: se você não sabe sua altura, prefira o Snow® regulável ao Látex fixo, porque você ajusta em casa retirando o enchimento em vez de trocar de tamanho."
         ],
         "bullets": [
-          "Snow®: chega em casa na altura máxima (18cm) e você mesmo retira porções do enchimento de memory foam flakes até achar o ponto certo para o seu biotipo e posição. É o principal modelo de cama da família Snow com ajuste por retirada de enchimento e vem em dois tamanhos de base (Regular 50x70cm e Plus 50x90cm, para camas King/Super King);",
+          "Snow®: chega em casa na altura máxima (18cm) e você mesmo retira porções do enchimento de memory foam flakes até achar o ponto certo para o seu biotipo e posição. É o principal modelo de cama da família Snow com ajuste por retirada de enchimento e vem em dois tamanhos de base (Regular 50x70cm e Plus 50x90cm, para camas King/Super King). O Snow® Kids e o Snow® Mini também ajustam pela retirada de enchimento; no Snow® Body, a marca fala em retirar ou reposicionar os flocos, sem falar em altura;",
           "Original Látex®: para quem prefere não precisar ajustar nada, a linha vem pronta em três alturas fixas, P (11cm), M (13cm) e G (15cm), a resposta mais direta para quem já sabe qual altura precisa;",
           "Outros modelos de perfil estruturado que também funcionam bem de lado: Cervical Coluna Relax® e Bubble Gel® (cuja cavidade central alivia a pressão na orelha);",
           "Apoio de Joelhos Coluna Relax®: posicionado entre os joelhos, mantém as pernas alinhadas ao dormir de lado."
@@ -45373,7 +45369,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/iwannasleep/iws-categoria-regulagem-altura-snow.webp",
         "imageAlt": "Linha Regulagem de Altura da I Wanna Sleep: Snow, Snow Kids, Snow Body e Snow Mini",
-        "imageCaption": "A família Snow®, a mesma tecnologia de altura ajustável em quatro formatos: padrão, infantil, corpo e viagem.",
+        "imageCaption": "A família Snow®: padrão, infantil, corpo e viagem. Snow, Kids e Mini permitem retirar enchimento; o Body permite retirar ou reposicionar os flocos.",
         "imageFit": "contain",
         "imageAspectRatio": 3.13,
         "images": [
@@ -45392,7 +45388,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Linha Látex (Original Látex® e Blue Látex): látex natural tailandês com retorno elástico instantâneo e sustentação firme, naturalmente resistente à poeira e aos ácaros, sem o afundamento lento do memory foam;",
-          "Linha Fibra (Magnum Pluma AirFiber): enchimento sintético de toque macio, semelhante à pluma, com capa 100% algodão e acabamento com corda dourada na costura, a maciez de travesseiro de hotel 5 estrelas sem usar pena animal;",
+          "Linha Fibra (Magnum Pluma AirFiber e Skin®): enchimento sintético de toque macio, semelhante à pluma, sem usar pena animal. O Magnum tem capa 100% algodão e acabamento com corda dourada na costura, a maciez de travesseiro de hotel 5 estrelas. O Skin® usa o mesmo enchimento AirFiber com capa Airgelly® que reduz o atrito para quem se incomoda com as marcas de sono no rosto (\"sleep lines\"); a capa lava à mão em água fria e o enchimento não se lava;",
           "Linha Pluma Natural: tem duas versões no catálogo, a Pena e Pluma Natural (entrada) e a Pluma Natural Premium (linha de luxo). É a família mais tradicional do catálogo, mas também a que menos cresce em busca nos últimos 12 meses: vale mais para quem já conhece e gosta do toque clássico do que como primeira escolha."
         ],
         "links": [
@@ -45404,6 +45400,11 @@ export const reviewsData: unknown[] = [
           {
             "label": "Ver a coleção de travesseiros de pluma da I Wanna Sleep",
             "href": "https://www.iwannasleep.com.br/collections/travesseiros-de-pluma",
+            "sponsored": true
+          },
+          {
+            "label": "Conhecer a coleção de travesseiros Anti-rugas da I Wanna Sleep",
+            "href": "https://www.iwannasleep.com.br/collections/anti-rugas",
             "sponsored": true
           },
           {
@@ -45421,7 +45422,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/iwannasleep/iws-categoria-plumas-magnum-skin.webp",
             "alt": "Linha Fibra da I Wanna Sleep: Magnum Pluma AirFiber e Skin",
-            "caption": "Linha Fibra: Magnum Pluma AirFiber, o toque de pluma sintético e hipoalergênico.",
+            "caption": "Linha Fibra: Magnum Pluma AirFiber e Skin®, o toque de pluma sintético e hipoalergênico.",
             "objectFit": "contain",
             "aspectRatio": 1.58
           },
@@ -45456,7 +45457,7 @@ export const reviewsData: unknown[] = [
           "A durabilidade de um travesseiro depende do material, da frequência de uso e dos cuidados com sujeira, suor e oleosidade no dia a dia."
         ],
         "bullets": [
-          "Nos modelos de viscoelástico citados neste guia, a fabricante orienta não lavar o enchimento; lave somente as capas removíveis conforme a etiqueta. Produtos de látex e outros materiais podem ter instruções diferentes, por isso consulte sempre a página do modelo;",
+          "Nos modelos de viscoelástico citados neste guia, a fabricante orienta não lavar o enchimento; lave somente as capas removíveis conforme a etiqueta. O Airgelly® 2.0 e o Skin® têm instruções próprias, só à mão. Produtos de látex e outros materiais podem ter instruções diferentes, por isso consulte sempre a página do modelo;",
           "Protex Bamboo™: capa protetora respirável apresentada pela fabricante como barreira física contra suor, oleosidade e ácaros, preservando a ventilação do travesseiro;",
           "Momento de reavaliar a troca: quando o travesseiro perder sustentação, mantiver deformações, apresentar danos ou deixar de oferecer conforto e higiene adequados, em vez de depender apenas de um prazo fixo."
         ]
@@ -45468,7 +45469,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Quer apoio cervical: considere a linha Cervical (Cervical Coluna Relax®); com dor persistente, procure um profissional de saúde;",
-          "Quer um travesseiro fácil de higienizar: considere o Airgelly® 2.0 (100% lavável); com alergia ou rinite, fale com um profissional de saúde;",
+          "Quer um travesseiro fácil de higienizar: considere o Airgelly® 2.0 (lavável à mão); com alergia ou rinite, fale com um profissional de saúde;",
           "Sente calor na cabeça durante a noite: considere o Travesseiro Snow® ou o Ergoblu™;",
           "Quer ajustar a altura você mesmo até achar o ponto certo: escolha o Snow® (chega alto e você retira o enchimento até o ponto, como no capítulo de regulagem de altura);",
           "Já sabe a altura certa e prefere não ajustar nada: escolha o Original Látex® no tamanho P, M ou G, com as alturas do mesmo capítulo;",
@@ -45517,9 +45518,9 @@ export const reviewsData: unknown[] = [
           "Travesseiro de viscoelástico ou látex: qual escolher? O viscoelástico molda-se ao contorno da cabeça e distribui a pressão nos pontos de contato. O látex oferece resposta mais elástica e firme, sem o afundamento lento característico do viscoelástico.",
           "Como medir a altura certa para quem dorme de lado? Use como referência o espaço entre o ombro e a lateral da cabeça: o objetivo é apoiar cabeça e pescoço sem inclinação acentuada. Conforto e necessidades individuais também devem ser considerados.",
           "O travesseiro Cervical Coluna Relax® serve para quem dorme de bruços? Dormir de bruços mantém o pescoço girado por parte da noite. Para essa posição, modelos mais baixos e planos tendem a produzir menos inclinação do que formatos com curvas cervicais altas; se houver dor persistente, procure orientação profissional.",
-          "Qual travesseiro da I Wanna Sleep é mais fácil de lavar? A fabricante apresenta o Airgelly® 2.0 como o único 100% lavável do catálogo. Nos modelos de viscoelástico, só a capa removível é lavada, conforme a etiqueta. Quem tem alergia deve falar com um profissional de saúde.",
+          "Qual travesseiro da I Wanna Sleep é mais fácil de lavar? A fabricante apresenta o Airgelly® 2.0 como o único 100% lavável do catálogo, mas só à mão: capa em água fria e estrutura em água corrente, sem máquina. A ficha não dá instruções para o pad de memory foam que o acompanha. Nos modelos de viscoelástico, só a capa removível é lavada, conforme a etiqueta. Quem tem alergia deve falar com um profissional de saúde.",
           "Qual é a melhor marca de travesseiro? Não existe uma marca universalmente melhor. A escolha depende da posição de dormir, da altura, do material, do conforto percebido e de necessidades individuais. A IWS organiza o catálogo em linhas para facilitar essa comparação.",
-          "Qual a diferença entre a linha Fibra e a linha Pluma Natural? A linha Fibra (Magnum Pluma AirFiber) usa enchimento sintético que imita o toque da pluma, é mais em conta e não usa material de origem animal. A linha Pluma Natural usa penas e plumas reais, com toque mais macio e clássico, em duas versões de preço.",
+          "Qual a diferença entre a linha Fibra e a linha Pluma Natural? A linha Fibra (Magnum Pluma AirFiber e Skin®) usa enchimento sintético que imita o toque da pluma, é mais em conta e não usa material de origem animal. A linha Pluma Natural usa penas e plumas reais, com toque mais macio e clássico, em duas versões de preço.",
           "Como aplicar o cupom CECIEMCASA na I Wanna Sleep? Basta inserir o código CECIEMCASA no campo de cupom no carrinho do e-commerce oficial da marca."
         ]
       }
@@ -45543,7 +45544,7 @@ export const reviewsData: unknown[] = [
     },
     "coupon": "CECIEMCASA",
     "affiliate": "i-wanna-sleep",
-    "editorialNote": "Parceria comercial com a I Wanna Sleep. Guia com dados do catálogo, sem teste próprio.",
+    "editorialNote": "Parceria comercial com a I Wanna Sleep. Guia com dados do catálogo, sem teste próprio. Este link pode gerar comissão, sem custo extra para você.",
     "relatedArticles": [
       {
         "slug": "travesseiro-i-wanna-sleep-ou-emma"
@@ -45579,7 +45580,7 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/travesseiro-airgelly-2-antialergico-lavavel.webp",
         "alt": "Travesseiro Airgelly 2.0 da I Wanna Sleep",
-        "caption": "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável do catálogo IWS."
+        "caption": "Airgelly® 2.0: apresentado pela fabricante como o único travesseiro 100% lavável (à mão) do catálogo IWS."
       },
       {
         "image": "/images/reviews/iwannasleep/travesseiro-original-latex-detalhe.webp",
@@ -45599,12 +45600,12 @@ export const reviewsData: unknown[] = [
       {
         "image": "/images/reviews/iwannasleep/travesseiro-airgelly-render-3d.webp",
         "alt": "Render 3D do travesseiro Airgelly 2.0",
-        "caption": "Airgelly® 2.0: estrutura vazada que, segundo a fabricante, permite lavar o travesseiro inteiro."
+        "caption": "Airgelly® 2.0: estrutura vazada que, segundo a fabricante, é lavável à mão em água corrente."
       },
       {
         "image": "/images/reviews/iwannasleep/iws-categoria-regulagem-altura-snow.webp",
         "alt": "Família Snow da I Wanna Sleep: Snow, Snow Kids, Snow Body e Snow Mini",
-        "caption": "Família Snow®: mesma tecnologia de altura ajustável em quatro formatos."
+        "caption": "Família Snow®: Snow, Kids e Mini permitem retirar enchimento; o Body, retirar ou reposicionar os flocos."
       },
       {
         "image": "/images/reviews/iwannasleep/iws-categoria-latex.webp",
@@ -45626,7 +45627,8 @@ export const reviewsData: unknown[] = [
         "alt": "Linha de travesseiros para viagem da I Wanna Sleep",
         "caption": "Linha Viagem: Snow® Mini e Travel Pillow U."
       }
-    ]
+    ],
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 280,
@@ -45659,15 +45661,16 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Dolce Gusto ou Nespresso",
         "paragraphs": [
-          "A Dolce Gusto é a melhor escolha para quem quer cappuccino, achocolatado e chá na mesma máquina; a Nespresso Original serve a quem quer só espresso e mais opções de cápsula, e o custo por dose pesa na conta. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "A Dolce Gusto é a melhor escolha para quem quer cappuccino, achocolatado e chá na mesma máquina; a Nespresso Original prioriza cafés e variedade de cápsulas, e o custo por dose pesa na conta. Nos modelos básicos, cappuccino na Nespresso pede espumador separado. No site oficial, o cupom CECI dá 10% em compras a partir de 100 reais."
         ]
       },
       {
         "heading": "O confronto clássico: duas máquinas, dois propósitos completamente diferentes",
         "paragraphs": [
           "Colocar lado a lado uma máquina da Dolce Gusto e uma da Nespresso esperando que elas façam o mesmo trabalho é o erro mais comum de quem compra a primeira cafeteira de cápsulas.",
+          "Aqui o foco é a Dolce Gusto Clássica contra a Nespresso Original; o [comparativo de três marcas](/reviews/dolce-gusto-vs-nespresso-vs-3-coracoes) inclui TRES, NEO e Vertuo e explica como os preços foram comparados.",
           "Embora ambas pertençam ao portfólio global da Nestlé, você não está comparando aparelhos concorrentes com o mesmo objetivo, mas dois eletrodomésticos com propostas de rotina distintas.",
-          "A diferença começa na proposta: de um lado, uma multibebidas para a família; do outro, uma máquina de espresso para quem bebe café puro."
+          "A diferença começa na proposta: de um lado, uma multibebidas para a família; do outro, uma máquina focada em cafés e na variedade de cápsulas."
         ],
         "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-qual-escolher-hero.webp",
         "imageAlt": "Cafeteiras Dolce Gusto e Nespresso lado a lado em uma bancada moderna de cozinha",
@@ -45712,7 +45715,7 @@ export const reviewsData: unknown[] = [
         ],
         "image": "/images/reviews/dolcegusto/nespresso-pixie-produto.webp",
         "imageAlt": "Cafeteira Nespresso Pixie, modelo compacto da linha Original",
-        "imageCaption": "Nespresso Original: foco total no espresso puro, sem bebidas lácteas nativas.",
+        "imageCaption": "Nespresso Original: foco em cafés; leite pede espumador separado ou modelo com sistema de leite.",
         "imageFit": "portrait",
         "images": [
           {
@@ -45826,7 +45829,7 @@ export const reviewsData: unknown[] = [
             [
               "1. Proposta Principal",
               "Estação multibebidas familiar (cafés, achocolatados, chás e lattes)",
-              "Foco absoluto em espresso, lungo e cafés gourmet de origem"
+              "Foco em cafés (espresso, lungo e cafés de origem) e em variedade de cápsulas"
             ],
             [
               "2. Pressão Nominal",
@@ -45855,8 +45858,8 @@ export const reviewsData: unknown[] = [
             ],
             [
               "7. Espaço na Bancada",
-              "Estreita: 11,2 cm de largura nas Genio S (a Mini Me 2.0 tem 16 cm)",
-              "Estreita: 11 cm de largura na Essenza Mini, mais baixa e mais funda"
+              "Compacta; a Mini Me 2.0 é mais larga que a Genio S",
+              "Estreita: 11 cm de largura na Essenza Mini"
             ],
             [
               "8. Custo do Espresso na Amostra",
@@ -45875,7 +45878,7 @@ export const reviewsData: unknown[] = [
         "heading": "No dia a dia da cozinha: espaço, descarte e canecas",
         "paragraphs": [
           "Na bancada, o que pesa é espaço, descarte e caneca:",
-          "Espaço e visual: na largura, quase empatam, como mostra a tabela acima. A Essenza Mini é mais baixa (20,5 cm, contra 27,3 cm) e mais funda (33 cm, contra 28,6 cm), e o reservatório dela tem 600 ml, contra 800 ml na Genio S.",
+          "Espaço e visual: as duas são compactas. A Essenza Mini tem 11 cm de largura e reservatório de 600 ml, contra 800 ml na Genio S; confira as medidas do modelo exato na ficha do fabricante antes de comprar.",
           "Descarte diário: A Nespresso ganha com folga: você levanta a alavanca e a cápsula cai na gaveta interna, que na Essenza Mini comporta 5 a 6 unidades (varia conforme o modelo Original). A Dolce Gusto exige tirar o porta-cápsulas pingando manualmente após cada xícara.",
           "Canecas grandes: modelos Genio S com função XL podem preparar até 300 ml. Na Essenza Mini, o espaço disponível depende da posição ou remoção da bandeja de gotejamento."
         ],
@@ -45943,7 +45946,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher: os 4 perfis e os números",
-        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto, porque a cápsula custa menos e faz cappuccino e chá na mesma máquina.",
+        "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto, porque a cápsula oficial dela saiu mais em conta que a da Nespresso Original na amostra e ela faz cappuccino e chá na mesma máquina.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "O custo da cápsula pesa tanto quanto a máquina. Na amostra de preços (sujeita a estoque e promoções), a cápsula oficial da Dolce Gusto Clássica custou de R$ 1,69 a R$ 2,10, e a da Nespresso Original, de R$ 3,70 a R$ 4,20. Veja qual perfil é o seu:"
@@ -45961,7 +45964,7 @@ export const reviewsData: unknown[] = [
           "A Nespresso faz cappuccino e chocolate quente? A Essenza Mini e a Pixie preparam café. Para cappuccino, use um espumador separado ou escolha uma máquina Nespresso com sistema de leite; as cápsulas Nespresso são de café, não de chocolate quente.",
           "Qual cafeteira tem a cápsula mais barata? Na amostra coletada, a Dolce Gusto clássica oficial custava de R$ 1,69 a R$ 2,10 por cápsula; a Nespresso Original oficial, de R$ 3,70 a R$ 4,20. A compatível Farmers Origins aparecia por cerca de R$ 1,70. Preços mudam e devem ser conferidos antes da compra.",
           "A Nespresso Vertuo aceita cápsulas de outras marcas? A página oficial brasileira informa que a Vertuo Pop aceita somente cápsulas da linha Vertuo. Para maior variedade de marcas compatíveis, considere o sistema Nespresso Original.",
-          "A Dolce Gusto ocupa muito espaço na cozinha? Pouco: as Genio S e a Essenza Mini têm quase a mesma largura, e a Mini Me 2.0 é mais larga. As medidas estão na tabela comparativa acima."
+          "A Dolce Gusto ocupa muito espaço na cozinha? Pouco: as Genio S e a Essenza Mini são compactas, e a Mini Me 2.0 é mais larga. Confira as medidas do modelo exato na ficha do fabricante."
         ]
       }
     ],
@@ -46029,7 +46032,8 @@ export const reviewsData: unknown[] = [
         "alt": "Variedade de caixas de cápsulas Dolce Gusto",
         "caption": "Variedade ampla de bebidas com leite, cafés intensos e opções frias."
       }
-    ]
+    ],
+    "updatedAt": "2026-11-06"
   },
   {
     "id": 281,

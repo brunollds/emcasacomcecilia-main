@@ -17,7 +17,7 @@
   "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Dolce Gusto a partir de R$ 100. Dolce Gusto, Nespresso ou 3 Corações: custo por 100 ml e qual escolher.",
   "publishedAt": "1º de setembro de 2026",
   "publishedAtISO": "2026-09-01",
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-11-06",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/dolcegusto/dolce-gusto-vs-nespresso-vs-3-coracoes-hero.jpg",
@@ -29,11 +29,11 @@
   "contentSections": [
     {
       "heading": "Resposta rápida",
-      "paragraphs": ["Não há vencedora única: a Dolce Gusto serve a quem quer variedade de bebidas e custo menor por cápsula, a Nespresso a quem quer café premium e a TRES a quem toma café filtrado. As cápsulas não se misturam entre os sistemas. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."]
+      "paragraphs": ["Não há vencedora única: a Dolce Gusto serve a quem quer variedade de bebidas e cápsula entre as mais baratas, a Nespresso a quem quer café premium e a TRES a quem toma café filtrado. As cápsulas não se misturam entre os sistemas. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."]
     },
     {
       "heading": "O dilema das cápsulas: por que é tão difícil decidir?",
-      "paragraphs": ["Comprar uma cafeteira de cápsulas é escolher onde você vai comprar cápsula pelos próximos anos, não só um aparelho para a bancada.", "No Brasil, três marcas concentram a preferência do público: NESCAFÉ Dolce Gusto, Nespresso e 3 Corações (sistema TRES). Cada uma mira um paladar e um hábito; entender a diferença evita deixar a máquina parada.", "Antes do design, o que trava é a incompatibilidade: as cápsulas dos três sistemas não se misturam. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira, Original e Vertuo na segunda, e esses pares também não se cruzam."],
+      "paragraphs": ["Comprar uma cafeteira de cápsulas é escolher onde você vai comprar cápsula pelos próximos anos, não só um aparelho para a bancada.", "No Brasil, três marcas concentram a preferência do público: NESCAFÉ Dolce Gusto, Nespresso e 3 Corações (sistema TRES). Cada uma mira um paladar e um hábito; entender a diferença evita deixar a máquina parada.", "Antes do design, o que trava é a incompatibilidade: as cápsulas dos três sistemas não se misturam. Além disso, Dolce Gusto e Nespresso têm dois formatos próprios dentro de suas marcas: Clássica e NEO na primeira, Original e Vertuo na segunda, e esses pares também não se cruzam, com uma exceção: o adaptador oficial NEO Start permite usar cafés NEO selecionados em máquinas selecionadas da linha clássica (as \"Originais\", no nome da marca), conforme a [lista oficial](https://www.nescafe-dolcegusto.com.br/compativeis-neo-start/adaptador-neo-start). Não vale para qualquer máquina nem no sentido inverso."],
       "bullets": [],
       "image": "/images/reviews/dolcegusto/clube-dolce-gusto-caixas.webp",
       "imageAlt": "Caixas de cápsulas NESCAFÉ Dolce Gusto de diferentes sabores e linhas",
@@ -64,7 +64,7 @@
         "rows": [
           ["Foco", "Clássica: multibebidas · NEO: café", "Original: espresso · Vertuo: 25 a 535 ml", "Cafés, filtrados e multibebidas"],
           ["Extração", "Até 15 bar na linha clássica", "19 bar na Original · Centrifusion na Vertuo", "15 bar para espresso · 2 bar para filtrado e chá"],
-          ["Cápsulas", "Clássica e NEO têm formatos próprios e não se cruzam", "Original e Vertuo têm formatos próprios e não se cruzam", "Um formato em toda a linha TRES"],
+          ["Cápsulas", "Clássica e NEO têm formatos próprios; exceção: adaptador oficial NEO Start (cafés NEO selecionados em máquinas selecionadas)", "Original e Vertuo têm formatos próprios e não se cruzam", "Um formato em toda a linha TRES"],
           ["Bebidas com leite", "Geralmente usa cápsulas de leite e café", "Aeroccino ou máquina com sistema de leite", "Opções em cápsula única"],
           ["Além do café", "Chás, chocolates e opções frias", "Catálogo concentrado em cafés", "Filtrados, cappuccinos, chás e chocolate"],
           ["Preço por cápsula", "R$ 1,69–2,10 · NEO: R$ 2,19–3,09", "Original: R$ 3,70–4,20 · Farmers: R$ 1,70 · Vertuo: R$ 3,90–6,30", "R$ 1,64–2,38"],
@@ -78,7 +78,7 @@
     {
       "heading": "Cápsulas e compatibilidade",
       "paragraphs": ["Cada marca tem um jeito de extrair e um catálogo de cápsulas; o que trava a escolha é a compatibilidade."],
-      "bullets": ["Nespresso: Original e Vertuo são sistemas diferentes. A Original usa cápsulas pequenas e reúne muitas compatíveis, como L'OR, Pilão e Starbucks; a Vertuo lê o código de barras, prepara de 25 a 535 ml e aceita apenas cápsulas da própria linha.", "NESCAFÉ Farmers Origins merece uma distinção: não é uma linha da Nespresso. É uma alternativa oficial da NESCAFÉ (marca que também pertence ao grupo Nestlé), produzida para máquinas Nespresso Original. Brasil, Índia, Colômbia, México e Andes ampliam a escolha e costumam custar menos que as cápsulas Nespresso. Não servem na Vertuo.", "Dolce Gusto: a linha clássica é multibebidas e usa o formato das máquinas Genio S. A NEO tem cápsula própria, compostável e reconhecida automaticamente; é voltada a café e ainda oferece menos blends puros que a Nespresso.", "3 Corações (TRES): mantém um único formato de cápsula entre suas máquinas. O sistema alterna a extração para espresso, filtrado e chá, além de preparar bebidas cremosas em cápsula única."],
+      "bullets": ["Nespresso: Original e Vertuo são sistemas diferentes. A Original usa cápsulas pequenas e reúne muitas compatíveis, como L'OR, Pilão e Starbucks; a Vertuo lê o código de barras, prepara de 25 a 535 ml e aceita apenas cápsulas da própria linha.", "NESCAFÉ Farmers Origins merece uma distinção: não é uma linha da Nespresso. É uma alternativa oficial da NESCAFÉ (marca que também pertence ao grupo Nestlé), produzida para máquinas Nespresso Original. Brasil, Índia, Colômbia, México e Andes ampliam a escolha e costumam custar menos que as cápsulas Nespresso. Não servem na Vertuo.", "Dolce Gusto: a linha clássica é multibebidas e usa o formato das máquinas Genio S. A NEO tem cápsula própria, compostável e reconhecida automaticamente; é voltada a café e, no catálogo consultado na amostra, tinha menos blends puros que a Nespresso. As duas não se cruzam, salvo no [adaptador oficial NEO Start](https://www.nescafe-dolcegusto.com.br/compativeis-neo-start/adaptador-neo-start), que cobre só alguns cafés NEO em algumas máquinas da linha clássica.", "3 Corações (TRES): mantém um único formato de cápsula entre suas máquinas. O sistema alterna a extração para espresso, filtrado e chá, além de preparar bebidas cremosas em cápsula única."],
       "links": [
         {
           "label": "Nespresso: especificações oficiais da Vertuo Pop e diferenças do sistema Original",
@@ -100,7 +100,7 @@
     },
     {
       "heading": "Quanto custa cada xícara?",
-      "paragraphs": ["Comparar apenas o preço da cápsula engana, porque os volumes variam muito. Todos os preços deste capítulo são dessa mesma amostra. Para deixar a conta auditável, separamos o espresso e calculamos também a média simples dos produtos com preço e volume identificáveis na amostra: uma média influenciada pelo mix de espressos, lungos, filtrados e cafés longos, não um preço universal da marca."],
+      "paragraphs": ["Comparar apenas o preço da cápsula engana, porque os volumes variam muito. Todos os preços deste capítulo são da mesma amostra, coletada no fim de agosto de 2026, com o preço do Farmers Origins conferido em consulta posterior. Para deixar a conta auditável, separamos o espresso e calculamos também a média simples dos produtos com preço e volume identificáveis na amostra: uma média influenciada pelo mix de espressos, lungos, filtrados e cafés longos, não um preço universal da marca."],
       "bullets": ["Dolce Gusto clássica: o espresso sai bem mais caro por 100 ml que a média da linha, porque as bebidas longas puxam a conta para baixo; os números estão na tabela acima.", "Dolce Gusto NEO: média de ~R$ 3,53 por 100 ml nos seis cafés com volume identificado. Os espressos de 45 ml ficam em ~R$ 4,87–5,78; Caseiro e Americano reduzem a média por entregarem mais bebida.", "Nespresso Original: média de ~R$ 9,67 por 100 ml quando os 13 produtos disponíveis da amostra são preparados como espresso de 40 ml. A faixa observada foi de ~R$ 9,25 a R$ 10,50. A conta considera apenas cápsulas Nespresso; Farmers Origins e outras compatíveis ficam de fora para não misturar marcas.", "Para economizar na Nespresso Original, a Farmers Origins é a saída coerente: NESCAFÉ/Nestlé, várias origens, mesma cápsula. A R$ 16,99 por 10, custa cerca de R$ 1,70 por cápsula ou R$ 4,25 por 100 ml quando preparada como espresso de 40 ml: aproximadamente 56% abaixo da média das cápsulas Nespresso Original da amostra. Ela continua fora da média da Nespresso porque é outra marca.", "Nespresso Vertuo: média de ~R$ 6,74 por 100 ml nos nove produtos com preço e volume informados. O espresso de 40 ml continua caro, em ~R$ 9,75–10; Gran Lungo e Coffee reduzem a média para ~R$ 3,47 e ~R$ 2,74 por 100 ml.", "3 Corações: média de ~R$ 3,08 por 100 ml nos nove produtos avaliados, misturando doses de 50, 80 e 100 ml. Nos espressos com preço completo, a faixa ficou em ~R$ 3,48–3,59 por 100 ml."],
       "image": "/images/reviews/dolcegusto/genio-s-touch-cecilia-1.webp",
       "imageAlt": "Cecília Mauad preparando café com cafeteira Dolce Gusto em casa",
@@ -152,10 +152,10 @@
     },
     {
       "heading": "Qual escolher: veredito por perfil e os números",
-      "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica, porque a cápsula custa menos e a máquina serve a família toda.",
+      "emphasis": "Se fosse para a minha casa, eu levaria a Dolce Gusto clássica, porque a cápsula custa menos que a da Nespresso e a máquina serve a família toda.",
       "emphasisAfterParagraph": 1,
       "paragraphs": ["Os números abaixo são da amostra e mudam com promoção e estoque. Veja qual perfil é o seu:"],
-      "bullets": ["Nespresso Original, se você bebe só café preto, quer a maior variedade de compatíveis e aceita usar espumador externo (Aeroccino) para bebidas com leite. A cápsula oficial custou de R$ 3,70 a R$ 4,20; a Farmers Origins compatível, cerca de R$ 1,70.", "Nespresso Vertuo, se você quer canecas maiores (150 a 535 ml) sem perder qualidade de extração. O custo por 100 ml só compensa nos formatos grandes (Gran Lungo, Coffee, Carafe), perto de R$ 3,47 e R$ 2,74; no espresso de 40 ml fica em R$ 9,75 a R$ 10.", "Dolce Gusto (linha clássica), se a máquina será compartilhada pela família toda: chás quentes e gelados, chocolates, bebidas licenciadas (Kit Kat, Kopenhagen, Nesquik) e cappuccinos prontos em segundos. A cápsula custou de R$ 1,69 a R$ 2,10, e a média ficou em cerca de R$ 2,64 por 100 ml.", "Dolce Gusto NEO, se você bebe só café e quer iniciar o preparo, ajustar temperatura e alterar o volume pelo app. Essas seleções ficam no aplicativo; na máquina, o comando físico é simplificado. O catálogo 100% café da NEO ainda é mais enxuto que o da Nespresso, e a cápsula custou de R$ 2,19 a R$ 3,09.", "3 Corações (TRES), se café filtrado longo faz parte da rotina, você prefere comprar cápsula na padaria ou mercadinho de bairro e valoriza um único formato de cápsula na linha. A cápsula custou de R$ 1,64 a R$ 2,38, e a média ficou em cerca de R$ 3,08 por 100 ml."]
+      "bullets": ["Nespresso Original, se você bebe só café preto, quer a maior variedade de compatíveis e aceita usar espumador externo (Aeroccino) para bebidas com leite. A cápsula oficial custou de R$ 3,70 a R$ 4,20; a Farmers Origins compatível, cerca de R$ 1,70.", "Nespresso Vertuo, se você quer canecas maiores (150 a 535 ml) sem perder qualidade de extração. O custo por 100 ml só compensa nos formatos grandes (Gran Lungo, Coffee, Carafe), perto de R$ 3,47 e R$ 2,74; no espresso de 40 ml fica em R$ 9,75 a R$ 10.", "Dolce Gusto (linha clássica), se a máquina será compartilhada pela família toda: chás quentes e gelados, chocolates, bebidas licenciadas (Kit Kat, Kopenhagen, Nesquik) e cappuccinos prontos em segundos. A cápsula custou de R$ 1,69 a R$ 2,10, e a média ficou em cerca de R$ 2,64 por 100 ml.", "Dolce Gusto NEO, se você bebe só café e quer iniciar o preparo, ajustar temperatura e alterar o volume pelo app. Essas seleções ficam no aplicativo; na máquina, o comando físico é simplificado. No catálogo consultado na amostra, a NEO tem menos cafés puros que a Nespresso, e a cápsula custou de R$ 2,19 a R$ 3,09.", "3 Corações (TRES), se café filtrado longo faz parte da rotina, você prefere comprar cápsula na padaria ou mercadinho de bairro e valoriza um único formato de cápsula na linha. A cápsula custou de R$ 1,64 a R$ 2,38, e a média ficou em cerca de R$ 3,08 por 100 ml."]
     },
     {
       "heading": "Perguntas frequentes sobre cafeteiras de cápsula",
@@ -165,7 +165,7 @@
   "decision": {
     "takeIf": [
       "A máquina vai servir a família toda, com chá, chocolate e cappuccino além do café.",
-      "Você quer o menor custo por cápsula entre os três sistemas."
+      "A cápsula oficial precisa estar entre as mais baratas da comparação."
     ],
     "skipIf": [
       "Você quer café premium e edições sazonais: aí a Nespresso atende melhor.",
@@ -181,7 +181,7 @@
   },
   "coupon": "CECI",
   "affiliate": "dolce-gusto",
-  "editorialNote": "Podemos receber comissão pelo cupom CECI e pelos links da Amazon, sem custo extra.",
+  "editorialNote": "O cupom CECI e os links da Amazon podem gerar comissão, sem custo extra para você.",
   "relatedArticles": [
     {
       "slug": "dolce-gusto-maquinas-qual-escolher"

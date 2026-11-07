@@ -78,7 +78,7 @@ Na I Wanna Sleep, a linha Memory Foam resolve o principal problema histórico da
 | **Snow®** | Viscoelástico de alta densidade + capa de toque frio | **Ultra refrescante** (dissipa o calor da pele) | De lado e de costas |
 | **Ergoblu™** | Perfil baixo com capa FrostyCover + núcleo TitanPro Gel (mesma tecnologia do Neck Plus Gel) | Resfriamento ativo, reduz pontos de pressão | Quem sente muito calor à noite |
 | **Bubble Gel®** | Bolhas de gel na superfície + cavidade ergonômica central | Fresco, com alívio de pressão na orelha | De lado e de bruços |
-| **Skin®** (linha Anti-rugas) | Viscoelástico ultra macio com tecido de baixo atrito | Neutro e suave | Quem dorme de lado / rosto apoiado |
+| **Skin®** (linha Anti-rugas, fora do memory foam) | Enchimento AirFiber (fibra com toque de pluma) + capa Airgelly®/poliéster de baixo atrito | Neutro e suave | Quem dorme de lado / rosto apoiado |
 
 Para conhecer detalhadamente as fotos e o teste da tecnologia de resfriamento do Snow, confira a nossa [ficha técnica do Travesseiro Snow IWS](/reviews/i-wanna-sleep-travesseiro-snow-ficha-tecnica).
 
