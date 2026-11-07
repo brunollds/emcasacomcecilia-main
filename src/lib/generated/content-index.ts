@@ -134370,7 +134370,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A loja anuncia até 85% off na Mega Promoção 11.11, até 12/11/2026. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino. Os preços, os descontos e os tamanhos de cada uma vêm da página da peça e podem mudar."
+          "A loja anuncia descontos grandes na Mega Promoção 11.11, até o dia 12. A Cecília escolheu 19 peças em 5 grupos: pijamas, infantil, feminino, acessórios e masculino; preços e descontos mudam por peça. O 4CW5Y é o código de indicação: pesquise no aplicativo da SHEIN, não cole no checkout, porque não é cupom."
         ]
       },
       {
@@ -135267,7 +135267,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "The store advertises up to 85% off in the 11.11 Mega Sale, until November 12, 2026. Cecília picked 19 pieces in 5 groups: pajamas, kids, women, accessories and men. Each piece's discount and rating come from its product page and may change."
+          "The store advertises big discounts in the 11.11 Mega Sale, until November 12. Cecília picked 19 pieces in 5 groups: pajamas, kids, women, accessories and men; prices and discounts change by piece. 4CW5Y is the referral code: search for it in the SHEIN app, not at checkout, because it is not a coupon."
         ]
       },
       {
@@ -136131,7 +136131,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "La tienda anuncia hasta un 85 % de descuento en la Mega Promoción 11.11, hasta el 12/11/2026. Cecília eligió 19 prendas en 5 grupos: pijamas, infantil, mujer, accesorios y hombre. El descuento y la nota de cada una vienen de la ficha de la prenda y pueden cambiar."
+          "La tienda anuncia grandes descuentos en la Mega Promoción 11.11, hasta el 12 de noviembre. Cecília eligió 19 prendas en 5 grupos: pijamas, infantil, mujer, accesorios y hombre; precios y descuentos cambian según la prenda. 4CW5Y es el código de referido: búscalo en la app de SHEIN, no en el checkout, porque no es un cupón."
         ]
       },
       {
@@ -136995,7 +136995,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "La boutique annonce jusqu'à 85 % de remise pendant la Méga Promotion 11.11, jusqu'au 12/11/2026. Cecília a choisi 19 pièces en 5 groupes : pyjamas, enfant, femme, accessoires et homme. La remise et la note de chacune viennent de la fiche de la pièce et peuvent changer."
+          "La boutique annonce de grosses remises pendant la Méga Promotion 11.11, jusqu'au 12 novembre. Cecília a choisi 19 pièces en 5 groupes : pyjamas, enfant, femme, accessoires et homme ; prix et remises changent selon la pièce. Le 4CW5Y est le code de parrainage : cherchez-le dans l'appli SHEIN, pas au paiement, car ce n'est pas un coupon."
         ]
       },
       {
@@ -137859,7 +137859,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Il negozio annuncia fino all'85% di sconto nella Mega Promozione 11.11, fino al 12/11/2026. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo. Gli sconti e la valutazione di ciascuno vengono dalla scheda dell'articolo e possono cambiare."
+          "Il negozio annuncia grandi sconti nella Mega Promozione 11.11, fino al 12 novembre. Cecília ha scelto 19 articoli in 5 gruppi: pigiami, bambini, donna, accessori e uomo; prezzi e sconti cambiano per articolo. Il 4CW5Y è il codice invito: cercalo nell'app SHEIN, non al checkout, perché non è un coupon."
         ]
       },
       {
@@ -138723,7 +138723,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Antwort in Kürze",
         "paragraphs": [
-          "Der Shop kündigt bei der Mega-Aktion 11.11 bis zu 85 % Rabatt an, bis zum 12.11.2026. Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren. Die Rabatte und die Bewertung jedes Teils stammen von der Produktseite und können sich ändern."
+          "Der Shop kündigt bei der Mega-Aktion 11.11 hohe Rabatte an, bis zum 12.11. Cecília hat 19 Teile in 5 Gruppen ausgewählt: Pyjamas, Kinder, Damen, Accessoires und Herren; Preise und Rabatte ändern sich je Teil. 4CW5Y ist der Empfehlungscode: Suchen Sie ihn in der SHEIN-App, nicht an der Kasse, denn er ist kein Gutschein."
         ]
       },
       {
@@ -139587,7 +139587,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "まずは結論",
         "paragraphs": [
-          "SHEIN は11.11メガセールを2026年11月12日まで開催し、最大85%オフと案内しています。Cecíliaは、パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選びました。各アイテムの割引と評価は商品ページのもので、変わることがあります。"
+          "SHEIN はメガセールを11月12日まで開催しています。Cecíliaは、パジャマ、キッズ、レディース、アクセサリー、メンズの5グループから19アイテムを選びました（価格と割引は商品ごとに変わります）。4CW5Y は紹介コードなので、アプリの検索バーで検索し、チェックアウトには入力しません。"
         ]
       },
       {
@@ -140451,7 +140451,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "답변 요약",
         "paragraphs": [
-          "SHEIN은 11.11 메가 세일을 2026년 11월 12일까지 진행하며 최대 85% 할인이라고 안내합니다. Cecília는 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐습니다. 각 상품의 할인율과 평점은 상품 페이지 기준이며 바뀔 수 있습니다."
+          "SHEIN은 메가 세일을 11월 12일까지 진행합니다. Cecília는 잠옷, 아동, 여성, 액세서리, 남성의 5개 그룹에서 19가지를 골랐습니다(가격과 할인은 상품마다 다릅니다). 4CW5Y는 추천 코드라서 앱 검색창에서 검색하며, 결제 화면에는 붙여 넣지 않습니다."
         ]
       },
       {
@@ -141315,7 +141315,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 称 11.11 大促最高减 85%，到 2026年11月12日结束。Cecília 挑了 19 件，分 5 组：睡衣、童装、女装、配饰和男装。每件的折扣和评分来自商品页，可能变动。"
+          "SHEIN 大促到 11 月 12 日结束。Cecília 挑了 19 件，分 5 组：睡衣、童装、女装、配饰和男装，价格和折扣因商品而异。4CW5Y 是推荐码，在 App 搜索栏搜索，不粘贴到结算页。"
         ]
       },
       {
@@ -142179,7 +142179,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "SHEIN 稱 11.11 大促最高減 85%，到 2026年11月12日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝。每件的折扣和評分來自商品頁，可能變動。"
+          "SHEIN 大促到 11 月 12 日結束。Cecília 挑了 19 件，分 5 組：睡衣、童裝、女裝、配件和男裝，價格和折扣因商品而異。4CW5Y 是推薦碼，在 App 搜尋欄搜尋，不貼到結帳頁。"
         ]
       },
       {
