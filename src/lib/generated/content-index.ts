@@ -35931,7 +35931,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço e o que o cupom altera",
         "paragraphs": [
-          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial é R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
+          "A loja oficial pratica preço de lista, desconto de vitrine e kits. Na data da publicação deste artigo (17/08/2026), o preço de referência no site oficial era de R$ 211,79. O que permanece é o teste no checkout: o item entra no carrinho pelo preço vigente; o [cupom Nestlé Nutre](/cupons/nestle-nutre) (CECI), quando aceito, tira 10% dos produtos elegíveis; o frete é outra linha e não entra nessa base.",
           "Em teste já registrado no passo a passo do cupom, o CECI aplicou os 10% por cima de um combo que já tinha desconto de vitrine. Somar com outro código digitado no mesmo pedido não é garantido: o checkout costuma ficar com um cupom só. Alfamino, Alfaré e fórmulas infantis de 0 a 12 meses não entram."
         ],
         "links": [
@@ -40459,7 +40459,7 @@ export const reviewsData: unknown[] = [
     ],
     "cta": {
       "text": "K-Beauty auf YesStyle bestellen mit Code CECILIA010",
-      "label": "Shop Besuchen",
+      "label": "Shop besuchen",
       "url": "https://ystyle.co/rQYQv"
     },
     "coupon": "CECILIA010",
@@ -42197,7 +42197,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes sobre o Nutren Just Protein",
         "bullets": [
-          "Qual a tabela nutricional do Nutren Just Protein? Os valores por porção de 15 g estão no capítulo Tabela nutricional da embalagem de 280g, acima.",
+          "Qual a tabela nutricional do Nutren Just Protein? Cada porção de 15 g (duas colheres de sopa cheias) fornece 52 kcal, 13 g de proteína, 0 g de carboidratos e 76 mg de sódio, sem quantidades significativas de gorduras ou fibras.",
           "Nutren Just Protein engorda? Cada porção de 15g fornece 52 kcal e 13g de proteína. Para dúvidas sobre peso ou sobre a quantidade ideal na sua rotina, procure um médico ou nutricionista.",
           "Nutren Just Protein tem sabor de leite? A fabricante apresenta o produto como sem sabor. A percepção e o resultado final podem variar conforme a bebida ou receita em que ele for misturado.",
           "Pode misturar Nutren Just Protein em comida quente? O preparo oficial é 15g em 120ml de água. Em receitas quentes, uma possibilidade editorial é acrescentar o pó gradualmente depois de retirar o alimento do fogo; textura e dissolução podem variar.",
