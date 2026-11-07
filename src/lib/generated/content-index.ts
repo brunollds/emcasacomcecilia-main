@@ -51211,18 +51211,18 @@ export const reviewsData: unknown[] = [
       "Loja física em São Paulo, a Casa Let's, com 15% de desconto nas compras presenciais (exceto Le Creuset e Trussardi)"
     ],
     "cons": [
-      "Só 54% dos consumidores que avaliaram no Reclame Aqui dizem que voltariam a comprar",
-      "Tempo médio de resposta de 16 dias no Reclame Aqui",
+      "No recorte de abril a setembro, só 54% de quem avaliou a reclamação no Reclame Aqui disseram que voltariam a comprar",
+      "Tempo médio de resposta de cerca de 16 dias no recorte de abril a setembro",
       "\"Produto não recebido\" é o problema mais citado nas reclamações",
       "O site mantém, além da política oficial, um texto genérico de reembolso com regras diferentes",
-      "O frete é calculado pelo CEP e pelo peso do pedido; a política padrão da loja cita frete grátis só para Le Creuset e Zwilling acima de R$ 1.000",
+      "Há informações diferentes sobre frete grátis nas páginas da loja; confirme a condição para o seu pedido e CEP.",
       "Não é possível retirar na Casa Let's um pedido feito no site"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Let's Eat It é uma empresa real e estabelecida, com CNPJ ativo, showroom em São Paulo e reconhecimento da Le Creuset Brasil. As políticas de troca são claras e a reputação no Reclame Aqui é Boa. O ponto de atenção é o pós-venda, que resolve, mas pode demorar. O Veredito, no fim, resume o que observar; para comprar com desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
+          "Sim, com ressalva no pós-venda. A Let's Eat It tem empresa identificada, showroom em São Paulo e presença no localizador da Le Creuset Brasil. A reputação no Reclame Aqui era Boa de abril a setembro, mas a resposta demorava cerca de 16 dias; confira devolução e frete antes de comprar, porque os textos da loja divergem."
         ]
       },
       {
@@ -51278,7 +51278,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Reclame Aqui, a loja se apresenta como atuante desde 2015. O CNPJ atual é de 2020; pode ter havido uma operação anterior com outra estrutura, mas isso não consegui confirmar. De todo modo, são pelo menos seis anos de perfil no Reclame Aqui e uma empresa que foi abrindo filiais com o tempo — **o oposto do padrão de loja que aparece e some.**"
+          "A loja se apresenta no Reclame Aqui como atuante desde 2015; o CNPJ atual é de 2020. O cadastro e as filiais identificam a empresa responsável pela venda, mas não garantem prazo de entrega nem solução de um pedido."
         ]
       },
       {
@@ -51353,7 +51353,7 @@ export const reviewsData: unknown[] = [
           "Norte e Nordeste: 7 a 12 dias úteis."
         ],
         "postParagraphs": [
-          "O frete é calculado pelo CEP e pelo peso do pedido, e dá para simular na página do produto. A política padrão da loja cita frete grátis em pedidos acima de R$ 1.000 em produtos Le Creuset e Zwilling; confirme no carrinho se vale para o seu pedido. Os prazos podem mudar em períodos promocionais. Se uma peça chegar danificada, a loja faz a reposição sem custo: basta enviar fotos do produto e da embalagem pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br. A política não informa um prazo para esse aviso, então o melhor é avisar logo depois de abrir a caixa."
+          "O frete é calculado pelo CEP e pelo peso do pedido, e dá para simular na página do produto. A página dedicada de frete não anuncia faixa de gratuidade, mas a política padrão menciona frete grátis para Le Creuset e Zwilling em pedidos acima de R$ 1.000 em produtos dessas marcas. Como as páginas diferem, confirme o benefício no carrinho. Os prazos podem mudar em períodos promocionais. Se uma peça chegar danificada, a loja informa reposição sem custo mediante fotos do produto e da embalagem, pelo WhatsApp (11) 96570-0375 ou suporte@letseatit.com.br. Avise assim que perceber o dano."
         ],
         "links": [
           {
@@ -51378,8 +51378,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "No recorte de abril a setembro, a Let's Eat It tinha reputação Boa no Reclame Aqui, com nota 7,6/10, 99,1% das reclamações respondidas e 94% resolvidas. O lado mais fraco é a satisfação de quem reclamou: 54% dizem que voltariam a comprar, a nota média do consumidor é 5,6 e o tempo médio de resposta é de 16 dias.",
-          "Em resumo, a loja resolve quase tudo, mas nem sempre do jeito ou no tempo que o cliente esperava. Detalhei os números, os temas das reclamações e o que fazer se o seu pedido der problema num artigo separado."
+          "No recorte de abril a setembro, a Let's Eat It tinha reputação Boa no Reclame Aqui, com nota 7,6/10 e 99,1% das reclamações respondidas. Entre as 50 avaliadas, 94% foram marcadas como resolvidas e 54% dos avaliadores disseram que voltariam a comprar; a nota média do consumidor era 5,6. O tempo médio de resposta era de 16 dias e 7 horas.",
+          "O resultado de solução era alto entre quem avaliou, mas vinha acompanhado de satisfação menor e resposta demorada. Detalhei o recorte, os temas das reclamações e o que fazer se o pedido der problema num artigo separado."
         ],
         "links": [
           {
@@ -51414,8 +51414,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Veredito",
         "paragraphs": [
-          "Pelo que conferi, a Let's Eat It é uma loja confiável: empresa registrada e em crescimento, reconhecida pela Le Creuset como ponto de venda, com políticas de troca e de entrega mais generosas do que o mínimo da lei e uma reputação Boa e estável no Reclame Aqui.",
-          "O que eu levaria comigo para a compra é a expectativa certa sobre o pós-venda: se algo der errado, a loja responde e resolve, mas o caso pode levar alguns dias. Com nota fiscal guardada, fotos na hora de abrir a caixa e um pedido claro ao atendimento, as chances de a experiência terminar bem aumentam bastante."
+          "Pelo que conferi, a Let's Eat It é uma loja confiável, com ressalva no pós-venda: empresa identificada, presença no localizador da Le Creuset Brasil e política dedicada de devolução de 30 dias. Eu conferiria as condições antes de fechar o pedido, porque o site também mantém textos diferentes sobre devolução e frete.",
+          "O cuidado principal é com a expectativa de pós-venda: os dados do Reclame Aqui mostram boa resposta e solução entre quem avaliou, mas satisfação menor e espera pelo atendimento. Guarde nota fiscal, confirmação do pedido e fotos de eventual avaria para documentar o contato com a loja."
         ],
         "links": [
           {
@@ -51428,14 +51428,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Let's Eat It é confiável? Sim. É uma empresa com CNPJ ativo desde 2020, filiais em três estados, presença no localizador oficial da Le Creuset Brasil e reputação Boa no Reclame Aqui. O ponto de atenção é a demora em alguns casos de pós-venda.",
+          "A Let's Eat It é confiável? Sim, com ressalva no pós-venda. A empresa tem CNPJ ativo desde 2020, filiais em três estados e presença no localizador oficial da Le Creuset Brasil. No recorte de abril a setembro, a reputação no Reclame Aqui era Boa, com ressalvas sobre satisfação e tempo de resposta.",
           "A Let's Eat It é uma loja de verdade? Sim. Tem CNPJ ativo, matriz no Rio de Janeiro, filiais em São Paulo, Serra (ES) e Itajaí (SC) e um showroom em São Paulo, a Casa Let's.",
           "Qual é o CNPJ da Let's Eat It? O CNPJ da matriz é 37.882.316/0001-64, no Rio de Janeiro, com situação ativa na consulta aos dados públicos. A loja também tem filiais registradas em São Paulo, Serra (ES) e Itajaí (SC).",
           "A Let's Eat It vende Le Creuset original? A Let's Eat It aparece no localizador de lojas oficial da Le Creuset Brasil, o que indica que a marca a reconhece como ponto de venda. Guarde a nota fiscal da compra.",
           "A Let's Eat It tem loja física? Sim, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h. As compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi.",
           "Dá para retirar o pedido na Casa Let's? Não. Segundo a política de frete, os pedidos feitos no site são sempre enviados para o endereço informado na compra.",
           "Quanto tempo demora a entrega da Let's Eat It? De 3 a 5 dias úteis na capital paulista até 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
-          "A Let's Eat It tem frete grátis? Em geral o frete é calculado pelo CEP e pelo peso do pedido. A política padrão da loja cita frete grátis para Le Creuset e Zwilling em pedidos acima de R$ 1.000 nessas marcas, então confirme no carrinho. O envio na devolução também é gratuito, com a etiqueta enviada pela loja.",
+          "A Let's Eat It tem frete grátis? As páginas da loja diferem: a política padrão menciona Le Creuset e Zwilling acima de R$ 1.000 em produtos dessas marcas; a página dedicada calcula o frete por CEP e não repete essa condição. Confira o frete no carrinho antes de pagar. O envio na devolução também é gratuito, com a etiqueta enviada pela loja.",
           "Como trocar ou devolver um produto da Let's Eat It? A loja aceita devolução em até 30 dias após o recebimento, envia a etiqueta de envio e devolve o valor integral ou em crédito na loja. O contato é pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br.",
           "O que acontece se o produto chegar quebrado? A loja informa reposição gratuita da peça, mediante fotos do produto e da embalagem enviadas ao atendimento.",
           "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."
@@ -51489,7 +51489,7 @@ export const reviewsData: unknown[] = [
     "imageAspect": "landscape",
     "pros": [
       "99,1% das reclamações de abril a setembro foram respondidas; só 1 aguardava resposta na consulta",
-      "94% das reclamações avaliadas foram consideradas resolvidas pelos próprios consumidores",
+      "94% das 50 reclamações avaliadas de abril a setembro foram marcadas como resolvidas pelos consumidores",
       "Reputação Boa em todos os meses de abril a setembro",
       "13ª colocada no ranking de melhores empresas da categoria lojas de decoração do Reclame Aqui",
       "Perfil ativo no Reclame Aqui há 6 anos, com CNPJ e telefone informados"
@@ -51505,7 +51505,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Let's Eat It tem reputação Boa no Reclame Aqui: responde quase todas as reclamações e resolve quase todas as avaliadas. O ponto fraco é a satisfação, porque só pouco mais da metade de quem avaliou voltaria a comprar. Os capítulos abaixo trazem os números e o caminho se o pedido der problema; para comprar com desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
+          "A Let's Eat It tinha reputação Boa no Reclame Aqui de abril a setembro, com 99,1% das reclamações respondidas e 94% das avaliadas resolvidas. Só 54% dos avaliadores voltariam a comprar, e o caminho se o pedido der problema está abaixo. Para o desconto, veja o [cupom Let's Eat It](/cupons/letseatit)."
         ]
       },
       {
@@ -51591,19 +51591,19 @@ export const reviewsData: unknown[] = [
         "imageAspectRatio": 0.4928
       },
       {
-        "heading": "O lado forte: quase tudo é respondido e resolvido",
+        "heading": "O lado forte no período: quase todas respondidas e 94% das avaliadas resolvidas",
         "paragraphs": [
           "O dado que mais pesa a favor da Let's Eat It é a constância. Quase nada ficou sem resposta no período, e quem marca o caso como resolvido é o próprio cliente, não a empresa.",
-          "O histórico mensal ajuda a ler isso como padrão, e não como um bom mês isolado: a reputação ficou em Boa em todos os meses da janela de 6 meses. A loja também aparece em 13º lugar no ranking de melhores empresas da categoria lojas de decoração e está no Reclame Aqui há 6 anos, com CNPJ e telefone de contato no perfil.",
-          "Na prática, isso diz o mais importante para quem tem receio de comprar numa loja online que ainda não conhece: quando o pedido dá problema, a Let's Eat It aparece e costuma encerrar o caso."
+          "A reputação ficou em Boa em todos os meses de abril a setembro, e não só num bom mês. A loja também aparece em 13º lugar no ranking de melhores empresas da categoria lojas de decoração e está no Reclame Aqui há 6 anos, com CNPJ e telefone de contato no perfil.",
+          "Esses números ajudam a avaliar o pós-venda: no recorte consultado, quase todas as reclamações tiveram resposta e a maioria das avaliadas foi marcada como resolvida. Não são uma previsão para cada pedido novo."
         ]
       },
       {
         "heading": "O lado que pede atenção: resolvido nem sempre é satisfeito",
         "paragraphs": [
-          "Os três índices de satisfação saem do mesmo grupo de 50 reclamações avaliadas. Conta nossa, pelos percentuais do quadro: cerca de 47 consumidores disseram que o problema foi resolvido, mas só uns 27 disseram que voltariam a comprar. Ou seja, um grupo relevante teve o caso encerrado e, ainda assim, saiu insatisfeito — o que puxa a nota média do consumidor para 5,6.",
+          "Os três índices de satisfação vêm das mesmas 50 avaliações. Pelos percentuais do quadro, foram 47 casos marcados como resolvidos e 27 consumidores que disseram que voltariam a comprar. Resolver o caso e querer comprar de novo são respostas diferentes; a nota média dada nas 50 avaliações foi 5,6.",
           "Os números não dizem o motivo, mas os relatos recentes dão pistas. Aparecem pedidos com item faltando, peças que chegaram quebradas e pedidos de estorno que demoraram a cair. A minha leitura, e é uma hipótese, não um dado: em parte desses casos, o cliente queria o produto e recebeu o reembolso no lugar, ou recebeu a solução depois de muita espera. O próprio tempo médio de resposta, de 16 dias e 7 horas, é longo para quem está esperando uma encomenda.",
-          "Isso não muda a conclusão de que a loja resolve, mas muda a expectativa: vale comprar sabendo que, se algo der errado, pode levar alguns dias para o caso andar."
+          "Isso não muda a leitura de que a loja resolve a maioria das avaliadas, mas muda a expectativa: se algo der errado, o tempo médio de resposta foi de cerca de 16 dias no período."
         ]
       },
       {
@@ -51613,7 +51613,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Produto não recebido: 39,38% das reclamações classificadas por problema. É o tema que mais pesa, e combina com os relatos recentes de pedidos que chegaram incompletos.",
-          "Utilidades domésticas: 56,68% das reclamações classificadas por categoria — o que é esperado, já que é o grosso do catálogo.",
+          "Utilidades domésticas: 56,68% das reclamações classificadas por categoria.",
           "Taças: 20,11% das reclamações classificadas por produto. Cristal é frágil, e entre os relatos recentes há peças que chegaram quebradas."
         ],
         "image": "/images/reviews/letseatit/reclame-aqui-principais-problemas-v2.webp",
@@ -51687,19 +51687,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Let's Eat It?",
         "paragraphs": [
-          "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa porque a loja responde e resolve quase tudo, como mostra o quadro acima.",
-          "O que pede atenção é a satisfação: 54% voltariam a fazer negócio e a nota média do consumidor é 5,6, além de um tempo médio de resposta longo. Quem compra deve esperar que o problema seja resolvido, mas talvez com mais demora e menos conforto do que gostaria."
+          "Pelo Reclame Aqui, sim, com uma ressalva. A reputação é Boa, e os 99,1% de respostas e os 94% de solução entre as avaliadas são sinais favoráveis do pós-venda.",
+          "A ressalva está na satisfação: 54% dos avaliadores voltariam a fazer negócio, e a nota média deles era 5,6. Com tempo médio de resposta de 16 dias e 7 horas, eu olharia o perfil atualizado e os relatos recentes antes de decidir, sobretudo para uma compra com data marcada."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A loja Let's Eat It é confiável segundo o Reclame Aqui? A reputação é Boa, com nota 7,6 de 10 no recorte de abril a setembro, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio.",
-          "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, no recorte de abril a setembro. A nota média dada pelos consumidores nas avaliações é 5,6.",
-          "A Let's Eat It responde as reclamações? Sim: responde quase todas, como mostra o quadro acima; na consulta, só uma aguardava resposta.",
-          "Por que 94% foram resolvidas, mas só 54% voltariam a comprar? Os dois índices vêm das mesmas 50 avaliações. Muitos consumidores consideraram o problema resolvido, mas não ficaram satisfeitos com a forma ou o tempo da solução.",
-          "Quanto tempo a Let's Eat It demora para responder no Reclame Aqui? O tempo médio de resposta no período foi de 16 dias e 7 horas.",
-          "O que mais gera reclamação na Let's Eat It? Produto não recebido é o problema mais citado (39,38% no histórico de até 3 anos), seguido de relatos com taças e peças frágeis.",
+          "A loja Let's Eat It é confiável segundo o Reclame Aqui? A reputação é Boa, com nota 7,6 de 10 no recorte de abril a setembro, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio. Confira o perfil atual antes da compra.",
+          "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, no recorte de abril a setembro. A nota média dada pelos consumidores nas 50 avaliações é 5,6.",
+          "A Let's Eat It responde às reclamações? Sim: 99,1% das 115 reclamações do recorte de abril a setembro tinham resposta; só uma aguardava retorno. Esse índice muda com o tempo.",
+          "Por que 94% foram resolvidas, mas só 54% voltariam a comprar? Os dois índices vêm das mesmas 50 avaliações e medem coisas diferentes: se o problema foi resolvido e se o consumidor compraria de novo. Os percentuais, sozinhos, não mostram os motivos.",
+          "Quanto tempo a Let's Eat It demora para responder no Reclame Aqui? A média foi de 16 dias e 7 horas no recorte de abril a setembro. Isso não é um prazo prometido para um novo chamado.",
+          "O que mais gera reclamação na Let's Eat It? Produto não recebido é o problema mais citado no histórico de até 3 anos, com 39,38% das reclamações classificadas por problema; taças aparecem com 20,11% por produto. São classificações diferentes, não um mesmo ranking.",
           "A Let's Eat It vende produto falsificado? Há reclamações com essa alegação, mas são relatos de consumidores sem confirmação oficial. A loja aparece no localizador oficial da Le Creuset Brasil.",
           "Como reclamar da Let's Eat It? Comece pelo atendimento da loja, no WhatsApp (11) 96570-0375 ou no e-mail suporte@letseatit.com.br, de segunda a sexta, das 9h às 18h. Sem retorno, registre a reclamação no Reclame Aqui ou no consumidor.gov.br.",
           "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."
@@ -51771,7 +51771,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Introdução",
         "paragraphs": [
-          "A Let's Eat It entrou para as parcerias do Em Casa com Cecília com uma proposta que tem tudo a ver com a nossa cozinha: panelas de ferro esmaltado, aparelhos de jantar, taças, xícaras e aquelas peças de mesa posta que fazem um almoço de domingo parecer ocasião especial. O código da parceria é MAUAD — o meu sobrenome — e dá 5% de desconto no site da loja (que muita gente procura como “lets eat it”, sem o apóstrofo).",
+          "A Let's Eat It reúne panelas de ferro esmaltado, aparelhos de jantar, taças, xícaras e peças de mesa posta. O código da parceria é MAUAD e dá 5% de desconto no site da loja.",
           "Antes de escrever este guia, testamos o cupom no checkout da Let's Eat It em 2 de outubro de 2026. Os prints abaixo são desse teste, e o que não confirmamos está dito com todas as letras. O resumo, com regras e validade, fica na página de cupons."
         ],
         "links": [
@@ -51792,7 +51792,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "1. Escolha os produtos no site oficial",
         "paragraphs": [
-          "O cupom vale para compras feitas no site da Let's Eat It. Na página de cada produto aparecem o preço, o desconto do Pix quando houver e o botão \"Adicionar ao carrinho\". Produtos com preço promocional também entraram no nosso teste, então não precisa fugir das ofertas da vitrine."
+          "O cupom vale para compras feitas no site da Let's Eat It. Na página de cada produto aparecem o preço, o desconto do Pix quando houver e o botão “Adicionar ao carrinho”. No teste, um produto em promoção aceitou o código; confira a linha de desconto para os itens do seu pedido."
         ],
         "image": "/images/reviews/letseatit/passo-1-produto-loja-v2.webp",
         "imageAlt": "Página do Jogo 4 Xícaras para Café com Pires Cristal Pérola 80ml Wolff no site da Let's Eat It, com preço promocional e botão Adicionar ao carrinho",
@@ -51886,12 +51886,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pix, cashback, frete e primeira compra: o que mais existe na loja",
         "paragraphs": [
-          "O que soma com o MAUAD: Pix soma, cashback tem mínimo e frete não tem grátis."
+          "O Pix pode somar com o cupom; cashback e frete têm condições próprias. Confira o valor final no checkout."
         ],
         "bullets": [
           "Pix: muitos produtos mostram um preço com 5% de desconto no Pix — o jogo de xícaras do nosso teste saía por R$ 59,76 no Pix. Esse desconto soma com o MAUAD: pela nossa conta, aplicando um desconto sobre o outro, o jogo sairia por R$ 56,77 no Pix com o cupom, sem o frete.",
-          "Cashback de 30%: a cada compra, a loja envia por WhatsApp um cupom de 30% do valor, válido por 30 dias. Para usar, a próxima compra precisa ser de pelo menos 7 vezes o valor do cupom, então, na prática, o desconto fica em até cerca de 14% nessa segunda compra. Um trecho do próprio FAQ da loja fala em 5 vezes; confira as condições no dia.",
-          "Frete grátis: a loja não oferece frete grátis na compra. O frete é calculado pelo CEP e pelo peso do pedido; o que é gratuito é o envio na devolução.",
+          "Cashback: a cada compra, a loja envia por WhatsApp um cupom de 30% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja.",
+          "Frete: o valor é calculado pelo CEP e pelo peso do pedido, e as condições de gratuidade devem ser conferidas no checkout.",
           "Cupom de primeira compra: use o MAUAD. Ele dá 5% de desconto no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
           "Casa Let's: na loja física de São Paulo, as compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi."
         ]
@@ -51929,14 +51929,13 @@ export const reviewsData: unknown[] = [
           "Qual é o cupom da Let's Eat It? O cupom da Let's Eat It do Em Casa com Cecília é MAUAD, com 5% de desconto no site oficial (testado no checkout).",
           "Onde coloco o cupom MAUAD? No checkout, no campo \"Código de desconto\" do resumo do pedido. Depois de digitar, clique em \"Aplicar\".",
           "Qual é o cupom de primeira compra da Let's Eat It? Use o MAUAD: ele dá 5% de desconto no site oficial, e a loja não divulga outro cupom de boas-vindas nem restrição do MAUAD para clientes novos.",
-          "O cupom MAUAD vale para produtos em promoção? No nosso teste, sim: ele foi aceito num jogo de xícaras que já estava com preço promocional e numa panela em pré-venda.",
-          "O cupom MAUAD tem valor mínimo de compra? A loja não publica um valor mínimo, e o cupom funcionou num pedido com um único item de R$ 62,90.",
+          "O cupom MAUAD vale para produtos em promoção? No teste, foi aceito num jogo de xícaras com preço promocional e numa panela em pré-venda. Confira a aplicação no resumo do seu pedido.",
+          "O cupom MAUAD tem valor mínimo de compra? No teste, o código funcionou num carrinho com um único item de R$ 62,90. Confira a condição no checkout.",
           "O MAUAD dá desconto no frete? O desconto apareceu sobre o subtotal dos produtos. O frete é calculado na etapa seguinte do checkout, pelo CEP e pelo peso do pedido.",
-          "A Let's Eat It tem frete grátis? Não na compra. O frete é calculado pelo CEP e pelo peso do pedido, e só a devolução tem envio gratuito.",
+          "A Let's Eat It tem frete grátis? Na compra, o frete é calculado pelo CEP e pelo peso do pedido. Confira o valor para seu CEP no checkout.",
           "Posso usar o cupom MAUAD mais de uma vez? A loja não publica regra de uso por CPF ou por conta. Se houver limite, o checkout informa ao aplicar o código.",
           "O MAUAD se soma ao desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% que a loja dá nos produtos com desconto no Pix. Pela nossa conta, o jogo de xícaras de R$ 62,90 do nosso teste sairia por R$ 56,77, sem o frete.",
-          "Como funciona o cashback da Let's Eat It? A cada compra, a loja envia por WhatsApp um cupom de 30% do valor, válido por 30 dias, para usar numa próxima compra de pelo menos 7 vezes o valor do cupom. A combinação com outros cupons segue as condições da loja.",
-          "Por que o cupom se chama MAUAD? MAUAD é o sobrenome da Cecília Mauad, criadora do Em Casa com Cecília. É o código oficial da parceria com a Let's Eat It.",
+          "Como funciona o cashback da Let's Eat It? A cada compra, a loja envia por WhatsApp um cupom de 30% do valor, válido por 30 dias, para uma próxima compra. O valor mínimo para usá-lo deve ser conferido com a loja, e a combinação com outros cupons segue as condições dela.",
           "O cupom não funcionou. O que fazer? Confira se não há espaço antes ou depois do código, aplique de novo e, se o problema continuar, fale com o atendimento da loja e avise o Em Casa com Cecília para revisarmos a informação.",
           "Usar o cupom deixa a compra mais cara? Não. O desconto sai do preço da loja, e a compra pode gerar comissão para o Em Casa com Cecília sem custo adicional para você."
         ]
@@ -55144,7 +55143,7 @@ export const reviewsData: unknown[] = [
           "A loja separa o pedido no mesmo dia ou no dia útil seguinte, e a entrega leva de 5 a 10 dias úteis depois do despacho, com prazo maior em período promocional. Somando um dia útil de folga ao prazo mais longo, pague até 8 de dezembro para o pedido chegar antes do Natal."
         ],
         "postParagraphs": [
-          "É uma estimativa: se puder, peça antes. A loja não tem entrega expressa e não deixa retirar pedidos do site na Casa Let's.",
+          "É uma estimativa, não uma garantia: se puder, peça antes. A loja não tem entrega expressa e não deixa retirar pedidos do site na Casa Let's.",
           "Se o presente for para outra pessoa, a troca ou devolução pode ser pedida em até 30 dias do recebimento, inclusive de item comprado em promoção, com etiqueta de devolução paga pela loja. Em São Paulo, dá para trocar na hora na Casa Let's."
         ]
       },
@@ -55181,7 +55180,7 @@ export const reviewsData: unknown[] = [
           "O cupom MAUAD soma com o desconto do Pix? Soma. O MAUAD vale com todas as formas de pagamento, e no Pix entram os 5% do cupom e os 5% da loja: pela nossa conta, a panela Redonda Signature de 20 cm, a R$ 1.746,75 na promoção, sai por R$ 1.576,44, sem o frete.",
           "O cashback da Let's Eat It vale na Black Friday? A faixa da campanha anuncia 15% de cashback. O cupom só pode ser usado a partir de 7 dias depois da compra que o gerou, vale 30 dias, e a nova compra precisa ser de pelo menos 7 vezes o valor do cupom. Para usar na sexta da Black Friday, a compra que gera o cupom precisa ser de pelo menos 7 dias antes; os termos estão na página do cashback.",
           "A Let's Eat It tem loja física? Tem a Casa Let's, na Av. Pacaembu, 1105, em São Paulo, com 15% de desconto nas compras presenciais, exceto Le Creuset e Trussardi. Ela não faz retirada de pedidos do site.",
-          "Até quando comprar para chegar antes do Natal? Pela nossa conta, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite é no começo de dezembro; o capítulo do presente de Natal traz a conta."
+          "Até quando comprar para chegar antes do Natal? Pela nossa estimativa, com a separação do pedido, os 10 dias úteis do prazo mais longo depois do despacho e um dia útil de folga, a data limite cai no começo de dezembro. Confirme a previsão para o seu CEP, pois os prazos podem mudar em períodos promocionais."
         ]
       }
     ],
@@ -61502,7 +61501,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Porto Brasil é boa se você olhar a ficha da peça: é cerâmica, não porcelana, e o stoneware libera forno, micro-ondas e freezer na maior parte das fichas, enquanto a faiança tem mais restrições. A fabricante tem nota 8,4 no Reclame Aqui. Veja o capítulo Veredito."
+          "A escolha da Porto Brasil depende da peça e do uso: a marca trabalha com cerâmica, e a faiança tem mais restrições de forno que o stoneware. Algumas fichas de stoneware liberam forno e freezer, outras trazem restrições, e os modelos com ouro têm mais exceções em micro-ondas e lava-louças. Antes de comprar, confira a ficha da peça."
         ]
       },
       {
@@ -61564,7 +61563,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Micro-ondas, lava-louças, forno e freezer",
         "paragraphs": [
-          "A Porto Brasil libera forno, micro-ondas e freezer na maior parte do stoneware e aconselha uma variação térmica de cerca de 180 °C ou de 240 °C, variando por peça, sem dar a temperatura máxima do forno. Na descrição de mais de mil produtos, como o Bio Vanilla, a marca escreve \"forno (até 180 °C)\", mesmo quando a ficha do mesmo produto fala em 240 °C. Na dúvida, use a menor temperatura que a marca cita para a peça.",
+          "As fichas liberam forno, micro-ondas e freezer para parte do stoneware, mas há exceções por produto. Não use só o nome do material para decidir: confira as indicações da peça.",
+          "“Variação térmica aconselhada” não é a temperatura máxima do forno. As fichas registravam variações de cerca de 180 °C ou 240 °C. No Aparelho de Jantar Bio Vanilla de 16 peças, a descrição indica forno até 180 °C e o campo de cuidados informa variação térmica de 240 °C: são duas indicações diferentes.",
+          "Se a sua peça não tem limite de forno explícito, ou se as instruções de uso se contradizem, confirme com a fabricante antes de colocá-la no forno. Não converta variação térmica em limite de temperatura.",
           "Há exceções. Algumas peças de stoneware, como pratos de entrada, de sobremesa e de massa da linha Orgânico, xícaras de chá da linha Linhas e kits de canecas da Coup Stoneware, trazem \"não é recomendado usar no forno convencional\". Os conjuntos com aplicação de ouro não devem ir ao forno nem ao micro-ondas, e os de filamento de ouro também não vão à lava-louças.",
           "Na faiança, as fichas liberam micro-ondas e lava-louças. Várias trazem \"não é recomendado usar no forno convencional\", a maior parte não fala de forno nem de freezer, e os kits Celebrar de 18 peças trazem \"Freezer: Não recomendado\"."
         ],
@@ -61588,8 +61589,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Porto Brasil ou Oxford",
         "paragraphs": [
-          "A Oxford tem louça de mesa nos dois materiais: a linha Ryo é, em sua maior parte, de porcelana, e a linha Unni é de cerâmica. No catálogo oficial da Oxford, quase todos os itens das duas linhas aparecem como resistentes a micro-ondas e a lava-louças, e nenhum declara forno. A empresa se apresenta como a maior fabricante de porcelana e cerâmica de mesa das Américas.",
-          "Sem teste próprio, não dizemos qual é melhor. A escolha começa pelo uso: para levar a louça ao forno, a maior parte do stoneware da Porto Brasil traz isso na ficha, e o catálogo da Oxford não declara forno para as linhas Ryo e Unni."
+          "No catálogo Oxford, a linha Ryo é majoritariamente de porcelana e a Unni, de cerâmica. Quase todos os itens das duas linhas declaram resistência a micro-ondas e lava-louças, sem indicação de forno. A empresa se apresenta como a maior fabricante de porcelana e cerâmica de mesa das Américas.",
+          "Para escolher, comece pelo uso desejado e pela ficha da peça. Há produtos de stoneware da Porto Brasil com forno declarado. A falta dessa indicação no catálogo Oxford não significa que toda louça Oxford seja imprópria para forno: confirme o produto específico."
         ]
       },
       {
@@ -61603,14 +61604,14 @@ export const reviewsData: unknown[] = [
         "heading": "Garantia e reputação",
         "paragraphs": [
           "A Porto Brasil dá 90 dias de garantia por defeito de fabricação e uma garantia separada contra gretamento, as rachaduras finas no esmalte, de 9 ou 12 meses, variando por produto.",
-          "No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA, com nota 8,4 de 10 entre abril e setembro de 2026. No período, foram 110 reclamações, todas respondidas, e 84,3% resolvidas; os assuntos mais citados são produto com defeito e pratos."
+          "No Reclame Aqui, a Porto Brasil Cerâmica tem reputação ÓTIMA, com nota 8,4 de 10 entre abril e setembro de 2026. Foram 110 reclamações, todas respondidas, e 84,3% resolvidas; o assunto mais citado é produto com defeito e pratos. Esses números medem o atendimento da fabricante, não a durabilidade das peças."
         ]
       },
       {
         "heading": "Veredito: a Porto Brasil é boa?",
         "paragraphs": [
-          "A Porto Brasil é boa para quem escolhe pela ficha da peça. O stoneware libera forno, micro-ondas, lava-louças e freezer na maior parte das fichas, com exceções (as peças com ouro, alguns pratos e canecas), e a faiança libera micro-ondas e lava-louças, mas tem mais restrições de forno. A garantia é de 90 dias por defeito e de 9 ou 12 meses contra gretamento, e no Reclame Aqui a nota é 8,4, com 84,3% das 110 reclamações resolvidas.",
-          "Contra a Oxford, a vantagem da Porto Brasil é o forno declarado na ficha: o catálogo da Oxford não declara forno nas linhas Ryo e Unni. Sem teste próprio, não dizemos qual é melhor. Para levar ao forno, confira a ficha da peça e use a menor temperatura que a marca cita."
+          "Para escolher a Porto Brasil, procure primeiro as indicações do produto: forno e freezer mudam por peça, e os detalhes com ouro acrescentam restrições. A tabela ajuda a filtrar modelos.",
+          "Na comparação com a Oxford, há peças Porto Brasil com forno declarado, enquanto no catálogo Ryo e Unni essa indicação não aparece. Se forno é indispensável, escolha uma peça com autorização e limite claros. Para uso sem essa indicação, confirme com a fabricante antes da compra."
         ]
       },
       {
@@ -61646,11 +61647,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Porto Brasil é cerâmica ou porcelana? É cerâmica, não porcelana: stoneware (grês) e faiança, segundo a própria fabricante.",
           "Porto Brasil vai no micro-ondas? Sim, na maior parte das peças de stoneware e de faiança, segundo as fichas; as peças com aplicação de ouro não vão.",
-          "Porto Brasil vai no forno? A maior parte do stoneware vai, segundo as fichas, mas algumas peças e os conjuntos com ouro não; na faiança, várias fichas não recomendam o forno convencional.",
+          "Porto Brasil vai no forno? Só quando a ficha da peça autoriza esse uso. Parte do stoneware permite, mas há peças e conjuntos com ouro que não vão; na faiança, várias fichas não recomendam o forno. Confira também o limite explícito: variação térmica não é temperatura máxima do forno.",
           "Porto Brasil vai na lava-louças? Sim, na maior parte das peças dos dois materiais; os conjuntos com filamento de ouro não vão.",
           "Porto Brasil é de onde? A fábrica fica em Porto Ferreira (SP); a empresa foi aberta em 2006 e consta como ativa no cadastro público de CNPJ.",
-          "Porto Brasil ou Oxford: qual escolher? Depende do uso: a maior parte do stoneware da Porto Brasil vai ao forno, segundo as fichas; a Oxford tem a linha Ryo, em sua maior parte de porcelana, e a Unni, de cerâmica, sem forno declarado no catálogo.",
-          "A Porto Brasil é confiável? No Reclame Aqui, tem reputação ÓTIMA: nota 8,4 de 10 no período analisado, com todas as 110 reclamações respondidas e 84,3% resolvidas."
+          "Porto Brasil ou Oxford: qual escolher? Compare o material e o uso da peça específica. Há stoneware da Porto Brasil com forno declarado, e o catálogo Oxford Ryo e Unni não traz essa indicação.",
+          "A Porto Brasil é confiável? No Reclame Aqui, tem reputação ÓTIMA: nota 8,4 de 10 no período analisado, com todas as 110 reclamações respondidas e 84,3% resolvidas. Isso mede o atendimento da fabricante, não a durabilidade das peças."
         ]
       }
     ],
@@ -61663,7 +61664,7 @@ export const reviewsData: unknown[] = [
     "cons": [
       "Algumas peças de stoneware e as que têm aplicação de ouro não vão ao forno",
       "Na faiança, várias fichas não recomendam o forno convencional",
-      "A maior parte das fichas não dá a temperatura máxima do forno: fala em variação térmica de 180 °C ou 240 °C",
+      "Variação térmica de 180 °C ou 240 °C não informa, por si só, o limite de forno da peça",
       "Produto com defeito é o assunto mais citado nas reclamações"
     ],
     "cta": {
@@ -61987,19 +61988,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: Le Creuset vale a pena?",
         "paragraphs": [
-          "Vale para quem vai usar a panela no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. O limite no forno depende do puxador; veja abaixo as regras por uso."
+          "Vale para quem vai usar uma panela de ferro fundido no fogão, inclusive de indução, e no forno, e aceita os cuidados com o esmalte. O ferro fundido da Le Creuset não vai ao micro-ondas e a garantia vitalícia não cobre choque térmico nem queda. Confira o limite de forno da panela, tampa e puxador do modelo."
         ]
       },
       {
         "heading": "O que a Le Creuset diz sobre o ferro fundido: indução, forno, lava-louças, micro-ondas e uso",
         "paragraphs": [
-          "A panela vai ao fogão e ao forno, e o limite está no puxador: confira o material antes de ligar o forno."
+          "A panela vai ao fogão e ao forno; antes de usar, confira na documentação do modelo os limites da panela, da tampa e do puxador."
         ],
         "bullets": [
           "Indução: o ferro fundido vai a todas as fontes de calor, incluindo a indução.",
           "Micro-ondas: o ferro fundido não vai ao micro-ondas.",
           "Forno com puxador fenólico preto: até 250 °C na linha Signature e até 200 °C na linha Tradicional.",
-          "Forno com alça de ferro fundido ou puxador de aço inox: qualquer temperatura.",
+          "Forno com alça de ferro fundido ou puxador de aço inox: confira o limite do conjunto no manual do modelo. A resistência do pegador, isoladamente, não libera a panela para qualquer temperatura.",
           "Alça ou puxador de madeira: não vai ao forno nem à lava-louças.",
           "Lava-louças: a lavagem constante pode desbotar o acabamento do esmalte, o que a marca diz não ser prejudicial.",
           "Antes do primeiro uso: a panela não precisa de cura.",
@@ -62009,7 +62010,7 @@ export const reviewsData: unknown[] = [
         "image": {
           "src": "/images/reviews/letseatit/le-creuset-redonda-signature-tampa-alcas.webp",
           "alt": "Panela Redonda Signature da Le Creuset na cor Cotton vista de cima, com as duas alças de ferro fundido e o puxador de aço inox na tampa",
-          "caption": "Na Redonda Signature Cotton, as alças são de ferro fundido e o puxador da tampa é de aço inox: pela regra da marca, vão ao forno em qualquer temperatura.",
+          "caption": "Redonda Signature Cotton com alças de ferro fundido e puxador de aço inox na tampa. Confira o limite de forno do conjunto na documentação desse modelo.",
           "objectFit": "contain",
           "aspectRatio": 1.3333
         }
@@ -62031,7 +62032,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Forno",
-              "Puxador fenólico até 250 °C (Signature) ou 200 °C (Tradicional); alça de ferro ou inox em qualquer temperatura; madeira não",
+              "Puxador fenólico: até 250 °C na Signature ou 200 °C na Tradicional, conforme a referência do guia. Com ferro ou inox, conferir também o limite da panela e da tampa do modelo; madeira não vai ao forno.",
               "Até 250 °C, ou 200 °C com alças de silicone; alça de madeira não"
             ],
             [
@@ -62057,7 +62058,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "As duas vão à indução e ao forno, e as duas excluem a alça de madeira. O limite de temperatura depende do puxador e da linha: o seu está na tabela. Se o preço decidir, compare na data da compra: a Staub não aparece no catálogo da Let's Eat It. Ceraflame (cerâmica) e Tramontina (ferro com antiaderente interno) ficam fora do comparativo por serem outro material e revestimento."
+          "As duas vão à indução e ao forno, e as duas excluem a alça de madeira. Confira o limite da panela, tampa e puxador do modelo escolhido. Se o preço decidir, compare na data da compra: a Staub não aparece no catálogo da Let's Eat It. Ceraflame (cerâmica) e Tramontina (ferro com antiaderente interno) ficam fora do comparativo por serem outro material e revestimento."
         ]
       },
       {
@@ -62123,28 +62124,28 @@ export const reviewsData: unknown[] = [
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a Signature, porque o puxador fenólico vai até 250 °C.",
         "bullets": [
-          "Vale: quer uma panela para fogão, indução e forno e vai respeitar o limite do puxador. Se o seu forno passa de 200 °C, prefira a Signature (fenólico até 250 °C) ou o puxador de inox (qualquer temperatura), porque o fenólico da Tradicional vai só até 200 °C.",
+          "Vale para quem quer ferro fundido esmaltado para fogão, indução e forno, respeitando a temperatura máxima do conjunto escolhido. Se o seu forno passa de 200 °C, prefira a Signature (fenólico até 250 °C) ou um modelo com puxador de inox, e confira a tampa e o limite do conjunto completo.",
           "Pense melhor: quer usar no micro-ondas, ou vai à lava-louças sempre e não aceita que o acabamento possa desbotar.",
-          "O preço pesa: a Redonda Signature de 20 cm saía por R$ 2.329 e a de 28 cm, por R$ 3.429, nas cores de preço padrão."
+          "O preço pesa: a Redonda Signature de 20 cm custava R$ 2.329 e a de 28 cm, R$ 3.429, nas cores de preço padrão. Confira a oferta atual na loja."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Le Creuset vale a pena? Vale para quem vai usar a panela no fogão e no forno e aceita os cuidados: melhores resultados no calor médio ou baixo, nada de micro-ondas e uma garantia vitalícia que não cobre choque térmico nem queda.",
-          "Le Creuset pode ir na indução? Sim: a marca diz que o ferro fundido pode ser usado em todas as fontes de calor, incluindo a indução.",
-          "Le Creuset pode ir no forno? Depende do puxador: o limite de cada linha e material está na tabela do comparativo acima.",
-          "Le Creuset pode ir na lava-louças? Pode, segundo a marca: a lavagem constante pode desbotar o acabamento do esmalte, o que a marca diz não ser prejudicial; alça de madeira não vai.",
-          "Le Creuset pode ir no micro-ondas? Não: a marca diz que o ferro fundido não deve ser usado no micro-ondas.",
+          "Le Creuset pode ir na indução? As panelas de ferro fundido esmaltado deste guia podem, segundo a marca. Outras linhas usam materiais diferentes e precisam ser conferidas na ficha correspondente.",
+          "Le Creuset pode ir no forno? O ferro fundido deste guia pode ir ao forno, respeitado o limite de cada conjunto: confira panela, tampa e puxador na documentação do modelo.",
+          "Le Creuset pode ir na lava-louças? Para o ferro fundido esmaltado deste guia, a marca permite; a lavagem constante pode desbotar o acabamento, o que a marca diz não ser prejudicial. Peças com madeira não vão à lava-louças.",
+          "Le Creuset pode ir no micro-ondas? O ferro fundido esmaltado deste guia não pode. Essa resposta não se aplica automaticamente às peças de cerâmica da marca.",
           "Como limpar panela Le Creuset queimada? Não mergulhe a panela quente em água fria; encha com água morna, deixe agir de 15 a 20 minutos e lave sem palha de aço nem produto abrasivo.",
-          "Le Creuset ou Staub: qual escolher? Pelo que as marcas publicam, as duas vão à indução e ao forno, e o limite de temperatura depende do puxador. Se o preço decidir, compare na data da compra, porque a Staub não aparece no catálogo da Let's Eat It.",
+          "Le Creuset ou Staub: qual escolher? Pelo que as marcas publicam, as duas vão à indução e ao forno. Confira o limite do conjunto de cada modelo, inclusive tampa e puxador. Se o preço decidir, compare na data da compra, porque a Staub não aparece no catálogo da Let's Eat It.",
           "As panelas Staub são boas? Pela marca, a Staub vai à indução e ao forno até 250 °C, ou 200 °C com alças de silicone; o comparativo acima mostra o que cada marca publica."
         ]
       }
     ],
     "pros": [
       "Vai a todas as fontes de calor, inclusive à indução",
-      "Alça de ferro fundido e puxador de inox vão ao forno em qualquer temperatura",
+      "Uso no forno conforme o limite da panela, da tampa e do puxador do modelo escolhido",
       "Garantia vitalícia",
       "Não precisa de cura antes do primeiro uso"
     ],
@@ -62155,7 +62156,7 @@ export const reviewsData: unknown[] = [
       "Na Let's Eat It, a Redonda Signature de 20 cm custava R$ 2.329 em 12/10/2026"
     ],
     "cta": {
-      "text": "Procure a Le Creuset no site da Let's Eat It.",
+      "text": "Confira as panelas Le Creuset na Let's Eat It e aplique MAUAD no carrinho para 5% OFF, conforme as condições da loja.",
       "label": "Ir para a Let's Eat It",
       "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
       "sponsored": true
@@ -62164,7 +62165,7 @@ export const reviewsData: unknown[] = [
     "affiliate": "letseatit",
     "decision": {
       "takeIf": [
-        "Você quer uma panela para fogão, indução e forno e vai respeitar o limite do puxador."
+        "Você quer uma panela para fogão, indução e forno e vai respeitar o limite do conjunto, incluindo tampa e puxador."
       ],
       "skipIf": [
         "Você quer usar no micro-ondas.",
@@ -99080,7 +99081,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para seis pessoas, a mesa posta de Natal tem três faixas, da básica à completa, e o cupom MAUAD tira 5% do subtotal, sem frete. O que pesa é o que você já tem em casa, principalmente pratos e talheres. Veja abaixo a tabela das três faixas e a conta de cada uma."
+          "Para seis pessoas, compare três faixas de mesa posta conforme o que você já tem em casa. Na básica, o total inclui um kit opcional de quatro anéis para seis lugares; as faixas 1 e 2 usam os pratos rasos de casa. O cupom MAUAD dá 5% sobre o subtotal, sem frete."
         ]
       },
       {
@@ -99129,7 +99130,7 @@ export const reviewsData: unknown[] = [
               "R$ 1.019,90",
               "R$ 968,91",
               "R$ 169,98 / R$ 161,49",
-              "Faqueiro Avalon, taças Bohemia Magnum, centro Duna, velas"
+              "Faqueiro Avalon, taças Bohemia Magnum, centro Duna, velas e um kit opcional com 4 anéis"
             ],
             [
               "2, intermediária",
@@ -99154,7 +99155,7 @@ export const reviewsData: unknown[] = [
           {
             "src": "/images/reviews/letseatit/mesa-posta-natal-tres-faixas.webp",
             "alt": "Quadro com as três faixas da mesa posta de Natal para seis pessoas: R$ 1.019,90, R$ 2.138,32 e R$ 5.250,69, com o valor com o cupom MAUAD e por pessoa",
-            "caption": "As três faixas, sem frete. Quadro do Em Casa com Cecília.",
+            "caption": "As três faixas, sem frete. A faixa básica inclui um kit opcional de 4 anéis para seis lugares. Quadro do Em Casa com Cecília.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
@@ -99240,7 +99241,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Faixa 2: mesa intermediária, com o tema Natal opcional",
         "paragraphs": [
-          "A faixa intermediária custa R$ 2.138,32 sem cupom, ou R$ 2.031,40 com o cupom MAUAD. São R$ 356,39 por pessoa sem o cupom, ou R$ 338,57 com ele."
+          "Em 20/10/2026, a faixa intermediária custava R$ 2.138,32 sem cupom, ou R$ 2.031,40 com o cupom MAUAD. São R$ 356,39 por pessoa sem o cupom, ou R$ 338,57 com ele."
         ],
         "comparisonTable": {
           "headers": [
@@ -99549,7 +99550,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Não existe valor certo para um presente de casamento: a melhor faixa é a que cabe no orçamento e combina com o que o casal pediu. O guia separa as ideias da Let's Eat It em quatro faixas de preço. O que muda a escolha é o que o casal já tem; veja abaixo as peças e o frete."
+          "Escolha uma faixa que caiba no seu orçamento e uma peça que o casal queira. Na Let's Eat It, havia opções nas quatro faixas abaixo. Se a casa já tem o básico, prefira completar uma linha que o casal usa; para montar a mesa do zero, confira o aparelho de jantar."
         ]
       },
       {
@@ -99675,7 +99676,7 @@ export const reviewsData: unknown[] = [
               "Acima de R$ 1.500",
               "[Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 3.089",
-              "Mesmas fontes de calor da Azure; pegadores de aço inox; a ficha da loja fala em resistência à temperatura do forno sem dar o limite, que consta no manual da fabricante. Pode ir à lava-louças."
+              "Ferro fundido com esmalte interno vitrificado; a ficha lista vitrocerâmico, indução, elétrico, gás, radiante, grill e forno. Pode ir à lava-louças. Antes de usar no forno, confirme no manual desta versão o limite da tampa e do pegador dourado."
             ]
           ]
         },
@@ -99806,7 +99807,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e prazo de entrega",
         "paragraphs": [
-          "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A página de frete da loja não traz faixa de frete grátis, mas a política padrão cita frete grátis em pedidos acima de R$ 1.000 em produtos Le Creuset e Zwilling; confirme no carrinho. O prazo vai de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, contados da confirmação do pagamento; no Sul e no Sudeste, de 5 a 8. Se o presente tem data, confira no checkout o prazo para o seu CEP antes de pagar. Para o Natal, a data-limite de pedido por região está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+          "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A página de frete da loja não traz faixa de frete grátis, mas a política padrão cita frete grátis acima de R$ 1.000 em produtos Le Creuset e Zwilling; confirme no carrinho. Pela página regional, o prazo vai de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, contados da confirmação do pagamento. Outra política da loja usa outra contagem, então, para um presente com data, confirme a previsão do pedido antes de pagar. O [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit) ajuda a planejar a compra, sem garantir data de chegada."
         ]
       },
       {
@@ -99832,7 +99833,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A loja tem lista de casamento? Hoje, a página de lista de presentes da Let's Eat It está sem itens, então não dá para usá-la para montar a lista do casal. Se o casal quer lista, vale conferir no site antes de contar com ela.",
+          "A loja tem lista de casamento? Quando verificamos, a página de lista de presentes estava sem itens. Confira no site antes de contar com essa função; se ela não estiver disponível, combine a peça diretamente com o casal.",
           "Qual o valor de um bom presente de casamento? Não existe valor certo. O guia divide as peças em quatro faixas: até R$ 300, de R$ 300 a 700, de R$ 700 a 1.500 e acima de R$ 1.500. A melhor faixa é a que cabe no orçamento e combina com o que o casal pediu.",
           "O que dar de presente de casamento até R$ 300? [Ramekin Formato Coração 300 ml Vermelho, Le Creuset](https://letseatit.com.br/products/ramekin-coracao-ceramica-300ml-vermelho-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 159,00; [Jogo 6 Taças Champagne Crex Optic 270 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-champagne-crex-optic-270ml-cristal-ecologico-bohemia?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 128,42; [Jogo 4 Mini Pratos Chapéu Orgânico Latte 250 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-mini-pratos-chapeu-organico-latte-250ml-19x5-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 189,90; e [Moedor de Pimenta Black Onyx, Le Creuset](https://letseatit.com.br/products/moedor-de-pimenta-black-onix-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 295,20.",
           "O que dar de presente de casamento de R$ 300 a 700? [Jogo 4 Pratos Chapéu Orgânico Preto Matte 450 ml, Porto Brasil](https://letseatit.com.br/products/jogo-4-pratos-chapeu-organico-preto-matte-450ml-28x6-5cm-porto-brasil?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 322,90; [Jogo 6 Taças Champagne Ardea Verde Selva 220 ml, Bohemia](https://letseatit.com.br/products/jogo-6-tacas-para-champanhe-em-cristal-bohemia-ardea-verde-selva-220ml?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 329,90; [Faqueiro Aço Inox Avalon 30 peças, Wolff](https://letseatit.com.br/products/faqueiro-30-pecas-aco-inox-avalon-wolff?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 383,90; e [Travessa Retangular Heritage Cotton 26 cm, Le Creuset](https://letseatit.com.br/products/travessa-retangular-ceramica-heritage-cotton-26cm-le-creuset?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), R$ 529,00.",
@@ -99872,7 +99873,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe o aparelho Shimeji Gold se o casal usa micro-ondas e lava-louças todo dia: ele leva filete dourado.",
-        "Passe a lista de presentes da loja: ela está sem itens, então combine direto com o casal."
+        "Passe se depende da lista de presentes da loja sem ter confirmado que a função está disponível; quando verificamos, ela estava sem itens."
       ]
     }
   },
@@ -99891,7 +99892,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Ideias de presente de Natal para quem gosta de cozinhar em quatro faixas de preço, de Le Creuset a Ariete. Veja como escolher pelo perfil e o prazo para chegar antes do Natal.",
+    "description": "Ideias de presente para quem gosta de cozinhar em quatro faixas de preço, de Le Creuset a Ariete. Escolha pelo uso, confira a voltagem e a previsão de entrega pelo CEP.",
     "metaDescription": "O cupom MAUAD dá 5% OFF no subtotal da Let's Eat It. Presente de Natal para quem gosta de cozinhar, com Le Creuset, KitchenAid e Ariete em quatro faixas.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
@@ -99906,7 +99907,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O melhor presente para quem gosta de cozinhar depende do que a pessoa faz na cozinha e de quanto você quer gastar. A Let's Eat It tem ideias em quatro faixas de preço, e o cupom MAUAD reduz o preço. O capítulo sobre o perfil de quem cozinha ajuda a escolher."
+          "Escolha pelo hábito de quem vai receber: uma forma para quem assa, utensílios para o churrasco ou uma peça para servir e tomar café. Com o cupom MAUAD, de 5%, o preço cai. Nos elétricos, a voltagem decide; em presente com data, confirme a previsão de entrega pelo CEP."
         ]
       },
       {
@@ -100158,8 +100159,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prazo para chegar antes do Natal",
         "paragraphs": [
-          "A Let's Eat It não tem entrega expressa. O prazo segue a política padrão de frete da loja: de 5 a 10 dias úteis depois do despacho, e o pedido é separado no mesmo dia ou no dia útil seguinte. O valor e o prazo do frete do seu CEP aparecem só no checkout, depois de preencher o endereço.",
-          "Para um presente com data, a conta é de trás para frente: partindo do dia do Natal, desconte a separação e os 5 a 10 dias úteis de entrega e faça o pedido antes disso. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+          "A Let's Eat It não tem entrega expressa. Uma política publicada pela loja fala em 3 a 12 dias úteis, conforme a região, contados da confirmação do pagamento; outra, em 5 a 10 dias úteis depois do despacho. O valor e o prazo do frete do seu CEP aparecem só no checkout. Para um presente com data, simule o CEP e confirme a previsão do pedido com a loja antes de pagar.",
+          "Planeje uma margem para receber, conferir e embalar o presente. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit), mas elas não garantem chegada antes do Natal."
         ]
       },
       {
@@ -100173,7 +100174,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca, peça avariada e pré-venda",
         "paragraphs": [
-          "Pela política de reembolso e trocas da loja, a devolução tem prazo de 30 dias contados do recebimento. Pela página de reembolso e trocas, a devolução pode ser por produto de valor equivalente, reembolso no meio de pagamento original ou crédito na loja. O site mantém outro texto de política com regras diferentes, então confirme a condição por escrito com o atendimento antes de presentear. Defeito de fabricação tem prazo de 90 dias.",
+          "A página de reembolso e trocas publica 30 dias contados do recebimento para devolução ou troca por produto equivalente, e 90 dias para defeito de fabricação. Outra política publicada pela loja descreve devolução sujeita à aceitação, seguida de nova compra. Antes de presentear, confirme com a loja o procedimento e o prazo aplicáveis ao item e guarde a nota fiscal.",
           "Se a peça chegar quebrada, a loja faz a reposição sem custo, mediante fotos do produto e da embalagem enviadas pelo WhatsApp ou pelo e-mail de atendimento da loja. A política não diz em que prazo o aviso precisa ser feito, então avise logo depois de abrir a caixa. O que a equipe checou antes de indicar a loja está em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel).",
           "Item de pré-venda não entra nesta lista de presente com data. O prazo de envio fica na página do produto."
         ]
@@ -100181,9 +100182,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o prazo de entrega para chegar antes do Natal? Pela política padrão de frete da loja, são 5 a 10 dias úteis depois do despacho, com a separação do pedido no mesmo dia ou no dia útil seguinte. A data-limite de pedido está no guia de Black Friday da Let's Eat It.",
-          "Posso trocar um presente? A página de reembolso e trocas da loja fala em 30 dias contados do recebimento, com troca por produto equivalente, reembolso ou crédito. O site tem outro texto de política com regras diferentes: guarde a nota fiscal e confirme a condição por escrito com o atendimento antes de presentear com data marcada.",
-          "O cupom MAUAD vale em promoção? Sim. Pelo nosso teste, ele soma com as promoções vigentes do site e com o desconto do Pix. O checkout mostra o valor final antes do pagamento.",
+          "Como saber se o presente chega antes do Natal? Simule o CEP e confirme a previsão do pedido antes de pagar. As políticas publicadas pela loja usam prazos e marcos de contagem diferentes; o guia de Black Friday da Let's Eat It traz as datas-limite, sem garantir chegada.",
+          "Posso trocar um presente? A página de reembolso e trocas fala em 30 dias contados do recebimento, com troca por produto equivalente, reembolso ou crédito, mas outra política do site descreve devolução seguida de nova compra. Confirme com a loja qual procedimento se aplica ao presente antes de pagar e guarde a nota fiscal.",
+          "O cupom MAUAD vale em promoção? Sim, no nosso teste ele entrou sobre produto em promoção. O desconto do Pix também soma com o cupom; confira o valor final no checkout.",
           "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou um eletroportátil, como a Chaleira Elétrica Positano de R$ 649,00 (127 V)."
         ]
       }
@@ -128315,8 +128316,8 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Escolheu o tamanho? Veja as cores disponíveis da Le Creuset no site da Let's Eat It.",
-      "label": "Ir para a Let's Eat It",
+      "text": "Escolheu seu tamanho? Veja as cores disponíveis e use o cupom MAUAD para 5% OFF no site da Let's Eat It.",
+      "label": "Ver Le Creuset na Let's Eat It",
       "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
       "sponsored": true
     },
@@ -128338,7 +128339,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para receita de até 2 L, a 20 cm (2,4 L) basta; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O que muda a escolha é o volume da panela que você já usa, medido abaixo; para servir à mesa, vale o buffet."
+          "Para receita de até 2 L, a 20 cm (2,4 L) basta se a receita não encostar na borda; acima disso, a 24 cm (4,2 L), que custa 27% a mais no preço cheio e sai 28% mais barata por litro. O volume da panela que você já usa, medido abaixo, decide; para servir à mesa, vale o buffet."
         ]
       },
       {
@@ -128472,22 +128473,22 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como saber de quantos litros você precisa",
         "paragraphs": [
-          "O número que decide é o litro, e o jeito mais seguro de chegar nele é medir o que você já usa."
+          "Compare o volume da receita que você mais faz com a capacidade total da panela. A receita precisa deixar espaço livre, e essa margem depende do preparo."
         ],
         "bullets": [
-          "Pegue a panela que você mais usa no dia a dia. Encha de água até a borda com um copo medidor e anote os litros.",
-          "Pense na receita mais cheia que você faz nela. Se ela chega perto da borda, ou você precisa mexer devagar para não derramar, a panela é pequena para o seu uso.",
-          "Compare o resultado com 2,4 L (20 cm) e com 4,2 L (24 cm). Até 2 L, a 20 cm resolve com folga. Acima disso, a 24 cm é o tamanho que cobre. Em fritura a conta muda: a Le Creuset limita o óleo a 1/3 da capacidade.",
-          "Confira se a tampa fecha com folga. Receita que sobe, como arroz, sopa ou ensopado em fervura, precisa de espaço livre entre o líquido e a tampa."
+          "Confira a capacidade da panela que você já usa. Se medir com água até a borda, anote que esse é o volume total, não o limite para cozinhar.",
+          "Pense na sua receita mais cheia: se chega perto da borda ou derrama ao mexer, você precisa de mais espaço.",
+          "Compare as capacidades nominais: 2,4 L na Redonda de 20 cm e 4,2 L na de 24 cm. Escolha a que acomoda a receita e a margem necessária ao preparo.",
+          "Confira os cuidados de uso da linha para o tipo de preparo; uma receita que sobe ou ferve precisa de espaço livre."
         ],
         "postParagraphs": [
-          "Se a sua medida cair entre 2,4 e 4,2 L, a 20 cm fica apertada nas receitas cheias e a 24 cm sobra nas pequenas: entre as duas, a 24 cm é a que não limita a receita. A capacidade é a nominal, até a borda: numa 24 cm de 4,2 L, o óleo de fritura fica em cerca de 1,4 L. Quem quer levar a panela do forno direto para a mesa como peça de servir não precisa dessa conta: o caminho é a caçarola buffet, tratada na próxima seção."
+          "Se a receita já fica apertada na sua panela, compare o volume dela com o próximo tamanho da tabela, sem usar a borda como limite de cozimento. A capacidade é a nominal, até a borda: numa 24 cm de 4,2 L, o óleo de fritura fica em cerca de 1,4 L. Quem procura uma peça baixa e larga para servir do forno à mesa pode considerar a buffet da seção seguinte."
         ]
       },
       {
         "heading": "Caçarola buffet: quando faz sentido",
         "paragraphs": [
-          "A buffet é a Le Creuset para servir à mesa, baixa e larga. A loja a descreve como peça ampla e baixa para cozinhar e servir, do forno para a mesa. É esse o papel dela: ir direto à mesa, sem trocar de travessa.",
+          "A caçarola buffet é baixa e larga, descrita pela loja para cozinhar e servir. A marca destaca o uso do forno direto à mesa, como peça de servir.",
           "A Let's Eat It tinha estes tamanhos no site:"
         ],
         "bullets": [
@@ -128526,7 +128527,7 @@ export const reviewsData: unknown[] = [
           "A escolha mais segura parte do volume da receita que você mais faz."
         ],
         "bullets": [
-          "**Receita de até 2 L:** a 20 cm (2,4 L) leva com folga para a tampa fechar. Em fritura, o óleo vai só até 1/3 da capacidade.",
+          "**Receita de até 2 L:** a 20 cm (2,4 L) leva bem se a receita não encosta na borda. Em fritura, o óleo vai só até 1/3 da capacidade.",
           "**Receita de 2 a 3,5 L:** a 24 cm (4,2 L). Na 20 cm, ela chega à borda ou não cabe.",
           "**Receita de 3,5 a 4,5 L:** a 26 cm, com 5,3 L. Acima disso, a tabela do início: 28 cm (6,7 L) ou 30 cm (8,4 L)."
         ],
@@ -128560,7 +128561,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Para receitas de 2 a 3,5 L: a 24 cm, que cobre a receita cheia e sai mais barata por litro.",
-        "Para receitas de até 2 L: a 20 cm, com folga para a tampa fechar. Em fritura, o óleo vai só até 1/3 da capacidade.",
+        "Para receitas de até 2 L: a 20 cm, se a receita não encosta na borda. Em fritura, o óleo vai só até 1/3 da capacidade.",
         "Para levar a panela do forno direto à mesa: a caçarola buffet."
       ],
       "skipIf": [
@@ -128591,7 +128592,7 @@ export const reviewsData: unknown[] = [
     "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
-    "description": "A Le Creuset Brasil não publica guia de número de série ou selo para conferir a peça. Veja o que dá para checar pelo canal e pela nota fiscal, e onde comprar original.",
+    "description": "Para comprar Le Creuset, confira o vendedor nos canais da marca e guarde a nota fiscal. Veja o alerta oficial e os limites da conferência por origem, selo ou gravação.",
     "metaDescription": "Existe Le Creuset falsa? Veja o alerta da marca, a origem na ficha (France ou Tailândia), a garantia e onde comprar original (26/10/2026).",
     "image": "/images/reviews/letseatit/le-creuset-original-como-saber-capa-discover.webp",
     "imageAlt": "Panela Oval Signature vermelha da Le Creuset com a tampa gravada LE CREUSET, ao lado do título Le Creuset original: como saber e do logo da Let's Eat It",
@@ -128600,7 +128601,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "A Let's Eat It está na lista de revendedores da Le Creuset Brasil. Veja as peças no site da loja.",
+      "text": "A Let's Eat It é revendedora credenciada pela Le Creuset Brasil. Acesse o site da loja e aproveite o cupom MAUAD para economizar em peças originais.",
       "label": "Ir para a Let's Eat It",
       "url": "https://letseatit.com.br/?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico",
       "sponsored": true
@@ -128623,7 +128624,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Le Creuset Brasil não publica, no site, guia de número de série, gravação ou selo para conferir a peça. O que dá para conferir é o canal (site oficial, lojas próprias, outlets e revendedores da lista da marca) e a nota fiscal, que a marca pede para analisar a garantia. Os revendedores e o que a garantia cobre estão abaixo."
+          "Antes de comprar, confira se o vendedor aparece nos canais oficiais da Le Creuset e guarde a nota fiscal. Nas páginas brasileiras da marca, não encontramos guia de número de série, gravação ou selo para autenticar a peça. Em caso de dúvida sobre uma peça, o SAC da marca é o caminho."
         ]
       },
       {
@@ -128741,7 +128742,7 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Em resumo: como comprar Le Creuset original sem erro",
+        "heading": "O que conferir antes de comprar",
         "bullets": [
           "Confira o canal no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, antes de comprar numa loja nova para você.",
           "Desconfie de oferta fora dos canais oficiais, como diz o alerta da marca.",
@@ -128755,7 +128756,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Existe Le Creuset falsa? A Le Creuset Brasil publicou um alerta sobre falsas promoções e descontos em mídias sociais e em páginas da internet. Ela pede atenção a qualquer oferta que não venha dos canais oficiais: o site da marca, e-mail com \"@lecreuset.com\" ou um parceiro autorizado.",
           "Le Creuset é made in France ou Tailândia? Depende do produto. Na ficha da caçarola buffet de ferro fundido que lemos, o país de origem é France. Na da mini cocotte de cerâmica, é Tailândia. Nenhuma das três fichas lidas traz China.",
-          "Le Creuset tem número de série para conferir? Nas páginas do site brasileiro que lemos, a marca não publica guia de número de série, gravação ou selo.",
+          "Le Creuset tem número de série para conferir? Nas páginas brasileiras que consultamos, não encontramos guia de número de série, gravação ou selo. Em caso de dúvida sobre uma peça, procure o SAC da marca.",
           "A garantia da Le Creuset vale se eu comprei em outra loja? Segundo a marca, a análise de garantia vale para qualquer produto Le Creuset, independentemente do país ou do canal de compra. Guarde a nota fiscal ou outro comprovante de propriedade.",
           "O outlet da Le Creuset vende peça original? O outlet é loja oficial da marca. Vende seconds, B-grade e modelos descontinuados, com pequenas variações, sem troca nem devolução por desistência depois da venda na loja física, e com garantia para defeito de fabricação.",
           "Como saber se uma loja é revendedora autorizada da Le Creuset? Procure a loja no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, buscando pela cidade. A lista é da própria Le Creuset Brasil."
@@ -156810,7 +156811,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Para a mesa de seis pessoas com talher de sobremesa, o faqueiro de 30 peças é o conjunto completo, e o Branco era o mais barato dele. O de 12 peças traz só faca e garfo, e o de 18 soma a colher. O que muda a escolha é a cor com estoque, na tabela abaixo."
+          "Os três tamanhos servem seis pessoas: o de doze peças traz faca e garfo; o de dezoito acrescenta a colher; o de trinta acrescenta garfo e colher de sobremesa. Escolha pelos talheres que você precisa; depois compare cor, preço e estoque. O Branco era o mais barato entre os de trinta."
         ]
       },
       {
@@ -156875,7 +156876,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O faqueiro de 30 peças traz 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa, diz a página. São cinco talheres por pessoa para seis pessoas. Não vem colher de chá.",
           "A composição é a mesma em todas as cores, mas o preço muda com a cor do cabo. O [Branco](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-branco-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 946,32, o [Laranja](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-laranja-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) e o [Bordeaux](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-bordeaux-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custavam R$ 967,37 cada, e o [Verde](https://letseatit.com.br/products/faqueiro-laguiole-la-maison-luxo-verde-30-pecas?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) custava R$ 1.099,00. O Marfim, o Preto, o Cinza e o Azul Marinho de 30 peças estavam esgotados nesse dia.",
-          "Se a cor não importa, o Branco é o mais barato. Se o cabo vai combinar com a toalha ou com o sousplat, a diferença do Branco para o Verde é de R$ 152,68."
+          "O Branco era o mais barato do conjunto de trinta peças. A diferença para o Verde era de R$ 152,68. Se a cor do cabo pesa na mesa, compare a diferença atual antes de decidir."
         ],
         "images": [
           {
@@ -156946,11 +156947,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Para quem vale cada tamanho",
         "paragraphs": [
-          "Para a mesa de Natal de seis pessoas com sobremesa, o 30 peças cobre todos os talheres de cada lugar. O [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra o que entra na mesa além do faqueiro e quanto custa cada faixa.",
+          "Para seis pessoas usando os cinco tipos listados, o de trinta peças reúne talheres principais e de sobremesa; não inclui colher de chá. O [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) mostra os outros itens e faixas de preço.",
           "Para presente de casamento, o 30 peças entrega o conjunto completo de uma vez, e o 12 ou o 18 cabem num orçamento menor. O [guia de presente de casamento por preço](/reviews/presente-de-casamento-ideias-por-preco) tem outras ideias em cada faixa.",
           "Para o dia a dia de seis pessoas, o 18 peças já traz faca, garfo e colher. O 12 serve quem só precisa de faca e garfo."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o 30 peças Branco, porque cobre os seis lugares com sobremesa pelo menor preço do conjunto completo.",
+        "emphasis": "Se fosse para a minha casa, eu começaria pelo Branco de trinta peças: cobre os cinco tipos de talher para seis lugares e foi o mais barato entre as cores. Confirmaria o preço e o estoque antes de comprar.",
         "emphasisAfterParagraph": 3
       },
       {
@@ -156971,7 +156972,7 @@ export const reviewsData: unknown[] = [
           "O faqueiro Laguiole La Maison pode ir na máquina de lavar louça? A ficha da Let's Eat It não diz. Ela informa só o material: lâmina em aço inoxidável e cabo em ABS.",
           "O Laguiole La Maison é original francês? A ficha diz que o design é de artesãos franceses, mas não informa o país de fabricação.",
           "Quantas peças de cada tipo tem o faqueiro Laguiole de 30 peças? São 6 facas, 6 garfos, 6 colheres, 6 colheres de sobremesa e 6 garfos de sobremesa, segundo a ficha. Não vem colher de chá.",
-          "Qual a cor mais barata do faqueiro Laguiole 30 peças? O Branco, por R$ 946,32 no cartão. O Verde custava R$ 1.099,00 e o Marfim estava esgotado.",
+          "Qual a cor mais barata do faqueiro Laguiole de trinta peças? O Branco custava R$ 946,32 no cartão e o Verde, R$ 1.099,00. Confira preço e estoque atuais, porque mudam por cor.",
           "O faqueiro Laguiole La Maison tem garantia? A ficha não traz prazo nem termo de garantia. O texto da loja fala em \"garantia de utensílios de qualidade\" só como descrição da marca."
         ]
       }
@@ -157047,7 +157048,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que vai em cada lugar",
         "paragraphs": [
-          "A conta deste guia é nossa e usa quatro peças por lugar, sem taça e sem sobremesa:"
+          "A conta considera quatro grupos por lugar, com os três talheres dentro de um deles:"
         ],
         "bullets": [
           "1 jogo americano.",
@@ -157056,7 +157057,7 @@ export const reviewsData: unknown[] = [
           "1 prato raso."
         ],
         "postParagraphs": [
-          "A ordem da lista é a ordem de compra. O jogo americano vem em 1 unidade, e o guardanapo tem na página o preço de uma peça, então você compra o número exato de pessoas e usa com o que já tem. O faqueiro é vendido em jogo e custa mais de uma vez só. Os pratos ficam por último porque quase toda casa já tem algum prato raso para começar.",
+          "Comece pelo tecido: jogo americano e guardanapo, usando os pratos e talheres que já tem. O jogo americano é anunciado por unidade; para o guardanapo, a conta assume uma peça por anúncio, conforme a descrição da página. O faqueiro vem em jogo e pede uma compra maior de uma vez. Deixe os pratos para depois se os de casa já atendem.",
           "Os preços são do cartão, lidos na Let's Eat It em 29/10/2026, e todas as peças estavam disponíveis nesse dia."
         ]
       },
@@ -157179,7 +157180,8 @@ export const reviewsData: unknown[] = [
               "R$ 207,40",
               "R$ 157,65"
             ]
-          ]
+          ],
+          "caption": "Faixa econômica para 2 e 4 pessoas, no cartão e sem frete."
         },
         "postParagraphs": [
           "Sem os pratos, para quem usa os de casa, a faixa fica em R$ 330,80 para 2 pessoas e R$ 462,60 para 4."
@@ -157243,7 +157245,8 @@ export const reviewsData: unknown[] = [
               "R$ 262,05",
               "R$ 212,30"
             ]
-          ]
+          ],
+          "caption": "Faixa intermediária para 2 e 4 pessoas, no cartão e sem frete."
         },
         "postParagraphs": [
           "Dá para subir de faixa aos poucos: o faqueiro fica, e você troca primeiro o tecido, depois os pratos. As faixas também se misturam, como o Limone com o Oliva."
@@ -157273,8 +157276,8 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "O que comprar primeiro para a mesa posta? O tecido: um jogo americano e um guardanapo por pessoa, que funcionam com os pratos e talheres que você já tem.",
-          "Quanto custa uma mesa posta para 2 pessoas? Com as peças deste guia, a partir de R$ 414,80 no cartão, com o faqueiro de 12 peças inteiro, pelos preços do guia.",
-          "Quanto custa uma mesa posta para 4 pessoas? De R$ 630,60 na faixa econômica a R$ 849,20 na intermediária, no cartão e sem frete, pelos preços do guia.",
+          "Quanto custa uma mesa posta para 2 pessoas? Na faixa econômica, R$ 414,80 no cartão e sem frete, com o faqueiro de 12 peças inteiro. Você pode começar só pelo tecido e usar pratos e talheres de casa.",
+          "Quanto custa uma mesa posta para 4 pessoas? R$ 630,60 na faixa econômica e R$ 849,20 na intermediária, no cartão e sem frete.",
           "Dá para montar a mesa posta sem taça? Sim. A taça ficou fora da conta porque a Sphere só é vendida em jogo de 6, de R$ 289,00 a R$ 298,00.",
           "Guardanapo de tecido pode ir na máquina? Pela ficha do Poá Terracota e do Bordado Oliva, não: a lavagem é à mão, até 40 °C, sem secadora e sem alvejante."
         ]
@@ -157333,7 +157336,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela conta nossa, compre um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Nas fichas lidas, a medida é 45 x 45 cm ou 40 x 40 cm. O de 45 serve melhor no almoço e no jantar, e o de 40 no café, como mostram as tabelas abaixo."
+          "Sugerimos um guardanapo de tecido por pessoa e um de reserva por mesa: para quatro pessoas, cinco. Entre as medidas das fichas, nossa sugestão é o de 45 x 45 cm para almoço e jantar, e o de 40 x 40 cm para café e lanche."
         ]
       },
       {
@@ -157346,11 +157349,11 @@ export const reviewsData: unknown[] = [
           "headers": [
             "Guardanapo (Decortextil)",
             "Medida",
-            "Preço",
-            "2 pessoas (3)",
-            "4 pessoas (5)",
-            "6 pessoas (7)",
-            "8 pessoas (9)"
+            "Preço usado na conta",
+            "2 pessoas: 3 peças",
+            "4 pessoas: 5 peças",
+            "6 pessoas: 7 peças",
+            "8 pessoas: 9 peças"
           ],
           "rows": [
             [
@@ -157392,8 +157395,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Entre parênteses, o número de guardanapos com a reserva. Os totais não incluem frete, que sai pelo CEP.",
-          "O cupom MAUAD dá 5% no site, vale em todas as formas de pagamento e soma com os 5% do Pix; na conta nossa sobre esses preços, os sete Poá Terracota de uma mesa de seis pessoas saem de R$ 392,00 por R$ 372,40 com o cupom e por R$ 353,78 com o cupom e o Pix, sem frete.",
+          "Os totais incluem um guardanapo de reserva e não incluem frete, que sai pelo CEP.",
+          "O cupom MAUAD dá 5% de desconto no site em todas as formas de pagamento e acumula com os 5% do Pix. Aplicando o cupom aos valores da tabela, o conjunto de sete guardanapos Poá Terracota (mesa para seis com reserva) baixa de R$ 392,00 para R$ 372,40 no cartão e para R$ 353,78 no Pix, sem contar o frete calculado pelo CEP.",
           "O [guia da mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) conta um guardanapo por pessoa, sem reserva, para uma mesa de seis. Se for seguir a conta daqui, some uma peça."
         ],
         "images": [
@@ -157431,7 +157434,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A sugestão por refeição é conta nossa: a página não diz. O de 45 x 45 cm cobre mais o colo, então vai melhor no almoço e no jantar, com prato principal e molho. O de 40 x 40 cm serve no café da manhã, no lanche e na sobremesa, e também ocupa menos espaço dobrado sobre o prato.",
+          "Nossa sugestão é usar o de 45 x 45 cm no almoço e no jantar, com prato principal e molho, porque ele cobre mais o colo. O de 40 x 40 cm ocupa menos espaço dobrado sobre o prato e serve no café da manhã, no lanche e na sobremesa.",
           "Se a casa vai usar o mesmo jogo em todas as refeições, o de 45 x 45 cm resolve as duas situações. A medida não define o preço: o Oliva de 45 cm custa R$ 0,90 a menos que o Abelha de 40 cm."
         ],
         "images": [
@@ -157495,10 +157498,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Quantos guardanapos de tecido comprar por pessoa? Um por pessoa em cada refeição, mais um de reserva por mesa, pela conta nossa. Para quatro pessoas, são cinco; para seis, sete.",
-          "Qual o tamanho ideal de guardanapo de pano? Nas fichas lidas, as medidas são 45 x 45 cm e 40 x 40 cm, e nenhuma é chamada de padrão. Pela conta nossa, o de 45 vai melhor no almoço e no jantar, e o de 40 no café e no lanche.",
-          "Guardanapo de tecido pode ir na máquina e na secadora? A ficha dos guardanapos de algodão lidos manda lavar à mão, em até 40 °C, e não usar secadora. A secagem indicada é natural, à sombra.",
-          "Guardanapo de tecido precisa passar? A ficha diz para passar em temperatura média, com ferro morno de até 150 °C."
+          "Quantos guardanapos de tecido comprar por pessoa? Recomendamos um guardanapo por pessoa em cada refeição mais um de reserva por mesa. Para quatro pessoas, compre cinco peças; para seis pessoas, sete peças.",
+          "Qual o tamanho ideal de guardanapo de pano? Nas fichas, as medidas são 45 x 45 cm e 40 x 40 cm; nenhuma é chamada de padrão. Nossa sugestão é o de 45 para almoço e jantar, e o de 40 para café e lanche.",
+          "Guardanapo de tecido pode ir na máquina e na secadora? A ficha dos guardanapos de algodão manda lavar à mão, em até 40 °C, e não usar secadora. A secagem indicada é natural, à sombra.",
+          "Guardanapo de tecido precisa passar? A ficha diz para passar em temperatura média, com ferro morno de até 150 °C.",
+          "Qual é o cupom da Let's Eat It e como usar? O cupom MAUAD oferece 5% de desconto em todo o site oficial da Let's Eat It, válido em todas as formas de pagamento e acumulando com os 5% de desconto à vista no Pix."
         ]
       }
     ],
@@ -157510,7 +157514,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe o de 40 x 40 cm como jogo único se a casa serve almoço com molho: o de 45 cobre mais o colo.",
-        "Passe qualquer um dos quatro se a máquina decide: a página manda lavar à mão, sem secadora."
+        "Evite os quatro modelos se você só lava na máquina: as fichas indicam lavagem à mão e não permitem secadora."
       ]
     },
     "pros": [],
@@ -157552,7 +157556,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Jogo americano de tecido redondo ou retangular: a medida que cabe o seu prato, a cor e o material que cada ficha informa e sete peças da Let's Eat It de R$ 18,65 a R$ 63,00.",
+    "description": "Como escolher jogo americano de tecido pelo tamanho do prato, espaço na mesa e cor da louça. Compare medidas, materiais e sete modelos da Let's Eat It.",
     "metaDescription": "Jogo americano de tecido com o cupom MAUAD de 5% OFF: sete peças de 36,5 a 52 cm, redondas ou retangulares, com cor e material de cada uma.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
@@ -157566,14 +157570,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Escolha primeiro o formato: o retangular deixa espaço dos lados do prato para os talheres, e o redondo emoldura só o prato. Depois meça o seu prato, porque o jogo precisa passar o diâmetro dele com folga, e escolha a cor pelo nome que a ficha dá. A conta da borda de cada medida está logo abaixo."
+          "Comece medindo o prato e o espaço disponível por pessoa. Nos modelos comparados, o redondo deixa uma borda em volta do prato, e o retangular dá mais largura nas laterais para os talheres; use as contas abaixo e escolha a cor depois."
         ]
       },
       {
         "heading": "Redondo ou retangular: a primeira escolha",
         "paragraphs": [
           "O formato vem antes da cor. Nos jogos americanos de tecido que lemos na Let's Eat It em 29/10/2026, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, e os retangulares têm 35 x 50 cm ou 38 x 52 cm. Nenhuma das fichas fala em medida padrão: o que decide é o tamanho do prato que vai em cima.",
-          "O redondo fica do tamanho do prato com uma borda em volta, e os talheres e o copo acabam na mesa, fora dele. O retangular é mais largo que fundo, então sobra tecido dos dois lados do prato, onde ficam o garfo e a faca. Numa mesa estreita, ou com muitos lugares lado a lado, a largura do retangular é o que pesa: o de 50 cm ocupa meio metro por lugar.",
+          "Nos redondos de 36,5 e 38,5 cm, um prato de 28 cm deixa pouca largura nas laterais para acomodar também os talheres. Os retangulares de 35 x 50 e 38 x 52 cm deixam uma faixa lateral maior. Isso não dispensa medir a mesa: o modelo de 50 cm ocupa meio metro por lugar, e a posição de copos e talheres depende da montagem que você prefere.",
           "O [Jogo Americano Retangular Gregas Bege 35x50 cm, da Ori Manufatura](https://letseatit.com.br/products/jogo-americano-retangular-gregas-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), por exemplo, mede 50 x 35 cm e tem, segundo a ficha, corte a laser na borda. O [Corrente Bege](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico), da mesma marca, tem a mesma medida, com a borda em formato de corrente."
         ],
         "images": [
@@ -157589,7 +157593,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Medidas, material e preço de cada jogo",
         "paragraphs": [
-          "Os preços são os do cartão, e seis das sete fichas dizem \"Contém: 1 Unidade\": para quatro lugares, multiplique por quatro, como a última coluna (conta nossa) já faz."
+          "Preços do cartão e disponibilidade, sem frete ou cupom. Seis das sete fichas informavam uma unidade: a última coluna multiplica esse preço por quatro, em conta nossa. Para o Linho Off White Borda Verde, cuja quantidade não era informada, o total supõe uma peça por compra."
         ],
         "comparisonTable": {
           "headers": [
@@ -157660,7 +157664,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A página do Linho Off White Borda Verde não diz a quantidade, e a conta de quatro lugares dele supõe uma peça por compra. O Corrente Bege é o mais barato da tabela, e o Linho Off White Borda Verde, o mais caro. Estoque e preço mudam ao longo do dia; peças esgotadas na leitura ficaram fora da tabela."
+          "No recorte da tabela, o Corrente Bege tinha o menor preço por peça e o Linho Off White Borda Verde, o maior. Antes de comprar para quatro lugares, confirme a quantidade vendida, a disponibilidade e o total com frete. Peças esgotadas na consulta ficaram fora da seleção."
         ]
       },
       {
@@ -157689,9 +157693,9 @@ export const reviewsData: unknown[] = [
         ]
       },
       {
-        "heading": "Cor: o que a ficha diz de cada uma",
+        "heading": "Como escolher a cor com a louça que você já tem",
         "paragraphs": [
-          "A cor está na página, e é por ela que dá para escolher: Verde Sálvia, Cinza, Caqui, Bege, Off White e Verde, e Limone. Nenhuma página diz com que louça ou com que mesa a peça combina, então essa parte é sua. Uma saída simples é olhar o que já está na mesa: com prato estampado, jogo liso; com prato liso, o jogo pode ter estampa.",
+          "Para escolher a cor, coloque o prato ao lado da foto do jogo americano e observe o conjunto com a mesa. Minha sugestão, se você quer uma composição mais discreta, é combinar prato estampado com jogo liso. Com prato liso, você pode preferir a estampa do jogo como destaque. É uma escolha de gosto; os nomes da tabela são os usados nas fichas dos produtos.",
           "O [Jogo Americano Tecido Limone Color 33x48 cm, da Tuut](https://letseatit.com.br/products/jogo-americano-tecido-limone-color-33x48cm-tuut?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem, na ficha, \"Cor: Limone\" e estampa inspirada no tema. Na foto da ficha, limões e folhas bordados contornam a peça, e a ficha não diz o formato nem o tecido. Entre as peças que lemos, é a única com desenho de fruta; os outros jogos são de uma cor só, com borda bordada ou vazada."
         ],
         "images": [
@@ -157729,7 +157733,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde comprar e o desconto",
         "paragraphs": [
-          "Todas as peças deste guia estão na Let's Eat It, com frete calculado pelo CEP. O código MAUAD tira 5% em qualquer forma de pagamento e soma com o desconto de 5% do Pix que a página do Limone mostra; pela nossa conta, o Limone de R$ 54,65 sai por R$ 51,92 com um dos dois e por R$ 49,32 com os dois. As condições estão na página do [cupom Let's Eat It](/cupons/letseatit).",
+          "As peças foram selecionadas no catálogo da Let's Eat It, com frete por CEP. O MAUAD dá 5% em qualquer forma de pagamento e soma com o desconto do Pix. Usando o preço de referência do Limone e os 5% de Pix mostrados na ficha, nossa conta era R$ 51,92 com um dos descontos ou R$ 49,32 com ambos. Confira o preço e o Pix da peça no checkout; as condições do código estão na página do [cupom Let's Eat It](/cupons/letseatit).",
           "Se a mesa é para uma data, o [guia de mesa posta de Natal](/reviews/mesa-posta-natal-o-que-precisa-quanto-custa) soma sousplat, guardanapo, taças e talheres para seis pessoas."
         ]
       },
@@ -157738,29 +157742,29 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Com um prato raso de 28 cm, o retangular de 35 x 50 cm deixa 11 cm de cada lado para o garfo e a faca. O [Corrente Bege](https://letseatit.com.br/products/jogo-americano-retangular-corrente-bege-35x50cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico) tem essa medida."
         ],
-        "emphasis": "Se fosse para a minha casa, eu levaria o Retangular Corrente Bege, porque tem a mesma medida do Gregas e é o mais barato da tabela.",
+        "emphasis": "Se fosse para a minha casa, eu escolheria o Retangular Corrente Bege: ele tem a mesma medida do Gregas e tinha o menor preço da tabela. Eu confirmaria o valor atual e o frete antes de comprar.",
         "emphasisAfterParagraph": 1
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual o tamanho de um jogo americano? Nas peças que lemos, os redondos têm 36,5 cm ou 38,5 cm de diâmetro, os retangulares, 35 x 50 cm ou 38 x 52 cm, e o Limone, cujo formato a ficha não diz, 33 x 48 cm. Escolha pelo prato: com um prato raso de 28 cm, o redondo de 36,5 cm deixa 4,25 cm de borda, pela nossa conta.",
-          "Jogo americano redondo ou retangular? O retangular deixa espaço para os talheres dos lados do prato. O redondo emoldura o prato e deixa talheres e copo na mesa.",
+          "Jogo americano redondo ou retangular? Compare as medidas com o seu prato e com o espaço por pessoa na mesa. Entre os modelos deste guia, os retangulares oferecem mais largura lateral para os talheres; os redondos deixam uma borda mais estreita em volta do prato.",
           "Tem jogo americano redondo de linho? Tem. O Redondo Bordado D3 Verde Sálvia 36,5 cm, da Tuut, é de linho segundo a ficha e custava R$ 39,00 no cartão.",
           "Jogo americano de tecido pode lavar na máquina? Depende da ficha. A do Linho Off White Borda Verde manda lavar à mão em até 40 °C, a dos jogos da Ori pede lavagem leve, e a da Tuut não fala em lavagem.",
-          "Qual jogo americano combina com mesa de madeira? Nenhuma ficha diz. A escolha é de gosto: olhe a cor do prato e da madeira e use o nome da cor da ficha para comparar."
+          "Qual jogo americano combina com mesa de madeira? Depende do tom da madeira, da louça e do efeito que você quer. Minha sugestão é comparar o conjunto, em vez de escolher apenas pelo nome da cor: um jogo liso pode ser uma opção se o prato já tem bastante estampa. A cor da foto serve de referência, não de garantia do tom da peça."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve o retangular se os talheres ficam no jogo: com prato de 28 cm, o de 35 x 50 deixa 11 cm de cada lado.",
-        "Leve o redondo se a ideia é emoldurar só o prato: talheres e copo ficam na mesa, fora do jogo."
+        "Considere o retangular se quer apoiar os talheres nas laterais: com prato de 28 cm centralizado, o de 35 x 50 cm deixa 11 cm de tecido de cada lado.",
+        "Considere o redondo se prefere uma borda em volta do prato e pretende apoiar os talheres diretamente na mesa."
       ],
       "skipIf": [
-        "Passe o retangular se a mesa é estreita ou tem muitos lugares lado a lado: o de 50 cm ocupa meio metro por lugar.",
-        "Passe o jogo estampado se o prato já é estampado: com prato estampado, jogo liso.",
-        "Passe pelo nome da cor sem medir o prato: o jogo precisa passar o diâmetro dele com folga."
+        "Antes de levar o retangular, confira a largura por pessoa: o modelo de 50 cm pode ocupar espaço demais numa mesa estreita ou com muitos lugares.",
+        "Se você prefere uma composição discreta e o prato já é estampado, considere um jogo liso.",
+        "Não escolha só pela cor: compare as medidas do jogo com o diâmetro do prato."
       ]
     },
     "pros": [],
@@ -168390,13 +168394,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A taça base esfera da Let's Eat It vem só em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. Há o conjunto de 450 ml e o de champanhe, de 250 ml; os preços estão na tabela abaixo. Antes de escolher, conte quantas pessoas vão à mesa e qual bebida elas vão servir."
+          "A taça base esfera da Let's Eat It vem em conjunto: 6 peças, 6 + 6 ou 12 + 12, nas cores âmbar, azul, verde e rosa. Há o conjunto de 450 ml e o de champanhe, de 250 ml; os preços estão na tabela abaixo. Antes de escolher, conte quantas pessoas vão à mesa."
         ]
       },
       {
         "heading": "Conjunto ou unidade: só conjunto",
         "paragraphs": [
-          "A loja não vende a taça Sphere avulsa. Toda peça da linha sai em jogo de 6, no kit com 6 taças de vinho e 6 de champanhe, ou no kit de 12 + 12.",
+          "A taça Sphere não aparece avulsa na loja: os conjuntos saem de 6, em kit com 6 taças de vinho e 6 de champanhe, ou em kit de 12 + 12. Confira a quantidade na página antes de comprar.",
           "Para 4 pessoas que servem vinho e champanhe, o kit 6 + 6 cobre a mesa. Se a mesa recebe só um tipo de bebida, um jogo de 6 basta."
         ]
       },
@@ -168592,7 +168596,7 @@ export const reviewsData: unknown[] = [
           "A taça Sphere é de vidro? Sim. A loja descreve vidro transparente com base colorida.",
           "A taça Sphere serve para vinho e para água? A descrição da loja não diz para qual bebida serve a de 450 ml. A de 250 ml se chama taça para champanhe.",
           "Pode ir na lava-louças? A descrição da loja não diz.",
-          "O que fazer se a taça chegar quebrada? A loja repõe a peça com avaria sem custo, com fotos do problema."
+          "O que fazer se a taça chegar quebrada? A loja repõe a peça com avaria sem custo, com fotos do problema. Guarde as imagens e confirme o procedimento com o atendimento."
         ]
       }
     ],
@@ -180333,7 +180337,7 @@ export const reviewsData: unknown[] = [
               "99,1%"
             ],
             [
-              "Resolvidas",
+              "Índice de solução — reclamações finalizadas e avaliadas",
               "94%"
             ],
             [
@@ -180347,7 +180351,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O que a tabela não diz: resolvido e satisfeito são coisas diferentes. Quase metade de quem teve o caso encerrado não voltaria a comprar, e o problema mais citado é \"produto não recebido\", seguido das taças. Há relatos de produto falsificado no perfil; são relatos de consumidores, sem confirmação, e pesa do outro lado a loja estar no localizador da Le Creuset. Para peça de alto valor, a orientação é a de qualquer loja: guarde a nota fiscal e confira a peça ao receber.",
+          "Entre os avaliadores do recorte usado na tabela, 54% disseram que voltariam a comprar. O índice de solução não mede a satisfação de todos os clientes. No histórico de até 3 anos, produto não recebido é o tema mais citado, seguido das taças;. Relatos de falsificação são alegações de consumidores, sem confirmação; a presença no localizador Le Creuset é um dado separado. Guarde a nota fiscal e confira a peça ao receber.",
           "A política de troca ajuda: 30 dias da entrega para devolver, com reembolso integral ou crédito na loja sem validade, frete grátis na devolução, promoção que também pode ser devolvida e defeito coberto por 90 dias. Há também um texto padrão de reembolso com regras diferentes: se uma regra decidir a sua compra, peça a confirmação por escrito ao atendimento. A loja física é a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h, sem agendamento; quem mora perto troca ali, mas o pedido do site não pode ser retirado lá. O CNPJ completo, as políticas e o que observar antes de comprar estão em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel)."
         ],
         "images": [
@@ -180368,7 +180372,7 @@ export const reviewsData: unknown[] = [
           "Para presente de casamento ou de quem cozinha, a loja tem as faixas numa vitrine só, com troca em 30 dias da entrega.",
           "Não vale para quem precisa da peça em poucos dias: a entrega leva de 5 a 10 dias úteis depois do despacho, e sobe em promoção.",
           "Não vale para quem quer frete grátis em qualquer pedido: na compra, a política padrão só cita Le Creuset e Zwilling acima de R$ 1.000.",
-          "Pense duas vezes no cristal se o pedido vai longe: taças são o que mais quebra no caminho, e a reposição depende das fotos no dia da chegada."
+          "Se o presente é de cristal e tem data marcada, deixe margem para resolver eventual avaria. A política prevê reposição de avaria com fotos; fotografe a peça e a embalagem ao receber."
         ],
         "emphasis": "Se fosse para a minha casa, eu levaria a Le Creuset e a louça pela Let's Eat It; o cristal, eu pediria com tempo de sobra."
       },
