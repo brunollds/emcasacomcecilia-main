@@ -29244,17 +29244,17 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "pros": [
       "Código de influenciador que soma até 5% extra aos cupons promocionais elegíveis",
-      "Pode ser usado junto com cupons promocionais elegíveis no site",
+      "Válido tanto na primeira compra (5% extra) quanto em pedidos recorrentes (2% extra)",
       "Frete grátis a partir de um valor mínimo, que aparece no checkout",
       "Catálogo extenso de K-Beauty, moda coreana e J-Beauty",
-      "Produtos 100% autênticos, distribuidora autorizada",
+      "A YesStyle declara ser revendedora autorizada de mais de 400 marcas de beleza coreana",
       "Site com navegação e checkout em português"
     ],
     "cons": [
       "Não substitui os cupons normais (funciona em campo separado)",
       "Pedidos internacionais podem gerar taxas alfandegárias; verifique a política de reembolso da YesStyle antes de comprar",
       "Compra internacional: o prazo de entrega é maior que o de uma loja nacional",
-      "Preços finais cotados em dólar (sujeito à variação cambial)"
+      "Preços e cobrança convertidos pelo câmbio interno da YesStyle, sujeitos a taxas de compra internacional do banco"
     ],
     "contentSections": [
       {
@@ -29428,11 +29428,11 @@ export const reviewsData: unknown[] = [
           "O CECILIA010 é cupom ou código de recompensa? Ele funciona como código de recompensa/influenciador da YesStyle e oferece até 5% extra (5% 1ª compra / 2% recorrente) quando aplicado no campo correto. A vantagem é que pode ser usado junto com cupons elegíveis.",
           "Posso somar o CECILIA010 ao cupom da promoção do mês? Sim! Ele vai no campo \"Reward Code\", enquanto os cupons vão no campo \"Coupon Code\". Assim, você soma até 5% extra (5% na primeira compra e 2% em compras recorrentes) aos cupons promocionais elegíveis confirmados no checkout.",
           "O CECILIA010 tem validade? Funciona enquanto o programa de influenciadores da YesStyle estiver ativo e o código for verificado regularmente.",
-          "Comprar na YesStyle é seguro? Sim. Empresa legítima desde 2006, atende mais de 150 países e regiões, produtos autênticos, criptografia SSL.",
+          "Comprar na YesStyle é seguro? A empresa é legítima: é de Hong Kong e existe desde 2006. Isso não garante que os produtos sejam originais; veja o que conferir antes da compra em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel).",
           "Quanto tempo demora para chegar no Brasil? A entrega da YesStyle no Brasil está suspensa temporariamente; a situação atualizada está em [YesStyle entrega no Brasil e em Portugal?](/reviews/yesstyle-entrega-no-brasil-e-portugal). Quando a entrega está disponível, o prazo aparece no checkout, e a alfândega pode somar alguns dias.",
           "Vou pagar taxa de importação? Pode acontecer. Pela [política da YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), pedidos abaixo de US$ 1.000 (antes do cupom e sem o frete) podem ter os impostos e taxas alfandegárias devolvidos em Crédito da Loja: você paga, guarda o comprovante e pede em até 30 dias, contados da data do comprovante de pagamento.",
           "Qual a melhor forma de pagar? Cartão de crédito internacional (Visa, Mastercard, Amex) ou PayPal. A YesStyle deixa escolher a moeda do pedido e converte pelo [câmbio interno dela](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fixado no momento do pedido; o banco ou a operadora do cartão podem cobrar tarifa de compra internacional.",
-          "Os produtos são originais? Sim. A YesStyle é distribuidora autorizada das marcas. Compra diretamente dos fabricantes ou distribuidores oficiais.",
+          "Os produtos da YesStyle são originais ou falsificados? A YesStyle afirma ser revendedora autorizada de mais de 400 marcas de beleza coreana, comprando das fabricantes ou de distribuidores autorizados. Não encontramos auditoria independente que confirme isso; na entrega, confira lote, validade e lacre.",
           "Posso devolver produtos? A política é limitada para compras internacionais. Produtos com defeito ou envio errado podem ser devolvidos. Produtos de K-beauty (skincare, maquiagem) geralmente não podem ser devolvidos por questões de higiene, a menos que estejam selados.",
           "O que é o Elite Club? É o programa de fidelidade da YesStyle. O nível Bronze vem com o primeiro pedido, o Silver com US$ 100 em compras acumuladas e o Gold com US$ 500; cada nível rende mais YS Points por dólar e dá cupons de 12% OFF. O CECILIA010 continua no campo Reward Code, em qualquer nível.",
           "O site tem versão em português? Sim! No topo do site você pode selecionar o idioma para português.",
@@ -29698,17 +29698,17 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "pros": [
       "Influencer code that adds up to 5% extra on top of eligible promo coupons",
-      "Can be used together with eligible promo coupons on the site",
+      "Valid for both first-time buyers (5% extra) and repeat orders (2% extra)",
       "Free shipping from a minimum order value, shown at checkout",
       "Huge catalog of K-Beauty, Korean fashion and J-Beauty",
-      "100% authentic products, authorized distributor",
+      "YesStyle says it is an authorized reseller of more than 400 Korean beauty brands",
       "Language selector at the top of the site"
     ],
     "cons": [
       "Does not replace regular coupons (it works in a separate field)",
       "International orders may incur customs fees; check YesStyle's refund policy before buying",
       "International purchase: delivery takes longer than from a local store",
-      "Final prices quoted in US dollars (subject to exchange-rate swings)"
+      "Prices converted via YesStyle's internal exchange rate, subject to possible foreign transaction fees from your bank"
     ],
     "contentSections": [
       {
@@ -29874,10 +29874,10 @@ export const reviewsData: unknown[] = [
           "Is CECILIA010 a coupon or a Reward Code? It works as a YesStyle Reward Code/influencer code and gives up to 5% extra (5% 1st order / 2% repeat) when applied in the right field. The advantage is that it can be used together with eligible coupons.",
           "Can I stack CECILIA010 with the month's promo coupon? Yes! It goes in the \"Reward Code\" field, while coupons go in the \"Coupon Code\" field. That way you add up to 5% extra (5% on the first order and 2% on repeat orders) to the eligible promo coupons confirmed at checkout.",
           "Does CECILIA010 expire? It works as long as YesStyle's influencer program is active and the code is checked regularly.",
-          "Is it safe to buy on YesStyle? Yes. A legitimate company since 2006, serving more than 150 countries and regions, with authentic products and SSL encryption.",
+          "Is it safe to buy on YesStyle? The company is legitimate: it is based in Hong Kong and has operated since 2006. That does not guarantee the products are original; see what to check before ordering in [Is YesStyle legit and safe?](/en/reviews/is-yesstyle-legit-and-safe-review).",
           "Will I pay import tax? It can happen. Under [YesStyle's policy](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), orders under US$ 1,000 (before the coupon and without shipping) may get customs taxes and fees back as YesStyle Credit: you pay, keep the receipt and ask within 30 days of the date on the proof of payment.",
           "What is the best way to pay? International credit card (Visa, Mastercard, Amex) or PayPal. YesStyle lets you choose the order currency and converts at [its own internal exchange rate](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), set when the order is placed; your bank or card issuer may add a foreign transaction fee.",
-          "Are the products original? Yes. YesStyle is an authorized distributor of the brands. It buys directly from manufacturers or official distributors.",
+          "Are YesStyle products authentic or counterfeit? YesStyle says it is an authorized reseller of more than 400 Korean beauty brands, buying from the manufacturers or from authorized distributors. We found no independent audit confirming this; on delivery, check the batch number, expiry date and seal.",
           "Can I return products? The policy is limited for international purchases. Defective or wrongly shipped products can be returned. K-beauty products (skincare, makeup) generally cannot be returned for hygiene reasons, unless they are sealed.",
           "What is the Elite Club? It is YesStyle's loyalty program. Bronze comes with any order of at least US$ 1 after coupons and points, Silver with US$ 100 in accumulated purchases and Gold with US$ 500; each tier earns more YS Points per US$ 1 and gives 12% OFF coupons. CECILIA010 stays in the Reward Code field at any tier.",
           "Does the site have other languages? Yes! At the top of the site you can switch the language.",
@@ -29927,17 +29927,17 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "pros": [
       "Código de influencer que suma hasta un 5% extra a los cupones promocionales elegibles",
-      "Se puede usar junto con cupones promocionales elegibles en el sitio",
+      "Válido tanto en la primera compra (5% extra) como en pedidos recurrentes (2% extra)",
       "Envío gratis a partir de un importe mínimo, que aparece en el checkout",
       "Amplio catálogo de K-Beauty, moda coreana y J-Beauty",
-      "Productos 100% auténticos, distribuidor autorizado",
+      "YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana",
       "Selector de idioma en la parte superior del sitio"
     ],
     "cons": [
       "No sustituye a los cupones normales (funciona en un campo aparte)",
       "Los pedidos internacionales pueden generar tasas de aduana; revisa la política de reembolso de YesStyle antes de comprar",
       "Compra internacional: el plazo de entrega es mayor que el de una tienda local",
-      "Precios finales en dólares (sujetos a la variación del tipo de cambio)"
+      "Precios convertidos con el tipo de cambio interno de YesStyle, sujetos a posibles comisiones internacionales del banco"
     ],
     "contentSections": [
       {
@@ -30103,10 +30103,10 @@ export const reviewsData: unknown[] = [
           "¿CECILIA010 es un cupón o un código de recompensa? Funciona como código de recompensa/influencer de YesStyle y ofrece hasta un 5% extra (5% 1.ª compra / 2% recurrente) cuando se aplica en el campo correcto. La ventaja es que se puede usar junto con cupones elegibles.",
           "¿Puedo sumar CECILIA010 al cupón de la promoción del mes? ¡Sí! Va en el campo \"Reward Code\", mientras que los cupones van en el campo \"Coupon Code\". Así sumas hasta un 5% extra (5% en la primera compra y 2% en las compras recurrentes) a los cupones promocionales elegibles confirmados en el checkout.",
           "¿CECILIA010 tiene vigencia? Funciona mientras el programa de influencers de YesStyle esté activo y el código se verifique con regularidad.",
-          "¿Es seguro comprar en YesStyle? Sí. Es una empresa legítima desde 2006, atiende a más de 150 países y regiones, vende productos auténticos y usa cifrado SSL.",
+          "¿Es seguro comprar en YesStyle? La empresa es legítima: tiene sede en Hong Kong y fue fundada en 2006. Eso no garantiza que los productos sean originales; mira qué revisar antes de comprar en [¿YesStyle es confiable y seguro?](/es/reviews/es-yesstyle-de-fiar-y-seguro).",
           "¿Pagaré tasa de importación? Puede ocurrir. Según la [política de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), los pedidos de menos de US$ 1.000 (antes del cupón y sin el envío) pueden recuperar los impuestos y tasas aduaneras como crédito de YesStyle: pagas, guardas el comprobante y lo pides en un plazo de 30 días, contados desde la fecha del comprobante de pago.",
           "¿Cuál es la mejor forma de pagar? Tarjeta de crédito internacional (Visa, Mastercard, Amex) o PayPal. YesStyle permite elegir la moneda del pedido y convierte con [su propio tipo de cambio interno](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fijado al hacer el pedido; tu banco o el emisor de la tarjeta pueden cobrar una comisión por compra internacional.",
-          "¿Los productos son originales? Sí. YesStyle es distribuidor autorizado de las marcas. Compra directamente a los fabricantes o a distribuidores oficiales.",
+          "¿Los productos de YesStyle son originales o falsificados? YesStyle afirma ser revendedora autorizada de más de 400 marcas de belleza coreana y comprar a los fabricantes o a distribuidores autorizados. No encontramos una auditoría independiente que lo confirme; al recibir el pedido, comprueba el lote, la caducidad y el precinto.",
           "¿Puedo devolver productos? La política es limitada para las compras internacionales. Los productos defectuosos o enviados por error se pueden devolver. Los productos de K-beauty (cuidado de la piel, maquillaje) generalmente no se pueden devolver por motivos de higiene, salvo que estén sellados.",
           "¿Qué es el Elite Club? Es el programa de fidelidad de YesStyle. El nivel Bronze llega con cualquier pedido de al menos US$ 1 después de cupones y puntos, el Silver con US$ 100 en compras acumuladas y el Gold con US$ 500; cada nivel da más YS Points por cada US$ 1 y cupones de 12% OFF. CECILIA010 sigue en el campo Reward Code, en cualquier nivel.",
           "¿El sitio tiene otros idiomas? ¡Sí! En la parte superior del sitio puedes cambiar el idioma.",
@@ -30156,17 +30156,17 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "pros": [
       "Code d'influenceuse qui ajoute jusqu'à 5 % en plus des coupons promotionnels éligibles",
-      "Utilisable avec les coupons promotionnels éligibles du site",
+      "Valable aussi bien pour une première commande (5 % en plus) que pour des achats récurrents (2 % en plus)",
       "Livraison gratuite à partir d'un montant minimum, indiqué au paiement",
       "Vaste catalogue de K-Beauty, de mode coréenne et de J-Beauty",
-      "Produits 100 % authentiques, distributeur agréé",
+      "YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne",
       "Sélecteur de langue en haut du site"
     ],
     "cons": [
       "Ne remplace pas les coupons classiques (il s'utilise dans un champ séparé)",
       "Les commandes internationales peuvent entraîner des frais de douane ; consultez la politique de remboursement de YesStyle avant d'acheter",
       "Achat international : le délai de livraison est plus long que dans une boutique locale",
-      "Prix finaux indiqués en dollars (soumis aux variations du taux de change)"
+      "Prix convertis selon le taux de change interne de YesStyle, avec d'éventuels frais bancaires pour paiement à l'étranger"
     ],
     "contentSections": [
       {
@@ -30332,10 +30332,10 @@ export const reviewsData: unknown[] = [
           "CECILIA010 est-il un coupon ou un code de récompense ? Il fonctionne comme un code de récompense/d'influenceuse YesStyle et offre jusqu'à 5 % en plus (5 % 1re commande / 2 % suivantes) lorsqu'il est appliqué dans le bon champ. L'avantage, c'est qu'il peut être utilisé avec les coupons éligibles.",
           "Puis-je cumuler CECILIA010 avec le coupon de la promotion du mois ? Oui ! Il se saisit dans le champ « Reward Code », tandis que les coupons vont dans le champ « Coupon Code ». Vous ajoutez ainsi jusqu'à 5 % en plus (5 % sur la première commande et 2 % sur les suivantes) aux coupons promotionnels éligibles confirmés au paiement.",
           "CECILIA010 a-t-il une date de validité ? Il fonctionne tant que le programme d'influenceurs de YesStyle est actif et que le code est vérifié régulièrement.",
-          "Est-il sûr d'acheter sur YesStyle ? Oui. C'est une entreprise légitime depuis 2006, présente dans plus de 150 pays et régions, avec des produits authentiques et un chiffrement SSL.",
+          "Est-il sûr d'acheter sur YesStyle ? L'entreprise est légitime : elle est basée à Hong Kong et a été fondée en 2006. Cela ne garantit pas que les produits soient originaux ; voyez ce qu'il faut vérifier avant de commander dans [YesStyle est-il fiable et sûr ?](/fr/reviews/yesstyle-est-il-fiable-et-sur).",
           "Vais-je payer des taxes d'importation ? Cela peut arriver. Selon la [politique de YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), les commandes de moins de 1 000 US$ (avant le coupon et hors livraison) peuvent se faire rembourser les taxes et frais de douane sous forme de crédit YesStyle : vous payez, conservez le justificatif et en faites la demande dans les 30 jours suivant la date du justificatif de paiement.",
           "Quel est le meilleur moyen de paiement ? Carte de crédit internationale (Visa, Mastercard, Amex) ou PayPal. YesStyle permet de choisir la devise de la commande et convertit selon [son propre taux de change interne](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fixé au moment de la commande ; votre banque ou l'émetteur de la carte peuvent facturer des frais sur les achats à l'étranger.",
-          "Les produits sont-ils originaux ? Oui. YesStyle est distributeur agréé des marques. Il achète directement auprès des fabricants ou des distributeurs officiels.",
+          "Les produits YesStyle sont-ils authentiques ou contrefaits ? YesStyle affirme être revendeur agréé de plus de 400 marques de beauté coréenne, en achetant auprès des fabricants ou de distributeurs autorisés. Nous n'avons trouvé aucun audit indépendant qui le confirme ; à la livraison, vérifiez le lot, la date de péremption et le scellé.",
           "Puis-je retourner des produits ? La politique est limitée pour les achats internationaux. Les produits défectueux ou envoyés par erreur peuvent être retournés. Les produits de K-beauty (soins, maquillage) ne peuvent généralement pas être retournés pour des raisons d'hygiène, sauf s'ils sont scellés.",
           "Qu'est-ce que l'Elite Club ? C'est le programme de fidélité de YesStyle. Le niveau Bronze arrive avec toute commande d'au moins 1 US$ après coupons et points, le Silver avec 100 US$ d'achats cumulés et le Gold avec 500 US$ ; chaque niveau rapporte plus de YS Points par dollar et donne des coupons de 12 % OFF. CECILIA010 reste dans le champ Reward Code, quel que soit le niveau.",
           "Le site existe-t-il dans d'autres langues ? Oui ! En haut du site, vous pouvez changer la langue.",
@@ -30385,17 +30385,17 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "pros": [
       "Influencer-Code, der sich mit berechtigten Aktionsgutscheinen kombinieren lässt und bis zu 5 % extra bringt",
-      "Lässt sich zusammen mit berechtigten Aktionsgutscheinen auf der Website nutzen",
+      "Gilt sowohl für die Erstbestellung (5 % extra) als auch für Folgekäufe (2 % extra)",
       "Kostenloser Versand ab einem Mindestbestellwert, der im Checkout angezeigt wird",
       "Großes Sortiment an K-Beauty, koreanischer Mode und J-Beauty",
-      "100 % originale Produkte, autorisierter Händler",
+      "YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein",
       "Sprachauswahl oben auf der Website"
     ],
     "cons": [
       "Ersetzt die normalen Gutscheine nicht (funktioniert in einem separaten Feld)",
       "Internationale Bestellungen können Zollgebühren verursachen; prüfen Sie die Erstattungsrichtlinie von YesStyle, bevor Sie kaufen",
       "Internationaler Einkauf: Die Lieferzeit ist länger als bei einem lokalen Shop",
-      "Endpreise in Dollar angegeben (abhängig von Wechselkursschwankungen)"
+      "Preise werden zum internen YesStyle-Wechselkurs umgerechnet; Banken können Auslandsentgelte erheben"
     ],
     "contentSections": [
       {
@@ -30561,10 +30561,10 @@ export const reviewsData: unknown[] = [
           "Ist CECILIA010 ein Gutschein oder ein Belohnungscode? Er funktioniert als Belohnungs-/Influencer-Code von YesStyle und bringt bis zu 5 % extra (5 % 1. Bestellung / 2 % Folgebestellungen), wenn er im richtigen Feld eingegeben wird. Der Vorteil: Er lässt sich zusammen mit berechtigten Gutscheinen nutzen.",
           "Kann ich CECILIA010 mit dem Gutschein der Monatsaktion kombinieren? Ja! Er kommt ins Feld „Reward Code“, die Gutscheine ins Feld „Coupon Code“. So kommen bis zu 5 % extra (5 % auf die erste Bestellung und 2 % auf Folgebestellungen) zu den berechtigten Aktionsgutscheinen hinzu, die im Checkout bestätigt werden.",
           "Hat CECILIA010 ein Ablaufdatum? Er funktioniert, solange das Influencer-Programm von YesStyle aktiv ist und der Code regelmäßig geprüft wird.",
-          "Ist der Einkauf bei YesStyle sicher? Ja. Seriöses Unternehmen seit 2006, beliefert mehr als 150 Länder und Regionen, originale Produkte, SSL-Verschlüsselung.",
+          "Ist der Einkauf bei YesStyle sicher? Das Unternehmen ist seriös: Es stammt aus Hongkong und wurde 2006 gegründet. Das garantiert aber nicht, dass die Produkte original sind; was Sie vor der Bestellung prüfen können, steht in [Ist YesStyle seriös und sicher?](/de/reviews/ist-yesstyle-serioes-und-sicher).",
           "Muss ich Einfuhrabgaben zahlen? Das kann vorkommen. Nach der [Richtlinie von YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212) können bei Bestellungen unter US$ 1.000 (vor Abzug des Gutscheins und ohne Versand) Steuern und Zollgebühren als Store Credit erstattet werden: Sie zahlen, bewahren den Beleg auf und stellen den Antrag innerhalb von 30 Tagen, gerechnet ab dem Datum des Zahlungsbelegs.",
           "Wie bezahle ich am besten? Internationale Kreditkarte (Visa, Mastercard, Amex) oder PayPal. YesStyle lässt Sie die Währung der Bestellung wählen und rechnet zum [eigenen internen Wechselkurs](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708) um, der bei der Bestellung festgelegt wird; Ihre Bank oder Ihr Kartenanbieter kann eine Auslandseinsatzgebühr berechnen.",
-          "Sind die Produkte original? Ja. YesStyle ist autorisierter Händler der Marken und kauft direkt bei den Herstellern oder offiziellen Distributoren ein.",
+          "Sind die Produkte von YesStyle original oder gefälscht? YesStyle gibt an, autorisierter Wiederverkäufer von mehr als 400 koreanischen Kosmetikmarken zu sein und bei den Herstellern oder bei autorisierten Händlern einzukaufen. Eine unabhängige Prüfung, die das bestätigt, haben wir nicht gefunden; kontrollieren Sie bei der Lieferung Charge, Haltbarkeitsdatum und Siegel.",
           "Kann ich Produkte zurückgeben? Bei internationalen Käufen ist die Richtlinie eingeschränkt. Defekte oder falsch gelieferte Produkte können zurückgegeben werden. K-Beauty-Produkte (Skincare, Make-up) können aus hygienischen Gründen in der Regel nicht zurückgegeben werden, es sei denn, sie sind versiegelt.",
           "Was ist der Elite Club? Das Treueprogramm von YesStyle. Die Stufe Bronze erreichen Sie mit der ersten Bestellung, Silver mit US$ 100 und Gold mit US$ 500 an kumulierten Einkäufen; jede Stufe bringt mehr YS Points pro Dollar und Gutscheine über 12 % Rabatt. CECILIA010 bleibt auf jeder Stufe im Feld Reward Code.",
           "Gibt es die Website in anderen Sprachen? Ja! Oben auf der Seite können Sie die Sprache wechseln.",
@@ -30611,17 +30611,17 @@ export const reviewsData: unknown[] = [
     "imageAlt": "밝은 테이블 위에 놓인 YesStyle의 K-beauty·한국 스킨케어 제품.",
     "pros": [
       "적격 프로모션 쿠폰에 최대 5%가 더해지는 인플루언서 코드",
-      "사이트의 적격 프로모션 쿠폰과 함께 사용 가능",
+      "첫 구매(5% 추가)는 물론 기존 계정의 재구매(2% 추가)에도 계속 적용 가능",
       "일정 금액 이상 무료 배송(최소 금액은 결제 화면에 표시)",
       "K-Beauty, 한국 패션, J-Beauty까지 폭넓은 카탈로그",
-      "100% 정품, 공식 유통사",
+      "YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체라고 밝힙니다",
       "사이트 상단의 언어 선택"
     ],
     "cons": [
       "일반 쿠폰을 대신하지 않음(별도의 칸에 입력)",
       "해외 주문은 관세 등 비용이 붙을 수 있으니 구매 전에 YesStyle의 환불 정책을 확인하세요",
       "해외 직구라서 현지 쇼핑몰보다 배송 기간이 긺",
-      "최종 가격은 달러로 표시됨(환율에 따라 달라짐)"
+      "결제 금액은 YesStyle 자체 환율로 환산되며, 카드사나 은행의 해외 이용 수수료가 부과될 수 있음"
     ],
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -30801,10 +30801,10 @@ export const reviewsData: unknown[] = [
           "CECILIA010은 쿠폰인가요, 리워드 코드인가요? YesStyle의 리워드/인플루언서 코드로 작동하며, 올바른 칸에 입력하면 최대 5%(첫 구매 5% / 재구매 2%)가 추가됩니다. 적격 쿠폰과 함께 쓸 수 있다는 것이 장점입니다.",
           "CECILIA010을 이달의 프로모션 쿠폰과 함께 쓸 수 있나요? 네! CECILIA010은 'Reward Code' 칸에, 쿠폰은 'Coupon Code' 칸에 입력합니다. 이렇게 결제 화면에서 확인되는 적격 프로모션 쿠폰에 최대 5%(첫 구매 5%, 재구매 2%)를 더할 수 있습니다.",
           "CECILIA010에는 유효 기간이 있나요? YesStyle 인플루언서 프로그램이 활성 상태이고 코드가 정기적으로 확인되는 동안 사용할 수 있습니다.",
-          "YesStyle에서 구매해도 안전한가요? 네. 2006년부터 운영된 정식 기업이고, 150개가 넘는 국가와 지역에 서비스하며, 정품을 판매하고 SSL 암호화를 사용합니다.",
+          "YesStyle에서 구매해도 안전한가요? 회사는 2006년에 설립된 실제 홍콩 기업입니다. 다만 그것이 제품이 정품이라는 보장은 아닙니다. 구매 전에 확인할 점은 [YesStyle 신뢰할 수 있을까?](/ko/reviews/yesstyle-trust-guide-ko)에서 살펴보세요.",
           "수입세를 내야 하나요? 그럴 수 있습니다. YesStyle [정책](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)에 따르면 US$ 1,000 미만 주문(쿠폰 할인 전, 배송비 제외)은 수입세 등을 스토어 크레딧으로 환급받을 수 있습니다. 먼저 결제하고 영수증을 보관한 뒤, 결제 영수증 날짜부터 30일 이내에 신청하세요.",
           "가장 좋은 결제 방법은 무엇인가요? 국제 신용카드(Visa, Mastercard, Amex) 또는 PayPal입니다. YesStyle에서는 주문 통화를 고를 수 있고, 환산은 주문 시점의 [YesStyle 자체 환율](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)로 정해집니다. 은행이나 카드사가 해외 결제 수수료를 따로 청구할 수 있습니다.",
-          "제품은 정품인가요? 네. YesStyle은 각 브랜드의 공식 유통사로, 제조사나 공식 유통사에서 직접 매입합니다.",
+          "YesStyle 제품은 정품인가요, 가품인가요? YesStyle은 400개가 넘는 한국 뷰티 브랜드의 공식 판매업체이며 제조사 또는 제조사가 인정한 유통업체에서 매입한다고 밝힙니다. 이 주장을 뒷받침하는 독립적인 감사는 찾지 못했으니, 받으면 로트 번호, 유통기한, 봉인 상태를 확인하세요.",
           "제품을 반품할 수 있나요? 해외 구매는 반품 조건이 제한적입니다. 불량품이나 오배송 제품은 반품할 수 있습니다. K-beauty 제품(스킨케어, 메이크업)은 위생상의 이유로 밀봉된 경우가 아니면 보통 반품할 수 없습니다.",
           "Elite Club이 무엇인가요? YesStyle의 멤버십 프로그램입니다. Bronze는 US$ 1 이상 주문, Silver는 누적 US$ 100, Gold는 누적 US$ 500으로 달성하며, 등급이 오를수록 YS Point가 늘고 12% OFF 쿠폰도 받습니다. CECILIA010은 어느 등급에서든 Reward Code 칸에 입력합니다.",
           "사이트에서 다른 언어도 지원하나요? 네! 사이트 상단에서 언어를 바꿀 수 있습니다.",
@@ -30840,17 +30840,17 @@ export const reviewsData: unknown[] = [
     "imageAlt": "YesStyleのK-beautyと韓国スキンケア商品が明るいテーブルに並んでいる様子。",
     "pros": [
       "対象のプロモーションクーポンに加えて、最大5%が上乗せされるインフルエンサーコード",
-      "サイト上の対象プロモーションクーポンと併用できる",
+      "初回購入（5%オフ）だけでなく、既存アカウントのリピート注文（2%オフ）にも継続して適用可能",
       "一定額以上で送料無料(最低金額はチェックアウトに表示)",
       "K-Beauty、韓国ファッション、J-Beautyの豊富なラインナップ",
-      "100%正規品、公認ディストリビューター",
+      "YesStyleは400以上の韓国コスメブランドの正規販売店だと述べています",
       "サイト上部の言語切り替え"
     ],
     "cons": [
       "通常のクーポンの代わりにはならない(別の欄に入力します)",
       "海外からの注文には関税などがかかる場合があります。購入前にYesStyleの返金ポリシーを確認してください",
       "海外通販なので、地元のショップより届くまでに時間がかかる",
-      "最終価格はドル表示(為替レートによって変動します)"
+      "決済額はYesStyle独自の為替レートで換算され、カード会社や銀行の海外利用手数料がかかる場合がある"
     ],
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -31030,10 +31030,10 @@ export const reviewsData: unknown[] = [
           "CECILIA010はクーポンですか、リワードコードですか？YesStyleのリワードコード/インフルエンサーコードとして使え、正しい欄に入力すると最大5%(初回購入5% / リピーター2%)が追加されます。対象のクーポンと併用できるのが強みです。",
           "CECILIA010は月のプロモーションクーポンと併用できますか？はい！CECILIA010は「Reward Code」欄、クーポンは「Coupon Code」欄に入力します。こうして、チェックアウトで確認できた対象のプロモーションクーポンに、最大5%(初回購入5%、2回目以降の購入2%)を上乗せできます。",
           "CECILIA010に有効期限はありますか？YesStyleのインフルエンサープログラムが続き、コードが定期的に確認されているかぎり使えます。",
-          "YesStyleで買い物しても安全ですか？はい。2006年創業の正規の企業で、150を超える国と地域に対応し、商品は正規品、通信はSSLで暗号化されています。",
+          "YesStyleで買い物しても安全ですか？会社は2006年創業の香港企業で、実在します。ただし、それは商品が正規品であることの保証にはなりません。購入前に確認したい点は[YesStyleは安全？信頼性と評判](/ja/reviews/yesstyle-trust-guide-ja)をご覧ください。",
           "輸入税はかかりますか？かかる場合があります。YesStyleの[ポリシー](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)では、1,000米ドル未満の注文(クーポン割引前、送料を除く)は、輸入税などをストアクレジットで返金してもらえる場合があります。先に支払って領収書を保管し、領収書の支払日から30日以内に申請してください。",
           "支払い方法は何がおすすめですか？国際ブランドのクレジットカード(Visa、Mastercard、Amex)またはPayPalです。YesStyleでは注文の通貨を選べ、換算は[YesStyle独自の為替レート](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)で注文時に確定します。海外利用手数料は銀行やカード会社が別に請求する場合があります。",
-          "商品は正規品ですか？はい。YesStyleは各ブランドの公認ディストリビューターで、メーカーや公式ディストリビューターから直接仕入れています。",
+          "YesStyleの商品は本物ですか、偽物ですか？YesStyleは、400以上の韓国コスメブランドの正規販売店であり、メーカーまたはメーカーが認めた販売元から仕入れていると述べています。この主張を裏付ける第三者の監査は見つかっていません。届いたら、ロット番号、使用期限、封の状態を確認してください。",
           "返品はできますか？海外からの購入では返品の条件が限られます。不良品や誤配送は返品できます。K-beauty商品(スキンケア、メイクアップ)は、衛生上の理由から、未開封でないかぎり通常は返品できません。",
           "Elite Clubとは何ですか？YesStyleのロイヤルティプログラムです。Bronzeは1米ドル以上の注文、Silverは累計100米ドル、Goldは累計500米ドルで到達し、レベルが上がるほどYS Pointが増えて12% OFFクーポンももらえます。CECILIA010は、どのレベルでもReward Code欄に入力します。",
           "サイトは他の言語にも対応していますか？はい！サイト上部で言語を切り替えられます。",
@@ -31069,17 +31069,17 @@ export const reviewsData: unknown[] = [
     "imageAlt": "擺在淺色桌面上的 YesStyle 韓系美妝與韓式保養產品。",
     "pros": [
       "網紅代碼，可在符合資格的促銷優惠券之外再疊加高達 5% 的優惠",
-      "可與網站上符合資格的促銷優惠券同時使用",
+      "首購（額外 5%）與現有帳號的回購訂單（額外 2%）皆可持續適用",
       "滿一定金額即享免運費，門檻會顯示在結帳頁",
       "商品豐富：韓系美妝、韓國服飾與日系美妝",
-      "商品 100% 正品，為授權經銷商",
+      "YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商",
       "網站頂端可切換語言"
     ],
     "cons": [
       "無法取代一般優惠券（要填在另一個欄位）",
       "跨境訂單可能產生關稅等費用，下單前請先查看 YesStyle 的退款政策",
       "屬於跨境購物，送達時間比本地商店更久",
-      "最終價格以美元計價（會受匯率波動影響）"
+      "結帳金額依 YesStyle 內部匯率換算，銀行或發卡機構可能另收海外交易手續費"
     ],
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -31259,10 +31259,10 @@ export const reviewsData: unknown[] = [
           "CECILIA010 是優惠券還是獎勵碼？它是 YesStyle 的獎勵碼/網紅代碼，填在正確的欄位後可額外享高達 5% 優惠（首購 5% / 回購 2%）。好處是可以和符合資格的優惠券一起使用。",
           "CECILIA010 可以和當月的促銷優惠券疊加嗎？可以！它填在「Reward Code」欄位，優惠券填在「Coupon Code」欄位。這樣就能在結帳頁確認符合資格的促銷優惠券之上，再額外享高達 5% 優惠（首購 5%，回購 2%）。",
           "CECILIA010 有有效期限嗎？只要 YesStyle 的網紅計畫仍在進行，並且代碼經過定期確認，它就有效。",
-          "在 YesStyle 購物安全嗎？安全。這是一家 2006 年起營運的正規公司，服務 150 多個國家和地區，商品為正品，並採用 SSL 加密。",
+          "在 YesStyle 購物安全嗎？YesStyle 是 2006 年起營運的香港公司，公司本身真實存在。但這不代表商品為正品；下單前該核對什麼，請見[YesStyle 值得信賴嗎？](/zh-hant/reviews/yesstyle-trust-guide-zh-hant)。",
           "我要繳納進口關稅嗎？有可能。依 YesStyle 的[政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的訂單（優惠券折扣前，不含運費）可憑憑證申請退還進口稅等，以商店餘額形式發放。請先付款並保留憑證，自付款憑證日期起 30 天內申請。",
           "最好用什麼方式付款？國際信用卡（Visa、Mastercard、Amex）或 PayPal。在 YesStyle 可自選訂單幣別，並依[YesStyle 的內部匯率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)在下單時換算；銀行或發卡機構可能另收海外交易手續費。",
-          "商品是正品嗎？是的。YesStyle 是各品牌的授權經銷商，直接向製造商或官方經銷商採購。",
+          "YesStyle 的商品是正品還是仿冒品？YesStyle 表示自己是 400 多個韓國美妝品牌的授權經銷商，貨源來自品牌製造商或其授權的經銷商。我們沒有找到能證實這一點的獨立稽核；收到商品時請檢查批號、有效期限與封條。",
           "可以退貨嗎？跨境訂單的退貨政策有限。有瑕疵或寄錯貨的商品可以退。韓系美妝商品（保養、彩妝）基於衛生考量通常不能退，除非未拆封。",
           "Elite Club 是什麼？YesStyle 的會員計畫。Bronze 需有一筆至少 1 美元的訂單，Silver 需累計消費 100 美元，Gold 需累計 500 美元；等級越高，YS Point 越多，還能領到 12% OFF 優惠券。無論哪個等級，CECILIA010 都填在 Reward Code 欄位。",
           "網站有其他語言版本嗎？有！在網站頂端可以切換語言。",
@@ -31298,17 +31298,17 @@ export const reviewsData: unknown[] = [
     "imageAlt": "摆在浅色桌面上的 YesStyle 韩系美妆与韩式护肤产品。",
     "pros": [
       "达人代码，可在符合条件的促销优惠券之外再叠加高达 5% 的优惠",
-      "可与网站上符合条件的促销优惠券同时使用",
+      "首单（额外 5%）与现有账户的回购订单（额外 2%）均可持续适用",
       "满一定金额即可免运费，门槛会在结账页显示",
       "商品丰富：韩系美妆、韩国时装和日系美妆",
-      "商品 100% 正品，为授权经销商",
+      "YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商",
       "网站顶部可切换语言"
     ],
     "cons": [
       "不能取代一般优惠券（要填在另一个栏位）",
       "跨境订单可能产生关税等费用，下单前请先查看 YesStyle 的退款政策",
       "属于跨境购物，送货时间比本地商店更长",
-      "最终价格以美元计价（会受汇率波动影响）"
+      "结账金额按 YesStyle 内部汇率换算，银行或发卡机构可能另收境外交易手续费"
     ],
     "coupon": "CECILIA010",
     "affiliate": "yesstyle",
@@ -31488,10 +31488,10 @@ export const reviewsData: unknown[] = [
           "CECILIA010 是优惠券还是奖励码？它是 YesStyle 的奖励码/达人代码，填在正确的栏位后可额外享高达 5% 优惠（首单 5% / 回购 2%）。好处是可以和符合条件的优惠券一起使用。",
           "CECILIA010 可以和当月的促销优惠券叠加吗？可以！它填在“Reward Code”栏位，优惠券填在“Coupon Code”栏位。这样就能在结账页确认符合条件的促销优惠券之上，再额外享高达 5% 优惠（首单 5%，回购 2%）。",
           "CECILIA010 有有效期吗？只要 YesStyle 的达人计划仍在进行，并且代码经过定期核实，它就有效。",
-          "在 YesStyle 购物安全吗？安全。这是一家 2006 年起运营的正规公司，服务 150 多个国家和地区，商品为正品，并采用 SSL 加密。",
+          "在 YesStyle 购物安全吗？YesStyle 是 2006 年起运营的香港公司，公司本身真实存在。但这不代表商品为正品；下单前该核对什么，请见[YesStyle 值得信赖吗？](/zh-hans/reviews/yesstyle-trust-guide-zh-hans)。",
           "我要缴纳进口关税吗？有可能。按 YesStyle 的[政策](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212)，1,000 美元以下的订单（优惠券折扣前，不含运费）可凭凭证申请退还进口税等，以商店余额形式发放。请先付款并保留凭证，自付款凭证日期起 30 天内申请。",
           "最好用什么方式付款？国际信用卡（Visa、Mastercard、Amex）或 PayPal。在 YesStyle 可自选订单币种，并按[YesStyle 的内部汇率](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708)在下单时换算；银行或发卡机构可能另收境外交易手续费。",
-          "商品是正品吗？是的。YesStyle 是各品牌的授权经销商，直接向制造商或官方经销商采购。",
+          "YesStyle 的商品是正品还是仿冒品？YesStyle 表示自己是 400 多个韩国美妆品牌的授权经销商，货源来自品牌制造商或其授权的经销商。我们没有找到能证实这一点的独立审核；收货时请核对批号、有效期和封条。",
           "可以退货吗？跨境订单的退货政策有限。有瑕疵或发错货的商品可以退。韩系美妆商品（护肤、彩妆）出于卫生原因通常不能退，除非未拆封。",
           "Elite Club 是什么？YesStyle 的会员计划。Bronze 需有一笔至少 1 美元的订单，Silver 需累计消费 100 美元，Gold 需累计 500 美元；等级越高，YS Point 越多，还能领到 12% OFF 优惠券。无论哪个等级，CECILIA010 都填在 Reward Code 栏位。",
           "网站有其他语言版本吗？有！在网站顶部可以切换语言。",
@@ -42537,9 +42537,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Três fatores empurraram a onda: k-dramas e k-pop, o ritmo de lançamentos e a internet.",
-          "O primeiro é a influência cultural dos k-dramas e do k-pop. Os dois fenômenos conquistaram audiências globais enormes e funcionam como uma vitrine viva da cultura de beleza coreana: quando cenas de novelas mostram personagens em suas rotinas de skincare em casa, ou quando artistas de k-pop aparecem com pele impecável em palco após palco, a pergunta natural que surge é \"como eles fazem isso?\".",
+          "O primeiro fator são os k-dramas e o k-pop: cenas de skincare nas séries e artistas com pele impecável nos palcos aproximam públicos de vários países da cultura de beleza coreana e despertam curiosidade pelos cuidados e produtos.",
           "O segundo fator é a própria cultura das marcas coreanas de beleza, conhecidas pelo ritmo de lançamento e de inovação de ingredientes: novos séruns, ativos e formatos de máscara aparecem com frequência. Com preços muitas vezes mais baixos que os de marcas de luxo com propostas parecidas, isso criou a percepção de que boa parte da novidade em skincare sai da Coreia.",
-          "O terceiro fator é puramente de internet: comunidades de entusiastas de skincare cresceram em plataformas como TikTok, YouTube e Reddit, influenciadores passaram a mostrar unboxings de produtos coreanos com entusiasmo genuíno, resenhas se multiplicaram, e a dinâmica viral transformou K-Beauty de um interesse de nicho em um fenômeno mainstream.",
+          "O terceiro fator é a internet: no TikTok, no YouTube e no Reddit, comunidades de skincare compartilham unboxings e resenhas de produtos coreanos, e essa circulação levou a K-Beauty além dos grupos de entusiastas.",
           "O [Ministério da Cultura da Coreia](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) também descreve vários fatores por trás do crescimento, entre eles a distribuição internacional por varejistas. Nenhum deles explica a onda sozinho."
         ],
         "bullets": []
@@ -42558,7 +42558,9 @@ export const reviewsData: unknown[] = [
         "heading": "Onde a YesStyle entra nisso",
         "paragraphs": [
           "Uma das opções é comprar numa loja multimarcas, como a YesStyle.",
-          "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só. O frete segue a tabela da loja, e o pedido pode sair em mais de um envio, com chegadas em datas diferentes; o prazo estimado soma a disponibilidade dos itens e o envio escolhido, pela [política de entrega da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
+          "A YesStyle funciona como um marketplace centralizado: em vez de ir de marca em marca, você compra várias marcas coreanas, e também japonesas e de outras partes da Ásia, num carrinho só.",
+          "O frete segue a tabela da loja, e o pedido pode sair em mais de um envio, com chegadas em datas diferentes; o prazo estimado soma a disponibilidade dos itens e o envio escolhido, pela [política de entrega da YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+          "A empresa declara em suas informações corporativas ser distribuidora autorizada de mais de 400 marcas de beleza coreana, entre elas nomes como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: uma amostra do tipo de marca disponível, não uma lista fechada, já que o catálogo muda com o tempo.",
           "A plataforma também vai além de skincare: tem moda asiática, maquiagem, acessórios e outras categorias de lifestyle, o que significa que dá para complementar uma compra de sérum com outros itens na mesma transação.",
           "Para comprar com desconto, o código de recompensa CECILIA010 dá 5% na primeira compra e 2% nas seguintes, no campo de código de recompensa (Reward Code) do checkout. O passo a passo para aplicar o código está linkado abaixo. Os cupons da loja mudam; a lista do momento está em [cupons YesStyle e código de recompensa](/cupons/yesstyle).",
           "Para quem só quer testar a fama, juntar várias marcas num pedido simplifica a primeira compra."
@@ -42681,9 +42683,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Three factors drove the wave: K-dramas and K-pop, the pace of launches, and the internet.",
-          "The first is the cultural influence of K-dramas and K-pop. Both phenomena won huge global audiences and work as a living showcase of Korean beauty culture: when TV drama scenes show characters in their skincare routines at home, or when K-pop artists appear with flawless skin on stage after stage, the natural question is “how do they do it?”",
+          "The first factor is K-dramas and K-pop: skincare scenes in the series and artists with flawless skin on stage bring audiences in many countries closer to Korean beauty culture and spark curiosity about the routines and products.",
           "The second factor is the culture of Korean beauty brands itself, known for its pace of launches and ingredient innovation: new serums, new actives and new mask formats appear often. Combined with prices that are often lower than those of luxury brands with similar offerings, this created the perception that much of what is new in skincare comes out of Korea.",
-          "The third factor is purely internet: communities of skincare enthusiasts grew on platforms like TikTok, YouTube and Reddit, influencers began showing unboxings of Korean products with genuine enthusiasm, reviews multiplied, and the viral dynamic turned K-Beauty from a niche interest into a mainstream phenomenon.",
+          "The third factor is the internet: on TikTok, YouTube and Reddit, skincare communities share unboxings and reviews of Korean products, and that circulation helped carry K-Beauty beyond groups of enthusiasts.",
           "The [Korean Ministry of Culture](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) also describes several factors behind the growth, including international distribution by retailers. None of them explains the wave on its own."
         ],
         "bullets": []
@@ -42702,7 +42704,9 @@ export const reviewsData: unknown[] = [
         "heading": "Where YesStyle comes in",
         "paragraphs": [
           "One option is to buy from a multi-brand store such as YesStyle.",
-          "YesStyle works as a centralized marketplace: instead of going from brand to brand, you buy many Korean brands, plus Japanese ones and others from across Asia, in a single cart. Shipping follows the store's rate table, and an order may ship in more than one package, arriving on different dates; the estimated delivery time combines item availability with the shipping method you choose, per the [YesStyle delivery policy](https://www.yesstyle.com/en/help/section.html/hsi.732). In its corporate information, the company states that it is an authorized distributor of more than 400 Korean beauty brands, including names like COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige and Isntree: a sample of the kind of brand available, not a closed list, since the catalog changes over time.",
+          "YesStyle works as a centralized marketplace: instead of going from brand to brand, you buy many Korean brands, plus Japanese ones and others from across Asia, in a single cart.",
+          "Shipping follows the store's rate table, and an order may ship in more than one package, arriving on different dates; the estimated delivery time combines item availability with the shipping method you choose, per the [YesStyle delivery policy](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+          "In its corporate information, the company states that it is an authorized distributor of more than 400 Korean beauty brands, including names like COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige and Isntree: a sample of the kind of brand available, not a closed list, since the catalog changes over time.",
           "The platform also goes beyond skincare: it has Asian fashion, makeup, accessories and other lifestyle categories, which means you can add other items to a serum purchase in the same transaction.",
           "For a discount, the reward code CECILIA010 gives 5% off your first purchase and 2% off later ones, entered in the Reward Code field at checkout. There is a specific step-by-step on how to apply the code, linked below. The store's coupons change; the current list is at [YesStyle coupons and reward code](/en/coupons/yesstyle).",
           "For anyone who just wants to test the hype, combining several brands in one order makes the first purchase simpler."
@@ -42825,9 +42829,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Tres factores impulsaron la ola: los k-dramas y el k-pop, el ritmo de lanzamientos e internet.",
-          "El primero es la influencia cultural de los k-dramas y el k-pop. Ambos fenómenos conquistaron enormes audiencias globales y funcionan como una vitrina viva de la cultura de belleza coreana: cuando las escenas de las series muestran a los personajes en sus rutinas de skincare en casa, o cuando los artistas de k-pop aparecen con la piel impecable en escenario tras escenario, la pregunta natural es «¿cómo lo hacen?».",
+          "El primer factor son los k-dramas y el k-pop: las escenas de skincare en las series y los artistas con la piel impecable en el escenario acercan a públicos de distintos países a la cultura de belleza coreana y despiertan curiosidad por sus cuidados y productos.",
           "El segundo factor es la propia cultura de las marcas coreanas de belleza, conocidas por su ritmo de lanzamientos y de innovación en ingredientes: con frecuencia aparecen nuevos séruns, activos y formatos de mascarilla. Combinado con precios a menudo más bajos que los de marcas de lujo con propuestas parecidas, eso creó la percepción de que buena parte de las novedades del skincare sale de Corea.",
-          "El tercer factor es puramente de internet: las comunidades de entusiastas del skincare crecieron en plataformas como TikTok, YouTube y Reddit, los influencers empezaron a mostrar unboxings de productos coreanos con entusiasmo genuino, las reseñas se multiplicaron y la dinámica viral convirtió el K-Beauty de un interés de nicho en un fenómeno masivo.",
+          "El tercer factor es internet: en TikTok, YouTube y Reddit, las comunidades de skincare comparten unboxings y reseñas de productos coreanos, y esa circulación llevó el K-Beauty más allá de los grupos de aficionados.",
           "El [Ministerio de Cultura de Corea](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) también describe varios factores detrás del crecimiento, entre ellos la distribución internacional a través de minoristas. Ninguno explica la ola por sí solo."
         ],
         "bullets": []
@@ -42846,7 +42850,9 @@ export const reviewsData: unknown[] = [
         "heading": "Dónde entra YesStyle",
         "paragraphs": [
           "Una de las opciones es comprar en una tienda multimarca, como YesStyle.",
-          "YesStyle funciona como un marketplace centralizado: en vez de ir de marca en marca, compras varias marcas coreanas, y también japonesas y de otras partes de Asia, en un solo carrito. El envío se cobra según la tabla de tarifas de la tienda, y el pedido puede salir en más de un paquete, con llegadas en fechas distintas; el plazo estimado suma la disponibilidad de los artículos y el envío elegido, según la [política de entrega de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, entre ellas nombres como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: una muestra del tipo de marca disponible, no una lista cerrada, ya que el catálogo cambia con el tiempo.",
+          "YesStyle funciona como un marketplace centralizado: en vez de ir de marca en marca, compras varias marcas coreanas, y también japonesas y de otras partes de Asia, en un solo carrito.",
+          "El envío se cobra según la tabla de tarifas de la tienda, y el pedido puede salir en más de un paquete, con llegadas en fechas distintas; el plazo estimado suma la disponibilidad de los artículos y el envío elegido, según la [política de entrega de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+          "La empresa declara en su información corporativa ser distribuidora autorizada de más de 400 marcas de belleza coreana, entre ellas nombres como COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: una muestra del tipo de marca disponible, no una lista cerrada, ya que el catálogo cambia con el tiempo.",
           "La plataforma también va más allá del skincare: tiene moda asiática, maquillaje, accesorios y otras categorías de lifestyle, lo que significa que puedes complementar la compra de un sérum con otros artículos en la misma transacción.",
           "Para comprar con descuento, el código de recompensa CECILIA010 da 5% en la primera compra y 2% en las siguientes, en el campo de código de recompensa (Reward Code) del checkout. Hay un paso a paso específico sobre cómo aplicar el código enlazado abajo. Los cupones de la tienda cambian; la lista del momento está en [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle).",
           "Para quien solo quiere probar si la fama es real, juntar varias marcas en un pedido simplifica la primera compra."
@@ -42908,7 +42914,7 @@ export const reviewsData: unknown[] = [
     "id": 268,
     "slug": "k-beauty-tendance-beaute-coreenne",
     "title": "K-Beauty : pourquoi cette tendance beauté coréenne conquiert le monde et où l'acheter",
-    "seoTitle": "K-Beauty : Tendance Beauté Coréenne et Où l'Acheter",
+    "seoTitle": "K-Beauty : tendance beauté coréenne et où l’acheter",
     "type": "Éditorial",
     "reviewKind": "editorial",
     "category": "guias-praticos-utilidade",
@@ -42969,9 +42975,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Trois facteurs ont porté la vague : les k-dramas et la k-pop, le rythme des lancements et internet.",
-          "Le premier est l’influence culturelle des k-dramas et de la k-pop. Ces deux phénomènes ont conquis d’immenses publics mondiaux et servent de vitrine vivante de la culture beauté coréenne : quand des scènes de séries montrent des personnages dans leur routine skincare à la maison, ou quand des artistes de k-pop apparaissent avec une peau impeccable de scène en scène, la question qui vient naturellement est « comment font-ils ? ».",
+          "Le premier facteur, ce sont les k-dramas et la k-pop : les scènes de skincare dans les séries et les artistes à la peau impeccable sur scène rapprochent des publics de plusieurs pays de la culture beauté coréenne et éveillent la curiosité pour les soins et les produits.",
           "Le deuxième facteur est la culture même des marques coréennes de beauté, connues pour leur rythme de lancements et leur innovation sur les ingrédients : de nouveaux sérums, de nouveaux actifs et de nouveaux formats de masques apparaissent souvent. Associé à des prix souvent plus bas que ceux des marques de luxe aux propositions proches, cela a créé l’impression qu’une bonne part des nouveautés du skincare vient de Corée.",
-          "Le troisième facteur relève purement d’internet : des communautés de passionnés de skincare ont grandi sur des plateformes comme TikTok, YouTube et Reddit, des influenceurs se sont mis à montrer des unboxings de produits coréens avec un enthousiasme sincère, les avis se sont multipliés, et la dynamique virale a fait de la K-Beauty, d’un intérêt de niche, un phénomène grand public.",
+          "Le troisième facteur, c’est internet : sur TikTok, YouTube et Reddit, les communautés de passionnés de skincare partagent des unboxings et des avis sur les produits coréens, et cette circulation a porté la K-Beauty au-delà des cercles de passionnés.",
           "Le [ministère de la Culture de Corée](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) décrit aussi plusieurs facteurs derrière cette croissance, dont la distribution internationale par des détaillants. Aucun n’explique la vague à lui seul."
         ],
         "bullets": []
@@ -42990,7 +42996,9 @@ export const reviewsData: unknown[] = [
         "heading": "Où YesStyle intervient",
         "paragraphs": [
           "Une des options consiste à acheter sur une boutique multimarque, comme YesStyle.",
-          "YesStyle fonctionne comme une place de marché centralisée : au lieu d’aller de marque en marque, vous achetez plusieurs marques coréennes, mais aussi japonaises et d’autres régions d’Asie, dans un seul panier. Les frais de port suivent la grille tarifaire de la boutique, et la commande peut partir en plusieurs envois, avec des arrivées à des dates différentes ; le délai estimé combine la disponibilité des articles et le mode d’envoi choisi, selon la [politique de livraison de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). L’entreprise déclare dans ses informations corporatives être distributeur agréé de plus de 400 marques de beauté coréenne, parmi lesquelles COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige et Isntree : un échantillon du type de marques disponibles, pas une liste fermée, puisque le catalogue évolue avec le temps.",
+          "YesStyle fonctionne comme une place de marché centralisée : au lieu d’aller de marque en marque, vous achetez plusieurs marques coréennes, mais aussi japonaises et d’autres régions d’Asie, dans un seul panier.",
+          "Les frais de port suivent la grille tarifaire de la boutique, et la commande peut partir en plusieurs envois, avec des arrivées à des dates différentes ; le délai estimé combine la disponibilité des articles et le mode d’envoi choisi, selon la [politique de livraison de YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+          "L’entreprise déclare dans ses informations corporatives être distributeur agréé de plus de 400 marques de beauté coréenne, parmi lesquelles COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige et Isntree : un échantillon du type de marques disponibles, pas une liste fermée, puisque le catalogue évolue avec le temps.",
           "La plateforme va aussi au-delà du skincare : elle propose de la mode asiatique, du maquillage, des accessoires et d’autres catégories lifestyle, ce qui permet de compléter l’achat d’un sérum avec d’autres articles dans la même transaction.",
           "Pour acheter avec une réduction, le code de récompense CECILIA010 donne 5 % à la première commande et 2 % aux suivantes, dans le champ du code de récompense (Reward Code) au paiement. Un pas-à-pas précis explique comment appliquer le code, lié ci-dessous. Les coupons de la boutique changent ; la liste du moment se trouve dans [coupons YesStyle et code de récompense](/fr/coupons/yesstyle).",
           "Pour qui veut simplement vérifier si la réputation est méritée, réunir plusieurs marques dans une seule commande simplifie le premier achat."
@@ -43113,9 +43121,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Drei Faktoren haben die Welle getragen: K-Dramas und K-Pop, das Tempo der Neuheiten und das Internet.",
-          "Der erste ist der kulturelle Einfluss von K-Dramas und K-Pop. Beide Phänomene haben riesige globale Publika erobert und sind ein lebendiges Schaufenster der koreanischen Beauty-Kultur: Wenn Serienszenen Figuren bei ihrer Skincare-Routine zu Hause zeigen oder K-Pop-Stars Bühne um Bühne mit makelloser Haut auftreten, lautet die naheliegende Frage „Wie machen die das?“.",
+          "Der erste Faktor sind K-Dramas und K-Pop: Skincare-Szenen in den Serien und die Auftritte der Künstler auf der Bühne bringen Publika in vielen Ländern die koreanische Beauty-Kultur näher und wecken Interesse an Routinen und Produkten.",
           "Der zweite Faktor ist die Kultur der koreanischen Beauty-Marken selbst, bekannt für ihr Tempo bei Neuheiten und Wirkstoffinnovationen: Neue Seren, Wirkstoffe und Maskenformate erscheinen häufig. Zusammen mit meist günstigeren Preisen als bei Luxusmarken mit ähnlichem Angebot entstand so der Eindruck, dass ein großer Teil der Skincare-Neuheiten aus Korea kommt.",
-          "Der dritte Faktor ist rein internetbedingt: Communitys von Skincare-Fans wuchsen auf Plattformen wie TikTok, YouTube und Reddit, Influencer zeigten mit echter Begeisterung Unboxings koreanischer Produkte, Rezensionen vervielfachten sich, und die virale Dynamik machte K-Beauty von einem Nischeninteresse zu einem Mainstream-Phänomen.",
+          "Der dritte Faktor ist das Internet: Auf TikTok, YouTube und Reddit teilen Skincare-Communitys Unboxings und Rezensionen koreanischer Produkte, und dieser Austausch hat K-Beauty über die Kreise der Fans hinaus bekannt gemacht.",
           "Das [koreanische Kulturministerium](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) beschreibt ebenfalls mehrere Faktoren hinter dem Wachstum, darunter den internationalen Vertrieb über Händler. Keiner von ihnen erklärt die Welle allein."
         ],
         "bullets": []
@@ -43134,7 +43142,9 @@ export const reviewsData: unknown[] = [
         "heading": "Wo YesStyle ins Spiel kommt",
         "paragraphs": [
           "Eine der Möglichkeiten ist der Kauf in einem Multimarken-Shop wie YesStyle.",
-          "YesStyle funktioniert als zentraler Marktplatz: Statt von Marke zu Marke zu gehen, kaufen Sie mehrere koreanische Marken, außerdem japanische und aus anderen Teilen Asiens, in einem Warenkorb. Die Versandkosten richten sich nach der Versandkostentabelle des Shops, und die Bestellung kann in mehr als einer Sendung verschickt werden, die an verschiedenen Terminen ankommen; die geschätzte Lieferzeit setzt sich laut [Lieferrichtlinie von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732) aus der Verfügbarkeit der Artikel und der gewählten Versandart zusammen. Das Unternehmen erklärt in seinen Unternehmensinformationen, autorisierter Händler von mehr als 400 koreanischen Beauty-Marken zu sein, darunter COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige und Isntree: ein Beispiel für die Art der verfügbaren Marken, keine abgeschlossene Liste, denn das Sortiment ändert sich mit der Zeit.",
+          "YesStyle funktioniert als zentraler Marktplatz: Statt von Marke zu Marke zu gehen, kaufen Sie mehrere koreanische Marken, außerdem japanische und aus anderen Teilen Asiens, in einem Warenkorb.",
+          "Die Versandkosten richten sich nach der Versandkostentabelle des Shops, und die Bestellung kann in mehr als einer Sendung verschickt werden, die an verschiedenen Terminen ankommen; die geschätzte Lieferzeit setzt sich laut [Lieferrichtlinie von YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732) aus der Verfügbarkeit der Artikel und der gewählten Versandart zusammen.",
+          "Das Unternehmen erklärt in seinen Unternehmensinformationen, autorisierter Händler von mehr als 400 koreanischen Beauty-Marken zu sein, darunter COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige und Isntree: ein Beispiel für die Art der verfügbaren Marken, keine abgeschlossene Liste, denn das Sortiment ändert sich mit der Zeit.",
           "Die Plattform geht auch über Skincare hinaus: Sie hat asiatische Mode, Make-up, Accessoires und andere Lifestyle-Kategorien, sodass Sie den Kauf eines Serums in derselben Bestellung um weitere Artikel ergänzen können.",
           "Wer beim Kauf sparen möchte, kann den Reward Code CECILIA010 nutzen: 5 % beim ersten Kauf und 2 % bei den folgenden, einzugeben im Feld für den Reward Code beim Checkout. Eine eigene Schritt-für-Schritt-Anleitung zum Einlösen des Codes ist unten verlinkt. Die Gutscheine des Shops ändern sich; die aktuelle Liste steht unter [YesStyle-Gutscheine und Reward Code](/de/coupons/yesstyle).",
           "Wer nur testen will, ob der Ruf stimmt: Mehrere Marken in einer Bestellung zu bündeln, vereinfacht den ersten Kauf."
@@ -43257,9 +43267,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "이 흐름을 밀어 올린 요인은 세 가지입니다. K-드라마와 K-팝, 신제품이 나오는 속도, 그리고 인터넷입니다.",
-          "첫째는 K-드라마와 K-팝의 문화적 영향력입니다. 둘 다 전 세계에서 엄청난 팬층을 얻었고, 한국 뷰티 문화를 보여 주는 살아 있는 쇼윈도 역할을 합니다. 드라마 속 인물이 집에서 스킨케어를 하는 장면이 나오거나, K-팝 아티스트가 무대마다 흠잡을 데 없는 피부로 등장하면 '어떻게 관리하는 거지?'라는 궁금증이 자연스럽게 생깁니다.",
+          "첫째는 K-드라마와 K-팝입니다. 세계 각국의 시청자가 한국 뷰티 문화를 접하게 되었고, 드라마 속 스킨케어 장면과 아티스트의 무대 모습은 관리 방법과 제품에 대한 관심으로 이어집니다.",
           "둘째는 한국 뷰티 브랜드 자체의 문화입니다. 신제품 출시와 성분 혁신의 속도로 알려져 있고, 새 세럼, 새 활성 성분, 새 마스크 제형이 자주 나옵니다. 비슷한 콘셉트의 럭셔리 브랜드보다 가격이 대체로 합리적이라는 점까지 더해져, 새로운 스킨케어의 상당수가 한국에서 나온다는 인식이 생겼습니다.",
-          "셋째는 순전히 인터넷의 힘입니다. 틱톡, 유튜브, 레딧 같은 플랫폼에서 스킨케어 애호가 커뮤니티가 커졌고, 인플루언서들이 한국 제품 언박싱을 진심 어린 열정으로 보여 주기 시작했고, 후기가 늘어났으며, 이 바이럴이 K-뷰티를 소수의 관심사에서 주류 현상으로 바꿔 놓았습니다.",
+          "셋째는 인터넷입니다. 틱톡, 유튜브, 레딧에서는 스킨케어 커뮤니티가 한국 제품의 언박싱과 후기를 공유하며, 이런 교류가 K-뷰티를 애호가층 너머로 널리 알리는 데 도움이 됐습니다.",
           "[문화체육관광부](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)도 성장의 배경으로 소매업체를 통한 해외 유통을 포함한 여러 요인을 설명합니다. 그중 어느 하나만으로 이 흐름을 설명할 수는 없습니다."
         ],
         "bullets": []
@@ -43278,7 +43288,9 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle은 어떤 역할을 할까",
         "paragraphs": [
           "선택지 중 하나는 YesStyle 같은 멀티브랜드 스토어에서 사는 것입니다.",
-          "YesStyle은 하나로 모은 마켓플레이스로 작동합니다. 브랜드를 하나씩 찾아다니는 대신, 한국 브랜드는 물론 일본과 아시아 다른 지역의 브랜드까지 장바구니 하나에 담아 구매합니다. 배송비는 스토어의 요금표를 따르고, 주문이 여러 번에 나뉘어 발송되어 도착 날짜가 다를 수 있습니다. 예상 배송 기간은 상품 재고 상황과 선택한 배송 방법을 합친 것이며, 자세한 내용은 [YesStyle 배송 정책](https://www.yesstyle.com/en/help/section.html/hsi.732)에서 볼 수 있습니다. 회사는 기업 정보에서 400개가 넘는 한국 뷰티 브랜드의 공인 유통사라고 밝히며, COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige, Isntree 같은 이름이 포함됩니다. 어디까지나 취급 브랜드의 예일 뿐 전체 목록은 아닙니다. 카탈로그는 시기에 따라 바뀌기 때문입니다.",
+          "YesStyle은 하나로 모은 마켓플레이스로 작동합니다. 브랜드를 하나씩 찾아다니는 대신, 한국 브랜드는 물론 일본과 아시아 다른 지역의 브랜드까지 장바구니 하나에 담아 구매합니다.",
+          "배송비는 스토어의 요금표를 따르고, 주문이 여러 번에 나뉘어 발송되어 도착 날짜가 다를 수 있습니다. 예상 배송 기간은 상품 재고 상황과 선택한 배송 방법을 합친 것이며, 자세한 내용은 [YesStyle 배송 정책](https://www.yesstyle.com/en/help/section.html/hsi.732)에서 볼 수 있습니다.",
+          "회사는 기업 정보에서 400개가 넘는 한국 뷰티 브랜드의 공인 유통사라고 밝히며, COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige, Isntree 같은 이름이 포함됩니다. 어디까지나 취급 브랜드의 예일 뿐 전체 목록은 아닙니다. 카탈로그는 시기에 따라 바뀌기 때문입니다.",
           "이 플랫폼은 스킨케어에 그치지 않습니다. 아시아 패션, 메이크업, 액세서리와 그 밖의 라이프스타일 카테고리도 있어서, 세럼을 살 때 같은 주문에 다른 상품을 더할 수 있습니다.",
           "할인을 받고 싶다면 리워드 코드 CECILIA010이 있습니다. 첫 구매는 5%, 이후 구매는 2% 할인이며, 결제 시 리워드 코드(Reward Code) 칸에 입력합니다. 이 코드를 입력하는 방법은 아래에 링크한 전용 단계별 안내에서 볼 수 있습니다. 매장 쿠폰은 수시로 바뀌며, 현재 목록은 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle)에서 확인하세요.",
           "K-뷰티를 한번 써 보고 싶을 뿐인 사람에게는, 여러 브랜드를 한 주문에 담을 수 있다는 점이 첫 구매를 간단하게 해 줍니다."
@@ -43401,9 +43413,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "流行を押し上げた要因は3つあります。K-ドラマとK-POP、新作が出るペース、そしてインターネットです。",
-          "1つ目は、K-ドラマとK-POPの文化的な影響力です。どちらも世界中で大勢のファンを獲得し、韓国の美容文化を映すショーケースのような役割を果たしています。ドラマの中で登場人物が自宅でスキンケアをする場面が映ったり、K-POPのアーティストがステージのたびに非の打ちどころのない肌で登場したりすれば、「どうやってるの？」と思うのは自然なことです。",
+          "1つ目は、K-ドラマとK-POPです。世界の視聴者が韓国の美容文化に触れるようになり、ドラマのスキンケア場面やアーティストのステージ姿は、ケアや製品への関心につながっています。",
           "2つ目は、韓国の美容ブランドそのものの文化です。新作の発売と成分のイノベーションのペースで知られ、新しい美容液、有効成分、マスクの形が頻繁に登場します。似たコンセプトのラグジュアリーブランドより価格が手頃なことが多い点も重なり、スキンケアの新しい流れの多くは韓国から生まれている、という印象が定着しました。",
-          "3つ目は、まったくインターネットならではの要因です。TikTok、YouTube、Redditなどでスキンケア好きのコミュニティが育ち、インフルエンサーが韓国コスメの開封動画を心から楽しそうに紹介するようになり、レビューも増えました。そのバイラルな広がりが、K-Beautyを一部の人の趣味からメインストリームの現象に変えたのです。",
+          "3つ目は、インターネットです。TikTok、YouTube、Redditでは、スキンケア好きのコミュニティが韓国コスメの開封動画やレビューを共有しています。こうした交流が、K-Beautyを愛好家以外にも広めました。",
           "[韓国文化体育観光部](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)も、成長の背景には小売業者による海外流通を含む複数の要因があると説明しています。どの要因も、単独で流行を説明できるわけではありません。"
         ],
         "bullets": []
@@ -43422,7 +43434,9 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyleの役割",
         "paragraphs": [
           "選択肢の一つが、YesStyleのような複数ブランドを扱うストアで買う方法です。",
-          "YesStyleは一元化されたマーケットプレイスとして機能します。ブランドを1つずつ回る代わりに、韓国ブランド、さらに日本やアジア各地のブランドを、1つのカートで購入できます。送料はストアの料金表に従い、注文は複数に分けて発送され、届く日が異なることがあります。お届け予定は、商品の在庫状況と選んだ配送方法を合わせたもので、詳しくは[YesStyleの配送ポリシー](https://www.yesstyle.com/en/help/section.html/hsi.732)をご覧ください。同社は企業情報の中で、400を超える韓国美容ブランドの正規代理店であると表明しており、COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige、Isntreeなどが含まれます。これはあくまで取り扱いの一例で、すべてを網羅した一覧ではありません。カタログは時期によって変わるためです。",
+          "YesStyleは一元化されたマーケットプレイスとして機能します。ブランドを1つずつ回る代わりに、韓国ブランド、さらに日本やアジア各地のブランドを、1つのカートで購入できます。",
+          "送料はストアの料金表に従い、注文は複数に分けて発送され、届く日が異なることがあります。お届け予定は、商品の在庫状況と選んだ配送方法を合わせたもので、詳しくは[YesStyleの配送ポリシー](https://www.yesstyle.com/en/help/section.html/hsi.732)をご覧ください。",
+          "同社は企業情報の中で、400を超える韓国美容ブランドの正規代理店であると表明しており、COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige、Isntreeなどが含まれます。これはあくまで取り扱いの一例で、すべてを網羅した一覧ではありません。カタログは時期によって変わるためです。",
           "このプラットフォームはスキンケアだけではありません。アジアのファッション、メイクアップ、アクセサリーなどライフスタイル関連のカテゴリーもあるので、美容液の購入に同じ注文でほかのアイテムを加えることもできます。",
           "割引を受けたい方には、リワードコードCECILIA010があります。初回購入は5%、2回目以降は2%の割引で、チェックアウトのリワードコード（Reward Code）欄に入力します。このコードの入れ方は、下にリンクした専用の手順ガイドで確認できます。ストアのクーポンは入れ替わるので、現時点の一覧は[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)をご覧ください。",
           "K-Beautyを試してみたいだけの人にとっては、複数のブランドを1回の注文にまとめられることで、最初の購入が簡単になります。"
@@ -43483,7 +43497,7 @@ export const reviewsData: unknown[] = [
   {
     "id": 272,
     "slug": "yesstyle-kbeauty-guide-zh-hant",
-    "title": "K-Beauty 韓妝熱潮全解析：為何全球為之瘋狂，到哪裡買才放心",
+    "title": "K-Beauty 韓妝：什麼是韓國美妝、為何流行，以及哪裡買得到",
     "seoTitle": "K-Beauty 韓妝：全球趨勢與 YesStyle 購買指南",
     "type": "編輯專題",
     "reviewKind": "editorial",
@@ -43545,9 +43559,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "有三個因素推動了這股浪潮：韓劇與韓國流行音樂、新品推出的速度，以及網路。",
-          "第一個是韓劇與韓國流行音樂的文化影響力。這兩者都贏得了龐大的全球觀眾，也成了韓國美妝文化的活招牌：當劇中角色在家做保養的場景出現，或是韓國流行音樂藝人一場接一場的舞台上都肌膚無瑕，大家自然會問：「他們是怎麼做到的？」",
+          "第一個因素是韓劇與韓國流行音樂。各國觀眾借此接觸到韓國美妝文化，劇中的保養場景與藝人的舞台形象，也讓人對保養方式和產品產生興趣。",
           "第二個因素是韓國美妝品牌本身的文化，它們以新品推出和成分創新的步調聞名：新的精華液、新的活性成分、新的面膜形式層出不窮。再加上價格通常比定位相近的精品品牌更低，讓人形成這樣的印象：保養領域的許多新品都來自韓國。",
-          "第三個因素純粹來自網路：TikTok、YouTube 和 Reddit 等平台上，保養愛好者社群不斷壯大，網紅們以真誠的熱情分享韓國產品的開箱，評價越來越多，病毒式傳播讓 K-Beauty 從小眾興趣變成了主流現象。",
+          "第三個因素是網路。在 TikTok、YouTube 和 Reddit 上，保養社群分享韓國產品的開箱與評價，這些交流幫助 K-Beauty 走出愛好者圈子，吸引更多人關注。",
           "[韓國文化體育觀光部](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)也指出，這股成長背後有多個因素，其中包括零售商的國際通路。沒有哪一個因素能單獨解釋這股熱潮。"
         ],
         "bullets": []
@@ -43566,7 +43580,9 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle 在這裡扮演什麼角色",
         "paragraphs": [
           "選擇之一是在多品牌商店購買，例如 YesStyle。",
-          "YesStyle 是一個集中式的購物平台：你不用一個品牌一個品牌地找，而是可以把多個韓國品牌，以及日本和亞洲其他地區的品牌，放進同一個購物車。運費依商店的運費表計算，訂單可能分成多個包裹寄出，到貨日期也可能不同；預計送達時間是商品備貨情況加上所選的運送方式，詳見 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。該公司在其企業資訊中聲明，自己是 400 多個韓國美妝品牌的授權經銷商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：這只是可買品牌的一個樣本，並非封閉的名單，因為商品目錄會隨時間變動。",
+          "YesStyle 是一個集中式的購物平台：你不用一個品牌一個品牌地找，而是可以把多個韓國品牌，以及日本和亞洲其他地區的品牌，放進同一個購物車。",
+          "運費依商店的運費表計算，訂單可能分成多個包裹寄出，到貨日期也可能不同；預計送達時間是商品備貨情況加上所選的運送方式，詳見 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。",
+          "該公司在其企業資訊中聲明，自己是 400 多個韓國美妝品牌的授權經銷商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：這只是可買品牌的一個樣本，並非封閉的名單，因為商品目錄會隨時間變動。",
           "這個平台也不只有保養品：還有亞洲時尚、彩妝、配件和其他生活風格類別，所以買精華液時，可以在同一筆訂單裡再搭配別的商品。",
           "想享有折扣，可以使用獎勵碼 CECILIA010：首購 5%，之後每筆 2%，在結帳頁的獎勵碼（Reward Code）欄位輸入。關於如何輸入這個代碼，下方連結了專門的逐步教學。商店的優惠券會變動，目前的清單請見 [YesStyle 優惠券與獎勵碼](/zh-hant/coupons/yesstyle)。",
           "如果只是想試試傳聞是否屬實，把多個品牌放進同一筆訂單，會讓第一次購買更簡單。"
@@ -43689,9 +43705,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "有三个因素推动了这股浪潮：韩剧和韩国流行音乐、新品推出的节奏，以及互联网。",
-          "第一个是韩剧和韩国流行音乐的文化影响力。这两者都赢得了庞大的全球观众，也成了韩国美妆文化的活橱窗：当剧中人物在家做护肤的场景出现，或者韩国流行音乐艺人一场接一场舞台上都肌肤无瑕，人们自然会问：“他们是怎么做到的？”",
+          "第一个因素是韩剧和韩国流行音乐。各国观众借此接触到韩国美妆文化，剧中的护肤场景和艺人的舞台形象，也让人对护理方式和产品产生兴趣。",
           "第二个因素是韩国美妆品牌自身的文化，它们以新品推出和成分创新的节奏著称：新精华液、新活性成分、新面膜形态层出不穷。再加上价格通常比定位相近的奢侈品牌更低，让人形成了这样的印象：护肤领域的许多新品都来自韩国。",
-          "第三个因素纯粹来自互联网：TikTok、YouTube 和 Reddit 等平台上，护肤爱好者社群不断壮大，博主们以真诚的热情展示韩国产品的开箱，测评越来越多，病毒式传播让 K-Beauty 从小众兴趣变成了主流现象。",
+          "第三个因素是互联网。在 TikTok、YouTube 和 Reddit 上，护肤社群分享韩国产品的开箱和测评，这些交流帮助 K-Beauty 走出爱好者圈子，吸引更多人关注。",
           "[韩国文化体育观光部](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307)也指出，这股增长背后有多个因素，其中包括零售商的国际分销。没有哪一个因素能单独解释这股热潮。"
         ],
         "bullets": []
@@ -43710,7 +43726,9 @@ export const reviewsData: unknown[] = [
         "heading": "YesStyle 在这里扮演什么角色",
         "paragraphs": [
           "选择之一是在多品牌商店购买，比如 YesStyle。",
-          "YesStyle 是一个集中式的购物平台：你不用一个品牌一个品牌地找，而是可以把多个韩国品牌，以及日本和亚洲其他地区的品牌，放进同一个购物车。运费按商店的运费表计算，订单可能分成多个包裹寄出，到货日期也可能不同；预计送达时间是商品备货情况加上所选的配送方式，详见 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。该公司在其企业信息中声明，自己是 400 多个韩国美妆品牌的授权经销商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：这只是可买品牌的一个样本，不是封闭的名单，因为产品目录会随时间变化。",
+          "YesStyle 是一个集中式的购物平台：你不用一个品牌一个品牌地找，而是可以把多个韩国品牌，以及日本和亚洲其他地区的品牌，放进同一个购物车。",
+          "运费按商店的运费表计算，订单可能分成多个包裹寄出，到货日期也可能不同；预计送达时间是商品备货情况加上所选的配送方式，详见 [YesStyle 配送政策](https://www.yesstyle.com/en/help/section.html/hsi.732)。",
+          "该公司在其企业信息中声明，自己是 400 多个韩国美妆品牌的授权经销商，其中有 COSRX、Beauty of Joseon、Anua、Innisfree、Etude House、Some By Mi、Laneige 和 Isntree 等：这只是可买品牌的一个样本，不是封闭的名单，因为产品目录会随时间变化。",
           "这个平台也不止护肤：还有亚洲时装、彩妆、配饰和其他生活方式类别，所以买精华液时，可以在同一笔订单里再搭配别的商品。",
           "想享受折扣，可以使用奖励码 CECILIA010：首单 5%，之后每单 2%，在结账页的奖励码（Reward Code）一栏输入。关于如何输入这个代码，下面链接了专门的分步教程。店铺的优惠券会变动，当前的列表见 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)。",
           "如果只是想试试传闻是否属实，把多个品牌放进同一笔订单，会让第一次购买更简单。"
@@ -49020,17 +49038,17 @@ export const reviewsData: unknown[] = [
     "imageFit": "cover",
     "pros": [
       "Codice influencer che aggiunge fino al 5% extra ai coupon promozionali idonei",
-      "Si può usare insieme ai coupon promozionali idonei del sito",
+      "Valido sia per il primo ordine (5% extra) sia per gli acquisti successivi (2% extra)",
       "Spedizione gratuita sopra un importo minimo, che compare al checkout",
       "Vasto catalogo di K-Beauty, moda coreana e J-Beauty",
-      "Prodotti 100% autentici, distributore autorizzato",
+      "YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana",
       "Selettore della lingua in alto nel sito"
     ],
     "cons": [
       "Non sostituisce i coupon normali (funziona in un campo separato)",
       "Gli ordini internazionali possono comportare spese doganali; controlla la politica di rimborso di YesStyle prima di acquistare",
       "Acquisto internazionale: i tempi di consegna sono più lunghi di quelli di un negozio locale",
-      "Prezzi finali indicati in dollari (soggetti alle oscillazioni del cambio)"
+      "Prezzi convertiti con il tasso di cambio interno di YesStyle, con possibili commissioni bancarie per acquisti all'estero"
     ],
     "contentSections": [
       {
@@ -49196,10 +49214,10 @@ export const reviewsData: unknown[] = [
           "CECILIA010 è un coupon o un codice ricompensa? Funziona come codice ricompensa/influencer di YesStyle e offre fino al 5% extra (5% sul 1º ordine / 2% sui successivi) se applicato nel campo giusto. Il vantaggio è che si può usare insieme ai coupon idonei.",
           "Posso sommare CECILIA010 al coupon della promozione del mese? Sì! Va nel campo “Reward Code”, mentre i coupon vanno nel campo “Coupon Code”. Così aggiungi fino al 5% extra (5% sul primo ordine e 2% sugli acquisti successivi) ai coupon promozionali idonei confermati al checkout.",
           "CECILIA010 ha una scadenza? Funziona finché il programma per influencer di YesStyle è attivo e il codice viene verificato regolarmente.",
-          "Comprare su YesStyle è sicuro? Sì. Azienda legittima dal 2006, serve più di 150 paesi e regioni, prodotti autentici, crittografia SSL.",
+          "Comprare su YesStyle è sicuro? L'azienda è legittima: ha sede a Hong Kong ed è stata fondata nel 2006. Questo non garantisce che i prodotti siano originali; vedi cosa controllare prima di ordinare in [YesStyle è affidabile e sicuro?](/it/reviews/yesstyle-e-affidabile-e-sicuro).",
           "Pagherò tasse di importazione? Può succedere. Secondo la [politica di YesStyle](https://www.yesstyle.com/en/refund-of-customs-taxes-and-fees/help/section.html/hsi.2212), per gli ordini inferiori a 1.000 US$ (prima dello sconto del coupon e senza spedizione) imposte e tasse doganali possono essere rimborsate come Credito del negozio: paghi, conservi la ricevuta e fai richiesta entro 30 giorni, contati dalla data della ricevuta di pagamento.",
           "Qual è il modo migliore per pagare? Carta di credito internazionale (Visa, Mastercard, Amex) o PayPal. YesStyle permette di scegliere la valuta dell'ordine e converte con [il proprio tasso di cambio interno](https://www.yesstyle.com/en/payment-currencies/help/section.html/hsi.1708), fissato al momento dell'ordine; la banca o l'emittente della carta possono applicare una commissione sugli acquisti all'estero.",
-          "I prodotti sono originali? Sì. YesStyle è distributore autorizzato dei marchi. Compra direttamente dai produttori o dai distributori ufficiali.",
+          "I prodotti YesStyle sono originali o contraffatti? YesStyle afferma di essere rivenditore autorizzato di oltre 400 marchi di bellezza coreana, acquistando dai produttori o da distributori autorizzati. Non abbiamo trovato un audit indipendente che lo confermi; alla consegna, controlla lotto, scadenza e sigillo.",
           "Posso restituire i prodotti? La politica è limitata per gli acquisti internazionali. I prodotti difettosi o spediti per errore possono essere restituiti. I prodotti di K-beauty (skincare, make-up) in genere non possono essere restituiti per ragioni igieniche, a meno che non siano sigillati.",
           "Che cos'è l'Elite Club? Il programma fedeltà di YesStyle. Il livello Bronze arriva con il primo ordine, il Silver con 100 US$ di acquisti accumulati e il Gold con 500 US$; ogni livello dà più YS Points per dollaro e coupon da 12% OFF. CECILIA010 resta nel campo Reward Code a qualsiasi livello.",
           "Il sito ha altre lingue? Sì! In alto nel sito puoi cambiare la lingua.",
@@ -49660,9 +49678,9 @@ export const reviewsData: unknown[] = [
         "imageFit": "cover",
         "paragraphs": [
           "Tre fattori hanno spinto l’onda: k-drama e k-pop, il ritmo delle novità e internet.",
-          "Il primo è l’influenza culturale di k-drama e k-pop. Entrambi i fenomeni hanno conquistato enormi pubblici globali e funzionano come una vetrina viva della cultura beauty coreana: quando le scene delle serie mostrano i personaggi nelle loro routine di skincare a casa, o quando gli artisti k-pop appaiono con una pelle impeccabile palco dopo palco, la domanda naturale è «come fanno?».",
+          "Il primo fattore sono i k-drama e il k-pop: le scene di skincare nelle serie e gli artisti con la pelle impeccabile sul palco avvicinano il pubblico di diversi paesi alla cultura beauty coreana e suscitano curiosità per le routine e i prodotti.",
           "Il secondo fattore è la cultura stessa dei marchi coreani di bellezza, noti per il ritmo dei lanci e dell’innovazione sugli ingredienti: nuovi sieri, attivi e formati di maschere compaiono spesso. Con prezzi in genere più competitivi rispetto ai marchi di lusso con proposte simili, questo ha creato la percezione che buona parte delle novità dello skincare arrivi dalla Corea.",
-          "Il terzo fattore è puramente di internet: le community di appassionati di skincare sono cresciute su piattaforme come TikTok, YouTube e Reddit, gli influencer hanno iniziato a mostrare unboxing di prodotti coreani con entusiasmo genuino, le recensioni si sono moltiplicate e la dinamica virale ha trasformato la K-Beauty da interesse di nicchia a fenomeno di massa.",
+          "Il terzo fattore è internet: su TikTok, YouTube e Reddit, le community di appassionati di skincare condividono unboxing e recensioni di prodotti coreani, e questa circolazione ha portato la K-Beauty oltre la nicchia degli appassionati.",
           "Anche il [Ministero della Cultura della Corea](https://www.mcst.go.kr/english/policy/kocis/newsView.jsp?pSeq=307) descrive più fattori dietro la crescita, tra cui la distribuzione internazionale tramite rivenditori. Nessuno di questi spiega l’onda da solo."
         ],
         "bullets": []
@@ -49681,7 +49699,9 @@ export const reviewsData: unknown[] = [
         "heading": "Dove entra in gioco YesStyle",
         "paragraphs": [
           "Una delle opzioni è comprare in un negozio multimarca come YesStyle.",
-          "YesStyle funziona come un marketplace centralizzato: invece di andare di marchio in marchio, acquisti più marchi coreani, e anche giapponesi e di altre parti dell’Asia, in un unico carrello. Le spese di spedizione seguono il tariffario del negozio e l’ordine può partire in più invii, con arrivi in date diverse; il tempo stimato somma la disponibilità degli articoli e il metodo di spedizione scelto, secondo la [politica di consegna di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732). L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un esempio del tipo di marchio disponibile, non un elenco chiuso, perché il catalogo cambia nel tempo.",
+          "YesStyle funziona come un marketplace centralizzato: invece di andare di marchio in marchio, acquisti più marchi coreani, e anche giapponesi e di altre parti dell’Asia, in un unico carrello.",
+          "Le spese di spedizione seguono il tariffario del negozio e l’ordine può partire in più invii, con arrivi in date diverse; il tempo stimato somma la disponibilità degli articoli e il metodo di spedizione scelto, secondo la [politica di consegna di YesStyle](https://www.yesstyle.com/en/help/section.html/hsi.732).",
+          "L’azienda dichiara nelle proprie informazioni societarie di essere distributore autorizzato di oltre 400 marchi di bellezza coreana, tra cui nomi come COSRX, Beauty of Joseon, Anua, Innisfree, Etude House, Some By Mi, Laneige e Isntree: un esempio del tipo di marchio disponibile, non un elenco chiuso, perché il catalogo cambia nel tempo.",
           "La piattaforma va anche oltre lo skincare: ha moda asiatica, trucco, accessori e altre categorie lifestyle, il che significa che puoi completare l’acquisto di un siero con altri articoli nella stessa transazione.",
           "Per ottenere uno sconto c’è il codice ricompensa CECILIA010: 5% sul primo acquisto e 2% sui successivi, da inserire nel campo del codice ricompensa (Reward Code) al checkout. La guida passo passo per applicare il codice è linkata qui sotto. I coupon del negozio cambiano; l’elenco del momento è in [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle).",
           "Per chi vuole solo provare se la fama è reale, riunire più marchi in un solo ordine semplifica il primo acquisto."
@@ -151800,7 +151820,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A YesStyle tem nota 4,4 na Trustpilot, com mais de 104 mil avaliações e 71% de cinco estrelas. Veja as queixas de entrega e por que a nota global não diz nada sobre o seu país.",
+    "description": "A YesStyle tem nota 4,4 na Trustpilot, com mais de 104 mil avaliações e 71% de cinco estrelas. Veja os temas das queixas e os limites de uma nota global.",
     "metaDescription": "YesStyle na Trustpilot em novembro: nota 4,4 em 104 mil avaliações, 71% de cinco estrelas, queixas de entrega e rastreio. Veja o que a nota não mostra.",
     "publishedAt": "29 de outubro de 2026",
     "publishedAtISO": "2026-10-29",
@@ -151817,7 +151837,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em novembro, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas negativas que lemos, as queixas eram de entrega internacional e rastreio. A nota é global e não separa países."
+          "A YesStyle tem nota boa na Trustpilot, com uma ressalva. Em novembro, o TrustScore era 4,4, com mais de 104 mil avaliações e 71% de cinco estrelas. Nas avaliações negativas visíveis que lemos, apareceram problemas de entrega internacional e rastreio, e a nota global não separa países."
         ]
       },
       {
@@ -151842,13 +151862,13 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "O perfil lido, o de www.yesstyle.com, é global: ele não separa as avaliações por país, e a página não diz quantas vieram de Portugal ou de qualquer outro lugar. A nota junta compradores de países diferentes, com frete, prazo e alfândega diferentes.",
           "Para quem compra de Portugal, isso muda a leitura: a nota diz como a loja se comporta no conjunto, não como é a entrega no seu endereço. Esse dado está no checkout e na tabela de frete da loja, não na Trustpilot.",
-          "No Reclame Aqui, a YesStyle não atende: a página que existe lá não é verificada e não tinha nenhuma reclamação respondida. Por isso este artigo usa a Trustpilot. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
+          "No Reclame Aqui, a página da YesStyle não era verificada e não tinha nenhuma reclamação respondida pela empresa. Por isso, o centro deste artigo é a Trustpilot. Quem opera a loja, a sede em Hong Kong e a controladora estão em [YesStyle é confiável?](/reviews/yesstyle-e-confiavel)."
         ]
       },
       {
         "heading": "O que aparece nas queixas",
         "paragraphs": [
-          "As queixas giram em torno da entrega internacional. Lemos as negativas visíveis e anotamos os temas, sem contar nem ranquear:"
+          "Nas avaliações negativas visíveis que lemos, os temas foram estes, sem contar nem ranquear:"
         ],
         "bullets": [
           "Atraso na entrega e espera longa, em pacote que vem de fora.",
@@ -151865,7 +151885,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "São os pontos em que uma compra internacional costuma falhar. Para o leitor, eles dizem onde olhar: o prazo no checkout, o rastreio depois do envio e a embalagem na chegada."
+          "Esses relatos ajudam a montar uma conferência prática: prazo no checkout, rastreio depois do envio e estado da embalagem na chegada."
         ]
       },
       {
@@ -151928,14 +151948,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na YesStyle pela Trustpilot?",
         "paragraphs": [
-          "Pela Trustpilot, a leitura é boa: TrustScore 4,4, \"Excellent\", em 104.909 avaliações, 71% delas de cinco estrelas e 7% de uma, com 98% das negativas respondidas, em geral em até 24 horas.",
+          "Pela Trustpilot, a nota é boa: TrustScore 4,4, em 104.909 avaliações, com 71% de cinco estrelas e 7% de uma. Para avaliar o atendimento, vale ler também as reclamações e as respostas recentes no perfil: o índice de respostas não mostra se o problema foi resolvido.",
           "A ressalva é de escopo, não de nota. O perfil é global, não separa países, e as queixas que lemos são de entrega internacional: atraso, rastreio e extravio. A Trustpilot mostra como a loja se comporta no conjunto; o frete e o prazo do seu endereço estão no checkout."
         ]
       },
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "Nas negativas que lemos, os temas eram de entrega, então o que você confere antes de pagar é o frete e o prazo do seu país, que aparecem no checkout. Para Portugal, a YesStyle publica prazo e frete na tabela dela, e o IVA já vem no preço; os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
+          "Nas avaliações negativas visíveis que lemos, apareceram problemas de entrega e rastreio. Antes de pagar, confira o frete e o prazo para o seu endereço no checkout. Para Portugal, o IVA já vem no preço, e os valores e a contagem do prazo estão no [guia de entrega da YesStyle](/reviews/yesstyle-entrega-no-brasil-e-portugal).",
           "Depois de pagar, guarde o número do pedido e o código de rastreio: é com eles que se abre um chamado no atendimento se o pacote atrasar ou o rastreio parar.",
           "Se você decidiu comprar, a página de [cupons YesStyle e código de recompensa](/cupons/yesstyle) aqui do site leva à loja. O link é de afiliado: a compra pode gerar comissão para o Em Casa com Cecília, sem custo extra para você."
         ]
@@ -151946,7 +151966,7 @@ export const reviewsData: unknown[] = [
           "A YesStyle tem boa nota na Trustpilot? O TrustScore era 4,4, com o rótulo \"Excellent\", em 104.909 avaliações; 71% davam cinco estrelas e 7%, uma.",
           "Quais são as reclamações mais comuns sobre a YesStyle? Nas avaliações negativas que lemos, os temas eram de entrega internacional: atraso e espera longa, rastreio parado, pacote extraviado, item danificado e pedido retido no processamento.",
           "A YesStyle responde às avaliações negativas? Segundo o perfil na Trustpilot, a loja respondeu a 98% das avaliações negativas, em geral em até 24 horas, e a resposta pode usar inteligência artificial.",
-          "A YesStyle entrega no Brasil? Não: a loja não oferecia entrega para o Brasil, num teste nosso no app. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
+          "A YesStyle entrega no Brasil? Não: no teste que fizemos no app, a loja não oferecia envio para o Brasil. Confira o destino no checkout antes de comprar. Em Portugal, sim, com prazo e frete publicados na tabela de frete da loja."
         ]
       }
     ],
@@ -151988,7 +152008,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle scores 4.4 on Trustpilot, with over 104,000 reviews and 71% five-star. See the delivery complaints and why a global score says nothing about your own country.",
+    "description": "YesStyle scores 4.4 on Trustpilot, with over 104,000 reviews and 71% five-star. See the themes in negative reviews and why a global score says little about your own country.",
     "metaDescription": "YesStyle on Trustpilot in November 2026: 4.4 from 104,000 reviews, 71% five-star, delivery and tracking complaints. See what the score doesn't show.",
     "publishedAt": "October 29, 2026",
     "publishedAtISO": "2026-10-29",
@@ -152006,7 +152026,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "YesStyle has a good Trustpilot score, with one caveat. In November 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. In the negative reviews we read, the complaints were about international delivery and tracking. The score is global and doesn't separate countries."
+          "YesStyle has a good Trustpilot score, with one caveat. In November 2026, the TrustScore was 4.4, with more than 104,000 reviews and 71% five-star. The visible negative reviews we read mentioned international delivery and tracking, and the score is global and doesn't separate countries."
         ]
       },
       {
@@ -152037,7 +152057,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What shows up in the complaints",
         "paragraphs": [
-          "The complaints revolve around international delivery. We read the visible negative reviews and noted the themes, without counting or ranking them:"
+          "In the visible negative reviews we read, the themes were these, without counting or ranking them:"
         ],
         "bullets": [
           "Late delivery and long waits, on a package coming from abroad.",
@@ -152054,7 +152074,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "These are the points where an international purchase tends to fail. For the reader, they show where to look: the delivery time at checkout, the tracking after shipping and the packaging on arrival."
+          "These reports suggest practical checks: the delivery estimate at checkout, tracking after dispatch and the condition of the packaging on arrival."
         ]
       },
       {
@@ -152117,14 +152137,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Can you trust YesStyle going by Trustpilot?",
         "paragraphs": [
-          "By Trustpilot, the reading is good: TrustScore 4.4, “Excellent”, across 104,909 reviews, 71% of them five-star and 7% one-star, with 98% of negative reviews answered, usually within 24 hours.",
+          "By Trustpilot, the score is good: TrustScore 4.4 across 104,909 reviews, with 71% five-star and 7% one-star. To assess customer service, also read recent complaints and replies on the profile; the reply rate doesn't show whether problems were resolved.",
           "The caveat is about scope, not score. The profile is global, doesn't separate countries, and the complaints we read are about international delivery: delays, tracking and lost packages. Trustpilot shows how the store behaves overall; the shipping cost and delivery time for your address are in the checkout."
         ]
       },
       {
         "heading": "Before you pay",
         "paragraphs": [
-          "In the negative reviews we read, they were about delivery, so what you check before paying is the shipping cost and delivery time for your country, which appear in the checkout. The rates and how the delivery time is counted for each country are in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
+          "The negative reviews we read included delivery and tracking problems. Before paying, check the shipping cost and delivery estimate for your address at checkout. Rates and how delivery times are counted for each country are covered in [YesStyle's delivery guide](/en/reviews/yesstyle-shipping-us-uk-canada-australia).",
           "After paying, keep the order number and the tracking code: they are what you need to open a ticket with customer service if the package is late or tracking stops.",
           "If you've decided to buy, our page on [YesStyle coupons and the reward code](/en/coupons/yesstyle) leads to the store. The link is an affiliate link: a purchase may earn Em Casa com Cecília a commission, at no extra cost to you."
         ]
@@ -152176,7 +152196,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle tiene un 4,4 en Trustpilot, con más de 104 mil opiniones y 71 % de cinco estrellas. Mira las quejas de envío y por qué la nota global no dice nada sobre tu país.",
+    "description": "YesStyle tiene un 4,4 en Trustpilot, con más de 104 mil opiniones y 71 % de cinco estrellas. Mira los temas de las quejas y los límites de una nota global.",
     "metaDescription": "YesStyle en Trustpilot en noviembre de 2026: 4,4 con 104 mil opiniones, 71 % de cinco estrellas, quejas de envío y seguimiento. Mira lo que la nota no muestra.",
     "publishedAt": "29 de octubre de 2026",
     "publishedAtISO": "2026-10-29",
@@ -152194,7 +152214,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "YesStyle tiene buena calificación en Trustpilot, con una salvedad. En noviembre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. En las opiniones negativas que leímos, las quejas eran sobre el envío internacional y el seguimiento. La nota es global y no separa países."
+          "YesStyle tiene buena calificación en Trustpilot, con una salvedad. En noviembre de 2026, el TrustScore era 4,4, con más de 104 mil opiniones y 71 % de cinco estrellas. En las opiniones negativas visibles que leímos aparecían problemas de envío internacional y seguimiento. La nota es global y no separa países."
         ]
       },
       {
@@ -152225,7 +152245,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué aparece en las quejas",
         "paragraphs": [
-          "Las quejas giran en torno al envío internacional. Leímos las opiniones negativas visibles y anotamos los temas, sin contarlos ni ordenarlos:"
+          "En las opiniones negativas visibles que leímos, los temas son los siguientes, sin contarlos ni ordenarlos:"
         ],
         "bullets": [
           "Retraso en la entrega y espera larga, en un paquete que viene de fuera.",
@@ -152242,7 +152262,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Son los puntos en los que una compra internacional suele fallar. Para el lector, indican dónde mirar: el plazo en el checkout, el seguimiento tras el envío y el embalaje a la llegada."
+          "Estos relatos sirven para preparar comprobaciones concretas: plazo al pagar, seguimiento tras el envío y estado del embalaje a la llegada."
         ]
       },
       {
@@ -152305,14 +152325,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "¿Se puede confiar en YesStyle según Trustpilot?",
         "paragraphs": [
-          "Según Trustpilot, la lectura es buena: TrustScore 4,4, «Excellent», en 104.909 opiniones, 71 % de ellas de cinco estrellas y 7 % de una, con 98 % de las negativas respondidas, por lo general en menos de 24 horas.",
+          "Según Trustpilot, la nota es buena: TrustScore 4,4, en 104.909 opiniones, con 71 % de cinco estrellas y 7 % de una. Para valorar la atención al cliente, lee también quejas y respuestas recientes en el perfil; el índice de respuesta no mide si los problemas se resolvieron.",
           "La salvedad es de alcance, no de nota. El perfil es global, no separa países, y las quejas que leímos son de envío internacional: retraso, seguimiento y extravío. Trustpilot muestra cómo se comporta la tienda en conjunto; el envío y el plazo de tu dirección están en el checkout."
         ]
       },
       {
         "heading": "Antes de pagar",
         "paragraphs": [
-          "En las opiniones negativas que leímos, las opiniones trataban del envío, así que lo que conviene comprobar antes de pagar es el coste de envío y el plazo de tu país, que aparecen en el checkout. Los valores y el cómputo del plazo por país están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
+          "En las opiniones negativas visibles que leímos, los problemas fueron de envío y seguimiento. Antes de pagar, comprueba el coste de envío y el plazo para tu dirección en el checkout. Los importes y el cómputo de plazos están en la [guía de entrega de YesStyle](/es/reviews/yesstyle-envios-espana-mexico-chile-peru-argentina-colombia).",
           "Después de pagar, guarda el número de pedido y el código de seguimiento: con ellos se abre una incidencia en atención al cliente si el paquete se retrasa o el seguimiento se detiene.",
           "Si ya decidiste comprar, la página de [cupones de YesStyle y código de recompensa](/es/coupons/yesstyle) de este sitio lleva a la tienda. El enlace es de afiliado: la compra puede generar una comisión para Em Casa com Cecília, sin coste extra para ti."
         ]
@@ -152364,7 +152384,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle a une note de 4,4 sur Trustpilot, avec plus de 104 000 avis et 71 % de cinq étoiles. Voyez les plaintes de livraison et pourquoi la note ne dit rien sur votre pays.",
+    "description": "YesStyle a une note de 4,4 sur Trustpilot, avec plus de 104 000 avis et 71 % de cinq étoiles. Voyez les thèmes des plaintes et les limites d’une note globale.",
     "metaDescription": "YesStyle sur Trustpilot en novembre 2026 : note de 4,4 sur 104 000 avis, 71 % de cinq étoiles, plaintes de livraison et de suivi. Voyez ce que la note ne montre pas.",
     "publishedAt": "29 octobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -152382,7 +152402,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "YesStyle a une bonne note sur Trustpilot, avec une réserve. En novembre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Dans les avis négatifs que nous avons lus, les plaintes portaient sur la livraison internationale et le suivi. La note est globale et ne distingue pas les pays."
+          "YesStyle a une bonne note sur Trustpilot, avec une réserve. En novembre 2026, le TrustScore était de 4,4, avec plus de 104 000 avis et 71 % de cinq étoiles. Dans les avis négatifs visibles que nous avons lus, apparaissaient des problèmes de livraison internationale et de suivi. La note est globale et ne distingue pas les pays."
         ]
       },
       {
@@ -152413,7 +152433,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce qui ressort des plaintes",
         "paragraphs": [
-          "Les plaintes tournent autour de la livraison internationale. Nous avons lu les avis négatifs visibles et noté les thèmes, sans les compter ni les classer :"
+          "Dans les avis négatifs visibles que nous avons lus, les thèmes sont les suivants, sans les compter ni les classer :"
         ],
         "bullets": [
           "Retard de livraison et longue attente, sur un colis venu de l’étranger.",
@@ -152430,7 +152450,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Ce sont les points où un achat international échoue souvent. Pour le lecteur, ils indiquent où regarder : le délai au paiement, le suivi après l’expédition et l’emballage à l’arrivée."
+          "Ces récits suggèrent des vérifications concrètes : le délai au paiement, le suivi après l’expédition et l’état de l’emballage à l’arrivée."
         ]
       },
       {
@@ -152493,14 +152513,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Peut-on faire confiance à YesStyle d’après Trustpilot ?",
         "paragraphs": [
-          "D’après Trustpilot, la lecture est bonne : TrustScore de 4,4, « Excellent », sur 104 909 avis, dont 71 % de cinq étoiles et 7 % d’une, avec 98 % des avis négatifs ayant reçu une réponse, en général sous 24 heures.",
+          "D’après Trustpilot, la note est bonne : TrustScore de 4,4, sur 104 909 avis, avec 71 % de cinq étoiles et 7 % d’une. Pour évaluer le service client, lisez aussi les plaintes et les réponses récentes sur le profil : le taux de réponse ne mesure pas la résolution des problèmes.",
           "La réserve porte sur le périmètre, pas sur la note. Le profil est global, ne sépare pas les pays, et les plaintes lues concernent la livraison internationale : retard, suivi et colis égaré. Trustpilot montre comment la boutique se comporte dans l’ensemble ; les frais de port et le délai pour votre adresse figurent au paiement."
         ]
       },
       {
         "heading": "Avant de payer",
         "paragraphs": [
-          "Dans les avis négatifs que nous avons lus, ces avis portaient sur la livraison ; ce qu’il faut donc vérifier avant de payer, ce sont les frais de port et le délai pour votre pays, qui apparaissent au paiement. Les montants et le décompte du délai par pays figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
+          "Dans les avis négatifs visibles que nous avons lus, les problèmes concernaient la livraison et le suivi. Avant de payer, vérifiez les frais de port et le délai pour votre adresse, affichés au paiement. Les montants et le décompte des délais figurent dans le [guide de livraison de YesStyle](/fr/reviews/yesstyle-livraison-france-belgique-canada).",
           "Après le paiement, gardez le numéro de commande et le code de suivi : ce sont eux qui permettent d’ouvrir un ticket auprès du service client si le colis tarde ou si le suivi s’arrête.",
           "Si vous avez décidé d’acheter, la page des [codes promo YesStyle et du code récompense](/fr/coupons/yesstyle) de notre site mène à la boutique. Le lien est affilié : l’achat peut rapporter une commission à Em Casa com Cecília, sans frais supplémentaires pour vous."
         ]
@@ -152552,7 +152572,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i reclami sulla consegna e perché il punteggio non dice nulla sul tuo paese.",
+    "description": "YesStyle ha 4,4 su Trustpilot, con oltre 104 mila recensioni e il 71% di cinque stelle. Scopri i temi dei reclami e i limiti di un punteggio globale.",
     "metaDescription": "YesStyle su Trustpilot a novembre 2026: punteggio 4,4 su 104 mila recensioni, 71% di cinque stelle, reclami su consegna e tracking. Scopri cosa il punteggio non mostra.",
     "publishedAt": "29 ottobre 2026",
     "publishedAtISO": "2026-10-29",
@@ -152570,7 +152590,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. A novembre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Nelle recensioni negative che abbiamo letto, i reclami riguardavano la consegna internazionale e il tracking. Il punteggio è globale e non distingue i paesi."
+          "YesStyle ha un buon punteggio su Trustpilot, con una riserva. A novembre 2026 il TrustScore era 4,4, con oltre 104 mila recensioni e il 71% di cinque stelle. Nelle recensioni negative visibili che abbiamo letto comparivano problemi di consegna internazionale e tracking. Il punteggio è globale e non distingue i paesi."
         ]
       },
       {
@@ -152601,7 +152621,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cosa emerge dai reclami",
         "paragraphs": [
-          "I reclami ruotano attorno alla consegna internazionale. Abbiamo letto le recensioni negative visibili e annotato i temi, senza contarli né classificarli:"
+          "Nelle recensioni negative visibili che abbiamo letto, i temi sono i seguenti, senza contarli né classificarli:"
         ],
         "bullets": [
           "Ritardo nella consegna e lunga attesa, su un pacco che arriva dall’estero.",
@@ -152618,7 +152638,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Sono i punti in cui un acquisto internazionale tende a fallire. Per chi legge, indicano dove guardare: il tempo di consegna nel checkout, il tracking dopo la spedizione e l’imballo all’arrivo."
+          "Questi racconti suggeriscono controlli pratici: tempi al checkout, tracking dopo la spedizione e condizioni dell’imballo all’arrivo."
         ]
       },
       {
@@ -152681,14 +152701,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ci si può fidare di YesStyle in base a Trustpilot?",
         "paragraphs": [
-          "In base a Trustpilot, la lettura è buona: TrustScore 4,4, «Excellent», su 104.909 recensioni, il 71% di cinque stelle e il 7% di una, con il 98% delle negative con risposta, di solito entro 24 ore.",
+          "In base a Trustpilot, il punteggio è buono: TrustScore 4,4, su 104.909 recensioni, con il 71% di cinque stelle e il 7% di una. Per valutare l’assistenza, leggi anche reclami e risposte recenti nel profilo: la quota di risposte non misura la risoluzione dei problemi.",
           "La riserva riguarda l’ambito, non il punteggio. Il profilo è globale, non separa i paesi, e i reclami letti riguardano la consegna internazionale: ritardo, tracking e smarrimento. Trustpilot mostra come si comporta il negozio nel complesso; spedizione e tempi per il tuo indirizzo sono nel checkout."
         ]
       },
       {
         "heading": "Prima di pagare",
         "paragraphs": [
-          "Nelle recensioni negative che abbiamo letto, i temi riguardavano la consegna, quindi ciò che conviene controllare prima di pagare sono le spese di spedizione e i tempi del tuo paese, che compaiono nel checkout. I valori e il conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
+          "Nelle recensioni negative visibili che abbiamo letto, i problemi riguardavano consegna e tracking. Prima di pagare, controlla spese di spedizione e tempi per il tuo indirizzo nel checkout. Importi e conteggio dei tempi per paese sono nella [guida alla consegna di YesStyle](/it/reviews/yesstyle-spedizione-italia-tempi-costi-dogana).",
           "Dopo il pagamento, conserva il numero d’ordine e il codice di tracking: servono per aprire una richiesta all’assistenza se il pacco ritarda o il tracking si ferma.",
           "Se hai deciso di comprare, la pagina dei [coupon YesStyle e codice ricompensa](/it/coupons/yesstyle) di questo sito porta al negozio. Il link è di affiliazione: l’acquisto può generare una commissione per Em Casa com Cecília, senza costi aggiuntivi per te."
         ]
@@ -152740,7 +152760,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle hat auf Trustpilot eine Note von 4,4 bei über 104.000 Bewertungen und 71 % Fünf-Sterne. Hier die Beschwerden zur Lieferung und warum die Note nichts über Ihr Land aussagt.",
+    "description": "YesStyle hat auf Trustpilot eine Note von 4,4 bei über 104.000 Bewertungen und 71 % Fünf-Sterne. Hier die Themen aus den negativen Bewertungen und die Grenzen einer globalen Note.",
     "metaDescription": "YesStyle auf Trustpilot im November 2026: Note 4,4 bei 104.000 Bewertungen, 71 % Fünf-Sterne, Beschwerden zu Lieferung und Sendungsverfolgung. Was die Note nicht zeigt.",
     "publishedAt": "29. Oktober 2026",
     "publishedAtISO": "2026-10-29",
@@ -152758,7 +152778,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Im November 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den negativen Bewertungen, die wir gelesen haben, ging es in den Beschwerden um die internationale Lieferung und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern."
+          "YesStyle hat eine gute Note auf Trustpilot, mit einem Vorbehalt. Im November 2026 lag der TrustScore bei 4,4, mit mehr als 104.000 Bewertungen und 71 % Fünf-Sterne. In den sichtbaren negativen Bewertungen, die wir gelesen haben, ging es um die internationale Lieferung und die Sendungsverfolgung. Die Note ist global und trennt nicht nach Ländern."
         ]
       },
       {
@@ -152789,7 +152809,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was in den Beschwerden auftaucht",
         "paragraphs": [
-          "Die Beschwerden drehen sich um die internationale Lieferung. Wir haben die sichtbaren negativen Bewertungen gelesen und die Themen notiert, ohne sie zu zählen oder zu ordnen:"
+          "In den sichtbaren negativen Bewertungen, die wir gelesen haben, ging es um folgende Punkte, ohne sie zu zählen oder zu ordnen:"
         ],
         "bullets": [
           "Verspätete Lieferung und lange Wartezeit bei einem Paket aus dem Ausland.",
@@ -152806,7 +152826,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "Das sind die Stellen, an denen ein internationaler Kauf häufig scheitert. Für Leser zeigen sie, wo man hinschauen sollte: die Lieferzeit im Checkout, die Sendungsverfolgung nach dem Versand und die Verpackung bei der Ankunft."
+          "Diese Berichte geben Hinweise für konkrete Prüfungen: Lieferzeit im Checkout, Sendungsverfolgung nach dem Versand und Zustand der Verpackung bei der Ankunft."
         ]
       },
       {
@@ -152869,14 +152889,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kann man YesStyle nach Trustpilot vertrauen?",
         "paragraphs": [
-          "Nach Trustpilot ist die Lesart gut: TrustScore 4,4, „Excellent“, bei 104.909 Bewertungen, davon 71 % Fünf-Sterne und 7 % Ein-Stern, mit 98 % beantworteten negativen Bewertungen, in der Regel innerhalb von 24 Stunden.",
+          "Nach Trustpilot ist die Note gut: TrustScore 4,4 bei 104.909 Bewertungen, davon 71 % Fünf-Sterne und 7 % Ein-Stern. Um den Kundenservice einzuschätzen, lesen Sie auch aktuelle Beschwerden und Antworten im Profil; die Antwortquote zeigt nicht, ob Probleme gelöst wurden.",
           "Der Vorbehalt betrifft den Geltungsbereich, nicht die Note. Das Profil ist global, trennt keine Länder, und die gelesenen Beschwerden betreffen die internationale Lieferung: Verspätung, Tracking und Verlust. Trustpilot zeigt, wie sich der Shop insgesamt verhält; Versand und Lieferzeit für Ihre Adresse stehen im Checkout."
         ]
       },
       {
         "heading": "Vor dem Bezahlen",
         "paragraphs": [
-          "In den negativen Bewertungen, die wir gelesen haben, ging es um die Lieferung, daher prüfen Sie vor dem Bezahlen die Versandkosten und die Lieferzeit für Ihr Land, die im Checkout erscheinen. Die Beträge und die Zählung der Lieferzeit je Land stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
+          "In den sichtbaren negativen Bewertungen, die wir gelesen haben, ging es um Lieferung und Sendungsverfolgung. Prüfen Sie vor der Zahlung Versandkosten und Lieferzeit für Ihre Adresse im Checkout. Beträge und Berechnung der Lieferzeiten stehen im [Lieferleitfaden von YesStyle](/de/reviews/yesstyle-versand-deutschland-oesterreich-schweiz).",
           "Bewahren Sie nach der Zahlung Bestellnummer und Tracking-Code auf: Damit eröffnet man beim Kundenservice eine Anfrage, wenn das Paket sich verspätet oder das Tracking stehen bleibt.",
           "Wenn Sie sich zum Kauf entschieden haben, führt die Seite zu [YesStyle-Gutscheinen und Reward Code](/de/coupons/yesstyle) hier auf der Website zum Shop. Der Link ist ein Affiliate-Link: Ein Kauf kann Em Casa com Cecília eine Provision einbringen, ohne Mehrkosten für Sie."
         ]
@@ -152928,7 +152948,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026年11月時点のYesStyleのTrustpilot評価：104,909件のレビューでTrustScoreは4.4、71%が星5つ。読んだ低評価レビューの苦情は国際配送が中心で、この評価はあなたの国のことを何も示しません。",
+    "description": "2026年11月時点のYesStyleのTrustpilot評価：104,909件のレビューでTrustScoreは4.4、71%が星5つ。表示されていた低評価レビューの苦情は国際配送が中心です。この評価が言えるのは世界全体の傾向までです。",
     "metaDescription": "2026年11月のYesStyleのTrustpilot：10万4千件のレビューで評価4.4、星5つは71%。読んだ低評価レビューの苦情は配送と追跡が中心。評価が示さないことを確認しましょう。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
@@ -152946,7 +152966,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "結論",
         "paragraphs": [
-          "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年11月時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。私たちが読んだ低評価レビューでは、苦情は国際配送と追跡に関するものでした。この評価は世界全体のもので、国別には分かれていません。"
+          "YesStyleのTrustpilot評価は高めですが、注意点が1つあります。2026年11月時点でTrustScoreは4.4、レビューは10万4千件を超え、71%が星5つでした。表示されていた低評価レビューには、国際配送や追跡の問題がありました。この評価は世界全体のもので、国別には分かれていません。"
         ]
       },
       {
@@ -152977,7 +152997,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "苦情に出てくること",
         "paragraphs": [
-          "苦情は国際配送に集中しています。表示されている低評価レビューを読み、テーマを書き出しました。件数は数えず、順位も付けていません。"
+          "表示されていた低評価レビューで出てきたテーマは次のとおりです。"
         ],
         "bullets": [
           "海外から届く荷物の配送遅延と長い待ち時間。",
@@ -152994,7 +153014,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "どれも、国際購入でつまずきやすい点です。読者にとっては、どこを見ればよいかの目安になります。チェックアウトでの配送日数、発送後の追跡、到着時の梱包です。"
+          "買う前後に確認したいのは、チェックアウトでの配送日数、発送後の追跡、到着時の梱包状態です。"
         ]
       },
       {
@@ -153057,14 +153077,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "TrustpilotでYesStyleを信頼できるか",
         "paragraphs": [
-          "Trustpilotで見るかぎり、評価は良好です。TrustScoreは4.4で「Excellent」、104,909件のレビューのうち71%が星5つ、7%が星1つ。低評価の98%に返信があり、多くは24時間以内です。",
+          "Trustpilotで見るかぎり、評価は良好です。TrustScoreは4.4、104,909件のレビューのうち71%が星5つ、7%が星1つ。サポートを判断するには、プロフィールの最近の苦情と返信も読んでみてください。返信率は、問題が解決した割合ではありません。",
           "注意点は評価ではなく、対象範囲です。プロフィールは世界共通で国別に分かれておらず、読んだ苦情は国際配送のもの、つまり遅延、追跡、紛失でした。Trustpilotが示すのはショップ全体の傾向で、あなたの住所への送料と配送日数はチェックアウトで確認できます。"
         ]
       },
       {
         "heading": "支払う前に",
         "paragraphs": [
-          "読んだ低評価レビューのテーマは配送だったので、支払う前に確認するのは、チェックアウトに表示されるお住まいの国の送料と配送日数です。配送日数の数え方や金額は[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。",
+          "表示されていた低評価レビューには配送と追跡の問題がありました。支払う前に、チェックアウトでお届け先の送料と配送日数を確認してください。配送日数の数え方や金額は[YesStyleの配送ガイド](/ja/reviews/yesstyle-shipping-japan-ja)にあります。",
           "支払ったあとは、注文番号と追跡コードを保管しておいてください。荷物が遅れたり追跡が止まったりしたときに、サポートへ問い合わせるにはこの2つが必要です。",
           "購入を決めたなら、当サイトの[YesStyleのクーポンとリワードコード](/ja/coupons/yesstyle)のページからショップへ移動できます。このリンクはアフィリエイトリンクです。購入によりEm Casa com Cecíliaに手数料が入ることがありますが、あなたに追加費用はかかりません。"
         ]
@@ -153116,7 +153136,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "2026년 11월 기준 YesStyle의 Trustpilot 평점: 리뷰 104,909건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 읽은 부정적 리뷰의 불만은 해외 배송에 관한 것이고, 이 평점은 회원님이 사는 나라에 대해서는 아무것도 알려 주지 않습니다.",
+    "description": "2026년 11월 기준 YesStyle의 Trustpilot 평점: 리뷰 104,909건에 TrustScore 4.4, 별 다섯 개가 71%입니다. 보이는 부정적 리뷰의 불만은 해외 배송에 관한 것이고, 이 평점으로 알 수 있는 것은 전 세계를 합친 경향까지입니다.",
     "metaDescription": "2026년 11월 YesStyle의 Trustpilot: 리뷰 10만 4천 건에 평점 4.4, 별 다섯 개 71%. 읽은 부정적 리뷰의 불만은 배송과 배송 추적이 중심입니다. 평점이 보여 주지 않는 부분을 확인해 보세요.",
     "publishedAt": "2026년 10월 29일",
     "publishedAtISO": "2026-10-29",
@@ -153134,7 +153154,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답",
         "paragraphs": [
-          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 11월 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 저희가 읽은 부정적 리뷰에서 불만은 해외 배송과 배송 추적에 관한 것이었습니다. 이 평점은 전 세계를 합친 것이며 국가별로 나뉘어 있지 않습니다."
+          "YesStyle의 Trustpilot 평점은 좋은 편이지만 단서가 하나 있습니다. 2026년 11월 기준 TrustScore는 4.4, 리뷰는 10만 4천 건이 넘었고 71%가 별 다섯 개였습니다. 보이는 부정적 리뷰에서는 해외 배송과 배송 추적 문제가 나왔습니다. 이 평점은 전 세계를 합친 것이며 국가별로 나뉘어 있지 않습니다."
         ]
       },
       {
@@ -153165,7 +153185,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "불만에서 보이는 것",
         "paragraphs": [
-          "불만은 해외 배송에 몰려 있습니다. 보이는 부정적 리뷰를 읽고 주제를 적어 두었으며, 건수를 세거나 순위를 매기지는 않았습니다."
+          "보이는 부정적 리뷰에서 나온 주제는 다음과 같습니다."
         ],
         "bullets": [
           "해외에서 오는 소포의 배송 지연과 긴 대기.",
@@ -153182,7 +153202,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "해외 구매가 흔히 어긋나는 지점들입니다. 구매자에게는 어디를 봐야 하는지를 알려 줍니다. 결제 화면의 배송 기간, 발송 후의 배송 추적, 도착했을 때의 포장입니다."
+          "구매 전후에 확인할 지점은 결제 화면의 배송 기간, 발송 후의 배송 추적, 도착했을 때의 포장 상태입니다."
         ]
       },
       {
@@ -153245,14 +153265,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trustpilot로 보면 YesStyle을 믿어도 될까?",
         "paragraphs": [
-          "Trustpilot로 보면 평가는 좋습니다. TrustScore 4.4, \"Excellent\", 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개이고, 부정적 리뷰의 98%에 답변했으며 대개 24시간 안에 달렸습니다.",
+          "Trustpilot로 보면 평가는 좋습니다. TrustScore 4.4, 리뷰 104,909건 중 71%가 별 다섯 개, 7%가 별 한 개입니다. 고객 응대를 판단하려면 프로필의 최근 불만과 답변도 읽어 보세요. 답변율은 문제가 해결된 비율을 뜻하지 않습니다.",
           "단서는 점수가 아니라 범위입니다. 프로필은 전 세계 공통이라 국가를 나누지 않고, 읽은 불만은 해외 배송 문제, 즉 지연, 배송 추적, 분실입니다. Trustpilot은 쇼핑몰이 전체적으로 어떻게 움직이는지를 보여 주고, 회원님 주소의 배송비와 배송 기간은 결제 화면에서 확인할 수 있습니다."
         ]
       },
       {
         "heading": "결제하기 전에",
         "paragraphs": [
-          "읽은 부정적 리뷰의 주제가 배송이었으니 결제 전에 확인할 것은 결제 화면에 표시되는 회원님 나라의 배송비와 배송 기간입니다. 기간을 세는 방식과 금액은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
+          "보이는 부정적 리뷰에는 배송과 배송 추적 문제가 있었습니다. 결제 전에 결제 화면에서 회원님 주소로 가는 배송비와 예상 배송 기간을 확인하세요. 금액과 기간을 세는 방식은 [YesStyle 배송 가이드](/ko/reviews/yesstyle-shipping-korea-ko)에 있습니다.",
           "결제한 뒤에는 주문 번호와 운송장 번호를 보관해 두세요. 소포가 늦어지거나 배송 추적이 멈췄을 때 고객센터에 문의하려면 이 두 가지가 필요합니다.",
           "구매하기로 했다면, 이 사이트의 [YesStyle 쿠폰과 리워드 코드](/ko/coupons/yesstyle) 페이지에서 쇼핑몰로 갈 수 있습니다. 제휴 링크입니다. 이 링크로 구매하면 Em Casa com Cecília에 수수료가 생길 수 있으며, 추가 비용은 없습니다."
         ]
@@ -153304,7 +153324,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 在 Trustpilot 上 2026年11月的评分：104,909 条评价，TrustScore 4.4，71% 为五星。我们读过的差评涉及国际配送，而这个评分并不能说明你所在国家的情况。",
+    "description": "YesStyle 在 Trustpilot 上 2026年11月的评分：104,909 条评价，TrustScore 4.4，71% 为五星。可见的差评涉及国际配送，这个全球合并评分只能说明整体情况。",
     "metaDescription": "YesStyle 在 Trustpilot 2026年11月：10.4 万条评价，评分 4.4，五星占 71%。读过的差评涉及配送和物流追踪。看看评分没有告诉你的部分。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
@@ -153322,7 +153342,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 上的评分不错，但有一个前提。2026年11月，TrustScore 为 4.4，评价超过 10.4 万条，71% 是五星；在我们读过的差评中，投诉涉及国际配送和物流追踪。这个评分是全球合并的，没有按国家区分。"
+          "YesStyle 在 Trustpilot 上的评分不错，但有一个前提。2026年11月，TrustScore 为 4.4，评价超过 10.4 万条，71% 是五星；在可见的差评中，投诉涉及国际配送和物流追踪。这个评分是全球合并的，没有按国家区分。"
         ]
       },
       {
@@ -153353,7 +153373,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "投诉里出现的内容",
         "paragraphs": [
-          "投诉围绕国际配送展开。我们读了可见的负面评价，记录了主题，不计数也不排序："
+          "在可见的负面评价中，出现的主题有这些："
         ],
         "bullets": [
           "包裹从海外寄来，配送延误、等待很久。",
@@ -153370,7 +153390,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "这些正是国际购物容易出问题的环节。对读者来说，它们说明了该看哪里：结账时的送达时间、发货后的物流追踪，以及收货时的包装。"
+          "购买前后可以核对这几个环节：结账时的送达时间、发货后的物流追踪，以及收货时的包装状态。"
         ]
       },
       {
@@ -153433,14 +153453,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "能通过 Trustpilot 信任 YesStyle 吗？",
         "paragraphs": [
-          "从 Trustpilot 看，结论是好的：TrustScore 4.4，“Excellent”，104,909 条评价中 71% 为五星、7% 为一星，98% 的负面评价得到回复，通常在 24 小时内。",
+          "从 Trustpilot 看，评分是好的：TrustScore 4.4，104,909 条评价中 71% 为五星、7% 为一星。若要判断客服处理情况，还应阅读主页上近期的投诉及回复；回复率并不代表问题已解决。",
           "前提在于范围，而不在评分。主页是全球通用的，不区分国家，我们读到的投诉都是国际配送问题：延误、物流追踪和包裹遗失。Trustpilot 显示的是商店整体的表现；你所在地址的运费和送达时间，请看结账页面。"
         ]
       },
       {
         "heading": "付款之前",
         "paragraphs": [
-          "在我们读过的差评中，投诉涉及配送，所以付款前要核对的是你所在国家的运费和送达时间，它们会显示在结账页面。送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
+          "可见的差评涉及配送和物流追踪。付款前，请在结账页面核对寄到你所在地址的运费和预计送达时间。送达时间的计算方式和金额见 [YesStyle 配送指南](/zh-hans/reviews/yesstyle-shipping-singapore-malaysia-zh-hans)。",
           "付款之后，请保存订单号和物流追踪码：如果包裹延误或物流追踪停止，联系客服时需要用到它们。",
           "如果你已经决定购买，本站的 [YesStyle 优惠券和奖励码](/zh-hans/coupons/yesstyle)页面会带你去商店。这是联盟链接：通过它购买，Em Casa com Cecília 可能获得佣金，你不需要多付费用。"
         ]
@@ -153492,7 +153512,7 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "YesStyle 在 Trustpilot 上 2026年11月的評分：104,909 則評價，TrustScore 4.4，71% 為五星。我們讀過的差評涉及國際運送，而這個評分並不能說明你所在國家的情況。",
+    "description": "YesStyle 在 Trustpilot 上 2026年11月的評分：104,909 則評價，TrustScore 4.4，71% 為五星。可見的差評涉及國際運送，這個全球合併評分只能說明整體情況。",
     "metaDescription": "YesStyle 在 Trustpilot 2026年11月：10.4 萬則評價，評分 4.4，五星占 71%。讀過的差評涉及運送和物流追蹤。看看評分沒有告訴你的部分。",
     "publishedAt": "2026年10月29日",
     "publishedAtISO": "2026-10-29",
@@ -153510,7 +153530,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "YesStyle 在 Trustpilot 上的評分不錯，但有一個前提。2026年11月，TrustScore 為 4.4，評價超過 10.4 萬則，71% 是五星；在我們讀過的差評中，投訴涉及國際運送和物流追蹤。這個評分是全球合併的，沒有按國家區分。"
+          "YesStyle 在 Trustpilot 上的評分不錯，但有一個前提。2026年11月，TrustScore 為 4.4，評價超過 10.4 萬則，71% 是五星；在可見的差評中，投訴涉及國際運送和物流追蹤。這個評分是全球合併的，沒有按國家區分。"
         ]
       },
       {
@@ -153541,7 +153561,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "投訴裡出現的內容",
         "paragraphs": [
-          "投訴圍繞國際運送展開。我們讀了可見的負評，記錄了主題，不計數也不排序："
+          "在可見的負評中，出現的主題有這些："
         ],
         "bullets": [
           "包裹從海外寄來，運送延誤、等待很久。",
@@ -153558,7 +153578,7 @@ export const reviewsData: unknown[] = [
           "aspectRatio": 1.7778
         },
         "postParagraphs": [
-          "這些正是國際購物容易出問題的環節。對讀者來說，它們說明了該看哪裡：結帳時的送達時間、出貨後的物流追蹤，以及收貨時的包裝。"
+          "購買前後可以核對這幾個環節：結帳時的送達時間、出貨後的物流追蹤，以及收貨時的包裝狀態。"
         ]
       },
       {
@@ -153621,14 +153641,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "能透過 Trustpilot 信任 YesStyle 嗎？",
         "paragraphs": [
-          "從 Trustpilot 看，結論是好的：TrustScore 4.4，「Excellent」，104,909 則評價中 71% 為五星、7% 為一星，98% 的負評得到回覆，通常在 24 小時內。",
+          "從 Trustpilot 看，評分是好的：TrustScore 4.4，104,909 則評價中 71% 為五星、7% 為一星。若要判斷客服處理情況，還應閱讀檔案上近期的投訴及回覆；回覆率並不代表問題已解決。",
           "前提在於範圍，而不在評分。檔案是全球通用的，不區分國家，我們讀到的投訴都是國際運送問題：延誤、物流追蹤和包裹遺失。Trustpilot 顯示的是商店整體的表現；你所在地址的運費和送達時間，請看結帳頁面。"
         ]
       },
       {
         "heading": "付款之前",
         "paragraphs": [
-          "在我們讀過的差評中，投訴涉及運送，所以付款前要核對的是你所在國家的運費和送達時間，它們會顯示在結帳頁面。送達時間的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
+          "可見的差評涉及運送和物流追蹤。付款前，請在結帳頁面核對寄到你所在地址的運費和預計送達時間。送達時間的計算方式和金額見 [YesStyle 運送指南](/zh-hant/reviews/yesstyle-shipping-taiwan-hong-kong-zh-hant)。",
           "付款之後，請保存訂單編號和物流追蹤碼：如果包裹延誤或物流追蹤停止，聯絡客服時需要用到它們。",
           "如果你已經決定購買，本站的 [YesStyle 優惠券和獎勵碼](/zh-hant/coupons/yesstyle)頁面會帶你去商店。這是聯盟連結：透過它購買，Em Casa com Cecília 可能獲得傭金，你不需要多付費用。"
         ]
