@@ -34,6 +34,7 @@
   "metaDescription": "O cupom SONAR20 dá 20% OFF no Criador com IA da Hostinger. Vale a pena ou WordPress? Quadro por projeto, Wix, Lovable e créditos de IA.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -120,7 +121,7 @@
     {
       "heading": "Criador com IA ou WordPress",
       "paragraphs": [
-        "O preço não decide: na Hostinger, o Criador com IA vem nos planos de hospedagem, os mesmos que rodam WordPress, pelos mesmos valores. O que muda é quem faz o trabalho e o que você controla."
+        "Na Hostinger, o preço do plano de hospedagem não decide: o modo sem IA do Criador vem nos mesmos planos que rodam WordPress, pelos mesmos valores. O modo com IA gasta créditos, e para publicar o site você precisa de hospedagem ativa. O que muda é quem faz o trabalho e o que você controla."
       ],
       "comparisonTable": {
         "headers": [
@@ -168,7 +169,7 @@
       },
       "postParagraphs": [
         "**O WordPress ganha** quando o projeto depende de um plugin específico, de um tema que você já tem, ou de alguém que vai manter o site depois. Ele é software livre: o site inteiro é seu e vai para qualquer hospedagem sem retrabalho.",
-        "**O Criador com IA ganha** quando você não quer instalar nem atualizar nada e quer um app web com login e dados, o que no WordPress vira uma pilha de plugins. A ressalva que muda a decisão: no modo com IA, cada mudança gasta créditos. Pela página, uma página institucional simples consome de 5 a 10 créditos, e um app mais complexo, 15 ou mais. Quem mexe no site toda semana precisa fazer as contas; quem monta uma vez e edita texto e foto no editor, sem prompt, não gasta."
+        "**O Criador com IA ganha** quando você não quer instalar nem atualizar nada e quer um app web com login e dados, o que no WordPress vira uma pilha de plugins. A ressalva que muda a decisão: no modo com IA, cada mudança gasta créditos. Pela página, uma página institucional simples consome de 5 a 10 créditos, e um app mais complexo, 15 ou mais. Quem mexe no site toda semana precisa fazer as contas. Quem monta uma vez e edita texto e foto no editor do modo sem IA não gasta; no modo com IA, até trocar um texto ou uma imagem pelo Select & edit consome um pouco de créditos."
       ]
     },
     {
@@ -228,7 +229,7 @@
     {
       "heading": "O que conferir antes de pagar",
       "bullets": [
-        "**Os créditos.** O modo com IA gasta créditos a cada pedido, e o saldo do plano não renova todo mês. Monte o site pela IA e faça os ajustes de texto e foto no editor, que não gasta.",
+        "**Os créditos.** O modo com IA gasta créditos a cada pedido, e o saldo do plano não renova todo mês. Até trocar um texto ou uma imagem pelo Select & edit consome um pouco; só o modo sem IA edita sem gastar.",
         "**O que acontece se você não renovar.** A página avisa: plano vencido e não renovado tira o projeto do ar e apaga os dados. Exporte o código antes de deixar vencer.",
         "**Domínio e e-mail grátis só no primeiro ano.** Depois, o domínio renova pelo preço de tabela da Hostinger: .com.br R$ 64,99 por ano e .com R$ 94,99 por ano.",
         "**Reembolso em 30 dias**, desde que você tenha consumido menos de 30 créditos de IA.",
@@ -278,7 +279,7 @@
     "takeIf": [
       "Leve o Criador com IA se quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples sem programar.",
       "Leve se quer hospedagem, domínio e e-mail no mesmo plano e aceita que a IA monte a primeira versão.",
-      "Leve se vai montar uma vez e ajustar texto e foto no editor, que não gasta créditos."
+      "Leve se vai montar uma vez e ajustar texto e foto no editor do modo sem IA, que não gasta créditos."
     ],
     "skipIf": [
       "Passe, e fique no WordPress, se o projeto depende de um plugin específico ou de um tema que você já tem.",

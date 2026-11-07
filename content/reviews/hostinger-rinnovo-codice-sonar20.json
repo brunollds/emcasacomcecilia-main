@@ -34,6 +34,7 @@
   "metaDescription": "Il codice SONAR20 dà il 20% su un piano nuovo di Hostinger; il rinnovo costa il prezzo di listino. Quanto costa rinnovare ogni piano e il rimborso.",
   "publishedAt": "5 novembre 2026",
   "publishedAtISO": "2026-11-05",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -176,7 +177,7 @@
         "27 giorni prima della scadenza, nel dominio."
       ],
       "postParagraphs": [
-        "La data può variare un po'. Se manca un giorno o meno al rinnovo, in quel ciclo non parte da solo: bisogna rinnovare a mano. Lascia credito sul metodo di pagamento vicino a queste date.",
+        "La data può variare un po'. Se attivi il rinnovo automatico quando manca un giorno o meno alla scadenza, in quel ciclo non parte da solo: bisogna rinnovare a mano. Controlla stato e data nel pannello e lascia credito sul metodo di pagamento vicino a queste date.",
         "Per rinnovare a mano in qualsiasi momento, apri Fatturazione, poi Abbonamenti, e clicca su rinnova accanto al servizio. Il prezzo del rinnovo, tasse escluse, compare lì, nella colonna del prezzo di rinnovo. Quando il piano sta per scadere, la sua scheda, nell'area dei siti del pannello, mostra la data e il pulsante per rinnovare."
       ],
       "image": {
@@ -227,7 +228,7 @@
     {
       "heading": "Il dominio resta fuori",
       "paragraphs": [
-        "Il dominio non ha rimborso sul rinnovo e non prende nemmeno il SONAR20, quindi chiede una decisione a parte. Il suo rinnovo ha un interruttore proprio, nell'area domini del pannello, e viene addebitato 27 giorni prima della scadenza. Solo la registrazione nuova ha un breve termine di rimborso, di 96 ore; il rinnovo non ne ha nessuno.",
+        "Il dominio non ha rimborso sul rinnovo e non prende nemmeno il SONAR20, quindi chiede una decisione a parte. Il suo rinnovo ha un interruttore proprio, nell'area domini del pannello, e viene addebitato 27 giorni prima della scadenza. Solo la registrazione nuova ha un breve termine di rimborso, di 96 ore in genere, a seconda dell'estensione; il rinnovo non ne ha nessuno.",
         "Decidi il dominio prima di quell'addebito: guarda il prezzo, verifica se deve restare in questo registrar e solo allora lascialo rinnovare. I percorsi per registrare, trasferire o lasciare fuori il dominio sono in [dominio su Hostinger](/it/reviews/dominio-hostinger-comprare-o-trasferire)."
       ]
     },

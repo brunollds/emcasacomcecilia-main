@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger Horizons is now the AI Builder. Is it worth it, or should you use WordPress? A table by project type, a comparison with Wix and Lovable, and AI credits.",
   "publishedAt": "October 28, 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -121,7 +122,7 @@
     {
       "heading": "AI Builder or WordPress",
       "paragraphs": [
-        "Price doesn't decide it: at Hostinger, the AI Builder comes with the hosting plans, the same ones that run WordPress, at the same prices. What changes is who does the work and what you control."
+        "At Hostinger, the price of the hosting plan doesn't decide it: the AI Builder's no-AI mode comes with the same plans that run WordPress, at the same prices. The AI mode uses credits, and to publish the site you need active hosting. What changes is who does the work and what you control."
       ],
       "comparisonTable": {
         "headers": [
@@ -169,7 +170,7 @@
       },
       "postParagraphs": [
         "**WordPress wins** when the project depends on a specific plugin, on a theme you already have, or on someone who will maintain the site later. It is free software: the whole site is yours and moves to any host without rework.",
-        "**The AI Builder wins** when you don't want to install or update anything and you want a web app with login and data, which in WordPress becomes a stack of plugins. The caveat that changes the decision: in AI mode, every change uses credits. According to the page, a simple institutional page uses 5 to 10 credits, and a more complex app, 15 or more. Anyone who changes the site every week has to do the math; anyone who builds it once and edits text and photos in the editor, with no prompt, uses none."
+        "**The AI Builder wins** when you don't want to install or update anything and you want a web app with login and data, which in WordPress becomes a stack of plugins. The caveat that changes the decision: in AI mode, every change uses credits. According to the page, a simple institutional page uses 5 to 10 credits, and a more complex app, 15 or more. Anyone who changes the site every week has to do the math. Anyone who builds it once and edits text and photos in the no-AI mode's editor uses none; in AI mode, even swapping a text or an image with Select & edit uses a few credits."
       ]
     },
     {
@@ -182,7 +183,7 @@
     {
       "heading": "What to check before paying",
       "bullets": [
-        "**The credits.** AI mode uses credits on every request, and the plan's balance doesn't renew every month. Build the site with the AI and make text and photo tweaks in the editor, which uses none.",
+        "**The credits.** AI mode uses credits on every request, and the plan's balance doesn't renew every month. Even swapping a text or an image with Select & edit uses a few; only the no-AI mode edits for free.",
         "**What happens if you don't renew.** The page warns: a plan that expires without renewal takes the project offline and deletes the data. Export the code before letting it expire.",
         "**30-day refund**, as long as you have used fewer than 30 AI credits.",
         "**The online store** is a feature of the Unlimited and Cloud Startup plans; on Unlimited, the page says it is free for 3 months. Check at checkout what it costs afterwards.",
@@ -252,7 +253,7 @@
     "takeIf": [
       "Take the AI Builder if you want a site of a few pages, a portfolio, a small store or a simple web app without coding.",
       "Take it if you want hosting, domain and email in the same plan and you're fine with the AI building the first version.",
-      "Take it if you'll build the site once and tweak text and photos in the editor, which uses no credits."
+      "Take it if you'll build the site once and tweak text and photos in the no-AI mode's editor, which uses no credits."
     ],
     "skipIf": [
       "Skip it, and stay with WordPress, if the project depends on a specific plugin or on a theme you already have.",

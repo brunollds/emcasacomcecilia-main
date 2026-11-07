@@ -34,6 +34,7 @@
   "metaDescription": "Der Code SONAR20 gibt 20 % Rabatt auf einen neuen Hostinger-Tarif; die Verlängerung läuft zum Tabellenpreis. Preise je Tarif und Erstattung im Überblick.",
   "publishedAt": "5. November 2026",
   "publishedAtISO": "2026-11-05",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -176,8 +177,8 @@
         "27 Tage vor Ablauf bei der Domain."
       ],
       "postParagraphs": [
-        "Der Termin kann leicht abweichen. Bleibt bis zur Verlängerung höchstens ein Tag, läuft sie in diesem Zyklus nicht von selbst: Dann müssen Sie von Hand verlängern. Sorgen Sie rund um diese Termine für Guthaben auf der Zahlungsart.",
-        "Um jederzeit von Hand zu verlängern, öffnen Sie Abrechnung, dann Abonnements, und klicken neben dem Dienst auf Verlängern. Der Verlängerungspreis ohne Steuern steht dort in der Spalte des Verlängerungspreises. Läuft der Tarif bald aus, zeigt seine Karte im Bereich der Websites im Dashboard das Datum und die Schaltfläche zum Verlängern."
+        "Der Termin kann leicht abweichen. Schalten Sie die automatische Verlängerung ein, wenn bis zum Ablauf höchstens ein Tag bleibt, läuft sie in diesem Zyklus nicht von selbst: Dann müssen Sie von Hand verlängern. Prüfen Sie Status und Datum im Panel und sorgen Sie rund um diese Termine für Guthaben auf der Zahlungsart.",
+        "Um jederzeit von Hand zu verlängern, öffnen Sie Abrechnung, dann Abonnements, und klicken neben dem Dienst auf Verlängern. Der Verlängerungspreis ohne Steuern steht dort in der Spalte des Verlängerungspreises. Läuft der Tarif bald aus, zeigt seine Karte im Bereich der Websites im Panel das Datum und die Schaltfläche zum Verlängern."
       ],
       "image": {
         "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-cobranca-de.webp",
@@ -227,7 +228,7 @@
     {
       "heading": "Die Domain bleibt außen vor",
       "paragraphs": [
-        "Die Domain wird bei der Verlängerung nicht erstattet und bekommt auch SONAR20 nicht, deshalb braucht sie eine eigene Entscheidung. Ihre Verlängerung hat einen eigenen Schalter, im Domainbereich des Dashboards, und wird 27 Tage vor Ablauf abgebucht. Nur die Neuregistrierung hat eine kurze Erstattungsfrist von 96 Stunden; die Verlängerung hat keine.",
+        "Die Domain wird bei der Verlängerung nicht erstattet und bekommt auch SONAR20 nicht, deshalb braucht sie eine eigene Entscheidung. Ihre Verlängerung hat einen eigenen Schalter, im Domainbereich des Panels, und wird 27 Tage vor Ablauf abgebucht. Nur die Neuregistrierung hat eine kurze Erstattungsfrist von in der Regel 96 Stunden, je nach Endung; die Verlängerung hat keine.",
         "Entscheiden Sie die Domain vor dieser Abbuchung: Schauen Sie auf den Preis, prüfen Sie, ob sie bei diesem Registrar bleiben muss, und lassen Sie sie erst dann verlängern. Die Wege Registrieren, Umziehen oder die Domain draußen lassen stehen in [Domain bei Hostinger](/de/reviews/hostinger-domain-kaufen-oder-umziehen)."
       ]
     },

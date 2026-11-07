@@ -51231,6 +51231,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 5% OFF no site da Let's Eat It. A loja é confiável? CNPJ, Le Creuset, troca em 30 dias, frete, Reclame Aqui e a Casa Let's em São Paulo.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/lets-eat-it-e-confiavel-capa-discover.webp",
@@ -51241,7 +51242,7 @@ export const reviewsData: unknown[] = [
       "Aparece no localizador de lojas oficial da Le Creuset Brasil",
       "Política de 30 dias para devolução, com etiqueta de envio enviada pela loja e reembolso integral",
       "Reposição gratuita de produto danificado no transporte, mediante fotos",
-      "Reputação Boa no Reclame Aqui, com 99,1% das reclamações respondidas nos últimos 6 meses",
+      "Reputação Boa no Reclame Aqui, com 99,1% das reclamações respondidas de abril a setembro",
       "Loja física em São Paulo, a Casa Let's, com 15% de desconto nas compras presenciais (exceto Le Creuset e Trussardi)"
     ],
     "cons": [
@@ -51249,7 +51250,7 @@ export const reviewsData: unknown[] = [
       "Tempo médio de resposta de 16 dias no Reclame Aqui",
       "\"Produto não recebido\" é o problema mais citado nas reclamações",
       "O site mantém, além da política oficial, um texto genérico de reembolso com regras diferentes",
-      "Não há frete grátis: o frete é calculado pelo CEP e pelo peso do pedido",
+      "O frete é calculado pelo CEP e pelo peso do pedido; a política padrão da loja cita frete grátis só para Le Creuset e Zwilling acima de R$ 1.000",
       "Não é possível retirar na Casa Let's um pedido feito no site"
     ],
     "contentSections": [
@@ -51387,7 +51388,7 @@ export const reviewsData: unknown[] = [
           "Norte e Nordeste: 7 a 12 dias úteis."
         ],
         "postParagraphs": [
-          "A loja não oferece frete grátis: o valor é calculado pelo CEP e pelo peso do pedido, e dá para simular na página do produto. Os prazos podem mudar em períodos promocionais. Se uma peça chegar danificada, a loja faz a reposição sem custo: basta enviar fotos do produto e da embalagem pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br. A política não informa um prazo para esse aviso, então o melhor é avisar logo depois de abrir a caixa."
+          "O frete é calculado pelo CEP e pelo peso do pedido, e dá para simular na página do produto. A política padrão da loja cita frete grátis em pedidos acima de R$ 1.000 em produtos Le Creuset e Zwilling; confirme no carrinho se vale para o seu pedido. Os prazos podem mudar em períodos promocionais. Se uma peça chegar danificada, a loja faz a reposição sem custo: basta enviar fotos do produto e da embalagem pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br. A política não informa um prazo para esse aviso, então o melhor é avisar logo depois de abrir a caixa."
         ],
         "links": [
           {
@@ -51412,7 +51413,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Nos últimos 6 meses, a Let's Eat It tem reputação Boa no Reclame Aqui, com nota 7,6/10, 99,1% das reclamações respondidas e 94% resolvidas. O lado mais fraco é a satisfação de quem reclamou: 54% dizem que voltariam a comprar, a nota média do consumidor é 5,6 e o tempo médio de resposta é de 16 dias.",
+          "No recorte de abril a setembro, a Let's Eat It tinha reputação Boa no Reclame Aqui, com nota 7,6/10, 99,1% das reclamações respondidas e 94% resolvidas. O lado mais fraco é a satisfação de quem reclamou: 54% dizem que voltariam a comprar, a nota média do consumidor é 5,6 e o tempo médio de resposta é de 16 dias.",
           "Em resumo, a loja resolve quase tudo, mas nem sempre do jeito ou no tempo que o cliente esperava. Detalhei os números, os temas das reclamações e o que fazer se o seu pedido der problema num artigo separado."
         ],
         "links": [
@@ -51469,7 +51470,7 @@ export const reviewsData: unknown[] = [
           "A Let's Eat It tem loja física? Sim, a Casa Let's, na Avenida Pacaembu, 1105, em São Paulo, aberta de segunda a sexta, das 9h às 18h, e aos sábados, das 10h às 14h. As compras presenciais têm 15% de desconto, exceto Le Creuset e Trussardi.",
           "Dá para retirar o pedido na Casa Let's? Não. Segundo a política de frete, os pedidos feitos no site são sempre enviados para o endereço informado na compra.",
           "Quanto tempo demora a entrega da Let's Eat It? De 3 a 5 dias úteis na capital paulista até 7 a 12 dias úteis no Norte e no Nordeste, contados depois da confirmação do pagamento.",
-          "A Let's Eat It tem frete grátis? Não na compra: o frete é calculado pelo CEP e pelo peso do pedido. O que é gratuito é o envio na devolução, com a etiqueta enviada pela loja.",
+          "A Let's Eat It tem frete grátis? Em geral o frete é calculado pelo CEP e pelo peso do pedido. A política padrão da loja cita frete grátis para Le Creuset e Zwilling em pedidos acima de R$ 1.000 nessas marcas, então confirme no carrinho. O envio na devolução também é gratuito, com a etiqueta enviada pela loja.",
           "Como trocar ou devolver um produto da Let's Eat It? A loja aceita devolução em até 30 dias após o recebimento, envia a etiqueta de envio e devolve o valor integral ou em crédito na loja. O contato é pelo WhatsApp (11) 96570-0375 ou pelo e-mail suporte@letseatit.com.br.",
           "O que acontece se o produto chegar quebrado? A loja informa reposição gratuita da peça, mediante fotos do produto e da embalagem enviadas ao atendimento.",
           "Qual é o cupom da Let's Eat It? É MAUAD, com 5% de desconto no site oficial, da parceria com o Em Casa com Cecília."
@@ -51510,10 +51511,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Os números da Let's Eat It no Reclame Aqui nos últimos 6 meses: reputação Boa, 99,1% das reclamações respondidas e 94% resolvidas — e por que só 54% dizem que voltariam a comprar.",
+    "description": "Os números da Let's Eat It no Reclame Aqui de abril a setembro: reputação Boa, 99,1% das reclamações respondidas, 94% resolvidas, e só 54% voltariam a comprar.",
     "metaDescription": "Let's Eat It no Reclame Aqui, com o cupom MAUAD de 5% OFF: reputação Boa, nota 7,6, 99,1% respondidas e 94% resolvidas, e o que fazer se der problema.",
     "publishedAt": "3 de outubro de 2026",
     "publishedAtISO": "2026-10-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp",
@@ -51521,9 +51523,9 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "99,1% das reclamações dos últimos 6 meses foram respondidas — só 1 aguardava resposta na consulta",
+      "99,1% das reclamações de abril a setembro foram respondidas; só 1 aguardava resposta na consulta",
       "94% das reclamações avaliadas foram consideradas resolvidas pelos próprios consumidores",
-      "Reputação Boa em todos os meses de abril a setembro de 2026",
+      "Reputação Boa em todos os meses de abril a setembro",
       "13ª colocada no ranking de melhores empresas da categoria lojas de decoração do Reclame Aqui",
       "Perfil ativo no Reclame Aqui há 6 anos, com CNPJ e telefone informados"
     ],
@@ -51708,7 +51710,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
-          "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It: quem compra pelo nosso link ou com o cupom MAUAD ganha 5% de desconto, e podemos receber comissão sem custo extra para você. A parceria não muda os números deste artigo, que vêm do perfil público da loja no Reclame Aqui."
+          "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It: os 5% de desconto vêm do cupom MAUAD, que você digita no checkout e confere no resumo do pedido. Podemos receber comissão pelo código e pelo nosso link, sem custo extra para você. A parceria não muda os números deste artigo, que vêm do perfil público da loja no Reclame Aqui."
         ],
         "links": [
           {
@@ -51727,8 +51729,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A loja Let's Eat It é confiável segundo o Reclame Aqui? A reputação é Boa, com nota 7,6/10 nos últimos 6 meses, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio.",
-          "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, considerando os últimos 6 meses. A nota média dada pelos consumidores nas avaliações é 5,6.",
+          "A loja Let's Eat It é confiável segundo o Reclame Aqui? A reputação é Boa, com nota 7,6 de 10 no recorte de abril a setembro, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio.",
+          "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, no recorte de abril a setembro. A nota média dada pelos consumidores nas avaliações é 5,6.",
           "A Let's Eat It responde as reclamações? Sim: responde quase todas, como mostra o quadro acima; na consulta, só uma aguardava resposta.",
           "Por que 94% foram resolvidas, mas só 54% voltariam a comprar? Os dois índices vêm das mesmas 50 avaliações. Muitos consumidores consideraram o problema resolvido, mas não ficaram satisfeitos com a forma ou o tempo da solução.",
           "Quanto tempo a Let's Eat It demora para responder no Reclame Aqui? O tempo médio de resposta no período foi de 16 dias e 7 horas.",
@@ -75223,6 +75225,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o DREMCASACOMCECILIA, 10% OFF na Dr. Peanut: a reputação no Reclame Aqui, Boa (7,4) em 6 meses e Ótima (8,1) em 12.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/dr-peanut-reclame-aqui-capa-discover.webp",
@@ -75428,7 +75431,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "**Caixa avariada, embalagem violada ou item errado na entrega:** você pode recusar a encomenda e escrever o motivo no verso da nota fiscal.",
-          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a devolução paga pela loja, com a embalagem original e o lacre intacto, só para compras no site oficial.",
+          "**Arrependimento:** pela política do site oficial, 7 dias corridos a partir do recebimento, com a devolução paga pela loja, com a embalagem original e o lacre intacto. Essas condições são as do canal próprio da loja; compra em outro canal segue as regras dele.",
           "**Troca por outro produto:** o frete de ida e de volta é seu.",
           "**Defeito:** 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras, com a coleta paga pela loja."
         ],
@@ -75499,6 +75502,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O DREMCASACOMCECILIA dá 10% OFF em todo o site da Dr. Peanut, testado no carrinho. Veja o passo a passo, o frete grátis por região e as trocas.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/cupom-dr-peanut-capa-discover.webp",
@@ -75515,7 +75519,7 @@ export const reviewsData: unknown[] = [
       "O cupom não dá frete grátis: o frete tem regra e mínimo à parte",
       "O mínimo do frete grátis é conferido sobre o total já com o cupom",
       "Na troca por outro produto, o frete de ida e de volta é seu",
-      "O arrependimento vale só para compras feitas no site oficial"
+      "A regra de arrependimento descrita aqui é a do site oficial da Dr. Peanut"
     ],
     "contentSections": [
       {
@@ -75638,12 +75642,12 @@ export const reviewsData: unknown[] = [
           "O que vale na troca depende da situação: a política da loja separa três:"
         ],
         "bullets": [
-          "**Arrependimento:** 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. A loja paga a devolução.",
+          "**Arrependimento:** pela política do site oficial, 7 dias corridos a partir do recebimento, com a embalagem original e o lacre intactos. A loja paga a devolução.",
           "**Troca por outro produto:** o frete de ida e de volta é seu.",
           "**Defeito:** 30 dias para alimentos e 90 dias para roupas, acessórios e coqueteleiras, com a coleta paga pela loja."
         ],
         "postParagraphs": [
-          "O pedido é feito pelo SAC, no e-mail sac@supley.com.br, com o número do pedido e a nota fiscal. Os prazos, o estorno e o que fazer na entrega estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). Para ver a reputação da loja no Reclame Aqui, veja [Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/dr-peanut-reclame-aqui-nota-reputacao)."
+          "Estas condições e o SAC são os do site oficial; em compra feita em outro canal valem as regras daquele canal. O pedido é feito pelo SAC, no e-mail sac@supley.com.br, com o número do pedido e a nota fiscal. Os prazos, o estorno e o que fazer na entrega estão em [Dr. Peanut é confiável? De quem é a marca, site oficial, trocas e frete](/reviews/dr-peanut-e-confiavel). Para ver a reputação da loja no Reclame Aqui, veja [Dr. Peanut no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/dr-peanut-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -75696,6 +75700,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. A marca é confiável? Veja de quem ela é, o CNPJ, o site oficial, as regras de troca e o frete grátis.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-skull-confiavel-capa-discover.webp",
@@ -75711,7 +75716,7 @@ export const reviewsData: unknown[] = [
     ],
     "cons": [
       "A troca comum tem a postagem e o reenvio por conta do cliente",
-      "Reputação Regular no Reclame Aqui nos últimos 6 meses, com 61,5% das reclamações resolvidas",
+      "Reputação Regular no Reclame Aqui de abril a setembro, com índice de solução de 61,5%",
       "O mínimo do frete grátis muda conforme a região e conta o valor já com desconto",
       "Alguns links do rodapé não abriam a página certa em 14/10/2026",
       "O WhatsApp da página de contato é de revenda, não de atendimento ao cliente"
@@ -75872,7 +75877,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Em 14/10/2026, a Black Skull aparecia no Reclame Aqui com reputação Regular nos últimos 6 meses, nota 6,8, e Boa nos últimos 12 meses, nota 7,1. O artigo de reputação explica o que está por trás de cada selo, a taxa de solução e o que fazer se o pedido der problema."
+          "Em 14/10/2026, a Black Skull aparecia no Reclame Aqui com reputação Regular no recorte de abril a setembro, nota 6,8, e Boa nos 12 meses até setembro, nota 7,1. O artigo de reputação explica o que está por trás de cada selo, a taxa de solução e o que fazer se o pedido der problema."
         ],
         "links": [
           {
@@ -75915,7 +75920,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Veja as faixas de frete grátis da sua região e confira o carrinho depois de aplicar o cupom, porque o mínimo conta o valor já com desconto.",
           "Lembre que a troca comum (por gosto ou por escolher o item errado) tem a postagem e o reenvio por sua conta. Só arrependimento e defeito saem sem custo de postagem para você.",
-          "Reputação no Reclame Aqui: nos últimos 6 meses, a loja respondeu a 100% das reclamações e resolveu 61,5%, e é isso que deixa o selo em Regular. Guarde número do pedido, e-mails e protocolos do SAC."
+          "Reputação no Reclame Aqui: no recorte de abril a setembro, a loja respondeu a 100% das reclamações, e o índice de solução ficou em 61,5%, o que deixa o selo em Regular. Guarde número do pedido, e-mails e protocolos do SAC."
         ],
         "postParagraphs": [
           "Se você já decidiu comprar, use o código CECILIA10 no carrinho e confira o desconto item por item antes de pagar."
@@ -75924,7 +75929,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Skull é confiável? Sim, do ponto de vista da empresa e das regras de compra. A GDS, dona da loja, tem CNPJ ativo desde 2014, e o site publica as políticas de entrega, pagamento, trocas e atendimento. No Reclame Aqui, a reputação é Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1).",
+          "A Black Skull é confiável? Sim, do ponto de vista da empresa e das regras de compra. A GDS, dona da loja, tem CNPJ ativo desde 2014, e o site publica as políticas de entrega, pagamento, trocas e atendimento. No Reclame Aqui, o recorte de abril a setembro mostrava reputação Regular (nota 6,8), e os 12 meses até setembro, Boa (nota 7,1).",
           "A Black Skull é brasileira? Segundo a própria marca, sim: ela se descreve como uma marca brasileira, inaugurada no Brasil em 2015, com sede em Embu das Artes (SP). O \"Sobre nós\" cita a Grow Dietary Supplements Labs USA (GDS), mas não explica a sigla do nome.",
           "A Black Skull é da Integralmédica? O CNPJ e o site apontam a GDS, e nenhuma fonte oficial liga a marca à Integralmédica.",
           "O site da Black Skull é seguro? O endereço oficial é blackskullusa.com.br, e o antigo blackskull.com.br redireciona para ele. Confira o domínio na barra do navegador e o CNPJ no rodapé antes de pagar, e lembre que a loja não cobra nenhuma taxa depois que o pedido é feito.",
@@ -75969,10 +75974,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Skull tem reputação Regular (6,8) em 6 meses e Boa (7,1) em 12 no Reclame Aqui, responde tudo e resolve 61,5%. Veja o que isso significa para a sua compra.",
-    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. No Reclame Aqui, a reputação é Regular em 6 meses (nota 6,8), com 61,5% das reclamações resolvidas.",
+    "description": "Na consulta de outubro, a Black Skull tinha reputação Regular (6,8) de abril a setembro e Boa (7,1) em 12 meses no Reclame Aqui, com índice de solução de 61,5%.",
+    "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. No Reclame Aqui, a reputação era Regular de abril a setembro (nota 6,8), com solução de 61,5%.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-skull-reclame-aqui-capa-discover.webp",
@@ -75980,24 +75986,24 @@ export const reviewsData: unknown[] = [
     "imageFit": "contain",
     "imageAspect": "landscape",
     "pros": [
-      "100% das reclamações respondidas nos últimos 6 meses, sem nenhuma aguardando resposta",
+      "100% das reclamações respondidas de abril a setembro, sem nenhuma aguardando resposta",
       "Reputação Boa, nota 7,1, na aba de 12 meses",
-      "74,3% das reclamações resolvidas na aba de 12 meses",
+      "Índice de solução de 74,3% na aba de 12 meses",
       "Perfil de empresa verificada no Reclame Aqui",
       "Em caso de extravio, a loja reenvia o pedido sem custo"
     ],
     "cons": [
-      "Reputação Regular, nota 6,8, nos últimos 6 meses",
-      "Só 61,5% das reclamações resolvidas nos últimos 6 meses",
-      "Tempo médio de resposta de 6 dias e 11 horas nos últimos 6 meses",
+      "Reputação Regular, nota 6,8, de abril a setembro",
+      "Índice de solução de só 61,5% de abril a setembro",
+      "Tempo médio de resposta de 6 dias e 11 horas de abril a setembro",
       "Produto não recebido é o problema mais citado, com 19,39%",
-      "Só 56,4% dos que avaliaram voltariam a fazer negócio nos últimos 6 meses"
+      "Só 56,4% dos que avaliaram voltariam a fazer negócio de abril a setembro"
     ],
     "contentSections": [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Skull tem reputação Regular no Reclame Aqui nos últimos 6 meses, com nota 6,8, e Boa nos últimos 12, com nota 7,1. Ela responde a todas as reclamações, mas só 61,5% aparecem como resolvidas nos 6 meses. O capítulo sobre o Regular e o Boa explica o que isso significa para a sua compra; para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
+          "Na consulta de outubro, a Black Skull tinha reputação Regular no Reclame Aqui de abril a setembro (nota 6,8) e Boa em 12 meses (nota 7,1). Respondeu a todas as reclamações, mas o índice de solução foi de 61,5%, calculado sobre as reclamações finalizadas e avaliadas, não sobre as 98 recebidas. Para comprar com desconto, veja o [cupom Black Skull](/cupons/black-skull)."
         ]
       },
       {
@@ -76103,16 +76109,16 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Três leituras saem da tabela. A primeira é a resposta: nas três abas a loja responde a praticamente todas as reclamações e não deixa nenhuma aguardando.",
-          "A segunda é a solução, que varia mais entre as abas. Nas abas de 6 meses e de 2025, mais de um terço das reclamações não aparece como resolvida. Já a vontade de voltar a comprar é parecida nos três períodos.",
+          "A segunda é a solução, que varia mais entre as abas. Nas abas de 6 meses e de 2025, o índice de solução fica abaixo de dois terços, e ele é calculado sobre as reclamações finalizadas e avaliadas, não sobre as recebidas. Já a vontade de voltar a comprar é parecida nos três períodos.",
           "A terceira é o tamanho da amostra: 98 reclamações em 6 meses, 42 avaliadas. Com tão poucos casos, os índices mexem com pouco. Por isso vale olhar as três abas juntas, e não só o selo do topo."
         ]
       },
       {
         "heading": "O que separa o Regular do Boa: a solução, não a resposta",
         "paragraphs": [
-          "No quadro de 6 meses, a Black Skull responde a tudo, mas só 61,5% das reclamações foram resolvidas, 56,4% voltariam a fazer negócio e a nota média do consumidor é 6,08.",
-          "A diferença mais clara entre as abas é a solução: 61,5% nos 6 meses e 64,4% em 2025, ambas Regular, contra 74,3% na aba de 12 meses, que é Boa.",
-          "Responder rápido é outra coisa. O tempo médio de resposta passou de 4 dias e 10 horas em 2025 para 6 dias e 11 horas nos últimos 6 meses. Responder a todas não significa resolver todas.",
+          "No quadro de 6 meses, a Black Skull respondeu a tudo, mas o índice de solução ficou em 61,5%, calculado pelo Reclame Aqui sobre as reclamações finalizadas e avaliadas, e não sobre as 98 recebidas. Além disso, 56,4% voltariam a fazer negócio e a nota média do consumidor é 6,08.",
+          "A diferença mais clara entre as abas é o índice de solução: 61,5% nos 6 meses e 64,4% em 2025, ambas Regular, contra 74,3% na aba de 12 meses, que é Boa.",
+          "Responder rápido é outra coisa. O tempo médio de resposta passou de 4 dias e 10 horas em 2025 para 6 dias e 11 horas no recorte de abril a setembro. Responder a todas não significa resolver todas.",
           "O que isso quer dizer para você: Regular, sozinho, não diz que a loja deixa de entregar. Mostra que uma parte das reclamações registradas não aparece como resolvida. A taxa de solução baixa é um motivo para guardar o número do pedido, os e-mails e os protocolos do atendimento desde a compra."
         ],
         "image": {
@@ -76159,7 +76165,7 @@ export const reviewsData: unknown[] = [
         "imageFit": "contain",
         "imageAspectRatio": 1.2261,
         "postParagraphs": [
-          "O problema mais citado é produto não recebido. É um tipo de reclamação sobre entrega, não sobre o produto. Como o quadro cobre até 3 anos, ele não diz quanto disso aconteceu nos últimos 6 meses, e a participação do problema mais citado não é a da maioria das reclamações.",
+          "O problema mais citado é produto não recebido. É um tipo de reclamação sobre entrega, não sobre o produto. Como o quadro cobre até 3 anos, ele não diz quanto disso aconteceu no recorte de abril a setembro, e a participação do problema mais citado não é a da maioria das reclamações.",
           "O Whey Protein é o produto mais citado, o que não diz que ele seja pior do que os outros itens. Se um suplemento faz sentido para você, e em que quantidade, é conversa para ter com um médico ou nutricionista.",
           "Nenhum desses números vira prova de golpe nem de que está tudo certo. O que o quadro ajuda a fazer é saber onde prestar atenção no seu pedido: o prazo de entrega e o rastreio."
         ]
@@ -76212,12 +76218,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Black Skull?",
         "paragraphs": [
-          "Dá, com cuidado. Na leitura, a reputação era Regular nos últimos 6 meses e Boa nos 12. A loja responde a tudo, mas uma parte das reclamações não aparece como resolvida."
+          "Dá, com cuidado. Na consulta de outubro, a reputação era Regular de abril a setembro e Boa nos 12 meses. A loja respondeu a tudo, mas uma parte das reclamações não aparece como resolvida."
         ],
         "bullets": [
-          "Nota: 6,8 nos 6 meses (Regular) e 7,1 nos 12 meses (Boa).",
-          "Respondidas: 100% nos 6 meses. Resolvidas: 61,5% nos 6 meses e 74,3% nos 12 meses.",
-          "Voltariam a fazer negócio: 56,4% nos 6 meses.",
+          "Nota: 6,8 no recorte de abril a setembro (Regular) e 7,1 nos 12 meses (Boa).",
+          "Respondidas: 100% de abril a setembro. Índice de solução, sobre as reclamações finalizadas e avaliadas: 61,5% de abril a setembro e 74,3% nos 12 meses.",
+          "Voltariam a fazer negócio: 56,4% de abril a setembro.",
           "Tempo médio de resposta: 6 dias e 11 horas nos 6 meses.",
           "Problema mais citado na aba geral: produto não recebido, com 19,39%.",
           "Cuidado prático: guarde o número do pedido, os e-mails e os protocolos do atendimento, e acompanhe o prazo e o rastreio."
@@ -76226,9 +76232,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Black Skull é confiável segundo o Reclame Aqui? A resposta é mista. O perfil mostrava reputação Regular nos últimos 6 meses (nota 6,8) e Boa nos últimos 12 meses (nota 7,1). A loja respondeu a 100% das reclamações dos últimos 6 meses e 61,5% aparecem como resolvidas.",
-          "Qual a nota da Black Skull no Reclame Aqui? A nota era 6,8 nos últimos 6 meses (Regular), 7,1 nos últimos 12 meses (Boa) e 6,6 em 2025 (Regular). A nota média do consumidor era 6,08 nos últimos 6 meses.",
-          "A Black Skull responde às reclamações? Sim. Nos últimos 6 meses, 100% foram respondidas e nenhuma estava aguardando resposta. O tempo médio de resposta era de 6 dias e 11 horas.",
+          "A Black Skull é confiável segundo o Reclame Aqui? A resposta é mista. Na consulta de outubro, o perfil mostrava reputação Regular de abril a setembro (nota 6,8) e Boa nos 12 meses até setembro (nota 7,1). A loja respondeu a 100% das reclamações do período, e o índice de solução foi de 61,5%, calculado sobre as reclamações finalizadas e avaliadas.",
+          "Qual a nota da Black Skull no Reclame Aqui? Na consulta de outubro, a nota era 6,8 no recorte de abril a setembro (Regular), 7,1 nos 12 meses até setembro (Boa) e 6,6 em 2025 (Regular). A nota média do consumidor era 6,08 no recorte de abril a setembro.",
+          "A Black Skull responde às reclamações? Sim. De abril a setembro, 100% foram respondidas e nenhuma estava aguardando resposta. O tempo médio de resposta era de 6 dias e 11 horas.",
           "O que fazer se o pedido da Black Skull não chegar? Guarde o número do pedido, fale com o SAC (0800-770 4260) ou pelo e-mail sac@blackskullusa.com e peça o protocolo. Em caso de extravio, a loja reenvia o pedido sem custo, e uma entrega que você não reconhece deve ser contestada em até 10 dias.",
           "Qual o SAC da Black Skull? O SAC é 0800-770 4260 e (11) 4189-7000, de segunda a sexta, das 8h às 18h, e o e-mail é sac@blackskullusa.com."
         ]
@@ -78172,6 +78178,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF no site oficial. A Max Titanium é confiável? Quem opera a loja, CNPJ, trocas, frete e Reclame Aqui.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/max-titanium-confiavel-capa-discover.webp",
@@ -78383,7 +78390,7 @@ export const reviewsData: unknown[] = [
           "Quem é o dono da Max Titanium? A marca pertence ao grupo Supley, que é a empresa que aparece no rodapé do site, com o CNPJ 07.578.713/0004-29. O site da Supley diz que a trajetória do grupo começou em 2006.",
           "O site da Max Titanium é seguro? O endereço oficial é maxtitanium.com.br, e o rodapé mostra razão social, CNPJ e endereço. Confira o domínio na barra do navegador antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
           "Qual é o CNPJ da Max Titanium? O rodapé do site traz o CNPJ 07.578.713/0004-29, da Supley Lab. de Alimentos e Suplementos Nutricionais Ltda., que consta como ativo nos dados públicos.",
-          "Quanto tempo tenho para trocar um produto da Max Titanium? São 7 dias corridos a partir do recebimento para o arrependimento, com embalagem original e lacre intacto, e 30 dias corridos para comunicar defeito em suplementos (90 dias em duráveis, como coqueteleiras). No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
+          "Quanto tempo tenho para trocar um produto da Max Titanium? São 7 dias corridos a partir do recebimento para o arrependimento (a política da Max Titanium pede embalagem original e lacre intacto; confira essa regra antes de abrir o produto) e 30 dias corridos para comunicar defeito em suplementos (90 dias em duráveis, como coqueteleiras). No arrependimento, o pedido vai por e-mail para sac@supley.com.br, com o número do pedido e a nota fiscal.",
           "A Max Titanium tem frete grátis? Tem, a partir de um valor de pedido que depende da região: R$ 104 na capital de São Paulo, R$ 134 no Sudeste, R$ 249 no Sul, R$ 204 no Centro-Oeste, R$ 299 no Nordeste e R$ 599 no Norte. Vale na forma de envio mais barata, não no Sedex.",
           "Tem cupom de primeira compra na Max Titanium? Nosso cupom é o MAX10EMCASACOMCECILIA: dá até 10% OFF, com desconto menor em alguns produtos, e vale em todas as formas de pagamento, para conta nova e para quem já comprou. Digite o código no campo \"Cupom de Desconto\" do carrinho e veja as condições na [página do cupom](/cupons/max-titanium)."
         ]
@@ -78410,6 +78417,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Max Titanium no Reclame Aqui, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: reputação Boa, nota 7,6, 82,6% resolvidas e o que fazer.",
     "publishedAt": "14 de outubro de 2026",
     "publishedAtISO": "2026-10-14",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/max-titanium-reclame-aqui-capa-discover.webp",
@@ -78593,7 +78601,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Pedido atrasado:** acompanhe o rastreio e guarde o número do pedido. Quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\", no portal de atendimento, ou fale com o SAC pelos telefones e pelo e-mail.",
           "**Recusa na entrega:** se a embalagem chegar violada, o produto for diferente do pedido ou faltar item, recuse o recebimento e anote o motivo no verso da nota.",
-          "**Arrependimento:** são 7 dias corridos. O produto precisa estar na embalagem original, com o lacre intacto. O reembolso é integral, com o frete pago na compra, na mesma forma de pagamento.",
+          "**Arrependimento:** são 7 dias corridos. A política da loja pede o produto na embalagem original, com o lacre intacto, então confira essa regra antes de abrir. O reembolso é integral, com o frete pago na compra, na mesma forma de pagamento.",
           "**Defeito:** são 30 dias corridos para suplementos e 90 para produtos duráveis. A coleta e o reenvio ficam por conta da Max Titanium, e a análise leva até 30 dias do recebimento no centro de distribuição.",
           "**Erro de endereço:** se o pedido voltar por endereço errado, o frete do reenvio pode ser cobrado de você.",
           "**Se o atendimento direto não resolver:** abra uma reclamação no Reclame Aqui e, depois da resposta, avalie se o problema foi resolvido."
@@ -78620,7 +78628,7 @@ export const reviewsData: unknown[] = [
           "Qual a nota da Max Titanium no Reclame Aqui? Nota 7,6 nos últimos 6 meses, 7,2 nos últimos 12 meses e 7,6 em 2025, todas na faixa Boa. A nota do consumidor, dada por quem avaliou o atendimento, era 6,32, 5,68 e 6,01.",
           "A Max Titanium responde às reclamações? Sim. Na consulta, o perfil mostrava 97,5% das reclamações respondidas nos últimos 6 meses e 99% nos últimos 12, com resposta em cerca de uma semana ou mais (7 dias e 9 horas nos 6 meses).",
           "O que fazer se o pedido da Max Titanium atrasar? Acompanhe o rastreio e, quando o prazo informado na compra vencer, abra um chamado em \"Problemas com seu pedido\" no portal de atendimento ou fale com o SAC pelo 4004-2696 ou por sac@supley.com.br. Se não resolver, abra uma reclamação no Reclame Aqui.",
-          "Como pedir troca ou reembolso na Max Titanium? No arrependimento, são 7 dias corridos, com embalagem original e lacre intacto, e o reembolso é integral, com o frete pago na compra. Em caso de defeito, são 30 dias corridos para suplementos e 90 para duráveis, com coleta e reenvio por conta da Max Titanium."
+          "Como pedir troca ou reembolso na Max Titanium? No arrependimento, são 7 dias corridos, e a política da loja pede embalagem original e lacre intacto; o reembolso é integral, com o frete pago na compra. Em caso de defeito, são 30 dias corridos para suplementos e 90 para duráveis, com coleta e reenvio por conta da Max Titanium."
         ]
       }
     ]
@@ -81877,10 +81885,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Black Skull é a mais barata na creatina e no whey por grama de proteína; a Max Titanium tem mais whey 3W com sabor e creatina Creapure. Veja quem escolhe o quê.",
+    "description": "No catálogo de outubro, o Whey 80% HD e o Creator, da Black Skull, saem mais baratos; a Max Titanium tem mais whey 3W com sabor e a creatina Creapure. Veja quem escolhe o quê.",
     "metaDescription": "Black Skull ou Max Titanium, com o cupom CECILIA10 e 10% OFF na Black Skull: whey e creatina pelo rótulo e pelo preço por dose.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-skull-ou-max-titanium-capa.webp",
@@ -81891,7 +81900,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Skull é a mais barata na creatina e no whey por grama de proteína. A Max Titanium tem mais opções de whey 3W com sabor e vende a creatina Creapure. O que pesa é o critério: menor preço por proteína ou mais proteína por dose; veja em Quem escolhe o quê."
+          "Nos preços de catálogo de outubro, o Whey 80% HD e o Creator, da Black Skull, são os mais baratos por grama de proteína e por dose de creatina. A Max Titanium tem mais opções de whey 3W com sabor e vende a creatina Creapure. O que pesa é o critério: menor preço por proteína ou mais proteína por dose."
         ]
       },
       {
@@ -82274,7 +82283,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Black Skull ou Max Titanium: qual é melhor? Pelo rótulo e pelo preço, a Black Skull sai mais barata por grama de proteína e por dose de creatina, e a Max Titanium tem mais whey 3W com sabor e a creatina Creapure.",
+          "Black Skull ou Max Titanium: qual é melhor? Nos preços de catálogo de outubro, o Whey 80% HD e o Creator da Black Skull saem mais baratos por grama de proteína e por dose de creatina, e a Max Titanium tem mais whey 3W com sabor e a creatina Creapure.",
           "Qual whey é melhor, Black Skull ou Max Titanium? Depende do critério. Mais proteína por dose é o Top Whey 3W + Performance (32 g) ou o Whey 3W Core (31 g); menor preço por 100 g de proteína é o Whey 80% HD da Black Skull.",
           "Black Skull é boa? É uma marca boa? O que dá para comparar sem prova é rótulo e preço por dose; a origem da marca está na seção sobre as duas marcas, acima.",
           "Black Skull é brasileira? É da Integralmédica? É brasileira, da GDS Grow Dietary Supplements do Brasil, em Embu das Artes (SP). Nenhuma fonte oficial liga a marca à Integralmédica.",
@@ -82339,6 +82348,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Probiótica? Mesma fábrica, linhas diferentes: proteína, preço por 100 g e creatina.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/max-titanium-ou-probiotica-capa.webp",
@@ -82349,7 +82359,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "São marcas do mesmo grupo Supley, mas não vendem os mesmos potes. Pelos rótulos e preços, a Max ganha no whey concentrado e no 3W, com mais proteína por porção; a Probiótica tem mais sabores e uma versão zero lactose, e a creatina de 300 g empata. Veja o veredito por produto em Qual escolher."
+          "São marcas do mesmo grupo Supley, mas não vendem os mesmos potes. A Max tem mais proteína a cada 100 g de pó no concentrado e no 3W (80 g contra 75 g, no 3W). A Probiótica tem mais sabores e versão zero lactose, e a creatina de 300 g empata. Veja o veredito em Qual escolher."
         ]
       },
       {
@@ -82600,7 +82610,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Aqui as duas lojas têm porções diferentes, e a comparação precisa olhar o pote inteiro.",
           "O **Top Whey 3W + Performance**, da Max Titanium, tem 32 g de proteína em 40 g e vitaminas e minerais na tabela. O **3 Whey Protein**, da Probiótica, tem 24 g em 32 g; a lista de ingredientes traz os três tipos de whey: concentrado (WPC), isolado (WPI) e hidrolisado (WPH).",
-          "Os dois custavam R$ 273,55, mas o pote da Max rende mais proteína no total (conta nossa: porções do pote vezes a proteína de cada uma):"
+          "Os dois custavam R$ 273,55, mas o pote da Max rende mais proteína no total (conta nossa: porções do pote vezes a proteína de cada uma). Porções diferentes não se comparam direto: a cada 100 g de pó, o + Performance tem 80 g de proteína (32 g em 40 g) e o 3 Whey Protein, 75 g (24 g em 32 g)."
         ],
         "comparisonTable": {
           "caption": "Porções, proteína no pote (conta nossa) e sabores à venda.",
@@ -82731,7 +82741,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Pelos números da tabela, para quem decide por proteína por porção a escolha é a Max, porque o concentrado e o 3W dela têm mais proteína por porção. Para mais sabores, zero lactose ou sachês e cápsulas de creatina, a escolha é a Probiótica.",
+        "emphasis": "Pelos números da tabela, para quem decide por proteína a cada 100 g de pó a escolha é a Max: o concentrado (70 g contra 67 g) e o 3W (80 g contra 75 g) dela têm mais proteína. Para mais sabores, zero lactose ou sachês e cápsulas de creatina, a escolha é a Probiótica.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "O veredito por tipo de produto, com os números de cada capítulo acima."
@@ -82740,7 +82750,7 @@ export const reviewsData: unknown[] = [
           "**Creatina:** o pote de 300 g tem a mesma porção (5 g) e o mesmo preço nas duas lojas, R$ 59,90. A escolha fica no tamanho e no formato: a Max tem o pote de 500 g, com a dose mais barata das duas lojas; a Probiótica tem sachês e cápsulas.",
           "**Whey concentrado:** o 100% Whey da Max tem 21 g de proteína em 30 g e custa R$ 210,39. O 100% Pure Whey da Probiótica tem 20 g em 30 g e custa R$ 252,49, com 13 sabores contra 7 e uma versão zero lactose.",
           "**Whey isolado:** os dois têm 26 g em 30 g. O da Probiótica traz vitaminas e minerais na tabela e custa R$ 20,10 a mais.",
-          "**3W:** pelo mesmo preço cheio, o da Max tem 32 g de proteína em 40 g, e o da Probiótica, 24 g em 32 g.",
+          "**3W:** pelo mesmo preço cheio, o da Max tem 32 g de proteína em 40 g, e o da Probiótica, 24 g em 32 g; a cada 100 g de pó, são 80 g contra 75 g.",
           "**Blend e entrada:** os dois blends custam R$ 79,00 e têm tabelas quase iguais. Entre os wheys de entrada, a Hiper da Probiótica tem 23 g em 40 g, e o Whey Pro da Max, 15 g em 40 g."
         ]
       },
@@ -84182,10 +84192,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Belive é confiável: é vendida pela NHD Foods, tem site oficial com CNPJ ativo e reputação Ótima no Reclame Aqui. Veja trocas, prazo de arrependimento e frete grátis por região.",
+    "description": "A Belive é vendida pela NHD Foods, tem site oficial com CNPJ ativo e tinha reputação Ótima no Reclame Aqui em 16/10/2026. Veja trocas, arrependimento e frete grátis por região.",
     "metaDescription": "Quem vende a Belive, o CNPJ, as trocas e o frete, com o cupom MAUAD de 10% OFF no site oficial.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/belive-confiavel-capa-discover.webp",
@@ -84230,13 +84241,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Belive é vendida por uma empresa registrada e ativa nos dados públicos, e o site oficial publica razão social, CNPJ, trocas e frete. A reputação no Reclame Aqui é Ótima. O que muda a conta é o frete grátis fora de SP, MG, RJ, DF, GO e do Sul, explicado no capítulo final; para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+          "Sim, a Belive é vendida por uma empresa registrada e ativa, e o site oficial publica razão social, CNPJ, trocas e frete. Em 16/10/2026, a reputação no Reclame Aqui era Ótima. O que muda a conta é o frete grátis fora de SP, MG, RJ, DF, GO e do Sul; para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
         ]
       },
       {
         "heading": "De quem é a Belive?",
         "paragraphs": [
-          "Sim: empresa registrada e ativa, com o CNPJ ativo nos dados públicos consultados em 16/10/2026.",
+          "Sim: empresa registrada e ativa, com o CNPJ ativo nos dados públicos.",
           "O rodapé do site e o cadastro público de CNPJ apontam a NHD Foods Indústria, Comércio, Importação e Exportação Ltda. como operadora da loja.",
           "O rodapé traz o CNPJ da filial, 21.541.988/0002-57, ativa desde 2015. A matriz é o CNPJ 21.541.988/0001-76, ativa desde 2014, o mesmo citado na política de privacidade. As duas unidades ficam em Uberaba (MG), segundo o cadastro público.",
           "A marca existe **desde 2015**, diz o site."
@@ -84292,7 +84303,7 @@ export const reviewsData: unknown[] = [
             [
               "Arrependimento",
               "7 dias corridos a partir do recebimento",
-              "Pedido formal ao SAC dentro do prazo, com nota fiscal. Produto na embalagem original, sem uso nem violação",
+              "Pedido formal ao SAC dentro do prazo, com nota fiscal. A FAQ da loja pede o produto na embalagem original, sem uso nem violação",
               "Frete de volta por conta da Belive. O valor volta depois da análise interna"
             ],
             [
@@ -84304,7 +84315,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O site não publica prazo para o reembolso e não diz em quantos dias comunicar um defeito. Por isso, abra o pedido logo que perceber o problema e guarde a nota. Se a caixa chegar violada, o site orienta recusar a entrega no ato."
+          "O site não publica prazo para o reembolso e não diz em quantos dias comunicar um defeito. Por isso, abra o pedido logo que perceber o problema e guarde a nota. Se a caixa chegar violada, o site orienta recusar a entrega no ato. A embalagem original é exigência da FAQ da loja: se o produto já foi aberto, escreva ao SAC e guarde a resposta por escrito."
         ]
       },
       {
@@ -84341,7 +84352,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "No Reclame Aqui, o perfil \"Belive Be Free\" tem selo **Ótima** nos últimos seis meses e nota **8,1**, na consulta mais recente. Os números completos estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
+          "No Reclame Aqui, o perfil \"Belive Be Free\" tinha selo **Ótima** nos últimos seis meses e nota **8,1**, na consulta de 16/10/2026. Os números completos estão no [artigo sobre a reputação da Belive no Reclame Aqui](/reviews/belive-reclame-aqui-nota-reputacao)."
         ]
       },
       {
@@ -84369,11 +84380,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável? Sim, do ponto de vista cadastral: a loja tem CNPJ ativo, razão social no rodapé, trocas publicadas e reputação Ótima no Reclame Aqui.",
+          "A Belive é confiável? Sim, do ponto de vista cadastral: a loja tem CNPJ ativo, razão social no rodapé, trocas publicadas e reputação Ótima no Reclame Aqui em outubro.",
           "A Belive é uma empresa de verdade? Sim. A NHD Foods Indústria, Comércio, Importação e Exportação Ltda. tem matriz e filial ativas nos dados públicos de CNPJ.",
           "Qual é o CNPJ da Belive? O do rodapé do site é 21.541.988/0002-57, da filial. A matriz é 21.541.988/0001-76.",
           "O site da Belive é seguro? O endereço oficial é belivebefree.com.br e usa conexão segura. Ainda assim, confira o domínio antes de digitar dados de pagamento, principalmente se chegou por anúncio.",
-          "Quanto tempo tenho para devolver um produto da Belive? São 7 dias corridos a partir do recebimento, com embalagem original, sem uso e com nota fiscal. Para defeito, o site não publica prazo.",
+          "Quanto tempo tenho para devolver um produto da Belive? São 7 dias corridos a partir do recebimento, com nota fiscal. A FAQ da loja pede o produto na embalagem original e sem uso. Para defeito, o site não publica prazo.",
           "A Belive tem frete grátis? Tem: a partir de R$ 170 em SP, MG, RJ, DF e GO, R$ 250 no Sul e R$ 300 nos demais estados, sem contar o cupom.",
           "Tem cupom de primeira compra na Belive? Tem o MAUAD: 10% OFF no carrinho, em todas as formas de pagamento, válido na primeira compra. Não vale no Mercado Livre."
         ]
@@ -84396,10 +84407,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Belive tem reputação Ótima no Reclame Aqui, com nota 8,1 nos últimos 6 meses e 80% das reclamações resolvidas. Veja o que mais gera queixa e o que fazer se o pedido der problema.",
-    "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. No Reclame Aqui, a reputação é Ótima, com nota 8,1 em 6 meses e 75% a 80% das reclamações resolvidas.",
+    "description": "Em 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui: nota 8,1 nos 6 meses e 80% das reclamações resolvidas. Veja o que gera queixa e o que fazer se der problema.",
+    "metaDescription": "O cupom MAUAD dá 10% OFF no site da Belive. No Reclame Aqui, a reputação era Ótima em outubro de 2026, com nota 8,1 em 6 meses.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/belive-reclame-aqui-capa-discover.webp",
@@ -84442,7 +84454,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Belive tem reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Ela responde a todas as reclamações, mas resolve entre 75% e 80%. O capítulo sobre como a Belive responde mostra a diferença entre responder e resolver; para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
+          "Na consulta de 16/10/2026, a Belive tinha reputação Ótima no Reclame Aqui nos últimos 6 meses, com nota 8,1, e Boa nos últimos 12, com nota 7,8. Respondia a todas as reclamações, mas resolvia entre 75% e 80%: responder não é resolver. Para comprar com desconto, veja o [cupom Belive](/cupons/belive)."
         ]
       },
       {
@@ -84573,7 +84585,7 @@ export const reviewsData: unknown[] = [
           "**Produto com defeito:** fotografe os produtos, o lote e a validade, e escreva para sac@nhdfoods.com.br. A troca não sai se houver indício de má manipulação ou mau uso, ou se a ocorrência não puder ser identificada.",
           "**Item faltando ou trocado, rastreio ou endereço, erro ao finalizar ou cancelamento:** use o formulário e escolha o assunto entre Pedidos do site, Produtos e qualidade ou Outros. O formulário pede nome, e-mail, CPF cadastrado e número do pedido. Em caso de qualidade, pede também nome e sabor, lote e validade, e fotos de todos os itens recebidos com as caixas abertas.",
           "**Se o formulário não servir:** escreva para sac@nhdfoods.com.br ou ligue para (34) 3317-6487.",
-          "**Arrependimento:** são 7 dias corridos a partir do recebimento. O produto precisa estar na embalagem original, sem sinal de uso ou violação, com nota fiscal. Faça o pedido formal a sac@nhdfoods.com.br dentro do prazo. O frete da devolução fica por conta da Belive, e o valor é devolvido depois da análise interna. A loja não publica prazo para o reembolso."
+          "**Arrependimento:** são 7 dias corridos a partir do recebimento. A FAQ da loja pede o produto na embalagem original, sem sinal de uso ou violação, com nota fiscal; se ele já foi aberto, escreva ao SAC e guarde a resposta por escrito. Faça o pedido formal a sac@nhdfoods.com.br dentro do prazo. O frete da devolução fica por conta da Belive, e o valor é devolvido depois da análise interna. A loja não publica prazo para o reembolso."
         ]
       },
       {
@@ -84600,11 +84612,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Belive é confiável segundo o Reclame Aqui? O perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.",
-          "Qual a nota da Belive no Reclame Aqui? Nota 8,1 nos últimos 6 meses , 7,8 nos últimos 12 meses e 7,5 em 2025.",
+          "A Belive é confiável segundo o Reclame Aqui? Em outubro, o perfil Belive Be Free tinha reputação Ótima nos últimos 6 meses, com nota 8,1, e Boa nos 12 meses, com nota 7,8. A nota não diz tudo: só 15 das 39 reclamações dos 6 meses foram avaliadas.",
+          "Qual a nota da Belive no Reclame Aqui? Em outubro, a nota era 8,1 nos últimos 6 meses, 7,8 nos últimos 12 meses e 7,5 em 2025.",
           "A Belive responde às reclamações? Sim, segundo o perfil: 100% das reclamações respondidas nos 6 meses, nos 12 meses e em 2025. Responder não é o mesmo que resolver, e as resolvidas ficaram entre 75% e 80%.",
           "O que fazer se o pedido da Belive vier violado ou com defeito? Recuse a caixa violada na entrega. Com defeito, fotografe os produtos, o lote e a validade e escreva para sac@nhdfoods.com.br.",
-          "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a embalagem original e a nota fiscal, por pedido formal ao SAC. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
+          "Como pedir troca ou devolução na Belive? No arrependimento, são 7 dias corridos a partir do recebimento, com a nota fiscal, por pedido formal ao SAC; a loja pede o produto na embalagem original. Outros problemas do pedido vão pelo formulário em belivebefree.com.br/solicitacao-de-atendimento/.",
           "O pedido da Belive pode ser cancelado? Pode, quando o pagamento não é autorizado ou não é identificado no prazo, nos casos de boleto ou Pix. Nesse caso, peça a revisão ao SAC."
         ]
       }
@@ -84629,6 +84641,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código MAUAD dá 10% OFF em todo o site da Belive. Veja como aplicar, quanto sai com o Pix e o frete grátis por região.",
     "publishedAt": "16 de outubro de 2026",
     "publishedAtISO": "2026-10-16",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/cupom-belive-capa-discover.webp",
@@ -84861,7 +84874,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Se precisar devolver um produto comprado com cupom",
         "paragraphs": [
-          "O cupom não muda a regra de devolução. O arrependimento vale por 7 dias corridos a partir do recebimento: escreva dentro do prazo para sac@nhdfoods.com.br, com a nota fiscal, e devolva o produto sem uso, sem violação e na embalagem original. O frete da devolução é por conta da Belive. O prazo de reembolso não aparece no site, então confirme por e-mail antes de postar. Para defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. A loja não troca produto com indício de má manipulação ou mau uso, nem quando a ocorrência não puder ser identificada. Telefone da loja: (34) 3317-6487. O quadro completo está em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
+          "O cupom não muda a regra de devolução. O arrependimento vale por 7 dias corridos a partir do recebimento: escreva dentro do prazo para sac@nhdfoods.com.br, com a nota fiscal. A FAQ da loja pede o produto sem uso, sem violação e na embalagem original; se ele já foi aberto, escreva ao SAC antes de postar. O frete da devolução é por conta da Belive. O prazo de reembolso não aparece no site, então confirme por e-mail antes de postar. Para defeito, fotografe os produtos, o lote e a validade e escreva para o mesmo e-mail. A loja não troca produto com indício de má manipulação ou mau uso, nem quando a ocorrência não puder ser identificada. Telefone da loja: (34) 3317-6487. O quadro completo está em [Belive é confiável? Quem vende, CNPJ, trocas, frete e onde comprar](/reviews/belive-e-confiavel)."
         ]
       },
       {
@@ -85776,6 +85789,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECI dá 10% OFF na Nestlé Nutre. Nanlac Supreme Pro (1 a 3 anos): composição, preparo, quanto rende a lata e os lotes do recolhimento.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/nanlac/nanlac-supreme-pro-800g-capa.webp",
@@ -86048,12 +86062,13 @@ export const reviewsData: unknown[] = [
           "Fale com a Nestlé sobre devolução, troca ou reembolso: 0800 761 2500 (número que consta na nota técnica)."
         ],
         "postParagraphs": [
-          "Os outros lotes não foram afetados. Se a criança tiver vômitos, diarreia ou muito sono depois de consumir um lote da lista, a nota técnica orienta levar a criança a atendimento médico, com a embalagem ou uma foto dela.",
+          "Pela Nota Técnica Conjunta nº 17/2026, só os lotes informados oficialmente estão sendo recolhidos. Confira as informações oficiais atualizadas antes de usar uma lata. Se a criança tiver vômitos, diarreia ou muito sono depois de consumir um lote da lista, a nota técnica orienta levar a criança a atendimento médico, com a embalagem ou uma foto dela.",
           "Os lotes listados venciam em 2026. Não encontramos notícia do caso depois do recolhimento, e a loja vende o produto normalmente. Na dúvida, ligue para a Nestlé antes de usar uma lata comprada no começo do ano."
         ]
       },
       {
         "heading": "Onde comprar e quanto custa",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
         "paragraphs": [
           "Na Nestlé Nutre, loja oficial, em 17/10/2026:"
         ],
@@ -86090,7 +86105,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O Nanlac Supreme Pro foi recolhido? Alguns lotes do 800 g (1 a 3 anos) entraram no recolhimento da RE 32/2026, e os demais não foram afetados. Confira o lote no fundo da lata e compare com a lista oficial.",
+          "O Nanlac Supreme Pro foi recolhido? Alguns lotes do 800 g (1 a 3 anos) entraram no recolhimento da RE 32/2026. Segundo a Nota Técnica Conjunta nº 17/2026, só os lotes listados estão sendo recolhidos. Confira o lote no fundo da lata e compare com a lista oficial atualizada.",
           "Nanlac Supreme Pro é fórmula infantil ou composto lácteo? É fórmula infantil de primeira infância, segundo a página da Nestlé Nutre e a nota técnica do Ministério da Saúde e da Anvisa.",
           "Como preparar o Nanlac Supreme Pro? Ferva a água por 5 minutos, espere até 70 °C e use 14,1 g de pó (3 colheres rasas de 4,7 g) para 90 ml de água, conforme o rótulo.",
           "Quanto rende a lata de Nanlac Supreme Pro de 800 g? Cerca de 5,7 litros de preparo ou 24 copos de 210 ml, em conta nossa feita com as medidas do rótulo.",
@@ -86140,6 +86155,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Nanlac Supreme Pro ou Comfor HMO (1 a 3 anos): HMO, DHA, ARA, GOS, FOS e preço por litro.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/nanlac/nanlac-supreme-pro-ou-comfor-capa.webp",
@@ -86380,6 +86396,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Onde comprar e quanto custa",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
         "paragraphs": [
           "Preços da Nestlé Nutre, loja oficial, em 17/10/2026:"
         ],
@@ -86466,6 +86483,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Nanlac Supreme Pro (1 a 3 anos), com o cupom CECI de 10% OFF na Nestlé Nutre, comparado à Aptanutri Profutura 3: HMO, DHA, ARA e preço por litro.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/nanlac/nanlac-supreme-pro-ou-aptanutri-profutura-3-capa.webp",
@@ -86767,6 +86785,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Onde comprar e quanto custa",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
         "paragraphs": [
           "Preços lidos em 17/10/2026, nas lojas oficiais de cada fabricante."
         ],
@@ -86859,6 +86878,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Nanlac Supreme Pro ou Ninho Fases 1+ (1 a 3 anos), com o cupom CECI de 10% OFF na Nestlé Nutre: HMO, DHA, ARA, prebióticos e preço por 100 g.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/nanlac/nanlac-supreme-pro-ou-ninho-fases-1-capa.webp",
@@ -87107,6 +87127,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Preço por base igual",
+        "notice": "O Ministério da Saúde informa: o aleitamento materno evita infecções e alergias e é recomendado até os 2 (dois) anos de idade ou mais.",
         "paragraphs": [
           "Preços da Nestlé Nutre, loja oficial, em 17/10/2026, sem cupom:"
         ],
@@ -87223,6 +87244,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial da Nestlé Nutre. Nutren A-Z ou Centrum A a Zinco: dose de cada vitamina e mineral e quanto cada um custa por dia.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/nutren/nutren-a-z-ou-centrum-capa.webp",
@@ -87233,7 +87255,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. O Nutren sai bem mais barato por dia (contas nossas), mas o Centrum lista também cálcio, fósforo, magnésio e iodo. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren."
+          "O Nutren A-Z Multi e o Centrum A a Zinco são multivitamínicos de uma unidade por dia, em frascos de 60. Nas lojas e embalagens comparadas, o Nutren sai mais barato por dia (contas nossas), mas o Centrum lista também cálcio, fósforo, magnésio e iodo. Na loja oficial Nestlé Nutre, o cupom CECI dá 10% OFF no Nutren."
         ]
       },
       {
@@ -87495,7 +87517,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Pelos números da tabela, para o perfil que procura cálcio, fósforo, magnésio e iodo no mesmo frasco a escolha é o Centrum, porque o Nutren não lista nenhum dos quatro.",
         "bullets": [
           "Quem quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico: o Centrum é o que traz esses nutrientes na tabela.",
-          "Quem prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitamina A, vitamina E, selênio, cobre, cromo e molibdênio, ou menor preço por dia: o Nutren A-Z Multi.",
+          "Quem prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitamina A, vitamina E, selênio, cobre, cromo e molibdênio, ou menor preço por dia nas lojas comparadas: o Nutren A-Z Multi.",
           "Quem quer evitar glúten: os dois declaram não conter.",
           "Quem segue dieta sem produtos de origem animal: o Nutren tem gelatina, carmim e cera de abelha; no Centrum, a Drogasil lista vitamina A suína e vitamina D3 bovina e ovina."
         ],
@@ -87506,7 +87528,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Nutren A-Z ou Centrum? Os dois têm uma unidade por dia e 60 por frasco. O Nutren tem doses maiores de ferro, ácido fólico, vitaminas A e E, selênio, cobre, cromo e molibdênio e custa menos por dia; o Centrum traz cálcio, fósforo, magnésio e iodo.",
+          "Nutren A-Z ou Centrum? Os dois têm uma unidade por dia e 60 por frasco. O Nutren tem doses maiores de ferro, ácido fólico, vitaminas A e E, selênio, cobre, cromo e molibdênio e saiu mais barato por dia nas lojas comparadas; o Centrum traz cálcio, fósforo, magnésio e iodo.",
           "O Nutren A-Z Multi tem cálcio? Não aparece na tabela do rótulo. O Centrum A a Zinco lista 250 mg de cálcio por comprimido.",
           "O Centrum A a Zinco tem glúten? Segundo a página da Drogasil, não contém glúten. Confira no frasco que você comprar.",
           "O Centrum A a Zinco tem lactose? A lista de ingredientes cita lactose, e a embalagem informa que não contém lactose.",
@@ -87521,7 +87543,7 @@ export const reviewsData: unknown[] = [
         "Você quer cálcio, fósforo, magnésio e iodo no mesmo multivitamínico."
       ],
       "skipIf": [
-        "Você prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitaminas A e E, ou menor preço por dia: nesse caso, o Nutren A-Z Multi.",
+        "Você prefere cápsula softgel, doses maiores de ferro, ácido fólico, vitaminas A e E, ou menor preço por dia nas lojas comparadas: nesse caso, o Nutren A-Z Multi.",
         "Você segue dieta sem produtos de origem animal: os dois têm itens de origem animal.",
         "Você está grávida ou amamentando: a Drogasil avisa que o Centrum só deve ser usado com orientação médica."
       ]
@@ -87568,6 +87590,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Nutren Senior ou Nutridrink Protein Senior, com o cupom CECI e 10% OFF no Nutren: porção, proteína, cálcio, vitamina D, lactose e preço por porção.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/nutren/nutren-senior-ou-nutridrink-capa.webp",
@@ -87666,7 +87689,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "A conta da proteína",
         "paragraphs": [
-          "A página do Nutridrink também fala em 25 g de proteína \"na porção diária recomendada\", sem explicar de onde vem essa base. Por isso comparamos pela porção da tabela, que o rótulo informa: 11 g de proteína em 31,5 g de pó no Nutren e 7,2 g em 30 g de pó no Nutridrink.",
+          "A página do Nutridrink também fala em 25 g de proteína \"na porção diária recomendada\", e a Danone explica que essa base é o preparo conforme o rótulo, consumido duas vezes ao dia. Por isso comparamos pela porção da tabela, que o rótulo informa: 11 g de proteína em 31,5 g de pó no Nutren e 7,2 g em 30 g de pó no Nutridrink.",
           "Como a porção é diferente, olhe também a conta por 100 g de pó. Nessa conta, o Nutren traz mais proteína, cálcio e vitamina D, e a distância maior é na vitamina D. Mas o que vale é a quantidade que o profissional indicar.",
           "As duas instruções da página do Nutridrink (porção de 30 g na tabela e 50 g em 170 ml de leite no preparo) não batem entre si. No preparo do Nutridrink, siga as instruções da lata e confira a embalagem que chegar. O preparo do Nutren Senior está em [Como tomar Nutren Senior sem empelotar](/reviews/nutren-senior-como-tomar-sem-empelotar)."
         ]
@@ -88142,6 +88165,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Espresso Dolce Gusto, com o cupom CECI de 10% OFF na loja oficial a partir de R$ 100: intensidade 5 ou Intenso 7, xícara, cafeína e preço por cápsula.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dolcegusto/espresso-e-espresso-intenso-dolce-gusto-capa.webp",
@@ -88152,13 +88176,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O Espresso e o Espresso Intenso da Dolce Gusto são caixas de 10 cápsulas, só com café torrado e moído e pelo mesmo preço; muda a intensidade, 5 no Espresso e 7 no Intenso. Para o café mais suave, é o Espresso. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
+          "Espresso e Espresso Intenso são caixas de 10 cápsulas, só com café torrado e moído. A intensidade muda: 5 no Espresso e 7 no Intenso. O preço era o mesmo em 17/10/2026; confira o do dia. Para o café mais suave, é o Espresso. No site oficial, o cupom CECI dá 10% OFF em compras a partir de 100 reais."
         ]
       },
       {
         "heading": "O que muda entre o Espresso e o Espresso Intenso",
         "paragraphs": [
-          "Na escala de intensidade da loja, o Espresso é 5 e o Espresso Intenso é 7. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Ingrediente, xícara, número de cápsulas e preço são iguais."
+          "Na escala de intensidade da loja, o Espresso é 5 e o Espresso Intenso é 7. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Ingrediente, xícara e número de cápsulas são iguais. As duas caixas tinham o mesmo preço."
         ],
         "comparisonTable": {
           "headers": [
@@ -88265,7 +88289,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual escolher: Espresso ou Espresso Intenso",
         "paragraphs": [
-          "A decisão é de intensidade, porque o resto é igual: as duas caixas têm 10 cápsulas, só café torrado moído, xícara pequena e o mesmo preço, R$ 22,50 na leitura."
+          "A decisão é de intensidade, porque o resto é igual: as duas caixas têm 10 cápsulas, só café torrado moído, xícara pequena e o mesmo preço, R$ 22,50 em outubro."
         ],
         "bullets": [
           "Prefere um café mais suave: o Espresso, intensidade 5, que a marca descreve como \"delicado e frutado\". A nota na loja era 94%, com 34 avaliações.",
@@ -88275,11 +88299,11 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual a diferença entre Espresso e Espresso Intenso Dolce Gusto? O Espresso tem intensidade 5 e o Intenso, 7, na escala da loja. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Ingrediente, xícara e preço são iguais.",
+          "Qual a diferença entre Espresso e Espresso Intenso Dolce Gusto? O Espresso tem intensidade 5 e o Intenso, 7, na escala da loja. A marca descreve o primeiro como \"delicado e frutado\" e o segundo como \"energético e aromático\". Ingrediente e xícara são iguais, e o preço era igual nas duas caixas.",
           "Espresso Dolce Gusto tem cafeína? O ingrediente é café torrado moído. A loja não informa a quantidade de cafeína em miligramas.",
           "Quantos ml faz o Espresso Dolce Gusto? A loja mostra xícara pequena. Na foto da tabela impressa numa embalagem, que reunimos na tabela de medidas, o Espresso e o Espresso Intenso aparecem com 50 ml.",
           "Espresso Dolce Gusto tem glúten? Não. A página da loja diz \"NÃO CONTÉM GLÚTEN\" e lista só café torrado moído.",
-          "Quanto custa o Espresso Dolce Gusto? Na leitura de preços, a caixa de 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial, ou R$ 2,25 por cápsula pela nossa conta.",
+          "Quanto custa o Espresso Dolce Gusto? Em outubro, a caixa de 10 cápsulas estava de R$ 25,90 por R$ 22,50 na loja oficial, ou R$ 2,25 por cápsula pela nossa conta; confira o preço do dia na loja.",
           "Espresso Dolce Gusto tem tabela nutricional? A página da loja não traz tabela nutricional do Espresso nem do Espresso Intenso, e por isso não informamos calorias."
         ]
       }
@@ -89074,6 +89098,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Brownie sem açúcar da Belive, oito sabores, com o cupom MAUAD de 10% OFF no site: rótulo, adoçantes, carboidratos e preço por unidade e no kit de 10.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/brownie-sem-acucar-belive-capa.webp",
@@ -89343,7 +89368,7 @@ export const reviewsData: unknown[] = [
           "Quantas calorias tem o brownie sem açúcar da Belive? De 121 kcal a 144 kcal por unidade de 40 g, conforme o sabor. O de chocolate tem 124 kcal.",
           "Quanto custa o brownie sem açúcar da Belive? De R$ 6,97 a R$ 7,97 a unidade. No kit de 10, de R$ 6,48 a R$ 7,41 por unidade, e de R$ 5,54 a R$ 6,34 com o MAUAD e o Pix.",
           "Quanta proteína tem o brownie proteico da Belive? De 5 g a 6 g por unidade de 40 g. Os comuns têm de 1,6 g a 2 g.",
-          "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo mostra 0 g de açúcares e de 13 g a 22 g de carboidratos por unidade. A quantidade, quem tem diabetes combina com o médico ou o nutricionista.",
+          "O brownie sem açúcar da Belive pode ser comido por quem tem diabetes? O rótulo mostra 0 g de açúcares adicionados nos oito (e 0 g de açúcares totais em sete; o Caramelo Salgado mostra 0,1 g) e de 13 g a 22 g de carboidratos por unidade. A quantidade, quem tem diabetes combina com o médico ou o nutricionista.",
           "Qual adoçante o brownie da Belive usa? Maltitol e glicosídeos de esteviol, nos oito sabores sem açúcar. Os proteicos também levam sorbitol."
         ]
       }
@@ -89401,6 +89426,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 10% OFF em todo o site da Belive. Bolinho sem açúcar, Belive ou Suavipan: rótulo de cada um, adoçantes, glúten, leite e preço por unidade.",
     "publishedAt": "17 de outubro de 2026",
     "publishedAtISO": "2026-10-17",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/bolinho-sem-acucar-belive-ou-suavipan-capa.webp",
@@ -89411,7 +89437,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, e a Belive publica a tabela nutricional. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó e não tem tabela no site. A Suavipan sai mais barata na farmácia; veja o preço por unidade e o capítulo Qual escolher."
+          "O bolinho da Belive é sem açúcar, sem glúten e sem leite, com 0 g de açúcares na tabela. O da Suavipan é zero adição de açúcar, leva trigo e leite em pó, e a tabela da marca não traz a linha de açúcares. Na Drogasil, a unidade da Suavipan saiu mais barata em 17/10/2026."
         ]
       },
       {
@@ -89454,7 +89480,12 @@ export const reviewsData: unknown[] = [
             [
               "Tabela nutricional",
               "Publicada: 0 g de açúcares totais e adicionados",
-              "Não publicada no site da marca nem na Drogasil"
+              "Publicada no site da marca, sem a linha de açúcares"
+            ],
+            [
+              "Calorias e carboidratos por bolinho de 40 g",
+              "123 kcal e 16 g",
+              "98 kcal e 22 g"
             ],
             [
               "Adoçantes",
@@ -89496,7 +89527,7 @@ export const reviewsData: unknown[] = [
         "heading": "Zero açúcar ou zero adição de açúcar",
         "paragraphs": [
           "As duas frases não querem dizer a mesma coisa. Pela regra de rotulagem dos alimentos embalados, \"sem açúcar\" exige no máximo 0,5 g de açúcares por porção e por 100 g. \"Zero adição de açúcar\" quer dizer que não entrou açúcar na receita, mas o produto pode ter os açúcares que já vêm nos ingredientes.",
-          "Quando um alimento \"sem adição\" não chega ao critério de zero açúcar, a regra manda pôr no rótulo a frase \"contém açúcares próprios dos ingredientes\". A lista da Suavipan na Drogasil traz essa frase. Como a marca não publica a tabela, não dá para saber quantos gramas são.",
+          "Quando um alimento \"sem adição\" não chega ao critério de zero açúcar, a regra manda pôr no rótulo a frase \"contém açúcares próprios dos ingredientes\". A lista da Suavipan na Drogasil traz essa frase. Como a tabela da marca não traz a linha de açúcares, não dá para saber quantos gramas são.",
           "A Belive mostra 0 g de açúcares totais e 0 g de adicionados na tabela do bolinho de chocolate. As outras diferenças entre os termos estão no guia de [doces sem açúcar para diabéticos](/reviews/doces-sem-acucar-para-diabeticos)."
         ]
       },
@@ -89557,7 +89588,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "A Suavipan não publica a tabela nutricional no site oficial, e a página da Drogasil também não traz. Por isso este comparativo não compara calorias nem carboidratos entre as duas marcas."
+          "A página da Suavipan publica a tabela do bolinho zero de chocolate com recheio: por unidade de 40 g, 98 kcal, 22 g de carboidratos, 2,2 g de proteínas, 3,5 g de gorduras totais, 3,5 g de fibras e 52 mg de sódio, sem a linha de açúcares. Por isso este comparativo compara calorias e carboidratos, mas não açúcares. Confira a tabela da embalagem que chegar na sua mão."
         ]
       },
       {
@@ -89595,7 +89626,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preço por unidade",
         "paragraphs": [
-          "Na unidade, a Suavipan sai mais barata na farmácia; no kit, a Belive leva. Preços de 17/10/2026. Conta nossa: o preço por unidade dos kits."
+          "Na unidade, a Suavipan saiu mais barata na farmácia; no kit, a Belive levou. Preços de 17/10/2026. Conta nossa: o preço por unidade dos kits."
         ],
         "comparisonTable": {
           "headers": [
@@ -89651,7 +89682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Sem açúcar é low carb?",
         "paragraphs": [
-          "Não necessariamente. O bolinho de chocolate da Belive tem 16 g de carboidratos em 40 g, com 0 g de açúcares. O da Suavipan não tem tabela publicada, e não dá para fazer a conta. Os brownies e os pães de mel da Belive seguem a mesma lógica, como mostram os guias do [brownie sem açúcar](/reviews/brownie-sem-acucar-belive) e do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive)."
+          "Não necessariamente. O bolinho de chocolate da Belive tem 16 g de carboidratos em 40 g, com 0 g de açúcares. O da Suavipan tem 22 g de carboidratos em 40 g, e a tabela dele não traz a linha de açúcares. Os brownies e os pães de mel da Belive seguem a mesma lógica, como mostram os guias do [brownie sem açúcar](/reviews/brownie-sem-acucar-belive) e do [pão de mel sem açúcar](/reviews/pao-de-mel-sem-acucar-belive)."
         ]
       },
       {
@@ -89669,29 +89700,29 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Quer um bolinho sem açúcar, sem glúten e sem leite: o da Belive. O da Suavipan é zero adição de açúcar, leva farinha de trigo e leite em pó, e o rótulo avisa que ele contém açúcares próprios dos ingredientes.",
-          "Quer conferir os números antes de comprar: a Belive publica a tabela nutricional, com 0 g de açúcares e 16 g de carboidratos em 40 g. A Suavipan não publica a tabela no site.",
-          "Quer o menor preço por unidade: na Drogasil, a Suavipan sai a R$ 3,09, contra R$ 4,58 da Belive em oferta relâmpago, que pode acabar a qualquer hora. Com o MAUAD e o Pix, a unidade da Belive cai para R$ 3,92."
+          "Quer conferir os números antes de comprar: a tabela da Belive mostra 0 g de açúcares e 16 g de carboidratos em 40 g. A da Suavipan mostra 22 g de carboidratos em 40 g e não traz a linha de açúcares.",
+          "Quer o menor preço por unidade: na Drogasil, a Suavipan saiu a R$ 3,09, contra R$ 4,58 da Belive em oferta relâmpago, que pode acabar a qualquer hora. Com o MAUAD e o Pix, a unidade da Belive cai para R$ 3,92."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual bolinho sem açúcar não tem glúten nem leite, Belive ou Suavipan? O da Belive. A loja declara o bolinho sem glúten, sem leite e sem lactose. O da Suavipan leva farinha de trigo e leite em pó desnatado.",
-          "O bolinho da Suavipan é zero açúcar? A embalagem diz \"zero adição de açúcar\", e a lista de ingredientes traz a frase \"contém açúcares próprios dos ingredientes\". A marca não publica a tabela nutricional no site.",
+          "O bolinho da Suavipan é zero açúcar? A embalagem diz \"zero adição de açúcar\", e a lista de ingredientes traz a frase \"contém açúcares próprios dos ingredientes\". A tabela da página da marca não traz a linha de açúcares.",
           "Quantas calorias tem o bolinho sem açúcar da Belive? O de chocolate tem 123 kcal por unidade de 40 g, com 16 g de carboidratos e 0 g de açúcares.",
-          "Qual bolinho sai mais barato? Na farmácia, o da Suavipan: R$ 3,09 a unidade na Drogasil. A unidade da Belive estava a R$ 4,58 em oferta relâmpago, ou R$ 3,92 com o MAUAD e o Pix.",
+          "Qual bolinho sai mais barato? O da Suavipan na farmácia: R$ 3,09 a unidade na Drogasil. A unidade da Belive estava a R$ 4,58 em oferta relâmpago, ou R$ 3,92 com o MAUAD e o Pix.",
           "Bolinho sem açúcar pode ser comido por quem tem diabetes? O rótulo da Belive mostra 0 g de açúcares e 16 g de carboidratos por bolinho. A quantidade, quem tem diabetes combina com o médico ou o nutricionista."
         ]
       }
     ],
     "decision": {
       "takeIf": [
-        "Leve a Belive se você quer conferir calorias e carboidratos antes de comprar: a tabela nutricional é publicada.",
-        "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na farmácia ela sai mais barata."
+        "Leve a Belive se você quer conferir açúcares, calorias e carboidratos antes de comprar: a tabela dela traz 0 g de açúcares totais e adicionados.",
+        "Leve a Suavipan se você não evita glúten nem leite e quer o menor preço por unidade: na Drogasil, ela saiu mais barata."
       ],
       "skipIf": [
         "Passe na Suavipan se você evita glúten ou leite: ela leva farinha de trigo e leite em pó.",
-        "Passe na Suavipan se você quer a tabela nutricional: o site dela não publica."
+        "Passe na Suavipan se você quer saber os açúcares pela tabela: a da página dela não traz essa linha."
       ]
     },
     "pros": [],
@@ -90003,6 +90034,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Skull ou Growth, com o cupom CECILIA10 e 10% OFF na Black Skull: whey e creatina por 100 g de proteína e de creatina, ingredientes e frete.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-skull-ou-growth-capa-discover.webp",
@@ -90013,7 +90045,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Skull sai mais barata que a Growth no whey e na creatina, pelo preço no cartão. A Growth só encosta no Pix, onde o whey dela quase empata com o 100% HD da Black Skull. O que muda a decisão é a forma de pagamento; veja em Cupom, Pix e frete."
+          "Nos preços de outubro, a Black Skull sai mais barata que a Growth no whey e na creatina, pelo preço no cartão. A Growth só encosta no Pix, onde o whey dela quase empata com o 100% HD da Black Skull. O que muda a decisão é a forma de pagamento, e os preços podem mudar."
         ]
       },
       {
@@ -90261,7 +90293,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela, para quem paga no cartão a escolha é a Black Skull no whey e na creatina, porque ganha por 100 g nas duas.",
+        "emphasis": "Pelos números da tabela de outubro, para quem paga no cartão a escolha é a Black Skull no whey e na creatina, porque ganha por 100 g nas duas.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
@@ -90280,12 +90312,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Black Skull ou Growth: qual é melhor? Pelo rótulo e pelo preço, a Black Skull sai mais barata na creatina e, com o cupom CECILIA10, também no whey. Sem cupom, o Whey 100% HD e o whey da Growth no Pix empatam por grama de proteína.",
-          "Qual o melhor whey, Black Skull ou Growth? Pelo preço por 100 g de proteína, o Whey 80% HD da Black Skull. O Whey 100% HD e o Whey Concentrado da Growth vêm logo atrás, como mostram as tabelas de whey.",
-          "Qual a melhor creatina, Black Skull ou Growth? As duas vendem creatina monohidratada com 5 g por dose. Por preço, a Black Skull leva, como mostra a tabela de creatina.",
+          "Black Skull ou Growth: qual é melhor? Pelo rótulo e pelos preços de outubro, a Black Skull sai mais barata na creatina e, com o cupom CECILIA10, também no whey. Sem cupom, o Whey 100% HD e o whey da Growth no Pix empatam por grama de proteína.",
+          "Qual o melhor whey, Black Skull ou Growth? Pelo preço por 100 g de proteína em outubro, o Whey 80% HD da Black Skull. O Whey 100% HD e o Whey Concentrado da Growth vêm logo atrás, como mostram as tabelas de whey.",
+          "Qual a melhor creatina, Black Skull ou Growth? As duas vendem creatina monohidratada com 5 g por dose. Nos preços de outubro, a Black Skull leva, como mostra a tabela de creatina.",
           "Black Skull é boa? Esta comparação responde só por rótulo e preço. Quem é a marca, o site oficial e as trocas estão em [Black Skull é confiável?](/reviews/black-skull-e-confiavel).",
           "A Growth tem cupom? Não temos cupom da Growth, porque ela não é parceira do site. Na loja dela, o Pix sai cerca de 10% mais barato que o cartão.",
-          "Vale esperar a Black Friday? O CECILIA10 vale hoje e soma com as promoções. Os preços de antes de novembro estão no guia da [Black Friday Black Skull](/reviews/black-friday-black-skull)."
+          "Vale esperar a Black Friday? O CECILIA10 soma com as promoções do site. Os preços deste guia são de antes de novembro; a Black Friday da Black Skull tem guia próprio: [Black Friday Black Skull](/reviews/black-friday-black-skull)."
         ]
       }
     ],
@@ -90338,10 +90370,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "Pelo preço no cartão, a Growth sai mais barata no whey concentrado e na creatina, e a Max no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
+    "description": "Nos preços de outubro, a Growth sai mais barata no whey concentrado e na creatina, e a Max no isolado e no hipercalórico. Veja as contas por dose e o veredito por perfil.",
     "metaDescription": "O cupom MAX10EMCASACOMCECILIA dá até 10% OFF na Max. Max Titanium ou Growth: whey, creatina e hipercalórico por 100 g de proteína e por 1.000 kcal.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/max-titanium-ou-growth-capa-discover.webp",
@@ -90352,7 +90385,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço no cartão, a Growth sai mais barata no whey concentrado e na creatina, e a Max, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas, e o capítulo Para quem cada um faz sentido mostra o veredito por perfil."
+          "Nos preços de outubro, no cartão, a Growth sai mais barata no whey concentrado e na creatina, e a Max, no whey isolado e no hipercalórico. O Pix da Growth e o cupom da Max mudam as contas, e o capítulo Para quem cada um faz sentido mostra o veredito por perfil."
         ]
       },
       {
@@ -90406,7 +90439,7 @@ export const reviewsData: unknown[] = [
               "40 g, 32 g de proteína",
               "cerca de 23",
               "R$ 273,55",
-              "R$ 37,17"
+              "R$ 37,99"
             ],
             [
               "Growth Whey Concentrado 1 kg (sabores)",
@@ -90418,8 +90451,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "No Pix, a ordem não muda: a Growth segue à frente e o 3W segue como o mais caro por 100 g de proteína (R$ 36,05 contra R$ 26,34), mesmo com o cupom da Max no teto (R$ 32,45).",
-          "A dose muda de uma loja para a outra, por isso a conta certa é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg.",
+          "No Pix, a ordem não muda: a Growth segue à frente e o 3W segue como o mais caro por 100 g de proteína (R$ 36,85 contra R$ 26,34), mesmo com o cupom da Max no teto (R$ 33,17).",
+          "A dose muda de uma loja para a outra, por isso a conta certa é por 100 g de proteína, e não pelo preço do pote. As porções são as da tabela: a Growth diz \"cerca de 33\" em 1 kg. No 3W, a conta usa 22,5 doses (900 g ÷ 40 g), que dão 720 g de proteína; a tabela arredonda para \"cerca de 23\".",
           "O Top Whey 3W + Performance mistura WPC, isolado e hidrolisado e entrega mais proteína por dose, mas sai mais caro por 100 g de proteína. A comparação da Max com a Probiótica está em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
         ],
         "images": [
@@ -90543,7 +90576,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Sem cupom, a Growth refil de 500 g é a menor conta por grama (R$ 14,98 no Pix). O pote de 500 g da Max empata com o pote da Growth no Pix (R$ 16,98) e, com o cupom, cai para R$ 15,28. A Max de 300 g com o cupom (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96), que tem a mesma dose de 5 g.",
+          "Nos preços de outubro e sem cupom, a Growth refil de 500 g era a menor conta por grama (R$ 14,98 no Pix). Preços e ofertas mudam, e a Max pode estar mais barata hoje: compare as duas no carrinho antes de comprar. O pote de 500 g da Max empata com o pote da Growth no Pix (R$ 16,98) e, com o cupom, cai para R$ 15,28. A Max de 300 g com o cupom (R$ 16,81) fica abaixo da Growth de 250 g (R$ 17,96), que tem a mesma dose de 5 g.",
           "A Max Titanium também vende a Creatina Creapure 250 g, e a loja declara o selo Creapure. A página da Growth não declara o selo, e por isso ele fica fora da tabela: por grama, a Creapure custa cerca de 3 vezes a creatina da Growth (R$ 54,28 contra R$ 17,96 no Pix). A diferença é de preço, não de dose."
         ],
         "images": [
@@ -90684,26 +90717,26 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem cada um faz sentido",
-        "emphasis": "Pelos números da tabela, para quem compra concentrado e creatina a escolha é a Growth, porque ganha por 100 g sem cupom.",
+        "emphasis": "Pelos números da tabela de outubro, para quem compra concentrado e creatina a escolha é a Growth, porque ganha por 100 g sem cupom.",
         "bullets": [
           "**Quer o menor preço por 100 g de proteína no whey concentrado:** a Growth Whey Concentrado 1 kg, a R$ 26,34 no Pix, sem cupom. A Max chega perto com o cupom (R$ 27,21), mas não passa a Growth.",
           "**Quer o whey de soro do leite que é o par direto da Growth:** o 100% Whey Refil da Max, que com o cupom fica a R$ 27,21 por 100 g de proteína, contra R$ 26,34 da Growth sem cupom.",
           "**Quer isolado e vai usar o cupom:** o IsoWhey 900 g da Max, a R$ 36,51 por 100 g de proteína com o cupom, contra R$ 39,27 da Growth no Pix.",
-          "**Quer a menor conta por grama de creatina:** a Growth refil de 500 g, a R$ 14,98 por 100 g no Pix. Com o cupom, o pote de 500 g da Max (R$ 15,28) fica perto.",
+          "**Quer a menor conta por grama de creatina:** a Growth refil de 500 g, a R$ 14,98 por 100 g no Pix, nos preços de outubro. Com o cupom, o pote de 500 g da Max (R$ 15,28) fica perto.",
           "**Quer creatina com o selo Creapure declarado pela loja:** a Creatina Creapure 250 g da Max, a R$ 54,28 por 100 g no Pix. É a mais cara das creatinas desta comparação.",
           "**Quer hipercalórico pelo preço por caloria:** o Mass Titanium 17500 Refil 3 kg, a R$ 9,81 por 1.000 kcal no Pix (R$ 8,82 com o cupom), contra R$ 15,04 do Big Mass Pro 3 kg da Growth.",
           "**Vai pagar no cartão:** na Growth, o cartão sai cerca de 11% mais caro que o Pix. Na Max, a diferença é menor, de cerca de 3%."
         ],
         "postParagraphs": [
-          "Se a comparação for com outra marca, há os textos [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium) e [Black Skull ou Growth](/reviews/black-skull-ou-growth)."
+          "Os preços são de outubro e mudam: compare as duas lojas no mesmo dia antes de comprar. Se a comparação for com outra marca, há os textos [Black Skull ou Max Titanium](/reviews/black-skull-ou-max-titanium) e [Black Skull ou Growth](/reviews/black-skull-ou-growth)."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Max Titanium ou Growth: qual é melhor? Depende do produto. Sem cupom, a Growth tem o whey concentrado e a creatina refil de 500 g mais baratos por grama; a Max leva o hipercalórico nos dois tamanhos e, com o cupom, também o isolado.",
+          "Max Titanium ou Growth: qual é melhor? Depende do produto. Nos preços de outubro e sem cupom, a Growth tem o whey concentrado e a creatina refil de 500 g mais baratos por grama; a Max leva o hipercalórico nos dois tamanhos e, com o cupom, também o isolado.",
           "O cupom da Max vale na creatina? Vale. O cupom dá até 10% em produtos do site oficial, e o percentual varia por item. A conta com cupom deste texto é o teto.",
-          "A Growth tem cupom? Não. A Growth não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
+          "A Growth tem cupom? Não oferecemos cupom da Growth: ela não é parceira do site, então não há cupom nem link de afiliado dela aqui.",
           "A Max tem creatina Creapure? Sim. A Creatina Creapure 250 g traz o selo declarado pela loja. A página da Growth não declara o selo.",
           "Vale esperar a Black Friday? O cupom vale hoje e soma com as promoções do site. Quando começa a Black Friday da Max e o que soma com o cupom estão no guia da [Black Friday Max Titanium](/reviews/black-friday-max-titanium)."
         ]
@@ -90763,6 +90796,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Probiótica ou Growth, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina e o frete.",
     "publishedAt": "18 de outubro de 2026",
     "publishedAtISO": "2026-10-18",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/probiotica-ou-growth-capa-discover.webp",
@@ -90773,7 +90807,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Growth sai mais barata que a Probiótica no whey e na creatina pelos preços do cartão, e o cupom PRO10EMCASACOMCECILIA não inverte isso no whey nem no refil de creatina. A Probiótica entra pela linha Zero Lactose, pelos sabores e pelo cupom. A creatina de 300 g depende do cupom; veja Quem escolhe o quê."
+          "Na cotação das tabelas, a Growth sai mais barata que a Probiótica no whey e na creatina, e o cupom PRO10EMCASACOMCECILIA não inverte isso no whey nem no refil de creatina. A Probiótica entra pela linha Zero Lactose, pelos sabores e pelo cupom. Preço muda: confira as duas lojas antes de comprar."
         ]
       },
       {
@@ -90980,7 +91014,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela, para quem compra pelo menor preço por grama a escolha é a Growth no whey e na creatina, porque ganha sem cupom.",
+        "emphasis": "Pelos números da tabela desta cotação, para quem compra pelo menor preço por grama a escolha é a Growth no whey e na creatina, porque ganha sem cupom. Compare as duas lojas antes de decidir.",
         "bullets": [
           "**Quer o menor preço por 100 g de proteína no whey:** Growth Whey Concentrado de 1 kg, com R$ 26,34 no Pix.",
           "**Quer a linha Zero Lactose:** a Probiótica é a única das duas com essa linha nesta conta. Leia o alergênico de leite no rótulo antes de comprar.",
@@ -90992,9 +91026,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Probiótica ou Growth: qual é melhor? Pelo preço por 100 g, a Growth vence no whey e na creatina de 500 g. A Probiótica só se aproxima na creatina de 300 g, com o cupom no teto. A escolha pesa também a linha Zero Lactose e os sabores.",
+          "Probiótica ou Growth: qual é melhor? Pela cotação das tabelas, a Growth vence no whey por 100 g e na creatina de 500 g. A Probiótica só se aproxima na creatina de 300 g, com o cupom no teto. A escolha pesa também a linha Zero Lactose e os sabores.",
           "O cupom da Probiótica vale na creatina? A loja aceita o cupom nos produtos do site, com o percentual de cada item. No teste do cupom, a creatina em promoção não recebeu os 10%.",
-          "A Growth tem cupom? Não. A Growth não é parceira do site, e não há cupom nosso para ela. Os links e o passo a passo do cupom da Probiótica estão no [artigo sobre como usar o cupom](/reviews/cupom-probiotica-como-usar).",
+          "A Growth tem cupom nosso? Não. A Growth não é parceira do site, e não há cupom nosso para ela; se a Growth tem promoção própria, a informação está no site dela. Os links e o passo a passo do cupom da Probiótica estão no [artigo sobre como usar o cupom](/reviews/cupom-probiotica-como-usar).",
           "A Probiótica é confiável? Quem é a marca, o site oficial e as trocas estão em [Probiótica é confiável?](/reviews/probiotica-e-confiavel), e a comparação com a Max Titanium, em [Max Titanium ou Probiótica](/reviews/max-titanium-ou-probiotica)."
         ]
       }
@@ -91066,9 +91100,10 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o que ele não cobre, a renovação automática e o que checar antes de pagar.",
-    "metaDescription": "O cupom SONAR20 dá 20% OFF na Hostinger em toda compra nova. A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o preço da renovação.",
+    "metaDescription": "O cupom SONAR20 dá 20% OFF na Hostinger em compra nova de plano. A Hostinger é confiável? Quem cobra, o reembolso de 30 dias e o preço da renovação.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/hostinger-e-confiavel-capa-discover.webp",
@@ -91113,7 +91148,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Novo registro de domínio",
-              "Só em 96 horas"
+              "Só em 96 horas, e algumas extensões não têm reembolso"
             ],
             [
               "Registro .br (.com.br, .net.br)",
@@ -91138,7 +91173,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Para pedir, abra um chamado pelo botão no canto inferior direito do site, com o número da fatura (que começa com HBR) e o motivo. O valor volta para o meio de pagamento usado. Se você escolher o saldo da conta, a devolução vira crédito e não volta para o cartão. A política também avisa que recusa pedidos repetidos ou em massa."
+          "Para pedir, abra um chamado pelo botão no canto inferior direito do site, com o número da fatura (que começa com HBR) e o motivo. O valor volta para o meio de pagamento usado, exceto nos que só devolvem em saldo da conta. Se você escolher o saldo da conta, a devolução vira crédito e não volta para o cartão. A política também avisa que recusa pedidos repetidos ou em massa."
         ],
         "images": [
           {
@@ -91196,7 +91231,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando a Hostinger serve, e quando não",
         "paragraphs": [
-          "Para um blog, um site pessoal ou uma loja pequena, a Hostinger entrega o serviço com regras claras e um prazo de 30 dias para testar. Se o site não pode ficar fora do ar, a garantia tem de estar escrita no plano, e a página pública não traz o número. Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) tem as datas e as regras de cada oferta."
+          "Para um blog, um site pessoal ou uma loja pequena, a Hostinger entrega o serviço com regras claras e um prazo de 30 dias para testar. Se o site não pode ficar fora do ar, saiba o que o 99,9% da página de preços vale: o contrato de hospedagem promete esse mínimo por mês e, quando falha, um crédito de 5% da mensalidade, pedido em até 30 dias; ele não cobre o que você deixou de vender. Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) tem as datas e as regras de cada oferta."
         ]
       },
       {
@@ -91212,8 +91247,8 @@ export const reviewsData: unknown[] = [
           "A Hostinger tem reembolso? Sim, de 30 dias para hospedagem e VPS, com as exceções da tabela. Renovação de domínio e serviços de suporte pagos não voltam.",
           "A renovação da Hostinger é automática? Sim, por padrão. Dá para desligar na conta a qualquer momento; sem renovação manual, o serviço encerra no fim do período.",
           "Quem cobra na Hostinger? Depende do país. Para o Brasil, pela regra da seção 2 dos termos, a contratante é a Hostinger International Limited, de Chipre, mas a Hostinger Brasil também aparece entre as empresas que podem cobrar. Confira o nome no checkout.",
-          "Tem cupom Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, em plano mensal ou anual. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+          "Tem cupom Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, em plano mensal ou anual. Os 20% valem em compra nova de plano (registro de domínio fica de fora); a renovação sai pelo preço de tabela, sem desconto.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou serviço novo (menos registro de domínio) também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
@@ -91230,7 +91265,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
+      "text": "Use o código SONAR20 no campo de cupom do carrinho, ou entre pelo link: 20% no primeiro período. Os 20% valem em compra nova de plano (registro de domínio fica de fora); a renovação sai pelo preço de tabela, sem desconto.",
       "label": "Ver os planos da Hostinger",
       "url": "https://www.hostinger.com/br?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91286,6 +91321,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Is Hostinger legit? See who bills you, the 30-day refund and its exceptions, automatic renewal at a new price and what to check before you sign up.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -91331,7 +91367,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "New domain registration",
-              "Only within 96 hours"
+              "Only within 96 hours, and some extensions are not refundable"
             ],
             [
               "Domain renewal",
@@ -91352,7 +91388,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "To request a refund, open a ticket with the button in the bottom-right corner of the site, with the invoice number and the reason. The money goes back to the payment method you used. If you choose account credit, the refund becomes credit and does not return to your card. The policy also says Hostinger refuses repeated or mass requests."
+          "To request a refund, open a ticket with the button in the bottom-right corner of the site, with the invoice number and the reason. The money goes back to the payment method you used, except for methods that only refund to account balance. If you choose account credit, the refund becomes credit and does not return to your card. The policy also says Hostinger refuses repeated or mass requests."
         ],
         "images": [
           {
@@ -91410,7 +91446,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "When Hostinger fits, and when it does not",
         "paragraphs": [
-          "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules and 30 days to try it. If the site cannot go offline, the guarantee has to be written into the plan, and the public page does not carry the number. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
+          "For a blog, a personal site or a small store, Hostinger delivers the service with clear rules and 30 days to try it. If the site cannot go offline, know what the 99.9% on the pricing page is worth: the hosting agreement promises that minimum each month and, when it fails, a credit of 5% of the monthly fee, claimed within 30 days; it does not cover what you failed to sell. If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) has the dates and rules for each offer."
         ]
       },
       {
@@ -91426,8 +91462,8 @@ export const reviewsData: unknown[] = [
           "Does Hostinger offer refunds? Yes, within 30 days for hosting and VPS, with the exceptions in the table. Domain renewals and paid support services are not refunded.",
           "Is Hostinger renewal automatic? Yes, by default. You can turn it off in your account at any time; without a manual renewal, the service ends at the end of the period.",
           "Who bills you at Hostinger? It depends on your country. The contracting company follows section 2 of the terms, and other companies in the group may also bill you. Check the name shown at checkout.",
-          "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
-          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+          "Is there a Hostinger coupon? Yes: the code SONAR20, in the coupon field of the cart, gives 20% off the first period, on monthly or annual plans. The 20% applies to a new plan purchase (domain registration is excluded); renewals are charged at the list price, with no discount.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or service (not a domain registration), you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
@@ -91444,7 +91480,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+      "text": "Enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to a new plan purchase (domain registration is excluded); renewals are charged at the list price, with no discount.",
       "label": "See Hostinger plans",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91500,6 +91536,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿Es confiable Hostinger? Mira quién cobra, el reembolso de 30 días y sus excepciones, la renovación automática con precio nuevo y qué revisar antes de contratar.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -91545,7 +91582,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Registro de dominio nuevo",
-              "Solo dentro de 96 horas"
+              "Solo dentro de 96 horas, y algunas extensiones no admiten reembolso"
             ],
             [
               "Renovación de dominio",
@@ -91566,7 +91603,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Para pedirlo, abre un ticket con el botón de la esquina inferior derecha del sitio, con el número de factura y el motivo. El dinero vuelve al medio de pago que usaste. Si eliges crédito en la cuenta, el reembolso se convierte en saldo y no vuelve a tu tarjeta. La política también dice que Hostinger rechaza las solicitudes repetidas o masivas."
+          "Para pedirlo, abre un ticket con el botón de la esquina inferior derecha del sitio, con el número de factura y el motivo. El dinero vuelve al medio de pago que usaste, salvo en los que solo devuelven a saldo de la cuenta. Si eliges crédito en la cuenta, el reembolso se convierte en saldo y no vuelve a tu tarjeta. La política también dice que Hostinger rechaza las solicitudes repetidas o masivas."
         ],
         "images": [
           {
@@ -91624,7 +91661,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuándo sirve Hostinger y cuándo no",
         "paragraphs": [
-          "Para un blog, un sitio personal o una tienda pequeña, Hostinger entrega el servicio con reglas claras y un plazo de 30 días para probar. Si el sitio no puede caerse, la garantía tiene que estar escrita en el plan, y la página pública no trae el número. Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) tiene las fechas y las reglas de cada oferta."
+          "Para un blog, un sitio personal o una tienda pequeña, Hostinger presta el servicio con reglas claras y un plazo de 30 días para probar. Si el sitio no puede caerse, ten claro lo que vale el 99,9 % de la página de precios: el contrato de hosting promete ese mínimo cada mes y, cuando falla, un crédito del 5 % de la mensualidad, que se pide en un plazo de 30 días; no cubre lo que dejaste de vender. Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) tiene las fechas y las reglas de cada oferta."
         ]
       },
       {
@@ -91640,8 +91677,8 @@ export const reviewsData: unknown[] = [
           "¿Hostinger tiene reembolso? Sí, de 30 días para hosting y VPS, con las excepciones de la tabla. La renovación de dominio y los servicios de soporte de pago no se reembolsan.",
           "¿La renovación de Hostinger es automática? Sí, por defecto. Puedes desactivarla en la cuenta en cualquier momento; sin renovación manual, el servicio termina al final del período.",
           "¿Quién cobra en Hostinger? Depende del país. La empresa contratante sigue la sección 2 de los términos, y otras empresas del grupo también pueden cobrar. Revisa el nombre en el checkout.",
-          "¿Hay cupón de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período, en plan mensual o anual. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+          "¿Hay cupón de Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período, en plan mensual o anual. Los 20 % se aplican a la compra nueva de un plan (el registro de dominio queda fuera); la renovación se cobra al precio de lista, sin descuento.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o servicio nuevo (salvo registro de dominio) también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
@@ -91658,7 +91695,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+      "text": "Usa el código SONAR20 en el campo de cupón del carrito, o entra por el enlace: 20 % en el primer período. Los 20 % se aplican a la compra nueva de un plan (el registro de dominio queda fuera); la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes de Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91714,6 +91751,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger est-il fiable ? Voyez qui facture, le remboursement sous 30 jours et ses exceptions, le renouvellement automatique à un nouveau prix et ce qu'il faut vérifier avant de souscrire.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -91759,7 +91797,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nouvel enregistrement de domaine",
-              "Seulement sous 96 heures"
+              "Seulement sous 96 heures, et certaines extensions ne sont pas remboursables"
             ],
             [
               "Renouvellement de domaine",
@@ -91780,7 +91818,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pour demander un remboursement, ouvrez un ticket avec le bouton en bas à droite du site, en indiquant le numéro de facture et le motif. Le montant revient sur le moyen de paiement utilisé. Si vous choisissez un avoir sur le compte, le remboursement devient un crédit et ne revient pas sur la carte. La politique précise aussi que Hostinger refuse les demandes répétées ou en masse."
+          "Pour demander un remboursement, ouvrez un ticket avec le bouton en bas à droite du site, en indiquant le numéro de facture et le motif. Le montant revient sur le moyen de paiement utilisé, sauf pour ceux qui ne remboursent qu'en crédit sur le compte. Si vous choisissez un avoir sur le compte, le remboursement devient un crédit et ne revient pas sur la carte. La politique précise aussi que Hostinger refuse les demandes répétées ou en masse."
         ],
         "images": [
           {
@@ -91838,7 +91876,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quand Hostinger convient, et quand non",
         "paragraphs": [
-          "Pour un blog, un site personnel ou une petite boutique, Hostinger fournit le service avec des règles claires et 30 jours pour essayer. Si le site ne peut pas tomber, la garantie doit être écrite dans le forfait, et la page publique n'indique pas le chiffre. Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) donne les dates et les règles de chaque offre."
+          "Pour un blog, un site personnel ou une petite boutique, Hostinger fournit le service avec des règles claires et 30 jours pour essayer. Si le site ne peut pas tomber, sachez ce que vaut le 99,9 % de la page des tarifs : le contrat d'hébergement promet ce minimum chaque mois et, en cas de manquement, un crédit de 5 % de la mensualité, à demander sous 30 jours ; il ne couvre pas ce que vous n'avez pas pu vendre. Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) donne les dates et les règles de chaque offre."
         ]
       },
       {
@@ -91854,8 +91892,8 @@ export const reviewsData: unknown[] = [
           "Hostinger rembourse-t-il ? Oui, sous 30 jours pour l'hébergement et le VPS, avec les exceptions du tableau. Le renouvellement de domaine et les services de support payants ne sont pas remboursés.",
           "Le renouvellement chez Hostinger est-il automatique ? Oui, par défaut. Vous pouvez le désactiver dans le compte à tout moment ; sans renouvellement manuel, le service s'arrête à la fin de la période.",
           "Qui facture chez Hostinger ? Cela dépend du pays. La société contractante suit la section 2 des conditions, et d'autres sociétés du groupe peuvent aussi facturer. Vérifiez le nom affiché au paiement.",
-          "Existe-t-il un code promo Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, en forfait mensuel ou annuel. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
-          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+          "Existe-t-il un code promo Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période, en forfait mensuel ou annuel. Les 20 % valent pour le nouvel achat d'un forfait (l'enregistrement de domaine est exclu) ; le renouvellement est facturé au prix catalogue, sans réduction.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un service nouveau (hors enregistrement de domaine) obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
@@ -91872,7 +91910,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+      "text": "Collez le code SONAR20 dans le champ de code promo du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour le nouvel achat d'un forfait (l'enregistrement de domaine est exclu) ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les forfaits Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -91928,6 +91966,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Ist Hostinger seriös? Hier erfahren Sie, wer abrechnet, wie die 30-Tage-Erstattung samt Ausnahmen funktioniert, was die automatische Verlängerung zum neuen Preis bedeutet und was Sie vor dem Kauf prüfen sollten.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -91973,7 +92012,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Neue Domainregistrierung",
-              "Nur innerhalb von 96 Stunden"
+              "Nur innerhalb von 96 Stunden, einige Endungen sind nicht erstattungsfähig"
             ],
             [
               "Domainverlängerung",
@@ -91994,7 +92033,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Um eine Erstattung zu beantragen, öffnen Sie ein Ticket über den Button unten rechts auf der Website und geben die Rechnungsnummer und den Grund an. Der Betrag geht an das verwendete Zahlungsmittel zurück. Wenn Sie stattdessen Guthaben im Konto wählen, wird die Erstattung zu Guthaben und nicht auf die Karte zurückgebucht. Die Richtlinie besagt außerdem, dass Hostinger wiederholte oder massenhafte Anfragen ablehnt."
+          "Um eine Erstattung zu beantragen, öffnen Sie ein Ticket über den Button unten rechts auf der Website und geben die Rechnungsnummer und den Grund an. Der Betrag geht an das verwendete Zahlungsmittel zurück, außer bei Zahlungsmitteln, die nur auf das Kontoguthaben erstatten. Wenn Sie stattdessen Guthaben im Konto wählen, wird die Erstattung zu Guthaben und nicht auf die Karte zurückgebucht. Die Richtlinie besagt außerdem, dass Hostinger wiederholte oder massenhafte Anfragen ablehnt."
         ],
         "images": [
           {
@@ -92052,7 +92091,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wann Hostinger passt und wann nicht",
         "paragraphs": [
-          "Für einen Blog, eine private Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln und 30 Tagen zum Ausprobieren. Wenn die Website nicht offline gehen darf, muss die Garantie im Tarif schriftlich stehen, und die öffentliche Seite nennt die Zahl nicht. Wenn Sie wegen des Black Friday fragen: Der [Leitfaden zur Aktion](/de/reviews/hostinger-black-friday-angebote) nennt die Daten und die Regeln jedes Angebots."
+          "Für einen Blog, eine private Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln und 30 Tagen zum Ausprobieren. Wenn die Website nicht offline gehen darf, sollten Sie wissen, was die 99,9 % auf der Preisseite wert sind: Der Hosting-Vertrag verspricht dieses Minimum pro Monat und, wenn es verfehlt wird, eine Gutschrift von 5 % der Monatsgebühr, die innerhalb von 30 Tagen zu beantragen ist; er deckt nicht ab, was Sie nicht verkaufen konnten. Wenn Sie wegen des Black Friday fragen: Der [Leitfaden zur Aktion](/de/reviews/hostinger-black-friday-angebote) nennt die Daten und die Regeln jedes Angebots."
         ]
       },
       {
@@ -92068,8 +92107,8 @@ export const reviewsData: unknown[] = [
           "Erstattet Hostinger Geld? Ja, innerhalb von 30 Tagen für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Support-Leistungen werden nicht erstattet.",
           "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können das im Konto jederzeit abschalten; ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
           "Wer rechnet bei Hostinger ab? Das hängt vom Land ab. Das Vertragsunternehmen folgt Abschnitt 2 der Bedingungen, und auch andere Unternehmen der Gruppe können abrechnen. Prüfen Sie den Namen beim Checkout.",
-          "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
-          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+          "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Die 20 % gelten für den Neukauf eines Tarifs (Domainregistrierung ausgenommen); die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder einen neuen Dienst (außer Domainregistrierung) abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
@@ -92086,7 +92125,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+      "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für den Neukauf eines Tarifs (Domainregistrierung ausgenommen); die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Hostinger-Tarife ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92142,6 +92181,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger è affidabile? Scopri chi addebita, il rimborso di 30 giorni e le eccezioni, il rinnovo automatico a un prezzo nuovo e cosa controllare prima di acquistare.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -92187,7 +92227,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Nuova registrazione di dominio",
-              "Solo entro 96 ore"
+              "Solo entro 96 ore, e alcune estensioni non sono rimborsabili"
             ],
             [
               "Rinnovo di dominio",
@@ -92208,7 +92248,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Per chiedere il rimborso, apri un ticket con il pulsante in basso a destra del sito, indicando il numero di fattura e il motivo. L'importo torna sul metodo di pagamento usato. Se scegli il credito sull'account, il rimborso diventa credito e non torna sulla carta. La politica precisa anche che Hostinger rifiuta richieste ripetute o di massa."
+          "Per chiedere il rimborso, apri un ticket con il pulsante in basso a destra del sito, indicando il numero di fattura e il motivo. L'importo torna sul metodo di pagamento usato, tranne che nei metodi che rimborsano solo in credito sull'account. Se scegli il credito sull'account, il rimborso diventa credito e non torna sulla carta. La politica precisa anche che Hostinger rifiuta richieste ripetute o di massa."
         ],
         "images": [
           {
@@ -92266,7 +92306,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando Hostinger va bene, e quando no",
         "paragraphs": [
-          "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare e 30 giorni per provare. Se il sito non può andare offline, la garanzia deve essere scritta nel piano, e la pagina pubblica non riporta il numero. Se il tuo dubbio è il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) ha le date e le regole di ogni offerta."
+          "Per un blog, un sito personale o un piccolo negozio, Hostinger offre il servizio con regole chiare e 30 giorni per provare. Se il sito non può andare offline, sappi quanto vale il 99,9% della pagina dei prezzi: il contratto di hosting promette questo minimo ogni mese e, quando non lo rispetta, un credito del 5% del canone mensile, da richiedere entro 30 giorni; non copre ciò che hai smesso di vendere. Se il tuo dubbio è il Black Friday, la [guida alla campagna](/it/reviews/black-friday-hostinger-offerte) ha le date e le regole di ogni offerta."
         ]
       },
       {
@@ -92282,8 +92322,8 @@ export const reviewsData: unknown[] = [
           "Hostinger rimborsa? Sì, entro 30 giorni per hosting e VPS, con le eccezioni della tabella. Il rinnovo di dominio e i servizi di assistenza a pagamento non vengono rimborsati.",
           "Il rinnovo di Hostinger è automatico? Sì, per impostazione predefinita. Puoi disattivarlo nell'account in qualsiasi momento; senza rinnovo manuale, il servizio termina alla fine del periodo.",
           "Chi addebita su Hostinger? Dipende dal paese. L'azienda contraente segue la sezione 2 dei termini, e anche altre società del gruppo possono addebitare. Controlla il nome mostrato al checkout.",
-          "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
-          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+          "C'è un coupon Hostinger? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo, con piano mensile o annuale. I 20% valgono sull'acquisto nuovo di un piano (la registrazione di domini è esclusa); il rinnovo si paga al prezzo di listino, senza sconto.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un servizio nuovo (registrazione di domini esclusa) ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
@@ -92300,7 +92340,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+      "text": "Usa il codice SONAR20 nel campo coupon del carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono sull'acquisto nuovo di un piano (la registrazione di domini è esclusa); il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani di Hostinger",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92356,6 +92396,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "호스팅어는 믿을 만한가요? 결제 주체, 30일 환불과 예외, 새 가격으로 이어지는 자동 갱신, 가입 전에 확인할 점을 살펴보세요.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -92401,7 +92442,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "신규 도메인 등록",
-              "96시간 이내에만"
+              "96시간 이내에만, 환불이 안 되는 확장자도 있음"
             ],
             [
               "도메인 갱신",
@@ -92422,7 +92463,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "환불을 요청하려면 사이트 오른쪽 아래의 버튼으로 문의를 열고 청구서 번호와 사유를 적으세요. 금액은 사용한 결제 수단으로 돌아갑니다. 계정 크레딧을 선택하면 환불은 크레딧이 되며 카드로 돌아가지 않습니다. 정책은 반복적이거나 대량의 요청을 거절한다고도 밝히고 있습니다."
+          "환불을 요청하려면 사이트 오른쪽 아래의 버튼으로 문의를 열고 청구서 번호와 사유를 적으세요. 금액은 사용한 결제 수단으로 돌아갑니다(계정 잔액으로만 환불되는 수단은 제외). 계정 크레딧을 선택하면 환불은 크레딧이 되며 카드로 돌아가지 않습니다. 정책은 반복적이거나 대량의 요청을 거절한다고도 밝히고 있습니다."
         ],
         "images": [
           {
@@ -92480,7 +92521,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "호스팅어가 맞을 때와 맞지 않을 때",
         "paragraphs": [
-          "블로그, 개인 사이트, 작은 쇼핑몰이라면 호스팅어는 분명한 규정과 써 볼 수 있는 30일을 제공합니다. 사이트가 중단되면 안 된다면 보장이 요금제에 명시되어 있어야 하는데, 공개 페이지에는 그 수치가 없습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에 일정과 각 혜택의 규정이 있습니다."
+          "블로그, 개인 사이트, 작은 쇼핑몰이라면 호스팅어는 분명한 규정과 써 볼 수 있는 30일을 제공합니다. 사이트가 중단되면 안 된다면 요금 페이지의 99.9%가 어떤 의미인지 알아 두세요. 호스팅 계약은 매월 이 최소 수준을 약속하며, 지키지 못하면 월 요금의 5%를 크레딧으로 주고, 30일 이내에 신청해야 합니다. 놓친 매출은 보상하지 않습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에 일정과 각 혜택의 규정이 있습니다."
         ]
       },
       {
@@ -92496,8 +92537,8 @@ export const reviewsData: unknown[] = [
           "호스팅어는 환불해 주나요? 네, 호스팅과 VPS는 30일 이내이며 표의 예외가 있습니다. 도메인 갱신과 유료 지원 서비스는 환불되지 않습니다.",
           "호스팅어의 갱신은 자동인가요? 네, 기본값은 자동입니다. 계정에서 언제든 끌 수 있고, 직접 갱신하지 않으면 기간이 끝날 때 서비스가 종료됩니다.",
           "호스팅어에서는 누가 결제를 청구하나요? 국가에 따라 다릅니다. 계약 당사자 회사는 약관 제2조를 따르며, 그룹 내 다른 회사가 청구할 수도 있습니다. 결제 화면에 표시되는 이름을 확인하세요.",
-          "호스팅어 쿠폰이 있나요? 네, 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 월간 요금제든 연간 요금제든 첫 기간이 20% 할인됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
-          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
+          "호스팅어 쿠폰이 있나요? 네, 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 월간 요금제든 연간 요금제든 첫 기간이 20% 할인됩니다. 20% 할인은 요금제 신규 구매에 적용되며(도메인 등록은 제외), 갱신은 할인 없이 정가로 청구됩니다.",
+          "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 서비스를 계약하면(도메인 등록 제외) 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
@@ -92514,7 +92555,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
+      "text": "장바구니의 쿠폰 입력란에 SONAR20을 넣거나 이 글의 링크로 들어가면 첫 결제 기간에 20% 할인이 적용됩니다. 20% 할인은 요금제 신규 구매에 적용되며(도메인 등록은 제외), 갱신은 할인 없이 정가로 청구됩니다.",
       "label": "호스팅어 요금제 보기",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92570,6 +92611,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostingerは信頼できる？ 請求元、30日間の返金と例外、新しい価格での自動更新、契約前に確認することを紹介します。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -92615,7 +92657,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "新規ドメイン登録",
-              "96時間以内に限る"
+              "96時間以内に限る（対象外の拡張子もあります）"
             ],
             [
               "ドメインの更新",
@@ -92636,7 +92678,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "返金を申請するには、サイト右下のボタンからチケットを開き、請求書番号と理由を記入します。返金は利用した支払い方法に戻ります。アカウントのクレジットを選ぶと、返金はクレジットとなりカードには戻りません。ポリシーでは、繰り返しの申請や大量の申請は受け付けないともされています。"
+          "返金を申請するには、サイト右下のボタンからチケットを開き、請求書番号と理由を記入します。返金は利用した支払い方法に戻ります（アカウントの残高にしか戻せない支払い方法を除く）。アカウントのクレジットを選ぶと、返金はクレジットとなりカードには戻りません。ポリシーでは、繰り返しの申請や大量の申請は受け付けないともされています。"
         ],
         "images": [
           {
@@ -92694,7 +92736,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostingerが向いている場合、向いていない場合",
         "paragraphs": [
-          "ブログ、個人サイト、小さなショップであれば、Hostingerは明確なルールと、試すための30日間でサービスを提供します。サイトを止められない場合は、保証がプランに明記されている必要がありますが、公開ページに数字はありません。ブラックフライデーについて知りたい場合は、[キャンペーンのガイド](/ja/reviews/hostinger-black-friday-ja)に日程と各オファーのルールがあります。"
+          "ブログ、個人サイト、小さなショップであれば、Hostingerは明確なルールと、試すための30日間でサービスを提供します。サイトを止められない場合は、料金ページの99.9%がどれほどの価値かを知っておいてください。ホスティング契約は毎月この最低水準を約束しており、守られなかったときは月額料金の5%がクレジットされ、30日以内の申請が必要です。ただし、売り損ねた分は補償されません。ブラックフライデーについて知りたい場合は、[キャンペーンのガイド](/ja/reviews/hostinger-black-friday-ja)に日程と各オファーのルールがあります。"
         ]
       },
       {
@@ -92710,8 +92752,8 @@ export const reviewsData: unknown[] = [
           "Hostingerは返金してくれますか？ はい。ホスティングとVPSは30日以内で、表の例外があります。ドメインの更新と有料のサポートサービスは返金されません。",
           "Hostingerの更新は自動ですか？ はい、初期設定では自動です。アカウントからいつでもオフにできます。手動で更新しなければ、期間の終わりにサービスは終了します。",
           "Hostingerでは誰が請求しますか？ 国によって異なります。契約する会社は規約の第2条に従い、グループ内の他の会社が請求することもあります。チェックアウト画面に表示される名前を確認してください。",
-          "Hostingerのクーポンはありますか？ はい。カートのクーポン欄に SONAR20 を入れると、月払いでも年払いでも初回期間が20%割引になります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
-          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
+          "Hostingerのクーポンはありますか？ はい。カートのクーポン欄に SONAR20 を入れると、月払いでも年払いでも初回期間が20%割引になります。20%割引はプランの新規購入に適用され（ドメイン登録は対象外）、更新は通常料金で、割引はありません。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランやサービスを契約する場合（ドメイン登録を除く）も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
@@ -92728,7 +92770,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
+      "text": "カートのクーポン欄に SONAR20 を入れるか、リンクから入ると、最初の契約期間が20%割引になります。20%割引はプランの新規購入に適用され（ドメイン登録は対象外）、更新は通常料金で、割引はありません。",
       "label": "Hostingerのプランを見る",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92784,6 +92826,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 可靠嗎？看看誰來扣款、30 天退款與例外、以新價格自動續訂，以及下單前要確認什麼。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -92829,7 +92872,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "新網域註冊",
-              "只限 96 小時內"
+              "只限 96 小時內，部分網域後綴不支援退款"
             ],
             [
               "網域續訂",
@@ -92850,7 +92893,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "申請退款時，請使用網站右下角的按鈕開立工單，並附上帳單編號與原因。款項會退回你付款所用的方式。若選擇退回帳戶額度，退款會變成額度，不會退回信用卡。政策也說明會拒絕重複或大量的申請。"
+          "申請退款時，請使用網站右下角的按鈕開立工單，並附上帳單編號與原因。款項會退回你付款所用的方式（只能退到帳戶餘額的付款方式除外）。若選擇退回帳戶額度，退款會變成額度，不會退回信用卡。政策也說明會拒絕重複或大量的申請。"
         ],
         "images": [
           {
@@ -92908,7 +92951,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger 適合誰，不適合誰",
         "paragraphs": [
-          "如果是部落格、個人網站或小型網店，Hostinger 提供規則清楚的服務，並有 30 天可以試用。如果網站不能停機，保證必須寫在方案裡，而公開頁面沒有給出這個數字。如果你想了解黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)裡有各項優惠的日期與規則。"
+          "如果是部落格、個人網站或小型網店，Hostinger 提供規則清楚的服務，並有 30 天可以試用。如果網站不能停機，請了解價格頁面上的 99.9% 究竟代表什麼：主機代管合約承諾每月達到這個最低水準，未達到時給予月費 5% 的抵免額度，須在 30 天內申請；它不補償你因此少賣的損失。如果你想了解黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)裡有各項優惠的日期與規則。"
         ]
       },
       {
@@ -92924,8 +92967,8 @@ export const reviewsData: unknown[] = [
           "Hostinger 可以退款嗎？可以，主機與 VPS 在 30 天內，表中列出了例外。網域續訂與付費支援服務不退款。",
           "Hostinger 的續訂是自動的嗎？是，預設如此。你可以隨時在帳戶中關閉；如果不手動續訂，服務會在期限結束時終止。",
           "Hostinger 由誰來扣款？這取決於所在國家。簽約公司依據條款第 2 條決定，集團內的其他公司也可能扣款。請核對結帳頁面上顯示的名稱。",
-          "有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，月繳或年繳方案的首期都可享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
-          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
+          "有 Hostinger 優惠碼嗎？有：在購物車的優惠碼欄輸入 SONAR20，月繳或年繳方案的首期都可享 20% 折扣。SONAR20 的 20% 折扣適用於方案的新購買（網域註冊除外）；續訂按定價計算，沒有折扣。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新服務（網域註冊除外），同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
@@ -92942,7 +92985,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。",
+      "text": "在購物車的優惠碼欄輸入 SONAR20，或透過本文連結進入：首個計費週期享 20% 折扣。SONAR20 的 20% 折扣適用於方案的新購買（網域註冊除外）；續訂按定價計算，沒有折扣。",
       "label": "查看 Hostinger 方案",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -92998,6 +93041,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 靠谱吗？看看谁来扣款、30 天退款及例外、按新价格自动续费，以及下单前要确认什么。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -93043,7 +93087,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "新域名注册",
-              "仅限 96 小时内"
+              "仅限 96 小时内，部分后缀不支持退款"
             ],
             [
               "域名续费",
@@ -93064,7 +93108,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "申请退款时，请使用网站右下角的按钮提交工单，并附上账单编号和原因。款项会退回你付款所用的方式。若选择退回账户额度，退款会变成额度，不会退回银行卡。政策还说明会拒绝重复或大量的申请。"
+          "申请退款时，请使用网站右下角的按钮提交工单，并附上账单编号和原因。款项会退回你付款所用的方式（只能退到账户余额的支付方式除外）。若选择退回账户额度，退款会变成额度，不会退回银行卡。政策还说明会拒绝重复或大量的申请。"
         ],
         "images": [
           {
@@ -93122,7 +93166,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger 适合谁，不适合谁",
         "paragraphs": [
-          "如果是博客、个人网站或小型网店，Hostinger 提供规则清晰的服务，并有 30 天可以试用。如果网站不能宕机，保证必须写在套餐里，而公开页面没有给出这个数字。如果你想了解黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)里有各项优惠的日期和规则。"
+          "如果是博客、个人网站或小型网店，Hostinger 提供规则清晰的服务，并有 30 天可以试用。如果网站不能宕机，请了解价格页面上的 99.9% 到底意味着什么：托管协议承诺每月达到这一最低水平，未达到时给予月费 5% 的抵扣额度，需在 30 天内申请；它不赔偿你因此少卖的损失。如果你想了解黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)里有各项优惠的日期和规则。"
         ]
       },
       {
@@ -93138,8 +93182,8 @@ export const reviewsData: unknown[] = [
           "Hostinger 可以退款吗？可以，主机和 VPS 在 30 天内，表中列出了例外。域名续费和付费支持服务不退款。",
           "Hostinger 的续费是自动的吗？是，默认如此。你可以随时在账户中关闭；如果不手动续费，服务会在周期结束时终止。",
           "Hostinger 由谁来扣款？这取决于所在国家。签约公司依据条款第 2 条确定，集团内的其他公司也可能扣款。请核对结账页面上显示的名称。",
-          "有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，月付或年付套餐的首期都可享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
-          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+          "有 Hostinger 优惠码吗？有：在购物车的优惠码栏输入 SONAR20，月付或年付套餐的首期都可享 20% 折扣。这 20% 适用于套餐的新购（域名注册除外）；续费按标价收费，没有折扣。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或服务（域名注册除外），同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
@@ -93156,7 +93200,7 @@ export const reviewsData: unknown[] = [
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+      "text": "在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个计费周期享 20% 折扣。这 20% 适用于套餐的新购（域名注册除外）；续费按标价收费，没有折扣。",
       "label": "查看 Hostinger 套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93210,9 +93254,10 @@ export const reviewsData: unknown[] = [
       }
     ],
     "description": "A nota da Hostinger no Reclame Aqui em 30/09/2026: reputação Ótima, cobrança indevida no topo das queixas e como desligar a renovação automática.",
-    "metaDescription": "Hostinger no Reclame Aqui, com o cupom SONAR20 de 20% OFF: nota 8,6 em 6 meses e 88,6% das reclamações resolvidas.",
+    "metaDescription": "Hostinger no Reclame Aqui, com o cupom SONAR20 de 20% OFF: nota 8,6 e 88,6% das reclamações resolvidas nos 6 meses até set/2026.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-capa-discover.webp",
@@ -93352,23 +93397,23 @@ export const reviewsData: unknown[] = [
           "A central de ajuda da Hostinger dá este caminho:"
         ],
         "bullets": [
-          "No hPanel, abra o menu **Faturas**.",
-          "Vá até a página **Serviços**.",
-          "Clique nos três pontinhos (⋮) ao lado do produto.",
-          "Escolha **Configurações de Renovação**.",
-          "Desmarque **Ativar renovação automática** e clique em **Salvar**."
+          "No hPanel, abra o perfil e vá em **Faturamento** (Billing).",
+          "Escolha **Assinaturas** (Subscriptions).",
+          "Localize o serviço que você quer alterar.",
+          "Clique na chave (toggle) ao lado do serviço. Abre uma página com os riscos e avisos daquele tipo de produto.",
+          "Leia as informações e confirme a escolha."
         ],
         "images": [
           {
             "src": "/images/reviews/hostinger/hostinger-reclame-aqui-nota-reputacao-passos-renovacao.webp",
-            "alt": "Cinco passos para desligar a renovação automática na Hostinger: Faturas, Serviços, os três pontinhos, Configurações de Renovação e Salvar",
-            "caption": "Passo a passo para desligar a renovação automática, com base na central de ajuda da Hostinger.",
+            "alt": "Cinco passos do caminho antigo do hPanel para desligar a renovação automática: Faturas, Serviços, os três pontinhos, Configurações de Renovação e Salvar",
+            "caption": "Passo a passo pelo caminho antigo do hPanel; o caminho atual, por Faturamento e Assinaturas, está na lista acima.",
             "objectFit": "contain",
             "aspectRatio": 1.7778
           }
         ],
         "postParagraphs": [
-          "Quando a opção estiver desligada, o produto segue ativo até a data de vencimento. Para ligar de novo, é preciso ter um método de pagamento cadastrado. A central também diz que, se a renovação estiver a um dia ou menos do vencimento, é preciso renovar manualmente antes de ligar a opção de novo. Os nomes dos menus podem mudar; se mudarem, procure \"renovação automática\" na seção Faturas."
+          "Quando a opção estiver desligada, o produto segue ativo até a data de vencimento. Para ligar de novo, clique na mesma chave outra vez. Desligar não devolve cobranças já processadas. Os nomes dos menus podem mudar; se mudarem, procure \"renovação automática\" na área de faturamento."
         ]
       },
       {
@@ -93380,7 +93425,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "O perfil é reivindicado desde 2017, ou seja, a empresa administra a página.",
           "A empresa tem assinatura paga do Trustpilot.",
-          "A página diz que a Hostinger convida os clientes a avaliar, tanto as positivas quanto as negativas. Um convite amplo puxa a média para cima e não mostra quem ficou de fora.",
+          "A página diz que a Hostinger convida os clientes a avaliar, tanto as positivas quanto as negativas. Isso pode puxar a média para cima, e a página não mostra quem foi convidado e não respondeu.",
           "A empresa responde 99% das avaliações negativas, em geral em até 24 horas, e pode usar IA nas respostas.",
           "O próprio Trustpilot diz que não checa as avaliações uma a uma."
         ],
@@ -93401,7 +93446,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Lemos as 100 avaliações de 5 estrelas e as 100 de 1 estrela mais recentes. Das de 5 estrelas, 78 foram convidadas pela empresa; das de 1 estrela, 92 foram espontâneas. Entre as 86 queixas de verdade (14 eram elogios com a nota errada), os temas mais citados foram o atendimento por IA sem chegar a uma pessoa (cerca de 45), cobrança e renovação (cerca de 38) e domínios (cerca de 27). A cobrança aparece nos dois sites; o atendimento por IA aparece mais no Trustpilot."
+          "Lemos as 100 avaliações de 5 estrelas e as 100 de 1 estrela mais recentes. Das de 5 estrelas, 78 foram convidadas pela empresa; das de 1 estrela, 92 foram espontâneas. As duas amostras cobrem períodos diferentes, então não medem quanto o convite pesa na nota geral. Entre as 86 queixas de verdade (14 eram elogios com a nota errada), os temas mais citados foram o atendimento por IA sem chegar a uma pessoa (cerca de 45), cobrança e renovação (cerca de 38) e domínios (cerca de 27). A cobrança aparece nos dois sites; o atendimento por IA aparece mais no Trustpilot."
         ]
       },
       {
@@ -93429,17 +93474,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Hostinger tem nota boa no Reclame Aqui? No período lido, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
+          "A Hostinger tem nota boa no Reclame Aqui? Nos 6 meses até setembro, a reputação era Ótima: nota 8,6 nos últimos 6 meses e 8,4 nos últimos 12 meses.",
           "Quais são as reclamações mais comuns da Hostinger? No ranking de problemas do Reclame Aqui (aba geral, até 3 anos), cobrança indevida aparece com 21,72%, o item mais citado.",
           "A Hostinger responde reclamações? Sim. 99,3% das reclamações dos últimos 6 meses foram respondidas, e 10 aguardavam resposta.",
-          "Como desligar a renovação automática da Hostinger? No hPanel, abra Faturas, vá em Serviços, clique nos três pontinhos do produto, escolha Configurações de Renovação e desmarque a opção. O produto segue ativo até o vencimento.",
-          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
+          "Como desligar a renovação automática da Hostinger? No hPanel, abra o perfil, vá em Faturamento e depois em Assinaturas, localize o serviço e clique na chave ao lado. Leia os avisos e confirme. O produto segue ativo até o vencimento.",
+          "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20% (o registro de domínio fica de fora). A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
       {
         "heading": "Se você já decidiu",
         "paragraphs": [
-          "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela. Veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
+          "Se você decidiu contratar, o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período, e a página da [Hostinger](/cupons/hostinger) mostra os detalhes. Os 20% valem na compra nova de planos e produtos, menos no registro de domínio; a renovação sai pelo preço de tabela. Veja o [artigo sobre o cupom SONAR20](/reviews/cupom-hostinger-indicacao). Se a sua dúvida é a Black Friday, o [guia da campanha](/reviews/black-friday-hostinger) mostra a conta com o cupom, e o [artigo sobre confiança](/reviews/hostinger-e-confiavel) trata de reembolso e segurança da empresa."
         ]
       }
     ],
@@ -93502,6 +93547,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger on Trustpilot (October 24, 2026): TrustScore 4.6 from 73,411 reviews, 99% of negative ones answered, and billing and renewal among the top complaints. See how to turn off renewal.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -93513,7 +93559,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "Yes, with a caveat. On October 24, 2026, Hostinger had a TrustScore of 4.6 from 73,411 Trustpilot reviews and answered 99% of the negative ones. The company invites customers to review, which pushes the average up, and the most cited complaints are AI support, billing and renewal. On hosting, billing calls for attention to automatic renewal; see below how to turn it off. The 20% off the first period comes from the [SONAR20 Hostinger coupon](/en/coupons/hostinger)."
+          "Yes, with a caveat. On October 24, 2026, Hostinger had a TrustScore of 4.6 from 73,411 Trustpilot reviews and answered 99% of the negative ones. The company invites customers to review, which can raise the average, and the most cited complaints are AI support, billing and renewal. On hosting, billing calls for attention to automatic renewal; see below how to turn it off. The 20% off the first period comes from the [SONAR20 Hostinger coupon](/en/coupons/hostinger)."
         ]
       },
       {
@@ -93638,7 +93684,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "First, five-star reviews arrive much faster and almost all of them by invitation: 100 in about five days, 78 of them invited. One-star reviews take about 18 days to reach 100, and 92 are organic. Our reading: the invitation pushes the average up. The score measures the customers who were invited and answered, not all customers.",
+          "First, five-star reviews arrive much faster and almost all of them by invitation: 100 in about five days, 78 of them invited. One-star reviews take about 18 days to reach 100, and 92 are organic. The two samples cover different periods, so they do not measure how much invitations move the overall score. They only show that the five-star group leans on invited customers and the one-star group on customers who wrote on their own.",
           "Second, one-star reviews are almost four times longer. They describe a concrete problem, with dates, products and amounts. Five-star reviews are usually one sentence.",
           "Third, one in seven one-star reviews in our sample is praise given with the wrong rating: 14 of the 100 have positive text, such as “Great hosting” or “easy to use”, under one star. Even so, 6.9% of 73,411 is still about 5,100 people who were very unhappy. The share is small; the number of people is not."
         ]
@@ -93675,17 +93721,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "How to turn off automatic renewal",
         "paragraphs": [
-          "According to Hostinger’s help center, read on October 19, 2026, the path is this:"
+          "According to Hostinger’s help center, the path is this:"
         ],
         "bullets": [
-          "In your account’s billing area, open the invoices section.",
-          "Go to your list of services or subscriptions.",
-          "Open the three-dot menu next to the product.",
-          "Go to the renewal settings for that product.",
-          "Turn off automatic renewal and save the change."
+          "In your account, open your profile and go to Billing.",
+          "Select Subscriptions.",
+          "Find the service you want to update.",
+          "Click the toggle switch next to it. A page opens with the risks and warnings for that product type.",
+          "Review the information and confirm your choice."
         ],
         "postParagraphs": [
-          "With the option off, the product stays active until the expiry date. To turn it back on, you need a payment method on file. The help center also says that if renewal is one day or less from expiry, you must renew manually before turning the option back on. Menu names can change, so look for the automatic renewal option in the billing area."
+          "With the option off, the product stays active until the expiry date. To turn it back on, click the same toggle switch again. Turning it off does not refund charges that were already processed. Menu names can change, so look for the automatic renewal option in the billing area."
         ]
       },
       {
@@ -93706,7 +93752,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Can you trust Hostinger?",
         "paragraphs": [
-          "Going by Trustpilot, yes. The score was 4.6 from 73,411 reviews, 87.1% of them five stars, and the company answered 99% of the negative ones, 80 of the 86 complaints in our sample.",
+          "Going by Trustpilot, yes. The score was 4.6 from 73,411 reviews, 87.1% of them five stars. The profile says the company answers 99% of the negative ones; in our sample, 80 of the 86 complaints had a reply, about 93%.",
           "The caveat is how the score is built and what the complaints say. The profile is managed by the company, which invites customers to review: in our sample, 78 of the 100 most recent five-star reviews were invited and 92 of the 100 most recent one-star reviews were organic. The complaints center on AI support with no way to reach a person, on billing and renewal, and on domains.",
           "In practice: check the renewal date, turn off automatic renewal if you do not want to continue, and read a few one-star reviews and the replies on the profile before buying, because the numbers change every month."
         ]
@@ -93718,21 +93764,21 @@ export const reviewsData: unknown[] = [
           "Are Hostinger’s Trustpilot reviews reliable? The profile is claimed and managed by the company, which invites customers to review. In our sample, 78 of the 100 most recent five-star reviews were invited, and 92 of the 100 most recent one-star reviews were organic. Trustpilot says it does not check reviews one by one.",
           "What do Hostinger customers complain about on Trustpilot? In the 86 complaints read among the 100 most recent one-star reviews, the main themes were AI support and not reaching a person (about 45), billing and renewal (about 38) and domains (about 27).",
           "Does Hostinger answer negative reviews? Yes. The page says the company responds to 99% of negative reviews, usually within 24 hours, and may use AI in the replies. In our sample, 80 of 86 complaints had a reply.",
-          "How do I turn off Hostinger’s automatic renewal? In your account’s billing area, go to your services, open the three-dot menu next to the product, go to the renewal settings, turn off automatic renewal and save. The product stays active until the expiry date.",
-          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
+          "How do I turn off Hostinger’s automatic renewal? In your profile, open Billing, then Subscriptions, find the service and click the toggle switch next to it. Review the warnings and confirm. The product stays active until the expiry date.",
+          "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%, except on domain registration. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
       {
         "heading": "If you have already decided",
         "paragraphs": [
-          "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. The 20% apply to every new purchase; renewal is charged at the list price. See the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
+          "If you have decided to buy, enter the code SONAR20 in the coupon field of the cart: 20% off the first period. The [Hostinger page](/en/coupons/hostinger) has the details. The 20% applies to new purchases of plans and products, not to domain registration; renewal is charged at the list price. See the [SONAR20 coupon article](/en/reviews/hostinger-coupon-code-referral). If your question is Black Friday, the [campaign guide](/en/reviews/hostinger-black-friday) shows the total with the code, and the [article on trust](/en/reviews/is-hostinger-legit) covers refunds and the company’s security."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
+      "text": "If you have already decided, enter the code SONAR20 in the cart's coupon field, or come in through the link: 20% off the first period. The 20% applies to new purchases of plans and products, not to domain registration; renewals are charged at the list price, with no discount.",
       "label": "See the plans with SONAR20",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -93788,6 +93834,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger en Trustpilot (24 de octubre de 2026): TrustScore 4,6 con 73.411 opiniones, 99 % de las negativas respondidas y cobros y renovación entre las quejas principales. Mira cómo desactivar la renovación.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -93799,7 +93846,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.411 opiniones en Trustpilot y respondió al 99 % de las negativas. La empresa invita a los clientes a opinar, lo que sube el promedio, y las quejas más citadas son la atención por IA, los cobros y la renovación. En el hosting, los cobros piden atención a la renovación automática; abajo ves cómo desactivarla. El 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
+          "Sí, con una salvedad. El 24 de octubre de 2026, Hostinger tenía un TrustScore de 4,6 con 73.411 opiniones en Trustpilot y respondió al 99 % de las negativas. La empresa invita a los clientes a opinar, lo que puede subir el promedio, y las quejas más citadas son la atención por IA, los cobros y la renovación. En el hosting, los cobros piden atención a la renovación automática; abajo ves cómo desactivarla. El 20 % del primer período viene del [cupón SONAR20 de Hostinger](/es/coupons/hostinger)."
         ]
       },
       {
@@ -93924,7 +93971,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Primero, las de cinco estrellas llegan mucho más rápido y casi todas por invitación: 100 en unos cinco días, 78 de ellas invitadas. Las de una estrella tardan unos 18 días en sumar 100, y 92 son espontáneas. Nuestra lectura: la invitación sube el promedio. La calificación mide a los clientes que fueron invitados y respondieron, no a todos los clientes.",
+          "Primero, las de cinco estrellas llegan mucho más rápido y casi todas por invitación: 100 en unos cinco días, 78 de ellas invitadas. Las de una estrella tardan unos 18 días en sumar 100, y 92 son espontáneas. Las dos muestras cubren períodos distintos, así que no miden cuánto suben las invitaciones la calificación global. Solo muestran que las de cinco estrellas vienen sobre todo de clientes invitados y las de una estrella, de clientes que escribieron por su cuenta.",
           "Segundo, las opiniones de una estrella son casi cuatro veces más largas. Describen un problema concreto, con fechas, productos y montos. Las de cinco estrellas suelen ser una frase.",
           "Tercero, una de cada siete opiniones de una estrella de la muestra es un elogio con la nota equivocada: 14 de las 100 tienen texto positivo, como «Great hosting» o «easy to use», con una estrella. Aun así, el 6,9 % de 73.411 son unas 5.100 personas muy insatisfechas. La proporción es pequeña; el número de personas no lo es."
         ]
@@ -93961,17 +94008,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cómo desactivar la renovación automática",
         "paragraphs": [
-          "Según el centro de ayuda de Hostinger, consultado el 19 de octubre de 2026, el camino es este:"
+          "Según el centro de ayuda de Hostinger, el camino es este:"
         ],
         "bullets": [
-          "En el área de facturación de tu cuenta, abre la sección de facturas.",
-          "Ve a tu lista de servicios o suscripciones.",
-          "Abre el menú de tres puntos junto al producto.",
-          "Entra en la configuración de renovación del producto.",
-          "Desactiva la renovación automática y guarda el cambio."
+          "En hPanel, abre tu perfil y entra en Facturación (Billing).",
+          "Elige Suscripciones (Subscriptions).",
+          "Busca el servicio que quieres modificar.",
+          "Haz clic en el interruptor que está al lado: se abre una página con los riesgos y avisos de ese tipo de producto.",
+          "Lee la información y confirma tu elección."
         ],
         "postParagraphs": [
-          "Con la opción desactivada, el producto sigue activo hasta la fecha de vencimiento. Para volver a activarla, hace falta un medio de pago registrado. El centro de ayuda también dice que, si la renovación está a un día o menos del vencimiento, hay que renovar manualmente antes de volver a activar la opción. Los nombres de los menús pueden cambiar; busca la opción de renovación automática en el área de facturación."
+          "Con la opción desactivada, el producto sigue activo hasta la fecha de vencimiento. Para volver a activarla, haz clic otra vez en el mismo interruptor. Desactivarla no reembolsa los cobros que ya se procesaron. Los nombres de los menús pueden cambiar; busca la opción de renovación automática en el área de facturación."
         ]
       },
       {
@@ -93992,7 +94039,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "¿Se puede confiar en Hostinger?",
         "paragraphs": [
-          "Según Trustpilot, sí. La calificación era 4,6 con 73.411 opiniones, el 87,1 % de cinco estrellas, y la empresa respondió al 99 % de las negativas, es decir, a 80 de las 86 quejas de nuestra muestra.",
+          "Según Trustpilot, sí. La calificación era 4,6 con 73.411 opiniones, el 87,1 % de cinco estrellas. El perfil indica que la empresa responde al 99 % de las negativas; en nuestra muestra, 80 de las 86 quejas tenían respuesta, cerca del 93 %.",
           "La salvedad está en cómo se arma la calificación y en lo que dicen las quejas. El perfil lo administra la empresa, que invita a los clientes a opinar: en nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Las quejas se concentran en la atención por IA sin forma de llegar a una persona, en cobros y renovación, y en dominios.",
           "En la práctica: revisa la fecha de renovación, desactiva la renovación automática si no quieres seguir y lee algunas opiniones de una estrella y las respuestas del perfil antes de comprar, porque los números cambian cada mes."
         ]
@@ -94004,21 +94051,21 @@ export const reviewsData: unknown[] = [
           "¿Son confiables las opiniones de Hostinger en Trustpilot? El perfil está reclamado y lo administra la empresa, que invita a los clientes a opinar. En nuestra muestra, 78 de las 100 opiniones de cinco estrellas más recientes fueron invitadas, y 92 de las 100 de una estrella más recientes fueron espontáneas. Trustpilot dice que no revisa las opiniones una por una.",
           "¿De qué se quejan los clientes de Hostinger en Trustpilot? En las 86 quejas leídas entre las 100 opiniones de una estrella más recientes, los temas principales fueron la atención por IA y no llegar a una persona (unas 45), los cobros y la renovación (unas 38) y los dominios (unas 27).",
           "¿Hostinger responde a las opiniones negativas? Sí. La página dice que la empresa responde al 99 % de las opiniones negativas, por lo general en 24 horas, y que puede usar IA en las respuestas. En nuestra muestra, 80 de las 86 quejas tenían respuesta.",
-          "¿Cómo desactivo la renovación automática de Hostinger? En el área de facturación de tu cuenta, ve a tus servicios, abre el menú de tres puntos del producto, entra en la configuración de renovación, desactiva la renovación automática y guarda el cambio. El producto sigue activo hasta la fecha de vencimiento.",
-          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
+          "¿Cómo desactivo la renovación automática de Hostinger? En hPanel, abre tu perfil, entra en Facturación y luego en Suscripciones, busca el servicio y haz clic en el interruptor que está al lado. Lee los avisos y confirma. El producto sigue activo hasta la fecha de vencimiento.",
+          "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %, salvo en el registro de dominios. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
       {
         "heading": "Si ya decidiste",
         "paragraphs": [
-          "Si decidiste contratar, usa el código SONAR20 en el campo de cupón del carrito: 20 % en el primer período. La [página de Hostinger](/es/coupons/hostinger) muestra los detalles. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista. Mira el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) muestra la cuenta con el código, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
+          "Si decidiste contratar, usa el código SONAR20 en el campo de cupón del carrito: 20 % en el primer período. La [página de Hostinger](/es/coupons/hostinger) muestra los detalles. Los 20 % se aplican a la compra nueva de planes y productos, sin incluir el registro de dominios; la renovación se cobra al precio de lista. Mira el [artículo sobre el cupón SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido). Si tu duda es el Black Friday, la [guía de la campaña](/es/reviews/black-friday-hostinger-ofertas) muestra la cuenta con el código, y el [artículo sobre confianza](/es/reviews/hostinger-es-confiable) trata del reembolso y de la seguridad de la empresa."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
+      "text": "Si ya decidiste, usa el código SONAR20 en el carrito, o entra por el enlace: 20% en el primer período. Los 20 % se aplican a la compra nueva de planes y productos, sin incluir el registro de dominios; la renovación se cobra al precio de lista, sin descuento.",
       "label": "Ver los planes con descuento",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94074,6 +94121,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger sur Trustpilot (24 octobre 2026) : TrustScore 4,6 pour 73 411 avis, 99 % des avis négatifs traités, facturation et renouvellement parmi les plaintes principales. Voyez comment désactiver le renouvellement.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -94085,7 +94133,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 411 avis sur Trustpilot et avait répondu à 99 % des avis négatifs. L’entreprise invite ses clients à noter, ce qui gonfle la moyenne, et les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement. Pour l’hébergement, la facturation demande de surveiller le renouvellement automatique ; voyez plus bas comment le désactiver. Les 20 % de la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
+          "Oui, avec une réserve. Le 24 octobre 2026, Hostinger affichait un TrustScore de 4,6 pour 73 411 avis sur Trustpilot et avait répondu à 99 % des avis négatifs. L’entreprise invite ses clients à noter, ce qui peut gonfler la moyenne, et les plaintes les plus citées portent sur le support par IA, la facturation et le renouvellement. Pour l’hébergement, la facturation demande de surveiller le renouvellement automatique ; voyez plus bas comment le désactiver. Les 20 % de la première période viennent du [code promo SONAR20 de Hostinger](/fr/coupons/hostinger)."
         ]
       },
       {
@@ -94210,7 +94258,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "D’abord, les avis à cinq étoiles arrivent beaucoup plus vite, et presque tous par invitation : 100 en environ cinq jours, dont 78 invités. Les avis à une étoile mettent environ 18 jours à atteindre 100, et 92 sont spontanés. Notre lecture : l’invitation fait monter la moyenne. La note mesure les clients qui ont été invités et ont répondu, pas l’ensemble des clients.",
+          "D’abord, les avis à cinq étoiles arrivent beaucoup plus vite, et presque tous par invitation : 100 en environ cinq jours, dont 78 invités. Les avis à une étoile mettent environ 18 jours à atteindre 100, et 92 sont spontanés. Les deux échantillons couvrent des périodes différentes : ils ne mesurent pas de combien les invitations font monter la note globale. Ils montrent seulement que les avis à cinq étoiles viennent surtout de clients invités, et ceux à une étoile de clients venus d’eux-mêmes.",
           "Ensuite, les avis à une étoile sont presque quatre fois plus longs. Ils décrivent un problème concret, avec des dates, des produits et des montants. Les avis à cinq étoiles tiennent en général en une phrase.",
           "Enfin, un avis à une étoile sur sept de notre échantillon est un éloge donné avec la mauvaise note : 14 des 100 ont un texte positif, comme « Great hosting » ou « easy to use », sous une étoile. Malgré cela, 6,9 % de 73 411, cela fait encore environ 5 100 personnes très mécontentes. La part est petite ; le nombre de personnes ne l’est pas."
         ]
@@ -94247,17 +94295,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Comment désactiver le renouvellement automatique",
         "paragraphs": [
-          "Selon le centre d’aide de Hostinger, consulté le 19 octobre 2026, le chemin est le suivant :"
+          "Selon le centre d’aide de Hostinger, le chemin est le suivant :"
         ],
         "bullets": [
-          "Dans hPanel, ouvrez la zone de facturation.",
-          "Allez à la section des services.",
-          "Ouvrez le menu à trois points à côté du produit.",
-          "Entrez dans les paramètres de renouvellement.",
-          "Désactivez l’option de renouvellement automatique, puis enregistrez."
+          "Dans hPanel, ouvrez votre profil, puis la section Facturation (Billing).",
+          "Choisissez Abonnements (Subscriptions).",
+          "Repérez le service à modifier.",
+          "Cliquez sur le bouton à bascule à côté du service : une page présente les risques et avertissements pour ce type de produit.",
+          "Lisez les informations, puis confirmez votre choix."
         ],
         "postParagraphs": [
-          "Option désactivée, le produit reste actif jusqu’à la date d’échéance. Pour la réactiver, il faut un moyen de paiement enregistré. Le centre d’aide précise aussi que si le renouvellement est à un jour ou moins de l’échéance, il faut renouveler manuellement avant de réactiver l’option. Les noms des menus peuvent changer ; si c’est le cas, cherchez l’option de renouvellement automatique dans la section de facturation."
+          "Option désactivée, le produit reste actif jusqu’à la date d’échéance. Pour la réactiver, cliquez de nouveau sur le même bouton à bascule. Désactiver l’option ne rembourse pas les paiements déjà traités. Les noms des menus peuvent changer ; si c’est le cas, cherchez l’option de renouvellement automatique dans la section de facturation."
         ]
       },
       {
@@ -94278,7 +94326,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Peut-on faire confiance à Hostinger ?",
         "paragraphs": [
-          "Selon Trustpilot, oui. La note était de 4,6 pour 73 411 avis, avec 87,1 % de cinq étoiles, et l’entreprise a répondu à 99 % des avis négatifs, soit 80 des 86 plaintes de notre échantillon.",
+          "Selon Trustpilot, oui. La note était de 4,6 pour 73 411 avis, avec 87,1 % de cinq étoiles. Le profil indique que l’entreprise répond à 99 % des avis négatifs ; dans notre échantillon, 80 des 86 plaintes avaient une réponse, soit environ 93 %.",
           "La réserve porte sur la façon dont la note est construite et sur ce que disent les plaintes. Le profil est géré par l’entreprise, qui invite ses clients à noter : dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Les plaintes se concentrent sur le support par IA sans moyen de joindre une personne, sur la facturation et le renouvellement, et sur les domaines.",
           "En pratique : vérifiez la date de renouvellement, désactivez le renouvellement automatique si vous ne voulez pas continuer, et lisez quelques avis à une étoile ainsi que les réponses du profil avant d’acheter, car les chiffres changent chaque mois."
         ]
@@ -94290,21 +94338,21 @@ export const reviewsData: unknown[] = [
           "Les avis Hostinger sur Trustpilot sont-ils fiables ? Le profil est revendiqué et géré par l’entreprise, qui invite ses clients à noter. Dans notre échantillon, 78 des 100 avis à cinq étoiles les plus récents étaient invités, et 92 des 100 avis à une étoile les plus récents étaient spontanés. Trustpilot dit qu’il ne vérifie pas les avis un par un.",
           "De quoi se plaignent les clients de Hostinger sur Trustpilot ? Dans les 86 plaintes lues parmi les 100 avis à une étoile les plus récents, les principaux thèmes étaient le support par IA et l’impossibilité de joindre une personne (environ 45), la facturation et le renouvellement (environ 38) et les domaines (environ 27).",
           "Hostinger répond-il aux avis négatifs ? Oui. La page indique que l’entreprise répond à 99 % des avis négatifs, en général dans les 24 heures, et qu’elle peut utiliser l’IA dans ses réponses. Dans notre échantillon, 80 des 86 plaintes avaient une réponse.",
-          "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez la zone de facturation, allez aux services, ouvrez le menu à trois points du produit, entrez dans les paramètres de renouvellement et désactivez l’option. Le produit reste actif jusqu’à l’échéance.",
-          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
+          "Comment désactiver le renouvellement automatique de Hostinger ? Dans hPanel, ouvrez votre profil, puis Facturation et Abonnements, repérez le service et cliquez sur le bouton à bascule à côté. Lisez les avertissements et confirmez. Le produit reste actif jusqu’à l’échéance.",
+          "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %, sauf sur l’enregistrement d’un domaine. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
       {
         "heading": "Si vous avez déjà décidé",
         "paragraphs": [
-          "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction. Voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
+          "Si vous avez décidé d’acheter, saisissez le code SONAR20 dans le champ de coupon du panier : 20 % sur la première période. La [page Hostinger](/fr/coupons/hostinger) donne le détail. Les 20 % valent pour un nouvel achat de forfait ou de produit, hors enregistrement de domaine ; le renouvellement est facturé au prix catalogue, sans réduction. Voyez [l’article sur le code SONAR20](/fr/reviews/code-promo-hostinger-parrainage). Si votre question porte sur le Black Friday, le [guide de la campagne](/fr/reviews/black-friday-hostinger-offres) montre le calcul avec le code, et [l’article sur la fiabilité](/fr/reviews/hostinger-est-il-fiable) traite du remboursement et de la sécurité de l’entreprise."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
+      "text": "Si vous avez déjà décidé, collez le code SONAR20 dans le champ de coupon du panier, ou passez par le lien : 20 % sur la première période. Les 20 % valent pour un nouvel achat de forfait ou de produit, hors enregistrement de domaine ; le renouvellement est facturé au prix catalogue, sans réduction.",
       "label": "Voir les offres avec réduction",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94360,6 +94408,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger auf Trustpilot (24. Oktober 2026): TrustScore 4,6 aus 73.411 Bewertungen, 99 % der negativen beantwortet, Abrechnung und Verlängerung unter den häufigsten Beschwerden. So schalten Sie die Verlängerung ab.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -94371,7 +94420,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Ja, mit einem Vorbehalt. Am 24. Oktober 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.411 Bewertungen und hatte 99 % der negativen beantwortet. Die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treibt, und die meistgenannten Beschwerden betreffen KI-Support, Abrechnung und Verlängerung. Beim Hosting verlangt die Abrechnung einen Blick auf die automatische Verlängerung; unten steht, wie Sie sie abschalten. Die 20 % im ersten Zeitraum kommen vom [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger)."
+          "Ja, mit einem Vorbehalt. Am 24. Oktober 2026 hatte Hostinger auf Trustpilot einen TrustScore von 4,6 aus 73.411 Bewertungen und hatte 99 % der negativen beantwortet. Die Firma lädt Kunden zur Bewertung ein, was den Schnitt nach oben treiben kann, und die meistgenannten Beschwerden betreffen KI-Support, Abrechnung und Verlängerung. Beim Hosting verlangt die Abrechnung einen Blick auf die automatische Verlängerung; unten steht, wie Sie sie abschalten. Die 20 % im ersten Zeitraum kommen vom [Gutschein SONAR20 für Hostinger](/de/coupons/hostinger)."
         ]
       },
       {
@@ -94496,7 +94545,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Erstens kommen Fünf-Sterne-Bewertungen viel schneller und fast alle auf Einladung: 100 in etwa fünf Tagen, davon 78 eingeladen. Ein-Stern-Bewertungen brauchen rund 18 Tage bis 100, und 92 davon sind spontan. Unsere Lesart: Die Einladung hebt den Schnitt. Die Bewertung misst die Kunden, die eingeladen wurden und geantwortet haben, nicht alle Kunden.",
+          "Erstens kommen Fünf-Sterne-Bewertungen viel schneller und fast alle auf Einladung: 100 in etwa fünf Tagen, davon 78 eingeladen. Ein-Stern-Bewertungen brauchen rund 18 Tage bis 100, und 92 davon sind spontan. Die beiden Stichproben decken unterschiedliche Zeiträume ab und messen daher nicht, wie stark Einladungen die Gesamtnote verschieben. Sie zeigen nur, dass die Fünf-Sterne-Bewertungen überwiegend von eingeladenen Kunden stammen und die Ein-Stern-Bewertungen von Kunden, die von sich aus geschrieben haben.",
           "Zweitens sind Ein-Stern-Bewertungen fast viermal so lang. Sie beschreiben ein konkretes Problem, mit Daten, Produkten und Beträgen. Fünf-Sterne-Bewertungen bestehen meist aus einem Satz.",
           "Drittens ist eine von sieben Ein-Stern-Bewertungen in unserer Stichprobe ein Lob mit der falschen Note: 14 der 100 haben positiven Text, etwa „Great hosting“ oder „easy to use“, aber nur einen Stern. Trotzdem sind 6,9 % von 73.411 immer noch etwa 5.100 Menschen, die sehr unzufrieden waren. Der Anteil ist klein; die Zahl der Menschen nicht."
         ]
@@ -94533,17 +94582,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "So schalten Sie die automatische Verlängerung ab",
         "paragraphs": [
-          "Laut dem Hilfecenter von Hostinger, abgerufen am 19. Oktober 2026, geht es so:"
+          "Laut dem Hilfecenter von Hostinger geht es so:"
         ],
         "bullets": [
-          "Öffnen Sie im hPanel den Bereich für Rechnungen.",
-          "Gehen Sie zur Seite der Dienste.",
-          "Öffnen Sie neben dem Produkt das Menü mit den drei Punkten (⋮).",
-          "Wählen Sie die Verlängerungseinstellungen.",
-          "Deaktivieren Sie die Option zur automatischen Verlängerung und speichern Sie."
+          "Öffnen Sie im hPanel Ihr Profil und wählen Sie Abrechnung (Billing).",
+          "Wählen Sie Abonnements (Subscriptions).",
+          "Suchen Sie den Dienst, den Sie ändern möchten.",
+          "Klicken Sie auf den Schalter daneben: Es öffnet sich eine Seite mit den Risiken und Hinweisen zu diesem Produkttyp.",
+          "Lesen Sie die Hinweise und bestätigen Sie Ihre Wahl."
         ],
         "postParagraphs": [
-          "Ist die Option ausgeschaltet, bleibt das Produkt bis zum Ablaufdatum aktiv. Um sie wieder einzuschalten, braucht es ein hinterlegtes Zahlungsmittel. Das Hilfecenter sagt außerdem: Liegt die Verlängerung einen Tag oder weniger vor dem Ablauf, muss man manuell verlängern, bevor man die Option wieder aktiviert. Menünamen können sich ändern; in dem Fall suchen Sie im Bereich für Rechnungen nach der Option für die automatische Verlängerung."
+          "Ist die Option ausgeschaltet, bleibt das Produkt bis zum Ablaufdatum aktiv. Um sie wieder einzuschalten, klicken Sie erneut auf denselben Schalter. Das Abschalten erstattet bereits verbuchte Zahlungen nicht. Menünamen können sich ändern; in dem Fall suchen Sie im Bereich für Rechnungen nach der Option für die automatische Verlängerung."
         ]
       },
       {
@@ -94564,7 +94613,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kann man Hostinger vertrauen?",
         "paragraphs": [
-          "Nach Trustpilot ja. Die Bewertung lag bei 4,6 aus 73.411 Bewertungen, 87,1 % davon mit fünf Sternen, und das Unternehmen antwortete auf 99 % der negativen, also auf 80 der 86 Beschwerden unserer Stichprobe.",
+          "Nach Trustpilot ja. Die Bewertung lag bei 4,6 aus 73.411 Bewertungen, 87,1 % davon mit fünf Sternen. Laut Profil antwortet das Unternehmen auf 99 % der negativen; in unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort, rund 93 %.",
           "Der Vorbehalt betrifft, wie die Bewertung entsteht und was die Beschwerden sagen. Das Profil verwaltet das Unternehmen, das Kunden zu Bewertungen einlädt: In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Die Beschwerden drehen sich um KI-Support ohne Weg zu einer Person, um Abrechnung und Verlängerung sowie um Domains.",
           "In der Praxis: Prüfen Sie das Verlängerungsdatum, schalten Sie die automatische Verlängerung ab, wenn Sie nicht weitermachen wollen, und lesen Sie vor dem Kauf einige Ein-Stern-Bewertungen und die Antworten im Profil, denn die Zahlen ändern sich jeden Monat."
         ]
@@ -94576,21 +94625,21 @@ export const reviewsData: unknown[] = [
           "Sind die Trustpilot-Bewertungen von Hostinger verlässlich? Das Profil ist beansprucht und wird von der Firma verwaltet, die Kunden zur Bewertung einlädt. In unserer Stichprobe waren 78 der 100 neuesten Fünf-Sterne-Bewertungen eingeladen, und 92 der 100 neuesten Ein-Stern-Bewertungen waren spontan. Trustpilot sagt, dass es die Bewertungen nicht einzeln prüft.",
           "Worüber beschweren sich Hostinger-Kunden auf Trustpilot? In den 86 Beschwerden, die wir unter den 100 neuesten Ein-Stern-Bewertungen gelesen haben, waren die wichtigsten Themen KI-Support und keine Verbindung zu einem Menschen (etwa 45), Abrechnung und Verlängerung (etwa 38) und Domains (etwa 27).",
           "Antwortet Hostinger auf negative Bewertungen? Ja. Die Seite sagt, dass das Unternehmen auf 99 % der negativen Bewertungen antwortet, meist innerhalb von 24 Stunden, und dass es für Antworten KI nutzen kann. In unserer Stichprobe hatten 80 der 86 Beschwerden eine Antwort.",
-          "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel den Bereich für Rechnungen, gehen Sie zu den Diensten, öffnen Sie beim Produkt das Menü mit den drei Punkten, wählen Sie die Verlängerungseinstellungen, deaktivieren Sie die automatische Verlängerung und speichern Sie. Das Produkt bleibt bis zum Ablaufdatum aktiv.",
-          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+          "Wie schalte ich die automatische Verlängerung von Hostinger ab? Öffnen Sie im hPanel Ihr Profil, dann Abrechnung und Abonnements, suchen Sie den Dienst und klicken Sie auf den Schalter daneben. Lesen Sie die Hinweise und bestätigen Sie. Das Produkt bleibt bis zum Ablaufdatum aktiv.",
+          "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %, außer bei der Domainregistrierung. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
       {
         "heading": "Wenn Sie sich schon entschieden haben",
         "paragraphs": [
-          "Wenn Sie kaufen möchten, geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum. Die [Hostinger-Seite](/de/coupons/hostinger) zeigt die Details. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Lesen Sie den [Gutschein-Artikel](/de/reviews/hostinger-gutschein-empfehlungscode). Wenn Ihre Frage das Black Friday betrifft, zeigt der [Ratgeber zur Aktion](/de/reviews/hostinger-black-friday-angebote) die Rechnung mit dem Code, und der [Artikel zur Vertrauenswürdigkeit](/de/reviews/ist-hostinger-serioes) behandelt Erstattung und Sicherheit des Unternehmens."
+          "Wenn Sie kaufen möchten, geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein: 20 % im ersten Zeitraum. Die [Hostinger-Seite](/de/coupons/hostinger) zeigt die Details. Die 20 % gelten für den Neukauf von Tarifen und Produkten, nicht für die Domainregistrierung; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt. Lesen Sie den [Gutschein-Artikel](/de/reviews/hostinger-gutschein-empfehlungscode). Wenn Ihre Frage den Black Friday betrifft, zeigt der [Ratgeber zur Aktion](/de/reviews/hostinger-black-friday-angebote) die Rechnung mit dem Code, und der [Artikel zur Vertrauenswürdigkeit](/de/reviews/ist-hostinger-serioes) behandelt Erstattung und Sicherheit des Unternehmens."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+      "text": "Verwenden Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs, oder öffnen Sie den Link: 20 % im ersten Zeitraum. Die 20 % gelten für den Neukauf von Tarifen und Produkten, nicht für die Domainregistrierung; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
       "label": "Die Tarife mit SONAR20 ansehen",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94646,6 +94695,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger su Trustpilot (24 ottobre 2026): TrustScore 4,6 su 73.411 recensioni, 99% delle negative con risposta, fatturazione e rinnovo tra i reclami principali. Scopri come disattivare il rinnovo.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -94657,7 +94707,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Sì, con riserva. Il 24 ottobre 2026 la Hostinger aveva un TrustScore di 4,6 su 73.411 recensioni su Trustpilot e aveva risposto al 99% di quelle negative. L’azienda invita i clienti a recensire, e così alza la media, e i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo. Sull’hosting la fatturazione chiede attenzione al rinnovo automatico; più sotto trovi come disattivarlo. Il 20% sul primo periodo arriva dal [coupon SONAR20 della Hostinger](/it/coupons/hostinger)."
+          "Sì, con riserva. Il 24 ottobre 2026 la Hostinger aveva un TrustScore di 4,6 su 73.411 recensioni su Trustpilot e aveva risposto al 99% di quelle negative. L’azienda invita i clienti a recensire, e così può alzare la media, e i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo. Sull’hosting la fatturazione chiede attenzione al rinnovo automatico; più sotto trovi come disattivarlo. Il 20% sul primo periodo arriva dal [coupon SONAR20 della Hostinger](/it/coupons/hostinger)."
         ]
       },
       {
@@ -94782,7 +94832,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Primo, le recensioni a cinque stelle arrivano molto più in fretta, e quasi tutte per invito: 100 in circa cinque giorni, 78 delle quali invitate. Quelle a una stella impiegano circa 18 giorni a raggiungere 100, e 92 sono spontanee. La nostra lettura: l’invito alza la media. Il punteggio misura i clienti che sono stati invitati e hanno risposto, non tutti i clienti.",
+          "Primo, le recensioni a cinque stelle arrivano molto più in fretta, e quasi tutte per invito: 100 in circa cinque giorni, 78 delle quali invitate. Quelle a una stella impiegano circa 18 giorni a raggiungere 100, e 92 sono spontanee. I due campioni coprono periodi diversi, quindi non misurano quanto gli inviti spostino il punteggio complessivo. Mostrano solo che le recensioni a cinque stelle vengono soprattutto da clienti invitati e quelle a una stella da clienti che hanno scritto di propria iniziativa.",
           "Secondo, le recensioni a una stella sono quasi quattro volte più lunghe. Descrivono un problema concreto, con date, prodotti e importi. Quelle a cinque stelle sono di solito una frase.",
           "Terzo, una recensione a una stella su sette del nostro campione è un elogio con il voto sbagliato: 14 delle 100 hanno un testo positivo, come «Great hosting» o «easy to use», sotto una stella. Anche così, il 6,9% di 73.411 sono circa 5.100 persone molto insoddisfatte. La quota è piccola; il numero di persone no."
         ]
@@ -94819,17 +94869,17 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Come disattivare il rinnovo automatico",
         "paragraphs": [
-          "Secondo il centro assistenza della Hostinger, consultato il 19 ottobre 2026, il percorso è questo:"
+          "Secondo il centro assistenza della Hostinger, il percorso è questo:"
         ],
         "bullets": [
-          "Nell’area di fatturazione del tuo account, apri la sezione delle fatture.",
-          "Vai alla lista dei servizi o degli abbonamenti.",
-          "Apri il menu a tre puntini accanto al prodotto.",
-          "Entra nelle impostazioni di rinnovo del prodotto.",
-          "Disattiva il rinnovo automatico e salva la modifica."
+          "In hPanel, apri il tuo profilo ed entra in Fatturazione (Billing).",
+          "Scegli Abbonamenti (Subscriptions).",
+          "Trova il servizio che vuoi modificare.",
+          "Clicca l’interruttore accanto al servizio: si apre una pagina con i rischi e gli avvisi per quel tipo di prodotto.",
+          "Leggi le informazioni e conferma la scelta."
         ],
         "postParagraphs": [
-          "Con l’opzione disattivata, il prodotto resta attivo fino alla data di scadenza. Per riattivarla serve un metodo di pagamento registrato. Il centro assistenza dice anche che, se il rinnovo è a un giorno o meno dalla scadenza, bisogna rinnovare manualmente prima di riattivare l’opzione. I nomi dei menu possono cambiare; in quel caso, cerca «rinnovo automatico» nell’area di fatturazione."
+          "Con l’opzione disattivata, il prodotto resta attivo fino alla data di scadenza. Per riattivarla, clicca di nuovo sullo stesso interruttore. Disattivarla non rimborsa gli addebiti già elaborati. I nomi dei menu possono cambiare; in quel caso, cerca «rinnovo automatico» nell’area di fatturazione."
         ]
       },
       {
@@ -94850,7 +94900,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ci si può fidare della Hostinger?",
         "paragraphs": [
-          "Secondo Trustpilot, sì. Il punteggio era 4,6 su 73.411 recensioni, con l’87,1% di cinque stelle, e l’azienda ha risposto al 99% delle negative, cioè a 80 degli 86 reclami del nostro campione.",
+          "Secondo Trustpilot, sì. Il punteggio era 4,6 su 73.411 recensioni, con l’87,1% di cinque stelle. Il profilo indica che l’azienda risponde al 99% delle negative; nel nostro campione, 80 degli 86 reclami avevano una risposta, circa il 93%.",
           "La riserva riguarda il modo in cui il punteggio è costruito e che cosa dicono i reclami. Il profilo è gestito dall’azienda, che invita i clienti a recensire: nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. I reclami si concentrano sul supporto con l’IA senza modo di parlare con una persona, su fatturazione e rinnovo, e sui domini.",
           "In pratica: controlla la data di rinnovo, disattiva il rinnovo automatico se non vuoi continuare e leggi alcune recensioni a una stella e le risposte sul profilo prima di comprare, perché i numeri cambiano ogni mese."
         ]
@@ -94862,21 +94912,21 @@ export const reviewsData: unknown[] = [
           "Le recensioni Hostinger su Trustpilot sono affidabili? Il profilo è rivendicato e gestito dall’azienda, che invita i clienti a recensire. Nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. Trustpilot dice che non verifica le recensioni una per una.",
           "Di cosa si lamentano i clienti Hostinger su Trustpilot? Negli 86 reclami letti tra le 100 recensioni a una stella più recenti, i temi principali erano il supporto con l’IA e l’impossibilità di parlare con una persona (circa 45), la fatturazione e il rinnovo (circa 38) e i domini (circa 27).",
           "La Hostinger risponde alle recensioni negative? Sì. La pagina dice che l’azienda risponde al 99% delle recensioni negative, di solito entro 24 ore, e che può usare l’IA nelle risposte. Nel nostro campione, 80 degli 86 reclami avevano una risposta.",
-          "Come disattivo il rinnovo automatico della Hostinger? Nell’area di fatturazione, vai ai servizi, apri il menu a tre puntini del prodotto, entra nelle impostazioni di rinnovo, disattiva il rinnovo automatico e salva. Il prodotto resta attivo fino alla scadenza.",
-          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+          "Come disattivo il rinnovo automatico della Hostinger? In hPanel, apri il tuo profilo, vai su Fatturazione e poi su Abbonamenti, trova il servizio e clicca l’interruttore accanto. Leggi gli avvisi e conferma. Il prodotto resta attivo fino alla scadenza.",
+          "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%, tranne sulla registrazione di domini. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
       {
         "heading": "Se hai già deciso",
         "paragraphs": [
-          "Se hai deciso di acquistare, usa il codice **SONAR20** nel campo coupon del carrello: 20% sul primo periodo. La [pagina Hostinger](/it/coupons/hostinger) mostra i dettagli. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino. Leggi l’[articolo sul coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) mostra il conto con il codice, e l’[articolo sull’affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell’azienda."
+          "Se hai deciso di acquistare, usa il codice **SONAR20** nel campo coupon del carrello: 20% sul primo periodo. La [pagina Hostinger](/it/coupons/hostinger) mostra i dettagli. I 20% valgono sull’acquisto nuovo di piani e prodotti, esclusa la registrazione di domini; il rinnovo si paga al prezzo di listino. Leggi l’[articolo sul coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) mostra il conto con il codice, e l’[articolo sull’affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell’azienda."
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+      "text": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono sull’acquisto nuovo di piani e prodotti, esclusa la registrazione di domini; il rinnovo si paga al prezzo di listino, senza sconto.",
       "label": "Vedi i piani scontati",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -94932,6 +94982,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "2026년 10월 24일 기준 Hostinger Trustpilot: TrustScore 4.6, 리뷰 73,411건. 불만은 AI 지원, 청구와 갱신, 도메인에 집중됩니다. 자동 갱신을 끄는 방법도 안내합니다.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -94943,7 +94994,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,411건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라가 있고, 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 첫 기간 20% 할인은 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 받을 수 있습니다."
+          "네, 다만 단서가 있습니다. 확인한 시점에 Hostinger의 Trustpilot TrustScore는 리뷰 73,411건에 4.6이었고, 회사는 부정적 리뷰 대부분에 답변했습니다. 다만 회사가 고객에게 리뷰를 권하기 때문에 평균이 올라갔을 수 있고, 불만은 AI 지원, 청구와 갱신, 도메인에 집중되어 있습니다. 호스팅에서 청구 불만은 자동 갱신을 살펴보라는 이야기로 이어집니다. 끄는 방법은 아래에 있습니다. 첫 기간 20% 할인은 [Hostinger 쿠폰 SONAR20](/ko/coupons/hostinger)으로 받을 수 있습니다."
         ]
       },
       {
@@ -95066,7 +95117,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "첫째, 별 다섯 개 리뷰는 훨씬 빨리 쌓이고, 거의 모두 초대로 옵니다. 100건이 약 5일 만에 모였고, 그중 78건이 초대였습니다. 별 한 개 리뷰는 100건을 채우는 데 약 18일이 걸렸고, 92건이 자발적이었습니다. 초대가 평균을 끌어올리고, 이 점수가 재는 것은 초대받아 답한 고객이지 모든 고객이 아닙니다.",
+          "첫째, 별 다섯 개 리뷰는 훨씬 빨리 쌓이고, 거의 모두 초대로 옵니다. 100건이 약 5일 만에 모였고, 그중 78건이 초대였습니다. 별 한 개 리뷰는 100건을 채우는 데 약 18일이 걸렸고, 92건이 자발적이었습니다. 두 표본은 기간이 달라서 초대가 전체 점수를 얼마나 움직이는지는 재지 못합니다. 별 다섯 개는 초대받은 고객이 대부분이고 별 한 개는 스스로 쓴 고객이 대부분이라는 점만 보여 줍니다.",
           "둘째, 별 한 개 리뷰는 거의 4배 깁니다. 날짜, 제품, 금액이 들어간 구체적인 문제를 설명합니다. 별 다섯 개 리뷰는 대개 한 문장입니다.",
           "셋째, 별 한 개 리뷰 일곱 중 하나는 잘못된 평점이 붙은 칭찬입니다. 표본 100건 중 14건은 “Great hosting”이나 “easy to use” 같은 긍정적인 글인데 별 한 개가 달려 있었습니다. 그래도 73,411건의 6.9%는 약 5,100명이 매우 불만족했다는 뜻입니다. 비율은 작지만 사람 수는 작지 않습니다."
         ]
@@ -95103,14 +95154,14 @@ export const reviewsData: unknown[] = [
           "Hostinger 도움말 센터가 안내하는 절차는 다음과 같습니다."
         ],
         "bullets": [
-          "계정의 청구 관련 영역에서 인보이스(청구서) 섹션을 엽니다.",
-          "서비스 또는 구독 목록으로 갑니다.",
-          "해당 제품 옆의 점 세 개 메뉴를 엽니다.",
-          "그 제품의 갱신 설정으로 갑니다.",
-          "자동 갱신을 끄고 변경 사항을 저장합니다."
+          "hPanel에서 프로필을 열고 청구(Billing)로 들어갑니다.",
+          "구독(Subscriptions)을 선택합니다.",
+          "변경하려는 서비스를 찾습니다.",
+          "서비스 옆의 토글 스위치를 누릅니다. 해당 제품 유형의 위험과 주의 사항을 보여 주는 페이지가 열립니다.",
+          "내용을 확인하고 선택을 확정합니다."
         ],
         "postParagraphs": [
-          "옵션을 꺼도 제품은 만료일까지 계속 활성 상태입니다. 다시 켜려면 결제 수단이 등록되어 있어야 합니다. 도움말 센터는 또한 갱신일이 하루 이내로 남았다면, 옵션을 다시 켜기 전에 수동으로 갱신해야 한다고 설명합니다. 메뉴 이름은 바뀔 수 있으니, 달라졌다면 청구 영역에서 자동 갱신 설정을 찾아보세요."
+          "옵션을 꺼도 제품은 만료일까지 계속 활성 상태입니다. 다시 켜려면 같은 토글 스위치를 한 번 더 누르면 됩니다. 옵션을 꺼도 이미 처리된 결제는 환불되지 않습니다. 메뉴 이름은 바뀔 수 있으니, 달라졌다면 청구 영역에서 자동 갱신 설정을 찾아보세요."
         ]
       },
       {
@@ -95131,7 +95182,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger를 믿어도 될까요?",
         "paragraphs": [
-          "Trustpilot 기준으로는 그렇습니다. 확인한 시점에 점수는 리뷰 73,411건에 4.6이었고, 그중 87.1%가 별 다섯 개였습니다. 회사는 부정적 리뷰의 99%에 답했고, 우리 표본의 86건 불만 중 80건에 답했습니다.",
+          "Trustpilot 기준으로는 그렇습니다. 확인한 시점에 점수는 리뷰 73,411건에 4.6이었고, 그중 87.1%가 별 다섯 개였습니다. 프로필에 따르면 회사는 부정적 리뷰의 99%에 답합니다. 우리 표본에서는 86건 불만 중 80건(약 93%)에 답변이 있었습니다.",
           "단서는 점수가 어떻게 만들어졌는지, 그리고 불만의 내용입니다. 프로필은 회사가 관리합니다. 표본에서 최신 별 다섯 개 100건 중 78건은 초대받은 리뷰였고, 최신 별 한 개 100건 중 92건은 자발적이었습니다. 불만은 사람에게 닿지 않는 AI 지원, 청구와 갱신, 도메인에 집중됩니다. 호스팅에서는 자동 갱신이 만료 전에 알아서 청구하므로, 청구와의 연결은 우리의 해석입니다.",
           "실제로는 이렇게 하세요. 갱신일을 확인하고, 계속 쓰지 않을 생각이면 자동 갱신을 끄고, 구매 전에 프로필에서 별 한 개 리뷰를 읽어 보세요. 숫자는 매달 바뀌기 때문입니다."
         ]
@@ -95142,14 +95193,14 @@ export const reviewsData: unknown[] = [
           "Hostinger는 Trustpilot 평점이 좋은가요? 확인한 시점에 TrustScore는 5점 만점에 4.6이었고, 별 다섯 개가 87.1%, 별 한 개가 6.9%였습니다.",
           "Hostinger의 가장 흔한 불만은 무엇인가요? 최신 별 한 개 리뷰 100건 중 읽은 86건의 불만에서는 AI 지원과 사람에게 닿지 않는 문제(약 45건), 청구와 갱신(약 38건), 도메인(약 27건)이 가장 많았습니다.",
           "Hostinger는 부정적 리뷰에 답하나요? 네. 페이지에 따르면 부정적 리뷰의 99%에 답하며, 보통 24시간 이내입니다. 표본에서는 86건 중 80건의 불만에 답변이 있었습니다.",
-          "Hostinger 자동 갱신은 어떻게 끄나요? 계정의 청구 영역에서 서비스로 가서 제품 옆의 점 세 개 메뉴를 열고, 갱신 설정에서 자동 갱신을 끈 뒤 저장하세요. 제품은 만료일까지 계속 활성 상태입니다.",
-          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
+          "Hostinger 자동 갱신은 어떻게 끄나요? hPanel에서 프로필의 청구, 구독 순으로 열고 서비스 옆의 토글 스위치를 누른 뒤, 주의 사항을 확인하고 확정하세요. 제품은 만료일까지 계속 활성 상태입니다.",
+          "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다(도메인 등록은 제외). 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
       {
         "heading": "이미 결정했다면",
         "paragraphs": [
-          "구매를 결정했다면, 장바구니의 쿠폰 입력란에 SONAR20을 넣으면 첫 기간 20% 할인을 받을 수 있고, [Hostinger](/ko/coupons/hostinger) 페이지에 자세한 내용이 있습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다. 자세한 설명은 [쿠폰 SONAR20 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에서 SONAR20과 캠페인 가격의 관계를 확인하고, [신뢰도 글](/ko/reviews/hostinger-trust-guide-ko)에서 환불과 회사의 안전성을 다룹니다."
+          "구매를 결정했다면, 장바구니의 쿠폰 입력란에 SONAR20을 넣으면 첫 기간 20% 할인을 받을 수 있고, [Hostinger](/ko/coupons/hostinger) 페이지에 자세한 내용이 있습니다. 20% 할인은 플랜과 제품의 신규 구매에 적용되며(도메인 등록은 제외), 갱신은 할인 없이 정가로 청구됩니다. 자세한 설명은 [쿠폰 SONAR20 글](/ko/reviews/hostinger-referral-code-ko)에 있습니다. 블랙프라이데이가 궁금하다면 [캠페인 가이드](/ko/reviews/hostinger-black-friday-ko)에서 SONAR20과 캠페인 가격의 관계를 확인하고, [신뢰도 글](/ko/reviews/hostinger-trust-guide-ko)에서 환불과 회사의 안전성을 다룹니다."
         ]
       }
     ],
@@ -95212,6 +95263,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger の Trustpilot は 2026年10月24日時点で TrustScore 4.6、レビュー 73,411 件。苦情の中心は AI サポート、請求と更新、ドメイン。自動更新の止め方も紹介します。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -95223,7 +95275,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "はい、ただし注意点があります。読み取った時点で、Hostinger の Trustpilot の TrustScore は 4.6、レビューは 73,411 件で、企業は否定的なレビューのほぼすべてに返信していました。ただし、企業が顧客にレビューを呼びかけているため平均が押し上げられていて、苦情の中心は AI サポート、請求と更新、ドメインです。ホスティングでは、請求の苦情は自動更新に注意が必要という話につながります。止め方は下で説明します。初回期間の 20% 割引は [Hostinger の SONAR20 クーポン](/ja/coupons/hostinger) で受けられます。"
+          "はい、ただし注意点があります。読み取った時点で、Hostinger の Trustpilot の TrustScore は 4.6、レビューは 73,411 件で、企業は否定的なレビューのほぼすべてに返信していました。ただし、企業が顧客にレビューを呼びかけているため平均が押し上げられている可能性があり、苦情の中心は AI サポート、請求と更新、ドメインです。ホスティングでは、請求の苦情は自動更新に注意が必要という話につながります。止め方は下で説明します。初回期間の 20% 割引は [Hostinger の SONAR20 クーポン](/ja/coupons/hostinger) で受けられます。"
         ]
       },
       {
@@ -95346,7 +95398,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "一つ目。星 5 つのレビューは、ずっと速く届き、しかもほとんどが招待によるものです。100 件は約 5 日で集まり、そのうち 78 件が招待でした。星 1 つは 100 件を集めるのに約 18 日かかり、92 件が自発的でした。招待が平均を押し上げていて、この評価が測っているのは招待を受けて答えた人です。すべての顧客ではありません。",
+          "一つ目。星 5 つのレビューは、ずっと速く届き、しかもほとんどが招待によるものです。100 件は約 5 日で集まり、そのうち 78 件が招待でした。星 1 つは 100 件を集めるのに約 18 日かかり、92 件が自発的でした。二つのサンプルは期間が異なるため、招待が全体の評価をどれだけ動かしているかは測れません。星 5 つは招待された顧客が中心で、星 1 つは自発的に書いた顧客が中心だ、という点だけが分かります。",
           "二つ目。星 1 つのレビューは、ほぼ 4 倍の長さです。日付、製品、金額を挙げた具体的な問題が書かれています。星 5 つのレビューは、たいてい一文です。",
           "三つ目。星 1 つのレビューの七件に一件は、誤った評価で付けられた称賛です。100 件中 14 件は、「Great hosting」や「easy to use」のような好意的な文章なのに星 1 つでした。それでも、73,411 件の 6.9% は約 5,100 人が非常に不満だったということです。割合は小さくても、人数は小さくありません。"
         ]
@@ -95383,14 +95435,14 @@ export const reviewsData: unknown[] = [
           "Hostinger のヘルプセンターが案内する手順は次のとおりです。"
         ],
         "bullets": [
-          "hPanel のアカウントの請求関連の画面で、請求書（インボイス）のセクションを開きます。",
-          "契約しているサービスまたはサブスクリプションの一覧に進みます。",
-          "製品の横にある三つの点のメニューを開きます。",
-          "その製品の更新設定に進みます。",
-          "自動更新をオフにして、変更を保存します。"
+          "hPanel でプロフィールを開き、「請求（Billing）」に進みます。",
+          "「サブスクリプション（Subscriptions）」を選びます。",
+          "変更したいサービスを探します。",
+          "サービスの横にあるトグルスイッチをクリックします。その製品タイプのリスクと注意事項を示すページが開きます。",
+          "内容を確認して、選択を確定します。"
         ],
         "postParagraphs": [
-          "オプションを無効にしても、製品は期限日まで有効なままです。再び有効にするには、支払い方法の登録が必要です。ヘルプセンターはまた、更新日まで 1 日以内の場合は、オプションを再び有効にする前に手動で更新する必要があると説明しています。メニュー名は変わることがあるので、見つからなければ請求関連の画面で自動更新の設定を探してください。"
+          "オプションを無効にしても、製品は期限日まで有効なままです。再び有効にするには、同じトグルスイッチをもう一度クリックします。オフにしても、処理済みの請求は返金されません。メニュー名は変わることがあるので、見つからなければ請求関連の画面で自動更新の設定を探してください。"
         ]
       },
       {
@@ -95411,7 +95463,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Hostinger は信頼できますか？",
         "paragraphs": [
-          "Trustpilot で見るなら、はいです。読み取った時点で、スコアは 73,411 件のレビューで 4.6、そのうち 87.1% が星 5 つでした。企業は否定的なレビューの 99% に返信しており、私たちのサンプルでは 86 件の苦情のうち 80 件に返信がありました。",
+          "Trustpilot で見るなら、はいです。読み取った時点で、スコアは 73,411 件のレビューで 4.6、そのうち 87.1% が星 5 つでした。ページによると、企業は否定的なレビューの 99% に返信しています。私たちのサンプルでは 86 件の苦情のうち 80 件（約 93%）に返信がありました。",
           "注意点は、スコアの作られ方と苦情の中身です。プロフィールは企業が管理し、サンプルでは直近の星 5 つの 100 件のうち 78 件が招待によるもので、直近の星 1 つの 100 件のうち 92 件は自発的でした。苦情は、人に繋がらない AI サポート、請求と更新、ドメインに集中しています。ホスティングでは自動更新が期限の前に自動で請求するため、請求との結びつきは私たちの読みです。",
           "実際には、更新日を確認し、続けるつもりがなければ自動更新をオフにして、購入の前にプロフィールの星 1 つのレビューを読んでください。数字は毎月変わるからです。"
         ]
@@ -95422,14 +95474,14 @@ export const reviewsData: unknown[] = [
           "Hostinger の Trustpilot 評価は高いですか？読み取った時点で、TrustScore は 5 点満点中 4.6 でした。星 5 つが 87.1%、星 1 つが 6.9% です。",
           "Hostinger の主な苦情は何ですか？直近の星 1 つのレビュー 100 件から読んだ 86 件の苦情では、AI サポートと人に繋がらないこと（約 45 件）、請求と更新（約 38 件）、ドメイン（約 27 件）が上位でした。",
           "Hostinger は否定的なレビューに返信しますか？はい。ページによると、否定的なレビューの 99% に返信し、多くは 24 時間以内です。サンプルでは、86 件の苦情のうち 80 件に返信がありました。",
-          "Hostinger の自動更新はどう止めますか？アカウントの請求関連の画面でサービスに進み、製品の横の三つの点のメニューを開いて、更新設定で自動更新をオフにして保存します。製品は期限日まで有効なままです。",
-          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
+          "Hostinger の自動更新はどう止めますか？ hPanel でプロフィールから「請求」「サブスクリプション」の順に開き、サービスの横のトグルスイッチをクリックして、注意事項を確認し確定します。製品は期限日まで有効なままです。",
+          "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます（ドメイン登録は対象外です）。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
       {
         "heading": "すでに決めているなら",
         "paragraphs": [
-          "契約を決めているなら、カートのクーポン欄に SONAR20 を入れると最初の期間が 20% 割引になります。詳しくは [Hostinger](/ja/coupons/hostinger) のページにあります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。詳しくは [SONAR20 クーポンの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ブラックフライデーが気になるなら、[キャンペーンガイド](/ja/reviews/hostinger-black-friday-ja) で SONAR20 とキャンペーン価格の関係を確認でき、[信頼性の記事](/ja/reviews/hostinger-trust-guide-ja) で返金と企業の安全性を扱っています。"
+          "契約を決めているなら、カートのクーポン欄に SONAR20 を入れると最初の期間が 20% 割引になります。詳しくは [Hostinger](/ja/coupons/hostinger) のページにあります。20%割引はプランや製品の新規購入に適用され（ドメイン登録は対象外）、更新は通常料金で、割引はありません。詳しくは [SONAR20 クーポンの記事](/ja/reviews/hostinger-referral-code-ja) をご覧ください。ブラックフライデーが気になるなら、[キャンペーンガイド](/ja/reviews/hostinger-black-friday-ja) で SONAR20 とキャンペーン価格の関係を確認でき、[信頼性の記事](/ja/reviews/hostinger-trust-guide-ja) で返金と企業の安全性を扱っています。"
         ]
       }
     ],
@@ -95492,6 +95544,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "2026 年 10 月 24 日 Hostinger 在 Trustpilot：TrustScore 4.6，共 73,411 則評價。投訴集中在 AI 客服、帳單與續訂、網域，並附關閉自動續訂的方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -95503,7 +95556,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,411 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分因此被拉高，投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得。"
+          "可以，但有一點要留意。在查閱的時間點，Hostinger 在 Trustpilot 的 TrustScore 為 4.6，共 73,411 則評價，公司回覆了幾乎所有負面評價。不過公司會邀請客戶評價，平均分可能因此被拉高，投訴主要集中在 AI 客服、帳單與續訂以及網域。在主機服務上，帳單投訴就意味著要留意自動續訂。關閉方法見下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 優惠碼](/zh-hant/coupons/hostinger)取得。"
         ]
       },
       {
@@ -95626,7 +95679,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "第一，五星評價來得快得多，而且幾乎都是受邀的。100 則在約 5 天內就湊齊了，其中 78 則是受邀的。一星評價用了約 18 天才湊夠 100 則，其中 92 則是自發的。邀請拉高了平均分，這個分數衡量的是受邀並回應的人，而不是所有客戶。",
+          "第一，五星評價來得快得多，而且幾乎都是受邀的。100 則在約 5 天內就湊齊了，其中 78 則是受邀的。一星評價用了約 18 天才湊夠 100 則，其中 92 則是自發的。兩組樣本的時間跨度不同，無法衡量邀請把總分拉高了多少。它只說明五星評價主要來自受邀客戶，一星評價主要來自主動留言的客戶。",
           "第二，一星評價的篇幅幾乎是五星的四倍。它們描述的是具體問題，包括日期、產品和金額。五星評價通常只有一句話。",
           "第三，樣本中每七則一星評價裡就有一則是給錯了星的好評：100 則中有 14 則文字是正面的，比如「Great hosting」或「easy to use」，卻只給了一星。即便如此，73,411 則的 6.9% 仍然約有 5,100 人非常不滿。比例很小，人數卻不小。"
         ]
@@ -95663,14 +95716,14 @@ export const reviewsData: unknown[] = [
           "Hostinger 幫助中心給出的步驟如下："
         ],
         "bullets": [
-          "在 hPanel 的帳單相關區域，打開發票（invoices）頁面。",
-          "進入服務或訂閱清單。",
-          "點擊產品旁邊的三點選單。",
-          "進入該產品的續訂設定。",
-          "關閉自動續訂並儲存變更。"
+          "在 hPanel 中打開個人檔案，進入帳單（Billing）。",
+          "選擇訂閱（Subscriptions）。",
+          "找到要修改的服務。",
+          "點擊服務旁邊的開關，會開啟一個說明該產品類型風險與提示的頁面。",
+          "閱讀內容並確認你的選擇。"
         ],
         "postParagraphs": [
-          "關閉此選項後，產品仍會保持有效直到到期日。要重新開啟，必須有已登記的付款方式。幫助中心還說明，如果續訂日距今只剩一天或更短，必須先手動續訂，才能重新開啟此選項。選單名稱可能會變，如果找不到，請在帳單相關區域尋找自動續訂設定。"
+          "關閉此選項後，產品仍會保持有效直到到期日。要重新開啟，再點一次同一個開關即可。關閉自動續訂不會退還已經處理的扣款。選單名稱可能會變，如果找不到，請在帳單相關區域尋找自動續訂設定。"
         ]
       },
       {
@@ -95691,7 +95744,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "可以信任 Hostinger 嗎？",
         "paragraphs": [
-          "從 Trustpilot 來看，可以。在查閱的時間點，分數為 4.6，共 73,411 則評價，其中 87.1% 是五星。公司回覆了 99% 的負面評價，在我們的樣本中，86 則投訴裡有 80 則得到了回覆。",
+          "從 Trustpilot 來看，可以。在查閱的時間點，分數為 4.6，共 73,411 則評價，其中 87.1% 是五星。檔案顯示公司回覆了 99% 的負面評價；在我們的樣本中，86 則投訴裡有 80 則（約 93%）得到了回覆。",
           "需要留意的是分數是怎麼形成的，以及投訴說了什麼。檔案由公司管理。在樣本中，最近 100 則五星評價裡有 78 則是受邀的，最近 100 則一星評價裡有 92 則是自發的。投訴集中在無法找到真人的 AI 客服、帳單與續訂，以及網域。在主機服務上，自動續訂會在到期前自動扣款，它與帳單投訴的關聯是我們的看法。",
           "實際操作：確認續訂日期，不打算繼續的話就關閉自動續訂；購買前打開檔案讀幾則一星評價，因為這些數字每個月都會變。"
         ]
@@ -95702,14 +95755,14 @@ export const reviewsData: unknown[] = [
           "Hostinger 在 Trustpilot 上的評分高嗎？在查閱的時間點，TrustScore 為滿分 5 分中的 4.6，其中五星占 87.1%，一星占 6.9%。",
           "Hostinger 最常見的投訴是什麼？在讀過的最近 100 則一星評價中的 86 則投訴裡，主要主題是 AI 客服和無法找到真人（約 45 則）、帳單和續訂（約 38 則）以及網域（約 27 則）。",
           "Hostinger 會回覆負面評價嗎？會。頁面顯示，公司回覆了 99% 的負面評價，通常在 24 小時內。在我們的樣本中，86 則投訴中有 80 則有回覆。",
-          "如何關閉 Hostinger 的自動續訂？在帳戶的帳單區域進入服務頁面，打開產品旁邊的三點選單，進入續訂設定，關閉自動續訂並儲存。產品會保持有效直到到期日。",
-          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
+          "如何關閉 Hostinger 的自動續訂？在 hPanel 中打開個人檔案，依序進入帳單和訂閱，找到服務並點擊旁邊的開關，閱讀提示後確認。產品會保持有效直到到期日。",
+          "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣（網域註冊除外）。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
       {
         "heading": "如果你已經決定",
         "paragraphs": [
-          "如果你決定購買，在購物車的優惠碼欄輸入 SONAR20，首個週期可享 20% 折扣，詳情見 [Hostinger](/zh-hant/coupons/hostinger) 頁面。SONAR20 的 20% 折扣適用於每一筆新購買；續訂按定價計算，沒有折扣。細節見[SONAR20 優惠碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)會說明 SONAR20 如何在活動價上計算，而[可信度文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)則談退款和公司的安全性。"
+          "如果你決定購買，在購物車的優惠碼欄輸入 SONAR20，首個週期可享 20% 折扣，詳情見 [Hostinger](/zh-hant/coupons/hostinger) 頁面。SONAR20 的 20% 折扣適用於方案和產品的新購買，不含網域註冊；續訂按定價計算，沒有折扣。細節見[SONAR20 優惠碼文章](/zh-hant/reviews/hostinger-referral-code-zh-hant)。如果你關心的是黑色星期五，[活動指南](/zh-hant/reviews/hostinger-black-friday-zh-hant)會說明 SONAR20 如何在活動價上計算，而[可信度文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)則談退款和公司的安全性。"
         ]
       }
     ],
@@ -95772,6 +95825,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "2026 年 10 月 24 日 Hostinger 在 Trustpilot：TrustScore 4.6，共 73,411 条评价。投诉集中在 AI 客服、账单与续费、域名，并附关闭自动续费的方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -95783,7 +95837,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,411 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分因此被拉高，投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得。"
+          "可以，但有一点要留意。在查阅的时间点，Hostinger 在 Trustpilot 的 TrustScore 为 4.6，共 73,411 条评价，公司回复了几乎所有负面评价。不过公司会邀请客户评价，平均分可能因此被拉高，投诉主要集中在 AI 客服、账单与续费以及域名。在主机服务上，账单投诉就意味着要留意自动续费。关闭方法见下文。首期 20% 折扣可用 [Hostinger 的 SONAR20 优惠码](/zh-hans/coupons/hostinger)获得。"
         ]
       },
       {
@@ -95906,7 +95960,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "第一，五星评价来得快得多，而且几乎都是受邀的。100 条在约 5 天内就凑齐了，其中 78 条是受邀的。一星评价用了约 18 天才凑够 100 条，其中 92 条是自发的。邀请拉高了平均分，这个分数衡量的是受邀并回应的人，而不是所有客户。",
+          "第一，五星评价来得快得多，而且几乎都是受邀的。100 条在约 5 天内就凑齐了，其中 78 条是受邀的。一星评价用了约 18 天才凑够 100 条，其中 92 条是自发的。两组样本的时间跨度不同，无法衡量邀请把总分拉高了多少。它只说明五星评价主要来自受邀客户，一星评价主要来自主动留言的客户。",
           "第二，一星评价的篇幅几乎是五星的四倍。它们描述的是具体问题，包括日期、产品和金额。五星评价通常只有一句话。",
           "第三，样本中每七条一星评价里就有一条是给错了星的好评：100 条中有 14 条文字是正面的，比如“Great hosting”或“easy to use”，却只给了一星。即便如此，73,411 条的 6.9% 仍然约有 5,100 人非常不满。比例很小，人数却不小。"
         ]
@@ -95943,14 +95997,14 @@ export const reviewsData: unknown[] = [
           "Hostinger 帮助中心给出的步骤如下："
         ],
         "bullets": [
-          "在 hPanel 的账单相关区域，打开发票（invoices）页面。",
-          "进入服务或订阅列表。",
-          "点击产品旁边的三点菜单。",
-          "进入该产品的续费设置。",
-          "关闭自动续费并保存更改。"
+          "在 hPanel 中打开个人资料，进入账单（Billing）。",
+          "选择订阅（Subscriptions）。",
+          "找到要修改的服务。",
+          "点击服务旁边的开关，会打开一个说明该产品类型风险与提示的页面。",
+          "阅读内容并确认你的选择。"
         ],
         "postParagraphs": [
-          "关闭此选项后，产品仍会保持有效直到到期日。要重新开启，必须有已登记的付款方式。帮助中心还说明，如果续费日距今只剩一天或更短，必须先手动续费，才能重新开启此选项。菜单名称可能会变，如果找不到，请在账单相关区域寻找自动续费设置。"
+          "关闭此选项后，产品仍会保持有效直到到期日。要重新开启，再点一次同一个开关即可。关闭自动续费不会退还已经处理的扣款。菜单名称可能会变，如果找不到，请在账单相关区域寻找自动续费设置。"
         ]
       },
       {
@@ -95971,7 +96025,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "可以信任 Hostinger 吗？",
         "paragraphs": [
-          "从 Trustpilot 来看，可以。在查阅的时间点，分数为 4.6，共 73,411 条评价，其中 87.1% 是五星。公司回复了 99% 的负面评价，在我们的样本中，86 条投诉里有 80 条得到了回复。",
+          "从 Trustpilot 来看，可以。在查阅的时间点，分数为 4.6，共 73,411 条评价，其中 87.1% 是五星。主页显示公司回复了 99% 的负面评价；在我们的样本中，86 条投诉里有 80 条（约 93%）得到了回复。",
           "需要留意的是分数是怎么形成的，以及投诉说了什么。主页由公司管理。在样本中，最近 100 条五星评价里有 78 条是受邀的，最近 100 条一星评价里有 92 条是自发的。投诉集中在无法找到真人的 AI 客服、账单与续费，以及域名。在主机服务上，自动续费会在到期前自动扣款，它与账单投诉的联系是我们的看法。",
           "实际操作：确认续费日期，不打算继续的话就关闭自动续费；购买前打开主页读几条一星评价，因为这些数字每个月都会变。"
         ]
@@ -95982,21 +96036,21 @@ export const reviewsData: unknown[] = [
           "Hostinger 在 Trustpilot 上的评分高吗？在查阅的时间点，TrustScore 为满分 5 分中的 4.6，其中五星占 87.1%，一星占 6.9%。",
           "Hostinger 最常见的投诉是什么？在读过的最近 100 条一星评价中的 86 条投诉里，主要主题是 AI 客服和无法找到真人（约 45 条）、账单和续费（约 38 条）以及域名（约 27 条）。",
           "Hostinger 会回复负面评价吗？会。页面显示，公司回复了 99% 的负面评价，通常在 24 小时内。在我们的样本中，86 条投诉中有 80 条有回复。",
-          "如何关闭 Hostinger 的自动续费？在账户的账单区域进入服务页面，打开产品旁边的三点菜单，进入续费设置，关闭自动续费并保存。产品会保持有效直到到期日。",
-          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
+          "如何关闭 Hostinger 的自动续费？在 hPanel 中打开个人资料，依次进入账单和订阅，找到服务并点击旁边的开关，阅读提示后确认。产品会保持有效直到到期日。",
+          "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣（域名注册除外）。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
       {
         "heading": "如果你已经决定",
         "paragraphs": [
-          "如果你决定购买，在购物车的优惠码栏输入 SONAR20，首个周期可享 20% 折扣，详情见 [Hostinger](/zh-hans/coupons/hostinger) 页面。这 20% 适用于所有新购；续费按标价收费，没有折扣，细节见[SONAR20 优惠码文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。如果你关心的是黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)会说明 SONAR20 如何在活动价上计算，而[可信度文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)则谈退款和公司的安全性。"
+          "如果你决定购买，在购物车的优惠码栏输入 SONAR20，首个周期可享 20% 折扣，详情见 [Hostinger](/zh-hans/coupons/hostinger) 页面。这 20% 适用于套餐和产品的新购，不含域名注册；续费按标价收费，没有折扣，细节见[SONAR20 优惠码文章](/zh-hans/reviews/hostinger-referral-code-zh-hans)。如果你关心的是黑色星期五，[活动指南](/zh-hans/reviews/hostinger-black-friday-zh-hans)会说明 SONAR20 如何在活动价上计算，而[可信度文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)则谈退款和公司的安全性。"
         ]
       }
     ],
     "pros": [],
     "cons": [],
     "cta": {
-      "text": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
+      "text": "如果你已经决定，在购物车的优惠码栏输入 SONAR20，或通过本链接进入：首个周期享 20% 折扣。这 20% 适用于套餐和产品的新购，不含域名注册；续费按标价收费，没有折扣。",
       "label": "查看折扣套餐",
       "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
       "sponsored": true
@@ -96052,6 +96106,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O SONAR20 dá 20% OFF na Hostinger em toda compra nova, em plano mensal ou anual, também para quem já é cliente. Veja onde colar o código no carrinho.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
@@ -96068,7 +96123,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que o SONAR20 cobre",
         "paragraphs": [
-          "Pela regra da parceria, o SONAR20 vale em todos os planos, mensais e anuais, e também para quem já é cliente da Hostinger. Testamos no carrinho: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,52, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
+          "Pela regra da parceria, o SONAR20 vale em todos os planos, mensais e anuais, e também para quem já é cliente da Hostinger. Em 29/10/2026, testamos no carrinho: no site brasileiro, com o código no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o Startup de 48 meses passou de US$ 383,52 para US$ 306,82. Nos três casos, os 20% saíram do preço da Black Friday, e o código valeu sozinho, sem o link.",
           "O link deste artigo continua valendo, com as regras dele: planos de 12 meses ou mais, para cliente novo. Nos outros casos, use o código. Não citamos códigos de outros sites."
         ]
       },
@@ -96122,7 +96177,7 @@ export const reviewsData: unknown[] = [
             [
               "Cloud Startup",
               "R$ 39,99/mês",
-              "R$ 31,99/mês (R$ 1.535,52 no total)",
+              "R$ 31,99/mês (R$ 1.535,62 no total)",
               "R$ 39,99/mês (R$ 479,88 no total)",
               "R$ 129,99/mês"
             ]
@@ -96233,6 +96288,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger coupon SONAR20: 20% off the first period, on a monthly or annual plan. See where to paste the code in the cart and what changes at renewal.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -96250,7 +96306,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What SONAR20 covers",
         "paragraphs": [
-          "Under the partnership rules, SONAR20 is valid on all plans, monthly and annual, and also for people who are already Hostinger customers. We tested it in the cart: with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. In the test, the 20% came off the Black Friday price, and the code worked on its own, without the link.",
+          "Under the partnership rules, SONAR20 is valid on all plans, monthly and annual, and also for people who are already Hostinger customers. On October 29, 2026, we tested it in the cart: with the code in the “Have a coupon code?” field on the global site, the 48-month Startup plan went from US$383.52 to US$306.82. In the test, the 20% came off the Black Friday price, and the code worked on its own, without the link.",
           "This article's link still works, with its own rules: plans of 12 months or more, for new customers. In other cases, use the code. We do not mention codes from other sites."
         ]
       },
@@ -96357,6 +96413,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Cupón Hostinger SONAR20: 20% de descuento en el primer período, en plan mensual o anual. Mira dónde pegar el código en el carrito y qué cambia en la renovación.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -96374,7 +96431,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué cubre el SONAR20",
         "paragraphs": [
-          "Según las reglas de la alianza, el SONAR20 vale en todos los planes, mensuales y anuales, y también para quien ya es cliente de Hostinger. Lo probamos en el carrito: con el código en el campo «Have a coupon code?» del sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82. En la prueba, el 20% se descontó del precio del Black Friday y el código funcionó solo, sin el enlace.",
+          "Según las reglas de la alianza, el SONAR20 vale en todos los planes, mensuales y anuales, y también para quien ya es cliente de Hostinger. El 29 de octubre de 2026 lo probamos en el carrito: con el código en el campo «Have a coupon code?» del sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82. En la prueba, el 20% se descontó del precio del Black Friday y el código funcionó solo, sin el enlace.",
           "El enlace de este artículo sigue valiendo, con sus propias reglas: planes de 12 meses o más, para cliente nuevo. En los demás casos, usa el código. No citamos códigos de otros sitios."
         ]
       },
@@ -96481,6 +96538,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Code promo Hostinger SONAR20 : 20 % sur la première période, en forfait mensuel ou annuel. Voyez où coller le code dans le panier et ce qui change au renouvellement.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -96498,7 +96556,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce que couvre SONAR20",
         "paragraphs": [
-          "D'après les règles du partenariat, SONAR20 est valable sur tous les forfaits, mensuels et annuels, et aussi pour qui est déjà client d'Hostinger. Nous l'avons testé dans le panier : avec le code dans le champ « Have a coupon code? » du site global, le forfait Startup de 48 mois est passé de 383,52 USD à 306,82 USD. Lors du test, les 20 % ont été retirés du prix du Black Friday, et le code a fonctionné seul, sans le lien.",
+          "D'après les règles du partenariat, SONAR20 est valable sur tous les forfaits, mensuels et annuels, et aussi pour qui est déjà client d'Hostinger. Le 29 octobre 2026, nous l'avons testé dans le panier : avec le code dans le champ « Have a coupon code? » du site global, le forfait Startup de 48 mois est passé de 383,52 USD à 306,82 USD. Lors du test, les 20 % ont été retirés du prix du Black Friday, et le code a fonctionné seul, sans le lien.",
           "Le lien de cet article reste valable, avec ses propres règles : forfaits de 12 mois ou plus, pour un nouveau client. Dans les autres cas, utilisez le code. Nous ne citons pas les codes d'autres sites."
         ]
       },
@@ -96605,6 +96663,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger-Gutschein SONAR20: 20 % Rabatt auf den ersten Zeitraum, bei Monats- oder Jahrestarif. Sehen Sie, wo der Code im Warenkorb hingehört und was sich bei der Verlängerung ändert.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -96622,7 +96681,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was SONAR20 abdeckt",
         "paragraphs": [
-          "Nach den Regeln der Partnerschaft gilt SONAR20 für alle Tarife, monatlich und jährlich, und auch für Personen, die schon Hostinger-Kunden sind. Wir haben ihn im Warenkorb getestet: Mit dem Code im Feld „Have a coupon code?“ auf der globalen Seite sank der Startup-Tarif mit 48 Monaten von 383,52 USD auf 306,82 USD. Im Test wurden die 20 % vom Black-Friday-Preis abgezogen, und der Code wirkte allein, ohne den Link.",
+          "Nach den Regeln der Partnerschaft gilt SONAR20 für alle Tarife, monatlich und jährlich, und auch für Personen, die schon Hostinger-Kunden sind. Am 29. Oktober 2026 haben wir ihn im Warenkorb getestet: Mit dem Code im Feld „Have a coupon code?“ auf der globalen Seite sank der Startup-Tarif mit 48 Monaten von 383,52 USD auf 306,82 USD. Im Test wurden die 20 % vom Black-Friday-Preis abgezogen, und der Code wirkte allein, ohne den Link.",
           "Der Link in diesem Artikel gilt weiterhin, mit seinen eigenen Regeln: Tarife ab 12 Monaten, für Neukunden. In den übrigen Fällen nutzen Sie den Code. Codes anderer Websites nennen wir nicht."
         ]
       },
@@ -96729,6 +96788,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Coupon Hostinger SONAR20: 20% di sconto sul primo periodo, con piano mensile o annuale. Scopri dove incollare il codice nel carrello e cosa cambia al rinnovo.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -96746,7 +96806,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cosa copre SONAR20",
         "paragraphs": [
-          "Secondo le regole della partnership, SONAR20 vale su tutti i piani, mensili e annuali, e anche per chi è già cliente Hostinger. Lo abbiamo testato nel carrello: con il codice nel campo «Have a coupon code?» del sito globale, il piano Startup da 48 mesi è passato da 383,52 USD a 306,82 USD. Nel test, il 20% è stato tolto dal prezzo del Black Friday e il codice ha funzionato da solo, senza il link.",
+          "Secondo le regole della partnership, SONAR20 vale su tutti i piani, mensili e annuali, e anche per chi è già cliente Hostinger. Il 29 ottobre 2026 lo abbiamo testato nel carrello: con il codice nel campo «Have a coupon code?» del sito globale, il piano Startup da 48 mesi è passato da 383,52 USD a 306,82 USD. Nel test, il 20% è stato tolto dal prezzo del Black Friday e il codice ha funzionato da solo, senza il link.",
           "Il link di questo articolo resta valido, con le sue regole: piani da 12 mesi o più, per cliente nuovo. Negli altri casi, usa il codice. Non citiamo codici di altri siti."
         ]
       },
@@ -96853,6 +96913,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 쿠폰 SONAR20: 모든 신규 구매 20% 할인, 월간·연간 플랜, 기존 고객도 가능. 장바구니에서 코드를 넣을 곳을 알려드립니다.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -96870,7 +96931,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20이 적용되는 범위",
         "paragraphs": [
-          "제휴 규정상 SONAR20은 월간·연간 모든 플랜에 쓸 수 있고, 이미 Hostinger를 쓰는 고객에게도 적용됩니다. 장바구니에서 테스트했습니다. 글로벌 사이트의 “Have a coupon code?” 입력란에 코드를 넣자 48개월 Startup 플랜이 383.52달러에서 306.82달러가 되었습니다. 이 테스트에서 20%는 블랙프라이데이 가격에서 빠졌고, 링크 없이 코드만으로도 적용되었습니다.",
+          "제휴 규정상 SONAR20은 월간·연간 모든 플랜에 쓸 수 있고, 이미 Hostinger를 쓰는 고객에게도 적용됩니다. 2026년 10월 29일 장바구니에서 테스트했습니다. 글로벌 사이트의 “Have a coupon code?” 입력란에 코드를 넣자 48개월 Startup 플랜이 383.52달러에서 306.82달러가 되었습니다. 이 테스트에서 20%는 블랙프라이데이 가격에서 빠졌고, 링크 없이 코드만으로도 적용되었습니다.",
           "이 글의 링크도 계속 쓸 수 있지만 규정이 따로 있습니다. 12개월 이상 플랜이고 신규 고객이어야 합니다. 그 밖의 경우에는 코드를 쓰세요. 다른 사이트의 코드는 다루지 않습니다."
         ]
       },
@@ -96977,6 +97038,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "HostingerクーポンSONAR20：月額・年額プランの最初の期間が20%割引。カートでコードを入れる場所と、更新で変わることを紹介します。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/cupom-hostinger-indicacao-capa-discover.webp",
@@ -96993,7 +97055,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20の対象",
         "paragraphs": [
-          "提携のルールでは、SONAR20は月額・年額を問わずすべてのプランで使え、すでにHostingerを使っている方も対象です。カートで検証しました。グローバルサイトで「Have a coupon code?」欄にコードを入れると、48か月のStartupプランは383.52米ドルから306.82米ドルになりました。この検証では、20%はブラックフライデー価格から引かれ、リンクなしでもコードだけで有効でした。",
+          "提携のルールでは、SONAR20は月額・年額を問わずすべてのプランで使え、すでにHostingerを使っている方も対象です。2026年10月29日にカートで検証しました。グローバルサイトで「Have a coupon code?」欄にコードを入れると、48か月のStartupプランは383.52米ドルから306.82米ドルになりました。この検証では、20%はブラックフライデー価格から引かれ、リンクなしでもコードだけで有効でした。",
           "この記事のリンクも引き続き使えますが、ルールは別です。12か月以上のプランで、新規のお客様が対象です。それ以外の場合はコードを使ってください。他サイトのコードは取り上げません。"
         ]
       },
@@ -97101,6 +97163,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 優惠碼 SONAR20：月付或年付方案首期享 20% 折扣。看看在購物車哪裡輸入優惠碼，以及為什麼續訂沒有折扣。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -97118,7 +97181,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 涵蓋什麼",
         "paragraphs": [
-          "依合作規則，SONAR20 適用於所有月付與年付方案，已經是 Hostinger 客戶的人也能用。我們在購物車實際測試過：在全球站的「Have a coupon code?」欄位輸入優惠碼後，48 個月的 Startup 方案從 383.52 美元降到 306.82 美元。測試中，20% 是從黑色星期五價格扣掉的，優惠碼單獨就有效，不需要連結。",
+          "依合作規則，SONAR20 適用於所有月付與年付方案，已經是 Hostinger 客戶的人也能用。2026 年 10 月 29 日，我們在購物車實際測試過：在全球站的「Have a coupon code?」欄位輸入優惠碼後，48 個月的 Startup 方案從 383.52 美元降到 306.82 美元。測試中，20% 是從黑色星期五價格扣掉的，優惠碼單獨就有效，不需要連結。",
           "本文的連結仍然有效，但規則不同：12 個月以上的方案，限新客戶。其他情況請用優惠碼。我們不提其他網站的優惠碼。"
         ]
       },
@@ -97225,6 +97288,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 优惠码 SONAR20：月付或年付套餐首个周期享 20% 折扣。看看在购物车哪里输入代码，以及续费时有什么变化。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -97242,7 +97306,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "SONAR20 适用范围",
         "paragraphs": [
-          "按合作规则，SONAR20 适用于所有月付和年付套餐，已经是 Hostinger 客户的人也可以用。我们在购物车里测试过：在全球站的 “Have a coupon code?” 栏输入代码后，48 个月的 Startup 套餐从 383.52 美元降到 306.82 美元。测试中，20% 是从黑色星期五价格上扣的，代码单独就有效，不需要链接。",
+          "按合作规则，SONAR20 适用于所有月付和年付套餐，已经是 Hostinger 客户的人也可以用。2026 年 10 月 29 日，我们在购物车里测试过：在全球站的 “Have a coupon code?” 栏输入代码后，48 个月的 Startup 套餐从 383.52 美元降到 306.82 美元。测试中，20% 是从黑色星期五价格上扣的，代码单独就有效，不需要链接。",
           "本文的链接仍然有效，但规则不同：12 个月及以上的套餐，限新客户。其他情况请用代码。我们不提其他网站的代码。"
         ]
       },
@@ -97349,7 +97413,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Hostinger 2026: o cupom SONAR20 tira mais 20% do preço da campanha, em toda compra nova. Preços por plano, já com a campanha no ar.",
     "publishedAt": "19 de outubro de 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/black-friday-hostinger-capa-discover.webp",
@@ -97416,13 +97480,13 @@ export const reviewsData: unknown[] = [
               "Cloud Startup",
               "R$ 39,99/mês",
               "R$ 31,99/mês",
-              "R$ 1.535,52",
+              "R$ 1.535,62",
               "R$ 129,99/mês"
             ]
           ]
         },
         "postParagraphs": [
-          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para o valor da tabela com o SONAR20. Num teste no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,52, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82.",
+          "Os preços são de 19/10/2026, dos planos de 48 meses. O desconto entra sobre o preço da campanha: no Single, o total de 48 meses é R$ 287,52 na campanha e cai para o valor da tabela com o SONAR20. Num teste de 29/10/2026 no site brasileiro, com o SONAR20 no campo \"Tem um cupom de desconto?\", o plano Startup de 48 meses passou de R$ 1.919,52 para R$ 1.535,62, e o de 1 mês, de R$ 139,99 para R$ 111,99. No site global, o mesmo plano de 48 meses passou de US$ 383,52 para US$ 306,82. Plano, campanha e país podem mudar o total, então confira o valor no carrinho.",
           "Onde colar o código e por que a renovação não tem desconto está em [Cupom Hostinger SONAR20](/reviews/cupom-hostinger-indicacao)."
         ]
       },
@@ -97520,7 +97584,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Black Friday 2026 has started and runs until December 14. The SONAR20 coupon takes another 20% off the campaign price. Renewal and how to check.",
     "publishedAt": "October 19, 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -97547,7 +97611,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What you pay with the campaign and with SONAR20",
         "postParagraphs": [
-          "The discount applies on top of the campaign price. On the global site, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”).",
+          "The discount applies on top of the campaign price. In a test on October 29, 2026 on the global site, the 48-month Startup plan went from US$ 383.52 to US$ 306.82 with SONAR20 entered in the coupon field (“Have a coupon code?”). Plan, campaign and country can change the total, so check the amount in your cart.",
           "Where to paste the code and why renewal has no discount are covered in [Hostinger SONAR20 coupon](/en/reviews/hostinger-coupon-code-referral)."
         ]
       },
@@ -97644,7 +97708,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Hostinger 2026 ya empezó y dura hasta el 14 de diciembre. El cupón SONAR20 quita un 20 % más del precio de la campaña. Renovación y cómo comprobarlo.",
     "publishedAt": "19 de octubre de 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -97671,7 +97735,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuánto cuesta con la campaña y con SONAR20",
         "postParagraphs": [
-          "El descuento se aplica sobre el precio de la campaña. En el sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»).",
+          "El descuento se aplica sobre el precio de la campaña. En una prueba del 29 de octubre de 2026 en el sitio global, el plan Startup de 48 meses pasó de US$ 383,52 a US$ 306,82 con SONAR20 en el campo de cupón («Have a coupon code?»). El plan, la campaña y el país pueden cambiar el total, así que revisa el importe en tu carrito.",
           "Dónde pegar el código y por qué la renovación no tiene descuento está en [Cupón Hostinger SONAR20](/es/reviews/cupon-hostinger-codigo-de-referido)."
         ]
       },
@@ -97768,7 +97832,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Hostinger 2026 : c’est déjà parti, jusqu’au 14 décembre. Le code SONAR20 retire encore 20 % du prix de la campagne. Renouvellement et vérification.",
     "publishedAt": "19 octobre 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -97795,7 +97859,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce que l’on paie avec la campagne et avec SONAR20",
         "postParagraphs": [
-          "La réduction s’applique sur le prix de la campagne. Sur le site mondial, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »).",
+          "La réduction s’applique sur le prix de la campagne. Lors d’un test du 29 octobre 2026 sur le site mondial, l’offre Startup en 48 mois est passée de 383,52 US$ à 306,82 US$ avec SONAR20 saisi dans le champ de code promo (« Have a coupon code? »). L’offre, la campagne et le pays peuvent changer le total : vérifiez le montant dans votre panier.",
           "Où coller le code et pourquoi le renouvellement n’a pas de réduction : voir [Code promo Hostinger SONAR20](/fr/reviews/code-promo-hostinger-parrainage)."
         ]
       },
@@ -97892,7 +97956,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Black Friday 2026 hat begonnen und läuft bis zum 14. Dezember. Der Gutscheincode SONAR20 zieht weitere 20 % vom Aktionspreis ab. Verlängerung und Prüfung.",
     "publishedAt": "19. Oktober 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -97919,7 +97983,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was Sie mit der Aktion und mit SONAR20 zahlen",
         "postParagraphs": [
-          "Der Rabatt wird auf den Aktionspreis angerechnet. Auf der globalen Seite sank der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$.",
+          "Der Rabatt wird auf den Aktionspreis angerechnet. Bei einem Test am 29. Oktober 2026 auf der globalen Seite sank der Startup-Tarif mit 48 Monaten mit SONAR20 im Gutscheinfeld („Have a coupon code?“) von 383,52 US$ auf 306,82 US$. Tarif, Aktion und Land können die Summe verändern, prüfen Sie den Betrag also im Warenkorb.",
           "Wo Sie den Code einfügen und warum die Verlängerung keinen Rabatt hat, steht in [Hostinger-Gutschein SONAR20](/de/reviews/hostinger-gutschein-empfehlungscode)."
         ]
       },
@@ -98016,7 +98080,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Friday Hostinger 2026 è già iniziato e dura fino al 14 dicembre. Il coupon SONAR20 toglie un altro 20% dal prezzo della campagna. Rinnovo e come controllare.",
     "publishedAt": "19 ottobre 2026",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98043,7 +98107,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto si paga con la campagna e con SONAR20",
         "postParagraphs": [
-          "Lo sconto si applica sul prezzo della campagna. Sul sito globale, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»).",
+          "Lo sconto si applica sul prezzo della campagna. In un test del 29 ottobre 2026 sul sito globale, il piano Startup da 48 mesi è passato da US$ 383,52 a US$ 306,82 con SONAR20 nel campo coupon («Have a coupon code?»). Piano, campagna e paese possono cambiare il totale, quindi controlla l'importo nel carrello.",
           "Dove incollare il codice e perché il rinnovo non ha sconto si trova in [Coupon Hostinger SONAR20](/it/reviews/coupon-hostinger-codice-invito)."
         ]
       },
@@ -98140,7 +98204,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 블랙프라이데이 2026은 이미 시작되어 12월 14일까지입니다. 캠페인 가격에서 SONAR20 쿠폰으로 20% 추가 할인. 갱신 가격과 확인 방법.",
     "publishedAt": "2026년 10월 19일",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98167,7 +98231,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "캠페인과 SONAR20으로 얼마가 되는지",
         "postParagraphs": [
-          "할인은 캠페인 가격에 적용됩니다. 글로벌 사이트에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다.",
+          "할인은 캠페인 가격에 적용됩니다. 2026년 10월 29일 글로벌 사이트에서 한 테스트에서 48개월 Startup 요금제는 쿠폰 입력란(“Have a coupon code?”)에 SONAR20을 넣자 US$ 383.52에서 US$ 306.82가 되었습니다. 요금제, 캠페인, 국가에 따라 합계가 달라질 수 있으니 금액은 장바구니에서 확인하세요.",
           "코드를 붙여 넣을 위치와 갱신에 할인이 없는 이유는 [Hostinger 쿠폰 SONAR20](/ko/reviews/hostinger-referral-code-ko)에 있습니다."
         ]
       },
@@ -98264,7 +98328,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger ブラックフライデー2026はすでに開始、12月14日まで。キャンペーン価格に、クーポンSONAR20でさらに20%引き。更新料金と確認方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98291,7 +98355,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "キャンペーンとSONAR20でいくらになるか",
         "postParagraphs": [
-          "割引はキャンペーン価格に対して適用されます。グローバルサイトでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。",
+          "割引はキャンペーン価格に対して適用されます。2026年10月29日のグローバルサイトでのテストでは、48か月のStartupプランが、クーポン欄（「Have a coupon code?」）にSONAR20を入れると、383.52米ドルから306.82米ドルになりました。プラン、キャンペーン、国によって合計は変わるため、金額はカートで確認してください。",
           "コードを貼る場所と、更新に割引がない理由は、[Hostingerクーポン SONAR20](/ja/reviews/hostinger-referral-code-ja)にあります。"
         ]
       },
@@ -98388,7 +98452,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 黑色星期五 2026 已經開始，持續到 12 月 14 日，優惠碼 SONAR20 在活動價上再減 20%。續約與核對方式。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98415,7 +98479,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "活動價加 SONAR20 要付多少",
         "postParagraphs": [
-          "折扣是在活動價的基礎上計算的。在全球網站上，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。",
+          "折扣是在活動價的基礎上計算的。在 2026 年 10 月 29 日對全球網站的測試中，48 個月的 Startup 方案在優惠碼欄位（「Have a coupon code?」）輸入 SONAR20 後，從 383.52 美元降到 306.82 美元。方案、活動和國家都可能改變總價，請以購物車中的金額為準。",
           "代碼貼在哪裡，以及為什麼續約沒有折扣，請見 [Hostinger 優惠碼 SONAR20](/zh-hant/reviews/hostinger-referral-code-zh-hant)。"
         ]
       },
@@ -98512,7 +98576,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 黑色星期五 2026 已经开始，持续到 12 月 14 日，优惠码 SONAR20 在活动价上再减 20%。续费与核对方法。",
     "publishedAt": "2026年10月19日",
     "publishedAtISO": "2026-10-19",
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -98539,7 +98603,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "活动价加 SONAR20 要付多少",
         "postParagraphs": [
-          "折扣是在活动价的基础上计算的。在全球站点上，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。",
+          "折扣是在活动价的基础上计算的。在 2026 年 10 月 29 日对全球站点的测试中，48 个月的 Startup 方案在优惠码栏（“Have a coupon code?”）输入 SONAR20 后，从 383.52 美元降到 306.82 美元。方案、活动和国家都可能改变总价，请以购物车里的金额为准。",
           "代码贴在哪里，以及为什么续费没有折扣，见 [Hostinger 优惠码 SONAR20](/zh-hans/reviews/hostinger-referral-code-zh-hans)。"
         ]
       },
@@ -98619,6 +98683,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECI dá 10% OFF na loja oficial a partir de R$ 100. Cafeteira para equipe: custo mensal para 5, 10 e 20 pessoas em Dolce Gusto, Nespresso e filtro.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dolcegusto/dolce-gusto-cinco-maquinas-oficial.webp",
@@ -98645,7 +98710,7 @@ export const reviewsData: unknown[] = [
         ],
         "postParagraphs": [
           "Os 22 dias úteis são a média de um mês. Num mês com feriado, são 21. As duas bebidas por dia são uma suposição deste texto; troque pelos números da sua equipe, porque a fórmula continua valendo.",
-          "Bebida com leite conta em dobro. Na linha Dolce Gusto, cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas, e café, Nescau, Nestea e Mochaccino Canela usam uma. A tabela da seção de custo considera só bebidas de uma cápsula, então um escritório que pede muito cappuccino gasta mais do que ela mostra."
+          "Bebida de duas cápsulas conta em dobro. Na linha Dolce Gusto, cappuccino, latte macchiato, chococino e chai tea latte usam duas cápsulas, e café, Nescau, Nestea e Mochaccino Canela (que leva leite) usam uma. A tabela da seção de custo considera só bebidas de uma cápsula, então um escritório que pede muito cappuccino gasta mais do que ela mostra."
         ]
       },
       {
@@ -98658,7 +98723,7 @@ export const reviewsData: unknown[] = [
             "Perfil",
             "Máquina que faz sentido",
             "Por que",
-            "Custo mensal (sem cupom)"
+            "Custo mensal do consumo (sem cupom)"
           ],
           "rows": [
             [
@@ -98690,15 +98755,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa por mês para 5, 10 e 20 pessoas",
         "paragraphs": [
-          "O filtro é o mais barato por bebida; na cápsula, o combo de 50 caixas da Dolce Gusto leva. Valores em reais por mês, com os preços lidos nas lojas em 19/10/2026, sem cupom e sem a máquina, e 44 bebidas por pessoa, todas de uma cápsula."
+          "O filtro é o mais barato por bebida; na cápsula, o combo de 50 caixas da Dolce Gusto leva. Valores em reais por mês, com os preços lidos nas lojas em 19/10/2026, sem cupom e sem a máquina, e 44 bebidas por pessoa, todas de uma cápsula. Nas linhas de cápsula, os valores são o custo das cápsulas consumidas (preço do combo dividido pelas cápsulas), não o desembolso da compra: o combo é vendido fechado."
         ],
         "comparisonTable": {
           "headers": [
             "Opção",
             "Por cápsula ou bebida",
-            "5 pessoas",
-            "10 pessoas",
-            "20 pessoas"
+            "5 pessoas (consumo do mês)",
+            "10 pessoas (consumo do mês)",
+            "20 pessoas (consumo do mês)"
           ],
           "rows": [
             [
@@ -98776,7 +98841,7 @@ export const reviewsData: unknown[] = [
           }
         ],
         "postParagraphs": [
-          "Os preços mudam com a promoção do dia. A faixa da Nespresso Original vem da caixa de 10 cápsulas, de R$ 37,00 a R$ 42,00. A Baggio é de terceiro: a caixa de 10 para Dolce Gusto custa R$ 25,90, e a própria loja diz que Nespresso e Dolce Gusto são marcas de terceiros, sem relação com ela. A xícara do filtro, de 100 ml, é o único volume que entra na conta."
+          "Exemplo de compra, só com o combo de 50 caixas (500 cápsulas) a R$ 809,25: para 5 pessoas, que consomem 220 cápsulas no mês, o desembolso é de R$ 809,25 e sobram 280 cápsulas; para 20 pessoas, que consomem 880, são dois combos, R$ 1.618,50, e sobram 120. São exemplos de compra só desse combo, não a combinação mais econômica entre todos os lotes. Os preços mudam com a promoção do dia. A faixa da Nespresso Original vem da caixa de 10 cápsulas, de R$ 37,00 a R$ 42,00. A Baggio é de terceiro: a caixa de 10 para Dolce Gusto custa R$ 25,90, e a própria loja diz que Nespresso e Dolce Gusto são marcas de terceiros, sem relação com ela. A xícara do filtro, de 100 ml, é o único volume que entra na conta."
         ]
       },
       {
@@ -98952,7 +99017,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "Advocacia, consultório e MEI usam a mesma conta: pessoas × 2 bebidas × 22 dias úteis. Consultório e MEI costumam caber no perfil de 2 a 5 pessoas. Se a equipe bebe só café preto, o filtro é mais barato por xícara; se pede leite e chá, a cápsula da Dolce Gusto atende o grupo inteiro.",
           "Para quem prefere cafeteira elétrica sem cápsula, as Oster citadas acima custam de R$ 179,90 a R$ 309,90. A máquina é pagamento único, e o custo que se repete é o do pó: com o Melitta Tradicional, a xícara de 100 ml sai a R$ 0,44.",
-          "Escritório de 15 pessoas ou mais entra na conta de 20 pessoas da tabela mensal. Com 20 pessoas, a caixa avulsa da Dolce Gusto sai por R$ 2.191,20 no mês e o combo de 50 caixas por R$ 1.424,28."
+          "Escritório de 15 pessoas ou mais entra na conta de 20 pessoas da tabela mensal. Com 20 pessoas, a caixa avulsa da Dolce Gusto sai por R$ 2.191,20 no mês e o combo de 50 caixas por R$ 1.424,28, em custo das cápsulas consumidas."
         ]
       },
       {
@@ -98974,7 +99039,7 @@ export const reviewsData: unknown[] = [
           "A escolha depende de quem toma o quê. Os valores são sem cupom e sem a máquina, e a conta supõe duas bebidas por pessoa por dia, cada uma de uma cápsula."
         ],
         "bullets": [
-          "5 pessoas (220 bebidas por mês): Dolce Gusto, no preço por bebida do combo para negócios de 50 caixas, R$ 356,07 por mês; no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
+          "5 pessoas (220 bebidas por mês): Dolce Gusto, no combo para negócios de 50 caixas, R$ 356,07 por mês em cápsulas consumidas (a compra do combo é de R$ 809,25 de uma vez); no de 20 caixas, R$ 410,85. Quem só toma café preto paga menos com filtro: R$ 96,66 por mês, sem contar a máquina.",
           "10 pessoas (440 bebidas): Dolce Gusto em 50 caixas, R$ 712,14; filtro, R$ 193,32.",
           "20 pessoas (880 bebidas): Dolce Gusto em 50 caixas, R$ 1.424,28; filtro, R$ 386,64."
         ],
@@ -98990,7 +99055,7 @@ export const reviewsData: unknown[] = [
           "Qual a melhor cafeteira de cápsula para escritório? Não há uma melhor para todos: para a equipe que quer variedade e custo baixo por bebida, a Dolce Gusto com combo de negócios; para espresso com leite fresco em volume, a linha profissional da Nespresso, com preço sob contato.",
           "Cafeteira grande para escritório: qual escolher? Grande aqui quer dizer volume: a Oster Black tem jarra de 0,7 L, e o reservatório das Dolce Gusto Mini Me e Genio S é de 0,8 L. A ficha que lemos não diz quantas xícaras cabem em cada máquina.",
           "O cupom CECI vale nos combos para negócios? Vale, na loja oficial da Dolce Gusto, com 10% OFF sobre o preço do dia em compras a partir de R$ 100; o combo de 50 caixas sai por R$ 728,33.",
-          "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas: com 5 pessoas e 44 bebidas cada no mês, o combo de 20 caixas da Dolce Gusto sai a R$ 410,85, e a tabela mensal tem as contas para 5, 10 e 20 pessoas."
+          "Quanto gasta uma cafeteira de cápsula por mês? Depende das pessoas e das bebidas: com 5 pessoas e 44 bebidas cada no mês, o combo de 20 caixas da Dolce Gusto sai a R$ 410,85 em cápsulas consumidas, e a tabela mensal tem as contas para 5, 10 e 20 pessoas. O combo é vendido fechado: o de 20 caixas custa R$ 373,50 de uma vez."
         ]
       }
     ],
@@ -99046,6 +99111,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mesa posta de Natal para 6 pessoas com o cupom MAUAD de 5% OFF: o que comprar, quanto custa em três faixas e como montar cada lugar.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/mesa-posta-natal-taca-bohemia-magnum.webp",
@@ -99124,7 +99190,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Os preços são de venda e mudam com promoção. Os totais não incluem frete, que é calculado por CEP. O cupom MAUAD dá 5% sobre o subtotal e vale em todas as formas de pagamento."
+          "Os preços são de venda e mudam com promoção. Os totais não incluem frete, que é calculado por CEP. O cupom MAUAD dá 5% sobre o subtotal e vale em todas as formas de pagamento. Na faixa 1, o kit de anéis cobre só quatro lugares; para os seis, some R$ 69,90 por kit extra."
         ],
         "images": [
           {
@@ -99165,7 +99231,7 @@ export const reviewsData: unknown[] = [
               "R$ 130,80"
             ],
             [
-              "Anel (opcional)",
+              "Anel (opcional, kit de 4)",
               "Kit 4 Anéis Traccia Vermelho, Copa&Cia",
               "1",
               "R$ 69,90",
@@ -99514,6 +99580,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Presente de casamento com o cupom MAUAD de 5% OFF: ideias de Le Creuset, Porto Brasil, taças Bohemia e faqueiros em quatro faixas de preço.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/presente-casamento-tacas-bohemia-angela.webp",
@@ -99650,7 +99717,7 @@ export const reviewsData: unknown[] = [
               "Acima de R$ 1.500",
               "[Panela Redonda Signature Rhone com pegador dourado 5,3 L, 26 cm](https://letseatit.com.br/products/panela-le-creuset-redonda-signature-rhone-5-3l-26cm?utm_source=embaixador&utm_medium=emcasacomcecilia&utm_campaign=inbazz&utm_content=organico)",
               "R$ 3.089",
-              "Mesmas fontes de calor da Azure; pegadores de aço inox que a ficha diz aguentarem qualquer temperatura do forno. Pode ir à lava-louças."
+              "Mesmas fontes de calor da Azure; pegadores de aço inox; a ficha da loja fala em resistência à temperatura do forno sem dar o limite, que consta no manual da fabricante. Pode ir à lava-louças."
             ]
           ]
         },
@@ -99781,7 +99848,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frete e prazo de entrega",
         "paragraphs": [
-          "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A política de frete que a loja publica não traz faixa de frete grátis. O prazo vai de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, contados da confirmação do pagamento; no Sul e no Sudeste, de 5 a 8. Se o presente tem data, confira no checkout o prazo para o seu CEP antes de pagar. Para o Natal, a data-limite de pedido por região está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
+          "O frete é calculado por CEP, no checkout, e não entra nos preços deste guia. A página de frete da loja não traz faixa de frete grátis, mas a política padrão cita frete grátis em pedidos acima de R$ 1.000 em produtos Le Creuset e Zwilling; confirme no carrinho. O prazo vai de 3 a 5 dias úteis na capital paulista a 7 a 12 dias úteis no Norte e no Nordeste, contados da confirmação do pagamento; no Sul e no Sudeste, de 5 a 8. Se o presente tem data, confira no checkout o prazo para o seu CEP antes de pagar. Para o Natal, a data-limite de pedido por região está no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
         ]
       },
       {
@@ -99870,6 +99937,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MAUAD dá 5% OFF no subtotal da Let's Eat It. Presente de Natal para quem gosta de cozinhar, com Le Creuset, KitchenAid e Ariete em quatro faixas.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/letseatit/presente-natal-ramekin-coracao-le-creuset.webp",
@@ -100132,7 +100200,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Prazo para chegar antes do Natal",
         "paragraphs": [
-          "A Let's Eat It não tem entrega expressa. O prazo segue a política de frete da loja e conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, com prazos intermediários para as outras regiões. O frete é calculado à parte, pelo CEP, e dá para simular na página do produto.",
+          "A Let's Eat It não tem entrega expressa. O prazo segue a política de frete da loja e conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, com prazos intermediários para as outras regiões. A política padrão da loja conta de 5 a 10 dias úteis depois do despacho, e o prazo do seu CEP aparece no carrinho. O frete é calculado à parte, pelo CEP, e dá para simular na página do produto.",
           "Para um presente com data, a conta é de trás para frente: partindo do dia do Natal, desconte os dias úteis da sua região e faça o pedido antes disso. As datas-limite de pedido para o Natal estão no [guia de Black Friday da Let's Eat It](/reviews/black-friday-letseatit)."
         ]
       },
@@ -100147,7 +100215,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Troca, peça avariada e pré-venda",
         "paragraphs": [
-          "Pela política de reembolso e trocas da loja, a devolução tem prazo de 30 dias contados do recebimento. A loja troca por outro produto de valor equivalente ou devolve o valor integral, no meio de pagamento original ou em crédito na loja. Defeito de fabricação tem prazo de 90 dias.",
+          "Pela política de reembolso e trocas da loja, a devolução tem prazo de 30 dias contados do recebimento. Pela página de reembolso e trocas, a devolução pode ser por produto de valor equivalente, reembolso no meio de pagamento original ou crédito na loja. O site mantém outro texto de política com regras diferentes, então confirme a condição por escrito com o atendimento antes de presentear. Defeito de fabricação tem prazo de 90 dias.",
           "Se a peça chegar quebrada, a loja faz a reposição sem custo, mediante fotos do produto e da embalagem enviadas pelo WhatsApp ou pelo e-mail de atendimento da loja. A política não diz em que prazo o aviso precisa ser feito, então avise logo depois de abrir a caixa. O que a equipe checou antes de indicar a loja está em [Let's Eat It é confiável?](/reviews/lets-eat-it-e-confiavel).",
           "Item de pré-venda não entra nesta lista de presente com data. O prazo de envio fica na página do produto."
         ]
@@ -100156,7 +100224,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Qual é o prazo de entrega para chegar antes do Natal? Conta a partir da confirmação do pagamento: de 3 dias úteis na capital paulista até 12 dias úteis no Norte e no Nordeste, pela política de frete da loja. A data-limite de pedido está no guia de Black Friday da Let's Eat It.",
-          "Posso trocar um presente? A loja troca por outro produto de valor equivalente em até 30 dias contados do recebimento, ou devolve o valor integral, no meio de pagamento original ou em crédito na loja. Guarde a nota fiscal e confirme o prazo com a loja antes de presentear com data marcada.",
+          "Posso trocar um presente? A página de reembolso e trocas da loja fala em 30 dias contados do recebimento, com troca por produto equivalente, reembolso ou crédito. O site tem outro texto de política com regras diferentes: guarde a nota fiscal e confirme a condição por escrito com o atendimento antes de presentear com data marcada.",
           "O cupom MAUAD vale em promoção? Sim. Pelo nosso teste, ele soma com as promoções vigentes do site e com o desconto do Pix. O checkout mostra o valor final antes do pagamento.",
           "Qual presente para quem já tem tudo na cozinha? Para quem já tem panela e utensílio básico, a saída é uma peça de uso específico: um conjunto de churrasco, como o L'Hermitage de R$ 232,90, ou um eletroportátil, como a Chaleira Elétrica Positano de R$ 649,00 (127 V)."
         ]
@@ -102670,6 +102738,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Skull ou Dux, com o cupom CECILIA10 e 10% OFF na Black Skull: whey e creatina por 100 g de proteína e de creatina, Creapure, Pix e frete.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-skull-ou-dux-capa-discover.webp",
@@ -102680,7 +102749,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Black Skull sai mais barata que a Dux no whey e na creatina, pelo preço no cartão. Só a Dux declara o selo Creapure e vende isolado. O que muda a decisão é o tipo de whey e de creatina que você quer; veja em Quem escolhe o quê."
+          "Nos preços de outubro, a Black Skull sai mais barata que a Dux no whey e na creatina, pelo preço no cartão. Só a Dux declara o selo Creapure e vende isolado. O que muda a decisão é o tipo de whey e de creatina que você quer, e os preços podem mudar."
         ]
       },
       {
@@ -102930,7 +102999,7 @@ export const reviewsData: unknown[] = [
         "emphasis": "Pelos números da tabela, para quem compra pelo menor preço por grama a escolha é a Black Skull, porque ela sai mais barata no whey e na creatina; para quem quer isolado ou Creapure declarado, a escolha é a Dux.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
-          "Pelos rótulos e pelos preços lidos:"
+          "Pelos rótulos e pelos preços de outubro:"
         ],
         "bullets": [
           "Quer o menor preço por 100 g de proteína: [Whey 80% HD da Black Skull](https://www.blackskullusa.com.br/whey-80-hd-caveira-preta-1/p), a R$ 23,17 sem cupom e R$ 20,86 com o CECILIA10.",
@@ -102947,12 +103016,12 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Black Skull ou Dux: qual é melhor? Depende da linha. No whey, a Black Skull sai mais barata por 100 g de proteína em todos os pares; na creatina, o refil de 500 g da Black Skull sai mais barato que a monohidratada da Dux. A Dux tem a linha Creapure, que ela mesma declara.",
-          "Qual o melhor whey, Black Skull ou Dux? Pelo preço por 100 g de proteína, o Whey 80% HD da Black Skull, a R$ 23,17 sem cupom e R$ 20,86 com o CECILIA10. O concentrado da Dux sai a R$ 61,48 no cartão e R$ 58,41 no Pix.",
-          "Qual a melhor creatina, Black Skull ou Dux? Por grama, o Creator refil de 500 g da Black Skull, a R$ 7,98 por 100 g. A monohidratada de 300 g da Dux sai a R$ 21,63 no cartão e R$ 20,55 no Pix.",
+          "Black Skull ou Dux: qual é melhor? Depende da linha. Nos preços de outubro, no whey a Black Skull sai mais barata por 100 g de proteína em todos os pares; na creatina, o refil de 500 g da Black Skull sai mais barato que a monohidratada da Dux. A Dux tem a linha Creapure, que ela mesma declara.",
+          "Qual o melhor whey, Black Skull ou Dux? Pelo preço por 100 g de proteína em outubro, o Whey 80% HD da Black Skull, a R$ 23,17 sem cupom e R$ 20,86 com o CECILIA10. O concentrado da Dux sai a R$ 61,48 no cartão e R$ 58,41 no Pix.",
+          "Qual a melhor creatina, Black Skull ou Dux? Por grama, nos preços de outubro, o Creator refil de 500 g da Black Skull, a R$ 7,98 por 100 g. A monohidratada de 300 g da Dux sai a R$ 21,63 no cartão e R$ 20,55 no Pix.",
           "A Dux é boa marca? Só dá para responder pelo rótulo, pela fórmula que a Dux declara e pelo preço. Ela diz que o concentrado é 100% proteína, sem blend, e declara Creapure na linha própria. O whey de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
           "A Black Skull é boa marca? Não provamos os produtos, e este texto não diz se a marca é boa. Ele mostra o rótulo, o preço e as regras de cupom e frete.",
-          "A Dux tem cupom? Não. A Dux não é parceira do site, e o CECILIA10 vale só na Black Skull.",
+          "A Dux tem cupom? Não temos cupom da Dux: ela não é parceira do site, e o CECILIA10 vale só na Black Skull. Se a Dux tem ofertas próprias, elas estão no site dela.",
           "A Dux tem Creapure? A Dux diz que a linha 100% Creapure usa creatina Creapure, produzida pela AlzChem. A Black Skull não declara Creapure nas páginas que lemos.",
           "O CECILIA10 soma com promoção? Sim, na Black Skull. No nosso teste, o 10% valeu também sobre itens em promoção.",
           "Os preços deste texto valem hoje? Eles mudam com as promoções. Confira no site da Black Skull e no da Dux antes de comprar.",
@@ -103012,6 +103081,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Max Titanium ou Dux, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: whey, creatina, multivitamínico e pré-treino por proteína, por dia e por dose.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/max-titanium-ou-dux-capa-discover.webp",
@@ -103028,7 +103098,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como comparamos",
         "paragraphs": [
-          "Esta comparação cobre whey, creatina, multivitamínico e pré-treino da Max Titanium, parceira do site, e da Dux, que não é parceira. Comparamos o que as duas lojas publicam: a tabela nutricional de cada produto, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são os dos sites oficiais, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No Pix, a Dux fica 5% abaixo do cartão, e a Max, cerca de 3%.",
+          "Esta comparação cobre whey, creatina, multivitamínico e pré-treino da Max Titanium, parceira do site, e da Dux, que não é parceira. Comparamos o que as duas lojas publicam: a tabela nutricional de cada produto, a lista de ingredientes, o preço no site e as regras de frete e de pagamento. Os preços são os dos sites oficiais, sem frete. As tabelas usam o preço no cartão, a base da comparação; o Pix e o cupom vêm logo abaixo de cada tabela. No Pix, a Dux fica 5% abaixo do cartão, e a Max, cerca de 3% nos produtos comparados.",
           "A série contra a Dux tem outros dois textos: [Black Skull ou Dux](/reviews/black-skull-ou-dux) e [Probiótica ou Dux](/reviews/probiotica-ou-dux). A comparação com a Growth está em [Max Titanium ou Growth](/reviews/max-titanium-ou-growth).",
           "As contas são estas, arredondadas no centavo:"
         ],
@@ -103083,7 +103153,7 @@ export const reviewsData: unknown[] = [
               "40 g, 32 g de proteína",
               "cerca de 23",
               "R$ 273,55",
-              "R$ 37,17"
+              "R$ 37,99"
             ],
             [
               "Dux FreshWhey (WPC, WPI e WPH), 900 g",
@@ -103116,8 +103186,8 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada.",
-          "No Pix, o Refil sai a R$ 30,24 por 100 g de proteína, e o concentrado de 900 g da Dux, a R$ 58,41. Com o cupom no teto, sobre o Pix, o Refil cai para R$ 27,21, o 3W, para R$ 32,45, e o IsoWhey, para R$ 36,51."
+          "Pelo peso, o pote de 1,8 kg da Dux rende 60 doses de 30 g. No 3W, a conta usa 22,5 doses (900 g ÷ 40 g), que dão 720 g de proteína; a tabela arredonda para \"cerca de 23\". WPC é a proteína concentrada do soro do leite; WPI, a isolada; WPH, a hidrolisada.",
+          "No Pix, o Refil sai a R$ 30,24 por 100 g de proteína, e o concentrado de 900 g da Dux, a R$ 58,41. Com o cupom no teto, sobre o Pix, o Refil cai para R$ 27,21, o 3W, para R$ 33,17, e o IsoWhey, para R$ 36,51."
         ]
       },
       {
@@ -103140,8 +103210,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Whey com três proteínas: Top Whey 3W ou FreshWhey",
         "paragraphs": [
-          "O [Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) mistura WPC, WPI e WPH, e a dose de 40 g dá 32 g de proteína. Pelo Pix, sai a R$ 36,05 por 100 g. O FreshWhey da Dux tem as mesmas três proteínas, com 20 g em 30 g, e sai a R$ 72,19 por 100 g no Pix, ou R$ 75,98 no cartão. A diferença é de 50%.",
-          "A troca que muda a escolha é o adoçante. O 3W usa sucralose e lecitina de soja. O FreshWhey é adoçado com glicosídeos de esteviol (stévia) e taumatina, e a lista de ingredientes dele não traz sucralose nem lecitina. Para quem evita sucralose, o FreshWhey é a opção desta comparação. Por grama de proteína, ele custa o dobro do 3W."
+          "O [Top Whey 3W + Performance](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) mistura WPC, WPI e WPH, e a dose de 40 g dá 32 g de proteína. Pelo Pix, sai a R$ 36,85 por 100 g. O FreshWhey da Dux tem as mesmas três proteínas, com 20 g em 30 g, e sai a R$ 72,19 por 100 g no Pix, ou R$ 75,98 no cartão. A diferença é de 49% no Pix.",
+          "A troca que muda a escolha é o adoçante. O 3W usa sucralose e lecitina de soja. O FreshWhey é adoçado com glicosídeos de esteviol (stévia) e taumatina, e a lista de ingredientes dele não traz sucralose nem lecitina. Para quem evita sucralose, o FreshWhey é a opção desta comparação. Por grama de proteína, ele custa cerca do dobro do 3W."
         ]
       },
       {
@@ -103369,12 +103439,12 @@ export const reviewsData: unknown[] = [
           "A comparação só fica justa se cada lado tiver o que ganha:"
         ],
         "bullets": [
-          "**A Max ganha no whey.** Pelo Pix, o [Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) custa 48% a menos por 100 g de proteína que o concentrado da Dux. O [3W](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) custa 50% a menos que o FreshWhey, e o [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p), 45% a menos que o isolado da Dux.",
+          "**A Max ganha no whey.** Pelo Pix, o [Refil](https://www.maxtitanium.com.br/100-whey-refil-900g/p) custa 48% a menos por 100 g de proteína que o concentrado da Dux. O [3W](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p) custa 49% a menos que o FreshWhey, e o [IsoWhey](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p), 45% a menos que o isolado da Dux.",
           "**A Max ganha na creatina.** A [monohidratada de 300 g da Max](https://www.maxtitanium.com.br/creatina-pote-300g/p) custa 9% a menos por grama que a da Dux, e o [pote de 500 g](https://www.maxtitanium.com.br/creatine-pote-500g/p), 22% a menos que o de 600 g. A [Creapure da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p) custa 38% a menos por grama que a da Dux.",
           "**A Max ganha no pré-treino por dose.** São R$ 2,81 contra R$ 6,41 no Pix.",
           "**A Max ganha no parcelamento e no frete.** São 6x sem juros no whey, contra 4x da Dux. O frete grátis da Max começa em R$ 134 no Sudeste, e o da Dux, em R$ 250.",
           "**A Dux ganha no multivitamínico por dia.** São R$ 0,84 contra R$ 1,85 no Pix. Uma cápsula da Dux traz 100% do valor diário de várias vitaminas, e a Max pede três. A tabela da Max traz mais minerais.",
-          "**A Dux ganha no adoçante do FreshWhey.** A stévia e a taumatina substituem a sucralose e a lecitina do 3W. Para quem evita sucralose, a Dux tem a linha.",
+          "**A Dux ganha no adoçante do FreshWhey.** O FreshWhey usa stévia e taumatina no lugar da sucralose do 3W, e a lista dele não traz lecitina de soja. Para quem evita sucralose, a Dux tem a linha.",
           "**A Dux ganha em sabores.** O concentrado tem 14 sabores na tabela da página, e tem um Neutro, só com WPC. O Refil da Max tem quatro sabores, e o IsoWhey, três.",
           "**A Dux ganha no pré-treino sem cafeína.** A Stim Free não traz linha de cafeína. A Max tem o Night Train, sem cafeína na ficha, que não entrou nesta comparação."
         ]
@@ -103388,7 +103458,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Quer o menor preço por 100 g de proteína no whey: o [100% Whey Refil 900 g da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p), a R$ 30,24 no Pix, ou R$ 27,21 com o cupom no teto.",
-          "Quer whey de três proteínas, com 40 g por dose: o [Top Whey 3W + Performance 900 g da Max](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p), a R$ 36,05 por 100 g no Pix. Quer o mesmo tipo de proteína com adoçante de stévia e taumatina: o FreshWhey da Dux, a R$ 72,19.",
+          "Quer whey de três proteínas, com 40 g por dose: o [Top Whey 3W + Performance 900 g da Max](https://www.maxtitanium.com.br/top-whey-3w-mais-performance-900g/p), a R$ 36,85 por 100 g no Pix. Quer o mesmo tipo de proteína com adoçante de stévia e taumatina: o FreshWhey da Dux, a R$ 72,19.",
           "Quer isolado: o [IsoWhey 900 g da Max](https://www.maxtitanium.com.br/iso-whey-900g-max-titanium/p) sai a R$ 40,56 por 100 g no Pix, contra R$ 74,01 do isolado da Dux.",
           "Quer a creatina mais barata por grama: o [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 16,98 por 100 g no Pix. Quer creatina com o selo Creapure: a [Creatina Creapure 250 g da Max](https://www.maxtitanium.com.br/creatina-creapure-250g/p), a R$ 54,28 por 100 g no Pix, contra R$ 87,05 da Dux.",
           "Quer multivitamínico pelo menor custo por dia: o da Dux, com uma cápsula, a R$ 0,84 no Pix. Quer mais minerais na tabela: o [Multimax Complex 90 cápsulas da Max](https://www.maxtitanium.com.br/multimax-complex-pote-com-90-capsulas/p), a R$ 1,85 por dia.",
@@ -103405,7 +103475,7 @@ export const reviewsData: unknown[] = [
           "Qual é o whey mais barato por 100 g de proteína? O [100% Whey Refil da Max](https://www.maxtitanium.com.br/100-whey-refil-900g/p); os valores no Pix e com cupom estão no capítulo de whey concentrado. O Whey Protein Concentrado de 900 g da Dux sai a R$ 58,41 no Pix.",
           "Qual é a creatina mais barata? O [pote de 500 g da Max](https://www.maxtitanium.com.br/creatine-pote-500g/p), a R$ 16,98 por 100 g no Pix. Entre as monohidratadas da Dux, a de 600 g sai a R$ 21,83 por 100 g no Pix.",
           "A Dux é boa marca? Esta comparação responde só pelo rótulo, pela fórmula que a Dux declara e pelo preço. A Dux diz que o concentrado é \"sem blends ou adição de outras proteínas\", com 20 g de proteína em 30 g. O de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
-          "A Dux tem cupom? Não. A Dux não é parceira do site, e o MAX10EMCASACOMCECILIA vale só na Max.",
+          "A Dux tem cupom? Não oferecemos cupom da Dux: ela não é parceira do site, e o MAX10EMCASACOMCECILIA vale só na Max.",
           "A Dux tem Creapure? A Dux diz que a linha 100% Creapure usa creatina Creapure. A Max também declara o selo na [Creatina Creapure 250 g](https://www.maxtitanium.com.br/creatina-creapure-250g/p).",
           "O cupom da Max vale no Pix? A página da loja diz que o cupom vale com todas as formas de pagamento. A conta com cupom deste texto é o teto: 10% sobre o preço do Pix.",
           "Os preços valem hoje? Eles mudam com as promoções. Confira no site de cada loja antes de comprar."
@@ -103464,6 +103534,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Probiótica ou Dux, com o PRO10EMCASACOMCECILIA e até 10% OFF na Probiótica: whey e creatina por 100 g de proteína e de creatina, Creapure e frete.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/probiotica-ou-dux-capa-discover.webp",
@@ -103689,8 +103760,8 @@ export const reviewsData: unknown[] = [
         "emphasis": "Pelos números da tabela, para o menor preço por grama no whey, na creatina e na Creapure a escolha é a Probiótica, porque ela sai mais barata nas três; para a lista de ingredientes mais enxuta, a escolha é a Dux.",
         "emphasisAfterParagraph": 1,
         "bullets": [
-          "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
-          "Quer o refil de 900 g: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
+          "Quer o menor preço por 100 g de proteína no whey: [100% Pure Whey Refil, 900 g](https://www.probiotica.com.br/100-pure-whey-refil-900g/p), a R$ 38,10 no Pix, ou R$ 34,29 com o cupom no teto.",
+          "Prefere o pote rígido de 900 g: [100% Pure Whey, pote de 900 g](https://www.probiotica.com.br/100-pure-whey-pote-900g/p), a R$ 40,82 no Pix, ou R$ 36,74 com o cupom no teto.",
           "Quer whey concentrado da Dux, incluindo o Neutro sem sabor: o pote de 900 g da Dux, a R$ 58,41 por 100 g de proteína no Pix. Fica acima da Probiótica nessa conta.",
           "Quer a creatina mais barata por grama: [Creatina Monohidratada Pura de 300 g](https://www.probiotica.com.br/creatina-300g/p), a R$ 18,97 no Pix, ou R$ 17,07 com o cupom no teto.",
           "Quer a creatina com a lista de um ingrediente só: a monohidratada de 300 g da Dux, a R$ 20,55 por 100 g no Pix, sem antiumectante.",
@@ -103704,10 +103775,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Probiótica ou Dux: qual é melhor? Depende da linha. No whey de 900 g, a Probiótica sai mais barata por 100 g de proteína. Na creatina de 300 g, também. A Dux tem a creatina com a lista mais curta. As duas vendem uma linha Creapure, e a da Probiótica sai mais barata por grama.",
-          "Qual o melhor whey, Probiótica ou Dux? Pelo preço por 100 g de proteína, o pote de 900 g da Probiótica, a R$ 40,82 no Pix. O concentrado de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
+          "Qual o melhor whey, Probiótica ou Dux? Pelo preço por 100 g de proteína, o refil de 900 g da Probiótica, a R$ 38,10 no Pix (R$ 40,82 no pote). O concentrado de 900 g da Dux sai a R$ 58,41 no Pix e R$ 61,48 no cartão.",
           "Qual a melhor creatina, Probiótica ou Dux? Por grama, a monohidratada de 300 g da Probiótica, a R$ 18,97 no Pix. A da Dux sai a R$ 20,55 no Pix.",
           "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz que a proteína do concentrado é só do soro do leite, sem blend, e declara Creapure na linha de 300 g. A creatina monohidratada dela lista só creatina. O concentrado de 900 g sai a R$ 61,48 por 100 g de proteína no cartão. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
-          "A Dux tem cupom? Não. A Dux não é parceira do site, e o PRO10EMCASACOMCECILIA vale só na Probiótica.",
+          "A Dux tem cupom nosso? Não. A Dux não é parceira do site, e o PRO10EMCASACOMCECILIA vale só na Probiótica; se a Dux tem promoção própria, a informação está no site dela.",
           "O cupom soma com o Pix? A regra do cupom diz que ele vale com todas as formas de pagamento. O desconto muda por item, e o resumo do pedido mostra quanto cada um recebeu.",
           "Os preços valem hoje? Eles são os da leitura da comparação e mudam com as promoções. Confira nos dois sites antes de comprar."
         ]
@@ -103761,10 +103832,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Mais Mu é uma empresa registrada, com CNPJ ativo e site oficial, mas a reputação recente no Reclame Aqui caiu para Regular. Veja trocas, reembolso e o que pesa na compra.",
+    "description": "A Mais Mu é uma empresa registrada, com CNPJ ativo e site oficial, mas em outubro a reputação no Reclame Aqui estava Regular. Veja trocas, reembolso e o que pesa na compra.",
     "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. A marca é confiável? Veja a empresa, o CNPJ, as regras de troca e a reputação no Reclame Aqui.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/mais-mu-confiavel-capa.webp",
@@ -103775,7 +103847,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, a Mais Mu é uma empresa registrada, operada por uma sociedade anônima com CNPJ ativo e sede em São Paulo. A reputação recente pede atenção: no Reclame Aqui a loja está como Regular, com a entrega como principal queixa. O capítulo sobre o Reclame Aqui e o veredito mostram o que pesa na compra; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
+          "Sim, a Mais Mu é uma empresa registrada, com CNPJ ativo e sede em São Paulo. A reputação pede atenção: em outubro, no Reclame Aqui, a loja estava como Regular, com a entrega como principal queixa. Os capítulos abaixo mostram o que pesa na compra; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
         ]
       },
       {
@@ -103823,7 +103895,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trocas e devolução",
         "paragraphs": [
-          "A troca começa por e-mail, com o produto fechado, e a loja paga o recolhimento:"
+          "Pela política de troca da loja, o pedido começa por e-mail, com o produto fechado, e a loja paga o recolhimento:"
         ],
         "comparisonTable": {
           "headers": [
@@ -103850,7 +103922,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "O prazo de arrependimento é de 7 dias para compra pela internet, pelo Código de Defesa do Consumidor (art. 49). A FAQ da loja não publica prazo próprio de arrependimento, então a lei é a referência.",
+          "O prazo de arrependimento é de 7 dias para compra pela internet, pelo Código de Defesa do Consumidor (art. 49). A FAQ da loja não publica prazo próprio de arrependimento, então a lei é a referência. A exigência de embalagem fechada é da política de troca da loja, não do arrependimento: se for desistir da compra, diga isso ao abrir o pedido.",
           "Guarde o número do pedido desde o primeiro contato. É ele que a loja pede para abrir a troca."
         ]
       },
@@ -103896,8 +103968,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "E a reputação no Reclame Aqui?",
         "paragraphs": [
-          "Nos últimos 6 meses, a Mais Mu está como Regular no Reclame Aqui, com nota 6,4 em 10. Nesse período, 95,5% das 112 reclamações foram respondidas, 67,9% foram resolvidas e 47,2% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos últimos 12 meses, a reputação é Boa, com nota 7,2 e 98,3% das reclamações respondidas. A queda veio no meio dos últimos 6 meses.",
-          "Na aba geral, as queixas mais citadas são produto não recebido e atraso na entrega, seguidas de produto com defeito. A loja é real e tem CNPJ ativo desde 2014. O que mudou foi a reputação recente, e a entrega é onde ela pesa.",
+          "Em outubro, a Mais Mu estava como Regular no Reclame Aqui nos últimos 6 meses, com nota 6,4 em 10. Nesse período, 95,5% das 112 reclamações foram respondidas, 67,9% foram resolvidas e 47,2% dos consumidores que avaliaram disseram que voltariam a fazer negócio. Nos últimos 12 meses, a reputação era Boa, com nota 7,2 e 98,3% das reclamações respondidas. A queda veio no meio dos últimos 6 meses.",
+          "Na aba geral, as queixas mais citadas são produto não recebido e atraso na entrega, seguidas de produto com defeito. A loja é real e tem CNPJ ativo desde 2014. O que mudou foi a reputação recente, e a entrega é onde ela pesa. O perfil muda com o tempo, então confira de novo no dia da compra.",
           "Na prática, acompanhe o rastreio desde a postagem e guarde o número do pedido. Se o prazo estourar, é com esses dados que você abre o chamado. Os números completos, aba por aba, estão em [Mais Mu no Reclame Aqui: nota, reclamações e o que os dados mostram](/reviews/mais-mu-reclame-aqui-nota-reputacao)."
         ]
       },
@@ -103915,19 +103987,19 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Vale a pena comprar no site da Mais Mu?",
         "paragraphs": [
-          "Do lado da empresa, a Mais Mu tem os dados que um comprador procura: razão social, CNPJ ativo, sede, site oficial identificado e regras de troca e reembolso publicadas. O ponto de atenção é a reputação recente. Nos últimos 6 meses, a loja está como Regular no Reclame Aqui, com a entrega como queixa principal.",
+          "Do lado da empresa, a Mais Mu tem os dados que um comprador procura: razão social, CNPJ ativo, sede, site oficial identificado e regras de troca e reembolso publicadas. O ponto de atenção é a reputação no Reclame Aqui: em outubro, nos últimos 6 meses, a loja estava como Regular, com a entrega como queixa principal.",
           "Se você for comprar, confira o endereço e o CNPJ no rodapé, acompanhe o rastreio do pedido e guarde o número. Use o cupom pelo checkout do site oficial."
         ]
       },
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "A Mais Mu é confiável? A loja é operada por empresa registrada, com CNPJ ativo desde 2014 e trocas publicadas no site. A reputação recente no Reclame Aqui é Regular nos últimos 6 meses, com nota 6,4, e a entrega é a principal queixa.",
+          "A Mais Mu é confiável? A loja é operada por empresa registrada, com CNPJ ativo desde 2014 e trocas publicadas no site. Em outubro, a reputação no Reclame Aqui era Regular nos últimos 6 meses, com nota 6,4, e a entrega era a principal queixa.",
           "De qual empresa é a Mais Mu? A loja é operada pela MAIS MU COMÉRCIO DE ALIMENTOS E BEBIDAS S.A., nome que aparece na política de privacidade do site.",
           "Qual é o CNPJ da Mais Mu? O CNPJ é 21.526.148/0001-34. Na consulta pública, ele aparece como ativo desde 2014.",
           "O site da Mais Mu é o oficial e como conferir? O endereço oficial é lojamaismu.com.br. Confira o endereço na barra do navegador e compare o CNPJ do rodapé com a consulta pública.",
           "A Mais Mu tem telefone de atendimento? Não. A loja não publica telefone no site. O contato é pelo formulário da página de contato ou pelo e-mail fala.ai@maismu.com.br, do rodapé.",
-          "Quanto tempo tenho para trocar ou devolver um produto da Mais Mu? A compra pela internet tem 7 dias de arrependimento pela lei (CDC, art. 49), e a FAQ da loja não publica prazo próprio. Para troca ou devolução, o produto precisa estar na embalagem original, fechado e sem sinais de uso.",
+          "Quanto tempo tenho para trocar ou devolver um produto da Mais Mu? A compra pela internet tem 7 dias de arrependimento pela lei (CDC, art. 49), e a FAQ da loja não publica prazo próprio. Pela política de troca da loja, o produto precisa estar na embalagem original, fechado e sem sinais de uso; essa condição é da troca, não do prazo de arrependimento.",
           "Quando o reembolso cai no Pix e no cartão? No Pix e no boleto, em até 7 dias úteis depois do envio dos dados bancários. No cartão, o estorno sai em até 48 horas úteis, creditado em até duas faturas.",
           "A Mais Mu tem frete grátis? Sim. O frete era grátis acima de R$ 299 no Sul, Sudeste e Centro-Oeste, e acima de R$ 399 no Norte e Nordeste. Abaixo disso, o frete é calculado no checkout.",
           "Tem cupom de primeira compra na Mais Mu? O nosso cupom é o MMEMCASACOMCECILIA, com 10% OFF em todo o site, para conta nova e antiga. A loja não acumula cupons, então o cashback e o desconto de boas-vindas não somam com ele."
@@ -103973,10 +104045,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Mais Mu tem reputação Regular no Reclame Aqui nos últimos seis meses, com nota 6,4. Veja os números, as queixas mais comuns e o que fazer se o pedido der problema.",
-    "metaDescription": "Com o MMEMCASACOMCECILIA, 10% OFF na Mais Mu: a reputação Regular no Reclame Aqui (6,4), 67,9% resolvidas e as queixas sobre entrega.",
+    "description": "Em outubro, a Mais Mu tinha reputação Regular no Reclame Aqui nos últimos seis meses (nota 6,4). Veja as queixas mais comuns e o que fazer se o pedido der problema.",
+    "metaDescription": "Com o MMEMCASACOMCECILIA, 10% OFF na Mais Mu: reputação Regular (6,4) no Reclame Aqui em outubro, 67,9% resolvidas e queixas de entrega.",
     "publishedAt": "20 de outubro de 2026",
     "publishedAtISO": "2026-10-20",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/mais-mu-reclame-aqui-capa-discover.webp",
@@ -103987,7 +104060,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Hoje a reputação da Mais Mu no Reclame Aqui é Regular nos últimos seis meses, com nota 6,4, e Boa na janela de 12 meses. A loja responde quase todas as reclamações, mas nem todas ficam resolvidas. Os capítulos abaixo trazem os números, as queixas mais comuns e o que fazer se o pedido der problema; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
+          "Em outubro, a reputação da Mais Mu no Reclame Aqui era Regular nos últimos seis meses, com nota 6,4, e Boa em 12 meses. A loja responde quase todas, mas nem todas ficam resolvidas. Abaixo estão os números, as queixas e o que fazer se o pedido der problema; para comprar com desconto, veja o [cupom Mais Mu](/cupons/mais-mu)."
         ]
       },
       {
@@ -104089,7 +104162,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como a reputação mudou",
         "paragraphs": [
-          "No gráfico de histórico dos últimos 6 meses, os dois primeiros pontos estão em Boa e os quatro seguintes em Regular. A reputação saiu de Boa para Regular no meio desse período.",
+          "Na mesma leitura, o gráfico de histórico dos últimos 6 meses tinha os dois primeiros pontos em Boa e os quatro seguintes em Regular. A reputação saiu de Boa para Regular no meio desse período.",
           "A aba de 12 meses segue em Boa, com nota 7,2, porque inclui os seis meses anteriores a esses. O gráfico não mostra as causas da mudança. Ele mostra só quando a faixa mudou."
         ],
         "images": [
@@ -104146,10 +104219,10 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Atraso, endereço errado, pedido avariado ou item faltando: acompanhe o rastreio no rastreae.com.br, com o código do e-mail ou o CPF, e escreva para fala.ai@maismu.com.br com o número do pedido.",
-          "Troca ou devolução: o produto precisa estar na embalagem original, fechada e sem sinais de uso. Peça pelo e-mail. A loja cobre o recolhimento, e o reembolso ou o reenvio saem em até 7 dias úteis depois da avaliação na unidade.",
+          "Troca ou devolução: pela política da loja, o produto precisa estar na embalagem original, fechada e sem sinais de uso. Peça pelo e-mail. A loja cobre o recolhimento, e o reembolso ou o reenvio saem em até 7 dias úteis depois da avaliação na unidade.",
           "Pedido devolvido pela transportadora: a loja faz o reenvio sem custo para você, depois do e-mail com o número do pedido, o rastreio e o endereço.",
           "Reembolso: volta na mesma forma de pagamento. No Pix e no boleto, em até 7 dias úteis depois do envio dos dados. No cartão, em até 48 horas úteis; no crédito, pode levar até duas faturas.",
-          "Arrependimento: em compra pela internet, o Código de Defesa do Consumidor dá 7 dias para desistir (art. 49). O FAQ da loja não traz prazo próprio para isso."
+          "Arrependimento: em compra pela internet, o Código de Defesa do Consumidor dá 7 dias para desistir (art. 49). O FAQ da loja não traz prazo próprio para isso, e a exigência de embalagem fechada é da política de troca, não do arrependimento."
         ],
         "postParagraphs": [
           "Se o atendimento não resolver, o Reclame Aqui registra a queixa e mostra a resposta da empresa no perfil."
@@ -104169,7 +104242,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Dá para confiar na Mais Mu?",
         "paragraphs": [
-          "Na última leitura, a reputação recente da Mais Mu no Reclame Aqui era Regular, com nota 6,4, enquanto a janela de 12 meses seguia Boa, com nota 7,2. A loja responde quase todas as reclamações (95,5% nos últimos 6 meses), mas resolveu 67,9% delas, e 47,2% de quem avaliou disse que voltaria a comprar.",
+          "Em outubro, a reputação recente da Mais Mu no Reclame Aqui era Regular, com nota 6,4, enquanto a janela de 12 meses seguia Boa, com nota 7,2. A loja responde quase todas as reclamações (95,5% nos últimos 6 meses), mas resolveu 67,9% delas, e 47,2% de quem avaliou disse que voltaria a comprar.",
           "Dá para comprar com atenção: guarde o número do pedido, acompanhe o rastreio e, se algo atrasar, escreva para o canal de atendimento da loja. Para a visão geral da empresa, veja [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel)."
         ]
       },
@@ -104177,10 +104250,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "A Mais Mu é confiável segundo o Reclame Aqui? O perfil mostrava reputação Regular nos últimos 6 meses, com nota 6,4, e Boa nos 12 meses, com nota 7,2. Veja a análise completa em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
-          "Qual a nota da Mais Mu no Reclame Aqui? Nota 6,4 nos últimos 6 meses, 7,2 nos últimos 12 meses e 7,7 na aba geral.",
-          "A Mais Mu responde às reclamações? Sim, na maior parte. Nos últimos 6 meses, 95,5% das reclamações foram respondidas, e 67,9% foram resolvidas.",
+          "Qual a nota da Mais Mu no Reclame Aqui? Em outubro, nota 6,4 nos últimos 6 meses, 7,2 nos últimos 12 meses e 7,7 na aba geral.",
+          "A Mais Mu responde às reclamações? Sim, na maior parte. Em outubro, nos últimos 6 meses, 95,5% das reclamações foram respondidas, e 67,9% foram resolvidas.",
           "O que fazer se o pedido da Mais Mu atrasar? Acompanhe o rastreio no rastreae.com.br e escreva para fala.ai@maismu.com.br com o número do pedido.",
-          "Como pedir troca ou reembolso na Mais Mu? Escreva para fala.ai@maismu.com.br com o número do pedido. O produto precisa estar na embalagem original, fechada e sem sinais de uso, e o reembolso sai na mesma forma de pagamento."
+          "Como pedir troca ou reembolso na Mais Mu? Escreva para fala.ai@maismu.com.br com o número do pedido. Pela política da loja, o produto precisa estar na embalagem original, fechada e sem sinais de uso; essa condição é da troca, não do arrependimento. O reembolso sai na mesma forma de pagamento."
         ]
       }
     ],
@@ -104631,6 +104704,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. Mais Mu ou Growth: whey e creatina por 100 g, com preço no cartão, no Pix e com cupom.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/mais-mu-ou-growth-capa-discover.webp",
@@ -104641,7 +104715,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "A Growth sai mais barata no whey em todas as formas de pagamento, e a Mais Mu ganha na creatina quando entra o cupom. O que decide é o produto que você compra; veja abaixo as contas por 100 g e o capítulo Quem escolhe o quê."
+          "Nos preços de outubro, a Growth sai mais barata no whey em todas as formas de pagamento, e a Mais Mu ganha na creatina sem sabor quando entra o cupom. O que decide é o produto que você compra; veja abaixo as contas por 100 g e o capítulo Quem escolhe o quê."
         ]
       },
       {
@@ -104661,7 +104735,7 @@ export const reviewsData: unknown[] = [
         },
         "bullets": [
           "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
-          "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",
+          "**preço por 100 g de creatina:** preço ÷ gramas de creatina do pote × 100 (na limonada e na melancia, 3 g de creatina em cada dose de 3,5 g);",
           "**com cupom:** preço no cartão × 0,90, os 10% do cupom;",
           "**com cupom e Pix:** preço no cartão × 0,873, com o cupom e depois os 3% do Pix."
         ],
@@ -104773,14 +104847,14 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: refil de 500 g sem sabor contra o pouch da Growth",
         "paragraphs": [
-          "A dose da creatina sem sabor da Mais Mu é de 3 g, e a da Growth, de 5 g; por isso a conta é por 100 g. Por dose, a Mais Mu sai menor: R$ 0,48 no refil, contra R$ 0,83 no pouch da Growth, no cartão."
+          "A dose da creatina sem sabor da Mais Mu é de 3 g, e a da Growth, de 5 g; por isso a conta é por 100 g. Por dose, a Mais Mu sai menor: R$ 0,48 no refil, contra R$ 0,83 no pouch da Growth, no cartão. Na limonada e na melancia, 3 g dos 3,5 g da dose são creatina, e a coluna divide o preço só por ela."
         ],
         "comparisonTable": {
           "headers": [
             "Produto",
             "Dose e porções",
             "Cartão",
-            "Por 100 g (cartão)"
+            "Por 100 g de creatina (cartão)"
           ],
           "rows": [
             [
@@ -104793,13 +104867,13 @@ export const reviewsData: unknown[] = [
               "[Creatina Mais Mu refil melancia 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/)",
               "3,5 g, cerca de 143",
               "R$ 79,90",
-              "R$ 15,98"
+              "R$ 18,64"
             ],
             [
               "[Creatina Mais Mu limonada 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/)",
               "3,5 g, 60",
               "R$ 64,90",
-              "R$ 30,90"
+              "R$ 36,06"
             ],
             [
               "[Creatina Mais Mu sem sabor 200 g](https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/)",
@@ -104817,7 +104891,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No Pix, o refil sem sabor sai a R$ 15,50 por 100 g, e o pouch da Growth, a R$ 14,98; com o cupom e o Pix somados, o refil cai para R$ 13,95.",
-          "O pote de 200 g sem sabor é o mais caro por grama desta tabela, e os sabores de limonada e de melancia seguem o preço de cada linha. Os potes de 500 g e de 250 g da Growth, com dose de 5 g, saem a R$ 18,87 e R$ 19,95 por 100 g no cartão. Para a conta da Growth em outra creatina, veja [o comparativo da creatina da Nutren com a Growth](/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed)."
+          "A limonada de 210 g (R$ 36,06) e o pote de 200 g sem sabor (R$ 32,45) são os mais caros por grama de creatina desta tabela, e a melancia, em R$ 18,64, fica acima do refil sem sabor. Os potes de 500 g e de 250 g da Growth, com dose de 5 g, saem a R$ 18,87 e R$ 19,95 por 100 g no cartão. Para a conta da Growth em outra creatina, veja [o comparativo da creatina da Nutren com a Growth](/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed)."
         ],
         "images": [
           {
@@ -104840,10 +104914,10 @@ export const reviewsData: unknown[] = [
           "**A Growth ganha na creatina no Pix, sem cupom.** O pouch de 500 g sai a R$ 14,98 por 100 g, contra R$ 15,50 do refil da Mais Mu.",
           "**A Mais Mu ganha na creatina com o cupom.** O refil de 500 g sai a R$ 14,38 por 100 g com o cupom no cartão, e a R$ 13,95 com cupom e Pix, abaixo do pouch da Growth no Pix, que não tem cupom.",
           "**A Mais Mu ganha na creatina no cartão, sem cupom.** São R$ 15,98 contra R$ 16,64 do pouch.",
-          "**Entre as linhas desta conta, só a Mais Mu tem creatina com sabor.** São limonada e melancia, pelo mesmo preço por 100 g do sem sabor no refil de 500 g."
+          "**Entre as linhas desta conta, só a Mais Mu tem creatina com sabor.** São limonada e melancia, a R$ 36,06 e R$ 18,64 por 100 g de creatina no cartão, acima do sem sabor no refil de 500 g."
         ],
         "postParagraphs": [
-          "Não há um veredito único: a Growth vence no whey por proteína, mesmo contra o refil de 1,8 kg da Mais Mu com cupom e Pix, e a Mais Mu vence na creatina quando entra o cupom."
+          "Não há um veredito único: nos preços de outubro, a Growth vence no whey por proteína, mesmo contra o refil de 1,8 kg da Mais Mu com cupom e Pix, e a Mais Mu vence na creatina quando entra o cupom."
         ]
       },
       {
@@ -104857,7 +104931,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela, para quem compra whey a escolha é a Growth, porque vence por 100 g de proteína em todas as formas de pagamento; para quem compra creatina com cupom, a escolha é o refil de 500 g da Mais Mu.",
+        "emphasis": "Pelos números da tabela de outubro, para quem compra whey a escolha é a Growth, porque vence por 100 g de proteína em todas as formas de pagamento; para quem compra creatina com cupom, a escolha é o refil de 500 g da Mais Mu.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
@@ -104867,7 +104941,7 @@ export const reviewsData: unknown[] = [
           "Quer isolado pelo menor preço: a Growth de 1 kg, a R$ 39,27 no Pix. Na Mais Mu, o [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 62,53 com cupom e Pix.",
           "Quer creatina sem sabor com cupom: o [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 13,95 por 100 g com cupom e Pix.",
           "Quer creatina no Pix sem cupom: o pouch de 500 g da Growth, a R$ 14,98 por 100 g.",
-          "Quer creatina com sabor: a [creatina limonada de 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/) ou a [creatina refil melancia de 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/) da Mais Mu, a R$ 30,90 e a R$ 15,98 por 100 g no cartão.",
+          "Quer creatina com sabor: a [creatina limonada de 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/) ou a [creatina refil melancia de 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/) da Mais Mu, a R$ 36,06 e a R$ 18,64 por 100 g de creatina no cartão.",
           "Quer um produto com o selo Creapure: as páginas da Mais Mu lidas não declaram o selo; confira o rótulo do pote."
         ],
         "postParagraphs": [
@@ -104877,7 +104951,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Mais Mu ou Growth: qual é melhor? Depende da linha: a Growth vence no whey por proteína, e a Mais Mu, na creatina com cupom.",
+          "Mais Mu ou Growth: qual é melhor? Depende da linha e do preço do dia: nos preços de outubro, a Growth vence no whey por proteína, e a Mais Mu, na creatina sem sabor com cupom.",
           "Qual whey tem o menor preço por 100 g de proteína? A Growth concentrado de 1 kg, a R$ 26,34 no Pix; entre os da Mais Mu, o [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 43,65 com cupom e Pix.",
           "A Mais Mu é boa? Esta comparação responde só pelo rótulo, pela dose e pelo preço; a reputação e as reclamações da loja estão no [artigo sobre a confiança na Mais Mu](/reviews/mais-mu-e-confiavel).",
           "A creatina da Mais Mu é pura? O nome do produto diz 100% Pura, e o rótulo do sem sabor lista só creatina monohidratada.",
@@ -104939,6 +105013,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mais Mu ou Dux: whey e creatina por 100 g de proteína e de creatina, com o cupom MMEMCASACOMCECILIA de 10% OFF na Mais Mu.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/mais-mu-ou-dux-capa-discover.webp",
@@ -104949,7 +105024,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo preço no cartão, a Mais Mu sai mais barata por 100 g de proteína no whey e por grama de creatina, e a Dux leva a proteína por dose, o Pix de 5% e a única Creapure declarada. O que pesa mais é o seu uso; veja abaixo as tabelas e o capítulo Quem escolhe o quê."
+          "Nos preços de outubro, no cartão, a Mais Mu sai mais barata por 100 g de proteína no whey e por grama de creatina sem sabor. A Dux leva o pó mais concentrado em proteína, o Pix de 5% e a única Creapure declarada. O que pesa mais é o seu uso; veja Quem escolhe o quê."
         ]
       },
       {
@@ -104970,7 +105045,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "preço por dose: preço ÷ número de doses;",
           "preço por 100 g de proteína: preço ÷ (doses × proteína por dose) × 100;",
-          "preço por 100 g de creatina: preço ÷ gramas × 100;",
+          "preço por 100 g de creatina: preço ÷ gramas de creatina × 100 (na limonada e na melancia, 3 g de creatina em cada dose de 3,5 g de pó);",
           "com cupom: cartão × 0,90; com cupom e Pix: cartão × 0,873."
         ],
         "postParagraphs": [
@@ -105105,7 +105180,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creatina: preço por 100 g e por dose",
         "paragraphs": [
-          "Por 100 g, no cartão e sem cupom: a dose vem do rótulo, 3 g na sem sabor da Mais Mu, 3,5 g na limonada e na melancia, 5 g na monohidratada da Dux e 3 g na Creapure."
+          "Por 100 g, no cartão e sem cupom: a dose vem do rótulo, 3 g na sem sabor da Mais Mu, 3,5 g na limonada e na melancia, 5 g na monohidratada da Dux e 3 g na Creapure. Na limonada e na melancia, 3 g dos 3,5 g da dose são creatina, e a coluna divide o preço só por ela."
         ],
         "comparisonTable": {
           "headers": [
@@ -105113,7 +105188,7 @@ export const reviewsData: unknown[] = [
             "Dose",
             "Doses",
             "Cartão",
-            "Por 100 g"
+            "Por 100 g de creatina"
           ],
           "rows": [
             [
@@ -105135,14 +105210,14 @@ export const reviewsData: unknown[] = [
               "3,5 g",
               "60",
               "R$ 64,90",
-              "R$ 30,90"
+              "R$ 36,06"
             ],
             [
               "[Creatina Mais Mu Performance Refil Melancia 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/)",
               "3,5 g",
               "cerca de 143",
               "R$ 79,90",
-              "R$ 15,98"
+              "R$ 18,64"
             ],
             [
               "Dux Creatina Monohidratada 300 g",
@@ -105210,31 +105285,31 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Onde cada uma ganha",
         "paragraphs": [
-          "A Dux leva proteína por dose, Creapure, Pix e frete; a Mais Mu leva preço por grama e cupom:"
+          "A Dux leva o pó mais concentrado em proteína, Creapure, Pix e frete; a Mais Mu leva preço por grama e cupom:"
         ],
         "bullets": [
-          "**Dux:** 20 g de proteína em 30 g no concentrado, ou 67% da dose, contra 20 g em 36 g da Mais Mu (56%). No isolado, 24 g por dose contra 22 g.",
+          "**Dux:** no concentrado, a mesma dose de 20 g de proteína vem em 30 g de pó (67%), contra 36 g da Mais Mu (56%). No isolado, 24 g por dose contra 22 g.",
           "**Dux:** a creatina de 300 g, pelo mesmo preço de R$ 64,90 no cartão, traz 50% mais creatina que a Mais Mu de 200 g.",
           "**Dux:** a única Creapure declarada entre as duas, com \"100% Creapure\" na página.",
           "**Dux:** Pix de 5%, e frete grátis a partir de R$ 250 no Sudeste, contra R$ 299 da Mais Mu.",
           "**Dux:** o concentrado de 900 g sai em 13 sabores, com o Neutro, e o isolado de 900 g, em 11. Sabor não entra na conta.",
           "**Mais Mu:** preço por 100 g de proteína no concentrado a partir do refil de 900 g (R$ 56,00 contra R$ 61,48 no cartão) e no 1,8 kg (R$ 50,00 contra R$ 53,99).",
           "**Mais Mu:** preço por 100 g de proteína no isolado do refil de 900 g (R$ 71,63 contra R$ 77,90 no cartão).",
-          "**Mais Mu:** preço por grama de creatina no refil de 500 g (R$ 15,98 contra R$ 21,63 da Dux de 300 g).",
-          "**Mais Mu:** cupom de 10% em todo o site, inclusive em produto em oferta. A Dux não tem cupom.",
+          "**Mais Mu:** preço por grama de creatina no refil de 500 g sem sabor (R$ 15,98 contra R$ 21,63 da Dux de 300 g).",
+          "**Mais Mu:** cupom de 10% em todo o site, inclusive em produto em oferta. Não temos cupom da Dux.",
           "**Mais Mu:** no isolado, a página diz \"não contém glúten\"; a da Dux diz \"contém glúten\"."
         ]
       },
       {
         "heading": "Quem escolhe o quê",
-        "emphasis": "Pelos números da tabela, para quem compra pelo menor preço por 100 g a escolha é a Mais Mu, porque vence no concentrado e no isolado a partir do refil e na creatina do refil de 500 g; para quem quer mais proteína por dose ou o selo Creapure declarado, a escolha é a Dux.",
+        "emphasis": "Pelos números da tabela de outubro, para quem compra pelo menor preço por 100 g a escolha é a Mais Mu, porque vence no concentrado e no isolado a partir do refil e na creatina do refil de 500 g; para quem quer o pó mais concentrado em proteína ou o selo Creapure declarado, a escolha é a Dux.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Pelos rótulos e pelos preços:"
         ],
         "bullets": [
           "Quer o menor preço por 100 g de proteína no whey: o [Whey Concentrado Mais Mu Baunilha Refil 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 50,00 no cartão, R$ 48,50 no Pix e R$ 43,65 com cupom e Pix.",
-          "Quer mais proteína por dose e não depende de cupom: o concentrado da Dux, com 20 g em 30 g. O de 900 g sai a R$ 58,41 por 100 g no Pix, e o de 1,8 kg, a R$ 51,29.",
+          "Quer o pó mais concentrado em proteína e não depende de cupom: o concentrado da Dux, com 20 g de proteína em 30 g de pó. O de 900 g sai a R$ 58,41 por 100 g no Pix, e o de 1,8 kg, a R$ 51,29.",
           "Quer isolado: o [Whey Isolado Mais Mu Baunilha Refil 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 71,63 no cartão, R$ 69,48 no Pix e R$ 62,53 com cupom e Pix. Quer 24 g de proteína por dose: o isolado da Dux, a R$ 77,90 no cartão.",
           "Quer creatina pelo menor preço por grama: a [Creatina Mais Mu Sem Sabor Refil 500 g](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 15,98 no cartão, R$ 15,50 no Pix e R$ 13,95 com cupom e Pix.",
           "Quer creatina com o selo Creapure declarado: a Dux de 300 g, a R$ 91,63 por 100 g no cartão e R$ 87,05 no Pix."
@@ -105246,10 +105321,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Mais Mu ou Dux: qual whey? No concentrado, a Mais Mu sai mais barata por 100 g de proteína a partir do refil de 900 g. A Dux tem mais proteína por dose: 20 g em 30 g, contra 20 g em 36 g.",
+          "Mais Mu ou Dux: qual whey? No concentrado, a Mais Mu sai mais barata por 100 g de proteína a partir do refil de 900 g. A dose de proteína é a mesma, 20 g, mas a Dux a entrega em 30 g de pó, contra 36 g da Mais Mu.",
           "Qual creatina compensa mais? Por grama, o refil de 500 g da Mais Mu, a R$ 15,98 no cartão. A Dux de 300 g sai a R$ 21,63, e a Creapure dela, a R$ 91,63.",
           "A Dux é boa marca? Este texto responde só pelo rótulo, pela fórmula declarada e pelo preço. A Dux diz \"proteína 100% pura, sem blends\" no concentrado. Sabor, qualidade geral e avaliações de clientes ficam fora deste texto.",
-          "A Dux tem cupom? Não. A Dux não é parceira do site, e o MMEMCASACOMCECILIA vale só na Mais Mu.",
+          "A Dux tem cupom? Nós não temos cupom da Dux: ela não é parceira do site, e o MMEMCASACOMCECILIA vale só na Mais Mu.",
           "A Mais Mu é boa? Este texto não responde a isso. Reputação e confiança da loja estão em [Mais Mu é confiável?](/reviews/mais-mu-e-confiavel).",
           "Creatina Mais Mu é pura? A página diz \"100% Pura\", monohidratada e \"não é de origem animal\". É o que o texto da loja diz; não há laudo de terceiros neste texto.",
           "Creatina Mais Mu tem selo Creapure? As páginas da Mais Mu não declaram Creapure nem laudo.",
@@ -105264,7 +105339,7 @@ export const reviewsData: unknown[] = [
         "Leve a Dux se você quer o selo Creapure declarado e aceita pagar bem mais por grama de creatina."
       ],
       "skipIf": [
-        "Passe na Dux se você depende de cupom: ela não tem.",
+        "Passe na Dux se você depende de cupom: não temos cupom da Dux.",
         "Passe na Mais Mu se você pesa o Pix maior e o frete grátis mais baixo: a Dux leva nos dois."
       ]
     },
@@ -107985,6 +108060,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw na Hostinger com o SONAR20 e 20% OFF: gerenciado ou VPS, o preço com e sem o código, a renovação, os créditos de IA e quem cuida do servidor.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
@@ -108048,7 +108124,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Acesso root",
-              "A página fala em acesso à linha de comando, sem citar root",
+              "Não",
               "Sim"
             ],
             [
@@ -108085,7 +108161,7 @@ export const reviewsData: unknown[] = [
         "postParagraphs": [
           "Com o SONAR20, o gerenciado sai R$ 96 mais barato que o KVM 1 nos primeiros 24 meses. Depois, os dois custam o mesmo. A renovação vem ligada por padrão; veja [como a Hostinger cobra e renova](/reviews/hostinger-e-confiavel).",
           "O plano não é tudo: o uso da IA entra à parte. Com os créditos da Hostinger, o gerenciado traz um saldo inicial, e o que passar dele é cobrado conforme o consumo. O preço da recarga não aparece em nenhuma página pública, então confira no painel antes de contar com ele. Com a sua chave, o provedor (OpenAI, Anthropic ou outro) cobra direto de você, conforme o modelo e o volume de conversas.",
-          "O gerenciado tem 30 dias para pedir reembolso. No VPS, os 30 dias valem só se o último reembolso de VPS tiver sido pedido há mais de 180 dias. VPS de 12 meses ou mais leva um domínio .cloud ou .tech grátis no primeiro ano."
+          "O gerenciado tem 30 dias para pedir reembolso. No VPS, os 30 dias valem só quando já passaram 180 dias da conclusão do último reembolso de VPS, se houve um; confira as exceções na política de reembolso da Hostinger. VPS de 12 meses ou mais leva um domínio .cloud ou .tech grátis no primeiro ano."
         ]
       },
       {
@@ -108112,10 +108188,10 @@ export const reviewsData: unknown[] = [
         "heading": "Segurança: quando muda a decisão",
         "paragraphs": [
           "A pergunta é quem cuida dos dados e das credenciais. No gerenciado, a Hostinger diz que cada instância roda isolada num contêiner, com um gateway de segurança próprio. É a descrição da Hostinger, não um teste nosso. No VPS, a própria Hostinger diz que, com acesso root, a configuração, as atualizações e a segurança ficam com quem contratou.",
-          "A política de segurança do OpenClaw diz que ele é feito para uma pessoa de confiança, não para várias pessoas que não se conhecem: quem consegue falar com o assistente pode fazer com que ele use as ferramentas dele. Isso muda a escolha em três casos:"
+          "A documentação do OpenClaw diz que cada gateway é um único limite de confiança: serve a uma pessoa ou a uma equipe em que todos confiam uns nos outros, e não a pessoas que não confiam entre si. Quem consegue falar com o assistente pode fazer com que ele use as ferramentas dele. Isso muda a escolha em três casos:"
         ],
         "bullets": [
-          "**Mais de uma pessoa vai usar o assistente** (família ou equipe): o projeto recomenda um servidor por pessoa. No VPS, isso é direto; no gerenciado, pergunte à Hostinger quantas instâncias uma conta pode ter.",
+          "**Mais de uma pessoa vai usar o assistente** (família ou equipe): só se todos confiam uns nos outros, porque todos dividem o acesso do assistente às ferramentas; quem não confia precisa de um servidor separado. No VPS, isso é direto; no gerenciado, pergunte à Hostinger quantas instâncias uma conta pode ter.",
           "**O assistente vai ter acesso ao seu e-mail, ao banco ou a outras contas:** o projeto pede que o servidor não tenha contas pessoais logadas. A Hostinger sugere uma caixa de e-mail separada para o assistente.",
           "**No VPS, guarde o token do gateway** que a instalação gera e não o mande em conversa com o assistente."
         ]
@@ -108212,7 +108288,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Passe no VPS se você não sabe o que é root nem Docker: atualizar e proteger o sistema fica com você.",
         "Passe no gerenciado se você precisa de acesso root ou de mais memória e disco.",
-        "Passe se o mesmo assistente vai atender várias pessoas: o projeto recomenda um servidor por pessoa."
+        "Passe se o mesmo assistente vai atender pessoas que não confiam umas nas outras: o projeto pede um servidor separado para cada uma."
       ]
     },
     "pros": [],
@@ -108274,6 +108350,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Managed or VPS for OpenClaw on Hostinger: AI credits, Telegram and WhatsApp, and who looks after the server.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -108328,7 +108405,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Root access",
-              "The page mentions command-line access, without saying root",
+              "No",
               "Yes"
             ],
             [
@@ -108358,7 +108435,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "The plan is not the whole cost: AI usage is charged separately. With Hostinger's credits, the managed plan comes with a starting balance, and whatever goes beyond it is charged by use. The price of a top-up does not appear on any public page, so check the panel before you count on it. With your own key, the provider (OpenAI, Anthropic or another) charges you directly, depending on the model and the number of conversations.",
-          "The managed plan has a 30-day refund window. On the VPS, the 30 days apply only if your last VPS refund was requested more than 180 days ago. A VPS of 12 months or more comes with a free .cloud or .tech domain for the first year."
+          "The managed plan has a 30-day refund window. On the VPS, the 30 days apply only once 180 days have passed since your last VPS refund was completed, if you had one; check Hostinger's refund policy for exceptions. A VPS of 12 months or more comes with a free .cloud or .tech domain for the first year."
         ]
       },
       {
@@ -108385,10 +108462,10 @@ export const reviewsData: unknown[] = [
         "heading": "Security: when the decision changes",
         "paragraphs": [
           "The question is who looks after the data and the credentials. On managed, Hostinger says each instance runs isolated in a container, with its own security gateway. That is Hostinger's description, not a test of ours. On the VPS, Hostinger itself says that, with root access, the setup, the updates and the security are the responsibility of whoever bought it.",
-          "OpenClaw's security policy says it is built for one trusted person, not for several people who do not know each other: whoever can talk to the assistant can make it use its tools. That changes the choice in three cases:"
+          "OpenClaw's documentation says each gateway is a single trust boundary: it suits one person or a team whose members trust each other, not people who do not trust each other. Whoever can talk to the assistant can make it use its tools. That changes the choice in three cases:"
         ],
         "bullets": [
-          "**More than one person will use the assistant** (family or team): the project recommends one server per person. On the VPS, that is straightforward; on managed, ask Hostinger how many instances one account can have.",
+          "**More than one person will use the assistant** (family or team): only if everyone trusts each other, because they all share the assistant's access to its tools; people who do not trust each other need a separate server. On the VPS, that is straightforward; on managed, ask Hostinger how many instances one account can have.",
           "**The assistant will have access to your email, your bank or other accounts:** the project asks that the server have no personal accounts logged in. Hostinger suggests a separate mailbox for the assistant.",
           "**On the VPS, keep the gateway token** that the installation generates, and don't send it in a conversation with the assistant."
         ]
@@ -108465,7 +108542,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Skip the VPS if you don't know what root or Docker is: updating and securing the system falls to you.",
         "Skip managed if you need root access or more memory and disk.",
-        "Skip both if the same assistant will serve several people: the project recommends one server per person."
+        "Skip both if the same assistant will serve people who do not trust each other: the project asks for a separate server for each."
       ]
     }
   },
@@ -108505,6 +108582,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Gestionado o VPS para OpenClaw en Hostinger: créditos de IA, Telegram y WhatsApp, y quién se encarga del servidor.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -108559,7 +108637,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Acceso root",
-              "La página habla de acceso a la línea de comandos, sin mencionar root",
+              "No",
               "Sí"
             ],
             [
@@ -108589,7 +108667,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "El plan no es todo: el uso de la IA se cobra aparte. Con los créditos de Hostinger, el gestionado trae un saldo inicial, y lo que pase de ahí se cobra según el consumo. El precio de una recarga no aparece en ninguna página pública, así que revísalo en el panel antes de contar con él. Con tu propia clave, el proveedor (OpenAI, Anthropic u otro) te cobra directamente, según el modelo y el volumen de conversaciones.",
-          "El plan gestionado tiene 30 días para pedir el reembolso. En el VPS, los 30 días valen solo si el último reembolso de VPS se pidió hace más de 180 días. Un VPS de 12 meses o más incluye un dominio .cloud o .tech gratis el primer año."
+          "El plan gestionado tiene 30 días para pedir el reembolso. En el VPS, los 30 días valen solo cuando han pasado 180 días desde que se completó el último reembolso de VPS, si lo hubo; consulta las excepciones en la política de reembolso de Hostinger. Un VPS de 12 meses o más incluye un dominio .cloud o .tech gratis el primer año."
         ]
       },
       {
@@ -108616,10 +108694,10 @@ export const reviewsData: unknown[] = [
         "heading": "Seguridad: cuándo cambia la decisión",
         "paragraphs": [
           "La pregunta es quién cuida los datos y las credenciales. En el gestionado, Hostinger dice que cada instancia se ejecuta aislada en un contenedor, con una pasarela de seguridad propia. Es la descripción de Hostinger, no una prueba nuestra. En el VPS, la propia Hostinger dice que, con acceso root, la configuración, las actualizaciones y la seguridad quedan a cargo de quien lo contrató.",
-          "La política de seguridad de OpenClaw dice que está pensado para una persona de confianza, no para varias personas que no se conocen: quien puede hablar con el asistente puede hacer que use sus herramientas. Eso cambia la elección en tres casos:"
+          "La documentación de OpenClaw dice que cada gateway es un único límite de confianza: sirve para una persona o para un equipo en el que todos confían entre sí, no para personas que no confían unas en otras. Quien puede hablar con el asistente puede hacer que use sus herramientas. Eso cambia la elección en tres casos:"
         ],
         "bullets": [
-          "**Más de una persona va a usar el asistente** (familia o equipo): el proyecto recomienda un servidor por persona. En el VPS, eso es directo; en el gestionado, pregúntale a Hostinger cuántas instancias puede tener una cuenta.",
+          "**Más de una persona va a usar el asistente** (familia o equipo): solo si todos confían entre sí, porque todos comparten el acceso del asistente a sus herramientas; quien no confía necesita un servidor aparte. En el VPS, eso es directo; en el gestionado, pregúntale a Hostinger cuántas instancias puede tener una cuenta.",
           "**El asistente va a tener acceso a tu correo, al banco o a otras cuentas:** el proyecto pide que el servidor no tenga cuentas personales con la sesión iniciada. Hostinger sugiere un buzón de correo aparte para el asistente.",
           "**En el VPS, guarda el token de la pasarela** que genera la instalación y no lo envíes en una conversación con el asistente."
         ]
@@ -108696,7 +108774,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Descarta el VPS si no sabes qué es root ni Docker: actualizar y proteger el sistema queda de tu parte.",
         "Descarta el gestionado si necesitas acceso root o más memoria y disco.",
-        "Descarta ambos si el mismo asistente va a atender a varias personas: el proyecto recomienda un servidor por persona."
+        "Descarta ambos si el mismo asistente va a atender a personas que no confían entre sí: el proyecto pide un servidor aparte para cada una."
       ]
     }
   },
@@ -108736,6 +108814,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Géré ou VPS pour OpenClaw chez Hostinger : crédits d'IA, Telegram et WhatsApp, et qui s'occupe du serveur.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -108790,7 +108869,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Accès root",
-              "La page parle d'un accès à la ligne de commande, sans citer root",
+              "Non",
               "Oui"
             ],
             [
@@ -108820,7 +108899,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "L'offre ne fait pas tout : l'usage de l'IA est facturé à part. Avec les crédits de Hostinger, l'offre gérée inclut un solde de départ, et ce qui dépasse est facturé selon la consommation. Le prix d'une recharge n'apparaît sur aucune page publique, alors vérifiez-le dans le panneau avant de compter dessus. Avec votre propre clé, le fournisseur (OpenAI, Anthropic ou un autre) vous facture directement, selon le modèle et le nombre de conversations.",
-          "L'offre gérée donne 30 jours pour demander un remboursement. Sur le VPS, les 30 jours ne valent que si votre dernier remboursement de VPS a été demandé il y a plus de 180 jours. Un VPS de 12 mois ou plus inclut un domaine .cloud ou .tech gratuit la première année."
+          "L'offre gérée donne 30 jours pour demander un remboursement. Sur le VPS, les 30 jours ne valent qu'une fois 180 jours écoulés depuis la finalisation de votre dernier remboursement de VPS, s'il y en a eu un ; vérifiez les exceptions dans la politique de remboursement d'Hostinger. Un VPS de 12 mois ou plus inclut un domaine .cloud ou .tech gratuit la première année."
         ]
       },
       {
@@ -108847,10 +108926,10 @@ export const reviewsData: unknown[] = [
         "heading": "Sécurité : quand la décision change",
         "paragraphs": [
           "La question est de savoir qui s'occupe des données et des identifiants. En géré, Hostinger indique que chaque instance tourne isolée dans un conteneur, avec sa propre passerelle de sécurité. C'est la description de Hostinger, pas un test de notre part. Sur le VPS, Hostinger dit elle-même qu'avec un accès root, la configuration, les mises à jour et la sécurité reviennent à celui qui a souscrit.",
-          "La politique de sécurité d'OpenClaw précise qu'il est conçu pour une personne de confiance, et non pour plusieurs personnes qui ne se connaissent pas : quiconque peut parler à l'assistant peut lui faire utiliser ses outils. Cela change le choix dans trois cas :"
+          "La documentation d'OpenClaw indique que chaque passerelle forme une seule limite de confiance : elle convient à une personne ou à une équipe dont les membres se font confiance, pas à des personnes qui ne se font pas confiance. Quiconque peut parler à l'assistant peut lui faire utiliser ses outils. Cela change le choix dans trois cas :"
         ],
         "bullets": [
-          "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : le projet recommande un serveur par personne. Sur le VPS, c'est simple ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
+          "**Plusieurs personnes vont utiliser l'assistant** (famille ou équipe) : seulement si tout le monde se fait confiance, car tous partagent l'accès de l'assistant à ses outils ; ceux qui ne se font pas confiance ont besoin d'un serveur séparé. Sur le VPS, c'est simple ; en géré, demandez à Hostinger combien d'instances un compte peut avoir.",
           "**L'assistant va avoir accès à votre e-mail, à votre banque ou à d'autres comptes :** le projet demande que le serveur n'ait aucun compte personnel connecté. Hostinger suggère une boîte e-mail distincte pour l'assistant.",
           "**Sur le VPS, conservez le jeton de la passerelle** que génère l'installation et ne l'envoyez pas dans une conversation avec l'assistant."
         ]
@@ -108927,7 +109006,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Évitez le VPS si vous ne savez pas ce que sont root et Docker : mettre à jour et protéger le système vous incombe.",
         "Passez votre tour sur le géré si vous avez besoin d'un accès root ou de plus de mémoire et de disque.",
-        "Passez votre tour sur les deux si le même assistant doit servir plusieurs personnes : le projet recommande un serveur par personne."
+        "Passez votre tour sur les deux si le même assistant doit servir des personnes qui ne se font pas confiance : le projet demande un serveur séparé pour chacune."
       ]
     }
   },
@@ -108967,6 +109046,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp, und wer sich um den Server kümmert.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
@@ -109020,7 +109100,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Root-Zugriff",
-              "Die Seite spricht vom Zugang zur Kommandozeile, ohne Root zu nennen",
+              "Nein",
               "Ja"
             ],
             [
@@ -109050,7 +109130,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "Der Tarif ist nicht alles: Die KI-Nutzung kommt extra. Mit dem Guthaben von Hostinger bringt der verwaltete Tarif ein Startguthaben mit, und was darüber hinausgeht, wird nach Verbrauch berechnet. Der Preis für Aufladungen steht auf keiner öffentlichen Seite, prüfen Sie ihn daher im Dashboard, bevor Sie damit rechnen. Mit eigenem Schlüssel rechnet der Anbieter (OpenAI, Anthropic oder ein anderer) die Nutzung direkt mit Ihnen ab, je nach Modell und Gesprächsmenge.",
-          "Für die verwaltete Option gilt eine Frist von 30 Tagen, um eine Erstattung zu verlangen. Beim VPS gelten die 30 Tage nur, wenn der letzte VPS-Erstattungsantrag mehr als 180 Tage zurückliegt. Ein VPS mit 12 Monaten Laufzeit oder mehr enthält im ersten Jahr eine kostenlose .cloud- oder .tech-Domain."
+          "Für die verwaltete Option gilt eine Frist von 30 Tagen, um eine Erstattung zu verlangen. Beim VPS gelten die 30 Tage nur, wenn seit dem Abschluss Ihrer letzten VPS-Erstattung 180 Tage vergangen sind, falls es eine gab; Ausnahmen finden Sie in der Erstattungsrichtlinie von Hostinger. Ein VPS mit 12 Monaten Laufzeit oder mehr enthält im ersten Jahr eine kostenlose .cloud- oder .tech-Domain."
         ]
       },
       {
@@ -109077,10 +109157,10 @@ export const reviewsData: unknown[] = [
         "heading": "Sicherheit: wann sich die Entscheidung ändert",
         "paragraphs": [
           "Die Frage ist, wer die Daten und Zugangsdaten betreut. Beim verwalteten Tarif sagt Hostinger, dass jede Instanz isoliert in einem Container mit eigenem Sicherheitsgateway läuft. Das ist die Beschreibung von Hostinger, kein eigener Test. Beim VPS sagt Hostinger selbst, dass bei Root-Zugriff Konfiguration, Updates und Sicherheit bei dem liegen, der den Server gebucht hat.",
-          "Die Sicherheitsrichtlinie von OpenClaw besagt, dass das Tool für eine vertrauenswürdige Person gedacht ist, nicht für mehrere Personen, die sich nicht kennen: Wer mit dem Assistenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Das ändert die Wahl in drei Fällen:"
+          "Die Dokumentation von OpenClaw besagt, dass jedes Gateway eine einzige Vertrauensgrenze bildet: Es passt für eine Person oder ein Team, dessen Mitglieder einander vertrauen, nicht für Personen, die einander nicht vertrauen. Wer mit dem Assistenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Das ändert die Wahl in drei Fällen:"
         ],
         "bullets": [
-          "**Mehrere Personen nutzen den Assistenten** (Familie oder Team): Das Projekt empfiehlt einen Server pro Person. Beim VPS ist das unkompliziert; beim verwalteten Tarif fragen Sie Hostinger, wie viele Instanzen ein Konto haben kann.",
+          "**Mehrere Personen nutzen den Assistenten** (Familie oder Team): nur wenn alle einander vertrauen, denn alle teilen den Zugriff des Assistenten auf seine Werkzeuge; wer nicht vertraut, braucht einen eigenen Server. Beim VPS ist das unkompliziert; beim verwalteten Tarif fragen Sie Hostinger, wie viele Instanzen ein Konto haben kann.",
           "**Der Assistent bekommt Zugriff auf Ihre E-Mails, Ihre Bank oder andere Konten:** Das Projekt verlangt, dass auf dem Server keine privaten Konten angemeldet sind. Hostinger empfiehlt ein eigenes E-Mail-Postfach für den Assistenten.",
           "**Beim VPS bewahren Sie das Gateway-Token auf**, das die Installation erzeugt, und senden es nicht in einem Gespräch mit dem Assistenten."
         ]
@@ -109158,7 +109238,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Lassen Sie den VPS aus, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
         "Lassen Sie die verwaltete Option aus, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen.",
-        "Lassen Sie beide aus, wenn derselbe Assistent mehrere Personen bedienen soll: Das Projekt empfiehlt einen Server pro Person."
+        "Lassen Sie beide aus, wenn derselbe Assistent Personen bedienen soll, die einander nicht vertrauen: Das Projekt verlangt für jede einen eigenen Server."
       ]
     }
   },
@@ -109198,6 +109278,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Gestito o VPS per OpenClaw su Hostinger: crediti IA, Telegram e WhatsApp, e chi si occupa del server.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
@@ -109251,7 +109332,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Accesso root",
-              "La pagina parla di accesso alla riga di comando, senza citare root",
+              "No",
               "Sì"
             ],
             [
@@ -109281,7 +109362,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "Il piano non è tutto: l'uso dell'IA è a parte. Con i crediti di Hostinger il gestito include un saldo iniziale, e ciò che lo supera è addebitato in base al consumo. Il prezzo delle ricariche non compare in nessuna pagina pubblica, quindi controllalo nel pannello prima di contarci. Con la tua chiave, il fornitore (OpenAI, Anthropic o un altro) ti addebita direttamente l'uso, in base al modello e al volume di conversazioni.",
-          "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, i 30 giorni valgono solo se l'ultimo rimborso VPS è stato richiesto più di 180 giorni fa. Un VPS di 12 mesi o più include un dominio .cloud o .tech gratis per il primo anno."
+          "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, i 30 giorni valgono solo quando sono passati 180 giorni dal completamento dell'ultimo rimborso VPS, se ce n'è stato uno; controlla le eccezioni nella politica di rimborso di Hostinger. Un VPS di 12 mesi o più include un dominio .cloud o .tech gratis per il primo anno."
         ]
       },
       {
@@ -109308,10 +109389,10 @@ export const reviewsData: unknown[] = [
         "heading": "Sicurezza: quando cambia la decisione",
         "paragraphs": [
           "La domanda è chi si occupa dei dati e delle credenziali. Nel gestito, Hostinger dice che ogni istanza gira isolata in un container, con un gateway di sicurezza proprio. È la descrizione di Hostinger, non un nostro test. Nel VPS, la stessa Hostinger dice che, con accesso root, configurazione, aggiornamenti e sicurezza restano a carico di chi ha acquistato.",
-          "La policy di sicurezza di OpenClaw dice che è pensato per una persona fidata, non per più persone che non si conoscono: chi può parlare con l'assistente può fargli usare i suoi strumenti. Questo cambia la scelta in tre casi:"
+          "La documentazione di OpenClaw dice che ogni gateway è un unico confine di fiducia: va bene per una persona o per un team i cui membri si fidano l'uno dell'altro, non per persone che non si fidano tra loro. Chi può parlare con l'assistente può fargli usare i suoi strumenti. Questo cambia la scelta in tre casi:"
         ],
         "bullets": [
-          "**Più di una persona userà l'assistente** (famiglia o team): il progetto consiglia un server per persona. Nel VPS è semplice; nel gestito, chiedi a Hostinger quante istanze può avere un account.",
+          "**Più di una persona userà l'assistente** (famiglia o team): solo se tutti si fidano l'uno dell'altro, perché tutti condividono l'accesso dell'assistente ai suoi strumenti; chi non si fida ha bisogno di un server separato. Nel VPS è semplice; nel gestito, chiedi a Hostinger quante istanze può avere un account.",
           "**L'assistente avrà accesso alla tua e-mail, alla banca o ad altri account:** il progetto chiede che il server non abbia account personali con l'accesso effettuato. Hostinger suggerisce una casella e-mail separata per l'assistente.",
           "**Nel VPS, conserva il token del gateway** generato dall'installazione e non inviarlo in una conversazione con l'assistente."
         ]
@@ -109388,7 +109469,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "Lascia perdere il VPS se non sai cos'è root né Docker: aggiornare e proteggere il sistema resta a te.",
         "Lascia perdere il gestito se ti serve l'accesso root o più memoria e spazio.",
-        "Lascia perdere entrambi se lo stesso assistente deve servire più persone: il progetto consiglia un server per persona."
+        "Lascia perdere entrambi se lo stesso assistente deve servire persone che non si fidano tra loro: il progetto chiede un server separato per ciascuna."
       ]
     },
     "hideFromPortugueseListings": true
@@ -109429,6 +109510,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "호스팅어에서 OpenClaw를 관리형으로 쓸지 VPS로 쓸지. AI 크레딧, 텔레그램과 왓츠앱, 서버를 누가 관리하는지를 비교합니다.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
@@ -109482,7 +109564,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "root 접근",
-              "페이지에는 명령줄 접근만 있고 root는 언급되지 않음",
+              "아니요",
               "예"
             ],
             [
@@ -109512,7 +109594,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "플랜이 비용의 전부는 아닙니다. AI 사용료는 따로 듭니다. 호스팅어 크레딧을 쓰면 관리형에는 초기 잔액이 들어 있고, 그것을 넘는 만큼은 사용량에 따라 청구됩니다. 충전 가격은 어떤 공개 페이지에도 나와 있지 않으니, 기대하기 전에 관리 화면에서 확인하세요. 직접 가진 키를 쓰면 제공업체(OpenAI, Anthropic 등)가 모델과 대화량에 따라 본인에게 직접 청구합니다.",
-          "관리형은 30일 안에 환불을 요청할 수 있습니다. VPS는 마지막 VPS 환불 요청 후 180일이 지났을 때만 30일이 적용됩니다. 12개월 이상 VPS에는 첫해에 .cloud 또는 .tech 도메인이 무료로 따라옵니다."
+          "관리형은 30일 안에 환불을 요청할 수 있습니다. VPS는 마지막 VPS 환불이 완료된 뒤(환불 이력이 있다면) 180일이 지났을 때만 30일이 적용됩니다. 예외는 호스팅어 환불 정책에서 확인하세요. 12개월 이상 VPS에는 첫해에 .cloud 또는 .tech 도메인이 무료로 따라옵니다."
         ]
       },
       {
@@ -109539,10 +109621,10 @@ export const reviewsData: unknown[] = [
         "heading": "보안: 판단이 달라지는 때",
         "paragraphs": [
           "핵심은 데이터와 자격 증명을 누가 관리하느냐입니다. 관리형에 대해 호스팅어는 각 인스턴스가 자체 보안 게이트웨이와 함께 컨테이너에서 격리되어 실행된다고 설명합니다. 이는 호스팅어의 설명이며 우리가 검증한 내용이 아닙니다. VPS에 대해서는 root 접근 권한이 있으면 설정, 업데이트, 보안은 계약한 사람의 몫이라고 호스팅어 스스로 말합니다.",
-          "OpenClaw의 보안 정책은 이 도구가 서로 모르는 여러 사람이 아니라 신뢰할 수 있는 한 사람을 위해 만들어졌다고 말합니다. 어시스턴트에게 말을 걸 수 있는 사람은 그 도구를 쓰게 할 수 있기 때문입니다. 다음 세 가지 경우에는 선택이 달라집니다:"
+          "OpenClaw 문서는 게이트웨이 하나가 신뢰 경계 하나라고 설명합니다. 한 사람이나 서로 신뢰하는 팀에는 맞지만, 서로 신뢰하지 않는 사람들에게는 맞지 않습니다. 어시스턴트에게 말을 걸 수 있는 사람은 그 도구를 쓰게 할 수 있기 때문입니다. 다음 세 가지 경우에는 선택이 달라집니다:"
         ],
         "bullets": [
-          "**여러 사람이 쓰는 경우** (가족이나 팀): 프로젝트는 한 사람에 서버 하나를 권합니다. VPS에서는 쉽지만, 관리형에서는 한 계정에 인스턴스를 몇 개 둘 수 있는지 호스팅어에 문의하세요.",
+          "**여러 사람이 쓰는 경우** (가족이나 팀): 모두가 서로 신뢰할 때만 해당합니다. 모두가 어시스턴트의 도구 접근을 함께 쓰기 때문이며, 신뢰하지 않는 사람에게는 별도 서버가 필요합니다. VPS에서는 쉽지만, 관리형에서는 한 계정에 인스턴스를 몇 개 둘 수 있는지 호스팅어에 문의하세요.",
           "**어시스턴트가 이메일, 은행, 다른 계정에 접근하는 경우:** 프로젝트는 서버에 개인 계정이 로그인되어 있지 않기를 요구합니다. 호스팅어는 어시스턴트 전용 이메일 주소를 따로 쓰라고 제안합니다.",
           "**VPS에서는 게이트웨이 토큰을 보관하세요.** 설치 때 만들어지는 토큰이며, 어시스턴트와의 대화에 보내지 마세요."
         ]
@@ -109620,7 +109702,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "root나 Docker가 무엇인지 모른다면 VPS는 건너뛰세요. 시스템 업데이트와 보호를 직접 맡아야 합니다.",
         "root 접근이나 더 많은 메모리와 디스크가 필요하다면 관리형은 건너뛰세요.",
-        "같은 어시스턴트를 여러 사람이 쓴다면 건너뛰세요. 프로젝트는 한 사람에 서버 하나를 권합니다."
+        "같은 어시스턴트를 서로 신뢰하지 않는 사람들이 쓴다면 건너뛰세요. 프로젝트는 사람마다 별도 서버를 요구합니다."
       ]
     }
   },
@@ -109660,6 +109742,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger で OpenClaw をマネージドにするか VPS にするか。AI クレジット、Telegram と WhatsApp、サーバーを誰が管理するかを比べます。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -109714,7 +109797,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "root アクセス",
-              "ページに書かれているのはコマンドラインへのアクセスで、root とは書かれていない",
+              "なし",
               "あり"
             ],
             [
@@ -109744,7 +109827,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "プランだけが費用のすべてではありません。AI の利用料は別にかかります。Hostinger のクレジットを使う場合、マネージドには初期残高が付いていて、それを超えた分は使った量に応じて請求されます。追加チャージの料金はどの公開ページにも載っていないので、当てにする前に管理画面で確認してください。自分のキーを使う場合は、プロバイダー（OpenAI、Anthropic など）が、モデルと会話の量に応じてあなたに直接請求します。",
-          "マネージドには 30 日間の返金期間があります。VPS では、最後の VPS 返金申請から 180 日以上たっている場合に限り、30 日間が適用されます。12 か月以上の VPS には、初年度に .cloud または .tech ドメインが無料でつきます。"
+          "マネージドには 30 日間の返金期間があります。VPS では、直近の VPS 返金が完了してから 180 日たっている場合に限り（返金歴がある場合）、30 日間が適用されます。例外は Hostinger の返金ポリシーで確認してください。12 か月以上の VPS には、初年度に .cloud または .tech ドメインが無料でつきます。"
         ]
       },
       {
@@ -109771,10 +109854,10 @@ export const reviewsData: unknown[] = [
         "heading": "セキュリティ：判断が変わるとき",
         "paragraphs": [
           "問題は、データと認証情報を誰が管理するかです。マネージドについて、Hostinger は各インスタンスがコンテナで隔離され、独自のセキュリティゲートウェイを持つと説明しています。これは Hostinger の説明であり、私たちが検証したものではありません。VPS については、root アクセスがある場合、設定、アップデート、セキュリティは契約した人の責任だと、Hostinger 自身が説明しています。",
-          "OpenClaw のセキュリティポリシーでは、このツールは互いを知らない複数の人ではなく、信頼できる一人のために作られたものだとされています。アシスタントに話しかけられる人は、そのツールを使わせることができるからです。次の三つの場合は、選び方が変わります："
+          "OpenClaw のドキュメントでは、ゲートウェイ一つが信頼の境界一つにあたるとされています。一人、または互いを信頼しているチームには向いていますが、互いを信頼していない人同士には向きません。アシスタントに話しかけられる人は、そのツールを使わせることができるからです。次の三つの場合は、選び方が変わります："
         ],
         "bullets": [
-          "**複数の人が使う場合**（家族やチーム）：プロジェクトは一人につきサーバー一台を勧めています。VPS ならそれは簡単です。マネージドでは、一つのアカウントでインスタンスをいくつ持てるか、Hostinger に確認してください。",
+          "**複数の人が使う場合**（家族やチーム）：全員が互いを信頼している場合に限ります。全員がアシスタントのツールへのアクセスを共有するためで、信頼できない相手には別のサーバーが必要です。VPS ならそれは簡単です。マネージドでは、一つのアカウントでインスタンスをいくつ持てるか、Hostinger に確認してください。",
           "**アシスタントがメールや銀行、ほかのアカウントにアクセスする場合：** プロジェクトは、サーバーに個人のアカウントをログインさせないよう求めています。Hostinger は、アシスタント専用のメールボックスを用意することを勧めています。",
           "**VPS の場合は、ゲートウェイのトークンを保管してください。** インストール時に生成されるもので、アシスタントとの会話では送らないでください。"
         ]
@@ -109851,7 +109934,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "root や Docker が何か分からないなら、VPS は見送ってください。システムの更新と保護はあなたの担当になります。",
         "root アクセスや、より多くのメモリとディスクが必要なら、マネージドは見送ってください。",
-        "同じアシスタントを複数の人に使わせるなら見送ってください。プロジェクトは一人につきサーバー一台を勧めています。"
+        "同じアシスタントを、互いを信頼していない人たちに使わせるなら見送ってください。プロジェクトは一人ずつ別のサーバーを求めています。"
       ]
     }
   },
@@ -109891,6 +109974,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw 在 Hostinger 選託管還是 VPS：AI 額度、Telegram 與 WhatsApp，以及誰來維護伺服器。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -109945,7 +110029,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "root 存取",
-              "頁面只提到命令列存取，沒有提到 root",
+              "沒有",
               "有"
             ],
             [
@@ -109975,7 +110059,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "方案不是全部花費，AI 的使用費另計。使用 Hostinger 的額度時，託管版附有起始餘額，超出的部分依用量計費。儲值的價格沒有出現在任何公開頁面上，所以指望它之前，請先在後台確認。如果用自己的金鑰，供應商（OpenAI、Anthropic 或其他）會依模型與對話量直接向你收費。",
-          "託管版有 30 天可申請退款。VPS 則只有在上一次 VPS 退款申請已超過 180 天時，才適用 30 天。12 個月以上的 VPS 首年可免費獲得一個 .cloud 或 .tech 網域。"
+          "託管版有 30 天可申請退款。VPS 則只有在上一次 VPS 退款完成（如果有的話）已滿 180 天後，才適用 30 天；例外情況請查看 Hostinger 的退款政策。12 個月以上的 VPS 首年可免費獲得一個 .cloud 或 .tech 網域。"
         ]
       },
       {
@@ -110002,10 +110086,10 @@ export const reviewsData: unknown[] = [
         "heading": "安全：什麼情況會改變決定",
         "paragraphs": [
           "關鍵問題是誰管理資料與憑證。託管方面，Hostinger 表示每個執行個體都在容器中隔離運行，並有自己的安全閘道。這是 Hostinger 的說法，不是我們的測試結果。VPS 方面，Hostinger 本身說明，有了 root 權限後，設定、更新與安全都由簽約的人負責。",
-          "OpenClaw 的安全政策說，它是為一位可信任的使用者設計的，而不是給互不認識的多人共用，因為能跟助理說話的人，就能讓它使用其工具。以下三種情況，選擇會不一樣："
+          "OpenClaw 的文件說，一個閘道就是一道信任邊界：適合一個人，或成員彼此信任的團隊，不適合互不信任的人。能跟助理說話的人，就能讓它使用其工具。以下三種情況，選擇會不一樣："
         ],
         "bullets": [
-          "**多人使用**（家人或團隊）：專案建議一人一台伺服器。VPS 上很容易做到；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。",
+          "**多人使用**（家人或團隊）：前提是大家彼此信任，因為所有人共用助理對其工具的存取權限；彼此不信任的人需要各自獨立的伺服器。VPS 上很容易做到；託管方面，請向 Hostinger 確認一個帳戶能有幾個執行個體。",
           "**助理會存取你的電子郵件、銀行或其他帳戶：** 專案要求伺服器上不要登入個人帳戶。Hostinger 建議為助理另外準備一個電子郵件信箱。",
           "**使用 VPS 時，請妥善保管閘道 token。** 它在安裝時產生，不要在與助理的對話中傳送。"
         ]
@@ -110082,7 +110166,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "如果你不知道 root 或 Docker 是什麼，就別選 VPS：更新與保護系統都要由你來做。",
         "如果你需要 root 存取，或更多記憶體與硬碟，就別選託管。",
-        "如果同一個助理要服務多個人，兩者都別選：專案建議一人一台伺服器。"
+        "如果同一個助理要服務彼此不信任的人，就別選：專案要求每人各用一台獨立伺服器。"
       ]
     }
   },
@@ -110122,6 +110206,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw 在 Hostinger 选托管还是 VPS：AI 额度、Telegram 和 WhatsApp，以及谁来维护服务器。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -110176,7 +110261,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "root 访问",
-              "页面只提到命令行访问，没有提到 root",
+              "没有",
               "有"
             ],
             [
@@ -110206,7 +110291,7 @@ export const reviewsData: unknown[] = [
         "bullets": [],
         "postParagraphs": [
           "套餐不是全部花费，AI 的使用费另算。使用 Hostinger 的额度时，托管版带有初始余额，超出的部分按用量计费。充值的价格没有出现在任何公开页面上，所以指望它之前，请先在后台确认。如果用自己的密钥，服务商（OpenAI、Anthropic 或其他）会根据模型和对话量直接向你收费。",
-          "托管版有 30 天可申请退款。VPS 则只有在上一次 VPS 退款申请已超过 180 天时，才适用 30 天。12 个月及以上的 VPS 首年可免费获得一个 .cloud 或 .tech 域名。"
+          "托管版有 30 天可申请退款。VPS 则只有在上一次 VPS 退款完成（如果有的话）已满 180 天后，才适用 30 天；例外情况请查看 Hostinger 的退款政策。12 个月及以上的 VPS 首年可免费获得一个 .cloud 或 .tech 域名。"
         ]
       },
       {
@@ -110233,10 +110318,10 @@ export const reviewsData: unknown[] = [
         "heading": "安全：什么情况下决定会改变",
         "paragraphs": [
           "关键在于谁来管理数据和凭据。托管版方面，Hostinger 表示每个实例都在容器中隔离运行，并有自己的安全网关。这是 Hostinger 的说法，不是我们做的测试。VPS 方面，Hostinger 自己说明，有了 root 权限后，配置、更新和安全都由购买者负责。",
-          "OpenClaw 的安全政策称，它是为一位可信任的用户设计的，而不是给互不相识的多人共用，因为能和助理对话的人，就能让它使用其工具。以下三种情况，选择会有所不同："
+          "OpenClaw 的文档称，一个网关就是一道信任边界：适合一个人，或成员彼此信任的团队，不适合互不信任的人。能和助理对话的人，就能让它使用其工具。以下三种情况，选择会有所不同："
         ],
         "bullets": [
-          "**多人使用**（家人或团队）：项目建议每人一台服务器。VPS 上这很容易做到；托管版则要问 Hostinger，一个账户能有几个实例。",
+          "**多人使用**（家人或团队）：前提是大家彼此信任，因为所有人共用助理对其工具的访问权限；彼此不信任的人需要各自独立的服务器。VPS 上这很容易做到；托管版则要问 Hostinger，一个账户能有几个实例。",
           "**助理会访问你的邮箱、银行或其他账户：** 项目要求服务器上不要登录个人账户。Hostinger 建议为助理另外准备一个邮箱。",
           "**在 VPS 上，请保管好网关 token。** 它在安装时生成，不要把它发到和助理的对话里。"
         ]
@@ -110313,7 +110398,7 @@ export const reviewsData: unknown[] = [
       "skipIf": [
         "如果你不知道 root 或 Docker 是什么，就别选 VPS：更新和保护系统都要由你来做。",
         "如果你需要 root 权限，或更多内存和硬盘，就别选托管。",
-        "如果同一个助理要服务多个人，两者都别选：项目建议每人一台服务器。"
+        "如果同一个助理要服务彼此不信任的人，就别选：项目要求每人各用一台独立服务器。"
       ]
     }
   },
@@ -110353,6 +110438,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw に最適な VPS（公式の最小 RAM なし）：AI モデルをクラウドに置く場合とローカルで動かす場合の、シナリオ別の KVM プラン。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -110364,7 +110450,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "クイックアンサー",
         "paragraphs": [
-          "AI モデルをプロバイダー側に置く場合（API キーでも Hostinger のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、ドキュメントの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。サーバーを扱いたくない人は、下で紹介するマネージドを見てください。"
+          "AI モデルをプロバイダー側に置く場合（API キーでも Hostinger のクレジットでも）、出発点は 4 GB の KVM 1 です。ローカルモデルなら、最小レシピの下限は 8 GiB で、16 GB の KVM 4 が最初に余裕のあるプランです。サーバーを扱いたくない人は、下で紹介するマネージドを見てください。"
         ]
       },
       {
@@ -110374,7 +110460,7 @@ export const reviewsData: unknown[] = [
           "公式のインストールページとローカルモデルのページには、次のように書かれています："
         ],
         "bullets": [
-          "**Node のバージョン。** OpenClaw には Node 24.16 以降、または Node 26.1 以降が必要です。Node は OpenClaw を実行するプログラムで、npm でのインストールにはこのバージョンが求められます。ページは Node 26 を勧めています。Node が入っていなければ、公式インストーラーが用意します（macOS は Node 26、Linux は Node 24 LTS）。",
+          "**Node のバージョン。** OpenClaw の安定版には、Node 24 系なら 24.22.1 以降、または Node 26.12.1 以降が必要です。Node 25 は非対応です。Node は OpenClaw を実行するプログラムで、npm でのインストールにはこのバージョンが求められます。ページは Node 26 を勧めています。Node が入っていなければ、公式インストーラーが用意します（macOS は Node 26、Linux は Node 24 LTS）。",
           "**ローカルモデル。** ドキュメント自身が示す最も小さいレシピでは、下限はホストのメモリ 8 GiB（コンテキストは 64K）です。ページは、この下限が「モデルが収まること」も「速く動くこと」も保証しないと書いています。",
           "**Hostinger の VPS。** Hostinger は Docker（アプリをそれぞれ独立したコンテナで動かすプログラム）を使って OpenClaw を VPS にインストールします。VPS は借りる仮想サーバーで、root アクセスがあれば全体を自分で操作できます。"
         ],
@@ -110462,9 +110548,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1（4 GB）。** API キーまたはクレジットで使うシナリオの出発点です。ローカルモデルには、公式の下限に届きません。",
+          "**KVM 1（4 GB）。** API キーまたはクレジットで使うシナリオの出発点です。ローカルモデルには、最小レシピの下限 8 GiB に届きません。",
           "**KVM 2（8 GB）。** API キーなら余裕があります。ローカルモデルには下限ぎりぎりで、システムの分の余裕がありません。",
-          "**KVM 4（16 GB）。** 公式の下限 8 GiB を上回る、最初の余裕のあるプランです。ローカルモデルでどの程度動くかは、ドキュメントに書かれていません。",
+          "**KVM 4（16 GB）。** 最小のローカルレシピの下限 8 GiB を上回る、最初の余裕のあるプランです。ローカルモデルでどの程度動くかは、ドキュメントに書かれていません。",
           "**KVM 8（32 GB）。** より大きなローカルモデルを使う場合にだけ意味があります。大きなレシピがそれぞれどれだけのメモリを必要とするかは、ドキュメントに書かれていません。"
         ],
         "postParagraphs": [
@@ -110537,7 +110623,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "モデルをクラウドに置く（API キーまたは Hostinger のクレジット）：出発点は 4 GB の KVM 1。",
-          "ローカルモデル：16 GB の KVM 4。公式の下限 8 GiB を上回る最初の余裕のあるプランです。32 GB の KVM 8 は、より大きなローカルモデルを使う場合にだけ意味があります。",
+          "ローカルモデル：16 GB の KVM 4。最小のローカルレシピの下限 8 GiB を上回る最初の余裕のあるプランですが、実際の動作はモデルとコンテキスト次第です。32 GB の KVM 8 は、より大きなローカルモデルを使う場合にだけ意味があります。",
           "サーバーを扱いたくない：マネージド。Hostinger がアシスタントをインストールして更新します。",
           "お金をかけずに試す：Oracle Always Free。ただし、使われていないインスタンスは Oracle に回収されることがあります。"
         ]
@@ -110552,9 +110638,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "OpenClaw に必要な最小のサーバーは？ 公式ドキュメントは最小の RAM、CPU、ディスクを公表しておらず、Node 24.16 以降（または 26.1）を求めています。API キーやクレジットなら、出発点は KVM 1 です。ローカルモデルなら下限は 8 GiB で、KVM 4 が最初に余裕のあるプランです。",
+          "OpenClaw に必要な最小のサーバーは？ 公式ドキュメントは最小の RAM、CPU、ディスクを公表しておらず、安定版では Node 24.22.1 以降（または 26.12.1）を求めています。API キーやクレジットなら、出発点は KVM 1 です。ローカルモデルなら、下限 8 GiB は最小レシピの場合で、KVM 4 がそのレシピに対して最初に余裕のあるプランです。",
           "API キーなしで動かせる？ ローカルモデルなら動かせますが、問題はメモリです。ドキュメントは、最も小さいローカルレシピの下限を 8 GiB（コンテキストは 64K）としたうえで、モデルが収まることも快適に動くことも保証しないと書いています。Hostinger のクレジットを使えば AI プロバイダーのアカウントは要りませんが、使った分の料金がかかります。",
-          "Oracle は本当に無料？ アカウントが Always Free の範囲にある間は無料です。Arm A1 で 2 OCPU とメモリ 12 GB、それに Micro インスタンスが使えます。7 日間、CPU、ネットワーク、メモリがすべて 20% 未満のまま使われていないインスタンスは、Oracle に回収されることがあります。",
+          "Oracle は本当に無料？ アカウントが Always Free の範囲にある間は無料です。Arm A1 で 2 OCPU とメモリ 12 GB、それに Micro インスタンスが使えます。7 日間、CPU（95 パーセンタイル）とネットワークが 20% 未満、A1 ではメモリも 20% 未満のまま使われていないインスタンスは、Oracle に回収されることがあります。",
           "Mac mini と VPS、どちら？ パソコンを 24 時間つけておけるかどうかで決まります。つけておけるなら、自宅で動かせばサーバーの月額がかかりません。つけておけないなら、VPS かマネージドを選んでください。",
           "OpenClaw の VPS に使える Hostinger の割引コードはある？ あります。カートのクーポン欄にコード SONAR20 を入力すると、最初の期間が 20% 割引になります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
@@ -110592,10 +110678,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "AI モデルがプロバイダー側（API キーまたは Hostinger のクレジット）にあるなら、4 GB の KVM 1 を選びましょう。",
-        "ローカルモデルを動かすなら、16 GB の KVM 4 を選びましょう。公式の下限 8 GiB を上回る、最初の余裕のあるプランです。"
+        "ローカルモデルを動かすなら、16 GB の KVM 4 を選びましょう。最小のローカルレシピの下限 8 GiB を上回る、最初の余裕のあるプランです。"
       ],
       "skipIf": [
-        "ローカルモデルを動かすなら、KVM 1 は見送りましょう。4 GB は公式の下限に届きません。",
+        "ローカルモデルを動かすなら、KVM 1 は見送りましょう。4 GB は最小のローカルレシピの下限 8 GiB に届きません。",
         "サーバーを扱いたくないなら、VPS は見送りましょう。Hostinger がアシスタントをインストールして更新するマネージドを見てください。",
         "より大きなローカルモデルを使わないなら、KVM 8 は見送りましょう。"
       ]
@@ -110637,6 +110723,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "공식 최소 RAM이 없는 OpenClaw의 최적 VPS: 클라우드 모델이냐 로컬 모델이냐에 따른 시나리오별 KVM 플랜.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
@@ -110647,7 +110734,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "빠른 답변",
         "paragraphs": [
-          "AI 모델을 제공업체에 두면(API 키든 호스팅어 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 문서의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. 서버를 직접 다루고 싶지 않다면 아래의 관리형을 보세요."
+          "AI 모델을 제공업체에 두면(API 키든 호스팅어 크레딧이든) 출발점은 4 GB의 KVM 1입니다. 로컬 모델이면 가장 작은 레시피의 기준은 8 GiB이고, 16 GB의 KVM 4가 처음으로 여유 있는 플랜입니다. 서버를 직접 다루고 싶지 않다면 아래의 관리형을 보세요."
         ]
       },
       {
@@ -110657,7 +110744,7 @@ export const reviewsData: unknown[] = [
           "공식 설치 페이지와 로컬 모델 페이지는 다음과 같이 말합니다:"
         ],
         "bullets": [
-          "**Node 버전.** OpenClaw는 Node 24.16 이상 또는 Node 26.1 이상을 요구합니다. Node는 OpenClaw를 실행하는 프로그램이며, npm 설치에는 이 버전이 필요합니다. 페이지는 Node 26을 권장합니다. Node가 없다면 공식 설치 프로그램이 함께 설치합니다(macOS는 Node 26, Linux는 Node 24 LTS).",
+          "**Node 버전.** OpenClaw 안정 버전은 Node 24 계열이면 24.22.1 이상, 또는 Node 26.12.1 이상을 요구합니다. Node 25는 지원하지 않습니다. Node는 OpenClaw를 실행하는 프로그램이며, npm 설치에는 이 버전이 필요합니다. 페이지는 Node 26을 권장합니다. Node가 없다면 공식 설치 프로그램이 함께 설치합니다(macOS는 Node 26, Linux는 Node 24 LTS).",
           "**로컬 모델.** 문서가 직접 제시하는 가장 작은 레시피의 기준은 64K 컨텍스트에서 호스트 메모리 8 GiB입니다. 페이지는 이 기준이 모델이 들어맞는다는 것도, 빠르게 돈다는 것도 보장하지 않는다고 말합니다.",
           "**호스팅어 VPS.** 호스팅어는 Docker로 OpenClaw를 VPS에 설치합니다. Docker는 각 앱을 자기 컨테이너 안에 격리해 실행하는 프로그램입니다. VPS는 임대한 가상 서버이며, root 권한이 있으면 전체를 직접 제어합니다."
         ],
@@ -110745,9 +110832,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1(4 GB).** API 키 또는 크레딧 시나리오의 출발점입니다. 로컬 모델에는 공식 기준에 못 미칩니다.",
+          "**KVM 1(4 GB).** API 키 또는 크레딧 시나리오의 출발점입니다. 로컬 모델에는 가장 작은 레시피의 기준 8 GiB에 못 미칩니다.",
           "**KVM 2(8 GB).** API 키라면 여유가 있습니다. 로컬 모델에는 기준에 빠듯해서 시스템 몫의 여유가 없습니다.",
-          "**KVM 4(16 GB).** 공식 기준 8 GiB를 넘는 첫 번째 여유 있는 플랜입니다. 로컬 모델로 얼마나 잘 도는지는 문서에 없습니다.",
+          "**KVM 4(16 GB).** 가장 작은 로컬 레시피의 기준 8 GiB를 넘는 첫 번째 여유 있는 플랜입니다. 로컬 모델로 얼마나 잘 도는지는 문서에 없습니다.",
           "**KVM 8(32 GB).** 더 큰 로컬 모델을 쓸 때만 의미가 있습니다. 큰 레시피마다 메모리가 얼마나 필요한지는 문서에 없습니다."
         ],
         "postParagraphs": [
@@ -110820,7 +110907,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "클라우드 모델(API 키 또는 호스팅어 크레딧): 4 GB의 KVM 1이 출발점.",
-          "로컬 모델: 16 GB의 KVM 4. 공식 기준 8 GiB를 넘는 첫 번째 여유 있는 플랜입니다. 32 GB의 KVM 8은 더 큰 로컬 모델을 쓸 때만 의미가 있습니다.",
+          "로컬 모델: 16 GB의 KVM 4. 가장 작은 로컬 레시피의 기준 8 GiB를 넘는 첫 번째 여유 있는 플랜이지만, 실제 성능은 모델과 컨텍스트에 달려 있습니다. 32 GB의 KVM 8은 더 큰 로컬 모델을 쓸 때만 의미가 있습니다.",
           "서버를 직접 관리하고 싶지 않다면: 호스팅어가 어시스턴트를 설치하고 업데이트하는 관리형.",
           "돈 들이지 않고 시험해 보려면: Oracle Always Free. 다만 Oracle이 유휴 인스턴스를 회수할 수 있습니다."
         ]
@@ -110835,9 +110922,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "OpenClaw에 필요한 최소 서버는? 공식 문서는 최소 RAM, CPU, 디스크를 공개하지 않으며 Node 24.16 이상(또는 26.1)을 요구합니다. API 키나 크레딧이라면 출발점은 KVM 1입니다. 로컬 모델이라면 기준은 8 GiB이고, KVM 4가 처음으로 여유 있는 플랜입니다.",
+          "OpenClaw에 필요한 최소 서버는? 공식 문서는 최소 RAM, CPU, 디스크를 공개하지 않으며 안정 버전에서 Node 24.22.1 이상(또는 26.12.1)을 요구합니다. API 키나 크레딧이라면 출발점은 KVM 1입니다. 로컬 모델이라면 기준 8 GiB는 가장 작은 레시피의 것이고, KVM 4가 그 레시피에 처음으로 여유 있는 플랜입니다.",
           "API 키 없이 돌릴 수 있나요? 로컬 모델로 가능하지만, 그러면 메모리가 문제입니다. 문서는 가장 작은 로컬 레시피의 기준을 64K 컨텍스트에서 8 GiB로 제시하면서, 모델이 들어맞는다는 것도 잘 돈다는 것도 보장하지 않는다고 말합니다. 호스팅어 크레딧을 쓰면 AI 제공업체 계정이 필요 없지만 사용한 만큼 비용을 냅니다.",
-          "Oracle은 정말 무료인가요? 계정이 Always Free 범위에 있는 동안은 무료입니다. Arm A1에서 2 OCPU와 12 GB, 그리고 Micro 인스턴스를 쓸 수 있습니다. 7일 동안 CPU, 네트워크, 메모리가 모두 20% 미만인 유휴 인스턴스는 Oracle이 회수할 수 있습니다.",
+          "Oracle은 정말 무료인가요? 계정이 Always Free 범위에 있는 동안은 무료입니다. Arm A1에서 2 OCPU와 12 GB, 그리고 Micro 인스턴스를 쓸 수 있습니다. 7일 동안 CPU(95번째 백분위수)와 네트워크가 20% 미만이고 A1에서는 메모리도 20% 미만인 유휴 인스턴스는 Oracle이 회수할 수 있습니다.",
           "Mac mini와 VPS 중 무엇이 좋을까요? 컴퓨터를 24시간 켜 둘 수 있는지에 달려 있습니다. 켜 둘 수 있다면 집에서 돌려 서버 월 요금을 아낄 수 있고, 그럴 수 없다면 VPS나 관리형을 고르세요.",
           "OpenClaw VPS에 쓸 수 있는 호스팅어 할인 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 SONAR20 코드를 넣으면 첫 번째 기간에 20%를 할인받습니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
           "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
@@ -110876,10 +110963,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "AI 모델이 제공업체 쪽(API 키 또는 호스팅어 크레딧)에 있다면 4 GB의 KVM 1을 고르세요.",
-        "로컬 모델을 돌린다면 16 GB의 KVM 4를 고르세요. 공식 기준 8 GiB를 넘는 첫 번째 여유 있는 플랜입니다."
+        "로컬 모델을 돌린다면 16 GB의 KVM 4를 고르세요. 가장 작은 로컬 레시피의 기준 8 GiB를 넘는 첫 번째 여유 있는 플랜입니다."
       ],
       "skipIf": [
-        "로컬 모델을 돌린다면 KVM 1은 건너뛰세요. 4 GB는 공식 기준에 못 미칩니다.",
+        "로컬 모델을 돌린다면 KVM 1은 건너뛰세요. 4 GB는 가장 작은 로컬 레시피의 기준 8 GiB에 못 미칩니다.",
         "서버를 직접 관리하고 싶지 않다면 VPS는 건너뛰세요. 호스팅어가 어시스턴트를 설치하고 업데이트하는 관리형을 보세요.",
         "더 큰 로컬 모델을 쓰지 않는다면 KVM 8은 건너뛰세요."
       ]
@@ -110921,6 +111008,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "没有官方最低 RAM 的 OpenClaw，最适合的 VPS：按模型在云端还是本地，给出各场景的 KVM 套餐。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -110932,7 +111020,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果 AI 模型放在供应商那边（无论用 API 密钥还是 Hostinger 额度），起点是 4 GB 的 KVM 1。如果用本地模型，文档给出的下限是 8 GiB，16 GB 的 KVM 4 是第一个有余量的套餐。不想管服务器的人，请看下面的托管方案。"
+          "如果 AI 模型放在供应商那边（无论用 API 密钥还是 Hostinger 额度），起点是 4 GB 的 KVM 1。如果用本地模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一个有余量的套餐。不想管服务器的人，请看下面的托管方案。"
         ]
       },
       {
@@ -110942,7 +111030,7 @@ export const reviewsData: unknown[] = [
           "官方的安装页和本地模型页写道："
         ],
         "bullets": [
-          "**Node 版本。** OpenClaw 需要 Node 24.16 或更新，或 Node 26.1 或更新。Node 是运行 OpenClaw 的程序，用 npm 安装时需要这个版本。页面建议使用 Node 26。如果还没装 Node，官方安装程序会一并安装（macOS 为 Node 26，Linux 为 Node 24 LTS）。",
+          "**Node 版本。** OpenClaw 稳定版需要 Node 24 系列的 24.22.1 或更新，或 Node 26.12.1 或更新；不支持 Node 25。Node 是运行 OpenClaw 的程序，用 npm 安装时需要这个版本。页面建议使用 Node 26。如果还没装 Node，官方安装程序会一并安装（macOS 为 Node 26，Linux 为 Node 24 LTS）。",
           "**本地模型。** 对于文档自己给出的最小配方，下限是主机 8 GiB 内存，上下文为 64K。页面说明，这个下限既不保证模型放得下，也不保证跑得够快。",
           "**Hostinger 的 VPS。** Hostinger 用 Docker（把每个应用隔离在自己容器中运行的程序）在 VPS 上安装 OpenClaw。VPS 是租来的虚拟服务器，有了 root 权限，就能完全掌控它。"
         ],
@@ -111030,9 +111118,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1（4 GB）。** API 密钥或额度场景的起点。用本地模型的话，低于官方下限。",
+          "**KVM 1（4 GB）。** API 密钥或额度场景的起点。用本地模型的话，低于最小配方的 8 GiB 下限。",
           "**KVM 2（8 GB）。** 用 API 密钥时绰绰有余。用本地模型时刚好在下限边缘，给系统留不出余量。",
-          "**KVM 4（16 GB）。** 第一个高于官方 8 GiB 下限、有余量的套餐。文档没有说它跑本地模型的表现如何。",
+          "**KVM 4（16 GB）。** 第一个高于最小本地配方 8 GiB 下限、有余量的套餐。文档没有说它跑本地模型的表现如何。",
           "**KVM 8（32 GB）。** 只有在用更大的本地模型时才有意义。文档没有说每个大配方需要多少内存。"
         ],
         "postParagraphs": [
@@ -111105,7 +111193,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "云端模型（通过 API 密钥或 Hostinger 额度）：以 4 GB 的 KVM 1 为起点。",
-          "本地模型：16 GB 的 KVM 4，第一个高于官方 8 GiB 下限、有余量的套餐。32 GB 的 KVM 8 只有在用更大的本地模型时才有意义。",
+          "本地模型：16 GB 的 KVM 4，第一个高于最小本地配方 8 GiB 下限、有余量的套餐，实际表现取决于模型和上下文。32 GB 的 KVM 8 只有在用更大的本地模型时才有意义。",
           "不想管服务器：托管方案，由 Hostinger 安装并更新助理。",
           "想免费试用：Oracle Always Free，但要知道 Oracle 可能收回闲置的实例。"
         ]
@@ -111120,9 +111208,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "OpenClaw 的最低服务器要求是什么？官方文档没有公布最低 RAM、CPU 或硬盘，只要求 Node 24.16 或更新（或 26.1）。用 API 密钥或额度时，起点是 KVM 1。用本地模型时，下限是 8 GiB，KVM 4 是第一个有余量的。",
+          "OpenClaw 的最低服务器要求是什么？官方文档没有公布最低 RAM、CPU 或硬盘，稳定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 密钥或额度时，起点是 KVM 1。用本地模型时，只有最小配方的下限是 8 GiB，KVM 4 是第一个对它有余量的。",
           "可以不用 API 密钥运行吗？可以，用本地模型，但这时内存就成了问题：文档把最小本地配方的下限定为 8 GiB（上下文 64K），并提醒这不保证模型放得下，也不保证跑得好。用 Hostinger 额度的话，不需要 AI 供应商的账号，但要按使用量付费。",
-          "Oracle 真的免费吗？只要账户保持在 Always Free 范围内，就是免费的：Arm A1 上 2 个 OCPU 和 12 GB，外加 Micro 实例。如果实例闲置 7 天，CPU、网络和内存都低于 20%，Oracle 可能把它收回。",
+          "Oracle 真的免费吗？只要账户保持在 Always Free 范围内，就是免费的：Arm A1 上 2 个 OCPU 和 12 GB，外加 Micro 实例。如果实例闲置 7 天，CPU（第 95 百分位）和网络低于 20%，在 A1 上内存也低于 20%，Oracle 可能把它收回。",
           "Mac mini 还是 VPS？取决于电脑能不能 24 小时开着。能的话，在家运行可以省掉服务器月费；不能的话，选 VPS 或托管。",
           "Hostinger 有适用于 OpenClaw VPS 的折扣码吗？有：在购物车的优惠码栏输入代码 SONAR20，第一个周期享 20% 折扣。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
@@ -111160,10 +111248,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "如果 AI 模型在供应商那边（API 密钥或 Hostinger 额度），就选 4 GB 的 KVM 1。",
-        "如果要运行本地模型，就选 16 GB 的 KVM 4：它是第一个高于官方 8 GiB 下限、有余量的套餐。"
+        "如果要运行本地模型，就选 16 GB 的 KVM 4：它是第一个高于最小本地配方 8 GiB 下限、有余量的套餐。"
       ],
       "skipIf": [
-        "如果要运行本地模型，就别选 KVM 1：4 GB 低于官方下限。",
+        "如果要运行本地模型，就别选 KVM 1：4 GB 低于最小本地配方的 8 GiB 下限。",
         "如果不想管服务器，就别选 VPS：请看托管方案，由 Hostinger 安装并更新助理。",
         "如果不会用更大的本地模型，就别选 KVM 8。"
       ]
@@ -111205,6 +111293,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "沒有官方最低 RAM 的 OpenClaw，最適合的 VPS：依模型在雲端或本機，列出各情境的 KVM 方案。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -111216,7 +111305,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "快速回答",
         "paragraphs": [
-          "如果 AI 模型放在供應商那邊（不論用 API 金鑰或 Hostinger 額度），起點是 4 GB 的 KVM 1。如果用本機模型，文件給出的下限是 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。不想管伺服器的人，請看下面的託管方案。"
+          "如果 AI 模型放在供應商那邊（不論用 API 金鑰或 Hostinger 額度），起點是 4 GB 的 KVM 1。如果用本機模型，最小配方的下限是 8 GiB，16 GB 的 KVM 4 是第一個有餘裕的方案。不想管伺服器的人，請看下面的託管方案。"
         ]
       },
       {
@@ -111226,7 +111315,7 @@ export const reviewsData: unknown[] = [
           "官方的安裝頁和本機模型頁寫道："
         ],
         "bullets": [
-          "**Node 版本。** OpenClaw 需要 Node 24.16 或更新，或 Node 26.1 或更新。Node 是執行 OpenClaw 的程式，用 npm 安裝時需要這個版本。頁面建議使用 Node 26。如果還沒安裝 Node，官方安裝程式會一併安裝（macOS 為 Node 26，Linux 為 Node 24 LTS）。",
+          "**Node 版本。** OpenClaw 穩定版需要 Node 24 系列的 24.22.1 或更新，或 Node 26.12.1 或更新；不支援 Node 25。Node 是執行 OpenClaw 的程式，用 npm 安裝時需要這個版本。頁面建議使用 Node 26。如果還沒安裝 Node，官方安裝程式會一併安裝（macOS 為 Node 26，Linux 為 Node 24 LTS）。",
           "**本機模型。** 以文件自己列出的最小配方來說，下限是主機 8 GiB 記憶體，上下文為 64K。頁面寫明，這個下限既不保證模型放得下，也不保證跑得夠快。",
           "**Hostinger 的 VPS。** Hostinger 用 Docker（一種把每個應用程式隔離在自己容器中執行的程式）在 VPS 上安裝 OpenClaw。VPS 是租來的虛擬伺服器，有了 root 權限，就能完全掌控它。"
         ],
@@ -111314,9 +111403,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1（4 GB）。** API 金鑰或額度情境的起點。用本機模型的話，低於官方下限。",
+          "**KVM 1（4 GB）。** API 金鑰或額度情境的起點。用本機模型的話，低於最小配方的 8 GiB 下限。",
           "**KVM 2（8 GB）。** 用 API 金鑰時綽綽有餘。用本機模型時剛好在下限邊緣，替系統留不出餘裕。",
-          "**KVM 4（16 GB）。** 第一個高於官方 8 GiB 下限、有餘裕的方案。文件沒有說它跑本機模型的表現如何。",
+          "**KVM 4（16 GB）。** 第一個高於最小本機配方 8 GiB 下限、有餘裕的方案。文件沒有說它跑本機模型的表現如何。",
           "**KVM 8（32 GB）。** 只有在用更大的本機模型時才有意義。文件沒有說每個大配方需要多少記憶體。"
         ],
         "postParagraphs": [
@@ -111389,7 +111478,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "雲端模型（透過 API 金鑰或 Hostinger 額度）：以 4 GB 的 KVM 1 為起點。",
-          "本機模型：16 GB 的 KVM 4，第一個高於官方 8 GiB 下限、有餘裕的方案。32 GB 的 KVM 8 只有在用更大的本機模型時才有意義。",
+          "本機模型：16 GB 的 KVM 4，第一個高於最小本機配方 8 GiB 下限、有餘裕的方案，實際表現取決於模型和上下文。32 GB 的 KVM 8 只有在用更大的本機模型時才有意義。",
           "不想管伺服器：託管方案，由 Hostinger 安裝並更新助理。",
           "想免費試用：Oracle Always Free，但要知道 Oracle 可能回收閒置的執行個體。"
         ]
@@ -111404,9 +111493,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "OpenClaw 的最低伺服器需求是什麼？官方文件沒有公布最低 RAM、CPU 或硬碟，只要求 Node 24.16 或更新（或 26.1）。用 API 金鑰或額度時，起點是 KVM 1。用本機模型時，下限是 8 GiB，KVM 4 是第一個有餘裕的。",
+          "OpenClaw 的最低伺服器需求是什麼？官方文件沒有公布最低 RAM、CPU 或硬碟，穩定版只要求 Node 24.22.1 或更新（或 26.12.1）。用 API 金鑰或額度時，起點是 KVM 1。用本機模型時，只有最小配方的下限是 8 GiB，KVM 4 是第一個對它有餘裕的。",
           "可以不用 API 金鑰執行嗎？可以，用本機模型，但這時記憶體就成了問題：文件把最小本機配方的下限定為 8 GiB（上下文 64K），並提醒這不保證模型放得下，也不保證跑得好。用 Hostinger 額度的話，不需要 AI 供應商的帳號，但要按使用量付費。",
-          "Oracle 真的免費嗎？只要帳號維持在 Always Free 範圍內，就是免費的：Arm A1 上 2 個 OCPU 和 12 GB，外加 Micro 執行個體。如果執行個體閒置 7 天，CPU、網路和記憶體都低於 20%，Oracle 可能把它回收。",
+          "Oracle 真的免費嗎？只要帳號維持在 Always Free 範圍內，就是免費的：Arm A1 上 2 個 OCPU 和 12 GB，外加 Micro 執行個體。如果執行個體閒置 7 天，CPU（第 95 百分位）和網路低於 20%，在 A1 上記憶體也低於 20%，Oracle 可能把它回收。",
           "Mac mini 還是 VPS？取決於電腦能不能 24 小時開著。能的話，在家執行可以省掉伺服器月費；不能的話，選 VPS 或託管。",
           "Hostinger 有適用於 OpenClaw VPS 的折扣碼嗎？有：在購物車的優惠碼欄位輸入代碼 SONAR20，第一個週期享 20% 折扣。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
@@ -111444,10 +111533,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "如果 AI 模型在供應商那邊（API 金鑰或 Hostinger 額度），就選 4 GB 的 KVM 1。",
-        "如果要執行本機模型，就選 16 GB 的 KVM 4：它是第一個高於官方 8 GiB 下限、有餘裕的方案。"
+        "如果要執行本機模型，就選 16 GB 的 KVM 4：它是第一個高於最小本機配方 8 GiB 下限、有餘裕的方案。"
       ],
       "skipIf": [
-        "如果要執行本機模型，就別選 KVM 1：4 GB 低於官方下限。",
+        "如果要執行本機模型，就別選 KVM 1：4 GB 低於最小本機配方的 8 GiB 下限。",
         "如果不想管伺服器，就別選 VPS：請看託管方案，由 Hostinger 安裝並更新助理。",
         "如果不會用更大的本機模型，就別選 KVM 8。"
       ]
@@ -111489,6 +111578,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Best VPS for OpenClaw with no official minimum RAM: the KVM plan for each scenario, with a cloud or local model.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -111500,7 +111590,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quick answer",
         "paragraphs": [
-          "If the AI model runs at a provider, through an API key or Hostinger's AI credits, KVM 1, with 4 GB, is the starting point. For a local model, the documentation sets an 8 GiB floor, and KVM 4, with 16 GB, is the first plan with room to spare. If you do not want to look after a server, see the managed option below."
+          "If the AI model runs at a provider, through an API key or Hostinger's AI credits, KVM 1, with 4 GB, is the starting point. For a local model, the smallest recipe sets an 8 GiB floor, and KVM 4, with 16 GB, is the first plan with room to spare. If you do not want to look after a server, see the managed option below."
         ]
       },
       {
@@ -111510,7 +111600,7 @@ export const reviewsData: unknown[] = [
           "The official installation and local-model pages say the following:"
         ],
         "bullets": [
-          "**Node version.** OpenClaw requires Node 24.16 or newer, or Node 26.1 or newer. Node is the program that runs OpenClaw, and installing through npm requires that version. The page recommends Node 26. If Node is not installed, the official installer includes the version (Node 26 on macOS and Node 24 LTS on Linux).",
+          "**Node version.** The stable OpenClaw release requires Node 24.22.1 or newer on the 24 line, or Node 26.12.1 or newer; Node 25 is not supported. Node is the program that runs OpenClaw, and installing through npm requires that version. The page recommends Node 26. If Node is not installed, the official installer includes the version (Node 26 on macOS and Node 24 LTS on Linux).",
           "**Local model.** For the smallest recipe the documentation itself offers, the floor is 8 GiB of host memory, with a 64K context. The page says these floors \"do not guarantee the model fits or runs at speed\".",
           "**Hostinger VPS.** Hostinger installs OpenClaw on the VPS with Docker, a program that runs each application isolated in a container. A VPS is a rented virtual server; with root access, you have full control of it."
         ],
@@ -111598,9 +111688,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1 (4 GB).** Starting point for the API key or credits scenario. For a local model, it is below the official floor.",
+          "**KVM 1 (4 GB).** Starting point for the API key or credits scenario. For a local model, it is below the 8 GiB floor of the smallest recipe.",
           "**KVM 2 (8 GB).** For an API key, there is room to spare. For a local model, it sits at the floor, with no margin for the system.",
-          "**KVM 4 (16 GB).** The first plan with room above the official 8 GiB floor. The documentation does not say how well it performs with a local model.",
+          "**KVM 4 (16 GB).** The first plan with room above the 8 GiB floor of the smallest local recipe. The documentation does not say how well it performs with a local model.",
           "**KVM 8 (32 GB).** Makes sense only with a larger local model. The documentation does not say how much memory each large recipe needs."
         ],
         "postParagraphs": [
@@ -111673,7 +111763,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Model in the cloud, through the API key or Hostinger's AI credits: KVM 1, with 4 GB, as the starting point.",
-          "Local model: KVM 4, with 16 GB, the first plan with room above the official 8 GiB floor. KVM 8, with 32 GB, makes sense only with a larger local model.",
+          "Local model: KVM 4, with 16 GB, the first plan with room above the 8 GiB floor of the smallest local recipe; performance depends on the model and the context. KVM 8, with 32 GB, makes sense only with a larger local model.",
           "If you do not want to look after a server: the managed option, where Hostinger installs and updates the assistant.",
           "To test without paying: Oracle Always Free, knowing that Oracle can reclaim an idle instance."
         ]
@@ -111688,9 +111778,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "What is the minimum server for OpenClaw? The official documentation publishes no minimum RAM, CPU or disk; it requires Node 24.16 or newer (or 26.1). With an API key or credits, KVM 1 is the starting point. With a local model, the floor is 8 GiB, and KVM 4 is the first with room to spare.",
+          "What is the minimum server for OpenClaw? The official documentation publishes no minimum RAM, CPU or disk; the stable release requires Node 24.22.1 or newer (or 26.12.1). With an API key or credits, KVM 1 is the starting point. With a local model, the 8 GiB floor applies to the smallest recipe only, and KVM 4 is the first with room to spare for it.",
           "Can you run it without an API key? Yes, with a local model, but then memory becomes the problem: the documentation gives 8 GiB as the floor for its smallest local recipe, with a 64K context, and warns that this does not guarantee the model fits or runs well. With Hostinger's credits, you do not need an account with an AI provider, but you pay for usage.",
-          "Is Oracle really free? Yes, as long as the account stays within Always Free: 2 OCPUs and 12 GB on the Arm A1, plus the Micro instances. An instance that sits idle for 7 days, with CPU, network and memory below 20%, can be reclaimed by Oracle.",
+          "Is Oracle really free? Yes, as long as the account stays within Always Free: 2 OCPUs and 12 GB on the Arm A1, plus the Micro instances. An instance that sits idle for 7 days, with CPU (95th percentile) and network below 20% and, on the A1, memory too, can be reclaimed by Oracle.",
           "Mac mini or VPS? It depends on whether the computer can stay on 24 hours. If it can, running at home removes the server fee; if it cannot, choose a VPS or the managed option.",
           "Is there a Hostinger discount coupon for an OpenClaw VPS? Yes: the code SONAR20, in the cart's coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
@@ -111728,10 +111818,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Take KVM 1, with 4 GB, if the AI model stays at the provider, through the API key or Hostinger's AI credits.",
-        "Take KVM 4, with 16 GB, if you will run a local model: it is the first plan with room above the official 8 GiB floor."
+        "Take KVM 4, with 16 GB, if you will run a local model: it is the first plan with room above the 8 GiB floor of the smallest local recipe."
       ],
       "skipIf": [
-        "Skip KVM 1 if you will run a local model: 4 GB is below the official floor.",
+        "Skip KVM 1 if you will run a local model: 4 GB is below the 8 GiB floor of the smallest local recipe.",
         "Skip the VPS if you do not want to look after a server: see the managed option, where Hostinger installs and updates the assistant.",
         "Skip KVM 8 if you will not use a larger local model."
       ]
@@ -111773,6 +111863,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Bester VPS für OpenClaw ohne offiziellen RAM-Mindestwert: der KVM-Tarif je Szenario, mit Cloud- oder lokalem Modell.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
@@ -111783,7 +111874,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Kurze Antwort",
         "paragraphs": [
-          "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt die Dokumentation 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Wer sich nicht um einen Server kümmern will, sieht sich unten den verwalteten Weg an."
+          "Liegt das KI-Modell beim Anbieter, über Ihren API-Schlüssel oder das KI-Guthaben von Hostinger, ist der KVM 1 mit 4 GB der Ausgangspunkt. Bei einem lokalen Modell verlangt das kleinste Rezept 8 GiB, und der KVM 4 mit 16 GB ist der erste Tarif mit Reserve. Wer sich nicht um einen Server kümmern will, sieht sich unten den verwalteten Weg an."
         ]
       },
       {
@@ -111793,7 +111884,7 @@ export const reviewsData: unknown[] = [
           "Die offiziellen Seiten zur Installation und zu lokalen Modellen sagen Folgendes:"
         ],
         "bullets": [
-          "**Node-Version.** OpenClaw verlangt Node 24.16 oder neuer, oder Node 26.1 oder neuer. Node ist das Programm, das OpenClaw ausführt, und die Installation über npm setzt diese Version voraus. Die Seite empfiehlt Node 26. Ist Node nicht installiert, bringt der offizielle Installer die Version mit (Node 26 unter macOS und Node 24 LTS unter Linux).",
+          "**Node-Version.** Die stabile OpenClaw-Version verlangt Node 24.22.1 oder neuer in der Linie 24, oder Node 26.12.1 oder neuer; Node 25 wird nicht unterstützt. Node ist das Programm, das OpenClaw ausführt, und die Installation über npm setzt diese Version voraus. Die Seite empfiehlt Node 26. Ist Node nicht installiert, bringt der offizielle Installer die Version mit (Node 26 unter macOS und Node 24 LTS unter Linux).",
           "**Lokales Modell.** Für das kleinste Rezept, das die Dokumentation selbst anbietet, liegt die Untergrenze bei 8 GiB Host-Speicher, mit 64K Kontext. Die Seite sagt, diese Untergrenzen „garantieren weder, dass das Modell hineinpasst, noch, dass es schnell läuft“.",
           "**VPS von Hostinger.** Hostinger installiert OpenClaw auf dem VPS mit Docker, einem Programm, das jede Anwendung isoliert in einem Container ausführt. Der VPS ist ein gemieteter virtueller Server; mit Root-Zugriff haben Sie die volle Kontrolle darüber."
         ],
@@ -111881,9 +111972,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1 (4 GB).** Ausgangspunkt für das Szenario mit API-Schlüssel oder Guthaben. Für ein lokales Modell liegt er unter der offiziellen Untergrenze.",
+          "**KVM 1 (4 GB).** Ausgangspunkt für das Szenario mit API-Schlüssel oder Guthaben. Für ein lokales Modell liegt er unter der Untergrenze von 8 GiB des kleinsten Rezepts.",
           "**KVM 2 (8 GB).** Mit API-Schlüssel gibt es reichlich Spielraum. Mit lokalem Modell liegt er genau an der Untergrenze, ohne Reserve für das System.",
-          "**KVM 4 (16 GB).** Der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. Die Dokumentation sagt nicht, wie viel er mit einem lokalen Modell leistet.",
+          "**KVM 4 (16 GB).** Der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts. Die Dokumentation sagt nicht, wie viel er mit einem lokalen Modell leistet.",
           "**KVM 8 (32 GB).** Sinnvoll nur mit einem größeren lokalen Modell. Die Dokumentation sagt nicht, wie viel Speicher jedes große Rezept braucht."
         ],
         "postParagraphs": [
@@ -111956,7 +112047,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Modell in der Cloud, über den API-Schlüssel oder das KI-Guthaben von Hostinger: KVM 1 mit 4 GB als Ausgangspunkt.",
-          "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB. Der KVM 8 mit 32 GB ist nur mit einem größeren lokalen Modell sinnvoll.",
+          "Lokales Modell: KVM 4 mit 16 GB, der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts; die Leistung hängt von Modell und Kontext ab. Der KVM 8 mit 32 GB ist nur mit einem größeren lokalen Modell sinnvoll.",
           "Wer sich nicht um einen Server kümmern will: der verwaltete Weg, bei dem Hostinger den Assistenten installiert und aktualisiert.",
           "Zum Testen ohne Bezahlung: Oracle Always Free, mit dem Wissen, dass Oracle eine ungenutzte Instanz zurückholen kann."
         ]
@@ -111971,9 +112062,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Festplatte; sie verlangt Node 24.16 oder neuer (oder 26.1). Mit API-Schlüssel oder Guthaben ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell liegt die Untergrenze bei 8 GiB, und der KVM 4 ist der erste mit Reserve.",
+          "Was ist der Mindestserver für OpenClaw? Die offizielle Dokumentation nennt keine Mindestwerte für RAM, CPU oder Festplatte; die stabile Version verlangt Node 24.22.1 oder neuer (oder 26.12.1). Mit API-Schlüssel oder Guthaben ist der KVM 1 der Ausgangspunkt. Mit lokalem Modell gilt die Untergrenze von 8 GiB nur für das kleinste Rezept, und der KVM 4 ist dafür der erste mit Reserve.",
           "Geht es ohne API-Schlüssel? Ja, mit lokalem Modell, aber dann ist der Speicher das Problem: Die Dokumentation nennt 8 GiB als Untergrenze für das kleinste lokale Rezept mit 64K Kontext und warnt, dass das weder garantiert, dass das Modell passt, noch, dass es gut läuft. Mit dem Guthaben von Hostinger brauchen Sie kein Konto bei einem KI-Anbieter, zahlen aber nach Nutzung.",
-          "Ist Oracle wirklich kostenlos? Ja, solange das Konto bei Always Free bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang ungenutzt bleibt, mit CPU, Netzwerk und Speicher unter 20 %, kann von Oracle zurückgeholt werden.",
+          "Ist Oracle wirklich kostenlos? Ja, solange das Konto bei Always Free bleibt: 2 OCPUs und 12 GB auf dem Arm A1, dazu die Micro-Instanzen. Eine Instanz, die 7 Tage lang ungenutzt bleibt, mit CPU (95. Perzentil) und Netzwerk unter 20 % und, bei den A1, auch Speicher unter 20 %, kann von Oracle zurückgeholt werden.",
           "Mac mini oder VPS? Das hängt davon ab, ob der Computer 24 Stunden laufen kann. Wenn ja, spart der Betrieb zu Hause die Servergebühr; wenn nein, wählen Sie VPS oder den verwalteten Weg.",
           "Gibt es einen Hostinger-Gutschein für einen OpenClaw-VPS? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
@@ -112012,10 +112103,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Nehmen Sie den KVM 1 mit 4 GB, wenn das KI-Modell beim Anbieter bleibt, über den API-Schlüssel oder das KI-Guthaben von Hostinger.",
-        "Nehmen Sie den KVM 4 mit 16 GB, wenn Sie ein lokales Modell betreiben: Er ist der erste Tarif mit Reserve über der offiziellen Untergrenze von 8 GiB."
+        "Nehmen Sie den KVM 4 mit 16 GB, wenn Sie ein lokales Modell betreiben: Er ist der erste Tarif mit Reserve über der Untergrenze von 8 GiB des kleinsten lokalen Rezepts."
       ],
       "skipIf": [
-        "Lassen Sie den KVM 1 aus, wenn Sie ein lokales Modell betreiben: 4 GB liegen unter der offiziellen Untergrenze.",
+        "Lassen Sie den KVM 1 aus, wenn Sie ein lokales Modell betreiben: 4 GB liegen unter der Untergrenze von 8 GiB des kleinsten lokalen Rezepts.",
         "Lassen Sie den VPS aus, wenn Sie sich nicht um einen Server kümmern wollen: Sehen Sie sich den verwalteten Weg an, bei dem Hostinger den Assistenten installiert und aktualisiert.",
         "Lassen Sie den KVM 8 aus, wenn Sie kein größeres lokales Modell nutzen."
       ]
@@ -112057,6 +112148,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Meilleur VPS pour OpenClaw sans RAM minimale officielle : le KVM selon le scénario, avec un modèle dans le cloud ou en local.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -112068,7 +112160,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Réponse rapide",
         "paragraphs": [
-          "Si le modèle d'IA reste chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la documentation demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Si vous ne voulez pas gérer un serveur, regardez l'offre gérée, plus bas."
+          "Si le modèle d'IA reste chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la plus petite recette demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Si vous ne voulez pas gérer un serveur, regardez l'offre gérée, plus bas."
         ]
       },
       {
@@ -112078,7 +112170,7 @@ export const reviewsData: unknown[] = [
           "Les pages officielles d'installation et de modèles locaux disent ceci :"
         ],
         "bullets": [
-          "**Version de Node.** OpenClaw demande Node 24.16 ou plus récent, ou Node 26.1 ou plus récent. Node est le programme qui exécute OpenClaw, et l'installation par npm exige cette version. La page recommande Node 26. Si Node n'est pas installé, l'installateur officiel apporte la version (Node 26 sous macOS et Node 24 LTS sous Linux).",
+          "**Version de Node.** La version stable d'OpenClaw demande Node 24.22.1 ou plus récent sur la ligne 24, ou Node 26.12.1 ou plus récent ; Node 25 n'est pas pris en charge. Node est le programme qui exécute OpenClaw, et l'installation par npm exige cette version. La page recommande Node 26. Si Node n'est pas installé, l'installateur officiel apporte la version (Node 26 sous macOS et Node 24 LTS sous Linux).",
           "**Modèle local.** Pour la plus petite recette proposée par la documentation elle-même, le plancher est de 8 GiB de mémoire de l'hôte, avec un contexte de 64K. La page précise que ces planchers « ne garantissent pas que le modèle tienne ni qu'il tourne vite ».",
           "**VPS de Hostinger.** Hostinger installe OpenClaw sur le VPS avec Docker, un programme qui fait tourner chaque application isolée dans un conteneur. Le VPS est un serveur virtuel loué ; avec l'accès root, vous en avez le contrôle total."
         ],
@@ -112166,9 +112258,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1 (4 Go).** Point de départ pour le scénario clé d'API ou crédits. Pour un modèle local, il est sous le plancher officiel.",
+          "**KVM 1 (4 Go).** Point de départ pour le scénario clé d'API ou crédits. Pour un modèle local, il est sous le plancher de 8 GiB de la plus petite recette.",
           "**KVM 2 (8 Go).** Avec une clé d'API, il y a de la marge. Avec un modèle local, il est à la limite du plancher, sans marge pour le système.",
-          "**KVM 4 (16 Go).** C'est le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB. La documentation ne dit pas ce qu'il donne avec un modèle local.",
+          "**KVM 4 (16 Go).** C'est le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale. La documentation ne dit pas ce qu'il donne avec un modèle local.",
           "**KVM 8 (32 Go).** N'a de sens qu'avec un modèle local plus grand. La documentation ne dit pas combien de mémoire demande chaque grande recette."
         ],
         "postParagraphs": [
@@ -112241,7 +112333,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Modèle dans le cloud, via la clé d'API ou les crédits IA de Hostinger : KVM 1, avec 4 Go, comme point de départ.",
-          "Modèle local : KVM 4, avec 16 Go, le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB. Le KVM 8, avec 32 Go, n'a de sens qu'avec un modèle local plus grand.",
+          "Modèle local : KVM 4, avec 16 Go, le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale ; le résultat dépend du modèle et du contexte. Le KVM 8, avec 32 Go, n'a de sens qu'avec un modèle local plus grand.",
           "Si vous ne voulez pas gérer un serveur : l'offre gérée, où Hostinger installe et met à jour l'assistant.",
           "Pour tester sans payer : Oracle Always Free, en sachant qu'Oracle peut récupérer une instance inactive."
         ]
@@ -112256,9 +112348,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Quel est le serveur minimum pour OpenClaw ? La documentation officielle ne publie ni minimum de RAM, de CPU ni de disque ; elle exige Node 24.16 ou plus récent (ou 26.1). Avec une clé d'API ou des crédits, le KVM 1 est le point de départ. Avec un modèle local, le plancher est de 8 GiB, et le KVM 4 est le premier avec de la marge.",
+          "Quel est le serveur minimum pour OpenClaw ? La documentation officielle ne publie ni minimum de RAM, de CPU ni de disque ; la version stable exige Node 24.22.1 ou plus récent (ou 26.12.1). Avec une clé d'API ou des crédits, le KVM 1 est le point de départ. Avec un modèle local, le plancher de 8 GiB ne vaut que pour la plus petite recette, et le KVM 4 est le premier avec de la marge pour elle.",
           "Peut-on s'en passer, sans clé d'API ? Oui, avec un modèle local, mais alors la mémoire devient le problème : la documentation donne 8 GiB comme plancher de sa plus petite recette locale, avec un contexte de 64K, et prévient que cela ne garantit ni que le modèle tienne, ni qu'il tourne bien. Avec les crédits de Hostinger, vous n'avez pas besoin d'un compte chez un fournisseur d'IA, mais vous payez l'usage.",
-          "Oracle est-il vraiment gratuit ? Oui, tant que le compte reste dans l'Always Free : 2 OCPU et 12 Go sur les A1 Arm, plus les instances Micro. Une instance inactive pendant 7 jours, avec CPU, réseau et mémoire sous 20 %, peut être récupérée par Oracle.",
+          "Oracle est-il vraiment gratuit ? Oui, tant que le compte reste dans l'Always Free : 2 OCPU et 12 Go sur les A1 Arm, plus les instances Micro. Une instance inactive pendant 7 jours, avec CPU (95e centile) et réseau sous 20 % et, sur les A1, mémoire aussi, peut être récupérée par Oracle.",
           "Mac mini ou VPS ? Cela dépend de la possibilité de laisser l'ordinateur allumé 24 heures sur 24. Si c'est possible, tourner chez soi supprime la mensualité du serveur ; sinon, choisissez un VPS ou l'offre gérée.",
           "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
@@ -112296,10 +112388,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Prenez le KVM 1, avec 4 Go, si le modèle d'IA reste chez le fournisseur, via la clé d'API ou les crédits IA de Hostinger.",
-        "Prenez le KVM 4, avec 16 Go, si vous allez faire tourner un modèle local : c'est le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB."
+        "Prenez le KVM 4, avec 16 Go, si vous allez faire tourner un modèle local : c'est le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale."
       ],
       "skipIf": [
-        "Passez votre tour sur le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher officiel.",
+        "Passez votre tour sur le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher de 8 GiB de la plus petite recette locale.",
         "Passez votre tour sur le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger installe et met à jour l'assistant.",
         "Passez votre tour sur le KVM 8 si vous n'allez pas utiliser un modèle local plus grand."
       ]
@@ -112341,6 +112433,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Mejor VPS para OpenClaw sin RAM mínima oficial: el KVM para cada escenario, con modelo en la nube o local.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -112352,7 +112445,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Respuesta rápida",
         "paragraphs": [
-          "Con el modelo de IA en el proveedor, por tu clave de API o los créditos de IA de Hostinger, el KVM 1, con 4 GB, es el punto de partida. Con un modelo local, la documentación pide 8 GiB, y el KVM 4, con 16 GB, es el primero con margen. Si no quieres ocuparte de un servidor, mira la opción gestionada, más abajo."
+          "Con el modelo de IA en el proveedor, por tu clave de API o los créditos de IA de Hostinger, el KVM 1, con 4 GB, es el punto de partida. Con un modelo local, la receta más pequeña pide 8 GiB, y el KVM 4, con 16 GB, es el primero con margen. Si no quieres ocuparte de un servidor, mira la opción gestionada, más abajo."
         ]
       },
       {
@@ -112362,7 +112455,7 @@ export const reviewsData: unknown[] = [
           "Las páginas oficiales de instalación y de modelos locales dicen lo siguiente:"
         ],
         "bullets": [
-          "**Versión de Node.** OpenClaw pide Node 24.16 o más reciente, o Node 26.1 o más reciente. Node es el programa que ejecuta OpenClaw, y la instalación por npm exige esa versión. La página recomienda Node 26. Si Node no está instalado, el instalador oficial trae la versión (Node 26 en macOS y Node 24 LTS en Linux).",
+          "**Versión de Node.** La versión estable de OpenClaw pide Node 24.22.1 o más reciente en la línea 24, o Node 26.12.1 o más reciente; Node 25 no es compatible. Node es el programa que ejecuta OpenClaw, y la instalación por npm exige esa versión. La página recomienda Node 26. Si Node no está instalado, el instalador oficial trae la versión (Node 26 en macOS y Node 24 LTS en Linux).",
           "**Modelo local.** Para la receta más pequeña que ofrece la propia documentación, el piso es de 8 GiB de memoria del host, con un contexto de 64K. La página dice que esos pisos \"no garantizan que el modelo quepa ni que funcione con velocidad\".",
           "**VPS de Hostinger.** Hostinger instala OpenClaw en el VPS con Docker, un programa que ejecuta cada aplicación aislada dentro de un contenedor. El VPS es un servidor virtual alquilado; con acceso root, tienes control total sobre él."
         ],
@@ -112450,9 +112543,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1 (4 GB).** Punto de partida para el escenario de clave de API o créditos. Para un modelo local, queda por debajo del piso oficial.",
+          "**KVM 1 (4 GB).** Punto de partida para el escenario de clave de API o créditos. Para un modelo local, queda por debajo del piso de 8 GiB de la receta más pequeña.",
           "**KVM 2 (8 GB).** Con clave de API, sobra margen. Con un modelo local, queda en el límite del piso, sin margen para el sistema.",
-          "**KVM 4 (16 GB).** Es el primer plan con margen por encima del piso oficial de 8 GiB. La documentación no dice cuánto rinde con un modelo local.",
+          "**KVM 4 (16 GB).** Es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña. La documentación no dice cuánto rinde con un modelo local.",
           "**KVM 8 (32 GB).** Tiene sentido solo con un modelo local más grande. La documentación no dice cuánta memoria pide cada receta grande."
         ],
         "postParagraphs": [
@@ -112525,7 +112618,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Modelo en la nube, por la clave de API o los créditos de IA de Hostinger: KVM 1, con 4 GB, como punto de partida.",
-          "Modelo local: KVM 4, con 16 GB, el primer plan con margen por encima del piso oficial de 8 GiB. El KVM 8, con 32 GB, tiene sentido solo con un modelo local más grande.",
+          "Modelo local: KVM 4, con 16 GB, el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña; el resultado depende del modelo y del contexto. El KVM 8, con 32 GB, tiene sentido solo con un modelo local más grande.",
           "Si no quieres ocuparte de un servidor: la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
           "Para probar sin pagar: Oracle Always Free, sabiendo que Oracle puede recuperar una instancia inactiva."
         ]
@@ -112540,9 +112633,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Cuál es el servidor mínimo para OpenClaw? La documentación oficial no publica mínimos de RAM, CPU ni disco; exige Node 24.16 o más reciente (o 26.1). Con clave de API o créditos, el KVM 1 es el punto de partida. Con modelo local, el piso es de 8 GiB, y el KVM 4 es el primero con margen.",
+          "¿Cuál es el servidor mínimo para OpenClaw? La documentación oficial no publica mínimos de RAM, CPU ni disco; en la versión estable exige Node 24.22.1 o más reciente (o 26.12.1). Con clave de API o créditos, el KVM 1 es el punto de partida. Con modelo local, el piso de 8 GiB vale solo para la receta más pequeña, y el KVM 4 es el primero con margen para ella.",
           "¿Se puede usar sin clave de API? Sí, con un modelo local, pero entonces la memoria es el problema: la documentación da 8 GiB como piso de su receta local más pequeña, con un contexto de 64K, y advierte de que eso no garantiza que el modelo quepa ni que funcione bien. Con los créditos de Hostinger no necesitas una cuenta en un proveedor de IA, pero pagas por el uso.",
-          "¿Oracle es gratis de verdad? Sí, mientras la cuenta siga en Always Free: 2 OCPU y 12 GB en las A1 Arm, más las instancias Micro. Una instancia inactiva durante 7 días, con CPU, red y memoria por debajo del 20%, puede ser recuperada por Oracle.",
+          "¿Oracle es gratis de verdad? Sí, mientras la cuenta siga en Always Free: 2 OCPU y 12 GB en las A1 Arm, más las instancias Micro. Una instancia inactiva durante 7 días, con CPU (percentil 95) y red por debajo del 20% y, en las A1, también la memoria, puede ser recuperada por Oracle.",
           "¿Mac mini o VPS? Depende de si la computadora puede quedar encendida las 24 horas. Si puede, correrlo en casa elimina la mensualidad del servidor; si no puede, elige VPS o gestionado.",
           "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da un 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
@@ -112580,10 +112673,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Elige el KVM 1, con 4 GB, si el modelo de IA queda en el proveedor, por la clave de API o los créditos de IA de Hostinger.",
-        "Elige el KVM 4, con 16 GB, si vas a correr un modelo local: es el primer plan con margen por encima del piso oficial de 8 GiB."
+        "Elige el KVM 4, con 16 GB, si vas a correr un modelo local: es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña."
       ],
       "skipIf": [
-        "Descarta el KVM 1 si vas a correr un modelo local: 4 GB queda por debajo del piso oficial.",
+        "Descarta el KVM 1 si vas a correr un modelo local: 4 GB queda por debajo del piso de 8 GiB de la receta local más pequeña.",
         "Descarta el VPS si no quieres ocuparte de un servidor: mira la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
         "Descarta el KVM 8 si no vas a usar un modelo local más grande."
       ]
@@ -112625,6 +112718,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SONAR20 dá 20% OFF nos VPS da Hostinger. Melhor VPS para OpenClaw sem RAM mínima oficial: KVM por cenário, modelo na nuvem ou local.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
@@ -112635,7 +112729,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Com o modelo de IA no provedor, pela chave de API ou pelos créditos da Hostinger, o KVM 1, com 4 GB, é o ponto de partida. Com modelo local, a documentação pede 8 GiB, e o KVM 4, com 16 GB, é o primeiro com folga. Quem não quer cuidar de servidor deve ver o gerenciado, abaixo."
+          "Com o modelo de IA no provedor, pela chave de API ou pelos créditos da Hostinger, o KVM 1, com 4 GB, é o ponto de partida. Com modelo local, a menor receita pede 8 GiB, e o KVM 4, com 16 GB, é o primeiro com folga. Quem não quer cuidar de servidor deve ver o gerenciado, abaixo."
         ]
       },
       {
@@ -112645,7 +112739,7 @@ export const reviewsData: unknown[] = [
           "As páginas oficiais de instalação e de modelos locais dizem o seguinte:"
         ],
         "bullets": [
-          "**Versão do Node.** O OpenClaw pede Node 24.16 ou mais novo, ou Node 26.1 ou mais novo. O Node é o programa que executa o OpenClaw, e a instalação por npm exige essa versão. A página recomenda o Node 26. Se o Node não estiver instalado, o instalador oficial traz a versão (Node 26 no macOS e Node 24 LTS no Linux).",
+          "**Versão do Node.** A versão estável do OpenClaw pede Node 24.22.1 ou mais novo na linha 24, ou Node 26.12.1 ou mais novo; o Node 25 não é suportado. O Node é o programa que executa o OpenClaw, e a instalação por npm exige essa versão. A página recomenda o Node 26. Se o Node não estiver instalado, o instalador oficial traz a versão (Node 26 no macOS e Node 24 LTS no Linux).",
           "**Modelo local.** Para a receita menor oferecida pela própria documentação, o piso é de 8 GiB de memória do host, com contexto de 64K. A página diz que esses pisos \"não garantem que o modelo caiba nem que rode com velocidade\".",
           "**VPS da Hostinger.** A Hostinger instala o OpenClaw no VPS com Docker, um programa que roda cada aplicativo isolado dentro de um contêiner. O VPS é um servidor virtual alugado; com acesso root, você tem controle total dele."
         ],
@@ -112748,9 +112842,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1 (4 GB).** Ponto de partida para o cenário de chave de API ou créditos. Para modelo local, fica abaixo do piso oficial.",
+          "**KVM 1 (4 GB).** Ponto de partida para o cenário de chave de API ou créditos. Para modelo local, fica abaixo do piso de 8 GiB da menor receita.",
           "**KVM 2 (8 GB).** Para chave de API, sobra folga. Para modelo local, fica no limite do piso, sem margem para o sistema.",
-          "**KVM 4 (16 GB).** É o primeiro plano com folga acima do piso oficial de 8 GiB. A documentação não diz quanto ele rende com um modelo local.",
+          "**KVM 4 (16 GB).** É o primeiro plano com folga acima do piso de 8 GiB da menor receita local. A documentação não diz quanto ele rende com um modelo local.",
           "**KVM 8 (32 GB).** Faz sentido só com um modelo local maior. A documentação não diz quanta memória cada receita grande pede."
         ],
         "postParagraphs": [
@@ -112823,7 +112917,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Modelo na nuvem, pela chave de API ou pelos créditos da Hostinger: KVM 1, com 4 GB, como ponto de partida.",
-          "Modelo local: KVM 4, com 16 GB, o primeiro plano com folga acima do piso oficial de 8 GiB. O KVM 8, com 32 GB, só faz sentido com um modelo local maior.",
+          "Modelo local: KVM 4, com 16 GB, o primeiro plano com folga acima do piso de 8 GiB da menor receita local; o desempenho depende do modelo e do contexto. O KVM 8, com 32 GB, só faz sentido com um modelo local maior.",
           "Sem querer cuidar de servidor: o gerenciado, em que a Hostinger instala e atualiza o assistente.",
           "Para testar sem pagar: a Oracle Always Free, sabendo que a Oracle pode recuperar uma instância ociosa."
         ]
@@ -112840,9 +112934,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual é o mínimo de servidor para o OpenClaw? A documentação oficial não publica RAM, CPU nem disco mínimos; ela exige Node 24.16 ou mais recente (ou 26.1). Com chave de API ou créditos, o KVM 1 é o ponto de partida. Com modelo local, o piso é de 8 GiB, e o KVM 4 é o primeiro com folga.",
+          "Qual é o mínimo de servidor para o OpenClaw? A documentação oficial não publica RAM, CPU nem disco mínimos; na versão estável, ela exige Node 24.22.1 ou mais recente (ou 26.12.1). Com chave de API ou créditos, o KVM 1 é o ponto de partida. Com modelo local, o piso de 8 GiB vale só para a menor receita, e o KVM 4 é o primeiro com folga para ela.",
           "Dá para rodar sem chave de API? Dá, com modelo local, mas aí a memória vira o problema: a documentação dá 8 GiB como piso da menor receita local, com contexto de 64K, e avisa que isso não garante que o modelo caiba nem que rode bem. Com os créditos da Hostinger, você não precisa de conta num provedor de IA, mas paga pelo uso.",
-          "Oracle é de graça mesmo? É, enquanto a conta seguir o Always Free: 2 OCPUs e 12 GB no Arm A1, mais as instâncias Micro. Uma instância que fica ociosa por 7 dias, com CPU, rede e memória abaixo de 20%, pode ser recuperada pela Oracle.",
+          "Oracle é de graça mesmo? É, enquanto a conta seguir o Always Free: 2 OCPUs e 12 GB no Arm A1, mais as instâncias Micro. Uma instância que fica ociosa por 7 dias, com CPU (percentil 95) e rede abaixo de 20% e, nas A1, também a memória, pode ser recuperada pela Oracle.",
           "Mac mini ou VPS? Depende de o computador poder ficar ligado 24 horas. Se pode, rodar em casa tira a mensalidade do servidor; se não pode, escolha VPS ou gerenciado.",
           "Tem cupom de desconto da Hostinger para VPS do OpenClaw? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
@@ -112858,10 +112952,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve o KVM 1, com 4 GB, se o modelo de IA fica no provedor, pela chave de API ou pelos créditos da Hostinger.",
-        "Leve o KVM 4, com 16 GB, se vai rodar modelo local: é o primeiro plano com folga acima do piso oficial de 8 GiB."
+        "Leve o KVM 4, com 16 GB, se vai rodar modelo local: é o primeiro plano com folga acima do piso de 8 GiB da menor receita local."
       ],
       "skipIf": [
-        "Passe no KVM 1 se vai rodar modelo local: 4 GB fica abaixo do piso oficial.",
+        "Passe no KVM 1 se vai rodar modelo local: 4 GB fica abaixo do piso de 8 GiB da menor receita local.",
         "Passe no VPS se você não quer cuidar de servidor: veja o gerenciado, em que a Hostinger instala e atualiza o assistente.",
         "Passe no KVM 8 se não vai usar um modelo local maior."
       ]
@@ -112925,6 +113019,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Miglior VPS per OpenClaw senza RAM minima ufficiale: il KVM per ogni scenario, con modello nel cloud o in locale.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/melhor-vps-para-openclaw-capa-discover.webp",
@@ -112935,7 +113030,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Risposta rapida",
         "paragraphs": [
-          "Con il modello IA presso il fornitore, tramite la tua chiave API o i crediti IA di Hostinger, il KVM 1, con 4 GB, è il punto di partenza. Con un modello locale la documentazione chiede 8 GiB, e il KVM 4, con 16 GB, è il primo con margine. Se non vuoi occuparti di un server, guarda il gestito, più sotto."
+          "Con il modello IA presso il fornitore, tramite la tua chiave API o i crediti IA di Hostinger, il KVM 1, con 4 GB, è il punto di partenza. Con un modello locale la ricetta più piccola chiede 8 GiB, e il KVM 4, con 16 GB, è il primo con margine. Se non vuoi occuparti di un server, guarda il gestito, più sotto."
         ]
       },
       {
@@ -112945,7 +113040,7 @@ export const reviewsData: unknown[] = [
           "Le pagine ufficiali di installazione e dei modelli locali dicono questo:"
         ],
         "bullets": [
-          "**Versione di Node.** OpenClaw richiede Node 24.16 o più recente, oppure Node 26.1 o più recente. Node è il programma che esegue OpenClaw, e l'installazione con npm richiede quella versione. La pagina consiglia Node 26. Se Node non è installato, l'installer ufficiale porta la versione (Node 26 su macOS e Node 24 LTS su Linux).",
+          "**Versione di Node.** La versione stabile di OpenClaw richiede Node 24.22.1 o più recente sulla linea 24, oppure Node 26.12.1 o più recente; Node 25 non è supportato. Node è il programma che esegue OpenClaw, e l'installazione con npm richiede quella versione. La pagina consiglia Node 26. Se Node non è installato, l'installer ufficiale porta la versione (Node 26 su macOS e Node 24 LTS su Linux).",
           "**Modello locale.** Per la ricetta più piccola offerta dalla documentazione stessa, il minimo è 8 GiB di memoria dell'host, con contesto da 64K. La pagina dice che questi minimi \"non garantiscono che il modello ci stia né che giri veloce\".",
           "**VPS di Hostinger.** Hostinger installa OpenClaw sul VPS con Docker, un programma che esegue ogni applicazione isolata in un container. Il VPS è un server virtuale in affitto; con l'accesso root, ne hai il controllo totale."
         ],
@@ -113033,9 +113128,9 @@ export const reviewsData: unknown[] = [
           ]
         },
         "bullets": [
-          "**KVM 1 (4 GB).** Punto di partenza per lo scenario con chiave API o crediti. Per un modello locale, è sotto il minimo ufficiale.",
+          "**KVM 1 (4 GB).** Punto di partenza per lo scenario con chiave API o crediti. Per un modello locale, è sotto il minimo di 8 GiB della ricetta più piccola.",
           "**KVM 2 (8 GB).** Con chiave API, c'è ampio margine. Con un modello locale, è al limite del minimo, senza margine per il sistema.",
-          "**KVM 4 (16 GB).** È il primo piano con margine sopra il minimo ufficiale di 8 GiB. La documentazione non dice quanto renda con un modello locale.",
+          "**KVM 4 (16 GB).** È il primo piano con margine sopra il minimo di 8 GiB della ricetta locale più piccola. La documentazione non dice quanto renda con un modello locale.",
           "**KVM 8 (32 GB).** Ha senso solo con un modello locale più grande. La documentazione non dice quanta memoria richieda ogni ricetta grande."
         ],
         "postParagraphs": [
@@ -113108,7 +113203,7 @@ export const reviewsData: unknown[] = [
         ],
         "bullets": [
           "Modello nel cloud, tramite la chiave API o i crediti IA di Hostinger: KVM 1, con 4 GB, come punto di partenza.",
-          "Modello locale: KVM 4, con 16 GB, il primo piano con margine sopra il minimo ufficiale di 8 GiB. Il KVM 8, con 32 GB, ha senso solo con un modello locale più grande.",
+          "Modello locale: KVM 4, con 16 GB, il primo piano con margine sopra il minimo di 8 GiB della ricetta locale più piccola; il risultato dipende dal modello e dal contesto. Il KVM 8, con 32 GB, ha senso solo con un modello locale più grande.",
           "Se non vuoi occuparti di un server: il gestito, in cui Hostinger installa e aggiorna l'assistente.",
           "Per provare senza pagare: Oracle Always Free, sapendo che Oracle può recuperare un'istanza inattiva."
         ]
@@ -113123,9 +113218,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Qual è il server minimo per OpenClaw? La documentazione ufficiale non pubblica minimi di RAM, CPU o disco; richiede Node 24.16 o più recente (oppure 26.1). Con chiave API o crediti, il KVM 1 è il punto di partenza. Con modello locale, il minimo è 8 GiB, e il KVM 4 è il primo con margine.",
+          "Qual è il server minimo per OpenClaw? La documentazione ufficiale non pubblica minimi di RAM, CPU o disco; nella versione stabile richiede Node 24.22.1 o più recente (oppure 26.12.1). Con chiave API o crediti, il KVM 1 è il punto di partenza. Con modello locale, il minimo di 8 GiB vale solo per la ricetta più piccola, e il KVM 4 è il primo con margine per quella.",
           "Si può usare senza chiave API? Sì, con un modello locale, ma allora la memoria diventa il problema: la documentazione indica 8 GiB come minimo per la ricetta locale più piccola, con contesto da 64K, e avverte che non garantisce né che il modello ci stia, né che giri bene. Con i crediti di Hostinger non ti serve un account presso un fornitore di IA, ma paghi in base all'uso.",
-          "Oracle è davvero gratis? Sì, finché l'account resta nell'Always Free: 2 OCPU e 12 GB sulle A1 Arm, più le istanze Micro. Un'istanza inattiva per 7 giorni, con CPU, rete e memoria sotto il 20%, può essere recuperata da Oracle.",
+          "Oracle è davvero gratis? Sì, finché l'account resta nell'Always Free: 2 OCPU e 12 GB sulle A1 Arm, più le istanze Micro. Un'istanza inattiva per 7 giorni, con CPU (95° percentile) e rete sotto il 20% e, sulle A1, anche la memoria, può essere recuperata da Oracle.",
           "Mac mini o VPS? Dipende dal fatto che il computer possa restare acceso 24 ore. Se può, farlo girare a casa toglie il canone del server; se non può, scegli VPS o gestito.",
           "Esiste un coupon sconto di Hostinger per un VPS OpenClaw? Sì: il codice SONAR20, nel campo coupon del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
@@ -113164,10 +113259,10 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Prendi il KVM 1, con 4 GB, se il modello IA resta presso il fornitore, tramite la chiave API o i crediti IA di Hostinger.",
-        "Prendi il KVM 4, con 16 GB, se farai girare un modello locale: è il primo piano con margine sopra il minimo ufficiale di 8 GiB."
+        "Prendi il KVM 4, con 16 GB, se farai girare un modello locale: è il primo piano con margine sopra il minimo di 8 GiB della ricetta locale più piccola."
       ],
       "skipIf": [
-        "Lascia perdere il KVM 1 se farai girare un modello locale: 4 GB è sotto il minimo ufficiale.",
+        "Lascia perdere il KVM 1 se farai girare un modello locale: 4 GB è sotto il minimo di 8 GiB della ricetta locale più piccola.",
         "Lascia perdere il VPS se non vuoi occuparti di un server: guarda il gestito, in cui Hostinger installa e aggiorna l'assistente.",
         "Lascia perdere il KVM 8 se non userai un modello locale più grande."
       ]
@@ -113205,10 +113300,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw o Hermes Agent: canali, memoria, apprendimento, licenza e costo reale su Hostinger, con prezzi letti il 21 ottobre 2026.",
-    "metaDescription": "OpenClaw o Hermes Agent su Hostinger: quale scegliere, canali, memoria, modelli IA e prezzo con e senza il SONAR20, letti il 21 ottobre 2026.",
+    "description": "OpenClaw o Hermes Agent: canali, memoria, apprendimento, licenza e costo reale su Hostinger, con piani di server letti il 21 ottobre 2026.",
+    "metaDescription": "OpenClaw o Hermes Agent su Hostinger: quale scegliere, canali, memoria, modelli IA e il codice SONAR20, letti il 21 ottobre 2026.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
@@ -113322,7 +113418,7 @@ export const reviewsData: unknown[] = [
           "**Chi si occupa del server.** Nel gestito, Hostinger aggiorna e cura la sicurezza. Nel VPS, l'aggiornamento è tuo, con il pulsante Update di Docker Manager, e anche la sicurezza del server. Docker è il programma che esegue ogni applicazione isolata in un container."
         ],
         "postParagraphs": [
-          "Se installi OpenClaw per conto tuo, con npm, richiede Node.js 24.16 o più recente, oppure 26.1 o più recente. La politica di sicurezza del progetto non supporta le versioni 22, 23 e 25."
+          "Se installi OpenClaw per conto tuo, con npm, richiede Node.js 24.22.1 o più recente nella linea 24, oppure 26.12.1 o più recente nella 26, nella versione stabile attuale. La politica di sicurezza del progetto non supporta le versioni 22, 23 e 25."
         ]
       },
       {
@@ -113331,7 +113427,7 @@ export const reviewsData: unknown[] = [
           "Le politiche di sicurezza dei due progetti dicono per chi è stato pensato l'agente. Leggile prima di decidere come esporlo."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md del repository openclaw/openclaw): pensato per un operatore di fiducia, non per più persone che non si conoscono. Chi riesce a parlare con l'agente può fargli usare i suoi strumenti. Per più di una persona, il progetto consiglia un server per persona. Non esporre il gateway direttamente a internet. I plugin girano nello stesso processo e sono trattati come codice fidato, quindi installa solo ciò che conosci.",
+          "**OpenClaw** (SECURITY.md del repository openclaw/openclaw): pensato per un operatore di fiducia o un team che si fida a vicenda, non per persone senza questa fiducia. Chi riesce a parlare con l'agente può fargli usare i suoi strumenti. Per persone che non si fidano l'una dell'altra, il progetto chiede gateway separati, meglio su utenti o server distinti. Non esporre il gateway direttamente a internet. I plugin girano nello stesso processo e sono trattati come codice fidato, quindi installa solo ciò che conosci.",
           "**Hermes Agent** (SECURITY.md del repository NousResearch/hermes-agent): pensato per una sola persona. Non esporre il gateway a internet senza VPN, Tailscale o firewall. Esegui l'agente come utente senza privilegi di root e controlla skill e plugin di terze parti leggendo il codice, non solo il file SKILL.md."
         ],
         "postParagraphs": [
@@ -113393,7 +113489,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Nel gestito, il piano include un saldo iniziale di crediti IA, e ciò che lo supera viene addebitato in base al consumo. Nel VPS, Hostinger installa l'assistente con Docker, e l'aggiornamento e la sicurezza del server restano a tuo carico.",
-          "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, i 30 giorni valgono solo se l'ultimo rimborso di un VPS è stato chiesto più di 180 giorni fa.",
+          "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, dopo un rimborso di VPS completato, ci sono 180 giorni di attesa prima del successivo. Gli upgrade del VPS e i pagamenti in criptovalute non sono rimborsabili.",
           "Se vuoi fare il conto dei requisiti prima di scegliere il piano, leggi il [miglior VPS per OpenClaw](/it/reviews/miglior-vps-per-openclaw). Per la campagna, guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte)."
         ]
       },
@@ -113410,7 +113506,7 @@ export const reviewsData: unknown[] = [
           "OpenClaw e Hermes Agent sono gratuiti? I due programmi sono open source, con licenza MIT, e non paghi il software. Paghi il server o il piano gestito e l'uso del modello IA. Hermes ha anche un abbonamento su Nous Portal, ma il prezzo non compare nella documentazione del progetto.",
           "Funziona con Telegram? Sì, con entrambi. Crei il bot su BotFather e incolli il token nella configurazione.",
           "Serve saper programmare? Per avviare il gestito no: scegli i canali e incolli il token. Nel VPS serve conoscere le basi dei server, come root, Docker e aggiornamenti. Programmare entra in gioco solo se vuoi mettere mano al codice del progetto.",
-          "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona di fiducia, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
+          "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona o di un team che si fida a vicenda, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
           "Quale scegliere se uso già Claude Code? Claude Code è uno strumento per programmare nel terminale e non sostituisce nessuno dei due. Entrambi accettano la chiave di Anthropic: OpenClaw elenca Anthropic tra i provider, e il README di Hermes Agent riporta la chiave di Anthropic tra i segreti. Se vuoi un agente che impara dall'uso, Hermes Agent si adatta meglio. Se vuoi molti canali e un'app sul telefono, OpenClaw.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
@@ -113489,10 +113585,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw o Hermes Agent: canales, memoria, aprendizaje, licencia y coste real en Hostinger, con precios leídos el 21 de octubre de 2026.",
-    "metaDescription": "OpenClaw o Hermes Agent en Hostinger: cuál elegir, canales, memoria, modelos de IA y precio con y sin el SONAR20, leídos el 21 de octubre de 2026.",
+    "description": "OpenClaw o Hermes Agent: canales, memoria, aprendizaje, licencia y coste real en Hostinger, con planes de servidor leídos el 21 de octubre de 2026.",
+    "metaDescription": "OpenClaw o Hermes Agent en Hostinger: cuál elegir, canales, memoria, modelos de IA y el código SONAR20, leídos el 21 de octubre de 2026.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -113607,7 +113704,7 @@ export const reviewsData: unknown[] = [
           "**Quién cuida el servidor.** En el gestionado, Hostinger actualiza y se ocupa de la seguridad. En el VPS, la actualización es tuya, con el botón Update del Docker Manager, y la seguridad del servidor también. Docker es el programa que ejecuta cada aplicación aislada en un contenedor."
         ],
         "postParagraphs": [
-          "Si vas a instalar OpenClaw por tu cuenta, con npm, exige Node.js 24.16 o más reciente, o 26.1 o más reciente. La política de seguridad del proyecto no da soporte a las versiones 22, 23 y 25."
+          "Si vas a instalar OpenClaw por tu cuenta, con npm, exige Node.js 24.22.1 o más reciente en la línea 24, o 26.12.1 o más reciente en la 26, en la versión estable actual. La política de seguridad del proyecto no da soporte a las versiones 22, 23 y 25."
         ]
       },
       {
@@ -113616,7 +113713,7 @@ export const reviewsData: unknown[] = [
           "Las políticas de seguridad de los dos proyectos dicen para quién se hizo el agente. Léelas antes de decidir cómo exponerlo."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md del repositorio openclaw/openclaw): hecho para un operador de confianza, no para varias personas que no se conocen. Quien consigue hablar con el agente puede hacer que use sus herramientas. Para más de una persona, el proyecto recomienda un servidor por persona. No expongas el gateway directamente a internet. Los plugins se ejecutan en el mismo proceso y se tratan como código de confianza, así que instala solo lo que conozcas.",
+          "**OpenClaw** (SECURITY.md del repositorio openclaw/openclaw): hecho para un operador de confianza o un equipo que confía entre sí, no para personas sin esa confianza. Quien consigue hablar con el agente puede hacer que use sus herramientas. Para personas que no confían entre sí, el proyecto pide gateways separados, de preferencia en usuarios o servidores distintos. No expongas el gateway directamente a internet. Los plugins se ejecutan en el mismo proceso y se tratan como código de confianza, así que instala solo lo que conozcas.",
           "**Hermes Agent** (SECURITY.md del repositorio NousResearch/hermes-agent): hecho para una sola persona. No expongas el gateway a internet sin VPN, Tailscale o cortafuegos. Ejecuta el agente como usuario sin privilegios de root y revisa las skills y los plugins de terceros leyendo el código, no solo el archivo SKILL.md."
         ],
         "postParagraphs": [
@@ -113678,7 +113775,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "En el gestionado, el plan trae saldo inicial de créditos de IA, y lo que pase de ahí se cobra según el consumo. En el VPS, Hostinger instala el asistente con Docker, y la actualización y la seguridad del servidor quedan de tu parte.",
-          "El gestionado tiene 30 días para pedir el reembolso. En el VPS, los 30 días valen solo si el último reembolso de VPS se pidió hace más de 180 días.",
+          "El gestionado tiene 30 días para pedir el reembolso. En el VPS, tras un reembolso de VPS completado, hay 180 días de espera hasta el siguiente. Las mejoras del VPS y los pagos en criptomonedas no se reembolsan.",
           "Si quieres hacer la cuenta de requisitos antes de elegir el plan, lee el [mejor VPS para OpenClaw](/es/reviews/mejor-vps-para-openclaw). Para la campaña, mira [el Black Friday de Hostinger](/es/reviews/black-friday-hostinger-ofertas)."
         ]
       },
@@ -113695,7 +113792,7 @@ export const reviewsData: unknown[] = [
           "¿OpenClaw y Hermes Agent son gratis? Los dos programas son de código abierto, con licencia MIT, y no pagas por el software. Pagas el servidor o el plan gestionado y el uso del modelo de IA. Hermes también tiene una suscripción en Nous Portal, pero el precio no aparece en la documentación del proyecto.",
           "¿Sirve para Telegram? Sí, con los dos. Creas el bot en BotFather y pegas el token en la configuración.",
           "¿Hace falta saber programar? Para poner en marcha el gestionado, no: eliges los canales y pegas el token. En el VPS, hace falta saber lo básico de servidores, como root, Docker y actualizaciones. Programar solo entra si quieres tocar el código del proyecto.",
-          "¿Es seguro? Depende de cómo lo uses. Las dos políticas de seguridad piden el mismo cuidado: uso por una persona de confianza, sin exposición directa a internet y con revisión de lo que instalas de terceros.",
+          "¿Es seguro? Depende de cómo lo uses. Las dos políticas de seguridad piden el mismo cuidado: uso por una persona o un equipo que confía entre sí, sin exposición directa a internet y con revisión de lo que instalas de terceros.",
           "¿Cuál elegir si ya uso Claude Code? Claude Code es una herramienta para programar en la terminal y no sustituye a ninguno de los dos. Los dos aceptan clave de Anthropic: OpenClaw incluye a Anthropic entre los proveedores, y el README de Hermes Agent trae la clave de Anthropic entre los secretos. Si quieres un agente que aprende con el uso, Hermes Agent encaja mejor. Si quieres muchos canales y app en el móvil, OpenClaw.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
@@ -113773,10 +113870,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw oder Hermes Agent: Kanäle, Gedächtnis, Lernen, Lizenz und die tatsächlichen Kosten bei Hostinger, mit am 21. Oktober 2026 abgelesenen Preisen.",
-    "metaDescription": "OpenClaw oder Hermes Agent bei Hostinger: welcher passt, Kanäle, Gedächtnis, KI-Modelle und Preis mit und ohne SONAR20, abgelesen am 21. Oktober 2026.",
+    "description": "OpenClaw oder Hermes Agent: Kanäle, Gedächtnis, Lernen, Lizenz und die tatsächlichen Kosten bei Hostinger, mit am 21. Oktober 2026 abgelesenen Serverplänen.",
+    "metaDescription": "OpenClaw oder Hermes Agent bei Hostinger: welcher passt, Kanäle, Gedächtnis, KI-Modelle und der Code SONAR20, abgelesen am 21. Oktober 2026.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
@@ -113890,7 +113988,7 @@ export const reviewsData: unknown[] = [
           "**Wer sich um den Server kümmert.** Beim verwalteten Tarif aktualisiert und schützt Hostinger. Beim VPS liegt die Aktualisierung bei Ihnen, über die Schaltfläche Update im Docker Manager, und die Sicherheit des Servers ebenfalls. Docker ist das Programm, das jede Anwendung isoliert in einem Container ausführt."
         ],
         "postParagraphs": [
-          "Wenn Sie OpenClaw selbst installieren, mit npm, braucht es Node.js 24.16 oder neuer, oder 26.1 oder neuer. Die Sicherheitsrichtlinie des Projekts unterstützt die Versionen 22, 23 und 25 nicht."
+          "Wenn Sie OpenClaw selbst installieren, mit npm, braucht es Node.js 24.22.1 oder neuer in der Linie 24, oder 26.12.1 oder neuer in der Linie 26, in der aktuellen stabilen Version. Die Sicherheitsrichtlinie des Projekts unterstützt die Versionen 22, 23 und 25 nicht."
         ]
       },
       {
@@ -113899,7 +113997,7 @@ export const reviewsData: unknown[] = [
           "Die Sicherheitsrichtlinien der beiden Projekte sagen, für wen der Agent gedacht ist. Lesen Sie sie, bevor Sie entscheiden, wie Sie ihn zugänglich machen."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md im Repository openclaw/openclaw): gedacht für einen vertrauenswürdigen Betreiber, nicht für mehrere Personen, die sich nicht kennen. Wer mit dem Agenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Für mehr als eine Person empfiehlt das Projekt einen Server pro Person. Setzen Sie das Gateway nicht direkt dem öffentlichen Internet aus. Plugins laufen im selben Prozess und gelten als vertrauenswürdiger Code, installieren Sie also nur, was Sie kennen.",
+          "**OpenClaw** (SECURITY.md im Repository openclaw/openclaw): gedacht für einen vertrauenswürdigen Betreiber oder ein Team, das sich gegenseitig vertraut, nicht für Personen ohne dieses Vertrauen. Wer mit dem Agenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Für Personen, die einander nicht vertrauen, verlangt das Projekt getrennte Gateways, am besten auf getrennten Nutzern oder Servern. Setzen Sie das Gateway nicht direkt dem öffentlichen Internet aus. Plugins laufen im selben Prozess und gelten als vertrauenswürdiger Code, installieren Sie also nur, was Sie kennen.",
           "**Hermes Agent** (SECURITY.md im Repository NousResearch/hermes-agent): gedacht für eine einzelne Person. Setzen Sie das Gateway nicht ohne VPN, Tailscale oder Firewall dem Internet aus. Führen Sie den Agenten als Benutzer ohne Root-Rechte aus und prüfen Sie Skills und Plugins von Dritten, indem Sie den Code lesen, nicht nur die Datei SKILL.md."
         ],
         "postParagraphs": [
@@ -113961,7 +114059,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Der verwaltete Tarif enthält ein Startguthaben an KI-Credits, und was darüber hinausgeht, wird nach Verbrauch berechnet. Beim VPS installiert Hostinger den Assistenten mit Docker, und Aktualisierung und Sicherheit des Servers liegen bei Ihnen.",
-          "Beim verwalteten Tarif haben Sie 30 Tage, um eine Erstattung zu beantragen. Beim VPS gelten die 30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde.",
+          "Beim verwalteten Tarif haben Sie 30 Tage, um eine Erstattung zu beantragen. Beim VPS gilt nach einer abgeschlossenen VPS-Erstattung eine Sperrfrist von 180 Tagen bis zur nächsten. Upgrades für den VPS und Zahlungen in Kryptowährung sind nicht erstattungsfähig.",
           "Wenn Sie die Anforderungen durchrechnen wollen, bevor Sie den Tarif wählen, lesen Sie den [besten VPS für OpenClaw](/de/reviews/bester-vps-fuer-openclaw). Zur Aktion sehen Sie [den Black Friday von Hostinger](/de/reviews/hostinger-black-friday-angebote)."
         ]
       },
@@ -113978,7 +114076,7 @@ export const reviewsData: unknown[] = [
           "Sind OpenClaw und Hermes Agent kostenlos? Beide Programme sind quelloffen, unter MIT-Lizenz, und Sie zahlen nicht für die Software. Sie zahlen für den Server oder den verwalteten Tarif und für die Nutzung des KI-Modells. Hermes hat außerdem ein Abonnement bei Nous Portal, aber der Preis steht nicht in der Dokumentation des Projekts.",
           "Funktioniert es mit Telegram? Ja, bei beiden. Sie erstellen den Bot bei BotFather und fügen den Token in die Konfiguration ein.",
           "Muss man programmieren können? Für den verwalteten Tarif nicht: Sie wählen die Kanäle und fügen den Token ein. Beim VPS braucht es Grundwissen über Server, etwa Root, Docker und Aktualisierungen. Programmieren kommt nur ins Spiel, wenn Sie den Code des Projekts anpassen wollen.",
-          "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person, keine direkte Erreichbarkeit aus dem Internet und eine Prüfung dessen, was Sie von Dritten installieren.",
+          "Ist es sicher? Das hängt von der Nutzung ab. Beide Sicherheitsrichtlinien verlangen dieselbe Sorgfalt: Nutzung durch eine vertrauenswürdige Person oder ein Team mit gegenseitigem Vertrauen, keine direkte Erreichbarkeit aus dem Internet und eine Prüfung dessen, was Sie von Dritten installieren.",
           "Was wähle ich, wenn ich schon Claude Code nutze? Claude Code ist ein Werkzeug zum Programmieren im Terminal und ersetzt keinen der beiden. Beide akzeptieren einen Anthropic-Schlüssel: OpenClaw nennt Anthropic unter den Anbietern, und das README von Hermes Agent führt den Anthropic-Schlüssel unter den Secrets auf. Wenn Sie einen Agenten wollen, der aus der Nutzung lernt, passt Hermes Agent besser. Wenn Sie viele Kanäle und eine App auf dem Handy wollen, OpenClaw.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
@@ -114057,10 +114155,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw ou Hermes Agent : canaux, mémoire, apprentissage, licence et coût réel chez Hostinger, avec des prix relevés le 21 octobre 2026.",
-    "metaDescription": "OpenClaw ou Hermes Agent chez Hostinger : lequel choisir, canaux, mémoire, modèles d'IA et prix avec et sans le SONAR20, relevés le 21 octobre 2026.",
+    "description": "OpenClaw ou Hermes Agent : canaux, mémoire, apprentissage, licence et coût réel chez Hostinger, avec des offres de serveur relevées le 21 octobre 2026.",
+    "metaDescription": "OpenClaw ou Hermes Agent chez Hostinger : lequel choisir, canaux, mémoire, modèles d'IA et le code SONAR20, relevés le 21 octobre 2026.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -114175,7 +114274,7 @@ export const reviewsData: unknown[] = [
           "**Qui s'occupe du serveur.** En géré, Hostinger met à jour et assure la sécurité. En VPS, la mise à jour vous revient, avec le bouton Update de Docker Manager, et la sécurité du serveur aussi. Docker est le programme qui fait tourner chaque application isolée dans un conteneur."
         ],
         "postParagraphs": [
-          "Si vous installez OpenClaw vous-même, avec npm, il exige Node.js 24.16 ou plus récent, ou 26.1 ou plus récent. La politique de sécurité du projet ne prend pas en charge les versions 22, 23 et 25."
+          "Si vous installez OpenClaw vous-même, avec npm, il exige Node.js 24.22.1 ou plus récent sur la ligne 24, ou 26.12.1 ou plus récent sur la 26, dans la version stable actuelle. La politique de sécurité du projet ne prend pas en charge les versions 22, 23 et 25."
         ]
       },
       {
@@ -114184,7 +114283,7 @@ export const reviewsData: unknown[] = [
           "Les politiques de sécurité des deux projets disent pour qui l'agent a été conçu. Lisez-les avant de décider comment l'exposer."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md du dépôt openclaw/openclaw) : conçu pour un opérateur de confiance, pas pour plusieurs personnes qui ne se connaissent pas. Quiconque peut parler à l'agent peut lui faire utiliser ses outils. Pour plus d'une personne, le projet recommande un serveur par personne. N'exposez pas la passerelle directement à l'internet public. Les plugins s'exécutent dans le même processus et sont traités comme du code de confiance : n'installez que ce que vous connaissez.",
+          "**OpenClaw** (SECURITY.md du dépôt openclaw/openclaw) : conçu pour un opérateur de confiance ou une équipe qui se fait mutuellement confiance, pas pour des personnes sans cette confiance. Quiconque peut parler à l'agent peut lui faire utiliser ses outils. Pour des personnes qui ne se font pas confiance, le projet demande des passerelles séparées, de préférence sur des utilisateurs ou des serveurs distincts. N'exposez pas la passerelle directement à l'internet public. Les plugins s'exécutent dans le même processus et sont traités comme du code de confiance : n'installez que ce que vous connaissez.",
           "**Hermes Agent** (SECURITY.md du dépôt NousResearch/hermes-agent) : conçu pour une seule personne. N'exposez pas la passerelle à l'internet sans VPN, Tailscale ou pare-feu. Faites tourner l'agent avec un utilisateur sans privilèges root et examinez les skills et plugins tiers en lisant le code, pas seulement le fichier SKILL.md."
         ],
         "postParagraphs": [
@@ -114246,7 +114345,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "En géré, l'offre inclut un solde de départ de crédits d'IA, et ce qui dépasse est facturé selon la consommation. En VPS, Hostinger installe l'assistant avec Docker, et la mise à jour et la sécurité du serveur restent à votre charge.",
-          "L'offre gérée offre 30 jours pour demander un remboursement. En VPS, les 30 jours ne valent que si le dernier remboursement de VPS a été demandé il y a plus de 180 jours.",
+          "L'offre gérée accorde 30 jours pour demander un remboursement. En VPS, après un remboursement de VPS terminé, un délai de carence de 180 jours s'applique avant le suivant. Les mises à niveau du VPS et les paiements en cryptomonnaie ne sont pas remboursables.",
           "Si vous voulez faire le calcul des besoins avant de choisir l'offre, lisez le [meilleur VPS pour OpenClaw](/fr/reviews/meilleur-vps-pour-openclaw). Pour la campagne, voyez [le Black Friday d'Hostinger](/fr/reviews/black-friday-hostinger-offres)."
         ]
       },
@@ -114263,7 +114362,7 @@ export const reviewsData: unknown[] = [
           "OpenClaw et Hermes Agent sont-ils gratuits ? Les deux programmes sont open source, sous licence MIT, et vous ne payez pas le logiciel. Vous payez le serveur ou l'offre gérée et l'usage du modèle d'IA. Hermes propose aussi un abonnement Nous Portal, mais le prix n'apparaît pas dans la documentation du projet.",
           "Ça marche avec Telegram ? Oui, avec les deux. Vous créez le bot avec BotFather et collez le jeton dans la configuration.",
           "Faut-il savoir programmer ? Pour lancer l'offre gérée, non : vous choisissez les canaux et collez le jeton. En VPS, il faut connaître les bases des serveurs, comme root, Docker et les mises à jour. La programmation n'entre en jeu que si vous voulez toucher au code du projet.",
-          "Est-ce sûr ? Cela dépend de l'usage. Les deux politiques de sécurité demandent la même précaution : usage par une personne de confiance, sans exposition directe à l'internet et avec un examen de ce que vous installez de tiers.",
+          "Est-ce sûr ? Cela dépend de l'usage. Les deux politiques de sécurité demandent la même précaution : usage par une personne ou une équipe de confiance mutuelle, sans exposition directe à l'internet et avec un examen de ce que vous installez de tiers.",
           "Lequel choisir si j'utilise déjà Claude Code ? Claude Code est un outil pour programmer dans le terminal et ne remplace aucun des deux. Les deux acceptent une clé Anthropic : OpenClaw cite Anthropic parmi ses fournisseurs, et le README de Hermes Agent range la clé Anthropic parmi les secrets. Si vous voulez un agent qui apprend en s'utilisant, Hermes Agent convient mieux. Si vous voulez beaucoup de canaux et une appli sur le téléphone, OpenClaw.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
@@ -114345,6 +114444,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "OpenClaw ou Hermes Agent na Hostinger, com o SONAR20 e 20% OFF: qual escolher, canais, memória, modelos de IA e o preço com e sem o código.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
@@ -114458,7 +114558,7 @@ export const reviewsData: unknown[] = [
           "**Quem cuida do servidor.** No gerenciado, a Hostinger atualiza e mantém a segurança. No VPS, a atualização é sua, pelo botão Update do Docker Manager, e a segurança do servidor também. Docker é o programa que roda cada aplicativo isolado num contêiner."
         ],
         "postParagraphs": [
-          "Se você for instalar o OpenClaw por conta própria, com npm, ele exige Node.js 24.16 ou mais novo, ou 26.1 ou mais novo. A política de segurança do projeto não suporta as versões 22, 23 e 25."
+          "Se você for instalar o OpenClaw por conta própria, com npm, ele exige Node.js 24.22.1 ou mais novo na linha 24, ou 26.12.1 ou mais novo na 26, na versão estável atual. A política de segurança do projeto não suporta as versões 22, 23 e 25."
         ]
       },
       {
@@ -114467,7 +114567,7 @@ export const reviewsData: unknown[] = [
           "As políticas de segurança dos dois projetos dizem para quem o agente foi feito. Leia antes de decidir como expô-lo."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md do repositório openclaw/openclaw): feito para um operador de confiança, não para várias pessoas que não se conhecem. Quem consegue falar com o agente pode fazer com que ele use as ferramentas dele. Para mais de uma pessoa, o projeto recomenda um servidor por pessoa. Não exponha o gateway direto à internet pública. Os plugins rodam no mesmo processo e são tratados como código confiável, então instale só o que você conhece.",
+          "**OpenClaw** (SECURITY.md do repositório openclaw/openclaw): feito para um operador de confiança ou uma equipe que confia entre si, não para pessoas sem essa confiança. Quem consegue falar com o agente pode fazer com que ele use as ferramentas dele. Para pessoas que não confiam umas nas outras, o projeto pede gateways separados, de preferência em usuários ou servidores distintos. Não exponha o gateway direto à internet pública. Os plugins rodam no mesmo processo e são tratados como código confiável, então instale só o que você conhece.",
           "**Hermes Agent** (SECURITY.md do repositório NousResearch/hermes-agent): feito para uma pessoa só. Não exponha o gateway à internet sem VPN, Tailscale ou firewall. Rode o agente como usuário sem privilégio de root e revise skills e plugins de terceiros lendo o código, não só o arquivo SKILL.md."
         ],
         "postParagraphs": [
@@ -114547,7 +114647,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "No gerenciado, o plano traz saldo inicial de créditos de IA, e o que passar dele é cobrado conforme o consumo. No VPS, a Hostinger instala o assistente com Docker, e a atualização e a segurança do servidor ficam com você.",
-          "O gerenciado tem 30 dias para pedir reembolso. No VPS, os 30 dias valem só se o último reembolso de VPS tiver sido pedido há mais de 180 dias.",
+          "O gerenciado tem 30 dias para pedir reembolso. No VPS, depois de um reembolso de VPS concluído, há 180 dias de carência até o próximo. Upgrades de VPS e pagamentos em criptomoeda ficam fora do reembolso.",
           "Se você quer a conta de requisitos antes de escolher o plano, leia o [melhor VPS para o OpenClaw](/reviews/melhor-vps-para-openclaw). Para a campanha, veja [a Black Friday da Hostinger](/reviews/black-friday-hostinger)."
         ]
       },
@@ -114564,7 +114664,7 @@ export const reviewsData: unknown[] = [
           "O OpenClaw e o Hermes Agent são grátis? Os dois programas são de código aberto, com licença MIT, e você não paga pelo software. Você paga o servidor ou o plano gerenciado e o uso do modelo de IA. O Hermes também tem uma assinatura no Nous Portal, mas o preço não aparece na documentação do projeto.",
           "Serve para Telegram? Sim, nos dois. Você cria o bot no BotFather e cola o token na configuração.",
           "Precisa saber programar? Para subir o gerenciado, não: você escolhe os canais e cola o token. No VPS, é preciso saber o básico de servidor, como root, Docker e atualizações. Programar só entra se você quiser mexer no código do projeto.",
-          "É seguro? Depende de como você usa. As duas políticas de segurança pedem o mesmo cuidado: uso por uma pessoa de confiança, sem exposição direta à internet e com revisão do que você instala de terceiros.",
+          "É seguro? Depende de como você usa. As duas políticas de segurança pedem o mesmo cuidado: uso por uma pessoa ou uma equipe que confia entre si, sem exposição direta à internet e com revisão do que você instala de terceiros.",
           "Qual escolher se já uso o Claude Code? O Claude Code é uma ferramenta para programar no terminal e não substitui nenhum dos dois. Os dois aceitam chave da Anthropic: o OpenClaw lista a Anthropic entre os provedores, e o README do Hermes Agent traz a chave da Anthropic entre os segredos. Se você quer um agente que aprende com o uso, o Hermes Agent combina melhor. Se quer muitos canais e app no celular, o OpenClaw.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
@@ -114642,10 +114742,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw と Hermes Agent を比較。チャンネル、メモリ、学習、ライセンス、Hostinger での実際の費用を、2026年10月21日に確認した価格で解説します。",
-    "metaDescription": "Hostinger で OpenClaw と Hermes Agent のどちらを選ぶか。チャンネル、メモリ、AI モデル、SONAR20 ありとなしの価格を、2026年10月21日時点で確認しました。",
+    "description": "OpenClaw と Hermes Agent を比較。チャンネル、メモリ、学習、ライセンス、Hostinger での実際の費用を、2026年10月21日に確認したサーバープランで解説します。",
+    "metaDescription": "Hostinger で OpenClaw と Hermes Agent のどちらを選ぶか。チャンネル、メモリ、AI モデル、SONAR20 コードを、2026年10月21日時点で確認しました。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -114760,7 +114861,7 @@ export const reviewsData: unknown[] = [
           "**サーバーを誰が管理するか。** マネージドでは、Hostinger が更新とセキュリティを担当します。VPS では、更新は Docker Manager の Update ボタンでご自身が行い、サーバーのセキュリティもご自身の役目です。Docker は、アプリをコンテナの中で分離して動かすプログラムです。"
         ],
         "postParagraphs": [
-          "OpenClaw を npm でご自身でインストールする場合は、Node.js 24.16 以上、または 26.1 以上が必要です。プロジェクトのセキュリティポリシーは、バージョン 22、23、25 をサポートしていません。"
+          "OpenClaw を npm でご自身でインストールする場合は、Node.js 24 系は 24.22.1 以上、26 系は 26.12.1 以上（現在の安定版）が必要です。プロジェクトのセキュリティポリシーは、バージョン 22、23、25 をサポートしていません。"
         ]
       },
       {
@@ -114769,7 +114870,7 @@ export const reviewsData: unknown[] = [
           "二つのプロジェクトのセキュリティポリシーには、エージェントが誰のために作られているかが書かれています。公開のしかたを決める前に読んでください。"
         ],
         "bullets": [
-          "**OpenClaw**（リポジトリ openclaw/openclaw の SECURITY.md）：信頼できる一人のオペレーター向けで、互いを知らない複数の人向けではありません。エージェントに話しかけられる人は、エージェントにツールを使わせることができます。複数の人で使うなら、プロジェクトは一人に一台のサーバーを勧めています。ゲートウェイを公開インターネットに直接さらさないでください。プラグインは同じプロセスで動き、信頼されたコードとして扱われるので、知っているものだけをインストールしてください。",
+          "**OpenClaw**（リポジトリ openclaw/openclaw の SECURITY.md）：信頼できる一人のオペレーター、または互いに信頼し合うチーム向けで、そうした信頼のない人たち向けではありません。エージェントに話しかけられる人は、エージェントにツールを使わせることができます。互いに信頼していない人たちで使うなら、プロジェクトはゲートウェイを分け、できればユーザーやサーバーも分けることを求めています。ゲートウェイを公開インターネットに直接さらさないでください。プラグインは同じプロセスで動き、信頼されたコードとして扱われるので、知っているものだけをインストールしてください。",
           "**Hermes Agent**（リポジトリ NousResearch/hermes-agent の SECURITY.md）：一人で使うことを前提に作られています。VPN、Tailscale、ファイアウォールなしでゲートウェイをインターネットにさらさないでください。エージェントは root 権限のないユーザーとして動かし、サードパーティのスキルとプラグインは SKILL.md ファイルだけでなく、コードを読んで確認してください。"
         ],
         "postParagraphs": [
@@ -114831,7 +114932,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "マネージドでは、プランに AI クレジットの初期残高が付き、それを超えた分は使用量に応じて請求されます。VPS では、Hostinger が Docker でアシスタントをインストールし、更新とサーバーのセキュリティはご自身で行います。",
-          "マネージドは 30 日以内なら返金を依頼できます。VPS の 30 日は、前回の VPS の返金依頼から 180 日以上たっている場合にだけ有効です。",
+          "マネージドは 30 日以内なら返金を依頼できます。VPS は、VPS の返金が完了してから 180 日たつまで、次の返金は受けられません。VPS のアップグレードと暗号資産での支払いは返金の対象外です。",
           "プランを選ぶ前に必要なスペックを計算したいなら、[OpenClaw に最適な VPS](/ja/reviews/best-vps-for-openclaw-ja)をお読みください。キャンペーンについては、[Hostinger のブラックフライデー](/ja/reviews/hostinger-black-friday-ja)をご覧ください。"
         ]
       },
@@ -114848,7 +114949,7 @@ export const reviewsData: unknown[] = [
           "OpenClaw と Hermes Agent は無料ですか？どちらもオープンソースで MIT ライセンスなので、ソフトウェアの料金はかかりません。支払うのは、サーバーまたはマネージドプランと、AI モデルの利用料です。Hermes には Nous Portal のサブスクリプションもありますが、価格はプロジェクトのドキュメントに載っていません。",
           "Telegram で使えますか？はい、どちらでも使えます。BotFather でボットを作り、トークンを設定に貼り付けます。",
           "プログラミングの知識は必要ですか？マネージドを立ち上げるだけなら不要です。チャンネルを選んでトークンを貼り付けます。VPS では、root、Docker、更新といったサーバーの基本が必要です。プログラミングが必要になるのは、プロジェクトのコードを触りたいときだけです。",
-          "安全ですか？使い方しだいです。二つのセキュリティポリシーは同じ注意を求めています。信頼できる一人が使い、インターネットに直接さらさず、サードパーティのものをインストールする前に中身を確認することです。",
+          "安全ですか？使い方しだいです。二つのセキュリティポリシーは同じ注意を求めています。信頼できる一人、または互いに信頼し合うチームが使い、インターネットに直接さらさず、サードパーティのものをインストールする前に中身を確認することです。",
           "すでに Claude Code を使っていたら、どちらを選べばいいですか？Claude Code はターミナルで開発するためのツールで、どちらの代わりにもなりません。どちらも Anthropic のキーに対応しています。OpenClaw はプロバイダーの一つに Anthropic を挙げ、Hermes Agent の README は Anthropic のキーをシークレットの一つとして挙げています。使うほど学習するエージェントがほしいなら Hermes Agent が合います。チャンネルが多くスマートフォンのアプリもほしいなら OpenClaw です。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
@@ -114926,10 +115027,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw와 Hermes Agent를 비교합니다. 채널, 메모리, 학습, 라이선스, 호스팅어에서 드는 실제 비용을 2026년 10월 21일에 확인한 가격으로 정리했습니다.",
-    "metaDescription": "호스팅어에서 OpenClaw와 Hermes Agent 중 무엇을 고를까요? 채널, 메모리, AI 모델, SONAR20 사용 여부에 따른 가격을 2026년 10월 21일 기준으로 확인했습니다.",
+    "description": "OpenClaw와 Hermes Agent를 비교합니다. 채널, 메모리, 학습, 라이선스, 호스팅어에서 드는 실제 비용을 2026년 10월 21일에 확인한 서버 플랜으로 정리했습니다.",
+    "metaDescription": "호스팅어에서 OpenClaw와 Hermes Agent 중 무엇을 고를까요? 채널, 메모리, AI 모델, SONAR20 코드를 2026년 10월 21일 기준으로 확인했습니다.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
@@ -115043,7 +115145,7 @@ export const reviewsData: unknown[] = [
           "**서버를 누가 관리하는가.** 관리형에서는 호스팅어가 업데이트와 보안을 맡습니다. VPS에서는 Docker Manager의 Update 버튼으로 직접 업데이트하고, 서버 보안도 직접 챙깁니다. Docker는 각 앱을 컨테이너 안에 격리해 실행하는 프로그램입니다."
         ],
         "postParagraphs": [
-          "OpenClaw를 npm으로 직접 설치한다면 Node.js 24.16 이상 또는 26.1 이상이 필요합니다. 프로젝트의 보안 정책은 22, 23, 25 버전을 지원하지 않습니다."
+          "OpenClaw를 npm으로 직접 설치한다면 Node.js 24 계열은 24.22.1 이상, 26 계열은 26.12.1 이상(현재 안정 버전)이 필요합니다. 프로젝트의 보안 정책은 22, 23, 25 버전을 지원하지 않습니다."
         ]
       },
       {
@@ -115052,7 +115154,7 @@ export const reviewsData: unknown[] = [
           "두 프로젝트의 보안 정책에는 에이전트가 누구를 위해 만들어졌는지가 적혀 있습니다. 어떻게 노출할지 정하기 전에 읽어 보세요."
         ],
         "bullets": [
-          "**OpenClaw**(openclaw/openclaw 저장소의 SECURITY.md): 신뢰할 수 있는 한 명의 운영자를 위해 만들어졌고, 서로 모르는 여러 사람을 위한 것이 아닙니다. 에이전트와 대화할 수 있는 사람은 에이전트가 도구를 쓰게 만들 수 있습니다. 여러 사람이 쓴다면 프로젝트는 사람마다 서버를 하나씩 쓰기를 권합니다. 게이트웨이를 공용 인터넷에 직접 노출하지 마세요. 플러그인은 같은 프로세스에서 돌며 신뢰하는 코드로 취급되므로, 아는 것만 설치하세요.",
+          "**OpenClaw**(openclaw/openclaw 저장소의 SECURITY.md): 신뢰할 수 있는 한 명의 운영자나 서로 신뢰하는 팀을 위해 만들어졌고, 그런 신뢰가 없는 사람들을 위한 것이 아닙니다. 에이전트와 대화할 수 있는 사람은 에이전트가 도구를 쓰게 만들 수 있습니다. 서로 신뢰하지 않는 사람들이 쓴다면 프로젝트는 게이트웨이를 따로 두고, 가능하면 사용자나 서버도 나누기를 요구합니다. 게이트웨이를 공용 인터넷에 직접 노출하지 마세요. 플러그인은 같은 프로세스에서 돌며 신뢰하는 코드로 취급되므로, 아는 것만 설치하세요.",
           "**Hermes Agent**(NousResearch/hermes-agent 저장소의 SECURITY.md): 한 사람이 쓰도록 만들어졌습니다. VPN, Tailscale, 방화벽 없이 게이트웨이를 인터넷에 노출하지 마세요. 에이전트는 root 권한이 없는 사용자로 실행하고, 서드파티 스킬과 플러그인은 SKILL.md 파일만이 아니라 코드를 읽어서 검토하세요."
         ],
         "postParagraphs": [
@@ -115114,7 +115216,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "관리형에서는 플랜에 AI 크레딧 초기 잔액이 포함되고, 그 이상은 사용량에 따라 청구됩니다. VPS에서는 호스팅어가 Docker로 어시스턴트를 설치해 주고, 업데이트와 서버 보안은 직접 챙깁니다.",
-          "관리형은 30일 안에 환불을 요청할 수 있습니다. VPS의 30일은 마지막 VPS 환불 요청이 180일보다 더 전인 경우에만 적용됩니다.",
+          "관리형은 30일 안에 환불을 요청할 수 있습니다. VPS는 VPS 환불이 완료된 뒤 180일이 지나야 다음 환불을 받을 수 있습니다. VPS 업그레이드와 암호화폐 결제는 환불되지 않습니다.",
           "플랜을 고르기 전에 필요한 사양부터 계산하고 싶다면 [OpenClaw에 가장 좋은 VPS](/ko/reviews/best-vps-for-openclaw-ko)를 읽어 보세요. 캠페인은 [호스팅어 블랙프라이데이](/ko/reviews/hostinger-black-friday-ko)에서 확인하세요."
         ]
       },
@@ -115131,7 +115233,7 @@ export const reviewsData: unknown[] = [
           "OpenClaw와 Hermes Agent는 무료인가요? 두 프로그램 모두 MIT 라이선스의 오픈소스이므로 소프트웨어에는 비용을 내지 않습니다. 서버나 관리형 플랜, 그리고 AI 모델 사용료를 냅니다. Hermes에는 Nous Portal 구독도 있지만, 가격은 프로젝트 문서에 나와 있지 않습니다.",
           "텔레그램에서 쓸 수 있나요? 네, 둘 다 가능합니다. BotFather에서 봇을 만들고 토큰을 설정에 붙여 넣으면 됩니다.",
           "프로그래밍을 알아야 하나요? 관리형을 띄우는 데는 필요 없습니다. 채널을 고르고 토큰을 붙여 넣으면 됩니다. VPS에서는 root, Docker, 업데이트 같은 서버 기초가 필요합니다. 프로그래밍은 프로젝트 코드를 직접 손보려는 경우에만 필요합니다.",
-          "안전한가요? 쓰는 방법에 달려 있습니다. 두 보안 정책이 요구하는 주의는 같습니다. 믿을 수 있는 한 사람이 쓰고, 인터넷에 직접 노출하지 않고, 서드파티를 설치하기 전에 내용을 검토하는 것입니다.",
+          "안전한가요? 쓰는 방법에 달려 있습니다. 두 보안 정책이 요구하는 주의는 같습니다. 믿을 수 있는 한 사람이나 서로 신뢰하는 팀이 쓰고, 인터넷에 직접 노출하지 않고, 서드파티를 설치하기 전에 내용을 검토하는 것입니다.",
           "이미 Claude Code를 쓰는데 무엇을 고를까요? Claude Code는 터미널에서 프로그래밍하는 도구이며 둘 중 어느 것도 대신하지 못합니다. 둘 다 Anthropic 키를 받습니다. OpenClaw는 제공업체 중 하나로 Anthropic을 들고, Hermes Agent의 README는 Anthropic 키를 시크릿의 하나로 듭니다. 쓸수록 배우는 에이전트를 원한다면 Hermes Agent가 더 맞습니다. 채널이 많고 휴대폰 앱도 원한다면 OpenClaw입니다.",
           "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
@@ -115210,10 +115312,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "对比 OpenClaw 和 Hermes Agent：渠道、记忆、学习、许可证，以及在 Hostinger 上的实际花费，价格为 2026年10月21日 查到的数据。",
-    "metaDescription": "在 Hostinger 上该选 OpenClaw 还是 Hermes Agent？渠道、记忆、AI 模型，以及用与不用 SONAR20 的价格，数据截至 2026年10月21日。",
+    "description": "对比 OpenClaw 和 Hermes Agent：渠道、记忆、学习、许可证，以及在 Hostinger 上的实际花费，服务器方案以 2026 年 10 月 21 日查到的数据为准。",
+    "metaDescription": "在 Hostinger 上该选 OpenClaw 还是 Hermes Agent？渠道、记忆、AI 模型，以及 SONAR20 代码，数据截至 2026年10月21日。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -115328,7 +115431,7 @@ export const reviewsData: unknown[] = [
           "**谁来管服务器。** 托管的话，由 Hostinger 负责更新和安全。VPS 的话，更新要你自己通过 Docker Manager 的 Update 按钮完成，服务器安全也是你的事。Docker 是把每个应用隔离在容器里运行的程序。"
         ],
         "postParagraphs": [
-          "如果你打算用 npm 自己安装 OpenClaw，需要 Node.js 24.16 或更高版本，或 26.1 或更高版本。项目的安全政策不支持 22、23 和 25 版本。"
+          "如果你打算用 npm 自己安装 OpenClaw，需要 Node.js 24 系列的 24.22.1 或更高版本，或 26 系列的 26.12.1 或更高版本（当前稳定版）。项目的安全政策不支持 22、23 和 25 版本。"
         ]
       },
       {
@@ -115337,7 +115440,7 @@ export const reviewsData: unknown[] = [
           "两个项目的安全政策都写明了智能体是为谁设计的。在决定如何对外开放之前，请先读一读。"
         ],
         "bullets": [
-          "**OpenClaw**（openclaw/openclaw 仓库的 SECURITY.md）：为一位受信任的操作者设计，不适合互不相识的多人共用。能与智能体对话的人，就能让它使用它的工具。如果有多人使用，项目建议每人一台服务器。不要把网关直接暴露在公共互联网上。插件与主程序在同一进程中运行，被视为受信任的代码，所以只安装你了解的插件。",
+          "**OpenClaw**（openclaw/openclaw 仓库的 SECURITY.md）：为一位受信任的操作者或互相信任的团队设计，不适合彼此缺乏信任的人共用。能与智能体对话的人，就能让它使用它的工具。如果使用者之间互不信任，项目要求使用各自独立的网关，最好也分开用户或服务器。不要把网关直接暴露在公共互联网上。插件与主程序在同一进程中运行，被视为受信任的代码，所以只安装你了解的插件。",
           "**Hermes Agent**（NousResearch/hermes-agent 仓库的 SECURITY.md）：为单人使用而设计。没有 VPN、Tailscale 或防火墙，就不要把网关暴露在互联网上。以没有 root 权限的用户运行智能体，并通过阅读代码来审查第三方技能和插件，不要只看 SKILL.md 文件。"
         ],
         "postParagraphs": [
@@ -115399,7 +115502,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "托管方案包含初始的 AI 额度余额，超出部分按用量收费。VPS 上，Hostinger 用 Docker 安装助手，更新和服务器安全由你自己负责。",
-          "托管有 30 天可申请退款。VPS 的 30 天，只有在上一次 VPS 退款申请是在 180 天以前时才适用。",
+          "托管有 30 天可申请退款。VPS 在一次 VPS 退款完成后，要再过 180 天才能申请下一次退款。VPS 升级和加密货币支付不可退款。",
           "如果想在选方案之前先算出所需配置，请读[OpenClaw 最适合的 VPS](/zh-hans/reviews/best-vps-for-openclaw-zh-hans)。活动方面，请看 [Hostinger 的黑色星期五](/zh-hans/reviews/hostinger-black-friday-zh-hans)。"
         ]
       },
@@ -115416,7 +115519,7 @@ export const reviewsData: unknown[] = [
           "OpenClaw 和 Hermes Agent 免费吗？两个程序都是采用 MIT 许可证的开源软件，软件本身不收费。你要付的是服务器或托管方案，以及 AI 模型的使用费。Hermes 在 Nous Portal 上也有订阅，但项目文档没有标出价格。",
           "能用在 Telegram 上吗？可以，两者都行。你在 BotFather 创建机器人，把令牌粘贴到配置里即可。",
           "需要会编程吗？启动托管版不需要：选好渠道，粘贴令牌就行。用 VPS 则需要懂服务器基础，比如 root、Docker 和更新。只有想改项目代码时才需要编程。",
-          "安全吗？取决于你怎么用。两个安全政策要求的注意事项是一样的：由一位受信任的人使用，不直接暴露在互联网上，并审查你安装的第三方内容。",
+          "安全吗？取决于你怎么用。两个安全政策要求的注意事项是一样的：由一位受信任的人或互相信任的团队使用，不直接暴露在互联网上，并审查你安装的第三方内容。",
           "如果我已经在用 Claude Code，该选哪个？Claude Code 是在终端里编程的工具，不能替代这两者中的任何一个。两者都支持 Anthropic 的密钥：OpenClaw 把 Anthropic 列为服务商之一，Hermes Agent 的 README 把 Anthropic 密钥列在密钥项里。想要越用越会学习的智能体，Hermes Agent 更合适；想要很多渠道和手机应用，选 OpenClaw。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
@@ -115494,10 +115597,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "比較 OpenClaw 與 Hermes Agent：管道、記憶、學習、授權，以及在 Hostinger 上的實際花費，價格為 2026年10月21日 查到的資料。",
-    "metaDescription": "在 Hostinger 上該選 OpenClaw 還是 Hermes Agent？管道、記憶、AI 模型，以及使用與不使用 SONAR20 的價格，資料截至 2026年10月21日。",
+    "description": "比較 OpenClaw 與 Hermes Agent：管道、記憶、學習、授權，以及在 Hostinger 上的實際花費，伺服器方案以 2026 年 10 月 21 日查到的資料為準。",
+    "metaDescription": "在 Hostinger 上該選 OpenClaw 還是 Hermes Agent？管道、記憶、AI 模型，以及 SONAR20 代碼，資料截至 2026年10月21日。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -115612,7 +115716,7 @@ export const reviewsData: unknown[] = [
           "**誰來管伺服器。** 託管的話，由 Hostinger 負責更新與安全。VPS 的話，更新要由你自己透過 Docker Manager 的 Update 按鈕完成，伺服器安全也是你的事。Docker 是把每個應用程式隔離在容器中執行的程式。"
         ],
         "postParagraphs": [
-          "如果你打算用 npm 自行安裝 OpenClaw，需要 Node.js 24.16 或更新版本，或 26.1 或更新版本。專案的安全政策不支援 22、23 和 25 版。"
+          "如果你打算用 npm 自行安裝 OpenClaw，需要 Node.js 24 系列的 24.22.1 或更新版本，或 26 系列的 26.12.1 或更新版本（目前穩定版）。專案的安全政策不支援 22、23 和 25 版。"
         ]
       },
       {
@@ -115621,7 +115725,7 @@ export const reviewsData: unknown[] = [
           "兩個專案的安全政策都寫明了代理是為誰設計的。在決定如何對外開放之前，請先讀一讀。"
         ],
         "bullets": [
-          "**OpenClaw**（openclaw/openclaw 儲存庫的 SECURITY.md）：為一位受信任的操作者設計，不適合互不相識的多人共用。能與代理對話的人，就能讓它使用它的工具。如果有多人使用，專案建議每人一台伺服器。不要把閘道直接暴露在公開網際網路上。外掛與主程式在同一個行程中執行，被視為受信任的程式碼，所以只安裝你了解的外掛。",
+          "**OpenClaw**（openclaw/openclaw 儲存庫的 SECURITY.md）：為一位受信任的操作者或互相信任的團隊設計，不適合彼此缺乏信任的人共用。能與代理對話的人，就能讓它使用它的工具。如果使用者之間互不信任，專案要求使用各自獨立的閘道，最好也分開使用者或伺服器。不要把閘道直接暴露在公開網際網路上。外掛與主程式在同一個行程中執行，被視為受信任的程式碼，所以只安裝你了解的外掛。",
           "**Hermes Agent**（NousResearch/hermes-agent 儲存庫的 SECURITY.md）：為單人使用而設計。沒有 VPN、Tailscale 或防火牆，就不要把閘道暴露在網際網路上。以沒有 root 權限的使用者身分執行代理，並透過閱讀程式碼來審查第三方技能與外掛，不要只看 SKILL.md 檔案。"
         ],
         "postParagraphs": [
@@ -115683,7 +115787,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "託管方案附有初始的 AI 額度餘額，超出的部分依用量收費。VPS 上，Hostinger 用 Docker 安裝助理，更新與伺服器安全由你自己負責。",
-          "託管有 30 天可申請退款。VPS 的 30 天，只有在上一次 VPS 退款申請是在 180 天以前時才適用。",
+          "託管有 30 天可申請退款。VPS 在一次 VPS 退款完成後，要再過 180 天才能申請下一次退款。VPS 升級和加密貨幣付款不可退款。",
           "如果想在選方案之前先算出所需配置，請讀 [OpenClaw 最適合的 VPS](/zh-hant/reviews/best-vps-for-openclaw-zh-hant)。活動方面，請看 [Hostinger 的黑色星期五](/zh-hant/reviews/hostinger-black-friday-zh-hant)。"
         ]
       },
@@ -115700,7 +115804,7 @@ export const reviewsData: unknown[] = [
           "OpenClaw 和 Hermes Agent 免費嗎？兩個程式都是採用 MIT 授權的開源軟體，軟體本身不收費。你要付的是伺服器或託管方案，以及 AI 模型的使用費。Hermes 在 Nous Portal 上也有訂閱，但專案文件沒有標示價格。",
           "能用在 Telegram 上嗎？可以，兩者都行。你在 BotFather 建立機器人，把權杖貼到設定裡即可。",
           "需要會寫程式嗎？啟動託管版不需要：選好管道，貼上權杖就行。用 VPS 則需要懂伺服器基礎，例如 root、Docker 和更新。只有想修改專案程式碼時才需要寫程式。",
-          "安全嗎？取決於你怎麼用。兩個安全政策要求的注意事項是一樣的：由一位受信任的人使用，不直接暴露在網際網路上，並審查你安裝的第三方內容。",
+          "安全嗎？取決於你怎麼用。兩個安全政策要求的注意事項是一樣的：由一位受信任的人或互相信任的團隊使用，不直接暴露在網際網路上，並審查你安裝的第三方內容。",
           "如果我已經在用 Claude Code，該選哪個？Claude Code 是在終端機裡寫程式的工具，無法取代這兩者中的任何一個。兩者都支援 Anthropic 的金鑰：OpenClaw 把 Anthropic 列為供應商之一，Hermes Agent 的 README 把 Anthropic 金鑰列在密鑰項目裡。想要越用越會學習的代理，Hermes Agent 比較合適；想要很多管道和手機應用程式，選 OpenClaw。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
@@ -115778,10 +115882,11 @@ export const reviewsData: unknown[] = [
         "initials": "BL"
       }
     ],
-    "description": "OpenClaw or Hermes Agent: channels, memory, learning, license and the real cost on Hostinger, with prices read on 21 October 2026.",
-    "metaDescription": "OpenClaw or Hermes Agent on Hostinger: which to choose, channels, memory, AI models and price with and without SONAR20, read on 21 October 2026.",
+    "description": "OpenClaw or Hermes Agent: channels, memory, learning, license and the real cost on Hostinger, with server plans read on 21 October 2026.",
+    "metaDescription": "OpenClaw or Hermes Agent on Hostinger: which to choose, channels, memory, AI models and the SONAR20 code, read on 21 October 2026.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -115896,7 +116001,7 @@ export const reviewsData: unknown[] = [
           "**Who looks after the server.** On the managed plan, Hostinger handles updates and security. On a VPS, updating is up to you, with the Update button in Docker Manager, and so is the server's security. Docker is the program that runs each application isolated in a container."
         ],
         "postParagraphs": [
-          "If you install OpenClaw yourself, with npm, it requires Node.js 24.16 or newer, or 26.1 or newer. The project's security policy does not support versions 22, 23 and 25."
+          "If you install OpenClaw yourself, with npm, it requires Node.js 24.22.1 or newer on the 24 line, or 26.12.1 or newer on the 26 line, in the current stable release. The project's security policy does not support versions 22, 23 and 25."
         ]
       },
       {
@@ -115905,7 +116010,7 @@ export const reviewsData: unknown[] = [
           "The two projects' security policies say who the agent was built for. Read them before deciding how to expose it."
         ],
         "bullets": [
-          "**OpenClaw** (SECURITY.md in the openclaw/openclaw repository): built for one trusted operator, not for several people who do not know each other. Whoever can talk to the agent can make it use its tools. For more than one person, the project recommends one server per person. Do not expose the gateway directly to the public internet. Plugins run in the same process and are treated as trusted code, so install only what you know.",
+          "**OpenClaw** (SECURITY.md in the openclaw/openclaw repository): built for one trusted operator or a team that trusts each other, not for people without that trust. Whoever can talk to the agent can make it use its tools. For people who do not trust each other, the project asks for separate gateways, ideally on separate users or hosts. Do not expose the gateway directly to the public internet. Plugins run in the same process and are treated as trusted code, so install only what you know.",
           "**Hermes Agent** (SECURITY.md in the NousResearch/hermes-agent repository): built for a single person. Do not expose the gateway to the internet without a VPN, Tailscale or a firewall. Run the agent as a user without root privileges and review third-party skills and plugins by reading the code, not just the SKILL.md file."
         ],
         "postParagraphs": [
@@ -115967,7 +116072,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "On the managed plan, the plan includes starting AI credit, and anything beyond it is billed by consumption. On a VPS, Hostinger installs the assistant with Docker, and updating and securing the server are up to you.",
-          "The managed plan has a 30-day refund window. On a VPS, the 30 days apply only if your last VPS refund was requested more than 180 days ago.",
+          "The managed plan has a 30-day refund window. On a VPS, after a completed VPS refund, a 180-day cooldown applies before the next one. VPS upgrades and cryptocurrency payments are not refundable.",
           "If you want the requirements worked out before choosing a plan, read the [best VPS for OpenClaw](/en/reviews/best-vps-for-openclaw). For the campaign, see [Hostinger's Black Friday](/en/reviews/hostinger-black-friday)."
         ]
       },
@@ -115984,7 +116089,7 @@ export const reviewsData: unknown[] = [
           "Are OpenClaw and Hermes Agent free? Both programs are open source, under the MIT license, and you do not pay for the software. You pay for the server or the managed plan and for AI model use. Hermes also has a Nous Portal subscription, but its price does not appear in the project's documentation.",
           "Does it work with Telegram? Yes, with both. You create the bot in BotFather and paste the token into the configuration.",
           "Do you need to know how to code? To set up the managed plan, no: you choose the channels and paste the token. On a VPS, you need the basics of servers, such as root, Docker and updates. Coding only comes in if you want to change the project's code.",
-          "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person, no direct exposure to the internet, and a review of whatever you install from third parties.",
+          "Is it safe? It depends on how you use it. Both security policies ask for the same care: use by one trusted person or a team that trusts each other, no direct exposure to the internet, and a review of whatever you install from third parties.",
           "Which one should I choose if I already use Claude Code? Claude Code is a tool for coding in the terminal and does not replace either of them. Both accept an Anthropic key: OpenClaw lists Anthropic among its providers, and the Hermes Agent README lists the Anthropic key among its secrets. If you want an agent that learns from use, Hermes Agent fits better. If you want many channels and a phone app, OpenClaw.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
@@ -116066,6 +116171,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI: was es ist, wer es pflegt, was sich überprüfen lässt und wie Sie es bei Hostinger betreiben, verwaltet oder als VPS.",
     "publishedAt": "21. Oktober 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
@@ -116092,7 +116198,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Organigramm:** die Struktur, wer wem berichtet. Ein Marketing-Agent berichtet an den, der sich um die Strategie kümmert, und so weiter.",
           "**Heartbeats:** Der Name kommt von „Herzschlag“. Ein Agent läuft nicht die ganze Zeit. Er „wacht auf“, wenn er Arbeit, eine Folgenachricht oder einen Zeitplan erhält, prüft, was zu tun ist, und handelt. Danach schläft er wieder ein.",
-          "**Budget pro Agent:** Sie legen eine Ausgabenobergrenze für jeden Agenten, jedes Projekt und das Unternehmen fest. Wird die Grenze erreicht, wird die Arbeit pausiert. Das ist wichtig, weil jede KI-Antwort Geld kostet, das der Modellanbieter berechnet.",
+          "**Budget pro Agent:** Sie legen eine Ausgabenobergrenze für jeden Agenten, jedes Projekt und das Unternehmen fest. Ist der automatische Stopp (Hard-Stop) aktiviert, was die Standardeinstellung ist, wird die Arbeit des Agenten, des Projekts oder des Unternehmens bei Erreichen der Grenze pausiert; davor warnt das System nur. Die Obergrenze garantiert nicht den endgültigen Betrag, den der Anbieter berechnet. Das ist wichtig, weil jede KI-Antwort Geld kostet, das der Modellanbieter berechnet.",
           "**Freigabe:** Sie können eine Prüfung verlangen, bevor eine Arbeit weiterläuft, die Einstellung eines neuen Agenten genehmigen oder eine Aufgabe stoppen und neu zuweisen.",
           "**Audit:** Aktionen, Statuswechsel, Kosten, Freigaben und Kommentare werden protokolliert. Später lässt sich nachsehen, was passiert ist und warum."
         ],
@@ -116120,7 +116226,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agenten zum Koordinieren.** Paperclip führt kein KI-Modell aus: Es koordiniert Agenten, die über andere Programme laufen, etwa Claude Code, Codex, Cursor, Gemini CLI und OpenClaw.",
           "**Postgres.** Das ist die Datenbank, in der Paperclip Agenten, Aufgaben und Protokolle speichert. Bei der lokalen Installation ist sie eingebaut und startet von selbst. In der Produktion empfiehlt das Projekt selbst, auf ein eigenes Postgres zu zeigen. Beim verwalteten Angebot ist die Datenbank inklusive. Beim VPS liegt die Datenbank bei Ihnen.",
-          "**Eigene KI-Schlüssel.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Der Anbieter berechnet die Nutzung direkt Ihnen. Die Seite des verwalteten Paperclip sagt, dass Sie „Ihre eigenen Agenten und API-Schlüssel“ verbinden, und listet keine enthaltenen KI-Guthaben auf. Ohne Schlüssel antwortet das Team nicht.",
+          "**Eigene KI-Schlüssel.** Ein API-Schlüssel ist das Passwort, mit dem das Programm bei einem Anbieter wie Anthropic (Claude), OpenAI oder einem anderen Antworten anfordert. Der Anbieter berechnet die Nutzung direkt Ihnen. Beim verwalteten Angebot verlangt Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement und listet keine enthaltenen KI-Guthaben auf. Ohne eine dieser Verbindungen antwortet das Team nicht.",
           "**Monatliches Budget pro Agent.** Legen Sie die Obergrenze fest, bevor Sie das Team starten. Fünf Agenten mit täglichen Aufgaben können deutlich mehr kosten als ein Assistent, mit dem Sie nur gelegentlich sprechen. Ohne Obergrenze sind die Ausgaben das, was der Anbieter am Monatsende berechnet.",
           "**Serverkenntnisse, wenn es ein VPS ist.** Beim VPS müssen Sie wissen, was Docker ist, ein Programm, das jede Anwendung isoliert in einem Container ausführt, und bereit sein, das System zu aktualisieren und abzusichern. Wenn das nichts für Sie ist, löst das verwaltete Angebot es."
         ],
@@ -116168,14 +116274,14 @@ export const reviewsData: unknown[] = [
             [
               "Erstattung",
               "30 Tage",
-              "30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen beantragt wurde"
+              "30 Tage nur, wenn die letzte VPS-Erstattung vor mehr als 180 Tagen abgeschlossen wurde"
             ]
           ]
         },
         "postParagraphs": [
           "**Das verwaltete Angebot passt zu Ihnen, wenn** Sie Paperclip laufen haben wollen, ohne etwas zu installieren, nicht wissen, was Root oder Docker ist, und es vorziehen, dass Hostinger sich um Datenbank, Updates und Backups kümmert.",
           "**Der VPS passt zu Ihnen, wenn** Sie andere Programme auf demselben Server betreiben wollen, etwa eine Website oder n8n (ein Automatisierungswerkzeug), sich mit Servern auskennen oder es lernen wollen und Datenbank und Konfiguration unter Ihrer Kontrolle haben möchten.",
-          "Zur Erstattung: Die 180-Tage-Regel für VPS ist dieselbe wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie des Unternehmens liest. Wenn Sie in den letzten sechs Monaten eine VPS-Erstattung beantragt haben, gilt für den neuen Kauf die 30-Tage-Garantie nicht."
+          "Zur Erstattung: Die 180-Tage-Regel für VPS ist dieselbe wie im [Artikel über das Vertrauen in Hostinger](/de/reviews/ist-hostinger-serioes), der die Richtlinie des Unternehmens liest. Die 180 Tage zählen ab dem Abschluss Ihrer letzten VPS-Erstattung: Wenn Sie in den letzten 180 Tagen eine erhalten haben, gilt für den neuen VPS die 30-Tage-Garantie nicht."
         ]
       },
       {
@@ -116194,7 +116300,7 @@ export const reviewsData: unknown[] = [
         "heading": "So fangen Sie an, der Reihe nach",
         "bullets": [
           "**Auf Ihrem Computer betreiben.** Die offizielle README verlangt Node.js 24.11 oder neuer. Prüfen Sie die Version mit dem Befehl node -v im Terminal und führen Sie dann npx paperclipai@latest onboard --yes aus. Die Oberfläche öffnet sich unter http://localhost:3100, und die Postgres-Datenbank wird von selbst angelegt. Es entstehen keine Serverkosten, aber Paperclip läuft nur, solange der Computer eingeschaltet ist. Wenn Sie Claude oder Codex abonniert haben, erlaubt die README auch die Anmeldung über das Abonnement, ohne API-Schlüssel, mit installiertem Python 3 und dem Programm des Anbieters.",
-          "**Das verwaltete Angebot buchen.** Bestellen Sie den Plan „KI-Automatisierungs-Apps“ mit 24 Monaten und dem Code SONAR20 im Warenkorb. Nach der Bestellung bereitet Hostinger die Instanz und die Datenbank vor. Sie melden sich im Panel an, verbinden Ihre Agenten und tragen Ihre KI-Schlüssel ein.",
+          "**Das verwaltete Angebot buchen.** Bestellen Sie den Plan „KI-Automatisierungs-Apps“ mit 24 Monaten und dem Code SONAR20 im Warenkorb. Nach der Bestellung bereitet Hostinger die Instanz und die Datenbank vor. Sie melden sich im Panel an, verbinden Ihre Agenten und tragen einen KI-Schlüssel ein (oder nutzen das ChatGPT-Abonnement).",
           "**Oder einen VPS mit Docker buchen.** Wählen Sie einen KVM-Tarif (der KVM 1 ist der günstigste) und in der Liste der Anwendungen Paperclip, das Hostinger mit einem Klick installiert. Im Docker Manager des Panels öffnen Sie Paperclip, tragen die Schlüssel ein und aktualisieren die Version per Button. Die Sicherheit des Servers, die Passwörter und die Systemupdates bleiben bei Ihnen."
         ]
       },
@@ -116209,7 +116315,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Ist Paperclip kostenlos? Das Programm ist Open Source, unter MIT-Lizenz, und lässt sich auf Ihrem Computer installieren, ohne Hostinger zu bezahlen. Die Nutzung der KI-Modelle berechnet der Anbieter, und das verwaltete Angebot und der VPS sind kostenpflichtige Tarife.",
           "Ist Paperclip vertrauenswürdig? Ein Urteil lässt sich nicht fällen. Überprüfen lässt sich, dass der Code öffentlich ist, dass das Repository das Paperclip-Team (Paperclip Labs, Inc. im Copyright-Hinweis) als Verantwortlichen nennt und dass Sicherheitslücken über einen offiziellen Kanal auf GitHub gemeldet werden. In den gelesenen Quellen haben wir kein unabhängiges Audit gefunden.",
-          "Braucht man einen API-Schlüssel? Ja. Beim verwalteten Angebot und beim VPS verlangt die Paperclip-Seite, dass man eigene mitbringt. Auf dem Computer akzeptiert die README auch das Abonnement von Claude oder Codex, ohne API-Schlüssel.",
+          "Braucht man einen API-Schlüssel? In den meisten Fällen ja. Beim verwalteten Angebot akzeptiert Hostinger einen API-Schlüssel von OpenAI, Anthropic, Gemini oder Cursor oder ein aktives ChatGPT-Abonnement. Beim VPS verlangt die Seite, dass man eigene Schlüssel mitbringt. Auf dem Computer akzeptiert die README auch das Abonnement von Claude oder Codex, ohne API-Schlüssel.",
           "Läuft es mit Ollama? Das hängt vom Agenten ab, den Sie verbinden. Die README von Paperclip nennt Ollama nicht, ein Programm, um ein KI-Modell auf dem eigenen Computer auszuführen. OpenClaw dokumentiert zum Beispiel lokale Modelle; bei Paperclip liegt das Modell beim Agenten, den Sie verbinden.",
           "Gibt es einen Gutscheincode für Paperclip bei Hostinger? Ja: der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % im ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
@@ -116292,6 +116398,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI: cos’è, chi lo mantiene, cosa si può verificare e come farlo girare su Hostinger, gestito o VPS.",
     "publishedAt": "21 ottobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
@@ -116318,7 +116425,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Organigramma:** la struttura di chi risponde a chi. Un agente di marketing risponde a chi cura la strategia, e così via.",
           "**Heartbeats:** il nome viene da “battito”. Un agente non resta in funzione tutto il tempo. Si “sveglia” quando riceve del lavoro, un messaggio di follow-up o una pianificazione, verifica cosa deve fare e agisce. Poi torna a dormire.",
-          "**Budget per agente:** fissa un tetto di spesa per ogni agente, per ogni progetto e per l’azienda. Quando si raggiunge il limite, il lavoro viene messo in pausa. Conta perché ogni risposta dell’IA costa denaro, addebitato dal fornitore del modello.",
+          "**Budget per agente:** fissa un tetto di spesa per ogni agente, per ogni progetto e per l’azienda. Con l’arresto automatico (hard-stop) attivo, che è l’impostazione predefinita, il lavoro dell’agente, del progetto o dell’azienda viene messo in pausa al raggiungimento del limite; prima di allora l’avviso segnala soltanto. Il tetto non garantisce l’importo finale addebitato dal fornitore. Conta perché ogni risposta dell’IA costa denaro, addebitato dal fornitore del modello.",
           "**Approvazione:** puoi richiedere una revisione prima che un lavoro prosegua, approvare l’assunzione di un nuovo agente oppure fermare e riassegnare un compito.",
           "**Audit:** azioni, cambi di stato, costi, approvazioni e commenti vengono registrati. Dopo si può vedere cosa è successo e perché."
         ],
@@ -116346,7 +116453,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agenti da coordinare.** Paperclip non fa girare un modello IA: coordina agenti che funzionano tramite altri programmi, come Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
           "**Postgres.** È il database in cui Paperclip conserva agenti, compiti e registri. Nell’installazione locale è integrato e parte da solo. In produzione, il progetto stesso consiglia di puntare a un Postgres tuo. Sul gestito, il database è incluso. Sul VPS, il database è a tuo carico.",
-          "**Chiavi IA tue.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Il fornitore fa pagare l’uso, direttamente a te. La pagina di Paperclip gestito dice che colleghi “i tuoi agenti e le tue chiavi API”, e non elenca crediti IA inclusi. Senza chiave, la squadra non risponde.",
+          "**Chiavi IA tue.** La chiave API è la password che il programma usa per chiedere risposte a un fornitore, come Anthropic (Claude), OpenAI o un altro. Il fornitore fa pagare l’uso, direttamente a te. Sul gestito, Hostinger chiede una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo, e non elenca crediti IA inclusi. Senza una di queste connessioni, il team non risponde.",
           "**Budget mensile per agente.** Fissa il tetto prima di accendere la squadra. Cinque agenti con attività quotidiane possono costare molto più di un assistente con cui conversi ogni tanto. Senza tetto, la spesa è quella che il fornitore addebita a fine mese.",
           "**Conoscenze di server, se è un VPS.** Sul VPS, devi sapere cos’è Docker, un programma che fa girare ogni applicazione isolata in un container, e accettare di aggiornare e proteggere il sistema. Se non fa per te, il gestito risolve."
         ],
@@ -116394,14 +116501,14 @@ export const reviewsData: unknown[] = [
             [
               "Rimborso",
               "30 giorni",
-              "30 giorni solo se l’ultimo rimborso VPS è stato chiesto più di 180 giorni fa"
+              "30 giorni solo se l’ultimo rimborso VPS è stato completato più di 180 giorni fa"
             ]
           ]
         },
         "postParagraphs": [
           "**Il gestito fa per te se** vuoi Paperclip funzionante senza installare nulla, non sai cosa sono root e Docker, e preferisci che Hostinger si occupi del database, degli aggiornamenti e dei backup.",
           "**Il VPS fa per te se** vuoi far girare altri programmi sullo stesso server, come un sito o un n8n (strumento di automazione), sai mettere le mani su un server o vuoi imparare, e vuoi avere database e configurazione sotto il tuo controllo.",
-          "Per il rimborso, la regola dei 180 giorni per il VPS è la stessa dell’[articolo sull’affidabilità di Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell’azienda. Se hai chiesto un rimborso VPS negli ultimi sei mesi, il nuovo acquisto non ha la garanzia di 30 giorni."
+          "Per il rimborso, la regola dei 180 giorni per il VPS è la stessa dell’[articolo sull’affidabilità di Hostinger](/it/reviews/hostinger-e-affidabile), che legge la politica dell’azienda. I 180 giorni contano dal completamento dell’ultimo rimborso VPS: se ne hai ricevuto uno negli ultimi 180 giorni, il nuovo VPS non ha la garanzia di 30 giorni."
         ]
       },
       {
@@ -116420,7 +116527,7 @@ export const reviewsData: unknown[] = [
         "heading": "Come iniziare, in ordine",
         "bullets": [
           "**Farlo girare sul tuo computer.** Il README ufficiale richiede Node.js 24.11 o più recente. Controlla la versione con il comando node -v nel terminale e poi esegui npx paperclipai@latest onboard --yes. L’interfaccia si apre su http://localhost:3100, e il database Postgres viene creato da solo. Non ci sono costi di server, ma Paperclip gira solo finché il computer è acceso. Se hai un abbonamento a Claude o a Codex, il README accetta anche l’accesso tramite abbonamento, senza chiave API, con Python 3 e il programma del fornitore installati.",
-          "**Attivare il gestito.** Sottoscrivi il piano “App di automazione IA” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l’acquisto, Hostinger prepara l’istanza e il database. Entra nel pannello, collega i tuoi agenti e inserisci le tue chiavi IA.",
+          "**Attivare il gestito.** Sottoscrivi il piano “App di automazione IA” con 24 mesi, con il codice SONAR20 nel carrello. Dopo l’acquisto, Hostinger prepara l’istanza e il database. Entra nel pannello, collega i tuoi agenti e inserisci una chiave IA (o usa l’abbonamento ChatGPT).",
           "**Oppure prendere un VPS con Docker.** Scegli un piano KVM (il KVM 1 è il più economico) e, nell’elenco delle applicazioni, Paperclip, che Hostinger installa con un clic. Dal Docker Manager del pannello apri Paperclip, inserisci le chiavi e aggiorna la versione con un pulsante. La sicurezza del server, le password e gli aggiornamenti del sistema restano tuoi."
         ]
       },
@@ -116435,7 +116542,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Paperclip è gratis? Il programma è open source, con licenza MIT, e si può installare sul tuo computer senza pagare Hostinger. L’uso dei modelli IA è addebitato dal fornitore, e il gestito e il VPS sono piani a pagamento.",
           "Paperclip è affidabile? Non si può dare un verdetto. Si può verificare che il codice è pubblico, che il repository indica il team Paperclip (Paperclip Labs, Inc. nell’avviso di copyright) come responsabile, e che le falle di sicurezza si segnalano tramite un canale ufficiale su GitHub. Non abbiamo trovato audit indipendenti nelle fonti lette.",
-          "Serve una chiave API? Sì. Sul gestito e sul VPS, la pagina di Paperclip chiede di portare le proprie. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
+          "Serve una chiave API? Nella maggior parte dei casi, sì. Sul gestito, Hostinger accetta una chiave API di OpenAI, Anthropic, Gemini o Cursor, oppure un abbonamento ChatGPT attivo. Sul VPS, la pagina chiede di portare le proprie chiavi. Sul computer, il README accetta anche l’abbonamento a Claude o a Codex, senza chiave API.",
           "Funziona con Ollama? Dipende dall’agente che colleghi. Il README di Paperclip non cita Ollama, un programma per far girare un modello IA sul proprio computer. OpenClaw, per esempio, documenta modelli locali; in Paperclip, il modello resta all’agente che colleghi.",
           "C’è un codice sconto per Paperclip su Hostinger? Sì: il codice SONAR20, nel campo codice sconto del carrello, dà il 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
@@ -116518,6 +116625,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI : ce que c’est, qui le maintient, ce que l’on peut vérifier et comment le faire tourner chez Hostinger, en géré ou sur un VPS.",
     "publishedAt": "21 octobre 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -116545,7 +116653,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Organigramme :** la structure de qui rend des comptes à qui. Un agent marketing répond à celui qui s’occupe de la stratégie, et ainsi de suite.",
           "**Heartbeats :** le nom vient de « battement de cœur ». Un agent ne tourne pas en permanence. Il « se réveille » quand il reçoit du travail, un message de suivi ou une planification, vérifie ce qu’il a à faire et agit. Ensuite, il se rendort.",
-          "**Budget par agent :** vous fixez un plafond de dépense pour chaque agent, pour chaque projet et pour l’entreprise. Quand la limite est atteinte, le travail est mis en pause. C’est important parce que chaque réponse d’IA coûte de l’argent, facturé par le fournisseur du modèle.",
+          "**Budget par agent :** vous fixez un plafond de dépense pour chaque agent, pour chaque projet et pour l’entreprise. Quand l’arrêt automatique (hard-stop) est activé, ce qui est le réglage par défaut, le travail de l’agent, du projet ou de l’entreprise est mis en pause à l’atteinte de la limite ; avant cela, l’alerte ne fait que prévenir. Le plafond ne garantit pas le montant final facturé par le fournisseur. C’est important parce que chaque réponse d’IA coûte de l’argent, facturé par le fournisseur du modèle.",
           "**Approbation :** vous pouvez exiger une relecture avant qu’un travail avance, approuver l’embauche d’un nouvel agent ou arrêter et réattribuer une tâche.",
           "**Audit :** les actions, les changements d’état, les coûts, les approbations et les commentaires sont enregistrés. On peut voir ensuite ce qui s’est passé et pourquoi."
         ],
@@ -116573,7 +116681,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Des agents à coordonner.** Paperclip ne fait pas tourner de modèle d’IA : il coordonne des agents qui fonctionnent via d’autres programmes, comme Claude Code, Codex, Cursor, Gemini CLI et OpenClaw.",
           "**Postgres.** C’est la base de données où Paperclip enregistre les agents, les tâches et les historiques. Dans l’installation locale, elle est intégrée et démarre toute seule. En production, le projet recommande lui-même de pointer vers un Postgres à vous. Sur le géré, la base de données est incluse. Sur le VPS, la base de données est à votre charge.",
-          "**Vos propres clés d’IA.** Une clé d’API est le mot de passe que le programme utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Le fournisseur facture l’usage, directement à vous. La page de Paperclip géré indique que vous connectez « vos propres agents et clés d’API », et ne liste pas de crédits d’IA inclus. Sans clé, l’équipe ne répond pas.",
+          "**Vos propres clés d’IA.** Une clé d’API est le mot de passe que le programme utilise pour demander des réponses à un fournisseur, comme Anthropic (Claude), OpenAI ou un autre. Le fournisseur facture l’usage, directement à vous. Sur le géré, Hostinger demande une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif, et ne liste pas de crédits d’IA inclus. Sans l’une de ces connexions, l’équipe ne répond pas.",
           "**Un budget mensuel par agent.** Fixez le plafond avant d’allumer l’équipe. Cinq agents avec des tâches quotidiennes peuvent dépenser bien plus qu’un assistant avec qui vous discutez de temps en temps. Sans plafond, la dépense est ce que le fournisseur facture en fin de mois.",
           "**Des connaissances de serveur, si c’est un VPS.** Sur un VPS, il faut savoir ce qu’est Docker, un programme qui fait tourner chaque application isolée dans un conteneur, et accepter de mettre à jour et de sécuriser le système. Si ce n’est pas pour vous, le géré règle la question."
         ],
@@ -116621,14 +116729,14 @@ export const reviewsData: unknown[] = [
             [
               "Remboursement",
               "30 jours",
-              "30 jours seulement si votre dernier remboursement de VPS a été demandé il y a plus de 180 jours"
+              "30 jours seulement si votre dernier remboursement de VPS a été finalisé il y a plus de 180 jours"
             ]
           ]
         },
         "postParagraphs": [
           "**Le géré vous convient si** vous voulez Paperclip qui fonctionne sans rien installer, si vous ne savez pas ce que sont root et Docker, et si vous préférez que Hostinger s’occupe de la base de données, des mises à jour et des sauvegardes.",
           "**Le VPS vous convient si** vous voulez faire tourner d’autres programmes sur le même serveur, comme un site ou un n8n (outil d’automatisation), si vous savez manipuler un serveur ou voulez apprendre, et si vous voulez garder la base de données et la configuration sous votre contrôle.",
-          "Pour le remboursement, la règle des 180 jours pour le VPS est la même que dans l’[article sur la confiance envers Hostinger](/fr/reviews/hostinger-est-il-fiable), qui lit la politique de l’entreprise. Si vous avez demandé un remboursement de VPS ces six derniers mois, le nouvel achat n’a pas la garantie de 30 jours."
+          "Pour le remboursement, la règle des 180 jours pour le VPS est la même que dans l’[article sur la confiance envers Hostinger](/fr/reviews/hostinger-est-il-fiable), qui lit la politique de l’entreprise. Les 180 jours courent à partir de la finalisation de votre dernier remboursement de VPS : si vous en avez reçu un ces 180 derniers jours, le nouveau VPS n’a pas la garantie de 30 jours."
         ]
       },
       {
@@ -116647,7 +116755,7 @@ export const reviewsData: unknown[] = [
         "heading": "Comment commencer, dans l’ordre",
         "bullets": [
           "**Le faire tourner sur votre ordinateur.** Le README officiel demande Node.js 24.11 ou plus récent. Vérifiez la version avec la commande node -v dans le terminal, puis lancez npx paperclipai@latest onboard --yes. L’interface s’ouvre sur http://localhost:3100, et la base Postgres est créée toute seule. Il n’y a pas de coût de serveur, mais Paperclip ne tourne que tant que l’ordinateur est allumé. Si vous avez un abonnement Claude ou Codex, le README accepte aussi de se connecter avec l’abonnement, sans clé d’API, avec Python 3 et le programme du fournisseur installés.",
-          "**Souscrire le géré.** Choisissez l’offre « Applications d’automatisation IA » sur 24 mois, avec le code SONAR20 dans le panier. Après la souscription, Hostinger prépare l’instance et la base de données. Vous vous connectez au panneau, connectez vos agents et collez vos clés d’IA.",
+          "**Souscrire le géré.** Choisissez l’offre « Applications d’automatisation IA » sur 24 mois, avec le code SONAR20 dans le panier. Après la souscription, Hostinger prépare l’instance et la base de données. Vous vous connectez au panneau, connectez vos agents et collez une clé d’IA (ou utilisez l’abonnement ChatGPT).",
           "**Ou prendre un VPS avec Docker.** Choisissez une offre KVM (le KVM 1 est le moins cher) et, dans la liste des applications, Paperclip, que Hostinger installe en un clic. Avec le Docker Manager du panneau, vous ouvrez Paperclip, saisissez les clés et mettez à jour la version avec un bouton. La sécurité du serveur, les mots de passe et les mises à jour du système restent à vous."
         ]
       },
@@ -116662,7 +116770,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Paperclip est-il gratuit ? Le programme est open source, sous licence MIT, et peut s’installer sur votre ordinateur sans payer Hostinger. L’usage des modèles d’IA est facturé par le fournisseur, et le géré et le VPS sont des offres payantes.",
           "Paperclip est-il fiable ? On ne peut pas donner de verdict. On peut vérifier que le code est public, que le dépôt désigne l’équipe Paperclip (Paperclip Labs, Inc. dans la mention de copyright) comme responsable, et que les failles de sécurité sont signalées par un canal officiel sur GitHub. Nous n’avons pas trouvé d’audit indépendant dans les sources lues.",
-          "Faut-il une clé d’API ? Oui. Sur le géré et sur le VPS, la page de Paperclip demande d’apporter les vôtres. Sur l’ordinateur, le README accepte aussi l’abonnement Claude ou Codex, sans clé d’API.",
+          "Faut-il une clé d’API ? Dans la plupart des cas, oui. Sur le géré, Hostinger accepte une clé d’API d’OpenAI, d’Anthropic, de Gemini ou de Cursor, ou un abonnement ChatGPT actif. Sur le VPS, la page demande d’apporter vos propres clés. Sur l’ordinateur, le README accepte aussi l’abonnement Claude ou Codex, sans clé d’API.",
           "Fonctionne-t-il avec Ollama ? Cela dépend de l’agent que vous connectez. Le README de Paperclip ne cite pas Ollama, un programme pour faire tourner un modèle d’IA sur son propre ordinateur. OpenClaw, par exemple, documente des modèles locaux ; dans Paperclip, le modèle reste du côté de l’agent que vous connectez.",
           "Y a-t-il un code promo pour Paperclip chez Hostinger ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
@@ -116744,6 +116852,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI: what it is, who maintains it, what you can verify and how to run it on Hostinger, managed or VPS.",
     "publishedAt": "October 21, 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -116771,7 +116880,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Org chart:** the structure of who reports to whom. A marketing agent answers to whoever handles strategy, and so on.",
           "**Heartbeats:** the name comes from “heartbeat”. An agent does not run all the time. It “wakes up” when it gets work, a follow-up message or a schedule, checks what it has to do and acts. Then it goes back to sleep.",
-          "**Budget per agent:** you set a spending cap for each agent, each project and the company. When the limit is reached, the work is paused. This matters because every AI response costs money, charged by the model provider.",
+          "**Budget per agent:** you set a spending cap for each agent, each project and the company. With automatic stop (hard-stop) enabled, which is the default, the work of the agent, project or company is paused when the limit is reached; before that, the warning only alerts. The cap does not guarantee the final amount the provider charges. This matters because every AI response costs money, charged by the model provider.",
           "**Approval:** you can require a review before a piece of work moves on, approve the hiring of a new agent or stop and reassign a task.",
           "**Audit:** actions, state changes, costs, approvals and comments are all recorded. You can see afterwards what happened and why."
         ],
@@ -116799,7 +116908,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agents to coordinate.** Paperclip does not run an AI model: it coordinates agents that work through other programs, such as Claude Code, Codex, Cursor, Gemini CLI and OpenClaw.",
           "**Postgres.** This is the database where Paperclip stores agents, tasks and records. In the local install, it comes built in and starts on its own. In production, the project itself recommends pointing to a Postgres of your own. On managed, the database is included. On the VPS, the database is up to you.",
-          "**Your own AI keys.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. The provider charges for usage, directly to you. The managed Paperclip page says you connect “your own agents and API keys”, and it does not list included AI credits. Without a key, the team does not answer.",
+          "**Your own AI keys.** An API key is the password the program uses to ask a provider for answers, such as Anthropic (Claude), OpenAI or another. The provider charges for usage, directly to you. On managed, Hostinger asks for an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription, and it does not list included AI credits. Without one of these connections, the team does not answer.",
           "**A monthly budget per agent.** Set the cap before you turn the team on. Five agents with daily tasks can spend far more than an assistant you chat with now and then. Without a cap, the spending is whatever the provider charges at the end of the month.",
           "**Server knowledge, if you go with a VPS.** On a VPS, you need to know what Docker is, a program that runs each application isolated in a container, and accept updating and securing the system. If that is not for you, managed solves it."
         ],
@@ -116847,14 +116956,14 @@ export const reviewsData: unknown[] = [
             [
               "Refund",
               "30 days",
-              "30 days, only if your last VPS refund was requested more than 180 days ago"
+              "30 days, only if your last VPS refund was completed more than 180 days ago"
             ]
           ]
         },
         "postParagraphs": [
           "**Managed is for you if** you want Paperclip running without installing anything, you do not know what root or Docker is, and you prefer Hostinger to look after the database, the updates and the backups.",
           "**The VPS is for you if** you want to run other programs on the same server, such as a website or n8n (an automation tool), you know your way around a server or want to learn, and you want the database and the configuration under your control.",
-          "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. If you requested a VPS refund in the last six months, the new purchase does not have the 30-day guarantee."
+          "On refunds, the 180-day rule for VPS is the same one in the [article on trusting Hostinger](/en/reviews/is-hostinger-legit), which reads the company’s policy. The 180 days count from the completion of your last VPS refund: if you received one in the last 180 days, the new VPS does not have the 30-day guarantee."
         ]
       },
       {
@@ -116873,7 +116982,7 @@ export const reviewsData: unknown[] = [
         "heading": "How to get started, in order",
         "bullets": [
           "**Run it on your computer.** The official README requires Node.js 24.11 or newer. Check the version with the command node -v in the terminal, then run npx paperclipai@latest onboard --yes. The interface opens at http://localhost:3100, and the Postgres database is created on its own. There is no server cost, but Paperclip only runs while your computer is on. If you subscribe to Claude or Codex, the README also lets you sign in through the subscription, without an API key, with Python 3 and the provider’s program installed.",
-          "**Subscribe to managed.** Sign up for the “AI automation apps” plan for 24 months, with the code SONAR20 in the cart. After the subscription, Hostinger prepares the instance and the database. You log into the panel, connect your agents and paste in your AI keys.",
+          "**Subscribe to managed.** Sign up for the “AI automation apps” plan for 24 months, with the code SONAR20 in the cart. After the subscription, Hostinger prepares the instance and the database. You log into the panel, connect your agents and paste in an AI key (or use the ChatGPT subscription).",
           "**Or get a VPS with Docker.** Pick a KVM plan (the KVM 1 is the cheapest) and, in the list of applications, Paperclip, which Hostinger installs with one click. Through the panel’s Docker Manager you open Paperclip, enter the keys and update the version with a button. The server’s security, the passwords and the system updates remain yours."
         ]
       },
@@ -116888,7 +116997,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Is Paperclip free? The program is open source, under the MIT license, and you can install it on your computer without paying Hostinger. The use of AI models is charged by the provider, and managed and the VPS are paid plans.",
           "Is Paperclip reliable? No verdict can be given. What you can verify is that the code is public, that the repository names the Paperclip team (Paperclip Labs, Inc. in the copyright notice) as responsible, and that security flaws are reported through an official channel on GitHub. We found no independent audit in the sources read.",
-          "Does it need an API key? Yes. On managed and on the VPS, the Paperclip page asks you to bring your own. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
+          "Does it need an API key? In most cases, yes. On managed, Hostinger accepts an API key from OpenAI, Anthropic, Gemini or Cursor, or an active ChatGPT subscription. On the VPS, the page asks you to bring your own keys. On your computer, the README also accepts a Claude or Codex subscription, without an API key.",
           "Does it run with Ollama? It depends on the agent you connect. Paperclip’s README does not mention Ollama, a program for running an AI model on your own computer. OpenClaw, for example, documents local models; in Paperclip, the model stays with the agent you connect.",
           "Is there a coupon for Paperclip on Hostinger? Yes: the code SONAR20, in the cart’s coupon field, gives 20% off the first period. The 20% applies to every new purchase; renewals are charged at the list price, with no discount.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
@@ -116970,6 +117079,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI とは何か、誰が保守しているか、確認できる事実、Hostinger（マネージドまたは VPS）での動かし方を解説します。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -116997,7 +117107,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**組織図：** 誰が誰に報告するかという構造です。マーケティングのエージェントは、戦略を担当するエージェントに報告する、といった具合です。",
           "**ハートビート：** 名前は「鼓動」に由来します。エージェントは常に動き続けるわけではありません。仕事、フォローアップのメッセージ、スケジュールを受け取ると「目を覚まし」、やることを確認して動き、また眠ります。",
-          "**エージェントごとの予算：** エージェントごと、プロジェクトごと、会社全体で支出の上限を決められます。上限に達すると、仕事は一時停止します。AI の応答は一回ごとに費用がかかり、請求はモデルのプロバイダーから届くため、これは重要です。",
+          "**エージェントごとの予算：** エージェントごと、プロジェクトごと、会社全体で支出の上限を決められます。自動停止（ハードストップ）が有効な場合（初期設定です）、上限に達するとそのエージェント、プロジェクト、会社の仕事は一時停止します。それより前の段階では警告が出るだけです。上限は、プロバイダーの最終的な請求額を保証するものではありません。AI の応答は一回ごとに費用がかかり、請求はモデルのプロバイダーから届くため、これは重要です。",
           "**承認：** 仕事を先に進める前にレビューを必須にしたり、新しいエージェントの採用を承認したり、タスクを止めて割り当て直したりできます。",
           "**監査：** 操作、状態の変化、費用、承認、コメントが記録されます。何が、なぜ起きたかをあとから確認できます。"
         ],
@@ -117025,7 +117135,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**調整するエージェント。** Paperclip は AI モデルを動かしません。Claude Code、Codex、Cursor、Gemini CLI、OpenClaw など、他のプログラムで動くエージェントを調整します。",
           "**Postgres。** Paperclip がエージェント、タスク、記録を保存するデータベースです。ローカルへのインストールでは組み込みで、自動的に起動します。本番環境では、プロジェクト自身が自前の Postgres を指定することを勧めています。マネージドではデータベースが含まれます。VPS では、データベースはご自身で管理します。",
-          "**ご自身の AI キー。** API キーは、プログラムがプロバイダー（Anthropic の Claude、OpenAI など）に応答を求めるときのパスワードです。プロバイダーは使った分をあなたに直接請求します。Paperclip のマネージド版のページには「ご自身のエージェントと API キー」を接続すると書かれており、AI クレジットが含まれるとは記載されていません。キーがなければ、チームは応答しません。",
+          "**ご自身の AI キー。** API キーは、プログラムがプロバイダー（Anthropic の Claude、OpenAI など）に応答を求めるときのパスワードです。プロバイダーは使った分をあなたに直接請求します。マネージド版では、Hostinger は OpenAI、Anthropic、Gemini、Cursor のいずれかの API キー、または有効な ChatGPT サブスクリプションを求めており、AI クレジットが含まれるとは記載されていません。これらの接続がなければ、チームは応答しません。",
           "**エージェントごとの月間予算。** チームを起動する前に上限を決めてください。毎日仕事をする五つのエージェントは、たまにしか話しかけないアシスタントよりずっと多くの費用がかかることがあります。上限がなければ、費用は月末にプロバイダーが請求した額そのままです。",
           "**VPS の場合のサーバーの知識。** VPS では、Docker（アプリを独立したコンテナで動かすプログラム）が何かを知っている必要があり、システムの更新と保護を自分で行うことを受け入れる必要があります。それが難しければ、マネージドが向いています。"
         ],
@@ -117073,14 +117183,14 @@ export const reviewsData: unknown[] = [
             [
               "返金",
               "30日間",
-              "前回の VPS 返金申請から180日を超えている場合に限り、30日間"
+              "前回の VPS 返金の完了から180日を超えている場合に限り、30日間"
             ]
           ]
         },
         "postParagraphs": [
           "**マネージドが向いているのは、**何もインストールせずに Paperclip を動かしたい方、root も Docker も分からない方、データベース、更新、バックアップを Hostinger に任せたい方です。",
           "**VPS が向いているのは、**同じサーバーでサイトや n8n（自動化ツール）など他のプログラムも動かしたい方、サーバーを扱える方や学びたい方、データベースと設定を自分の管理下に置きたい方です。",
-          "返金については、VPS の180日ルールは、同社の方針を読み解いた[Hostinger の信頼性についての記事](/ja/reviews/hostinger-trust-guide-ja)と同じです。過去六か月以内に VPS の返金を申請している場合、新しい購入には30日間の保証はありません。"
+          "返金については、VPS の180日ルールは、同社の方針を読み解いた[Hostinger の信頼性についての記事](/ja/reviews/hostinger-trust-guide-ja)と同じです。180日は前回の VPS 返金の完了日から数えます。過去180日以内に VPS の返金を受けている場合、新しい VPS には30日間の保証はありません。"
         ]
       },
       {
@@ -117099,7 +117209,7 @@ export const reviewsData: unknown[] = [
         "heading": "始め方を順番に",
         "bullets": [
           "**自分のコンピューターで動かす。** 公式 README は Node.js 24.11 以上を求めています。ターミナルで node -v を実行してバージョンを確認し、続けて npx paperclipai@latest onboard --yes を実行します。画面は http://localhost:3100 で開き、Postgres のデータベースは自動で作られます。サーバー費用はかかりませんが、Paperclip はコンピューターの電源が入っている間しか動きません。Claude または Codex を契約している場合、README では API キーなしでそのサブスクリプションからログインすることもでき、Python 3 とプロバイダーのプログラムのインストールが必要です。",
-          "**マネージドを契約する。** 「AI 自動化アプリ」プランの24か月を選び、カートにコード SONAR20 を入れて契約します。契約後、Hostinger がインスタンスとデータベースを用意します。パネルに入り、エージェントを接続して、ご自身の AI キーを貼り付けます。",
+          "**マネージドを契約する。** 「AI 自動化アプリ」プランの24か月を選び、カートにコード SONAR20 を入れて契約します。契約後、Hostinger がインスタンスとデータベースを用意します。パネルに入り、エージェントを接続して、AI キーを貼り付けます（ChatGPT サブスクリプションでも接続できます）。",
           "**または Docker つきの VPS を契約する。** KVM プラン（最も安いのは KVM 1）を選び、アプリの一覧から Paperclip を選ぶと、Hostinger がワンクリックでインストールします。パネルの Docker Manager から Paperclip を開き、キーを入れ、ボタンでバージョンを更新できます。サーバーの安全対策、パスワード、システムの更新はご自身の担当のままです。"
         ]
       },
@@ -117114,7 +117224,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Paperclip は無料ですか？ プログラムはオープンソースで MIT ライセンスです。Hostinger に支払わず、自分のコンピューターにインストールできます。AI モデルの利用料はプロバイダーが請求し、マネージドと VPS は有料プランです。",
           "Paperclip は信頼できますか？ 結論を出すことはできません。確認できるのは、コードが公開されていること、リポジトリが Paperclip チーム（著作権表示では Paperclip Labs, Inc.）を責任者としていること、セキュリティ上の不具合は GitHub の公式窓口で報告されることです。調べた情報源には、独立した監査は見つかりませんでした。",
-          "API キーは必要ですか？ はい。マネージドでも VPS でも、Paperclip のページはご自身のキーを持ち込むよう求めています。コンピューターで動かす場合は、README により Claude または Codex のサブスクリプションでも、API キーなしで利用できます。",
+          "API キーは必要ですか？ ほとんどの場合は必要です。マネージド版では、OpenAI、Anthropic、Gemini、Cursor のいずれかの API キー、または有効な ChatGPT サブスクリプションが使えます。VPS では、ページがご自身のキーを持ち込むよう求めています。コンピューターで動かす場合は、README により Claude または Codex のサブスクリプションでも、API キーなしで利用できます。",
           "Ollama で動きますか？ 接続するエージェント次第です。Paperclip の README には、AI モデルを自分のコンピューターで動かすプログラムである Ollama への言及がありません。たとえば OpenClaw はローカルモデルを文書化していますが、Paperclip ではモデルは接続したエージェント側にあります。",
           "Hostinger で Paperclip に使えるクーポンはありますか？ あります。カートのクーポン欄にコード SONAR20 を入れると、最初の期間が20%引きになります。20%割引はすべての新規購入に適用され、更新は通常料金で、割引はありません。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
@@ -117196,6 +117306,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI가 무엇인지, 누가 관리하는지, 확인할 수 있는 사실, Hostinger(관리형 또는 VPS)에서 운영하는 방법을 정리했습니다.",
     "publishedAt": "2026년 10월 21일",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
@@ -117222,7 +117333,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**조직도:** 누가 누구에게 보고하는지를 나타내는 구조입니다. 마케팅 에이전트는 전략을 맡은 에이전트에게 보고하는 식입니다.",
           "**하트비트:** 이름은 '심박'에서 왔습니다. 에이전트는 계속 돌아가지 않습니다. 일, 후속 메시지, 예약된 일정을 받으면 '깨어나서' 할 일을 확인하고 행동한 뒤 다시 잠듭니다.",
-          "**에이전트별 예산:** 에이전트마다, 프로젝트마다, 회사 전체에 지출 상한을 정할 수 있습니다. 한도에 닿으면 작업이 멈춥니다. AI 응답은 한 번마다 비용이 들고 청구는 모델 제공업체에서 오기 때문에 중요합니다.",
+          "**에이전트별 예산:** 에이전트마다, 프로젝트마다, 회사 전체에 지출 상한을 정할 수 있습니다. 자동 중지(하드 스톱)를 켜 두면(기본값입니다) 한도에 닿을 때 해당 에이전트, 프로젝트, 회사의 작업이 멈춥니다. 그 전 단계에서는 경고만 나옵니다. 상한이 제공업체가 최종 청구하는 금액을 보장하지는 않습니다. AI 응답은 한 번마다 비용이 들고 청구는 모델 제공업체에서 오기 때문에 중요합니다.",
           "**승인:** 작업이 다음 단계로 넘어가기 전에 검토를 요구하거나, 새 에이전트 채용을 승인하거나, 작업을 멈추고 다시 배정할 수 있습니다.",
           "**감사:** 동작, 상태 변경, 비용, 승인, 댓글이 기록됩니다. 나중에 무슨 일이 왜 일어났는지 볼 수 있습니다."
         ],
@@ -117250,7 +117361,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**조율할 에이전트.** Paperclip은 AI 모델을 실행하지 않습니다. Claude Code, Codex, Cursor, Gemini CLI, OpenClaw 같은 다른 프로그램으로 동작하는 에이전트를 조율합니다.",
           "**Postgres.** Paperclip이 에이전트, 작업, 기록을 저장하는 데이터베이스입니다. 로컬 설치에서는 내장되어 있고 저절로 시작됩니다. 운영 환경에서는 프로젝트 자체가 별도의 Postgres를 지정하라고 권합니다. 관리형에는 데이터베이스가 포함됩니다. VPS에서는 데이터베이스를 직접 관리합니다.",
-          "**자신의 AI 키.** API 키는 프로그램이 제공업체(Anthropic의 Claude, OpenAI 등)에 응답을 요청할 때 쓰는 비밀번호입니다. 제공업체는 사용한 만큼 사용자에게 직접 청구합니다. Paperclip 관리형 페이지에는 '자신의 에이전트와 API 키'를 연결한다고 적혀 있으며, AI 크레딧이 포함된다는 말은 없습니다. 키가 없으면 팀은 응답하지 않습니다.",
+          "**자신의 AI 키.** API 키는 프로그램이 제공업체(Anthropic의 Claude, OpenAI 등)에 응답을 요청할 때 쓰는 비밀번호입니다. 제공업체는 사용한 만큼 사용자에게 직접 청구합니다. 관리형에서는 Hostinger가 OpenAI, Anthropic, Gemini, Cursor 중 하나의 API 키 또는 활성 ChatGPT 구독을 요구하며, AI 크레딧이 포함된다는 말은 없습니다. 이런 연결이 없으면 팀은 응답하지 않습니다.",
           "**에이전트별 월 예산.** 팀을 켜기 전에 한도를 정하세요. 매일 일하는 에이전트 다섯 개는 가끔 대화하는 어시스턴트 하나보다 훨씬 많은 비용이 들 수 있습니다. 한도가 없으면 비용은 월말에 제공업체가 청구하는 금액 그대로입니다.",
           "**VPS라면 서버 지식.** VPS에서는 Docker(앱을 컨테이너에 격리해 실행하는 프로그램)가 무엇인지 알아야 하고, 시스템 업데이트와 보안을 직접 맡는 것을 받아들여야 합니다. 그것이 부담스럽다면 관리형이 해결해 줍니다."
         ],
@@ -117298,14 +117409,14 @@ export const reviewsData: unknown[] = [
             [
               "환불",
               "30일",
-              "마지막 VPS 환불 요청이 180일보다 오래된 경우에만 30일"
+              "마지막 VPS 환불 완료일로부터 180일이 지난 경우에만 30일"
             ]
           ]
         },
         "postParagraphs": [
           "**관리형이 맞는 경우는** 아무것도 설치하지 않고 Paperclip을 쓰고 싶고, root도 Docker도 모르며, 데이터베이스와 업데이트와 백업을 Hostinger가 맡아 주기를 바랄 때입니다.",
           "**VPS가 맞는 경우는** 같은 서버에서 사이트나 n8n(자동화 도구) 같은 다른 프로그램도 돌리고 싶고, 서버를 다룰 줄 알거나 배우고 싶으며, 데이터베이스와 설정을 직접 통제하고 싶을 때입니다.",
-          "환불에 관해, VPS의 180일 규칙은 회사 정책을 읽은 [Hostinger 신뢰성 글](/ko/reviews/hostinger-trust-guide-ko)과 같습니다. 최근 6개월 안에 VPS 환불을 요청했다면 새 구매에는 30일 보장이 없습니다."
+          "환불에 관해, VPS의 180일 규칙은 회사 정책을 읽은 [Hostinger 신뢰성 글](/ko/reviews/hostinger-trust-guide-ko)과 같습니다. 180일은 마지막 VPS 환불이 완료된 날부터 셉니다. 최근 180일 안에 VPS 환불을 받았다면 새 VPS에는 30일 보장이 없습니다."
         ]
       },
       {
@@ -117324,7 +117435,7 @@ export const reviewsData: unknown[] = [
         "heading": "시작하는 순서",
         "bullets": [
           "**컴퓨터에서 실행하기.** 공식 README는 Node.js 24.11 이상을 요구합니다. 터미널에서 node -v 명령으로 버전을 확인한 다음 npx paperclipai@latest onboard --yes를 실행하세요. 화면은 http://localhost:3100에서 열리고 Postgres 데이터베이스는 저절로 만들어집니다. 서버 비용은 없지만 Paperclip은 컴퓨터가 켜져 있는 동안에만 작동합니다. Claude나 Codex를 구독 중이라면 README에서 API 키 없이 구독으로 로그인하는 방법도 지원하며, 이때는 Python 3와 제공업체의 프로그램이 설치되어 있어야 합니다.",
-          "**관리형 가입하기.** 'AI 자동화 앱' 플랜의 24개월을 선택하고 장바구니에 코드 SONAR20을 넣어 가입하세요. 가입 후 Hostinger가 인스턴스와 데이터베이스를 준비합니다. 패널에 들어가 에이전트를 연결하고 자신의 AI 키를 붙여 넣으면 됩니다.",
+          "**관리형 가입하기.** 'AI 자동화 앱' 플랜의 24개월을 선택하고 장바구니에 코드 SONAR20을 넣어 가입하세요. 가입 후 Hostinger가 인스턴스와 데이터베이스를 준비합니다. 패널에 들어가 에이전트를 연결하고 AI 키를 붙여 넣으면 됩니다(ChatGPT 구독으로도 연결할 수 있습니다).",
           "**또는 Docker가 있는 VPS 가입하기.** KVM 플랜(가장 저렴한 것은 KVM 1)을 고르고 앱 목록에서 Paperclip을 선택하면 Hostinger가 클릭 한 번으로 설치합니다. 패널의 Docker Manager에서 Paperclip을 열고 키를 넣고 버튼으로 버전을 업데이트합니다. 서버 보안, 비밀번호, 시스템 업데이트는 계속 직접 맡아야 합니다."
         ]
       },
@@ -117339,7 +117450,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Paperclip은 무료인가요? 프로그램은 MIT 라이선스의 오픈 소스이며, Hostinger에 돈을 내지 않고 컴퓨터에 설치할 수 있습니다. AI 모델 사용료는 제공업체가 청구하고, 관리형과 VPS는 유료 플랜입니다.",
           "Paperclip은 믿을 만한가요? 결론을 내릴 수는 없습니다. 확인할 수 있는 것은 코드가 공개되어 있다는 점, 저장소가 Paperclip 팀(저작권 표기로는 Paperclip Labs, Inc.)을 책임자로 밝힌다는 점, 보안 결함은 GitHub의 공식 창구로 신고된다는 점입니다. 살펴본 자료에서 독립적인 감사는 찾지 못했습니다.",
-          "API 키가 필요한가요? 네. 관리형과 VPS 모두 Paperclip 페이지는 자신의 키를 가져오라고 안내합니다. 컴퓨터에서는 README에 따라 Claude나 Codex 구독으로도 API 키 없이 쓸 수 있습니다.",
+          "API 키가 필요한가요? 대부분의 경우 필요합니다. 관리형에서는 OpenAI, Anthropic, Gemini, Cursor 중 하나의 API 키 또는 활성 ChatGPT 구독을 쓸 수 있습니다. VPS에서는 페이지가 자신의 키를 가져오라고 안내합니다. 컴퓨터에서는 README에 따라 Claude나 Codex 구독으로도 API 키 없이 쓸 수 있습니다.",
           "Ollama와 함께 작동하나요? 연결하는 에이전트에 따라 다릅니다. Paperclip의 README에는 AI 모델을 컴퓨터에서 직접 실행하는 프로그램인 Ollama가 언급되어 있지 않습니다. 예를 들어 OpenClaw는 로컬 모델을 문서화하고 있지만, Paperclip에서 모델은 연결한 에이전트 쪽에 있습니다.",
           "Hostinger에서 Paperclip에 쓸 쿠폰이 있나요? 있습니다. 장바구니의 쿠폰 입력란에 코드 SONAR20을 넣으면 첫 번째 기간 20% 할인이 적용됩니다. 20% 할인은 모든 신규 구매에 적용되며, 갱신은 할인 없이 정가로 청구됩니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
@@ -117422,6 +117533,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI 是什么、由谁维护、哪些事实可以核实，以及如何在 Hostinger 上运行（托管版或 VPS）。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -117449,7 +117561,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**组织架构图：** 谁向谁汇报的结构。市场智能体向负责战略的智能体汇报，依此类推。",
           "**心跳（Heartbeats）：** 名字来自“心跳”。智能体不会一直运行，只有收到任务、跟进消息或定时安排时才会“醒来”，查看要做什么并执行，然后重新休眠。",
-          "**每个智能体的预算：** 可以为每个智能体、每个项目和整个公司分别设定支出上限。达到上限后，工作会暂停。这一点很重要，因为每次 AI 回复都要花钱，费用由模型提供商收取。",
+          "**每个智能体的预算：** 可以为每个智能体、每个项目和整个公司分别设定支出上限。开启自动停止（hard-stop，默认开启）后，达到上限时该智能体、项目或公司的工作会暂停；在此之前只会发出提醒。上限并不保证提供商最终收取的金额。这一点很重要，因为每次 AI 回复都要花钱，费用由模型提供商收取。",
           "**审批：** 可以要求工作在推进之前先经过审核，批准新智能体的“招聘”，或叫停并重新分配某项任务。",
           "**审计：** 操作、状态变更、费用、审批和评论都会被记录。事后可以查看发生了什么、为什么发生。"
         ],
@@ -117477,7 +117589,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**要协调的智能体。** Paperclip 不运行 AI 模型：它协调通过其他程序运行的智能体，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
           "**Postgres。** Paperclip 用它保存智能体、任务和记录的数据库。本地安装时它是内置的，会自动启动。生产环境中，项目本身建议指向您自己的 Postgres。托管版包含数据库。VPS 上，数据库由您自己负责。",
-          "**您自己的 AI 密钥。** API 密钥是程序向提供商（如 Anthropic 的 Claude、OpenAI 等）请求回复时使用的密码。提供商按用量直接向您收费。Paperclip 托管版的页面写的是连接“您自己的智能体和 API 密钥”，并没有列出附带的 AI 额度。没有密钥，团队就不会回应。",
+          "**您自己的 AI 密钥。** API 密钥是程序向提供商（如 Anthropic 的 Claude、OpenAI 等）请求回复时使用的密码。提供商按用量直接向您收费。托管版需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅，Hostinger 并没有列出附带的 AI 额度。没有这类连接，团队就不会回应。",
           "**每个智能体的月度预算。** 启动团队之前先定好上限。每天都在干活的五个智能体，花费可能远高于偶尔聊几句的助手。没有上限的话，花费就是月底提供商开出的账单。",
           "**如果用 VPS，需要懂服务器。** 用 VPS 时，您得知道什么是 Docker（一种让每个应用在独立容器中运行的程序），并接受自己更新和保护系统。如果这不适合您，托管版可以解决。"
         ],
@@ -117525,14 +117637,14 @@ export const reviewsData: unknown[] = [
             [
               "退款",
               "30 天",
-              "仅当上一次 VPS 退款申请在 180 天以前时，才有 30 天"
+              "仅当上一次 VPS 退款完成已超过 180 天时，才有 30 天"
             ]
           ]
         },
         "postParagraphs": [
           "**托管版适合您，如果** 您想不安装任何东西就让 Paperclip 跑起来，不知道什么是 root 和 Docker，并且希望由 Hostinger 负责数据库、更新和备份。",
           "**VPS 适合您，如果** 您想在同一台服务器上运行其他程序，比如网站或 n8n（自动化工具），会操作服务器或想学，并且希望数据库和配置都在自己掌控之中。",
-          "关于退款，VPS 的 180 天规则与[关于 Hostinger 是否可靠的文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)相同，那篇文章解读了该公司的政策。如果您在最近六个月内申请过 VPS 退款，新的购买就没有 30 天保障。"
+          "关于退款，VPS 的 180 天规则与[关于 Hostinger 是否可靠的文章](/zh-hans/reviews/hostinger-trust-guide-zh-hans)相同，那篇文章解读了该公司的政策。180 天从上一次 VPS 退款完成之日算起：如果您在最近 180 天内收到过 VPS 退款，新的 VPS 就没有 30 天保障。"
         ]
       },
       {
@@ -117551,7 +117663,7 @@ export const reviewsData: unknown[] = [
         "heading": "按顺序开始",
         "bullets": [
           "**在自己的电脑上运行。** 官方 README 要求 Node.js 24.11 或更新版本。在终端中用 node -v 命令确认版本，然后运行 npx paperclipai@latest onboard --yes。界面会在 http://localhost:3100 打开，Postgres 数据库会自动创建。没有服务器费用，但 Paperclip 只在电脑开机时运行。如果您订阅了 Claude 或 Codex，README 也支持用订阅登录而无需 API 密钥，前提是装有 Python 3 和提供商的程序。",
-          "**购买托管版。** 选择“AI 自动化应用”套餐的 24 个月，并在购物车里填入代码 SONAR20。订阅之后，Hostinger 会准备好实例和数据库。您进入面板，连接自己的智能体，再粘贴您自己的 AI 密钥。",
+          "**购买托管版。** 选择“AI 自动化应用”套餐的 24 个月，并在购物车里填入代码 SONAR20。订阅之后，Hostinger 会准备好实例和数据库。您进入面板，连接自己的智能体，再粘贴 AI 密钥（也可以使用 ChatGPT 订阅）。",
           "**或者购买带 Docker 的 VPS。** 选择 KVM 套餐（KVM 1 最便宜），并在应用列表中选择 Paperclip，Hostinger 会一键安装。通过面板里的 Docker Manager，您可以打开 Paperclip、填入密钥，并用一个按钮更新版本。服务器的安全、密码和系统更新仍由您负责。"
         ]
       },
@@ -117566,7 +117678,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Paperclip 免费吗？ 这个程序是开源的，采用 MIT 许可证，可以装在自己的电脑上而无需向 Hostinger 付费。AI 模型的使用费由提供商收取，托管版和 VPS 是付费套餐。",
           "Paperclip 可靠吗？ 无法下结论。可以核实的是：代码是公开的，仓库指明 Paperclip 团队（版权声明中为 Paperclip Labs, Inc.）为负责方，安全漏洞通过 GitHub 上的官方渠道报告。在所查阅的资料中，我们没有找到独立审计。",
-          "需要 API 密钥吗？ 需要。无论托管版还是 VPS，Paperclip 的页面都要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
+          "需要 API 密钥吗？ 大多数情况下需要。托管版可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 密钥，或有效的 ChatGPT 订阅；VPS 则要求您自带密钥。在电脑上运行时，README 也支持 Claude 或 Codex 的订阅，无需 API 密钥。",
           "能搭配 Ollama 使用吗？ 取决于您连接的智能体。Paperclip 的 README 没有提到 Ollama，这是一个在自己电脑上运行 AI 模型的程序。例如 OpenClaw 记录了本地模型的用法；而在 Paperclip 中，模型取决于您连接的智能体。",
           "Hostinger 上有适用于 Paperclip 的优惠码吗？ 有：在购物车的优惠码栏输入代码 SONAR20，首个周期可减 20%。这 20% 适用于所有新购；续费按标价收费，没有折扣。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
@@ -117648,6 +117760,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI 是什麼、由誰維護、哪些事實可以查證，以及如何在 Hostinger 上執行（代管方案或 VPS）。",
     "publishedAt": "2026年10月21日",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -117675,7 +117788,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**組織架構圖：** 誰向誰回報的結構。行銷代理向負責策略的代理回報，依此類推。",
           "**心跳（Heartbeats）：** 名稱來自「心跳」。代理不會一直運作，只有收到任務、追蹤訊息或排程時才會「醒來」，查看要做什麼並執行，然後再度休眠。",
-          "**每個代理的預算：** 可以為每個代理、每個專案和整間公司分別設定支出上限。達到上限後，工作會暫停。這一點很重要，因為每次 AI 回覆都要花錢，費用由模型供應商收取。",
+          "**每個代理的預算：** 可以為每個代理、每個專案和整間公司分別設定支出上限。開啟自動停止（hard-stop，預設開啟）後，達到上限時該代理、專案或公司的工作會暫停；在此之前只會發出提醒。上限並不保證供應商最終收取的金額。這一點很重要，因為每次 AI 回覆都要花錢，費用由模型供應商收取。",
           "**核准：** 可以要求工作在推進之前先經過審核，核准新代理的「招聘」，或喊停並重新分配某項任務。",
           "**稽核：** 操作、狀態變更、費用、核准和留言都會被記錄。事後可以查看發生了什麼、為什麼發生。"
         ],
@@ -117703,7 +117816,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**要協調的代理。** Paperclip 不執行 AI 模型：它協調透過其他程式運作的代理，例如 Claude Code、Codex、Cursor、Gemini CLI 和 OpenClaw。",
           "**Postgres。** Paperclip 用它保存代理、任務和紀錄的資料庫。本機安裝時它是內建的，會自動啟動。正式環境中，專案本身建議指向您自己的 Postgres。代管方案包含資料庫。VPS 上，資料庫由您自己負責。",
-          "**您自己的 AI 金鑰。** API 金鑰是程式向供應商（如 Anthropic 的 Claude、OpenAI 等）要求回覆時使用的密碼。供應商依用量直接向您收費。Paperclip 代管方案的頁面寫的是連接「您自己的代理和 API 金鑰」，並沒有列出附帶的 AI 額度。沒有金鑰，團隊就不會回應。",
+          "**您自己的 AI 金鑰。** API 金鑰是程式向供應商（如 Anthropic 的 Claude、OpenAI 等）要求回覆時使用的密碼。供應商依用量直接向您收費。代管方案需要 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱，Hostinger 並沒有列出附帶的 AI 額度。沒有這類連接，團隊就不會回應。",
           "**每個代理的月預算。** 啟動團隊之前先訂好上限。每天都在做事的五個代理，花費可能遠高於偶爾聊幾句的助理。沒有上限的話，花費就是月底供應商開出的帳單。",
           "**如果用 VPS，需要懂伺服器。** 用 VPS 時，您得知道什麼是 Docker（一種讓每個應用程式在獨立容器中執行的程式），並接受自己更新和保護系統。如果這不適合您，代管方案可以解決。"
         ],
@@ -117751,14 +117864,14 @@ export const reviewsData: unknown[] = [
             [
               "退款",
               "30 天",
-              "僅當上一次 VPS 退款申請在 180 天以前時，才有 30 天"
+              "僅當上一次 VPS 退款完成已超過 180 天時，才有 30 天"
             ]
           ]
         },
         "postParagraphs": [
           "**代管方案適合您，如果** 您想不安裝任何東西就讓 Paperclip 跑起來，不知道什麼是 root 和 Docker，並且希望由 Hostinger 負責資料庫、更新和備份。",
           "**VPS 適合您，如果** 您想在同一台伺服器上執行其他程式，例如網站或 n8n（自動化工具），會操作伺服器或想學，並且希望資料庫和設定都在自己掌控之中。",
-          "關於退款，VPS 的 180 天規則與[關於 Hostinger 是否可靠的文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)相同，那篇文章解讀了該公司的政策。如果您在最近六個月內申請過 VPS 退款，新的購買就沒有 30 天保障。"
+          "關於退款，VPS 的 180 天規則與[關於 Hostinger 是否可靠的文章](/zh-hant/reviews/hostinger-trust-guide-zh-hant)相同，那篇文章解讀了該公司的政策。180 天從上一次 VPS 退款完成之日算起：如果您在最近 180 天內收到過 VPS 退款，新的 VPS 就沒有 30 天保障。"
         ]
       },
       {
@@ -117777,7 +117890,7 @@ export const reviewsData: unknown[] = [
         "heading": "依序開始",
         "bullets": [
           "**在自己的電腦上執行。** 官方 README 要求 Node.js 24.11 或更新版本。在終端機中用 node -v 指令確認版本，然後執行 npx paperclipai@latest onboard --yes。介面會在 http://localhost:3100 開啟，Postgres 資料庫會自動建立。沒有伺服器費用，但 Paperclip 只在電腦開機時執行。如果您訂閱了 Claude 或 Codex，README 也支援用訂閱登入而不需要 API 金鑰，前提是裝有 Python 3 和供應商的程式。",
-          "**購買代管方案。** 選擇「AI 自動化應用」方案的 24 個月，並在購物車裡填入代碼 SONAR20。訂閱之後，Hostinger 會準備好實例和資料庫。您進入面板，連接自己的代理，再貼上您自己的 AI 金鑰。",
+          "**購買代管方案。** 選擇「AI 自動化應用」方案的 24 個月，並在購物車裡填入代碼 SONAR20。訂閱之後，Hostinger 會準備好實例和資料庫。您進入面板，連接自己的代理，再貼上 AI 金鑰（也可以使用 ChatGPT 訂閱）。",
           "**或者購買附 Docker 的 VPS。** 選擇 KVM 方案（KVM 1 最便宜），並在應用程式清單中選擇 Paperclip，Hostinger 會一鍵安裝。透過面板裡的 Docker Manager，您可以開啟 Paperclip、填入金鑰，並用一個按鈕更新版本。伺服器的安全、密碼和系統更新仍由您負責。"
         ]
       },
@@ -117792,7 +117905,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Paperclip 免費嗎？ 這個程式是開源的，採用 MIT 授權，可以裝在自己的電腦上而不需向 Hostinger 付費。AI 模型的使用費由供應商收取，代管方案和 VPS 是付費方案。",
           "Paperclip 可靠嗎？ 無法下定論。可以查證的是：程式碼是公開的，儲存庫指明 Paperclip 團隊（著作權聲明中為 Paperclip Labs, Inc.）為負責方，安全漏洞透過 GitHub 上的官方管道回報。在所查閱的資料中，我們沒有找到獨立稽核。",
-          "需要 API 金鑰嗎？ 需要。無論代管方案還是 VPS，Paperclip 的頁面都要求您自備金鑰。在電腦上執行時，README 也支援 Claude 或 Codex 的訂閱，不需要 API 金鑰。",
+          "需要 API 金鑰嗎？ 大多數情況下需要。代管方案可以使用 OpenAI、Anthropic、Gemini 或 Cursor 的 API 金鑰，或有效的 ChatGPT 訂閱；VPS 則要求您自備金鑰。在電腦上執行時，README 也支援 Claude 或 Codex 的訂閱，不需要 API 金鑰。",
           "能搭配 Ollama 使用嗎？ 取決於您連接的代理。Paperclip 的 README 沒有提到 Ollama，這是一個在自己電腦上執行 AI 模型的程式。例如 OpenClaw 記錄了本機模型的用法；而在 Paperclip 中，模型取決於您連接的代理。",
           "Hostinger 上有適用於 Paperclip 的優惠碼嗎？ 有：在購物車的優惠碼欄輸入代碼 SONAR20，首個週期可減 20%。SONAR20 的 20% 折扣適用於每一筆新購買；續約按定價計算，沒有折扣。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
@@ -117874,6 +117987,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip na Hostinger, com o cupom SONAR20 de 20% OFF: o que é, quem mantém e se vale o gerenciado ou o VPS.",
     "publishedAt": "21 de outubro de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/paperclip-ai-hostinger-capa-discover.webp",
@@ -117900,7 +118014,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Organograma:** a estrutura de quem reporta a quem. Um agente de marketing responde a quem cuida da estratégia, e assim por diante.",
           "**Heartbeats:** o nome vem de “batimento”. Um agente não fica rodando o tempo todo. Ele “acorda” quando recebe trabalho, uma mensagem de acompanhamento ou um agendamento, verifica o que tem para fazer e age. Depois volta a dormir.",
-          "**Orçamento por agente:** você define um teto de gasto para cada agente, para cada projeto e para a empresa. Ao chegar no limite, o trabalho é pausado. Isso importa porque cada resposta de IA custa dinheiro, cobrado pelo provedor do modelo.",
+          "**Orçamento por agente:** você define um teto de gasto para cada agente, para cada projeto e para a empresa. Com a parada automática (hard-stop) ativada, que é o padrão, o trabalho do agente, do projeto ou da empresa é pausado ao chegar no limite; antes disso, o aviso só alerta. O teto não garante o valor final cobrado pelo provedor. Isso importa porque cada resposta de IA custa dinheiro, cobrado pelo provedor do modelo.",
           "**Aprovação:** você pode exigir revisão antes de um trabalho seguir, aprovar a contratação de um novo agente ou parar e reatribuir uma tarefa.",
           "**Auditoria:** ações, mudanças de estado, custos, aprovações e comentários ficam registrados. Dá para ver depois o que aconteceu e por quê."
         ],
@@ -117928,7 +118042,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agentes para coordenar.** O Paperclip não roda modelo de IA: ele coordena agentes que funcionam por outros programas, como Claude Code, Codex, Cursor, Gemini CLI e OpenClaw.",
           "**Postgres.** É o banco de dados onde o Paperclip guarda agentes, tarefas e registros. Na instalação local, ele vem embutido e sobe sozinho. Em produção, o próprio projeto recomenda apontar para um Postgres seu. No gerenciado, o banco vem incluído. No VPS, o banco fica com você.",
-          "**Chaves de IA suas.** Chave de API é a senha que o programa usa para pedir respostas a um provedor, como Anthropic (Claude), OpenAI ou outro. O provedor cobra pelo uso, direto de você. A página do Paperclip gerenciado diz que você conecta “seus próprios agentes e chaves de API”, e não lista créditos de IA incluídos. Sem chave, a equipe não responde.",
+          "**Chaves de IA suas.** Chave de API é a senha que o programa usa para pedir respostas a um provedor, como Anthropic (Claude), OpenAI ou outro. O provedor cobra pelo uso, direto de você. No gerenciado, a Hostinger pede a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT, e não lista créditos de IA incluídos. Sem uma dessas conexões, a equipe não responde.",
           "**Orçamento mensal por agente.** Defina o teto antes de ligar a equipe. Cinco agentes com tarefas diárias podem gastar bem mais do que um assistente que você conversa de vez em quando. Sem teto, o gasto é só o que o provedor cobrar no fim do mês.",
           "**Conhecimento de servidor, se for VPS.** Na VPS, você precisa saber o que é Docker, um programa que roda cada aplicativo isolado num contêiner, e aceitar atualizar e proteger o sistema. Se isso não é para você, o gerenciado resolve."
         ],
@@ -117976,14 +118090,14 @@ export const reviewsData: unknown[] = [
             [
               "Reembolso",
               "30 dias",
-              "30 dias só se o último reembolso de VPS tiver sido pedido há mais de 180 dias"
+              "30 dias só se o último reembolso de VPS tiver sido concluído há mais de 180 dias"
             ]
           ]
         },
         "postParagraphs": [
           "**O gerenciado serve para você se** quer o Paperclip funcionando sem instalar nada, não sabe o que é root nem Docker, e prefere que a Hostinger cuide do banco, das atualizações e dos backups.",
           "**O VPS serve para você se** quer rodar outros programas no mesmo servidor, como um site ou um n8n (ferramenta de automação), sabe mexer num servidor ou quer aprender, e quer ter o banco e a configuração sob seu controle.",
-          "Sobre o reembolso, a regra dos 180 dias para VPS é a mesma do [artigo sobre a confiança na Hostinger](/reviews/hostinger-e-confiavel), que lê a política da empresa. Se você pediu um reembolso de VPS nos últimos seis meses, a compra nova não tem a garantia de 30 dias."
+          "Sobre o reembolso, a regra dos 180 dias para VPS é a mesma do [artigo sobre a confiança na Hostinger](/reviews/hostinger-e-confiavel), que lê a política da empresa. Os 180 dias contam da conclusão do último reembolso de VPS: se você recebeu um nos últimos 180 dias, o novo VPS não tem a garantia de 30 dias."
         ]
       },
       {
@@ -118046,7 +118160,7 @@ export const reviewsData: unknown[] = [
         "heading": "Como começar, em ordem",
         "bullets": [
           "**Rodar no seu computador.** O README oficial pede Node.js 24.11 ou mais novo. Confira a versão com o comando node -v no terminal e depois rode npx paperclipai@latest onboard --yes. A interface abre em http://localhost:3100, e o banco Postgres é criado sozinho. Não há custo de servidor, mas o Paperclip só roda enquanto o computador estiver ligado. Se você assina o Claude ou o Codex, o README também aceita entrar pela assinatura, sem chave de API, com o Python 3 e o programa do provedor instalados.",
-          "**Contratar o gerenciado.** Assine o plano “Apps de automação com IA” com 24 meses, com o código SONAR20 no carrinho. Depois da assinatura, a Hostinger prepara a instância e o banco. Você entra no painel, conecta seus agentes e cola as suas chaves de IA.",
+          "**Contratar o gerenciado.** Assine o plano “Apps de automação com IA” com 24 meses, com o código SONAR20 no carrinho. Depois da assinatura, a Hostinger prepara a instância e o banco. Você entra no painel, conecta seus agentes e cola a chave de IA (ou usa a assinatura do ChatGPT).",
           "**Ou contratar um VPS com Docker.** Escolha um plano KVM (o KVM 1 é o mais barato) e, na lista de aplicativos, o Paperclip, que a Hostinger instala com um clique. Pelo Gerenciador Docker do painel você abre o Paperclip, coloca as chaves e atualiza a versão com um botão. A segurança do servidor, as senhas e as atualizações do sistema continuam sendo suas."
         ]
       },
@@ -118061,7 +118175,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Paperclip é grátis? O programa é de código aberto, com licença MIT, e dá para instalar no seu computador sem pagar a Hostinger. O uso dos modelos de IA é cobrado pelo provedor, e o gerenciado e o VPS são planos pagos.",
           "Paperclip é confiável? Não dá para dar um veredito. Dá para conferir que o código é público, que o repositório indica a equipe Paperclip (Paperclip Labs, Inc. no aviso de copyright) como responsável, e que as falhas de segurança são reportadas por um canal oficial no GitHub. Não encontramos auditoria independente nas fontes lidas.",
-          "Precisa de chave de API? Sim. No gerenciado e no VPS, a página do Paperclip pede que você traga as suas. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
+          "Precisa de chave de API? Na maioria dos casos, sim. No gerenciado, a Hostinger aceita a chave de API da OpenAI, da Anthropic, do Gemini ou do Cursor, ou uma assinatura ativa do ChatGPT. No VPS, a página pede que você traga as suas chaves. No computador, o README também aceita a assinatura de Claude ou de Codex, sem chave de API.",
           "Roda com Ollama? Depende do agente que você conecta. O README do Paperclip não cita o Ollama, um programa para rodar modelo de IA no próprio computador. O OpenClaw, por exemplo, documenta modelos locais; no Paperclip, o modelo fica com o agente que você conecta.",
           "Tem cupom para o Paperclip na Hostinger? Tem: o código SONAR20, no campo de cupom do carrinho, dá 20% no primeiro período. Os 20% valem em toda compra nova; a renovação sai pelo preço de tabela, sem desconto.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
@@ -118143,6 +118257,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Paperclip AI: qué es, quién lo mantiene, qué se puede comprobar y cómo ejecutarlo en Hostinger, gestionado o VPS.",
     "publishedAt": "21 de octubre de 2026",
     "publishedAtISO": "2026-10-21",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -118170,7 +118285,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Organigrama:** la estructura de quién responde a quién. Un agente de marketing responde a quien se ocupa de la estrategia, y así sucesivamente.",
           "**Heartbeats:** el nombre viene de “latido”. Un agente no está funcionando todo el tiempo. “Despierta” cuando recibe trabajo, un mensaje de seguimiento o una programación, verifica qué tiene que hacer y actúa. Después vuelve a dormir.",
-          "**Presupuesto por agente:** defines un tope de gasto para cada agente, para cada proyecto y para la empresa. Al llegar al límite, el trabajo se pausa. Esto importa porque cada respuesta de IA cuesta dinero, que cobra el proveedor del modelo.",
+          "**Presupuesto por agente:** defines un tope de gasto para cada agente, para cada proyecto y para la empresa. Con la parada automática (hard-stop) activada, que es la opción predeterminada, el trabajo del agente, del proyecto o de la empresa se pausa al llegar al límite; antes de eso, el aviso solo alerta. El tope no garantiza el importe final que cobra el proveedor. Esto importa porque cada respuesta de IA cuesta dinero, que cobra el proveedor del modelo.",
           "**Aprobación:** puedes exigir una revisión antes de que un trabajo siga, aprobar la contratación de un nuevo agente o detener y reasignar una tarea.",
           "**Auditoría:** las acciones, los cambios de estado, los costos, las aprobaciones y los comentarios quedan registrados. Después se puede ver qué pasó y por qué."
         ],
@@ -118198,7 +118313,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Agentes para coordinar.** Paperclip no ejecuta un modelo de IA: coordina agentes que funcionan mediante otros programas, como Claude Code, Codex, Cursor, Gemini CLI y OpenClaw.",
           "**Postgres.** Es la base de datos donde Paperclip guarda agentes, tareas y registros. En la instalación local, viene integrada y arranca sola. En producción, el propio proyecto recomienda apuntar a un Postgres tuyo. En el gestionado, la base de datos viene incluida. En el VPS, la base de datos queda por tu cuenta.",
-          "**Claves de IA tuyas.** La clave de API es la contraseña que el programa usa para pedir respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. El proveedor cobra por el uso, directamente a ti. La página de Paperclip gestionado dice que conectas “tus propios agentes y claves de API”, y no lista créditos de IA incluidos. Sin clave, el equipo no responde.",
+          "**Claves de IA tuyas.** La clave de API es la contraseña que el programa usa para pedir respuestas a un proveedor, como Anthropic (Claude), OpenAI u otro. El proveedor cobra por el uso, directamente a ti. En el gestionado, Hostinger pide una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT, y no lista créditos de IA incluidos. Sin una de esas conexiones, el equipo no responde.",
           "**Presupuesto mensual por agente.** Define el tope antes de encender el equipo. Cinco agentes con tareas diarias pueden gastar mucho más que un asistente con el que conversas de vez en cuando. Sin tope, el gasto es lo que cobre el proveedor a fin de mes.",
           "**Conocimientos de servidor, si es VPS.** En el VPS, necesitas saber qué es Docker, un programa que ejecuta cada aplicación aislada en un contenedor, y aceptar actualizar y proteger el sistema. Si eso no es para ti, el gestionado lo resuelve."
         ],
@@ -118246,14 +118361,14 @@ export const reviewsData: unknown[] = [
             [
               "Reembolso",
               "30 días",
-              "30 días, solo si el último reembolso de VPS se pidió hace más de 180 días"
+              "30 días, solo si el último reembolso de VPS se completó hace más de 180 días"
             ]
           ]
         },
         "postParagraphs": [
           "**El gestionado es para ti si** quieres Paperclip funcionando sin instalar nada, no sabes qué es root ni Docker, y prefieres que Hostinger se ocupe de la base de datos, las actualizaciones y las copias de seguridad.",
           "**El VPS es para ti si** quieres ejecutar otros programas en el mismo servidor, como un sitio web o n8n (una herramienta de automatización), sabes manejar un servidor o quieres aprender, y quieres tener la base de datos y la configuración bajo tu control.",
-          "Sobre el reembolso, la regla de los 180 días para el VPS es la misma del [artículo sobre la confianza en Hostinger](/es/reviews/hostinger-es-confiable), que lee la política de la empresa. Si pediste un reembolso de VPS en los últimos seis meses, la compra nueva no tiene la garantía de 30 días."
+          "Sobre el reembolso, la regla de los 180 días para el VPS es la misma del [artículo sobre la confianza en Hostinger](/es/reviews/hostinger-es-confiable), que lee la política de la empresa. Los 180 días cuentan desde que se completó tu último reembolso de VPS: si recibiste uno en los últimos 180 días, el nuevo VPS no tiene la garantía de 30 días."
         ]
       },
       {
@@ -118272,7 +118387,7 @@ export const reviewsData: unknown[] = [
         "heading": "Cómo empezar, en orden",
         "bullets": [
           "**Ejecutarlo en tu computadora.** El README oficial pide Node.js 24.11 o más nuevo. Comprueba la versión con el comando node -v en la terminal y después ejecuta npx paperclipai@latest onboard --yes. La interfaz se abre en http://localhost:3100, y la base de datos Postgres se crea sola. No hay costo de servidor, pero Paperclip solo funciona mientras la computadora esté encendida. Si tienes una suscripción a Claude o a Codex, el README también acepta entrar con la suscripción, sin clave de API, con Python 3 y el programa del proveedor instalados.",
-          "**Contratar el gestionado.** Suscríbete al plan “Aplicaciones de automatización con IA” por 24 meses con el código SONAR20 en el carrito. Después de la suscripción, Hostinger prepara la instancia y la base de datos. Entras al panel, conectas tus agentes y pegas tus claves de IA.",
+          "**Contratar el gestionado.** Suscríbete al plan “Aplicaciones de automatización con IA” por 24 meses con el código SONAR20 en el carrito. Después de la suscripción, Hostinger prepara la instancia y la base de datos. Entras al panel, conectas tus agentes y pegas una clave de IA (o usas la suscripción de ChatGPT).",
           "**O contratar un VPS con Docker.** Elige un plan KVM (el KVM 1 es el más barato) y, en la lista de aplicaciones, Paperclip, que Hostinger instala con un clic. Desde el Docker Manager del panel abres Paperclip, pones las claves y actualizas la versión con un botón. La seguridad del servidor, las contraseñas y las actualizaciones del sistema siguen siendo tuyas."
         ]
       },
@@ -118287,7 +118402,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "¿Paperclip es gratis? El programa es de código abierto, con licencia MIT, y se puede instalar en tu computadora sin pagar a Hostinger. El uso de los modelos de IA lo cobra el proveedor, y el gestionado y el VPS son planes de pago.",
           "¿Paperclip es confiable? No se puede dar un veredicto. Se puede comprobar que el código es público, que el repositorio indica al equipo de Paperclip (Paperclip Labs, Inc. en el aviso de copyright) como responsable, y que las fallas de seguridad se reportan por un canal oficial en GitHub. No encontramos auditoría independiente en las fuentes leídas.",
-          "¿Necesita clave de API? Sí. En el gestionado y en el VPS, la página de Paperclip pide que traigas las tuyas. En la computadora, el README también acepta la suscripción de Claude o de Codex, sin clave de API.",
+          "¿Necesita clave de API? En la mayoría de los casos, sí. En el gestionado, Hostinger acepta una clave de API de OpenAI, Anthropic, Gemini o Cursor, o una suscripción activa de ChatGPT. En el VPS, la página pide que traigas tus claves. En la computadora, el README también acepta la suscripción de Claude o de Codex, sin clave de API.",
           "¿Funciona con Ollama? Depende del agente que conectes. El README de Paperclip no menciona Ollama, un programa para ejecutar un modelo de IA en la propia computadora. OpenClaw, por ejemplo, documenta modelos locales; en Paperclip, el modelo queda con el agente que conectes.",
           "¿Hay cupón para Paperclip en Hostinger? Sí: el código SONAR20, en el campo de cupón del carrito, da 20 % en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
@@ -123405,6 +123520,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Pré-treino Black Skull com o CECILIA10 e 10% OFF: BOPE ou Bone Crusher, com cafeína, beta-alanina e preço por dose comparados pelo rótulo.",
     "publishedAt": "23 de outubro de 2026",
     "publishedAtISO": "2026-10-23",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/pre-treino-black-skull-capa.webp",
@@ -123415,7 +123531,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida: BOPE ou Bone Crusher",
         "paragraphs": [
-          "Pelo rótulo, o BOPE ganha no preço por dose e o Bone Crusher ganha em beta-alanina, arginina e menos carboidrato. Nenhum dos pré-treinos da Black Skull é sem cafeína, e o Legacy é o que tem mais por dose. O que pesa é o preço por dose e o tamanho do pote; veja os números e o fechamento abaixo."
+          "Pelo rótulo, o BOPE ganha no preço por dose e o Bone Crusher ganha em beta-alanina, arginina e menos carboidrato. No catálogo de outubro, nenhum pré-treino da Black Skull era sem cafeína, e o Legacy é o que tem mais por dose. O que pesa é o preço por dose e o tamanho do pote."
         ]
       },
       {
@@ -123566,7 +123682,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pré-treino da Black Skull sem cafeína existe?",
         "paragraphs": [
-          "Não. A Black Skull não vendia nenhum pré-treino sem cafeína: a busca do site por \"sem cafeina\" volta \"não encontrado\", e os seis itens da categoria Pré-treino têm cafeína no rótulo. As buscas por \"caffeine free\" ou por um Bone Crusher sem cafeína não correspondem a produto à venda.",
+          "Não, no catálogo lido em outubro. A Black Skull não vendia nenhum pré-treino sem cafeína: a busca do site por \"sem cafeina\" volta \"não encontrado\", e os seis itens da categoria Pré-treino têm cafeína no rótulo. As buscas por \"caffeine free\" ou por um Bone Crusher sem cafeína não correspondem a produto à venda.",
           "Para conferir qualquer pré-treino, veja a tabela nutricional e a lista de ingredientes da página do produto. Nos da Black Skull, a cafeína aparece na lista como cafeína anidra ou apenas cafeína, e a quantidade por dose está na tabela."
         ]
       },
@@ -123603,7 +123719,7 @@ export const reviewsData: unknown[] = [
           "Menor preço por dose: BOPE. O BOPE 300 g sai a R$ 1,62 por dose (R$ 1,46 com o cupom), e o kit de três BOPE de 150 g, a R$ 1,42 (R$ 1,28 com o cupom).",
           "Mais beta-alanina, mais arginina e menos carboidrato: Bone Crusher. Pelo rótulo do 150 g, são 2 g de beta-alanina, 500 mg de arginina e 0,9 g de carboidrato por dose de 7,5 g, contra 750 mg, 150 mg e 2,2 a 2,3 g do BOPE.",
           "Mais cafeína por dose: Legacy, com 200 mg numa dose de 10 g. BOPE tem 135 mg e Bone Crusher 150 g, 140 mg, os dois em 7,5 g.",
-          "Sem cafeína: a Black Skull não tem pré-treino sem cafeína.",
+          "Sem cafeína: no catálogo de outubro, a Black Skull não tinha pré-treino sem cafeína.",
           "Cupom CECILIA10: 10% em todo o site da Black Skull, inclusive nos itens em promoção. As condições estão na [página do cupom da Black Skull](/cupons/black-skull)."
         ]
       },
@@ -123613,7 +123729,7 @@ export const reviewsData: unknown[] = [
           "BOPE ou Bone Crusher: qual é melhor? Pelo rótulo do 150 g e pelo preço, o BOPE custa menos por dose e o Bone Crusher traz mais beta-alanina, mais arginina e menos carboidrato. Qual pesa mais é uma conta sua.",
           "Bone Crusher é bom? O rótulo do 150 g declara 140 mg de cafeína, 2 g de beta-alanina e 3000 mg de creatina por dose de 7,5 g, com açúcar zero.",
           "BOPE da Black Skull é bom? Ninguém do site usou o produto. O rótulo declara 135 mg de cafeína, 750 mg de beta-alanina e 3000 mg de creatina por dose de 7,5 g, a R$ 1,62 por dose no pote de 300 g.",
-          "A Black Skull tem pré-treino sem cafeína? Não. Nenhum item da categoria Pré-treino era sem cafeína, e a busca do site por \"sem cafeina\" não achava produto.",
+          "A Black Skull tem pré-treino sem cafeína? No catálogo de outubro, não. Nenhum item da categoria Pré-treino era sem cafeína, e a busca do site por \"sem cafeina\" não achava produto.",
           "Qual pré-treino da Black Skull tem menos cafeína? Pelo rótulo, o BOPE, com 135 mg por dose de 7,5 g, contra 140 mg do Bone Crusher 150 g e 200 mg do Legacy, de 10 g.",
           "Quantas doses tem cada pote? O BOPE e o Bone Crusher têm 40 doses no pote de 300 g e 20 no de 150 g, e o Legacy de 300 g tem 30 doses.",
           "Qual o cupom da Black Skull? É o CECILIA10, de 10% em todo o site, inclusive em itens em promoção. Veja as condições na [página do cupom](/cupons/black-skull)."
@@ -123626,7 +123742,7 @@ export const reviewsData: unknown[] = [
         "Leve o Bone Crusher se você decide por mais beta-alanina e arginina, com menos carboidrato."
       ],
       "skipIf": [
-        "Passe nos dois se você procura pré-treino sem cafeína: a Black Skull não vende nenhum."
+        "Passe nos dois se você procura pré-treino sem cafeína: no catálogo de outubro, a Black Skull não tinha nenhum."
       ]
     },
     "pros": [],
@@ -124101,6 +124217,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Black Skull ou Dark Lab: creatina e whey por 100 g, com o cupom CECILIA10 de 10% OFF na Black Skull e o rótulo de cada marca.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-skull-ou-dark-lab-capa-discover.webp",
@@ -124263,7 +124380,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código e onde comprar",
         "paragraphs": [
-          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Um teste de checkout aplicou o cupom num kit de whey já em promoção e num whey a preço cheio, e os 10% valeram nos dois. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), com link comissionado."
+          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, e soma com as promoções. Um teste de checkout aplicou o cupom num kit de whey já em promoção e num whey a preço cheio, e os 10% valeram nos dois. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/); a comissão vem pelo código CECILIA10, sem custo extra para você."
         ]
       },
       {
@@ -124344,6 +124461,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom DREMCASACOMCECILIA dá 10% OFF no site da Dr. Peanut. Doctor Bar, alfajor ou Doctor Wafer: proteína, açúcar, calorias e preço por unidade.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/snacks-dr-peanut-qual-escolher-capa-discover.webp",
@@ -124605,7 +124723,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Qual escolher",
-        "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é a Doctor Bar, porque ela tem 21 g contra menos de 6 g dos outros dois.",
+        "emphasis": "Pelos números da tabela, para quem quer mais proteína por unidade a escolha é a Doctor Bar, porque ela tem 21 g contra até 6 g dos outros dois.",
         "emphasisAfterParagraph": 1,
         "paragraphs": [
           "Nenhum dos três ganha em tudo. A escolha depende do que pesa mais para você:"
@@ -124624,7 +124742,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Doctor Bar tem glúten? Tem. A página da Doctor Bar Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. O Speculoos não tem tabela publicada, e o aviso dele não foi conferido.",
+          "Doctor Bar tem glúten? A página da Doctor Bar Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Os outros sabores, o Speculoos inclusive, não têm aviso publicado na página: leia o da embalagem.",
           "Doctor Bar vende avulsa? Não. A loja vende só em display de 8 barras, por R$ 122,03, o que dá R$ 15,25 por barra na conta.",
           "Alfajor Dr. Peanut tem quantas calorias? Tem de 158 a 183 kcal por unidade de 35 g, conforme o sabor, na tabela publicada pela loja.",
           "Qual snack tem mais proteína? Por unidade, a Doctor Bar, com 21 g. O alfajor tem de 4 a 4,7 g, e o wafer, de 5 a 6 g."
@@ -125404,6 +125522,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Creatina com sabor: a Black Skull, com o cupom CECILIA10 de 10% OFF, comparada à Max Titanium e à Probiótica pelo rótulo e pelo preço por 100 g.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/creatina-com-sabor-qual-escolher-capa.webp",
@@ -125414,7 +125533,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda o peso da porção, o carboidrato e o preço por grama. Com sabor, a Black Skull de 300 g sai mais barata por grama e a Max 7Belo declara carboidrato zero. A conta de cada perfil está em \"Qual creatina com sabor escolher\"."
+          "Na mesma marca, a creatina por dose é igual com e sem sabor, pelo rótulo; muda o peso da porção, o carboidrato e o preço por grama. Com sabor, a Black Skull de 300 g sai mais barata por grama. A Max 7Belo declara carboidrato zero na tabela, que no rótulo pode ser quantidade não significativa, não ausência total."
         ]
       },
       {
@@ -125536,7 +125655,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Max Titanium: o sabor custa mais por grama",
         "paragraphs": [
-          "A Max Creatina 7Belo de 300 g veio só em framboesa na página lida. A lista traz creatina monohidratada, aromatizante, ácido málico, sucralose e corantes (vermelho allura AC, amaranto e azul brilhante FCF). A tabela diz porção de 6 g (um dosador e meio), com 5.000 mg de creatina e carboidrato zero em quantidade significativa. São 50 porções, e o pote sai a R$ 26,47 por 100 g de creatina.",
+          "A Max Creatina 7Belo de 300 g veio só em framboesa na página lida. A lista traz creatina monohidratada, aromatizante, ácido málico, sucralose e corantes (vermelho allura AC, amaranto e azul brilhante FCF). A tabela diz porção de 6 g (um dosador e meio), com 5.000 mg de creatina e carboidrato declarado como zero, o que no rótulo cobre também a quantidade não significativa. São 50 porções, e o pote sai a R$ 26,47 por 100 g de creatina.",
           "A página da 7Belo não traz modo de preparo nem marcação do dosador. A porção de 6 g vem só da tabela, e a página não explica o grama a mais em relação aos 5 g do pote sem sabor da mesma marca."
         ]
       },
@@ -125591,7 +125710,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Creatina com sabor tem o mesmo efeito? Pelo rótulo, a creatina por dose é a mesma com e sem sabor na mesma marca. Nenhuma ficha lida diz que o sabor muda o que a creatina faz, e este texto também não diz.",
-          "Creatina com sabor engorda? O rótulo mostra calorias e carboidrato por porção, e são esses números que servem para ler. A Turbo traz 20 kcal e 5 g de carboidrato por dose de 10 g. A Creatine de 300 g da Black Skull com sabor traz 2 kcal e 0,4 g por dose de 6 g. A Max 7Belo declara carboidrato zero. Quem tem meta de peso fala com um nutricionista.",
+          "Creatina com sabor engorda? O rótulo mostra calorias e carboidrato por porção, e são esses números que servem para ler. A Turbo traz 20 kcal e 5 g de carboidrato por dose de 10 g. A Creatine de 300 g da Black Skull com sabor traz 2 kcal e 0,4 g por dose de 6 g. A Max 7Belo declara carboidrato zero na tabela. Quem tem meta de peso fala com um nutricionista.",
           "Creatina com sabor é pura? \"Pura\" não é uma qualidade que as fichas comprovem. O que vale é a lista de ingredientes: a Turbo tem maltodextrina, e a 7Belo e a Creatine com sabor da Black Skull têm aromatizante, ácido málico, sucralose e corantes.",
           "A creatina com sabor tem Creapure? A Black Skull e a Max 7Belo não declaram o selo Creapure nas fichas lidas. A busca por \"creapure\" no site da Black Skull não traz nenhum produto. Quem precisa do selo confirma com a loja antes de comprar."
         ]
@@ -125599,7 +125718,7 @@ export const reviewsData: unknown[] = [
     ],
     "decision": {
       "takeIf": [
-        "Quem quer sabor com carboidrato zero declarado na tabela: a Max 7Belo, em framboesa.",
+        "Quem quer sabor e carboidrato zero na tabela: a Max 7Belo, em framboesa.",
         "Quem quer o carboidrato na dose: a Creatine Turbo da Black Skull."
       ],
       "skipIf": [
@@ -125651,6 +125770,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom CECILIA10 dá 10% OFF na Black Skull. Creatina e whey comparados com a Integralmédica pelo rótulo e pelo preço por 100 g de proteína.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-skull-ou-integralmedica-capa.webp",
@@ -125802,7 +125922,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Código e onde comprar",
         "paragraphs": [
-          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções vigentes. Este texto não traz cupom da Integralmédica. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/), com link comissionado."
+          "Código: CECILIA10, o cupom da Black Skull. Vale 10% em todo o site, em todas as formas de pagamento, para conta nova e antiga, e soma com as promoções vigentes. Este texto não traz cupom da Integralmédica. As regras ficam na [página do cupom](/cupons/black-skull). A loja oficial é a [Black Skull](https://www.blackskullusa.com.br/); a comissão vem pelo código CECILIA10, sem custo extra para você."
         ]
       },
       {
@@ -127043,6 +127163,7 @@ export const reviewsData: unknown[] = [
     "description": "Pote, refil, sachê e isolado da Mais Mu comparados pela contagem de doses da loja: preço por dose, preço por 100 g de proteína e cupom, com os preços de 25/10/2026.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/whey-mais-mu-qual-escolher-capa.webp",
@@ -127062,7 +127183,7 @@ export const reviewsData: unknown[] = [
           "A Mais Mu vende o whey concentrado em pote de 450 g, refil de 900 g e de 1,8 kg e caixa de 15 sachês, além do isolado e da proteína vegetal. A diferença entre eles está no preço por dose, nos sabores de cada formato e no que cabe na sua rotina.",
           "Lemos as 48 páginas de whey e de proteína vegetal da Mais Mu no site oficial. Tudo o que segue sai da loja: preço, estoque, formato, sabor, ingredientes e a contagem de doses que ela publica.",
           "A loja escreve “cerca de N doses” em 30 das 48 páginas, sempre na legenda da galeria. Gramas por dose aparecem pouco: no texto de cada sabor de sachê e numa tabela nutricional, a do Baunilha de 450 g, com porção de 36 g e cerca de 13 porções. Por isso as contas usam a contagem da loja, com a margem do “cerca de”. Onde a loja não publica a contagem, este texto não faz conta.",
-          "A proteína por dose também vem da loja: 20 g no concentrado e 22 g no isolado e no vegetal.",
+          "A proteína por dose também vem da loja: 20 g no concentrado (a tabela é a do Baunilha de 450 g; no sachê, só a do Chocolate com Coco) e 22 g no isolado e no vegetal.",
           "As contas são estas, com os preços de 25/10/2026:"
         ],
         "bullets": [
@@ -127505,6 +127626,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. Mukebar, Crush Bar, Chocowheyfer e Veggie Wafer: proteína, açúcar, calorias e preço por unidade.",
     "publishedAt": "25 de outubro de 2026",
     "publishedAtISO": "2026-10-25",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/mais-mu/barra-de-proteina-mais-mu-qual-escolher-capa.webp",
@@ -127780,7 +127902,7 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Chocowheyfer tem açúcar? Tem açúcar total baixo e zero adicionado em todas, pela tabela da loja; os gramas por sabor estão na tabela de calorias acima.",
-          "Mukebar tem glúten? Sim. A página da Mukebar Chocolate com Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Nos outros sabores, confira o aviso de alérgenos na página do produto.",
+          "Mukebar tem glúten? A página da Mukebar Chocolate com Avelã diz CONTÉM GLÚTEN e CONTÉM LACTOSE. Os outros sabores não têm aviso na página: confira o aviso de alérgenos na página e na embalagem de cada um.",
           "Qual barra tem mais proteína? Por unidade, a Mukebar 720 g, com 15 g em 60 g pela tabela do sabor Avelã. Em seguida vem a Chocowheyfer Max, com 12 g em 50 g.",
           "Tem barra vegana? A loja não vende barra vegana na listagem. O produto que ela chama de vegetal é o Veggie Wafer, e ele pode conter leite."
         ]
@@ -128233,6 +128355,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Le Creuset 20 ou 24 cm comparadas em litros, preço no cartão, preço por litro e cores na Let's Eat It, mais a caçarola buffet e os outros formatos, com dados de 26/10/2026.",
@@ -128406,11 +128529,11 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Pegue a panela que você mais usa no dia a dia. Encha de água até a borda com um copo medidor e anote os litros.",
           "Pense na receita mais cheia que você faz nela. Se ela chega perto da borda, ou você precisa mexer devagar para não derramar, a panela é pequena para o seu uso.",
-          "Compare o resultado com 2,4 L (20 cm) e com 4,2 L (24 cm). Até 2 L, a 20 cm resolve com folga. Acima disso, a 24 cm é o tamanho que cobre.",
+          "Compare o resultado com 2,4 L (20 cm) e com 4,2 L (24 cm). Até 2 L, a 20 cm resolve com folga. Acima disso, a 24 cm é o tamanho que cobre. Em fritura a conta muda: a Le Creuset limita o óleo a 1/3 da capacidade.",
           "Confira se a tampa fecha com folga. Receita que sobe, como arroz, sopa ou ensopado em fervura, precisa de espaço livre entre o líquido e a tampa."
         ],
         "postParagraphs": [
-          "Se a sua medida cair entre 2,4 e 4,2 L, a 20 cm fica apertada nas receitas cheias e a 24 cm sobra nas pequenas: entre as duas, a 24 cm é a que não limita a receita. Quem quer levar a panela do forno direto para a mesa como peça de servir não precisa dessa conta: o caminho é a caçarola buffet, tratada na próxima seção."
+          "Se a sua medida cair entre 2,4 e 4,2 L, a 20 cm fica apertada nas receitas cheias e a 24 cm sobra nas pequenas: entre as duas, a 24 cm é a que não limita a receita. A capacidade é a nominal, até a borda: numa 24 cm de 4,2 L, o óleo de fritura fica em cerca de 1,4 L. Quem quer levar a panela do forno direto para a mesa como peça de servir não precisa dessa conta: o caminho é a caçarola buffet, tratada na próxima seção."
         ]
       },
       {
@@ -128455,7 +128578,7 @@ export const reviewsData: unknown[] = [
           "A escolha mais segura parte do volume da receita que você mais faz."
         ],
         "bullets": [
-          "**Receita de até 2 L:** a 20 cm (2,4 L) leva com folga para a tampa fechar.",
+          "**Receita de até 2 L:** a 20 cm (2,4 L) leva com folga para a tampa fechar. Em fritura, o óleo vai só até 1/3 da capacidade.",
           "**Receita de 2 a 3,5 L:** a 24 cm (4,2 L). Na 20 cm, ela chega à borda ou não cabe.",
           "**Receita de 3,5 a 4,5 L:** a 26 cm, com 5,3 L. Acima disso, a tabela do início: 28 cm (6,7 L) ou 30 cm (8,4 L)."
         ],
@@ -128489,7 +128612,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Para receitas de 2 a 3,5 L: a 24 cm, que cobre a receita cheia e sai mais barata por litro.",
-        "Para receitas de até 2 L: a 20 cm, com folga para a tampa fechar.",
+        "Para receitas de até 2 L: a 20 cm, com folga para a tampa fechar. Em fritura, o óleo vai só até 1/3 da capacidade.",
         "Para levar a panela do forno direto à mesa: a caçarola buffet."
       ],
       "skipIf": [
@@ -128517,6 +128640,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "26 de outubro de 2026",
     "publishedAtISO": "2026-10-26",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "A Le Creuset Brasil não publica guia de número de série ou selo para conferir a peça. Veja o que dá para checar pelo canal e pela nota fiscal, e onde comprar original.",
@@ -128659,7 +128783,7 @@ export const reviewsData: unknown[] = [
         "heading": "Outlet e bazar: peça de segunda, com garantia",
         "paragraphs": [
           "Os dois outlets da lista ficam em Itupeva (SP) e em São Roque (SP). Nos outlets e no bazar anual, a marca diz que os produtos são \"seconds\", B-grade e cores ou modelos descontinuados. Eles podem ter pequenas variações, como pontinhos ou manchas no esmalte.",
-          "São lojas oficiais, então a peça é da marca. O que muda é a condição de venda: não há troca, troca por cor nem devolução depois da compra. A garantia continua valendo, porque a marca diz que os produtos comprados em outlet ou bazar têm cobertura. Olhe a peça com calma na loja, porque é ali que você decide."
+          "São lojas oficiais, então a peça é da marca. O que muda é a condição de venda: a marca informa que não há troca por cor nem devolução por desistência depois da compra. Peça com defeito de fabricação segue coberta pela garantia, porque a marca diz que os produtos comprados em outlet ou bazar têm cobertura. Olhe a peça com calma na loja, porque é ali que você decide."
         ]
       },
       {
@@ -128675,7 +128799,7 @@ export const reviewsData: unknown[] = [
           "Desconfie de oferta fora dos canais oficiais, como diz o alerta da marca.",
           "Guarde a nota fiscal: é o comprovante que a marca pede para analisar a garantia.",
           "Leia na página da peça o material, o país de origem e a garantia da linha, porque variam por produto.",
-          "Em outlet e bazar, lembre que não há troca nem devolução depois da venda."
+          "Em outlet e bazar, que são lojas físicas, a marca não aceita troca nem devolução por desistência depois da venda; defeito de fabricação segue pela garantia."
         ]
       },
       {
@@ -128685,7 +128809,7 @@ export const reviewsData: unknown[] = [
           "Le Creuset é made in France ou Tailândia? Depende do produto. Na ficha da caçarola buffet de ferro fundido que lemos, o país de origem é France. Na da mini cocotte de cerâmica, é Tailândia. Nenhuma das três fichas lidas traz China.",
           "Le Creuset tem número de série para conferir? Nas páginas do site brasileiro que lemos, a marca não publica guia de número de série, gravação ou selo.",
           "A garantia da Le Creuset vale se eu comprei em outra loja? Segundo a marca, a análise de garantia vale para qualquer produto Le Creuset, independentemente do país ou do canal de compra. Guarde a nota fiscal ou outro comprovante de propriedade.",
-          "O outlet da Le Creuset vende peça original? O outlet é loja oficial da marca. Vende seconds, B-grade e modelos descontinuados, com pequenas variações, sem troca depois da venda e com garantia.",
+          "O outlet da Le Creuset vende peça original? O outlet é loja oficial da marca. Vende seconds, B-grade e modelos descontinuados, com pequenas variações, sem troca nem devolução por desistência depois da venda na loja física, e com garantia para defeito de fabricação.",
           "Como saber se uma loja é revendedora autorizada da Le Creuset? Procure a loja no localizador \"Revendedor Autorizado\", em lecreuset.com.br/lojas, buscando pela cidade. A lista é da própria Le Creuset Brasil."
         ]
       }
@@ -130269,6 +130393,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "27 de outubro de 2026",
     "publishedAtISO": "2026-10-27",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Masstodon Refil 3 kg ou Monstrous 2,7 kg: o Masstodon custa menos por 100 g de proteína, e o Monstrous tem mais proteína. Veja as contas lado a lado e o efeito do CECILIA10.",
@@ -130309,7 +130434,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Como lemos o rótulo: porção, kcal e preço por 100 g de proteína",
         "paragraphs": [
-          "A Black Skull vende dois hipercalóricos no site: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem, e a loja não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
+          "Este guia compara dois hipercalóricos da Black Skull: o [Masstodon Refil 3 kg](https://www.blackskullusa.com.br/hipercalorico-masstodon--3kg--refil/p), a R$ 129,90, e o [Monstrous 2,7 kg](https://www.blackskullusa.com.br/hipercalorico-monstrous--6lb--2-7kg/p), a R$ 349,90, preços de 27/10/2026. Os dois têm tabela nutricional em imagem, e a loja não compara um com o outro. Este guia faz isso com o que o rótulo diz e com o preço do dia. Quem tem condição de saúde, está grávida ou tem objetivo específico fala com nutricionista ou médico antes de comprar.",
           "O preço do pote engana, porque a porção e a proteína de cada um são diferentes: 160 g no Masstodon, 260 g no Monstrous. Por isso a régua do artigo é por 100 g do pó, por 100 g de proteína e por 1.000 kcal."
         ],
         "bullets": [
@@ -130512,7 +130637,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Não há hipercalórico de 4 kg nem em balde no catálogo: os dois tamanhos são o refil de 3 kg e o pote de 2,7 kg."
+          "Os tamanhos comparados são o refil de 3 kg e o pote de 2,7 kg; hipercalórico de 4 kg ou em balde não apareceu no catálogo de outubro."
         ]
       },
       {
@@ -130609,10 +130734,10 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Qual hipercalórico da Black Skull tem menos carboidrato por grama de proteína? O Monstrous 2,7 kg: 3,8 g de carboidrato por grama de proteína (195 g e 51 g por porção de 260 g). O Masstodon Refil 3 kg tem 11,5 g (138 g e 12 g por porção de 160 g).",
-          "Qual hipercalórico da Black Skull é o mais barato por proteína? O Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com o CECILIA10. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom.",
-          "A Black Skull tem hipercalórico de 4 kg ou em balde? Não no catálogo. Os dois tamanhos são o Masstodon Refil 3 kg e o Monstrous 2,7 kg.",
-          "A Black Skull tem hipercalórico sem lactose? Não: o Masstodon e o Monstrous declaram \"Contém lactose\" no rótulo. Os dois declaram \"Não contém glúten\".",
+          "Qual hipercalórico da Black Skull tem menos carboidrato por grama de proteína? Entre os dois comparados, o Monstrous 2,7 kg: 3,8 g de carboidrato por grama de proteína (195 g e 51 g por porção de 260 g). O Masstodon Refil 3 kg tem 11,5 g (138 g e 12 g por porção de 160 g).",
+          "Qual hipercalórico da Black Skull é o mais barato por proteína? Entre os dois comparados, o Masstodon Refil 3 kg: R$ 57,73 por 100 g de proteína, ou R$ 51,96 com o CECILIA10. O Monstrous sai a R$ 66,07, ou R$ 59,46 com o cupom.",
+          "A Black Skull tem hipercalórico de 4 kg ou em balde? Não apareceu no catálogo de outubro. Os tamanhos comparados são o Masstodon Refil 3 kg e o Monstrous 2,7 kg.",
+          "A Black Skull tem hipercalórico sem lactose? Nos dois comparados, não: o Masstodon e o Monstrous declaram \"Contém lactose\" no rótulo. Os dois declaram \"Não contém glúten\".",
           "Quais sabores do Monstrous estão à venda? O seletor da ficha mostra chocolate, morango e baunilha; o morango estava esgotado. O Masstodon tem baunilha, morango, chocolate e banana, todos com estoque na mesma data."
         ]
       }
@@ -131246,6 +131371,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Nutren Senior comparada por 100 g em cinco formas de compra (370 g, 740 g, kit, combo e Premium Baunilha), com a assinatura e a Zero Lactose, com preços de 28/10/2026.",
@@ -131402,7 +131528,7 @@ export const reviewsData: unknown[] = [
           ]
         },
         "postParagraphs": [
-          "Para a Zero Lactose, a tabela traz só a compra única. O detalhe do produto está em [ficha do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
+          "A tabela da Zero Lactose traz só a compra única. Na lata de 740 g, a ficha oficial anuncia também assinatura, a R$ 169,43; no kit e no combo, confira na loja se há assinatura. O detalhe do produto está em [ficha do Nutren Senior Zero Lactose](/reviews/nutren-senior-zero-lactose-ficha-tecnica)."
         ],
         "image": {
           "src": "/images/reviews/nutren/nutren-senior-hero.webp",
@@ -131446,7 +131572,7 @@ export const reviewsData: unknown[] = [
           "A assinatura obriga a receber todo mês? Não. A página diz que você pode cancelar quando quiser, sem custo, e pular até 2 entregas por ano.",
           "O kit sai mais barato que o combo? Sim. Pelo preço lido, o kit custa R$ 263,49 e o combo, R$ 319,92, para o mesmo produto.",
           "O CECI vale no kit e na assinatura? Não testamos. Confira no carrinho antes de pagar.",
-          "A Zero Lactose tem assinatura? Na leitura dos preços, não apareceu assinatura para ela. Na compra única, o kit sai R$ 148,25 por lata."
+          "A Zero Lactose tem assinatura? Na lata de 740 g, a ficha oficial anuncia assinatura, a R$ 169,43. A tabela do artigo traz a Zero Lactose só na compra única, em que o kit sai R$ 148,25 por lata; confira na loja a assinatura de cada forma."
         ]
       }
     ]
@@ -131747,6 +131873,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Os oito sabores dos snacks proteicos e de arroz da Belive, com preço, rótulo, ingredientes e a conta por grama de proteína, em 28/10/2026.",
@@ -131769,7 +131896,7 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve o proteico se procura mais proteína por pacote.",
-        "Leve o de arroz se quer menor preço por pacote e menos sódio."
+        "Leve o de arroz se quer menor preço por pacote; no sódio, compare o sabor escolhido, porque o de arroz só tem menos sódio em média."
       ],
       "skipIf": [
         "Passe os oito se evita soja: todos trazem derivados de soja.",
@@ -131957,7 +132084,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual compensa",
         "emphasis": "Pelos números da tabela, para o perfil proteína a escolha é o proteico, porque traz 10 g por pacote a R$ 0,80 por grama de proteína.",
         "paragraphs": [
-          "Se o critério é preço por pacote e sódio, leve o de arroz: R$ 2,78 a menos por pacote e, em média, menos sódio.",
+          "Se o critério é preço por pacote e sódio, leve o de arroz: R$ 2,78 a menos por pacote e, em média, menos sódio. No sódio, compare o sabor: o proteico Cebola e Salsa (180 mg) tem menos que o arroz Queijo e o Churrasco (209 mg).",
           "Dentro de cada linha, o sabor é com você. A escolha se faz pelos números da tabela e pelo que você quer comer."
         ]
       },
@@ -143137,6 +143264,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Creatina de 300 g, 100 g, Creapure e monodose: qual compensa pelo preço por 100 g e por dose.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/creatina-probiotica-qual-compensa-capa.webp",
@@ -143331,8 +143459,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "Creatina Probiótica é boa? Pelo rótulo, as versões em pó e os sachês trazem creatina monohidratada com 5.000 mg por porção de 5 g, e a tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço. Quem fabrica e como a loja responde está em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
-          "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela. A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
+          "Creatina Probiótica é boa? Pelo rótulo, os potes de 300 g e de 100 g, a Creapure e os sachês, todos com porção de 5 g, trazem creatina monohidratada com 5.000 mg por porção; a Pure Creatina Monster tem porção de 3 g, com 3.000 mg. A tabela não lista carboidrato, proteína, gordura nem sódio em quantidade significativa. A qualidade de cada lote não se mede pela ficha; o texto lê o rótulo e o preço. Quem fabrica e como a loja responde está em [Probiótica é confiável?](/reviews/probiotica-e-confiavel).",
+          "Creatina Probiótica é pura? \"Pura\" é o nome do produto. O rótulo declara creatina monohidratada, com 5.000 mg por porção de 5 g na tabela (3.000 mg em 3 g na Pure Creatina Monster). A Creapure traz o selo de origem da matéria-prima, com a mesma composição por porção na tabela.",
           "Creatina Probiótica é Creapure? Só as versões com o selo no rótulo: a Creatina Creapure Monohidratada de 150 g e a Pure Creatina de 150 g da linha Monster, as duas a R$ 99,89. Os potes de 300 g e de 100 g e a monodose não trazem o selo.",
           "Qual tamanho da creatina Probiótica compensa? O pote de 300 g: R$ 19,97 por 100 g, contra R$ 33,89 do pote de 100 g, R$ 46,59 da monodose e R$ 66,59 da Creapure.",
           "A creatina da Probiótica tem sabor? Não encontramos creatina com sabor no catálogo da Probiótica. As versões lidas são sem sabor; para potes com sabor de outras marcas, veja [creatina com sabor: qual escolher](/reviews/creatina-com-sabor-qual-escolher)."
@@ -143770,6 +143898,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Pré-treino Max Titanium com o MAX10EMCASACOMCECILIA e até 10% OFF: Hórus ou Égide pela cafeína e pelo preço por dose, e o Night Train sem cafeína.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/pre-treino-max-titanium-horus-ou-egide-capa.webp",
@@ -143987,7 +144116,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Hórus ou Égide: qual é melhor? Pelo rótulo e pelo preço, o Hórus tem menos cafeína por dose, 150 mg contra 200 mg, e o Égide de 300 g custa menos por dose, R$ 2,20 contra R$ 2,47, porque rende 50 doses de 6 g. Qual pesa mais é uma conta sua.",
           "Pré-treino Max Titanium tem cafeína? O Hórus e o Égide têm: 150 mg e 200 mg por dose, pela tabela do rótulo. O Night Train não tem cafeína na tabela nem na lista de ingredientes.",
-          "Qual pré-treino da Max Titanium tem mais cafeína? O Égide, com 200 mg por dose de 6 g. O Hórus tem 150 mg por dose de 8,4 g.",
+          "Qual pré-treino da Max Titanium tem mais cafeína, Hórus ou Égide? O Égide, com 200 mg por dose de 6 g. O Hórus tem 150 mg por dose de 8,4 g. O Shook, que fica fora deste guia, também declara 200 mg por dose.",
           "Pré-treino Max Titanium sem cafeína existe? Sim, o Night Train, de 300 g, em frutas vermelhas e citrus. A página o chama de pré-treino sem cafeína, e a tabela do rótulo não traz linha de cafeína.",
           "Quantas doses tem cada pote? O Hórus rende cerca de 36 doses no pote de 300 g e cerca de 18 no de 150 g. O Égide rende 50 doses no de 300 g e 25 no de 150 g. O Night Train rende cerca de 36.",
           "Hórus da Max Titanium é bom? Ninguém do site usou o produto. O rótulo declara 150 mg de cafeína, 2.000 mg de beta-alanina, 1.000 mg de taurina e 1.000 mg de arginina por dose de 8,4 g, a R$ 2,47 por dose no pote de 300 g.",
@@ -144038,6 +144167,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Max Titanium ou Integralmédica, com o cupom MAX10EMCASACOMCECILIA de até 10% OFF: no whey, a Max sai mais barata por proteína; na creatina, não.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/max-titanium-ou-integralmedica-capa.webp",
@@ -144210,7 +144340,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cupom e onde comprar",
         "paragraphs": [
-          "Cupom: MAX10EMCASACOMCECILIA, o cupom da Max Titanium. Vale até 10%, e o percentual varia por produto, por isso as contas com cupom deste texto usam 10% como teto. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/max-titanium). A loja oficial é a [Max Titanium](https://www.maxtitanium.com.br/), com link comissionado."
+          "Cupom: MAX10EMCASACOMCECILIA, o cupom da Max Titanium. Vale até 10%, e o percentual varia por produto, por isso as contas com cupom deste texto usam 10% como teto. Este texto não traz cupom da Integralmédica. As regras e o passo a passo ficam na [página do cupom](/cupons/max-titanium). A loja oficial é a [Max Titanium](https://www.maxtitanium.com.br/), e o código pode gerar comissão para o site, sem custo extra para você."
         ]
       },
       {
@@ -144302,6 +144432,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SONAR20 dá 20% OFF no Criador com IA da Hostinger. Vale a pena ou WordPress? Quadro por projeto, Wix, Lovable e créditos de IA.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -144388,7 +144519,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Criador com IA ou WordPress",
         "paragraphs": [
-          "O preço não decide: na Hostinger, o Criador com IA vem nos planos de hospedagem, os mesmos que rodam WordPress, pelos mesmos valores. O que muda é quem faz o trabalho e o que você controla."
+          "Na Hostinger, o preço do plano de hospedagem não decide: o modo sem IA do Criador vem nos mesmos planos que rodam WordPress, pelos mesmos valores. O modo com IA gasta créditos, e para publicar o site você precisa de hospedagem ativa. O que muda é quem faz o trabalho e o que você controla."
         ],
         "comparisonTable": {
           "headers": [
@@ -144436,7 +144567,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**O WordPress ganha** quando o projeto depende de um plugin específico, de um tema que você já tem, ou de alguém que vai manter o site depois. Ele é software livre: o site inteiro é seu e vai para qualquer hospedagem sem retrabalho.",
-          "**O Criador com IA ganha** quando você não quer instalar nem atualizar nada e quer um app web com login e dados, o que no WordPress vira uma pilha de plugins. A ressalva que muda a decisão: no modo com IA, cada mudança gasta créditos. Pela página, uma página institucional simples consome de 5 a 10 créditos, e um app mais complexo, 15 ou mais. Quem mexe no site toda semana precisa fazer as contas; quem monta uma vez e edita texto e foto no editor, sem prompt, não gasta."
+          "**O Criador com IA ganha** quando você não quer instalar nem atualizar nada e quer um app web com login e dados, o que no WordPress vira uma pilha de plugins. A ressalva que muda a decisão: no modo com IA, cada mudança gasta créditos. Pela página, uma página institucional simples consome de 5 a 10 créditos, e um app mais complexo, 15 ou mais. Quem mexe no site toda semana precisa fazer as contas. Quem monta uma vez e edita texto e foto no editor do modo sem IA não gasta; no modo com IA, até trocar um texto ou uma imagem pelo Select & edit consome um pouco de créditos."
         ]
       },
       {
@@ -144496,7 +144627,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O que conferir antes de pagar",
         "bullets": [
-          "**Os créditos.** O modo com IA gasta créditos a cada pedido, e o saldo do plano não renova todo mês. Monte o site pela IA e faça os ajustes de texto e foto no editor, que não gasta.",
+          "**Os créditos.** O modo com IA gasta créditos a cada pedido, e o saldo do plano não renova todo mês. Até trocar um texto ou uma imagem pelo Select & edit consome um pouco; só o modo sem IA edita sem gastar.",
           "**O que acontece se você não renovar.** A página avisa: plano vencido e não renovado tira o projeto do ar e apaga os dados. Exporte o código antes de deixar vencer.",
           "**Domínio e e-mail grátis só no primeiro ano.** Depois, o domínio renova pelo preço de tabela da Hostinger: .com.br R$ 64,99 por ano e .com R$ 94,99 por ano.",
           "**Reembolso em 30 dias**, desde que você tenha consumido menos de 30 créditos de IA.",
@@ -144546,7 +144677,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Leve o Criador com IA se quer um site de poucas páginas, um portfólio, uma loja pequena ou um app web simples sem programar.",
         "Leve se quer hospedagem, domínio e e-mail no mesmo plano e aceita que a IA monte a primeira versão.",
-        "Leve se vai montar uma vez e ajustar texto e foto no editor, que não gasta créditos."
+        "Leve se vai montar uma vez e ajustar texto e foto no editor do modo sem IA, que não gasta créditos."
       ],
       "skipIf": [
         "Passe, e fique no WordPress, se o projeto depende de um plugin específico ou de um tema que você já tem.",
@@ -144613,6 +144744,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons is now the AI Builder. Is it worth it, or should you use WordPress? A table by project type, a comparison with Wix and Lovable, and AI credits.",
     "publishedAt": "October 28, 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -144700,7 +144832,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "AI Builder or WordPress",
         "paragraphs": [
-          "Price doesn't decide it: at Hostinger, the AI Builder comes with the hosting plans, the same ones that run WordPress, at the same prices. What changes is who does the work and what you control."
+          "At Hostinger, the price of the hosting plan doesn't decide it: the AI Builder's no-AI mode comes with the same plans that run WordPress, at the same prices. The AI mode uses credits, and to publish the site you need active hosting. What changes is who does the work and what you control."
         ],
         "comparisonTable": {
           "headers": [
@@ -144748,7 +144880,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress wins** when the project depends on a specific plugin, on a theme you already have, or on someone who will maintain the site later. It is free software: the whole site is yours and moves to any host without rework.",
-          "**The AI Builder wins** when you don't want to install or update anything and you want a web app with login and data, which in WordPress becomes a stack of plugins. The caveat that changes the decision: in AI mode, every change uses credits. According to the page, a simple institutional page uses 5 to 10 credits, and a more complex app, 15 or more. Anyone who changes the site every week has to do the math; anyone who builds it once and edits text and photos in the editor, with no prompt, uses none."
+          "**The AI Builder wins** when you don't want to install or update anything and you want a web app with login and data, which in WordPress becomes a stack of plugins. The caveat that changes the decision: in AI mode, every change uses credits. According to the page, a simple institutional page uses 5 to 10 credits, and a more complex app, 15 or more. Anyone who changes the site every week has to do the math. Anyone who builds it once and edits text and photos in the no-AI mode's editor uses none; in AI mode, even swapping a text or an image with Select & edit uses a few credits."
         ]
       },
       {
@@ -144761,7 +144893,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "What to check before paying",
         "bullets": [
-          "**The credits.** AI mode uses credits on every request, and the plan's balance doesn't renew every month. Build the site with the AI and make text and photo tweaks in the editor, which uses none.",
+          "**The credits.** AI mode uses credits on every request, and the plan's balance doesn't renew every month. Even swapping a text or an image with Select & edit uses a few; only the no-AI mode edits for free.",
           "**What happens if you don't renew.** The page warns: a plan that expires without renewal takes the project offline and deletes the data. Export the code before letting it expire.",
           "**30-day refund**, as long as you have used fewer than 30 AI credits.",
           "**The online store** is a feature of the Unlimited and Cloud Startup plans; on Unlimited, the page says it is free for 3 months. Check at checkout what it costs afterwards.",
@@ -144831,7 +144963,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Take the AI Builder if you want a site of a few pages, a portfolio, a small store or a simple web app without coding.",
         "Take it if you want hosting, domain and email in the same plan and you're fine with the AI building the first version.",
-        "Take it if you'll build the site once and tweak text and photos in the editor, which uses no credits."
+        "Take it if you'll build the site once and tweak text and photos in the no-AI mode's editor, which uses no credits."
       ],
       "skipIf": [
         "Skip it, and stay with WordPress, if the project depends on a specific plugin or on a theme you already have.",
@@ -144876,6 +145008,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons ahora es el creador con IA. ¿Vale la pena o WordPress? Cuadro por tipo de proyecto, comparación con Wix y Lovable y créditos de IA.",
     "publishedAt": "28 de octubre de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -144963,7 +145096,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Creador con IA o WordPress",
         "paragraphs": [
-          "El precio no decide: en Hostinger, el creador con IA viene en los planes de hosting, los mismos que corren WordPress, por los mismos precios. Lo que cambia es quién hace el trabajo y qué controlas."
+          "En Hostinger, el precio del plan de hosting no decide: el modo sin IA del creador viene en los mismos planes que corren WordPress, por los mismos precios. El modo con IA gasta créditos, y para publicar la web necesitas un hosting activo. Lo que cambia es quién hace el trabajo y qué controlas."
         ],
         "comparisonTable": {
           "headers": [
@@ -145011,7 +145144,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress gana** cuando el proyecto depende de un plugin concreto, de un tema que ya tienes o de alguien que mantendrá la web después. Es software libre: la web entera es tuya y se va a cualquier hosting sin rehacer nada.",
-          "**El creador con IA gana** cuando no quieres instalar ni actualizar nada y quieres una app web con inicio de sesión y datos, que en WordPress se convierte en una pila de plugins. La salvedad que cambia la decisión: en el modo con IA, cada cambio gasta créditos. Según la página, una página institucional sencilla consume de 5 a 10 créditos, y una app más compleja, 15 o más. Quien toca la web cada semana tiene que hacer las cuentas; quien la monta una vez y edita texto y fotos en el editor, sin prompt, no gasta."
+          "**El creador con IA gana** cuando no quieres instalar ni actualizar nada y quieres una app web con inicio de sesión y datos, que en WordPress se convierte en una pila de plugins. La salvedad que cambia la decisión: en el modo con IA, cada cambio gasta créditos. Según la página, una página institucional sencilla consume de 5 a 10 créditos, y una app más compleja, 15 o más. Quien toca la web cada semana tiene que hacer las cuentas. Quien la monta una vez y edita texto y fotos en el editor del modo sin IA no gasta; en el modo con IA, hasta cambiar un texto o una imagen con Select & edit consume un poco de créditos."
         ]
       },
       {
@@ -145024,7 +145157,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qué comprobar antes de pagar",
         "bullets": [
-          "**Los créditos.** El modo con IA gasta créditos en cada petición, y el saldo del plan no se renueva cada mes. Monta la web con la IA y haz los ajustes de texto y fotos en el editor, que no gasta.",
+          "**Los créditos.** El modo con IA gasta créditos en cada petición, y el saldo del plan no se renueva cada mes. Hasta cambiar un texto o una imagen con Select & edit consume un poco; solo el modo sin IA edita sin gastar.",
           "**Qué pasa si no renuevas.** La página avisa: un plan vencido y sin renovar deja el proyecto fuera de línea y borra los datos. Exporta el código antes de dejarlo vencer.",
           "**Reembolso en 30 días**, siempre que hayas consumido menos de 30 créditos de IA.",
           "**La tienda online** está incluida en los planes Unlimited y Cloud Startup; en el Unlimited, la página dice que es gratis durante 3 meses. Comprueba al pagar cuánto cuesta después.",
@@ -145094,7 +145227,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Elige el creador con IA si quieres una web de pocas páginas, un portfolio, una tienda pequeña o una app web sencilla sin programar.",
         "Elígelo si quieres hosting, dominio y correo en el mismo plan y aceptas que la IA monte la primera versión.",
-        "Elígelo si vas a montar la web una vez y ajustar texto y fotos en el editor, que no gasta créditos."
+        "Elígelo si vas a montar la web una vez y ajustar texto y fotos en el editor del modo sin IA, que no gasta créditos."
       ],
       "skipIf": [
         "Pasa, y quédate en WordPress, si el proyecto depende de un plugin concreto o de un tema que ya tienes.",
@@ -145139,6 +145272,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons est devenu le créateur IA. Vaut-il le coup, ou WordPress ? Tableau par type de projet, comparaison avec Wix et Lovable, et crédits d'IA.",
     "publishedAt": "28 octobre 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -145226,7 +145360,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Créateur IA ou WordPress",
         "paragraphs": [
-          "Le prix ne tranche pas : chez Hostinger, le créateur IA est inclus dans les offres d'hébergement, les mêmes que celles qui font tourner WordPress, aux mêmes tarifs. Ce qui change, c'est qui fait le travail et ce que vous contrôlez."
+          "Chez Hostinger, le prix de l'offre d'hébergement ne tranche pas : le mode sans IA du créateur est inclus dans les mêmes offres que celles qui font tourner WordPress, aux mêmes tarifs. Le mode avec IA consomme des crédits, et pour publier le site il faut un hébergement actif. Ce qui change, c'est qui fait le travail et ce que vous contrôlez."
         ],
         "comparisonTable": {
           "headers": [
@@ -145274,7 +145408,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress l'emporte** quand le projet dépend d'un plugin précis, d'un thème que vous avez déjà, ou de quelqu'un qui maintiendra le site ensuite. C'est un logiciel libre : le site entier est à vous et part vers n'importe quel hébergeur sans tout refaire.",
-          "**Le créateur IA l'emporte** quand vous ne voulez rien installer ni mettre à jour et que vous voulez une appli web avec connexion et données, ce qui devient sur WordPress une pile de plugins. La réserve qui change la décision : en mode IA, chaque modification consomme des crédits. D'après la page, une page institutionnelle simple consomme de 5 à 10 crédits, et une appli plus complexe, 15 ou plus. Qui retouche le site chaque semaine doit faire le calcul ; qui le monte une fois et modifie le texte et les photos dans l'éditeur, sans prompt, ne dépense rien."
+          "**Le créateur IA l'emporte** quand vous ne voulez rien installer ni mettre à jour et que vous voulez une appli web avec connexion et données, ce qui devient sur WordPress une pile de plugins. La réserve qui change la décision : en mode IA, chaque modification consomme des crédits. D'après la page, une page institutionnelle simple consomme de 5 à 10 crédits, et une appli plus complexe, 15 ou plus. Qui retouche le site chaque semaine doit faire le calcul. Qui le monte une fois et modifie le texte et les photos dans l'éditeur du mode sans IA ne dépense rien ; en mode IA, même remplacer un texte ou une image avec Select & edit consomme un peu de crédits."
         ]
       },
       {
@@ -145287,7 +145421,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Ce qu'il faut vérifier avant de payer",
         "bullets": [
-          "**Les crédits.** Le mode avec IA consomme des crédits à chaque demande, et le solde de l'offre ne se renouvelle pas chaque mois. Montez le site avec l'IA et faites les retouches de texte et de photos dans l'éditeur, qui n'en consomme pas.",
+          "**Les crédits.** Le mode avec IA consomme des crédits à chaque demande, et le solde de l'offre ne se renouvelle pas chaque mois. Même remplacer un texte ou une image avec Select & edit en consomme un peu ; seul le mode sans IA édite sans en dépenser.",
           "**Ce qui se passe si vous ne renouvelez pas.** La page prévient : une offre expirée et non renouvelée met le projet hors ligne et supprime les données. Exportez le code avant de la laisser expirer.",
           "**Remboursement sous 30 jours**, à condition d'avoir consommé moins de 30 crédits d'IA.",
           "**La boutique en ligne** fait partie des offres Unlimited et Cloud Startup ; sur Unlimited, la page indique qu'elle est gratuite pendant 3 mois. Vérifiez au paiement ce qu'elle coûte ensuite.",
@@ -145357,7 +145491,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Prenez le créateur IA si vous voulez un site de quelques pages, un portfolio, une petite boutique ou une appli web simple sans coder.",
         "Prenez-le si vous voulez l'hébergement, le domaine et l'e-mail dans la même offre et acceptez que l'IA monte la première version.",
-        "Prenez-le si vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur, qui ne consomme pas de crédits."
+        "Prenez-le si vous allez monter le site une fois et retoucher le texte et les photos dans l'éditeur du mode sans IA, qui ne consomme pas de crédits."
       ],
       "skipIf": [
         "Passez, et restez sur WordPress, si le projet dépend d'un plugin précis ou d'un thème que vous avez déjà.",
@@ -145403,6 +145537,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons è diventato l'AI Builder. Conviene o meglio WordPress? Tabella per tipo di progetto, confronto con Wix e Lovable e crediti IA.",
     "publishedAt": "28 ottobre 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -145489,7 +145624,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "AI Builder o WordPress",
         "paragraphs": [
-          "Il prezzo non decide: su Hostinger l'AI Builder è compreso nei piani di hosting, gli stessi che fanno girare WordPress, agli stessi prezzi. Cambia chi fa il lavoro e che cosa controlli."
+          "Su Hostinger il prezzo del piano di hosting non decide: la modalità senza IA dell'AI Builder è compresa negli stessi piani che fanno girare WordPress, agli stessi prezzi. La modalità con IA consuma crediti, e per pubblicare il sito serve un hosting attivo. Cambia chi fa il lavoro e che cosa controlli."
         ],
         "comparisonTable": {
           "headers": [
@@ -145537,7 +145672,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress vince** quando il progetto dipende da un plugin specifico, da un tema che hai già o da qualcuno che manterrà il sito in seguito. È software libero: l'intero sito è tuo e va su qualsiasi hosting senza rifare nulla.",
-          "**L'AI Builder vince** quando non vuoi installare né aggiornare nulla e vuoi un'app web con login e dati, che su WordPress diventa una pila di plugin. L'avvertenza che cambia la decisione: in modalità IA, ogni modifica consuma crediti. Secondo la pagina, una semplice pagina istituzionale consuma da 5 a 10 crediti, e un'app più complessa 15 o più. Chi mette mano al sito ogni settimana deve fare i conti; chi lo monta una volta e modifica testo e foto nell'editor, senza prompt, non consuma nulla."
+          "**L'AI Builder vince** quando non vuoi installare né aggiornare nulla e vuoi un'app web con login e dati, che su WordPress diventa una pila di plugin. L'avvertenza che cambia la decisione: in modalità IA, ogni modifica consuma crediti. Secondo la pagina, una semplice pagina istituzionale consuma da 5 a 10 crediti, e un'app più complessa 15 o più. Chi mette mano al sito ogni settimana deve fare i conti. Chi lo monta una volta e modifica testo e foto nell'editor della modalità senza IA non consuma nulla; in modalità IA, anche cambiare un testo o un'immagine con Select & edit consuma un po' di crediti."
         ]
       },
       {
@@ -145550,7 +145685,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Che cosa controllare prima di pagare",
         "bullets": [
-          "**I crediti.** La modalità con IA consuma crediti a ogni richiesta, e il saldo del piano non si rinnova ogni mese. Monta il sito con l'IA e fai i ritocchi di testo e foto nell'editor, che non ne consuma.",
+          "**I crediti.** La modalità con IA consuma crediti a ogni richiesta, e il saldo del piano non si rinnova ogni mese. Anche cambiare un testo o un'immagine con Select & edit ne consuma un po'; solo la modalità senza IA modifica senza consumare.",
           "**Che cosa succede se non rinnovi.** La pagina avvisa: un piano scaduto e non rinnovato mette il progetto offline e cancella i dati. Esporta il codice prima di lasciarlo scadere.",
           "**Rimborso entro 30 giorni**, purché tu abbia consumato meno di 30 crediti IA.",
           "**Il negozio online** è una voce dei piani Unlimited e Cloud Startup; nell'Unlimited, la pagina dice che è gratuito per 3 mesi. Controlla al checkout quanto costa dopo.",
@@ -145620,7 +145755,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Scegli l'AI Builder se vuoi un sito di poche pagine, un portfolio, un piccolo negozio o un'app web semplice senza programmare.",
         "Sceglilo se vuoi hosting, dominio ed e-mail nello stesso piano e accetti che l'IA monti la prima versione.",
-        "Sceglilo se monterai il sito una volta e ritoccherai testo e foto nell'editor, che non consuma crediti."
+        "Sceglilo se monterai il sito una volta e ritoccherai testo e foto nell'editor della modalità senza IA, che non consuma crediti."
       ],
       "skipIf": [
         "Lascia stare, e resta su WordPress, se il progetto dipende da un plugin specifico o da un tema che hai già.",
@@ -145666,6 +145801,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons heißt jetzt KI-Builder. Lohnt er sich, oder lieber WordPress? Tabelle nach Projektart, Vergleich mit Wix und Lovable und KI-Guthaben.",
     "publishedAt": "28. Oktober 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -145752,7 +145888,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "KI-Builder oder WordPress",
         "paragraphs": [
-          "Der Preis entscheidet nicht: Bei Hostinger ist der KI-Builder in den Hosting-Tarifen enthalten, denselben, auf denen WordPress läuft, zu denselben Preisen. Was sich ändert, ist, wer die Arbeit macht und was Sie kontrollieren."
+          "Bei Hostinger entscheidet der Preis des Hosting-Tarifs nicht: Der Modus ohne KI des Builders ist in denselben Tarifen enthalten, auf denen WordPress läuft, zu denselben Preisen. Der KI-Modus verbraucht Guthaben, und zum Veröffentlichen der Website brauchen Sie aktives Hosting. Was sich ändert, ist, wer die Arbeit macht und was Sie kontrollieren."
         ],
         "comparisonTable": {
           "headers": [
@@ -145800,7 +145936,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress gewinnt**, wenn das Projekt von einem bestimmten Plugin abhängt, von einem Theme, das Sie schon haben, oder von jemandem, der die Website später pflegt. Es ist freie Software: Die ganze Website gehört Ihnen und zieht ohne Nacharbeit zu jedem Hoster um.",
-          "**Der KI-Builder gewinnt**, wenn Sie nichts installieren oder aktualisieren wollen und eine Web-App mit Login und Daten brauchen, was in WordPress zu einem Stapel Plugins wird. Der Vorbehalt, der die Entscheidung ändert: Im KI-Modus verbraucht jede Änderung Guthaben. Laut Seite verbraucht eine einfache Unternehmensseite 5 bis 10 Guthaben und eine komplexere App 15 oder mehr. Wer die Website jede Woche anfasst, muss nachrechnen; wer sie einmal baut und Text und Fotos im Editor ohne Prompt bearbeitet, verbraucht nichts."
+          "**Der KI-Builder gewinnt**, wenn Sie nichts installieren oder aktualisieren wollen und eine Web-App mit Login und Daten brauchen, was in WordPress zu einem Stapel Plugins wird. Der Vorbehalt, der die Entscheidung ändert: Im KI-Modus verbraucht jede Änderung Guthaben. Laut Seite verbraucht eine einfache Unternehmensseite 5 bis 10 Guthaben und eine komplexere App 15 oder mehr. Wer die Website jede Woche anfasst, muss nachrechnen. Wer sie einmal baut und Text und Fotos im Editor des Modus ohne KI bearbeitet, verbraucht nichts; im KI-Modus verbraucht schon der Austausch eines Textes oder Bildes mit Select & edit etwas Guthaben."
         ]
       },
       {
@@ -145813,7 +145949,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Was Sie vor der Zahlung prüfen sollten",
         "bullets": [
-          "**Das Guthaben.** Der KI-Modus verbraucht bei jeder Anfrage Guthaben, und das Guthaben des Tarifs erneuert sich nicht jeden Monat. Bauen Sie die Website mit der KI und nehmen Sie Text- und Foto-Anpassungen im Editor vor, der keines verbraucht.",
+          "**Das Guthaben.** Der KI-Modus verbraucht bei jeder Anfrage Guthaben, und das Guthaben des Tarifs erneuert sich nicht jeden Monat. Schon der Austausch eines Textes oder Bildes mit Select & edit verbraucht etwas; nur der Modus ohne KI bearbeitet kostenlos.",
           "**Was passiert, wenn Sie nicht verlängern.** Die Seite warnt: Ein abgelaufener und nicht verlängerter Tarif nimmt das Projekt vom Netz und löscht die Daten. Exportieren Sie den Code, bevor der Tarif ausläuft.",
           "**Rückerstattung innerhalb von 30 Tagen**, sofern Sie weniger als 30 KI-Guthaben verbraucht haben.",
           "**Der Onlineshop** gehört zu den Tarifen Unlimited und Cloud Startup; bei Unlimited ist er laut Seite 3 Monate kostenlos. Prüfen Sie an der Kasse, was er danach kostet.",
@@ -145883,7 +146019,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "Nehmen Sie den KI-Builder, wenn Sie eine Website mit wenigen Seiten, ein Portfolio, einen kleinen Shop oder eine einfache Web-App ohne Programmieren wollen.",
         "Nehmen Sie ihn, wenn Sie Hosting, Domain und E-Mail im selben Tarif wollen und akzeptieren, dass die KI die erste Version baut.",
-        "Nehmen Sie ihn, wenn Sie die Website einmal bauen und Text und Fotos im Editor anpassen, der kein Guthaben verbraucht."
+        "Nehmen Sie ihn, wenn Sie die Website einmal bauen und Text und Fotos im Editor des Modus ohne KI anpassen, der kein Guthaben verbraucht."
       ],
       "skipIf": [
         "Lassen Sie ihn aus und bleiben Sie bei WordPress, wenn das Projekt von einem bestimmten Plugin oder einem Theme abhängt, das Sie schon haben.",
@@ -145929,6 +146065,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons は AI Builder になりました。使う価値はある？それとも WordPress？ プロジェクト別の早見表、Wix・Lovable との比較、AI クレジットまで。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -146015,7 +146152,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "AI Builder と WordPress",
         "paragraphs": [
-          "価格では決まりません。Hostinger では AI Builder は WordPress も動くホスティングプランに含まれ、料金も同じです。違うのは、誰が作業をするか、そして何を自分で制御できるかです。"
+          "Hostinger では、ホスティングプランの料金では決まりません。AI を使わないモードの AI Builder は、WordPress も動く同じプランに含まれ、料金も同じです。AI を使うモードはクレジットを消費し、サイトを公開するには有効なホスティングが必要です。違うのは、誰が作業をするか、そして何を自分で制御できるかです。"
         ],
         "comparisonTable": {
           "headers": [
@@ -146063,7 +146200,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress が勝つ**のは、特定のプラグインが欠かせないとき、すでに持っているテーマを使いたいとき、あとでサイトを保守する人がいるときです。WordPress はオープンソースなので、サイト全体が自分のものになり、手直しなしでどのホスティングにも移せます。",
-          "**AI Builder が勝つ**のは、何もインストールも更新もしたくなく、ログインとデータを備えた Web アプリがほしいときです。WordPress ならプラグインの山になります。判断を左右する注意点は、AI を使うモードでは変更のたびにクレジットを消費することです。ページによれば、シンプルな紹介ページは 5〜10 クレジット、複雑なアプリは 15 以上かかります。毎週サイトに手を入れる人は計算が必要です。一度作ってから、文章と写真をプロンプトなしでエディタで直すだけなら、クレジットは減りません。"
+          "**AI Builder が勝つ**のは、何もインストールも更新もしたくなく、ログインとデータを備えた Web アプリがほしいときです。WordPress ならプラグインの山になります。判断を左右する注意点は、AI を使うモードでは変更のたびにクレジットを消費することです。ページによれば、シンプルな紹介ページは 5〜10 クレジット、複雑なアプリは 15 以上かかります。毎週サイトに手を入れる人は計算が必要です。一度作ってから、AI を使わないモードのエディタで文章と写真を直すだけなら、クレジットは減りません。AI を使うモードでは、Select & edit でテキストや画像を差し替えるだけでも少しクレジットを消費します。"
         ]
       },
       {
@@ -146076,7 +146213,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "支払う前に確認すること",
         "bullets": [
-          "**クレジット。**AI を使うモードは依頼のたびにクレジットを消費し、プランの残高は毎月は戻りません。サイトは AI で組み立て、文章と写真の調整は消費しないエディタで行いましょう。",
+          "**クレジット。**AI を使うモードは依頼のたびにクレジットを消費し、プランの残高は毎月は戻りません。Select & edit でテキストや画像を差し替えるだけでも少し消費します。消費せずに編集できるのは AI を使わないモードだけです。",
           "**更新しないとどうなるか。**ページに注意書きがあります。期限が切れて更新されないプランはプロジェクトが公開停止になり、データも削除されます。期限が切れる前にコードをエクスポートしてください。",
           "**返金は 30 日以内**で、使った AI クレジットが 30 未満の場合に限ります。",
           "**ショップ機能**は Unlimited と Cloud Startup プランの機能です。Unlimited では、ページによると 3 か月間無料です。そのあとの費用はチェックアウトで確認してください。",
@@ -146146,7 +146283,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "AI Builder（旧 Horizons）がおすすめなのは、数ページのサイト、ポートフォリオ、小さなショップ、シンプルな Web アプリをプログラミングなしで作りたい人です。",
         "ホスティング、ドメイン、メールを同じプランにまとめたく、最初のバージョンは AI に任せてよい人にもおすすめです。",
-        "一度作ってから、文章と写真をクレジットを消費しないエディタで直す人にもおすすめです。"
+        "一度作ってから、文章と写真を AI を使わないモードの、クレジットを消費しないエディタで直す人にもおすすめです。"
       ],
       "skipIf": [
         "特定のプラグインや、すでに持っているテーマが欠かせないプロジェクトなら、見送って WordPress にしましょう。",
@@ -146191,6 +146328,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons는 AI Builder가 되었습니다. 쓸 만한가, 아니면 WordPress인가? 프로젝트 유형별 표, Wix·Lovable과의 비교, AI 크레딧까지 다룹니다.",
     "publishedAt": "2026년 10월 28일",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -146277,7 +146415,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "AI Builder인가, WordPress인가",
         "paragraphs": [
-          "가격은 기준이 되지 않습니다. Hostinger에서 AI Builder는 WordPress를 돌리는 것과 같은 호스팅 플랜에 포함되고, 가격도 같습니다. 달라지는 것은 누가 작업하느냐, 그리고 무엇을 직접 제어하느냐입니다."
+          "Hostinger에서는 호스팅 플랜 가격이 기준이 되지 않습니다. AI를 쓰지 않는 모드의 AI Builder는 WordPress를 돌리는 것과 같은 플랜에 포함되고, 가격도 같습니다. AI 모드는 크레딧을 쓰고, 사이트를 게시하려면 활성 상태의 호스팅이 필요합니다. 달라지는 것은 누가 작업하느냐, 그리고 무엇을 직접 제어하느냐입니다."
         ],
         "comparisonTable": {
           "headers": [
@@ -146325,7 +146463,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress가 이기는 경우**는 프로젝트가 특정 플러그인에 의존할 때, 이미 가진 테마를 쓸 때, 나중에 사이트를 유지할 사람이 있을 때입니다. WordPress는 오픈 소스여서 사이트 전체가 자신의 것이 되고, 다시 작업할 필요 없이 어떤 호스팅으로도 옮길 수 있습니다.",
-          "**AI Builder가 이기는 경우**는 아무것도 설치하거나 업데이트하고 싶지 않고, 로그인과 데이터가 있는 웹 앱을 원할 때입니다. WordPress에서는 플러그인 무더기가 됩니다. 결정을 가르는 주의점은 AI 모드에서는 변경할 때마다 크레딧이 든다는 것입니다. 페이지에 따르면 간단한 소개 페이지는 5~10 크레딧, 더 복잡한 앱은 15 크레딧 이상이 듭니다. 사이트를 매주 손보는 사람은 계산이 필요하고, 한 번 만든 뒤 프롬프트 없이 에디터에서 텍스트와 사진만 고치는 사람은 크레딧이 들지 않습니다."
+          "**AI Builder가 이기는 경우**는 아무것도 설치하거나 업데이트하고 싶지 않고, 로그인과 데이터가 있는 웹 앱을 원할 때입니다. WordPress에서는 플러그인 무더기가 됩니다. 결정을 가르는 주의점은 AI 모드에서는 변경할 때마다 크레딧이 든다는 것입니다. 페이지에 따르면 간단한 소개 페이지는 5~10 크레딧, 더 복잡한 앱은 15 크레딧 이상이 듭니다. 사이트를 매주 손보는 사람은 계산이 필요합니다. 한 번 만든 뒤 AI를 쓰지 않는 모드의 에디터에서 텍스트와 사진만 고치는 사람은 크레딧이 들지 않습니다. AI 모드에서는 Select & edit로 텍스트나 이미지를 바꾸는 것만으로도 크레딧이 조금 듭니다."
         ]
       },
       {
@@ -146338,7 +146476,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "결제 전에 확인할 것",
         "bullets": [
-          "**크레딧.** AI 모드는 요청할 때마다 크레딧을 쓰고, 플랜의 잔액은 매달 새로 채워지지 않습니다. 사이트는 AI로 만들고, 텍스트와 사진 수정은 크레딧이 들지 않는 에디터에서 하세요.",
+          "**크레딧.** AI 모드는 요청할 때마다 크레딧을 쓰고, 플랜의 잔액은 매달 새로 채워지지 않습니다. Select & edit로 텍스트나 이미지를 바꾸는 것만으로도 조금 듭니다. 크레딧 없이 편집할 수 있는 것은 AI를 쓰지 않는 모드뿐입니다.",
           "**갱신하지 않으면 어떻게 되는가.** 페이지가 이렇게 경고합니다. 만료되어 갱신하지 않은 플랜은 프로젝트가 내려가고 데이터가 삭제됩니다. 만료되기 전에 코드를 내보내 두세요.",
           "**30일 환불**은 AI 크레딧을 30 미만으로 쓴 경우에 한합니다.",
           "**온라인 스토어**는 Unlimited와 Cloud Startup 플랜의 기능이고, Unlimited에서는 페이지에 따르면 3개월 동안 무료입니다. 그 뒤의 비용은 결제 화면에서 확인하세요.",
@@ -146409,7 +146547,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "코딩 없이 몇 페이지짜리 사이트, 포트폴리오, 작은 온라인 스토어 또는 간단한 웹 앱을 만들고 싶다면 AI Builder(구 Horizons)를 선택하세요.",
         "호스팅, 도메인, 이메일을 한 플랜에 두고 싶고 첫 버전은 AI가 만들어도 괜찮다면 선택하세요.",
-        "한 번 만든 뒤 크레딧이 들지 않는 에디터에서 텍스트와 사진을 고칠 생각이라면 선택하세요."
+        "한 번 만든 뒤 AI를 쓰지 않는 모드의, 크레딧이 들지 않는 에디터에서 텍스트와 사진을 고칠 생각이라면 선택하세요."
       ],
       "skipIf": [
         "프로젝트가 특정 플러그인이나 이미 가진 테마에 의존한다면 넘어가고 WordPress에 남으세요.",
@@ -146454,6 +146592,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons 已变成 AI Builder。值得用，还是选 WordPress？按项目类型整理的对照表，与 Wix、Lovable 的比较，以及 AI 额度。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -146540,7 +146679,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "AI Builder 还是 WordPress",
         "paragraphs": [
-          "价格不是决定因素：在 Hostinger，AI Builder 包含在和 WordPress 同样的托管套餐里，价格也一样。不同的是谁来干活，以及你能控制什么。"
+          "在 Hostinger，托管套餐的价格不是决定因素：不用 AI 的模式包含在和 WordPress 同样的托管套餐里，价格也一样。AI 模式会消耗额度，要发布网站还需要有效的托管。不同的是谁来干活，以及你能控制什么。"
         ],
         "comparisonTable": {
           "headers": [
@@ -146588,7 +146727,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress 更占优**的情况：项目依赖某个特定插件、要用你已有的主题，或之后有人来维护网站。它是开源软件：整个网站都属于你，不用返工就能搬到任何主机。",
-          "**AI Builder 更占优**的情况：你不想安装也不想更新任何东西，想要一个带登录和数据的 Web 应用，这在 WordPress 里就是一堆插件。会改变决定的一点是：在 AI 模式下，每次修改都消耗额度。按页面所说，一个简单的介绍页消耗 5 到 10 个额度，较复杂的应用要 15 个以上。每周都要改网站的人得算一算；做一次、之后在编辑器里改文字和照片、不用提示词的人，不消耗额度。"
+          "**AI Builder 更占优**的情况：你不想安装也不想更新任何东西，想要一个带登录和数据的 Web 应用，这在 WordPress 里就是一堆插件。会改变决定的一点是：在 AI 模式下，每次修改都消耗额度。按页面所说，一个简单的介绍页消耗 5 到 10 个额度，较复杂的应用要 15 个以上。每周都要改网站的人得算一算。做一次、之后只在不用 AI 的模式的编辑器里改文字和照片的人，不消耗额度；在 AI 模式下，哪怕用 Select & edit 换一段文字或一张图片，也会消耗少量额度。"
         ]
       },
       {
@@ -146601,7 +146740,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款前要核对什么",
         "bullets": [
-          "**额度。**AI 模式每次请求都消耗额度，套餐里的余额不会每月重置。用 AI 搭好网站，文字和照片的调整在不消耗额度的编辑器里做。",
+          "**额度。**AI 模式每次请求都消耗额度，套餐里的余额不会每月重置。哪怕用 Select & edit 换一段文字或一张图片，也会消耗少量额度；只有不用 AI 的模式可以免费编辑。",
           "**不续费会怎样。**页面有提醒：套餐到期未续费，项目会下线，数据会被删除。别等到期，先导出代码。",
           "**30 天内可退款**，前提是你使用的 AI 额度少于 30 个。",
           "**网店**是 Unlimited 和 Cloud Startup 套餐的功能；按页面所说，Unlimited 有 3 个月免费。之后要花多少钱，请在结账页确认。",
@@ -146672,7 +146811,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "如果你想不写代码就做几页的网站、作品集、小店或简单 Web 应用，就选 AI Builder（原 Horizons）。",
         "如果你想把托管、域名和邮箱放在同一个套餐里，也接受由 AI 搭出第一版，就选它。",
-        "如果你打算做一次，之后在不消耗额度的编辑器里改文字和照片，就选它。"
+        "如果你打算做一次，之后在不用 AI 的模式里、不消耗额度的编辑器中改文字和照片，就选它。"
       ],
       "skipIf": [
         "如果项目依赖某个特定插件或你已有的主题，就别选，留在 WordPress。",
@@ -146717,6 +146856,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Horizons 已變成 AI Builder。值得用，還是選 WordPress？依專案類型整理的對照表，與 Wix、Lovable 的比較，以及 AI 額度。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-horizons-vale-a-pena-capa.webp",
@@ -146803,7 +146943,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "AI Builder 還是 WordPress",
         "paragraphs": [
-          "價格不是決定因素：在 Hostinger，AI Builder 包含在和 WordPress 同樣的主機方案裡，價格也一樣。不同的是誰來做事，以及你能控制什麼。"
+          "在 Hostinger，主機方案的價格不是決定因素：不用 AI 的模式包含在和 WordPress 同樣的主機方案裡，價格也一樣。AI 模式會消耗額度，要發布網站還需要有效的主機。不同的是誰來做事，以及你能控制什麼。"
         ],
         "comparisonTable": {
           "headers": [
@@ -146851,7 +146991,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "**WordPress 比較占優勢**的情況：專案依賴某個特定外掛、要用你已有的主題，或之後有人來維護網站。它是開源軟體：整個網站都屬於你，不用重做就能搬到任何主機。",
-          "**AI Builder 比較占優勢**的情況：你不想安裝也不想更新任何東西，想要一個有登入和資料的 Web 應用程式，這在 WordPress 裡就是一堆外掛。會改變決定的一點是：在 AI 模式下，每次修改都消耗額度。依頁面所說，一個簡單的介紹頁消耗 5 到 10 個額度，較複雜的應用程式要 15 個以上。每週都要改網站的人得算一算；做一次、之後在編輯器裡改文字和照片、不用提示詞的人，不消耗額度。"
+          "**AI Builder 比較占優勢**的情況：你不想安裝也不想更新任何東西，想要一個有登入和資料的 Web 應用程式，這在 WordPress 裡就是一堆外掛。會改變決定的一點是：在 AI 模式下，每次修改都消耗額度。依頁面所說，一個簡單的介紹頁消耗 5 到 10 個額度，較複雜的應用程式要 15 個以上。每週都要改網站的人得算一算。做一次、之後只在不用 AI 的模式的編輯器裡改文字和照片的人，不消耗額度；在 AI 模式下，就算用 Select & edit 換一段文字或一張圖片，也會消耗少量額度。"
         ]
       },
       {
@@ -146864,7 +147004,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "付款前要確認什麼",
         "bullets": [
-          "**額度。**AI 模式每次請求都消耗額度，方案裡的餘額不會每月重置。用 AI 搭好網站，文字和照片的調整在不消耗額度的編輯器裡做。",
+          "**額度。**AI 模式每次請求都消耗額度，方案裡的餘額不會每月重置。就算用 Select & edit 換一段文字或一張圖片，也會消耗少量額度；只有不用 AI 的模式可以免費編輯。",
           "**不續約會怎樣。**頁面有提醒：方案到期未續約，專案會下線，資料會被刪除。別等到期，先匯出程式碼。",
           "**30 天內可退款**，前提是你使用的 AI 額度少於 30 個。",
           "**網路商店**是 Unlimited 和 Cloud Startup 方案的功能；依頁面所說，Unlimited 有 3 個月免費。之後要花多少錢，請在結帳頁確認。",
@@ -146935,7 +147075,7 @@ export const reviewsData: unknown[] = [
       "takeIf": [
         "如果你想不寫程式就做幾頁的網站、作品集、小店或簡單 Web 應用程式，就選 AI Builder（原 Horizons）。",
         "如果你想把主機、網域和電子郵件放在同一個方案裡，也接受由 AI 搭出第一版，就選它。",
-        "如果你打算做一次，之後在不消耗額度的編輯器裡改文字和照片，就選它。"
+        "如果你打算做一次，之後在不用 AI 的模式裡、不消耗額度的編輯器中改文字和照片，就選它。"
       ],
       "skipIf": [
         "如果專案依賴某個特定外掛或你已有的主題，就別選，留在 WordPress。",
@@ -146980,6 +147120,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Comprar o domínio na Hostinger, registrar fora e apontar, ou transferir? Preço do .com.br e do .com com a renovação ao lado, regra dos 60 dias, quem é o dono e a checklist antes de pagar.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
@@ -147096,15 +147237,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Transferir: a regra dos 60 dias e o passo a passo",
         "paragraphs": [
-          "Transferir é mudar o registro do domínio de uma empresa para outra. A página de transferência da Hostinger diz que o site e o e-mail continuam funcionando durante o processo, e que os dados de propriedade não mudam. O que muda é quem cobra a renovação e onde você mexe no DNS.",
+          "Transferir é mudar o registro do domínio de uma empresa para outra. A página de transferência da Hostinger diz que ela move só o registro: site e e-mail ficam no provedor atual e continuam funcionando se você mantiver os nameservers atuais. Se escolher os da Hostinger, o que usa o DNS em outros provedores pode parar até você atualizar os registros. Os dados de propriedade não mudam. O que muda é quem cobra a renovação e onde você mexe no DNS.",
           "As regras, pela página da Hostinger:"
         ],
         "bullets": [
-          "**Idade do registro:** na maioria dos casos, o domínio precisa estar registrado há pelo menos 60 dias. Domínio novo na Hostinger também fica travado por 60 dias antes de poder sair.",
+          "**Idade do registro:** na maioria dos casos, o domínio precisa estar registrado há pelo menos 60 dias. Domínio novo na Hostinger também fica travado por 60 dias antes de poder sair. O prazo conta desde o registro ou a última transferência, e algumas extensões têm regras próprias.",
           "**Desbloqueio e código:** você destrava o domínio no painel do registrador atual e pega o código de autorização (EPP, ou código de transferência).",
           "**Confirmação:** depois de informar o código na Hostinger, chega um e-mail do registrador para confirmar. Sem a confirmação, a transferência não anda.",
           "**Prazo:** até sete dias; mais rápido se o registrador atual liberar logo e você confirmar o e-mail na hora.",
-          "**Preço:** não é grátis. Na maioria das extensões genéricas (.com, .net, .org), a taxa de transferência já inclui um ano a mais de registro, somado ao prazo que você já tinha."
+          "**Preço:** em geral não é grátis (com um plano de hospedagem elegível, pode ser). Se você incluir 1 ano de renovação no pagamento, ele soma um ano ao prazo que você já tinha, mas só em extensões selecionadas; no .br, o vencimento não muda."
         ],
         "postParagraphs": [
           "O passo a passo da página é o dos domínios genéricos, como o .com. O .com.br é administrado pelo Registro.br, e a Hostinger aparece como registrador credenciado para ele; antes de pedir o código de um .com.br, confira o procedimento no suporte da Hostinger, porque a transferência do .br tem caminho próprio.",
@@ -147120,7 +147261,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**A conta:** o domínio pertence à conta da Hostinger em que foi comprado. Use um e-mail que você controla, não o de um freelancer ou de uma agência. Quem registra no nome de outra pessoa depende dela para transferir depois.",
           "**A renovação:** a Hostinger recomenda deixar a renovação automática ligada. Domínio vencido derruba o site e o e-mail. Renovação de domínio não tem reembolso, então o cartão da conta precisa estar em dia.",
-          "**O reembolso do registro:** um registro novo só pode ser devolvido em 96 horas; o .com.br e os outros .br, em 168 horas. Depois disso, o domínio é seu até o fim do prazo pago, sem devolução."
+          "**O reembolso do registro:** um registro novo só pode ser devolvido em 96 horas, nas extensões que aceitam reembolso (várias extensões de país não aceitam); o .br, o .com.br e o .net.br, em 168 horas. Depois disso, o domínio é seu até o fim do prazo pago, sem devolução."
         ]
       },
       {
@@ -147128,7 +147269,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Veja a coluna da renovação, não só o primeiro ano. O domínio renova todo ano enquanto o site existir.",
           "No prazo de 3 anos, confira no carrinho o total dos três anos: a página mostra só o primeiro.",
-          "Se vai transferir, confira a data do registro: menos de 60 dias, a transferência não começa.",
+          "Se vai transferir, confira a data do registro e a da última transferência: menos de 60 dias, a transferência não começa.",
           "Compre na conta que vai ser sua, com um e-mail seu e a renovação automática ligada.",
           "Para .com.br, confira o caminho próprio da transferência do .br no suporte da Hostinger antes de comprar, se a ideia é sair um dia.",
           "Se o domínio veio com o plano de hospedagem, anote o preço de renovação do segundo ano: ele aparece antes de comprar.",
@@ -147140,7 +147281,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Compre na Hostinger** se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel. O .com.br renova a R$ 64,99 por ano e o .com a R$ 94,99, valores iguais ao primeiro ano cheio, sem salto no segundo ano.",
           "**Compre fora e aponte** se já tem domínio em outro registrador, se prefere separar as contas, ou se o preço de renovação de lá for menor: o Registro.br anuncia o .com.br a R$ 40 por ano. Apontar o DNS é um ajuste no painel, e o site funciona do mesmo jeito.",
-          "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Na maioria das extensões genéricas, a taxa de transferência inclui um ano a mais de registro, então ela não é dinheiro perdido.",
+          "**Transfira** só domínio com mais de 60 dias de registro e só se a renovação na Hostinger compensar o que você paga hoje. Nas extensões em que a transferência soma um ano ao registro, ela não é dinheiro perdido.",
           "Na dúvida, não transfira: aponte o domínio e deixe o registro onde está. Dá para transferir depois, e o site não para."
         ],
         "emphasis": "Se fosse para o meu site, eu levaria o registro junto da hospedagem, porque domínio e renovação ficam no mesmo painel."
@@ -147155,10 +147296,10 @@ export const reviewsData: unknown[] = [
         "heading": "Perguntas frequentes",
         "bullets": [
           "Quanto custa o domínio na Hostinger? O .com.br custa R$ 64,99 no primeiro ano, ou R$ 1 com prazo de 3 anos, e renova a R$ 64,99 por ano; o .com custa R$ 94,99, ou R$ 0,01 com prazo de 3 anos, e renova a R$ 94,99 por ano.",
-          "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro.",
+          "Posso trocar de hospedagem sem perder o domínio? Sim. O domínio é seu e fica na conta da Hostinger; você aponta o DNS para a nova hospedagem ou transfere o registro depois, respeitados os 60 dias desde o registro ou a última transferência.",
           "Domínio .com.br ou .com? O .com.br é a extensão do Brasil, administrada pelo Registro.br, e serve para quem fala com o público daqui; o .com é genérico e vale em qualquer país. Na Hostinger, o .com.br renova a R$ 64,99 e o .com a R$ 94,99 por ano.",
           "Preciso de domínio para ter e-mail? Sim. Para um endereço como voce@suaempresa.com.br, o domínio precisa existir; a hospedagem não é obrigatória, e a Hostinger diz que dá para usar o domínio só para e-mail ou para redirecionar para outro site.",
-          "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso.",
+          "Dá para transferir o domínio da Hostinger para outro registrador? Sim, depois de 60 dias do registro ou da última transferência: você destrava o domínio no painel, pega o código de autorização e confirma por e-mail no registrador novo. A transferência que dá certo não tem reembolso.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
       },
@@ -147172,11 +147313,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Leve o domínio na Hostinger se o site vai ficar hospedado nela e você quer domínio, DNS e renovação no mesmo painel.",
-        "Leve a transferência só se o domínio tem mais de 60 dias de registro e a renovação na Hostinger compensa o que você paga hoje."
+        "Leve a transferência só se o domínio tem mais de 60 dias de registro ou da última transferência e a renovação na Hostinger compensa o que você paga hoje."
       ],
       "skipIf": [
         "Passe se já tem domínio em outro registrador, prefere separar as contas ou a renovação de lá é menor: aponte o DNS e deixe o registro onde está.",
-        "Passe da transferência se o registro tem menos de 60 dias: ela não começa.",
+        "Passe da transferência se o registro ou a última transferência tem menos de 60 dias: ela não começa.",
         "Passe se o domínio ficaria no nome ou na conta de um freelancer ou de uma agência: use um e-mail que você controla."
       ]
     },
@@ -147239,6 +147380,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Buy the domain at Hostinger, register it elsewhere and point it, or transfer it? The 60-day rule, who owns it and the checklist before you pay.",
     "publishedAt": "October 28, 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -147317,15 +147459,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Transferring: the 60-day rule and the steps",
         "paragraphs": [
-          "Transferring means moving the domain registration from one company to another. Hostinger's transfer page says the site and email keep working during the process, and that the ownership data does not change. What changes is who charges the renewal and where you edit the DNS.",
+          "Transferring means moving the domain registration from one company to another. Hostinger's transfer page says it moves only the registration: the site and email stay with the current provider and keep working if you keep the current nameservers. If you switch to Hostinger's, anything that relies on DNS at other providers may stop until you update the records. The ownership data does not change. What changes is who charges the renewal and where you edit the DNS.",
           "The rules, according to Hostinger's page:"
         ],
         "bullets": [
-          "**Age of the registration:** in most cases, the domain must have been registered for at least 60 days. A new domain at Hostinger is also locked for 60 days before it can leave.",
+          "**Age of the registration:** in most cases, the domain must have been registered for at least 60 days. A new domain at Hostinger is also locked for 60 days before it can leave. The count runs from registration or the last transfer, and some extensions have their own rules.",
           "**Unlock and code:** you unlock the domain in your current registrar's panel and get the authorization code (EPP, or transfer code).",
           "**Confirmation:** after you enter the code at Hostinger, an email arrives from the registrar asking you to confirm. Without the confirmation, the transfer does not move.",
           "**Timing:** up to seven days; faster if the current registrar releases it quickly and you confirm the email right away.",
-          "**Price:** it is not free. On most generic extensions (.com, .net, .org), the transfer fee already includes an extra year of registration, added to the term you already had."
+          "**Price:** it is usually not free (it can be with an eligible hosting plan). If you add 1 year of renewal at checkout, it is added to the term you already had, but only on selected extensions; on some country-code extensions the expiry does not change."
         ],
         "postParagraphs": [
           "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock it in Hostinger's panel, get the code and confirm by email. A completed transfer is not refundable; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
@@ -147340,14 +147482,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**The account:** the domain belongs to the Hostinger account where it was bought. Use an email you control, not a freelancer's or an agency's. Whoever registers in someone else's name depends on that person to transfer it later.",
           "**The renewal:** Hostinger recommends leaving auto-renewal on. An expired domain takes down the site and the email. Domain renewal is not refundable, so the card on the account has to be up to date.",
-          "**The registration refund:** a new registration can only be refunded within 96 hours. After that, the domain is yours until the end of the paid term, with no refund."
+          "**The registration refund:** a new registration can only be refunded within 96 hours, and only on extensions that allow refunds (many country-code extensions do not). After that, the domain is yours until the end of the paid term, with no refund."
         ]
       },
       {
         "heading": "Checklist before you pay",
         "bullets": [
           "Look at the renewal column, not just the first year. The domain renews every year for as long as the site exists.",
-          "If you will transfer, check the registration date: under 60 days, the transfer does not start.",
+          "If you will transfer, check the registration date and the last transfer date: under 60 days, the transfer does not start.",
           "Buy on the account that will be yours, with your own email and auto-renewal on.",
           "If the domain came with the hosting plan, write down the second-year renewal price: it is shown before you buy.",
           "SONAR20 gives 20% off the hosting plan; on a standalone domain, the code does not work."
@@ -147358,7 +147500,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Buy at Hostinger** if the site will be hosted there and you want domain, DNS and renewal in the same panel; check the renewal before you pay.",
           "**Buy elsewhere and point it** if you already have a domain at another registrar, if you prefer to keep the accounts separate, or if the renewal price there is lower. Pointing the DNS is an adjustment in the panel, and the site works the same way.",
-          "**Transfer** only a domain with more than 60 days of registration and only if Hostinger's renewal is worth what you pay today. On most generic extensions, the transfer fee includes an extra year of registration, so it is not money lost.",
+          "**Transfer** only a domain with more than 60 days of registration and only if Hostinger's renewal is worth what you pay today. On extensions where the transfer adds a year of registration, it is not money lost.",
           "When in doubt, do not transfer: point the domain and leave the registration where it is. You can transfer later, and the site does not stop."
         ],
         "emphasis": "If it were for my site, I would keep the registration together with the hosting, because domain and renewal stay in the same panel."
@@ -147372,9 +147514,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Frequently asked questions",
         "bullets": [
-          "Can I change hosting without losing the domain? Yes. The domain is yours and stays in the Hostinger account; you point the DNS to the new hosting or transfer the registration later, once 60 days have passed since registration.",
+          "Can I change hosting without losing the domain? Yes. The domain is yours and stays in the Hostinger account; you point the DNS to the new hosting or transfer the registration later, once 60 days have passed since registration or the last transfer.",
           "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
-          "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded.",
+          "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration or since the last transfer: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
@@ -147410,11 +147552,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Take the domain at Hostinger if the site will be hosted there and you want domain, DNS and renewal in the same panel.",
-        "Take the transfer only if the domain has more than 60 days of registration and Hostinger's renewal is worth what you pay today."
+        "Take the transfer only if the domain has more than 60 days of registration or since the last transfer and Hostinger's renewal is worth what you pay today."
       ],
       "skipIf": [
         "Skip it if you already have a domain at another registrar, prefer to keep the accounts separate or the renewal there is lower: point the DNS and leave the registration where it is.",
-        "Skip the transfer if the registration is under 60 days old: it does not start.",
+        "Skip the transfer if the registration or last transfer is under 60 days old: it does not start.",
         "Skip it if the domain would be in the name or on the account of a freelancer or an agency: use an email you control."
       ]
     }
@@ -147455,6 +147597,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿Comprar el dominio en Hostinger, registrarlo fuera y apuntarlo, o transferirlo? La regla de los 60 días, quién es el dueño y la lista de revisión antes de pagar.",
     "publishedAt": "28 de octubre de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -147533,15 +147676,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Transferir: la regla de los 60 días y el paso a paso",
         "paragraphs": [
-          "Transferir es cambiar el registro del dominio de una empresa a otra. La página de transferencia de Hostinger dice que el sitio y el correo siguen funcionando durante el proceso, y que los datos de propiedad no cambian. Lo que cambia es quién cobra la renovación y dónde gestionas el DNS.",
+          "Transferir es cambiar el registro del dominio de una empresa a otra. La página de transferencia de Hostinger dice que solo mueve el registro: el sitio y el correo se quedan con el proveedor actual y siguen funcionando si mantienes los servidores de nombres actuales. Si eliges los de Hostinger, lo que dependa del DNS en otros proveedores puede dejar de funcionar hasta que actualices los registros. Los datos de propiedad no cambian. Lo que cambia es quién cobra la renovación y dónde gestionas el DNS.",
           "Las reglas, según la página de Hostinger:"
         ],
         "bullets": [
-          "**Antigüedad del registro:** en la mayoría de los casos, el dominio debe llevar registrado al menos 60 días. Un dominio nuevo en Hostinger también queda bloqueado 60 días antes de poder salir.",
+          "**Antigüedad del registro:** en la mayoría de los casos, el dominio debe llevar registrado al menos 60 días. Un dominio nuevo en Hostinger también queda bloqueado 60 días antes de poder salir. El plazo cuenta desde el registro o la última transferencia, y algunas extensiones tienen reglas propias.",
           "**Desbloqueo y código:** desbloqueas el dominio en el panel del registrador actual y obtienes el código de autorización (EPP, o código de transferencia).",
           "**Confirmación:** después de introducir el código en Hostinger, llega un correo del registrador para confirmar. Sin la confirmación, la transferencia no avanza.",
           "**Plazo:** hasta siete días; más rápido si el registrador actual lo libera pronto y confirmas el correo enseguida.",
-          "**Precio:** no es gratis. En la mayoría de las extensiones genéricas (.com, .net, .org), la tarifa de transferencia ya incluye un año más de registro, sumado al plazo que ya tenías."
+          "**Precio:** normalmente no es gratis (puede serlo con un plan de hosting elegible). Si añades 1 año de renovación al pagar, se suma al plazo que ya tenías, pero solo en extensiones seleccionadas; en algunas extensiones de país, el vencimiento no cambia."
         ],
         "postParagraphs": [
           "Transferir fuera de Hostinger sigue la misma lógica al revés: 60 días de registro, desbloquear en el panel de Hostinger, obtener el código y confirmar por correo. La transferencia que sale bien no tiene reembolso; mira [las reglas de reembolso y renovación de Hostinger](/es/reviews/hostinger-es-confiable)."
@@ -147556,14 +147699,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**La cuenta:** el dominio pertenece a la cuenta de Hostinger en que se compró. Usa un correo que controles, no el de un freelancer ni el de una agencia. Quien registra a nombre de otra persona depende de ella para transferirlo después.",
           "**La renovación:** Hostinger recomienda dejar la renovación automática activada. Un dominio caducado deja sin servicio el sitio y el correo. La renovación de un dominio no tiene reembolso, así que la tarjeta de la cuenta tiene que estar al día.",
-          "**El reembolso del registro:** un registro nuevo solo se puede devolver en 96 horas. Pasado ese plazo, el dominio es tuyo hasta el final del período pagado, sin devolución."
+          "**El reembolso del registro:** un registro nuevo solo se puede devolver en 96 horas, y solo en las extensiones que admiten reembolso (muchas extensiones de país no lo admiten). Pasado ese plazo, el dominio es tuyo hasta el final del período pagado, sin devolución."
         ]
       },
       {
         "heading": "Lista de revisión antes de pagar",
         "bullets": [
           "Mira la columna de la renovación, no solo el primer año. El dominio se renueva cada año mientras exista el sitio.",
-          "Si vas a transferir, revisa la fecha del registro: con menos de 60 días, la transferencia no empieza.",
+          "Si vas a transferir, revisa la fecha del registro y la de la última transferencia: con menos de 60 días, la transferencia no empieza.",
           "Compra en la cuenta que va a ser tuya, con un correo tuyo y la renovación automática activada.",
           "Si el dominio vino con el plan de hosting, anota el precio de renovación del segundo año: aparece antes de comprar.",
           "SONAR20 da 20% en el plan de hosting; en el dominio suelto, el código no vale."
@@ -147574,7 +147717,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Compra en Hostinger** si el sitio va a estar alojado ahí y quieres dominio, DNS y renovación en el mismo panel; revisa la renovación antes de pagar.",
           "**Compra fuera y apunta** si ya tienes un dominio en otro registrador, si prefieres separar las cuentas, o si el precio de renovación de allá es menor. Apuntar el DNS es un ajuste en el panel, y el sitio funciona igual.",
-          "**Transfiere** solo un dominio con más de 60 días de registro y solo si la renovación en Hostinger compensa lo que pagas hoy. En la mayoría de las extensiones genéricas, la tarifa de transferencia incluye un año más de registro, así que no es dinero perdido.",
+          "**Transfiere** solo un dominio con más de 60 días de registro y solo si la renovación en Hostinger compensa lo que pagas hoy. En las extensiones donde la transferencia suma un año de registro, no es dinero perdido.",
           "Ante la duda, no transfieras: apunta el dominio y deja el registro donde está. Se puede transferir después, y el sitio no se detiene."
         ],
         "emphasis": "Si fuera para mi sitio, llevaría el registro junto con el hosting, porque dominio y renovación quedan en el mismo panel."
@@ -147588,9 +147731,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Preguntas frecuentes",
         "bullets": [
-          "¿Puedo cambiar de hosting sin perder el dominio? Sí. El dominio es tuyo y queda en la cuenta de Hostinger; apuntas el DNS al nuevo hosting o transfieres el registro después, respetando los 60 días desde el registro.",
+          "¿Puedo cambiar de hosting sin perder el dominio? Sí. El dominio es tuyo y queda en la cuenta de Hostinger; apuntas el DNS al nuevo hosting o transfieres el registro después, respetando los 60 días desde el registro o la última transferencia.",
           "¿Necesito un dominio para tener correo? Sí. Para una dirección como tu@tuempresa.com, el dominio tiene que existir; el hosting no es obligatorio, y Hostinger dice que se puede usar el dominio solo para correo o para redirigir a otro sitio.",
-          "¿Se puede transferir el dominio de Hostinger a otro registrador? Sí, después de 60 días del registro: desbloqueas el dominio en el panel, obtienes el código de autorización y confirmas por correo en el nuevo registrador. La transferencia que sale bien no tiene reembolso.",
+          "¿Se puede transferir el dominio de Hostinger a otro registrador? Sí, después de 60 días del registro o de la última transferencia: desbloqueas el dominio en el panel, obtienes el código de autorización y confirmas por correo en el nuevo registrador. La transferencia que sale bien no tiene reembolso.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
@@ -147626,11 +147769,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Lleva el dominio en Hostinger si el sitio va a estar alojado ahí y quieres dominio, DNS y renovación en el mismo panel.",
-        "Lleva la transferencia solo si el dominio tiene más de 60 días de registro y la renovación en Hostinger compensa lo que pagas hoy."
+        "Lleva la transferencia solo si el dominio tiene más de 60 días de registro o desde la última transferencia y la renovación en Hostinger compensa lo que pagas hoy."
       ],
       "skipIf": [
         "Pasa si ya tienes un dominio en otro registrador, prefieres separar las cuentas o la renovación de allá es menor: apunta el DNS y deja el registro donde está.",
-        "Pasa de la transferencia si el registro tiene menos de 60 días: no empieza.",
+        "Pasa de la transferencia si el registro o la última transferencia tiene menos de 60 días: no empieza.",
         "Pasa si el dominio quedaría a nombre o en la cuenta de un freelancer o de una agencia: usa un correo que controles."
       ]
     }
@@ -147671,6 +147814,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Acheter le domaine chez Hostinger, l'enregistrer ailleurs et le pointer, ou le transférer ? La règle des 60 jours, qui en est propriétaire et la liste de vérifications avant de payer.",
     "publishedAt": "28 octobre 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -147749,15 +147893,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Transférer : la règle des 60 jours et la marche à suivre",
         "paragraphs": [
-          "Transférer, c'est changer l'enregistrement du domaine d'une entreprise à une autre. La page de transfert de Hostinger dit que le site et la messagerie continuent de fonctionner pendant la procédure, et que les données de propriété ne changent pas. Ce qui change, c'est qui facture le renouvellement et où vous modifiez le DNS.",
+          "Transférer, c'est changer l'enregistrement du domaine d'une entreprise à une autre. La page de transfert de Hostinger dit qu'il ne déplace que l'enregistrement : le site et la messagerie restent chez le prestataire actuel et continuent de fonctionner si vous gardez les serveurs de noms actuels. Si vous choisissez ceux de Hostinger, ce qui dépend du DNS chez d'autres prestataires peut s'arrêter jusqu'à la mise à jour des enregistrements. Les données de propriété ne changent pas. Ce qui change, c'est qui facture le renouvellement et où vous modifiez le DNS.",
           "Les règles, d'après la page de Hostinger :"
         ],
         "bullets": [
-          "**Ancienneté de l'enregistrement :** dans la plupart des cas, le domaine doit être enregistré depuis au moins 60 jours. Un domaine nouvellement enregistré chez Hostinger est lui aussi verrouillé 60 jours avant de pouvoir partir.",
+          "**Ancienneté de l'enregistrement :** dans la plupart des cas, le domaine doit être enregistré depuis au moins 60 jours. Un domaine nouvellement enregistré chez Hostinger est lui aussi verrouillé 60 jours avant de pouvoir partir. Le délai court depuis l'enregistrement ou le dernier transfert, et certaines extensions ont leurs propres règles.",
           "**Déverrouillage et code :** vous déverrouillez le domaine dans le panneau du registrar actuel et récupérez le code d'autorisation (EPP, ou code de transfert).",
           "**Confirmation :** après avoir saisi le code chez Hostinger, un e-mail du registrar arrive pour confirmer. Sans confirmation, le transfert n'avance pas.",
           "**Délai :** jusqu'à sept jours ; plus rapide si le registrar actuel le libère vite et que vous confirmez l'e-mail tout de suite.",
-          "**Prix :** ce n'est pas gratuit. Sur la plupart des extensions génériques (.com, .net, .org), les frais de transfert incluent déjà une année d'enregistrement en plus, ajoutée à la durée que vous aviez."
+          "**Prix :** ce n'est en général pas gratuit (cela peut l'être avec une offre d'hébergement éligible). Si vous ajoutez 1 an de renouvellement au paiement, il s'ajoute à la durée que vous aviez, mais seulement sur certaines extensions ; sur certaines extensions nationales, l'échéance ne change pas."
         ],
         "postParagraphs": [
           "Transférer hors de Hostinger suit la même logique à l'envers : 60 jours d'enregistrement, déverrouillage dans le panneau de Hostinger, récupération du code et confirmation par e-mail. Un transfert abouti n'est pas remboursé ; voyez [les règles de remboursement et de renouvellement de Hostinger](/fr/reviews/hostinger-est-il-fiable)."
@@ -147772,14 +147916,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Le compte :** le domaine appartient au compte Hostinger où il a été acheté. Utilisez un e-mail que vous contrôlez, pas celui d'un freelance ou d'une agence. Qui enregistre au nom d'une autre personne dépend d'elle pour le transférer ensuite.",
           "**Le renouvellement :** Hostinger recommande de laisser le renouvellement automatique activé. Un domaine expiré met le site et la messagerie hors service. Le renouvellement d'un domaine n'est pas remboursable, la carte du compte doit donc être à jour.",
-          "**Le remboursement de l'enregistrement :** un nouvel enregistrement ne peut être remboursé que dans les 96 heures. Passé ce délai, le domaine est à vous jusqu'à la fin de la durée payée, sans remboursement."
+          "**Le remboursement de l'enregistrement :** un nouvel enregistrement ne peut être remboursé que dans les 96 heures, et seulement sur les extensions remboursables (beaucoup d'extensions nationales ne le sont pas). Passé ce délai, le domaine est à vous jusqu'à la fin de la durée payée, sans remboursement."
         ]
       },
       {
         "heading": "Liste de vérifications avant de payer",
         "bullets": [
           "Regardez la colonne du renouvellement, pas seulement la première année. Le domaine se renouvelle chaque année tant que le site existe.",
-          "Si vous transférez, vérifiez la date d'enregistrement : moins de 60 jours, le transfert ne démarre pas.",
+          "Si vous transférez, vérifiez la date d'enregistrement et celle du dernier transfert : moins de 60 jours, le transfert ne démarre pas.",
           "Achetez sur le compte qui sera le vôtre, avec votre propre e-mail et le renouvellement automatique activé.",
           "Si le domaine est venu avec le forfait d'hébergement, notez le prix de renouvellement de la deuxième année : il s'affiche avant l'achat.",
           "SONAR20 donne 20 % sur le forfait d'hébergement ; pour un domaine seul, le code ne vaut pas."
@@ -147790,7 +147934,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Achetez chez Hostinger** si le site sera hébergé chez elle et que vous voulez domaine, DNS et renouvellement dans le même panneau ; vérifiez le renouvellement avant de payer.",
           "**Achetez ailleurs et pointez** si vous avez déjà un domaine chez un autre registrar, si vous préférez séparer les comptes, ou si le prix de renouvellement de là-bas est plus bas. Pointer le DNS est un réglage dans le panneau, et le site fonctionne de la même façon.",
-          "**Transférez** seulement un domaine de plus de 60 jours d'enregistrement, et seulement si le renouvellement chez Hostinger compense ce que vous payez aujourd'hui. Sur la plupart des extensions génériques, les frais de transfert incluent une année d'enregistrement en plus, ce n'est donc pas de l'argent perdu.",
+          "**Transférez** seulement un domaine de plus de 60 jours d'enregistrement, et seulement si le renouvellement chez Hostinger compense ce que vous payez aujourd'hui. Sur les extensions où le transfert ajoute une année d'enregistrement, ce n'est pas de l'argent perdu.",
           "Dans le doute, ne transférez pas : pointez le domaine et laissez l'enregistrement où il est. On peut transférer plus tard, et le site ne s'arrête pas."
         ],
         "emphasis": "Si c'était pour mon site, je garderais l'enregistrement avec l'hébergement, car domaine et renouvellement restent dans le même panneau."
@@ -147804,9 +147948,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Questions fréquentes",
         "bullets": [
-          "Puis-je changer d'hébergement sans perdre le domaine ? Oui. Le domaine est à vous et reste dans le compte Hostinger ; vous pointez le DNS vers le nouvel hébergement ou vous transférez l'enregistrement plus tard, en respectant les 60 jours depuis l'enregistrement.",
+          "Puis-je changer d'hébergement sans perdre le domaine ? Oui. Le domaine est à vous et reste dans le compte Hostinger ; vous pointez le DNS vers le nouvel hébergement ou vous transférez l'enregistrement plus tard, en respectant les 60 jours depuis l'enregistrement ou le dernier transfert.",
           "Ai-je besoin d'un domaine pour avoir une adresse e-mail ? Oui. Pour une adresse comme vous@votreentreprise.com, le domaine doit exister ; l'hébergement n'est pas obligatoire, et Hostinger dit qu'on peut utiliser le domaine uniquement pour la messagerie ou pour rediriger vers un autre site.",
-          "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours d'enregistrement : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé.",
+          "Peut-on transférer le domaine de Hostinger vers un autre registrar ? Oui, après 60 jours depuis l'enregistrement ou le dernier transfert : vous déverrouillez le domaine dans le panneau, récupérez le code d'autorisation et confirmez par e-mail chez le nouveau registrar. Un transfert abouti n'est pas remboursé.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
@@ -147842,11 +147986,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Prenez le domaine chez Hostinger si le site sera hébergé chez elle et que vous voulez domaine, DNS et renouvellement dans le même panneau.",
-        "Ne prenez le transfert que si le domaine a plus de 60 jours d'enregistrement et que le renouvellement chez Hostinger compense ce que vous payez aujourd'hui."
+        "Ne prenez le transfert que si le domaine a plus de 60 jours d'enregistrement ou depuis le dernier transfert et que le renouvellement chez Hostinger compense ce que vous payez aujourd'hui."
       ],
       "skipIf": [
         "Passez votre chemin si vous avez déjà un domaine chez un autre registrar, préférez séparer les comptes ou si le renouvellement de là-bas est moins cher : pointez le DNS et laissez l'enregistrement où il est.",
-        "Évitez le transfert si l'enregistrement a moins de 60 jours : il ne démarre pas.",
+        "Évitez le transfert si l'enregistrement ou le dernier transfert a moins de 60 jours : il ne démarre pas.",
         "Passez votre chemin si le domaine serait au nom ou sur le compte d'un freelance ou d'une agence : utilisez un e-mail que vous contrôlez."
       ]
     }
@@ -147888,6 +148032,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Comprare il dominio su Hostinger, registrarlo altrove e puntarlo, o trasferirlo? La regola dei 60 giorni, di chi è il dominio e la checklist prima di pagare.",
     "publishedAt": "28 ottobre 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
@@ -147965,15 +148110,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Trasferire: la regola dei 60 giorni e i passaggi",
         "paragraphs": [
-          "Trasferire significa spostare la registrazione del dominio da un'azienda a un'altra. La pagina di trasferimento di Hostinger dice che sito ed e-mail continuano a funzionare durante il processo e che i dati di proprietà non cambiano. Cambia chi addebita il rinnovo e dove modifichi il DNS.",
+          "Trasferire significa spostare la registrazione del dominio da un'azienda a un'altra. La pagina di trasferimento di Hostinger dice che sposta solo la registrazione: sito ed e-mail restano presso il fornitore attuale e continuano a funzionare se mantieni i nameserver attuali. Se scegli quelli di Hostinger, ciò che dipende dal DNS presso altri fornitori può smettere di funzionare finché non aggiorni i record. I dati di proprietà non cambiano. Cambia chi addebita il rinnovo e dove modifichi il DNS.",
           "Le regole, secondo la pagina di Hostinger:"
         ],
         "bullets": [
-          "**Età della registrazione:** nella maggior parte dei casi il dominio deve essere registrato da almeno 60 giorni. Anche un dominio nuovo su Hostinger resta bloccato per 60 giorni prima di poter uscire.",
+          "**Età della registrazione:** nella maggior parte dei casi il dominio deve essere registrato da almeno 60 giorni. Anche un dominio nuovo su Hostinger resta bloccato per 60 giorni prima di poter uscire. Il termine conta dalla registrazione o dall'ultimo trasferimento, e alcune estensioni hanno regole proprie.",
           "**Sblocco e codice:** sblocchi il dominio nel pannello del registrar attuale e prendi il codice di autorizzazione (EPP, o codice di trasferimento).",
           "**Conferma:** dopo aver inserito il codice su Hostinger, arriva un'e-mail del registrar per confermare. Senza la conferma, il trasferimento non va avanti.",
           "**Tempi:** fino a sette giorni; più veloce se il registrar attuale lo libera subito e confermi subito l'e-mail.",
-          "**Prezzo:** non è gratis. Nella maggior parte delle estensioni generiche (.com, .net, .org), la tariffa di trasferimento include già un anno in più di registrazione, che si somma alla durata che avevi."
+          "**Prezzo:** di solito non è gratis (può esserlo con un piano di hosting idoneo). Se aggiungi 1 anno di rinnovo al pagamento, si somma alla durata che avevi, ma solo su estensioni selezionate; su alcune estensioni nazionali la scadenza non cambia."
         ],
         "postParagraphs": [
           "Trasferire fuori da Hostinger segue la stessa logica al contrario: 60 giorni di registrazione, sblocco nel pannello di Hostinger, codice e conferma via e-mail. Il trasferimento andato a buon fine non è rimborsabile; vedi [le regole di rimborso e rinnovo di Hostinger](/it/reviews/hostinger-e-affidabile)."
@@ -147988,14 +148133,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**L'account:** il dominio appartiene all'account Hostinger in cui è stato acquistato. Usa un'e-mail che controlli, non quella di un freelance o di un'agenzia. Chi registra a nome di un'altra persona dipende da lei per trasferirlo poi.",
           "**Il rinnovo:** Hostinger consiglia di lasciare attivo il rinnovo automatico. Un dominio scaduto manda giù sito ed e-mail. Il rinnovo di un dominio non è rimborsabile, quindi la carta dell'account deve essere in regola.",
-          "**Il rimborso della registrazione:** una registrazione nuova può essere rimborsata solo entro 96 ore. Dopo, il dominio è tuo fino alla fine del periodo pagato, senza rimborso."
+          "**Il rimborso della registrazione:** una registrazione nuova può essere rimborsata solo entro 96 ore, e solo sulle estensioni che prevedono rimborso (molte estensioni nazionali non lo prevedono). Dopo, il dominio è tuo fino alla fine del periodo pagato, senza rimborso."
         ]
       },
       {
         "heading": "Checklist prima di pagare",
         "bullets": [
           "Guarda la colonna del rinnovo, non solo il primo anno. Il dominio si rinnova ogni anno finché il sito esiste.",
-          "Se devi trasferire, controlla la data della registrazione: sotto i 60 giorni il trasferimento non parte.",
+          "Se devi trasferire, controlla la data della registrazione e quella dell'ultimo trasferimento: sotto i 60 giorni il trasferimento non parte.",
           "Compra sull'account che sarà tuo, con un'e-mail tua e il rinnovo automatico attivo.",
           "Se il dominio è arrivato con il piano di hosting, annota il prezzo di rinnovo del secondo anno: compare prima dell'acquisto.",
           "SONAR20 dà il 20% sul piano di hosting; sul dominio singolo il codice non vale."
@@ -148006,7 +148151,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Compra su Hostinger** se il sito sarà ospitato lì e vuoi dominio, DNS e rinnovo nello stesso pannello; controlla il rinnovo prima di pagare.",
           "**Compra altrove e punta** se hai già un dominio presso un altro registrar, se preferisci tenere gli account separati, o se il prezzo di rinnovo di lì è più basso. Puntare il DNS è un'impostazione nel pannello, e il sito funziona allo stesso modo.",
-          "**Trasferisci** solo un dominio con più di 60 giorni di registrazione e solo se il rinnovo su Hostinger compensa quello che paghi oggi. Nella maggior parte delle estensioni generiche, la tariffa di trasferimento include un anno in più di registrazione, quindi non sono soldi persi.",
+          "**Trasferisci** solo un dominio con più di 60 giorni di registrazione e solo se il rinnovo su Hostinger compensa quello che paghi oggi. Nelle estensioni in cui il trasferimento aggiunge un anno di registrazione, non sono soldi persi.",
           "Nel dubbio, non trasferire: punta il dominio e lascia la registrazione dov'è. Si può trasferire dopo, e il sito non si ferma."
         ],
         "emphasis": "Se fosse per il mio sito, terrei la registrazione insieme all'hosting, perché dominio e rinnovo restano nello stesso pannello."
@@ -148020,9 +148165,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domande frequenti",
         "bullets": [
-          "Posso cambiare hosting senza perdere il dominio? Sì. Il dominio è tuo e resta nell'account Hostinger; punti il DNS al nuovo hosting o trasferisci la registrazione dopo, rispettando i 60 giorni dalla registrazione.",
+          "Posso cambiare hosting senza perdere il dominio? Sì. Il dominio è tuo e resta nell'account Hostinger; punti il DNS al nuovo hosting o trasferisci la registrazione dopo, rispettando i 60 giorni dalla registrazione o dall'ultimo trasferimento.",
           "Mi serve un dominio per avere l'e-mail? Sì. Per un indirizzo come tu@tuaazienda.com, il dominio deve esistere; l'hosting non è obbligatorio, e Hostinger dice che si può usare il dominio solo per l'e-mail o per reindirizzare a un altro sito.",
-          "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, dopo 60 giorni dalla registrazione: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile.",
+          "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, dopo 60 giorni dalla registrazione o dall'ultimo trasferimento: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
@@ -148058,11 +148203,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Prendi il dominio su Hostinger se il sito sarà ospitato lì e vuoi dominio, DNS e rinnovo nello stesso pannello.",
-        "Prendi il trasferimento solo se il dominio ha più di 60 giorni di registrazione e il rinnovo su Hostinger compensa quello che paghi oggi."
+        "Prendi il trasferimento solo se il dominio ha più di 60 giorni di registrazione o dall'ultimo trasferimento e il rinnovo su Hostinger compensa quello che paghi oggi."
       ],
       "skipIf": [
         "Lascia stare se hai già un dominio presso un altro registrar, preferisci tenere gli account separati o il rinnovo di lì è più basso: punta il DNS e lascia la registrazione dov'è.",
-        "Lascia stare il trasferimento se la registrazione ha meno di 60 giorni: non parte.",
+        "Lascia stare il trasferimento se la registrazione o l'ultimo trasferimento ha meno di 60 giorni: non parte.",
         "Lascia stare se il dominio resterebbe a nome o sull'account di un freelance o di un'agenzia: usa un'e-mail che controlli."
       ]
     }
@@ -148104,6 +148249,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Die Domain bei Hostinger kaufen, extern registrieren und verknüpfen, oder umziehen? Die 60-Tage-Regel, wem die Domain gehört und die Checkliste vor der Zahlung.",
     "publishedAt": "28. Oktober 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
@@ -148181,15 +148327,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Umziehen: die 60-Tage-Regel und die Schritte",
         "paragraphs": [
-          "Umziehen heißt, die Registrierung der Domain von einem Unternehmen zu einem anderen zu verlegen. Die Umzugsseite von Hostinger sagt, dass Website und E-Mail während des Vorgangs weiterlaufen und dass sich die Inhaberdaten nicht ändern. Es ändert sich, wer die Verlängerung berechnet und wo Sie das DNS bearbeiten.",
+          "Umziehen heißt, die Registrierung der Domain von einem Unternehmen zu einem anderen zu verlegen. Die Umzugsseite von Hostinger sagt, dass nur die Registrierung verlegt wird: Website und E-Mail bleiben beim bisherigen Anbieter und laufen weiter, wenn Sie die bisherigen Nameserver behalten. Wählen Sie die von Hostinger, kann alles, was bei anderen Anbietern am DNS hängt, ausfallen, bis Sie die Einträge aktualisieren. Die Inhaberdaten ändern sich nicht. Es ändert sich, wer die Verlängerung berechnet und wo Sie das DNS bearbeiten.",
           "Die Regeln laut der Seite von Hostinger:"
         ],
         "bullets": [
-          "**Alter der Registrierung:** In den meisten Fällen muss die Domain seit mindestens 60 Tagen registriert sein. Auch eine neue Domain bei Hostinger ist 60 Tage gesperrt, bevor sie wegziehen kann.",
+          "**Alter der Registrierung:** In den meisten Fällen muss die Domain seit mindestens 60 Tagen registriert sein. Auch eine neue Domain bei Hostinger ist 60 Tage gesperrt, bevor sie wegziehen kann. Die Frist zählt ab der Registrierung oder dem letzten Umzug, und manche Endungen haben eigene Regeln.",
           "**Entsperren und Code:** Sie entsperren die Domain im Panel des aktuellen Registrars und holen den Autorisierungscode (EPP- oder Auth-Code).",
           "**Bestätigung:** Nachdem Sie den Code bei Hostinger eingegeben haben, kommt eine E-Mail des Registrars zur Bestätigung. Ohne Bestätigung geht der Umzug nicht weiter.",
           "**Dauer:** bis zu sieben Tage; schneller, wenn der bisherige Registrar sie rasch freigibt und Sie die E-Mail sofort bestätigen.",
-          "**Preis:** Er ist nicht kostenlos. Bei den meisten generischen Endungen (.com, .net, .org) enthält die Umzugsgebühr bereits ein weiteres Registrierungsjahr, zusätzlich zur Laufzeit, die Sie schon hatten."
+          "**Preis:** Er ist meist nicht kostenlos (mit einem passenden Hosting-Tarif kann er es sein). Wenn Sie beim Bezahlen 1 Jahr Verlängerung hinzufügen, kommt es zur bisherigen Laufzeit dazu, aber nur bei ausgewählten Endungen; bei manchen länderspezifischen Endungen bleibt das Ablaufdatum gleich."
         ],
         "postParagraphs": [
           "Der Umzug weg von Hostinger folgt derselben Logik umgekehrt: 60 Tage Registrierung, im Panel von Hostinger entsperren, den Code holen und per E-Mail bestätigen. Ein gelungener Umzug wird nicht erstattet; siehe [die Erstattungs- und Verlängerungsregeln von Hostinger](/de/reviews/ist-hostinger-serioes)."
@@ -148204,14 +148350,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Das Konto:** Die Domain gehört zu dem Hostinger-Konto, in dem sie gekauft wurde. Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren, nicht die eines Freelancers oder einer Agentur. Wer auf den Namen einer anderen Person registriert, hängt später bei einem Umzug von ihr ab.",
           "**Die Verlängerung:** Hostinger empfiehlt, die automatische Verlängerung eingeschaltet zu lassen. Eine abgelaufene Domain legt Website und E-Mail lahm. Die Verlängerung einer Domain wird nicht erstattet, die Karte im Konto muss also aktuell sein.",
-          "**Die Erstattung der Registrierung:** Eine neue Registrierung kann nur innerhalb von 96 Stunden erstattet werden. Danach gehört Ihnen die Domain bis zum Ende der bezahlten Laufzeit, ohne Erstattung."
+          "**Die Erstattung der Registrierung:** Eine neue Registrierung kann nur innerhalb von 96 Stunden erstattet werden, und nur bei Endungen, die Erstattungen zulassen (viele länderspezifische Endungen tun das nicht). Danach gehört Ihnen die Domain bis zum Ende der bezahlten Laufzeit, ohne Erstattung."
         ]
       },
       {
         "heading": "Checkliste vor der Zahlung",
         "bullets": [
           "Schauen Sie auf die Spalte der Verlängerung, nicht nur aufs erste Jahr. Die Domain verlängert sich jedes Jahr, solange die Website existiert.",
-          "Wenn Sie umziehen wollen, prüfen Sie das Registrierungsdatum: unter 60 Tagen beginnt der Umzug nicht.",
+          "Wenn Sie umziehen wollen, prüfen Sie das Registrierungsdatum und das Datum des letzten Umzugs: unter 60 Tagen beginnt der Umzug nicht.",
           "Kaufen Sie in dem Konto, das Ihres sein wird, mit Ihrer eigenen E-Mail-Adresse und eingeschalteter automatischer Verlängerung.",
           "Wenn die Domain mit dem Hosting-Tarif kam, notieren Sie den Verlängerungspreis für das zweite Jahr: Er wird vor dem Kauf angezeigt.",
           "SONAR20 gibt 20 % auf den Hosting-Tarif; bei einer einzelnen Domain gilt der Code nicht."
@@ -148222,7 +148368,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Kaufen Sie bei Hostinger**, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen; prüfen Sie die Verlängerung vor der Zahlung.",
           "**Kaufen Sie extern und verknüpfen Sie**, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder der Verlängerungspreis dort niedriger ist. Das Umstellen des DNS ist eine Einstellung im Panel, und die Website funktioniert genauso.",
-          "**Ziehen Sie nur um**, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen. Bei den meisten generischen Endungen enthält die Umzugsgebühr ein weiteres Registrierungsjahr, es ist also kein verlorenes Geld.",
+          "**Ziehen Sie nur um**, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen. Bei Endungen, bei denen der Umzug ein Registrierungsjahr dazugibt, ist es kein verlorenes Geld.",
           "Im Zweifel ziehen Sie nicht um: Verknüpfen Sie die Domain und lassen Sie die Registrierung, wo sie ist. Umziehen kann man später, und die Website bleibt dabei online."
         ],
         "emphasis": "Wäre es für meine Website, würde ich die Registrierung zusammen mit dem Hosting nehmen, weil Domain und Verlängerung im selben Panel liegen."
@@ -148236,9 +148382,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Häufige Fragen",
         "bullets": [
-          "Kann man das Hosting wechseln, ohne die Domain zu verlieren? Ja. Die Domain gehört Ihnen und bleibt im Hostinger-Konto; Sie lassen das DNS auf das neue Hosting zeigen oder ziehen die Registrierung später um, sobald 60 Tage seit der Registrierung vergangen sind.",
+          "Kann man das Hosting wechseln, ohne die Domain zu verlieren? Ja. Die Domain gehört Ihnen und bleibt im Hostinger-Konto; Sie lassen das DNS auf das neue Hosting zeigen oder ziehen die Registrierung später um, sobald 60 Tage seit der Registrierung oder dem letzten Umzug vergangen sind.",
           "Braucht man eine Domain für E-Mail? Ja. Für eine Adresse wie sie@ihrefirma.com muss die Domain existieren; ein Hosting ist nicht nötig, und Hostinger sagt, dass man die Domain nur für E-Mail oder für die Weiterleitung auf eine andere Website nutzen kann.",
-          "Kann man die Domain von Hostinger zu einem anderen Registrar umziehen? Ja, nach 60 Tagen Registrierung: Sie entsperren die Domain im Panel, holen den Autorisierungscode und bestätigen per E-Mail beim neuen Registrar. Ein gelungener Umzug wird nicht erstattet.",
+          "Kann man die Domain von Hostinger zu einem anderen Registrar umziehen? Ja, nach 60 Tagen seit Registrierung oder letztem Umzug: Sie entsperren die Domain im Panel, holen den Autorisierungscode und bestätigen per E-Mail beim neuen Registrar. Ein gelungener Umzug wird nicht erstattet.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
@@ -148274,11 +148420,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "Nehmen Sie die Domain bei Hostinger, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen.",
-        "Nehmen Sie den Umzug nur, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen."
+        "Nehmen Sie den Umzug nur, wenn die Domain seit mehr als 60 Tagen registriert oder zuletzt umgezogen ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen."
       ],
       "skipIf": [
         "Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Stellen Sie das DNS um und lassen Sie die Registrierung, wo sie ist.",
-        "Lassen Sie den Umzug, wenn die Registrierung jünger als 60 Tage ist: Er beginnt nicht.",
+        "Lassen Sie den Umzug, wenn die Registrierung oder der letzte Umzug jünger als 60 Tage ist: Er beginnt nicht.",
         "Lassen Sie es, wenn die Domain auf den Namen oder im Konto eines Freelancers oder einer Agentur läge: Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren."
       ]
     }
@@ -148320,6 +148466,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "ドメインはHostingerで買う、別の場所で登録して向ける、それとも移管する？ 60日ルール、ドメインの所有者、支払う前のチェックリストをまとめました。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
@@ -148397,15 +148544,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "移管：60日ルールと手順",
         "paragraphs": [
-          "移管とは、ドメインの登録をある会社から別の会社に移すことです。Hostingerの移管ページは、手続き中もサイトとメールは動き続け、所有者情報は変わらないと書いています。変わるのは、更新料をどこに払うかと、DNSをどこで触るかです。",
+          "移管とは、ドメインの登録をある会社から別の会社に移すことです。Hostingerの移管ページによると、移るのは登録だけです。サイトとメールは今のプロバイダーに残り、今のネームサーバーのままなら動き続けます。Hostingerのネームサーバーに切り替えると、他社のDNSに頼るサービスは、レコードを更新するまで止まることがあります。所有者情報は変わりません。変わるのは、更新料をどこに払うかと、DNSをどこで触るかです。",
           "Hostingerのページによるルールは次の通りです。"
         ],
         "bullets": [
-          "**登録からの日数：** ほとんどの場合、ドメインは登録から60日以上たっている必要があります。Hostingerで新しく登録したドメインも、出ていけるようになるまで60日間ロックされます。",
+          "**登録からの日数：** ほとんどの場合、ドメインは登録から60日以上たっている必要があります。Hostingerで新しく登録したドメインも、出ていけるようになるまで60日間ロックされます。この日数は登録または前回の移管から数え、拡張子によっては独自の規則があります。",
           "**ロック解除とコード：** 今のレジストラの管理画面でドメインのロックを解除し、認証コード（EPPコード、移管コード）を取得します。",
           "**確認：** Hostingerでコードを入力すると、レジストラから確認のメールが届きます。確認しないと移管は進みません。",
           "**期間：** 最長7日。今のレジストラがすぐに承認し、あなたがメールをすぐ確認すれば、もっと早く終わります。",
-          "**料金：** 無料ではありません。ほとんどの汎用拡張子（.com、.net、.org）では、移管料金に登録期間1年分が含まれ、それまでの期間に加算されます。"
+          "**料金：** たいてい無料ではありません（対象のホスティングプランがあれば無料になることもあります）。支払い時に更新1年分を追加すると、それまでの期間に加算されますが、対象は一部の拡張子だけで、国別の拡張子には期限が変わらないものもあります。"
         ],
         "postParagraphs": [
           "Hostingerから外へ移管する場合も、同じ流れを逆にたどります。登録から60日、Hostingerの管理画面でロック解除、コードの取得、メールで確認。成立した移管は返金されません。[Hostingerの返金と更新のルール](/ja/reviews/hostinger-trust-guide-ja)を見てください。"
@@ -148420,14 +148567,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**アカウント：** ドメインは、それを買ったHostingerのアカウントに属します。フリーランスや代理店のメールではなく、あなたが管理するメールアドレスを使ってください。他人の名前で登録すると、あとで移管するときにその人に頼ることになります。",
           "**更新：** Hostingerは自動更新をオンにしておくことを勧めています。期限切れのドメインはサイトとメールを止めます。ドメインの更新は返金されないので、アカウントのカードを有効にしておく必要があります。",
-          "**登録の返金：** 新規登録は96時間以内だけ返金できます。それ以降、ドメインは支払った期間の終わりまであなたのもので、返金はありません。"
+          "**登録の返金：** 新規登録は96時間以内だけ、それも返金に対応する拡張子に限り返金できます（国別の拡張子には対応しないものが多くあります）。それ以降、ドメインは支払った期間の終わりまであなたのもので、返金はありません。"
         ]
       },
       {
         "heading": "支払う前のチェックリスト",
         "bullets": [
           "初年度だけでなく更新の列を見てください。ドメインはサイトがある限り毎年更新されます。",
-          "移管するなら登録日を確認してください。60日未満だと移管は始まりません。",
+          "移管するなら登録日と前回の移管日を確認してください。60日未満だと移管は始まりません。",
           "自分のものになるアカウントで、自分のメールアドレスを使い、自動更新をオンにして買ってください。",
           "ホスティングプランにドメインが付いてきたなら、2年目の更新料をメモしてください。購入前に表示されます。",
           "SONAR20はホスティングプランに20%の割引です。ドメイン単独の購入では、コードは使えません。"
@@ -148438,7 +148585,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Hostingerで買う**のは、サイトをHostingerでホスティングする予定で、ドメイン、DNS、更新を1つの管理画面にまとめたい場合です。支払う前に更新料を確認してください。",
           "**別の場所で買って向ける**のは、すでに別のレジストラにドメインがある場合、契約を分けたい場合、またはそちらの更新料のほうが安い場合です。DNSを向けるのは管理画面での設定で、サイトは同じように動きます。",
-          "**移管する**のは、登録から60日以上たったドメインだけにして、Hostingerでの更新料が今払っている額に見合うときだけにしてください。ほとんどの汎用拡張子では、移管料金に登録1年分が含まれているので、お金を捨てることにはなりません。",
+          "**移管する**のは、登録から60日以上たったドメインだけにして、Hostingerでの更新料が今払っている額に見合うときだけにしてください。移管で登録が1年分延びる拡張子なら、お金を捨てることにはなりません。",
           "迷ったら移管せず、ドメインを向けて、登録は今の場所に置いておいてください。移管はあとでもできますし、サイトは止まりません。"
         ],
         "emphasis": "自分のサイトなら、ドメインと更新が同じ管理画面に収まるので、登録もホスティングと一緒にします。"
@@ -148452,9 +148599,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "よくある質問",
         "bullets": [
-          "ホスティングを変えてもドメインを失わずにすみますか？ はい。ドメインはあなたのもので、Hostingerのアカウントに残ります。新しいホスティングにDNSを向けるか、登録から60日がたったあとで登録を移管します。",
+          "ホスティングを変えてもドメインを失わずにすみますか？ はい。ドメインはあなたのもので、Hostingerのアカウントに残ります。新しいホスティングにDNSを向けるか、登録または前回の移管から60日がたったあとで登録を移管します。",
           "メールを使うのにドメインは必要ですか？ はい。you@yourcompany.comのようなアドレスには、ドメインが必要です。ホスティングは必須ではなく、Hostingerは、ドメインをメール専用にしたり、別のサイトへの転送だけに使ったりできると書いています。",
-          "Hostingerのドメインをほかのレジストラへ移管できますか？ はい、登録から60日がたてば可能です。管理画面でドメインのロックを解除し、認証コードを取得して、新しいレジストラでメールにより確認します。成立した移管は返金されません。",
+          "Hostingerのドメインをほかのレジストラへ移管できますか？ はい、登録または前回の移管から60日がたてば可能です。管理画面でドメインのロックを解除し、認証コードを取得して、新しいレジストラでメールにより確認します。成立した移管は返金されません。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
@@ -148490,11 +148637,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "ドメインをHostingerに置くのは、サイトをHostingerでホスティングし、ドメイン、DNS、更新を1つの管理画面にまとめたい場合です。",
-        "移管するのは、ドメインの登録から60日以上たち、Hostingerでの更新料が今払っている額に見合う場合だけです。"
+        "移管するのは、ドメインの登録または前回の移管から60日以上たち、Hostingerでの更新料が今払っている額に見合う場合だけです。"
       ],
       "skipIf": [
         "すでに別のレジストラにドメインがある、契約を分けたい、またはそちらの更新料のほうが安いなら、見送ってください。DNSを向けて、登録は今の場所に置いておきます。",
-        "登録から60日未満なら、移管は見送ってください。移管は始まりません。",
+        "登録または前回の移管から60日未満なら、移管は見送ってください。移管は始まりません。",
         "ドメインがフリーランスや代理店の名前やアカウントになるなら、見送ってください。あなたが管理するメールアドレスを使います。"
       ]
     }
@@ -148535,6 +148682,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "도메인은 Hostinger에서 살까요, 다른 곳에 등록하고 연결할까요, 아니면 이전할까요? 60일 규칙, 도메인의 소유자, 결제 전 체크리스트를 정리했습니다.",
     "publishedAt": "2026년 10월 28일",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -148613,15 +148761,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "이전: 60일 규칙과 절차",
         "paragraphs": [
-          "이전은 도메인 등록을 한 회사에서 다른 회사로 옮기는 것입니다. Hostinger의 이전 페이지는 그 과정에서 사이트와 이메일이 계속 작동하고, 소유 정보도 바뀌지 않는다고 말합니다. 바뀌는 것은 갱신 요금을 청구하는 곳과 DNS를 관리하는 곳입니다.",
+          "이전은 도메인 등록을 한 회사에서 다른 회사로 옮기는 것입니다. Hostinger의 이전 페이지에 따르면 옮겨지는 것은 등록뿐입니다. 사이트와 이메일은 현재 제공업체에 남고, 기존 네임서버를 유지하면 계속 작동합니다. Hostinger 네임서버를 고르면 다른 업체의 DNS에 의존하는 서비스는 레코드를 업데이트할 때까지 멈출 수 있습니다. 소유 정보는 바뀌지 않습니다. 바뀌는 것은 갱신 요금을 청구하는 곳과 DNS를 관리하는 곳입니다.",
           "Hostinger 페이지의 규칙입니다."
         ],
         "bullets": [
-          "**등록 기간:** 대부분의 경우 도메인이 등록된 지 최소 60일이 지나야 합니다. Hostinger에서 새로 등록한 도메인도 60일 동안은 나갈 수 없습니다.",
+          "**등록 후 경과일:** 대부분의 경우 도메인이 등록된 지 최소 60일이 지나야 합니다. Hostinger에서 새로 등록한 도메인도 60일 동안은 이전할 수 없습니다. 기간은 등록일 또는 마지막 이전일부터 세고, 확장자에 따라 자체 규칙이 있을 수 있습니다.",
           "**잠금 해제와 코드:** 현재 등록 기관의 패널에서 도메인 잠금을 풀고 인증 코드(EPP 코드, 또는 이전 코드)를 받습니다.",
           "**확인:** Hostinger에 코드를 입력하면 등록 기관에서 확인 이메일이 옵니다. 확인하지 않으면 이전은 진행되지 않습니다.",
           "**소요 시간:** 최대 7일. 현재 등록 기관이 빨리 승인하고 이메일을 바로 확인하면 더 빨라집니다.",
-          "**비용:** 무료가 아닙니다. 대부분의 일반 확장자(.com, .net, .org)에서는 이전 비용에 1년 등록이 추가로 포함되어 기존 기간에 더해집니다."
+          "**비용:** 보통 무료가 아닙니다(대상 호스팅 플랜이 있으면 무료일 수 있습니다). 결제할 때 1년 갱신을 추가하면 기존 기간에 더해지지만, 일부 확장자에서만 가능하고 국가별 확장자 중에는 만료일이 그대로인 것도 있습니다."
         ],
         "postParagraphs": [
           "Hostinger에서 다른 곳으로 이전하는 것도 같은 순서를 거꾸로 따릅니다. 등록 후 60일, Hostinger 패널에서 잠금 해제, 코드 받기, 이메일로 확인. 성공한 이전은 환불되지 않습니다. [Hostinger의 환불 및 갱신 규칙](/ko/reviews/hostinger-trust-guide-ko)을 확인하세요."
@@ -148636,14 +148784,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**계정:** 도메인은 구매한 Hostinger 계정에 속합니다. 프리랜서나 대행사의 이메일이 아니라 본인이 관리하는 이메일을 쓰세요. 다른 사람 이름으로 등록하면 나중에 이전할 때 그 사람에게 의존하게 됩니다.",
           "**갱신:** Hostinger는 자동 갱신을 켜 두라고 권합니다. 만료된 도메인은 사이트와 이메일을 멈춥니다. 도메인 갱신은 환불되지 않으므로 계정의 카드가 유효해야 합니다.",
-          "**등록 환불:** 신규 등록은 96시간 안에만 환불할 수 있습니다. 그 뒤로는 결제한 기간이 끝날 때까지 도메인은 본인 것이고, 환불은 없습니다."
+          "**등록 환불:** 신규 등록은 96시간 안에만, 그것도 환불을 허용하는 확장자에서만 환불할 수 있습니다(국가별 확장자 중에는 환불이 안 되는 것이 많습니다). 그 뒤로는 결제한 기간이 끝날 때까지 도메인은 본인 것이고, 환불은 없습니다."
         ]
       },
       {
         "heading": "결제 전 체크리스트",
         "bullets": [
           "첫해만 보지 말고 갱신 요금을 보세요. 도메인은 사이트가 있는 동안 매년 갱신됩니다.",
-          "이전할 계획이면 등록일을 확인하세요. 60일이 안 됐으면 이전이 시작되지 않습니다.",
+          "이전할 계획이면 등록일과 마지막 이전일을 확인하세요. 60일이 안 됐으면 이전이 시작되지 않습니다.",
           "자신 소유가 될 계정에서, 본인 이메일로 구매하고 자동 갱신을 켜 두세요.",
           "도메인이 호스팅 플랜에 포함되어 있다면 2년째 갱신 요금을 메모하세요. 구매 전에 표시됩니다.",
           "SONAR20은 호스팅 플랜에 20% 할인을 줍니다. 도메인 단독 구매에는 코드가 적용되지 않습니다."
@@ -148654,7 +148802,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "사이트를 Hostinger에서 호스팅할 예정이고, 도메인, DNS, 갱신을 한 패널에서 관리하고 싶다면 **Hostinger에서 구매하세요**. 결제 전에 갱신 요금을 확인하세요.",
           "이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴하다면 **다른 곳에서 구매하고 연결하세요**. DNS 연결은 패널에서 설정하는 일이고, 사이트는 똑같이 작동합니다.",
-          "등록한 지 60일이 넘은 도메인만, 그리고 Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 **이전하세요**. 대부분의 일반 확장자에서는 이전 비용에 1년 등록이 포함되므로 돈을 버리는 것이 아닙니다.",
+          "등록한 지 60일이 넘은 도메인만, 그리고 Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 **이전하세요**. 이전하면 등록이 1년 늘어나는 확장자라면 돈을 버리는 것이 아닙니다.",
           "잘 모르겠다면 이전하지 마세요. 도메인을 연결하고 등록은 지금 있는 곳에 두세요. 나중에 이전할 수 있고, 사이트는 멈추지 않습니다."
         ],
         "emphasis": "제 사이트라면 도메인과 갱신이 한 패널에 있으니 등록도 호스팅과 함께 두는 쪽을 고를 것입니다."
@@ -148668,9 +148816,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "자주 묻는 질문",
         "bullets": [
-          "도메인을 잃지 않고 호스팅을 바꿀 수 있나요? 네. 도메인은 본인 것이고 Hostinger 계정에 남습니다. 새 호스팅으로 DNS를 연결하거나, 등록 후 60일이 지난 다음 등록을 이전하면 됩니다.",
+          "도메인을 잃지 않고 호스팅을 바꿀 수 있나요? 네. 도메인은 본인 것이고 Hostinger 계정에 남습니다. 새 호스팅으로 DNS를 연결하거나, 등록 또는 마지막 이전 후 60일이 지난 다음 등록을 이전하면 됩니다.",
           "이메일을 쓰려면 도메인이 필요한가요? 네. you@yourcompany.com 같은 주소에는 도메인이 있어야 합니다. 호스팅은 필수가 아니며, Hostinger는 도메인을 이메일 전용으로 쓰거나 다른 사이트로 연결하는 용도로만 쓸 수 있다고 말합니다.",
-          "Hostinger 도메인을 다른 등록 기관으로 이전할 수 있나요? 네, 등록 후 60일이 지나면 가능합니다. 패널에서 도메인 잠금을 풀고, 인증 코드를 받아, 새 등록 기관에서 이메일로 확인합니다. 성공한 이전은 환불되지 않습니다.",
+          "Hostinger 도메인을 다른 등록 기관으로 이전할 수 있나요? 네, 등록 또는 마지막 이전 후 60일이 지나면 가능합니다. 패널에서 도메인 잠금을 풀고, 인증 코드를 받아, 새 등록 기관에서 이메일로 확인합니다. 성공한 이전은 환불되지 않습니다.",
           "SONAR20은 Hostinger의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
@@ -148706,11 +148854,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "사이트를 Hostinger에서 호스팅하고 도메인, DNS, 갱신을 한 패널에서 관리하고 싶다면 도메인을 Hostinger에 두세요.",
-        "이전은 도메인을 등록한 지 60일이 넘었고, Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 하세요."
+        "이전은 도메인을 등록하거나 마지막으로 이전한 지 60일이 넘었고, Hostinger의 갱신 요금이 지금 내는 금액보다 나을 때만 하세요."
       ],
       "skipIf": [
         "이미 다른 등록 기관에 도메인이 있거나, 계정을 나누고 싶거나, 그쪽 갱신 요금이 더 저렴하다면 넘기세요. DNS를 연결하고 등록은 지금 있는 곳에 두세요.",
-        "등록한 지 60일이 안 됐다면 이전은 넘기세요. 이전이 시작되지 않습니다.",
+        "등록하거나 마지막으로 이전한 지 60일이 안 됐다면 이전은 넘기세요. 이전이 시작되지 않습니다.",
         "도메인이 프리랜서나 대행사의 이름이나 계정에 들어가게 된다면 넘기세요. 본인이 관리하는 이메일을 쓰세요."
       ]
     }
@@ -148751,6 +148899,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "域名是在 Hostinger 买、在别处注册再指向，还是转入？60 天规则、域名归谁、付款前的清单，一次说清。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -148829,15 +148978,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "转入：60 天规则与步骤",
         "paragraphs": [
-          "转入是把域名的注册从一家公司换到另一家。Hostinger 的转移页面说，过程中网站和邮箱照常运行，所有权信息也不变。变的是谁来收续费，以及你在哪里管理 DNS。",
+          "转入是把域名的注册从一家公司换到另一家。Hostinger 的转移页面说，转的只是注册：网站和邮箱留在原服务商，只要保留现有域名服务器就照常运行。如果改用 Hostinger 的域名服务器，依赖其他服务商 DNS 的服务可能会中断，直到你更新记录。所有权信息不变。变的是谁来收续费，以及你在哪里管理 DNS。",
           "规则如下，依据 Hostinger 的页面："
         ],
         "bullets": [
-          "**注册时长：**多数情况下，域名需注册满 60 天。在 Hostinger 新注册的域名同样要锁 60 天才能转出。",
+          "**注册后天数：**多数情况下，域名需注册满 60 天。在 Hostinger 新注册的域名同样要锁 60 天才能转出。天数从注册或上次转移起算，部分后缀另有规定。",
           "**解锁与代码：**在现有注册商的面板解锁域名，取得授权码（EPP 码，或叫转移码）。",
           "**确认：**在 Hostinger 填入代码后，注册商会发一封确认邮件。不确认，转移就不会进行。",
           "**时间：**最多七天；如果现有注册商很快放行、你也马上确认邮件，会更快。",
-          "**费用：**不是免费的。多数通用后缀（.com、.net、.org）的转入费已包含额外一年注册，加在你原有的期限上。"
+          "**费用：**通常不是免费的（有符合条件的主机套餐时可能免费）。付款时加上 1 年续费，会加在你原有的期限上，但只限部分后缀；有些国家和地区后缀的到期日不变。"
         ],
         "postParagraphs": [
           "从 Hostinger 转出遵循同样的逻辑，只是反过来：注册满 60 天、在 Hostinger 面板解锁、取得代码、用邮件确认。成功的转移不退款；请看 [Hostinger 的退款与续费规则](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。"
@@ -148852,14 +149001,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**账户：**域名属于购买它的那个 Hostinger 账户。用你自己掌控的邮箱，不要用自由职业者或代理公司的。以别人名义注册的话，日后转移要靠对方。",
           "**续费：**Hostinger 建议开着自动续费。域名过期会让网站和邮箱一起停摆。域名续费不退款，所以账户里的银行卡要保持有效。",
-          "**注册退款：**新注册只能在 96 小时内退款。之后直到已付期限结束，域名都是你的，但不能退。"
+          "**注册退款：**新注册只能在 96 小时内退款，而且只限支持退款的后缀（许多国家和地区后缀不支持）。之后直到已付期限结束，域名都是你的，但不能退。"
         ]
       },
       {
         "heading": "付款前的清单",
         "bullets": [
           "看续费那一项，不要只看第一年。只要网站还在，域名就要年年续费。",
-          "打算转入的话，先看注册日期：不满 60 天，转移不会开始。",
+          "打算转入的话，先看注册日期和上次转移日期：不满 60 天，转移不会开始。",
           "在将来属于你的账户里购买，用你自己的邮箱，并开着自动续费。",
           "如果域名是随主机套餐附带的，记下第二年的续费价：下单前就会显示。",
           "SONAR20 对主机套餐优惠 20%；单买域名时，代码不适用。"
@@ -148870,7 +149019,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**在 Hostinger 买**：网站打算放在 Hostinger，并想把域名、DNS 和续费放在同一个面板。付款前先确认续费价。",
           "**在别处买再指向**：已经在别的注册商有域名，想把账户分开，或者那边的续费价更低。把 DNS 指向新地址只是面板里的一项设置，网站照常运行。",
-          "**转入**：只限注册满 60 天的域名，而且只在 Hostinger 的续费价比你现在付的划算时才转。多数通用后缀的转入费包含额外一年注册，所以这笔钱不算白花。",
+          "**转入**：只限注册满 60 天的域名，而且只在 Hostinger 的续费价比你现在付的划算时才转。转入能多出一年注册的后缀，这笔钱不算白花。",
           "拿不准就别转：把域名指向新主机，注册留在原处。以后随时可以转，网站不会中断。"
         ],
         "emphasis": "如果是我自己的网站，我会把注册和主机放在一起，因为域名和续费都在同一个面板。"
@@ -148884,9 +149033,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常见问题",
         "bullets": [
-          "换主机会丢域名吗？不会。域名是你的，留在 Hostinger 账户里；你可以把 DNS 指向新主机，或在注册满 60 天后再转移注册。",
+          "换主机会丢域名吗？不会。域名是你的，留在 Hostinger 账户里；你可以把 DNS 指向新主机，或在注册或上次转移满 60 天后再转移注册。",
           "用邮箱一定要有域名吗？要。像 you@yourcompany.com 这样的地址，域名必须存在；主机不是必需的，Hostinger 说域名可以只用于邮箱，或只用来跳转到另一个网站。",
-          "可以把 Hostinger 的域名转到别的注册商吗？可以，注册满 60 天后：在面板里解锁域名，取得授权码，再到新注册商用邮件确认。成功的转移不退款。",
+          "可以把 Hostinger 的域名转到别的注册商吗？可以，注册或上次转移满 60 天后：在面板里解锁域名，取得授权码，再到新注册商用邮件确认。成功的转移不退款。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
@@ -148922,11 +149071,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "网站打算放在 Hostinger，并想把域名、DNS 和续费放在同一个面板，就把域名放在 Hostinger。",
-        "只有在域名注册满 60 天，且 Hostinger 的续费价比你现在付的划算时，才转入。"
+        "只有在域名注册或上次转移满 60 天，且 Hostinger 的续费价比你现在付的划算时，才转入。"
       ],
       "skipIf": [
         "如果已经在别的注册商有域名、想把账户分开，或者那边续费更低，就不必转：把 DNS 指向新地址，注册留在原处。",
-        "如果注册不满 60 天，就先别转：转移不会开始。",
+        "如果注册或上次转移不满 60 天，就先别转：转移不会开始。",
         "如果域名会落在自由职业者或代理公司的名下或账户里，就先别买：用你自己掌控的邮箱。"
       ]
     }
@@ -148967,6 +149116,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "網域是在 Hostinger 買、在別處註冊再指向，還是轉入？60 天規則、網域歸誰、付款前的清單，一次說清。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -149045,15 +149195,15 @@ export const reviewsData: unknown[] = [
       {
         "heading": "轉入：60 天規則與步驟",
         "paragraphs": [
-          "轉入是把網域的註冊從一家公司換到另一家。Hostinger 的轉移頁面說，過程中網站和電子郵件照常運作，所有權資料也不變。變的是誰來收續訂費，以及你在哪裡管理 DNS。",
+          "轉入是把網域的註冊從一家公司換到另一家。Hostinger 的轉移頁面說，轉的只是註冊：網站和電子郵件留在原服務商，只要保留現有名稱伺服器就照常運作。如果改用 Hostinger 的名稱伺服器，依賴其他服務商 DNS 的服務可能會中斷，直到你更新記錄。所有權資料不變。變的是誰來收續訂費，以及你在哪裡管理 DNS。",
           "規則如下，依據 Hostinger 的頁面："
         ],
         "bullets": [
-          "**註冊時長：**多數情況下，網域需註冊滿 60 天。在 Hostinger 新註冊的網域同樣要鎖 60 天才能轉出。",
+          "**註冊後天數：**多數情況下，網域需註冊滿 60 天。在 Hostinger 新註冊的網域同樣要鎖 60 天才能轉出。天數從註冊或上次轉移起算，部分後綴另有規定。",
           "**解鎖與代碼：**在現有註冊商的控制台解鎖網域，取得授權碼（EPP 碼，或叫轉移碼）。",
           "**確認：**在 Hostinger 填入代碼後，註冊商會寄一封確認信。不確認，轉移就不會進行。",
           "**時間：**最多七天；如果現有註冊商很快放行、你也馬上確認信件，會更快。",
-          "**費用：**不是免費的。多數通用後綴（.com、.net、.org）的轉入費已包含額外一年註冊，加在你原有的期限上。"
+          "**費用：**通常不是免費的（有符合條件的主機方案時可能免費）。付款時加上 1 年續訂，會加在你原有的期限上，但只限部分後綴；有些國家和地區後綴的到期日不變。"
         ],
         "postParagraphs": [
           "從 Hostinger 轉出遵循同樣的邏輯，只是反過來：註冊滿 60 天、在 Hostinger 控制台解鎖、取得代碼、用電子郵件確認。成功的轉移不退款；請看 [Hostinger 的退款與續訂規則](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。"
@@ -149068,14 +149218,14 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**帳戶：**網域屬於購買它的那個 Hostinger 帳戶。用你自己掌控的電子郵件，不要用接案者或代理公司的。以別人名義註冊的話，日後轉移要靠對方。",
           "**續訂：**Hostinger 建議開著自動續訂。網域過期會讓網站和電子郵件一起停擺。網域續訂不退款，所以帳戶裡的信用卡要保持有效。",
-          "**註冊退款：**新註冊只能在 96 小時內退款。之後直到已付期限結束，網域都是你的，但不能退。"
+          "**註冊退款：**新註冊只能在 96 小時內退款，而且只限支援退款的後綴（許多國家和地區後綴不支援）。之後直到已付期限結束，網域都是你的，但不能退。"
         ]
       },
       {
         "heading": "付款前的清單",
         "bullets": [
           "看續訂那一欄，不要只看第一年。只要網站還在，網域就要年年續訂。",
-          "打算轉入的話，先看註冊日期：不滿 60 天，轉移不會開始。",
+          "打算轉入的話，先看註冊日期和上次轉移日期：不滿 60 天，轉移不會開始。",
           "在將來屬於你的帳戶裡購買，用你自己的電子郵件，並開著自動續訂。",
           "如果網域是隨主機方案附帶的，記下第二年的續訂價：下單前就會顯示。",
           "SONAR20 對主機方案優惠 20%；單買網域時，代碼不適用。"
@@ -149086,7 +149236,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**在 Hostinger 買**：網站打算放在 Hostinger，並想把網域、DNS 和續訂放在同一個控制台。付款前先確認續訂價。",
           "**在別處買再指向**：已經在別的註冊商有網域，想把帳戶分開，或者那邊的續訂價更低。把 DNS 指向新位址只是控制台裡的一項設定，網站照常運作。",
-          "**轉入**：只限註冊滿 60 天的網域，而且只在 Hostinger 的續訂價比你現在付的划算時才轉。多數通用後綴的轉入費包含額外一年註冊，所以這筆錢不算白花。",
+          "**轉入**：只限註冊滿 60 天的網域，而且只在 Hostinger 的續訂價比你現在付的划算時才轉。轉入能多出一年註冊的後綴，這筆錢不算白花。",
           "拿不準就別轉：把網域指向新主機，註冊留在原處。之後隨時可以轉，網站不會中斷。"
         ],
         "emphasis": "如果是我自己的網站，我會把註冊和主機放在一起，因為網域和續訂都在同一個控制台。"
@@ -149100,9 +149250,9 @@ export const reviewsData: unknown[] = [
       {
         "heading": "常見問題",
         "bullets": [
-          "換主機會丟網域嗎？不會。網域是你的，留在 Hostinger 帳戶裡；你可以把 DNS 指向新主機，或在註冊滿 60 天後再轉移註冊。",
+          "換主機會丟網域嗎？不會。網域是你的，留在 Hostinger 帳戶裡；你可以把 DNS 指向新主機，或在註冊或上次轉移滿 60 天後再轉移註冊。",
           "使用電子郵件一定要有網域嗎？要。像 you@yourcompany.com 這樣的位址，網域必須存在；主機不是必需的，Hostinger 說網域可以只用於電子郵件，或只用來轉址到另一個網站。",
-          "可以把 Hostinger 的網域轉到別的註冊商嗎？可以，註冊滿 60 天後：在控制台解鎖網域，取得授權碼，再到新註冊商用電子郵件確認。成功的轉移不退款。",
+          "可以把 Hostinger 的網域轉到別的註冊商嗎？可以，註冊或上次轉移滿 60 天後：在控制台解鎖網域，取得授權碼，再到新註冊商用電子郵件確認。成功的轉移不退款。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
         ]
       },
@@ -149138,11 +149288,11 @@ export const reviewsData: unknown[] = [
     "decision": {
       "takeIf": [
         "網站打算放在 Hostinger，並想把網域、DNS 和續訂放在同一個控制台，就把網域放在 Hostinger。",
-        "只有在網域註冊滿 60 天，且 Hostinger 的續訂價比你現在付的划算時，才轉入。"
+        "只有在網域註冊或上次轉移滿 60 天，且 Hostinger 的續訂價比你現在付的划算時，才轉入。"
       ],
       "skipIf": [
         "如果已經在別的註冊商有網域、想把帳戶分開，或者那邊續訂更低，就不必轉：把 DNS 指向新位址，註冊留在原處。",
-        "如果註冊不滿 60 天，就先別轉：轉移不會開始。",
+        "如果註冊或上次轉移不滿 60 天，就先別轉：轉移不會開始。",
         "如果網域會落在接案者或代理公司的名下或帳戶裡，就先別買：用你自己掌控的電子郵件。"
       ]
     }
@@ -149183,6 +149333,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SONAR20 dá 20% OFF nos VPS da Hostinger. VPS ou hospedagem compartilhada: quadro por cenário, KVM e renovação lado a lado.",
     "publishedAt": "28 de outubro de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
@@ -149233,7 +149384,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Site em Node.js",
-              "Sim. O plano Premium lista Node.js, e este site roda assim",
+              "Sim, no Ilimitado ou no Cloud Startup, que a Hostinger lista para Node.js. O Premium não consta nessa lista",
               "Não precisa"
             ],
             [
@@ -149320,13 +149471,13 @@ export const reviewsData: unknown[] = [
         "heading": "Manutenção: o que fica com você",
         "paragraphs": [
           "Essa é a parte que o preço não mostra. Na compartilhada, a Hostinger mantém o servidor e o painel; você cuida do seu site (tema, plugins, conteúdo). O plano Premium lista backups semanais, e o Ilimitado inclui suporte prioritário.",
-          "No VPS, a Hostinger diz na própria página que, com acesso root, a configuração, as atualizações e a segurança do servidor ficam com quem contratou. Na prática, vira uma lista sua:"
+          "No VPS, a Hostinger diz na própria página que, com acesso root, a configuração, as atualizações e a segurança do servidor ficam com quem contratou. A Hostinger oferece templates com o sistema já instalado, como o de WordPress, e backup semanal automático por padrão, mas a manutenção continua sendo sua. Na prática, vira uma lista sua:"
         ],
         "bullets": [
-          "**Instalar e configurar** o servidor web, o banco de dados e o certificado SSL.",
+          "**Instalar e configurar** o servidor web, o banco de dados e o certificado SSL, ou partir de um template pronto.",
           "**Atualizar** o sistema operacional e os programas, de tempos em tempos.",
           "**Proteger**: firewall, portas abertas, senhas e chaves de acesso.",
-          "**Fazer backup** e saber restaurar.",
+          "**Fazer backup** (o semanal automático vem ligado) e saber restaurar.",
           "**Resolver** quando o site cair fora do horário comercial."
         ],
         "postParagraphs": [
@@ -149367,7 +149518,7 @@ export const reviewsData: unknown[] = [
             [
               "[Cloud Startup](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20) (48 meses)",
               "R$ 31,99/mês",
-              "R$ 1.535,52",
+              "R$ 1.535,62",
               "R$ 129,99/mês"
             ],
             [
@@ -149397,10 +149548,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Veredito: VPS ou compartilhada",
-        "emphasis": "Se fosse para o meu site, eu levaria o Premium, porque custa menos e a Hostinger cuida do servidor.",
+        "emphasis": "Se fosse para um site comum, eu levaria o Premium, porque custa menos e a Hostinger cuida do servidor.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Hospedagem compartilhada** para blog, portfólio, site de empresa, loja pequena e site em Node.js. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
+          "**Hospedagem compartilhada** para blog, portfólio, site de empresa ou loja pequena. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; para site em Node.js ou se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
           "**VPS** para sistema próprio, programa ou banco fora do painel, bot ou painel rodando o dia todo, ou quando você precisa de root. Comece pelo KVM 1 e suba se faltar memória. Entre na conta o tempo de manter o servidor, ou o custo de quem faça isso.",
           "**Na dúvida, compartilhada.** O VPS não vira compartilhada depois, mas o contrário é só um contrato novo quando a necessidade aparecer."
         ]
@@ -149411,7 +149562,7 @@ export const reviewsData: unknown[] = [
           "VPS é mais rápido que hospedagem compartilhada? Não medimos. O que o VPS garante é recurso reservado: CPU, memória e disco são seus, enquanto na compartilhada o servidor é dividido. Para um site comum, isso raramente é o gargalo.",
           "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
           "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
-          "VPS aguenta WordPress? Aguenta, mas você instala e mantém o servidor web, o PHP e o banco. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
+          "VPS aguenta WordPress? Aguenta. Dá para partir do template de WordPress do VPS, que já vem instalado, mas atualizar, proteger e restaurar backup continua com você. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
           "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês, sem desconto. Sem o cupom, R$ 29,99/mês.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
         ]
@@ -149430,7 +149581,7 @@ export const reviewsData: unknown[] = [
         "Leve se tem um painel, bot ou automação (n8n, Docker) rodando o dia todo e alguém para manter o servidor."
       ],
       "skipIf": [
-        "Passe se é blog, portfólio, site de empresa, loja pequena ou site em Node.js: a compartilhada atende e a Hostinger cuida do servidor.",
+        "Passe se é blog, portfólio, site de empresa ou loja pequena: a compartilhada atende e a Hostinger cuida do servidor.",
         "Passe se nunca abriu um terminal: instalar, atualizar, proteger e fazer backup passam a ser com você."
       ]
     },
@@ -149493,6 +149644,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS or shared hosting at Hostinger: what each one is, a chart by scenario, the specs of KVM 1 to 8 and what maintenance is left to you.",
     "publishedAt": "October 28, 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -149544,7 +149696,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Node.js site",
-              "Yes. The Premium plan lists Node.js, and this site runs that way",
+              "Yes, on Unlimited or Cloud Startup, which Hostinger lists for Node.js. Premium is not on that list",
               "Not needed"
             ],
             [
@@ -149620,13 +149772,13 @@ export const reviewsData: unknown[] = [
         "heading": "Maintenance: what is left to you",
         "paragraphs": [
           "This is the part the price does not show. On shared hosting, Hostinger maintains the server and the panel; you look after your site (theme, plugins, content). The Premium plan lists weekly backups, and Unlimited includes priority support.",
-          "On a VPS, Hostinger says on its own page that, with root access, the server's configuration, updates and security are up to whoever signed up. In practice, it becomes a list of yours:"
+          "On a VPS, Hostinger says on its own page that, with root access, the server's configuration, updates and security are up to whoever signed up. Hostinger offers templates with the system already installed, such as WordPress, and an automatic weekly backup by default, but maintenance stays with you. In practice, it becomes a list of yours:"
         ],
         "bullets": [
-          "**Install and configure** the web server, the database and the SSL certificate.",
+          "**Install and configure** the web server, the database and the SSL certificate, or start from a ready-made template.",
           "**Update** the operating system and the programs, from time to time.",
           "**Secure it**: firewall, open ports, passwords and access keys.",
-          "**Back up** and know how to restore.",
+          "**Back up** (the automatic weekly one is on by default) and know how to restore.",
           "**Fix it** when the site goes down outside business hours."
         ],
         "postParagraphs": [
@@ -149641,10 +149793,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Verdict: VPS or shared hosting",
-        "emphasis": "If it were for my own site, I would take Premium, because it costs less and Hostinger looks after the server.",
+        "emphasis": "If it were for an ordinary site, I would take Premium, because it costs less and Hostinger looks after the server.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Shared hosting** for a blog, portfolio, company site, small shop and Node.js site. Server maintenance is Hostinger's job. Among the plans, Premium is the starting point; if the site grows, Unlimited or Cloud Startup, before you think of a VPS.",
+          "**Shared hosting** for a blog, portfolio, company site or small shop. Server maintenance is Hostinger's job. Among the plans, Premium is the starting point; for a Node.js site or if the site grows, Unlimited or Cloud Startup, before you think of a VPS.",
           "**VPS** for your own system, a program or database outside the panel, a bot or dashboard running all day, or when you need root. Start with KVM 1 and move up if memory runs short. Count in the time it takes to maintain the server, or the cost of someone who does it.",
           "**When in doubt, shared hosting.** A VPS does not turn into shared hosting later, but going the other way is just a new contract when the need appears."
         ]
@@ -149655,7 +149807,7 @@ export const reviewsData: unknown[] = [
           "Is a VPS faster than shared hosting? We did not measure it. What a VPS guarantees is reserved resources: CPU, memory and disk are yours, while on shared hosting the server is divided. For an ordinary site, that is rarely the bottleneck.",
           "Can I start on shared hosting and move to a VPS later? Yes. They are different products: you sign up for the VPS, install the server and move the site over. Shared hosting cannot be converted into a VPS from inside the panel.",
           "Do I need to know Linux to have a VPS? Yes, the basics of the terminal: installing programs, updating the system and reading a log. On shared hosting, everything goes through the panel and no terminal is required.",
-          "Can a VPS run WordPress? It can, but you install and maintain the web server, PHP and the database. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
+          "Can a VPS run WordPress? It can. You can start from the VPS WordPress template, which comes pre-installed, but updating, securing and restoring backups stay with you. On shared hosting, WordPress comes ready in the panel and Hostinger looks after the server.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
         ]
       },
@@ -149695,7 +149847,7 @@ export const reviewsData: unknown[] = [
         "Take it if you have a dashboard, bot or automation (n8n, Docker) running all day and someone to maintain the server."
       ],
       "skipIf": [
-        "Skip it if it is a blog, portfolio, company site, small shop or Node.js site: shared hosting does the job and Hostinger looks after the server.",
+        "Skip it if it is a blog, portfolio, company site or small shop: shared hosting does the job and Hostinger looks after the server.",
         "Skip it if you have never opened a terminal: installing, updating, securing and backing up become your job."
       ]
     }
@@ -149736,6 +149888,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS o hosting compartido en Hostinger: qué es cada uno, cuadro por escenario, specs de los KVM 1 a 8 y qué mantenimiento queda contigo.",
     "publishedAt": "28 de octubre de 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -149787,7 +149940,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Sitio en Node.js",
-              "Sí. El plan Premium lista Node.js, y este sitio funciona así",
+              "Sí, en Unlimited o Cloud Startup, que Hostinger lista para Node.js. Premium no figura en esa lista",
               "No hace falta"
             ],
             [
@@ -149863,13 +150016,13 @@ export const reviewsData: unknown[] = [
         "heading": "Mantenimiento: lo que queda contigo",
         "paragraphs": [
           "Esta es la parte que el precio no muestra. En el compartido, Hostinger mantiene el servidor y el panel; tú cuidas tu sitio (tema, plugins, contenido). El plan Premium lista copias de seguridad semanales, y Unlimited incluye soporte prioritario.",
-          "En el VPS, Hostinger dice en su propia página que, con acceso root, la configuración, las actualizaciones y la seguridad del servidor quedan con quien contrata. En la práctica, se convierte en una lista tuya:"
+          "En el VPS, Hostinger dice en su propia página que, con acceso root, la configuración, las actualizaciones y la seguridad del servidor quedan con quien contrata. Hostinger ofrece plantillas con el sistema ya instalado, como la de WordPress, y copia de seguridad semanal automática por defecto, pero el mantenimiento sigue siendo tuyo. En la práctica, se convierte en una lista tuya:"
         ],
         "bullets": [
-          "**Instalar y configurar** el servidor web, la base de datos y el certificado SSL.",
+          "**Instalar y configurar** el servidor web, la base de datos y el certificado SSL, o partir de una plantilla lista.",
           "**Actualizar** el sistema operativo y los programas, de vez en cuando.",
           "**Proteger**: firewall, puertos abiertos, contraseñas y claves de acceso.",
-          "**Hacer copias de seguridad** y saber restaurarlas.",
+          "**Hacer copias de seguridad** (la semanal automática viene activada) y saber restaurarlas.",
           "**Resolver** cuando el sitio se caiga fuera del horario laboral."
         ],
         "postParagraphs": [
@@ -149884,10 +150037,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Veredicto: VPS o compartido",
-        "emphasis": "Si fuera para mi sitio, me quedaría con el Premium, porque cuesta menos y Hostinger se encarga del servidor.",
+        "emphasis": "Si fuera para un sitio común, me quedaría con el Premium, porque cuesta menos y Hostinger se encarga del servidor.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Hosting compartido** para blog, portafolio, sitio de empresa, tienda pequeña y sitio en Node.js. El mantenimiento del servidor es de Hostinger. Entre los planes, Premium es el punto de partida; si el sitio crece, Unlimited o Cloud Startup, antes de pensar en VPS.",
+          "**Hosting compartido** para blog, portafolio, sitio de empresa o tienda pequeña. El mantenimiento del servidor es de Hostinger. Entre los planes, Premium es el punto de partida; para un sitio en Node.js o si el sitio crece, Unlimited o Cloud Startup, antes de pensar en VPS.",
           "**VPS** para un sistema propio, un programa o base de datos fuera del panel, un bot o panel funcionando todo el día, o cuando necesitas root. Empieza por el KVM 1 y sube si falta memoria. Suma a la cuenta el tiempo de mantener el servidor, o el costo de quien lo haga.",
           "**En la duda, compartido.** El VPS no se convierte después en compartido, pero lo contrario es solo un contrato nuevo cuando aparezca la necesidad."
         ]
@@ -149898,7 +150051,7 @@ export const reviewsData: unknown[] = [
           "¿Un VPS es más rápido que el hosting compartido? No lo medimos. Lo que el VPS garantiza son recursos reservados: CPU, memoria y disco son tuyos, mientras que en el compartido el servidor se divide. Para un sitio común, rara vez es el cuello de botella.",
           "¿Puedo empezar en el compartido y pasar a un VPS después? Sí. Son productos distintos: contratas el VPS, instalas el servidor y llevas el sitio. El hosting compartido no se convierte en VPS desde el panel.",
           "¿Necesito saber Linux para tener un VPS? Sí, lo básico de terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no necesitas usar la terminal.",
-          "¿Un VPS aguanta WordPress? Sí, pero tú instalas y mantienes el servidor web, PHP y la base de datos. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
+          "¿Un VPS aguanta WordPress? Sí. Puedes partir de la plantilla de WordPress del VPS, que ya viene instalada, pero actualizar, proteger y restaurar copias sigue siendo cosa tuya. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
         ]
       },
@@ -149938,7 +150091,7 @@ export const reviewsData: unknown[] = [
         "Elígelo si tienes un panel, bot o automatización (n8n, Docker) funcionando todo el día y alguien que mantenga el servidor."
       ],
       "skipIf": [
-        "Déjalo si es un blog, portafolio, sitio de empresa, tienda pequeña o sitio en Node.js: el compartido cumple y Hostinger cuida el servidor.",
+        "Déjalo si es un blog, portafolio, sitio de empresa o tienda pequeña: el compartido cumple y Hostinger cuida el servidor.",
         "Déjalo si nunca has abierto una terminal: instalar, actualizar, proteger y hacer copias pasan a ser cosa tuya."
       ]
     }
@@ -149979,6 +150132,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS ou hébergement mutualisé chez Hostinger : ce qu'est chacun, tableau par scénario, specs des KVM 1 à 8 et ce qui reste à votre charge en maintenance.",
     "publishedAt": "28 octobre 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -150030,7 +150184,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Site en Node.js",
-              "Oui. Le forfait Premium liste Node.js, et ce site tourne ainsi",
+              "Oui, avec Unlimited ou Cloud Startup, que Hostinger liste pour Node.js. Premium ne figure pas dans cette liste",
               "Pas besoin"
             ],
             [
@@ -150106,13 +150260,13 @@ export const reviewsData: unknown[] = [
         "heading": "Maintenance : ce qui reste à votre charge",
         "paragraphs": [
           "C'est la partie que le prix ne montre pas. Sur le mutualisé, Hostinger maintient le serveur et le panneau ; vous vous occupez de votre site (thème, plugins, contenu). Le forfait Premium liste des sauvegardes hebdomadaires, et Unlimited inclut le support prioritaire.",
-          "Sur un VPS, Hostinger indique sur sa propre page qu'avec l'accès root, la configuration, les mises à jour et la sécurité du serveur incombent à celui qui souscrit. En pratique, cela devient une liste qui est la vôtre :"
+          "Sur un VPS, Hostinger indique sur sa propre page qu'avec l'accès root, la configuration, les mises à jour et la sécurité du serveur incombent à celui qui souscrit. Hostinger propose des modèles avec le système déjà installé, comme celui de WordPress, et une sauvegarde hebdomadaire automatique par défaut, mais la maintenance reste à votre charge. En pratique, cela devient une liste qui est la vôtre :"
         ],
         "bullets": [
-          "**Installer et configurer** le serveur web, la base de données et le certificat SSL.",
+          "**Installer et configurer** le serveur web, la base de données et le certificat SSL, ou partir d'un modèle prêt.",
           "**Mettre à jour** le système d'exploitation et les programmes, de temps en temps.",
           "**Protéger** : pare-feu, ports ouverts, mots de passe et clés d'accès.",
-          "**Sauvegarder** et savoir restaurer.",
+          "**Sauvegarder** (la sauvegarde hebdomadaire automatique est activée par défaut) et savoir restaurer.",
           "**Réagir** quand le site tombe en dehors des heures de bureau."
         ],
         "postParagraphs": [
@@ -150127,10 +150281,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Verdict : VPS ou mutualisé",
-        "emphasis": "Si c'était pour mon site, je prendrais le Premium, parce qu'il coûte moins cher et que Hostinger s'occupe du serveur.",
+        "emphasis": "Si c'était pour un site ordinaire, je prendrais le Premium, parce qu'il coûte moins cher et que Hostinger s'occupe du serveur.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise, une petite boutique et un site en Node.js. La maintenance du serveur revient à Hostinger. Parmi les forfaits, Premium est le point de départ ; si le site grandit, Unlimited ou Cloud Startup, avant de penser au VPS.",
+          "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise ou une petite boutique. La maintenance du serveur revient à Hostinger. Parmi les forfaits, Premium est le point de départ ; pour un site en Node.js ou si le site grandit, Unlimited ou Cloud Startup, avant de penser au VPS.",
           "**VPS** pour un système propre, un programme ou une base hors du panneau, un bot ou un tableau de bord tournant toute la journée, ou quand vous avez besoin de root. Commencez par le KVM 1 et montez si la mémoire manque. Mettez dans le calcul le temps de maintenir le serveur, ou le coût de quelqu'un qui le fasse.",
           "**Dans le doute, mutualisé.** Le VPS ne redevient pas mutualisé ensuite, mais l'inverse n'est qu'un nouveau contrat le jour où le besoin apparaît."
         ]
@@ -150141,7 +150295,7 @@ export const reviewsData: unknown[] = [
           "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Nous ne l'avons pas mesuré. Ce que le VPS garantit, ce sont des ressources réservées : CPU, mémoire et disque sont à vous, alors que sur le mutualisé le serveur est partagé. Pour un site ordinaire, c'est rarement le goulot d'étranglement.",
           "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et y transférez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
           "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. Sur le mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
-          "Un VPS supporte-t-il WordPress ? Oui, mais vous installez et maintenez le serveur web, PHP et la base de données. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
+          "Un VPS supporte-t-il WordPress ? Oui. Vous pouvez partir du modèle WordPress du VPS, déjà installé, mais mettre à jour, protéger et restaurer les sauvegardes reste à votre charge. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
         ]
       },
@@ -150181,7 +150335,7 @@ export const reviewsData: unknown[] = [
         "Prenez-le si vous avez un tableau de bord, un bot ou une automatisation (n8n, Docker) qui tourne toute la journée et quelqu'un pour maintenir le serveur."
       ],
       "skipIf": [
-        "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
+        "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise ou une petite boutique : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
         "Laissez tomber si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
       ]
     }
@@ -150222,6 +150376,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS o hosting condiviso su Hostinger: cos'è ciascuno, quadro per scenario, specifiche dei KVM da 1 a 8 e cosa resta a te nella manutenzione.",
     "publishedAt": "28 ottobre 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -150273,7 +150428,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Sito in Node.js",
-              "Sì. Il piano Premium elenca Node.js, e questo sito funziona così",
+              "Sì, su Unlimited o Cloud Startup, che Hostinger elenca per Node.js. Premium non è in quell'elenco",
               "Non serve"
             ],
             [
@@ -150349,13 +150504,13 @@ export const reviewsData: unknown[] = [
         "heading": "Manutenzione: cosa resta a te",
         "paragraphs": [
           "Questa è la parte che il prezzo non mostra. Sul condiviso, Hostinger mantiene il server e il pannello; tu curi il tuo sito (tema, plugin, contenuti). Il piano Premium elenca backup settimanali, e Unlimited include il supporto prioritario.",
-          "Sul VPS, Hostinger dice nella propria pagina che, con l'accesso root, la configurazione, gli aggiornamenti e la sicurezza del server restano a chi sottoscrive. Nella pratica diventa una lista tua:"
+          "Sul VPS, Hostinger dice nella propria pagina che, con l'accesso root, la configurazione, gli aggiornamenti e la sicurezza del server restano a chi sottoscrive. Hostinger offre template con il sistema già installato, come quello di WordPress, e un backup settimanale automatico di default, ma la manutenzione resta tua. Nella pratica diventa una lista tua:"
         ],
         "bullets": [
-          "**Installare e configurare** il server web, il database e il certificato SSL.",
+          "**Installare e configurare** il server web, il database e il certificato SSL, oppure partire da un template pronto.",
           "**Aggiornare** il sistema operativo e i programmi, ogni tanto.",
           "**Proteggere**: firewall, porte aperte, password e chiavi di accesso.",
-          "**Fare il backup** e saper ripristinare.",
+          "**Fare il backup** (quello settimanale automatico è attivo di default) e saper ripristinare.",
           "**Intervenire** quando il sito va giù fuori dall'orario di lavoro."
         ],
         "postParagraphs": [
@@ -150370,10 +150525,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Verdetto: VPS o condiviso",
-        "emphasis": "Se fosse per il mio sito, prenderei il Premium, perché costa meno e Hostinger si occupa del server.",
+        "emphasis": "Se fosse per un sito comune, prenderei il Premium, perché costa meno e Hostinger si occupa del server.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Hosting condiviso** per blog, portfolio, sito aziendale, piccolo negozio e sito in Node.js. La manutenzione del server è di Hostinger. Tra i piani, Premium è il punto di partenza; se il sito cresce, Unlimited o Cloud Startup, prima di pensare al VPS.",
+          "**Hosting condiviso** per blog, portfolio, sito aziendale, piccolo negozio. La manutenzione del server è di Hostinger. Tra i piani, Premium è il punto di partenza; per un sito in Node.js o se il sito cresce, Unlimited o Cloud Startup, prima di pensare al VPS.",
           "**VPS** per un sistema proprio, un programma o database fuori dal pannello, un bot o un pannello attivi tutto il giorno, o quando ti serve root. Parti dal KVM 1 e sali se manca memoria. Metti in conto il tempo per mantenere il server, o il costo di chi lo fa.",
           "**Nel dubbio, condiviso.** Il VPS non torna condiviso in seguito, ma il contrario è solo un nuovo contratto quando il bisogno si presenta."
         ]
@@ -150384,7 +150539,7 @@ export const reviewsData: unknown[] = [
           "Il VPS è più veloce dell'hosting condiviso? Non l'abbiamo misurato. Ciò che il VPS garantisce sono risorse riservate: CPU, memoria e disco sono tuoi, mentre sul condiviso il server è diviso. Per un sito comune, raramente è il collo di bottiglia.",
           "Posso iniziare sul condiviso e passare al VPS dopo? Sì. Sono prodotti diversi: sottoscrivi il VPS, installi il server e porti il sito. L'hosting condiviso non si converte in VPS dall'interno del pannello.",
           "Devo conoscere Linux per avere un VPS? Sì, le basi del terminale: installare programmi, aggiornare il sistema e leggere un log. Sul condiviso, tutto passa dal pannello e non devi usare il terminale.",
-          "Il VPS regge WordPress? Sì, ma installi e mantieni tu il server web, PHP e il database. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server.",
+          "Il VPS regge WordPress? Sì. Puoi partire dal template WordPress del VPS, già installato, ma aggiornare, proteggere e ripristinare i backup resta compito tuo. Sul condiviso, WordPress arriva pronto nel pannello e Hostinger si occupa del server.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
         ]
       },
@@ -150424,7 +150579,7 @@ export const reviewsData: unknown[] = [
         "Prendilo se hai un pannello, un bot o un'automazione (n8n, Docker) attivi tutto il giorno e qualcuno che mantenga il server."
       ],
       "skipIf": [
-        "Lascia stare se è un blog, un portfolio, un sito aziendale, un piccolo negozio o un sito in Node.js: il condiviso basta e Hostinger si occupa del server.",
+        "Lascia stare se è un blog, un portfolio, un sito aziendale o un piccolo negozio: il condiviso basta e Hostinger si occupa del server.",
         "Lascia stare se non hai mai aperto un terminale: installare, aggiornare, proteggere e fare backup diventano compiti tuoi."
       ]
     }
@@ -150465,6 +150620,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "VPS oder Shared Hosting bei Hostinger: was beides ist, Übersicht nach Szenario, Specs der KVM 1 bis 8 und was bei der Wartung an Ihnen hängen bleibt.",
     "publishedAt": "28. Oktober 2026",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -150516,7 +150672,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Node.js-Website",
-              "Ja. Der Tarif Premium nennt Node.js, und diese Website läuft so",
+              "Ja, mit Unlimited oder Cloud Startup, die Hostinger für Node.js nennt. Premium steht nicht auf dieser Liste",
               "Nicht nötig"
             ],
             [
@@ -150592,13 +150748,13 @@ export const reviewsData: unknown[] = [
         "heading": "Wartung: was an Ihnen hängen bleibt",
         "paragraphs": [
           "Das ist der Teil, den der Preis nicht zeigt. Beim Shared Hosting wartet Hostinger den Server und das Panel; Sie kümmern sich um Ihre Website (Theme, Plugins, Inhalte). Der Tarif Premium nennt wöchentliche Backups, und Unlimited enthält Prioritäts-Support.",
-          "Beim VPS sagt Hostinger auf der eigenen Seite, dass mit Root-Zugriff Konfiguration, Updates und Sicherheit des Servers bei dem liegen, der den Tarif abschließt. In der Praxis wird daraus eine Liste für Sie:"
+          "Beim VPS sagt Hostinger auf der eigenen Seite, dass mit Root-Zugriff Konfiguration, Updates und Sicherheit des Servers bei dem liegen, der den Tarif abschließt. Hostinger bietet Templates mit bereits installiertem System, etwa für WordPress, und standardmäßig ein automatisches wöchentliches Backup, die Wartung bleibt aber bei Ihnen. In der Praxis wird daraus eine Liste für Sie:"
         ],
         "bullets": [
-          "**Installieren und konfigurieren**: Webserver, Datenbank und SSL-Zertifikat.",
+          "**Installieren und konfigurieren**: Webserver, Datenbank und SSL-Zertifikat, oder von einem fertigen Template ausgehen.",
           "**Aktualisieren**: Betriebssystem und Programme, von Zeit zu Zeit.",
           "**Absichern**: Firewall, offene Ports, Passwörter und Zugangsschlüssel.",
-          "**Backups anlegen** und wissen, wie man sie zurückspielt.",
+          "**Backups anlegen** (das automatische wöchentliche ist standardmäßig aktiv) und wissen, wie man sie zurückspielt.",
           "**Eingreifen**, wenn die Website außerhalb der Geschäftszeiten ausfällt."
         ],
         "postParagraphs": [
@@ -150613,10 +150769,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Urteil: VPS oder Shared Hosting",
-        "emphasis": "Wäre es für meine Website, würde ich Premium nehmen, weil es weniger kostet und Hostinger den Server betreut.",
+        "emphasis": "Wäre es für eine gewöhnliche Website, würde ich Premium nehmen, weil es weniger kostet und Hostinger den Server betreut.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop und Node.js-Website. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; wächst die Website, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken.",
+          "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; für eine Node.js-Website oder wenn die Website wächst, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken.",
           "**VPS** für ein eigenes System, ein Programm oder eine Datenbank außerhalb des Panels, einen Bot oder ein Panel, das den ganzen Tag läuft, oder wenn Sie Root brauchen. Beginnen Sie mit KVM 1 und steigen Sie auf, wenn der Arbeitsspeicher knapp wird. Rechnen Sie die Zeit für die Wartung des Servers ein oder die Kosten für jemanden, der sie übernimmt.",
           "**Im Zweifel Shared Hosting.** Ein VPS wird später nicht zum Shared Hosting, aber umgekehrt ist es nur ein neuer Vertrag, wenn der Bedarf entsteht."
         ]
@@ -150627,7 +150783,7 @@ export const reviewsData: unknown[] = [
           "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatzplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
           "Kann man mit Shared Hosting anfangen und später zum VPS wechseln? Ja. Es sind verschiedene Produkte: Man schließt den VPS ab, installiert den Server und zieht die Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
           "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
-          "Schafft ein VPS WordPress? Ja, aber man installiert und wartet Webserver, PHP und Datenbank selbst. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
+          "Schafft ein VPS WordPress? Ja. Man kann vom WordPress-Template des VPS ausgehen, das schon installiert ist, aber Aktualisieren, Absichern und Zurückspielen von Backups bleibt bei Ihnen. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
         ]
       },
@@ -150667,7 +150823,7 @@ export const reviewsData: unknown[] = [
         "Nehmen Sie ihn, wenn Sie ein Panel, einen Bot oder eine Automatisierung (n8n, Docker) haben, die den ganzen Tag läuft, und jemanden, der den Server wartet."
       ],
       "skipIf": [
-        "Lassen Sie ihn, wenn es ein Blog, Portfolio, eine Firmenseite, ein kleiner Shop oder eine Node.js-Website ist: Shared Hosting genügt, und Hostinger betreut den Server.",
+        "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite oder einen kleinen Shop geht: Shared Hosting genügt, und Hostinger betreut den Server.",
         "Lassen Sie ihn, wenn Sie noch nie ein Terminal geöffnet haben: Installieren, Aktualisieren, Absichern und Backups liegen dann bei Ihnen."
       ]
     }
@@ -150708,6 +150864,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger の VPS と共有ホスティングを比較。それぞれの仕組み、シナリオ別の表、KVM 1〜8 のスペック、サーバー管理で自分に残る作業をまとめました。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -150759,7 +150916,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Node.js のサイト",
-              "はい。Premium プランに Node.js が載っていて、このサイトもその方式で動いています",
+              "はい。Hostinger が Node.js 対応として載せている Unlimited か Cloud Startup で。Premium はその一覧にありません",
               "不要です"
             ],
             [
@@ -150835,13 +150992,13 @@ export const reviewsData: unknown[] = [
         "heading": "サーバー管理：あなたに残る作業",
         "paragraphs": [
           "価格には出てこない部分です。共有ホスティングでは、サーバーとパネルは Hostinger が維持し、あなたはサイト（テーマ、プラグイン、コンテンツ）を見ます。Premium には週次バックアップが、Unlimited には優先サポートが載っています。",
-          "VPS について Hostinger は自社のページで、root 権限があるとサーバーの設定、アップデート、セキュリティは契約した側の責任になる、と説明しています。実際には、次のような自分のリストになります。"
+          "VPS について Hostinger は自社のページで、root 権限があるとサーバーの設定、アップデート、セキュリティは契約した側の責任になる、と説明しています。Hostinger には WordPress のようにシステム導入済みのテンプレートがあり、週次の自動バックアップも標準でありますが、管理の責任はあなたに残ります。実際には、次のような自分のリストになります。"
         ],
         "bullets": [
-          "**インストールと設定**：ウェブサーバー、データベース、SSL 証明書。",
+          "**インストールと設定**：ウェブサーバー、データベース、SSL 証明書（用意されたテンプレートから始める方法もあります）。",
           "**アップデート**：OS とプログラムを、折に触れて。",
           "**保護**：ファイアウォール、開いているポート、パスワード、アクセス用の鍵。",
-          "**バックアップ**を取り、復元のしかたを知っておく。",
+          "**バックアップ**（週次の自動バックアップは標準で有効）を取り、復元のしかたを知っておく。",
           "**対応**：営業時間外にサイトが落ちたとき。"
         ],
         "postParagraphs": [
@@ -150856,10 +151013,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "結論：VPS か共有ホスティングか",
-        "emphasis": "自分のサイトなら、Premium を選びます。費用が抑えられ、サーバーは Hostinger が面倒を見てくれるからです。",
+        "emphasis": "普通のサイトなら、Premium を選びます。費用が抑えられ、サーバーは Hostinger が面倒を見てくれるからです。",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**共有ホスティング**は、ブログ、ポートフォリオ、会社サイト、小さなショップ、Node.js のサイトに。サーバーの運用は Hostinger が担います。プランは Premium が出発点。サイトが成長したら、VPS を考える前に Unlimited か Cloud Startup です。",
+          "**共有ホスティング**は、ブログ、ポートフォリオ、会社サイト、小さなショップに。サーバーの運用は Hostinger が担います。プランは Premium が出発点。Node.js のサイトや、サイトが成長したときは、VPS を考える前に Unlimited か Cloud Startup です。",
           "**VPS** は、独自のシステム、パネルにないプログラムやデータベース、一日中動くボットやパネル、root 権限が必要なときに。KVM 1 から始めて、メモリが足りなければ上げてください。サーバーを維持する時間か、代わりにやってくれる人の費用を計算に入れること。",
           "**迷ったら共有ホスティング。** VPS は後から共有ホスティングにはなりませんが、その逆は必要になったときに新しく契約するだけです。"
         ]
@@ -150870,7 +151027,7 @@ export const reviewsData: unknown[] = [
           "VPS は共有ホスティングより速いですか？ 計測していません。VPS が保証するのは専用のリソースです。CPU、メモリ、ディスクが自分のもので、共有ホスティングではサーバーを分け合います。普通のサイトでは、そこがボトルネックになることはまずありません。",
           "まず共有ホスティングで始めて、後から VPS に移れますか？ 移れます。別の商品なので、VPS を契約し、サーバーを構築して、サイトを移します。共有ホスティングをパネルの中から VPS に変換することはできません。",
           "VPS を使うのに Linux は必要ですか？ はい、ターミナルの基本は必要です。プログラムの導入、システムのアップデート、ログの読み方です。共有ホスティングでは全部パネルから行え、ターミナルは必須ではありません。",
-          "VPS で WordPress は動きますか？ 動きますが、ウェブサーバー、PHP、データベースの導入と維持は自分で行います。共有ホスティングでは WordPress がパネルにあらかじめ用意され、サーバーは Hostinger が面倒を見ます。",
+          "VPS で WordPress は動きますか？ 動きます。VPS の WordPress テンプレートなら導入済みの状態から始められますが、アップデート、セキュリティ、バックアップの復元は自分で行います。共有ホスティングでは WordPress がパネルにあらかじめ用意され、サーバーは Hostinger が面倒を見ます。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
         ]
       },
@@ -150910,7 +151067,7 @@ export const reviewsData: unknown[] = [
         "一日中動くパネル、ボット、自動化（n8n、Docker）があり、サーバーを維持する人もいるなら VPS を。"
       ],
       "skipIf": [
-        "ブログ、ポートフォリオ、会社サイト、小さなショップ、Node.js のサイトなら見送りを。共有ホスティングで足り、サーバーは Hostinger が面倒を見ます。",
+        "ブログ、ポートフォリオ、会社サイト、小さなショップなら見送りを。共有ホスティングで足り、サーバーは Hostinger が面倒を見ます。",
         "ターミナルを開いたことがないなら見送りを。インストール、アップデート、セキュリティ、バックアップが自分の仕事になります。"
       ]
     }
@@ -150951,6 +151108,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "호스팅어의 VPS와 공유 호스팅을 비교했습니다. 각각이 무엇인지, 상황별 표, KVM 1~8 사양, 서버 관리에서 직접 맡게 되는 일까지 정리했습니다.",
     "publishedAt": "2026년 10월 28일",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -151002,7 +151160,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Node.js 사이트",
-              "예. Premium 플랜에 Node.js가 명시되어 있고, 이 사이트도 이렇게 돌아갑니다",
+              "예. 호스팅어가 Node.js 지원으로 명시한 Unlimited나 Cloud Startup에서 가능합니다. Premium은 그 목록에 없습니다",
               "필요 없습니다"
             ],
             [
@@ -151078,13 +151236,13 @@ export const reviewsData: unknown[] = [
         "heading": "유지 관리: 직접 맡게 되는 일",
         "paragraphs": [
           "가격에는 드러나지 않는 부분입니다. 공유 호스팅에서는 서버와 패널을 호스팅어가 유지하고, 이용자는 자기 사이트(테마, 플러그인, 콘텐츠)만 관리합니다. Premium 플랜에는 주간 백업이, Unlimited에는 우선 지원이 명시되어 있습니다.",
-          "VPS에 대해 호스팅어는 자사 페이지에서, root 접근을 쓰면 서버 설정, 업데이트, 보안은 계약한 사람 몫이라고 밝힙니다. 실제로는 다음과 같은 직접 할 일 목록이 됩니다."
+          "VPS에 대해 호스팅어는 자사 페이지에서, root 접근을 쓰면 서버 설정, 업데이트, 보안은 계약한 사람 몫이라고 밝힙니다. 호스팅어는 WordPress처럼 시스템이 미리 설치된 템플릿과 기본 주간 자동 백업을 제공하지만, 관리 책임은 계속 이용자에게 있습니다. 실제로는 다음과 같은 직접 할 일 목록이 됩니다."
         ],
         "bullets": [
-          "**설치와 설정**: 웹 서버, 데이터베이스, SSL 인증서.",
+          "**설치와 설정**: 웹 서버, 데이터베이스, SSL 인증서(준비된 템플릿으로 시작할 수도 있습니다).",
           "**업데이트**: 운영체제와 프로그램을 주기적으로.",
           "**보안**: 방화벽, 열린 포트, 비밀번호, 접속 키.",
-          "**백업**을 하고, 복원하는 방법을 알아 두기.",
+          "**백업**(주간 자동 백업은 기본으로 켜져 있음)을 하고, 복원하는 방법을 알아 두기.",
           "**대응**: 업무 시간 밖에 사이트가 다운됐을 때."
         ],
         "postParagraphs": [
@@ -151099,10 +151257,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "결론: VPS인가 공유 호스팅인가",
-        "emphasis": "제 사이트라면 Premium을 택할 것입니다. 비용이 덜 들고 서버는 호스팅어가 맡아 주기 때문입니다.",
+        "emphasis": "일반적인 사이트라면 Premium을 택하세요. 비용이 덜 들고 서버는 호스팅어가 맡아 주기 때문입니다.",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**공유 호스팅**은 블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰, Node.js 사이트에 맞습니다. 서버 유지는 호스팅어의 몫입니다. 플랜 중에서는 Premium이 출발점이고, 사이트가 커지면 VPS를 생각하기 전에 Unlimited나 Cloud Startup으로 올라가세요.",
+          "**공유 호스팅**은 블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰에 맞습니다. 서버 유지는 호스팅어의 몫입니다. 플랜 중에서는 Premium이 출발점이고, Node.js 사이트이거나 사이트가 커지면 VPS를 생각하기 전에 Unlimited나 Cloud Startup으로 올라가세요.",
           "**VPS**는 자체 시스템, 패널에 없는 프로그램이나 데이터베이스, 하루 종일 돌아가는 봇이나 패널, 또는 root가 필요할 때 맞습니다. KVM 1에서 시작해 메모리가 모자라면 올리세요. 서버를 관리하는 시간이나 대신 해 줄 사람의 비용도 계산에 넣어야 합니다.",
           "**망설여진다면 공유 호스팅입니다.** VPS는 나중에 공유 호스팅으로 바뀌지 않지만, 반대 방향은 필요가 생겼을 때 새 계약 하나면 됩니다."
         ]
@@ -151113,7 +151271,7 @@ export const reviewsData: unknown[] = [
           "VPS는 공유 호스팅보다 빠른가요? 측정하지 않았습니다. VPS가 보장하는 것은 예약된 자원입니다. CPU, 메모리, 디스크가 이용자 몫이고, 공유 호스팅에서는 서버를 나눠 씁니다. 일반 사이트에서는 이것이 병목이 되는 일이 드뭅니다.",
           "공유 호스팅으로 시작했다가 나중에 VPS로 옮길 수 있나요? 가능합니다. 서로 다른 상품이라서, VPS를 계약하고 서버를 설치한 뒤 사이트를 옮기면 됩니다. 공유 호스팅을 패널 안에서 VPS로 전환할 수는 없습니다.",
           "VPS를 쓰려면 Linux를 알아야 하나요? 네, 터미널 기본은 필요합니다. 프로그램 설치, 시스템 업데이트, 로그 읽기 같은 것들입니다. 공유 호스팅에서는 모든 것이 패널로 이루어져 터미널이 꼭 필요하지 않습니다.",
-          "VPS에서 WordPress가 돌아가나요? 돌아가지만, 웹 서버, PHP, 데이터베이스를 직접 설치하고 관리해야 합니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다.",
+          "VPS에서 WordPress가 돌아가나요? 돌아갑니다. VPS의 WordPress 템플릿으로 설치된 상태에서 시작할 수 있지만, 업데이트, 보안, 백업 복원은 직접 해야 합니다. 공유 호스팅에서는 WordPress가 패널에 준비되어 있고 서버는 호스팅어가 돌봅니다.",
           "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
         ]
       },
@@ -151153,7 +151311,7 @@ export const reviewsData: unknown[] = [
         "하루 종일 돌아가는 패널, 봇, 자동화(n8n, Docker)가 있고 서버를 관리할 사람도 있다면 고르세요."
       ],
       "skipIf": [
-        "블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰, Node.js 사이트라면 건너뛰세요. 공유 호스팅으로 충분하고 서버는 호스팅어가 돌봅니다.",
+        "블로그, 포트폴리오, 회사 사이트, 작은 쇼핑몰이라면 건너뛰세요. 공유 호스팅으로 충분하고 서버는 호스팅어가 돌봅니다.",
         "터미널을 한 번도 열어 본 적이 없다면 건너뛰세요. 설치, 업데이트, 보안, 백업을 직접 해야 합니다."
       ]
     }
@@ -151194,6 +151352,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 的 VPS 与共享主机怎么选：两者各是什么、场景对照表、KVM 1 至 8 的配置，以及服务器维护中留给你的工作。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -151245,7 +151404,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Node.js 网站",
-              "适合。Premium 套餐列有 Node.js，本站就是这样运行的",
+              "可以：选 Hostinger 列出支持 Node.js 的 Unlimited 或 Cloud Startup。Premium 不在该列表中",
               "不需要"
             ],
             [
@@ -151321,13 +151480,13 @@ export const reviewsData: unknown[] = [
         "heading": "维护：留给你的工作",
         "paragraphs": [
           "这是价格上看不出来的部分。共享主机由 Hostinger 维护服务器和面板，你只管自己的网站（主题、插件、内容）。Premium 套餐列有每周备份，Unlimited 包含优先支持。",
-          "关于 VPS，Hostinger 在自己的页面上说明：有了 root 权限，服务器的配置、更新和安全就由订购者负责。实际上就成了你自己的一份清单："
+          "关于 VPS，Hostinger 在自己的页面上说明：有了 root 权限，服务器的配置、更新和安全就由订购者负责。Hostinger 提供像 WordPress 这样预装好系统的模板，也默认开启每周自动备份，但维护责任仍在你。实际上就成了你自己的一份清单："
         ],
         "bullets": [
-          "**安装和配置** Web 服务器、数据库和 SSL 证书。",
+          "**安装和配置** Web 服务器、数据库和 SSL 证书，或从现成模板开始。",
           "**更新**操作系统和程序，隔一段时间做一次。",
           "**防护**：防火墙、开放的端口、密码和访问密钥。",
-          "**做备份**，并且知道怎么恢复。",
+          "**做备份**（每周自动备份默认开启），并且知道怎么恢复。",
           "**处理**：非工作时间网站宕机的时候。"
         ],
         "postParagraphs": [
@@ -151342,10 +151501,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "结论：VPS 还是共享主机",
-        "emphasis": "如果是我自己的网站，我会选 Premium：它更便宜，服务器也由 Hostinger 负责。",
+        "emphasis": "如果是普通网站，我会选 Premium：它更便宜，服务器也由 Hostinger 负责。",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**共享主机**适合博客、作品集、公司网站、小型网店和 Node.js 网站，服务器维护由 Hostinger 负责。套餐里 Premium 是起点；网站长大了，先升到 Unlimited 或 Cloud Startup，再考虑 VPS。",
+          "**共享主机**适合博客、作品集、公司网站、小型网店，服务器维护由 Hostinger 负责。套餐里 Premium 是起点；Node.js 网站或网站长大了，先升到 Unlimited 或 Cloud Startup，再考虑 VPS。",
           "**VPS** 适合自有系统、面板里没有的程序或数据库、整天运行的机器人或面板，或者你需要 root 的时候。从 KVM 1 开始，内存不够再升。把维护服务器的时间，或者请人代劳的费用，也算进账里。",
           "**拿不准，就选共享主机。** VPS 以后不能变成共享主机，反过来则只是在需要时再签一份新合同。"
         ]
@@ -151356,7 +151515,7 @@ export const reviewsData: unknown[] = [
           "VPS 比共享主机快吗？我们没有测过。VPS 保证的是独享资源：CPU、内存和硬盘都是你的，而共享主机的服务器是大家分用的。对普通网站来说，这很少是瓶颈。",
           "可以先用共享主机，以后再迁到 VPS 吗？可以。两者是不同的产品：你订购 VPS，搭好服务器，再把网站迁过去。共享主机不能在面板里直接转成 VPS。",
           "用 VPS 需要懂 Linux 吗？需要，至少要会终端的基本操作：安装程序、更新系统、看日志。共享主机则一切通过面板完成，不必使用终端。",
-          "VPS 能跑 WordPress 吗？能，但 Web 服务器、PHP 和数据库要你自己安装和维护。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。",
+          "VPS 能跑 WordPress 吗？能。可以从 VPS 的 WordPress 模板起步，它已预装好，但更新、防护和恢复备份仍要你自己来。共享主机的面板里 WordPress 是现成的，服务器由 Hostinger 负责。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
         ]
       },
@@ -151396,7 +151555,7 @@ export const reviewsData: unknown[] = [
         "如果有整天运行的面板、机器人或自动化（n8n、Docker），并且有人维护服务器，就选。"
       ],
       "skipIf": [
-        "如果是博客、作品集、公司网站、小型网店或 Node.js 网站，就别选：共享主机够用，服务器由 Hostinger 负责。",
+        "如果是博客、作品集、公司网站、小型网店，就别选：共享主机够用，服务器由 Hostinger 负责。",
         "如果从没打开过终端，就别选：安装、更新、防护和备份都会变成你的事。"
       ]
     }
@@ -151437,6 +151596,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger 的 VPS 與共享主機怎麼選：兩者各是什麼、情境對照表、KVM 1 至 8 的規格，以及伺服器維護中留給你的工作。",
     "publishedAt": "2026年10月28日",
     "publishedAtISO": "2026-10-28",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -151488,7 +151648,7 @@ export const reviewsData: unknown[] = [
             ],
             [
               "Node.js 網站",
-              "適合。Premium 方案列有 Node.js，本站就是這樣運作的",
+              "可以：選 Hostinger 列出支援 Node.js 的 Unlimited 或 Cloud Startup。Premium 不在該列表中",
               "不需要"
             ],
             [
@@ -151564,13 +151724,13 @@ export const reviewsData: unknown[] = [
         "heading": "維護：留給你的工作",
         "paragraphs": [
           "這是價格上看不出來的部分。共享主機由 Hostinger 維護伺服器與面板，你只管自己的網站（佈景主題、外掛、內容）。Premium 方案列有每週備份，Unlimited 包含優先支援。",
-          "關於 VPS，Hostinger 在自己的頁面上說明：有了 root 權限，伺服器的設定、更新與安全就由訂購者負責。實際上就成了你自己的一份清單："
+          "關於 VPS，Hostinger 在自己的頁面上說明：有了 root 權限，伺服器的設定、更新與安全就由訂購者負責。Hostinger 提供像 WordPress 這樣預先裝好系統的範本，也預設開啟每週自動備份，但維護責任仍在你。實際上就成了你自己的一份清單："
         ],
         "bullets": [
-          "**安裝與設定** Web 伺服器、資料庫與 SSL 憑證。",
+          "**安裝與設定** Web 伺服器、資料庫與 SSL 憑證，或從現成範本開始。",
           "**更新**作業系統與程式，隔一段時間做一次。",
           "**防護**：防火牆、開放的連接埠、密碼與存取金鑰。",
-          "**做備份**，並且知道怎麼還原。",
+          "**做備份**（每週自動備份預設開啟），並且知道怎麼還原。",
           "**處理**：非上班時間網站當機的時候。"
         ],
         "postParagraphs": [
@@ -151585,10 +151745,10 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "結論：VPS 還是共享主機",
-        "emphasis": "如果是我自己的網站，我會選 Premium：它比較便宜，伺服器也由 Hostinger 負責。",
+        "emphasis": "如果是普通網站，我會選 Premium：它比較便宜，伺服器也由 Hostinger 負責。",
         "emphasisAfterParagraph": 3,
         "paragraphs": [
-          "**共享主機**適合部落格、作品集、公司網站、小型網路商店與 Node.js 網站，伺服器維護由 Hostinger 負責。方案裡 Premium 是起點；網站長大了，先升到 Unlimited 或 Cloud Startup，再考慮 VPS。",
+          "**共享主機**適合部落格、作品集、公司網站、小型網路商店，伺服器維護由 Hostinger 負責。方案裡 Premium 是起點；Node.js 網站或網站長大了，先升到 Unlimited 或 Cloud Startup，再考慮 VPS。",
           "**VPS** 適合自有系統、面板裡沒有的程式或資料庫、整天運作的機器人或面板，或者你需要 root 的時候。從 KVM 1 開始，記憶體不夠再升。把維護伺服器的時間，或者請人代勞的費用，也算進帳裡。",
           "**拿不定主意，就選共享主機。** VPS 之後不能變成共享主機，反過來則只是在需要時再簽一份新合約。"
         ]
@@ -151599,7 +151759,7 @@ export const reviewsData: unknown[] = [
           "VPS 比共享主機快嗎？我們沒有測過。VPS 保證的是獨享資源：CPU、記憶體與硬碟都是你的，而共享主機的伺服器是大家分用的。對一般網站來說，這很少是瓶頸。",
           "可以先用共享主機，之後再遷到 VPS 嗎？可以。兩者是不同的產品：你訂購 VPS，架好伺服器，再把網站遷過去。共享主機不能在面板裡直接轉成 VPS。",
           "用 VPS 需要懂 Linux 嗎？需要，至少要會終端機的基本操作：安裝程式、更新系統、看日誌。共享主機則一切透過面板完成，不必使用終端機。",
-          "VPS 能跑 WordPress 嗎？能，但 Web 伺服器、PHP 與資料庫要你自己安裝與維護。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。",
+          "VPS 能跑 WordPress 嗎？能。可以從 VPS 的 WordPress 範本起步，它已預先裝好，但更新、防護與還原備份仍要你自己來。共享主機的面板裡 WordPress 是現成的，伺服器由 Hostinger 負責。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續約按定價計算，沒有折扣。"
         ]
       },
@@ -151639,7 +151799,7 @@ export const reviewsData: unknown[] = [
         "如果有整天運作的面板、機器人或自動化（n8n、Docker），並且有人維護伺服器，就選。"
       ],
       "skipIf": [
-        "如果是部落格、作品集、公司網站、小型網路商店或 Node.js 網站，就別選：共享主機夠用，伺服器由 Hostinger 負責。",
+        "如果是部落格、作品集、公司網站、小型網路商店，就別選：共享主機夠用，伺服器由 Hostinger 負責。",
         "如果從沒開啟過終端機，就別選：安裝、更新、防護與備份都會變成你的事。"
       ]
     }
@@ -157696,6 +157856,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach com o cupom SONAR20 de 20% OFF: quadro por perfil, planos, limites de envio e WhatsApp, contra Mailchimp e Brevo.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
@@ -157739,7 +157900,7 @@ export const reviewsData: unknown[] = [
             [
               "Passou do limite grátis, até 1.000 contatos",
               "Reach Grow ou Pro",
-              "Na faixa de 500 contatos, o Mailchimp Essentials custa R$ 60/mês e o Brevo Starter, R$ 40/mês. O Reach Pro vai até 1.000 destinatários por R$ 13,99/mês."
+              "O Grow cobre até 500 destinatários; de 501 a 1.000, o Pro. Na faixa de 500 contatos, o Mailchimp Essentials custa R$ 60/mês e o Brevo Starter, R$ 40/mês. O Reach Pro vai até 1.000 destinatários por R$ 13,99/mês."
             ],
             [
               "Lista acima de 1.000 contatos",
@@ -157805,7 +157966,7 @@ export const reviewsData: unknown[] = [
           "**Grow:** 500 destinatários, 3.500 e-mails por mês e 10 créditos de IA por mês. Tira a marca da Reach e traz personalização, agendamento e automações.",
           "**Pro:** 1.000 destinatários, 7.000 e-mails por mês e 20 créditos de IA por mês. Soma HTML, horário de envio otimizado, campanhas de WhatsApp, campos personalizados e colegas de equipe."
         ],
-        "emphasis": "Na dúvida entre os planos, o que decide é o tamanho da lista. Quem passa de 1.000 destinatários já fica fora do Reach."
+        "emphasis": "Na dúvida entre os planos, o que decide é o tamanho da lista. Os planos da página vão até 1.000 destinatários; acima disso, veja no carrinho se há faixa maior do Pro ou vá de Mailchimp ou Brevo."
       },
       {
         "heading": "Mailchimp e Brevo: plano grátis e preço publicado",
@@ -157866,8 +158027,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando a lista cresce",
         "paragraphs": [
-          "O limite que pesa primeiro é o de destinatários: 100 no Starter, 500 no Grow e 1.000 no Pro. Os planos da página do Reach param aí. Quem tem ou espera ter mais de 1.000 contatos vai para o Mailchimp ou o Brevo, que cobram por faixa de contatos ou de envio.",
-          "O segundo limite é o de envios. No Grow, 3.500 e-mails por mês com 500 destinatários dão 7 envios para a lista inteira no mês; no Pro, 7.000 e-mails com 1.000 destinatários também dão 7. Quem manda newsletter uma vez por semana cabe. Quem manda mais de uma vez por semana para a lista toda passa do limite."
+          "O limite que pesa primeiro é o de destinatários: 100 no Starter, 500 no Grow e 1.000 no Pro. Os planos da página do Reach param aí. O limite conta destinatários únicos no mês, não contatos guardados. Quem tem ou espera ter mais de 1.000 contatos vai para o Mailchimp ou o Brevo, que cobram por faixa de contatos ou de envio.",
+          "O segundo limite é o de envios. No Grow, 3.500 e-mails por mês com 500 destinatários dão 7 envios para a lista inteira no mês; no Pro, 7.000 e-mails com 1.000 destinatários também dão 7. O teto é mensal e conta todo e-mail enviado, então multiplique os envios do mês pelos destinatários reais da lista. Uma newsletter semanal cabe."
         ],
         "bullets": [
           "**Ainda não tem domínio?** Se quer o endereço do seu site no remetente, veja [domínio na Hostinger: comprar, transferir ou registrar fora](/reviews/dominio-hostinger-comprar-transferir-ou-fora).",
@@ -157886,7 +158047,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Vale a pena** para quem já tem site na Hostinger e uma lista de até 1.000 destinatários. Pelo preço publicado, o Grow e o Pro custam menos que os planos pagos do Mailchimp e do Brevo na mesma faixa, e a renovação do Reach (R$ 10,99/mês no Grow, R$ 19,99/mês no Pro) também fica abaixo deles. O Grow cobre lista de até 500 com automações; o Pro, lista de até 1.000 e WhatsApp.",
           "**Fique no plano grátis do Mailchimp ou do Brevo** se a lista está começando e você ainda não sabe se vai mandar e-mail com frequência. O Reach não tem plano grátis na página brasileira.",
-          "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você manda para a lista toda mais de uma vez por semana: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês.",
+          "**Vá de Mailchimp ou Brevo** se a lista passa de 1.000 contatos ou se você precisa de mais de 7 envios por mês para a lista toda: os planos do Reach param em 1.000 destinatários e 7.000 e-mails por mês.",
           "Se fosse para o meu site, eu levaria o Reach Grow, porque cobre a lista de até 500 com automações e renova abaixo dos planos pagos do Mailchimp e do Brevo."
         ]
       },
@@ -157918,7 +158079,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe se a lista está começando e cabe no plano grátis do Mailchimp ou do Brevo.",
-        "Passe se a lista passa de 1.000 contatos ou se você manda para todos mais de uma vez por semana."
+        "Passe se a lista passa de 1.000 contatos ou se você manda para todos mais de 7 vezes por mês."
       ]
     },
     "pros": [],
@@ -157980,6 +158141,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Is Hostinger Reach worth it? Chart by profile, plans, sending limits, WhatsApp and renewal in US dollars on October 30, 2026, compared with the free plans of Mailchimp and Brevo.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -158024,7 +158186,7 @@ export const reviewsData: unknown[] = [
             [
               "Past the free limit, up to 1,000 contacts",
               "Reach Grow or Pro",
-              "Pro goes up to 1,000 recipients for US$ 2.79 a month in the first 12 months (renews at US$ 3.99)."
+              "Grow covers up to 500 recipients. Pro goes up to 1,000 recipients for US$ 2.79 a month in the first 12 months (renews at US$ 3.99)."
             ],
             [
               "List above 1,000 contacts",
@@ -158082,7 +158244,7 @@ export const reviewsData: unknown[] = [
           "**Grow:** 500 recipients, 3,500 emails a month and 10 AI credits a month. It removes the Reach branding and adds personalization, scheduling and automations.",
           "**Pro:** 1,000 recipients, 7,000 emails a month and 20 AI credits a month. It adds HTML, optimized send time, WhatsApp campaigns, custom fields and team members."
         ],
-        "emphasis": "When you are torn between the plans, the size of your list decides. Anyone past 1,000 recipients is already outside Reach."
+        "emphasis": "When you are torn between the plans, the size of your list decides. The plans on the page go up to 1,000 recipients; above that, check at checkout whether a larger Pro tier exists, or go with Mailchimp or Brevo."
       },
       {
         "heading": "Mailchimp and Brevo: the free plans",
@@ -158119,8 +158281,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "When the list grows",
         "paragraphs": [
-          "The first limit that matters is the number of recipients: 100 on Starter, 500 on Grow and 1,000 on Pro. The Reach plans stop there. Anyone who has or expects more than 1,000 contacts should go to Mailchimp or Brevo, which charge by contact range or by sending volume.",
-          "The second limit is sending volume. On Grow, 3,500 emails a month with 500 recipients add up to 7 sends to the whole list in a month; on Pro, 7,000 emails with 1,000 recipients also make 7. A weekly newsletter fits. Sending to the whole list more than once a week goes past the limit."
+          "The first limit that matters is the number of recipients: 100 on Starter, 500 on Grow and 1,000 on Pro. The Reach plans on the page stop there. The limit counts unique recipients in the month, not stored contacts. Anyone who has or expects more than 1,000 contacts should go to Mailchimp or Brevo, which charge by contact range or by sending volume.",
+          "The second limit is sending volume. On Grow, 3,500 emails a month with 500 recipients add up to 7 sends to the whole list in a month; on Pro, 7,000 emails with 1,000 recipients also make 7. The cap is monthly and counts every email sent, so multiply your month's sends by the real number of recipients. A weekly newsletter fits."
         ],
         "bullets": [
           "**Still without a domain?** If you want your site's address on the sender, see [Hostinger domain: buy it there, transfer it or register elsewhere](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere).",
@@ -158139,7 +158301,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Worth it** for anyone who already has a Hostinger site and a list of up to 1,000 recipients. Grow covers a list of up to 500 with automations; Pro covers a list of up to 1,000 and WhatsApp. The renewal of Grow (US$ 2.49 a month) and of Pro (US$ 3.99 a month) is part of the decision, so check it before you pay.",
           "**Stay on the free Mailchimp or Brevo plan** if your list is just starting and you don't yet know whether you will send email often. Reach has no free plan.",
-          "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if you send to the whole list more than once a week: the Reach plans stop at 1,000 recipients and 7,000 emails a month.",
+          "**Go with Mailchimp or Brevo** if your list passes 1,000 contacts or if you need more than 7 sends to the whole list a month: the Reach plans stop at 1,000 recipients and 7,000 emails a month.",
           "If it were for my site, I would take Reach Grow, because it covers a list of up to 500 with automations and renews at US$ 2.49 a month."
         ]
       },
@@ -158193,7 +158355,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Skip it if your list is just starting and fits in the free plan of Mailchimp or Brevo.",
-        "Skip it if your list is past 1,000 contacts or if you send to everyone more than once a week."
+        "Skip it if your list is past 1,000 contacts or if you send to everyone more than 7 times a month."
       ]
     }
   },
@@ -158233,6 +158395,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "¿Vale la pena Hostinger Reach? Cuadro por perfil, planes, límites de envío, WhatsApp y renovación en dólares el 30 de octubre de 2026, frente a los planes gratis de Mailchimp y Brevo.",
     "publishedAt": "30 de octubre de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -158277,7 +158440,7 @@ export const reviewsData: unknown[] = [
             [
               "Superó el límite gratis, hasta 1.000 contactos",
               "Reach Grow o Pro",
-              "Reach Pro llega a 1.000 destinatarios por 2,79 US$ al mes en los primeros 12 meses (renueva a 3,99 US$)."
+              "Grow cubre hasta 500 destinatarios. Reach Pro llega a 1.000 destinatarios por 2,79 US$ al mes en los primeros 12 meses (renueva a 3,99 US$)."
             ],
             [
               "Lista de más de 1.000 contactos",
@@ -158335,7 +158498,7 @@ export const reviewsData: unknown[] = [
           "**Grow:** 500 destinatarios, 3.500 correos al mes y 10 créditos de IA al mes. Quita la marca de Reach y suma personalización, programación y automatizaciones.",
           "**Pro:** 1.000 destinatarios, 7.000 correos al mes y 20 créditos de IA al mes. Suma HTML, horario de envío optimizado, campañas de WhatsApp, campos personalizados y compañeros de equipo."
         ],
-        "emphasis": "Si dudas entre los planes, lo que decide es el tamaño de la lista. Quien pasa de 1.000 destinatarios ya queda fuera de Reach."
+        "emphasis": "Si dudas entre los planes, lo que decide es el tamaño de la lista. Los planes de la página llegan a 1.000 destinatarios; por encima, mira en el carrito si hay un tramo mayor de Pro o ve a Mailchimp o Brevo."
       },
       {
         "heading": "Mailchimp y Brevo: los planes gratis",
@@ -158372,8 +158535,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Cuando la lista crece",
         "paragraphs": [
-          "El límite que pesa primero es el de destinatarios: 100 en Starter, 500 en Grow y 1.000 en Pro. Los planes de Reach llegan hasta ahí. Quien tiene o espera tener más de 1.000 contactos va a Mailchimp o Brevo, que cobran por tramo de contactos o de envío.",
-          "El segundo límite es el de envíos. En Grow, 3.500 correos al mes con 500 destinatarios dan 7 envíos a toda la lista en el mes; en Pro, 7.000 correos con 1.000 destinatarios también dan 7. Quien envía un boletín una vez por semana cabe. Quien envía más de una vez por semana a toda la lista pasa del límite."
+          "El límite que pesa primero es el de destinatarios: 100 en Starter, 500 en Grow y 1.000 en Pro. Los planes de Reach de la página llegan hasta ahí. El límite cuenta destinatarios únicos en el mes, no contactos guardados. Quien tiene o espera tener más de 1.000 contactos va a Mailchimp o Brevo, que cobran por tramo de contactos o de envío.",
+          "El segundo límite es el de envíos. En Grow, 3.500 correos al mes con 500 destinatarios dan 7 envíos a toda la lista en el mes; en Pro, 7.000 correos con 1.000 destinatarios también dan 7. El tope es mensual y cuenta cada correo enviado, así que multiplica los envíos del mes por los destinatarios reales. Un boletín semanal cabe."
         ],
         "bullets": [
           "**¿Aún no tienes dominio?** Si quieres la dirección de tu sitio en el remitente, mira [dominio en Hostinger: comprar, transferir o registrar fuera](/es/reviews/dominio-hostinger-comprar-o-transferir).",
@@ -158392,7 +158555,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Vale la pena** para quien ya tiene un sitio en Hostinger y una lista de hasta 1.000 destinatarios. Grow cubre una lista de hasta 500 con automatizaciones; Pro, una de hasta 1.000 y WhatsApp. La renovación de Grow (2,49 US$ al mes) y de Pro (3,99 US$ al mes) entra en la decisión, así que revísala antes de pagar.",
           "**Quédate en el plan gratis de Mailchimp o de Brevo** si la lista está empezando y aún no sabes si vas a enviar correos con frecuencia. Reach no tiene plan gratis.",
-          "**Ve a Mailchimp o Brevo** si la lista pasa de 1.000 contactos o si envías a toda la lista más de una vez por semana: los planes de Reach llegan hasta 1.000 destinatarios y 7.000 correos al mes.",
+          "**Ve a Mailchimp o Brevo** si la lista pasa de 1.000 contactos o si necesitas más de 7 envíos al mes a toda la lista: los planes de Reach llegan hasta 1.000 destinatarios y 7.000 correos al mes.",
           "Si fuera para mi sitio, elegiría Reach Grow, porque cubre una lista de hasta 500 con automatizaciones y renueva a 2,49 US$ al mes."
         ]
       },
@@ -158446,7 +158609,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Déjalo si la lista está empezando y cabe en el plan gratis de Mailchimp o de Brevo.",
-        "Déjalo si la lista pasa de 1.000 contactos o si envías a todos más de una vez por semana."
+        "Déjalo si la lista pasa de 1.000 contactos o si envías a todos más de 7 veces al mes."
       ]
     }
   },
@@ -158486,6 +158649,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach vaut-il le coup ? Tableau par profil, forfaits, limites d'envoi, WhatsApp et renouvellement en dollars américains au 30 octobre 2026, face aux forfaits gratuits de Mailchimp et de Brevo.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -158530,7 +158694,7 @@ export const reviewsData: unknown[] = [
             [
               "Limite gratuite dépassée, jusqu'à 1 000 contacts",
               "Reach Grow ou Pro",
-              "Reach Pro va jusqu'à 1 000 destinataires pour 2,79 US$ par mois les 12 premiers mois (renouvellement à 3,99 US$)."
+              "Grow couvre jusqu'à 500 destinataires. Reach Pro va jusqu'à 1 000 destinataires pour 2,79 US$ par mois les 12 premiers mois (renouvellement à 3,99 US$)."
             ],
             [
               "Liste de plus de 1 000 contacts",
@@ -158588,7 +158752,7 @@ export const reviewsData: unknown[] = [
           "**Grow :** 500 destinataires, 3 500 e-mails par mois et 10 crédits d'IA par mois. Il retire la marque Reach et ajoute personnalisation, planification et automatisations.",
           "**Pro :** 1 000 destinataires, 7 000 e-mails par mois et 20 crédits d'IA par mois. Il ajoute le HTML, l'heure d'envoi optimisée, les campagnes WhatsApp, les champs personnalisés et les coéquipiers."
         ],
-        "emphasis": "Si vous hésitez entre les forfaits, c'est la taille de la liste qui tranche. Au-delà de 1 000 destinataires, on est déjà hors de Reach."
+        "emphasis": "Si vous hésitez entre les forfaits, c'est la taille de la liste qui tranche. Les forfaits de la page vont jusqu'à 1 000 destinataires ; au-delà, regardez au panier s'il existe une tranche Pro plus grande, ou allez chez Mailchimp ou Brevo."
       },
       {
         "heading": "Mailchimp et Brevo : les forfaits gratuits",
@@ -158625,8 +158789,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quand la liste grandit",
         "paragraphs": [
-          "La première limite qui pèse est celle des destinataires : 100 sur Starter, 500 sur Grow et 1 000 sur Pro. Les forfaits Reach s'arrêtent là. Qui a ou prévoit plus de 1 000 contacts va vers Mailchimp ou Brevo, qui facturent par tranche de contacts ou d'envois.",
-          "La seconde limite est celle des envois. Sur Grow, 3 500 e-mails par mois avec 500 destinataires font 7 envois à toute la liste dans le mois ; sur Pro, 7 000 e-mails avec 1 000 destinataires en font aussi 7. Une newsletter hebdomadaire passe. Écrire à toute la liste plus d'une fois par semaine dépasse la limite."
+          "La première limite qui pèse est celle des destinataires : 100 sur Starter, 500 sur Grow et 1 000 sur Pro. Les forfaits Reach de la page s'arrêtent là. La limite compte les destinataires uniques du mois, pas les contacts enregistrés. Qui a ou prévoit plus de 1 000 contacts va vers Mailchimp ou Brevo, qui facturent par tranche de contacts ou d'envois.",
+          "La seconde limite est celle des envois. Sur Grow, 3 500 e-mails par mois avec 500 destinataires font 7 envois à toute la liste dans le mois ; sur Pro, 7 000 e-mails avec 1 000 destinataires en font aussi 7. Le plafond est mensuel et compte chaque e-mail envoyé : multipliez les envois du mois par les destinataires réels. Une newsletter hebdomadaire passe."
         ],
         "bullets": [
           "**Pas encore de domaine ?** Si vous voulez l'adresse de votre site comme expéditeur, voyez [domaine chez Hostinger : acheter, transférer ou enregistrer ailleurs](/fr/reviews/domaine-hostinger-acheter-ou-transferer).",
@@ -158645,7 +158809,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Ça vaut le coup** pour qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Grow couvre une liste jusqu'à 500 avec des automatisations ; Pro, une liste jusqu'à 1 000 et WhatsApp. Le renouvellement de Grow (2,49 US$ par mois) et de Pro (3,99 US$ par mois) fait partie de la décision : vérifiez-le avant de payer.",
           "**Restez sur le forfait gratuit de Mailchimp ou de Brevo** si la liste débute et que vous ne savez pas encore si vous enverrez des e-mails souvent. Reach n'a pas de forfait gratuit.",
-          "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou si vous écrivez à toute la liste plus d'une fois par semaine : les forfaits Reach s'arrêtent à 1 000 destinataires et 7 000 e-mails par mois.",
+          "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou s'il vous faut plus de 7 envois par mois à toute la liste : les forfaits Reach s'arrêtent à 1 000 destinataires et 7 000 e-mails par mois.",
           "Si c'était pour mon site, je prendrais Reach Grow, parce qu'il couvre une liste jusqu'à 500 avec des automatisations et se renouvelle à 2,49 US$ par mois."
         ]
       },
@@ -158699,7 +158863,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passez votre chemin si la liste débute et tient dans le forfait gratuit de Mailchimp ou de Brevo.",
-        "Passez votre chemin si la liste dépasse 1 000 contacts ou si vous écrivez à tout le monde plus d'une fois par semaine."
+        "Passez votre chemin si la liste dépasse 1 000 contacts ou si vous écrivez à tout le monde plus de 7 fois par mois."
       ]
     }
   },
@@ -158740,6 +158904,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Conviene Hostinger Reach? Quadro per profilo, piani, limiti di invio, WhatsApp e rinnovo in dollari al 30 ottobre 2026, a confronto con i piani gratuiti di Mailchimp e Brevo.",
     "publishedAt": "30 ottobre 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
@@ -158783,7 +158948,7 @@ export const reviewsData: unknown[] = [
             [
               "Oltre il limite gratis, fino a 1.000 contatti",
               "Reach Grow o Pro",
-              "Reach Pro arriva a 1.000 destinatari per 2,79 US$ al mese per i primi 12 mesi (rinnovo a 3,99 US$)."
+              "Il Grow copre fino a 500 destinatari. Reach Pro arriva a 1.000 destinatari per 2,79 US$ al mese per i primi 12 mesi (rinnovo a 3,99 US$)."
             ],
             [
               "Lista oltre i 1.000 contatti",
@@ -158841,7 +159006,7 @@ export const reviewsData: unknown[] = [
           "**Grow:** 500 destinatari, 3.500 email al mese e 10 crediti AI al mese. Toglie il marchio Reach e include personalizzazione, programmazione e automazioni.",
           "**Pro:** 1.000 destinatari, 7.000 email al mese e 20 crediti AI al mese. Aggiunge HTML, orario di invio ottimizzato, campagne WhatsApp, campi personalizzati e colleghi di team."
         ],
-        "emphasis": "Se sei indeciso tra i piani, a decidere è la dimensione della lista. Chi supera i 1.000 destinatari è già fuori da Reach."
+        "emphasis": "Se sei indeciso tra i piani, a decidere è la dimensione della lista. I piani della pagina arrivano a 1.000 destinatari; oltre, controlla nel carrello se esiste una fascia Pro più grande, oppure vai su Mailchimp o Brevo."
       },
       {
         "heading": "Mailchimp e Brevo: il piano gratuito",
@@ -158881,8 +159046,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quando la lista cresce",
         "paragraphs": [
-          "Il primo limite che pesa è quello dei destinatari: 100 nello Starter, 500 nel Grow e 1.000 nel Pro. I piani Reach si fermano lì. Chi ha o prevede più di 1.000 contatti va su Mailchimp o Brevo, che fanno pagare per fascia di contatti o di invii.",
-          "Il secondo limite è quello degli invii. Nel Grow, 3.500 email al mese con 500 destinatari fanno 7 invii a tutta la lista nel mese; nel Pro, 7.000 email con 1.000 destinatari ne fanno ancora 7. Una newsletter settimanale ci sta. Scrivere a tutta la lista più di una volta a settimana supera il limite."
+          "Il primo limite che pesa è quello dei destinatari: 100 nello Starter, 500 nel Grow e 1.000 nel Pro. I piani Reach della pagina si fermano lì. Il limite conta i destinatari unici nel mese, non i contatti salvati. Chi ha o prevede più di 1.000 contatti va su Mailchimp o Brevo, che fanno pagare per fascia di contatti o di invii.",
+          "Il secondo limite è quello degli invii. Nel Grow, 3.500 email al mese con 500 destinatari fanno 7 invii a tutta la lista nel mese; nel Pro, 7.000 email con 1.000 destinatari ne fanno ancora 7. Il tetto è mensile e conta ogni email inviata: moltiplica gli invii del mese per i destinatari reali. Una newsletter settimanale ci sta."
         ],
         "bullets": [
           "**Non hai ancora un dominio?** Se vuoi l'indirizzo del tuo sito come mittente, guarda [dominio su Hostinger: comprare, trasferire o registrare altrove](/it/reviews/dominio-hostinger-comprare-o-trasferire).",
@@ -158901,7 +159066,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Conviene** a chi ha già un sito su Hostinger e una lista fino a 1.000 destinatari. Il Grow copre una lista fino a 500 con automazioni; il Pro, una fino a 1.000 e WhatsApp. Il rinnovo del Grow (2,49 US$ al mese) e del Pro (3,99 US$ al mese) fa parte della decisione: controllalo prima di pagare.",
           "**Resta sul piano gratuito di Mailchimp o di Brevo** se la lista è all'inizio e non sai ancora se manderai email spesso. Reach non ha un piano gratuito.",
-          "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se scrivi a tutta la lista più di una volta a settimana: i piani Reach si fermano a 1.000 destinatari e 7.000 email al mese.",
+          "**Vai su Mailchimp o Brevo** se la lista supera i 1.000 contatti o se ti servono più di 7 invii al mese a tutta la lista: i piani Reach si fermano a 1.000 destinatari e 7.000 email al mese.",
           "Se fosse per il mio sito, sceglierei il Reach Grow, perché copre una lista fino a 500 con automazioni e si rinnova a 2,49 US$ al mese."
         ]
       },
@@ -158955,7 +159120,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Lascia stare se la lista è all'inizio e sta nel piano gratuito di Mailchimp o di Brevo.",
-        "Lascia stare se la lista supera i 1.000 contatti o se scrivi a tutti più di una volta a settimana."
+        "Lascia stare se la lista supera i 1.000 contatti o se scrivi a tutti più di 7 volte al mese."
       ]
     }
   },
@@ -158996,6 +159161,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Lohnt sich Hostinger Reach? Tabelle nach Profil, Tarife, Versandlimits, WhatsApp und Verlängerung in US-Dollar am 30. Oktober 2026, im Vergleich mit den kostenlosen Tarifen von Mailchimp und Brevo.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
@@ -159039,7 +159205,7 @@ export const reviewsData: unknown[] = [
             [
               "Über das kostenlose Limit, bis 1.000 Kontakte",
               "Reach Grow oder Pro",
-              "Reach Pro reicht bis 1.000 Empfänger für 2,79 US$ im Monat in den ersten 12 Monaten (Verlängerung 3,99 US$)."
+              "Der Grow deckt bis 500 Empfänger ab. Reach Pro reicht bis 1.000 Empfänger für 2,79 US$ im Monat in den ersten 12 Monaten (Verlängerung 3,99 US$)."
             ],
             [
               "Liste über 1.000 Kontakte",
@@ -159097,7 +159263,7 @@ export const reviewsData: unknown[] = [
           "**Grow:** 500 Empfänger, 3.500 E-Mails im Monat und 10 KI-Credits im Monat. Entfernt die Reach-Marke und bringt Personalisierung, Terminierung und Automatisierungen.",
           "**Pro:** 1.000 Empfänger, 7.000 E-Mails im Monat und 20 KI-Credits im Monat. Dazu kommen HTML, optimierte Versandzeit, WhatsApp-Kampagnen, eigene Felder und Teammitglieder."
         ],
-        "emphasis": "Wenn Sie zwischen den Tarifen schwanken, entscheidet die Größe der Liste. Wer über 1.000 Empfänger hinausgeht, fällt schon aus Reach heraus."
+        "emphasis": "Wenn Sie zwischen den Tarifen schwanken, entscheidet die Größe der Liste. Die Tarife auf der Seite reichen bis 1.000 Empfänger; darüber prüfen Sie im Warenkorb, ob es eine größere Pro-Stufe gibt, oder gehen zu Mailchimp oder Brevo."
       },
       {
         "heading": "Mailchimp und Brevo: der kostenlose Tarif",
@@ -159137,8 +159303,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Wenn die Liste wächst",
         "paragraphs": [
-          "Das Limit, das zuerst zählt, ist die Zahl der Empfänger: 100 beim Starter, 500 beim Grow und 1.000 beim Pro. Die Reach-Tarife enden dort. Wer mehr als 1.000 Kontakte hat oder erwartet, geht zu Mailchimp oder Brevo, die nach Kontaktstufe oder Versandvolumen abrechnen.",
-          "Das zweite Limit ist das Versandvolumen. Beim Grow ergeben 3.500 E-Mails im Monat bei 500 Empfängern 7 Sendungen an die ganze Liste im Monat; beim Pro ergeben 7.000 E-Mails bei 1.000 Empfängern ebenfalls 7. Ein wöchentlicher Newsletter passt. Wer die ganze Liste öfter als einmal pro Woche anschreibt, überschreitet das Limit."
+          "Das Limit, das zuerst zählt, ist die Zahl der Empfänger: 100 beim Starter, 500 beim Grow und 1.000 beim Pro. Die Reach-Tarife auf der Seite enden dort. Das Limit zählt eindeutige Empfänger im Monat, nicht gespeicherte Kontakte. Wer mehr als 1.000 Kontakte hat oder erwartet, geht zu Mailchimp oder Brevo, die nach Kontaktstufe oder Versandvolumen abrechnen.",
+          "Das zweite Limit ist das Versandvolumen. Beim Grow ergeben 3.500 E-Mails im Monat bei 500 Empfängern 7 Sendungen an die ganze Liste im Monat; beim Pro ergeben 7.000 E-Mails bei 1.000 Empfängern ebenfalls 7. Das Limit gilt monatlich und zählt jede versendete E-Mail; rechnen Sie also die Sendungen des Monats mal die tatsächlichen Empfänger. Ein wöchentlicher Newsletter passt."
         ],
         "bullets": [
           "**Noch keine Domain?** Wenn Sie die Adresse Ihrer Website als Absender wollen, lesen Sie [Domain bei Hostinger: kaufen, übertragen oder woanders registrieren](/de/reviews/hostinger-domain-kaufen-oder-umziehen).",
@@ -159157,7 +159323,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**Es lohnt sich** für alle, die schon eine Hostinger-Website und eine Liste mit bis zu 1.000 Empfängern haben. Der Grow deckt eine Liste bis 500 mit Automatisierungen ab; der Pro eine bis 1.000 und WhatsApp. Die Verlängerung von Grow (2,49 US$ im Monat) und Pro (3,99 US$ im Monat) gehört zur Entscheidung; prüfen Sie sie, bevor Sie zahlen.",
           "**Bleiben Sie beim kostenlosen Tarif von Mailchimp oder Brevo**, wenn die Liste gerade erst beginnt und Sie noch nicht wissen, ob Sie oft E-Mails verschicken werden. Reach hat keinen kostenlosen Tarif.",
-          "**Gehen Sie zu Mailchimp oder Brevo**, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn Sie die ganze Liste öfter als einmal pro Woche anschreiben: Die Reach-Tarife enden bei 1.000 Empfängern und 7.000 E-Mails im Monat.",
+          "**Gehen Sie zu Mailchimp oder Brevo**, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn Sie mehr als 7 Sendungen im Monat an die ganze Liste brauchen: Die Reach-Tarife enden bei 1.000 Empfängern und 7.000 E-Mails im Monat.",
           "Wäre es für meine Website, würde ich den Reach Grow nehmen, weil er eine Liste bis 500 mit Automatisierungen abdeckt und sich für 2,49 US$ im Monat verlängert."
         ]
       },
@@ -159211,7 +159377,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Lassen Sie es, wenn die Liste gerade erst beginnt und in den kostenlosen Tarif von Mailchimp oder Brevo passt.",
-        "Lassen Sie es, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn Sie alle öfter als einmal pro Woche anschreiben."
+        "Lassen Sie es, wenn die Liste über 1.000 Kontakte hinausgeht oder wenn Sie alle öfter als 7-mal im Monat anschreiben."
       ]
     }
   },
@@ -159252,6 +159418,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach は買う価値がある？ 利用者別の選び方、プラン、送信上限、WhatsApp、更新料を、Mailchimp と Brevo の無料プランと比べました。2026年10月30日時点。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
@@ -159295,7 +159462,7 @@ export const reviewsData: unknown[] = [
             [
               "無料の上限を超え、1,000件まで",
               "Reach Grow か Pro",
-              "Reach Pro は1,000件まで使えて、12か月で月 US$ 2.79（更新時は US$ 3.99）です。"
+              "Grow は500件までです。Reach Pro は1,000件まで使えて、12か月で月 US$ 2.79（更新時は US$ 3.99）です。"
             ],
             [
               "リストが1,000件を超える",
@@ -159353,7 +159520,7 @@ export const reviewsData: unknown[] = [
           "**Grow：** 宛先500件、月3,500通、AIクレジット月10。Reach のブランド表示が消え、パーソナライズ、予約送信、自動化が使えます。",
           "**Pro：** 宛先1,000件、月7,000通、AIクレジット月20。HTML、最適な送信時間、WhatsApp キャンペーン、カスタムフィールド、チームメンバーが加わります。"
         ],
-        "emphasis": "プランで迷ったら、決め手はリストの大きさです。宛先が1,000件を超えるなら、Reach はもう選択肢から外れます。"
+        "emphasis": "プランで迷ったら、決め手はリストの大きさです。ページのプランは宛先1,000件までです。それを超えるなら、カートでより大きな Pro の段階があるか確認するか、Mailchimp か Brevo を選びましょう。"
       },
       {
         "heading": "Mailchimp と Brevo：無料プラン",
@@ -159393,8 +159560,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "リストが増えたら",
         "paragraphs": [
-          "最初に効いてくる上限は宛先数で、Starter は100件、Grow は500件、Pro は1,000件です。Reach のプランはそこで終わります。1,000件を超える、または超える見込みなら、連絡先数や送信数で課金する Mailchimp か Brevo が向いています。",
-          "2つ目の上限は送信数です。Grow は宛先500件に対して月3,500通なので、月に7回でリスト全体に届きます。Pro は宛先1,000件に対して月7,000通で、同じく7回です。週に1回のニュースレターなら収まります。リスト全体に週1回より多く送ると上限を超えます。"
+          "最初に効いてくる上限は宛先数で、Starter は100件、Grow は500件、Pro は1,000件です。ページにある Reach のプランはそこで終わります。上限は保存した連絡先ではなく、その月のユニークな宛先で数えます。1,000件を超える、または超える見込みなら、連絡先数や送信数で課金する Mailchimp か Brevo が向いています。",
+          "2つ目の上限は送信数です。Grow は宛先500件に対して月3,500通なので、月に7回でリスト全体に届きます。Pro は宛先1,000件に対して月7,000通で、同じく7回です。上限は月ごとで、送った全メールが数えられます。月の送信回数に実際の宛先数をかけて計算してください。週に1回のニュースレターなら収まります。"
         ],
         "bullets": [
           "**まだドメインがない？** 送信元に自分のサイトのアドレスを使いたいなら、[Hostingerのドメイン：そこで買う、移管する、別の場所で登録する](/ja/reviews/hostinger-domain-ja)を読んでください。",
@@ -159413,7 +159580,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**使う価値あり。** Hostinger のサイトをすでにお持ちで、宛先が1,000件までなら。Grow は自動化つきで500件まで、Pro は WhatsApp つきで1,000件まで使えます。12か月の月額は Grow が US$ 1.74、Pro が US$ 2.79で、更新時は US$ 2.49 と US$ 3.99 です。",
           "**Mailchimp か Brevo の無料プランのままに。** リストが始まったばかりで、どのくらいの頻度で送るか決めていないなら。Reach には国際サイトでも無料プランがありません。",
-          "**Mailchimp か Brevo へ。** リストが1,000件を超える、またはリスト全体に週1回より多く送るなら。Reach のプランは1,000件・月7,000通で終わります。",
+          "**Mailchimp か Brevo へ。** リストが1,000件を超える、またはリスト全体への送信が月に7回を超えるなら。Reach のプランは1,000件・月7,000通で終わります。",
           "自分のサイトに使うなら、Reach Grow を選びます。500件までのリストに自動化がつき、更新時も月 US$ 2.49 だからです。"
         ]
       },
@@ -159467,7 +159634,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "リストが始まったばかりで、Mailchimp か Brevo の無料プランに収まるなら、見送ります。",
-        "リストが1,000件を超える、またはリスト全体に週1回より多く送るなら、見送ります。"
+        "リストが1,000件を超える、またはリスト全体に月7回より多く送るなら、見送ります。"
       ]
     }
   },
@@ -159507,6 +159674,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach 쓸 만한가? 프로필별 표, 플랜, 발송 한도, WhatsApp, 갱신가를 Mailchimp와 Brevo의 무료 플랜과 비교합니다. 2026년 10월 30일 기준.",
     "publishedAt": "2026년 10월 30일",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
@@ -159550,7 +159718,7 @@ export const reviewsData: unknown[] = [
             [
               "무료 한도를 넘었고 1,000명 이하",
               "Reach Grow 또는 Pro",
-              "Reach Pro는 수신자 1,000명까지 쓸 수 있고, 12개월 동안 월 US$ 2.79(갱신 시 US$ 3.99)입니다."
+              "Grow는 수신자 500명까지입니다. Reach Pro는 수신자 1,000명까지 쓸 수 있고, 12개월 동안 월 US$ 2.79(갱신 시 US$ 3.99)입니다."
             ],
             [
               "리스트가 1,000명 초과",
@@ -159608,7 +159776,7 @@ export const reviewsData: unknown[] = [
           "**Grow:** 수신자 500명, 월 3,500통, AI 크레딧 월 10개. Reach 브랜드를 빼고 개인화, 예약 발송, 자동화를 씁니다.",
           "**Pro:** 수신자 1,000명, 월 7,000통, AI 크레딧 월 20개. HTML, 최적 발송 시간, WhatsApp 캠페인, 사용자 정의 필드, 팀원 추가를 더합니다."
         ],
-        "emphasis": "플랜이 고민된다면 결정은 리스트 크기가 합니다. 수신자가 1,000명을 넘으면 Reach는 이미 선택지에서 빠집니다."
+        "emphasis": "플랜이 고민된다면 결정을 좌우하는 것은 리스트 크기입니다. 페이지의 플랜은 수신자 1,000명까지입니다. 그 이상이면 장바구니에 더 큰 Pro 구간이 있는지 확인하거나 Mailchimp나 Brevo로 가세요."
       },
       {
         "heading": "Mailchimp와 Brevo: 무료 플랜",
@@ -159648,8 +159816,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "리스트가 커질 때",
         "paragraphs": [
-          "먼저 닿는 한도는 수신자 수입니다: Starter 100명, Grow 500명, Pro 1,000명. Reach 플랜은 여기서 멈춥니다. 1,000명을 넘었거나 곧 넘을 예정이라면 Mailchimp나 Brevo로 가세요. 두 곳은 연락처 수나 발송량에 따라 요금을 받습니다.",
-          "두 번째 한도는 발송량입니다. Grow는 월 3,500통이라 수신자 500명이면 한 달에 전체 리스트에 7번 보낼 수 있습니다. Pro는 월 7,000통이라 수신자 1,000명이면 역시 7번입니다. 주 1회 뉴스레터는 들어가지만, 전체 리스트에 주 2회 이상 보내면 한도를 넘습니다."
+          "먼저 닿는 한도는 수신자 수입니다: Starter 100명, Grow 500명, Pro 1,000명. 페이지에 나온 Reach 플랜은 여기서 멈춥니다. 한도는 저장된 연락처가 아니라 그달에 닿은 고유 수신자로 셉니다. 1,000명을 넘었거나 곧 넘을 예정이라면 Mailchimp나 Brevo로 가세요. 두 곳은 연락처 수나 발송량에 따라 요금을 받습니다.",
+          "두 번째 한도는 발송량입니다. Grow는 월 3,500통이라 수신자 500명이면 한 달에 전체 리스트에 7번 보낼 수 있습니다. Pro는 월 7,000통이라 수신자 1,000명이면 역시 7번입니다. 한도는 월 단위로 보낸 메일을 모두 셉니다. 한 달 발송 횟수에 실제 수신자 수를 곱해 보세요. 주 1회 뉴스레터는 들어갑니다."
         ],
         "bullets": [
           "**도메인이 아직 없나요?** 발신 주소에 자신의 사이트 주소를 쓰고 싶다면 [Hostinger 도메인: 구매, 이전, 다른 곳 등록](/ko/reviews/hostinger-domain-ko)을 보세요.",
@@ -159668,7 +159836,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**쓸 만합니다.** Hostinger에 이미 사이트가 있고 수신자가 1,000명 이하라면. Grow는 500명까지 자동화를 제공하고, Pro는 1,000명과 WhatsApp을 제공합니다. 12개월 동안 월 US$ 1.74와 US$ 2.79이고, 갱신 시 US$ 2.49와 US$ 3.99입니다.",
           "**Mailchimp나 Brevo의 무료 플랜에 머무르세요.** 리스트가 막 시작했고 메일을 얼마나 자주 보낼지 아직 모른다면. Reach에는 국제 사이트에서도 무료 플랜이 없습니다.",
-          "**Mailchimp나 Brevo로 가세요.** 리스트가 1,000명을 넘거나 전체 리스트에 주 2회 이상 보낼 때. Reach 플랜은 수신자 1,000명과 월 7,000통에서 멈춥니다.",
+          "**Mailchimp나 Brevo로 가세요.** 리스트가 1,000명을 넘거나 한 달에 전체 리스트로 7번보다 많이 보내야 할 때. Reach 플랜은 수신자 1,000명과 월 7,000통에서 멈춥니다.",
           "제 사이트라면 Reach Grow를 고릅니다. 500명까지의 리스트에 자동화가 붙고, 갱신해도 월 US$ 2.49이기 때문입니다."
         ]
       },
@@ -159723,7 +159891,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "리스트가 막 시작했고 Mailchimp나 Brevo의 무료 플랜 안에 들어간다면 넘기세요.",
-        "리스트가 1,000명을 넘거나 전체 리스트에 주 2회 이상 보낸다면 넘기세요."
+        "리스트가 1,000명을 넘거나 전체 리스트에 한 달에 8회 이상 보낸다면 넘기세요."
       ]
     }
   },
@@ -159763,6 +159931,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach 值得用吗？按情况选择的表格、套餐、发送上限、WhatsApp 与续费价，并与 Mailchimp、Brevo 的免费版对比，截至 2026 年 10 月 30 日。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
@@ -159806,7 +159975,7 @@ export const reviewsData: unknown[] = [
             [
               "超过免费额度，1,000 人以内",
               "Reach Grow 或 Pro",
-              "Reach Pro 最多支持 1,000 名收件人，首 12 个月每月 US$ 2.79（续费 US$ 3.99）。"
+              "Grow 最多覆盖 500 名收件人。Reach Pro 最多支持 1,000 名收件人，首 12 个月每月 US$ 2.79（续费 US$ 3.99）。"
             ],
             [
               "名单超过 1,000 人",
@@ -159864,7 +160033,7 @@ export const reviewsData: unknown[] = [
           "**Grow：** 500 名收件人，每月 3,500 封邮件，每月 10 个 AI 额度。去掉 Reach 标志，包含个性化、定时发送和自动化。",
           "**Pro：** 1,000 名收件人，每月 7,000 封邮件，每月 20 个 AI 额度。增加 HTML、优化发送时间、WhatsApp 营销、自定义字段和团队成员。"
         ],
-        "emphasis": "在套餐之间犹豫时，决定因素是名单的大小。收件人超过 1,000 人，就已经不在 Reach 的选择范围内了。"
+        "emphasis": "在套餐之间犹豫时，决定因素是名单的大小。页面上的套餐最多到 1,000 名收件人；超过的话，请在购物车里看看有没有更大的 Pro 档位，或者选择 Mailchimp 或 Brevo。"
       },
       {
         "heading": "Mailchimp 与 Brevo：免费版",
@@ -159904,8 +160073,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "名单增长之后",
         "paragraphs": [
-          "最先碰到的上限是收件人数：Starter 100 人，Grow 500 人，Pro 1,000 人。Reach 的套餐到这里为止。如果你的名单已经超过 1,000 人，或很快会超过，就选择 Mailchimp 或 Brevo。这两家按联系人数量或发送量收费。",
-          "第二个上限是发送量。Grow 每月 3,500 封，收件人 500 人时，每月可以向整个名单发送 7 次；Pro 每月 7,000 封，收件人 1,000 人时同样是 7 次。每周发一次通讯够用；如果每周要给整个名单发送超过一次，就会超出上限。"
+          "最先碰到的上限是收件人数：Starter 100 人，Grow 500 人，Pro 1,000 人。页面上 Reach 的套餐到这里为止。上限按当月不重复的收件人计算，不是按已保存的联系人。如果你的名单已经超过 1,000 人，或很快会超过，就选择 Mailchimp 或 Brevo。这两家按联系人数量或发送量收费。",
+          "第二个上限是发送量。Grow 每月 3,500 封，收件人 500 人时，每月可以向整个名单发送 7 次；Pro 每月 7,000 封，收件人 1,000 人时同样是 7 次。上限按月计算，每封发出的邮件都算。把当月的发送次数乘以实际收件人数来估算。每周发一次新闻邮件就够用。"
         ],
         "bullets": [
           "**还没有域名？** 如果想让发件人使用你网站的地址，请看 [Hostinger 域名：购买、转入或在别处注册](/zh-hans/reviews/hostinger-domain-zh-hans)。",
@@ -159924,7 +160093,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**值得用：** 如果你已在 Hostinger 有网站，且收件人在 1,000 人以内。Grow 为 500 人提供自动化，Pro 支持 1,000 人并包含 WhatsApp。首 12 个月每月分别是 US$ 1.74 和 US$ 2.79，续费分别是 US$ 2.49 和 US$ 3.99。",
           "**先用免费版：** 如果名单刚起步，而且你还不确定会多频繁地发邮件，就留在 Mailchimp 或 Brevo 的免费版。Reach 在国际站上也没有免费版。",
-          "**选 Mailchimp 或 Brevo：** 如果名单超过 1,000 人，或者你每周要给整个名单发送超过一次邮件。Reach 套餐在 1,000 名收件人和每月 7,000 封邮件处停止。",
+          "**选 Mailchimp 或 Brevo：** 如果名单超过 1,000 人，或者你每月要给整个名单发送超过 7 次邮件。Reach 套餐在 1,000 名收件人和每月 7,000 封邮件处停止。",
           "如果是我自己的网站，我会选 Reach Grow：它为 500 人以内的名单提供自动化，续费后每月也只要 US$ 2.49。"
         ]
       },
@@ -159979,7 +160148,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "如果名单刚起步，在 Mailchimp 或 Brevo 的免费版额度内，就先不选。",
-        "如果名单超过 1,000 人，或每周要给整个名单发送超过一次，就不选。"
+        "如果名单超过 1,000 人，或每月要给整个名单发送超过 7 次，就不选。"
       ]
     }
   },
@@ -160019,6 +160188,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger Reach 值得用嗎？依情況選擇的表格、方案、寄送上限、WhatsApp 與續訂價，並與 Mailchimp、Brevo 的免費版比較，截至 2026 年 10 月 30 日。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-reach-ou-mailchimp-brevo-capa.webp",
@@ -160062,7 +160232,7 @@ export const reviewsData: unknown[] = [
             [
               "超過免費額度，1,000 人以內",
               "Reach Grow 或 Pro",
-              "Reach Pro 最多支援 1,000 位收件人，前 12 個月每月 US$ 2.79（續訂 US$ 3.99）。"
+              "Grow 最多涵蓋 500 位收件人。Reach Pro 最多支援 1,000 位收件人，前 12 個月每月 US$ 2.79（續訂 US$ 3.99）。"
             ],
             [
               "名單超過 1,000 人",
@@ -160120,7 +160290,7 @@ export const reviewsData: unknown[] = [
           "**Grow：** 500 位收件人，每月 3,500 封郵件，每月 10 個 AI 額度。去掉 Reach 標誌，含個人化、排程寄送和自動化。",
           "**Pro：** 1,000 位收件人，每月 7,000 封郵件，每月 20 個 AI 額度。增加 HTML、最佳寄送時間、WhatsApp 行銷、自訂欄位和團隊成員。"
         ],
-        "emphasis": "在方案之間猶豫時，決定因素是名單的大小。收件人超過 1,000 人，就已經不在 Reach 的選擇範圍內了。"
+        "emphasis": "在方案之間猶豫時，決定因素是名單的大小。頁面上的方案最多到 1,000 位收件人；超過的話，請在購物車裡看看有沒有更大的 Pro 級距，或者選擇 Mailchimp 或 Brevo。"
       },
       {
         "heading": "Mailchimp 與 Brevo：免費版",
@@ -160160,8 +160330,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "名單成長之後",
         "paragraphs": [
-          "最先碰到的上限是收件人數：Starter 100 人，Grow 500 人，Pro 1,000 人。Reach 的方案到這裡為止。如果你的名單已經超過 1,000 人，或很快會超過，就選擇 Mailchimp 或 Brevo。這兩家按聯絡人數量或寄送量收費。",
-          "第二個上限是寄送量。Grow 每月 3,500 封，收件人 500 人時，每月可以向整個名單寄送 7 次；Pro 每月 7,000 封，收件人 1,000 人時同樣是 7 次。每週寄一次電子報就夠用；如果每週要給整個名單寄超過一次，就會超出上限。"
+          "最先碰到的上限是收件人數：Starter 100 人，Grow 500 人，Pro 1,000 人。頁面上 Reach 的方案到這裡為止。上限依當月不重複的收件人計算，不是依已儲存的聯絡人。如果你的名單已經超過 1,000 人，或很快會超過，就選擇 Mailchimp 或 Brevo。這兩家按聯絡人數量或寄送量收費。",
+          "第二個上限是寄送量。Grow 每月 3,500 封，收件人 500 人時，每月可以向整個名單寄送 7 次；Pro 每月 7,000 封，收件人 1,000 人時同樣是 7 次。上限依月計算，每封寄出的郵件都算。把當月的寄送次數乘以實際收件人數來估算。每週寄一次電子報就夠用。"
         ],
         "bullets": [
           "**還沒有網域？** 如果想讓寄件者使用你網站的網址，請看 [Hostinger 網域：購買、轉入或在別處註冊](/zh-hant/reviews/hostinger-domain-zh-hant)。",
@@ -160180,7 +160350,7 @@ export const reviewsData: unknown[] = [
         "paragraphs": [
           "**值得用：** 如果你已在 Hostinger 有網站，且收件人在 1,000 人以內。Grow 為 500 人提供自動化，Pro 支援 1,000 人並含 WhatsApp。前 12 個月每月分別是 US$ 1.74 和 US$ 2.79，續訂分別是 US$ 2.49 和 US$ 3.99。",
           "**先用免費版：** 如果名單剛起步，而且你還不確定會多頻繁地寄信，就留在 Mailchimp 或 Brevo 的免費版。Reach 在國際站上也沒有免費版。",
-          "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者你每週要給整個名單寄超過一次郵件。Reach 方案在 1,000 位收件人和每月 7,000 封郵件處停止。",
+          "**選 Mailchimp 或 Brevo：** 如果名單超過 1,000 人，或者你每月要給整個名單寄送超過 7 次郵件。Reach 方案在 1,000 位收件人和每月 7,000 封郵件處停止。",
           "如果是我自己的網站，我會選 Reach Grow：它為 500 人以內的名單提供自動化，續訂後每月也只要 US$ 2.49。"
         ]
       },
@@ -160235,7 +160405,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "如果名單剛起步，在 Mailchimp 或 Brevo 的免費版額度內，就先不選。",
-        "如果名單超過 1,000 人，或每週要給整個名單寄超過一次，就不選。"
+        "如果名單超過 1,000 人，或每月要給整個名單寄超過 7 次，就不選。"
       ]
     }
   },
@@ -160275,6 +160445,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger ou HostGator, com o cupom SONAR20 de 20% OFF na Hostinger: renovação, ciclos, backup e VPS lado a lado.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
@@ -160285,7 +160456,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço e servidor no Brasil declarado. Os ciclos são diferentes, 48 meses e 3 anos, então a comparação justa é por mês, com a renovação ao lado, na tabela abaixo."
+          "Pela renovação, a Hostinger sai mais barata no plano de 1 site, e a HostGator, no plano para muitos sites, que ainda traz mais espaço. Os ciclos são diferentes, 48 meses e 3 anos, então a comparação justa é por mês, com a renovação ao lado, na tabela abaixo."
         ]
       },
       {
@@ -160303,7 +160474,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Renovação.** A Hostinger mostra a renovação de cada plano no cartão. A HostGator não mostra no cartão; usamos a tabela de preço regular dela, a de valores sem desconto, como referência.",
           "**Ciclo.** O preço promocional da Hostinger vale em plano de 48 meses; o da HostGator, em plano de 3 anos. O total de um não se compara com o total do outro. Por mês, sim.",
-          "**Servidor no país.** A HostGator diz, na página, que os servidores ficam no Brasil. As páginas de planos da Hostinger que lemos não dizem onde fica o servidor.",
+          "**Servidor no país.** A HostGator diz, na página, que os servidores ficam no Brasil. A Hostinger também lista datacenter no Brasil, além de Europa, Ásia e América do Norte, conforme o plano e a disponibilidade.",
           "**VPS.** Se o site precisa de processador e memória garantidos, a comparação é outra, mais abaixo."
         ]
       },
@@ -160403,7 +160574,7 @@ export const reviewsData: unknown[] = [
         },
         "postParagraphs": [
           "Os cartões da HostGator mostram um preço \"De\" e um \"% OFF\". Não use esse número como renovação: no plano P, o \"De\" é R$ 1.652,04 por 3 anos, e a tabela de preço regular da própria HostGator diz R$ 1.130,04. A página também chama a campanha de \"Black November\", sem datas.",
-          "Os três planos citam backup diário, SSL, CDN, migração grátis, e-mail ilimitado por 1 ano e domínio grátis (1 no P, 2 no M, 3 no Turbo). Cada plano tem um teto de visitas por mês: até 80 mil no P, 120 mil no M e 400 mil no Turbo."
+          "Os três planos citam backup diário, SSL, CDN, migração grátis, e-mail ilimitado por 1 ano e domínio grátis (1 no P, 2 no M, 3 no Turbo). Cada plano traz uma estimativa de visitas por mês, que a página diz ser sem prejuízo ao desempenho: até 80 mil no P, 120 mil no M e 400 mil no Turbo."
         ]
       },
       {
@@ -160448,8 +160619,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Espaço.** A HostGator dá 100 GB já no plano de 1 site. Na Hostinger, os planos de entrada usam SSD de 10 e 20 GB; NVMe de 50 GB começa no Unlimited.",
           "**Backup.** A HostGator cita backup diário nos três planos. Na Hostinger, o Single tem backup semanal e o Unlimited, diário.",
-          "**Servidor no Brasil.** A HostGator declara servidores no Brasil. Nas páginas de planos da Hostinger que lemos, a localização não aparece: pergunte ao suporte se isso pesa para você.",
-          "**Limite de visitas.** A HostGator põe um teto de visitas por mês em cada plano. Se o seu site está perto dele, conte com o plano de cima.",
+          "**Servidor no Brasil.** A HostGator declara servidores no Brasil. A Hostinger também lista datacenter no Brasil para hospedagem web, cloud e VPS, sujeito à disponibilidade; confira a lista ao contratar.",
+          "**Limite de visitas.** A HostGator cita uma estimativa de visitas por mês em cada plano, e não um corte automático. Se o seu site está perto dela, avalie o consumo de recursos antes de trocar de plano.",
           "**Reembolso.** A HostGator anuncia 30 dias de garantia. Como a Hostinger cobra, renova e devolve o dinheiro está em [Hostinger é confiável?](/reviews/hostinger-e-confiavel).",
           "**Extras com prazo.** E-mail grátis \"por 1 ano\" e \"+3 meses grátis\" da HostGator vencem antes do plano. Na Hostinger, os créditos de IA em dobro são da campanha, e o domínio grátis vale por 1 ano do Premium para cima."
         ]
@@ -160518,7 +160689,7 @@ export const reviewsData: unknown[] = [
         "heading": "Qual escolher: o veredito",
         "paragraphs": [
           "**Escolha a Hostinger** para um site só, como blog, portfólio ou página de empresa: o Single custa menos na promoção e na renovação, e a promoção dura 48 meses. A Hostinger também é a escolha se você quer um VPS com mais memória pelo mesmo número de vCPU.",
-          "**Escolha a HostGator** para vários sites, ou se espaço em disco, backup diário em todo plano e servidor no Brasil declarado pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
+          "**Escolha a HostGator** para vários sites, ou se espaço em disco e backup diário em todo plano pesam para você. No plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
           "**Nos dois casos**, olhe a coluna da renovação antes de pagar e confira o valor no carrinho. As duas estão em campanha e os preços podem mudar.",
           "Se fosse para o meu site, eu levaria a Hostinger para um site só, porque o Single custa menos na promoção e na renovação."
         ]
@@ -160529,7 +160700,7 @@ export const reviewsData: unknown[] = [
           "Qual é melhor, Hostinger ou HostGator? Depende do plano. Para 1 site, a Hostinger custa menos na promoção e na renovação; para vários sites, a HostGator custa menos nas duas fases e dá mais espaço.",
           "Qual renova mais barato, Hostinger ou HostGator? No plano de 1 site, a Hostinger: R$ 23,99/mês contra R$ 31,39/mês do preço regular da HostGator. No plano para vários sites, a HostGator: R$ 40,89/mês contra R$ 64,99/mês do Unlimited.",
           "Hostinger ou HostGator para VPS? Com o mesmo número de vCPU, a Hostinger traz o dobro de memória e a HostGator custa menos na promoção. A HostGator não mostra a renovação do VPS na página; pergunte antes de fechar.",
-          "A Hostinger tem servidor no Brasil? As páginas de planos que lemos não dizem onde fica o servidor. A HostGator declara servidores no Brasil.",
+          "A Hostinger tem servidor no Brasil? Tem: a lista oficial da Hostinger inclui o Brasil para hospedagem web, cloud e VPS, sujeita à disponibilidade. O e-mail da Hostinger fica à parte, na França e na Alemanha. A HostGator também declara servidores no Brasil.",
           "O cupom SONAR20 vale no VPS da Hostinger? Vale. Testamos no plano Startup de e-commerce, do Criador de lojas, e o desconto é de 20% no primeiro período.",
           "Dá para trocar de hospedagem sem perder o site? Dá, levando os arquivos e o banco de dados para a nova. A HostGator anuncia migração grátis; faça a troca antes de o plano antigo vencer.",
           "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
@@ -160549,7 +160720,7 @@ export const reviewsData: unknown[] = [
       ],
       "skipIf": [
         "Passe para a HostGator se vai ter vários sites: no plano para muitos sites, o preço regular dela fica abaixo da renovação do Unlimited.",
-        "Passe para a HostGator se espaço em disco, backup diário em todo plano e servidor no Brasil declarado pesam para você."
+        "Passe para a HostGator se espaço em disco e backup diário em todo plano pesam para você."
       ]
     },
     "pros": [],
@@ -160611,6 +160782,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "How to choose a web host: renewal, the 48-month cycle, server location and VPS. Hostinger's international prices in US dollars on October 30, 2026, with the renewal next to each one.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -160640,7 +160812,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Renewal.** Hostinger shows each plan's renewal price on the card. Read it before the promotional price.",
           "**Cycle.** Hostinger's promotional price applies to the 48-month plan. The total of one term does not compare with the total of another. Per month, it does.",
-          "**Server in the country.** The Hostinger plan pages do not say where the server is. If that matters to you, ask support before you buy.",
+          "**Server in the country.** Hostinger has data centers in Europe, Asia, North America and South America. The list depends on the plan and on availability, so check it when you sign up.",
           "**VPS.** If the site needs guaranteed processor and memory, the comparison is different, further down."
         ]
       },
@@ -160706,7 +160878,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Storage.** The entry plan, Premium, has 20 GB of SSD. NVMe, at 50 GB, starts on Unlimited.",
           "**Backup.** Premium has weekly backups; Unlimited, daily. Before you choose, check that the backup you need is in the plan you want.",
-          "**Server location.** The pages do not say where the server is. If that matters to you, ask support before you buy.",
+          "**Server location.** Data centers run from Europe to South America, depending on the plan and availability. Check the list when you sign up.",
           "**Renewal in the cart.** Before you pay, read the renewal price in the cart, not only the promotional monthly price.",
           "**Refunds.** Read the refund policy before you buy. How Hostinger charges, renews and refunds is covered in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
         ]
@@ -160769,7 +160941,7 @@ export const reviewsData: unknown[] = [
           "Which web host is better? It depends on how many sites you have and on whether the promotion or the renewal matters more to you. Compare the renewal, the cycle, the server's country and the VPS, as above.",
           "Which Hostinger plan renews for the least? Premium, at US$10.99 a month on the international site, after a 48-month promotion at US$2.49.",
           "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
-          "Does Hostinger say where its servers are? The plan pages do not say where the server is. Ask support before you buy.",
+          "Does Hostinger say where its servers are? Yes. Its official list names data centers in Europe, Asia, North America and South America for web, cloud and VPS plans, subject to availability. Email is stored separately, in France and Germany.",
           "Does the SONAR20 code work on the VPS? Yes, it works on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
           "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires.",
           "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
@@ -160851,6 +161023,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hosting para tu sitio: renovación, ciclo de 48 meses, dónde está el servidor y VPS. Precios del sitio internacional de Hostinger en dólares el 30 de octubre de 2026, con la renovación al lado.",
     "publishedAt": "30 de octubre de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -160880,7 +161053,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Renovación.** Hostinger muestra el precio de renovación de cada plan en la tarjeta. Míralo antes que el precio promocional.",
           "**Ciclo.** El precio promocional de Hostinger vale para el plan de 48 meses. El total de un plazo no se compara con el total de otro. Por mes, sí.",
-          "**Servidor en el país.** Las páginas de planes de Hostinger no dicen dónde está el servidor. Si eso te importa, pregunta al soporte antes de comprar.",
+          "**Servidor en el país.** Hostinger tiene centros de datos en Europa, Asia, Norteamérica y Sudamérica. La lista varía según el plan y la disponibilidad: revísala al contratar.",
           "**VPS.** Si el sitio necesita procesador y memoria garantizados, la comparación es otra, más abajo."
         ]
       },
@@ -160946,7 +161119,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Almacenamiento.** El plan de entrada, el Premium, tiene 20 GB de SSD. El NVMe de 50 GB empieza en el Unlimited.",
           "**Backup.** El Premium tiene backup semanal; el Unlimited, diario. Antes de elegir, confirma que el backup que necesitas viene en el plan que quieres.",
-          "**Servidor.** Las páginas no dicen dónde está el servidor. Si la ubicación te importa, pregunta al soporte antes de comprar.",
+          "**Servidor.** Los centros de datos van de Europa a Sudamérica según el plan y la disponibilidad. Revisa la lista al contratar.",
           "**Renovación en el carrito.** Antes de pagar, mira el precio de renovación en el carrito, no solo el mensual promocional.",
           "**Reembolso.** Lee la política de reembolso antes de contratar. Cómo Hostinger cobra, renueva y reembolsa está explicado en [¿Es confiable Hostinger?](/es/reviews/hostinger-es-confiable)."
         ]
@@ -161009,7 +161182,7 @@ export const reviewsData: unknown[] = [
           "¿Qué hosting es mejor? Depende de cuántos sitios tengas y de si pesa más la promoción o la renovación. Compara la renovación, el ciclo, el país del servidor y el VPS, como arriba.",
           "¿Qué plan de Hostinger renueva más barato? El Premium, a 10,99 US$ al mes en el sitio internacional, después de una promoción de 48 meses a 2,49 US$.",
           "¿Vale la pena el VPS de Hostinger? Depende de la carga que tenga el sitio. Compara vCPU, memoria y renovación: el KVM 1 renueva a 11,99 US$ al mes en el sitio internacional.",
-          "¿Hostinger dice dónde están sus servidores? Las páginas de planes no dicen dónde está el servidor. Pregunta al soporte antes de comprar.",
+          "¿Hostinger dice dónde están sus servidores? Sí: su lista oficial cita centros de datos en Europa, Asia, Norteamérica y Sudamérica para hosting web, cloud y VPS, según la disponibilidad. El correo se guarda aparte, en Francia y Alemania.",
           "¿El código SONAR20 vale en el VPS? Sí, vale en el VPS. Lo probamos en el plan Startup de e-commerce, del creador de tiendas, y dio 20% en el primer período.",
           "¿Se puede cambiar de hosting sin perder el sitio? Sí, pasando los archivos y la base de datos al nuevo hosting. Haz el cambio antes de que venza el plan anterior.",
           "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
@@ -161091,6 +161264,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Choisir un hébergeur web : renouvellement, cycle de 48 mois, emplacement du serveur et VPS. Prix du site international de Hostinger en dollars au 30 octobre 2026, avec le renouvellement à côté.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -161120,7 +161294,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Renouvellement.** Hostinger affiche le prix du renouvellement de chaque forfait sur la carte. Regardez-le avant le prix promotionnel.",
           "**Cycle.** La promotion de Hostinger vaut pour le forfait de 48 mois. Le total d'une durée ne se compare pas au total d'une autre. Par mois, si.",
-          "**Serveur dans le pays.** Les pages de forfaits de Hostinger n'indiquent pas où se trouve le serveur. Si cela compte pour vous, demandez au support avant d'acheter.",
+          "**Serveur dans le pays.** Hostinger propose des centres de données en Europe, en Asie, en Amérique du Nord et en Amérique du Sud. La liste varie selon le forfait et la disponibilité : vérifiez-la au moment de l'achat.",
           "**VPS.** Si le site a besoin d'un processeur et d'une mémoire garantis, la comparaison est différente, plus bas."
         ]
       },
@@ -161186,7 +161360,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Stockage.** Le forfait d'entrée, Premium, a 20 Go de SSD. Le NVMe de 50 Go commence avec Unlimited.",
           "**Sauvegarde.** Premium a des sauvegardes hebdomadaires ; Unlimited, des sauvegardes quotidiennes. Avant de choisir, vérifiez que la sauvegarde dont vous avez besoin est incluse dans le forfait voulu.",
-          "**Emplacement du serveur.** Les pages n'indiquent pas où se trouve le serveur. Si cela compte pour vous, demandez au support avant d'acheter.",
+          "**Emplacement du serveur.** Les centres de données vont de l'Europe à l'Amérique du Sud selon le forfait et la disponibilité. Vérifiez la liste au moment de l'achat.",
           "**Renouvellement dans le panier.** Avant de payer, regardez le prix du renouvellement dans le panier, pas seulement le mensuel promotionnel.",
           "**Remboursement.** Lisez la politique de remboursement avant de souscrire. La façon dont Hostinger facture, renouvelle et rembourse est expliquée dans [Hostinger est-il fiable ?](/fr/reviews/hostinger-est-il-fiable)."
         ]
@@ -161249,7 +161423,7 @@ export const reviewsData: unknown[] = [
           "Quel hébergeur est le meilleur ? Cela dépend du nombre de sites et de ce qui compte le plus pour vous, la promotion ou le renouvellement. Comparez le renouvellement, le cycle, le pays du serveur et le VPS, comme plus haut.",
           "Quel forfait Hostinger se renouvelle le moins cher ? Premium, à 10,99 US$ par mois sur le site international, après une promotion sur 48 mois à 2,49 US$.",
           "Le VPS Hostinger vaut-il le coup ? Cela dépend de la charge du site. Comparez vCPU, mémoire et renouvellement : le KVM 1 se renouvelle à 11,99 US$ par mois sur le site international.",
-          "Hostinger indique-t-il où se trouvent ses serveurs ? Les pages de forfaits n'indiquent pas où se trouve le serveur. Demandez au support avant d'acheter.",
+          "Hostinger indique-t-il où se trouvent ses serveurs ? Oui : sa liste officielle cite des centres de données en Europe, en Asie, en Amérique du Nord et en Amérique du Sud pour l'hébergement web, cloud et VPS, selon la disponibilité. Les e-mails sont stockés à part, en France et en Allemagne.",
           "Le code SONAR20 fonctionne-t-il sur le VPS ? Oui, il vaut sur le VPS. Nous l'avons testé sur le forfait Startup e-commerce, du créateur de boutiques, et il a donné 20 % sur la première période.",
           "Peut-on changer d'hébergeur sans perdre son site ? Oui, en transférant les fichiers et la base de données vers le nouvel hébergeur. Faites le changement avant l'expiration de l'ancien forfait.",
           "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
@@ -161332,6 +161506,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Come scegliere l'hosting per un sito: piani, rinnovo e durata dello sconto. Prezzi Hostinger in dollari al 30/10/2026, per mese, con spazio, backup, server nel paese e VPS.",
     "publishedAt": "30 ottobre 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
@@ -161360,7 +161535,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Rinnovo.** La Hostinger mostra il prezzo di rinnovo di ogni piano sulla card. Guardalo prima del prezzo promozionale.",
           "**Durata.** Lo sconto della Hostinger vale per il piano di 48 mesi. Il totale di una durata non si confronta con quello di un'altra. Per mese, sì.",
-          "**Server nel paese.** Le pagine dei piani Hostinger non dicono dove si trova il server. Se per te conta, chiedilo al supporto prima di pagare.",
+          "**Server nel paese.** Hostinger ha data center in Europa, Asia, Nord America e Sud America. L'elenco cambia in base al piano e alla disponibilità: controllalo quando acquisti.",
           "**VPS.** Se il sito ha bisogno di processore e memoria garantiti, il confronto è un altro, più in basso."
         ]
       },
@@ -161426,7 +161601,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Spazio.** Il piano di ingresso, il Premium, ha 20 GB SSD. L'NVMe da 50 GB parte dall'Unlimited.",
           "**Backup.** Il Premium ha il backup settimanale, l'Unlimited quello giornaliero. Prima di scegliere, controlla che il backup che ti serve sia nel piano che vuoi.",
-          "**Posizione del server.** Le pagine non dicono dove si trova il server. Se per te conta, chiedilo al supporto prima di pagare.",
+          "**Posizione del server.** I data center vanno dall'Europa al Sud America, in base al piano e alla disponibilità. Controlla l'elenco quando acquisti.",
           "**Rinnovo nel carrello.** Prima di pagare, guarda il prezzo di rinnovo nel carrello, non solo il mensile promozionale.",
           "**Rimborso.** Leggi la politica di rimborso prima di acquistare. Come la Hostinger addebita, rinnova e rimborsa è spiegato in [Hostinger è affidabile?](/it/reviews/hostinger-e-affidabile)."
         ]
@@ -161489,7 +161664,7 @@ export const reviewsData: unknown[] = [
           "Quale hosting è meglio? Dipende da quanti siti hai e da cosa pesa di più per te, la promozione o il rinnovo. Confronta il rinnovo, la durata, il paese del server e il VPS, come sopra.",
           "Quale piano Hostinger si rinnova al prezzo più basso? Il Premium, a 10,99 US$ al mese sul sito internazionale, dopo una promozione di 48 mesi a 2,49 US$.",
           "Conviene il VPS della Hostinger? Dipende dal carico del sito. Confronta vCPU, memoria e rinnovo: il KVM 1 si rinnova a 11,99 US$ al mese sul sito internazionale.",
-          "La Hostinger dice dove si trovano i suoi server? Le pagine dei piani non dicono dove si trova il server. Chiedilo al supporto prima di pagare.",
+          "La Hostinger dice dove si trovano i suoi server? Sì: l'elenco ufficiale cita data center in Europa, Asia, Nord America e Sud America per hosting web, cloud e VPS, in base alla disponibilità. La posta è conservata a parte, in Francia e Germania.",
           "Il codice SONAR20 vale sul VPS? Sì. L'abbiamo provato sul piano Startup di e-commerce, del costruttore di negozi, e ha dato il 20% sul primo periodo.",
           "Si può cambiare hosting senza perdere il sito? Sì, portando i file e il database sul nuovo hosting. Fai il passaggio prima che scada il piano vecchio.",
           "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
@@ -161572,6 +161747,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Webhosting für eine Website wählen: Hostinger-Preise in US-Dollar vom 30. Oktober 2026, pro Monat und mit Verlängerung, dazu Speicher, Backup, Server im Land und VPS.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
@@ -161600,7 +161776,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Verlängerung.** Die Hostinger zeigt den Verlängerungspreis jedes Tarifs auf der Karte. Lesen Sie ihn vor dem Aktionspreis.",
           "**Laufzeit.** Der Aktionspreis der Hostinger gilt für den Tarif mit 48 Monaten. Die Summe einer Laufzeit lässt sich nicht mit der Summe einer anderen vergleichen. Pro Monat dagegen schon.",
-          "**Server im Land.** Die Tarifseiten der Hostinger sagen nicht, wo der Server steht. Wenn Ihnen das wichtig ist, fragen Sie vor dem Kauf den Support.",
+          "**Server im Land.** Die Hostinger hat Rechenzentren in Europa, Asien, Nordamerika und Südamerika. Die Auswahl hängt vom Tarif und von der Verfügbarkeit ab; prüfen Sie die Liste beim Abschluss.",
           "**VPS.** Wenn Ihre Website garantierte Prozessorleistung und Arbeitsspeicher braucht, ist der Vergleich ein anderer, weiter unten."
         ]
       },
@@ -161666,7 +161842,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**Speicher.** Der Einstiegstarif, der Premium, hat 20 GB SSD. NVMe mit 50 GB beginnt beim Unlimited.",
           "**Backup.** Der Premium hat ein wöchentliches Backup, der Unlimited ein tägliches. Prüfen Sie vor der Wahl, ob das Backup, das Sie brauchen, im gewünschten Tarif enthalten ist.",
-          "**Standort des Servers.** Die Seiten sagen nicht, wo der Server steht. Wenn Ihnen das wichtig ist, fragen Sie vor dem Kauf den Support.",
+          "**Standort des Servers.** Die Rechenzentren reichen von Europa bis Südamerika, je nach Tarif und Verfügbarkeit. Prüfen Sie die Liste beim Abschluss.",
           "**Verlängerung im Warenkorb.** Sehen Sie vor dem Bezahlen auf den Verlängerungspreis im Warenkorb, nicht nur auf den monatlichen Aktionspreis.",
           "**Erstattung.** Lesen Sie die Erstattungsregeln vor dem Abschluss. Wie die Hostinger abrechnet, verlängert und erstattet, steht in [Ist Hostinger seriös?](/de/reviews/ist-hostinger-serioes)."
         ]
@@ -161729,7 +161905,7 @@ export const reviewsData: unknown[] = [
           "Welcher Hoster ist besser? Das hängt davon ab, wie viele Websites Sie haben und ob Ihnen die Aktion oder die Verlängerung wichtiger ist. Vergleichen Sie Verlängerung, Laufzeit, Land des Servers und VPS, wie oben.",
           "Welcher Hostinger-Tarif verlängert sich am günstigsten? Der Premium, zu 10,99 US$ pro Monat auf der internationalen Seite, nach einer Aktion über 48 Monate zu 2,49 US$.",
           "Lohnt sich der VPS der Hostinger? Das hängt von der Last der Website ab. Vergleichen Sie vCPU, Arbeitsspeicher und Verlängerung: Der KVM 1 verlängert sich zu 11,99 US$ pro Monat auf der internationalen Seite.",
-          "Sagt die Hostinger, wo ihre Server stehen? Die Tarifseiten sagen nicht, wo der Server steht. Fragen Sie vor dem Kauf den Support.",
+          "Sagt die Hostinger, wo ihre Server stehen? Ja: Die offizielle Liste nennt Rechenzentren in Europa, Asien, Nordamerika und Südamerika für Web-, Cloud- und VPS-Tarife, je nach Verfügbarkeit. E-Mail-Postfächer liegen getrennt in Frankreich und Deutschland.",
           "Gilt der Code SONAR20 beim VPS? Ja, SONAR20 gilt beim VPS; prüfen Sie es im Warenkorb. Getestet haben wir den Startup-Tarif für E-Commerce aus dem Shop-Ersteller, und er gab 20 % auf den ersten Zeitraum.",
           "Kann man den Hoster wechseln, ohne die Website zu verlieren? Ja, wenn man Dateien und Datenbank zum neuen Hoster überträgt. Machen Sie den Wechsel, bevor der alte Tarif ausläuft.",
           "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
@@ -161812,6 +161988,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostingerの料金を2026年10月30日時点で整理。割引価格と更新料を月額で並べ、バックアップ、サーバーの場所、VPSまで、レンタルサーバー選びの基準を紹介します。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
@@ -161840,7 +162017,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**更新料。** Hostingerはプランのカードに更新料が出ています。割引価格ではなく、その数字を比べてください。",
           "**契約期間。** Hostingerの割引価格は、48か月プランの金額です。期間の違うプランは総額では比べられないので、月額に割ってください。",
-          "**国内サーバー。** 確認したHostingerのプランのページには、サーバーの場所が書かれていませんでした。大事なら、支払う前にサポートに聞いてください。",
+          "**データセンターの場所。** Hostingerはヨーロッパ、アジア、北米、南米にデータセンターを置いています。選べる場所はプランと空き状況で変わるので、契約時に一覧を確認してください。",
           "**VPS。** 処理能力とメモリを確実に使いたいなら、比べ方が変わります。下で説明します。"
         ]
       },
@@ -161906,7 +162083,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**容量。** Premiumは20 GB SSD、Unlimitedは50 GB NVMe、Cloud Startupは100 GB NVMeです。写真や動画が多いサイトは、先に容量を計算してください。",
           "**バックアップ。** Premiumは毎週、Unlimitedは毎日です。1週間分の更新を失うと困るなら、料金より大事になります。",
-          "**サーバーの場所。** 確認したページには、場所が書かれていませんでした。大事なら、支払う前にサポートに聞いてください。",
+          "**サーバーの場所。** データセンターはヨーロッパから南米まであり、プランと空き状況で変わります。契約時に一覧を確認してください。",
           "**返金。** Hostingerの請求、更新、返金のしくみは、[Hostingerは信頼できる？](/ja/reviews/hostinger-trust-guide-ja)にまとめています。",
           "**期間付きの特典。** 無料ドメインやメールなどの特典は、プランより先に切れることがあります。カートでいつまで有効か確認してください。"
         ]
@@ -161969,7 +162146,7 @@ export const reviewsData: unknown[] = [
           "1つのサイトなら、どのプランがいちばん安い？ 3サイトまで使えるPremiumです。割引価格は月額US$2.49、更新後は月額US$10.99で、期間は48か月です。",
           "Hostingerの更新料はいくらですか？ 国際サイトで確認したところ、Premiumは月額US$10.99、Unlimitedは月額US$16.99、Cloud Startupは月額US$25.99です。国や通貨で変わることがあるので、支払う前にカートで確認してください。",
           "VPSはどのプランから見ればいいですか？ 入門のKVM 1（1 vCPU、4 GB、50 GB NVMe）は、24か月契約で割引価格が月額US$6.49、更新後は月額US$11.99です。KVM 2は2 vCPU、8 GBで、割引価格は月額US$8.79です。長い期間で契約する前に、カートで更新料を確認してください。",
-          "Hostingerには国内サーバーがありますか？ 確認したプランのページには、サーバーの場所が書かれていませんでした。大事なら、支払う前にサポートに聞いてください。",
+          "Hostingerはサーバーの場所を公開していますか？ はい。公式の一覧には、ウェブ、クラウド、VPSのプランについて、ヨーロッパ、アジア、北米、南米のデータセンターが載っています。空き状況によります。メールは別に、フランスとドイツに保存されます。",
           "SONAR20はVPSでも使えますか？ VPSでも使えます。カートで確認してください。試したのはE-commerce向けのStartupプランで、割引は最初の期間の20%です。",
           "サイトを消さずに別のサーバーへ移せますか？ はい。ファイルとデータベースを新しいサーバーに移せば可能です。新しいサービスが無料の移行に対応しているか確認し、古いプランの期限が切れる前に移してください。",
           "SONAR20はすでにHostingerのお客様でも使えますか？ はい、新規購入なら使えます。すでにアカウントをお持ちの方が新しいプランや商品を契約する場合も、20%割引が適用されます。すでにお持ちのプランの更新は通常料金で、割引はありません。"
@@ -162051,6 +162228,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "2026년 10월 30일 기준 호스팅어 가격을 정리했습니다. 프로모션가와 갱신가를 월 단위로 나란히 놓고, 백업, 서버 위치, VPS까지 호스팅 고르는 기준을 소개합니다.",
     "publishedAt": "2026년 10월 30일",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
@@ -162079,7 +162257,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**갱신가.** 호스팅어는 플랜 카드에 갱신가를 보여 줍니다. 프로모션가가 아니라 이 숫자를 비교하세요.",
           "**약정 기간.** 호스팅어의 프로모션가는 48개월 플랜 기준입니다. 기간이 다른 플랜은 총액으로 비교할 수 없으니 월 단위로 나누세요.",
-          "**서버 위치.** 확인한 호스팅어 플랜 페이지에는 서버 위치가 적혀 있지 않았습니다. 중요하다면 결제 전에 고객 지원에 물어보세요.",
+          "**서버 위치.** 호스팅어는 유럽, 아시아, 북미, 남미에 데이터 센터를 두고 있습니다. 선택할 수 있는 위치는 플랜과 여유 상황에 따라 다르니 가입할 때 목록을 확인하세요.",
           "**VPS.** 처리 능력과 메모리를 보장받아야 한다면 비교 기준이 달라집니다. 아래에서 설명합니다."
         ]
       },
@@ -162145,7 +162323,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**공간.** Premium은 20 GB SSD, Unlimited는 50 GB NVMe, Cloud Startup은 100 GB NVMe입니다. 사진과 영상이 많은 사이트라면 공간을 먼저 계산하세요.",
           "**백업.** Premium은 주간, Unlimited는 일일입니다. 일주일 치 변경을 잃으면 곤란하다면 가격보다 중요한 기준입니다.",
-          "**서버 위치.** 확인한 페이지에는 위치가 나와 있지 않았습니다. 중요하다면 결제 전에 고객 지원에 문의하세요.",
+          "**서버 위치.** 데이터 센터는 유럽에서 남미까지 있으며 플랜과 여유 상황에 따라 다릅니다. 가입할 때 목록을 확인하세요.",
           "**환불.** 호스팅어의 청구, 갱신, 환불 방식은 [호스팅어는 믿을 만한가요?](/ko/reviews/hostinger-trust-guide-ko)에 정리했습니다.",
           "**기간이 정해진 혜택.** 무료 도메인이나 이메일 같은 혜택은 플랜보다 먼저 끝날 수 있습니다. 주문 화면에서 언제까지 유효한지 확인하세요."
         ]
@@ -162208,7 +162386,7 @@ export const reviewsData: unknown[] = [
           "사이트 하나라면 어떤 플랜이 가장 저렴한가요? 사이트 3개까지 쓸 수 있는 Premium입니다. 프로모션가는 월 US$ 2.49, 갱신가는 월 US$ 10.99이고 프로모션은 48개월입니다.",
           "호스팅어 갱신가는 얼마인가요? 국제 사이트에서 확인한 결과 Premium은 월 US$ 10.99, Unlimited는 월 US$ 16.99, Cloud Startup은 월 US$ 25.99입니다. 국가와 통화에 따라 다를 수 있으니 결제 전에 카트에서 확인하세요.",
           "VPS는 어떤 플랜부터 보면 되나요? 입문 플랜인 KVM 1(1 vCPU, 4 GB, 50 GB NVMe)은 24개월 기준 프로모션가가 월 US$ 6.49, 갱신가가 월 US$ 11.99입니다. KVM 2는 2 vCPU, 8 GB이고 프로모션가는 월 US$ 8.79입니다. 긴 기간으로 결제하기 전에 카트에서 갱신가를 확인하세요.",
-          "호스팅어 서버는 어느 나라에 있나요? 확인한 플랜 페이지에는 서버 위치가 적혀 있지 않았습니다. 중요하다면 결제 전에 고객 지원에 문의하세요.",
+          "호스팅어 서버는 어느 나라에 있나요? 공식 목록에 웹, 클라우드, VPS 플랜용으로 유럽, 아시아, 북미, 남미의 데이터 센터가 나와 있으며 여유 상황에 따라 달라집니다. 이메일은 따로 프랑스와 독일에 저장됩니다.",
           "SONAR20은 VPS에도 적용되나요? 네, VPS에도 적용됩니다. 테스트한 것은 스토어 빌더의 Startup 이커머스 플랜이고, 할인은 첫 기간 20%입니다.",
           "사이트를 잃지 않고 호스팅을 옮길 수 있나요? 가능합니다. 파일과 데이터베이스를 새 호스팅으로 옮기면 됩니다. 새 호스팅이 무료 이전을 제공하는지 확인하고, 기존 플랜이 끝나기 전에 옮기세요.",
           "SONAR20은 호스팅어의 기존 고객도 쓸 수 있나요? 네, 신규 구매에서는 가능합니다. 이미 계정이 있어도 새 플랜이나 제품을 계약하면 20% 할인을 받습니다. 이미 쓰고 있는 플랜의 갱신은 할인 없이 정가로 청구됩니다."
@@ -162291,6 +162469,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "2026年10月30日的 Hostinger 价格整理：促销价与续费价按月并排，并说明备份、服务器所在地和 VPS，帮你选主机。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
@@ -162319,7 +162498,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**续费价。** Hostinger 在套餐卡片上显示续费价。比较时用这个数字，不要用促销价。",
           "**周期。** Hostinger 的促销价按 48 个月套餐计算。周期不同的套餐，总价不能直接比，要除以月数。",
-          "**服务器所在地。** 我们查看的 Hostinger 套餐页面没有写明服务器位置。如果这对你重要，付款前先问客服。",
+          "**服务器所在地。** Hostinger 在欧洲、亚洲、北美和南美设有数据中心。可选的位置因套餐和可用情况而异，购买时请查看列表。",
           "**VPS。** 需要保证处理器和内存的，比较方式不同，见下面的 VPS 部分。"
         ]
       },
@@ -162385,7 +162564,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**存储。** Premium 为 20 GB SSD，Unlimited 为 50 GB NVMe，Cloud Startup 为 100 GB NVMe。照片和视频多的网站，先算好空间。",
           "**备份。** Premium 每周备份，Unlimited 每天备份。如果丢掉一周的更新会很麻烦，备份比价格更重要。",
-          "**服务器位置。** 查看的页面没有写明位置。如果这对你重要，付款前先问客服。",
+          "**服务器位置。** 数据中心从欧洲到南美都有，因套餐和可用情况而异。购买时请查看列表。",
           "**退款。** Hostinger 如何扣费、续费和退款，见 [Hostinger 靠谱吗？](/zh-hans/reviews/hostinger-trust-guide-zh-hans)。",
           "**有期限的优惠。** 免费域名、免费邮箱这类优惠，可能比套餐先到期。在购物车确认能用到什么时候。"
         ]
@@ -162448,7 +162627,7 @@ export const reviewsData: unknown[] = [
           "网站只有一个，哪个套餐最便宜？3 个网站以内用 Premium。促销价每月 US$ 2.49，续费价每月 US$ 10.99，促销期 48 个月。",
           "Hostinger 续费多少钱？在国际站上看到的是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各国和货币可能不同，付款前请在购物车确认。",
           "VPS 从哪个套餐看起？入门的 KVM 1（1 vCPU，4 GB，50 GB NVMe）按 24 个月计，促销价每月 US$ 6.49，续费价每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促销价每月 US$ 8.79。购买长周期之前，先在购物车确认续费价。",
-          "Hostinger 的服务器在哪个国家？我们查看的套餐页面没有写明服务器位置。如果这对你重要，付款前请问客服。",
+          "Hostinger 的服务器在哪个国家？官方列表中，网站、云和 VPS 套餐在欧洲、亚洲、北美和南美都有数据中心，以实际可用为准。邮箱另外存放在法国和德国。",
           "SONAR20 能用在 VPS 上吗？能，VPS 也适用，请在购物车确认。测试过的是商店建站工具的 Startup 电商套餐，优惠是首个周期 20%。",
           "能换主机而不丢失网站吗？可以，把文件和数据库迁到新主机即可。确认新主机是否提供免费迁移，并在旧套餐到期前完成。",
           "SONAR20 适用于已经是 Hostinger 客户的人吗？适用，限新购：已有账户的人购买新的套餐或产品，同样可享 20% 折扣。已有套餐的续费按标价收费，没有折扣。"
@@ -162531,6 +162710,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "2026年10月30日的 Hostinger 價格整理：促銷價與續訂價按月並排，並說明備份、伺服器所在地和 VPS，幫你挑選主機。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/hostinger-ou-hostgator-capa.webp",
@@ -162559,7 +162739,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**續訂價。** Hostinger 在方案卡片上顯示續訂價。比較時用這個數字，不要用促銷價。",
           "**週期。** Hostinger 的促銷價按 48 個月方案計算。週期不同的方案，總價不能直接比較，要除以月數。",
-          "**伺服器所在地。** 我們查看的 Hostinger 方案頁面沒有寫明伺服器位置。如果這對你很重要，付款前先問客服。",
+          "**伺服器所在地。** Hostinger 在歐洲、亞洲、北美和南美設有資料中心。可選的位置因方案和可用情況而異，購買時請查看清單。",
           "**VPS。** 需要保證處理器和記憶體的，比較方式不同，見下面的 VPS 部分。"
         ]
       },
@@ -162625,7 +162805,7 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "**儲存空間。** Premium 為 20 GB SSD，Unlimited 為 50 GB NVMe，Cloud Startup 為 100 GB NVMe。照片和影片多的網站，先算好空間。",
           "**備份。** Premium 每週備份，Unlimited 每天備份。如果遺失一週的更新會很麻煩，備份比價格更重要。",
-          "**伺服器位置。** 查看的頁面沒有寫明位置。如果這對你很重要，付款前先問客服。",
+          "**伺服器位置。** 資料中心從歐洲到南美都有，因方案和可用情況而異。購買時請查看清單。",
           "**退款。** Hostinger 如何扣款、續訂和退款，見 [Hostinger 可靠嗎？](/zh-hant/reviews/hostinger-trust-guide-zh-hant)。",
           "**有期限的優惠。** 免費網域、免費電子郵件這類優惠，可能比方案先到期。請在購物車確認能用到什麼時候。"
         ]
@@ -162688,7 +162868,7 @@ export const reviewsData: unknown[] = [
           "網站只有一個，哪個方案最便宜？3 個網站以內用 Premium。促銷價每月 US$ 2.49，續訂價每月 US$ 10.99，促銷期 48 個月。",
           "Hostinger 續訂要多少錢？在國際站上看到的是：Premium 每月 US$ 10.99，Unlimited 每月 US$ 16.99，Cloud Startup 每月 US$ 25.99。各國和貨幣可能不同，付款前請在購物車確認。",
           "VPS 從哪個方案看起？入門的 KVM 1（1 vCPU，4 GB，50 GB NVMe）以 24 個月計，促銷價每月 US$ 6.49，續訂價每月 US$ 11.99。KVM 2 是 2 vCPU、8 GB，促銷價每月 US$ 8.79。購買長週期之前，先在購物車確認續訂價。",
-          "Hostinger 的伺服器在哪個國家？我們查看的方案頁面沒有寫明伺服器位置。如果這對你很重要，付款前請問客服。",
+          "Hostinger 的伺服器在哪個國家？官方清單中，網站、雲端和 VPS 方案在歐洲、亞洲、北美和南美都有資料中心，以實際可用為準。信箱另外存放在法國和德國。",
           "SONAR20 能用在 VPS 上嗎？能，請在購物車確認。測試過的是商店建站工具的 Startup 電商方案，優惠是首期 20%。",
           "能換主機而不遺失網站嗎？可以，把檔案和資料庫搬到新主機即可。請確認新主機是否提供免費搬遷，並在舊方案到期前完成。",
           "SONAR20 適用於已是 Hostinger 客戶的人嗎？適用，限新購買：已有帳號的人購買新方案或新產品，同樣享有 20% 折扣。已有方案的續訂按定價計算，沒有折扣。"
@@ -162771,6 +162951,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress na Hostinger com o cupom SONAR20 de 20% OFF nos planos Single, Premium, Unlimited e Cloud Startup, e o checklist para começar.",
     "publishedAt": "30 de outubro de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
@@ -162787,7 +162968,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Qual plano para qual projeto",
         "paragraphs": [
-          "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz que todos os planos incluem WordPress e Node.js. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
+          "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz que todos os planos incluem WordPress; a ajuda da Hostinger lista aplicativos Node.js nos planos Business/Unlimited e Cloud. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
         ],
         "image": {
           "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
@@ -162803,7 +162984,7 @@ export const reviewsData: unknown[] = [
           "**Loja ou site com muito tráfego: Cloud Startup.** Sites ilimitados, 100 GB NVMe e backups diários e sob demanda. É o plano mais caro da página, e a renovação também é a maior."
         ],
         "postParagraphs": [
-          "Na dúvida entre dois planos, olhe o backup. Quem não vai mexer no site toda semana vive bem com o semanal; quem vende ou publica todo dia quer o diário."
+          "Na dúvida entre dois planos, olhe o backup. Quem não vai mexer no site toda semana vive bem com o semanal; quem vende ou publica todo dia quer o diário. Single e Premium podem comprar o backup diário à parte; compare esse custo com o do upgrade para o Unlimited."
         ]
       },
       {
@@ -162866,7 +163047,7 @@ export const reviewsData: unknown[] = [
           "Pela página da Hostinger:"
         ],
         "bullets": [
-          "**WordPress e Node.js em todos os planos.**",
+          "**WordPress em todos os planos.** Aplicativos Node.js, segundo a ajuda da Hostinger, nos planos Business/Unlimited e Cloud.",
           "**Instalador de 1 clique e plugins internos**, citados no FAQ da página.",
           "**Servidores LiteSpeed e cache inteligente**, citados para a hospedagem WordPress em geral.",
           "**E-mail:** 1 conta grátis no Single; 2 contas por site, grátis por 1 ano, no Premium; contas ilimitadas por site, por 1 ano, no Unlimited e no Cloud Startup.",
@@ -163003,6 +163184,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress on Hostinger: Premium, Unlimited or Cloud Startup? Plan by project, price and renewal on October 30, 2026, and a checklist to start.",
     "publishedAt": "October 30, 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -163035,7 +163217,7 @@ export const reviewsData: unknown[] = [
           "**A store or a site with heavy traffic: Cloud Startup.** Unlimited sites and 100 GB NVMe. It is the most expensive plan on the page, and its renewal is the highest too."
         ],
         "postParagraphs": [
-          "When in doubt between two plans, look at the backup. If you will not change the site every week, weekly backups are enough; if you sell or publish every day, you want daily backups."
+          "When in doubt between two plans, look at the backup. If you will not change the site every week, weekly backups are enough; if you sell or publish every day, you want daily backups. Premium can buy daily backups as an extra; compare that cost with the upgrade to Unlimited."
         ]
       },
       {
@@ -163217,6 +163399,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress en Hostinger: ¿Premium, Unlimited o Cloud Startup? Plan por proyecto, precio y renovación el 30 de octubre de 2026, y una lista para empezar.",
     "publishedAt": "30 de octubre de 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -163249,7 +163432,7 @@ export const reviewsData: unknown[] = [
           "**Tienda o sitio con mucho tráfico: Cloud Startup.** Sitios ilimitados y 100 GB NVMe. Es el plan más caro de la página, y también tiene la renovación más alta."
         ],
         "postParagraphs": [
-          "Si dudas entre dos planes, mira el backup. Quien no va a cambiar el sitio cada semana vive bien con el semanal; quien vende o publica todos los días quiere el diario."
+          "Si dudas entre dos planes, mira el backup. Quien no va a cambiar el sitio cada semana vive bien con el semanal; quien vende o publica todos los días quiere el diario. En Premium puedes comprar el backup diario como extra; compara ese coste con el de pasar a Unlimited."
         ]
       },
       {
@@ -163431,6 +163614,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress chez Hostinger : Premium, Unlimited ou Cloud Startup ? Forfait par projet, prix et renouvellement au 30 octobre 2026, et une liste pour commencer.",
     "publishedAt": "30 octobre 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -163463,7 +163647,7 @@ export const reviewsData: unknown[] = [
           "**Boutique ou site très fréquenté : Cloud Startup.** Sites illimités et 100 Go NVMe. C'est le forfait le plus cher de la page, et son renouvellement est aussi le plus élevé."
         ],
         "postParagraphs": [
-          "Si vous hésitez entre deux forfaits, regardez la sauvegarde. Si vous ne modifiez pas le site chaque semaine, la sauvegarde hebdomadaire suffit ; si vous vendez ou publiez tous les jours, il vous faut la quotidienne."
+          "Si vous hésitez entre deux forfaits, regardez la sauvegarde. Si vous ne modifiez pas le site chaque semaine, la sauvegarde hebdomadaire suffit ; si vous vendez ou publiez tous les jours, il vous faut la quotidienne. Avec le Premium, la sauvegarde quotidienne peut s'acheter en supplément ; comparez ce coût avec celui du passage à Unlimited."
         ]
       },
       {
@@ -163645,6 +163829,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress su Hostinger: Premium, Unlimited o Cloud Startup? Piano per progetto, prezzo e rinnovo al 30/10/2026 e la checklist per iniziare.",
     "publishedAt": "30 ottobre 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -163677,7 +163862,7 @@ export const reviewsData: unknown[] = [
           "**Negozio o sito con molto traffico: Cloud Startup.** Siti illimitati, 100 GB NVMe. È il piano più caro della pagina, e anche il rinnovo è il più alto."
         ],
         "postParagraphs": [
-          "Se sei indeciso tra due piani, guarda il backup. Chi non modifica il sito ogni settimana sta bene con quello settimanale; chi vende o pubblica ogni giorno vuole quello giornaliero."
+          "Se sei indeciso tra due piani, guarda il backup. Chi non modifica il sito ogni settimana sta bene con quello settimanale; chi vende o pubblica ogni giorno vuole quello giornaliero. Con il Premium il backup giornaliero si può acquistare a parte; confronta quel costo con quello del passaggio a Unlimited."
         ]
       },
       {
@@ -163859,6 +164044,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "WordPress bei Hostinger: Premium, Unlimited oder Cloud Startup? Tarif pro Projekt, Preis und Verlängerung am 30.10.2026 und die Checkliste für den Start.",
     "publishedAt": "30. Oktober 2026",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -163891,7 +164077,7 @@ export const reviewsData: unknown[] = [
           "**Shop oder Website mit viel Traffic: Cloud Startup.** Unbegrenzte Websites, 100 GB NVMe. Es ist der teuerste Tarif der Seite, und auch die Verlängerung ist die höchste."
         ],
         "postParagraphs": [
-          "Wenn Sie zwischen zwei Tarifen schwanken, schauen Sie auf das Backup. Wer die Seite nicht jede Woche ändert, kommt mit dem wöchentlichen Backup gut aus; wer jeden Tag verkauft oder veröffentlicht, will das tägliche."
+          "Wenn Sie zwischen zwei Tarifen schwanken, schauen Sie auf das Backup. Wer die Seite nicht jede Woche ändert, kommt mit dem wöchentlichen Backup gut aus; wer jeden Tag verkauft oder veröffentlicht, will das tägliche. Beim Premium lässt sich das tägliche Backup extra dazubuchen; vergleichen Sie diese Kosten mit dem Upgrade auf Unlimited."
         ]
       },
       {
@@ -164073,6 +164259,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger の WordPress：Premium、Unlimited、Cloud Startup のどれを選ぶか。プロジェクト別のプラン、2026年10月30日の料金と更新料、始めるためのチェックリスト。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -164105,7 +164292,7 @@ export const reviewsData: unknown[] = [
           "**ショップ、またはアクセスの多いサイト：Cloud Startup。** サイト数無制限、100 GB NVMe。ページで一番高いプランで、更新料も最も高くなります。"
         ],
         "postParagraphs": [
-          "2つのプランで迷ったら、バックアップを見てください。サイトを毎週は変えない人は毎週のバックアップで十分です。毎日販売や投稿をするなら、毎日のバックアップが必要です。"
+          "2つのプランで迷ったら、バックアップを見てください。サイトを毎週は変えない人は毎週のバックアップで十分です。毎日販売や投稿をするなら、毎日のバックアップが必要です。Premium では毎日のバックアップを追加で購入できます。その費用と Unlimited へのアップグレード費用を比べてみてください。"
         ]
       },
       {
@@ -164287,6 +164474,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "호스팅어 WordPress: Premium, Unlimited, Cloud Startup 중 무엇을 고를까? 프로젝트별 플랜, 2026년 10월 30일 기준 달러 가격과 갱신가, 시작 체크리스트.",
     "publishedAt": "2026년 10월 30일",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
@@ -164318,7 +164506,7 @@ export const reviewsData: unknown[] = [
           "**트래픽이 많은 스토어나 사이트: Cloud Startup.** 사이트 무제한, 100 GB NVMe. 가장 비싼 플랜이고, 갱신가도 가장 큽니다."
         ],
         "postParagraphs": [
-          "두 플랜 사이에서 고민된다면 백업을 보세요. 사이트를 매주 손대지 않는다면 주간 백업으로 충분하고, 매일 판매하거나 게시한다면 매일 백업이 필요합니다."
+          "두 플랜 사이에서 고민된다면 백업을 보세요. 사이트를 매주 손대지 않는다면 주간 백업으로 충분하고, 매일 판매하거나 게시한다면 매일 백업이 필요합니다. Premium에서는 매일 백업을 별도로 구매할 수 있으니, 그 비용을 Unlimited로 업그레이드하는 비용과 비교해 보세요."
         ]
       },
       {
@@ -164501,6 +164689,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger WordPress：Premium、Unlimited 还是 Cloud Startup？按项目选套餐，2026年10月30日的美元价格与续费，以及开始使用的清单。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
@@ -164532,7 +164721,7 @@ export const reviewsData: unknown[] = [
           "**流量很大的网店或网站：Cloud Startup。** 网站不限，100 GB NVMe。这是最贵的一档，续费也最高。"
         ],
         "postParagraphs": [
-          "在两个套餐之间犹豫，就看备份。不常修改网站的人，每周备份够用；每天卖货或发布内容的人，需要每日备份。"
+          "在两个套餐之间犹豫，就看备份。不常修改网站的人，每周备份够用；每天卖货或发布内容的人，需要每日备份。Premium 可以另外购买每日备份，请把这笔费用与升级到 Unlimited 的费用比较一下。"
         ]
       },
       {
@@ -164715,6 +164904,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Hostinger WordPress：Premium、Unlimited 還是 Cloud Startup？依專案選方案，2026年10月30日的美元價格與續約價，以及開始使用的檢查清單。",
     "publishedAt": "2026年10月30日",
     "publishedAtISO": "2026-10-30",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
@@ -164746,7 +164936,7 @@ export const reviewsData: unknown[] = [
           "**流量很大的商店或網站：Cloud Startup。** 網站不限，100 GB NVMe。這是最貴的方案，續約價也最高。"
         ],
         "postParagraphs": [
-          "在兩個方案之間猶豫時，看備份就對了。不常更動網站的人，每週備份就夠；天天賣東西或發文的人，需要每日備份。"
+          "在兩個方案之間猶豫時，看備份就對了。不常更動網站的人，每週備份就夠；天天賣東西或發文的人，需要每日備份。Premium 可以另外購買每日備份，請把這筆費用與升級到 Unlimited 的費用比較一下。"
         ]
       },
       {
@@ -175168,7 +175358,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Com o CECILIA10, 10% OFF na Black Skull: whey, creatina e pré-treino pelo rótulo. O whey 80% HD tem mais proteína por dose que o 100% HD.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/black-skull/black-skull-e-boa-capa.webp",
@@ -175331,7 +175521,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Pré-treino: BOPE ou Bone Crusher",
         "paragraphs": [
-          "Os dois pedem a mesma dose de 7,5 g e declaram a mesma quantidade de creatina. O que os separa no rótulo é a beta-alanina, a arginina e o carboidrato, além do preço por dose. Nenhum pré-treino da Black Skull é sem cafeína."
+          "Os dois pedem a mesma dose de 7,5 g e declaram a mesma quantidade de creatina. O que os separa no rótulo é a beta-alanina, a arginina e o carboidrato, além do preço por dose. No catálogo de outubro, nenhum pré-treino da Black Skull era sem cafeína."
         ],
         "comparisonTable": {
           "caption": "Por dose de 7,5 g. Os números do Bone Crusher são do rótulo do pote de 150 g, porque o de 300 g só traz a tabela em imagem. R$ por dose: conta nossa, preço do site ÷ 40 doses.",
@@ -175483,7 +175673,7 @@ export const reviewsData: unknown[] = [
       },
       {
         "heading": "Para quem vale e para quem não vale",
-        "emphasis": "Se você escolhe whey pelo rótulo, comece pelo 80% HD: é o que traz mais proteína por dose e o menor preço por proteína da linha.",
+        "emphasis": "Se você escolhe whey pelo rótulo, comece pelo 80% HD: traz mais proteína por dose que o 100% HD e é o de menor preço por proteína da linha.",
         "bullets": [
           "Vale para quem compra suplemento pela tabela nutricional e pelo preço por proteína, e não pelo nome do pote.",
           "Vale para quem quer creatina só monohidratada pelo menor preço por grama: o Creator refil de 500 g.",
@@ -175550,11 +175740,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "O que o whey da Max Titanium entrega pelo rótulo: 100% Whey, Top Whey 3W, Whey Pro e IsoWhey, com proteína por dose, preço por 100 g de proteína, o cupom e para quem compensa.",
+    "description": "O que o rótulo do whey da Max Titanium declara: 100% Whey, Top Whey 3W, Whey Pro e IsoWhey, com proteína por dose, preço por 100 g de proteína, o cupom e para quem compensa.",
     "metaDescription": "A Max Titanium é boa com o cupom MAX10EMCASACOMCECILIA de até 10% OFF? Proteína por dose e preço por 100 g do 100% Whey, Top Whey 3W, Whey Pro e IsoWhey.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/max-titanium/max-titanium-e-boa-capa.webp",
@@ -175577,7 +175767,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é boa: o whey da Max Titanium entrega a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. Os números de cada whey estão no resumo abaixo."
+          "Pelo rótulo, é boa: o whey da Max Titanium declara a proteína que o nome promete, e o Whey Pro e o 100% Whey Refil saem mais baratos por grama de proteína. O isolado custa mais, o Whey Pro traz só 15 g por dose e a Max não tem whey zero lactose. Os números estão no resumo abaixo."
         ]
       },
       {
@@ -175597,7 +175787,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O whey da Max Titanium é bom?",
         "paragraphs": [
-          "É, no sentido que importa para um suplemento: o rótulo entrega o que o nome promete. O 100% Whey é concentrado de soro, o IsoWhey é isolado e o Top Whey 3W junta concentrado, isolado e hidrolisado.",
+          "É, no sentido que importa para um suplemento: o rótulo declara o que o nome promete. Os números abaixo são os declarados pela marca, sem laudo independente. O 100% Whey é concentrado de soro, o IsoWhey é isolado e o Top Whey 3W junta concentrado, isolado e hidrolisado.",
           "A loja informa: o tipo de proteína de cada whey está na lista de ingredientes da página do produto. A proteína por dose, porém, só vale pela tabela nutricional, porque o texto de venda às vezes diz outro número: a página do 100% Whey Pote fala em \"até 20 g\" e a tabela do sabor baunilha mostra 21 g; a do Top Whey 3W + Sabor fala em 25 a 26 g e a tabela do Brigadeiro mostra 25 g."
         ]
       },
@@ -175640,8 +175830,8 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa com o cupom e onde comprar",
         "paragraphs": [
-          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto, e o percentual varia por produto: nem todo item chega a 10%. No teste do cupom no checkout, com o Top Whey 3W + Sabor em promoção, o cupom tirou R$ 16,75, menos de 9% do preço. Ele soma com as promoções do site e vale em todas as formas de pagamento, então confira a linha Descontos do carrinho antes de pagar.",
-          "A compra é no site oficial, o maxtitanium.com.br. O preço de campanha não entra nas contas deste guia; a Black Friday da marca está em [Black Friday Max Titanium](/reviews/black-friday-max-titanium), e o passo a passo do código, em [como usar o cupom na Max Titanium](/reviews/cupom-max-titanium-como-usar)."
+          "O cupom MAX10EMCASACOMCECILIA dá até 10% de desconto, e o percentual varia por produto: nem todo item chega a 10%. No teste do cupom no checkout, com o Top Whey 3W + Sabor em promoção (R$ 189,00 naquele dia), o cupom tirou R$ 16,75, menos de 9% do preço. Ele soma com as promoções do site e vale em todas as formas de pagamento, então confira a linha Descontos do carrinho antes de pagar.",
+          "A compra é no site oficial, o maxtitanium.com.br. O preço de campanha não entra nas contas por grama deste guia (o valor promocional do teste acima só mostra o desconto do cupom); a Black Friday da marca está em [Black Friday Max Titanium](/reviews/black-friday-max-titanium), e o passo a passo do código, em [como usar o cupom na Max Titanium](/reviews/cupom-max-titanium-como-usar)."
         ],
         "links": [
           {
@@ -175669,7 +175859,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Perguntas frequentes",
         "bullets": [
-          "O whey da Max Titanium é bom? É, pelo rótulo: cada whey entrega a proteína por dose que a tabela mostra, e o Whey Pro e o 100% Whey Refil são os mais baratos por grama de proteína.",
+          "O whey da Max Titanium é bom? É, pelo rótulo: cada whey declara a proteína por dose que a tabela mostra, e o Whey Pro e o 100% Whey Refil são os mais baratos por grama de proteína.",
           "Qual whey da Max Titanium compensa mais? Depende do que pesa mais: o guia de cada whey, com a conta por grama de proteína, está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
           "100% Whey ou Top Whey 3W? O 100% Whey é mais barato por grama de proteína, e o Top Whey 3W tem dose maior; a comparação de cada um está em [Whey Max Titanium: qual escolher](/reviews/whey-max-titanium-qual-escolher).",
           "A Max Titanium tem whey zero lactose? Não: os wheys trazem \"contém lactose\" no rótulo, o isolado também, e o \"Zero Lactose\" do menu é o hipercalórico Mass Titanium 17500.",
@@ -175724,11 +175914,11 @@ export const reviewsData: unknown[] = [
       "initials": "CM",
       "url": "/sobre"
     },
-    "description": "A Probiótica é boa? Sim, pelo rótulo: veja o que o whey, a creatina e o hipercalórico entregam, quanto custam com o cupom PRO10EMCASACOMCECILIA e para quem a marca compensa.",
+    "description": "A Probiótica é boa? Sim, pelo rótulo: veja o que o whey, a creatina e o hipercalórico dizem no rótulo, quanto custam com o cupom PRO10EMCASACOMCECILIA e para quem a marca compensa.",
     "metaDescription": "O cupom PRO10EMCASACOMCECILIA dá até 10% OFF na Probiótica. Whey, creatina e glutamina pelo rótulo, com o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "2 de novembro de 2026",
     "publishedAtISO": "2026-11-02",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/probiotica/probiotica-e-boa-capa.webp",
@@ -175750,7 +175940,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Sim, pelo rótulo. O 100% Pure Whey entrega a proteína que o nome promete, o Zero Lactose declara \"sem lactose\" e a creatina traz 5 g por porção. O que muda a escolha é o tipo de whey e o tamanho do pote de creatina; os capítulos abaixo mostram qual serve para quem."
+          "Sim, pelo rótulo. O 100% Pure Whey declara o tipo e a quantidade de proteína por dose, o Zero Lactose declara \"sem lactose\" e a creatina, 5 g por porção. O que muda a escolha é o tipo de whey e o tamanho do pote de creatina; os capítulos abaixo mostram qual serve para quem."
         ]
       },
       {
@@ -177302,6 +177492,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O DREMCASACOMCECILIA dá 10% OFF na Dr. Peanut: a pasta de amendoim, o whey e os snacks pelo rótulo, o preço por 100 g e para quem a marca compensa.",
     "publishedAt": "3 de novembro de 2026",
     "publishedAtISO": "2026-11-03",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa.webp",
@@ -177312,7 +177503,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Resposta rápida",
         "paragraphs": [
-          "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. O que muda a escolha é a lactose em toda a linha e o glúten do whey e dos snacks; os capítulos abaixo mostram cada rótulo e qual formato compensa."
+          "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. A lactose pesa em tudo o que publica aviso, da pasta ao wafer, e o glúten no whey e em parte dos snacks; o alfajor não publica aviso. Os capítulos abaixo mostram cada rótulo."
         ]
       },
       {
@@ -177397,7 +177588,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Doctor Bar, alfajor e Doctor Wafer",
         "paragraphs": [
-          "Entre os três, só a Doctor Bar é snack de proteína; o alfajor e o wafer são o doce da linha. A barra traz 21 g por unidade, contra menos de 6 g dos outros dois."
+          "Entre os três, só a Doctor Bar é snack de proteína; o alfajor e o wafer são o doce da linha. A barra traz 21 g por unidade, contra até 6 g dos outros dois."
         ],
         "comparisonTable": {
           "headers": [
@@ -177460,8 +177651,8 @@ export const reviewsData: unknown[] = [
         "bullets": [
           "Vale para quem escolhe pasta de amendoim pelo rótulo: sem açúcar adicionado, com a proteína e os polióis declarados, e aceita lactose na lista.",
           "Vale para quem já compra a pasta e quer o whey na mesma loja, com um cupom que vale em todo o site e soma com as promoções.",
-          "Não vale para quem precisa evitar lactose: as pastas, o whey, a Doctor Bar e o wafer declaram que contêm, e a loja não tem versão sem lactose.",
-          "Não vale para quem precisa evitar glúten e quer o whey ou os snacks: só a pasta diz que não contém.",
+          "Não vale para quem precisa evitar lactose: as pastas, o whey, a Doctor Bar Avelã e o wafer Avelã declaram que contêm, e a loja não tem versão sem lactose; no alfajor, confira a embalagem.",
+          "Não vale para quem precisa evitar glúten e quer o whey, a Doctor Bar Avelã ou o wafer Avelã, que dizem conter; o alfajor não publica aviso, então confira a embalagem. Só a pasta diz que não contém.",
           "Não vale para quem quer uma resposta sobre dieta: o rótulo dá os números, e a resposta é do nutricionista."
         ],
         "emphasis": "Se é para conhecer a marca por um produto só, que seja a pasta: é onde o rótulo mostra tudo, do ingrediente ao poliol, e o whey e os snacks vêm depois."
@@ -177486,8 +177677,8 @@ export const reviewsData: unknown[] = [
         "Você compra pasta de 250 g todo mês: a assinatura com o cupom é o menor preço por 100 g dos potes pequenos."
       ],
       "skipIf": [
-        "Você precisa evitar lactose: as pastas, o whey, a Doctor Bar e o wafer declaram que contêm, e a loja não tem versão sem lactose.",
-        "Você precisa evitar glúten e quer o whey ou os snacks: só a pasta diz que não contém.",
+        "Você precisa evitar lactose: as pastas, o whey, a Doctor Bar Avelã e o wafer Avelã declaram que contêm, e a loja não tem versão sem lactose; no alfajor, confira a embalagem.",
+        "Você precisa evitar glúten e quer o whey, a Doctor Bar Avelã ou o wafer Avelã, que dizem conter: só a pasta diz que não contém, e o alfajor não publica aviso.",
         "Você quer saber se cabe na sua dieta: o rótulo dá os números, e a resposta é do nutricionista."
       ]
     },
@@ -178269,6 +178460,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O código MAUAD dá 10% OFF no panetone da Belive. Chocolate e frutas pelo rótulo: ingredientes, tabela nutricional, o que é o chocotone e o preço dos kits.",
     "publishedAt": "4 de novembro de 2026",
     "publishedAtISO": "2026-11-04",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/belive/panetone-belive-e-bom-capa.webp",
@@ -178370,7 +178562,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Os kits: quanto custa cada panetone",
         "paragraphs": [
-          "O kit não dá desconto: ele custa, em lista, o mesmo que três panetones avulsos. Vale pelo frete e por juntar os dois sabores numa caixa só, como mostra o próximo capítulo."
+          "O kit não dá desconto: ele custa, em lista, o mesmo que três panetones avulsos. Vale por ajudar no frete e por juntar os dois sabores numa caixa só, como mostra o próximo capítulo."
         ],
         "comparisonTable": {
           "headers": [
@@ -178408,14 +178600,14 @@ export const reviewsData: unknown[] = [
           "caption": "Preço de lista do site em 03/11, sem o código. No dia, a loja vendia os cinco com desconto de promoção, e o preço riscado da página é o desta tabela."
         },
         "postParagraphs": [
-          "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o kit sai igual ao avulso, em lista e na oferta. O que o kit faz é fechar o carrinho acima do frete grátis e trazer os dois sabores na mesma caixa, no kit misto. Para um panetone só, compre o avulso."
+          "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o kit sai igual ao avulso, em lista e na oferta. O que o kit faz é aproximar o carrinho do frete grátis, desde que o subtotal efetivo, com a promoção do dia, passe do limite da sua região, e trazer os dois sabores na mesma caixa, no kit misto. Para um panetone só, compre o avulso."
         ]
       },
       {
         "heading": "Quanto custa com o código, e o frete",
         "paragraphs": [
           "Com o código da Belive, o panetone sai 10% mais barato, em todas as formas de pagamento, e o desconto soma com a promoção do dia e com os 5% do Pix. O código vai no campo \"Código do cupom\" do carrinho, e a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
-          "O frete é o que decide entre o avulso e o kit. O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o valor que conta é o do carrinho antes do código. Um panetone avulso não zera o frete em lugar nenhum. O kit passa da faixa dos cinco estados e zera o frete neles; no Sul e no resto do país, ele pede mais itens no carrinho. Para completar, os doces, os pães e os salgadinhos da marca estão no guia [Belive é boa?](/reviews/belive-e-boa), e quem compra pela primeira vez na loja confere CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
+          "O frete é o que decide entre o avulso e o kit. O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o valor que conta é o do carrinho antes do código. Um panetone avulso não zera o frete em lugar nenhum. Pelo preço de lista, o kit passa da faixa dos cinco estados; ele zera o frete neles se o subtotal do carrinho, com a promoção do dia e antes do código, ficar acima de R$ 170. No Sul e no resto do país, ele pede mais itens no carrinho. Para completar, os doces, os pães e os salgadinhos da marca estão no guia [Belive é boa?](/reviews/belive-e-boa), e quem compra pela primeira vez na loja confere CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
         ]
       },
       {
@@ -184687,6 +184879,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O cupom SONAR20 dá 20% OFF num plano novo da Hostinger; a renovação sai pelo preço da tabela. Veja quanto custa renovar cada plano e o reembolso.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-capa.webp",
@@ -184835,7 +185028,7 @@ export const reviewsData: unknown[] = [
           "27 dias antes do vencimento, no domínio."
         ],
         "postParagraphs": [
-          "A data pode variar um pouco. Se faltar um dia ou menos para a renovação, ela não sai sozinha naquele ciclo: é preciso renovar à mão. Deixe saldo no método de pagamento perto dessas datas.",
+          "A data pode variar um pouco. Se você ligar a renovação automática quando faltar um dia ou menos para o vencimento, ela não sai sozinha naquele ciclo: é preciso renovar à mão. Confira o status e a data no painel e deixe saldo no método de pagamento perto dessas datas.",
           "Para renovar à mão a qualquer momento, abra Faturamento, depois Assinaturas, e clique em renovar ao lado do serviço. O preço da renovação, sem impostos, aparece ali, na coluna do preço de renovação. Quando o plano está para vencer, o cartão dele, na área de sites do painel, mostra a data e o botão de renovar."
         ],
         "image": {
@@ -184886,7 +185079,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Domínio fica de fora",
         "paragraphs": [
-          "O domínio não tem reembolso na renovação e também não leva o SONAR20, então ele pede uma decisão separada. A renovação dele tem chave própria, na área de domínios do painel, e é cobrada 27 dias antes do vencimento. Só o registro novo tem um prazo curto de reembolso, de 96 horas (168 horas no .br); a renovação não tem nenhum.",
+          "O domínio não tem reembolso na renovação e também não leva o SONAR20, então ele pede uma decisão separada. A renovação dele tem chave própria, na área de domínios do painel, e é cobrada 27 dias antes do vencimento. Só o registro novo tem um prazo curto de reembolso, de 96 horas em geral, conforme a extensão (168 horas no .br); a renovação não tem nenhum.",
           "Decida o domínio antes dessa cobrança: veja o preço, veja se ele precisa ficar nesse registrador e só então deixe renovar. Os caminhos de registrar, transferir ou deixar o domínio fora estão em [domínio na Hostinger](/reviews/dominio-hostinger-comprar-transferir-ou-fora)."
         ]
       },
@@ -184955,6 +185148,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "The SONAR20 code gives 20% off a new Hostinger plan; renewal is charged at the list price. See what each plan costs to renew, plus the refund rules.",
     "publishedAt": "November 5, 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -185097,7 +185291,7 @@ export const reviewsData: unknown[] = [
           "27 days before the due date, on a domain."
         ],
         "postParagraphs": [
-          "The date can vary a little. If one day or less is left before renewal, it does not go through on its own in that cycle: you have to renew by hand. Keep funds on the payment method around those dates.",
+          "The date can vary a little. If you turn on auto-renewal when one day or less is left before the due date, it does not go through on its own in that cycle: you have to renew by hand. Check the status and date in the panel, and keep funds on the payment method around those dates.",
           "To renew by hand at any time, open Billing, then Subscriptions, and click renew next to the service. The renewal price, before taxes, shows there, in the renewal price column. When the plan is close to expiring, its card in the websites area of the panel shows the date and the renew button."
         ],
         "image": {
@@ -185148,7 +185342,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "The domain is left out",
         "paragraphs": [
-          "The domain has no refund on renewal and does not take SONAR20 either, so it calls for a separate decision. Its renewal has its own toggle, in the domains area of the panel, and is charged 27 days before it is due. Only a new registration has a short refund window, of 96 hours; renewal has none.",
+          "The domain has no refund on renewal and does not take SONAR20 either, so it calls for a separate decision. Its renewal has its own toggle, in the domains area of the panel, and is charged 27 days before it is due. Only a new registration has a short refund window, of 96 hours in general, depending on the extension; renewal has none.",
           "Decide on the domain before that charge: check the price, check whether it has to stay with this registrar and only then let it renew. The paths for registering, transferring or leaving the domain out are in [domain at Hostinger](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere)."
         ]
       },
@@ -185217,6 +185411,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "El cupón SONAR20 da 20% en un plan nuevo de Hostinger; la renovación sale al precio de lista. Mira cuánto cuesta renovar cada plan y el reembolso.",
     "publishedAt": "5 de noviembre de 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -185359,7 +185554,7 @@ export const reviewsData: unknown[] = [
           "27 días antes del vencimiento, en el dominio."
         ],
         "postParagraphs": [
-          "La fecha puede variar un poco. Si falta un día o menos para la renovación, no se hace sola en ese ciclo: hay que renovar a mano. Deja saldo en el método de pago cerca de esas fechas.",
+          "La fecha puede variar un poco. Si activas la renovación automática cuando falta un día o menos para el vencimiento, no se hace sola en ese ciclo: hay que renovar a mano. Revisa el estado y la fecha en el panel y deja saldo en el método de pago cerca de esas fechas.",
           "Para renovar a mano en cualquier momento, abre Facturación, luego Suscripciones, y haz clic en renovar junto al servicio. El precio de la renovación, sin impuestos, aparece ahí, en la columna del precio de renovación. Cuando el plan está por vencer, su tarjeta, en el área de sitios del panel, muestra la fecha y el botón de renovar."
         ],
         "image": {
@@ -185410,7 +185605,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "El dominio queda fuera",
         "paragraphs": [
-          "El dominio no tiene reembolso en la renovación y tampoco lleva el SONAR20, así que pide una decisión aparte. Su renovación tiene un interruptor propio, en el área de dominios del panel, y se cobra 27 días antes del vencimiento. Solo el registro nuevo tiene un plazo corto de reembolso, de 96 horas; la renovación no tiene ninguno.",
+          "El dominio no tiene reembolso en la renovación y tampoco lleva el SONAR20, así que pide una decisión aparte. Su renovación tiene un interruptor propio, en el área de dominios del panel, y se cobra 27 días antes del vencimiento. Solo el registro nuevo tiene un plazo corto de reembolso, de 96 horas por lo general, según la extensión; la renovación no tiene ninguno.",
           "Decide sobre el dominio antes de ese cobro: mira el precio, mira si tiene que quedarse en ese registrador y solo entonces deja que se renueve. Los caminos de registrar, transferir o dejar el dominio fuera están en [dominio en Hostinger](/es/reviews/dominio-hostinger-comprar-o-transferir)."
         ]
       },
@@ -185479,6 +185674,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Le code SONAR20 donne 20 % sur un nouveau forfait Hostinger ; le renouvellement est au prix catalogue. Voyez le coût de chaque forfait et le remboursement.",
     "publishedAt": "5 novembre 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -185621,7 +185817,7 @@ export const reviewsData: unknown[] = [
           "27 jours avant l'échéance, pour le domaine."
         ],
         "postParagraphs": [
-          "La date peut varier un peu. S'il reste un jour ou moins avant le renouvellement, il ne se fait pas tout seul sur ce cycle : il faut renouveler à la main. Gardez du solde sur le moyen de paiement autour de ces dates.",
+          "La date peut varier un peu. Si vous activez le renouvellement automatique alors qu'il reste un jour ou moins avant l'échéance, il ne se fait pas tout seul sur ce cycle : il faut renouveler à la main. Vérifiez le statut et la date dans le panneau, et gardez du solde sur le moyen de paiement autour de ces dates.",
           "Pour renouveler à la main à tout moment, ouvrez Facturation, puis Abonnements, et cliquez sur renouveler à côté du service. Le prix du renouvellement, hors taxes, s'affiche là, dans la colonne du prix de renouvellement. Quand le forfait approche de l'échéance, sa carte, dans la zone des sites du panneau, affiche la date et le bouton de renouvellement."
         ],
         "image": {
@@ -185672,7 +185868,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Le domaine reste à part",
         "paragraphs": [
-          "Le domaine n'est pas remboursable au renouvellement et n'accepte pas non plus le SONAR20, il appelle donc une décision à part. Son renouvellement a son propre interrupteur, dans la zone des domaines du panneau, et il est prélevé 27 jours avant l'échéance. Seul l'enregistrement neuf a un court délai de remboursement, de 96 heures ; le renouvellement n'en a aucun.",
+          "Le domaine n'est pas remboursable au renouvellement et n'accepte pas non plus le SONAR20, il appelle donc une décision à part. Son renouvellement a son propre interrupteur, dans la zone des domaines du panneau, et il est prélevé 27 jours avant l'échéance. Seul l'enregistrement neuf a un court délai de remboursement, de 96 heures en général, selon l'extension ; le renouvellement n'en a aucun.",
           "Décidez pour le domaine avant ce prélèvement : regardez le prix, voyez s'il doit rester chez ce registraire et ne le laissez se renouveler qu'ensuite. Les voies pour enregistrer, transférer ou laisser le domaine de côté sont dans [domaine chez Hostinger](/fr/reviews/domaine-hostinger-acheter-ou-transferer)."
         ]
       },
@@ -185741,6 +185937,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Der Code SONAR20 gibt 20 % Rabatt auf einen neuen Hostinger-Tarif; die Verlängerung läuft zum Tabellenpreis. Preise je Tarif und Erstattung im Überblick.",
     "publishedAt": "5. November 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -185883,8 +186080,8 @@ export const reviewsData: unknown[] = [
           "27 Tage vor Ablauf bei der Domain."
         ],
         "postParagraphs": [
-          "Der Termin kann leicht abweichen. Bleibt bis zur Verlängerung höchstens ein Tag, läuft sie in diesem Zyklus nicht von selbst: Dann müssen Sie von Hand verlängern. Sorgen Sie rund um diese Termine für Guthaben auf der Zahlungsart.",
-          "Um jederzeit von Hand zu verlängern, öffnen Sie Abrechnung, dann Abonnements, und klicken neben dem Dienst auf Verlängern. Der Verlängerungspreis ohne Steuern steht dort in der Spalte des Verlängerungspreises. Läuft der Tarif bald aus, zeigt seine Karte im Bereich der Websites im Dashboard das Datum und die Schaltfläche zum Verlängern."
+          "Der Termin kann leicht abweichen. Schalten Sie die automatische Verlängerung ein, wenn bis zum Ablauf höchstens ein Tag bleibt, läuft sie in diesem Zyklus nicht von selbst: Dann müssen Sie von Hand verlängern. Prüfen Sie Status und Datum im Panel und sorgen Sie rund um diese Termine für Guthaben auf der Zahlungsart.",
+          "Um jederzeit von Hand zu verlängern, öffnen Sie Abrechnung, dann Abonnements, und klicken neben dem Dienst auf Verlängern. Der Verlängerungspreis ohne Steuern steht dort in der Spalte des Verlängerungspreises. Läuft der Tarif bald aus, zeigt seine Karte im Bereich der Websites im Panel das Datum und die Schaltfläche zum Verlängern."
         ],
         "image": {
           "src": "/images/reviews/hostinger/hostinger-renovacao-cupom-sonar20-cobranca-de.webp",
@@ -185934,7 +186131,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Die Domain bleibt außen vor",
         "paragraphs": [
-          "Die Domain wird bei der Verlängerung nicht erstattet und bekommt auch SONAR20 nicht, deshalb braucht sie eine eigene Entscheidung. Ihre Verlängerung hat einen eigenen Schalter, im Domainbereich des Dashboards, und wird 27 Tage vor Ablauf abgebucht. Nur die Neuregistrierung hat eine kurze Erstattungsfrist von 96 Stunden; die Verlängerung hat keine.",
+          "Die Domain wird bei der Verlängerung nicht erstattet und bekommt auch SONAR20 nicht, deshalb braucht sie eine eigene Entscheidung. Ihre Verlängerung hat einen eigenen Schalter, im Domainbereich des Panels, und wird 27 Tage vor Ablauf abgebucht. Nur die Neuregistrierung hat eine kurze Erstattungsfrist von in der Regel 96 Stunden, je nach Endung; die Verlängerung hat keine.",
           "Entscheiden Sie die Domain vor dieser Abbuchung: Schauen Sie auf den Preis, prüfen Sie, ob sie bei diesem Registrar bleiben muss, und lassen Sie sie erst dann verlängern. Die Wege Registrieren, Umziehen oder die Domain draußen lassen stehen in [Domain bei Hostinger](/de/reviews/hostinger-domain-kaufen-oder-umziehen)."
         ]
       },
@@ -186003,6 +186200,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "Il codice SONAR20 dà il 20% su un piano nuovo di Hostinger; il rinnovo costa il prezzo di listino. Quanto costa rinnovare ogni piano e il rimborso.",
     "publishedAt": "5 novembre 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -186145,7 +186343,7 @@ export const reviewsData: unknown[] = [
           "27 giorni prima della scadenza, nel dominio."
         ],
         "postParagraphs": [
-          "La data può variare un po'. Se manca un giorno o meno al rinnovo, in quel ciclo non parte da solo: bisogna rinnovare a mano. Lascia credito sul metodo di pagamento vicino a queste date.",
+          "La data può variare un po'. Se attivi il rinnovo automatico quando manca un giorno o meno alla scadenza, in quel ciclo non parte da solo: bisogna rinnovare a mano. Controlla stato e data nel pannello e lascia credito sul metodo di pagamento vicino a queste date.",
           "Per rinnovare a mano in qualsiasi momento, apri Fatturazione, poi Abbonamenti, e clicca su rinnova accanto al servizio. Il prezzo del rinnovo, tasse escluse, compare lì, nella colonna del prezzo di rinnovo. Quando il piano sta per scadere, la sua scheda, nell'area dei siti del pannello, mostra la data e il pulsante per rinnovare."
         ],
         "image": {
@@ -186196,7 +186394,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Il dominio resta fuori",
         "paragraphs": [
-          "Il dominio non ha rimborso sul rinnovo e non prende nemmeno il SONAR20, quindi chiede una decisione a parte. Il suo rinnovo ha un interruttore proprio, nell'area domini del pannello, e viene addebitato 27 giorni prima della scadenza. Solo la registrazione nuova ha un breve termine di rimborso, di 96 ore; il rinnovo non ne ha nessuno.",
+          "Il dominio non ha rimborso sul rinnovo e non prende nemmeno il SONAR20, quindi chiede una decisione a parte. Il suo rinnovo ha un interruttore proprio, nell'area domini del pannello, e viene addebitato 27 giorni prima della scadenza. Solo la registrazione nuova ha un breve termine di rimborso, di 96 ore in genere, a seconda dell'estensione; il rinnovo non ne ha nessuno.",
           "Decidi il dominio prima di quell'addebito: guarda il prezzo, verifica se deve restare in questo registrar e solo allora lascialo rinnovare. I percorsi per registrare, trasferire o lasciare fuori il dominio sono in [dominio su Hostinger](/it/reviews/dominio-hostinger-comprare-o-trasferire)."
         ]
       },
@@ -186265,6 +186463,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 코드는 새 호스팅어 플랜에 20% 할인을 줍니다. 갱신은 표의 가격 그대로입니다. 플랜별 갱신가와 환불 기한을 확인하세요.",
     "publishedAt": "2026년 11월 5일",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -186407,7 +186606,7 @@ export const reviewsData: unknown[] = [
           "도메인은 만료 27일 전."
         ],
         "postParagraphs": [
-          "날짜는 조금 달라질 수 있습니다. 갱신까지 하루 이하가 남았다면 그 주기에는 자동으로 갱신되지 않으므로 직접 갱신해야 합니다. 이 날짜 즈음에는 결제 수단에 잔액을 남겨 두세요.",
+          "날짜는 조금 달라질 수 있습니다. 자동 갱신을 켤 때 만료까지 하루 이하가 남았다면 그 주기에는 자동으로 갱신되지 않으므로 직접 갱신해야 합니다. 패널에서 상태와 날짜를 확인하고, 이 날짜 즈음에는 결제 수단에 잔액을 남겨 두세요.",
           "언제든 직접 갱신하려면 결제에서 구독으로 들어가 서비스 옆의 갱신을 누르세요. 세금 제외 갱신가는 그곳의 갱신 가격 열에 나옵니다. 플랜이 곧 만료되면 패널의 사이트 영역에 있는 플랜 카드에 날짜와 갱신 버튼이 표시됩니다."
         ],
         "image": {
@@ -186458,7 +186657,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "도메인은 별도입니다",
         "paragraphs": [
-          "도메인은 갱신 환불이 없고 SONAR20도 적용되지 않으므로 따로 결정해야 합니다. 도메인 갱신 스위치는 패널의 도메인 영역에 따로 있고, 만료 27일 전에 청구됩니다. 짧은 환불 기한은 새 등록에만 있어 96시간이며, 갱신에는 없습니다.",
+          "도메인은 갱신 환불이 없고 SONAR20도 적용되지 않으므로 따로 결정해야 합니다. 도메인 갱신 스위치는 패널의 도메인 영역에 따로 있고, 만료 27일 전에 청구됩니다. 짧은 환불 기한은 새 등록에만 있고 확장자에 따라 다르지만 보통 96시간이며, 갱신에는 없습니다.",
           "이 청구 전에 도메인을 결정하세요. 가격을 보고, 이 등록기관에 둘 필요가 있는지 확인한 다음에 갱신하게 두세요. 등록, 이전, 또는 다른 곳에 두는 방법은 [호스팅어 도메인](/ko/reviews/hostinger-domain-ko)에 있습니다."
         ]
       },
@@ -186527,6 +186726,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 は新規の Hostinger プランが20%オフになるコードで、更新は表の料金のままです。プラン別の更新料と返金条件を確認できます。",
     "publishedAt": "2026年11月5日",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -186669,7 +186869,7 @@ export const reviewsData: unknown[] = [
           "ドメインは、期限の27日前。"
         ],
         "postParagraphs": [
-          "日付は多少前後することがあります。更新まで1日以下しかない場合、そのサイクルでは自動で更新されず、手動で更新する必要があります。この日付の前後は、支払い方法に残高を入れておいてください。",
+          "日付は多少前後することがあります。自動更新をオンにした時点で期限まで1日以下しかない場合、そのサイクルでは自動で更新されず、手動で更新する必要があります。パネルでステータスと日付を確認し、この日付の前後は支払い方法に残高を入れておいてください。",
           "いつでも手動で更新するには、請求、サブスクリプションの順に開き、サービスの横の更新をクリックします。税抜きの更新料は、その更新料の列に表示されます。プランの期限が近づくと、パネルのサイト一覧にあるそのプランのカードに、日付と更新ボタンが出ます。"
         ],
         "image": {
@@ -186720,7 +186920,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "ドメインは対象外",
         "paragraphs": [
-          "ドメインは更新の返金がなく、SONAR20 も使えないため、別に判断が必要です。更新のスイッチはパネルのドメインの画面に別にあり、期限の27日前に請求されます。短い返金期間があるのは新規登録だけで96時間です。更新にはありません。",
+          "ドメインは更新の返金がなく、SONAR20 も使えないため、別に判断が必要です。更新のスイッチはパネルのドメインの画面に別にあり、期限の27日前に請求されます。短い返金期間があるのは新規登録だけで、拡張子によって異なりますが、通常は96時間です。更新にはありません。",
           "その請求の前に、ドメインを決めてください。料金を確認し、このレジストラに置く必要があるかを確かめてから、更新させます。登録、移管、ドメインを外に置く方法は[Hostinger のドメイン](/ja/reviews/hostinger-domain-ja)にあります。"
         ]
       },
@@ -186789,6 +186989,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 優惠碼可讓新的 Hostinger 方案享 20% 折扣；續訂則按價目表計價。看看各方案續訂多少錢，以及退款期限。",
     "publishedAt": "2026年11月5日",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -186931,7 +187132,7 @@ export const reviewsData: unknown[] = [
           "網域：到期前 27 天。"
         ],
         "postParagraphs": [
-          "日期可能略有出入。若距離續訂只剩一天或更少，該週期不會自動續訂，需要手動續訂。在這些日期前後，請讓付款方式保有餘額。",
+          "日期可能略有出入。若開啟自動續訂時距離到期只剩一天或更少，該週期不會自動續訂，需要手動續訂。請在面板中確認狀態和日期，並在這些日期前後讓付款方式保有餘額。",
           "想隨時手動續訂，請開啟「帳單」，再進入「訂閱」，點選服務旁的續訂。不含稅的續訂價就顯示在那裡的續訂價格欄。方案快到期時，面板網站區域裡的方案卡片會顯示日期和續訂按鈕。"
         ],
         "image": {
@@ -186982,7 +187183,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "網域不在其中",
         "paragraphs": [
-          "網域續訂沒有退款，也不適用 SONAR20，所以要另外決定。它的續訂開關在面板的網域區域，於到期前 27 天扣款。只有新註冊才有短暫的退款期，為 96 小時；續訂則完全沒有。",
+          "網域續訂沒有退款，也不適用 SONAR20，所以要另外決定。它的續訂開關在面板的網域區域，於到期前 27 天扣款。只有新註冊才有短暫的退款期，通常為 96 小時（因網域後綴而異）；續訂則完全沒有。",
           "請在這筆扣款前決定網域：先看價格，確認它是否需要留在這家註冊商，再讓它續訂。註冊、轉入或把網域放在別處的做法，見 [Hostinger 網域](/zh-hant/reviews/hostinger-domain-zh-hant)。"
         ]
       },
@@ -187051,6 +187252,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "SONAR20 优惠码可让新的 Hostinger 套餐享 20% 折扣；续费则按价目表计价。看看各套餐续费多少钱，以及退款期限。",
     "publishedAt": "2026年11月5日",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": false,
     "hideFromPortugueseListings": true,
@@ -187193,7 +187395,7 @@ export const reviewsData: unknown[] = [
           "域名：到期前 27 天。"
         ],
         "postParagraphs": [
-          "日期可能略有出入。若距离续费只剩一天或更少，该周期不会自动续费，需要手动续费。在这些日期前后，请让付款方式保有余额。",
+          "日期可能略有出入。若开启自动续费时距离到期只剩一天或更少，该周期不会自动续费，需要手动续费。请在面板中确认状态和日期，并在这些日期前后让付款方式保有余额。",
           "想随时手动续费，请打开“账单”，再进入“订阅”，点击服务旁的续费。不含税的续费价就显示在那里的续费价格列。套餐快到期时，面板网站区域里的套餐卡片会显示日期和续费按钮。"
         ],
         "image": {
@@ -187244,7 +187446,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "域名不在其中",
         "paragraphs": [
-          "域名续费没有退款，也不适用 SONAR20，所以要另外决定。它的续费开关在面板的域名区域，于到期前 27 天扣款。只有新注册才有短暂的退款期，为 96 小时；续费则完全没有。",
+          "域名续费没有退款，也不适用 SONAR20，所以要另外决定。它的续费开关在面板的域名区域，于到期前 27 天扣款。只有新注册才有短暂的退款期，通常为 96 小时（因域名后缀而异）；续费则完全没有。",
           "请在这笔扣款前决定域名：先看价格，确认它是否需要留在这家注册商，再让它续费。注册、转入或把域名放在别处的做法，见 [Hostinger 域名](/zh-hans/reviews/hostinger-domain-zh-hans)。"
         ]
       },
@@ -187297,6 +187499,7 @@ export const reviewsData: unknown[] = [
     "metaDescription": "O CECI dá 10% OFF na Dolce Gusto a partir de R$ 100. No Reclame Aqui, Regular (nota 6,6 em 6 meses), 100% respondidas: as queixas mais comuns.",
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "image": "/images/reviews/dolcegusto/dolce-gusto-reclame-aqui-capa.webp",
@@ -187464,15 +187667,15 @@ export const reviewsData: unknown[] = [
         "heading": "Defeito na máquina: a assistência técnica",
         "paragraphs": [
           "Pelo regulamento, o vício aparente precisa ser reclamado em até 90 dias depois do recebimento. Confira a máquina ao receber e fotografe o defeito antes de usar.",
-          "As máquinas são atendidas pela assistência técnica da Arno, separada do SAC da Nestlé. A Arno tem uma rede de postos autorizados para Nescafé Dolce Gusto, com busca por estado e cidade em [arno.com.br/assistencia-tecnica](https://www.arno.com.br/assistencia-tecnica). O telefone que a Dolce Gusto indica para a assistência é (11) 2060-9777.",
-          "Cápsulas, pedidos e dúvidas de compra vão ao SAC da Nestlé: 0800 776 2233, formulário de contato e WhatsApp. Na aba geral, a assistência técnica aparece com 19 reclamações, bem atrás da entrega."
+          "Para máquinas, comece pelo atendimento oficial da Dolce Gusto (o SAC da Nestlé, abaixo). A Arno atende direto as máquinas Geração 1 que pararam de funcionar, e tem uma rede de postos autorizados para Nescafé Dolce Gusto, com busca por estado e cidade em [arno.com.br/assistencia-tecnica](https://www.arno.com.br/assistencia-tecnica). O telefone que a Dolce Gusto indica para a assistência é (11) 2060-9777.",
+          "Cápsulas, pedidos, dúvidas de compra e as máquinas de outras gerações vão ao SAC da Nestlé: 0800 776 2233, formulário de contato e WhatsApp. Na aba geral, a assistência técnica aparece com 19 reclamações, bem atrás da entrega."
         ]
       },
       {
         "heading": "Parceria e cupom",
         "paragraphs": [
           "O Em Casa com Cecília tem parceria com a Dolce Gusto e pode receber comissão pelas compras feitas com o CECI. Os números deste artigo vêm do perfil público no Reclame Aqui e não mudam por causa disso.",
-          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, com até 3 usos por campanha. Ele soma com as promoções vigentes, salvo no carrinho com resgate de pontos do Club.",
+          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100. Ele soma com as promoções vigentes, salvo no carrinho com resgate de pontos do Club.",
           "Os detalhes do cupom estão na [página do cupom Dolce Gusto](/cupons/dolce-gusto), e o passo a passo para usar o código, no artigo [Cupom CECI Nescafé Dolce Gusto: como usar](/reviews/cupom-ceci-nescafe-dolce-gusto-como-usar)."
         ]
       },
@@ -187496,7 +187699,7 @@ export const reviewsData: unknown[] = [
           "Qual a nota da Dolce Gusto no Reclame Aqui? Nota 6,6 nos últimos 6 meses, 6,9 nos últimos 12 meses e 6,9 na aba geral. A tabela do artigo traz as cinco abas.",
           "A Dolce Gusto responde as reclamações? Sim, 100% nos últimos 6 meses. Responder não é o mesmo que resolver: a tabela do artigo mostra a parte resolvida.",
           "Do que mais reclamam da Dolce Gusto? De produto não recebido e atraso na entrega, que lideram a aba geral. Depois vêm propaganda enganosa, promoção e defeito.",
-          "Onde fica a assistência técnica da Dolce Gusto? A assistência das máquinas é da Arno. Você acha os postos autorizados por estado e cidade no site da Arno, e o telefone indicado pela Dolce Gusto é (11) 2060-9777."
+          "Onde fica a assistência técnica da Dolce Gusto? Comece pelo atendimento oficial da Dolce Gusto (SAC da Nestlé, 0800 776 2233). Para máquinas Geração 1 que pararam de funcionar, o contato é direto com a Arno, que lista os postos autorizados por estado e cidade no site dela; o telefone indicado pela Dolce Gusto é (11) 2060-9777."
         ]
       }
     ],
@@ -188917,6 +189120,7 @@ export const reviewsData: unknown[] = [
     },
     "publishedAt": "5 de novembro de 2026",
     "publishedAtISO": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "draft": false,
     "isNew": true,
     "description": "Com CNPJ, a Dolce Gusto dá 10% extra nos combos de 20 a 50 caixas, e o CECI soma. Veja como abrir a conta Business, quanto custa cada cápsula e qual combo escolher.",
@@ -189068,13 +189272,13 @@ export const reviewsData: unknown[] = [
       {
         "heading": "Quanto custa cada cápsula com os 10% de CNPJ e o CECI",
         "paragraphs": [
-          "Com os 10% de CNPJ e o CECI, o combo de 50 caixas deixa a cápsula quase 50% mais barata que na caixa avulsa; sem os dois, a diferença é menor.",
-          "Conta nossa, pelos preços da tabela acima: o preço do combo vezes 0,9 do CNPJ e vezes 0,9 do CECI, um sobre o outro. O carrinho mostra o valor final."
+          "Na estimativa com os 10% de CNPJ e o CECI, o combo de 50 caixas deixa a cápsula quase 50% mais barata que na caixa avulsa; sem os dois, a diferença é menor.",
+          "Estimativa nossa, pelos preços da tabela acima, como descontos sucessivos: o preço do combo vezes 0,9 do CNPJ e vezes 0,9 do CECI, um sobre o outro. A base exata do cálculo da loja não foi testada numa conta Business: confira o resumo do carrinho."
         ],
         "comparisonTable": {
           "headers": [
             "Combo",
-            "Com os 10% de CNPJ e o CECI",
+            "Estimativa com os 10% de CNPJ e o CECI",
             "Por cápsula"
           ],
           "rows": [
@@ -189099,7 +189303,7 @@ export const reviewsData: unknown[] = [
               "R$ 2,49"
             ]
           ],
-          "caption": "Combos de cápsula com os dois descontos, pela conta acima. A caixa avulsa está no preço de lista, sem desconto, como referência."
+          "caption": "Combos de cápsula com os dois descontos, estimados pela conta acima. A caixa avulsa está no preço de lista, sem desconto, como referência."
         },
         "postParagraphs": [
           "Cada degrau tira cerca de 10 centavos por cápsula. Passar de 20 para 30 caixas poupa o mesmo que passar de 30 para 50, mas o segundo pede 200 cápsulas a mais na prateleira.",
@@ -189109,7 +189313,7 @@ export const reviewsData: unknown[] = [
       {
         "heading": "O cupom CECI soma com o CNPJ e com o combo",
         "paragraphs": [
-          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, e na linha Negócios ele soma com os 10% de CNPJ e com o desconto do combo. O limite é de 3 usos por campanha, e o mesmo código volta na campanha seguinte. As condições vigentes e a data do último teste ficam na [página do cupom CECI](/cupons/dolce-gusto)."
+          "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, também para CNPJ, e na linha Negócios ele deve somar com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes e a data do último teste ficam na [página do cupom CECI](/cupons/dolce-gusto)."
         ]
       },
       {

@@ -35,6 +35,7 @@
   "metaDescription": "Die Domain bei Hostinger kaufen, extern registrieren und verknüpfen, oder umziehen? Die 60-Tage-Regel, wem die Domain gehört und die Checkliste vor der Zahlung.",
   "publishedAt": "28. Oktober 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
@@ -112,15 +113,15 @@
     {
       "heading": "Umziehen: die 60-Tage-Regel und die Schritte",
       "paragraphs": [
-        "Umziehen heißt, die Registrierung der Domain von einem Unternehmen zu einem anderen zu verlegen. Die Umzugsseite von Hostinger sagt, dass Website und E-Mail während des Vorgangs weiterlaufen und dass sich die Inhaberdaten nicht ändern. Es ändert sich, wer die Verlängerung berechnet und wo Sie das DNS bearbeiten.",
+        "Umziehen heißt, die Registrierung der Domain von einem Unternehmen zu einem anderen zu verlegen. Die Umzugsseite von Hostinger sagt, dass nur die Registrierung verlegt wird: Website und E-Mail bleiben beim bisherigen Anbieter und laufen weiter, wenn Sie die bisherigen Nameserver behalten. Wählen Sie die von Hostinger, kann alles, was bei anderen Anbietern am DNS hängt, ausfallen, bis Sie die Einträge aktualisieren. Die Inhaberdaten ändern sich nicht. Es ändert sich, wer die Verlängerung berechnet und wo Sie das DNS bearbeiten.",
         "Die Regeln laut der Seite von Hostinger:"
       ],
       "bullets": [
-        "**Alter der Registrierung:** In den meisten Fällen muss die Domain seit mindestens 60 Tagen registriert sein. Auch eine neue Domain bei Hostinger ist 60 Tage gesperrt, bevor sie wegziehen kann.",
+        "**Alter der Registrierung:** In den meisten Fällen muss die Domain seit mindestens 60 Tagen registriert sein. Auch eine neue Domain bei Hostinger ist 60 Tage gesperrt, bevor sie wegziehen kann. Die Frist zählt ab der Registrierung oder dem letzten Umzug, und manche Endungen haben eigene Regeln.",
         "**Entsperren und Code:** Sie entsperren die Domain im Panel des aktuellen Registrars und holen den Autorisierungscode (EPP- oder Auth-Code).",
         "**Bestätigung:** Nachdem Sie den Code bei Hostinger eingegeben haben, kommt eine E-Mail des Registrars zur Bestätigung. Ohne Bestätigung geht der Umzug nicht weiter.",
         "**Dauer:** bis zu sieben Tage; schneller, wenn der bisherige Registrar sie rasch freigibt und Sie die E-Mail sofort bestätigen.",
-        "**Preis:** Er ist nicht kostenlos. Bei den meisten generischen Endungen (.com, .net, .org) enthält die Umzugsgebühr bereits ein weiteres Registrierungsjahr, zusätzlich zur Laufzeit, die Sie schon hatten."
+        "**Preis:** Er ist meist nicht kostenlos (mit einem passenden Hosting-Tarif kann er es sein). Wenn Sie beim Bezahlen 1 Jahr Verlängerung hinzufügen, kommt es zur bisherigen Laufzeit dazu, aber nur bei ausgewählten Endungen; bei manchen länderspezifischen Endungen bleibt das Ablaufdatum gleich."
       ],
       "postParagraphs": [
         "Der Umzug weg von Hostinger folgt derselben Logik umgekehrt: 60 Tage Registrierung, im Panel von Hostinger entsperren, den Code holen und per E-Mail bestätigen. Ein gelungener Umzug wird nicht erstattet; siehe [die Erstattungs- und Verlängerungsregeln von Hostinger](/de/reviews/ist-hostinger-serioes)."
@@ -135,14 +136,14 @@
       "bullets": [
         "**Das Konto:** Die Domain gehört zu dem Hostinger-Konto, in dem sie gekauft wurde. Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren, nicht die eines Freelancers oder einer Agentur. Wer auf den Namen einer anderen Person registriert, hängt später bei einem Umzug von ihr ab.",
         "**Die Verlängerung:** Hostinger empfiehlt, die automatische Verlängerung eingeschaltet zu lassen. Eine abgelaufene Domain legt Website und E-Mail lahm. Die Verlängerung einer Domain wird nicht erstattet, die Karte im Konto muss also aktuell sein.",
-        "**Die Erstattung der Registrierung:** Eine neue Registrierung kann nur innerhalb von 96 Stunden erstattet werden. Danach gehört Ihnen die Domain bis zum Ende der bezahlten Laufzeit, ohne Erstattung."
+        "**Die Erstattung der Registrierung:** Eine neue Registrierung kann nur innerhalb von 96 Stunden erstattet werden, und nur bei Endungen, die Erstattungen zulassen (viele länderspezifische Endungen tun das nicht). Danach gehört Ihnen die Domain bis zum Ende der bezahlten Laufzeit, ohne Erstattung."
       ]
     },
     {
       "heading": "Checkliste vor der Zahlung",
       "bullets": [
         "Schauen Sie auf die Spalte der Verlängerung, nicht nur aufs erste Jahr. Die Domain verlängert sich jedes Jahr, solange die Website existiert.",
-        "Wenn Sie umziehen wollen, prüfen Sie das Registrierungsdatum: unter 60 Tagen beginnt der Umzug nicht.",
+        "Wenn Sie umziehen wollen, prüfen Sie das Registrierungsdatum und das Datum des letzten Umzugs: unter 60 Tagen beginnt der Umzug nicht.",
         "Kaufen Sie in dem Konto, das Ihres sein wird, mit Ihrer eigenen E-Mail-Adresse und eingeschalteter automatischer Verlängerung.",
         "Wenn die Domain mit dem Hosting-Tarif kam, notieren Sie den Verlängerungspreis für das zweite Jahr: Er wird vor dem Kauf angezeigt.",
         "SONAR20 gibt 20 % auf den Hosting-Tarif; bei einer einzelnen Domain gilt der Code nicht."
@@ -153,7 +154,7 @@
       "paragraphs": [
         "**Kaufen Sie bei Hostinger**, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen; prüfen Sie die Verlängerung vor der Zahlung.",
         "**Kaufen Sie extern und verknüpfen Sie**, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder der Verlängerungspreis dort niedriger ist. Das Umstellen des DNS ist eine Einstellung im Panel, und die Website funktioniert genauso.",
-        "**Ziehen Sie nur um**, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen. Bei den meisten generischen Endungen enthält die Umzugsgebühr ein weiteres Registrierungsjahr, es ist also kein verlorenes Geld.",
+        "**Ziehen Sie nur um**, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen. Bei Endungen, bei denen der Umzug ein Registrierungsjahr dazugibt, ist es kein verlorenes Geld.",
         "Im Zweifel ziehen Sie nicht um: Verknüpfen Sie die Domain und lassen Sie die Registrierung, wo sie ist. Umziehen kann man später, und die Website bleibt dabei online."
       ],
       "emphasis": "Wäre es für meine Website, würde ich die Registrierung zusammen mit dem Hosting nehmen, weil Domain und Verlängerung im selben Panel liegen."
@@ -167,9 +168,9 @@
     {
       "heading": "Häufige Fragen",
       "bullets": [
-        "Kann man das Hosting wechseln, ohne die Domain zu verlieren? Ja. Die Domain gehört Ihnen und bleibt im Hostinger-Konto; Sie lassen das DNS auf das neue Hosting zeigen oder ziehen die Registrierung später um, sobald 60 Tage seit der Registrierung vergangen sind.",
+        "Kann man das Hosting wechseln, ohne die Domain zu verlieren? Ja. Die Domain gehört Ihnen und bleibt im Hostinger-Konto; Sie lassen das DNS auf das neue Hosting zeigen oder ziehen die Registrierung später um, sobald 60 Tage seit der Registrierung oder dem letzten Umzug vergangen sind.",
         "Braucht man eine Domain für E-Mail? Ja. Für eine Adresse wie sie@ihrefirma.com muss die Domain existieren; ein Hosting ist nicht nötig, und Hostinger sagt, dass man die Domain nur für E-Mail oder für die Weiterleitung auf eine andere Website nutzen kann.",
-        "Kann man die Domain von Hostinger zu einem anderen Registrar umziehen? Ja, nach 60 Tagen Registrierung: Sie entsperren die Domain im Panel, holen den Autorisierungscode und bestätigen per E-Mail beim neuen Registrar. Ein gelungener Umzug wird nicht erstattet.",
+        "Kann man die Domain von Hostinger zu einem anderen Registrar umziehen? Ja, nach 60 Tagen seit Registrierung oder letztem Umzug: Sie entsperren die Domain im Panel, holen den Autorisierungscode und bestätigen per E-Mail beim neuen Registrar. Ein gelungener Umzug wird nicht erstattet.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },
@@ -205,11 +206,11 @@
   "decision": {
     "takeIf": [
       "Nehmen Sie die Domain bei Hostinger, wenn die Website dort gehostet wird und Sie Domain, DNS und Verlängerung im selben Panel wollen.",
-      "Nehmen Sie den Umzug nur, wenn die Domain seit mehr als 60 Tagen registriert ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen."
+      "Nehmen Sie den Umzug nur, wenn die Domain seit mehr als 60 Tagen registriert oder zuletzt umgezogen ist und die Verlängerung bei Hostinger das ausgleicht, was Sie heute zahlen."
     ],
     "skipIf": [
       "Lassen Sie es, wenn Sie schon eine Domain bei einem anderen Registrar haben, die Konten lieber getrennt halten oder die Verlängerung dort günstiger ist: Stellen Sie das DNS um und lassen Sie die Registrierung, wo sie ist.",
-      "Lassen Sie den Umzug, wenn die Registrierung jünger als 60 Tage ist: Er beginnt nicht.",
+      "Lassen Sie den Umzug, wenn die Registrierung oder der letzte Umzug jünger als 60 Tage ist: Er beginnt nicht.",
       "Lassen Sie es, wenn die Domain auf den Namen oder im Konto eines Freelancers oder einer Agentur läge: Nutzen Sie eine E-Mail-Adresse, die Sie kontrollieren."
     ]
   }

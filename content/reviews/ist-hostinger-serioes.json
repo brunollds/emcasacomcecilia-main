@@ -34,6 +34,7 @@
   "metaDescription": "Ist Hostinger seriös? Hier erfahren Sie, wer abrechnet, wie die 30-Tage-Erstattung samt Ausnahmen funktioniert, was die automatische Verlängerung zum neuen Preis bedeutet und was Sie vor dem Kauf prüfen sollten.",
   "publishedAt": "19. Oktober 2026",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -79,7 +80,7 @@
           ],
           [
             "Neue Domainregistrierung",
-            "Nur innerhalb von 96 Stunden"
+            "Nur innerhalb von 96 Stunden, einige Endungen sind nicht erstattungsfähig"
           ],
           [
             "Domainverlängerung",
@@ -100,7 +101,7 @@
         ]
       },
       "postParagraphs": [
-        "Um eine Erstattung zu beantragen, öffnen Sie ein Ticket über den Button unten rechts auf der Website und geben die Rechnungsnummer und den Grund an. Der Betrag geht an das verwendete Zahlungsmittel zurück. Wenn Sie stattdessen Guthaben im Konto wählen, wird die Erstattung zu Guthaben und nicht auf die Karte zurückgebucht. Die Richtlinie besagt außerdem, dass Hostinger wiederholte oder massenhafte Anfragen ablehnt."
+        "Um eine Erstattung zu beantragen, öffnen Sie ein Ticket über den Button unten rechts auf der Website und geben die Rechnungsnummer und den Grund an. Der Betrag geht an das verwendete Zahlungsmittel zurück, außer bei Zahlungsmitteln, die nur auf das Kontoguthaben erstatten. Wenn Sie stattdessen Guthaben im Konto wählen, wird die Erstattung zu Guthaben und nicht auf die Karte zurückgebucht. Die Richtlinie besagt außerdem, dass Hostinger wiederholte oder massenhafte Anfragen ablehnt."
       ],
       "images": [
         {
@@ -158,7 +159,7 @@
     {
       "heading": "Wann Hostinger passt und wann nicht",
       "paragraphs": [
-        "Für einen Blog, eine private Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln und 30 Tagen zum Ausprobieren. Wenn die Website nicht offline gehen darf, muss die Garantie im Tarif schriftlich stehen, und die öffentliche Seite nennt die Zahl nicht. Wenn Sie wegen des Black Friday fragen: Der [Leitfaden zur Aktion](/de/reviews/hostinger-black-friday-angebote) nennt die Daten und die Regeln jedes Angebots."
+        "Für einen Blog, eine private Website oder einen kleinen Shop liefert Hostinger den Dienst mit klaren Regeln und 30 Tagen zum Ausprobieren. Wenn die Website nicht offline gehen darf, sollten Sie wissen, was die 99,9 % auf der Preisseite wert sind: Der Hosting-Vertrag verspricht dieses Minimum pro Monat und, wenn es verfehlt wird, eine Gutschrift von 5 % der Monatsgebühr, die innerhalb von 30 Tagen zu beantragen ist; er deckt nicht ab, was Sie nicht verkaufen konnten. Wenn Sie wegen des Black Friday fragen: Der [Leitfaden zur Aktion](/de/reviews/hostinger-black-friday-angebote) nennt die Daten und die Regeln jedes Angebots."
       ]
     },
     {
@@ -174,8 +175,8 @@
         "Erstattet Hostinger Geld? Ja, innerhalb von 30 Tagen für Hosting und VPS, mit den Ausnahmen aus der Tabelle. Domainverlängerungen und kostenpflichtige Support-Leistungen werden nicht erstattet.",
         "Ist die Verlängerung bei Hostinger automatisch? Ja, standardmäßig. Sie können das im Konto jederzeit abschalten; ohne manuelle Verlängerung endet der Dienst am Ende des Zeitraums.",
         "Wer rechnet bei Hostinger ab? Das hängt vom Land ab. Das Vertragsunternehmen folgt Abschnitt 2 der Bedingungen, und auch andere Unternehmen der Gruppe können abrechnen. Prüfen Sie den Namen beim Checkout.",
-        "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
-        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
+        "Gibt es einen Hostinger-Gutschein? Ja: Der Code SONAR20 im Gutscheinfeld des Warenkorbs gibt 20 % auf den ersten Zeitraum, bei Monats- oder Jahrestarifen. Die 20 % gelten für den Neukauf eines Tarifs (Domainregistrierung ausgenommen); die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+        "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder einen neuen Dienst (außer Domainregistrierung) abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },
     {
@@ -192,7 +193,7 @@
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für jeden Neukauf; die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
+    "text": "Geben Sie den Code SONAR20 im Gutscheinfeld des Warenkorbs ein oder kommen Sie über den Link: 20 % auf den ersten Zeitraum. Die 20 % gelten für den Neukauf eines Tarifs (Domainregistrierung ausgenommen); die Verlängerung wird zum Listenpreis berechnet, ohne Rabatt.",
     "label": "Hostinger-Tarife ansehen",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

@@ -16,6 +16,7 @@
   },
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "description": "Os oito sabores dos snacks proteicos e de arroz da Belive, com preço, rótulo, ingredientes e a conta por grama de proteína, em 28/10/2026.",
@@ -38,7 +39,7 @@
   "decision": {
     "takeIf": [
       "Leve o proteico se procura mais proteína por pacote.",
-      "Leve o de arroz se quer menor preço por pacote e menos sódio."
+      "Leve o de arroz se quer menor preço por pacote; no sódio, compare o sabor escolhido, porque o de arroz só tem menos sódio em média."
     ],
     "skipIf": [
       "Passe os oito se evita soja: todos trazem derivados de soja.",
@@ -226,7 +227,7 @@
       "heading": "Qual compensa",
       "emphasis": "Pelos números da tabela, para o perfil proteína a escolha é o proteico, porque traz 10 g por pacote a R$ 0,80 por grama de proteína.",
       "paragraphs": [
-        "Se o critério é preço por pacote e sódio, leve o de arroz: R$ 2,78 a menos por pacote e, em média, menos sódio.",
+        "Se o critério é preço por pacote e sódio, leve o de arroz: R$ 2,78 a menos por pacote e, em média, menos sódio. No sódio, compare o sabor: o proteico Cebola e Salsa (180 mg) tem menos que o arroz Queijo e o Churrasco (209 mg).",
         "Dentro de cada linha, o sabor é com você. A escolha se faz pelos números da tabela e pelo que você quer comer."
       ]
     },

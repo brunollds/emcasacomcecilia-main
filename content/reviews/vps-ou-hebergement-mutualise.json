@@ -34,6 +34,7 @@
   "metaDescription": "VPS ou hébergement mutualisé chez Hostinger : ce qu'est chacun, tableau par scénario, specs des KVM 1 à 8 et ce qui reste à votre charge en maintenance.",
   "publishedAt": "28 octobre 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -85,7 +86,7 @@
           ],
           [
             "Site en Node.js",
-            "Oui. Le forfait Premium liste Node.js, et ce site tourne ainsi",
+            "Oui, avec Unlimited ou Cloud Startup, que Hostinger liste pour Node.js. Premium ne figure pas dans cette liste",
             "Pas besoin"
           ],
           [
@@ -161,13 +162,13 @@
       "heading": "Maintenance : ce qui reste à votre charge",
       "paragraphs": [
         "C'est la partie que le prix ne montre pas. Sur le mutualisé, Hostinger maintient le serveur et le panneau ; vous vous occupez de votre site (thème, plugins, contenu). Le forfait Premium liste des sauvegardes hebdomadaires, et Unlimited inclut le support prioritaire.",
-        "Sur un VPS, Hostinger indique sur sa propre page qu'avec l'accès root, la configuration, les mises à jour et la sécurité du serveur incombent à celui qui souscrit. En pratique, cela devient une liste qui est la vôtre :"
+        "Sur un VPS, Hostinger indique sur sa propre page qu'avec l'accès root, la configuration, les mises à jour et la sécurité du serveur incombent à celui qui souscrit. Hostinger propose des modèles avec le système déjà installé, comme celui de WordPress, et une sauvegarde hebdomadaire automatique par défaut, mais la maintenance reste à votre charge. En pratique, cela devient une liste qui est la vôtre :"
       ],
       "bullets": [
-        "**Installer et configurer** le serveur web, la base de données et le certificat SSL.",
+        "**Installer et configurer** le serveur web, la base de données et le certificat SSL, ou partir d'un modèle prêt.",
         "**Mettre à jour** le système d'exploitation et les programmes, de temps en temps.",
         "**Protéger** : pare-feu, ports ouverts, mots de passe et clés d'accès.",
-        "**Sauvegarder** et savoir restaurer.",
+        "**Sauvegarder** (la sauvegarde hebdomadaire automatique est activée par défaut) et savoir restaurer.",
         "**Réagir** quand le site tombe en dehors des heures de bureau."
       ],
       "postParagraphs": [
@@ -182,10 +183,10 @@
     },
     {
       "heading": "Verdict : VPS ou mutualisé",
-      "emphasis": "Si c'était pour mon site, je prendrais le Premium, parce qu'il coûte moins cher et que Hostinger s'occupe du serveur.",
+      "emphasis": "Si c'était pour un site ordinaire, je prendrais le Premium, parce qu'il coûte moins cher et que Hostinger s'occupe du serveur.",
       "emphasisAfterParagraph": 3,
       "paragraphs": [
-        "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise, une petite boutique et un site en Node.js. La maintenance du serveur revient à Hostinger. Parmi les forfaits, Premium est le point de départ ; si le site grandit, Unlimited ou Cloud Startup, avant de penser au VPS.",
+        "**Hébergement mutualisé** pour un blog, un portfolio, un site d'entreprise ou une petite boutique. La maintenance du serveur revient à Hostinger. Parmi les forfaits, Premium est le point de départ ; pour un site en Node.js ou si le site grandit, Unlimited ou Cloud Startup, avant de penser au VPS.",
         "**VPS** pour un système propre, un programme ou une base hors du panneau, un bot ou un tableau de bord tournant toute la journée, ou quand vous avez besoin de root. Commencez par le KVM 1 et montez si la mémoire manque. Mettez dans le calcul le temps de maintenir le serveur, ou le coût de quelqu'un qui le fasse.",
         "**Dans le doute, mutualisé.** Le VPS ne redevient pas mutualisé ensuite, mais l'inverse n'est qu'un nouveau contrat le jour où le besoin apparaît."
       ]
@@ -196,7 +197,7 @@
         "Un VPS est-il plus rapide qu'un hébergement mutualisé ? Nous ne l'avons pas mesuré. Ce que le VPS garantit, ce sont des ressources réservées : CPU, mémoire et disque sont à vous, alors que sur le mutualisé le serveur est partagé. Pour un site ordinaire, c'est rarement le goulot d'étranglement.",
         "Peut-on commencer sur le mutualisé et passer au VPS plus tard ? Oui. Ce sont des produits différents : vous souscrivez le VPS, installez le serveur et y transférez le site. L'hébergement mutualisé ne se convertit pas en VPS depuis le panneau.",
         "Faut-il connaître Linux pour avoir un VPS ? Oui, les bases du terminal : installer des programmes, mettre à jour le système et lire un journal. Sur le mutualisé, tout passe par le panneau et aucun terminal n'est obligatoire.",
-        "Un VPS supporte-t-il WordPress ? Oui, mais vous installez et maintenez le serveur web, PHP et la base de données. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
+        "Un VPS supporte-t-il WordPress ? Oui. Vous pouvez partir du modèle WordPress du VPS, déjà installé, mais mettre à jour, protéger et restaurer les sauvegardes reste à votre charge. Sur le mutualisé, WordPress arrive prêt dans le panneau et Hostinger s'occupe du serveur.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
       ]
     },
@@ -236,7 +237,7 @@
       "Prenez-le si vous avez un tableau de bord, un bot ou une automatisation (n8n, Docker) qui tourne toute la journée et quelqu'un pour maintenir le serveur."
     ],
     "skipIf": [
-      "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise, une petite boutique ou un site en Node.js : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
+      "Laissez tomber si c'est un blog, un portfolio, un site d'entreprise ou une petite boutique : le mutualisé fait l'affaire et Hostinger s'occupe du serveur.",
       "Laissez tomber si vous n'avez jamais ouvert de terminal : installer, mettre à jour, protéger et sauvegarder reviennent à vous."
     ]
   }

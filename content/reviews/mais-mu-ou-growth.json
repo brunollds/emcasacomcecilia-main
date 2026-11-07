@@ -17,6 +17,7 @@
   "metaDescription": "O cupom MMEMCASACOMCECILIA dá 10% OFF no site da Mais Mu. Mais Mu ou Growth: whey e creatina por 100 g, com preço no cartão, no Pix e com cupom.",
   "publishedAt": "21 de outubro de 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/mais-mu/mais-mu-ou-growth-capa-discover.webp",
@@ -27,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "A Growth sai mais barata no whey em todas as formas de pagamento, e a Mais Mu ganha na creatina quando entra o cupom. O que decide é o produto que você compra; veja abaixo as contas por 100 g e o capítulo Quem escolhe o quê."
+        "Nos preços de outubro, a Growth sai mais barata no whey em todas as formas de pagamento, e a Mais Mu ganha na creatina sem sabor quando entra o cupom. O que decide é o produto que você compra; veja abaixo as contas por 100 g e o capítulo Quem escolhe o quê."
       ]
     },
     {
@@ -47,7 +48,7 @@
       },
       "bullets": [
         "**preço por 100 g de proteína:** preço ÷ (porções × proteína por porção) × 100;",
-        "**preço por 100 g de creatina:** preço ÷ gramas do pote × 100;",
+        "**preço por 100 g de creatina:** preço ÷ gramas de creatina do pote × 100 (na limonada e na melancia, 3 g de creatina em cada dose de 3,5 g);",
         "**com cupom:** preço no cartão × 0,90, os 10% do cupom;",
         "**com cupom e Pix:** preço no cartão × 0,873, com o cupom e depois os 3% do Pix."
       ],
@@ -159,14 +160,14 @@
     {
       "heading": "Creatina: refil de 500 g sem sabor contra o pouch da Growth",
       "paragraphs": [
-        "A dose da creatina sem sabor da Mais Mu é de 3 g, e a da Growth, de 5 g; por isso a conta é por 100 g. Por dose, a Mais Mu sai menor: R$ 0,48 no refil, contra R$ 0,83 no pouch da Growth, no cartão."
+        "A dose da creatina sem sabor da Mais Mu é de 3 g, e a da Growth, de 5 g; por isso a conta é por 100 g. Por dose, a Mais Mu sai menor: R$ 0,48 no refil, contra R$ 0,83 no pouch da Growth, no cartão. Na limonada e na melancia, 3 g dos 3,5 g da dose são creatina, e a coluna divide o preço só por ela."
       ],
       "comparisonTable": {
         "headers": [
           "Produto",
           "Dose e porções",
           "Cartão",
-          "Por 100 g (cartão)"
+          "Por 100 g de creatina (cartão)"
         ],
         "rows": [
           [
@@ -179,13 +180,13 @@
             "[Creatina Mais Mu refil melancia 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/)",
             "3,5 g, cerca de 143",
             "R$ 79,90",
-            "R$ 15,98"
+            "R$ 18,64"
           ],
           [
             "[Creatina Mais Mu limonada 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/)",
             "3,5 g, 60",
             "R$ 64,90",
-            "R$ 30,90"
+            "R$ 36,06"
           ],
           [
             "[Creatina Mais Mu sem sabor 200 g](https://www.lojamaismu.com.br/produtos/creatina-sem-sabor-200g/)",
@@ -203,7 +204,7 @@
       },
       "postParagraphs": [
         "No Pix, o refil sem sabor sai a R$ 15,50 por 100 g, e o pouch da Growth, a R$ 14,98; com o cupom e o Pix somados, o refil cai para R$ 13,95.",
-        "O pote de 200 g sem sabor é o mais caro por grama desta tabela, e os sabores de limonada e de melancia seguem o preço de cada linha. Os potes de 500 g e de 250 g da Growth, com dose de 5 g, saem a R$ 18,87 e R$ 19,95 por 100 g no cartão. Para a conta da Growth em outra creatina, veja [o comparativo da creatina da Nutren com a Growth](/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed)."
+        "A limonada de 210 g (R$ 36,06) e o pote de 200 g sem sabor (R$ 32,45) são os mais caros por grama de creatina desta tabela, e a melancia, em R$ 18,64, fica acima do refil sem sabor. Os potes de 500 g e de 250 g da Growth, com dose de 5 g, saem a R$ 18,87 e R$ 19,95 por 100 g no cartão. Para a conta da Growth em outra creatina, veja [o comparativo da creatina da Nutren com a Growth](/reviews/nutren-creatina-e-boa-comparativo-growth-ftw-cimed)."
       ],
       "images": [
         {
@@ -226,10 +227,10 @@
         "**A Growth ganha na creatina no Pix, sem cupom.** O pouch de 500 g sai a R$ 14,98 por 100 g, contra R$ 15,50 do refil da Mais Mu.",
         "**A Mais Mu ganha na creatina com o cupom.** O refil de 500 g sai a R$ 14,38 por 100 g com o cupom no cartão, e a R$ 13,95 com cupom e Pix, abaixo do pouch da Growth no Pix, que não tem cupom.",
         "**A Mais Mu ganha na creatina no cartão, sem cupom.** São R$ 15,98 contra R$ 16,64 do pouch.",
-        "**Entre as linhas desta conta, só a Mais Mu tem creatina com sabor.** São limonada e melancia, pelo mesmo preço por 100 g do sem sabor no refil de 500 g."
+        "**Entre as linhas desta conta, só a Mais Mu tem creatina com sabor.** São limonada e melancia, a R$ 36,06 e R$ 18,64 por 100 g de creatina no cartão, acima do sem sabor no refil de 500 g."
       ],
       "postParagraphs": [
-        "Não há um veredito único: a Growth vence no whey por proteína, mesmo contra o refil de 1,8 kg da Mais Mu com cupom e Pix, e a Mais Mu vence na creatina quando entra o cupom."
+        "Não há um veredito único: nos preços de outubro, a Growth vence no whey por proteína, mesmo contra o refil de 1,8 kg da Mais Mu com cupom e Pix, e a Mais Mu vence na creatina quando entra o cupom."
       ]
     },
     {
@@ -243,7 +244,7 @@
     },
     {
       "heading": "Quem escolhe o quê",
-      "emphasis": "Pelos números da tabela, para quem compra whey a escolha é a Growth, porque vence por 100 g de proteína em todas as formas de pagamento; para quem compra creatina com cupom, a escolha é o refil de 500 g da Mais Mu.",
+      "emphasis": "Pelos números da tabela de outubro, para quem compra whey a escolha é a Growth, porque vence por 100 g de proteína em todas as formas de pagamento; para quem compra creatina com cupom, a escolha é o refil de 500 g da Mais Mu.",
       "emphasisAfterParagraph": 1,
       "paragraphs": [
         "Pelos rótulos e pelos preços:"
@@ -253,7 +254,7 @@
         "Quer isolado pelo menor preço: a Growth de 1 kg, a R$ 39,27 no Pix. Na Mais Mu, o [refil de 900 g](https://www.lojamaismu.com.br/produtos/whey-protein-isolado-baunilha-refil-900g/), a R$ 62,53 com cupom e Pix.",
         "Quer creatina sem sabor com cupom: o [refil de 500 g da Mais Mu](https://www.lojamaismu.com.br/produtos/creatina-refil-sem-sabor-500g/), a R$ 13,95 por 100 g com cupom e Pix.",
         "Quer creatina no Pix sem cupom: o pouch de 500 g da Growth, a R$ 14,98 por 100 g.",
-        "Quer creatina com sabor: a [creatina limonada de 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/) ou a [creatina refil melancia de 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/) da Mais Mu, a R$ 30,90 e a R$ 15,98 por 100 g no cartão.",
+        "Quer creatina com sabor: a [creatina limonada de 210 g](https://www.lojamaismu.com.br/produtos/creatina-limonada-210g/) ou a [creatina refil melancia de 500 g](https://www.lojamaismu.com.br/produtos/creatina-performance-refil-melancia-500g/) da Mais Mu, a R$ 36,06 e a R$ 18,64 por 100 g de creatina no cartão.",
         "Quer um produto com o selo Creapure: as páginas da Mais Mu lidas não declaram o selo; confira o rótulo do pote."
       ],
       "postParagraphs": [
@@ -263,7 +264,7 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "Mais Mu ou Growth: qual é melhor? Depende da linha: a Growth vence no whey por proteína, e a Mais Mu, na creatina com cupom.",
+        "Mais Mu ou Growth: qual é melhor? Depende da linha e do preço do dia: nos preços de outubro, a Growth vence no whey por proteína, e a Mais Mu, na creatina sem sabor com cupom.",
         "Qual whey tem o menor preço por 100 g de proteína? A Growth concentrado de 1 kg, a R$ 26,34 no Pix; entre os da Mais Mu, o [refil de 1,8 kg](https://www.lojamaismu.com.br/produtos/whey-protein-concentrado-mais-mu-baunilha-refil-18kg-e95c1/), a R$ 43,65 com cupom e Pix.",
         "A Mais Mu é boa? Esta comparação responde só pelo rótulo, pela dose e pelo preço; a reputação e as reclamações da loja estão no [artigo sobre a confiança na Mais Mu](/reviews/mais-mu-e-confiavel).",
         "A creatina da Mais Mu é pura? O nome do produto diz 100% Pura, e o rótulo do sem sabor lista só creatina monohidratada.",

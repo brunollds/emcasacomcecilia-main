@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger Reach vaut-il le coup ? Tableau par profil, forfaits, limites d'envoi, WhatsApp et renouvellement en dollars américains au 30 octobre 2026, face aux forfaits gratuits de Mailchimp et de Brevo.",
   "publishedAt": "30 octobre 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -78,7 +79,7 @@
           [
             "Limite gratuite dépassée, jusqu'à 1 000 contacts",
             "Reach Grow ou Pro",
-            "Reach Pro va jusqu'à 1 000 destinataires pour 2,79 US$ par mois les 12 premiers mois (renouvellement à 3,99 US$)."
+            "Grow couvre jusqu'à 500 destinataires. Reach Pro va jusqu'à 1 000 destinataires pour 2,79 US$ par mois les 12 premiers mois (renouvellement à 3,99 US$)."
           ],
           [
             "Liste de plus de 1 000 contacts",
@@ -136,7 +137,7 @@
         "**Grow :** 500 destinataires, 3 500 e-mails par mois et 10 crédits d'IA par mois. Il retire la marque Reach et ajoute personnalisation, planification et automatisations.",
         "**Pro :** 1 000 destinataires, 7 000 e-mails par mois et 20 crédits d'IA par mois. Il ajoute le HTML, l'heure d'envoi optimisée, les campagnes WhatsApp, les champs personnalisés et les coéquipiers."
       ],
-      "emphasis": "Si vous hésitez entre les forfaits, c'est la taille de la liste qui tranche. Au-delà de 1 000 destinataires, on est déjà hors de Reach."
+      "emphasis": "Si vous hésitez entre les forfaits, c'est la taille de la liste qui tranche. Les forfaits de la page vont jusqu'à 1 000 destinataires ; au-delà, regardez au panier s'il existe une tranche Pro plus grande, ou allez chez Mailchimp ou Brevo."
     },
     {
       "heading": "Mailchimp et Brevo : les forfaits gratuits",
@@ -173,8 +174,8 @@
     {
       "heading": "Quand la liste grandit",
       "paragraphs": [
-        "La première limite qui pèse est celle des destinataires : 100 sur Starter, 500 sur Grow et 1 000 sur Pro. Les forfaits Reach s'arrêtent là. Qui a ou prévoit plus de 1 000 contacts va vers Mailchimp ou Brevo, qui facturent par tranche de contacts ou d'envois.",
-        "La seconde limite est celle des envois. Sur Grow, 3 500 e-mails par mois avec 500 destinataires font 7 envois à toute la liste dans le mois ; sur Pro, 7 000 e-mails avec 1 000 destinataires en font aussi 7. Une newsletter hebdomadaire passe. Écrire à toute la liste plus d'une fois par semaine dépasse la limite."
+        "La première limite qui pèse est celle des destinataires : 100 sur Starter, 500 sur Grow et 1 000 sur Pro. Les forfaits Reach de la page s'arrêtent là. La limite compte les destinataires uniques du mois, pas les contacts enregistrés. Qui a ou prévoit plus de 1 000 contacts va vers Mailchimp ou Brevo, qui facturent par tranche de contacts ou d'envois.",
+        "La seconde limite est celle des envois. Sur Grow, 3 500 e-mails par mois avec 500 destinataires font 7 envois à toute la liste dans le mois ; sur Pro, 7 000 e-mails avec 1 000 destinataires en font aussi 7. Le plafond est mensuel et compte chaque e-mail envoyé : multipliez les envois du mois par les destinataires réels. Une newsletter hebdomadaire passe."
       ],
       "bullets": [
         "**Pas encore de domaine ?** Si vous voulez l'adresse de votre site comme expéditeur, voyez [domaine chez Hostinger : acheter, transférer ou enregistrer ailleurs](/fr/reviews/domaine-hostinger-acheter-ou-transferer).",
@@ -193,7 +194,7 @@
       "paragraphs": [
         "**Ça vaut le coup** pour qui a déjà un site chez Hostinger et une liste allant jusqu'à 1 000 destinataires. Grow couvre une liste jusqu'à 500 avec des automatisations ; Pro, une liste jusqu'à 1 000 et WhatsApp. Le renouvellement de Grow (2,49 US$ par mois) et de Pro (3,99 US$ par mois) fait partie de la décision : vérifiez-le avant de payer.",
         "**Restez sur le forfait gratuit de Mailchimp ou de Brevo** si la liste débute et que vous ne savez pas encore si vous enverrez des e-mails souvent. Reach n'a pas de forfait gratuit.",
-        "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou si vous écrivez à toute la liste plus d'une fois par semaine : les forfaits Reach s'arrêtent à 1 000 destinataires et 7 000 e-mails par mois.",
+        "**Allez chez Mailchimp ou Brevo** si la liste dépasse 1 000 contacts ou s'il vous faut plus de 7 envois par mois à toute la liste : les forfaits Reach s'arrêtent à 1 000 destinataires et 7 000 e-mails par mois.",
         "Si c'était pour mon site, je prendrais Reach Grow, parce qu'il couvre une liste jusqu'à 500 avec des automatisations et se renouvelle à 2,49 US$ par mois."
       ]
     },
@@ -247,7 +248,7 @@
     ],
     "skipIf": [
       "Passez votre chemin si la liste débute et tient dans le forfait gratuit de Mailchimp ou de Brevo.",
-      "Passez votre chemin si la liste dépasse 1 000 contacts ou si vous écrivez à tout le monde plus d'une fois par semaine."
+      "Passez votre chemin si la liste dépasse 1 000 contacts ou si vous écrivez à tout le monde plus de 7 fois par mois."
     ]
   }
 }

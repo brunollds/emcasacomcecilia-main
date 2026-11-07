@@ -34,6 +34,7 @@
   "metaDescription": "Le code SONAR20 donne 20 % sur un nouveau forfait Hostinger ; le renouvellement est au prix catalogue. Voyez le coût de chaque forfait et le remboursement.",
   "publishedAt": "5 novembre 2026",
   "publishedAtISO": "2026-11-05",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -176,7 +177,7 @@
         "27 jours avant l'échéance, pour le domaine."
       ],
       "postParagraphs": [
-        "La date peut varier un peu. S'il reste un jour ou moins avant le renouvellement, il ne se fait pas tout seul sur ce cycle : il faut renouveler à la main. Gardez du solde sur le moyen de paiement autour de ces dates.",
+        "La date peut varier un peu. Si vous activez le renouvellement automatique alors qu'il reste un jour ou moins avant l'échéance, il ne se fait pas tout seul sur ce cycle : il faut renouveler à la main. Vérifiez le statut et la date dans le panneau, et gardez du solde sur le moyen de paiement autour de ces dates.",
         "Pour renouveler à la main à tout moment, ouvrez Facturation, puis Abonnements, et cliquez sur renouveler à côté du service. Le prix du renouvellement, hors taxes, s'affiche là, dans la colonne du prix de renouvellement. Quand le forfait approche de l'échéance, sa carte, dans la zone des sites du panneau, affiche la date et le bouton de renouvellement."
       ],
       "image": {
@@ -227,7 +228,7 @@
     {
       "heading": "Le domaine reste à part",
       "paragraphs": [
-        "Le domaine n'est pas remboursable au renouvellement et n'accepte pas non plus le SONAR20, il appelle donc une décision à part. Son renouvellement a son propre interrupteur, dans la zone des domaines du panneau, et il est prélevé 27 jours avant l'échéance. Seul l'enregistrement neuf a un court délai de remboursement, de 96 heures ; le renouvellement n'en a aucun.",
+        "Le domaine n'est pas remboursable au renouvellement et n'accepte pas non plus le SONAR20, il appelle donc une décision à part. Son renouvellement a son propre interrupteur, dans la zone des domaines du panneau, et il est prélevé 27 jours avant l'échéance. Seul l'enregistrement neuf a un court délai de remboursement, de 96 heures en général, selon l'extension ; le renouvellement n'en a aucun.",
         "Décidez pour le domaine avant ce prélèvement : regardez le prix, voyez s'il doit rester chez ce registraire et ne le laissez se renouveler qu'ensuite. Les voies pour enregistrer, transférer ou laisser le domaine de côté sont dans [domaine chez Hostinger](/fr/reviews/domaine-hostinger-acheter-ou-transferer)."
       ]
     },

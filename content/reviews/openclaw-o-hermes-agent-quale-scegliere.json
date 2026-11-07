@@ -30,10 +30,11 @@
       "initials": "BL"
     }
   ],
-  "description": "OpenClaw o Hermes Agent: canali, memoria, apprendimento, licenza e costo reale su Hostinger, con prezzi letti il 21 ottobre 2026.",
-  "metaDescription": "OpenClaw o Hermes Agent su Hostinger: quale scegliere, canali, memoria, modelli IA e prezzo con e senza il SONAR20, letti il 21 ottobre 2026.",
+  "description": "OpenClaw o Hermes Agent: canali, memoria, apprendimento, licenza e costo reale su Hostinger, con piani di server letti il 21 ottobre 2026.",
+  "metaDescription": "OpenClaw o Hermes Agent su Hostinger: quale scegliere, canali, memoria, modelli IA e il codice SONAR20, letti il 21 ottobre 2026.",
   "publishedAt": "21 ottobre 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-ou-hermes-agent-capa-discover.webp",
@@ -147,7 +148,7 @@
         "**Chi si occupa del server.** Nel gestito, Hostinger aggiorna e cura la sicurezza. Nel VPS, l'aggiornamento è tuo, con il pulsante Update di Docker Manager, e anche la sicurezza del server. Docker è il programma che esegue ogni applicazione isolata in un container."
       ],
       "postParagraphs": [
-        "Se installi OpenClaw per conto tuo, con npm, richiede Node.js 24.16 o più recente, oppure 26.1 o più recente. La politica di sicurezza del progetto non supporta le versioni 22, 23 e 25."
+        "Se installi OpenClaw per conto tuo, con npm, richiede Node.js 24.22.1 o più recente nella linea 24, oppure 26.12.1 o più recente nella 26, nella versione stabile attuale. La politica di sicurezza del progetto non supporta le versioni 22, 23 e 25."
       ]
     },
     {
@@ -156,7 +157,7 @@
         "Le politiche di sicurezza dei due progetti dicono per chi è stato pensato l'agente. Leggile prima di decidere come esporlo."
       ],
       "bullets": [
-        "**OpenClaw** (SECURITY.md del repository openclaw/openclaw): pensato per un operatore di fiducia, non per più persone che non si conoscono. Chi riesce a parlare con l'agente può fargli usare i suoi strumenti. Per più di una persona, il progetto consiglia un server per persona. Non esporre il gateway direttamente a internet. I plugin girano nello stesso processo e sono trattati come codice fidato, quindi installa solo ciò che conosci.",
+        "**OpenClaw** (SECURITY.md del repository openclaw/openclaw): pensato per un operatore di fiducia o un team che si fida a vicenda, non per persone senza questa fiducia. Chi riesce a parlare con l'agente può fargli usare i suoi strumenti. Per persone che non si fidano l'una dell'altra, il progetto chiede gateway separati, meglio su utenti o server distinti. Non esporre il gateway direttamente a internet. I plugin girano nello stesso processo e sono trattati come codice fidato, quindi installa solo ciò che conosci.",
         "**Hermes Agent** (SECURITY.md del repository NousResearch/hermes-agent): pensato per una sola persona. Non esporre il gateway a internet senza VPN, Tailscale o firewall. Esegui l'agente come utente senza privilegi di root e controlla skill e plugin di terze parti leggendo il codice, non solo il file SKILL.md."
       ],
       "postParagraphs": [
@@ -218,7 +219,7 @@
       },
       "postParagraphs": [
         "Nel gestito, il piano include un saldo iniziale di crediti IA, e ciò che lo supera viene addebitato in base al consumo. Nel VPS, Hostinger installa l'assistente con Docker, e l'aggiornamento e la sicurezza del server restano a tuo carico.",
-        "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, i 30 giorni valgono solo se l'ultimo rimborso di un VPS è stato chiesto più di 180 giorni fa.",
+        "Il gestito ha 30 giorni per chiedere il rimborso. Nel VPS, dopo un rimborso di VPS completato, ci sono 180 giorni di attesa prima del successivo. Gli upgrade del VPS e i pagamenti in criptovalute non sono rimborsabili.",
         "Se vuoi fare il conto dei requisiti prima di scegliere il piano, leggi il [miglior VPS per OpenClaw](/it/reviews/miglior-vps-per-openclaw). Per la campagna, guarda [il Black Friday di Hostinger](/it/reviews/black-friday-hostinger-offerte)."
       ]
     },
@@ -235,7 +236,7 @@
         "OpenClaw e Hermes Agent sono gratuiti? I due programmi sono open source, con licenza MIT, e non paghi il software. Paghi il server o il piano gestito e l'uso del modello IA. Hermes ha anche un abbonamento su Nous Portal, ma il prezzo non compare nella documentazione del progetto.",
         "Funziona con Telegram? Sì, con entrambi. Crei il bot su BotFather e incolli il token nella configurazione.",
         "Serve saper programmare? Per avviare il gestito no: scegli i canali e incolli il token. Nel VPS serve conoscere le basi dei server, come root, Docker e aggiornamenti. Programmare entra in gioco solo se vuoi mettere mano al codice del progetto.",
-        "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona di fiducia, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
+        "È sicuro? Dipende da come lo usi. Le due politiche di sicurezza chiedono la stessa cautela: uso da parte di una persona o di un team che si fida a vicenda, senza esposizione diretta a internet e con controllo di ciò che installi da terzi.",
         "Quale scegliere se uso già Claude Code? Claude Code è uno strumento per programmare nel terminale e non sostituisce nessuno dei due. Entrambi accettano la chiave di Anthropic: OpenClaw elenca Anthropic tra i provider, e il README di Hermes Agent riporta la chiave di Anthropic tra i segreti. Se vuoi un agente che impara dall'uso, Hermes Agent si adatta meglio. Se vuoi molti canali e un'app sul telefono, OpenClaw.",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]

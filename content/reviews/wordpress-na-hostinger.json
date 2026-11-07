@@ -34,6 +34,7 @@
   "metaDescription": "WordPress na Hostinger com o cupom SONAR20 de 20% OFF nos planos Single, Premium, Unlimited e Cloud Startup, e o checklist para começar.",
   "publishedAt": "30 de outubro de 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/hostinger/wordpress-na-hostinger-capa.webp",
@@ -50,7 +51,7 @@
     {
       "heading": "Qual plano para qual projeto",
       "paragraphs": [
-        "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz que todos os planos incluem WordPress e Node.js. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
+        "A Hostinger não vende um plano só de WordPress: ele vem nos planos de hospedagem de sites. A página brasileira diz que todos os planos incluem WordPress; a ajuda da Hostinger lista aplicativos Node.js nos planos Business/Unlimited e Cloud. Então a pergunta não é \"qual plano tem WordPress\", e sim \"quantos sites eu vou ter e quanto backup eu preciso\"."
       ],
       "image": {
         "src": "/images/reviews/hostinger/wordpress-na-hostinger-quadro-pt.webp",
@@ -66,7 +67,7 @@
         "**Loja ou site com muito tráfego: Cloud Startup.** Sites ilimitados, 100 GB NVMe e backups diários e sob demanda. É o plano mais caro da página, e a renovação também é a maior."
       ],
       "postParagraphs": [
-        "Na dúvida entre dois planos, olhe o backup. Quem não vai mexer no site toda semana vive bem com o semanal; quem vende ou publica todo dia quer o diário."
+        "Na dúvida entre dois planos, olhe o backup. Quem não vai mexer no site toda semana vive bem com o semanal; quem vende ou publica todo dia quer o diário. Single e Premium podem comprar o backup diário à parte; compare esse custo com o do upgrade para o Unlimited."
       ]
     },
     {
@@ -129,7 +130,7 @@
         "Pela página da Hostinger:"
       ],
       "bullets": [
-        "**WordPress e Node.js em todos os planos.**",
+        "**WordPress em todos os planos.** Aplicativos Node.js, segundo a ajuda da Hostinger, nos planos Business/Unlimited e Cloud.",
         "**Instalador de 1 clique e plugins internos**, citados no FAQ da página.",
         "**Servidores LiteSpeed e cache inteligente**, citados para a hospedagem WordPress em geral.",
         "**E-mail:** 1 conta grátis no Single; 2 contas por site, grátis por 1 ano, no Premium; contas ilimitadas por site, por 1 ano, no Unlimited e no Cloud Startup.",

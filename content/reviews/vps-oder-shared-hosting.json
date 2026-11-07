@@ -34,6 +34,7 @@
   "metaDescription": "VPS oder Shared Hosting bei Hostinger: was beides ist, Übersicht nach Szenario, Specs der KVM 1 bis 8 und was bei der Wartung an Ihnen hängen bleibt.",
   "publishedAt": "28. Oktober 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -85,7 +86,7 @@
           ],
           [
             "Node.js-Website",
-            "Ja. Der Tarif Premium nennt Node.js, und diese Website läuft so",
+            "Ja, mit Unlimited oder Cloud Startup, die Hostinger für Node.js nennt. Premium steht nicht auf dieser Liste",
             "Nicht nötig"
           ],
           [
@@ -161,13 +162,13 @@
       "heading": "Wartung: was an Ihnen hängen bleibt",
       "paragraphs": [
         "Das ist der Teil, den der Preis nicht zeigt. Beim Shared Hosting wartet Hostinger den Server und das Panel; Sie kümmern sich um Ihre Website (Theme, Plugins, Inhalte). Der Tarif Premium nennt wöchentliche Backups, und Unlimited enthält Prioritäts-Support.",
-        "Beim VPS sagt Hostinger auf der eigenen Seite, dass mit Root-Zugriff Konfiguration, Updates und Sicherheit des Servers bei dem liegen, der den Tarif abschließt. In der Praxis wird daraus eine Liste für Sie:"
+        "Beim VPS sagt Hostinger auf der eigenen Seite, dass mit Root-Zugriff Konfiguration, Updates und Sicherheit des Servers bei dem liegen, der den Tarif abschließt. Hostinger bietet Templates mit bereits installiertem System, etwa für WordPress, und standardmäßig ein automatisches wöchentliches Backup, die Wartung bleibt aber bei Ihnen. In der Praxis wird daraus eine Liste für Sie:"
       ],
       "bullets": [
-        "**Installieren und konfigurieren**: Webserver, Datenbank und SSL-Zertifikat.",
+        "**Installieren und konfigurieren**: Webserver, Datenbank und SSL-Zertifikat, oder von einem fertigen Template ausgehen.",
         "**Aktualisieren**: Betriebssystem und Programme, von Zeit zu Zeit.",
         "**Absichern**: Firewall, offene Ports, Passwörter und Zugangsschlüssel.",
-        "**Backups anlegen** und wissen, wie man sie zurückspielt.",
+        "**Backups anlegen** (das automatische wöchentliche ist standardmäßig aktiv) und wissen, wie man sie zurückspielt.",
         "**Eingreifen**, wenn die Website außerhalb der Geschäftszeiten ausfällt."
       ],
       "postParagraphs": [
@@ -182,10 +183,10 @@
     },
     {
       "heading": "Urteil: VPS oder Shared Hosting",
-      "emphasis": "Wäre es für meine Website, würde ich Premium nehmen, weil es weniger kostet und Hostinger den Server betreut.",
+      "emphasis": "Wäre es für eine gewöhnliche Website, würde ich Premium nehmen, weil es weniger kostet und Hostinger den Server betreut.",
       "emphasisAfterParagraph": 3,
       "paragraphs": [
-        "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop und Node.js-Website. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; wächst die Website, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken.",
+        "**Shared Hosting** für Blog, Portfolio, Firmenseite, kleinen Shop. Die Wartung des Servers übernimmt Hostinger. Unter den Tarifen ist Premium der Ausgangspunkt; für eine Node.js-Website oder wenn die Website wächst, Unlimited oder Cloud Startup, bevor Sie an einen VPS denken.",
         "**VPS** für ein eigenes System, ein Programm oder eine Datenbank außerhalb des Panels, einen Bot oder ein Panel, das den ganzen Tag läuft, oder wenn Sie Root brauchen. Beginnen Sie mit KVM 1 und steigen Sie auf, wenn der Arbeitsspeicher knapp wird. Rechnen Sie die Zeit für die Wartung des Servers ein oder die Kosten für jemanden, der sie übernimmt.",
         "**Im Zweifel Shared Hosting.** Ein VPS wird später nicht zum Shared Hosting, aber umgekehrt ist es nur ein neuer Vertrag, wenn der Bedarf entsteht."
       ]
@@ -196,7 +197,7 @@
         "Ist ein VPS schneller als Shared Hosting? Das haben wir nicht gemessen. Was ein VPS garantiert, sind reservierte Ressourcen: CPU, Arbeitsspeicher und Speicherplatzplatz gehören Ihnen, während beim Shared Hosting der Server geteilt wird. Bei einer gewöhnlichen Website ist das selten der Engpass.",
         "Kann man mit Shared Hosting anfangen und später zum VPS wechseln? Ja. Es sind verschiedene Produkte: Man schließt den VPS ab, installiert den Server und zieht die Website um. Shared Hosting lässt sich nicht im Panel in einen VPS umwandeln.",
         "Braucht man Linux-Kenntnisse für einen VPS? Ja, die Grundlagen des Terminals: Programme installieren, das System aktualisieren und ein Log lesen. Beim Shared Hosting läuft alles über das Panel, ein Terminal ist nicht nötig.",
-        "Schafft ein VPS WordPress? Ja, aber man installiert und wartet Webserver, PHP und Datenbank selbst. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
+        "Schafft ein VPS WordPress? Ja. Man kann vom WordPress-Template des VPS ausgehen, das schon installiert ist, aber Aktualisieren, Absichern und Zurückspielen von Backups bleibt bei Ihnen. Beim Shared Hosting kommt WordPress fertig im Panel, und Hostinger betreut den Server.",
         "Gilt SONAR20 auch für Personen, die schon Hostinger-Kunden sind? Ja, bei einem Neukauf: Wer bereits ein Konto hat und einen neuen Tarif oder ein neues Produkt abschließt, erhält ebenfalls die 20 %. Die Verlängerung eines Tarifs, den Sie schon haben, wird zum Listenpreis berechnet, ohne Rabatt."
       ]
     },
@@ -236,7 +237,7 @@
       "Nehmen Sie ihn, wenn Sie ein Panel, einen Bot oder eine Automatisierung (n8n, Docker) haben, die den ganzen Tag läuft, und jemanden, der den Server wartet."
     ],
     "skipIf": [
-      "Lassen Sie ihn, wenn es ein Blog, Portfolio, eine Firmenseite, ein kleiner Shop oder eine Node.js-Website ist: Shared Hosting genügt, und Hostinger betreut den Server.",
+      "Lassen Sie den VPS weg, wenn es um einen Blog, ein Portfolio, eine Firmenseite oder einen kleinen Shop geht: Shared Hosting genügt, und Hostinger betreut den Server.",
       "Lassen Sie ihn, wenn Sie noch nie ein Terminal geöffnet haben: Installieren, Aktualisieren, Absichern und Backups liegen dann bei Ihnen."
     ]
   }

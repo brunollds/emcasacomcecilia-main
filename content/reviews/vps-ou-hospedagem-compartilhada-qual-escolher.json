@@ -34,6 +34,7 @@
   "metaDescription": "O cupom SONAR20 dá 20% OFF nos VPS da Hostinger. VPS ou hospedagem compartilhada: quadro por cenário, KVM e renovação lado a lado.",
   "publishedAt": "28 de outubro de 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/hostinger/vps-ou-hospedagem-compartilhada-qual-escolher-capa.webp",
@@ -84,7 +85,7 @@
           ],
           [
             "Site em Node.js",
-            "Sim. O plano Premium lista Node.js, e este site roda assim",
+            "Sim, no Ilimitado ou no Cloud Startup, que a Hostinger lista para Node.js. O Premium não consta nessa lista",
             "Não precisa"
           ],
           [
@@ -171,13 +172,13 @@
       "heading": "Manutenção: o que fica com você",
       "paragraphs": [
         "Essa é a parte que o preço não mostra. Na compartilhada, a Hostinger mantém o servidor e o painel; você cuida do seu site (tema, plugins, conteúdo). O plano Premium lista backups semanais, e o Ilimitado inclui suporte prioritário.",
-        "No VPS, a Hostinger diz na própria página que, com acesso root, a configuração, as atualizações e a segurança do servidor ficam com quem contratou. Na prática, vira uma lista sua:"
+        "No VPS, a Hostinger diz na própria página que, com acesso root, a configuração, as atualizações e a segurança do servidor ficam com quem contratou. A Hostinger oferece templates com o sistema já instalado, como o de WordPress, e backup semanal automático por padrão, mas a manutenção continua sendo sua. Na prática, vira uma lista sua:"
       ],
       "bullets": [
-        "**Instalar e configurar** o servidor web, o banco de dados e o certificado SSL.",
+        "**Instalar e configurar** o servidor web, o banco de dados e o certificado SSL, ou partir de um template pronto.",
         "**Atualizar** o sistema operacional e os programas, de tempos em tempos.",
         "**Proteger**: firewall, portas abertas, senhas e chaves de acesso.",
-        "**Fazer backup** e saber restaurar.",
+        "**Fazer backup** (o semanal automático vem ligado) e saber restaurar.",
         "**Resolver** quando o site cair fora do horário comercial."
       ],
       "postParagraphs": [
@@ -218,7 +219,7 @@
           [
             "[Cloud Startup](https://www.hostinger.com/br/hospedagem-de-sites?REFERRALCODE=SONAR20) (48 meses)",
             "R$ 31,99/mês",
-            "R$ 1.535,52",
+            "R$ 1.535,62",
             "R$ 129,99/mês"
           ],
           [
@@ -248,10 +249,10 @@
     },
     {
       "heading": "Veredito: VPS ou compartilhada",
-      "emphasis": "Se fosse para o meu site, eu levaria o Premium, porque custa menos e a Hostinger cuida do servidor.",
+      "emphasis": "Se fosse para um site comum, eu levaria o Premium, porque custa menos e a Hostinger cuida do servidor.",
       "emphasisAfterParagraph": 3,
       "paragraphs": [
-        "**Hospedagem compartilhada** para blog, portfólio, site de empresa, loja pequena e site em Node.js. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
+        "**Hospedagem compartilhada** para blog, portfólio, site de empresa ou loja pequena. É mais barata no primeiro período e na renovação, e a manutenção do servidor é da Hostinger. Entre os planos, o Premium é o ponto de partida; para site em Node.js ou se o site crescer, Ilimitado ou Cloud Startup, antes de pensar em VPS.",
         "**VPS** para sistema próprio, programa ou banco fora do painel, bot ou painel rodando o dia todo, ou quando você precisa de root. Comece pelo KVM 1 e suba se faltar memória. Entre na conta o tempo de manter o servidor, ou o custo de quem faça isso.",
         "**Na dúvida, compartilhada.** O VPS não vira compartilhada depois, mas o contrário é só um contrato novo quando a necessidade aparecer."
       ]
@@ -262,7 +263,7 @@
         "VPS é mais rápido que hospedagem compartilhada? Não medimos. O que o VPS garante é recurso reservado: CPU, memória e disco são seus, enquanto na compartilhada o servidor é dividido. Para um site comum, isso raramente é o gargalo.",
         "Posso começar na compartilhada e migrar para VPS depois? Pode. São produtos diferentes: você contrata o VPS, instala o servidor e leva o site. A hospedagem compartilhada não se converte em VPS por dentro do painel.",
         "Preciso saber Linux para ter um VPS? Sim, o básico de terminal: instalar programas, atualizar o sistema e ler um log. Na compartilhada, tudo passa pelo painel e não há terminal obrigatório.",
-        "VPS aguenta WordPress? Aguenta, mas você instala e mantém o servidor web, o PHP e o banco. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
+        "VPS aguenta WordPress? Aguenta. Dá para partir do template de WordPress do VPS, que já vem instalado, mas atualizar, proteger e restaurar backup continua com você. Na compartilhada, o WordPress vem pronto no painel e a Hostinger cuida do servidor.",
         "Qual é o preço do VPS da Hostinger? O KVM 1 sai a R$ 23,99/mês com o cupom SONAR20, em plano de 24 meses, e renova a R$ 59,99/mês, sem desconto. Sem o cupom, R$ 29,99/mês.",
         "O SONAR20 vale para quem já é cliente da Hostinger? Sim, em compra nova: quem já tem conta e contrata um plano ou produto novo também ganha os 20%. A renovação de um plano que você já tem sai pelo preço de tabela, sem desconto."
       ]
@@ -281,7 +282,7 @@
       "Leve se tem um painel, bot ou automação (n8n, Docker) rodando o dia todo e alguém para manter o servidor."
     ],
     "skipIf": [
-      "Passe se é blog, portfólio, site de empresa, loja pequena ou site em Node.js: a compartilhada atende e a Hostinger cuida do servidor.",
+      "Passe se é blog, portfólio, site de empresa ou loja pequena: a compartilhada atende e a Hostinger cuida do servidor.",
       "Passe se nunca abriu um terminal: instalar, atualizar, proteger e fazer backup passam a ser com você."
     ]
   },

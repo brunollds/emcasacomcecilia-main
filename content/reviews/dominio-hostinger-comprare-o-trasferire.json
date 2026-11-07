@@ -35,6 +35,7 @@
   "metaDescription": "Comprare il dominio su Hostinger, registrarlo altrove e puntarlo, o trasferirlo? La regola dei 60 giorni, di chi è il dominio e la checklist prima di pagare.",
   "publishedAt": "28 ottobre 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/dominio-hostinger-comprar-transferir-ou-fora-capa.webp",
@@ -112,15 +113,15 @@
     {
       "heading": "Trasferire: la regola dei 60 giorni e i passaggi",
       "paragraphs": [
-        "Trasferire significa spostare la registrazione del dominio da un'azienda a un'altra. La pagina di trasferimento di Hostinger dice che sito ed e-mail continuano a funzionare durante il processo e che i dati di proprietà non cambiano. Cambia chi addebita il rinnovo e dove modifichi il DNS.",
+        "Trasferire significa spostare la registrazione del dominio da un'azienda a un'altra. La pagina di trasferimento di Hostinger dice che sposta solo la registrazione: sito ed e-mail restano presso il fornitore attuale e continuano a funzionare se mantieni i nameserver attuali. Se scegli quelli di Hostinger, ciò che dipende dal DNS presso altri fornitori può smettere di funzionare finché non aggiorni i record. I dati di proprietà non cambiano. Cambia chi addebita il rinnovo e dove modifichi il DNS.",
         "Le regole, secondo la pagina di Hostinger:"
       ],
       "bullets": [
-        "**Età della registrazione:** nella maggior parte dei casi il dominio deve essere registrato da almeno 60 giorni. Anche un dominio nuovo su Hostinger resta bloccato per 60 giorni prima di poter uscire.",
+        "**Età della registrazione:** nella maggior parte dei casi il dominio deve essere registrato da almeno 60 giorni. Anche un dominio nuovo su Hostinger resta bloccato per 60 giorni prima di poter uscire. Il termine conta dalla registrazione o dall'ultimo trasferimento, e alcune estensioni hanno regole proprie.",
         "**Sblocco e codice:** sblocchi il dominio nel pannello del registrar attuale e prendi il codice di autorizzazione (EPP, o codice di trasferimento).",
         "**Conferma:** dopo aver inserito il codice su Hostinger, arriva un'e-mail del registrar per confermare. Senza la conferma, il trasferimento non va avanti.",
         "**Tempi:** fino a sette giorni; più veloce se il registrar attuale lo libera subito e confermi subito l'e-mail.",
-        "**Prezzo:** non è gratis. Nella maggior parte delle estensioni generiche (.com, .net, .org), la tariffa di trasferimento include già un anno in più di registrazione, che si somma alla durata che avevi."
+        "**Prezzo:** di solito non è gratis (può esserlo con un piano di hosting idoneo). Se aggiungi 1 anno di rinnovo al pagamento, si somma alla durata che avevi, ma solo su estensioni selezionate; su alcune estensioni nazionali la scadenza non cambia."
       ],
       "postParagraphs": [
         "Trasferire fuori da Hostinger segue la stessa logica al contrario: 60 giorni di registrazione, sblocco nel pannello di Hostinger, codice e conferma via e-mail. Il trasferimento andato a buon fine non è rimborsabile; vedi [le regole di rimborso e rinnovo di Hostinger](/it/reviews/hostinger-e-affidabile)."
@@ -135,14 +136,14 @@
       "bullets": [
         "**L'account:** il dominio appartiene all'account Hostinger in cui è stato acquistato. Usa un'e-mail che controlli, non quella di un freelance o di un'agenzia. Chi registra a nome di un'altra persona dipende da lei per trasferirlo poi.",
         "**Il rinnovo:** Hostinger consiglia di lasciare attivo il rinnovo automatico. Un dominio scaduto manda giù sito ed e-mail. Il rinnovo di un dominio non è rimborsabile, quindi la carta dell'account deve essere in regola.",
-        "**Il rimborso della registrazione:** una registrazione nuova può essere rimborsata solo entro 96 ore. Dopo, il dominio è tuo fino alla fine del periodo pagato, senza rimborso."
+        "**Il rimborso della registrazione:** una registrazione nuova può essere rimborsata solo entro 96 ore, e solo sulle estensioni che prevedono rimborso (molte estensioni nazionali non lo prevedono). Dopo, il dominio è tuo fino alla fine del periodo pagato, senza rimborso."
       ]
     },
     {
       "heading": "Checklist prima di pagare",
       "bullets": [
         "Guarda la colonna del rinnovo, non solo il primo anno. Il dominio si rinnova ogni anno finché il sito esiste.",
-        "Se devi trasferire, controlla la data della registrazione: sotto i 60 giorni il trasferimento non parte.",
+        "Se devi trasferire, controlla la data della registrazione e quella dell'ultimo trasferimento: sotto i 60 giorni il trasferimento non parte.",
         "Compra sull'account che sarà tuo, con un'e-mail tua e il rinnovo automatico attivo.",
         "Se il dominio è arrivato con il piano di hosting, annota il prezzo di rinnovo del secondo anno: compare prima dell'acquisto.",
         "SONAR20 dà il 20% sul piano di hosting; sul dominio singolo il codice non vale."
@@ -153,7 +154,7 @@
       "paragraphs": [
         "**Compra su Hostinger** se il sito sarà ospitato lì e vuoi dominio, DNS e rinnovo nello stesso pannello; controlla il rinnovo prima di pagare.",
         "**Compra altrove e punta** se hai già un dominio presso un altro registrar, se preferisci tenere gli account separati, o se il prezzo di rinnovo di lì è più basso. Puntare il DNS è un'impostazione nel pannello, e il sito funziona allo stesso modo.",
-        "**Trasferisci** solo un dominio con più di 60 giorni di registrazione e solo se il rinnovo su Hostinger compensa quello che paghi oggi. Nella maggior parte delle estensioni generiche, la tariffa di trasferimento include un anno in più di registrazione, quindi non sono soldi persi.",
+        "**Trasferisci** solo un dominio con più di 60 giorni di registrazione e solo se il rinnovo su Hostinger compensa quello che paghi oggi. Nelle estensioni in cui il trasferimento aggiunge un anno di registrazione, non sono soldi persi.",
         "Nel dubbio, non trasferire: punta il dominio e lascia la registrazione dov'è. Si può trasferire dopo, e il sito non si ferma."
       ],
       "emphasis": "Se fosse per il mio sito, terrei la registrazione insieme all'hosting, perché dominio e rinnovo restano nello stesso pannello."
@@ -167,9 +168,9 @@
     {
       "heading": "Domande frequenti",
       "bullets": [
-        "Posso cambiare hosting senza perdere il dominio? Sì. Il dominio è tuo e resta nell'account Hostinger; punti il DNS al nuovo hosting o trasferisci la registrazione dopo, rispettando i 60 giorni dalla registrazione.",
+        "Posso cambiare hosting senza perdere il dominio? Sì. Il dominio è tuo e resta nell'account Hostinger; punti il DNS al nuovo hosting o trasferisci la registrazione dopo, rispettando i 60 giorni dalla registrazione o dall'ultimo trasferimento.",
         "Mi serve un dominio per avere l'e-mail? Sì. Per un indirizzo come tu@tuaazienda.com, il dominio deve esistere; l'hosting non è obbligatorio, e Hostinger dice che si può usare il dominio solo per l'e-mail o per reindirizzare a un altro sito.",
-        "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, dopo 60 giorni dalla registrazione: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile.",
+        "Si può trasferire il dominio da Hostinger a un altro registrar? Sì, dopo 60 giorni dalla registrazione o dall'ultimo trasferimento: sblocchi il dominio nel pannello, prendi il codice di autorizzazione e confermi via e-mail presso il nuovo registrar. Il trasferimento andato a buon fine non è rimborsabile.",
         "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
@@ -205,11 +206,11 @@
   "decision": {
     "takeIf": [
       "Prendi il dominio su Hostinger se il sito sarà ospitato lì e vuoi dominio, DNS e rinnovo nello stesso pannello.",
-      "Prendi il trasferimento solo se il dominio ha più di 60 giorni di registrazione e il rinnovo su Hostinger compensa quello che paghi oggi."
+      "Prendi il trasferimento solo se il dominio ha più di 60 giorni di registrazione o dall'ultimo trasferimento e il rinnovo su Hostinger compensa quello che paghi oggi."
     ],
     "skipIf": [
       "Lascia stare se hai già un dominio presso un altro registrar, preferisci tenere gli account separati o il rinnovo di lì è più basso: punta il DNS e lascia la registrazione dov'è.",
-      "Lascia stare il trasferimento se la registrazione ha meno di 60 giorni: non parte.",
+      "Lascia stare il trasferimento se la registrazione o l'ultimo trasferimento ha meno di 60 giorni: non parte.",
       "Lascia stare se il dominio resterebbe a nome o sull'account di un freelance o di un'agenzia: usa un'e-mail che controlli."
     ]
   }

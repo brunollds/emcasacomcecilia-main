@@ -34,6 +34,7 @@
   "metaDescription": "Buy the domain at Hostinger, register it elsewhere and point it, or transfer it? The 60-day rule, who owns it and the checklist before you pay.",
   "publishedAt": "October 28, 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -112,15 +113,15 @@
     {
       "heading": "Transferring: the 60-day rule and the steps",
       "paragraphs": [
-        "Transferring means moving the domain registration from one company to another. Hostinger's transfer page says the site and email keep working during the process, and that the ownership data does not change. What changes is who charges the renewal and where you edit the DNS.",
+        "Transferring means moving the domain registration from one company to another. Hostinger's transfer page says it moves only the registration: the site and email stay with the current provider and keep working if you keep the current nameservers. If you switch to Hostinger's, anything that relies on DNS at other providers may stop until you update the records. The ownership data does not change. What changes is who charges the renewal and where you edit the DNS.",
         "The rules, according to Hostinger's page:"
       ],
       "bullets": [
-        "**Age of the registration:** in most cases, the domain must have been registered for at least 60 days. A new domain at Hostinger is also locked for 60 days before it can leave.",
+        "**Age of the registration:** in most cases, the domain must have been registered for at least 60 days. A new domain at Hostinger is also locked for 60 days before it can leave. The count runs from registration or the last transfer, and some extensions have their own rules.",
         "**Unlock and code:** you unlock the domain in your current registrar's panel and get the authorization code (EPP, or transfer code).",
         "**Confirmation:** after you enter the code at Hostinger, an email arrives from the registrar asking you to confirm. Without the confirmation, the transfer does not move.",
         "**Timing:** up to seven days; faster if the current registrar releases it quickly and you confirm the email right away.",
-        "**Price:** it is not free. On most generic extensions (.com, .net, .org), the transfer fee already includes an extra year of registration, added to the term you already had."
+        "**Price:** it is usually not free (it can be with an eligible hosting plan). If you add 1 year of renewal at checkout, it is added to the term you already had, but only on selected extensions; on some country-code extensions the expiry does not change."
       ],
       "postParagraphs": [
         "Transferring out of Hostinger follows the same logic in reverse: 60 days of registration, unlock it in Hostinger's panel, get the code and confirm by email. A completed transfer is not refundable; see [Hostinger's refund and renewal rules](/en/reviews/is-hostinger-legit)."
@@ -135,14 +136,14 @@
       "bullets": [
         "**The account:** the domain belongs to the Hostinger account where it was bought. Use an email you control, not a freelancer's or an agency's. Whoever registers in someone else's name depends on that person to transfer it later.",
         "**The renewal:** Hostinger recommends leaving auto-renewal on. An expired domain takes down the site and the email. Domain renewal is not refundable, so the card on the account has to be up to date.",
-        "**The registration refund:** a new registration can only be refunded within 96 hours. After that, the domain is yours until the end of the paid term, with no refund."
+        "**The registration refund:** a new registration can only be refunded within 96 hours, and only on extensions that allow refunds (many country-code extensions do not). After that, the domain is yours until the end of the paid term, with no refund."
       ]
     },
     {
       "heading": "Checklist before you pay",
       "bullets": [
         "Look at the renewal column, not just the first year. The domain renews every year for as long as the site exists.",
-        "If you will transfer, check the registration date: under 60 days, the transfer does not start.",
+        "If you will transfer, check the registration date and the last transfer date: under 60 days, the transfer does not start.",
         "Buy on the account that will be yours, with your own email and auto-renewal on.",
         "If the domain came with the hosting plan, write down the second-year renewal price: it is shown before you buy.",
         "SONAR20 gives 20% off the hosting plan; on a standalone domain, the code does not work."
@@ -153,7 +154,7 @@
       "paragraphs": [
         "**Buy at Hostinger** if the site will be hosted there and you want domain, DNS and renewal in the same panel; check the renewal before you pay.",
         "**Buy elsewhere and point it** if you already have a domain at another registrar, if you prefer to keep the accounts separate, or if the renewal price there is lower. Pointing the DNS is an adjustment in the panel, and the site works the same way.",
-        "**Transfer** only a domain with more than 60 days of registration and only if Hostinger's renewal is worth what you pay today. On most generic extensions, the transfer fee includes an extra year of registration, so it is not money lost.",
+        "**Transfer** only a domain with more than 60 days of registration and only if Hostinger's renewal is worth what you pay today. On extensions where the transfer adds a year of registration, it is not money lost.",
         "When in doubt, do not transfer: point the domain and leave the registration where it is. You can transfer later, and the site does not stop."
       ],
       "emphasis": "If it were for my site, I would keep the registration together with the hosting, because domain and renewal stay in the same panel."
@@ -167,9 +168,9 @@
     {
       "heading": "Frequently asked questions",
       "bullets": [
-        "Can I change hosting without losing the domain? Yes. The domain is yours and stays in the Hostinger account; you point the DNS to the new hosting or transfer the registration later, once 60 days have passed since registration.",
+        "Can I change hosting without losing the domain? Yes. The domain is yours and stays in the Hostinger account; you point the DNS to the new hosting or transfer the registration later, once 60 days have passed since registration or the last transfer.",
         "Do I need a domain to have email? Yes. For an address like you@yourcompany.com, the domain has to exist; hosting is not required, and Hostinger says you can use the domain only for email or to redirect to another site.",
-        "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded.",
+        "Can I transfer the domain from Hostinger to another registrar? Yes, after 60 days of registration or since the last transfer: you unlock the domain in the panel, get the authorization code and confirm by email at the new registrar. A transfer that goes through is not refunded.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."
       ]
     },
@@ -205,11 +206,11 @@
   "decision": {
     "takeIf": [
       "Take the domain at Hostinger if the site will be hosted there and you want domain, DNS and renewal in the same panel.",
-      "Take the transfer only if the domain has more than 60 days of registration and Hostinger's renewal is worth what you pay today."
+      "Take the transfer only if the domain has more than 60 days of registration or since the last transfer and Hostinger's renewal is worth what you pay today."
     ],
     "skipIf": [
       "Skip it if you already have a domain at another registrar, prefer to keep the accounts separate or the renewal there is lower: point the DNS and leave the registration where it is.",
-      "Skip the transfer if the registration is under 60 days old: it does not start.",
+      "Skip the transfer if the registration or last transfer is under 60 days old: it does not start.",
       "Skip it if the domain would be in the name or on the account of a freelancer or an agency: use an email you control."
     ]
   }

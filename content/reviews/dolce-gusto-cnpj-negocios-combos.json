@@ -16,6 +16,7 @@
   },
   "publishedAt": "5 de novembro de 2026",
   "publishedAtISO": "2026-11-05",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "description": "Com CNPJ, a Dolce Gusto dá 10% extra nos combos de 20 a 50 caixas, e o CECI soma. Veja como abrir a conta Business, quanto custa cada cápsula e qual combo escolher.",
@@ -167,13 +168,13 @@
     {
       "heading": "Quanto custa cada cápsula com os 10% de CNPJ e o CECI",
       "paragraphs": [
-        "Com os 10% de CNPJ e o CECI, o combo de 50 caixas deixa a cápsula quase 50% mais barata que na caixa avulsa; sem os dois, a diferença é menor.",
-        "Conta nossa, pelos preços da tabela acima: o preço do combo vezes 0,9 do CNPJ e vezes 0,9 do CECI, um sobre o outro. O carrinho mostra o valor final."
+        "Na estimativa com os 10% de CNPJ e o CECI, o combo de 50 caixas deixa a cápsula quase 50% mais barata que na caixa avulsa; sem os dois, a diferença é menor.",
+        "Estimativa nossa, pelos preços da tabela acima, como descontos sucessivos: o preço do combo vezes 0,9 do CNPJ e vezes 0,9 do CECI, um sobre o outro. A base exata do cálculo da loja não foi testada numa conta Business: confira o resumo do carrinho."
       ],
       "comparisonTable": {
         "headers": [
           "Combo",
-          "Com os 10% de CNPJ e o CECI",
+          "Estimativa com os 10% de CNPJ e o CECI",
           "Por cápsula"
         ],
         "rows": [
@@ -198,7 +199,7 @@
             "R$ 2,49"
           ]
         ],
-        "caption": "Combos de cápsula com os dois descontos, pela conta acima. A caixa avulsa está no preço de lista, sem desconto, como referência."
+        "caption": "Combos de cápsula com os dois descontos, estimados pela conta acima. A caixa avulsa está no preço de lista, sem desconto, como referência."
       },
       "postParagraphs": [
         "Cada degrau tira cerca de 10 centavos por cápsula. Passar de 20 para 30 caixas poupa o mesmo que passar de 30 para 50, mas o segundo pede 200 cápsulas a mais na prateleira.",
@@ -208,7 +209,7 @@
     {
       "heading": "O cupom CECI soma com o CNPJ e com o combo",
       "paragraphs": [
-        "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, e na linha Negócios ele soma com os 10% de CNPJ e com o desconto do combo. O limite é de 3 usos por campanha, e o mesmo código volta na campanha seguinte. As condições vigentes e a data do último teste ficam na [página do cupom CECI](/cupons/dolce-gusto)."
+        "O CECI dá 10% OFF na loja oficial em compras a partir de R$ 100, também para CNPJ, e na linha Negócios ele deve somar com os 10% de CNPJ e com o desconto do combo; o carrinho mostra o valor final. As condições vigentes e a data do último teste ficam na [página do cupom CECI](/cupons/dolce-gusto)."
       ]
     },
     {

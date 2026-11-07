@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger Horizons ahora es el creador con IA. ¿Vale la pena o WordPress? Cuadro por tipo de proyecto, comparación con Wix y Lovable y créditos de IA.",
   "publishedAt": "28 de octubre de 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -121,7 +122,7 @@
     {
       "heading": "Creador con IA o WordPress",
       "paragraphs": [
-        "El precio no decide: en Hostinger, el creador con IA viene en los planes de hosting, los mismos que corren WordPress, por los mismos precios. Lo que cambia es quién hace el trabajo y qué controlas."
+        "En Hostinger, el precio del plan de hosting no decide: el modo sin IA del creador viene en los mismos planes que corren WordPress, por los mismos precios. El modo con IA gasta créditos, y para publicar la web necesitas un hosting activo. Lo que cambia es quién hace el trabajo y qué controlas."
       ],
       "comparisonTable": {
         "headers": [
@@ -169,7 +170,7 @@
       },
       "postParagraphs": [
         "**WordPress gana** cuando el proyecto depende de un plugin concreto, de un tema que ya tienes o de alguien que mantendrá la web después. Es software libre: la web entera es tuya y se va a cualquier hosting sin rehacer nada.",
-        "**El creador con IA gana** cuando no quieres instalar ni actualizar nada y quieres una app web con inicio de sesión y datos, que en WordPress se convierte en una pila de plugins. La salvedad que cambia la decisión: en el modo con IA, cada cambio gasta créditos. Según la página, una página institucional sencilla consume de 5 a 10 créditos, y una app más compleja, 15 o más. Quien toca la web cada semana tiene que hacer las cuentas; quien la monta una vez y edita texto y fotos en el editor, sin prompt, no gasta."
+        "**El creador con IA gana** cuando no quieres instalar ni actualizar nada y quieres una app web con inicio de sesión y datos, que en WordPress se convierte en una pila de plugins. La salvedad que cambia la decisión: en el modo con IA, cada cambio gasta créditos. Según la página, una página institucional sencilla consume de 5 a 10 créditos, y una app más compleja, 15 o más. Quien toca la web cada semana tiene que hacer las cuentas. Quien la monta una vez y edita texto y fotos en el editor del modo sin IA no gasta; en el modo con IA, hasta cambiar un texto o una imagen con Select & edit consume un poco de créditos."
       ]
     },
     {
@@ -182,7 +183,7 @@
     {
       "heading": "Qué comprobar antes de pagar",
       "bullets": [
-        "**Los créditos.** El modo con IA gasta créditos en cada petición, y el saldo del plan no se renueva cada mes. Monta la web con la IA y haz los ajustes de texto y fotos en el editor, que no gasta.",
+        "**Los créditos.** El modo con IA gasta créditos en cada petición, y el saldo del plan no se renueva cada mes. Hasta cambiar un texto o una imagen con Select & edit consume un poco; solo el modo sin IA edita sin gastar.",
         "**Qué pasa si no renuevas.** La página avisa: un plan vencido y sin renovar deja el proyecto fuera de línea y borra los datos. Exporta el código antes de dejarlo vencer.",
         "**Reembolso en 30 días**, siempre que hayas consumido menos de 30 créditos de IA.",
         "**La tienda online** está incluida en los planes Unlimited y Cloud Startup; en el Unlimited, la página dice que es gratis durante 3 meses. Comprueba al pagar cuánto cuesta después.",
@@ -252,7 +253,7 @@
     "takeIf": [
       "Elige el creador con IA si quieres una web de pocas páginas, un portfolio, una tienda pequeña o una app web sencilla sin programar.",
       "Elígelo si quieres hosting, dominio y correo en el mismo plan y aceptas que la IA monte la primera versión.",
-      "Elígelo si vas a montar la web una vez y ajustar texto y fotos en el editor, que no gasta créditos."
+      "Elígelo si vas a montar la web una vez y ajustar texto y fotos en el editor del modo sin IA, que no gasta créditos."
     ],
     "skipIf": [
       "Pasa, y quédate en WordPress, si el proyecto depende de un plugin concreto o de un tema que ya tienes.",

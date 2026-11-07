@@ -13,10 +13,11 @@
     "initials": "CM",
     "url": "/sobre"
   },
-  "description": "Os números da Let's Eat It no Reclame Aqui nos últimos 6 meses: reputação Boa, 99,1% das reclamações respondidas e 94% resolvidas — e por que só 54% dizem que voltariam a comprar.",
+  "description": "Os números da Let's Eat It no Reclame Aqui de abril a setembro: reputação Boa, 99,1% das reclamações respondidas, 94% resolvidas, e só 54% voltariam a comprar.",
   "metaDescription": "Let's Eat It no Reclame Aqui, com o cupom MAUAD de 5% OFF: reputação Boa, nota 7,6, 99,1% respondidas e 94% resolvidas, e o que fazer se der problema.",
   "publishedAt": "3 de outubro de 2026",
   "publishedAtISO": "2026-10-03",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/letseatit/lets-eat-it-reclame-aqui-capa-discover.webp",
@@ -24,9 +25,9 @@
   "imageFit": "contain",
   "imageAspect": "landscape",
   "pros": [
-    "99,1% das reclamações dos últimos 6 meses foram respondidas — só 1 aguardava resposta na consulta",
+    "99,1% das reclamações de abril a setembro foram respondidas; só 1 aguardava resposta na consulta",
     "94% das reclamações avaliadas foram consideradas resolvidas pelos próprios consumidores",
-    "Reputação Boa em todos os meses de abril a setembro de 2026",
+    "Reputação Boa em todos os meses de abril a setembro",
     "13ª colocada no ranking de melhores empresas da categoria lojas de decoração do Reclame Aqui",
     "Perfil ativo no Reclame Aqui há 6 anos, com CNPJ e telefone informados"
   ],
@@ -211,7 +212,7 @@
     {
       "heading": "Parceria e cupom",
       "paragraphs": [
-        "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It: quem compra pelo nosso link ou com o cupom MAUAD ganha 5% de desconto, e podemos receber comissão sem custo extra para você. A parceria não muda os números deste artigo, que vêm do perfil público da loja no Reclame Aqui."
+        "O Em Casa com Cecília tem uma parceria comercial com a Let's Eat It: os 5% de desconto vêm do cupom MAUAD, que você digita no checkout e confere no resumo do pedido. Podemos receber comissão pelo código e pelo nosso link, sem custo extra para você. A parceria não muda os números deste artigo, que vêm do perfil público da loja no Reclame Aqui."
       ],
       "links": [
         {
@@ -230,8 +231,8 @@
     {
       "heading": "Perguntas frequentes",
       "bullets": [
-        "A loja Let's Eat It é confiável segundo o Reclame Aqui? A reputação é Boa, com nota 7,6/10 nos últimos 6 meses, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio.",
-        "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, considerando os últimos 6 meses. A nota média dada pelos consumidores nas avaliações é 5,6.",
+        "A loja Let's Eat It é confiável segundo o Reclame Aqui? A reputação é Boa, com nota 7,6 de 10 no recorte de abril a setembro, 99,1% das reclamações respondidas e 94% resolvidas. O ponto fraco é a satisfação: 54% voltariam a fazer negócio.",
+        "Qual a nota da Let's Eat It no Reclame Aqui? 7,6 de 10, com reputação Boa, no recorte de abril a setembro. A nota média dada pelos consumidores nas avaliações é 5,6.",
         "A Let's Eat It responde as reclamações? Sim: responde quase todas, como mostra o quadro acima; na consulta, só uma aguardava resposta.",
         "Por que 94% foram resolvidas, mas só 54% voltariam a comprar? Os dois índices vêm das mesmas 50 avaliações. Muitos consumidores consideraram o problema resolvido, mas não ficaram satisfeitos com a forma ou o tempo da solução.",
         "Quanto tempo a Let's Eat It demora para responder no Reclame Aqui? O tempo médio de resposta no período foi de 16 dias e 7 horas.",

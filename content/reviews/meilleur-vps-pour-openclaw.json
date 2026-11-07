@@ -34,6 +34,7 @@
   "metaDescription": "Meilleur VPS pour OpenClaw sans RAM minimale officielle : le KVM selon le scénario, avec un modèle dans le cloud ou en local.",
   "publishedAt": "21 octobre 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -45,7 +46,7 @@
     {
       "heading": "Réponse rapide",
       "paragraphs": [
-        "Si le modèle d'IA reste chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la documentation demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Si vous ne voulez pas gérer un serveur, regardez l'offre gérée, plus bas."
+        "Si le modèle d'IA reste chez le fournisseur, via votre clé d'API ou les crédits IA de Hostinger, le KVM 1, avec 4 Go, est le point de départ. Avec un modèle local, la plus petite recette demande 8 GiB, et le KVM 4, avec 16 Go, est le premier avec de la marge. Si vous ne voulez pas gérer un serveur, regardez l'offre gérée, plus bas."
       ]
     },
     {
@@ -55,7 +56,7 @@
         "Les pages officielles d'installation et de modèles locaux disent ceci :"
       ],
       "bullets": [
-        "**Version de Node.** OpenClaw demande Node 24.16 ou plus récent, ou Node 26.1 ou plus récent. Node est le programme qui exécute OpenClaw, et l'installation par npm exige cette version. La page recommande Node 26. Si Node n'est pas installé, l'installateur officiel apporte la version (Node 26 sous macOS et Node 24 LTS sous Linux).",
+        "**Version de Node.** La version stable d'OpenClaw demande Node 24.22.1 ou plus récent sur la ligne 24, ou Node 26.12.1 ou plus récent ; Node 25 n'est pas pris en charge. Node est le programme qui exécute OpenClaw, et l'installation par npm exige cette version. La page recommande Node 26. Si Node n'est pas installé, l'installateur officiel apporte la version (Node 26 sous macOS et Node 24 LTS sous Linux).",
         "**Modèle local.** Pour la plus petite recette proposée par la documentation elle-même, le plancher est de 8 GiB de mémoire de l'hôte, avec un contexte de 64K. La page précise que ces planchers « ne garantissent pas que le modèle tienne ni qu'il tourne vite ».",
         "**VPS de Hostinger.** Hostinger installe OpenClaw sur le VPS avec Docker, un programme qui fait tourner chaque application isolée dans un conteneur. Le VPS est un serveur virtuel loué ; avec l'accès root, vous en avez le contrôle total."
       ],
@@ -143,9 +144,9 @@
         ]
       },
       "bullets": [
-        "**KVM 1 (4 Go).** Point de départ pour le scénario clé d'API ou crédits. Pour un modèle local, il est sous le plancher officiel.",
+        "**KVM 1 (4 Go).** Point de départ pour le scénario clé d'API ou crédits. Pour un modèle local, il est sous le plancher de 8 GiB de la plus petite recette.",
         "**KVM 2 (8 Go).** Avec une clé d'API, il y a de la marge. Avec un modèle local, il est à la limite du plancher, sans marge pour le système.",
-        "**KVM 4 (16 Go).** C'est le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB. La documentation ne dit pas ce qu'il donne avec un modèle local.",
+        "**KVM 4 (16 Go).** C'est le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale. La documentation ne dit pas ce qu'il donne avec un modèle local.",
         "**KVM 8 (32 Go).** N'a de sens qu'avec un modèle local plus grand. La documentation ne dit pas combien de mémoire demande chaque grande recette."
       ],
       "postParagraphs": [
@@ -218,7 +219,7 @@
       ],
       "bullets": [
         "Modèle dans le cloud, via la clé d'API ou les crédits IA de Hostinger : KVM 1, avec 4 Go, comme point de départ.",
-        "Modèle local : KVM 4, avec 16 Go, le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB. Le KVM 8, avec 32 Go, n'a de sens qu'avec un modèle local plus grand.",
+        "Modèle local : KVM 4, avec 16 Go, le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale ; le résultat dépend du modèle et du contexte. Le KVM 8, avec 32 Go, n'a de sens qu'avec un modèle local plus grand.",
         "Si vous ne voulez pas gérer un serveur : l'offre gérée, où Hostinger installe et met à jour l'assistant.",
         "Pour tester sans payer : Oracle Always Free, en sachant qu'Oracle peut récupérer une instance inactive."
       ]
@@ -233,9 +234,9 @@
     {
       "heading": "Questions fréquentes",
       "bullets": [
-        "Quel est le serveur minimum pour OpenClaw ? La documentation officielle ne publie ni minimum de RAM, de CPU ni de disque ; elle exige Node 24.16 ou plus récent (ou 26.1). Avec une clé d'API ou des crédits, le KVM 1 est le point de départ. Avec un modèle local, le plancher est de 8 GiB, et le KVM 4 est le premier avec de la marge.",
+        "Quel est le serveur minimum pour OpenClaw ? La documentation officielle ne publie ni minimum de RAM, de CPU ni de disque ; la version stable exige Node 24.22.1 ou plus récent (ou 26.12.1). Avec une clé d'API ou des crédits, le KVM 1 est le point de départ. Avec un modèle local, le plancher de 8 GiB ne vaut que pour la plus petite recette, et le KVM 4 est le premier avec de la marge pour elle.",
         "Peut-on s'en passer, sans clé d'API ? Oui, avec un modèle local, mais alors la mémoire devient le problème : la documentation donne 8 GiB comme plancher de sa plus petite recette locale, avec un contexte de 64K, et prévient que cela ne garantit ni que le modèle tienne, ni qu'il tourne bien. Avec les crédits de Hostinger, vous n'avez pas besoin d'un compte chez un fournisseur d'IA, mais vous payez l'usage.",
-        "Oracle est-il vraiment gratuit ? Oui, tant que le compte reste dans l'Always Free : 2 OCPU et 12 Go sur les A1 Arm, plus les instances Micro. Une instance inactive pendant 7 jours, avec CPU, réseau et mémoire sous 20 %, peut être récupérée par Oracle.",
+        "Oracle est-il vraiment gratuit ? Oui, tant que le compte reste dans l'Always Free : 2 OCPU et 12 Go sur les A1 Arm, plus les instances Micro. Une instance inactive pendant 7 jours, avec CPU (95e centile) et réseau sous 20 % et, sur les A1, mémoire aussi, peut être récupérée par Oracle.",
         "Mac mini ou VPS ? Cela dépend de la possibilité de laisser l'ordinateur allumé 24 heures sur 24. Si c'est possible, tourner chez soi supprime la mensualité du serveur ; sinon, choisissez un VPS ou l'offre gérée.",
         "Existe-t-il un code promo Hostinger pour un VPS OpenClaw ? Oui : le code SONAR20, dans le champ de code promo du panier, donne 20 % sur la première période. Les 20 % valent pour tout nouvel achat ; le renouvellement est facturé au prix catalogue, sans réduction.",
         "Le SONAR20 vaut-il pour qui est déjà client de Hostinger ? Oui, sur un nouvel achat : qui a déjà un compte et souscrit un forfait ou un produit nouveau obtient aussi les 20 %. Le renouvellement du forfait que vous avez déjà est facturé au prix catalogue, sans réduction."
@@ -273,10 +274,10 @@
   "decision": {
     "takeIf": [
       "Prenez le KVM 1, avec 4 Go, si le modèle d'IA reste chez le fournisseur, via la clé d'API ou les crédits IA de Hostinger.",
-      "Prenez le KVM 4, avec 16 Go, si vous allez faire tourner un modèle local : c'est le premier forfait avec de la marge au-dessus du plancher officiel de 8 GiB."
+      "Prenez le KVM 4, avec 16 Go, si vous allez faire tourner un modèle local : c'est le premier forfait avec de la marge au-dessus du plancher de 8 GiB de la plus petite recette locale."
     ],
     "skipIf": [
-      "Passez votre tour sur le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher officiel.",
+      "Passez votre tour sur le KVM 1 si vous allez faire tourner un modèle local : 4 Go est sous le plancher de 8 GiB de la plus petite recette locale.",
       "Passez votre tour sur le VPS si vous ne voulez pas gérer un serveur : regardez l'offre gérée, où Hostinger installe et met à jour l'assistant.",
       "Passez votre tour sur le KVM 8 si vous n'allez pas utiliser un modèle local plus grand."
     ]

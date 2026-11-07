@@ -34,6 +34,7 @@
   "metaDescription": "VPS o hosting compartido en Hostinger: qué es cada uno, cuadro por escenario, specs de los KVM 1 a 8 y qué mantenimiento queda contigo.",
   "publishedAt": "28 de octubre de 2026",
   "publishedAtISO": "2026-10-28",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -85,7 +86,7 @@
           ],
           [
             "Sitio en Node.js",
-            "Sí. El plan Premium lista Node.js, y este sitio funciona así",
+            "Sí, en Unlimited o Cloud Startup, que Hostinger lista para Node.js. Premium no figura en esa lista",
             "No hace falta"
           ],
           [
@@ -161,13 +162,13 @@
       "heading": "Mantenimiento: lo que queda contigo",
       "paragraphs": [
         "Esta es la parte que el precio no muestra. En el compartido, Hostinger mantiene el servidor y el panel; tú cuidas tu sitio (tema, plugins, contenido). El plan Premium lista copias de seguridad semanales, y Unlimited incluye soporte prioritario.",
-        "En el VPS, Hostinger dice en su propia página que, con acceso root, la configuración, las actualizaciones y la seguridad del servidor quedan con quien contrata. En la práctica, se convierte en una lista tuya:"
+        "En el VPS, Hostinger dice en su propia página que, con acceso root, la configuración, las actualizaciones y la seguridad del servidor quedan con quien contrata. Hostinger ofrece plantillas con el sistema ya instalado, como la de WordPress, y copia de seguridad semanal automática por defecto, pero el mantenimiento sigue siendo tuyo. En la práctica, se convierte en una lista tuya:"
       ],
       "bullets": [
-        "**Instalar y configurar** el servidor web, la base de datos y el certificado SSL.",
+        "**Instalar y configurar** el servidor web, la base de datos y el certificado SSL, o partir de una plantilla lista.",
         "**Actualizar** el sistema operativo y los programas, de vez en cuando.",
         "**Proteger**: firewall, puertos abiertos, contraseñas y claves de acceso.",
-        "**Hacer copias de seguridad** y saber restaurarlas.",
+        "**Hacer copias de seguridad** (la semanal automática viene activada) y saber restaurarlas.",
         "**Resolver** cuando el sitio se caiga fuera del horario laboral."
       ],
       "postParagraphs": [
@@ -182,10 +183,10 @@
     },
     {
       "heading": "Veredicto: VPS o compartido",
-      "emphasis": "Si fuera para mi sitio, me quedaría con el Premium, porque cuesta menos y Hostinger se encarga del servidor.",
+      "emphasis": "Si fuera para un sitio común, me quedaría con el Premium, porque cuesta menos y Hostinger se encarga del servidor.",
       "emphasisAfterParagraph": 3,
       "paragraphs": [
-        "**Hosting compartido** para blog, portafolio, sitio de empresa, tienda pequeña y sitio en Node.js. El mantenimiento del servidor es de Hostinger. Entre los planes, Premium es el punto de partida; si el sitio crece, Unlimited o Cloud Startup, antes de pensar en VPS.",
+        "**Hosting compartido** para blog, portafolio, sitio de empresa o tienda pequeña. El mantenimiento del servidor es de Hostinger. Entre los planes, Premium es el punto de partida; para un sitio en Node.js o si el sitio crece, Unlimited o Cloud Startup, antes de pensar en VPS.",
         "**VPS** para un sistema propio, un programa o base de datos fuera del panel, un bot o panel funcionando todo el día, o cuando necesitas root. Empieza por el KVM 1 y sube si falta memoria. Suma a la cuenta el tiempo de mantener el servidor, o el costo de quien lo haga.",
         "**En la duda, compartido.** El VPS no se convierte después en compartido, pero lo contrario es solo un contrato nuevo cuando aparezca la necesidad."
       ]
@@ -196,7 +197,7 @@
         "¿Un VPS es más rápido que el hosting compartido? No lo medimos. Lo que el VPS garantiza son recursos reservados: CPU, memoria y disco son tuyos, mientras que en el compartido el servidor se divide. Para un sitio común, rara vez es el cuello de botella.",
         "¿Puedo empezar en el compartido y pasar a un VPS después? Sí. Son productos distintos: contratas el VPS, instalas el servidor y llevas el sitio. El hosting compartido no se convierte en VPS desde el panel.",
         "¿Necesito saber Linux para tener un VPS? Sí, lo básico de terminal: instalar programas, actualizar el sistema y leer un log. En el compartido, todo pasa por el panel y no necesitas usar la terminal.",
-        "¿Un VPS aguanta WordPress? Sí, pero tú instalas y mantienes el servidor web, PHP y la base de datos. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
+        "¿Un VPS aguanta WordPress? Sí. Puedes partir de la plantilla de WordPress del VPS, que ya viene instalada, pero actualizar, proteger y restaurar copias sigue siendo cosa tuya. En el compartido, WordPress viene listo en el panel y Hostinger cuida el servidor.",
         "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
       ]
     },
@@ -236,7 +237,7 @@
       "Elígelo si tienes un panel, bot o automatización (n8n, Docker) funcionando todo el día y alguien que mantenga el servidor."
     ],
     "skipIf": [
-      "Déjalo si es un blog, portafolio, sitio de empresa, tienda pequeña o sitio en Node.js: el compartido cumple y Hostinger cuida el servidor.",
+      "Déjalo si es un blog, portafolio, sitio de empresa o tienda pequeña: el compartido cumple y Hostinger cuida el servidor.",
       "Déjalo si nunca has abierto una terminal: instalar, actualizar, proteger y hacer copias pasan a ser cosa tuya."
     ]
   }

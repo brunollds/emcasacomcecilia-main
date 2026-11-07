@@ -34,6 +34,7 @@
   "metaDescription": "How to choose a web host: renewal, the 48-month cycle, server location and VPS. Hostinger's international prices in US dollars on October 30, 2026, with the renewal next to each one.",
   "publishedAt": "October 30, 2026",
   "publishedAtISO": "2026-10-30",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -63,7 +64,7 @@
       "bullets": [
         "**Renewal.** Hostinger shows each plan's renewal price on the card. Read it before the promotional price.",
         "**Cycle.** Hostinger's promotional price applies to the 48-month plan. The total of one term does not compare with the total of another. Per month, it does.",
-        "**Server in the country.** The Hostinger plan pages do not say where the server is. If that matters to you, ask support before you buy.",
+        "**Server in the country.** Hostinger has data centers in Europe, Asia, North America and South America. The list depends on the plan and on availability, so check it when you sign up.",
         "**VPS.** If the site needs guaranteed processor and memory, the comparison is different, further down."
       ]
     },
@@ -129,7 +130,7 @@
       "bullets": [
         "**Storage.** The entry plan, Premium, has 20 GB of SSD. NVMe, at 50 GB, starts on Unlimited.",
         "**Backup.** Premium has weekly backups; Unlimited, daily. Before you choose, check that the backup you need is in the plan you want.",
-        "**Server location.** The pages do not say where the server is. If that matters to you, ask support before you buy.",
+        "**Server location.** Data centers run from Europe to South America, depending on the plan and availability. Check the list when you sign up.",
         "**Renewal in the cart.** Before you pay, read the renewal price in the cart, not only the promotional monthly price.",
         "**Refunds.** Read the refund policy before you buy. How Hostinger charges, renews and refunds is covered in [Is Hostinger legit?](/en/reviews/is-hostinger-legit)."
       ]
@@ -192,7 +193,7 @@
         "Which web host is better? It depends on how many sites you have and on whether the promotion or the renewal matters more to you. Compare the renewal, the cycle, the server's country and the VPS, as above.",
         "Which Hostinger plan renews for the least? Premium, at US$10.99 a month on the international site, after a 48-month promotion at US$2.49.",
         "Is a Hostinger VPS worth it? It depends on the load the site puts on it. Compare vCPU, memory and renewal: KVM 1 renews at US$11.99 a month on the international site.",
-        "Does Hostinger say where its servers are? The plan pages do not say where the server is. Ask support before you buy.",
+        "Does Hostinger say where its servers are? Yes. Its official list names data centers in Europe, Asia, North America and South America for web, cloud and VPS plans, subject to availability. Email is stored separately, in France and Germany.",
         "Does the SONAR20 code work on the VPS? Yes, it works on the VPS; check in the cart. We tested it on the e-commerce Startup plan, from the store builder, and it gave 20% off the first period.",
         "Can you switch hosts without losing the site? Yes, by moving the files and the database to the new host. Do the move before the old plan expires.",
         "Does SONAR20 work for people who are already Hostinger customers? Yes, on a new purchase: if you already have an account and buy a new plan or product, you also get the 20%. The renewal of a plan you already have is charged at the list price, with no discount."

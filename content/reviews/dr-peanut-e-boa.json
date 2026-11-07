@@ -17,6 +17,7 @@
   "metaDescription": "O DREMCASACOMCECILIA dá 10% OFF na Dr. Peanut: a pasta de amendoim, o whey e os snacks pelo rótulo, o preço por 100 g e para quem a marca compensa.",
   "publishedAt": "3 de novembro de 2026",
   "publishedAtISO": "2026-11-03",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/dr-peanut/dr-peanut-e-boa-capa.webp",
@@ -27,7 +28,7 @@
     {
       "heading": "Resposta rápida",
       "paragraphs": [
-        "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. O que muda a escolha é a lactose em toda a linha e o glúten do whey e dos snacks; os capítulos abaixo mostram cada rótulo e qual formato compensa."
+        "Pelo rótulo, é: a pasta leva amendoim e proteína do soro do leite, sem adição de açúcares, e o whey entrega 20 g de proteína por dose. A lactose pesa em tudo o que publica aviso, da pasta ao wafer, e o glúten no whey e em parte dos snacks; o alfajor não publica aviso. Os capítulos abaixo mostram cada rótulo."
       ]
     },
     {
@@ -112,7 +113,7 @@
     {
       "heading": "Doctor Bar, alfajor e Doctor Wafer",
       "paragraphs": [
-        "Entre os três, só a Doctor Bar é snack de proteína; o alfajor e o wafer são o doce da linha. A barra traz 21 g por unidade, contra menos de 6 g dos outros dois."
+        "Entre os três, só a Doctor Bar é snack de proteína; o alfajor e o wafer são o doce da linha. A barra traz 21 g por unidade, contra até 6 g dos outros dois."
       ],
       "comparisonTable": {
         "headers": [
@@ -175,8 +176,8 @@
       "bullets": [
         "Vale para quem escolhe pasta de amendoim pelo rótulo: sem açúcar adicionado, com a proteína e os polióis declarados, e aceita lactose na lista.",
         "Vale para quem já compra a pasta e quer o whey na mesma loja, com um cupom que vale em todo o site e soma com as promoções.",
-        "Não vale para quem precisa evitar lactose: as pastas, o whey, a Doctor Bar e o wafer declaram que contêm, e a loja não tem versão sem lactose.",
-        "Não vale para quem precisa evitar glúten e quer o whey ou os snacks: só a pasta diz que não contém.",
+        "Não vale para quem precisa evitar lactose: as pastas, o whey, a Doctor Bar Avelã e o wafer Avelã declaram que contêm, e a loja não tem versão sem lactose; no alfajor, confira a embalagem.",
+        "Não vale para quem precisa evitar glúten e quer o whey, a Doctor Bar Avelã ou o wafer Avelã, que dizem conter; o alfajor não publica aviso, então confira a embalagem. Só a pasta diz que não contém.",
         "Não vale para quem quer uma resposta sobre dieta: o rótulo dá os números, e a resposta é do nutricionista."
       ],
       "emphasis": "Se é para conhecer a marca por um produto só, que seja a pasta: é onde o rótulo mostra tudo, do ingrediente ao poliol, e o whey e os snacks vêm depois."
@@ -201,8 +202,8 @@
       "Você compra pasta de 250 g todo mês: a assinatura com o cupom é o menor preço por 100 g dos potes pequenos."
     ],
     "skipIf": [
-      "Você precisa evitar lactose: as pastas, o whey, a Doctor Bar e o wafer declaram que contêm, e a loja não tem versão sem lactose.",
-      "Você precisa evitar glúten e quer o whey ou os snacks: só a pasta diz que não contém.",
+      "Você precisa evitar lactose: as pastas, o whey, a Doctor Bar Avelã e o wafer Avelã declaram que contêm, e a loja não tem versão sem lactose; no alfajor, confira a embalagem.",
+      "Você precisa evitar glúten e quer o whey, a Doctor Bar Avelã ou o wafer Avelã, que dizem conter: só a pasta diz que não contém, e o alfajor não publica aviso.",
       "Você quer saber se cabe na sua dieta: o rótulo dá os números, e a resposta é do nutricionista."
     ]
   },

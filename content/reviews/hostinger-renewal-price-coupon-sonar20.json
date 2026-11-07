@@ -34,6 +34,7 @@
   "metaDescription": "The SONAR20 code gives 20% off a new Hostinger plan; renewal is charged at the list price. See what each plan costs to renew, plus the refund rules.",
   "publishedAt": "November 5, 2026",
   "publishedAtISO": "2026-11-05",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -176,7 +177,7 @@
         "27 days before the due date, on a domain."
       ],
       "postParagraphs": [
-        "The date can vary a little. If one day or less is left before renewal, it does not go through on its own in that cycle: you have to renew by hand. Keep funds on the payment method around those dates.",
+        "The date can vary a little. If you turn on auto-renewal when one day or less is left before the due date, it does not go through on its own in that cycle: you have to renew by hand. Check the status and date in the panel, and keep funds on the payment method around those dates.",
         "To renew by hand at any time, open Billing, then Subscriptions, and click renew next to the service. The renewal price, before taxes, shows there, in the renewal price column. When the plan is close to expiring, its card in the websites area of the panel shows the date and the renew button."
       ],
       "image": {
@@ -227,7 +228,7 @@
     {
       "heading": "The domain is left out",
       "paragraphs": [
-        "The domain has no refund on renewal and does not take SONAR20 either, so it calls for a separate decision. Its renewal has its own toggle, in the domains area of the panel, and is charged 27 days before it is due. Only a new registration has a short refund window, of 96 hours; renewal has none.",
+        "The domain has no refund on renewal and does not take SONAR20 either, so it calls for a separate decision. Its renewal has its own toggle, in the domains area of the panel, and is charged 27 days before it is due. Only a new registration has a short refund window, of 96 hours in general, depending on the extension; renewal has none.",
         "Decide on the domain before that charge: check the price, check whether it has to stay with this registrar and only then let it renew. The paths for registering, transferring or leaving the domain out are in [domain at Hostinger](/en/reviews/hostinger-domain-buy-transfer-or-elsewhere)."
       ]
     },

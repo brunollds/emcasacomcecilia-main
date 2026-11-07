@@ -34,6 +34,7 @@
   "metaDescription": "Mejor VPS para OpenClaw sin RAM mínima oficial: el KVM para cada escenario, con modelo en la nube o local.",
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -45,7 +46,7 @@
     {
       "heading": "Respuesta rápida",
       "paragraphs": [
-        "Con el modelo de IA en el proveedor, por tu clave de API o los créditos de IA de Hostinger, el KVM 1, con 4 GB, es el punto de partida. Con un modelo local, la documentación pide 8 GiB, y el KVM 4, con 16 GB, es el primero con margen. Si no quieres ocuparte de un servidor, mira la opción gestionada, más abajo."
+        "Con el modelo de IA en el proveedor, por tu clave de API o los créditos de IA de Hostinger, el KVM 1, con 4 GB, es el punto de partida. Con un modelo local, la receta más pequeña pide 8 GiB, y el KVM 4, con 16 GB, es el primero con margen. Si no quieres ocuparte de un servidor, mira la opción gestionada, más abajo."
       ]
     },
     {
@@ -55,7 +56,7 @@
         "Las páginas oficiales de instalación y de modelos locales dicen lo siguiente:"
       ],
       "bullets": [
-        "**Versión de Node.** OpenClaw pide Node 24.16 o más reciente, o Node 26.1 o más reciente. Node es el programa que ejecuta OpenClaw, y la instalación por npm exige esa versión. La página recomienda Node 26. Si Node no está instalado, el instalador oficial trae la versión (Node 26 en macOS y Node 24 LTS en Linux).",
+        "**Versión de Node.** La versión estable de OpenClaw pide Node 24.22.1 o más reciente en la línea 24, o Node 26.12.1 o más reciente; Node 25 no es compatible. Node es el programa que ejecuta OpenClaw, y la instalación por npm exige esa versión. La página recomienda Node 26. Si Node no está instalado, el instalador oficial trae la versión (Node 26 en macOS y Node 24 LTS en Linux).",
         "**Modelo local.** Para la receta más pequeña que ofrece la propia documentación, el piso es de 8 GiB de memoria del host, con un contexto de 64K. La página dice que esos pisos \"no garantizan que el modelo quepa ni que funcione con velocidad\".",
         "**VPS de Hostinger.** Hostinger instala OpenClaw en el VPS con Docker, un programa que ejecuta cada aplicación aislada dentro de un contenedor. El VPS es un servidor virtual alquilado; con acceso root, tienes control total sobre él."
       ],
@@ -143,9 +144,9 @@
         ]
       },
       "bullets": [
-        "**KVM 1 (4 GB).** Punto de partida para el escenario de clave de API o créditos. Para un modelo local, queda por debajo del piso oficial.",
+        "**KVM 1 (4 GB).** Punto de partida para el escenario de clave de API o créditos. Para un modelo local, queda por debajo del piso de 8 GiB de la receta más pequeña.",
         "**KVM 2 (8 GB).** Con clave de API, sobra margen. Con un modelo local, queda en el límite del piso, sin margen para el sistema.",
-        "**KVM 4 (16 GB).** Es el primer plan con margen por encima del piso oficial de 8 GiB. La documentación no dice cuánto rinde con un modelo local.",
+        "**KVM 4 (16 GB).** Es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña. La documentación no dice cuánto rinde con un modelo local.",
         "**KVM 8 (32 GB).** Tiene sentido solo con un modelo local más grande. La documentación no dice cuánta memoria pide cada receta grande."
       ],
       "postParagraphs": [
@@ -218,7 +219,7 @@
       ],
       "bullets": [
         "Modelo en la nube, por la clave de API o los créditos de IA de Hostinger: KVM 1, con 4 GB, como punto de partida.",
-        "Modelo local: KVM 4, con 16 GB, el primer plan con margen por encima del piso oficial de 8 GiB. El KVM 8, con 32 GB, tiene sentido solo con un modelo local más grande.",
+        "Modelo local: KVM 4, con 16 GB, el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña; el resultado depende del modelo y del contexto. El KVM 8, con 32 GB, tiene sentido solo con un modelo local más grande.",
         "Si no quieres ocuparte de un servidor: la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
         "Para probar sin pagar: Oracle Always Free, sabiendo que Oracle puede recuperar una instancia inactiva."
       ]
@@ -233,9 +234,9 @@
     {
       "heading": "Preguntas frecuentes",
       "bullets": [
-        "¿Cuál es el servidor mínimo para OpenClaw? La documentación oficial no publica mínimos de RAM, CPU ni disco; exige Node 24.16 o más reciente (o 26.1). Con clave de API o créditos, el KVM 1 es el punto de partida. Con modelo local, el piso es de 8 GiB, y el KVM 4 es el primero con margen.",
+        "¿Cuál es el servidor mínimo para OpenClaw? La documentación oficial no publica mínimos de RAM, CPU ni disco; en la versión estable exige Node 24.22.1 o más reciente (o 26.12.1). Con clave de API o créditos, el KVM 1 es el punto de partida. Con modelo local, el piso de 8 GiB vale solo para la receta más pequeña, y el KVM 4 es el primero con margen para ella.",
         "¿Se puede usar sin clave de API? Sí, con un modelo local, pero entonces la memoria es el problema: la documentación da 8 GiB como piso de su receta local más pequeña, con un contexto de 64K, y advierte de que eso no garantiza que el modelo quepa ni que funcione bien. Con los créditos de Hostinger no necesitas una cuenta en un proveedor de IA, pero pagas por el uso.",
-        "¿Oracle es gratis de verdad? Sí, mientras la cuenta siga en Always Free: 2 OCPU y 12 GB en las A1 Arm, más las instancias Micro. Una instancia inactiva durante 7 días, con CPU, red y memoria por debajo del 20%, puede ser recuperada por Oracle.",
+        "¿Oracle es gratis de verdad? Sí, mientras la cuenta siga en Always Free: 2 OCPU y 12 GB en las A1 Arm, más las instancias Micro. Una instancia inactiva durante 7 días, con CPU (percentil 95) y red por debajo del 20% y, en las A1, también la memoria, puede ser recuperada por Oracle.",
         "¿Mac mini o VPS? Depende de si la computadora puede quedar encendida las 24 horas. Si puede, correrlo en casa elimina la mensualidad del servidor; si no puede, elige VPS o gestionado.",
         "¿Hay cupón de descuento de Hostinger para un VPS de OpenClaw? Sí: el código SONAR20, en el campo de cupón del carrito, da un 20% en el primer período. Los 20 % se aplican a toda compra nueva; la renovación se cobra al precio de lista, sin descuento.",
         "¿El SONAR20 vale para quien ya es cliente de Hostinger? Sí, en compra nueva: quien ya tiene cuenta y contrata un plan o producto nuevo también obtiene el 20 %. La renovación de un plan que ya tienes se cobra al precio de lista, sin descuento."
@@ -273,10 +274,10 @@
   "decision": {
     "takeIf": [
       "Elige el KVM 1, con 4 GB, si el modelo de IA queda en el proveedor, por la clave de API o los créditos de IA de Hostinger.",
-      "Elige el KVM 4, con 16 GB, si vas a correr un modelo local: es el primer plan con margen por encima del piso oficial de 8 GiB."
+      "Elige el KVM 4, con 16 GB, si vas a correr un modelo local: es el primer plan con margen por encima del piso de 8 GiB de la receta local más pequeña."
     ],
     "skipIf": [
-      "Descarta el KVM 1 si vas a correr un modelo local: 4 GB queda por debajo del piso oficial.",
+      "Descarta el KVM 1 si vas a correr un modelo local: 4 GB queda por debajo del piso de 8 GiB de la receta local más pequeña.",
       "Descarta el VPS si no quieres ocuparte de un servidor: mira la opción gestionada, en la que Hostinger instala y actualiza el asistente.",
       "Descarta el KVM 8 si no vas a usar un modelo local más grande."
     ]

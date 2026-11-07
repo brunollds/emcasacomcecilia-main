@@ -17,6 +17,7 @@
   "metaDescription": "O código MAUAD dá 10% OFF no panetone da Belive. Chocolate e frutas pelo rótulo: ingredientes, tabela nutricional, o que é o chocotone e o preço dos kits.",
   "publishedAt": "4 de novembro de 2026",
   "publishedAtISO": "2026-11-04",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": true,
   "image": "/images/reviews/belive/panetone-belive-e-bom-capa.webp",
@@ -118,7 +119,7 @@
     {
       "heading": "Os kits: quanto custa cada panetone",
       "paragraphs": [
-        "O kit não dá desconto: ele custa, em lista, o mesmo que três panetones avulsos. Vale pelo frete e por juntar os dois sabores numa caixa só, como mostra o próximo capítulo."
+        "O kit não dá desconto: ele custa, em lista, o mesmo que três panetones avulsos. Vale por ajudar no frete e por juntar os dois sabores numa caixa só, como mostra o próximo capítulo."
       ],
       "comparisonTable": {
         "headers": [
@@ -156,14 +157,14 @@
         "caption": "Preço de lista do site em 03/11, sem o código. No dia, a loja vendia os cinco com desconto de promoção, e o preço riscado da página é o desta tabela."
       },
       "postParagraphs": [
-        "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o kit sai igual ao avulso, em lista e na oferta. O que o kit faz é fechar o carrinho acima do frete grátis e trazer os dois sabores na mesma caixa, no kit misto. Para um panetone só, compre o avulso."
+        "Conta nossa: pelos preços de lista da tabela, três avulsos custam o mesmo que o kit. Por panetone, o kit sai igual ao avulso, em lista e na oferta. O que o kit faz é aproximar o carrinho do frete grátis, desde que o subtotal efetivo, com a promoção do dia, passe do limite da sua região, e trazer os dois sabores na mesma caixa, no kit misto. Para um panetone só, compre o avulso."
       ]
     },
     {
       "heading": "Quanto custa com o código, e o frete",
       "paragraphs": [
         "Com o código da Belive, o panetone sai 10% mais barato, em todas as formas de pagamento, e o desconto soma com a promoção do dia e com os 5% do Pix. O código vai no campo \"Código do cupom\" do carrinho, e a página do [cupom Belive](/cupons/belive) tem o passo a passo e as regras.",
-        "O frete é o que decide entre o avulso e o kit. O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o valor que conta é o do carrinho antes do código. Um panetone avulso não zera o frete em lugar nenhum. O kit passa da faixa dos cinco estados e zera o frete neles; no Sul e no resto do país, ele pede mais itens no carrinho. Para completar, os doces, os pães e os salgadinhos da marca estão no guia [Belive é boa?](/reviews/belive-e-boa), e quem compra pela primeira vez na loja confere CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
+        "O frete é o que decide entre o avulso e o kit. O frete grátis muda por região: acima de R$ 170 em SP, MG, RJ, DF e GO, acima de R$ 250 no Sul e acima de R$ 300 nos demais estados, e o valor que conta é o do carrinho antes do código. Um panetone avulso não zera o frete em lugar nenhum. Pelo preço de lista, o kit passa da faixa dos cinco estados; ele zera o frete neles se o subtotal do carrinho, com a promoção do dia e antes do código, ficar acima de R$ 170. No Sul e no resto do país, ele pede mais itens no carrinho. Para completar, os doces, os pães e os salgadinhos da marca estão no guia [Belive é boa?](/reviews/belive-e-boa), e quem compra pela primeira vez na loja confere CNPJ, trocas e frete em [Belive é confiável?](/reviews/belive-e-confiavel)."
       ]
     },
     {

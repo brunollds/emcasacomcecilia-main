@@ -34,6 +34,7 @@
   "metaDescription": "Hostinger su Trustpilot (24 ottobre 2026): TrustScore 4,6 su 73.411 recensioni, 99% delle negative con risposta, fatturazione e rinnovo tra i reclami principali. Scopri come disattivare il rinnovo.",
   "publishedAt": "19 ottobre 2026",
   "publishedAtISO": "2026-10-19",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -45,7 +46,7 @@
     {
       "heading": "Risposta rapida",
       "paragraphs": [
-        "Sì, con riserva. Il 24 ottobre 2026 la Hostinger aveva un TrustScore di 4,6 su 73.411 recensioni su Trustpilot e aveva risposto al 99% di quelle negative. L’azienda invita i clienti a recensire, e così alza la media, e i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo. Sull’hosting la fatturazione chiede attenzione al rinnovo automatico; più sotto trovi come disattivarlo. Il 20% sul primo periodo arriva dal [coupon SONAR20 della Hostinger](/it/coupons/hostinger)."
+        "Sì, con riserva. Il 24 ottobre 2026 la Hostinger aveva un TrustScore di 4,6 su 73.411 recensioni su Trustpilot e aveva risposto al 99% di quelle negative. L’azienda invita i clienti a recensire, e così può alzare la media, e i reclami più citati riguardano il supporto con l’IA, la fatturazione e il rinnovo. Sull’hosting la fatturazione chiede attenzione al rinnovo automatico; più sotto trovi come disattivarlo. Il 20% sul primo periodo arriva dal [coupon SONAR20 della Hostinger](/it/coupons/hostinger)."
       ]
     },
     {
@@ -170,7 +171,7 @@
         ]
       },
       "postParagraphs": [
-        "Primo, le recensioni a cinque stelle arrivano molto più in fretta, e quasi tutte per invito: 100 in circa cinque giorni, 78 delle quali invitate. Quelle a una stella impiegano circa 18 giorni a raggiungere 100, e 92 sono spontanee. La nostra lettura: l’invito alza la media. Il punteggio misura i clienti che sono stati invitati e hanno risposto, non tutti i clienti.",
+        "Primo, le recensioni a cinque stelle arrivano molto più in fretta, e quasi tutte per invito: 100 in circa cinque giorni, 78 delle quali invitate. Quelle a una stella impiegano circa 18 giorni a raggiungere 100, e 92 sono spontanee. I due campioni coprono periodi diversi, quindi non misurano quanto gli inviti spostino il punteggio complessivo. Mostrano solo che le recensioni a cinque stelle vengono soprattutto da clienti invitati e quelle a una stella da clienti che hanno scritto di propria iniziativa.",
         "Secondo, le recensioni a una stella sono quasi quattro volte più lunghe. Descrivono un problema concreto, con date, prodotti e importi. Quelle a cinque stelle sono di solito una frase.",
         "Terzo, una recensione a una stella su sette del nostro campione è un elogio con il voto sbagliato: 14 delle 100 hanno un testo positivo, come «Great hosting» o «easy to use», sotto una stella. Anche così, il 6,9% di 73.411 sono circa 5.100 persone molto insoddisfatte. La quota è piccola; il numero di persone no."
       ]
@@ -207,17 +208,17 @@
     {
       "heading": "Come disattivare il rinnovo automatico",
       "paragraphs": [
-        "Secondo il centro assistenza della Hostinger, consultato il 19 ottobre 2026, il percorso è questo:"
+        "Secondo il centro assistenza della Hostinger, il percorso è questo:"
       ],
       "bullets": [
-        "Nell’area di fatturazione del tuo account, apri la sezione delle fatture.",
-        "Vai alla lista dei servizi o degli abbonamenti.",
-        "Apri il menu a tre puntini accanto al prodotto.",
-        "Entra nelle impostazioni di rinnovo del prodotto.",
-        "Disattiva il rinnovo automatico e salva la modifica."
+        "In hPanel, apri il tuo profilo ed entra in Fatturazione (Billing).",
+        "Scegli Abbonamenti (Subscriptions).",
+        "Trova il servizio che vuoi modificare.",
+        "Clicca l’interruttore accanto al servizio: si apre una pagina con i rischi e gli avvisi per quel tipo di prodotto.",
+        "Leggi le informazioni e conferma la scelta."
       ],
       "postParagraphs": [
-        "Con l’opzione disattivata, il prodotto resta attivo fino alla data di scadenza. Per riattivarla serve un metodo di pagamento registrato. Il centro assistenza dice anche che, se il rinnovo è a un giorno o meno dalla scadenza, bisogna rinnovare manualmente prima di riattivare l’opzione. I nomi dei menu possono cambiare; in quel caso, cerca «rinnovo automatico» nell’area di fatturazione."
+        "Con l’opzione disattivata, il prodotto resta attivo fino alla data di scadenza. Per riattivarla, clicca di nuovo sullo stesso interruttore. Disattivarla non rimborsa gli addebiti già elaborati. I nomi dei menu possono cambiare; in quel caso, cerca «rinnovo automatico» nell’area di fatturazione."
       ]
     },
     {
@@ -238,7 +239,7 @@
     {
       "heading": "Ci si può fidare della Hostinger?",
       "paragraphs": [
-        "Secondo Trustpilot, sì. Il punteggio era 4,6 su 73.411 recensioni, con l’87,1% di cinque stelle, e l’azienda ha risposto al 99% delle negative, cioè a 80 degli 86 reclami del nostro campione.",
+        "Secondo Trustpilot, sì. Il punteggio era 4,6 su 73.411 recensioni, con l’87,1% di cinque stelle. Il profilo indica che l’azienda risponde al 99% delle negative; nel nostro campione, 80 degli 86 reclami avevano una risposta, circa il 93%.",
         "La riserva riguarda il modo in cui il punteggio è costruito e che cosa dicono i reclami. Il profilo è gestito dall’azienda, che invita i clienti a recensire: nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. I reclami si concentrano sul supporto con l’IA senza modo di parlare con una persona, su fatturazione e rinnovo, e sui domini.",
         "In pratica: controlla la data di rinnovo, disattiva il rinnovo automatico se non vuoi continuare e leggi alcune recensioni a una stella e le risposte sul profilo prima di comprare, perché i numeri cambiano ogni mese."
       ]
@@ -250,21 +251,21 @@
         "Le recensioni Hostinger su Trustpilot sono affidabili? Il profilo è rivendicato e gestito dall’azienda, che invita i clienti a recensire. Nel nostro campione, 78 delle 100 recensioni a cinque stelle più recenti erano invitate, e 92 delle 100 recensioni a una stella più recenti erano spontanee. Trustpilot dice che non verifica le recensioni una per una.",
         "Di cosa si lamentano i clienti Hostinger su Trustpilot? Negli 86 reclami letti tra le 100 recensioni a una stella più recenti, i temi principali erano il supporto con l’IA e l’impossibilità di parlare con una persona (circa 45), la fatturazione e il rinnovo (circa 38) e i domini (circa 27).",
         "La Hostinger risponde alle recensioni negative? Sì. La pagina dice che l’azienda risponde al 99% delle recensioni negative, di solito entro 24 ore, e che può usare l’IA nelle risposte. Nel nostro campione, 80 degli 86 reclami avevano una risposta.",
-        "Come disattivo il rinnovo automatico della Hostinger? Nell’area di fatturazione, vai ai servizi, apri il menu a tre puntini del prodotto, entra nelle impostazioni di rinnovo, disattiva il rinnovo automatico e salva. Il prodotto resta attivo fino alla scadenza.",
-        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
+        "Come disattivo il rinnovo automatico della Hostinger? In hPanel, apri il tuo profilo, vai su Fatturazione e poi su Abbonamenti, trova il servizio e clicca l’interruttore accanto. Leggi gli avvisi e conferma. Il prodotto resta attivo fino alla scadenza.",
+        "SONAR20 vale per chi è già cliente di Hostinger? Sì, sugli acquisti nuovi: chi ha già un account e sottoscrive un piano o un prodotto nuovo ottiene comunque il 20%, tranne sulla registrazione di domini. Il rinnovo di un piano che hai già si paga al prezzo di listino, senza sconto."
       ]
     },
     {
       "heading": "Se hai già deciso",
       "paragraphs": [
-        "Se hai deciso di acquistare, usa il codice **SONAR20** nel campo coupon del carrello: 20% sul primo periodo. La [pagina Hostinger](/it/coupons/hostinger) mostra i dettagli. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino. Leggi l’[articolo sul coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) mostra il conto con il codice, e l’[articolo sull’affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell’azienda."
+        "Se hai deciso di acquistare, usa il codice **SONAR20** nel campo coupon del carrello: 20% sul primo periodo. La [pagina Hostinger](/it/coupons/hostinger) mostra i dettagli. I 20% valgono sull’acquisto nuovo di piani e prodotti, esclusa la registrazione di domini; il rinnovo si paga al prezzo di listino. Leggi l’[articolo sul coupon SONAR20](/it/reviews/coupon-hostinger-codice-invito). Se il tuo dubbio è il Black Friday, la [guida della campagna](/it/reviews/black-friday-hostinger-offerte) mostra il conto con il codice, e l’[articolo sull’affidabilità](/it/reviews/hostinger-e-affidabile) tratta di rimborso e sicurezza dell’azienda."
       ]
     }
   ],
   "pros": [],
   "cons": [],
   "cta": {
-    "text": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono su ogni acquisto nuovo; il rinnovo si paga al prezzo di listino, senza sconto.",
+    "text": "Se hai già deciso, usa il codice SONAR20 nel carrello, oppure entra dal link: 20% sul primo periodo. I 20% valgono sull’acquisto nuovo di piani e prodotti, esclusa la registrazione di domini; il rinnovo si paga al prezzo di listino, senza sconto.",
     "label": "Vedi i piani scontati",
     "url": "https://www.hostinger.com/?REFERRALCODE=SONAR20",
     "sponsored": true

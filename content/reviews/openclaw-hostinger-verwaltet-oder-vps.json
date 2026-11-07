@@ -34,6 +34,7 @@
   "metaDescription": "Verwaltet oder VPS für OpenClaw bei Hostinger: KI-Guthaben, Telegram und WhatsApp, und wer sich um den Server kümmert.",
   "publishedAt": "21. Oktober 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "image": "/images/reviews/hostinger/openclaw-hostinger-gerenciado-ou-vps-capa-discover.webp",
@@ -87,7 +88,7 @@
           ],
           [
             "Root-Zugriff",
-            "Die Seite spricht vom Zugang zur Kommandozeile, ohne Root zu nennen",
+            "Nein",
             "Ja"
           ],
           [
@@ -117,7 +118,7 @@
       "bullets": [],
       "postParagraphs": [
         "Der Tarif ist nicht alles: Die KI-Nutzung kommt extra. Mit dem Guthaben von Hostinger bringt der verwaltete Tarif ein Startguthaben mit, und was darüber hinausgeht, wird nach Verbrauch berechnet. Der Preis für Aufladungen steht auf keiner öffentlichen Seite, prüfen Sie ihn daher im Dashboard, bevor Sie damit rechnen. Mit eigenem Schlüssel rechnet der Anbieter (OpenAI, Anthropic oder ein anderer) die Nutzung direkt mit Ihnen ab, je nach Modell und Gesprächsmenge.",
-        "Für die verwaltete Option gilt eine Frist von 30 Tagen, um eine Erstattung zu verlangen. Beim VPS gelten die 30 Tage nur, wenn der letzte VPS-Erstattungsantrag mehr als 180 Tage zurückliegt. Ein VPS mit 12 Monaten Laufzeit oder mehr enthält im ersten Jahr eine kostenlose .cloud- oder .tech-Domain."
+        "Für die verwaltete Option gilt eine Frist von 30 Tagen, um eine Erstattung zu verlangen. Beim VPS gelten die 30 Tage nur, wenn seit dem Abschluss Ihrer letzten VPS-Erstattung 180 Tage vergangen sind, falls es eine gab; Ausnahmen finden Sie in der Erstattungsrichtlinie von Hostinger. Ein VPS mit 12 Monaten Laufzeit oder mehr enthält im ersten Jahr eine kostenlose .cloud- oder .tech-Domain."
       ]
     },
     {
@@ -144,10 +145,10 @@
       "heading": "Sicherheit: wann sich die Entscheidung ändert",
       "paragraphs": [
         "Die Frage ist, wer die Daten und Zugangsdaten betreut. Beim verwalteten Tarif sagt Hostinger, dass jede Instanz isoliert in einem Container mit eigenem Sicherheitsgateway läuft. Das ist die Beschreibung von Hostinger, kein eigener Test. Beim VPS sagt Hostinger selbst, dass bei Root-Zugriff Konfiguration, Updates und Sicherheit bei dem liegen, der den Server gebucht hat.",
-        "Die Sicherheitsrichtlinie von OpenClaw besagt, dass das Tool für eine vertrauenswürdige Person gedacht ist, nicht für mehrere Personen, die sich nicht kennen: Wer mit dem Assistenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Das ändert die Wahl in drei Fällen:"
+        "Die Dokumentation von OpenClaw besagt, dass jedes Gateway eine einzige Vertrauensgrenze bildet: Es passt für eine Person oder ein Team, dessen Mitglieder einander vertrauen, nicht für Personen, die einander nicht vertrauen. Wer mit dem Assistenten sprechen kann, kann ihn dazu bringen, seine Werkzeuge zu nutzen. Das ändert die Wahl in drei Fällen:"
       ],
       "bullets": [
-        "**Mehrere Personen nutzen den Assistenten** (Familie oder Team): Das Projekt empfiehlt einen Server pro Person. Beim VPS ist das unkompliziert; beim verwalteten Tarif fragen Sie Hostinger, wie viele Instanzen ein Konto haben kann.",
+        "**Mehrere Personen nutzen den Assistenten** (Familie oder Team): nur wenn alle einander vertrauen, denn alle teilen den Zugriff des Assistenten auf seine Werkzeuge; wer nicht vertraut, braucht einen eigenen Server. Beim VPS ist das unkompliziert; beim verwalteten Tarif fragen Sie Hostinger, wie viele Instanzen ein Konto haben kann.",
         "**Der Assistent bekommt Zugriff auf Ihre E-Mails, Ihre Bank oder andere Konten:** Das Projekt verlangt, dass auf dem Server keine privaten Konten angemeldet sind. Hostinger empfiehlt ein eigenes E-Mail-Postfach für den Assistenten.",
         "**Beim VPS bewahren Sie das Gateway-Token auf**, das die Installation erzeugt, und senden es nicht in einem Gespräch mit dem Assistenten."
       ]
@@ -225,7 +226,7 @@
     "skipIf": [
       "Lassen Sie den VPS aus, wenn Sie nicht wissen, was Root oder Docker ist: Das System zu aktualisieren und abzusichern liegt bei Ihnen.",
       "Lassen Sie die verwaltete Option aus, wenn Sie Root-Zugriff oder mehr Arbeitsspeicher und Speicherplatz brauchen.",
-      "Lassen Sie beide aus, wenn derselbe Assistent mehrere Personen bedienen soll: Das Projekt empfiehlt einen Server pro Person."
+      "Lassen Sie beide aus, wenn derselbe Assistent Personen bedienen soll, die einander nicht vertrauen: Das Projekt verlangt für jede einen eigenen Server."
     ]
   }
 }

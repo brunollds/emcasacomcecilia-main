@@ -34,6 +34,7 @@
   "metaDescription": "Gestionado o VPS para OpenClaw en Hostinger: créditos de IA, Telegram y WhatsApp, y quién se encarga del servidor.",
   "publishedAt": "21 de octubre de 2026",
   "publishedAtISO": "2026-10-21",
+  "updatedAt": "2026-11-07",
   "draft": false,
   "isNew": false,
   "hideFromPortugueseListings": true,
@@ -88,7 +89,7 @@
           ],
           [
             "Acceso root",
-            "La página habla de acceso a la línea de comandos, sin mencionar root",
+            "No",
             "Sí"
           ],
           [
@@ -118,7 +119,7 @@
       "bullets": [],
       "postParagraphs": [
         "El plan no es todo: el uso de la IA se cobra aparte. Con los créditos de Hostinger, el gestionado trae un saldo inicial, y lo que pase de ahí se cobra según el consumo. El precio de una recarga no aparece en ninguna página pública, así que revísalo en el panel antes de contar con él. Con tu propia clave, el proveedor (OpenAI, Anthropic u otro) te cobra directamente, según el modelo y el volumen de conversaciones.",
-        "El plan gestionado tiene 30 días para pedir el reembolso. En el VPS, los 30 días valen solo si el último reembolso de VPS se pidió hace más de 180 días. Un VPS de 12 meses o más incluye un dominio .cloud o .tech gratis el primer año."
+        "El plan gestionado tiene 30 días para pedir el reembolso. En el VPS, los 30 días valen solo cuando han pasado 180 días desde que se completó el último reembolso de VPS, si lo hubo; consulta las excepciones en la política de reembolso de Hostinger. Un VPS de 12 meses o más incluye un dominio .cloud o .tech gratis el primer año."
       ]
     },
     {
@@ -145,10 +146,10 @@
       "heading": "Seguridad: cuándo cambia la decisión",
       "paragraphs": [
         "La pregunta es quién cuida los datos y las credenciales. En el gestionado, Hostinger dice que cada instancia se ejecuta aislada en un contenedor, con una pasarela de seguridad propia. Es la descripción de Hostinger, no una prueba nuestra. En el VPS, la propia Hostinger dice que, con acceso root, la configuración, las actualizaciones y la seguridad quedan a cargo de quien lo contrató.",
-        "La política de seguridad de OpenClaw dice que está pensado para una persona de confianza, no para varias personas que no se conocen: quien puede hablar con el asistente puede hacer que use sus herramientas. Eso cambia la elección en tres casos:"
+        "La documentación de OpenClaw dice que cada gateway es un único límite de confianza: sirve para una persona o para un equipo en el que todos confían entre sí, no para personas que no confían unas en otras. Quien puede hablar con el asistente puede hacer que use sus herramientas. Eso cambia la elección en tres casos:"
       ],
       "bullets": [
-        "**Más de una persona va a usar el asistente** (familia o equipo): el proyecto recomienda un servidor por persona. En el VPS, eso es directo; en el gestionado, pregúntale a Hostinger cuántas instancias puede tener una cuenta.",
+        "**Más de una persona va a usar el asistente** (familia o equipo): solo si todos confían entre sí, porque todos comparten el acceso del asistente a sus herramientas; quien no confía necesita un servidor aparte. En el VPS, eso es directo; en el gestionado, pregúntale a Hostinger cuántas instancias puede tener una cuenta.",
         "**El asistente va a tener acceso a tu correo, al banco o a otras cuentas:** el proyecto pide que el servidor no tenga cuentas personales con la sesión iniciada. Hostinger sugiere un buzón de correo aparte para el asistente.",
         "**En el VPS, guarda el token de la pasarela** que genera la instalación y no lo envíes en una conversación con el asistente."
       ]
@@ -225,7 +226,7 @@
     "skipIf": [
       "Descarta el VPS si no sabes qué es root ni Docker: actualizar y proteger el sistema queda de tu parte.",
       "Descarta el gestionado si necesitas acceso root o más memoria y disco.",
-      "Descarta ambos si el mismo asistente va a atender a varias personas: el proyecto recomienda un servidor por persona."
+      "Descarta ambos si el mismo asistente va a atender a personas que no confían entre sí: el proyecto pide un servidor aparte para cada una."
     ]
   }
 }

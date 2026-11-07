@@ -27,4 +27,5 @@ Controle da implementação das sugestões da [auditoria SEO](../auditoria-seo-2
 | Macro-PR | Recibo | Estado |
 |---|---|---|
 | 1 | [macro-1.md](macro-1.md) | publicado: #692, release `59d768d7` (07/11) |
-| 2 | [macro-2.md](macro-2.md) | validado (build ok), aguardando PR |
+| 2 | [macro-2.md](macro-2.md) | publicado: #694, release `fe3396c1` (07/11) |
+| 3 | [macro-3.md](macro-3.md) | validado (build ok), aguardando PR |
